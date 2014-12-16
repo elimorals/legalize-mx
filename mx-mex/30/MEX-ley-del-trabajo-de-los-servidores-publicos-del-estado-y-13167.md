@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2014-11-14"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -67,7 +67,9 @@ Para efectos de esta ley se entiende:
 
 I. Por servidor público, toda persona física que preste a una institución pública un trabajo personal subordinado de carácter material o intelectual, o de ambos géneros, mediante el pago de un sueldo;
 
-II. Por trabajador, la persona física que presta sus servicios, en forma subordinada, en el Subsistema Educativo Federalizado, mediante el pago de un sueldo o salario;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+II. Por trabajador, la persona física que presta sus servicios, en forma subordinada, en el Subsistema Educativo Estatal, mediante el pago de un sueldo o salario;
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -81,11 +83,17 @@ V. Por Tribunal, el Tribunal Estatal de Conciliación y Arbitraje;
 
 VI. Por Sala, a cualquiera de las Salas Auxiliares del Tribunal Estatal de Conciliación y Arbitraje.
 
+> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+VII. Por Sala Oral, cualquiera de las Salas Orales con las que contará el Tribunal y las Salas para su funcionamiento.
+
 Para los efectos de esta ley no se considerarán servidores públicos a las personas sujetas a un contrato civil o mercantil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
 
-La relación de trabajo entre las instituciones públicas y sus servidores públicos se entiende establecida mediante nombramiento, contrato o por cualquier otro acto que tenga como consecuencia la prestación personal subordinada del servicio y la percepción de un sueldo.
+La relación de trabajo entre las instituciones públicas y sus servidores públicos se entiende establecida mediante nombramiento, formato único de movimiento de personal, contrato o por cualquier otro acto que tenga como consecuencia la prestación personal subordinada del servicio y la percepción de un sueldo.
 
 Para los efectos de esta ley, las instituciones públicas estarán representadas por sus titulares.
 
@@ -101,7 +109,9 @@ Son servidores públicos generales los que prestan sus servicios en funciones op
 
 Se entiende por servidores públicos de confianza:
 
-I. Aquéllos cuyo nombramiento o ejercicio del cargo requiera de la intervención directa del titular de la institución pública o del órgano de gobierno;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+I. Aquéllos cuyo nombramiento o ejercicio del cargo requiera de la intervención directa del titular de la institución pública, del órgano de gobierno o de los Organismos Autónomos Constitucionales; siendo atribución de éstos su nombramiento o remoción en cualquier momento;
 
 II. Aquéllos que tengan esa calidad en razón de la naturaleza de las funciones que desempeñen y no de la designación que se dé al puesto.
 
@@ -131,15 +141,21 @@ VII. Representación, aquéllas que se refieren a la facultad legal de actuar a 
 
 VIII. Manejo de recursos, aquéllas que impliquen la facultad legal o administrativa de decidir o determinar su aplicación o destino.
 
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-Los servidores públicos de confianza quedan comprendidos en el presente ordenamiento en lo que hace a las medidas de protección al salario y los beneficios de la seguridad social que otorgue el Estado. Asimismo les será aplicable lo referente al sistema de profesionalización a que se refiere el Capítulo II del Título Cuarto de esta Ley, con excepción de aquéllos cuyo nombramiento o ejercicio del cargo requiera de la intervención directa de la institución pública o del órgano de gobierno, sean auxiliares directos de éstos, les presten asistencia técnica o profesional como asesores, o tengan la facultad legal de representarlos o actuar en su nombre.
+Los servidores públicos de confianza únicamente quedan comprendidos en el presente ordenamiento en lo que hace a las medidas de protección al salario y los beneficios de la seguridad social que otorgue el Estado.
 
-Quienes ocupen cargos de elección popular no serán sujetos de esta ley.
+Asimismo les será aplicable lo referente al sistema de profesionalización a que se refiere el Capítulo II del Título Cuarto de esta Ley, con excepción de aquéllos cuyo nombramiento o ejercicio del cargo requiera de la intervención directa de la institución pública o del órgano de gobierno, sean auxiliares directos de éstos, les presten asistencia técnica o profesional como asesores en cualquier nivel o tipo, o tengan la facultad legal de representarlos o actuar en su nombre.
 
 ###### Artículo 11.
 
 Los servidores públicos generales podrán ocupar puestos de confianza. Para este efecto, en caso de ser sindicalizados podrán renunciar a esa condición, o bien obtener licencia del sindicato correspondiente antes de ocupar dicho puesto.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+Para este efecto, en caso de ser sindicalizados deberán renunciar a esa condición, o bien obtener licencia del sindicato correspondiente con antelación para ocupar dicho puesto.
 
 ###### Artículo 12.
 
@@ -159,25 +175,29 @@ II. Cuando sea necesario realizar labores que se presentan en forma esporádica;
 
 III. Cuando aumenten las cargas de trabajo o haya rezago y se establezca un programa especial para desahogarlo, o para apoyar programas de inversión.
 
-El término máximo para el cual se podrá establecer una relación laboral por tiempo determinado será de un año, excepto cuando se trate de sustituir interinamente a otro servidor público o tratándose de programas con cargo a recursos de inversión. Pasado este término, si subsiste la naturaleza del trabajo y se cumple lo estipulado en esta ley y en las condiciones generales de trabajo de la institución pública, el servidor público sujeto a este tipo de relación, tendrá derecho a ocupar un puesto por tiempo indeterminado.
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+El término máximo para el cual se podrá establecer una relación laboral por tiempo determinado será de un año ininterrumpidamente, excepto cuando se trate de sustituir interinamente a otro servidor público o tratándose de programas con cargo a recursos de inversión y en los casos de terminación o conclusión de la administración en la que fue contratado el servidor público a que se refiere el artículo 8 de esta ley.
 
 ###### Artículo 15.
 
 Cuando se trate de una relación de trabajo por obra determinada, ésta durará hasta en tanto subsista la obra motivo del contrato.
 
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 16.
 
 Los integrantes de los cuerpos de seguridad pública y de tránsito estatales y municipales, se regirán en el desarrollo de sus actividades por sus propios ordenamientos.
-
-En todo caso se garantizarán los beneficios de seguridad social y las medidas de protección salarial que les correspondan.
 
 ###### Artículo 17.
 
 Los servidores públicos deberán ser de nacionalidad mexicana y sólo podrán ser extranjeros cuando no existan nacionales que puedan desarrollar el servicio de que se trate. La contratación de éstos será decidida por los titulares de las instituciones públicas oyendo al sindicato, en su caso.
 
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 18.
 
-Las actuaciones o certificaciones que se hicieren con motivo de la aplicación de la presente ley no causarán pago de derechos.
+Las Actuaciones que se hicieren con motivo de la aplicación de la presente ley, no causarán pago de derechos, a excepción de las copias simples o certificadas que requieran las partes, las cuales serán a su costa.
 
 ###### Artículo 19.
 
@@ -187,21 +207,25 @@ Lo no previsto en esta ley o en sus disposiciones reglamentarias se regulará po
 
 ### CAPITULO I. Generalidades
 
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 20.
 
-Para efectos de esta ley son integrantes del Sistema Educativo Estatal los servidores públicos docentes que prestan sus servicios en el Subsistema Educativo Estatal y los trabajadores de la educación que se desempeñan en el Subsistema Educativo Federalizado.
+Para efectos de esta ley son integrantes del Sistema Educativo Estatal los servidores públicos docentes que prestan sus servicios en el Subsistema Educativo Estatal.
 
 ###### Artículo 21.
 
-Cuando en el cuerpo de esta ley se mencione el término de servidor público general, se entenderá que también se refiere, en lo que les sea aplicable, a los trabajadores del Subsistema Educativo Federalizado.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 22.
 
-Este título regula las relaciones de trabajo entre el Poder Ejecutivo del Estado y los servidores públicos docentes del Subsistema Educativo Estatal, y entre el primero y los trabajadores del Subsistema Educativo Federalizado, independientemente de que, en lo que corresponda, se les apliquen las demás disposiciones de esta ley.
+Este título regula las relaciones de trabajo entre el Poder Ejecutivo del Estado y los servidores públicos docentes del Subsistema Educativo Estatal.
 
 ###### Artículo 23.
 
-Cuando en esta ley se enuncie el término institución pública, con respecto a los trabajadores del Subsistema Educativo Federalizado, se entenderá referido al organismo público descentralizado denominado Servicios Educativos Integrados al Estado de México, o a cualquier otro organismo auxiliar en el que presten sus servicios.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ### CAPITULO II. De los Servidores Públicos del Subsistema Educativo Estatal
 
@@ -209,7 +233,7 @@ Cuando en esta ley se enuncie el término institución pública, con respecto a 
 
 Los servidores públicos docentes o profesores del Subsistema Educativo Estatal son los servidores públicos generales que prestan servicios de docencia, investigación o difusión, o bien aquéllos que desempeñan funciones directivas o de supervisión en los planteles del propio Subsistema.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 25.
 
@@ -233,83 +257,81 @@ Los ascensos de los servidores públicos docentes del Subsistema Educativo Estat
 
 Los profesores del Subsistema Educativo Estatal podrán tener asignada otra plaza u horas clase en el mismo subsistema o en el federalizado, siempre y cuando los horarios establecidos para el desempeño de las mismas sean compatibles, de acuerdo a lo determinado en las condiciones generales de trabajo o en las disposiciones relativas.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ### CAPITULO III
 
 De los Trabajadores del Subsistema Educativo Federalizado.
 
 ###### Artículo 30.
 
-Este capítulo regula las relaciones de trabajo entre la institución pública a que se refiere el artículo 23 de esta ley, y los trabajadores del Subsistema Educativo Federalizado.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 31.
 
-Los trabajadores a que se refiere este capítulo se clasifican en dos grupos: de confianza y de base.
-
-I. Son trabajadores de confianza aquéllos a que se refieren los artículos 8 y 9 de esta ley; y
-
-II. Son trabajadores de base los no incluidos en los artículos señalados en la fracción anterior, agremiados al Sindicato Nacional de Trabajadores de la Educación y que prestan sus servicios en actividades de docencia, investigación y difusión o bien, aquéllos que desempeñan funciones directivas, de supervisión o inspección en los planteles del propio subsistema, así como los trabajadores que realizan tareas de apoyo y asistencia a la educación.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 32.
 
-Esta ley se aplicará en lo conducente a los trabajadores del Subsistema Educativo Federalizado sin menoscabo de los derechos que les confieren su régimen de regulación especial, los de organización colectiva, de huelga, de afiliación a su sindicato de carácter nacional, de la calidad de base de su nombramiento; de su derecho a la inamovilidad, a su régimen salarial y aguinaldo, de su jornada de trabajo, de su descanso semanal, de sus vacaciones, de su derecho a la capacitación y adiestramiento, así como de su propio régimen de seguridad social, prestaciones y servicios.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 33.
 
-Los trabajadores podrán ser designados en plazas de puestos específicos o bajo el sistema de horas clase-semana-mes; en ambos casos el nombramiento podrá ser por tiempo determinado, o por tiempo indeterminado, conforme a las necesidades del servicio.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 34.
 
-En el desarrollo de sus actividades los trabajadores se regirán por el "Reglamento de las Condiciones Generales de Trabajo del Personal de la Secretaría de Educación Pública".
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 35.
 
-Los ascensos de los trabajadores se regularán por el "Reglamento de Escalafón de los Trabajadores al Servicio de la Secretaría de Educación Pública".
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 36.
 
-Las plazas de última categoría de nueva creación o las disponibles en cada grupo, una vez corridos los escalafones respectivos con motivo de las vacantes que ocurrieren, se cubrirán en los términos que establece la Ley Federal de los Trabajadores al Servicio del Estado.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 37.
 
-Los trabajadores podrán tener asignada otra plaza u horas clase en el Subsistema Educativo Federalizado o en el Subsistema Educativo Estatal, siempre y cuando los horarios establecidos para el desempeño de sus funciones sean compatibles, de acuerdo a las disposiciones relativas, con excepción de aquéllos que tengan nombramiento anterior al 18 de mayo de 1992, en los términos del convenio suscrito en la misma fecha entre el Titular del Poder Ejecutivo del Estado y el Sindicato Nacional de Trabajadores de la Educación.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 38.
 
-Los trabajadores gozarán, de los beneficios establecidos en el "Acuerdo Nacional para la Modernización de la Educación Básica", en el "Reglamento de las Condiciones Generales de Trabajo del Personal de la Secretaría de Educación Pública", en el reglamento nacional de escalafón vigente, en los Convenios de fecha 18 de mayo de 1992, signados entre el Ejecutivo del Gobierno Estatal y el Sindicato Nacional de Trabajadores de la Educación, y entre las Secretarías de Hacienda y Crédito Público, Desarrollo Urbano y Ecología, Educación Pública, Gobierno del Estado de México e Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, así como de todos aquellos que se derivan de acuerdos, disposiciones o convenios que les sean propios.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 39.
 
-Los beneficios de la Seguridad Social le serán otorgados a los trabajadores por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de acuerdo con el convenio celebrado el primero de mayo de 1992, entre el Ejecutivo del Gobierno Federal, el Titular del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y el Ejecutivo del Gobierno del Estado.
-
-Cuando en el cuerpo de esta ley se haga referencia a las prestaciones médico asistenciales y sociales que otorga el Instituto de Seguridad Social para los Servidores Públicos del Estado y Municipios, así como a la calificación de riesgos de trabajo que deba realizar dicha institución, se tendrá como entendido, en lo que así corresponda a los trabajadores de la educación federalizados, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos de la ley de este instituto.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 40.
 
-Conforme lo dispuesto en los artículos anteriores, los acuerdos, convenios y reglamentos a que se hace referencia, así como las prestaciones y derechos de cualesquier naturaleza, serán de observancia general y obligatoria para el titular del Poder Ejecutivo, los titulares de las dependencias y de la institución o instituciones públicas a las que estén adscritos.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 41.
 
-Los trabajadores a que se refiere este capítulo tendrán derecho a un aguinaldo anual conforme lo establece el artículo 78 de esta ley, el que deberá pagárseles en dos entregas, la primera antes del día 15 de diciembre y la segunda a más tardar el día 15 de enero de cada año.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 42.
 
-Los procesos de movilidad interestatal de los trabajadores a que se refiere este capítulo se realizarán de conformidad a lo establecido en la cláusula séptima del Convenio celebrado el 18 de mayo de 1992 a que se refiere el artículo 38 de esta ley.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 43.
 
-Los conflictos inter o intrasindicales que se suscitaren entre los trabajadores del Subsistema Educativo Federalizado, se regularán conforme lo dispuesto por la Ley Federal de los Trabajadores al Servicio del Estado, y el órgano competente para conocer y, en su caso, resolver sobre los mismos será el Tribunal Federal de Conciliación y Arbitraje.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ###### Artículo 44.
 
-En la aplicación de los diversos ordenamientos que regulan la relación o condiciones de trabajo de los trabajadores del Subsistema Educativo Federalizado, se estará, siempre, a la disposición que más les favorezca.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
 
 ## TITULO TERCERO. De los Derechos y Obligaciones Individuales de los Servidores Públicos
 
 ### CAPITULO I. Del Ingreso al Servicio Público
 
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 45.
 
-Los servidores públicos prestarán sus servicios mediante nombramiento expedido por quien estuviere facultado legalmente para extenderlo. Cuando se trate de servidores públicos sujetos a una relación por tiempo u obra determinados, el nombramiento podrá ser sustituido por el contrato, o su inclusión en la nómina o lista de raya. La falta de formalización de la relación de trabajo será imputable a la institución o dependencia de que se trate.
+Los servidores públicos prestarán sus servicios mediante nombramiento, contrato o formato único de Movimientos de Personal expedidos por quien estuviere facultado legalmente para extenderlo.
 
 ###### Artículo 46.
 
@@ -351,7 +373,9 @@ La institución o dependencia que reciba un certificado en que conste que la per
 
 Para iniciar la prestación de los servicios se requiere:
 
-I. Tener conferido el nombramiento o contrato respectivo;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+I. Tener conferido el nombramiento, contrato respectivo o formato único de Movimientos de Personal;
 
 II. Rendir la protesta de ley en caso de nombramiento; y
 
@@ -359,9 +383,11 @@ III. Tomar posesión del cargo.
 
 ### CAPITULO II. De los Nombramientos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 49.
 
-Los nombramientos de los servidores públicos deberán contener:
+Los nombramientos, contratos o formato único de Movimientos de Personal de los servidores públicos deberán contener:
 
 I. Nombre completo del servidor público;
 
@@ -371,13 +397,21 @@ III. Carácter del nombramiento, ya sea de servidores públicos generales o de c
 
 IV. Remuneración correspondiente al puesto;
 
-V. Partida presupuestal a la que deberá cargarse la remuneración; y
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-VI. Firma del servidor público autorizado para emitir el nombramiento, así como el fundamento legal de esa atribución.
+V. Jornada de Trabajo;
+
+VI. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2014)
+
+> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+VII. Firma del servidor público autorizado para emitir el nombramiento, contrato o formato único de Movimientos de Personal, así como el fundamento legal de esa atribución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 50.
 
-El nombramiento aceptado obliga al servidor público a cumplir con los deberes inherentes al puesto especificado en el mismo y a las consecuencias que sean conforme a la ley, al uso y a la buena fe.
+El nombramiento, contrato o formato único de Movimientos de Personal aceptado obliga al servidor público a cumplir con los deberes inherentes al puesto especificado en el mismo y a las consecuencias que sean conforme a la ley, al uso y a la buena fe.
 
 Iguales consecuencias se generarán para todos los servidores públicos, cuando la relación de trabajo se formalice mediante un contrato o por encontrarse en lista de raya.
 
@@ -399,17 +433,21 @@ III. Permuta debidamente autorizada; o
 
 IV. Laudo del Tribunal.
 
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 53.
 
-Cuando se realice el cambio de adscripción de un servidor público que implique su traslado de una población a otra, la institución pública o dependencia en donde preste sus servicios, le dará a conocer previamente las causas del cambio y sufragará los gastos que por este motivo se originen conforme a las disposiciones reglamentarias respectivas, excepto cuando éste hubiere sido solicitado por el servidor público o se haya previsto así en el nombramiento o contrato respectivo, o bien en las condiciones generales de trabajo de la institución pública o dependencia correspondiente.
+Cuando se realice el cambio de adscripción de un servidor público que implique su traslado de una población a otra, la institución pública o dependencia en donde preste sus servicios, le dará a conocer con tres días de anticipación las causas del cambio y sufragará los gastos que por este motivo se originen conforme a las disposiciones reglamentarias respectivas, excepto cuando éste hubiere sido solicitado por el servidor público o se haya previsto así en el nombramiento o contrato respectivo, o bien en las condiciones generales de trabajo de la institución pública o dependencia correspondiente.
 
 ### CAPITULO III. De las Condiciones Generales de Trabajo
 
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 54.
 
-Cada institución pública o, en su caso, dependencia, en razón de la naturaleza de sus funciones, fijará las condiciones generales de trabajo aplicables a sus servidores públicos, de común acuerdo, con el sindicato, en caso de existir esta representación, las que tendrán una duración de tres años y podrán ratificarse o modificarse a su término.
+Cada institución pública o, en su caso, dependencia, en razón de la naturaleza de sus funciones, contará con un Reglamento de Condiciones Generales de Trabajo aplicables a los servidores públicos sindicalizados y generales. Las instituciones o dependencias públicas que no cuenten con documento que avale las condiciones generales de trabajo aplicables, deberán estar a lo establecido por esta ley, en caso de que el reglamento sea para sindicalizados se hará de común acuerdo con el sindicato, dichos reglamentos tendrán una duración de tres años y podrán ratificarse o modificarse a su término.
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+Los beneficios que se establezcan en los Reglamentos de Condiciones Generales de Trabajo y en los Convenios de Sueldo y Prestaciones, no serán extensivas a los servidores públicos de confianza, en virtud de que sus condiciones se encuentran establecidas en el contrato, nombramiento o formato único de movimiento de personal y en la Normatividad de cada institución pública.
 
 Asimismo, en las condiciones de trabajo queda prohibida toda discriminación por motivo de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias políticas, sexuales o estado civil, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
@@ -435,7 +473,9 @@ VI. Disposiciones que deban adoptarse para prevenir los riesgos de trabajo;
 
 VII. Disposiciones disciplinarias y la forma de aplicarlas;
 
-VIII. Fechas y condiciones en que los servidores públicos deben someterse a exámenes médicos previos y periódicos;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+VIII. Condiciones en que los servidores públicos deben someterse a exámenes médicos previos y periódicos;
 
 IX. Labores insalubres y peligrosas que no deban desempeñar los menores de edad y la protección que se dará a las servidoras públicas embarazadas; y
 
@@ -523,9 +563,13 @@ Durante los períodos de vacaciones se dejará personal de guardia para la trami
 
 En ningún caso, los servidores públicos que laboren en períodos vacacionales tendrán derecho a doble pago de sueldo.
 
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 68.
 
-Cuando por cualquier motivo el servidor público no pudiere hacer uso de alguno de los períodos vacacionales en los términos señalados, la institución pública estará obligada a concederlo dentro de los 12 meses siguientes a la fecha de dicho periodo. En ningún caso, el servidor público que no disfrutase de sus vacaciones podrá exigir el pago de sueldo doble sin el descanso correspondiente.
+Cuando por cualquier motivo el servidor público no pudiere hacer uso de alguno de los períodos vacacionales en los términos señalados, la institución pública estará obligada a concederlos a partir del día hábil siguiente de concluido dicho período.
+
+En ningún caso, el servidor público que no disfrutase de sus vacaciones podrá exigir el pago de sueldo doble sin el descanso correspondiente.
 
 ###### Artículo 69.
 
@@ -589,7 +633,9 @@ Cuando el sueldo base del servidor público exceda del doble del salario mínimo
 
 Esta prima se pagará, igualmente, en caso de muerte o rescisión de la relación laboral por causas no imputables al servidor público, cualquiera que sea su antigüedad.
 
-En caso de muerte del servidor público, la prima se pagará a sus beneficiarios, en el orden de prelación en que formalmente hayan sido designados ante el Instituto de Seguridad Social del Estado de México y Municipios. En caso de no existir esa designación, dicha prima se pagará conforme a la prelación que establece la Ley de Seguridad Social para los Servidores Públicos del Estado y Municipios.
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+En caso de muerte del servidor público, la prima se pagará a sus beneficiarios, conforme a la prelación que establece el artículo 136 de la presente Ley.
 
 Cuando las instituciones públicas tengan establecidos en sus condiciones generales de trabajo programas o fondos de retiro en los que no existieran aportaciones de los servidores públicos, y el monto que, en su caso, correspondiera por este concepto a los servidores públicos sea superior al señalado en el segundo párrafo de este artículo, las instituciones públicas estarán obligadas a otorgar al servidor público sólo la prestación que más lo favorezca.
 
@@ -885,9 +931,13 @@ VIII. Las demás que señale la Ley General del Servicio Profesional Docente y o
 
 La institución pública deberá dar aviso por escrito al servidor público de manera personal, de la fecha y causa o causas de la rescisión de la relación laboral.
 
-En caso de que exista imposibilidad comprobada de entregar el aviso, o que el servidor público se negare a recibirlo, la institución pública o dependencia, dentro de los cinco días hábiles siguientes a la fecha de la rescisión, deberá hacerlo del conocimiento del Tribunal, proporcionando a éste el último domicilio que tenga registrado y solicitando sea notificado el servidor público.
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-La falta de aviso al servidor público o al Tribunal por sí sola bastará para considerar que el despido fue injustificado.
+En caso de que exista imposibilidad comprobada de entregar el aviso, o que el servidor público se negare a recibirlo, la institución pública o dependencia, dentro de los cinco días hábiles siguientes a la fecha de la rescisión, deberá hacerlo del conocimiento del Tribunal o de la Sala, proporcionando a éste el último domicilio que tenga registrado y solicitando sea notificado el servidor público.
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+La falta de aviso al servidor público, al Tribunal o a la Sala por sí sola bastará para considerar que el despido fue injustificado.
 
 ###### Artículo 95.
 
@@ -1277,7 +1327,19 @@ Cuando el servidor público sufra una enfermedad grave durante la prestación de
 
 Para la calificación de los accidentes y enfermedades de trabajo, así como para la fijación del monto de las indemnizaciones correspondientes, se estará a lo estipulado en la Ley de Seguridad Social para los Servidores Públicos del Estado y Municipios.
 
-En caso de muerte del servidor público la indemnización se pagará a sus beneficiarios en el orden y proporción en que formalmente hayan sido designados ante el Instituto de Seguridad Social del Estado de México y Municipios. De no existir esa designación, dicha indemnización se pagará conforme a la prelación que establece la Ley de Seguridad Social para los Servidores Públicos del Estado y Municipios.
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+En caso de fallecimiento del servidor público, la indemnización por muerte se pagará tomando en cuenta el siguiente orden de prelación:
+
+I. Al cónyuge cuando no hubiese hijos;
+
+II. Al cónyuge y a los hijos menores de 18 años o a los que siendo mayores de edad estén incapacitados física o mentalmente para trabajar, así como a los menores de 25 años que estén realizando estudios de nivel medio o superior en planteles oficiales o reconocidos, previa la comprobación correspondiente;
+
+III. A la concubina o concubinario;
+
+IV. A falta del cónyuge, hijos, concubina o concubinario, a los padres que hubiesen dependido económicamente del servidor público o pensionado fallecido durante los cinco años anteriores a su muerte;
+
+V. A los dependientes económicos si no existen las personas enumeradas en las fracciones anteriores, siempre y cuando hayan vivido en su compañía durante los cinco años que precedieron a su fallecimiento.
 
 ###### Artículo 137.
 
@@ -1303,13 +1365,15 @@ Sindicato es la asociación de servidores públicos generales constituida para e
 
 Las instituciones públicas en su conjunto, reconocerán como titulares de las relaciones colectivas de trabajo, únicamente a un sindicato de servidores públicos generales y a uno de maestros que serán los que cuenten con registro ante el Tribunal, así como a aquellos registrados que representen a los docentes en las instituciones de carácter educativo cuyo decreto de creación establezca su autonomía en su régimen sindical.
 
-En el caso de los trabajadores del Subsistema Educativo Federalizado se reconoce a su sindicato nacional.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-Se reconocerán asimismo, a los demás sindicatos de servidores públicos que, en su caso, se incorporen a la administración pública estatal con motivo de procesos de descentralización federal.
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 139.
 
-Los servidores públicos de confianza no podrán ser miembros de los sindicatos. Cuando los servidores públicos sindicalizados desempeñen un puesto de confianza quedarán en suspenso todas sus obligaciones y derechos sindicales.
+Los servidores públicos de confianza no podrán ser miembros de los sindicatos. Cuando los servidores públicos sindicalizados desempeñen un puesto de confianza, deberán cumplir con lo establecido en el artículo 11 de la presente Ley.
 
 ###### Artículo 140.
 
@@ -1323,11 +1387,19 @@ I. Acta de la asamblea constitutiva o copia de ella;
 
 II. Estatutos del sindicato;
 
-III. Lista de miembros que lo integran, con expresión del nombre de cada uno, estado civil, edad, puesto que desempeñan y sueldo que perciben; y
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+III. Lista de miembros en servicio activo que lo integran, con expresión del nombre y firma de cada uno, identificación oficial, estado civil, edad, puesto que desempeñan y sueldo que perciben, así como los documentos originales que amparen dichas condiciones y que dichos miembros no formen parte de otra organización sindical, registrada ante el Tribunal Estatal de Conciliación y Arbitraje;
 
 IV. Acta de la sesión en que se haya elegido la directiva o copia autorizada de aquélla.
 
-El Tribunal al recibir la solicitud de registro constatará, por los medios legales, que en sus registros no existe otra asociación sindical y que la peticionaria cuenta con la mayoría de los servidores públicos para proceder, en su caso, al registro.
+> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+V. Constituirse por lo menos con 20 trabajadores en servicio activo.
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+El Tribunal al recibir la solicitud de registro constatará, por los medios legales que los documentos precisados en las fracciones anteriores, cuenten con los registros y formalidades que establece esta ley, para proceder, en su caso, al registro.
 
 ###### Artículo 142.
 
@@ -1727,25 +1799,41 @@ VIII. Conocer de cualquier otro asunto relativo, derivado o directamente vincula
 
 El Tribunal se integrará por un representante de cada uno de los poderes públicos del Estado, en caso de que alguno no designe, se tendrá integrado el Tribunal con los que se hayan designado, un representante de cada uno de los sindicatos mayoritarios a que se refiere el segundo párrafo del artículo 138 de esta ley, un representante de los ayuntamientos de la entidad que será el del Municipio de residencia del Tribunal y un árbitro, designado por la mayoría de los representantes a propuesta del Titular del Ejecutivo, quien fungirá como Presidente, y su cargo concluirá al mismo tiempo que el de la administración pública en la cual fue designado, pudiendo ser ratificado a propuesta del Titular del Ejecutivo entrante.
 
-> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-Se podrán instalar en el territorio de la entidad, las Salas Auxiliares del Tribunal que el presupuesto de egresos permita, se integrarán cada una por un representante del sindicato mayoritario, que represente a los servidores públicos municipales, un representante de los ayuntamientos, que será el del municipio de residencia de la Sala y un árbitro que fungirá como presidente, a propuesta del Secretario del Trabajo, que será nombrado por mayoría de los integrantes del Pleno y podrá durar en su cargo el mismo tiempo que el de la administración pública en la cual fue designado.
+Se podrán instalar en el territorio de la entidad, las Salas del Tribunal que el presupuesto de egresos permita, se integrarán cada una por un representante del sindicato mayoritario, que represente a los servidores públicos municipales, un representante de los ayuntamientos, que será el del municipio de residencia de la Sala y un árbitro que fungirá como presidente, a propuesta del Secretario del Trabajo, que será nombrado por mayoría de los integrantes del Pleno y podrá durar en su cargo el mismo tiempo que el de la administración pública en la cual fue designado
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+A su vez el Tribunal y las Salas para su funcionamiento, contarán con Salas Orales, cuyas actuaciones serán autorizadas y avaladas por el Secretario Auxiliar asistido por Secretario de Acuerdos que dará Fe.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 Con excepción de los presidentes, cada uno de los representantes contará con un suplente.
 
-> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-Artículo 186 bis. Las Salas Auxiliares del Tribunal serán competentes para:
+###### Artículo 186 Bis.
+
+Las Salas del Tribunal serán competentes para:
+
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
 I. Conocer y resolver, en conciliación y arbitraje, de los conflictos individuales con motivo de la relación laboral que se susciten entre las instituciones públicas o dependencias municipales y sus servidores públicos;
 
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+
 II. De los procedimientos necesarios para la determinación de dependencia económica de los familiares de los servidores públicos fallecidos.
 
-La competencia territorial de las Salas Auxiliares se determinará por el Pleno del Tribunal, en el acuerdo de creación que corresponda.
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-Las resoluciones de las Salas Auxiliares no admiten ningún recurso.
+La competencia territorial de las Salas se determinará por el Pleno del Tribunal, en el acuerdo de creación que corresponda.
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+Las resoluciones de las Salas no admiten ningún recurso.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 Cuando se demande conjuntamente al Municipio y algún Poder del Estado u organo sujeto de esta ley de carácter estatal, el Tribunal será el competente.
 
@@ -1785,11 +1873,13 @@ Bastará con la certificación del secretario para acreditar la ausencia de algu
 
 La resolución de las Salas que pone fin al juicio, se tomará por mayoría, en caso de ausencia de alguno de los representantes o falta debidamente certificada por el secretario de la Sala respectiva, sin que conste citatorio previo, el voto del ausente se sumará al del Presidente.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 189.
 
-Para su debido funcionamiento el Tribunal contará con secretarios generales, secretarios auxiliares, secretarios de acuerdos, actuarios, conciliadores; además de los servidores públicos que sean necesarios y las Salas con secretarios auxiliares, secretarios de acuerdos, actuarios, conciliadores y demás servidores públicos que sean necesarios para el desarrollo de sus funciones.
+Para su debido funcionamiento el Tribunal contará con secretarios generales, secretarios auxiliares, secretarios de acuerdos, actuarios, conciliadores; además de los servidores públicos que sean necesarios y las Salas con secretarios, que sean necesarios para el desarrollo de sus funciones.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 Los integrantes y demás servidores públicos del Tribunal o de las Salas tendrán las facultades y obligaciones que se determinen en su reglamento interior. Los integrantes del Tribunal durarán en su encargo como término máximo seis años, tratándose de los poderes públicos del Estado; los representantes de los sindicatos y de los ayuntamientos lo serán por un período máximo de tres años, pudiendo ser redesignados por sus representados. En todo caso, la designación se hará de conformidad con sus normas internas.
 
@@ -1809,9 +1899,9 @@ IV. Haber sido de alguna de las partes o de su cónyuge, litigante, abogado, apo
 
 V. Ser tutor o curador, o haber estado bajo la tutela o curatela de alguna de las partes o de sus representantes.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-De darse alguno de los casos previstos en este artículo, procederá la excusa de conocer de los juicios en que se intervenga, salvo que se trate de lo dispuesto en el artículo 166 de esta ley. La excusa planteada será resuelta de inmediato por el Presidente del Tribunal o de la Sala que corresponda.
+De darse alguno de los casos previstos en este artículo, procederá la excusa de conocer de los juicios en que se intervenga, salvo que se trate de lo dispuesto en el artículo 166 de esta ley. La excusa planteada será resuelta de inmediato por el Presidente del Tribunal o de la Sala que corresponda. Y cuando la excusa sea presentada por los Presidentes del Tribunal o la Sala Auxiliar será resuelta por los integrantes del Pleno.
 
 > <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -1824,6 +1914,22 @@ El Presidente del Tribunal y los de las Salas y cualquier otro servidor público
 ###### Artículo 191.
 
 El proceso será público, gratuito, inmediato, predominantemente oral y se iniciará a instancia de parte. El Tribunal y las Salas tendrán la obligación de tomar las medidas necesarias para lograr la mayor economía, concentración y sencillez del proceso.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 191 Bis.
+
+El procedimiento se regirá por los siguientes principios rectores que fijarán el trámite de los asuntos:
+
+Oralidad: Las actuaciones se cumplirán en forma oral, pública y en audiencias, salvo las que expresamente se autorice realizar por escrito o estén amparadas por reserva.
+
+Gratuidad: El servicio de justicia será gratuito, sin perjuicio de los costos y erogaciones fijadas por ley que se produzcan.
+
+Inmediación: La autoridad garantizará la realización de actuaciones de forma personal y directa.
+
+Concentración: En los procesos se deberá evitar la suspensión de actuaciones.
+
+El Tribunal y las Salas tendrán la obligación de tomar las medidas necesarias para lograr la mayor economía, concentración y sencillez del proceso.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -1843,9 +1949,11 @@ Cuando el conflicto afecte la prestación de servicios públicos de comunicacion
 
 ### CAPITULO III. De la Capacidad y Personalidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 195.
 
-Son partes en el proceso, los servidores públicos, las instituciones públicas o las dependencias, los sindicatos reconocidos ante el Tribunal y, en general, quien acredite tener interés jurídico.
+Son partes en el proceso, los servidores públicos, las instituciones públicas o las dependencias, los sindicatos reconocidos ante el Tribunal y, en general, quien acredite tener interés jurídico en el proceso y ejerciten acciones y opongan excepciones.
 
 > <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
@@ -1885,9 +1993,9 @@ IV. Cuando el compareciente actúe como apoderado de los sindicatos, deberá acr
 
 V. El poder que otorgue el servidor público para ser representado, se entenderá conferido para demandar todas las prestaciones principales y accesorias que correspondan, aunque no se exprese;
 
-> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-VI. En todos los casos señalados con anterioridad, los apoderados legales de las partes, deberán presentar la cédula profesional que los faculte para ejercer la profesión de licenciado en derecho.
+VI. En todos los casos señalados con anterioridad, los apoderados legales de las partes, deberán presentar la cédula profesional que los faculte para ejercer la profesión de licenciado en derecho o autorización vigente para ejercer dicha profesión, expedida por la autoridad competente.
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
@@ -1921,21 +2029,23 @@ Siempre que dos o más personas ejerciten la misma acción u opongan la misma ex
 
 Cuando existan en el expediente datos que lo justifiquen, el Tribunal o las Salas, de oficio, deberán declararse incompetentes en cualquier estado del proceso, hasta antes de la audiencia de admisión de pruebas. Si el Tribunal o la Sala de que se trate, se declara incompetente, con citación de las partes, remitirán de inmediato el expediente a la autoridad que estime competente o, en su caso, a la que deba decidir la competencia.
 
-> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-La excepción de incompetencia no exime al demandado de contestar la demanda, si no lo hace y el Tribunal o la Sala Auxiliar (sic) declara competente, se tendrá por confesada la demanda.
+La excepción de incompetencia no exime al demandado de contestar la demanda, si no lo hace y el Tribunal o la Sala declara competente, se tendrá por confesada la demanda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 201.
 
-Las cuestiones de competencia sólo pueden promoverse por declinatoria.
+Las cuestiones de competencia por declinatoria deberán promoverse en la primera etapa del procedimiento en la audiencia respectiva, acompañando los elementos en que se funde. El Tribunal o la Sala, después de examinarlas (sic) pruebas, que deberán referirse exclusivamente a la cuestión de incompetencia, dictará en el acto, resolución.
 
 > <small>(REFORMADO, G.G. 20 DE ENERO DE 2009)</small>
 
 La declinatoria deberá promoverse en la primera etapa del procedimiento en la audiencia respectiva, acompañando los elementos en que se funde. El Tribunal o la Sala, después de examinar las pruebas, que deberán referirse exclusivamente a la cuestión de incompetencia, dictará en el acto, resolución.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-Será nulo todo lo actuado ante el Tribunal o autoridad incompetentes, salvo el acto de admisión de la demanda.
+Será nulo todo lo actuado ante el Tribunal, la Sala o autoridad incompetentes (sic), salvo el acto de admisión de la demanda.
 
 ### CAPITULO V. De las Actuaciones del Tribunal
 
@@ -1961,15 +2071,21 @@ La audiencia o diligencia que se inicie en día y hora hábil, podrá continuars
 
 Cuando en la fecha señalada no se hubiere llevado a cabo la práctica de alguna diligencia o audiencia, se asentará constancia de las causas que lo originaron, y el Tribunal o la Sala, señalarán día y hora para que tenga lugar la misma.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 204.
 
-Todas las actuaciones procesales serán autorizadas por el secretario, excepción hecha de las diligencias encomendadas a otros servidores públicos del Tribunal o de la Salas. Lo actuado en la audiencia se hará constar en actas, las que deberán ser firmadas por las personas que en ellas intervengan, quieran y sepan hacerlo. Cuando algún integrante del Tribunal o de la Sala omitiere firmar las actas de las diligencias en las que estuvo presente, se entenderá que está conforme con ellas. De las actas de las audiencias se entregará copia a cada una de las partes comparecientes.
+Todas las actuaciones procesales serán autorizadas por el secretario, excepción hecha de las diligencias encomendadas a otros servidores públicos del Tribunal o de la Salas. Lo actuado en la audiencia se hará constar en actas, videos, así como audio grabaciones; tratándose de actas, deberán ser firmadas por las personas que en ellas intervengan y sepan hacerlo, quien se negare, la Secretaría de Acuerdos certificará la negativa. Cuando algún integrante del Tribunal o de la Sala omitiere firmar las actas de las diligencias en las que estuvo presente, se entenderá que está conforme con ellas. De las actas de las audiencias se entregará copia a cada una de las partes comparecientes.
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+El Tribunal o la Sala están obligados a expedir a costa de cualquiera de las partes, que de manera escrita o por comparecencia soliciten copias simples o certificadas de cualquier documento o constancia que obre en el expediente, debiendo de constar en autos acuse de recibido; también deberá certificar la copia fotostática que exhiban las partes de algún documento o constancia que aparezca en autos, previo cotejo que se haga con el original.
 
-El Tribunal o la Sala están obligados a expedir a la parte solicitante copias simples y certificadas de cualquier documento o constancia que obre en el expediente a su costa, debiendo de obrar en autos acuse de recibido, también deberá certificar la copia fotostática que exhiban las partes de algún documento o constancia que aparezca en autos, previo cotejo que se haga con el original.
+Las audiencias se respaldarán en video, audio-grabación, escaneo o cualquier medio apto, a juicio del Presidente del Tribunal o la Sala, para producir seguridad en las actuaciones e información que permitan garantizar su fidelidad, integridad, conservación, reproducción de su contenido y acceso, a quienes de acuerdo a la ley, tuvieren derecho a ello.
+
+Cuando fuera de audiencia se solicite copia del video o audio-grabaciones, se obsequiará; para tal efecto, se acompañará a la solicitud los discos compactos necesarios.
+
+Cuando la petición se realice en la audiencia, se autorizará.
+
+Queda prohibido a las partes, terceros y autoridades, la difusión por cualquier medio de las constancias, video o audio-grabaciones de las audiencias celebradas; para lo cual, se estará a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública y a la Ley de Protección de Datos Personales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2021,9 +2137,9 @@ Las autoridades encargadas de las fuerzas públicas, de procuración de justicia
 
 Para que las personas concurran a las audiencias en las que su presencia sea indispensable, o para asegurar el cumplimiento de cualquiera de sus resoluciones, el Presidente, los auxiliares y secretarios del Tribunal o de la Sala podrán emplear, sin respetar el orden en que se señalan, conjunta o indistintamente cualquiera de los siguientes medios de apremio:
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-l. Multa que no excederá de cien veces el salario mínimo general vigente, en el lugar y tiempo en que se cometió la infracción;
+I. Multa hasta de cien veces el salario mínimo general vigente, en el lugar tiempo en que se cometió la infracción;
 
 II. Presentación de la persona con auxilio de la fuerza pública; y
 
@@ -2032,6 +2148,14 @@ III. Arresto hasta por treinta y seis horas;
 > <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
 
 IV. La suspensión temporal del cargo sin goce de sueldo del servidor público que se niegue a dar cumplimiento a un laudo. Esta medida sólo podrá resolverla el presidente del Tribunal, por lo que las Salas darán cuenta del incumplimiento a éste.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 209 Bis.
+
+Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de prueba, recursos y, en general, toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la substanciación o resolución de un juicio laboral, sele impondrán hasta quinientos días multa.
+
+Cuando en un juicio laboral, el Tribunal y Salas consideren que los hechos son constitutivos de un delito, los pondrán de inmediato en conocimiento del Ministerio Público para los efectos conducentes.
 
 ###### Artículo 210.
 
@@ -2059,11 +2183,11 @@ Cuando el domicilio de la persona demandada se encuentre fuera del lugar de resi
 
 ### CAPITULO VII. De las Notificaciones
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 213.
 
-Las partes desde el escrito inicial de demanda y de la contestación a la misma, respectivamente, así como los terceros interesados, deberán señalar domicilio dentro del municipio de la residencia del Tribunal o de las Salas que se trate, para recibir notificaciones; si no lo hacen, las notificaciones personales y de cualquier índole, se harán por estrados o boletín laboral.
+Las partes desde el escrito inicial de demanda y de la contestación a la misma, respectivamente, así como los terceros interesados, deberán señalar domicilio dentro del municipio de la residencia del Tribunal o de las Salas que se trate o bien, correo electrónico, previa autorización de las partes, para recibir notificaciones; si no lo hacen, las notificaciones personales y de cualquier índole, se harán por estrados o boletín laboral.
 
 ###### Artículo 214.
 
@@ -2149,11 +2273,11 @@ IV. Acumulación; y
 
 V. Excusa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 218.
 
-Cuando se promueva un incidente dentro de una audiencia o diligencia, el tribunal substanciará y resolverá de plano, oyendo a las partes las cuales podrán ofrecer las pruebas que a sus intereses convengan debiéndose desahogar las que así lo requieran, continuándose el procedimiento principal en el estado en que se encuentra. Cuando se trate de nulidad, competencia y en los casos de acumulación y excusa, dentro de las veinticuatro horas siguientes se señalará día y hora para la audiencia incidental, en la que se resolverá.
+Cuando se promueva un incidente dentro de una audiencia o diligencia, el Tribunal o a la Sala substanciará y resolverá de plano, oyendo a las partes las cuales podrán ofrecer las pruebas que a sus intereses convengan debiéndose desahogar las que así lo requieran, continuándose el procedimiento principal en el estado en que se encuentra. Cuando se trate de nulidad, competencia y en los casos de acumulación y excusa, dentro de las veinticuatro horas siguientes se señalará día y hora para la audiencia incidental, la cual deberá celebrarse dentro de los diez días siguientes en la que se resolverá.
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
@@ -2195,15 +2319,15 @@ IV. Pericial;
 
 V. Inspección;
 
-> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-VI. Las fotografías, medio de información magnética o electrónica que sea utilizada para el registro y control de asistencia y puntualidad, pago de salarios, prima vacacional, aguinaldo, demás prestaciones establecidas en la presente ley;
+VI. Fotografías, cintas cinematográficas, registros dactiloscópicos, grabaciones de audio y de video, o las distintas tecnologías de información y la comunicación, tales como sistemas informáticos, medios electrónicos ópticos, fax, correo electrónico, documento digital, firma electrónica o contraseña y, en general, los medios aportados por los descubrimientos de la ciencia y de la técnica;
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
 VII. Instrumental de actuaciones y Presuncional; y
 
-VIII. Cualquier otro medio de prueba que aporten los descubrimientos de la ciencia y de la técnica.
+VIII. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2211,9 +2335,9 @@ VIII. Cualquier otro medio de prueba que aporten los descubrimientos de la cienc
 
 Las pruebas deben referirse a los hechos controvertidos cuando no hayan sido confesados por las partes, y se ofrecerán acompañadas de todos los elementos necesarios para su desahogo.
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-Artículo 220 A. Sí alguna persona no puede, por enfermedad u otro motivo justificado a juicio del Tribunal o la Sala, concurrir al local del mismo para absolver posiciones o reconocer el contenido o firma de un documento o rendir testimonio, previa comprobación del hecho, mediante certificado médico u otra constancia fehaciente que se exhiba, bajo protesta de decir verdad, se señalará nueva fecha para el desahogo de la prueba correspondiente, y de subsistir el impedimento, el Secretario de Acuerdos del Tribunal o de la Sala certificará tal circunstancia y deberá trasladarse al lugar donde se encuentre el imposibilitado para llevar a cabo el desahogo de la diligencia, levantando el acta circunstanciada correspondiente y en caso de no encontrarse la persona se le declarará confeso o por reconocido el contenido y la firma de los documentos base del desahogo o bien por desierta la prueba según sea el caso. El certificado médico deberá contener los siguientes requisitos: a) El nombre completo de la institución que expidió al médico su título profesional, b) el número de cédula profesional, c) el nombre del médico que lo suscribe, la fecha de expedición del certificado y la manifestación que revele la existencia de un estado patológico que afecta a la persona examinada, del cual pueda deducirse la imposibilidad física de comparecencia.
+Artículo 220 A.- Sí alguna persona no puede, por enfermedad u otro motivo justificado a juicio del Tribunal o la Sala, concurrir al local del mismo para absolver posiciones o reconocer el contenido o firma de un documento o rendir testimonio, previa comprobación del hecho, mediante certificado médico u otra constancia fehaciente que se exhiba, bajo protesta de decir verdad, se señalará nueva fecha para el desahogo de la prueba correspondiente, y de subsistir el impedimento, el Secretario de Acuerdos del Tribunal o de la Sala certificará tal circunstancia y el médico deberá comparecer dentro de los tres días siguientes, a ratificar el documento, cuya presentación correrá a cargo del oferente y en caso de no hacerlo, se declarará confeso o por reconocido el contenido y la firma de los documentos base del desahogo o bien, por desierta la prueba; en caso de comparecer, el Tribunal o la Sala, señalarán nuevo día y hora para la celebración de la audiencia correspondiente. El certificado médico deberá contener los siguientes requisitos: a) El nombre completo de la institución que expidió al médico su título profesional, b) el número de cédula profesional, c) el nombre del médico que lo suscribe, la fecha de expedición del certificado y la manifestación que revele la existencia de un estado patológico que afecta a la persona examinada, del cual pueda deducirse la imposibilidad física de comparecencia.
 
 Los certificados médicos expedidos por instituciones públicas de seguridad social se eximen de cumplir con los requisitos del párrafo anterior.
 
@@ -2249,7 +2373,9 @@ IV. El absolvente, sin necesidad de protestarlo su declaración se considerará 
 
 V. Cuando las posiciones se formulen oralmente, se harán constar textualmente en el acta respectiva; cuando sean formuladas por escrito, éste se mandará agregar a los autos y deberá ser firmado por el articulante y el absolvente, en caso de negativa bastará la certificación del secretario;
 
-VI. Las posiciones serán calificadas previamente, y cuando no reúnan los requisitos a que se refiere la fracción II, el Tribunal desechará asentando en el acta el fundamento y motivo concreto en que apoye su resolución;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+VI. Las posiciones serán calificadas previamente, y cuando no reúnan los requisitos a que se refiere la fracción II, el Tribunal o la Sala desechará asentando en el acta el fundamento y motivo concreto en que apoye su resolución;
 
 VII. El absolvente contestará las posiciones afirmando o negando, pudiendo agregar las explicaciones que juzgue convenientes o las que le pida el Tribunal o la Sala; las respuestas también se harán constar textualmente en el acta respectiva; y
 
@@ -2259,19 +2385,21 @@ VIII. Si el absolvente se niega a responder o sus respuestas son evasivas, el Tr
 
 Artículo 220 F. Si la persona que deba absolver posiciones tiene su residencia fuera del territorio del Estado de México, el Tribunal o la Sala librará exhorto, acompañando, en sobre cerrado y sellado, el pliego de posiciones previamente presentado y calificado.
 
-El Tribunal exhortado recibirá la confesional en los términos en que lo solicite el Tribunal o la Sala exhortante.
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, G.G. 20 DE ENERO DE 2009)</small>
+El Tribunal o la Sala exhortado recibirá la confesional en los términos en que lo solicite el Tribunal o la Sala exhortante.
 
-Artículo 220 G. Se tendrá por confesión expresa y espontánea, las afirmaciones que formulen las partes en cualquier acto del procedimiento.
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+Artículo 220 G.- Se tendrá por confesión expresa y espontánea, las afirmaciones contenidas en las posiciones que formule el articulante, así como las que se desprendan de cualquier acto del procedimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2013)</small>
 
 Artículo 220 H. Cuando la persona a quien se señale para absolver posiciones sobre hechos propios, ya no labore para la institución pública o dependencia, previa comprobación de hecho, la prueba cambiará su naturaleza a testimonial, en tal caso el oferente de la prueba será requerido para que proporcione el domicilio donde deba ser citada. En caso de que el oferente ignore el domicilio, lo hará del conocimiento del Tribunal o la Sala antes de la fecha señalada para la celebración de la Audiencia de desahogo de pruebas, y el Tribunal o la Sala requerirán a la Institución o dependencia Pública que proporcione el último domicilio que tenga registrado de dicha persona.
 
-> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-Para el indebido caso que no comparezca ante la autoridad que ordenó su citación se le harán efectivos los medios de apremio que señala el artículo 209 de la presente ley.
+Para el caso de que ninguna de las partes proporcione el domicilio del testigo o si resultan erróneos o falsos los proporcionados, la presentación del mismo ante el Tribunal o la Sala, correrá a cargo del oferente.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2409,7 +2537,9 @@ IV. Las partes, el Tribunal o la Sala podrá hacer a los peritos las preguntas q
 
 V. En caso de existir discrepancia en los dictámenes, el Tribunal o la Sala designará un perito tercero en discordia.
 
-El perito tercero en discordia que designe el Tribunal o la Sala deben excusarse dentro de las cuarenta y ocho horas siguientes a que se notifique su nombramiento, siempre que concurra alguna de las causas de excusa señalados por esta ley, el Tribunal o la Sala calificará de plano la excusa y, declarada procedente, se nombrará nuevo perito.
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+El perito tercero en discordia que designe el Tribunal o la Sala deben excusarse dentro de las cuarenta y ocho horas siguientes a que se notifique su nombramiento, siempre que concurra alguna de las causas de excusa señalados por esta ley, el Presidente del Tribunal o la Sala calificará de plano la excusa y, declarada procedente, se nombrará nuevo perito.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2509,11 +2639,11 @@ Toda autoridad o persona ajena al juicio que tenga conocimiento de hechos o docu
 
 Las disposiciones de este capítulo rigen la tramitación y resolución de los conflictos individuales y colectivos, con excepción de la huelga cuya tramitación se sujetará al procedimiento especial que en esta ley se contempla.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 226.
 
-El procedimiento se iniciará con la presentación del escrito de demanda ante la Oficialía de Partes del Tribunal o la Sala que lo turnará al auxiliar o secretario que corresponda el mismo día antes de que concluyan las labores.
+El procedimiento se iniciará con la presentación del escrito de demanda ante la Oficialía de Partes del Tribunal o la Sala que lo turnará a la Sala oral correspondiente el mismo día antes de que concluyan las labores.
 
 A la demanda se acompañarán las pruebas de que disponga el actor y los documentos que acrediten la personalidad del representante, en caso de que aquel no pudiera concurrir personalmente.
 
@@ -2551,6 +2681,16 @@ El Tribunal o la Sala dentro de los tres días hábiles siguientes que reciba la
 
 Durante la tramitación de los conflictos individuales y colectivos bastará la presencia del Presidente del Tribunal o de la Sala o del auxiliar, quien llevará a cabo la audiencia hasta su terminación y dictará las resoluciones que procedan, salvo los laudos, caso en que citará a los integrantes del Tribunal o de la Sala para dictar la resolución correspondiente.
 
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+Artículo 229 BIS.- En cada audiencia, el Secretario Auxiliar, hará saber a las partes, comparecientes y público asistente, el orden, decoro y respeto que deben observar, así como los nombres de los servidores públicos jurisdiccionales y demás participantes.
+
+Corresponde al Secretario Auxiliar, verificar la identidad de las personas que intervendrán en las audiencias o en su caso, hará constar la inasistencia de alguna de las partes.
+
+Una parte o los terceros llegan al recinto oficial después de iniciada la audiencia, podrán incorporarse a partir de ese momento; sin embargo, tendrán por precluído el derecho para hacer valer las manifestaciones y demás actos referentes a las actuaciones ya celebradas.
+
+El Secretario Auxiliar hará constar el momento de su incorporación mediante la certificación correspondiente.
+
 ###### Artículo 230.
 
 (DEROGADO, G.G. 30 DE ENERO DE 2007)
@@ -2563,17 +2703,25 @@ La falta de notificación de alguno de los demandados obliga al Tribunal o a la 
 
 Las partes que comparezcan a la audiencia quedarán notificadas de la nueva fecha para su celebración. A las partes que habiendo sido notificadas no concurran a la audiencia, se les notificará por estrados o por boletín la nueva fecha de la audiencia, y a las que no fueron notificadas se les hará personalmente.
 
-> <small>(REFORMADO, G. G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 232.
 
-La audiencia a que se refiere el Artículo 229 de esta ley constará de dos etapas:
+La audiencia a que se refiere el artículo 229 de esta ley constará de tres etapas
 
 I. De conciliación; y
 
-II. De ofrecimiento y admisión de pruebas.
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-La audiencia se iniciará con o sin la comparecencia de las partes. Las ausentes podrán intervenir cuando se presenten, siempre que el Tribunal o la Sala no haya emitido el acuerdo correspondiente.
+II. De depuración procesal;
+
+> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+III. De ofrecimiento y admisión de pruebas.
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+La audiencia se iniciará con o sin la comparecencia de las partes. Las ausentes podrán intervenir cuando se presenten; sin embargo, tendrán por precluido el derecho para hacer valer las manifestaciones y demás actos referentes a las actuaciones ya celebradas y siempre que el Tribunal o la Sala no haya emitido el acuerdo correspondiente.
 
 ###### Artículo 233.
 
@@ -2595,13 +2743,27 @@ III. Si las partes llegan a un acuerdo, se dará por terminado el conflicto. El 
 
 IV. Las partes, de común acuerdo, podrán solicitar por una sola ocasión, que se suspenda la audiencia con el objeto de conciliarse. El Tribunal o la Sala podrán suspenderla y fijarán su reanudación, dentro de los diez días hábiles siguientes, quedando notificadas las partes de la nueva fecha con los apercibimientos de ley; y
 
-> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-V. Sí las partes no concurren o no llegaren a un acuerdo, se les tendrá por inconformes con todo arreglo conciliatorio y se pasará a la etapa de ofrecimiento y admisión de pruebas;
+V. Sí las partes no concurren o no llegaren a un acuerdo, se les tendrá por inconformes con todo arreglo conciliatorio; se pasará a la etapa de depuración procesal y posteriormente, a la etapa de ofrecimiento y admisión de pruebas;
 
-> <small>(ADICIONADA, G.G. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-VI. Si el demandado reconviene al actor, el Tribunal o la Sala Auxiliar, le concederá un término de 5 días hábiles contados a partir del día siguiente de la notificación, con los apercibimientos que señala el Artículo 229 de esta Ley.
+VI. Si el demandado reconviene al actor, el Tribunal o la Sala, le concederá un término de tres días hábiles contados a partir del día siguiente de la notificación, con los apercibimientos que señala el Artículo 229 de esta Ley.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+Artículo 233 A.- La etapa de depuración procesal, se desarrollará de la manera siguiente:
+
+I. El Tribunal o la Sala, dispondrán de amplias facultades de dirección procesal para examinar, en su caso, las excepciones de trabajador de confianza, prescripción y cosa juzgada;
+
+II. El Tribunal o la Sala tomando en consideración las pruebas ofrecidas respecto a las excepciones perentorias opuestas determinará respecto a su procedencia o improcedencia, circunstancia que se tomará en consideración al momento de emitirse el laudo correspondiente para el efecto de determinar sobre la absolución o condena de la acción o prestaciones en contra de las cuales se opuso la excepción perentoria respectiva;
+
+III. El Tribunal o la Sala, en su caso certificará la no oposición de excepciones perentorias que ameriten depuración procesal.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+Artículo 233 B.- Si las partes no concurren a la etapa de depuración procesal, se les tendrá por perdido su derecho para ofrecer pruebas y alegar lo que a sus intereses convengan respecto a las excepciones perentorias opuestas.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2609,11 +2771,13 @@ VI. Si el demandado reconviene al actor, el Tribunal o la Sala Auxiliar, le conc
 
 La etapa de ofrecimiento y admisión de pruebas se desarrollará conforme a las normas siguientes:
 
-I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos. Inmediatamente el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte, y aquél, a su vez, podrá objetar las del demandado;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos, que no tengan relación con las excepciones perentorias que hubieren sido declaradas procedentes;
 
 II. Las partes podrán ofrecer nuevas pruebas siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas; y
 
-III Concluido el ofrecimiento de pruebas, el Tribunal o la Sala resolverán inmediatamente sobre su admisión.
+III. Concluido el ofrecimiento de pruebas, el Tribunal o la Sala resolverán inmediatamente sobre su admisión.
 
 > <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
@@ -2625,11 +2789,11 @@ IV. Concluido el ofrecimiento, el Tribunal o la Sala, resolverán inmediatamente
 
 La etapa de ofrecimiento y admisión de pruebas se llevará a cabo aún cuando no concurran las partes. Si las partes no comparecen a la audiencia se les tendrá por perdido su derecho para ofrecer pruebas, otorgándoles a las partes un término de 48 horas para formular sus alegatos.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 236.
 
-El Tribunal o la Sala podrán ordenar se desahoguen las pruebas que consideren necesarias para mejor proveer hasta el cierre de la instrucción.
+El Pleno del Tribunal o la Sala podrán ordenar se desahoguen las pruebas que consideren necesarias para mejor proveer hasta antes de que el proyecto de resolución se eleve a la categoría de laudo, con el único fin de que el Auxiliar Dictaminador pueda completar su ilustración y conocimientos sobre los hechos, como antecedentes necesarios de su resolución, permitiéndosele despejar cualquier duda o insuficiencia que le impida formarse una clara convicción respecto del proyecto de resolución, sin que conlleve a tenerse como nuevas pruebas en el juicio.
 
 > <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
@@ -2637,17 +2801,23 @@ El Tribunal o la Sala podrán ordenar se desahoguen las pruebas que consideren n
 
 El Tribunal o la Sala, una vez agotada la etapa de ofrecimiento y admisión de pruebas, señalará en el mismo acuerdo, el día y la hora para la celebración de la audiencia de desahogo de pruebas la que deberá efectuarse dentro de los quince días hábiles siguientes, y ordenará, en su caso, que se giren los oficios y exhortos necesarios para recabar los informes o copias que deba expedir alguna autoridad o exhibir persona ajena al juicio y que haya solicitado el oferente, con los apercibimientos señalados en esta Ley.
 
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 237 Bis.
+
+Si a consideración del Secretario Auxiliar, la controversia queda reducida a un punto de derecho, al concluirse la audiencia de Conciliación, depuración procesal, Ofrecimiento y Admisión de Pruebas, las partes en la misma audiencia, formularán sus alegatos y en seguida, se turnarán los autos al C, Auxiliar Dictaminador, quien elaborará el proyecto de resolución correspondiente para que sea sometido a consideración del Pleno del Tribunal o de la Sala en la sesión más próxima.
+
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 238.
 
 En el desahogo de las pruebas se procurará que se desahoguen primero las del actor y después las del demandado, aunque no guarden el orden en que fueron ofrecidas y dictaran las medidas necesarias para procurar que el día de la audiencia se desahoguen todas las pruebas ofrecidas y las que por su naturaleza no sean posibles de desahogarse, se señalará día y hora en que se efectuará la audiencia respectiva.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 239.
 
-Cuando las pruebas sean documentos que se hayan solicitado a autoridades diversas y no se hubieran remitido, el Tribunal o la Sala las requerirán para que las envíen, con el apercibimiento, de que se les aplicarán los medios de apremio que establece esta ley si no lo hacen.
+Cuando las pruebas sean documentos que se hayan solicitado a autoridades diversas y no se hubieran remitido, el Tribunal o la Sala las requerirán para que las envíen en un término no mayor de tres días, con el apercibimiento, de que se les aplicarán los medios de apremio que establece esta ley si no lo hacen.
 
 ###### Artículo 240.
 
@@ -2659,9 +2829,15 @@ Cuando las pruebas sean documentos que se hayan solicitado a autoridades diversa
 
 Desahogadas las pruebas se les concederá a las partes un término de 48 horas, para que por escrito formulen alegatos.
 
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 242.
 
-Una vez formulados los alegatos se declarará cerrada la instrucción y se procederá a dictar resolución, en una sesión del pleno que se verificará en un término no mayor de 15 días.
+Una vez formulados los alegatos se declarará cerrada la instrucción y se turnarán los autos al C. Auxiliar Dictaminador, para que emita el proyecto de laudo correspondiente, observando el principio de celeridad procesal.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+Artículo 242 BIS.- Una vez elaborado el proyecto de laudo, se procederá a su discusión y aprobación en una sesión de pleno que se verificará en un término no mayor de 15 días.
 
 ###### Artículo 243.
 
@@ -2737,7 +2913,9 @@ La diligencia de requerimiento de pago y embargo se practicará en el domicilio 
 
 En las diligencias de requerimiento de pago y embargo se observarán las normas siguientes:
 
-I. El actuario requerirá el pago a la persona con quien atienda la diligencia y si no efectúa el mismo procederá al embargo;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+I. El actuario requerirá el pago a la persona con quien atienda la diligencia y si no efectúa el mismo procederá al embargo; para tal efecto, requerirá al compareciente por la demandada para que señale bienes suficientes que garanticen el crédito laboral y en caso de no hacerlo, dicho derecho se transfiere al actor;
 
 II. El actuario podrá, en caso necesario, solicitar el auxilio de la Fuerza Pública, para llevar a cabo la diligencia; y
 
@@ -3102,3 +3280,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- La Legislatura del Estado proveerá los recursos necesarios para el funcionamiento del Registro de Deudores Alimentarios Morosos.
+
+G.G. 16 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
