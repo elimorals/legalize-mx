@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2013-12-03"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -63,7 +63,9 @@ III. Consejo Estatal: el Consejo Estatal para Prevenir, Atender, Sancionar y Err
 
 IV. Derechos humanos de las mujeres: los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, la Conferencia Mundial de Derechos Humanos de Viena y demás instrumentos y acuerdos internacionales en la materia firmados por el Presidente de la República y ratificados por el Senado;
 
-V. IMUG: el Instituto de la Mujer Guanajuatense;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+V. IMUG: el Instituto para las Mujeres Guanajuatenses;
 
 VI. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad, la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades, para acceder al desarrollo social y la representación en los ámbitos de toma de decisiones;
 
@@ -117,7 +119,9 @@ IV. Violencia económica: es toda acción u omisión del agresor que afecta la e
 
 V. Violencia sexual: cualquier acto de contenido sexual que amenaza, degrada o daña el cuerpo o la sexualidad de la víctima, o ambas, que atenta contra su libertad, dignidad, seguridad sexual o integridad física, que implica el abuso de poder y la supremacía sobre la víctima, al denigrarla y concebirla como objeto;
 
-VI. Violencia laboral: la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+VI. Violencia laboral: la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la ley y todo tipo de discriminación por condición de género;
 
 VII. Violencia docente: aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que les infligen maestras o maestros;
 
@@ -191,7 +195,9 @@ VII. El titular de la Secretaría de la Transparencia y Rendición de Cuentas;
 
 VIII. El titular de la Procuraduría General de Justicia;
 
-IX. El titular del Instituto de la Mujer Guanajuatense, quien ocupará la Secretaría Ejecutiva del Consejo;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+IX. El titular del Instituto de las Mujeres Guanajuatenses, quien ocupará la Secretaría Ejecutiva del Consejo;
 
 X. El titular del Instituto de la Juventud Guanajuatense;
 
@@ -315,7 +321,7 @@ II. Deberá alimentarse mensualmente de los datos que arrojen las instituciones 
 
 III. Los datos arrojados por éste serán considerados como oficiales en el Estado y será el que alimentará a los bancos nacionales, internaciones, redes o cualquier organismo que solicite información sobre la materia de violencia contra las mujeres en el Estado;
 
-IV. Deberá tener indicadores que arrojen los datos y estadísticas que permitan obtener información desagregada; y (sic)
+IV. Deberá tener indicadores que arrojen los datos y estadísticas que permitan obtener información desagregada; y
 
 V. Se deberá publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres en el Estado.
 
@@ -533,7 +539,9 @@ El titular de la Procuraduría General de Justicia ejercerá las siguientes facu
 
 I. Proporcionar periódicamente tratamiento de contención al personal especializado que atiende a las víctimas;
 
-II. Expedir y ejecutar las órdenes de protección y garantizar la integridad física de quienes denuncian;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+II. Expedir y ejecutar las órdenes de protección y garantizar la integridad física de quienes denuncian, así como contar con un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas;
 
 III. Diseñar las políticas en materia de procuración de justicia en contra de la violencia hacia las mujeres;
 
@@ -665,7 +673,9 @@ Las víctimas tendrán los siguientes derechos:
 
 I. Ser tratadas con respeto a su integridad, dignidad, libertad y al ejercicio pleno de sus derechos;
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+II. Contar con protección inmediata y efectiva por parte de las autoridades. Las víctimas mayores de 12 años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes de protección; quienes sean menores de 12 años, sólo podrán solicitar las órdenes a través de sus representantes legales;
 
 III. No ser obligada a procedimientos de conciliación, mediación o cualquier otro alternativo con el agresor;
 
@@ -797,11 +807,29 @@ Representación legal para víctimas
 
 La representación legal para la víctima se hará por medio de abogados titulados y consistirá en la asesoría y la tramitación de lo referente a los procedimientos judiciales y administrativos que le permitan superar la problemática de violencia en que se encuentre, así como cuidar que se respeten sus derechos dentro de los mismos.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
 Reparación del daño
 
 ###### Artículo 41.
 
-Las víctimas tendrán derecho a obtener la reparación del daño de conformidad con el artículo 20, apartado C, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos.
+Las víctimas tendrán derecho a obtener la reparación del daño. El Ministerio Público estará obligado a solicitar la reparación del daño, sin menoscabo de que la víctima lo pueda solicitar directamente, y quien juzgue no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
+
+El Estado está obligado a la reparación del daño conforme los parámetros establecidos en el Derecho Internacional de los Derechos Humanos de las mujeres y considerar como reparación:
+
+I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar las violaciones a los derechos de las mujeres y sancionar a quienes sean responsables;
+
+II. La rehabilitación: Se debe garantizar la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas directas o indirectas;
+
+III. La satisfacción: Son las medidas que buscan una reparación orientada a la prevención de violaciones. Entre las medidas a adoptar se encuentran:
+
+a) La aceptación del Estado de su responsabilidad ante el daño causado y su compromiso de repararlo;
+
+b) La investigación y sanción de los actos de autoridades omisas o negligentes que llevaron la violación de los derechos humanos de las víctimas a la impunidad;
+
+c) El diseño e instrumentación de políticas públicas que eviten la comisión de delitos contra las mujeres, y
+
+d) La verificación de los hechos.
 
 ### Capítulo XI. Sanciones
 
@@ -988,3 +1016,9 @@ Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los r
 P.O. 3 DE DICIEMBRE DE 2013.
 
 Artículo único.- El presente Decreto entrará en vigencia al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2014.
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, con la excepción que se indica en el artículo transitorio siguiente.
+
+Artículo Segundo. De conformidad con el decreto por el que se adicionan y reforman diversas disposiciones de la Ley General de Salud; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes, y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, publicada en el Diario Oficial de la Federación del 2 de abril de 2014, en su artículo segundo transitorio, la reforma del artículo 23 fracción III de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios, entrará en vigencia el 3 de abril de 2015.
