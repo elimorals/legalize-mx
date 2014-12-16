@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-prevencion-y-el-control-de-la-49713"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-28"
-last_updated: "2013-07-05"
+last_updated: "2014-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "GUA"
 
 REGLAMENTO PARA LA PREVENCIÓN Y EL CONTROL DE LA CONTAMINACIÓN A LA ATMÓSFERA GENERADA POR VEHÍCULOS AUTOMOTORES, PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2013.
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR LA FRACCIÓN IV DEL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA GESTIÓN AMBIENTAL EN EL MUNICIPIO DE LEÓN, GUANAJUATO, PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2014. ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE ENERO DE 2015 PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de febrero de 2006.
 
@@ -294,3 +296,79 @@ SEGUNDO. Se derogan todas aquellas disposiciones normativas que se opongan a las
 P.O. 5 DE JULIO DE 2013.
 
 Único. Las presentes reformas y adiciones entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. DE 16 DE DICIEMBRE DE 2014.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO PARA LA GESTIÓN AMBIENTAL EN EL MUNICIPIO DE LEÓN, GTO".]
+
+Artículo primero. Este Acuerdo entra en vigencia el 01 de enero de 2015, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. Se abrogan:
+
+I. El Reglamento Municipal para el Control de la Calidad Ambiental de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 101, segunda parte, de fecha 17 de diciembre de 1991;
+
+II. El Reglamento de Parques y Jardines para el Municipio de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 84, segunda parte, de fecha 18 de octubre de 1996;
+
+III. El Reglamento de Aseo Público Municipal de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 48, segunda parte, de fecha 15 de Junio de 1993;
+
+IV. El Reglamento para la Prevención y el Control de la Contaminación a la Atmósfera generada por Vehículos Automotores, para el Municipio de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 34, segunda parte de fecha 28 de febrero de 2006;
+
+V. El Reglamento del Consejo Consultivo Ambiental del Municipio de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 42, segunda parte de fecha 15 de marzo de 2011;
+
+VI. Las Disposiciones Administrativas para el Control de la Contaminación Ambiental "Ladrilleras", publicadas en el Periódico Oficial del Gobierno del Estado de Guanajuato número 15, primera parte de fecha 20 de febrero de 1990; y
+
+VII. El Acuerdo para el Desarrollo Forestal Sustentable del Municipio de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 22, segunda parte de fecha 7 de febrero de 2006.
+
+Artículo tercero. Se derogan todos los acuerdos y demás disposiciones que se opongan a este Ordenamiento.
+
+Artículo cuarto. Las atribuciones, funciones, facultades, derechos y obligaciones de las Direcciones de Área y unidades administrativas adscritas a la Dirección General de Medio Ambiente Sustentable, antes de la entrada en vigencia del presente Acuerdo, se subrogan en las Direcciones de Área y unidades administrativas adscritas a la Dirección General de Gestión Ambiental, atendiendo a las atribuciones que en el presente Acuerdo se les establecen, así como atendiendo a la naturaleza de la materia que le corresponda a cada una de ellas.
+
+Artículo quinto. Cualquier referencia a la "Dirección General de Medio Ambiente y Ecología", "Dirección General de Protección al Ambiente y Desarrollo Sustentable", "Dirección General de Protección al Ambiente" o "Dirección General de Medio Ambiente Sustentable", que se contenga en reglamentos, acuerdos, circulares, disposiciones administrativas de observancia general o cualquier otro acto jurídico emitido por el Ayuntamiento o por alguna de sus dependencias, entidades o unidades administrativas, debe entenderse efectuada a la Dirección General de Gestión Ambiental.
+
+Artículo sexto. Todos los archivos, insumos, bienes materiales, expedientes, asignaciones presupuestales, compromisos y obligaciones de la Dirección General de Medio Ambiente Sustentable pasan a formar parte de la Dirección General de Gestión Ambiental, a efecto de su debida atención o resguardo.
+
+Artículo séptimo. La Dirección General de Gestión Ambiental debe cumplir íntegramente con las obligaciones, compromisos, trámites y procedimientos asumidos por la Dirección General de Medio Ambiente Sustentable.
+
+Artículo octavo. Todos los procedimientos y demás asuntos relacionados con las materias a que refiere este Ordenamiento, iniciados con anterioridad a la entrada en vigencia al presente acuerdo, deben tramitarse y resolverse conforme a las disposiciones vigentes en ese momento.
+
+Artículo noveno. En caso de obras o actividades que, conforme a este Ordenamiento, requieran sujetarse a la evaluación del impacto ambiental y que al momento de su entrada en vigencia, se encuentren en etapa de preparación del sitio o construcción, cuentan, por única ocasión, con un plazo de treinta días hábiles, contados a partir de la entrada en vigencia de este Ordenamiento, para presentar la manifestación del impacto ambiental correspondiente.
+
+Tratándose de obras o actividades que al momento de la entrada en vigencia del presente Acuerdo, se encuentren en etapa de operación, y que conforme a este Ordenamiento requieran sujetarse a la evaluación del impacto ambiental, cuentan, por única ocasión, con un plazo de ocho meses, contados a partir de la entrada en vigencia de este Ordenamiento, para presentar la manifestación del impacto ambiental respectiva.
+
+En todo caso, la manifestación del impacto ambiental únicamente habrá de referirse a la etapa en que se encuentre la obra o actividad al momento de la entrada en vigencia de este Ordenamiento, así como a las subsecuentes, en los términos de este Ordenamiento.
+
+La Dirección General de Gestión Ambiental debe implementar las facilidades necesarias para la tramitación oportuna de los procedimientos relativos.
+
+Artículo décimo. Se autoriza la creación del fondo ambiental municipal a que se refiere este Ordenamiento, para lo que el Ayuntamiento debe aprobar, en el Presupuesto de Egresos de cada Ejercicio Fiscal, a partir del correspondiente al año 2015, la asignación de recursos necesarios para el funcionamiento y cumplimiento de los objetivos propios del mismo.
+
+El Comité Técnico debe instalarse y aprobar las Reglas de Operación del Fondo Ambiental Municipal, dentro de los treinta días hábiles siguientes al inicio de vigencia del presente Acuerdo.
+
+Artículo décimo primero. Las disposiciones de los artículos 231 y 232 de este Ordenamiento carecen de efecto retroactivo, salvo que se trate de medidas y acciones implementadas para la sustitución de ejemplares de especies exóticas, invasoras o que se tornen perjudiciales, en los términos del presente Acuerdo y, en su caso, de los programas municipales relativos.
+
+Artículo décimo segundo. Dentro de los seis meses siguientes a la entrada en vigencia del presente Acuerdo, la Tesorería Municipal, en coordinación con las direcciones generales de Desarrollo Urbano y de Gestión Ambiental, así como con el Instituto Municipal de Planeación, debe integrar y entregar a la Dirección General de Gestión Ambiental, el inventario de espacios verdes urbanos propiedad del Municipio.
+
+Artículo décimo tercero. La Dirección General de Gestión Ambiental debe implementar un programa temporal de regularización, a efecto de que, dentro de los ocho meses siguientes a la entrada en vigencia del presente Acuerdo, quienes hayan recibido asignaciones de áreas verdes por parte de la Dirección General de Desarrollo Urbano, y estén interesados en continuar realizando el cuidado, limpieza y mantenimiento de las mismas, suscriban el convenio a que se refiere el primer párrafo del artículo 215 de este Ordenamiento.
+
+Una vez vencido el plazo a que se refiere el párrafo anterior, quedarán sin efecto las asignaciones de áreas verdes y cualquier otro acto administrativo expedido a instancia de la Dirección General de Desarrollo Urbano, mediante el que se asigne o entregue la custodia o conservación de áreas verdes a cualquier persona física, empresa, organización o asociación de habitantes.
+
+Artículo décimo cuarto. Los propietarios o responsables de cualquier establecimiento o instalación en la que, a la fecha de la entrada en vigencia del presente Acuerdo, se emitan a la atmósfera gases o partículas sólidas o líquidas, o se realicen actividades de difusión fonética o aquellas relativas a alguna de las etapas del manejo integral de residuos y que, conforme a este Ordenamiento, requieran del permiso otorgado por la Dirección General de Gestión Ambiental, cuentan, por única ocasión, con un plazo de ocho meses, contados a partir de la entrada en vigencia de este Ordenamiento, para solicitar los permisos correspondientes.
+
+La Dirección General de Gestión Ambiental debe implementar las facilidades necesarias para la tramitación oportuna de los permisos a que se refiere este artículo.
+
+Artículo décimo quinto. Cuando por motivos de índole estrictamente técnicos, no sea posible cumplir, de inmediato, con los límites señalados en las normas oficiales mexicanas, el responsable de la fuente emisora de ruido cuenta, por única ocasión, con un plazo de ocho meses, contados a partir de la entrada en vigencia de este Ordenamiento, para solicitar a la Dirección General de Gestión Ambiental, la autorización del programa de reducción de ruido en la que se fijen, de manera temporal, los límites máximos permisibles para esa fuente, condicionados a la ejecución, por parte del responsable de la fuente fija, de las acciones, proyectos y medidas propuestos en ese programa, así como aquellas que adicionalmente ordene la propia dependencia municipal.
+
+La tramitación y otorgamiento de la autorización a que se refiere el párrafo anterior, queda sujeta, en lo conducente, a lo dispuesto en el título cuarto, capítulo II, sección primera, de este Ordenamiento.
+
+Artículo décimo sexto. Por única ocasión, los responsables de la operación de los sistemas de iluminación exterior, anuncios espectaculares, estacionamientos públicos, pensiones o lotes de vehículos de motor, talleres mecánicos o de hojalatería y pintura, así como cualquier otro establecimiento o instalación que con motivo de la entrada en vigencia de este Ordenamiento deba realizar las adecuaciones necesarias para dar cumplimiento a lo dispuesto en este Ordenamiento, cuentan con un plazo de dieciocho meses, contados a partir (sic) la entrada en vigencia del presente Acuerdo, para efectuar las ampliaciones, modificaciones o sustitución de infraestructura que resulten procedentes.
+
+Artículo décimo séptimo. Los propietarios o responsables de bienes inmuebles en los que, a la entrada en vigencia de este Acuerdo, estén instaladas o se encuentren en operación de fosas sépticas selladas, cuentan por una única ocasión, con un plazo de dieciocho meses, contados a partir (sic) la entrada en vigencia del presente Acuerdo, para cancelar y cerrar de manera definitiva las fosas sépticas selladas con las que se cuente, así como para presentar a la autoridad competente el programa de remediación de sitio contaminado, en caso de que se detectase la contaminación del suelo.
+
+Artículo décimo octavo. El SIAP-León debe implementar un programa temporal de regularización, a efecto de que, dentro de los ocho meses siguientes a la entrada en vigencia del presente Acuerdo, los grandes generadores de residuos sólidos urbanos que hayan obtenido de la Dirección General de Gestión Ambiental el registro correspondiente, obtengan aquél a que se refiere el Artículo 420, fracción VI, de este Ordenamiento, así como para que quienes hayan obtenido el registro como transporte de residuos sólidos urbanos soliciten, en su caso, la concesión para prestar el servicio de traslado de residuos sólidos urbanos. Una vez vencido el plazo a que se refiere el párrafo anterior, quedarán sin efecto los registros como empresa generadora de residuos sólidos urbanos y de transporte de residuos sólidos urbanos, otorgados a instancia de la Dirección General de Gestión Ambiental, con anterioridad a la entrada en vigencia de este Acuerdo.
+
+Artículo décimo noveno. El Consejo Consultivo Ambiental que se encuentra en funciones al momento de la entrada en vigencia del presente Acuerdo, debe permanecer integrado hasta que corresponda su renovación, en los términos del título séptimo, capítulo II, sección primera, de este Ordenamiento.
+
+Por única ocasión, el presidente del Consejo Consultivo Ambiental debe ser electo en la primera sesión ordinaria siguiente a la entrada en vigencia de este Acuerdo, en los términos de este Ordenamiento.
+
+Artículo vigésimo. Dentro de los tres meses siguientes a la entrada en vigencia del presente Acuerdo, la Dirección General de Gestión Ambiental, debe realizar las gestiones conducentes y, en su caso, emitir las convocatorias respectivas, para la integración del padrón municipal de peritos ambientales.
+
+En tanto se integra el padrón municipal de peritos ambientales, las funciones periciales a que se refiere este Ordenamiento, pueden ser realizadas por las personas inscritas en el Padrón de Prestadores de Servicios Ambientales en el Estado de Guanajuato, que administra el Instituto de Ecología del Estado de Guanajuato.
