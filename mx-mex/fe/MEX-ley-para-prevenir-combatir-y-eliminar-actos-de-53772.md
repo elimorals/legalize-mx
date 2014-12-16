@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-combatir-y-eliminar-actos-de-53772"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-17"
-last_updated: "2012-08-22"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 2007.
 
@@ -115,13 +115,19 @@ c) Reforzar el conocimiento del derecho a decidir sobre el número y espaciamien
 
 d) Promover la creación de centros de desarrollo infantil y guarderías que garanticen el acceso de sus hijos;
 
-e) Impulsar la creación de centros de atención y apoyo integral a la mujer; y (sic)
+e) Impulsar la creación de centros de atención y apoyo integral a la mujer; y
 
 f) Generar políticas de respeto del derecho de las mujeres embarazadas o madres solteras a otorgarles un empleo para el cual demuestren capacidad de desarrollo y procurar el respeto de sus derechos laborales;
 
 > <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
 
 g) Promover la igualdad de oportunidades laborales, culturales y sociales, entre otras, a todas las mujeres que tengan la capacidad de llevar a cabo cualquiera de éstas;
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+h) Garantizar el derecho a no ser discriminadas por su condición cualquier alumna que tengan su matrícula al día y que se encuentren en situación de embarazo, maternidad o estudiante lactante.
+
+Ninguna institución o establecimiento de educación, cualquiera que sea su nivel, podrá negar el ingreso matricula, acceso y el normal proceso educacional de una embarazada o madre lactante, debiendo otorgársele la protección y facilidades apropiadas a su respectivo estado.
 
 II. Para fomentar la igualdad de las niñas y los niños:
 
@@ -458,6 +464,12 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 G.G. 22 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 16 DE DICIEMBRE DE 2014.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
