@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-juventud-del-estado-de-guanajuato-70241"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-04"
-last_updated: "2013-06-07"
+last_updated: "2014-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 16 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS NOVENTA DÍAS POSTERIORES AL DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de septiembre de 2009.
 
@@ -373,7 +375,7 @@ Método para designar representantes
 
 ###### Artículo 19.
 
-Los representantes señalados en las fracciones IX y X del artículo 17 se designarán mediante convocatoria pública, dicho procedimiento será señalado el (sic) Reglamento de ésta Ley.
+Los representantes señalados en las fracciones IX y X del artículo 17 se designarán mediante convocatoria pública, dicho procedimiento será señalado (sic) el Reglamento de ésta Ley.
 
 Derecho a voto en el Consejo Directivo
 
@@ -686,3 +688,33 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2014.
+
+Entrada en vigor de la Ley
+
+Artículo Primero. La presente Ley entrará en vigor a los noventa días posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de la Ley para la Juventud del Estado de Guanajuato
+
+Artículo Segundo. Se abroga la Ley para la Juventud del Estado de Guanajuato, contenida en el decreto número 266, expedida por la Sexagésima Legislatura del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado, número 142, Segunda Parte de 4 de septiembre de 2009.
+
+Derogación de disposiciones que se opongan a la presente Ley
+
+Artículo Tercero. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+Término para expedir la reglamentación del Ejecutivo
+
+Artículo Cuarto. El Titular del Poder Ejecutivo del Estado expedirá los reglamentos a que se refiere esta Ley, en un plazo no mayor de noventa días contados a partir de la entrada en vigor de la misma.
+
+Término para expedir la reglamentación municipal
+
+Artículo Quinto. Los municipios expedirán los reglamentos a que se refiere esta Ley, en un plazo no mayor de noventa días contados a partir de la entrada en vigor de la misma.
+
+Término para conformar el organismo municipal
+
+Artículo Sexto. Los municipios deberán conformar un organismo municipal, que atienda a los jóvenes, como la dependencia, organismo desconcentrado o entidad paramunicipal o con la unidad administrativa con que cuente cada municipio para el cumplimiento de esta Ley, en un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor de la misma.
+
+Término para integrar el Sistema de información público
+
+Artículo Séptimo. El titular del Poder Ejecutivo, a través de la Secretaría de Desarrollo Social y Humano, integrará el Sistema de Información Pública, en un plazo no mayor a noventa días contados a partir de la entrada en vigor de la misma.
