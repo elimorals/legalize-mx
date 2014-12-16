@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-11-20"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2162,6 +2162,10 @@ V. Agua potable y alcantarillado;
 (REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 VI. Sitios de cría y producción de animales domésticos;
+
+> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+VI. BIS. Rastro;
 
 (REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -6449,9 +6453,9 @@ En la normatividad reglamentaria respectiva podrán establecerse otras modalidad
 
 La Secretaría de Transporte en coordinación con la del Medio Ambiente, establecerá un programa de reducción de contaminantes que incluirá los indicadores que sean necesarios.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-Con la finalidad de garantizar la seguridad de los pasajeros, los vehículos de transporte de pasajeros colectivo, de alta capacidad o masivo, individual y mixto, deberá contar con sistemas moderadores de velocidad, denominados gobernadores de velocidad.
+Con la finalidad de garantizar la seguridad de los pasajeros, los vehículos de transporte de pasajeros colectivo, de alta capacidad o masivo, individual y mixto, deberán contar con sistemas moderadores de velocidad, denominados gobernadores de velocidad y con sistemas de videograbación que deberán almacenar su contenido en dispositivos de almacenamiento extraíbles, los que deberán colocarse en zonas de difícil acceso para las personas.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6503,6 +6507,10 @@ II. Mostrar a las autoridades de transporte o tránsito cuando se les solicite l
 
 III. Abstenerse de conducir cuando estén impedidos para hacerlo por circunstancias de salud o de cualquier otra que implique disminución de sus facultades físicas o mentales.
 
+> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+IV. Informar a los propietarios o poseedores de las unidades de manera pronta y expedita cuando se cometa cualquier delito al interior de la unidad o del que sean víctima los pasajeros.
+
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
@@ -6516,6 +6524,10 @@ II. Aprobar los exámenes médicos, psicológicos, farmacológicos y otros que s
 III. Acreditar, en términos de las disposiciones reglamentarias, estar debidamente capacitados; y
 
 IV. Otorgar un servicio eficiente y un trato amable a los usuarios.
+
+> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+V. Denunciar la comisión de cualquier delito al interior de la unidad o del que sean víctima los pasajeros.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6534,6 +6546,10 @@ II. Tramitar los cambios de domicilio, de propietario, de motor u otras modifica
 III. Responder por los daños y perjuicios causados a terceros y a la infraestructura vial por el uso del vehículo; y
 
 IV. Contar con un seguro de viajero vigente, durante el tiempo que dure la concesión y/o permiso.
+
+> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+V. Hacer del conocimiento de las autoridades correspondientes, de manera pronta y expedita, la comisión de cualquier delito ocurrido dentro de la unidad y poner a su disposición el dispositivo de almacenamiento de imágenes a que hace referencia el artículo 7.6 del presente Código.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6618,6 +6634,10 @@ Las concesiones obligan a sus titulares a la prestación directa del servicio.
 23.- Los concesionarios y permisionarios serán solidariamente responsables con sus conductores de los daños que causen con motivo de la prestación del servicio.
 
 La Secretaría de Transporte emitirá las disposiciones reglamentarias aplicables; establecerá las medidas conducentes y el procedimiento para garantizar la adecuada reparación de dichos daños.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+Los concesionarios y permisionarios serán solidariamente responsables con sus conductores de la obligación de presentar las denuncias por la comisión de cualquier delito al interior de la unidad.
 
 ((REFORMADO, G.G. 31 DE MARZO DE 2011)
 
@@ -15947,7 +15967,7 @@ TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de u
 
 Hasta, el treinta y uno de marzo de dos mil diez en los Distritos Judiciales de Chalco, Otumba y Texcoco;
 
-Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro. Ixtlahuaca. Sultepec y Temascaltepec;
 
 Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
 
@@ -16972,3 +16992,25 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2015.
 
 TERCERO.- Las referencias que en lo sucesivo se realicen a la Dirección General de Protección Civil adscrita a la Secretaría de Seguridad Ciudadana, quedarán entendidas a la Coordinación General de Protección Civil adscrita a la Secretaría General de Gobierno.
+
+G.G. 16 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 357, POR EL QUE SE REFORMA EL ARTÍCULO 7.6 EN SU TERCER PÁRRAFO Y SE ADICIONAN LA FRACCIÓN IV AL ARTÍCULO 7.12, LA FRACCIÓN V AL 7.13, LA FRACCIÓN V AL 7.14 Y UN TERCER PÁRRAFO AL 7.23 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta de Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 16 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 358, POR EL QUE SE ADICIONA UNA FRACCIÓN VI BIS AL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno"
+
+TERCERO.- Las dependencias y organismos auxiliares deberán adecuar sus ordenamientos internos a fin de cumplir adecuadamente con el objeto de estas reformas.
