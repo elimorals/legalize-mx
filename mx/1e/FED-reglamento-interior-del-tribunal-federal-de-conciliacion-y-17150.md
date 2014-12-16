@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-conciliacion-y-1715
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-29"
-last_updated: "2000-09-29"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2000-09-26"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE CONCILIACION Y ARBITRAJE
 
-REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE CONCILIACION Y ARBITRAJE
+REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE CONCILIACIÓN Y ARBITRAJE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de septiembre de 2000.
 
@@ -365,6 +365,10 @@ X.- Dictar y en su caso autorizar con su firma la correspondencia oficial de la 
 
 XI.- El Secretario General Auxiliar, al recibir documentos que amparen valores, asentará la constancia respectiva en el expediente de que se trate y de inmediato turnará el documento a la Secretaría General de Acuerdos para su guarda y custodia.
 
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2014)</small>
+
+XII.- Las faltas temporales de los Secretarios Generales Auxiliares, serán cubiertas por el Jefe de la Unidad Técnica o por el Secretario que designe el Magistrado Presidente de la Sala, con acuerdo del Pleno de la misma.
+
 ### CAPITULO III. DE LAS UNIDADES TECNICAS
 
 ###### Artículo 30.
@@ -523,7 +527,7 @@ III.- Hacer de manera inmediata del conocimiento de las autoridades señaladas c
 
 IV.- Seleccionar las ejecutorias y jurisprudencia en materia de Amparos, para el servicio del Tribunal;
 
-V.- LLevar un control estadístico de los Amparos interpuestos y del sentido de las resoluciones recaídas informando mensualmente dicha actividad al Presidente del Tribunal, Presidentes de Sala y Secretario General de Acuerdos;
+V.- LLevar (sic) un control estadístico de los Amparos interpuestos y del sentido de las resoluciones recaídas informando mensualmente dicha actividad al Presidente del Tribunal, Presidentes de Sala y Secretario General de Acuerdos;
 
 VI.- Llevar un libro de registro de los juicios de amparos interpuestos en contra de las resoluciones del Tribunal;
 
@@ -535,7 +539,7 @@ VIII.- Las demás que le encomiende el Presidente del Tribunal.
 
 Sin perjuicio de las facultades y atribuciones que le confieren la Ley y demás disposiciones aplicables, al Jefe de la Unidad de Archivo le corresponde:
 
-I.- LLevar la organización, control y supervisión de su área;
+I.- LLevar (sic) la organización, control y supervisión de su área;
 
 II.- Cuidar los expedientes que se formen;
 
@@ -604,3 +608,9 @@ TERCERO.- Se derogan todos los acuerdos y disposiciones Plenarias que se opongan
 El presente Reglamento fue aprobado por el Pleno del Tribunal Federal de Conciliación y Arbitraje, en sesión ordinaria celebrada en la Ciudad de México, Distrito Federal, el día veintiséis del mes septiembre de dos mil, por Unanimidad de votos de los Magistrados que lo integran.
 
 LA SUSCRITA SECRETARIA GENERAL DE ACUERDOS DEL TRIBUNAL FEDERAL DE CONCILIACION Y ARBITRAJE, PATRICIA MORALES PINTO, CERTIFICA: Que el presente Reglamento Interior del Tribunal Federal de Conciliación y Arbitraje, fue aprobado por el Tribunal en Pleno, en sesión ordinaria del veintiséis de septiembre de dos mil, por unanimidad de diez votos de los señores Magistrados: Pedro Ojeda Paullada, Presidente, Ana Aurora Guittins Ortiz, Martha Segovia Cázares, María Elena Chávez Quezada, Rafael Moreno Ballinas, Carlos Francisco Quintana Roldán, Carlos González Merino, Patricia Siliceo Castillo, Hugo Vladimiro López Pérez y José Luis Ramos Calle.- México, Distrito Federal, a los veintiséis días del mes de septiembre de dos mil.- Doy fe.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 16 DE DICIEMBRE DE 2014.
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
