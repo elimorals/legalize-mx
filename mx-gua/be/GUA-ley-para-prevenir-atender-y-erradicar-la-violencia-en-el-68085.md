@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-68085"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2013-06-07"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el 27 de marzo de 2009.
 
@@ -187,6 +187,10 @@ Para la aplicación de esta Ley y la implementación de la política estatal en 
 
 Los modelos son el conjunto de medidas y acciones tendientes a dar una atención integral multidisciplinaria tanto a las personas receptoras como generadoras de violencia.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Para la atención de las mujeres receptoras de violencia, se aplicará el modelo de atención aprobado por el Consejo Estatal, de manera integral, con perspectiva de género y respeto irrestricto a sus derechos humanos e igualdad sustantiva entre hombres y mujeres.
+
 Las bases para la elaboración y operación de estos modelos se establecerán en el Reglamento.
 
 ## Título Tercero. De las Órdenes de Protección
@@ -329,7 +333,9 @@ VII. De la Secretaría de Salud;
 
 VIII. De la Secretaría de la Transparencia y Rendición de Cuentas;
 
-IX. Del Instituto de la Mujer Guanajuatense;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+IX. Del Instituto para las Mujeres Guanajuatenses;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -741,6 +747,10 @@ Acciones y campañas para implementar una Cultura de Paz
 
 Tienen derecho a la atención en materia de violencia las personas receptoras y las personas generadoras de la misma. En ningún caso podrán brindar atención aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+La atención que reciban las personas receptoras y generadoras de violencia, no será proporcionada por la misma persona, ni en el mismo lugar.
+
 La atención de la violencia comprende:
 
 I. El apoyo profesional de carácter médico, jurídico, psicológico, educativo o de cualquier otra naturaleza, a personas que sean receptoras o generadoras de violencia, de manera integral, gratuita y expedita, en instituciones públicas y en el caso de ser privadas, bajo la supervisión de aquellas;
@@ -797,25 +807,91 @@ II. Un área de atención a las personas receptoras de violencia; y
 
 III. Un área de rehabilitación a las personas generadoras de violencia.
 
-Las áreas señaladas en las fracciones II y III, dependerán de la misma Dirección y deberán encontrase en diferentes espacios un área de la otra y deberán ser delimitados para el cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Las áreas señaladas en las fracciones II y III, dependerán de la misma Dirección.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 Estructura de las áreas de los CEMAIV
 
-###### Articulo 56.
+###### Artículo 56.
 
-Las áreas señaladas en las fracciones II y III del artículo anterior tendrán la estructura orgánica que se establezca en su ordenamiento jurídico respectivo.
+Las áreas señaladas en las fracciones II y III del artículo anterior tendrán la estructura orgánica que se establezca en su ordenamiento jurídico respectivo y deberán:
 
-Director del CEMAIV
+l. Encontrarse en diferentes espacios un área de la otra;
+
+II. Ser delimitados para el cumplimiento de sus funciones;
+
+III. Contar con la infraestructura necesaria para brindar una atención adecuada, que garantice la privacidad; y
+
+IV. Proporcionar por separado la atención a mujeres y a hombres.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Integración de los CEMAIV
+
+###### Artículo 56 Bis.
+
+Los CEMAIV contarán con la estructura orgánica y funcional que se establezca en su ordenamiento jurídico de creación, el cual deberá observar la integración mínima a que se refiere el artículo 55.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Responsable del CEMAIV
 
 ###### Artículo 57.
 
-Los CEMAIV estarán a cargo del Director, quien tendrá las más amplias facultades administrativas para el funcionamiento de los mismos. Los CEMAIV contarán con el personal debidamente capacitado y especializado en las materias relacionadas con la atención que brindan.
+Los CEMAIV estarán a cargo de la persona responsable de la unidad administrativa, quien tendrá las más amplias facultades para el funcionamiento de los mismos. Los CEMAIV contarán con el personal debidamente capacitado y especializado en las materias relacionadas con la atención que brindan.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 Personal de los CEMAIV
 
 ###### Artículo 58.
 
-El personal de los CEMAIV deberá ser profesional en cada una de sus áreas y contar con el perfil y aptitudes adecuados (sic) para el tratamiento de los casos de violencia.
+Los CEMAIV contarán con personal debidamente capacitado, así como con el perfil y aptitudes adecuados para la atención y el tratamiento de los casos de violencia.
+
+El personal de cada una de las áreas del CEMAIV deberá contar con especialización en las materias relacionadas con la atención que se brinda. Tratándose de las áreas jurídica, psicológica y de trabajo social, dicho personal deberá contar con experiencia en materia de asistencia social y, en su caso, con cédula profesional legalmente expedida por la autoridad competente.
+
+El personal de los CEMAIV deberá sujetarse como mínimo a programas de capacitación y, en su caso, de profesionalización, de manera permanente, acordes a los aprobados por el Consejo Estatal y el Consejo Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, y de conformidad a los instrumentos internaciones (sic) en la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Capacitación
+
+###### Artículo 58 Bis.
+
+Tratándose de violencia de género, el personal del CEMAIV deberá contar con una capacitación para prevenir, atender y erradicar la violencia, que incluirá como mínimo aspectos formativos en:
+
+I. Perspectiva de Género;
+
+II. Derechos Humanos;
+
+III. Principios de igualdad y equidad;
+
+IV. Instrumentos internacionales que protegen a niñas y mujeres;
+
+V. Dignidad Humana;
+
+VI. Marco legal vigente a nivel estatal, nacional, e internacional;
+
+VII. Dinámicas de diversas formas de violencia, según sus tipos y modalidades, así como sus secuelas físicas y emocionales;
+
+VIII. Servicios disponibles a nivel municipal, estatal y nacional;
+
+IX. Técnicas de intervención psicológica y nuevos métodos terapéuticos; y
+
+X. Técnicas de orientación civil y penal, y en caso de litigio.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato podrá brindar al personal de los CEMAIV la capacitación para la prevención, atención y erradicación de la violencia, así como su actualización.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Atención femenina
+
+###### Articulo 58 Ter.
+
+Cuando la persona víctima de violencia sea del género femenino, preferentemente deberá ser atendida por una persona del mismo género.
 
 ### Capítulo IV. De las Áreas de los CEMAIV
 
@@ -893,9 +969,7 @@ El área de atención a las personas receptoras de violencia será la encargada 
 
 Por cada persona receptora de violencia se abrirá un expediente, que deberá contener toda la información respecto del proceso integral y multidisciplinario que se llevó a cabo. Cuando la persona receptora de violencia tenga antecedentes de generador de violencia, la determinación de su tratamiento se realizará de manera conjunta con el área de rehabilitación a las personas generadoras de violencia.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-Cuando el receptor de violencia manifieste de manera expresa su voluntad y solicite someterse a un proceso de conciliación o mediación, previo dictamen de viabilidad emitido por los especialistas en las áreas de trabajo social, de servicios jurídicos y de atención psicológica, los CEMAIV podrán instaurar alguno de dichos procedimientos, sin que sea necesario que se concluya para iniciar los procedimientos judiciales correspondientes en el momento en que lo decida el receptor de violencia.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 Representación Jurídica
 
@@ -1089,7 +1163,7 @@ EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE NOVIEMBRE DE 2010.
 
@@ -1100,3 +1174,27 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 206, POR EL QUE SE REFORMAN LOS ARTÍCULOS 55, TERCER PÁRRAFO; 56; 57 Y 58, PÁRRAFO PRIMERO. SE ADICIONAN LOS ARTÍCULOS 11, CON UN PÁRRAFO TERCERO, RECORRIÉNDOSE EL CONTENIDO DEL ACTUAL PÁRRAFO TERCERO, PARA QUEDAR COMO CUARTO; 56 CON LAS FRACCIONES I A LA IV; 56 BIS; 58, CON LOS PÁRRAFOS SEGUNDO Y TERCERO; 58 BIS Y 58 TER, DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO.
+
+Inicio de la vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Adecuación reglamentaria
+
+Artículo Segundo. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, contará con un plazo de ciento ochenta días, a partir de la entrada en vigor del presente, para realizar los ajustes reglamentarios para dar cumplimiento a lo dispuesto por el presente Decreto.
+
+Plazo para la capacitación
+
+Artículo Tercero. El personal de los CEMAIV que actualmente se encuentre en funciones deberá ser capacitados (sic) en materia de prevención, atención y erradicación de la violencia, a más tardar en el mes de junio de 2015.
+
+P.O. 16 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 207, POR EL QUE SE REFORMA EL ARTÍCULO 26, FRACCIÓN IX; SE ADICIONA EL ARTÍCULO 51 CON UN PÁRRAFO SEGUNDO; RECORRIÉNDOSE EL ACTUAL PÁRRAFO SEGUNDO COMO PÁRRAFO TERCERO, Y SE DEROGA EL PÁRRAFO TERCERO DEL ARTÍCULO 61, TODOS DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO.
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, con la excepción que se indica en el artículo transitorio siguiente.
+
+Artículo Segundo. De conformidad con el decreto por el que se adicionan y reforman diversas disposiciones de la Ley General de Salud; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes, y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, publicada en el Diario Oficial de la Federación del 2 de abril de 2014, en su artículo segundo transitorio, la reforma del artículo 23 fracción III de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios, entrará en vigencia el 3 de abril de 2015.
