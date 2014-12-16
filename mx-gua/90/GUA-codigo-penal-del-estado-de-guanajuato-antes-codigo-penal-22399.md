@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2014-11-28"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -175,55 +175,59 @@ VI.- Trata de personas a que se refieren los artículos 179-a, 179-b y 179-c.
 
 VII.- Violación previsto por los artículos 180, 181, 182 y 184, así como en grado de tentativa con relación al artículo 18.
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+VIII.- Abusos sexuales previsto en los párrafos segundo y tercero del artículo 187; y acoso y hostigamiento sexual previsto en el artículo 187-c.
+
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-VIII.- Robo calificado previsto por el artículo 194 en relación con la fracción IV del artículo 191; el previsto por las fracciones I y IV del artículo 194, con independencia de la cuantía del robo; así como el robo previsto en los artículos 191-b y 194-a, con independencia de la cuantía.
+IX.- Robo calificado previsto por el artículo 194 en relación con la fracción IV del artículo 191; el previsto por las fracciones I y IV del artículo 194, con independencia de la cuantía del robo; así como el robo previsto en los artículos 191-b y 194-a, con independencia de la cuantía.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-IX.- Daños dolosos previsto por el artículo 211.
+X.- Daños dolosos previsto por el artículo 211.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-X.- Daños dolosos previsto por el artículo 212.
+XI.- Daños dolosos previsto por el artículo 212.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-XI.- Extorsión previsto por el artículo 213.
+XII.- Extorsión previsto por el artículo 213.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-XII.- Tráfico de menores previsto en los párrafos primero y segundo del artículo 220.
+XIII.- Tráfico de menores previsto en los párrafos primero y segundo del artículo 220.
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-XIII.- Falsificación de documentos y uso de documentos falsos previstos en el segundo párrafo de los artículos 233 y 234, respectivamente.
+XIV.- Falsificación de documentos y uso de documentos falsos previstos en el segundo párrafo de los artículos 233 y 234, respectivamente.
 
-XIV.- Corrupción de menores e incapaces, contemplada en los artículos 236, 236-b fracción II y 237.
+XV.- Corrupción de menores e incapaces, contemplada en los artículos 236, 236-b fracción II y 237.
 
-XV.- Rebelión previsto por el artículo 241.
+XVI.- Rebelión previsto por el artículo 241.
 
-XVI.- Terrorismo previsto por el artículo 245.
+XVII.- Terrorismo previsto por el artículo 245.
 
-XVII.- Peculado previsto por el artículo 248, cuando el monto de lo dispuesto exceda de lo previsto en la fracción IV del artículo 191.
+XVIII.- Peculado previsto por el artículo 248, cuando el monto de lo dispuesto exceda de lo previsto en la fracción IV del artículo 191.
 
-XVIII.- Desaparición forzada de personas previsto por el artículo 262-a.
+XIX.- Desaparición forzada de personas previsto por el artículo 262-a.
 
-XIX.- Tortura previsto por el artículo 264.
+XX.- Tortura previsto por el artículo 264.
 
-XX.- Evasión de detenidos, inculpados o condenados previsto por el artículo 269 segundo párrafo.
+XXI.- Evasión de detenidos, inculpados o condenados previsto por el artículo 269 segundo párrafo.
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-XXI.- Encubrimiento previsto en el segundo párrafo del artículo 275.
+XXII.- Encubrimiento previsto en el segundo párrafo del artículo 275.
 
 ###### Artículo 12.
 
@@ -857,6 +861,8 @@ Su duración no excederá del máximo de la punibilidad señalada al tipo penal 
 
 ### CAPÍTULO XI. TRATAMIENTO PSICOTERAPÉUTICO INTEGRAL
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 91.
 
 Cuando el sujeto haya sido sentenciado por un delito y éste se haya producido por la adicción a bebidas alcohólicas, estupefacientes, psicotrópicos o sustancias que produzcan efectos similares, independientemente de la pena que corresponda, se le someterá a un tratamiento de deshabituación por parte de la autoridad de salud.
@@ -869,7 +875,7 @@ Cuando el sujeto haya sido sentenciado por un delito y éste se haya producido p
 
 ###### Artículo 92.
 
-Al responsable del delito de violencia intrafamiliar o de un delito cometido contra una persona con quien tenga relación de parentesco, matrimonio, concubinato o análoga se le someterá a un tratamiento psicoterapéutico integral, para su readaptación.
+Al responsable del delito de violencia familiar o de un delito cometido contra una persona con quien tenga relación de parentesco, matrimonio, concubinato o análoga se le someterá a un tratamiento psicoterapéutico integral, para su reinserción.
 
 ### CAPÍTULO XIII. REPARACIÓN DEL DAÑO
 
@@ -2041,9 +2047,7 @@ Este delito se perseguirá por querella.
 
 ### CAPÍTULO II. ESTUPRO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 179
 
@@ -2087,11 +2091,9 @@ d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), 
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO IV. ABUSOS ERÓTICO SEXUALES
+### Capítulo IV. Abusos Sexuales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 ## TÍTULO TERCERO. DE LOS DELITOS CONTRA LA LIBERTAD SEXUAL
 
@@ -2105,13 +2107,11 @@ d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), 
 
 A quien por medio de la violencia imponga cópula a otra persona, se le impondrá de ocho a quince años de prisión y de ochenta a ciento cincuenta días multa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 181.
 
-A quien tenga cópula con menor de doce años de edad o con persona que por cualquier causa no esté en posibilidad de conducirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá de diez a diecisiete años de prisión y de cien a ciento setenta días multa.
+A quien tenga cópula con menor de catorce años de edad o con persona que por cualquier causa no esté en posibilidad de conducirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá de diez a diecisiete años de prisión y de cien a ciento setenta días multa.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2121,7 +2121,9 @@ A quien tenga cópula con menor de doce años de edad o con persona que por cual
 
 Se aplicará la misma punibilidad del artículo 180, a quien introduzca por vía vaginal o anal cualquier objeto o cualquier parte del cuerpo humano que no sea el miembro viril, por medio de la violencia.
 
-Cuando el sujeto pasivo sea menor de doce años o una persona que por cualquier causa no esté en posibilidad de conducirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, aún cuando no haya violencia, se aplicará la misma punibilidad del artículo anterior.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Cuando el sujeto pasivo sea menor de catorce años o una persona que por cualquier causa no esté en posibilidad de conducirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, aun cuando no haya violencia, se aplicará la misma punibilidad del artículo anterior.
 
 ###### Artículo 183.
 
@@ -2139,7 +2141,9 @@ III.- Se cometa entre hermanos.
 
 IV.- Se cometa entre ascendiente y descendiente; padrastro o madrastra e hijastro; adoptante y adoptado o tutor y pupilo.
 
-V.- Se cometa por el superior jerárquico contra su inferior.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+V.- Se cometa por quien ejerza un ministerio religioso o por el superior jerárquico contra su inferior.
 
 VI.- Se cometa por quien tenga a la persona ofendida bajo su guarda, custodia, educación o internado.
 
@@ -2159,7 +2163,17 @@ Cuando el activo ejerza sobre el ofendido la guarda, custodia, tutela o patria p
 
 ###### Artículo 185.
 
-A quien tenga cópula con persona menor de dieciséis años, obteniendo su consentimiento por medio de la seducción o el engaño, se le impondrá de seis meses a tres años de prisión y de cinco a treinta días multa.
+A quien tenga cópula con persona menor de dieciséis años, obteniendo su consentimiento por medio de la seducción, se le impondrá de seis meses a tres años de prisión y de cinco a treinta días multa.
+
+Este delito se perseguirá por querella.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 185
+
+a.- A quien tenga cópula con persona menor de dieciséis años, obteniendo su consentimiento por medio del engaño, se le sancionará con prisión de dos a seis años y de cincuenta a cien días multa.
+
+Si el activo del delito excede en más de cuatro años la edad del pasivo, se le impondrá de cuatro a doce años de prisión y de cuarenta a ciento veinte días multa.
 
 Este delito se perseguirá por querella.
 
@@ -2169,6 +2183,8 @@ Este delito se perseguirá por querella.
 
 Si como consecuencia de la violación o del estupro hubiere descendencia, la reparación del daño comprenderá, además de lo señalado en el artículo 99-b de este Código, la ministración de alimentos en los términos de la ley civil.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
 ### CAPÍTULO II. ABUSO DE CONFIANZA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
@@ -2177,11 +2193,19 @@ Si como consecuencia de la violación o del estupro hubiere descendencia, la rep
 
 ###### Artículo 187.
 
-A quien sin consentimiento de una persona ejecute en ella o le haga ejecutar un acto erótico sexual, sin el propósito de llegar a la cópula, se le impondrá sanción de tres meses a un año de prisión y de tres a .diez días multa. En este supuesto el delito se perseguirá por querella.
+A quien sin consentimiento de una persona ejecute en ella o le haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le impondrá sanción de tres meses a un año de prisión y de tres a diez días multa. En este supuesto el delito se perseguirá por querella.
 
-Se aplicará de seis meses a dos años de prisión y de cinco a veinte días multa a quien lo ejecute o lo haga ejecutar en o por persona que no pudiere resistir o con consentimiento de menor de doce años.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Se aplicará de seis meses a dos años de prisión y de cinco a veinte días multa a quien lo ejecute o lo haga ejecutar en o por persona que no pudiere resistir o con menor de edad.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 Si se hiciere uso de violencia la sanción será de seis meses a tres años de prisión y de cinco a treinta días multa.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Si el responsable del delito de abuso sexual es servidor público y lo comete en ejercicio de sus funciones, se le impondrá, además de las penas previstas en este artículo, la destitución de su cargo y la inhabilitación para ejercer cualquier cargo público por un lapso igual al de la pena de prisión impuesta.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
@@ -2207,13 +2231,13 @@ b.- A quien valiéndose de su posición jerárquica o de poder, derivado de sus 
 
 Este delito se perseguirá por querella.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+###### Artículo 187
 
-Artículo 187 c.- Se aplicará de uno a cuatro años de prisión y de diez a cuarenta días multa si la víctima del delito de acoso sexual fuera menor de edad o incapaz.
+c. Se aplicará de dos a cinco años de prisión y de veinte a cincuenta días multa si la víctima del delito de acoso sexual fuera menor de edad o incapaz.
 
-Se aplicará de dos a seis años de prisión y de veinte a sesenta días multa cuando la víctima del hostigamiento sexual sea menor de edad o incapaz.
+Se aplicará de tres a siete años de prisión y de treinta a setenta días multa cuando la víctima del hostigamiento sexual sea menor de edad o incapaz.
 
 Estos delitos se perseguirán de oficio.
 
@@ -2655,17 +2679,13 @@ Cuando el daño se cause por incendio, inundación o explosión, la punibilidad 
 
 A quien obtenga un provecho indebido obligando a otra persona por medio de la violencia a dar, hacer o dejar de hacer algo en su perjuicio o en el de tercero, se le aplicará de uno a diez años de prisión y de diez a cien días multa.
 
-### CAPÍTULO VI. VIOLENCIA INTRAFAMILIAR
+### Capítulo VI. Violencia Familiar
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+### Capítulo VII. Sustracción, Retención u Ocultamiento de Menores o Incapaces
 
-### CAPÍTULO ÚNICO. VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 214.
 
@@ -2673,17 +2693,21 @@ A quien obtenga un provecho indebido obligando a otra persona por medio de la vi
 
 ## TÍTULO PRIMERO. DE LOS DELITOS CONTRA EL ORDEN FAMILIAR
 
-### CAPÍTULO I. INFORMACIÓN PARA QUE SE COMETA UN DELITO
+### CAPÍTULO ÚNICO. VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 #### SECCIÓN SEGUNDA. DELITOS CONTRA LA FAMILIA
 
 ## TÍTULO SEGUNDO. DE LA VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
 
-### CAPÍTULO II. PANDILLERISMO Y ASOCIACIÓN DELICTUOSA
+### CAPÍTULO I. INFORMACIÓN PARA QUE SE COMETA UN DELITO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 215.
 
@@ -2705,11 +2729,7 @@ El perdón procederá sólo cuando se hayan cubierto las obligaciones omitidas y
 
 A quien se coloque dolosamente en estado de insolvencia con el propósito de eludir el cumplimiento de sus obligaciones alimentarias, se le aplicará de uno a cuatro años de prisión.
 
-### CAPÍTULO III. ARMAS PROHIBIDAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+### CAPÍTULO II. PANDILLERISMO Y ASOCIACIÓN DELICTUOSA
 
 ###### Artículo 216.
 
@@ -2737,19 +2757,19 @@ IV.- Usurpe el estado civil o la filiación de otra persona.
 
 En los supuestos previstos en las fracciones I, II y III, además de las sanciones señaladas podrá privarse de los derechos de patria potestad, tutela o custodia, según el caso.
 
-### CAPÍTULO IV. RESPONSABILIDAD MÉDICA
+### CAPÍTULO III. ARMAS PROHIBIDAS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 217.
 
 A quien estando unido en legal matrimonio, contraiga otro, se le impondrá de seis meses a tres años de prisión y de cinco a treinta días multa.
 
-### CAPÍTULO I. REVELACIÓN DE SECRETOS
+### CAPÍTULO IV. RESPONSABILIDAD MÉDICA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 218.
 
@@ -2773,11 +2793,11 @@ En el caso previsto en el primer párrafo, además, se privará a los ascendient
 
 Se equipara al incesto y se castigará de uno a cuatro años de prisión y de diez a cuarenta días multa, a quien tenga relaciones sexuales con los descendientes de su pareja, a quienes se aplicará la mitad de estas sanciones.
 
-### CAPÍTULO II. RESPONSABILIDAD MÉDICA
+### CAPÍTULO I. REVELACIÓN DE SECRETOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 220.
 
@@ -2799,17 +2819,21 @@ Además de las sanciones señaladas, podrá privarse de los derechos de patria p
 
 El Ministerio Público o el tribunal tomarán las medidas cautelares que estimen pertinentes en beneficio del menor.
 
-### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO II. RESPONSABILIDAD MÉDICA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 221.
 
-A quien ejerza violencia física o moral contra una persona con la que tenga relación de parentesco, matrimonio, concubinato o análoga; contra los hijos del cónyuge o pareja, pupilos, o incapaces que se hallen sujetos a la tutela o custodia, de uno u otro, se le impondrá de uno a cuatro años de prisión.
+A quien ejerza violencia física o moral contra una persona con la que tenga relación de parentesco, matrimonio, concubinato o análoga; contra los hijos del cónyuge o pareja, pupilos, o incapaces que se hallen sujetos a la tutela o custodia, de uno u otro, se le impondrá de uno a seis años de prisión.
 
-Igual pena se aplicará cuando la violencia se ejerza contra quien no teniendo ninguna de las calidades anteriores cohabite en el mismo domicilio del activo.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Igual pena se aplicará cuando la violencia se ejerza contra quien haya mantenido una relación de las señaladas en el párrrafo (sic) anterior o no teniendo ninguna de las calidades anteriores cohabite en el mismo domicilio del activo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2837,13 +2861,27 @@ Este delito se perseguirá por querella, salvo que la víctima sea menor de diec
 
 a.- Cuando la violencia se haga consistir en lesiones que por lo menos tarden en sanar más de quince días, inferidas a una persona que por razón de su edad, discapacidad o cualquiera otra circunstancia no esté en condiciones de resistir la conducta delictuosa, se impondrá como pena de dos a ocho años de prisión.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 221
+
+b.- Al ascendiente, descendiente o pariente colateral hasta el cuarto grado de un menor de dieciséis años o incapaz, o al que tenga relación familiar con dicho menor o incapaz, o con uno de los ascendientes o parientes referidos, sin causa justificada, lo sustraiga, retenga u oculte de quien tenga la guarda, custodia o tutela del menor o incapaz de hecho o de derecho, se le impondrá de un año a cinco años de prisión y de diez a cincuenta días multa. Además de las sanciones señaladas, se le privará o suspenderá de los derechos de patria potestad, tutela o custodia, según el caso.
+
+En estos casos el Ministerio Público o la autoridad judicial dictarán las medidas pertinentes para salvaguardar la integridad física o psíquica del menor o incapaz sustraído, retenido u ocultado.
+
+Si el activo devuelve al menor o incapaz dentro de los tres días siguientes a la sustracción, retención u ocultamiento, la punibilidad aplicable será de un tercio del mínimo a un tercio del máximo de las sanciones señaladas.
+
+La punibilidad prevista en este artículo se aplicará siempre que el hecho no constituya otro delito de mayor gravedad.
+
+Este delito se perseguirá por querella de quien tenga la guarda, custodia o tutela del menor o incapaz de hecho o de derecho.
+
+### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ### CAPÍTULO II. VIOLACIÓN DE CORRESPONDENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
-
-### CAPÍTULO I. FALSIFICACIÓN DE SELLOS Y MARCAS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2855,11 +2893,11 @@ a.- Cuando la violencia se haga consistir en lesiones que por lo menos tarden en
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS O TARJETAS O USO DE DOCUMENTOS O TARJETAS FALSOS
+### CAPÍTULO I. FALSIFICACIÓN DE SELLOS Y MARCAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 222.
 
@@ -2879,7 +2917,7 @@ CARGO, EMPLEO U OFICIO
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO III. USURPACIÓN DE PROFESIONES
+### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS O TARJETAS O USO DE DOCUMENTOS O TARJETAS FALSOS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2893,13 +2931,11 @@ a.- Al servidor público que proporcione información que conozca con motivo de 
 
 (REUBICADO, ANTES CAPÍTULO I, P.O. 3 DE JUNIO DE 2011)
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. USURPACIÓN DE PROFESIONES
 
-CORRUPCIÓN DE MENORES E INCAPACES.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-EXPLOTACIÓN SEXUAL
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 223.
 
@@ -2925,11 +2961,13 @@ Si el integrante de la asociación es o ha sido miembro de alguna corporación d
 
 (REUBICADO, ANTES CAPÍTULO II, P.O. 3 DE JUNIO DE 2011)
 
-### CAPÍTULO ÚNICO. LENOCINIO
+### CAPÍTULO ÚNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+CORRUPCIÓN DE MENORES E INCAPACES.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+EXPLOTACIÓN SEXUAL
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 226.
 
@@ -2939,11 +2977,11 @@ A quien sin la debida autorización fabrique, transmita, compre, porte o haga ac
 
 (REUBICADO, ANTES CAPÍTULO III, P.O. 3 DE JUNIO DE 2011)
 
-### CAPÍTULO I. REBELIÓN
+### CAPÍTULO ÚNICO. LENOCINIO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 227.
 
@@ -2957,11 +2995,11 @@ A quien sin la debida autorización fabrique, transmita, compre, porte o haga ac
 
 ## TÍTULO TERCERO. DE LOS DELITOS CONTRA LAS VÍAS DE COMUNICACIÓN DE USO PÚBLICO Y VIOLACIÓN DE CORRESPONDENCIA
 
-### CAPÍTULO II. SEDICIÓN
+### CAPÍTULO I. REBELIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 229.
 
@@ -2973,7 +3011,7 @@ Este delito se perseguirá por querella.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO III. MOTÍN
+### CAPÍTULO II. SEDICIÓN
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3001,7 +3039,7 @@ La misma sanción se impondrá a los administradores o encargados de agencias fu
 
 ## TÍTULO CUARTO. DE LOS DELITOS DE FALSIFICACIÓN Y CONTRA LA FE PÚBLICA
 
-### CAPÍTULO IV. TERRORISMO
+### CAPÍTULO III. MOTÍN
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3011,7 +3049,11 @@ La misma sanción se impondrá a los administradores o encargados de agencias fu
 
 A quien destruya, deteriore, obstruya, impida o altere el funcionamiento de cualquier vía de comunicación de uso público, se le aplicará de uno a cinco años de prisión y de diez a cincuenta días multa.
 
-### CAPÍTULO V. REGLAS GENERALES
+### CAPÍTULO IV. TERRORISMO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 231.
 
@@ -3029,11 +3071,7 @@ Se requerirá querella de parte ofendida cuando se trate de ascendientes y desce
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2004)</small>
 
-### CAPÍTULO I. COHECHO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+### CAPÍTULO V. REGLAS GENERALES
 
 ###### Artículo 232.
 
@@ -3045,7 +3083,7 @@ II.- Enajene, adquiera o haga uso de sellos o marcas oficiales falsos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2004)</small>
 
-### CAPÍTULO II. PECULADO
+### CAPÍTULO I. COHECHO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3107,7 +3145,7 @@ VI.- Adquiera, utilice o posea equipos electromagnéticos o electrónicos para s
 
 Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumentarán en una mitad.
 
-### CAPÍTULO III. CONCUSIÓN
+### CAPÍTULO II. PECULADO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3117,17 +3155,17 @@ Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumenta
 
 A quien ejerza los actos propios de una profesión o especialidad sin tener título o autorización legal, se le impondrá de uno a cinco años de prisión y de diez a cincuenta días multa.
 
+### CAPÍTULO III. CONCUSIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ### CAPÍTULO IV. ENRIQUECIMIENTO ILÍCITO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
-
-### CAPÍTULO V. USURPACIÓN DE FUNCIONES PÚBLICAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ## TÍTULO SEXTO. DEL DELITO DE LENOCINIO
 
@@ -3135,7 +3173,7 @@ A quien ejerza los actos propios de una profesión o especialidad sin tener tít
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO VI. ABANDONO DE FUNCIONES PÚBLICAS
+### CAPÍTULO V. USURPACIÓN DE FUNCIONES PÚBLICAS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3191,11 +3229,11 @@ Las sanciones que señalan los artículos anteriores se aumentarán hasta en una
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
-### CAPÍTULO VII. FALSEDAD ANTE UNA AUTORIDAD
+### CAPÍTULO VI. ABANDONO DE FUNCIONES PÚBLICAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 239
 
@@ -3207,11 +3245,11 @@ a.- Además de las sanciones impuestas a quienes incurran en los delitos descrit
 
 ## TÍTULO PRIMERO. DE LOS DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-### CAPÍTULO VIII. VARIACIÓN DE NOMBRE O DOMICILIO
+### CAPÍTULO VII. FALSEDAD ANTE UNA AUTORIDAD
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 240.
 
@@ -3239,27 +3277,27 @@ c.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ## TÍTULO SEGUNDO. DE LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA
 
+### CAPÍTULO VIII. VARIACIÓN DE NOMBRE O DOMICILIO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ### CAPÍTULO IX. DESOBEDIENCIA, RESISTENCIA Y EXIGENCIA DE PARTICULARES
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
+#### SECCIÓN CUARTA. DELITOS CONTRA EL ESTADO
+
+## TÍTULO TERCERO. DE LOS DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
+
 ### CAPÍTULO X. TRÁFICO DE INFLUENCIAS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
-
-#### SECCIÓN CUARTA. DELITOS CONTRA EL ESTADO
-
-## TÍTULO TERCERO. DE LOS DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
-
-### CAPÍTULO XI. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PÚBLICOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 241.
 
@@ -3275,7 +3313,7 @@ III.- Separar de sus cargos a alguno de los funcionarios del Estado, mencionados
 
 No se aplicará sanción por el delito de rebelión a quien habiéndose alzado deponga las armas antes de ser tomado prisionero.
 
-### CAPÍTULO XII. QUEBRANTAMIENTO DE SELLOS
+### CAPÍTULO XI. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PÚBLICOS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3285,7 +3323,7 @@ No se aplicará sanción por el delito de rebelión a quien habiéndose alzado d
 
 A quienes en forma tumultuaria y violenta resistan o ataquen a la autoridad para impedir u obstaculizar el ejercicio de sus funciones, se les aplicará de tres meses a tres años de prisión y de tres a treinta días multa.
 
-### CAPÍTULO XIII. ABUSO DE AUTORIDAD
+### CAPÍTULO XII. QUEBRANTAMIENTO DE SELLOS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3295,17 +3333,19 @@ A quienes en forma tumultuaria y violenta resistan o ataquen a la autoridad para
 
 A quienes para ejercitar un derecho o pretendido derecho tumultuariamente empleen violencia en las personas o en las cosas, se les aplicará de seis meses a dos años de prisión y de cinco a veinte días multa.
 
-### CAPÍTULO XIV. AFECTACIÓN AL ORDENAMIENTO URBANO
+### CAPÍTULO XIII. ABUSO DE AUTORIDAD
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 245.
 
 A quien por cualquier medio realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor o terror en la población o en un sector de ella, para perturbar la paz pública, menoscabar la autoridad del Estado o presionar a la autoridad para que tome una determinación, se le impondrá prisión de tres a quince años y de treinta a ciento cincuenta días multa.
 
-### CAPÍTULO XV. DESAPARICIÓN FORZADA DE PERSONAS
+### CAPÍTULO XIV. AFECTACIÓN AL ORDENAMIENTO URBANO
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 246.
 
@@ -3315,7 +3355,9 @@ Tratándose de personas extranjeras se aumentará hasta un tercio de la punibili
 
 ## TÍTULO CUARTO. DE LOS DELITOS CONTRA LA HACIENDA PÚBLICA
 
-### CAPÍTULO XVI. DISPOSICIONES COMUNES
+### CAPÍTULO XV. DESAPARICIÓN FORZADA DE PERSONAS
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 247.
 
@@ -3323,17 +3365,13 @@ Al servidor público que por sí o por medio de otro solicite, reciba o acepte p
 
 A quien dé o haga promesas, dádivas o ventajas a un servidor público para que haga u omita un acto lícito o ilícito relacionado con sus funciones, se le aplicará la misma pena de prisión establecida en el párrafo anterior.
 
-### CAPÍTULO I. TORTURA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+### CAPÍTULO XVI. DISPOSICIONES COMUNES
 
 ###### Artículo 248.
 
 Al servidor público que disponga de un bien que hubiere recibido en razón de su cargo, se le impondrá de dos a diez años de prisión y de veinte a cien días multa; así como destitución del empleo o cargo e inhabilitación por el mismo término de la pena privativa de libertad impuesta.
 
-### CAPÍTULO II. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
+### CAPÍTULO I. TORTURA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3345,11 +3383,11 @@ Al servidor público que con tal carácter, exija por sí o por medio de otro, d
 
 Si lo exigido indebidamente se convirtiera en provecho propio o de un particular, la pena será de tres a ocho años de prisión y de treinta a ochenta días multa, destitución e inhabilitación hasta seis años para obtener otro cargo público.
 
-### CAPÍTULO III. FRAUDE PROCESAL
+### CAPÍTULO II. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 250.
 
@@ -3357,7 +3395,7 @@ Al servidor público que durante el tiempo de su cargo y por motivos del mismo, 
 
 Las mismas sanciones se aplicarán a quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido ilícitamente, a sabiendas de esa circunstancia.
 
-### CAPÍTULO IV. FALSAS DENUNCIAS
+### CAPÍTULO III. FRAUDE PROCESAL
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3369,27 +3407,33 @@ A quien indebidamente se atribuya y ejerza funciones públicas, se le sancionar�
 
 Se sancionará con prisión de tres a doce años y de treinta a ciento veinte días multa a quien indebidamente se atribuya y ejerza funciones de seguridad pública.
 
+### CAPÍTULO IV. FALSAS DENUNCIAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+###### Artículo 252.
+
+A quien injustificadamente abandone las funciones públicas que legalmente tenga conferidas, se le sancionará con prisión de seis meses a dos años y de cinco a veinte días multa.
+
 ### CAPÍTULO V. ATRIBUCIÓN INDEBIDA DE INDICIOS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-###### Artículo 252.
+###### Artículo 253.
 
-A quien injustificadamente abandone las funciones públicas que legalmente tenga conferidas, se le sancionará con prisión de seis meses a dos años y de cinco a veinte días multa.
+A cualquier persona que en la promoción, declaración, informe, peritaje, traducción o interpretación que haga ante la autoridad competente se conduzca falsamente, oculte o niegue intencionadamente la verdad, se le impondrá de dos a ocho años de prisión y de veinte a ochenta días multa.
+
+Lo previsto en este artículo no es aplicable a quien tenga el carácter de inculpado.
 
 ### CAPÍTULO VI. EVASIÓN DE DETENIDOS, INCULPADOS O SENTENCIADOS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-###### Artículo 253.
-
-A cualquier persona que en la promoción, declaración, informe, peritaje, traducción o interpretación que haga ante la autoridad competente se conduzca falsamente, oculte o niegue intencionadamente la verdad, se le impondrá de dos a ocho años de prisión y de veinte a ochenta días multa.
-
-Lo previsto en este artículo no es aplicable a quien tenga el carácter de inculpado.
 
 ### CAPÍTULO VII. QUEBRANTAMIENTO DE SANCIONES
 
@@ -3409,21 +3453,19 @@ Lo previsto en este artículo no es aplicable a quien tenga el carácter de incu
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
+## TÍTULO QUINTO. DE LOS DELITOS EN MATERIA ELECTORAL
+
 ### CAPÍTULO I. DEFRAUDACIÓN FISCAL
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-## TÍTULO QUINTO. DE LOS DELITOS EN MATERIA ELECTORAL
-
-### CAPÍTULO II. REGLAS COMUNES PARA LOS DELITOS CONTRA LA HACIENDA PÚBLICA
-
 ###### Artículo 254.
 
 A quien para eludir el cumplimiento de un mandato de autoridad, oculte su nombre o domicilio, designe otro distinto, altere las señales materiales que lo individualizan o niegue de cualquier modo el verdadero, se le impondrá prisión de uno a cinco años y de diez a cincuenta días multa.
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO II. REGLAS COMUNES PARA LOS DELITOS CONTRA LA HACIENDA PÚBLICA
 
 ###### Artículo 255.
 
@@ -3433,9 +3475,7 @@ A quien para eludir el cumplimiento de un mandato de autoridad, oculte su nombre
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO I. DELITOS CONTRA LA PRESERVACIÓN Y PROTECCIÓN AL AMBIENTE
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
 ###### Artículo 256.
 
@@ -3445,9 +3485,9 @@ A quien empleando la violencia física o moral se oponga a que una autoridad eje
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
+### CAPÍTULO I. DELITOS CONTRA LA PRESERVACIÓN Y PROTECCIÓN AL AMBIENTE
 
-> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 257.
 
@@ -3467,7 +3507,7 @@ III.- Valiéndose de la información que posea por razón de su empleo, cargo o 
 
 A quien con actos materiales entorpezca o se oponga a la ejecución de obras o trabajos públicos legalmente ordenados por una autoridad, se le impondrá de dos a seis años de prisión y de veinte a sesenta días multa.
 
-### CAPÍTULO III. REGLAS COMUNES A LOS DELITOS CONTRA EL AMBIENTE
+### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -3475,13 +3515,17 @@ A quien con actos materiales entorpezca o se oponga a la ejecución de obras o t
 
 A quien quebrante sellos puestos por orden de una autoridad, se le aplicará de uno a cinco años de prisión y de diez a cincuenta días multa.
 
-### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
+### CAPÍTULO III. REGLAS COMUNES A LOS DELITOS CONTRA EL AMBIENTE
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 261.
 
 Al servidor público que dolosamente, con motivo de sus funciones exceda el límite de sus potestades o atribuciones, en detrimento de un particular o de la función pública, se le impondrá de dos a ocho años de prisión, de veinte a ochenta días multa, destitución del empleo o cargo e inhabilitación hasta por seis años.
+
+### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 262.
 
@@ -4102,3 +4146,11 @@ P.O. 28 DE NOVIEMBRE DE 2014.
 Inicio de vigencia
 
 Artículo Único. El presente Artículo entrará en vigencia el día 1 de junio de 2016.
+
+P.O. 16 DE DICIEMBRE DE 2014.
+
+Artículo Primero. El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Toda referencia al tipo penal de violencia intrafamiliar deberá ser entendida al tipo penal de violencia familiar en los términos del presente decreto.
+
+Artículo Tercero. A las personas que hayan sustraído, retenido u ocultado a un menor o incapaz, con anterioridad a la entrada en vigor del presente Decreto, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
