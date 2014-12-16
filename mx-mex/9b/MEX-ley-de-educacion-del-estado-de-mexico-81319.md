@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2014-12-09"
+last_updated: "2014-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 8 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 9 DE DICIEMBRE DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 344 PUBLICADO EN LA G.G. DE 8 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 16 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -226,6 +224,10 @@ III. Promover la prestación de servicios educativos que apoyen en forma permane
 > <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
 IV. Prestar servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando facilidades de acceso, reingreso, permanencia y egreso a las mujeres;
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+Llevarán a cabo las acciones necesarias para que ninguna institución educativa, de nivel tipo básico, medio superior y superior, nieguen el ingreso, permanencia, matrícula, o acceso de una estudiante embarazada o estudiante lactante, debiendo otorgársele la protección y facilidades apropiadas a su permanencia o reincorporación;
 
 V. Otorgar apoyos pedagógicos a grupos con requerimientos educativos específicos;
 
@@ -571,6 +573,16 @@ XX. Establecer y fomentar sistemas de educación a distancia, mediante el uso de
 
 XXI. Otorgar becas, así como estímulos a los educandos que lo requieran por su situación socioeconómica y desempeño académico, en términos de la reglamentación respectiva;
 
+> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+XXI. BIS. Otorgar a partir de la suficiencia presupuestal, previa valoración del ajuste razonable conforme a la Convención de los Derechos de las Personas con Discapacidad y de acuerdo al certificado de institución de salud pública, como una acción permanente, un estímulo económico a los educandos de instituciones públicas o privadas que padezcan cáncer, diabetes, VIH, o discapacidad a largo plazo y que no cuenten con otro tipo de beca escolar, o que estudiando en escuelas públicas y privadas hayan resultado ganadores de la olimpiada del conocimiento infantil y conserven promedio mínimo de 9.0 en cada ciclo escolar, y en general, a aquellos que han sido afectados y que deban ser atendidos en observancia y cumplimiento de recomendaciones, emitidas por organismos protectores de los derechos humanos, incluyendo la solución amistosa de asuntos de su competencia.
+
+Para tal efecto, se creará un padrón estatal de beneficiarios, de conformidad con la legislación aplicable, observando el interés superior del menor.
+
+Los estudiantes de instituciones públicas que se encuentren en los supuestos anteriores tendrán garantizada su formación académica, hasta la culminación de los estudios de licenciatura o profesional técnico en escuelas públicas.
+
+Los estudiantes ganadores de la olimpiada del conocimiento infantil, se harán acreedores al reconocimiento y apoyo económico en el monto que determine la Autoridad Educativa Estatal.
+
 XXII. Promover el trámite de la cartilla de salud para la incorporación de los estudiantes a los servicios de atención médica;
 
 XXIII. Proporcionar a los educandos de instituciones públicas de educación primaria un seguro escolar contra accidentes;
@@ -889,7 +901,7 @@ XII. Ofrecer programas y cursos para la formación continua del personal docente
 
 XIII. Ofrecer al personal docente y con funciones de dirección y de supervisión programas de desarrollo de capacidades para la evaluación;
 
-XIV. Organizar y operar el Servicio de Asistencia Técnica a la escuela,
+XIV. Organizar y operar el Servicio de Asistencia Técnica a la escuela.
 
 XV. Ofrecer los programas de regularización a que se refiere el Capítulo VIII del Título Segundo de la Ley General del Servicio Profesional Docente;
 
@@ -2726,3 +2738,23 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 16 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 352 QUE ADICIONA LA FRACCIÓN XXI BIS AL ARTÍCULO 27 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Legislatura del Estado determinará la partida presupuestal conducente en el Presupuesto de Egresos del ejercicio fiscal correspondiente.
+
+CUARTO.- El Titular del Ejecutivo Estatal proveerá en la esfera administrativa lo conducente para la observancia del presente Decreto.
+
+G.G. 16 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 354 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 12 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
