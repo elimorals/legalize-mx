@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2014-05-06"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ACUERDO DE REFORMAS ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -33,7 +35,7 @@ EL CIUDADANO LIC. FRANCISCO RICARDO SHEFFIELD PADILLA, PRESIDENTE MUNICIPAL DE L
 
 QUE EL HONORABLE AYUNTAMIENTO CONSTITUCIONAL QUE PRESIDO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 115, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; 117 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO; 69 FRACCIONES I INCISO B), 202, 203, 203 A, 204 Y 205 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO, 84, 85, 86, 89, 90 Y 94 DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DE LEÓN, GUANAJUATO, EN SESIÓN ORDINARIA DE FECHA 08 DE JULIO DE 2010, APROBÓ EL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO, ASÍ COMO LOS ANEXOS TÉCNICOS QUE LO CONFORMAN, ELLO CON BASE EN LA SIGUIENTE:
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS...
 
 Finalmente, el proyecto de Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato, pretende ser un proyecto urbano colectivo que socialice los costos y los beneficios colectivos de largo plazo, y que cuente con la suficiente voluntad y liderazgo político para activar recursos, logrando una interacción democrática y participativa en los asuntos de la ciudad.
 
@@ -633,7 +635,7 @@ XVIII. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
 XIX. Crear el sistema de información sobre uso del suelo y Banco de Datos para control urbano;
 
-XX. Autorizar los usos o actividades consideradas como de riesgo conforme al Grupo de Usos XXII (sic) establecido en el presente Código;
+XX. Autorizar los usos o actividades consideradas como de riesgo conforme al Grupo de Usos XXII establecido en el presente Código;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -641,7 +643,7 @@ XXI. Someter a la consideración del H. Ayuntamiento, las actividades y giros qu
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
 
-XXI A. Someter a la consideración de la Comisión de Desarrollo Urbano la opinión que deba rendirse para la instalación de los espacios para apuestas en el Municipio, en los términos de la normativa aplicable;
+XXI - A. Someter a la consideración de la Comisión de Desarrollo Urbano la opinión que deba rendirse para la instalación de los espacios para apuestas en el Municipio, en los términos de la normativa aplicable;
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -687,7 +689,7 @@ XXVIII - B. Dictaminar sobre la ejecución de las actividades realizadas por los
 
 XXIX. Establecer las especificaciones técnicas para la construcción de guarniciones, banquetas, pavimentos en arroyos vehiculares, alumbrado público y demás servicios dentro (sic) los fraccionamientos y desarrollos en condominio con base en los lineamientos establecidos por la Dirección General de Obra Pública; así como supervisar que su ejecución se realice conforme a las especificaciones técnicas autorizadas, verificando el avance y la calidad de las mismas;
 
-XXX. Establecer, las especificaciones técnicas de las obras de equipamiento de las áreas verdes que proponga el desarrollador;
+XXX. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2014)
 
 XXXI. Requerir al desarrollador los estudios, y la realización de las acciones resultantes de los mismos, para erradicar los factores de riesgo que en su caso se hubiesen presentado en la ejecución de las obras de urbanización de un fraccionamiento o de un desarrollo en condominio;
 
@@ -711,19 +713,19 @@ XXXVIII. Mantener coordinación con el SAPAL, la CFE y demás dependencias y ent
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
-XXXVIII-A. Autorizar los permisos de uso de suelo y de construcciones de los proyectos cuyo número de unidades o lotes sea inferior a 24 unidades de propiedad privativa;
+XXXVIII - A. Autorizar los permisos de uso de suelo y de construcciones de los proyectos cuyo número de unidades o lotes sea inferior a 24 unidades de propiedad privativa;
 
 En materia de Construcciones:
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-XXXIX.- Otorgar, negar, suspender o revocar el registro y refrendo a los DRO, proyectista arquitectónico, proyectista estructural, conformando para esto un padrón municipal, todo ello de conformidad con lo establecido en el presente Código, y demás normativa aplicable;
+XXXIX. Otorgar, negar, suspender o revocar el registro y refrendo a los DRO, proyectista arquitectónico, proyectista estructural, conformando para esto un padrón municipal, todo ello de conformidad con lo establecido en el presente Código, y demás normativa aplicable;
 
 XL. Conformar los expedientes derivados de los registros y refrendos previstos en la fracción anterior, en los términos del presente Código;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-XLI.- Dictaminar sobre la ejecución de las actividades realizadas por los DRO, proyectista arquitectónico y proyectista estructural y peritos topógrafos, respecto a las cuales haya sido extendida su responsiva;
+XLI. Dictaminar sobre la ejecución de las actividades realizadas por los DRO, proyectista arquitectónico y proyectista estructural y peritos topógrafos, respecto a las cuales haya sido extendida su responsiva;
 
 XLII. Instaurar, substanciar y resolver los procedimientos administrativos que se generen con motivo de la fracción anterior, e imponer en su caso las sanciones a las que se hagan acreedores;
 
@@ -1643,7 +1645,7 @@ Los usos en las zonas de Reserva Ecológica (RE), se sujetarán a las normas sig
 
 I. La densidad máxima será de 50 hab/Ha;
 
-II. Las edificaciones de equipamiento urbano que se construyan en estas zonas deberán sujetarse a lo dispuesto por el Sistema Normativo de Equipamiento Urbano, expedido por la Secretaría de Desarrollo Social (SEDESOL); y, (sic)
+II. Las edificaciones de equipamiento urbano que se construyan en estas zonas deberán sujetarse a lo dispuesto por el Sistema Normativo de Equipamiento Urbano, expedido por la Secretaría de Desarrollo Social (SEDESOL); y,
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1681,7 +1683,7 @@ IV. Para el caso de usos habitacionales, los mismos deberán ser verificados de 
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
 
-V. Se fomentaran actividades rurales dedicadas al manejo y aprovechamiento de las áreas naturales; y, (sic)
+V. Se fomentaran actividades rurales dedicadas al manejo y aprovechamiento de las áreas naturales; y,
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1711,7 +1713,7 @@ a) Cuando el área de donación sea mayor a una hectárea, ésta se deberá dise
 
 b) Cuando el área de donación sea menor a una hectárea y el predio a desarrollar colinde con otros predios con posibilidad de desarrollo futuro, ésta deberá diseñarse de forma concentrada, con frente a una vía primaria o secundaria, y colindancia de forma que puede ser complementada por otro u otros desarrollo futuros;
 
-c) Cuando el Uso del Suelo propuesto en un Parque Metropolitano (PM) y/o Parque Distrital (PD), no implique el desarrollo de un fraccionamiento, la edificación deberá respetar en su proyecto un área perimetral mínima de 1.50 metros, destinada a forestación, para mantener la imagen urbana del lugar además de lo normado por cada grupo de usos y zona, así como lo mencionado por el Título de Fraccionamientos y Desarrollos en Condominio de este Código; y, (sic)
+c) Cuando el Uso del Suelo propuesto en un Parque Metropolitano (PM) y/o Parque Distrital (PD), no implique el desarrollo de un fraccionamiento, la edificación deberá respetar en su proyecto un área perimetral mínima de 1.50 metros, destinada a forestación, para mantener la imagen urbana del lugar además de lo normado por cada grupo de usos y zona, así como lo mencionado por el Título de Fraccionamientos y Desarrollos en Condominio de este Código; y,
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2687,7 +2689,7 @@ Las medidas señaladas en este artículo, son las mínimas requeridas y quedará
 
 Las instalaciones en vía pública referidas a la telefonía, gas natural y demás servicios deben ser subterráneas y cumplir con las normas oficiales vigentes, siendo la Dirección la responsable de la autorización del diseño.
 
-Una vez formalizada la entrega - recepción las (sic) obras de urbanización relativas a las banquetas y arroyo vehicular no podrá ser autorizada la instalación subterránea de los servicios a que se refiere el párrafo anterior, salvo que el organismo ejecutor otorgue a favor del municipio una fianza que garantice la reparación de las obras que puedan sufrir algún daño.
+Una vez formalizada la entrega - recepción (sic) las obras de urbanización relativas a las banquetas y arroyo vehicular no podrá ser autorizada la instalación subterránea de los servicios a que se refiere el párrafo anterior, salvo que el organismo ejecutor otorgue a favor del municipio una fianza que garantice la reparación de las obras que puedan sufrir algún daño.
 
 Quedan excluidas de lo establecido en el párrafo anterior, las reparaciones que resulten necesarias de los servicios básicos ya existentes.
 
@@ -2803,13 +2805,13 @@ En todos los Sistemas Viales, las guarniciones serán de concreto hidráulico y 
 
 Sobre las guarniciones de las áreas de donación en favor del Municipio, se deberá marcar físicamente con una placa que señale toma domiciliaria, haciendo referencia a la ubicación de la toma domiciliaria que correspondan a los servicios descritos a continuación: Agua, Luz, Drenaje Sanitario y Drenaje Pluvial.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 170.
 
-El desarrollador deberá donar un árbol por cada uno de los lotes, unidades, locales y/o las viviendas que integren el proyecto de diseño urbano, más los que señale la autorización de impacto ambiental y los lugares donde deberán plantarse serán de acuerdo a lo que indique dicha autorización, debiendo observar que las especies que se vayan a sembrar no generen problemática en postes de alumbrado público, ni obstruyan la iluminación de la vía pública.
+El desarrollador deberá plantar en el área del proyecto, un árbol por cada uno de los lotes, unidades, locales o viviendas que integren el proyecto de diseño urbano, además de los que se determinen en la autorización en materia de evaluación del impacto ambiental respectiva (sic).
 
-La distancia mínima a observar entre la instalación de un poste de alumbrado público con respecto a la ubicación de un árbol que genere follaje abundante será de 5 metros radiales en vía pública, lo cual deberá de observarse en la autorización de impacto ambiental.
+La plantación de los árboles deberá efectuase (sic) con las especies, y conforme a los términos, condiciones y especificaciones establecidos en el Reglamento para la Gestión Ambiental en el Municipio de León, Guanajuato, así como en los programas y manuales que se expidan para tal efecto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3183,7 +3185,9 @@ Los desarrollos en condominio cualquiera que sea su tipo, conforme al número de
 
 Las áreas verdes deberán estar jardinadas y arboladas de conformidad con lo establecido en la autorización de impacto ambiental presentada para la aprobación de traza.
 
-El mobiliario urbano para estas áreas será propuesto por el desarrollador y aprobado por la Dirección.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+El mobiliario urbano para estas áreas será propuesto por el desarrollador y aprobado por la Dirección General de Gestión Ambiental.
 
 ###### Artículo 199.
 
@@ -3741,7 +3745,7 @@ V. Proyecto y presupuesto para la construcción e introducción de los sistemas 
 
 VI. Proyecto para la construcción e introducción de las redes de energía eléctrica aprobado por la Comisión Federal de Electricidad;
 
-VII. Proyecto para la construcción e instalación del alumbrado público aprobado por la Dirección; y, (sic)
+VII. Proyecto para la construcción e instalación del alumbrado público aprobado por la Dirección; y,
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3751,9 +3755,9 @@ VIII. Los proyectos y presupuestos de las obras de cabecera;
 
 IX. Proyecto de ejecución de obras para la regulación de aguas pluviales mediante la construcción de uno o varios vasos reguladores y/o tanques de tormenta en caso de ser necesarios, o bien cualquier otra solución técnicamente factible que sea validada por el SAPAL, según sea el área que al efecto se reserve en dicho desarrollo.
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-X. Los proyectos y presupuestos de las áreas verdes forestadas.
+X. Los proyectos y presupuestos de las áreas verdes forestadas, autorizados por la Dirección General de Gestión Ambiental.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3863,7 +3867,7 @@ Una vez concedido el permiso de urbanización de la etapa solicitada, el desarro
 
 ###### Artículo 251-E.
 
-El desarrollador no podrá solicitar la entrega recepción de las obras de urbanización o de edificación en los fraccionamientos o desarrollos en condominios por etapas. Deberá realizar en un solo acto de la (sic) entrega-recepción de la totalidad de las etapas.
+El desarrollador no podrá solicitar la entrega recepción de las obras de urbanización o de edificación en los fraccionamientos o desarrollos en condominios por etapas. Deberá realizar en un solo acto de (sic) la entrega-recepción de la totalidad de las etapas.
 
 ### CAPÍTULO XI. DEL PERMISO DE VENTA
 
@@ -4001,7 +4005,7 @@ La entrega recepción de las obras de urbanización, podrá efectuarse en lo ind
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
-Para los efectos del párrafo que antecede, el supervisor de la Dirección o, en su caso, el perito urbano en ejecución de obras de urbanización, designado por la autoridad para firmar en la bitácora, una vez concluidas las obras, hará constar las observaciones en un término que no exceda de veinte días hábiles y el desarrollador informará su conclusión para que la Dirección proceda a revisarlas dentro de un término veinte (sic) días hábiles y, en su caso, realizar la entrega recepción de las mismas.
+Para los efectos del párrafo que antecede, el supervisor de la Dirección o, en su caso, el perito urbano en ejecución de obras de urbanización, designado por la autoridad para firmar en la bitácora, una vez concluidas las obras, hará constar las observaciones en un término que no exceda de veinte días hábiles y el desarrollador informará su conclusión para que la Dirección proceda a revisarlas dentro de un término (sic) veinte días hábiles y, en su caso, realizar la entrega recepción de las mismas.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -4083,7 +4087,9 @@ Constituir en escritura pública a favor de SAPAL las servidumbres de paso para 
 
 XIII. Asegurar ante la Dirección los instrumentos jurídicos, administrativos y operativos que den garantía a corto, mediano y largo plazo del mantenimiento y conservación del motivo de acceso al momento de solicitar la autorización correspondiente, el cual no debe implicar impacto de inversión pública municipal;
 
-XIV. Presentará las especificaciones técnicas necesarias de las obras complementarias propuestas en las áreas verdes para su validación por parte de la Dirección; y,
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+XIV. Presentará las especificaciones técnicas necesarias de las obras complementarias propuestas en las áreas verdes para su validación por parte de la Dirección General de Gestión Ambiental.
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -4359,7 +4365,7 @@ IV. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-V. Acreditar experiencia en procedimientos para establecer la posición de un punto referente la (sic) superficie de la tierra, tanto en geodesia como en topografía, así como en la planeación, organización, dirección y ejecución en la áreas de geomática, sistemas de información geográfica, cartografía, geodesia, topografía, fotogrametría y ciencia (sic) afines, con el objeto de establecer el marco geográfico y geométrico de referencia en todos los proyectos en que se apliquen estas disciplina (sic) en los términos del artículo 388 párrafo segundo del Código Territorial;
+V. Acreditar experiencia en procedimientos para establecer la posición de un punto referente (sic) la superficie de la tierra, tanto en geodesia como en topografía, así como en la planeación, organización, dirección y ejecución en la áreas de geomática, sistemas de información geográfica, cartografía, geodesia, topografía, fotogrametría y ciencia (sic) afines, con el objeto de establecer el marco geográfico y geométrico de referencia en todos los proyectos en que se apliquen estas disciplina (sic) en los términos del artículo 388 párrafo segundo del Código Territorial;
 
 VI. Presentar por escrito y debidamente firmado, su currículum vitae;
 
@@ -4373,7 +4379,7 @@ IX. Dos fotografías tamaño infantil.
 
 ###### Artículo 287 - C.
 
-Los requisitos en el artículo anterior, son independientes y sin perjuicio de los requisitos que puedan solicitar otras dependencias gubernamentales u organismos no gubernamentales para la realización de los proyectos en que se (sic) encuentren registrados ante la Dirección.
+Los requisitos en el artículo anterior, son independientes y sin perjuicio de los requisitos que puedan solicitar otras dependencias gubernamentales u organismos no gubernamentales para la realización de los proyectos en (sic) que se encuentren registrados ante la Dirección.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -4979,7 +4985,7 @@ Para la obtención del permiso de construcción especial para trabajos prelimina
 
 I. Presentar formato de solicitud debidamente completado y firmado por el propietario, poseedor o representante legal;
 
-II. Copia de Identificación oficial del Propietario o poseedor; y, (sic)
+II. Copia de Identificación oficial del Propietario o poseedor; y,
 
 III. Cubrir el costo de la licencia de acuerdo a la Ley de Ingresos vigente.
 
@@ -8044,3 +8050,79 @@ Cuarto. Las licencias de uso de suelo otorgadas con anterioridad a la presente r
 Quinto. En el caso de fraccionamientos y desarrollos en condominio que se tramiten antes de la entrada en vigor de la presente reforma, se dará continuidad a la etapa en que se encuentre vigente, continuando con los trámites en los términos de la presente reforma.
 
 Sexto. Los establecimientos que actualmente cuenten con un permiso federal como espacio para apuestas y que no cuenten con la licencia de uso de suelo específica para ese giro deberán acudir, dentro de los siguientes noventa días naturales al inicio de vigencia del presente acuerdo, a la Dirección General de Desarrollo Urbano para su regularización correspondiente. La Dirección ya citada resolverá dichas regularizaciones atendiendo a los requisitos solicitados en la normativa vigente antes de la entrada en vigor de la presente reforma.
+
+P.O. 16 DE DICIEMBRE DE 2014.
+
+Artículo primero. Este Acuerdo entra en vigencia el 01 de enero de 2015, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. Se abrogan:
+
+I. El Reglamento Municipal para el Control de la Calidad Ambiental de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 101, segunda parte, de fecha 17 de diciembre de 1991;
+
+II. El Reglamento de Parques y Jardines para el Municipio de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 84, segunda parte, de fecha 18 de octubre de 1996;
+
+III. El Reglamento de Aseo Público Municipal de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 48, segunda parte, de fecha 15 de Junio de 1993;
+
+IV. El Reglamento para la Prevención y el Control de la Contaminación a la Atmósfera generada por Vehículos Automotores, para el Municipio de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 34, segunda parte de fecha 28 de febrero de 2006;
+
+V. El Reglamento del Consejo Consultivo Ambiental del Municipio de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 42, segunda parte de fecha 15 de marzo de 2011;
+
+VI. Las Disposiciones Administrativas para el Control de la Contaminación Ambiental "Ladrilleras", publicadas en el Periódico Oficial del Gobierno del Estado de Guanajuato número 15, primera parte de fecha 20 de febrero de 1990; y
+
+VII. El Acuerdo para el Desarrollo Forestal Sustentable del Municipio de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 22, segunda parte de fecha 7 de febrero de 2006.
+
+Artículo tercero. Se derogan todos los acuerdos y demás disposiciones que se opongan a este Ordenamiento.
+
+Artículo cuarto. Las atribuciones, funciones, facultades, derechos y obligaciones de las Direcciones de Área y unidades administrativas adscritas a la Dirección General de Medio Ambiente Sustentable, antes de la entrada en vigencia del presente Acuerdo, se subrogan en las Direcciones de Área y unidades administrativas adscritas a la Dirección General de Gestión Ambiental, atendiendo a las atribuciones que en el presente Acuerdo se les establecen, así como atendiendo a la naturaleza de la materia que le corresponda a cada una de ellas.
+
+Artículo quinto. Cualquier referencia a la "Dirección General de Medio Ambiente y Ecología", "Dirección General de Protección al Ambiente y Desarrollo Sustentable", "Dirección General de Protección al Ambiente" o "Dirección General de Medio Ambiente Sustentable", que se contenga en reglamentos, acuerdos, circulares, disposiciones administrativas de observancia general o cualquier otro acto jurídico emitido por el Ayuntamiento o por alguna de sus dependencias, entidades o unidades administrativas, debe entenderse efectuada a la Dirección General de Gestión Ambiental.
+
+Artículo sexto. Todos los archivos, insumos, bienes materiales, expedientes, asignaciones presupuestales, compromisos y obligaciones de la Dirección General de Medio Ambiente Sustentable pasan a formar parte de la Dirección General de Gestión Ambiental, a efecto de su debida atención o resguardo.
+
+Artículo séptimo. La Dirección General de Gestión Ambiental debe cumplir íntegramente con las obligaciones, compromisos, trámites y procedimientos asumidos por la Dirección General de Medio Ambiente Sustentable.
+
+Artículo octavo. Todos los procedimientos y demás asuntos relacionados con las materias a que refiere este Ordenamiento, iniciados con anterioridad a la entrada en vigencia al presente acuerdo, deben tramitarse y resolverse conforme a las disposiciones vigentes en ese momento.
+
+Artículo noveno. En caso de obras o actividades que, conforme a este Ordenamiento, requieran sujetarse a la evaluación del impacto ambiental y que al momento de su entrada en vigencia, se encuentren en etapa de preparación del sitio o construcción, cuentan, por única ocasión, con un plazo de treinta días hábiles, contados a partir de la entrada en vigencia de este Ordenamiento, para presentar la manifestación del impacto ambiental correspondiente.
+
+Tratándose de obras o actividades que al momento de la entrada en vigencia del presente Acuerdo, se encuentren en etapa de operación, y que conforme a este Ordenamiento requieran sujetarse a la evaluación del impacto ambiental, cuentan, por única ocasión, con un plazo de ocho meses, contados a partir de la entrada en vigencia de este Ordenamiento, para presentar la manifestación del impacto ambiental respectiva.
+
+En todo caso, la manifestación del impacto ambiental únicamente habrá de referirse a la etapa en que se encuentre la obra o actividad al momento de la entrada en vigencia de este Ordenamiento, así como a las subsecuentes, en los términos de este Ordenamiento.
+
+La Dirección General de Gestión Ambiental debe implementar las facilidades necesarias para la tramitación oportuna de los procedimientos relativos.
+
+Artículo décimo. Se autoriza la creación del fondo ambiental municipal a que se refiere este Ordenamiento, para lo que el Ayuntamiento debe aprobar, en el Presupuesto de Egresos de cada Ejercicio Fiscal, a partir del correspondiente al año 2015, la asignación de recursos necesarios para el funcionamiento y cumplimiento de los objetivos propios del mismo.
+
+El Comité Técnico debe instalarse y aprobar las Reglas de Operación del Fondo Ambiental Municipal, dentro de los treinta días hábiles siguientes al inicio de vigencia del presente Acuerdo.
+
+Artículo décimo primero. Las disposiciones de los artículos 231 y 232 de este Ordenamiento carecen de efecto retroactivo, salvo que se trate de medidas y acciones implementadas para la sustitución de ejemplares de especies exóticas, invasoras o que se tornen perjudiciales, en los términos del presente Acuerdo y, en su caso, de los programas municipales relativos.
+
+Artículo décimo segundo. Dentro de los seis meses siguientes a la entrada en vigencia del presente Acuerdo, la Tesorería Municipal, en coordinación con las direcciones generales de Desarrollo Urbano y de Gestión Ambiental, así como con el Instituto Municipal de Planeación, debe integrar y entregar a la Dirección General de Gestión Ambiental, el inventario de espacios verdes urbanos propiedad del Municipio.
+
+Artículo décimo tercero. La Dirección General de Gestión Ambiental debe implementar un programa temporal de regularización, a efecto de que, dentro de los ocho meses siguientes a la entrada en vigencia del presente Acuerdo, quienes hayan recibido asignaciones de áreas verdes por parte de la Dirección General de Desarrollo Urbano, y estén interesados en continuar realizando el cuidado, limpieza y mantenimiento de las mismas, suscriban el convenio a que se refiere el primer párrafo del artículo 215 de este Ordenamiento.
+
+Una vez vencido el plazo a que se refiere el párrafo anterior, quedarán sin efecto las asignaciones de áreas verdes y cualquier otro acto administrativo expedido a instancia de la Dirección General de Desarrollo Urbano, mediante el que se asigne o entregue la custodia o conservación de áreas verdes a cualquier persona física, empresa, organización o asociación de habitantes.
+
+Artículo décimo cuarto. Los propietarios o responsables de cualquier establecimiento o instalación en la que, a la fecha de la entrada en vigencia del presente Acuerdo, se emitan a la atmósfera gases o partículas sólidas o líquidas, o se realicen actividades de difusión fonética o aquellas relativas a alguna de las etapas del manejo integral de residuos y que, conforme a este Ordenamiento, requieran del permiso otorgado por la Dirección General de Gestión Ambiental, cuentan, por única ocasión, con un plazo de ocho meses, contados a partir de la entrada en vigencia de este Ordenamiento, para solicitar los permisos correspondientes.
+
+La Dirección General de Gestión Ambiental debe implementar las facilidades necesarias para la tramitación oportuna de los permisos a que se refiere este artículo.
+
+Artículo décimo quinto. Cuando por motivos de índole estrictamente técnicos, no sea posible cumplir, de inmediato, con los límites señalados en las normas oficiales mexicanas, el responsable de la fuente emisora de ruido cuenta, por única ocasión, con un plazo de ocho meses, contados a partir de la entrada en vigencia de este Ordenamiento, para solicitar a la Dirección General de Gestión Ambiental, la autorización del programa de reducción de ruido en la que se fijen, de manera temporal, los límites máximos permisibles para esa fuente, condicionados a la ejecución, por parte del responsable de la fuente fija, de las acciones, proyectos y medidas propuestos en ese programa, así como aquellas que adicionalmente ordene la propia dependencia municipal.
+
+La tramitación y otorgamiento de la autorización a que se refiere el párrafo anterior, queda sujeta, en lo conducente, a lo dispuesto en el título cuarto, capítulo II, sección primera, de este Ordenamiento.
+
+Artículo décimo sexto. Por única ocasión, los responsables de la operación de los sistemas de iluminación exterior, anuncios espectaculares, estacionamientos públicos, pensiones o lotes de vehículos de motor, talleres mecánicos o de hojalatería y pintura, así como cualquier otro establecimiento o instalación que con motivo de la entrada en vigencia de este Ordenamiento deba realizar las adecuaciones necesarias para dar cumplimiento a lo dispuesto en este Ordenamiento, cuentan con un plazo de dieciocho meses, contados a partir (sic) la entrada en vigencia del presente Acuerdo, para efectuar las ampliaciones, modificaciones o sustitución de infraestructura que resulten procedentes.
+
+Artículo décimo séptimo. Los propietarios o responsables de bienes inmuebles en los que, a la entrada en vigencia de este Acuerdo, estén instaladas o se encuentren en operación de fosas sépticas selladas, cuentan por una única ocasión, con un plazo de dieciocho meses, contados a partir (sic) la entrada en vigencia del presente Acuerdo, para cancelar y cerrar de manera definitiva las fosas sépticas selladas con las que se cuente, así como para presentar a la autoridad competente el programa de remediación de sitio contaminado, en caso de que se detectase la contaminación del suelo.
+
+Artículo décimo octavo. El SIAP-León debe implementar un programa temporal de regularización, a efecto de que, dentro de los ocho meses siguientes a la entrada en vigencia del presente Acuerdo, los grandes generadores de residuos sólidos urbanos que hayan obtenido de la Dirección General de Gestión Ambiental el registro correspondiente, obtengan aquél a que se refiere el artículo 420, fracción VI, de este Ordenamiento, así como para que quienes hayan obtenido el registro como transporte de residuos sólidos urbanos soliciten, en su caso, la concesión para prestar el servicio de traslado de residuos sólidos urbanos.
+
+Una vez vencido el plazo a que se refiere el párrafo anterior, quedarán sin efecto los registros como empresa generadora de residuos sólidos urbanos y de transporte de residuos sólidos urbanos, otorgados a instancia de la Dirección General de Gestión Ambiental, con anterioridad a la entrada en vigencia de este Acuerdo.
+
+Artículo décimo noveno. El Consejo Consultivo Ambiental que se encuentra en funciones al momento de la entrada en vigencia del presente Acuerdo, debe permanecer integrado hasta que corresponda su renovación, en los términos del título séptimo, capítulo II, sección primera, de este Ordenamiento.
+
+Por única ocasión, el presidente del Consejo Consultivo Ambiental debe ser electo en la primera sesión ordinaria siguiente a la entrada en vigencia de este Acuerdo, en los términos de este Ordenamiento.
+
+Artículo vigésimo. Dentro de los tres meses siguientes a la entrada en vigencia del presente Acuerdo, la Dirección General de Gestión Ambiental, debe realizar las gestiones conducentes y, en su caso, emitir las convocatorias respectivas, para la integración del padrón municipal de peritos ambientales.
+
+En tanto se integra el padrón municipal de peritos ambientales, las funciones periciales a que se refiere este Ordenamiento, pueden ser realizadas por las personas inscritas en el Padrón de Prestadores de Servicios Ambientales en el Estado de Guanajuato, que administra el Instituto de Ecología del Estado de Guanajuato.
