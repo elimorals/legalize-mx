@@ -4,7 +4,7 @@ identifier: "COA-reglamento-del-instituto-municipal-de-documentacion-de-25559"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-11-22"
-last_updated: "1996-11-22"
+last_updated: "2014-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO DEL INSTITUTO MUNICIPAL DE DOCUMENTACION DE TORREON, COAHUILA
 
-REGLAMENTO DEL INSTITUTO MUNICIPAL DE DOCUMENTACION DE TORREON, COAHUILA
+REGLAMENTO DEL INSTITUTO MUNICIPAL DE DOCUMENTACIÓN DE TORREÓN, COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL MUNICIPIO DE TORREÓN, COAHUILA MEDIANTE EL CUAL SE ABROGAN DIVERSOS REGLAMENTOS DEL SISTEMA DE NORMATIVIDAD MUNICIPAL, PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Gaceta Municipal del Ayuntamiento de Torreón, del Estado de Coahuila, el viernes 22 de noviembre de 1996.
 
@@ -325,7 +327,7 @@ VIII.- Presentar al Secretario del R. Ayuntamiento el mes de enero de cada año 
 
 IX.- Someter a la aprobación del Cabildo, por conducto del Secretario del R. Ayuntamiento, el presupuesto anual de ingresos y egreso (sic), en tiempo y forma.
 
-X.- Para el ejercicio de sus funciones contará con facultades generales para actos de administración y pleitos y cobranzas, para desistirse; para transigir; para comprometerse en árbitros; para absolver y articular posiciones; para recusar; para hacer y recibir pagos; para contestar las demandas y reconvenciones que se entablen en contra de su mandante; oponer excepciones dilatorias y perentorias; rendir y apoyar toda clase de pruebas; reconocer firmas y documentos y redarguir de falsas las que se presenten por la contraria; presentar testigos y a su vez protestar a los de la contraria y los repregunte y tache; oír autos interlocutorios, definitivos y sentencias, consentir los favorables; pedir revocaciones e interponer, apelaciones; promover amparos y desistirse de ellos; pedir aclaraciones de sentencia; ejecutar, embargar y representar a su mandante en los embargos que en su contra se decreten; pedir el remate de los bienes embargados; nombrar peritos y reacusar a los de la contraria; asistir a almonedas. Tendrá facultades para presentar toda clase de denuncias y querellas penales; podrá nombrar apoderados exclusivamente para pleitos y cobranzas.
+X.- Para el ejercicio de sus funciones contará con facultades generales para actos de administración y pleitos y cobranzas, para desistirse; para transigir; para comprometerse en árbitros; para absolver y articular posiciones; para recusar; para hacer y recibir pagos; para contestar las demandas y reconvenciones que se entablen en contra de su mandante; oponer excepciones dilatorias y perentorias; rendir y apoyar toda clase de pruebas; reconocer firmas y documentos y redarguir (sic) de falsas las que se presenten por la contraria; presentar testigos y a su vez protestar a los de la contraria y los repregunte y tache; oír autos interlocutorios, definitivos y sentencias, consentir los favorables; pedir revocaciones e interponer, apelaciones; promover amparos y desistirse de ellos; pedir aclaraciones de sentencia; ejecutar, embargar y representar a su mandante en los embargos que en su contra se decreten; pedir el remate de los bienes embargados; nombrar peritos y reacusar a los de la contraria; asistir a almonedas. Tendrá facultades para presentar toda clase de denuncias y querellas penales; podrá nombrar apoderados exclusivamente para pleitos y cobranzas.
 
 XI.- Expedir copias simples o certificadas, por el propio Director, del acervo Documental.
 
@@ -479,7 +481,7 @@ Las personas que intervengan en la restauración de documentos, sean servidores 
 
 ###### ARTÍCULO 46°.
 
-Queda fuera del comercio y por ende prohibida la enajenación a cualquier título de los documentos de interés público que obren en las unidades del Sistema Municipal de Documentación, la violación a estas disposiciones se sancionarán de acuerdo a las normas aplicables.
+Queda fuera del comercio y por ende prohibida la enajenación a cualquier título de los documentos de interés público que obren en las unidades del Sistema Municipal de Documentación, la violación a estas disposiciones se sancionarán (sic) de acuerdo a las normas aplicables.
 
 ###### ARTÍCULO 47°.
 
@@ -512,3 +514,15 @@ Dr. Salvador Jalife García
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 Lic. Jesús Ricardo Cisneros Hernández
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL ORDENAMIENTO.</small>
+
+Primero.- Se autoriza la abrogación de los siguientes reglamentos del Sistema de Normatividad Municipal: - 1) Reglamento a que se sujetará el funcionamiento de los negocios comerciales conocidos con los nombres de tabaretes, puestos fijos, puestos semifijos y carros de mano en el Municipio de Torreón. – 2) Reglamento del Instituto Municipal de Documentación de Torreón. – 3) Reglamento Interior de la Dirección Jurídica del Municipio. – 4) Reglamento para el Buen Gobierno del Municipio de Torreón. – 5) Reglamento para el Funcionamiento de Aparatos Mecánicos-Musicales en el Municipio de Torreón. – 6) Reglamento para el Funcionamiento de Juegos de Video, Mecánicos, Electromecánicos y Electrónicos del Municipio de Torreón. – 7) Reglamento para los Expendios de Carnes de la Ciudad de Torreón. – 8) Reglamento Interior del Comité Municipal contra el Vandalismo por Graffiti de Torreón.
+
+Segundo.- Se instruye a la Secretaría del R. Ayuntamiento su publicación en el Periódico Oficial del Estado y/o Gaceta Municipal.
+
+Tercero.- Notifíquese el presente Acuerdo al Congreso del Estado, a las Direcciones de Contraloría, Desarrollo Institucional, y a los demás interesados para el cumplimiento que a cada uno de ellos corresponda.
