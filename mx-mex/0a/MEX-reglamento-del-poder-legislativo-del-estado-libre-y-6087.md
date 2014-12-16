@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2014-11-04"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -137,7 +137,7 @@ Para su integración se considerará a los diputados de los diferentes grupos pa
 
 Artículo 13 A.- Las facultades de las Comisiones Legislativas de manera enunciativa y no limitativa, son las siguientes:
 
-l. La Comisión de Gobernación y Puntos Constitucionales, conocerá de los temas siguientes:
+I. La Comisión de Gobernación y Puntos Constitucionales, conocerá de los temas siguientes:
 
 a) Sobre las reformas que se propongan a la Constitución General de la República y la particular del Estado;
 
@@ -375,7 +375,11 @@ c) Del dictamen relativo a la terna para ocupar el cargo de Auditor Superior del
 
 d) Los relacionados con la licencia, renuncia o remoción del Auditor Superior del Estado; y
 
-e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+e) Revisar, analizar, aclarar y discutir, los documentos e informes que le sean entregados por el Órgano Superior de Fiscalización;
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 XXI. La Comisión de Asuntos Indígenas, conocerá de los temas siguientes:
 
@@ -837,7 +841,7 @@ Las sesiones se llevarán a cabo con sujeción al orden del día que sea aprobad
 
 ###### Artículo 53.
 
-Para iniciar y concluir las sesiones, el presidente expresará: "Se abre la sesión siendo las ... horas del día ...". y "se levanta la sesión, siendo las ... horas del día ..."
+Para iniciar y concluir las sesiones, el presidente expresará: "Se abre la sesión siendo las ... horas del día ...", y "se levanta la sesión, siendo las ... horas del día ..."
 
 ### Capítulo XI. Reparación del daño
 
@@ -2023,7 +2027,7 @@ VIII. Elaborar el proyecto de presupuesto anual para cada grupo parlamentario, q
 
 La Coordinación Jurídica tendrá las siguientes atribuciones:
 
-l. Planear las actividades que en el ámbito jurídico deba desarrollar la Legislatura, sus órganos de gobierno y de dirección, a fin de someterlos a la consideración del Secretario de Asuntos Parlamentarios;
+I. Planear las actividades que en el ámbito jurídico deba desarrollar la Legislatura, sus órganos de gobierno y de dirección, a fin de someterlos a la consideración del Secretario de Asuntos Parlamentarios;
 
 > <small>(F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2183,7 +2187,7 @@ El Instituto sin exclusión de otros propósitos, clasificará la información q
 
 Para ser Vocal Ejecutivo del Instituto de Estudios Legislativos de la Legislatura, se requiere:
 
-l. Tener cuando menos 30 años cumplidos el día de su designación;
+I. Tener cuando menos 30 años cumplidos el día de su designación;
 
 Il. Poseer título profesional de licenciatura; preferentemente, tener estudios de postgrado y experiencia en la investigación de asuntos en materia pública o social;
 
@@ -5486,6 +5490,14 @@ G.G. 4 DE NOVIEMBRE DE 2014.
 PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 16 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las presentes reformas deberán estar armonizadas en los reglamentos que correspondan, noventa días después de su publicación en el Periódico Oficial "Gaceta de Gobierno".
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 233 POR EL QUE SE REFORMA EL ARTÍCULO 174 Y SE ADICIONA EL ARTÍCULO 174 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499".]
 
