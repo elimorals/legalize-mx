@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-trabajo-de-los-servidores-publicos-al-servicio-del-5519
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-04"
-last_updated: "2014-10-31"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de diciembre de 1992.
 
@@ -215,7 +215,11 @@ I.- DURANTE EL PERIODO DE EMBARAZO NO REALIZARAN TRABAJOS QUE EXIJAN ESFUERZOS C
 
 II.- DISFRUTARAN DE UN DESCANSO DE CUARENTA Y DOS DIAS ANTERIORES A LA FECHA APROXIMADA QUE SE FIJE PARA EL PARTO Y CUARENTA Y DOS DIAS POSTERIORES AL PARTO. EL PRIMER PERIODO DE DESCANSO SE PRORROGARA POR EL TIEMPO NECESARIO SI SE ENCUENTRAN IMPOSIBILITADAS PARA TRABAJAR A CAUSA DEL EMBARAZO;
 
-III.- DURANTE EL PERIODO DE LACTANCIA TENDRAN DOS DESCANSOS EXTRAORDINARIOS POR DIA, DE MEDIA HORA CADA UNO, PARA AMAMANTAR A SUS HIJOS.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+III.- DURANTE EL PERIODO DE LACTANCIA TENDRAN DERECHO A DECIDIR ENTRE CONTAR CON DOS REPOSOS EXTRAORDINARIOS POR DIA, DE MEDIA HORA CADA UNO, O BIEN, UN DESCANSO EXTRAORDINARIO POR DIA, DE UNA HORA PARA AMAMANTAR A SUS HIJOS O PARA REALIZAR LA EXTRACCION MANUAL DE LECHE, EN LUGAR ADECUADO E HIGIENICO QUE DESIGNE LA INSTITUCION O DEPENDENCIA.
 
 IV.- DURANTE LOS PERIODOS DE DESCANSO A QUE SE REFIERE LA FRACCION II DE ESTE ARTICULO, PERCIBIRA EL SALARIO INTEGRO. EN LOS CASOS DE PRORROGA A QUE SE REFIERE LA MISMA FRACCION, TENDRAN DERECHO AL CIEN POR CIENTO DE SU SALARIO POR UN PERIODO NO MAYOR DE TREINTA DIAS; Y
 
@@ -1456,3 +1460,9 @@ P.O. 31 DE OCTUBRE DE 2014.
 Artículo Primero. El presente Decreto entrará en vigencia al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Los juicios laborales iniciados con anterioridad a la entrada en vigencia del presente Decreto, continuarán su trámite con la normativa con la que se iniciaron hasta su conclusión.
+
+P.O. 16 DE DICIEMBRE DE 2014.
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, con la excepción que se indica en el artículo transitorio siguiente.
+
+Artículo Segundo. De conformidad con el decreto por el que se adicionan y reforman diversas disposiciones de la Ley General de Salud; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes, y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, publicada en el Diario Oficial de la Federación del 2 de abril de 2014, en su artículo segundo transitorio, la reforma del artículo 23 fracción III de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios, entrará en vigencia el 3 de abril de 2015.
