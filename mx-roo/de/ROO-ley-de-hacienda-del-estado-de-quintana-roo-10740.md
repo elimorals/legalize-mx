@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2014-10-08"
+last_updated: "2014-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -83,17 +85,21 @@ Las violaciones a las disposiciones expresas en este ordenamiento serán sancion
 
 ## TITULO II. DE LOS IMPUESTOS
 
-### CAPITULO I. DEL IMPUESTO SOBRE ENAJENACION DE VEHICULOS DE MOTOR Y BIENES MUEBLES USADOS ENTRE PARTICULARES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+### CAPITULO I. DEL IMPUESTO SOBRE ENAJENACION DE VEHICULOS DE MOTOR USADOS ENTRE PARTICULARES
 
 #### SECCION PRIMERA. DEL OBJETO Y DEL SUJETO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 5o.
 
-Es objeto del Impuesto, la enajenación de vehículos de motor usados, así como la enajenación de bienes muebles usados que realicen las personas físicas o morales, siempre que el enajenante no expida factura en la cual se traslade el impuesto al valor agregado.
+Es objeto del Impuesto, la enajenación de vehículos de motor usados que realicen las personas físicas o morales, siempre que el enajenante no expida factura en la cual se traslade el impuesto al valor agregado.
 
-I.- Para los efectos de este impuesto, se considera enajenación de vehículos y bienes muebles:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+I. Para los efectos de este impuesto, se considera enajenación de vehículos:
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
@@ -119,35 +125,35 @@ f).- La permuta.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-g) Las adjudicaciones, aún cuando se realicen a favor del acreedor.
+g).- Las adjudicaciones, aún cuando se realicen a favor del acreedor.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-h).-La que se realiza mediante el arrendamiento financiero.
+h).- La que se realiza mediante el arrendamiento financiero.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-i).-La que se realiza a través del fideicomiso, en los siguientes casos:
+i).- La que se realiza a través del fideicomiso, en los siguientes casos:
 
-1.-En el acto en que el fideicomitente designa o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir el fiduciario los bienes.
+1.- En el acto en que el fideicomitente designa o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir el fiduciario los bienes.
 
-2.-En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
-
-j).-La cesión de los derechos que se tengan sobre los bienes afectados al fideicomiso, en cualquiera de los siguientes momentos:
-
-1.-En el acto en que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad a un tercero. En estos casos se considera que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
-
-2.-En el acto en que el fideicomitente ceda sus derechos si entre estos se incluye el de que los bienes se transmitan a su favor.
+2.- En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-k).-La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito o de la cesión de derechos que los representen.
+j).- La cesión de los derechos que se tengan sobre los bienes afectados al fideicomiso, en cualquiera de los siguientes momentos:
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+1.- En el acto en que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad a un tercero. En estos casos se considera que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
 
-l).-La transmisión de derechos de crédito relacionados a proveeduría de bienes, de servicios o de ambos a través de un contrato de factoraje financiero en el momento de la celebración de dicho contrato, excepto cuando se transmitan a través de factoraje con mandato de cobranza o con cobranza delegada, así como en el caso de transmisión de derechos de crédito a cargo de personas físicas en los que se considerará que existe enajenación hasta el momento en que se cobren los créditos correspondientes.
+2.- En el acto en que el fideicomitente ceda sus derechos si entre estos se incluye el de que los bienes se transmitan a su favor.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+k).- La transmisión de dominio o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito o de la cesión de derechos que los representen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+l).- La transmisión de derechos de crédito relacionados a proveeduría de vehículos de motor usados a través de un contrato de factoraje financiero en el momento de la celebración de dicho contrato, excepto cuando se transmitan a través de factoraje con mandato de cobranza o con cobranza delegada, así como en el caso de transmisión de derechos de crédito a cargo de personas físicas en los que se considerará que existe enajenación hasta el momento en que cobren los créditos correspondientes.
 
 Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando se efectúen con clientes que sean público en general, se diferirá mas del 35% del precio para después del sexto mes y el plazo pactado exceda de doce meses.
 
@@ -159,7 +165,9 @@ Cuando de conformidad con este artículo se entienda que hay enajenación, el ad
 
 m).- Los demás supuestos comprendidos en el Código Fiscal del Estado
 
-II.- Se considera, salvo prueba en contrario, por lo que respecta a los vehículos que la enajenación se efectuó en el Estado de Quintana Roo, cuando al realizar los trámites establecidos en los artículos 176 y 179 de esta Ley, se compruebe al menos alguno de los siguientes supuestos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+ll. Se considera, salvo prueba en contrario, que la enajenación se efectuó en el Estado de Quintana Roo, cuando al realizar los trámites establecidos en los artículos 176 y 179 de esta ley, se compruebe al menos alguno de los siguientes supuestos:
 
 a).- Que así conste en el endoso que aparece en el documento que ampare la propiedad del vehículo en cuestión.
 
@@ -171,21 +179,23 @@ d).- Que la documentación de pago de otros impuestos o derechos a que esté afe
 
 e).- Que el adquirente tenga su domicilio en el Estado y no haya cubierto este impuesto en otra Entidad.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 6o.
 
-Son sujetos de este impuesto las personas físicas o morales que enajenen vehículos de motor y bienes muebles usados, dentro del territorio del estado.
+Son sujetos de este impuesto las personas físicas o morales que enajenen vehículos de motor usados, dentro del territorio del Estado.
 
 #### SECCION SEGUNDA. DE LOS RESPONSABLES SOLIDARIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 7o.
 
-Son responsables solidarios del pago del Impuesto sobre la Enajenación de Vehículos de Motor y de Bienes Muebles Usados:
+Son responsables solidarios del pago del Impuesto sobre la Enajenación de Vehículos de Motor Usados:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-I.- El adquiriente de vehículos de motor y de bienes muebles usados, por el endoso del documento a su favor, si no comprueba el pago de este impuesto, mediante la exhibición de los recibos oficiales correspondientes.
+I. El adquirente de vehículos de motor usados, por el endoso del documento a su favor, si no comprueba el pago de este impuesto, mediante la exhibición de los recibos oficiales correspondientes.
 
 II.- Los funcionarios y empleados públicos que autoricen cualquier trámite establecido en los artículos 176 y 179 de esta Ley, sin haberse cerciorado del pago de este impuesto.
 
@@ -197,37 +207,23 @@ III.- Los consignatarios o comisionistas en cualquier operación de vehículos a
 
 ###### ARTICULO 8o.
 
-La base para el pago del impuesto que regula este Capítulo, será:
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
-I.- El valor de operación fijado por los contratantes o el del avalúo que se determine conforme al tabulador que para el efecto elabore la Secretaría.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-II.- A falta de precio de la operación se tomará como base el valor del avalúo a que se refiere la fracción anterior, tratándose de bienes muebles se tomará el avalúo que se determine conforme a lo establecido en el reglamento del código fiscal del Estado.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 9o.
 
-Este impuesto se determinará aplicando a la base gravable la tasa del 1% tratándose de vehículos destinados para uso particular y el 0.5% tratándose de vehículos destinados para servicio público.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2014)
 
-###### ARTÍCULO 9°.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-Los sujetos facultados para solicitar el referendo son:
+###### ARTICULO 9
 
-I. El tres por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado, quienes deberán anexar a su solicitud una relación con sus nombres, firmas y claves de sus credenciales de elector.
+BIS.- El impuesto se causará y determinará de acuerdo a lo siguiente:
 
-El Instituto realizará el cotejo respectivo con la lista nominal utilizada en el último proceso electoral estatal.
+Se aplicará la tasa del 1% a la base.
 
-II. El titular del Poder Ejecutivo del Estado.
+La base de este impuesto será la prevista por esta ley para el pago del Impuesto Sobre Uso o Tenencia Vehicular de vehículos nuevos y de hasta 9 años modelo anterior del ejercicio fiscal en que se efectúe su adquisición como vehículo nuevo, considerándose éste en términos de lo dispuesto en la fracción II del artículo 168-Quater-A de esta ley. En el caso de vehículos del servicio público le será aplicable la base establecida para los vehículos del servicio particular.
 
-III. El cincuenta por ciento de los miembros del Congreso del Estado.
-
-IV. La mitad más uno de los Ayuntamientos del Estado. En este caso, se requerirá que cada Ayuntamiento apruebe la solicitud con la mitad más uno de sus miembros.
-
-TITULO TECERO (SIC)
+Tratándose de vehículos de motor usados cuyo año modelo de antigüedad corresponda a diez o más años a la fecha en que se realice su adquisición como vehículo nuevo, será aplicable para la determinación de la base los factores de depreciación y la actualización correspondiente a los nueve años de antigüedad previstos por esta ley para el pago del Impuesto Sobre Uso o Tenencia Vehicular.
 
 #### SECCION CUARTA. DE LAS OBLIGACIONES Y DEL PAGO
 
@@ -251,11 +247,11 @@ Para los efectos de este impuesto, se considera domicilio fiscal el manifestado 
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 12.
 
-Los vehículos de motor y bienes muebles usados quedan afectos preferentemente al pago del Impuesto que regula este capítulo.
+Los vehículos usados quedan afectos preferentemente al pago del impuesto que regula este Capítulo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -265,13 +261,13 @@ Las dependencias oficiales competentes y sus oficinas foráneas, no tramitarán 
 
 #### SECCION QUINTA. DE LAS EXENCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 14.
 
-Quedan exentos de este impuesto la enajenación, cesión o transmisión de derechos de vehículos de motor y de bienes muebles usados, que realicen los Gobiernos Federal, Estatal o Municipales.
+Quedan exentos de este impuesto la enajenación, cesión o transmisión de derechos de vehículos de motor usados, que realicen los Gobiernos Federal, Estatal o Municipales.
 
-Asimismo no estarán obligados al pago de este impuesto las personas físicas o morales que adquieran vehículos automotores y bienes muebles usados como consecuencia de la constitución o disolución de la sociedad conyugal, el cambio de las capitulaciones, matriculaciones o la constitución de la copropiedad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 15.
 
@@ -727,7 +723,9 @@ Las personas físicas, morales o unidades económicas, así como las dependencia
 
 Quedan incluidas las personas físicas, morales y unidades económicas que sin estar domiciliadas en el Estado, tengan personal subordinado en el territorio de éste, en sucursales, bodegas, agencias, unidades económicas, dependencias, y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
 
-Serán considerados patrones, las empresas que presten servicios a otras, para ejecutarlos con elementos propios, y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, en los términos de los artículos 12, 13, 14 y 15 de la Ley Federal del Trabajo. Cualquiera que sea la forma de pago de las remuneraciones que efectúen estas personas con motivo de la prestación de servicios de personas físicas a personas físicas o morales, serán sujetas del pago de este impuesto.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Están obligados a presentar aviso en términos del segundo párrafo del artículo 40 de esta ley quienes contraten a empresas que presten servicios de personal, para ejecutarlos con elementos propios, y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores. Cualquiera que sea la forma de pago de las remuneraciones que efectúen estas personas con motivo de la prestación de servicios de personas físicas a personas físicas o morales, serán sujetas del pago de este impuesto.
 
 Para el legal funcionamiento de estas personas, deberán aperturar una cuenta en institución bancaria debidamente autorizada, domiciliada en la circunscripción territorial donde se preste el servicio, y hacerlo del conocimiento de la autoridad recaudadora de rentas.
 
@@ -765,7 +763,7 @@ II.- Cuando los contribuyentes inicien actividades con posterioridad al 1° de e
 
 ###### Artículo 43-C.
 
-Cuando se formulen declaraciones complementarias sustituyendo datos de la original, en virtud de las cuales resulten diferencias a cargo del contribuyente por declarar o bien resulten diferencias a su favor, o se incrementen los ya declarados, solo podrán ser modificados por el contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultadas de comprobación en los siguientes casos, no operará la anterior limitación:
+Cuando se formulen declaraciones complementarias sustituyendo datos de la original, en virtud de las cuales resulten diferencias a cargo del contribuyente por declarar o bien resulten diferencias a su favor, o se incrementen los ya declarados, solo podrán ser modificados por el contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultadas (sic) de comprobación en los siguientes casos, no operará la anterior limitación:
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -911,9 +909,9 @@ III.- Pagos por gastos funerarios.
 
 IV.- Los instrumentos de trabajo, tales como herramientas, ropa y otros similares.
 
-(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004) (F. DE E., P.O. 10 DE ENERO DE 2005)
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-V.- Remuneraciones cubiertas por las dependencias de la Administración Pública Centralizada Estatal y Municipal.
+V.- Remuneraciones cubiertas por las dependencias de la Administración Pública Centralizada Municipal.
 
 VI.- Remuneraciones cubiertas por los Ejidos y Comunidades, las uniones de ejidos y comunidades, las empresas sociales constituidas por avecindados e hijos de ejidatarios con derechos a salvo, las asociaciones rurales de interés colectivo, las sociedades de producción rural y las unidades agrícolas industriales de la mujer campesina.
 
@@ -1185,7 +1183,7 @@ Los contribuyentes de este impuesto deberán conservar y colocar en lugar visibl
 
 ###### ARTICULO 70.
 
-Los sujetos de este impuesto, que únicamente perciban ingresos exentos, tienen obligación, excepción hecha de los comprendidos en las fracciones I, III, V, y X del artículo 80 de:
+Los sujetos de este impuesto, que únicamente perciban ingresos exentos, tienen obligación, excepción hecha de los comprendidos en las fracciones l, III, V, y X del artículo 80 de:
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
@@ -7353,15 +7351,13 @@ El pago de los derechos por este concepto, se hará en la caja de los propios ho
 
 La vigilancia del cumplimiento de lo que se indica en este capítulo quedará a cargo de las Recaudadoras de Rentas cuyos encargados podrán efectuar las inspecciones que estimen pertinentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 183
 
-BIS.- Los servicios médicos asistenciales que se otorguen a la población abierta se cobrarán en las unidades administrativas a que se refiere el artículo anterior y causarán los siguientes derechos, salvo los diagnósticos considerados dentro del Sistema de Protección Social en Salud, para su población afiliada, de acuerdo a la siguiente:
+BIS.- Los servicios médicos asistenciales que se otorguen a la población abierta se cobrarán en las unidades administrativas a que se refiere el artículo anterior y causarán los derechos establecidos en salario mínimo general vigente en el Estado, salvo los diagnósticos considerados dentro del sistema de protección social en salud, para su población afiliada, de acuerdo a la siguiente:
 
-(VÉASE ARCHIVO ANEXO)
+> <small>N. DE E. VÉASE TARIFA EN EL NÚMERO EXTRAORDINARIO DEL P.O. 16 DE DICIEMBRE DE 2014, PÁGINAS 69 A 99.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
@@ -8211,23 +8207,33 @@ d).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
 e).- Por rectificación en el Libro de Registro que corresponda. 0.5 S.M.G.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+f).- Inscripción de actas de mexicanos nacidos y registrados en el extranjero 4.00 S.M.G.
+
 II.- Matrimonios:
 
 a).- En la Oficina del Registro Civil en horas hábiles. 1.0 S.M.G.
 
-b).- En la Oficina del Registro Civil en horal (sic) inhábiles. 3.5 S.M.G.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-c).- Fuera de las Oficinas del Registro Civil en horas hábiles. 5.5 S.M.G.
+b).- En la oficina del Registro Civil en horas inhábiles 5.50 S.M.G.
 
-d).- Fuera de las Oficinas del Registro Civil en horas inhábiles. 9.0 S.M.G.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+c).- Fuera de las oficinas del Registro Civil en horas hábiles 6.50 S.M.G.
 
-e).- Entre Mexicanos y Extranjeros en las oficinas del Registro Civil 10.0 S.M.G.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+d).- Fuera de las oficinas del Registro Civil en horas inhábiles 22.50 S.M.G.
 
-f).- Entre Mexicanos y Extranjeros fuera de la oficina del Registro Civil 15.0 S.M.G.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+e).- Entre mexicanos y extranjeros en las oficinas del Registro Civil 20.00 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+f).- Entre mexicanos y extranjeros fuera de la oficina del Registro Civil 22.00 S.M.G.
 
 g).- Matrimonios entre extranjeros en la Oficina del Registro Civil. 65.0 S.M.G.
 
@@ -8238,6 +8244,10 @@ h).- Matrimonio entre Extranjeros fuera de la Oficina del Registro Civil 150.0 S
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 i).- Fuera de las oficinas del Registro Civil en sábados y domingos y días festivos 20.0 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+j).- Inscripción de actas de mexicanos que contraen matrimonio en el extranjero 8.50 S.M.G.
 
 III.- Divorcios:
 
@@ -8251,17 +8261,33 @@ a).- Divorcios voluntarios:
 
 4.- Por acta de desistimiento. 10.0 S:M.G.
 
-b).- Divorcio entre extranjeros en las Oficinas del Registro Civil. 65.0 S.M.G.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-c).- Divorcio entre extranjeros fuera de la Oficina del Registro Civil. 162.0 S.M.G.
+b).- Divorcio entre extranjeros en las oficinas del Registro Civil 85.00 S.M.G.
 
-d).- Por acta de divorcio decretada por las autoridades judiciales que se inscriban en el Registro Civil. 3.5 S.M.G.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+c).- Divorcio entre extranjeros fuera de la oficina del registro civil 170.10 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+d).- Por acta de divorcio decretada por las autoridades judiciales que se inscriban en el Registro Civil 7.50 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+e).- Inscripción de actas de mexicanos que disuelven el vínculo matrimonial en el extranjero 7.50 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+f).- Acuerdo de autorización de divorcio administrativo 10.00 S.M.G.
 
 IV.- Por cada acta de supervivencia:
 
 a).- En la oficina. 0.3 S.M.G.
 
-b).- Levantada a domicilio. 1.5 S.M.G.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+b).- Levantada a domicilio 2.50 S.M.G.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -8269,11 +8295,15 @@ V.- Tutela, Emancipación, Adopción o Reconocimiento 2.0 S.M.G.
 
 VI.- Otros:
 
-a).- Inscripción de ejecutorias que declaran la ausencia de alguna persona, la presunción de muerte o que haya perdido la capacidad de administrar bienes. 6.5 S.M.G.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+a).- Inscripción de sentencias ejecutorias 6.5 S.M.G.
 
 b).- Asentamientos de actas de defunción. 1.0 S.M.G.
 
-c),- Transcripción de documentos. 4.0 S.M.G.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+c).- Transcripción de documentos 7.50 S.M.G.
 
 d).- Expedición de actas de reconocimiento. 1.0 S.M.G.
 
@@ -8285,11 +8315,23 @@ g).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 h).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-i).- Búsqueda de documentos. 2.0 S.M.G.
+i).- Búsqueda de documentos 10.00 S.M.G.
 
 j).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+k).- Rectificación y/o aclaración de actas con anotación marginal 5.50 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+l).- Trámite de actas certificadas de otras entidades federativas:
+
+1. Nacimiento, renocimiento (sic) o adopción 2.75 S.M.G.
+
+2. Matrimonio, defunción, divorcio o inscripción de actos 6.50 S.M.G.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -8445,7 +8487,7 @@ a) Por solicitud de análisis y calificación de documentos que contengan actos 
 
 b) Por solicitud de análisis y calificación de documentos que contengan actos anotables ya sean preventiva o definitivamente, se cobrará 65 S.M.G. por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado, más 0.20 S.M.G. por cada foja que contenga el documento incluyendo sus anexos.
 
-c) Por solicitud de trámite de extinción o cancelación de asientos registrales que no sea a consecuencia de un documento inscribible o anotable, por cada acto o negocio jurídico que se pretenda afectar dentro de cada folio 30 S.M.G.
+c) (DEROGADO, P.O. 16 DE DICIEMBRE DE 2014)
 
 d) Por solicitud de asiento de presentación de aviso preventivo con vigencia de 30 y de 90 días 12 S.M.G.
 
@@ -8459,7 +8501,29 @@ g) Por expedición de constancias de asiento registral por folio 5 S.M.G.
 
 h) Por búsqueda que se realice a través del Programa Informático para la expedición de constancia de propiedad y no propiedad, por cada nombre buscado 5 S.M.G.
 
-Para el pago de los 0.20 S.M.G. por cada foja a que se refieren los incisos a) y b) del presente artículo, en el supuesto que un mismo documento presentado contenga actos de los inscribibles y de los anotables, sólo una vez se pagará este importe por dicho documento.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+i) Por el depósito de testamentos ológrafos, si se hace en la oficina del Registro 10 S.M.G.
+
+Si se hace fuera de la oficina del Registro 12 S.M.G.
+
+Si el depósito se hace fuera de las horas de oficina, será de: 15 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+j) Por la ratificación de documentos privados en el caso a que se refiere el artículo 2599 y 3162 fracción III del Código Civil para el Estado Libre y Soberano de Quintana Roo y la constancia de la misma se cobrará: 15 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+k) Por el análisis y calificación de actos relativos a anotaciones de actas aclaratorias consistentes en rectificación de ubicación, medidas, colindancias, clave catastral, localidad, coordenadas y vialidad, se cobrarán: 5 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+l) Por cancelación de avisos preventivos que anuncian la formalización de actos ordenados por los Notarios, se cobrarán: 8 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Para el pago de los 0.20 S.M.G. por cada foja a que se refieren los incisos a) y b) de este artículo, en el supuesto que un mismo documento presentado contenga actos inscribibles y anotables, sólo una vez se pagará este importe por dicho documento.
 
 #### SECCION SEGUNDA. DEL REGISTRO PUBLICO DEL COMERCIO
 
@@ -8839,7 +8903,9 @@ QUINQUIES.- Por los servicios que en materia de Residuos de competencia Estatal 
 
 TARIFA
 
-I.- Por análisis y resolución de Planes de Manejo de Residuos 100 S.M.G.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+I.- Por análisis y resolución de Planes de Manejo de Residuos 157 S.M.G.
 
 II.- Por Refrendo anual de los Planes de Manejo de Residuos de competencia estatal 50 S.M.G.
 
@@ -8847,9 +8913,17 @@ III.- Por Inscripción y refrendo anual al padrón de Asesores y/o Gestores rela
 
 IV.- Por inscripción y refrendo anual al padrón de Centros de acopio de Residuos Sólidos Urbanos y de Manejo Especial. 50 S.M.G.
 
-V.- Por análisis y resolución de los proyectos ejecutivos para sitios de disposición final de Residuos Sólidos Urbanos y de Manejo Especial, centros de compostaje, centros de transferencia, planta de tratamiento y tecnología sustentable de residuos 150 S.M.G.
+V.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2014)
 
 VI.- Por inscripción y resolución anual al padrón de recolección y Transporte de Residuos Sólidos Urbanos y de Manejo Especial. 50 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+VII. Por el análisis y resolución derivado de la verificación de las instalaciones de los establecimientos que soliciten la exención a presentar plan de manejo bajo el esquema de gran generador de residuos sólidos urbanos (27.3 k/día) o generador de residuos de manejo especial 60 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+VIII. Por análisis y resolución del informe y bitácora anual del Plan de Manejo de Residuos de Competencia Estatal 50 S.M.G.
 
 > <small>(DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -9353,9 +9427,13 @@ TARIFA
 
 I.- Expedición de certificados de antecedentes penales 2.44 S.M.G.
 
-II.- Acta Certificada de extravío de bienes muebles 10 S.M.G
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-III.- Examen antidoping 2.50 S.M.G
+II.- Acta Certificada de extravío de documentos oficiales 10 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+III.- Examen antidoping 6.00 S.M.G.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -9427,13 +9505,15 @@ Por los servicios que presta la Secretaría de Desarrollo Urbano y Vivienda, cau
 
 TARIFA
 
-I. Por elaboración de dictamen de procedencia para cesión de derechos o reconocimiento de titularidad 8.47 S.M.G;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+I. Por la elaboración de dictamen de procedencia de cesión de derechos y obligaciones contractuales 8.47 S.M.G.
 
 II. Por expedición de constancia de situación administrativa, financiera y jurídica 4.59 S.M.G;
 
 III. Por deslinde de terrenos 0.052 S.M.G por metro cuadrado;
 
-IV. Por reposición de tarjetones 1.84 S.M.G, y
+IV. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2014)
 
 V. Por elaboración de croquis 2.75 S.M.G.
 
@@ -9525,6 +9605,8 @@ El titular del Poder Ejecutivo emitirá mediante acuerdo o decreto los lineamien
 
 #### SECCION TERCERA. DEL PERIODICO OFICIAL DEL ESTADO
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 210.
 
 Todo ciudadano tiene derecho a solicitar sin perjuicio de terceros, que se le venda un lote de terreno del fundo legal de las poblaciones del Estado. El título definitivo se expedirá por el Gobierno del Estado una vez que el interesado haya llenado los requisitos que señalen las disposiciones reglamentarias respectivas y previo pago del valor que determine el avalúo que practique la Dirección de Catastro.
@@ -9533,127 +9615,15 @@ Todo ciudadano tiene derecho a solicitar sin perjuicio de terceros, que se le ve
 
 ###### ARTICULO 211.
 
-La venta del Periódico Oficial y los avisos que se inserten en el mismo, se sujetarán a la siguiente:
+Los servicios que presta el Periódico Oficial del Estado, se sujetarán a las siguientes:
 
-TARIFA
+TARIFAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. VÉASE TARIFAS EN EL NÚMERO EXTRAORDINARIO DEL P.O. 16 DE DICIEMBRE DE 2014, PÁGINAS 103 A 105.</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+Esta tarifa será aplicable para las ediciones ordinarias, para las extraordinarias se estará a lo dispuesto en la fracción I inciso b) del presente artículo.
 
-I.- Periódico hasta 5 hojas 1 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-II.- Periódico de 6 hasta 100 hojas 1.50 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-III.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2004)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-IV.- Suscripción Anual: 24 números ordinarios 20 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-V.- Suscripción Semestral: 12 números ordinarios 13 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-VI.- Periódico hasta 5 hojas vía internet 0.98 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-VII. Periódico de 6 hasta 100 hojas vía internet 0.96 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-VIII. Suscripción anual: 24 números ordinarios, vía internet 9.62 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-IX. Suscripción semestral: 12 números ordinarios, vía internet 6.73 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-X. Periódico de más de 100 hojas, vía internet 0.50 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-XI. Publicaciones por renglón 0.50 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-XII. Periódico de más de 100 hojas 4.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-XIII. Búsqueda de publicación 1.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-XIV. Publicaciones extraordinarias menor de 5 hojas 119.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-XV. Periódico de más de 200 hojas 9.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-XVI. Servicios notariales:
-
-a) Licencias 42.00 S.M.G.
-
-b) Designación de suplencias 42.00 S.M.G.
-
-c) Cambio de domicilio 32.00 S.M.G.
-
-d) Cambio de adscripción 53.00 S.M.G.
-
-e) Devolución de Fianza 32.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-XVII. Certificación de periódicos agotados 1.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-XVIII. Certificación de inexistencia de periódicos 1.00 S.M.G.
-
-El pago de los productos anteriores se harán por adelantado en las oficinas recaudadoras de rentas del Estado.
+El pago por los servicios señalados en el presente artículo, se harán previamente a la publicación solicitada.
 
 #### SECCION QUINTA. ESTABLECIMIENTOS PENALES
 
@@ -9745,7 +9715,9 @@ Mayor de $20,000.00 en adelante hasta 100 S..M.G.
 
 f).- Por formas impresas de:
 
-1.- Acta de registro formato único con esqueleto para los Municipios del Estado 0.3 S.M.G.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+1.- Acta de registro formato único sin esqueleto para los Municipios del Estado 0.3 S.M.G.
 
 2.- Copia certificada formato único sin esqueleto para los Municipios del Estado 0.3 S.M.G.
 
@@ -11040,3 +11012,73 @@ P.O. 8 DE OCTUBRE DE 2014.
 Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE DICIEMBRE DE 2014.
+
+PRIMERO. En tanto el Estado de Quintana Roo, permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
+
+I. IMPUESTOS
+
+1. Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial.
+
+2. Sobre productos y rendimientos de capital de manera parcial.
+
+3. Al comercio y la industria.
+
+4. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+5. Sobre compraventa de primera mano de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6. Sobre la compraventa de primera mano de productos agrícolas.
+
+7. Sobre compraventa o permuta de ganado o sus esquilmos.
+
+8. Sobre la cría de ganado.
+
+9. Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
+
+10. Sobre explotación y venta de primera mano de diversos materiales para construcción.
+
+II. DERECHOS
+
+A) Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjeta para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B) Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro Civil.
+
+2. Registro Público de la Propiedad y del Comercio.
+
+C) Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D) Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A y B de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
