@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2014-11-28"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA GACETA DE GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -1611,7 +1609,9 @@ c) Inscribir las detenciones en el Registro Administrativo de Detenciones confor
 
 d) Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
 
-e) Remitir a la instancia que corresponda la información recopilada, en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro, Asimismo, entregar la información que le sea solicitada por otras Instituciones de Seguridad Pública, en términos de las disposiciones aplicables;
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+e) Remitir a la instancia que corresponda la información recopilada, en el cumplimiento de sus atribuciones o en el desempeño de sus actividades, para su análisis y registro. Tratándose de la puesta a disposición de personas o bienes por la denuncia, se acompañarán las entrevistas y demás actos realizados conforme a derecho. Asimismo, entregar la información que le sea solicitada por otras Instituciones de Seguridad Pública, en términos de las disposiciones aplicables;
 
 f) Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos, así como en situaciones de grave riesgo, catástrofes o desastres;
 
@@ -2910,3 +2910,9 @@ TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, 
 CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
 
 QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 16 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor a los cinco días siguientes de su publicación en el periódico Oficial "Gaceta del Gobierno".
