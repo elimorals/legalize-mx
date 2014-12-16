@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-42425"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2013-12-27"
+last_updated: "2014-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 27 de diciembre de 2004.
 
@@ -85,7 +85,11 @@ Son sujetos de este impuesto las personas físicas y morales que realicen los pa
 
 La Federación, el Estado, los Municipios, sus entidades paraestatales y los organismos autónomos, están obligados al pago de este impuesto.
 
-Son responsables solidarios del pago de este impuesto quienes contraten o reciban la prestación del trabajo personal subordinado, no obstante que el pago se realice por conducto de terceros.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Son responsables solidarios con los contribuyentes de este impuesto, quienes contraten o reciban la prestación del trabajo personal subordinado, no obstante que el pago se realice por conducto de terceros.
 
 ###### Artículo 3.
 
@@ -151,6 +155,18 @@ Los contribuyentes que realicen pagos concentrados deberán tener un solo regist
 
 En caso de que se modifique el número de sucursales, se deberá presentar un aviso de cambio de dicha situación dentro de los veinte días siguientes al en que se de el supuesto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Los contribuyentes que integren un coordinado conforme a lo dispuesto en el Titulo II, Capítulo VII de la Ley del Impuesto Sobre la Renta, podrán, a través del mismo, calcular y enterar el Impuesto Sobre Nóminas, así como cumplir con las obligaciones fiscales por cada uno de sus integrantes de acuerdo a lo dispuesto en la presente Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Para los efectos de esta Ley, el coordinado se considerará como responsable del cumplimiento de las obligaciones fiscales a cargo de sus integrantes, respecto de las operaciones realizadas a través del coordinado, siendo los integrantes responsables solidarios respecto de dicho cumplimiento por la parte que les corresponda.
+
 ###### Artículo 7.
 
 Los contribuyentes a que se refieren este Capítulo tendrán las obligaciones siguientes:
@@ -167,6 +183,14 @@ III.- Presentar declaraciones; y
 
 IV.- Presentar ante las oficinas autorizadas a más tardar el 28 de febrero de cada año, la información sobre las personas a las que les hayan efectuado pagos por concepto de remuneraciones, en la forma oficial que dé a conocer la Secretaría de Finanzas, Inversión y Administración.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 7 Bis.
+
+Sin perjuicio de las obligaciones dispuestas en el artículo anterior, los contribuyentes y los responsables solidarios previstos en el último párrafo del artículo 2 de esta Ley, deberán rendir información relativa a los trabajos contratados o recibidos bajo el régimen de subcontratación dispuesto en la Ley Federal del Trabajo, de conformidad con las disposiciones de carácter general que para el efecto emita la Secretaría de Finanzas, inversión y Administración.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
@@ -179,6 +203,12 @@ I.- Cuando no presenten sus declaraciones, no lleven los libros o registros a qu
 
 II.- Cuando por los informes que se obtengan se ponga de manifiesto que se han efectuado erogaciones gravadas que exceden del 3% de las declaradas por el causante.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+III.- También se podrán estimar las erogaciones a cargo de los responsables solidarios, cuando se actualice el supuesto del último párrafo del artículo 2 de esta Ley, siempre que el contribuyente no cumpla con las obligaciones a que se refiere este capítulo.
+
 Para practicar las estimaciones a que se refiere este artículo, se tendrán en cuenta:
 
 a) Las erogaciones realizadas, declaradas en los últimos doce meses;
@@ -186,6 +216,12 @@ a) Las erogaciones realizadas, declaradas en los últimos doce meses;
 b) Las manifestaciones presentadas por concepto de Impuesto sobre la Renta, Sobre Productos del Trabajo en los últimos doce meses; y
 
 c) Las actividades realizadas por el causante y otros datos que puedan utilizarse, obtenidos a través de las facultades de comprobación de la autoridad fiscal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+d) Los importes erogados para remunerar los trabajos sometidos al régimen de subcontratación dispuesto en la Ley Federal del Trabajo.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
@@ -228,6 +264,18 @@ A fin de facilitar a los contribuyentes el cumplimiento de sus obligaciones, el 
 ###### Artículo 12.
 
 Para los efectos del presente Capítulo, a falta de disposición expresa se aplicará supletoriamente, adicionalmente a la legislación fiscal del Estado, la Ley del Impuesto sobre la Renta, siempre y cuando la disposición de dicho ordenamiento de carácter federal, no contravenga a esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Los contribuyentes que integran un coordinado conforme a lo dispuesto en el Titulo II, Capítulo VII de la Ley del Impuesto Sobre la Renta, podrán, a través del mismo, calcular y enterar el Impuesto Cedular, así como cumplir con las obligaciones fiscales por cada uno de sus integrantes de acuerdo a lo dispuesto en la presente Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Para los efectos de esta Ley, el coordinado se considerará como responsable del cumplimiento de las obligaciones fiscales a cargo de sus integrantes, respecto de las operaciones realizadas a través del coordinado, siendo los integrantes responsables solidarios respecto de dicho cumplimiento por la parte que les corresponda.
 
 #### SECCIÓN II. DEL IMPUESTO CEDULAR POR LA PRESTACIÓN DE SERVICIOS PROFESIONALES
 
@@ -367,11 +415,13 @@ Los contribuyentes que hayan presentado una declaración en ceros, quedarán rel
 
 El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo período. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, ante las oficinas autorizadas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 26.
 
-Los contribuyentes que realicen exclusivamente actividades empresariales, que enajenen bienes o presten servicios por los que no se requiera para su realización de título profesional, y cuyos ingresos obtenidos en el ejercicio inmediato anterior, no hubiesen excedido de $2´000,000.00, podrán aplicar las disposiciones de la Sección II, Capítulo II, Título IV de la Ley del Impuesto sobre la Renta, correspondiente al Régimen de Incorporación Fiscal, cumpliendo con las obligaciones de este impuesto cedular. No es aplicable, para efectos de este artículo, lo establecido en el antepenúltimo párrafo del artículo 111 de la Ley del Impuesto sobre la Renta. Tampoco es aplicable la tabla de reducción del Impuesto sobre la Renta a pagar en el Régimen de Incorporación Fiscal.
+Los contribuyentes que realicen exclusivamente actividades empresariales, que enajenen bienes o presten servicios por los que no se requiera para su realización de título profesional, y cuyos ingresos obtenidos en el ejercicio inmediato anterior, no hubiesen excedido de $2'000,000.00, podrán aplicar las disposiciones de la Sección II, Capítulo II, Título IV de la Ley del Impuesto sobre la Renta, correspondiente al Régimen de Incorporación Fiscal; cumpliendo con las obligaciones de este impuesto cedular.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
@@ -382,6 +432,30 @@ Los contribuyentes a que se refiere el artículo anterior, calcularán y enterar
 Para determinar el impuesto, los contribuyentes a que se refiere el artículo anterior considerarán los ingresos cuando se cobren efectivamente y deducirán las erogaciones efectivamente realizadas en el ejercicio para la adquisición de activos fijos, gastos o cargos diferidos.
 
 A la utilidad fiscal que se obtenga conforme a este artículo se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+El impuesto que se determine se podrá disminuir conforme a los porcentajes y de acuerdo al número de años que tengan tributando en el régimen previsto en el artículo 26, conforme a la tabla siguiente:
+
+Reducción del Impuesto Cedular en el Régimen de Incorporación Fiscal
+
+Años 1 2 3 4 5 6 7 8 9 10
+
+Por la 100% 90% 80% 70% 60% 50% 40% 30% 20% 10%
+
+presentación
+
+de Ingresos
+
+y Erogaciones
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Los contribuyentes que tributen en el Régimen de Incorporación Fiscal, sólo podrán permanecer en este régimen, durante un máximo de diez ejercicios fiscales consecutivos. Una vez concluido dicho periodo, deberán tributar conforme al régimen de personas físicas con actividades empresariales a que se refiere el artículo 23 de la presente Ley.
 
 ###### Artículo 28.
 
@@ -932,3 +1006,11 @@ Artículo Primero. El presente decreto entrará en vigor el 1 de enero de 2014, 
 Artículo Segundo. Se derogan todas las disposiciones legales que se opongan al presente decreto.
 
 Artículo Tercero. Tratándose de aquellos contribuyentes que al 31 de diciembre de 2013 tributaron conforme al régimen de Pequeños Contribuyentes, que no reúnan los requisitos para tributar en el régimen de Incorporación Fiscal, aplicarán lo dispuesto en el Artículo Noveno, fracción XXVI de las disposiciones transitorias de la Ley del Impuesto sobre la Renta, vigente a partir del 1 de enero de 2014, por lo que respecta a ingresos y deducciones, tal como lo señala el artículo 43 de la Ley del Impuesto al Valor Agregado.
+
+P.O. 16 DE DICIEMBRE DE 2014.
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2015; previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero. Los contribuyentes del Régimen de Incorporación Fiscal, registrados con anterioridad al ejercicio fiscal de 2014 en el Régimen de Pequeños Contribuyentes, podrán acceder al beneficio previsto en la tabla de reducción que se adiciona al artículo 27 por medio de este Decreto, siempre y cuando hayan cumplido con sus obligaciones fiscaleshasta (sic) el ejercicio fiscal de 2013.
