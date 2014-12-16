@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-igualdad-de-trato-y-oportunidades-entre-mujeres-y-76530"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2014-05-09"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 9 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 16 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -521,6 +521,10 @@ VI. Incentivar la investigación en todo lo concerniente a la igualdad entre muj
 
 VII. Garantizar en el ámbito de su competencia, el derecho a la educación igualitaria, plural y libre de estereotipos de género;
 
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+Las alumnas en situación de embarazo, maternidad o estudiante lactante tienen los mismos derechos que los demás alumnos y alumnas en relación a su ingreso y permanencia en las instituciones o establecimientos educacionales, no pudiendo ser objeto de ningún tipo de discriminación, en especial el cambio de establecimiento o expulsión, la cancelación de matrícula, la negación de matrícula, la suspensión u otra similar;
+
 VIII. Promover la eliminación y el rechazo de los comportamientos, contenidos sexistas y estereotipos que impliquen discriminación entre mujeres y hombres, con especial consideración en los libros de texto y materiales educativos;
 
 IX. Promover el concepto de responsabilidad compartida dentro de la vida escolar;
@@ -600,3 +604,9 @@ PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se entenderá por Secretaría de Seguridad Ciudadana cualquier referencia que se haga, en los ordenamientos jurídicos estatales, a la Agencia de Seguridad Estatal.
+
+G.G. 16 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
