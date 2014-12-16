@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2014-08-18"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -58,6 +58,10 @@ Las disposiciones de esta Ley son de orden público e interés social, y tienen 
 La presente Ley es de observancia general en el Estado de México, y su aplicación corresponde al Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Económico del Estado de México y con la participación que compete a la Secretaría de Finanzas. El Consejo Estatal de Fomento Económico y Competitividad tendrá la participación que señale la Ley, para el cumplimiento de su objeto.
 
 En la realización del objeto de la Ley, la Secretaría de Desarrollo Económico del Estado de México y el Consejo Estatal de Fomento Económico y Competitividad tomarán las medidas necesarias a efecto de que las actividades económicas se realicen con apego a los criterios de sustentabilidad. Los municipios contribuirán al cumplimiento de tales objetivos, en lo que señale la normatividad aplicable.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+Los particulares participarán, en la medida de sus posibilidades, adoptando medidas que promuevan la cultura de la prevención como instrumento para incentivar el desarrollo económico a partir de la generación de mejores condiciones generales de seguridad.
 
 ###### Artículo 3.
 
@@ -213,7 +217,11 @@ XX. Identificar la vocación productiva de las zonas marginadas del Estado, impu
 
 XXI. Involucrar a sectores vulnerables, integrantes de los pueblos indígenas y madres solteras en la cultura empresarial, estimulando la generación y desarrollo de proyectos productivos; y
 
-XXII. Las demás acciones que se establecen en ésta y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+XXII. Fomentar y realizar actividades para la adopción de la cultura de la prevención como instrumento para favorecer el fomento económico, en los términos de esta Ley.
+
+XXIII. Las demás acciones que se establecen en ésta y otras disposiciones legales aplicables.
 
 ###### Artículo 6.
 
@@ -959,7 +967,7 @@ IX. Participen activamente en los programas de fomento agropecuario;
 
 X. Diversifiquen sus cultivos, de acuerdo a la vocación productiva de cada región, fomentando el establecimiento de agroindustrias;
 
-Xl. Implemente esquemas de mejora continua orientados a elevar su productividad y competitividad y alcancen su certificación ante organismos acreditados;
+XI. Implemente esquemas de mejora continua orientados a elevar su productividad y competitividad y alcancen su certificación ante organismos acreditados;
 
 XII. Aumenten sustantivamente sus exportaciones;
 
@@ -1171,11 +1179,29 @@ Los contralores internos de las dependencias integrantes de la Comisión, vigila
 
 La Dirección General de Atención Empresarial promoverá el establecimiento de módulos de atención empresarial en las instalaciones de las dependencias que integran la Comisión, así como en los municipios para atender las solicitudes que deban atenderse al amparo del SUGE.
 
-### CAPÍTULO PRIMERO. De las Verificaciones
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Cuarto. Medidas de prevención para fomentar el desarrollo económico
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 67 Bis.
+
+Los particulares con giro empresarial en el Estado de México que cuenten con una flotilla vehicular de más de tres unidades, podrán optar por instalación del sistema de rastreo satelital (GPS) en sus unidades.
+
+El empleador deberá informar a su empleado de la adopción de la medida prevista en los artículos anteriores sin que sea necesario recabar el consentimiento del mismo.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 67 Ter.
+
+Las personas jurídico-colectivas con giro de venta de automóviles nuevos podrán, como medida de seguridad en beneficio de los usuarios finales, quienes decidirán, instalar en los vehículos el sistema de rastreo satelital (GPS), para que su rastreo y ubicación sea posible a través del diseño de un programa que requiera la autorización del futuro propietario de la unidad.
+
+Los particulares que adquieren vehículos usados que no cuenten con un sistema de posicionamiento global (GPS), podrán instalarlo en su unidad automotriz.
 
 ## TÍTULO CUARTO. De las Verificaciones, Infracciones y Sanciones
 
-### CAPITULO SEGUNDO. De las Infracciones y Sanciones
+### CAPÍTULO PRIMERO. De las Verificaciones
 
 ###### Artículo 68.
 
@@ -1192,6 +1218,8 @@ Si del resultado de las actas de visita de verificación, se desprende alguna in
 En la resolución, la dependencia competente, independientemente de las sanciones que se le impongan al beneficiario, podrá determinar, en su caso, la suspensión o la cancelación de los incentivos o apoyos, así como la obligación de reintegrar al Estado el importe de los apoyos recibidos; el costo de infraestructura pública que, en su caso, se hubiere instalado para apoyar al beneficiario; y, en general, los costos que, a cargo del Estado, se hubieren generado como consecuencia de los apoyos otorgados al beneficiario.
 
 En el caso de incentivos fiscales, la Secretaría de Finanzas podrá requerir al beneficiario infractor el pago de las contribuciones objeto de incentivo, más las multas, recargos y actualizaciones procedentes que serían aplicables al incumplimiento de las obligaciones fiscales normales.
+
+### CAPITULO SEGUNDO. De las Infracciones y Sanciones
 
 ###### Artículo 71.
 
@@ -1322,3 +1350,13 @@ G.G. 18 DE AGOSTO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 16 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
