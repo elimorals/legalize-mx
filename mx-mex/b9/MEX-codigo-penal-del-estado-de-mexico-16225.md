@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2014-12-15"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -141,15 +141,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: El cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136, fracciones V, X y 137, fracción II; el de peculado, señalado en el artículo 140, fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en "el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos, previsto en el artículo 170, fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo; el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177; el de delincuencia organizada, previsto en el artículo 178; los delitos cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en los artículos 204 y 205; los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206; el de lenocinio, previsto en los artículos 209 y 209 bis; el Tráfico de Menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230; el de lesiones, que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el de feminicidio, previsto en el artículo 242 Bis; el de secuestro, señalado por el artículo 259; el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo; el de extorsión contenido en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de trata de personas, contemplado en el artículo 268 bis; el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracciones I en su tercer párrafo, II, III, IV, V, XVI y XVII, y 292; el de abigeato, señalado en los artículos 297, fracciones II y III, 298, fracción II, y 299, fracciones I y IV; el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; el de daño en los bienes, señalado en el artículo 311; y el de operaciones con recursos, derechos o bienes de procedencia ilícita, previsto en los artículos 316, 318, 319 y 320; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
-
-> <small>(ADICIONADO, G.G. 26 DE OCTUBRE DE 2011)</small>
-
-Asimismo los considerados como graves por las Leyes Generales.
+Se califican como delitos graves para todos los efectos legales: El cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos, previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo; el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177; el de delincuencia organizada, previsto en el artículo 178; los delitos cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo (sic) 204 y 205; los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206; el de lenocinio, previsto en los artículos 209 y 209 bis; el Tráfico de Menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230; el de lesiones, que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el de feminicidio, previsto en el artículo 242 Bis; el de secuestro, señalado por el artículo 259; el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo; el de extorsión contenido en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de trata de personas, contemplado en el artículo 268 bis; el de abuso sexual, señalado en el artículo 270; el de violación, señalado por los artículos 273 y 274;; el de robo, contenido en los artículos 290 fracciones I en su tercer párrafo, II, III, IV, V, XVI y XVII, y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado en el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -1388,6 +1384,10 @@ Al responsable de este delito, se le impondrán de uno a cinco años de prisión
 ###### Artículo 118.
 
 También comete este delito el que debiendo ser examinado por la autoridad, sin que le aprovechen las excepciones constitucionales ni las establecidas por este código o el de procedimientos penales, se niegue a otorgar la protesta de ley o a declarar y se le impondrán de treinta a cien días multa. En caso de reincidencia se le impondrá prisión de seis meses a un año y de cuarenta a doscientos días multa.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+Cuando el conductor de cualquier vehículo de transporte público de pasajeros que, al ser requerido por la autoridad competente, no comparezca o se niegue a acudir a formular su denuncia ante el Ministerio Público por la comisión de una conducta presuntamente constitutiva de delito en su agravio o de los usuarios durante la prestación del servicio correspondiente, se impondrá una pena de seis meses a tres años de prisión y suspensión del derecho para conducir vehículo automotor por un término igual al de la pena impuesta, sin perjuicio de las penas que le correspondan por cualquier otra conducta.
 
 ###### Artículo 119.
 
@@ -3501,7 +3501,9 @@ SUBTITULO TERCERO
 
 DELITOS CONTRA LA LIBERTAD, SEGURIDAD Y TRANQUILIDAD DE LAS PERSONAS
 
-### CAPITULO II. ACTOS LIBIDINOSOS
+### CAPITULO II. ABUSO SEXUAL
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 258.
 
@@ -3517,7 +3519,7 @@ A quien incurra en este delito se le impondrán de uno a cuatro años de prisió
 
 ### CAPITULO III. ESTUPRO
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 259.
 
@@ -3751,31 +3753,27 @@ Comete también el delito de acoso sexual quien con fines de lujuria asedie reit
 
 En estos casos se impondrán penas de un año a cuatro años de prisión y de cien a trescientos días de multa. Si el pasivo del delito fuera menor de edad o persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, la pena se incrementará en un tercio.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
 
 ###### Artículo 270.
 
-Al que sin consentimiento de una persona púber ejecute en ella un acto erótico sexual, sin el propósito directo o inmediato de llegar a la cópula, se le impondrán de seis meses a dos años de prisión y de treinta a sesenta días multa.
+Comete el delito de abuso sexual quien ejecute en una persona menor de edad o que no tenga la capacidad de comprender las cosas o de resistir al hecho, un acto erótico o sexual sin la intensión de llegar a la cópula o quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona.
 
-Si el ofendido es impúber, aun cuando otorgue su consentimiento, se impondrán de uno a cuatro años de prisión y de cuarenta a cien días multa.
-
-Si se hiciere uso de la violencia física o moral se impondrá además la pena de uno a cuatro años de prisión.
-
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
-
-Si los actos a que se refiere este artículo los cometiera un familiar consanguíneo directo y colaterales hasta el cuarto grado, en agravio de persona impúber se impondrá de cuatro a diez años de prisión y de cien a quinientos días multa.
+A quien cometa este delito, se le impondrá pena de ocho a quince años de prisión.
 
 ### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
 
 ###### Artículo 271.
 
-Al que tenga cópula con una mujer mayor de quince años y menor de dieciocho obteniendo su consentimiento por medio de seducción, se le impondrán de seis meses a cuatro años de prisión y de treinta a cien días multa.
+Comete delito de estupro quien tenga cópula con una persona mayor de quince años y menor de dieciocho obteniendo su consentimiento por medio de cualquier tipo de seducción. A quien cometa este delito se le impondrán de uno a cinco años de prisión.
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 272.
 
-No se procederá contra el inculpado del estupro, si no es por querella de la mujer ofendida, de sus padres o, a falta de éstos, de sus representantes legítimos.
+No se procederá contra el inculpado del estupro, si no es por querella de la parte ofendida, de sus padres o, a falta de éstos, de sus representantes legítimos.
 
 ### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
@@ -3841,6 +3839,10 @@ VI. Cuando el ofendido tenga alguna discapacidad, que limite las actividades de 
 
 VII. Cuando se cometa en un vehículo de transporte público de pasajeros, de personal o escolar, vehículo oficial u otro que sin contar con la autorización oficial preste un servicio equivalente, se aumentará la pena que corresponda hasta en una mitad.
 
+> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+VIII. Cuando el delito sea cometido por quienes tengan o hayan tenido relación con la víctima por motivos laborales, docentes, médicos, domésticos, religiosos o cualquier otro que implique confianza o subordinación, se aumentará la pena que corresponda hasta en un tercio.
+
 SUBTITULO QUINTO
 
 DELITOS CONTRA LA REPUTACION DE LA PERSONA
@@ -3902,6 +3904,10 @@ Comete el delito de robo, el que se apodera de un bien ajeno mueble, sin derecho
 El robo estará consumado desde el momento en que el ladrón tiene en su poder el bien, aun cuando después lo abandone o lo desapoderen de él.
 
 Para estimar la cuantía del robo, se atenderá únicamente al valor intrínseco del objeto de apoderamiento.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+El delito de robo podrá acreditarse cuando se detenga al sujeto en posesión de la cosa ajena mueble desapoderada sin consentimiento y sin derecho de quien legítimamente pueda disponer de él, y el imputado no acredite la adquisición lícita del mismo.
 
 Para efectos de este capítulo, se entiende, por salario mínimo diario, el que se encuentre vigente en la zona económica, al momento de cometerse el delito.
 
@@ -5360,3 +5366,19 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 16 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 351, POR EL QUE SE REFORMAN EL ARTÍCULO 9, LA DENOMINACIÓN DEL CAPÍTULO II DEL SUBTÍTULO CUARTO DEL TÍTULO TERCERO, LOS ARTÍCULOS 270, 271 Y 272 Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 274 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 16 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 359, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y UN PÁRRAFO CUARTO, RECORRIÉNDOSE EL SUBSECUENTE, AL ARTÍCULO 287 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
