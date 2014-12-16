@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2014-05-14"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -73,7 +73,7 @@ XI. Informe Mensual: Al documento que mensualmente envían para su análisis al 
 
 XII. Informe de Resultados: Al documento que contiene el resultado de la fiscalización de las cuentas públicas, que el Organo Superior, por conducto de la Comisión, presenta a la Legislatura;
 
-XIII. Informes Especiales: Aquellos que en cualquier momento solicite la Legislatura, a través de la Comisión, al Organo Superior del Estado, en uso de sus facultades de fiscalización; y (sic)
+XIII. Informes Especiales: Aquellos que en cualquier momento solicite la Legislatura, a través de la Comisión, al Organo Superior del Estado, en uso de sus facultades de fiscalización; y
 
 XIV. Reglamento: Al Reglamento Interior del Organo Superior de Fiscalización;
 
@@ -279,7 +279,9 @@ I. Representar legalmente al Organo Superior ante toda clase de autoridades y pe
 
 II. Ejercer las atribuciones del Organo Superior, en términos de la Constitución Política del Estado Libre y Soberano de México, la presente Ley, el Reglamento y demás disposiciones legales aplicables;
 
-III. Emitir y entregar a la Legislatura, por conducto de la Comisión, los informes relativos a la revisión de las cuentas públicas, en los plazos y términos previstos por la Ley;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+III. Emitir y entregar a la Legislatura, por conducto de la Comisión, los informes relativos a la revisión de las cuentas públicas, en los plazos y términos previstos por la Ley. Así mismo, deberá publicitar dicho documento de manera inmediatamente posterior a la entrega que realice a la Comisión;
 
 IV. Formular los pliegos de observaciones y recomendaciones necesarias a las entidades fiscalizables, así como verificar su debida cumplimentación;
 
@@ -553,9 +555,9 @@ La Comisión será el enlace entre la Legislatura y el Organo Superior, para coo
 
 Son facultades de la Comisión, las siguientes:
 
-> <small>(REFORMADA, G.G. 31 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-I. Revisar los informes de resultados de las cuentas públicas del Estado, municipios y demás entidades fiscalizables elaborados por el Órgano Superior y turnarlos a la Legislatura para el trámite correspondiente;
+I. Revisar, analizar, aclarar y discutir los informes de resultados de las cuentas públicas del Estado, municipios y demás entidades fiscalizables elaborados por el Órgano Superior y turnarlos a la Legislatura para el trámite correspondiente, debiéndose realizar en reuniones de trabajo de la propia Comisión y con la presencia del Auditor Superior y el personal del propio Órgano Superior, que así se considere;
 
 II. Conocer y evaluar el cumplimiento del plan anual de actividades del Organo Superior;
 
@@ -631,9 +633,11 @@ VII. Si se ajustan a la Ley la recaudación, administración, manejo y aplicaci�
 
 VIII. Las conductas que den lugar al fincamiento de responsabilidades administrativas y, en su caso, a la imposición de sanciones.
 
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 36.
 
-Las cuentas públicas serán remitidas a la Legislatura y presentadas al Organo Superior por conducto de la Comisión, para su revisión y fiscalización superior en la forma y plazos establecidos por la Ley.
+Las cuentas públicas serán remitidas a la Legislatura, su Presidente deberá hacerlas del conocimiento de sus integrantes y de la Comisión, quien la remitirá al Órgano Superior para su revisión y fiscalización superior en la forma y plazos establecidos por la Ley.
 
 ###### Artículo 37.
 
@@ -649,11 +653,11 @@ Las observaciones a que se refiere el artículo anterior, deberán notificarse a
 
 El Organo Superior, en ejercicio de sus atribuciones de fiscalización, podrá realizar visitas y auditorías en relación con el ejercicio fiscal sujeto a revisión, respecto de los procesos concluidos.
 
-> <small>(REFORMADO, G.G. 31 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 40.
 
-Revisado por la Legislatura el Informe de Resultados a que se refiere el artículo 50 del presente ordenamiento y previa etapa de aclaración se deberán fincar por conducto del Órgano Superior de Fiscalización, las responsabilidades resarcitorias en que hubieren incurrido los servidores públicos de las entidades fiscalizables. Asimismo, a través del propio Órgano Superior, se promoverá, en términos de la legislación aplicable, la imposición de otras responsabilidades y sanciones que resulten procedentes, ante las autoridades competentes.
+Revisado por la Legislatura el Informe de Resultados a que se refiere el artículo 50 del presente ordenamiento y previa etapa de revisión, análisis, aclaración y discusión, se deberán fincar por conducto del Órgano Superior de Fiscalización, las responsabilidades resarcitorias en que hubieren incurrido los servidores públicos de las entidades fiscalizables. Asimismo, a través del propio Órgano Superior, se promoverá, en términos de la legislación aplicable, la imposición de otras responsabilidades y sanciones que resulten procedentes, ante las autoridades competentes.
 
 ###### Artículo 41.
 
@@ -677,7 +681,7 @@ Durante sus actuaciones, los comisionados que hubieren intervenido en las revisi
 
 ### CAPITULO CUARTO. DEL INFORME DE RESULTADOS
 
-> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 46.
 
@@ -713,9 +717,11 @@ Dichos documentos estarán disponibles en las oficinas de la Tesorería Municipa
 
 ###### Artículo 50.
 
-El Órgano Superior tendrá un plazo improrrogable que vence el 30 de septiembre del año en que se entreguen las cuentas públicas, para realizar su examen y rendir a la Legislatura, por conducto de la Comisión de Vigilancia, el correspondiente Informe de Resultados, mismo que tendrá carácter público; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e informaciones.
+El Órgano Superior tendrá un plazo improrrogable que vence el 30 de septiembre del año en que se entreguen las cuentas públicas, para realizar su examen, presentar ante la Comisión de Vigilancia del Órgano Superior de Fiscalización, transparentar sus resultados y rendir a la Legislatura, por conducto de la Comisión de Vigilancia, el correspondiente Informe de Resultados, mismo que tendrá inmediatamente después a su entrega, el carácter público y, en consecuencia, deberá ser publicado en medios electrónicos de manera inmediatamente posterior a la entrega que haga el Órgano Superior a la Comisión de Vigilancia; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e informaciones.
 
-La revisión del Informe que hace referencia el párrafo anterior, la Comisión de Vigilancia del Órgano Superior de Fiscalización, deberá presentarla ante el Pleno de la Legislatura para su votación a más tardar el 15 de noviembre del año en que se presente dicho informe.
+La revisión análisis, aclaración y discusión del Informe que hace referencia el párrafo anterior, la Comisión de Vigilancia del Órgano Superior de Fiscalización, deberá presentarla ante el Pleno de la Legislatura para su votación a más tardar el 15 de noviembre del año en que se presente dicho informe, debiéndose realizar previamente, reuniones de trabajo de la propia Comisión.
+
+La Comisión vigilara la publicación del Informe de Resultados, de todas y cada una de las reuniones de trabajo que realice para analizarlo y del decreto que emita la Legislatura, de manera inmediata a que cada uno acontezca.
 
 ###### Artículo 51.
 
@@ -743,9 +749,11 @@ Para el caso de las revisiones especiales que puedan realizarse de manera contem
 
 El informe de resultados deberá elaborarse considerando los principios de contabilidad gubernamental y las disposiciones legales aplicables.
 
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 52.
 
-El Organo Superior en el informe de resultados, dará cuenta a la Legislatura de los pliegos de observaciones que hubiere formulado, de las responsabilidades resarcitorias que hubiere fincado, así como de los procedimientos que las autoridades competentes hubieren iniciado para el fincamiento de responsabilidades y la imposición de sanciones.
+El Órgano Superior en el informe de resultados, dará cuenta por medio de la Comisión, a la Legislatura de los pliegos de observaciones que hubiere formulado, de las responsabilidades resarcitorias que hubiere fincado, así como de los procedimientos que las autoridades competentes hubieren iniciado para el fincamiento de responsabilidades y la imposición de sanciones.
 
 ### CAPITULO SEGUNDO. DE LAS RESPONSABILIDADES
 
@@ -1148,3 +1156,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
+
+G.G. 16 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las presentes reformas deberán estar armonizadas en los reglamentos que correspondan, noventa días después de su publicación en el Periódico Oficial "Gaceta de Gobierno".
