@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2014-03-21"
+last_updated: "2014-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE MARZO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -907,6 +905,10 @@ X. Atender las observaciones del personal docente y directivo sobre las conducta
 
 XI. Participar en los programas de formación de padres que implemente la Secretaría, con el fin de impulsar el desarrollo familiar que favorezca la educación integral de sus hijas, hijos o pupilos.
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+XII. Fomentar en sus hijas, hijos o pupilos, en el marco de la cultura de la paz, el uso responsable de los aparatos relacionados a las tecnologías de la comunicación y de la información.
+
 Prevención de ilícitos
 
 ###### Artículo 66.
@@ -1203,9 +1205,9 @@ XLV. Operar un sistema accesible a los ciudadanos y docentes para la presentaci�
 
 XLVI. Notificar a las escuelas particulares los resultados que hayan obtenido sus docentes y alumnos en las evaluaciones correspondientes;
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-XLVII. Realizar las acciones para que en el contenido de los planes, programas y proyectos educativos, se prevea la perspectiva de género;
+XLVII. Promover e impulsar en los educandos y demás integrantes de la comunidad educativa, en el marco de la cultura de la paz, el uso responsable de los aparatos relacionados a las tecnologías de la comunicación y de la información;
 
 > <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -2362,3 +2364,7 @@ Erogaciones presupuestales progresivas
 ###### ARTÍCULO CUARTO.
 
 Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin a la Secretaría y a los organismos del sector educativo para el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo, derivadas del presente Decreto y de los ordenamientos federales aplicables en materia de evaluación, servicio profesional docente y demás de índole educativo.
+
+P.O. 16 DE DICIEMBRE DE 2014.
+
+Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
