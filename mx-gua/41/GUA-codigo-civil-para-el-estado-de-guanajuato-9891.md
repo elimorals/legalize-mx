@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2014-10-17"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -472,6 +472,10 @@ El Oficial y el personal administrativo del Registro Civil que no cumplan las pr
 ###### Art. 62.
 
 Las declaraciones de nacimiento se harán presentando a la persona a registrar ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre ésta.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
+Todos los registros de nacimiento llevados a cabo en la Oficialía del Registro Civil, serán gratuitos. El Oficial del Registro Civil expedirá sin costo la primera copia certificada del acta de registro de nacimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -3125,7 +3129,7 @@ El certificado de idoneidad deberá ser tramitado con antelación al inicio del 
 
 El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato emitirá el certificado de idoneidad por conducto del órgano colegiado establecido para atender el tema de adopción y unificar los programas que se apliquen en el Estado, el que contendrá su conformidad con la adopción y determinará su vigencia. El certificado de idoneidad tendrá su base en el expediente técnico integrado para verificar que se cumplen los supuestos de los incisos previstos en la presente fracción. La integración de los expedientes técnicos respectivos podrá realizarse mediante el apoyo de instituciones públicas o asociaciones civiles autorizadas por el mismo órgano colegiado, conforme a la normatividad que para ello emita, sin menoscabo de que éste pueda repetir de manera directa todos aquellos estudios correspondientes y necesarios para verificar la correcta integración del expediente técnico.
 
-El órgano colegiado en materia de adopción podrá autorizar a otras instituciones públicas y a asociaciones civiles constituidas legalmente, a que tengan en custodia a menores susceptibles de ser adoptados, a realizar la preparación psicológica para adoptar y a colaborar en la integración del expediente para emitir el certificado de idoneidad previa conformidad que aquél manifieste con la adopción correspondiente, cuando satisfagan los requisitos contemplados en la normativa que establezca el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, la que al menos incluirá: la exigencia del cumplimiento de todas las disposiciones legales y normativas aplicable para su apertura y funcionamiento; contar con un programa de adopciones; las características y forma de comprobación de la solvencia patrimonial y técnica de las instituciones a autorizar, así como moral para el caso de instituciones privadas, incluyendo de quienes las conforman y de sus directivos; y las condiciones adecuadas que deben (sic) guardar su personal, al igual que instalaciones y servicios para el modelo de atención. Dicha normativa también contemplará la temporalidad de la autorización; las características, periodicidad y modalidades de las verificaciones obligatorias a las organizaciones autorizadas, para renovar la autorización; la periodicidad de los registros e informe de las niñas, niños y adolescentes susceptibles de adopción;
+El órgano colegiado en materia de adopción podrá autorizar a otras instituciones públicas y a asociaciones civiles constituidas legalmente, a que tengan en custodia a menores susceptibles de ser adoptados, a realizar la preparación psicológica para adoptar y a colaborar en la integración del expediente para emitir el certificado de idoneidad previa conformidad que aquél manifieste con la adopción correspondiente, cuando satisfagan los requisitos contemplados en la normativa que establezca el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, la que al menos incluirá: la exigencia del cumplimiento de todas las disposiciones legales y normativas aplicable para su apertura y funcionamiento; contar con un programa de adopciones; las características y forma de comprobación de la solvencia patrimonial y técnica de las instituciones a autorizar, así como moral para el caso de instituciones privadas, incluyendo de quienes las conforman y de sus directivos; y las condiciones adecuadas que deben guardar su personal, al igual que instalaciones y servicios para el modelo de atención. Dicha normativa también contemplará la temporalidad de la autorización; las características, periodicidad y modalidades de las verificaciones obligatorias a las organizaciones autorizadas, para renovar la autorización; la periodicidad de los registros e informe de las niñas, niños y adolescentes susceptibles de adopción;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -3587,7 +3591,7 @@ VI. El incumplimiento de la obligación alimentaria por más de noventa días, s
 
 ###### Art. 499.
 
-El cónyuge no ejercerá la patria potestad sobre los hijos del matrimonio anterior del otro cónyuge, a menos que el hombre o la mujer del matrimonio anterior haya perdido la patria potestad por cualquiera de las causas enunciadas por esta Ley (sic), siempre y cuando el cónyuge adopte a los hijos del matrimonio anterior.
+El cónyuge no ejercerá la patria potestad sobre los hijos del matrimonio anterior del otro cónyuge, a menos que el hombre o la mujer del matrimonio anterior haya perdido la patria potestad por cualquiera de las causas enunciadas por esta Ley, siempre y cuando el cónyuge adopte a los hijos del matrimonio anterior.
 
 ###### Art. 500.
 
@@ -8323,7 +8327,7 @@ Las anteriores disposiciones se observarán en el caso del artículo 2166 de est
 
 ###### Art. 1406.
 
-Independientemente de los daños y perjuicios el Juez acordará en favor de la víctima de un hecho ilícito, o de su familia si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Para fijar la indemnización el Tribunal tomará en cuenta la naturaleza del hecho dañoso y la de la lesión moral sufrida por el ofendido, apreciará ésta según las circunstancias personales de éste, tales como su educación, sensibilidad, afectos, posición social, vínculos familiares, etc. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil.
+Independientemente de los daños y perjuicios el Juez acordará en favor de la víctima de un hecho ilícito, o de su familia si aquella muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Para fijar la indemnización el Tribunal tomará en cuenta la naturaleza del hecho dañoso y la de la lesión moral sufrida por el ofendido, apreciará ésta según las circunstancias personales de éste, tales como su educación, sensibilidad, afectos, posición social, vínculos familiares, etc. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil.
 
 ###### Art. 1407.
 
@@ -15857,7 +15861,7 @@ La aceptación expresa o tácita de la herencia o del legado interrumpen el tér
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 1968)</small>
 
-El derecho de reclamar la herencia en los casos en que suceda la Universidad de Guanajuato, prescribe en el término de dos años, contados a partir de la muerte del autor de la sucesión.
+El derecho de reclamar la herencia en los casos en que suceda la Universidad de Guanajuato, prescribe en el término de dos años, contados a partir del momento de la muerte del autor de la sucesión.
 
 ### Capítulo V. Del inventario y de la liquidación de la herencia
 
@@ -16986,3 +16990,7 @@ P.O. 17 DE OCTUBRE DE 2014.
 DECRETO NÚMERO 186 POR EL QUE SE REFORMAN EL PRIMER, SEGUNDO Y TERCER PÁRRAFOS DEL ARTÍCULO 2516 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO.
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2014.
+
+Artículo Único. El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
