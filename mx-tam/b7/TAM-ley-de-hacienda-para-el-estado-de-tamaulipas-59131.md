@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2013-12-17"
+last_updated: "2014-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -639,7 +639,7 @@ Los contribuyentes comprobarán el pago del impuesto con la copia de la forma po
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-#### Sección Primera. del (sic) Registro Civil
+#### Sección Primera. del Registro Civil
 
 ###### Artículo 38.
 
@@ -707,7 +707,7 @@ Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, 
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-#### Sección Segunda. del (sic) Registro Público de la Propiedad Inmueble
+#### Sección Segunda. del Registro Público de la Propiedad Inmueble
 
 ###### Artículo 39.
 
@@ -827,7 +827,7 @@ El Gobierno del Estado podrá celebrar convenios con las autoridades federales c
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-#### Sección Tercera. del (sic) Registro Público del Comercio
+#### Sección Tercera. del Registro Público del Comercio
 
 ###### Artículo 42.
 
@@ -1123,7 +1123,7 @@ Para este efecto, la Secretaría de Finanzas del Estado presumirá como base del
 
 a) El número de trabajadores y las erogaciones correspondientes a los mismos, declarados para los efectos del Instituto Mexicano del Seguro Social o del Instituto para el Fondo Nacional de la Vivienda de los Trabajadores;
 
-b) La que resulte de considerar, por cada trabajador a su servicio, el importe de cuatro veces el salario mínimo diario del área geográfica correspondiente al domicilio del contribuyente multiplicado por el número de días cada uno de los meses sujeto a revisión; y (sic)
+b) La que resulte de considerar, por cada trabajador a su servicio, el importe de cuatro veces el salario mínimo diario del área geográfica correspondiente al domicilio del contribuyente multiplicado por el número de días cada uno de los meses sujeto a revisión; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1205,7 +1205,7 @@ La Secretaría de Finanzas del Estado de oficio podrá inscribir a los contribuy
 
 II.- Presentar ante las mismas autoridades los avisos de cambios de datos contenidos en su solicitud de inscripción en los términos del Código Fiscal del Estado;
 
-III.- Presentar declaraciones, así como los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto; y (sic)
+III.- Presentar declaraciones, así como los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto; y
 
 IV.- Cuando los sujetos operen con varios establecimientos deberán acumular la información de todos ellos en la declaración que corresponda su domicilio fiscal en el Estado.
 
@@ -1329,7 +1329,7 @@ h) Las aportaciones de seguridad social;
 
 i) El ahorro, cuando se integre por un depósito de cantidad igual del trabajador y del patrón, y las cantidades otorgadas por el patrón para fines sociales y sindicales; siempre que reúnan los requisitos de deducibilidad del Título II de la Ley de Impuesto sobre la Renta;
 
-j) La alimentación y la habitación cuando se entreguen en forma onerosa a trabajadores. Se entiende que son onerosas estas prestaciones, cuando el cobro de cada una de ellas represente, como mínimo, el 20 por ciento de un día de salario mínimo, por cada día de trabajo; y (sic)
+j) La alimentación y la habitación cuando se entreguen en forma onerosa a trabajadores. Se entiende que son onerosas estas prestaciones, cuando el cobro de cada una de ellas represente, como mínimo, el 20 por ciento de un día de salario mínimo, por cada día de trabajo; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1435,17 +1435,17 @@ IV. Apostillamiento de documentos, cinco días de salario mínimo;
 
 V. Otorgamiento de constancia por el registro de título profesional ante el Poder Judicial del Estado, tres días de salario mínimo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+VI. Impresión de copias de traslado en los emplazamientos por exhorto en los que se utilice la Comunicación Procesal electrónica, 60 centavos por hoja;
 
-VI. Impresión de copias de traslado en los emplazamientos por exhorto en los que se utilice la Comunicación Procesal electrónica, 60 centavos por hoja; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VII. Copia certificada o simple de los registros electrónicos de las audiencias que se llevan a cabo en los procedimientos, 1 día de salario mínimo, por cada disco que expida; y
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-VII. Copia certificada o simple de los registros electrónicos de las audiencias que se llevan a cabo en los procedimientos, 1 día de salario mínimo, por cada disco que expida.
+VIII. Registro de Valuador Profesional, seis días de salario mínimo.
 
 ###### Artículo 60.
 
@@ -1459,9 +1459,31 @@ III. Constancia de no inhabilitación par (sic) el servicio público, tres días
 
 IV. Constancia de no antecedentes penales, tres días de salario mínimo;
 
-V. En los términos de la Ley del Notariado, por la adscripción de un aspirante a una Notaría Pública, 150 días de salario mínimo; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-VI. Por la integración del expediente del aspirante a Notario Público, se pagarán ocho días de salario mínimo.
+V. En los términos de la Ley del Notariado para el Estado de Tamaulipas, por la adscripción de un aspirante a una Notaría Pública, 150 días de salario mínimo;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+VI. Por la integración del expediente del aspirante a Notario Público, se pagarán ocho días de salario Mínimo; e
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+VII. Inscripción en la Dirección de Asuntos Notariales:
+
+a) Por el registro de la patente notarial, cien días de salario mínimo;
+
+b) Por el registro de la firma y sello del notario, diez días de salario mínimo;
+
+c) Por el registro de la patente de aspirantes a notarios públicos, diez días de salario mínimo;
+
+d) Por la autorización de cada libro del protocolo notarial, cinco días de salario mínimo;
+
+e) Por la conservación de cada libro y sus anexos (apéndice) del protocolo notarial, un día de salario mínimo;
+
+f) Localización de instrumento inscrito en los protocolos, tres días de salario mínimo por año de búsqueda; expedición de copia certificada de los mismos, un día de salario mínimo; y
+
+g) Expedición de testimonios, diez días de salario mínimo, despacho de copias certificadas para elaboración de testimonios, se cobrará hasta 15 hojas, 1 día de salario mínimo; hasta 40 hojas, 2 días de salario; hasta 70 hojas, 3 días de salario; hasta 105 hojas, 4 días de salario; y de 106 hojas en adelante, 5 días de salario mínimo.
 
 ###### Artículo 61.
 
@@ -1487,13 +1509,13 @@ Los derechos por actas del Registro Civil se causarán conforme a la siguiente t
 
 I. INSCRIPCIONES.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+1. Inscripción del reconocimiento de hijo, adopción, defunción o de sentencias dictadas en las informaciones testimoniales relativas al nacimiento, defunción y demás hechos y actos previstos en este numeral, un día de salario mínimo. La inscripción de hechos relativos al nacimiento, y la expedición de la primer acta certificada de nacimiento, se hará sin pago alguno de derechos;
 
-1. Inscripción del reconocimiento de hijo, adopción, defunción o de sentencias dictadas en las informaciones testimoniales relativas al nacimiento, defunción y demás hechos y actos previstos en este numeral, un día de salario mínimo. La inscripción de hechos relativos al nacimiento, y la expedición de la primer acta certificada de nacimiento, para personas de cero a quince años, se hará sin pago alguno de derechos;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-2. Inscripción de actas de matrimonio, diez días de salario mínimo;
+2. Inscripción de actas de matrimonio, diez días de salario mínimo, cuando se celebre en la oficialía; y veinticinco días de salario mínimo, cuando éste sea celebrado fuera de la sede de la oficialía, así como en día u hora inhábil; e
 
 3. Inscripción de actas de divorcio:
 
@@ -1501,7 +1523,7 @@ a) Expedidas en el país, ocho días de salario mínimo;
 
 b) Expedidas fuera del país, diez días de salario mínimo; y
 
-Cuando los servicios del Oficial del Registro Civil se presten a solicitud del interesado en horas o días inhábiles o en lugar distinto a la sede de la oficialía, su inscripción causará una cuota igual al importe de veinticinco días de salario mínimo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 II. REGULARIZACIONES Y CANCELACIONES.
 
@@ -1511,19 +1533,35 @@ b) La inscripción de las resoluciones judiciales de cancelación o rectificaci�
 
 c) La corrección de errores en inscripciones causará la cuota igual al importe de tres días de salario mínimo.
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 III. CERTIFICACIONES.
 
-Las certificaciones de constancias que obren en los libros del registro civil causarán la cuota igual al importe de un día de salario mínimo.
+a) Las certificaciones de actas y constancias que obren en los libros del registro civil así como de apéndices e índices respectivos, causarán la cuota igual al importe de un día de salario mínimo por hoja;
+
+b) Las certificaciones de firmas, inscripciones, anotaciones, índices o apéndices del registro civil, causarán la cuota igual al importe de un día de salario mínimo, por hoja; y
+
+c) Por la expedición de copias certificadas de actas que obren en la base de datos del Registro Civil, en lugar distinto al de su registro, por medio de la conexión estatal entre oficialías y la Coordinación General, el importe igual a un día de salario mínimo.
 
 IV. DIVORCIO ADMINISTRATIVO.
 
 Por la realización del trámite para la obtención de divorcio administrativo que efectúen las Oficialías del Registro Civil del Estado, incluyendo la anotación respectiva para la cancelación del matrimonio, se causará una cuota igual al importe de 30 días de salario mínimo.
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 V. DIVERSOS.
 
-a) Por la búsqueda de documentos, dos días de salario mínimo; y
+a).- Por la búsqueda de actas, actos o documentos en los libros del archivo respectivo, y en su caso, la expedición de la constancia que previo a su búsqueda se determine que no obran asentados o no existen en los libros, dos días de salario mínimo; la búsqueda comprenderá periodos de diez años o fracción del registro que corresponda, si la búsqueda se solicita ante la Coordinación General, ésta se hará por municipio y, si se solicita ante alguna de las oficialías del Registro Civil, ésta se realizará únicamente en el acervo con que cuente la oficialía;
 
-b) Por trámite de actas foráneas, dos días de salario mínimo.
+b).- La búsqueda de actas o registros en la base de datos del sistema del Registro Civil, se realizará de manera gratuita y, en su caso, la expedición de la constancia de inexistencia tendrá un costo de dos días de salario mínimo; la búsqueda comprenderá cualquier periodo que la base de datos contenga;
+
+c).- Por la emisión de constancias de registros extemporáneos, un día de salario mínimo;
+
+d).- Por el trámite de actas foráneas inscritas en otros Estados de la República; así como por prestar el servicio de trámite de actas o constancias diversas, inscritas en el Estado, solicitadas de lugar distinto al de su inscripción, dos días de salario mínimo;
+
+e).- Por la expedición de copias certificadas de actas, de distinto Estado del país, a través de la Conexión Interestatal entre la Coordinación General y la base nacional de datos de Registro Nacional de Población, el importe igual a tres días de salario mínimo; y
+
+f).- Por el trámite y expedición de constancias diversas derivadas de la actividad del registro civil, distintas a las enunciadas en las fracciones del presente artículo, un día de salario mínimo.
 
 ###### Artículo 63.
 
@@ -1533,7 +1571,9 @@ En los derechos que se causen por matrimonios a domicilio, los Oficiales del Reg
 
 Los servicios que se presten en el Registro Público de la Propiedad Inmueble causarán derechos conforme a la siguiente tarifa:
 
-I. La inscripción o registro de títulos, ya se trate de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes muebles o inmuebles, sobre el valor 8 al millar;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+I. La inscripción o registro de títulos, ya se trate de documentos públicos o privados, fideicomisos, de resoluciones judiciales, administrativas, o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes muebles o inmuebles, sobre el valor 8 al millar;
 
 II. Por la calificación de todo documento que se devuelva sin cumplimentar por carencia u omisión de requisitos, impedimento legal o a petición del interesado, cada vez que se presente, el importe de un día de salario mínimo;
 
@@ -1545,13 +1585,15 @@ IV. La inscripción de poderes públicos y privados no mercantiles y la sustituc
 
 Por la revocación o renuncia de los poderes, por cada una se cobrará cinco días de salario mínimo;
 
-V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles y muebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, 4 al millar;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles y muebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, 4 al millar. La inscripción de cédulas hipotecarias, con el importe de diez días de salario mínimo;
 
 VI. La inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío otorgados por instituciones de crédito, de seguros o de fianzas sobre el importe de la operación, 4 al millar;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-VII. La inscripción de la constitución del patrimonio familiar y de las informaciones ad-perpetuam, con el importe de cinco días de salario mínimo;
+VII. La inscripción de las informaciones ad-perpetuam, con el importe de cinco días de salario mínimo;
 
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
@@ -1577,39 +1619,19 @@ XI. El depósito de testamentos y expedición de constancias respectivas, por ca
 
 XII. La cancelación del registro de cada sociedad civil o asociación civil por extinción de las mismas con el importe de diez días de salario mínimo;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XIII. La cancelación de las inscripciones en los casos a que se refieren las fracciones V y VII, con el importe de diez días de salario mínimo, por cada anotación;
+XIII. La cancelación de las inscripciones en los casos a que se refieren las fracciones V, VI y VII, con el importe de diez días de salario mínimo, por cada anotación;
 
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
 XIV. La cancelación de las inscripciones relativas a los casos comprendidos en la fracción IX de este artículo, con el importe de diez días de salario mínimo;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XV. Búsqueda de documentos, seis días de salario mínimo; certificación o expedición de copia certificada de los mismos o de protocolos, un día de salario mínimo; certificado con reserva de prioridad 10 días de salario mínimo; certificado informativo, de no propiedad, de única propiedad, índice de titulares e informes, con el importe de seis días de salario mínimo;
+XV. Búsqueda de documentos, un día de salario mínimo; certificación o expedición de copia certificada de los mismos, un día de salario mínimo; si las hojas del documento no exceden de 7; de 8 a 15 hojas dos días de salario mínimo; de 16 a 30 hojas tres días de salario mínimo; de 31 a 50 hojas cuatro días de salario mínimo; de 50 en adelante cinco días de salario mínimo; certificado con reserva de prioridad 10 días de salario mínimo; certificado informativo, de no propiedad, de única propiedad, índice de titulares e informes, con el importe de seis días de salario mínimo;
 
-XVI. Inscripción en el Archivo General de Notarías:
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
-
-a) Por el registro de la patente notarial, cien días de salario mínimo;
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
-
-b) Por el registro de la firma y sello del notario, diez días de salario mínimo;
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
-
-c) Por el registro de la patente de aspirantes a notarios públicos, diez días de salario mínimo;
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
-
-d) Por la autorización de cada libro del protocolo notarial, cinco días de salario mínimo;
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
-
-e) Por la conservación de cada libro y sus anexos (apéndice) del protocolo notarial, un día de salario mínimo;
+XVI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
@@ -1623,9 +1645,9 @@ XVIII. Por la inscripción de contratos de mutuo con o sin garantía hipotecaria
 
 XIX. Por la consulta de un legajo, dos días de salario mínimo;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XX. Por la rectificación de documentos expedidos por el Registro Público de la Propiedad Inmueble, siete días de salario mínimo; y
+XX. Por la rectificación o aclaración de documentos expedidos por el Instituto Registral y Catastral del Estado, siete días de salario mínimo; y
 
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
 
@@ -1687,13 +1709,11 @@ VII. Por la inscripción de fraccionamiento de terrenos, así como los actos, co
 
 VIII. Por la inscripción de títulos de predios urbanos en tierras ejidales, tramitados a través de un organismo gubernamental.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 67.
 
-No se causarán los derechos a que se refieren los artículos 65 y 68 de esta ley por los informes que soliciten las autoridades judiciales en causas penales o juicios de amparo, o por la expedición de copias certificadas, certificaciones, la inscripción de la cancelación de algún gravamen, la inscripción de la aclaración o corrección a documentos previamente inscritos, búsqueda de documentos e informes que soliciten oficialmente los servidores públicos del Gobierno del Estado en ejercicio de sus facultades como autoridades. Tampoco se causarán los derechos por la inscripción de embargos de bienes solicitados por dichos servidores públicos, cuando se declare que dicho embargo se realiza para proteger o salvaguardar el patrimonio del Estado, garantizar el interés fiscal del mismo o los casos en que se requieran otorgar como garantía los bienes propiedad del Gobierno del Estado.
+No se causarán los derechos a que se refieren los artículos 65 y 68 de esta Ley, por los informes que soliciten las autoridades judiciales solamente en causas penales o juicios de amparo, o por la expedición de copias certificadas, certificaciones, la inscripción de la cancelación de algún gravamen, la inscripción de la aclaración o corrección a documentos previamente inscritos, búsqueda de documentos e informes que soliciten oficialmente los demás servidores públicos del Gobierno del Estado, en ejercicio de sus facultades como autoridades, con excepción de los solicitados por los órganos jurisdiccionales del Poder Judicial del Estado. Tampoco se causarán los derechos por la inscripción de embargos de bienes solicitados por dichos servidores públicos, cuando se declare que dicho embargo se realiza para proteger o salvaguardar el patrimonio del Estado, garantizar el interés fiscal del mismo o los casos en que se requieran otorgar como garantía los bienes propiedad del Gobierno del Estado.
 
 ###### Artículo 68.
 
@@ -1955,9 +1975,9 @@ Con base en las tarifas previstas en este precepto, el Ejecutivo del Estado, por
 
 I. Servicios de control vehicular, que se prestan:
 
-a).- Por ingreso o refrendo anual en el padrón de vehículos de motor o remolques, dieciocho días de salario mínimo; y
+a) Por ingreso o refrendo anual en el padrón de vehículos de motor o remolques, dieciocho días de salario mínimo; y
 
-b).- Por expedición, reposición o canje de placas de vehículos de motor o remolques, de servicio particular y de servicio público de transporte, cinco días de salario mínimo;
+b) Por expedición, reposición o canje de placas de vehículos de motor o remolques, de servicio particular y de servicio público de transporte, cinco días de salario mínimo;
 
 Las personas físicas o morales que adquieran vehículos de motor o remolques, nuevos o usados, que no cuenten con placas vigentes del Estado de Tamaulipas, deberán efectuarlo dentro de los quince días siguientes a la fecha de adquisición.
 
@@ -1969,35 +1989,35 @@ II. La asignación del número de control vehicular y de la documentación corre
 
 1.- De pasajeros:
 
-a).- Sitio, treinta y seis días de salario mínimo;
+a) Sitio, treinta y seis días de salario mínimo;
 
-b).- Libre, treinta y seis días de salario mínimo; y
+b) Libre, treinta y seis días de salario mínimo; y
 
-c).- De ruta, treinta y seis días de salario mínimo.
+c) De ruta, treinta y seis días de salario mínimo.
 
 2.- Especializados:
 
-a).- Escolar, treinta y seis días de salario mínimo;
+a) Escolar, treinta y seis días de salario mínimo;
 
-b).- Personal, sesenta y cuatro días de salario mínimo;
+b) Personal, sesenta y cuatro días de salario mínimo;
 
-c).- Turístico y diversiones, treinta y seis días de salario mínimo;
+c) Turístico y diversiones, treinta y seis días de salario mínimo;
 
-d).- Servicio de emergencia particulares, treinta y seis días de salario mínimo; y
+d) Servicio de emergencia particulares, treinta y seis días de salario mínimo; y
 
-e).- Funerarios, treinta y seis días de salario mínimo.
+e) Funerarios, treinta y seis días de salario mínimo.
 
 3.- Carga:
 
-a).- Materiales y sustancias, treinta y seis días de salario mínimo;
+a) Materiales y sustancias, treinta y seis días de salario mínimo;
 
-b).- Mudanzas, treinta y seis días de salario mínimo;
+b) Mudanzas, treinta y seis días de salario mínimo;
 
-c).- Grúas y plataformas, cien días de salario mínimo
+c) Grúas y plataformas, cien días de salario mínimo
 
-d).- Mensajería y valores, cien días de salario mínimo; y
+d) Mensajería y valores, cien días de salario mínimo; y
 
-e).- Reparto de productos o servicios, treinta y seis días de salario mínimo.
+e) Reparto de productos o servicios, treinta y seis días de salario mínimo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2053,15 +2073,39 @@ XV. Por reposición de la tarjeta de circulación y por el trámite de la solici
 
 XVI. Por la expedición de permiso provisional de circulación para el servicio particular, seis días de salario mínimo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+XVII. Por la expedición de licencia de conducir para:
 
-XVII. Por la expedición de licencia de conducir para chofer, automovilista o motociclista, ocho días de salario mínimo; dicha licencia tendrá una vigencia de dos años, contados a partir de la fecha de su expedición;
+1.- Chofer Particular:
 
-XVIII. Envío de documentación oficial a domicilio ubicado en el Estado, un día y medio de salario mínimo;
+a).- Duración de 2 años, ocho días de salario mínimo; y
 
-XIX. Búsqueda de registro vehicular en otras entidades federativas, dos días de salario mínimo, por cada búsqueda; y (sic)
+b).- Duración de 3 años, doce días de salario mínimo.
+
+2.- Automovilista:
+
+a).- Duración de 2 años, ocho días de salario mínimo; y
+
+b).- Duración de 3 años, doce días de salario mínimo.
+
+3.- Motociclista:
+
+a).- Duración de 2 años, ocho días de salario mínimo; y
+
+b).- Duración de 3 años, doce días de salario mínimo.
+
+Se entenderá que la vigencia de la licencia de conducir, según se trate de su expedición por primera vez o renovación de la misma, comprende hasta el día y mes correspondientes a la fecha de nacimiento del titular de la misma.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XVIII. Por el envío de documentación oficial a domicilio, se cobrará lo siguiente:
+
+a).- Documentación enviada a domicilio dentro del mismo municipio de registro o zona conurbada dentro del Estado, un día y medio de salario mínimo; y
+
+b).- Documentación enviada a municipio distinto al de registro dentro del Estado o a un Estado diferente al de Tamaulipas, dos días y medio de salario mínimo.
+
+XIX. Búsqueda de registro vehicular en otras entidades federativas, dos días de salario mínimo, por cada búsqueda; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2367,21 +2411,9 @@ XVIII. Por la recepción, evaluación y resolución de la autorización para un 
 
 XIX. Por prórroga de la autorización para la recolección y transporte de residuos de manejo especial cuando no exista modificación a la autorización, un veinte por ciento de un día de salario mínimo por unidad de motor y capacidad de carga que corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
-
 ###### Artículo 76.
 
-Por los servicios otorgados para el aprovechamiento de la Vida Silvestre en Tamaulipas, se pagarán las siguientes cuotas:
-
-I. Por la recepción, evaluación y resolución técnica que determine la tasa de aprovechamiento por especie; 7 días de salario mínimo;
-
-II. Por la recepción y evaluación del Plan de Manejo para la Conservación de la Vida Silvestre, once días de salario mínimo;
-
-III. Por la recepción y evaluación de la solicitud de modificación de datos al registro de unidades de manejo para la Conservación de la Vida Silvestre, siete y medio días de salario mínimo; y
-
-IV. Por el aprovechamiento extractivo comercial o mediante la caza deportiva de ejemplares, seis y medio días de salario mínimo, considerando como unidad, el límite de posesión de ejemplares autorizado a cada especie por tipo de marcaje.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2014)
 
 ### CAPITULO UNICO
 
@@ -2533,9 +2565,17 @@ II. Por la certificación de los programas de seguridad de los establecimientos 
 
 IV. Capacitación a empresas privadas, de cincuenta hasta trescientos días de salario mínimo;
 
-V. Por la capacitación, actualización, especialización y profesionalización de integrantes de empresas privadas de protección y vigilancia se pagarán, diariamente por cada elemento, el importe equivalente a seis días de salario mínimo; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-VI. Por la certificación anual a empresas privadas que presten servicios de protección y vigilancia, se pagará el importe equivalente a ciento cuarenta y cinco días de salario mínimo.
+V. Por la capacitación, actualización, especialización y profesionalización de integrantes de empresas privadas de protección y vigilancia, se pagarán, diariamente por cada elemento, el importe equivalente a seis días de salario mínimo;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+VI. Por la certificación anual a empresas privadas que presten servicios de protección y vigilancia, se pagará el importe equivalente a ciento cuarenta y cinco días de salario mínimo; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+VII. Por la aplicación de cada examen que las Instituciones de Seguridad Privada requieran para evaluar a los elementos que las conforman a razón de 75 salarios mínimos, por cada evaluación.
 
 ###### Artículo 86.
 
@@ -2555,9 +2595,17 @@ I. PRECIO DEL PERIODICO OFICIAL.
 
 2. Ejemplar atrasado, 60 por ciento de un día de salario mínimo;
 
-3. Ejemplar extraordinario o con anexo hasta 20 páginas, 60 por ciento de un día de salario mínimo; de 21 a 50 páginas, dos días de salario mínimo; y con más de 50 páginas, cinco días de salario mínimo; y
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-4. Suscripción semestral, treinta y un días de salario mínimo. El pago deberá efectuarse con un mes de anticipación a los siguientes periodos optativos: enero a junio y de julio a diciembre, o de abril a septiembre y de octubre a marzo.
+3. Ejemplar extraordinario o con anexo hasta 20 páginas, 60 por ciento de un día de salario mínimo; de 21 a 50 páginas, dos días de salario mínimo; y con más de 50 páginas, cinco días de salario mínimo;
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+4. Suscripción semestral, treinta y un días de salario mínimo. El pago deberá efectuarse con un mes de anticipación a los siguientes períodos optativos: enero a junio y de julio a diciembre, o de abril a septiembre y de octubre a marzo; y
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+5. Por el envío de ejemplares a domicilio se cobrará, dos días y medio de salario mínimo.
 
 II. PUBLICACIONES.
 
@@ -2627,17 +2675,13 @@ III.- Por la autorización de cada una (sic) de los libros para el registro de m
 
 IV.- Por la expedición de cada cincuenta etiquetas de códigos de barra, se pagarán cinco días de salario mínimo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+V.- Por la aprobación de planos de construcción de ingeniería sanitaria para casa - habitación unifamiliar, se pagará el diez por ciento de un día de salario mínimo, por metro cuadrado;
 
-V.- Por la aprobación de planos de construcción para vivienda, se pagará el diez por ciento de un día de salario mínimo, por metro cuadrado;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-VI.- Por la aprobación de planos de construcción para obra de impacto, se pagará el veinte por ciento de un día de salario mínimo, por metro cuadrado;
+VI.- Por la aprobación de planos de construcción de obras que por sus características y dimensiones causen impacto, en materia de ingeniería sanitaria, se pagará veinte por ciento de un día de salario mínimo por metro cuadrado;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2711,7 +2755,9 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 22.- Por casa de salud, se pagará cinco veces el salario mínimo;
 
-23.- Por guardería, se pagará cinco veces el salario mínimo;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+23.- Por centros de atención infantil, estancias, o guarderías, se pagará cinco veces el salario mínimo; y cinco veces el salario mínimo por la autorización de responsable sanitario;
 
 24.- Por unidad auxiliar de salud, se pagará cinco veces el salario mínimo;
 
@@ -2719,7 +2765,9 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 26.- Por centro de salud urbano, se pagará cinco veces el salario mínimo;
 
-27.- Por centro de asistencial (sic), se pagará cinco veces el salario mínimo;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+27.- Por centro de asistencia, se pagará cinco veces el salario mínimo;
 
 28.- Por asilo, casa hogar, albergue (adultos mayores), se pagará cinco veces el salario mínimo;
 
@@ -2769,17 +2817,15 @@ XII.- Por permiso sanitario para inhumación, exhumación, traslado y cremación
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-XIII.- Por la expedición de la Constancia Sanitaria para establecimientos que comercialicen bebidas alcohólicas en envase cerrado o al copeo, se pagarán veinticinco veces de salario mínimo; y, (sic)
+XIII.- Por la expedición de la Constancia Sanitaria para establecimientos que comercialicen bebidas alcohólicas en envase cerrado o al copeo, se pagarán veinticinco veces de salario mínimo; y,
 
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2010)</small>
 
 XIV.- Por la expedición de aviso de Responsable Sanitario de establecimientos de Insumos de Salud, así como de cambio de responsable, se pagarán cinco días de salario mínimo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-XV.- Por la certificación a establecimientos dedicados a la fabricación, formulación, mezcla acondicionamiento, almacenamiento, uso y aplicación de plaguicidas, nutrientes vegetales, y sustancias toxicas o peligrosas; se pagarán cinco días de salario mínimo;
+XV.- Por la certificación a establecimientos dedicados a la fabricación, formulación, mezcla acondicionamiento, almacenamiento, uso y aplicación de plaguicidas, nutrientes vegetales, y sustancias tóxicas o peligrosas, se pagará cinco veces el salario mínimo; y cinco veces el salario mínimo para la autorización de responsable sanitario;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2805,23 +2851,25 @@ XVIII.- Por concepto de desinfección, desinsectación, desratización en embarc
 
 XIX.- Por la autorización de cada uno de los libros para el registro de control de antibióticos, se pagarán cinco días de salario mínimo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+XX.- Por la expedición de permiso para utilizar los recetarios especiales con códigos de barras para la prescripción de estupefacientes, se pagará cinco días de salario mínimo; y cinco veces el salario mínimo por la expedición del aviso de previsiones para farmacias;
 
-XX.- Por la expedición de permiso para utilizar los recetarios especiales con códigos de barras para la prescripción de estupefacientes, se pagará cinco días de salario mínimo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXI.- Se pagarán multas, actualizaciones y recargos, según sea el caso, por el atraso en el trámite de revalidación de licencia, permiso, avisos, registro y/o autorización de los giros que así lo requieran y que se encuentran mencionados en el presente artículo;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XXI.- Se pagarán multas, actualizaciones y recargos, según sea el caso, por el atraso en el trámite de revalidación de licencia, permiso, avisos, registro y/o autorización de los giros que así lo requieran y que se encuentran mencionados en el presente artículo; y
+XXII.- Por las cuotas de recuperación por servicio médico proporcionado por los centros hospitalarios del Estado, conforme el tabulador vigente que se publique en el Periódico Oficial del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+XXIII.- Por la certificación y/o expedición de certificado de salud para manejadores de alimentos, se pagará cinco veces el salario mínimo; y
 
-XXII.- Por las cuotas de recuperación por servicio médico proporcionado por los centros hospitalarios del estado conforme el tabulador vigente que se publique en el Periódico Oficial del Estado.
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XXIV.- Por concepto de fumigación, desinfección, desinsectación y/o desratización para control de fauna nociva en materia de sanidad internacional terrestre, en vehículos en tránsito en los puentes internacionales, tipo sedán y pickups, se pagará 4 veces el salario mínimo; para camiones, autobuses o transporte de carga, se pagará cinco veces el salario mínimo.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2009)</small>
 
@@ -3142,3 +3190,9 @@ P.O. 17 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero del 2014.
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero del 2015.
