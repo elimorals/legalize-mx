@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-coordinacion-general-de-asuntos-94538
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-30"
-last_updated: "2013-03-30"
+last_updated: "2014-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento F del Periódico Oficial del Estado de Tabasco, el sábado 30 de marzo de 2013.
 
@@ -81,33 +81,57 @@ Para el estudio, planeación y despacho de los asuntos de su competencia el Coor
 
 1.2. Unidad de Apoyo Ejecutivo.
 
-1.3. Unidad de Administración.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-1.4. Dirección de Tecnologías de Información y Comunicación.
+1.3. Dirección de Administración.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+1.4. Dirección de Tecnologías de la Información.
 
 2. Sucoordinación (sic) de Asuntos Jurídicos:
 
-2.1. Dirección General de Asuntos Jurídicos.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-2.1.1. Unidad de Asuntos Civiles y Administrativos.
+2.1. Dirección de Asuntos Jurídicos.
 
-2.1.2. Unidad de Procesos Constitucionales, Laborales y Trámites.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-3. Subcoordinación de Normatividad y Transparencia.
+2.1.1. Departamento de Asuntos Civiles, Contencioso Administrativo, Penal, Agrario y Trámites.
 
-3.1. Dirección General de Normatividad y Transparencia.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-3.1.1. Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+2.1.2. Departamento de Procesos Constitucionales y Laborales.
 
-3.1.2. Unidad de Normatividad, Convenios y Contratos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+3. Subcoordinación de Normatividad y Acceso a la Información.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+3.1. Dirección de Normatividad y Transparencia.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+3.1.1. Departamento de Transparencia y Acceso a la Información Pública.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+3.1.2. Departamento de Normatividad.
 
 4. Subcoordinación de Estudios y Proyectos.
 
-4.1. Dirección General de Estudios y Proyectos.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-4.1.1. Unidad de Proyectos.
+4.1. Dirección de Estudios y Proyectos.
 
-4.1.2. Unidad de Formulación e Iniciativas Legislativas.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+4.1.1. Departamento de Proyectos Legislativos.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+4.1.2. Departamento de Formulación e Iniciativa Legislativa.
 
 ###### Artículo 7.
 
@@ -123,11 +147,15 @@ El Coordinador tendrá las siguientes facultades:
 
 I. Establecer, dirigir y controlar las políticas de la Coordinación, así como planear, coordinar y evaluar las actividades necesarias para el despacho de los asuntos propios de su competencia;
 
-II. Sustentar, fundar y motivar las opiniones y actos jurídicos que deban realizarse como apoyo técnico jurídico en los asuntos que le encomiende el Gobernador;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+II. Sustentar, fundar y motivar las opiniones y actos jurídicos que deban realizarse como apoyo técnico jurídico en los asuntos que le encomiende el Gobernador; así como emitir opiniones y recomendaciones planteadas por las dependencias y entidades de la administración pública estatal y por los otros poderes del Estado de Tabasco;
 
 III. En el ámbito de su competencia revisar, observar y en su caso autorizar los convenios, contratos y demás instrumentos jurídicos que suscriba la Administración Pública Estatal, así como los que se suscriban con la Federación, Municipios, otros Estados y con los particulares;
 
-IV. Realizar la revisión de los proyectos de reglamentos, decretos, acuerdos, nombramientos, resoluciones administrativas y demás instrumentos de carácter jurídico, a fin de someterlos a consideración y, en su caso, firma del Gobernador;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+IV. Elaborar y/o realizar la revisión de los proyectos de reglamentos, decretos, acuerdos, nombramientos, resoluciones administrativas y demás instrumentos de carácter jurídico, a fin de someterlos a consideración y, en su caso, firma del Gobernador, atendiendo a la opinión y las necesidades de las dependencias, entidades o instituciones de la administración pública del estado, relacionadas con el proyecto respectivo;
 
 V. Emitir las disposiciones o lineamientos a los que deberán sujetarse las Dependencias y Entidades de la Administración Pública Estatal para la elaboración, revisión y trámite de los proyectos de iniciativa de reformas de leyes, reglamentos, acuerdos y demás instrumentos de carácter jurídico que deban ser sometidos a la consideración y en suceso, firma del Gobernador;
 
@@ -135,13 +163,21 @@ VI. Coordinar y supervisar el Sistema Estatal de Acceso y Transparencia de la In
 
 VII. Proponer al Gobernador conjuntamente con el Secretario de Gobierno el proyecto de agenda legislativa, atendiendo a las propuestas de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública;
 
-VIII. Asesorar jurídicamente a los municipios que lo soliciten;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-IX. Representar al Gobernador en toda clase de juicios y trámites de jurisdicción voluntaria en la que forme parte, con cualquier carácter;
+VIII. Asesorar jurídicamente a los municipios que lo soliciten, sin menoscabo de la competencia de otras dependencias;
 
-X. Intervenir en los términos de la Ley de la materia, en la tramitación, en lo relativo al derecho de expropiación, ocupación temporal y limitación de dominio en los casos de utilidad pública;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XI. Divulgar el acervo jurídico del Ejecutivo Estatal para lo cual utilizará los medios de difusión a su alcance, incluyendo entre otros los electrónicos e impresos, realizando la función editorial para tal fin;
+IX. Representar al Gobernador del Estado, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados unidos Mexicanos, así como en toda clase de juicios, negocios y trámites de jurisdicción voluntaria en la que forme parte con cualquier carácter, cuando se tenga interés jurídico o se afecte al patrimonio del estado;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+X. Intervenir en los términos de la Ley de la materia, en la tramitación en lo relativo al derecho de expropiación, ocupación temporal y limitación de dominio en los casos de utilidad pública, así como refrendar los títulos de propiedad que legalmente expida el ejecutivo;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XI. Divulgar el acervo jurídico del Ejecutivo Estatal para lo cual utilizará los medios de difusión a su alcance, incluyendo entre otros los electrónicos e impresos, realizando la función editorial para tal fin, así como compilar y difundir la legislación vigente en el Estado, con la participación de los órganos competentes;
 
 XII. Coordinar la formación e integración de grupos de trabajo dentro de la Dependencia para el análisis y resolución de los asuntos jurídicos que se le encomienden con personal de otras Dependencias y Entidades de (sic) del Estado, así como con la Federación, otras Entidades Federativas y con los Organismos Públicos Descentralizados correspondientes;
 
@@ -167,15 +203,35 @@ XXII. Representar al Gobernador, ante las Dependencias de la Administración Pú
 
 XXIII. Establecer, vigilar y dirigir las políticas, normas y procedimientos para la Transferencia de los Servicios Públicos de Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición de sus Aguas Residuales, de Tránsito y lo concerniente a la Policía Preventiva;
 
-XXIV. Promover e impulsar que la transferencia de servicios públicos a los municipios se lleve a cabo bajo las disposiciones legales respectivas;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XXIV. Promover, impulsar y coordinar los procesos de transferencia de los servicios públicos a los municipios, bajo las disposiciones legales respectivas;
 
 XXV. Realizar directamente o a través de despachos especializados, los estudios necesarios que permitan conducir los aspectos técnicos y financieros de los recursos y servicios comprendidos en los programas de transferencia, así como los aspectos legales correspondientes;
 
 XXVI. Revisar y dictaminar los contratos, convenios y acuerdos que se elaboren para signarse con los Ayuntamientos;
 
-XXVII. Coordinar y establecer las mesas técnicas de trabajo necesarias con las dependencias y entidades para la elaboración y estudio de los programas y convenios de transferencia de los servicios públicos a los municipios; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XXVIII. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias, así como las que le delegue directamente el Gobernador.
+XXVII. Coordinar y establecer las mesas técnicas de trabajo necesarias con las dependencias y entidades para la elaboración y estudio de los programas y convenios de transferencia de los servicios públicos a los municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XXVIII. Vigilar que los asuntos de orden administrativo que competan al Poder Ejecutivo, se observen los principios constitucionales de legalidad;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XXIX. Intervenir en los juicios de amparo cuando el Gobernador sea señalado como autoridad responsable o tercero perjudicado, elaborando los informes previos y justificados, las promociones y requerimientos, e interponer los recursos que procedan conforme a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, y toda clase de informes que soliciten las autoridades judiciales;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XXX. Realizar los estudios en materia legislativa, a fin de que el Titular del Poder Ejecutivo del Estado, cuente con la información necesaria, para en su caso, promover las iniciativas correspondientes ente (sic) el Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XXXI. Tramitar las consultas que formulen las dependencias del Poder Ejecutivo, organismos públicos descentralizados, fideicomisos públicos, empresas de participación estatal y ayuntamientos, sobre interpretación de leyes, reglamentos, decretos, acuerdos y circulares de cualquier índole cual fuere su forma de expedición; y
+
+XXXII. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias, así como las que le delegue directamente el Gobernador.
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA PARTICULAR
 
@@ -195,7 +251,9 @@ V. Establecer y operar una oficialía de partes que se encargará de recibir tod
 
 VI. Representar al Coordinador en las comisiones que éste le asigne, manteniéndolo debidamente informado de los pormenores de su actividad;
 
-VII. Tramitar y solicitar ante la Unidad de Administración los recursos y servicios necesarios para el cumplimiento de las funciones del Coordinador;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+VII. Tramitar y solicitar ante la Dirección de Administración los recursos y servicios necesarios para el cumplimiento de las funciones del Coordinador;
 
 VIII. Administrar y operar el control de entrada, trámite y salida de asuntos recibidos y resueltos por la Coordinación, así como supervisar los sistemas de seguimiento de asuntos turnados a las áreas;
 
@@ -227,11 +285,15 @@ VII. Apoyar en el desahogo de los asuntos atendidos directamente por el Coordina
 
 VIII. Las demás que le atribuya directamente el Coordinador.
 
-#### SECCIÓN CUARTA. DE LA UNIDAD DE ADMINISTRACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE ADMINISTRACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 11.
 
-Corresponde a la Unidad de Administración, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Administración, el ejercicio de las siguientes atribuciones:
 
 I. Instrumentar e integrar, con la participación de las distintas Unidades de la Coordinación, los programas de selección, capacitación y desarrollo de personal, así como coordinar los estudios necesarios sobre análisis y evaluación de puestos;
 
@@ -265,7 +327,9 @@ XV. Apoyar el establecimiento, control y seguimiento del programa interno de pro
 
 XVI. Administrar los almacenes de la Coordinación por medio de un sistema de control de inventarios y realizar la distribución de bienes e insumos, de acuerdo con las disposiciones existentes, así como elaborar y obtener los resguardos correspondientes;
 
-XVII. Planear, programar, presupuestar, organizar, dirigir y evaluar el funcionamiento de las áreas administrativas a su cargo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XVII. Planear, programar, presupuestar, organizar, dirigir y evaluar el funcionamiento de los Departamentos Administrativos a su cargo;
 
 XVIII. Proponer al Coordinador la implantación de modelos operativos de simplificación administrativa de las Unidades Administrativas de la Coordinación, así como aquellos tendientes a mejorar la calidad de los procesos y servicios de éstas;
 
@@ -281,11 +345,15 @@ XXIII. Rendir los informes sobre gasto público, así como los que con base en l
 
 XXIV. Las demás que por disposición legal le corresponda, así como las que le delegue el Coordinador y su superior jerárquico.
 
-#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 12.
 
-Corresponde a la Dirección de Tecnologías de Información y Comunicación, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Tecnologías de la Información, el ejercicio de las siguientes atribuciones:
 
 I. Coordinar, desarrollar e implementar los sistemas de información que sean requeridos por las Unidades Administrativas de la Coordinación;
 
@@ -293,13 +361,17 @@ II. Proporcionar, soporte técnico y actualización a los sistemas de informaci�
 
 III. Proporcionar los servicios en materia de Hardware y Software requeridos por las unidades administrativas de la Coordinación;
 
-IV. Cumplir las políticas que expida el Gobernador en materia de uso y ahorro de Tecnologías de la Información y Comunicación, para optimizar la calidad de los servicios públicos;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+IV. Cumplir las políticas que expida el Gobernador en materia de uso y ahorro de Tecnologías de la Información, para optimizar la calidad de los servicios públicos;
 
 V. Establecer la arquitectura tecnológica que permita la integración y comunicación de los sistemas de información de la Coordinación, así como promover su interacción con las demás dependencias del Gobierno del Estado;
 
 VI. Emitir la opinión técnica sobre la procedencia de la contratación de bienes, servicios y derechos de uso de tecnología de la Coordinación;
 
-VII. Fungir como enlace de Tecnologías de la Información y Comunicaciones, entre la Coordinación y las demás dependencias del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+VII. Fungir como enlace de Tecnologías de la Información, entre la Coordinación y las demás dependencias del Gobierno del Estado;
 
 VIII. Establecer, coordinar y supervisar los planes de acción en caso de contingencias y los mecanismos de seguridad de los sistemas informáticos institucionales y de la infraestructura de tecnologías de información de la Coordinación;
 
@@ -307,9 +379,13 @@ IX. Brindar apoyo informático a las Unidades Administrativas de la Coordinació
 
 X. Vigilar el cumplimiento de las garantías otorgadas por los proveedores de bienes y servicios informáticos contratados por la Coordinación;
 
-XI. Coordinar y mantener actualizado el inventario de los bienes y servicios informáticos de la Coordinación, con apoyo de la Unidad de Administración;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XII. Establecer y coordinar los programas y proyectos estratégicos en materia de tecnologías de la información y comunicaciones que lleven a cabo las Unidades Administrativas de la Coordinación;
+XI. Coordinar y mantener actualizado el inventario de los bienes y servicios informáticos de la Coordinación, con apoyo de la Dirección de Administración;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XII. Establecer y coordinar los programas y proyectos estratégicos en materia de Tecnologías de la Información que lleven a cabo las Unidades Administrativas de la Coordinación;
 
 XIII. Contribuir al desarrollo de sistemas de información del Sector en el Estado, con la Administración Pública Federal, Municipal; y
 
@@ -317,9 +393,11 @@ XIV. Las demás que le encomiende él Coordinador y las que determinen las dispo
 
 ### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES DE LAS SUBCOORDINACIONES
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-Para una mejor organización de los trabajos encomendados al Coordinador, éste se auxiliará en las Subcoordinaciones de Asuntos Jurídicos, de Normatividad y Transparencia y de Estudios y Proyectos.
+Para una mejor organización de los trabajos encomendados al Coordinador, éste se auxiliará en las Subcoordinaciones de Asuntos Jurídicos, de Normatividad y Acceso a la Información y de Estudios y Proyectos.
 
 ###### Artículo 14.
 
@@ -327,7 +405,9 @@ Las Subcoordinaciones tendrán las siguientes atribuciones genéricas:
 
 I. Asesorar en el ámbito de su competencia al Coordinador y a los titulares de las unidades jurídicas de las Dependencias y Entidades de la Administración Pública Estatal, cuando así se requiera;
 
-II. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones de las unidades administrativas a su cargo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+II. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones de los Departamentos administrativos a su cargo;
 
 III. Emitir los dictámenes, opiniones e informes que les sean solicitados por el Coordinador;
 
@@ -335,7 +415,9 @@ IV. Proporcionar asesoría jurídica, cuando el Coordinador así lo acuerde, en 
 
 V. Representar al Coordinador ante los órganos de gobierno de las Entidades Paraestatales, Juntas, Comisiones, Comités, Consejos y demás Órganos en los que de acuerdo a sus funciones así se requiera, y en aquéllas que le encomiende el Coordinador;
 
-VI. Planear, programar, organizar, coordinar, controlar y evaluar el funcionamiento de las unidades administrativas que tenga adscritas, informando al Coordinador de las actividades que éstas realicen;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+VI. Planear, programar, organizar, coordinar, controlar y evaluar el funcionamiento de los Departamentos administrativos que tenga adscritos, informando al Coordinador de las actividades que éstas realicen;
 
 VII. Desahogar las consultas que en materia jurídica realice el Gobernador, las Dependencias y Entidades de la Administración Pública Estatal, los otros Poderes del Estado y los Ayuntamientos;
 
@@ -407,7 +489,9 @@ XXIII. Tramitar el refrendo de los títulos de propiedad que legalmente expida e
 
 XXIV. Tramitar, substanciar y poner en estado de resolución los procedimientos de indulto que conceda el Gobernador;
 
-XXV. Dirigir las unidades de Asuntos Civiles y Administrativos y la de Asuntos Constitucionales y Laborales a su cargo, así como sus respectivos departamentos;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XXV. Dirigir los Departamentos de Asuntos Civiles, Contencioso Administrativo, Penal, Agrario y Trámites, y el de Procesos Constitucionales y Laborales;
 
 XXVI. Comunicar al Coordinador los actos relacionados con el ejercicio de sus atribuciones;
 
@@ -417,11 +501,15 @@ XXVIII. Certificar los documentos que obren en cualquiera de los archivos de la 
 
 XXIX. Las que por Acuerdo le confiera el Coordinador, así como las que le otorguen el presente Reglamento y demás disposiciones jurídicas aplicables.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL JURÍDICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 16.
 
-A la Dirección General Jurídica le corresponden las siguientes atribuciones:
+A la Dirección de Asuntos Jurídicos le corresponden las siguientes atribuciones:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de los programas y el desempeño de las labores encomendadas a la Dirección a su cargo;
 
@@ -453,7 +541,9 @@ XIV. Autorizar la comunicación de los acuerdos de trámite, transmitir las reso
 
 XV. Proponer al Coordinador la celebración de contratos, convenios y acuerdos con la Federación, los Estados, los Municipios, otras Dependencias y Entidades de la Administración Pública del Estado y otras instituciones públicas o privadas en el ámbito de su competencia;
 
-XVI. Rendir por escrito un informe de las actividades realizadas por las unidades administrativas a su cargo, cuando le sean requeridos por sus superiores;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XVI. Rendir por escrito un informe de las actividades realizadas por los Departamentos administrativos a su cargo, cuando le sean requeridos por sus superiores;
 
 XVII. Tramitar o proporcionar a las autoridades judiciales y en general a las Dependencias o Entidades, el apoyo necesario para el cumplimiento de sus determinaciones;
 
@@ -465,77 +555,125 @@ XX. Suplir al Subcoordinador en los casos que él lo determine; y
 
 XXI. Las demás que por disposición legal le corresponda, así como las que le deleguen el Coordinador y su superior jerárquico.
 
-#### SECCIÓN TERCERA. DE LA UNIDAD DE ASUNTOS CIVILES Y ADMINISTRATIVOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN TERCERA. DEL DEPARTAMENTO DE ASUNTOS CIVILES, CONTENCIOSO ADMINISTRATIVO, PENAL, AGRARIO Y TRÁMITES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 17.
 
-A la Unidad de Asuntos Civiles y Administrativos le corresponden las siguientes atribuciones:
+Al Departamento de Asuntos Civiles, Contencioso Administrativo, Penal, Agrario y Trámites corresponden las siguientes atribuciones:
 
-I. Por instrucciones de su superior jerárquico asesorar jurídicamente a las Dependencias y Entidades de la Administración Pública Estatal y municipios que lo soliciten;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-II. Por disposición de su superior jerárquico representar al Gobernador en los juicios o negocios en que intervenga con cualquier carácter, en materia civil, administrativa, agrario (sic) y penal, cuando se afecte el patrimonio del Estado o tenga interés jurídico, ejercitando todos los actos procesales necesarios;
+I. Por instrucciones de su superior jerárquico asesorar jurídicamente a las Dependencias y Entidades de la Administración Pública Estatal y municipios que lo soliciten, en asuntos del orden civil, contencioso administrativo, penal, agrario y trámites;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+II. Por disposición de su superior jerárquico representar al Gobernador en los juicios o negocios en que intervenga con cualquier carácter, en materia civil, contencioso administrativo, penal, agrario y trámites, cuando se afecte el patrimonio del Estado o tenga interés jurídico, ejercitando todos los actos procesales necesarios;
 
 III. Participar en los grupos de trabajo que se formen al interior de la Coordinación para el análisis y resolución de los asuntos que se le encomienden;
 
 IV. Remitir a las Dependencias, Órganos y Entidades Públicas cuando así se le instruya, los asuntos que requieran de su intervención directa;
 
-V. Por instrucción de su superior jerárquico, desahogar las consultas que formulen las Dependencias, Entidades y Órganos de la Administración Pública Estatal; así como los Ayuntamientos en materia civil y penal, cuando así lo soliciten;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+V. Por instrucción de su superior jerárquico, desahogar las consultas que formulen las Dependencias, Entidades y Órganos de la Administración Pública Estatal, así como los Ayuntamientos en materia civil, contencioso administrativo, penal, agrario y trámites, cuando así lo soliciten;
 
 VI. Representar al Coordinador ante los Tribunales Federales y del Fuero común y ante toda autoridad, en los trámites judiciales y cualquier otro asunto de carácter legal con excepción de la materia fiscal, con todos los derechos procesales que las leyes reconocen a las personas físicas y jurídico colectivas, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias o querellas, desistirse, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer juicios de amparo y los recursos previstos por la Ley de la materia, y en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan los derechos del Ejecutivo o la Coordinación;
 
 VII. Coadyuvar y revisar en la esfera de la competencia de la Coordinación, con las Dependencias y Entidades de la Administración Pública Estatal y Federal, así como con los ayuntamientos que así lo soliciten en la integración y tramitación de expedientes relativos a la regularización de la tenencia de la tierra;
 
-VIII. Tramitar y proporcionar a las autoridades judiciales y en general a las Dependencias y Entidades, el apoyo necesario para el cumplimiento de sus determinaciones;
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-IX. Poner a consideración de su superior jerárquico, las propuestas de solución conciliatoria que se planteen para terminar los juicio (sic) en que intervenga la Administración Pública Estatal y se estime conveniente para los intereses del Estado, emitiendo su opinión al respecto y en su caso, elaborar el proyecto de convenio respectivo;
+VIII. Tramitar y resolver las peticiones y vistos buenos que le soliciten al Gobernador, particulares y las diversas Entidades Públicas, para efecto de que éstas últimas puedan ser auxiliadas y cumplir con ello sus facultades;
 
-X. Cumplimentar, instrumentando los actos necesarios en auxilio a las autoridades judiciales, y en general a los servidores públicos que así lo requieran, para el mejor desempeño de sus determinaciones;
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XI. Coadyuvar en la integración y revisión de los expedientes relativos a las solicitudes de enajenación de bienes inmuebles que se promuevan ante el Honorable Congreso del Estado;
+IX. Intervenir en su tramitación en los términos de la Ley de la materia, en lo relativo al derecho de expropiación, ocupación temporal y limitación de dominio en los casos de utilidad pública;
 
-XII. Notificar los actos relacionados con el ejercicio de sus funciones;
+X. Tramitar y proporcionar a las autoridades judiciales y en general a las Dependencias y Entidades, el apoyo necesario para el cumplimiento de sus determinaciones;
 
-XIII. Solicitar a las Dependencias, Entidades y Órganos de la Administración Pública Estatal, informes respecto de algún hecho, constancia o documento que obre en sus archivos o del que haya tenido conocimiento por razón de la función que desempeñan en auxilio de sus atribuciones y actividades que así lo requieran; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XIV. Las demás que por disposición legal le corresponda, así como las que le deleguen el Coordinador y su superior jerárquico.
+XI. Poner a consideración de su superior jerárquico, las propuestas de solución conciliatoria que se planteen para terminar los juicios en que intervenga la Administración Pública Estatal y se estime conveniente para los intereses del Estado, emitiendo su opinión al respecto y en su caso, elaborar el proyecto de convenio respectivo;
 
-#### SECCIÓN CUARTA. DE LA UNIDAD DE PROCESOS CONSTITUCIONALES, LABORALES Y TRÁMITES
+XII. Cumplimentar, instrumentando los actos necesarios en auxilio a las autoridades judiciales, y en general a los servidores públicos que así lo requieran, para el mejor desempeño de sus determinaciones;
+
+XIII. Coadyuvar en la integración y revisión de los expedientes relativos a las solicitudes de enajenación de bienes inmuebles que se promuevan ante el Honorable Congreso del Estado;
+
+XIV. Notificar los actos relacionados con el ejercicio de sus funciones;
+
+XV. Solicitar a las Dependencias, Entidades y Órganos de la Administración Pública Estatal, informes respecto de algún hecho, constancia o documento que obre en sus archivos o del que haya tenido conocimiento por razón de la función que desempeñan en auxilio de sus atribuciones y actividades que así lo requieran; y
+
+XVI. Las demás que por disposición legal le corresponda, así como las que le deleguen el Coordinador y su superior jerárquico.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN CUARTA. DEL DEPARTAMENTO DE PROCESOS CONSTITUCIONALES Y LABORALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 18.
 
-Corresponde a la Unidad de Procesos Constitucionales, Laborales y Trámites las atribuciones siguientes:
+Corresponde al Departamento de Procesos Constitucionales y Laborales las atribuciones siguientes:
 
 I. Representar al Coordinador y a él superior jerárquico ante los Tribunales Federales y del Fuero común y ante toda autoridad, en los trámites judiciales y cualquier otro asunto de carácter legal con excepción de la materia fiscal;
 
-II. Prestar por instrucciones de su superior jerárquico la asesoría jurídica necesaria en asuntos del orden laboral, administrativo, constitucional, amparo y agrario, cuando intervengan Dependencias o Entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-III. Constituirse en el enlace entre las unidades jurídicas de la Administración Pública Estatal y la Coordinación;
+II. Prestar por instrucciones de su superior jerárquico la asesoría jurídica necesaria en asuntos del orden laboral, constitucional y amparo, cuando intervengan Dependencias o Entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+III. Constituirse en el enlace entre las unidades jurídicas de la Administración Pública Estatal y la Coordinación; en asuntos del orden laboral, constitucional y amparo;
 
 IV. Participar en los grupos de trabajo que se formen al interior de la Coordinación para el análisis o resolución de los asuntos que se le encomienden;
 
-V. Conocer e intervenir en los Juicios de Amparo cuando el Gobernador sea señalado como autoridad responsable, elaborando los informes previos y justificados, las promociones o requerimientos, e interponerlos recursos que procedan conforme a la ley de la materia y toda clase de informes que soliciten las autoridades judiciales;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-VI. Emitir recomendaciones, opiniones y en su caso, resolver las consultas derivadas de asuntos jurídicos que le sean planteados al Coordinador, por las Dependencias y Entidades de la Administración Pública Estatal, Municipal y por los otros poderes del estado de Tabasco;
+V. Conocer e intervenir en los Juicios de Amparo cuando el Gobernador o el Coordinador sean señalados como autoridad responsable, elaborando los informes previos y justificados, las promociones o requerimientos que soliciten las autoridades judiciales, e interponer los recursos que procedan conforme a la ley de la materia; teniendo la facultad de comparecer y representarlos en las audiencias respectivas, ofreciendo y desahogando pruebas;
 
-VII. Intervenir en su tramitación en los términos de la ley de la materia, en lo relativo al derecho de expropiación, ocupación temporal y limitación de dominio en los casos de utilidad pública;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-VIII. Instaurar los procedimientos administrativos, laborales y de responsabilidad administrativa y determinar las sanciones que en su caso procedan;
+VI. Emitir recomendaciones, opiniones y en su caso, resolver las consultas derivadas de asuntos del orden laboral, constitucional y amparo, que le sean planteadas a la Coordinación, por las Dependencias y Entidades de la Administración Pública Estatal, Municipal y por los otros poderes del estado de Tabasco;
 
-IX. Opinar y en su caso elaborar los proyectos de convenios tendentes a concluir los juicios o conflictos laborales cuando las Dependencias o Entidades de la Administración Pública sean parte;
+VII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-X. Practicar las diligencias de notificación de citatorios, actos y resoluciones que se expidan, emitan o dicte el Gobernador, el Coordinador o él superior jerárquico en el ejercicio de las atribuciones previstas en los ordenamientos aplicables, o de aquellos que deriven de la tramitación o substanciación de los procedimientos y recursos administrativos que hagan valer ante el Gobernador y de los que corresponda conocer a esta Dependencia;
+VIII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-XI. Tramitar y resolver los recursos administrativos en el área de su competencia; y
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XV (SIC. Las demás que por disposición legal le corresponda, así como las que le deleguen el Coordinador y su superior jerárquico.
+IX. Asistir al Coordinador en los procedimientos laborales y determinar las sanciones que en su caso procedan;
 
-### CAPÍTULO SEXTO. DE LA SUBCOORDINACIÓN DE NORMATIVIDAD Y TRANSPARENCIA
+X. Opinar y en su caso elaborar los proyectos de convenios tendentes a concluir los juicios o conflictos laborales cuando las Dependencias o Entidades de la Administración Pública sean parte;
 
-#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA SUBCOORDINACIÓN DE NORMATIVIDAD Y TRANSPARENCIA
+XI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XII. Practicar las diligencias de notificación de citatorios, actos y resoluciones que se expidan, emitan o dicte el Gobernador y el Coordinador en el ejercicio de las atribuciones previstas en los ordenamientos aplicables, o de aquellos que deriven de la tramitación o substanciación de los procedimientos y recursos del orden laboral, constitucional y amparo que hagan valer ante el Gobernador y de los que corresponda conocer a esta Dependencia;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XIII. Conocer e intervenir jurídicamente ante los Tribunales de Trabajo, cuando el Gobernador o el Coordinador sean señalados como autoridad responsable, para hacer valer sus derechos e intereses; elaborar las promociones, escritos, recursos que procedan conforme a la ley de la materia, dando contestación a toda clase de requerimientos que soliciten las autoridades judiciales; teniendo la facultad de comparecer y representarlos en las audiencias respectivas ofreciendo y desahogando pruebas; y
+
+XV (SIC). Las demás que por disposición legal le corresponda, así como las que le deleguen el Coordinador y su superior jerárquico.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEXTO. DE LA SUBCOORDINACIÓN DE NORMATIVIDAD Y ACCESO A LA INFORMACIÓN
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DELA (SIC) SUBCOORDINACIÓN DE NORMATIVIDAD Y ACCESO A LA INFORMACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 19.
 
-La Subcoordinación de Normatividad y Transparencia, las siguientes atribuciones específicas:
+La Subcoordinación de Normatividad y Acceso a la Información tendrá las siguientes atribuciones específicas:
 
 I. Estudiar los problemas generales y especiales de reglamentación que le encomiende el Coordinador;
 
@@ -551,7 +689,9 @@ VI. Formular o emitir opinión sobre la constitucionalidad de los proyectos de r
 
 VII. Coordinar y supervisar el Sistema Estatal de Acceso y Transparencia de la Información Pública Gubernamental y Administración de Datos Personales, en los términos previstos en la legislación y normatividad aplicable en la materia;
 
-VIII. Instruir a la Unidad Administrativa responsable, para la elaboración del informe trimestral del Sistema Estatal de Acceso y Transparencia de la Información Pública Gubernamental y Administración de Datos Personales;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+VIII. Instruir al Departamento Administrativo responsable, para elaborar el informe trimestral del Sistema Estatal de Acceso y Transparencia de la Información Pública Gubernamental y Administración de Datos Personales;
 
 IX. Conformar los grupos de trabajo multidisciplinario al interior de la Coordinación, tomando en cuenta la naturaleza del instrumento jurídico o asunto en cuestión;
 
@@ -573,11 +713,15 @@ XVII. Impulsar, consensuar y coordinar la transferencia de las funciones y recur
 
 XVIII. Las demás que por disposición legal le corresponda, así como las que le deleguen (sic) el Coordinador.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE NORMATIVIDAD Y TRANSPARENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE NORMATIVIDAD Y TRANSPARENCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 20.
 
-Corresponde a la Dirección General de Normatividad y Transparencia las siguientes atribuciones:
+Corresponde a la Dirección de Normatividad y Transparencia las siguientes atribuciones:
 
 I. Proponer, en el ámbito de su competencia, la solución a los problemas generales y especiales de la reglamentación que le encomiende su superior jerárquico y el Coordinador;
 
@@ -611,11 +755,15 @@ XV. Elaborar reportes mensuales de los resultados que del sistema Estatal de Acc
 
 XVI. Las demás que por disposición legal le corresponda, así como las que le deleguen el Coordinador y su superior jerárquico.
 
-#### SECCIÓN TERCERA. DE LA UNIDAD DE NORMATIVIDAD, CONVENIOS Y CONTRATOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN TERCERA. DEL DEPARTAMENTO DE NORMATIVIDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 21.
 
-Corresponde a la Unidad de Normatividad, Convenios y Contratos las siguientes atribuciones:
+Corresponde al Departamento de Normatividad las siguientes atribuciones:
 
 I. Elaborar los proyectos de Acuerdos que emita el Gobernador, previa instrucción del Coordinador y demás superiores jerárquicos;
 
@@ -653,11 +801,15 @@ XVII. Elaborar los Proyectos de Convenios, para la realización de la transferen
 
 XVIII. Las demás que por disposición legal le corresponda, así como las que le delegue el Coordinador y su superior jerárquico.
 
-#### SECCIÓN CUARTA. DEL (SIC) UNIDAD DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN CUARTA. DEL DEPARTAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 22.
 
-Corresponde a la Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, las siguientes atribuciones:
+Corresponde al Departamento de Transparencia y Acceso a la Información Pública, las siguientes atribuciones:
 
 I. Ejercer las atribuciones que establece el artículo 39 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco;
 
@@ -707,11 +859,15 @@ XI. Opinar, por instrucciones del Coordinador, sobre las iniciativas de Ley o De
 
 XII. Las demás que por disposición legal le corresponda, así como las que le delegue el Coordinador.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE ESTUDIOS Y PROYECTOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ESTUDIOS Y PROYECTOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 24.
 
-Corresponden a la Dirección General de Estudios y Proyectos las siguientes atribuciones:
+Corresponden a la Dirección de Estudios y Proyectos las siguientes atribuciones:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de los programas y el desempeño de las labores encomendadas a la Dirección a su cargo;
 
@@ -737,11 +893,15 @@ XI. Establecer un archivo especial de los documentos elaborados y revisados señ
 
 XII. Las demás que por disposición legal le corresponda, así como las que le delegue el Coordinador y su superior jerárquico.
 
-#### SECCIÓN TERCERA. DE LA UNIDAD DE PROYECTOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN TERCERA. DEL DEPARTAMENTO DE PROYECTOS LEGISLATIVOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 25.
 
-Corresponde a la Unidad de Proyectos las siguientes atribuciones:
+Corresponde al Departamento de Proyectos Legislativos, las siguientes atribuciones:
 
 I. Emitir opinión, revisar y en su caso elaborar los proyectos de ley y decretos necesarios para el mejor funcionamiento de la Administración Pública Estatal;
 
@@ -763,11 +923,15 @@ IX. Las demás que por disposición legal le corresponda, así como las que le d
 
 IX. Las demás que por disposición legal le corresponda, así como las que le delegue el Coordinador y su superior jerárquico. (sic)
 
-#### SECCIÓN CUARTA. DE LA UNIDAD DE FORMULACIÓN E INICIATIVAS LEGISLATIVAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN CUARTA. DEL DEPARTAMENTO DE FORMULACIÓN E INICIATIVA LEGISLATIVA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 26.
 
-Corresponde a la Unidad de Formulación e Iniciativas Legislativas las siguientes atribuciones:
+Corresponde al Departamento de Formulación e Iniciativa Legislativa, las siguientes atribuciones:
 
 I. Analizar y revisar las iniciativas o decretos que le sean turnados por su superior jerárquico;
 
@@ -783,11 +947,27 @@ VI. Las demás que por disposición legal le corresponda, así como las que le d
 
 ### CAPÍTULO OCTAVO. DE LA (SIC) SUPLENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 27.
 
-Durante las ausencias del Coordinador, el despacho y resolución de los asuntos correspondientes a la Coordinación, estarán a cargo del Subcoordinador de Estudios y Proyectos; de Asuntos Jurídicos; de Normatividad y Transparencia; a las Direcciones Generales de Estudios y Proyectos; de Asuntos Jurídicos o de Normatividad y Transparencia, en el orden mencionado.
+Durante las ausencias del Coordinador, el despacho y resolución de los asuntos correspondientes a la Coordinación, estarán a cargo del Subcoordinador de Estudios y Proyectos; de Asuntos Jurídicos; de Normatividad y Acceso a la Información; a las Direcciones de Estudios y Proyectos; de Asuntos Jurídicos o de Normatividad y Transparencia, en el orden mencionado.
 
-En las ausencias de los titulares de las Subcoordinaciones, de las Direcciones Generales y demás Unidades Administrativas, serán suplidos para el despacho de los asuntos de su correspondiente competencia, en su caso, por el servidor público adscrito en el área de su responsabilidad que ellos mismos designen por escrito.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+En las ausencias de los titulares de las Subcoordinaciones, de las Direcciones y demás Departamentos Administrativos, serán suplidos para el despacho de los asuntos de su correspondiente competencia, en su caso, por el servidor público adscrito en el área de su responsabilidad que ellos mismos designen por escrito.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO NOVENO. DE LAS RELACIONES LABORALES
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 28.
+
+Las relaciones de trabajo entre la Coordinación General de Asuntos Jurídicos y sus trabajadores, se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco.
+
+Se consideran categorías de confianza las de Director, Jefes de Departamento, Jefes de área y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de esta Coordinación.
 
 ## TRANSITORIOS
 
@@ -808,3 +988,15 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. JUAN JOSÉ PERALTA FÓCIL
 
 COORDINADOR GENERAL DE ASUNTO (SIC) JURÍDICOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones al Reglamento Interior de la Coordinación General de Asuntos Jurídicos, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los asuntos que con motivo de las reformas a este Reglamento deban transferirse de una unidad administrativa a otra, serán resueltos por la unidad administrativa competente.
+
+TERCERO. Para el mejor funcionamiento, de las unidades administrativas que integran la Coordinación, se deberán actualizar los respectivos manuales de Organización y Procedimientos.
+
+CUARTO. En tanto se expiden los manuales señalados en el transitorio anterior, en caso de duda sobre la interpretación del Reglamento, el Coordinador queda facultado para resolver lo conducente.
