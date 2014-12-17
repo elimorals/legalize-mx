@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2013-12-17"
+last_updated: "2014-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -97,11 +97,11 @@ h) Sistema de Coordinación Fiscal: El Sistema de Coordinación Fiscal del Estad
 
 i).- Fortamun: Fondo para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-j).- Fismun: Fondo a la Infraestructura Social Municipal.
+j).- Fism: Fondo para la Infraestructura Social Municipal.
 
 ### CAPITULO SEGUNDO. DE LAS PARTICIPACIONES E INCENTIVOS A LOS MUNICIPIOS EN MATERIA DE INGRESOS FEDERALES
 
@@ -151,11 +151,11 @@ V. El 20 por ciento como mínimo, derivado de los recursos que reciba la entidad
 
 VI. El 20 por ciento como mínimo, de los 9/11 que el Estado perciba por concepto de la Cuota a la Venta Final de Gasolinas y Diesel;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-VII.- El 20 por ciento como mínimo, de las cantidades que el Estado recaude por concepto de participaciones del Impuesto sobre Automóviles Nuevos, cuando la Federación participe al Estado con el 100 por ciento de este impuesto, de acuerdo a la Ley de Coordinación Fiscal Federal;
+VII.- El 20 por ciento como mínimo, de las cantidades que el Estado recaude por concepto de participaciones del Impuesto sobre Automóviles Nuevos, cuando la Federación participe al Estado con el 100 por ciento de este impuesto, de acuerdo a la Ley de Coordinación Fiscal Federal; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -163,31 +163,49 @@ VII.- El 20 por ciento como mínimo, de las cantidades que el Estado recaude por
 
 VIII.- El 20 por ciento como mínimo, de la recaudación en el Estado del Impuesto sobre Tenencia o Uso de Vehículos, vigente hasta el 31 de diciembre de 2011, cuando la Federación participe al Estado con el 100 por ciento de este impuesto de acuerdo a la Ley de Coordinación Fiscal Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+IX.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-IX.- El 50 por ciento de los ingresos que correspondan al Estado por Derechos por Servicios de Prevención y Control de la Contaminación del Medio Ambiente, previstos en la Ley de Hacienda del Estado, en los términos de los convenios que suscriban los Municipios con el Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+X.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-X.- Con el porcentaje del importe de las multas administrativas federales no fiscales impuestas por autoridades federales a infractores domiciliados dentro de la circunscripción territorial de cada Municipio, de conformidad con los términos de los convenios que suscriban los Municipios con el Estado, de acuerdo a lo establecido en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos que el Estado tiene suscrito con la Federación;
+XI.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-XI. El 80 por ciento de los ingresos que obtengan los municipios por los derechos de otorgamiento de concesiones por el uso o goce de la zona federal marítimo terrestre, así como el 100 por ciento de los gastos de ejecución y de las multas impuestas por los Ayuntamientos, en los términos del Código Fiscal de la Federación, relacionadas con esta materia, en los términos de los convenios que suscriban los municipios con el Estado, de acuerdo a lo dispuesto en el Convenio de Colaboración Administrativa en Materia Fiscal y sus anexos que el Estado tiene suscrito con la Federación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XII. El porcentaje de los ingresos que perciba el Estado por concepto de incentivos por las acciones fiscalizadoras que realice con fundamento en el Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado por el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público, en los términos de los convenios que suscriban los Municipios con el Estado; y
+XII.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-XIII. Las demás que les correspondan conforme a la legislación federal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIII.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Así mismo, les corresponderán los siguientes incentivos:
+
+I.- El 50 por ciento de los ingresos que correspondan al Estado por Derechos por Servicios de Prevención y Control de la Contaminación del Medio Ambiente, previstos en la Ley de Hacienda del Estado, en los términos de los convenios que suscriban los Municipios con el Estado;
+
+II.- El porcentaje del importe de las multas administrativas federales no fiscales impuestas por autoridades federales a infractores domiciliados dentro de la circunscripción territorial de cada Municipio, de conformidad con los términos de los convenios que suscriban los Municipios con el Estado, de acuerdo a lo establecido en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos que el Estado tiene suscrito con la Federación;
+
+III.- El 80 por ciento de los ingresos que obtengan los municipios por los derechos de otorgamiento de concesiones por el uso o goce de la zona federal marítimo terrestre, así como el 100 por ciento de los gastos de ejecución y de las multas impuestas por los Ayuntamientos, en los términos del Código Fiscal de la Federación, relacionadas con esta materia, en los términos de los convenios que suscriban los municipios con el Estado, de acuerdo a lo dispuesto en el Convenio de Colaboración Administrativa en Materia Fiscal y sus anexos que el Estado tiene suscrito con la Federación;
+
+IV.- El porcentaje de los ingresos que perciba el Estado por concepto de incentivos por las acciones fiscalizadoras que realice con fundamento en el Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado por el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público, en los términos de los convenios que suscriban los Municipios con el Estado; y
+
+V.- Las demás que les correspondan conforme a la legislación federal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 5.
 
-El Estado, a través de la Secretaría de Finanzas, deberá publicar en el Periódico Oficial el calendario de entrega y los montos estimados de las participaciones federales a que se refiere el artículo 4 de la presente ley, en un plazo no mayor de quince días contados a partir de la publicación que realice la Federación de los mismos datos.
+El Estado, a través de la Secretaría de Finanzas, deberá publicar en el Periódico Oficial así como en su página oficial de internet, el calendario de entrega y los montos estimados de las participaciones federales a que se refiere el artículo 4 de la presente ley a más tardar el 15 de febrero de cada año.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -209,7 +227,11 @@ Los factores que deberán aplicarse para la distribución de los montos a cada M
 
 I.- El 14 por ciento del mismo por partes iguales a cada uno de los 43 Municipios.
 
-II.- El 70 por ciento en proporción directa al número de habitantes que tenga cada Municipio, en el ejercicio de que se trate. El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al iniciarse cada ejercicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+II.- El 70 por ciento en proporción directa al número de habitantes que tenga cada Municipio, en el ejercicio de que se trate. El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía, al iniciarse cada ejercicio
 
 III.- El 16 por ciento restante, se dividirá en dos partes iguales:
 
@@ -235,23 +257,23 @@ Donde:
 
 CE = Coeficiente de participación del Municipio "i" en el año para el que se efectúa el cálculo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-Ati = Monto de la recaudación del Impuesto Sobre Tenencia o Uso de Automóviles obtenida en el Municipio "i" conforme al domicilio declarado por los contribuyentes al efectuar el pago de este Impuesto.
+Atl= Monto de la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos obtenida en el Municipio "i" conforme al domicilio declarado por los contribuyentes al efectuar el pago de este Impuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-TAt = Suma de la recaudación que por el Impuesto sobre Tenencia o Uso de Automóviles, haya obtenido el Estado en todos los Municipios.
+TAt= Suma de la recaudación que por el Impuesto sobre Tenencia o Uso de Vehículos, haya obtenido el Estado en todos los Municipios,
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-Para los efectos de la fórmula anterior se entiende por recaudación del Impuesto sobre Tenencia o Uso de Automóviles el monto efectivamente cobrado durante el ejercicio de que se trate, sin incluir accesorios.
+Para los efectos de la fórmula anterior se entiende por recaudación del Impuesto sobre Tenencia o Uso de Vehículos el monto cobrado durante el ejercicio de que se trate así como las cantidades subsidiadas por concepto de dicho Impuesto, sin incluir accesorios.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -260,6 +282,12 @@ Para los efectos de la fórmula anterior se entiende por recaudación del Impues
 ###### ARTICULO 8.
 
 Será la Auditoría Superior del Congreso del Estado la que proporcione a la Secretaría de Finanzas, la información de la recaudación del Impuesto Predial de los municipios, y de los Derechos de Agua que obtengan los organismos operadores, a más tardar el último día del mes de febrero del año siguiente al que se informa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría de Finanzas enviará dicha información al Comité de Vigilancia de Participaciones de Ingresos Federales del Sistema Nacional de Coordinación Fiscal, mismo que la validará durante el mes de junio de cada año. Dicha información sustentará la distribución de los Fondos de Participaciones.
 
 ###### ARTICULO 9.
 
@@ -273,13 +301,19 @@ I. El Fondo de Fiscalización se distribuirá trimestralmente tomando como base 
 
 II. El Fondo de Extracción de Hidrocarburos se distribuirá en un 60 por ciento a partes iguales entre los municipios productores o extractores de petróleo o gas en el Estado y en el 40 por ciento restante entre los demás municipios en partes iguales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-III. El 9/11 de la Cuota a la Venta Final de Gasolinas y Diesel que se recaude en el Estado, se distribuirá en un 70 por ciento atendiendo al número de habitantes por Municipio y el 30 por ciento se distribuirá tomando como base el crecimiento porcentual de la recaudación del Impuesto Predial y de los Derechos de Agua de cada uno de los Municipios. Al respecto, mediante la comparación de los dos ejercicios fiscales anteriores al presente, se determinará la sumatoria de los porcentajes, y se dividirá el porcentaje de cada Municipio entre la sumatoria para obtener el coeficiente de distribución de este Fondo. Corresponde a la Auditoría Superior del Congreso del Estado proporcionar la información de dicho Fondo, a más tardar el día último del mes de febrero del año siguiente al que se tomará en cuenta para la distribución del propio Fondo. Si la Secretaría de Finanzas no recibe la información citada en el plazo señalado, estará facultada para considerar el 50 por ciento de la recaudación con que se efectuó el último cálculo de los coeficientes. El Estado aplicará los nuevos coeficientes a las cantidades que hubiera determinado provisionalmente y efectuará a más tardar el 30 de junio, las liquidaciones o descuentos que procedan.
+III. El 9/11 de la Cuota a la Venta Final de Gasolinas y Diesel que se recaude en el Estado, se distribuirá en un 70 por ciento atendiendo al número de habitantes por Municipio y el 30 por ciento se distribuirá tomando como base el crecimiento porcentual de la recaudación del Impuesto Predial y de los Derechos de Agua de cada uno de los Municipios. Al respecto, mediante la comparación de los dos ejercicios fiscales anteriores al presente, se determinará la sumatoria de los porcentajes, y se dividirá el porcentaje de cada Municipio entre la sumatoria para obtener el coeficiente de distribución de este Fondo.
 
-La Secretaría de Finanzas enviará dicha información al Comité de Vigilancia de Participaciones de Ingresos Federales del Sistema Nacional de Coordinación Fiscal, mismo que la validará durante el mes de junio de cada año. Dicha información sustentará la distribución de los Fondos antes señalados.
+Corresponde a la Auditoría Superior del Congreso del Estado proporcionar la información de la recaudación del Impuesto Predial de los Municipios y de los Derechos de Agua que obtengan los organismos operadores, a más tardar el día último del mes de febrero del año siguiente al que se tomará en cuenta para la distribución de los Fondos de Participaciones a los Municipios.
+
+Si la Secretaria de Finanzas no recibe la información citada en el plazo señalado, estará facultada para considerar el 50 por ciento de la recaudación con que se efectuó el último cálculo de los coeficientes. El Estado aplicará los nuevos coeficientes a las cantidades que hubiera determinado provisionalmente y efectuará a más tardar el 30 de junio, las liquidaciones o descuentos que procedan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -351,9 +385,17 @@ Estos apoyos también podrán otorgarse entre municipios, con la aprobación por
 
 Se establecen las aportaciones federales para los Fondos siguientes:
 
-I. El fondo de Aportaciones para la Infraestructura Social Municipal; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. El fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+I.- El Fondo de Aportaciones para la Infraestructura Social Municipal; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+II.- El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal.
 
 ###### ARTICULO 18.
 
@@ -373,7 +415,11 @@ Los montos que correspondan a cada Municipio de los Fondos de Aportaciones a que
 
 El Fondo de Aportaciones para la Infraestructura Social Municipal se enterará a los municipios mensualmente durante los primeros 10 meses del año por partes iguales, por conducto de la Secretaría de Finanzas; será de manera ágil y directa, sin más limitaciones y restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que establece la Ley de Coordinación Fiscal Federal.
 
-Los recursos de este Fondo se destinarán exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de su población que se encuentren en condiciones de rezago social y pobreza extrema, como lo señala la Ley de Coordinación Fiscal Federal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Los recursos de este Fondo se destinarán exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a población en pobreza extrema, localidades con alto o muy alto nivel de rezago social conforme a lo previsto en la Ley General de Desarrollo Social, y en las zonas de atención prioritaria.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -395,9 +441,13 @@ El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Dema
 
 Los recursos provenientes de este Fondo que tengan como destino la satisfacción de los requerimientos en materia de seguridad pública, se utilizarán por los Ayuntamientos exclusiva y responsablemente en dicho rubro.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 22.
 
-Los recursos correspondientes a este Fondo se distribuirán en proporción directa al número de habitantes con que cuente cada uno de los municipios, según la última información publicada por el Instituto Nacional de Estadística, Geografía e Informática.
+Los recursos correspondientes a este Fondo se distribuirán en proporción directa al número de habitantes con que cuente cada uno de los municipios, según la última información publicada por el Instituto Nacional de Estadística y Geografía.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -814,3 +864,23 @@ El presente Decreto se publicará en el Periódico Oficial del Estado y entrará
 El porcentaje correspondiente a los Municipios del Estado, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal establecido en el artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, no obstante lo establecido en el citado artículo, durante el año 2014 será equivalente al 37 por ciento de los ingresos obtenidos por dicho Impuesto.
 
 Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago.
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+El porcentaje correspondiente a los Municipios del Estado, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal establecido en el artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, no obstante lo establecido en el citado artículo, durante el año 2015 será equivalente al 37 por ciento de los ingresos obtenidos por dicho Impuesto.
+
+Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
