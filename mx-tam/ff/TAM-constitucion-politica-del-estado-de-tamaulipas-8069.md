@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2014-10-30"
+last_updated: "2014-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -299,13 +299,21 @@ III. El derecho de los varones y las mujeres a la igualdad de oportunidades en l
 
 IV. El derecho a un medio ambiente adecuado para su desarrollo y bienestar y al uso racional de los recursos naturales susceptibles de apropiación con base en el objetivo del desarrollo sustentable, en los términos que fijen las leyes;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-V. La libertad de información y, en particular de sus ciudadanos para asuntos políticos, así como para utilizar y divulgar la información pública que reciban. El Estado garantizará el acceso a la información pública. Todo ente público estatal o municipal respetará esta libertad y pondrá a disposición del público la información con que cuente en virtud de sus actividades, salvo aquella relativa a la seguridad del Estado o la seguridad pública por la perturbación que pueda causar en el orden público, o a la intimidad, privacidad y dignidad de las personas, en los términos que señale la ley. La libertad de información comprende la protección del secreto profesional, sin demérito del derecho de réplica de toda persona ante la divulgación de información inexacta que le agravie; y
+V. La libertad de información y, en particular de sus ciudadanos para asuntos políticos, así como para utilizar y divulgar la información pública que reciban. El Estado garantizará el acceso a la información pública. Todo ente público estatal o municipal respetará esta libertad y pondrá a disposición del público la información con que cuente en virtud de sus actividades, salvo aquella relativa a la seguridad del Estado o la seguridad pública por la perturbación que pueda causar en el orden público, o a la intimidad, privacidad y dignidad de las personas, en los términos que señale la ley. La libertad de información comprende la protección del secreto profesional, sin demérito del derecho de réplica de toda persona ante la divulgación de información inexacta que le agravie;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-VI. El derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, saludable, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, las entidades federativas y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
+VI. El derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, saludable, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, las entidades federativas y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines; y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+VII. El derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+VIII. El derecho a la cultura física y la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -1675,7 +1683,7 @@ XXX. Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna ini
 
 XXXI. Pedir al Congreso, o a la Diputación Permanente, sí aquel no estuviere reunido, las facultades extraordinarias que sean necesarias para restablecer el orden en el Estado, cuando por causa de invasión o de conmoción interior se hubiere alterado. Del uso que haya hecho de tales facultades dará cuenta detallada al Congreso;
 
-XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones;
+XXXII.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4246,6 +4254,34 @@ P.O. 29 DE ABRIL DE 2014.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 30 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO LXII-387, POR EL QUE SE DEROGA LA FRACCIÓN XXXII DEL ARTÍCULO 91, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO LXII-388, POR EL QUE SE REFORMA EL ARTÍCULO 17 FRACCIONES V Y VI Y SE ADICIONA LA FRACCIÓN VIII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO LXII-541, POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII, Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO.
 
