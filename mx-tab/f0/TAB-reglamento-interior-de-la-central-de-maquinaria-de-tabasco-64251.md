@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-central-de-maquinaria-de-tabasco-6425
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-08"
-last_updated: "2008-10-08"
+last_updated: "2014-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64251&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA CENTRAL DE MAQUINARIA DE TABASCO (CEMATAB)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial de Tabasco, el miércoles 8 de octubre de 2008.
 
@@ -47,11 +47,15 @@ El presente Reglamento tiene por objeto regular la organización y funcionamient
 
 Para los efectos de este Reglamento se entenderá por:
 
-Secretaría: Secretaría de Asentamientos y Obras Publicas;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Secretaría: Secretaría de Ordenamiento Territorial y Obras Públicas;
 
 Gobernador: Gobernador del Estado Libre y Soberano de Tabasco;
 
-Secretario: Secretario de Asentamientos y Obras Publicas;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Secretario: Secretario de Ordenamiento Territorial y Obras Públicas;
 
 Director General: Director General de la Central de Maquinaria de Tabasco;
 
@@ -89,11 +93,57 @@ III. En casos excepcionales participar directamente en la ejecución de la obra 
 
 IV. Las demás que le asigne el Gobernador a través del Secretario.
 
-### CAPÍTULO I. DE LA ESTRUCTURA ORGÁNICA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. DE LA JUNTA DIRECTIVA
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 4 Bis.
+
+La Central de Maquinaria de Tabasco contará con una Junta Directiva que estará integrada por:
+
+A).- Un Presidente: Que será el titular de la Secretaría de Ordenamiento Territorial y Obras Públicas;
+
+B).- Un Secretario: Que será designado por la Junta Directiva de entre el personal de la propia Central de Maquinaria de Tabasco;
+
+C).- Un Primer Vocal: Que será el Titular de la Secretaría de Planeación y Finanzas; y
+
+E) (SIC).- Un Invitado: Que será el Titular de la Dirección de Control y Auditoría de la Obra Pública de la Secretaria de la Contraloria.
+
+Cada integrante contará con un suplente que será designado por cada uno de los propietarios.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 4 Ter.
+
+La Junta Directiva tendrá las siguientes facultades:
+
+I. Aprobar en su caso, a propuesta del Director General la modificación de los costos de cuotas de recuperación o tarifas de arrendamiento de maquinaria y equipo de obra para construcción, administrado por la CEMATAB;
+
+II. Aprobar en su caso, a petición del Director General, la adquisición de maquinaria y equipos de obra para construcción, que requiera la CEMATAB para el cumplimiento del objeto social de la Entidad Pública;
+
+III. Proponer los programas y mecanismos de control para mantener en óptimas condiciones, el parque de maquinaria y equipo de obra administrado por la Entidad Pública;
+
+IV. Proponer las estrategias de operación para obtener de las mismas los rendimientos necesarios que permitan la reducción del gasto público en la ejecución de las obras que realice el Titular del Poder Ejecutivo del Estado, a través de las Dependencias y Organismos de la Administración Pública, así como de la Entidad Pública misma;
+
+V. Emitir el dictamen en el que se determine los casos de excepción y emergencia que atendiendo al beneficio social, la CEMATAB deba ejecutar la construcción, mantenimiento o terminación de la obra pública con el empleo de su parque de maquinaria y equipo de obra;
+
+VI. Emitir los lineamientos al Director General en que se contengan las condiciones, naturaleza contractual y costos preferenciales a particulares por el uso de maquinaria y equipo de obra para construcción bajo su administración;
+
+VII. Emitir dictamen en todos y cada uno de aquellos casos en que se requiera la intervención de la CEMATAB, en la ejecución de obra pública y la prestación de servicios en general; y
+
+VIII. Las demás que le confieren otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Artículo 4 Cuater.- La Junta Directiva sesionará de forma ordinaria dentro de los últimos cinco días del mes que corresponda de forma trimestral al año, en horario que será fijado a través de oficio turnado a cada uno de sus integrantes por el Secretario, con por lo menos cinco días de anticipación de la fecha señalada.
+
+Pudiendo sesionar de igual modo de forma extraordinaria en cualquier día y hora cuando se requiera por caso de necesidad o urgencia, debiendo notificarse a todos los miembros de la Junta Directiva, por lo menos con veinticuatro horas de antelación con relación a la hora y fecha que se señale para dicha sesión extraordinaria.
 
 ## TÍTULO SEGUNDO. DE LA ESTRUCTURA ORGÁNICA Y ATRIBUCIONES DE LA DIRECCIÓN GENERAL
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DE LA DIRECCION GENERAL
+### CAPÍTULO I. DE LA ESTRUCTURA ORGÁNICA
 
 ###### Artículo 5.
 
@@ -101,23 +151,71 @@ Para el despacho de los asuntos de su competencia, la CEMATAB contará con las s
 
 1. Dirección General
 
-1.1 Unidad Técnica
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-1.2 Unidad de Proyectos Estratégicos
+1.1. Unidad de Apoyo Ejecutivo
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+1.2. Unidad de Asuntos Jurídicos y Acceso a la Información
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+1.3. Contralor Interno
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+1.4. Unidad de Tecnologías de la Información y Comunicación
 
 2. Dirección de Administración
 
-3. Unidad de Asuntos Jurídicos
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-4. Unidad de Acceso a la Información
+2.1. Recursos Humanos
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+2.2. Recursos Materiales y Servicios Generales
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+2.3. Recursos Financieros y Contabilidad
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+2.3.1. Departamento de Caja
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+2.4. Departamento de Programación y Presupuesto
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+2.5. Departamento de Activo Fijo
+
+3. (DEROGADO, P.O. 17 DE DICIEMBRE DE 2014)
+
+4. (DEROGADO, P.O. 17 DE DICIEMBRE DE 2014)
 
 5. Dirección de Servicios Técnicos
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+5.1. Residente
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+5.2. Técnico de Campo
+
 6. Dirección de Mantenimiento
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+6.1. Técnico de Mantenimiento
 
 La CEMATAB contará con una Unidad de Control Interno en los términos y con las atribuciones que establece la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco.
 
-### CAPÍTULO I. DE LA UNIDAD TÉCNICA
+### CAPÍTULO II. DE LAS ATRIBUCIONES DE LA DIRECCION GENERAL
 
 ###### Artículo 6.
 
@@ -157,63 +255,95 @@ XVI. Las demás funciones que le asigne el Gobernador o el Secretario y los que 
 
 ## TÍTULO TERCERO. DE LAS UNIDADES DE APOYO DE LA DIRECCIÓN GENERAL
 
-### CAPÍTULO II. DE LA UNIDAD DE PROYECTOS ESTRATÉGICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO I. DE LA UNIDAD DE APOYO EJECUTIVO
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 7.
 
-La Unidad Técnica diseña e implementa herramientas administrativas coordinando la colaboración entre las unidades administrativas de la CEMATAB, propiciando las condiciones y estructuración del trabajo técnico, fungiendo como soporte informativo y enlace interinstitucional correspondiéndole el ejercicio de las siguientes atribuciones:
+La Unidad de Apoyo Ejecutivo se encargará de planear, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de las actividades y acciones encomendadas a la unidad adscrita bajo su responsabilidad, acorde a las políticas que defina la CEMATAB y el Titular del Poder Ejecutivo del Estado, además le corresponde el ejercicio de las siguientes atribuciones:
 
-I. Diseñar las herramientas administrativas de acuerdo a las necesidades detectadas a través de diagnósticos administrativos;
+I. Coordinar las reuniones de seguimiento y desarrollo de actividades en la CEMATAB;
 
-II. Aplicar las herramientas administrativas necesarias para funcionamiento adecuado de las diversas áreas de la CEMATAB;
+II. Dar seguimiento a las acciones o programas especiales prioritarios que le indique el Director General de este organismo;
 
-III. Coordinar los trabajos de revisión del cumplimiento normativo en colaboración con la Unidad de Control Interno;
+III. Participar en la elaboración de los manuales de organización y de procedimientos;
 
-IV. Coordinar las acciones para el control y la optimización de los recursos materiales, humanos y financieros en cada una de las unidades administrativas;
+IV. Participar, en el ámbito de su competencia, en la formulación del Informe de Gobierno;
 
-V. Servir de enlace informativo entre los servidores públicos de la CEMATAB, para dar a conocer las instrucciones que gire el Director General;
+V. Coordinar la elaboración y edición de bitácoras y otros documentos similares de este organismo;
 
-VI. Recibir, revisar y turnar al Director General, la información que proceda de cualquier área de la CEMATAB, así como informar oportunamente cualquier acontecimiento o contingencia relacionado con las actividades de la misma;
+VI. Integrar y analizar los informes de trabajo de las diversas direcciones y departamentos;
 
-VII. Coordinar las acciones para integrar el Informe de Gobierno correspondiente a la CEMATAB;
+VII. Informar periódicamente a la Dirección General sobre los avances en el cumplimiento de sus programas;
 
-VIII. Elaborar las fichas de acuerdos del Director General con el Secretario;
+VIII. Vigilar la aplicación de las disposiciones, políticas y lineamientos relacionados con el funcionamiento de la unidad adscrita a su cargo;
 
-IX. Revisar los documentos técnicos enviados por las unidades administrativas de la CEMATAB, teniendo como base los lineamientos normativos emitidos y turnarlos a las unidades correspondientes;
+IX. Asesorar técnicamente en asuntos de su especialidad a las demás unidades adscritas;
 
-X. Tramitar la información solicitada por las dependencias de la Administración Pública Federal, Estatal y Municipal utilizando los canales adecuados;
+X. Elaborar los informes relativos a los asuntos de la competencia de la unidad adscrita a su cargo;
 
-XI. Propiciar las condiciones y estructuración necesarias del trabajo técnico de la CEMATAB;
+XI. Recibir a los funcionarios y servidores públicos para acordar sobre la resolución y despacho de los asuntos que les hayan sido encomendados por la Dirección General;
 
-XII. Concentrar información (gráficas, imágenes fotográficas y propuestas de guión), que las unidades proporcionen para la realización de presentaciones que requiera el Director General;
+XII. Conocer, recibir, registrar, clasificar; atender, canalizar y controlar la gestión ante las instancias correspondientes de los asuntos planteados al Director General por entidades u organizaciones públicas y privadas, así como por particulares y funcionarios públicos;
 
-XIII. Llevar el seguimiento de los acuerdos, convenios y contratos que celebre la CEMATAB con otras dependencias y aquellos que la Unidad de Asuntos Jurídicos canalice a la Unidad Técnica;
+XIII. Informar sistemáticamente al Director General sobre el avance y control de gestión de los asuntos atendidos; y
 
-XIV. Mantener enlace directo con la Secretaría Técnica del Gobierno del Estado, para proporcionar la información pertinente que le sea requerida;
+XIV. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Director General, dentro de la esfera de sus atribuciones.
 
-XV. Documentar minutas de todos y cada uno de los acuerdos tomados en las reuniones que el Director General sostenga con las diversas agencias gubernamentales; y
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XVI. Las demás funciones que le sean asignadas por el Director General, y las que le confieren las leyes, reglamentos y demás disposiciones aplicables a la Administración Pública Estatal.
+### CAPÍTULO II. DE LA UNIDAD DE ASUNTOS JURÍDICOS Y ACCESO A LA INFORMACIÓN
 
-### CAPÍTULO III. DE LA DIRECCIÓN DE ADMINISTRACIÓN
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-La Unidad de Proyectos Estratégicos deberá de contribuir en el desarrollo de estrategias orientadas a la atención de problemas específicos a que sea convocada la participación de la CEMATAB, procurando el mejor aprovechamiento de los recursos técnicos, humanos y financieros, vinculándolos con la participación de otras instancias de gobierno, el sector público y el privado, según sea el caso, a quien le corresponderá el ejercicio de las siguientes atribuciones:
+La Unidad de Asuntos Jurídicos y Acceso la (sic) Información, se encargará de sustanciar todos los procesos jurídicos a favor o en contra de la CEMATAB y asesorar a la Dirección General y unidades administrativas del órgano, en las actuaciones y demás actos en los que intervenga la CEMATAB, además le corresponde el ejercicio de la (sic) siguientes atribuciones:
 
-I. Colaborar en la elaboración .de los distintos proyectos y planes de trabajo acordes al objeto de creación de la CEMATAB;
+I. Brindar la asesoría y orientación jurídica que requieran las unidades adscritas a la CEMATAB;
 
-II. Dar asesoría técnica al personal de mandos medios y superiores en el diseño y elaboración de políticas y estrategias orientadas al logro de los objetivos de la CEMATAB;
+II. Establecer coordinación con la Secretaría y la Coordinación General de Asuntos Jurídicos a fin de que el tratamiento de los asuntos jurídicos a cargo del órgano, sea congruente con el esquema general definido por la referida dependencia;
 
-lll. Solicitar los avances de los programas y proyectos especiales que se estén ejecutando en beneficio de la ciudadanía;
+III. Representar a la CEMATAB y a su Director General ante los Tribunales Federales y del Fuero Común y ante toda autoridad en los trámites judiciales y cualquier otro asunto de carácter legal con excepción de la materia fiscal, con todos los derechos procesales que las leyes reconocen a las personas físicas y jurídico colectivas, tanto para presentar demandas como para contestarlas, reconvenir a la contraparte, ejercitar acciones, oponer excepciones, desistirse, ofrecer y rendir toda clase de pruebas, recusar a jueces inferiores y superiores, apelar y, en general para que promueva o realice todos los actos permitidos por las leyes que favorezcan los derechos de la CEMATAB;
 
-IV. Informar al Director General de los resultados obtenidos en los programas y proyectos ejecutados en beneficio de la ciudadanía;
+IV. Absolver las consultas que, en materia jurídica sean formuladas y que sean inherentes a la CEMATAB;
 
-V. Colaborar con las unidades administrativas, en la elaboración de estudios, diagnósticos y proyectos de ejecución de la obra pública, así como en aquellos que implique modificaciones en el funcionamiento administrativo y operativo de la CEMATAB; y
+V. Suministrar a las entidades que por mandato legal se disponga, la información y documentación necesarias para proteger los intereses de la CEMATAB;
 
-VI. Las demás funciones que le sean asignadas por el Director General, y las que le confieren las leyes, reglamentos y demás disposiciones aplicables a la Administración Pública Estatal.
+VI. Elaborar los dictámenes y opiniones a las consultas que en materia jurídica presente la CEMATAB;
 
-### CAPÍTULO IV. DE LA UNIDAD DE ASUNTOS JURÍDICOS
+VII. Coordinar la formulación y revisión de proyectos de iniciativas de la ley, reglamentos, decretos, acuerdos, circulares y demás disposiciones de carácter legal que sean de competencia de la CEMATAB;
+
+VIII. Realizar estudios e investigaciones tendientes a mantener actualizado el acervo normativo a su cargo, en armonía con la evolución jurisprudencial;
+
+IX. Elaborar en coordinación con la Dirección de Administración, los proyectos de acuerdos, convenios, contratos y demás documentos que habrá de suscribir el Director General con otras dependencias y entidades federales, estatales y municipales;
+
+X. Compilar y dar difusión a las normas jurídicas vigentes relacionadas con el servicio público para conocimiento y consulta de todas las direcciones y unidades administrativas de la CEMATAB;
+
+XI. Presentar al Director General los proyectos de demanda y contestación de las mismas, así como cualquier otra promoción que tenga por objeto la intervención de la CEMATAB, ante cualquier autoridad judicial o administrativa y la consecución de los procedimientos iniciados;
+
+XII. Coadyuvar con las instancias correspondientes, en la preparación del ejercicio de la acción legal y, en su caso, desahogar los medios de prueba y la consecución del procedimiento hasta la conclusión;
+
+XIII. Formular denuncias o querellas a nombre de la CEMATAB, desistirse de ellas u otorgar el perdón cuando así corresponda;
+
+XIV. Interponer juicios de amparo y los recursos previstos por la ley de la materia y rendir los informes previos y justificados en los juicios de amparo en los que la CEMATAB sea señalada como autoridad responsable;
+
+XV. Desahogar los procedimientos administrativos de investigación por responsabilidad administrativa, resarcitoria y patrimonial que se sigan por la CEMATAB, de conformidad con la normatividad aplicable, hasta su total culminación;
+
+XVI. Instruir los procedimientos previstos en la Ley de los Trabajadores al Servicio del Estado de Tabasco, respecto de los trabajadores de la entidad;
+
+XVII. Realizar la certificación de los documentos que obren en los archivos de la CEMATAB; a petición fundada de autoridad judicial o administrativa;
+
+XVIII. Instruir, tramitar y someter a autorización del Director General los procedimientos de rescisión, suspensión, revocación, modificación y demás relacionados con procesos de contratos de obra pública y servicios relacionados con la misma;
+
+XIX. Ejercer las atribuciones que establece el Artículo 39 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco; y
+
+XX. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Director General, dentro de la esfera de sus atribuciones.
+
+### CAPÍTULO III. DE LA DIRECCIÓN DE ADMINISTRACIÓN
 
 ###### Artículo 9.
 
@@ -245,7 +375,7 @@ XII. Estudiar y proponer al Director General nuevas fuentes de financiamiento pa
 
 XIII. Acordar con el Director General el despacho de los asuntos encomendados, e informar oportunamente sobre el resultado de los mismos;
 
-XIV. Tramitar la adquisición de bienes y la contratación de servicios que se requieran para cumplir adecuadamente .con las funciones del órgano, de conformidad con la normatividad aplicable y dentro del presupuesto autorizado a la CEMATAB;
+XIV. Tramitar la adquisición de bienes y la contratación de servicios que se requieran para cumplir adecuadamente con las funciones del órgano, de conformidad con la normatividad aplicable y dentro del presupuesto autorizado a la CEMATAB;
 
 XV. Instrumentar con la participación de las unidades administrativas, los programas de selección, capacitación, seguridad e higiene y desarrollo del personal;
 
@@ -257,59 +387,65 @@ XVIII. Proporcionar al personal de la institución el apoyo para la consecución
 
 XIX. Las demás funciones que le sean asignadas por el Director General, y las que le confieren las leyes, reglamentos y demás disposiciones aplicables a la Administración Pública Estatal.
 
-### CAPÍTULO V. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO IV. CONTRALOR INTERNO
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 10.
 
-La Unidad de Asuntos Jurídicos se encargará de sustanciar todos los procesos jurídicos a favor o en contra de la CEMATAB y asesorar a la Dirección General y unidades administrativas del órgano, en las actuaciones y demás actos en los que intervenga la CEMATAB, además le corresponde el ejercicio las siguientes atribuciones:
+La Unidad de Contralor Interno se encargará de supervisar y evaluar el funcionamiento de las unidades administrativas, las cuales deben regular el desempeño de sus acciones en estricto apego a las leyes, reglamentos y normatividad establecida, correspondiéndole las siguientes atribuciones:
 
-I. Brindar la asesoría y orientación jurídica que requieran las unidades adscritas a la CEMATAB;
+I. Proponer y evaluar el funcionamiento de las unidades administrativas, de la CEMATAB, acorde a las disposiciones emitidas por los reglamentos y la normatividad vigente;
 
-II. Establecer coordinación con la Secretaría y la Consejería Jurídica del Poder Ejecutivo a fin de que el tratamiento de los asuntos jurídicos a cargo del órgano, sea congruente con el esquema general definido por la referida Consejería Jurídica;
+II. Apoyar y asesorar al Director General en la organización, instrumentación, coordinación y evaluación interna de la CEMATAB;
 
-III. Representar a la CEMATAB y a su Director General ante los Tribunales Federales y del Fuero Común y ante toda autoridad en los trámites judiciales y cualquier otro asunto de carácter legal con excepción de la materia fiscal, con todos los derechos procesales que las leyes reconocen a las personas físicas y jurídico colectivas, tanto para presentar demandas como para contestarlas, reconvenir a la contraparte, ejercitar acciones, oponer excepciones, desistirse, ofrecer y rendir toda clase de pruebas, recusar a jueces inferiores y superiores, apelar, y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan los derechos de la CEMATAB;
+III. Verificar y promover el cumplimiento oportuno de las disposiciones jurídico administrativas aplicables de la CEMATAB;
 
-IV. Absolver las consultas que, en materia jurídica sean formuladas y que sean inherentes a la CEMATAB;
+IV. Vigilar y fomentar el uso y aplicación racional de los recursos humanos, materiales y financieros acorde con los objetivos de la CEMATAB;
 
-V. Suministrar a las entidades que por mandato legal se disponga, la información y documentación necesarias para proteger los intereses de la CEMATAB;
+V. Elaborar y desarrollar el programa anual de auditoría interna de la CEMATAB;
 
-VI. Elaborar los dictámenes y opiniones a las consultas que en materia jurídica presente la CEMATAB;
+VI. Recibir, analizar y fundamentar las quejas presentadas por particulares y/o servidores públicos respecto de la CEMATAB; en su caso proponer al Director General, las medidas para corregir las deficiencias y sancionar a los responsables;
 
-VII. Coordinar la formulación y revisión de proyectos de iniciativas de ley, reglamentos, decretos, acuerdos, circulares y demás disposiciones de carácter legal que sean de la competencia de la CEMATAB;
+VII. Practicar auditorías financieras, administrativas y operacionales para verificar y comprobar el cumplimiento de las obligaciones fiscales y legales en la operación presupuestal y contable; así como las disposiciones en materia de recursos humanos y materiales que emita la Secretaría de Contraloría;
 
-VIII. Realizar estudios e investigaciones tendientes a mantener actualizado el acervo normativo a su cargo, en armonía con la evolución jurisprudencial;
+VIII. Emitir opinión y sugerencias previas a la implantación, o modificación de disposiciones, políticas, normas, lineamientos y programas que repercutan a la operatividad de la CEMATAB
 
-IX. Elaborar en coordinación con la Dirección de Administración, los proyectos de acuerdos, convenios, contratos y demás documentos que habrá de suscribir el Director General con otras dependencias y entidades federales, estatales y municipales;
+IX. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Director General, dentro de la esfera de sus atribuciones.
 
-X. Compilar y dar difusión a las normas jurídicas vigentes relacionadas con el servicio público para conocimiento y consulta de todas las direcciones y unidades administrativas de la CEMATAB;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XI. Presentar al Director General los proyectos de demanda y contestación de las mismas, así como cualquier otra promoción que tenga por objeto la intervención de la CEMATAB, ante cualquier autoridad judicial o administrativa y la consecución de los procedimientos iniciados;
+### CAPÍTULO V. UNIDAD DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
 
-XII. Coadyuvar con las instancias correspondientes, en la preparación del ejercicio de la acción legal y, en su caso, desahogar los medios de prueba y la consecución del procedimiento hasta su conclusión;
-
-XIII. Formular denuncias o querellas a nombre de la CEMATAB, desistirse de ellas u otorgar el perdón cuando así corresponda;
-
-XIV. Interponer juicios de Amparo y los recursos previstos por la ley de la materia y rendir los informes previos y justificados en los juicios de amparo en que la "CEMATAB" sea señalada como autoridad responsable;
-
-XV. Desahogar los procedimientos administrativos de investigación por responsabilidad administrativa, resarcitoria y patrimonial que se sigan por la CEMATAB, de conformidad con la normatividad aplicable, hasta su total culminación;
-
-XVI. Instruir los procedimientos previstos en la Ley de los Trabajadores al Servicio del Estado, respecto de los trabajadores de la entidad;
-
-XVII. Certificar copias de los de los (sic) documentos que se encuentren en los archivos de la CEMATAB;
-
-XVIII. Instruir, tramitar y someter a autorización del Director General los procedimientos de rescisión, suspensión, revocación, modificación y demás relacionados con procesos de contratos de obra pública y servicios relacionados con la misma; y
-
-XIX. Las demás que le sean conferidas por su superior inmediato y las que les confieren las leyes, reglamentos y demás disposiciones aplicables a la Administración Pública Estatal.
-
-### CAPÍTULO I. DE LA DIRECCIÓN DE SERVICIOS TÉCNICOS
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 11.
 
-Corresponde a la Unidad de Acceso a la Información el ejercicio de las atribuciones que establece el artículo 39 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
+La Unidad de Tecnologías de la Información y Comunicaciones es la encargada de proporcionar a la CEMATAB procesos simplificados y homologados en materia de tecnologías de la información y comunicación que se conviertan en soluciones tecnológicas para el desarrollo de los sistemas de procesamiento de datos, necesarios para alcanzar una mayor eficiencia en las actividades y procesos institucionales, correspondiéndole el ejercicio de las siguientes atribuciones:
+
+I. Administrar, operar y mantener los bienes y servicios de tecnologías de la información y comunicaciones de la CEMATAB; asesorar y proporcionar la asistencia técnica para quienes los operan en las unidades administrativas y proponer a su superior jerárquico las medidas conducentes a su optimización;
+
+II. Establecer mejoras e innovaciones tecnológicas informáticas en la CEMATAB;
+
+III. Someter a consideración del Director General, los lineamientos en materia de sistemas informáticos, telecomunicaciones, de equipo y tecnología especializada, acordes a las necesidades de las unidades administrativas de este organismo;
+
+IV. Definir los requerimientos tecnológicos derivados de las necesidades, objetivos, estrategias, proyectos y servicios de la dependencia;
+
+V. Establecer un mecanismo para dar seguimiento a las tendencias tecnológicas, de infraestructura, así como a las disposiciones legales en la materia y, en su caso, incluirlas en el Programa de Tecnologías;
+
+VI. Efectuar instalaciones básicas de microcomputadoras, estaciones de trabajo, servidores y periféricos;
+
+VII. Manejar toda la infraestructura de hardware, software y apoyo operativo existente;
+
+VIII. Dar soporte y mantenimiento a la página web de la dependencia; y
+
+IX. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Director General, dentro de la esfera de sus atribuciones.
 
 ## TÍTULO CUARTO. DE LAS UNIDADES OPERATIVAS
 
-### CAPÍTULO II. DE LA DIRECCIÓN DE MANTENIMIENTO
+### CAPÍTULO I. DE LA DIRECCIÓN DE SERVICIOS TÉCNICOS
 
 ###### Artículo 12.
 
@@ -347,7 +483,7 @@ XV. Participar en el ámbito de su competencia en la formulación de políticas 
 
 XVI. Las demás funciones que le sean asignadas por el Director General, y las que le confieren las leyes, reglamentos y demás disposiciones aplicables a la Administración Pública Estatal.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. DE LA DIRECCIÓN DE MANTENIMIENTO
 
 ###### Artículo 13.
 
@@ -399,15 +535,19 @@ Las funciones específicas que deban desempeñar los servidores públicos de las
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 16.
 
-Durante las ausencias temporales del Director General, que no excedan de siete días serán suplidas por el servidor público designado por él; y las que excedan de siete días serán suplidas por el servidor público que designe el Gobernador a propuesta del Secretario de Asentamientos y Obras Públicas.
+Durante las ausencias temporales del Director General, que no excedan de siete días serán suplidas por el servidor público designado por él; y las que excedan de siete días serán suplidas por el servidor público que designe el Gobernador a propuesta del Secretario.
 
 ###### Artículo 17.
 
 Las ausencias temporales de los directores y titulares de unidad administrativa, serán cubiertas por los servidores públicos de jerarquía inmediata inferior que estos designen, previo acuerdo con el Director General.
 
 ## TÍTULO SÉPTIMO. DE LAS RELACIONES LABORALES
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 18.
 
@@ -456,3 +596,15 @@ SECRETARIO DE ASENTAMIENTOS Y OBRAS PÚBLICAS
 DR. ABENAMAR MORALES GAMAS
 
 DIRECTOR GENERAL DE LA CENTRAL DE MAQUINARIA DE TABASCO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+PRIMERO. Las presentes reformas y adiciones al Reglamento Interior de la Central de Maquinaria de Tabasco, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los asuntos que con motivo de las reformas a este Reglamento deban transferirse de una unidad administrativa a otra, serán resueltos por la unidad administrativa competente.
+
+TERCERO. Para el mejor funcionamiento, de las unidades administrativas que integran a la CEMATAB, se deberán actualizar los respectivos Manuales de Organización y Mantenimiento.
+
+CUARTO. En tanto se expiden los Manuales señalados en el artículo anterior, en caso de duda sobre la interpretación del Reglamento, el Director General queda facultado para resolver lo conducente.
