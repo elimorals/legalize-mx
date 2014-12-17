@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-101804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-21"
-last_updated: "2014-07-21"
+last_updated: "2014-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -2929,19 +2929,21 @@ Otras publicaciones, por palabra. 0.06
 
 El pago de las cantidades mencionadas conforme al presente artículo no genera derecho a la adquisición gratuita del ejemplar o ejemplares en que se haya realizado la publicación.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 142.
 
-Por los servicios prestados por la Dirección Estatal del Registro Civil y que en su caso, serán cobrados por los municipios cuando éstos organicen el Registro Civil, se causarán y pagarán los siguientes derechos:
+Por los servicios prestados por la Dirección Estatal del Registro Civil, que en su caso serán cobrados por los municipios, cuando éstos organicen el Registro Civil, se causarán y pagarán los siguientes derechos:
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE JULIO DE 2006, PÁGINAS DE LA 8454 A LA 8455.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 17 DE DICIEMBRE DE 2014, PÁGINA 16393.</small>
 
-Las zonas mencionadas corresponderán:
+Las zonas a que se refiere este artículo comprenden:
 
-Zona A: Comprende los municipios de El Marqués, Corregidora, Querétaro y San Juan del Río.
+Zona A: Los municipios de El Marqués, Corregidora, Querétaro y San Juan del Río.
 
-Zona B: Comprende el resto de los municipios del Estado.
+Zona B: El resto de los municipios del Estado.
 
-El Registro Civil expedirá sin costo la certificación de actas de nacimiento, para personas con discapacidad, adultos mayores y niños y niñas institucionalizados. Asimismo, se expedirá sin costo alguno el asentamiento del registro de nacimiento a niños y niñas que residan en localidades consideradas con alta y muy alta marginación, de conformidad con los datos del Consejo Estatal de Población de Querétaro, cuando la autoridad federal, estatal o municipal o bien el interesado lo tramiten, de acuerdo a los requisitos que establezca el Registro Civil.
+Las oficinas del Registro Civil en el Estado de Querétaro expedirán sin costo la primera copia certificada del acta de registro de nacimiento. También será gratuita la certificación que se realice respecto de las actas de nacimiento de personas con discapacidad, adultos mayores y niños y niñas institucionalizados.
 
 ###### Artículo 143.
 
@@ -3930,3 +3932,13 @@ Germán Giordano Bonilla
 Secretario de Planeación y Finanzas
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día 17 de diciembre del 2014, previa publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Las leyes de ingresos de los municipios podrán establecer los derechos correspondientes al traslado del Oficial del Registro Civil, cuando a petición de los interesados, el registro de nacimiento se realice en el domicilio del solicitante, en términos de lo dispuesto por el artículo 120 de la Ley de Hacienda de los Municipios del Estado de Querétaro.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
