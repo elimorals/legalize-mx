@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-38404"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-05"
-last_updated: "2011-06-08"
+last_updated: "2014-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38404&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2004-03-30"
 ---
 # REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PROTECCION SOCIAL EN SALUD
 
-REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PROTECCION SOCIAL EN SALUD
+REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PROTECCIÓN SOCIAL EN SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 5 de abril de 2004.
 
@@ -33,9 +33,13 @@ REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PROTECCIÓN SOCIAL EN SALUD
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento de orden público e interés social tiene por objeto regular el Sistema de Protección Social en Salud que se establece en el Título Tercero Bis de la Ley General de Salud y su aplicación es competencia de la Secretaría de Salud, de los Servicios Estatales de Salud que cuenten con Regímenes Estatales de Protección Social en Salud, en los términos de la Ley General de Salud y de los acuerdos de coordinación que para el efecto se suscriban, y de las demás dependencias o entidades que resulten competentes.
+El presente Reglamento tiene por objeto establecer las bases para la regulación del Sistema de Protección Social en Salud previsto en el Título Tercero Bis de la Ley General de Salud. La aplicación e interpretación para efectos administrativos del presente ordenamiento corresponde a la Secretaría, sin perjuicio de la competencia que tengan otras dependencias y entidades de la Administración Pública Federal, en términos de la Ley General de Salud y demás disposiciones jurídicas aplicables.
+
+Para efectos de lo anterior, la Secretaría podrá suscribir acuerdos de coordinación con los gobiernos de las entidades federativas.
 
 ###### Artículo 2.
 
@@ -43,13 +47,17 @@ Para los efectos del presente Reglamento se estará a las definiciones previstas
 
 I. Comisión, a la Comisión Nacional de Protección Social en Salud a que hace referencia el artículo 77 Bis 35 de la Ley;
 
-II. Consejo, al Consejo Nacional de Protección Social en Salud a que hace referencia el Capítulo VIII del Título Tercero Bis de la Ley;
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+II. Instancia Rectora Local, a la estructura administrativa determinada por las entidades federativas, encargada de conducir la política en materia de salud;
 
 III. Ley, a la Ley General de Salud;
 
 IV. Lineamientos, a aquellas disposiciones de carácter general que emita la Secretaría o la Comisión, por acuerdo del Secretario de Salud, y que deberán ser publicadas en el Diario Oficial de la Federación;
 
-V. Padrón, a la relación de familias afiliadas al Sistema de Protección Social en Salud y sus asimilados;
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+V. Padrón, a la relación de personas afiliadas al Sistema;
 
 VI. Regímenes Estatales, a los Regímenes Estatales de Protección Social en Salud a que se refiere el artículo 77 Bis 2 de la Ley;
 
@@ -57,15 +65,39 @@ VII. Reglamento, al Reglamento de la Ley General de Salud en Materia de Protecci
 
 VIII. Secretaría, a la Secretaría de Salud;
 
-IX. Servicios Estatales de Salud, a las dependencias y entidades de los gobiernos de las entidades federativas, independientemente de la forma jurídica que adopten, que tengan por objeto la rectoría y la prestación de servicios de salud, ya sea que estas funciones se ejerzan de manera consolidada o bien, se provean de manera independiente por diversas dependencias u organismos públicos de los gobiernos de las entidades federativas, y
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+IX. Servicios Estatales de Salud, a las estructuras administrativas de los gobiernos de las entidades federativas, independientemente de la forma jurídica que adopten, que tengan por objeto la prestación de servicios de salud, y
 
 X. Sistema, al Sistema de Protección Social en Salud a que se refiere el artículo 77 Bis 2 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-Para los efectos de este Reglamento, se concibe a los Regímenes Estatales como las estructuras administrativas, dependientes de los Servicios Estatales de Salud, encargadas de garantizar las acciones de protección social en salud mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los servicios de salud a la persona en el Sistema, las cuales deberán realizar su actividad de manera independiente de la provisión de servicios de salud.
+Para efectos de lo dispuesto en el artículo 77 bis 15, segundo párrafo, fracción II de la Ley, la Tesorería de la Federación deberá celebrar los convenios de depósito con las Instancias Rectoras Locales, a través de sus Regímenes Estatales.
 
-Los Regímenes Estatales cubrirán a las familias beneficiarias que residan en la circunscripción territorial de cada entidad federativa y tendrán como funciones primordiales la promoción para la incorporación de familias al Sistema; la afiliación y verificación de la vigencia y tutela de derechos de los beneficiarios; la administración de los recursos financieros establecidos por la Ley para las entidades federativas, con excepción de los recursos del Fondo de Aportaciones para los Servicios de Salud a la Comunidad, que serán administrados directamente por los Servicios Estatales de Salud; la verificación de que los prestadores de servicios cumplan con los requisitos que establece la Ley; la gestión de pago a dichos prestadores, así como la rendición de cuentas.
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 3 Bis.
+
+Para efectos de garantizar las acciones de protección social en salud, la Secretaría deberá prever en los acuerdos de coordinación que suscriba con las entidades federativas a que se refiere el artículo 77 bis 6 de la Ley, que los Regímenes Estatales serán responsables de:
+
+I. Administrar y supervisar el ejercicio de los recursos financieros establecidos por la Ley para las entidades federativas en materia de protección social en salud;
+
+II. Realizar acciones en materia de promoción para la incorporación y afiliación de beneficiarios al Sistema;
+
+III. Integrar, administrar y actualizar el Padrón, así como realizar la afiliación, y verificar la vigencia de los derechos de los beneficiarios;
+
+IV. Financiar, coordinar y verificar de forma eficiente, oportuna y sistemática la prestación integral de los servicios de salud a la persona del Sistema, a cargo de los establecimientos para la atención médica incorporados a dicho Sistema, en la que se incluya la atención médica, los medicamentos y demás insumos asociados al mismo;
+
+V. Gestionar el pago a los establecimientos para la atención médica incorporados al Sistema, en los términos previstos en el presente Reglamento;
+
+VI. Reintegrar los recursos en numerario de carácter federal que no haya ejercido o comprobado su destino a los fines específicos para los que le fueron transferidos o entregados, en los términos del artículo 77 bis 16, párrafo tercero de la Ley;
+
+VII. Rendir cuentas respecto de los recursos que reciban, en términos de la Ley y el presente Reglamento, para la operación del Sistema en su entidad federativa, y
+
+VIII. Entregar la información que las autoridades federales o locales competentes les soliciten respecto de los recursos que reciban, así como sobre su ejercicio.
 
 ## TÍTULO SEGUNDO. DE LAS PRESTACIONES DEL SISTEMA
 
@@ -169,33 +201,39 @@ El financiamiento de los servicios cubiertos por el Fondo de Protección contra 
 
 #### SECCIÓN PRIMERA. GENERALIDADES
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 12.
 
-La prestación de los servicios de salud a la comunidad será responsabilidad de los Servicios Estatales de Salud, con apego a lo que señalen las disposiciones jurídicas aplicables y la Secretaría.
+Para efectos del artículo 77 bis 20 de la Ley, será responsabilidad de la Secretaría y de las entidades federativas a través de su Instancia Rectora Local y de sus Servicios Estatales de Salud, las acciones relativas a las funciones de rectoría y la prestación de los servicios de salud a la comunidad, para lo cual se sujetarán a las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 13.
 
-Los Regímenes Estatales garantizarán la prestación de los servicios de salud a la persona de forma directa a través de los establecimientos para la atención médica de los Servicios Estatales de Salud o de forma indirecta a través de los establecimientos para la atención médica de otras entidades federativas o de otras instituciones del Sistema Nacional de Salud.
+Para garantizar las acciones de protección social en salud, los Regímenes Estatales financiarán la prestación de los servicios de salud a la persona del Sistema, otorgados por los establecimientos para la atención médica de los Servicios Estatales de Salud de la propia entidad federativa, de otras entidades federativas o, por otras instituciones o establecimientos del Sistema Nacional de Salud, incorporados al Sistema.
+
+Para los efectos del presente artículo, la Secretaría establecerá los modelos de acuerdos y convenios que sean necesarios para la prestación de los servicios de salud a los beneficiarios del Sistema, en términos del artículo 77 bis 5, inciso A), fracción XII de la Ley.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 14.
 
-La prestación indirecta de los servicios de salud a la persona entre Regímenes Estatales se realizará por medio de los sistemas de referencia y contrarreferencia que se establezcan de conformidad con los mecanismos o sistemas de colaboración interestatal del Sistema que para el efecto se establezcan.
+La prestación de los servicios de salud a la persona del Sistema entre entidades federativas a que se refiere el artículo anterior, se realizará por medio de los sistemas de referencia y contrarreferencia que se establezcan en los acuerdos y convenios referidos en dicho artículo.
 
 ###### Artículo 15.
 
-De conformidad con el artículo 77 Bis 5, A, fracciones V, XII y XVI de la Ley, la Secretaría establecerá el modelo de acuerdos de coordinación y de colaboración interestatal del Sistema en el que se especificarán las condiciones para la ejecución de un mecanismo de compensación económica por los servicios prestados entre entidades federativas.
-
-Para tales efectos, la Secretaría promoverá el desarrollo de sistemas de medición de costos que favorezcan la adecuada compensación económica entre entidades federativas.
+(DEROGADO, D.O.F. 17 DE DICIEMBRE DE 2014)
 
 ###### Artículo 16.
 
-Para garantizar la prestación de los servicios de salud a la persona del Sistema, los Regímenes Estatales podrán brindarlos indirectamente a sus beneficiarios por medio de las instituciones y los establecimientos para la atención médica del Sistema Nacional de Salud. Dicha prestación indirecta se realizará bajo los términos de los convenios de colaboración interinstitucional que al efecto se suscriban y en los cuales se incluirán las bases para la compensación económica.
+(DEROGADO, D.O.F. 17 DE DICIEMBRE DE 2014)
 
-Para los efectos del presente artículo, la Secretaría proveerá el modelo de convenio de colaboración interinstitucional para la prestación indirecta de servicios de salud a la persona a los beneficiarios del Sistema.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 17.
 
-Los Servicios Estatales de Salud podrán establecer convenios de colaboración con municipios, para su participación en el Sistema. Los convenios, sin perjuicio de la normatividad estatal aplicable, determinarán como mínimo las áreas de colaboración, las aportaciones económicas estatales y municipales, y los mecanismos de participación de las autoridades municipales en el Régimen Estatal.
+Para efectos del artículo 77 bis 5, inciso B), fracción IX de la Ley, la Secretaría podrá promover la celebración de convenios de colaboración entre las entidades federativas y los municipios, para incluir la participación de éstos en el Sistema. En dichos convenios, sin perjuicio de la legislación estatal aplicable, se podrán determinar como mínimo las áreas de colaboración, las aportaciones económicas estatales y municipales, y los mecanismos de participación de ambos en el Sistema.
 
 ###### Artículo 18.
 
@@ -205,19 +243,21 @@ Para garantizar el carácter integral de los servicios, los Regímenes Estatales
 
 Como parte sustancial de los beneficios del Sistema, la Comisión, en coordinación con los Regímenes Estatales, promoverá una política de medicamentos tendiente a reducir los costos de adquisición, favorecer sistemas eficientes de abasto y reposición de medicamentos y el uso racional de los mismos en la prescripción y consumo en los establecimientos para la atención médica del Sistema. A tal efecto, los Regímenes Estatales y los establecimientos para la atención médica del Sistema celebrarán los convenios de gestión oportunos e implantarán programas de capacitación al personal.
 
-> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 20.
 
-Los Regímenes Estatales asignarán a cada familia beneficiaria a un centro de salud para su atención primaria y en caso de existir más de una opción, se les brindará la facilidad de elegir su unidad de adscripción.
+Los Regímenes Estatales asignarán a cada núcleo familiar, a un centro de salud para su atención primaria y en caso de existir más de una opción, se les brindará la facilidad de elegir su unidad de adscripción.
 
 ###### Artículo 21.
 
 Con objeto de fortalecer a los establecimientos para la atención médica de los Servicios Estatales de Salud y establecer criterios homogéneos y transparentes en la atención de los beneficiarios del Sistema, las relaciones entre los Regímenes Estatales y los establecimientos para la atención médica acreditados se formalizarán mediante convenios de gestión, que bajo la forma de acuerdo interno, precisen la cobertura de afiliados, condiciones de calidad, la tutela de los derechos de los usuarios, la asignación de recursos o reposición de fondos para la atención a los beneficiarios del Sistema, y los criterios de evaluación y seguimiento de sus actividades.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 22.
 
-Los Regímenes Estatales podrán celebrar convenios para la utilización de infraestructura médica con los establecimientos para la atención médica de otros Regímenes Estatales o de otras instituciones del Sistema Nacional de Salud cuando así lo requieran, conforme a la legislación aplicable. Dichos convenios sólo podrán ser suscritos con los establecimientos para la atención médica convenientemente acreditados en los términos a que se refiere el artículo 77 bis 9 de la Ley.
+La Secretaría, a fin de hacer efectivo el derecho establecido en el artículo 77 bis 1 de la Ley, promoverá que los Servicios Estatales de Salud celebren convenios para la utilización de la infraestructura médica con los establecimientos para la atención médica de otros Servicios Estatales de Salud o con otras instituciones del Sistema Nacional de Salud, que estén debidamente acreditados, conforme a las disposiciones jurídicas aplicables.
 
 #### SECCIÓN SEGUNDA. DE LA ACREDITACIÓN DE CAPACIDAD, SEGURIDAD Y CALIDAD
 
@@ -295,21 +335,27 @@ La falta de presentación de la Cartilla Nacional de Salud no podrá ser motivo 
 
 #### SECCIÓN TERCERA. DEL PLAN MAESTRO DE INFRAESTRUCTURA
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 31.
 
-El Plan Maestro de Infraestructura es el instrumento rector al que se sujetarán los Servicios Estatales de Salud en los términos de los artículos 77 Bis 10 y 77 Bis 30 de la Ley, con el fin de racionalizar la inversión pública en infraestructura y garantizar la operación sustentable, así como definir las características de los centros regionales de alta especialidad.
+El Plan Maestro de Infraestructura es el instrumento rector al que se sujetarán los Servicios Estatales de Salud y los Regímenes Estatales, en los términos de los artículos 77 bis 10 y 77 bis 30 de la Ley, con el fin de racionalizar la inversión pública en infraestructura y garantizar la operación sustentable, así como definir las características de los centros regionales de alta especialidad.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 32.
 
-Es responsabilidad de la Secretaría, observando las disposiciones aplicables, con la colaboración de los Servicios Estatales de Salud, la elaboración del Plan Maestro de Infraestructura, que será presentado a la consideración del Consejo y será aprobado por el Secretario de Salud y en el cual se deberá contemplar un diagnóstico de la infraestructura existente con base en la información que proporcionen para el efecto las entidades federativas.
+Es responsabilidad de la Secretaría, en colaboración con las Instancias Rectoras Locales, los Servicios Estatales de Salud y los Regímenes Estatales, la elaboración del Plan Maestro de Infraestructura que será aprobado por el Secretario de Salud y en el cual se deberá contemplar un diagnóstico de la infraestructura en salud existente, con base en la información que proporcionen para tal efecto las entidades federativas.
 
 ###### Artículo 33.
 
 En la elaboración del Plan Maestro de Infraestructura, deberán considerarse, al menos, las necesidades de salud de la población, las características socioculturales, demográficas, epidemiológicas, información sobre accesibilidad y utilización de servicios, así como los criterios que para el Modelo Integrado de Atención a la Salud defina la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 34.
 
-El Plan Maestro de Infraestructura deberá considerar un panorama de diez años y en su contenido se deberá especificar lo relativo a la remodelación, equipamiento de alta tecnología y obra nueva en infraestructura física para la prestación directa, a través de los establecimientos públicos para la atención médica del Sistema.
+El Plan Maestro de Infraestructura deberá considerar un panorama de diez años y las posibles fuentes de financiamiento. En su contenido se deberá especificar lo relativo a las acciones de obra, adquisición de equipamiento y de telemedicina para los establecimientos de atención médica públicos que se encuentren incorporados al Sistema.
 
 Los establecimientos para la atención médica a que hace referencia el presente artículo que no se encuentren en el Plan Maestro de Infraestructura no podrán participar como prestadores de servicios del Sistema y por ende, no podrán recibir financiamiento del mismo.
 
@@ -321,17 +367,23 @@ El acceso a los recursos para infraestructura de la previsión presupuestal desc
 
 Cada entidad federativa deberá suministrar a la Secretaría en el tiempo y forma que ésta determine, a través del Sistema Nacional de Información para la Salud, la información necesaria para mantener en vigor el Plan Maestro de Infraestructura y para la realización de ajustes y conciliaciones con respecto a posibles diferencias en la información.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 37.
 
-La planeación de nuevos establecimientos para la atención médica y la adquisición de nuevas tecnologías, para su inclusión en el Plan Maestro de Infraestructura, deberá sustentarse en el certificado de necesidad que será expedido por la Secretaría, en los términos que para el efecto establezca, tomando en consideración los siguientes parámetros:
+La planeación e inclusión de nuevos establecimientos o servicios para la atención médica, el equipamiento médico y de telemedicina, en el Plan Maestro de Infraestructura a que se refiere esta Sección deberá sustentarse en el certificado de necesidad que expida la Secretaría, en los términos que establezca este Reglamento y la propia Secretaría, mediante disposiciones de carácter general, conforme a los siguientes parámetros:
 
 I. Proyecciones demográficas y epidemiológicas de la población;
 
-II. Comparación del costo-efectividad de los proyectos alternativos existentes;
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
-III. Relación de la oferta existente;
+II. Comparación de los proyectos alternativos existentes;
 
-IV. Necesidades especiales de las familias beneficiarias;
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+III. Relación de la oferta y demanda existente;
+
+IV. (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2014)
 
 V. Comparación de las tendencias de utilización u ocupación de los otros prestadores de servicios en el área;
 
@@ -339,19 +391,49 @@ VI. Disponibilidad de recursos financieros;
 
 VII. El flujo de liquidez proyectado que debe asegurar la viabilidad financiera;
 
-VIII. Aspectos ambientales y culturales relacionados con el proceso de atención, y
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+VIII. Aspectos ambientales y culturales relacionados con el proceso de atención médica, y
 
 IX. Características arquitectónicas y de operatividad relacionadas con las costumbres, el clima y las condiciones geográficas.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 37 Bis.
+
+El certificado de necesidad a que se refiere el artículo anterior deberá comprender lo siguiente:
+
+I. Infraestructura física: obras nuevas, así como la sustitución, ampliación y fortalecimiento de las obras existentes;
+
+II. Equipamiento: incorporación de equipo médico e instrumental médico vinculados de manera integral, con la operación del establecimiento público para la atención médica, y
+
+III. Telemedicina: es el uso de las tecnologías de la información y las comunicaciones para proporcionar y apoyar los servicios de atención a la salud, cuando la distancia separa a los participantes.
 
 ###### Artículo 38.
 
 En la aprobación para la construcción de nuevos establecimientos para la atención médica dentro del Sistema, se dará prioridad a aquellas regiones en donde los indicadores de recursos físicos y humanos se encuentren por debajo de lo que se estima necesario dadas las necesidades de salud de la población.
 
-Los aspectos tecnológicos del equipamiento de los establecimientos para la atención médica participantes en el Sistema, se sujetarán a los lineamientos que para el efecto emita la Secretaría, en apego al Cuadro Básico y Catálogo de Instrumental y Equipo Médico elaborado por el Consejo de Salubridad General, procurando la adquisición y utilización de equipos con garantía de mantenimiento preventivo y correctivo en el nivel local.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+Las características técnicas del equipamiento y de telemedicina de los establecimientos para la atención médica participantes en el Sistema, se sujetarán a los Lineamientos que para el efecto emita la Secretaría, en apego al Cuadro Básico y Catálogo de Instrumental y Equipo Médico elaborado por el Consejo de Salubridad General, procurando la adquisición y utilización de equipos con garantía de mantenimiento preventivo y correctivo en el nivel local.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 38 Bis.
+
+Los recursos del fideicomiso del Sistema podrán destinarse a los conceptos y nuevas tecnologías que sean necesarias para desarrollar la infraestructura de establecimientos de atención médica y que se encuentran vinculadas de manera integral para su operación, entre otros, el equipo de educación para la salud, mobiliario administrativo, equipo informático y la incorporación de tecnologías de la información y comunicaciones, que sean definidos en las reglas de operación de dicho fideicomiso. Podrá financiarse mobiliario administrativo únicamente cuando forme parte de proyectos o programas integrales de infraestructura en salud.
 
 ###### Artículo 39.
 
 La Secretaría dispondrá lo necesario para que el Plan Maestro de Infraestructura sea congruente con el plan estratégico de desarrollo del Sistema y el programa de expansión de la cobertura en el ámbito de cada entidad federativa y región del Sistema.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 39 Bis.
+
+La Federación, por conducto de la Secretaría, podrá acordar con las entidades federativas el que ésta lleve a cabo acciones de infraestructura física, adquisición de equipamiento, de telemedicina y otros conceptos a que se refiere el artículo 38 Bis de este Reglamento, con cargo a la cuota social y aportación solidaria federal que les correspondan a dichas entidades federativas, considerándose los avances y la entrega de la obra como transferencia de recursos en especie, en los términos establecidos en el artículo 77 bis 15, segundo párrafo, fracción III de la Ley o, de aquellos recursos a que hacen referencia los artículos 77 bis 18 y 77 bis 30 de la Ley, cuando estas últimas así se lo soliciten.
+
+Para efectos de lo dispuesto en el párrafo anterior, la Secretaría se sujetará a lo estipulado en los acuerdos de coordinación que para tal fin se celebren, así como a las disposiciones jurídicas que rijan las materias de adquisiciones gubernamentales y obra pública federales, sin perjuicio de cumplir con los demás requisitos de carácter local que resulten aplicables.
 
 ## TÍTULO TERCERO. DE LA INCORPORACIÓN DE BENEFICIARIOS
 
@@ -403,11 +485,13 @@ Los Regímenes Estatales serán responsables de verificar la información propor
 
 ### CAPÍTULO III. DE LA VIGENCIA DE DERECHOS
 
-> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 44.
 
-El inicio de vigencia de derechos del Sistema para los beneficiarios comenzará el mismo día de su incorporación, contemplando doce meses calendario de vigencia.
+El inicio de vigencia de derechos del Sistema para los beneficiarios comenzará el mismo día de su incorporación, contemplando treinta y seis meses calendario de vigencia.
+
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
 
 La vigencia de derechos podrá ser constatada en las unidades prestadoras de servicios mediante el documento o mecanismo a que se refiere el artículo 41 de este Reglamento o por los instrumentos que determine la Comisión como válidos para tales efectos y que formen parte del proceso de incorporación al Sistema.
 
@@ -449,9 +533,11 @@ El Padrón estará integrado con la información contenida en los padrones de lo
 
 El Padrón será de tipo nominal y deberá contener, al menos, los siguientes elementos: nombre, apellido paterno, apellido materno, fecha de nacimiento, sexo, Clave Única del Registro de Población, domicilio actual, incluyendo localidad, municipio y entidad, posición en el hogar, clave única de identificación por familia asignada por la Comisión, vigencia de derechos, nivel de cuota familiar y el establecimiento para la atención médica de adscripción.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
-El Padrón estará sujeto a las normas de confidencialidad en los términos de lo previsto en los artículos 18, 20 y 21 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y los artículos 5 y 38 de la Ley de Información Estadística y Geográfica, para lo cual la Comisión establecerá los mecanismos para su conformación, actualización y consulta.
+El Padrón estará sujeto a lo previsto en los artículos 18, 20 y 21 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el artículo 38 de la Ley del Sistema Nacional de Información Estadística y Geográfica, para lo cual la Comisión establecerá los mecanismos para su conformación, actualización y consulta.
 
 ###### Artículo 52.
 
@@ -489,9 +575,11 @@ La Secretaría, a través de la Comisión, contará con un centro de atención t
 
 El centro de atención telefónica estará orientado principalmente para recibir las quejas que deriven del incumplimiento sobre los derechos de los beneficiarios, así como cualquier incumplimiento del proceso administrativo de afiliación; de igual manera, servirá para retroalimentar a los Regímenes Estatales para generar acciones correctivas y preventivas que se requieran para la adecuada marcha del Sistema.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 59.
 
-El centro de atención telefónica recibirá, canalizará y dará seguimiento a las preguntas, quejas y sugerencias que presenten los beneficiarios, para lo cual los Servicios Estatales de Salud establecerán mecanismos para la recepción de las mismas, además de proporcionar la información necesaria para su atención oportuna y eficaz.
+El centro de atención telefónica a que se refiere el artículo anterior, recibirá, canalizará y dará seguimiento a las preguntas, quejas y sugerencias que presenten los beneficiarios, para lo cual los Regímenes Estatales establecerán mecanismos para la recepción de las mismas, además de proporcionar la información necesaria para su atención oportuna y eficaz.
 
 Por su parte, la Secretaría canalizará y dará seguimiento a las preguntas, quejas y sugerencias que reciba en su propio centro de atención telefónica sobre la calidad de los servicios que otorgue el Sistema e informará de manera periódica, por conducto de la Comisión, a los integrantes del Sistema sobre las preguntas, quejas y sugerencias que sobre la calidad de los servicios de salud presenten los beneficiarios, con el propósito de que sean atendidas de manera efectiva y oportuna.
 
@@ -575,6 +663,10 @@ En la evaluación del Sistema deberán distinguirse las actividades de supervisi
 
 Para efectos de transparencia, la Comisión publicará el desempeño anual de los Regímenes Estatales de acuerdo con las evaluaciones y metas del Sistema.
 
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría incluirá en el modelo a que se refiere el artículo 77 bis 6 de la Ley, los criterios generales que deben adoptar los Regímenes Estatales en materia de supervisión.
+
 ###### Artículo 75.
 
 El modelo de evaluación propio del Sistema contará con tres componentes:
@@ -603,13 +695,15 @@ Los Regímenes Estatales deberán entregar la información que les corresponda.
 
 Para efectos de este capítulo, se definen como aportaciones aquellas realizadas por el Gobierno Federal y los gobiernos de las entidades federativas a favor del Sistema a que hacen referencia los artículos 77 Bis 12, 77 Bis 13 y 77 Bis 20 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 77.
 
-Las erogaciones del Gobierno Federal relacionadas con el Sistema deberán estar específicamente identificadas en el presupuesto autorizado de la Secretaría.
+Las erogaciones del Gobierno Federal relacionadas con el Sistema deberán estar específicamente identificadas en el Presupuesto de Egresos del ejercicio fiscal que corresponda.
 
-La Secretaría y los Regímenes Estatales, a través de la Comisión, determinarán un porcentaje o un monto máximo de los recursos del Sistema que podrán ser destinados a los gastos de administración del mismo.
+Los porcentajes de los recursos del Sistema que serán transferidos a las entidades federativas por conceptos de cuota social y aportación solidaria bajo las modalidades establecidas en el artículo 77 bis 15 de la Ley, se establecerán en los lineamientos que al efecto emitan la Secretaría y la Secretaría de Hacienda y Crédito Público en términos de dicho artículo.
 
-La programación, presupuestación, ejercicio, control y fiscalización de los recursos federales vinculados con el Sistema estará sujeta a lo establecido en los artículos 77 bis 16 y 77 bis 32 de la Ley, en el presente Reglamento y a lo señalado por los diversos ordenamientos aplicables en la materia.
+La programación, presupuestación, ejercicio, control, supervisión y fiscalización de los recursos federales vinculados con el Sistema estará sujeta a lo establecido en los artículos 77 bis 5, inciso B) fracción VIII, 77 bis 16, 77 bis 31, incisos B) y C) y 77 bis 32 de la Ley, en el presente Reglamento y a lo señalado en los diversos ordenamientos aplicables en la materia.
 
 > <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
 
@@ -623,27 +717,53 @@ Con objeto de determinar el monto anual correspondiente a la cuota social, la ap
 
 Para efectos del artículo 78 de este Reglamento, la Secretaría proporcionará anualmente a la Comisión la información sobre las proyecciones de la población beneficiaria potencial por entidad federativa expresada en número de personas conforme a los criterios metodológicos correspondientes.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 80.
 
-Los recursos correspondientes a la cuota social y a la aportación solidaria federal se canalizarán a las entidades federativas de conformidad con la periodicidad del calendario presupuestal definido en los acuerdos de coordinación correspondientes. Dicha periodicidad no podrá ser superior a tres meses.
+Los recursos correspondientes a la cuota social y a la aportación solidaria federal se transferirán a las entidades federativas, de conformidad con el calendario presupuestario autorizado por la Secretaría de Hacienda y Crédito Público.
 
-Para estos efectos, las entidades federativas y la Comisión establecerán una meta anual de afiliación distribuida por trimestre.
+Para efectos del párrafo anterior, las entidades federativas y la Comisión establecerán una meta anual de afiliación distribuida mensualmente.
+
+La Secretaría, a través de la Comisión, informará de manera inmediata al Régimen Estatal respecto de los recursos que hayan sido transferidos directamente a la entidad federativa correspondiente, por conducto de sus respectivas tesorerías, a fin de que dé seguimiento a dichos recursos.
+
+En caso de que el Régimen Estatal no reciba de la tesorería estatal los recursos transferidos en numerario, ni sus rendimientos dentro del plazo que establece el inciso a) de la fracción III del inciso B) del artículo 77 bis 5 de la Ley, deberá hacerlo del conocimiento de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 80 Bis.
+
+Los Servicios Estatales de Salud, por conducto del Régimen Estatal, entregarán a la Comisión, los recibos de los recursos entregados en especie en términos del artículo 77 bis 15, segundo párrafo, fracción III de la Ley, en los cuales se detallarán la cantidad, importe, conceptos y demás información que determine la Comisión para tal efecto.
 
 ###### Artículo 81.
 
 Para garantizar lo establecido en el artículo 77 Bis 15 de la Ley, el Gobierno Federal enviará al principio de cada trimestre los recursos por concepto de cuota social y mensualmente los recursos por concepto de aportación solidaria federal, correspondientes a la meta de afiliación convenida para ese periodo, de conformidad con lo establecido en el artículo 80 del presente Reglamento.
 
-La Comisión realizará al término de cada trimestre y previo al envío de recursos subsecuentes una conciliación con cada entidad federativa para contrastar la congruencia del Padrón con los recursos enviados al principio del trimestre en cuestión.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+La Comisión realizará conciliaciones trimestrales, previo al envío de recursos subsecuentes, con cada entidad federativa para contrastar la congruencia del Padrón con los recursos enviados.
 
 Con base en los resultados de esta conciliación, la Comisión deberá efectuar ajustes en el monto de los recursos de cuota social y aportación solidaria federal a ser transferidos a la entidad federativa en el periodo subsecuente que corresponda.
 
-La Secretaría de conformidad con lo establecido por el segundo párrafo del artículo 77 bis 12 de la Ley, deberá suspender, en el trimestre respectivo, la transferencia de los recursos federales correspondientes a la cuota social del Gobierno Federal, cuando las entidades federativas no hayan realizado la entrega de las aportaciones solidarias a que se refiere la fracción I del artículo 77 bis 13 de la Ley, durante el trimestre anterior.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
-La Secretaría podrá suspender la transferencia a las entidades federativas de los recursos federales correspondientes a la aportación solidaria del Gobierno Federal, así como los correspondientes al Fondo de Protección contra Gastos Catastróficos y, en su caso, la previsión presupuestal anual, cuando las entidades federativas no entreguen la aportación solidaria a que se refiere la fracción I del artículo 77 bis 13 de la Ley, o cuando dejen de informar en tiempo y forma sobre la administración y ejercicio de los recursos provenientes de las cuotas familiares.
+La Secretaría, de conformidad con lo establecido por el tercer párrafo del artículo 77 bis 12 de la Ley, deberá suspender, en el trimestre respectivo, la transferencia de los recursos federales correspondientes a la cuota social del Gobierno Federal, cuando las entidades federativas no hayan realizado las aportaciones solidarias a que se refiere la fracción I del artículo 77 bis 13 de la Ley, durante el trimestre anterior.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría podrá suspender la transferencia a las entidades federativas de los recursos federales correspondientes a la aportación solidaria del Gobierno Federal, así como los correspondientes al Fondo de Protección contra Gastos Catastróficos y, en su caso, la previsión presupuestal, cuando las entidades federativas no entreguen la aportación solidaria a que se refiere la fracción I del artículo 77 bis 13 de la Ley, o cuando dejen de informar en tiempo y forma sobre la administración y ejercicio de los recursos provenientes de las cuotas familiares.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 82.
 
-La Secretaría proporcionará información relativa al gasto en salud federal y estatal de acuerdo a las funciones del Sistema e identificando fuentes de financiamiento. Como parte de lo anterior, los Servicios Estatales de Salud deberán reportar la información correspondiente al nivel estatal, la cual será integrada con aquella que reporten a su vez la Secretaría y la Comisión. Con el fin de mantener homogeneidad en el reporte del gasto en salud, la Secretaría proporcionará los criterios metodológicos para la integración de los reportes estatales. La periodicidad de los informes será la establecida en las disposiciones aplicables en materia de información y rendición de cuentas.
+Para efectos del artículo 77 bis 5, inciso B), fracción VIII de la Ley, la información que los Regímenes Estatales deben presentar a la Secretaría respecto al destino, manejo y comprobación del ejercicio de los recursos correspondientes se realizará en los términos previstos en los Lineamientos que al efecto emita la Comisión.
+
+Con base en dicha información, la Secretaría informará al Congreso de la Unión y a la población en general, a través de su página electrónica, sobre el total del gasto federal y estatal en materia de protección social en salud.
+
+A fin de mantener homogeneidad en la información a que se refiere este artículo, la Comisión establecerá en los Lineamientos antes señalados los criterios metodológicos que deberán seguir los Regímenes Estatales para la integración de dicha información.
+
+La periodicidad de los informes será determinada por la Comisión, conforme a la obligación que ésta tiene de rendir cuentas en términos de las disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA. DE LAS APORTACIONES PARA LOS SERVICIOS DE SALUD A LA PERSONA
 
@@ -673,7 +793,7 @@ Los gobiernos de las entidades federativas promoverán la concordancia en los co
 
 Para efectos de realizar la aportación solidaria por parte del Gobierno Federal mediante la distribución del Fondo de Aportaciones para los Servicios de Salud a la Persona a que hace referencia el artículo 77 Bis 13, fracción II, de la Ley, la fórmula a utilizar será la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 #### SECCIÓN TERCERA. DE LAS APORTACIONES PARA LOS SERVICIOS DE SALUD A LA COMUNIDAD
 
@@ -683,7 +803,7 @@ Para efectos del establecimiento del Fondo de Aportaciones para los Servicios de
 
 ###### Artículo 89.
 
-Como órgano auxiliar de consulta y opinión para el establecimiento de los lineamientos de integración y operación del Fondo de Aportaciones para los Servicios de Salud a la Comunidad y para la definición de aquellos criterios vinculados a la salud pública que deberán ser considerados para la instrumentación del Sistema, en el seno del Consejo deberá integrarse una Comisión Permanente de Servicios de Salud a la Comunidad, en la que participarán adicionalmente los titulares de las áreas mayores de la Secretaría a cargo de la conducción de las acciones de prevención y control de enfermedades, promoción de la salud y de los servicios de salud a la comunidad, así como el Comisionado Federal para la Protección contra Riesgos Sanitarios y el Titular de la Comisión.
+(DEROGADO, D.O.F. 17 DE DICIEMBRE DE 2014)
 
 ###### Artículo 90.
 
@@ -693,7 +813,9 @@ La programación y presupuestación de los recursos del Fondo de Aportaciones pa
 
 La determinación del monto anual de recursos para el Fondo de Aportaciones para los Servicios de Salud a la Comunidad se realizará conforme a lo siguiente:
 
-I. El monto de recursos disponibles para el fondo será determinado por la Secretaría con la opinión de la Comisión Permanente de Servicios de Salud a la Comunidad a que se refiere el artículo 89 de este Reglamento, previa aprobación de la Secretaría de Hacienda y Crédito Público por lo que se refiere a la congruencia con los criterios generales de política económica y la disponibilidad de recursos para el ejercicio fiscal respectivo, en correspondencia con los recursos necesarios para llevar a cabo las actividades definidas en el artículo 5 del presente Reglamento, y
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+I. El monto de recursos disponibles para el fondo será determinado por la Secretaría, previa aprobación de la Secretaría de Hacienda y Crédito Público por lo que se refiere a la congruencia con los criterios generales de política económica y la disponibilidad de recursos para el ejercicio fiscal respectivo, en correspondencia con los recursos necesarios para llevar a cabo las actividades definidas en el artículo 5 del presente Reglamento, y
 
 II. El monto de recursos disponibles para el fondo se incrementará anualmente conforme a la disponibilidad de recursos para el ejercicio fiscal respectivo, previa aprobación en los términos de la fracción anterior y tomando en consideración el crecimiento esperado en la población nacional determinado por las proyecciones realizadas por la dependencia designada por el Poder Ejecutivo Federal como responsable de medir y estimar el crecimiento de la población.
 
@@ -701,7 +823,7 @@ II. El monto de recursos disponibles para el fondo se incrementará anualmente c
 
 El monto total asignado para el Fondo de Aportaciones para los Servicios de Salud a la Comunidad durante el ejercicio fiscal t será igual al del año inmediato anterior más el incremento señalado en la fracción II del artículo 91 de este Reglamento, conforme a la siguiente ecuación:
 
-(VER ECUACION ANEXA)
+(VER ECUACIÓN ANEXA)
 
 ###### Artículo 93.
 
@@ -713,7 +835,9 @@ I. Cada entidad federativa recibirá el monto que se le asignó como Fondo de Ap
 
 II. La población total a considerar en la fórmula será aquella proyectada a mitad del año a presupuestar para cada entidad federativa, por la dependencia del Ejecutivo Federal competente responsable de medir y evaluar el crecimiento de la población;
 
-III. La Secretaría, con la opinión de la Comisión Permanente a que se refiere el artículo 89 de este Reglamento, definirá la metodología a utilizar para estimar el factor de ajuste relativo para la distribución del incremento autorizado en el Fondo de Aportaciones para los Servicios de Salud a la Comunidad entre las entidades federativas incorporadas al Sistema, y
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+III. La Secretaría definirá la metodología a utilizar para estimar el factor de ajuste relativo para la distribución del incremento autorizado en el Fondo de Aportaciones para los Servicios de Salud a la Comunidad entre las entidades federativas incorporadas al Sistema, y
 
 IV. La Secretaría dará a conocer anualmente, conforme a la aprobación del presupuesto federal, la información utilizada así como la metodología bajo la cual se llevó a cabo el cálculo correspondiente para el ejercicio presupuestal.
 
@@ -731,11 +855,13 @@ El Fondo de Protección contra Gastos Catastróficos al que se refieren los art�
 
 Para efectos del párrafo anterior, el financiamiento del tratamiento de enfermedades de alto costo de los que provocan gastos catastróficos y medicamentos asociados, estará dirigido a apoyar la atención integral principalmente de los beneficiarios del Sistema, en la cual deberán contemplarse de manera incluyente, las intervenciones de tipo preventivo, diagnóstico, terapéutico, paliativo y de rehabilitación, en términos de lo que establece el artículo 77 Bis 29 de la Ley, y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 96.
 
-El Fondo de Protección contra Gastos Catastróficos se administrará y operará por la Comisión con base en el fideicomiso que constituya el Ejecutivo Federal para la administración de este fondo y de la previsión presupuestal anual.
+El Fondo de Protección contra Gastos Catastróficos se administrará y operará por la Comisión con base en el fideicomiso que constituya el Ejecutivo Federal para tales efectos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 97.
 
@@ -805,17 +931,21 @@ Con el fin de garantizar la operación, la Comisión podrá adoptar recomendacio
 
 Solamente aquellos establecimientos para la atención médica que cumplan con lo estipulado en el artículo 24 del presente Reglamento podrán ser consideradas para fungir como prestadores de los servicios cubiertos por el Fondo de Protección contra Gastos Catastróficos. Así mismo, cuando se trate de unidades vinculadas con el Plan Maestro de Infraestructura, se cumplirá con lo establecido en los artículos 31 a 39 del presente Reglamento.
 
-### CAPÍTULO III. DE LA PREVISIÓN PRESUPUESTAL ANUAL
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. DE LA PREVISIÓN PRESUPUESTAL
 
 #### SECCIÓN PRIMERA. GENERALIDADES
 
 ###### Artículo 107.
 
-La previsión presupuestal anual referida en el artículo 77 Bis 18 de la Ley es un fondo con límite de anualidad presupuestal que apoya el financiamiento para la atención de las necesidades de infraestructura en entidades federativas con mayor marginación social, para diferencias imprevistas en la demanda de servicios y para la garantía de pago interestatal de servicios.
+(DEROGADO, D.O.F. 17 DE DICIEMBRE DE 2014)
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 108.
 
-La previsión presupuestal anual se administrará y operará por la Comisión a través del fideicomiso que constituya el Ejecutivo Federal para la administración de esta previsión presupuestal y del Fondo de Protección contra Gastos Catastróficos.
+La previsión presupuestal se administrará y operará por la Comisión a través del fideicomiso que constituya el Ejecutivo Federal para tales efectos.
 
 ###### Artículo 109.
 
@@ -823,15 +953,19 @@ Los recursos referidos en el artículo 77 Bis 18 de la Ley serán canalizados po
 
 Para efectos de lo anterior, el Gobierno Federal entregará a las entidades federativas el monto que por concepto de cuota social les corresponda de conformidad con la Ley, una vez descontado el monto de recursos equivalente al tres por ciento de la suma de la cuota social, la aportación solidaria federal y la aportación solidaria estatal que le corresponda a cada una de las entidades federativas.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 110.
 
-Los términos bajo los cuales los recursos sin ejercer al cierre del año fiscal correspondientes a cualquiera de los tres rubros contenidos en la previsión presupuestal anual serán transferidos anualmente al Fondo de Protección contra Gastos Catastróficos conforme al artículo 77 Bis 18 de la Ley, seguirán lo establecido en las reglas de operación del fideicomiso.
+Los términos bajo los cuales los recursos sin ejercer al cierre del año fiscal, correspondientes a la previsión presupuestal destinada a la atención de las diferencias imprevistas serán transferidos anualmente al Fondo de Protección contra Gastos Catastróficos conforme al artículo 77 bis 18 de la Ley, seguirán lo establecido en las reglas de operación del fideicomiso.
 
 #### SECCIÓN SEGUNDA. NECESIDADES DE INFRAESTRUCTURA DE ATENCIÓN PRIMARIA Y ESPECIALIDADES BÁSICAS
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 111.
 
-La definición de las necesidades de infraestructura de atención primaria y especialidades básicas en las entidades federativas con áreas de mayor marginación social se supeditará a lo establecido en los artículos 31 a 39 del presente Reglamento.
+La definición de las necesidades de infraestructura para atención primaria y especialidades básicas preferentemente en las entidades federativas con áreas de mayor marginación social, incluirá todas las acciones de prevención, promoción y educación para la salud, diagnóstico, tratamiento y rehabilitación, conforme a lo establecido en los artículos 31 al 39 del presente Reglamento.
 
 ###### Artículo 112.
 
@@ -861,27 +995,53 @@ La aplicación de los recursos referidos en el artículo 77 Bis 18 de la Ley par
 
 ###### Artículo 117.
 
-En la aplicación de recursos económicos, los relativos a atender las diferencias imprevistas en la demanda de servicios, tendrán precedencia sobre los relativos a garantía de pago interestatal de servicios.
+(DEROGADO, D.O.F. 17 DE DICIEMBRE DE 2014)
 
-#### SECCIÓN CUARTA. GARANTÍA DE PAGO INTERESTATAL DE SERVICIOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN CUARTA. COMPENSACIÓN ECONÓMICA POR ADEUDOS DERIVADOS DE LA PRESTACIÓN DE SERVICIOS
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 118.
 
-La garantía de pago es un mecanismo que apoya la compensación económica por incumplimiento de las condiciones de pago establecidas en los convenios de colaboración interestatal del Sistema.
+La compensación económica es un mecanismo de pago entre entidades federativas, por la prestación de servicios de salud brindados a los beneficiarios del Sistema fuera del área de circunscripción territorial en la que están afiliados dichos beneficiarios.
+
+Asimismo, la compensación económica se puede dar como mecanismo de pago por la prestación de servicios de salud a algún beneficiario del Sistema atendido en un establecimiento de salud público de carácter federal.
+
+Para los efectos del presente artículo, la Secretaría promoverá el desarrollo de sistemas de medición de costos que favorezcan la adecuada compensación económica entre entidades federativas.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 119.
 
-La garantía de pago se aplicará exclusivamente en aquellos casos en donde exista un convenio vigente de colaboración interestatal del Sistema.
+La compensación económica se llevará a cabo conforme a lo establecido en los acuerdos de coordinación para la ejecución del Sistema, los Lineamientos que para el efecto emita la Comisión, previa opinión de la Secretaría de Hacienda y Crédito Público y los convenios de colaboración para la prestación de servicios de salud que suscriban las entidades federativas, entre sí o con las instituciones públicas del Sistema Nacional de Salud.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 120.
 
-La garantía de pago por incumplimiento de las condiciones de pago por un Régimen Estatal repondrá al Régimen Estatal acreedor el monto equivalente a la deuda de su contraparte deudora, previo cumplimiento de las condiciones establecidas en el artículo 118 del presente Reglamento y con cargo a los recursos del fideicomiso a que se refiere el artículo 121 de este ordenamiento.
+La Comisión establecerá un sistema electrónico que facilite y promueva la compensación económica entre los Regímenes Estatales, así como con los establecimientos para la atención médica públicos de carácter federal, en el cual se incluyan los montos a favor y adeudos de cada uno de los Regímenes Estatales y establecimientos para la atención médica públicos de carácter federal, así como los pagos realizados por los Regímenes Estatales.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 121.
 
-La aplicación de la garantía de pago, previa disponibilidad de recursos, se realizará mediante solicitud de la parte acreedora al fideicomiso que al efecto se establezca, previo agotamiento de las instancias establecidas en los convenios de colaboración interestatal del Sistema. Los criterios de aplicación estarán especificados en las reglas de operación del fideicomiso.
+La Secretaría, por conducto de la Comisión, pagará al Régimen Estatal acreedor o al establecimiento de salud público de carácter federal que haya prestado el servicio, el monto equivalente al adeudo que no haya sido compensado o pagado por el Régimen Estatal deudor, con cargo a los recursos a transferirse a éste, previo cumplimiento de las condiciones establecidas en las disposiciones jurídicas a que se refiere el artículo 119 del presente Reglamento.
 
-El total de las erogaciones que con cargo al referido fideicomiso se realicen para cumplir con las obligaciones de un Régimen Estatal, más los gastos administrativos respectivos, se descontarán al final del trimestre correspondiente de los recursos que a dicho Régimen Estatal le corresponda recibir por concepto de cuota social.
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 121 Bis 1.
+
+La Comisión deberá informar al Régimen Estatal deudor, el monto de los recursos federales que le correspondían que fueron transferidos por concepto de compensación económica, a los Regímenes Estatales acreedores, a fin de que éste realice las afectaciones contables y presupuestarias correspondientes, que permitan sustentar dicha operación.
+
+En virtud de lo anterior, el Régimen Estatal acreedor deberá entregar al Régimen Estatal deudor el comprobante de los recursos canalizados por concepto de compensación económica. Dicho comprobante incluirá el monto, los conceptos y demás información que determine la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 121 Bis 2.
+
+Los recursos que por concepto de compensación económica reciban los Regímenes Estatales acreedores, no se considerarán parte de los recursos federales que por concepto de cuota social y aportación solidaria federal le corresponden, y deberán destinarse a los fines del Sistema.
 
 ### CAPÍTULO IV. DE LAS CUOTAS FAMILIARES Y REGULADORAS
 
@@ -931,17 +1091,23 @@ III. Otros supuestos que fije la Comisión.
 
 La Comisión o los Regímenes Estatales, según su ámbito de competencia, deberán estar en capacidad de corroborar, mediante sustentos metodológicos, el cumplimiento de los supuestos señalados en las fracciones I a III anteriores. La verificación de pertenencia al padrón de beneficiarios de los programas de combate a la pobreza extrema del Gobierno Federal para las familias sujetas al régimen no contributivo se realizará anualmente.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 128.
 
-Las cuotas familiares que los beneficiarios del Sistema deben cubrir para ser incorporados, serán sufragadas de manera anticipada, anual y progresiva, pudiendo liquidarse de manera trimestral.
+Las cuotas familiares que los beneficiarios del Sistema deben cubrir para ser incorporados, serán sufragadas de manera anticipada, anual y progresiva, pudiendo liquidarse de manera trimestral o anual.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 129.
 
-Las cuotas familiares serán recibidas directamente por los Regímenes Estatales y se destinarán para el abasto de medicamentos, equipo y otros insumos para la salud necesarios para el Sistema.
+Las cuotas familiares serán recibidas por los Servicios Estatales de Salud, a través de los Regímenes Estatales y se destinarán a las necesidades de salud a la persona.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 130.
 
-Los Regímenes Estatales deberán informar trimestralmente a la Comisión del manejo y destino de las cuotas familiares, de conformidad con los lineamientos que para el efecto expida la Secretaría.
+Los Regímenes Estatales deberán informar trimestralmente a la Comisión del manejo, destino y comprobación del ejercicio de los recursos correspondientes de las cuotas familiares, de conformidad con los Lineamientos que para tal efecto expida ésta.
 
 ###### Artículo 131.
 
@@ -951,9 +1117,11 @@ Solamente el Consejo de Salubridad General podrá establecer las cuotas regulado
 
 Las cuotas reguladoras serán aplicables en todos los Regímenes Estatales.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 133.
 
-Los recursos recaudados por los Regímenes Estatales por concepto de cuotas reguladoras, una vez cubiertos los costos de su registro y proceso, se destinarán para financiar el abasto de medicamentos, equipo y otros insumos para la salud necesarios para la operación del Sistema, conforme a lo establecido por los artículos 77 Bis 22 y 77 Bis 23 de la Ley.
+Los recursos recibidos por los Servicios Estatales de Salud, a través de los Regímenes Estatales, por concepto de cuotas reguladoras, una vez cubiertos los costos de su registro y proceso, se destinarán a las necesidades de salud a la persona. Asimismo, la Comisión determinará la forma en que los Regímenes Estatales deberán informar sobre el manejo, destino y comprobación del ejercicio de estas cuotas.
 
 ###### Artículo 134.
 
@@ -977,15 +1145,21 @@ La prestación de servicios de salud no incluidos en los servicios cubiertos por
 
 Para los efectos del artículo 77 Bis 31 de la Ley, los Regímenes Estatales, a través de sus áreas de atención al público, recibirán y evaluarán las propuestas que realicen los beneficiarios respecto de la aplicación de sus cuotas.
 
-> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 139.
 
-Los Regímenes Estatales pondrán a disposición del público por medios remotos o locales, de comunicación electrónica, la información relativa al manejo financiero del Sistema, al cumplimiento de sus metas y a la evaluación de satisfacción del usuario.
+La Comisión pondrá a disposición del público a través de su página electrónica, la información a que se refiere el artículo 77 bis 31 de la Ley, así como la relativa a la evaluación de la satisfacción del usuario, con la finalidad de favorecer la rendición de cuentas a los ciudadanos, de manera que puedan valorar el desempeño del Sistema.
 
 ###### Artículo 140.
 
 El informe a que se refiere el artículo 77 Bis 31, último párrafo, de la Ley, será presentado al Congreso de la Unión por la Secretaría y deberá contener el universo, la cobertura, los servicios ofrecidos, así como información sobre el manejo financiero del Sistema. Dicho informe deberá presentarse en los meses de enero y julio de cada año.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 141.
+
+La Secretaría, por conducto de la Comisión, verificará el cumplimiento de las acciones que se provean en materia de protección social en salud, para lo cual podrá solicitar a las entidades federativas, por conducto de los Regímenes Estatales, la información, aclaración o corrección que corresponda, sin perjuicio de las acciones de control y fiscalización que correspondan a otras autoridades que resulten competentes.
 
 ## TRANSITORIOS
 
@@ -1047,7 +1221,7 @@ Décimo Octavo. Todas las disposiciones de carácter general que para efectos de
 
 Dado en la Residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los treinta días del mes de marzo de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Salud, Julio Frenk Mora.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 13 DE NOVIEMBRE DE 2008.
 
@@ -1062,3 +1236,11 @@ SEGUNDO. Para efectos de lo establecido en el artículo 24 del Reglamento de la 
 La Secretaría de Salud, publicará el Manual a que se refiere el párrafo anterior, dentro del término de seis meses contados a partir de la publicación del presente Decreto.
 
 Hasta en tanto sea publicado el Manual a que se refiere el presente artículo, la Secretaría de Salud, ejercerá sus atribuciones en términos de las disposiciones vigentes que resulten aplicables.
+
+D.O.F. 17 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Secretaría de Salud por sí o a través de la Comisión Nacional de Protección Social en Salud, según corresponda, emitirá las disposiciones de carácter general, criterios y los Lineamientos a que se refieren los artículos 37, 74, 82, 119 y 130 del presente Decreto, dentro de los ciento veinte días naturales siguientes a la fecha de su entrada en vigor.
+
+TERCERO. Las obligaciones pendientes de pago que a la fecha de la entrada en vigor del presente Decreto, existan por la prestación de servicios de salud a la persona del Sistema de Protección Social en Salud y se encuentren reconocidas en términos de los convenios respectivos, serán pagadas conforme a las disposiciones jurídicas vigentes al momento en que se generaron dichas obligaciones.
