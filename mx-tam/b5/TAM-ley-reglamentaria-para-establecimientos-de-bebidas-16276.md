@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2014-04-03"
+last_updated: "2014-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -165,7 +165,9 @@ XL.- Restaurante: Establecimiento donde se expenden alimentos y bebidas alcohól
 
 XLI.- Restaurant bar: Establecimiento donde se expenden alimentos para su consumo en el mismo, que en su interior cuente con una área donde solo se expendan bebidas alcohólicas, que además podrá contar con pista de baile para su clientela, menú de los platillos que expenda y alimentos suficientes para su preparación;
 
-XLII.- Salón de recepción: Lugar destinado a la realización de fiestas y bailes eventuales, el cual además se caracteriza por presentar espectáculos para la diversión de los asistentes y por enajenar bebidas alcohólicas en envase abierto y al copeo, para su consumo en el interior del mismo lugar, durante los eventos;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XLII.- Salón de recepción: Lugar destinado a la realización de fiestas y bailes eventuales, el cual además se caracteriza por presentar espectáculos para diversión de los asistentes y por prestar servicios de banquete, el cual incluye el consumo de bebidas alcohólicas en envase abierto y al copeo en el interior del mismo durante el desarrollo del evento;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
@@ -873,7 +875,7 @@ a).- A quienes no conserven, mantengan y presenten el original de la licencia o 
 
 b).- A los que no cumplan con los requisitos establecidos en el artículo 13 de esta ley;
 
-c).- A quienes vendan bebidas alcohólicas o permitan su consumo en el establecimiento, sin estar autorizado para ello en la licencia o permiso respectivo, conforme a las disposiciones de esta ley;
+c).- A quienes vendan bebidas alcohólicas o permitan su consumo en el establecimiento, sin estar autorizado para ello en la licencia o permiso respectivo, conforme a las disposiciones de ésta ley;
 
 d).- A quienes vendan o permitan el consumo de cerveza sin alimentos en los establecimientos a que se refieren las fracciones XVI y XXI del artículo 10 de esta ley; y
 
@@ -1096,3 +1098,23 @@ P.O. 3 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+El porcentaje correspondiente a los Municipios del Estado, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal establecido en el artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, no obstante lo establecido en el citado artículo, durante el año 2015 será equivalente al 37 por ciento de los ingresos obtenidos por dicho Impuesto.
+
+Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
