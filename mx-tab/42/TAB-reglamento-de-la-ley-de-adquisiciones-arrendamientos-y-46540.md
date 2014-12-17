@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-46540"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-07"
-last_updated: "2005-09-07"
+last_updated: "2014-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 7 de septiembre de 2005.
 
@@ -45,15 +45,23 @@ ACUERDO
 
 El presente ordenamiento tiene por objeto reglamentar las disposiciones de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco, con la finalidad de propiciar su oportuno y estricto cumplimiento.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 Adicionalmente a las definiciones contenidas en el artículo 2 de la Ley, para los efectos de este Reglamento se entenderá por:
 
-Subcomités: Los Subcomités de Compras de la Oficialía, Dependencias, Órganos y Entidades de la Administración Pública Estatal.
+Subcomités: Los Subcomités de Compras de la Secretaría, Dependencias, Órganos y Entidades de la Administración Pública Estatal.
+
+Sistema Electrónico: El Sistema Electrónico de Contrataciones Gubernamentales
+
+SEPLAFIN: La Secretaría de Planeación y Finanzas
 
 En todos los casos en que este Reglamento haga referencia a las adquisiciones, arrendamientos y servicios, salvo mención expresa, se entenderá que se trata, respectivamente, de adquisiciones de bienes muebles, arrendamientos de bienes muebles y prestación de servicios relacionados con dichos bienes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-Las políticas, bases y lineamientos que emita la Oficialía o el Comité con base en la Ley y el presente Reglamento en materia de adquisiciones, arrendamientos y de prestación de servicios de bienes muebles, relacionados con los actos que se mencionan en el artículo 1 de la Ley, deberán prever los siguientes aspectos:
+Las políticas, bases y lineamientos que emitan la Secretaría o el Comité de Compras con base en la Ley y el presente Reglamento en materia de adquisiciones, arrendamientos y de prestación de servicios de bienes muebles, relacionados con los actos que se mencionan en el artículo 1 de la Ley, deberán prever los siguientes aspectos:
 
 I.- La definición de criterios que permitan evaluar las proposiciones y determinar la adjudicación de los pedidos o contratos;
 
@@ -79,9 +87,17 @@ X.- Los demás que se consideren pertinentes.
 
 Las Dependencias, órganos y Entidades divulgarán en sus páginas electrónicas, las políticas, bases, lineamientos y procedimientos a que se refiere este artículo. Aquellas que no cuenten con la infraestructura técnica necesaria, deberán hacerlo a través de su Dependencia que funja como su coordinadora de sector.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 2 Bis.
+
+Para los efectos del tercer párrafo del artículo 1 de la Ley, se considerará que una Dependencia, Órgano, Entidad o persona de derecho público que funja como proveedor, tiene capacidad para entregar un bien o prestar un servicio por sí misma, cuando para cumplir con el contrato no requiera celebrar otro contrato con terceros; o bien, de requerirlo, éste no exceda del cuarenta y nueve por ciento del importe total del contrato celebrado con el ente público de que se trate.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-La Oficialía y la Contraloría, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar este Reglamento para efectos administrativos, considerando las disposiciones establecidas en la Ley.
+La Secretaría y la Contraloría, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar este Reglamento para efectos administrativos, considerando las disposiciones establecidas en la Ley.
 
 ###### Artículo 4.
 
@@ -91,25 +107,79 @@ El licitante deberá entregar junto con la propuesta técnica, copia del certifi
 
 Tratándose de distribuidor deberá presentar copia del certificado otorgado por el organismo acreditado al fabricante; si siendo distribuidor resultará ganador, deberá presentar original o copia certificada por fedatario público para su cotejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 5.
 
-La Oficialía atenderá las requisiciones de las Dependencias, Órganos y Entidades en los siguientes casos:
+La Secretaría atenderá las requisiciones de las Dependencias, Órganos y Entidades en los siguientes casos:
 
 I. Para adquirir o arrendar los bienes muebles o servicios clasificados en las partidas centralizadas;
 
 II. Los que comprendan las partidas centralizadas y descentralizadas de las Dependencias que no cuenten con Subcomité; y
 
-III. Cuando previa justificación de la Dependencia, Órgano o Entidad expresamente solicite a la Oficialía la adquisición de bienes o servicios clasificados en las partidas centralizadas y descentralizadas.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+III. Cuando previa justificación la Dependencia, Órgano o Entidad expresamente solicite a la Secretaría la adquisición de bienes o servicios clasificados en las partidas centralizadas y descentralizadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
-La Oficialía y los Subcomités, para realizar las adquisiciones a través de las distintas modalidades, deberán consolidar las compras en términos de lo dispuesto por los artículos 20 y 36 penúltimo párrafo de la Ley.
+La Secretaría y los Subcomités, para realizar las adquisiciones a través de las distintas modalidades, deberán consolidar las compras en términos de lo dispuesto por los artículos 20 y 36, penúltimo párrafo, de la Ley.
 
-La Oficialía, Dependencias, órganos y Entidades están obligadas a presentar al comité, dentro de los primeros treinta días de cada ejercicio fiscal, un Programa Anual de Adquisiciones con el objeto de consolidar al máximo la adquisición de bienes, arrendamientos y contratación de servicios, propiciando con ello una reducción en los precios de los bienes requeridos y evitando fraccionar las adquisiciones.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría, Dependencias, Órganos y Entidades están obligadas a presentar al Comité de Compras, dentro de los primeros treinta días de cada ejercicio fiscal, un Programa Anual de Adquisiciones con el objeto de consolidar al máximo la adquisición de bienes, arrendamientos y contratación de servicios, propiciando con ello una reducción en los precios de los bienes requeridos y evitando fraccionar las adquisiciones.
 
 Se entenderá que se fraccionan las compras cuando existiendo presupuesto disponible dentro del calendario de recursos, se realicen adquisiciones con la finalidad de no sujetarse al procedimiento que por el monto de la operación corresponda llevar a cabo.
 
-Los servidores públicos que participen en las diversas modalidades de adquisición se abstendrán de efectuar cualquier modificación a los límites autorizados, o de fraccionar las adquisiciones, bajo pena de incurrir en responsabilidad. Solo podrán modificar el Programa Anual de Adquisiciones cuando el Comité lo autorice.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Los servidores públicos que participen en las diversas modalidades de adquisición se abstendrán de efectuar cualquier modificación a los límites autorizados, o de fraccionar las adquisiciones, bajo pena de incurrir en responsabilidad. Sólo podrán modificar el Programa Anual de Adquisiciones cuando el Comité de Compras lo autorice.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 6 Bis.
+
+Los Contratos Marco a que se refiere el último párrafo del artículo 20 de la Ley, son los acuerdos de voluntades que celebra la Secretaría con uno o más posibles proveedores, mediante los cuales se establecen de manera general las especificaciones técnicas y de calidad, alcances, precios y condiciones que regularán las adquisiciones o arrendamientos de bienes o a la prestación de servicios que, posteriormente, mediante contratos específicos, en su caso, formalicen las Dependencias, Órganos o Entidades.
+
+La celebración de los contratos marco estará sujeta a los procedimientos de contratación previstos en la Ley. En todo caso, se atenderán los principios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, mismos que deberán reflejarse en los contratos específicos señalados en el párrafo anterior.
+
+Como parte de la promoción de los contratos marco, la Secretaría coordinará las acciones necesarias con las Dependencias, Órganos y Entidades para celebrar dichos contratos.
+
+Previamente a la celebración de un contrato marco, la Secretaría deberá realizar las siguientes acciones:
+
+I. Acordar con las Dependencias, Órganos y Entidades que considere cuenten con elementos para ello, las características técnicas y de calidad de los bienes a adquirir o arrendar o de los servicios a contratar que requiera la Administración Pública, susceptibles de ser materia de un contrato marco;
+
+II. Realizar, con el apoyo de las Dependencias, Órganos y Entidades que considere conveniente y que estén relacionadas con los bienes y servicios objeto del contrato marco, una investigación de mercado que permita verificar lo siguiente:
+
+a) Si existe oferta de bienes y servicios en la cantidad, calidad y oportunidad requerida;
+
+b) Si hay proveedores con la capacidad para cumplir con las necesidades de contratación; y
+
+c) Los precios prevalecientes en el mercado.
+
+La información obtenida en la investigación de mercado, se utilizará como referencia para determinar las condiciones a establecer en el contrato marco;
+
+III. Determinar el volumen de los bienes o servicios requeridos, para que cada contrato marco propicie la obtención de economías de escala;
+
+IV. Identificar las Dependencia, Órganos y Entidades que de acuerdo a sus necesidades, pudieran celebrar los contratos específicos al amparo del contrato marco, las que en ningún caso podrán ser menos de cinco, y
+
+V. Difundir en el Sistema Electrónico el inicio de las acciones tendientes a la celebración de cada contrato marco, a efecto de que participen el mayor número de interesados.
+
+La Secretaría elaborará, con el apoyo de las Dependencias, Órganos y Entidades que participen en las actividades señaladas en el párrafo anterior, el proyecto de contrato marco, atendiendo las disposiciones jurídicas aplicables y los principios que rigen las adquisiciones y arrendamientos de bienes y la contratación de servicios.
+
+El contrato marco será suscrito por la Dependencia, Órgano o Entidad que, en su caso, haya solicitado su celebración, con la participación de la Secretaría o, en su defecto, sólo por esta última dependencia.
+
+Cualquier posible proveedor que cumpla con los mismos requisitos y condiciones acordadas en el contrato marco, podrá adherirse al mismo con posterioridad a su firma.
+
+Las modificaciones al contrato marco que las partes acuerden realizar, deberán formalizarse a través de convenios modificatorios.
+
+La Secretaría revisará periódicamente los contratos marco que se hubieran celebrado, a efecto de verificar que continúan ofreciendo las mejores condiciones para el Estado.
+
+La Secretaría mantendrá informadas, a través del Sistema Electrónico, a las dependencias y entidades sobre los bienes o servicios objeto de los contratos marco celebrados, para que, en su caso, éstas suscriban los contratos específicos correspondientes.
+
+Las Dependencias, Órganos y Entidades podrán adquirir o arrendar los bienes o contratar los servicios objeto de los contratos marco celebrados, sin sujetarse a éstos, sólo en los casos en que acrediten con una investigación de mercado, que obtendrán mejores condiciones a las convenidas en el contrato marco. En ese caso, la dependencia o entidad deberá informar de tal hecho a la Secretaría, a efecto de que ésta evalúe la viabilidad de modificar o dar por terminado el contrato marco de que se trate, así como de tomar las acciones correspondientes para que las dependencias y entidades no realicen contrataciones al amparo del contrato marco en tanto se determina lo procedente.
 
 ###### Artículo 7.
 
@@ -131,11 +201,15 @@ Para los efectos de lo dispuesto en el artículo 34, párrafo cuarto de la Ley, 
 
 El proveedor que solo tenga sucursales en el Estado será, en el caso de las personas jurídicas colectivas, aquel cuya matriz se encuentre establecida fuera de esta Entidad Federativa; y en el caso de las personas físicas, aquel cuyo registro ante la autoridad hacendaria lo haya efectuado en otro Estado de la República.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-La Oficialía en la adjudicación de contratos de abastecimiento simultáneo a que se refiere el artículo 35 de la Ley, considerará lo siguiente:
+La Secretaría en la adjudicación de contratos de abastecimiento simultáneo a que se refiere el artículo 35 de la Ley, considerará lo siguiente:
 
-I. En las bases de la Licitación Pública o en las invitaciones de las licitaciones simplificadas, indicará el número de fuentes de abastecimientos requeridas, los rangos en cantidades o porcentajes de los bienes o servicios que se asignarán a cada una, y el porcentaje diferencial de precio considerado para determinar las proposiciones susceptibles de adjudicación, el cual no podrá ser superior al cinco por ciento, respecto de la propuesta que resulte adjudicada en términos de lo dispuesto por el artículo 34 de la Ley;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+I. En las bases de la Licitación Pública o en las invitaciones de las licitaciones simplificadas, indicará el número de fuentes de abastecimiento requeridas, los rangos en cantidades o porcentajes de los bienes o servicios que se asignarán a cada una, y el porcentaje diferencial de precio considerado para determinar las proposiciones susceptibles de adjudicación, el cual no podrá ser superior al cinco por ciento, respecto de la propuesta que resulte adjudicada en términos de lo dispuesto por el artículo 34 de la Ley;
 
 II. De no darse el supuesto de la fracción anterior, la adjudicación se efectuará al licitante que ofrezca las mejores condiciones en cada partida o concepto de la Licitación Pública;
 
@@ -145,19 +219,25 @@ IV. La asignación restante se hará conforme al orden de evaluación, a los lic
 
 V. Si alguna cantidad de bienes o servicios queda pendiente de asignación, se podrá adjudicar al proveedor seleccionado en primer lugar, o bien se declarará desierta y se procederá a efectuar otro procedimiento de licitación solo por dicha cantidad.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-La Oficialía, Dependencias, Órganos y Entidades, podrán contratar adquisiciones, arrendamientos y prestación de servicios, mediante los procedimientos señalados en el artículo 22 de la Ley, por el saldo disponible y de acuerdo a la calendarización autorizada.
+La Secretaría, Dependencias, Órganos y Entidades, podrán contratar adquisiciones, arrendamientos y prestación de servicios, mediante los procedimientos señalados en el artículo 22 de la Ley, por el saldo disponible y de acuerdo a la calendarización autorizada.
 
-Los pagos que se realicen en base a lo establecido en el párrafo anterior, se efectuarán previa recepción satisfactoria de los bienes o servicios de conformidad con el programa de entrega establecido en las bases de licitación o invitaciones, así como en el contrato.
+Los pagos que se realicen con base en lo establecido en el párrafo anterior, se efectuarán previa recepción satisfactoria de los bienes o servicios de conformidad con el programa de entrega establecido en las bases de licitación o invitaciones, así como en el contrato.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 12.
 
-Para efectos de lo dispuesto en el artículo 50, primer párrafo de la Ley, cuando los proveedores presenten para trámite de pago las facturas de manera incorrecta, la Oficialía, Dependencia, Órgano o Entidad dentro de los tres días hábiles siguientes al de su recepción, indicará al proveedor las deficiencias que deberá corregir dejando constancia de la devolución. El periodo de 35 días para pago a que se refiere la Ley se contará a partir de la fecha de presentación de la factura debidamente requisitada.
+Para efectos de lo dispuesto en el artículo 50, primer párrafo, de la Ley, cuando los proveedores presenten para trámite de pago las facturas de manera incorrecta, la Secretaría, Dependencia, Órgano o Entidad dentro de los tres días hábiles siguientes al de su recepción, indicará al proveedor las deficiencias que deberá corregir dejando constancia de la devolución. El período de treinta y cinco días naturales para pago a que se refiere la Ley se contará a partir de la fecha de presentación de la factura debidamente requisitada.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 13.
 
-Los casos no previstos en el presente Reglamento serán resueltos por el Comité.
+Los casos no previstos en el presente Reglamento serán resueltos por el Comité de Compras.
 
 ## TÍTULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -167,67 +247,137 @@ Los casos no previstos en el presente Reglamento serán resueltos por el Comité
 
 Las Dependencias, Órganos y Entidades realizarán sus adquisiciones con sujeción a lo dispuesto en el Presupuesto General de Egresos correspondiente aprobado por el H. Congreso del Estado, a lo dispuesto por la Ley Estatal de Presupuesto, Contabilidad y Gasto Público y demás disposiciones reglamentarias que resulten de observancia obligatoria.
 
-###### ARTÍCULO 15.
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-La Oficialía con base en el artículo 44, párrafo segundo de la Ley podrá celebrar actos, pedidos o contratos con una vigencia de hasta tres ejercicios fiscales.
+###### Artículo 14 Bis.
 
-En el proyecto de Presupuesto de Egresos que envíe el Titular del Ejecutivo al H. Congreso del Estado se programarán en primer término las previsiones presupuestarias necesarias para dar cumplimiento a los compromisos que la Oficialía contraiga por adquisiciones, arrendamientos y servicios con base en lo dispuesto en el presente numeral.
+Para efectos del artículo 4 de la Ley, se entenderá que existe disponibilidad de las partidas presupuestales cuando la Dependencia, Órgano o Entidad cuenten con el oficio de autorización correspondiente.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 15.
+
+La Secretaría, con base en el artículo 44, párrafo segundo, de la Ley, podrá celebrar actos, pedidos o contratos con una vigencia de hasta tres ejercicios fiscales.
+
+En el proyecto de Presupuesto de Egresos que envíe el Titular del Ejecutivo al H. Congreso del Estado se programarán en primer término las previsiones presupuestarias necesarias para dar cumplimiento a los compromisos que la Secretaría contraiga por adquisiciones, arrendamientos y servicios con base en lo dispuesto en el presente numeral.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 16.
 
-Para los efectos del artículo 14, fracciones V y VI de la Ley, la Oficialía, Dependencias, Órganos y Entidades deberán formular sus programas presupuestales considerando preferentemente, la adquisición de bienes producidos en el Estado y la contratación de servicios propios del mismo, especialmente los ofertados por los sectores económicos y empresariales prioritarios y estratégicos, cuya promoción y fomento están comprendidos en los objetivos y prioridades del Plan Estatal de Desarrollo, así como la inclusión de insumos, material, equipo, sistemas y servicios elaborados con tecnología nacional.
+Para los efectos del artículo 14, fracciones V y VI de la Ley, la Secretaría, Dependencias, Órganos y Entidades deberán formular sus programas presupuestales considerando preferentemente, la adquisición de bienes producidos en el Estado y la contratación de servicios propios del mismo, especialmente los ofertados por proveedores de los sectores económicos y empresariales prioritarios y estratégicos, cuya promoción y fomento están comprendidos en los objetivos y prioridades del Plan Estatal de Desarrollo, así como la inclusión de insumos, material, equipo, sistemas y servidos elaborados con tecnología nacional.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 17.
 
-Para efectos de lo dispuesto en el artículo 16 de la Ley, las Dependencias, Órganos o Entidades no podrán financiar a proveedores la adquisición, arrendamiento de bienes o la prestación de servicios. Existe financiamiento cuando se otorgan al proveedor uno o más pagos con el fin de que éste adquiera a terceros los bienes que habrá de suministrar a las Dependencias, Órganos o Entidades, excepto cuando se trate de proyectos de infraestructura para el desarrollo, que implique la adquisición de bienes o servicios destinados al equipamiento de inmuebles considerados como obra pública, previa autorización de la Oficialía.
+Para los efectos de lo dispuesto en el artículo 16 de la Ley, las Dependencias, Órganos o Entidades no podrán financiar a proveedores la adquisición, arrendamiento de bienes o la prestación de servicios. Existe financiamiento cuando se otorgan al proveedor uno o más pagos con el fin de que éste adquiera a terceros los bienes que habrá de suministrar a las Dependencias, Órganos o Entidades, excepto cuando se trate de proyectos de infraestructura para el desarrollo, que implique la adquisición de bienes o servicios destinados al equipamiento de inmuebles considerados como obra pública, previa autorización de la Secretaría.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 18.
 
-Los anticipos que otorguen la Oficialía, Dependencias, Órganos y Entidades con base en el artículo 31 fracción II de la Ley, deberán amortizarse proporcionalmente en cada uno de los pagos; su garantía deberá constituirse en la misma moneda en la que se otorgue el anticipo y de conformidad con las disposiciones legales aplicables. Lo anterior deberá establecerse en las bases de Licitación Pública y en los contratos respectivos.
+Los anticipos que otorguen la Secretaría, Dependencias, Órganos y Entidades con base en el artículo 31, fracción II, de la Ley, deberán amortizarse proporcionalmente en cada uno de los pagos; su garantía deberá constituirse en la misma moneda en la que se otorgue el anticipo y de conformidad con las disposiciones legales aplicables. Lo anterior deberá establecerse en las bases de Licitación Pública y en los contratos respectivos.
 
-La Oficialía, Dependencia, Órgano o Entidad contratante otorgará, por lo menos el veinte por ciento de anticipo, únicamente a proveedores fabricantes cuando el proceso de manufactura de los bienes que elaboren sea superior a noventa días, excepto cuando el proveedor renuncie por escrito a este derecho.
+La Secretaría, Dependencia, Órgano o Entidad contratante otorgará, por lo menos, el veinte por ciento de anticipo, únicamente a proveedores fabricantes cuando el proceso de manufactura de los bienes que elaboren sea superior a noventa días, excepto cuando el proveedor renuncie por escrito a este derecho.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 19.
 
-Para efectos del artículo 31, último párrafo de la Ley, las fianzas expedidas por las instituciones correspondientes deberán contener como mínimo las siguientes declaraciones expresas:
+Para efecto del artículo 31, último párrafo, de la Ley, las fianzas expedidas por las instituciones correspondientes deberán contener como mínimo las siguientes declaraciones expresas:
 
-I. La presente fianza se otorga para garantizar todas y cada una de las obligaciones contenidas en el pedido o contrato.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-II. Que la afianzadora se somete expresamente a procedimientos especiales establecidos en el artículo 95 de la Ley Federal de Instituciones de Fianzas para la efectividad de las fianzas, aún para el caso de que procediera el cobro de intereses.
+I. La presente fianza se otorga para garantizar todas y cada una de las obligaciones contenidas en el contrato.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+II. Que la afianzadora se somete expresamente a procedimientos especiales establecidos en el artículo 95 de la Ley Federal de Instituciones de Fianzas para efectividad de las fianzas, aún para el caso de que procediera el cobro de intereses.
 
 III. Que la afianzadora acepta expresamente someterse a los procedimientos de ejecución previstos en la Ley Federal de Instituciones de Fianzas para la efectividad de las fianzas, aún para el caso de que procediera el cobro de intereses.
 
-IV. Que la fianza estará vigente durante la substanciación de todos los recursos legales o juicios que se interpongan y hastíen en tanto se dicte resolución definitiva por autoridad competente.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+IV. Que la fianza estará vigente durante la substanciación de todos los recursos legales o juicios que se interpongan y hasta en tanto se dicte resolución definitiva por autoridad competente.
 
 V. La presente póliza de fianza no se sujetará a lo previsto en el artículo 120 de la Ley Federal de Instituciones de Fianzas, por lo cual la figura jurídica de caducidad no le será aplicada.
 
-VI. En caso de otorgamiento de prórroga o espera derivada de la formalización de convenios de ampliación al monto o al plazo de ejecución del pedido o contrato, se deberá obtener la modificación de la fianza en un plazo no mayor de diez días naturales a la notificación que se haga al proveedor por escrito por parte de la Oficialía, Dependencia, Órgano o Entidad.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-VII. Para liberar la fianza será requisito indispensable la manifestación expresa y por escrito de la Oficialía, Dependencia, Órgano o Entidad.
+VI. En caso de otorgamiento de prórroga o espera derivada de la formalización de convenios de ampliación al monto o al plazo de ejecución del contrato, se deberá obtener la modificación de la fianza en un plazo no mayor de diez días naturales a la notificación que se haga por escrito al proveedor, por parte de la Secretaría, Dependencia, Órgano o Entidad.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+VII. Para liberar la fianza será requisito indispensable la manifestación expresa y por escrito de la Secretaría, Dependencia, Órgano o Entidad.
 
 VIII. Que las partes convienen que la presente póliza es de carácter indivisible.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 19 Bis.
+
+La garantía de seriedad de la propuesta a la que se refiere la fracción I del artículo 31 de la Ley, no incluirá el Impuesto al Valor Agregado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 20.
 
-La Oficialía, Dependencias y Órganos deberán solicitar a la Secretaría la liberación de la fianza respectiva, cuando el proveedor haya cumplido con las obligaciones contraídas en el pedido o contrato correspondiente.
+La Secretaría, Dependencias y Órganos deberán solicitar a la SEPLAFIN la liberación de la fianza respectiva cuando el proveedor haya cumplido con las obligaciones contraídas en el pedido o contrato correspondiente.
 
 Las Entidades liberarán las fianzas que se constituyan a su favor, de acuerdo a lo señalado en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 21.
 
-Cuando se requiera hacer efectivas las fianzas, la Oficialía, Dependencias y Órganos deberán remitir a la Secretaría, la solicitud conteniendo la información necesaria para identificar la obligación o crédito que se garantiza y los sujetos que se vinculan con la fianza, debiendo acompañar los documentos que soporten y justifiquen el cobro; tratándose de Entidades se remitirá al área correspondiente.
+Cuando se quiera hacer efectivas las fianzas, la Secretaría, Dependencias y Órganos deberán remitir a la SEPLAFIN, la solicitud conteniendo la información necesaria para identificar la obligación o crédito que se garantiza y los sujetos que se vinculan con la fianza, debiendo acompañar los documentos que soporten y justifiquen el cobro; tratándose de Entidades se remitirá al área correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 21 Bis.
+
+Se podrá eximir a los proveedores de presentar la fianza de cumplimento cuando se trate de:
+
+I. Pedidos;
+
+II. Adquisiciones, arrendamientos o prestación de servicios que no rebasen el importe determinado por el Comité de Compras, con base en el artículo 48, fracción III de este Reglamento;
+
+III. Adjudicaciones directas en los supuestos de los artículos 39, fracciones III, VI, VIII y IX, de la Ley; y
+
+IV. Adjudicaciones directas fundamentadas en lo dispuesto por el artículo 39 Bis de la Ley.
+
+La garantía de cumplimiento del contrato deberá presentarse en el plazo a que se refiere la fracción III del artículo 32 de la Ley; salvo que la entrega de los bienes o la prestación de los servicios se realicen dentro del citado plazo.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 21 Ter.
+
+En los pedidos y contratos en que se exima al proveedor de presentar fianza de cumplimiento, se pactará invariablemente que:
+
+I. El pago del importe estipulado en el pedido o contrato se realizará por parcialidades, previa verificación de los avances respectivos o hasta que el proveedor entregue la totalidad de los bienes o concluya los servicios;
+
+II. En caso de incumplimiento por parte del proveedor, se aplicará como pena convencional la suspensión del pago de las parcialidades correspondientes a los bienes no entregados o servicios no realizados, o bien del importe total del pedido o contrato y
+
+III. El proveedor se obliga a responder por los defectos o vicios ocultos que presenten los bienes o servicios objeto del pedido o contrato y por los daños y perjuicios que se deriven de su incumplimiento.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 22.
 
-Los lotes contenidos en las requisiciones que señalen marca, modelo o proveedor serán improcedentes, excepto cuando el Comité lo autorice previa solicitud de la Oficialía, Dependencia, Órgano o Entidad, en los casos previstos por los artículo 21 párrafo segundo, 39, fracciones VII y IX de la Ley.
+Los lotes o partidas contenidos en las requisiciones que señalen marca, modelo o proveedor serán improcedentes, excepto cuando el Comité de Compras lo autorice previa solicitud de la Secretaría, Dependencia, Órgano o Entidad, en los casos previstos por los artículos 21, párrafo segundo; y 39, fracciones VII y IX, de la Ley.
 
 ### CAPÍTULO SEGUNDO. DEL PADRÓN DE PROVEEDORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-De conformidad con lo dispuesto en los artículos 59 y Cuarto Transitorio de la Ley y las normas que dicte la Contraloría, el Padrón de Proveedores de Bienes Muebles y Servicios relacionados con los mismos del Estado de Tabasco será único, estará bajo el control de la Oficialía y será de observancia obligatoria para ésta y para las Dependencias, Órganos y Entidades del Poder Ejecutivo.
+De conformidad con lo dispuesto en el artículo 59 de la Ley y las normas que dicte la Contraloría, el Padrón, como se denomina en el glosario de la Ley al Registro de Proveedores de Bienes Muebles y Servicios del Estado de Tabasco, será único, estará bajo el control de la Secretaría y será de observancia obligatoria para ésta y para las Dependencias, Órganos y Entidades del Poder Ejecutivo.
 
-Las personas interesadas en vender o arrendar bienes muebles o prestar servicios relacionados con dichos bienes a la Oficialía, Dependencias, Órganos y Entidades del Poder Ejecutivo del Estado deberán registrarse en el Padrón mediante solicitud por escrito, a través del formato denominado “solicitud de inscripción y modificación” que emita la Oficialía, acompañando según su naturaleza jurídica y características la siguiente información y documentos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Las personas interesadas en vender o arrendar bienes muebles o prestar servicios relacionados con dichos bienes a la Secretaría, Dependencias, Órganos y Entidades del Poder Ejecutivo del Estado deberán registrarse en el Padrón mediante solicitud por escrito, a través del formato denominado "Solicitud de Inscripción y Modificación" que emita la Secretaría, acompañando según su naturaleza jurídica y características la siguiente información y documentos:
 
 1. Datos generales de la persona física o jurídica colectiva;
 
@@ -239,99 +389,159 @@ Las personas interesadas en vender o arrendar bienes muebles o prestar servicios
 
 5. Cédula del Registro Federal de Contribuyentes;
 
-6. Comprobante de registro de domicilio fiscal en el Estado;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-7. Identificación oficial vigente del representante legal;
+6. Comprobante de registro de domicilio fiscal en el Estado; el cual podrá ser verificado sin previo aviso por la Secretaría, para su permanencia en el Padrón;
 
-8. Última declaración del impuesto sobre la renta;
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-9. Registro en el Instituto Mexicano del Seguro Social;
+7. Sello oficial de la persona física o jurídica colectiva a registrar;
 
-10. Experiencia y especialidad;
+8. Identificación oficial vigente del representante legal;
 
-11. Listado de productos y/o servicios (genéricos);
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-12. Recursos técnicos, económicos y financieros con que cuente el solicitante; y
+9. Última declaración del Impuesto Sobre la Renta;
 
-13. Los demás documentos e información que la Oficialía o el propio interesado consideren pertinentes.
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+10. Opinión positiva del cumplimiento de obligaciones fiscales actualizada, emitida por el Servicio de Administración Tributaria (SAT).
+
+11. Registro en el Instituto Mexicano del Seguro Social;
+
+12. Experiencia y especialidad;
+
+13. Listado de productos y/o servicios (genéricos);
+
+14. Recursos técnicos, económicos y financieros con que cuente el solicitante; y
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+15. Los demás documentos e información que la Secretaría o el propio interesado consideren pertinentes.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 24.
 
-La resolución que tome la Oficialía sobre la solicitud de registro al Padrón será notificada al interesado dentro los cinco días hábiles siguientes a la solicitud; en caso de ser procedente la Oficialía asignará al proveedor un número de registro, el cual hará las veces de clave e identificación.
+La resolución que tome la Secretaría sobre la solicitud de registro al Padrón será notificada al interesado dentro los seis días hábiles siguientes, para lo cual deberá presentarse en las instalaciones de la Secretaría. En caso de ser procedente la Secretaría asignará al proveedor un número de registro, el cual hará las veces de clave e identificación.
+
+Los proveedores tendrán un plazo de 30 días naturales para recoger la cédula que recaiga a su solicitud de inscripción. La Secretaría cancelará la solicitud presentada por el proveedor, cuando el plazo a que hace referencia este párrafo haya concluido sin que éste se haya apersonado a continuar con su registro.
+
+La vigencia del registro en el Padrón será de un año calendario. Para efectos de determinar la vigencia del registro positivo en el Padrón, se tomará como referencia la fecha en que sea recibida la cédula correspondiente por parte del proveedor.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 25.
 
-La persona física o jurídica colectiva que al inscribirse en el Padrón obtenga su registro adquirirá el carácter de proveedor; en consecuencia la Oficialía, Dependencias, Órganos y Entidades no podrán exigir que éstos se encuentren inscritos en otro registro distinto para licitar o contratar.
+La persona física o jurídica colectiva que al inscribirse en el Padrón obtenga su registro adquirirá el carácter de proveedor; en consecuencia la Secretaría, Dependencias, Órganos y Entidades no podrán exigir que éstos se encuentren inscritos en otro registro distinto para licitar o contratar.
 
-La Oficialía y la Contraloría emitirán las disposiciones administrativas necesarias para la correcta operación del Padrón.
+La Secretaría y la Contraloría emitirán las disposiciones administrativas necesarias para la correcta operación del Padrón.
+
+La SEPLAFIN publicará en medios electrónicos oficiales, de manera mensual, el listado de personas físicas y jurídicas colectivas impedidas para contratar adquisiciones, arrendamientos, servicios u obra pública conforme al artículo 32-D del Código Fiscal de la Federación.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 26.
 
-En el mes de junio de cada año, la Oficialía publicará en el Periódico Oficial del Estado la relación de personas físicas o jurídicas colectivas, inscritas en el Padrón.
+En el mes de junio de cada año, la Secretaría publicará en el Periódico Oficial del Estado la relación de personas físicas o jurídicas colectivas, inscritas en el Padrón.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 27.
 
-Los proveedores comunicarán por escrito a la Oficialía a través del formato descrito en el artículo 23 párrafo segundo de este Reglamento, los cambios que tuvieren con respecto a los datos presentados en su solicitud incluyendo las modificaciones de la documentación, cuando consideren que ello implica un cambio en la clasificación. La Oficialía resolverá lo conducente en un plazo que no excederá de tres días hábiles contados a partir de la fecha en que reciba la comunicación.
+Los proveedores comunicarán por escrito a la Secretaría a través del formato descrito en el artículo 23, párrafo segundo, de este Reglamento, los cambios que tuvieren con respecto a los datos presentados en su solicitud incluyendo las modificaciones de la documentación, cuando consideren que ello implica un cambio en la clasificación. La Secretaría resolverá lo conducente en un plazo que no excederá de seis días hábiles contados a partir de la fecha en que reciba la comunicación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 28.
 
-Las Dependencias, Órganos y Entidades deberán solicitar a la Oficialía la inhabilitación del registro de un proveedor, cuando tengan conocimiento que éste se encuentra dentro de alguno de los supuestos de inhabilitación que establece la Ley y el presente Reglamento, fundando y motivando su solicitud.
+Las Dependencias, Órganos y Entidades deberán solicitar a la Secretaría la inhabilitación del registro de un proveedor, cuando tengan conocimiento que éste se encuentra dentro de alguno de los supuestos de inhabilitación que establece la Ley y el presente Reglamento, fundando y motivando su solicitud.
 
-La Oficialía podrá negar la inscripción del registro de un proveedor en el Padrón observando el siguiente procedimiento:
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-I. Comunicará por escrito al proveedor los hechos que ameriten la negativa de inscripción al Padrón, para que en un plazo no mayor de diez días hábiles a partir de su notificación, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
+La Secretaría podrá negar la inscripción del registro a una persona física o jurídica colectiva en el Padrón observando el siguiente procedimiento:
 
-II. Transcurrido el término a que se refiere la fracción anterior, la Oficialía resolverá considerando los argumentos y pruebas que hubiere hecho valer el proveedor; y
+I. Comunicará por escrito al interesado los hechos que ameriten la negativa de inscripción al Padrón, para que en un plazo no mayor de 10 días hábiles a partir de su notificación, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
 
-III. La Oficialía fundará y motivará debidamente la resolución que proceda y la comunicará por escrito al proveedor.
+II. Transcurrido el término a que se refiere la fracción anterior, la Secretaría resolverá considerando los argumentos y pruebas que hubiere hecho valer el proveedor; y
+
+III. La Secretaría fundará y motivará debidamente la resolución que proceda y la comunicará por escrito al proveedor.
 
 Cuando desaparezcan las causas que originaron la negativa de inscripción, el interesado podrá iniciar nuevamente los trámites de solicitud de inscripción.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 29.
 
-Las personas físicas o jurídicas colectivas que pretendan participar en los procedimientos de adquisiciones, arrendamientos o prestación de servicios a que se refiere la Ley, lo harán siempre y cuando posean plena capacidad y personalidad jurídica para celebrar los pedidos y contratos respectivos, de conformidad con las disposiciones legales que regulan su objeto social o constitución; se encuentren inscritas en el Padrón, su registro se encuentre vigente y satisfagan los demás requisitos que establecen la Ley y este Reglamento.
+Las personas físicas o jurídicas colectivas que pretendan participar en los procedimientos de adquisiciones, arrendamientos o prestación de servicios a que se refiere la Ley, lo harán siempre y cuando posean plena capacidad y personalidad jurídica para celebrar los pedidos y contratos respectivos, de conformidad con las disposiciones legales que regulan su objeto social o constitución; se encuentren inscritas en el Padrón en el rubro correspondiente a los bienes, arrendamientos o prestación de servicios objeto del pedido o contrato a celebrarse, su registro se encuentre vigente y satisfagan los demás requisitos que establecen la Ley y este Reglamento.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 30.
 
-En contra de las resoluciones que nieguen las solicitudes de inscripción o revalidación, determinen la suspensión o cancelación del registro, el proveedor podrá interponer el recurso de revisión en un plazo no mayor de diez días hábiles contados a partir de la notificación de la resolución, expresando los agravios que se le causen y ofreciendo las pruebas pertinentes, sin éstos requisitos el recurso se desechara de plano.
+En contra de las resoluciones que nieguen las solicitudes de inscripción o revalidación, determinen la suspensión o cancelación del registro, el proveedor podrá interponer el recurso de revisión en un plazo no mayor de diez días hábiles contados a partir de la notificación de la resolución de que se trate, expresando los agravios que se le causen y ofreciendo las pruebas pertinentes. Si incumple con tales requisitos el recurso se desechará de plano.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
-La Oficialía proporcionará todas las facilidades para la incorporación de los proveedores al Padrón, previo cumplimiento de las disposiciones legales.
+La Secretaría proporcionará todas las facilidades para la incorporación al Padrón de las personas que lo soliciten, previo cumplimiento de las disposiciones legales.
 
 ## TÍTULO TERCERO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
 
 ### CAPÍTULO PRIMERO. DE LA LICITACIÓN MEDIANTE CONVOCATORIA PÚBLICA
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 32.
 
-Por regla general la Oficialía, Dependencias, Órganos y Entidades adjudicarán las adquisiciones, arrendamientos y prestación de servicios a que se refiere la Ley, a través de Licitación Mediante Convocatoria Pública de conformidad con lo dispuesto en el artículo 21 de la Ley.
+Por regla general la Secretaría, Dependencias, Órganos y Entidades adjudicarán las adquisiciones, arrendamientos y prestación de servicios a que se refiere la Ley, a través de Licitación mediante Convocatoria Pública de conformidad con lo dispuesto en el artículo 21 de la Ley.
 
-La Oficialía, Dependencias, Órganos y Entidades, podrán optar por llevar a cabo el procedimiento anterior o celebrar pedidos y contratos a través de los procedimientos de licitación simplificada mayor, licitación simplificada menor o compra directa, con sujeción a las formalidades y supuestos que establece la Ley y el presente Reglamento.
+La Secretaría, Dependencias, Órganos y Entidades, podrán optar por llevar a cabo el procedimiento anterior o celebrar pedidos y contratos a través de los procedimientos de licitación simplificada mayor, licitación simplificada menor o adjudicación directa, con sujeción a las formalidades y supuestos que establecen la Ley y el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 33.
 
-La Oficialía efectuará el procedimiento de Licitación Mediante Convocatoria Pública. Las Dependencias, órganos y Entidades podrán llevar a cabo este procedimiento a través de sus respectivos Subcomités, previa autorización del Comité de conformidad con lo dispuesto en el artículo 23 de la Ley.
+La Secretaría efectuará el procedimiento de Licitación mediante Convocatoria Pública. Las Dependencias, Órganos y Entidades podrán llevar a cabo este procedimiento a través de sus respectivos Subcomités, previa autorización del Comité de Compras de conformidad con lo dispuesto en el artículo 23 de la Ley.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 34.
 
-La Oficialía y los Subcomités aprobarán las bases y convocatoria de sus propias licitaciones mediante convocatoria pública. Oficialía y Contraloría intervendrán en el ámbito de su competencia de conformidad con las disposiciones que les señale la Ley, el presente Reglamento y las disposiciones aplicables.
+La Secretaría y los Subcomités aprobarán las bases y convocatoria de sus propias licitaciones mediante convocatoria pública. La Secretaría y la Contraloría intervendrán en el ámbito de su competencia de conformidad con las disposiciones que les señalen la Ley, el presente Reglamento y las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 34 Bis.
+
+El Subcomité de la Secretaría podrá realizar de manera simultánea diversos procedimientos de adquisiciones, para lo cual nombrará representantes para cada uno de ellos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 35.
 
-En las bases de Licitación Pública, la Oficialía, Dependencias, Órganos y entidades además de los requisitos que establece el artículo 27 de la Ley, deberán indicar lo siguiente:
+En las bases de Licitación Pública, la Secretaría, Dependencias, Órganos y Entidades además de los requisitos que establece el artículo 27 de la Ley, deberán indicar lo siguiente:
 
 I. Que los licitantes deberán entregar junto con la propuesta técnica, copia del recibo de pago de las bases respectivas, en caso contrario no se admitirá su participación, excepto cuando la convocante determine que estarán exentas de pago.
 
-II. Que será requisito el que los licitantes presenten una declaración de integridad, en la que manifiesten por sí mismos o través de interpósita persona, se abstendrán de adoptar conductas que induzcan a los servidores públicos de la convocante a alterar las evaluaciones de las proposiciones, el resultado del procedimiento u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-III. En caso de requerirse de la realización de pruebas, el método para verificar el cumplimiento de las especificaciones solicitadas y el resultado mínimo que deba obtenerse.
+II. Que será requisito el que los licitantes presenten una declaración de integridad, en la que manifiesten que por sí mismos o través de interpósita persona, se abstendrán de adoptar conductas que induzcan a los servidores públicos de la convocante, a alterar las evaluaciones de las proposiciones, el resultado del procedimiento u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes.
 
-IV. Establecer el precio máximo de referencia, a partir del cual sin excepción, los licitantes como parte de su propuesta económica ofrezcan porcentajes de descuento, mismos que serán objeto de evaluación y adjudicación.
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-En este supuesto, el precio y el descuento respectivo permanecerán fijos durante la vigencia del contrato, salvo que se establezca mecanismo de ajuste a que se refiere el artículo 41, párrafo quinto de la Ley.
+III. Que será requisito el que los licitantes presenten el reporte de opinión positiva del cumplimiento de obligaciones fiscales actualizada, emitida por el Servicio de Administración Tributaria (SAT).
 
-V. Establecer el agrupamiento de varios bienes o servicios en un solo lote o partida, cuando así convenga a la convocante en virtud de la indivisibilidad del bien que se pretenda adjudicar.
+IV. En caso de requerirse de la realización de pruebas, el método para verificar el cumplimiento de las especificaciones solicitadas y el resultado mínimo que deba obtenerse.
+
+V. Establecer el precio máximo de referencia, a partir del cual sin excepción, los licitantes como parte de su propuesta económica ofrezcan porcentajes de descuento, mismos que serán objeto de evaluación y adjudicación.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+En este supuesto, el precio y el descuento respectivo permanecerán fijos durante la vigencia del contrato, salvo que se establezca mecanismo de ajuste a que se refiere el artículo 41, párrafo quinto, de la Ley.
+
+VI. Establecer el agrupamiento de varios bienes o servicios en un solo lote o partida, cuando así convenga a la convocante en virtud de la indivisibilidad del bien que se pretenda adjudicar.
 
 ###### Artículo 36.
 
@@ -339,15 +549,21 @@ Las licitaciones mediante convocatoria pública se llevarán a efecto a través 
 
 I. Publicación de la convocatoria.
 
-De conformidad con lo dispuesto en el artículo 26 de la Ley se publicará la Convocatoria en uno de los diarios de mayor circulación en la Entidad, así como en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+De conformidad con lo dispuesto en el artículo 26 de la Ley, se publicará la Convocatoria en el Periódico Oficial del Estado, en medios electrónicos oficiales o en aquellos que resulten idóneos para su difusión.
 
 Para efectos de lo dispuesto en el artículo 26, fracción II de la Ley, la Convocatoria contemplará la descripción general de los bienes o servicios, señalando cantidad y unidad de medida de hasta cinco partidas objeto de la licitación. Las bases de la licitación contendrán las especificaciones y los demás requisitos a que se refiere esta fracción.
 
-La incorporación de la convocatoria al Sistema Electrónico de Contrataciones Gubernamentales, se sujetará a las disposiciones relativas y aplicables que emita la Secretaría de Contraloría.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+La incorporación de la convocatoria al Sistema Electrónico se sujetará a las disposiciones relativas y aplicables que emita la Contraloría.
 
 II. Venta de bases.
 
-La venta de bases para la licitación mediante convocatoria pública se efectuará a partir de la fecha de publicación de la convocatoria en la forma y lugar que indique la misma.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+La venta de bases para la licitación mediante convocatoria pública se efectuará a partir de la fecha de publicación de la convocatoria en la forma y lugar que indique la misma, hasta por cinco días hábiles.
 
 Cuando las bases impliquen un costo, este será fijado solo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen.
 
@@ -357,13 +573,17 @@ Los interesados podrán consultar las bases a través de los medios de difusión
 
 III. Modificación de convocatoria y/o bases.
 
-La Oficialía, el Comité y los Subcomités podrán modificar la convocatoria y las bases de la licitación hasta cinco días naturales antes de la fecha señalada para la presentación y apertura de proposiciones técnicas.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría, el Comité de Compras y los Subcomités podrán modificar la convocatoria y las bases de la licitación hasta cinco días naturales antes de la fecha señalada para la presentación y apertura de proposiciones técnicas.
 
 Las modificaciones se darán a conocer a los licitantes con las formalidades que establece el artículo 29 de Ley.
 
 Las modificaciones a la convocatoria a que alude el artículo 29, fracción I de la Ley, serán publicadas por una sola ocasión, en los mismos medios en que se haya publicado la convocatoria original; por ningún motivo se realizarán publicaciones adicionales en otros medios de comunicación distintos a los primeros.
 
-Las modificaciones a las bases de la Licitación Pública a que se refiere el artículo 29, fracción II de la Ley se harán por escrito y podrán enviarse a través de medios de comunicación electrónicos y los previstos en la Ley del Servicio Postal Mexicano y sus disposiciones reglamentarias; servirá como acuse de recibo para la convocante la comunicación que envíen los proveedores por fax, telegrama, correo certificado, mensajería especializada o correo electrónico.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Las modificaciones a las bases de la Licitación Pública a que se refiere el artículo 29, fracción II de la Ley se harán por escrito y podrán enviarse a través de medios de comunicación electrónicos y los previstos en la Ley del Servicio Postal Mexicano y sus disposiciones reglamentarias; servirá como acuse de recibo para la convocante la comunicación que envíen los proveedores por fax, correo certificado, mensajería especializada o correo electrónico.
 
 IV. Junta de aclaraciones.
 
@@ -389,13 +609,19 @@ La convocante llevará a cabo esta etapa de conformidad con el procedimiento dis
 
 Lo anterior se hará constar en el acta que al efecto se levante.
 
-Se elaborará un dictamen técnico por parte del personal que designe la convocante, en el que se hará constar el cumplimiento o incumplimiento de las proposiciones presentadas para cada una de las partidas en cuanto a los aspectos técnicos, mismo que servirá como fundamento para la adjudicación que realice la convocante. Los responsables de su elaboración están obligados a suscribirlo.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Se elaborará un dictamen técnico por parte del personal que designe la convocante, en el que se hará constar el cumplimiento o causas de incumplimiento de las proposiciones presentadas para cada una de las partidas en cuanto a los aspectos técnicos, mismo (sic) que servirán como fundamento para la adjudicación que realice la convocante. Los responsables de su elaboración están obligados a suscribirlo.
 
 B). Etapa económica:
 
 Se realizará conforme al procedimiento señalado en el artículo 33 inciso b) de la Ley, el presente Reglamento, las disposiciones que estipule la convocante en las bases y las demás relativas y aplicables.
 
 Se dará lectura a los importes totales de las proposiciones económicas aceptadas y se levantará el acta de esta etapa.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Los precios unitarios deberán sostenerse aún en caso de errores aritméticos.
 
 Se elaborará el cuadro comparativo de las proposiciones económicas admitidas de conformidad con el artículo 34 de la Ley.
 
@@ -409,9 +635,13 @@ El cuadro comparativo deberá contener por lo menos, los siguientes datos:
 
 4) Número de requisición;
 
-5) Número de reunión;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-6) Tipo de reunión;
+5) Número de reunión o licitación;
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+6) Tipo de reunión o licitación;
 
 7) Número de asunto del orden del día;
 
@@ -483,9 +713,19 @@ Las actas que se levanten en cualquier momento del procedimiento de Licitación 
 
 8) Rúbricas en cada una de las hojas y firmas al final del acta, de los participantes.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 37 Bis.
+
+Cuando se advierta en el acta la existencia de un error aritmético, mecanográfico o de cualquier otra naturaleza, el titular del área responsable del procedimiento de contratación procederá a su corrección, dentro de los seis días hábiles siguientes a su notificación, y en el caso del acta de fallo siempre que no se haya firmado el contrato. La corrección deberá hacerse con la intervención del superior jerárquico, aclarando o rectificando el mismo, mediante acta administrativa en la que se harán constar los motivos que lo originaron y las razones que sustentan su enmienda, hecho que se notificará a los licitantes que hubieran participado en el procedimiento de contratación, por el mismo medio, remitiendo copia de la misma a la Contraloría dentro de los cinco días hábiles posteriores a la fecha de su firma.
+
+Si el error cometido en el fallo no fuera susceptible de corrección conforme a lo dispuesto en el párrafo anterior, el servidor público responsable dará vista de inmediato al Comité de Compras, a efecto de que se emitan las directrices para su reposición.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 38.
 
-La convocante declarará desierta una Licitación Pública cuando:
+La convocante declarará desierta una Licitación Pública o determinados lotes o partidas cuando:
 
 I. No se reciban proposiciones en el acto de presentación y apertura de proposiciones.
 
@@ -493,11 +733,15 @@ II. Las proposiciones presentadas no reúnan las condiciones legales técnicas y
 
 III. Si se considera que las proposiciones presentadas no convienen a los intereses del Estado.
 
-Una vez declarado desierto el procedimiento de Licitación Pública, la convocante con sujeción a lo dispuesto en el artículo 25, fracción II de la Ley, podrá adjudicar de manera directa el pedido o contrato, realizando el procedimiento establecido en los artículos 48 y 49 de este Reglamento.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Una vez declarado desierto el procedimiento de Licitación Pública o determinados lotes o partidas, la convocante con sujeción a lo dispuesto en el artículo 25, fracción II de la Ley, podrá adjudicar de manera directa el pedido o contrato, realizando el procedimiento establecido en los artículos 48 y 49 de este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 39.
 
-La Oficialía cancelará el procedimiento de licitación mediante convocatoria pública en los siguientes casos:
+La Secretaría cancelará el procedimiento de licitación mediante convocatoria pública o simplificada; o bien determinados lotes o partidas, en los siguientes casos:
 
 I. Cuando se extinga la necesidad de adquirir o arrendar los bienes o contratar la prestación de los servicios;
 
@@ -505,17 +749,29 @@ II. Cuando de continuar con el procedimiento se pudiera ocasionar un daño o per
 
 III. Por no convenir a los intereses del Estado.
 
-Las Dependencias, Órganos y Entidades ejercerán esta facultad previa autorización del Comité.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Las Dependencias, Órganos y Entidades ejercerán esta facultad previa autorización del Comité de Compras.
 
 ### CAPÍTULO SEGUNDO. DE LAS LICITACIONES SIMPLIFICADAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 40.
 
-Las adquisiciones, arrendamientos y prestación de servicios que lleven a cabo la Oficialía, Dependencias, Órganos y Entidades de conformidad con el artículo 36 de la Ley bajo la modalidad de la Licitación Simplificada, por su monto de operación se clasifican de la siguiente manera:
+Las adquisiciones, arrendamientos y prestación de servicios que lleven a cabo las Dependencias, Órganos y Entidades de conformidad con el artículo 36 de la Ley bajo la modalidad de Licitación Simplificada, por su monto de operación se clasifican de la siguiente manera:
 
 I. Licitación Simplificada Mayor: Corresponden a esta modalidad, las adquisiciones, arrendamientos y prestación de servicios hasta por un monto de veintinueve mil cuatrocientos once veces el salario mínimo diario vigente en el Estado de Tabasco, sin incluir el Impuesto al Valor Agregado.
 
 II. Licitación Simplificada Menor: Corresponden a esta modalidad, las adquisiciones, arrendamientos y prestación de servicios hasta por un monto de once mil ciento setenta y cuatro veces el salario mínimo diario vigente en el Estado de Tabasco, sin incluir el Impuesto al Valor Agregado; y
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Para el cumplimiento de las facultades que otorga a la Secretaría el artículo 20 de la Ley en materia de adquisición o contratación consolidada y de conformidad con el artículo 36 de la propia Ley, se podrá contratar la adquisición de bienes, arrendamientos o prestación de servicios bajo la modalidad de Licitación Simplificada, conforme a la siguiente clasificación:
+
+I.- Licitación Simplificada Mayor: Corresponden a esta modalidad, las adquisiciones, arrendamientos y prestación de servicios hasta por un monto de cuarenta y dos mil seiscientos cuarenta y seis veces el salario mínimo diario vigente en el Estado de Tabasco, sin incluir el Impuesto al Valor Agregado.
+
+II.- Licitación Simplificada Menor: Corresponden a esta modalidad, las adquisiciones, arrendamientos y prestación de servicios hasta por un monto de dieciséis mil doscientos dos veces el salario mínimo diario vigente en el Estado de Tabasco, sin incluir el Impuesto al Valor Agregado.
 
 ###### Artículo 41.
 
@@ -549,7 +805,9 @@ j) La manifestación por escrito, bajo protesta de decir verdad por parte del pr
 
 k) Fecha límite para presentación de proposiciones. Se fijará para cada operación atendiendo al tipo de bienes o servicios requeridos, así como a la complejidad para elaborar la propuesta;
 
-l) Se incluirá la siguiente leyenda: “La convocante se reserva el derecho de reducir o cancelar lotes o partidas cuando advierta que existe insuficiencia presupuestal o por rebasar todas las proposiciones los montos previstos para la licitación”;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+l) Se incluirá la siguiente leyenda: "La convocante se reserva el derecho de reducir o cancelar lotes o partidas cuando advierta que existe insuficiencia presupuestal, o por rebasar todas las proposiciones los montos previstos para la licitación y por las causas señaladas en los artículos 38 y 39 de este Reglamento".
 
 m) Instrucciones para presentar las proposiciones y garantías;
 
@@ -573,19 +831,25 @@ u) Pruebas que se realizarán y, de ser posible, método para ejecutarlas;
 
 v) Los demás requisitos que la convocante considere pertinente y viables para asegurar los intereses del Estado.
 
-I.3.- La convocante invitará por escrito a los integrantes del Subcomité, a la Oficialía y a la Contraloría, recabando la firma y el sello de acuse de recibo de los mismos, en los siguientes términos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+I.3.- La convocante invitará por escrito a los integrantes del Subcomité, a la Secretaría, a la SEPLAFIN, a la Secretaría Técnica y a la Contraloría, recabando la firma y el sello de acuse de recibo de los mismos, en los siguientes términos:
 
 a) Para reuniones ordinarias, por lo menos con tres días de anticipación;
 
 b) Para reuniones extraordinarias, por lo menos con un día de anticipación.
 
-I.4.- A la invitación de la Oficialía y de la Contraloría deberá anexarse la siguiente documentación:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+I.4.- A las invitaciones de la Secretaría, de la Contraloría de la SEPLAFIN y de la Secretaría Técnica, deberá anexarse la siguiente documentación:
 
 a) Orden del día que deberá contener los asuntos a tratar.
 
 b) Informe de clave programática y suficiencia presupuestal por asunto.
 
-c) Requisiciones a licitar, elaboradas a través los procedimientos que establezca la Oficialía.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+c) Requisiciones a licitar elaboradas .a través de los procedimientos que correspondan según la partida presupuestal que pretenda afectarse.
 
 d) Copias de las invitaciones dirigidas a proveedores exhibiendo sello y firma de acuse de recibo y relación de las mismas.
 
@@ -601,27 +865,43 @@ b) Copia de invitaciones dirigidas a proveedores, exhibiendo sello y firma de re
 
 c) En caso de que las invitaciones se transmitan vía fax o por cualquier otro medio, los acuses de recibo se podrán recibir por la misma vía, previamente sellados y firmados por el proveedor invitado.
 
-d) Requisiciones.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+d) Requisiciones; y
 
 e) Proposiciones técnicas y económicas recibidas en sobre cerrado y por separado.
 
 IV. El acto de apertura de proposiciones se llevará a cabo en dos etapas denominadas Técnica y Económica:
 
-La apertura de sobres se llevará a cabo para la Licitación Simplificada Mayor y Menor cuando se hayan recibido un mínimo de cinco y tres proposiciones, respectivamente; este acto se realizará sin la presencia de los licitantes, pero invariablemente se invitará a los representantes de la Oficialía y de la Contraloría. La convocante se abstendrá de aperturar los sobres sin la presencia de los representantes de las citadas Dependencias.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+La apertura de sobres se llevará a cabo para la Licitación Simplificada Mayor y Menor cuando se hayan recibido un mínimo de cinco y tres proposiciones, respectivamente; este acto se realizará sin la presencia de los licitantes, pero invariablemente se invitará a los representantes de la Secretaría, de la Contraloría, de la SEPLAFIN y de la Secretaria Técnica. Para que la convocante esté en condiciones de abrir los sobres, será indispensable contar la presencia de los representantes de la Contraloría y, por lo menos uno de las citadas Dependencias.
 
 A) Etapa Técnica:
 
-Será la primera y tendrá por objeto realizar la apertura, únicamente de aquellos sobres que contengan las proposiciones técnicas y documentación legal, a fin de verificar que la documentación solicitada se presente completa, y en su caso, se descalificarán aquellas proposiciones que hubiesen omitido alguno de los requisitos exigidos. El documento que contenga las especificaciones técnicas, se rubricará por los integrantes del Subcomité y los representantes de la Oficialía y la Contraloría. La documentación se recibirá cuantitativamente para su evaluación técnica.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Será la primera y tendrá por objeto realizar la apertura, únicamente de aquellos sobres que contengan las proposiciones técnicas y documentación legal, a fin de verificar que la documentación solicitada se presente completa, y en su caso, se descalificarán aquellas proposiciones que hubiesen omitido alguno de los requisitos exigidos. El documento que contenga las especificaciones técnicas, se rubricará por los integrantes del Subcomité y los representantes de la Secretaría, de la Contraloría, de la SEPLAFIN y de la Secretaría Técnica, que hubieren asistido. La documentación se recibirá cuantitativamente para su evaluación técnica.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Se levantará el acta de esta etapa en tres tantos originales en la que se mencionará el nombre del proveedor cuyas proposiciones técnicas hayan cumplido cuantitativamente con los requisitos legales y técnicos y las que fueron desechadas, detallando las razones que se tuvieron para ello.
 
 Para poder efectuar el análisis técnico de las proposiciones será necesario que existan por lo menos tres o cinco propuestas por cada partida o concepto solicitado susceptibles de ser analizadas, según el procedimiento de licitación simplificada de que se trate.
 
-Acto seguido, la unidad administrativa responsable de la requisición elaborará un dictamen técnico, donde se hará constar el cumplimiento o incumplimiento de las proposiciones presentadas para cada una de las partidas en cuanto a los aspectos técnicos, mismo que servirá como fundamento para la adjudicación que realice la convocante. Los responsables de su elaboración están obligados a suscribirlo.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-El procedimiento continuará aún cuando solo una de las proposiciones cumpla lo requerido técnicamente, la cual se podrá adjudicar si los precios son aceptables.
+Acto seguido, la unidad administrativa responsable de la requisición elaborará un dictamen técnico, donde se hará constar el cumplimiento o incumplimiento de las proposiciones presentadas para cada una de las partidas en cuanto a los aspectos técnicos, mismo que servirá como fundamento para la adjudicación que realice la convocante. Los responsables de su elaboración están obligados a suscribirlos.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+El procedimiento continuará aun cuando sólo una de las proposiciones cumpla lo requerido técnicamente, la cual se podrá adjudicar si los precios son aceptables.
 
 B) Etapa Económica:
 
-Se realizará la apertura de los sobres que contengan las proposiciones económicas y documentos con los requisitos exigidos, de los licitantes cuyas proposiciones técnicas no hayan sido desechadas en la etapa técnica; el documento que contenga la proposición económica se rubricará por los integrantes del Subcomité y los representantes de la Oficialía y de la Contraloría, con las que se elaborará cuadro comparativo de cotizaciones.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Se realizará la apertura de los sobres que contengan las proposiciones económicas y documentos con los requisitos exigidos, de los licitantes cuyas proposiciones técnicas no hayan sido desechadas en la etapa técnica; el documento que contenga la proposición económica se rubricará por los integrantes del Subcomité y los representantes de la Secretaría, de la Contraloría, de la SEPLAFIN y de la Secretaría Técnica, que hubieren asistido, con las que se elaborará un cuadro comparativo de cotizaciones.
 
 El cuadro comparativo deberá contener por lo menos, los datos previstos en el artículo 36, fracción V, inciso B de este Reglamento.
 
@@ -633,9 +913,17 @@ V. Se levantará el acta de la reunión en tres tantos originales en la que se m
 
 VI. El fallo de la licitación simplificada se notificará por lista, en lugar visible al público en las oficinas de la convocante, que firmarán el Presidente y Secretario del Subcomité, surtiendo sus efectos al día hábil siguiente.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 42.
 
-Los Subcomités, previa autorización del Comité, podrán llevar a cabo el procedimiento de abastecimiento simultáneo a que se refiere el artículo 35 de la Ley en las licitaciones simplificadas sujetándose a lo dispuesto por el artículo 10 del presente Reglamento.
+Los Subcomités, previa autorización del Comité de Compras, podrán llevar a cabo el procedimiento de abastecimiento simultáneo a que se refiere el artículo 35 de la Ley en las licitaciones simplificadas sujetándose a lo dispuesto por el artículo 10 del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 42 Bis.
+
+Además del supuesto señalado por el último párrafo del artículo 35 de la Ley, las Dependencias, Órganos y Entidades podrán adquirir bienes o contratar servicios a precios unitarios, cuando así lo hayan establecido en el procedimiento que por el monto de la operación corresponda y previa autorización del Comité de Compras.
 
 ###### Artículo 43.
 
@@ -643,23 +931,39 @@ La convocante podrá declarar desierto el procedimiento o determinadas partidas 
 
 Declarado desierto el procedimiento la convocante realizará por segunda ocasión la licitación simplificada absteniéndose de invitar de nueva cuenta a los proveedores que en la primera ocasión no hayan presentado proposiciones o a los que habiendo participado se les haya descalificado.
 
-Sin perjuicio de lo anterior, la convocante podrá resguardar la proposición económica de un licitante siempre que no la haya aperturado y cumpla con las especificaciones legales y técnicas establecidas en la invitación correspondiente, en este caso los integrantes del Subcomité firmarán el sobre que la contenga, sin cuyo requisito no tendrá validez.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-Las proposiciones bajo resguardo de la convocante, podrán participar en la segunda ocasión. Si de nueva cuenta fuese declarado desierto el procedimiento el Titular del área responsable de la contratación podrá ejercer la modalidad de compra directa de conformidad con lo dispuesto en el artículo 48, fracción II de este Reglamento.
+Sin perjuicio de lo anterior, la convocante podrá resguardar la proposición económica de un licitante siempre que no la haya abierto y cumpla con las especificaciones legales y técnicas establecidas en la invitación correspondiente, en este caso los integrantes del Subcomité y los representantes de la Secretaría, de la Contraloría, de la SEPLAFIN y de la Secretaría Técnica firmarán el sobre que la contenga, sin cuyo requisito no tendrá validez.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Las proposiciones bajo resguardo de la convocante, podrán participar en la segunda ocasión. Si de nueva cuenta fuese declarado desierto el procedimiento el Titular del área responsable de la contratación podrá ejercer la modalidad de adjudicación directa de conformidad con lo dispuesto en el artículo 48, fracción II, de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 43 Bis.
+
+Se exceptúan de lo dispuesto en el párrafo segundo del artículo anterior, los casos en que no existan dentro del padrón el número de proveedores que, de acuerdo a la modalidad del procedimiento y a la naturaleza del bien o servicio, sean requeridos para la celebración de la licitación simplificada. Para tales efectos podrá la convocante abrir las propuestas que se hayan recibido, siempre que se acredite que se invitó a la totalidad de los proveedores existentes en el rubro correspondiente.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 44.
 
-La convocante podrá cancelar el procedimiento de una Licitación Simplificada en los casos a que se refiere el artículo 39 de este Reglamento.
+La convocante podrá cancelar el procedimiento o determinados lotes o partidas de una Licitación Simplificada en los casos a que se refiere el artículo 39 de este Reglamento.
 
 ###### Artículo 45.
 
 Las reuniones tendrán como sede las instalaciones que designe la convocante.
 
-Los acuerdos que se tomen en las reuniones se harán constar en acta; la cual se elaborará en papel oficial o membretado de la convocante. Dicha acta deberá sellarse mínimo en tres tantos y se firmará por los asistentes al concluir la reunión. Los acuerdos surtirán efecto hasta que se concluya y firme el acta de la reunión.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Los acuerdos que se tomen en las reuniones se harán constar en actas; las cuales se elaborarán en papel oficial o membretado de la convocante. Dichas actas deberán sellarse mínimo en tres tantos y se firmarán por los asistentes al concluir la reunión. Los acuerdos surtirán efecto hasta que se concluya y firmen las actas de la reunión.
 
 Si no se concluyen los asuntos a tratar se declarará en receso la reunión debiéndose señalar hora y fecha para continuarla dentro de los tres días hábiles siguientes.
 
-Si el acta de la reunión no está concluida y firmada, la convocante se abstendrá de invitar a nueva reunión.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Si las actas de la reunión no están concluidas y firmadas, la convocante se abstendrá de invitar a nueva reunión.
 
 El Subcomité podrá acordar las modificaciones de un acta en la misma reunión o en la inmediata posterior.
 
@@ -671,29 +975,45 @@ El proveedor que resulte adjudicado en las licitaciones simplificadas está obli
 
 Si las proposiciones rebasan los montos previstos respectivamente, para las licitaciones simplificadas mayor y menor, sólo se podrá realizar la adjudicación cuando la suma del importe de los lotes que se pretenda adjudicar, no exceda el 10 % del monto máximo autorizado para cada modalidad y se satisfaga el mínimo de cotizaciones de la modalidad que se esté llevando a cabo.
 
-### CAPÍTULO TERCERO. PROCEDIMIENTO PARA COMPRA DIRECTA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO TERCERO. PROCEDIMIENTO PARA ADJUDICACIÓN DIRECTA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 48.
 
-La Oficialía, Dependencias, Órganos y Entidades podrán llevar a cabo el procedimiento de compra directa a que se refiere el artículo 22, fracción IV de la Ley, en los siguientes casos:
+La Secretaría, Dependencias, Órganos y Entidades podrán llevar a cabo el procedimiento de adjudicación directa a que se refiere el artículo 22, fracción IV, de la Ley, en los siguientes casos:
 
-I.- En los supuestos y con sujeción a las formalidades previstas en los artículos 21, párrafo segundo, 25, 39 y 40 de la Ley.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+I.- En los supuestos y con sujeción a las formalidades previstas en los artículos 21, párrafo segundo, 25, 39, 39 bis y 40 de la Ley;
 
 II.- En los casos a que se refieren los artículos 38 y 43 párrafo cuarto de este Reglamento.
 
-III.- En los casos y por el monto que determine el Comité con la finalidad de atender la operatividad de la Oficialía, Dependencias, Órganos y Entidades.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+III.- En los casos y por el monto que determine el Comité de Compras con la finalidad de atender la operatividad de la Secretaría, Dependencias, Órganos y Entidades; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+IV.- Cuando se trate de contratos específicos que deriven de un contrato marco.
 
 Las adquisiciones que se realicen al amparo de este artículo se sujetarán a los criterios de optimización de recursos, economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 49.
 
-El documento emitido por la Oficialía a que se refiere el artículo 37 párrafo segundo de la Ley, en que dictamine sobre la procedencia de no llevar a cabo los procedimientos de licitación, deberá contener como mínimo los siguientes requisitos:
+El documento emitido por la Secretaría a que se refiere el artículo 37, párrafo segundo, de la Ley, en que dictamine sobre la procedencia de no llevar a cabo los procedimientos de licitación, deberá contener como mínimo los siguientes requisitos:
 
 1.- Descripción de los bienes o servicios;
 
 2.- Motivación, justificación y fundamento legal del supuesto de excepción;
 
-3.- Proyecto, partida y suficiencia presupuestal;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+3.- Fuente de financiamiento, proyecto, partida y suficiencia presupuestal acreditada;
 
 4.- Precio estimado;
 
@@ -703,19 +1023,39 @@ El documento emitido por la Oficialía a que se refiere el artículo 37 párrafo
 
 7.- Firma y Sello.
 
-###### ARTÍCULO 50.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-Las Dependencias, Órganos y Entidades llevarán a cabo el procedimiento de compra directa en los casos previstos en la Ley y el presente Reglamento, realizando su dictamen respectivo, el cual deberá cumplir con los requisitos descritos en el artículo anterior.
+###### Artículo 50.
+
+Las Dependencias, Órganos y Entidades llevarán a cabo el procedimiento de adjudicación directa en los casos previstos en la Ley y el presente Reglamento, realizando su dictamen respectivo, el cual deberá cumplir con los requisitos descritos en el artículo anterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 51.
 
-Las adquisiciones directas que realicen la Oficialía, Dependencias, Órganos o Entidades se realizarán de acuerdo con los criterios de economía, eficacia, eficiencia, imparcialidad y honradez a que se refiere el artículo 37, párrafo segundo de la Ley.
+Las adjudicaciones directas que realicen la Secretaría, Dependencias, Órganos o Entidades se realizarán de acuerdo con los criterios de economía, eficacia, eficiencia, imparcialidad y honradez a que se refiere el artículo 37, párrafo segundo de la Ley.
 
 La Contraloría intervendrá en los términos del Título Cuarto de la Ley.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 51 Bis.
+
+Para los efectos de lo establecido en el artículo 39 de la Ley deberá considerarse, respecto de los supuestos que señala dicho precepto legal, lo que se indica a continuación:
+
+I. La excepción a las licitaciones prevista en la fracción II del artículo citado, relativa a casos fortuitos o de fuerza mayor, será procedente cuando exista un nexo causal directo entre éstos y la imposibilidad o impedimento de la Dependencia, Órgano o Entidad para obtener, en el tiempo requerido, los bienes o servicios que necesita mediante el procedimiento de licitación pública;
+
+II. Será también procedente contratar mediante adjudicación directa fundada en la fracción II del artículo de referencia, cuando, entre otros supuestos, la Dependencia, Órgano o Entidad acredite con la Investigación de mercado correspondiente, que se obtienen las mejores condiciones para el Estado y, por tanto, se evitan pérdidas o costos adicionales, al contratar con algún proveedor que tenga contrato vigente previamente adjudicado mediante licitación pública y éste acepte otorgar los mismos bienes o servicios en iguales condiciones en cuanto a precio, características y calidad de los bienes o servicios materia del contrato celebrado con la misma u otra dependencia, órgano o entidad;
+
+III. En el supuesto señalado por la fracción VI, la Secretaría determinará bajo reglas de carácter general los requisitos mínimos que deberán cumplir los sujetos a que se refiere esta excepción, en relación al Padrón; y
+
+IV. Para acreditar que en el mercado sólo existe un posible oferente, o se trata de una persona que posee la titularidad o el licenciamiento exclusivo de patentes, derechos de autor, u otros derechos exclusivos, a que hace referencia la fracción IX, se deberán acompañar los documentos con los que se acredite tal situación, como son los registros, títulos, certificaciones, acuerdos comerciales, autorizaciones, designaciones, contratos de licenciamiento o cesión emitidos por o registrados ante las autoridades nacionales competentes en caso de ser así necesario, o conforme a las disposiciones o prácticas del país de origen, así como con los que se determine el alcance o implicaciones jurídicas de los derechos mencionados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 52.
 
-La determinación de los bienes o línea de bienes en las Dependencias, Órganos y Entidades a que se refiere el artículo 40, fracción I de la Ley, se presentará ante el Comité dentro de los primeros treinta días del ejercicio fiscal correspondiente junto con el Programa Anual de Adquisiciones a que se refiere el artículo 6, párrafo segundo de este Reglamento. Únicamente se podrán contemplar bienes o línea de bienes estrictamente indispensables, que estén directamente relacionados con la prestación del servicio de carácter social que brindan.
+La determinación de los bienes o línea de bienes en las Dependencias, Órganos y Entidades a que se refiere el artículo 40, fracción I de la Ley, se presentará ante el Comité de Compras dentro de los primeros treinta días del ejercicio fiscal correspondiente junto con el Programa Anual de Adquisiciones a que se refiere el artículo 6, párrafo segundo, de este Reglamento. Únicamente se podrán contemplar bienes o línea de bienes estrictamente indispensables, que estén directamente relacionados con la prestación del servicio de carácter social que brindan.
 
 Las Dependencias, Órganos y Entidades que en cumplimiento de su objeto o fines propios adquieran bienes para destinarlos a comercialización o a procesos productivos, únicamente contemplarán los bienes que se destinarán para esos fines.
 
@@ -727,9 +1067,13 @@ Las Dependencias, Órganos y Entidades que en cumplimiento de su objeto o fines 
 
 Los pedidos y contratos se deberán formalizar en un plazo máximo de 20 días hábiles contados a partir de la fecha en que se hubiese notificado al licitante el fallo o la adjudicación de aquellos.
 
-La copia fiel del pedido deberá contar con el sello de recibo del proveedor.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-Los contratos de adquisiciones, arrendamientos y prestación de servicios deberán contener los requisitos mínimos que establece el artículo 42 de la Ley, en los términos que establezca la Oficialía.
+Se celebrarán pedidos cuando el monto de la adjudicación no rebase el establecido por el Comité de Compras en términos de la fracción III del artículo 48 de este Reglamento. La copia fiel del pedido deberá contar con el sello de recibo del proveedor.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Los contratos de adquisiciones, arrendamientos y prestación de servicios deberán contener los requisitos mínimos que establece el artículo 42 de la Ley, en los términos que establezca la Secretaría.
 
 ###### Artículo 54.
 
@@ -745,7 +1089,9 @@ Las cláusulas de los pedidos derivados de los diferentes procedimientos de adqu
 
 I.- Que el proveedor se obliga a surtir los bienes o servicios con las especificaciones, cantidades, marca, así como precios, tiempo y lugar de entrega mencionados en el anverso del pedido, manifestando que están de acuerdo con sus proposiciones técnicas y económicas o cotización.
 
-II.- Que para garantizar el cumplimiento de sus obligaciones derivadas del pedido el proveedor exhibe una fianza, señalando el número de póliza, la fecha de su expedición, el nombre de la compañía afianzadora, el del beneficiario, el importe afianzado, así como el porcentaje equivalente del importe total del pedido, incluido el impuesto al valor agregado.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+II.- Que para garantizar el cumplimiento de sus obligaciones derivadas del pedido, el proveedor estará a lo dispuesto por el artículo 21 Ter de este Reglamento.
 
 III.- Que el incumplimiento por parte del proveedor, dará derecho a la convocante a dejar sin efecto el pedido, con la sola obligación de cubrir el importe de las mercancías recibidas a entera satisfacción y sin perjuicio de hacer valer la garantía de cumplimiento otorgada por el proveedor.
 
@@ -756,6 +1102,8 @@ V.- Que tratándose de equipos que requieran instalación, el proveedor se oblig
 VI.- Que acepta expresamente que la Contraloría tendrá la intervención que las Leyes y Reglamentos le señalen para el control y verificación del cumplimiento del pedido.
 
 VII.- Que el pago de cualquier entrega parcial quedará condicionado a la entrega de la totalidad de lo consignado en el propio pedido.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 VIII.- Que el incumplimiento en la entrega de los bienes o en la ejecución de los trabajos objeto del pedido dará lugar a la aplicación de las penas convencionales establecidas por la convocante en la invitación o convocatoria.
 
@@ -783,11 +1131,15 @@ De igual manera, se establecerá que el pago de los bienes y servicios quedará 
 
 La convocante podrá establecer en las bases de Licitación Pública, invitaciones y contratos, deducciones al pago de las adquisiciones, arrendamientos o prestación de servicios, con motivo del incumplimiento parcial o deficiente de las obligaciones, en cuyo caso establecerá el límite de incumplimiento a partir del cual procederá la rescisión del contrato.
 
-Cuando el incumplimiento de las obligaciones del proveedor no derive del atraso a que se refiere el primer párrafo de este artículo, sino por otras causas establecidas en el contrato, la Oficialía, Dependencias, Órganos y Entidades podrán iniciar en cualquier momento posterior al incumplimiento el procedimiento de rescisión del contrato.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Cuando el incumplimiento de las obligaciones del proveedor no derive del atraso a que se refiere el primer párrafo de este artículo, sino por otras causas establecidas en el contrato, la Secretaría, Dependencias, Órganos y Entidades podrán iniciar en cualquier momento posterior al incumplimiento el procedimiento de rescisión del contrato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 58.
 
-De conformidad con lo dispuesto en el artículo 43 de la Ley, la Oficialía previo acuerdo con la Dependencia, Órgano o Entidad podrá modificar los pedidos o contratos, en los siguientes casos:
+De conformidad con lo dispuesto en el artículo 43 de la Ley, la Secretaría previo acuerdo con la Dependencia, Órgano o Entidad podrá modificar los pedidos o contratos, en los siguientes casos:
 
 I.- Por ampliación de la vigencia del pedido o contrato a petición de la Dependencia, Órgano o Entidad.
 
@@ -807,9 +1159,11 @@ La terminación anticipada de los pedidos o contratos a que se refiere el artíc
 
 ### CAPÍTULO ÚNICO. DE LOS ALMACENES
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 61.
 
-La función de almacenar, resguardar, suministrar y controlar los bienes que se adquieran conforme a esta ley, será llevado a cabo por la Oficialía, Dependencias, Órganos y Entidades en las áreas físicas destinadas para tal efecto.
+La función de almacenar, resguardar, suministrar y controlar los bienes que se adquieran conforme a la Ley, será llevada a cabo por la Secretaría, Dependencias, Órganos y Entidades en las áreas físicas destinadas para tal efecto.
 
 ###### Artículo 62.
 
@@ -819,9 +1173,11 @@ Las actividades de recepción, guarda y suministro de los bienes adquiridos, deb
 
 Los bienes en desuso, que se encuentren deteriorados, o sin utilidad práctica, quedarán bajo resguardo de los almacenes por separado, hasta que se decida su utilización o destino final.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 64.
 
-En los almacenes se llevarán a cabo inventarios mensuales por muestreo, con la finalidad de verificar sus existencias. La Oficialía, Dependencias, Órganos y Entidades podrán solicitar auditorias anuales de cierre de ejercicio y las eventuales que se consideren necesarias a la Contraloría.
+En los almacenes se llevarán a cabo inventarios mensuales por muestreo, con la finalidad de verificar sus existencias. La Secretaría, Dependencias, Órganos y Entidades podrán solicitar auditorias anuales de cierre de ejercicio y las eventuales que se consideren necesarias a la Contraloría.
 
 ###### Artículo 65.
 
@@ -843,9 +1199,11 @@ Para los efectos de lo dispuesto en el artículo 58, párrafo segundo de la Ley,
 
 La Contraloría para la imposición de las sanciones previstas en la Ley, notificará a la persona física o jurídica colectiva los hechos presumiblemente constitutivos de la infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 68.
 
-Dentro de la documentación comprobatoria a que alude el artículo 67 párrafo tercero de la Ley, la Oficialía, Dependencias, Órganos y Entidades deberán acreditar el monto de los daños o perjuicios causados con motivo de la presunta infracción.
+Dentro de la documentación comprobatoria a que alude el artículo 67, párrafo tercero, de la Ley, la Secretaría, Dependencias, Órganos y Entidades deberán acreditar el monto de los daños o perjuicios causados con motivo de la presunta infracción.
 
 Para imponer las sanciones a que alude el Título Quinto de la Ley, la Contraloría deberá notificar previamente al infractor del inicio del procedimiento, para que este dentro de los diez días hábiles siguientes exponga lo que a su derecho convenga y aporte las pruebas con que cuente.
 
@@ -893,9 +1251,11 @@ Las sanciones que se aplicarán a los proveedores que cometan las infracciones e
 
 Si el escrito de inconformidad no reúne los requisitos establecidos por la Ley, la Contraloría notificará al promovente su corrección en un plazo de cinco días a excepción de lo establecido en el artículo 78, de la Ley.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 78.
 
-Para los efectos de lo dispuesto en los artículos 71, fracción V y 73 párrafo tercero de la Ley, la Contraloría dará aviso a la Oficialía, Dependencia, Órgano o Entidad de la inconformidad presentada, acompañando copia de la misma, a efecto de que rinda un informe circunstanciado. La información que remita la dependencia o entidad se referirá a cada uno de los hechos manifestados por el inconforme, debiendo acompañar la documentación relacionada con el procedimiento de contratación.
+Para los efectos de lo dispuesto en los artículos 71, fracción V, y 73, párrafo tercero, de la Ley, la Contraloría dará aviso a la Secretaría, Dependencia, Órgano o Entidad de la inconformidad presentada, acompañando copia de la misma, a efecto de que rinda un informe circunstanciado. La información que remita la dependencia o entidad se referirá a cada uno de los hechos manifestados por el inconforme, debiendo acompañar la documentación relacionada con el procedimiento de contratación.
 
 ###### Artículo 79.
 
@@ -938,3 +1298,13 @@ OFICIAL MAYOR
 DR. JORGE ABDÓ FRANCIS
 
 SECRETARIO DE CONTROLORIA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Reglamento será publicado en el Periódico Oficial del Estado y entrará en vigor el primero de enero del año 2015.
+
+SEGUNDO.- A los actos y contratos que la Secretaría, Dependencias, Órganos y Entidades hayan celebrado con anterioridad a la entrada en vigor del presente Reglamento, les serán aplicables las disposiciones legales y administrativas vigentes al momento de su inicio o celebración.
+
+TERCERO.- Se derogan todas las disposiciones administrativas que se opongan a las presentes reformas.
