@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "2014-06-29"
+last_updated: "2014-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 CÓDIGO PENAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 355 QUE EXPIDE EL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN, PUBLICADO EN LA OCTAVA SECCIÓN DEL P.O. DE 17 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EN LA FECHA QUE SEÑALE LA DECLARATORIA QUE AL EFECTO EXPIDA EL CONGRESO DEL ESTADO DE MICHOACÁN, PARA LA ENTRADA DEL NUEVO SISTEMA DE JUSTICIA PENAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -73,7 +75,7 @@ Cuando después de cometido el delito se dictare una nueva ley que modificare lo
 
 ### CAPITULO I. Reglas Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 7o.
 
@@ -91,7 +93,7 @@ El delito es doloso cuando el agente quiere o acepta el resultado, o cuando ést
 
 El delito es culposo cuando habiéndose previsto el resultado, se confió en que no se produciría; cuando no se previó siendo previsible, o cuando se causó por impericia o ineptitud.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -119,7 +121,7 @@ Las con causas, sean preexistentes, simultáneas o posteriores, no impiden la at
 
 Las anteriores normas tendrán aplicación cuando la con causa preexistente, simultánea o posterior, consista en el hecho ilícito de otro.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO II. Tentativa
 
@@ -487,7 +489,7 @@ La reparación del daño será hecha, sin afectar los derechos sobre alimentos d
 
 El ejercicio de la acción penal lleva implícito pedimento de aseguramiento de bienes, la formulación de conclusiones acusatorias y solicitud de condena al pago de la reparación del daño.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 40.
 
@@ -509,7 +511,7 @@ La autoridad judicial, tratándose del pago de la reparación del daño, podrá 
 
 En cuanto a la multa, será la autoridad administrativa encargada de su cobro, la facultada para conceder los plazos que estime convenientes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO VII. Decomiso de instrumentos, objetos y productos del delito
 
@@ -629,7 +631,7 @@ VII. Las demás condiciones especiales y personales en que se encontraba el agen
 
 Artículo 54 bis.- Cuando por haber sufrido el sujeto activo consecuencias graves en su persona con motivo del delito, o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa o restrictiva de libertad, el juez, de oficio o a petición de parte, motivando su resolución, podrá prescindir de ella o sustituirla por una medida de seguridad. En los casos de senilidad o precario estado de salud, el juez se apoyará siempre en dictámenes de peritos médicos.
 
-> <small>(REFORMADO EN SU DENOMINACION, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO II. Sanciones a los responsables de tentativa
 
@@ -755,7 +757,7 @@ En el caso previsto en la fracción III del Artículo 16, se ordenará la intern
 
 Los sordomudos y los ciegos de nacimiento que carezcan totalmente de instrucción y hayan cometido un hecho tipificado como delito, serán internados en establecimientos adecuados por todo el tiempo que fuere necesario para su educación, bajo vigilancia de la autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 69.
 
@@ -813,7 +815,7 @@ II. Si la sanción fuere de confinamiento, se conmutará por multa, la cual se f
 
 ### CAPITULO X. Libertad Condicional
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 74.
 
@@ -863,11 +865,11 @@ Siempre que se imponga sanción privativa de libertad que exceda de dos años, s
 
 La retención se hará efectiva cuando, a juicio fundado del Ejecutivo, no se haya logrado la readaptación del reo o haya observado mala conducta durante la ejecución de la sanción. Asimismo, se aplicará la retención en los casos previstos en el artículo 124 de la Ley de Ejecución de Sanciones Privativas y Restrictivas de Libertad del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 1984)</small>
 
 ### CAPITULO XII. Suspensión condicional de la ejecución de la sanción
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 79.
 
@@ -941,7 +943,7 @@ Si la sentencia condenó por varios delitos, la revisión sólo se referirá al 
 
 ### CAPITULO IV. Perdón del ofendido en los delitos de querella necesaria
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 85.
 
@@ -977,7 +979,7 @@ El indulto extingue las sanciones impuestas en sentencia firme, excepto la repar
 
 No puede ser objeto de indulto la inhabilitación para ejercer una profesión u oficio o algún derecho civil o político, o para desempeñar algún cargo, comisión o empleo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P. O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 88.
 
@@ -1199,7 +1201,7 @@ Si resultare, además, la comisión de otros delitos se estará a las reglas del
 
 ### CAPITULO III. Motín
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 116.
 
@@ -1269,7 +1271,7 @@ Al reo que se fugue estando bajo alguna de las sanciones privativas de libertad,
 
 Al sentenciado a confinamiento que salga del lugar que se le haya fijado para su residencia antes de extinguirlo, se le aplicará prisión por el tiempo que le falte de su condena.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1994)</small>
 
 ###### Artículo 127.
 
@@ -1325,7 +1327,7 @@ Los funcionarios y agentes de la autoridad pueden llevar las armas necesarias pa
 
 ### CAPITULO IV. Asociación Delictuosa y Pandillerismo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 132.
 
@@ -1335,7 +1337,7 @@ Se impondrán prisión de cuatro a ocho años y multa de cincuenta a quinientos 
 
 Cuando el miembro de la asociación o banda sea o haya sido servidor público de alguna corporación policiaca, la pena de la que se refiere el párrafo anterior se aumentará hasta dos terceras partes, y se le impondrá además, destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para desempeñar otro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 133.
 
@@ -1423,7 +1425,7 @@ II. Las de tránsito destinadas a empresas privadas sin importar tampoco el medi
 
 Al que quite, corte o destruya los ataderos que detengan una embarcación u otro vehículo, o quite el obstáculo que impida o modere su movimiento, se le aplicará prisión de tres días a un año, si no resultare daño alguno; si se causare, se le impondrá además la sanción correspondiente por el delito que resulte.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 137.
 
@@ -1451,7 +1453,7 @@ VIII. Al que destruya o inutilice un campo de aviación particular o del Estado.
 
 Al que, para la ejecución de los actos de que hablan los artículos anteriores, se valga de explosivos, se le aplicará prisión de diez a veinte años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 138.
 
@@ -1481,7 +1483,7 @@ Se impondrán de tres días a un año de prisión o multa de veinte a quinientos
 
 ### CAPITULO III. Violación de Correspondencia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1994)</small>
 
 ###### Artículo 142.
 
@@ -1623,11 +1625,11 @@ Al que ultraje las insignias del Estado o del municipio, o de cualquiera de sus 
 
 Al que ultraje insignias de las instituciones que tengan actuación pública, debidamente reconocida, se le aplicará prisión de tres días a un año y multa de cincuenta a cien días de salario.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ## TITULO QUINTO. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO I. Corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho
 
@@ -1651,7 +1653,7 @@ Queda prohibido emplear a personas menores de dieciséis años de edad o a perso
 
 Incurrirán en la misma pena los que ejerzan la patria potestad, la tutela o custodia y guarda de personas menores de edad o de personas que no tengan capacidad para comprender el significado del hecho y promuevan o acepten que se empleen en los referidos establecimientos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO II. Pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho
 
@@ -1721,7 +1723,7 @@ Los sujetos activos de los delitos previstos en los Capítulos I, II y III, del 
 
 (DEROGADO, P.O. 1 DE FEBRERO DE 2012)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO IV
 
@@ -1749,7 +1751,7 @@ La misma pena se impondrá a quien, pudiendo hacerlo, no acuda a la autoridad o 
 
 Se impondrán de treinta a doscientas jornadas de trabajo en favor de la comunidad al que sin justa causa revelare algún secreto o comunicación reservada que por cualquier medio conociere o se le haya confiado con motivo de su empleo, cargo, oficio o arte, si de ello pudiera resultar daño para alguna persona.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 173.
 
@@ -1761,7 +1763,7 @@ Al que revele un secreto que hubiere conocido en el ejercicio indebido de funcio
 
 ### CAPITULO I. Cohecho
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 174.
 
@@ -1809,7 +1811,7 @@ Iguales sanciones se aplicarán a las personas comisionadas por los funcionarios
 
 ### CAPITULO IV. Anticipación, Prolongación y Abandono de Funciones Públicas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 181.
 
@@ -1823,7 +1825,7 @@ III. Se ostenten con una comisión, empleo o cargo distintos del que realmente t
 
 IV. Abandonen la comisión, empleo o cargo sin habérseles admitido la renuncia o concedido licencia, o antes de que se presente la persona que haya de substituirlos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO V. Coalición de servidores públicos o comisionados
 
@@ -1841,7 +1843,7 @@ El delito de coalición de servidores públicos o comisionados se sancionará co
 
 ### CAPITULO VI. Infidelidad en la Custodia de Documentos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 184.
 
@@ -1859,7 +1861,7 @@ IV. Por negligencia extravíen algún documento, papeles o expedientes que les e
 
 ### CAPITULO VII. Abuso de Autoridad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 185.
 
@@ -1869,7 +1871,7 @@ I. Para impedir la ejecución de una ley, decreto o reglamento, el cobro de un i
 
 II. Con abuso de sus funciones o quebranto de las formalidades de ley, priven de la libertad a alguna persona;
 
-III. (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE EXPIDE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA, P.O. 10 DE MARZO DE 1994)
+III. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE EXPIDE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA, P.O. 10 DE MARZO DE 1994)
 
 IV. Con abuso de sus funciones, ordenen o ejecuten la pesquisa o registro del cuerpo de una persona;
 
@@ -1905,7 +1907,7 @@ Los delitos a que se refiere este artículo producen acción popular para denunc
 
 Se impondrán de seis meses a ocho años de prisión, y multa hasta por quinientos días de salario, destitución del cargo e inhabilitación para desempeñar otro de igual naturaleza hasta por ocho años, al servidor público o a sus comisionados que cometan el delito de abuso de autoridad.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MARZO DE 1994)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MARZO DE 1994)</small>
 
 ### CAPITULO VIII. Enriquecimiento ilícito
 
@@ -1923,7 +1925,7 @@ Cuando el monto a que ascienda el enriquecimiento ilícito, no exceda del equiva
 
 Cuando el monto a que ascienda al enriquecimiento ilícito, exceda del equivalente de cinco mil veces el salario mínimo diario vigente, se impondrán de dos años a catorce años de prisión, multa de trescientas a quinientas veces el salario mínimo diario vigente al momento de cometerse el delito y destitución e inhabilitación de dos años a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO IX. De la Tortura
 
@@ -2017,7 +2019,7 @@ IV. Profesionalizar los servidores públicos que participan en la custodia y tra
 
 (DEROGADO, P.O. 3 DE AGOSTO DE 1998)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 188.
 
@@ -2083,7 +2085,7 @@ No se procederá contra el autor de ese delito, sino en virtud de sentencia ejec
 
 ### CAPITULO IV. Falsedad en Declaraciones y en Informes Dados a la Autoridad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 195.
 
@@ -2115,7 +2117,7 @@ Cualquiera que retracte espontáneamente sus falsas declaraciones rendidas ante 
 
 ### CAPITULO V. Encubrimiento
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 197.
 
@@ -2153,11 +2155,11 @@ III. Los que estén ligados con el delincuente por amor, respeto, gratitud o est
 
 Se aplicarán de tres días a tres años de prisión y multa de veinte a quinientos días de salario, al que para hacer efectivo un derecho que debe ejercer por la vía legal empleare violencia en las personas o en las cosas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO VII. Delitos contra la procuración y la administración de la justicia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 200.
 
@@ -2279,7 +2281,7 @@ A quien incurra a las conductas señaladas en las fracciones IV, V, VI, X, XI, X
 
 ### CAPITULO I. Falsificación de Sellos, Llaves, Marcas, Estampillas, Contraseñas, Pesas y Medidas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 201.
 
@@ -2297,7 +2299,7 @@ IV. Al que enajene alguno de los objetos falsificados señalados en las fraccion
 
 V. Al que falsifique la marca destinada para el aprovechamiento forestal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 202.
 
@@ -2401,7 +2403,7 @@ Artículo 206 bis. Al propietario o poseedor de un vehículo de motor que a sabi
 
 ### CAPITULO III. Variación de Nombre o Domicilio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 207.
 
@@ -2425,7 +2427,7 @@ Las anteriores hipótesis no son aplicables cuando el indiciado, inculpado o acu
 
 ### CAPITULO IV. Usurpación de Funciones Públicas o de Profesión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 208.
 
@@ -2435,7 +2437,7 @@ Se sancionarán con prisión de uno a cinco años y multa de cien a mil días de
 
 I. Al que sin ser servidor público se atribuya ese carácter o ejerza alguna función pública;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 II. Al que sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5° Constitucional, realice cualquiera de las siguientes conductas:
 
@@ -2459,7 +2461,7 @@ Se aumentarán las sanciones hasta la mitad de su duración y cuantía, al que p
 
 ### CAPITULO V. Uso Indebido de Uniforme, Insignia, Distintivo o Condecoración del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 209.
 
@@ -2475,7 +2477,7 @@ Si el falsificador hiciere uso de los documentos u objetos falsos que se detalla
 
 Las disposiciones contenidas en este Título, se aplicarán solamente en lo que no estuviere previsto en las leyes especiales o no se opusiere a lo establecido en ellas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2004)</small>
 
 ## TITULO DECIMO. DELITOS DE PELIGROSIDAD SOCIAL
 
@@ -2493,7 +2495,7 @@ DELITOS CONTRA EL ORDEN FAMILIAR
 
 ### CAPITULO I. Delitos Contra la Filiación y el Estado Civil y Exposición de Menores
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 213.
 
@@ -2581,7 +2583,7 @@ Tratándose de intereses de menores el delito se perseguirá de oficio.
 
 (DEROGADO, P.O. 3 DE AGOSTO DE 1998)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2006)</small>
 
 ### CAPITULO V. Sustracción o retención
 
@@ -2625,7 +2627,7 @@ DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
 Violación a las Leyes de Inhumaciones y Exhumaciones
 
-> <small>(REFORMADO PRIMER PARRAFO, 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 225.
 
@@ -2649,7 +2651,7 @@ DELITOS CONTRA LA LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
 ### CAPITULO I. Privación de Libertad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 227.
 
@@ -2659,7 +2661,7 @@ Las mismas sanciones se aplicarán al particular que empleando violencia física
 
 ### CAPITULO II. Secuestro
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 228.
 
@@ -2769,7 +2771,7 @@ Si el amenazador cumple su amenaza, la sanción de este ilícito y la del que re
 
 ### CAPITULO V. Extorsión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2009)</small>
 
 ###### Artículo 236.
 
@@ -2865,13 +2867,13 @@ V. Por quien se aproveche de su cargo, empleo público o de su profesión, para 
 
 ### CAPITULO II. Estupro
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2004)</small>
 
 ###### Artículo 243.
 
 Al que tenga cópula con persona, menor de dieciséis años y mayor de doce años, obteniendo su consentimiento por medio de la seducción o engaño, se le impondrá de tres a ocho años de prisión y multa de diez a ciento cincuenta días de salario mínimo general vigente.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE JULIO DE 2004)</small>
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
 
@@ -3251,7 +3253,7 @@ Si sólo se causan lesiones, se sancionará al instigador o auxiliador con la mi
 
 Si el occiso o suicida frustrado fuera menor de edad o padeciere alguna de las formas de enajenación mental, se impondrá al homicida instigador, la sanción señalada al homicidio calificado o las lesiones calificadas, si sólo se produjeren estas últimas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO V. Parricidio y filicidio
 
@@ -3347,7 +3349,7 @@ DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD
 
 ### CAPITULO I. Tipos de Peligro Efectivo: Disparo de Arma de Fuego y Ataque Peligroso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 292.
 
@@ -3445,7 +3447,7 @@ Artículo 300 bis.- No se impondrá pena al que sin emplear los medios de violen
 
 Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 302.
 
@@ -3763,7 +3765,7 @@ Los hechos a que se contraen las disposiciones anteriores producen acción públ
 
 ### CAPITULO VI. Despojo de Inmuebles y Aguas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 330.
 
@@ -3811,7 +3813,7 @@ Para la aplicación de los artículos de este capítulo se considerará como sal
 
 (DEROGADO, P.O. 3 DE AGOSTO DE 1998)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 1988)</small>
 
 ###### Artículo 334.
 
@@ -3837,7 +3839,7 @@ En caso de que hubiere personas en los vehículos, edificios o lugares a que se 
 
 Si además de los daños directos resulta consumado algún otro delito, se aplicarán las reglas del concurso.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO VIII. OPERACIONES CON RECURSO DE PROCEDENCIA ILICITA
 
@@ -3855,7 +3857,7 @@ DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
 DE LOS PATRONES EN EL FUERO LOCAL DEL TRABAJO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 336.
 
@@ -3889,11 +3891,11 @@ Las violaciones a que se refiere el artículo anterior no producen responsabilid
 
 Cuando los delitos a que se refiere el artículo 336 aparezcan cometidos por una persona jurídica de derecho privado, la sanción de prisión se impondrá al patrón, gerente, director o administrador o encargado que hubiere ordenado los hechos, sin perjuicio de que el juez, si lo estima conveniente, imponga la sanción de suspensión de actividades o disolución de la persona jurídica colectiva, en los términos de los artículos 23, fracción XVI y 70.
 
-> <small>(ADICIONADO CON EL CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 1992)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 1992)</small>
 
 ## TITULO VIGESIMO. DE LOS DELITOS ELECTORALES Y EN MATERIA DE REGISTRO ESTATAL DE ELECTORES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 1992)</small>
 
 ### CAPITULO UNICO
 
@@ -3931,11 +3933,11 @@ Por lo que ve a los tipos penales y sus sanciones, la investigación, persecuci�
 
 (DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2004)</small>
 
 ## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA ECOLOGIA Y EL DESARROLLO URBANO
 
-> <small>(REFORMADA SU NUMERACION, ADICIONADA SU DENOMINACION, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADA SU NUMERACIÓN, ADICIONADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2004)</small>
 
 ### CAPITULO I. Delitos Contra la Ecología
 
@@ -3975,7 +3977,7 @@ VI. Aproveche tierra o material orgánico proveniente de suelo forestal en canti
 
 No se impondrá pena alguna a quien por su escasa instrucción y extrema necesidad económica realice aprovechamientos forestales en cantidades estrictamente necesarias para su consumo familiar, siempre y cuando estos productos no salgan del lugar de vecindad inmediata.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2004)</small>
 
 ### CAPITULO II. Delitos Contra el Desarrollo Urbano
 
@@ -3997,7 +3999,7 @@ Se impondrá de cuatro a diez años de prisión y multa de mil a tres mil días 
 
 La misma sanción se impondrá al fedatario público que en ejercicio de sus funciones dolosamente intervenga en un asentamiento humano irregular.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2004)</small>
 
 ### CAPITULO III. Disposiciones Comunes para los Delitos contra la Ecología y el Desarrollo Urbano
 
@@ -4233,7 +4235,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 1 DE FEBRERO DE 2012.
 
-DECRETO NÚMERO 368 POR LO QUE SE REFORMA LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 23, LAS FRACCIONES II Y III DEL ARTÍCULO 30, LAS FRACCIONES II Y III DEL ARTÍCULO 34, LOS ARTÍCULOS 48, 59, 76 BIS, ARTÍCULO 91, LA FRACCIÓN III DEL ARTÍCULO 101, 166, LA FRACCIÓN IX DEL ARTÍCULO 185 Y LOS ARTÍCULOS 215, 216, 220, 224 BIS, 240, 241, 242 Y 245, LA DENOMINACIÓN DEL CAPÍTULO III, DEL TÍTULO DÉCIMO CUARTO, DEL LIBRO SEGUNDO; ASIMISMO SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 23, LAS FRACCIONES IV, V Y VI AL ARTÍCULO 30, UN TERCER PARRAFO AL ARTÍCULO 33, EL SEGUNDO PARRAFO AL ARTÍCULO 41, UN SEGUNDO PÁRRAFO AL ARTÍCULO 276; Y SE DEROGAN LOS ARTÍCULOS 244, 280 Y 281 DEL CÓDIGO PENAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
+DECRETO NÚMERO 368 POR LO QUE SE REFORMA LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 23, LAS FRACCIONES II Y III DEL ARTÍCULO 30, LAS FRACCIONES II Y III DEL ARTÍCULO 34, LOS ARTÍCULOS 48, 59, 76 BIS, ARTÍCULO 91, LA FRACCIÓN III DEL ARTÍCULO 101, 166, LA FRACCIÓN IX DEL ARTÍCULO 185 Y LOS ARTÍCULOS 215, 216, 220, 224 BIS, 240, 241, 242 Y 245, LA DENOMINACIÓN DEL CAPÍTULO III, DEL TÍTULO DÉCIMO CUARTO, DEL LIBRO SEGUNDO; ASIMISMO SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 23, LAS FRACCIONES IV, V Y VI AL ARTÍCULO 30, UN TERCER PÁRRAFO AL ARTÍCULO 33, EL SEGUNDO PÁRRAFO AL ARTÍCULO 41, UN SEGUNDO PÁRRAFO AL ARTÍCULO 276; Y SE DEROGAN LOS ARTÍCULOS 244, 280 Y 281 DEL CÓDIGO PENAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -4282,3 +4284,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Notifíquese el presente Decreto a los Titulares de los poderes Ejecutivo y Judicial, de los Órganos Constitucionales Autónomos y los ayuntamientos, todos del Estado de Michoacán de Ocampo, así como al Instituto Nacional Electoral y la Presidencia del Congreso de la Unión, para su conocimiento.
 
 TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen, salvo que este Código resulte más benéfico.
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+Primero. El Presente Decreto entrará en vigor en la fecha que señala la Declaratoria que al efecto expida el Congreso del Estado de Michoacán, para la entrada del Nuevo Sistema de Justicia Penal.
+
+Segundo. Se abroga el Código Penal del Estado de Michoacán publicado mediante Decreto número 186 en el Suplemento del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán, el lunes 7 de julio de 1980.
+
+Tercero. Los procesos penales iniciados con anterioridad a la entrada en vigor del nuevo sistema de justicia penal se seguirán sustanciando con el Código Penal expedido mediante Decreto número 186 en el Suplemento del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán, el lunes 7 de julio de 1980.
