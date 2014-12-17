@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2014-11-25"
+last_updated: "2014-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE NO. LXII-390 PUBLICADO EN EL P.O. DE 17 DE DICIEMBRE DE 2014, LA PRESENTE REFORMA ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -413,9 +415,9 @@ I. Proponer, formular y ejecutar los programas hacendarios, económicos, financi
 
 II. Formular y dirigir la política de ingresos y egresos del Estado, de acuerdo a los lineamientos señalados por el Gobernador del Estado, así como representar al Gobierno del Estado en los juicios y controversias que se ventilen ante cualquier tribunal, y tramitar y resolver los recursos administrativos en la esfera de su competencia;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-III. Proponer las medidas administrativas para la programación, presupuestación, control, evaluación y ejecución del gasto público estatal;
+III. Emitir políticas, lineamientos y manuales para la planeación, programación, presupuestación, ejercicio y evaluación del gasto público con enfoque en resultados a los que deben sujetarse los ejecutores del gasto. Ello sin detrimento de las facultades que las leyes confieren a la Contraloría Gubernamental en materia de Evaluación del Desempeño;
 
 IV. Recaudar y administrar los impuestos, derechos, contribuciones especiales, productos y aprovechamientos del Estado, así como aquellos derivados de los convenios con (sic) se celebren con la Federación y los Municipios, así como dictar las medidas administrativas necesarias para estos efectos;
 
@@ -433,7 +435,7 @@ IX. Administrar y custodiar los fondos y valores del Gobierno del Estado y finca
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-X.- Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones y verificaciones; realizar los demás actos que establece la Ley Aduanera en materia de Comercio Exterior y las disposiciones fiscales; así como lo indispensable para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de Comercio Exterior; impuestos, derechos, aprovechamientos, estímulos fiscales, franquicias, comprobantes fiscales y accesorios de carácter estatal, y de los de carácter federal de acuerdo a las atribuciones y funciones contenidas en los convenios celebrados con la Federación;
+X. Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones y verificaciones; realizar los demás actos que establece la Ley Aduanera en materia de Comercio Exterior y las disposiciones fiscales; así como lo indispensable para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de Comercio Exterior; impuestos, derechos, aprovechamientos, estímulos fiscales, franquicias, comprobantes fiscales y accesorios de carácter estatal, y de los de carácter federal de acuerdo a las atribuciones y funciones contenidas en los convenios celebrados con la Federación;
 
 XI. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de visitas domiciliarias, auditorías, inspecciones o verificaciones correspondientes;
 
@@ -469,23 +471,27 @@ XXIV. Planear la obtención de recursos financieros y no financieros que respald
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-XXV.- Suscribir los convenios materia de su competencia que celebre el Gobierno del Estado con el Gobierno Federal, con los Municipios de la Entidad y con otras Entidades Federativas y ejercer las atribuciones derivadas de éstos;
+XXV. Suscribir los convenios materia de su competencia que celebre el Gobierno del Estado con el Gobierno Federal, con los Municipios de la Entidad y con otras Entidades Federativas y ejercer las atribuciones derivadas de éstos;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-XXVI.- Recibir y resolver las solicitudes presentadas por los contribuyentes respecto de la devolución de cantidades pagadas indebidamente;
+XXVI. Recibir y resolver las solicitudes presentadas por los contribuyentes respecto de la devolución de cantidades pagadas indebidamente;
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-XXVII.- Resolver las solicitudes de condonación y cancelación de créditos fiscales;
+XXVII. Resolver las solicitudes de condonación y cancelación de créditos fiscales;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XXVIII.- Notificar todo tipo de actos administrativos; y
+XXVIII. Notificar todo tipo de actos administrativos;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XXIX.- Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XXIX. Apoyar a la Contraloría Gubernamental en el diseño, administración y operación del Sistema de Evaluación del Desempeño del gasto público con el fin de conocer los resultados en el cumplimiento de objetivos y metas establecidos en la Administración Pública Estatal, y;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XXX. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección III. De la Secretaría de Administración
 
@@ -1791,7 +1797,7 @@ Los asuntos que con motivo del presente Decreto pasen del conocimiento de una de
 
 ###### ARTÍCULO OCTAVO.
 
-Se derogan todas aquellas disposiciones que se opongan el presente (sic) Decreto.
+Se derogan todas aquellas disposiciones que se opongan el (sic) presente Decreto.
 
 P.O. 19 DE DICIEMBRE DE 2012.
 
@@ -2030,3 +2036,23 @@ La Universidad de Seguridad y Justicia, realizará las gestiones relativas ante 
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+El porcentaje correspondiente a los Municipios del Estado, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal establecido en el artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, no obstante lo establecido en el citado artículo, durante el año 2015 será equivalente al 37 por ciento de los ingresos obtenidos por dicho Impuesto.
+
+Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
