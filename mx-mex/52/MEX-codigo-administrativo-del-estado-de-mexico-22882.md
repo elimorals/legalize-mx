@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-12-16"
+last_updated: "2014-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -49,7 +49,9 @@ CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
 I. Salud;
 
-II. Educación, ejercicio profesional, investigación científica y tecnológica, cultura, deporte, juventud y mérito civil;
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+II. Educación, ejercicio profesional, investigación científica y tecnológica, juventud y mérito civil;
 
 III. (DEROGADA, G.G. 3 DE MAYO DE 2006)
 
@@ -2637,7 +2639,7 @@ Una vez aplicada esta medida de seguridad se podrá iniciar con el procedimiento
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
-I. Cuando los establecimientos a que se refieren los artículos 2.64 y 2.65 carezcan de la correspondiente autorización sanitaria;
+I. Cuando los establecimientos a que se refieren los artículos 2.64 y 2.65 carezcan de la correspondiente autorización sanitaria; y
 
 II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de este Título y de las disposiciones que de él emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
 
@@ -2669,11 +2671,13 @@ Sólo procederá esta sanción si previamente se dictó, en tres ocasiones, cual
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
 ### CAPITULO TERCERO. De la vigilancia
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO, G.G. 15 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 #### SECCIÓN PRIMERA. De la Zonificación
 
@@ -2687,7 +2691,9 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-# LIBRO TERCERO. De la educación, ejercicio profesional, investigación científica y tecnológica, cultura, deporte, juventud, instalaciones educativas y mérito civil
+# LIBRO TERCERO
+
+De la educación, ejercicio profesional, investigación científica y tecnológica, juventud, instalaciones educativas y mérito civil.
 
 ## TITULO SEGUNDO. De la educación
 
@@ -2697,7 +2703,7 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 ###### Artículo 3.
 
-1.- Este Libro tiene por objeto regular la educación que imparten el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, el ejercicio profesional y el mérito civil; así como promover e impulsar la investigación científica y tecnológica, la cultura, la educación ambiental, el deporte y la atención a la juventud.
+1.- Este Libro tiene por objeto regular la educación que imparten el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, el ejercicio profesional y el mérito civil, así como promover e impulsar la investigación científica y tecnológica, la educación ambiental, y la atención a la juventud.
 
 ###### Artículo 3.
 
@@ -2713,9 +2719,9 @@ III. Asegurar que quienes ejerzan una profesión cuenten con los conocimientos n
 
 IV. Impulsar el desarrollo del Estado a través de la investigación científica y tecnológica;
 
-> <small>(REFORMADA, G.G. 15 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
-V. Promover la cultura, el deporte, la educación ambiental, y la atención a la juventud;
+V. Promover la educación ambiental y la atención a la juventud;
 
 VI. Reconocer públicamente a quienes por su conducta, actos u obras lo merezcan.
 
@@ -2731,7 +2737,9 @@ III. Los particulares con autorización o con reconocimiento de validez oficial 
 
 IV. Los organismos públicos descentralizados que presten servicios educativos de carácter estatal o municipal;
 
-V. Las instituciones públicas y privadas dedicadas a la investigación científica y tecnológica, la cultura, el deporte y la atención a la juventud;
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+V. Las instituciones públicas y privadas dedicadas a la investigación científica y tecnológica y la atención a la juventud;
 
 VI. Los profesionistas y sus asociaciones o colegios.
 
@@ -3155,7 +3163,7 @@ El Registro Estatal de Educación será público, no tendrá efectos constitutiv
 
 45.- Las autoridades judiciales deberán comunicar oportunamente a la Secretaría de Educación las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional cuando éstas hubiesen causado ejecutoria, con el objeto de que, en su caso, se cancele el registro correspondiente.
 
-## TITULO QUINTO. Del Instituto Mexiquense de Cultura
+## TITULO QUINTO
 
 ###### Artículo 3.
 
@@ -3225,127 +3233,37 @@ VI. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos 
 
 Los ingresos del Consejo, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por la junta directiva.
 
-## TITULO SEXTO. Del Instituto Mexiquense de Cultura Física y Deporte
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+## TITULO SEXTO
 
 ###### Artículo 3.
 
-49.- El Instituto Mexiquense de Cultura es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto vincular a la sociedad con el quehacer cultural de la entidad y coordinar las acciones que en materia cultural lleva a cabo el Estado de México.
-
-El Instituto, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
-
-I. Propiciar el desarrollo integral de la cultura en el Estado de México, mediante la aplicación de programas adecuados a las características propias de la entidad;
-
-II. Rescatar y preservar las manifestaciones específicas que constituyen el patrimonio cultural del pueblo mexiquense;
-
-III. Impulsar las actividades de difusión y fomento cultural, orientándolas hacia las clases populares y la población escolar;
-
-IV. Coordinar los programas culturales del Estado, con los desarrollados por el gobierno federal en la entidad;
-
-V. Asesorar a los ayuntamientos, cuando así lo soliciten, en la prestación de servicios culturales;
-
-VI. Estimular la producción artística y cultural, de manera individual y colectiva;
-
-VII. Crear, fomentar, coordinar, organizar y dirigir bibliotecas, hemerotecas, casas de cultura y museos, y orientar sus actividades;
-
-VIII. Realizar las publicaciones oficiales de carácter cultural;
-
-IX. Administrar la Orquesta Sinfónica y el Conservatorio de Música del Estado de México;
-
-X. Organizar, preservar y acrecentar el Archivo Histórico del Gobierno del Estado de México;
-
-XI. Mantener actualizado el inventario de bienes que constituyen el patrimonio arqueológico, histórico, artístico y cultura de la entidad;
-
-XII. Impulsar la formación de recursos humanos para el desarrollo, promoción y administración de actividades culturales y recreativas;
-
-XIII. Promover y desarrollar actividades de fomento y rescate de las manifestaciones del arte popular;
-
-XIV. Promover y desarrollar el nivel cultural de los habitantes de la entidad, a través del mejoramiento y ampliación de la infraestructura respectiva;
-
-XV. Las demás que se establezcan en otras disposiciones legales.
+49.- (DEROGADO, G.G. 17 DE DICIEMBRE DE 2014)
 
 ###### Artículo 3.
 
-50.- La dirección y administración del Instituto está a cargo de un consejo directivo y un director general.
-
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
-
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con dos vocales, que son el representante de la Secretaría de Finanzas y el Rector de la Universidad Autónoma del Estado de México.
-
-El director general es nombrado por el Gobernador del Estado, a propuesta del presidente del consejo.
-
-La organización y funcionamiento del Instituto se rige por el reglamento interno expedido por el consejo directivo.
+50.- (DEROGADO, G.G. 17 DE DICIEMBRE DE 2014)
 
 ###### Artículo 3.
 
-51.- El patrimonio del Instituto se integra con:
+51.- (DEROGADO, G.G. 17 DE DICIEMBRE DE 2014)
 
-I. Los bienes con los que actualmente cuenta;
-
-II. Los ingresos que obtenga por los servicios que preste en el ejercicio de sus funciones y en el cumplimiento de su objeto;
-
-III. Las aportaciones, participaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y municipal;
-
-IV. Los legados, herencias, donaciones y demás bienes otorgados en su favor, y los productos de los fideicomisos en los que se le designe como fideicomisario;
-
-V. Los bienes muebles e inmuebles que adquiera por cualquier título legal para el cumplimiento de su objeto;
-
-VI. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y demás ingresos que adquiera por cualquier título legal.
-
-Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 ## TITULO SEPTIMO. Del Instituto Mexiquense de la Juventud
 
 ###### Artículo 3.
 
-52.- El Instituto Mexiquense de Cultura Física y Deporte es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto planear, organizar, coordinar, promover, ejecutar y evaluar las políticas, programas y acciones necesarias para desarrollar la cultura física y el deporte en el Estado.
-
-El Instituto, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
-
-I. Elaborar el Programa Estatal de Cultura Física y Deporte, con base en los planes nacional y estatal de desarrollo, y realizar las acciones que se deriven del mismo;
-
-II. Coordinar el sistema estatal de cultura física y deporte, instalar su consejo y promover los sistemas correspondientes en los municipios;
-
-III. Coordinar con las asociaciones deportivas estatales el establecimiento de programas específicos para el desarrollo del deporte, especialmente en materia de actualización y capacitación de recursos humanos para el deporte, eventos selectivos y de representación estatal, desarrollo de talentos deportivos y atletas de alto rendimiento;
-
-IV. Colaborar con las organizaciones de los sectores público, social y privado, en el establecimiento de programas específicos para el desarrollo de las actividades físicas para la salud y la recreación, especialmente en materia de actualización y capacitación de recursos humanos, eventos promocionales, programas vacacionales y de financiamiento;
-
-V. Establecer y operar en coordinación con las federaciones deportivas nacionales y las asociaciones deportivas estatales, centros para el deporte de alto rendimiento;
-
-VI. Promover la creación de escuelas de enseñanza, desarrollo y práctica del deporte, en coordinación con los sectores público, social y privado;
-
-VII. Apoyar a los municipios en la planeación y ejecución de programas de promoción e impulso de la cultura física y el deporte;
-
-VIII. Convenir con los sectores público, social y privado la ejecución de acciones para promover y fomentar la cultura física y el deporte en el Estado;
-
-IX. Las demás que sean necesarias para el cumplimiento de su objeto.
+52.- (DEROGADO, G.G. 17 DE DICIEMBRE DE 2014)
 
 ###### Artículo 3.
 
-53.- La dirección y administración del Instituto está a cargo de un consejo directivo y un director general.
-
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
-
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con cuatro vocales, que son los representantes de las secretarías de Finanzas, de Desarrollo Económico y dos representantes del sector privado.
-
-El director general es nombrado por el Gobernador del Estado, a propuesta del presidente del consejo.
-
-La organización y funcionamiento del Instituto se rige por el reglamento interno expedido por el consejo directivo.
+53.- (DEROGADO, G.G. 17 DE DICIEMBRE DE 2014)
 
 ###### Artículo 3.
 
-54.- El patrimonio del Instituto se integra con:
-
-I. Los bienes con los que actualmente cuenta;
-
-II. Los ingresos que obtenga por los servicios que preste en ejercicio de sus atribuciones y el cumplimiento de su objeto;
-
-III. Las instalaciones deportivas de alto rendimiento y centros recreativos;
-
-IV. Las transferencias, subsidios, donaciones y aportaciones de los gobiernos federal, estatal y municipal, y del sector privado;
-
-V. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y demás ingresos que adquiera por cualquier título legal o provengan de sus actividades.
-
-Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
+54.- (DEROGADO, G.G. 17 DE DICIEMBRE DE 2014)
 
 ## TÍTULO OCTAVO. Del Instituto Mexiquense de la Infraestructura Física Educativa
 
@@ -10943,7 +10861,7 @@ IX. Aprobar la tarifa de los servicios y productos que genere el IGECEM y su pub
 
 X. Aprobar la instalación de delegaciones regionales y la circunscripción territorial que a cada una corresponda;
 
-XI. La (sic) demás necesarias para el ejercicio de las facultades anteriores, en términos de los ordenamientos jurídicos aplicables.
+XI. La (sic) demás necesidades para el ejercicio de las facultades anteriores, en términos de los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -15967,7 +15885,7 @@ TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de u
 
 Hasta, el treinta y uno de marzo de dos mil diez en los Distritos Judiciales de Chalco, Otumba y Texcoco;
 
-Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro. Ixtlahuaca. Sultepec y Temascaltepec;
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
 
 Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
 
@@ -17014,3 +16932,31 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Las presentes reformas entrarán en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno"
 
 TERCERO.- Las dependencias y organismos auxiliares deberán adecuar sus ordenamientos internos a fin de cumplir adecuadamente con el objeto de estas reformas.
+
+G.G. 17 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a sesenta días hábiles posteriores a la entrada en vigor del presente Decreto, el dictamen de reconducción correspondiente de las tres Secretarías y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO.- El Ejecutivo deberá expedir el Reglamento Interior de las Secretarías de Cultura, de Movilidad y de Desarrollo Urbano y Metropolitano, en un plazo no mayor a sesenta días, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO.- Las atribuciones y facultades que se otorgan a la Secretaría de Cultura en este Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas del Instituto Mexiquense de Cultura y del Instituto Mexiquense de Cultura Física y Deporte.
+
+SEXTO.- Los recursos humanos, materiales y financieros del Instituto Mexiquense de Cultura y del Instituto Mexiquense de Cultura Física y Deporte serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Cultura.
+
+SÉPTIMO.- Los asuntos y demás procedimientos que se encuentren en trámite en el Instituto Mexiquense de Cultura y el Instituto Mexiquense de Cultura Física y Deporte, se concluirán conforme a su legislación vigente hasta antes de la entrada en vigor del presente Decreto.
+
+OCTAVO.- Las atribuciones y facultades que se otorgan a la Secretaría de Movilidad en este Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Secretaría de Transporte.
+
+NOVENO.- Los asuntos y demás procedimientos que se encuentren en trámite en la Secretaría de Transporte, se concluirán conforme a su legislación vigente hasta antes de la entrada en vigor del presente Decreto.
+
+DÉCIMO.- Las atribuciones y facultades que se otorgan a la Secretaría de Desarrollo Urbano y Metropolitano en este Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de las Secretarías de Desarrollo Urbano y de Desarrollo Metropolitano.
+
+DÉCIMO PRIMERO.- Los asuntos y demás procedimientos que se encuentren en trámite en la Secretaría de Desarrollo Metropolitano, se concluirán conforme a su legislación vigente hasta antes de la entrada en vigor del presente Decreto.
+
+DÉCIMO SEGUNDO.- Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento de (sic) presente Decreto.
+
+DÉCIMO TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
