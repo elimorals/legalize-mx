@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-integracion-social-de-personas-con-discapacidad-10843"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "2014-04-29"
+last_updated: "2014-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de febrero de 1997.
 
@@ -795,13 +795,55 @@ En los lugares que por la naturaleza de su construcción sea imposible realizar 
 
 En las intersecciones o cruces de aceras o calles que se encuentren construidas a diferentes niveles, las superficies de ambas deberán llevarse al mismo nivel mediante el uso de rampas, con la finalidad de hacer factible el tránsito a personas con discapacidad.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
 ### CAPITULO XVI
 
-DE LAS BARRERAS ARQUITECTONICAS EN LA VIA PUBLICA.
+DEL DERECHO A LA ACCESIBILIDAD Y DE LAS BARRERAS ARQUITECTÓNICAS EN LA VÍA PÚBLICA.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 56.
 
-Las aceras de la vía pública deberán construirse con materiales resistentes y antiderrapantes; asimismo, las que hagan esquina deberán permitir que las personas con discapacidad puedan descender o ascender en forma independiente y segura; las juntas deberán encontrarse selladas y libres de arena o piedras sueltas. Las pendientes preferentemente no deberán ser mayores del seis por ciento.
+Las personas con discapacidad tienen derecho a la Accesibilidad universal.
+
+Las dependencias y entidades de la administración pública, estatal y municipal, vigilarán el cumplimiento de las disposiciones que en materia de Accesibilidad, y desarrollo urbano se establezcan a favor de las personas con discapacidad en la normatividad aplicable vigente.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 56 BIS.- Para que las personas con discapacidad puedan vivir en forma independiente y participar plenamente en todos los aspectos de la vida, las autoridades estatales y municipales deberán garantizar la Accesibilidad, en igualdad de condiciones con las demás, en todo el territorio del Estado.
+
+Para tal efecto, de manera progresiva y de acuerdo a su disponibilidad de presupuesto, deberán:
+
+I.- Identificar y eliminar obstáculos y barreras de acceso en edificios públicos y aquellos que presten servicios públicos, las vías públicas, el transporte, otras instalaciones exteriores e interiores como escuelas, instalaciones médicas y lugares de trabajo, así como también en los servicios de información, comunicaciones y de otro tipo, incluidos los servicios electrónicos y de emergencia;
+
+II.- Dotar a los edificios públicos de señalización en formatos susceptibles de ser comprendidos por las personas con discapacidad, para facilitar su acceso a dichos edificios; y
+
+III.- Contar entre su personal, con un intérprete del Lenguaje de Señas Mexicana, para el mismo fin que la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 56 TER.- Las personas con discapacidad que requieran apoyo de un perro de asistencia para la realización de sus actividades cotidianas, tendrán derecho a que dichos animales tengan acceso a cualquier edificio o instalación de los organismos e instituciones públicas y privadas, así como que permanezcan con ellos en todos los espacios en donde se desenvuelvan.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 56 QUATER.- Los trabajadores con discapacidad tienen derecho a contar con facilidades arquitectónicas en su lugar de trabajo, quedando a cargo de las empresas privadas realizar las modificaciones pertinentes.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 56 QUINQUIES.- Las obras de construcción, públicas y privadas, deberán sujetarse a las disposiciones que en materia de Accesibilidad y desarrollo urbano se establezcan a favor de las personas con discapacidad en la normatividad vigente.
+
+Para regular dicha situación, la Secretaría de Desarrollo Urbano y Medio Ambiente y la autoridad competente a nivel municipal, determinarán las normas básicas a que deben sujetarse los proyectos de construcción públicos y privados de:
+
+I.- Urbanización, fraccionamiento y construcción; y
+
+II.- Ampliaciones, reparaciones y reformas de edificios existentes.
+
+Para tal efecto las autoridades municipales en coordinación con los Sistemas DIF Municipales y las Direcciones Municipales de Protección Civil expedirán un certificado de edificios libres de barreras arquitectónicas, que garanticen la libre movilidad de quienes habiten, visten (sic) o trabajen en dichos inmuebles bien sean particulares o públicos, debiendo contener dicho documento el símbolo internacional de accesibilidad, y el indicador de la no existencia de barreras arquitectónicas.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 56 SEXIES.- Las aceras de la vía pública deberán construirse con materiales resistentes y antiderrapantes; asimismo, las que hagan esquina deberán permitir que las personas con discapacidad puedan descender o ascender en forma independiente y segura; las juntas deberán encontrarse selladas y libres de arena o piedras sueltas. Las pendientes preferentemente no deberán ser mayores del seis por ciento.
 
 ###### ARTICULO 57.
 
@@ -1082,6 +1124,12 @@ P.O. 15 DE ABRIL DE 2014.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 29 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
