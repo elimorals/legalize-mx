@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2014-12-04"
+last_updated: "2014-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -149,13 +149,21 @@ Para su organización territorial interna, los Municipios se dividen en cabecera
 
 Los centros de población de los Municipios, por su importancia, grado de concentración demográfica y servicios públicos podrán tener las siguientes categorías y denominaciones políticas, según satisfagan los requisitos mínimos que en cada caso se señalan:
 
-I.- Ciudad, al centro de población que tenga: Censo mayor de veinticinco mil habitantes, servicios públicos, servicios médicos y de policía, calles pavimentadas o de materiales similares, edificios adecuados para las oficinas municipales, hospital, mercado, rastro, centro penitenciario y panteón, instituciones bancarias, industriales, comerciales y agrícolas, hoteles, planteles educativos de enseñanza preescolar, primaria y media.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-II.- Villa, al centro de población que tenga: Censo mayor de cinco mil habitantes, servicios públicos, servicios médicos y de policía, calles pavimentadas o de materiales similares, edificios adecuados para los servicios municipales, hospital, mercado, cárcel y panteón, escuelas de enseñanza primaria y media.
+I.- Ciudad, al centro de población que tenga: Censo mayor de veinticinco mil habitantes, servicios públicos, servicios médicos y de policía, calles pavimentadas o de materiales similares, edificios adecuados para las oficinas municipales, hospital, mercado, rastro, centro penitenciario y panteón, instituciones bancarias, industriales, comerciales y agrícolas, hoteles, servicios educativos de los niveles de preescolar, primaria, secundaria y media superior.
 
-III.- Congregación o poblado, al centro de población que tenga: Censo mayor de mil habitantes, servicios públicos más indispensables, edificio para las autoridades del lugar, reclusorio, panteón y escuela de enseñanza primaria.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-IV.- Ranchería, al centro de población que tenga: Censo hasta de mil habitantes, edificio para escuela rural, delegación o subdelegación municipal.
+II.- Villa, al centro de población que tenga Censo mayor de cinco mil habitantes, servicios públicos, servicios médicos y de policía, calles pavimentadas o de materiales similares, edificios adecuados para los servicios municipales, hospital, mercado, cárcel y panteón, servicios educativos de los niveles de preescolar, primaria, secundaria y media superior.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+III.- Congregación o poblado, al centro de población que tenga: Censo mayor de mil habitantes, servicios públicos más indispensables, edificio para las autoridades del lugar, reclusorio, panteón y servicios educativos de los niveles de preescolar, primaria, secundaria y media superior.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+IV.- Ranchería, al centro de población que tenga: Censo hasta de mil habitantes, servicios educativos de los niveles de preescolar y primaria, delegación o subdelegación municipal.
 
 El Ayuntamiento podrá promover la elevación de categoría de un centro de población, siempre que reúna los requisitos señalados anteriormente.
 
@@ -3985,7 +3993,7 @@ Cuando el afectado se haga sabedor de una providencia cuya notificación fue omi
 
 El cómputo de los términos se sujetará a las reglas siguientes:
 
-I.- Los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, contados (sic) de las cero a las veinticuatro horas;
+I.- Los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, contados de las cero a las veinticuatro horas;
 
 II.- Comenzarán a correr desde el día hábil siguiente al en que surta efectos la notificación respectiva; serán improrrogables y se incluirá en ellos el día del vencimiento;
 
@@ -4907,7 +4915,7 @@ En contra de los actos de autoridad que el Ayuntamiento determine como impugnabl
 
 ###### ARTÍCULO 429.
 
-El procedimiento sumario se regirá por los principios de oralidad, inmediación, dispositivo, abreviación, celeridad, economía procesal, publicidad, continuidad y expeditez (sic).
+El procedimiento sumario se regirá por los principios de oralidad, inmediación, dispositivo, abreviación, celeridad, economía procesal, publicidad, continuidad y expeditez.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -4993,7 +5001,7 @@ Se abroga el Decreto No. 407, publicado en el Periódico Oficial del Estado No. 
 
 ###### ARTICULO CUARTO.
 
-Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de Policía la Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
+Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -5658,3 +5666,9 @@ Los Ayuntamientos expedirán la convocatoria a que hace alusión el artículo 33
 ###### ARTÍCULO SÉPTIMO.
 
 El Ayuntamiento que corresponda, mediante el voto de las dos terceras partes de los miembros presentes podrá declarar la disolución del Tribunal Municipal de Justicia Administrativa. Para tal efecto deberá establecer de manera clara fundando y motivando las causas por las cuales ha tomado esa determinación. Previo a la fecha de extinción del Tribunal Municipal de Justicia Administrativa deberán concluirse los asuntos en trámite.
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
