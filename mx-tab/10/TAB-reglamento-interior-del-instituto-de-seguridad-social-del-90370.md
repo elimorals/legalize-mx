@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-de-seguridad-social-del-90370
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-20"
-last_updated: "2012-10-20"
+last_updated: "2014-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD SOCIAL DE TABASCO, PUBLICADO EN EL P.O. DE 17 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Suplemento B del Periódico Oficial del Estado de Tabasco, el sábado 20 de octubre de 2012.
 
@@ -942,3 +944,13 @@ SECRETARIO DE ADMINISTRACIÓN Y FINANZAS.
 DrCS. HILDA SANTOS PADRÓN
 
 DIRECTORA GENERAL DEL ISSET.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto de Seguridad Social del Estado de Tabasco, publicado en el Suplemento "B" del Periódico Oficial del Estado No. 7317, de fecha 20 de octubre de 2012.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Reglamento.
