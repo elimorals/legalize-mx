@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interno-del-instituto-de-la-defensoria-publica-71152
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-25"
-last_updated: "2009-11-25"
+last_updated: "2014-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE LA DEFENSORIA PUBLICA DEL ESTADO DE ZACATECAS
 
-REGLAMENTO INTERNO DEL INSTITUTO DE LA DEFENSORIA PUBLICA DEL ESTADO DE ZACATECAS
+REGLAMENTO INTERNO DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO DE LA LEY DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. 17 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS SESENTA DÍAS NATURALES DESPUÉS DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 17 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 25 de noviembre de 2009.
 
@@ -292,3 +294,27 @@ MIGUEL DE SANTIAGO REYES
 EL DIRECTOR GENERAL DEL INSTITUTO DE LA DEFENSORIA PÚBLICA
 
 JUAN ANTONIO GARCIA MUÑOZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+TRANSITORIOS DE LA LEY DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE ZACATECAS.
+
+Primero. El presente Decreto entrará en vigor sesenta días naturales después de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se abroga el Decreto que- crea el Instituto de la Defensoría Pública del Estado de Zacatecas, publicado mediante Suplemento al número 94 del Periódico Oficial del Gobierno del Estado, correspondiente al día 22 de noviembre de 2008; el Reglamento Interno del Instituto de la Defensoría Pública del Estado de Zacatecas, publicado en el Suplemento número 3 al número 94 del Periódico Oficial del Gobierno del Estado correspondiente al día 25 de noviembre de 2009.
+
+Se derogan además las disposiciones que contravengan lo señalado en esta ley.
+
+Tercero. Dentro de un término que no excederá de 90 días naturales posteriores a la entrada en vigor de esta ley el Instituto deberá emitir su Estatuto Orgánico.
+
+Dentro del mismo término, deberá adecuarse el Reglamento Interior de la Coordinación General Jurídica.
+
+Cuarto. La Secretaría de Finanzas y la Secretaría de Administración del Estado realizarán la transferencia al Instituto de los recursos humanos, materiales y financieros que se requieran para el cumplimiento de esta ley.
+
+Quinto. Los trabajadores que actualmente prestan sus servicios en el Instituto conservarán los derechos laborales que hayan adquirido.
+
+Sexto. Para el desempeño de sus funciones y mientras se encuentre en vigencia el Código de Procedimientos Penales de 1967 y sus reformas, la Subdirección de la Defensoría Pública en Materia Penal, contará con una Coordinación de Defensores Públicos en el sistema tradicional. Los defensores adscritos a ella tendrán la obligación de asumir la defensa de los imputados a partir de su designación, en los asuntos que se tramitan de conformidad con el Código de Procedimientos Penales de 1967 y sus reformas. A dicha Coordinación y a sus defensores les será aplicable, en lo que corresponda, lo dispuesto en esta Ley.
+
+Séptimo. En el Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2015 y subsecuentes, deberán incluirse las partidas correspondientes para el funcionamiento adecuado del Instituto de la Defensoría Pública del Estado de Zacatecas.
