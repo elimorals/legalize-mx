@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2014-06-25"
+last_updated: "2014-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE AGOSTO DE 2015 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -335,7 +333,7 @@ XIII.- Requerir a las comisiones que presenten dictamen sobre los asuntos que se
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-XIV.- Tomar las providencias conducentes para hacer concurrir a los Diputados ausentes y corregir las faltas u omisiones de los presentes, en los términos del Artículo 63 fracción XXXIV de la Constitución Política del Estado; y (sic)
+XIV.- Tomar las providencias conducentes para hacer concurrir a los Diputados ausentes y corregir las faltas u omisiones de los presentes, en los términos del Artículo 63 fracción XXXIV de la Constitución Política del Estado; y
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -485,7 +483,7 @@ a) Los relacionados con la extensión territorial y límites municipales;
 
 b) Las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia, así como los conflictos entre autoridades del Estado;
 
-c) Las renuncias y licencias del Titular del Poder ejecutivo y de los Diputados;
+c) Las renuncias y licencias del Titular del Poder Ejecutivo y de los Diputados;
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
@@ -551,7 +549,7 @@ k) (DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
 l) Los relativos a la vigilancia del cumplimiento de la Constitución Política del Estado y de las leyes emanadas de la misma;
 
-m) Cuando el Pleno del Congreso lo determine, apoyar a otras comisiones en materia técnica legislativa, así como en lo relativo a fundamentación legal y constitucional;
+m) Cuando el Pleno del Congreso lo determine, apoyar a otras comisiones en materia de técnica legislativa, así como en lo relativo a fundamentación legal y constitucional;
 
 n) La expedición y reforma de disposiciones de carácter general que no estén comprendidas en la competencia de otra Comisión; y
 
@@ -585,7 +583,7 @@ i) Las leyes que establezcan y regulen los temas integrales en materia de tratam
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-j) La expedición y reforma de la legislación en materia de justicia para adolescentes; y (sic)
+j) La expedición y reforma de la legislación en materia de justicia para adolescentes; y
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2009)</small>
 
@@ -655,7 +653,9 @@ b) Las reformas a la Ley Orgánica de la Universidad Autónoma de Nuevo León y 
 
 c) Las iniciativas en materia de cultura;
 
-d) Lo concerniente a la dispensa de honores a la memoria de los Nuevoleoneses que hayan prestado servicios de importancia al Estado;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+d) Lo concerniente a la dispensa de honores a la memoria de los Nuevoleoneses que hayan prestado servicios de importancia al Estado; realizar las propuestas para candidatos a recibir la medalla al mérito "Honorable Congreso del Estado de Nuevo León, 5 de marzo 1825".
 
 e) Las iniciativas relativas al fortalecimiento de actividades deportivas;
 
@@ -743,7 +743,7 @@ c) Lo concerniente a los asuntos fronterizos del Estado que estimulen su desarro
 
 d) (DEROGADO, P.O. 2 DE NOVIEMBRE DE 2006)
 
-e) La expedición y reforma de las leyes relativas a la relación de trabajo entre los Poderes o Ayuntamiento del Estado y sus respectivos trabajadores;
+e) La expedición y reforma de las leyes relativas a la relación de trabajo entre los Poderes o Ayuntamientos del Estado y sus respectivos trabajadores;
 
 f) La legislación relativa a la seguridad social de los trabajadores al servicio del Estado y los Municipios;
 
@@ -954,6 +954,12 @@ Las Comisiones Jurisdiccionales serán temporales, se integrarán por once Diput
 ###### Artículo 42.
 
 Las Comisiones Jurisdiccionales a que se refiere el Artículo 72 de la Ley Orgánica del Poder Legislativo conocerán y dictaminarán de los asuntos sobre Responsabilidad de los Servidores Públicos como lo establece el Título Séptimo de la Constitución Política Local y los Artículos 5, 6 y 7 de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Nuevo León sobre juicios políticos, así mismo de las solicitudes para el desafuero de los miembros de la Legislatura.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 42 Bis.
+
+La Comisión de Educación, Cultura y Deporte será la encargada de emitir las bases y la convocatoria a que se refiere el artículo 39 fracción VI inciso d). Se otorgará solamente un reconocimiento anual a personas que hayan destacado por su ciencia o su virtud en grado eminente en el Estado de Nuevo León.
 
 ###### Artículo 43.
 
@@ -1383,7 +1389,7 @@ X.- Mantener actualizada, en formato electrónico, en coordinación con la Ofici
 
 XI.- Asesorar a las autoridades competentes del Congreso del Estado en lo relativo a la celebración de convenios institucionales de intercambio de información legislativa en formato electrónico; y
 
-XII.- Proponer al área correspondiente, contenidos temáticos de informática para que sean incluidos en los cursos de capacitación de personal del Congreso.
+XII.- Proponer al área correspondiente, contenidos temáticos de informática para que sean incluidos en los cursos de capacitación del personal del Congreso.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1513,7 +1519,9 @@ El Acta de una Sesión Secreta deberá ser aprobada en sesión de igual carácte
 
 Serán Sesiones Solemnes las destinadas a tratar asuntos o acontecimientos que la Legislatura considere de significación especial y podrán concurrir como invitados de honor las personas que indica el Artículo 39 de la Ley Orgánica del Poder Legislativo.
 
-Siempre serán Solemnes la Sesión de Apertura del Primer Período Ordinario de cada año de Ejercicio Constitucional, aquélla en la que el Gobernador rinda su Informe Anual y también lo será la sesión en que el Titular del Poder Ejecutivo rinda su protesta de Ley.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+Siempre serán solemnes la Sesión de Apertura del Primer Período Ordinario de cada año de Ejercicio Constitucional, en la que el Gobernador rinda su Informe Anual, también lo será la sesión en que el Titular del Poder Ejecutivo rinda su protesta de Ley y aquella en la que se entregue la Medalla al Mérito "Honorable Congreso del Estado de Nuevo León, 5 de Marzo 1825".
 
 > <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1994)</small>
 
@@ -2420,3 +2428,7 @@ P.O. 23 DE ENERO DE 2013.
 P.O. 25 DE JUNIO DE 2014.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
