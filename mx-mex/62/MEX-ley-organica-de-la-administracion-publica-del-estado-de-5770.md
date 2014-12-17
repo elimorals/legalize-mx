@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2014-11-13"
+last_updated: "2014-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -36,6 +38,8 @@ DECRETO NUMERO 2
 LA H. XLVIII LEGISLATURA DEL ESTADO DE MEXICO,
 
 DECRETA:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN TRANSITORIO SEXTO, PUBLICADO EN LA G.G. 17 DE DICIEMBRE DE 2014, CUANDO OTROS ORDENAMIENTOS LEGALES, ADMINISTRATIVOS Y DEMÁS DOCUMENTACIÓN Y PAPELERÍA HAGAN REFERENCIA A LA SECRETARÍA DE SEGURIDAD CIUDADANA, SE ENTENDERÁ A LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA.</small>
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
@@ -153,9 +157,7 @@ Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de
 
 I. Secretaría General de Gobierno;
 
-> <small>(ADICIONADA, G.G. 18 DE OCTUBRE DE 2011)</small>
-
-II. Secretaría de Seguridad Ciudadana;
+II. (DEROGADA, G.G. 17 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -177,29 +179,29 @@ VI. Secretaría de Educación;
 
 VII. Secretaría de Desarrollo Social;
 
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+VIII. Secretaría de Desarrollo Urbano y Metropolitano;
+
 > <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-VIII.- Secretaría de Desarrollo Urbano;
-
-> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
-
-IX.- Secretaría del Agua y Obra Pública;
+IX. Secretaría del Agua y Obra Pública;
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
-X.- Secretaría de Desarrollo Agropecuario;
+X. Secretaría de Desarrollo Agropecuario;
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
-XI.- Secretaría de Desarrollo Económico;
+XI. Secretaría de Desarrollo Económico;
 
 > <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
 XII. Secretaría de Turismo;
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
-XIII. Secretaría de Desarrollo Metropolitano;
+XIII. Secretaría de Cultura;
 
 > <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
@@ -209,9 +211,9 @@ XIV. Secretaría de la Contraloría;
 
 XV. Secretaría de Comunicaciones;
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
-XVI. Secretaría de Transporte;
+XVI. Secretaría de Movilidad;
 
 > <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -287,73 +289,53 @@ XX. Intervenir, en el ámbito de su competencia, en auxilio o en coordinación c
 
 XXI. Expedir previo acuerdo del Gobernador, las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté atribuido a otras dependencias del Ejecutivo;
 
-XXII. Las demás que le señalen las leyes y reglamentos en el Estado.
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, G.G. 18 DE OCTUBRE DE 2011)</small>
+XXII. Ejercer, en términos de las disposiciones jurídicas aplicables, las atribuciones en materia de seguridad pública, y dictar las disposiciones necesarias para asegurar y proteger en forma inmediata el orden y la paz públicos, la integridad física de las personas y sus bienes, prevenir la comisión de delitos e infracciones administrativas, auxiliar a las autoridades competentes cuando así lo soliciten en la investigación y persecución de los delitos y concurrir, en términos de la ley, con las autoridades en casos de siniestro o desastre, a través de la Comisión Estatal de Seguridad Ciudadana;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXIII. Transmitir y ejecutar los acuerdos y demás disposiciones que instruya el Gobernador del Estado en materia de seguridad pública;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXIV. Tramitar por acuerdo del Gobernador, las solicitudes de amnistía, indultos, libertad anticipada y traslado de internos, a través de la Comisión Estatal de Seguridad Ciudadana;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXV. Elaborar y ejecutar los programas de readaptación social de los infractores a través de la Comisión Estatal de Seguridad Ciudadana;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXVI. Vigilar el establecimiento de instituciones y la aplicación de la norma en materia de justicia para adolescentes a través de la Comisión Estatal de Seguridad Ciudadana;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXVII. Ejercer las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México y demás ordenamientos aplicables otorgan a las instituciones policiales en materia de investigación preventiva, e instrumentar y coordinar acciones y procedimientos para la planeación, obtención, procesamiento y aprovechamiento de información de inteligencia para tales efectos;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXVIII. Ejercer el mando directo de las instituciones policiales del Estado, en los términos de la ley de la materia y demás disposiciones jurídicas aplicables, a fin de salvaguardar la integridad física y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXIX. Coordinar y supervisar las acciones en materia de protección civil;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXX. Coordinar los servicios de seguridad, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas de competencia estatal, así como las instalaciones estratégicas del Estado;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXXI. Establecer, integrar, supervisar, utilizar y mantener actualizados los instrumentos de información del Sistema Nacional de Seguridad Pública que le competan, mediante las bases de datos en materia de seguridad pública correspondientes;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXXII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 21 Bis.
 
-La Secretaría de Seguridad Ciudadana es la dependencia encargada de planear, formular, conducir, coordinar, ejecutar, supervisar y evaluar las políticas, programas y acciones en materia de seguridad pública.
-
-A la Secretaría le corresponde el despacho de los siguientes asuntos:
-
-I. Transmitir y ejecutar los acuerdos y demás disposiciones que instruya el Gobernador del Estado en materia de seguridad pública;
-
-II. Dictar las disposiciones necesarias para asegurar y proteger en forma inmediata el orden y la paz públicos, la integridad física de las personas y sus bienes, prevenir la comisión de delitos e infracciones administrativas, auxiliar a las autoridades competentes cuando así lo soliciten en la investigación y persecución de los delitos y concurrir, en términos de la ley, con las autoridades en casos de siniestro o desastre;
-
-> <small>(REFORMADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
-
-III. Impulsar las acciones necesarias para promover la participación de la comunidad en materia de seguridad pública;
-
-IV. Ejercer las atribuciones que la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos aplicables otorgan a las instituciones policiales en materia de investigación preventiva, e instrumentar y coordinar acciones y procedimientos para la planeación, obtención, procesamiento y aprovechamiento de información de inteligencia para tales efectos;
-
-V. Ejercer el mando directo de las Instituciones Policiales del Estado, en los términos de la ley de la materia y demás disposiciones jurídicas aplicables, a fin de salvaguardar la integridad física y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos;
-
-VI. Impulsar la coordinación de las Instituciones Policiales y proponer, en el ámbito de sus facultades, la adopción y aplicación de políticas y programas de cooperación en materia de seguridad pública, con la Federación, las entidades federativas y los municipios;
-
-VII. Promover la formación, capacitación, profesionalización, actualización, adiestramiento y especialización de las Instituciones Policiales;
-
-VIII. Coordinar la evaluación del funcionamiento de la seguridad pública;
-
-IX. Participar, en coordinación con la Procuraduría General de Justicia, en la elaboración de diagnósticos y estrategias de política criminal;
-
-X. Autorizar, coordinar, controlar y supervisar los servicios de seguridad privada, de conformidad con las normas aplicables;
-
-XI. (DEROGADA, G.G. 13 DE NOVIEMBRE DE 2014)
-
-XII. (DEROGADA, G.G. 13 DE NOVIEMBRE DE 2014)
-
-XIII. Coordinar los servicios de seguridad, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas de competencia estatal, así como las instalaciones estratégicas del Estado;
-
-XIV. Establecer y vigilar la operación de los procedimientos de administración, seguridad, control, vigilancia y apoyo logístico del sistema penitenciario;
-
-> <small>(REFORMADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
-
-XV. Administrar los centros de reinserción social y tramitar las solicitudes de amnistía, indultos, libertad anticipada y traslado de internos;
-
-XVI. Vigilar el establecimiento de las instituciones y la aplicación de la norma, en el ámbito de su competencia, en materia de justicia para adolescentes;
-
-XVII. Ejecutar las políticas, lineamientos y acciones de su competencia, previstos en los convenios de coordinación suscritos por el Estado de México en el marco del Sistema Nacional de Seguridad Pública, así como los derivados de los acuerdos y resoluciones del Consejo Nacional de Seguridad Pública y demás instancias de coordinación que correspondan;
-
-XVIII. Establecer mecanismos de coordinación con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
-
-> <small>(REFORMADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
-
-XIX. Colaborar, cuando así lo soliciten otras instituciones del Estado, federales, municipales o del Distrito Federal competentes en la protección de la integridad, derechos y patrimonio de las personas, en situaciones de peligro, cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente en el mantenimiento y restablecimiento de la paz y orden públicos, así como intervenir, en el ámbito de su competencia, en materia de portación de armas y explosivos;
-
-XX. Establecer, integrar, supervisar, utilizar y mantener actualizados los instrumentos de información del Sistema Nacional de Seguridad Pública que le competan, mediante las bases de datos en materia de seguridad pública correspondientes;
-
-XXI. Organizar, dirigir y administrar la recepción y transferencia de los reportes sobre emergencias, infracciones y delitos;
-
-> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
-
-XXII. Coordinar planes y operativos para la defensa y protección del medio ambiente, a fin de preservar y salvaguardar los recursos naturales de la entidad;
-
-> <small>(ADICIONADA, G.G. 17 DE JULIO DE 2013)</small>
-
-XXIII. Retirar los vehículos abandonados en la infraestructura vial y remitirlos al depósito vehicular más cercano; y
-
-XXIV. Las demás que le señalen otros ordenamientos jurídicos.
+(DEROGADO, G.G. 17 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADO, G.G. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -703,7 +685,7 @@ V. Planear, organizar, dirigir, coordinar y evaluar el Sistema Estatal de Salud,
 
 VI. Coordinar la prestación de servicios de atención médica, salud pública y regulación sanitaria en el Estado; y convenir en lo conducente, con cualquier otro sector que promueva acciones en estas materias;
 
-VII. Planear, operar, controlar y evaluar el Sistema Estatal de Donación de Organos Humanos para transplane (sic);
+VII. Planear, operar, controlar y evaluar el Sistema Estatal de Donación de Organos Humanos para transplante (sic);
 
 VIII. Planear, operar, controlar y evaluar el Sistema de Información de Salud del Estado de México, participando todas las dependencias y organismos auxiliares que proporcionen servicios de salud, así como el Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
@@ -947,11 +929,11 @@ XXVI. Promover la transformación de las guarderías y de las escuelas del siste
 
 XXVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
-La Secretaría de Desarrollo Urbano es la dependencia encargada del ordenamiento territorial de los asentamientos humanos y de regular el desarrollo urbano de los centros de población y la vivienda.
+La Secretaría de Desarrollo Urbano y Metropolitano es la dependencia encargada del ordenamiento territorial de los asentamientos humanos y de regular el desarrollo urbano de los centros de población y la vivienda, así como promover, coordinar y evaluar, en el ámbito del territorio estatal, las acciones y programas orientados al desarrollo armónico y sustentable de las zonas metropolitanas.
 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -991,9 +973,55 @@ XVI.- Promover estudios para el mejoramiento del ordenamiento territorial de los
 
 XVII.- Determinar la apertura o modificación de vías públicas;
 
-XVIII- Participar en las comisiones de carácter regional y metropolitano en la que se traten asuntos sobre asentamientos humanos, desarrollo urbano y vivienda.
+XVIII.- Participar en las comisiones de carácter regional y metropolitano en la que se traten asuntos sobre asentamientos humanos, desarrollo urbano y vivienda.
 
-XIX.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XIX.- Ampliar y fortalecer los mecanismos de coordinación con los gobiernos Federal, del Distrito Federal, de las entidades federativas vecinas y de los municipios conurbados, para atender de manera integral los asuntos de carácter metropolitano;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XX.- Promover, coordinar y evaluar con las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, las acciones, programas orientados al desarrollo de las zonas metropolitanas o de conurbación en la entidad;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXI.- Convocar a las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, a participar directamente en alguna comisión metropolitana cuando así resulte necesario;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXII.- Coordinar y promover con los representantes de la entidad en las comisiones metropolitanas, que los programas y acciones de éstas se vinculen con los objetivos y estrategias del Plan de Desarrollo del Estado de México, a través de un enfoque metropolitano;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXIII.- Fortalecer, promover y evaluar los mecanismos de coordinación para planear los trabajos de las comisiones metropolitanas;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXIV.- Integrar y coordinar los trabajos de las comisiones metropolitanas que correspondan a las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXV.- Coordinar y dirigir los trabajos de las dependencias estatales en las comisiones metropolitanas, vigilando el cumplimiento de los acuerdos en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXVI.- Promover, coordinar, vigilar y evaluar los proyectos de inversión metropolitanos, estratégicos de obras y acciones estatales y en materia intermunicipal, cuando así se convenga con los municipios involucrados;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXVII.- Realizar investigaciones y estudios para apoyar las actividades que realiza la Administración Pública Estatal en las zonas metropolitanas de la entidad, así como de aquéllas que se deriven de los programas de las comisiones metropolitanas;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXVIII.- Asesorar cuando así lo soliciten, a los municipios conurbados en asuntos de carácter metropolitano y de coordinación regional e intermunicipal, para que fortalezcan sus programas de infraestructura y equipamiento urbano;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXIX.- Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter metropolitanos, procurando la promoción de la identidad mexiquense;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXX.- Las demás que le señalen otras disposiciones legales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1153,81 +1181,67 @@ XXVI. Determinar el uso restringido de la infraestructura vial.
 
 XXVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 33.
 
-La Secretaría de Transporte es la dependencia encargada de planear, formular, dirigir, coordinar, evaluar, ejecutar y supervisar las políticas y programas para el desarrollo integral del servicio público de transporte de jurisdicción estatal y de sus servicios conexos.
+La Secretaría de Movilidad es la dependencia encargada de planear, formular, dirigir, coordinar, gestionar, evaluar, ejecutar y supervisar las políticas, programas, proyectos y estudios para el desarrollo del sistema integral de movilidad, incluyendo el servicio público de transporte de jurisdicción estatal y de sus servicios conexos.
 
-A esta Secretaría le corresponde el despacho de los siguientes asuntos:
+I. Fomentar mecanismos para garantizar el derecho humano a la movilidad, a través de una política gubernamental que facilite y propicie el acceso a todas las posibilidades de movimiento de las personas en el Estado en condiciones de accesibilidad, calidad y seguridad, favoreciendo el mejor desplazamiento de personas y bienes, para contribuir al desarrollo de la Entidad;
 
-I. Formular y ejecutar programas y acciones para el desarrollo del transporte y sus servicios conexos;
+II. Propiciar que las personas tengan derecho a disfrutar de una movilidad eficiente y segura;
 
-> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
+III. Instrumentar programas y campañas de capacitación y difusión permanentes de cultura de movilidad, encaminados a mejorar las condiciones en que se realizan los desplazamientos, fomentar cambios de hábitos viales y la sana convivencia entre los distintos usuarios de la vía;
 
-II. Otorgar, modificar, revocar, rescatar, sustituir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, individual, mixto, y el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento, con excepción del transporte masivo o de alta capacidad. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma; con excepción del transporte masivo o de alta capacidad;
+IV. Verificar las condiciones bajo las cuales se pueda propiciar la movilidad mediante el uso del transporte público y medios alternativos a través de un diseño adecuado del espacio público;
 
-> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
+V. Fomentar mecanismos para garantizar en todo momento, que todas las personas en ejercicio del derecho a la movilidad se obliguen a respetar y preservar las condiciones de la infraestructura para la movilidad, así como evitar perjudicarla o poner en riesgo a las demás personas, y a que cumpla las disposiciones contenidas en la ley de la materia y demás disposiciones jurídicas aplicables;
 
-III. Otorgar, modificar, cancelar, revocar, rescatar, sustituir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros, de carga y de arrastre y traslado; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos; con excepción del transporte masivo o de alta capacidad;
+VI. Realizar campañas permanentes de educación vial para promover la cultura de la movilidad, con el objeto de reducir índices de accidentes, fomentar el trato respetuoso y erradicar la violencia con atención especial a niñas, niños, adultos mayores, personas con discapacidad, mujeres y demás grupos vulnerables;
 
-IV. Autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos afectos al servicio público de transporte;
+VII. Formular y ejecutar programas y acciones para el desarrollo del transporte y sus servicios conexos;
 
-V. Vigilar el cumplimiento de las disposiciones legales en materia de transporte público dictando al respecto, las medidas administrativas que sean necesarias para el mejoramiento de la prestación del servicio;
+VIII. Otorgar, modificar, revocar, rescatar, sustituir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, individual, mixto, y el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento, con excepción del transporte masivo o de alta capacidad. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma; con excepción del transporte masivo o de alta capacidad;
 
-> <small>(F. DE E., G.G. 18 DE SEPTIEMBRE DE 2002)</small>
+IX. Otorgar, modificar, cancelar, revocar, rescatar, sustituir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros, de carga y de arrastre y traslado; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos; con excepción del transporte masivo o de alta capacidad;
 
-VI. Ejecutar las acciones técnicas de seguimiento, evaluación y control de avance, calidad y demás características de las obras o de la prestación de los servicios en materia de transporte, sin perjuicio de la intervención que corresponda a otras autoridades;
+X. Autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos afectos al servicio público de transporte;
 
-> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+XI. Vigilar el cumplimiento de las disposiciones legales en materia de transporte público dictando al respecto, las medidas administrativas que sean necesarias para el mejoramiento de la prestación del servicio;
 
-VII. Autorizar y modificar las tarifas a que se sujete el servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, así como determinar el medio a través del cual los usuarios realizarán el pago de la misma y los dispositivos con que deberán contar los concesionarios para recabarla;
+XII. Ejecutar las acciones técnicas de seguimiento, evaluación y control de avance, calidad y demás características de las obras o de la prestación de los servicios en materia de transporte, sin perjuicio de la intervención que corresponda a otras autoridades;
 
-VIII. Prevenir y sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público;
+XIII. Autorizar y modificar las tarifas a que se sujete el servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, así como determinar el medio a través del cual los usuarios realizarán el pago de la misma y los dispositivos con que deberán contar los concesionarios para recabarla;
 
-> <small>(F. DE E., G.G. 18 DE SEPTIEMBRE DE 2002)</small>
+XIV. Implementar medidas y acciones para el debido cumplimiento de las obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público;
 
-IX. Opinar respecto del uso de la infraestructura vial primaria por los servicios de transporte público y de la construcción de bahías de ascenso y descenso de pasaje;
+XV. Sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público;
 
-> <small>(F. DE E., G.G. 18 DE SEPTIEMBRE DE 2002)</small>
+XVI. Opinar respecto del uso de la infraestructura vial primaria por los servicios de transporte público y de la construcción de bahías de ascenso y descenso de pasaje;
 
-X. Autorizar las bases, paraderos y terminales del servicio público de transporte, previa opinión de la Secretaría de Comunicaciones, en los casos de uso de la infraestructura vial primaria;
+XVII. Autorizar las bases, paraderos y terminales del servicio público de transporte, previa opinión de la Secretaría de Comunicaciones, en los casos de uso de la infraestructura vial primaria;
 
-XI. Realizar las tareas relativas a ingeniería del transporte, coordinándose con otras autoridades cuando así fuere procedente;
+XVIII. Realizar las tareas relativas a ingeniería del transporte, coordinándose con otras autoridades cuando así fuere procedente;
 
-> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
+XIX. Normar, organizar, integrar, operar y actualizar el Registro Estatal de Transporte;
 
-XII. Normar, organizar, integrar, operar y actualizar el Registro Estatal de Transporte;
+XX. Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de transporte;
 
-XIII. Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de transporte;
+XXI. Emitir las disposiciones administrativas necesarias para la desconcentración por región de la Secretaría, así como las facultades de las unidades desconcentradas;
 
-XIV. Emitir las disposiciones administrativas necesarias para la desconcentración por región de la Secretaría, así como las facultades de las unidades desconcentradas;
+XXII. Aplicar las medidas de seguridad en términos de la legislación vigente;
 
-XV. Aplicar las medidas de seguridad en términos de la legislación vigente;
+XXIII. Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados al transporte público y para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales, que no sean competencia de otras autoridades;
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+XXIV. Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte en sus diversas clases y modalidades;
 
-XVI. Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados al transporte público y para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales, que no sean competencia de otras autoridades;
+XXV. Aprobar la implementación y operación del servicio de pago tarifario anticipado para el acceso de la población al servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos Indicante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas. El proceso de aprobación será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
 
-> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
+XXVI. Aprobar la implementación y operación de los Centros de Gestión y Control Común a través de los cuales se operen redes integradas de transporte, con las que se eficiente el servicio público de pasajeros en la modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas. El proceso de aprobación será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
 
-XVII. Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte en sus diversas clases y modalidades;
+XXVII. Definir, en coordinación con la Secretaría de Comunicaciones, la operación de las rutas alimentadoras para el transporte de alta capacidad; y
 
-> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
-
-XVIII. Aprobar la implementación y operación del servicio de pago tarifario anticipado para el acceso de la población al servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas. El proceso de aprobación será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
-
-> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
-
-XIX. Aprobar la implementación y operación de los Centros de Gestión y Control Común a través de los cuales se operen redes integradas de transporte, con las que se eficiente el servicio público de pasajeros en la (sic) modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas. El proceso de aprobación será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
-
-> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
-
-XX. Definir, en coordinación con la Secretaría de Comunicaciones, la operación de las rutas alimentadoras para el transporte de alta capacidad; y
-
-> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
-
-XX. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
+XXVIII. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
 > <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2002)</small>
 
@@ -1443,41 +1457,67 @@ XII.- Organizar y fomentar la producción artesanal en el Estado, vigilando que 
 
 XIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 37.
 
-La Secretaría de Desarrollo Metropolitano, es la dependencia encargada de promover, coordinar y evaluar, en el ámbito del territorio estatal, las acciones y programas orientados al desarrollo armónico y sustentable de las zonas metropolitanas.
+La Secretaría de Cultura tiene por objeto vincular a la sociedad con el quehacer cultural de la entidad, así como planear, organizar, coordinar, promover, ejecutar y evaluar las políticas, programas y acciones necesarias para desarrollar la cultura, cultura física y el deporte, en el Estado de México.
 
-> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 38.
 
-A la Secretaría de Desarrollo Metropolitano le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Cultura tiene las siguientes atribuciones:
 
-I. Ampliar y fortalecer los mecanismos de coordinación con los gobiernos Federal, del Distrito Federal, de las Entidades Federativas vecinas y de los municipios conurbados, para atender de manera integral los asuntos de carácter metropolitano;
+I. Propiciar el desarrollo integral de la cultura en el Estado de México, mediante la aplicación de programas adecuados a las características propias de la entidad;
 
-II. Promover, coordinar y evaluar con las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, las acciones y programas orientados al desarrollo de las zonas metropolitanas o de conurbación en la entidad;
+II. Fomentar mecanismos para garantizar el derecho de las personas a participar libremente en la vida cultural de la comunidad, a gozar de las artes y de los beneficios del progreso científico;
 
-III. Convocar a las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, a participar directamente en alguna comisión metropolitana, cuando así resulte necesario;
+III. Mantener vinculación con las agencias internacionales en los términos de la legislación aplicable;
 
-IV. Coordinar y promover con los representantes de la entidad en las emisiones metropolitanas, que los programas y acciones de éstas se vinculen con los objetivos y estrategias del Plan de Desarrollo del Estado de México, a través de un enfoque metropolitano;
+IV. Rescatar y preservar las manifestaciones específicas y diversas que constituyen el patrimonio cultural del pueblo mexiquense;
 
-V. Fortalecer, promover y evaluar los mecanismos de coordinación para planear los trabajos de las comisiones metropolitanas;
+V. Impulsar las actividades de difusión y fomento cultural, priorizándolas hacia las clases populares y la población escolar;
 
-VI. Integrar y coordinar los trabajos de las comisiones metropolitanas que correspondan a las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal;
+VI. Coordinar los programas culturales del Estado, con los desarrollados por el gobierno federal en la entidad;
 
-VII. Coordinar y dirigir los trabajos de las dependencias estatales en las comisiones metropolitanas, vigilando el cumplimiento de los acuerdos en el ámbito de su competencia;
+VII. Asesorar a los ayuntamientos, cuando así lo soliciten, en la prestación de servicios culturales;
 
-VIII. Promover, coordinar, vigilar y evaluar los proyectos de inversión metropolitanos, estratégicos de obras y acciones estatales y en materia intermunicipal, cuando así se convenga con los municipios involucrados;
+VIII. Estimular la producción artística y cultural, de manera individual y colectiva;
 
-IX. Realizar investigaciones y estudios para apoyar las actividades que realiza la Administración Pública Estatal en las zonas metropolitanas de la entidad, así como de aquellas que se deriven de los programas de las comisiones metropolitanas;
+IX. Crear, fomentar, coordinar, organizar y dirigir bibliotecas, hemerotecas, casas de cultura y museos, y orientar sus actividades;
 
-X. Asesorar cuando así lo soliciten, a los municipios conurbados en asuntos de carácter metropolitano y de coordinación regional e intermunicipal, para que fortalezcan sus programas de infraestructura y equipamiento urbano;
+X. Realizar las publicaciones oficiales de carácter cultural;
 
-XI. Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter metropolitanos, procurando la promoción de la entidad mexiquense;
+XI. Administrar la Orquesta Sinfónica y el Conservatorio de Música del Estado de México;
 
-XII. Los demás que le señalen otras disposiciones legales.
+XII. Organizar, preservar y acrecentar el Archivo Histórico del Gobierno del Estado de México;
+
+XIII. Mantener actualizado el inventario de bienes que constituyen el patrimonio arqueológico, histórico, artístico y cultura de la entidad;
+
+XIV. Impulsar la formación de recursos humanos para el desarrollo, promoción y administración de actividades culturales y recreativas;
+
+XV. Promover y desarrollar actividades de fomento y rescate de las manifestaciones del arte popular;
+
+XVI. Promover y desarrollar el nivel cultural de los habitantes de la entidad, a través del mejoramiento y ampliación de la infraestructura respectiva;
+
+XVII. Elaborar el Programa Estatal de Cultura Física y Deporte, con base en los planes nacional y estatal de desarrollo, y realizar las acciones que se deriven del mismo;
+
+XVIII. Coordinar el sistema estatal de cultura física y deporte, instalar su consejo y promover los sistemas correspondientes en los municipios;
+
+XIX. Coordinar con las asociaciones deportivas estatales el establecimiento de programas específicos para el desarrollo del deporte, especialmente en materia de actualización y capacitación de recursos humanos para el deporte, eventos selectivos y de representación estatal, desarrollo de talentos deportivos y atletas de alto rendimiento;
+
+XX. Colaborar con las organizaciones de los sectores público, social y privado, en el establecimiento de programas específicos para el desarrollo de las actividades físicas para la salud y la recreación, especialmente en materia de actualización y capacitación de recursos humanos, eventos promocionales, programas vacacionales y de financiamiento;
+
+XXI. Establecer y operar en coordinación con las federaciones deportivas nacionales y las asociaciones deportivas estatales, centros para el deporte de alto rendimiento;
+
+XXII. Promover la creación de escuelas de enseñanza, desarrollo y práctica del deporte, en coordinación con los sectores público, social y privado;
+
+XXIII. Apoyar a los municipios en la planeación y ejecución de programas de promoción e impulso de la cultura física y el deporte;
+
+XXIV. Convenir con los sectores público, social y privado la ejecución de acciones para promover y fomentar la cultura física y el deporte en el Estado;
+
+XXV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 > <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 1989)</small>
 
@@ -2502,3 +2542,55 @@ TERCERO.- Las autoridades, en el ámbito de sus respectivas competencias, en un 
 CUARTO.- El ejecutivo del estado realizará las acciones necesarias para que los recursos humanos, materiales y financieros, sean transferidos de la Dirección General de Protección Civil a la Coordinación General de Protección Civil hasta por un término de noventa días naturales a partir de la entrada en vigor del presente Decreto.
 
 QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 17 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 360 POR LO QUE SE REFORMAN LAS FRACCIONES VIII, XIII Y XVI DEL ARTÍCULO 19, EL ARTÍCULO 31 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN XIX, LOS ARTÍCULOS 33, 37 Y 38; SE ADICIONAN LAS FRACCIONES XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX Y XXX AL ARTÍCULO 31 A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a sesenta días hábiles posteriores a la entrada en vigor del presente Decreto, el dictamen de reconducción correspondiente de las tres Secretarías y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO.- El Ejecutivo deberá expedir el Reglamento Interior de las Secretarías de Cultura, de Movilidad y de Desarrollo Urbano y Metropolitano, en un plazo no mayor a sesenta días, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO.- Las atribuciones y facultades que se otorgan a la Secretaría de Cultura en este Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas del Instituto Mexiquense de Cultura y del Instituto Mexiquense de Cultura Física y Deporte.
+
+SEXTO.- Los recursos humanos, materiales y financieros del Instituto Mexiquense de Cultura y del Instituto Mexiquense de Cultura Física y Deporte serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Cultura.
+
+SÉPTIMO.- Los asuntos y demás procedimientos que se encuentren en trámite en el Instituto Mexiquense de Cultura y el Instituto Mexiquense de Cultura Física y Deporte, se concluirán conforme a su legislación vigente hasta antes de la entrada en vigor del presente Decreto.
+
+OCTAVO.- Las atribuciones y facultades que se otorgan a la Secretaría de Movilidad en este Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Secretaría de Transporte.
+
+NOVENO.- Los asuntos y demás procedimientos que se encuentren en trámite en la Secretaría de Transporte, se concluirán conforme a su legislación vigente hasta antes de la entrada en vigor del presente Decreto.
+
+DÉCIMO.- Las atribuciones y facultades que se otorgan a la Secretaría de Desarrollo Urbano y Metropolitano en este Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de las Secretarías de Desarrollo Urbano y de Desarrollo Metropolitano.
+
+DÉCIMO PRIMERO.- Los asuntos y demás procedimientos que se encuentren en trámite en la Secretaría de Desarrollo Metropolitano, se concluirán conforme a su legislación vigente hasta antes de la entrada en vigor del presente Decreto.
+
+DÉCIMO SEGUNDO.- Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento de presente Decreto.
+
+DÉCIMO TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 17 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 361 POR EL QUE SE REFORMA EL ARTÍCULO 21 EN SU FRACCIÓN XXII, SE ADICIONAN LAS FRACCIONES XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI Y XXXII, SE DEROGAN LA FRACCIÓN II DEL ARTÍCULO 19 Y EL ARTÍCULO 21 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a sesenta días hábiles posteriores a la entrada en vigor del presente Decreto, el dictamen de reconducción correspondiente de las tres Secretarías y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO.- Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+QUINTO.- Los recursos humanos, materiales y financieros con los que venía operando la Secretaría de Seguridad Ciudadana, se transferirán o reasignarán a la Comisión Estatal de Seguridad Ciudadana, en los términos que al efecto se acuerden. Los recursos humanos que se transfieran a la Comisión Estatal de Seguridad Ciudadana conservarán su antigüedad y demás derechos laborales adquiridos.
+
+SEXTO.- Cuando otros ordenamientos legales, administrativos y demás documentación y papelería hagan referencia a la Secretaría de Seguridad Ciudadana, se entenderá a la Comisión Estatal de Seguridad Ciudadana.
+
+SÉPTIMO.- Los asuntos y demás procedimientos que se encuentren en trámite en la Secretaría de Seguridad Ciudadana, al entrar en vigor el presente Decreto, se tramitarán y resolverán por la Comisión Estatal de Seguridad Ciudadana.
+
+OCTAVO.- Se derogan las disposiciones de igual o menor jerarquía contrarias a las contenidas en el presente Decreto.
+
+NOVENO.- El Titular del Ejecutivo del Estado, expedirá las disposiciones reglamentarias y reformas a otros ordenamientos jurídicos, respectivamente, en un plazo no mayor a treinta días, posteriores a la entrada en vigor del presente Decreto.
