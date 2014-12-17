@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2014-04-15"
+last_updated: "2014-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -85,9 +85,27 @@ c) Patrimonial: cualquier acción u omisión que afecte la supervivencia de la m
 
 d) Económica: cualquier acción u omisión que afecte la supervivencia económica de la mujer. Dicha acción u omisión comprende cualquier limitación encaminada a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo en condiciones laborales semejantes;
 
-e) Sexual: cualquier acción que degrade o dañe el cuerpo, la integridad y libertad sexuales de la mujer. Dicha acción comprende cualquier afectación a la dignidad humana, integridad, libertad y seguridad; y
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-f) Diversa: cualquier forma análoga que lesione o pueda lesionar la dignidad, integridad o libertad de la mujer.
+e) Sexual: cualquier acción que degrade o dañe el cuerpo, la integridad y libertad sexuales de la mujer. Dicha acción comprende cualquier afectación a la dignidad, integridad, libertad y seguridad;
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+f) Obstétrica: toda acción u omisión que ejerza el personal médico o de salud, que dañe, lastime, denigre o cause la muerte durante el embarazo, parto o puerperio, expresada en:
+
+I. La negligencia en su atención propiciada por la falta de un trato humanizado;
+
+II. El abuso de medicación y patologización de los procesos naturales, considerando como tales, la omisión de la atención oportuna y eficaz de las emergencias obstétricas;
+
+III. La práctica del parto por vía de cesárea, existiendo condiciones para que éste sea natural. El parto vía cesárea podrá efectuarse siempre y cuando no existan riesgos que, a consideración del médico, entrañen un probable daño a la salud del producto o de la paciente;
+
+IV. El uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer;
+
+V. El obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer; y
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+g) Diversa: cualquier forma análoga que lesione la dignidad, integridad o libertad de la mujer.
 
 ### Capítulo II. Modalidades de la violencia
 
@@ -626,3 +644,9 @@ P.O. 15 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación.
