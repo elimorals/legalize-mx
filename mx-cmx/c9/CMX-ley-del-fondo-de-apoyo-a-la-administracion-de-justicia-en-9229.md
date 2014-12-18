@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-fondo-de-apoyo-a-la-administracion-de-justicia-en-9229"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-20"
-last_updated: "2000-06-27"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9229&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1996-12-10"
 ---
 # LEY DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA EN EL DISTRITO FEDERAL
 
-LEY DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA EN EL DISTRITO FEDERAL
+LEY DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE JUNIO DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 23 de diciembre de 1996.
 
@@ -72,9 +72,13 @@ El Fondo estará integrado con recursos propios y con recursos ajenos, de confor
 
 Son recursos propios afectos al Fondo:
 
-I. Los rendimientos que bajo cualquier modalidad generen los depósitos en dinero o en valores que, amparados en los certificados correspondientes, se efectúen ante las Salas, Juzgados o cualquier órgano dependiente del Tribunal;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-II. El monto de las cauciones que garanticen la libertad provisional de los procesados ante las Salas o Juzgados del Tribunal y que sean hechas efectivas de conformidad con las disposiciones legales aplicables;
+I. Los rendimientos que bajo cualquier modalidad generen los depósitos en dinero o en valores que, amparados en los certificados correspondientes, se efectúen ante el Órgano Jurisdiccional o cualquier órgano dependiente del Tribunal;
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. El monto de las cauciones que garantice la libertad provisional de los procesados o imputados ante el Órgano Jurisdiccional y que sean hechas efectivas de conformidad con las disposiciones legales aplicables;
 
 III. El monto de las cauciones que garanticen la libertad condicional de los sentenciados por las Salas o Juzgados del Tribunal que se encuentren gozando del beneficio relativo y que sean hechas efectivas de conformidad con las disposiciones legales aplicables;
 
@@ -84,11 +88,19 @@ V. El monto de la reparación del daño cuando la parte ofendida renuncie a ella
 
 VI. Las donaciones o aportaciones hechas a su favor por terceros, y
 
-VII. Las demás que señalen las leyes y reglamentos.
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VII. El numerario decomisado y los recursos que se obtengan por la enajenación de los bienes decomisados, una vez satisfecha la reparación a la víctima, en la parte que establece el artículo 250 del Código Nacional de Procedimientos Penales;
+
+> <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VIII. Las demás que establezcan las leyes y reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 6o.
 
-Son recursos ajenos afectos transitoriamente al Fondo, los depósitos en efectivo que, por cualquier causa y mediante la exhibición del certificado de depósito correspondiente, se hagan ante las Salas, Juzgados o cualquier órgano dependiente del Tribunal.
+Son recursos ajenos afectos transitoriamente al Fondo, los depósitos en efectivo que, por cualquier causa y mediante la exhibición del certificado de depósito correspondiente, se hagan ante el Órgano Jurisdiccional o cualquier órgano dependiente del Tribunal
 
 Los depositantes no percibirán interés, rendimiento o contraprestación alguna por los depósitos que efectúen en los términos del párrafo anterior. Los billetes o certificados de depósito que emita la depositaria, insertarán de manera íntegra el presente párrafo de este precepto y contendrán la aceptación del depositante al mismo y a las demás condiciones propias del depósito.
 
@@ -104,17 +116,23 @@ Los recursos con los que se integre y opere el Fondo, serán diferentes de aquel
 
 Al término de cada ejercicio fiscal del Fondo, el Comité Técnico deberá remitir oportunamente al Jefe de Gobierno del Distrito Federal, los estados financieros dictaminados y la demás información relativa a su operación presupuestal y contable, a fin de que éste ordene su incorporación en Capítulo por separado a la Cuenta Pública del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 9o.
 
-Los Jueces declararán de oficio que el monto de la reparación del daño pasa a formar parte del Fondo por virtud de renuncia a ella de la parte ofendida o su falta de reclamación dentro del plazo legal al efecto establecido.
+El Órgano jurisdiccional declarará de oficio que el monto de la reparación del daño, en su parte proporcional, pasa a formar parte del Fondo por virtud de renuncia a ella de la parte ofendida o su falta de reclamación dentro del plazo legal al efecto establecido, en términos de la en la (sic) legislación de procedimientos penales aplicable al Distrito Federal.
 
 ###### ARTICULO 10.
 
 Los bienes que integren el Fondo, sólo podrán destinarse a los siguientes fines:
 
-I. Adquirir, construir, mantener o remodelar inmuebles para el establecimiento o ampliación de Salas, Juzgados y oficinas del Tribunal;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-II. Arrendar inmuebles para el establecimiento o ampliación de Salas, Juzgados y oficinas del Tribunal;
+I. Adquirir, construir, mantener o remodelar inmuebles para el establecimiento o ampliación de las salas de audiencias y oficinas del Tribunal;
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. Arrendar inmuebles para el establecimiento o ampliación de las salas de audiencias y oficinas del Tribunal.
 
 III. Comprar, rentar, reparar o mantener el mobiliario y el equipo necesarios para el funcionamiento del Tribunal;
 
@@ -196,13 +214,17 @@ XII. Expedir sus reglas de operación interna, y
 
 XIII. Las demás que sean afines al manejo y operación del Fideicomiso.
 
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 14.
 
-Salvo el caso previsto por la fracción I del artículo 562 del Código de Procedimientos Penales para el Distrito Federal, las Salas, Juzgados, dependencias u órganos del Tribunal no podrán recibir depósitos en efectivo, independientemente del motivo o concepto que los origine.
+Salvo el caso previsto en la legislación de procedimientos penales aplicable al Distrito Federal, el Órgano Jurisdiccional o cualquier órgano dependiente del Tribunal, no podrá recibir depósitos en efectivo, independientemente del motivo o concepto que los origine.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 15.
 
-Para la integración al Fondo de las cantidades resultantes del cobro judicial o extrajudicial de fianzas, depósitos o de cualquier otro tipo de garantía, constituida ante las Salas, Juzgados u órganos del Tribunal, en los términos de las fracciones II, III, IV y V del artículo 5o., los mismos serán cobrados por el Tribunal, a través de los procedimientos correspondientes que resulten idóneos de conformidad con la naturaleza de las garantías y la legislación que les resulte aplicable.
+Para la integración al Fondo de las cantidades resultantes del cobro judicial o extrajudicial de fianzas, depósitos o de cualquier otro tipo de garantía, constituida ante el Órgano jurisdiccional, en los términos de las fracciones II, III, IV y V del artículo 5°, los mismos serán cobrados por el Tribunal, a través de los procedimientos correspondientes que resulten idóneos de conformidad con la naturaleza de las garantías y la legislación que les resulte aplicable.
 
 El Comité Técnico establecerá los mecanismos de control de gestión que estime necesarios para obtener el cobro oportuno de las sumas a que haya lugar.
 
@@ -210,11 +232,11 @@ El Comité Técnico establecerá los mecanismos de control de gestión que estim
 
 Los recursos que integren el Fondo deberán ser invertidos por la Institución Fiduciaria en valores de renta fija del más alto rendimiento, siempre que éstos permitan la disponibilidad inmediata y suficiente de las sumas que resulte necesario reintegrar a los depositantes o entregar a los particulares que tengan derecho a ellas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 17.
 
-De toda exhibición o devolución de certificados de depósito de dinero y valores a que se refiere el artículo 6°, las salas, juzgados o las dependencias del Tribunal autorizadas para recibirlos, deberán reportarlas al fondo, una vez por semana, para lo cual, el Comité Técnico expedirá las reglas de organización que estime pertinentes para que cada área cumpla con esta obligación.
+De toda exhibición o devolución de certificados de depósito de dinero y valores a que se refiere el artículo 6°, el Órgano jurisdiccional o las dependencias del Tribunal autorizadas para recibirlos, deberán reportarlas al fondo, una vez por semana, para lo cual, el Comité Técnico expedirá las reglas de organización que estime pertinentes para que cada área cumpla con esta obligación.
 
 Lo dispuesto en el párrafo anterior será sin perjuicio de que en cada caso, se tomen las providencias necesarias por parte de las autoridades receptoras para la guarda y conservación de los certificados y valores a que se ha hecho referencia.
 
@@ -294,8 +316,18 @@ RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, a los catorce dí
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de diciembre del año de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Oscar Espinosa Villarreal.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 27 DE JUNIO DE 2000.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese la misma en el Diario Oficial de la Federación.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
