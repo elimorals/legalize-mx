@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2014-10-09"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -2737,7 +2737,9 @@ Para la determinación de las responsabilidades a que se refiere este título de
 
 I. Se enviará una copia del escrito de denuncia y sus anexos al servidor público para que, en un término de cinco días hábiles, formule un informe sobre los hechos y rinda las pruebas correspondientes. El informe deberá referirse a todos y cada uno de los hechos comprendidos en el escrito de denuncia, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos de la denuncia sobre los cuales el denunciado no suscitare explícitamente controversia, sin admitirse prueba en contrario. La confesión de los hechos no entraña la aceptación del derecho del denunciante;
 
-II. Recibido el informe y desahogadas las pruebas, si las hubiere, se resolverá dentro de los treinta días hábiles siguientes sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y se notificará la resolución al interesado dentro de las setenta y dos horas cuando se trate de los casos de responsabilidad señalados en las fracciones IX y XI del artículo 198;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. Recibido el informe y desahogadas las pruebas, si las hubiere, dentro de los dos días hábiles siguientes se expresarán alegatos por escrito. Concluido el término de alegatos, dentro de los treinta días hábiles siguientes se dictará resolución sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y se notificará la resolución al interesado dentro de las setenta y dos horas cuando se trate de los casos de responsabilidad señalados en las fracciones IX y XI del artículo 198;
 
 III. Cuando se trate de los casos comprendidos en las fracciones VIII y X del artículo 198, el presidente del Tribunal competente o, en su caso, el órgano que determine el Consejo General del Poder Judicial del Estado, remitirán el asunto al Pleno del Tribunal respectivo o al del Consejo General del Poder Judicial del Estado, para que cite al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga por sí o por medio de un defensor.
 
@@ -3466,3 +3468,7 @@ P.O. 9 DE OCTUBRE DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
