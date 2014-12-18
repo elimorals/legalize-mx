@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-alternativa-en-la-procuracion-de-justicia-86950
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-03"
-last_updated: "2012-04-03"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86950&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-03-26"
 
 LEY DE JUSTICIA ALTERNATIVA EN LA PROCURACIÓN DE JUSTICIA PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 3 de abril de 2012.
 
@@ -82,9 +82,15 @@ VI. Partes: Personas físicas o morales que deciden voluntariamente someter el c
 
 VII. Procuraduría: Procuraduría General de Justicia del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 5.
 
-La mediación y la conciliación procederán en aquellos casos en que los hechos posiblemente constitutivos de delitos, deban ser investigados por querella y que no sean considerados como graves, de acuerdo al Código Penal y a las leyes especiales del Distrito Federal.
+La mediación y la conciliación procederán en aquellos casos en que los hechos posiblemente constitutivos de delitos, deban ser investigados por querella o requisito equivalente de parte ofendida; por delitos culposos; o por delitos patrimoniales cometidos sin violencia sobre las personas; que no sean considerados como graves, de acuerdo al Código Penal para el Distrito Federal; las leyes especiales del Distrito Federal; la legislación de procedimientos penales aplicable al Distrito Federal, y demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+No procederá la mediación o conciliación tratándose de delitos por razón de género, violencia familiar o en los casos que el imputado haya celebrado anteriormente otros convenios a que se refiere el artículo 28 de esta Ley, por hechos de la misma naturaleza jurídica, salvo que hayan transcurrido cinco años de haber dado cumplimiento al último convenio o hubiese incumplido el mismo.
 
 ###### Artículo 6.
 
@@ -112,7 +118,9 @@ IV. Capacitarse en la materia, conforme lo dispuesto en esta Ley y demás dispos
 
 V. Declarar la improcedencia de la mediación o conciliación en los casos en que así se establezca;
 
-VI. Excusarse de conocer de la mediación o conciliación, cuando se encuentre en alguna de las causas establecidas en el Código de Procedimientos Penales para el Distrito Federal, así como de aquellos asuntos de los que conozca por motivo de su cargo, profesión o investidura;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VI. Excusarse de conocer de la mediación o conciliación, cuando se encuentre en alguna de las causas establecidas en la legislación (sic) procedimientos penales para el Distrito Federal aplicable, así como de aquellos asuntos de los que conozca por motivo de su cargo, profesión o investidura;
 
 VII. Propiciar la comunicación y la igualdad de oportunidades entre las partes, absteniéndose de tomar decisiones por éstos;
 
@@ -138,7 +146,9 @@ I. Que se les asigne un Mediador;
 
 II. Que el Mediador asignado intervenga oportuna y eficazmente en el procedimiento de mediación o conciliación;
 
-III. Recusar al Mediador que le hayan asignado en los términos que prevé el Código de Procedimientos Penales para el Distrito Federal;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III. Recusar al Mediador que le hayan asignado en los términos que prevé la legislación de procedimientos penales aplicable para el Distrito Federal;
 
 IV. Cambiar de Mediador cuando no cumpla con alguno de los requisitos u obligaciones previstos en esta Ley, debiendo solicitarlo por escrito, manifestando causas que la motivan;
 
@@ -304,7 +314,9 @@ VII. Manifestación expresa de la parte afectada respecto al otorgamiento del pe
 
 VIII. Contener la firma de las partes; en caso de que no sepa o no pueda firmar alguna de ellas o ambas, estamparán sus huellas dactilares, dejándose constancia de ello.
 
-El convenio se elaborará por triplicado entregándose un ejemplar a cada una de las partes, conservándose un tanto en el expediente relativo, el cual se mantendrá en los archivos correspondientes. En caso de que se haya iniciado Averiguación Previa, se entregará una copia al Ministerio Público que la tenga a su cargo.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+El convenio se elaborará por triplicado entregándose un ejemplar a cada una de las partes, conservándose un tanto en el expediente relativo, el cual se mantendrá en los archivos correspondientes. En caso de que se haya iniciado una investigación o Averiguación Previa, se entregará una copia al Ministerio Público que la tenga a su cargo.
 
 ###### Artículo 29.
 
@@ -329,3 +341,15 @@ Quinto.- La instancia encargada de la aplicación de los medios alternativos de 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los quince días del mes de diciembre del año dos mil once.- POR LA MESA DIRECTIVA.- DIP. ALEJANDRO CARBAJAL GONZÁLEZ, PRESIDENTE.- DIP. GUILLERMO OROZCO LORETO, SECRETARIO.- DIP. GUILLERMO OCTAVIO HUERTA LING, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiséis días del mes de marzo del año dos mil doce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
