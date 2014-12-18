@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -54,7 +54,9 @@ El Tribunal Superior de Justicia es Órgano de Gobierno y autoridad local del Di
 
 El Consejo de la Judicatura es el órgano encargado de manejar, administrar y ejercer, de manera autónoma, el presupuesto tanto del Tribunal Superior de Justicia del Distrito Federal como el propio, de conformidad con las disposiciones jurídicas aplicables en materia presupuestal.
 
-Se establecen como principios que regulan la función judicial, tanto en su aspecto de impartición de Justicia, como en su aspecto administrativo los siguientes: la expeditez, el impulso procesal oficioso, la imparcialidad, la legalidad, la honradez, la independencia, la caducidad, la sanción administrativa, la oralidad, la formalidad, la calidad total en sus procesos operativos, administrativos y contables, la excelencia en recursos humanos, la vanguardia en sistemas tecnológicos, la carrera judicial, la eficiencia y eficacia.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Se establecen como principios que regulan la función judicial, tanto en su aspecto de impartición de Justicia, como en su aspecto administrativo los siguientes: la expeditez, la imparcialidad, la legalidad, la honradez, la independencia, la caducidad, la sanción administrativa, la oralidad, la calidad total en sus procesos operativos, administrativos y contables, la excelencia en recursos humanos, la vanguardia en sistemas tecnológicos, la carrera judicial, la eficiencia y eficacia.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN LA G.O. DE 10 DE SEPTIEMBRE DE 2009, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE OCHO FRACCIONES A DOS.</small>
 
@@ -222,7 +224,9 @@ III. Poseer al día de la designación, con antigüedad mínima de diez años, t
 
 IV. Gozar de buena reputación;
 
-V. No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+V. No haber sido condenado por delito doloso que amerite pena de prisión de más de un año, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
 VI. Haber residido en el país durante los dos años anteriores al día de la designación, y
 
@@ -268,13 +272,11 @@ VIII. Participar y obtener resultado favorable en el concurso de oposición y en
 
 (DEROGADO, G.O. 10 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 19.
 
-Para ser Secretario de Acuerdos en los Juzgados y en las Salas del Tribunal Superior de Justicia, así como para Secretario Judicial de Proceso Oral en materia Familiar, y Secretario Proyectista de Segunda Instancia, se requiere:
+Para ser Secretario de Acuerdos en los Juzgados y en las Salas del Tribunal Superior de Justicia, así como para Secretario Proyectista de Segunda Instancia, se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -282,7 +284,9 @@ II. Ser Licenciado en Derecho con cédula profesional expedida por la autoridad 
 
 III. Tener dos años de práctica profesional, contados desde la fecha de expedición del título. El requisito de la práctica profesional podrá ser dispensado, tratándose de personal que tenga una antigüedad en el Tribunal de cuando menos dos años, y
 
-IV. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. No haber sido condenado por delito que amerite pena privativa de libertad de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -639,6 +643,10 @@ Los Magistrados de cada Sala, elegirán anualmente de entre ellos un Presidente 
 ###### Artículo 40.
 
 Los Magistrados de las Salas desahogarán semanariamente por orden progresivo y en forma equitativa todo el trámite de Segunda Instancia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Las salas penales establecerán un sistema de guardia y control, para substanciar el trámite de Segunda Instancia, en tratándose de asuntos urgentes de conformidad con el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 41.
 
@@ -1286,7 +1294,7 @@ VII. Dar aviso a la Central de Comunicaciones de las notificaciones practicadas 
 
 VIII. Certificar y dar constancia del cumplimiento de las partes en las órdenes de visitas para convivencia y entregas y regresos de menores, en los casos en que el Juez así lo ordene, en términos del tercer párrafo del artículo 63 Bis de esta Ley; y
 
-IX. Las demás que determine la normatividad aplicable y el Juez.”(sic)
+IX. Las demás que determine la normatividad aplicable y el Juez.”
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1998,11 +2006,11 @@ En casos de ausencia del Director General del Instituto de Ciencias Forenses, ya
 
 Con excepción de los casos en que deben intervenir los médicos asignados a las Agencias Investigadoras del Ministerio Público, a los hospitales públicos, a los reclusorios preventivos, de ejecución de sentencias y lugares de reclusión, los reconocimientos, análisis y demás trabajos médico forenses relacionados con los procedimientos judiciales serán desempeñados por los peritos médico forenses, quienes están obligados a concurrir a las juntas, audiencias y diligencias a las que fueren legalmente citados y a extender los dictámenes respectivos.
 
-> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 118.
 
-Las autopsias deberán practicarse, por regla general, en las instalaciones del Instituto de Ciencias Forenses, salvo los casos en que circunstancias especiales justifiquen lo contrario, a juicio del Director General y de lo previsto por el artículo 166 del Código de Procedimientos Penales para el Distrito Federal. En estos últimos casos, éste podrá disponer que dos peritos médico forenses se constituyan fuera del Instituto para presenciar o practicar la autopsia o para verificar su resultado.
+Las autopsias deberán practicarse, por regla general, en las instalaciones del Instituto de Ciencias Forenses, salvo los casos en que circunstancias especiales justifiquen lo contrario, a juicio del Director General y de lo previsto en la legislación de procedimientos penales aplicable al Distrito Federal. En estos últimos casos, éste podrá disponer que dos peritos médico forenses se constituyan fuera del Instituto para presenciar o practicar la autopsia o para verificar su resultado.
 
 > <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
@@ -4297,3 +4305,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
