@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -1104,7 +1104,7 @@ El programa de ordenamiento ecológico surtirá sus efectos a partir del día si
 
 ###### ARTÍCULO 33.
 
-Los programas de ordenamiento ecológico deberá ser revisado en forma permanente, y en su caso, actualizado cada tres años.
+Los programas de ordenamiento ecológico deberá (sic) ser revisado (sic) en forma permanente, y en su caso, actualizado (sic) cada tres años.
 
 ###### ARTÍCULO 34.
 
@@ -2076,7 +2076,9 @@ Toda persona física o moral, podrá denunciar ante la Procuraduría, todo hecho
 
 Si por la naturaleza de los hechos denunciados se tratare de asuntos de competencia del orden federal o sujetos a la jurisdicción de otra autoridad federativa, la misma autoridad que la recibió deberá turnarla a la autoridad competente.
 
-Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Distrito Federal si consideran que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales para el Distrito Federal.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Distrito Federal si consideran que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por la legislación de procedimientos penales aplicable en el Distrito Federal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2254,7 +2256,7 @@ II. Desarrollar en el ámbito de sus atribuciones, formas de producción y patro
 
 III. Desarrollar políticas para defender la Tierra en el ámbito nacional, de la sobreexplotación de sus componentes, de la mercantilización de los sistemas de vida o los procesos que los sustentan y de las causas estructurales del Cambio Climático y sus efectos;
 
-IV. Desarrollar políticas y campañas de promoción a fin de asegurar la sustentabilidad energética a largo plazo a partir una (sic) cultura del ahorro, el aumento de la eficiencia y la incorporación paulatina de fuentes alternativas limpias y renovables entre los habitantes del Distrito Federal; y
+IV. Desarrollar políticas y campañas de promoción a fin de asegurar la sustentabilidad energética a largo plazo a partir (sic) una cultura del ahorro, el aumento de la eficiencia y la incorporación paulatina de fuentes alternativas limpias y renovables entre los habitantes del Distrito Federal; y
 
 V. Velar en el ámbito de sus atribuciones, por el reconocimiento de la necesidad de financiamiento y transferencia de tecnologías limpias, efectivas y compatibles con los recursos naturales de la Tierra, además de otros mecanismos.
 
@@ -2930,7 +2932,7 @@ Están obligados a restaurar el suelo, subsuelo, acuífero y los demás recursos
 
 En los suelos de conservación que presenten deterioros ecológicos, la Secretaría formulará programas de restauración de los elementos naturales, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación, forestación y reforestación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellos se desarrollan.
 
-En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá de promover la participación las (sic) instituciones federales a través de un convenio, de las delegaciones, propietarios, poseedores, organizaciones sociales, instituciones públicas o privadas y demás personas interesadas.
+En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá de promover la participación (sic) las instituciones federales a través de un convenio, de las delegaciones, propietarios, poseedores, organizaciones sociales, instituciones públicas o privadas y demás personas interesadas.
 
 ### CAPÍTULO VII. PROTECCIÓN Y APROVECHAMIENTO DE LA FLORA Y FAUNA
 
@@ -3866,9 +3868,9 @@ Los procedimientos en materia de inspección y vigilancia ambiental estarán suj
 
 Serán de aplicación supletoria al presente Título, en el orden que se indica, las disposiciones de la Ley de Procedimiento Administrativo y del Código de Procedimientos Civiles, del Distrito Federal.
 
-(ADICIONADO, G.O. 24 DE FEBRERO DE 2009
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-Cuando en el procedimiento correspondiente obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
+Cuando en el procedimiento correspondiente obre información obtenida por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos a que se refiere la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal serán valorados conforme a la legislación aplicable.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4515,3 +4517,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
