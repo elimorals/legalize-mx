@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2014-12-08"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -847,17 +847,17 @@ XLII. Convocar al procedimiento de designación de los Defensores Municipales de
 
 XLIII. Conocer y, en su caso, acordar lo conducente acerca de las licencias temporales o definitivas, así como los permisos para viajar al extranjero en misión oficial, que soliciten sus integrantes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-XLIV. Llevar un registro actualizado sobre establecimientos comerciales que se encuentren dentro del municipio, especificando la licencia con el giro comercial e impacto que generen, así como las demás características que el Cabildo determine;
+XLIV. Crear el Registro Municipal de Unidades Económicas, donde se especifique la licencia de funcionamiento con la actividad de la unidad económica e impacto que generen, así como las demás características que se determinen;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-XLV. Colaborar con las autoridades estatales y federales en el ámbito de su competencia para establecer medidas regulatorias a giros comerciales de impacto regional y crear un registro específico que se regirá de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios; y
+XLV. Colaborar con las autoridades estatales y federales en el ámbito de su competencia para establecer medidas regulatorias a unidades económicas de impacto regional y crear un registro específico que se regirá de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1141,11 +1141,11 @@ XIII Ter. Proponer al ayuntamiento y ejecutar un programa especial para otorgar 
 
 Para tal efecto, deberá garantizar que el otorgamiento de la licencia no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-XIII Quáter. Expedir previo acuerdo del ayuntamiento, licencias de funcionamiento de las unidades económicas o establecimientos destinados a la enajenación, de vehículos automotores usados y autopartes nuevas y usadas;
+XIII Quáter. Expedir o negar licencias o permisos de funcionamiento, previo acuerdo del ayuntamiento, para las unidades económicas, empresas y parques industriales, dando respuesta en un plazo que no exceda de tres días hábiles posteriores a la fecha de la resolución del ayuntamiento;
 
 > <small>N. DE E. LA APLICACIÓN DE ESTA FRACCIÓN SERA A PARTIR DEL PRIMERO DE ENERO DE 2012; PREVIO A SU APLICACIÓN, LOS INFORMES DE LOS PRESIDENTES MUNICIPALES SE LLEVARÁN A CABO DENTRO DE LOS PRIMEROS DIEZ DÍAS DEL MES DE AGOSTO, CON LAS FORMALIDADES ESTABLECIDAS EN LA LEY, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA.</small>
 
@@ -1161,7 +1161,13 @@ XVI. Cumplir y hacer cumplir dentro de su competencia, las disposiciones conteni
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
-XVI. Bis. Vigilar que los establecimientos mercantiles con venta o suministro de bebidas alcohólicas en botella cerrada, consumo inmediato y al copeo, cuenten con la correspondiente licencia de funcionamiento y con las disposiciones legales y reglamentarias correspondientes, instaurar los procedimientos sancionadores correspondientes y, en su caso, dar vista al Ministerio Público por la posible comisión de algún delito;
+XVI Bis. Vigilar que los establecimientos mercantiles con venta o suministro de bebidas alcohólicas en botella cerrada, consumo inmediato y al copeo, cuenten con la correspondiente licencia de funcionamiento y con las disposiciones legales y reglamentarias correspondientes, instaurar los procedimientos sancionadores correspondientes y, en su caso, dar vista al Ministerio Público por la posible comisión de algún delito;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XVI Ter. Instalar y vigilar el debido funcionamiento de la ventanilla única en materia de unidades económicas;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1208,6 +1214,10 @@ VII. Residir durante su gestión fuera del territorio municipal;
 > <small>(ADICIONADA, G.G. 7 DE AGOSTO DE 2008)</small>
 
 VIII. Separarse del ejercicio de sus funciones, en los términos de esta ley.
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+IX. Nombrar, contratar o promover directamente o por interpósita persona como servidores públicos a personas con quienes tengan parentesco consanguíneo hasta el cuarto grado, por afinidad o civil. Tampoco pueden recibir propuestas o celebrar contratos relativos a la adquisición, enajenación y arrendamiento de bienes y la contratación de servicios con personas con quienes tenga interés personal, familiar o de negocios, en términos de las disposiciones jurídicas aplicables.
 
 ### CAPITULO SEGUNDO. De los Síndicos
 
@@ -1955,6 +1965,12 @@ IV. Desarrollar e implementar las acciones de coordinación que permitan la adec
 
 V. Establecer y operar el Sistema de Apertura Rápida de Empresas del Estado de México en coordinación con los distintos órdenes de Gobierno en los términos que establece la Ley de la materia;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+En los casos en que no se haya celebrado convenio de coordinación para la unidad económica del Sistema de Apertura Rápida de Empresas del Estado de México en el municipio, se deberá establecer y operar una ventanilla única que brinde orientación, asesoría y gestión a los particulares respecto de los trámites requeridos para la instalación, apertura, operación y ampliación de nuevos negocios que no generen impacto regional;
+
 VI. Desarrollar y difundir un sistema de información y promoción del sector productivo del Municipio;
 
 VII. Promover y difundir, dentro y fuera del Municipio las ventajas competitivas que se ofrecen en la localidad a la inversión productiva, en foros estatales, nacionales e internacionales;
@@ -1987,11 +2003,11 @@ XVIII. Conducir la coordinación interinstitucional de las dependencias municipa
 
 Para tal efecto, deberá garantizar que el otorgamiento de la licencia no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-XIX. Crear un Registro Municipal de las licencias de funcionamiento otorgadas a las Unidades Económicas o Establecimientos para la Enajenación, Reparación o Mantenimiento de Vehículos Automotores Usados y Autopartes Nuevas y Usadas, así como remitir dentro de los cinco días naturales siguientes los datos generados en el registro a la Secretaría de Desarrollo Económico, Secretaría de Seguridad Ciudadana y a la Procuraduría General de Justicia del Estado de México, la información respectiva;
+XIX. Operar y actualizar el Registro Municipal de Unidades Económicas de los permisos o licencias de funcionamiento otorgadas a las unidades económicas respectivas, así como remitir dentro de los cinco días hábiles siguientes los datos generados al Sistema que al efecto integre la Secretaría de Desarrollo Económico, a la Secretaría de Seguridad Ciudadana y a la Procuraduría General de Justicia del Estado de México, la información respectiva;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4186,3 +4202,35 @@ G.G. 8 DE DICIEMBRE DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 367 POR EL QUE SE REFORMAN LAS FRACCIONES XLIV Y XLV DEL ARTÍCULO 31, LA FRACCIÓN XIII QUÁTER DEL ARTÍCULO 48 Y LA FRACCIÓN XIX DEL ARTÍCULO 96 QUÁTER; SE ADICIONAN LA FRACCIÓN XVI TER AL ARTÍCULO 48 Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 96 QUÁTER DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
+
+CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
+
+QUINTO, Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
+
+SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 18 de julio de 2013.
+
+NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
+
+DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 376, POR EL QUE SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 51 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
