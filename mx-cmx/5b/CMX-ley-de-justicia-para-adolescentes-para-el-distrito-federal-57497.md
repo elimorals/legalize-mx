@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-para-adolescentes-para-el-distrito-federal-5749
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-14"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57497&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-10-25"
 
 LEY DE JUSTICIA PARA ADOLESCENTES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 14 de noviembre de 2007.
 
@@ -372,11 +372,15 @@ ARTÍCULO 12 BIS. CAPACITACIÓN DE LA POLICÍA.
 
 Las instituciones policiales incorporarán dentro de sus programas de formación y profesionalización, los estudios necesarios para que los agentes de la policía de investigación especializada en adolecentes cuenten con los conocimientos relativos a los objetivos y contenidos de la presente ley, a la Convención de los Derechos del Niño, a los derechos humanos y a los fenómenos criminológicos asociados a la ocurrencia de hechos tipificados como delitos y sus integrantes deberán estar especialmente capacitados para trabajar con adolescentes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 13.
 
 APLICACIÓN SUPLETORIA.
 
-El Código Penal para el Distrito Federal, el Código de Procedimientos Penales para el Distrito Federal y las leyes especializadas tendrán aplicación supletoria para los efectos sustantivos y procesales de la presente Ley.
+El Código Penal para el Distrito Federal, la legislación de procedimientos penales aplicable al Distrito Federal, y las leyes especializadas tendrán aplicación supletoria para los efectos sustantivos y procesales de la presente Ley.
 
 ###### ARTÍCULO 14.
 
@@ -2664,7 +2668,11 @@ Contra la resolución de unificación, procede el recurso de apelación.
 
 ARTÍCULO 104 TER. CONFLICTOS EN LA APLICACIÓN DE SANCIONES.
 
-Cuando se suscite conflicto de cumplimiento de sanciones derivadas de procesos seguidos ante Jueces Especializados de Adolescentes y Jueces Penales, serán los Jueces de Ejecución y Tribunales Especializados quienes conozcan del asunto a efecto de resolver lo que proceda, atendiendo para ello, no sólo a los fines específicos de la medida, relativos a la reintegración familiar y social del sentenciado para brindarle una experiencia de legalidad, así como para que valore los beneficios de la convivencia armónica, del civismo y del respeto de las normas y de los derechos de los demás, amén del aspecto pedagógico del sistema, sino incluso atentos a la gravedad del injusto y las peculiaridades del justiciable; pudiendo en consecuencia, una vez ponderados tales aspectos, prescindir de la medida impuesta en el sistema de adolescentes o bien, de la parte que le reste por cumplir, máxime si no son restrictivas de libertad, por no ser útil en tales términos, frente a la nueva condición del enjuiciado, no sólo etaria, sino de sentenciado en un sistema de adultos por la comisión de conductas delictivas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Cuando se suscite conflicto de cumplimiento de sanciones derivadas de procesos seguidos ante Jueces Especializados de Adolescentes y órganos jurisdiccionales en materia penal, serán los Jueces de Ejecución y Tribunales Especializados quienes conozcan del asunto a efecto de resolver lo que proceda, atendiendo para ello, no sólo a los fines específicos de la medida, relativos a la reintegración familiar y social del sentenciado para brindarle una experiencia de legalidad, así como para que valore los beneficios de la convivencia armónica, del civismo y del respeto de las normas y de los derechos de los demás, amén del aspecto pedagógico del sistema, sino incluso atentos a la gravedad del injusto y las peculiaridades del justiciable; pudiendo en consecuencia, una vez ponderados tales aspectos, prescindir de la medida impuesta en el sistema de adolescentes o bien, de la parte que le reste por cumplir, máxime si no son restrictivas de libertad, por no ser útil en tales términos, frente a la nueva condición del enjuiciado, no sólo etaria, sino de sentenciado en un sistema de adultos por la comisión de conductas delictivas.
 
 No obstante, en el supuesto de que en aras de la justicia, se estime que no debe prescindirse de la medida, por la naturaleza del hecho cometido, la sanción que cumplirá primero, será la impuesta por el Juez de Juicio Oral en materia de Justicia para Adolescentes, para que una vez concluida, previa comunicación a las autoridades penales, quede a su disposición para los efectos legales procedentes.
 
@@ -2963,3 +2971,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
