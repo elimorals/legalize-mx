@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-98504
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-05"
-last_updated: "2014-02-05"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE PRESTACION DE SERVICIOS PARA LA ATENCION, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MEXICO -ANTES LEY DE CENTROS DE ATENCION, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE MEXICO-
 
-LEY DE CENTROS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE MÉXICO
+LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera en la Gaceta del Gobierno del Estado de México, el miércoles 5 de febrero de 2014.
 
@@ -37,7 +37,9 @@ LA H. “LVIII” LEGISLATURA DEL ESTADO DE MÉXICO
 
 DECRETA:
 
-LEY DE CENTROS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE MÉXICO
+REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)
+
+Ley de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de México
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -49,27 +51,35 @@ La presente Ley es de orden público, interés social y observancia general para
 
 La presente Ley tiene por objeto:
 
-I. Regular las bases, condiciones y procedimientos mínimos para la creación, administración y funcionamiento de los Centros de Atención, Cuidado y Desarrollo Integral Infantil;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-II. Garantizar a las niñas y niños, el acceso a dichos servicios en condiciones de igualdad, calidad, calidez, seguridad y protección adecuadas;
+I. Garantizar a las niñas y niños, el acceso a los servicios de atención, cuidado y desarrollo integral en condiciones de igualdad, calidad, calidez, seguridad y protección adecuadas;
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+II. Regular las bases, condiciones y procedimientos mínimos para la creación, administración y funcionamiento de los centros de atención, cuidado y desarrollo integral infantil;
 
 III. Establecer la concurrencia entre el Estado y los municipios en la regulación de los Centros de Atención, Cuidado y Desarrollo Integral Infantil;
 
 IV. Salvaguardar el ejercicio pleno de los derechos de las niñas y niños en los Centros de Atención, Cuidado y Desarrollo Integral Infantil.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-Corresponde la aplicación de la presente Ley al Poder Ejecutivo del Estado de México, a través de la Secretaría de Educación, de la Secretaría de Salud y de la Secretaría de Seguridad Ciudadana y a los ayuntamientos conforme a las dependencias que éstos determinen.
+La aplicación de la presente Ley corresponde a las dependencias del Poder Ejecutivo del Estado, y a los municipios que en la esfera de su competencia emitan autorizaciones, permisos, licencias o dictámenes para el funcionamiento de los centros de atención, cuidado o desarrollo integral infantil.
 
-La interpretación de la Ley corresponde en lo administrativo a la Secretaría de Salud y a la Secretaría de Educación, en el ámbito de sus respectivas atribuciones; así como a las dependencias que determinen los ayuntamientos en sus normas reglamentarias.
+La interpretación de esta Ley corresponde al Consejo Estatal para la Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
 
 ###### Artículo 4.
 
 Son sujetos de la presente Ley, las dependencias públicas, organismos auxiliares y los particulares que presten los servicios para la atención, cuidado y desarrollo integral infantil, así como los usuarios de los Centros de Atención, quienes además de cumplir con la normatividad aplicable, deberán observar lo dispuesto por la presente Ley.
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 5.
 
-Los prestadores del servicio para la atención, cuidado y desarrollo integral infantil, ya sean públicos, sociales o privados, deben garantizar la seguridad, calidad e higiene de dicho servicio.
+Los prestadores del servicio para la atención, cuidado y desarrollo integral infantil, ya sean públicos, privados, sociales y mixtos deben garantizar la seguridad, calidad e higiene de dicho servicio.
 
 ###### Artículo 6.
 
@@ -85,7 +95,9 @@ II. Consejo: Al Consejo Estatal para la Prestación de Servicios de Atención, C
 
 III. Desarrollo Integral Infantil: Al derecho que tienen las niñas y los niños a formarse física, mental, emocional y socialmente, en condiciones de igualdad;
 
-IV. Ley: A la Ley de Centros de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. Ley: A la Ley de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de México;
 
 V. Ley General: A la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
 
@@ -97,29 +109,49 @@ VIII. Política Pública: A la política pública para la prestación de servici
 
 IX. Prestadores de servicios: A las personas físicas o jurídicas colectivas que cuenten con autorización emitida por la autoridad competente, para instalar y operar uno o varios centros de atención en cualquier modalidad y tipo;
 
-X. Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento: Al conjunto de acciones para lograr una vigilancia efectiva del cumplimiento de la presente Ley y para garantizar el mejoramiento progresivo y el fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-XI. Programa Interno de Protección Civil: Al que se instala en los inmuebles correspondientes, con el fin de salvaguardar la integridad física de las niñas y los niños, así como de los empleados y de las personas que concurran a ellos;
+X. Programa Integral: al Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.;
 
-XII. Registro Estatal: Al Registro de Centros de Atención, que operen bajo cualquier modalidad y tipo en el territorio del Estado de México;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-XIII. Servicios de atención, cuidado y desarrollo integral infantil: A las medidas dirigidas a las niñas y los niños en los Centros de Atención, consistentes en la atención física, psicológica, sanitaria, alimentaria, educación inicial y cuidado para su desarrollo integral;
+XI. Programa Específico: Al Programa Específico de Protección Civil;
 
-XIV. Usuario: Al padre, la madre, el tutor o quienes ejerzan la guarda o custodia del niño o niña, que utilice los servicios de un Centro de Atención, en cualquiera de sus modalidades.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XII. Programa Interno: Al Programa Interno de Protección Civil;
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XIII. Registro Estatal: Al Registro de Centros de Atención que operen bajo cualquier modalidad y tipo en el territorio del Estado de México;
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XIV. Servicios de atención, cuidado y desarrollo integral infantil: A las medidas dirigidas a las niñas y los niños en los centros de atención, consistentes en la atención física, psicológica, sanitaria, alimentaria, educación inicial y cuidado para su desarrollo integral;
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XV. Usuario: Al padre, la madre, el tutor o quienes ejerzan la guarda o custodia del niño o niña, que utilice los servicios de un Centro de Atención, en cualquier modalidad y tipo.
 
 ### CAPÍTULO II. De los derechos de las niñas y niños
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 8.
 
-El Estado y los ayuntamientos, por conducto de sus dependencias y organismos auxiliares, garantizarán en el ámbito de sus competencias, la vigencia y observancia de los derechos reconocidos en el presente título y por otros ordenamientos legales.
+Los poderes Legislativo, Judicial, Ejecutivo y los ayuntamientos, así como sus organismos auxiliares y órganos constitucionales, en el ámbito de sus respectivas competencias, garantizarán la vigencia y observancia de los derechos de las niñas y niños sujetos a la prestación de los servicios de atención, cuidado o desarrollo integral, conforme a lo establecido en normas constitucionales, tratados internacionales y leyes aplicables.
 
 ###### Artículo 9.
 
 Los niños y las niñas sujetos a la prestación de los servicios de atención, cuidado y desarrollo integral infantil, tendrán derecho:
 
-I. A la comprensión y al ejercicio pleno de sus derechos en función de su edad y madurez;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-II. A ser tratados sin discriminación de ningún tipo en los términos de lo dispuesto por el artículo 1º de la Constitución Política de los Estados Unidos Mexicanos, en contra suya o de sus padres o tutores;
+l. A ser tratados con tolerancia y comprensión en el ejercicio pleno de sus derechos en función de su edad y madurez;
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+II. A ser tratados ellos o los usuarios sin discriminación de ningún tipo;
 
 III. A recibir servicios de calidad y con calidez, por parte de personal apto, suficiente y que cuente con la formación o capacidades desde un enfoque de los derechos humanos de la niñez y, en su caso, de los indígenas y de los discapacitados;
 
@@ -137,9 +169,11 @@ IX. Al descanso, al juego y al esparcimiento;
 
 X. Al cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica.
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-En todo momento se antepondrá el interés superior de las niñas y niños a recibir los servicios para la atención, cuidado y desarrollo integral infantil ante cualquier otro interés que vaya en su perjuicio, cumpliendo con los derechos reconocidos en los ordenamientos legales aplicables.
+En todo momento prevalecerá el interés superior de las niñas y niños, especialmente al recibir los servicios para la atención, cuidado y desarrollo integral infantil.
 
 ###### Artículo 11.
 
@@ -171,9 +205,153 @@ X. Supervisión e inspección efectiva en materia de salud y protección civil.
 
 ### CAPÍTULO III. De la competencia estatal y municipal
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-La aplicación de la presente Ley corresponde al Titular del Poder Ejecutivo y a los ayuntamientos, así como a los poderes Legislativo, Judicial y órganos autónomos, en el ámbito de sus respectivas competencias.
+Para garantizar la aplicación y el cumplimiento del objeto de la presente Ley, corresponde a las dependencias del Ejecutivo, organismos auxiliares y autónomos, así como autoridades municipales en el ejercicio de sus atribuciones, lo siguiente:
+
+l. Al Sistema para el Desarrollo Integral de la Familia:
+
+a) Autorizar el inicio de operaciones de los centros de atención operados por los sistemas municipales del DIF.
+
+b) Promover la participación y coordinación con los sistemas municipales del DIF para apoyar la adecuada operación del servicio.
+
+c) Difundir entre los sistemas municipales del DIF las normas y lineamientos que regirán el desarrollo del servicio.
+
+d) Proporcionar la capacitación necesaria que requieren las auxiliares educativas y docentes que operen el Programa de Estimulación Temprana, en coordinación con los sistemas municipales del DIF.
+
+e) Promover en coordinación con los sistemas municipales del DIF que docentes y auxiliares cuenten con el perfil profesional requerido en la normatividad aplicable.
+
+f) Garantizar que los insumos alimentarios que integren las raciones y dotaciones, cumplan con las especificaciones técnicas y normas vigentes.
+
+g) Coordinarse con la Secretaría de Educación para el seguimiento y vigilancia educativa.
+
+h) Realizar visitas de supervisión periódicas a los centros de atención operadas por el Sistema para el Desarrollo Integral de la Familia y los sistemas municipales del DIF.
+
+i) Dar de baja a los centros de atención operados por el Sistema para el Desarrollo Integral de la Familia y los sistemas municipales del DIF que incumplan con las disposiciones jurídicas aplicables.
+
+j) Operar el Registro Estatal.
+
+k) Coadyuvar en la elaboración del Programa Estatal de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
+
+l) Participar en la elaboración del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.
+
+m) Las demás que le confieran otros ordenamientos jurídicos aplicables.
+
+II. A la Secretaría de Salud:
+
+a) Coadyuvar en la elaboración del Programa Estatal de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
+
+b) Participar en la elaboración del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.
+
+c) Otorgar a través de la COPRISEM el Aviso de Funcionamiento y Aviso de Responsable Sanitario, conforme a lo dispuesto por la Norma Oficial Mexicana NOM-032-SSA3-2010.
+
+d) Emitir los lineamientos que establezcan el procedimiento para otorgar el Aviso de Funcionamiento y Aviso de Responsable Sanitario.
+
+e) Informar al Sistema para el Desarrollo Integral de la Familia a través del Registro Estatal, la emisión del Aviso de Funcionamiento y de Responsable Sanitario que otorgue a los particulares.
+
+f) Establecer programas de formación, actualización y capacitación para el personal que labore en los centros de atención.
+
+g) Las demás necesarias para el cumplimiento del modelo de atención con enfoque integral para la educación inicial.
+
+III. A la Secretaría de Educación:
+
+a) Expedir los lineamientos para la aplicación del modelo de atención con enfoque integral para la educación inicial.
+
+b) Orientar a los prestadores de servicios de desarrollo integral infantil en la aplicación del modelo de atención con enfoque integral para la educación inicial y los agentes educativos.
+
+c) Realizar cursos de capacitación, cuando se soliciten por los prestadores de servicios de desarrollo integral infantil respecto al modelo de atención con enfoque integral para la educación inicial y de los agentes educativos.
+
+d) Expedir el dictamen a los prestadores de servicios de desarrollo integral infantil que apliquen el modelo de atención con enfoque integral para la educación inicial.
+
+e) Supervisar la aplicación del modelo de atención con enfoque integral para la educación inicial, cuando sean centros que hayan obtenido dictamen.
+
+f) Informar al Sistema para el Desarrollo Integral de la Familia a través del Registro Estatal las autorizaciones que se otorguen a los particulares.
+
+g) Coadyuvar en la elaboración del Programa Estatal de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
+
+h) Participar en la elaboración del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.
+
+i) Establecer programas de formación, actualización y capacitación para el personal que labore en los centros de atención.
+
+j) Las demás necesarias para el cumplimiento del modelo de atención con enfoque integral para la educación inicial.
+
+IV. Secretaría General de Gobierno:
+
+a) Establecer la metodología para la elaboración de programas internos y específicos de protección civil.
+
+b) Proponer políticas y estrategias para el desarrollo de programas en la materia.
+
+c) Expedir y actualizar la aplicación de normas técnicas estatales y demás disposiciones en la materia.
+
+d) Promover y difundir la cultura de protección civil.
+
+e) Realizar visitas colegiadas focalizadas para verificar el cumplimiento de las disposiciones en materia de protección civil, en coordinación con los municipios.
+
+f) Coadyuvar en la elaboración del Programa Estatal de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
+
+g) Participar en la elaboración del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.
+
+h) Establecer programas de formación, actualización y capacitación para el personal que labore en los centros de atención.
+
+i) Emitir el dictamen en materia de protección civil para los centros de atención,
+
+j) Realizar visitas de verificación en coordinación con las autoridades municipales.
+
+k) Las demás que le confieran otros ordenamientos jurídicos.
+
+V. Secretaría de Desarrollo Social:
+
+a) Coadyuvar en la elaboración del Programa Estatal de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
+
+b) Participar en la elaboración del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.
+
+c) Establecer programas de formación, actualización y capacitación para el personal que labore en los centros de atención.
+
+d) Difundir en los centros de atención las normas y lineamientos que regirán el desarrollo del servicio.
+
+e) Realizar visitas de verificación en los centros de atención, conforme a lo establecido en la Ley General, la presente Ley, su Reglamento y las diferentes normas oficiales mexicanas en la materia.
+
+f) Las demás que le confieran otros ordenamientos jurídicos.
+
+VI. A la Comisión de Derechos Humanos del Estado de México:
+
+a) Elaborar y ejecutar programas de investigación, estudio, capacitación, enseñanza, promoción y difusión de los derechos humanos de niñas y niños.
+
+b) Coordinar acciones con la Secretaría de Educación con el fin de promover y fomentar la cultura del reconocimiento y respeto de los derechos humanos.
+
+c) Proporcionar orientación y asesoría jurídica a las personas que lo soliciten.
+
+d) Conocer de quejas o iniciar de oficio investigaciones sobre presuntas violaciones a derechos humanos de niñas y niños por actos u omisiones de naturaleza administrativa de cualquier autoridad o servidor público estatal o municipal.
+
+e) Coadyuvar en la elaboración del Programa Estatal de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
+
+f) Participar en la elaboración del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.
+
+g) Las demás que le confieran otros ordenamientos jurídicos aplicables.
+
+VII. Ayuntamientos:
+
+a) Otorgar a los particulares la autorización para la apertura e inicio de actividades de los centros de atención, previo cumplimiento de las disposiciones contenidas en esta Ley.
+
+b) Informar al Registro Estatal, a través del Sistema para el Desarrollo Integral de la Familia del Estado de México, las autorizaciones que se otorguen a los particulares.
+
+c) Establecer programas de formación, actualización y capacitación para el personal que labore en los centros de atención.
+
+d) Realizar las visitas de verificación correspondientes conforme a lo establecido en la Ley General, la presente Ley, su Reglamento y las diferentes normas oficiales mexicanas en la materia.
+
+e) Aplicar las sanciones correspondientes en su materia, como consecuencia del incumplimiento la presente Ley y respectivo Reglamento.
+
+f) Vigilar el establecimiento y operación de las unidades internas de protección civil de los centros de atención.
+
+g) Supervisar la elaboración y registro del Programa Específico o Interno de Protección Civil.
+
+h) Coadyuvar en la realización de simulacros de protección civil, por lo menos seis veces al año, en coordinación con las autoridades competentes.
+
+i) Efectuar en coordinación con la Secretaría General de Gobierno, cuando menos cada seis meses, visitas de verificación con el objeto de constatar que los centros de atención cuenten con señales preventivas, prohibitivas, informativas de emergencia y de obligación, así como contar con salidas de emergencia, libres de obstáculos, que las puertas abran en sentido al flujo y que cuenten con un mecanismo que permita abrirlas desde el interior mediante una operación simple de empuje o que permitan una rápida apertura manual.
+
+j) Revisar que los centros de atención cuenten con equipo para la atención de emergencias.
 
 ###### Artículo 14.
 
@@ -183,23 +361,27 @@ Las disposiciones relativas a la prestación de servicios para la atención, cui
 
 Las autoridades estatales y municipales, en el ámbito de su competencia, verificarán que las disposiciones relativas a las materias y servicios señalados en el artículo anterior y su cumplimiento, se apeguen a lo dispuesto en las normas oficiales mexicanas aplicables.
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 16.
 
-El Estado y las autoridades municipales, a través de las instancias correspondientes, ofrecerán la orientación y capacitación necesarias para que los prestadores del servicio cumplan eficazmente con las normas correspondientes.
-
-Así como la adopción de medidas para garantizar la seguridad de las niñas y los niños y llevarán a cabo campañas de prevención y denuncia de irregularidades en las instalaciones y sobre las condiciones del servicio de atención, cuidado y desarrollo integral infantil.
+Las autoridades competentes adoptarán las medidas para garantizar la seguridad de las niñas y los niños y llevarán a cabo campañas de prevención y denuncia de irregularidades en las instalaciones y sobre las condiciones del servicio de atención, cuidado o desarrollo integral infantil.
 
 ###### Artículo 17.
 
 El Estado de México participará en la rectoría de los servicios para la atención, cuidado y desarrollo integral infantil y tendrá la responsabilidad indeclinable en la autorización, funcionamiento, monitoreo, supervisión y evaluación de dichos servicios en los términos de la Ley General y de esta Ley.
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 18.
 
-La prestación de los servicios para la atención, cuidado y desarrollo integral infantil, podrá otorgarse por las dependencias y entidades estatales o de los municipios, o a través de las personas del sector social o privado, mediante licitación pública, que cuenten con los requisitos y la autorización correspondientes y en términos de las disposiciones aplicables.
+La prestación de los servicios para la atención, cuidado y desarrollo integral infantil podrá otorgarse por las dependencias y entidades estatales o municipales o a través de las personas del sector social o privado, en términos de las disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 19.
 
-Son atribuciones del Estado en materia de prestación de servicios de atención, cuidado y desarrollo Integral Infantil, además de las establecidas en la Ley General, las siguientes:
+Son atribuciones de las autoridades competentes en materia de prestación de servicios de atención, cuidado o desarrollo integral infantil, además de las establecidas en la Ley General, las siguientes:
 
 I. Asesorar a los gobiernos municipales en la elaboración y ejecución de sus respectivos programas, de acuerdo al Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento;
 
@@ -209,7 +391,9 @@ III. Celebrar convenios de coordinación en la materia con los demás órdenes d
 
 IV. Coadyuvar con el Consejo Nacional;
 
-V. Coordinar y operar el Registro Estatal a través del Sistema para el Desarrollo Integral de la Familia del Estado en coordinación con la Secretaría de Educación y con la Secretaría de Salud;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+V. Establecer y operar el Registro Estatal, a través del Sistema para el Desarrollo Integral de la Familia del Estado de México, en coordinación con las secretarías de Educación, Desarrollo Social, Salud y los ayuntamientos;
 
 VI. Decretar las medidas cautelares necesarias a los Centros de Atención;
 
@@ -267,9 +451,11 @@ XIII. Las demás que les señale esta Ley y otras disposiciones legales.
 
 ### CAPÍTULO IV. De la política pública de prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 21.
 
-Es prioritaria y de interés público la política que se formule, ejecute y evalúe en materia de prestación de los servicios a que se refiere la presente Ley, la cual será determinada por el Consejo y permitirá la coordinación de esfuerzos de los distintos órdenes de gobierno y de los sectores público, social y privado.
+Es prioritaria y de interés público la política gubernamental que se formule, ejecute y evalúe en materia de prestación de los servicios a que se refiere la presente Ley, la cual será determinada por el Consejo y permitirá la coordinación de esfuerzos de los distintos órdenes de gobierno y de los sectores público, social y privado, en términos del Programa Estatal en materia de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
 
 ###### Artículo 22.
 
@@ -295,7 +481,9 @@ En el diseño, implementación, monitoreo y evaluación de la Política Estatal 
 
 I. Interés superior de la niñez: Que será eje rector para la toma de decisiones de los padres o tutores, directivos y personal de los centros de atención, quienes deberán actuar privilegiando el bienestar del menor;
 
-II. Calidad: Los servicios de las estancias infantiles se proveerán de manera eficiente y eficaz, conforme a los estándares y normas oficiales correspondientes y la mejora continua;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+II. Calidad: Los servicios de los centros de atención se proveerán de manera eficiente y eficaz, conforme a los estándares y normas oficiales correspondientes y la mejora continua;
 
 III. Desarrollo de las niñas y los niños: En todos los aspectos de su vida, ya sean físicos, emocionales, psicosociales, cognitivos, sociales, educativos o culturales;
 
@@ -347,9 +535,19 @@ VIII. Promover el monitoreo ciudadano y el acceso a la información de los progr
 
 IX. Promover la ampliación de la cobertura y la calidad de los servicios a través de esquemas diversificados y regionalizados;
 
-X. Promover la participación de las familias, la sociedad civil y las niñas y los niños, en el caso de estos últimos de acuerdo a su edad y madurez, en la observación y acompañamiento de la Política Estatal y de los Servicios;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+X. Promover la participación de las familias, la sociedad, las niñas y los niños, en el caso de estos últimos de acuerdo con su edad y madurez;
 
 XI. Promover los mecanismos de corresponsabilidad y solidaridad entre la sociedad civil y las diferentes dependencias y entidades que integran el Consejo.
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XII. Coadyuvar con el Consejo Nacional;
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XIII. Elaborar el Programa Estatal en materia de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
 
 ###### Artículo 28.
 
@@ -365,13 +563,17 @@ III. Generar y ejecutar acciones de gobierno para ofrecer un servicio de atenci�
 
 El Consejo se integrará con los titulares de las siguientes dependencias:
 
-I. De la Secretaría de Salud, quien lo presidirá;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-II. Del Sistema para el Desarrollo Integral de la Familia del Estado de México;
+l. Del Sistema para el Desarrollo Integral de la Familia del Estado de México, quien lo presidirá;
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+II. De la Secretaría de Salud;
 
 III. De la Secretaría de Educación;
 
-IV. De la Secretaría de Seguridad Ciudadana;
+IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 V. De la Secretaría General de Gobierno;
 
@@ -415,9 +617,11 @@ La operación y funcionamiento del Consejo se regularán por las disposiciones d
 
 ### CAPÍTULO VI. Del Registro Estatal de los Centros de Atención del Estado de México
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 38.
 
-El Registro estará a cargo de la Secretaría de Educación y tendrá por objeto:
+El Registro Estatal estará a cargo del Sistema para el Desarrollo Integral de la Familia del Estado de México y tendrá por objeto:
 
 I. Coadyuvar al cumplimiento de los objetivos de esta Ley, con la ejecución de la Política Pública y con las actividades del Consejo;
 
@@ -463,9 +667,11 @@ VI. Identificación, en su caso, del representante legal.
 
 ### CAPÍTULO VII. De las modalidades y tipos
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 44.
 
-Los Centros de Atención tendrán la modalidad de públicos cuando sean financiados o administrados por el Estado o los municipios; serán de modalidad privada, cuando su financiamiento, operación y administración sólo corresponde a particulares; y tendrán la modalidad mixta, cuando el Estado o los municipios, participan en el financiamiento, instalación o administración con instituciones sociales o privadas.
+Los centros de atención tendrán la modalidad de públicos, cuando sean financiados o administrados por las autoridades competentes o los municipios, serán de modalidad privada, cuando su financiamiento, operación y administración solo corresponde a particulares y tendrán la modalidad mixta, cuando las autoridades competentes o los municipios, participen en el financiamiento, instalación o administración con instituciones sociales o privadas.
 
 ###### Artículo 45.
 
@@ -496,6 +702,18 @@ Los Centros de Atención deberán contar con un seguro que cubra daños derivado
 ###### Artículo 49.
 
 Para la prestación del servicio de atención, cuidado y desarrollo integral infantil, se deberá cumplir con lo dispuesto en esta Ley, así como en las disposiciones y ordenamientos jurídicos correspondientes en cuanto a salubridad, infraestructura, equipamiento, seguridad, protección civil y medidas de higiene de los Centros de Atención, en cualquiera de sus modalidades, incluidos los servicios educativos, de descanso, juego y esparcimiento, y otros relacionados con el objeto de esta Ley.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 49 Bis.
+
+Los centros deberán sujetarse a los programas respectivos en los términos siguientes:
+
+l. Programa Integral: Al conjunto de acciones para lograr una vigilancia del cumplimiento de la presente Ley y para garantizar el mejoramiento progresivo y el fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
+
+II. Programa Específico: Es el conjunto de principios de carácter técnico, encaminados a prevenir los posibles efectos de los agentes perturbadores, circunscrito a un tiempo y espacio determinados, que debe observarse en los inmuebles de los sectores privado y social en los que se presten servicios de atención, cuidado y desarrollo integral infantil, para salvaguardar la integridad física de las personas;
+
+III. Programa Interno: Es el conjunto de principios de carácter técnico, encaminados a prevenir los posibles efectos de los agentes perturbadores y que debe observarse en los inmuebles del sector público en los que se presten servicios de atención, cuidado y desarrollo integral infantil, para salvaguardar la integridad física de las personas.
 
 ### CAPÍTULO IX. De la admisión y entrega del niño o niña
 
@@ -541,9 +759,11 @@ Los niños y las niñas sólo serán entregados al usuario o a las personas auto
 
 ### CAPÍTULO X. De las Autorizaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 56.
 
-Las dependencias de la administración pública estatal y los municipios, en el ámbito de sus respectivas competencias y conforme lo determine el Reglamento, otorgarán en la modalidad privada las autorizaciones respectivas a los Centros de Atención cuando los interesados cumplan las disposiciones que señala esta Ley, los reglamentos aplicables y con, al menos, los requisitos siguientes:
+Las autoridades competentes y los municipios, en el ámbito de sus respectivas competencias, y conforme lo determine el Reglamento, otorgarán la autorización respectiva a los centros de atención cuando los interesados cumplan las disposiciones de la presente Ley, el Reglamento aplicable y los requisitos siguientes:
 
 I. Presentar la solicitud en la que se indique: el nombre de la persona física o jurídica colectiva que desea prestar el servicio, la población por atender, los servicios que se proponen ofrecer, los horarios de funcionamiento, el personal con que se contará y la ubicación exacta del Centro de Atención en la que se precise en un croquis de localización, en tal caso, las calles, vialidades o avenidas y su sentido de circulación autorizado;
 
@@ -567,11 +787,23 @@ X. Contar con toda la información que se requiera sobre los recursos financiero
 
 XI. Cumplir con los requerimientos previstos para la modalidad y tipo correspondiente que establezca el Reglamento de esta Ley, las disposiciones normativas y las normas oficiales mexicanas aplicables.
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 57.
 
-Las autorizaciones a que se refiere el artículo anterior tendrán una vigencia de un año, sin perjuicio de lo dispuesto en las disposiciones legales y administrativas aplicables.
+Las guarderías, estancias y centros de atención del Instituto de Seguridad Social del Estado de México y Municipios, del Sistema para el Desarrollo Integral de la Familia del Estado de México y de los Servicios Educativos Integrados al Estado de México serán autorizadas por estos organismos, bajo el régimen de absoluta responsabilidad y previo cumplimiento de las disposiciones legales aplicables, informando de ello al Registro Estatal.
 
-Ningún Centro de Atención podrá prestar servicios para la atención, cuidado y desarrollo integral infantil sin contar con todas las autorizaciones que correspondan y se requieran en materia de protección civil.
+Las guarderías, estancias y centros de atención de organismos descentralizados, autónomos y de otros poderes serán autorizados por estos bajo el régimen de absoluta responsabilidad y previo cumplimiento de las disposiciones legales aplicables.
+
+Las guarderías, estancias y centros de atención dependientes de los municipios serán autorizados por estos bajo el régimen de absoluta responsabilidad y previo cumplimiento de las disposiciones legales aplicables.
+
+Las guarderías, estancias y centros de atención solicitados por particulares serán autorizados por la autoridad municipal que corresponda al domicilio en el que se presten los servicios, previo cumplimiento de las disposiciones legales aplicables.
+
+Cuando los servicios de guarderías, estancias o centros sean prestados por la modalidad mixta estos serán autorizados por la instancia pública respectiva, con la cual el sector social o privado acuerde la prestación del servicio.
+
+Las autorizaciones a que se refiere el artículo anterior tendrán vigencia de un año sin perjuicio de lo dispuesto en las disposiciones legales y administrativas aplicables.
+
+Ningún centro de atención podrá prestar servicios para la atención, cuidado y desarrollo integral infantil sin contar con las autorizaciones respectivas.
 
 ### CAPÍTULO XI. De la certificación
 
@@ -779,6 +1011,12 @@ Las sanciones administrativas serán independientes de las penales que resulten 
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, por parte de los servidores públicos, constituyen infracción y serán sancionados en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y municipios, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 85.
+
+Contra los actos y las resoluciones que dicten las autoridades en materia de autorizaciones, licencias o permisos para el funcionamiento de los centros de atención los particulares podrán interponer el recurso de inconformidad ante la propia autoridad o acudir ante el Tribunal de lo Contencioso Administrativo.
+
 T R A N S I T O R I O S
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
@@ -810,3 +1048,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFRÉN T. ROJAS DÁVILA
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones reglamentarias de esta Ley dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. El Consejo contará con sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para elaborar el Programa Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, mismo que deberá de ser publicado en el Periódico Oficial "Gaceta del Gobierno".
+
+QUINTO. El Consejo y los ayuntamientos tendrán sesenta días hábiles contados a partir de la publicación del Programa Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil para elaborar el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento.
