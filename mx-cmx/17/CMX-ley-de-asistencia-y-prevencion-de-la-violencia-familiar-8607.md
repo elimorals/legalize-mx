@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-asistencia-y-prevencion-de-la-violencia-familiar-8607"
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-08"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8607&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-06-26"
 
 LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 8 de julio de 1996 y republicada en la Primera Sección del Diario Oficial de la Federación, el martes 9 de julio de 1996.
 
@@ -100,9 +100,9 @@ b) Maltrato Psicoemocional.- Al patrón de conducta consistente en actos u omisi
 
 Todo acto que se compruebe que ha sido realizado con la intención de causar daño moral a un menor de edad, será considerado maltrato emocional en los términos de este artículo, aunque se argumente como justificación la educación y formación del menor.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-c) Maltrato Sexual. - Al patrón de conducta consistente en actos u omisiones reiteradas y cuyas formas de expresión pueden ser: inducir a la realización de prácticas sexuales no deseadas o que generen dolor, practicar la celotipia para el control, manipulación o dominio de la pareja y que generen un daño. Así como los delitos establecidos en el Título Quinto del Nuevo Código Penal para el Distrito Federal, es decir, contra la libertad y la Seguridad Sexuales y el Normal Desarrollo Psicosexual, respecto a los cuales la presente Ley sólo surte efectos en el ámbito asistencial y preventivo.
+c) Maltrato Sexual.- Al patrón de conducta consistente en actos u omisiones reiteradas y cuyas formas de expresión pueden ser: obligar a las personas mencionadas en la fracción III de este artículo, a la realización de prácticas sexuales no deseadas o que generen dolor, practicar la celotipia para el control, manipulación o dominio de la pareja y que generen un daño. Así como los delitos establecidos en el Libro Segundo, Parte Especial, Título Quinto, del Código Penal para el Distrito Federal, es decir, contra la libertad y la Seguridad Sexuales y el Normal Desarrollo Psicosexual, respecto a los cuales la presente Ley sólo surte efectos en el ámbito asistencial y preventivo.
 
 > <small>(REFORMADO, G.O. 2 DE JULIO DE 1998)</small>
 
@@ -184,7 +184,9 @@ Del mismo modo, estará libre de prejuicios de género, raza, condición socioec
 
 La atención a quienes incurran en actos de violencia intrafamiliar, se basará en modelos psicoterapéuticos reeducativos tendientes a disminuir y, de ser posible, de erradicar las conductas de violencia que hayan sido empleadas y evaluadas con anterioridad a su aplicación.
 
-Se podrá hacer extensiva la atención en instituciones públicas a quienes cuenten con ejecutoria relacionada con eventos de violencia intrafamiliar, a solicitud de la autoridad jurisdiccional de acuerdo con las facultades que tiene conferidas el juez penal o familiar; o bien, a solicitud del propio interesado.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Se podrá hacer extensiva la atención en instituciones públicas a quienes cuenten con ejecutoria relacionada con eventos de violencia familiar, a solicitud de la autoridad jurisdiccional de acuerdo con las facultades que tiene conferidas el órgano jurisdiccional penal o familiar, o bien, a solicitud del propio interesado.
 
 > <small>(REFORMADO, G.O. 2 DE JULIO DE 1998)</small>
 
@@ -194,11 +196,11 @@ El personal de las instituciones a que se refieren los dos artículos anteriores
 
 Dicho personal deberá participar en los procesos de selección, capacitación y sensibilización que la misma Secretaría establezca, a fin de que cuente con el perfil y aptitudes adecuadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 12.
 
-Corresponde a las delegaciones, a través de la unidad de atención:
+Corresponde a las Delegaciones, a través de la Unidad de Atención:
 
 I. Llevar constancias administrativas de aquellos actos que de conformidad con la presente Ley, se consideren violencia intrafamiliar y que sean hechos de su conocimiento;
 
@@ -218,27 +220,33 @@ VII. Imponer las sanciones administrativas que procedan en los casos de infracci
 
 VIII. Atender las solicitudes de las personas que tengan conocimiento de la violencia intrafamiliar, en virtud de la cercanía con el receptor de dicha violencia;
 
-> <small>(ADICIONADA, G.O. 2 DE JULIO DE 1998)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-IX. Emitir opinión o informe o dictamen con respecto al asunto que se le requiera de conformidad con la legislación procesal civil y penal del Distrito Federal;
+IX. Emitir opinión o informe o dictamen con respecto al asunto que se le requiera de conformidad con las legislaciones procesales civil y penal aplicables al Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 2 DE JULIO DE 1998)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-X. Avisar al Juez de lo Familiar y en su caso al Ministerio Público para que intervenga de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia familiar, a fin de que se dicten las medidas precautorias que corresponden;
+X. Avisar al Juez de lo Familiar o Civil, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia familiar, a fin de que se dicten las medidas provisionales que correspondan;
 
-> <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-XI. Solicitar a la Secretaría de Seguridad Pública del Distrito Federal información que sea captada con equipos o sistemas tecnológicos, de conformidad con la Ley que Regula el Uso de Tecnología para la Seguridad Pública del Distrito Federal, y que se ofrezca en el procedimiento establecido en el artículo 28 de esta Ley.
+XI. Solicitar al Ministerio Público o a la autoridad jurisdiccional, según corresponda, la emisión de medidas de protección, tan pronto como tenga conocimiento de la existencia de violencia familiar; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JULIO DE 1998)</small>
+> <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XII. Solicitar a la Secretaría de Seguridad Pública del Distrito Federal información que sea captada con equipos o sistemas tecnológicos, de conformidad con la Ley que Regula el Uso de Tecnología para la Seguridad Pública del Distrito Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 13.
 
-La Secretaría de Gobierno, deberá:
+La Secretaría de Gobierno del Distrito Federal, deberá:
 
 I. Coadyuvar a través del Registro Civil a la difusión del contenido y alcances de la presente Ley;
 
-II. Promover la capacitación y sensibilización de los defensores y personal profesional auxiliar, que presten sus servicios en la defensoría de oficio del Fuero Común en el Distrito Federal, en materia familiar y penal, a efecto de mejorar la atención de los receptores de la violencia intrafamiliar que requieran la intervención de dicha defensoría; y
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. Promover la capacitación y sensibilización de los defensores públicos y personal profesional auxiliar, que presten sus servicios en la Defensoría Pública del Distrito Federal, en materia familiar y penal, a efecto de mejorar la atención de los receptores de la violencia familiar que requieran la intervención de dicha defensoría; y
 
 III. Emitir los lineamientos técnico-jurídicos a que se sujetará el procedimiento a que alude el Título Cuarto, Capítulo I de la Ley.
 
@@ -250,9 +258,9 @@ IV. Vigilar y garantizar el cumplimiento de esta Ley, de conformidad con las atr
 
 Las Delegaciones podrán solicitar a la Procuraduría General de Justicia del Distrito Federal:
 
-> <small>(REFORMADA, G.O. 2 DE JULIO DE 1998)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-I. Les sean canalizados todos aquellos receptores y presuntos generadores de la violencia familiar para los efectos del procedimiento que le confiere la Ley, cuando no existe ilícito penal o se trate de delitos de querella;
+I. Le sean canalizados todos aquellos receptores y presuntos generadores de la violencia familiar para los efectos del procedimiento que le confiere la Ley, cuando no exista un hecho que la ley señale como delito o se trate de delitos de querella;
 
 > <small>(REFORMADA, G.O. 2 DE JULIO DE 1998)</small>
 
@@ -262,9 +270,13 @@ II. Que requiera la certificación de las lesiones y el daño psicoemocional que
 
 III. Intervenga, de conformidad con lo establecido en los Código Civil y Penal, en los asuntos que afecten a la familia;
 
-> <small>(ADICIONADA, G.O. 2 DE JULIO DE 1998)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-IV. Pida al órgano jurisdiccional competente que dicte las medidas provisionales a fin de proteger a receptores de violencia familiar.
+IV. Pida al órgano jurisdiccional competente que dicte las medidas provisionales a fin de proteger a receptores de violencia familiar; y
+
+> <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+V. La aplicación de las medidas de protección para las víctimas en los términos que establece la legislación de procedimientos penales aplicable al Distrito Federal.
 
 Cualquier autoridad que tenga conocimiento de conductas de las que se pueda desprender la comisión de un delito sancionado por las leyes penales, deberá dar aviso a la brevedad posible a las instancias correspondientes.
 
@@ -280,11 +292,11 @@ III. Llevará a cabo la presentación para hacer efectivos los arrestos administ
 
 IV. Incluirá en su programa de formación policiaca, capacitación sobre violencia intrafamiliar.
 
-> <small>(REFORMADO, G.O. 2 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 16.
 
-Los órganos jurisdiccionales, a través de sus titulares, y una vez que conozcan de juicios o procesos, en donde se desprenda que existe violencia familiar, podrán solicitar a las Delegaciones, o en su caso, a las instituciones debidamente sancionadas por el Consejo o que se encuentren señaladas expresamente por el Reglamento de la Ley, la realización de los estudios e investigaciones correspondientes, las que remitirán los informes, dictámenes, procesos psicoterapéuticos de agresores y receptores de la violencia familiar, las opiniones que conforme a los Códigos de Procedimientos Civiles y Penales, deben de allegarse para emitir una sentencia y en general todos aquellos que les sean de utilidad.
+Los órganos jurisdiccionales, a través de sus titulares, y una vez que conozcan de juicios o procesos, en donde se desprenda que existe violencia familiar, podrán solicitar a las Delegaciones, o en su caso, a las instituciones debidamente sancionadas por el Consejo o que se encuentren señaladas expresamente por el Reglamento de la Ley, la realización de los estudios e investigaciones correspondientes, las que remitirán los informes, dictámenes, procesos psicoterapéuticos de agresores y receptores de la violencia familiar, las opiniones que conforme al Código de Procedimientos Civiles para el Distrito Federal y la legislación de procedimientos penales aplicable al Distrito Federal, deban de allegarse para emitir una sentencia y en general todos aquellos que les sean de utilidad.
 
 ### CAPÍTULO II. DE LA PREVENCIÓN
 
@@ -458,9 +470,9 @@ La reincidencia se sancionará con arresto administrativo inconmutable por 36 ho
 
 Para la acreditación de las infracciones o de la reincidencia a que hacen mención los artículos anteriores, se citará nuevamente a las partes para que éstas manifiesten lo que a su derecho convenga, antes de que el amigable componedor sancione dicho incumplimiento, sin mayor justificación.
 
-> <small>(ADICIONADO, G.O. 24 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-Cuando en dicho procedimiento obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
+Cuando en dicho procedimiento obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la legislación aplicable.
 
 ### CAPÍTULO III. MEDIOS DE IMPUGNACIÓN
 
@@ -519,3 +531,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
