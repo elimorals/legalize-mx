@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6019
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-28"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60192&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-03-07"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 28 de marzo de 2008.
 
@@ -526,7 +526,35 @@ Además de lo señalado en el artículo 14, el Órgano Ejecutivo, deberá manten
 
 I. Estadísticas e índices delictivos, así como los indicadores de la procuración de justicia;
 
-II. En materia de averiguaciones previas: estadísticas sobre el número de averiguaciones previas que fueron desestimadas, en cuántas se ejerció acción penal, en cuántas se decretó el no ejercicio y cuántas se archivaron, además de las órdenes de aprehensión, presentación y cateo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. En materia de investigación de los delitos, estadísticas sobre el número de averiguaciones previas o carpetas de investigación:
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+a) En su caso las que fueron desestimadas;
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+b) En cuántas se ejerció acción penal;
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+c) En cuántas se propuso el no ejercicio de la acción penal;
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+d) En cuántas se aplicaron los criterios de oportunidad;
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+e) En cuántas se propuso la reserva o el archivo temporal; y
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+f) Además de las órdenes de aprehensión, de comparecencia, presentación y cateo;
 
 > <small>(REFORMADA, G.O. 13 DE MARZO DE 2014)</small>
 
@@ -1062,7 +1090,11 @@ V. (DEROGADA, G.O. 29 DE AGOSTO DE 2011)
 
 VI. Cuando se relacione con la propiedad intelectual, patentes o marcas en poder de los Entes Obligados, u otra considerada como tal por alguna otra disposición legal;
 
-VII. Los expedientes, archivos y documentos que se obtengan producto de las actividades relativas a la prevención, que llevan a cabo las autoridades en materia de seguridad pública y procuración de justicia en el Distrito Federal y las averiguaciones previas en trámite;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VII. Los expedientes, archivos y documentos que se obtengan producto de las actividades relativas a la prevención, que llevan a cabo las autoridades en materia de seguridad pública y procuración de justicia en el Distrito Federal, las averiguaciones previas y las carpetas de investigación en trámite.
 
 VIII. Cuando se trate de expedientes judiciales o de los procedimientos administrativos seguidos en forma de juicio, mientras la sentencia o resolución de fondo no haya causado ejecutoria. Una vez que dicha resolución cause estado los expedientes serán públicos, salvo la información reservada o confidencial que pudiera contener;
 
@@ -2405,3 +2437,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
