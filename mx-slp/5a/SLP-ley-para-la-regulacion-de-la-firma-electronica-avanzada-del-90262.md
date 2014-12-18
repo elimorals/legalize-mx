@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-regulacion-de-la-firma-electronica-avanzada-del-902
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-16"
-last_updated: "2012-10-16"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA REGULACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de octubre de 2012.
 
@@ -41,9 +41,11 @@ LEY PARA LA REGULACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS
 
 ### CAPITULO I. De las Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 1°.
 
-Esta Ley es de orden público e intereses (sic) general en el Estado de San Luis Potosí, y tiene por objeto regular la implementación y uso, de la firma electrónica avanzada, así como de la firma digitalizada.
+Esta Ley es de orden público e interés general en el Estado de San Luis Potosí, y tiene por objeto regular la implementación y uso de la firma electrónica avanzada
 
 ###### ARTICULO 2°.
 
@@ -61,7 +63,9 @@ V. Los organismos constitucionales autónomos previstos en la Constitución Pol�
 
 VI. Las personas físicas o morales que decidan utilizar la firma electrónica avanzada y sus servicios relacionados con la misma, en los términos de la presente Ley.
 
-Los sujetos mencionados en las fracciones I a V, aplicarán los criterios y procedimientos previstos en esta Ley, en el ámbito de su respectiva competencia, al implementar el uso de la firma electrónica avanzada o digitalizada, y los servicios conexos.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Los sujetos mencionados en las fracciones I a V, aplicarán los criterios y procedimientos previstos en esta Ley, en el ámbito de su respectiva competencia, al implementar el uso de la firma electrónica avanzada y los servicios conexos.
 
 ###### ARTICULO 3°.
 
@@ -167,7 +171,9 @@ Los documentos a que se refiere el párrafo anterior se tendrán por no presenta
 
 Los mensajes de datos generados, enviados, recibidos o archivados por medios electrónicos o cualquier otra tecnología, tendrán plena validez y eficacia jurídica que la Ley otorga a los documentos.
 
-Para hacer accesibles, ágiles y sencillos los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a las Entidades Paraestatales, a los Organismos Constitucionales Autónomos, a los Ayuntamientos, y a cualquier entidad, o dependencia, de la Administración Pública Estatal, Municipal, paramunicipal e intermunicipal, se podrá utilizar la firma electrónica avanzada, contenida en un mensaje de datos y el uso de medios electrónicos, en los términos de los reglamentos que en el ámbito de sus respectivas competencias se expidan. De igual manera se podrá utilizar la firma digitalizada contenida en los documentos emitidos por medios electrónicos o maquinas de servicio.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Para hacer accesibles, ágiles y sencillos los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a las Entidades Paraestatales, a los Organismos Constitucionales Autónomos, a los Ayuntamientos, y a cualquier entidad o dependencia de la Administración Pública Estatal, Municipal, paramunicipal e intermunicipal, se podrá utilizar la firma electrónica avanzada, contenida en un mensaje de datos y el uso de medios electrónicos, en los términos de los reglamentos que en el ámbito de sus respectivas competencias se expidan.
 
 ###### ARTICULO 12.
 
@@ -227,7 +233,9 @@ Los sujetos previstos en las fracciones I, II, III, IV y V del artículo 2° de 
 
 Los sujetos referidos en el párrafo anterior privilegiarán el uso de la firma electrónica avanzada en sus comunicaciones internas y en las realizadas interinstitucionalmente, así como en los actos jurídicos y administrativos que entre éstas celebren.
 
-Para validez de los documentos electrónicos y mensajes de datos a que se refiere esta Ley, deberán contar con la firma electrónica avanzada, o con la firma digitalizada, del servidor público facultado.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Para validez de los documentos electrónicos y mensajes de datos a que se refiere esta Ley, deberán contar con la firma electrónica avanzada del servidor público facultado.
 
 ###### ARTICULO 23.
 
@@ -251,9 +259,11 @@ La información contenida en los documentos electrónicos será pública, en los
 
 Los datos personales e información que se refiera a la vida privada, serán protegidos por los sujetos mencionados en las fracciones I, II, III, IV y V del artículo 2° de esta Ley, en términos de la Ley de la materia y demás disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 28.
 
-Todo documento impreso con firma autógrafa podrá ser habilitado para tener un formato electrónico, mismo que tendrá validez sólo si cuenta con la firma electrónica avanzada, o firma digitalizada, y cumpla con los siguientes requisitos:
+Todo documento impreso con firma autógrafa podrá ser habilitado para tener un formato electrónico, mismo que tendrá validez sólo si cuenta con la firma electrónica avanzada y cumpla con los siguientes requisitos:
 
 I. Que la migración del documento impreso al formato electrónico haya sido realizada o supervisada por un servidor público con facultades de certificación de documentos en términos de las disposiciones aplicables o por fedatario público;
 
@@ -738,3 +748,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga toda disposición contraria al presente Decreto.
