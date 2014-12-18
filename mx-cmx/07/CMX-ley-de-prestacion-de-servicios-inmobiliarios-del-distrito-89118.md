@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-prestacion-de-servicios-inmobiliarios-del-distrito-89118
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-23"
-last_updated: "2014-03-14"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89118&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-08-22"
 
 LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de agosto de 2012.
 
@@ -120,7 +120,9 @@ I. Ley de Procedimiento Administrativo del Distrito Federal.
 
 II. El Código de Procedimientos Civiles para el Distrito Federal.
 
-III. El Código de Procedimientos Penales para el Distrito Federal, en tratándose del Título Quinto de esta Ley, con excepción del procedimiento arbitral.
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III. La legislación de procedimientos penales aplicable al Distrito Federal, en tratándose del Título Quinto de esta Ley, con excepción del procedimiento arbitral.
 
 ## TÍTULO SEGUNDO
 
@@ -759,3 +761,13 @@ TERCERO. La Certificación será exigible en un término de un año a partir de 
 Durante este periodo, los aspirantes a Profesionales Inmobiliarios que a la fecha realicen actividades inmobiliarias, deberán iniciar los trámites y procedimientos necesarios para la obtención de la Certificación.
 
 CUARTO. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
