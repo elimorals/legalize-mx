@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2014-11-20"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -133,9 +133,9 @@ I. El ataque de las instituciones democráticas;
 
 II. El ataque a la forma de gobierno republicano, representativo y popular del Estado, así como a la organización política y administrativa de los Municipios;
 
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-III. Las violaciones graves a las garantías individuales o sociales;
+III. Las violaciones graves a los derechos humanos y sus garantías;
 
 IV. El ataque a la libertad de sufragio;
 
@@ -179,7 +179,9 @@ Las denuncias anónimas no producirán ningún efecto.
 
 Acreditados los extremos a que se refiere el artículo anterior la sección instructora practicará todas las diligencias necesarias para la comprobación de la conducta o hecho material de la denuncia; estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
 
-Dentro de los tres días naturales siguientes a la ratificación de la denuncia, la Sección notificará por vía de emplazamiento al servidor público de que se trate sobre la materia de la denuncia, haciéndole saber su garantía de defensa y que deberá a su elección, comparecer personalmente o a través de su defensor o informar por escrito, dentro de los siete días naturales siguientes a la notificación citada.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Dentro de los tres días naturales siguientes a la ratificación de la denuncia, la Sección notificará por vía de emplazamiento al servidor público de que se trate sobre la materia de la denuncia, haciéndole saber su derecho a un proceso justo, a la garantía de defensa y que deberá a su elección, comparecer personalmente o a través de su defensor o informar por escrito, dentro de los siete días naturales siguientes a la notificación citada.
 
 ###### Artículo 13.
 
@@ -431,6 +433,12 @@ XIX. Presentar con oportunidad y veracidad la Manifestación de Bienes en los t�
 
 XX. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría de la Contraloría o del órgano de control interno conforme a su competencia;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XX Bis. Dar cumplimiento en los plazos o términos establecidos para resolver un procedimiento, trámite o solicitud;
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 1994)</small>
 
 XXI. Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones de este artículo e informar por escrito ante el superior jerárquico u órgano de control interno los actos u omisiones que en ejercicio de sus funciones llegare a advertir respecto de cualquier servidor público, que puedan ser causa de responsabilidad administrativa en los términos de esta Ley, y de las normas que al efecto se expidan.
@@ -591,17 +599,23 @@ Los servidores públicos de la Secretaría, que incurran en responsabilidad admi
 
 Las sanciones por responsabilidad administrativa disciplinaria consistirán en:
 
-> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-I. Amonestación;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+I. Amonestación la cual podrá ser impuesta solo en dos ocasiones, en un lapso de cinco años, por diversos actos o hechos relacionados con el servicio público;
 
-II. Suspensión del empleo, cargo o comisión, sin goce de sueldo por un período no menor de tres días ni mayor a treinta días.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-III. Destitución del empleo, cargo o comisión;
+II. Suspensión del empleo, cargo o comisión por un término que no exceda de quince días hábiles, para el caso de una tercera sanción derivada del actuar de los servidores públicos en el ejercicio de sus funciones, con independencia de lo ordenado por el artículo 59 fracción IV;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+III. Destitución del empleo, cargo o comisión para aquellos servidores públicos que cometan por cuarta ocasión, irregularidades derivadas del ejercicio de sus funciones, con independencia de lo ordenado al respecto en la presente Ley;
 
 > <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -647,9 +661,9 @@ En el supuesto de que la persona haya sido contratada en el servicio público y 
 
 VI. (DEROGADA, G.G. 14 DE MAYO DE 2014)
 
-> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-VII. Sanción económica de quince días a seis meses del total del sueldo base presupuestal asignado.
+VII. Sanción pecuniaria de diez a ciento ochenta salarios mínimos vigentes en la Entidad, por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que los servidores públicos deban observar en el desempeño de sus empleos, cargos o comisiones y de quince a ciento ochenta días del sueldo base presupuestal asignado al servidor público que incurra en incumplimiento a las obligaciones previstas en el artículo 80 de la presente Ley.
 
 > <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -1043,17 +1057,17 @@ II. Dentro de los sesenta días naturales siguientes a la conclusión del cargo;
 
 III. Durante el mes de mayo de cada año.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-Si transcurridos los plazos a que hacen referencia las fracciones I y III, no se hubiese presentado la manifestación correspondiente, sin causa justificada, se aplicará al servidor público, previa instancia sumaria que conceda garantía de audiencia al omiso o extemporáneo, una sanción económica conforme al artículo 49, fracción VII, previniéndosele en el primer caso, que de no rendir su manifestación dentro de los quince días naturales siguientes a la fecha de notificación del citatorio será separado de su cargo, previa notificación que de este hecho haga la Secretaría al Superior Jerárquico o a los titulares de las dependencias o entidades, para que proceda en los términos de Ley.
+Si transcurridos los plazos a que hacen referencia las fracciones I y III, no se hubiese presentado la manifestación correspondiente, sin causa justificada, se aplicará al servidor público, previa instancia sumaria que conceda garantía de audiencia al omiso o extemporáneo, una sanción pecuniaria conforme al artículo 49 fracción VII, previniéndosele en el primer caso, que de no rendir su manifestación dentro de los quince días naturales siguientes a la fecha de notificación del citatorio será separado de su cargo, previa notificación que de este hecho haga la Secretaría al Superior Jerárquico o a los titulares de las dependencias o entidades, para que proceda en los términos de la presente Ley.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-Para el caso de que se omita la manifestación contemplada en la fracción II, la Secretaría procederá a la investigación del patrimonio del infractor en los términos del artículo 83 de esta Ley, sin perjuicio de aplicar una sanción económica conforme al artículo 49, fracción VII o inhabilitarlo por un período de uno a seis años, o ambas sanciones.
+Para el caso de que se omita la manifestación contemplada en la fracción II, la Secretaría procederá a la investigación del patrimonio del infractor en términos del artículo 83 de esta Ley, sin perjuicio de aplicar una sanción pecuniaria, conforme al artículo 49 fracción VII o inhabilitarlo por un período de uno a seis años o ambas sanciones.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-Igual sanción económica se aplicará cuando la presentación de esta manifestación se haga de manera extemporánea.
+Igual sanción pecuniaria se aplicará cuando la presentación de esta manifestación se haga de manera extemporánea.
 
 ###### Artículo 81.
 
@@ -1496,3 +1510,51 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2015.
 
 TERCERO.- Las referencias que en lo sucesivo se realicen a la Dirección General de Protección Civil adscrita a la Secretaría de Seguridad Ciudadana, quedarán entendidas a la Coordinación General de Protección Civil adscrita a la Secretaría General de Gobierno.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 367 POR EL QUE SE EXPIDE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
+
+CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
+
+QUINTO. Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
+
+SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 18 de julio de 2013.
+
+NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
+
+DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 377 POR EL QUE SE REFORMAN LA FRACCIÓN III DEL ARTÍCULO 7 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 12.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 379 POR EL QUE SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 49 Y LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 80.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO.- Los procedimientos o procesos que se hayan iniciado a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
