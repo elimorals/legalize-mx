@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-extincion-de-dominio-para-el-distrito-federal-64603"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-08"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64603&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-12-03"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 8 de diciembre de 2008.
 
@@ -52,9 +52,11 @@ LEY DE EXTINCIÓN DE DOMINIO PARA EL DISTRITO FEDERAL
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-La presente ley es de orden público, interés social y observancia general en el Distrito Federal y tiene por objeto reglamentar la instauración del procedimiento de Extinción de Dominio previsto en el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
+La presente ley es de orden público, interés social y observancia general en el Distrito Federal y tiene por objeto regular la instauración del procedimiento de Extinción de Dominio previsto en el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 2.
 
@@ -120,7 +122,9 @@ XX. Delitos Contra la Salud en su modalidad de Narcomenudeo: Los previstos en el
 
 En los casos no previstos en esta ley, se estará a las siguientes reglas de supletoriedad:
 
-I. En la preparación del ejercicio de la Acción de Extinción de Dominio, a lo previsto en el Código de Procedimientos Penales para el Distrito Federal;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+I. En la preparación del ejercicio de la Acción de Extinción de Dominio, a lo previsto en la legislación de procedimientos penales aplicable al Distrito Federal;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -128,11 +132,9 @@ I. En la preparación del ejercicio de la Acción de Extinción de Dominio, a lo
 
 II. En el Procedimiento de Extinción de Dominio, a lo previsto en el Código de Procedimientos Civiles para el Distrito Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
-
-III. En cuanto a los delitos, a lo previsto en el Código Penal para el Distrito Federal; y
+III. En cuanto a los delitos, a lo previsto en el Código Penal para el Distrito Federal, a los delitos contra la salud en su modalidad de Narcomenudeo previstos en la Ley General de Salud, a la Ley General para prevenir y sancionar los delitos en materia de secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y a la Ley General para prevenir, sancionar y erradicar los delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos, en el ámbito de la competencia del Distrito Federal y la Federación en función de las facultades exclusivas y concurrentes que correspondan; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -154,7 +156,13 @@ La acción es autónoma, distinta e independiente de cualquier otra de naturalez
 
 La extinción de dominio no procederá sobre bienes decomisados por la autoridad judicial, en sentencia ejecutoriada.
 
-Los bienes sobre los que se declare la Extinción de Dominio se aplicarán a favor del Gobierno del Distrito Federal y serán destinados al bienestar social, mediante acuerdo del Jefe de Gobierno que se publique en la Gaceta Oficial del Distrito Federal. Cuando se trate de bienes fungibles se destinarán en porcentajes iguales a la Procuración de Justicia y la Seguridad Pública.
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+El Ministerio Público sólo podrá presentar la demanda de extinción de domino cuando se haya dictado el auto de formal prisión o el auto de vinculación a proceso que corresponda al imputado, acusado o procesado por el delito.
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Los bienes sobre los que se declare la Extinción de Dominio se aplicarán a favor del Gobierno del Distrito Federal, mediante acuerdo del Jefe de Gobierno que se publique en la Gaceta Oficial del Distrito Federal. Cuando se trate de bienes fungibles se destinarán en porcentajes iguales a la Procuración de Justicia y la Seguridad Pública.
 
 Toda la información que se genere u obtenga con relación a esta Ley se considerará como restringida en los términos de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal. La Secretaría de Finanzas y la Oficialía Mayor, entregarán un informe anual a la Asamblea Legislativa del Distrito Federal, sobre los bienes materia de este ordenamiento.
 
@@ -214,13 +222,17 @@ III. Cuando se hayan mezclado con bienes adquiridos lícitamente, estos podrán 
 
 No se podrá disponer de los bienes sujetos a la acción hasta que exista una sentencia ejecutoriada que haya declarado la extinción de dominio.
 
-Si la sentencia fuere absolutoria, los bienes y sus productos se reintegrarán al propietario.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Si la sentencia fuere en el sentido de no declarar la extinción de dominio, los bienes y sus productos se reintegrarán al propietario.
 
 ### CAPÍTULO III. DE LAS MEDIDAS CAUTELARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 11.
 
-El Agente del Ministerio Público solicitará al Juez las medidas cautelares que considere procedentes a fin de evitar que puedan sufrir menoscabo, extravío o destrucción; que sean ocultados o mezclados; o se realice acto traslativo de dominio; sobre aquellos bienes de los que existan indicios suficientes que hagan presumir fundadamente que es alguno de los señalados en el artículo 5 de esta Ley y relacionados con alguno de los delitos señalados en el artículo 4 de este ordenamiento. El Juez deberá resolver en un plazo de 6 horas a partir de la recepción de la solicitud.
+El Agente del Ministerio Público solicitará al Juez las medidas cautelares que considere procedentes a fin de evitar que puedan sufrir menoscabo, extravío o destrucción; que sean ocultados o mezclados; o se realice acto traslativo de dominio; sobre aquellos bienes de los que existan datos o medios de prueba suficientes para vincularlos con alguno de los señalados en el artículo 5 de esta Ley y relativos a alguno de los delitos señalados en el artículo 4 de este ordenamiento. El Juez deberá resolver en un plazo de 6 horas a partir de la recepción de la solicitud.
 
 Las medidas cautelares podrán consistir en:
 
@@ -298,19 +310,23 @@ Contra la resolución que ordene o niegue medidas cautelares procederá el recur
 
 ### CAPÍTULO IV. DE LA DENUNCIA
 
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 19.
 
-Cualquier persona podrá presentar denuncia ante el Agente del Ministerio Público, no especializado, sobre hechos posiblemente constitutivos de los delitos señalados en el artículo 4 de esta ley.
+Cualquier persona podrá presentar denuncia ante el Agente del Ministerio Público, no especializado, sobre hechos que la ley señale como delitos, señalados en el artículo 4 de esta ley.
 
 ###### ARTÍCULO 20.
 
 En la denuncia podrá formularse la descripción de los bienes que el denunciante presuma sean de los señalados en el artículo 5 de esta Ley.
 
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 21.
 
-El particular que denuncie y contribuya a la obtención o aporte medios de prueba para el ejercicio de la acción, podrá recibir como retribución un porcentaje del 2 al 5% del valor comercial de los mismos, después de la determinación relativa a los derechos preferentes, señalados en el artículo 50 de este ordenamiento, y en los términos del Reglamento de esta Ley. El valor comercial de los bienes se determinará mediante avalúo, que podrán elaborar las dependencias de la Administración Pública del Distrito Federal, y que presente el Agente del Ministerio Público durante el procedimiento.
+El particular que denuncie y contribuya a la obtención o aporte datos o medios de prueba para el ejercicio de la acción, podrá recibir como retribución un porcentaje del 2 al 5% del valor comercial de los mismos, después de la determinación relativa a los derechos preferentes, señalados en el artículo 50 de este ordenamiento, y en los términos del Reglamento de esta Ley. El valor comercial de los bienes se determinará mediante avalúo, que podrán elaborar las dependencias de la Administración Pública del Distrito Federal, y que presente el Agente del Ministerio Público durante el procedimiento.
 
-Toda persona que en los términos antes señalados, presente una denuncia, tendrá derecho a que se guarde absoluta secrecía respecto de sus datos personales.
+Toda persona que en los términos antes señalados, presente una denuncia, tendrá derecho a que se respete su intimidad y se proteja la información que se refiera a su vida privada y sus datos personales.
 
 ### CAPÍTULO V. DE LA COLABORACIÓN
 
@@ -372,29 +388,39 @@ V. El Agente del Ministerio Público.
 
 ### CAPÍTULO VIII. DE LA PREPARACIÓN DE LA ACCIÓN
 
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 28.
 
-Cuando se haya iniciado una averiguación previa, durante la substanciación de un proceso penal o se dicte sentencia penal respecto de los delitos previstos en el artículo 4 de esta Ley y sean identificados, detectados o localizados algunos de los bienes a que se refiere el artículo 5 de este ordenamiento, el Agente del Ministerio Público que este conociendo del asunto, remitirá copia certificada de las diligencias conducentes, al Agente del Ministerio Público para sustanciar la acción.
+Cuando se haya iniciado una averiguación previa o una investigación sobre hechos que la ley señale como delito, durante la substanciación de un proceso penal o se dicte sentencia penal respecto de los delitos previstos en el artículo 4 de esta Ley y sean identificados, detectados o localizados algunos de los bienes a que se refiere el artículo 5 de este ordenamiento, el Agente del Ministerio Público que este conociendo del asunto, remitirá copia certificada de las diligencias conducentes, al Agente del Ministerio Público para sustanciar la acción.
 
 ###### ARTÍCULO 29.
 
 El Agente del Ministerio Público preparará y ejercerá la acción ante el Juez y para ese efecto, tendrá las siguientes atribuciones:
 
-I. Recabará, recibirá y practicará las diligencias que considere necesarias para obtener las pruebas que acrediten cualquiera de los eventos típicos a que se refiere el artículo 4 de la presente Ley;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-II. Recabará los medios de prueba que acrediten indiciariamente que los bienes se encuentran en alguno de los supuestos previstos en el artículo 5 de esta Ley;
+I. Recabará, recibirá y practicará las diligencias que considere necesarias para obtener los datos o medios de prueba de cualquiera de los eventos típicos a que se refiere el artículo 4 de la presente Ley;
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. Recabará los medios de prueba de los bienes que se encuentran en alguno de los supuestos previstos en el artículo 5 de esta Ley;
 
 III. Solicitará al juez, durante el procedimiento respectivo, las medidas cautelares previstas en la presente ley; y
 
 IV. Las demás que señale esta Ley, la legislación vigente o que considere necesarias para el cumplimiento del objeto de este ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 30.
 
-Recibidas las copias certificadas de las constancias ministeriales, los autos del proceso penal o la sentencia penal, el Agente del Ministerio Público de inmediato realizará todas las diligencias necesarias para preparar la acción y procederá a complementar o, en su caso, recabar la información necesaria para la identificación de los bienes materia de la acción. Si los bienes se encuentran a disposición de alguna otra autoridad, les informará al respecto.
+Recibidas las copias de la investigación, los autos del proceso penal o la sentencia penal, el Agente del Ministerio Público de inmediato realizará todas las diligencias necesarias para preparar la acción y procederá a complementar o, en su caso, recabar la información necesaria para la identificación de los bienes materia de la acción. Si los bienes se encuentran a disposición de alguna otra autoridad, les informará al respecto.
 
 Realizará el inventario de los bienes, cuando no exista constancia de su realización, y determinará las medidas cautelares necesarias previstas en el capítulo III de esta Ley.
 
-Para la etapa de preparación de la acción, el Agente del Ministerio Público tiene un término de noventa días hábiles, contados a partir de la recepción de las constancias. El término se podrá ampliar por acuerdo específico del Procurador General de Justicia del Distrito Federal, sin que exceda el término de prescripción.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Para la etapa de preparación de la acción, el Agente del Ministerio Público tiene un término de cien días hábiles, contados a partir de la recepción de las constancias. El término se podrá ampliar por acuerdo específico del Procurador General de Justicia del Distrito Federal, sin que exceda el término de prescripción.
 
 ###### ARTÍCULO 31.
 
@@ -512,7 +538,9 @@ III. Que los bienes no se encuentran en ninguno de los supuestos previstos en el
 
 Los terceros ofrecerán pruebas conducentes para que se reconozcan sus derechos sobre los bienes materia de la acción; y las víctimas o ofendidos únicamente en lo relativo a la reparación del daño.
 
-Las pruebas que ofrezca el Agente del Ministerio Público deberán ser conducentes, primordialmente, para acreditar la existencia de cualquiera de los eventos típicos, desde el inicio de la averiguación previa para la admisión de la acción por el Juez, y de los hechos ilícitos señalados en el artículo 4 de la Ley y que los bienes son de los enlistados en el artículo 5 del mismo ordenamiento, para el dictado de la sentencia. Además, el Juez le dará vista con todas las determinaciones que tome, para que manifieste lo que conforme a derecho proceda, con relación a los terceros, víctimas u ofendidos; y estará legitimado para recurrir cualquier determinación que tome.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Las pruebas que ofrezca el Agente del Ministerio Público deberán ser conducentes, primordialmente, para acreditar la existencia de cualquiera de los eventos típicos, desde el inicio de la averiguación previa o investigación para la admisión de la acción por el Juez, y de los hechos ilícitos señalados en el artículo 4 de la Ley y que los bienes son de los enlistados en el artículo 5 del mismo ordenamiento, para el dictado de la sentencia. Además, el Juez le dará vista con todas las determinaciones que tome, para que manifieste lo que conforme a derecho proceda, con relación a los terceros, víctimas u ofendidos; y estará legitimado para recurrir cualquier determinación que tome.
 
 ###### ARTÍCULO 42.
 
@@ -709,3 +737,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
