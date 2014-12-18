@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-centros-de-reclusion-para-el-distrito-federal-100096"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-04"
-last_updated: "2014-08-07"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100096&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-03-28"
 
 LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de abril de 2014.
 
@@ -72,7 +72,9 @@ El Jefe de Gobierno del Distrito Federal podrá celebrar con la Federación; as�
 
 En los ámbitos de sus competencias, el Jefe de Gobierno del Distrito Federal, y el Tribunal Superior de Justicia del Distrito Federal resolverán sobre los aspectos no previstos que se deriven de las disposiciones de esta Ley.
 
-Los Centros de Reclusión del Distrito Federal, estarán destinados a recibir personas mayores de dieciocho años indiciadas, procesadas y sentenciadas por delitos del fuero común y del fuero federal; estas últimas únicamente con base en los acuerdos que suscriba la Administración Pública del Distrito Federal con la Federación.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Los Centros de Reclusión del Distrito Federal, estarán destinados a recibir personas mayores de dieciocho años indiciadas, procesadas y sentenciadas por delitos del fuero común y del fuero federal; estas últimas únicamente con base en los acuerdos o convenios que suscriba la Administración Pública del Distrito Federal con la Federación.
 
 ###### Artículo 3.
 
@@ -90,9 +92,9 @@ IV. (DEROGADA, G.O. 7 DE AGOSTO DE 2014)
 
 V. Código Penal. Al Código Penal para el Distrito Federal;
 
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-VI. Código de Procedimientos Penales. Al Código de Procedimientos Penales para el Distrito Federal y/o Código Nacional de Procedimientos Penales.
+VI. Código de Procedimientos Penales: a la legislación de procedimientos penales aplicable al Distrito Federal;
 
 VII. La Ley. A la Ley de Centros de Reclusión para el Distrito Federal;
 
@@ -234,7 +236,9 @@ La Subsecretaría tendrá el régimen y la organización interna de los Centros 
 
 La custodia y salvaguarda de los indiciados será responsabilidad del Ministerio Público y de la autoridad judicial hasta en tanto no ingresen formalmente a algún Centro de Reclusión.
 
-No se recibirán personas detenidas en los centros de reclusión si su remisión no va acompañada materialmente con la consignación de la averiguación previa.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+No se recibirán personas detenidas en los centros de reclusión si su remisión no la realiza el Ministerio Público en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la legislación de procedimientos penales aplicable al Distrito Federal. En cualquier caso, el Juez deberá de calificar de legal la detención o decretar la libertad del imputado que corresponda.
 
 > <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
@@ -488,11 +492,13 @@ El sistema penitenciario no impondrá más medidas disciplinarias ni restriccion
 
 De las Comunicaciones del Interno Con su Representante Legal.
 
-> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 25.
 
-Los internos e internas en los Centros de Reclusión tendrán derecho en cualquier momento a entrar en contacto con su representante legal y en ningún caso el personal de la Institución tendrá derecho a escuchar las conversaciones de éstas con sus defensores
+Los internos e internas en los Centros de Reclusión tendrán derecho en cualquier momento a entrar en contacto con su defensor y en ningún caso el personal de la Institución tendrá derecho a escuchar las conversaciones de éstas con sus defensores.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 La visita de los defensores(as) se llevará a cabo en áreas especialmente acondicionadas para ello, mismas que contarán con la privacidad adecuada. El Director del Centro de Reclusión tomará las medidas necesarias para que el acceso de los defensores autorizados, quienes deberán estar acreditados ante el Centro, sea inmediatamente facilitado todos los días del año, dentro de los horarios establecidos en el Reglamento de la presente Ley.
 
@@ -534,11 +540,11 @@ La Subsecretaría podrá contratar a los internos que así lo deseen para realiz
 
 La Subsecretaria podrá realizar convenios con empresas privadas con objeto de impulsar la actividad industrial dentro de los centros.
 
-> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 32.
 
-El Gobierno del Distrito Federal podrá implementar un programa de incentivos fiscales para las personas físicas y morales, con las que se celebren convenios para la realización de actividades laborales por los internos(as) en las instituciones del Sistema Penitenciario del Distrito Federal.
+El Gobierno del Distrito Federal podrá implementar un programa de incentivos fiscales para las personas físicas, morales o jurídicas, con las que se celebren convenios para la realización de actividades laborales por los internos(as) en las instituciones del Sistema Penitenciario del Distrito Federal.
 
 ###### Artículo 33.
 
@@ -732,6 +738,10 @@ Las personas inimputables y aquellas que requieran atención psiquiátrica y/o t
 
 Las personas que estén ubicados en los Centros de Reclusión y requieran atención médica especializada en salud mental, previa valoración del médico psiquiatra, deberán ser remitidas al Centro de Rehabilitación Psicosocial para que reciban el tratamiento correspondiente.
 
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+En cualquier caso, deberán aplicarse las disposiciones de la legislación de procedimientos penales aplicable al Distrito Federal, cuando un inimputable este sometido a un proceso penal.
+
 > <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 58.
@@ -924,7 +934,9 @@ La Subsecretaria por conducto del Centro Penitenciario, deberá notificar con cu
 
 El ingreso de cualquier persona en alguno de los centros materia del presente ordenamiento se hará únicamente:
 
-I. Por consignación del Ministerio Público;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+I. A solicitud del Ministerio Público en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en la Legislación de Procedimientos Penales aplicable en el Distrito Federal;
 
 II. Por resolución Judicial;
 
@@ -1242,9 +1254,9 @@ c) Ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacie
 
 d) Ausencia de vínculos con organizaciones delictivas;
 
-> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-e) Notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso y no estar suspendido o inhabilitado; y
+e) No haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a procedimiento penal y no estar suspendido o inhabilitado; y
 
 f) Cumplimiento de los deberes establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y la presente Ley.
 
@@ -1515,3 +1527,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTÍCULO SEGUNDO.
 
 El Jefe de Gobierno del Distrito Federal emitirá el Reglamento de la Ley de Centros de Reclusión para el Distrito Federal, así como el Reglamento del Consejo de Honor y Justicia. Los manuales operativos, organizacionales y de procedimiento respectivos, se elaborarán por conducto de la Secretaría de Gobierno. Dichos instrumentos deberán emitirse en un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
