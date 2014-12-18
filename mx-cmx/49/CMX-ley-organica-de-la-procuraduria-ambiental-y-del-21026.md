@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-ambiental-y-del-21026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-24"
-last_updated: "2014-01-10"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21026&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2001-04-09"
 
 LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 24 de abril de 2001.
 
@@ -88,7 +88,7 @@ XII. Reconocimiento de Hechos: Las visitas que realice la Procuraduría practica
 
 XIII. Reglamento: El Reglamento de la Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
 
-XIV. Secretaría: La Secretaría del Medio Ambiente del Distrito Federal, y (sic)
+XIV. Secretaría: La Secretaría del Medio Ambiente del Distrito Federal, y
 
 XV. Sugerencia: Resolución emitida por la Procuraduría y dirigida a la Asamblea Legislativa o a los órganos jurisdiccionales para su consideración en los procedimientos, procesos, recursos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia, que tiene por objeto promover y mejorar la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial.
 
@@ -220,7 +220,7 @@ XXVII. Formular y difundir estudios, reportes e investigaciones respecto del cum
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-XXVIII. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones, de conformidad con las disposiciones jurídicas y administrativas aplicables, y (sic)
+XXVIII. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones, de conformidad con las disposiciones jurídicas y administrativas aplicables, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -248,7 +248,7 @@ II. El Procurador(a);
 
 III. La Subprocuraduría de Protección Ambiental;
 
-IV. La Subprocuraduría de Ordenamiento Territorial; y (sic)
+IV. La Subprocuraduría de Ordenamiento Territorial; y
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -332,7 +332,7 @@ X. Nombrar, promover y remover libremente a las y los servidores públicos de la
 
 XI. Presentar el proyecto de Reglamento Interior al Consejo para su aprobación;
 
-XII. Presentar al Consejo el informe anual de sus actividades y del ejercicio de su presupuesto; y (sic)
+XII. Presentar al Consejo el informe anual de sus actividades y del ejercicio de su presupuesto; y
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -376,7 +376,7 @@ XXII. Adscribir orgánica y administrativamente a la oficina del Procurador (a),
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-XXIII. Participar en las sesiones del Consejo de Gobierno, como invitado permanente, con derecho a voz únicamente, y (sic)
+XXIII. Participar en las sesiones del Consejo de Gobierno, como invitado permanente, con derecho a voz únicamente, y
 
 > <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2011)</small>
 
@@ -436,7 +436,7 @@ IV. Opinar sobre el Informe de la Procuraduría;
 
 V. Aprobar los manuales de organización y de procedimientos de la Procuraduría y hacerlos del conocimiento de la Oficialía Mayor del Gobierno del Distrito Federal;
 
-VI. Designar al Secretario(a) Técnico(a); y (sic)
+VI. Designar al Secretario(a) Técnico(a); y
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -568,7 +568,7 @@ XII. Dar respuesta en forma oportuna, debidamente fundada y motivada a las denun
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-XIII. Solicitar la comparecencia de las personas mencionadas en las denuncias ciudadanas, que sean admitidas o en las investigaciones de oficio que tramite, a fin de desahogar las diligencias que correspondan o manifestar lo que a su derecho convenga, y (sic)
+XIII. Solicitar la comparecencia de las personas mencionadas en las denuncias ciudadanas, que sean admitidas o en las investigaciones de oficio que tramite, a fin de desahogar las diligencias que correspondan o manifestar lo que a su derecho convenga, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -634,7 +634,9 @@ XVII. Participar, en coordinación con las autoridades competentes, en la formul
 
 XVIII. Elaborar los proyectos de convenios de coordinación, de la Procuraduría con autoridades Federales, Estatales, Municipales y del Distrito Federal, para el cumplimiento de sus atribuciones;
 
-XIX. Certificar los documentos que obren en el archivo de la Procuraduría, cuando deban ser exhibidos en procedimientos judiciales, contenciosos, administrativos y en general, para cualquier proceso, procedimiento o averiguación;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XIX. Certificar los documentos que obren en el archivo de la Procuraduría, cuando deban ser exhibidos en procedimientos judiciales, contenciosos, administrativos y en general, para cualquier proceso, procedimiento, averiguación o investigación;
 
 XX. Archivar y resguardar los expedientes y documentos de trámite, anexos, de las investigaciones de oficio y de las denuncias concluidas por la Procuraduría;
 
@@ -1211,3 +1213,13 @@ Publíquese en la Gaceta Oficial del Distrito Federal.
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
