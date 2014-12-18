@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-estudios-cientificos-para-la-26861"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-10"
-last_updated: "2002-12-10"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26861&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2002-11-11"
 ---
 # LEY DEL INSTITUTO DE ESTUDIOS CIENTIFICOS PARA LA PREVENCION DEL DELITO EN LA CIUDAD DE MEXICO -- ANTES LEY DEL INSTITUTO DE ESTUDIOS CIENTIFICOS PARA LA PREVENCION DEL DELITO EN EL DISTRITO FEDERAL --
 
-LEY DEL INSTITUTO DE ESTUDIOS CIENTIFICOS PARA LA PREVENCION DEL DELITO EN EL DISTRITO FEDERAL
+LEY DEL INSTITUTO DE ESTUDIOS CIENTÍFICOS PARA LA PREVENCIÓN DEL DELITO EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el martes 10 de diciembre de 2002.
 
@@ -256,7 +256,9 @@ I. Ser ciudadano mexicano en el ejercicio de sus derechos;
 
 II. Ser originario del Distrito Federal o vecino de él con residencia efectiva de más de seis meses anteriores a la fecha de su designación;
 
-III. Acreditar que se ha observado buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso, ni estar sujeto a proceso penal;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III. No haber sido condenado por sentencia firme o irrevocable como responsable de un delito doloso, ni estar sujeto a proceso penal;
 
 IV. Poseer autorización para el ejercicio de cualquier profesión relacionado con el objeto del Instituto;
 
@@ -326,13 +328,17 @@ X. Las demás que le sean señaladas por esta Ley, el Estatuto y otros ordenamie
 
 ### CAPÍTULO SEGUNDO.. DE LAS COORDINACIONES DEL INSTITUTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 20.
 
-El Director General propondrá al Órgano de Gobierno la designación y nombramiento de los titulares de las Coordinaciones del Instituto, los cuales deben reunir los siguientes requisitos:
+El Director General propondrá al Órgano de Gobierno la designación y nombramiento de los titulares de las coordinaciones del instituto, los cuales deben reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano en el ejercicio de sus derechos;
 
-II. Acreditar que se ha observado buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso, ni estar sujeto a proceso penal, y
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II.- No haber sido condenado por sentencia firme o irrevocable por delito doloso, ni estar sujeto a proceso penal; y
 
 III. Contar con experiencia, de por lo menos cinco años, en áreas de investigación, consultoría o docencia, a nivel nacional o local.
 
@@ -529,3 +535,15 @@ Recinto Legislativo, a 17 de octubre de 2002.
 POR LA MESA DIRECTIVA.- DIP. MIGUEL ÁNGEL TOSCAZO VELASCO, PRESIDENTE.- SECRETARIO, DIP. FEDERICO MORA MARTÍNEZ.- SECRETARIA, DIP. ALICIA IRINA DEL CASTILLO NEGRETE Y BARRERA. - (Firmas).
 
 En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los once días del mes de noviembre del año dos mil uno.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTIZ PINCHETTI.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MARCELO EBRARD CASAUBÓN.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
