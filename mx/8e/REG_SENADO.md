@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2013-03-05"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -168,9 +168,15 @@ VII. Informar al órgano camaral que corresponda de los asuntos competencia del 
 
 VIII. Presentar en tiempo y forma las declaraciones e informes que establecen las normas aplicables o que deben rendir con motivo del desempeño de sus funciones o encomiendas;
 
-IX. Abstenerse de revelar cualquier información reservada o confidencial a la que tengan acceso en el desempeño de sus funciones, conforme a lo dispuesto por las normas en materias de transparencia y acceso a la información pública así como de seguridad nacional. El o los senadores que incumplan con esta obligación serán responsables en términos de lo dispuesto por el artículo 21 de este Reglamento; y
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2014)</small>
 
-X. Las demás que establecen la Constitución y las leyes.
+IX. Abstenerse de revelar cualquier información reservada o confidencial a la que tengan acceso en el desempeño de sus funciones, conforme a lo dispuesto por las normas en materias de transparencia y acceso a la información pública así como de seguridad nacional. El o los senadores que incumplan con esta obligación serán responsables en términos de lo dispuesto por el artículo 21 de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2014)</small>
+
+X. Informar a la ciudadanía al término de cada año de la legislatura, sobre las actividades realizadas durante el mismo, y
+
+XI. Las demás que establecen la Constitución y las leyes.
 
 ### CAPITULO TERCERO. DE LAS LICENCIAS, SUPLENCIAS Y VACANTES
 
@@ -2462,6 +2468,10 @@ Artículo 238
 
 3. En el análisis y evaluación de los tratados y las convenciones internacionales, las comisiones cuidan el cumplimiento de los principios normativos de la política exterior mexicana, así como el interés y la seguridad nacionales.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2014)</small>
+
+4. Tratándose de la aprobación de tratados internacionales por los que se reconozcan derechos humanos en los términos del artículo 1º constitucional, el Senado dará trámite inmediato y prioritario a su estudio y discusión.
+
 #### SECCION TERCERA. DE LA APROBACION O RATIFICACION DE NOMBRAMIENTOS Y DE REMOCIONES
 
 Artículo 239
@@ -2671,6 +2681,28 @@ Artículo 265
 2. Los convenios amistosos que presentan las entidades federativas para su aprobación por el Senado, son turnados por el Presidente de la Mesa a la comisión competente.
 
 3. A falta de acuerdo, el Senado resuelve en forma definitiva los conflictos de límites entre entidades federativas que así lo solicitan.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 18 DE DICIEMBRE DE 2014)</small>
+
+#### SECCION DECIMA. DE LAS COMPARECENCIAS DE AUTORIDADES O SERVIDORES PÚBLICOS A SOLICITUD DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 265 Bis.
+
+1. Para las comparecencias de las autoridades o servidores públicos a los que hace referencia el segundo párrafo del aparatado B del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, se estará a lo siguiente:
+
+I. Una vez que ingrese al lugar destinado para sesionar el servidor público compareciente, la Presidenta o el Presidente de la Comisión de Derechos Humanos y la que corresponda del Senado procederá a tomarle protesta correspondiente de decir verdad y le hará saber las responsabilidades de los servidores públicos que incurran en falsedad.
+
+II. Posteriormente la Presidenta o el Presidente de la Comisión de Derechos Humanos le otorgará el uso de la voz para que exponga de manera fundada y motivada su negativa para no dar cumplimiento a la recomendación que le emitió la Comisión Nacional de los Derechos Humanos.
+
+III. Posteriormente hará uso de la palabra un legislador por cada uno de los Grupos Parlamentarios representados en la Comisión. Estas intervenciones se realizarán en orden creciente, en razón del número de legisladores de cada Grupo Parlamentario y cada una de ellas no excederá de diez minutos.
+
+IV. En el caso de que existan cuestionamientos o interpelaciones al servidor público compareciente, el Presidente de la Comisión le preguntará si desea responder a la misma en ese momento o al final de su intervención.
+
+V. A continuación los legisladores podrán formular sus preguntas de manera directa al servidor público compareciente. Al final de cada una de ellas, el servidor público citado hará uso de la palabra para dar respuesta a cada una de ellas.
+
+VI. Una vez finalizados los cuestionamientos el servidor público compareciente emitirá un mensaje final, acto seguido la Presidenta o el Presidente de la Comisión hará uso de la palabra para un mensaje final sobre el tema para el que fue citado el servidor público.
 
 ### CAPITULO TERCERO. DE LOS INFORMES, LAS COMPARECENCIAS Y LAS PREGUNTAS PARLAMENTARIAS
 
@@ -3227,3 +3259,23 @@ TERCERO. La estructura, organización, facultades y funcionamiento del Centro de
 D.O.F. 5 DE MARZO DE 2013.
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE DICIEMBRE DE 2014.
+
+DECRETO POR EL QUE SE ADICIONA UNA SECCIÓN DÉCIMA, AL CAPÍTULO SEGUNDO DEL TÍTULO OCTAVO DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA, QUE ESTARÁ CONFORMADA POR EL ARTÍCULO 265 BIS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE DICIEMBRE DE 2014.
+
+DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LA VIGENTE, PARA PASAR A SER LA FRACCIÓN XI, DEL ARTÍCULO 10 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE DICIEMBRE DE 2014.
+
+DECRETO POR EL QUE SE ADICIONA EL NUMERAL 4 AL ARTÍCULO 238 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
