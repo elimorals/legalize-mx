@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2014.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -115,7 +115,9 @@ SEGUNDO. Cada uno de los Circuitos a que se refiere el punto primero comprender�
 
 I. PRIMER CIRCUITO:
 
-1. Cincuenta y seis tribunales colegiados especializados: nueve en materia penal, dieciocho en materia administrativa, catorce en materia civil y quince en materia de trabajo, todos con residencia en el Distrito Federal.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 56/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE DICIEMBRE DE 2014)</small>
+
+1. Cincuenta y ocho tribunales colegiados especializados: nueve en materia penal, dieciocho en materia administrativa, catorce en materia civil y diecisiete en materia de trabajo, todos con residencia en el Distrito Federal.
 
 2. Nueve tribunales unitarios especializados: seis en materia penal y tres en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
@@ -1332,3 +1334,9 @@ TERCERO. Los tribunales Colegiados que cambian de denominación y especializaci�
 CUARTO. La Coordinación de Administración Regional del Consejo de la Judicatura Federal, deberá proveer a los tribunales colegiados que se especializan y cambian de denominación, motivo del presente acuerdo, de los recursos materiales necesarios de identificación (sello oficial, directorios, placas de denominación, papelería, etc.), para que a la brevedad posible cuenten con ellos.
 
 QUINTO. La integración de los Plenos Especializados del Séptimo Circuito, se realizará a partir del mes de enero del año dos mil quince, de conformidad con lo establecido en el Acuerdo General 11/2014 del Pleno del Consejo de la Judicatura Federal.
+
+D.O.F. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
