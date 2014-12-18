@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2014-12-15"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -143,7 +143,7 @@ La equidad
 
 ###### Artículo 1.
 
-17.- La equidad deberá ponderarse en la aplicación de las normas tratándose de individuos con atraso intelectual, debilidad económica, social, hábitos o tradiciones propias de la étnia a la que pertenezcan, siempre que estas circunstancias hubieren influido en el incumplimiento de la ley civil.
+17.- La equidad deberá ponderarse en la aplicación de las normas tratándose de individuos con atraso intelectual, debilidad económica o social o hábitos o tradiciones propias de la étnia a la que pertenezcan, siempre que estas circunstancias hubieren influido en el incumplimiento de la ley civil.
 
 # LIBRO SEGUNDO. De las personas
 
@@ -235,7 +235,7 @@ Capacidad de ejercicio para donar órganos
 
 La autorización a que se refiere el presente artículo podrá especificar los órganos o los materiales orgánicos que deban donarse, de lo contrario se entenderán comprendidos todos los órganos o tejidos anatómicos del donante.
 
-Asimismo, podrá especificar con qué finalidad se autoriza la donación y el destinatario. De no existir ésta se entenderá que se donan para fines de implantación en humanos vivos, con exclusión de los de estudio e investigación científica.
+Asimismo podrá especificar con que finalidad se autoriza la donación y el destinatario. De no existir ésta se entenderá que se donan para fines de implantación en humanos vivos, con exclusión de los de estudio e investigación científica.
 
 Esta donación es revocable en cualquier momento por el donante y no podrá ser revocada por persona alguna después de su muerte.
 
@@ -747,7 +747,7 @@ Modificación del sustantivo propio
 
 ### CAPITULO VII. De la rectificación de las Actas del Estado Civil
 
-Rectificación de actas del estado civil
+Rectificación de actas de estado civil
 
 ###### Artículo 3.
 
@@ -757,7 +757,7 @@ l. La persona interesada, si es mayor de edad;
 
 II. Los padres, el padre, la madre o quien ejerza la patria potestad del menor de doce años de edad o del incapaz;
 
-III. La persona menor de dieciocho pero mayor de doce años de edad, con el consentimiento de sus padres, de su padre, de su madre, de su representante legal, o en su caso, de la persona o institución que lo tuviere a su cargo.
+III. La persona menor de dieciocho pero mayor de doce años de edad, con el consentimiento de sus padres, de su padre, de su madre, de su representante legal, o en su caso, de la persona o institución que lo tuviere a su cago.
 
 En caso de que la registrada o el registrado tenga dos o más nombres en el sustantivo propio, sólo surtirá efecto en el sustantivo propio expuesto al ridículo.
 
@@ -817,7 +817,7 @@ Forma del juicio sobre rectificación o modificación
 
 40.- El juicio de rectificación o modificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
 
-Aclaración de actas del estado civil
+Aclaración de actas de estado civil
 
 ###### Artículo 3.
 
@@ -1169,7 +1169,7 @@ Disposiciones que rigen la separación de bienes
 
 ###### Artículo 4.
 
-30.- Las capitulaciones matrimoniales y sus modificaciones, constarán en escritura pública cuando los cónyuges se hagan copartícipes o transmitan la propiedad de bienes cuando la ley exija tal requisito, para su transmisión; pudiéndose inscribir en el Registro Público de la Propiedad.
+30.- Las capitulaciones matrimoniales y sus modificaciones, constarán en escritura pública cuando los cónyuges se hagan copartícipes o transmitan la propiedad de bienes que la ley exija tal requisito para su transmisión; pudiéndose inscribir en el Registro Público de la Propiedad.
 
 Terminación de la sociedad conyugal
 
@@ -1261,9 +1261,9 @@ Inventario por terminación de la sociedad
 
 42.- Terminada la sociedad se procederá a su liquidación, formándose el inventario, excluyéndose los objetos de uso personal de los cónyuges.
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+Liquidación de la sociedad
 
-Liquidación de la sociedad conyugal
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 4.
 
@@ -1285,9 +1285,9 @@ Reglas sobre terminación y liquidación de la sociedad
 
 46.- La separación de bienes se rige por las capitulaciones matrimoniales o por sentencia judicial. La separación puede comprender no sólo los bienes de que sean propietarios los cónyuges al celebrar el matrimonio, sino también los que adquieran después.
 
-> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-Para efectos de divorcio, cuando alguno de los cónyuges haya realizado trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o cuidado de la familia, de manera cotidiana, tendrá derecho a la repartición de los bienes adquiridos durante el matrimonio, el cual no podrá ser superior al 50%, con base en los principios de equidad y proporcionalidad.
+Para efectos de divorcio, cuando alguno de los cónyuges haya realizado trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o cuidado de la familia, de manera cotidiana o tenga desproporcionalmente menos bienes que el otro cónyuge, tendrá derecho a la repartición de los bienes adquiridos durante el matrimonio hasta por el cincuenta por ciento, con base en los principios de equidad y proporcionalidad.
 
 Régimen de separación de bienes absoluto o parcial
 
@@ -1317,11 +1317,11 @@ Ingresos de cada cónyuge
 
 50.- Los ingresos que cada cónyuge obtenga serán propios, salvo pacto contrario.
 
-Contribución de los cónyuges a la educación y alimentación de los hijos
+Contribución de los cónyuges en la educación y alimentación de los hijos
 
 ###### Artículo 4.
 
-51.- Cada uno de los cónyuges debe contribuir (sic) la educación y alimentación de los hijos y a las demás cargas del matrimonio.
+51.- Cada uno de los cónyuges debe contribuir a la educación y alimentación de los hijos y a las demás cargas del matrimonio.
 
 ###### Artículo 4.
 
@@ -1645,9 +1645,9 @@ IV. Dictar las medidas convenientes respecto a la mujer que esté embarazada;
 
 V. Las necesarias para que los cónyuges no se causen daños en su persona, en sus bienes, en los de la sociedad conyugal o en los bienes de los hijos.
 
-> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-Los menores de doce años deberán quedar preferentemente al cuidado de la madre, a menos que exista una causa justificada a criterio del Juez. No será obstáculo para la preferencia maternal en la custodia el hecho de que la madre carezca de recursos económicos.
+El otorgamiento de la guarda y custodia de un menor no estará sustentado en prejuicios de género, por lo cual deberá atenderse al interés superior del menor.
 
 > <small>(REFORMADO PRIMER PÁRRAFO Y EPÍGRAFE, G.G. 3 DE MAYO DE 2012)</small>
 
@@ -1677,7 +1677,7 @@ Alimentos de los cónyuges en el divorcio
 
 ###### Artículo 4.
 
-99.- En el divorcio tendrá derecho a los alimentos el que lo necesite, y su monto se fijara de acuerdo a las circunstancias siguientes:
+99.- En el divorcio tendrá derecho a los alimentos el que lo necesite, y su monto se fijará de acuerdo a las circunstancias siguientes:
 
 I. La edad y el estado de salud de los cónyuges;
 
@@ -1689,11 +1689,11 @@ IV. Otras obligaciones que tenga el cónyuge deudor; y
 
 V. Las demás que el Juez estime necesarias y pertinentes.
 
-En todos los casos, el cónyuge que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o al cuidado de la familia, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, sin menoscabo de la repartición equitativa de bienes.
+En todos los casos, el cónyuge que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o al cuidado de la familia, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, sin menoscabo de la reparticipación equitativa de bienes.
 
 En la resolución que se dicte con respecto a los alimentos, se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
 
-El derecho a los alimentos, se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 4.
 
@@ -1827,7 +1827,7 @@ Consentimiento judicial para la inseminación artificial
 
 ###### Artículo 4.
 
-117.- Sólo se reconocen los parentescos de consanguinidad, afinidad y civil.
+117.- Sólo se reconocen los parentescos de consanguinidad, afinidad y el civil.
 
 Parentesco consanguíneo
 
@@ -1893,15 +1893,19 @@ Obligación recíproca de dar alimentos
 
 127.- La obligación de dar alimentos es recíproca. El que los da, tiene a su vez el derecho de pedirlos.
 
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Gozan de la presunción de necesitar alimentos los hijos menores de edad o que siendo mayores de edad, se dediquen al estudio; los discapacitados; los adultos mayores; así como el cónyuge o concubina o concubinario que se haya dedicado preponderantemente a las labores del hogar.
+
 Alimentos entre cónyuges
 
 ###### Artículo 4.
 
 128.- Los cónyuges deben darse alimentos.
 
-Reglas para que los concubinos se den alimentos
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+Reglas para que los concubinos se den alimentos
 
 ### CAPITULO IV. Del Registro de Deudores Alimentarios Morosos
 
@@ -1911,7 +1915,15 @@ De la naturaleza del Registro de Deudores Alimentarios Morosos
 
 ###### Artículo 4.
 
-129.- Los concubinos están obligados a darse alimentos.
+129.- Los concubinos están obligados a darse alimentos, conforme a las siguientes reglas:
+
+l. Que acrediten haber hecho vida común por al menos un año o haber procreado algún hijo en común;
+
+ll. Que el concubinario o la concubina se hubiera dedicado al cuidado de los hijos o del hogar; o que carezca de ingresos o bienes propios para su sostenimiento; o que padezca de alguna incapacidad o condición que le impida trabajar;
+
+III. Que no haya contraído nuevas nupcias o viva en concubinato;
+
+IV. Que se reclame dentro del año siguiente de haber cesado el concubinato.
 
 Obligación alimentaria de los padres
 
@@ -2039,9 +2051,15 @@ I. Cuando el acreedor deja de necesitar los alimentos;
 
 II. En caso de injuria, falta o daño graves inferidos por el acreedor contra el que debe proporcionarlos;
 
-III. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del acreedor, mientras subsistan estas causas; y
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+III. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del acreedor, mientras subsistan estas causas;
 
 IV. Si el acreedor, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+V. Cuando el acreedor contraiga nuevas nupcias o se una en concubinato.
 
 Derecho alimentario irrenunciable, imprescriptible e intransigible
 
@@ -2583,7 +2601,7 @@ Irrevocabilidad de la adopción
 
 ###### Artículo 4.
 
-199.- La adopción internacional es la promovida por los ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene por objeto incorporar en una familia, a un menor que no pueda encontrar una familia en su país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano, tomando en cuenta lo dispuesto por la Ley de Protección de los Derechos de Niñas, Niños, y Adolescentes y, en lo conducente, por las disposiciones de este Código.
+199.- La adopción internacional es la promovida por los ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene por objeto incorporar en una familia, a un menor que no pueda encontrar una familia en su propio país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano, tomando en cuenta lo dispuesto por la Ley de Protección de los Derechos de Niñas, Niños, y Adolescentes y, en lo conducente, por las disposiciones de este Código.
 
 Seguimiento de las adopciones internacionales
 
@@ -2591,7 +2609,7 @@ Seguimiento de las adopciones internacionales
 
 ###### Artículo 4.
 
-200.- En las adopciones internacionales el Sistema Estatal para el Desarrollo Integral de la Familia del Estado estará facultado para dar seguimiento de las condiciones físicas, educativas y emocionales del menor dado en adopción.
+200.- En las adopciones internacionales el Sistema para el Desarrollo Integral de la Familia del Estado estará facultado para dar seguimiento de las condiciones físicas, educativas y emocionales del menor dado en adopción.
 
 ###### Artículo 4.
 
@@ -2881,13 +2899,19 @@ I. Los que ejerzan la patria potestad convendrán quién de ellos se hará cargo
 
 II. Si no llegan a algún acuerdo, el juez atendiendo a los elementos de prueba que obren en el sumario y con base en el resultado de las pruebas periciales en materia de trabajo social y de psicología familiar que oficiosamente habrán de practicárseles, determinará:
 
-a).- Los menores de diez años quedarán al cuidado de la madre, salvo que sea perjudicial para el menor;
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+a) El otorgamiento de la guarda y custodia de un menor no estará sustentado en prejuicios de género, por lo cual deberá atenderse al interés superior del menor;
 
 > <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2012)</small>
 
 b) Después de oír a los interesados, quien se hará cargo de los mayores de diez años, pero menores de catorce;
 
-c).- Los mayores de catorce años elegirán cual de sus padres deberá hacerse cargo de ellos, si éstos no eligen el Juez decidirá.
+c). Los mayores de catorce años elegirán cual de sus padres deberá hacerse cargo de ellos, si éstos no eligen el Juez decidirá.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+En la resolución que ordene cuál de los padres ejercerá la guarda y custodia, se sujetará al interés superior del menor, velando en todo momento por la integridad física y mental de los hijos, atendiendo las circunstancias específicas que se encaminen a proteger el desarrollo de la familia y a salvaguardar el sano desarrollo de los menores. En todo caso, deberá practicarse la pericial en psicología familiar a las parejas de los padres, con el fin de verificar la seguridad del menor de la guarda, custodia y aún de la convivencia.
 
 ###### Artículo 4.
 
@@ -3181,15 +3205,21 @@ Nombramiento de tutor dativo que adquiere bienes
 
 Forma para designar tutor voluntario
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-270.- Las designaciones anteriores, deben constar en escritura pública, con los requisitos del testamento público abierto.
+270.- Las designaciones anteriores, deben constar en escritura pública, con los requisitos del testamento público abierto, y podrán ser revocables en cualquier tiempo y momento con la misma formalidad por parte de los otorgantes.
+
+En caso de muerte, incapacidad, excusa, remoción, no aceptación o relevo del cargo del tutor designado, desempeñará la tutela quien o quienes sean sustitutos.
 
 Instrucciones al tutor voluntario
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-271.- Al hacer la designación podrá instruir sobre el cuidado de su persona, la forma de administrar sus bienes, y en general todo lo referente a sus derechos y obligaciones.
+271.- Al hacer la designación podrá instruir, en la escritura pública correspondiente, sobre el cuidado de su persona, tratamiento médicos y cuidados, la forma de administrar sus bienes, y en general todo lo referente a sus derechos y obligaciones.
 
 Requisitos para ser tutor voluntario
 
@@ -3206,6 +3236,10 @@ Causas de excusa para ser tutor
 ###### Artículo 4.
 
 273.- A falta o incapacidad de los tutores o curadores designados, se estará a las reglas de la tutela legítima.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+El tutor voluntario que se excuse de ejercer la tutela, perderá todos los derechos inherentes a la tutela del incapaz.
 
 ###### Artículo 4.
 
@@ -14991,6 +15025,12 @@ Aparcería agrícola
 
 953.- En la aparcería agrícola una persona da a otra un predio rústico para que lo cultive, proporcionando o no las semillas, según acuerden, a fin de repartirse los frutos en la forma que convengan; a falta de ello, se hará conforme a la costumbre del lugar, en el concepto de que al aparcero nunca podrá corresponderle menos del cuarenta por ciento de la cosecha.
 
+Obligación del dueño en caso de muerte del aparcero
+
+###### Artículo 7.
+
+956.- Cuando a la muerte del aparcero ya se hubieren hecho algunos trabajos necesarios para el cultivo, si el propietario da por terminado el contrato, tiene obligación de pagar a los herederos del aparcero el importe de esos trabajos, en cuanto se aprovecha de ellos.
+
 Subsistencia de la aparcería
 
 ###### Artículo 7.
@@ -14999,19 +15039,13 @@ Subsistencia de la aparcería
 
 Terminación del contrato por muerte del aparcero
 
-###### Artículo 7.
-
-955.- Si es el aparcero el que muere, el contrato puede darse por terminado, salvo pacto contrario.
-
-Obligación del dueño en caso de muerte del aparcero
-
 ### CAPITULO I. De la Fianza en General
 
 Elementos del contrato de fianza
 
 ###### Artículo 7.
 
-956.- Cuando a la muerte del aparcero ya se hubieren hecho algunos trabajos necesarios para el cultivo, si el propietario da por terminado el contrato, tiene obligación de pagar a los herederos del aparcero el importe de esos trabajos, en cuanto se aprovecha de ellos.
+955.- Si es el aparcero el que muere, el contrato puede darse por terminado, salvo pacto contrario.
 
 Recolección de mieses o cosecha
 
@@ -16369,7 +16403,7 @@ Términos de la contratación
 
 1144 Quinquiés.- La determinación de la hipoteca inversa se realizará previo avalúo de Institución debidamente facultada, que considere el valor comercial de mercado del inmueble que deberá actualizarse cada 2 años para estar acorde con la plusvalía que el bien adquiera con el tiempo.
 
-El costo de dicho avaluó será cubierto por el pensionario.
+El costo de dicho avalúo será cubierto por el pensionario.
 
 El contrato de hipoteca inversa, además de lo pactado, estará sujeto a lo siguiente:
 
@@ -17840,3 +17874,43 @@ G.G. 15 DE DICIEMBRE DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 369, POR EL QUE SE REFORMAN LOS ARTÍCULOS 4.270 Y 4.271 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 4.273 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 370, POR EL QUE SE REFORMA EL ARTÍCULO 4.129 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 371, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 4.127 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Período (sic) Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 372, POR EL QUE SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 4.46, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 4.95, LA FRACCIÓN III Y ADICIÓN DE LA FRACCIÓN V DEL ARTÍCULO 4.144, EL INCISO A) DE LA FRACCIÓN II Y ADICIÓN DE UN ÚLTIMO PÁRRAFO DEL ARTÍCULO 4.228; Y SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 4.99 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno'.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto, perdiendo vigor al momento de esta publicación.
