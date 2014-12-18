@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-atencion-integral-del-consumo-de-sustancias-77698"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-29"
-last_updated: "2012-08-23"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77698&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-12-20"
 
 LEY PARA LA ATENCIÓN INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 29 de diciembre de 2010.
 
@@ -266,9 +266,9 @@ Las Delegaciones, dentro de la demarcación correspondiente y conforme al ámbit
 
 Los programas a los que se refiere el párrafo anterior se dirigirán de manera particular a los establecimientos mercantiles que, de acuerdo a la ley en la materia, tengan por objeto el expendio de las sustancias inhalables.
 
-> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-Las autoridades delegacionales, en caso de tener conocimiento sobre la venta o suministro, mediante cualquier forma, a menores de edad, personas que no tienen capacidad para comprender el significado del hecho o personas que no tienen capacidad para resistirlo, de sustancias inhalables determinadas por la presente Ley y las disposiciones reglamentarias emitidas por las autoridades correspondientes, darán aviso al Ministerio Público sobre posibles conductas constitutivas de delito en términos de la legislación aplicable.
+Las autoridades delegacionales, en caso de tener conocimiento sobre la venta o suministro, mediante cualquier forma, a menores de edad, personas que no tienen capacidad para comprender el significado del hecho o personas que no tienen capacidad para resistirlo, de sustancias inhalables determinadas por la presente Ley y las, disposiciones reglamentarias emitidas por las autoridades correspondientes, darán aviso al Ministerio Público sobre hechos que pudieran ser constitutivos de un delito, en términos de la legislación aplicable.
 
 ## TÍTULO SEGUNDO. DEL PROGRAMA GENERAL PARA LA ATENCIÓN INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DEL DISTRITO FEDERAL
 
@@ -388,7 +388,7 @@ XV. Instituto para la Atención y Prevención de las Adicciones en la Ciudad de 
 
 > <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
 
-XVI. Sistema para del Desarrollo Integral de la Familia;
+XVI. Sistema para del (sic) Desarrollo Integral de la Familia;
 
 > <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
 
@@ -400,7 +400,7 @@ XVIII. Un representante de la Asamblea Legislativa del Distrito Federal, nombrad
 
 Las personas titulares asistirán a las reuniones del Consejo, los cuales podrán nombrar a un suplente quien deberá tener como cargo mínimo un nivel inmediato inferior al del titular.
 
-(REFORMADO [N.DE E. ADICIONADO], G.O. 31 DE MAYO DE 2011.
+(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE MAYO DE 2011.
 
 La Secretaría Técnica del Consejo, recaerá en la Secretaría de Salud, o bien, en el órgano que para tal efecto designe su titular.
 
@@ -572,9 +572,11 @@ En los programas sociales que diseñe y aplique la Administración Pública del 
 
 ### Capítulo Tercero. De los menores y adolescentes en conflicto con la ley por consumo de sustancias psicoactivas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 45.
 
-El Programa General establecerá estrategias específicas para el tratamiento de menores y adolescentes en conflicto con la ley derivado de la comisión de infracciones relacionados con el consumo de sustancias psicoactivas, proponiendo mecanismos para que sean reintegrados con el seguimiento correspondiente a través del Juzgado respectivo y proponiendo alternativas para que cumplan con las medidas impuestas por dichas conductas.
+El Programa General establecerá estrategias específicas para el tratamiento de menores y adolescentes en conflicto con la ley derivado de la comisión de infracciones o delitos relacionados con el consumo de sustancias psicoactivas, proponiendo mecanismos para que sean reintegrados con el seguimiento correspondiente a través del Juzgado respectivo y proponiendo alternativas para que cumplan con las medidas impuestas por dichas conductas.
 
 El Instituto coadyuvará en la aplicación de los programas de tratamiento y reintegración a los que hace referencia el presente artículo, proporcionando asistencia, brindando capacitación constante y especializada al personal del Juzgado correspondiente en materia de detección, tratamiento, rehabilitación e integración comunitaria como parte de la atención integral del consumo de sustancias psicoactivas a menores y adolescentes en conflicto con la ley.
 
@@ -694,7 +696,7 @@ III. Si no se cuenta con la capacidad resolutiva, derivar a la persona al servic
 
 ###### Artículo 53.
 
-Los establecimientos que practiquen tratamientos alternativos o complementarios cuya finalidad sea la reducción del daño ocasionado por el consumo de sustancias psicoactivas, deberán cubrir los requisitos establecidos en la Norma Oficial Mexicana en materia prevención (sic) y atención de adicciones, así como contar con el aviso de funcionamiento ante las autoridades respectivas y estar registradas ante el Instituto.
+Los establecimientos que practiquen tratamientos alternativos o complementarios cuya finalidad sea la reducción del daño ocasionado por el consumo de sustancias psicoactivas, deberán cubrir los requisitos establecidos en la Norma Oficial Mexicana en materia (sic) prevención y atención de adicciones, así como contar con el aviso de funcionamiento ante las autoridades respectivas y estar registradas ante el Instituto.
 
 De manera adicional, deberán tener un programa por escrito, el cual debe estar basado en la ciencia y contar con el aval técnico de las autoridades respectivas y la opinión favorable del Instituto.
 
@@ -942,7 +944,7 @@ El Consejo Directivo sesionará ordinariamente con la periodicidad que señale s
 
 Al Consejo Directivo, le corresponde aprobar:
 
-I. El Estatuto Orgánico del Instituto, las reformas y adicciones (sic) al mismo, así como los manuales y demás normas que faciliten la organización su (sic) funcionamiento;
+I. El Estatuto Orgánico del Instituto, las reformas y adicciones (sic) al mismo, así como los manuales y demás normas que faciliten la organización (sic) su funcionamiento;
 
 II. El Anteproyecto de presupuesto anual del Instituto y remitirlo al Jefe de Gobierno para su integración al Proyecto de Presupuesto de Egresos de la Administración Pública;
 
@@ -1229,3 +1231,13 @@ Segundo. Las Delegaciones contarán con 45 días hábiles para publicar en la Ga
 Tercero. Las Delegaciones que durante el ejercicio fiscal 2011 no hayan efectuado el proyecto ejecutivo debidamente aprobado, los trámites administrativos o la adquisición del terreno apropiado para la construcción del Centro a que se refiere el artículo 83 de la presente Ley, tendrán como plazo para dar cumplimiento a dicha disposición el segundo semestre de 2012, a fin de garantizar el inicio de las obras de construcción en el primer trimestre del año 2014, lo anterior conforme a la suficiencia presupuestal
 
 Cuarto. La Secretaría de Salud y el Instituto para la Atención y Prevención de las Adicciones de la Ciudad de México, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentarán las acciones establecidas en el presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
