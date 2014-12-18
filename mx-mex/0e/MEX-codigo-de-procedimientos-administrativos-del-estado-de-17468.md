@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2014-03-27"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 27 DE MARZO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -223,7 +223,7 @@ III. Si tuviesen amistad estrecha o enemistad manifiesta con alguno de los inter
 
 IV. Si han sido abogados o apoderados de alguno de los interesados, en el mismo asunto;
 
-V. Si hubiesen aconsejado como asesores respecto del asunto o si hubieren resuelto el mismo en otra instancia, y (sic)
+V. Si hubiesen aconsejado como asesores respecto del asunto o si hubieren resuelto el mismo en otra instancia, y
 
 VI. Si son partes en un asunto similar, pendiente de solución.
 
@@ -1003,7 +1003,7 @@ VII. Los visitadores harán constar en el acta que al efecto se levante, todas y
 
 VIII. La persona con quien se haya entendido la diligencia, los testigos y los visitadores firmarán el acta. Un ejemplar legible del documento se entregará a la persona con quien se entienda la diligencia. La negativa a firmar el acta o a recibir copia de la misma, se deberá hacer constar en el referido documento, sin que esta circunstancia afecte la validez del acta o de la diligencia practicada;
 
-IX. Con las mismas formalidades indicadas en los puntos anteriores, se levantarán actas previas o complementarias, para hacer constar hechos concretos en el curso de la visita o después de su conclusión; y (sic)
+IX. Con las mismas formalidades indicadas en los puntos anteriores, se levantarán actas previas o complementarias, para hacer constar hechos concretos en el curso de la visita o después de su conclusión; y
 
 X. El visitado, su representante o la persona con la que se haya entendido la verificación, podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos u omisiones contenidos en el acta de la misma o bien hacer uso de ese derecho, por escrito, dentro del término de tres días siguientes a la fecha en que se hubiere levantado el acta.
 
@@ -1095,25 +1095,45 @@ Todo particular interesado podrá desistirse de su solicitud. Si el escrito de i
 
 Las autoridades administrativas podrán celebrar con los particulares acuerdos o convenios de carácter conciliatorio que pongan fin a los asuntos, siempre que no sean contrarios a las disposiciones legales aplicables.
 
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 135.
 
-Las peticiones que los particulares hagan a las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos descentralizados con funciones de autoridad, de carácter estatal o municipal, deberán ser resueltas en forma escrita, dentro de un plazo que no exceda de treinta días hábiles posteriores a la fecha de su presentación o recepción.
+Las peticiones que los particulares hagan a las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos descentralizados con funciones de autoridad, de carácter estatal o municipal, deberán ser resueltas en forma escrita y notificada, dentro de un plazo que no exceda de quince días hábiles posteriores a la fecha de su presentación, a excepción de los trámites que tengan plazo establecido en la Ley de la materia, los cuales deberán ser resueltos en el término señalado para tal efecto.
 
-Cuando se requiera al promovente para que se exhiba los documentos omitidos o cumpla con requisitos, formales, o proporcione los datos necesarios para su resolución, el plazo empezará a correr desde que el requerimiento haya sido cumplido. Si la autoridad omite efectuar el requerimiento, la resolución afirmativa ficta se configurará en términos del siguiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Transcurrido el citado plazo sin que se notifique la resolución expresa, los interesados podrán solicitar a la autoridad ante la que presentó la petición, la certificación de que ha operado en su favor la afirmativa ficta, que significa decisión favorable a los derechos e intereses legítimos de los peticionarios.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Cuando se requiera al promovente para que exhiba los documentos omitidos o cumpla con requisitos, formales o proporcione los datos necesarios para su resolución, el plazo empezará a correr desde que el requerimiento haya sido cumplido. Si la autoridad omite efectuar el requerimiento, la resolución afirmativa ficta se configurará en términos del siguiente párrafo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Transcurrido el plazo o término correspondiente sin que se notifique la resolución expresa, los interesados podrán solicitar a la autoridad ante la que presentó la petición, la certificación de que ha operado en su favor la afirmativa ficta, que significa decisión favorable a los derechos e intereses legítimos de los peticionarios.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
 Dentro de los tres días hábiles posteriores a la presentación de la solicitud de la certificación, la autoridad deberá expedirla salvo cuando el interesado no cumpla con los supuestos de procedencia establecidos en la ley de la materia.
 
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+
 En caso de que la autoridad competente no de respuesta a la solicitud de certificación dentro del plazo señalado en el párrafo anterior, los peticionarios acreditarán la existencia de la resolución afirmativa ficta, que producirá todos sus efectos legales ante las autoridades administrativas, con la presentación del documento que acuse de recibo original que contenga la petición formulada en el que aparezca claramente, o sello fechador original de la dependencia administrativa o la constancia de recepción con firma original del servidor público respectivo.
 
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La resolución afirmativa ficta operará tratándose de peticiones que den inicio a procedimientos en las materias reguladas por el Código Administrativo, excepto, tratándose de peticiones que tengan por objeto la transmisión de la propiedad o la posesión de bienes del Estado, municipios y organismos auxiliares de carácter estatal o municipal, la afectación de derechos de terceros, el otorgamiento o modificación de concesiones para la prestación de servicios públicos, autorizaciones de conjuntos urbanos, licencias de uso del suelo, normas técnicas, dictámenes de protección civil y del Dictamen de Factibilidad de Impacto Sanitario emitido por el Consejo Rector de Impacto Sanitario del Estado de México, y resolución del recurso administrativo de inconformidad. Tampoco se configura la resolución afirmativa ficta cuando la petición se hubiese presentado ante autoridad incompetente, así como en los casos de la rescisión de las relaciones laborales con los policías.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-En todos los casos en que no opera la resolución afirmativa ficta, el silencio de las autoridades en el plazo de treinta días hábiles posteriores a la presentación o recepción de la petición, se considerará como resolución negativa ficta, que significa decisión desfavorable a los derechos e intereses de los peticionarios, para efectos de su impugnación en el juicio contencioso administrativo.
+La resolución afirmativa ficta operará tratándose de peticiones que den inicio a procedimientos en las materias reguladas por el Código Administrativo, excepto, tratándose de peticiones que tengan por objeto la transmisión de la propiedad o la posesión de bienes del Estado, municipios y organismos auxiliares de carácter estatal o municipal, la afectación de derechos de terceros, el otorgamiento o modificación de concesiones para la prestación de servicios públicos, autorizaciones de conjuntos urbanos, licencias de uso del suelo, normas técnicas, dictámenes de protección civil, de factibilidad de impacto sanitario, de factibilidad comercial automotriz, de factibilidad para la distribución de agua y de factibilidad de transformación forestal, así como el permiso para las casas de empeño y de las unidades económicas que ejercen la compra y/o venta de oro y/o plata y la resolución del recurso administrativo de inconformidad. Tampoco se configura la resolución afirmativa ficta cuando la petición se hubiese presentado ante autoridad incompetente, así como en los casos de la recisión de las relaciones laborales con los policías.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+En todos los casos en que no opera la resolución afirmativa ficta, el silencio de las autoridades en el plazo de quince días hábiles posteriores a la presentación de la petición o el término establecido en la ley de la materia para dar respuesta, se considerará como resolución negativa ficta, que significa decisión desfavorable a los derechos e intereses de los peticionarios, para efectos de su impugnación en el juicio contencioso administrativo.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2010)</small>
 
@@ -1445,7 +1465,7 @@ IV. Contra actos consentidos tácitamente, entendiéndose por éstos cuando el r
 
 V. Cuando de las constancias de autos apareciere claramente que no existe el acto impugnado;
 
-VI. Cuando el acto impugnado no pueda surtir efecto alguno, legal o material, por haber dejado de existir el objeto o materia del mismo; y (sic)
+VI. Cuando el acto impugnado no pueda surtir efecto alguno, legal o material, por haber dejado de existir el objeto o materia del mismo; y
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -1659,7 +1679,7 @@ IX. Expedir y reformar el reglamento interior del Tribunal, así como las demás
 
 X. Conocer el resultado de las visitas reglamentarias practicadas a las secciones de la Sala Superior, Salas Regionales y Magistraturas Supernumerarias;
 
-XI. Presentar ante las autoridades administrativas competentes propuestas de reformas de la legislación administrativa y fiscal del Estado y municipios; y (sic)
+XI. Presentar ante las autoridades administrativas competentes propuestas de reformas de la legislación administrativa y fiscal del Estado y municipios; y
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -1771,7 +1791,7 @@ XI. Autorizar, en unión del secretario general del pleno, las actas en que se h
 
 XII. Rendir al Tribunal, en el último mes de cada año, un informe de las actividades;
 
-XIII. Publicar la jurisprudencia del Tribunal, así como aquellas sentencias que considere que deban darse a conocer por ser de interés general; y (sic)
+XIII. Publicar la jurisprudencia del Tribunal, así como aquellas sentencias que considere que deban darse a conocer por ser de interés general; y
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -1839,21 +1859,29 @@ II. Los actos administrativos y fiscales de trámite que dicten, ordenen, ejecut
 
 III. Los actos que dicten, ordenen, ejecuten o traten de ejecutar, de manera unilateral, las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal o municipal, respecto de contratos, convenios y otros acuerdos de voluntad que se hayan celebrado con los particulares en los renglones administrativo y fiscal;
 
-IV. De los actos administrativos o fiscales que se relacionen con la resolución afirmativa ficta en estas materias, que se configure por el silencio de las autoridades estatales o municipales para dar respuesta a las peticiones de los particulares, en términos de este Código;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-V. De las resoluciones negativas fictas que se configuren por el silencio de las autoridades administrativas y fiscales de carácter estatal o municipal, para dar respuesta en estas materias, a las peticiones de los particulares, en el plazo de treinta días siguientes a su presentación, conforme a las disposiciones de este ordenamiento;
+IV. Los actos administrativos o fiscales que se relacionen con la resolución afirmativa ficta en estas materias, que se configure por el silencio de las autoridades estatales o municipales para dar respuesta a las peticiones de los particulares, en términos de este Código;
 
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Las omisiones de las autoridades del Poder Ejecutivo, de los municipios y de los organismos auxiliares de carácter estatal o municipal para dar respuesta a las peticiones de los particulares, una vez que hayan transcurrido por lo menos veinte días siguientes a su presentación;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+V. Las resoluciones negativas fictas que se configuren por el silencio de las autoridades administrativas y fiscales de carácter estatal o municipal, para dar respuesta a las peticiones de los particulares, en el plazo de quince días siguientes a su presentación, conforme a las disposiciones de este ordenamiento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+VI. Las omisiones de las autoridades del Poder Ejecutivo, de los municipios y de los organismos auxiliares de carácter estatal o municipal para dar respuesta a las peticiones de los particulares, una vez que hayan transcurrido por lo menos diez días siguientes a su presentación;
 
 VII. Los reglamentos, decretos, circulares y demás disposiciones generales de naturaleza administrativa y fiscal que expidan las autoridades del Poder Ejecutivo del Estado, de los municipios o de los organismos auxiliares de carácter estatal o municipal, sin que sea obligatorio o requisito previo para promover cualquier otro medio de impugnación en contra de tales determinaciones;
 
 VIII. Las resoluciones favorables a los particulares, que causen una lesión a la hacienda pública del Estado o de los municipios, cuya invalidez se demande por las autoridades fiscales del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal o municipal;
 
-IX. Los actos que dicten, ordenen, ejecuten o traten de ejecutar las personas que se ostenten como autoridades administrativas o fiscales de carácter estatal o municipal, sin serlo; y (sic)
+IX. Los actos que dicten, ordenen, ejecuten o traten de ejecutar las personas que se ostenten como autoridades administrativas o fiscales de carácter estatal o municipal, sin serlo; y
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -2197,7 +2225,7 @@ VI. Contra actos o las disposiciones generales que se hayan consentido tácitame
 
 VII. Cuando de las constancias de autos apareciere claramente que no existe el acto o la disposición general reclamado;
 
-VIII. Cuando el acto o la disposición general impugnado no pueda surtir efecto alguno, legal o materialmente, por haber dejado de existir el objeto o materia del mismo; y (sic)
+VIII. Cuando el acto o la disposición general impugnado no pueda surtir efecto alguno, legal o materialmente, por haber dejado de existir el objeto o materia del mismo; y
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -2487,7 +2515,7 @@ II. Los acuerdos que concedan o nieguen la suspensión del acto impugnado, los q
 
 III. Las resoluciones que decreten o nieguen sobreseimientos;
 
-IV. Las sentencias que decidan la cuestión planteada, por violaciones cometidas en ellas o durante el procedimiento del juicio, en este último caso cuando hayan dejado sin defensa al recurrente y trascienden al sentido de las sentencias; y (sic)
+IV. Las sentencias que decidan la cuestión planteada, por violaciones cometidas en ellas o durante el procedimiento del juicio, en este último caso cuando hayan dejado sin defensa al recurrente y trascienden al sentido de las sentencias; y
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -2495,7 +2523,7 @@ V. Las resoluciones que se emitan en el juicio sumario;
 
 > <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
 
-VI. Las resoluciones de las salas regionales que pongan fin al procedimiento de ejecución de sentencia; (sic)
+VI. Las resoluciones de las salas regionales que pongan fin al procedimiento de ejecución de sentencia;
 
 ###### Artículo 286.
 
@@ -2647,7 +2675,7 @@ I. Depósitos en efectivo o en valores, que por cualquier causa se realicen o se
 
 ###### Artículo 299.
 
-Las sumas o valores que se reciban en el reglón (sic) de fondo ajeno, serán reintegrados a los depositantes o beneficiarios, según proceda, mediante orden por escrito de la Sección o Sala Regional, ante la que se haya otorgado el depósito, en el término máximo de cinco días hábiles.
+Las sumas o valores que se reciban en el reglón de fondo ajeno, serán reintegrados a los depositantes o beneficiarios, según proceda, mediante orden por escrito de la Sección o Sala Regional, ante la que se haya otorgado el depósito, en el término máximo de cinco días hábiles.
 
 > <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
@@ -2954,3 +2982,25 @@ La Junta de Caminos del Estado de México deberá integrar un registro de permis
 CUARTO.- Los procedimientos o procesos que se hayan iniciado a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, excepto las disposiciones relativas a la caducidad y al cumplimiento de sentencia.
 
 QUINTO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
+
+CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
+
+QUINTO. Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
+
+SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 18 de julio de 2013.
+
+NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
+
+DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
