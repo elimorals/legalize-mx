@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2014-10-22"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -42,6 +42,8 @@ DECRETA:
 ###### ARTICULO PRIMERO.
 
 Se expide Código para la Biodiversidad del Estado de México, para quedar como sigue:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
 CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
 
@@ -1049,7 +1051,7 @@ VIII. Los Programas de Ordenamiento Ecológico del Territorio Municipal serán i
 
 #### SECCION PRIMERA. DE LA PLANEACION AMBIENTAL E INSTRUMENTOS ECONOMICOS
 
-###### Articulo 2.
+###### Artículo 2.
 
 55. En la planeación del desarrollo integral del Estado se considerarán las políticas que definan el ordenamiento ecológico que establezca la Federación, el programa nacional del sector y las que se determinen de conformidad con el presente Libro y las demás disposiciones aplicables.
 
@@ -1241,7 +1243,9 @@ IV. Descripción de la obra o actividad proyectada, desde la etapa de selección
 
 V. Aspectos generales del medio natural y socioeconómico del área donde pretenda desarrollarse la obra o actividad;
 
-VI. Vinculación con las normas y regulaciones sobre uso del suelo en el área correspondiente; Identificación y descripción de los impactos ambientales que ocasionaría la ejecución del proyecto o actividad, en sus distintas etapas; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VI. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 VII. Medidas de prevención y mitigación para los impactos ambientales identificados en cada una de las etapas.
 
@@ -1331,9 +1335,13 @@ La persona que haga uso de las formas de participación social a los que se refi
 
 Para la negativa, autorización condicionada o definitiva de las obras, actividades o aprovechamientos a los que se refiere este Capítulo, la autoridad competente deberá fundar su resolución en lo dispuesto por este Libro, su Reglamento y demás disposiciones jurídicas que resulten aplicables y atenderá a las condiciones y límites establecidos en las normas oficiales mexicanas, criterios ecológicos y normas técnicas estatales, los planes de desarrollo urbano y de ordenamiento ecológico del territorio Estatal, así como a las observaciones y propuestas que resulten fundadas y que se hayan realizado de acuerdo a lo previsto en este Ordenamiento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-80. El Reglamento del presente Libro establecerá los plazos y actos a que se sujetará la integración del expediente de evaluación de impacto ambiental mismo que en ningún caso podrá exceder de los noventa días hábiles siguientes a la presentación del estudio pertinente. La autoridad, a partir de que esté integrado el expediente o que concluya el término indicado, contará con un plazo de treinta días hábiles para emitir la resolución concediendo la autorización o negándola, la que deberá ser notificada personalmente.
+80. El Reglamento del presente Libro establecerá los plazos y actos a que se sujetará la integración del expediente de evaluación de impacto ambiental mismo que, en ningún caso, podrá exceder de los cinco días hábiles siguientes a la presentación del estudio pertinente. La autoridad, a partir de que esté integrado el expediente o que concluya el término indicado, contará con un plazo de dos días hábiles para emitir la resolución, concediendo la autorización o negándola, la que deberá ser notificada personalmente.
 
 ###### Artículo 2.
 
@@ -1437,7 +1445,7 @@ Las autoridades municipales no podrán someter a ninguna categoría especial de 
 
 91. La Secretaría llevará el registro de las áreas integrantes del Sistema Estatal de Areas Naturales Protegidas en el que se consignarán los datos de su inscripción en el Registro Público de la Propiedad que corresponda.
 
-###### Articulo 2.
+###### Artículo 2.
 
 92. En el establecimiento, administración, manejo y desarrollo de las áreas naturales protegidas sometidas a cualquier categoría de protección a las que se refiere el artículo anterior cuando el área sea de jurisdicción del Ejecutivo Estatal las autoridades competentes impulsarán la participación de los Municipios, sus habitantes, propietarios o poseedores de terrenos que se ubiquen en ellas, pueblos autóctonos y en general de todo interesado con el objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas, sus elementos y la biodiversidad.
 
@@ -1497,7 +1505,7 @@ En los parques estatales sólo podrá permitirse la realización de actividades 
 
 100. Las zonas de restauración ecológica se constituirán en lugares donde se presenten procesos acelerados de deterioro del suelo que impliquen la pérdida de elementos y recursos naturales de difícil regeneración, recuperación o afectaciones irreversibles a los ecosistemas o a sus elementos.
 
-#### SECCION TERCERA. DE LAS DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACION Y VIGILANCIA DE AREAS NATURALES PROTEGIDAS
+#### SECCION TERCERA. DE LAS DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACION y VIGILANCIA DE AREAS NATURALES PROTEGIDAS
 
 ###### Artículo 2.
 
@@ -1659,7 +1667,7 @@ La Secretaría deberá supervisar y evaluar el cumplimiento de los acuerdos y co
 
 119. La Secretaría integrará el Registro Público Estatal de Areas Naturales Protegidas donde deberán inscribirse todos los decretos y actos mediante los cuales se declaren las áreas de interés estatal y municipal y aquellos que los modifiquen, asimismo se harán constar las declaratorias de áreas naturales protegidas de interés federal asentadas en el territorio del Estado. Deberán consignarse en dicho registro los datos de la inscripción de los decretos respectivos en los Registros Públicos de la Propiedad que correspondan.
 
-Cualquier interesado podrá consultar el Registro Público Estatal de Áreas Naturales Protegidas el cual deberá ser integrado a los Sistemas Estatal y Nacional de Información Ambiental y de Recursos Naturales.
+Cualquier interesado podrá consultar el Registro Público Estatal de Areas Naturales Protegidas el cual deberá ser integrado a los Sistemas Estatal y Nacional de Información Ambiental y de Recursos Naturales.
 
 ###### Artículo 2.
 
@@ -2927,7 +2935,7 @@ IV. Si se reincide en la omisión para llevar a cabo la reparación y verificaci
 
 I. Realice actividades de explotación o aprovechamiento de recursos en áreas naturales protegidas, de competencia estatal sin sujetarse al programa de manejo del área respectiva;
 
-II. Opere sistemas o plantas de tratamiento sin cumplir con las condiciones particulares de descarga de aguas residuales, así como suspender su operación sin dar aviso a la Secretaría cuando menos con diez días hábiles de anticipación si la suspensión estaba prevista o programada y dentro de los cinco días hábiles siguientes si la suspensión fue imprevisible;
+II. Opere sistemas o plantas de tratamiento sin cumplir con las condiciones particulares de descarga de aguas residuales, así como suspender su operación sin dar aviso a la Secretaria cuando menos con diez días hábiles de anticipación si la suspensión estaba prevista o programada y dentro de los cinco días hábiles siguientes si la suspensión fue imprevisible;
 
 III. Incumpla las medidas que apliquen las autoridades competentes para limitar, suspender o restringir la circulación vehicular en caso de contingencia ambiental;
 
@@ -3403,9 +3411,9 @@ I. Cadena productiva: La integración complementaria de actores y procesos que i
 
 II. Degradación del suelo: Proceso que describe el fenómeno causado por el hombre que disminuye la capacidad presente o futura del suelo para sustentar vida vegetal, animal y humana;
 
-> <small>(ADICIONADA, G.G. 24 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Dictamen de Factibilidad de Transformación Forestal: Resolución emitida por el Consejo Rector de Transformación Forestal para el funcionamiento de los centros de almacenamiento y de transformación de materias primas forestales.
+III. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
 
@@ -3597,9 +3605,9 @@ XII. Crear el Consejo Municipal Forestal de acuerdo al Reglamento que para el ef
 
 XIII. Otorgar las licencias de funcionamiento y de uso de suelo para la instalación de industrias forestales en su territorio;
 
-> <small>(ADICIONADA, G.G. 24 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII Bis. Otorgar, en su caso, por acuerdo de cabildo del Ayuntamiento que se trate, la licencia de funcionamiento de los centros de almacenamiento y de transformación de materias primas forestales, previo Dictamen de Factibilidad de Transformación Forestal, emitido por el Consejo Rector.
+XIII Bis. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 XIV. La atención de los demás asuntos que en materia de desarrollo forestal sostenible les conceda el presente Código u otros ordenamientos; y
 
@@ -3689,15 +3697,15 @@ XI. Organizar los servicios técnicos y el registro y control de los peritos for
 
 XII. Adquirir toda clase de bienes y realizar los actos que se requieran para el cumplimiento de su objeto; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII. Emitir dictamen de Factibilidad de Transformación Forestal, por conducto del Consejo Rector de Transformación Forestal.
+XIII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE ENERO DE 2014)</small>
 
 XIV. Vigilar a través de visitas de verificación que los centros de almacenamiento o transformación de materias primas forestales, cumplan con lo establecido en el Dictamen de Factibilidad de Transformación Forestal, aplicando dentro del ámbito de sus atribuciones, las medidas de seguridad e imponiendo las infracciones que correspondan por su inobservancia.
 
-> <small>(REFORMADA , G.G. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
 
 XV. Las demás que le atribuyan las disposiciones legales y los convenios o acuerdos en la materia.
 
@@ -4285,7 +4293,7 @@ Las denuncias a que se refiere este artículo, deberán ser turnadas a la Procur
 
 ### CAPÍTULO II BIS. DEL DICTAMEN DE FACTIBILIDAD DE TRANSFORMACIÓN FORESTAL Y DEL CONSEJO RECTOR DE TRANSFORMACIÓN FORESTAL
 
-> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 3.
 
@@ -4297,101 +4305,57 @@ La Secretaría deberá observar en el desarrollo de los procedimientos de inspec
 
 Cuando de las visitas u operativos de inspección se determine que existe riesgo inminente de daño o deterioro grave a los ecosistemas forestales, o cuando los actos, hechos u omisiones pudieran dar lugar a la imposición del decomiso como sanción administrativa, se podrá tomar alguna de las medidas de seguridad previstas en este Título.
 
-> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 3.
 
-100 Bis. El Dictamen de Factibilidad de Transformación Forestal es el documento suscrito por el Presidente del Consejo Rector, de carácter personal e intransferible, necesario para obtener la licencia de funcionamiento de los centros de almacenamiento y transformación de materias primas forestales. En términos de lo previsto en la legislación general de la materia.
+100 Bis. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 3.
 
-100 Ter. El Consejo Rector de Transformación Forestal se integrará por:
+100 Ter. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-I. Un Presidente, que será el Director General de la PROBOSQUE.
-
-II. Un Secretario Técnico, que será el Director de Protección Forestal de la PROBOSQUE.
-
-III. Cinco Vocales, que serán los representantes de:
-
-a) La Procuraduría General de Justicia.
-
-b) La Secretaría de Seguridad Ciudadana.
-
-c) La Secretaría de Desarrollo Económico.
-
-d) La Procuraduría de Protección al Ambiente del Estado de México.
-
-e) Comisión Estatal de Parques Naturales y de la Fauna.
-
-Los vocales serán designados por el Titular de la dependencia que representen, entre los servidores públicos que tengan un rango no menor al de Director.
-
-En las sesiones tendrán derecho a voz y voto y podrán contar con un suplente para actuar en su ausencia, quien también será designado por el Titular de cada dependencia.
-
-El cargo de miembro del Consejo Rector de Transformación Forestal será honorífico.
-
-Las determinaciones del Consejo Rector de Transformación Forestal se tomarán por mayoría de votos, para lo cual, el Secretario contará únicamente con voz. El Presidente, en caso de empate, tendrá voto de calidad.
-
-El Presidente del Consejo Rector de Transformación Forestal convocará a sesiones ordinarias o extraordinarias cuando lo estime conveniente.
-
-El Consejo Rector de Transformación Forestal podrá invitar a Asociaciones de Profesionistas y especialistas en la materia, los cuales participarán en las sesiones únicamente con voz, para efectos de opinión.
-
-> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 3.
 
-100 Quater. En el Dictamen de Factibilidad de Transformación Forestal se valorará la capacidad productiva de los bosques maderables de la región, el tiempo de reposición de los individuos arbóreos, el pago de servicios ambientales, la seguridad pública, el combate a la tala clandestina y el fomento económico, en términos de las disposiciones respectivas.
+100 Quater. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
-
-###### Artículo 3.
-
-100 Quintus. Para la obtención del Dictamen de Factibilidad de Transformación Forestal, el interesado deberá presentar formato que expida la PROBOSQUE, que contendrá lo siguiente:
-
-I. Nombre del titular solicitante.
-
-II. Copia certificada del acta constitutiva de la persona jurídica colectiva, de ser el caso.
-
-III. Denominación o razón social del centro de almacenamiento o transformación de materias primas forestales.
-
-IV. Dirección y croquis de localización del establecimiento mercantil.
-
-V. Licencia de uso de suelo o Cédula Informativa de Zonificación.
-
-VI. Especies forestales que se pretendan almacenar o transformar.
-
-VII. En su caso, los productos que serán elaborados.
-
-VIII. Volumen anual a transformar.
-
-> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 3.
 
-100 Sexies. El Consejo Rector de Transformación Forestal, derivado del análisis que realice a la documentación presentada y de los comprobantes con los que el interesado acredite la legal procedencia de los productos forestales emitirá el Dictamen de Factibilidad de transformación Forestal.
+100 Quintus. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
-
-###### Artículo 3.
-
-100 Septies. Son causas para negar el Dictamen, cuando se ponga en riesgo el medio ambiente, la seguridad pública y el fomento al desarrollo económico o por la probable comisión de un delito o además que no se cumplan con los requisitos establecidos en el artículo 3.100 Quintus.
-
-> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 3.
 
-100 Octies. Si de la visita de verificación se advierte el incumplimiento a las disposiciones de este Código, la PROBOSQUE iniciará ante las instancias correspondientes el procedimiento administrativo que resuelva la imposición de las medidas de seguridad y sanciones que procedan, incluso la cancelación o revocación del dictamen.
+100 Sexies. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-Si de las visitas se hallaran elementos constitutivos de delito se hará la denuncia ante el Ministerio Público.
-
-> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 3.
 
-100 Nonies. El Dictamen de Factibilidad de Transformación Forestal tendrá una vigencia de un año calendario, el cual podrá renovarse con el cumplimiento de los requisitos del mismo.
+100 Septies. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 3.
+
+100 Octies. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 3.
+
+100 Nonies. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
 ###### Artículo 3.
 
@@ -4435,11 +4399,11 @@ La amonestación sólo será aplicable a los infractores por primera vez, a crit
 
 106. Son responsables solidarios de las infracciones, quienes intervienen en su preparación o realización, y aun en los casos en que por omisión se haya incurrido en la infracción.
 
-> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 3.
 
-107. El Consejo Rector de Transformación Forestal, de acuerdo con la gravedad de la infracción podrá suspender, revocar o cancelar el Dictamen de Factibilidad de Transformación Forestal.
+107. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
 # LIBRO CUARTO. DE LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS
 
@@ -7003,7 +6967,7 @@ III. Los productos de sus operaciones y de la inversión de fondos; y
 
 IV. Los demás recursos que se generen por cualquier otro concepto en relación con la protección y bienestar animal.
 
-### CAPITULO VI. DE LA CULTURA Y EDUCACION PARA LA PROTECCION y CUIDADO A LOS ANIMALES
+### CAPITULO VI. DE LA CULTURA Y EDUCACION PARA LA PROTECCION Y CUIDADO A LOS ANIMALES
 
 ###### Artículo 6.
 
@@ -7373,7 +7337,7 @@ II. Los resultados experimentales deseados no puedan obtenerse por otros procedi
 
 III. Los experimentos (sic) sean necesarios para el control, seguridad, prevención, diagnóstico o tratamiento de enfermedades que afecten al ser humano o al animal;
 
-IV. Los experimentos no puedan ser sustituidos por esquemas, dibujos, películas, fotografías, videocintas, discos de vídeo compactos, materiales biológicos o cualquier otro procedimiento análogo; y
+IV. Los experimentos no puedan ser sustituidos por esquemas, dibujos, películas, fotografías, videocintas, discos de video compactos, materiales biológicos o cualquier otro procedimiento análogo; y
 
 V. Se realicen en animales criados preferentemente para tal fin.
 
@@ -7569,7 +7533,7 @@ V. El carácter intencional, imprudencial o accidental del hecho, acto u omisió
 
 ###### Artículo 6.
 
-97. En el caso de haber reincidencia en la violación a las disposiciones del presente Libro la sanción se duplicará y podrá imponerse arresto del responsable legal o administrativo hasta por treinta y seis horas inconmutables.
+97. En el caso de haber reincidencia en la violación a las disposiciones del presente libro la sanción se duplicará y podrá imponerse arresto del responsable legal o administrativo hasta por treinta y seis horas inconmutables.
 
 Para efectos del presente Libro se reincide, cuando habiendo quedado firme una resolución que imponga una sanción se cometa una nueva falta dentro de los doce meses contados a partir de aquélla.
 
@@ -7800,3 +7764,25 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
+
+CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
+
+QUINTO. Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
+
+SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 18 de julio de 2013.
+
+NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
+
+DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
