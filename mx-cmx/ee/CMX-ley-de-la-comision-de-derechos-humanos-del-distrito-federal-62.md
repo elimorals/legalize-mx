@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-comision-de-derechos-humanos-del-distrito-federal-62"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-22"
-last_updated: "2010-05-14"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1993-06-21"
 ---
 # LEY DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-LEY DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
+LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes el 22 de junio de 1993.
 
@@ -112,9 +112,11 @@ III. Las o los Visitadores Generales que determine su Reglamento Interno; quiene
 
 IV. El Personal profesional, técnico y administrativo necesario para el desarrollo de sus actividades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 8.
 
-El Presidente de la Comisión de Derechos Humanos del Distrito Federal deberá reunir para su nombramiento los siguientes requisitos:
+La persona que ocupe la Presidencia de la Comisión de Derechos Humanos del Distrito Federal deberá reunir para su nombramiento los siguientes requisitos:
 
 I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -124,13 +126,13 @@ II.- Tener cuando menos treinta y cinco años de edad, el día de su nombramient
 
 III.- Poseer conocimientos generales en materia de derechos humanos y del marco normativo vigente para el Distrito Federal en esta materia;
 
-> <small>(REFORMADA, G.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-IV.- Gozar de buena reputación, probidad, capacidad y reconocido prestigio público, además de no haber sido condenado por delito intencional o doloso que amerite pena corporal de más de un año de prisión; pero si se tratase de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+IV.- Gozar de buena reputación, probidad, capacidad y reconocido prestigio público, además de no haber sido condenada por delito doloso que amerite pena privativa de libertad de más de un año de prisión; pero si se tratase de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
 > <small>(ADICIONADA, G.O. 14 DE ENERO DE 2003)</small>
 
-V.- No haber desempeñado cargo alguno en los órganos de impartición de justicia o en la administración pública local o federal durante los últimos dos años anteriores al día de su designación; (sic)
+V.- No haber desempeñado cargo alguno en los órganos de impartición de justicia o en la administración pública local o federal durante los últimos dos años anteriores al día de su designación;
 
 (REFORMADO, G.O. 14 DE ENERO DE 2003) (F. DE E., G.O. 10 DE JUNIO DE 2003)
 
@@ -146,7 +148,7 @@ Para hacer el nombramiento, la Asamblea Legislativa del Distrito Federal, por co
 
 La o el Presidente de la Comisión de Derechos Humanos del Distrito Federal durará en su cargo cuatro años, pudiendo ser nombrado y confirmado en su caso, solamente para un segundo período en los términos del artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 11.
 
@@ -200,7 +202,9 @@ I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. - Ser mayor de treinta años de edad, el día de su nombramiento;
 
-III.- No haber sido condenado por delito intencional o doloso, y
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III.- No haber sido condenado por delito doloso, y
 
 IV.- Gozar de buena reputación, probidad y reconocido prestigio público.
 
@@ -232,11 +236,15 @@ Son atribuciones de la Comisión de Derechos Humanos del Distrito Federal:
 
 I.- Recibir quejas de presuntas violaciones a derechos humanos;
 
-II.- Conocer e investigar, a petición de parte o de oficio, presuntas violaciones de derechos humanos en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II.- Conocer e investigar, a petición de parte o de oficio presuntas violaciones de derechos humanos en los siguientes casos:
 
 a) Por actos u omisiones de índole administrativo de los servidores públicos o de las autoridades de carácter local del Distrito Federal a que se refiere el artículo 3o. de esta Ley.
 
-b) Cuando los particulares o algún agente social cometa ilícitos con la tolerancia o anuencia de algún servidor público o autoridad local del Distrito Federal o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos, particularmente tratándose de conductas que afecten la integridad física de las personas.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+b) Cuando los particulares o algún agente social cometa hechos que la ley señale como delitos con tolerancia o anuncia de algún servidor público o autoridad local del Distrito Federal o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con los hechos que la ley señale como delito, particularmente de conductas que afecten la integridad física de las personas;
 
 III.- Formular propuestas conciliatorias entre el quejoso y las autoridades o servidores públicos presuntos responsables, para la inmediata solución del conflicto planteado cuando la naturaleza del caso lo permita;
 
@@ -252,17 +260,17 @@ VIII.- Expedir su reglamento interno;
 
 IX.- Elaborar e instrumentar programas preventivos en materia de derechos humanos;
 
-> <small>(REFORMADA, G.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-X.- Supervisar que las condiciones de las personas privadas de su libertad que se encuentren en los centros de detención, de internamiento y de readaptación social del Distrito Federa l estén apegadas a derecho y se garantice la plena vigencia de los derechos humanos, pudiendo solicitar el reconocimiento médico de reos o detenidos cuando se presuman malos tratos o torturas, comunicando a las autoridades competentes los resultados de las revisiones practicadas. Estas atribuciones se entienden sin prejuicio de las que en la materia correspondan también a la Comisión Nacional de Derechos Humanos, y para su ejercicio se promoverá la instrumentación de los mecanismos de coordinación que sean necesarios al efecto. El personal de la Comisión en el ejercicio de sus funciones, tendrá acceso irrestricto a los centros de detención, de internamiento y de readaptación social del Distrito Federal;
+X.- Supervisar que las condiciones de las personas privadas de su libertad que se encuentren en los Centros de Detención, de Internamiento y de Reinserción Social del Distrito Federal estén apegadas a derecho y se garantice la plena vigencia de los derechos humanos, pudiendo solicitar el reconocimiento médico de sentenciados o detenidos cuando se presuma la comisión contra ellos de algún hecho que la ley señale como delito, comunicando a las autoridades competentes los resultados de las revisiones practicadas. Estas atribuciones se entienden sin prejuicio de las que en la materia correspondan también a la Comisión Nacional de Derechos Humanos, y para su ejercicio se promoverá la instrumentación de los mecanismos de coordinación que sean necesarios al efecto. El personal de la Comisión en el ejercicio de sus funciones, tendrá acceso irrestricto a los Centros de Detención, de Internamiento y de Reinserción Social del Distrito Federal;
 
 > <small>(REFORMADA, G.O. 14 DE ENERO DE 2003)</small>
 
 XI.- Formular programas y proponer acciones en coordinación con las dependencias competentes, para impulsar el cumplimiento de los tratados, convenciones, acuerdos internacionales signados y ratificados por México en materia de derechos humanos. Para ello, elaborará y actualizará de manera constante, una recopilación de dichos documentos, que divulgará de manera amplia entre la población;
 
-> <small>(ADICIONADA, G.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-XII.- Orientar a la ciudadanía para que la o las denuncias sean presentadas ante las autoridades correspondientes, cuando a raíz de una investigación practicada, se presuma la comisión de un delito o faltas administrativas;
+XII.- Orientar a la ciudadanía para que la o las denuncias sean presentadas ante las autoridades correspondientes, cuando a raíz de una investigación practicada, se tenga conocimiento de la probable comisión de un hecho delictivo o faltas administrativas;
 
 > <small>(ADICIONADA, G.O. 14 DE ENERO DE 2003)</small>
 
@@ -348,7 +356,7 @@ Para que el Consejo pueda sesionar válidamente se requiere la presencia de por 
 
 De considerarlo necesario, el Consejo por conducto del Presidente de la Comisión, solicitará a la Asamblea Legislativa del Distrito Federal, la sustitución de los integrantes del Consejo de la Comisión que de manera injustificada no asistan a tres sesiones consecutivas. En este caso, el procedimiento de sustitución se efectuará en los términos de lo dispuesto por el artículo 11 de esta Ley. La Asamblea Legislativa, una vez solicitado lo anterior, resolverá en lo conducente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 22.
 
@@ -404,7 +412,7 @@ XVII.- Otras que le señale la presente Ley y las que sean necesarias para el de
 
 El Presidente de la Comisión de Derechos Humanos del Distrito Federal podrá llevar al cabo reuniones con organizaciones no gubernamentales de defensa de los derechos humanos legalmente constituidas, a fin de intercambiar puntos de vista sobre los objetivos de la Comisión, considerando al efecto el listado que de las mismas integre dicha Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 24.
 
@@ -430,7 +438,7 @@ VI.- Fomentar y difundir una cultura proclive al significado de los derechos hum
 
 VII.- Las demás que le sean conferidas en otros ordenamientos legales, reglamentarios y por el Presidente de la Comisión de Derechos Humanos del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 25.
 
@@ -448,7 +456,7 @@ La Comisión de Derechos Humanos del Distrito Federal podrá contar con unidades
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 27.
 
@@ -486,9 +494,13 @@ Cuando los quejosos se encuentren privados de su libertad, sus escritos deberán
 
 La formulación de quejas y denuncias, así como los acuerdos y recomendaciones que emita la Comisión de Derechos Humanos del Distrito Federal no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder conforme a los ordenamientos aplicables, no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la instancia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 32.
 
 La Comisión de Derechos Humanos del Distrito Federal, en todo caso orientará y apoyará a los quejosos y denunciantes sobre el contenido de la queja o denuncia y tratándose de personas que no entiendan correctamente el idioma español, les proporcionará gratuitamente un traductor.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Se pondrán a disposición de los quejosos y denunciantes formularios que faciliten el trámite.
 
@@ -532,9 +544,11 @@ En el informe mencionado en el artículo anterior la autoridad o servidor públi
 
 La falta de rendición del informe o de la documentación que lo apoya, así como el retraso injustificado en su presentación, además de la responsabilidad respectiva para la autoridad o servidor público señalado como presunto responsable de la queja o denuncia tendrá el efecto de que la Comisión de Derechos Humanos del Distrito Federal al dictar su recomendación tendrá por ciertos los hechos materia de la queja o denuncia salvo prueba en contrario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 39.
 
-El Presidente de la Comisión de Derechos Humanos del Distrito Federal o los Visitadores, podrán solicitar en cualquier momento a las autoridades competentes, que se tomen todas las medidas necesarias para evitar la consumación irreparable de las presuntas violaciones de derechos humanos denunciadas o reclamadas o la producción de daños de difícil reparación a los afectados, así como solicitar su modificación cuando cambien las situaciones que las justificaron.
+La persona Presidenta de la Comisión de Derechos Humanos del Distrito Federal o los visitadores, podrán solicitar en cualquier momento a las autoridades competentes, que se tomen todas las medidas necesarias para evitar la consumación irreparable de las presuntas violaciones de derechos humanos denunciadas o reclamadas o la producción de daños de difícil reparación a los afectados, así como solicitar su modificación cuando cambien, las situaciones que las justificaron.
 
 Dichas medidas pueden ser precautorias de conservación o restitutorias, según lo requiera la naturaleza del asunto.
 
@@ -580,13 +594,17 @@ La Comisión de Derechos Humanos del Distrito Federal puede dictar acuerdos de t
 
 Asimismo, en el caso en que se compruebe que las autoridades o servidores públicos no hayan cometido las violaciones de derechos humanos que se les hubiesen imputado la Comisión dictará el respectivo acuerdo de no responsabilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 46.
 
-Concluida la investigación, el Visitador correspondiente formulará, en su caso, un proyecto de Recomendación o Acuerdo de No Responsabilidad en los cuales se analizarán los hechos, los argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas a fin de determinar si las autoridades o servidores públicos han violado o no los derechos humanos de los afectados al haber incurrido en actos y omisiones legales, irrazonables, injustos, inadecuados o erróneos, o hubiesen dejado sin respuesta las solicitudes presentadas por los interesados durante un período que exceda notoriamente los plazos fijados por las leyes.
+Concluida la investigación, el visitador correspondiente formulará, en su caso, un proyecto de Recomendación o Acuerdo de No Responsabilidad en los cuales se analizarán los hechos, los argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas a fin de determinar si las autoridades o servidores públicos han violado o no los derechos humanos de los afectados al haber incurrido en actos u omisiones ilegales, irrazonables, injustos, inadecuados o erróneos, o hubiesen dejado sin respuesta las solicitudes presentadas por los interesados durante un período que exceda notoriamente los plazos fijados por las leyes.
 
 En el proyecto de Recomendación, se señalarán las medidas que procedan para la efectiva restitución de los afectados en sus derechos fundamentales y, si procede para la reparación de los daños y perjuicios que se hubiesen ocasionado.
 
-Los proyectos antes mencionados serán sometidos al Presidente de la Comisión de Derechos Humanos del Distrito Federal para su consideración y resolución final.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Los proyectos antes mencionados serán sometidos a la persona Presidenta de la Comisión de Derechos Humanos del Distrito Federal para su consideración y resolución final.
 
 ###### ARTICULO 47.
 
@@ -696,19 +714,23 @@ Las autoridades o servidores públicos serán responsables penal y administrativ
 
 Cuando persistan actitudes u omisiones que impliquen conductas evasivas o de entorpecimiento por parte de las autoridades o servidores públicos que deban intervenir o colaborar en las investigaciones de la Comisión de Derechos Humanos del Distrito Federal, no obstante los requerimientos que ésta les hubiere formulado, la Comisión podrá rendir un informe especial al respecto.
 
-La Comisión denunciará ante los órganos competentes los presuntos delitos o faltas que hubiesen cometido las autoridades o servidores públicos de que se trate independientemente de las conductas o actitudes previstas en el párrafo anterior.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-Respecto a los particulares que durante los procedimientos de la Comisión, incurran en presuntas infracciones o en delitos, serán denunciados ante la autoridad competente.
+La Comisión denunciará ante los órganos competentes los probables hechos constitutivos de delitos o faltas que hubiesen cometido las autoridades o las y los servidores públicos de que se trate independientemente de las conductas o actitudes previstas en el párrafo anterior.
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Respecto a los particulares que durante los procedimientos de la comisión, incurran en presuntas infracciones o en hechos que la ley señale como delitos, serán denunciados ante la autoridad competente.
 
 ###### ARTICULO 64.
 
 La Comisión de Derechos Humanos del Distrito Federal podrá asimismo solicitar a las autoridades competentes la aplicación de las sanciones administrativas que procedan, por las presuntas infracciones en que incurran las autoridades o servidores públicos durante y con motivo de las investigaciones que realice dicha Comisión. El organismo disciplinario informará a la Comisión acerca de las sanciones impuestas en su caso.
 
-> <small>(REFORMADO, G.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 65.
 
-Además de las denuncias de delitos e infracciones administrativas en que puedan incurrir autoridades o servidores públicos en el curso de las investigaciones seguidas por la Comisión de Derechos Humanos del Distrito Federal, ésta tendrá la facultad de solicitar amonestaciones por escrito, públicas o privadas, según el caso, al superior jerárquico del centro de trabajo de aquéllos.
+Además de las denuncias de hechos que la ley señale como delito e infracciones administrativas en que puedan incurrir autoridades o las o los servidores públicos en el curso de las investigaciones seguidas por la Comisión de Derechos Humanos del Distrito Federal, ésta tendrá la facultad de solicitar amonestaciones por escrito, públicas o privadas, según el caso, al superior jerárquico del centro de trabajo de aquéllos.
 
 > <small>(ADICIONADO, G.O. 14 DE ENERO DE 2003)</small>
 
@@ -748,7 +770,7 @@ III.- Elaborar material audiovisual para dar a conocer sus funciones y actividad
 
 > <small>(REFORMADA, G.O. 14 DE ENERO DE 2003)</small>
 
-IV.- Formular y ejecutar permanentemente un programa editorial, procurando publicar en sistema braile, lenguaje de señas y en las principales lenguas indígenas que se hablen en la Ciudad de México;
+IV.- Formular y ejecutar permanentemente un programa editorial, procurando publicar en sistema braile (sic), lenguaje de señas y en las principales lenguas indígenas que se hablen en la Ciudad de México;
 
 > <small>(ADICIONADA, G.O. 14 DE ENERO DE 2003)</small>
 
@@ -762,13 +784,13 @@ VI.- Investigar y difundir estudios en materia de discriminación, exclusión y 
 
 VII.- Las demás que establezca su Reglamento Interno.
 
-> <small>(REFORMADO, G.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 67.
 
-En la celebración de convenios con el Gobierno del Distrito Federal se atenderán, sin exclusión de otras, aquellas áreas estrechamente vinculadas a los derechos humanos como la dependencia que tenga a su cargo la seguridad pública, el sistema de reclusorios y centros de readaptación social del Distrito Federal y juzgados calificadores.
+En la celebración de convenios con el Gobierno del Distrito Federal se atenderán, sin exclusión de otras, aquellas áreas estrechamente vinculadas a los derechos humanos como la dependencia que tenga a su cargo la seguridad pública, el sistema de reclusorios y centros de reinserción social del Distrito Federal y juzgados cívicos.
 
-Con la Procuraduría General de Justicia del Distrito Federal los convenios considerarán fundamentalmente las actividades del Ministerio Público y de la Policía Judicial.
+Con la Procuraduría General de Justicia del Distrito Federal los convenios considerarán fundamentalmente las actividades del Ministerio Público y de la Policía de Investigación.
 
 ###### ARTICULO 68.
 
@@ -792,11 +814,13 @@ Al efecto, se establecerá un servicio profesional que garantice el cumplimiento
 
 ### CAPITULO XI. DEL PATRIMONIO Y DEL PRESUPUESTO DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-> <small>(REFORMADO, G.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 71.
 
-La Comisión de Derechos Humanos del Distrito Federal tendrá en términos del Código Financiero del Distrito Federal, la atribución de elaborar su proyecto de presupuesto anual de egresos, el cual remitirá al Jefe de Gobierno para los efectos legales conducentes. Dicho presupuesto deberá ser suficiente para el cumplimiento de sus fines y acciones, formando parte del patrimonio propio de la Comisión.
+La Comisión de Derechos Humanos del Distrito Federal tendrá en términos del Código Fiscal del Distrito Federal, la atribución de elaborar su proyecto de presupuesto anual de egresos, el cual remitirá a la Jefatura de Gobierno para los efectos legales conducentes. Dicho presupuesto deberá ser suficiente para el cumplimiento de sus fines y acciones, formando parte del patrimonio propio de la Comisión.
+
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2003)</small>
 
 Al efecto, se contará con un órgano de control interno que auxilie a la o el Presidente y al Consejo, en el ámbito de sus respectivas competencias, para la supervisión y control de la correcta utilización de los recursos públicos a cargo de la Comisión.
 
@@ -838,7 +862,7 @@ México, D. F., a 1° de junio de 1993.- Dip. Jaime Muñoz Domínguez, President
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de junio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
 
 G.O. 22 DE MAYO DE 1998.
 
@@ -913,3 +937,13 @@ G.O. 14 DE MAYO DE 2010.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- La presente Ley entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
