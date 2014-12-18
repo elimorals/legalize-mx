@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2014-12-16"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -1101,7 +1103,11 @@ I. Adecuar su normatividad interna a efecto de dar cumplimiento a los propósito
 
 II. Reducir a los mínimos indispensables los requisitos para la emisión de los permisos, licencias, o autorizaciones que les corresponda otorgar;
 
-III. Definir tiempos máximos de respuesta a las solicitudes que realicen los particulares, que para el caso del SUGE no deberán exceder de cinco días hábiles. Se exceptúan del cumplimiento de este plazo, más no de la gestión, los siguientes casos:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+III. Definir tiempos máximos de respuesta a las solicitudes que realicen los particulares, que para el caso del SUGE no excederán de siete días hábiles. Se exceptúan del cumplimiento de este plazo, más no de la gestión los casos siguientes:
 
 a). Los cambios de uso de suelo, intensidad de construcción e incremento de altura;
 
@@ -1109,7 +1115,17 @@ b). Los proyectos que se pretendan desarrollar en predios que se encuentran en z
 
 c). Los proyectos relacionados con hidrocarburos y sustancias explosivas.
 
-IV. Orientar, cuando sea el caso, al particular que realice gestiones directamente ante las dependencias para obtener permisos, licencias o autorizaciones de proyectos productivos, para que los realicen por conducto de la ventanilla única que integrará y operará la Dirección General de Atención Empresarial;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Los supuestos anteriores deberán resolverse en un plazo no mayor a quince días hábiles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. Informar al particular que al acudir a la ventanilla única del SUGE, para realizar los trámites de permisos, licencias o autorizaciones de proyectos productivos, tiene como beneficio lograrlos en un menor tiempo;
 
 V. Instrumentar factibilidades, vistos buenos o cualquier esquema de autorización previa, cuando así sea el caso, a efecto de que el particular conozca la viabilidad de su proyecto antes de efectuar pagos o contratar servicios que impliquen gastos; y
 
@@ -1360,3 +1376,25 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
+
+CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
+
+QUINTO. Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
+
+SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 18 de julio de 2013.
+
+NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
+
+DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
