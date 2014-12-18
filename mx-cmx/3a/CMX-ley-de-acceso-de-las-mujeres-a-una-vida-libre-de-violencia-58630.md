@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2013-08-09"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -60,9 +60,13 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL DISTRITO FEDE
 
 Las disposiciones de la presente Ley son de orden público, interés social y observancia general en el Distrito Federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-El objeto de la presente ley es establecer los principios y criterios que, desde la perspectiva de género, orienten las políticas públicas para reconocer, promover, proteger y garantizar el derecho de las mujeres a una vida libre de violencia; así como establecer la coordinación interinstitucional para prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+El objeto de la presente ley es establecer los principios y criterios que, desde la perspectiva de género, orienten las políticas públicas para reconocer, promover, proteger y garantizar el derecho de las mujeres a una vida libre de violencia; así como establecer la coordinación interinstitucional para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el marco de los ordenamientos jurídicos aplicables al Distrito Federal y lo previsto en el primero, segundo y tercer párrafos del artículo 1º de la Constitución Política de los Estados Unidos Mexicanos, respetándose los derechos humanos de las mujeres de conformidad con los principios de universalidad, interdependencia, indivisibilidad, pro persona y progresividad.
 
 ###### Artículo 3.
 
@@ -84,13 +88,21 @@ VII. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el 
 
 VIII. Misoginia: Las conductas de odio contra las mujeres por el hecho de serlo;
 
-IX. Mujeres en condición de vulnerabilidad: Aquellas en mayor situación de riesgo de ser victimas de violencia en atención a su raza, origen étnico, edad, discapacidad, condición social, económica, de salud, embarazo, lengua, idioma, religión, opiniones, orientación sexual, estado civil; cuando tengan la calidad de migrante, refugiada, desplazada o privadas de la libertad por mandato judicial; sea víctima de trata de personas, turismo sexual, prostitución, pornografía, privación de la libertad o cualquier otra condición que anule o menoscabe su derecho a una vida libre de violencia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IX. Mujeres en condición de vulnerabilidad: Aquellas en mayor situación de riesgo de ser víctimas de violencia en atención a su raza, origen étnico, edad, discapacidad, condición social, económica, de salud, embarazo, lengua, idioma, religión, opiniones, orientación sexual, estado civil; cuando tengan la calidad de migrante, refugiada, desplazada o privadas de la libertad por mandato judicial; sea víctima de trata de personas, turismo sexual, prostitución, pornografía, privación de la libertad o cualquier otra condición que anule o menoscabe su derecho a una vida libre de violencia;
 
 X. Modalidades de violencia: Los ámbitos donde ocurre, públicos o privados, y se ejerce la violencia contra las mujeres;
 
 XI. Persona agresora: Quien o quienes infligen algún tipo de violencia contra las mujeres en cualquiera de sus tipos y modalidades;
 
-XII. Perspectiva de género: Visión critica, explicativa, analítica y alternativa que aborda las relaciones entre los géneros y que permite enfocar y comprender las desigualdades construidas socialmente entre mujeres y hombres y establece acciones gubernamentales para disminuir las brechas de desigualdad entre mujeres y hombres;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XII. Perspectiva de género: Visión crítica, explicativa, analítica y alternativa que aborda las relaciones entre los géneros y que permite enfocar y comprender las desigualdades construidas socialmente entre mujeres y hombres y establece acciones gubernamentales para disminuir las brechas de desigualdad entre mujeres y hombres;
 
 XIII. Procuraduría: La Procuraduría General de Justicia del Distrito Federal;
 
@@ -200,7 +212,11 @@ Las modalidades de violencia contra las mujeres son:
 
 I. Violencia Familiar: Es aquella que puede ocurrir dentro o fuera del domicilio de la víctima, cometido por parte de la persona agresora con la que tenga o haya tenido parentesco por consanguinidad o por afinidad, derivada de concubinato, matrimonio, o sociedad de convivencia;
 
-II. Violencia Laboral: Es aquella que ocurre en cuando se presenta la negativa a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. Violencia Laboral: Es aquella que ocurre cuando se presenta la negativa a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género;
 
 III. Violencia Docente: Es aquella que puede ocurrir cuando se daña la autoestima de las alumnas o maestras con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les inflingen maestras o maestros;
 
@@ -498,35 +514,51 @@ III. Fomentar la coordinación interinstitucional local y nacional para detectar
 
 IV. Desarrollar campañas de difusión de los servicios que prestan los centros que integran el Sistema de Auxilio a Víctimas del Delito;
 
-V. Desarrollar campañas de difusión sobre los derechos que tienen las víctimas de delitos que atentan contra la libertad y la seguridad sexuales y el normal desarrollo psicosexual, así como de violencia familiar, y las agencias especializadas que las atienden;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI. Crear bases de datos que contengan información de carácter público a efecto que pueda registrarse el seguimiento de los casos donde la mujer es víctima de algún delito que atente contra su integridad personal, desde la etapa de averiguación previa y hasta la ejecución de la sentencia, incluyendo el procedimiento respectivo para la reparación del daño;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2012)</small>
+V. Desarrollar campañas de difusión sobre los derechos que tienen las víctimas de delitos que atentan contra la libertad, la salud, la seguridad sexuales y el normal desarrollo psicosexual, así como de violencia familiar, y las agencias especializadas o Fiscalías que las atienden.
 
-VII. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de las causas y sentencias que se dictan en contra de las mujeres responsables de delitos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-VIII. Crear un sistema de registro público de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño;
+VI. Crear bases de datos que contengan información de carácter público a efecto que pueda registrarse el seguimiento de los casos donde la mujer es víctima de algún delito que atente contra su integridad personal, desde la etapa de averiguación previa o investigación hasta la ejecución de la sentencia, incluyendo el procedimiento respectivo para la reparación del daño.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VII. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de los procedimientos penales y sentencias que se dictan en contra de las mujeres responsables de delitos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VIII. Crear un sistema de registro público de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victima! para definir políticas en materia de prevención del delito, procuración y administración de justicia, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, los vinculados a proceso, aquellos en que se haya dictado el auto de apertura a juicio oral, los sancionados y aquellos en los que procedió la reparación del daño;
 
 > <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
 
 IX. Elaborar una página de Internet en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. Dicha página deberá actualizarse constantemente. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas; atendiendo en los términos de que (sic) establece la Ley de Protección de Datos Personales para el Distrito Federal.
 
-> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-X. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes, instaurados por el Instituto de Formación Profesional, en: derechos humanos y género; perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia y feminicidios; incorporación de la perspectiva de género en los servicios periciales; eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+X. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes, instaurados por el Instituto de Formación Profesional, en: derechos humanos y género; perspectiva de género para la debida diligencia en la conducción de averiguaciones previas, la investigación de hechos que la ley señale como delitos y procesos judiciales relacionados con discriminación, violencia y feminicidios; incorporación de la perspectiva de género en los servicios periciales; eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
 
 > <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
 
 XI. Elaborar, aplicar y actualizar Protocolos especializados con perspectiva de género en: la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los feminicidios y la violencia sexual;
 
-> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XII. Crear una Base de Información Genética que contenga la información personal disponible de mujeres y niña (sic) desaparecidas; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares proveniente de los cuerpos de cualquier mujer o niña no identificada;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas; y
+XII. Crear una Base de Información Genética que contenga la información personal disponible de mujeres y niñas desaparecidas; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares proveniente de los cuerpos de cualquier mujer o niña no identificada;
+
+La información integrada en esta base deberá ser resguardada y podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas y en los términos de la legislación de procedimientos penales aplicable al Distrito Federal; y
 
 > <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
 
@@ -586,7 +618,11 @@ Las dependencias y entidades deberán registrar el ingreso de las mujeres vícti
 
 El Modelo Único de Atención tendrá las siguientes etapas:
 
-I. Identificación de la problemática. Consiste en determinar las características del problema, el tipo, modalidad de violencia o conducta delictiva, los efectos y posibles riesgos para las victimas directas e indirectas, en su esfera social, económica, laboral, educativa y cultural;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+l. Identificación de la problemática. Consiste en determinar las características del problema, el tipo, modalidad de violencia o hecho delictivo, los efectos y posibles riesgos para las víctimas directas e indirectas, en su esfera social, económica, laboral, educativa y cultural;
 
 II. Determinación de prioridades. Consiste en identificar las necesidades inmediatas y mediatas, así como las medidas de protección que en su caso requiera la víctima;
 
@@ -768,11 +804,13 @@ La internación en Refugios Especializados se hará como medida de protección t
 
 Los Refugios Especializados estarán a cargo de la Procuraduría General de Justicia del Distrito Federal, la cual deberá incluir en su anteproyecto de presupuesto de egresos del Distrito Federal de cada ejercicio fiscal los recursos necesarios para la operación de éstos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE ENERO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 50 Quater.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-Para brindar los servicios y atención a las víctimas de trata de personas, los Refugios Especializados estarán a lo dispuesto en los artículos 51 y 52 de la Ley, así como a las medidas de protección de las víctimas y al Programa que refiere la Ley para Prevenir y Erradicar la Trata de Personas, el abuso sexual y la explotación sexual comercial infantil para el Distrito Federal.
+###### Artículo 50 Quáter.
+
+Para brindar los servicios y atención a las víctimas de trata de personas, los Refugios Especializados estarán a lo dispuesto en los artículos 51 y 52 de esta Ley, así como a las medidas de protección de las víctimas y al Programa que refiere la Ley para Prevenir y Erradicar la Trata de Personas, el abuso sexual y la explotación sexual comercial infantil para el Distrito Federal.
 
 ###### Artículo 51.
 
@@ -834,17 +872,33 @@ II. Actuar con la debida diligencia para orientar, acompañar y representar a la
 
 III. Instrumentar acciones integrales que tiendan a disminuir los efectos de la violencia contra las mujeres y evitar la violencia institucional.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 56.
 
-A fin de buscar mecanismos eficaces que permitan erradicar la discriminación contra las mujeres y apoyar especialmente a aquellas en mayor condición de vulnerabilidad, y ante la necesidad de adoptar estrategias integrales para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, en la esfera de la procuración y administración de justicia, se crea la figura de la abogada victimal y de la abogada de las mujeres víctimas de violencia, quienes podrán tener la representación legal de aquellas mujeres que no cuenten con los medios económicos suficientes para contratar una o un defensor particular.
+En la esfera de la procuración y administración de justicia, se contará con abogadas victimales y asesoras o asesores jurídicos que coadyuven con las mujeres víctimas de violencia, quienes podrán tener la representación legal de aquellas mujeres que no cuenten con los medios económicos suficientes para contratar una o un defensor particular.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 57.
 
 La representación legal que se proporcione a las víctimas, consistirá en el patrocinio y asesoría legal especializada, en asuntos del fuero común, en materia penal, civil, familiar, arrendamiento y laboral de la siguiente manera:
 
-I. En materia penal, a cargo de la Procuraduría a través de una abogada victimal adscrita al Sistema de Auxilio a Víctimas del Delito;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. En materia civil y arrendamiento, a cargo de la Consejería Jurídica y de Servicios Legales a través de una defensora o un defensor de oficio;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+I.- En materia penal a cargo de la Procuraduría a través de una asesora o un asesor jurídico;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. En materia civil y arrendamiento, a cargo de la Consejería Jurídica y de Servicios Legales a través de una defensora o un defensor público;
 
 III. En materia familiar:
 
@@ -858,23 +912,55 @@ IV. En materia laboral a cargo de la Procuraduría de la Defensa del Trabajo, a 
 
 La Procuraduría, desde la perspectiva de género, deberá:
 
-I. Proporcionar representación legal en materia penal a las mujeres víctimas de violencia, a través de la abogada victimal, adscrita al Sistema de Auxilio a Víctimas del Delito;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Elaborar los dictámenes psicológicos victimales a través del Sistema de Auxilio a Víctimas del Delito, de conformidad con lo dispuesto por el Código de Procedimientos Penales;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+l. Proporcionar representación legal en materia penal a las mujeres víctimas de violencia, a través de asesoras o asesores jurídicos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. Elaborar los dictámenes psicológicos victimales en los términos de la legislación de procedimientos penales aplicable al Distrito Federal.
+
+La exploración y atención médica psiquiátrica, ginecológica o cualquiera otra que se practique a la mujer víctima de un delito que atente contra su libertad y el normal desarrollo psicosexual, estará a cargo de persona facultativa de su mismo sexo, salvo cuando la víctima del delito sexual o su representante legal solicite lo contrario. Cuando la mujer víctima sea menor de edad, dicha atención será proporcionada por personal especializado en el tratamiento de menores.
 
 III. Fortalecer el Fondo de Apoyo a Víctimas del Delito para apoyar económicamente a todas las mujeres víctimas de violencia que se encuentren en mayores condiciones de vulnerabilidad y propiciar su autonomía;
 
-IV. Gestionar convenios con la Secretaría de Finanzas para exención del pago de derechos a las mujeres víctimas de violencia en la emisión de copias certificadas de los procedimientos en materia penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. Gestionar convenios con la Secretaría de Finanzas para exención del pago de derechos a las mujeres víctimas de violencia en la emisión de copias certificadas, videograbaciones o cualquier otro medio digital, electrónico, óptico o de cualquier otra tecnología o copia de las versiones escritas que correspondan a los procedimientos en materia penal;
 
 V. Habilitar una línea única de atención telefónica para recibir denuncias de violencia contra las mujeres, por parte de la propia víctima o cualquier otra persona, y dar inicio a la investigación respectiva; y (sic)
 
-> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN E INCISOS, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI. Realizar las diligencias de feminicidios, a través de la Unidad de Investigación que para tal efecto prevea, conforme a su Ley Orgánica; y
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2012)</small>
+VI. Realizar las investigaciones relacionadas con feminicidios, a través de la Fiscalía que para tal efecto prevea su Ley Orgánica, y además:
 
-VII. Las demás que le atribuyen otros ordenamientos legales.
+a).- Dos peritos practicarán la necropsia del cadáver, expresando con minuciosidad el estado que guarda y las causas que originaron la muerte. Solo podrá dejarse de hacer la necropsia, cuando el Juez lo acuerde previo informe o dictamen de los peritos médicos;
+
+b).- La investigación pericial, ministerial y policial deberá realizarse de conformidad con los parámetros establecidos en los protocolos especializados con perspectiva de género. La aplicación de dicho protocolo será obligatoria y su inobservancia será motivo de responsabilidad;
+
+c).- La Procuraduría deberá conservar un registro fotográfico de la víctima, de la descripción de sus lesiones, objetos y vestimenta con que haya sido encontrada que servirán para resolver cada caso, así como para investigaciones de la misma naturaleza.
+
+Cuando se trate de cadáveres no identificados o que no puedan ser reconocidos, deberá realizarse un estudio para determinar su ADN que se integrará al Banco de Datos de Información Genética, a cargo de la Procuraduría, al que se incorporará la información genética de familiares de mujeres desaparecidas o presuntas víctimas de feminicidio, cuando así lo soliciten o en cumplimiento a una orden de la autoridad judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VII.- Implementar los mecanismos necesarios que permitan, en los casos de violencia contra las mujeres, aplicar con prontitud y eficacia las medidas u órdenes de protección señaladas en esta Ley y en la legislación de procedimientos penales aplicable al Distrito Federal; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VIII.- Las demás que le atribuyen otros ordenamientos legales.
 
 ###### Artículo 59.
 
@@ -886,93 +972,145 @@ II. Crear mecanismos de coordinación y colaboración con las dependencias encar
 
 III. Las demás que le atribuyan otros ordenamientos legales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 60.
 
-La Consejería Jurídica y de Servicios Legales del Distrito Federal a través de la Defensoría de Oficio, desde la perspectiva de género, deberá:
+La Consejería Jurídica y de Servicios Legales del Distrito Federal a través de la Defensoría Pública, desde la perspectiva de género, deberá:
 
 I. Representar y asesorar a las mujeres víctimas de violencia canalizadas por las dependencias que integran la coordinación interinstitucional, en materias penal, civil y familiar;
 
-II. Promover ante el Tribunal las medidas de protección establecidas en la presente Ley, de conformidad con las normas sustantivas y adjetivas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. Promover ante el Tribunal las medidas u órdenes de protección establecidas en la presente Ley, de conformidad con las normas sustantivas y adjetivas aplicables al Distrito Federal;
 
 III. Canalizar a la Dirección de Igualdad a las víctimas que tengan necesidad de ingresar a las Casas de Emergencia o Centros de Refugio a fin de que reciban los beneficios de los programas sociales establecidos;
 
-IV. Promover las denuncias correspondientes por delitos cometidos en agravio de sus defendidas, que se encuentren internas en los centros de readaptación social y penitenciarías; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. Promover las denuncias correspondientes por hechos que la ley señale como delitos cometidos en agravio de sus defendidas, que se encuentren internas en los centros de reinserción social y penitenciarias; y
 
 V. Las demás que le atribuyan otros ordenamientos legales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 61.
 
 El Tribunal, desde la perspectiva de género, deberá:
 
-I. Contar con jueces de lo civil, familiar y penal las veinticuatro horas del día, y los trescientos sesenta y cinco días del año, que puedan ordenar en cualquier momento las medidas de protección que requieran las mujeres víctimas de violencia, así como las víctimas indirectas;
+l. Contar con jueces de lo civil, familiar y penal las veinticuatro horas del día, y los trescientos sesenta y cinco días del año, que puedan ordenar en cualquier momento las medidas u órdenes de protección que requieran las mujeres víctimas de violencia, así como las víctimas indirectas;
 
-II. Dictar las medidas de protección necesarias para salvaguardar la integridad física y psíquica, la libertad, la seguridad y el patrimonio de las mujeres víctimas de violencia o en riesgo de serlo, así como de sus dependientes;
+II. Dictar las medidas u órdenes de protección necesarias para salvaguardar la integridad física y psíquica, la libertad, la seguridad y el patrimonio de las mujeres víctimas de violencia o en riesgo de serlo, así como de sus dependientes; y
 
 III. Las demás que le atribuyan otros ordenamientos legales.
 
-### CAPÍTULO VII. MEDIDAS DE PROTECCIÓN
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Artículo 61 bis. La Secretaría de Salud, desde la perspectiva de género, deberá:
+
+I.- A petición de la mujer interesada, practicar el examen que compruebe la existencia de su embarazo, así como su interrupción, en los casos relacionados con una solicitud de interrupción del mismo;
+
+II. Proporcionar a la mujer información imparcial, objetiva, veraz y suficiente sobre los procedimientos, riesgos, consecuencias y efectos; así como los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable. Esta información deberá ser proporcionada de manera inmediata y no deberá tener como objetivo, inducir o retrasar la decisión de la mujer.
+
+De igual manera, en el período posterior a la interrupción del embarazo, ofrecerá la orientación y apoyos necesarios para propiciar la rehabilitación personal y familiar de la mujer.
+
+La Secretaría de Salud coordinará acciones con la Procuraduría con el fin de implementar los mecanismos necesarios para el debido cumplimiento a lo establecido en esta fracción; y
+
+III. Las demás que le atribuyan otros ordenamientos legales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO VII. MEDIDAS U ÓRDENES DE PROTECCIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 62.
 
-Las medidas de protección tienen como propósito prevenir, interrumpir o impedir la consumación de un delito o que se actualice un supuesto en materia civil o familiar que implique violencia contra las mujeres, a través de la emisión de una orden dictada por la autoridad judicial competente.
+Las medidas u órdenes de protección vinculadas a casos de violencia contra la mujer se aplicarán en los términos y condiciones que se establecen en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, esta Ley, y las legislaciones sustantivas y adjetivas aplicables al Distrito Federal.
 
-Las medidas de protección prohíben u ordenan la realización de determinadas conductas y son precautorias, cautelares y de urgente aplicación en función del interés superior de la víctima. Deberán otorgarse por los jueces de lo penal, civil y familiar, según corresponda, inmediatamente que conozcan los hechos probablemente constitutivos (sic) delitos o supuestos del orden civil o familiar, que impliquen violencia contra la víctima o víctimas indirectas.
+Las medidas de protección tienen como propósito prevenir, interrumpir o impedir la conns1on de un delito o que se actualice un supuesto en materia civil o familiar que implique violencia contra las mujeres, a través de la emisión de una medida u orden de protección.
+
+Las medidas u órdenes de protección prohíben u ordenan la realización de determinadas conductas y son precautorias, cautelares y de urgente aplicación en función del interés superior de la víctima. Deberán otorgarse por el Ministerio Público y los órganos jurisdiccionales penales, o los jueces civil y familiar, según corresponda, inmediatamente que conozcan los hechos probablemente constitutivos delitos o supuestos del orden civil o familiar, que impliquen violencia contra la víctima o víctimas indirectas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 63.
 
-Las órdenes de protección se consideran personalísimas e intransferibles y podrán ser:
+Las medidas u órdenes de protección en materia penal, se consideran personalísimas e intransferibles y podrán ser:
 
-a) De emergencia;
+l.- Prohibición de acercarse o comunicarse con la víctima u ofendido;
 
-b) Preventivas, y
+II.- Limitación para asistir o acercarse al domicilio de la víctima u ofendido o al lugar donde se encuentre;
 
-c) De naturaleza civil.
+III.- Separación inmediata del domicilio del agresor, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, de matrimonio en sociedad conyugal, o de separación de bienes;
+
+IV.- La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o a personas relacionados con ellos.
+
+V.- La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en su posesión el probable responsable;
+
+VI.- Vigilancia en el domicilio de la víctima u ofendido;
+
+VII.- Protección policial de la víctima u ofendido;
+
+VIII.- Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo;
+
+IX.- Traslado de la víctima u ofendido a refugios o albergues temporales, así como de sus descendientes; y X.- El reingreso de la víctima u ofendido a su domicilio, una vez que se salvaguarde su seguridad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO Y LA DEROGACIÓN DEL SEGUNDO PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 64.
 
-Las órdenes de protección de emergencia, tendrán una temporalidad no mayor de 72 horas y deberán emitirse de plano por el juez de lo penal cuando en la solicitud se establezca que se encuentra en riesgo la integridad física o psicológica, la libertad o seguridad de la víctima y víctimas indirectas. De ser necesario el juez competente podrá trasladarse al lugar de los hechos para cerciorarse de que se ejecuta la orden y se pone a salvo a la víctima y en su caso, a las víctimas indirectas.
+Una vez que el Juez reciba la solicitud bajo su más estricta responsabilidad, ordenará fundada y motivadamente, en un plazo que no exceda de 12 horas, cualquiera de las medidas u órdenes de protección mencionadas en esta Ley, debiendo tomar en cuenta, en su caso, el interés superior del niño.
 
-Las órdenes de protección preventivas, tendrán una temporalidad no mayor de 72 horas y se emitirán por el juez de lo penal dentro de las seis horas siguientes a la solicitud y su notificación y ejecución se hará de inmediato.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 65.
 
-Corresponderá a los jueces de lo penal otorgar las órdenes de protección de emergencia, quienes deberán tomar en consideración:
+En materia penal, el Ministerio Público o el Juez emitirán la medida u orden de protección en un plazo que no exceda de doce horas.
 
-I. El riesgo o peligro existente;
+Dentro de los cinco días siguientes a la imposición de las medidas u órdenes de protección previstas en las fracciones I, II y III del artículo 63 de esta Ley, deberá celebrarse una audiencia en la que el órgano jurisdiccional correspondiente podrá cancelarlas, o bien, ratificarlas o modificarlas mediante la imposición de las medidas cautelares que corresponda y que están señaladas en la legislación de procedimientos penales aplicable al Distrito Federal.
 
-II. La seguridad de la víctima, y
+En caso de incumplimiento de las medidas u órdenes de protección, el Ministerio Público podrá imponer alguna de las medidas de apremio previstas en la legislación de procedimientos penales aplicable al Distrito Federal.
 
-III. Los elementos con que se cuente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El juez de que se trate no tomará en cuenta para la emisión de la orden de protección, que con anterioridad se haya otorgado una orden para la misma víctima o víctimas indirectas en contra del mismo agresor.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 66.
 
-Son órdenes de protección de emergencia y serán otorgadas por el Juez penal:
-
-I. La desocupación por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, y en su caso el reingreso de la víctima una vez que se resguarde su seguridad. Esta orden implica la presunción de la posesión, uso y goce de los bienes que se encuentren en el domicilio;
-
-II. La prohibición al agresor de acercarse o ingresar al domicilio, lugar de trabajo, de estudios de la víctima y las víctimas indirectas, o cualquier otro que frecuente la víctima;
-
-III. Ordenar la entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y, en su caso, de las víctimas indirectas;
-
-IV. La prohibición al agresor de comunicarse por cualquier medio o por interpósita persona, con la víctima y, en su caso, las víctimas indirectas;
-
-V. Prohibición de intimidar o molestar en su entorno social a la víctima, víctimas indirectas o testigos de los hechos. Esta orden de protección podrá incluir que el probable agresor se acerque o comunique por cualquier medio o a través de interpósita persona, con los parientes de la víctima, consanguíneos en línea recta ascendente o descendente sin limitación de grado y colateral hasta el cuarto grado, o civil.
-
-Esta medida se aplicará aún cuando la persona agresora tenga la guarda y custodia, atención y cuidado, tutela o patria potestad de las víctimas.
-
-El Juez podrá emitir una o varias de las órdenes que se establecen en el presente artículo.
-
-En caso de que la autoridad encargada de ejecutar la orden de protección se percate de la comisión de un delito, pondrá de inmediato al probable responsable a disposición de la autoridad correspondiente. En este caso el Juez que emitió la orden remitirá de inmediato copia certificada de todo lo actuado a la autoridad ante quien se haya puesto a disposición al probable responsable.
+Las medidas u órdenes de protección tendrán una duración máxima de sesenta días, prorrogables hasta por treinta días.
 
 ###### Artículo 67.
 
 El juez penal podrá emitir como orden de protección preventiva la retención y guarda de armas en posesión de la persona agresora, y dar aviso a la autoridad federal competente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 68.
 
-El Juez de lo penal, para el cumplimiento de las órdenes de protección, autorizará a la autoridad ejecutora, lo siguiente:
+En materia penal, el órgano jurisdiccional o el Ministerio Público, para el cumplimiento de las medidas u órdenes de protección, autorizará a la autoridad ejecutora, lo siguiente:
 
 I. Ingresar al domicilio o al lugar en dónde ocurra o haya ocurrido el acto de violencia;
 
@@ -982,11 +1120,19 @@ III. Acompañar a la víctima a su domicilio para recoger sus pertenencias perso
 
 IV. Trasladar a la víctima y víctimas indirectas, si así lo requieren, a las Casas de Emergencia o Centros de Refugio;
 
-En todos los casos, al finalizar la diligencia de ejecución de las órdenes de protección, la autoridad deberá proporcionar toda la información necesaria para que la víctima acceda a protección policíaca inmediata, en cualquier momento que este en riesgo su seguridad e integridad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+En todos los casos, al finalizar la diligencia de ejecución de las medidas u órdenes de protección, la autoridad ejecutora deberá proporcionar toda la información necesaria para que la víctima acceda a protección policíaca inmediata, en cualquier momento que esté en riesgo su seguridad e integridad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 69.
 
-Las órdenes de protección de emergencia podrán ser solicitadas por la víctima o cualquier persona, que tenga conocimiento del riesgo en que se encuentra la integridad física o psicológica, la libertad o seguridad de la víctima y víctimas indirectas.
+Las medidas u órdenes de protección podrán ser solicitadas por la víctima o cualquier persona, que tenga conocimiento del riesgo en que se encuentra la integridad física o psicológica, la libertad o seguridad de la víctima y víctimas indirectas.
 
 ###### Artículo 70.
 
@@ -1014,9 +1160,13 @@ El juez tendrá veinticuatro horas para dictar resolución donde confirme, modif
 
 ### CAPÍTULO VIII. DE LA REPARACIÓN DEL DAÑO A LAS MUJERES VÍCTIMAS DE VIOLENCIA EN EL DISTRITO FEDERAL
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 73.
 
-Las mujeres victimas de violencia, tendrán derecho a obtener la reparación del daño de conformidad con el artículo 20, apartado B, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos. Con el objetivo de garantizar el goce de este derecho, el Gobierno del Distrito Federal brindará servicios jurídicos especializados.
+Las mujeres víctimas de violencia, tendrán derecho a obtener la reparación del daño de conformidad con el artículo 20, apartado C, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos. Con el objetivo de garantizar el goce de este derecho, el Gobierno del Distrito Federal brindará servicios jurídicos especializados.
 
 ###### Artículo 74.
 
@@ -1115,3 +1265,13 @@ Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Ga
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
