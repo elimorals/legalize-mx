@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-verificacion-administrativa-del-72146"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-26"
-last_updated: "2014-09-29"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72146&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de enero de 2010.
 
@@ -286,7 +286,11 @@ III. (DEROGADA, G.O. 8 DE JULIO DE 2011)
 
 IV. No haber desempeñado cargo de dirigencia de partidos políticos o asociaciones políticas en el ámbito federal o del Distrito Federal, con cuando menos seis meses de antelación a la fecha de la designación;
 
-V. No haber sido condenado por la comisión de algún delito doloso;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+V. No haber sido sentenciado mediante sentencia ejecutoriada por delito doloso;
 
 VI. Acreditar estudios terminados de licenciatura, cuando menos;
 
@@ -310,7 +314,11 @@ II.- Incumplir las obligaciones establecidas en la Ley;
 
 III.- Incurrir en violaciones a la Ley Federal de Responsabilidades de los Servidores Públicos;
 
-IV.- Ser condenado en sentencia ejecutoria por la comisión de un delito doloso o que merezca pena privativa de libertad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. Ser sentenciado mediante sentencia ejecutoria por delito doloso o que merezca pena privativa de libertad;
 
 > <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -400,7 +408,11 @@ El Jefe de Gobierno del Distrito Federal designará al titular de la Dirección 
 
 I. Residir en el Distrito Federal cuando menos seis meses antes de la designación;
 
-II. No haber sido condenado por la comisión de algún delito doloso;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. No haber sido sentenciado por sentencia ejecutoriada, por delito doloso;
 
 III. Acreditar estudios terminados de licenciatura, cuando menos; y
 
@@ -648,7 +660,11 @@ I.- Ser ciudadano del Distrito Federal en pleno ejercicio de sus derechos;
 
 II.- (DEROGADA, G.O. 14 DE FEBRERO DE 2011)
 
-III.- No haber sido condenado por delito doloso o que merezca pena privativa de libertad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III. No haber sido sentenciado mediante sentencia ejecutoriada por delito doloso o que merezca pena privativa de libertad;
 
 IV.- No haber sido destituido ni inhabilitado para el desempeño de empleo, cargo o comisión en el servicio público;
 
@@ -813,3 +829,13 @@ TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Dec
 CUARTO.- El Jefe de Gobierno realizará las adecuaciones necesarias al Estatuto Orgánico del Instituto de Verificación Administrativa del Distrito Federal, Organismo Público Descentralizado.
 
 QUINTO.- La implementación de la Coordinación General, debe ejecutarse bajo los criterios de costos compensados.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
