@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -467,11 +467,11 @@ Para establecer el estado civil adquirido por los mexicanos del Distrito Federal
 
 Los Jueces del Registro Civil se suplirán en sus faltas temporales por el más próximo de la demarcación territorial del Distrito Federal en que actúen. A falta de éste, por el más próximo de la demarcación territorial colindante.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 53.
 
-El Ministerio Público cuidará que las actuaciones e inscripciones que se hagan en las formas del Registro Civil, se realicen conforme a la Ley, pudiendo inspeccionarlas en cualquier época, así como consignar a los Jueces del Registro Civil que hubieren cometido delito en el ejercicio de su cargo, o dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido los empleados del Registro Civil.
+El Ministerio Público cuidará que las actuaciones e inscripciones que se hagan en las formas del Registro Civil, se realicen conforme a la Ley, pudiendo inspeccionarlas en cualquier época, así como ejercitar acción penal contra los Jueces del Registro Civil que hubieren cometido delito en el ejercicio de su cargo, o dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido los empleados del Registro Civil.
 
 ### CAPITULO IV. De las actas de adopción
 
@@ -1015,13 +1015,13 @@ III.- (DEROGADA, G.O. 13 DE ENERO DE 2004)
 
 IV.- Los nombres de los padres del difunto si se supieren;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-V.- La causa o enfermedad que originó el fallecimiento de acuerdo a la información contenida en el Certificado de Defunción, y el lugar en el que se inhumará o cremará el cadáver;
+V.- La causa o enfermedad que originó el fallecimiento de acuerdo a la información contenida en el Certificado de Defunción, y el lugar en el que se inhumará o cremará el cadáver; y
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta, debiendo asentar los datos de la Averiguación Previa con la que se encuentre relacionada.
+VI.- La hora de muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta, debiendo asentar los datos de la investigación sobre los hechos que puedan constituir algún delito con la que se encuentre relacionada.
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
@@ -1035,11 +1035,11 @@ Los que habiten la casa en que ocurra el fallecimiento; los directores o adminis
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 122.
 
-Cuando el Juez del Registro Civil, sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Juez del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Juez del Registro Civil para que los anote en el acta.
+Cuando el Juez del Registro Civil, sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga, para que proceda a la investigación sobre hechos que puedan constituir algún delito conforme a derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Juez del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Juez del Registro Civil para que los anote en el acta.
 
 ###### ARTICULO 123.
 
@@ -2743,7 +2743,9 @@ III. Violencia económica: a los actos que implican control de los ingresos, el 
 
 IV. Violencia sexual: a los actos u omisiones y cuyas formas de expresión pueden ser: inducir a la realización de prácticas sexuales no deseadas o que generen dolor, practicar la celotipia para el control, manipulación o dominio de la pareja y que generen un daño.
 
-No se justifica en ningún caso como forma de educación o formación el ejercicio de la violencia hacia las niñas y niños.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+No se justifica en ningún caso como forma de educación o formación el ejercicio de la violencia hacia las niñas, niños y adolescentes.
 
 Para efectos de éste artículo, se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado, así como de parentesco civil.
 
@@ -3755,9 +3757,9 @@ I. Cuando el que la ejerza sea condenado expresamente a la pérdida de ese derec
 
 II. En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 283 de éste Código;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-III.- En los casos de violencia familiar en contra el menor;
+III.- En los casos de violencia familiar en contra del menor;
 
 > <small>(REFORMADA, G.O. 9 DE JUNIO DE 2004)</small>
 
@@ -3775,9 +3777,9 @@ V. Por el abandono que el padre o la madre hicieren de los hijos por más de tre
 
 VI. Cuando el que la ejerza hubiera cometido contra la persona o bienes de los hijos, un delito doloso, por el cual haya sido condenado por sentencia ejecutoriada;
 
-> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-VII. Cuando el que la ejerza sea condenado dos o más veces por delitos graves; y
+VII. Cuando el que la ejerza sea condenado dos o más veces por delitos dolosos cuya pena privativa de libertad exceda de cinco años;
 
 > <small>(REFORMADA, G.O. 1 DE JUNIO DE 2012)</small>
 
@@ -3811,9 +3813,9 @@ I.- Por incapacidad declarada judicialmente;
 
 II.- Por la ausencia declarada en forma;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-III.- Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico de las substancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos, amenacen causar algún perjuicio cualquiera que este sea al menor; y
+III.- Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico de las substancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos, y que amenacen con causar algún perjuicio cualquiera que este sea al menor;
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3823,13 +3825,13 @@ IV.- Por sentencia condenatoria que imponga como pena esta suspensión;
 
 V.- Cuando exista la posibilidad de poner en riesgo la salud, el estado emocional o incluso su vida del o de los descendientes menores por parte de quien conserva la custodia legal, o de pariente por consaguinidad (sic) o afinidad hasta por el cuarto grado;
 
-> <small>(REFORMADA, G.O. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-VI.- Por no permitir que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente; salvo lo dispuesto por la fracción IX del artículo 444 del presente Código.
+VI.- Por no permitir que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente, salvo lo dispuesto por la fracción IX del artículo 444 del presente Código; y
 
-> <small>(ADICIONADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-VII.- En los casos y mientras dure la tutela de los menores en situación de desamparo de acuerdo a lo dispuesto en el presente Código y del artículo del (sic) 902 Código de Procedimientos Civiles para el Distrito Federal.
+VII.- En los casos y mientras dure la tutela de los menores en situación de desamparo de acuerdo a lo dispuesto en el presente Código y del artículo 902 (sic) Código de Procedimientos Civiles para el Distrito Federal.
 
 ###### ARTICULO 448.
 
@@ -4175,7 +4177,9 @@ Se considera como situación de desamparo, la que se produce de un hecho a causa
 
 El acogimiento tiene por objeto la protección inmediata del menor, si éste tiene bienes, el juez decidirá sobre la administración de los mismos.
 
-En todos los casos, quien haya acogido a un menor, deberá dar aviso al Ministerio Público Especializado dentro de las cuarenta y ocho horas siguientes, quien después de realizar las diligencias necesarias, en su caso, lo pondrá de inmediato bajo el cuidado y atención del Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+En todos los casos, quien haya acogido a un menor, deberá dar aviso al Ministerio Público dentro de las cuarenta y ocho horas siguientes, quien después de realizar las diligencias necesarias, en su caso, lo pondrá de inmediato bajo el cuidado y atención del Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -4351,19 +4355,21 @@ No pueden ser tutores ni curadores de las personas comprendidas en la fracción 
 
 El Ministerio Público y los parientes del pupilo, tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 504.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 508.
 
-El tutor que fuere procesado por cualquier delito, quedará suspendido en el ejercicio de su encargo desde que se provea el auto motivado de prisión, hasta que se pronuncie sentencia irrevocable.
+El tutor que fuere procesado por cualquier hecho que la ley señale como delito, quedará suspendido en el ejercicio de su encargo desde que se le dicte prisión preventiva y hasta que se pronuncie sentencia irrevocable, o cuando se vulnere por ese hecho, los derechos y bienes jurídicos del pupilo.
 
 ###### ARTICULO 509.
 
 En el caso de que trata el artículo anterior, se proveerá a la tutela conforme a la ley.
 
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 510.
 
-Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
+Absuelto el tutor, volverá al ejercicio de su encargo. Si es sentenciado condenatoriamente a una sanción que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su sanción, siempre que la pena impuesta no exceda de un año de prisión.
 
 ### CAPITULO X. Del desempeño de la tutela
 
@@ -5997,11 +6003,11 @@ El Ministerio Público, si estima que procede, deducirá ante el juez competente
 
 El denunciante recibirá la cuarta parte del valor catastral de los bienes que denuncie; observándose lo dispuesto en la parte final del artículo 781.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 789.
 
-El que se apodere de un bien vacante sin cumplir lo prevenido en en (sic) este capítulo, pagará una multa de cinco a cincuenta pesos, sin perjuicio de las penas que señale el respectivo Código.
+El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa de cinco a cincuenta pesos, sin perjuicio de las penas que señale el respectivo Código.
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
@@ -7389,7 +7395,9 @@ ARTICULO 1,153.- Los bienes muebles se prescriben en tres años cuando son pose�
 
 ARTICULO 1,154.- Cuando la posesión se adquiere por medio de violencia, aunque ésta cese y la posesión continúe pacíficamente, el plazo para la prescripción será de diez años para los inmuebles y de cinco para los muebles, contados desde que cese la violencia.
 
-ARTICULO 1,155.- La posesión adquirida por medio de un delito, se tendrá en cuenta para la prescripción, a partir de la fecha en que haya quedado extinguida la pena o prescrita la acción penal, considerándose la posesión como de mala fe.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 1,155.- La posesión adquirida por medio de la comisión de un delito, se tendrá en cuenta para la prescripción, a partir de la fecha en que haya quedado extinguida la pena o prescrita la acción penal, considerándose la posesión como de mala fe.
 
 ARTICULO 1,156.- El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
 
@@ -7793,7 +7801,9 @@ ARTICULO 1,313.- Todos los habitantes del Distrito Federal de cualquier edad que
 
 I.- Falta de personalidad;
 
-II.- Delito;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II.- Por haber cometido un delito;
 
 III.- Presunción de influencia contraria a la libertad del testador, o a la verdad o integridad del testamento;
 
@@ -7811,9 +7821,13 @@ ARTICULO 1,315.- Será, no obstante, válida la disposición hecha en favor de l
 
 ARTICULO 1,316.- Son incapaces de heredar por testamento o por intestado:
 
-I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-II.- El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, acusación de delito que merezca pena capital o de prisión, aun cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge;
+I.- El que haya sido sentenciado condenatoriamente por haber privado de la vida a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II.- El que haya denunciado o se haya querellado en contra del autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge por algún delito y éstas sean infundadas;
 
 III.- El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
 
@@ -7857,7 +7871,9 @@ ARTICULO 1,324.- Por presunción de influjo contrario a la verdad e integridad d
 
 ARTICULO 1,325.- Los ministros de los cultos no pueden ser herederos por testamento de los ministros del mismo culto o de un particular con quien no tengan parentesco dentro del cuarto grado. La misma incapacidad tienen los ascendientes, descendientes, cónyuges y hermanos de los ministros, respecto de las personas a quienes éstos hayan prestado cualquiera clase de auxilios espirituales, durante la enfermedad de que hubieren fallecido o de quienes hayan sido directores espirituales los mismos ministros.
 
-ARTICULO 1,326.- El notario que a sabiendas autorice un testamento en que se contravenga lo dispuesto en los tres artículos anteriores, sufrirá la pena de privación de oficio.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 1,326.- El notario que a sabiendas autorice un testamento en que se contravenga lo dispuesto en los tres artículos anteriores, sufrirá la sanción prevista en los términos de la Ley del Notariado del Distrito Federal.
 
 ARTICULO 1,327.- Los extranjeros y las personas morales, son capaces de adquirir bienes por testamento o por intestado; pero su capacidad tiene las limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos y en las respectivas leyes reglamentarias de los artículos constitucionales. Tratándose de extranjeros, se observará también lo dispuesto en el artículo siguiente.
 
@@ -8789,7 +8805,9 @@ I.- Los magistrados y jueces que estén ejerciendo jurisdicción en el lugar en 
 
 II.- Los que por sentencia hubieren sido removidos otra vez del cargo de albacea;
 
-III.- Los que hayan sido condenados por delitos contra la propiedad;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III.- Los que hayan sido condenados por delitos contra el patrimonio;
 
 IV.- Los que no tengan un modo honesto de vivir.
 
@@ -10523,7 +10541,9 @@ ARTICULO 2,274.- Los extranjeros y las personas morales no pueden comprar bienes
 
 ARTICULO 2,275.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
-ARTICULO 2,276.- Los magistrados, los jueces, el ministerio público, los defensores oficiales, los abogados, los procuradores y los peritos no pueden comprar los bienes que son objeto de los juicios en que intervengan. Tampoco podrán ser cesionarios de los derechos que se tengan sobre los citados bienes.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 2,276.- Los magistrados, los jueces, el ministerio público, los defensores públicos, los abogados, los procuradores y los peritos no pueden comprar los bienes que son objeto de los juicios en que intervengan. Tampoco podrán ser cesionarios de los derechos que se tengan sobre los citados bienes.
 
 ARTICULO 2,277.- Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acciones hereditarias cuando sean coherederos las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
 
@@ -11767,7 +11787,9 @@ ARTICULO 2,613.- Los profesores tienen derecho de exigir sus honorarios, cualqui
 
 ARTICULO 2,614.- Siempre que un profesor no pueda continuar prestando sus servicios, deberá avisar oportunamente a la persona que lo ocupe, quedando obligado a satisfacer los daños y perjuicios que se causen, cuando no diere este aviso con oportunidad. Respecto de los abogados se observará además lo dispuesto en el artículo 2,589.
 
-ARTICULO 2,615.- El que preste servicios profesionales, sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en caso de delito.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 2,615.- El que preste servicios profesionales, sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca por la comisión de un delito.
 
 ## TITULO PRIMERO. De la concurrencia y prelación de los créditos
 
@@ -14616,3 +14638,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
