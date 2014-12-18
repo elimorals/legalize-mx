@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -146,7 +146,7 @@ X. Para abasto;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XI. Para medicina tradicional; y (sic)
+XI. Para medicina tradicional; y
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -666,7 +666,7 @@ III. Proveer alimento y agua suficiente en todo momento a los animales resguarda
 
 IV. Tener un técnico capacitado en sacrificio de acuerdo a las normas vigentes para tal efecto;
 
-V. Emitir una constancia del estado general del animal tanto a su ingreso como a su salida; y (sic)
+V. Emitir una constancia del estado general del animal tanto a su ingreso como a su salida; y
 
 VI. Separar y atender a los animales que estén lastimados, heridos o presenten signos de enfermedad infecto contagiosa;
 
@@ -770,7 +770,7 @@ III. Un representante de la Secretaría de Seguridad Pública;
 
 IV. Un representante de la Procuraduría Ambiental y del Ordenamiento Territorial;
 
-V. Un representantes (sic) de las asociaciones protectoras de animales inscritas e (sic) en (sic) padrón correspondiente;
+V. Un representantes (sic) de las asociaciones protectoras de animales inscritas e en (sic) padrón correspondiente;
 
 VI. Un bioeticista experto en protección a los animales; y
 
@@ -1254,9 +1254,9 @@ Toda persona podrá denunciar ante la Secretaría de Salud, la Procuraduría o l
 
 Si por la naturaleza de los hechos denunciados se tratare de asuntos de competencia del orden federal o sujetos a la jurisdicción de otra autoridad federativa, las autoridades deberán turnarla a la autoridad competente.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Distrito Federal, si se considera que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales para el Distrito Federal, o bien ante el juez cívico correspondiente, quien resolverá sobre la responsabilidad en el asunto de su competencia y notificará sobre la denuncia a las Delegaciones, o a la Secretaría de Salud, para el seguimiento de los procedimientos de verificación y vigilancia, previstos en el primer párrafo del presente artículo, si procediera.
+Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Distrito Federal, si se considera que se trata (sic) hechos probablemente constitutivos de delito, en cuyo caso deberá sujetarse a lo dispuesto por la legislación de procedimientos penales aplicable en el Distrito Federal, o bien ante el juez cívico correspondiente, quien resolverá sobre la responsabilidad en el asunto de su competencia y notificará sobre la denuncia a las Delegaciones, o a la Secretaría de Salud, para el seguimiento de los procedimientos de verificación y vigilancia, previstos en el primer párrafo del presente artículo, si procediera.
 
 ###### Artículo 57.
 
@@ -1286,9 +1286,9 @@ Si fuese una denuncia ciudadana, derivada de un espectáculo público o algún d
 
 La autoridad correspondiente ejecutará el procedimiento de verificación y vigilancia, previsto en el presente capitulo, a efecto de aplicar las sanciones y medidas de seguridad que correspondan, de acuerdo a esta Ley; la Legislación Ambiental Sanitaria; Administrativa o de Establecimientos Mercantiles, que correspondan, de acuerdo a su competencia, observando, en cuanto al procedimiento, de manera supletoria, la Ley de Procedimientos Administrativos del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-Conforme sea el caso, se podrán canalizar a los interesados, sin perjuicio alguno, ante el Juzgado Cívico competente, los asuntos que les corresponda conocer a dicha autoridad, cuando estos no sean competencia de las Delegaciones; la Procuraduría o la Secretaría de Salud; al que corresponderá aplicar las sanciones previstas en el capitulo X de la presente Ley, las que solamente consistirán en amonestación, multa o arresto, aplicando el procedimiento previsto en el artículo 12 Bis de la presente Ley; en cuyo caso deberá sujetarse a los dispuesto por el Código Penal para el Distrito Federal, en cuanto lo que hace al rubro de sanciones y en cuanto al procedimiento al Código de Procedimientos Penales para el Distrito Federal.
+Conforme sea el caso, se podrán canalizar a los interesados, sin perjuicio alguno, ante el Juzgado Cívico competente, los asuntos que les corresponda conocer a dicha autoridad, cuando estos no sean competencia de las Delegaciones; la Procuraduría o la Secretaría de Salud; al que corresponderá aplicar las sanciones previstas en el capítulo X de la presente Ley, las que solamente consistirán en amonestación, multa o arresto, aplicando el procedimiento previsto en el artículo 12 Bis de la presente Ley; en cuyo caso deberá sujetarse a los (sic) dispuesto por el Código Penal para el Distrito Federal, en cuanto lo que hace al rubro de sanciones y en cuanto al procedimiento a la legislación de procedimientos penales aplicable al Distrito Federal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
@@ -1464,7 +1464,7 @@ En el caso de que las infracciones hayan sido cometidas por personas que ejerzan
 
 La autoridad correspondiente fundará y motivará la resolución en la que se imponga una sanción, tomando en cuenta los siguientes criterios:
 
-I. Las condiciones económicas de la (sic) el (sic) infractor;
+I. Las condiciones económicas de la el (sic) infractor;
 
 II. El perjuicio causado por la infracción cometida;
 
@@ -1583,3 +1583,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
