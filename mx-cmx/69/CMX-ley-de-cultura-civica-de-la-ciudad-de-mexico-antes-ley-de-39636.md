@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -244,9 +244,11 @@ XVIII. Contar con los peritos necesarios, en materia de tránsito terrestre y de
 
 XIX. Las demás facultades que le confiera la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-A la Secretaría le corresponde la prevención de la comisión de infracciones, preservación de la seguridad ciudadana, del orden público y de la tranquilidad de las personas, y contará con las siguientes atribuciones:
+A la Secretaría le corresponde la prevención de la comisión de infracciones, preservación de la seguridad ciudadana, del orden público y de la tranquilidad de las personas, para ello respetará los derechos humanos de las personas establecidos en la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos aplicables, y contará con las siguientes atribuciones:
 
 I. Detener y presentar ante el Juez a los probables infractores, en los términos del artículo 55 de esta Ley;
 
@@ -820,13 +822,13 @@ En el supuesto de que el infractor no realice las actividades de apoyo a la comu
 
 Los procedimientos que se realicen ante los Juzgados, se iniciarán con la presentación del probable infractor por el elemento de policía, con la queja de particulares por la probable comisión de infracciones, o por remisión de otras autoridades que pongan en conocimiento al Juez Cívico hechos presuntamente considerados infracciones a esta Ley y demás ordenamientos aplicables, en caso de ser competente, así lo acordará y continuará con el procedimiento.
 
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 40.
 
-El Código de Procedimiento Penales para Distrito Federal será de aplicación supletoria a las disposiciones de este título.
+Será de aplicación supletoria a las disposiciones de este título, la legislación de procedimientos penales aplicable al Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 24 DE FEBRERO DE 2009)</small>
-
-Cuando en los procedimientos que establece esta Ley obren pruebas obtenidas por la Secretaría con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
+Cuando en los procedimientos que establece esta Ley, obren datos, medios o elementos de prueba obtenidos por Seguridad Pública con equipos y sistemas tecnológicos, las mismas tendrán el alcance probatorio que se señale en la legislación aplicable.
 
 ###### Artículo 41.
 
@@ -846,7 +848,9 @@ Cuando el probable infractor no hable español, o se trate de un sordomudo, y no
 
 En caso de que el probable infractor sea adolescente, el Juez citará a quien detente la custodia o tutela, legal o de hecho, en cuya presencia se desarrollará la audiencia y se dictará la resolución.
 
-En tanto acude quien custodia o tutela al adolescente, éste deberá permanecer en la oficina del Juzgado, en la sección de adolescentes. Si por cualquier causa no asistiera el responsable del adolescente en un plazo de dos horas, se otorgará una prórroga de cuatro horas. Si al término de la prórroga no asistiera el responsable, el Juez le nombrará un representante de la Administración Pública del Distrito Federal para que lo asista y defienda, que podrá ser un Defensor de Oficio, después de lo cual determinará su responsabilidad.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+En tanto acude quien custodia o tutela al adolescente, éste deberá permanecer en la oficina del Juzgado, en la sección de adolescentes. Si por cualquier causa no asistiera el responsable del adolescente en un plazo de dos horas, se otorgará una prórroga de cuatro horas. Si al término de la prórroga no asistiera el responsable, el Juez le nombrará un representante de la Administración Pública del Distrito Federal para que lo asista y defienda, que podrá ser un Defensor Público, después de lo cual determinará su responsabilidad.
 
 En caso de que el adolescente resulte responsable, el Juez lo amonestara y le hará saber las consecuencias jurídicas y sociales de su conducta.
 
@@ -1016,9 +1020,11 @@ Cuando el probable infractor padezca alguna enfermedad o discapacidad mental, a 
 
 Cuando comparezca el probable infractor ante el Juez, éste le informará del derecho que tiene a comunicarse con persona de su confianza para que le asista y defienda.
 
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 64.
 
-Si el probable infractor solicita comunicarse con persona que le asista y defienda, el Juez suspenderá el procedimiento, dándole dentro del juzgado las facilidades necesarias, y le concederá un plazo que no excederá de dos horas para que se presente el defensor o persona que le asista, si éste no se presenta el Juez le nombrará un defensor de oficio; o, a solicitud del probable infractor, éste podrá defenderse por sí mismo, salvo que se trate de menores o incapaces.
+Si el probable infractor solicita comunicarse con persona que le asista y defienda, el Juez suspenderá el procedimiento, dándole dentro del juzgado las facilidades necesarias, y le concederá un plazo que no excederá de dos horas para que se presente el defensor o persona que le asista, si éste no se presenta el Juez le nombrará un Defensor Público; o, a solicitud del probable infractor, éste podrá defenderse por sí mismo, salvo que se trate de menores o incapaces.
 
 ### CAPÍTULO III. PROCEDIMIENTO POR QUEJA
 
@@ -1150,7 +1156,9 @@ Cuando alguno de los conductores manifieste su voluntad de no conciliar sus inte
 
 I. Impondrá al responsable o responsables de los daños, mediante resolución, la sanción que corresponda en términos de lo dispuesto en este ordenamiento, tomando en cuenta el dictamen pericial y los demás elementos probatorios que se hayan desahogado; dejando a salvo los derechos de las partes por cuanto hace a la reparación del daño;
 
-II. Proporcionará al agraviado, en su caso, el formato de demanda respectivo para su llenado con auxilio de un defensor que le asigne la Defensoría de Oficio;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. Proporcionará al agraviado, en su caso, el formato de demanda respectivo para su llenado con auxilio de un defensor que le asigne la Defensoría Pública del Distrito Federal;
 
 III. Cuando el conductor responsable garantice el pago de los daños le devolverá el vehículo que conducía; en caso contrario, si se presentó la demanda, lo pondrá a disposición del Juez de Paz Civil en cumplimiento a la determinación del auto inicial;
 
@@ -1450,7 +1458,9 @@ I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y tener por l
 
 II. Ser licenciado en derecho, con cédula profesional expedida por la autoridad competente y tener por lo menos un año de ejercicio profesional;
 
-III. No haber sido condenado en sentencia ejecutoriada por delito intencional;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III. No haber sido sentenciado en sentencia ejecutoriada por delito doloso;
 
 IV. No haber sido suspendido o inhabilitado para el desempeño de un cargo público, y
 
@@ -1464,7 +1474,9 @@ I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos; tener por lo 
 
 II. Ser licenciado en derecho, con cédula profesional expedida por la autoridad competente o pasante de esta carrera en los términos de la ley respectiva;
 
-III. No haber sido condenado en sentencia ejecutoriada por delito intencional;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III. No haber sido sentenciado en sentencia ejecutoriada por delito doloso;
 
 IV. No haber sido suspendido o inhabilitado para el desempeño de un cargo público, y
 
@@ -1705,3 +1717,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
