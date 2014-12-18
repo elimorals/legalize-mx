@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2014-12-15"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -3879,13 +3881,13 @@ Sin embargo, estas personas no podrán negar su testimonio cuando sean liberadas
 
 En caso de ser citadas, deberán comparecer y explicar el motivo del cual surge la obligación de guardar secreto y de abstenerse de declarar.
 
-Comparecencia obligatoria de testigos
+Citación de testigos
 
 ###### Artículo 347.
 
 Para el examen de testigos se librará orden de citación, salvo en el caso de que la parte interesada se comprometa a presentarlos. En esta última hipótesis, de no cumplir su ofrecimiento, se le tendrá por desistido de la prueba. En los casos de urgencia, los testigos podrán ser citados por cualquier medio que garantice la recepción de la citación, lo cual se hará constar. Además, el testigo podrá presentarse a declarar sin previa cita. Tratándose de testigos que fueren servidores públicos, la dependencia en la que se desempeñen adoptará las medidas correspondientes para garantizar su comparecencia.
 
-Excepciones a la obligación de comparecencia
+Comparecencia obligatoria de testigos
 
 ###### Artículo 348.
 
@@ -3893,7 +3895,7 @@ Si el testigo debidamente citado, no comparece sin justa causa a la audiencia de
 
 Las autoridades están obligadas a auxiliar oportuna y diligentemente al juez para garantizar la comparecencia obligatoria de los testigos. El juez podrá emplear contra las autoridades los medios de apremio que establece este código en caso de incumplimiento o retardo a sus determinaciones.
 
-Citación de testigos
+Excepciones a la obligación de comparecencia
 
 ###### Artículo 349.
 
@@ -4269,9 +4271,11 @@ El ministerio público manifestará su deseo de aplicar el procedimiento abrevia
 
 En caso de dictarse sentencia de condena, se aplicarán las penas mínimas previstas por la ley para el delito cometido, reducidas en un tercio, sin perjuicio de cualquier otro beneficio que proceda en términos del código penal.
 
-> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Tratándose de los delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, el homicidio culposo de dos o más personas, violación, las lesiones a que se refiere la fracción VIII del artículo 238 del Código Penal del Estado de México, robo que ocasione la muerte, robo de vehículo automotor con violencia, robo cometido a interior de casa habitación con violencia, abuso de autoridad contemplado en la fracción II del segundo párrafo del artículo 137 bis, delitos contra el correcto funcionamiento de las instituciones de seguridad y órganos jurisdiccionales, de la seguridad de los servidores públicos y particulares, y el realizado contra el ambiente, contemplado en el párrafo segundo del artículo 229, solamente se aplicarán las penas mínimas previstas por la ley para el delito cometido, con exclusión de cualquier otro beneficio.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Tratándose de los delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, el homicidio culposo de dos o más personas, violación, robo que ocasione la muerte, robo de vehículo automotor con violencia, robo cometido a interior de casa habitación con violencia, abuso de autoridad contemplado en la fracción II del segundo párrafo del artículo 137 bis, delitos contra el correcto funcionamiento de las instituciones de seguridad y órganos jurisdiccionales, de la seguridad de los servidores públicos y particulares, el realizado contra el ambiente, contemplado en el párrafo segundo del artículo 229, y el de autorización de baile con contenido sexual en unidad económica, contenido en el artículo 148 Qúater, solamente de (sic) aplicarán las penas mínimas previstas por la ley para el delito cometido con exclusión de cualquier otro beneficio.
 
 Verificación del juez
 
@@ -5744,3 +5748,25 @@ G.G. 15 DE DICIEMBRE DE 2014.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor a los cinco días siguientes al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
+
+CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
+
+QUINTO. Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
+
+SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 18 de julio de 2013.
+
+NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
+
+DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
