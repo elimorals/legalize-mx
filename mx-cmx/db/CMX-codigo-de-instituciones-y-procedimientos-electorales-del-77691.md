@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-del-77691"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-20"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77691&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-12-16"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el lunes 20 de diciembre de 2010.
 
@@ -1974,7 +1974,7 @@ VII. Definir las acciones necesarias para la difusión de las actividades que de
 
 VIII. Dar seguimiento a las actividades y necesidades de los Consejos Ciudadanos y organizar la logística de apoyos que les otorga la Ley de Participación;
 
-IX. Disponer mecanismos y procedimientos para la atención y solución de las controversias que se generen en la integración y funcionamiento los (sic) Órganos de Representación Ciudadana;
+IX. Disponer mecanismos y procedimientos para la atención y solución de las controversias que se generen en la integración y funcionamiento (sic) los Órganos de Representación Ciudadana;
 
 > <small>(REFORMADA, G.O. 30 DE JUNIO DE 2014)</small>
 
@@ -2068,7 +2068,11 @@ El contralor general deberá reunir los siguientes requisitos:
 
 a) No ser consejero electoral de cualquiera de los consejos del Instituto, salvo que se haya separado del cargo tres años antes del día de la designación;
 
-b) Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+b) Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
 c) Contar al momento de su designación con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos;
 
@@ -2314,7 +2318,11 @@ V. Acreditar, mediante constancia oficial, haber residido en el Distrito Elector
 
 Son impedimentos para ocupar el cargo de Consejero Distrital:
 
-I. Haber sido condenado por delito intencional que amerite pena privativa de libertad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+I. Haber sido condenado por delito doloso que amerite pena privativa de libertad;
 
 II. Haber obtenido el registro como precandidato o candidato a un cargo de elección popular, dentro del periodo de tres años previos a la designación;
 
@@ -3532,7 +3540,7 @@ Las funciones de las Coordinaciones estarán determinadas en el Reglamento Inter
 
 El Centro de Capacitación tiene a su cargo la planeación, organización y ejecución de todo tipo de actividades académicas y de investigación sobre derecho electoral, sobre su rama procesal, disciplinas afines y cualquier otra que resulte necesaria para el buen funcionamiento del Tribunal.
 
-Las actividades del Centro de Capacitación tienen por objeto desarrollar la formación profesional del personal del Tribunal, así como contribuir a la creación de la cultura de la democracia y legalidad para los ciudadanos del Distrito Federal, (sic)
+Las actividades del Centro de Capacitación tienen por objeto desarrollar la formación profesional del personal del Tribunal, así como contribuir a la creación de la cultura de la democracia y legalidad para los ciudadanos del Distrito Federal,
 
 En el presupuesto anual del Tribunal se deberán prever las asignaciones correspondientes para tales efectos.
 
@@ -4718,7 +4726,7 @@ Ninguna persona podrá contender de manera simultánea en un mismo proceso elect
 
 Apartado A. Además de lo previsto en el artículo anterior, para obtener el registro como candidato independiente, se deberá presentar un número de firmas de apoyo, con copia simple de la credencial de elector respectiva, que será equivalente al porcentaje de firmas de la lista nominal que establezca la legislación federal para registro de candidatos independientes al cargo de diputado federal. Para la elección de Jefe Delegacional, el listado nominal será el de la delegación; para los diputados locales, el del Distrito Electoral local uninominal, y para Jefe de Gobierno, el de todo el Distrito Federal.
 
-Lo dispuesto en el párrafo anterior respecto al porcentaje de firmas de apoyo, solo será exigible en el caso de que la legislación federal determine que dicho porcentaje será vinculante para las candidaturas independientes en las elecciones locales de las entidades federativas. En caso contrario, el porcentaje de firmas de apoyo exigible será el equivalente al 2% de la lista nominal respectiva, distribuidas en por lo menos el 35% de las delegaciones o distrito (sic) electorales, para la elección de Jefe de Gobierno, o de las secciones electorales de la demarcación o distrito correspondiente, en las elecciones de Jefe Delegacional o diputado a la Asamblea Legislativa, en los términos de la normatividad que al efecto emita el Instituto Electoral. Dicha normatividad establecerá entre otros aspectos, las disposiciones necesarias para armonizar el presente Código con las leyes generales en materia electoral en lo que resulte vinculante; así como las reglas específicas para la (sic) de acreditación de firmas, cuando un distrito electoral abarque el territorio de más de una delegación.
+Lo dispuesto en el párrafo anterior respecto al porcentaje de firmas de apoyo, solo será exigible en el caso de que la legislación federal determine que dicho porcentaje será vinculante para las candidaturas independientes en las elecciones locales de las entidades federativas. En caso contrario, el porcentaje de firmas de apoyo exigible será el equivalente al 2% de la lista nominal respectiva, distribuidas en por lo menos el 35% de las delegaciones o distrito (sic) electorales, para la elección de Jefe de Gobierno, o de las secciones electorales de la demarcación o distrito correspondiente, en las elecciones de Jefe Delegacional o diputado a la Asamblea Legislativa, en los términos de la normatividad que al efecto emita el Instituto Electoral. Dicha normatividad establecerá entre otros aspectos, las disposiciones necesarias para armonizar el presente Código con las leyes generales en materia electoral en lo que resulte vinculante; así como las reglas específicas para la de (sic) acreditación de firmas, cuando un distrito electoral abarque el territorio de más de una delegación.
 
 En todos los casos, el procedimiento para recabar las firmas de apoyo deberá realizarse de conformidad con lo siguiente:
 
@@ -5582,7 +5590,7 @@ III. La Dirección Ejecutiva de Organización y Geoestadistica Electoral deberá
 
 > <small>(REFORMADA, G.O. 30 DE JUNIO DE 2014)</small>
 
-IV. La Dirección Ejecutiva de Organización y Geoestadistica Electoral deberá presentar al Consejo General un informe sobre las observaciones presentadas por los Partidos Políticos al Padrón Electoral y las Listas Nominales de Electores, así como de la repercusión que, en su caso, tuvieran sobre las Listas Nominales de Electores con fotografía definitivas (sic).
+IV. La Dirección Ejecutiva de Organización y Geoestadistica Electoral deberá presentar al Consejo General un informe sobre las observaciones presentadas por los Partidos Políticos al Padrón Electoral y las Listas Nominales de Electores, así como de la repercusión que, en su caso, tuvieran sobre las Listas Nominales de Electores con fotografía definitivas.
 
 > <small>(REFORMADO, G.O. 30 DE JUNIO DE 2014)</small>
 
@@ -7507,3 +7515,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
