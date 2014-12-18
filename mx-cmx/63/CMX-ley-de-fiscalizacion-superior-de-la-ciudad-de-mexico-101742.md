@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fiscalizacion-superior-de-la-ciudad-de-mexico-101742"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-09"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101742&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-06-09"
 
 LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 9 de julio de 2014.
 
@@ -306,7 +306,11 @@ I. Ser mexicano en pleno ejercicio de sus derechos;
 
 II. Poseer título y cédula profesional, de nivel licenciatura en áreas económico-administrativas o derecho y contar con experiencia comprobada de cuando menos cinco años en materia de control gubernamental, auditoría financiera y responsabilidades de servidores públicos, en entes públicos Federales, Estatales o de la Ciudad de México;
 
-III. Ser ciudadano probo y no haber sido condenado mediante sentencia ejecutoriada por delito intencional que amerite pena privativa de libertad, ni haber sido destituido o inhabilitado de la función pública;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III. Ser ciudadano probo y no haber sido condenado mediante sentencia firme o ejecutoriada por delito doloso que amerite pena privativa de libertad, ni haber sido destituido o inhabilitado de la función pública;
 
 IV. Ser vecino de la Ciudad de México, con residencia de cuando menos tres años;
 
@@ -330,7 +334,11 @@ El Auditor Superior el año siguiente a la terminación de su encargo, no podrá
 
 Sólo procederá la remoción del Auditor Superior por las siguientes causas:
 
-I. Incurrir en el desempeño de su encargo en falta de probidad, notoria ineficiencia, incapacidad física o mental, o sea sentenciado por la comisión de algún delito intencional de carácter patrimonial;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+I. Incurrir en el desempeño de su encargo en falta de probidad, notoria ineficiencia, incapacidad física o mental, o sea sentenciado por la comisión de algún delito doloso de carácter patrimonial;
 
 II. Incumplir en la obligación de determinar los daños y perjuicios, y determinar las indemnizaciones y sanciones pecuniarias en los casos que establece esta ley, cuando esté debidamente comprobada la responsabilidad e identificado el responsable como consecuencia de las revisiones e investigaciones que realice;
 
@@ -1297,3 +1305,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
