@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-mental-del-distrito-federal-79829"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-23"
-last_updated: "2014-09-11"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79829&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-02-18"
 
 LEY DE SALUD MENTAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 23 de febrero de 2011.
 
@@ -126,7 +126,9 @@ XIII. Ley: Ley de Salud Mental del Distrito Federal;
 
 XIV. Ley de Salud: Ley de Salud del Distrito Federal;
 
-XV. Paciente bajo custodia: persona con algún trastorno mental que requiere atención médica hospitalaria encontrándose privada de la libertad o sometida a cualquier forma de detención o prisión, el que tenga la calidad de presentado, indiciado, probable responsable, procesado o sentenciado;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XV. Paciente bajo custodia: persona con algún trastorno mental que requiere atención médica hospitalaria encontrándose privada de la libertad o sometida a cualquier forma de detención o prisión, el que tenga la calidad de imputado, acusado, presentado, indiciado, probable responsable, procesado o sentenciado;
 
 XVI. Persona usuaria: toda persona que recibe el beneficio de cualquier programa o campaña de promoción de salud mental, de prevención o manejo de trastornos mentales, encaminadas a la preservación de su salud mental y calidad de vida, y
 
@@ -166,15 +168,17 @@ XXXIII. Tratamiento combinado: sistema terapéutico que integra los aspectos far
 
 XXXIV. Zona Metropolitana del Valle de México: conurbación entre las Delegaciones del Distrito Federal y los Estados y Municipios de México e Hidalgo, entre los cuales existan vinculaciones económicas y sociales que hagan necesaria la planificación conjunta y la coordinación de determinados servicios y obras, basados en la delimitación que realicen las dependencias gubernamentales.
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 6°.
 
-Además de los derechos a que se refiere el artículo 10 de la Ley de Salud, las personas usuarias de los servicios de salud mental, tendrán derecho:
+Además de los derechos a que se refiere el artículo 10 de la Ley de Salud, a las disposiciones legales de los Tratados y Convenios internacionales, las personas usuarias de los servicios de salud mental, tendrán derecho:
 
-I. Al acceso oportuno y adecuado a los servicios de salud mental;
+I. Al acceso oportuno, a una atención integral y adecuada por los servicios de salud mental;
 
-II. A la toma de decisiones relacionadas con su atención y su tratamiento;
+II. A recibir información clara, veraz, oportuna y completa, para la toma de decisiones relacionadas con su atención, diagnóstico, tratamiento y pronóstico;
 
-III. A la atención médica en el momento que lo solicite y, en su caso, a ser atendido en las instancias de salud del segundo y tercer nivel de atención, para completar su proceso de tratamiento y rehabilitación;
+III. A la atención médica en el momento que lo solicite y, en su caso, a ser atendido en las instancias de salud del segundo y tercer nivel de atención, contando con evidencia científica para su tratamiento;
 
 IV. A ser informado sobre las campañas, planes, programas y servicios que proporcione el Gobierno y las instituciones sociales y privadas en materia de salud mental;
 
@@ -184,19 +188,27 @@ VI. A que se informe al padre, madre, tutor o representante legal con veracidad 
 
 VII. A que se le apliquen exámenes de valoración, confiables y actualizados que consideren su entorno social o característica a estudiar y a conocer los alcances y las limitaciones de las evaluaciones realizadas;
 
-VIII. A solicitar su diagnóstico diferencial, a recibir atención especializada, a contar con un plan o programa integral de tratamiento para la recuperación de sus funciones cerebrales, habilidades cognitivas, proceso de aprendizaje, así como a la reinserción al ámbito social y productivo, conservando su integridad psicológica, incluyendo a pacientes que hayan estado recluidos en un hospital o pabellón penitenciario psiquiátrico o establecimiento especializado en adiciones (sic);
+VIII. A solicitar su diagnóstico diferencial, a recibir atención especializada, a contar con un plan o programa integral de tratamiento para la recuperación de sus funciones cerebrales, habilidades cognitivas, proceso de aprendizaje, así como a la reinserción al ámbito social y productivo, conservando su integridad psicológica, incluyendo a pacientes que hayan estado recluidos en un hospital o pabellón penitenciario psiquiátrico o establecimiento especializado en adicciones;
 
-IX. A ser ingresado a algún centro de internamiento mental por prescripción médica, incluyendo conductas o acciones que puedan causarle daño físico inmediato o inminente así mismo, a terceros o la propiedad, cuando la severidad de los síntomas y signos así lo indiquen, conforme a las mejores prácticas de la psicología, la psiquiatría y medicina;
+IX. A ser ingresado a algún centro de internamiento mental por prescripción médica, incluyendo conductas o acciones que puedan causarle daño físico inmediato o inminente así mismo, a terceros o la propiedad, cuando la severidad de los síntomas y signos así lo indiquen, conforme a las mejores prácticas de la psiquiatría y medicina en general. Con autorización por escrito del paciente o familiar responsable.
 
-X. A ser egresado del centro de internamiento mental, sólo cuando el médico tratante considere que puede continuar su tratamiento en forma ambulatoria y que ya no exista el riesgo que su conducta o acciones puedan causarle daño físico inmediato o inminente asimismo, a terceros o la propiedad;
+X. A ser egresado del centro de internamiento mental, sólo cuando el médico tratante considere que puede continuar su tratamiento en forma ambulatoria y que ya no exista el riesgo que su conducta o acciones puedan causarle daño físico inmediato o inminente asimismo, a terceros o la propiedad.
 
 XI. A la rehabilitación que le permita la reinserción familiar, laboral y comunitaria;
 
 XII. A la accesibilidad de familiares u otras personas, en el acompañamiento de las personas usuarias de los servicios de salud mental, salvo que medie contraindicación profesional;
 
-XIII. A recibir un trato digno y con respeto a sus derechos humanos, por parte de sus familiares y a que estos le proporcionen alimentos y cuidados necesarios para su rehabilitación integral, y
+XIII. A otorgar o no su consentimiento informado.
 
-XIV. A que no se divulgue a terceros por alguno de los medios de comunicación existentes, la atención brindada por el personal de salud mental en las diversas instituciones que presten el servicio, cuando no medie su autorización expresa, salvo disposición contraria en esta y demás ordenamientos aplicables.
+XIV. Derecho a recibir o bien rechazar ayuda espiritual o religiosa de acuerdo con sus convicciones y creencias.
+
+XV. A recibir el medicamento que requiera de acuerdo a su disponibilidad y que el mismo se encuentre dentro del Cuadro Básico de Medicamentos;
+
+XVI. Derecho a acceder y mantener el vínculo con el sistema educativo y el empleo, y no ser excluido por causa de su trastorno mental
+
+XVII. A recibir un trato digno y con respeto a sus derechos humanos, por parte de sus familiares y a que estos le proporcionen alimentos y cuidados necesarios para su rehabilitación integral, y
+
+XVIII. A que no se divulgue a terceros por alguno de los medios de comunicación existentes, la atención brindada por el personal de salud mental en las diversas instituciones que presten el servicio, cuando no medie su autorización expresa, salvo disposición contraria en esta y demás ordenamientos aplicables.
 
 ###### Artículo 7°.
 
@@ -230,7 +242,7 @@ XI. Coordinarse con la Secretaría del Trabajo y Fomento al Empleo, a efecto de 
 
 XII. Presentar un informe anual sobre las políticas públicas implementadas en materia de salud mental, así como el estado de avance en el cumplimiento del Programa de Salud Mental para el Distrito Federal y los diversos programas generados, el cual deberán remitir al Consejo y a la Asamblea Legislativa del Distrito Federal, y
 
-XIII. Las demás acciones que contribuyan a la promoción fomento (sic) de la salud mental de la población.
+XIII. Las demás acciones que contribuyan a la promoción (sic) fomento de la salud mental de la población.
 
 ###### Artículo 9°.
 
@@ -432,7 +444,7 @@ La Secretaría invitará a formar parte del Consejo a un representante de la Sec
 
 Los integrantes del Consejo tendrán derecho a voz y voto.
 
-Serán invitados permanentes del Consejo las y los Presidentes de las Comisiones Salud (sic) y Asistencia Social, de Atención a Grupos Vulnerables y de Desarrollo Metropolitano de la Asamblea Legislativa del Distrito Federal.
+Serán invitados permanentes del Consejo las y los Presidentes de las Comisiones (sic) Salud y Asistencia Social, de Atención a Grupos Vulnerables y de Desarrollo Metropolitano de la Asamblea Legislativa del Distrito Federal.
 
 A las sesiones podrán asistir personas expertas invitadas en materia de salud de los sectores público, social y privado que el pleno del Consejo considere para emitir opiniones, aportar información, o apoyar acciones sobre el tema que se defina.
 
@@ -556,7 +568,7 @@ III. El ingreso por orden de autoridad se lleva a cabo cuando lo solicita la aut
 
 Las Instituciones de salud mental sean públicas, sociales o privadas, deberán:
 
-I. Abstenerse de todo tipo de discriminación sobre la base de la discapacidad, velando por que la voluntad de la persona con trastorno mental prevalezca, atendiendo en todo momento al respeto de los derechos humanos las (sic) personas internadas;
+I. Abstenerse de todo tipo de discriminación sobre la base de la discapacidad, velando por que la voluntad de la persona con trastorno mental prevalezca, atendiendo en todo momento al respeto de los derechos humanos (sic) las personas internadas;
 
 II. Evitar su aislamiento, permitiendo en todo momento la visita de sus familiares o persona que ejerza la legítima representación, previa autorización del médico tratante;
 
@@ -737,3 +749,19 @@ SEGUNDO.- La Secretaría de Salud del Distrito Federal en coordinación con la s
 TERCERO.- La Asamblea Legislativa del Distrito Federal autorizará para el ejercicio fiscal 2015 los recursos presupuestales necesarios para que la Secretaría de Salud del Distrito Federal pueda cumplir con lo dispuesto en el ARTÍCULO SEGUNDO TRANSITORIO del presente Decreto.
 
 CUARTO.- Remítase el presente Decreto al Jefe de Gobierno del Distrito Federal, para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 23 DE SEPTIEMBRE DE 2014.
+
+Artículo Primero.- El presente decreto entrará en vigor a los noventa días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
