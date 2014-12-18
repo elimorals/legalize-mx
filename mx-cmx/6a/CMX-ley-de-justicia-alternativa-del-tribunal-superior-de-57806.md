@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-alternativa-del-tribunal-superior-de-57806"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-08"
-last_updated: "2013-06-19"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57806&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-20"
 
 LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 8 de enero de 2008.
 
@@ -156,13 +156,19 @@ II. En materia mercantil, las que deriven de relaciones entre comerciantes, en r
 
 III. En materia familiar, las controversias que deriven de las relaciones entre las personas que se encuentren unidas en matrimonio, concubinato, sociedad de convivencia o, aun cuando no se encuentren en dichos supuestos, tengan hijos en común; entre personas unidas por algún lazo de parentesco por consanguinidad, por afinidad o civil; así como los que surjan de esas relaciones con terceros.
 
-> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-IV. En materia penal, en el marco de la justicia restaurativa, las controversias entre particulares originadas por la comisión de una conducta tipificada como delito por las leyes penales del Distrito Federal, siempre que se persiga por querella de parte ofendida y en cualquier caso no considerado grave perseguible de oficio, en cuanto a la reparación del daño.
+IV. En materia penal, en el marco de la justicia restaurativa, las controversias entre particulares originadas por la comisión de un delito, y éste:
 
-> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2011)</small>
+a).- Se persiga por querella o requisito equivalente de parte ofendida;
 
-V. En materia de justicia para adolescentes, en el marco de la justicia restaurativa, en las controversias originadas por las conductas tipificadas como delitos en las leyes penales del Distrito Federal, ejecutadas por las personas mayores de doce años y menores de dieciocho años de edad, siempre que dichas conductas no sean consideradas como delitos graves.
+b).- Sea un delito culposo; o
+
+c).- Sea un delito o un delito patrimonial cometido sin violencia sobre las personas; o no se trate de delitos de violencia familiar;
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+V. En materia de justicia para adolescentes, en los supuestos previstos en la Ley de Justicia para Adolescentes, siempre que dichas conductas no sean consideradas como delitos graves.
 
 ###### Artículo 6.
 
@@ -226,7 +232,7 @@ VII. El apoyo al trabajo jurisdiccional del Tribunal;
 
 VIII. El diseño y actualización de su normatividad interna, que será aprobada por el Pleno del Consejo;
 
-IX. La optimación de sus servicios a través de la aplicación de programas de investigación, planeación y modernización científica y tecnológica; y (sic)
+IX. La optimación de sus servicios a través de la aplicación de programas de investigación, planeación y modernización científica y tecnológica; y
 
 > <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2011)</small>
 
@@ -254,7 +260,9 @@ V. Haber residido en el Distrito Federal durante el último año anterior al dí
 
 VI. Gozar de buena reputación; y
 
-VII. No haber sido condenado por delito doloso.
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VII. No haber sido sentenciado, mediante sentencia condenatoria ejecutoriada, por un delito doloso.
 
 ###### Artículo 12.
 
@@ -334,7 +342,7 @@ El Centro contará con un registro de mediadores tanto públicos como privados.
 
 Para ser mediador se deberá cumplir los siguientes requisitos:
 
-> <small>(ADICIONADO PRIMER PARRAFO, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 8 DE FEBRERO DE 2011)</small>
 
 A) Para ser mediador público adscrito al Centro:
 
@@ -378,9 +386,9 @@ II. Contar con título y cédula profesionales de Licenciatura en Derecho, así 
 
 III. Gozar de buena reputación profesional y reconocida honorabilidad;
 
-> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-IV. No haber sido condenado, mediante sentencia ejecutoriada, por delito doloso que merezca pena corporal;
+IV. No haber sido sentenciado, mediante sentencia condenatoria ejecutoriada, por delito doloso que merezca pena privativa de libertad;
 
 > <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
 
@@ -442,7 +450,7 @@ El servicio público de mediación será prestado por el Centro por conducto de 
 
 Los mediados que sean atendidos en el Centro, podrán recusar al Mediador o al Co-Mediador designado y solicitar al Director General del Centro la sustitución de los mismos, mediante petición expresa por escrito y cuando se actualicen alguno de los supuestos previstos en el artículo anterior.
 
-(REFORMADO PRIMER PARRAFO, G.O. 8 DE FEBRERO DE 2011) (REUBICADO, G.O. 19 DE JUNIO DE 2013)
+(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE FEBRERO DE 2011) (REUBICADO, G.O. 19 DE JUNIO DE 2013)
 
 ###### Artículo 21.
 
@@ -1048,7 +1056,7 @@ El mediador sancionado podrá recurrir la resolución del Comité ante el Consej
 
 ###### Artículo 58.
 
-Comete infracción el mediador que incumpla las obligaciones previstas en esta Ley y en el incumplimiento de las obligaciones establecidas en Reglamento (sic) y las Reglas.
+Comete infracción el mediador que incumpla las obligaciones previstas en esta Ley y en el incumplimiento de las obligaciones establecidas en (sic) Reglamento y las Reglas.
 
 Las sanciones administrativas aplicables a los mediadores privados serán impuestas por el Comité, órgano que fundará y motivará su resolución, tomando en cuenta la gravedad de la infracción; la calidad de reincidente del infractor, entendiendo por reincidencia, que el infractor haya sido sancionado por violaciones a las disposiciones de esta Ley, el Reglamento y de las Reglas dentro del periodo de vigencia de la certificación y registro, y el beneficio obtenido por el infractor como resultado de la infracción en su caso.
 
@@ -1112,7 +1120,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los trece días del m
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinte días del mes de diciembre del año dos mil siete. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 8 DE FEBRERO DE 2011.
 
@@ -1126,7 +1134,7 @@ Cuarto. Se derogan las disposiciones que se opongan al presente Decreto.
 
 Quinto. Los actuales orientadores con que cuenta el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal pasarán a ocupar el cargo de mediador.
 
-Sexto. El Tribunal Superior de Justicia del Distrito Federal contará con sesenta días naturales posteriores a la publicación del presente Decreto para modificar el Reglamento Interno Centro (sic) de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal así como las disposiciones administrativas que lo requieran.
+Sexto. El Tribunal Superior de Justicia del Distrito Federal contará con sesenta días naturales posteriores a la publicación del presente Decreto para modificar el Reglamento Interno (sic) Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal así como las disposiciones administrativas que lo requieran.
 
 Séptimo. El Consejo de la Judicatura del Distrito Federal evaluará la conveniencia de iniciar la aplicación de cuotas de recuperación a que se refiere el artículo 40, a efecto de evitar que se desaliente la utilización de los servicios de mediación, para lo cual diseñara un programa de mediano plazo para la aplicación de cuotas de manera escalonada.
 
@@ -1145,3 +1153,13 @@ QUINTO. Los mediadores privados con certificación y registro vigente ante el Tr
 SEXTO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
 
 SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
