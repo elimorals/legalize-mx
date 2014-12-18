@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-el-distrito-federal-15943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-02-14"
 
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -536,9 +536,11 @@ Queda prohibido a los notarios:
 
 I. Actuar con parcialidad en el ejercicio de sus funciones y en todas las demás actividades que esta ley le señala;
 
-> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Dar fe de actos que dentro de los procedimientos legales respectivos corresponda en exclusiva hacerlo a algún servidor público; sin embargo, sin tener en principio ese valor procedimental exclusivo, sí podrán cotejar cualquier tipo de documentos, registros y archivos públicos y privados o respecto a ellos u otros acontecimientos certificar hechos, situaciones o abstenciones que guarden personas o cosas relacionadas o concomitantes con averiguaciones, procesos o trámites, lo cual tendrá valor como indicio calificado respecto de los mismos, sujeto a juicio de certeza judicial, y solo será prueba plena con relación a aspectos que no sean parte esencial de dichas facultades públicas, aspectos que deberá precisar en el instrumento indicado, salvo las copias de constancias que obren en expedientes judiciales que le hayan sido turnados por un juez para la elaboración de algún instrumento, que podrá cotejar a solicitud de quien haya intervenido en el procedimiento o haya sido autorizado en él para oír notificaciones;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. Dar fe de actos que dentro de los procedimientos legales respectivos corresponda en exclusiva hacerlo a algún servidor público; sin embargo, sin tener en principio ese valor procedimental exclusivo, sí podrán cotejar cualquier tipo de documentos, registros y archivos públicos y privados o respecto a ellos u otros acontecimientos certificar hechos, situaciones o abstenciones que guarden personas o cosas relacionadas o concomitantes con investigaciones en materia penal, procesos o trámites, los que podrán presentarse en los procedimientos jurisdiccionales o administrativos que corresponda, y que serán valorados en los términos que establezca la legislación aplicable, salvo las copias de constancias que obren en expedientes judiciales que le hayan sido turnados por un juez para la elaboración de algún instrumento, que podrá cotejar a solicitud de quien haya intervenido en el procedimiento o haya sido autorizado en él para oír notificaciones.
 
 III. Actuar como notario en instrumentos o asuntos en que tengan interés, disposición a favor, o intervengan por sí, representados por o en representación de terceros, el propio notario, su cónyuge o parientes consanguíneos o afines hasta el cuarto y segundo grados, respectivamente, o sus asociados o suplentes y los cónyuges o parientes de ellos en los mismos grados o en asuntos en los cuales tenga esta prohibición el o los notarios asociados, o el notario suplente;
 
@@ -640,7 +642,11 @@ II. Estar en pleno ejercicio de sus derechos y gozar de facultades físicas y me
 
 III. Ser profesional del Derecho, con título de abogado o licenciado en Derecho y con cédula profesional;
 
-IV. No estar sujeto a proceso, ni haber sido condenado por sentencia ejecutoriada, por delito intencional;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. No estar sujeto a proceso, ni haber sido sentenciado por sentencia ejecutoriada, por delito doloso;
 
 > <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
 
@@ -1924,11 +1930,11 @@ La autoridad competente concederá licencia, por el tiempo que dure en el ejerci
 
 Los notarios sólo podrán ser suspendidos en el ejercicio de sus funciones por las siguientes causas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-I. La pérdida de la libertad por dictarse auto de formal prisión u orden de arraigo en su contra, mientras subsista la privación de libertad o el arraigo, hasta en tanto cause ejecutoria la sentencia que en su caso lo absuelva o se le perdone, o termine el arraigo;
+I. La pérdida de la libertad por dictarse en su contra prisión preventiva u orden de arraigo, mientras subsista la privación de libertad o el arraigo, hasta en tanto cause ejecutoria la sentencia que en su caso lo absuelva o se le perdone, o termine el arraigo;
 
 II. Por padecer incapacidad física o mental que le impida actuar, en cuyo caso la suspensión durará todo el tiempo que subsista el impedimento;
 
@@ -1940,21 +1946,25 @@ IV. Por las demás que procedieran conforme a las leyes.
 
 En el supuesto previsto en la fracción II del artículo anterior, la autoridad competente, en cuanto tenga conocimiento del hecho procederá a abrir investigación administrativa, la que integrará con la visita del inspector a la notaría a requerir información sobre el hecho; con el dictamen médico emitido por dos peritos médicos acreditados por las autoridades de salud del Distrito Federal y por otros tantos designados por el interesado o el colegio, en los que se funde y precise la naturaleza del impedimento, la atención médica que requiere el paciente y el diagnóstico procedente sobre su rehabilitación, y con la audiencia al interesado y al Colegio, la referida autoridad hará la declaratoria correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 196.
 
-Cuando se dicte auto de formal prisión o exista sentencia condenatoria privativa de la libertad por delito intencional que haya quedado firme, contra un aspirante o Notario, el juez lo comunicará inmediatamente a las Autoridades competentes y al Colegio.
+Cuando se dicte como medida cautelar la prisión preventiva o exista sentencia condenatoria que consista en la privación de la libertad por delito doloso, que haya quedado firme, contra un aspirante o Notario, el juez lo comunicará inmediatamente a las Autoridades competentes y al Colegio.
 
-El Ministerio Público y los jueces, notificarán a las Autoridades competentes y al Colegio del inicio y conclusión de las averiguaciones previas y procedimientos que involucren a los Notarios con motivo del ejercicio de la función notarial. El colegio queda facultado para imponerse de los referidos procedimientos y opinar, en su caso.
+El Ministerio Público y los jueces, notificarán a las Autoridades competentes y al Colegio del inicio y conclusión de las averiguaciones previas o investigaciones y procedimientos que involucren a los Notarios con motivo del ejercicio de la función notarial. El colegio queda facultado para imponerse de los referidos procedimientos y opinar, en su caso.
 
 ###### Artículo 197.
 
 Son causas de cesación del ejercicio de la función notarial y del cargo de notario:
 
-I. Haber sido condenado por delito intencional, por sentencia ejecutoriada, privativa de la libertad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+I. Haber sido sentenciado mediante sentencia ejecutoriada, por un delito doloso que amerite pena privativa de libertad;
 
 II. La revocación de la patente, en los casos previstos por esta ley;
 
@@ -2128,19 +2138,17 @@ Cuando se trate de visitas que deban practicarse a notarios asociados o suplente
 
 #### Sección Segunda. De las Responsabilidades y Sanciones
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 222.
 
-Los notarios son responsables por los delitos o faltas que cometan en el ejercicio de su función, en los términos que previenen las leyes penales del fuero común y federales. De la responsabilidad civil en que incurran los notarios en el ejercicio de sus funciones conocerán los Tribunales. De la responsabilidad administrativa en que incurran los notarios por violación a los preceptos de esta ley, conocerán las Autoridades competentes. De la responsabilidad colegial conocerá la Junta de Decanos, que estimará si amerita el asunto encausarse a través la (sic)
+Los notarios son responsables por los delitos o faltas que cometan en el ejercicio de su función, en los términos que previenen las leyes penales y procesales penales que sean aplicables al Distrito Federal, y en su caso, las del fuero federal. De la responsabilidad civil en que incurran los notarios en el ejercicio de sus funciones conocerán los Tribunales. De la responsabilidad administrativa en que incurran los notarios por violación a los preceptos de esta ley, conocerán las Autoridades competentes. De la responsabilidad colegial conocerá la Junta de Decanos, que estimará si amerita el asunto encausarse a través la (sic) Comisión de Arbitraje, Legalidad y Justicia. De la responsabilidad fiscal en que incurra el notario en ejercicio de sus funciones, conocerán las autoridades tributarias locales o federales, según el caso. Salvo los casos expresamente regulados por las leyes, la acción para exigir responsabilidad administrativa a un notario, prescribe en ocho años.
 
-Comisión de Arbitraje, Legalidad y Justicia. De la responsabilidad fiscal en que incurra el notario en ejercicio de sus funciones, conocerán las autoridades tributarias locales o federales, según el caso. Salvo los casos expresamente regulados por las leyes, la acción para exigir responsabilidad administrativa a un notario, prescribe en ocho años.
+Cuando se promueva algún proceso por responsabilidad en contra de un notario, el juez podrá admitir como medio de prueba o prueba pericial profesional, si así se ofreciere y fuere pertinente, la opinión del colegio.
 
-Cuando se promueva algún juicio por responsabilidad en contra de un notario, el juez admitirá como prueba pericial profesional, si así se ofreciere, la opinión del colegio.
-
-Siempre que se inicie una averiguación previa en la que resulte indiciado un notario como resultado del ejercicio de sus funciones, el Ministerio Público solicitará opinión del colegio respecto de la misma, fijándole un término prudente para ello, para lo cual el presidente del colegio o el consejero que éste designe podrá imponerse de las actuaciones del caso.
+Cuando se inicie una averiguación previa o investigación en la que resulte indiciado o imputado un notario como resultado del ejercicio de sus funciones, el Ministerio Público podrá solicitar opinión del colegio respecto de la misma, para lo cual se le fijará un término prudente para ello, para lo cual el presidente del colegio o el consejero que éste designe podrá imponerse de las actuaciones del caso.
 
 ###### Artículo 223.
 
@@ -2863,3 +2871,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
