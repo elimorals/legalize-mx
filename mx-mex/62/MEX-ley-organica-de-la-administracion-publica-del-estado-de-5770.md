@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2014-12-17"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -332,6 +330,8 @@ XXXI. Establecer, integrar, supervisar, utilizar y mantener actualizados los ins
 > <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 XXXII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>N. DE E. EL PRESENTE ARTÍCULO FUE DEROGADO MEDIANTE DECRETO 361 PUBLICADO EL 17 DE DICIEMBRE DE 2014 SESIONADO POR EL CONGRESO DEL ESTADO EL 17 DE DICIEMBRE DE 2014. EL 18 DE DICIEMBRE DE 2014 FUE REFORMADO ESTE ARTÍCULO SESIONADO POR EL CONGRESO DEL ESTADO EL 11 DE DICIEMBRE DE 2014 "Artículo 21 Bis.- ... I. a XXII. …XXIII. Retirar los vehículos, tráileres, autobuses y cualquier tipo de remolques abandonados en la infraestructura vial y remitirlos al depósito vehicular más cercano; XXIV. …" POR LO QUE SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.</small>
 
 ###### Artículo 21 Bis.
 
@@ -647,7 +647,13 @@ En los convenios antes mencionados que celebre el Estado se podrán estipular la
 
 LV. Hacer efectivas las garantías otorgadas bajo cualquier modalidad a favor del Gobierno del Estado de México, mediante los procedimientos previstos en las disposiciones legales y reglamentarias aplicables.
 
-LVI. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+LVI. Determinar el destino final tratándose de tráileres, autobuses y cualquier tipo de remolques, una vez declarados abandonados;
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+LVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado de México.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -685,7 +691,7 @@ V. Planear, organizar, dirigir, coordinar y evaluar el Sistema Estatal de Salud,
 
 VI. Coordinar la prestación de servicios de atención médica, salud pública y regulación sanitaria en el Estado; y convenir en lo conducente, con cualquier otro sector que promueva acciones en estas materias;
 
-VII. Planear, operar, controlar y evaluar el Sistema Estatal de Donación de Organos Humanos para transplante (sic);
+VII. Planear, operar, controlar y evaluar el Sistema Estatal de Donación de Organos Humanos para transplane (sic);
 
 VIII. Planear, operar, controlar y evaluar el Sistema de Información de Salud del Estado de México, participando todas las dependencias y organismos auxiliares que proporcionen servicios de salud, así como el Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
@@ -975,9 +981,17 @@ XVII.- Determinar la apertura o modificación de vías públicas;
 
 XVIII.- Participar en las comisiones de carácter regional y metropolitano en la que se traten asuntos sobre asentamientos humanos, desarrollo urbano y vivienda.
 
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XIX.- Ampliar y fortalecer los mecanismos de coordinación con los gobiernos Federal, del Distrito Federal, de las entidades federativas vecinas y de los municipios conurbados, para atender de manera integral los asuntos de carácter metropolitano;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XIX.- Determinar el uso de suelo para las zonas especiales donde se establecerán los conjuntos urbanos de unidades económicas que su actividad principal sea la venta de vehículos usados en tianguis de autos y de aprovechamiento de autopartes de vehículos usados que han concluido su vida útil o siniestrados;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014) N. DE E. VÉASE LITERALIDAD DEL DECRETO, PÁGINA 57.
+
+XX (SIC).- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
 > <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -1333,11 +1347,13 @@ XIV.- Supervisar la construcción, conservación, mantenimiento, operación y ad
 
 XV.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 36.
 
-La Secretaría de Desarrollo Económico es la dependencia encargada de regular, promover y fomentar el desarrollo económico del Estado.
+La Secretaría de Desarrollo Económico es la dependencia encargada de regular, promover, fomentar y atender el desarrollo económico del Estado.
 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1411,15 +1427,35 @@ XIII. Expedir Normas Técnicas en las materias de su competencia;
 
 XIV. Vigilar el debido cumplimiento del Dictamen de Factibilidad Comercial Automotriz, a través de visitas de verificación, así como la aplicación de las medidas de seguridad e imposición de sanciones que le correspondan en el ámbito de sus atribuciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-XV. Las demás que señalen las leyes y reglamentos vigentes en el Estado;
+XV. Crear, operar y mantener actualizado el Sistema de Unidades Económicas;
 
-XVI. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XVII. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XVI. Crear y operar el Registro Estatal de Unidades Económicas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XVII. Instalar y operar las ventanillas de gestión y mantener actualizada la información del Sistema en coordinación con los ayuntamientos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XVIII. Emitir dictamen técnico para la ubicación de las zonas especiales de unidades económicas que su actividad principal sea la venta de vehículos usados de tianguis de autos o aprovechamiento de autopartes de los vehículos usados que han concluido su vida útil o siniestrados;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XIX. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -1543,7 +1579,7 @@ VI. Comprobar el cumplimiento por parte de las dependencias, organismos auxiliar
 
 VII. Realizar por sí o a solicitud de parte, auditorías y evaluaciones a las dependencias, organismos auxiliares y fideicomisos de carácter estatal, con el fin de promover la eficacia y transparencia en sus operaciones y verificar de acuerdo con su competencia el cumplimiento de los objetivos y metas contenidos en sus programas, de manera trimestral a los programas de mejora regulatoria y a la actualización del Registro Estatal de Trámites y Servicios.
 
-VIII. Inspeccionar y vigilar directamente o a través de los órganos de control, que las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, cumplan con las normas y disposiciones en materia de: sistema de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos materiales de la administración pública estatal.
+VIII. Inspeccionar y vigilar, directamente o a través de los órganos de control, que las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, cumplan con las normas y disposiciones en materia de: sistema de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos materiales de la administración pública estatal.
 
 IX. Vigilar en los términos de los convenios respectivos, que los recursos federales y estatales que ejerzan directamente los municipios, se apliquen conforme a lo estipulado en los mismos.
 
@@ -1677,9 +1713,19 @@ XXXII. Definir las directrices y dictar los lineamientos que en materia jurídic
 
 XXXIII. Llevar el registro de autógrafos, legalizar y certificar las firmas de los funcionarios estatales, de los presidentes y secretarios municipales y de los demás funcionarios a quienes esté encomendada la fe pública; y
 
-> <small>(ADICIONADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-XXXIV. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Gobernador.
+XXXIV. Nombrar y remover, previo acuerdo con el Gobernador, a los titulares o funcionarios análogos, responsables de las áreas jurídicas de las dependencias y organismos auxiliares del Poder Ejecutivo del Estado.
+
+Para efectos de lo establecido en esta fracción se considerará la opinión de los titulares de las dependencias y organismos auxiliares respectivos;
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XXXV. Requerir de las áreas jurídicas de las dependencias y organismos auxiliares del Poder Ejecutivo del Estado, todo tipo de colaboración, informes o documentos sobre los asuntos que conozcan;
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XXXVI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Gobernador.
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -2594,3 +2640,53 @@ SÉPTIMO.- Los asuntos y demás procedimientos que se encuentren en trámite en 
 OCTAVO.- Se derogan las disposiciones de igual o menor jerarquía contrarias a las contenidas en el presente Decreto.
 
 NOVENO.- El Titular del Ejecutivo del Estado, expedirá las disposiciones reglamentarias y reformas a otros ordenamientos jurídicos, respectivamente, en un plazo no mayor a treinta días, posteriores a la entrada en vigor del presente Decreto.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 367, POR EL QUE SE REFORMA LA FRACCIÓN XIX Y ADICIONA LA FRACCIÓN XX DEL ARTÍCULO 31, SE REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES XV, XVI Y XVII Y ADICIONA LA FRACCIÓN XVIII Y XIX DEL ARTÍCULO 36 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
+
+CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
+
+QUINTO. Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
+
+SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 18 de julio de 2013.
+
+NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
+
+DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 378, POR EL QUE SE REFORMA LA FRACCIÓN XXXIV Y SE ADICIONAN LAS FRACCIONES XXXV Y XXXVI AL ARTÍCULO 38 TER DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 380, POR EL QUE SE REFORMAN LOS ARTÍCULOS 21 BIS EN SU FRACCIÓN XXIII Y 24 EN SU FRACCIÓN LVI Y SE ADICIONA LA FRACCIÓN LVII AL ARTÍCULO 24 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- En un término de noventa días naturales a partir de la entrada en vigor del presente Decreto, todos los tráileres, autobuses y cualquier tipo de remolques que los concesionarios tengan bajo su resguardo, por más de dos años, serán susceptibles de incluirse en el procedimiento de declaración de abandono para los efectos de enajenación previsto, por lo que deberán informar a la Secretaría del Transporte de tal situación, con excepción de los tráileres, autobuses y cualquier tipo de remolques que tengan reporte de robo, números remarcados o alterados, porten placas de procedencia extranjera, los cuales deberán hacer del conocimiento al Ministerio Público para que determine lo procedente.
+
+CUARTO.- En un plazo no mayor a treinta días naturales a partir de la entrada en vigor del presente Decreto, la Secretaría de Transporte, enviará a la Secretaría de Seguridad Ciudadana, el padrón de los depósitos vehiculares debidamente concesionados.
+
+QUINTO.- Los Municipios del Estado, dentro de sus respectivos ámbitos de competencia, coadyuvarán al cumplimiento del presente Decreto a través de los mecanismos de coordinación que para tal efecto establezca la Secretaría de Seguridad Ciudadana.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
