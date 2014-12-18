@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2014-11-14"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -3291,11 +3291,13 @@ Finalidad de la petición de herencia
 
 11.- La petición de herencia se ejercitará para que sea declarado heredero el actor, se le haga entrega de los bienes hereditarios con sus accesiones, se le rindan cuentas y se le indemnice.
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 Acciones del copropietario
 
 ###### Artículo 2.
 
-12.- El copropietario puede deducir las acciones relativas al bien común, en calidad de dueño, salvo pacto en contrario o ley especial. No puede, sin embargo, transigir ni comprometer en árbitros el negocio, sin consentimiento unánime de los condueños.
+12.- El copropietario puede deducir las acciones relativas al bien común, en calidad de dueño, salvo pacto en contrario o Ley Especial. La acción reivindicatoria puede ser ejercida por todos los copropietarios del bien común, una parte de ellos o uno solo, debiendo el Juzgador en este caso, llamar a todos al juicio ante la existencia de un litisconsorcio activo necesario. Por otro lado, el copropietario, no podrá transigir ni comprometer en árbitros el negocio, sin consentimiento unánime de los condueños.
 
 Legitimación activa en el interdicto de retener la posesión
 
@@ -7409,9 +7411,17 @@ De la demanda, reconvención y su contestación
 
 1.- Las controversias sobre el estado civil de las personas y del derecho familiar, se tramitarán de acuerdo con las reglas que se señalan en este Libro, y en lo no previsto, con las del Libro Segundo de este ordenamiento.
 
-> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-Las controversias de derecho familiar, se consideran de orden público por constituir la base de la integración de la sociedad, estando facultado el juzgador para actuar de oficio, especialmente tratándose de menores, discapacitados, en materia de alimentos y de las cuestiones relacionadas con violencia familiar, decretando las medidas cautelares tendentes a preservar la familia y a proteger a sus miembros.
+Las controversias de derecho familiar, se consideran de orden público por constituir la base de la integración de la sociedad, estando facultado el juzgador para actuar de oficio, especialmente tratándose de menores, discapacitados, en materia de alimentos, guarda y custodia, patria potestad y de las cuestiones relacionadas con violencia familiar, decretando las medidas cautelares tendentes a preservar la familia y a proteger a sus miembros.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Tratándose de asuntos de reconocimiento de paternidad, el juzgador no requerirá nombrar a un tutor a favor del menor, excepto cuando quien lo promueva en su nombre tenga un interés opuesto al del menor.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+El juez dictará las medidas tendientes a garantizar de manera provisional y definitiva el derecho de los menores y de los padres a gozar de la convivencia familiar, velando en todo momento por la integridad física y emocional del menor.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7485,15 +7495,13 @@ Traslado del personal
 
 7.- El juez podrá ordenar el traslado del personal de actuaciones y terceros, al domicilio o lugar donde se encuentren las cosas o personas sobre las que se deba desahogar algún medio probatorio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 Suplencia de la queja
 
 ###### Artículo 5.
 
-8.- En el conocimiento y decisión de las controversias relacionadas con el derecho familiar y del estado civil de las personas, el juez podrá suplir la deficiencia de la queja.
+8.- En el conocimiento y decisión de las controversias relacionadas con el derecho familiar y del estado civil de las personas, el juez podrá suplir la deficiencia de la queja e incluso analizar cuestiones distintas a las planteadas por las partes, si ello resulta imprescindible para proteger debidamente el interés de la familia y en particular, los derechos e intereses de los menores.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8163,7 +8171,21 @@ Admisión de medios de prueba
 
 Cuando se advierta la falta de algún requisito en el ofrecimiento de una prueba, el juez requerirá a la oferente para que lo subsane en ese acto, de no hacerlo en sus términos, la inadmitirá.
 
-En los asuntos donde se controviertan derechos de menores e incapaces o en materia de alimentos a favor del acreedor alimentario, el juez podrá ordenar el desahogo y práctica de cualquier medio probatorio.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+En los asuntos donde se controviertan derechos de menores e incapaces o en materia de alimentos a favor del acreedor alimentario, así como cuando se planteé la guarda y custodia y patria potestad, el juez podrá ordenar el desahogo y práctica de cualquier medio probatorio.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+En materia de guarda y custodia de menores se practicarán de forma oficiosa periciales en materia de psicología familiar y trabajo social.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Presunción de filiación
+
+###### Artículo 5.
+
+56 Bis.- En los juicios de paternidad cuando no obstante se hayan aplicado medidas de apremio a los presuntos ascendientes y éstos se niegan a practicarse la pericial en materia genética de ácido desoxirribonucleico, operará en su contra la presunción de filiación, salvo prueba en contrario.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -8391,25 +8413,21 @@ Tramite de la apelación
 
 78.- El trámite y substanciación del recurso de apelación, se sujetará a las disposiciones generales de este código, con la salvedad de que en el auto de la calificación del grado, en su caso, se realizará el turno respectivo para su resolución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Recepción dé pruebas en segunda instancia
+Recepción de pruebas en segunda instancia
 
 ###### Artículo 5.
 
-79.- La Sala podrá ordenar la recepción o ampliación de pruebas, cuando se trate asuntos que afecten los derechos de menores o incapaces y en materia de alimentos a favor del acreedor alimentario.
+79.- La Sala podrá ordenar la recepción o ampliación de pruebas, cuando se trate asuntos que afecten los derechos de menores o incapaces y en materia de alimentos, guarda y custodia y patria potestad a favor del acreedor alimentario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 Reposición del procedimiento
 
 ###### Artículo 5.
 
-80.- Sólo podrá decretarse la reposición del procedimiento con reenvío al juzgado de origen, por ausencia de algún presupuesto procesal esencial o por una violación procesal manifiesta, cuando haya trascendido al resultado del fallo; o bien, cuando en suplencia de la queja de menores o incapaces y en materia de alimentos a favor del acreedor alimentario, estime necesario el desahogo de medios probatorios.
+80.- Sólo podrá decretarse la reposición del procedimiento con reenvío al juzgado de origen, por ausencia de algún presupuesto procesal esencial o por una violación procesal manifiesta, cuando haya trascendido al resultado del fallo; o bien, cuando en suplencia de la queja de menores o incapaces y en materia de alimentos, guarda y custodia y patria potestad a favor del acreedor alimentario, estime necesario el desahogo de medios probatorios.
 
 T R A N S I T O R I O S
 
@@ -8682,3 +8700,25 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. La Legislatura del Estado proveerá los recursos necesarios para el funcionamiento del Registro de Deudores Alimentarios Morosos.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 372 POR EL QUE SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 5.1, EL ARTÍCULO 5.8, EL PÁRRAFO TERCERO DEL ARTÍCULO 5.56, EL ARTÍCULO 5.79 Y EL ARTÍCULO 5.80. SE ADICIONAN UN PÁRRAFO TERCERO Y CUARTO AL ARTÍCULO 5.1, UN CUARTO PÁRRAFO AL ARTÍCULO 5.56 Y EL ARTÍCULO 5.56 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto, perdiendo vigor al momento de esta publicación.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 373 POR EL QUE SE REFORMA EL ARTÍCULO 2.12 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en proceso, se resolverán conforme a las disposiciones vigentes al momento en que iniciaron.
