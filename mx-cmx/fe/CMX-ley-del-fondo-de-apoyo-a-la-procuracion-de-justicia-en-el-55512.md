@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-fondo-de-apoyo-a-la-procuracion-de-justicia-en-el-55512
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-17"
-last_updated: "2009-09-09"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55512&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2007-05-02"
 ---
 # LEY DEL FONDO DE APOYO A LA PROCURACION DE JUSTICIA EN EL DISTRITO FEDERAL
 
-LEY DEL FONDO DE APOYO A LA PROCURACION DE JUSTICIA EN EL DISTRITO FEDERAL
+LEY DEL FONDO DE APOYO A LA PROCURACIÓN DE JUSTICIA EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de mayo de 2007.
 
@@ -70,7 +70,7 @@ La Procuraduría, la Procuraduría General de Justicia del Distrito Federal;
 
 El Fidecomiso, el contrato de fidecomiso que se celebre para la administración y operación del Fondo;
 
-y, (sic)
+y,
 
 La Ley, la Presente Ley.
 
@@ -86,7 +86,9 @@ El Fondo de Apoyo a la Procuración de Justicia, se integra con:
 
 I. Fondo propio, constituido por:
 
-a) El monto de las cauciones otorgadas ante el Ministerio Público para garantizar la libertad bajo caución, que se hagan efectivas en los casos señalados por el Código de Procedimientos Penales del Distrito Federal.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+a) El monto de las cauciones otorgadas ante el Ministerio Público para garantizar la libertad bajo caución, que se hagan efectivas en los casos señalados en la legislación de procedimientos penales aplicable al Distrito Federal.
 
 b) El monto de los depósitos realizados ante el Ministerio Público para garantizar la libertad bajo caución, que no hayan sido reclamadas por el interesado, en los términos prescritos por el Código Penal, en los casos en que se decrete definitivamente el no ejercicio de la acción penal.
 
@@ -118,9 +120,19 @@ b) Los Productos de las enajenaciones de los bienes no reclamados en las averigu
 
 Los depositantes no percibirán interés, rendimiento o contraprestación alguna por los depósitos que efectúen en términos de la fracción anterior. Los certificados, billetes de depósito, o recibos que emita la Procuraduría, insertarán de manera íntegra el presente párrafo de este precepto y contendrán la aceptación del depositante al mismo y a las demás condiciones propias del depósito.
 
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 5 Bis.
+
+El Fondo de Apoyo a la Procuración de Justicia se integrará además con:
+
+a) Los bienes sobre los cuales se haya declarado abandono, previa enajenación y liquidación que prevé el Código Nacional de Procedimientos Penales.
+
+b) La parte que corresponda del numerario decomisado y los recursos que se obtengan por la enajenación de los bienes decomisados, una vez que se haya satisfecho la reparación a la víctima, en los términos a que se refiere el artículo 250 del Código Nacional de Procedimientos Penales.
+
 ###### Artículo 6.
 
-De los recursos a que se refiere la fracción II del articulo anterior, el Fondo tendrá exclusivamente la tenencia y administración, hasta en tanto se les otorgue el destino o aplicación que corresponda por mandamiento de la autoridad a cuya disposición se encuentren.
+De los recursos a que se refiere la fracción II del artículo anterior, el Fondo tendrá exclusivamente la tenencia y administración, hasta en tanto se les otorgue el destino o aplicación que corresponda por mandamiento de la autoridad a cuya disposición se encuentren.
 
 ###### Artículo 7.
 
@@ -140,7 +152,7 @@ I. Invertirá las cantidades que integran el Fondo en la adquisición de título
 
 II. En el informe que rinda el Procurador, comunicará el resultado de los ingresos y rendimientos de las inversiones, así como de las erogaciones efectuadas; y,
 
-III. La Contaduría Mayor de Hacienda del Poder Legislativo ordenará la práctica de las auditorias internas o externas que considere necesarias para verificar que el manejo del Fondo se haga en forma adecuada, conveniente, honesta y transparente, de acuerdo con los fines establecidos en esta ley, esto sin perjuicio de las facultades de supervisión, control y fiscalización que correspondan legalmente a cualquier otra dependencia u organismo del Gobierno del Distrito Federal.
+III. La Contaduría Mayor de Hacienda del Poder Legislativo ordenará la práctica de las auditorías internas o externas que considere necesarias para verificar que el manejo del Fondo se haga en forma adecuada, conveniente, honesta y transparente, de acuerdo con los fines establecidos en esta ley, esto sin perjuicio de las facultades de supervisión, control y fiscalización que correspondan legalmente a cualquier otra dependencia u organismo del Gobierno del Distrito Federal.
 
 ###### Artículo 10.
 
@@ -154,7 +166,7 @@ Pago de renta de locales para Agencias del Ministerio Público y oficinas cuyo g
 
 Pago de sueldos, mejora constante de salarios de mandos medios e inferiores de la Procuraduría y gasto corriente de Agencias del Ministerio Público y oficinas no contemplados en el prepuesto de egresos; que sean necesarios para el mejor desempeño de las funciones de la procuraduría General de Justicia; y otorgamiento de estímulos económicos para el personal con motivo del desempeño relevante de sus funciones;
 
-Programas de atención y apoyo a victimas del delito, en un porcentaje que no excederá del quince por ciento del fondo;
+Programas de atención y apoyo a víctimas del delito, en un porcentaje que no excederá del quince por ciento del fondo;
 
 Constitución e incremento de fondos para el retiro del personal de la Procuraduría;
 
@@ -196,10 +208,20 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los doce días del me
 
 En cumplimiento de los dispuesto por los artículos 122, apartado C, base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los dos días del mes de mayo del año dos mil siete. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 9 DE SEPTIEMBRE DE 2009.
 
 PRIMERO. Publíquese en la Gaceta del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
