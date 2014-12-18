@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-igualdad-sustantiva-entre-mujeres-y-hombres-en-la-55504"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-15"
-last_updated: "2013-08-09"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55504&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-05-02"
 
 LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 15 de mayo de 2007.
 
@@ -542,7 +542,11 @@ V. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 La violación a los principios y programas que esta Ley prevé, por parte de las autoridades del Distrito Federal, será sancionada de acuerdo a lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos y, en su caso, por las Leyes aplicables del Distrito Federal, que regulen esta materia, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Distrito Federal.
 
-La violación a los principios y programas que esta Ley prevé, por parte de personas físicas o morales, será sancionada de acuerdo a lo dispuesto por las Leyes aplicables del Distrito Federal, que regulen esta materia, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Distrito Federal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+La violación a los principios y programas que esta Ley prevé, por parte de personas físicas, morales o jurídicas, será sancionada de acuerdo a lo dispuesto por las Leyes aplicables del Distrito Federal, que regulen esta materia, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Distrito Federal.
 
 ## TRANSITORIOS
 
@@ -595,3 +599,13 @@ Primero.- Los ARTÍCULOS PRIMERO y SEGUNDO entrarán en vigor al día siguiente 
 Segundo.- Los ARTÍCULOS TERCERO y CUARTO entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Remítase al Jefe de Gobierno del Distrito Federal para el efecto de su publicación respecto de los ARTÍCULOS PRIMERO y SEGUNDO, y para su promulgación y publicación respecto de los ARTÍCULOS TERCERO y CUARTO, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
