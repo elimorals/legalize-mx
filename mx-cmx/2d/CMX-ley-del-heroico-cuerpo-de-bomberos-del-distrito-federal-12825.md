@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-heroico-cuerpo-de-bomberos-del-distrito-federal-12825"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-24"
-last_updated: "2013-06-26"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12825&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-11-06"
 
 LEY DEL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de diciembre de 1998.
 
@@ -398,7 +398,9 @@ I. Ser ciudadano mexicano por nacimiento, que no adquiera otra nacionalidad y es
 
 II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimiento y experiencia en las materias a cargo del Organismo, o contar con el conocimiento de alto nivel y experiencia en materia administrativa;
 
-III. Tener reconocida rectitud, solvencia moral y no haber sido condenado por delito alguno o inhabilitado para el ejercicio de la función pública;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III. Tener reconocida rectitud, solvencia moral y no haber sido sentenciado mediante sentencia ejecutoriada por un delito doloso o inhabilitado para el ejercicio de la función pública;
 
 IV. Tener comprobada vocación de servicio;
 
@@ -446,7 +448,7 @@ XIV. Adoptar las medidas para el correcto desarrollo de las funciones de los ele
 
 XIV Bis. Evaluar anualmente el desempeño de los Directores de Área, para hacerlo del conocimiento de la Junta de Gobierno;
 
-XV. Propiciar un marco de respecto (sic) e institucionalidad entre el personal operativo y administrativo del Organismo; y (sic)
+XV. Propiciar un marco de respecto (sic) e institucionalidad entre el personal operativo y administrativo del Organismo; y
 
 > <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
@@ -1509,3 +1511,13 @@ G.O. 26 DE JUNIO DE 2013.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
