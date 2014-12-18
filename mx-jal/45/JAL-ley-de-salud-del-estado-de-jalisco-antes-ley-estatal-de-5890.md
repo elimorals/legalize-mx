@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2014-12-11"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -547,7 +547,9 @@ I. La educación para la salud, la promoción del saneamiento básico y el mejor
 
 II. La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-III. La atención médica;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III. La atención médica, preferentemente en beneficio de los grupos más vulnerables;
 
 IV. La atención materno-infantil;
 
@@ -4282,3 +4284,7 @@ CUARTO. Los Poderes del Estado, Organismos Constitucionales Autónomos y los 125
 QUINTO. Los propietarios, poseedores, arrendatario o representantes legales de los establecimientos obligados por el presente decreto, a la entrada en vigor del presente decreto, de manera gradual, deberán dar cumplimiento a la obligación de equipar sus instalaciones con Desfibriladores Externos Automáticos.
 
 SEXTO. El Gobierno del Estado, en coordinación con los 125 ayuntamientos, implementarán campañas de difusión y capacitación en los establecimientos y dependencias que resulten obligados por el presente decreto.
+
+P.O. 18 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
