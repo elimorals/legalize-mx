@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA GACETA DE GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -301,13 +299,13 @@ Los jueces serán los necesarios para el despacho de los asuntos que les corresp
 
 ### CAPITULO PRIMERO. De las designaciones
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 3 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 16.
 
-Los Magistrados del Tribunal Superior de Justicia y los jueces serán designados por el Consejo de la Judicatura del Estado de México, estos últimos, previo examen de oposición abierto.
+Los Magistrados del Tribunal Superior de Justicia y los jueces serán designados por el Consejo de la Judicatura del Estado de México, previo concurso de oposición público y abierto.
+
+El proceso de selección y nombramiento de magistrados se regirá por los principios de legalidad, veracidad, acceso a la información, publicidad, libre concurrencia, igualdad, transparencia, objetividad, razonabilidad, mérito, idoneidad y capacidad.
 
 ###### Artículo 17.
 
@@ -461,7 +459,17 @@ IX. Adoptar los criterios y las medidas conducentes para el mejoramiento de la a
 
 X. Dirigir las labores de compilación y sistematización de leyes, precedentes y tesis de jurisprudencia, coordinando con el Consejo de la Judicatura las acciones necesarias a fin de lograr la difusión de las mismas; y
 
-XI. Ejercer las atribuciones que le señalen esta ley y otros ordenamientos.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XI. Expedir y modificar el Reglamento de Selección y Nombramiento de Magistrados;
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XII. Expedir y modificar el Reglamento de Selección y Nombramiento de Consejeros de la Judicatura;
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XIII. Ejercer las atribuciones que le señalen esta ley y otros ordenamientos.
 
 ###### Artículo 34.
 
@@ -1478,6 +1486,10 @@ I. Las de los jueces que no excedan de tres meses dentro del juzgado en que ocur
 > <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 Las de los jueces de control, de juicio oral y de ejecución de sentencias, por otro que asigne el administrador del juzgado o tribunal.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Quien supla la ausencia temporal lo hará por todo el tiempo que dure la ausencia del titular.
 
 II. La del secretario general de acuerdos, por el secretario de la sala que designe el Consejo de la Judicatura;
 
@@ -3062,3 +3074,9 @@ TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, 
 CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
 
 QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
