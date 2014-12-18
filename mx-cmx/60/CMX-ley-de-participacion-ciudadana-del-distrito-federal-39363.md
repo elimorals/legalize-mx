@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2014-05-02"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -406,7 +406,7 @@ I. El acto de gobierno que se pretende someter a plebiscito, así como el órgan
 
 II. La exposición de los motivos y razones por las cuales el acto se considera de importancia para el Distrito Federal y por las cuales debe someterse a plebiscito;
 
-III. Cuando sea presentada por los ciudadanos, Comités o Consejos Ciudadanos, el Jefe de Gobierno solicitará la certificación al Instituto Electoral de que se cumplieron con los requisitos de procedencia de la solicitud, y (sic)
+III. Cuando sea presentada por los ciudadanos, Comités o Consejos Ciudadanos, el Jefe de Gobierno solicitará la certificación al Instituto Electoral de que se cumplieron con los requisitos de procedencia de la solicitud, y
 
 IV. Los nombres de los integrantes del Comité promotor; así como un domicilio para oír y recibir notificaciones y
 
@@ -536,7 +536,7 @@ II. Las razones por las cuales el acto, ordenamiento o parte de su articulado de
 
 III. Nombre, firma y clave de credencial de elector de los solicitantes;
 
-IV. Nombre y domicilio de los integrantes del Comité promotor, y (sic)
+IV. Nombre y domicilio de los integrantes del Comité promotor, y
 
 V. Cuando sea presentada por los ciudadanos o los órganos de representación ciudadana facultados para ello, el Instituto Electoral deberá certificar el cumplimiento de los requisitos de procedencia;
 
@@ -1050,7 +1050,7 @@ VII. Presentar propuestas para las decisiones, planes, políticas, programas y a
 
 VIII. Recibir capacitación por parte del Instituto Electoral de conformidad con lo establecido en el artículo 16 de la presente Ley y
 
-IX. Participar, a invitación y en coordinación con el Instituto Electoral, en los programas de educación, capacitación, asesoría y evaluación que señala el artículo 16 de esta Ley, y (sic)
+IX. Participar, a invitación y en coordinación con el Instituto Electoral, en los programas de educación, capacitación, asesoría y evaluación que señala el artículo 16 de esta Ley, y
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1136,7 +1136,7 @@ El Jefe de Gobierno y la Asamblea Legislativa están respectivamente obligados a
 
 a) El monto total de recursos al que asciende el presupuesto participativo por Delegación, el que corresponderá al tres por ciento del presupuesto total anual de aquéllas;
 
-b) Los recursos de presupuesto participativo correspondientes a cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal. Para tal efecto, el monto total de recursos de presupuesto participativo de cada una de las Delegaciones se dividirá entre el número de colonias y pueblos originarios que existan en aquéllas, de modo que la asignación de recursos sea igualitaria, y (sic)
+b) Los recursos de presupuesto participativo correspondientes a cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal. Para tal efecto, el monto total de recursos de presupuesto participativo de cada una de las Delegaciones se dividirá entre el número de colonias y pueblos originarios que existan en aquéllas, de modo que la asignación de recursos sea igualitaria, y
 
 c) Los rubros específicos en que se aplicarán los recursos de presupuesto participativo en todas y cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal, de conformidad con los resultados de la consulta ciudadana que sobre la materia le remita el Instituto Electoral.
 
@@ -1336,7 +1336,9 @@ III. Estar inscrito en la lista nominal de electores;
 
 IV. Residir en la colonia cuando menos seis meses antes de la elección;
 
-V. No haber sido condenado por delito doloso;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+V. No haber sido sentenciado mediante sentencia ejecutoriada, por delito doloso;
 
 > <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -1576,7 +1578,7 @@ i) En caso de que en alguna colonia solo se registre una fórmula, el comité ci
 
 j) Cuando en alguna colonia se registren sólo dos fórmulas, a la que obtenga la mayoría de votos se le otorgarán cinco integrantes del comité ciudadano, entre ellos al presidente de éste, los restantes cuatro integrantes se le darán a la otra fórmula;
 
-k) Si se registran tres fórmulas, la (sic) fórmula ganadora se le otorgarán cinco integrantes al segundo y tercer lugar dos integrantes;
+k) Si se registran tres fórmulas, (sic) la fórmula ganadora se le otorgarán cinco integrantes al segundo y tercer lugar dos integrantes;
 
 l) Para la sustitución de los integrantes electos o de los integrantes del comité por cualquier motivo o causa, se recurrirá en primer lugar a los integrantes de la fórmula de que fuera parte aquél, respetando el orden de prelación. En caso de que por ninguno de los métodos indicados pueda subsanarse la ausencia quedará vacante el lugar, y
 
@@ -3194,7 +3196,7 @@ e) Cuando algún representante ciudadano renuncie o fallezca se procederá en t�
 
 ### CAPÍTULO ÚNICO. DE LOS REPRESENTANTES DE MANZANA
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 227.
 
@@ -3258,9 +3260,13 @@ El coordinador de concertación comunitaria coordinará sus labores con la autor
 
 ###### Artículo 231.
 
-La coordinación interna del Comité Ciudadano o del Consejo del Pueblo en coordinación con la autoridad tradicional convocará a las asambleas ciudadanas en donde habrá de designarse a los representantes de cada manzana. En la sesión de la asamblea, el secretario registrará a los vecinos que se propongan para asumir la representación de la manzana, quienes deberán ser vecinos reconocidos por su honorabilidad, independencia, vocación de servicio, participación en labores comunitarias y cubrir los requisitos que prevé el artículo 95 de esta Ley, que son acreditar mediante credencial para votar con fotografía que radican en esa colonia, con un mínimo de seis meses de antigüedad de manera continua, no haber sido condenado por delito doloso y estar inscrito en el Listado Nominal.
+La coordinación interna del Comité Ciudadano o del Consejo del Pueblo en coordinación con la autoridad tradicional convocará a las asambleas ciudadanas en donde habrá de designarse a los representantes de cada manzana. En la sesión de la asamblea, el secretario registrará a los vecinos que se propongan para asumir la representación de la manzana, quienes deberán ser vecinos reconocidos por su honorabilidad, independencia, vocación de servicio, participación en labores comunitarias y cubrir los requisitos que prevé el artículo 95 de esta Ley, que son acreditar mediante credencial para votar con fotografía que radican en esa colonia, con un mínimo de seis meses de antigüedad de manera continua, no haber sido sentenciado mediante sentencia ejecutoriada por delito doloso y estar inscrito en el Listado Nominal.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 La designación del representante de manzana se efectuará por el voto libre y directo de la mayoría de los ciudadanos de la manzana reunidos en la asamblea, quienes expresarán su votación de manera verbal y a mano alzada a favor del vecino de su preferencia para ocupar el cargo.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 En caso de empate entre los vecinos propuestos como representantes de manzana se realizarán las rondas de votación necesarias para obtener un triunfador. Las designaciones de los representantes son definitivas e inatacables.
 
@@ -3836,7 +3842,7 @@ Para efectos de lo establecido en los artículos 83 y 84 de esta Ley, en el Ejer
 
 ###### ARTÍCULO OCTAVO.
 
-El Instituto Electoral pondrá en funcionamiento en un plazo de 90 días naturales a la entrada en vigor de las presentes reformas, el registro de organizaciones ciudadanas a que se refiere el artículo 79 esta (sic) Ley.
+El Instituto Electoral pondrá en funcionamiento en un plazo de 90 días naturales a la entrada en vigor de las presentes reformas, el registro de organizaciones ciudadanas a que se refiere el artículo 79 esta Ley.
 
 ###### ARTÍCULO NOVENO.
 
@@ -4040,8 +4046,6 @@ Artículo octavo.- Se reforma el artículo décimo tercero transitorio del decre
 
 ###### ARTÍCULO DECIMO TERCERO.
 
-.- .
-
 XOCHIMILCO
 
 1. a 14.
@@ -4159,3 +4163,13 @@ G.O. 2 DE MAYO DE 2014.
 PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
