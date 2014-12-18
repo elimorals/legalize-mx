@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2014-11-22"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -385,7 +385,7 @@ XXIII. Las demás que le atribuya este Código y otros ordenamientos legales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2014)</small>
 
-###### Articulo 9°.
+###### Artículo 9°.
 
 La Secretaría es la dependencia de la Administración Pública Estatal que tiene a su cargo ejecutar la política del Gobierno del Estado en el sector de desarrollo urbano. Sus atribuciones son las siguientes:
 
@@ -1311,7 +1311,7 @@ Cuando por su crecimiento urbano, continuidad física y relaciones socioeconómi
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
-###### Articulo 56.
+###### Artículo 56.
 
 Cuando por su cercanía geográfica, tendencias de crecimiento y relaciones socioeconómicas, uno o más centros urbanos tiendan a integrarse a un área metropolitana, el Congreso del Estado hará la declaratoria de integración de una región metropolitana de acuerdo al procedimiento establecido en la ley estatal en materia de coordinación metropolitana.
 
@@ -1323,7 +1323,7 @@ Cuando por su cercanía geográfica, tendencias de crecimiento y relaciones soci
 
 (DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
-###### Articulo 59.
+###### Artículo 59.
 
 (DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
@@ -1379,7 +1379,7 @@ El Instituto Metropolitano de Planeación es el organismo público descentraliza
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
-###### Articulo 69.
+###### Artículo 69.
 
 El Consejo Ciudadano Metropolitano es el órgano consultivo intermunicipal, de participación ciudadana, carácter honorífico y resoluciones no vinculantes, que tiene por objeto recibir, organizar y canalizar las propuestas ciudadanas en asuntos de interés metropolitano. La organización, funcionamiento y atribuciones del Consejo son los establecidos en la ley estatal en materia de coordinación metropolitana y demás instrumentos jurídicos aplicables de conformidad con la misma.
 
@@ -1467,9 +1467,23 @@ I. El programa estatal de desarrollo urbano, los planes regionales de integraci�
 
 II. El programa municipal de desarrollo urbano, los planes de desarrollo urbano de los centros de población, los planes parciales de desarrollo urbano en las cuales participe el Municipio, se publicarán:
 
-a) En la Gaceta Oficial del Municipio o en el medio oficial de divulgación previsto por el reglamento aplicable y en caso de no existir éstos, en el Periódico Oficial “El Estado de Jalisco”, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b) En los lugares visibles de la cabecera municipal, lo cual debe certificar el servidor público encargado de la Secretaría del Ayuntamiento, así como los delegados y agentes municipales en su caso.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+a) En la Gaceta Oficial del municipio o en el medio oficial de divulgación previsto por el reglamento aplicable y en caso de no existir éstos, en el periódico oficial El Estado de Jalisco;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+b) En los lugares visibles de la cabecera municipal, lo cual debe certificar el servidor público encargado de la Secretaría del Ayuntamiento, así como los delegados y agentes municipales en su caso; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+c) En la página de internet del Ayuntamiento, de forma accesible para la población, debiendo ser actualizados de conformidad con lo establecido en el artículo 138 de este ordenamiento.
 
 Asimismo, se publicará en dos diarios de mayor circulación en las localidades comprendidas en el área de aplicación del plan o programa, una inserción donde se informe respecto a su aprobación y publicación en el medio oficial de divulgación correspondiente de acuerdo a las fracciones anteriores.
 
@@ -2165,7 +2179,7 @@ Los programas municipales de desarrollo urbano, señalarán las acciones especí
 
 Los planes de desarrollo urbano que regulen y ordenen centros de población, considerarán áreas destinadas a la conservación:
 
-I. Las que por sus características y aptitudes naturales sean condicionantes del equilibro ecológico, como la existencia en ellas de bosques, esteros, cuerpos de agua, mantos acuíferos y otros elementos;
+I. Las que por sus características y aptitudes naturales sean condicionantes del equilibro (sic) ecológico, como la existencia en ellas de bosques, esteros, cuerpos de agua, mantos acuíferos y otros elementos;
 
 II. Las que se encuentren dedicadas a las actividades forestales, en especial aquellas que por las características del suelo y obras de infraestructura productiva, se consideren de buena calidad;
 
@@ -2411,7 +2425,7 @@ III. Las acciones de renovación urbana observarán las mismas reglas de la frac
 
 Para la aplicación de las normas se tendrá especial cuidado y manejo en aquellas localidades que por sus características históricas, culturales, fisonómicas y paisajísticas requieren un tratamiento especial, pudiendo las autoridades municipales correspondientes expedir normas específicas como complemento a éste Título.
 
-###### Articulo 162.
+###### Artículo 162.
 
 La zonificación, por su grado de detalle se clasifica en dos categorías:
 
@@ -5030,3 +5044,7 @@ P.O. 22 DE NOVIEMBRE DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El Poder Ejecutivo del Estado, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, realizará las adecuaciones necesarias al Reglamento Estatal de Zonificación.
+
+P.O. 18 DE DICIEMBRE DE 2014.
+
+ÚNICO. La presente reforma entrará en vigor 60 días después de su publicación en el periódico oficial El Estado de Jalisco.
