@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2014-08-07"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -1624,7 +1624,11 @@ XXV. Emitir, en coordinación con la Oficialía Mayor, los lineamientos generale
 
 XXVI. Someter a la consideración del Jefe de Gobierno el otorgamiento de Patentes de Notario y Aspirante, así como establecer los lineamientos y criterios técnico-jurídicos para la aplicación y supervisión del cumplimiento de las disposiciones jurídicas en materia notarial y recibir, tramitar, substanciar y resolver las quejas en contra de notarios;
 
-XXVII. Tramitar los indultos que se vayan a conceder a los reos sentenciados por delitos de competencia de los tribunales del fuero común en el Distrito Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XXVII. Tramitar los indultos que se vayan a conceder a los sentenciados por delitos de competencia de los Tribunales del Fuero Común en el Distrito Federal;
 
 XXVIII. Presidir la Comisión de Estudios Jurídicos del Gobierno del Distrito Federal, integrada por los responsables de asuntos jurídicos de las Dependencias, Organos Desconcentrados y Entidades Paraestatales de la Administración Pública del Distrito Federa (sic), que tendrá por objeto la coordinación en materia jurídica, y
 
@@ -2561,3 +2565,13 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente a su publicaci
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario oficial de la Federación para su mayor difusión.
 
 TERCERO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
