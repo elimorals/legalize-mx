@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2014-11-20"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -3883,7 +3883,11 @@ VI. Expedición de constancia de inexistencia de documentos. $30
 
 VII. Expedición de constancias de pago de contribuciones y de constancias que reflejen la situación fiscal del contribuyente. $152
 
-VIII. Por los servicios prestados a las casas de empeño se pagarán los derechos siguientes:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+VIII. Por los servicios prestados a las casas de empeño y a las unidades económicas que ejercen la compra y/o venta de oro y/o plata se pagarán los derechos siguientes:
 
 A). Por la solicitud, estudio, revisión y resolución del trámite de permiso, así como por el refrendo anual correspondiente. $8,000
 
@@ -5025,7 +5029,7 @@ IX. Duplicado de licencias y permisos, con la vigencia del documento expedido or
 
 > <small>(REFORMADA, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
-X. Por la expedición del duplicado de la Licencia de Chofer para Servicio Público con la vigencia del documento expedido originalmente y con la leyenda "Duplicado". $716.00
+X. Por la expedición del duplicado de la Licencia de Chofer para Servicio Público con la vigencia del documento expedido originalmente y con la leyenda “Duplicado”. $716.00
 
 XI. Por los servicios de control vehicular relativos al servicio público de transporte, se pagarán los siguientes derechos:
 
@@ -8849,17 +8853,17 @@ nacimiento de recién nacidos,
 
 hasta cumplido un año. Exento
 
-(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013) (F. DE E., G.G. 3 DE MARZO DE 2014)
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-II. Asentamiento de actas de los registros extemporáneos de nacimiento de personas mayores de un año, pero menores de sesenta, y por cada año omiso. 0.17
+II. Asentamiento de actas de los registros
 
-Por el asentamiento de actas de los registros extemporáneos de nacimiento de personas de 60 años en adelante, sujetos al Programa Permanente para el Registro de Nacimiento de Adultos Mayores. Exento
+extemporáneos de nacimiento. Exento
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 III. Asentamiento de actas de
 
-reconocimiento de hijos. 0.66
+reconocimiento de hijos. Exento
 
 IV. (DEROGADA, G.G. 2 DE DICIEMBRE DE 2013)
 
@@ -11893,7 +11897,7 @@ Zona B. Municipios de Medio Impacto; son aquellos que presentan una población m
 
 Zona C. Municipios de Bajo Impacto; son aquellos con baja densidad poblacional cuyos habitantes se encuentran distantes unos de otros, con una actividad predominantemente de tipo agrícola o ganadera, sin desarrollo industrial o comercial. Estos son: Acambay, Acolman, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Apaxco, Atenco, Atizapán, Atlautla, Axapusco, Ayapango, Calimaya, Coatepec Harinas, Cocotitlán, Chapa de Mota, Chapultepec, Chiautla, Donato Guerra, Ecatzingo, El Oro, Hueypoxtla, Isidro Fabela, Ixtapan del Oro, Jilotzingo, Jiquipilco, Jocotitlán, Joquicingo, Juchitepec, Luvianos, Malinalco, Mexicalzingo, Morelos, Nextlalpan, Nopaltepec, Ocuilán, Otumba, Otzoloapan, Otzolotepec, Papalotla, Polotitlán, Rayón, San Antonio La Isla, San Felipe del Progreso, San José del Rincón, San Martín de las Pirámides, San Simón de Guerrero, Santo Tomás, Soyaniquilpan de Juárez, Sultepec, Tejupilco, Temamatla, Temascalapa, Temascalcingo, Temascaltepec, Temoaya, Tenango del Aire, Tenango del Valle, Teoloyucan, Teotihuacan, Tepetlaoxtoc, Tepetlixpa, Tequixquiac, Texcaltitlán, Texcalyacac, Tezoyuca, Timilpan, Tlalmanalco, Tlatlaya, Tonatico, Tonanitla, Villa de Allende, Villa del Carbón, Villa Guerrero, Villa Victoria, Xalatlaco, Zacazonapan, Zacualpan y Zumpahuacán.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 216-D.
 
@@ -12333,7 +12337,7 @@ La Recaudación Estatal Participable se distribuirá conforme a la fórmula que 
 
 La fórmula anterior no será aplicable en el evento de que en el año de cálculo la Recaudación Estatal Participable sea inferior a la observada en el año 2013. En dicho supuesto, la distribución de la Recaudación Estatal Participable se realizará de acuerdo al coeficiente de las participaciones definitivas que para tal efecto publique la Secretaría.
 
-La Secretaría deberá publicar las reglas para la asignación de las participaciones federales y estatales a los municipios, las cuales deberán contener las definiciones de los conceptos referidos en este Código a través del Periódico Oficial "Gaceta del Gobierno" y en Internet.
+La Secretaría deberá publicar las reglas para la asignación de las participaciones federales y estatales a los municipios, las cuales deberán contener las definiciones de los conceptos referidos en este Código a través del Periódico Oficial “Gaceta del Gobierno” y en Internet.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -17162,3 +17166,35 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2015.
 
 TERCERO.- Las referencias que en lo sucesivo se realicen a la Dirección General de Protección Civil adscrita a la Secretaría de Seguridad Ciudadana, quedarán entendidas a la Coordinación General de Protección Civil adscrita a la Secretaría General de Gobierno.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 367, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN VIII DEL ARTÍCULO 76 DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
+
+CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
+
+QUINTO. Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
+
+SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 18 de julio de 2013.
+
+NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
+
+DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 374, POR EL QUE SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 142 DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
