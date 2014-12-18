@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -1246,7 +1246,9 @@ X. Requerir a los sujetos directamente obligados, responsables solidarios o terc
 
 XI. Recabar de los servidores públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones en materia fiscal y administrativa;
 
-XII. Allegarse las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales, o en su caso, para formular la querella respectiva;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XII. Allegarse de los datos o medios de prueba necesarios para denunciar ante el Ministerio Público la posible comisión de delitos fiscales, o en su caso, para formular la querella respectiva;
 
 XIII. Practicar avalúos de bienes inmuebles y revisar los avalúos que presenten los contribuyentes o fedatarios públicos, y en caso de encontrar errores, ya sea aritméticos, de clasificación de inmuebles o de aplicación de valores y en métodos alternativos de valuación aplicados; manifestaciones incorrectas en la superficie de terreno, de la construcción, uso del inmueble, del número de niveles, determinación de la clase, omisión de la valuación de instalaciones especiales, elementos accesorios u obras complementarias, o incorrecta aplicación de factores de eficiencia que incrementen o demeriten el valor catastral o en su caso influyan en la determinación incorrecta no justificada y fundada técnicamente del valor comercial de los inmuebles, los comunicará a los contribuyentes mediante la liquidación del impuesto respectivo y sus accesorios legales. En caso de que la autoridad fiscal determine diferencias a favor de los contribuyentes, de oficio hará la corrección respectiva, teniendo derecho los contribuyentes a solicitar la devolución o a compensar el saldo resultante contra pagos posteriores;
 
@@ -1744,7 +1746,9 @@ b). No formule el dictamen debiendo hacerlo. En este caso la suspensión será d
 
 c). Acumule dos amonestaciones. En este caso la suspensión será de dos años;
 
-d). Se encuentre sujeto a proceso por la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal. En este caso, la suspensión durará el tiempo en que el Contador se encuentre sujeto a dicho proceso, y
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+d). Se encuentre sujeto a proceso por la comisión de delitos de carácter fiscal o delitos dolosos que ameriten pena privativa de libertad. En este caso, la suspensión durará el tiempo en que el Contador se encuentre sujeto a dicho proceso, y
 
 e). El Contador Público se haya auxiliado de personas distintas a las que se refiere el artículo 22 de este Código, para la determinación de la base gravable del Impuesto Predial. En este caso la suspensión será de un año para la primera ocasión y dos años para la segunda.
 
@@ -1754,7 +1758,9 @@ III. Proceder a la cancelación definitiva de su registro para emitir dictámene
 
 a). Exista reincidencia en la violación de las disposiciones que rigen la formulación del dictamen y demás información para efectos fiscales. Para estos efectos se entiende que hay reincidencia cuando el Contador Público acumule tres suspensiones, y
 
-b). Hubiera participado en la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal, respecto de los cuales se haya dictado sentencia definitiva que lo declare culpable.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+b). Hubiera intervenido en la comisión de delitos de carácter fiscal o delitos dolosos que ameriten pena privativa de libertad, respecto de los cuales se haya dictado sentencia definitiva que lo declare culpable.
 
 IV. La audiencia a que se refiere este artículo, se sujetará a lo siguiente:
 
@@ -1860,11 +1866,11 @@ Si se trata de actos administrativos que determinen la responsabilidad solidaria
 
 No se considera dentro de los actos administrativos que deban ser notificados, la boleta de derechos por el suministro de agua a que se refiere el artículo 174 de este Código.
 
-> <small>(REFORMADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 102.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señale este Código y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración de la Hacienda Pública del Distrito Federal; a la Procuraduría Fiscal para efectos de procesos contenciosos administrativos, resolución de recursos, instauración de procedimientos de fincamiento de responsabilidad resarcitoria y presentación de denuncias o querellas de carácter penal; a los organismos encargados de la fiscalización del Gobierno del Distrito Federal, para efectos del desarrollo de auditorías a los procesos de revisión y actualización de padrones; al Ministerio Público en sus funciones de investigación y persecución del delito; a las autoridades judiciales en procesos del orden penal; a los Tribunales del Poder Judicial de la Federación, al Tribunal Superior de Justicia del Distrito Federal, al Tribunal Federal de Conciliación y Arbitraje, a las Juntas Federales o Locales de Conciliación y Arbitraje, o cuando la información deba proporcionarse en virtud de convenios de intercambio de información que la Secretaría suscriba. Dicha reserva, tampoco comprenderá la información que las autoridades fiscales puedan proporcionar a las Sociedades de Información Crediticia, autorizadas por la Secretaría de Hacienda y Crédito Público, o a sus auxiliares o a particulares habilitados para la recuperación y cobro del adeudo relativa a los créditos fiscales firmes y exigibles de los contribuyentes derivados tanto de las contribuciones locales, así como de los Convenios de Colaboración Administrativa en Materia Fiscal Federal celebrados entre la Secretaría de Hacienda y Crédito Público y el Gobierno del Distrito Federal, dentro del ámbito de su competencia.
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señale este Código y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración de la Hacienda Pública del Distrito Federal; a la Procuraduría Fiscal para efectos de procesos contenciosos administrativos, resolución de recursos, instauración de procedimientos de fincamiento de responsabilidad resarcitoria y presentación de denuncias o querellas de carácter penal; a los organismos encargados de la fiscalización del Gobierno del Distrito Federal, para efectos del desarrollo de auditorías a los procesos de revisión y actualización de padrones; al Ministerio Público en sus funciones de investigación y persecución del delito; a las autoridades judiciales u órganos jurisdiccionales en procesos del orden penal; a los Tribunales del Poder Judicial de la Federación, al Tribunal Superior de Justicia del Distrito Federal, al Tribunal Federal de Conciliación y Arbitraje, a las Juntas Federales o Locales de Conciliación y Arbitraje, o cuando la información deba proporcionarse en virtud de convenios de intercambio de información que la Secretaría suscriba. Dicha reserva, tampoco comprenderá la información que las autoridades fiscales puedan proporcionar a las Sociedades de Información Crediticia, autorizadas por la Secretaría de Hacienda y Crédito Público, o a sus auxiliares o a particulares habilitados para la recuperación y cobro del adeudo relativa a los créditos fiscales firmes y exigibles de los contribuyentes derivados tanto de las contribuciones locales, así como de los Convenios de Colaboración Administrativa en Materia Fiscal Federal celebrados entre la Secretaría de Hacienda y Crédito Público y el Gobierno del Distrito Federal, dentro del ámbito de su competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -7216,9 +7222,9 @@ a). Inscripción de modificación y adición a la sociedad de convivencia - $1,9
 
 b). Registro del aviso de terminación de la sociedad de convivencia - $1,968.50
 
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-XVII. Por la expedición de las copias de expedientes o documentos que obren en autos de los órganos judiciales del Distrito Federal, así como de las Averiguaciones Previas de las Agencias del Ministerio Público del Distrito Federal, las siguientes:
+XVII. Por la expedición de las copias de expedientes, documentos, videograbaciones o cualquier otro medio digital, electrónico, óptico o de cualquier tecnología, que obren en autos de los órganos judiciales del Distrito Federal, así como de las averiguaciones previas o de las carpetas de investigación de las Agencias del Ministerio Público del Distrito Federal, las siguientes:
 
 > <small>(REFORMADO EN SU CUOTA, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -7227,6 +7233,10 @@ a). Copias simples - $2.00
 > <small>(REFORMADO EN SU CUOTA, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 b). Copias certificadas - $5.00
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+c) Para las videograbaciones o cualquier otro medio digital, electrónico, óptico o de cualquier tecnología se estará a lo dispuesto en las fracciones VI, VII y VIII del artículo 249 de este Código;
 
 La cuota indicada en la fracción XI de este artículo, comprenderá la totalidad de los registros de pago que se contengan en el sistema computarizado de la Secretaría, por número de cuenta, placa o registro.
 
@@ -9070,29 +9080,43 @@ La Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad 
 
 Además, en el acta circunstanciada a que se refiere el párrafo anterior, la Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad identificarán aquellos vehículos de los que se conozca al propietario o poseedor, el motivo y fecha de su ingreso al depósito de que se trate, a efecto de que la Secretaría de Finanzas lleve a cabo el procedimiento de cobro a que hace referencia el artículo 356, fracción I del presente Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 356.
 
-Una vez que la Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad, lleven a cabo lo señalado en el artículo anterior, se procederá conforme a lo siguiente:
+Una vez que la Secretaría de Seguridad Pública o la Secretaría de Movilidad, lleven a cabo lo señalado en el artículo anterior, se procederá conforme a lo siguiente:
 
-I. Tratándose de vehículos en donde se tenga identificado al propietario o poseedor, la Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad, proporcionarán a la Secretaría de Finanzas los elementos suficientes para la determinación del crédito fiscal generado por el almacenaje del vehículo, así como las multas que le hayan sido impuestas, con el apercibimiento de que si el propietario o poseedor no realiza o garantiza el pago dentro de los quince días siguientes a aquél en que surta efectos la notificación de la determinación del crédito, los vehículos serán declarados abandonados y pasarán a ser propiedad del Distrito Federal.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+I. Tratándose de vehículos en donde se tenga identificado al propietario o poseedor, la Secretaría de Seguridad Pública o la Secretaría de Movilidad, proporcionarán a la Secretaría de Finanzas los elementos suficientes para la determinación del crédito fiscal generado por el almacenaje del vehículo, así como las multas que le hayan sido impuestas, con el apercibimiento de que si el propietario o poseedor no realiza o garantiza el pago dentro de los quince días siguientes a aquél en que surta efectos la notificación de la determinación del crédito, los vehículos serán declarados abandonados y pasarán a ser propiedad del Distrito Federal.
 
 Los gastos por concepto de la diligencia a que se refiere el párrafo anterior serán a cargo del propietario o poseedor del vehículo y tendrán el carácter de crédito fiscal.
 
-Transcurrido el plazo a que hace referencia el primer párrafo de esta fracción, la Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad procederán a enajenar fuera de remate, en cuyo caso el procedimiento de enajenación estará a cargo de las mismas, con la participación de la Oficialía Mayor del Distrito Federal y la Contraloría.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Transcurrido el plazo a que hace referencia el primer párrafo de esta fracción, la Secretaría de Seguridad Pública o la Secretaría de Movilidad procederán a enajenar fuera de remate, en cuyo caso el procedimiento de enajenación estará a cargo de las mismas, con la participación de la Oficialía Mayor del Distrito Federal y la Contraloría.
 
 Cuando no se trate de vehículos chatarra, el valor base para su enajenación, será el que corresponda al avalúo pericial.
 
-II. Cuando se desconozca al titular del derecho de propiedad o posesión de los vehículos, la Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad, realizarán una publicación dirigida al público en general, por una sola ocasión en un periódico de circulación en el Distrito Federal, en la que se señalarán las características que se puedan precisar de los vehículos de que se trate, a efecto de que los legítimos propietarios o poseedores de los mismos, gocen del término de un mes para acudir ante la autoridad señalada en dicha publicación para acreditar tal carácter, así como determinar el motivo de su ingreso a los mencionados depósitos y proceder al pago de los adeudos correspondientes.
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-La publicación a que se refiere el párrafo anterior deberá cumplir los requisitos del artículo 101 de este Código y los costos de la misma quedarán a cargo de la Secretaría de Seguridad Pública o de la Secretaría de Transportes y Vialidad, según corresponda.
+II. Cuando se desconozca al titular del derecho de propiedad o posesión de los vehículos, la Secretaría de Seguridad Pública o la Secretaría de Movilidad, realizarán una publicación dirigida al público en general, por una sola ocasión en un periódico de circulación en el Distrito Federal, en la que se señalarán las características que se puedan precisar de los vehículos de que se trate, a efecto de que los legítimos propietarios o poseedores de los mismos, gocen del término de un mes para acudir ante la autoridad señalada en dicha publicación para acreditar tal carácter, así como determinar el motivo de su ingreso a los mencionados depósitos y proceder al pago de los adeudos correspondientes.
 
-III. Transcurrido el plazo de un mes a que se refiere la fracción anterior, en el que quedará a disposición del titular del derecho de propiedad o posesión del vehículo de que se trate, sin que sea retirado, pasará a ser propiedad del Distrito Federal y deberá ser enajenado fuera de remate, en cuyo caso el procedimiento de enajenación, estará a cargo de la Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad con la participación de la Oficialía Mayor del Distrito Federal, así como de la Contraloría. Cuando no se trate de vehículos chatarra, el valor base para su enajenación, será el que corresponda al avalúo pericial.
+La publicación a que se refiere el párrafo anterior deberá cumplir los requisitos del artículo 101 de este Código y los costos de la misma quedarán a cargo de la Secretaría de Seguridad Pública o de la Secretaría de Movilidad, según corresponda.
 
-IV. Cuando se trate de operativos llevados a cabo por la Secretaría de Seguridad Pública, con el objeto de retirar de la vía pública, vehículos chatarra o abandonados, éstos deberán ser puestos a disposición del Ministerio Público, quien procederá a iniciar averiguación previa, conforme a lo dispuesto por el Título Vigésimo Tercero, Capítulo Primero del Código Penal, o por cualesquier otro delito que resulte, y realizará en su caso, el procedimiento previsto para los bienes asegurados, a fin de que los recursos que de ello se obtengan sean depositados íntegramente en el Fondo de Apoyo a la Procuración de Justicia.
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III. Transcurrido el plazo de un mes a que se refiere la fracción anterior, en el que quedará a disposición del titular del derecho de propiedad o posesión del vehículo de que se trate, sin que sea retirado, pasará a ser propiedad del Distrito Federal y deberá ser enajenado fuera de remate, en cuyo caso el procedimiento de enajenación, estará a cargo de la Secretaría de Seguridad Pública o la Secretaría de Movilidad con la participación de la Oficialía Mayor del Distrito Federal, así como de la Contraloría. Cuando no se trate de vehículos chatarra, el valor base para su enajenación, será el que corresponda al avalúo pericial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. Cuando se trate de operativos llevados a cabo por la Secretaría de Seguridad Pública, con el objeto de retirar de la vía pública, vehículos chatarra o abandonados, éstos deberán ser puestos a disposición del Ministerio Público, quien procederá a iniciar la averiguación previa o la investigación, conforme a lo dispuesto por el Título Vigésimo Tercero, Capítulo Primero del Código Penal, o por cualesquier otro delito que resulte, y realizará en su caso, el procedimiento previsto para los bienes asegurados, a fin de que los recursos que de ello se obtengan sean depositados íntegramente en el Fondo de Apoyo a la Procuración de Justicia.
 
 El producto de la enajenación de los vehículos remitidos a los depósitos vehiculares por las Delegaciones en términos del artículo 9 bis de la Ley de Transporte y Vialidad del Distrito Federal, así como las multas que en su caso se hayan pagado respecto de dichos vehículos, se destinarán a la Delegación que los haya remitido como recursos de aplicación automática, de conformidad con la normatividad aplicable, para destinarlos a obras y trabajos para mejoramiento urbano de la demarcación.
 
-Durante la aplicación de los procedimientos a que se refiere este artículo, la guarda o administración de los vehículos estarán a cargo de la Secretaría de Seguridad Pública o de la Secretaría de Transportes y Vialidad.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Durante la aplicación de los procedimientos a que se refiere este artículo, la guarda o administración de los vehículos estarán a cargo de la Secretaría de Seguridad Pública o de la Secretaría de Movilidad.
 
 ###### ARTICULO 357.
 
@@ -11174,7 +11198,9 @@ El Jefe de Gobierno del Distrito Federal, a través del Secretario de Finanzas, 
 
 Para proceder penalmente por los delitos fiscales previstos en este Título, será necesario que previamente la Procuraduría Fiscal formule la querella respectiva a la que adjuntará la determinación del crédito fiscal en los supuestos legales que procedan, excepto en aquellos en que participen servidores públicos en ejercicio de sus funciones o con motivo de ellas, en cuyo caso cualquiera podrá denunciar los hechos ante el Ministerio Público.
 
-De igual forma la Procuraduría Fiscal formulará las denuncias, aportará todos los elementos de prueba que sean necesarios y coadyuvará con el Ministerio Público, tratándose de las conductas que puedan implicar la comisión de delitos en contra de la Hacienda Pública del Distrito Federal.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+De igual forma la Procuraduría Fiscal formulará las denuncias, aportará todos los datos, elementos o medios de prueba pertinentes con los que cuente y coadyuvará con el Ministerio Público, tratándose de hechos que puedan constituir algún delito en contra de la Hacienda Pública del Distrito Federal, en los términos que establezca la legislación de procedimientos penales aplicable al Distrito Federal.
 
 No se formulará querella si quien hubiera omitido el pago de la contribución o aprovechamientos y obtenido el beneficio indebido, lo entera espontáneamente con sus recargos antes de que la autoridad fiscal descubra la omisión o el perjuicio o medie requerimiento, orden de visita o cualquier gestión notificada por la misma, tendiente a la comprobación del cumplimiento de la obligación fiscal de que se trate.
 
@@ -11192,15 +11218,11 @@ Cuando los inculpados paguen las contribuciones o aprovechamientos omitidos y su
 
 La Procuraduría Fiscal, podrá solicitar el sobreseimiento, en los ilícitos a que se refiere este Título, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 487.
 
-En los delitos fiscales en que sea necesaria la determinación del daño o perjuicio causado a la Hacienda Pública del Distrito Federal, la Procuraduría Fiscal lo señalará en la averiguación previa, adjuntando la determinación de crédito fiscal respectiva.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+En los delitos fiscales en que sea necesaria la determinación del daño o perjuicio causado a la Hacienda Pública del Distrito Federal, la Procuraduría Fiscal lo señalará en la averiguación previa o la investigación, adjuntando la determinación de crédito fiscal respectiva.
 
 ###### ARTICULO 488.
 
@@ -11220,9 +11242,11 @@ En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad m
 
 La acción penal en los delitos fiscales a que se refiere este Código, prescribirá en tres años contados a partir del día en que la Procuraduría Fiscal tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito.
 
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 492.
 
-Para los efectos de este Título y a falta de disposición expresa en este Código, se aplicarán supletoriamente el Código Penal para el Distrito Federal y el Código de Procedimientos Penales para el Distrito Federal.
+Para los efectos de este Título y a falta de disposición expresa en este Código, se aplicarán supletoriamente el Código Penal para el Distrito Federal y la legislación de procedimientos penales aplicable al Distrito Federal.
 
 ###### ARTICULO 493.
 
@@ -14939,3 +14963,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
