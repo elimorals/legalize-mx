@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-92907"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2014-11-22"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco el miércoles 27 de febrero de 2013.
 
@@ -671,9 +671,17 @@ XX. Formular, dirigir, coordinar y controlar, en los términos de las leyes de l
 
 XXI. Participar en el establecimiento de la coordinación de los programas de desarrollo socioeconómico del Gobierno del Estado, con los de la Administración Pública Federal y los de los municipios de la entidad;
 
-XXII. Elaborar, en coordinación con la Secretaría de Desarrollo Rural, la Secretaría de Medio Ambiente y Desarrollo Territorial, así como la Secretaría de Turismo, los programas de desarrollo de la agroindustria, silvicultura, piscicultura, acuacultura, turismo y otras actividades productivas en el Estado, y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2014)</small>
 
-XXIII. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
+XXII. Elaborar, en coordinación con la Secretaría de Desarrollo Rural, la Secretaría de Medio Ambiente y Desarrollo Territorial, así como la Secretaría de Turismo, los programas de desarrollo de la agroindustria, silvicultura, piscicultura, acuacultura, turismo y otras actividades productivas en el Estado;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XXIII. Diseñar y ejecutar, en coordinación con la Secretaría del Trabajo y Previsión social, una política pública encauzada a la generación de empleos; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XXIV. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 19.
 
@@ -1976,5 +1984,9 @@ P.O. 19 DE JULIO DE 2014.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 22 DE NOVIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 18 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
