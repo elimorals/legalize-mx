@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-promocion-de-la-convivencia-libre-de-violencia-8554
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-31"
-last_updated: "2012-06-12"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85541&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-01-25"
 
 LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 31 de enero de 2012.
 
@@ -320,7 +320,9 @@ II. Planear y desarrollar conjuntamente con la Red, campañas de información y 
 
 III. Realizar acciones de capacitación y sensibilización a su personal en el tema de violencia en el entorno escolar y del maltrato escolar, con el fin de proporcionar una atención adecuada a todos los involucrados, basada en el respeto y garantía de los derechos humanos de las niñas, los niños, las y los jóvenes. Esto implica que su personal cuente con herramientas psicológicas que les permitan proporcionar un mejor servicio, en especial al personal encargado de recibir, atender y dar trámite a las denuncias penales presentadas por motivo de maltrato escolar y en general de cualquier tipo de violencia que se presente en el entorno escolar y dentro de la comunidad educativa;
 
-IV. Formular y administrar bases de datos que contengan información de carácter público a efecto que pueda registrarse el seguimiento de los casos donde las personas que integren la comunidad educativa sean víctima de algún delito que atente contra su integridad personal, desde la etapa de averiguación previa y hasta la ejecución de la sentencia, incluyendo el procedimiento respectivo para la reparación del daño, observando la mayor protección de la identidad y datos personales conforme a la legislación aplicable;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. Formular y administrar bases de datos que contengan información de carácter público a efecto que pueda registrarse el seguimiento de los casos donde las personas que integren la comunidad educativa sean víctima de algún delito que atente contra su integridad personal, desde la etapa de averiguación previa o investigación y hasta la ejecución de la sentencia, incluyendo el procedimiento respectivo para la reparación del daño, observando la mayor protección de la identidad y datos personales conforme a la legislación aplicable;
 
 V. Participar con las instancias correspondientes en mecanismos de detección, denuncia y canalización de los casos de violencia en el entorno escolar, así como prácticas discriminatorias y de maltrato en la comunidad educativa, que permita articular una estrategia facilitadota (sic) de referencia y contrarreferencia de personas generadoras y receptoras de las mismas;
 
@@ -683,3 +685,13 @@ En cumplimiento a lo dispuesto por los artículos 122, apartado C, Base Segunda,
 G.O. 12 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
