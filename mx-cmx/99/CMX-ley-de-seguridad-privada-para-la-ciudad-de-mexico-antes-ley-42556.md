@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-seguridad-privada-para-la-ciudad-de-mexico-antes-ley-425
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-24"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42556&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-12-14"
 
 LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 24 de enero de 2005.
 
@@ -604,9 +604,13 @@ El titular del Registro será el responsable de la confidencialidad, guarda, cus
 
 El Registro proporcionará información de acuerdo con lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, o a petición de autoridad competente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 27.
 
-De toda información, registro, folio o certificación que proporcione el Registro, deberá expedirse constancia por escrito debidamente firmada por el servidor público competente, previa exhibición y entrega del comprobante del pago de derechos que por este concepto realice el interesado, conforme a lo que disponga el Código Financiero.
+De toda información, registro, folio o certificación que proporcione el Registro, deberá expedirse constancia por escrito debidamente firmada por el servidor público competente, previa exhibición y entrega del comprobante del pago de derechos que por este concepto realice el interesado, conforme a lo que disponga el Código Fiscal del Distrito Federal.
 
 ### CAPÍTULO VIII
 
@@ -674,9 +678,11 @@ VI. Informar a la Secretaría de las modificaciones que se registren, en relaci�
 
 VII. Informar al Ministerio Público de aquellas conductas que sean probablemente constitutivas de delito en las que intervenga su personal o elementos operativos o de apoyo, debiendo aportar los datos de que disponga para el esclarecimiento de los hechos;
 
-> <small>(ADICIONADA, G.O. 26 DE JUNIO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VIII. En caso de homicidio deberá informar inmediatamente al Ministerio Público, proporcionando toda la información requerida del presunto culpable, de lo contrario se hará acreedor a las sanciones que el Código Penal del Distrito Federal señala.
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VIII. En caso de homicidio deberá informar inmediatamente al Ministerio Público, proporcionando toda la información requerida del probable responsable o imputado, de lo contrario se hará acreedor a las sanciones que el Código Penal para el Distrito Federal señala;
 
 IX. Contar en su organización con un jefe de operaciones por lo menos, debiendo hacer del conocimiento de la Secretaría el nombre de éste para su integración en el Registro;
 
@@ -746,7 +752,11 @@ I. Cubrir los daños que provoque cualquier elemento de su seguridad privada; si
 
 II. En el caso de que su seguridad privada no cuente con los requisitos que exige la ley de Seguridad Privada y la ley de Seguridad Pública ambas del Distrito Federal, por el solo hecho de contratarlo se hará acreedor de una multa de 3500 a 5000 veces la Unidad de Cuenta de la Ciudad de México vigente.
 
-III. Para los casos de lesiones y homicidio por parte del prestador del servicio de seguridad privada, el prestatario deberá denunciar los hechos, inmediatamente al Ministerio Público, proporcionando toda la información requerida del presunto responsable, de lo contrario se hará acreedor a las sanciones que el Nuevo Código Penal del Distrito Federal señalan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III. Para los casos de lesiones y homicidio por parte del prestador del servicio de seguridad privada, el prestatario deberá denunciar los hechos, inmediatamente al Ministerio Público, proporcionando toda la información requerida del probable responsable o imputado, de lo contrario se hará acreedor a las sanciones que el Código Penal para el Distrito Federal señala.
 
 ### CAPÍTULO XI. De la suspensión de la prestación del servicio
 
@@ -1145,3 +1155,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
