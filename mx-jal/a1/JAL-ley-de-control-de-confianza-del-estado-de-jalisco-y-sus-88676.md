@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-control-de-confianza-del-estado-de-jalisco-y-sus-88676"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2012-07-21"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CONTROL DE CONFIANZA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -73,9 +73,11 @@ I. En el Poder Ejecutivo:
 
 a) El Gobernador del Estado;
 
-b) La Secretaría de Seguridad Pública, Prevención y Reinserción Social;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
 
-c) La Procuraduría General de Justicia;
+b) La Fiscalía General del Estado;
+
+c) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2014)
 
 d) La Procuraduría Social;
 
@@ -83,7 +85,7 @@ e) La Secretaría Ejecutiva del Consejo Estatal de Seguridad Pública;
 
 f) El Instituto Jalisciense de Ciencias Forenses, y
 
-g) La Secretaría de Vialidad y Transporte.
+g) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2014)
 
 (NOTA: EL 31 DE MARZO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 86/2012, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -205,7 +207,9 @@ En el caso de los SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN DE JUSTICIA Y defen
 
 1. La evaluación de control de confianza se aplicará, cuando menos, cada dos años y se realizará con el apoyo de las unidades administrativas, órganos y organismos competentes.
 
-2. A los ministerios públicos, secretarios del Ministerio Público, actuarios de la Procuraduría General de Justicia, así como a los peritos se les aplicará cuando menos cada tres años.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+2. A los ministerios públicos, secretarios del Ministerio Público, actuarios de la Fiscalía General, así como a los peritos se les aplicará cuando menos cada tres años.
 
 ###### Artículo 15.
 
@@ -221,7 +225,9 @@ En el caso de los mandos operativos y sus elementos de las instituciones de segu
 
 Concluido el proceso de certificación en relación con los integrantes de las instituciones de seguridad pública y de procuración de justicia, el Centro Estatal de Evaluación y Control de Confianza y, en su caso, las unidades de control de confianza expedirán el certificado correspondiente al que se refiere la Ley General del Sistema Nacional de Seguridad Pública, siempre que se hayan acreditado las evaluaciones correspondientes y se haya verificado el cumplimiento de los objetivos previstos en la ley antes mencionada.
 
-### Capítulo III. Del Centro Estatal de Evaluación y Control de Confianza y de la Unidad de Control de Confianza de la Procuraduría General de Justicia del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo III. Del Centro Estatal de Evaluación y Control de Confianza y de la Unidad de Control de Confianza de la Fiscalía General del Estado
 
 ###### Artículo 17.
 
@@ -243,7 +249,9 @@ VII. Recomendar la capacitación y la implementación de las medidas que se deri
 
 VIII. Vigilar que en los procesos de evaluación se tomen en cuenta la relación de quejas y todos los antecedentes de los mandos operativos y sus elementos de las instituciones de seguridad pública y servidores públicos;
 
-IX. En su caso, dirigir, aplicar y calificar los exámenes a los que hace referencia la presente ley, a excepción de los realizados a los aspirantes o elementos integrantes de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IX. En su caso, dirigir, aplicar y calificar los exámenes a los que hace referencia la presente ley, a excepción de los realizados a los aspirantes o elementos integrantes de la Fiscalía General del Estado;
 
 X. Ser el enlace con el Centro Nacional de Certificación y Acreditación, en materia de acreditación y control de confianza, y
 
@@ -251,9 +259,13 @@ X. Ser el enlace con el Centro Nacional de Certificación y Acreditación, en ma
 
 XI. Apoyar AL PODER JUDICIAL, al Poder Legislativo y a los ayuntamientos en los procesos de control de confianza que realicen a sus servidores públicos, previo acuerdo respectivo.
 
-2. La Procuraduría General de Justicia del Estado contará con su propia Unidad de Confianza, que tendrá autonomía técnica, y será la encargada de aplicar y evaluar los exámenes de control de confianza a que se refieren la presente ley y demás ordenamientos aplicables; en lo concerniente, tendrá las atribuciones y facultades establecidas en el presente artículo al Centro Estatal de Evaluación y Control de Confianza y emitirá la certificación a que alude la Ley General del Sistema Nacional de Seguridad Pública a quienes acrediten los requisitos de ingreso, permanencia y promoción.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
 
-3. El reglamento de la presente ley que expida el Ejecutivo, establecerá la estructura administrativa de la unidad denominada Centro Estatal de Evaluación y Control de Confianza, y el reglamento de la Procuraduría General de Justicia del Estado, de la Unidad de Control de Confianza a su cargo.
+2. La Fiscalía General del Estado contará con su propia Unidad de Confianza, que tendrá autonomía técnica, y será la encargada de aplicar y evaluar los exámenes de control de confianza a que se refieren la presente ley y demás ordenamientos aplicables; en lo concerniente, tendrá las atribuciones y facultades establecidas en el presente artículo al Centro Estatal de Evaluación y Control de Confianza y emitirá la certificación a que alude la Ley General del Sistema Nacional de Seguridad Pública a quienes acrediten los requisitos de ingreso, permanencia y promoción.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+3. El reglamento de la presente ley que expida el Ejecutivo, establecerá la estructura administrativa de la unidad denominada Centro Estatal de Evaluación y Control de Confianza, y el reglamento de la Fiscalía General del Estado, de la Unidad de Control de Confianza a su cargo.
 
 ###### Artículo 18.
 
@@ -342,3 +354,9 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
