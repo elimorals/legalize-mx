@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -402,7 +402,9 @@ II. La venta de cigarros por unidad suelta;
 
 III. El cruce de apuestas en el interior de los establecimientos mercantiles, excepto en los casos en que se cuente con la aprobación correspondiente de la Secretaría de Gobernación;
 
-IV. La retención de personas dentro del establecimiento mercantil. En caso de negativa de pago por parte del cliente o de la comisión de algún delito, se solicitará la intervención inmediata a las autoridades competentes;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. La retención de personas dentro del establecimiento mercantil. En caso de negativa de pago por parte del cliente o de la comisión de algún hecho que la ley señale como delito, se solicitará la intervención inmediata a las autoridades competentes;
 
 V. El lenocinio, pornografía, prostitución, consumo y tráfico de drogas, delitos contra la salud, corrupción de menores, turismo sexual, trata de personas con fines de explotación sexual;
 
@@ -1330,7 +1332,9 @@ I. Expendan bebidas alcohólicas y productos derivados del tabaco a menores de e
 
 II. Vendan y/o distribuyan bebidas alcohólicas sin contar con el permiso o aviso correspondiente, que los faculte para tal efecto;
 
-III. Realicen, permitan o participen en las siguientes actividades: pornografía infantil, prostitución infantil, turismo sexual infantil, trata de menores con fines de explotación sexual, lenocinio, narcotráfico y en general aquellas actividades que pudieran constituir un delito grave. Para los efectos de esta fracción, quedarán comprendidos como parte del establecimiento mercantil, aquellas accesorias, bodegas o espacios anexos al mismo que sean o hayan sido utilizados para lo que establece esta fracción;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III. Realicen, permitan o participen en los delitos previstos en el Libro Segundo, Parte Especial, Título Sexto del Código Penal para el Distrito Federal relativos al Libre Desarrollo de la Personalidad cometidos en contra de las personas mayores y menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho o personas que no tengan la capacidad de resistir la conducta, y en general, aquellas conductas que pudieran constituir un delito por los que amerite prisión preventiva oficiosa en los términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos. Para los efectos de esta fracción, quedarán comprendidos como parte del establecimiento mercantil, aquellas accesorias, bodegas o espacios anexos al mismo que sean o hayan sido utilizados para lo que establece esta fracción;
 
 IV. Expendan bebidas adulteradas, o con substancias químicas que puedan afectar la salud del consumidor;
 
@@ -1529,3 +1533,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
