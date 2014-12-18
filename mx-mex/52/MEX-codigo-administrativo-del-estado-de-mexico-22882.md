@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-12-17"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -49,23 +49,39 @@ CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
 I. Salud;
 
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Educación, ejercicio profesional, investigación científica y tecnológica, juventud y mérito civil;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-III. (DEROGADA, G.G. 3 DE MAYO DE 2006)
+II. Educación, ejercicio profesional, investigación científica y tecnológica, cultura, deporte, juventud, instalaciones educativas y mérito civil;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+III. Turismo;
 
 IV. Ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población;
 
 V. Protección civil;
 
-VI. Infraestructura vial y transporte;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+VI. Transporte;
 
 VII. Tránsito y estacionamientos;
 
-VIII. Fomento y desarrollo agropecuario, acuícola y forestal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX. Fomento económico;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+VIII. Fomento y desarrollo agropecuario y acuícola;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+IX. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -75,9 +91,9 @@ X. Protección e integración al desarrollo de las personas con discapacidad;
 
 XI. Obra pública;
 
-> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII. Adquisiciones, enajenaciones, arrendamientos y servicios;
+XII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -87,9 +103,23 @@ XIII. Información e investigación geográfica, estadística y catastral; y
 
 XIV. Periódico Oficial del Gobierno del Estado de México;
 
-> <small>(ADICIONADA, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XV. Los procesos de contratación y los contratos que celebre el Estado, sus dependencias y organismos auxiliares y, en su caso, los municipios y sus organismos.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XV. Participación pública-privada en proyectos para prestación de servicios;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XVI. Comunicaciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XVII. Construcciones.;
 
 REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)
 
@@ -1597,17 +1627,17 @@ V. El tratamiento, rehabilitación y reinserción social de los adictos, mediant
 
 37.- El Programa de Prevención y Atención a las Adicciones del Estado de México, abarcará a la población abierta, ubicará las zonas o sectores tanto urbanos, suburbanos o rurales que se identifiquen como sitios de riesgo o generador de adicciones; propiciará la participación de la familia y de la sociedad en la detección de los factores de riesgo y de protección, e impulsará también acciones tendientes a prevenir, reducir y evitar el consumo de sustancias psicoactivas.
 
-> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 2.
 
-37 Bis.- En los establecimientos mercantiles donde se vendan o suministren bebidas alcohólicas, se prohíbe su venta o suministro a menores de edad, por lo que se pedirá identificación oficial vigente, para verificar que se trate de un mayor de 18 años.
+37 Bis.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-(ADICIONADO, G.G. 22 DE FEBRERO DE 2013) (F. DE E., G.G. 28 DE FEBRERO DE 2013)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 2.
 
-37 Ter.- El establecimiento mercantil donde se vendan o suministren bebidas alcohólicas, deberá contar con la licencia de funcionamiento vigente que le autorice la venta de bebidas alcohólicas, la cual, se deberá colocar en un lugar visible dentro del propio establecimiento.
+37 Ter.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1667,9 +1697,9 @@ VI. Promover la formación y capacitación de recursos humanos de las institucio
 
 VII. Realizar periódicamente las visitas de inspección que permitan vigilar el cumplimiento de las disposiciones jurídicas en materia de prevención y atención de las adicciones por parte de quienes brinden los servicios especializados en la materia;
 
-> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Bis. Proporcionar asistencia técnica necesaria a los establecimientos de rehabilitación y atención privados, con base en los lineamientos que fije el Ejecutivo del Estado;
+VII Bis. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
 
@@ -1839,257 +1869,71 @@ XI. Promover el apoyo para la formación y capacitación de los recursos humanos
 
 46.- La Secretaría de Salud, por conducto del Instituto Mexiquense contra las Adicciones, implementará acciones conjuntas con los ayuntamientos para la prevención, el tratamiento y la rehabilitación de personas que sufren problemas de adicciones.
 
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 2.
 
-47.- Los ayuntamientos, para prevenir las adicciones, podrán restringir el expendio y consumo de bebidas alcohólicas y tabaco, en las distintas instalaciones recreativas y deportivas, o con motivo de la realización de festejos populares o tradicionales.
+47.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-###### Artículo 2.
-
-47 Bis.- Los ayuntamientos solo permitirán el funcionamiento de establecimientos mercantiles cuyo giro contemple la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo para su consumo en el interior, a las personas físicas y jurídico colectivas que cuenten previamente con el Dictamen de Factibilidad de Impacto Sanitario que expida para tal efecto el Consejo Rector de Impacto Sanitario.
-
-ADICIONADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2013)
-
-Las autorizaciones se ajustarán a los horarios siguientes:
-
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
-
-l. Bares, cantinas, restaurantes bar y salones de baile, de las 11:00 a las 02:00 horas del día siguiente;
-
-> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
-
-II. Discotecas y video bares con pista de baile, de las 17:00 a las 02:00 horas del día siguiente;
-
-> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
-
-III. Pulquerías, de las 15:00 a las 23:00 horas;
-
-> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
-
-IV. Centros nocturnos y cabarets, de las 20:00 a las 02:00 horas del día siguiente;
-
-> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
-
-V. Bailes públicos, de las 17:00 a las 02:00 horas del día siguiente; y
-
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
-
-VI. Centros botaneros y cerveceros, de las 15:00 a las 22:00 horas;
-
-> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
-
-VII. Restaurantes bar, con un horario máximo a las 02:00 horas del día siguiente. En este tipo de establecimientos sólo se podrá vender o suministrar bebidas alcohólicas hasta la 01:30 horas y cerrarán sus instalaciones a las 02:00 horas.
-
-> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
-
-Los horarios a los que se hace referencia en las fracciones anteriores, por ningún motivo podrán ser ampliados.
-
-> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
-
-Cuando por su denominación algún establecimiento no se encuentre comprendido en las clasificaciones anteriores, se ubicará en aquel que por sus características les sea más semejante.
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-En ningún caso, se podrá permitir la permanencia de los consumidores dentro del establecimiento, después del horario autorizado.
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-Las autoridades sanitarias así como las municipales, en el ámbito de sus respectivas atribuciones, como parte de la cultura de prevención y atención a las adicciones, y a la protección contra riesgos a la salud, vigilarán que no se vendan o suministren bebidas alcohólicas a las personas menores de edad o incapaces, o fuera de los horarios autorizados.
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-Las autoridades podrán actuar por sí o por denuncia ciudadana.
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-Si del resultado de las verificaciones se aprecia el incumplimiento de estas disposiciones se procederá administrativamente contra los responsables y penalmente conforme a las disposiciones aplicables en la materia.
-
-> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 2.
 
-47 Ter.- Queda prohibida la contratación de menores de edad en los giros mercantiles citados en el artículo anterior; además será requisito para su operación, los siguientes:
+47 Bis.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
-
-l. Contar con un aparato que mida el nivel de alcohol de sus clientes, para que al observarles notoriamente alcoholizados, se les ofrezca llamar a un taxi, exhortándoles a no conducir;
-
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
-
-II. Contar con publicidad escrita visible que indique: "El abuso en el consumo de bebidas alcohólicas es dañino para la salud", "El consumo de bebidas alcohólicas está prohibido a menores de edad", "Facilitar el acceso de bebidas alcohólicas a los menores constituye un delito". "La licencia de funcionamiento vigente, que autorice la venta de bebidas alcohólicas deberá estar en lugar visible dentro del propio establecimiento", "La venta de bebidas alcohólicas sin licencia es un delito", "Por tu seguridad, propón un conductor designado", "Está prohibida la venta, suministro y consumo de bebidas alcohólicas fuera de este establecimiento".
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 2.
 
-47 Quáter.- La venta de bebidas alcohólicas en botella cerrada en aquellos establecimientos mercantiles cuyo giro la contemple, sólo será permitida por los ayuntamientos en un horario de las 07:00 a las 22:00 horas de lunes a sábados y los domingos de las 07:00 a las 17:00 horas. En ningún caso se autorizará la venta de bebidas alcohólicas en botella cerrada después de los horarios establecidos.
+47 Ter.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-Las autoridades sanitarias, así como las municipales, en el ámbito de sus respectivas atribuciones, para la prevención y atención de las adicciones, vigilarán que no se expendan bebidas alcohólicas en botella cerrada fuera del horario autorizado.
-
-Las autoridades podrán actuar por sí o por denuncia ciudadana.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 2.
 
-48.- Los ayuntamientos en sus bandos o reglamentos, obligarán a los propietarios y encargados de los establecimientos mercantiles que expenden bebidas alcohólicas a lo siguiente:
+47 Quáter.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-I. Orientar sobre las alternativas de servicio de transporte a sus clientes, cuando consuman bebidas alcohólicas;
-
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
-
-II. Verificar que las personas que consumen bebidas alcohólicas en esos establecimientos sean mayores de edad, y en caso de que aprecien que un mayor de edad facilite bebidas alcohólicas a un menor o incapaz, informar inmediatamente a las autoridades;
-
-III. Evitar que se sirvan o expendan bebidas adulteradas, alteradas o contaminadas con sustancias tóxicas;
-
-IV. Cumplir con los horarios autorizados para la venta, expendio o consumo de bebidas alcohólicas; y
-
-V. Informar a sus clientes sobre los efectos nocivos del abuso en el consumo de alcohol.
-
-> <small>(ADICIONADA, G.G. 8 DE MARZO DE 2011)</small>
-
-VI. Contar con instrumentos que permitan a los clientes que así lo soliciten cuantificar la concentración de alcohol en la sangre a través del aliento espirado, con el objeto principalmente de contribuir al consumo moderado y la prevención de accidentes.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-Con el objeto de combatir el alcoholismo, los Ayuntamientos y las autoridades estatales, en el ámbito de sus respectivas competencias, no autorizarán la instalación de establecimientos dedicados a la venta de bebidas alcohólicas en envase cerrado para su consumo inmediato o por copeo, en esos establecimientos, que se ubiquen en un radio no menor de 500 metros de centros educativos, estancias infantiles, instalaciones deportivas o centros de salud.
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 2.
 
-48 Bis.- El Consejo Rector de Impacto Sanitario es la autoridad encargada de emitir el Dictamen de Factibilidad de Impacto Sanitario para la solicitud y refrendo que realice el ayuntamiento para la licencia de funcionamiento que deben obtener los establecimientos mercantiles con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
+48.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-###### Artículo 2.
-
-48 Ter.- El Consejo Rector de Impacto Sanitario se integrará por:
-
-l. Un Presidente, que será el Comisionado para la Protección contra Riesgos Sanitarios del Estado de México;
-
-II. Un Secretario Técnico, que será nombrado por el Presidente;
-
-III. Cinco Vocales, que serán los representantes:
-
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
-
-a) De la Secretaría General de Gobierno, por conducto de la Coordinación General de Protección Civil del Estado de México.
-
-b) De la Secretaría de Educación.
-
-c) De la Secretaría de Desarrollo Económico.
-
-d) De la Secretaría del Medio Ambiente.
-
-e) Del Instituto Mexiquense contra las Adicciones.
-
-Quienes tendrán derecho a voz y voto, y podrán designar a un suplente.
-
-El presidente deberá convocar como invitados permanentes al Consejo, representantes:
-
-a) De la sociedad civil.
-
-b) Del sector empresarial y de cámaras de comercio.
-
-c) De las asociaciones de colonos.
-
-d) De la Comisión de Derechos Humanos del Estado de México o de la Defensoría Municipal de Derechos Humanos.
-
-e) De las asociaciones de padres de familia del sector educativo.
-
-f) Del ayuntamiento de cuyo territorio se pretende emitir el dictamen de factibilidad.
-
-Quienes tendrán derecho a voz, debiéndose renovar escalonadamente cada dos años.
-
-El cargo de miembro del Consejo Rector de Impacto Sanitario será honorífico y habrá un suplente que integre el Consejo, en caso de ausencia de los titulares.
-
-Las determinaciones del Consejo Rector de Impacto Sanitario se tomarán por mayoría de votos, para lo cual, el Secretario contará únicamente con voz. El Presidente, en caso de empate, tendrá voto de calidad.
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 2.
 
-48 Quáter.- Para el cumplimiento de sus fines, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
+48 Bis.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-l. Emitir el Dictamen de Factibilidad de Impacto Sanitario, necesario para que los ayuntamientos de la entidad, expidan y refrenden, dentro de sus atribuciones y competencias, las licencias que deben obtener los establecimientos mercantiles con venta o suministro de bebidas alcohólicas, para el consumo inmediato o al copeo para su debido funcionamiento;
-
-II. Elaborar el diagnóstico de la situación que prevalece en materia del funcionamiento de establecimientos mercantiles con venta o suministro de bebidas alcohólicas en la entidad, y su impacto sanitario en la comunidad, debiéndose allegar de la información correspondiente;
-
-III. Proponer programas y acciones tendientes a combatir el alcoholismo, su adicción y la violencia que su consumo genera, principalmente entre jóvenes y menores de edad, y apoyar su ejecución;
-
-IV. Solicitar la colaboración de las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal y municipal, y de los sectores social y privado, para el fomento de una nueva cultura para combatir al alcoholismo y sus efectos sociales;
-
-V. Proponer la actualización del marco jurídico de la materia;
-
-VI. Adoptar las medidas administrativas necesarias para favorecer el acceso de la ciudadanía a los servicios que brinda;
-
-VII. Crear oficinas regionales para la expedición del Dictamen de Factibilidad de Impacto Sanitario;
-
-VIII. Tomar los acuerdos que se consideren necesarios para orientar las acciones que den cumplimiento a los fines del Consejo Rector de Impacto Sanitario;
-
-IX. Adoptar las demás acciones necesarias para el cumplimiento de su objeto.
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 2.
 
-48 Quintus.- Para la solicitud y refrendo de la licencia de funcionamiento de un establecimiento mercantil con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo, se requiere del Dictamen de Factibilidad de Impacto Sanitario, emitido por el Consejo Rector.
+48 Ter.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-###### Artículo 2.
-
-48 Sexies.- El Dictamen de Factibilidad de Impacto Sanitario es el documento oficial con vigencia anual que es requisito obligatorio para que los ayuntamientos emitan o refrenden, dentro de sus atribuciones y competencia, las licencias de funcionamiento que deben obtener los establecimientos mercantiles con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
-
-El Dictamen de Factibilidad de Impacto Sanitario es de carácter personal e intransferible, por ende, todo acto contario (sic) a lo señalado será nulo de pleno derecho.
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 2.
 
-48 Septies.- Son requisitos para la expedición del Dictamen de Factibilidad de Impacto Sanitario:
+48 Quáter.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-l. Solicitud firmada por el interesado que deberá presentar vía electrónica o por escrito, manifestando, bajo protesta de decir verdad, que los datos en ella contenidos son ciertos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. A la solicitud mencionada, se acompañará el original para cotejo y copia de:
+###### Artículo 2.
 
-a) Identificación oficial del titular que contenga fotografía y firma. En caso de que no sea el titular quien realice el tramite, deberá presentar carta poder y copia de identificación oficial del poderdante, apoderado y dos testigos. Tratándose de personas jurídicas colectivas, presentar el instrumento notarial con el que acredite su personalidad.
+48 Quintus.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-b) Documento con el que se acredite la propiedad o posesión del inmueble donde se encuentre instalado o se pretenda instalar el establecimiento mercantil con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato o al copeo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-c) Aviso de funcionamiento emitido por la jurisdicción de regulación sanitaria del lugar donde se encuentre instalado o se pretenda instalar el establecimiento mercantil con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato o al copeo.
+###### Artículo 2.
 
-d) Acta constitutiva en caso de ser persona jurídica colectiva.
+48 Sexies.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-e) Dictamen de Viabilidad emitido por la Secretaría General de Gobierno, por conducto de la Coordinación General de Protección Civil del Estado de México, para los establecimientos de alto o mediano riesgo o, en su caso, el Dictamen de Viabilidad de bajo riesgo, emitido por la autoridad de Protección Civil Municipal.
+###### Artículo 2.
 
-f) Dictamen de Impacto Regional para el caso de predios o inmuebles que por sus características producen un impacto significativo sobre la infraestructura y equipamiento urbano y servicios públicos previstos para una región o para un centro de población, en relación con su entorno regional.
-
-g) Fotografías de la fachada y del interior del inmueble.
-
-h) En su caso, licencia de funcionamiento que se pretenda renovar.
-
-i) Croquis de localización, señalando colindancias, abarcando un radio no menor de 500 metros del establecimiento mercantil con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato o al copeo, que incluya puntos claves de referencia tales como centros escolares, estancias infantiles, instalaciones deportivas y centros de salud.
-
-j) Presentar opinión emitida por la autoridad auxiliar correspondiente.
-
-III. Acreditar que el establecimiento cumpla con las condiciones de higiene y seguridad que establezcan las disposiciones legales y normas sanitarias;
-
-IV. Acreditar la instalación de aislante de sonido que garantice el no generar ruido en el medio ambiente o contaminación, que afecte a la salud de los usuarios, de dependientes y personal expuesto. Quedando prohibido el uso de aislante que pongan en riesgo la seguridad de los usuarios;
-
-V. Acreditar la instalación de sistemas visibles, cuya finalidad sea tener a la vista de los usuarios y personal expuesto a contaminación auditiva, los niveles de ruido, y dar a conocer si se encuentra dentro del rango permitido o se ha excedido del mismo.
-
-En ningún caso se podrá exceder del límite de 60db (A) para las emisiones sonoras, en función de los niveles ponderados en A [db(A)].
-
-VI. Contar con la evidencia documental y fotográfica que permita acreditar el cumplimiento de la Ley General para el Control del Tabaco y su Reglamento.
-
-Se negará el Dictamen de Factibilidad de Impacto Sanitario cuando se incumpla con cualquiera de los requisitos establecidos en este Código.
+48 Septies.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE JULIO DE 2014)</small>
 
@@ -2227,7 +2071,7 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 53.- Los edificios o locales, incluidos los centros de prevención y readaptación social, deben contar con las instalaciones sanitarias que señalen las normas técnicas estatales correspondientes.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.34 Bis], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 #### SECCION SEGUNDA. De las medidas de seguridad sanitaria
 
@@ -2237,21 +2081,13 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 ###### Artículo 2.
 
-53 Bis.- Los propietarios ó poseedores de los edificios y locales, o de los negocios en ellos establecidos, además de cumplir con la obligación de ejecutar las obras que se requieran para cumplir con las condiciones de higiene y de seguridad que establezcan las disposiciones legales y las normas sanitarias locales, tendrán la obligación de instalar aislantes de sonido, particularmente en restaurantes-bares, bares, discotecas y centros de espectáculos para no generar ruido en el medio ambiente, o contaminación, que afecte la salud de los usuarios, de dependientes y personal expuesto; así como el derecho de terceros, por encima de los siguientes niveles:
+53 Bis.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-Los límites máximos permisibles para las emisiones sonoras dentro de los establecimientos señalados, se determinan en función de decibeles ponderados en A[db(A)]; por lo que dentro de restaurantes, bares, discotecas y centros de espectáculos, los límites máximos de emisión serán de 60db (A).
-
-Será obligación de los titulares instalar sistemas visibles cuya finalidad es tener a la vista de los usuarios y personal expuesto a contaminación auditiva, los niveles de ruido y dar a conocer si se encuentran en el rango permitido o se ha excedido; por lo que en ese momento los titulares y/o empleados tendrán la obligación de disminuir los volúmenes de sonido y ruido hasta que se mantengan en el rango permitido.
-
-Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo la seguridad de los usuarios.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.34 Ter], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 2.
 
-53 Ter.- Las instalaciones y edificios que se destinen a centros de reunión y/o espectáculos públicos, además de los requisitos reglamentarios respectivos, deberán dar cumplimiento a las disposiciones jurídicas aplicables en materia de límites máximos permisibles para las emisiones sonoras, así como tener acceso directo a la vía pública, espacios abiertos, escaleras de emergencia, y todas aquellas disposiciones que, a juicio del Ejecutivo del Estado, sean necesarias para la evacuación del público en caso de emergencia.
+53 Ter.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.35], G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2587,27 +2423,15 @@ III. Con multa equivalente de doscientas cincuenta a dos mil veces el salario m�
 
 IV. Con multa equivalente de mil a cuatro mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, en caso de no contar con la licencia a que se refiere el artículo 2.64.
 
-> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Con multa equivalente de mil quinientas a cuatro mil veces de salario mínimo general vigente del área geográfica que corresponda, al momento de cometer la infracción a quién incumpla con la prohibición de vender bebidas alcohólicas fuera del horario autorizado.
+V. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 2.
 
-72 Bis.- Las infracciones a lo previsto en este Libro serán sancionadas por los ayuntamientos en los términos siguientes:
-
-I. Con multa equivalente de doscientos cincuenta a quinientas veces de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción a quien contando con autorización vigente incumpla con el horario autorizado;
-
-II. Con multa equivalente de dos mil a dos mil quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción y la suspensión definitiva, por el incumplimiento a lo dispuesto en la fracción V del artículo 2.47 Bis;
-
-III. Con multa equivalente de quinientas a mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, y la clausura definitiva por el incumplimiento a lo dispuesto en el artículo 2.37 Ter; y
-
-IV. Con multa equivalente de quinientas a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, y la clausura definitiva por el incumplimiento a lo dispuesto en los artículos 2.37 Bis y 2.47 Ter primer párrafo.
-
-> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
-
-V. Con multa equivalente de mil quinientas a cuatro mil veces de salario mínimo general vigente del área geográfica que corresponda, al momento de cometer la violación a lo dispuesto por las fracciones I y II del artículo 2.47 Ter.
+72 Bis.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -2639,7 +2463,7 @@ Una vez aplicada esta medida de seguridad se podrá iniciar con el procedimiento
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
-I. Cuando los establecimientos a que se refieren los artículos 2.64 y 2.65 carezcan de la correspondiente autorización sanitaria; y
+I. Cuando los establecimientos a que se refieren los artículos 2.64 y 2.65 carezcan de la correspondiente autorización sanitaria;
 
 II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de este Título y de las disposiciones que de él emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
 
@@ -2651,19 +2475,17 @@ V. Cuando se compruebe que las actividades que se realizan en un establecimiento
 
 VI. Reincidencia por tercera ocasión.
 
-> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Cuando los establecimientos a que se refiere el artículo 2.48 Quintus carezcan del Dictamen de Factibilidad de Impacto Sanitario correspondiente.
+VII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
-En los casos de clausura definitiva quedarán sin efecto las autorizaciones que, en su caso, se hubiesen otorgado al establecimiento o construcción de que se trate.
-
-(REUBICADO [N. DE E. Y REFORMADO ANTES ARTÍCULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
 76.- Se sancionará con arresto hasta por treinta y seis horas:
 
-I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y
+I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria;
 
 II. A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
 
@@ -4813,15 +4635,25 @@ a) Su existencia o gestación, podrá ser denunciada por cualquier persona ante 
 
 b) En casos de flagrancia, las autoridades estatales y municipales podrán instrumentar y ejecutar, como medida de seguridad, operativos de desalojo inmediato para evitar su consolidación.
 
-X. Ninguna licencia de construcción permite y/o acredita operación o funcionamiento de comercios o servicios que deban regirse por otro ordenamiento, como es el caso de comercios dedicados a la venta de productos con contenido erótico, así como restaurantes-bares, bares, discotecas y centros de espectáculos en los que se vendan bebidas alcohólicas, ya sea en envases abiertos o para consumo por copeo, deberán:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-a) Ubicarse exclusivamente en las zonas con el uso de suelo comercial aprobados por los Cabildos. En ningún caso, se podrán ubicar en un radio no menor de 300 metros de algún centro escolar, instalación deportiva o centro de salud;
+X. Ninguna licencia de construcción permite y/o acredita operación o funcionamiento de una unidad económica de alto impacto que deba regirse por otro ordenamiento, como es el caso de comercios dedicados a la venta de productos con contenido erótico y/o sexual, restaurantes-bares, bares, discotecas, antros, cabarets, centros nocturnos y centros de espectáculos en los que se vendan bebidas alcohólicas, ya sea en envases abiertos o para consumo por copeo, deberán:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+a) Ubicarse exclusivamente en las zonas con el uso de suelo comercial aprobados por los cabildos. En ningún caso, se podrán ubicar en un radio no menor de 500 metros de algún centro educativo, estancias infantiles, instalación deportiva o centro de salud;
 
 b) Contar con las medidas de seguridad necesarias y cumplir con la normatividad vigente;
 
-c) No podrán colindar con casa habitación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+c) No podrán instalarse en el interior de una colonia, fraccionamiento, conjunto urbano o condominio, ni colindar con casa habitación;
 
 d) Ser inscritos en los registros municipales sobre establecimientos comerciales, detallando la licencia con el giro específico e impacto que produce su actividad, así como las demás características que el Ayuntamiento determine.
 
@@ -4907,7 +4739,9 @@ La Secretaría podrá solicitar en su caso, la opinión técnica de los integran
 
 #### SECCIÓN CUARTA. De los Conjuntos Urbanos
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
 
@@ -4967,7 +4801,9 @@ En aquellos casos en que el uso y aprovechamiento específico de los lotes de te
 
 ###### Artículo 5.
 
-37.- Los conjuntos urbanos requieren autorización de la Secretaría de conformidad con lo que establezca el presente Libro y su reglamentación y serán de los tipos siguientes:
+37.- Los conjuntos urbanos requieren autorización de la Secretaría de conformidad con lo que establezca el presente Libro, su reglamentación y demás disposiciones aplicables, serán de los tipos siguientes:
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 I. Habitacional, en las siguientes modalidades:
 
@@ -4985,15 +4821,43 @@ f) Residencial alto;
 
 g) Campestre;
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 II. Industrial o Agroindustrial;
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 III. Abasto, Comercio y Servicios;
 
-IV. Científicos y Tecnológicos; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Mixto.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. Científicos y Tecnológicos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+V. De Unidades Económicas de Alto Impacto;
+
+a) Para el establecimiento de unidades económicas que su actividad principal sea la enajenación y comercialización de vehículos automotores usados en tianguis de autos y las unidades económicas de aprovechamiento de autopartes de vehículos usados que han concluido su vida útil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+VI. Mixto.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 Los conjuntos urbanos mixtos serán aquellos que comprendan a dos o más tipos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Los conjuntos urbanos de Unidades Económicas de Alto Impacto no podrán formar parte de un conjunto urbano mixto.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5007,11 +4871,23 @@ I. Deberá ser solicitada ante la Secretaría, acompañada de la documentación 
 
 II. El número de viviendas y de usos del suelo dependerá de lo que establezca el Plan Municipal de Desarrollo Urbano y se determinará principalmente en función de la factibilidad de agua potable y energía eléctrica que emitan las autoridades competentes. Asimismo, se deberá cumplir con todas las condicionantes que se determinan en el presente Libro y su reglamentación correspondiente;
 
-III. Requerirán de constancia de viabilidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Su trámite y resolución se sujetará a lo dispuesto en este Libro y su reglamentación;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-V. Podrán comprender inmuebles de propiedad pública o privada;
+III. Requerirán de constancia de viabilidad, cuando se trate de Unidades Económicas de Alto Impacto, además deberán contar con el dictamen técnico de la Secretaría Desarrollo Económico;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. Su trámite y resolución se sujetará a lo dispuesto en este Libro, su reglamentación y demás disposiciones aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+V. Podrán comprender inmuebles de propiedad pública o privada, a excepción de los conjuntos urbanos de Unidades Económicas de Alto Impacto, que únicamente será en inmuebles de propiedad privada;
 
 VI. No procederá su autorización en áreas no urbanizables;
 
@@ -6823,6 +6699,10 @@ IX. Usuario: Persona física y jurídica colectiva, a cuyo cargo se contrata, po
 
 X. Vehículo: Medio de transporte dedicado a realizar los desplazamientos de las personas y sus equipajes.
 
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XI. Tráiler, autobuses y cualquier tipo de remolques: Es un vehículo de carga no motorizado que constan como mínimo de chasis, ruedas, superficie de carga y dependiendo de su peso y dimensiones, frenos propios que no se puede mover por sus propios medios, sino que es arrastrado y dirigido por otro vehículo.
+
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ## TITULO QUINTO. De los Servicios Auxiliares
@@ -6855,7 +6735,7 @@ VIII. Las demás señaladas por otros ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEXTO. De los vehículos abandonados
+### CAPITULO SEXTO. De los vehículos, tráileres, autobuses y cualquier tipo de remolques abandonados
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7233,13 +7113,13 @@ La Secretaría de Transporte elaborará y comunicará a los permisionarios, los 
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 #### SECCION PRIMERA. Consideraciones Generales
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 7.
 
@@ -7277,7 +7157,7 @@ VII. Las demás previstas en la Norma Técnica respectiva y demás disposiciones
 
 #### SECCIÓN SEGUNDA. De la declaración de abandono y el procedimiento de enajenación
 
-> <small>(REFORMADO, G.G. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Articulo 7.
 
@@ -7365,45 +7245,47 @@ Recibida la queja, la Secretaría de Transporte citará al agraviado y al conces
 
 De no lograrse la conciliación, la Secretaría de Transporte emitirá la resolución correspondiente.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 #### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
 
 ###### Artículo 7.
 
-72.- Se consideran de utilidad pública, aquellas acciones que tiendan a evitar el hacinamiento o saturación de vehículos en los establecimientos de depósito vehicular, a fin de evitar riesgos a la seguridad o a la salud pública.
-
-Las autoridades estatales competentes en materia de salubridad y preservación del equilibrio ecológico y protección al ambiente, podrán, conforme a las disposiciones que las rijan, realizar visitas de inspección a los establecimientos concesionados y formular recomendaciones u ordenar medidas de seguridad que tiendan a evitar, minimizar o mitigar posibles daños al ecosistema o a la salud pública.
+72.- Se consideran de utilidad pública, aquellas acciones que tiendan a evitar el hacinamiento o saturación de vehículos, tráileres, autobuses y cualquier tipo de remolques en los establecimientos de depósito vehicular, a fin de evitar riesgos a la seguridad o a la salud pública.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
+Las autoridades estatales competentes en materia de salubridad y preservación del equilibrio ecológico y protección al ambiente, podrán, conforme a las disposiciones que las rijan, realizar visitas de inspección a los establecimientos concesionados y formular recomendaciones u ordenar medidas de seguridad que tiendan a evitar, minimizar o mitigar posibles daños al ecosistema o a la salud pública.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
-73.- Para los efectos de este Libro, se consideran vehículos abandonados aquellos que hayan sido puestos a disposición de autoridad competente y depositados en alguno de los establecimientos concesionados que regula este Libro, siempre que no sean recuperados por persona alguna y que encuadren en cualquiera de los supuestos previstos por este ordenamiento.
+73.- Para los efectos de este Libro, se consideran vehículos, tráileres, autobuses y cualquier tipo de remolques abandonados, aquellos que hayan sido puestos a disposición de autoridad competente y depositados en alguno de los establecimientos concesionados que regula este Libro, siempre que no sean recuperados por persona alguna y que encuadren en cualquiera de los supuestos previstos por este ordenamiento.
 
-Los vehículos a que se refiere este Capítulo, no serán considerados como bienes mostrencos, de acuerdo a lo dispuesto por el Código Civil del Estado de México, por lo que su regulación se someterá exclusivamente a lo dispuesto en este Libro.
+Los vehículos, tráileres, autobuses y cualquier tipo de remolques a que se refiere este Capítulo, no serán considerados como bienes mostrencos, de acuerdo a lo dispuesto por el Código Civil del Estado de México, por lo que su regulación se someterá exclusivamente a lo dispuesto en este Libro.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
-74.- Los vehículos asegurados y que fueron remitidos a los depósitos vehiculares que causen abandono por seis meses, aplican a favor del Estado.
+74.- Los vehículos, tráileres, autobuses y cualquier tipo de remolques asegurados y que fueron remitidos a los depósitos vehiculares que causen abandono por seis meses, aplican a favor del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 #### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
 
 ###### Artículo 7.
 
-75.- Se iniciará el procedimiento de declaración de abandono de los vehículos depositados, para su destrucción, cuando se presente alguno de los supuestos siguientes:
+75.- Se iniciará el procedimiento de declaración de abandono de los vehículos, tráileres, autobuses y cualquier tipo de remolques depositados, para su destrucción, cuando se presente alguno de los supuestos siguientes:
 
-> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-I. Cuando hayan transcurrido seis meses, de la fecha en que se hubiere depositado el vehículo, a excepción de aquellos que se encuentren en proceso judicial o administrativo pendiente de resolver, o que dictada la resolución o sentencia, ésta, no haya quedado firme, en cuyo caso el plazo referido, se computará a partir del momento en que cause ejecutoria dicha resolución.
+I. Cuando hayan transcurrido tres meses, de la fecha en que se hubiere depositado el vehículo, tráiler, autobuses y cualquier tipo de remolques a excepción de aquellos que se encuentren en proceso judicial o administrativo pendiente de resolver, o que dictada la resolución o sentencia, ésta, no haya quedado firme, en cuyo caso el plazo referido, se computará a partir del momento en que cause ejecutoria dicha resolución;
 
-> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-II. Que la autoridad competente haya ordenado la liberación y entrega del vehículo, por parte de la autoridad competente y hayan transcurrido seis meses.
+II. Que la autoridad competente haya ordenado la liberación y entrega del vehículo, tráiler, autobuses y cualquier tipo de remolques por parte de la autoridad competente y hayan transcurrido seis meses.
 
 > <small>(ADICIONADO, G.G. 17 DE JULIO DE 2013)</small>
 
@@ -7417,21 +7299,37 @@ La Secretaría al expedir las tarifas para los servicios que presten los corralo
 
 I. Informar a la Secretaría de Transporte, cuando se actualice alguna de las causales a que hace referencia el artículo que antecede;
 
-II. Remitir a la Secretaría de Transporte, las placas y la tarjeta de circulación del vehículo, si las portara y conservara en la unidad; en caso de no ser así, comunicará bajo protesta de decir verdad, dicha circunstancia;
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-III. Cuando la Secretaría de Transporte reciba el listado por parte de los concesionarios, respecto de los vehículos susceptibles de ser declarados en abandono y por ende enajenados, mediante edicto publicado en el Periódico Oficial "Gaceta del Gobierno" y en un diario de mayor circulación del Estado de México dará a conocer los vehículos sujetos al procedimiento de abandono;
+II. Remitir a la Secretaría de Transporte, las placas y la tarjeta de circulación del vehículo, tráiler, autobuses y cualquier tipo de remolques si las portara y conservara en la unidad; en caso de no ser así, comunicará bajo protesta de decir verdad, dicha circunstancia;
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+III. Cuando la Secretaría de Transporte reciba el listado por parte de los concesionarios, respecto de los vehículos, tráiler, autobuses y cualquier tipo de remolques susceptibles de ser declarados en abandono y por ende enajenados, mediante edicto publicado en el Periódico Oficial "Gaceta del Gobierno" y en un diario de mayor circulación del Estado de México dará a conocer los vehículos, tráileres, autobuses y cualquier tipo de remolques sujetos al procedimiento de abandono;
 
 IV. En un plazo de siete días hábiles posteriores a la publicación del edicto referido en la fracción que antecede, el Titular de la Secretaría de Transporte, emitirá la Declaratoria de Abandono de los bienes en favor del Estado, que por medio de edicto deberá publicarse en el Periódico Oficial "Gaceta del Gobierno" y en un diario de mayor circulación del Estado de México;
 
 V. La enajenación se exceptúa de la subasta púbica;
 
-VI. El producto de la venta del vehículo enajenado se aplicará para la reparación del daño cuando lo hubiere, mismo que deberá ser reclamado dentro del plazo de un mes siguiente a la publicación del edicto respectivo, previa acreditación del interés jurídico; el remanente, en su caso, pasará a favor del Estado.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+VI. El producto de la venta del vehículo, tráiler, autobuses y cualquier tipo de remolques enajenado se aplicará para la reparación del daño cuando lo hubiere, mismo que deberá ser reclamado dentro del plazo de un mes siguiente a la publicación del edicto respectivo, previa acreditación del interés jurídico; el remanente, en su caso, pasará a favor del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+En caso de vehículos que hayan sido abandonados en la infraestructura vial y en estacionamientos de servicio al público, el producto de la venta pasará a favor del Estado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
 77.- El destino final de los vehículos rematados será invariablemente el de su destrucción total y su venta como desecho ferroso.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+Tratándose de tráileres, autobuses y cualquier tipo de remolques, el Estado a través de la Secretaría de Finanzas determinará su destino final.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7591,15 +7489,13 @@ V. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civ
 
 86.- La suspensión tiene por efecto, el impedimento para que, durante el tiempo que dure la sanción, el concesionario pueda prestar el servicio. En el caso del servicio público auxiliar de depósito y guarda de vehículos, subsistirán el resto de sus obligaciones derivadas de la concesión, incluida la de proveer del servicio al público para la devolución de vehículos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE LIBRO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO TERCERO. De los conductores
 
-# LIBRO OCTAVO
-
-Del tránsito, de los estacionamientos de servicio al público y de las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas
+# LIBRO OCTAVO. Del Tránsito y Estacionamientos de Servicio al Público
 
 ## TITULO SEGUNDO. Del tránsito
 
@@ -7607,7 +7503,7 @@ Del tránsito, de los estacionamientos de servicio al público y de las unidades
 
 ###### Artículo 8.
 
-1.- Este Libro tiene por objeto regular el tránsito de vehículos, personas y objetos que se realiza en la infraestructura vial primaria y local, el establecimiento de estacionamientos de servicio al público, así como las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas.
+1.- Este Libro tiene por objeto regular el tránsito de vehículos, personas y objetos que se realiza en la infraestructura vial primaria y local, así como el establecimiento de estacionamientos de servicio al público.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7617,25 +7513,23 @@ Del tránsito, de los estacionamientos de servicio al público y de las unidades
 
 2.- Las disposiciones de este Libro tienen como finalidad garantizar la seguridad de los peatones, conductores y pasajeros que utilizan la infraestructura vial, así como llevar a cabo un efectivo registro de aquellas unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas.
 
-### CAPITULO SEGUNDO. De las unidades económicas o establecimientos para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas
+### CAPÍTULO SEGUNDO. De los Vehículo (sic) Abandonados en Estacionamientos de Servicio al Público y en Infraestructura Vial
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
 3.- Son autoridades para la aplicación de este Libro la Secretaría de Seguridad Ciudadana y los municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-Corresponde a la Secretaría de Seguridad Ciudadana, ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria, y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público y en lo referente a las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas. La Secretaría de Desarrollo Económico contará con las atribuciones contenidas en el presente Libro.
+Corresponde a la Secretaría de Seguridad Ciudadana ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria, y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
 
-## TITULO TERCERO
-
-De los estacionamientos de servicio al público y de las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas
+## TÍTULO TERCERO. De los Estacionamientos de Servicio al Público
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7733,7 +7627,9 @@ II. Vehículos movidos por motores eléctricos;
 
 III. Vehículos de propulsión no mecánica;
 
-IV. Remolques.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. Tráiler, autobuses y cualquier tipo de remolques.
 
 ###### Artículo 8.
 
@@ -7851,9 +7747,9 @@ II. Detener la marcha de su vehículo cuando la autoridad establezca y lleve a c
 
 III. Someterse a las pruebas para la detección del grado de intoxicación que determine este Libro, a través del médico adscrito a la Oficialía Calificadora ante el cual sean presentados, cuando muestren síntomas de que conducen en estado de ebriedad o bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ## TITULO CUARTO. De las infracciones y sanciones
 
@@ -7865,215 +7761,105 @@ III. Someterse a las pruebas para la detección del grado de intoxicación que d
 
 Para efectos del párrafo anterior, se consideran estacionamientos de servicio al público, los locales destinados a la prestación al público del servicio de recepción, guarda y protección de vehículos a cambio del pago de una tarifa autorizada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO SEGUNDO. De la comercialización
 
 ###### Artículo 8.
 
-17 Bis.- Las unidades económicas o establecimientos para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas son:
+17 Bis.- Se prohíbe el abandono de vehículos en la infraestructura vial y en estacionamientos de servicio al público.
 
-l. Establecimientos de autopartes nuevas: aquellos que se dedican a la comercialización de piezas nuevas sueltas que no se encuentran adheridas a una base de vehículo de motor;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Establecimientos de deshuesadero: aquellos que se dedican a la comercialización de piezas usadas sueltas que no se encuentran adheridas a una base de vehículo de motor;
-
-III. Lotes de autos: unidades económicas o establecimientos de apertura y funcionamiento permanente, que se dedican a la compra, venta y recepción en consignación de vehículos automotores usados;
-
-IV. Establecimientos de mecánica y reparación de vehículos: aquellos que se dedican a la reparación o mantenimiento de vehículos usados y autopartes de tipo mecánico, eléctrico y estético;
-
-V. Tianguis de autos: unidades económicas o establecimientos de apertura y funcionamiento temporal, donde se realizan actos relacionados con la enajenación y comercialización de vehículos automotores usados;
-
-VI. Casas de empeño;
-
-VII. Agencias automotrices con venta de vehículos usados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-17 Ter.- Las unidades económicas o establecimientos para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas deberán:
+17 Ter.- Corresponde a la Secretaría de Seguridad Ciudadana el retiro de los vehículos que se encuentren abandonados en la infraestructura vial y en estacionamientos de servicio al público, debiendo remitirlos al depósito vehicular más cercano.
 
-l. Contar y operar con licencia de funcionamiento aprobada por cabildo, previo a lo cual, deberán obtener los dictámenes y autorizaciones respectivos, incluyendo el de Factibilidad Comercial Automotriz, aún tratándose de unidades económicas o establecimientos constituidos en bienes inmuebles de régimen social;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Contar y operar con los formatos de contratos de adhesión registrados ante la Procuraduría Federal de Protección al Consumidor. Este requisito sólo aplicará para los lotes de autos;
-
-III. Cumplir con las Normas Oficiales y Técnicas vigentes;
-
-IV. Contar y operar con un sistema interno que permita registrar de inmediato los autos o autopartes adquiridas e identificar plenamente al enajenante, debiendo proporcionar la información a la autoridad competente para los efectos conducentes;
-
-V. Abstenerse de vender y prohibir la venta y consumo de bebidas alcohólicas;
-
-VI. Observar un horario de las 8:00 y 20:00 horas;
-
-VII. Los propietarios o encargados de los establecimientos dedicados a la enajenación de vehículos, deberán consultar al menos los sistemas de vehículos robados REPUVE, Sistema Estatal y OCRA virtual. Si de la consulta se advierte que el vehículo tiene reporte de robo, deberá comunicarlo a la autoridad competente;
-
-VIII. Además de lo anterior, los tianguis de autos deberán:
-
-a) Contar con la superficie establecida en la Norma Técnica correspondiente;
-
-b) Elaborar un registro de las personas y de los vehículos objeto de enajenación, debiendo entregar a aquellos el comprobante correspondiente y asignarles el cajón de estacionamiento respectivo. Dicho registro estará a disposición de la Secretaría de Seguridad Ciudadana y de la Procuraduría General de Justicia del Estado de México.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-17 Quáter.- Para el refrendo anual de la licencia de funcionamiento deberán actualizarse los dictámenes y autorizaciones respectivos.
+17 Quáter.- Se considera abandono de vehículo en la infraestructura vial el que por sus características o condiciones físicas en la que se encuentre, ha permanecido evidentemente o notoriamente en ese lugar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-###### Artículo 8.
-
-17 Quintus.- Los usuarios deberán acreditar ante la autoridad competente, cuando ésta se los requiera, que los vehículos o autopartes significativas a enajenar cuentan con la documentación correspondiente que legitime su propiedad o posesión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-17 Sexies.- El Consejo Rector de Factibilidad Comercial Automotriz es la autoridad encargada de emitir el Dictamen de Factibilidad Comercial Automotriz, respecto de las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y de autopartes nuevas y usadas.
+17 Quintus.- Se considera abandono de vehículo en estacionamientos de servicio al público, cuando haya permanecido más de treinta días naturales sin que su propietario, poseedor o conductor se presente a retirarlo; esta disposición no se aplicará para los vehículos que se dejen en guarda o protección.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-###### Artículo 8.
-
-17 Septies.- El Consejo Rector de Factibilidad Comercial Automotriz se integrará por:
-
-l. Un Presidente, que será designado por el Secretario de Desarrollo Económico;
-
-II. Un Secretario Técnico, que será el Director General de Comercio, que tendrá voz pero sin voto;
-
-III. Cuatro Vocales que serán los representantes:
-
-a) Del Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
-
-b) De la Fiscalía Especializada para la Atención de Delitos de Robo de Vehículos de la Procuraduría General de Justicia del Estado de México;
-
-c) De la Dirección General de Combate al Robo de Vehículos y Transporte de la Secretaría de Seguridad Ciudadana;
-
-d) De la Secretaría de la Contraloría.
-
-Las sesiones del Consejo serán públicas, en donde el Presidente del Consejo deberá invitar a un representante del sector empresarial y a otro de la sociedad civil, además de un representante de los Ayuntamientos en cuyo territorio se pretende emitir el Dictamen de Factibilidad Comercial Automotriz, que tendrán voz, pero sin voto.
-
-Los cargos de los integrantes del Consejo son honoríficos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-17 Octies.- Para el cumplimiento de sus fines, el Consejo Rector de Factibilidad Comercial Automotriz tendrá las funciones siguientes:
+17 Sexies.- Es obligación de los permisionarios informar al propietario, poseedor o conductor que ingrese su vehículo al estacionamiento de servicio al público a través del comprobante de ingreso lo dispuesto en el artículo anterior.
 
-l. Atender y resolver, de manera permanente, colegiada e integral, las solicitudes de los particulares referentes a las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y de autopartes nuevas y usadas, para la emisión del Dictamen de Factibilidad Comercial Automotriz;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Emitir el Dictamen de Factibilidad Comercial Automotriz;
-
-III. Establecer los procedimientos y formatos para la recepción e integración de los expedientes técnicos;
-
-IV. Sesionar, en términos del Reglamento Interior que al efecto expida el Ejecutivo del Estado;
-
-V. Las demás que le confieran otras disposiciones legales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-17 Nonies.- El Dictamen de Factibilidad Comercial Automotriz es el documento oficial con vigencia anual que consiste en la valoración de la procedencia comercial del establecimiento de acuerdo a la naturaleza del giro y constituye un requisito obligatorio para la emisión de la licencia de funcionamiento y su refrendo.
+17 Septies.- El permisionario estará obligado a consultar al menos los sistemas de vehículos robados REPUVE, Sistema Estatal y OCRA virtual en caso de vehículos que hayan permanecido por más de tres días sin que su propietario, poseedor o conductor se haya presentado a retirarlo, si de la consulta se advierte que el vehículo tiene reporte de robo, deberá comunicarlo de inmediato a la Fiscalía Especializada para la Atención de Delitos de Robo de Vehículos de la Procuraduría General de Justicia del Estado de México.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-###### Artículo 8.
-
-17 Decies.- Son requisitos para la expedición del Dictamen de Factibilidad Económica:
-
-l. Solicitud firmada por el propietario o poseedor del inmueble que precise el giro pretendido;
-
-II. Documento que acredite la propiedad o posesión del predio o inmueble;
-
-III. Identificación oficial, Cédula Fiscal, Registro Federal de Contribuyentes y Clave Única de Registro de Población, para personas físicas;
-
-IV. Identificación oficial del representante legal, Cédula Fiscal, Registro Federal de Contribuyentes y Acta Constitutiva, para personas jurídicas colectivas;
-
-V. Carta Poder en su caso;
-
-VI. Datos de identificación del predio o inmueble;
-
-VII. Manifestación del número de fuentes de empleo generadas;
-
-VIII. Dictamen de Impacto Regional, en su caso;
-
-IX. Dictamen de Incorporación o Impacto Vial, en su caso;
-
-X. Autorización en materia de Impacto Ambiental;
-
-XI. Constancia de Factibilidad de Uso de Suelo;
-
-XII. Cumplir con los requisitos legales, reglamentarios y de las Normas Técnicas que emita la Secretaría de Desarrollo Económico;
-
-XIII. Las demás que establezcan otras disposiciones legales aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-17 Undecies.- Se negará el Dictamen de Factibilidad Comercial Automotriz o su refrendo cuando se incumplan los requisitos establecidos en el artículo 8.17 Decies.
+17 Octies.- Transcurrido el plazo establecido los permisionarios informarán a la Secretaría de Seguridad Ciudadana cuando algún vehículo haya sido abandonado en el estacionamiento de servicio al público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-###### Artículo 8.
-
-17 Duodecies.- El Dictamen de Factibilidad Comercial Automotriz contendrá lo siguiente:
-
-l. Número de Dictamen;
-
-II. Ubicación del inmueble;
-
-III. Nombre del solicitante;
-
-IV. Vigencia;
-
-V. Lugar y fecha de expedición;
-
-VI. Determinación fundada y motivada de la procedencia del giro pretendido;
-
-VII. Las restricciones federales, estatales y municipales, en su caso;
-
-VIII. Nombre, cargo y firma de la autoridad que emita el dictamen.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-17 Terdecies.- La Secretaría de Desarrollo Económico será la encargada de crear, operar y mantener actualizado el Registro Estatal de Unidades Económicas o Establecimientos para la Enajenación, Reparación o Mantenimiento de Vehículos Usados y Autopartes Nuevas y Usadas.
+17 Nonies.- La Secretaría de Seguridad Ciudadana antes de retirar el vehículo abandonado para remitirlo al depósito vehicular más cercano, verificará si cuenta con reporte de robo para en su caso ponerlo a disposición de la Fiscalía Especializada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-17 Quáterdecies.- Queda estrictamente prohibido ocupar las vías públicas para realizar actos relacionados con la enajenación de los bienes mencionados en este Capítulo, con excepción de los particulares que oferten hasta dos vehículos de su propiedad frente a su domicilio, supuesto en el cual deberán contar con los documentos que acrediten la propiedad de los bienes respectivos.
+17 Decies.- La orden de retiro será expedida al permisionario por duplicado, a efecto de que una de éstas, de ser posible, la entregue al propietario, poseedor o conductor del vehículo abandonado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 8.
+
+17 Undecies.- Los vehículos que hayan sido remitidos al depósito vehicular con reporte de abandono en la infraestructura vial o en estacionamientos de servicio al público, serán sujetos del procedimiento de la declaratoria de abandono y al procedimiento de enajenación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 8.
+
+17 Duodecies.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 8.
+
+17 Terdecies.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 8.
+
+17 Quáterdecies.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
 ## TITULO PRIMERO. Disposiciones generales
 
@@ -8095,9 +7881,9 @@ En caso de reincidencia, el conductor, deberá inscribirse en alguno de los prog
 
 El Oficial Calificador, será la autoridad encargada para determinar la temporalidad del arresto, de acuerdo a la concentración de alcohol que reporten los elementos medico-científicos y cuando viajen menores de doce años;
 
-> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Con multa de 50 a 100 días de salario mínimo vigente y el pago de los derechos correspondientes al arrastre, a quien infrinja lo dispuesto en el artículo 8.19 Quáter.
+III. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADA, G.G. 17 DE JULIO DE 2013)</small>
 
@@ -8173,15 +7959,17 @@ VI. Remitir al depósito más cercano el vehículo para su resguardo.
 
 Para el caso de que el conductor vaya acompañado de algún familiar o persona sobria y disponga de la debida licencia de conducir, se le entregará a ella el vehículo, dejando constancia de ello.
 
-> <small>(ADICIONADO, G.G. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-19 Quáter.- Se prohíbe el abandono de vehículos en la infraestructura vial.
+19 Quáter.- Se prohíbe el abandono de vehículos, tráileres, autobuses y cualquier tipo de remolques en la infraestructura vial.
 
-Corresponde a la Secretaría de Seguridad Ciudadana el retiro de los vehículos que evidentemente o notoriamente se encuentren abandonados en la infraestructura vial, debiendo de remitirlos al depósito vehicular más cercano. Entendiéndose por esto, a los vehículos que por sus características o condiciones físicas en las que se encuentren, han permanecido en ese lugar
+Corresponde a la Secretaría de Seguridad Ciudadana o en su caso, con la colaboración de los municipios, el retiro de los vehículos, tráileres, autobuses y cualquier tipo de remolques que evidentemente o notoriamente se encuentren abandonados en la infraestructura vial, debiendo de remitirlos al depósito vehicular más cercano concesionado por la Secretaría de Transporte. Entendiéndose por esto, a los vehículos, tráileres, autobuses y cualquier tipo de remolques que por sus características o condiciones físicas en las que se encuentren, han permanecido en ese lugar por más de treinta días naturales.
 
-Los vehículos que hayan sido remitidos al depósito vehicular con reporte de abandono y actualizados los supuestos correspondientes a que hace referencia el Libro Séptimo del Código Administrativo del Estado de México, serán sujetos del procedimiento de "la declaratoria de abandono y el procedimiento de enajenación".
+Para efectos de lo anterior, la Secretaría de Seguridad Ciudadana, deberá cerciorarse que los vehículos, tráileres, autobuses y cualquier tipo de remolques, que se encuentren abandonados, no presenten reporte de robo.
+
+Los automotores y remolques que no tengan reporte de robo, que hayan sido remitidos al depósito vehicular con reporte de abandono y actualizados los supuestos correspondientes a que hace referencia el Libro Séptimo del Código Administrativo del Estado de México, serán sujetos del procedimiento de "la declaratoria de abandono y el procedimiento de enajenación".
 
 ###### Artículo 8.
 
@@ -8235,65 +8023,49 @@ II. En caso de que esté presente el conductor y mueva su vehículo del lugar pr
 
 III. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-22.- Sólo después de haberse cubierto el importe de las multas, traslado y depósito ante la autoridad competente en su caso, se procederá a la entrega de los vehículos.
+22.- Sólo después de haberse cubierto el importe de las multas, traslado y depósito ante la autoridad competente en su caso, se procederá a la entrega de los vehículos, tráileres, autobuses y cualquier tipo de remolques, que hayan sido abandonados y remitidos al depósito vehicular correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-###### Artículo 8.
-
-23.- Son sanciones administrativas:
-
-l. Amonestación con apercibimiento;
-
-II. Multa;
-
-III. Clausura temporal o definitiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-24.- Las sanciones impuestas por la Secretaría de Desarrollo Económico son las siguientes:
+23.- Las sanciones impuestas por la Secretaría de Seguridad Ciudadana serán las siguientes:
 
-l. Multa de 50 a 100 días de salario mínimo vigente en la zona geográfica que corresponda, por incumplir con lo dispuesto por las fracciones II y VIII inciso a), del articulo 8.17 Ter;
+I. Multa de 50 a 100 días de salario mínimo vigente en la zona geográfica que corresponda, por incumplir lo dispuesto en los artículos 8. 17 Sexies, 8.17 Septies y 8.17 Octies;
 
-II. Clausura temporal o definitiva de la unidad económica o establecimiento que se dedique a la enajenación, reparación o mantenimiento de vehículos usados y autopartes nuevas y usadas, por no contar con el Dictamen de Factibilidad Comercial Automotriz o con el sistema interno de registro, establecido en las fracciones IV y VIII, inciso b), del articulo 8.17 Ter.
+II. Multa de 50 a 100 días de salario mínimo vigente y el pago de los derechos correspondientes al arrastre, a quien infrinja lo dispuesto en el artículo 8.17 Bis.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-###### Artículo 8.
-
-25.- Las sanciones impuestas por los ayuntamientos son las siguientes:
-
-l. Multa de 50 a 100 días de salario mínimo vigente en la zona geográfica que corresponda, por incumplir con lo dispuesto por las fracciones V, VI y VII del artículo 8.17 Ter y por el artículo 8.17 Quáterdecies;
-
-II. Clausura temporal o definitiva de la unidad económica o establecimiento que se dedique a la enajenación, reparación o mantenimiento de vehículos usados y autopartes nuevas y usadas, por no contar con licencia de funcionamiento, o por reincidir en el incumplimiento de lo dispuesto por la fracción V del artículo 8.17 Ter o del artículo 8.17 Quáterdecies.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-26.- Además de lo señalado en los artículos 8.23 y 8.24, como medida de seguridad, la Secretaría de Desarrollo Económico y los ayuntamientos, a través de la autoridad competente, estarán facultados para suspender temporalmente hasta por noventa días, el funcionamiento de las unidades económicas o establecimientos para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas. Durante la suspensión se llevará cabo el procedimiento administrativo correspondiente, a fin de que en caso de que se mantenga el incumplimiento se sancione con la clausura temporal o definitiva, según corresponda.
+24.- En contra de las resoluciones que emitan la Secretaría de Seguridad Ciudadana y los municipios, procederá el recurso de inconformidad ante la propia autoridad o juicio ante el Tribunal de lo Contencioso Administrativo del Estado de México.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 8.
 
-27.- En contra de las resoluciones que emitan la Secretaría de Desarrollo Económico y los municipios, procederá el recurso de inconformidad ante la propia autoridad o juicio ante el Tribunal de lo Contencioso Administrativo del Estado de México.
+25.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 8.
+
+26.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 8.
+
+27.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 3 DE MAYO DE 2006)</small>
 
@@ -14531,7 +14303,11 @@ X. Instalaciones o modificaciones de ascensores para personas, montacargas, esca
 
 La licencia de construcción tendrá vigencia de un año y podrá autorizar, además del uso de la vía pública, uno o más de los rubros señalados, conforme a la solicitud que se presente.
 
-La autoridad municipal que emita la licencia de construcción deberá revisar que en el proyecto que autoriza se observen las disposiciones de este Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+La autoridad municipal que emita la licencia de construcción deberá revisar que en el proyecto que autoriza se observen las disposiciones de este Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables y deberá otorgar o negar la misma dando respuesta en un plazo no mayor de tres días hábiles posteriores a la fecha de presentación o recepción de la solicitud que reúna todos los requisitos establecidos en la Ley.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -16960,3 +16736,43 @@ DÉCIMO PRIMERO.- Los asuntos y demás procedimientos que se encuentren en trám
 DÉCIMO SEGUNDO.- Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento de (sic) presente Decreto.
 
 DÉCIMO TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 367 POR EL QUE SE REFORMAN LAS FRACCIONES II, III, VI, VIII Y XV DEL ARTÍCULO 1.1, LOS INCISOS A, C Y EL PRIMER PÁRRAFO DE LA FRACCIÓN X DEL ARTÍCULO 5.26, EL PRIMER PÁRRAFO, LAS FRACCIONES IV Y V DEL ARTÍCULO 5.37, LAS FRACCIONES III, IV Y V DEL ARTÍCULO 5.38 DEL LIBRO QUINTO DENOMINADO “DEL ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DEL DESARROLLO URBANO DE LOS CENTROS DE POBLACIÓN”, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 7.73, LA DENOMINACIÓN DEL LIBRO OCTAVO, EL ARTÍCULO 8.1, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 8.3, LA DENOMINACIÓN DEL TÍTULO TERCERO Y LA DE SU CAPÍTULO SEGUNDO DEL LIBRO OCTAVO, LOS ARTÍCULOS 8.17 BIS, 8.17 TER, 8.17 QUÁTER, 8.17 QUINTUS, 8.17 SEXIES, 8.17 SEPTIES, 8.17 OCTIES, 8.17 NONIES, 8.17 DECIES, 8.17 UNDECIES, LOS ARTÍCULOS 8.23 Y 8.24, Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 18.20; SE ADICIONAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 1.1, LA FRACCIÓN VI Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 5.37, UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EL ACTUAL SEGUNDO PARA SER TERCERO AL ARTÍCULO 7.73, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7.76; Y SE DEROGAN LAS FRACCIONES IX Y XII DEL ARTÍCULO 1.1, LOS ARTÍCULOS 2.37 BIS, 2.37 TER, LA FRACCIÓN VII BIS DEL ARTÍCULO 2.39, LOS ARTÍCULOS 2.47, 2.47 BIS, 2.47 TER, 2.47 QUÁTER, 2.48, 2.48 BIS, 2.48 TER, 2.48 QUÁTER, 2.48 QUINTUS, 2.48 SEXIES, 2.48 SEPTIES, 2.53 BIS, 2.53 TER, LA FRACCIÓN V DEL ARTÍCULO 2.72, EL ARTÍCULO 2.72 BIS, LA FRACCIÓN VII DEL ARTÍCULO 2.75, LOS ARTÍCULOS 8.17 DUODECIES, 8.17 TERDECIES, 8.17 QUÁTERDECIES, LA FRACCIÓN III DEL ARTÍCULO 8.18, Y LOS ARTÍCULOS 8.19 QUÁTER, 8.25, 8.26 Y 8.27, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
+
+CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
+
+QUINTO. Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
+
+SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 18 de julio de 2013.
+
+NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
+
+DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 380 POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO SEXTO "DE LOS VEHÍCULOS ABANDONADOS", LOS ARTÍCULOS 7.72 EN SU PRIMER PÁRRAFO, 7.73, 7.74, 7.75 EN SU PRIMER PÁRRAFO Y LAS FRACCIONES I Y II, 7.76 EN SUS FRACCIONES II, III Y VI, 8.12 EN SU FRACCIÓN IV, 8.19 QUÁTER, 8.22 Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 7.37 Y SEGUNDO PÁRRAFO AL ARTÍCULO 7.77 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- En un término de noventa días naturales a partir de la entrada en vigor del presente Decreto, todos los tráileres, autobuses y cualquier tipo de remolques que los concesionarios tengan bajo su resguardo, por más de dos años, serán susceptibles de incluirse en el procedimiento de declaración de abandono para los efectos de enajenación previsto, por lo que deberán informar a la Secretaría del Transporte de tal situación, con excepción de los tráileres, autobuses y cualquier tipo de remolques que tengan reporte de robo, números remarcados o alterados, porten placas de procedencia extranjera, los cuales deberán hacer del conocimiento al Ministerio Público para que determine lo procedente.
+
+CUARTO.- En un plazo no mayor a treinta días naturales a partir de la entrada en vigor del presente Decreto, la Secretaría de Transporte, enviará a la Secretaría de Seguridad Ciudadana, el padrón de los depósitos vehiculares debidamente concesionados.
+
+QUINTO.- Los Municipios del Estado, dentro de sus respectivos ámbitos de competencia, coadyuvarán al cumplimiento del presente Decreto a través de los mecanismos de coordinación que para tal efecto establezca la Secretaría de Seguridad Ciudadana.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
