@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-defensoria-publica-del-distrito-federal-99242"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-28"
-last_updated: "2014-02-28"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99242&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2014-02-21"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS NOVENTA DÍAS HÁBILES DESPUÉS DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Distrito Federal, el viernes 28 de febrero de 2014.
 
@@ -168,7 +166,9 @@ III. Tener título y cédula profesional de licenciado en derecho, expedidos por
 
 IV. Poseer al día de la designación una antigüedad mínima de cinco años de experiencia en el ejercicio del derecho, especialmente en la práctica procesal, contados a partir de la obtención del título profesional;
 
-V. No haber sido condenado por sentencia irrevocable como responsable de un delito doloso; y
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+V. No haber sido sentenciado mediante sentencia ejecutoriada, por un delito doloso.
 
 VI. No haber sido inhabilitado para el desempeño de funciones públicas ni encontrarse sujeto a proceso para determinar alguna responsabilidad administrativa.
 
@@ -252,7 +252,9 @@ V. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras q
 
 VI. No estar suspendida ni haber sido destituida o inhabilitada por resolución firme como persona servidora pública, en los términos de las normas legales aplicables;
 
-VII. No haber sido condenada por sentencia irrevocable como persona responsable de un delito doloso; y
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VII. No haber sido sentenciada mediante sentencia ejecutoriada, por delito doloso;
 
 VIII. Poseer conocimientos generales de derecho en las materias del área a la que será asignado.
 
@@ -314,7 +316,9 @@ III. Tener título y cédula profesional de licenciado en derecho, expedidos por
 
 IV. Poseer al día de la designación una antigüedad mínima de tres años de experiencia en el ejercicio del derecho, contados a partir de la obtención del título profesional;
 
-V. No haber sido condenada por sentencia irrevocable como persona responsable de un delito doloso;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+V. No haber sido sentenciada mediante sentencia ejecutoriada, por delito doloso;
 
 VI. Aprobar el procedimiento de selección;
 
@@ -364,7 +368,9 @@ VII. Tomar los cursos de capacitación y prepararse adecuadamente para que a las
 
 VIII. Procurar en todo momento el derecho de defensa, velando por que la persona imputada conozca inmediatamente los derechos que establece la Constitución Política de los Estados Unidos Mexicanos; los Instrumentos internacionales, así como las leyes que de ella emanen;
 
-IX. Ofrecer en la etapa de preparación del proceso los medios de prueba pertinentes que se desahogarán en la audiencia de juicio oral y promover la exclusión de los ofrecidos por la persona agente del Ministerio Público o persona acusadora coadyuvante cuando no se ajusten a la ley;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IX. Ofrecer en la etapa intermedia o de preparación del juicio los medios de prueba pertinentes que se desahogarán en la audiencia de juicio oral y promover la exclusión de los ofrecidos por el Ministerio Público o víctima u ofendido cuando no se ajusten a la ley;
 
 X. Procurar la justicia restaurativa y los mecanismos alternativos en la solución de controversias;
 
@@ -372,9 +378,13 @@ XI. Participar en la audiencia de debate de juicio oral, en la que podrá expone
 
 XII. Informar a sus superiores jerárquicos de las quejas que los usuarios les hagan saber sobre el trato que reciban en los centros o establecimientos penitenciarios, para los efectos legales conducentes;
 
-XIII. Comparecer oportunamente cuando sean requeridos ante las autoridades jurisdiccionales;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-XIV. Asistir a las personas sujetas a proceso penal oral en las etapas de investigación, de proceso, de segunda instancia y de ejecución de penas, cuando hayan sido designados y la norma vigente así lo señale;
+XIII. Comparecer oportunamente cuando sean requeridos ante el órgano jurisdiccional competente;
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XIV. Asistir a las personas sujetas a proceso penal oral en las etapas de investigación, intermedia, la de Juicio y de ejecución de penas, cuando hayan sido designados y la norma vigente así lo señale;
 
 XV. Hacer uso de los medios de defensa necesarios para evitar la indefensión del usuario del servicio;
 
@@ -682,9 +692,13 @@ I. Aprobar el programa anual de capacitación de la Defensoría Pública del Dis
 
 II. Presentarse y acreditar los exámenes de control de confianza que se realizaran cada tres años, por la Contraloría General del Gobierno del Distrito Federal, en las materias patrimonial y psicométricas;
 
-III. Que no se dicte en su contra auto de formal prisión;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-IV. No haber sido condenada por sentencia irrevocable como responsable de delito doloso;
+III. Que no se dicte en su contra vinculación a proceso;
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IV. No haber sido sentenciada mediante sentencia ejecutoriada, por delito doloso;
 
 V. No haber sido suspendido, destituido o inhabilitado por resolución firme como servidora pública, en los términos de las normas aplicables; y
 
@@ -883,3 +897,15 @@ DÉCIMO. El reglamento de esta ley deberá expedirse dentro de los 180 días há
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiún días del mes de noviembre del año dos mil trece.- POR LA MESA DIRECTIVA.- DIP. KARLA VALERIA GÓMEZ BLANCAS, PRESIDENTA.- DIP. BERTHA ALICIA CARDONA, SECRETARIA.- DIP. RODOLFO ONDARZA ROVIRA.- SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiún días del mes de febrero del año dos mil catorce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
