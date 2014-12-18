@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -868,7 +868,7 @@ I.- Un Comité Científico de Vigilancia Epidemiológica y Sanitaria de la Ciuda
 
 II. Un Semáforo Sanitario, que será la herramienta para la determinación de niveles de alerta y acciones de prevención y control de enfermedades, el cual deberá ser avalado en su concepto, alcances e indicadores de evaluación por el Comité Científico, y cuyo funcionamiento será determinado en las disposiciones reglamentarias correspondientes.
 
-### Capítulo V. Centro de Inteligencia y Preparación de Respuesta Epidemiológica del la Ciudad de México
+### Capítulo V. Centro de Inteligencia y Preparación de Respuesta Epidemiológica del (sic) la Ciudad de México
 
 ###### Artículo 47.
 
@@ -1428,9 +1428,13 @@ La Secretaría, a través de los órganos respectivos, hará del conocimiento a 
 
 Está prohibido el comercio de órganos y tejidos de seres humanos. La donación de los mismos con fines de trasplantes, se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad, por lo que su obtención y utilización serán estrictamente a título gratuito. Se considerará disposición ilícita de órganos y tejidos de seres humanos toda aquella que se efectué sin estar autorizada por la Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 90.
 
-Sólo en caso de que la pérdida de la vida del donante esté relacionada con la averiguación de un delito, se dará intervención al Ministerio Público y a la autoridad judicial, para la extracción de órganos y tejidos, de conformidad a las disposiciones legales aplicables.
+Sólo en caso de que la pérdida de la vida del donante esté relacionada con la investigación de un hecho que la ley señale como delito, se dará intervención al Ministerio Público y a la autoridad judicial, para la extracción de órganos y tejidos, de conformidad a las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, G.O. 16 DE MAYO DE 2012)</small>
 
@@ -2548,9 +2552,13 @@ Las violaciones a los preceptos de este Título, sus reglamentos y demás dispos
 
 La aplicación, ejecución y notificación de las sanciones administrativas objeto de este capítulo, serán conforme a lo establecido en la Ley de Procedimiento Administrativo del Distrito Federal, el Reglamento de Verificaciones y asimismo, se deberá cumplir con lo establecido en la Ley de Establecimientos Mercantiles del Distrito Federal, en lo que le sea aplicable.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 201.
 
-Las sanciones administrativas que el Gobierno, a través de Agencia, podrá aplicar a las personas físicas o morales de los sectores social o privado por el incumplimiento de las disposiciones de esta Ley y las disposiciones legales vigentes en materia de salubridad local, serán las siguientes:
+Las sanciones administrativas que el Gobierno, a través de Agencia, podrá aplicar a las personas físicas, morales o jurídicas de los sectores social o privado por el incumplimiento de las disposiciones de esta Ley y las disposiciones legales vigentes en materia de salubridad local, serán las siguientes:
 
 I. Multa;
 
@@ -2580,7 +2588,11 @@ XIII. Amonestación con apercibimiento, y
 
 XIV. Las demás que señalen los instrumentos jurídicos aplicables.
 
-A las personas morales involucradas en la comisión de cualquiera de los delitos previstos en este Capítulo, se les aplicará, a juicio de la autoridad, lo dispuesto en materia de suspensión o disolución en el Código Penal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+A las personas morales o jurídicas involucradas en la comisión de cualquiera de los delitos previstos en este Capítulo, se les aplicará lo dispuesto en el artículo 32 del Código Penal para el Distrito Federal.
 
 ###### Artículo 202.
 
@@ -2983,3 +2995,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
