@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-la-violencia-en-los-espectaculos-50293"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-03"
-last_updated: "2014-11-28"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50293&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-04-11"
 
 LEY PARA PREVENIR LA VIOLENCIA EN LOS ESPECTÁCULOS DEPORTIVOS EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 3 de mayo de 2006.
 
@@ -122,9 +122,13 @@ III.- De riesgo bajo
 
 Para aplicar la clasificación anterior se consideraran como factores: la ubicación, el aforo del Recinto Deportivo, el horario del espectáculo deportivo, las características de los deportistas participantes, los antecedentes en los enfrentamientos previos entre los contendientes y cualquier otro que pueda influir en el grado de riesgo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
-En los espectáculos deportivos de alto y medio riesgo, la Procuraduría instalará en las inmediaciones de los establecimientos deportivos, unidades móviles del Ministerio Público, para recibir denuncias o querellas de cualquier hecho probablemente constitutivo de delito.
+En los espectáculos deportivos de alto y medio riesgo, la Procuraduría instalará en las inmediaciones de los establecimientos deportivos, unidades móviles del Ministerio Público, para recibir denuncias o querellas de cualquier hecho que pudiera ser constitutivo de un delito.
 
 ###### Artículo 8.
 
@@ -242,9 +246,11 @@ VII.- Resarcir, de conformidad con las leyes aplicables, a quien sufra daños, l
 
 VIII.- Instalar un sistema de sonido con capacidad y alcance en el interior y en las entradas del Recinto Deportivo;
 
-> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IX.- Instalar cámaras de video con circuito cerrado al interior del Recinto Deportivo, suficientes para cubrir todos los espacios del recinto, así como pasillos, entradas y salidas conservando las grabaciones y en su caso entregarlas a la Procuraduría previa petición de ésta en los casos de violencia para que en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal sea utilizada en los procedimientos judiciales o administrativos como medio de prueba;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IX.- Instalar cámaras de video con circuito cerrado al interior del Recinto Deportivo, suficientes para cubrir todos los espacios del recinto, así como pasillos, entradas y salidas conservando las grabaciones y en su caso entregarlas a la Procuraduría previa petición de ésta en los casos de violencia para que en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal sea utilizada en los procedimientos judiciales o administrativos a que haya lugar, en los términos de esta Ley, la legislación de procedimientos penales aplicable al Distrito Federal y demás ordenamientos jurídicos aplicables;
 
 X.- Difundir las medidas de seguridad, así como los riesgos del recinto deportivo;
 
@@ -376,13 +382,17 @@ Para la fijación de las sanciones, se tomará en cuenta la gravedad de la infra
 
 Las sanciones económicas deberán fijarse entre el mínimo y el máximo establecido.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-Las sanciones establecidas en la presente Ley, se aplicarán sin perjuicio de las previstas en otros ordenamientos aplicables.
+Las sanciones establecidas en la presente Ley, se aplicarán sin perjuicio de las previstas en otros
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE FEBRERO DE 2009)</small>
+ordenamientos aplicables.
 
-Cuando en los procedimientos que establece esta Ley, obren pruebas obtenidas por Seguridad Pública con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que Regula el Uso de Tecnología para la Seguridad Pública del Distrito Federal.
+Cuando en los procedimientos que establece esta Ley, obren datos, medios o elementos de prueba obtenidos por Seguridad Pública con equipos y sistemas tecnológicos, las mismas tendrán el alcance probatorio que se señale en la legislación aplicable.
 
 ###### Artículo 20.
 
@@ -503,3 +513,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
