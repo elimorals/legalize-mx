@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-proteccion-atencion-y-asistencia-a-las-victimas-995
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-13"
-last_updated: "2014-03-13"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99554&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-03-10"
 
 LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de marzo de 2014.
 
@@ -114,9 +114,13 @@ t) Tribunal Superior de Justicia: Tribunal Superior de Justicia del Distrito Fed
 
 u) Víctima: La persona titular del bien jurídico lesionado o puesto en peligro por la acción u omisión por los delitos previstos en la Ley General.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-En lo no previsto por esta Ley, serán de aplicación supletoria las disposiciones normativas contenidas en los Tratados Internacionales que en la materia haya suscrito el Estado Mexicano; la Ley General; el Código Penal para el Distrito Federal; Código de Procedimientos Penales para el Distrito Federal; la Ley de los Derechos de las Niñas y Niños en el Distrito Federal; la Ley de Atención y Apoyo a las Víctimas del Delito para el Distrito Federal, la Ley del Programa de Derechos Humanos del Distrito Federal y todas aquellas en que en la materia sean aplicables.
+En lo no previsto por esta Ley, serán de aplicación supletoria las disposiciones normativas contenidas en los Tratados Internacionales que en la materia haya suscrito el Estado Mexicano; la Ley General; el Código Penal para el Distrito Federal; la legislación de procedimientos penales aplicable al Distrito Federal; la Ley de los Derechos de las Niñas y Niños en el Distrito Federal; la Ley de Atención y Apoyo a las Víctimas del Delito para el Distrito Federal, la Ley del Programa de Derechos Humanos del Distrito Federal y todas aquellas en que en la materia sean aplicables.
 
 ###### Artículo 4.
 
@@ -643,3 +647,15 @@ Hasta en tanto no se integre el Fondo a que se refiere la presente ley se seguir
 Recinto de la Asamblea Legislativa del Distrito Federal, a los quince días del mes de diciembre del año dos mil trece.-POR LA MESA DIRECTIVA.- DIP. AGUSTÍN TORRES PÉREZ, PRESIDENTE.- DIP. ALFREDO ROSALÍO PINEDA SILVA, SECRETARIO.- DIP. MIRIAM SALDAÑA CHÁIREZ, SECRETARIA.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diez días del mes de marzo del año dos mil catorce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS.- FIRMA.
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
