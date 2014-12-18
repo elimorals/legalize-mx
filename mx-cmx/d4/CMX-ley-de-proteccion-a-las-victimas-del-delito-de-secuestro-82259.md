@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-a-las-victimas-del-delito-de-secuestro-82259"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-27"
-last_updated: "2011-07-27"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82259&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2011-07-26"
 ---
 # LEY DE PROTECCION A LAS VICTIMAS DEL DELITO DE SECUESTRO PARA EL DISTRITO FEDERAL
 
-LEY DE PROTECCION A LAS VICTIMAS DEL DELITO DE SECUESTRO PARA EL DISTRITO FEDERAL
+LEY DE PROTECCIÓN A LAS VÍCTIMAS DEL DELITO DE SECUESTRO PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 27 de julio de 2011.
 
@@ -84,7 +84,11 @@ X.- Procuraduría: A la Procuraduría General de Justicia del Distrito Federal;
 
 XI.- Reparación del Daño Civil. A la reparación del daño en términos de lo dispuesto en el Código Civil para el del Distrito Federal;
 
-XII.- Reparación del Daño Penal. A la reparación del daño en términos de lo dispuesto en el Código de Procedimientos Penales y el Código Penal, ambos para el (sic) del Distrito Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XII. Reparación del Daño Penal.- A la reparación del daño en términos de lo dispuesto en la legislación de procedimientos penales aplicable al Distrito Federal y al Código Penal para el Distrito Federal;
 
 XIII.- Secuestro: A la conducta sancionada por los artículos 163, 163 Bis, 164, 165 y 166, del Código Penal para el (sic) del Distrito Federal, y lo dispuesto en la Ley General para Prevenir y Sancionar el Delito de Secuestro;
 
@@ -92,9 +96,13 @@ XIV.- Víctima Directa: Persona o personas que han sufrido algún daño, tales c
 
 XV.- Víctima Indirecta: Persona o personas que tengan relación inmediata con la víctima directa, y que hayan sufrido algún daño en su salud física o psicológica, o menoscabo en su patrimonio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-Las Instituciones de Seguridad Pública, según corresponda la competencia, deberán proporcionar la seguridad necesaria a los sujetos protegidos durante el periodo de su intervención en la investigación o proceso sin que pueda exceder de un año.
+Las Instituciones de Seguridad Pública, según corresponda la competencia, deberán proporcionar la seguridad necesaria a los sujetos protegidos durante el periodo de su intervención en el procedimiento penal, en los términos y plazos establecidos en las legislaciones aplicables a la materia.
 
 Para los efectos de esta Ley, se entenderá como sujetos protegidos a los familiares, dependientes económicos de la víctima, denunciantes y testigos, incluyendo a aquellas personas con relación directa o indirecta con la víctima de secuestro, cuando existan datos que demuestren indiciariamente que pudieran ser afectados por los responsables de la comisión del delito de secuestro o por terceros involucrados.
 
@@ -104,9 +112,15 @@ Lo anterior, sin perjuicio de lo establecido en la Ley contra la Delincuencia Or
 
 Las Dependencias de Seguridad Pública, Órganos Desconcentrados y Descentralizados del Gobierno del Distrito Federal, y la Comisión, implementarán políticas en materia de prevención del delito de secuestro. Asimismo, implementarán programas de atención y apoyo a las víctimas, que les permita desarrollarse en la sociedad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 5.
 
-El daño causado a la víctima y a la sociedad por la comisión del delito de secuestro, será determinado por la autoridad judicial, en la sentencia respectiva, tomando en cuenta los elementos de prueba aportados por el Ministerio Público y la víctima, para efectos de su reparación.
+El daño causado a la víctima y a la sociedad por la comisión del delito de secuestro, será determinado por la autoridad judicial, en la sentencia respectiva.
+
+Cuando de la prueba producida no pueda establecerse con certeza el monto de los daños y perjuicios, o de las indemnizaciones correspondientes, el Órgano Jurisdiccional podrá condenar genéricamente a reparar los daños y los perjuicios y ordenar que se liquiden en ejecución de sentencia por vía incidental, siempre que los daños o perjuicios se hayan demostrado, así como su deber de repararlos.
 
 ### CAPÍTULO II. DE LA ACTUACIÓN DE LAS AUTORIDADES A FAVOR DE LA VÍCTIMA
 
@@ -178,43 +192,83 @@ La víctima directa, indirecta y los testigos, tienen derecho a que se les brind
 
 La víctima directa o indirecta tendrá también derecho a que las autoridades competentes le propicien la información que requiera, vinculada con la investigación, y la asesoría sobre la situación y los procedimientos a seguir; la cual deberá ser proporcionada por un experto en la materia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 16.
 
-La víctima directa o indirecta tendrá derecho a que se le devuelva íntegramente el pago del rescate que realizó a los secuestradores por la liberación, siempre que la autoridad judicial, lo ordene en sentencia mediante la reparación del daño.
+La víctima directa o indirecta tendrá derecho a que se le devuelva íntegramente el pago del rescate que realizó a los secuestradores por la liberación, siempre que el órgano jurisdiccional, lo ordene en sentencia mediante la reparación del daño.
 
-Para el supuesto que el presunto infractor sea aprehendido al momento de que se realizó el pago del rescate o inmediatamente después, con el monto del rescate pagado, éste quedará bajo resguardo del juez que conozca del asunto, quién podrá, entregarlo a la víctima como medida precautoria.
+Para el supuesto que el probable responsable o el imputado sea aprehendido al momento de que se realizó el pago del rescate o inmediatamente después, con el monto del rescate pagado, éste quedará bajo resguardo del órgano jurisdiccional que conozca del asunto, quién podrá, entregarlo a la víctima como medida precautoria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 17.
 
-En la etapa de investigación del delito, la víctima directa o indirecta tendrá los siguientes derechos:
+En todas las etapas del procedimiento penal, la víctima directa o indirecta tendrá los siguientes derechos:
 
 I.- A presentar denuncia por hechos probablemente constitutivos del delito de secuestro, y a que el Ministerio Público la reciba y actúe de manera inmediata;
 
-II.- A tener el carácter de coadyuvante del Ministerio Público durante la integración de la Averiguación Previa;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III.- A recibir asesoría jurídica para lograr la mayor interacción en la investigación ante el Ministerio Público, en su carácter de coadyuvante;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+II. A intervenir en todo el procedimiento por sí o a través de su asesor jurídico, conforme a lo dispuesto por en la legislación de procedimientos penales aplicable al Distrito Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+III. A recibir asesoría jurídica para lograr la mayor interacción en todas las etapas del procedimiento penal;
 
 IV.- A que se le hagan saber sus derechos previstos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados e Instrumentos Internacionales suscritos y ratificados por el Estado Mexicano y en esta Ley, y se deje constancia de ello;
 
-V.- A que el Ministerio Público, la Policía y Peritos, le presten los servicios que legalmente tienen encomendados, con base en los principios de legalidad, objetividad, honradez, lealtad, imparcialidad, profesionalismo, eficiencia y con la máxima diligencia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI.- A rendir y ratificar su declaración ministerial;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-VII.- A que el Ministerio Público competente, dicte las medidas necesarias, para la protección de las víctimas directas, indirectas o testigos;
+V. A que el Ministerio Público, la Policía y Peritos, le presten los servicios que legalmente tienen encomendados, con base en los principios de legalidad, objetividad, honradez, lealtad, imparcialidad, profesionalismo, eficiencia, eficacia y con la debida diligencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VI. A solicitar la realización de actos de investigación que en su caso correspondan;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VII. A que la autoridad competente dicte las medidas necesarias, para la protección de las víctimas directas, indirectas o testigos;
 
 VIII.- A que los servidores públicos lo traten con la atención y respeto debido a su dignidad humana, absteniéndose de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio, abuso o ejercicio indebido de la autoridad;
 
 IX.- A que ningún servidor público por sí o por interpósita persona les soliciten, acepte o reciba, beneficios adicionales a las contraprestaciones comprobables que el Estado les otorga por el desempeño de su función;
 
-X.- A que el Ministerio Público, le reciba los medios de prueba conducentes a acreditar los requisitos necesarios para el ejercicio de la acción penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+X. A aportar a la investigación o al proceso penal los antecedentes, datos o medios de prueba conducentes para acreditar la responsabilidad penal del imputado, así como para determinar el monto del daño y su reparación;
 
 XI.- A contar con todas las facilidades para identificar al imputado;
 
-XII.- A que se le faciliten todos los datos que solicite y que consten en la averiguación, para lo cual se le permitirá consultar el expediente de la averiguación previa;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XII. A que se le faciliten todos los datos que solicite y que consten en la investigación, para lo cual se le permitirá acceder a los registros de investigación;
 
 XIII.- A que se realice el reconocimiento o diligencia de identificación o confrontación en un lugar en el que no puedan ser vistos o identificados por el imputado;
 
-XIV.- A que el Ministerio Público solicite la reparación del daño;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XIV. A que el Ministerio Público solicite la reparación del daño o solicitar la reparación del daño directamente;
 
 XV.- A que el Ministerio Público ejerza sus facultades de aseguramiento respecto de los bienes que sean producto, objeto e instrumento del delito;
 
@@ -222,25 +276,19 @@ XVI.- A que el Ministerio Público Especializado demande la extinción de domini
 
 XVII.- Al resguardo de su identidad y otros datos personales para su protección;
 
-XVIII.- Impugnar ante la autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio y desistimiento de la acción penal; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XVIII. Impugnar ante el órgano jurisdiccional, las omisiones o negligencias que comenta el Ministerio Público en el desempeño de sus funciones de investigación, en los términos previstos en la legislación de procedimientos penales aplicable al Distrito Federal, y demás disposiciones legales; así como interponer los recursos a que tenga derecho; y
 
 XIX.- Los demás que señalen las leyes correspondientes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Artículo 18.
 
-En la etapa de persecución del delito, la víctima directa o indirecta tendrá los derechos siguientes:
-
-I.- A que se le hagan saber sus derechos previstos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados e Instrumentos Internacionales suscritos y ratificados por el Estado Mexicano y en esta Ley, y se deje constancia de ello;
-
-II.- A que el Juez competente, dicte las medidas precautorias necesarias, para protección de las víctimas directas, indirectas o sujetos protegidos;
-
-III.- A comparecer ante el Juez para hacer de su conocimiento y aportar al proceso los datos y pruebas conducentes para acreditar la responsabilidad penal del imputado, la determinación del monto del daño y de su reparación;
-
-IV.- A presentar argumentos y pruebas en todos los recursos que promueva el sentenciado, por el delito de secuestro;
-
-V.- A interponer los recursos que establece la Ley, en contra de las resoluciones judiciales que le causen agravio; y
-
-VI.- A que se le supla la deficiencia de sus agravios.
+(DEROGADO, G.O. 18 DE NOVIEMBRE DE 2014)
 
 ###### Artículo 19.
 
@@ -255,6 +303,12 @@ A solicitud de la víctima indirecta, la autoridad ministerial o judicial que co
 ###### Artículo 21.
 
 Todo proceso del ámbito local, en el que intervengan la víctima directa como parte, será suspendido desde el momento en que la autoridad competente tenga conocimiento del hecho. La víctima indirecta realizará la solicitud de suspensión ante el Juez competente, debiendo presentar copia certificada de la averiguación previa o causa penal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+La víctima indirecta realizará la solicitud de suspensión ante el Juez competente, debiendo presentar copia certificada de la averiguación previa, carpeta de investigación o proceso penal.
 
 ### CAPÍTULO III. DERECHOS EDUCATIVOS Y LABORALES
 
@@ -315,3 +369,15 @@ Cuarto. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor di
 Recinto de la Asamblea Legislativa del Distrito Federal, a los diecinueve días del mes de abril del año dos mil once.- POR LA MESA DIRECTIVA.- DIP. ROCÍO BARRERA BADILLO, PRESIDENTA.- DIP. CLAUDIA ELENA ÁGUILA TORRES, SECRETARIA.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiséis días del mes de julio del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+G.O. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
