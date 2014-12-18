@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-auditoria-publica-del-62116"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-05"
-last_updated: "2013-10-08"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORIA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 5 de julio de 2008.
 
@@ -531,7 +531,9 @@ VI. No haber sido condenado por delito doloso que amerite pena corporal de más 
 
 VII. No ser ministro de alguna asociación religiosa, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley de Asociaciones Religiosas y Culto Público, reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
-VIII. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Procurador General de Justicia, Magistrado del Poder Judicial, integrante del Consejo General del Poder Judicial, Magistrado del Tribunal de Arbitraje y Escalafón, Encargado de Hacienda Municipal o titular de algún ente auditable durante los dos años previos al de su designación, y tener sus cuentas públicas aprobadas;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VIII. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, Magistrado del Poder Judicial, integrante del Consejo General del Poder Judicial, Magistrado del Tribunal Electoral, Integrante del Consejo de la Judicatura, Magistrado del Tribunal de Arbitraje y Escalafón, Encargado de Hacienda Municipal o titular de algún ente auditable durante los dos años previos al de su designación, y tener sus cuentas públicas aprobadas;
 
 IX. No haber sido Secretario de Estado, Procurador General de la República, Senador o Diputado Federal, a menos que se separe de su cargo dos años antes al día en que tenga verificativo su designación;
 
@@ -637,7 +639,9 @@ XVIII. Formular los pliegos de recomendaciones a las entidades auditables que pe
 
 XIX. Expedir certificaciones de documentos originales que obren en su archivo;
 
-XX. Solicitar a la Secretaría de Finanzas, al funcionario encargado de la hacienda municipal o a la autoridad competente con respecto de las demás entidades auditables el cobro de los créditos fiscales, indemnizaciones y las derivadas de las sanciones administrativas que se impongan en los términos de esta ley;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+XX. Solicitar a la Secretaría de Planeación, Administración y Finanzas, en delante (sic) la Secretaría al funcionario encargado de la hacienda municipal o a la autoridad competente con respecto de las demás entidades auditables el cobro de los créditos fiscales, indemnizaciones y las derivadas de las sanciones administrativas que se impongan en los términos de esta ley;
 
 XXI. Ordenar las visitas, inspecciones y revisiones de libros y documentos de las entidades auditables, de conformidad con esta ley;
 
@@ -729,7 +733,9 @@ VI. No haber sido condenado por delito doloso que amerite pena corporal de más 
 
 VII. No ser ministro de alguna asociación religiosa, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley de Asociaciones Religiosas y Culto Público, reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
-VIII. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Procurador General de Justicia, Magistrado del Poder Judicial, integrante del Consejo General del Poder Judicial, Magistrado del Tribunal de Arbitraje y Escalafón, Encargado de Hacienda Municipal o titular de algún ente auditable y fiscalizable durante los dos años previos al de su designación, y tener sus cuentas públicas aprobadas;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+VIII. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, Magistrado del Poder Judicial, Magistrado del Tribunal Electoral, Integrante del Consejo de la Judicatura, Magistrado del Tribunal de Arbitraje y Escalafón, Encargado de Hacienda Municipal o titular de algún ente auditable y fiscalizable durante los dos años previos al de su designación, y tener sus cuentas públicas aprobadas;
 
 IX. No haber sido Secretario de Estado, Procurador General de la República, Senador o Diputado Federal, a menos que se separe de su cargo dos años antes al día en que tenga verificativo su designación;
 
@@ -779,7 +785,9 @@ VII. No haber sido condenado por delito doloso que amerite pena corporal de más
 
 VIII. No ser ministro de alguna asociación religiosa, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley de Asociaciones Religiosas y Culto Pública (sic), reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IX. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Procurador General de Justicia, Magistrado del Poder Judicial, integrante del Consejo General del Poder Judicial, Magistrado del Tribunal de Arbitraje y Escalafón, Encargado de Hacienda Municipal o titular de algún ente auditable durante los dos años previos al de su designación, y tener sus cuentas públicas aprobadas;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+IX. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, Magistrado del Poder Judicial, Magistrado del Tribunal Electoral, Integrante del Consejo de la Judicatura, Magistrado del Tribunal de Arbitraje y Escalafón, Encargado de Hacienda Municipal o titular de algún ente auditable durante los dos años previos al de su designación, y tener sus cuentas públicas aprobadas;
 
 X. No haber sido Secretario de Estado, Procurador General de la República, Senador o Diputado Federal, a menos que se separe de su cargo dos años antes al día en que tenga verificativo su designación;
 
@@ -1335,11 +1343,13 @@ En el caso de la fracción X el Auditor Superior denunciará ante el superior je
 
 En el caso de la fracción XI se sancionara por las autoridades competentes en el ámbito civil de conformidad con el Código Civil, en el ámbito administrativo de acuerdo a la Ley de Responsabilidades, y en el ámbito penal con fundamento en el Código Penal, sin perjuicio de la aplicación de otras leyes para los casos específicos.
 
-En el caso de la fracción XII. Por (sic) acuerdo de las dos terceras partes de los integrantes de la Asamblea del Congreso del Estado, declarar que los Ayuntamientos se han desintegrado y suspender o revocar el mandato a alguno de sus miembros por cualesquiera de las causas graves que se manifiestan en esta ley y demás leyes aplicables, previo el derecho de audiencia y defensa correspondiente.
+En el caso de la fracción XII. Por acuerdo de las dos terceras partes de los integrantes de la Asamblea del Congreso del Estado, declarar que los Ayuntamientos se han desintegrado y suspender o revocar el mandato a alguno de sus miembros por cualesquiera de las causas graves que se manifiestan en esta ley y demás leyes aplicables, previo el derecho de audiencia y defensa correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 94.
 
-Las multas a que se refiere esta ley, tendrán carácter de créditos fiscales, se fijarán en cantidad líquida por la Auditoría Superior y se remitirán a la Secretaría de Finanzas para su ejecución.
+Las multas a que se refiere esta ley, tendrán carácter de créditos fiscales, se fijarán en cantidad líquida por la Auditoría Superior y se remitirán a la Secretaría para su ejecución.
 
 El importe de las multas deberá fundarse y motivarse tomando en cuenta las condiciones económicas del infractor, la gravedad de la infracción cometida, los medios de ejecución y, en su caso, su nivel jerárquico.
 
@@ -1367,19 +1377,25 @@ c) Las sanciones pecuniarias respectivas;
 
 II. Denunciar ante las autoridades correspondientes las probables responsabilidades en materia administrativa, penal o de juicio político.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 98.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y los ayuntamientos, por conducto de los presidentes municipales, deberán informar trimestralmente a la Auditoría Superior sobre la ejecución de los cobros respectivos y el monto de lo recuperado.
+El Ejecutivo del Estado, por conducto de la Secretaría y los ayuntamientos, por conducto de los presidentes municipales, deberán informar trimestralmente a la Auditoría Superior sobre la ejecución de los cobros respectivos y el monto de lo recuperado.
 
 Las entidades auditable (sic), por medio de sus titulares, deberán informar trimestralmente a la Auditoría Superior sobre los trámites realizados para la aplicación de sanciones.
 
 La Auditoría Superior dictará las medidas de apremio necesarias para la debida resolución de los asuntos antes citados en el tiempo y forma que marcan las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 99.
 
-El importe de las indemnizaciones que se recuperen en los términos de esta ley, deberá ser entregado por la Secretaría de Finanzas a las respectivas áreas administrativas de las entidades auditables y fiscalizables que sufrieron el daño y perjuicio respectivo. Lo propio se hará en el caso de los municipios. Dicho importe quedará en áreas administrativas o tesorerías y sólo podrá ser ejercido de conformidad con lo establecido en el correspondiente presupuesto.
+El importe de las indemnizaciones que se recuperen en los términos de esta ley, deberá ser entregado por la Secretaría a las respectivas áreas administrativas de las entidades auditables y fiscalizables que sufrieron el daño y perjuicio respectivo. Lo propio se hará en el caso de los municipios. Dicho importe quedará en áreas administrativas o tesorerías y sólo podrá ser ejercido de conformidad con lo establecido en el correspondiente presupuesto.
 
-Una vez publicadas las cuentas públicas de las entidades auditable (sic) en el periódico oficial El Estado de Jalisco, los cargos determinados tendrán el carácter de crédito fiscal, haciéndose efectivo conforme al procedimiento administrativo de ejecución que establece la legislación aplicable ya sea por la Secretaría de Finanzas o por la autoridad municipal respectiva, dentro de un plazo máximo de treinta días hábiles contados a partir de dicha publicación.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
+
+Una vez publicadas las cuentas públicas de las entidades auditable (sic) en el periódico oficial El Estado de Jalisco, los cargos determinados tendrán el carácter de crédito fiscal, haciéndose efectivo conforme al procedimiento administrativo de ejecución que establece la legislación aplicable ya sea por la Secretaría o por la autoridad municipal respectiva, dentro de un plazo máximo de treinta días hábiles contados a partir de dicha publicación.
 
 Es causa de responsabilidad administrativa grave el no iniciar por las autoridades fiscales el procedimiento económico coactivo a que se refiere el párrafo anterior, independientemente de cualquier otra responsabilidad civil o penal en la que se pudiera incurrir.
 
@@ -1572,5 +1588,9 @@ P.O. 24 DE AGOSTO DE 2013.
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 8 DE OCTUBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 18 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
