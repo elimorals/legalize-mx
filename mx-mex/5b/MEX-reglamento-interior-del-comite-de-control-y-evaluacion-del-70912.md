@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-comite-de-control-y-evaluacion-del-7091
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-28"
-last_updated: "2009-10-28"
+last_updated: "2014-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL COMITE DE CONTROL Y EVALUACION DEL INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL
 
-REGLAMENTO INTERIOR DEL COMITE DE CONTROL Y EVALUACION DEL INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL
+REGLAMENTO INTERIOR DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE), PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 28 de octubre de 2009.
 
@@ -31,7 +33,7 @@ LOS INTEGRANTES DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL INSTITUTO MEXIQUENSE DE
 
 C O N S I D E R A N D O.
 
-Que en concordancia con lo expuesto y en términos del los Criterios Generales para la Integración y Funcionamiento de los Comités de Control y Evaluación emitidos por la Dirección General de Control y Evaluación "C" de la Secretaría de la Contraloría, este órgano colegiado con el propósito de homologar las políticas cooperativas de control con las fijadas en el sector central de la administración pública estatal, ha tenido a bien expedir el siguiente documento:
+Que en concordancia con lo expuesto y en términos de los Criterios Generales para la Integración y Funcionamiento de los Comités de Control y Evaluación emitidos por la Dirección General de Control y Evaluación "C" de la Secretaría de la Contraloría, este órgano colegiado con el propósito de homologar las políticas cooperativas de control con las fijadas en el sector central de la administración pública estatal, ha tenido a bien expedir el siguiente documento:
 
 REGLAMENTO INTERIOR DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL.
 
@@ -346,3 +348,15 @@ C.P. OSCAR ALFREDO MENDOZA AHUMADA
 Contralor Interno y Secretario Técnico del COCOE
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se deja sin efectos el Reglamento Interior del COCOE publicado el 28 de octubre de 2009.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
