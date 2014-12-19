@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-la-comision-estatal-de-seguridad-ciudadana-del-103
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-17"
-last_updated: "2014-12-17"
+last_updated: "2014-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY QUE CREA LA COMISION ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 19 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de diciembre de 2014.
 
@@ -53,9 +53,11 @@ LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO
 
 La presente Ley crea la Comisión Estatal de Seguridad Ciudadana del Estado de México, como un órgano desconcentrado de la Secretaría General de Gobierno, con autonomía técnica y operativa para el ejercicio de sus atribuciones, en adelante la Comisión.
 
+> <small>(F. DE E., G.G. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-La Comisión tiene por objeto planear, programar, dirigir controlar y evaluar las funciones en materia de seguridad pública, tránsito, protección civil, administración de la seguridad penitenciaria, prevención y readaptación social que competen al Gobierno del Estado.
+La Comisión tiene por objeto planear, programar, dirigir controlar y evaluar las funciones en materia de seguridad pública, tránsito, administración de la seguridad penitenciaria, prevención y readaptación social que competen al Gobierno del Estado.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LA COMISIÓN
 
@@ -169,7 +171,9 @@ VIII. Comparecer ante la Legislatura del Estado, en términos de la Constitució
 
 IX. Acordar con el Secretario General de Gobierno la aprobación de la estructura orgánica y el Manual General de Organización de la Comisión, así como los manuales de procedimientos que le correspondan y remitirlos a la Secretaría de Finanzas para su autorización.
 
-X. Formular y ejecutar los programas relativos a la seguridad pública, tránsito, preservación del orden público, protección civil, prevención del delito, reinserción social y pirotecnia.
+> <small>(F. DE E., G.G. 19 DE DICIEMBRE DE 2014)</small>
+
+X. Formular y ejecutar los programas relativos a la seguridad pública, tránsito, preservación del orden público, prevención del delito, reinserción social y pirotecnia.
 
 XI. Autorizar operaciones encubiertas y de usuarios simulados para desarrollar acciones de inteligencia para la prevención, combate al delito y responsabilidades administrativas, con la finalidad de que el personal de la Comisión actúe bajo los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos previstos en la Constitución Federal.
 
@@ -205,7 +209,9 @@ XXVI. Someter a la aprobación del Gobernador del Estado por conducto del Secret
 
 XXVII. Proponer a la Secretaría General de Gobierno los anteproyectos del presupuesto anual de ingresos y de egresos de la Comisión.
 
-XXVIII. Proponer y suscribir acuerdos y convenios con corporaciones policiales, organismos e instituciones nacionales y extranjeras, tanto públicas como privadas, para el intercambio de planes y programas en materia de seguridad pública, protección civil, prevención y reinserción social y tratamiento de rehabilitación y asistencia social de adolescentes y demás atribuciones conferidas a la Comisión.
+> <small>(F. DE E., G.G. 19 DE DICIEMBRE DE 2014)</small>
+
+XXVIII. Proponer y suscribir acuerdos y convenios con corporaciones policiales, organismos e instituciones nacionales y extranjeras, tanto públicas como privadas, para el intercambio de planes y programas en materia de seguridad pública, prevención y reinserción social y tratamiento de rehabilitación y asistencia social de adolescentes y demás atribuciones conferidas a la Comisión.
 
 XXIX. Expedir las autorizaciones para la prestación del servicio de seguridad privada en el territorio del Estado de México y en su caso las revalidaciones, revocaciones o modificaciones de las autorizaciones otorgadas para dicho efecto.
 
