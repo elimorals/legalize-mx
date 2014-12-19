@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2014-06-04"
+last_updated: "2014-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2014.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -468,7 +468,7 @@ VII.- Rendir opiniones y formular sugerencias al Ejecutivo Federal tendientes al
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-VII bis.- Proponer a las autoridades sanitarias el otorgamiento de reconocimientos y estímulos para las instituciones y personas que se distingan por sus méritos a favor de la salud, y (sic)
+VII bis.- Proponer a las autoridades sanitarias el otorgamiento de reconocimientos y estímulos para las instituciones y personas que se distingan por sus méritos a favor de la salud, y
 
 VIII.- Analizar las disposiciones legales en materia de salud y formular propuestas de reformas o adiciones a las mismas, y
 
@@ -956,7 +956,7 @@ V.- Formulación de sugerencias para mejorar los servicios de salud;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-V bis.- Información a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos, y (sic)
+V bis.- Información a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos, y
 
 VI.- Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud, y
 
@@ -1038,9 +1038,9 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2014)</small>
 
-II. Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
+II.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, además de impulsar, la instalación de lactarios en los centros de trabajo de los sectores público y privado;
 
 > <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2012)</small>
 
@@ -2810,7 +2810,7 @@ II.- La divulgación de medidas higiénicas para el control de los padecimientos
 
 III.- La prevención específica en cada caso y la vigilancia de su cumplimiento;
 
-IV.- La realización de estudios epidemiológicos, y (sic)
+IV.- La realización de estudios epidemiológicos, y
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -3568,7 +3568,7 @@ III.- La aplicación de plaguicidas;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-IV.- La utilización de fuentes de radiación para fines médicos o de diagnóstico, y (sic)
+IV.- La utilización de fuentes de radiación para fines médicos o de diagnóstico, y
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -3762,7 +3762,7 @@ II.- Bebida no alcohólica: cualquier líquido, natural o transformado, que prop
 
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-III.- Materia prima: Substancia o producto, de cualquier origen, que se use en la elaboración de alimentos y bebidas no alcohólicas y alcohólicas, y (sic)
+III.- Materia prima: Substancia o producto, de cualquier origen, que se use en la elaboración de alimentos y bebidas no alcohólicas y alcohólicas, y
 
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -5616,7 +5616,7 @@ Los permisos para que los tejidos y sus componentes, así como las células pued
 
 El traslado fuera del territorio nacional de tejidos de seres humanos referidos en el artículo 375 fracción VI de esta Ley que pueda ser fuente de material genético (ácido desoxirribonucleico) y cuyo propósito sea llevar a cabo estudios genómicos poblacionales, estará sujeto a:
 
-I. Formar parte de un proyecto de investigación aprobado por una institución mexicana de investigación científica y conforme a lo establecido en el artículo 100 de la Ley, al Reglamento de la Ley General de Salud en materia de investigación y demás disposiciones aplicables, y (sic)
+I. Formar parte de un proyecto de investigación aprobado por una institución mexicana de investigación científica y conforme a lo establecido en el artículo 100 de la Ley, al Reglamento de la Ley General de Salud en materia de investigación y demás disposiciones aplicables, y
 
 II. Obtener el permiso al que se refiere el artículo 375 de esta Ley;
 
@@ -6516,7 +6516,7 @@ I Bis.- De nacimiento;
 
 II.- De defunción;
 
-III.- De muerte fetal, y (sic)
+III.- De muerte fetal, y
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -6894,7 +6894,7 @@ I.- Los daños que se hayan producido o puedan producirse en la salud de las per
 
 II.- La gravedad de la infracción;
 
-III.- Las condiciones socio-económicas del infractor, y (sic)
+III.- Las condiciones socio-económicas del infractor, y
 
 IV.- La calidad de reincidente del infractor;
 
@@ -6964,7 +6964,7 @@ IV.- Cuando por la peligrosidad de las actividades que se realicen o por la natu
 
 V.- Cuando en el establecimiento se vendan o suministren estupefacientes sin cumplir con los requisitos que señalen esta Ley y sus reglamentos;
 
-VI.- Cuando en un establecimiento se vendan o suministren substancias psicotrópicas sin cumplir con los requisitos que señale esta Ley y sus reglamentos, y (sic)
+VI.- Cuando en un establecimiento se vendan o suministren substancias psicotrópicas sin cumplir con los requisitos que señale esta Ley y sus reglamentos, y
 
 VII.- Cuando se compruebe que las actividades que se realicen en un establecimiento, violan las disposiciones sanitarias, constituyendo un peligro grave para la salud;
 
@@ -8203,3 +8203,11 @@ Quinto. El Ejecutivo Federal deberá emitir las disposiciones reglamentarias a q
 Sexto. La Secretaría de Salud deberá emitir los lineamientos, previa opinión de la Secretaría de Hacienda y Crédito Público, a que alude el presente Decreto, en un plazo que no excederá de los 180 días siguientes al de la entrada en vigor del mismo.
 
 Séptimo. Los acuerdos de coordinación a que se refiere el artículo 77 bis 6 de la Ley General de Salud, deberán ser suscritos dentro de los 90 días siguientes al de la publicación de las disposiciones reglamentarias a que se refiere el presente Decreto.
+
+D.O.F. 19 DE DICIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En un plazo que no excederá de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Salud establecerá la normatividad para la instalación y el funcionamiento de los lactarios.
+
+Asimismo, las acciones que deban realizar las dependencias o entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto en el presente Decreto, en términos de la normatividad que la Secretaría de Salud emita para tal efecto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación.
