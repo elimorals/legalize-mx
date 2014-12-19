@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2014-11-19"
+last_updated: "2014-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -2283,6 +2283,10 @@ Si este delito se comete al prestar el servicio, por conductores de vehículos d
 
 En ambos casos se aplicará lo dispuesto en el Artículo 185.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 186 BIS.- A quien elabore o utilice, sin el permiso de la autoridad competente, o altere, una o más placas, engomados o tarjetas de circulación que se expiden para identificar vehículos de automotor terrestre o remolques, se le aplicará de seis meses a cuatro años de prisión y de doscientos a mil quinientos días de multa.
+
 ### CAPITULO V. VENTA DE NIÑOS, NIÑAS Y ADOLESCENTES
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
@@ -2645,7 +2649,9 @@ Al que teniendo conocimiento de las actividades de un saboteador y de su identid
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS Y USO INDEBIDO DE CONDECORACIONES
+### CAPITULO V. USURPACIÓN DE LAS FUNCIONES DEL SERVICIO PÚBLICO
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 204
 
@@ -2691,6 +2697,8 @@ IV. Se niegue a la petición de acceso al domicilio de la receptora o víctima, 
 
 Este delito se persigue por querella, y cuando se otorgue el perdón al probable responsable de los señalados en el artículo 220 bis y 220 ter, dicho perdón se hará extensivo al servidor público, relacionado con dicha orden.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 205.
 
 Se considerarán delitos de carácter político, los de sedición, motín y rebelión, así como los demás que se realicen con móviles políticos para alterar la vida institucional del Estado.
@@ -2699,7 +2707,21 @@ Además de las penas señaladas para los delitos previstos en este título, se i
 
 ## TITULO TERCERO. DELITOS CONTRA LA ADMINISTRACION PUBLICA
 
-### CAPITULO I. FRAUDE PROCESAL
+### CAPITULO VII. USO INDEBIDO DE LOS SERVICIOS DE EMERGENCIA
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 220 Quinquies.
+
+A quien, a través de una llamada telefónica o cualquier otro medio, realice un aviso falso a los servicios de emergencia o su equivalente que provoque la movilización de personal de emergencia, protección civil, bomberos o de las Instituciones de seguridad pública, se le impondrá de seis meses a dos años de prisión y multa de cincuenta a quinientos días de salario mínimo general vigente en el Estado.
+
+La misma pena se impondrá a quien, a través de una llamada telefónica o cualquier otro medio, obstaculice la prestación de los servicios de emergencia o su equivalente.
+
+Además de la pena señalada, el sujeto activo será responsable de los daños o perjuicios ocasionados a un tercero, como consecuencia de la conducta descrita en el primer párrafo de este artículo.
+
+Cuando exista reincidencia por parte del sujeto activo, se duplicará la pena señalada con anterioridad.
+
+Este delito se perseguirá de oficio.
 
 ###### ARTICULO 206.
 
@@ -2709,7 +2731,7 @@ Para los efectos de este Código, servidor público es toda persona que desempe�
 
 Los Servidores Públicos que cometan alguno de los delitos previstos en el presente Título, además de las penas de prisión y de multa que en cada caso se señalen, serán privados del cargo y quedarán inhabilitados para desempeñar otro empleo, cargo o comisión públicos, hasta por el mismo tiempo que el señalado en las penas privativas de libertad, a partir de la extinción de ésta.
 
-### CAPITULO II. FALSO TESTIMONIO
+### CAPITULO I. FRAUDE PROCESAL
 
 ###### ARTICULO 207.
 
@@ -2729,7 +2751,7 @@ VI.- Autorice o contrate a quien se encuentre inhabilitado por resolución firme
 
 VII.- Otorgue cualquier identificación en que se acredite como servidor público o cualquier persona que realmente no desempeñe un empleo, cargo o comisión de que se haga referencia en dicha identificación.
 
-### CAPITULO III. DENUNCIAS FALSAS
+### CAPITULO II. FALSO TESTIMONIO
 
 ###### ARTICULO 208.
 
@@ -2739,7 +2761,7 @@ I.- En el desempeño de su empleo, cargo o comisión, otorgue por sí o por inte
 
 II.- Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no sea materia de sus funciones y que no sea del conocimiento público hasta por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o alguna de las personas mencionadas en la fracción anterior.
 
-### CAPITULO IV. EVASION DE PRESOS
+### CAPITULO III. DENUNCIAS FALSAS
 
 ###### ARTICULO 209.
 
@@ -2751,7 +2773,7 @@ II.- Indebidamente solicite o promueva alguna resolución o la realización de c
 
 ## TITULO CUARTO. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO V. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPITULO IV. EVASION DE PRESOS
 
 ###### ARTICULO 210.
 
@@ -2769,9 +2791,7 @@ Al particular que estando obligado legalmente a la custodia, administración o a
 
 Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Funcionarios y Empleados del Estado.
 
-### CAPITULO VI. ENCUBRIMIENTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+### CAPITULO V. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 213.
 
@@ -2795,11 +2815,21 @@ Al que por medio de la violencia física o moral, exija a una autoridad la ejecu
 
 Cuando la ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, solo se consumarán los delitos de resistencia y desobediencia cuando se hubieren agotado tales medios.
 
-### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPITULO VI. ENCUBRIMIENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 218.
 
 Al que quebrante los sellos puestos por orden de la autoridad pública competente, se le impondrá prisión de seis meses a dos años y de veinte a sesenta días multa.
+
+### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+
+###### ARTICULO 219.
+
+Al que verbalmente o por medio de expresiones físicas, ultraje a un servidor público o agente de la autoridad en el ejercicio de sus funciones o con motivo de éstas y en presencia del mismo, se le impondrá de seis meses a un año de prisión y de diez a treinta días multa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO VIII. DE LA OMISION DE LAS ORDENES DE PROTECCION
 
@@ -2807,33 +2837,31 @@ Al que quebrante los sellos puestos por orden de la autoridad pública competent
 
 ARTICULO 235 BIS.- Se aplicará de uno a seis años de prisión y hasta cien días multa, a cualquier servidor público que omita solicitar y otorgar sin causa debidamente justificada las órdenes de protección a que hace alusión la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
 
-###### ARTICULO 219.
-
-Al que verbalmente o por medio de expresiones físicas, ultraje a un servidor público o agente de la autoridad en el ejercicio de sus funciones o con motivo de éstas y en presencia del mismo, se le impondrá de seis meses a un año de prisión y de diez a treinta días multa.
-
-> <small>(F. DE E., P.O. 29 DE MARZO DE 1991)</small>
-
-### CAPITULO I. DELITOS CONTRA LA RIQUEZA FORESTAL DEL ESTADO
-
 ###### ARTICULO 220.
 
-Se impondrá de seis meses a cinco años de prisión y de treinta a cien días multa, al que:
+Se impondrá de seis meses a cinco años de prisión y de treinta a cien días multa, al que lleve a cabo cualquiera de las siguientes conductas:
 
-I.- Sin ser servidor público se atribuya ese carácter y ejerza alguna de las funciones de tal, o
+I. Sin ser servidor público se atribuya ese carácter y ejerza alguna de las funciones de tal;
 
-II.- Usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura a que correspondan aquéllos.
+II. Usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, con el propósito de obtener un beneficio indebido;
+
+III. Use, fabrique, reproduzca, almacene o distribuya uniformes, credenciales de identificación, escudos, documentos, distintivos o piezas que contengan imágenes, siglas u otros símbolos utilizados por las instituciones de seguridad pública del Estado, sin el permiso de la autoridad competente;
+
+IV. Utilice uno o varios vehículos o equipamiento oficiales o con apariencia tal que se asemejen a los utilizados por las instituciones de seguridad pública del Estado, sin estar legalmente facultado para ello; o
+
+V. Instale en las calles, avenidas, caminos, calzadas, plazas, paseos, pasajes, carreteras, puentes, pasos a desnivel, derechos de vía y en general todo terreno del dominio público y de uso común que se encuentre o ubique dentro de los límites del Estado de Quintana Roo, objetos de cualquier tipo para simular la existencia de un puesto de supervisión o vigilancia oficial.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO I. DELITOS CONTRA LA RIQUEZA FORESTAL DEL ESTADO
 
 ### CAPITULO II. INCOMPATIBILIDAD DE LABORES
 
 ### CAPITULO III. DELITOS CONTRA EL BUEN DESPACHO DE LA ADMINISTRACIÓN
 
-### CAPITULO IV. COALICION INDEBIDA
-
 ## TITULO QUINTO. DELITOS CONTRA LA ECONOMIA PUBLICA ESTATAL
 
-### CAPITULO V. INFIDELIDAD DE LA CUSTODIA DE DOCUMENTOS
+### CAPITULO IV. COALICION INDEBIDA
 
 ###### ARTICULO 221.
 
@@ -2841,7 +2869,7 @@ Al que para obtener un beneficio indebido para sí o para otro, simule un acto j
 
 Si el juicio que se sigue en contra de un depositario judicial resultare como consecuencia el secuestro de una cosa embargada o depositada con anterioridad, se presumirá que éste fue simulado.
 
-### CAPITULO I. ABANDONO DE EMPLEO
+### CAPITULO V. INFIDELIDAD DE LA CUSTODIA DE DOCUMENTOS
 
 ###### ARTICULO 222.
 
@@ -2853,7 +2881,7 @@ La misma pena se impondrá al que a sabiendas presente testigos falsos o que por
 
 Al que espontáneamente se retracte de sus falsas declaraciones, siempre y cuando lo haga antes de que se dicte sentencia se le impondrá de seis meses a un año de prisión o de diez a cincuenta días multa.
 
-### CAPITULO II. NEGLIGENCIA EN EL DESEMPEÑO DE FUNCION O CARGO
+### CAPITULO I. ABANDONO DE EMPLEO
 
 ###### ARTICULO 224.
 
@@ -2865,9 +2893,7 @@ II.- Al que para que un inocente aparezca culpable de un delito ponga sobre él 
 
 En los casos precedentes, si el imputado es declarado penalmente responsable por razón de las falsas denuncias, se impondrá al denunciante o querella (sic), de dos a cinco años de prisión.
 
-### CAPITULO III. IRRESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+### CAPITULO II. NEGLIGENCIA EN EL DESEMPEÑO DE FUNCION O CARGO
 
 ###### ARTICULO 225.
 
@@ -2893,7 +2919,9 @@ Si la reaprehensión del evadido se logra por gestiones del responsable de la ev
 
 Al evadido, no se le aplicará sanción alguna, pero si ejerciere violencia en las personas o fuerza en las cosas, o bien actuare de acuerdo con otro u otros detenidos, la pena será de cuatro meses a cuatro años de prisión.
 
-### CAPITULO I. APROVECHAMIENTO ILICITO DEL PODER
+### CAPITULO III. IRRESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 230.
 
@@ -2903,7 +2931,7 @@ A quien quebrante una pena no privativa de libertad distinta a la prevista en el
 
 Al que favorezca el quebrantamiento de la pena o medida de seguridad, se le impondrá de seis meses a un año de prisión. Si se trata de un servidor público que tenga a su cargo el cumplimiento de la pena o medida, la pena de prisión será de un año a un año seis meses y privación del cargo.
 
-### CAPITULO II. ABUSO DE AUTORIDAD
+### CAPITULO I. APROVECHAMIENTO ILICITO DEL PODER
 
 ###### ARTICULO 231.
 
@@ -2967,7 +2995,7 @@ Se presume que no se tomaron las precauciones ni las providencias indispensables
 
 El órgano jurisdiccional, teniendo en cuenta la naturaleza del hecho, las características personales del sujeto activo y las demás que consignan el Artículo 52 de este Código, podrá imponer en los casos de encubrimiento, la mitad de la sanción que corresponda, debiendo hacer constar las razones en que se funda para determinar tal sanción.
 
-### CAPITULO I. COHECHO
+### CAPITULO II. ABUSO DE AUTORIDAD
 
 ###### ARTICULO 235.
 
@@ -2987,13 +3015,13 @@ VI.- Como defensor sea particular o de oficio sólo se concrete a aceptar el car
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPITULO II. PECULADO
+### CAPITULO I. COHECHO
 
-### CAPITULO III. CONCUSION
+### CAPITULO II. PECULADO
 
 ## TITULO SEXTO. DELITOS CONTRA LA ADMINISTRACION PUBLICA
 
-### CAPITULO IV. INTIMIDACION
+### CAPITULO III. CONCUSION
 
 ###### ARTICULO 236.
 
@@ -3020,6 +3048,8 @@ Al Servidor Público del Estado que, expida autorización improcedente en el eje
 Los productos explotados, transportados o adquiridos ilegalmente, así como los instrumentos de explotación y medios de transporte, serán decomisados en beneficio del Estado.
 
 ## TITULO I (SIC). USURPACION DE FUNCIONES
+
+### CAPITULO IV. INTIMIDACION
 
 ###### ARTICULO 238.
 
@@ -3662,5 +3692,21 @@ SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se o
 P.O. 19 DE NOVIEMBRE DE 2014.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo y su aplicación estará sujeta al Decreto 121 emitido por la XIV Legislatura.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 239, POR EL QUE SE ADICIONA UN CAPÍTULO VII DENOMINADO "USO INDEBIDO DE LOS SERVICIOS DE EMERGENCIA" QUE COMPRENDE EL ARTICULO 220 QUINQUIES, AL TÍTULO TERCERO "DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA", DE LA SECCIÓN CUARTA "DELITOS CONTRA EL ESTADO", DEL LIBRO SEGUNDO PARTE ESPECIAL DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 240, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO V DEL TÍTULO TERCERO DE LA SECCIÓN CUARTA DEL LIBRO SEGUNDO PARTE ESPECIAL Y EL ARTÍCULO 220; Y SE ADICIONA EL ARTÍCULO 186 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
