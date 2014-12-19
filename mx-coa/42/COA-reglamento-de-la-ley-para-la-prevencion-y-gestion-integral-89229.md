@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-ley-para-la-prevencion-y-gestion-integral-8922
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-21"
-last_updated: "2012-08-21"
+last_updated: "2014-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 21 de agosto de 2012.
 
@@ -627,7 +629,7 @@ La Secretaría aprobará y/o autorizará, a su juicio, la modificación solicita
 
 Cuando se trate de cambio de denominación o razón social, bastará con que se dé aviso a la Secretaría, mediante escrito, al cual deberá anexarse copia certificada del documento en el que se haya acordado y aprobado el cambio de denominación o razón social, así como el instrumento jurídico mediante el cual se acredita la personalidad del representante legal;
 
-II. Deberá presentar ante la Secretaría, en el primer cuatrimestre del año, y en el formato que ésta determine, la Cédula de Operación Anual; (sic)
+II. Deberá presentar ante la Secretaría, en el primer cuatrimestre del año, y en el formato que ésta determine, la Cédula de Operación Anual;
 
 ###### Artículo 38.
 
@@ -691,7 +693,7 @@ I. La información general de la empresa que incluya nombre, denominación o raz
 
 II. La información del establecimiento que incluya, fecha de inicio de operaciones, turnos, horarios, número de empleados y la ubicación en donde se resguardan los vehículos;
 
-III. Los datos generales de los vehículos destinados para la recolección y/o transporte de los residuos de manejo especial o materia prima secundaria: tipo y marca de los vehículos, número de póliza del seguro vigente ,modelo (sic), placas, número de serie, capacidad, número de tarjeta de circulación vigente, indicar la cantidad y capacidad de los extintores tipo PQS u otro, dependiendo de las especificaciones de los residuos que transporta;
+III. Los datos generales de los vehículos destinados para la recolección y/o transporte de los residuos de manejo especial o materia prima secundaria: tipo y marca de los vehículos, número de póliza del seguro vigente , modelo, placas, número de serie, capacidad, número de tarjeta de circulación vigente, indicar la cantidad y capacidad de los extintores tipo PQS u otro, dependiendo de las especificaciones de los residuos que transporta;
 
 IV. Los datos generales de los conductores de recolección y/o transporte de los residuos de manejo especial o materia prima secundaria: nombre del conductor, número de la licencia de conducir vigente, fecha de la licencia de conducir;
 
@@ -809,7 +811,7 @@ XII. Aquellos previstos en otras disposiciones que sean aplicables.
 
 ###### Artículo 51.
 
-Las empresas de servicio de manejo, que realicen el Reciclado y/ o (sic) co-procesamiento de residuos de manejo especial, deberán presentar ante la Ventanilla Única de la Secretaria, la solicitud mediante el formato correspondiente, que deberá contener:
+Las empresas de servicio de manejo, que realicen el Reciclado y/ o co-procesamiento de residuos de manejo especial, deberán presentar ante la Ventanilla Única de la Secretaria, la solicitud mediante el formato correspondiente, que deberá contener:
 
 I. La información general de la empresa que incluyan nombre, denominación o razón social, domicilio, teléfono, fax, dirección electrónica, el domicilio para oír y recibir notificaciones, clave de registro federal de contribuyentes, y giro de la empresa, nombre y firma del Representante Legal, nombre del solicitante y cargo;
 
@@ -945,7 +947,7 @@ Cuando la materia orgánica sea sometida a digestión anaeróbica en biodigestor
 
 ###### Artículo 58.
 
-Para las empresas de servicio de manejo que realicen la disposición final de residuos sólidos urbanos y de manejo especial, deberá presentar ante la Ventanilla Única de la Secretaría la solicitud mediante el formato correspondiente, que deberá contener:: (sic)
+Para las empresas de servicio de manejo que realicen la disposición final de residuos sólidos urbanos y de manejo especial, deberá presentar ante la Ventanilla Única de la Secretaría la solicitud mediante el formato correspondiente, que deberá contener::
 
 I. La información general de la empresa que incluya nombre, denominación o razón social, domicilio, teléfono, fax, dirección electrónica, el domicilio para oír y recibir notificaciones, clave de registro federal de contribuyentes, nombre y firma del Representante Legal, nombre del solicitante y cargo;
 
@@ -1337,7 +1339,7 @@ II. Presentar información, documentos y/o autorizaciones apócrifas;
 
 III. Presentar información que induzca a la autoridad a error o a la incorrecta apreciación en la evaluación correspondiente;
 
-IV. Presenten estudios que tengan deficiencias técnicas a criterio de la Secretaría; y (sic)
+IV. Presenten estudios que tengan deficiencias técnicas a criterio de la Secretaría; y
 
 ### CAPÍTULO XIII. DEL SISTEMA ESTATAL DE INFORMACIÓN DE LA GESTIÓN INTEGRAL DE RESIDUOS
 
@@ -1482,3 +1484,13 @@ LA SECRETARIA DE MEDIO AMBIENTE
 BIOL. EGLANTINA CANALES GUTIÉRREZ
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 19 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se deroga el Reglamento de la Ley para la Prevención y Gestión Integral de Residuos para el Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 21 de agosto de 2012.
+
+TERCERO. Los procedimientos y recursos administrativos que estuvieran en curso al entrar en vigor el presente Reglamento, se continuarán conforme a las disposiciones que les dieron origen.
