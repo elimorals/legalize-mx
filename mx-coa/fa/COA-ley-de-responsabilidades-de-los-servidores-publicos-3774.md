@@ -4,7 +4,7 @@ identifier: "COA-ley-de-responsabilidades-de-los-servidores-publicos-3774"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-24"
-last_updated: "2013-04-12"
+last_updated: "2014-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS ESTATALES Y MUNICIPALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de abril de 1984.
 
@@ -65,9 +65,9 @@ VI.- El registro patrimonial de los servidores públicos.
 
 Son sujetos de esta Ley:
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-I. Los representantes de elección popular, los miembros del Poder Judicial, los servidores públicos del estado y de los municipios cualquiera que sea su jerarquía, rango u origen de su nombramiento o lugar en que presten sus servicios, los consejeros electorales del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana de Coahuila y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal, y en las entidades paraestatales o paramunicipales.
+I. Los representantes de elección popular, los miembros del Poder Judicial, los servidores públicos del estado y de los municipios cualquiera que sea su jerarquía, rango u origen de su nombramiento o lugar en que presten sus servicios; los servidores públicos de los organismos a los que la Constitución les otorga autonomía y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública, estatal o municipal, y en las entidades paraestatales o paramunicipales.
 
 II.- Todos aquellos servidores públicos o personas que manejen o apliquen recursos económicos, estatales y municipales.
 
@@ -87,9 +87,9 @@ III.- El pleno del Tribunal Superior de Justicia del Estado;
 
 IV.- La Fiscalía General del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-V.- La Secretaría de la Función Pública;
+V.- La Secretaría de Fiscalización y Rendición de Cuentas;
 
 VI.- Los Organos de Control de los Poderes Legislativo y Judicial;
 
@@ -115,9 +115,9 @@ Para los efectos de esta Ley se entenderá:
 
 I.- Por Comisión Instructora: La Comisión Instructora de Juicio Político y Declaración de Procedencia en Materia de Responsabilidad Penal del Congreso;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-II.- Por Órgano Estatal de Control: La Secretaría de la Función Pública;
+II.- Por Órgano Estatal de Control: La Secretaría de Fiscalización y Rendición de Cuentas;
 
 III.- Por Organos de Control de los Poderes Legislativo y Judicial: Las áreas o unidades administrativas que tengan a su cargo las funciones de control;
 
@@ -339,7 +339,7 @@ Las declaraciones que en estos casos emita el Congreso del Estado, serán inatac
 
 ###### ARTICULO 35.
 
-Cuando se trate del Gobernador del Estado, de los Diputados del Congreso Local, de los Magistrados del Tribunal Superior de Justicia, de los Magistrados del Tribunal Electoral, o de los consejeros electorales propietarios del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cual fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
+Cuando se trate del Gobernador del Estado, de los Diputados del Congreso Local, de los Magistrados del Tribunal Superior de Justicia, de los Magistrados del Tribunal Electoral, o de los consejeros electorales propietarios del Consejo General del Instituto Electoral y de Participación Ciudadana, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cual fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
 
 ###### ARTICULO 36.
 
@@ -427,7 +427,7 @@ En todas las cuestiones relativas a los procedimientos de juicio político y de 
 
 ## TITULO TERCERO. RESPONSABILIDADES ADMINISTRATIVAS
 
-### CAPITULO I (SIC). SUJETOS Y OBLIGACIONES DEL SERVIDOR PUBLICO
+### CAPITULO I. SUJETOS Y OBLIGACIONES DEL SERVIDOR PUBLICO
 
 ###### ARTICULO 51.
 
@@ -493,7 +493,7 @@ XXII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cu
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 1993)</small>
 
-XXIII.- Abstener, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeña un empleo, cargo o comisión en el Servicio Público, o bien con las sociedades de que dichas personas formen parte, sin la autorización previa y específica de la autoridad competente a propuesta razonada, conforme a las disposiciones legales aplicables, del titular de la dependencia o entidad que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y (sic)
+XXIII.- Abstener, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeña un empleo, cargo o comisión en el Servicio Público, o bien con las sociedades de que dichas personas formen parte, sin la autorización previa y específica de la autoridad competente a propuesta razonada, conforme a las disposiciones legales aplicables, del titular de la dependencia o entidad que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
 
 > <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2013)</small>
 
@@ -547,7 +547,7 @@ III.- Suspensión;
 
 IV.- Destitución del puesto;
 
-V.- Sanción económica; y (sic)
+V.- Sanción económica; y
 
 VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
@@ -771,21 +771,47 @@ II.- En los demás casos prescribirán en tres años.
 
 ### CAPITULO UNICO. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 74.
 
-Corresponderá al órgano estatal de control, llevar el registro de la situación patrimonial de los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial del Estado; de los Municipios de la entidad, de los de las entidades Paraestatales y Paramunicipales, de conformidad con esta Ley, y demás ordenamientos legales aplicables.
+Corresponderá al órgano estatal de control, llevar el registro de la situación patrimonial de los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial del Estado; de los municipios de la entidad; de las entidades paraestatales y paramunicipales; así como el de los organismos autónomos del estado, de conformidad con esta Ley, y demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 75.
 
-Tienen obligación de presentar declaración anual de situación patrimonial, bajo protesta de decir verdad:
+Tienen obligación de presentar declaración de situación patrimonial, bajo protesta de decir verdad:
 
-I.- En los Poderes Legislativo, Ejecutivo y Judicial: los servidores públicos nombrados por elección popular y todos aquellos que tengan el carácter de servidores públicos de confianza;
+I.- En el Poder Legislativo: Diputados, Tesorero, Oficial Mayor, directores, subdirectores y jefes de departamento;
 
-II.- En el sector paraestatal de la administración pública del Estado: los titulares y los demás servidores públicos de confianza de las entidades que formen parte del mismo;
+II.- En el Poder Judicial: Magistrados, jueces, secretarios y actuarios de cualquier categoría o designación;
 
-III.- En la administración pública de los municipios de la entidad: los miembros de los Ayuntamientos, los titulares de las entidades paramunicipales y los demás servidores públicos de confianza de las dependencias centralizadas y entidades paramunicipales.
+III.- En el Poder Ejecutivo: Todos los servidores públicos desde el nivel de jefe de departamento u homólogo hasta el Gobernador del Estado;
+
+IV.- En el sector desconcentrado y paraestatal de la administración pública del estado: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo hasta el de director general o equivalente;
+
+V.- En la administración pública de los municipios de la entidad: los miembros de los ayuntamientos, los titulares de las entidades paramunicipales y los demás servidores públicos, desde el nivel de jefe de departamento u homólogo, de las dependencias centralizadas y entidades paramunicipales.
+
+VI.- En el Órgano Estatal de Control: Todos los servidores públicos;
+
+VII.- En la Auditoría Superior del Estado: Todos los servidores públicos desde el nivel de jefe de departamento u homólogo, hasta el Auditor Superior del Estado;
+
+VIII.- Los servidores públicos de los organismos a los que la Constitución les otorga autonomía, desde el nivel de jefe de departamento u homólogo hasta su titular;
+
+IX.- Los servidores públicos que coordinen y/o ejecuten programas sociales.
+
+X.- Todos los servidores públicos que manejen, recauden, administren o resguarden fondos, valores y recursos estatales, municipales, transferidos, descentralizados, convenidos y concertados; realicen actividades de inspección o vigilancia; lleven a cabo funciones de calificación o determinación para la expedición de licencias, permisos, autorizaciones o concesiones, y quienes intervengan en la adjudicación de pedidos o contratos.
+
+XII (SIC).- En general, toda persona que conforme al artículo 2° de esta Ley, desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, desde el nivel de jefe de departamento u homólogo sin importar la naturaleza del recurso que da origen a su nombramiento.
+
+Asimismo, deberán presentar las declaraciones a que se refiere este artículo, los demás servidores públicos que determine el titular del Órgano Estatal de Control, mediante disposiciones generales debidamente motivadas y fundadas, cualquiera que sea su jerarquía, rango u origen de su nombramiento, de las dependencias, entidades u organismos señalados en la fracción I del artículo 2° de esta ley.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 75 BIS.- Los Poderes Legislativo y Judicial, municipios y organismos autónomos, deberán informar mensualmente al Órgano Estatal de Control de los movimientos de altas, bajas, licencias e incapacidades respecto de los servidores públicos obligados a presentar declaración de situación patrimonial de conformidad con el artículo anterior.
+
+La Secretaría de Finanzas y titulares de las entidades u organismos paraestatales y desconcentrados, deberán informar mensualmente al Órgano Estatal de Control sobre los movimientos de altas, bajas, licencias, incapacidades y cambios de adscripción de los servidores públicos.
 
 ###### ARTICULO 76.
 
@@ -795,11 +821,15 @@ I.- Dentro de los sesenta días naturales siguientes a la toma de posesión;
 
 II.- Dentro de los treinta días naturales siguientes a la conclusión del encargo; y
 
-III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del Impuesto Sobre la Renta, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la fracción I.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+III.- Durante el mes de enero de cada año deberá presentarse la declaración anual de situación patrimonial, salvo que en ese mismo mes se hubiese presentado la declaración de inicio de cargo dentro del plazo a que se refiere la fracción I.
 
-Si transcurrido el plazo a que se refiere la fracción I, no se hubiese presentado la declaración correspondiente sin causa justificada, el órgano estatal de control, señalará un nuevo plazo que no excederá de 90 días para su presentación. Concluido dicho término si no se hubiese presentado la declaración requerida, el órgano estatal de control solicitará a los titulares de los Poderes Ejecutivo, Legislativo y Judicial, al Ayuntamiento Municipal respectivo, o al órgano de gobierno de las entidades paraestatales o paramunicipales según sea el caso, que den de baja al servidor público que no haya cumplido con lo dispuesto en este artículo. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III.
+En el caso de las personas físicas obligadas a presentar declaración anual para los efectos de la Ley del Impuesto Sobre la Renta, deberá presentarse en el mes de mayo una declaración complementaria en la que se indique las percepciones y retenciones del ejercicio fiscal del año inmediato anterior.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Si transcurridos los plazos señalados no se hubiese presentado la declaración correspondiente sin causa justificada, el órgano estatal de control, señalará un nuevo plazo que no excederá de 15 días para su presentación. Concluido dicho término si no se hubiesen presentado las declaraciones referidas en las fracciones I y III, el órgano estatal de control solicitará a los titulares de los Poderes Ejecutivo, Legislativo y Judicial, al Ayuntamiento respectivo, al órgano de gobierno de las entidades paraestatales o paramunicipales o al de los organismos autónomos según sea el caso, que den de baja al servidor público que no haya cumplido con lo dispuesto en este artículo.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
@@ -807,15 +837,19 @@ Si transcurrido el plazo a que se refiere la fracción I, no se hubiese presenta
 
 El órgano estatal de control, expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 78.
 
-En la declaración inicial y final de situación patrimonial se manifestarán los bienes inmuebles, con fecha y valor de adquisición.
+En la declaración inicial y final de situación patrimonial se manifestarán la totalidad de los bienes muebles e inmuebles, con fecha y valor de adquisición, así como los activos y pasivos que tiene el servidor público al momento de iniciar o concluir el cargo, según sea el caso.
 
-En las declaraciones anuales se manifestarán solo las modificaciones al patrimonio, con fecha y valor de la adquisición.
+En las declaraciones anuales se manifestarán solo las modificaciones al patrimonio que se hayan generado en el año inmediato anterior, con fecha y valor de la adquisición según sea el caso.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+Tratándose de bienes muebles e inmuebles, el órgano estatal de control, expedirá los formatos en los que se señalen las características que deba tener la declaración.
 
-Tratándose de bienes muebles, el órgano estatal de control, expedirá los formatos en los que se señalen las características que deba tener la declaración.
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 78 BIS.- El servidor público que en su declaración de situación patrimonial, faltare a la verdad en relación con lo que es obligatorio manifestar en los términos de esta Ley, será suspendido y cuando su importancia lo amerite, destituido e inhabilitado de conformidad con lo dispuesto en el artículo 57 de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2007)</small>
 
@@ -968,3 +1002,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- El Consejo Consultivo de la Comisión deberá de realizar las adecuaciones al Reglamento Interior de la Comisión en un término de sesenta días después de la entrada en vigor del presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
