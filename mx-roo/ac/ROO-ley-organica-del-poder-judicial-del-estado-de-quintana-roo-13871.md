@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2014-10-24"
+last_updated: "2014-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -1879,7 +1879,21 @@ XXI.- Dictar las disposiciones necesarias para la recepción, control y destino 
 
 XXII.- Fijar los criterios generales de evaluación mensual de juicios iniciados, en trámite y concluidos en el Poder Judicial, basados, por lo menos, en el rendimiento, eficiencia y eficacia; y, en su caso, previa ponderación de las evaluaciones respectivas, tomar las providencias que estimen necesarias, con excepción del Pleno del Tribunal;
 
-XXIII.- Las demás que se señalen en el o los reglamentos para hacer efectivas las contenidas en la Constitución del Estado y en esta Ley.
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XXIII.- Capacitar, a través de la Escuela Judicial, al personal administrativo, judicial, del Centro de Justicia Alternativa, del Instituto de Defensoría Pública y del Centro de Convivencia Familiar Supervisada, todos del Poder Judicial, para la debida atención y defensa de los derechos de las personas en condición de vulnerabilidad.
+
+Para efectos de lo anterior, el Consejo de la Judicatura deberá emitir un programa para la atención y defensa de las personas en condición de vulnerabilidad, mismo que será actualizado cada tres años. Dicha actualización coincidirá con el periodo de renovación de la Presidencia del Tribunal Superior de Justicia del Estado;
+
+Se considerarán personas en condición de vulnerabilidad, aquellas que por razón de su edad, género, estado físico o mental o por circunstancias sociales, económicas, étnicas y/o culturales tengan dificultad para ejercer con plenitud sus derechos en el sistema de administración e impartición de justicia.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XXIV.- Determinar la designación de uno o varios intérpretes de lengua de señas y traductores adscritos al Poder Judicial.
+
+El Consejo de la Judicatura podrá celebrar acuerdos y convenios con instituciones públicas o privadas para garantizar la disponibilidad de intérpretes o traductores, en caso de ser insuficiente el personal referido en el párrafo anterior, y
+
+XXV.- Las demás que se señalen en el o los reglamentos para hacer efectivas las contenidas en la Constitución del Estado y en esta Ley.
 
 (REUBICADO, ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 16 DE DICIEMBRE DE 2003)
 
@@ -3432,3 +3446,13 @@ Segundo. Se derogan las disposiciones que se opongan a las contenidas en el pres
 P.O. 24 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Consejo de la Judicatura del Estado deberá aprobar y publicar el Programa para la atención y defensa de las personas en condición de vulnerabilidad en el Periódico Oficial del Estado de Quintana Roo, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO. La Procuraduría General de Justicia del Estado deberá aprobar y publicar el Programa para la atención y defensa de las personas en condición de vulnerabilidad en el Periódico Oficial del Estado de Quintana Roo, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
