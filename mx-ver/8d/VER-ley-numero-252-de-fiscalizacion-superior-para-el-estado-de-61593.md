@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-252-de-fiscalizacion-superior-para-el-estado-de-6159
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-06"
-last_updated: "2010-07-21"
+last_updated: "2014-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 252 DE FISCALIZACION SUPERIOR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 252 DE FISCALIZACION SUPERIOR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 252 DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 6 de junio de 2008.
 
@@ -111,7 +111,7 @@ Artículo 4
 
 Artículo 5
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
@@ -233,7 +233,7 @@ Artículo 21
 
 Artículo 22
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
@@ -303,11 +303,17 @@ Artículo 23
 
 2. El Congreso, por conducto de la Comisión, remitirá al Órgano las Cuentas Públicas dentro de los primeros quince días del mes de junio del año en que las reciba, con las opiniones y recomendaciones que se estimen pertinentes.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 Artículo 24
 
-1. Los Entes Fiscalizables, con excepción de los Ayuntamientos y las entidades paramunicipales, a través de sus respectivas unidades administrativas responsables del ejercicio presupuestal, estarán obligados a presentar al Congreso informes trimestrales sobre su Gestión Financiera en los términos señalados por ésta y demás leyes aplicables. El Congreso, por conducto de la Comisión, remitirá al Órgano estos informes de manera escrita y, cuando sea el caso, de manera electrónica, dentro de los diez días siguientes al de su recepción.
+1. Los Entes Fiscalizables, con excepción de los Ayuntamientos y las entidades paramunicipales, a través de sus respectivas unidades administrativas responsables del ejercicio presupuestal, presentarán a la Secretaría de Fiscalización del Congreso, de manera impresa y electrónica, por duplicado, informes trimestrales sobre su Gestión Financiera, con apego a lo señalado en el artículo 53 de la Ley General de Contabilidad Gubernamental, dentro de los quince días hábiles siguientes a la conclusión del trimestre respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+2. La Secretaría de Fiscalización realizará un análisis a la información recibida y posteriormente lo enviará de manera escrita y electrónica a cada uno de los integrantes de la Comisión, a más tardar los primeros veinte días hábiles siguientes a su recepción.
+
+3. El Congreso, por conducto de la Comisión, una vez recibidos los informes trimestrales por parte de la Secretaría de Fiscalización, los remitirá al Órgano en los mismos términos, dentro de los cinco días hábiles siguientes a su recepción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
@@ -325,7 +331,7 @@ Artículo 26
 
 1. El Congreso sancionará el incumplimiento de la presentación de Cuentas Públicas, por conducto de su unidad o área administrativa responsable de los servicios jurídicos, con la imposición, al servidor público responsable, de una multa de un mil a tres mil días de salario mínimo general vigente en la capital del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
@@ -1147,7 +1153,7 @@ Gobernador del Estado
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 21 DE JULIO DE 2010.
 
@@ -1158,3 +1164,9 @@ Segundo. Las disposiciones contenidas en el Artículo Segundo del presente Decre
 Tercero. Las disposiciones contenidas en el Artículo Tercero del presente Decreto iniciarán su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 19 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
