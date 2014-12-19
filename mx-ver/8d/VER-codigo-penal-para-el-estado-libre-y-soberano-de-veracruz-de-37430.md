@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2014-08-27"
+last_updated: "2014-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3297,7 +3297,7 @@ Se impondrán de uno a cuatro años de prisión y multa hasta de ciento cincuent
 
 ### CAPÍTULO I. DE LOS DELITOS ELECTORALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 328.
 
@@ -3307,7 +3307,7 @@ Se aplicará la misma sanción a quien haga figurar como suyos bienes que el ser
 
 Además de las sanciones establecidas en este artículo, se decomisarán en beneficio del Estado aquellos bienes cuya procedencia no logre justificarse de acuerdo con la ley en materia de responsabilidades de los servidores públicos del Estado.
 
-### CAPÍTULO II. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+### CAPÍTULO II
 
 ###### Artículo 329.
 
@@ -3499,113 +3499,41 @@ Estos delitos se perseguirán por querella del particular afectado o de la autor
 
 ###### Artículo 352.
 
-Se impondrán de seis meses a cinco años de prisión y multa de diez a cien días de salario, a quien:
-
-I. Vote a sabiendas de que no cumple con los requisitos de la ley;
-
-II. Vote más de una vez en una misma elección;
-
-III. Obstaculice o interfiera la realización de las votaciones o del escrutinio;
-
-IV. Haga proselitismo o presione a los electores, el día de la jornada electoral, en el interior de la casilla o en el lugar en que se encuentren formados los votantes;
-
-V. Recoja, sin causa prevista por la Ley, credenciales de elector de los ciudadanos;
-
-VI. Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
-
-VII. Viole de cualquier manera el secreto del voto;
-
-VIII. Vote o pretenda votar con una credencial de la que no sea titular;
-
-IX. El día de la elección, organice la reunión y traslado de votantes, con el objeto de influir en el sentido de su voto;
-
-X. Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales, destruya o altere boletas o documentos electorales;
-
-XI. Modifique o destruya las publicaciones sobre los resultados de la votación, fijadas en el exterior de las casillas o de los locales que ocupen las Comisiones Electorales Distritales y Municipales;
-
-XII. Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa; o
-
-XIII. Impida en forma violenta la instalación de una casilla.
+Los delitos electorales en el Estado serán los previstos en la Ley General en Materia de Delitos Electorales.
 
 ###### Artículo 353.
 
-Se impondrá multa hasta de quinientos días de salario, a los ministros de culto religioso que por cualquier medio, en el desarrollo de actos propios de su ministerio, induzcan al electorado a votar en favor o en contra de un candidato o partido político o a la abstención.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2014)
 
 ###### Artículo 354.
 
-Se impondrán de dos a seis años de prisión y multa de cincuenta a doscientos días de salario, al funcionario electoral que:
-
-I. Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Federal de Electores;
-
-II. Se abstenga de cumplir sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
-
-III. Obstruya la realización de la votación o del escrutinio, sin mediar causa justificada;
-
-IV. Altere los resultados electorales, sustraiga o destruya boletas electorales o documentos electorales;
-
-V. No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
-
-VI. En ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-VII. Instale, abra o cierre dolosamente una casilla, fuera de los tiempos y formas previstos por la Ley de la materia, la instale en lugar distinto al legalmente señalado, o impida su instalación;
-
-VIII. Expulse de la casilla electoral sin causa justificada a representante de un partido político o coarte los derechos que la Ley le concede;
-
-IX: Conociendo la existencia de condiciones o actividades que atenten contra la libertad o secreto del voto, no tome las medidas conducentes para que cesen;
-
-X. Permita o tolere a sabiendas que un ciudadano emita su voto cuando no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; o
-
-XI. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2014)
 
 ###### Artículo 355.
 
-Se impondrán de uno a seis años de prisión y multa de cien a doscientos días de salario, al funcionario partidista que:
-
-I. Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-II. Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
-
-III. Sustraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
-
-IV. Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
-
-V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o
-
-VI. Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la Ley en la materia.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2014)
 
 ###### Artículo 356.
 
-Se impondrán de dos a nueve años de prisión y multa de doscientos a cuatrocientos días de salario, al servidor público que:
-
-I. Obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
-
-II. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, a la emisión del sufragio en favor de un partido político o candidato; o
-
-III. Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo, correspondiente a sus labores para que éstos presten servicio a un partido político o candidato. En la comisión de este delito no habrá el beneficio de la libertad condicional.
-
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2014)
 
 ###### Artículo 357.
 
-Se impondrá prisión de dos a nueve años y multa de doscientos a cuatrocientos días de salario, al funcionario partidista o al organizador de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios, en los términos de la fracción III del artículo anterior.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2014)
 
 ###### Artículo 358.
 
-Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años, a quien habiendo sido electo Diputado no se presente, sin causa justificada a juicio del Congreso del Estado, a desempeñar el cargo dentro del plazo señalado en el artículo 24 de la Constitución Política del Estado.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2014)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 359.
 
-Para los efectos de este Título, se entiende por:
-
-I. Funcionarios electorales, quienes en los términos de la legislación estatal electoral, integren los órganos que cumplen funciones públicas electorales;
-
-II. Funcionarios partidistas, los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales, en los términos de la legislación en la materia; y
-
-III. Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales o municipales, y en general, los documentos expedidos en el ejercicio de sus funciones por los organismos electorales.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2014)
 
 ###### Artículo 360.
 
-Por la comisión de cualquiera de los delitos comprendidos en el presente Título, se podrán imponer, además de la pena señalada, la inhabilitación de uno a cinco años y, en su caso, la destitución del cargo.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3833,7 +3761,7 @@ G.O. 15 DE AGOSTO DE 2005.
 
 DECRETO No. 284, POR EL QUE SE REFORMA EL ARTÍCULO 233 DEL CÓDIGO.
 
-Primero. Presente (sic) decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+Primero. (sic) Presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
@@ -4051,7 +3979,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 29 DE AGOSTO DE 2011.
 
-DECRETO NÚMERO 292 POR EL QUE SE REFORMAN LOS ARTÍCULOS 56, FRACCIONES II, III(SIC) Y IV (SIC), Y 329, PÁRRAFOS SEGUNDO Y TERCERO; SE ADICIONAN UNA FRACCIÓN V AL ARTÍCULO 56, UN PÁRRAFO TERCERO AL ARTÍCULO 93, LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 104, UN PÁRRAFO CUARTO AL ARTICULO 137, UN PÁRRAFO SEGUNDO AL ARTÍCULO 319, UN PÁRRAFO QUE SERÁ EL SEGUNDO AL ARTICULO 329, CON EL CORRIMIENTO DE LOS ACTUALES SEGUNDO Y TERCERO, UN CAPÍTULO VII BIS, QUE SE DENOMINARÁ FEMINICIDIO, AL TÍTULO XXI DELITOS DE VIOLENCIA DE GÉNERO Y UN ARTÍCULO 367 BIS; Y SE DEROGA EL ARTÍCULO 368 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO NÚMERO 292 POR EL QUE SE REFORMAN LOS ARTÍCULOS 56, FRACCIONES II, III Y IV, Y 329, PÁRRAFOS SEGUNDO Y TERCERO; SE ADICIONAN UNA FRACCIÓN V AL ARTÍCULO 56, UN PÁRRAFO TERCERO AL ARTÍCULO 93, LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 104, UN PÁRRAFO CUARTO AL ARTICULO 137, UN PÁRRAFO SEGUNDO AL ARTÍCULO 319, UN PÁRRAFO QUE SERÁ EL SEGUNDO AL ARTICULO 329, CON EL CORRIMIENTO DE LOS ACTUALES SEGUNDO Y TERCERO, UN CAPÍTULO VII BIS, QUE SE DENOMINARÁ FEMINICIDIO, AL TÍTULO XXI DELITOS DE VIOLENCIA DE GÉNERO Y UN ARTÍCULO 367 BIS; Y SE DEROGA EL ARTÍCULO 368 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -4176,3 +4104,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. La Secretaría de Seguridad Pública contará con un plazo de seis meses, a partir de la entrada en vigor del presente Decreto, para integrar el padrón de choferes de transporte público del Estado de Veracruz.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 19 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
