@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-consejo-estatal-de-seguridad-publica-del-82383"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-29"
-last_updated: "2011-07-29"
+last_updated: "2014-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO
+REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 29 de julio de 2011.
 
@@ -59,9 +59,11 @@ Los integrantes del Consejo Estatal contarán con derecho a voz y voto, y deber�
 
 Duración en el cargo de los presidentes municipales
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-Los presidentes municipales que sean integrantes del Consejo Estatal, durarán en el cargo tres años improrrogables.
+El periodo de los presidentes municipales, como integrantes del Consejo Estatal, tendrá la duración que este último determine. La terminación, expiración del mandato o suspensión en el cargo de presidente municipal, por cualquiera de las causas que señalen la Constitución Política del Estado o la Ley, durante dicho periodo, dará por terminado su nombramiento como integrante del Consejo Estatal.
 
 Designación de presidentes municipales
 
@@ -69,33 +71,45 @@ Designación de presidentes municipales
 
 La designación de los dos presidentes municipales que integrarán el Consejo Estatal, se hará con base en el siguiente mecanismo:
 
-I. El Consejo Estatal emitirá un acuerdo en el cual se divida al Estado en regiones, para efecto de realizar la designación de los presidentes municipales que lo integrarán;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-II. Conforme a dichas regiones, el Consejo Estatal elegirá a dos de ellas, para acordar la designación de los presidentes municipales que fungirán como representantes; y
+I. El Consejo Estatal se basará en la división del Estado en zonas establecida (sic) por la Secretaría de Seguridad Pública; y
 
-III. Al finalizar el periodo previsto en el artículo anterior, para las designaciones se aplicará la regla prevista en la fracción II de este artículo, y no podrán considerarse aquellas regiones de las que se haya generado alguna representación.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-El esquema previsto en este artículo será implementado hasta lograr la participación de todas las regiones, por lo que una vez efectuado, el Consejo Estatal reiniciará la elección aleatoria con la inclusión de todas las regiones.
+II. El Consejo Estatal seleccionará dos zonas para la designación de los presidentes municipales que fungirán como integrantes.
 
-Representantes de la sociedad civil
+III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2014)
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Representantes de la sociedad civil, de otras autoridades o instituciones
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
 
-Para el desahogo de temas en específico y previo acuerdo entre el Presidente del Consejo Estatal y el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública, se invitará a las sesiones del Consejo Estatal, al menos a dos representantes de la sociedad civil, cuyo perfil, conocimientos y trayectoria en la materia puedan coadyuvar en la toma de decisiones.
+El Consejo Estatal, para el desahogo de temas específicos, contará con la participación de representantes de la sociedad civil, de otras autoridades o instituciones que cuenten con el perfil, conocimiento y trayectoria profesional que coadyuven en su tratamiento.
 
-Reglas de participación de la sociedad civil
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+El Presidente formulará la invitación, por conducto del Secretario Técnico.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Participación de los representantes de la sociedad civil y de otras autoridades o instituciones
 
 ###### Artículo 6.
 
-La participación de los representantes de la sociedad civil se sujetará al siguiente esquema:
+La participación de los representantes de la sociedad civil, de otras autoridades o instituciones se sujetará a lo siguiente:
 
-I. Deberán recibir por conducto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la invitación para la sesión correspondiente;
+I. El Presidente, en la invitación que les extienda para que asistan a las sesiones del Consejo Estatal, les hará saber que deberán guardar la reserva y la confidencialidad sobre la información a la que tengan acceso o que les sea proporcionada; y
 
-II. Su participación estará sujeta al tema o asunto para el cual fue invitado, salvo que el Consejo Estatal determine otra situación, y únicamente contarán con derecho a voz; y
+II. Únicamente contarán con derecho a voz. Su intervención en la sesión del Consejo Estatal se limitará al tema o asunto para el cual fueron invitados, salvo que el Consejo Estatal determine que participen en otros asuntos de la sesión.
 
-III. Deberán guardar reserva y confidencialidad sobre la información a la que tengan acceso o les sea compartida.
-
-Para llevar a cabo la invitación a los representantes de la sociedad civil, los demás integrantes del Consejo Estatal podrán enviar de manera oportuna al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública, las propuestas de las personas que estimen pertinentes.
+Los integrantes e invitados permanentes del Consejo Estatal podrán enviar de manera oportuna al Secretario Técnico, sus propuestas de representantes de la sociedad civil, para que sean invitados a asistir a las sesiones del mismo. Para dicho efecto, indicarán el tema o punto para el que se propone que asistan y, en su caso, los elementos mediante los cuales satisfagan los requisitos señalados en el artículo anterior.
 
 Atribuciones del Consejo Estatal
 
@@ -115,17 +129,37 @@ I. Representar al Consejo Estatal;
 
 II. Presidir y dirigir las sesiones del Consejo Estatal;
 
-III. Dirigir los debates y someter a aprobación los asuntos de las sesiones del Consejo Estatal;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-IV. Propiciar y coordinar la participación de los miembros del Consejo Estatal;
+III. Aprobar la propuesta de orden del día para la sesión de que se trate;
 
-V. Proponer y aplicar las medidas que sean necesarias para cumplir con las atribuciones del Consejo Estatal;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-VI. Proponer la creación de comisiones o grupos de trabajo para el mejor desahogo de los asuntos competencia del Consejo Estatal;
+IV. Dirigir los debates y someter a aprobación los asuntos contenidos en la orden del día de las sesiones del Consejo Estatal;
 
-VII. Aprobar la orden del día para la sesión de que se trate; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-VIII. Las demás que prevea el presente instrumento o le confiera el Consejo Estatal.
+V. Decretar recesos en las sesiones, cuando exista causa justificada;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+VI. Resolver sobre las solicitudes para la celebración de sesiones extraordinarias;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+VII. Propiciar y coordinar la participación de los miembros del Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+VIII. Proponer y aplicar las medidas que sean necesarias para cumplir con las atribuciones del Consejo Estatal;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+IX. Proponer la creación de comisiones o grupos de trabajo para el mejor desahogo de los asuntos competencia del Consejo Estatal; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+X. Las demás que prevea el presente instrumento o le confiera el Consejo Estatal.
 
 Facultades del Secretario Técnico
 
@@ -133,13 +167,17 @@ Facultades del Secretario Técnico
 
 El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública fungirá como Secretario Técnico del Consejo Estatal y tendrá las siguientes facultades:
 
-I. Convocar, previo acuerdo con Presidente (sic), a las sesiones ordinarias y extraordinarias y remitir a los integrantes la información correspondiente;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+I. Convocar, previo acuerdo con el Presidente, a las sesiones del Consejo Estatal y remitir a los integrantes e invitados la información correspondiente;
 
 II. Formular la orden del día, previa aprobación del Presidente;
 
 III. Pasar lista de asistencia y verificar la existencia del quórum para las sesiones;
 
-IV. Levantar las actas de cada sesión y recabar la firma de sus integrantes;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+IV. Redactar las actas de cada sesión y recabar la firma de los integrantes del Consejo Estatal;
 
 V. Dar seguimiento a los acuerdos tomados en las sesiones del Consejo Estatal;
 
@@ -151,27 +189,75 @@ VIII. Proponer y someter a la aprobación del Consejo Estatal un calendario de s
 
 IX. Proveer lo necesario para el desarrollo de las sesiones; y
 
-X. Las demás que le señale el Presidente.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-Para el desahogo de sus facultades, el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública, contará con el apoyo y asistencia del personal a su cargo.
+X. Formular al Consejo Estatal, la propuesta de Lineamientos para el funcionamiento, integración y organización de las comisiones y grupos de trabajo;
 
-Facultades de los integrantes
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XI. Recabar y dar a conocer el resultado de las votaciones realizadas en el Consejo Estatal;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XII. Brindar el apoyo logístico que resulte necesario para llevar a cabo las actividades del Consejo Estatal;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XIII. Dar cuenta al Presidente sobre las solicitudes de sesiones extraordinarias y propuestas de invitados de la sociedad civil que formulen los integrantes e invitados permanentes del Consejo Estatal;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XIV. Rendir al Consejo Estatal un informe anual sobre sus labores; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XV. Las demás que le señale el Consejo Estatal, su Presidente, el presente ordenamiento y las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Para el desahogo de sus facultades, el Secretario Técnico contará con el apoyo y asistencia del personal del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Facultades de los integrantes e invitados permanentes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 10.
 
-Los integrantes del Consejo Estatal tendrán las siguientes facultades:
+Los integrantes e invitados permanentes del Consejo Estatal tendrán las siguientes facultades:
 
-I. Emitir opinión y participar en los asuntos que se ventilen al interior del Consejo Estatal;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+I. Asistir, emitir opinión y participar en los asuntos que se ventilen al interior del Consejo Estatal;
 
 II. Realizar propuestas y sugerencias en materia de seguridad pública;
 
-III. Cumplir en tiempo y forma con los trabajos que les hayan sido encomendados al seno del Consejo Estatal;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-IV. Formar parte de las comisiones o grupos de trabajo del Consejo Estatal;
+III. Cumplir en tiempo y forma con los acuerdos que el Consejo Estatal haya aprobado;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+IV. Formar parte o designar a representantes para las comisiones o grupos de trabajo del Consejo Estatal;
 
 V. Guardar reserva y confidencialidad en el manejo de la información que se genere al interior del Consejo Estatal o en las comisiones o grupos de trabajo que integren; y
 
-VI. Las demás que sean inherentes para cumplir con las atribuciones y objeto del Consejo Estatal.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+VI. Formular propuestas de acuerdos relacionados con la competencia del Consejo Estatal;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+VII. Sugerir asuntos específicos para la integración del orden del día;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+VIII. Solicitar la celebración de sesiones extraordinarias; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+IX. Las demás que sean inherentes para cumplir con las atribuciones y objeto del Consejo Estatal.
 
 ### Capítulo IV. Sesiones
 
@@ -187,9 +273,13 @@ Convocatorias y sus plazos
 
 Las convocatorias deberán señalar el lugar, fecha y hora en que tendrá verificativo la sesión, acompañándose del orden del día y, en su caso, la documentación e información que sirva de soporte para el desahogo de la sesión.
 
-La convocatoria para las sesiones ordinarias deberá entregarse con una anticipación mínima de cinco días hábiles a que tenga verificativo la sesión, y para las extraordinarias, con cuarenta y ocho horas previas a su desarrollo.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-Todas las convocatorias, así como la documentación o información que, en su caso, deba acompañarlas, podrán remitirse vía electrónica a través de los correos electrónicos que determinen cada uno de los integrantes del Consejo Estatal, mecanismo que surtirá los mismos efectos que la entrega material.
+La convocatoria para las sesiones ordinarias se notificará con una anticipación mínima de cinco días hábiles a la fecha señalada para que tenga verificativo la sesión y para las extraordinarias, con cuarenta y ocho horas de anticipación a la hora señalada para su celebración.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Todas las convocatorias, así como la documentación o información que, en su caso, deba acompañarlas, podrán notificarse vía electrónica, a través de los correos electrónicos que determinen cada uno de los integrantes del Consejo Estatal. Dicha notificación surtirá los mismos efectos que las notificaciones personales.
 
 Aprobación de actas
 
@@ -203,7 +293,13 @@ Quórum y validez de las sesiones
 
 Para que las sesiones sean válidas se requerirá de la asistencia de por lo menos la mitad más uno de los integrantes del Consejo Estatal.
 
-De no integrarse el quórum a que se refiere el párrafo anterior, se convocará de nueva cuenta para celebrar la sesión dentro de los tres días hábiles siguientes, la cual podrá desarrollarse con el número de miembros que se encuentren presentes, en la que invariablemente se deberá contar con la asistencia del Presidente o su suplente y del Secretario Técnico.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+De no integrarse el quórum a que se refiere el párrafo anterior, el Presidente podrá convocar de inmediato a sesión, la que se celebrará dentro de las setenta y dos horas siguientes y que será válida con el número de integrantes que se encuentren presentes.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Para la validez de las sesiones, invariablemente deberá contarse con la asistencia del Presidente o su suplente y la del Secretario Técnico.
 
 Votación y asuntos generales
 
@@ -221,9 +317,11 @@ El Consejo Estatal podrá sesionar en las instalaciones y el lugar que permita a
 
 Actas de las sesiones
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 17.
 
-De cada sesión deberá levantarse un acta, la cual contendrá los acuerdos aprobados por el Consejo Estatal y, en su oportunidad, será firmada por cada uno de los asistentes.
+En las actas de las sesiones se asentarán los acuerdos aprobados por el Consejo Estatal y, una vez aprobada, la firmarán los integrantes que estuvieron presentes.
 
 ### Capítulo V. Comisiones y grupos de trabajo
 
@@ -235,19 +333,27 @@ El Consejo Estatal podrá acordar la integración de comisiones y grupos de trab
 
 Funcionamiento de las comisiones y grupos de trabajo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-El funcionamiento de las comisiones y grupos de trabajo quedará sujeto a los acuerdos que determine el Consejo Estatal, en los que establezca su integración, organización y fines.
+El Consejo Estatal aprobará los lineamientos para el funcionamiento, integración y organización de las comisiones y grupos de trabajo.
 
 Para facilitar la atención y desahogo de los temas asignados en las comisiones y grupos de trabajo, habrá un representante designado por los miembros que los integren, el cual deberá rendir los informes o avances de las actividades realizadas ante el Consejo Estatal.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Las reuniones de las comisiones o grupos de trabajo del Consejo Estatal serán privadas.
+
 ### Capítulo VI. Disposiciones complementarias
 
-Confidencialidad de la información
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Reserva de la Información
 
 ###### Artículo 20.
 
-El manejo de la información proporcionada al interior del Consejo o de los grupos de trabajo, estará en el más alto grado de confidencialidad, siendo responsables de la misma todos sus participantes, por lo que no podrán divulgar información de los asuntos tratados.
+La información generada o que sea materia de las sesiones del Consejo Estatal, de las comisiones o de los grupos de trabajo será reservada en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato. Los asistentes a las sesiones de dichos órganos no podrán divulgar la información de los asuntos tratados.
 
 T R A N S I T O R I O S
 
@@ -270,3 +376,15 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. La Secretaría de Seguridad Pública contará con un plazo de sesenta días, contados a partir de la vigencia del presente Decreto Gubernativo, para formular la división del Estado en zonas a que se refiere el artículo 4 del presente Decreto.
+
+Artículo Tercero. El Secretario Técnico contará con un plazo de ciento ochenta días contados a partir de la vigencia del presente Decreto Gubernativo para formular la propuesta de Lineamientos para el Funcionamiento, Integración y Organización de las Comisiones y Grupos de Trabajo del Consejo Estatal.
+
+Artículo Cuarto. Los Presidentes Municipales que integren el Consejo Estatal al iniciar la vigencia del presente Decreto, continuarán en funciones hasta la conclusión de su periodo constitucional.
