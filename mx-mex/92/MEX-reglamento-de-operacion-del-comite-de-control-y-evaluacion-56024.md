@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-operacion-del-comite-de-control-y-evaluacion-5602
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-06"
-last_updated: "2009-02-26"
+last_updated: "2014-12-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE OPERACION DEL COMITE DE CONTROL Y EVALUACION DE LA SECRETARIA DE DESARROLLO SOCIAL DEL GOBIERNO DEL ESTADO DE MEXICO
 
-REGLAMENTO DE OPERACION DEL COMITE DE CONTROL Y EVALUACION DE LA SECRETARIA DE DESARROLLO SOCIAL DEL GOBIERNO DEL ESTADO DE MEXICO
+REGLAMENTO DE OPERACIÓN DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL GOBIERNO DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE FEBRERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA DE DESARROLLO SOCIAL, PUBLICADO EN LA G.G. DE 19 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 6 de junio de 2007.
 
@@ -84,7 +86,7 @@ V. Hoja de firmas y rúbricas de los integrantes del Comité; y
 
 VI. Sello de la dependencia, en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -152,7 +154,7 @@ II. Impulsar la eficiencia, eficacia, transparencia y legalidad en la actuación
 
 El funcionamiento del Comité será de carácter permanente, teniendo como ámbito de competencia la actuación de las unidades administrativas que conforman a la SEDESEM, y de los organismos auxiliares sectorizados, en términos de la normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 11.
 
@@ -370,7 +372,7 @@ VIII. Las demás necesarias para el logro de los objetivos del Comité.
 
 > <small>(ADICIONADO, G.G. 26 DE ENERO DE 2009)</small>
 
-###### Articulo 25 Bis.
+###### Artículo 25 Bis.
 
 Son atribuciones del Director General de Control y Evaluación en su carácter de Vocal:
 
@@ -482,7 +484,7 @@ En caso de no reunirse el quórum requerido, el Secretario Técnico levantará e
 
 En las sesiones del Comité, los integrantes procederán a informar el avance y estado que guardan los asuntos que les hayan sido encomendados por acuerdo del Comité, centrando los trabajos en la presentación, revisión y análisis de los problemas sustantivos de la SEDESEM y que competan al Comité.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 43], G.G. 26 DE ENERO DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 43], G.G. 26 DE ENERO DE 2009)
 
 ###### Artículo 42.
 
@@ -494,13 +496,13 @@ En caso de empate, los miembros del Comité que tengan injerencia en el asunto t
 
 Ningún miembro del Comité podrá ser interrumpido mientras tenga la palabra, a menos que se trate de una moción de orden.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 44], G.G. 26 DE ENERO DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 44], G.G. 26 DE ENERO DE 2009)
 
 ###### Artículo 43.
 
 Las sesiones del Comité no podrán exceder de tres horas, salvo que por mayoría de votos de sus integrantes se constituyan en sesión permanente para concluir la discusión o resolución de los asuntos pendientes.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 45], G.G. 26 DE ENERO DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 45], G.G. 26 DE ENERO DE 2009)
 
 ###### Artículo 44.
 
@@ -508,7 +510,7 @@ En cada sesión del Comité se levantará un acta, en la que se indicarán los a
 
 Los miembros del Comité firmarán el acta de dicha sesión, aceptando con ello el cumplimiento de los compromisos contraídos.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 42], G.G. 26 DE ENERO DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 42], G.G. 26 DE ENERO DE 2009)
 
 ###### Artículo 45.
 
@@ -648,10 +650,20 @@ PRESIDENTE DEL COMITÉ DE CONTROL Y EVALUACION DE LA SECRETARIA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
 G.G. 26 DE ENERO DE 2009.
 
 PRIMERO.- El presente Acuerdo entra en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
+
+G.G. 19 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interno en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se deja sin efectos el Reglamento de Operación del Comité de Control y Evaluación de la Secretaría de Desarrollo Social del Gobierno del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 6 de junio de 2007, así como sus reformas y adiciones publicadas en el mismo medio de información, el 26 de febrero de 2009.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
