@@ -4,7 +4,7 @@ identifier: "LASOC"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-02"
-last_updated: "2013-04-23"
+last_updated: "2014-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LASOC"
 
 LEY DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el jueves 2 de septiembre de 2004.
 
@@ -88,15 +88,25 @@ i) Infractores y víctimas del delito;
 
 j) Ser hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;
 
-k) Ser migrantes y repatriados, y
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2014)</small>
 
-l) Ser víctimas de conflictos armados y de persecución étnica o religiosa.
+k) Ser migrantes y repatriados;
+
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2014)</small>
+
+l) Ser víctimas de conflictos armados y de persecución étnica o religiosa, y
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2014)</small>
+
+m) Ser huérfanos.
 
 Para los efectos de esta Ley son niñas y niños las personas hasta 12 años incompletos, y adolescentes los que tienen entre 12 años cumplidos y 18 años incumplidos, tal como lo establece el Artículo 2 de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
 
 II. Las mujeres:
 
-a) En estado de gestación o lactancia y las madres adolescentes;
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2014)</small>
+
+a) En estado de gestación o lactancia, las madres adolescentes y madres solas que tengan a su cuidado hijos menores de dieciocho años de edad;
 
 b) En situación de maltrato o abandono, y
 
@@ -106,7 +116,21 @@ III. Indígenas migrantes, desplazados o en situación vulnerable;
 
 IV. Migrantes;
 
-V. Adultos mayores en desamparo, incapacidad, marginación o sujetos a maltrato;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2014)</small>
+
+V. Personas adultas mayores:
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2014)</small>
+
+a) En desamparo, marginación o sujetos a maltrato;
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2014)</small>
+
+b) Con discapacidad, o
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2014)</small>
+
+c) Que ejerzan la patria potestad;
 
 VI. Personas con algún tipo de discapacidad o necesidades especiales;
 
@@ -769,3 +793,7 @@ D.O.F. 8 DE JUNIO DE 2012.
 D.O.F. 23 DE ABRIL DE 2013.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
