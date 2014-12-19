@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-procuraduria-general-de-justicia-del-99981"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-12-24"
-last_updated: "2014-12-09"
+last_updated: "2014-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Número 113 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 24 de diciembre de 2013.
 
@@ -233,7 +233,9 @@ XIV. Opinar y participar en los proyectos de iniciativas de ley o de reformas le
 
 XV. Establecer medios de información sistemática y directa a la sociedad, para dar cuenta de sus actividades, conforme a las disposiciones legales aplicables;
 
-XVI. Celebrar acuerdos y convenios con instituciones públicas o privadas para garantizar a los imputados, ofendidos, víctimas, denunciantes y testigos pertenecientes a los pueblos y comunidades indígenas, la disponibilidad de intérpretes o traductores, según corresponda;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XVI. Celebrar acuerdos y convenios con instituciones públicas o privadas para garantizar la disponibilidad de intérpretes de señas o traductores, en caso de ser insuficiente el personal a que se refiere la fracción XL de este apartado;
 
 XVII. Emitir los lineamientos para la recolección, levantamiento, la preservación y el traslado de los indicios, huellas o vestigios del hecho delictivo, y aseguramiento de los instrumentos, objetos o productos del delito, así como los procedimientos y protocolos para asegurar su integridad;
 
@@ -277,9 +279,23 @@ XXXVI. La formulación de proyectos de ley, reglamentos y decretos, así como la
 
 XXXVII. Certificar copias sobre las constancias de actuaciones o registros que obren en poder en los casos que permita la ley;
 
-XXXVIII. Emitir opinión sobre la constitucionalidad de los proyectos de ley que el Titular del Poder Ejecutivo del Estado le envíe para su estudio, y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-XXXIX. Las que le encomienden expresamente los demás ordenamientos legales aplicables.
+XXXVIII. Emitir opinión sobre la constitucionalidad de los proyectos de ley que el Titular del Poder Ejecutivo del Estado le envíe para su estudio;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XXXIX. Capacitar, a través del Instituto de Formación Profesional, Capacitación e Investigación Jurídica, al personal de la Procuraduría General de Justicia del Estado para la debida atención y defensa de los derechos de las personas en condición de vulnerabilidad.
+
+Para efectos de lo anterior, la Procuraduría deberá emitir un programa para la atención y defensa de las personas en condición de vulnerabilidad, mismo que será actualizado cada tres años.
+
+Se considerarán personas en condición de vulnerabilidad, aquellas que por razón de su edad, género, estado físico o mental o por circunstancias sociales, económicas, étnicas y/o culturales tengan dificultad para ejercer con plenitud sus derechos en el sistema de procuración de justicia.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XL. Determinar la designación de uno o varios intérpretes de lengua de señas y traductores adscritos a la Procuraduría General de Justicia del Estado, y
+
+XLI. Las que le encomienden expresamente los demás ordenamientos legales aplicables.
 
 ## TÍTULO SEGUNDO. ORGANIZACIÓN DE LA PROCURADURÍA
 
@@ -3456,3 +3472,13 @@ Primero. El presente Decreto entrará en vigor a partir de su publicación en el
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Tercero. Para garantizar el cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Planeación del Estado, establecerá las partidas presupuestales pertinentes en el Presupuesto de Egresos del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Consejo de la Judicatura del Estado deberá aprobar y publicar el Programa para la atención y defensa de las personas en condición de vulnerabilidad en el Periódico Oficial del Estado de Quintana Roo, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO. La Procuraduría General de Justicia del Estado deberá aprobar y publicar el Programa para la atención y defensa de las personas en condición de vulnerabilidad en el Periódico Oficial del Estado de Quintana Roo, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
