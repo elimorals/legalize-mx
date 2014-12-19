@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-ecologia-del-estado-48249"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-22"
-last_updated: "2013-12-13"
+last_updated: "2014-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ECOLOGÍA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el jueves 22 de diciembre de 2005.
 
@@ -463,7 +463,9 @@ La recepción, trámite y resolución de los asuntos competencia del Instituto c
 
 El Director General del Instituto tendrá las siguientes facultades:
 
-I.- La representación legal y defensa del patrimonio del Instituto;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+I.- La representación legal y la defensa del patrimonio del Instituto; la cual podrá delegar a los Directores del Instituto, mediante oficio, para los asuntos concretos que designe;
 
 II.- Proponer y someter a la aprobación del Consejo Directivo los programas del Instituto;
 
@@ -483,7 +485,9 @@ IX.- Evaluar el desarrollo de los planes y programas de trabajo del Instituto y,
 
 X.- Evaluar el funcionamiento de la organización, así como la operación y control de las actividades del Instituto;
 
-XI.- Expedir las certificaciones de los documentos que obran en los archivos del Instituto;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XI.- Expedir, cuando proceda, las certificaciones de los documentos emitidos o que obren en los archivos de la Dirección General;
 
 XII.- Determinar la unidad administrativa del Instituto, a que corresponderá la facultad no asignada expresamente en este Reglamento; y
 
@@ -515,11 +519,15 @@ X.- Enajenar los bienes muebles e inmuebles propiedad del Instituto, en los tér
 
 XI.- Formular y remitir al Gobernador del Estado, por conducto de la autoridad competente, los anteproyectos de iniciativas de Ley, Reglamentos, Decretos y Acuerdos en el ámbito de su competencia;
 
-XII.- Otorgar y revocar poderes generales y especiales que considere pertinentes, a los Directores o empleados del organismo, para el despacho de los asuntos competencia del Instituto;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XII.- Otorgar y revocar poderes generales y especiales que considere pertinentes, a los Directores o empleados del Instituto, para el despacho de los asuntos competencia del Instituto, diversos a los previstos en el artículo 41 fracción III;
 
 XIII.- Informar al Gobernador del Estado de los acuerdos tomados por el Consejo Directivo, que por su importancia y trascendencia afecten o puedan afectar la Administración Pública del Estado;
 
-XIV.- Presentar a la Secretaría de Finanzas y Administración el anteproyecto de presupuesto de egresos aprobado por el Consejo Directivo; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XIV.- Presentar a la Secretaría de Finanzas, Inversión y Administración, el anteproyecto de presupuesto de egresos aprobado por el Consejo Directivo; y
 
 XV.- Las demás que le señalen las disposiciones jurídicas aplicables que sean de su ejercicio exclusivo, así como aquellas que le confiera el Gobernador del Estado y el Consejo Directivo.
 
@@ -561,7 +569,11 @@ XV.- Atender las disposiciones jurídicas en materia de clasificación y acceso 
 
 XVI.- Proporcionar y atender el requerimiento de información y documentos que le soliciten las autoridades que tienen por función el control, vigilancia y fiscalización de recursos y de los auditores externos autorizados por el Consejo Directivo para ese fin, así como dar trámite a la contestación y solventación de las observaciones que se generen; y
 
-XVII.- Las demás que le señalen las disposiciones legales aplicables, el presente Reglamento, así como aquellas que le confieran el Consejo Directivo y el Director General del Instituto.
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XVII.- Expedir, cuando proceda, las certificaciones de los documentos emitidos o que obren en los archivos de la Dirección a su cargo; y
+
+XVIII.- Las demás que le señalen las disposiciones legales aplicables, el presente Reglamento, así como aquellas que le confieran el Consejo Directivo y el Director General del Instituto.
 
 ###### Artículo 28.
 
@@ -597,7 +609,7 @@ IX.- Coadyuvar en la formulación y determinación de estrategias y lineamientos
 
 X.- Participar en los consejos y comités en materia de recursos naturales, ordenamiento ecológico del territorio e información geográfica y dar seguimiento a los acuerdos contraídos en los mismos;
 
-XI.- Dirigir, organizar y promover el desarrollo, manejo y actualización del Ordenamiento Ecológico del Territorio del Estado y del Sistema Estatal de Información Geográfica Ambiental, así como vincular las acciones necesarias con las instituciones y autoridades competentes para su mejor aprovechamiento; y (sic)
+XI.- Dirigir, organizar y promover el desarrollo, manejo y actualización del Ordenamiento Ecológico del Territorio del Estado y del Sistema Estatal de Información Geográfica Ambiental, así como vincular las acciones necesarias con las instituciones y autoridades competentes para su mejor aprovechamiento; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -835,7 +847,7 @@ IX.- Generar los proyectos de resolución de las solicitudes de autorización pa
 
 X.- Coadyuvar con los municipios en la formulación, evaluación, implementación y actualización del Programa para la Prevención y Gestión Integral de Residuos Sólidos Urbanos;
 
-XI.- Promover, coordinar y asesorar en la remediación y control de sitios contaminados por residuos; y (sic)
+XI.- Promover, coordinar y asesorar en la remediación y control de sitios contaminados por residuos; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -863,7 +875,9 @@ I.- Establecer, sistematizar, unificar y difundir criterios de interpretación y
 
 II.- Proponer al Director General del Instituto las adiciones y reformas a la legislación ambiental del Estado, así como a su normatividad reglamentaria;
 
-III.- Representar jurídicamente al Instituto ante cualquier autoridad o tribunal, en defensa de los intereses y patrimonio del organismo, así como presentar denuncias o querellas, pudiendo otorgar el perdón cuando así proceda;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+III.- Representar al Instituto en los asuntos judiciales, laborales y administrativos con facultades de apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y las que requieran mandato o cláusula especial conforme a la ley, incluso presentar y contestar demandas, denuncias o querellas, quejas, ejercitar acciones, defensas, oponiendo excepciones y reconviniendo; ofrecer y desahogar cualquier tipo de pruebas, así como interponer todo tipo de juicios o recursos; así como celebrar todo tipo de contratos, convenios y finiquitos;
 
 IV.- Generar y someter a la consideración del Director General del Instituto, los instrumentos jurídicos necesarios para el buen funcionamiento del organismo;
 
@@ -877,7 +891,9 @@ VIII.- Elaborar los proyectos de resolución o contestación de los recursos de 
 
 IX.- Asesorar al Director General del Instituto en la contratación de empréstitos del organismo, así como en la enajenación de bienes muebles e inmuebles de éste, de conformidad con las disposiciones normativas aplicables; y
 
-X.- Expedir las certificaciones de los documentos que obren en los archivos de la Dirección a su cargo.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+X.- Fungir como representante legal del Instituto cuando el Director General le delegue esta facultad; y
 
 > <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2012)</small>
 
@@ -1015,7 +1031,7 @@ IX.- Diseñar estrategias de funcionamiento de la estructura organizacional para
 
 X.- Diseñar e instrumentar estrategias para el desarrollo y fortalecimiento integral del Instituto;
 
-XI.- Diseñar y establecer los criterios, procedimientos y controles necesarios que permitan la implementación de los sistemas de manejo ambiental; y (sic)
+XI.- Diseñar y establecer los criterios, procedimientos y controles necesarios que permitan la implementación de los sistemas de manejo ambiental; y
 
 XII.- Participar en el diseño de la política ambiental en materia de estímulos e incentivos y proponer la creación de instrumentos económicos para el control de la contaminación ambiental del Estado;
 
@@ -1181,7 +1197,9 @@ I.- Participar en la formulación del anteproyecto de presupuesto de egresos del
 
 II.- Revisar, registrar, tramitar, controlar y custodiar la documentación contable que contenga la comprobación del ejercicio presupuestal;
 
-III.- Realizar el registro de las operaciones contables de conformidad con el manual de contabilidad del sector paraestatal y demás lineamientos que para tal efecto emita la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+III.- Registrar las operaciones contables de conformidad con el manual de contabilidad del sector paraestatal y demás lineamientos que para el efecto emita la Secretaría de Finanzas, Inversión y Administración;
 
 IV.- Formular pólizas de ingresos y egresos de las operaciones contables provenientes de aportaciones federales, estatales, municipales y de ingresos propios;
 
@@ -1205,7 +1223,9 @@ XIII.- Llevar el control sobre los movimientos presupuestales y el avance financ
 
 XIV.- Coordinar el registro y control de los ingresos y donativos que obtenga el Instituto;
 
-XV.- Elaborar las solicitudes mensuales de ministración de recursos de los subsidios otorgados por la Secretaría de Finanzas y Administración, de acuerdo a la calendarización autorizada en el presupuesto de egresos del Instituto para trámite de la Dirección Administrativa; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+XV.- Elaborar las solicitudes mensuales de ministración de recursos de los subsidios otorgados por la Secretaría de Finanzas, Inversión y Administración, de acuerdo a la calendarización autorizada en el presupuesto de egresos del Instituto para trámite de la Dirección Administrativa; y
 
 XVI.- Las demás que le confieran el Director General del Instituto y el Director Administrativo.
 
@@ -1458,3 +1478,9 @@ Artículo Tercero. Se derogan todas las disposiciones que se opongan al contenid
 P.O. 13 DE DICIEMBRE DE 2013.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
