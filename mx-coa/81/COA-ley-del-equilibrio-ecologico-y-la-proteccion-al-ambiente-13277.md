@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2011-02-04"
+last_updated: "2014-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -46,6 +46,10 @@ LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE COAHUILA 
 ###### ARTICULO 1°.
 
 La presente ley es reglamentaria del artículo 172 de la Constitución Política del Estado de Coahuila de Zaragoza, de orden público e interés social, así como de observancia general en la entidad y tiene por objeto establecer las bases jurídicas necesarias para:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+En todo lo no previsto en la presente Ley, se aplicará supletoriamente la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza y en su defecto el Código Procesal Civil para el Estado de Coahuila de Zaragoza.
 
 I.- Garantizar el derecho de toda persona a vivir en un medio ambiente adecuado para su desarrollo, salud y bienestar;
 
@@ -179,39 +183,69 @@ XLIII.- Preservación: El conjunto de políticas y medidas para mantener las con
 
 XLIV.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente.
 
-XLV.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-XLVI.- Reciclaje: El proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad y se convierten en materia prima para nuevos productos.
+XLV.- Procuraduría.- Procuraduría de Protección al Ambiente del Estado de Coahuila.
 
-XLVII.- Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano y para el ambiente.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-XLVIII.- Recursos genéticos: El material genético de valor real o potencial.
+XLVI.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
 
-XLIX.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-L.- Región Ecológica: La unidad del territorio estatal que comparte características ecológicas comunes.
+XLVII.- Reciclaje: El proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad y se convierten en materia prima para nuevos productos.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LI.- Registro: El registro que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias determinadas por la Secretaría, información que posteriormente se integrará el Sistema administrado por la Autoridad Federal.
+XLVIII.- Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano y para el ambiente.
 
-LII.- Residuos sólidos: Sobrantes sólidos de procesos domésticos, industriales o agrícolas.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LIII.- Residuos sólidos municipales: Residuos sólidos que resultan de las actividades domésticas, comerciales y de servicios en pequeña escala no considerados como peligrosos, conforme a la normatividad ambiental vigente.
+XLIX.- Recursos genéticos: El material genético de valor real o potencial.
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LV (SIC).- Residuo sólido no peligroso: Todo aquel que no resulte peligroso de acuerdo con los listados que para tal efecto expida la Secretaria de Medio Ambiente y Recursos Naturales.
+XL (SIC).- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre.
 
-LV.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LVI.- Reuso: La utilización de todos los residuos o desechos sólidos, líquidos o gaseosos que puedan ser utilizados nuevamente, ya sea en su estado actual o por medio de transformaciones físicas, químicas, mecánicas o biológicas.
+LI.- Región Ecológica: La unidad del territorio estatal que comparte características ecológicas comunes.
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LVII.- Secretaria: La Secretaria de Medio Ambiente.
+LII.- Registro: El registro que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias determinadas por la Secretaría, información que posteriormente se integrará el (sic) Sistema administrativo por la Autoridad Federal.
 
-LVIII.- Vocación Natural: Las Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+LIII.- Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+LIV.- Residuos sólidos: Sobrantes sólidos de procesos domésticos, industriales o agrícolas.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+LV.- Residuos sólidos municipales: Residuos sólidos que resultan de las actividades domésticas, comerciales y de servicios en pequeña escala no considerados como peligrosos, conforme a la normatividad ambiental vigente.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+LVI.- Residuo sólido no peligroso: Todo aquel que no resulte peligroso de acuerdo con los listados que para tal efecto expida la Secretaría de Medio Ambiente y Recursos Naturales.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+LVII.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+LVIII.- Reuso: La utilización de todos los residuos o desechos sólidos, líquidos o gaseosos que puedan ser utilizados nuevamente, ya sea en su estado actual o por medio de transformaciones físicas, químicas, mecánicas o biológicas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+LIX.- Secretaría: La Secretaría de Medio Ambiente; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+LX.- Vocación Natural: Las Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
 ###### ARTICULO 4º.
 
@@ -239,7 +273,9 @@ I.- El Gobernador del Estado;
 
 II.- La Secretaria de Medio Ambiente;
 
-III.- (DEROGADA, P.O. 15 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+III.- Procuraduría de Protección al Ambiente del Estado de Coahuila.
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -265,7 +301,9 @@ III.- Formular y expedir, con la participación que corresponda a los municipios
 
 IV.- Celebrar convenios en materia ambiental con la Federación, otros estados y con los municipios;
 
-V.- Celebrar convenios en materia ambiental con organismos de los sectores público, privado y social; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+V.- Promover el aprovechamiento sostenible, la conservación, ahorro, reciclaje y reuso de los recursos materiales utilizados por los servidores públicos de las diversas dependencias y organismos del Gobierno estatal, así como llevar a cabo la planeación y ejecución de acciones que fomenten en los servidores públicos del Estado la educación ambiental y el fortalecimiento de una cultura ecológica; y
 
 VI.- Las demás que le confiera esta ley, sus reglamentos y otras disposiciones legales.
 
@@ -299,7 +337,7 @@ X.- Supervisar, en el ámbito de su competencia, el debido cumplimiento de los c
 
 XI.- Promover la participación de los ayuntamientos en la creación y administración de áreas naturales protegidas, así como administrar y vigilar las que se decreten, con la participación que corresponda a los gobiernos municipales;
 
-XII.- Someter a la consideración del Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones en materia de ecología; y (sic)
+XII.- Someter a la consideración del Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones en materia de ecología; y
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
@@ -1455,7 +1493,7 @@ VIII.- Permitir al personal comisionado por la Secretaría la práctica de las v
 
 IX.- Rescatar el suelo y subsuelo afectados, y;
 
-X.- Reforestar y regenerar las (sic) estructura geomorfolicas dañadas, en los términos de esta ley, sus reglamentos, las normas oficiales mexicanas, las normas técnicas y demás ordenamientos que resulten aplicables.
+X.- Reforestar y regenerar las estructura (sic) geomorfolicas dañadas, en los términos de esta ley, sus reglamentos, las normas oficiales mexicanas, las normas técnicas y demás ordenamientos que resulten aplicables.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
@@ -2139,7 +2177,7 @@ Quien reciba información ambiental de las autoridades competentes, en los térm
 
 ### CAPITULO II. DE LA INSPECCION Y VIGILANCIA
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 165.
 
@@ -2147,15 +2185,15 @@ Las disposiciones de este título se aplicarán en la realización de actos de i
 
 ### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 166.
 
-Para la verificación del cumplimiento de la presente ley, la Secretaría y las autoridades municipales conforme a sus respectivas competencias, deberán realizar actos de inspección y vigilancia en asuntos de orden local.
+La Procuraduría de Protección al Ambiente del Estado de Coahuila, y las autoridades municipales realizaran los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven.
 
-Las facultades previstas en este capítulo para la Secretaría, serán aplicables para las autoridades municipales en el ámbito de sus respectivas municipalidades.
+Las facultades previstas en este capítulo para la Procuraduría, serán aplicables para las autoridades municipales en el ámbito de sus respectivas municipalidades
 
-La autoridad estatal por conducto de la Secretaría y las autoridades municipales tendrán obligación de solicitar la inspección y vigilancia por parte de la autoridad del orden federal, cuando ésta deba intervenir por ser de su competencia. La misma obligación tendrán cuando la contaminación o peligro de esta pueda provenir de otro Estado o de fuera del territorio nacional.
+La autoridad estatal por conducto de la Procuraduría y las autoridades municipales tendrán obligación de solicitar la inspección y vigilancia por parte de la autoridad del orden federal, cuando esta deba intervenir por ser de su competencia. La misma obligación tendrán cuando la contaminación o peligro de esta pueda provenir de otro Estado o de fuera del territorio nacional.
 
 ###### ARTICULO 167.
 
@@ -2189,81 +2227,137 @@ La información proporcionada deberá mantenerse en absoluta reserva si así lo 
 
 La autoridad podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 172.
 
-Recibida el acta de inspección, si se desprende de la misma que no se detecta al momento de la visita de inspección integridad alguna, la Secretaría deberá emitir el acuerdo respectivo, ordenándose se notifique éste al interesado personalmente o por correo certificado con acuse de recibo.
+Recibida el acta de inspección, si se desprende de la misma que no se detecta al momento de la visita de inspección irregularidad alguna, la Procuraduría deberá emitir el acuerdo respectivo, ordenándose se notifique éste al interesado personalmente o por correo certificado con acuse de recibo.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 173.
 
-Si del acta de inspección se desprende que al momento de la visita de inspección se detectó alguna irregularidad, la Secretaría requerirá al interesado, mediante notificación personal o por Correo certificado con acuse de recibo, para que adopte las medidas correctivas necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento y señalando los plazos que correspondan para su cumplimiento y adopción.
+Si del acta de inspección se desprende que al momento de la visita de inspección se detectó alguna irregularidad, la Procuraduría requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte las medidas correctivas necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento y señalando los plazos que correspondan para su cumplimiento y adopción
 
-En la misma notificación se hará del conocimiento del interesado que dentro del término de quince días hábiles deberá comparecer por escrito ante la Secretaría para manifestar lo que a su derecho convenga y, en su caso, ofrecer las pruebas que considere procedentes en relación a la actuación de la propia Secretaría o de la autoridad correspondiente.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+En la misma notificación se hará del conocimiento del interesado que dentro del término de quince días hábiles deberá comparecer por escrito ante la Procuraduría para manifestar lo que a su derecho convenga y, en su caso, ofrecer las pruebas que considere procedentes en relación a la actuación de la propia Procuraduría o de la autoridad correspondiente a dicho escrito acompañará, en su caso, el instrumento público mediante el cual acredite la personalidad con la que comparece.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 A dicho escrito acompañará, en su caso, el instrumento público mediante el cual acredite la personalidad con la que comparece. Así mismo, se le apercibirá al interesado de las consecuencias del incumplimiento de las obligaciones a su cargo.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 174.
 
-Una vez oído al presunto infractor, recibidas y desahogadas las pruebas que ofreciere, o, en el caso que manifieste que acepta los hechos u omisiones a su cargo asentados en el acta de inspección respectiva, y solicitare prórroga respecto de los plazos determinados por la Secretaría para la adopción de las medidas correctivas, la autoridad citada podrá otorgar, por una sola vez, dicha prórroga, la cual no excederá de un año, siempre que a su juicio no se ponga en riesgo el equilibrio ecológico de los ecosistemas de competencia local, sus componentes, o la salud pública en la entidad, considerando para ello las circunstancias específicas del presunto infractor, sus condiciones económicas y el tipo de medida correctiva ordenada.
+Una vez oído al presunto infractor, recibidas y desahogadas las pruebas que ofreciere, o, en el caso que manifieste que acepta los hechos u omisiones a su cargo asentados en el acta de inspección respectiva, y solicitare prórroga respecto de los plazos determinados por la Procuraduría para la adopción de las medidas correctivas, la autoridad citada podrá otorgar, por una sola vez, dicha prórroga, la cual no excederá de un año, siempre que a su juicio no se ponga en riesgo el equilibrio ecológico de los ecosistemas de competencia local, sus componentes, o la salud pública en la entidad, considerando para ello las circunstancias especificas del presunto infractor, sus condiciones económicas y el tipo de medida correctiva ordenada.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 175.
 
-En el caso de otorgamiento de prórroga para la adopción y cumplimiento de las medidas correctivas emitidas por la Secretaría, la misma podrá, en cualquier tiempo, realizar visitas de verificación, a fin de conocer el avance de la implementación de las medidas correctivas a cargo del interesado.
+En el caso de otorgamiento de prórroga para la adopción y cumplimiento de las medidas correctivas emitidas por la Procuraduría, la misma podrá, en cualquier tiempo, realizar visitas de verificación, a fin de conocer el avance de la implementación de las medidas correctivas a cargo del interesado
 
-Si de dichas visitas de verificación se desprende el incumplimiento de las obligaciones a cargo del interesado, podrá la Secretaría hacer efectivas las medidas correspondientes, dejándose sin efecto la prórroga concedida y continuándose el procedimiento jurídico-administrativo correspondiente.
+Si de dichas visitas de verificación se desprende el incumplimiento de las obligaciones a cargo del interesado, podrá la Procuraduría hacer efectivas las medidas correspondientes, dejándose sin efecto la prórroga concedida y continuándose el procedimiento jurídico-administrativo correspondiente.
 
-Una vez transcurrida la prórroga en los plazos señalados para dar cumplimiento a las medidas correctivas ordenadas el personal técnico adscrito a la Secretaría practicará una visita de verificación del cumplimiento de tales medidas, en los términos previstos para la visita de inspección en el presente capítulo.
+Una vez transcurrida la prórroga en los plazos señalados para dar cumplimiento a las medidas correctivas ordenadas el personal técnico adscrito a la Procuraduría practicará una visita de verificación del cumplimiento de tales medidas, en los términos previstos para la visita de inspección en el presente capitulo
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 176.
 
-Una vez oído al presunto infractor, recibidas y desahogadas las pruebas que ofreciere o transcurridos los plazos otorgados en la prórroga, la Secretaría procederá a dictar la resolución administrativa que corresponda, dentro de los treinta días hábiles siguientes de haberse concluido el desahogo de pruebas o, en su caso, de haberse practicado la visita de verificación a que se hace mención en el último párrafo del artículo anterior, misma que se notificará al interesado personalmente o por correo certificado con acuse de recibo.
+Una vez oído al interesado, recibidas y desahogadas las pruebas ofrecidas por el mismo, o habiendo transcurrido el plazo otorgado sin que haya hecho uso de ese derecho, se pondrá (sic) a su disposición las actuaciones, para que en un plazo de tres días hábiles, presente por escrito sus alegatos.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 177.
 
-En el caso de que el interesado no comparezca por escrito dentro del plazo previsto en el artículo 173 de la presente ley, se procederá a dictar la resolución administrativa que corresponda, dentro de los treinta días hábiles siguientes, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
+Una vez transcurrido el plazo otorgado para la presentación de los alegatos, la Procuraduría procederá a la emisión de la resolución administrativa que corresponda dentro de los treinta días hábiles siguientes, misma que se notificará al interesado personalmente o por correo certificado con acuse de recibo.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 178.
 
-En el caso de las notificaciones personales que señala la presente ley, el notificador deberá cerciorarse de que se ha constituido en el domicilio del interesado y deberá hacer constar por escrito todo lo acontecido en la diligencia; estableciéndose lugar, fecha y hora en que la notificación se efectúa, así como el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega a proporcionar su nombre, o se negare a firmar, se hará constar dicha circunstancia en la razón mencionada, sin que ello afecte su validez. Se deberá, así mismo, entregar al interesado copia al carbón de la razón levantada, así como copia cotejada del proveído correspondiente.
+Las notificaciones de los actos administrativos dictados con motivo de la aplicación de esta Ley, se realizarán:
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos y resoluciones administrativas definitivas, sin perjuicio de que la notificación de estos actos pueda efectuarse en las oficinas de la Procuraduría, si las personas a quienes deba notificarse se presentan en las mismas. En este último caso, se asentará la razón correspondiente;
+
+II. Por rotulón, colocado en los estrados de las oficinas de la Procuraduría, cuando la persona a quien deba notificarse no pueda ser ubicada después de iniciadas las facultades de inspección, vigilancia o verificación a las que se refiere el presente Título, o cuando no hubiera señalado domicilio en la población donde se encuentre ubicada la sede de la autoridad ordenadora;
+
+III. Por edicto, toda notificación cuando se desconozca el domicilio del interesado o en su caso cuando la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal o autorizado para tales efectos.
+
+Tratándose de actos distintos a los señalados en la fracción I de este artículo, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o, previa solicitud por escrito del interesado, a través de telefax, medios de comunicación electrónica u otro similar o en las oficinas de la Procuraduría, si se presentan las personas que han de recibirlas a más tardar dentro del término de cinco días hábiles siguientes contados a partir del día en que se dicten los actos que han de notificarse. Lo anterior, sin perjuicio de que la autoridad ordenadora lo haga por rotulón, dentro del término de diez días hábiles contados a partir del día en que se dicten los actos que han de notificarse, el cual se fijará en lugar visible de las oficinas de la Procuraduría.
+
+Si los interesados, sus representantes legales o las personas autorizadas por ellos, no ocurren a las oficinas de la Procuraduría, a notificarse dentro del término señalado en el párrafo anterior, las notificaciones se darán por hechas, y surtirán sus efectos el día hábil siguiente al de la fijación del rotulón.
+
+De toda notificación por rotulón se agregará, al expediente, un tanto de aquel, asentándose la razón correspondiente, y
+
+IV. Por instructivo, solamente en el caso señalado en el tercer párrafo del artículo 177 Bis 1 de la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 178 BIS.- Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado en la población donde se encuentre la sede de la Procuraduría, o bien, personalmente en el recinto oficial de éstas, cuando comparezcan voluntariamente a recibirlas en los dos primeros casos, el notificador deberá cerciorarse que se trata del domicilio del interesado o del designado para esos efectos y deberá entregar el original del acto que se notifique y copia de la constancia de notificación respectiva, así como señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+Las notificaciones personales, se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará en un lugar visible del mismo, o con el vecino más inmediato.
+
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o en su caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio, o con el vecino más cercano, lo que se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 178 BIS 1.- Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de los actos por notificar. Dichas publicaciones deberán efectuarse por dos días consecutivos en el Periódico Oficial del Estado de Coahuila de Zaragoza y en uno de los periódicos de mayor circulación en el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 178 BIS 2.- Las notificaciones personales surtirán sus efectos el día en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día hábil siguiente a aquel en que se (sic) haya surtido efectos la notificación.
+
+Se tendrá como fecha de notificación por correo certificado la que conste en el acuse de recibo.
+
+En las notificaciones por edictos se tendrá como fecha de notificación la de la última publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza y en uno de los periódicos de mayor circulación en la (sic) Estado.
+
+Las notificaciones por rotulón surtirán sus efectos al día hábil siguiente al de la fijación del mismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 178 BIS 3.- Toda notificación deberá efectuarse en un plazo máximo de quince días hábiles, contados a partir de la emisión de la resolución o acto que se notifique, y deberá contener el texto íntegro del acto, así como el fundamento legal en que se apoye con la indicación de si es o no definitivo en la vía administrativa, y en su caso, la expresión del recurso administrativo que contra la misma proceda, órgano ante el cual hubiera de presentarse y (sic) plazo para su interposición.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 179.
 
-En la resolución administrativa correspondiente, se señalarán o, en su caso, adicionarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas, las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables y así mismo se ordenará se comisione al personal técnico adscrito a la Secretaría, para realizar visitas de verificación, una vez vencidos los plazos señalados para cumplir y adoptar las medidas correctivas dictadas.
+En la resolución administrativa correspondiente, se señalarán o, en su caso, adicionarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas (sic), las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables y así mismo se ordenará se comisione al personal técnico adscrito a la Procuraduría, para realizar visitas de verificación, una vez vencidos los plazos señalados para cumplir y adoptar las medidas correctivas dictadas.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 En los casos en que el infractor realice las medidas correctivas que subsanen las irregularidades detectadas en los plazos ordenados por la Secretaría, siempre y cuando el infractor no sea reincidente, y no se trate de alguno de los supuestos previstos en el artículo 180 de esta ley, dicha autoridad podrá revocar o modificar la sanción o sanciones impuestas.
 
 ### CAPITULO IV. DE LAS SANCIONES ADMINISTRATIVAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 180.
 
-Cuando exista riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones para los ecosistemas, sus componentes o para la salud pública, la Secretaría o la autoridad que corresponda de los municipios, fundada y motivadamente, podrá ordenar alguna o algunas de las siguientes medidas de seguridad: la clausura temporal o definitiva, total o parcial, de las fuentes contaminantes de jurisdicción estatal o municipal, según corresponda.
+Cuando exista riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones para los ecosistemas, sus componentes o para la salud pública, la Procuraduría o la autoridad que corresponda de los municipios, fundada y motivadamente, podrá ordenar alguna o algunas de las siguientes medidas de seguridad: la clausura temporal o definitiva, total o parcial, de las fuentes contaminantes de jurisdicción estatal o municipal, según corresponda.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 181.
 
-Cuando la Secretaría, o la autoridad que corresponda de los municipios, ordene alguna de las medidas de seguridad previstas en esta ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
+Cuando la Procuraduría, o la autoridad que corresponda de los municipios, ordene alguna de las medidas de seguridad previstas en esta ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
 ### CAPITULO V. DEL RECURSO DE REVISION
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 182.
 
-Las violaciones a los preceptos de esta ley, sus reglamentos y las disposiciones que de ella emanen, serán sancionadas administrativamente por la Secretaría, en asuntos de su competencia, con una o más de las siguientes sanciones:
+Las violaciones a los preceptos de esta ley, sus reglamentos y las disposiciones que de ella emanen, serán sancionadas administrativamente por la Procuraduría, en asuntos de su competencia, con una o más de las siguientes sanciones:
 
-I.- Multa por el equivalente de veinte a dieciséis mil días de salario mínimo general vigente en el estado en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+I.- Multa equivalente de veinte a cincuenta mil días de salario mínimo general vigente en el Estado al momento de imponer la sanción.
 
 II.- Clausura temporal o definitiva, total o parcial, cuando:
 
@@ -2283,11 +2377,11 @@ En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces 
 
 Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un período de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 183.
 
-Cuando la gravedad de la infracción lo amerite, la Secretaría, solicitará a la autoridad que les hubiere otorgado, la suspensión, revocación o cancelación de la concesión, permiso, licencia y en general de toda autorización para la realización de actividades industriales, comerciales o de servicios, o para el aprovechamiento de recursos naturales que haya dado lugar a la infracción.
+Cuando la gravedad de la infracción lo amerite, la Procuraduría, solicitará a la autoridad que les hubiere otorgado, la suspensión, revocación o cancelación de la concesión, permiso, licencia y en general de toda autorización para la realización de actividades industriales, comerciales o de servicios, o para el aprovechamiento de recursos naturales que haya dado lugar a la infracción.
 
 El infractor, además de las sanciones que se establecen en el presente capítulo, estará obligado a restaurar en lo posible las condiciones originales de los ecosistemas, zonas o bienes que resultaren afectados con motivo de la violación de este ordenamiento.
 
@@ -2305,19 +2399,21 @@ IV.- El carácter intencional o negligente de la acción u omisión constitutiva
 
 V.- El beneficio directamente obtenido por el infractor por los actos que motiven la sanción.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-En el caso en que el infractor realice las medidas correctivas previamente, a que la Secretaría imponga una sanción dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
+En el caso en que el infractor realice las medidas correctivas previamente, a que la Procuraduría imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
-La autoridad correspondiente podrá otorgar al infractor la opción para pagar la multa, o realizar inversiones equivalentes en la adquisición e instalación de equipos para evitar contaminación, o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor, no se trate de alguno de los supuestos previstos en el artículo 179 de esta ley, y la autoridad justifique plenamente la decisión.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Las multas que se impongan por concepto de violación a lo previsto en la presente Ley y sus reglamentos, podrán ser sustituidas por inversiones equivalentes en la adquisición e instalación de equipos para evitar contaminación, o en la protección, preservación o restauración del ambiente y los recursos naturales, y/o aportaciones de bienes y servicios que contribuyan a la prestación de mejores servicios por parte de la Procuraduría, siempre y cuando se garanticen las obligaciones a que se sujetará el infractor y no se trate de alguno de los supuestos previstos en el artículo 179 de esta ley y la autoridad justifique plenamente la decisión.
 
 ###### ARTICULO 185.
 
 Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, observando las disposiciones aplicables a la realización de inspecciones.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-En los casos en que se imponga como sanción la clausura temporal, la Secretaría, deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+En los casos en que se imponga como sanción la clausura temporal, la Procuraduría, deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 
 ###### ARTICULO 186.
 
@@ -2327,39 +2423,31 @@ Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en es
 
 Los municipios, en la esfera de sus respectivas competencias, regularán las sanciones administrativas por violaciones a los bandos y reglamentos que expidan para tal efecto.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 188.
 
-En aquellos casos en que la Secretaría, como resultado del ejercicio de sus atribuciones, tenga conocimiento de actos u omisiones que pudieran constituir delitos ambientales conforme a lo establecido en los ordenamientos aplicables en la materia, formulará ante el Ministerio Público del fuero común la denuncia correspondiente.
-
-La Secretaría proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le sean solicitados por el Ministerio Público o por las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
-
-### CAPITULO VI. DE LA DENUNCIA POPULAR
+En aquellos casos en que la Procuraduría, como resultado del ejercicio de sus atribuciones, tenga conocimiento de actos u omisiones que pudieran constituir delitos ambientales conforme a lo establecido en los ordenamientos aplicables en la materia, formulará ante el Ministerio Público del fuero común la denuncia correspondiente.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
+La Secretaría proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le sean solicitados por el Ministerio Público o por las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+La Procuraduría proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le sean solicitados por el Ministerio Público o por las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
+
+### CAPITULO VI. DE LA DENUNCIA POPULAR
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 189.
 
-Los actos de las autoridades y las resoluciones dictadas con motivo de la aplicación de esta ley, sus reglamentos y demás disposiciones que de ella emanen, podrán ser impugnados por los afectados, mediante el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación, ante las instancias competentes.
+Los interesados afectados por los actos y resoluciones de las autoridades administrativas que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación, ante las instancias competentes.
 
-El recurso de revisión se interpondrá directamente ante la autoridad que emitió la resolución impugnada, quien en su caso, acordará su admisión y el otorgamiento o negación de la suspensión del acto recurrido, turnando el recurso a su superior jerárquico para su resolución definitiva.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-El escrito del recurso de revisión deberá expresar:
-
-I.- El órgano administrativo a quien se dirige;
-
-II.- El nombre del recurrente, y del tercero perjudicado si lo hubiere, así como el lugar que señale para efectos de notificación;
-
-III.- El acto que se recurre y fecha en que se le notificó o tuvo conocimiento del mismo;
-
-IV.- Los agravios que se le causan;
-
-V.- En su caso, copia de la resolución o acto que se impugna y de la notificación correspondiente. Si se trata de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, o el documento sobre el cual no hubiere recaído resolución alguna; y
-
-VI.- Las pruebas que se ofrezcan, que tengan relación inmediata y directa con la resolución o acto impugnado, debiendo acompañar las documentales con que se cuente, incluidas las que acrediten la personalidad de quien presenta el recurso, cuando actúe en nombre de otro o de personas morales.
-
-La resolución deberá dictarse en un plazo que no excederá de treinta días hábiles.
+ARTICULO 189 BIS.- La oposición a los actos de trámite en un procedimiento administrativo deberá alegarse por los interesados durante dicho procedimiento, para su consideración, en la resolución que ponga fin al mismo. La oposición a tales actos de trámite se podrá hacer valer en todo caso al impugnar la resolución definitiva.
 
 ###### ARTICULO 190.
 
@@ -2483,9 +2571,9 @@ En caso de que se expidan licencias, permisos, autorizaciones o concesiones cont
 
 ###### ARTICULO 204.
 
-Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Secretaría o ante otras autoridades federales y municipales según corresponda, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente ley y demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
+Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría o ante otras autoridades federales y municipales según corresponda, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente ley y demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
 
-Si la denuncia fuera presentada ante la autoridad municipal, y resulta del orden estatal, deberá ser remitida para su atención y trámite a la Secretaría o la autoridad estatal competente. A su vez, las denuncias que resulten de orden federal o municipal, deberán ser turnadas a la autoridad respectiva.
+Si la denuncia fuera presentada ante la autoridad municipal, y resulta del orden estatal, deberá ser remitida para su atención y tramite a la Procuraduría o la autoridad estatal competente. A su vez, las denuncias que resulten de orden federal o municipal, deberán ser turnadas a la autoridad respectiva.
 
 ###### ARTICULO 205.
 
@@ -2499,77 +2587,85 @@ III.- Los datos que permitan identificar al presunto infractor o localizar la fu
 
 IV.- Las pruebas que en su caso ofrezca el denunciante.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-Así mismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente articulo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Secretaría o las autoridades municipales correspondientes investiguen de oficio los hechos constitutivos de la denuncia.
+Así mismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Procuraduría o las autoridades municipales correspondientes investiguen de oficio los hechos constitutivos de la denuncia.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>[N. DE E. VÉASE LAS PUBLICACIONES OFICIALES DE LA HISTORIA LEGISLATIVA DE ESTE ARTÍCULO]</small>
 
-Si el denunciante solicita a la Secretaría o las autoridades municipales correspondientes guardar secreto respecto de su identidad, por razones de seguridad e interés particular, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente ley y demás disposiciones jurídicas aplicables le otorgan.
+No se admitirán denuncias notoriamente improcedentes o infundadas, o aquéllas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se notificará al denunciante.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Si el denunciante solicita a la Procuraduría o las autoridades municipales correspondientes guardar secreto respecto de su identidad, por razones de seguridad e interés particular, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente ley y demás disposiciones jurídicas aplicables le otorgan.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 636, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2014, PÁGINA 8. SE SUGIERE CONSULTAR LA CRONOLOGÍA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 206.
 
-La Secretaría o las autoridades municipales correspondientes, una vez recibida la denuncia, acusarán recibo de su recepción, le asignarán un número de expediente y la registrarán.
+La Procuraduría o las autoridades municipales correspondientes, una vez recibida la denuncia, acusarán recibo de su recepción, le asignarán un número de expediente y la registrarán.
 
-Una vez registrada la denuncia, la Secretaría o las autoridades municipales correspondientes dentro de los diez días hábiles siguientes a su presentación, notificarán al denunciante el acuerdo de calificación correspondiente, señalando el trámite que se le ha dado a la misma.
+... (sic)
 
-Si la denuncia presentada fuera competencia de otra autoridad, la Secretaría o en su caso, las autoridades municipales correspondientes acusarán de recibo al denunciante pero no admitirán, la instancia y la turnarán a la autoridad competente para su trámite y resolución, notificándole de tal hecho al denunciante mediante acuerdo fundado y motivado.
+Una vez registrada la denuncia, la Procuraduría o las autoridades municipales correspondientes dentro de los diez días hábiles siguientes a su presentación, notificarán al denunciante el acuerdo de calificación correspondiente, señalando el trámite que se le ha dado a la misma.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+Si la denuncia presentada fuera competencia de otra autoridad, la Procuraduría, o en su caso, las autoridades municipales correspondientes acusarán de recibo al denunciante pero no admitirán la instancia y la turnarán a la autoridad competente para su trámite y resolución, notificándole de tal hecho al denunciante, mediante acuerdo fundado y motivado.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 207.
 
-Una vez admitida la instancia, la Secretaría o las autoridades municipales correspondientes llevarán a cabo la identificación del denunciante, y harán del conocimiento la denuncia a la persona o personas, o a las autoridades a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida a fin de que presenten los documentos y prueba que a su derecho convenga, en un plazo máximo de quince días hábiles a partir de la notificación respectiva.
+Una vez admitida la instancia. la Procuraduría o las autoridades municipales correspondientes llevarán a cabo la identificación del denunciante, y harán del conocimiento la denuncia a la persona o personas, o a las autoridades a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida a fin de que presenten los documentos y prueba (sic) que a su derecho convenga, en un plazo máximo de quince días hábiles a partir de la notificación respectiva.
 
-La Secretaría o las autoridades municipales correspondientes efectuarán las diligencias necesarias con el propósito de determinar la existencia de acto, hechos u omisiones constitutivos de la denuncia. Así mismo, en los casos previstos en esta ley, dichas autoridades podrán iniciar los procedimientos de Inspección y vigilancia que fueran procedentes en cuyo caso se observarán las disposiciones respectivas del presente Título.
+La Procuraduría o las autoridades municipales correspondientes efectuaran las diligencias necesarias con el propósito de determinar la existencia de acto, hechos u omisiones constitutivos de la denuncia. Así mismo, en los casos previstos en esta ley, dichas autoridades podrán iniciar los procedimientos de Inspección y vigilancia que fueran procedentes en cuyo caso se observaran las disposiciones respectivas del presente Titulo
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 208.
 
-El denunciante podrá coadyuvar con la Secretaría, o en su caso, con las autoridades municipales correspondientes, aportándole las pruebas, documentación e información que estime pertinentes. Dichas autoridades deberán manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
+El denunciante podrá coadyuvar con la Procuraduría, o en su caso, con las autoridades municipales correspondientes, aportándole las pruebas, documentación e información que estime pertinentes. Dichas autoridades deberán manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 209.
 
-La Secretaría o las autoridades municipales correspondientes podrán solicitar a las instituciones académicas, centros de investigación y organismos del sector público, social y privado, la elaboración de estudios, dictámenes o peritajes sobre cuestiones planteadas en las denuncias que le sean presentadas.
+La Procuraduría o las autoridades municipales correspondientes podrán solicitar a las instituciones académicas, centros de investigación y organismos del sector público, social y privado, la elaboración de estudios, dictámenes o peritajes sobre cuestiones planteadas en las denuncias que le sean presentadas.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 210.
 
-Si del resultado de la investigación realizada por la Secretaría o las autoridades municipales correspondientes, se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, la autoridad encargada de la investigación emitirá las recomendaciones necesarias para promover ante éstas la ejecución de las acciones procedentes.
+Si del resultado de la investigación realizada por la Procuraduría o las autoridades municipales correspondientes, se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, la autoridad encargada de la investigación emitirá las recomendaciones necesarias para promover ante éstas la ejecución de las acciones procedentes
 
-Las recomendaciones que emita la Secretaría o las autoridades municipales correspondientes serán públicas, autónomas y no vinculatorias.
+Las recomendaciones que emita la Procuraduría o las autoridades municipales correspondientes serán públicas, autónomas y no vinculatorias.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 211.
 
-Cuando una denuncia popular no implique violaciones a la normatividad ambiental, ni afecte cuestiones de orden público e interés social, la Secretaría o las autoridades municipales correspondientes podrán sujetar la misma a un procedimiento de conciliación. En todo caso, se deberá escuchar a las partes involucradas.
+Cuando una denuncia popular no implique violaciones a la normatividad ambiental, ni afecte cuestiones de orden público e interés social, la Procuraduría o las autoridades municipales correspondientes podrán sujetar la misma a un procedimiento de conciliación. En todo caso, se deberá escuchar a las partes involucradas.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 212.
 
-En caso de que no se comprueben que los actos, hechos u omisiones denunciados producen o pueden producir desequilibrio ecológico o daños al ambiente o a los recursos naturales o contravengan las disposiciones de esta ley, la Secretaría o las autoridades municipales correspondientes lo harán del conocimiento del denunciante, a efecto de que éste emita las observaciones que juzgue convenientes.
+En caso de que no se comprueben que los actos, hechos u omisiones denunciados producen o pueden producir desequilibrio ecológico o daños al ambiente o a los recursos naturales o contravengan las disposiciones de esta ley, la Procuraduría o las autoridades municipales correspondientes lo harán del conocimiento del denunciante, a efecto de que éste emita las observaciones que juzgue convenientes.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 213.
 
-La formulación de la denuncia popular, así como los acuerdos, resoluciones y recomendaciones que emita la Secretaría o las autoridades municipales correspondientes, no afectarán el ejercicio de otros derechos o medios de defensa que pudieren corresponder a los afectados conforme a las disposiciones jurídicas aplicables, no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la instancia.
+La formulación de la denuncia popular, así como los acuerdos, resoluciones y recomendaciones que emita la Procuraduría o las autoridades municipales correspondientes, no afectarán el ejercicio de otros derechos o medios de defensa que pudieren corresponder a los afectados conforme a las disposiciones jurídicas aplicables, no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la instancia.
 
 ###### ARTICULO 214.
 
 Los expedientes de denuncia popular que hubieren sido abiertos, podrán ser concluidos por las siguientes causas:
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-I.- Por incompetencia de la Secretaría o las autoridades municipales correspondientes para conocer de la denuncia popular planteada. En este caso la denuncia se turnará a la autoridad competente;
+I.- Por incompetencia de la Procuraduría o las autoridades municipales correspondientes para conocer de la denuncia popular planteada. En este caso la denuncia se turnará a la autoridad competente;
 
 II.- Por haberse dictado la recomendación correspondiente;
 
@@ -2631,7 +2727,7 @@ LA SECRETARIA DE SALUD Y DESARROLLO COMUNITARIO
 
 DRA. LOURDES QUINTANILLA RODRIGUEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE MARZO DE 2001.
 
@@ -2700,3 +2796,15 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 636, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 3 FRACCIÓN XLV, 7 FRACCIÓN III, 166, 172, 173, 174, 175, 176, 177, 178, 178 BIS 1, 178 BIS 2, 178 BIS 3, 179, 180, 181, 182, 182 FRACCIÓN I, 183, 184, 185, 188 Y 189 BIS, 204, 205, 206, 207, 208, 209, 210, 211, 213 Y 214 FRACCIÓN I DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 648, POR EL QUE SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 8 Y SE REENUMERE LA SUBSECUENTE DE LA LEY DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
