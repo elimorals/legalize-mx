@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2014-11-14"
+last_updated: "2014-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA RO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO NÚMERO 150, PUBLICADO EN EL P.O. DE 14 DE NOVIEMBRE DE 2014, EL PROCEDIMIENTO ORAL EN MATERIA CIVIL, PREVISTO EN EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, ENTRA EN VIGOR EN EL DISTRITO JUDICIAL DE CHETUMAL, CON CABECERA EN LA CIUDAD DEL MISMO NOMBRE, EL CUAL COMPRENDE LA CIRCUNSCRIPCIÓN TERRITORIAL DEL MUNICIPIO DE OTHÓN P. BLANCO Y BACALAR DEL ESTADO DE QUINTANA ROO, CUANDO EL PRESENTE DECRETO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -1091,7 +1091,9 @@ VIII.- En los actos de jurisdicción voluntaria, el del domicilio del que promue
 
 IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor, y en los demás casos el del domicilio de éste;
 
-X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+X.- En los negocios relativos a suplir impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
 
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad del matrimonio, lo es el del domicilio conyugal;
 
@@ -6107,7 +6109,7 @@ En todo lo no previsto regirán las reglas generales de este Código en cuanto n
 
 Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
 
-I.- La autorización judicial que soliciten los emancipados por razón del matrimonio, para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial;
+I.- (DEROGADA, P.O. 19 DE DICIEMBRE DE 2014)
 
 II.- El permiso para que los cónyuges celebren contrato entre ellos o para obligarse solidariamente o ser fiador uno del otro en los casos permitidos por el Código Civil;
 
@@ -6121,7 +6123,7 @@ Podrá decretarse el depósito de menores o incapacitados que se hallen sujetos 
 
 ###### Artículo 890.
 
-El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al juez determine sobre su custodia.
+(DEROGADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)
 
 En los casos de los dos artículos anteriores no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias necesarias.
 
@@ -7251,13 +7253,9 @@ En caso de que no las acepten, el Juez resolverá en la sentencia lo que proceda
 
 Cuando el convenio no deba ser aprobado, no podrá decretarse la disolución del matrimonio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
 ###### Artículo 980.
 
-El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8326,3 +8324,9 @@ El Procedimiento Oral en materia Civil, previsto en el Código de Procedimientos
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
