@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2014-05-20"
+last_updated: "2014-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -116,7 +116,9 @@ V.- Infundir el conocimiento y la práctica de la democracia como la forma de go
 
 VI.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los Derechos Humanos y el respeto a los mismos;
 
-VII.- Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2014)</small>
+
+VII.- Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas, así como su comprensión, aplicación y uso responsables;
 
 VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquéllos que constituyen el patrimonio cultural de la Nación;
 
@@ -236,7 +238,7 @@ Para efectos de la presente Ley, se entenderá por:
 
 I.- Autoridad educativa federal, o Secretaria, a la Secretaria de Educación Pública de la Administración Pública Federal;
 
-II.- Autoridad educativa local al ejecutivo de cada uno de los estados de la Federación, así como a las entidades que, en su caso, establezcan para el ejercicio de la función social educativa, y (sic)
+II.- Autoridad educativa local al ejecutivo de cada uno de los estados de la Federación, así como a las entidades que, en su caso, establezcan para el ejercicio de la función social educativa, y
 
 III.- Autoridad educativa municipal al ayuntamiento de cada municipio;
 
@@ -291,6 +293,10 @@ V.- Fijar lineamientos generales para el uso de material educativo para la educa
 V Bis.- Emitir, en las escuelas de educación básica, lineamientos generales para formular los programas de gestión escolar, mismos que tendrán como objetivos: mejorar la infraestructura; comprar materiales educativos; resolver problemas de operación básicos y propiciar condiciones de participación entre los alumnos, maestros y padres de familia, bajo el liderazgo del director.
 
 En las escuelas que imparten la educación media superior, la Secretaría establecerá los mecanismos de colaboración necesarios para que los programas de gestión escolar formulados por las autoridades educativas y los organismos descentralizados, en el ámbito de sus atribuciones, propicien el mantenimiento de elementos comunes.
+
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2014)</small>
+
+V Ter.- Emitir los lineamientos generales para el uso responsable y seguro de las tecnologías de la información y la comunicación en el sistema educativo;
 
 > <small>(REFORMADA, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
 
@@ -408,6 +414,10 @@ IX.- Fomentar y difundir las actividades artísticas, culturales y físico-depor
 
 X.- Promover e impulsar en el ámbito de su competencia las actividades y programas relacionados con el fomento de la lectura y el libro, de acuerdo a lo establecido en la ley de la materia;
 
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2014)</small>
+
+X Bis.- Fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación en el sistema educativo, para apoyar el aprendizaje de los estudiantes, ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento;
+
 > <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2006)</small>
 
 XI.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias;
@@ -418,7 +428,7 @@ XI Bis.- Participar en la realización, en forma periódica y sistemática, de e
 
 > <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2006)</small>
 
-XII.- Promover prácticas cooperativas de ahorro, producción y consumo, de acuerdo a lo establecido en la ley de la materia y el Reglamento de Cooperativas Escolares, y (sic)
+XII.- Promover prácticas cooperativas de ahorro, producción y consumo, de acuerdo a lo establecido en la ley de la materia y el Reglamento de Cooperativas Escolares, y
 
 > <small>(ADICIONADA, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1653,3 +1663,9 @@ TERCERO. El CONACyT contará con un plazo no mayor a 18 meses a partir de la exp
 El CONACyT procurará y promoverá la homologación de la normativa existente en los Estados e Instituciones que por su actividad estén sujetas a las disposiciones establecidas en este Decreto, ésta homologación deberá ejecutarse en el tiempo señalado en el párrafo anterior.
 
 CUARTO. El CONACyT dentro de su presupuesto anual, preverá los recursos necesarios para la creación, impulso y fortalecimiento de las plataformas tecnológicas, así como para el fortalecimiento del Consorcio Nacional de Recursos de Información Científica y Tecnológica, en lo conducente a las disposiciones establecidas en el presente Decreto.
+
+D.O.F. 19 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, la autoridad educativa federal emitirá los lineamientos a que se hace referencia en la fracción V Ter del artículo 12 del presente Decreto.
