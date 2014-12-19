@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2013-07-02"
+last_updated: "2014-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -2627,7 +2627,7 @@ Son nulos los negocios jurídicos celebrados por los menores emancipados con inf
 
 ###### Artículo 528.
 
-El matrimonio del menor produce de pleno derecho la emancipación, y por su efecto se extingue la patria potestad, en la que por lo tanto no recaerá el menor aunque su matrimonio se disuelva, antes de la mayoridad.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -3255,7 +3255,9 @@ I.- Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de
 
 II.- Los nombres, apellidos, nacionalidad y domicilio de los padres;
 
-III.- En su caso, el consentimiento de éstos, de los abuelos, de los tutores o de las autoridades que deban suplirlos;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+III.- El consentimiento de los contrayentes;
 
 IV.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
@@ -3579,9 +3581,11 @@ Al escrito a que se refiere el artículo anterior se acompañará:
 
 I.- El acta de nacimiento o pasaporte de cada uno de los contrayentes;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-II.- Un certificado médico por cada pretenso, en el que asegure que no padece enfermedad crónica o incurable que además sea contagiosa y/o hereditaria, o bien la constancia a que se refiere el penúltimo párrafo del Artículo 700.
+II.- Un certificado médico por cada pretenso, en el que asegure que no padece enfermedad crónica o incurable que además sea contagiosa y/o hereditaria.
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2013)</small>
 
 Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
 
@@ -3659,23 +3663,13 @@ También podrá exigir declaración bajo protesta a los testigos que los interes
 
 Para contraer matrimonio es necesario que ambos contrayentes sean mayores de edad.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
+###### Articulo 698.
 
-###### Artículo 698.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2014)
 
-Los menores de edad podrán contraer matrimonio, siempre que ambos hayan cumplido dieciséis años. Para tal efecto, se requerirá del consentimiento de quien ejerce la patria potestad o en su defecto el tutor; y a falta o por negativa o imposibilidad de éstos, el Juez de lo Familiar suplirá dicho consentimiento, el cual deberá ser otorgado atendiendo a las circunstancias especiales del caso.
+###### Articulo 699.
 
-Los interesados también podrán acudir ante el Juez Familiar cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido.
-
-El Juez de lo Familiar, decidirá si se otorga o no el consentimiento, cuando haya disensión al respecto entre los dos ascendientes que ejerzan la patria potestad.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
-
-###### Artículo 699.
-
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que éste se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo.
-
-El Juez Familiar que hubiere autorizado a un menor a contraer matrimonio no podrá revocar el consentimiento una vez que lo haya otorgado, sino por Justa causa superveniente.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2014)
 
 ###### Artículo 700.
 
@@ -3683,7 +3677,7 @@ Son impedimentos para celebrar el contrato de matrimonio:
 
 I.- (DEROGADA, P.O. 26 DE JUNIO DE 2009)
 
-II.- La falta de consentimiento del que o de los que ejerzan la patria potestad, del tutor o del juez en sus respectivos casos;
+II.- (DEROGADA, P.O. 19 DE DICIEMBRE DE 2014)
 
 III.- El parentesco de consanguinidad sin limitación de grado en la línea recta. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
@@ -3707,9 +3701,7 @@ XI.- La locura, el idiotismo y la imbecilidad; y
 
 XII.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer, o subsistente con ésta.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2013)</small>
-
-De estos impedimentos son dispensables por el Juez Familiar de la residencia del menor, el parentesco de consanguinidad en línea colateral desigual.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE JULIO DE 2013)</small>
 
@@ -3779,17 +3771,15 @@ Artículo 708 TER.- El trabajo realizado en el domicilio conyugal, por cualquier
 
 Si uno de los cónyuges está imposibilitado para trabajar y carece de bienes, el otro cónyuge sufragará todos los gastos del hogar y de la educación de los hijos.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 710.
 
-Los cónyuges mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que les correspondan, sin que para tal objeto necesite uno de los cónyuges del consentimiento del otro, salvo que sean bienes de la sociedad.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+Los cónyuges tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que les correspondan, sin que para tal objeto necesite uno de los cónyuges del consentimiento del otro, salvo que sean bienes de la sociedad.
 
 ###### Artículo 711.
 
-Los cónyuges menores de edad, tendrán la administración de sus bienes en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2014)
 
 ###### Artículo 712.
 
@@ -4043,7 +4033,7 @@ II.- Porque el matrimonio dejase de efectuarse.
 
 ###### Artículo 765.
 
-Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus padres o tutores o con aprobación judicial.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2014)
 
 ###### Artículo 766.
 
@@ -4083,7 +4073,9 @@ Habrá nulidad relativa del matrimonio:
 
 I.- Por error cuando entendiendo un cónyuge celebrar su matrimonio con determinada persona lo contrae con otra;
 
-II.- Cuando se haya celebrado concurriendo alguno de los impedimentos enumerados en las fracciones I, II, V, VI, VII, VIII, IX, X y XI del artículo 700;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+II.- Cuando se haya celebrado concurriendo alguno de los impedimentos enumerados en las fracciones I, V, VI, VII, VIII, IX, X y XI del artículo 700;
 
 III.- Cuando se haya celebrado sin observar las formalidades señaladas en los artículos 685 y 688.
 
@@ -4097,27 +4089,19 @@ La acción de nulidad que nace del error sólo puede deducirse por el cónyuge e
 
 ###### Artículo 773.
 
-La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
-
-I.- Cuando haya habido hijos; y
-
-II.- Cuando, aunque no los haya habido, el cónyuge que al celebrar el matrimonio no tenía la edad requerida para contraerlo, cumpla dieciséis años y medio si es el hombre y catorce años y medio si es la mujer, sin que se hubiere intentado la nulidad.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2014)
 
 ###### Artículo 774.
 
-La nulidad por falta del consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2014)
 
-###### Artículo 775.
+###### Articulo 775.
 
-Cesa esta causa de nulidad:
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2014)
 
-I.- Si han pasado los aludidos treinta días sin que se haya pedido; y
+###### Articulo 776.
 
-II.- Si dentro de este término el ascendiente ha consentido expresamente en el matrimonio, o tácitamente haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, o practicando otros actos que, a juicio del Juez, sean tan conducentes al efecto como los expresados.
-
-###### Artículo 776.
-
-La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges o por el tutor; pero dicha causa de nulidad cesará si antes de que ejecutoriadamente se resuelva sobre ella, se obtiene la ratificación del tutor o la autorización judicial confirmando el matrimonio.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2014)
 
 ###### Artículo 777.
 
@@ -4133,9 +4117,9 @@ El miedo y la violencia física o moral serán causa de nulidad del matrimonió 
 
 I.- Que la violencia física o moral productora del miedo importe peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-II.- Qué el miedo haya sido causado por violencia física ó moral hecha al contrayente o a la persona o personas que lo tienen bajó su patria potestad o tutela al celebrarse el matrimonio; a sus demás ascendientes, a sus descendientes, hermanos o colaterales hasta el cuarto grado, y
+II.- Que el miedo haya sido causado por violencia física o moral hecha al contrayente o a la persona o personas que lo tienen bajo su tutela al celebrarse el matrimonio; a sus demás ascendientes, a sus descendientes, hermanos o colaterales hasta el cuarto grado, y
 
 III.- Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
 
@@ -4235,11 +4219,11 @@ II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 703;
 
 III.- Cuando se celebre sin que hayan transcurrido los plazos fijados en el artículo 702.
 
-> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 797.
 
-Los que infrinjan el artículo anterior. Así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del Juez en sus respectivos casos y los que con conocimiento de causa, autoricen esos matrimonios, incurrirán en la sanción que señala el Código Penal del Estado.
+Los que infrinjan el artículo anterior, y los que con conocimiento de causa, autoricen esos matrimonios, incurrirán en la sanción que señala el Código Penal del Estado.
 
 > <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
 
@@ -4331,13 +4315,17 @@ XXIV.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2010)
 
 XXV. El mutuo consentimiento.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 800.
 
-Cuando ambos consortes, teniendo más de un año de casados, convengan en divorciarse y sean mayores de edad, no tengan hijos, o si los tuviesen no fueran menores de edad y de común acuerdo hubieran liquidado su comunidad de bienes, si bajo este régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil o ante el Notario Público del lugar del domicilio conyugal; comprobarán con las copias certificadas respectivas que son casados, mayores de edad, y que, si tienen hijos estos también son mayores de edad, y manifestarán terminante y explícitamente su voluntad de divorciarse.
+Cuando ambos consortes, teniendo más de un año de casados, convengan en divorciarse, no tengan hijos, o si los tuviesen no fueran menores de edad y de común acuerdo hubieran liquidado su comunidad de bienes, si bajo este régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil o ante el Notario Público del lugar del domicilio conyugal; comprobarán con las copias certificadas respectivas que son casados y que, si tienen hijos éstos son mayores de edad; y manifestarán terminante y explícita su voluntad de divorciarse.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2007)</small>
 
 La liquidación de bienes a que se refiere el presente artículo, podrá realizarse ante el Juez o ante el Notario Público del conocimiento.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2007)</small>
 
 Para el caso de que opten por realizar el trámite de divorcio ante del Notario Público, deberá inscribirse en el Registro Civil de la Jurisdicción donde hayan celebrado el contrato matrimonial, el acta que al efecto se levante.
 
@@ -4347,9 +4335,11 @@ Para el caso de que opten por realizar el trámite de divorcio ante del Notario 
 
 El Oficial del Registro Civil, o en su caso, el Notario Público, previa identificación de los consortes y haciéndoles saber el contenido del Artículo 802, levantará un acta en que hará constar la solicitud de divorcio y la ratificación de la misma, en consecuencia, ya sea el Oficial del Registro Civil o el Notario Público, declarará la disolución del vínculo matrimonial, y solicitará se haga la anotación correspondiente en el Libro de Registro.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 802.
 
-El divorcio obtenido en esa forma será nulo absolutamente si se comprueba que los cónyuges tienen hijos menores de edad, que son ellos mismos menores de edad o que no han liquidado su comunidad conyugal.
+El divorcio obtenido en esa forma será nulo absolutamente si se comprueba que los cónyuges tienen hijos menores de edad o que no han liquidado su comunidad conyugal.
 
 ###### Artículo 803.
 
@@ -17444,3 +17434,9 @@ P.O. 2 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
