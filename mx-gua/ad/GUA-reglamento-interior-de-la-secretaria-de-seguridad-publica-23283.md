@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-seguridad-publica-23283
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-28"
-last_updated: "2006-09-08"
+last_updated: "2014-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 28 de diciembre de 2001.
 
@@ -671,11 +673,11 @@ AL FRENTE DE LAS DIRECCIONES DE ÁREA HABRÁ UN TITULAR, QUIEN PODRÁ AUXILIARSE
 
 CORRESPONDE A LOS DIRECTORES DE ÁREA EL ESTUDIO, TRAMITACIÓN Y RESOLUCIÓN DE LOS ASUNTOS QUE SE SEÑALAN EN EL PRESENTE REGLAMENTO.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ENERO DE 2004)</small>
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE COORDINACIÓN Y SEGUIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 31.
 
@@ -837,11 +839,11 @@ VI.- SUPERVISAR LA PRESTACIÓN DE LOS SERVICIOS DE INTENDENCIA, CONSUMO, MOBILIA
 
 VII.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES O EL DIRECTOR GENERAL DE ADMINISTRACIÓN EN EJERCICIO DE SUS ATRIBUCIONES.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ENERO DE 2004)</small>
 
 #### SECCIÓN SEXTA. DE LA DIRECCIÓN DE PLANEACIÓN ESTRATÉGICA Y DESARROLLO INSTITUCIONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 36.
 
@@ -943,7 +945,7 @@ VII.- PROPONER AL FIDUCIARIO. MECANISMOS PARA MEJORAR EL FUNCIONAMIENTO DEL FIDU
 
 VIII.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES VIGENTES O EL DIRECTOR GENERAL DE ADMINISTRACIÓN EN EL EJERCICIO DE SUS ATRIBUCIONES.
 
-(REUBICADA [N. DE E. ANTES SECCION OCTAVA], P.O. 2 DE ENERO DE 2004)
+(REUBICADA [N. DE E. ANTES SECCIÓN OCTAVA], P.O. 2 DE ENERO DE 2004)
 
 #### SECCIÓN DECIMA. DE LA DIRECCIÓN JURÍDICA, DE VISITADURÍA INTERNA Y DERECHOS HUMANOS
 
@@ -993,7 +995,7 @@ XVIII.- CONCEDER AUDIENCIAS AL PÚBLICO; Y
 
 XIX.- LAS DEMÁS QUE SEÑALEN OTRAS DISPOSICIONES LEGALES O EL SUBSECRETARIO DE PREVENCIÓN EN EJERCICIO DE SUS ATRIBUCIONES.
 
-(REUBICADA [N. DE E. ANTES SECCION NOVENA], P.O. 2 DE ENERO DE 2004)
+(REUBICADA [N. DE E. ANTES SECCIÓN NOVENA], P.O. 2 DE ENERO DE 2004)
 
 #### SECCIÓN DECIMA PRIMERA. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
 
@@ -1047,7 +1049,7 @@ V.- PROMOVER LA CELEBRACIÓN DE CONVENIOS CON LOS DI RENTES GRUPOS DE APOYO, PAR
 
 VI.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O EL COORDINADOR EJECUTIVO DE PROTECCIÓN CIVIL EN EJERCICIO DE SUS ATRIBUCIONES.
 
-(REUBICADA [N. DE E. ANTES SECCION DECIMA], P.O. 2 DE ENERO DE 2004)
+(REUBICADA [N. DE E. ANTES SECCIÓN DÉCIMA], P.O. 2 DE ENERO DE 2004)
 
 #### SECCIÓN DÉCIMA CUARTA. DE LA DIRECCIÓN DE PLANEACIÓN Y ESTADÍSTICA CRIMINOLÓGICA
 
@@ -1077,7 +1079,7 @@ X.- OPERAR EL REGISTRO ESTATAL DE POLICÍA; Y
 
 XI.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O EL DIRECTOR GENERAL DE POLÍTICA CRIMINAL PREVENCIÓN DEL DELITO EN EJERCICIO DE SUS ATRIBUCIONES.
 
-(REUBICADA [N. DE E. ANTES SECCION DECIMA PRIMERA], P.O. 2 DE ENERO DE 2004)
+(REUBICADA [N. DE E. ANTES SECCIÓN DÉCIMA PRIMERA], P.O. 2 DE ENERO DE 2004)
 
 #### SECCIÓN DÉCIMA QUINTA. DE LA DIRECCIÓN DE POLÍTICA CRIMINAL
 
@@ -1103,7 +1105,7 @@ VIII.- REALIZAR INVESTIGACIONES ESPECIALIZADAS POR MUNICIPIO, ESTRATO SOCIAL Y F
 
 IX.- LAS DEMÁS QUE LE CONFIERAN LAS DISPOSICIONES LEGALES APLICABLES O DIRECTOR GENERAL DE POLÍTICA CRIMINAL Y PREVENCIÓN DEL DELITO EN EJERCICIO DE SUS ATRIBUCIONES.
 
-(REUBICADA [N. DE E. ANTES SECCION DECIMA SEGUNDA], P.O. 2 DE ENERO DE 2004)
+(REUBICADA [N. DE E. ANTES SECCIÓN DÉCIMA SEGUNDA], P.O. 2 DE ENERO DE 2004)
 
 #### SECCIÓN DÉCIMA SEXTA. DE LA DIRECCIÓN DE PREVENCIÓN DEL DELITO
 
@@ -1321,7 +1323,7 @@ ARTÍCULO 46 C.- LAS DIRECCIONES DE LOS CENTROS DE INTERNACIÓN TENDRÁN LAS OBL
 
 ARTÍCULO 46 D.- EL CONSEJO TÉCNICO INTERDISCIPLINARIO PARA LAS MEDIDAS EN EXTERNACIÓN TENDRÁ LAS MISMAS OBLIGACIONES QUE SE SEÑALEN EN EL REGLAMENTO DE LOS CENTROS DE INTERNACIÓN PARA SUS CONSEJOS TÉCNICOS INTERDISCIPLINARIOS.
 
-(REUBICADA [N. DE E. ANTES SECCION DECIMA SEPTIMA], P.O. 2 DE ENERO DE 2004)
+(REUBICADA [N. DE E. ANTES SECCIÓN DÉCIMA SÉPTIMA], P.O. 2 DE ENERO DE 2004)
 
 #### SECCIÓN VIGÉSIMA SEGUNDA. DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA
 
@@ -1453,7 +1455,7 @@ SECRETARIO DE SEGURIDAD PÚBLICA
 
 FELIPE ARTURO CAMARENA GARCÍA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 16 DE AGOSTO DE 2002.
 
@@ -1480,3 +1482,71 @@ EL PRESENTE DECRETO GUBERNATIVO ENTRARÁ EN VIGENCIA EL CUARTO DÍA SIGUIENTE AL
 ###### ARTÍCULO SEGUNDO.
 
 SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO GUBERNATIVO.
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento Interior vigente
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, expedido a través del Decreto Gubernativo número 105, publicado en el Periódico Oficial del Gobierno del Estado número 104, Segunda Parte, de fecha 28 de diciembre de 2001.
+
+Asuntos en trámite
+
+Artículo Tercero. Los asuntos que actualmente estén en curso ante las unidades administrativas antes de la entrada en vigor del presente Decreto, continuarán hasta su conclusión de conformidad con las disposiciones vigentes en el momento de su iniciación, con la salvedad de que los trámites los desahogarán las dependencias que ahora detentan la referida competencia.
+
+Referencia a las nuevas denominaciones de las unidades administrativas
+
+Artículo Cuarto. A la entrada en vigencia del presente Decreto Gubernativo, cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a las siguientes unidades administrativas, se entenderá hecha a su nueva denominación:
+
+Unidades administrativas Nuevas
+
+previstas en el reglamento denominaciones
+
+que se abroga y que cambian de las unidades
+
+su denominación administrativas
+
+Dirección de Personal Dirección de Recursos
+
+Humanos y
+
+Desarrollo Institucional
+
+Dirección de Servicios Dirección de Servicios
+
+Generales y Adquisiciones Generales
+
+Dirección de Servicios Dirección de Adquisiciones
+
+Generales y Adquisiciones
+
+Dirección de Planeación Dirección de Planeación
+
+Estratégica y Estratégica
+
+Desarrollo Institucional.
+
+Dirección de Informática Dirección de Tecnologías
+
+de la Información
+
+Dirección General Dirección General del
+
+de Ejecución Sistema Penitenciario
+
+Penitenciaria y
+
+Readaptación Social
+
+Dirección General del Dirección General del
+
+Sistema de Cómputo, Sistema Estatal de
+
+Comando, Comunicaciones Coordinación, Comando,
+
+y Control Control, Comunicaciones,
+
+Cómputo e Inteligencia
