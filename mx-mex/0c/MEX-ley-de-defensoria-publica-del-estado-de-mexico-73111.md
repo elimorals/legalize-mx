@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-defensoria-publica-del-estado-de-mexico-73111"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2014-11-28"
+last_updated: "2014-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE DEFENSORIA PUBLICA DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 19 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 3 de febrero de 2010.
 
@@ -545,7 +545,9 @@ G.G. 28 DE NOVIEMBRE DE 2014.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-SEGUNDO.- El presente Decreto entrará en vigor el mismo día que entre en vigor el Código Nacional de Procedimientos Penales, en el Estado de México.
+> <small>(F. DE E., G.G. 19 DE DICIEMBRE DE 2014)</small>
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día que entre en vigor el Código Nacional de Procedimientos Penales en el Estado de México; con excepción de las reformas y adiciones a diversas disposiciones del Código Penal del Estado de México, en materia de operaciones con recursos de procedencia ilícita, las cuales entrarán en vigor a los treinta días posteriores a la publicación del presente Decreto.
 
 TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, con la entrada en vigor del presente Decreto, deberán contar con cuerpos especializados de policía, con capacidad para cumplir de manera eficaz y eficiente con las atribuciones que derivan de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
 
