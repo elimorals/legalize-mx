@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2014-08-22"
+last_updated: "2014-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -223,7 +223,9 @@ III. (DEROGADA, P.O. 15 DE FEBRERO DE 2005)
 
 IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez y brindar todos los servicios médicos necesarios a las mujeres embarazadas y sus hijos en gestación y en infancia temprana.
 
-V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida; y la adaptación de la población a los efectos del cambio climático; entendiendo por este la variación acelerada del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempo comparables.
 
 VI. Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud, y
 
@@ -559,7 +561,7 @@ Dichos servicios, en los términos de esta Ley y sin perjuicio de lo que preveng
 
 ###### Artículo 38.
 
-Los servicios de salud que presten las entidades públicas estatales y empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos,se regirán por las convenciones entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
+Los servicios de salud que presten las entidades públicas estatales y empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos,se (sic) regirán por las convenciones entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -597,7 +599,7 @@ La Secretaría de Salud del Estado coadyuvará con las autoridades educativas co
 
 ###### Artículo 43.
 
-Para los efectos de esta Ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga los que presten los sectores público,social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
+Para los efectos de esta Ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga los que presten los sectores público,social (sic) y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 44.
 
@@ -969,7 +971,9 @@ II. Al conocimiento de los vínculos entre las causas de enfermedad, la práctic
 
 III. A la prevención y control de los problemas de salud que se consideren prioritarios para la población;
 
-IV. Al conocimiento y control de los efectos nocivos del ambiente en la salud;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+IV. Al conocimiento y control de los efectos nocivos del ambiente en la salud, así como al análisis de la vulnerabilidad de la salud de la población y sus medidas de adaptación frente a los efectos del cambio climático;
 
 V. Al estudio de las técnicas y métodos que se recomienden o empleen para la prestación de los servicios de salud, y
 
@@ -1053,6 +1057,8 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 ### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 92.
 
 La promoción de la salud tiene por objeto crear, conservar y mejorar las condiciones deseables de salud para toda la población y propiciar en el individuo las actitudes, valores y conductas adecuadas para motivar su participación en beneficio de la salud individual y colectiva.
@@ -1065,7 +1071,9 @@ I. Educación para la salud;
 
 II. Nutrición;
 
-III. Control de los efectos nocivos del ambiente en la salud;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+III. Control de los efectos nocivos del ambiente en la salud y medidas de adaptación a los efectos del cambio climático;
 
 IV. Salud ocupacional, y
 
@@ -1081,7 +1089,9 @@ La educación para la salud tiene por objeto:
 
 I. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y proteger de los riesgos que pongan en peligro su salud;
 
-II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, así como medidas de adaptación a los efectos del cambio climático; y
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -1117,15 +1127,15 @@ En los programas a que se refieren los artículos anteriores, se incorporarán a
 
 ###### Artículo 98.
 
-Las autoridades sanitarias del Estado establecerán las normas, tomarán las medidas y realizarán las actividades a que se refiere esta Ley tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente.
+Las autoridades sanitarias del Estado establecerán las normas, tomarán las medidas y realizarán las actividades a que se refiere esta Ley tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente, especialmente aquellos originados por el cambio climático.
 
 ###### Artículo 99.
 
 Corresponde al Gobierno Estatal:
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-I. Desarrollar investigación de carácter permanente, respecto a los riesgos y daños que origine la contaminación del ambiente en la salud pública;
+I. Desarrollar investigación de carácter permanente respecto a los riesgos y daños que origine la contaminación del ambiente en la salud pública y los efectos del cambio climático;
 
 II. Vigilar y certificar la calidad del agua para uso y consumo humano;
 
@@ -3144,3 +3154,17 @@ Los sujetos obligados deberán dar cumplimiento a lo dispuesto en el presente de
 P.O. 22 DE AGOSTO DE 2014.
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a un año, posterior a la publicación del presente decreto, la Secretaría de Salud deberá actualizar el marco normativo y programático a que haya lugar en materia de riesgo sanitario.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
