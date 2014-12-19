@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-operacion-del-comite-de-control-y-evaluacion-5602
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-06"
-last_updated: "2009-02-26"
+last_updated: "2014-12-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,638 +20,374 @@ state: "MEX"
 ---
 # REGLAMENTO DE OPERACION DEL COMITE DE CONTROL Y EVALUACION DE LA SECRETARIA DE DESARROLLO SOCIAL DEL GOBIERNO DEL ESTADO DE MEXICO
 
-REGLAMENTO DE OPERACION DEL COMITE DE CONTROL Y EVALUACION DE LA SECRETARIA DE DESARROLLO SOCIAL DEL GOBIERNO DEL ESTADO DE MEXICO
+REGLAMENTO ORGANICO DE SOCIEDAD HIPOTECARIA FEDERAL, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ENERO DE 2005.
 
-Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 6 de junio de 2007.
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 9 de abril de 2002.
 
-Licenciado Ernesto Nemer Alvarez, Secretario de Desarrollo Social del Gobierno del Estado de México y Presidente del Comité de Control y Evaluación de la Secretaría de Desarrollo Social, con fundamento en los artículos 3, 15, 19 fracción VI y 22 de la Ley Orgánica de la Administración Pública del Estado de México; 6 fracción VIII y XI del Reglamento de la Ley de Desarrollo Social; 6 fracciones VII, XIII, XVI y XVII del Reglamento Interior de la Secretaría de Desarrollo Social Y 22 fracción X del Reglamento de Operación del Comité, y:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
 
-CONSIDERANDO...
+REGLAMENTO ORGANICO DE SOCIEDAD HIPOTECARIA FEDERAL, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO.
 
-En mérito de lo expuesto y con fundamento en las disposiciones legales y consideraciones previamente señaladas, la Secretaría de Desarrollo Social ha tenido a bien expedir el siguiente:
+CONSIDERANDO
 
-REGLAMENTO DE OPERACIÓN DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL GOBIERNO DEL ESTADO DE MÉXICO
+Que corresponde a la Secretaría de Hacienda y Crédito Público expedir, con sujeción a lo dispuesto en la Ley de Instituciones de Crédito y a la Ley Orgánica de Sociedad Hipotecaria Federal, el Reglamento Orgánico de dicha Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en el que se establezcan las bases conforme a las cuales, se regirá su organización y funcionamiento.
 
-## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+Que en el ejercicio de las facultades que me confiere la fracción XXI del artículo 6o. del Reglamento Interior de la Secretaría de Hacienda y Crédito Público y con fundamento en el artículo 30 de la Ley de Instituciones de Crédito, he tenido a bien expedir el siguiente:
 
-### CAPITULO PRIMERO. DE LA INTEGRACIÓN DEL COMITÉ
+REGLAMENTO ORGANICO DE SOCIEDAD HIPOTECARIA FEDERAL, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
-> <small>(REFORMADO, G.G. 26 DE ENERO DE 2009)</small>
+### CAPITULO PRIMERO. De la Sociedad
 
-###### Artículo 1.
+###### Artículo 1o.
 
-Las disposiciones del presente Reglamento, tienen por objeto, reglamentar la integración, organización y funcionamiento del Comité de Control y Evaluación de la Secretaría de Desarrollo Social.
+Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, está constituida conforme a la Ley de Instituciones de Crédito y a su propia Ley Orgánica, con personalidad jurídica y patrimonio propio.
 
-###### Artículo 2.
+###### Artículo 2o.
 
-Para los efectos de este reglamento se entenderá por:
+El presente Reglamento Orgánico tiene por objeto establecer las bases conforme a las cuales se regirá la organización y funcionamiento de la Sociedad.
 
-I. SEDESEM: Secretaría de Desarrollo Social.
+###### Artículo 3o.
 
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+Para efectos de este Reglamento Orgánico, se deberá entender por:
 
-II. Comité o COCOE: Al Comité de Control y Evaluación de la Secretaria de Desarrollo Social.
+I. (DEROGADA, D.O.F. 24 DE ENERO DE 2005)
 
-III. Reglamento: Al Reglamento de Operación del Comité de Control y Evaluación.
+II. Consejo Directivo.- El Consejo Directivo de la Sociedad.
 
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+III. Ley Orgánica.- Ley Orgánica de Sociedad Hipotecaria Federal.
 
-IV. Instancias Fiscalizadoras La Secretaría de la Contraloría del Gobierno del Estado de Internas México y la Contraloría Interna de la SEDESEM.
+IV. Reglamento Orgánico.- El Reglamento Orgánico de Sociedad Hipotecaria Federal.
 
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+V. Sociedad.- Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo.
 
-V. Instancias Fiscalizadoras: La Auditoría Superior de la Federación, la Secretaría de la Externas Función Pública del Gobierno Federal, el Órgano Superior de Fiscalización del Estado de México y los despachos de Auditoría Externa.
+###### Artículo 4o.
 
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+La Sociedad tendrá por objeto impulsar el desarrollo de los mercados primario y secundario de crédito a la vivienda, mediante el otorgamiento de garantías destinadas a la construcción, adquisición y mejora de la vivienda, preferentemente de interés social; así como al incremento de la capacidad productiva y el desarrollo tecnológico, relacionados con la vivienda.
 
-VI. MICI: Al Modelo Integral de Control Interno.
+Asimismo, podrá garantizar financiamientos relacionados con el equipamiento de conjuntos habitacionales.
 
-###### Artículo 3.
+También, tendrá por objeto promover y bursatilizar activos financieros entre los que se encuentran carteras de créditos con garantía hipotecaria o fiduciaria generados por intermediarios financieros o fideicomisos, y realizar operaciones de fideicomiso, mandatos o comisiones que coadyuven a la consecución de su objeto.
 
-El Comité se integra a través del Acta de Instalación, la cual deberá contener de manera enunciativa, más no limitativa lo siguiente:
+Para efectos de este Reglamento Orgánico, se entenderá por mercado secundario de créditos, todas aquellas operaciones por medio de las cuales se efectúe la venta de la cartera hipotecaria, fiduciaria o de títulos emitidos con la garantía de dicha cartera a terceras personas.
 
-I. Nombre de la dependencia;
+###### Artículo 5o.
 
-II. Lugar y fecha de instalación;
+El domicilio de la Sociedad será la Ciudad de México, Distrito Federal.
 
-III. Nombre y cargo de cada uno de los integrantes;
+La Sociedad podrá, previa aprobación de su Consejo Directivo, establecer o clausurar sucursales o agencias o cualquier otra clase de oficinas y nombrar corresponsales en el país. Tratándose de oficinas o agencias en el extranjero, así como para la cesión de activos y pasivos de sus sucursales, deberá solicitar autorización a la Secretaría de Hacienda y Crédito Público y demás autoridades competentes, en términos de lo previsto por los artículos 42 fracción III y 87 de la Ley de Instituciones de Crédito y demás disposiciones aplicables a las entidades paraestatales de la Administración Pública Federal.
 
-IV. Fundamento legal;
+La Sociedad designará domicilio convencional en los actos que realice y en los contratos que celebre.
 
-V. Hoja de firmas y rúbricas de los integrantes del Comité; y
+###### Artículo 6o.
 
-VI. Sello de la dependencia, en su caso.
+La duración de la Sociedad será indefinida.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE ENERO DE 2009)</small>
+### CAPITULO SEGUNDO. Del Capital Social
 
-###### Artículo 4.
+###### Artículo 7o.
 
-El COCOE se integrará de la forma siguiente:
+El capital social de la Sociedad es de $10,000'000,000.00 (diez mil millones de pesos 00/100 M.N.). Dicho capital social estará representado por 6,600 (seis mil seiscientos) certificados de aportación patrimonial de la Serie "A", con valor nominal de $1'000,000.00 (un millón de pesos 00/100 M.N.) cada uno, y por 3,400 (tres mil cuatrocientos) certificados de aportación patrimonial de la Serie "B", con valor nominal de $1'000,000.00 (un millón de pesos 00/100 M.N.) cada uno.
 
-I. Un Presidente, que será el Secretario de Desarrollo Social del Gobierno del Estado de México;
+El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito.
 
-II. Un Secretario Técnico, que será el Contralor Interno;
+###### Artículo 8o.
 
-III. Ocho Vocales, que serán los titulares de las unidades administrativas siguientes:
+Cuando la Sociedad anuncie su capital social, deberá al mismo tiempo anunciar su capital pagado.
 
-a) Subsecretaría de Desarrollo Regional Valle de Toluca;
+###### Artículo 9o.
 
-b) Subsecretaría de Desarrollo Regional Valle de México, Zona Nororiente;
+Los certificados de aportación patrimonial serán títulos de crédito nominativos, en los términos del artículo 32 de la Ley de Instituciones de Crédito, divididos en dos series.
 
-c) Subsecretaría de Desarrollo Regional Valle de México, Zona Oriente;
+La serie "A" representará en todo tiempo el sesenta y seis por ciento del capital de la Sociedad, sólo será suscrita por el Gobierno Federal, se emitirá en un título único que no llevará cupones, el cual será intransmisible y en ningún caso podrá cambiar su naturaleza o los derechos que confiere al Gobierno Federal como titular de los mismos.
 
-d) Dirección General de Programas Sociales;
+La serie "B" representará el treinta y cuatro por ciento restante del capital social y podrá ser suscrita por el Gobierno Federal, por los gobiernos de las entidades federativas y municipios, o por personas físicas o morales mexicanas de los sectores social y privado.
 
-e) Dirección General de Inversión para el Desarrollo Social;
-
-f) Unidad de Asuntos Jurídicos;
-
-g) Unidad de Información, Planeación, Programación y Evaluación;
-
-h) Coordinación de Administración y Finanzas.
-
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
-
-IV. El Director General de Control y Evaluación, de la Secretaría de la Contraloría, con carácter de Vocal.
-
-###### Artículo 5.
-
-El Comité podrá convocar a invitados especiales, cuando se estime que puedan hacer aportaciones sustantivas para el desarrollo de los trabajos del mismo.
-
-El Secretario de la Contraloría, será invitado permanente del Comité y podrá asistir a las sesiones cuando así lo decida.
-
-> <small>(REFORMADO, G.G. 26 DE ENERO DE 2009)</small>
-
-###### Artículo 6.
-
-Todos los integrantes del Comité tendrán derecho a voz y voto, a excepción del Vocal representado por el Director General de Control y Evaluación, del Secretario Técnico y los Invitados Especiales, quienes tendrán derecho a voz, pero no a voto; en caso de empate, el Presidente tendrá voto de calidad.
-
-###### Artículo 7.
-
-Cada miembro propietario del Comité, designará por escrito un suplente, el cual deberá tener la jerarquía inmediata inferior y que actuará como propietario, en las ausencias temporales de éste, su cargo será honorífico.
-
-###### Artículo 8.
-
-Los integrantes del Comité tendrán la misma responsabilidad, jerarquía y facultad para opinar y sugerir en los aspectos de control que incidan sobre las actividades de la Secretaría, conforme a las atribuciones que les señala la Ley Orgánica de la Administración Pública del Estado de México, así como el Reglamento Interior y el Manual General de Organización de la Secretaría de Desarrollo Social del Gobierno del Estado de México.
-
-### CAPITULO SEGUNDO. DEL FUNCIONAMIENTO DEL COMITÉ
-
-> <small>(REFORMADO, G.G. 26 DE ENERO DE 2009)</small>
-
-###### Artículo 9.
-
-El COCOE es un órgano colegiado de análisis y evaluación, para fortalecer el control interno de las Unidades Administrativas que integran la SEDESEM así como de los Organismos Auxiliares sectorizados, sin perjuicio de las responsabilidades de aquéllas instancias que por ley o normatividad deban realizar tareas de control y tiene como objetivos:
-
-I. Coadyuvar al cumplimiento de los objetivos y metas interinstitucionales mediante la implementación de actividades que fortalezcan el control interno de la SEDESEM.
-
-II. Impulsar la eficiencia, eficacia, transparencia y legalidad en la actuación de la SEDESEM, a través del control interno.
+Los certificados de aportación patrimonial de la Serie "B" llevarán transcritas las disposiciones contenidas en los artículos 33, 34, 35 y 36 de la Ley de Instituciones de Crédito y serán firmados por dos consejeros que determine el Consejo Directivo de entre los representantes de la Serie "A" de los certificados de aportación patrimonial. Estas firmas podrán ser impresas con facsímil, debiendo depositarse las firmas originales en el Registro Público de Comercio del domicilio de la Sociedad.
 
 ###### Artículo 10.
 
-El funcionamiento del Comité será de carácter permanente, teniendo como ámbito de competencia la actuación de las unidades administrativas que conforman a la SEDESEM, y de los organismos auxiliares sectorizados, en términos de la normatividad aplicable.
+La Sociedad podrá emitir certificados provisionales nominativos, que deberán canjearse en un plazo no mayor a un año por títulos definitivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE ENERO DE 2009)</small>
+Los títulos provisionales y los definitivos deberán contener todos los datos necesarios para que su tenedor pueda conocer y ejercitar los derechos que el certificado le confiere.
 
 ###### Artículo 11.
 
-De manera enunciativa y no limitativa, el COCOE tendrá las funciones siguientes:
+La suscripción, tenencia y circulación de los certificados de aportación patrimonial se sujetarán en todo tiempo a lo previsto por la Ley de Instituciones de Crédito, a la propia Ley Orgánica y a las disposiciones siguientes:
 
-I. Contribuir con la transparencia de la gestión y rendición de cuentas, mediante la generación de instrumentos y mecanismos de control;
+I. El título definitivo en el que consten los certificados de aportación patrimonial Serie "A" de esta Sociedad, deberá expresar y contener:
 
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+a) Nombre del tenedor;
 
-II. Formular e implementar acciones específicas para fortalecer los mecanismos de control interno de la SEDESEM y darles seguimiento;
+b) La denominación y domicilio de la Sociedad;
 
-III. Auxiliar a las unidades administrativas en el seguimiento de acuerdos sobre los asuntos de control, auditoría y evaluación, procurando agilidad, contenido técnico y objetividad en la toma de decisiones;
+c) La mención expresa de ser certificados de aportación patrimonial;
 
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+d) El importe del capital social de la Sociedad, el número de certificados correspondientes a la Serie "A" y el valor nominal de los certificados de aportación patrimonial;
 
-IV. Conocer el seguimiento realizado a las observaciones y recomendaciones emitidas por instancias fiscalizadoras, para establecer, en su caso, las medidas y acuerdos necesarios para su atención;
+e) La mención específica de pertenecer a la Serie "A" y la indicación que la misma representa el sesenta y seis por ciento del capital social de la Institución emisora;
 
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+f) La firma autógrafa o facsimilar de los miembros del Consejo Directivo.
 
-V. Orientar acciones en materia de control interno, previo análisis del diagnóstico que se elabore para tal efecto, a fin de agilizar la solución de los asuntos de su competencia;
+II. Los títulos definitivos en que consten los certificados de aportación patrimonial Serie "B" de esta Sociedad, deberán expresar y contener:
 
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+a) Nombre, denominación o razón social y domicilio del tenedor o tenedores, Registro Federal de Contribuyentes y, en su caso, su objeto social;
 
-VI. Dar seguimiento al cumplimiento y avance de los compromisos gubernamentales, procesos de mejoramiento de la calidad, y otros programas vinculados a la actividad institucional;
+b) La denominación y domicilio de la Sociedad;
 
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
+c) La mención expresa de ser certificados de aportación patrimonial;
 
-VII. Aprobar el Reglamento de Operación del Comité, y en su casó las modificaciones, reformas o adiciones al mismo;
+d) El importe del capital social de la Sociedad, el número de certificados correspondientes a la Serie "B" y el valor nominal de los certificados de aportación patrimonial;
 
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+e) La mención específica de pertenecer a la Serie "B" y la indicación que la misma representa el treinta y cuatro por ciento del capital social de la Institución emisora, así como el número progresivo que permita la individualización de cada certificado;
 
-VIII. Planear, programar y coordinar la implementación y operación del MICI, cuya ejecución podrá efectuarse por medio de grupos de trabajo o en equipos necesarios;
+f) Las transcripciones que para estos títulos señalan los dos últimos párrafos del artículo 10 y el artículo 13 de este Reglamento Orgánico, y
 
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+g) La firma autógrafa o facsimilar de los miembros del Consejo Directivo que conforme al último párrafo del artículo 9o. de este Reglamento Orgánico puedan suscribir tales títulos.
 
-IX. Crear comisiones de atención de actividades específicas en materia de Control. Interno;
+Cada certificado de aportación patrimonial Serie "B", es indivisible, y en consecuencia cuando haya varios propietarios de un mismo certificado, nombrarán un representante común, y si no se pusieren de acuerdo, el nombramiento será hecho por la autoridad judicial competente;
 
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
+La Sociedad dejará de inscribir en el registro de certificados de aportación patrimonial Serie "B" a que se refiere el artículo 36 de la Ley de Instituciones de Crédito, las transmisiones que se efectúen sin ajustarse a lo establecido en la citada Ley y a lo previsto en este artículo, y
 
-X. Establecer mecanismos de autoevaluación y analizar los resultados que se obtengan;
-
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
-
-XI. Promover el desarrollo de herramientas y mecanismos orientados al cumplimiento de las disposiciones de racionalidad, austeridad y disciplina presupuestal;
-
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
-
-XII. Autorizar la participación de invitados a las sesiones del COCOE; y
-
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
-
-XIII. Las demás necesarias para el logro de los objetivos del COCOE.
+La Secretaría de Hacienda y Crédito Público, conforme a lo previsto en el artículo 9o. de la Ley Orgánica de la Sociedad, podrá autorizar la adquisición de certificados de la citada Serie "B" en una proporción mayor al cinco por ciento del capital pagado de la Sociedad, a las entidades de la Administración Pública Federal y los gobiernos de las entidades federativas y de los municipios.
 
 ###### Artículo 12.
 
-Es facultad del Comité estudiar sobre aspectos prioritarios y proponer toda clase de acciones preventivas y correctivas a los asuntos presentados en materia de control y evaluación.
+En ningún momento podrán participar en forma alguna en el capital de la Sociedad, personas físicas o morales extranjeras, ni sociedades mexicanas en cuyos estatutos no figure cláusula de exclusión directa e indirecta de extranjeros.
+
+Las personas que contravengan lo dispuesto en este artículo perderán en favor del Gobierno Federal de los Estados Unidos Mexicanos la participación de que se trate.
 
 ###### Artículo 13.
 
-El Comité deberá sesionar trimestralmente en los términos establecidos en el presente Reglamento.
+La Sociedad llevará un registro de los certificados de aportación patrimonial Serie "B" y considerará como propietarios de éstos a quienes aparezcan inscritos como tales.
+
+El citado registro contendrá el nombre, domicilio y registro federal de contribuyentes del titular, así como su ocupación principal y, en su caso, objeto social, la indicación de los certificados que le pertenezcan, expresándose los números y demás particularidades e igualmente, los datos relativos a las transmisiones que se realicen en los términos del artículo 36 de la Ley de Instituciones de Crédito.
 
 ###### Artículo 14.
 
-Para opinar sobre los asuntos presentados ante el Comité, éstos serán soportados por los análisis cualitativos y/o cuantitativos que amerite el caso, así como por la documentación soporte correspondiente que el propio Comité juzgue satisfactorio.
+En los casos en que se aumente el capital pagado se observará lo siguiente:
 
-### CAPITULO PRIMERO. DE LAS ATRIBUCIONES DE CARÁCTER GENERAL
+I. Los titulares de los certificados de aportación patrimonial de la Serie "B" podrán adquirir los que correspondan al acuerdo adoptado, en igualdad de condiciones y en proporción al número de certificados mediante la entrega del cupón correspondiente, y su pago en efectivo, y
+
+II. Transcurrido el plazo que el Consejo Directivo señale, que no podrá ser inferior a treinta días naturales computables a partir de la fecha en que se publique en el Diario Oficial de la Federación el acuerdo del propio Consejo Directivo, los certificados no adquiridos de la Serie "B" se colocarán de manera directa por la Sociedad, observando lo previsto en el artículo 34 de la Ley de Instituciones de Crédito.
+
+### CAPITULO TERCERO. De la Administración y Vigilancia
 
 ###### Artículo 15.
 
-Cualquier integrante del Comité podrá proponer modificaciones por situaciones no previstas en este Reglamento, las cuales deberán ser aprobadas por todos los miembros del Comité y serán sometidas a la autorización del mismo y posteriormente ser publicadas en la Gaceta del Gobierno.
-
-## TÍTULO SEGUNDO. DE LAS ATRIBUCIONES DE LOS INTEGRANTES DEL COMITÉ
+La administración de la Sociedad estará encomendada a un Consejo Directivo, y a un Director General, en sus respectivas esferas de competencia, de conformidad con su Ley Orgánica.
 
 ###### Artículo 16.
 
-Todos los integrantes e invitados deberán cumplir con los acuerdos tomados durante la sesión del Comité; así como, las obligaciones que por su función dentro del mismo les corresponda, proporcionando oportuna y adecuadamente la información y documentación solicitada por éste, a través del Secretario Técnico.
+El Consejo Directivo estará integrado por siete consejeros distribuidos de la siguiente forma:
+
+I. Cuatro consejeros representarán a la Serie "A" de certificados de aportación patrimonial que serán:
+
+a) El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo;
+
+b) El Subsecretario de Hacienda y Crédito Público;
+
+c) El Secretario de Desarrollo Social, y
+
+d) El Gobernador del Banco de México.
+
+En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá el carácter de Presidente del Consejo Directivo.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
+
+Los titulares de las dependencias mencionadas designarán como suplentes a servidores públicos que tengan al menos nivel de director general. Tratándose del Gobernador del Banco de México, lo será el Subgobernador que designe el propio Gobernador.
+
+II. Dos consejeros de la Serie "B" que serán designados por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público. Los nombramientos deberán recaer en personas que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos, y
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2005)</small>
+
+III. Un consejero de la serie "B" designado por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, que tendrá el carácter de consejero independiente. El nombramiento de consejero independiente deberá recaer en persona de nacionalidad mexicana que, por sus conocimientos, honorabilidad y prestigio profesional, sea ampliamente reconocido. Dicho consejero deberá observar lo señalado en el último párrafo del artículo 17 de la Ley Orgánica.
+
+El consejero independiente deberá asistir a todas las sesiones del Consejo Directivo y no tendrá suplente. En caso de que dejare de asistir, sin causa justificada a juicio del Consejo Directivo, al treinta por ciento o más de las sesiones que se hubieren convocado en un mismo ejercicio, podrá ser removido de su cargo, en cuyo caso se designará nuevo consejero conforme a lo dispuesto en el párrafo anterior.
+
+El Consejo podrá invitar a sus sesiones a personas cuyas actividades estén relacionadas con el objeto social de la Sociedad.
+
+La designación y renuncia de los consejeros se hará del conocimiento del Consejo Directivo de la Sociedad, a través de su Secretario.
 
 ###### Artículo 17.
 
-Los participantes se obligan a guardar secreto profesional sobre la información de la SEDESEM y a no utilizar en beneficio propio o de intereses ajenos al mismo, aún después de que se concluya su intervención en el Comité.
+Las sesiones del Consejo Directivo podrán ser ordinarias o extraordinarias; las ordinarias deberán celebrarse cuando menos cuatro veces al año en los días y horas que previamente acuerde el propio Consejo; en caso necesario se celebrarán sesiones extraordinarias por acuerdo del Presidente o a petición de cuando menos dos consejeros de la Serie "A".
+
+Los consejeros serán convocados por escrito para la celebración de las sesiones, con por lo menos siete días naturales en el caso de las ordinarias y de por lo menos 3 días hábiles en el caso de las sesiones extraordinarias; en ambos casos, la documentación e información relacionada con los temas a tratar durante la sesión será entregada con la misma antelación en que se convoca a ésta.
+
+El Consejo Directivo sesionará válidamente con la asistencia de por lo menos cuatro de sus miembros, siempre y cuando se cuente con la presencia de dos de los consejeros de la Serie "A" y uno de ellos sea el Presidente del Consejo.
+
+Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el Presidente voto de calidad para el caso de empate.
+
+En el Orden del Día de las sesiones del Consejo Directivo deberán listarse los asuntos a tratar en las mismas, sin incluir asuntos generales.
 
 ###### Artículo 18.
 
-Los integrantes tienen la facultad de solicitar al Secretario Técnico, la inclusión de asuntos en el orden del día, siempre y cuando sean competencia del Comité, con una anticipación no menor de diez días hábiles en los casos de sesiones ordinarias y cinco días hábiles para las sesiones extraordinarias; a la solicitud referida, se deberá anexar el soporte documental que requiera.
+No podrán ser consejeros:
+
+I. Las personas que se encuentren en los casos señalados por los artículos 16 y 17 de la Ley Orgánica;
+
+II. Dos o más personas que tengan entre sí parentesco hasta el tercer grado por consanguinidad o por afinidad;
+
+III. Los empleados o directivos de la Sociedad;
+
+IV. Los asesores de la Sociedad o socios o empleados de firmas que funjan como asesores o consultores de la Sociedad o sus afiliadas y que sus ingresos dependan significativamente de esta relación contractual;
+
+V. Los clientes, proveedores, deudores o acreedores de la Sociedad o socios o empleados de una sociedad que sea cliente, proveedor, deudor o acreedor importante;
+
+VI. El cónyuge y las personas que tengan parentesco por consanguinidad o afinidad hasta el tercer grado, con alguna de las personas a que se refieren las fracciones III a V anteriores.
+
+Si alguno de los consejeros designados llegare a encontrarse comprendido, durante el ejercicio de su cargo en cualquiera de los supuestos anteriores, será sustituido por su suplente, por todo el tiempo que dure el impedimento y no se haga designación del consejero propietario.
+
+En aquellas operaciones de la Sociedad en las que los consejeros tuviesen un interés, deberán abstenerse de toda intervención.
+
+Los consejeros están obligados en todo tiempo a lo previsto por los artículos 117 y 118 de la Ley de Instituciones de Crédito.
 
 ###### Artículo 19.
 
-Cualquier integrante del Comité podrá solicitar al Secretario Técnico, debidamente justificada, la realización de una sesión extraordinaria con una anticipación de cinco días hábiles, anexando a su solicitud soporte del asunto a tratar.
+No podrán ser consejeros independientes, las personas que se ubiquen en alguno de los supuestos que se establecen en el artículo anterior de este Reglamento Orgánico, así como las personas que, sin ser empleados o directivos y siendo tenedores de certificados de aportación patrimonial de la Sociedad, tengan poder de mando sobre los directivos de la misma.
 
 ###### Artículo 20.
 
-Es facultad de los integrantes del Comité proponer la asistencia de invitados, cuando así lo juzgue conveniente, justificando previamente su participación en el mismo, para lo cual deberá apegarse a lo establecido en este Reglamento.
+El Consejo Directivo designará a su Secretario y Prosecretario de entre los servidores públicos de la Sociedad.
+
+El Secretario o, en su caso, el Prosecretario del Consejo Directivo levantará las actas de sesiones, las que se asentarán en el libro de actas que para tal efecto se lleve y deberán ser firmadas por el Presidente y por el Secretario o el Prosecretario. Asimismo, autorizará las copias de dichas actas, suscribirá las convocatorias respectivas, expedirá las certificaciones que correspondan y llevará la lista de los asistentes a las sesiones del Consejo.
 
 ###### Artículo 21.
 
-Cualquier integrante del Comité podrá emitir su opinión sobre los asuntos que se sometan a su consideración.
+El Consejo Directivo dirigirá a la Sociedad en los términos de lo previsto por el artículo 42 y demás relativos de la Ley de Instituciones de Crédito.
+
+El Consejo Directivo podrá acordar la realización de las operaciones inherentes al objeto de la Sociedad.
+
+Los acuerdos que, en su caso, dicte respecto de las operaciones previstas en las fracciones VI y IX del artículo 46 de la Ley de Instituciones de Crédito, deberán considerar las propuestas del Director General.
+
+Las facultades indelegables del Consejo Directivo, se ejercerán en los términos previstos en las disposiciones aplicables.
+
+También, serán facultades indelegables del Consejo Directivo las que se indican en el artículo 20 de la Ley Orgánica.
 
 ###### Artículo 22.
 
-Son atribuciones del Presidente:
-
-I. Instalar, presidir y clausurar las sesiones del Comité en el lugar, fecha y hora indicados en las convocatorias;
-
-II. Proporcionar los recursos humanos y materiales que juzgue necesarios para el debido desahogo de los acuerdos adoptados por el Comité, de conformidad con la disponibilidad presupuestaria;
-
-III. Instruir al Secretario Técnico a fin de emitir las convocatorias respectivas;
-
-IV. Vigilar que se traten en el Comité sólo asuntos que competan al mismo y que las decisiones y acuerdos tomados queden asentados en el acta correspondiente;
-
-V. Informar al Comité de Control y Evaluación trimestralmente sobre los avances y cumplimientos de acuerdos de las sesiones del mismo;
-
-VI. Apelar al recurso de la dispensa de la lectura, de no existir observaciones en el acta de la sesión anterior;
-
-VII. Autorizar la participación de invitados en las sesiones del Comité en los términos prescritos en este Reglamento;
-
-VIII. Proponer la creación de comisiones especiales de trabajo para la atención y solución de asuntos especiales o de tareas específicas;
-
-IX. Evaluar la procedencia de la realización de sesiones extraordinarias, solicitadas por los integrantes del Comité, de conformidad con lo dispuesto en el presente Reglamento;
-
-X. Proponer el Reglamento de Operación y en su caso las modificaciones propuestas por el o los integrantes del Comité, una vez aprobado por el Comité, expedirlo para su debida publicación en el periódico oficial "Gaceta del Gobierno".
+El Director General será designado por el Ejecutivo Federal a través del Secretario de Hacienda y Crédito Público, debiendo recaer ese nombramiento en persona que sea de reconocida honorabilidad y que cuente con amplios conocimientos y experiencia en el sistema financiero y en materia administrativa. Esta persona deberá reunir los requisitos que establece el artículo 24 de la Ley de Instituciones de Crédito.
 
 ###### Artículo 23.
 
-Son atribuciones del Secretario Técnico:
-
-I. Preparar y organizar las sesiones ordinarias y extraordinarias del Comité;
-
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
-
-II. Convocar a los integrantes e invitados del COCOE, haciéndoles llegar el orden del día y la información relativa de los asuntos a tratar;
-
-III. Proponer y vigilar que se ejecuten las medidas específicas para la aplicación de las acciones aprobadas en cada sesión del Comité;
-
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
-
-IV. Fungir como responsable del escrutinio en los asuntos que sean sometidos a votación;
-
-V. Preparar la documentación soporte de los asuntos que se van a tratar en las sesiones del Comité;
-
-VI. Elaborar las actas de las sesiones del Comité, así como integrar la documentación soporte para su archivo y control;
-
-VII. Presentar para su aprobación, en la última sesión del Comité del ejercicio de que se trate, el calendario para la celebración de las sesiones ordinarias del ejercicio siguiente;
-
-VIII. Levantar las actas correspondientes en los casos en que las sesiones del Comité, no reúnan el quórum;
-
-IX. Proporcionar a todos los integrantes del Comité que así lo soliciten, una copia del acta, una vez que ésta haya sido firmada por todos los asistentes;
-
-X. Coordinar el apoyo que prestará la SEDESEM, para el desempeño de las comisiones especiales de trabajo que designe el Comité y supervisar su funcionamiento;
-
-XI. Mantener actualizado el directorio correspondiente de los integrantes del Comité;
-
-XII. Presentar en cada sesión ordinaria del Comité, un informe de los asuntos relevantes en materia de control y auditoría correspondiente a la SEDESEM. En éste informe se hará referencia de manera enunciativa y no limitativa a los siguientes asuntos:
-
-- Observaciones de auditoría interna pendientes de atender, incluyendo las de ejercicios anteriores, las medidas preventivas y correctivas propuestas, las fechas acordadas con el área responsable para su atención y las razones por las que aún se encuentran pendientes de solventar.
-
-- Análisis del cumplimiento por parte de la SEDESEM de las medidas de racionalidad, austeridad y disciplina presupuestal, emitidas por el Gobierno Estatal.
-
-- Cumplimiento de metas programáticas, de acuerdo con la información proporcionada por la Unidad de Información, Planeación, Seguimiento y Evaluación.
-
-- Evaluación de los logros alcanzados y relación de los asuntos que se encuentren pendientes de atender.
-
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
-
-XIII. Elaborar la propuesta de orden del día y someterla a consideración del Presidente;
-
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
-
-XIV. Pasar lista de asistencia y declarar el quórum, en su caso; anunciar la segunda convocatoria cuando no se cuente con la asistencia requerida;
-
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
-
-XV. Conocer el informe de resultados del MICI y presentarlos al Comité para su análisis; y
-
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
-
-XVI. Presentar una evaluación anual de los logros alcanzados a través del Comité.
+El Director General tendrá a su cargo la administración y la representación legal de la Sociedad. Sin perjuicio de las atribuciones que correspondan al Consejo Directivo, tendrá las facultades y funciones a que se refiere el artículo 22 de la Ley Orgánica.
 
 ###### Artículo 24.
 
-Los vocales se constituirán dentro del Comité en una instancia técnica de consulta y apoyo con relación al ámbito de sus funciones, por lo que deberán asesorar, emitir las opiniones que el mismo les requiera e implementar las medidas necesarias para el cumplimiento de los acuerdos.
+La designación de Delegados Fiduciarios y de los servidores públicos de la Sociedad que ocupen cargos con las dos jerarquías inmediatas inferiores a la del Director General, se hará con sujeción a lo dispuesto por los artículos 24 y 43 de la Ley de Instituciones de Crédito.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
 
 ###### Artículo 25.
 
-Son atribuciones de los vocales:
-
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
-
-I. Proponer medidas que fortalezcan las funciones del Comité;
-
-II. Opinar y presentar argumentos suficientes y necesarios que permitan al Comité tomar decisiones sobre los asuntos de la materia y votar en las sesiones;
-
-III. Actuar como consultores competentes a cualquier problema y/o situación derivada de la aplicación de las disposiciones legales de dichas funciones;
-
-IV. Vigilar el cumplimiento de los acuerdos tomados por el Comité en el ámbito de su competencia;
-
-V. Promover en las áreas de su competencia, la atención a las observaciones determinadas en las auditorías internas y externas;
-
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
-
-VI. Coadyuvar en la planeación, programación, y coordinación del MICI, así como integrar y presentar ante el Comité sus resultados;
-
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
-
-VII. Dar seguimiento, en las áreas de su competencia, a las observaciones o recomendaciones determinadas en las auditorías practicadas por las instancias fiscalizadoras internas y externas;
-
-> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2009)</small>
-
-VIII. Las demás necesarias para el logro de los objetivos del Comité.
-
-> <small>(ADICIONADO, G.G. 26 DE ENERO DE 2009)</small>
-
-###### Articulo 25 Bis.
-
-Son atribuciones del Director General de Control y Evaluación en su carácter de Vocal:
-
-II. Asesorar al COCOE sobre la implementación y funcionamiento del MICI.
-
-II. Opinar en materia de control y evaluación, respecto a la forma en que se conducen las actividades de la SEDESEM, conforme al Programa Sectorial.
-
-III. Proponer la mejora continua en el Programa de Desarrollo y Calidad Institucional.
-
-### CAPITULO QUINTO. DE LA PARTICIPACIÓN DE LOS INVITADOS
+La vigilancia de la Sociedad estará encomendada a dos comisarios designados uno por la Secretaría de la Función Pública y el otro por los consejeros de la serie "B". Por cada comisario se nombrará un suplente.
 
 ###### Artículo 26.
 
-Los Vocales invitados, que serán los Titulares de los organismos auxiliares, sectorizados a la Secretaría de Desarrollo Social.
+Para el cumplimiento de las facultades y obligaciones que la Ley les confiere, los comisarios podrán ejercer conjunta o separadamente las funciones siguientes:
+
+I. Solicitar al Director General una información mensual que incluya por lo menos un estado de la situación financiera y un estado de resultados de la Sociedad;
+
+II. Realizar un examen de las operaciones, documentación, registro, y demás constancias, en el grado y extensión que sea necesario para efectuar la vigilancia interna de la Sociedad y para rendir fundadamente el dictamen a que se refiere la fracción siguiente;
+
+III. Rendir anualmente al Consejo Directivo un informe respecto a la veracidad, suficiencia y razonabilidad de la información presentada por el Director General al propio Consejo Directivo debiendo incluir su opinión sobre si las políticas y criterios contables, ejercicio de gasto corriente y de inversión, y de información seguidos por la Sociedad, son adecuados y suficientes, de conformidad con lo dispuesto por la Ley de Instituciones de Crédito; si su aplicación es consistente en la información presentada al Consejo Directivo, y si como consecuencia dicha información refleja en forma veraz y suficiente la situación financiera y de resultados de la Sociedad;
+
+IV. Hacer que se inserten en el orden del día de las sesiones del Consejo Directivo, los puntos que crean pertinentes;
+
+V. Asistir con voz, pero sin voto, a todas las sesiones del Consejo Directivo a las cuales deberán ser convocados, y
+
+VI. Vigilar en cualquier tiempo las operaciones de la Sociedad.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
+
+La actuación de los comisarios se sujetará en todo tiempo a lo previsto por los artículos 117 y 118 de la Ley de Instituciones de Crédito. En el caso del comisario designado por la Secretaría de la Función Pública, las funciones enlistadas en este artículo se establecen sin perjuicio de las que le atribuyen otros ordenamientos legales.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
 
 ###### Artículo 27.
 
-Los miembros del Comité que requieran la participación de algún invitado deberán solicitar al Secretario Técnico emita la invitación correspondiente para que asista a la sesión del Comité a más tardar diez días hábiles antes de la sesión ordinaria y cinco días hábiles antes en caso de sesiones extraordinarias.
+El comisario designado por la Secretaría de la Función Pública, durará en su cargo hasta en tanto no sea revocado su nombramiento, y el designado por los consejeros de la serie "B", por el término de un ejercicio social, pudiendo ser nombrado nuevamente.
 
-### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL PRESIDENTE
+Los consejeros de los certificados de la serie "B" designarán y removerán al comisario correspondiente a esta serie de certificados.
+
+El comisario designado por los consejeros de la serie "B" continuará en el desempeño de sus funciones, aun cuando concluya el periodo para el que haya sido nombrado, mientras no se haga nueva designación y el sustituto tome posesión de su cargo.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 24 DE ENERO DE 2005)</small>
+
+### CAPITULO CUARTO. De la Comisión Consultiva
 
 ###### Artículo 28.
 
-Los invitados formarán parte de las comisiones especiales cuando así lo determine el Comité, apoyando y ejecutando dentro del ejercicio de sus funciones todas aquéllas acciones que les requieran para el logro eficaz de sus objetivos.
+(DEROGADO, D.O.F. 24 DE ENERO DE 2005)
 
 ###### Artículo 29.
 
-Los invitados del Comité formarán parte del mismo con voz pero sin voto, en asuntos que tengan que ver con el ámbito de su competencia.
+(DEROGADO, D.O.F. 24 DE ENERO DE 2005)
 
-### CAPITULO SEXTO. DE LAS OBLIGACIONES DE LOS INTEGRANTES DEL COMITÉ
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE ENERO DE 2005)</small>
 
-### CAPITULO TERCERO. DE LAS ATRIBUCIONES DEL SECRETARIO TECNICO
+### CAPITULO QUINTO. Del Comité de Recursos Humanos y Desarrollo Institucional
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ENERO DE 2005)</small>
 
 ###### Artículo 30.
 
-Los miembros del Comité deberán cumplir en el ejercicio de sus funciones, con las obligaciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, con el Reglamento Interior de la SEDESEM, y con las demás disposiciones legales y normativas aplicables.
+La Sociedad tendrá un comité de recursos humanos y desarrollo institucional, que estará integrado de la siguiente forma: dos representantes de la Secretaría de Hacienda y Crédito Público, que serán el Subsecretario de Egresos y el Subsecretario de Hacienda y Crédito Público; el consejero a que se refiere el artículo 14, fracción III, de la Ley Orgánica, designado por el Consejo Directivo; una persona que, por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos; un representante de la Secretaría de la Función Pública que será el Subsecretario de Desarrollo y Simplificación Administrativa; el Director General de la Sociedad, así como un representante de la Comisión Nacional Bancaria y de Valores, quien tendrá voz pero no voto. De entre los miembros del Comité se designará a su presidente y sus decisiones se tomarán por mayoría de votos. El Subsecretario de Hacienda y Crédito Público contará con voto de calidad en caso de empate. Asimismo, el Comité contará con un secretario técnico, quien tendrá voz, pero no voto.
 
-### CAPITULO CUARTO. DE LAS ATRIBUCIONES DE LOS VOCALES
+El Director General de la Sociedad se abstendrá de participar en las sesiones del Comité, que tengan por objeto emitir opiniones o recomendaciones con respecto a su sueldo, prestaciones económicas y de seguridad social.
+
+El Comité se reunirá cuantas veces sea necesario a petición del Director General, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
+
+Este Comité opinará y propondrá, en términos de las condiciones generales de trabajo, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2005)</small>
+
+Salvo el consejero independiente y el profesional con experiencia en el área de recursos humanos, los demás miembros del Comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inferior inmediato siguiente y deberán tener cuando menos nivel de director general.
+
+### CAPITULO SEXTO. Del Ejercicio Social y la Distribución de Utilidades
 
 ###### Artículo 31.
 
-Son obligaciones de los miembros del Comité:
-
-I. Asistir puntualmente y con carácter obligatorio a las sesiones del Comité;
-
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
-
-II. Dar cumplimiento y seguimiento a los acuerdos tomados durante las sesiones del Comité proporcionando oportuna y adecuadamente la información y documentación solicitada por éste, a través del Secretario Técnico;
-
-III. Proporcionar la información y documentación que le sean solicitadas sobre los asuntos que integran el orden del día y el seguimiento de los acuerdos;
-
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2009)</small>
-
-IV. Efectuar de forma pronta y expedita, en el ámbito de su competencia, las gestiones que se requieran para la atención de las observaciones determinadas en las auditorías internas y externas.
-
-> <small>(ADICIONADO, G.G. 26 DE ENERO DE 2009)</small>
-
-###### Artículo 31 Bis.
-
-El titular de la Unidad de Información, Planeación, Programación y Evaluación, deberá presentar en cada sesión ordinaria la evaluación sobre los avances programáticos presupuestales.
-
-### CAPITULO SEPTIMO. DE LAS CONVOCATORIAS
+El ejercicio social iniciará el primero de enero y terminará el treinta y uno de diciembre de cada año.
 
 ###### Artículo 32.
 
-Las convocatorias a las sesiones ordinarias del Comité, se realizarán por medio de oficio dirigido a cada uno de los integrantes del mismo, firmado por el Presidente y el Secretario Técnico del Comité y deberá incluir el lugar, día y hora en que se celebrará la sesión y se notificará por lo menos con cinco días hábiles de anticipación, dando a conocer el orden del día, con la documentación complementaria de los asuntos a tratar.
+El Consejo Directivo acordará la forma y fecha en la cual los tenedores de los certificados de aportación patrimonial podrán cobrar las utilidades que les correspondan y mandará anunciar oportunamente la fecha y las utilidades acordadas, mediante publicación en un periódico de circulación nacional.
 
-###### Artículo 33.
-
-Las convocatorias a las sesiones extraordinarias del Comité, se realizarán por medio de oficio dirigido a cada uno de los integrantes del mismo, firmado por el Presidente y el Secretario Técnico del Comité y deberá incluir el lugar, día y hora en que se celebrará la sesión y se notificará por lo menos con tres días hábiles de anticipación, dando a conocer el orden del día, con la documentación complementaria de los asuntos a tratar.
-
-###### Artículo 34.
-
-Se podrá convocar en un mismo citatorio, por primera y segunda vez, siempre que medie por lo menos, media hora entre la señalada para la que tenga lugar la primera y la que se fije para la segunda.
-
-###### Artículo 35.
-
-La convocatoria a los invitados se efectuará con la misma anticipación fijada para los integrantes del Comité, dándoles a conocer el orden del día y acompañando la información complementaria de los asuntos a tratar con los que tenga injerencia. En el caso de que se requiera información y documentación por parte de los invitados, relativa a los asuntos a tratar en el orden del día, se le solicitará en la convocatoria respectiva.
-
-###### Artículo 36.
-
-Tratándose de sesiones extraordinarias, solamente podrán tratarse los asuntos incluidos en la convocatoria respectiva.
-
-### CAPITULO OCTAVO. DE LAS SESIONES
-
-###### Artículo 37.
-
-El Comité sesionará trimestralmente en forma ordinaria y podrá convocar a sesiones extraordinarias, cuando lo juzgue necesario, de acuerdo a lo siguiente:
-
-I. En la última sesión del Comité del ejercicio de que se trate, deberán fijarse las fechas en las que se efectuarán las sesiones ordinarias del siguiente ejercicio fiscal;
-
-II. Las sesiones ordinarias se realizarán previa convocatoria escrita del Presidente y Secretario Técnico, quien la remitirá a los integrantes del Comité por lo menos con cinco días hábiles de anticipación, dando a conocer el orden del día, acompañado con la documentación complementaria de los asuntos a tratar;
-
-III. Las sesiones extraordinarias se realizarán previa convocatoria escrita del Presidente y Secretario Técnico, quien la remitirá a los integrantes del Comité por lo menos con tres días hábiles de anticipación, dando a conocer el orden del día, acompañado con la documentación complementaria de los puntos a tratar;
-
-IV. En los casos en que los integrantes del Comité soliciten la inclusión de asuntos en el orden del día, se deberá actuar en los términos del artículo 19 del presente Reglamento y el Secretario Técnico deberá remitir a los demás integrantes, anexo a la convocatoria, copia de la documentación soporte e información sobre el asunto que se pretenda incluir;
-
-La convocatoria a los invitados se efectuará con la misma anticipación fijada para los integrantes del Comité, dándoles a conocer el orden del día acompañando la información complementaria de los asuntos a tratar con los que tenga injerencia. En caso de que se requiera información y documentación por parte de los invitados, relativa a los asuntos a tratar en el orden del día, se le solicitará en la convocatoria correspondiente.
-
-###### Artículo 38.
-
-Para que las sesiones ordinarias y extraordinarias del Comité sean válidas, se deberá contar con la asistencia de la mitad más uno de sus integrantes, siempre y cuando entre ellos se encuentre presente el Presidente y el Secretario Técnico.
-
-###### Artículo 39.
-
-Para que la sesión pueda celebrarse en primera convocatoria, será necesaria la presencia de la mitad más uno de sus integrantes, siempre y cuando entre ellos se encuentre presente el Presidente y el Secretario Técnico.
-
-En caso de que se trate de segunda convocatoria, la sesión podrá celebrarse válidamente con el número de vocales que se encuentren siempre y cuando se cuente con la presencia del Presidente y el Secretario Técnico.
-
-###### Artículo 40.
-
-En caso de no reunirse el quórum requerido, el Secretario Técnico levantará el acta en la que se haga constar este hecho y se convocará a una nueva reunión con la expresión de esta circunstancia, en un plazo no mayor a diez días hábiles tratándose de sesiones ordinarias y cinco días hábiles para sesiones extraordinarias.
-
-###### Artículo 41.
-
-En las sesiones del Comité, los integrantes procederán a informar el avance y estado que guardan los asuntos que les hayan sido encomendados por acuerdo del Comité, centrando los trabajos en la presentación, revisión y análisis de los problemas sustantivos de la SEDESEM y que competan al Comité.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 43], G.G. 26 DE ENERO DE 2009)
-
-###### Artículo 42.
-
-Los acuerdos del Comité se aprobarán por mayoría de votos, el miembro del Comité que vote en contra, deberá fundamentar su opinión por escrito, lo cual se hará constar en el acta y anexar a la misma.
-
-En ningún caso se someterá a votación la solventación de observaciones de auditoría interna o externa, siendo el Contralor Interno o el Ente de Fiscalización que las determinó, quienes decidan si las aclaraciones o solventaciones son procedentes o no.
-
-En caso de empate, los miembros del Comité que tengan injerencia en el asunto tratado expondrán sus argumentos y la documentación que los soporta, en el orden del registro previamente establecido para el efecto, hasta que se considere suficientemente discutido el asunto y se someta a consenso. En un segundo empate, el Presidente del Comité tendrá voto de calidad.
-
-Ningún miembro del Comité podrá ser interrumpido mientras tenga la palabra, a menos que se trate de una moción de orden.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 44], G.G. 26 DE ENERO DE 2009)
-
-###### Artículo 43.
-
-Las sesiones del Comité no podrán exceder de tres horas, salvo que por mayoría de votos de sus integrantes se constituyan en sesión permanente para concluir la discusión o resolución de los asuntos pendientes.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 45], G.G. 26 DE ENERO DE 2009)
-
-###### Artículo 44.
-
-En cada sesión del Comité se levantará un acta, en la que se indicarán los acuerdos tomados y aprobados, así como el seguimiento de los acuerdos de sesiones anteriores hasta su conclusión.
-
-Los miembros del Comité firmarán el acta de dicha sesión, aceptando con ello el cumplimiento de los compromisos contraídos.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 42], G.G. 26 DE ENERO DE 2009)
-
-###### Artículo 45.
-
-El Secretario Técnico, hará llegar a cada uno de los miembros, en un plazo no mayor a cinco días hábiles contados a partir de la fecha de reunión, copia del acta.
-
-Los integrantes del Comité, en su caso, harán las observaciones que consideren pertinentes al acta, para lo cual tendrán un plazo no mayor a tres días hábiles contados a partir de la fecha de recepción de la misma para devolverla al Secretario Técnico, anexando sus comentarios.
-
-En caso de no recibirse observaciones al acta en el plazo establecido, se entenderá tácitamente aprobada.
-
-Las actas del Comité se firmarán en la sesión inmediata posterior a la de su fecha, previa lectura de la misma.
-
-###### Artículo 46.
-
-El acta de cada sesión deberá contener de manera enunciativa y no limitativa:
-
-I. Número de acta, incluyendo la palabra acta y las siglas del Comité, el número consecutivo y el año;
-
-II. Lugar y fecha donde se efectuó la sesión y la hora de inicio;
-
-III. Asistentes a la reunión, declaración de quórum;
-
-IV. Puntos del orden del día, en la secuencia en que fueron tratados y comunicados en la convocatoria;
-
-V. Se anotará la descripción y número de acuerdo;
-
-VI. Se anotará nombre y cargo del responsable del cumplimiento del acuerdo tomado, así como del plazo fijado para su atención;
-
-VII. Hora y fecha de conclusión de la sesión;
-
-VIII. Nombre y firma de los asistentes.
-
-###### Artículo 47.
-
-El Secretario Técnico, deberá conservar por lo menos dos años las actas de cada sesión y sus anexos. La documentación que soporta la información relacionada con los diferentes asuntos tratados en el Comité deberá quedar en posesión del área responsable por lo menos durante los cinco años posteriores a la fecha en que se resolvió el asunto en el Comité.
-
-Cuando algún miembro del Comité requiera la documentación señalada en el párrafo anterior, deberá solicitarla a través del Secretario Técnico, quién turnará el requerimiento al área respectiva y al recibir la respuesta, la remitirá al miembro solicitante.
+Si algún tenedor de certificados de aportación patrimonial no cobra las utilidades que le correspondan en el término de cinco años, contados a partir de la fecha designada por el Consejo Directivo, se considerará prescrito su derecho y las utilidades pasarán a favor de la Sociedad.
 
 ## TRANSITORIOS
 
-PRIMERO.- Publíquese el presente Reglamento de Operación del Comité de Control y Evaluación de la Secretaría de Desarrollo Social del Gobierno del Estado de México, en el periódico oficial "Gaceta del Gobierno".
+PRIMERO. Este Reglamento Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Este Reglamento entrará en vigor, al día siguiente de su publicación en la Gaceta del Gobierno.
+SEGUNDO. Para efectos administrativos, Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, contará con un plazo de hasta 180 días naturales, contados a partir de la entrada en vigor de este Reglamento, para ajustar su funcionamiento a las disposiciones contenidas en el presente instrumento.
 
-VALIDACIÓN:
+TERCERO. Los poderes, mandatos y representaciones otorgados y las facultades concedidas por Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo o por quien tenga facultades para ello, subsistirán en sus términos en tanto no sean modificados o revocados expresamente.
 
-LIC. ERNESTO NEMER ALVAREZ
+Los Organos de Gobierno y los servidores públicos de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, conservarán las facultades y poderes que se hubieren otorgado con anterioridad a la vigencia de este Reglamento, mientras no sean revocados expresamente.
 
-SECRETARIO DE DESARROLLO SOCIAL
+CUARTO. El capital pagado de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo a la vigencia del presente Reglamento Orgánico asciende a la suma de $10,000'000,000.00 (diez mil millones de pesos 00/100 M.N.), el cual estará distribuido en $6,600'000,000.00 (seis mil seiscientos millones de pesos 00/100 M.N.), representado por 6,600 (seis mil seiscientos) certificados de aportación patrimonial de la Serie "A", con valor nominal de $1'000,000.00 (un millón de pesos 00/100 M.N.) cada uno, y $3,400'000,000.00 (tres mil cuatrocientos millones de pesos 00/100 M.N.), representado por 3,400 (tres mil cuatrocientos) certificados de aportación patrimonial de la Serie "B", con valor nominal de $1'000,000.00 (un millón de pesos 00/100 M.N.) cada uno.
 
-PRESIDENTE
+QUINTO. Cuando el Gobierno Federal sea titular de la totalidad de certificados de aportación patrimonial de la Serie "B'' de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, la Secretaría de Hacienda y Crédito Público designará los miembros correspondientes a esa Serie en el Consejo Directivo, debiendo recaer los nombramientos en profesionales de reconocida honorabilidad, experiencia y prestigio en materias económicas, jurídicas o financieras. Tales designaciones estarán vigentes hasta en tanto los certificados de dicha Serie sean colocados por el Gobierno Federal entre tenedores distintos a éste, en una proporción no menor al 17% del capital pagado de la emisora, se procederá en los términos del presente Reglamento Orgánico a la elección y designación de los miembros definitivos del Consejo Directivo.
 
-(Rúbrica)
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
 
-C.P. ALEJANDRO TOLEDO ESCOBAR
+Asimismo, cuando el Gobierno Federal sea titular de la totalidad de certificados de aportación patrimonial de la serie "B" de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, la Secretaría de Hacienda y Crédito Público designará al Comisario correspondiente a esta serie. Dicha designación estará vigente hasta en tanto estos certificados sean colocados por el Gobierno Federal entre tenedores distintos a éste, en la proporción señalada en el párrafo anterior. Los consejeros de los certificados de la serie "B" procederán en los términos de este Reglamento Orgánico a la elección y designación del Comisario definitivo para el ejercicio social respectivo.
 
-CONTRALOR INTERNO
+SEXTO. El Director General de la Sociedad, dentro de los 30 días siguientes a la fecha en que surta efectos el presente Decreto, notificará a la Procuraduría Fiscal de la Federación, la constitución de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, a efecto de que se incorpore a la relación de las entidades paraestatales de la Administración Pública Federal.
 
-SECRETARIO TÉCNICO
+SEPTIMO. El primer ejercicio de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo concluirá el 31 de diciembre de 2002.
 
-(Rúbrica)
+México, Distrito Federal, a 8 de abril de 2002.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
 
-MTRO. FAUSTO MUCIÑO DURAN
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-SUBSECRETARIO DE DESARROLLO REGIONAL VALLE DE MEXICO
+D.O.F. 24 DE ENERO DE 2005.
 
-ZONA NORORIENTE
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-VOCAL
-
-(Rúbrica)
-
-C.P. JORGE ARREDONDO GUILLEN
-
-SUBSECRETARIO DE DESARROLLO REGIONAL VALLE DE MEXICO
-
-ZONA ORIENTE
-
-VOCAL
-
-(Rúbrica)
-
-LIC. HILARIO SALAZAR CRUZ
-
-SUBSECRETARIO DE DESARROLLO REGIONAL VALLE DE TOLUCA
-
-VOCAL
-
-(Rúbrica)
-
-ING. JUAN CARLOS ARROYO GARCIA
-
-DIRECTOR GENERAL DE PROGRAMAS SOCIALES
-
-VOCAL
-
-(Rúbrica)
-
-ARQ. ANA LETICIA RODRÍGUEZ PEÑA
-
-DIRECTORA GENERAL DE INVERSIÓN PARA EL DESARROLLO SOCIAL
-
-VOCAL
-
-(Rúbrica)
-
-LIC. JUANA B. CONTRERAS VERGARA
-
-JEFA DE LA UNIDAD DE ASUNTOS JURIDICOS
-
-VOCAL
-
-(Rúbrica)
-
-LIC. AGUSTÍN GUERRERO TRASPADERNE
-
-JEFE DE LA UIPPE
-
-VOCAL
-
-(Rúbrica)
-
-LIC. EDUARDO BARRERA VILLAR
-
-COORDINADOR DE ADMINISTRACIÓN Y FINANZAS
-
-VOCAL
-
-(Rúbrica)
-
-ATENTAMENTE
-
-LIC. ERNESTO NEMER ALVAREZ
-
-SECRETARIO DE DESARROLLO SOCIAL Y
-
-PRESIDENTE DEL COMITÉ DE CONTROL Y EVALUACION DE LA SECRETARIA
-
-(Rúbrica)
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
-
-G.G. 26 DE ENERO DE 2009.
-
-PRIMERO.- El presente Acuerdo entra en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
+SEGUNDO.- De conformidad con lo establecido en el cuarto párrafo del artículo 30 de la Ley de Instituciones de Crédito, inscríbanse las modificaciones al Reglamento Orgánico de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en el Registro Público de Comercio.
