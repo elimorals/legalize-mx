@@ -4,7 +4,7 @@ identifier: "VER-ley-de-planeacion-del-estado-de-veracruz-de-ignacio-de-la-6593"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-29"
-last_updated: "2014-08-25"
+last_updated: "2014-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE PLANEACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 29 de enero de 1987.
 
@@ -79,19 +79,27 @@ Para la formulación, instrumentación, control y evaluación del Plan, los prog
 
 La organización y funcionamiento del Sistema Estatal de Planeación Democrática y el proceso de formulación, instrumentación, control y evaluación de los planes y los programas a que se refiere esta Ley, se fijarán en el Reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 7o.
 
-El Sistema Estatal de Planeación Democrática, contará con:
+El Sistema Estatal de Planeación Democrática contará con:
 
-REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
-I.- Una estructura institucional constituida por las dependencias estatales y municipales responsables de la formulación, instrumentación, control y evaluación de los programas, y por el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave, y los Comités de Planeación Municipal, como foros de consulta en las diferentes etapas del proceso de planeación.
+l. Una estructura institucional constituida por las dependencias estatales y municipales responsables de la formulación, instrumentación, control y evaluación de los programas, por el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave, el Subcomité de Planeación para el Desarrollo Metropolitano Municipal y los Comités de Planeación Municipal como foros de consulta en las diferentes etapas del proceso de planeación.
 
 II.- Una infraestructura de apoyo constituida por las instituciones y organismos sociales y privados que participen dentro del Sistema.
 
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
+III. El Subcomité de Planeación para el Desarrollo Metropolitano Municipal se integrará con un representante del Comité de Planeación para el Desarrollo del Estado y los representantes de los Comités de Planeación Municipales de los municipios que integran las Zonas Metropolitanas, un representante del Consejo para el Desarrollo Metropolitano del Estado de Veracruz de Ignacio de la Llave (CDMVER), un representante de la Secretaría de Desarrollo Económico y Portuario del Estado de Veracruz, un representante de la Secretaría de Protección Civil del Estado de Veracruz, un representante de la Secretaría de Medio Ambiente del Estado de Veracruz, un representante de la Secretaría de Turismo y Cultura del Estado de Veracruz, un representante de la Secretaría de Infraestructura y Obra Pública del Estado de Veracruz, un representante de la Secretaría de Desarrollo Social del Estado de Veracruz y un representante de la Secretaría de Seguridad Pública del Estado de Veracruz y expertos. El subcomité actuará por Zona Metropolitana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 8o.
 
-El Sistema Estatal de Planeación Democrática, se plasmará en los siguientes documentos:
+El Sistema Estatal de Planeación Democrática se plasmará en los siguientes documentos:
 
 I.- En la instancia estatal:
 
@@ -108,6 +116,10 @@ e).- El programa operativo anual.
 f).- El presupuesto por programas del Estado.
 
 g).- Los convenios de coordinación.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
+h).- Los Programas Sectoriales de Desarrollo Metropolitano.
 
 II.- En la instancia municipal:
 
@@ -193,6 +205,10 @@ a).- Coadyuvar en la formulación, actualización, instrumentación, control y e
 
 b).- Participar en la elaboración de los programas operativos anuales del Plan Estatal de Desarrollo.
 
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
+c).- Participar en la elaboración de los Programas Sectoriales de Desarrollo Metropolitano Municipal de cada una de las Zonas Metropolitanas de la entidad.
+
 VI.- A los Ayuntamientos del Estado, les compete:
 
 a).- Presidir y conducir el Comité de Planeación Municipal, por conducto de su respectivo Presidente Municipal.
@@ -203,13 +219,23 @@ c).- Aprobar, ejecutar y publicar el Plan Municipal de Desarrollo.
 
 d).- Convenir con el Ejecutivo del Estado, su participación en el proceso de planeación del desarrollo, de acuerdo con lo establecido en esta Ley.
 
-e).- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
+e).- Remitir el Programa Sectorial de Desarrollo Metropolitano Municipal a la Comisión Permanente de Desarrollo Metropolitano del Congreso del Estado, para su conocimiento, opinión y observaciones; sin perjuicio de las facultades que en la materia correspondan a la autoridad competente en materia territorial y ambiental.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
+f).- Publicar y ejecutar, previa aprobación del Cabildo, su Programa Sectorial de Desarrollo Metropolitano Municipal.
+
+g).- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
 
 VII.- A las Administraciones Públicas Municipales, les compete:
 
 a).- Intervenir respecto a las materias que le correspondan, en la elaboración de Planes Municipales de Desarrollo.
 
-b).- Asegurar la congruencia de sus programas, con su propio Plan Municipal, con los Planes Estatal y Nacional de Desarrollo, así como con otros planes municipales.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
+b) Asegurar la congruencia de sus programas, con su propio Plan Municipal, con los Planes Estatal y Nacional de Desarrollo, en su caso los Programas Sectoriales de Desarrollo Metropolitano Municipal, así como otros planes municipales.
 
 c).- Participar en la elaboración de los programas que les corresponden, presentando las propuestas que procedan en relación a sus funciones y objetivos.
 
@@ -223,15 +249,21 @@ a).- Coadyuvar en la formulación, actualización, instrumentación, control y e
 
 b).- Colaborar en la formulación del programa operativo anual del Plan Municipal de Desarrollo.
 
-c).- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
+c).- Colaborar en su caso con los Comités de Planeación Municipal de las Zonas Metropolitanas, en la formulación y definición conjunta de los Programas Sectoriales de Desarrollo Metropolitano Municipal que correspondan a cada uno.
+
+d).- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
 
 ### CAPITULO III
 
 PARTICIPACION SOCIAL EN LA PLANEACION DEMOCRATICA.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 10.
 
-En el Comité de Planeación para el Desarrollo del Estado de Veracruz, y en los Comités de Planeación para el Desarrollo Municipal, tendrá lugar la consulta y participación de las distintas organizaciones representativas de los obreros, campesinos y grupos populares; de las instituciones académicas, profesionales y de investigación; de los diversos partidos políticos; de los organismos empresariales; de las distintas organizaciones estudiantiles, de jóvenes y de mujeres, así como de otras agrupaciones sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización, ejecución y control del Plan Estatal de Desarrollo, de los Planes Municipales de Desarrollo y de los programas a que se refiere esta Ley.
+En el Comité de Planeación para el Desarrollo del Estado de Veracruz, en el Subcomité de Planeación para el Desarrollo Metropolitano Municipal y en los Comités de Planeación para el Desarrollo Municipal tendrá lugar la consulta y participación de las distintas organizaciones representativas de los obreros, campesinos y grupos populares; de las instituciones académicas, profesionales y de investigación; de los diversos partidos políticos; de los organismos empresariales; de las distintas organizaciones estudiantiles, de jóvenes y de mujeres, así como de otras agrupaciones sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización, ejecución y control del Plan Estatal de Desarrollo, de los Planes Municipales de Desarrollo y de los programas a que se refiere esta ley.
 
 ###### ARTICULO 11.
 
@@ -258,6 +290,10 @@ Estos programas observarán congruencia con el Plan y su vigencia no excederá d
 ###### ARTICULO 14.
 
 Los programas sectoriales se sujetarán a las previsiones contenidas en el Plan y especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del área de que se trate. Contendrán asimismo, estimaciones de recursos y determinaciones sobre órganos responsables de su ejecución.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 14 BIS.- Los Programas Sectoriales de Desarrollo Metropolitano Municipal se referirán a cada uno de los programas definidos conjuntamente por los Comités de Planeación Municipales de los municipios que integran las Zonas Metropolitanas de la entidad, en colaboración con el Subcomité de Planeación para el Desarrollo Metropolitano Municipal, el Consejo para el Desarrollo Metropolitano del Estado de Veracruz de Ignacio de la Llave y aprobados por cada uno de los Cabildos que correspondan.
 
 ###### ARTICULO 15.
 
@@ -333,9 +369,11 @@ El Plan precisará los objetivos, estrategias y prioridades del desarrollo munic
 
 Si una vez que haya expirado el plazo al que se refiere el párrafo primero de este artículo existiere omisión en la ejecución de cualquiera de las obligaciones a realizar dentro del mismo, se estará a lo dispuesto por el Capítulo VII denominado “De la Responsabilidad Administrativa” del Título Sexto de la Ley Orgánica del Municipio Libre.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 27.
 
-El Plan Municipal indicará los programas que deban realizarse y la vigencia de éstos no excederá del período constitucional que corresponda al Ayuntamiento respectivo.
+El Plan Municipal indicará los programas que deban realizarse, y la vigencia de éstos no excederá del periodo constitucional que corresponda al Ayuntamiento respectivo, con excepción del Programa Sectorial de Desarrollo Metropolitano Municipal, el cual deberá actualizarse por la siguiente administración municipal ante el Subcomité de Planeación para el Desarrollo Metropolitano Municipal.
 
 ###### ARTICULO 28.
 
@@ -506,3 +544,11 @@ G.O. 25 DE AGOSTO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 19 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO.- Las autoridades municipales de las zonas metropolitanas elaborarán sus Programas Sectoriales de Desarrollo Metropolitano en los términos del presente decreto, a efecto de que los mismos inicien su vigencia a partir del próximo ejercicio fiscal correspondiente
+
+TERCERO.- Se deroga cualquier disposición que contravenga el presente Decreto.
