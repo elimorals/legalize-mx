@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-valuacion-para-el-estado-de-quintana-roo-30586"
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-30"
-last_updated: "2003-04-30"
+last_updated: "2014-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30586&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY DE VALUACION PARA EL ESTADO DE QUINTANA ROO
 
-LEY DE VALUACION PARA EL ESTADO DE QUINTANA ROO
+LEY DE VALUACIÓN PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
 
-Ley publicada en el Periódico Oficial el Miércoles 30 de Abril de 2003.
+Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el Miércoles 30 de abril de 2003.
 
 DECRETO NÚMERO: 39
 
@@ -63,15 +63,31 @@ VI. Establecer los lineamientos técnicos y jurídicos mínimos que deberán obs
 
 VII. Promover la actualización de la actividad valuatoria, así como la capacitación y profesionalización del Perito Valuador.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-Para los efectos de la presente Ley deberá entenderse por:
+Para los efectos de la presente ley deberá entenderse por:
 
-I. Perito Valuador: La persona autorizada como tal por la Comisión e inscrita en el Registro, previo haber cumplido con todos y cada uno de los requisitos que esta Ley establece para obtener dicha acreditación.
+I. Avalúo: Documento final emitido por el especialista en valuación que contiene de manera clara y objetiva la estimación del valor de los bienes precisados en esta ley y que cumple con los requisitos establecidos en esta ley y su reglamento;
 
-II. Especialista en Valuación: Es el profesionista, que una vez cursado estudios específicos en el área del conocimiento de la valuación, en institución de educación superior con reconocimiento oficial o avalados por ésta, ha obtenido su cédula de especialidad en valuación con efectos de patente, expedida por la Dirección General de Profesiones dependientes de la Secretaría de Educación Pública.
+II. Comisión: La Comisión de Peritos Valuadores del Estado de Quintana Roo;
 
-III. Avalúo: Documento que contiene el estudio técnico que determina el valor comercial de los bienes precisados en esta Ley, cuyos requisitos que debe contener se especifican en la presente Ley y su reglamento.
+III. Especialista en Valuación: Es el profesionista, que una vez cursado estudios específicos en el área del conocimiento de la valuación, en institución de educación superior con reconocimiento oficial o avalados por ésta, ha obtenido su cédula de posgrado en valuación con efectos de patente, expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública;
+
+IV. Estudios de posgrado: Ciclo de estudios de especialización posteriores a la titulación de educación superior y que comprenden los estudios de especialidad, maestría y doctorado, con validez oficial ante la Dirección General de Profesiones de la Secretaría de Educación Pública;
+
+V. Formato único: Documento emitido por la Comisión, que establece la información, los requisitos y documentación mínima que debe contener los avalúos;
+
+VI. Ley: Ley de Valuación para el Estado de Quintana Roo;
+
+VII. Perito Valuador: La persona autorizada como tal por la Comisión e inscrita en el Registro, previo haber cumplido con todos y cada uno de los requisitos que esta Ley establece para obtener dicha acreditación;
+
+VIII. Registro Estatal: Registro Estatal de Peritos Valuadores,
+
+IX. Reglamento: Reglamento de esta Ley de Valuación para el Estado de Quintana Roo, y
+
+X. Secretaría de Gobierno: La Secretaría de Gobierno del Estado de Quintana Roo.
 
 ### CAPÍTULO II. DE LA VALUACIÓN Y LOS AVALÚOS
 
@@ -79,17 +95,21 @@ III. Avalúo: Documento que contiene el estudio técnico que determina el valor 
 
 El ejercicio de la valuación como actividad profesional en el Estado de Quintana Roo, se regirá conforme a las disposiciones de esta Ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 5.
 
-Los avalúos deberán contener la documentación e información que se utilizó para realizar la valuación y en su caso, mencionar los documentos que los soportan conforme se establezca en la presente Ley y en las normas técnicas, que al efecto se expidan en el reglamento de esta Ley.
+Los avalúos deberán contener la documentación e información que se utilizó para realizar la valuación, así como cumplir con los requisitos establecidos en el formato único que para cada especialidad apruebe y publique la Comisión, en el Periódico Oficial del Estado de Quintana Roo. Asimismo, deberán mencionar los documentos que los soportan conforme a lo establecido en la presente ley y en las normas técnicas, que al efecto se expidan en el reglamento de esta Ley.
 
 ###### Artículo 6.
 
 El valor de los bienes, deberá estimarse a la fecha de su emisión o referido a una fecha determinada, cuando así se requiera, según sea el caso en particular.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
-Las dependencias y entidades paraestatales de la administración pública del Estado, las homólogas del Poder Judicial, del Poder Legislativo y de los Municipios; así como los Notarios Públicos, sólo admitirán los avalúos que emitan los Peritos Valuadores debidamente inscritos en el Registro y los emitidos por las personas legalmente facultadas para ello, de acuerdo con lo previsto en sus leyes y demás disposiciones respectivas, quedando excluidos los avalúos catastrales.
+Las dependencias y entidades paraestatales de la administración pública del Estado, las homólogas del Poder Judicial, del Poder Legislativo y de los Municipios; así como los Notarios Públicos y el Registro Público de la Propiedad y el Comercio de Quintana Roo, sólo admitirán los avalúos que emitan los Peritos Valuadores debidamente inscritos en el Registro Estatal y los emitidos por las personas legalmente facultadas para ello, de acuerdo con lo previsto en sus leyes y demás disposiciones respectivas, quedando excluidos los avalúos catastrales, con excepción del caso previsto en el párrafo segundo y tercero de la fracción II del artículo 13 de esta Ley.
 
 ###### Artículo 8.
 
@@ -123,25 +143,41 @@ III. Las condiciones y normas para ejercer la actividad valuatoria en las difere
 
 Se establece el Registro Estatal de Peritos Valuadores, como un medio de consulta y control del ejercicio de la valuación como actividad profesional en el Estado, que estará a cargo de la Secretaría de Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-Para ejercer la actividad pericial en el Estado, los interesados deberán inscribirse en el Registro, presentando por escrito ante la Secretaría de Gobierno, la solicitud correspondiente, debiendo anexar a ésta los documentos que acrediten el cumplimiento de los siguientes requisitos:
+Para ejercer la actividad profesional de perito valuador en el Estado, los interesados deberán inscribirse en el Registro Estatal, presentando por escrito ante la Secretaría de Gobierno, la solicitud correspondiente, debiendo anexar a ésta los documentos que acrediten el cumplimiento de los siguientes requisitos:
 
 I. Ser ciudadano mexicano;
 
-II. Tener cédula de especialista en valuación expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública o contar con el aval de Instituto, Asociación o Colegio Profesional al que pertenezca;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-O, en su caso, acreditar a través de medios fehacientes y confiables, el arte u oficio al que pertenezca el punto sobre el cual va a emitir su avalúo, siempre y cuando dicha arte u oficio no estuvieren legalmente reglamentados por la Ley de la materia, en caso contrario, deberá presentar la cédula respectiva o tener el aval a que alude el párrafo anterior;
+II. Tener cédula de estudios de posgrado en valuación expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
 
-III. Tener título y cédula profesional en licenciatura afín al área del conocimiento de la valuación, expedidos por la Dirección General de Profesiones de la Secretaría de Educación Pública;
+En caso de que no exista en el Estado perito con estudios de posgrado registrado en alguna de las áreas a que se refiere el artículo 18 de esta Ley, cualquier valuador reconocido por algún otro Estado o a nivel Federal con esa calidad, podrá elaborar y emitir el avalúo correspondiente sin necesidad de estar inscrito en el Registro Estatal a que se refiere el artículo 12 de esta ley.
 
-IV. Estar en ejercicio activo de su profesión y tener como mínimo tres años de práctica profesional en la materia de la valuación, inmediatamente anteriores a la fecha de su solicitud;
+Cuando no exista posgrado debidamente reconocido por la Dirección General de Profesiones de la Secretaría de Educación Pública respecto de la materia sobre la cual se va a emitir el avalúo, se podrá acreditar a través de medios fehacientes y confiables, a juicio de la Secretaría de Gobierno, que se tiene el conocimiento y experiencia suficientes para emitir el avalúo correspondiente.
 
-V. Tener residencia permanente, efectiva y comprobable en el Estado, no menor de cinco años anteriores a la fecha de la solicitud;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-VI. Tener cédula de inscripción ante el Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público y número de la Clave Única del Registro de Población (CURP); y
+III. Estar en ejercicio activo de su profesión;
 
-VII. Cubrir los derechos correspondientes.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+IV. Tener como mínimo tres años de práctica profesional en la materia de la valuación, inmediatamente anteriores a la fecha de su solicitud, lo cual será avalado por un perito valuador registrado en el padrón por un periodo mínimo de tres años;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+V. Tener residencia permanente, efectiva y comprobable en el Estado no menor de cinco años anteriores a la fecha de la solicitud;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+VI. Tener cédula de inscripción ante el Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público y número de la Clave Única del Registro de Población (CURP);
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+VII. Acreditar un curso de conocimientos relacionados con las características urbanas, ecológicas, de mercado y demás relevantes para el ejercicio de la profesión en el Estado, aprobado por la Comisión e impartido por institución o profesionista que la misma determine, para el caso de quienes deseen obtener su registro como perito valuador en bienes inmuebles, y (sic)
 
 ###### Artículo 14.
 
@@ -189,9 +225,11 @@ La Secretaría de Gobierno expedirá anualmente a todos los Peritos Valuadores i
 
 Los peritos valuadores a quienes se les haya otorgado su registro como tal, sólo podrán ser privados del mismo cuando hayan sido sancionados en términos de las disposiciones de esta Ley y su reglamento, y de las establecidas en la Ley de Profesiones del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 21.
 
-En el mes de enero de cada año, la Secretaría de Gobierno publicará en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el Padrón de Peritos Valuadores del Estado de Quintana Roo, inscritos en el Registro, expresando sus nombres, direcciones, número de registro, especialidad y datos profesionales.
+En el mes de enero de cada año, la Secretaría de Gobierno publicará en el Periódico Oficial del Estado de Quintana Roo, el Padrón de Peritos Valuadores del Estado de Quintana Roo, inscritos en el Registro, expresando sus nombres, direcciones, número de registro, especialidad y datos profesionales.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LOS PERITOS VALUADORES
 
@@ -203,7 +241,9 @@ I. Emitir avalúos para los fines públicos y privados que determinen las leyes,
 
 II. Ofrecer sus servicios al público, previa inscripción en el Registro;
 
-III. Cobrar los honorarios que correspondan a sus servicios, de acuerdo a los aranceles aprobados para tal efecto por la autoridad competente;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+III. Cobrar los honorarios que correspondan a sus servicios, de acuerdo a los aranceles aprobados por la Comisión;
 
 IV. Asistir a las actividades de profesionalización y capacitación que organice la Comisión, con el fin de actualizar sus conocimientos en el campo de la valuación;
 
@@ -259,13 +299,23 @@ La Comisión estará integrada de la siguiente manera:
 
 I. Un Presidente, que será el Secretario de Gobierno.
 
-II. Un Vicepresidente, que será el Secretario de Hacienda.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+II. Un Vicepresidente, que será el Secretario de Finanzas y Planeación del Estado.
 
 III. Un Secretario Técnico, que será el Subsecretario de Asuntos Jurídicos de la Secretaría de Gobierno en el Estado de Quintana Roo.
 
-IV. Cuatro Vocales, que serán: el Director General de Catastro en el Estado y los tres presidentes de los institutos, asociaciones y colegios profesionales en materia de valuación con mayor número de miembros que se constituyan en la Entidad.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-Cada uno de los integrantes de la Comisión podrá nombrar a su respectivo suplente, con excepción del Presidente, quien será suplido en sus ausencias por el Secretario Técnico, quien tendrá todas las facultades asignadas al Presidente, incluyendo el voto de calidad, caso en el cual, el cargo de Secretario Técnico que corresponde al Subsecretario de Asuntos Jurídicos de la Secretaría de Gobierno en el Estado de Quintana Roo, recaerá en un suplente respectivo.
+IV. Cuatro vocales, que serán: el Director General de Catastro en el Estado y los tres presidentes provenientes de los Institutos, asociaciones y/o Colegios Profesionales en material (sic) de valuación con mayor número de miembros con cédula de especialista en cualquier área de valuación, constituidos legalmente en el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+En caso de que no existan tres Institutos, Asociaciones y/o Colegios constituidos legalmente, los existentes tendrán que elegir los tres representantes de entre sus miembros, quienes serán vocales de la Comisión.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Cada uno de los integrantes de la Comisión tendrá voz y voto en los asuntos competencia de la misma. Asimismo, cada uno de los integrantes podrá nombrar a su respectivo suplente, con excepción del Presidente, quien será suplido en sus ausencias por el Secretario Técnico, quien tendrá todas las facultades asignadas al Presidente, incluyendo el voto de calidad, caso en el cual, el cargo de Secretario Técnico que corresponde al Subsecretario de Asuntos Jurídicos de la Secretaría de Gobierno en el Estado de Quintana Roo, recaerá en un suplente respectivo.
 
 El Presidente de la Comisión, por sí o a propuesta de sus integrantes, podrá convocar a las sesiones de la Comisión como invitados, a otros funcionarios públicos de los tres órdenes de Gobierno, a representantes de instituciones educativas, académicas, especialistas y otras que, por la naturaleza de los asuntos a tratar, puedan aportar conocimientos o experiencia en materia de valuación que ilustre a la Comisión.
 
@@ -283,9 +333,19 @@ IV. Mantener contacto permanente con el Secretario Técnico, en el cumplimiento 
 
 V. Invitar a funcionarios federales, estatales o municipales, representantes de instituciones educativas, académicas, especialistas y otros, cuando por los asuntos que se vayan a abordar, se considere pertinente su presencia en alguna de las sesiones de la Comisión;
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Los invitados especiales únicamente tendrán voz en la sesión de la Comisión, pudiendo participar en la discusión del asunto a tratar por el cual fueron invitados, pero sin derecho a voto.
+
 VI. Transmitir al Ejecutivo Estatal las propuestas que formule la Comisión, en cumplimiento de su objeto previsto en esta Ley; y
 
-VII. Las demás que se deriven de la naturaleza de la función que tiene encargada y que le señale el reglamento de esta Ley.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+VII. Voto de calidad en caso de empate en la votación, y
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+VIII. Las demás que se deriven de la naturaleza de la función que tiene encargada y que le señale el reglamento.
 
 ###### Artículo 28.
 
@@ -301,7 +361,13 @@ IV. Cumplir con las instrucciones que le formule la Comisión o su Presidente;
 
 V. Elaborar las actas de las sesiones de la Comisión, consignando en ellas de manera específica las resoluciones o acuerdos que se hubiesen adoptado; y
 
-VI. Las demás que se deriven de la naturaleza de la función que tiene encargada y que le señalen en el reglamento de esta Ley.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+VI. Suplir en caso de ausencia al Presidente de la Comisión, ejerciendo todas las facultades que corresponden a dicho cargo, y
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+VII. Las demás que se deriven de la naturaleza de la función que tiene encargada y que le señalen en el reglamento.
 
 ###### Artículo 29.
 
@@ -313,13 +379,19 @@ II. Emitir sus opiniones sin que sean reconvenidos, siempre y cuando dialoguen s
 
 III. Someter a la Comisión para su conocimiento, cualquier asunto que pueda surgir y pueda ocasionar alguna controversia o preocupación en el desarrollo de la actividad de la valuación en la Entidad.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 30.
 
-La Comisión se reunirá en sesión ordinaria cada dos meses, para tal efecto se establecerá un calendario de sesiones que observarán el Presidente y el Secretario Técnico. También se podrá reunir en cualquier tiempo de manera extraordinaria, siempre y cuando el Presidente, por sí o a propuesta de la mayoría de sus miembros, así lo convoque, cuando el asunto o asuntos a tratar lo ameriten.
+La Comisión se reunirá en sesión ordinaria cuando menos una vez al año, para tal efecto se establecerá un calendario de sesiones que observarán el Presidente y el Secretario Técnico. También se podrá reunir en cualquier tiempo de manera extraordinaria, siempre y cuando el Presidente, por sí o a propuesta de la mayoría de sus miembros, así lo convoque, cuando el asunto o asuntos a tratar lo ameriten.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
-La Comisión sesionará válidamente con la asistencia de la mitad más uno de sus integrantes que cuenten con voz y voto y sus acuerdos serán tomados por mayoría simple. En caso de empate el Presidente o su suplente, tendrán voto de calidad.
+La Comisión sesionará válidamente con la asistencia de la mitad más uno de sus integrantes que cuenten con voz y voto; sin embargo, para considerar legalmente válida la sesión siempre deberá estar presente al menos uno de los tres vocales de los Institutos, Asociaciones y/o Colegio de Profesionales en materia de valuación a que se refiere la fracción IV del artículo 26 de esta Ley.
+
+En caso de que al verificarse el quórum legal, se constate que no está presente al menos uno de los representantes de los Institutos, Asociaciones y/o Colegio de Profesionales en materia de valuación, se convocará a una nueva sesión en fecha posterior y si al celebrarse ésta nuevamente existiera quórum sin la presencia de al menos un representante de los Institutos, Asociaciones y/o Colegio de Profesionales la sesión podrá celebrarse y considerarse legalmente válida.
 
 ###### Artículo 32.
 
@@ -345,9 +417,13 @@ VI. Acuerdos de la sesión.
 
 La Comisión tendrá las siguientes atribuciones:
 
-I. Vigilar el cumplimiento de esta ley, su reglamento y de las normas técnicas, éticas y arancelarias que se expidan para tales efectos;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-II. Elaborar y proponer al Titular del Ejecutivo del Estado, para su aprobación, las normas arancelarias que atenderán los valuadores para el cobro de honorarios que correspondan a sus servicios profesionales;
+I. Vigilar el cumplimiento de esta ley, su reglamento y de las normas técnicas, éticas y arancelarias que se expidan para tales efectos, pudiendo imponer las sanciones que establezca esta Ley, de acuerdo con el procedimiento de revisión y sanción que establezca el Reglamento, sin perjuicio de las sanciones que de conformidad con otras disposiciones legales resulten procedentes.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+II. Elaborar y proponer al Titular del Ejecutivo del Estado, para su aprobación, las normas arancelarias que atenderán los valuadores para el cobro de honorarios que correspondan a sus servicios profesionales, así como el formato único que deberá utilizarse para la presentación de los avalúos.
 
 III. Revisar, unificar y simplificar las normas que regirán la actividad y desempeño de la profesión de la valuación, mismas que deberán de acatar los Peritos Valuadores, en lo individual; así como la asociación profesional o colegio que los integre;
 
@@ -382,6 +458,8 @@ XVI. Las demás que le confiera esta Ley y demás disposiciones legales aplicabl
 ### CAPÍTULO VII
 
 DEL RECURSO DE REVOCACIÓN.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 35.
 
@@ -427,31 +505,23 @@ i) Por haber formulado un avalúo estando inhabilitado para ello por decisión j
 
 j) Por dejar de cumplir en forma definitiva, con alguno de los requisitos que la presente Ley prevé para la obtención de su inscripción en el Registro.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 37.
 
-Contra la resolución de la Comisión que imponga a un Perito Valuador, cualquiera de las sanciones establecidas en el artículo anterior, podrá interponer el recurso de revocación ante la propia Comisión.
+Contra la resolución de la Comisión que imponga a un Perito Valuador, cualquiera de las sanciones establecidas en el artículo anterior, se podrá interponer el recurso de revocación ante la propia Comisión.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 38.
 
 El Perito Valuador podrá interponer el recurso de revocación, dentro de los cinco días hábiles siguientes a la fecha en que se le haya notificado la resolución que le imponga la sanción, debiendo acompañar en su caso, los documentos en que fundamente su inconformidad y ofreciendo las pruebas que considere pertinentes.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 39.
 
-Una vez recibido el recurso de revocación por la Comisión, ésta verificará si fue interpuesto en tiempo y forma. Si el recurso fuere notoriamente improcedente, lo desechará de plano.
-
-Si el recurso se admite, la Comisión calificará las pruebas que el recurrente haya ofrecido y dictará en su caso, un acuerdo dentro del término de cinco días, contados a partir de la recepción del recurso, en el que fijará la fecha en que deberá presentarse el recurrente para la audiencia de desahogo de pruebas que se hayan admitido como procedentes.
-
-Contra el acuerdo que deseche pruebas por considerarlas improcedentes, no existirá recurso alguno.
-
-###### Artículo 40.
-
-El término para la celebración de la audiencia de desahogo de las pruebas, deberá fijarse dentro de los 20 días hábiles siguientes a la fecha de recepción del recurso; desahogadas las mismas o si no las hubiere, la Comisión resolverá el recurso dentro de los siguientes 10 días hábiles a la fecha de la audiencia de pruebas, debiendo notificar su resolución por escrito al recurrente, en el domicilio que éste hubiere señalado para tal efecto, dentro de los cinco días hábiles siguientes a la fecha de su resolución.
-
-La resolución que dicte la Comisión sobre el recurso de revocación, será irrecurrible.
-
-###### Articulo 41.
-
-El escrito de interposición del recurso de revocación que se presente ante la Comisión, deberá señalar los siguientes datos:
+El escrito de interposición del recurso de revocación que se presente, deberá señalar los siguientes datos:
 
 I. Nombre, firma y domicilio del recurrente;
 
@@ -463,13 +533,39 @@ IV. Nombre del tercero perjudicado si lo hubiere, así como el lugar que señale
 
 V. El acto que se recurre y fecha en que se le notificó o tuvo conocimiento del mismo;
 
-VI. Los agravios que se le causan;
+VI. Los agravios que se le causan, y
 
-VII. El señalamiento de las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución o acto impugnado; y
+VII. El señalamiento de las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución o acto impugnado.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 40.
+
+Si faltare alguno de los requisitos previstos en las fracciones I a VI del artículo anterior, la Comisión requerirá al recurrente, dentro de los dos días hábiles siguientes a la presentación del recurso, para que lo subsane en el término improrrogable de tres días, apercibiéndolo que para el caso de no hacerlo, se tendrá por no interpuesto dicho recurso.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 41.
+
+Una vez recibido el recurso de revocación se verificará si fue interpuesto en tiempo y forma. Si el recurso fuere notoriamente improcedente, se desechará de plano.
+
+Si el recurso se admite, se calificarán las pruebas que el recurrente haya ofrecido y dictará en su caso, un acuerdo dentro del término de cinco días, contados a partir de la recepción del recurso, en el que fijará la fecha en que deberá presentarse el recurrente para la audiencia de desahogo de pruebas que se hayan admitido como procedentes.
+
+Contra el acuerdo que deseche pruebas por considerarlas improcedentes, no existirá recurso alguno.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 42.
 
-Si faltare alguno de los requisitos previstos en las fracciones I a VI del artículo anterior, la Comisión requerirá al recurrente, dentro de los dos días hábiles siguientes a la presentación del recurso, para que lo haga en el término improrrogable de tres días, apercibiéndolo que para el caso de no hacerlo, se tendrá por no interpuesto dicho recurso.
+El término para la celebración de la audiencia de desahogo de las pruebas, deberá fijarse dentro de los veinte días hábiles siguientes a la fecha de recepción del recurso; desahogadas las mismas o si no las hubiere, se resolverá el recurso dentro de los siguientes diez días hábiles a la fecha de la audiencia de pruebas, debiendo notificar su resolución por escrito al recurrente, en el domicilio que éste hubiere señalado para tal efecto, dentro de los cinco días hábiles siguientes a la fecha de su resolución.
+
+La resolución que dicte la Comisión sobre el recurso de revocación, será irrecurrible ante la propia Comisión.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 43.
+
+Contra la resolución del recurso de revocación emitida por la Comisión, se estará a lo dispuesto en la Ley de Procedimiento Administrativo del Estado de Quintana Roo.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -489,7 +585,7 @@ DIPUTADO PRESIDENTE: DIPUTADO SECRETARIO:
 
 CARLOS GUTIERREZ GARCIA. PABLO DE J. RIVERO ARCEO.
 
-CON FUNDAMENTO EN LO DISPUESTO POR EL ARTICULO 91, FRACCIÓN II Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, EL DECRETO NUME3RO 39 EXPEDIDO POR LA HONORABLE X LEGISLATURA DEL ESTADO, A LOS VEINTIDÓS DÍAS DEL MES DE ABRIL DEL AÑO 2003, QUE CONTIENE LA LEY DE VALUACIÓN PARA EL ESTADO DE QUINTANA ROO. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTITRÉS DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL TRES.
+CON FUNDAMENTO EN LO DISPUESTO POR EL ARTICULO 91, FRACCIÓN II Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, EL DECRETO NUMERO 39 EXPEDIDO POR LA HONORABLE X LEGISLATURA DEL ESTADO, A LOS VEINTIDÓS DÍAS DEL MES DE ABRIL DEL AÑO 2003, QUE CONTIENE LA LEY DE VALUACIÓN PARA EL ESTADO DE QUINTANA ROO. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTITRÉS DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL TRES.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
@@ -498,3 +594,13 @@ LIC. JOAQUIN ERNESTO HENDRICKS DIAZ
 EL SECRETARIO DE GOBIERNO
 
 LIC. EFRAIN VILLANUEVA ARCOS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
+
+TERCERO. Los peritos valuadores que actualmente estén inscritos en el Registro Estatal de Peritos Valuadores, sólo podrán ser privados de su registro, en términos del supuesto previsto en el inciso j de la fracción III del artículo 36 de esta Ley, por el incumplimiento de alguno de los requisitos previstos para la obtención de su inscripción, establecidos antes de la entrada en vigor del presente Decreto.
