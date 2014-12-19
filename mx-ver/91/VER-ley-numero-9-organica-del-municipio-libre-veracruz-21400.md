@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2014-11-27"
+last_updated: "2014-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -3029,7 +3029,9 @@ VI. Proponer a las autoridades municipales, previo estudio, la realización de o
 
 VII. Emitir opinión respecto de las consultas que en las materias relacionadas con la planeación municipal le formulen el Ayuntamiento, ciudadanos, instituciones u organizaciones del municipio; y
 
-VIII. Formar comisiones de estudio sobre asuntos determinados, relacionados con la planeación municipal.
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
+VIII. Formar comisiones de estudio sobre asuntos determinados, relacionados con la planeación municipal y metropolitana, si fuera el caso.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3075,13 +3077,11 @@ V. Aplicar de manera racional los recursos financieros para el cumplimiento del 
 
 El Plan de Desarrollo Municipal contendrá, por lo menos, un diagnóstico sobre las condiciones económicas y sociales del municipio, las metas a alcanzar, las estrategias a seguir, los plazos de ejecución, las dependencias, entidades y organismos responsables de su cumplimiento y las bases de coordinación y concertación que se requieran para su ejecución y cumplimiento, de conformidad con lo establecido en la ley de la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 197.
 
-El Plan de Desarrollo Municipal se complementará con programas anuales sectoriales de la administración municipal y, en su caso, con los programas especiales de los organismos desconcentrados y descentralizados de carácter municipal.
+El Plan de Desarrollo Municipal se complementará con programas anuales sectoriales de la administración municipal y, en su caso, con el Programa Sectorial de Desarrollo Metropolitano Municipal, así como por los posprogramas especiales de los organismos desconcentrados y descentralizados de carácter municipal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3548,3 +3548,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Para los efectos constitucionales y legales procedentes, todas las Leyes, Decretos, Códigos u Ordenamientos Legales de observancia general vigente al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "Comisión Permanente de Desarrollo Regional" se entenderán referidas a la “Comisión Permanente de Desarrollo Social, Humano y Regional".
 
 Tercero. Se deroga cualquier disposición que contravenga al presente decreto.
+
+G.O. 19 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO.- Las autoridades municipales de las zonas metropolitanas elaborarán sus Programas Sectoriales de Desarrollo Metropolitano en los términos del presente decreto, a efecto de que los mismos inicien su vigencia a partir del próximo ejercicio fiscal correspondiente
+
+TERCERO.- Se deroga cualquier disposición que contravenga el presente Decreto.
