@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2014-09-27"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO 24988/LX/14 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS, PUBLICADO EN EL P.O. DE 27 DE SEPTIEMBRE DE 2014, ENTRA EN VIGOR CONFORME A LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES AL ORDEN JURÍDICO DEL ESTADO DE JALISCO, APROBADA MEDIANTE DECRETO 24864/LX/14, PUBLICADO EN FECHA 11 DE ABRIL DEL 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -181,7 +181,7 @@ El Sistema Estatal de Seguridad Pública tiene por objeto desarrollar las bases 
 
 ###### Artículo 11.
 
-El Sistema Estatal de Seguridad Pública se integra con las instancias, instrumentos, políticas y acciones previstos (sic) en el presente título, tendientes a cumplir los objetivos y fines de la seguridad pública.
+El Sistema Estatal de Seguridad Pública se integra con las instancias, instrumentos, políticas y acciones previstos en el presente título, tendientes a cumplir los objetivos y fines de la seguridad pública.
 
 ###### Artículo 12.
 
@@ -1003,17 +1003,45 @@ Los ayuntamientos del estado podrán establecer academias municipales, las cuale
 
 Las academias y los institutos antes referidos tendrán la atribución de emitir el documento que establezca la homologación por desempeño a que se refiere la fracción IV, inciso a), numeral 1, del artículo 79 de la presente ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo VI. De los Primeros Auxilios
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 68 Bis.
+
+Todos los elementos que pertenezcan a las áreas operativas de prevención, deberán estar capacitados en primeros auxilios, y todos los vehículos que utilicen deberán de contar con un botiquín médico que contenga los materiales necesarios para su debida prestación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 68 Ter.
+
+Los cursos de capacitación en materia de primeros auxilios, deberán brindarse a los elementos operativos de manera constante y en ningún caso excederán de dos años entre ellos, cuyo cumplimiento será supervisado por el Secretario Ejecutivo del Consejo Estatal de Seguridad Pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 68 Quáter.
+
+Los municipios podrán celebrar convenios con el Estado para que a través de éste se les brinde la capacitación en primeros auxilios a sus elementos operativos de seguridad pública.
+
 ### Capítulo I. Disposiciones generales
 
 ### Capítulo II. Del servicio profesional de carrera policial en las instituciones de seguridad pública
 
+## Título Quinto. Del desarrollo policial y del servicio profesional de carrera ministerial y pericial de las instituciones de seguridad pública
+
 ### Capítulo III. Del ingreso y permanencia
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
-## Título Quinto. Del desarrollo policial y del servicio profesional de carrera ministerial y pericial de las instituciones de seguridad pública
-
-### Capítulo IV. De la terminación
 
 ###### Artículo 69.
 
@@ -1025,7 +1053,7 @@ La Procuraduría y el Instituto Jalisciense de Ciencias Forenses, respectivament
 
 La Policía Investigadora adscrita a la Procuraduría en materia de carrera policial se sujetará a lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública, en la presente ley y demás disposiciones aplicables.
 
-### Capítulo V. De la profesionalización
+### Capítulo IV. De la terminación
 
 ###### Artículo 71.
 
@@ -1111,7 +1139,7 @@ Con base en las categorías jerárquicas señaladas en el presente artículo, lo
 
 Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
 
-### Capítulo VI. De la certificación
+### Capítulo V. De la profesionalización
 
 ###### Artículo 77.
 
@@ -1127,9 +1155,9 @@ Los requisitos de ingreso y permanencia para actuarios y secretarios del Ministe
 
 Son requisitos de ingreso para ministerios públicos, peritos y elementos operativos de las instituciones de seguridad pública los siguientes:
 
-(NOTA: EL 4 DE JULIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2012, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN I, DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-I. Ser ciudadano mexicano POR NACIMIENTO en pleno ejercicio de sus derechos políticos y civiles, SIN TENER OTRA NACIONALIDAD;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal por delito doloso;
 
@@ -1235,7 +1263,7 @@ Para que a un elemento operativo de cualquier institución de seguridad pública
 
 No obstante lo anterior, podrán existir nombramientos de designación especial; las personas a las que se les otorguen, en ningún caso podrán formar parte del servicio profesional de carrera y los efectos de su nombramiento podrán darse por terminados en cualquier momento. Lo anterior será regulado en el reglamento correspondiente.
 
-### Capítulo I. Generalidades
+### Capítulo VI. De la certificación
 
 ###### Artículo 83.
 
@@ -1267,7 +1295,7 @@ Al concluir el servicio los integrantes de las instituciones de seguridad públi
 
 Los integrantes de las instituciones policiales de seguridad pública que hayan alcanzado la edad límite para la permanencia prevista en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
 
-### Capítulo II. De la disciplina
+### Capítulo I. Generalidades
 
 ###### Artículo 85.
 
@@ -1277,7 +1305,7 @@ Es obligación de los integrantes de las instituciones de seguridad pública del
 
 La formación profesional en materia de seguridad pública en todos sus niveles, modalidades y características será competencia exclusiva del Estado.
 
-### Capítulo III. De las sanciones
+### Capítulo II. De la disciplina
 
 ###### Artículo 86.
 
@@ -1321,7 +1349,7 @@ De conformidad con la coordinación que debe prevalecer entre el Estado y la Fed
 
 ## Título Sexto. Del sistema disciplinario y responsabilidad administrativa
 
-### Capítulo IV. Del procedimiento de responsabilidad administrativa
+### Capítulo III. De las sanciones
 
 ###### Artículo 90.
 
@@ -1339,7 +1367,7 @@ II. Intencionalidad o culpa, y
 
 III. Perjuicios originados al servicio.
 
-### Capítulo Único. Iniciación, instrucción y resolución del procedimiento
+### Capítulo IV. Del procedimiento de responsabilidad administrativa
 
 ###### Artículo 92.
 
@@ -1415,7 +1443,7 @@ Todo arresto deberá notificarse por escrito, tanto a quien deba cumplirlo como 
 
 No procede recurso alguno contra la aplicación de correcciones o medidas disciplinarias.
 
-### Capítulo V. De la separación
+### Capítulo Único. Iniciación, instrucción y resolución del procedimiento
 
 ###### Artículo 103.
 
@@ -1613,9 +1641,9 @@ No procede recurso o juicio ordinario alguno contra la aplicación de las sancio
 
 El Estado o los municipios, según sea el caso, sólo estarán obligados a pagar una indemnización de tres meses de salario, veinte días por año de servicio y partes proporcionarles de las prestaciones correspondientes a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio ni pago de salarios caídos o vencidos, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
-### Capítulo VI. Suspensión por causas imputables del elemento operativo
+### Capítulo V. De la separación
 
-### Capítulo I. De la estadística de seguridad pública
+### Capítulo VI. Suspensión por causas imputables del elemento operativo
 
 ###### Artículo 118.
 
@@ -1725,7 +1753,7 @@ Las resoluciones definitivas dictadas en el procedimiento a que se refiere el ar
 
 No procederá recurso o juicio ordinario contra las resoluciones que dicte la instancia correspondiente.
 
-### Capítulo II. Del registro estatal de información sobre seguridad pública
+### Capítulo I. De la estadística de seguridad pública
 
 ###### Artículo 129.
 
@@ -1801,7 +1829,7 @@ En caso de no presentarse, sin causa justificada, a la realización de las evalu
 
 Si el tribunal de control constitucional a través del juicio correspondiente resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la institución sólo estará obligada a pagar una indemnización de tres meses de salario, veinte días por año de servicio y partes proporcionarles de las prestaciones de gratificación anual, vacaciones, gratificaciones o cualquier otra establecida en los presupuestos correspondientes, sin que en ningún caso proceda la reincorporación al servicio ni el pago de salarios vencidos, cualquiera que sea el resultado del juicio en los términos del artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
 
-### Capítulo III. De la información de apoyo a la procuración e impartición de justicia
+### Capítulo II. Del registro estatal de información sobre seguridad pública
 
 ###### Artículo 142.
 
@@ -1845,7 +1873,7 @@ El elemento operativo deberá entregar su identificación, municiones, armamento
 
 ## Título Séptimo. De la información sobre seguridad pública
 
-### Capítulo IV. De las reglas generales sobre la información
+### Capítulo III. De la información de apoyo a la procuración e impartición de justicia
 
 ###### Artículo 147.
 
@@ -1873,7 +1901,7 @@ V. Prisión preventiva, ejecución de sentencias y de tratamiento de adolescente
 
 VI. Los factores asociados a la problemática de seguridad pública de todo el estado.
 
-### Capítulo I. De la participación ciudadana
+### Capítulo IV. De las reglas generales sobre la información
 
 ###### Artículo 150.
 
@@ -1933,7 +1961,7 @@ Para soporte legal de esta disposición deberá agregarse al expediente respecti
 
 Las órdenes de detención o aprehensión se agregarán al registro cuando no pongan en riesgo la investigación o la causa penal.
 
-### Capítulo II. De la comunicación con la ciudadanía
+### Capítulo I. De la participación ciudadana
 
 ###### Artículo 154.
 
@@ -1953,7 +1981,7 @@ Dicha información únicamente se deberá dar de baja de esta base de datos a la
 
 El Ministerio Público sólo podrá reservarse la información que ponga en riesgo alguna investigación, pero la proporcionará inmediatamente después de que deje de existir tal condición.
 
-### Capítulo Único
+### Capítulo II. De la comunicación con la ciudadanía
 
 ###### Artículo 156.
 
@@ -1993,7 +2021,7 @@ Cualquier interesado que estime falsa o errónea alguna información, podrá sol
 
 ## Título Octavo. De la participación ciudadana en las instituciones de seguridad pública
 
-### Capitulo Único. De los delitos
+### Capítulo Único
 
 ###### Artículo 160.
 
@@ -2098,6 +2126,8 @@ El servicio telefónico de emergencia operará de acuerdo con las bases prevista
 El Consejo Estatal impulsará las acciones necesarias para que el Estado y los municipios establezcan un servicio para la localización de personas y bienes.
 
 El servicio tendrá comunicación directa con las instituciones de seguridad pública, salud, protección civil y las demás instancias de asistencia, públicas y privadas.
+
+### Capitulo Único. De los delitos
 
 ###### Artículo 166.
 
@@ -2306,6 +2336,20 @@ P.O. 27 DE SEPTIEMBRE DE 2014.
 PRIMERO. El presente decreto entrará en vigor de conformidad con la declaratoria de incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden Jurídico del Estado de Jalisco, aprobada mediante Decreto 24864/LX/14, publicado en fecha 11 de abril del 2014, previa su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Se faculta a la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, para que lleve a cabo las adecuaciones administrativas y presupuestales para el cumplimiento del presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 25150/LX/14, POR EL QUE SE ADICIONAN LOS ARTÍCULOS 68 BIS, 68 TER Y 68 QUÁTER, Y UN CAPÍTULO VI AL TÍTULO CUARTO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO.
+
+PRIMERO. La presente reforma entrará en vigor tres meses después de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. A partir de su entrada en vigor, las corporaciones y dependencias obligadas tendrán un máximo de seis meses para otorgar su primera capacitación en materia de primeros auxilios a los elementos de seguridad pública y de policía vial correspondientes.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 25138/LX/14, POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 79 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 ## Título Noveno. De los servicios de seguridad privada
 
