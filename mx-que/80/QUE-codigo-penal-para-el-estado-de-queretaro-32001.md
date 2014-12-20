@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2014-11-07"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -3095,17 +3095,21 @@ II.- Continúe ejerciendo las funciones de un empleo, cargo o comisión después
 
 III.- Sin autorización legítima desempeñe funciones distintas de aquéllas para las que fue designado;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-IV. Teniendo conocimiento por razón de su empleo, cargo o comisión, de que pueden resultar gravemente afectados por cualquier acto u omisión, el patrimonio o los intereses de alguna dependencia o entidad de la administración pública Estatal o Municipal, organismos constitucionales autónomos o fideicomisos públicos, no informe por escrito a su superior jerárquico o no lo evite si está dentro de sus facultades;
+IV.- Teniendo conocimiento por razón de su empleo, cargo o comisión, de cualquier acto u omisión por el que puedan ocasionarse o se ocasionen daños, perjuicios u otra afectación, a la hacienda pública, al patrimonio o los intereses de los Poderes, las entidades paraestatales, los organismos constitucionales autónomos, los tribunales administrativos, los municipios y sus entidades paramunicipales o de cualquier otro que maneje, utilice, recaude, ejecute o administre recursos públicos, no informe por escrito a su superior jerárquico o autoridad competente, o no lo evite si está dentro de sus facultades;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-V. Por sí o por interpósita persona sustraiga, destruya, oculte, utilice o inutilice ilícitamente información que se encuentre bajo su custodia o a la cual tenga acceso o de la que tenga conocimiento en virtud de su empleo, cargo o comisión; y
+V.- Por sí o por interpósita persona sustraiga, destruya, oculte, utilice o inutilice ilícitamente información que se encuentre bajo su custodia o a la cual tenga acceso o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-VI. Por sí o por interpósita persona, rinda informes a su superior jerárquico en los que manifieste hechos o circunstancias falsos o niegue la verdad en todo o en parte sobre los mismos.
+VI.- Por sí o por interpósita persona, rinda informes a su superior jerárquico en los que manifieste hechos o circunstancias falsos o niegue la verdad en todo o en parte sobre los mismos; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+VII.- De manera dolosa omita o altere los documentos o registros que integren la contabilidad gubernamental con la finalidad de desvirtuar la veracidad de la información financiera de los Poderes, las entidades paraestatales, los organismos constitucionales autónomos, los tribunales administrativos, los municipios y sus entidades paramunicipales o de cualquier otro que maneje, utilice, recaude, ejecute o administre recursos públicos o incumpla con la obligación de difundir dicha información en los términos de las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -4200,3 +4204,17 @@ P.O. 7 DE NOVIEMBRE DE 2014.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Las disposiciones contenidas en el primer párrafo del artículo 36 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, comenzarán a regir el 1° de enero de 2015, por lo que resultará (sic) aplicables al procedimiento de presentación y aprobación de Tablas de Valores Unitarios de Suelo y Construcciones correspondiente al ejercicio fiscal 2016.
+
+Las propuestas de Tablas de Valores Unitarios de Suelo y Construcciones que servirán de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, para el ejercicio fiscal 2015, serán remitidas por los ayuntamientos de los municipios del Estado de Querétaro a la Legislatura Local, a más tardar el 15 de noviembre de 2014.
+
+Artículo Tercero. Se abroga la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro publicada el 13 de diciembre de 2008.
+
+Artículo Cuarto. Para efectos de lo dispuesto en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, los sujetos de dicho ordenamiento, estarán obligados a dar cumplimiento a lo establecido en la presente Ley en materia de contabilidad gubernamental y presentación de la información financiera, de conformidad con los plazos que al efecto establezca el Congreso de la Unión en la Ley respectiva, así como aquellos que se prevean en la normatividad que emitan los órganos que la misma autorice para tal efecto.
+
+Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
