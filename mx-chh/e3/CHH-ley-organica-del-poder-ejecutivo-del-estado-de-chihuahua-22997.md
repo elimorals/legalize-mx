@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2014-05-14"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MAYO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 10 DE MAYO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -605,7 +603,7 @@ XI.- Promover, brindar asesoría y capacitación en materia de desarrollo social
 
 XII.- Definir las zonas de atención prioritaria de conformidad con los índices de pobreza y marginación;
 
-XIII.- Fomentar las actividades de las organizaciones de la sociedad civil que incidan en el campo del desarrollo social y humano, y (sic)
+XIII.- Fomentar las actividades de las organizaciones de la sociedad civil que incidan en el campo del desarrollo social y humano, y
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
@@ -721,9 +719,17 @@ XXI. Fomentar el turismo ecológico promoviendo para tal efecto el cuidado y la 
 
 XXII. Ejercer las atribuciones derivadas de los convenios que en materia de desarrollo económico celebre el Gobierno del Estado con el Gobierno Federal o con los municipios de la Entidad, así como con instituciones y personas morales públicas y privadas;
 
-XXIII. Dirigir y vigilar el cumplimiento de la Ley de Desarrollo y Fomento Económico para el Estado de Chihuahua, así como de las demás leyes y disposiciones en materia de industria, comercio, turismo y demás actividades productivas; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-XXIV. Los demás que fijen expresamente las leyes y sus reglamentos.
+XXIII. Dirigir y vigilar el cumplimiento de la Ley de Desarrollo y Fomento Económico para el Estado de Chihuahua, así como de las demás leyes y disposiciones en materia de industria, comercio, turismo y demás actividades productivas;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+XXIV. Realizar y promover estudios e investigaciones sobre ahorro y uso eficiente de energía, difundir las políticas que el Gobierno Federal establezca en el sector energético, elaborar proyectos, programas, proporcionar asesorías, procedimientos, ejecutar acuerdos y demás aspectos relacionados con el sector que promuevan su desarrollo tecnológico, financiamiento y eficiencia, así como controlar y vigilar el debido cumplimiento de dichas atribuciones; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+XXV. Los demás que fijen expresamente las leyes y sus reglamentos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -857,9 +863,7 @@ X.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relaci�
 
 XI.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 1999)</small>
-
-XII.- Realizar y promover estudios e investigaciones sobre ahorro y uso eficiente de energía eléctrica, difundir las políticas que el Gobierno Federal establezca en el sector, elaborar proyectos, programas, proporcionar asesorías, procedimientos, ejecutar acuerdos y demás aspectos relacionados con el sector que promuevan su desarrollo tecnológico, financiamiento y eficiencia, así como controlar y vigilar el debido cumplimiento de dichas atribuciones;
+XII.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 1999)</small>
 
@@ -1169,7 +1173,7 @@ VIII. Ejercer el mando sobre la Policía Estatal Única en los términos de su L
 
 IX. Ejercitar las acciones legales en materia del Sistema Especializado de Justicia para Adolescentes Infractores;
 
-X. Organizar, dirigir y supervisar la Escuela Estatal de Policía, el Centro Estatal de Control de Confianza, los Centros de Control, Comando, Comunicaciones y Cómputo, la Dirección de Servicios Periciales y Ciencias Forenses, el Centro de Justicia Alternativa y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos; y (sic)
+X. Organizar, dirigir y supervisar la Escuela Estatal de Policía, el Centro Estatal de Control de Confianza, los Centros de Control, Comando, Comunicaciones y Cómputo, la Dirección de Servicios Periciales y Ciencias Forenses, el Centro de Justicia Alternativa y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos; y
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
@@ -2070,3 +2074,17 @@ De conformidad con el Artículo Séptimo, se dispondrán de ciento ochenta días
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado realizará las previsiones presupuestales necesarias, para que la Unidad Especializada para la Investigación y Persecución de los Delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, sea elevada a rango de Fiscalía Especializada en el plazo de un año contado a partir de la publicación del presente Decreto, y contará con el mismo término para implementar las acciones necesarias a efecto de dar cabal cumplimiento a las obligaciones previstas en el cuerpo del presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito al Departamento de Electrificación y Ahorro de Energía, dependiente de la Secretaría de Comunicaciones y Obras Públicas, se transfieran a la Secretaría de Economía y, en su caso, se asignen los recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá realizar las modificaciones necesarias a las disposiciones reglamentarias, a efecto de dar cumplimiento al presente Decreto.
