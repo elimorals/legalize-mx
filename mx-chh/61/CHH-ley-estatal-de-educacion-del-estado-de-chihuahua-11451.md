@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2014-11-15"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -381,9 +379,11 @@ VI. Conforme al artículo 23 de la Ley General de Educación, vigilar el estrict
 
 VII. Impulsar el intercambio de educandos, educadores, investigadores y científicos con otras Entidades Federativas, el Gobierno Federal y con instituciones educativas extranjeras y, promover cuanto sea necesario para el desarrollo y progreso de la tecnología, la ciencia, la cultura, las artes y la educación en general;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-VIII. Promover y vigilar el consumo de productos alimenticios benéficos para el desarrollo y la salud del estudiante al interior de las instituciones escolares;
+VIII. Promover y vigilar el consumo de productos alimenticios benéficos para el desarrollo y la salud del estudiante al interior de las instituciones escolares, coadyuvando, en coordinación con la Secretaría de Salud, en la implementación de programas que fomenten en los educandos el consumo de alimentos que contengan alto valor nutricional.
+
+Así mismo, supervisar que las instituciones educativas oficiales y particulares, instrumenten acciones tendientes a prevenir, diagnosticar y atender de manera oportuna la obesidad infantil y juvenil y, en su caso, sean canalizados al área correspondiente.
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -3982,3 +3982,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con ciento cuarenta días hábiles para modificar y adecuar a las nuevas disposiciones, el reglamento correspondiente.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
