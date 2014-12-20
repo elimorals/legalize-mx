@@ -4,7 +4,7 @@ identifier: "COL-ley-de-coordinacion-fiscal-del-estado-de-colima-44756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-23"
-last_updated: "2013-12-21"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de abril de 2005.
 
@@ -281,15 +281,19 @@ Estos apoyos también podrán otorgarse entre municipios, con la aprobación por
 
 ### CAPITULO TERCERO. DE LAS APORTACIONES FEDERALES A LOS MUNICIPIOS
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 18.
 
-Se establecen las aportaciones federales para los municipios, como recursos que la Federación transfiere a los municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece la Ley de Coordinación Fiscal, para los Fondos siguientes:
+Se establecen las aportaciones federales, como recursos que la Federación transfiere a los municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece la Ley de Coordinación Fiscal, para los Fondos siguientes:
 
-I. Fondo de Aportaciones para la Infraestructura Social Municipal; y
+I. Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal; y
 
 II. Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal.
 
-Los montos de recursos que integrarán los Fondos de Aportaciones señalados en el presente artículo, serán las que se determinen en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal.
+Los Fondos anteriores, se integrarán, distribuirán, administrarán, ejercerán y supervisarán, de acuerdo a lo dispuesto por la Ley de Coordinación Fiscal.
+
+Los montos de los recursos que integren los Fondos de Aportaciones señalados en el presente artículo, serán los que anualmente se determinen en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal.
 
 > <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
 
@@ -297,11 +301,11 @@ Los montos de recursos que integrarán los Fondos de Aportaciones señalados en 
 
 Los montos que correspondan a cada municipio de los Fondos de Aportaciones a que se refiere el artículo anterior, se calcularán y distribuirán con base en la aplicación del factor que determine la Secretaría de Finanzas y Administración, aplicando el procedimiento establecido en la Ley de Coordinación Fiscal, debiendo publicar dicha información en el Periódico Oficial a más tardar el 31 de enero del ejercicio fiscal aplicable, así como el calendario de entero, fórmula y metodología, justificando cada elemento y el calendario de ministraciones.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 20.
 
-El Fondo de Aportaciones para la infraestructura Social Municipal se enterará a los municipios mensualmente durante los primeros 10 meses del año por partes iguales y por conducto de la Secretaría de Finanzas y Administración~ (sic) será de manera ágil y directa, sin más limitaciones y restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que establece el artículo 33 de la Ley de Coordinación Fiscal.
+El Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, se enterará a los municipios mensualmente durante los primeros diez meses del año por partes iguales y por conducto de la Secretaría de Finanzas y Administración; será de manera ágil y directa, sin más limitaciones ni restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que se establecen en el artículo 33, de la Ley de Coordinación Fiscal.
 
 > <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
 
@@ -313,11 +317,15 @@ El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Dema
 
 Con relación a los enteros de los recursos provenientes de los Fondos de Aportaciones a que se refiere el presente Capítulo, no proceden los anticipos.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 23.
 
-Las aportaciones con cargo a los Fondos señalados en el artículo 18 de la presente Ley, no serán embargables, no podrán gravarse ni afectarlas en garantía, ni destinarse a mecanismos de fuentes de pago; serán cubiertas en efectivo y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 50 de la Ley de Coordinación Fiscal. Dichas aportaciones y, en su caso, sus rendimientos financieros, en ningún caso podrán destinarse a fines distintos a los expresamente previstos en los artículos 33 y 37 del mismo ordenamiento legal.
+Las aportaciones y sus accesorios que con cargo a los Fondos señalados en el artículo 18, de la presente Ley, reciban los municipios, serán cubiertas en efectivo, no serán embargables, ni los gobiernos correspondientes podrán, bajo ninguna circunstancia, gravarlas ni afectarlas en garantía o destinarse a mecanismos de fuente de pago, salvo por lo dispuesto en los artículos 50 y 51, de la Ley de Coordinación Fiscal. Dichas aportaciones y sus accesorios, en ningún caso podrán destinarse a fines distintos a los expresamente previstos en los artículos 33 y 37, de la Ley de Coordinación Fiscal.
+
+Las aportaciones federales que con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, reciban los municipios a través del Gobierno del Estado, se destinarán a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras, al pago de derechos y aprovechamientos por concepto de agua, descargas de aguas residuales, a la modernización de los sistemas de recaudación locales, mantenimiento de infraestructura, y a la atención de las necesidades directamente vinculadas con la seguridad pública de sus habitantes. Respecto de las aportaciones que reciban con cargo al Fondo a que se refiere este párrafo, los municipios tendrán las mismas obligaciones a que se refiere el artículo 33, apartado B, fracción II, incisos a) y c), de la Ley de Coordinación Fiscal.
+
+Las aportaciones que con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, que correspondan a los municipios, podrán afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, de conformidad con lo dispuesto en los artículos 37 y 51, de la Ley de Coordinación Fiscal.
 
 ###### ARTÍCULO 24.
 
@@ -742,3 +750,9 @@ P.O. 21 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- El H. Ayuntamiento de Villa de Álvarez, en su caso, deberá ajustar los reglamentos municipales correspondientes en un plazo de hasta 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Colima".
