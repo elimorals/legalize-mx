@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-cuidado-de-los-animales-del-estado-de-90455
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-29"
-last_updated: "2014-06-14"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2014, LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR A LOS TREINTA DÍAS SIGUIENTES A SU PUBLICACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 29 de noviembre de 2012.
 
@@ -99,9 +97,11 @@ III. El buen trato.
 
 ### Capítulo II. De la competencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-° Corresponde a la Secretaría del Medio Ambiente para el Desarrollo Sustentable el ejercicio de las siguientes facultades:
+° Corresponde a la Secretaría de Medio Ambiente y Desarrollo Territorial el ejercicio de las siguientes facultades:
 
 I. Celebrar convenios de coordinación con las autoridades federales y municipales para la generación de políticas públicas en materia de protección animal, así como para el cumplimiento de los ordenamientos en la materia;
 
@@ -237,7 +237,9 @@ I. Un representante de cada una de las secretarías de:
 
 a) Salud, quien presidirá el Consejo;
 
-b) Medio Ambiente para el Desarrollo Sustentable;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+b) Medio Ambiente y Desarrollo Territorial;
 
 c) Educación Pública, y
 
@@ -754,3 +756,7 @@ SEGUNDO. El Ejecutivo del Estado deberá realizar las adecuaciones a los reglame
 TERCERO. Se autoriza a la Secretaría de Planeación, Administración y Finanzas para realizar las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto, haciendo uso en su caso, de los recursos humanos y materiales ya existentes, en coordinación con la Fiscalía General del Estado de Jalisco, lo anterior con respecto de la creación de la Unidad Especializada de Protección Animal.
 
 CUARTO. Para el seguimiento de los delitos derivados de la violencia contra los animales, el Fiscal General designará las agencias especializadas para su conocimiento conforme a las disposiciones legales, reglamentarias y normativas aplicables.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
