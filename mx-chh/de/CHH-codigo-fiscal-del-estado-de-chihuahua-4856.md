@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2014-10-29"
+last_updated: "2014-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -2839,13 +2839,29 @@ Si es a los sujetos pasivos o responsables solidarios a quienes corresponde fija
 
 333.- El Jefe de la Oficina Recaudadora a la que corresponde el cobro, dictará mandamiento de ejecución, debidamente fundado y motivado, en el que ordenará que se requiera al deudor para que en el acto de la diligencia haga pago de su adeudo y, de no hacerlo, se le embarguen bienes de su propiedad bastantes para cubrirlo, después de lo cual se le prevendrá que dentro del plazo de 5 días siguientes a la fecha del embargo deberá hacer el pago en la caja de la oficina citada, apercibido que de no hacerlo se procederá al remate de los bienes secuestrados, para cubrir con su producto el crédito insoluto, así como los accesorios, gastos y vencimientos futuros en su caso. Si el pago se hiciere en el término indicado no se causarán honorarios por la diligencia de embargo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-334.- Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución y cualesquiera otros, se harán efectivos juntamente con el crédito inicial, sin necesidad de emplazamiento ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas.
+334.- Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución y cualesquiera otros, se harán efectivos juntamente con el crédito inicial, sin necesidad de emplazamiento ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas, y se determinarán de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+I.- Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar el 2% del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican:
 
-Por las diligencias de requerimiento y de embargo, se causará por concepto de gastos de ejecución a cargo del deudor, un 5% sobre el monto del crédito fiscal por cada una de dichas diligencias, pero en ningún caso podrá ser, en total, ni menor del importe de un día de salario mínimo, ni mayor del monto de diez días del citado salario; por la notificación de un crédito fiscal se causará el importe de un día de salario mínimo por concepto de gastos de ejecución.
+a). Por el requerimiento señalado en el primer párrafo del artículo 333 de este Código.
+
+b). Por la de embargo, incluyendo el señalado en el artículo 63, fracción IV de este Código.
+
+c). Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
+
+Cuando las diligencias a que se refieren los incisos a) y b) de este artículo se hagan en forma simultánea, se cobrarán únicamente los gastos a que se refiere el inciso b).
+
+Cuando en los casos señalados en los incisos anteriores, el 2% del crédito sea inferior a tres días de salario mínimo vigente en la Entidad, se cobrará esta cantidad en vez del 2% del crédito, y en ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder del equivalente a 100 días de salario mínimo vigente en la Entidad.
+
+II.- Por la diligencia de notificación de un crédito fiscal se causará el importe de dos días de salario mínimo vigente en la Entidad, por concepto de gastos de ejecución.
+
+III.- Los gastos extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven del embargo señalado en el artículo 63, fracción IV, de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda; los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios; los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles que sean adjudicados a favor del Estado, y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen a los bienes que sean objeto de remate, entre otros.
+
+Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con su correspondiente crédito fiscal, salvo que se interponga el recurso de revisión.
+
+Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a las autoridades fiscales estatales para el establecimiento de fondos de productividad, para financiar los programas de formación de funcionarios fiscales, asimismo para cubrir los gastos de notificación.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
@@ -3341,9 +3357,9 @@ II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la 
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-308.- Los derechos por la prestación de los servicios públicos que realizan las dependencias de Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento que provoquen por parte del Estado el gasto que deba ser remunerado por aquel.
+308.- Los derechos por la prestación de los servicios públicos que realizan las dependencias de Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento que provoquen por parte del Estado el gasto que deba ser remunerado por aquél.
 
-Los derechos de control vehicular por canje o dotación de placas incluirán la tarjeta de circulación, la cual tendrá la misma vigencia de las placas; cuando el canje deba realizarse con carácter general, se causará dentro de los tres primeros meses del año, salvo que la disposición que fije el derecho señale un plazo distinto.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
@@ -4826,3 +4842,9 @@ Los derechos y obligaciones que se establecen en el presente Decreto para los fu
 ###### ARTÍCULO VIGÉSIMO TERCERO.
 
 Se derogan las disposiciones que se opongan a lo dispuesto por el Artículo Segundo del presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el primero de enero del año 2015, previa publicación en el Periódico Oficial del Estado.
