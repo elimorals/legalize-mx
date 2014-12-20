@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2014-12-18"
+last_updated: "2014-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -467,13 +467,13 @@ La concertación de acciones entre la Secretaría de Salud Jalisco, y los integr
 
 I. Se establecerán las responsabilidades que asumirán los integrantes de los sectores social y privado;
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-II. Se determinarán las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud y Bienestar Social del Estado;
+II. Se determinarán las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud Jalisco;
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-III. Se especificará el carácter operativo de la concertación de acciones, con reserva de las funciones de la Secretaría de Salud y Bienestar Social del Estado; y
+III. Se especificará el carácter operativo de la concertación de acciones, con reserva de las funciones de la Secretaría de Salud Jalisco; y
 
 IV. Se expresarán las demás estipulaciones que, de común acuerdo, establezcan las partes.
 
@@ -1337,7 +1337,9 @@ Son servicios de salud de carácter social los que preste directamente o mediant
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
 
-Art. 89 bis. Son servicios de salud privados los que presten personas físicas o jurídicas en las condiciones que convengan con los usuarios, y sujetas a los ordenamientos legales, civiles y mercantiles. En materia de tarifas, se estará a lo dispuesto en la Ley General de Salud.
+###### Art. 89 Bis.
+
+Son servicios de salud privados los que presten personas físicas o jurídicas en las condiciones que convengan con los usuarios, y sujetas a los ordenamientos legales, civiles y mercantiles. En materia de tarifas, se estará a lo dispuesto en la Ley General de Salud.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -1347,7 +1349,9 @@ En beneficio de los grupos vulnerables, el Ejecutivo Estatal, por conducto de la
 
 I. Prestación de servicios gratuitos;
 
-II. Tarifas inferiores a las determinadas por la Secretaría de Comercio y Fomento Industrial; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+II. Tarifas inferiores a las determinadas por la Secretaría de Economía; y
 
 III. Prestación de servicios subrogados de atención médica a población abierta, mediante el pago, por parte del Estado, de un subsidio.
 
@@ -1537,7 +1541,9 @@ III. Recibir, atender e investigar las quejas que presenten los interesados, por
 
 IV. Investigar la veracidad de los actos y omisiones que sean materia de las quejas planteadas, para lo cual la Comisión podrá recibir toda la información y pruebas que aporten los profesionales, técnicos y auxiliares de la salud directamente involucrados, los usuarios y las instituciones prestadoras de servicio, y requerir aquellas otras que sean necesarias para dilucidar tales quejas, así como practicar las diligencias que correspondan.
 
-Toda aquella persona que manifieste ante la Comisión ser profesional de la medicina, deberá acreditarlo presentando el original de la cédula profesional correspondiente. Si en la investigación que realiza la Comisión, de alguna de las partes que se ha presentado o se le esté señalando como profesionista técnico o auxiliar de salud no sea acreditada esa profesión u oficio con documentos inobjetables, la Comisión deberá presentar denuncia de hechos ante la Procuraduría de Justicia del Estado a fin de que se investigue sobre la probable comisión de algún delito;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+Toda aquella persona que manifieste ante la Comisión ser profesional de la medicina, deberá acreditarlo presentando el original de la cédula profesional correspondiente. Si en la investigación que realiza la Comisión, de alguna de las partes que se ha presentado o se le esté señalando como profesionista técnico o auxiliar de salud no sea acreditada esa profesión u oficio con documentos inobjetables, la Comisión deberá presentar denuncia de hechos ante la Fiscalía General del Estado a fin de que se investigue sobre la probable comisión de algún delito;
 
 V. Intervenir en amigable composición para conciliar conflictos derivados de la prestación de servicios médicos por alguna de las causas que se mencionan:
 
@@ -1971,7 +1977,9 @@ El proceso de obtención de órganos y tejidos de donantes que hayan perdido la 
 
 Dicho instrumento podrá ser adoptado por los establecimientos que realicen procesos de donación y de trasplantes mediante convenio con el Consejo de Trasplantes.
 
-Para la aprobación y modificaciones al manual de procedimientos técnico-administrativos se requerirá el voto de por lo menos las dos terceras partes del Comité Técnico al cual se integrará un representante de la Procuraduría General de Justicia del Estado y uno del Instituto Jalisciense de Ciencias Forenses.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+Para la aprobación y modificaciones al manual de procedimientos técnico-administrativos se requerirá el voto de por lo menos las dos terceras partes del Comité Técnico al cual se integrará un representante de la Fiscalía General del Estado y uno del Instituto Jalisciense de Ciencias Forenses.
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2006)</small>
 
@@ -1979,7 +1987,9 @@ Para la aprobación y modificaciones al manual de procedimientos técnico-admini
 
 En el proceso de donación de órganos y tejidos intervendrá la Secretaría de Salud del Estado, a través del Consejo de Trasplantes y los establecimientos de salud autorizados para obtener órganos y tejidos y realizar trasplantes.
 
-Si la causa de la muerte del donante está relacionada con un hecho presuntamente constitutivo de delito, intervendrán además de los anteriores, la Procuraduría General de Justicia del Estado y el Instituto Jalisciense de Ciencias Forenses.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+Si la causa de la muerte del donante está relacionada con un hecho presuntamente constitutivo de delito, intervendrán además de los anteriores, la Fiscalía General del Estado y el Instituto Jalisciense de Ciencias Forenses.
 
 Para efectos del párrafo anterior los establecimientos autorizados que tramiten una donación, notificarán al Ministerio Público y al Consejo de Trasplantes de la existencia de un potencial donante. El Ministerio Público realizará las siguientes acciones:
 
@@ -1991,7 +2001,9 @@ c) Recabará el consentimiento de los disponentes secundarios en los términos d
 
 En caso de que el posible donador cuente con algún documento que acredite la calidad de donador, el agente del Ministerio Público deberá asentar en el acta ministerial la descripción de dicho documento; y
 
-d) Informará al Procurador General de Justicia del Estado de las circunstancias del proceso de donación, para que aquél manifieste su anuencia o inconformidad para la donación. El ministerio público notificará a la institución hospitalaria la decisión del Procurador.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+d) Informará al Fiscal General del Estado de las circunstancias del proceso de donación, para que aquél manifieste su anuencia o inconformidad para la donación. El ministerio público notificará a la institución hospitalaria la decisión del Fiscal General del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2002)</small>
 
@@ -2019,7 +2031,9 @@ III. El Comisionado para la Protección contra Riesgos Sanitarios de Jalisco, qu
 
 IV. Los siguientes participantes en calidad de vocales quienes también tendrán derecho a voz y voto:
 
-a) El Procurador General de Justicia del Estado;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+a) El Fiscal General del Estado;
 
 b) El Secretario de Educación del Estado;
 
@@ -2679,15 +2693,21 @@ a) Secretaría General de Gobierno;
 
 b) Secretaría de Salud Jalisco;
 
-c) Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+c) Fiscalía General del Estado;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 d) Secretaría de Educación;
 
 e) Secretaría de Cultura;
 
-f) Secretaría de Vialidad y Transporte;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-g) Procuraduría General de Justicia del Estado de Jalisco;
+f) Secretaría de Movilidad;
+
+g) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2014)
 
 h) Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -3625,7 +3645,7 @@ III. Si existiera peligro de invasión de dichos padecimientos, en el Estado.
 
 ###### Art. 237.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Salud Jalisco (sic), podrá ordenar o proceder a la vacunación de animales que puedan convertirse en transmisores de enfermedades o que pongan en riesgo la salud de las personas, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+El Ejecutivo del Estado, por conducto de la Secretaría de Salud Jalisco, podrá ordenar o proceder a la vacunación de animales que puedan convertirse en transmisores de enfermedades o que pongan en riesgo la salud de las personas, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3721,7 +3741,7 @@ Se sancionará con multa de veinte hasta mil veces el salario mínimo general di
 
 Se sancionará con multa equivalente de cien hasta quinientas veces el salario mínimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos: 33 y 34 de esta Ley.
 
-Se sancionará con multa (sic) con multa equivalente de quinientas hasta mil veces el salario mínimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos: 122 y 123 de esta ley.
+Se sancionará con multa con multa (sic) equivalente de quinientas hasta mil veces el salario mínimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos: 122 y 123 de esta ley.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -4286,5 +4306,9 @@ QUINTO. Los propietarios, poseedores, arrendatario o representantes legales de l
 SEXTO. El Gobierno del Estado, en coordinación con los 125 ayuntamientos, implementarán campañas de difusión y capacitación en los establecimientos y dependencias que resulten obligados por el presente decreto.
 
 P.O. 18 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
