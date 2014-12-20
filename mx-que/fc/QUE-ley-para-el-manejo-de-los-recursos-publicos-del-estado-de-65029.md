@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-65029
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2014-01-13"
+last_updated: "2014-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -33,7 +35,7 @@ LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE L
 
 CONSIDERANDO
 
-.
+...
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -361,7 +363,7 @@ El Poder Ejecutivo Estatal, en su caso, solicitará a la Legislatura la modifica
 
 ###### Artículo 37.
 
-Cuando por cualquier causa no sean aprobados por la Legislatura, la Ley de Ingresos y el Decreto Presupuesto (sic) de Egresos del Estado, correspondiente, se aplicarán los del ejercicio inmediato anterior, en todo lo que sea conducente, en tanto sean aprobados los nuevos.
+Cuando por cualquier causa no sean aprobados por la Legislatura, la Ley de Ingresos y el Decreto (sic) Presupuesto de Egresos del Estado, correspondiente, se aplicarán los del ejercicio inmediato anterior, en todo lo que sea conducente, en tanto sean aprobados los nuevos.
 
 ### Capítulo Segundo. De las remuneraciones de los servidores públicos
 
@@ -1213,7 +1215,7 @@ P.O. 8 DE JUNIO DE 2012.
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"
 
-Artículo Segundo. Se derogan todas las disposiciones legales igual o menor (sic) jerarquía que se opongan a la presente Ley.
+Artículo Segundo. Se derogan todas las disposiciones legales (sic) igual o menor jerarquía que se opongan a la presente Ley.
 
 P.O. 7 DE NOVIEMBRE DE 2012.
 
@@ -1226,3 +1228,19 @@ P.O. 13 DE ENERO DE 2014.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, con excepción de la Ley Orgánica del Poder Legislativo del Estado de Querétaro y del Reglamento del Poder Legislativo para la aplicación de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, cuya aprobación iniciará a partir del día de su aprobación por el Pleno de la Legislatura del Estado de Querétaro.
 
 Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Las disposiciones contenidas en el primer párrafo del artículo 36 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, comenzarán a regir el 1º de enero de 2015, por lo que resultará (sic) aplicables al procedimiento de presentación y aprobación de Tablas de Valores Unitarios de Suelo y Construcciones correspondiente al ejercicio fiscal 2016.
+
+Las propuestas de Tablas de Valores Unitarios de Suelo y Construcciones que servirán de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, para el ejercicio fiscal 2015, serán remitidas por los ayuntamientos de los municipios del Estado de Querétaro a la Legislatura Local, a más tardar el 15 de noviembre de 2014.
+
+Artículo Tercero. Se abroga la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro publicada el 13 de diciembre de 2008.
+
+Artículo Cuarto. Para efectos de lo dispuesto en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, los sujetos de dicho ordenamiento, estarán obligados a dar cumplimiento a lo establecido en la presente Ley en materia de contabilidad gubernamental y presentación de la información financiera, de conformidad con los plazos que al efecto establezca el Congreso de la Unión en la Ley respectiva, así como aquellos que se prevean en la normatividad que emitan los órganos que la misma autorice para tal efecto.
+
+Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
