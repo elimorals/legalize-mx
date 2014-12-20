@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2008-12-09"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -33,7 +33,7 @@ Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberan
 
 NUMERO.- 18343 EL CONGRESO DEL ESTADO DECRETA:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
@@ -325,7 +325,9 @@ Transcurrido el plazo a que hace referencia el artículo 31 de la presente ley s
 
 Operada la afirmativa ficta, el administrado podrá iniciar la actividad respecto de la cual realizó su solicitud, siempre y cuando le notifique a la autoridad administrativa silente del inicio de sus actividades.
 
-Lo anterior no exime al particular de cumplir con las disposiciones jurídicas que rijan dicha actividad, así como tampoco lo releva del cumplimiento de las obligaciones fiscales originadas por la autorización de la misma ni de las que sean consecuencia de su ejercicio, las cuales deberá pagar directamente a la autoridad al notificarle el inicio de sus actividades, mediante la entrega del certificado de depósito de las contribuciones consignadas ante la Secretaría de Finanzas que, en su caso, se generen de acuerdo con las leyes de ingresos respectivas.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+Lo anterior no exime al particular de cumplir con las disposiciones jurídicas que rijan dicha actividad, así como tampoco lo releva del cumplimiento de las obligaciones fiscales originadas por la autorización de la misma ni de las que sean consecuencia de su ejercicio, las cuales deberá pagar directamente a la autoridad al notificarle el inicio de sus actividades, mediante la entrega del certificado de depósito de las contribuciones consignadas ante la Secretaría Planeación, Administración y Finanzas que, en su caso, se generen de acuerdo con las leyes de ingresos respectivas.
 
 Los originales de los acuses de recibido tanto de la solicitud de la autorización tramitada, como de la notificación por escrito señalada en el segundo párrafo del presente artículo, además del certificado de depósito de las contribuciones correspondientes, en conjunto, serán considerados como la autorización administrativa para realizar la actividad solicitada.
 
@@ -1329,11 +1331,13 @@ Asimismo, el Estado y los ayuntamientos podrán celebrar convenios que les permi
 
 ### Capítulo II. Del Registro Público de Trámites Estatales
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 155.
 
-El Gobierno del Estado, a través de la Secretaría de Promoción Económica, estará a cargo del Registro Público de Trámites Estatales, mediante el cual se registrarán y harán públicos los datos e información relativa a los trámites vigentes del Poder Ejecutivo estatal, sus organismos públicos descentralizados y entidades paraestatales, así como de los municipios con los que se hubiere suscrito convenio de coordinación.
+El Gobierno del Estado, a través de la Secretaria de Desarrollo Económico, estará a cargo del Registro Público de Trámites Estatales, mediante el cual se registrarán y harán públicos los datos e información relativa a los trámites vigentes del Poder Ejecutivo estatal, sus organismos públicos descentralizados y entidades paraestatales, así como de los municipios con los que se hubiere suscrito convenio de coordinación.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
 
 Los procedimientos para el registro y actualización de los datos e información objeto de registro, así como el funcionamiento y operación del Registro Público de Trámites Estatales, se establecerán en el reglamento correspondiente.
 
@@ -1444,3 +1448,7 @@ P.O. 9 DE DICIEMBRE DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Los ayuntamientos tendrán un año a partir de la entrada en vigor del presente decreto, para reformar o expedir los reglamentos municipales que se adecuen a las presentes reformas. En tanto no se reformen o se expidan dichos reglamentos, los actos y procedimientos administrativos municipales se seguirán rigiendo por lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Jalisco.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
