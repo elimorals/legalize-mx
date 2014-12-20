@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2013-08-10"
+last_updated: "2014-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
-Ley publicada en la sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
+Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
 Al margen un sello que dice: Secretaría General de Gobierno. Gobierno del Estado de Jalisco. Estados Unidos Mexicanos.
 
@@ -153,7 +153,9 @@ IX. Constancia o póliza de seguro: documento expedido por una persona jurídica
 
 X. Foto infracción: las infracciones a la ley o a sus reglamentos que sean detectados a través de equipos o sistemas electrónicos;
 
-XI. Holograma de verificación vehicular: forma única autorizada y emitida por la Secretaría de Medio Ambiente para el Desarrollo Territorial, con características de seguridad y colores determinados de acuerdo con el año, en cumplimiento del programa respectivo;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+XI. Holograma de verificación vehicular: forma única autorizada y emitida por la Secretaría de Medio Ambiente y Desarrollo Territorial, con características de seguridad y colores determinados de acuerdo con el año, en cumplimiento del programa respectivo;
 
 XII. Instituto: el Instituto de Movilidad y Transporte del Estado de Jalisco;
 
@@ -359,7 +361,7 @@ Las autoridades estatales y municipales deberán:
 
 I. Programar y organizar sus acciones conforme a lo previsto en esta ley y en sus normas reglamentarias, observando las disposiciones del ordenamiento territorial y ecológico;
 
-II. Promover la participación de la sociedad en los programas que tengan como objeto conservar, mejorar y optimizar los sistemas de movilidad y transporte; la difusión, sensibilización y adopción de las medidas de prevención y la seguridad vial, y (sic)
+II. Promover la participación de la sociedad en los programas que tengan como objeto conservar, mejorar y optimizar los sistemas de movilidad y transporte; la difusión, sensibilización y adopción de las medidas de prevención y la seguridad vial, y
 
 III. Coadyuvar con el Ministerio Público y con los órganos de administración de justicia en la prevención, averiguación y esclarecimiento de los delitos, así como dar cumplimiento a las sanciones que, en su caso, se determinen y apliquen, relacionadas con la regulación y administración de la movilidad y transporte.
 
@@ -425,7 +427,9 @@ e) El Registro Estatal;
 
 f) La Fiscalía General del Estado, por conducto de la Policía Vial;
 
-g) La Secretaría del Medio Ambiente para el Desarrollo Territorial;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+g) Secretaría de Medio Ambiente y Desarrollo Territorial;
 
 h) El Instituto, y
 
@@ -670,6 +674,30 @@ Los policías viales deberán conducirse con el público en forma comedida y res
 Los policías viales en funciones deberán ubicarse en lugar visible para los conductores, salvo el tiempo estrictamente necesario que en cumplimiento de sus funciones implique separarse de aquel.
 
 Los policías viales encargados del horario nocturno, deberán de conducir las unidades para este servicio con las farolas encendidas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 27 Bis.
+
+Todos los elementos de la policía vial estatal y de la policía de tránsito municipal que se desempeñen en áreas operativas, deberán estar capacitados en primeros auxilios, y todos los vehículos que utilicen deberán de contar con un botiquín médico que contenga los materiales necesarios para su debida prestación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 27 Ter.
+
+Los cursos de capacitación en materia de primeros auxilios, deberán brindarse a los elementos de la policía vial estatal y de la policía de tránsito municipal de manera constante y en ningún caso excederán de dos años entre ellos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 27 Quáter.
+
+Los municipios podrán celebrar convenios con el Estado para que a través de éste se les brinde la capacitación en primeros auxilios a sus elementos de la policía de tránsito municipal.
 
 ### Capítulo VI. De la concurrencia y coordinación de las autoridades estatales y municipales en las zonas conurbadas y las áreas metropolitanas
 
@@ -1003,7 +1031,7 @@ b) Taxi en todas sus modalidades;
 
 V. Operadores de maquinaria y equipo móvil especial, y
 
-VI. Operadores de vehículos de seguridad; (sic)
+VI. Operadores de vehículos de seguridad;
 
 ###### Artículo 57.
 
@@ -1207,7 +1235,9 @@ IV. Los vehículos automotores contarán con dispositivos para prevenir y contro
 
 V. Toda modificación a la estructura o diseño de vehículos automotores se realizará por personal calificado y con estricto apego a las normas oficiales mexicanas;
 
-VI. Los vehículos automotores registrados en el Estado, se someterán a las verificaciones vehiculares en términos del programa que emita la Secretaría de Medio Ambiente para el Desarrollo Territorial, con la periodicidad establecida en el calendario oficial de verificación vigente para el Estado, para comprobar que se encuentran en condiciones ambientalmente óptimas para su circulación, conforme a las disposiciones de esta ley, su reglamento y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+VI. Los vehículos automotores registrados en el Estado, se someterán a las verificaciones vehiculares en términos del programa que emita la Secretaría de Medio Ambiente y Desarrollo Territorial, con la periodicidad establecida en el calendario oficial de verificación vigente para el Estado, para comprobar que se encuentran en condiciones ambientalmente óptimas para su circulación, conforme a las disposiciones de esta ley, su reglamento y demás disposiciones jurídicas aplicables;
 
 VII. Los conductores otorgarán la prelación de paso a los vehículos de seguridad que lleven encendidos códigos y sirenas, debiendo permitirles el paso si cruzan en una intersección, y cuando circulen sobre la misma vía en el mismo sentido, deberán colocarse en el extremo derecho de la vialidad y debiendo hacer alto. No deberán por ningún motivo aprovechar esta circunstancia para circular inmediatamente detrás de estos vehículos, y
 
@@ -1917,7 +1947,7 @@ Los ayuntamientos, en coordinación con la Secretaría, están facultados para d
 
 ###### Artículo 135.
 
-El Ejecutivo del Estado, por conducto de la Secretaría , podrá conceder a las personas físicas o jurídicas que lo soliciten y cumplan con los requisitos que se establezcan al efecto, concesiones para prestar el servicio público de transporte de carga, dentro del Estado de Jalisco o de los municipios correspondientes, en sus diferentes modalidades.
+El Ejecutivo del Estado, por conducto de la Secretaría, podrá conceder a las personas físicas o jurídicas que lo soliciten y cumplan con los requisitos que se establezcan al efecto, concesiones para prestar el servicio público de transporte de carga, dentro del Estado de Jalisco o de los municipios correspondientes, en sus diferentes modalidades.
 
 ### Capítulo IX. De las concesiones para operar el servicio de carga con grúa
 
@@ -3054,3 +3084,19 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 25150/LX/14 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 27 BIS, 27 TER Y 27 QUÁTER A LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO.
+
+PRIMERO. La presente reforma entrará en vigor tres meses después de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. A partir de su entrada en vigor, las corporaciones y dependencias obligadas tendrán un máximo de seis meses para otorgar su primera capacitación en materia de primeros auxilios a los elementos de seguridad pública y de policía vial correspondientes.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 25155/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN XI, 18 FRACCIÓN I INCISO G) Y 71 FRACCIÓN VI, DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
