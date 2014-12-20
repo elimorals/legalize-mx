@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-coordinacion-fiscal-estatal-intermunicipal-del-65023"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2011-05-06"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "QUE"
 ---
 # LEY DE COORDINACION FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERETARO
 
-LEY DE COORDINACION FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERETARO
+LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -75,7 +73,7 @@ I. El cuarenta por ciento, de acuerdo a la relación porcentual que represente e
 
 II. El treinta por ciento, de acuerdo a la relación porcentual que representen los ingresos propios por el municipio, del uno de octubre del año anterior al treinta de septiembre del año corriente, conforme a los datos con que cuenta la Entidad Superior de Fiscalización del Estado, en relación al total de los percibidos por todos los municipios (RIM);
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -123,29 +121,15 @@ El Poder Ejecutivo del Estado, por conducto de la Secretaría de Planeación y F
 
 El Gobernador del Estado, a través de la Secretaría de Planeación y Finanzas del Estado, deberá proporcionar, por escrito, a cada uno de los municipios del Estado, dentro del mes de noviembre de cada año, el monto anual estimado de sus participaciones para el año siguiente.
 
-###### Artículo 12.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para los efectos de las leyes de ingresos, fiscales y revisión de las cuentas públicas de los ayuntamientos, se aplicará la zonificación para los municipios del Estado que resulte de aplicar el procedimiento y fórmula que representan una clasificación inversamente proporcional, de la siguiente manera:
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-I. El veinte por ciento del número de habitantes de cada municipio dividido entre el total en el Estado, que dará por ende el Componente Municipal de Habitantes (CMH), con base en los datos que indique el último informe oficial emitido por el Consejo Nacional de Población para el año en que se aplicarán los ingresos.
+###### Artículo 12
 
-CMH = [(población del municipio) (0.20)] / Población del Estado;
+Bis. Los municipios del Estado podrán destinar o afectar a mecanismos de fuente de pago y/o garantía, las aportaciones y sus accesorios que con cargo al fondo a que se refiere el artículo 25, fracción IV de la Ley de Coordinación Fiscal reciban, en los supuestos y términos que dicha Ley establezca y de conformidad con lo dispuesto en el presente artículo.
 
-II. El diez por ciento del total de kilómetros cuadrados del territorio de cada municipio, dividido entre el total de extensión territorial del Estado, que por ende dará el Componente Municipal de Territorio (CMT), con base en los datos que indique el último informe oficial emitido por el Instituto Nacional de Estadística y Geografía.
-
-CMT = [(Kilómetro cuadrado del municipio) (0.10)] / Total de extensión territorial del Estado;
-
-III. El treinta por ciento del número asignado que por nivel de marginación establece el Consejo Nacional de Población para cada municipio, dividido entre el resultado de la suma de los números de los niveles de marginación de los dieciocho municipios, que dará por ende el Componente Municipal de Marginación (CMM1), asignando los números a cada municipio de la siguiente manera: uno, para los que establece el Consejo Nacional de Población con “Muy Alta marginación”; dos, para los que califican como “Alta marginación”; tres, para los que tienen “Media marginación”; cuatro, para los que establece con “Baja marginación” y cinco, para los que tiene “Muy Baja marginación”.
-
-CMM1 = [(Componente de marginación del municipio) (0.30)] / Suma de los números de los niveles de marginación de los dieciocho municipios;
-
-IV. El cuarenta por ciento del número asignado que por región económica establezca la Secretaría de Desarrollo Sustentable del Estado, basado en los datos estadísticos que proporcione el Instituto Nacional de Estadística y Geografía (INEG) y el Consejo Nacional de Población (CONAPO), dividido entre la suma de los números asignados a los dieciocho municipios, que dará por ende el Componente Municipal de Región Económica (CMR); asignando los números de la siguiente manera; 1, para los municipios incluidos en la “Región Sierra Gorda”, 2, para los incluidos en la “Región Semidesierto”, 3, para los incluidos en la “Región Sur” y 4, para los incluidos en la “Región Centro” (CMR).
-
-CMR = [(Región Económica del municipio) (0.40)] / Suma de los números asignados a los municipios.
-
-La zona que a cada municipio corresponde se considerará con seis decimales, para tal efecto el sexto decimal será redondeado, en su caso, como sigue: si el séptimo decimal es igual o mayor a cinco, el sexto decimal será incrementado al número inmediato superior y, si el séptimo decimal es menor a cinco, el sexto decimal permanecerá sin cambio.
-
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 13 DE DICIEMBRE DE 2008, PÁGINA 8592.]</small>
+En este caso, las cantidades del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal que tengan derecho a recibir los municipios, podrán destinarse al pago y/o afectarse en garantía del cumplimiento de las obligaciones de pago generadas por los derechos y aprovechamientos por concepto de agua y descargas de agua residuales que deban cubrir a la Comisión Nacional del Agua o, en su caso, de sus organismos prestadores de los servicios correspondientes, en términos de lo dispuesto por los artículos 37 y 51 de la Ley de Coordinación Fiscal y las reglas que al efecto emita la Secretaría de Hacienda y Crédito Público.
 
 ### Capítulo Tercero. Del Sistema de Colaboración Administrativa Estatal Intermunicipal
 
@@ -351,7 +335,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE DICIEMBRE DE 2010.
 
@@ -480,3 +464,121 @@ Salvo lo dispuesto en el párrafo siguiente, los procedimientos a que se refiere
 Cuando las autoridades fiscales hubieren emitido requerimientos en términos de la fracción III, del numeral 60 del Código Fiscal del Estado de Querétaro vigente hasta el 31 de diciembre de 2010, podrán imponer las multas que correspondan, de conformidad con dicha fracción.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2015.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Las cuotas, tasas o tarifas de las contribuciones previstas en otros ordenamientos de carácter estatal, distintos de la Ley de Hacienda del Estado de Querétaro, se incrementarán en un veinticinco por ciento.
+
+Lo anterior no será aplicable tratándose de leyes que establezcan contribuciones que formen parte de la hacienda pública municipal.
+
+Artículo Cuarto. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2015, serán las siguientes:
+
+I. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado (sic) Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente;
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos, y
+
+c) La expedición de certificados de no propiedad;
+
+II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular;
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular, y
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate;
+
+Se causará un derecho a razón de 5 VSMGZ por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios, y
+
+d) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+IV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial;
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos;
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos, y
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+
+V. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 VSMGZ;
+
+VI. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes;
+
+VII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+VIII. Las autoridades fiscales podrán cancelar créditos fiscales en sus registros por incosteabilidad en el cobro.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2014, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+No procederá la cancelación a que se refiere este artículo, cuando se trate de créditos fiscales derivados de obligaciones relacionadas con la propiedad, tenencia o uso de vehículos.
+
+La cancelación de los créditos a que se refiere este artículo no libera de su pago;
+
+IX. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del impuesto predial;
+
+X. Los servicios prestados por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado, contemplados en la fracción I del artículo 153, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán una cuota adicional equivalente a 0.50 VSMGZ al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria, que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Unidad Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo;
+
+XI. Los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 135 de la Ley de Hacienda del Estado de Querétaro, tendrán las siguientes reducciones:
+
+REDUCCIÓN SUPUESTO
+
+30% En los paquetes familiares (por lo menos tres
+
+personas en las diferentes disciplinas, previa
+
+entrega de una copia del acta de nacimiento
+
+de cada familiar).
+
+Para adultos mayores.
+
+XII. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa Querétaro cerca de tu economía familiar 2015, podrán determinar el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, considerando una reducción del veinticinco por ciento respecto de las cuotas, tasas y tarifas establecidas en dicho ordenamiento para efectos de su cálculo.
+
+XIII. Las personas físicas que sean propietarias de vehículos que provengan de otras entidades federativas, así como los de procedencia extranjera, que pretendan inscribirlos en el Padrón Vehicular Estatal, deberán acreditar su residencia en el Estado de Querétaro de por lo menos seis meses, presentando original y copia de la constancia de residencia municipal o de su credencial de elector vigente con domicilio en el Estado de Querétaro. En este último caso, además deberán presentar 2 comprobantes de domicilio con una antigüedad no mayor a 3 meses, cuyos datos relativos al domicilio del particular deberán ser coincidentes con los asentados en la referida credencial.
+
+Las personas morales que tributen en términos del Título III de la Ley del Impuesto sobre la Renta y que se encuentren en los supuestos previstos en el artículo 79 del mismo ordenamiento legal, que deseen dar de alta un vehículo de su propiedad en el Padrón Vehicular Estatal, deberán acreditar que su domicilio fiscal se encuentra ubicado en el Estado de Querétaro, por lo menos seis meses antes de la fecha en que se lleve a cabo el mencionado registro.
+
+En caso de que las personas a que se refieren los párrafos anteriores no acrediten lo establecido en este artículo, pagarán los derechos que se originen con motivo de los servicios previstos en la fracción II del artículo 157 de la Ley de Hacienda del Estado de Querétaro, en cantidad de 57.5 VSMGZ;
+
+XIV. Por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará una cuota adicional equivalente a 0.50 VSMGZ a los derechos que se señalan en las fracciones referidas de dicho precepto.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado; el titular de la Unidad Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador;
+
+XV. Por la prestación de los servicios previstos en la fracción I del artículo 157, de la Ley de Hacienda del Estado de Querétaro, adicionalmente al derecho que en dicho precepto se señala, se causará y pagará el equivalente a 0.85 VSMGZ.
+
+Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+En todo caso, las cantidades que se recauden en los términos de esta fracción se asignarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía; y
+
+XVI. Las calcomanías de revalidación y la tarjeta de circulación a que hace referencia el segundo párrafo de la fracción I del artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013 y 2014, continuarán vigentes hasta el 31 de marzo de 2016.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago de los derechos correspondientes al ejercicio fiscal 2015, por el servicio de refrendo y del impuesto sobre tenencia o uso de vehículos que contempla la referida ley y no tener adeudos por los mismos conceptos de ejercicios anteriores.
+
+Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y tarjeta de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, con el respectivo comprobante de pago conteniendo la cadena y sello digital que expida la autoridad fiscal.
+
+Artículo Quinto. Los asuntos que a la entrada en vigor de la presente Ley se encuentren en trámite, se sustanciarán conforme a las disposiciones del Código Fiscal del Estado de Querétaro, vigentes al momento de su inicio.
+
+Artículo Sexto. Con respecto a la reforma del artículo 142 de la Ley de Hacienda del Estado de Querétaro, las leyes de ingresos de los municipios podrán establecer los derechos correspondientes al traslado del Oficial del Registro Civil, cuando a petición de los interesados, el registro de nacimiento se realice en el domicilio del solicitante, en términos de lo dispuesto por el artículo 120 de la Ley de Hacienda de los Municipios del Estado de Querétaro.
