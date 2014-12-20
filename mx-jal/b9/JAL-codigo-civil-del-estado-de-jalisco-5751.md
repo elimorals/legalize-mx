@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2014-12-18"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3915,9 +3915,9 @@ II. Tiene el carácter de intransmisible, salvo en los casos de adopción;
 
 III. Representa un deber positivo de trato continuo, que exige y requiere un despliegue eficaz y constante que cumpla su cometido; y
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-IV. Confiere el derecho y el deber de aplicar la corrección disciplinaria, de manera prudente y moderada, con el fin de educar en forma armónica y positiva.
+IV. Confiere el derecho, el deber y la responsabilidad de cuidar, criar y aplicar la corrección disciplinaria de manera prudente y moderada a sus hijos, así como la obligación de observar una conducta que sirva a éstos de buen ejemplo, garantizándoles su bienestar físico y emocional, así como la promoción del ordenado desarrollo de su personalidad, con el fin de educar de forma armónica y positiva.
 
 ###### Art. 581.
 
@@ -18724,3 +18724,9 @@ SEGUNDO. Los juicios que se encuentren en trámite a la entrada en vigor del pre
 P.O. 18 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los procedimientos penales iniciados antes de entrada en vigor del presente decreto en materia de maltrato al infante, al que se refiere el articulo 205 bis del Código Penal del Estado de Jalisco, así como las agravantes mencionadas en el artículo 142-Ñ, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le den origen.
