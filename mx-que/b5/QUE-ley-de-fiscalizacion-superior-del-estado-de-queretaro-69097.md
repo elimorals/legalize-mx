@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fiscalizacion-superior-del-estado-de-queretaro-69097"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2009-06-26"
+last_updated: "2014-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE QUERETARO
 
-LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE QUERETARO
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -237,7 +239,7 @@ El Poder Legislativo, en el año en que tenga elecciones, deberá presentar la c
 
 ###### Artículo 22.
 
-La Entidad Superior de Fiscalización del Estado conservará en su poder la cuenta pública de cada periodo y los informes de resultados de su revisión por el término que las disposiciones legales señalen (sic).
+La Entidad Superior de Fiscalización del Estado conservará en su poder la cuenta pública de cada periodo y los informes de resultados de su revisión por el término que las disposiciones legales señalen.
 
 Las entidades fiscalizadas conservarán en su poder los libros y registros electrónicos de contabilidad gubernamental e información financiera, así como los documentos justificativos y comprobatorios de la cuenta pública mientras no prescriban las acciones derivadas de las operaciones en ellos consignadas.
 
@@ -349,7 +351,7 @@ II. La Entidad Superior de Fiscalización del Estado iniciará la fiscalización
 
 III. La Entidad Superior de Fiscalización del Estado comunicará por escrito a las entidades fiscalizadas las observaciones y recomendaciones derivadas dentro del proceso fiscalización, a efecto de que las aclare, atienda o solvente, dentro del término de quince días hábiles contados a partir del día hábil siguiente al en que fue recibido el comunicado. Durante este lapso, la entidad fiscalizada y la Entidad Superior de Fiscalización del Estado podrán trabajar conjuntamente en el desahogo de las observaciones, a solicitud de cualquiera de las partes involucradas en el proceso de fiscalización de la cuenta pública. Siendo decisión de la Entidad Superior de Fiscalización del Estado el aceptar o rechazar la solventación de las observaciones. Las observaciones que no se contesten se entenderán aceptadas por la entidad fiscalizada;
 
-IV. Sólo por causa justificada, a juicio del titular de la Entidad Superior de Fiscalización del Estado, podrá prorrogarse el plazo señalado en el párrafo anterior, siempre que lo solicite el titular de la entidad fiscalizada dentro del citado plazo. Dicha prórroga no podrá exceder de quince días naturales; y (sic)
+IV. Sólo por causa justificada, a juicio del titular de la Entidad Superior de Fiscalización del Estado, podrá prorrogarse el plazo señalado en el párrafo anterior, siempre que lo solicite el titular de la entidad fiscalizada dentro del citado plazo. Dicha prórroga no podrá exceder de quince días naturales; y
 
 V. Transcurrido el plazo señalado en el artículo 21, no procederá la aportación de documento alguno por parte de la entidad fiscalizada, ni procederá la ampliación de la fiscalización de cuenta pública;
 
@@ -506,3 +508,19 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se abroga la Ley de Fiscalización Superior del Estado de Querétaro, publicada el 26 de junio de 2009, en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Tercero. La Entidad Superior de Fiscalización del Estado de Querétaro actualizará, conforme a las disposiciones de esta Ley, la normatividad interna que reglamente su organización y funcionamiento, así como las reglas técnicas relativas al proceso de Fiscalización Superior, en un plazo no mayor de noventa días hábiles, contados a partir del día siguiente al de la publicación de esta Ley.
+
+Artículo Cuarto. El Auditor Superior del Estado, en los términos del artículo 18 de este ordenamiento, dictará los manuales, circulares y disposiciones administrativas que se requieran para el eficaz cumplimiento de esta Ley.
+
+Artículo Quinto. Los asuntos y procesos de Fiscalización Superior que se encuentren en trámite por la Entidad Superior de Fiscalización del Estado de Querétaro, al entrar en vigor esta Ley, continuarán tramitándose hasta su conclusión, en los términos de la Ley que regía en el momento de su sustanciación.
+
+Artículo Sexto. Para efectos del artículo 15 de la presente Ley, el actual Auditor Superior del Estado, concluirá el periodo de encargo para el que fue designado y hasta en tanto la Legislatura no designe al Auditor Superior del Estado entrante, de conformidad con el mismo precepto.
