@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-acceso-a-la-informacion-gubernamental-del-estado-de-2622
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-27"
-last_updated: "2012-11-09"
+last_updated: "2014-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE ACCESO A LA INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de septiembre de 2002.
 
@@ -79,33 +79,31 @@ VI.- Información pública: Todo registro, archivo o dato, contenido en document
 
 VII.- Información reservada: Aquella información pública que se encuentra temporalmente sujeta a alguna de las excepciones previstas en la presente Ley;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-VIII.- Servidor público: Toda persona a la que se le conceda o reconozca tal carácter, de conformidad con la legislación en materia de responsabilidades administrativas;
+VIII.- Información financiera: la información presupuestaria y contable expresada en unidades monetarias, sobre las transacciones que realizan los Poderes del Estado, las entidades paraestatales y paramunicipales, los ayuntamientos a través de las dependencias y unidades administrativas del municipio y los organismos constitucionales autónomos y los eventos económicos identificables y cuantificables que los afectan, la cual puede representarse por reportes, informes, estados y notas que expresan su situación financiera, los resultados de su operación y los cambios en su patrimonio;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2012)</small>
+IX.- Servidor público: Toda persona a la que se le conceda o reconozca tal carácter, de conformidad con la legislación en materia de responsabilidades administrativas;
 
-IX.- Sujetos obligados:
+X.- Sujetos obligados:
 
 a) Los Poderes Ejecutivo, Judicial y Legislativo del Estado de Querétaro.
 
 b) Las entidades paraestatales y paramunicipales.
 
-c) Las dependencias y unidades administrativas del Municipio.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+c) Las dependencias y unidades administrativas del municipio.
 
 d) Los organismos dotados de autonomía por la Constitución Política del Estado de Querétaro.
 
 e) Los partidos y organizaciones políticas con registro oficial, en los términos que al efecto prevea la legislación electoral.
 
-f) La Universidad Autónoma de Querétaro y demás instituciones de educación superior que reciban recursos públicos.
+f) La Universidad Autónoma de Querétaro y demás instituciones de educación superior que reciban recursos públicos;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2012)</small>
+XI.- Superior jerárquico: Los señalados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro o sus equivalentes y los demás sujetos obligados en términos de esta Ley; y
 
-X.- Superior jerárquico: Los señalados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro o sus equivalentes y los demás sujetos obligados en términos de esta Ley; y
-
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2012)</small>
-
-XI.- Unidades de Información Gubernamental: Unidades administrativas establecidas mediante disposiciones de carácter general, facultadas para recibir peticiones, gestionar y proporcionar información pública a los particulares.
+XII.- Unidades de Información Gubernamental: Unidades administrativas establecidas mediante disposiciones de carácter general, facultadas para recibir peticiones, gestionar y proporcionar información pública a los particulares.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2012)</small>
 
@@ -143,23 +141,21 @@ El solicitante podrá, en forma previa al pago del costo de la información requ
 
 ### CAPÍTULO SEGUNDO. De la información que debe ser difundida por los sujetos obligados
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 7.
 
 Los sujetos obligados a que se refiere la presente Ley, con excepción de la clasificada como reservada o confidencial, tienen la obligación de poner a disposición del público y mantener actualizada la información pública en los términos del Reglamento respectivo. Para tales efectos, según convenga, lo realizarán por los medios oficiales y aquellos que puedan lograr el conocimiento público, tales como publicaciones, folletos, periódicos, murales, medios electrónicos o cualquier otro medio de comunicación pertinente.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2012)</small>
-
-Deberán tener un portal en internet, en cuya página de inicio habrá una indicación claramente visible con la leyenda "Transparencia" que enlace al sitio donde se encuentre la información a la que se refiere el presente artículo, debiendo utilizar un lenguaje claro, accesible, que facilite su comprensión por todos los posibles usuarios; contará con buscadores temáticos y dispondrá de un respaldo con todos los registros electrónicos para cualquier persona que los solicite.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2008)</small>
+Deberán tener un portal en Internet, en cuya página de inicio habrá una indicación claramente visible con la leyenda "Transparencia" que enlace al sitio donde se encuentre la información a la que se refiere el presente artículo, debiendo utilizar un lenguaje claro, accesible, que facilite su comprensión por todos los posibles usuarios; contará con buscadores temáticos y dispondrá de un respaldo con todos los registros electrónicos para cualquier persona que los solicite.
 
 Asimismo, deberán fomentar la publicación de información útil para la ciudadanía, tales como servicios públicos y trámites.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2012)</small>
+La Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado y las dependencias encargadas de las finanzas públicas de los municipios, establecerán, en sus respectivas páginas de Internet, los enlaces electrónicos que permitan acceder a la información financiera de los Poderes, órganos desconcentrados, organismos constitucionales autónomos, entidades paraestatales y demás entes públicos que conformen el orden de gobierno correspondiente. Asimismo, los enlaces mencionados permitirán acceder a las páginas de Internet de los órganos o instancias de transparencia competentes.
 
-Los sujetos obligados deberán publicar en el portal de internet referido, la información siguiente:
+De igual forma, la mencionada Secretaría podrá incorporar en su página de Internet, previo convenio administrativo, la información financiera de los municipios.
+
+Los sujetos obligados deberán publicar en el portal de Internet referido, la información siguiente:
 
 I. Su estructura orgánica;
 
@@ -167,31 +163,39 @@ II. Las atribuciones y los servicios que prestan las unidades administrativas;
 
 III. Los medios oficiales de difusión de cada sujeto obligado;
 
-IV. Las leyes, reglamentos, decretos, acuerdos administrativos, manuales administrativos, circulares y demás disposiciones de observancia general que regulen el desarrollo y fundamente la actuación de la Entidad;
+IV. Las leyes, reglamentos, decretos, acuerdos administrativos, manuales administrativos, circulares y demás disposiciones de observancia general que regulen su desarrollo y fundamenten su actuación, así como aquellos documentos que de conformidad con los ordenamientos aplicables, deban publicarse en los medios de difusión oficial a los que se refiere este artículo;
 
 V. El directorio de servidores públicos, a partir del nivel de jefe de departamento o sus equivalentes;
 
-VI. El ejercicio del presupuesto de egresos desglosado;
+VI. Documentos dirigidos a la ciudadanía que expliquen, de manera sencilla y en formatos accesibles, el contenido de la información financiera que deban contener las Leyes de Ingresos y Presupuestos de Egresos del Estado y de los municipios, en los términos de lo que establezca el Congreso de la Unión en la ley respectiva y en las demás disposiciones aplicables.
 
-VII. Los balances, estados financieros, documentación contable, formularios, nóminas, listas de personal, asesores externos, peritos y demás información que refleje el estado financiero de la Entidad;
+En lo relativo a los Presupuestos de Egresos de los Municipios, los ayuntamientos respectivos deberán publicar los acuerdos de cabildo y las actas de aprobación correspondientes.
 
-VIII. La estadística e indicadores sobre información relevante, respecto a la procuración de justicia y a la actividad del Ministerio Público;
+VII. Los calendarios de ingresos y de presupuesto de egresos con base mensual, en los términos que establezca el Congreso de la Unión en la ley respectiva;
 
-IX. La remuneración neta mensual por puesto de los servidores públicos, en la que deberán incluirse las percepciones o elementos que incidan en la integración del salario;
+VIII. La asignación de los recursos previstos en el presupuesto de egresos, de conformidad con las clasificaciones que establezca el Congreso de la Unión en la ley respectiva;
 
-X. Los datos y fundamentos finales contenidos en los expedientes administrativos que justifican el otorgamiento o el rechazo de permisos, concesiones o licencias que la ley permite autorizar a cualquiera de los sujetos obligados, así como un listado de los que se hubieren otorgado;
+IX. La información relativa al desempeño de programas públicos, en los términos que establezca el Congreso de la Unión en la ley respectiva y demás disposiciones aplicables;
 
-XI. Las contrataciones, licitaciones y los procesos de toda adquisición de bienes o servicios;
+X. Los estados financieros, listas de personal, asesores externos, peritos y demás información que refleje el estado financiero de los sujetos obligados;
 
-XII. Las cuentas públicas y sus respectivos dictámenes, sus observaciones y sanciones; así como los procedimientos de éstas y de su ejecución;
+XI. La estadística e indicadores sobre información relevante, respecto a la procuración de justicia y a la actividad del Ministerio Público;
 
-XIII. Los resultados de las auditorías al ejercicio presupuestal que realicen, según corresponda, los órganos de control interno y la Entidad Superior de Fiscalización del Estado;
+XII. La remuneración neta mensual por puesto de los servidores públicos, en la que deberán incluirse las percepciones o elementos que incidan en la integración del salario;
 
-XIV. Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino;
+XIII. Los datos y fundamentos finales contenidos en los expedientes administrativos que justifican el otorgamiento o el rechazo de permisos; concesiones o licencias que la ley permite autorizar a cualquiera de los sujetos obligados, así como un listado de los que se hubieren otorgado;
 
-XV. El domicilio oficial, nombre, teléfonos y dirección electrónica de los servidores públicos encargados de gestionar y resolver las solicitudes de información pública;
+XIV. Las contrataciones, licitaciones y los procesos de toda adquisición de bienes o servicios;
 
-XVI. La información de los órganos jurisdiccionales, administrativos o del trabajo, que tengan por objeto resolver controversias o aplicar el derecho, además de la citada en las otras fracciones de este artículo, se archivará electrónicamente y se constituirá básicamente por los siguientes elementos:
+XV. Las cuentas públicas y sus respectivos dictámenes, sus observaciones y sanciones; así como los procedimientos de éstas y de su ejecución;
+
+XVI. Los resultados de las auditorías al ejercicio presupuestal que realicen, según corresponda, los órganos de control interno y la Entidad Superior de Fiscalización del Estado;
+
+XVII. Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino;
+
+XVIII. El domicilio oficial, nombre, teléfonos y dirección electrónica de los servidores públicos encargados de gestionar y resolver las solicitudes de información pública;
+
+XIX. La información de los órganos jurisdiccionales, administrativos o del trabajo, que tengan por objeto resolver controversias o aplicar el derecho, además de la citada en las otras fracciones de este artículo, se archivará electrónicamente y se constituirá básicamente por los siguientes elementos:
 
 a) Lista de las partes, los magistrados, presidentes, jueces, abogados y Agentes del Ministerio Público que intervengan.
 
@@ -199,17 +203,15 @@ b) Tipo de juicio o procedimiento, la acción ejercitada, la naturaleza de los h
 
 c) Un extracto de las resoluciones y determinaciones más trascendentales, como el ejercicio de la acción penal, las sentencias interlocutorias y definitivas, laudos y resoluciones de apelación y de amparo.
 
-Las partes podrán oponerse a la publicación de sus datos personales.
+Las partes podrán oponerse a la publicación de sus datos personales;
 
-XVII. Las fórmulas de participación ciudadana, en su caso, para la toma de decisiones por parte de los sujetos obligados;
+XX. Las fórmulas de participación ciudadana, en su caso, para la toma de decisiones por parte de los sujetos obligados;
 
-XVIII. Los servicios y programas de apoyo que ofrecen, así como los trámites, requisitos y formatos para acceder a los mismos;
+XXI. Los servicios y programas de apoyo que ofrecen, así como los trámites, requisitos y formatos para acceder a los mismos;
 
-XIX. Las controversias entre entidades gubernamentales;
+XXII. Las controversias entre entidades gubernamentales;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2012)</small>
-
-XX. La información del Poder Legislativo, además de la citada en las otras fracciones, se constituirá básicamente por los siguientes elementos:
+XXIII. La información del Poder Legislativo, además de la citada en las otras fracciones, se constituirá básicamente por los siguientes elementos:
 
 a) Los nombres, fotografías y currícula de los legisladores y sus suplentes, así como las comisiones u órganos legislativos a los que pertenecen y las funciones que en ellos realizan.
 
@@ -217,7 +219,9 @@ b) La agenda legislativa.
 
 c) La votación obtenida en los dictámenes y acuerdos sometidos al Pleno y demás órganos de trabajo y legislativos, con expresión de aquélla emitida a favor, en contra o abstención y refiriendo el nombre de quien la expresó, salvo que se trate de una votación secreta en términos de la ley en la materia.
 
-d) Las iniciativas de ley, decreto o acuerdo, así como los datos de quienes las presentaron, fecha en que se recibieron, comisiones a las que se turnaron y los dictámenes emitidos respecto de las mismas.
+d) Las iniciativas y proyectos de ley, decreto o acuerdo, así como los datos de quienes las presentaron, fecha en que se recibieron, comisiones a las que se turnaron y los dictámenes emitidos respecto de las mismas.
+
+Tratándose de las Leyes de Ingresos del Estado y los Municipios, así como del Presupuesto de Egresos del Estado, también deberán publicarse los acuerdos de comisión y las actas de aprobación correspondientes.
 
 e) Las leyes, decretos, acuerdos y demás disposiciones de observancia general aprobadas por el Pleno.
 
@@ -229,17 +233,17 @@ h) Los montos de las partidas presupuestales asignadas a los grupos y fracciones
 
 i) Las convocatorias, órdenes del día, actas y listas de asistencia de las sesiones del Pleno y demás órganos de trabajo y legislativos.
 
-j) Los demás informes que deban presentarse conforme a la Ley Orgánica del Poder Legislativo del Estado de Querétaro.
+j) Los demás informes que deban presentarse conforme a la Ley Orgánica del Poder Legislativo del Estado de Querétaro;
 
-XXI. Los informes anuales de actividades;
+XXIV. Los informes anuales de actividades;
 
-XXII. La aplicación del Fondo Auxiliar para la Administración de Justicia del Poder Judicial y cualquier otro análogo de todos los sujetos obligados;
+XXV. La aplicación del Fondo Auxiliar para la Administración de Justicia del Poder Judicial y cualquier otro análogo de todos los sujetos obligados;
 
-XXIII. Las convocatorias a concurso o licitación de obras, adquisiciones, arrendamientos, prestación de servicios, concesiones, permisos y autorizaciones, así como sus resultados;
+XXVI. Las convocatorias a concurso o licitación de obras, adquisiciones, arrendamientos, prestación de servicios, concesiones, permisos y autorizaciones, así como sus resultados;
 
-XXIV. El padrón de proveedores y el padrón de contratistas; y
+XXVII. El padrón de proveedores y el padrón de contratistas; y
 
-XXV. Toda aquella información que sea de utilidad para el ejercicio del derecho de acceso a la información pública, excepto la que atente contra derechos de terceros, ataque la moral, altere el orden público, la paz social o afecte la intimidad de las personas.
+XXVIII. Toda aquella información que sea de utilidad para el ejercicio del derecho de acceso a la información pública, excepto la que atente contra derechos de terceros, ataque la moral, altere el orden público, la paz social o afecte la intimidad de las personas.
 
 ###### Artículo 8.
 
@@ -308,6 +312,12 @@ El sujeto obligado correspondiente y la Comisión acordarán los formatos para q
 Los informes que rindan ante el Instituto Elector de Querétaro los partidos políticos y las organizaciones políticas que reciban recursos públicos del Estado o de los Municipios, tendrán el carácter de información pública, los gastos de campañas internas y constitucionales, se difundirán a la brevedad posible, siendo público el procedimiento de fiscalización de los mismos.
 
 También se considera información pública la referente a los procesos internos de selección de candidatos y dirigentes, desarrollados por los partidos y organizaciones políticas.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 12 Bis.
+
+La generación y publicación de la información financiera de los Poderes del Estado, las entidades paraestatales y paramunicipales, los ayuntamientos a través de las dependencias y unidades administrativas del municipio y los organismos constitucionales autónomos, se hará conforme a las normas, estructura, formatos y contenido que para tal efecto establezca la Ley General que emita el Congreso de la Unión.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MAYO DE 2012)</small>
 
@@ -1054,3 +1064,17 @@ P.O. 9 DE NOVIEMBRE DE 2012.
 Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Las disposiciones contenidas en el primer párrafo del artículo 36 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, comenzarán a regir el 1° de enero de 2015, por lo que resultará (sic) aplicables al procedimiento de presentación y aprobación de Tablas de Valores Unitarios de Suelo y Construcciones correspondiente al ejercicio fiscal 2016.
+
+Las propuestas de Tablas de Valores Unitarios de Suelo y Construcciones que servirán de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, para el ejercicio fiscal 2015, serán remitidas por los ayuntamientos de los municipios del Estado de Querétaro a la Legislatura Local, a más tardar el 15 de noviembre de 2014.
+
+Artículo Tercero. Se abroga la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro publicada el 13 de diciembre de 2008.
+
+Artículo Cuarto. Para efectos de lo dispuesto en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, los sujetos de dicho ordenamiento, estarán obligados a dar cumplimiento a lo establecido en la presente Ley en materia de contabilidad gubernamental y presentación de la información financiera, de conformidad con los plazos que al efecto establezca el Congreso de la Unión en la Ley respectiva, así como aquellos que se prevean en la normatividad que emitan los órganos que la misma autorice para tal efecto.
+
+Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
