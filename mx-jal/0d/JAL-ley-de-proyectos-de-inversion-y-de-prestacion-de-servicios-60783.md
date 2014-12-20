@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proyectos-de-inversion-y-de-prestacion-de-servicios-6078
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2008-05-01"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE PROYECTOS DE INVERSION Y DE PRESTACION DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-LEY DE PROYECTOS DE INVERSION Y DE PRESTACION DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
+LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 2008.
 
@@ -71,9 +71,17 @@ VIII. Licitante: una o más personas físicas o jurídicas de los sectores socia
 
 IX. Proveedor: cualquier Licitante que sea adjudicatario de un contrato conforme a lo previsto en esta ley y, en tal virtud, se obligue en los términos de ese contrato a prestar servicios a una entidad pública estatal;
 
-X. Proyecto: cualquier proyecto desarrollado por una entidad bajo la modalidad de asociación público-privada, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-XI. Proyecto de referencia: proyecto ejecutivo de inversión o desarrollo, distinto al de asociación público-privada, que contenga los elementos técnicos y financieros necesarios para confrontarlo con el proyecto, en aras de determinar la manera más eficiente, eficaz y efectiva posible para la solución a los problemas y servicios que pretenden atender.
+X. Proyecto: cualquier proyecto desarrollado por una entidad bajo la modalidad de asociación público-privada;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+XI. Proyecto de referencia: proyecto ejecutivo de inversión o desarrollo, distinto al de asociación público-privada, que contenga los elementos técnicos y financieros necesarios para confrontarlo con el proyecto, en aras de determinar la manera más eficiente, eficaz y efectiva posible para la solución a los problemas y servicios que pretenden atender; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+XII. Secretaría: la Secretaría de Planeación, Administración y Finanzas.
 
 ###### Artículo 3°.
 
@@ -183,17 +191,23 @@ El análisis costo-beneficio deberá mostrar si el desarrollo del proyecto gener
 
 Para los efectos del párrafo anterior, se considerarán los siguientes tipos de análisis costo-beneficio:
 
-I. Nivel perfil. Este análisis deberá ser presentado a la Secretaría de Planeación para obtener la autorización del proyecto y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-II. Nivel prefactibilidad. Este análisis deberá ser presentado tanto a la Secretaría como a la Secretaría de Planeación, para obtener la autorización definitiva del contrato, para el caso de entidad estatal, y las dependencias equivalentes para el caso de entidad municipal. De igual manera deberá ser remitido a la dependencia de la entidad que de acuerdo a la materia del proyecto, tenga los conocimientos y especialistas que puedan validar la propuesta técnica del proyecto.
+I. Nivel perfil. Este análisis deberá ser presentado a la Secretaría para obtener la autorización del proyecto; y
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+II. Nivel prefactibilidad. Este análisis deberá ser presentado a la Secretaría para obtener la autorización definitiva del contrato, para el caso de entidad estatal, y las dependencias equivalentes para el caso de entidad municipal. De igual manera deberá ser remitido a la dependencia de la entidad que de acuerdo a la materia del proyecto, tenga los conocimientos y especialistas que puedan validar la propuesta técnica del proyecto.
 
 Los análisis costo-beneficio deberán estar sustentados con información confiable que permita incorporar una estimación, en términos monetarios, de los beneficios y costos del proyecto. Los beneficios y costos se expresarán a precios de un solo año, preferentemente el del ejercicio fiscal en curso o el que se prevea en las disposiciones normativas aplicables.
 
 El reglamento de esta ley establecerá los demás aspectos que cubrirá el análisis costo-beneficio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 9°.
 
-Antes de iniciar el proceso de adjudicación de un contrato y de aprobación ante el Congreso del Estado, las entidades estatales que pretendan realizar un proyecto deberán contar con la opinión de la Secretaría de Planeación, así como con el dictamen favorable de la secretaría de Finanzas del Estado; los dictámenes se elaborarán con base en:
+Antes de iniciar el proceso de adjudicación de un contrato y de aprobación ante el Congreso del Estado, las entidades estatales que pretendan realizar un proyecto deberán contar con la opinión, así como con el dictamen favorable de la Secretaría; los dictámenes se elaborarán con base en:
 
 I. Las características del proyecto;
 
@@ -203,15 +217,19 @@ III. El impacto que en las finanzas públicas tendrán las obligaciones de pago 
 
 IV. La congruencia del proyecto con las directrices establecidas en el Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-Tratándose de proyectos a cargo de entidades municipales, cuando éstas requieran que el Poder Ejecutivo funja como aval, justificarán en la solicitud que hagan ante la Secretaría de Finanzas la necesidad, idoneidad y viabilidad financiera del proyecto así como la congruencia del mismo con el contenido del Plan Municipal de Desarrollo. Para ello, recabarán la opinión del encargado de la Hacienda Municipal, así como la del comité o entidad municipal competente, mismas que deberán ser adjuntadas a la solicitud de aprobación del proyecto de que se trate.
+Tratándose de proyectos a cargo de entidades municipales, cuando éstas requieran que el Poder Ejecutivo funja como aval, justificarán en la solicitud que hagan ante la Secretaría la necesidad, idoneidad y viabilidad financiera del proyecto, así como la congruencia del mismo con el contenido del Plan Municipal de Desarrollo. Para ello, recabarán la opinión del encargado de la Hacienda Municipal, así como la del comité o entidad municipal competente, mismas que deberán ser adjuntadas a la solicitud de aprobación del proyecto de que se trate.
 
 ### CAPÍTULO IV. De la presupuestación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-La Secretaría de Finanzas deberá emitir, dentro de los lineamientos generales que contengan los criterios y políticas de finanzas públicas y de ejercicio del gasto, la metodología que se utilizará para evaluar el impacto del proyecto en el gasto específico de la entidad contratante correspondiente, así como el impacto del proyecto en el gasto público y en el presupuesto de egresos del Estado.
+La Secretaría deberá emitir, dentro de los lineamientos generales que contengan los criterios y políticas de finanzas públicas y de ejercicio del gasto, la metodología que se utilizará para evaluar el impacto del proyecto en el gasto específico de la entidad contratante correspondiente, así como el impacto del proyecto en el gasto público y en el presupuesto de egresos del Estado.
 
 Para tal efecto, en la planeación de los proyectos las entidades deberán ajustarse a lo siguiente:
 
@@ -229,7 +247,9 @@ Los pagos por servicios que las entidades contratantes deban realizar al amparo 
 
 Las entidades contratantes deberán incluir en los programas operativos anuales y en su proyecto de presupuesto de egresos, las cantidades que por la celebración de los contratos deban pagar durante el año presupuestal correspondiente. Asimismo, deberán incluir un anexo que especifique el monto aproximado a pagarse por concepto de valor de terminación en caso de una terminación anticipada por incumplimiento, fuerza mayor u otras causas de terminación, cuando así lo contemple el contrato.
 
-La Secretaría de Finanzas, con la previa aprobación del Congreso, podrá afectar ingresos del Estado derivados de contribuciones, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación, para el cumplimiento de las obligaciones de pago que se deriven de los contratos.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría, con la previa aprobación del Congreso, podrá afectar ingresos del Estado derivados de contribuciones, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación, para el cumplimiento de las obligaciones de pago que se deriven de los contratos.
 
 ### CAPÍTULO V. De la aprobación ante el Congreso del Estado
 
@@ -263,7 +283,9 @@ VII. Una proyección que demuestre que la entidad contratante tendrá los recurs
 
 VIII. Una clasificación detallada de las obligaciones que se deriven del Proyecto, especificando cuales deban ser, por su naturaleza, consideradas como deuda pública en los términos de la ley en la materia, y
 
-IX. La opinión de la Secretaría de Planeación y el dictamen favorable de la Secretaría de Finanzas con los que se avale el proyecto.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+IX. La opinión y el dictamen favorable de la Secretaría con los que se avale el proyecto.
 
 ###### Artículo 15.
 
@@ -271,9 +293,11 @@ Una vez autorizado el proyecto por el Pleno del Congreso, se publicará en el pe
 
 ### Capítulo VI. Del Comité de Adjudicación
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 16.
 
-Cuando en el Presupuesto de Egresos del Poder Ejecutivo se autorice la contratación de un proyecto, la Secretaría de Administración constituirá un Comité de Adjudicación, que funcionará como un órgano colegiado de consulta, asesoría, análisis, opinión, orientación y resolución, en el procedimiento de adjudicación y contratación de los proyectos autorizados.
+Cuando en el Presupuesto de Egresos del Poder Ejecutivo se autorice la contratación de un proyecto, la Secretaría constituirá un Comité de Adjudicación, que funcionará como un órgano colegiado de consulta, asesoría, análisis, opinión, orientación y resolución, en el procedimiento de adjudicación y contratación de los proyectos autorizados.
 
 ###### Artículo 17.
 
@@ -299,17 +323,23 @@ IX. Emitir opinión, en su caso, respecto de los precios de los inmuebles que se
 
 X. Las demás que sean conferidas por la normatividad aplicable o acuerdo del titular del Poder Ejecutivo del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 18.
 
-El Comité de Adjudicación, para el cumplimiento de sus atribuciones, funciones y objetivos, estará conformado por el titular de la Secretaría de Administración, quien fungirá como Presidente, así como por un representante de las entidades públicas y los organismos del sector privado siguientes:
+El Comité de Adjudicación, para el cumplimiento de sus atribuciones, funciones y objetivos, estará conformado por el titular de la Secretaría, quien fungirá como Presidente, así como por un representante de las entidades públicas y los organismos del sector privado siguientes:
 
-I. Secretaría de Finanzas;
+l. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2014)
 
-II. Secretaría de Planeación;
+II. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2014)
 
-III. Secretaría de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-IV. Secretaría de Promoción Económica;
+III. Secretaría de Infraestructura y Obra Pública;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+IV. Secretaría de Desarrollo Económico;
 
 V. Contraloría del Estado;
 
@@ -407,7 +437,9 @@ El procedimiento de adjudicación podrá iniciarse cuando la entidad ejecutora c
 
 I. La publicación del decreto de aprobación del Congreso del Estado en el periódico oficial El Estado de Jalisco, y
 
-II. La opinión y el dictamen favorables emitidos, por la Secretaría de Planeación y la Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+II. La opinión y el dictamen favorables emitidos por la Secretaría.
 
 ###### Artículo 29.
 
@@ -497,7 +529,9 @@ II. La realización de obra pública, o
 
 III. La concesión de servicios públicos.
 
-Una vez otorgada la aprobación para la contratación del proyecto, la entidad ejecutora remitirá a la Secretaría de Administración, el modelo de contrato para el proyecto respectivo. El modelo deberá ser un contrato integral que describa todas y cada una de las obligaciones y derechos del inversionista proveedor y de la entidad. Lo anterior, sin perjuicio de que existan otros contratos, convenios o concesiones que regulen aspectos del proyecto distinto de la prestación de los servicios.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+Una vez otorgada la aprobación para la contratación del proyecto, la entidad ejecutora remitirá a la Secretaría, el modelo de contrato para el proyecto respectivo. El modelo deberá ser un contrato integral que describa todas y cada una de las obligaciones y derechos del inversionista proveedor y de la entidad. Lo anterior, sin perjuicio de que existan otros contratos, convenios o concesiones que regulen aspectos del proyecto distinto de la prestación de los servicios.
 
 El contrato deberá elaborarse con base en los elementos materia de la aprobación del proyecto. Todos los elementos del contrato, incluyendo la asignación de derechos y obligaciones de las partes bajo el mismo, deberán ser congruentes y consistentes con la descripción contenida en la documentación presentada para la aprobación del proyecto.
 
@@ -565,9 +599,13 @@ El reglamento de esta ley desarrollará los demás aspectos relacionados con las
 
 Los contratos respectivos deben invariablemente contener un apartado en el cual se establezcan los mecanismos, metodologías y fórmulas para evaluar la eficiencia, eficacia, efectividad del inversionista o proveedor y la rentabilidad social y económica de la prestación del servicio durante la vigencia del contrato respectivo, así como los mecanismos para que la ciudadanía beneficiaria de los servicios sea tomada en consideración, para que las entidades públicas evalúen constantemente el grado de satisfacción con la prestación de los servicios de que se trate.
 
-Será competencia de la Secretaría de Finanzas, llevar a cabo todas aquellas actividades necesarias para el seguimiento, evaluación y verificación del cumplimiento de los compromisos asumidos tanto por el inversionista proveedor, como de la entidad a través de la entidad ejecutora y demás instancias de gobierno que participen en la ejecución del mismo.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-Para tales efectos, la Secretaría de Finanzas podrá realizar visitas de verificación, así como requerir tanto al inversionista proveedor como a las instancias de gobierno involucradas en la ejecución del proyecto, cualquier información que considere necesaria para el seguimiento y evaluación de los compromisos asumidos.
+Será competencia de la Secretaría, llevar a cabo todas aquellas actividades necesarias para el seguimiento, evaluación y verificación del cumplimiento de los compromisos asumidos tanto por el inversionista proveedor, como de la entidad a través de la entidad ejecutora y demás instancias de gobierno que participen en la ejecución del mismo.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+Para tales efectos, la Secretaría podrá realizar visitas de verificación, así como requerir tanto al inversionista proveedor como a las instancias de gobierno involucradas en la ejecución del proyecto, cualquier información que considere necesaria para el seguimiento y evaluación de los compromisos asumidos.
 
 ###### Artículo 49.
 
@@ -619,9 +657,11 @@ V. Rescate, y
 
 VI. Desaparción (sic), en su caso, del bien o el servicio público materia del contrato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 57.
 
-La entidad contratante y el adjudicatario del proyecto podrán rescindir el contrato de común acuerdo, previa autorización de la Secretaría de finanzas mediante la suscripción de un acuerdo que así lo determine. En dicho acuerdo se fijarán las condiciones en las que las partes se liberarán de cualquier responsabilidad derivada del contrato, así como, en su caso, la situación jurídica de los bienes empleados para el cumplimiento del mismo.
+La entidad contratante y el adjudicatario del proyecto podrán rescindir el contrato de común acuerdo, previa autorización de la Secretaría mediante la suscripción de un acuerdo que así lo determine. En dicho acuerdo se fijarán las condiciones en las que las partes se liberarán de cualquier responsabilidad derivada del contrato, así como, en su caso, la situación jurídica de los bienes empleados para el cumplimiento del mismo.
 
 Las partes podrán demandar ante el Tribunal de lo Administrativo del Estado la rescisión del contrato ante su incumplimiento, en los casos y con las condiciones señaladas por las leyes aplicables o en el contrato mismo, siempre que tal incumplimiento no sea a cargo de quien pretenda demandar.
 
@@ -631,13 +671,17 @@ La caducidad podrá decretarse administrativamente cuando el adjudicatario se re
 
 En caso de que el retraso se justifique satisfactoriamente, la entidad contratante podrá conceder un plazo de gracia al adjudicatario del proyecto para satisfacer los requerimientos del contrato.
 
-Una vez transcurrido el plazo a que se refiere el primer párrafo del presente artículo, o bien, agotado el plazo de gracia sin que el adjudicatario hubiere dado cumplimiento a sus obligaciones, la entidad contratante, previa autorización de la Secretaría de Finanzas, podrá declarar que ha operado la caducidad y, en consecuencia, dará por terminado anticipadamente el contrato por la vía administrativa.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+Una vez transcurrido el plazo a que se refiere el primer párrafo del presente artículo, o bien, agotado el plazo de gracia sin que el adjudicatario hubiere dado cumplimiento a sus obligaciones, la entidad contratante, previa autorización de la Secretaría, podrá declarar que ha operado la caducidad y, en consecuencia, dará por terminado anticipadamente el contrato por la vía administrativa.
 
 Si, previo a la declaratoria de caducidad del contrato, el adjudicatario del proyecto subsana el incumplimiento correspondiente, el procedimiento quedará sin efecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 59.
 
-En los casos de proyectos en que se tenga por objeto la prestación de un servicio público, la entidad contratante, previa autorización de la Secretaría de Finanzas podrá dar por terminado anticipadamente el contrato mediante declaratoria unilateral de rescate, cuando lo estime conveniente por razones de interés general.
+En los casos de proyectos en que se tenga por objeto la prestación de un servicio público, la entidad contratante, previa autorización de la Secretaría podrá dar por terminado anticipadamente el contrato mediante declaratoria unilateral de rescate, cuando lo estime conveniente por razones de interés general.
 
 En este supuesto, la entidad deberá elaborar un proyecto de finiquito dentro de los diez días hábiles siguientes a que surta efectos el rescate y, en su caso, pagará una indemnización al adjudicatario, de conformidad con las fórmulas y en los plazos que establezca el contrato respectivo. La indemnización no podrá ser superior al monto de la inversión asociada con el proyecto.
 
@@ -786,5 +830,9 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1 DE MAYO DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
