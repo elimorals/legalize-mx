@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-gestion-integral-de-los-residuos-del-estado-de-54686"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2012-06-23"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -115,7 +115,9 @@ XIX. Residuos de Manejo Especial: Son aquellos generados en los procesos product
 
 XX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
-XXI. Secretaría: La Secretaría del Medio Ambiente para el Desarrollo Sustentable del Estado;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+XXI. Secretaría: La Secretaría de Medio Ambiente y Desarrollo Territorial;
 
 XXII. Secretaría Federal: Secretaría de Medio Ambiente y Recursos Naturales;
 
@@ -133,7 +135,9 @@ Son autoridades competentes para aplicar la presente Ley:
 
 I. El ejecutivo del Estado;
 
-II. La Secretaría de Medio Ambiente para el Desarrollo Sustentable; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+II. La Secretaría de Medio Ambiente y Desarrollo Territorial; y
 
 III. Los Ayuntamientos.
 
@@ -233,7 +237,7 @@ XXIII. Vigilar, inspeccionar y verificar el cumplimiento de los instrumentos y d
 
 XXIV. Presentar denuncias y querellas ante la autoridad competente si como resultado de una visita de inspección se detecta la comisión de un delito;
 
-XXV. Imponer las sanciones y medidas de seguridad que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con la Federación y con los ayuntamientos; y (sic)
+XXV. Imponer las sanciones y medidas de seguridad que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con la Federación y con los ayuntamientos; y
 
 XXVI. Regular la instalación, funcionamiento y manejo de rellenos sanitarios de carácter municipal, regional o metropolitanos;
 
@@ -1181,7 +1185,7 @@ Las resoluciones dictadas en los procedimientos administrativos con motivo de la
 
 Todo ciudadano deberá denunciar ante el Ayuntamiento. la Secretaría, la Procuraduría Estatal de Protección al Ambiente, o ante otras autoridades competentes, todo hecho, acto u omisión que atente contra el equilibrio ecológico o daños al ambiente o los recursos naturales derivados del manejo inadecuado de los residuos, o contravenga las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la misma.
 
-###### Articulo 93.
+###### Artículo 93.
 
 Para los efectos de este capítulo, se estará al procedimiento establecido en el Título Sexto capítulo VII de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente del Estado de Jalisco, y de forma supletoria se aplicará la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
 
@@ -1251,7 +1255,7 @@ MARTHA RUT DEL TORO GAYTÁN
 
 En mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
 
-Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 09 nueve días del mes febrero (sic) de 2007 dos mil siete.
+Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 09 nueve días del mes (sic) febrero de 2007 dos mil siete.
 
 El Gobernador Interino del Estado.
 
@@ -1270,3 +1274,7 @@ C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 P.O. 23 DE JUNIO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
