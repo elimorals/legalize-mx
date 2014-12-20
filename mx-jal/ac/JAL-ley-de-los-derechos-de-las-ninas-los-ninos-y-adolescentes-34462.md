@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-ninas-los-ninos-y-adolescentes-34462
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-25"
-last_updated: "2014-12-02"
+last_updated: "2014-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2003.
 
@@ -89,11 +89,11 @@ VI. La protección de la familia.
 
 ### CAPÍTULO III. De los Derechos de las niñas, los niños y adolescentes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
 
-Las niñas, los niños y adolescentes tienen derecho a que se promueva y respete su personalidad individual, a que se les encauce e inculquen valores positivos de la convivencia y solidaridad humana; gozarán de los derechos humanos que les reconozcan la legislación y los tratados internacionales de los que el Estado mexicano forme parte, entre otros:
+Los menores de edad, independientemente de los que otorguen otras leyes, tendrán los siguientes derechos:
 
 I. A la vida;
 
@@ -105,9 +105,9 @@ III. A la prioridad;
 
 IV. A la igualdad y la no discriminación;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-V. A un ambiente familiar sano y libre de violencia dentro de su familia, escuela y comunidad;
+V. A vivir dentro de su familia, escuela y comunidad una vida libre de abuso sexual, violencia física y psicológica.
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -523,7 +523,11 @@ IV. El secuestro, sustracción, venta o la trata de niñas, niños y adolescente
 
 V. Toda práctica de mendicidad abierta o disimulada con trabajos en la calle; y
 
-VI. Todos los demás delitos en los que pueda ser víctima.
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+VI. Toda forma de castigos corporales, crueles o degradantes que pongan en riesgo su ordenado desarrollo físico, emocional y mental; y
+
+VII. Todos los demás delitos en los que pueda ser víctima.
 
 ### CAPÍTULO XIII. Del derecho a la protección y asistencia social
 
@@ -1013,7 +1017,7 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
 
-SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de. Justicia Alternativa del estado de Jalisco.
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán a cabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de. Justicia Alternativa del estado de Jalisco.
 
 P.O. 24 DE OCTUBRE DE 2009.
 
@@ -1058,3 +1062,9 @@ P.O. 25 DE NOVIEMBRE DE 2014.
 P.O. 2 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los procedimientos penales iniciados antes de (sic) entrada en vigor del presente decreto en materia de maltrato al infante, al que se refiere el articulo 205 bis del Código Penal del Estado de Jalisco, así como las agravantes mencionadas en el artículo 142-Ñ, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le den origen.
