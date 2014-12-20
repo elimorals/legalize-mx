@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-de-fomento-al-comercio-exterior-1331
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-19"
-last_updated: "1998-12-19"
+last_updated: "2014-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE JALISCO
 
-LEY ORGANICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE JALISCO
+LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 19 de diciembre de 1998.
 
@@ -49,7 +49,9 @@ Para la realización de los fines que se persiguen con el presente ordenamiento 
 
 Para los efectos de la presente ley, cuando en adelante se mencione al Instituto, se estará aludiendo al Instituto de Fomento al Comercio Exterior del Estado de Jalisco y para su identificación en el extranjero, podrá ser nombrada como JALTRADE. En el mismo sentido, cuando se refiera en el texto de la presente ley a los siguientes términos, deberá entenderse por:
 
-I. Secretaría. Dentro del Poder Ejecutivo del Estado de Jalisco, la Secretaría de Promoción Económica;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+I. Secretaría: la Secretaría de Desarrollo Económico;
 
 II. Consejo. El Consejo Directivo del Instituto;
 
@@ -131,7 +133,9 @@ XXII. Difundir los mecanismos disponibles de protección a la exportación.
 
 Son atribuciones del Instituto:
 
-I. Formular, dirigir, coordinar y controlar, conforme a las atribuciones previstas en las leyes de la materia, y de acuerdo con la Secretaría de Promoción Económica, la ejecución de las políticas y programas del Estado en materia de comercio exterior;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+I. Formular, dirigir, coordinar y controlar, conforme a las atribuciones previstas en las leyes de la materia, y de acuerdo con la Secretaría, la ejecución de las políticas y programas del Estado en materia de comercio exterior;
 
 II. Ejercer su personalidad jurídica y patrimonio, en los términos previstos por los artículos del 50° al 54° de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco;
 
@@ -197,7 +201,9 @@ II. Los Titulares de las entidades públicas del Poder Ejecutivo Estatal o sus r
 
 a) Por parte del Sector Público:
 
-i. La Secretaría de Promoción Económica;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+1 (sic). La Secretaría;
 
 ii. La Secretaría de Desarrollo Rural;
 
@@ -373,11 +379,15 @@ II. Un Secretario Técnico, cuyo cargo recaerá en el Gerente General del Instit
 
 III. Un Prosecretario que será el encargado del área jurídica del Instituto;
 
-IV. El Titular de la Secretaría de Promoción Económica del Gobierno del Estado, o a quien éste designe;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+IV. El Titular de la Secretaría o a quien éste designe;
 
 V. Un representante de los siguientes organismos e instituciones, que previa invitación que realice el Titular del Poder Ejecutivo del Estado del Consejo Directivo, acepten integrarse al Consejo Consultivo del Instituto:
 
-a) La Delegación Estatal de la Secretaría de Comercio y Fomento Industrial;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+a) La Delegación Estatal de la Secretaría de Economía;
 
 b) La Delegación en Jalisco de la Secretaría de Relaciones Exteriores;
 
@@ -586,3 +596,9 @@ ING. ALBERTO CARDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELAEZ
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El estado de Jalisco.
