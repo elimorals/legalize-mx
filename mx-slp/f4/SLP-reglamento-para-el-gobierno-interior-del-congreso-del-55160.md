@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2014-12-04"
+last_updated: "2014-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1471,7 +1471,7 @@ I. Si únicamente se toma conocimiento, caso en el que la comisión o comité de
 
 II. Si son para su atención y expediente respectivo, caso en el que la comisión deberá emitir la resolución que corresponda en un término no mayor de quince dí as (sic) hábiles; salvo que por la naturaleza del asunto se requiera de más tiempo para resolver, situación de la que informarán por escrito al promovente o promoventes, y
 
-III. Si son para estudio y dictamen, en este caso, cuando se trate de iniciativas de reformas, adiciones, derogaciones o abrogación de leyes, éstas deberán ser resueltas en un término no mayor de seis meses contados a partir de la fecha de tumo; respecto a las iniciativas de nuevos ordenamientos, podrán solicitarse a la Directiva hasta dos prórrogas de tres meses cada una, cuando por la naturaleza de las mismas, la comisión estime fundado llevar a cabo, consultas, foros, realizar análisis comparativos o investigaciones de cualquier otra naturaleza; pero en ningún caso el término deberá exceder de un año.
+III. Si son para estudio y dictamen, en este caso, cuando se trate de iniciativas de reformas, adiciones, derogaciones o abrogación de leyes, éstas deberán ser resueltas en un término no mayor de seis meses contados a partir de la fecha de turno; respecto a las iniciativas de nuevos ordenamientos, podrán solicitarse a la Directiva hasta dos prórrogas de tres meses cada una, cuando por la naturaleza de las mismas, la comisión estime fundado llevar a cabo, consultas, foros, realizar análisis comparativos o investigaciones de cualquier otra naturaleza; pero en ningún caso el término deberá exceder de un año.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -1951,11 +1951,19 @@ II. Asignar con base en su perfil profesional, a los asesores que en cada caso a
 
 III. Llevar el calendario de reuniones de las comisiones, procurando que no interfieran entre sí, las fechas y los horarios de las mismas;
 
-IV. Apoyar a las comisiones en la organización de foros, eventos, y demás actividades que requieran, en coordinación con los asesores y secretarios técnicos respectivos; así como promover la capacitación y actualización para el personal, asesores o funcionarios del Congreso;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-V. Llevar el registro de las iniciativas y asuntos de trámite turnados, y cuidar que se resuelvan y dictaminen por las comisiones dentro de los plazos que establece la ley, haciendo saber a los presidentes con por lo menos quince días de anticipación, el fenecimiento de los términos respectivos en cada caso; y
+IV. Apoyar a las comisiones en la organización de foros, eventos, y demás actividades que requieran, en coordinación con los asesores y secretarios técnicos respectivos;
 
-VI. Las demás que le atribuya la ley y este Reglamento.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+V. Llevar el registro de las iniciativas y asuntos de trámite turnados, y cuidar que se resuelvan y dictaminen por las comisiones dentro de los plazos que establece la ley, haciendo saber a los presidentes, con por lo menos quince días de anticipación, la preclusión de los términos correspondientes en cada caso;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+VI. Instrumentar programas continuos de capacitación y actualización para los asesores y secretarios técnicos de las comisiones del Congreso, debiendo brindar las facilidades necesarias a quienes participen, y así lo soliciten, y
+
+VII. Las demás que le atribuya la ley y este Reglamento.
 
 ###### ARTICULO 189.
 
@@ -2382,3 +2390,9 @@ PRIMERO. Este Decreto entrará en vigor el uno de enero de dos mil quince, previ
 SEGUNDO. Por lo que corresponde a la Sexagésima Legislatura, a la entrada en vigor del presente Decreto, el funcionario que actualmente ocupa el cargo de Coordinador de Servicios Parlamentarios, electo el veinte de septiembre de dos mil doce, pasa a ser Coordinador General de Servicios Parlamentarios.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
