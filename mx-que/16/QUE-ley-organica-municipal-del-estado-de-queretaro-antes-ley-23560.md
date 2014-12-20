@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2012-11-07"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -593,7 +593,7 @@ III. Convocar por conducto del Secretario del Ayuntamiento a sesiones del mismo,
 
 IV. Nombrar y remover libremente aquellos servidores públicos cuyo nombramiento o remoción no este determinado de otro modo;
 
-AV. utorizar, (sic) mancomunadamente con el Titular de la Dependencia Encargada del las Finanzas Públicas Municipales, las erogaciones del Ayuntamiento, en los términos de las partidas en su Presupuesto de Egresos. Dicha autorización podrá delegarse en los términos del Acuerdo que emita el ayuntamiento y fije los montos, bases y mecanismos para la emisión de documentos y títulos de valor, así como las responsabilidades y sistemas de control para el ejercicio del gasto público;
+AV. utorizar, (sic) mancomunadamente con el Titular de la Dependencia Encargada del (sic) las Finanzas Públicas Municipales, las erogaciones del Ayuntamiento, en los términos de las partidas en su Presupuesto de Egresos. Dicha autorización podrá delegarse en los términos del Acuerdo que emita el ayuntamiento y fije los montos, bases y mecanismos para la emisión de documentos y títulos de valor, así como las responsabilidades y sistemas de control para el ejercicio del gasto público;
 
 VI. Vigilar la correcta recaudación de los ingresos municipales y que su erogación se realice con estricto apego al Presupuesto de Egresos;
 
@@ -1355,7 +1355,9 @@ VI.- Por resolución administrativa o judicial.
 
 Los ayuntamientos previo acuerdo de las dos terceras partes de sus integrantes, de conformidad con lo que establezcan las leyes, el reglamento respectivo y en su caso, previa autorización de la Legislatura, aprobarán los siguientes actos:
 
-I. Gestionar empréstitos, cuando sus efectos temporales excedan el plazo de la administración municipal de que se trate;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+I. Gestionar empréstitos.
 
 II. Transmitir, por cualquier título, bienes muebles que por su valor cultural, histórico o económico, puedan considerarse de trascendental importancia para la vida municipal o el funcionamiento de la administración;
 
@@ -2606,3 +2608,9 @@ P.O. 7 DE NOVIEMBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones legales igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 20 DE DICIEMBRE DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
