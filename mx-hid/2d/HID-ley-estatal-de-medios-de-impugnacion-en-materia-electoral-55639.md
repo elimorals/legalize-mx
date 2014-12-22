@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-medios-de-impugnacion-en-materia-electoral-55639
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-11"
-last_updated: "2009-10-12"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY ESTATAL DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
-LEY ESTATAL DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
+LEY ESTATAL DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 11 de mayo de 2007.
 
@@ -817,7 +819,7 @@ Substanciado en su totalidad el juicio, y formulado el proyecto por el Magistrad
 
 El proyecto será discutido por el Pleno del Tribunal Electoral, en términos del Artículo 25 de esta Ley.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 88.
 
@@ -861,7 +863,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE OCTUBRE DE 2009.
 
@@ -870,3 +872,15 @@ Primero.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Código entrará en vigor el primero de enero de dos mil quince, previa publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga la Ley Electoral del Estado de Hidalgo, publicada en el Periódico Oficial del Estado el once de mayo de dos mil siete.
+
+TERCERO. Se abroga la Ley Estatal de Medios de Impugnación en Materia Electoral del Estado de Hidalgo, publicada en el Periódico Oficial del Estado de Hidalgo el once de mayo de dos mil siete.
+
+CUARTO. En un plazo no mayor de 120 días, el Instituto Estatal Electoral y el Tribunal Electoral deberán armonizar su normatividad interna.
+
+QUINTO. Se derogan todas las disposiciones legales que se opongan al presente Código.
