@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-unidad-de-evaluacion-y-control-de-223
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-14"
-last_updated: "2001-11-14"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22300&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2001-11-07"
 ---
 # REGLAMENTO INTERIOR DE LA UNIDAD DE EVALUACION Y CONTROL DE LA COMISION DE VIGILANCIA DE LA CAMARA DE DIPUTADOS
 
-REGLAMENTO INTERIOR DE LA UNIDAD DE EVALUACION Y CONTROL DE LA COMISION DE VIGILANCIA DE LA CAMARA DE DIPUTADOS
+REGLAMENTO INTERIOR DE LA UNIDAD DE EVALUACIÓN Y CONTROL DE LA COMISIÓN DE VIGILANCIA DE LA CÁMARA DE DIPUTADOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA UNIDAD DE EVALUACIÓN Y CONTROL DE LA COMISIÓN DE VIGILANCIA DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN DE LA CÁMARA DE DIPUTADOS, PUBLICADO EN EL D.O.F. DE 22 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 14 de noviembre de 2001.
 
@@ -514,3 +516,51 @@ Segundo. El Manual General de Organización de la Unidad de Evaluación y Contro
 Tercero. En tanto se expidan los manuales que este Reglamento menciona, la Comisión podrá facultar al Titular de la Unidad para que resuelva las cuestiones internas de la Unidad.
 
 Salón de Sesiones de la Cámara de Diputados del Honorable Congreso de la Unión.- México, D.F., a 7 de noviembre de 2001.- La Diputada Presidenta, Beatriz Elena Paredes Rangel.- Rúbrica.- El Diputado Secretario, Rodolfo Dorador Pérez Gavilán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE DICIEMBRE DE 2014.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Reglamento Interior de la Unidad de Evaluación y Control de la Comisión de Vigilancia de la Cámara de Diputados, publicado en el Diario Oficial de la Federación el 14 de noviembre de 2001.
+
+Tercero. Los asuntos promovidos con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite hasta su conclusión, conforme a las disposiciones del Reglamento que se abroga, con excepción de la atribución de solventación de observaciones, recomendaciones y acciones; y se sustanciarán por las unidades administrativas señaladas en el presente Reglamento, que sustituyen en competencia a las que conocieron inicialmente de los asuntos pendientes de resolución.
+
+Cuarto. Los asuntos en trámite, expedientes y archivos, a la fecha de entrada en vigor del presente Reglamento, serán encomendados a las siguientes áreas:
+
+a) Los que se encuentren en la Dirección de Evaluación y Control de la Gestión Técnica, serán encomendados a la Dirección de Análisis de la Fiscalización Superior y a la Dirección de Control Interno y Evaluación, según corresponda;
+
+b) Los que se encuentren en la Dirección de Evaluación y Control de la Gestión Administrativa, serán encomendados a la Dirección de Control Interno y Evaluación;
+
+c) Los que se encuentren en la Dirección de Asuntos Jurídicos, serán encomendados a la Dirección Jurídica para la Evaluación y Control;
+
+d) Los que se encuentren en la Secretaría Técnica, serán encomendados a la Dirección de Evaluación del Desempeño y Apoyo de las Funciones de Contraloría Social, y
+
+e) Los que se encuentren en la Secretaría Particular, serán encomendados a la Secretaría Técnica.
+
+Quinto. El Plan Estratégico, el Manual General de Organización, así como el Manual de Procedimientos Administrativos de la Unidad de Evaluación y Control, deberán ser expedidos dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Reglamento.
+
+Sexto. Los instrumentos normativos para el mejor desempeño de las actividades de la Unidad, se emitirán dentro de los siguientes ciento ochenta días a la entrada en vigor de este Reglamento, los cuales de manera enunciativa y no limitativa son los siguientes:
+
+a) En materia de auditorías y evaluación técnica;
+
+b) En materia de investigación administrativa, responsabilidades y situación y evolución patrimonial;
+
+c) Sistemas y metodologías para el Análisis de la Fiscalización Superior;
+
+d) Para la evaluación del desempeño de la Fiscalización Superior;
+
+e) Para la evaluación del impacto de la acción fiscalizadora, y
+
+f) Para la evaluación del desempeño de la Unidad.
+
+Séptimo. Una vez que se expidan los manuales e instrumentos normativos citados en los dos artículos transitorios precedentes, quedará sin efecto la normativa expedida durante la vigencia del Reglamento que se abroga.
+
+Octavo. La contratación del personal de nuevo ingreso a la Unidad se realizará conforme a lo establecido en el presente Reglamento, en tanto la Cámara establezca un nuevo sistema de contratación, los lineamientos y la normatividad aplicable continuarán siendo los mismos que se utilizan para la contratación del personal de la Cámara.
+
+La contratación del personal de la Unidad realizada antes de la emisión del presente Reglamento, no sufrirá ningún menoscabo en derechos laborales.
+
+Noveno. Las percepciones salariales de los trabajadores de nuevo ingreso adscritos a la Unidad, se normarán de acuerdo al contenido del Manual que Regula las Remuneraciones para los Diputados Federales, Servidores Públicos de Mando y Homólogos de la Cámara de Diputados para el ejercicio fiscal correspondiente, a la Ley Orgánica, así como a los Lineamientos para la Administración y Control de los Recursos Humanos de la Cámara de Diputados.
+
+Décimo. Los asuntos no contemplados en el presente Reglamento, serán resueltos por la Comisión.
