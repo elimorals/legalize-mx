@@ -4,7 +4,7 @@ identifier: "HID-ley-del-periodico-oficial-del-estado-de-hidalgo-60450"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-10"
-last_updated: "2008-03-10"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DEL PERIODICO OFICIAL DEL ESTADO DE HIDALGO
 
-LEY DEL PERIODICO OFICIAL DEL ESTADO DE HIDALGO
+LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2008.
 
@@ -63,13 +63,31 @@ La publicación de los actos a que se refiere el Artículo precedente, producir�
 
 ### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 4°.
 
-La Dirección encargada de la Publicación del Periódico Oficial, estará integrada por:
+Las funciones del Periódico Oficial se desarrollarán por:
 
-I.- Un Director General; función que recaerá en el Coordinador General Jurídico del Gobierno del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Un Director de Publicación, cuya función será la de supervisar los trámites inherentes a la revisión del material a publicar por escrito y medio magnético, formación de material que va integrar el Periódico, su cotejo con placas, negativos, impresión, encuadernación y refinación en el área de imprenta, así como compilación y venta al público.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+I. El Titular de la Coordinación General Jurídica del Gobierno del Estado, quién supervisará la publicación del Periódico Oficial;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+II. Un Director de Publicación, cuya función será la de coordinar y dirigir el proceso de la publicación escrita y la versión electrónica, formación de material que va a integrar el periódico, su cotejo con el documento original, impresión, encuadernación y refinación en el área de imprenta, así como compilación y venta al público; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+Un Subdirector, quien coadyuvará en todas las funciones del Periódico Oficial y suplirá al Director en sus ausencias.
 
 Para este cargo se requiere:
 
@@ -83,7 +101,11 @@ III.- Un Jefe de Información, Recopilación y Atención al Público;
 
 IV.- Un Jefe del Área Técnica y
 
-V.- Los formadores y tipografistas, así como el personal técnico y administrativo necesario para cotejar documentos objeto de la publicación, que se hará por escrito y medio magnético.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+V. Los formadores, así como el personal técnico y administrativo necesario para cotejar documentos objeto de la publicación, que se hará por escrito y en versión electrónica.
 
 ### CAPÍTULO TERCERO. DEL CONTENIDO
 
@@ -119,9 +141,13 @@ XIII.- Los demás actos que merezcan esta publicidad, los cuales surtirán efect
 
 ### CAPÍTULO CUARTO. DE LAS CARACTERÍSTICAS DEL PERIÓDICO OFICIAL
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 6°.
 
-El Periódico Oficial del Estado se editará en la ciudad de Pachuca de Soto, Hidalgo, en papel revolución o similar; debiéndose instrumentar el sistema de automatización e informática, creándose un área específica para ello.
+El Periódico Oficial del Estado, se editará en la ciudad de Pachuca de Soto, Hidalgo de forma impresa y electrónica, debiéndose instrumentar el sistema de automatización e informática, creándose un área específica para ello. Ambas ediciones tendrán carácter oficial e idénticas características y contenido.
 
 ###### Artículo 7°.
 
@@ -143,15 +169,49 @@ VI.- Podrá ser ordinario, de alcance o bis.
 
 El Periódico Oficial del Estado de Hidalgo deberá ser Publicado en forma ordinaria, cada siete días y las veces que sea necesario, cuando la urgencia del caso, así lo requiera, mediante alcance o número "bis".
 
-En el Portal de Internet del Gobierno del Estado, deberá publicarse una versión digital del Periódico Oficial, la que servirá como medio de consulta y carecerá de valor legal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 9°.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-El Periódico Oficial del Estado de Hidalgo será editado y distribuido en cantidad suficiente para garantizar la difusión de los ordenamientos y disposiciones en él impresos, en todo el Estado.
+En el portal oficial de Internet del Gobierno del Estado de Hidalgo, deberá publicarse una versión electrónica del Periódico Oficial, la que tendrá plena validez legal e idénticas características y contenido que la versión impresa, con firma electrónica avanzada.
 
-###### Artículo 10°.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para los efectos de lo previsto en el Artículo anterior, la Autoridad competente fijará el precio de venta, por ejemplar de los periódicos ordinarios, alcances o bis, así como por suscripción.
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 8° Bis.
+
+Corresponde a la Dirección de Publicación:
+
+I. Difundir el Periódico Oficial del Estado de Hidalgo, en forma electrónica por medio de su dirección electrónica;
+
+II. Velar por la autenticidad, integridad e inalterabilidad del Periódico Oficial del Estado de Hidalgo que se publique en su dirección electrónica, a través de la firma electrónica avanzada;
+
+III. Custodiar y conservar la edición electrónica del Periódico Oficial del Estado de Hidalgo;
+
+IV. Velar por la disponibilidad de la edición electrónica del Periódico Oficial; y
+
+V. Incorporar el desarrollo y la innovación tecnológica a los procesos de producción.
+
+La Dirección de Publicación establecerá un sistema adecuado y eficaz para la consulta oportuna del Periódico Oficial del Estado de Hidalgo, en su versión electrónica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 9.
+
+El Periódico Oficial del Estado de Hidalgo, se editará en forma impresa y electrónica para garantizar la difusión en todo el Estado, de los ordenamientos y disposiciones contenidas en él. Ambas ediciones tendrán validez oficial e idénticas características.
+
+La dirección electrónica del Periódico Oficial del Estado de Hidalgo estará disponible a través del portal oficial de internet del Gobierno del Estado de Hidalgo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 10.
+
+Para los efectos de lo previsto en el Artículo anterior, la Secretaría de Finanzas y Administración fijará el precio de venta, por ejemplar de los periódicos ordinarios, alcances o bis, así como por suscripción, en su versión tanto impresa como electrónica.
 
 ### CAPÍTULO QUINTO. DE LAS PUBLICACIONES
 
@@ -238,3 +298,13 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor dentro de los noventa días posteriores a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente Decreto.
+
+TERCERO. El Reglamento de la Ley del Periódico Oficial del Estado de Hidalgo, se expedirá dentro de los ciento veinte días posteriores a la entrada en vigor del presente Decreto.
