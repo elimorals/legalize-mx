@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2014-12-15"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,11 @@ state: "SON"
 ---
 # LEY DE HACIENDA DEL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 26 DE ENERO DE 2015 Y 2 DE MARZO DE 2015 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL B.O. DE 15 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DEL 1 DE ENERO DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -2287,6 +2283,20 @@ Los beneficios que se confieren en el presente artículo, no serán acumulables 
 
 Los presentes beneficios serán otorgados de conformidad con los lineamientos que al efecto expida la Secretaría de Hacienda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 218 Bis 1.
+
+Se otorga un estímulo fiscal consistente en la deducibilidad en el pago del impuesto, a centros educativos privados por la inversión en becas para alumnos con alguna discapacidad dictaminada por la Secretaría de Educación y Cultura en los términos de la normatividad aplicable, no siendo consideradas para este efecto, las dos becas obligatorias a las que hace referencia la fracción III del artículo 47 de la Ley de Educación del Estado de Sonora.
+
+La Secretaría de Hacienda hará efectivo el estímulo mediante la presentación del comprobante de que la respectiva escuela privada otorgue las becas, al rendir la declaración correspondiente.
+
+Los contribuyentes beneficiarios al estímulo previsto en este artículo deberán presentar sus declaraciones fiscales de conformidad con las disposiciones vigentes, señalando el monto del impuesto causado y el monto del estímulo a que sean acreedores, mismo que será deducido del impuesto.
+
+El beneficio que se confiere en el presente artículo no otorga a los contribuyentes el derecho de devolución, ni será aplicable en los accesorios en caso de que estos se hubieren causado.
+
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 219.
@@ -3251,7 +3261,7 @@ El importe de las contribuciones que señala el Artículo anterior se entregará
 
 I.- Lo señalado en la fracción I al Centro de Investigación Pecuario del Estado de Sonora, A.C.;
 
-II.- Lo señalado en la fracción II, a la comisión Mixta de Control de Pizcadores de algodón de los distritos de Riego del Rió Mayo, del Rió Yaqui, del Valle de Guaymas, de la Costa de Hermosillo, Altar y Pitiquito-Caborca; y
+II.- Lo señalado en la fracción II, a la comisión Mixta de Control de Pizcadores de algodón de los distritos de Riego del Río Mayo, del Río Yaqui, del Valle de Guaymas, de la Costa de Hermosillo, Altar y Pitiquito-Caborca; y
 
 III.- Lo señalado en la fracción III, a los Comités locales de Caminos Vecinales a que alude el Decreto de 23 de Enero de 1975;
 
@@ -7278,3 +7288,15 @@ Todas aquellas operaciones en materia de derechos registrales, que se hayan form
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor seis meses después del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+SEGUNDO.- El estímulo fiscal previsto en el presente decreto podrá hacerse efectivo a partir del siguiente ejercicio fiscal al que entre en vigor.
+
+TERCERO.- Las escuelas, tanto públicas como privadas, tendrán hasta el siguiente ciclo escolar, posterior a la entrada en vigor del presente decreto, para comenzar a realizar las adecuaciones a su infraestructura.
+
+CUARTO.- La Secretaría de Educación y Cultura del Estado de Sonora, tendrá un plazo de 60 días para la creación de un Consejo Multidisciplinario el cual dará cumplimiento a las disposiciones del presente decreto. Este a su vez tendrán un plazo de 30 días después de su creación para fijar los lineamientos para ejercer sus funciones.
+
+QUINTO.- El Ejecutivo del Estado, en función de la disponibilidad presupuestaria para ello, asignará los recursos presupuestales que sean necesarios a efecto de dar cumplimiento a las disposiciones contenidas en el presente decreto.
