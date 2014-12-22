@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-342
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-20"
-last_updated: "2013-08-19"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MARZO DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 20 de octubre de 2003.
 
@@ -315,7 +317,9 @@ I. Reducir el índice de enfermedad y mortalidad infantil;
 
 II. Asegurarles asistencia médica y sanitaria para la prevención, detección oportuna, tratamiento y rehabilitación de su salud, así como promover campañas para detección de problemas visuales, auditivos y odontológicos;
 
-III. Promover la lactancia materna;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+III. Ofrecer la capacitación y el fomento para la promoción de la lactancia materna y el amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -566,3 +570,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicaci
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a esta Ley.
 
 TERCERO.- El Titular del Poder Ejecutivo del Estado de Hidalgo, dispondrá que el presente Decreto, se traduzca a las lenguas que hablan los diferentes pueblos y comunidades indígenas existentes en el territorio Estatal, así como, la difusión entre las diferentes Dependencias Educativas y de Gobierno en sus respectivos órdenes.
+
+P. O. 22 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo. Se concede un plazo de sesenta días naturales, contados a partir de la fecha en que entren en vigor estas reformas, para que las empresas, instituciones, dependencias y en general, todos los obligados conforme a esta ley efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones establecidas.
