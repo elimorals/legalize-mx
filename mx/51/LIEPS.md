@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2013-12-11"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -3007,6 +3007,10 @@ VII. Durante 2014, en lugar del factor a que se refiere el inciso b) de la fracc
 Primero. El presente Decreto entrará en vigor el 1 de enero de 2014.
 
 Segundo. A la entrada en vigor del presente Decreto quedarán abrogadas la Ley del Impuesto Sobre la Renta, publicada en el Diario Oficial de la Federación el 1 de enero de 2002; la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo.
+
+D.O.F. 22 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2015.
 
 ###### ARTICULO QUINTO.
 
