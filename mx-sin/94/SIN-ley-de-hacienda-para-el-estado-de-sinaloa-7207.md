@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2013-12-30"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -1146,8 +1146,6 @@ banquetas, manzanas, construcciones
 aisladas, nomenclatura, hidrografía,
 
 carreteras, brechas y veredas) 4.50
-
-III.- Por el señalamiento de linderos,
 
 III.- Por el señalamiento de linderos,
 
@@ -3979,11 +3977,11 @@ El Poder Ejecutivo de Estado de Sinaloa, a través de la Secretaría de Administ
 
 P.O. 26 DE DICIEMBRE DE 2011.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-La vigencia del presente Decreto será a partir del 1° de enero al 31 de diciembre del año 2014, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
+La vigencia del presente Decreto será del 1° de enero al 31 de diciembre del año 2015, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -4002,3 +4000,7 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 P.O. 30 DE DICIEMBRE DE 2013.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
