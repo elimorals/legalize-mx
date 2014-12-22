@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2014-10-15"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -69,7 +69,9 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE OCTUBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 4o.
 
@@ -98,6 +100,10 @@ Dirección General Jurídica
 Dirección de Administración de Emisión
 
 Dirección de Administración de Riesgos
+
+Dirección de Análisis de Riesgos del Sistema Financiero
+
+Dirección de Análisis de Riesgos Macrofinancieros
 
 Dirección de Análisis Macroeconómico
 
@@ -349,7 +355,9 @@ A esta Dirección General estarán adscritas las Direcciones de Operaciones Inte
 
 ARTICULO 12 BIS.- (DEROGADO, D.O.F. 31 DE OCTUBRE DE 2013)
 
-> <small>(REFORMADO CONFORME AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 13.
 
@@ -358,14 +366,6 @@ La Dirección General de Investigación Económica tendrá las atribuciones señ
 > <small>(REFORMADO, D.O.F. 27 DE MARZO DE 2013)</small>
 
 A esta Dirección General estarán adscritas las Direcciones de Estudios Económicos, de Medición Económica, de Análisis Macroeconómico, de Asuntos Internacionales, y de Análisis sobre Precios, Economía Regional e Información.
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
-###### ARTICULO 14.
-
-La Dirección General de Estabilidad Financiera tendrá las atribuciones que se señalan en los artículos 25 y 25 Bis de este Reglamento.
-
-A esta Dirección General estarán adscritas las Direcciones de Estabilidad Financiera y de Información del Sistema Financiero.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2011)</small>
 
@@ -382,6 +382,14 @@ ARTICULO 14 BIS 1.- La Dirección General de Asuntos del Sistema Financiero tend
 A esta Dirección General estarán adscritas la Dirección de Regulación y Supervisión, la Dirección de Intermediarios Financieros de Fomento y la Dirección de Evaluación de Servicios Financieros.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 14.
+
+La Dirección General de Estabilidad Financiera tendrá las atribuciones que se señalan en los artículos 25, 25 Bis, 25 Bis 4 y 25 Bis 5 de este Reglamento.
+
+A esta Dirección General estarán adscritas las Direcciones de Estabilidad Financiera, de Información del Sistema Financiero, de Análisis de Riesgos del Sistema Financiero y de Análisis de Riesgos Macrofinancieros.
+
+> <small>(REFORMADO CONFORME AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 14 Bis 1.
 
@@ -835,9 +843,27 @@ II. Recomendar las políticas, medidas, acciones y regulaciones orientadas a man
 
 III. Identificar deficiencias en la regulación y supervisión que impidan o dificulten la actuación de las autoridades para mitigar riesgos o, en su caso, resolver, en coordinación con otras autoridades, afectaciones a la estabilidad financiera;
 
-IV. Dar seguimiento al desarrollo de la regulación en materia de estabilidad financiera, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Fungir como asesor del Consejo de Estabilidad del Sistema Financiero y de su Comité Técnico.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+
+IV. Dar seguimiento al desarrollo de la regulación en materia de estabilidad financiera;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+
+V. Fungir como asesor del Consejo de Estabilidad del Sistema Financiero y de su Comité Técnico;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+
+VI. Atender, en el ámbito de la competencia de la Dirección General de Estabilidad Financiera, la relación del Banco con organismos internacionales, en coordinación con las demás unidades administrativas del Banco que, en su caso, participen en las actividades de dichos organismos, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+
+VII. Participar en la elaboración y, en su caso, expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones relacionadas con sus atribuciones respecto de aquellas materias que conforme a este artículo sean de su competencia.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -851,9 +877,23 @@ III. Poner a disposición de otras Unidades Administrativas del Banco toda la in
 
 IV. Poner a disposición de otras autoridades financieras la información recabada y generada que corresponda al ámbito de su competencia;
 
-V. Administrar el registro de comisiones a que se refiere el artículo 6o. de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Administrar el proceso de publicación de información de carácter financiero en coordinación con otras Unidades Administrativas del Banco que, de conformidad con el presente Reglamento, puedan recabar y/o publicar información de ese carácter.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+
+V. Administrar el registro de comisiones a que se refiere el artículo 6o. de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+
+VI. Administrar el proceso de publicación de información de carácter financiero en coordinación con otras Unidades Administrativas del Banco que, de conformidad con el presente Reglamento, puedan recabar y publicar información de ese carácter, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+
+VII. Participar en la elaboración y, en su caso, expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones relacionadas con sus atribuciones respecto de aquellas materias que conforme a este artículo sean de su competencia.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -932,6 +972,26 @@ IV. Participar en los procedimientos de registro, formulación de observaciones 
 V. Participar en el análisis de aquellos asuntos que incidan en el ámbito de la competencia del Banco, que puedan impactar en materia de políticas de inclusión, acceso y educación financiera, y
 
 VI. Colaborar en el cumplimiento de la atribución prevista en el artículo 25 Bis 1, fracción III, de este Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 25 BIS 4.- La Dirección de Análisis de Riesgos del Sistema Financiero tendrá las atribuciones siguientes:
+
+I. Realizar evaluaciones sobre la situación de aquellas entidades financieras consideradas de relevancia para el sistema financiero, en escenarios de condiciones económicas adversas, y
+
+II. Analizar información que pueda constituir indicios de exposiciones relevantes de entidades financieras en conjunto a riesgos comunes o a riesgos con un alto grado de correlación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 25 BIS 5.- La Dirección de Análisis de Riesgos Macrofinancieros tendrá las atribuciones siguientes:
+
+I. Analizar el marco macroeconómico y su interacción con el sistema financiero, y
+
+II. Estudiar los flujos de fondos en el sistema financiero y de estos con el exterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
@@ -1952,3 +2012,11 @@ PRIMERO. Las presentes reformas y adición al Reglamento Interior del Banco de M
 SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
 
 TERCERO. Todas las referencias a las Direcciones Generales o Direcciones que en virtud de la entrada en vigor de las presentes modificaciones hayan desaparecido o cambiado de denominación, y que se encuentren contenidas en cualquier otro acto jurídico, deberán entenderse hechas a las Direcciones Generales o Direcciones que las sustituyan o cuenten con las atribuciones respectivas.
+
+D.O.F. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor el primero de enero de dos mil quince, con excepción de la fracción VII del artículo 25, la cual entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+Las presentes modificaciones al Reglamento Interior del Banco de México fueron aprobadas por su Junta de Gobierno, con fundamento en lo dispuesto por el artículo 46, fracción XVI, de la Ley del Banco de México, en sesión del 25 de noviembre de 2014.
