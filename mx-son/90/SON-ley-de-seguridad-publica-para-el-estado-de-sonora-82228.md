@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-82228"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-14"
-last_updated: "2014-11-03"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2011.
 
@@ -512,6 +512,10 @@ VII.- Dar seguimiento a los indicadores de incidencia delictiva y de eficiencia 
 VIII.- Presentar proyectos normativos en materia de Seguridad Pública ante las instancias correspondientes;
 
 IX.- Realizar reconocimientos ciudadanos hacia los elementos de las instituciones policiales del Estado, que se distingan en su labor, así como la promoción de programas a fin de vincular a las instituciones policiales con la comunidad, que conlleven un sentido de integración, participación social y dignificación de la función policial;
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+Los reconocimientos a que se refiere la presente fracción podrán ser de carácter honorifico, en numerario o en especie, según lo determine el propio Comité Ciudadano;
 
 X.- Promover y participar en la evaluación objetiva de la situación que guarda la seguridad pública en el Estado;
 
@@ -2854,3 +2858,9 @@ El presente decreto entrará en vigor a partir del día siguiente de su publicac
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de un plazo no mayor a 60 días, contado a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo deberá realizar las adecuaciones pertinentes a la normatividad correspondiente, para efecto de crear el Centro Estatal de Prevención del Delito y Participación Ciudadana dentro de la estructura orgánica de la Secretaría de Seguridad Pública del Estado.
+
+B.O. 22 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
