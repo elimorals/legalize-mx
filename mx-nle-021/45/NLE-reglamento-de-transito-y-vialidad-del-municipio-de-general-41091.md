@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-general-4109
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-08"
-last_updated: "2012-08-15"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de septiembre de 2004.
 
@@ -667,6 +667,10 @@ II. Presentar carta responsiva de su padre o madre. De no existir éstos, la res
 
 III. Aprobar el curso de manejo defensivo impartido por la Autoridad Municipal o por alguna de las Instituciones registradas ante la Autoridad Municipal a que se refiere el Artículo 127 Fracción I de este ordenamiento.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 35 BIS.- Cuando se requiera acreditar el curso de manejo, este deberá incluir una presentación audiovisual, por medio de la cual se les informará con relación a los inconvenientes y consecuencias de conducir bajo el efecto de las bebidas alcohólicas o intoxicado con cualquier sustancia, además de incluir los riesgos de los accidentes que se pueden ocasionar cuando al conducir vehículos motores se utilice teléfono celular, radio o cualquier aparato de comunicación, ya sea para hablar o enviar cualquier tipo de mensajes de texto utilizando dispositivos móviles de comunicación.
+
 ###### ARTÍCULO 36.
 
 Para obtener permiso de ciclista, se requiere tener quince años cumplidos. Los menores de esa edad y mayores de ocho años sólo podrán manejar bicicletas con rodada menor a sesenta centímetros y en áreas cercanas a su domicilio sin que tengan que tramitar permiso.
@@ -687,11 +691,81 @@ II. A las personas que se encuentren de paso en el Municipio y que hayan extravi
 
 III. En aquellos casos en que sea urgente el conducir y esté cerrada la Delegación de la Secretaría de Finanzas y Tesorería General del Estado.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEXTO BIS. SUSPENSIÓN DE A (SIC) CANCELACIÓN O REVOCACIÓN DE LA LICENCIA
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 38 BIS 1.- Las autoridades municipales, al tener el conocimiento de la comisión de infracciones que tengan como sanción la suspensión, cancelación o revocación de licencias de conducir:
+
+I.- Retendrán provisionalmente, como medida preventiva, la licencia del conductor del vehículo;
+
+II.- Tomarán las medidas necesarias, de acuerdo a la normativa, para evitar que el titular de la licencia continúe conduciendo;
+
+III.- Notificarán de inmediato la retención a la autoridad estatal competente en materia de expedición de licencias; y
+
+IV.- Notificarán (sic) la autoridad municipal competente, remitiéndole la licencia y copia del documento en el que consten las infracciones cometidas para efectos de que esta sustancie el procedimiento correspondiente y emita la resolución que proceda.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 38 BIS 2.- La conducción de vehículo automotor en estado de voluntaria intoxicación que afecten la capacidad de manejo, o utilizando simultáneamente algún tipo de aparato de comunicación, salvo que se utilice con tecnología de manos libres u otra tecnología que evite la distracción del conductor, será sancionada al menos, en los términos siguientes:
+
+I.- Por conducir en alguna de las referidas condiciones, multa de 50 a 200 cuotas, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por tres meses y arresto administrativo de ocho a doce horas;
+
+II.- Por conducir en alguna de las referidas condiciones, y cometer cualquier infracción administrativa, una multa de 100 a 300 cuotas, tratamientos para los conductores en estado (sic) voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por seis meses y arresto administrativo de doce a veinticuatro horas;
+
+III.- Por conducir en alguna de las referencias (sic) condiciones, por más de dos veces en un lapso de un año, procederá multa de 200 a 600 cuotas, tratamiento para los conductores en estado (sic) voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por doce meses y arresto administrativo de veinticuatro a treinta y seis horas;
+
+IV.- Por no acreditar haber acudido al menos al 90% de las sesiones de tratamiento decretadas, multa de 100 a 200 cuotas y suspensión de la licencia para conducir hasta por 18 meses.
+
+En todos los casos de infracciones con motivo de conducción en estado de voluntaria intoxicación que afecten la capacidad de manejo, el infractor se deberá comprometer a asistir a tratamiento o cursos de rehabilitación y acreditar su cumplimiento ante la autoridad competente. De no efectuar el compromiso o no acreditarlo, se le suspenderá la vigencia de la licencia para conducir hasta por 18 meses.
+
+Tratándose de menores no emancipados que hayan cometido infracciones con motivo de conducción de vehículos en alguna de las condiciones señaladas en el primer párrafo de este artículo, se les cancelará la licencia para conducir o estarán inhabilitados para obtenerla hasta por doce meses, y en su caso el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, quienes deberán acompañar al infractor a dicho tratamiento o curso.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 38 BIS 3.- La Autoridad Municipal dentro de los siguientes diez días hábiles, contados a partir de la fecha de la infracción, notificará al titular de la licencia a fin de que dentro del plazo de quince días manifieste lo que a su derecho convenga, presenten las pruebas y genere los alegatos de su intención.
+
+Vencido el término para su defensa, dicha autoridad resolverá en definitiva y lo notificará dentro de los quince días hábiles siguientes al titular de la licencia.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 38 BIS 4.- Posteriormente, la mencionada autoridad municipal notificará a la autoridad estatal competente en materia de expedición de licencias, sobre la resolución definitiva y en su caso le remitirá la licencia retenida, a fin de que ésta efectúe las anotaciones correspondientes en la Base de Datos donde se registren dichas sanciones, así como su cumplimiento, lo cual deberá tomarse en cuenta para determinar la reincidencia.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 38 BIS 5.- Dicha autoridad podrá reactivar la licencia de conducir si el infractor demuestra haber cumplido la sanción, o en su caso, solicite y realice 30 horas de servicio en la comunidad por cada mes que se le haya decretado la suspensión de la licencia de conducir.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEXTO BIS 1. PROCEDIMIENTO PARA LA SUSPENSIÓN O CANCELACIÓN DE LA LICENCIA DE CONDUCIR
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 38 BIS 6.- Las autoridades municipales, al tener conocimiento de la comisión de infracciones que tengan como sanción la suspensión o cancelación de licencias de conducir:
+
+I.- Retendrán inmediatamente de forma provisional, como medida preventiva, la licencia del conductor del vehículo;
+
+II.- Tomarán las medidas necesarias, de acuerdo a la normativa, para evitar que el titular de la licencia continúe conduciendo;
+
+III.- Notificarán de inmediato la retención a la autoridad estatal competente en materia de expedición de licencias; y
+
+IV.- Notificarán a la autoridad municipal competente, remitiéndole la licencia y copia del documento en el que consten las infracciones cometidas para efectos de que ésta sustancie el procedimiento correspondiente y emita la resolución que proceda.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 38 BIS 7.- La autoridad municipal dentro de los siguientes diez días hábiles, contados a partir de la fecha de infracción, notificará al titular de la licencia a fin de que dentro del plazo de quince días hábiles manifieste lo que a su derecho convenga, presente las pruebas y genere los alegatos de su intención.
+
+Vencido el término para su defensa, dicha autoridad resolverá en definitiva y lo notificará dentro de los quince días siguientes al titular de la licencia.
+
+Posteriormente, la mencionada autoridad municipal notificará a la autoridad estatal competente en materia de expedición de las licencias, sobre la resolución definitiva y en su caso le remitirá la licencia retenida, a fin de que está efectúe las anotaciones correspondientes en la Base de Datos donde se registren dichas sanciones, así como su cumplimiento, lo cual deberá tomarse en cuenta para determinar la reincidencia.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 38 BIS 8.- Dicha autoridad municipal podrá reactivar la licencia de conducir si el infractor demuestra haber cumplido la sanción, o en su caso, solicite y realice 30 horas de servicio en la comunidad por cada mes que se le haya decretado la suspensión de la licencia de conducir, informando de (sic) a la autoridad estatal competente de la procedencia de esta reactivación.
+
 ### CAPÍTULO SÉPTIMO. DE LAS OBLIGACIONES DE LOS CONDUCTORES DE VEHÍCULOS
-
-### CAPÍTULO OCTAVO. DE LAS PROHIBICIONES A LOS CONDUCTORES DE VEHÍCULOS
-
-### CAPÍTULO NOVENO. DE LOS PEATONES, PASAJEROS Y OCUPANTES DE VEHÍCULOS
 
 ###### ARTÍCULO 39.
 
@@ -729,7 +803,7 @@ XV. Someterse a un examen para detectar el estado de ebriedad o ineptitud para c
 
 XVI. Reducir la velocidad ante cualquier concentración de peatones y/o vehículos.
 
-### CAPÍTULO DÉCIMO. DE LA PROTECCIÓN A LOS ESCOLARES
+### CAPÍTULO OCTAVO. DE LAS PROHIBICIONES A LOS CONDUCTORES DE VEHÍCULOS
 
 ###### ARTÍCULO 40.
 
@@ -825,7 +899,7 @@ IX. No llevar pasajero o pasajeros, cuando sea riesgoso;
 
 X. No llevar bulto(s) sobre la cabeza.
 
-### CAPÍTULO DÉCIMO PRIMERO. DEL TRANSPORTE DE CARGA Y SUS MANIOBRAS
+### CAPÍTULO NOVENO. DE LOS PEATONES, PASAJEROS Y OCUPANTES DE VEHÍCULOS
 
 ###### ARTÍCULO 43.
 
@@ -937,7 +1011,7 @@ X. Viajar en lugares destinados a carga o fuera del vehículo.
 
 El propietario será responsable de las infracciones en que incurran los demás ocupantes del vehículo.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LA SUSPENSIÓN DE MOVIMIENTO Y EL ESTACIONAMIENTO DE VEHÍCULOS
+### CAPÍTULO DÉCIMO. DE LA PROTECCIÓN A LOS ESCOLARES
 
 ###### ARTÍCULO 49.
 
@@ -959,7 +1033,7 @@ Es responsabilidad del conductor del vehículo de transporte escolar tomar las d
 
 Además de las obligaciones y prohibiciones que se establecen para los conductores en los artículos 39, 40 y 41 de este mismo reglamento, los conductores de vehículos estarán obligados a disminuir la velocidad de su vehículo y de tomar las debidas precauciones cuando encuentren un transporte escolar detenido en la vía pública, realizando maniobras de ascenso y descenso de escolares, y obedecer estrictamente las señales de protección y las indicaciones de los agentes, del personal de apoyo vial o de los promotores voluntarios de seguridad vial.
 
-### CAPÍTULO DÉCIMO TERCERO. DE LA CIRCULACIÓN DE VEHÍCULOS
+### CAPÍTULO DÉCIMO PRIMERO. DEL TRANSPORTE DE CARGA Y SUS MANIOBRAS
 
 ###### ARTÍCULO 54.
 
@@ -995,7 +1069,7 @@ V. Transitar por avenidas y/o zonas restringidas, así como en zonas residencial
 
 Toda carga que sea esparcida en la vía pública, deberá ser retirada por quien la transportara o será retirada a su costa por la Autoridad Municipal o por Protección Civil.
 
-### CAPÍTULO DÉCIMO CUARTO. DE LA CONDUCCIÓN NOCTURNA Y DEL USO DE LUCES
+### CAPÍTULO DÉCIMO SEGUNDO. DE LA SUSPENSIÓN DE MOVIMIENTO Y EL ESTACIONAMIENTO DE VEHÍCULOS
 
 ###### ARTÍCULO 56.
 
@@ -1143,7 +1217,7 @@ XX. En las guarniciones o cordones donde exista pintura color ámbar en ambas ca
 
 Independientemente de lo anterior, se permitirá el estacionamiento de vehículos en el área de estacionamiento que ampara un reloj estacionómetro o un señalamiento oficial de exclusividad.
 
-### CAPÍTULO DÉCIMO QUINTO. DE LAS SEÑALES Y DISPOSITIVOS PARA EL CONTROL Y VERIFICACIÓN DEL TRÁNSITO
+### CAPÍTULO DÉCIMO TERCERO. DE LA CIRCULACIÓN DE VEHÍCULOS
 
 ###### ARTÍCULO 73.
 
@@ -1451,7 +1525,7 @@ Los conductores de vehículos que entren o salgan de cocheras particulares, cajo
 
 Todos los vehículos deberán efectuar alto completo, cinco metros antes de cruzar las vías de ferrocarril. Antes de iniciar la marcha, deberán cerciorarse de que no se aproxime ningún vehículo que circule sobre rieles, en cuyo caso deberán cederle el paso.
 
-### CAPÍTULO DÉCIMO SEXTO. DE LOS ACCIDENTES
+### CAPÍTULO DÉCIMO CUARTO. DE LA CONDUCCIÓN NOCTURNA Y DEL USO DE LUCES
 
 ###### ARTÍCULO 102.
 
@@ -1465,7 +1539,7 @@ Los conductores deberán realizar el cambio de luz alta a baja a favor de los co
 
 Queda prohibido el uso de luces direccionales o de emergencia en caso innecesario y hacer uso de las luces altas en zona urbana, cuando el área esté iluminada.
 
-### CAPÍTULO DÉCIMO SEXTO (SIC). DE LOS SEGUROS, FLOTILLAS Y FIANZAS
+### CAPÍTULO DÉCIMO QUINTO. DE LAS SEÑALES Y DISPOSITIVOS PARA EL CONTROL Y VERIFICACIÓN DEL TRÁNSITO
 
 ###### ARTÍCULO 105.
 
@@ -1599,7 +1673,7 @@ C) FLECHA ROJA.- Los conductores de vehículos que pretendan circular en el sent
 
 Al no existir la flecha en luz roja y no estar iluminada la flecha en luz verde, se considerará alto al sentido de la circulación que indique la flecha.
 
-### CAPÍTULO DÉCIMO OCTAVO (SIC). DEL PROCEDIMIENTO CONCILIATORIO
+### CAPÍTULO DÉCIMO SEXTO. DE LOS ACCIDENTES
 
 ###### ARTÍCULO 110.
 
@@ -1743,7 +1817,7 @@ VI. Determinar si las lesiones ponen en peligro la vida, si tardan más o menos 
 
 VII. Nombre, domicilio, número de cédula profesional y firma de quien atendió al lesionado.
 
-### CAPÍTULO DÉCIMO NOVENO. DE LAS EMPRESAS Y PERSONAS QUE SE DEDIQUEN A LA COMPRAVENTA, REPARACIÓN Y/O TRASLADO DE VEHÍCULOS
+### CAPÍTULO DÉCIMO SEXTO (SIC). DE LOS SEGUROS, FLOTILLAS Y FIANZAS
 
 ###### ARTÍCULO 118.
 
@@ -1753,7 +1827,7 @@ Todos los vehículos de motor que circulen dentro de la ciudad deben estar asegu
 
 Es obligatorio para las Compañías de Seguros o sus ajustadores dar aviso inmediato a la Autoridad Municipal de todo accidente que atiendan en el lugar de los hechos o fuera del mismo y que haya ocurrido dentro del Municipio cuando su asegurado no presente constancia de aviso a la misma, debiendo aparecer siempre en su reporte o declaración de siniestro o accidente el número con que el hecho fue registrado con la Autoridad Municipal.
 
-### CAPÍTULO VIGÉSIMO. DE LAS ATRIBUCIONES DE LA AUTORIDAD MUNICIPAL
+### CAPÍTULO DÉCIMO OCTAVO (SIC). DEL PROCEDIMIENTO CONCILIATORIO
 
 ###### ARTÍCULO 120.
 
@@ -1779,7 +1853,7 @@ En la Audiencia las partes señalarán claramente los puntos esenciales de contr
 
 Si las partes en la Audiencia conciliatoria llegan a una solución, ésta se formalizará mediante convenio que se firmará por los que hayan asistido. En caso de no llegarse a un acuerdo o que se haya incumplido con el convenio llevado a cabo, se informará a las partes que para dirimir la controversia deberán ejercitar la Acción Penal o Civil que corresponda.
 
-### CAPÍTULO VIGÉSIMO PRIMERO. DE LAS SANCIONES
+### CAPÍTULO DÉCIMO NOVENO. DE LAS EMPRESAS Y PERSONAS QUE SE DEDIQUEN A LA COMPRAVENTA, REPARACIÓN Y/O TRASLADO DE VEHÍCULOS
 
 ###### ARTÍCULO 126.
 
@@ -1797,7 +1871,7 @@ C) Marca, tipo y color del vehículo.
 
 D) Daños que presenta.
 
-### CAPÍTULO VIGÉSIMO SEGUNDO. DE LA INCONFORMIDAD DE PARTICULARES
+### CAPÍTULO VIGÉSIMO. DE LAS ATRIBUCIONES DE LA AUTORIDAD MUNICIPAL
 
 ###### ARTÍCULO 127.
 
@@ -1953,7 +2027,7 @@ IV. Por falta de taxímetro, no usarlo, o traerlo en mal estado.
 
 En los casos de retiro de vehículos de la circulación o de la vía pública, para la devolución de un vehículo será indispensable la comprobación de su propiedad o legal posesión y el pago previo de las multas y derechos que procedan.
 
-### CAPÍTULO VIGÉSIMO TERCERO. PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+### CAPÍTULO VIGÉSIMO PRIMERO. DE LAS SANCIONES
 
 ###### ARTÍCULO 135.
 
@@ -2039,7 +2113,7 @@ IV. RETIRO DE LA LICENCIA DE CONDUCIR.- La licencia de conducir podrá ser retir
 
 V. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente del Área Metropolitana de Monterrey, y/o municipio donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 137.
 
@@ -2149,21 +2223,15 @@ Las multas impuestas de conformidad con el presente Reglamento, serán considera
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
-###### ARTÍCULO 145 Bis.
-
-La Dirección de Tránsito contará con un órgano interno para la calificación de las infracciones al presente ordenamiento mismo que se conformara de 3 miembros que tenga a bien designar el Secretario del Consejo Ciudadano de Vigilancia.
+ARTÍCULO 145 BIS.- La Dirección de Tránsito contará con un órgano interno para la calificación de las infracciones al presente ordenamiento mismo que se conformara de 3 miembros que tenga a bien designar el Secretario del Consejo Ciudadano de Vigilancia.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
-###### ARTÍCULO 145 Bis 1.
-
-Para la elección de los miembros de dicho órgano el Secretario del Consejo Ciudadano de Vigilancia elegirá al azar dentro de los miembros que integran los Consejos de Vigilancia de las Colonias del Municipio de General Escobedo. Para tal efecto, solicitara a estos la participación debiendo turnar a los que quisieran intervenir en un Rol que para tal efecto tendrá bajo su responsabilidad el Secretario del Consejo Ciudadano de Vigilancia.
+ARTÍCULO 145 BIS 1.- Para la elección de los miembros de dicho órgano el Secretario del Consejo Ciudadano de Vigilancia elegirá al azar dentro de los miembros que integran los Consejos de Vigilancia de las Colonias del Municipio de General Escobedo. Para tal efecto, solicitara a estos la participación debiendo turnar a los que quisieran intervenir en un Rol que para tal efecto tendrá bajo su responsabilidad el Secretario del Consejo Ciudadano de Vigilancia.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
-###### ARTÍCULO 145 Bis 2.
-
-Dicho órgano evaluara las infracciones cometidas al presente ordenamiento y tendrá la facultad de condonar hasta el 100% del total del valor de la infracción en los casos siguientes:
+ARTÍCULO 145 BIS 2.- Dicho órgano evaluara las infracciones cometidas al presente ordenamiento y tendrá la facultad de condonar hasta el 100% del total del valor de la infracción en los casos siguientes:
 
 A) Cuando sea la primera vez que el conductor infringe el presente reglamento, se descontara el 100% del valor de la infracción siempre que el conductor se presente ante dicho órgano, en los primeros 10 días siguientes a la comisión de la infracción.
 
@@ -2173,9 +2241,7 @@ La tercera vez y subsecuentes que el conductor infrinja el presente reglamento p
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
-###### ARTÍCULO 145 Bis 3.
-
-Quedando exceptuadas de estos beneficios las siguientes violaciones al presente reglamento:
+ARTÍCULO 145 BIS 3.- Quedando exceptuadas de estos beneficios las siguientes violaciones al presente reglamento:
 
 1. Manejar en estado de ebriedad o de ineptitud para a conducir, bajo el influjo de drogas o estupefacientes;
 
@@ -2189,9 +2255,9 @@ Quedando exceptuadas de estos beneficios las siguientes violaciones al presente 
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
-###### ARTÍCULO 145 Bis 4.
+ARTÍCULO 145 BIS 4.- Para cumplir cabalmente con su encomienda dicho órgano interno recibirá del oficial de tránsito las copias de la boletas de infracción levantadas al finalizar su turno o antes si las circunstancias lo ameritan y mantendrá un registro permanente de las infracciones de tránsito que se hayan cometido en el municipio.
 
-Para cumplir cabalmente con su encomienda dicho órgano interno recibirá del oficial de tránsito las copias de la boletas de infracción levantadas al finalizar su turno o antes si las circunstancias lo ameritan y mantendrá un registro permanente de las infracciones de tránsito que se hayan cometido en el municipio.
+### CAPÍTULO VIGÉSIMO SEGUNDO. DE LA INCONFORMIDAD DE PARTICULARES
 
 ###### ARTÍCULO 146.
 
@@ -2204,6 +2270,8 @@ Si la inconformidad es derivada de la determinación de responsabilidad en algú
 ###### ARTÍCULO 148.
 
 Una vez analizadas las pruebas ofrecidas se dictará la resolución correspondiente, la cual no admitirá recurso alguno, debiéndose estar en todo caso a lo establecido en el Artículo anterior.
+
+### CAPÍTULO VIGÉSIMO TERCERO. PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
 ###### ARTÍCULO 149.
 
@@ -2268,3 +2336,7 @@ Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase pos
 P.O. 15 DE AGOSTO DE 2012.
 
 ÚNICO.- La presente reforma por adición, entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+ÚNICO.- La presente reforma por Adición al Reglamento de Tránsito y Vialidad del Municipio de General Escobedo, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
