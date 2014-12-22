@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-comisiones-del-poder-legislativo-del-estado-93975
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-09"
-last_updated: "2014-04-21"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el número extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 9 de abril de 2013.
 
@@ -105,7 +105,9 @@ Son comisiones ordinarias:
 
 19.- Comisión de Cultura.
 
-20.- Comisión de Turismo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+20.- Comisión de Turismo y Asuntos Internacionales.
 
 21.- Comisión de Deporte.
 
@@ -147,7 +149,7 @@ II. El reglamento de la Ley y demás disposiciones reglamentarias;
 
 III. En su caso, la elaboración de la Minuta de un proyecto de ley o de decreto que sean declaradas aprobadas, la cual deberá estar corregida conforme al buen uso del lenguaje y con la claridad que amerite para su inequívoca interpretación, sin que se altere su contenido esencial en lo más mínimo.
 
-IV. El análisis y la revisión permanente de la legislación sustantiva buscando su codificación y armonía; y (sic)
+IV. El análisis y la revisión permanente de la legislación sustantiva buscando su codificación y armonía; y
 
 V. El Análisis del cumplimiento de los requisitos legales de las propuestas a Consejeros Electorales y del Contralor Interno del Consejo General del Instituto Electoral de Quintana Roo, y de los Consejeros del Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, para efectos de su designación por parte de la Legislatura.
 
@@ -325,7 +327,7 @@ I. La normatividad aplicable en el Estado, para la difusión, protección, defen
 
 II. Lo relacionado a la Comisión Estatal de Derechos Humanos;
 
-III. La revisión de la legislación, con el objeto de establecer propuestas tendientes a garantizar la igualdad, equidad y tolerancia, así como evitar la discriminación en los distintos grupos sociales; y (sic)
+III. La revisión de la legislación, con el objeto de establecer propuestas tendientes a garantizar la igualdad, equidad y tolerancia, así como evitar la discriminación en los distintos grupos sociales; y
 
 IV. Las políticas planes y programas para el fortalecimiento de los Derechos Humanos.
 
@@ -389,17 +391,37 @@ III. Las políticas, planes y programas en materia de cultura;
 
 IV. Otros asuntos que sean o se consideren de la competencia de esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 24.
 
-Corresponde a la Comisión de Turismo el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+Corresponde a la Comisión de Turismo y Asuntos Internacionales el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
 I. La legislación en materia de fomento turístico;
 
 II. Los asuntos relacionados con convenios o concesiones celebrados por el Poder Ejecutivo del Estado para incrementar o mejorar los servicios turísticos y mejorar los servicios correlativos en el estado, así como las bases normativas para concesionar las rutas y recorridos turísticos de competencia estatal y el conocimiento sobre promoción de infraestructura turística;
 
-III. Las políticas, planes y programas de difusión en materia de turismo; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-IV. Otros asuntos que sean o se consideren de la competencia de esta Comisión.
+III. Las políticas, planes y programas de difusión nacional e internacional en materia de turismo;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+IV. El Establecimiento de estrategias o mecanismos para ampliar y consolidar las ventajas competitivas en materia turística y comercial del Estado a nivel nacional e internacional;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+V. Impulsar mecanismos de cooperación nacional e internacional con organismos del sector turístico;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+VI. Coadyuvar en la difusión, promoción y ejecución de convenios y tratados internacionales signados por el Ejecutivo Federal en los que tenga intervención el Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+VII. Coadyuvar con las demás comisiones del Congreso cuyos asuntos sean o puedan llegar a ser de carácter internacional, y
+
+VIII. Otros asuntos que sean o se consideren de la competencia de esta Comisión.
 
 ###### Artículo 25.
 
@@ -714,3 +736,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
