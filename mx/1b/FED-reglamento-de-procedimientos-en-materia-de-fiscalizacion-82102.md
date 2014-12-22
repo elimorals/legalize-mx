@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-procedimientos-en-materia-de-fiscalizacion-82102"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-07"
-last_updated: "2011-07-07"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82102&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-07-04"
 ---
 # REGLAMENTO DE PROCEDIMIENTOS EN MATERIA DE FISCALIZACION
 
-REGLAMENTO DE PROCEDIMIENTOS EN MATERIA DE FISCALIZACION
+REGLAMENTO DE PROCEDIMIENTOS EN MATERIA DE FISCALIZACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE EXPIDE EL REGLAMENTO DE PROCEDIMIENTOS SANCIONADORES EN MATERIA DE FISCALIZACIÓN Y SE ABROGA EL REGLAMENTO DE PROCEDIMIENTOS EN MATERIA DE FISCALIZACIÓN APROBADO EL 4 DE JULIO DE 2011 EN SESIÓN EXTRAORDINARIA DEL CONSEJO GENERAL DEL ENTONCES INSTITUTO FEDERAL ELECTORAL MEDIANTE EL ACUERDO CG199/2011, PUBLICADO EN EL D.O.F. DE 22 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 7 de julio de 2011.
 
@@ -600,3 +602,13 @@ CUARTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 4 de julio de dos mil once, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Francisco Javier Guerrero Aguirre, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE EXPIDE EL REGLAMENTO DE PROCEDIMIENTOS SANCIONADORES EN MATERIA DE FISCALIZACIÓN Y SE ABROGA EL REGLAMENTO DE PROCEDIMIENTOS EN MATERIA DE FISCALIZACIÓN APROBADO EL 4 DE JULIO DE 2011 EN SESIÓN EXTRAORDINARIA DEL CONSEJO GENERAL DEL ENTONCES INSTITUTO FEDERAL ELECTORAL MEDIANTE EL ACUERDO CG199/2011 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE DICIEMBRE DE 2014.
+
+TERCERO. El presente Reglamento entrará en vigor al día siguiente de su aprobación por el Consejo General del Instituto Nacional Electoral.
+
+CUARTO. Notifíquese el presente Reglamento a los Organismos Públicos Locales.
+
+QUINTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
