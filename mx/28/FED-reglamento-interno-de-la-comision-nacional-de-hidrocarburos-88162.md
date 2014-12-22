@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-881
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-12"
-last_updated: "2012-06-12"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88162&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-01-23"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS, PUBLICADO EN EL D.O.F. DE 22 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 12 de junio de 2012.
 
@@ -916,3 +918,27 @@ Décimo. El Organo de Gobierno emitirá el reglamento de funcionamiento del Regi
 Décimo primero. En relación con la suplencia temporal del Presidente, cuando dos o más Comisionados cumplan con los requisitos previstos en el artículo 47, se deberán tomar en cuenta los periodos de designación en los nombramientos del Ejecutivo Federal emitidos el 15 de mayo de 2009.
 
 México, D.F., a 23 de enero de 2012.- El Presidente de la Comisión Nacional de Hidrocarburos, Juan Carlos Zepeda Molina.- Rúbrica.- Los Comisionados integrantes de la Comisión Nacional de Hidrocarburos: Edgar René Rangel Germán, Guillermo Cruz Domínguez Vargas, Javier Humberto Estrada Estrada, Alma América Porres Luna.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE DICIEMBRE DE 2014.
+
+Primero. El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Reglamento Interno de la Comisión Nacional de Hidrocarburos, publicado en el Diario Oficial de la Federación el 12 de junio de 2012.
+
+Tercero. Queda sin efectos el Acuerdo por el que se delegan diversas facultades a servidores públicos de la Comisión Nacional de Hidrocarburos publicado en el Diario Oficial de la Federación el 30 de abril de 2014.
+
+Cuarto. En tanto se autoriza la creación de las plazas de Titulares de Unidad y Oficialía Mayor por parte de las autoridades competentes, las funciones de la Unidad Jurídica serán ejercidas por la Secretaría Ejecutiva, las de la Unidad Técnica de Exploración por el Director General de Evaluación del Potencial Petrolero; las de la Unidad Técnica de Extracción por el Director General de Dictámenes de Extracción; las de la Unidad de Administración Técnica de Asignaciones y Contratos por el Director General de Asignaciones y Contratos de Exploración y el Director General de Asignaciones y Contratos de Extracción en el ámbito de sus respectivas competencias; las del Centro Nacional de Información de Hidrocarburos por el Director General de Estadística y Evaluación Económica; las de la Oficialía Mayor por el Director General de Finanzas, Adquisiciones y Servicios.
+
+Quinto. En tanto se autorizan las plazas de Director General de Asignaciones y Contratos de Exploración y de Director General de Asignaciones y Contratos de Extracción, las funciones de éstas serán ejercidas por el Director General de Dictámenes de Exploración y por el Director General de Dictámenes de Extracción respectivamente.
+
+Sexto. Al día siguiente de la entrada en vigor del presente Reglamento Interno se iniciarán las gestiones correspondientes a efecto de establecer la Litoteca Nacional de la Industria de Hidrocarburos a más tardar durante los siguientes dos años.
+
+Séptimo. Los asuntos que estén tramitándose por las distintas unidades administrativas de la Comisión a la entrada en vigor del presente Reglamento Interno, permanecerán en el último estado que hubieran alcanzado y se continuarán atendiendo y resolverán por la nueva unidad o unidades administrativas de la Comisión a las que se haya otorgado la competencia conforme a este ordenamiento.
+
+Octavo. En tanto se emitan los manuales que correspondan, el Comisionado Presidente de la Comisión resolverá lo conducente en aquellas cuestiones no previstas en este Reglamento Interno.
+
+Noveno. La estructura organizacional establecida en el presente Reglamento Interno se conformará paulatinamente conforme se autorice la creación de las plazas por las autoridades competentes de conformidad con el presupuesto que la Comisión tenga disponible.
+
+Décimo. El Órgano de Gobierno emitirá el reglamento de funcionamiento del Registro Público dentro de los siguientes seis meses a la entrada en vigor del presente Reglamento Interno.
