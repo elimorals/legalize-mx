@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-desarrollo-24663"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2012-09-26"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO INDUSTRIAL Y COMERCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO INDUSTRIAL Y COMERCIAL DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 3 de mayo de 2002.
 
@@ -624,3 +626,11 @@ Primero. El presente Acuerdo entrará en vigor al día siguiente al de su public
 Segundo. La Secretaría de Desarrollo Industrial y Comercial, en un término no mayor de 45 días naturales contados a partir de la entrada en vigor del presente acuerdo, y de conformidad con el artículo 22 de la vigente Ley Orgánica de la Administración Pública del Estado, deberá remitir a la Consejería Jurídica del Gobernador para su revisión, el anteproyecto de su Reglamento Interior conteniendo las adecuaciones señaladas en el segundo párrafo del artículo segundo transitorio de la Ley Orgánica en cita.
 
 Tercero. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente acuerdo.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría de Fomento Industrial y Comercial expedido el 27 de marzo del año 2002 y publicado en el Periódico Oficial del Estado con fecha 3 de mayo del año 2002.
+
+Tercero. Se derogan todas las disposiciones legales y administrativas, de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente Reglamento.
