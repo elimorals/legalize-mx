@@ -4,7 +4,7 @@ identifier: "HID-ley-de-control-vehicular-para-el-estado-de-hidalgo-97915"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2013-12-31"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 2 DE FEBRERO Y 6 DE ABRIL DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2013.
 
@@ -149,7 +151,9 @@ B) La factura a que se refiere la fracción I, inciso A) del presente artículo,
 
 C) Las resoluciones de tribunales competentes que hagan las veces de factura judicial, siempre y cuando no exista aviso preventivo en el Registro Estatal Vehicular o en el Registro Público Vehicular; y
 
-D) La factura original del vehículo. En estos casos, cuando la factura contenga cesiones de derechos de propiedad, deberá coincidir el nombre del vendedor con el de la última cesión registrada. Asimismo, el contrato o la cesión deberán contener el precio pactado en la operación de transmisión de propiedad, o la estipulación de que ésta se realizó a título gratuito. Las disposiciones de este inciso son aplicables a contratos de compra-venta privados.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+D) Los contratos de compra-venta, siempre que se adjunte la factura original del vehículo. En estos casos, cuando la factura contenga endosos, deberá coincidir el nombre del vendedor con el del último endoso registrado. Asimismo, el contrato o el endoso deberán contener el precio pactado en la operación de transmisión de propiedad, o la estipulación de que ésta se realizó a título gratuito. Las disposiciones de este inciso son aplicables a contratos de compra-venta privados, así como aquellos que se otorguen ante fedatario público.
 
 III.- Tratándose de vehículos importados:
 
@@ -501,6 +505,10 @@ A) Para los efectos de desincorporar un vehículo del Registro Vehicular Estatal
 
 B) También procederá la desincorporación de vehículo del Registro Vehicular Estatal cuando autoridades competentes la mandaten, o bien cuando se tenga conocimiento de su incorporación en otra Entidad Federativa o en los registros o padrones de la Federación.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+C) La Secretaría procederá a la desincorporación de vehículos del Registro Vehicular Estatal cuyas placas hubieran perdido vigencia con motivo de un canje general de placas. No obstante, la Secretaría estará obligada a resguardar la información que obre hasta ese momento en sus sistemas de información electrónicos, y conservará, el expediente físico documental del vehículo en tanto no se realice un nuevo canje general de placas.
+
 VIII.- Actualización de datos al Registro Vehicular Estatal derivado de reposición de tarjeta de circulación:
 
 A) Las personas físicas y morales que soliciten la reposición de tarjeta de circulación deberán presentar identificación oficial del propietario o de su representante legal;
@@ -666,3 +674,13 @@ Y EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CON
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS TREINTA DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL TRECE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2015, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Con el propósito de que los Municipios y los prestadores de servicio cuenten con un plazo perentorio para el cumplimiento de lo dispuesto en el artículo 5° de este Decreto, con relación al Derecho de Alumbrado Público, las disposiciones contenidas en él, entrarán en vigor hasta el 1° de julio del año 2015.
