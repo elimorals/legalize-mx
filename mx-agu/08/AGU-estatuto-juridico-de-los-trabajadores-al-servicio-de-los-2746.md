@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2012-03-05"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -377,7 +377,7 @@ Es nula la renuncia que los trabajadores hagan de los salarios devengados, de la
 
 Todo convenio o liquidación, para ser válido, deberá hacerse por escrito y contener una relación circunstanciada de los hechos que lo motiven y de los derechos comprendidos en él. Será ratificado ante el Tribunal de Arbitraje, quien lo aprobará, siempre que no contenga renuncia de los derechos de los Trabajadores.
 
-### CAPITULO SEGUNDO. Suspensión del las Relaciones de Trabajo
+### CAPITULO SEGUNDO. Suspensión del (sic) las Relaciones de Trabajo
 
 ###### ARTICULO 20.
 
@@ -701,9 +701,25 @@ II.- Cuando se trate de cobro de cuotas sindicales ordinarias o extraordinarias;
 
 III.- Cuando se trate de descuentos ordenados por el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes u otros organismos equivalentes de seguridad social;
 
-IV.- Cuando se trate de los descuentos ordenados por autoridad judicial competente, para cubrir las pensiones alimenticias que fueren exigidas al trabajador; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-V.- Cuando se trate del impuesto sobre productos del trabajo.
+IV.- Cuando se trate de los descuentos ordenados por autoridad judicial competente, para cubrir las pensiones alimenticias que fueren exigidas al trabajador;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+V.- Cuando se trate del impuesto sobre productos del trabajo; y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+VI.- Cuando se trate del pago o abonos para cubrir créditos destinados a la adquisición de bienes o servicios. Estos descuentos deberán aceptarse libremente por el trabajador, en términos del siguiente párrafo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+El Estado podrá celebrar convenios con particulares, procurando que sean originarios del Estado de Aguascalientes, con el objeto de que los trabajadores puedan acceder a los beneficios descritos en la Fracción VI. Para que el Estado pueda celebrar dichos convenios, deberá cerciorarse que el proveedor ofrece mejores precios y tasas de interés a los que regularmente oferta, otorgando a los trabajadores del Estado mejores condiciones para contratar.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+En el caso de las Fracciones I y VI, los descuentos no podrán exceder del veinte por ciento del salario mensual del trabajador.
 
 ###### ARTICULO 53.
 
@@ -1976,3 +1992,13 @@ DECRETO NÚMERO 181, POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTICULO 58 BIS D
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los contratos celebrados con anterioridad al inicio de vigencia del presente Decreto, podrán ser convalidados por los trabajadores a fin de que continúen surtiendo sus efectos, siempre que se ajusten a las disposiciones contenidas en esta reforma.
