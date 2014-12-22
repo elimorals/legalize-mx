@@ -4,7 +4,7 @@ identifier: "HID-ley-del-sistema-de-administracion-tributaria-del-estado-de-9789
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2013-12-31"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,15 @@ state: "HID"
 ---
 # LEY DEL SISTEMA DE ADMINISTRACION TRIBUTARIA DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 2 DE FEBRERO DE 2015 Y 6 DE ABRIL DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL SISTEMA DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR UNA VEZ QUE LAS DISPOSICIONES REGLAMENTARIAS Y ADMINISTRATIVAS QUE PERMITAN EL CABAL CUMPLIMIENTO DE LA PRESENTE LEY, HAYAN SIDO PUBLICADAS EN EL PERIÓDICO OFICIAL DEL ESTADO, PARA LO CUAL LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN, IMPLEMENTARÁ LOS CAMBIOS, PROCESOS Y DEFINICIONES DE CARÁCTER NORMATIVO, TÉCNICO Y ADMINISTRATIVO NECESARIOS PARA TALES EFECTOS.</small>
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO NÚMERO 308, PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014, EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA 01 DE ENERO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el martes 31 de Diciembre de 2013.
 
@@ -221,7 +225,7 @@ Sin perjuicio de lo dispuesto en otras leyes, el Jefe del Sistema de Administrac
 
 I. Cuando tenga incapacidad física o mental que le impida el correcto ejercicio de sus funciones durante más de seis meses;
 
-II. No cumpla (sic) los acuerdos de la Junta de Gobierno o actúe deliberadamente en exceso o defecto de sus atribuciones;
+II. No cumpla los acuerdos de la Junta de Gobierno o actúe deliberadamente en exceso o defecto de sus atribuciones;
 
 III. Utilice, en beneficio propio o de terceros, la información confidencial de que disponga en razón de su cargo, así como cuando divulgué la mencionada información sin la autorización de la Junta de Gobierno;
 
@@ -319,7 +323,9 @@ En las tareas de recaudación y de fiscalización del Gobierno del Estado de Hid
 
 T R A N S I T O R I O S
 
-PRIMERO. La presente Ley entrará en vigor el 01 de enero del 2015, previa su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+PRIMERO. El presente Decreto entrará en vigor una vez que las disposiciones reglamentarias y administrativas que permitan el cabal cumplimiento de la presente Ley, hayan sido publicadas en el Periódico Oficial del Estado, para lo cual la Secretaría de Finanzas y Administración, implementará los cambios, procesos y definiciones de carácter normativo, técnico y administrativo necesarios para tales efectos.
 
 SEGUNDO. La Secretaría de Finanzas y Administración realizará todos los cambios normativos a las disposiciones reglamentarias y administrativas para el cabal cumplimiento de la presente Ley, con antelación a la entrada en vigor de la misma.
 
@@ -342,3 +348,13 @@ AL EJECUTIVO DE LA ENTIDAD, PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCIÓ
 Y EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS TREINTA DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL TRECE. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2015, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Con el propósito de que los Municipios y los prestadores de servicio cuenten con un plazo perentorio para el cumplimiento de lo dispuesto en el artículo 5° de este Decreto, con relación al Derecho de Alumbrado Público, las disposiciones contenidas en él, entrarán en vigor hasta el 1° de julio del año 2015.
