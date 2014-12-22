@@ -4,7 +4,7 @@ identifier: "SON-ley-de-integracion-social-para-personas-con-discapacidad-14608"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-12"
-last_updated: "2014-11-13"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de julio de 1999.
 
@@ -713,9 +713,13 @@ VIII.- Celebrar convenios con toda clase de instituciones con el objeto de apoya
 
 IX.- Promover la difusión del lenguaje de señas mexicano para que sea incorporado a mayor número de personas; asimismo, desarrollar programas para la capacitación, formación y certificación de intérpretes de señas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 43.
 
-En la educación se considerará la formación académica de las personas con discapacidad de acuerdo a lo establecido en los diferentes niveles educativos. Su discapacidad no será causa de rechazo o exclusión de ninguna institución de educación en el Estado.
+En la educación se considerará la formación académica de las personas con discapacidad de acuerdo a lo establecido en los diferentes niveles educativos. Su discapacidad no será causa de rechazo o exclusión de ninguna institución de educación pública o privada en el Estado, conforme a lo estipulado en la Ley de Educación del Estado de Sonora.
 
 Los mayores de edad que presenten signos de discapacidad, que no hayan cursado o concluido la educación básica, serán incorporados al Sistema Estatal o Nacional de Educación para Adultos.
 
@@ -723,19 +727,33 @@ Los mayores de edad que presenten signos de discapacidad, que no hayan cursado o
 
 La Secretaría de Educación y Cultura, promoverá programas de información y sensibilización sobre la definición y características de las personas con discapacidad al personal técnico y administrativo del Instituto Nacional de Educación para Adultos, así como a la comunidad en general, incluyendo la participación de personal capacitado en lenguaje de signos mexicano.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 45.
 
-Cuando dentro del sistema educativo regular se detecte la presencia de menores con algún tipo de discapacidad, serán valorados y enviados a las áreas de educación especial para que, de resultar procedente, reciban la atención terapéutico-educacional que requieran y, en su caso, se reintegren al sistema regular.
+Cuando dentro del sistema educativo regular se detecte la presencia de menores con algún tipo de discapacidad, serán valorados a solicitud de las autoridades de los planteles escolares respectivos o de los padres de familia o tutores, y de ser el caso, serán canalizados por la Secretaría de Educación y Cultura, previo consentimiento de los padres o tutores, a las áreas de educación especial para que reciban la atención terapéutico-educacional que requieran y, en su caso, se reintegren al sistema regular.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 46.
 
-Las escuelas de educación especial deberán contar con el material didáctico, equipo e infraestructura para una mayor y eficiente atención a las personas con necesidades de educación especial. Asimismo, las escuelas de educación regular, desde preescolar, educación básica y superior contarán con infraestructura tecnológica y materiales necesarios para un óptimo desarrollo académico.
+Las escuelas de educación especial y educación regular, tanto públicas como privadas, deberán contar con el material didáctico, tecnología, equipo e infraestructura para una mayor y eficiente atención a las personas con necesidades de educación especial. Asimismo, las escuelas de educación regular, desde preescolar, educación básica y superior contarán con infraestructura física, tecnológica y materiales necesarios para un óptimo desarrollo académico.
 
 > <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 47.
 
 La Secretaría de Educación y Cultura proveerá y creará infraestructura, espacios y mobiliario en sus planteles, acordes a las necesidades de la población con discapacidad y promoverá lo correspondiente ante los niveles de educación media superior y superior, especialmente cuando se trate de bibliotecas, salones de clase, baños y espacios deportivos, involucrando para ello a alumnos, sociedades de padres de familia, organismos no lucrativos de la sociedad civil y demás interesados en dicha causa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+De igual forma, las escuelas privadas del sistema básico, educación media superior y superior llevarán a cabo las modificaciones necesarias a la infraestructura y mobiliario de sus planteles, con el fin de brindar accesibilidad e igualdad de oportunidades a niños, jóvenes y adultos con discapacidad.
 
 ###### ARTÍCULO 48.
 
@@ -1245,6 +1263,12 @@ III.- Clausura temporal, parcial o total, del establecimiento o edificio.
 
 Las medidas de seguridad se mantendrán vigentes hasta en tanto se subsane la irregularidad que las motive.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 113 BIS.- En el caso de que autoridades de la educación pública no lleven a cabo las modificaciones a sus instalaciones con el fin de ser acordes a las necesidades de la población con discapacidad, como lo establece el artículo 47 de esta Ley, se considerará una falta que se sancionará de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
 ###### ARTÍCULO 114.
 
 la aplicación de la sanción deberá estar debidamente fundada y motivada y será independiente de la aplicación de otras sanciones de índole civil o penal a que hubiere lugar.
@@ -1360,3 +1384,15 @@ B.O. 13 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor seis meses después del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+SEGUNDO.- El estímulo fiscal previsto en el presente decreto podrá hacerse efectivo a partir del siguiente ejercicio fiscal al que entre en vigor.
+
+TERCERO.- Las escuelas, tanto públicas como privadas, tendrán hasta el siguiente ciclo escolar, posterior a la entrada en vigor del presente decreto, para comenzar a realizar las adecuaciones a su infraestructura.
+
+CUARTO.- La Secretaría de Educación y Cultura del estado de Sonora, tendrá un plazo de 60 días para la creación de un Consejo Multidisciplinario el cual dará cumplimiento a las disposiciones del presente decreto. Este a su vez tendrá un plazo de 30 días después de su creación para fijar los lineamientos para ejercer sus funciones.
+
+QUINTO.- El ejecutivo del Estado, en función de la disponibilidad presupuestaria para ello, asignará los recursos presupuestales que sean necesarios a efecto de dar cumplimiento a las disposiciones contenidas en el presente decreto.
