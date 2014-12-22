@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interno-de-la-comision-estatal-de-arbitraje-20255"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-01-15"
-last_updated: "2011-09-26"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 15 de enero de 2001.
 
@@ -55,7 +55,7 @@ Son atribuciones de la Comisión las que expresamente señala el Artículo 9o. d
 
 ### CAPITULO SEGUNDO. De la Organización y Estructura de la Comisión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 4o.
 
@@ -71,17 +71,23 @@ III. Un Sub-Comisionado Jurídico y Un Sub-Comisionado Médico.
 
 IV. Las Unidades Administrativas que se precisan en, el presente ordenamiento.
 
-> <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
 
 El Secretario Técnico de la Comisión será el Sub-Comisionado Jurídico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 5o.
 
-Para el despacho de los asuntos que corresponden de manera directa al Comisionado, éste contará con el apoyo de la (sic) siguientes unidades administrativas:
+Para el despacho de los asuntos que corresponden de manera directa al Comisionado, éste contará con el apoyo de las siguientes unidades administrativas:
 
-I. Dirección de Area Médica
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-II. Dirección de Area Jurídica
+I. Sub Comisión Médica;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+II. Sub Comisión Jurídica;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
@@ -97,9 +103,9 @@ V. Una Jefatura de Orientación y Quejas; y
 
 VI. Las demás que el Consejo determine en base al presupuesto autorizado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-Por lo que respecta a la Jefatura de Orientación y Quejas, dependerá de la Dirección Médica.
+Por lo que respecta a la Jefatura de Orientación y Quejas, dependerá de la Sub Comisión Médica.
 
 ### CAPITULO TERCERO. Del Consejo de la Comisión
 
@@ -189,7 +195,7 @@ IV. Suscribir las actas en las que se dé cuenta de las sesiones del Consejo; y
 
 V. Las demás que les confieran otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 17.
 
@@ -253,15 +259,19 @@ XIV. Conformar y mantener actualizada la Bibliohemeroteca de la Comisión; y
 
 XV. Las demás que con tal carácter le correspondan como titular de la Comisión en los términos de las disposiciones normativas aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 20.
 
-Durante las ausencias temporales del Comisionado, sus funciones serán cubiertas por el Sub-Comisionado y Secretario de la Comisión.
+Durante las ausencias temporales del Comisionado, sus funciones serán cubiertas por el Sub Comisionado Jurídico y Secretario de la Comisión.
 
 ### CAPITULO QUINTO. De las Unidades Administrativas de Apoyo del Comisionado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 21.
 
-Corresponde a la Dirección de Area Médica el despacho de los siguientes asuntos:
+Corresponde a la Sub Comisión Médica el despacho de los siguientes asuntos:
 
 I. Implementar los mecanismos de coordinación entre la Comisión y las instituciones públicas o privadas de salud, para el cumplimiento del objetivo de la Comisión;
 
@@ -307,7 +317,7 @@ XXII. Citar al o los especialistas que se consideren necesarios para esclarecer 
 
 XXIII. Las demás que le señale el Comisionado, necesarias para el mejor cumplimiento de sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 22.
 
@@ -343,11 +353,11 @@ XIII. Practicar investigaciones sobre los actos de los servidores públicos que 
 
 XIV. Las demás que le señale el Comisionado, necesarias para, el mejor cumplimiento de sus funciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2009)</small>
 
 ### CAPITULO SEXTO. De las Facultades Genéricas del Sub-Comisionado Jurídico y Secretario de la Comisión y del Sub-Comisionado Médico
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 23.
 
@@ -457,11 +467,11 @@ XI. Establecer, coordinar y supervisar las políticas, normas, sistemas y proced
 
 XII. Las demás que las disposiciones legales y administrativas le confieran, y que les encomiende el Comisionado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2009)</small>
 
 ### CAPITULO SEPTIMO. De las Atribuciones Específicas del Sub-Comisionado Jurídico y Secretario de la Comisión y demás Unidades Administrativas
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 25.
 
@@ -493,7 +503,7 @@ XII. Ejercer las funciones inherentes a la Secretaría Técnica del Consejo, en 
 
 XIII. Las demás que le señale el Comisionado, necesarias para el mejor cumplimiento de sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 26.
 
@@ -597,7 +607,7 @@ UNICO: El presente Reglamento entrará en vigor al día siguiente de su publicac
 
 Dado en la sede del Consejo Directivo de la Comisión Estatal de Arbitraje Médico en sesión ordinaria celebrada el diez de noviembre de 1999. Siendo aprobado por unanimidad.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 22 DE JUNIO DE 2009.
 
@@ -610,3 +620,9 @@ UNICO.- La presente Reforma entrará en vigor al día siguiente de su publicaci�
 P.O. 26 DE SEPTIEMBRE DE 2011.
 
 ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
