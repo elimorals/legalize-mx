@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2013-02-25"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASI COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 16 DE MARZO DE 2015. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -173,7 +175,7 @@ Es jornada mixta la que comprende períodos de tiempo de las jornadas diurna y n
 
 Cuando la naturaleza del trabajo así lo exija, la jornada máxima se reducirá teniendo en cuenta el número de horas que puede trabajar un individuo normal sin sufrir quebranto en su salud.
 
-###### Artículo 15.
+###### ARTICULO 15.
 
 Cuando por circunstancias especiales deban aumentarse las horas de jornada máxima, este trabajo será considerado como extraordinario y nunca podrá exceder de tres horas diarias ni de tres veces consecutivas.
 
@@ -181,9 +183,11 @@ Cuando por circunstancias especiales deban aumentarse las horas de jornada máxi
 
 Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 17.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para amamantar a sus hijos.
+Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo. Durante el periodo de seis meses de lactancia establecido a partir de la fecha de nacimiento del hijo, tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos o para realizar la extracción manual de leche, en un lugar adecuado e higiénico que designe la institución o dependencia. Asimismo contarán con la capacitación y fomento para la promoción de lactancia materna y el amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
@@ -1200,3 +1204,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Los titulares de los Poderes Ejecutivo, Legislativo y Judicial y de los 84 Ayuntamientos del Estado de Hidalgo, contarán con 180 días naturales a partir del día siguiente de su publicación, para dar expedir el Reglamento de Escalafón correspondiente.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo. Se concede un plazo de sesenta días naturales, contados a partir de la fecha en que entren en vigor estas reformas, para que las empresas, instituciones, dependencias y en general, todos los obligados conforme a esta ley efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones establecidas.
