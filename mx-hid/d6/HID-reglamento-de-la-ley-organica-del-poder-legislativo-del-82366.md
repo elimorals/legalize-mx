@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2014-11-03"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -397,9 +397,17 @@ V.- Analizar y dictaminar sobre la declaración de nuevas denominaciones políti
 
 VI.- Conocer y dictaminar, conjuntamente con la Primera Comisión Permanente de Obras Públicas, Desarrollo Urbano y Vivienda, los convenios en materia de límites que realicen los Ayuntamientos del Estado;
 
-VII.- Conocer y emitir resolutivos de los asuntos que le sean turnados; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-VIII.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+VII.- En conjunto con las Primeras Comisiones Permanentes de Seguridad Ciudadana y Justicia y la de Derechos Humanos y Atención de las Personas con Discapacidad; recibir y supervisar el proceso de selección de las ternas enviadas por el Gobernador del Estado para la selección por el Pleno del Congreso, de los Comisionados de la Comisión Ejecutiva Estatal de Atención a Víctimas;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+VIII.- Conocer y emitir resolutivos de los asuntos que le sean turnados; y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+IX.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
 
 ###### ARTÍCULO 30.
 
@@ -433,9 +441,17 @@ I. Conocer y dictaminar las Iniciativas y resolver los asuntos relacionados con 
 
 II. Analizar y dictaminar sobre el nombramiento, licencia o renuncia de los Magistrados de los Tribunales Superior de Justicia, Fiscal Administrativo y Electoral del Estado; del Procurador General de Justicia y Subprocurador de Asuntos Electorales, así como el Consejero designado por el Congreso del Estado, para formar parte del Consejo de la Judicatura del Poder Judicial del Estado;
 
-III. Conocer y emitir resolutivos de los asuntos que le sean turnados, en materia de seguridad ciudadana y justicia; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-IV. Las demás que le sean conferidas expresamente por el Pleno o la Diputación Permanente.
+III. En conjunto con las Primeras Comisiones Permanentes de Gobernación y la de Derechos Humanos y Atención de las Personas con Discapacidad; recibir y supervisar el proceso de selección de las ternas enviadas por el Gobernador del Estado para la selección por el Pleno del Congreso, de los Comisionados de la Comisión Ejecutiva Estatal de Atención a Víctimas;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+IV. Conocer y emitir resolutivos de los asuntos que le sean turnados, en materia de seguridad ciudadana y justicia; y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+V. Las demás que le sean conferidas expresamente por el Pleno o la Diputación Permanente.
 
 ###### ARTÍCULO 33.
 
@@ -443,9 +459,21 @@ Corresponde a la Comisión de Derechos Humanos:
 
 I.- Conocer y dictaminar sobre el nombramiento, licencia o renuncia del Presidente de la Comisión de Derechos Humanos en el Estado de Hidalgo;
 
-II.- Conocer y emitir resolutivos en los asuntos que le sean turnados en materia de derechos humanos y no discriminación; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-III.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+II.- Conocer y emitir resolutivos en los asuntos que le sean turnados en materia de derechos humanos y no discriminación;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+III.- En conjunto con las Primeras Comisiones Permanentes de Gobernación y la de Seguridad Ciudadana y Justicia; recibir y supervisar el proceso de selección de las ternas enviadas por el Gobernador del Estado para la selección por el Pleno del Congreso, de los Comisionados de la Comisión Ejecutiva Estatal de Atención a Víctimas;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+IV.- Conocer y emitir resolutivos en los asuntos que le sean turnados en materia de derechos humanos y no discriminación; y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+V.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
 
 ###### ARTÍCULO 34.
 
@@ -1440,3 +1468,23 @@ Tercero.- En un plazo no mayor a 40 días naturales el responsable de la Unidad 
 P.O. 3 DE NOVIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El proceso de selección de los Comisionados de la Comisión Ejecutiva Estatal de Atención a Víctimas, será conducido en el siguiente orden cíclico:
+
+Primera Comisión Permanente de Seguridad Ciudadana y Justicia;
+
+Primera Comisión Permanente de Gobernación; y
+
+Comisión Derechos Humanos y Atención de las Personas con Discapacidad.
+
+TERCERO. A partir de la recepción de las ternas enviadas por Gobernador del Estado, la Comisión a la que de acuerdo al artículo anterior, corresponda conducir las actividades en el Congreso del Estado, tendrá 5 días hábiles para realizar la Sesión de comisiones conjuntas, a fin de revisar el proceso de selección de las ternas aludidas, hecho lo cual, las someterá a votación del Pleno en la sesión inmediata posterior.
+
+CUARTO. Las Comisiones que conozcan de la revisión del proceso de selección de ternas realizado por el Gobernador del Estado, únicamente podrán hacer observaciones respecto al contenido del artículo 18 de la Ley de Atención, Asistencia y Protección a Víctimas de Delitos y Violaciones a Derechos Humanos para el Estado de Hidalgo y, por la aprobación de dos de ellas, podrán enviarse al Titular del Ejecutivo para su aclaración dentro de los 5 días hábiles posteriores a que sean recibidas.
+
+Si transcurrido el plazo señalado en el párrafo anterior, las observaciones no fueren aclaradas, las comisiones que conozcan del proceso determinarán lo conducente.
+
+En ningún caso las observaciones o la falta de su aclaración darán lugar a la reposición del procedimiento sino, como máximo, a la sustitución, en su caso, por el Titular del Ejecutivo de la propuesta o propuestas individuales realizadas.
