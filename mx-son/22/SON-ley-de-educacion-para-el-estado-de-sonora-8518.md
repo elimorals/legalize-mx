@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2014-12-08"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE NOVIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 8 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -477,6 +475,12 @@ III Bis.- Coordinarse con la Comisión de Educación y Cultura del Congreso del 
 
 IV.- Prestar los servicios de formación, actualización, capacitación y superación profesional para los docentes de educación básica, de conformidad con las disposiciones generales que la Secretaría de Educación Pública determine y conforme a lo dispuesto por la Ley General Docente. El Sistema Estatal de Formación, Actualización, Capacitación y Superación de Docentes, tendrá las finalidades contenidas en el artículo 20 de la Ley General;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+IV Bis.- Garantizar que las instituciones educativas públicas y privadas, cuenten con el personal docente capacitado para impartir educación especial para personas con alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora, mediante la prestación de servicios de formación, actualización y capacitación, que deberán ser otorgados de manera permanente y gratuita tanto a las instituciones públicas como privadas.
+
 > <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
 
 V.- Otorgar, negar y revocar autorización a los particulares para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica; así como otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos a los expresados con antelación, de acuerdo con el procedimiento estipulado en el capítulo correspondiente de esta ley;
@@ -532,6 +536,12 @@ XIV Bis.- Garantizar que en escuelas públicas y privadas no se niegue inscripci
 > <small>(ADICIONADA, B.O. 11 DE OCTUBRE DE 2012)</small>
 
 XIV Bis A.- Garantizar que en los establecimientos educativos públicos o privados, se brinde el apoyo a los educandos que presenten problemas de bajo rendimiento escolar o síntomas de trastorno por déficit de atención con hiperactividad, alteraciones neuroconductuales u otros trastornos del comportamiento, para reconocerlos y derivarlos, con el consentimiento de los padres o tutores, al sector salud y a las instancias de apoyo pedagógico o psicológico, oficiales o privadas, correspondientes;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XIV Bis B.- Garantizar que en escuelas públicas y privadas no se niegue inscripción o suspenda la educación a alumnos a consecuencia de padecer alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora, salvo dictamen previo emitido por la misma Secretaría, a través de un Consejo Multidisciplinario a solicitud de la escuela;
 
 XV.- Realizar campañas que tiendan a elevar los niveles culturales, sociales y económicos de la población y, en especial, los de las zonas rurales y urbanas marginadas;
 
@@ -639,6 +649,12 @@ VII. Las demás que con tal carácter establezca esta Ley y otras disposiciones 
 
 El Estado, a través de la Secretaría, tomará medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, tomando en consideración sus discapacidades físicas, sensoriales y psíquicas o cualquier otra condición o circunstancia personal o social, favoreciendo una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos participando, en el ámbito de su competencia, en las actividades y principios establecidos en los artículos 32 y 33 de la Ley General.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+La falta de adecuación de las instalaciones y las deficiencias en la capacitación del personal docente y administrativo de las escuelas públicas y privadas no podrán ser motivo de negativa de inscripción o de suspensión de los servicios educativos, siendo obligación de las escuelas realizar las mejoras pertinentes para brindar dichos servicios. En caso de que a consideración de la autoridad de una escuela la integración del alumno con alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora, no sea viable en términos de seguridad, salud u otro aspecto que a su opinión limite la correcta ejecución del desarrollo educativo del alumno o de la institución misma, la autoridad escolar deberá solicitar a la Secretaría, a través de un Consejo Multidisciplinario una evaluación del caso, debiendo este último, dentro de los siguientes cinco días hábiles, emitir un dictamen definitivo que obligue a la escuela a permitir el acceso del alumno al servicio educativo o en su caso, la canalización de éste a otro servicio educativo brindado por la Secretaría para estos casos.
+
 Las negociaciones o empresas a que se refiere la fracción XII del apartado A) del artículo 123 de la Constitución, están obligadas a establecer y sostener escuelas cuando el número de educandos que las requiera sea mayor de veinte. Estos planteles quedarán bajo la dirección administrativa de la Secretaría.
 
 Las escuelas que se establezcan en cumplimiento de la obligación prevista en el párrafo anterior, contarán con edificio, instalaciones y demás elementos necesarios para realizar su función en los términos que señalen las disposiciones aplicables.
@@ -694,6 +710,32 @@ En las actividades de supervisión las autoridades educativas darán preferencia
 > <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
 
 ARTICULO 26 BIS.- Será obligatorio que las escuelas públicas de educación básica establecidas dentro del territorio estatal, cuenten con los servicios públicos de agua, energía eléctrica, drenaje, alumbrado público y pavimentación, dentro de un perímetro que comprenda los alrededores de dichos planteles escolares; para tales efectos, el Estado, a través de la Secretaría, implantará programas de coordinación con los municipios, a efecto de establecer las acciones, mecanismos y previsiones presupuestales que resulten necesarias para dar cumplimiento a lo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 26 BIS 1.- Se crea el Consejo Multidisciplinario como un órgano honorario dependiente de la Secretaría de Educación y Cultura, el cual dará cumplimiento a lo dispuesto en la fracción XIV Bis B del artículo 19 y al segundo párrafo del artículo 22 de la presente ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 26 BIS 2.- El Consejo Multidisciplinario estará integrado por:
+
+I.- Representante de la Secretaría de Educación, que lo presidirá como su Presidente.
+
+II.- Representante de la Secretaría de Salud.
+
+III.- Representante del Sistema de Desarrollo Integral para la Familia.
+
+IV.- Representante de la Federación de Escuelas Particulares.
+
+V.- Representante de la Asociación Estatal de Padres de Familia.
+
+VI.- Representante de las Asociaciones de la Sociedad Civil.
+
+VII.- Representante del Sindicato Nacional de Trabajadores de la Educación.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 23 DE OCTUBRE DE 2014)</small>
 
@@ -803,13 +845,19 @@ La educación básica en sus tres niveles, tendrá las adaptaciones requeridas p
 
 La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad, incluye orientación a padres de familia o tutores para la educación de sus hijas, hijos o pupilos, incluyendo la salud mental, menores con discapacidades físicas, sensoriales y psíquicas, o cualquier otra condición o circunstancias personal o social.
 
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 32.
 
-La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquéllos con aptitudes sobresalientes y atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género.
+La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquéllos con aptitudes sobresalientes y atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género. La educación especial deberá ejecutarse preferentemente al interior de los planteles de educación regular.
+
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
 
 Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos.
+
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
 
 Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaboraran programas y materiales de apoyo didácticos necesarios.
 
@@ -959,9 +1007,17 @@ ARTICULO 44 BIS.- Para garantizar la calidad de la educación obligatoria brinda
 
 La autorización y los reconocimientos de validez oficial de estudios se otorgarán cuando los solicitantes cuenten:
 
-I.- Con personal que acredite la preparación adecuada para impartir educación y, en su caso, satisfaga los requisitos que exija la Secretaría.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas, que la Secretaría determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento, y
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+I.- Con personal que acredite la preparación adecuada para impartir educación y en su caso, educación especial para personas con alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora, y satisfaga los requisitos que exija la Secretaría.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+II.- Con instalaciones que satisfagan las condiciones higiénicas, de seguridad, pedagógicas, y en su caso, de acceso y permanencia para alumnos con alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento.
 
 III.- Con planes y programas de estudio que la Secretaría, considere procedentes, en el caso de educación distinta a la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica.
 
@@ -997,7 +1053,11 @@ I. Cumplir con lo dispuesto en el artículo tercero de la Constitución, en la L
 
 II. Cumplir con los planes y programas de estudio que las autoridades competentes hayan determinado o considerado procedentes, así como, en su caso, con los programas de mejoramiento a que se refiere el artículo 40 de la presente Ley;
 
-III. Proporcionar un mínimo de becas, en los términos de los lineamientos generales que la Secretaría determine y demás disposiciones aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+III. Proporcionar un mínimo de becas, en los términos de los lineamientos generales que la Secretaría determine y demás disposiciones aplicables, considerando de manera obligatoria dos becas dentro de las que les establezca el Instituto de Becas y Estímulos Educativos, por el costo total de inscripción y colegiaturas por ciclo escolar en cada plantel educativo para alumnos con alguna discapacidad previamente dictaminada por la Secretaria.
 
 > <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
 
@@ -1034,6 +1094,12 @@ IX. Facilitar que las autoridades educativas y el Instituto Nacional para la Eva
 > <small>(ADICIONADA, B.O. 3 DE ABRIL DE 2014)</small>
 
 X. Las demás que les imponga esta Ley y demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 47 BIS.- El Ejecutivo Estatal, por conducto de la Secretaría de Hacienda, otorgará un estímulo fiscal a los establecimientos de educación privados que superen el número de becas obligatorio por plantel educativo para alumnos con alguna discapacidad dictaminada por la Secretaria, en los términos previstos en la Ley de Hacienda del Estado.
 
 > <small>(REFORMADO, B.O. 3 DE ABRIL DE 2014)</small>
 
@@ -2007,25 +2073,47 @@ XII. Administrar a los alumnos, sin previa prescripción médica y consentimient
 
 XIII. Promover en los alumnos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-XIV. Expulsar o negarse a prestar el servicio educativo a niñas, niños y adolescentes que presenten problemas de aprendizaje, condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos; presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los alumnos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XV. Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos; y
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2014)</small>
 
-XVI. Incumplir con las medidas correctivas derivadas de las visitas de inspección.
+XIV. Negar la inscripción o la prestación del servicio educativo a alumnos que padezcan alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora, sin seguir el procedimiento que marca el artículo 22 de la presente Ley;
 
-> <small>(REFORMADO, B.O. 3 DE ABRIL DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XV. Incumplir la obligación de otorgar al menos dos becas para alumnos que padezcan alguna discapacidad dictaminada por la Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XVI. Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XVII. Incumplir con las medidas correctivas derivadas de las visitas de inspección.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 85.
 
 Las infracciones enumeradas en el artículo anterior se sancionarán con:
 
-I. Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en el área geográfica y en la fecha en que se cometa la infracción; las multas impuestas podrán duplicarse en caso de reincidencia;
+I. Amonestación por escrito. Al momento que se entregue la amonestación, la autoridad establecerá un plazo para corregir dicha conducta;
 
-II. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondientes, o
+II. Multa hasta por el equivalente a tres mil veces el salario mínimo general diario vigente en el área geográfica y en la fecha en que se cometa la infracción; las multas impuestas podrán duplicarse en caso de reincidencia;
 
-III. En el caso de incurrir en las infracciones establecidas en las fracciones XI y XII del artículo anterior, se aplicarán las sanciones establecidas en las fracciones I y II de este artículo, sin perjuicio de las penales y de otra índole que resulten.
+III. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondientes; o
 
-La imposición de la sanción establecida en la fracción II del presente artículo no excluye la posibilidad de que sea impuesta alguna multa.
+IV. En el caso de incurrir en las infracciones establecidas en las fracciones XI y XII del artículo anterior, se aplicarán las sanciones establecidas en las fracciones I y II de este artículo, sin perjuicio de las penales y de otra índole que resulten.
+
+La imposición de la sanción establecida en la fracción III del presente artículo no excluye la posibilidad de que sea impuesta alguna multa.
 
 > <small>(REFORMADO, B.O. 3 DE ABRIL DE 2014)</small>
 
@@ -2041,7 +2129,11 @@ III. Impartir la educación preescolar, primaria, la secundaria, la normal y dem
 
 IV. Omitir el registro ante las autoridades educativas, tratándose de aquellos establecimientos educativos sin reconocimiento de validez oficial de estudios.
 
-En los supuestos previstos en este artículo, además de la aplicación de las sanciones señaladas en el artículo 85, fracción I de esta Ley, podrá procederse a la clausura del plantel respectivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+En los supuestos previstos en este artículo, además de la aplicación de las sanciones señaladas en el artículo 85, fracción II de esta ley, podrá procederse a la clausura del plantel respectivo.
 
 > <small>(REFORMADO, B.O. 3 DE ABRIL DE 2014)</small>
 
@@ -2462,3 +2554,15 @@ B.O. 18 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor seis meses después del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+SEGUNDO.- El estímulo fiscal previsto en el presente decreto podrá hacerse efectivo a partir del siguiente ejercicio fiscal al que entre en vigor.
+
+TERCERO.- Las escuelas, tanto públicas como privadas, tendrán hasta el siguiente ciclo escolar, posterior a la entrada en vigor del presente decreto, para comenzar a realizar las adecuaciones a su infraestructura.
+
+CUARTO.- La Secretaría de Educación y Cultura del Estado de Sonora, tendrá un plazo de 60 días para la creación de un Consejo Multidisciplinario el cual dará cumplimiento a las disposiciones del presente decreto. Este a su vez tendrá un plazo de 30 días después de su creación para fijar los lineamientos para ejercer sus funciones.
+
+QUINTO.- El ejecutivo del Estado, en función de la disponibilidad presupuestaria para ello, asignará los resultados presupuestales que sean necesarios a efecto de dar cumplimiento a las disposiciones contenidas en el presente decreto.
