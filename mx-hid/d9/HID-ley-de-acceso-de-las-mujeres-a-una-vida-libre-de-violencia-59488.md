@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2014-11-17"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MARZO DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -211,9 +213,11 @@ V.- Legislar a efecto de que, en los ordenamientos conducentes, se incluya como 
 
 ### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 10.
 
-La violencia laboral, es toda acción u omisión efectuada por quien ejerce jerarquía encaminada a impedir ilegalmente la contratación, limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, con independencia de la discriminación de género, las amenazas, la intimidación, y la explotación laboral, que afecte la permanencia, reconocimiento, salario y prestaciones de las mujeres en los espacios productivos públicos o privados.
+La violencia laboral, es toda acción u omisión efectuada por quien ejerce jerarquía encaminada a impedir ilegalmente la contratación, limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, con independencia de la discriminación de género, las amenazas, la intimidación, la explotación laboral, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la Ley, que afecten la permanencia, reconocimiento, salario y prestaciones de las mujeres en los espacios productivos públicos o privados.
 
 ###### ARTÍCULO 11.
 
@@ -1100,3 +1104,9 @@ P.O. 17 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entra en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo. Se concede un plazo de sesenta días naturales, contados a partir de la fecha en que entren en vigor estas reformas, para que las empresas, instituciones, dependencias y en general, todos los obligados conforme a esta ley efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones establecidas.
