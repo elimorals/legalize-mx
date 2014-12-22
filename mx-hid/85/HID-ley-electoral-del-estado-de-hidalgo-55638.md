@@ -4,7 +4,7 @@ identifier: "HID-ley-electoral-del-estado-de-hidalgo-55638"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-11"
-last_updated: "2014-06-30"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 11 de mayo de 2007.
 
@@ -3724,3 +3726,15 @@ EI presente Decreto entrará en vigor al día siguiente al de su Publicación en
 P.O. 30 DE JUNIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+22 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Código entrará en vigor el primero de enero de dos mil quince, previa publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga la Ley Electoral del Estado de Hidalgo, publicada en el Periódico Oficial del Estado el once de mayo de dos mil siete.
+
+TERCERO. Se abroga la Ley Estatal de Medios de Impugnación en Materia Electoral del Estado de Hidalgo, publicada en el Periódico Oficial del Estado de Hidalgo el once de mayo de dos mil siete.
+
+CUARTO. En un plazo no mayor de 120 días, el Instituto Estatal Electoral y el Tribunal Electoral deberán armonizar su normatividad interna.
+
+QUINTO. Se derogan todas las disposiciones legales que se opongan al presente Código.
