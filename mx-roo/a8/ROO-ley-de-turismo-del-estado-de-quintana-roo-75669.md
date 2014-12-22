@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-turismo-del-estado-de-quintana-roo-75669"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-28"
-last_updated: "2013-04-30"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TURISMO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 28 de junio de 2010.
 
@@ -51,6 +51,10 @@ La presente ley es de orden público e interés social, de observancia general e
 
 La interpretación en el ámbito administrativo de la presente ley, corresponderá al Titular del Ejecutivo del Estado y a los Presidentes Municipales, cuando así corresponda.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+La materia turística comprende los procesos que se derivan de las actividades que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos.
+
 ###### Artículo 3.
 
 La presente ley tiene por objeto:
@@ -75,55 +79,171 @@ IX. Establecer los lineamientos legales que deberán apegarse los prestadores de
 
 X. Establecer las políticas públicas en materia de turismo en el Estado y los Municipios, en todo lo que no contravenga a la Ley General;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XI. Establecer los mecanismos de coordinación y participación entre el Ejecutivo del Estado y los Ayuntamientos que favorezcan el desarrollo del turismo bajo los criterios de competitividad;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XII. Promover y vigilar el desarrollo del turismo social, propiciando el acceso de todos los mexicanos al descanso y recreación mediante esta actividad;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XIII. Garantizar a las personas con discapacidad las oportunidades del uso y disfrute de las instalaciones destinadas a la actividad turística, así como su participación dentro de los programas de turismo accesible;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XIV. Instrumentar políticas de apoyo y fomento al turismo con igualdad de género en el Estado y sus Municipios;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XV. Establecer las bases para la orientación y asistencia a los turistas nacionales y extranjeros, y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XVI. Fomentar y desarrollar acciones para diversificar la actividad turística, en donde todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento de las actividades propias de las comunidades.
+
 ###### Artículo 4.
 
 Para los efectos de esta ley, se entenderá por:
 
 I. Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;
 
-II. Comisión: Comisión Ejecutiva de Turismo de Quintana Roo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-III. Consejo: Consejo Consultivo de Turismo de Quintana Roo;
+II. Atlas Turístico de Quintana Roo: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos del estado, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo;
 
-IV. Consejo Municipal: Los Consejos Municipales de Turismo en el Estado;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-V. Estado: El Estado Libre y Soberano de Quintana Roo;
+III. Comisión: Comisión Ejecutiva de Turismo de Quintana Roo;
 
-VI. Ley: La Ley de Turismo del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-VII. Ley General: La Ley General de Turismo;
+IV. Consejo: Consejo Consultivo de Turismo de Quintana Roo;
 
-VIII. Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-IX. Programa de Ordenamiento: El Programa de Ordenamiento Turístico del Territorio del Estado, considerado el Instrumento de la política turística bajo el enfoque social, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;
+V. Consejo Municipal: Los Consejos Municipales de Turismo en el Estado;
 
-X. Programa Regional.- Programa de Ordenamiento Turístico Regional en el Estado;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-XI. Programa Sectorial. Programa Sectorial de Turismo del Estado;
+VI. Estado: El Estado Libre y Soberano de Quintana Roo;
 
-XII. Recursos Turísticos.- Son todos los elementos naturales o artificiales de un lugar o región del Estado que constituyen un atractivo para la actividad turística;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-XIII. Región Turística.- Es un espacio homogéneo que puede abarcar el territorio de dos o más municipios y en el que, por la cercana distancia de los atractivos y servicios se complementan;
+VII. Ley: La Ley de Turismo del Estado de Quintana Roo;
 
-XIV. Reglamento.- El de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-XV. Ruta Turística.- Es un circuito temático o geográfico que se basa en un patrimonio natural o cultural de una zona y se marca sobre el terreno o aparece en los mapas;
+VIII. Ley General: La Ley General de Turismo;
 
-XVI. Secretaria.- La Secretaría de Turismo del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-XVII. Secretaría Federal.- La Secretaría de Turismo del Gobierno Federal;
+IX. Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley;
 
-XVIII. Trabajadores Turísticos.- Aquella persona física que presta sus servicios en materia turística de manera subordinada y por el cual devenga un salario o percibe una remuneración económica;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-XIX. Turismo Sustentable.- Aquel que cumple con dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos; aquel que respeta la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos; y aquel, que asegura el desarrollo de las actividades económicas viables, que obtengan beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida;
+X. Programa de Ordenamiento: El Programa de Ordenamiento Turístico del Territorio del Estado, considerado el Instrumento de la política turística bajo el enfoque social, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;
 
-XX. Turistas.- Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población; y (sic)
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-XXI. Zonas de Desarrollo Turístico Sustentable.- Aquellas fracciones de territorio del Estado, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Estas zonas de acuerdo a la Ley General, se establecerán mediante declaratoria específica que emitirá el Presidente de la República, a propuesta del Titular del Ejecutivo del Estado.
+XI. Programa Regional: Programa de Ordenamiento Turístico Regional en el Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-XXII. Turismo Cultural.- Es el viaje turístico motivado por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social de un destino específico.
+XII. Programa Sectorial: Programa Sectorial de Turismo del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XIII. Recursos Turísticos: Son todos los elementos naturales o artificiales de un lugar o región del Estado que constituyen un atractivo para la actividad turística;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XIV. Región Turística: Es un espacio homogéneo que puede abarcar el territorio de dos o más municipios y en el que, por la cercana distancia de los atractivos y servicios se complementan;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XV. Reglamento: El de la presente Ley;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XVI. Ruta Turística: Es un circuito temático o geográfico que se basa en un patrimonio natural o cultural de una zona y se marca sobre el terreno o aparece en los mapas;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XVII. Secretaria: La Secretaría de Turismo del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XVIII. Secretaría Federal: La Secretaría de Turismo del Gobierno Federal;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XIX. Trabajadores Turísticos: Aquella persona física que presta sus servicios en materia turística de manera subordinada y por el cual devenga un salario o percibe una remuneración económica;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XX. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XXI. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones de territorio del Estado, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Estas zonas de acuerdo a la Ley General, se establecerán mediante declaratoria específica que emitirá el Presidente de la República, a propuesta del Titular del Ejecutivo del Estado, y
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XXII. Servicios Turísticos: Se consideran servicios turísticos los prestados a través de:
+
+a) Hoteles, moteles, albergues, y demás establecimientos y casas destinadas para el hospedaje, así como campamentos y paraderos de casas rodantes, centros culturales y de recreación, que presten servicios a turistas;
+
+b) Agencias, operadores y mayoristas de viajes;
+
+c) Guías de Turistas;
+
+d) Restaurantes, cafeterías, bares, centros nocturnos y similares que presten servicio al turista;
+
+e) Empresas de sistema de intercambio de servicios turísticos;
+
+f) Transporte terrestre o acuático, eventual o programado, para el servicio exclusivo de turistas y/o de visitantes, y
+
+g) Otros servicios y actividades que no se encuentren comprendidos en este artículo y que por su naturaleza estén vinculados con el turismo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 4 Bis.
+
+Los principales tipos del turismo que pueden ser aprovechados en el Estado son, entre otros, los siguientes:
+
+I. Turismo Académico: Son las actividades que realizan las personas durante sus viajes y estancias en lugares distintos a su entorno habitual, por un período de tiempo consecutivo inferior a un año con fines educativos y de investigación;
+
+II. Turismo Alternativo: Es el viaje turístico motivado por realizar actividades recreativas en contacto directo con la naturaleza y las expresiones culturales que le envuelven con una actitud y compromiso de conocer, respetar, disfrutar y participar en la conservación de los recursos naturales y culturales
+
+III. Turismo Arqueológico: Modalidad vinculada a yacimientos y sitios arqueológicos;
+
+IV. Turismo Cultural: Es el viaje turístico motivado por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social de un destino específico;
+
+V. Turismo Deportivo: Es aquél cuya principal motivación es practicar algún deporte o presenciar algún evento deportivo;
+
+VI. Turismo de Aventura: Es una modalidad que tiene como finalidad ofrecer al turista una gama diversificada de eventos que implican cierto nivel de riesgo físico y que en su mayoría se desarrollan dentro de espacios naturales;
+
+VII. Turismo de Compras: Es aquél que se encuentra vinculado a las compras o bienes exclusivos; como artículos de lujo, arte, artesanía y artículos de uso común, entre otros;
+
+VIII. Turismo de Negocios: Es el segmento de turismo cuyo motivo de viaje está vinculado con la realización de actividades profesionales y laborales, el cual abarca congresos, convenciones, ferias, exposiciones, viajes de incentivo y otros eventos de características similares;
+
+IX. Turismo Ecológico o Ecoturismo: Los viajes que tienen como fin realizar actividades recreativas de apreciación y conocimiento de la naturaleza a través de la interacción con la misma, con una actitud y compromiso de conocer, respetar, disfrutar y participar en la conservación de los recursos naturales y culturales.
+
+X. Turismo Gastronómico: Es aquél que se encuentra vinculado a la comida tradicional de la zona, o derivado de eventos realizados en el Estado;
+
+XI. Turismo Médico o Turismo de la Salud: Es la modalidad de turismo cuyo objetivo principal es el desplazar a los interesados de manera temporal para disfrutar de lugares fuera de su residencia, donde se encuentren condiciones climatológicas, económicas, recreativas, entre otras, que son favorables para recibir tratamientos o atención a su salud para su bienestar;
+
+XII. Turismo Religioso o Espiritual: Es aquél que se encuentra ligado a la oferta de lugares o acontecimientos de carácter religioso de relevancia, o bien de recogimiento y meditación;
+
+XIII. Turismo Rural y Comunitario: Los viajes que tienen como fin realizar actividades de convivencia e interacción con una comunidad rural, en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma, con una actitud y compromiso de conocer, respetar, disfrutar y participar en la conservación de los recursos naturales y culturales, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la conservación de los ambientes en los que habitan;
+
+XIV. Turismo Social: Es un sistema que crea las condiciones necesarias que permiten el acceso al turismo a un gran sector de la población que carece de posibilidades financieras para disfrutar del turismo comercial, pero que también tiene necesidades humanas de recreación, descanso, diversión y de conocer otros ambientes;
+
+XV. Turismo Sustentable: Aquel que cumple con dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos; aquel que respeta la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos; y aquel, que asegura el desarrollo de las actividades económicas viables, que obtengan beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida, y
+
+XVI. Turismo Vivo o Etnográfico: Actividad cuyo principal objetivo es conectar dos culturas diferentes siendo estas las del visitante y las del anfitrión, se vincula específicamente a las tradiciones, costumbres y particularidades de los pueblos.
 
 ###### Artículo 5.
 
@@ -273,11 +393,15 @@ VII. Impulsar en coordinación con la Secretaría de Desarrollo Económico, ante
 
 VIII. Analizar y coadyuvar con la Secretaría de Seguridad Pública, en los casos en que se determine que sea necesaria la protección de la integridad física de los turistas;
 
-IX. Promover y fomentar con la Secretaría de Educación la investigación, educación y la cultura turística;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+IX. Promover y fomentar con la Secretaría de Educación y Cultura del Estado la investigación, educación y la cultura turística;
 
 X. Colaborar con la Secretaría del Trabajo y Previsión Social, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, incorporando a las personas con discapacidad;
 
-XI. Promover con la Secretaría de Cultura, el patrimonio histórico, artístico, arqueológico y cultural del Estado;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XI. Promover con la Secretaría de Educación y Cultura del Estado, el patrimonio histórico, artístico, arqueológico y cultural del Estado;
 
 XII. Coadyuvar con otras dependencias y entidades de la Administración Pública del Estado, para impulsar a proyectos productivos y de inversión turística, que cumplan con las disposiciones legales y normativas aplicables;
 
@@ -289,7 +413,7 @@ XV. Brindar apoyo a la Secretaría Federal, para que ésta, ejerza sus facultade
 
 XVI. Coadyuvar con los Fideicomisos de Promoción Turística del Estado en la elaboración de sus programas de difusión turística;
 
-XVII. Brindar atención a los prestadores de servicios turísticos asesoramiento y capacitación para conducirse de manera ética, profesional, apegados a las disposiciones legales que tiendan a proteger a los sectores sociales en materia turística, ya sean estas de carácter municipal, estatal, nacional e internacional; y (sic)
+XVII. Brindar atención a los prestadores de servicios turísticos asesoramiento y capacitación para conducirse de manera ética, profesional, apegados a las disposiciones legales que tiendan a proteger a los sectores sociales en materia turística, ya sean estas de carácter municipal, estatal, nacional e internacional; y
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
@@ -311,6 +435,12 @@ La Comisión será presidida por el titular de la Secretaría, quien tendrá vot
 
 La Comisión, se reunirá por lo menos una vez semestralmente y cuando así lo solicite el titular de la Secretaría, asimismo funcionará en los términos señalados en la presente Ley y en su Reglamento.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 11 Bis.
+
+Los integrantes de la Comisión, deberán acudir a cada sesión que se convoque, la falta a tres sesiones, será motivo suficiente para su remoción de dicha responsabilidad.
+
 ### CAPÍTULO I. DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS
 
 ###### Artículo 12.
@@ -323,25 +453,39 @@ El Consejo Consultivo de Turismo de Quintana Roo será presidido por el Titular 
 
 Podrán ser invitadas las instituciones y entidades públicas, federales, locales y municipales, privadas y sociales, que se determinen, y demás personas relacionadas con el turismo en el Estado, las cuales participarán únicamente con derecho a voz.
 
+### CAPITULO I BIS. DEL ATLAS TURÍSTICO DE QUINTANA ROO
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ### CAPÍTULO II. DEL TURISMO SOCIAL
-
-### CAPÍTULO II BIS. DEL TURISMO CULTURAL
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2013)</small>
 
 ## TÍTULO CUARTO. DE LA POLÍTICA Y PLANEACIÓN DE LA ACTIVIDAD TURÍSTICA
 
-### CAPÍTULO III. DEL TURISMO ACCESIBLE
+### CAPITULO II BIS. DE LOS TIPOS DE TURISMO
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 14.
 
 La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, estimularán y promoverán entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar la economía del Estado y de los Municipios y con ello, buscar el desarrollo regional.
 
-Lo anterior, entre otros, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Registro Nacional de Turismo y el Atlas Turístico de México.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+Lo anterior, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Registro Nacional de Turismo, en el Atlas Turístico de México y en el Atlas Turístico de Quintana Roo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. DEL TURISMO ACCESIBLE
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 14 Bis.
+
+Para elaborar el Atlas Turístico de Quintana Roo, la Secretaría se coordinará con otras dependencias e instituciones de la Administración Pública del Estado y en forma concurrente con los Municipios.
+
+El Atlas Turístico de Quintana Roo es una herramienta para la promoción de la actividad turística, teniendo carácter público.
 
 ### CAPÍTULO IV. DE LA CULTURA TURÍSTICA
-
-### CAPÍTULO I. DEL PROGRAMA SECTORIAL DE TURISMO
 
 ###### Artículo 15.
 
@@ -357,15 +501,27 @@ Las dependencias y las entidades de la Administración Pública del Estado, coor
 
 Las dependencias y entidades de la Administración Pública del Estado y de los Municipios promoverán entre sus trabajadores el turismo social.
 
-La Secretaría, la Oficialía Mayor, la Secretaría de Cultura, y la Comisión para la Juventud y el Deporte de Quintana Roo, elaborarán y ejecutarán de manera coordinada un programa tendiente a fomentar el turismo social en el Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría, la Oficialía Mayor, la Secretaría de Educación y Cultura del Estado y la Comisión para la Juventud y el Deporte de Quintana Roo, elaborarán y ejecutarán de manera coordinada un programa tendiente a fomentar el turismo social en el Estado de Quintana Roo.
 
 ###### Artículo 16.
 
 A los Ayuntamientos del Estado les corresponderán establecer programas que impulsen y promuevan el turismo social.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO II. PROGRAMA DE ORDENAMIENTO TURÍSTICO DEL TERRITORIO DEL ESTADO
+### CAPÍTULO I. DEL PROGRAMA SECTORIAL DE TURISMO
+
+#### SECCIÓN PRIMERA. MODALIDADES DEL TURISMO
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 16 Bis.
+
+La Secretaría, con el apoyo de los gobiernos municipales, las dependencias y entidades de la Administración Pública del Estado, impulsarán y realizarán programas de atracción a nivel nacional e internacional de los tipos de turismo previstos en el artículo 4 Bis de la presente ley.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 16
 
@@ -374,6 +530,22 @@ Bis.- La Secretaría, con el apoyo y en coordinación con los gobiernos municipa
 Las dependencias y entidades de la Administración Pública del Estado y de los Municipios promoverán entre sus trabajadores el turismo cultural.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2013)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS CONVENIOS
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 16 Ter.
+
+La Secretaría, formulará, coordinará y promoverá programas que sean necesarios para impulsar estos tipos de turismo; asimismo podrá celebrar convenios de colaboración con dependencias y entidades de la federación, de los estados y de los ayuntamientos, con la Secretaría de Educación y Cultura del Estado y con los sectores social y privado.
+
+La Secretaría deberá instrumentar la exacta promoción de estos tipos de turismo, con la finalidad de dar a conocer las actividades que se pueden realizar, los lugares donde se pueden llevar a cabo, así como la procuración de las medidas de seguridad que se deberán tener para salvaguardar el bienestar de los turistas.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 16 Quáter.
+
+La Secretaría también podrá concretar convenios con los diversos Prestadores de Servicios Turísticos, para el (sic) cumplir con el objetivo de facilitar la promoción y fomento de estos tipos de turismo.
 
 ###### Artículo 16
 
@@ -385,13 +557,13 @@ Ter.- La Secretaría, formulará, coordinará y promoverá para efectos de lo es
 
 Quáter.- La Secretaría, con la participación de las distintas dependencias y entidades podrá concretar convenios con los diversos prestadores de servicios turísticos, para el cumplimiento de los objetivos de este Capítulo.
 
-### CAPÍTULO ÚNICO. DE LAS ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE
+### CAPÍTULO II. PROGRAMA DE ORDENAMIENTO TURÍSTICO DEL TERRITORIO DEL ESTADO
 
-### CAPÍTULO I. DE LA PROMOCIÓN Y DIFUSIÓN DE LA ACTIVIDAD TURÍSTICA
+### CAPÍTULO ÚNICO. DE LAS ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE
 
 ###### Artículo 17.
 
-La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes de la Administración Pública del Estado, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad, apegada a la Ley de Protección y Desarrollo Integral para las Personas con Discapacidad del Estado de Quintana Roo.
+La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes de la Administración Pública del Estado, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad, apegada a la Ley para el Desarrollo y la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo.
 
 ###### Artículo 18.
 
@@ -403,19 +575,23 @@ La misma obligación tendrán las autoridades respecto de los sitios culturales 
 
 La Secretaria y los Ayuntamientos, vigilarán que las disposiciones establecidas en el presente capitulo se cumplan.
 
-### CAPÍTULO II. DE LA CAPACITACIÓN TURÍSTICA
+### CAPÍTULO I. DE LA PROMOCIÓN Y DIFUSIÓN DE LA ACTIVIDAD TURÍSTICA
 
 ###### Artículo 20.
 
 La Secretaría, en coordinación con los Ayuntamientos, promoverán y fomentarán entre la población aquellos programas y actividades que difundan la cultura, con el fin de crear el conocimiento de los beneficios de la actividad turística.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 21.
 
-La Secretaría en conjunto con la Secretaría de Educación del Estado, promoverá programas que difundan la importancia de respetar y conservar los atractivos turísticos, así como mostrar un espíritu de servicio y hospitalidad hacia el turista nacional y extranjero.
+La Secretaría en conjunto con la Secretaría de Educación y Cultura del Estado, promoverá programas que difundan la importancia de respetar y conservar los atractivos turísticos, así como mostrar un espíritu de servicio y hospitalidad hacia el turista nacional o extranjero.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 22.
 
-La Secretaría en coordinación con la Secretaría de Cultura, establecerá programas que tengan como finalidad fomentar y promover la cultura del Estado, dichos programas deberán ser difundidos entre los prestadores de servicios turísticos en el Estado.
+La Secretaría en coordinación con la Secretaría de Educación y Cultura del Estado, establecerá programas que tengan como finalidad fomentar y promover la cultura del Estado, dichos programas deberán ser difundidos entre los prestadores de servicios turísticos del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2013)</small>
 
@@ -423,9 +599,13 @@ La Secretaría en coordinación con la Secretaría de Cultura, establecerá prog
 
 La Secretaría, con la participación de las distintas dependencias y entidades de la Administración Pública del Estado promoverá la suscripción de acuerdos con prestadores de servicios turísticos para el cumplimiento de los objetivos de este capítulo.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+Los Poderes Públicos del Estado, los organismos autónomos del Estado, y los municipios promoverán entre sus trabajadores el turismo.
+
 ## TÍTULO QUINTO. DE LOS PROGRAMAS TURÍSTICOS
 
-### CAPÍTULO ÚNICO. DEL REGISTRO NACIONAL DE TURISMO
+### CAPÍTULO II. DE LA CAPACITACIÓN TURÍSTICA
 
 ###### Artículo 24.
 
@@ -435,7 +615,7 @@ La Secretaría al especificar en el programa las políticas, objetivos y priorid
 
 El Programa Sectorial podrá contener entre otros elementos metodológicos de la planificación, un diagnóstico y un pronóstico de la situación del turismo en el Estado, el Programa de Ordenamiento, y las políticas, objetivos y metas a corto, mediano y largo plazo de la actividad turística, con observancia a lo que establezcan los instrumentos jurídicos, administrativos y de política económica que sean aplicables.
 
-### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO ÚNICO. DEL REGISTRO NACIONAL DE TURISMO
 
 ###### Artículo 25.
 
@@ -489,7 +669,7 @@ El resultado de la evaluación, será remitido a la Secretaría y al titular del
 
 ## TÍTULO SEXTO
 
-### CAPÍTULO II. DE LOS TURISTAS
+### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 35.
 
@@ -503,21 +683,31 @@ El Titular del Ejecutivo del Estado y los Ayuntamientos en coordinación con la 
 
 El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán intervenir para impulsar la actividad turística en la Zona de Desarrollo Turístico Sustentable, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 38.
 
-El Ejecutivo del Estado y los Ayuntamientos podrán presentar ante la Secretaría Federal, proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable, en términos del Artículo 4 fracción XXI de la presente ley.
+El Ejecutivo del Estado y los ayuntamientos podrán presentar ante la Secretaría Federal, proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable, en términos del Artículo 4 fracción XXII de la presente ley.
 
 ###### Artículo 39.
 
 En el Reglamento de la presente Ley, se establecerán los lineamientos de coordinación, para que el Ejecutivo del Estado y los Ayuntamientos conjuntamente realicen la solicitud señalada en el artículo anterior.
 
-### CAPÍTULO PRIMERO (SIC). DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO SEGUNDO. DE LOS TRABAJADORES TURÍSTICOS
+###### Artículo 39 Bis.
+
+Las áreas naturales protegidas no podrán formar parte de las Zonas de Desarrollo Turístico Sustentable.
+
+### CAPÍTULO II. DE LOS TURISTAS
+
+### CAPÍTULO PRIMERO (SIC). DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
 
 ## TÍTULO SEPTIMO. DE LA PROMOCIÓN, DIFUSION Y CAPACITACIÓN TURÍSTICA
 
-### CAPÍTULO ÚNICO. DE LA SITUACIÓN DE EMERGENCIA Y DESASTRE
+### CAPÍTULO SEGUNDO. DE LOS TRABAJADORES TURÍSTICOS
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 40.
 
@@ -547,15 +737,17 @@ La promoción y difusión de atractivos y servicios turísticos que ofrezca el E
 
 Cuando se trate de inversiones en el sector turístico, la Secretaría podrá en apego a las disposiciones legales que correspondan, proponer al titular del Ejecutivo del Estado otorgue incentivos fiscales para la inversión turística en el Estado.
 
-### CAPÍTULO I. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
+### CAPÍTULO ÚNICO. DE LA SITUACIÓN DE EMERGENCIA Y DESASTRE
 
 ###### Articulo 46.
 
 La Secretaría promoverá acciones de coordinación y formulará recomendaciones en la elaboración de planes y programas de estudios con las instancias educativas competentes, para que se promueva a través de libros de texto o cualquier otro medio didáctico, el significado de la actividad turística, su importancia para el Estado, y para la formación de profesionales y asesores en esta actividad.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 47.
 
-La Secretaría llevará un registro de centros de enseñanza dedicados a la especialidad de turismo, reconocidos oficialmente por las Secretarías de Educación del Estado y Federal, con el objeto de dar a conocer a los prestadores de servicios turísticos que así lo soliciten, sobre la validez oficial y el nivel académico de dichos planteles educativos.
+La Secretaría llevará un registro de centros de enseñanza dedicados a la especialidad de turismo, reconocidos oficialmente por la Secretaría de Educación y Cultura del Estado y la Secretaría de Educación Federal, con el objeto de dar a conocer a los prestadores de servicios turísticos que así lo soliciten, sobre la validez oficial y el nivel académico de dichos planteles educativos.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
@@ -571,7 +763,7 @@ La Secretaría propondrá al Titular del Ejecutivo del Estado programas de capac
 
 ## TÍTULO OCTAVO. DE LOS ASPECTOS OPERATIVOS
 
-### CAPÍTULO II. DE LA VERIFICACIÓN
+### CAPÍTULO I. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
 
 ###### Artículo 50.
 
@@ -581,9 +773,17 @@ El Ejecutivo del Estado y los Ayuntamientos podrán contar con información sobr
 
 De conformidad con lo dispuesto por la Ley General, el Ejecutivo del Estado y los Ayuntamientos cuentan con la facultad para operar el Registro Nacional de Turismo.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 51 Bis.
+
+La inscripción al Registro Nacional de Turismo será obligatoria para los prestadores de servicios turísticos del Estado, quienes deberán cumplir con la información que determine el Reglamento.
+
 ###### Artículo 52.
 
 La base de datos del Registro Nacional de Turismo quedará bajo la guarda de la Secretaría Federal, siendo responsabilidad de la Secretaría y de los Ayuntamientos, constatar la veracidad de la información que proporcionen los prestadores de servicios turísticos en el Estado.
+
+### CAPÍTULO II. DE LA VERIFICACIÓN
 
 ### CAPÍTULO III. DE LAS SANCIONES Y DEL RECURSO DE REVISIÓN
 
@@ -593,7 +793,9 @@ La base de datos del Registro Nacional de Turismo quedará bajo la guarda de la 
 
 La prestación de los Servicios Turísticos se regirá por lo que las partes convengan, observándose la Ley General, esta Ley, la Ley Federal de Protección al Consumidor, y demás disposiciones legales y administrativas aplicables.
 
-Para operar, los prestadores de servicios turísticos, deberán cumplir con los elementos y requisitos que determinen la Secretaría Federal, las disposiciones reglamentarias correspondientes y las Normas Oficiales Mexicanas, mismas que serán de observancia obligatoria en el Estado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+Para operar, los prestadores de servicios turísticos, deberán cumplir con los elementos y requisitos que determinen el Reglamento y las Normas Oficiales Mexicanas, sin perjuicio de las obligaciones que les sean impuestas por otras autoridades, mismas que serán de observancia obligatoria en el Estado.
 
 En la prestación y uso de los servicios turísticos no habrá discriminación de ninguna naturaleza en contra de persona alguna, en los términos del orden jurídico nacional o estatal.
 
@@ -651,6 +853,10 @@ IV. Participar en el manejo responsable de los recursos naturales, arqueológico
 
 V. Inscribirse en el Registro Nacional de Turismo y actualizar los datos oportunamente;
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+Los prestadores de los servicios turísticos que no se encuentren comprendidos en esta Ley y que por su naturaleza estén vinculados con el turismo, podrán solicitar su inscripción en el Registro Nacional de Turismo, siempre que cumplan con los requisitos que la Secretaría de Turismo Federal y las Normas Oficiales Mexicanas fijen por medio de las disposiciones generales.
+
 VI. Cumplir con los servicios, precios, tarifas y promociones, en los términos anunciados, ofrecidos o pactados;
 
 VII. Expedir, factura detallada, nota de consumo o documento fiscal que ampare los cobros realizados por la prestación del servicio turístico proporcionado;
@@ -685,7 +891,11 @@ XXI. Garantizar al usuario la tranquila y segura disposición y uso de los biene
 
 XXII. Difundir información de manera ética, profesional y responsable por cualquier medio de comunicación que utilice para promocionarse, sobre la actividad turística en el Estado; y
 
-XXIII. Las demás que establezca la legislación aplicable en la materia.
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XXIII. Mantener actualizadas sus páginas electrónicas, con la finalidad de que contengan de manera detallada los servicios, ubicación, costo, restricciones y demás aspectos que sean de interés para el turista; y
+
+XXIV. Las demás que establezca la legislación aplicable en la materia.
 
 ###### Artículo 56.
 
@@ -743,19 +953,21 @@ VI. La realización de acciones para favorecer las inversiones y proyectos turí
 
 VII.- Fomentar la contratación de trabajadores turísticos provenientes de las instituciones educativas públicas y privadas del Estado en la especialidad de turismo, ante los prestadores de servicios turísticos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 59.
 
-La Secretaría en coordinación con la Secretaría de Educación, realizarán estudios e investigaciones en materia turística, y llevarán a cabo acciones para mejorar y complementar la enseñanza turística a nivel superior y de postgrado en el Estado, dirigida al personal de instituciones públicas, privadas y sociales vinculadas y con objeto social relativo al turismo.
+La Secretaría en coordinación con la Secretaría de Educación y Cultura del Estado, realizarán estudios e investigaciones en materia turística, y llevaran a cabo acciones para mejorar y complementar la enseñanza turística a nivel superior y de posgrado en el Estado, dirigida al personal de instituciones públicas, privadas y sociales vinculadas y con objeto social relativo al turismo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 60.
 
-La Secretaría promoverá en coordinación con las dependencias y entidades de la Administración Pública del Estado, de los Municipios, organismos públicos, privados y sociales nacionales el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la actividad turística. Asimismo establecerá lineamientos, contenidos y alcances a fin de promover y facilitar la certificación de competencias laborales.
+La Secretaría participará en la elaboración de programas de profesionalización turística y promoverá en coordinación con las dependencias y entidades de la Administración Pública del Estado, de los municipios, organismos públicos, privados y sociales nacionales el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la actividad turística. Asimismo establecerá lineamientos, contenidos y alcances a fin de promover y facilitar la certificación de competencias laborales.
 
 ###### Artículo 61.
 
-La Secretaría, en coordinación con la Secretaría del Trabajo y Previsión Social del Estado, con la finalidad de brindar un servicio de calidad turística en la entidad, establecerá programas de capacitación para los trabajadores y empleados que presten un servicio considerado como turístico. A su vez, serán incluidos en los programas de capacitación, acciones coordinadas para fomentar una cultura de protección de los niños, niñas y adolescentes frente a la explotación sexual y/o laboral en la Industria de Turismo.
-
-Estos programas deberán de ser difundidos entre los prestadores de servicios turísticos, quienes podrán solicitar a la Secretaría, la realización de cursos de capacitación para su personal.
+La Secretaría, en coordinación con la Secretaría del Trabajo y Previsión Social del Estado y el Instituto de Capacitación para el Trabajo del Estado de Quintana Roo, con la finalidad de brindar un servicio de calidad turística en la entidad, establecerá programas de capacitación para los trabajadores y empleados que presten un servicio considerado como turístico. A su vez, serán incluidos en los programas de capacitación, acciones coordinadas para fomentar una cultura de protección de los niños, niñas y adolescentes frente a la explotación sexual y/o laboral en la Industria de Turismo.
 
 ###### Artículo 62.
 
@@ -830,6 +1042,10 @@ Es facultad de la Secretaría realizar visitas de verificación a los Prestadore
 ###### Artículo 75.
 
 Las visitas de verificación que efectúe la Secretaría se rigen por esta Ley y se practicarán en días y horas hábiles, por personal autorizado que exhiba identificación vigente y la orden de verificación respectiva, la que deberá de ser expedida por la autoridad o autoridades competentes y en la que claramente se especifiquen las disposiciones de cuyo cumplimiento habrá de verificarse y la manera de hacerlo. Sin embargo, podrán practicarse visitas en días y horas inhábiles, en aquellos casos en que el tipo y la naturaleza de los servicios turísticos así lo requieran, pero dentro del horario de funcionamiento autorizado por el establecimiento.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+Las visitas de verificación se realizarán con el representante, apoderado legal o propietario del establecimiento en donde se presten, ofrezcan, contraten o publiciten los servicios turísticos. De no encontrarse ninguno de los anteriores, las visitas se llevarán a cabo con el responsable de la operación del establecimiento o quien atienda al verificador.
 
 ###### Artículo 76.
 
@@ -978,3 +1194,9 @@ P.O. 30 DE ABRIL DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
