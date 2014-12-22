@@ -4,7 +4,7 @@ identifier: "HID-ley-del-instituto-catastral-del-estado-de-hidalgo-92865"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-25"
-last_updated: "2013-02-25"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DEL INSTITUTO CATASTRAL DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 2 DE FEBRERO DE 2015 Y 6 DE ABRIL DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL INSTITUTO CATASTRAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de febrero de 2013.
 
@@ -101,9 +103,7 @@ El Instituto, tendrá a su cargo normar y dirigir el catastro en el Estado y se 
 
 ###### Artículo 6.
 
-El Instituto tendrá el carácter de autoridad fiscal, con atribuciones para determinar créditos, las bases de su liquidación así como fijarlos en cantidad líquida e imponer las sanciones que, en el ámbito de su competencia, correspondan por las infracciones a las disposiciones que rigen la materia.
-
-Los créditos fiscales que determine el Instituto se harán exigibles mediante el Procedimiento Administrativo de Ejecución, a través de la Secretaría de Finanzas y Administración del Gobierno del Estado de Hidalgo, previo convenio celebrado para tales efectos.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2014)
 
 ###### Artículo 7.
 
@@ -131,7 +131,9 @@ V.- Fungir como órgano de consulta, a solicitud de los Poderes Legislativo y Ej
 
 VI.- Constituirse como órgano permanente de investigación científica y tecnológica en materia catastral;
 
-VII.- Prestar el servicio como valuador en los dictámenes sobre el valor comercial de inmuebles que sean necesarios en todo tipo de contratos, y ante todas las autoridades Federales, Estatales y Municipales, según corresponda; radicadas dentro del territorio del Estado. Así mismo, para figurar lo mismo como valuador inmobiliario, que como perito en los demás dictámenes periciales que deban practicarse y rendirse ante ellas, en cuanto a identificación, apeos o deslindes, cuando así se solicite, así como ante las personas físicas o morales que lo requieran, previo acreditamiento del derecho de propiedad o justificación de la causa de la posesión que tenga sobre el bien inmueble de que se trata;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+VII.- Emitir los dictámenes que sobre el valor comercial de inmuebles sean necesarios en todo tipo de contratos que celebren las autoridades federales, estatales y municipales, según corresponda, relativos a inmuebles ubicados en territorio del Estado. Así mismo, para figurar, lo mismo como valuador inmobiliario, que como perito, en los demás dictámenes periciales que deban practicarse y rendirse ante ellas, en cuanto a identificación, apeos o deslindes, cuando así se solicite, así como ante las personas físicas o morales que lo requieran, previo acreditamiento del derecho de propiedad o justificación de la causa de la posesión que tenga sobre el bien inmueble de que se trata;
 
 VIII.- Prestar asistencia técnica a las Dependencias y Entidades de los Gobiernos Estatal y Municipales, cuando así lo soliciten, para la formulación de estudios o proyectos en materia catastral;
 
@@ -402,3 +404,13 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2015, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Con el propósito de que los Municipios y los prestadores de servicio cuenten con un plazo perentorio para el cumplimiento de lo dispuesto en el artículo 5° de este Decreto, con relación al Derecho de Alumbrado Público, las disposiciones contenidas en él, entrarán en vigor hasta el 1° de julio del año 2015.
