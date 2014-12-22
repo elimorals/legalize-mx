@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2013-12-31"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "HID"
 ---
 # LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 2 DE FEBRERO DE 2015 Y 6 DE ABRIL DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -395,7 +399,7 @@ Es base gravable de este impuesto, el monto total de los pagos realizados, en el
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 24.
 
@@ -409,17 +413,17 @@ $ $ $ %
 
 0.01 500,000.00 - 0.50%
 
-500,000.01 600,000.00 2,500.00 0.75%
+500,000.01 600,000.00 2,500.01 1.50%
 
-600,000.01 700,000.00 4,500.00 1.00%
+600,000.01 700,000.00 4,000.02 1.60%
 
-700,000.01 800,000.00 7,000.00 1.25%
+700,000.01 800,000.00 5,600.03 1.70%
 
-800,000.01 900,000.00 10,000.00 1.50%
+800,000.01 900,000.00 7,300.04 1.80%
 
-900,000.01 1,000,000.00 13,500.00 1.75%
+900,000.01 1,000,000.00 9,100.05 1.90%
 
-1,000,000.01 En adelante 17,500.00 2.00%
+1,000,000.01 en adelante 11,000.06 2.00%
 
 Para los efectos de este artículo, la base gravable a que se refiere el artículo 23 de la presente Ley se ubicará dentro de los límites establecidos en las columnas denominadas límite inferior y límite superior de la tarifa. A la base gravable se le restará la cantidad prevista en el renglón correspondiente de la columna límite inferior y a la diferencia obtenida se le aplicará el porcentaje que para el mismo renglón se establece en la última columna. Al resultado de esta última operación se le sumará la cuota fija que para ese mismo renglón se establece en la columna cuota fija y el importe obtenido será el impuesto a pagar.
 
@@ -701,21 +705,19 @@ IV.- Los copropietarios del vehículo.
 
 DEL PAGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, EL PRESENTE ARTÍCULO ENTRARÁ EN VIGOR EL 1° DE ENERO DE 2015.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 37.
 
-Los contribuyentes pagarán el impuesto a que se refiere este Capítulo anualmente, mediante la forma oficial aprobada por la autoridad fiscal, conforme al siguiente calendario:
+Los contribuyentes pagarán el impuesto a que se refiere este Capítulo anualmente, mediante la forma oficial aprobada por la autoridad fiscal, en los meses de enero a abril del año de que se trate, salvo en los ejercicios en que se decrete el canje general de placas a que se refiere el artículo 33 de la Ley de Control Vehicular, siendo que en esos años el impuesto se pagará conforme al siguiente calendario:
 
-Ultimo Dígito Numérico Periodo de
+Último Dígito Numérico Periodo de causación
 
-de la Placa de Circulación Causación
+de la Placa de Circulación
 
 5 ó 6 Enero y Febrero
 
-7 u 8 Febrero y Marzo
+7 ú 8 Febrero y Marzo
 
 3 ó 4 Marzo y Abril
 
@@ -723,9 +725,15 @@ de la Placa de Circulación Causación
 
 9 ó 0 Mayo y Junio
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 Lo anterior, salvo en el caso de aquellos vehículos de los que se solicite su inscripción o permiso provisional para circulación en traslado; supuestos en que se pagará en el momento en que se realice el trámite respectivo, excepto aquellos que lo hubieran pagado con anterioridad.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 En aquellos casos en que se hubiere pagado en otra entidad federativa, por el mismo ejercicio fiscal al de su registro en esta entidad federativa, un impuesto sobre la tenencia o uso de vehículos, no se pagará el impuesto a que se refiere este Capítulo por dicho ejercicio fiscal. Para estos efectos, el contribuyente presentará el comprobante de pago respectivo, mismo que será verificado en su autenticidad por la Secretaría de Finanzas y Administración en los términos que ésta estime pertinentes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Tratándose de la adquisición de vehículos nuevos, así como de la adquisición de vehículos nuevos o usados importados en forma definitiva por primera vez, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar al impuesto anual el factor correspondiente de la siguiente tabla:
 
@@ -756,6 +764,8 @@ Octubre 0.25
 Noviembre 0.17
 
 Diciembre 0.08
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 El pago del impuesto se realizará de manera simultánea con los derechos por los servicios de control vehicular establecidos en esta Ley, salvo cuando el impuesto haya sido cubierto con anterioridad.
 
@@ -1329,7 +1339,7 @@ VI.- Por la renovación anual del Registro
 
 Estatal de Consultores en materia de
 
-Protección Civil; y (sic) 50 a 100 salarios mínimos.
+Protección Civil; y 50 a 100 salarios mínimos.
 
 VII.- Por la impartición de cursos de
 
@@ -1955,11 +1965,13 @@ I. Por derecho a examen para obtener la
 
 Constancia de aspirante a FIAT de Notario; 45 salarios mínimos
 
-> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-II. Por solicitud de examen de oposición para
+II.- Por solicitud de examen de oposición o
 
-encargado de Notario o Adscrito; 110 salarios mínimos
+conocimientos para obtener la patente de Notario
+
+Público Titular o Adscrito 110 salarios mínimos.
 
 > <small>(DEROGADO PÁRRAFO TERCERO [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2055,6 +2067,10 @@ b) Urgentes 8 salarios mínimos
 
 XIII. Por deposito de testamento ológrafo 7 salarios mínimos
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+XIII BIS. Por informe de testamento simplificado 2.5 salarios mínimos
+
 > <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
 XIV. Revocación de testamentos 4 salarios mínimos
@@ -2131,7 +2147,7 @@ XXIII. Por expedición de Constancia de
 
 Inscripción o de no inscripción de Poder
 
-Notarial; y (sic) 4 salarios mínimos
+Notarial; y 4 salarios mínimos
 
 > <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
@@ -2329,7 +2345,7 @@ de seguridad privada dentro del Territorio
 
 del Estado de Hidalgo, conforme a lo previsto
 
-en la legislación de la materia vigente.; (sic) 180 salarios mínimos
+en la legislación de la materia vigente.; 180 salarios mínimos
 
 VI.- Por la modificación de la autorización,
 
@@ -2355,11 +2371,69 @@ administrativo de los prestadores de servicios
 
 de seguridad privada con autorización estatal; y 0.5 salarios mínimos
 
-X.- Por la expedición de la cedula de registro del
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-personal operativo y administrativo de los prestadores
+X.- Por la expedición de la cédula de registro del
 
-de servicios de seguridad privada. 1 salarios mínimos (sic)
+personal operativo y administrativo de los
+
+prestadores de servicios de seguridad privada 2 salarios mínimos
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 97 BIS.- Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Seguridad Pública por conducto del Instituto de Formación Profesional, causarán y pagarán de la siguiente forma:
+
+I.- Por la capacitación básica Individual de
+
+personal de la policía estatal acreditable 86.24 salarios mínimos;
+
+II.- Por la capacitación especializada individual
+
+de personal de la policía estatal acreditable 102 salarios mínimos;
+
+III.- Por la capacitación básica individual de
+
+custodio penitenciario 102 salarios mínimos;
+
+IV.- Por la capacitación especializada individual
+
+de custodio penitenciario 102 salarios mínimos;
+
+V (SIC).-
+
+VI.- Por la expedición de constancia de estudio 1.5 salarios mínimos;
+
+VII.- Por la expedición de historial académico
+
+individual 3 salarios mínimos;
+
+VIII.- Por la expedición de credencial como alumno
+
+del Instituto de Formación Profesional 1 salario mínimo;
+
+IX.- Por la capacitación Inicial Individual para
+
+personal operativo de los prestadores de servicio
+
+de seguridad privada 20 salarios mínimos;
+
+X.- Por la constancia de autorización a terceros
+
+para impartir capacitación inicial o actualización
+
+en el área de desarrollo humano 60 salarios mínimos;
+
+XI.- Por la Constancia de autorización a terceros
+
+para impartir capacitación inicial o actualización
+
+en el área jurídica 60 salarios mínimos; y
+
+XII.- Por la constancia de autorización a terceros
+
+para impartir capacitación inicial o actualización
+
+en el área técnica operativa 225 salarios mínimos.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -2393,17 +2467,17 @@ b).- Los propietarios o poseedores de aeronaves que realicen servicios de auxili
 
 c).- Aeronaves que transporten a Gobernadores y Secretarios de Estado.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ARTICULO 98 BIS.- Los Derechos por la prestación de los servicios del Estado, a través del Centro Estatal de Evaluación y Control de Confianza, se causarán y pagarán de la siguiente forma:
 
-I.- Evaluación Psicológica. 13 salarios mínimos.
+I.- Evaluación Psicológica 10 salarios mínimos;
 
-II.- Evaluación Poligráfica. 13 salarios mínimos.
+II.- Evaluación Poligráfica 10 salarios mínimos;
 
-III.- Evaluación Médico-Toxicológica. 34 salarios mínimos.
+III.- Evaluación Médico-Toxicológica 26 salarios mínimos; y
 
-IV.- Evaluación de Entorno socioeconómico. 26 salarios mínimos.
+IV.- Evaluación de Entorno Socioeconómico 20 salarios mínimos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2436,6 +2510,10 @@ II. Por la expedición de copias certificadas:
 c) (sic) Por la primera hoja 1 salario mínimo
 
 d) Por cada hoja excedente $5.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+Las dependencias que expidan copias certificadas y no cuenten con montos establecidos para estos efectos, deberán cobrar conforme a las fracciones I y II de este artículo.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2817,6 +2895,10 @@ d).- Gran Industria 300 salarios mínimos
 
 5.- Licencia de usos del suelo segregados: 140 salarios mínimos.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+6.- Expedición de constancia de viabilidad 17 salarios mínimos.
+
 II.- Por la revisión y evaluación de los siguientes expedientes técnicos, se cobrarán a razón de lo siguiente:
 
 a).- Subdivisiones sin trazo de calles 30 salarios mínimos
@@ -2871,7 +2953,29 @@ e).- Por autorización y certificación de libros de
 
 actas de régimen de propiedad en condominio. 10 salarios mínimos
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+f).- Expedición de licencias de división familiar 10 salarios mínimos
+
 2.- Para la autorización de fraccionamiento o subdivisiones de tipo residencial, campestre Industrial y comercial se cobrarán derechos a razón de 8% del valor catastral de la superficie del terreno, más el 7.5% del valor de las obras de urbanización.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+3.- Autorización de Fusión de Predios:
+
+a) De hasta 5,000 m2 20 salarios mínimos;
+
+b) De 5,001 m2 y hasta 9,999 m2 30 salarios mínimos;
+
+c) De 10,000 m2 y hasta 20,000 m2 40 salarios mínimos; y
+
+d) En predios con extensión superior a los
+
+20,000 m2, se pagará, por cada 10,000 m2
+
+adicionales 1 salario mínimos (sic).
+
+Para los efectos del presente numeral, se tomará en cuenta la superficie resultante de la fusión.
 
 IV.- Por los derechos que causan los servicios que a continuación se indican, se cobrarán en los términos siguientes:
 
@@ -3002,6 +3106,10 @@ b).- Por supervisión y asesoría en la elaboración 10 salarios mínimos;
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 32.- Por concepto de autorización de venta de lotes 10 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+33.- Expedición de derecho de preferencia 3 salarios mínimos.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3181,11 +3289,773 @@ b).- Ponente local. 30 salarios mínimos
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO OCTAVO. LA SECRETARÍA DE PLANEACIÓN, DESARROLLO REGIONAL Y METROPOLITANO
+### CAPÍTULO SÉPTIMO BIS. SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
-ARTICULO 108 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+ARTICULO 108 A.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, a través de la Dirección General de Protección y Control de la Contaminación, se causaran y pagaran de la siguiente forma:
+
+I.- Los Centros de Verificación Vehicular, cubrirán los
+
+siguientes derechos tratándose de los siguientes
+
+trámites:
+
+a) autorización para operar 155.38 salarios mínimos;
+
+b) renovación de la autorización 77.69 salarios mínimos;
+
+c) autorización de ampliación del servicio a través
+
+de nuevas líneas 155.38 salarios mínimos;
+
+d) autorización de ampliación del servicio en las
+
+líneas a otro tipo de combustible 30.77 salarios mínimos;
+
+e) autorización de cambio de domicilio 77.69 salarios mínimos;
+
+f) autorización de cambio de titular 77.69 salarios mínimos;
+
+g) emisión de gafete de acreditación para el
+
+personal. 0.77 salarios mínimos; y
+
+h) autorización de bitácora de operación y
+
+mantenimiento 0.77 salarios mínimos;
+
+II.- Tratándose de talleres de diagnóstico para
+
+determinar la eficiencia del convertidor catalítico,
+
+cubrirán los derechos tratándose de los siguientes
+
+trámites:
+
+a) evaluación de gabinete-campo para la apertura
+
+de línea 7.69 salarios mínimos; y
+
+b) autorización de apertura 38.46 salarios mínimos;
+
+III.- Por la reposición de certificados de verificación
+
+vehicular del semestre inmediato anterior o en
+
+curso que soliciten los usuarios automovilistas 0.46 salarios mínimos;
+
+IV.- Los Centros de Verificación Vehicular o las
+
+unidades autorizadas para tal efecto deberán
+
+ingresar, por cada certificado y holograma de
+
+aprobación:
+
+a) "2" (dos) 0.92 salarios mínimos;
+
+b) "O" (cero) 1.57 salarios mínimos;
+
+c) "00" (doble cero) 3.54 salarios mínimos;
+
+d) "1" (uno) 0.92 salarios mínimos; y
+
+e) General 0.92 salarios mínimos;
+
+V.- Por cada holograma tipo EXENTO, expedido
+
+exclusivamente por la Secretaría Medio Ambiente
+
+y Recursos Naturales 1.21 salarios mínimos;
+
+VI.- Por la evaluación y dictaminación de estudios de
+
+impacto ambiental a empresas industriales y de
+
+servicios. cuando se trate de actividades de:
+
+a) bajo impacto:
+
+1. en una superficie menor a una hectárea o
+
+para obras que se constituyan de forma lineal
+
+de una longitud menor a cinco kilómetros 19.23 salarios mínimos;
+
+2. en superficies de una a cinco hectáreas 42.31 salarios mínimos;
+
+3. en superficies de cinco a diez hectáreas 84.62 salarios mínimos;
+
+4. en superficies de diez a veinte hectáreas 169.23 salarios mínimos;
+
+5. (SIC)
+
+6. en superficies de veinte a cuarenta hectáreas 211.54 salarios mínimos;
+
+7. en superficies de cuarenta a sesenta
+
+hectáreas 253.85 salarios mínimos;
+
+8. en superficies de sesenta a ochenta hectáreas 296.15 salarios mínimos;
+
+9. en superficies de ochenta a cien hectáreas 338.46 salarios mínimos; y
+
+10. en superficies de más de cien hectáreas 461.54 salarios mínimos;
+
+b) mediano impacto:
+
+1. en una superficie menor a una hectárea o
+
+para obras que se constituyan de forma lineal
+
+de una longitud menor a cinco kilómetros 38.46 salarios mínimos;
+
+2. en superficies de una a cinco hectáreas 84.62 salarios mínimos;
+
+3. en superficies de cinco a diez hectáreas 169.23 salarios mínimos;
+
+4. en superficies de diez a veinte hectáreas 338.46 salarios mínimos;
+
+5. en superficies de veinte a cuarenta hectáreas 423.08 salarios mínimos;
+
+6. en superficies de cuarenta a sesenta
+
+Hectáreas 507.69 salarios mínimos;
+
+7. en superficies de sesenta a ochenta hectáreas 592.31 salarios mínimos;
+
+8. en superficies de ochenta a cien hectáreas 676.92 salarios mínimos; y
+
+en superficies de más de cien hectáreas 769.23 salarios mínimos;
+
+c) alto impacto:
+
+1. en una superficie menor a una hectárea o
+
+para obras que se constituyan de forma lineal
+
+de una longitud menor a cinco kilómetros 57.69 salarios mínimos;
+
+2. en superficies de una a cinco hectáreas 126.92 salarios mínimos;
+
+3. en superficies de cinco a diez hectáreas 253.85 salarios mínimos;
+
+4. en superficies de diez a veinte hectáreas 507.69 salarios mínimos;
+
+5. en superficies de veinte a cuarenta hectáreas 634.62 salarios mínimos;
+
+6. en superficies de cuarenta a sesenta
+
+hectáreas 761.54 salarios mínimos;
+
+7. en superficies de sesenta a ochenta hectáreas 888.46 salarios mínimos;
+
+8. en superficies de ochenta a cien hectáreas 1,015.38 salarios mínimos; y
+
+9. en superficies de más de cien hectáreas 1,153.85 salarios mínimos;
+
+VII.- Por la evaluación y dictaminación del informe
+
+preventivo:
+
+a) en una superficie menor a una hectárea 38.46 salarios mínimos;
+
+b) en superficies de una a cinco hectáreas 115.38 salarios mínimos;
+
+c) en superficies de cinco a diez hectáreas 230.77 salarios mínimos;
+
+d) en superficies de diez a veinte hectáreas 346.15 salarios mínimos;
+
+e) en superficies de veinte a cuarenta hectáreas 461.54 salarios mínimos;
+
+f) en superficies de cuarenta a sesenta hectáreas 576.92 salarios mínimos;
+
+g) en superficies de sesenta a ochenta hectáreas 692.31 salarios mínimos;
+
+h) en superficies de ochenta a cien hectáreas 807.69 salarios mínimos; y
+
+i) en superficies de más de cien hectáreas 923.08 salarios mínimos;
+
+VIII.- Por la evaluación y dictaminación de estudios de
+
+riesgo ambiental de las actividades consideradas
+
+como riesgosas. por capacidad de almacenamiento:
+
+a) hasta 100,000 litros 93.85 salarios mínimos; y
+
+b) mayor de 100,000 litros 120.77 salarios mínimos;
+
+IX.- Por la ampliación de plazos y términos de
+
+proyectos evaluados en materia de impacto
+
+ambiental: 33.85 salarios mínimos;
+
+X.- Por el cambio de titularidad del proyecto: 13.85 salarios mínimos;
+
+XI.- Por la autorización de modificaciones a proyectos
+
+evaluados en materia de impacto y riesgo
+
+ambiental: 26.15 salarios mínimos;
+
+XII.- Por emitir opinión técnica para verificar la
+
+factibilidad, la congruencia con el ordenamiento
+
+ecológico territorial y las obligaciones ambientales
+
+a que debe sujetarse un proyecto, en materia de
+
+impacto ambiental:
+
+a) (sic)
+
+b) con una superficie que sea menor a una
+
+hectárea 23.08 salarios mínimos;
+
+c) con una superficie de una hectárea y menor a
+
+cinco hectáreas 30.77 salarios mínimos;
+
+d) con una superficie de cinco hectáreas y menor a
+
+diez hectáreas 38.46 salarios mínimos;
+
+e) con una superficie de diez hectáreas y menor a
+
+veinte hectáreas 46.15 salarios mínimos;
+
+f) con una superficie de veinte hectáreas y menor a
+
+cuarenta hectáreas 53.85 salarios mínimos; y
+
+g) con una superficie de cuarenta hectáreas en
+
+adelante 61.54 salarios mínimos; y
+
+h) En caso de que por las condiciones del proyecto,
+
+la Secretaría determine que se requiere visita
+
+técnica en campo para la dictaminación, además
+
+del pago de derechos que corresponda conforme
+
+a las fracciones a) a g) anteriores, el promovente
+
+deberá cubrir el importe correspondiente a la
+
+visita técnica, mismo que asciende a 30 salarios mínimos;
+
+XIII.- Por concepto de entrevista, análisis, validación y la
+
+inscripción al padrón de prestadores de servicios
+
+técnicos ambientales, deberán cubrirse por área de
+
+interés; tratándose de:
+
+a) persona moral 138.46 salarios mínimos; y
+
+b) persona física 76.92 salarios mínimos;
+
+XIV.- Por el refrendo y actualización anual al padrón de
+
+prestadores de servicios técnicos ambientales:
+
+a) persona moral 69.23 salarios mínimos; y
+
+b) persona física 38.46 salarios mínimos;
+
+XV.- Por el análisis y autorización de proyectos para el
+
+transporte de residuos de manejo especial:
+
+a) de uno a dos vehículos 26.92 salarios mínimos;
+
+b) de tres a cinco vehículos 38.46 salarios mínimos;
+
+c) de seis a diez vehículos 65.38 salarios mínimos;
+
+d) de once a quince vehículos 88.46 salarios mínimos;
+
+e) de dieciséis a veinte vehículos 115.38 salarios mínimos; y
+
+f) de veinte vehículos en adelante 153.85 salarios mínimos;
+
+XVI.- Por el refrendo y actualización anual de la
+
+autorización de proyectos para el transporte de
+
+residuos de manejo especial por cada vehículo: 7.69 salarios mínimos;
+
+XVII.- (SIC)
+
+XVIII.- Evaluación de factibilidad de operación de
+
+escombreras o sitios de disposición final de residuos
+
+provenientes de la construcción, por hectárea o
+
+fracción: 76.92 salarios mínimos;
+
+XIX.- Por la revisión y autorización de bitácora de control
+
+de bancos pétreos, bitácora de operación de
+
+equipos de combustión y bitácora de generación de
+
+residuos de manejo especial:
+
+a) micro industria o servicio con 1 a 15
+
+trabajadores 3.85 salarios mínimos;
+
+b) pequeña industria o servicio con 16 a 50
+
+trabajadores 6.92 salarios mínimos;
+
+c) mediana industria o servicio con 51 a 250
+
+trabajadores 10.00 salarios mínimos;
+
+d) gran industria o servicio de 251 trabajadores en
+
+adelante 15.38 salarios mínimos;
+
+e) bancos pétreos 6.92 salarios mínimos; y
+
+f) ladrilleras 0.77 salario mínimo;
+
+XX.- Por la autorización de la licencia ambiental estatal:
+
+a) micro industria o servicio con 1 a 15
+
+trabajadores 13.85 salarios mínimos;
+
+b) pequeña industria o servicio con 16 a 50
+
+trabajadores 22.31 salarios mínimos;
+
+c) mediana industria o servicio con 51 a 250
+
+trabajadores 30.77 salarios mínimos;
+
+d) gran industria o servicio de 251 trabajadores en
+
+adelante 43.08 salarios mínimos;
+
+e) bancos pétreos 8.46 salarios mínimos; y
+
+f) ladrilleras 3.85 salarios mínimos;
+
+XXI.- Por la revisión y autorización de la cédula de
+
+operación anual de empresas y servicios en
+
+funcionamiento:
+
+a) micro industria o servicio con 1 a 15
+
+trabajadores 13.85 salarios mínimos;
+
+b) pequeña industria o servicio con 16 a 50
+
+trabajadores 20.77 salarios mínimos;
+
+c) mediana industria o servicio con 51 a 250
+
+trabajadores 29.23 salarios mínimos;
+
+d) gran industria o servicio de 251 trabajadores en
+
+adelante 43.85 salarios mínimos; y
+
+e) ladrilleras 3.85 salarios mínimos;
+
+XXII.- Por la autorización, de cédula de operación anual de
+
+bancos pétreos en funcionamiento:
+
+a) superficie menor a una hectárea 23.08 salarios mínimos;
+
+b) superficie de una hectárea y hasta de menos de
+
+cinco hectáreas 30.77 salarios mínimos;
+
+c) superficie de cinco hectáreas y hasta de menos
+
+de diez hectáreas 38.46 salarios mínimos;
+
+d) superficie mayor de diez hectáreas y hasta de
+
+menos de veinte hectáreas 46.15 salarios mínimos;
+
+e) superficie mayor de veinte hectáreas y hasta de
+
+menos de cuarenta hectáreas 53.85 salarios mínimos; y
+
+f) superficie mayor de cuarenta hectáreas 61.54 salarios mínimos;
+
+XXIII.- Por las evaluaciones y autorizaciones
+
+relacionadas con residuos de manejo especial:
+
+a) Por la autorización del plan de manejo:
+
+1. micro industria o servicio con 1 a 10
+
+Trabajadores 5.38 salarios mínimos;
+
+2. pequeña industria o servicio con 11 a 50
+
+Trabajadores 6.92 salarios mínimos;
+
+3. mediana industria o servicio con 51 a 250
+
+trabajadores 8.46 salarios mínimos;
+
+4. gran industria o servicio de 251 trabajadores
+
+en adelante 10.00 salarios mínimos; y
+
+5. bancos pétreos 10.77 salarios mínimos;
+
+b) por la evaluación de manifiestos y registro de
+
+empresas
+
+1. micro industria o servicio con 1 a 10
+
+trabajadores 5.38 salarios mínimos;
+
+2. pequeña industria o servicio con 11 a 50
+
+trabajadores 6.92 salarios mínimos;
+
+3. mediana industria o servicio con 51 a 250
+
+trabajadores 8.46 salarios mínimos;
+
+4. (SIC)
+
+5. gran industria o servicio de 251 trabajadores
+
+en adelante 10.00 salarios mínimos;
+
+6. bancos pétreos 10.77 salarios mínimos; y
+
+7. ladrilleras 3.85 salarios mínimos;
+
+XXIV.- Por la expedición del certificado de análisis de
+
+contaminantes realizados por el laboratorio
+
+ambiental, cuando se trate de:
+
+a) agua:
+
+1. residual:
+
+1.1 arsénico 2.05 salarios mínimos;
+
+1.2 cadmio 2.05 salarios mínimos;
+
+1.3 cianuros 3.62 salarios mínimos;
+
+1.4 cobre 1.81 salarios mínimos;
+
+1.5 cromo hexavalente 1.45 salarios mínimos;
+
+1.6 demanda bioquímica de oxigeno 1.81 salarios mínimos;
+
+1.7 grasas y aceites 1.81 salarios mínimos;
+
+1.8 materia flotante 0.60 salarios mínimos;
+
+1.9 mercurio 2.05 salarios mínimos;
+
+1.10 (SIC)
+
+1.11 níquel 1.81 salarios mínimos;
+
+1.12 plomo 2.05 salarios mínimos;
+
+1.13 potencial hidrogeno 0.60 salarios mínimos;
+
+1.14 solidos suspendidos totales 1.32 salarios mínimos;
+
+1.15 solidos sedimentables 0.60 salarios mínimos;
+
+1.16 temperatura 0.60 salarios mínimos;
+
+1.17 zinc 1.81 salarios mínimos;
+
+1.18 nitrógeno total 2.65 salarios mínimos; y
+
+1.19 fosforo total 1.81 salarios mínimos;
+
+2. para consumo humano:
+
+2.1 color 0. 72 salarios mínimos;
+
+2.2 olor y sabor 0. 72 salarios mínimos;
+
+2.3 turbiedad 0.60 salarios mínimos;
+
+2.4 aluminio 2.05 salarios mínimos;
+
+2.5 arsénico 2.05 salarios mínimos;
+
+2.6 bario 2.05 salarios mínimos;
+
+2.7 cadmio 2.05 salarios mínimos;
+
+2.8 cianuro 3.62 salarios mínimos;
+
+2.9 (SIC)
+
+2.10 cloro residual libre 0. 72 salarios mínimos;
+
+2.11 cloruros totales 1.45 salarios mínimos;
+
+2.12 cobre 1.81 salarios mínimos;
+
+2.13 cromo total 1.81 salarios mínimos;
+
+2.14 dureza total 1.45 salarios mínimos;
+
+2.15 fierro 1.81 salarios mínimos;
+
+2.16 fluoruros 2.05 salarios mínimos;
+
+2.17 manganeso 1.81 salarios mínimos;
+
+2.18 mercurio 2.05 salarios mínimos;
+
+2.19 nitratos 2.05 salarios mínimos;
+
+2.20 nitritos 2.05 salarios mínimos;
+
+2.21 nitrógeno amoniacal 2.05 salarios mínimos;
+
+2.22 potencial hidrogeno 0.60 salarios mínimos;
+
+2.23 plomo 2.05 salarios mínimos;
+
+2.24 sodio 1.81 salarios mínimos;
+
+2.25 solidos disueltos totales 1.32 salarios mínimos;
+
+2.26 sulfatos 1.81 salarios mínimos;
+
+2.27 sustancias activas al azul de metileno 2.17 salarios mínimos; y
+
+2.28 zinc 1.81 salarios mínimos;
+
+b) suelos:
+
+1. lodos y biosolidos:
+
+1.1 arsénico 2.28 salarios mínimos;
+
+1.2 cadmio 2.28 salarios mínimos;
+
+1.3 cromo 2.28 salarios mínimos;
+
+1.4 cobre 2.28 salarios mínimos;
+
+1.5 plomo 2.28 salarios mínimos;
+
+1.6 mercurio 2.28 salarios mínimos;
+
+1.7 níquel 2.28 salarios mínimos; y
+
+1.8 zinc 2.28 salarios mínimos;
+
+2. remediación de suelos:
+
+2.1 arsénico 2.28 salarios mínimos;
+
+2.2 bario 2.28 salarios mínimos;
+
+2.3 berilio 2.28 salarios mínimos;
+
+2.4 cadmio 2.28 salarios mínimos;
+
+2.5 cromo hexavalente 2.28 salarios mínimos;
+
+2.6 mercurio 2.28 salarios mínimos;
+
+2.7 níquel 2.28 salarios mínimos;
+
+2.8 plata 2.28 salarios mínimos;
+
+2.9 plomo 2.28 salarios mínimos;
+
+2.10 selenio 2.28 salarios mínimos;
+
+2.11 talio 2.28 salarios mínimos; y
+
+2.12 vanadio 2.28 salarios mínimos;
+
+c) aire:
+
+1. monitoreo de contaminantes criterio (unidad
+
+móvil) 8000.00, monto por día 96.50 salarios mínimos;
+
+2. muestreo de partículas pst, pm10 y 2.5100.00 1.20 salarios mínimos;
+
+3. acondicionamiento de filtros y determinación
+
+de la masa gravimétrica y concentración de
+
+partículas 1.20 salarios mínimos;
+
+4. determinación de metales pesados en filtros
+
+de cuarzo:
+
+4.1 plomo 2.28 salarios mínimos;
+
+4.2 manganeso 2.28 salarios mínimos;
+
+4.3 cromo 2.28 salarios mínimos;
+
+4.4 arsénico 2.28 salarios mínimos;
+
+4.5 berilio 2.28 salarios mínimos; y
+
+4.6 cadmio 2.28 salarios mínimos;
+
+5. incineración de residuos:
+
+5.1 arsénico 2.28 salarios mínimos;
+
+5.2 selenio 2.28 salarios mínimos;
+
+5.3 cobalto 2.28 salarios mínimos;
+
+5.4 níquel 2.28 salarios mínimos;
+
+5.5 manganeso 2.28 salarios mínimos;
+
+5.6 estaño 2.28 salarios mínimos;
+
+5.7 cadmio 2.28 salarios mínimos;
+
+5.8 plomo 2.28 salarios mínimos;
+
+5.9 cromo total 2.28 salarios mínimos;
+
+5.10 cobre 2.28 salarios mínimos;
+
+5.11 zinc 2.28 salarios mínimos; y
+
+5.12 mercurio 2.28 salarios mínimos;
+
+5.13 muestreo de aguas 15.68 salarios mínimos.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 108 B.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, a través de la Dirección General de Medio Ambiente, se causarán y pagarán de la siguiente forma:
+
+I.- (SIC)
+
+II.- Compulsa de documentos, por cada 5 hojas o
+
+fracción 0.5 salarios mínimos;
+
+III.- Por cada 5 hojas o fracción, en la expedición de:
+
+a) Copias simples 1 salario mínimo; y
+
+b) Copias certificadas 2 salarios mínimos;
+
+IV.- Por la reposición de documentos, expedidos por
+
+esta Autoridad y que obren en los archivos; por
+
+cada 5 hojas o fracción 2 salarios mínimos.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 108 C.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, a través de la Dirección General de Recursos Naturales, se causarán y pagarán de la siguiente forma:
+
+I.- En el área natural protegida denominada Parque
+
+Nacional El Chico, se cobrará:
+
+a) Por el uso o aprovechamiento no extractivo de
+
+elementos naturales y escénicos que se realiza
+
+dentro del Parque Nacional El Chico, derivado de
+
+las actividades turísticas, deportivas y recreativas
+
+como ciclismo, rappel, montañismo,
+
+excursionismo, alta montaña, observación de
+
+aves y otra fauna y flora silvestre, escalada en
+
+roca, visitas guiadas y no guiadas, por persona,
+
+por día 0.32 salarios mínimos;
+
+b) Por el uso o aprovechamiento no extractivo de
+
+elementos naturales y escénicos que se realiza
+
+dentro del Parque Nacional El Chico, derivado de
+
+las actividades turísticas, deportivas y recreativas
+
+como ciclismo, rappel, montañismo,
+
+excursionismo, alta montaña, observación de
+
+aves y otra fauna y flora silvestre, escalada en
+
+roca, visitas guiadas y no guiadas, por persona,
+
+por año 3.32 salarios mínimos;
+
+c) Por el uso o aprovechamiento de los refugios
+
+destinado (sic) a prestar servicio de alojamiento del
+
+Parque Nacional El Chico, por refugio, por día 3.08 salarios mínimos;
+
+d) Por el uso o aprovechamiento de los espacios
+
+destinados a acampar dentro del Parque
+
+Nacional El Chico, por plataforma, por día 0.77 salario mínimo;
+
+II.- En el área natural protegida denominada Parque
+
+Ecológico Cubitos, se cobrara:
+
+a) Por el acceso personal, con fines recreativos,
+
+académicos o de investigación, contemplando la
+
+visita guiada 0.12 salarios mínimos; y
+
+b) Por el acceso personal, con fines recreativos,
+
+académicos o de investigación, contemplando el
+
+paquete "Retos de Aventura" 0.60 salarios mínimos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 108.
 
@@ -3209,4441 +4079,211 @@ IV.- Por la expedición de constancia de vehículo
 
 no robado 3 salarios mínimos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SÉPTIMO TER. SECRETARÍA DE EDUCACIÓN PÚBLICA
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 108 D.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Educación Pública, a través de la Dirección General de Profesiones, se causarán y pagarán de la siguiente forma:
+
+I.- Por la validación electrónica de título profesional
+
+mediante medidas de seguridad 0.77 salario mínimo;
+
+II.- Por registrar un título a nivel federal 0. 77 salario mínimo;
+
+III.- Por la expedición de registro estatal 3.08 salarios mínimos;
+
+IV.- (SIC)
+
+V.- Por la expedición de registro provisional
+
+estatal para ejercer por título en trámite 3.08 salarios mínimos;
+
+VI.- Por la expedición de ampliación de registro
+
+Provisional 3.08 salarios mínimos;
+
+VII.- Por la expedición de antecedentes profesionales
+
+solicitados por particulares 0. 77 salario mínimo;
+
+VIII.- Por la expedición de acuerdo de registro de
+
+colegios de profesionistas 28.00 salarios mínimos;
+
+IX.- Por la expedición de acuerdo de registro a
+
+instituciones de educación media superior y
+
+superior 28.00 salarios mínimos; y
+
+X.- Por la expedición de duplicado de registro
+
+estatal 2.31 salarios mínimos;
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 108 E.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Educación Pública, a través de la Dirección General de Educación Superior, se causaran y pagarán de la siguiente forma:
+
+I.- En materia de Reconocimiento de Validez Oficial de
+
+Estudios (RVOE):
+
+a) por el acuerdo que regula el trámite 6.92 salarios mínimos;
+
+b) por la expedición del dictamen de planes y
+
+programas de estudio 153.85 salarios mínimos;
+
+c) por la inspección técnica para revisión de
+
+instalaciones 46.15 salarios mínimos;
+
+d) (sic)
+
+e) por la obtención del acuerdo de Reconocimiento
+
+de Validez Oficial de Estudios 61.54 salarios mínimos;
+
+f) por la expedición de la carta de no inconveniente
+
+para incorporación a una institución educativa
+
+federal 15.38 salarios mínimos;
+
+g) por el acuerdo de actualización de programa
+
+académico de nivel superior 85.38 salarios mínimos;
+
+h) por la expedición de la opinión de pertinencia de
+
+planes y programas de estudios 61.54 salarios mínimos;
+
+i) por la inspección ordinaria y emisión de dictamen
+
+para la continuidad de la vigencia 76.92 salarios mínimos;
+
+j) por trámite de inspección de cambio de domicilio
+
+y emisión de dictamen autorización de cambio de
+
+domicilio 69.23 salarios mínimos; y
+
+k) por registro de personal docente de instituciones
+
+particulares de educación superior 0. 77 salario mínimo;
+
+II.- En materia de autenticación y registro:
+
+a) de duplicado de certificado de estudios 1.54 salarios mínimos;
+
+b) de certificado parcial de estudios 3.85 salarios mínimos;
+
+c) de certificado total de estudios 7.69 salarios mínimos; y
+
+d) de título, diploma o grado académico 11.54 salarios mínimos;
+
+III.- Por la revisión de documentos para ingresar a
+
+una institución particular 0. 77 salario mínimo;
+
+IV.- Por resoluciones en materia de:
+
+a) equivalencia de estudios superior 7.69 salarios mínimos; y
+
+b) revalidación de estudios 11.54 salarios mínimos
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 108 F.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Educación Pública, a través de la Dirección General de Vinculación y Fortalecimiento Institucional, se causarán y pagarán de la siguiente forma:
+
+I.- Por cursar cada materia 4.62 salarios mínimos; y
+
+II.- Por recursar materia no aprobada 25.18 salarios mínimos.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 108 G.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Educación Pública, a través de la Dirección General de Educación Media Superior, se causaran y pagaran de la siguiente forma:
+
+I.- Por la revalidación y equivalencias de estudios:
+
+a) Cuando se trate de revalidación de estudios en el
+
+extranjero 5.38 salarios mínimos;
+
+b) Cuándo se trate de equivalencia de estudios 5.38 salarios mínimos;
+
+II.- En materia de reconocimiento de validez oficial de
+
+estudios por la expedición de acuerdo de
+
+reconocimiento de validez oficial de estudios 461.54 salarios mínimos
+
+III.- En materia de control de las escuelas particulares
+
+establecidas en el Estado:
+
+a) Por la inscripción semestral 1.54 salarios mínimos;
+
+b) Por la reinscripción semestral 1.54 salarios mínimos;
+
+c) Por la inscripción cuatrimestral 1.54 salarios mínimos;
+
+d) Por la reinscripción cuatrimestral 1.54 salarios mínimos;
+
+e) Por el derecho a examen extraordinario 3.85 salarios mínimos; y
+
+f) Por la expedición y validación del certificado 3.08 salarios mínimos
+
+IV.- En materia de Preparatoria Abierta:
+
+a) Por preinscripción 0.77 salario mínimo; y
+
+b) Por inscripción 3.08 salarios mínimos;
+
+c) Por la emisión de constancia de estudios 0. 77 salario mínimo;
+
+d) Por la emisión del historial Académico 0.77 salario mínimo; y
+
+e) Por la autorización de registro de centros de
+
+asesoría 155.38 salarios mínimos
+
+El importe de los derechos por examen, emisión de duplicado de credencial y certificado de estudios serán los contemplados en la Ley Federal de Derechos.
+
 > <small>(REFORMADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO OCTAVO. LA SECRETARÍA DE PLANEACIÓN, DESARROLLO REGIONAL Y METROPOLITANO
+
+ARTICULO 108 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ### CAPÍTULO NOVENO. DE LOS ORGANISMOS DESCENTRALIZADOS
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO UNICO
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 109.
 
-Los Organismos Descentralizados como personas jurídicas, cuyo objetivo es la realización de actividades correspondientes a las áreas estratégicas o prioritarias de la Administración Pública, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, las aportaciones y recursos necesarios para el desarrollo de sus funciones, conforme a las cuotas y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Finanzas y Administración y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser publicados en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
+Los Organismos Descentralizados como personas jurídicas, cuyo objetivo primordial es auxiliar a la Administración Pública Centralizada en la realización de actividades correspondientes a las áreas estratégicas o prioritarias del Gobierno del Estado, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, las aportaciones y recursos necesarios para el desarrollo de sus funciones, conforme a los rubros, conceptos, cuotas y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Finanzas y Administración y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser publicados en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
 
-Los recursos que recauden deberán ser reportados a la Secretaría de Finanzas y Administración.
-
-> <small>(ADICIONADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 86 BIS], P.O. 31 DE DICIEMBRE DE 2011)</small>
+Los recursos que recauden deberán ser reportados a la Secretaria de Finanzas y Administración.
 
 ###### ARTICULO 110.
 
-Los derechos por la prestación de servicios, a través de los Organismos Descentralizados, serán los siguientes:
-
-I.- Servicios en Materia Educativa:
-
-1.- Inscripciones;
-
-2.- Inscripción nivel licenciatura;
-
-3.- Inscripción nivel posgrado;
-
-4.- Inscripción cuatrimestral por estimulación temprana del nivel preescolar;
-
-5.- Inscripción cuatrimestral a piano de nivel preescolar;
-
-6.- Inscripción cuatrimestral a violín a nivel preescolar;
-
-7.- Inscripción cuatrimestral a iniciación musical;
-
-8.- Inscripción cuatrimestral a cursos sabatinos;
-
-9.- Inscripción cuatrimestral a nivel básico;
-
-10.- Inscripción cuatrimestral a nivel intermedio;
-
-11.- Inscripción cuatrimestral a curso propedéutico a tres años para ingresar a la licenciatura de música;
-
-12.- Inscripción cuatrimestral a curso propedéutico a un año para ingresar a la licenciatura de música;
-
-13.- Inscripción cuatrimestral de nivel superior;
-
-14.- Inscripción cuatrimestral a cursos individuales a materia libre;
-
-15.- Inscripción cuatrimestral a cursos grupales a materia libre;
-
-16.- Reinscripciones;
-
-17.- Readmisiones;
-
-18.- Revalidación de estudios;
-
-19.- Periodo de recuperación;
-
-20.- Periodo especial;
-
-21.- Apertura de centros de asesoría particular;
-
-22.- Examen de ingreso y/o admisión;
-
-23.- Examen ordinario;
-
-24.- Examen de nivelación;
-
-25.- Examen extraordinario o de recuperación;
-
-26.- Examen de acreditación por asignatura;
-
-27.- Examen general de egreso;
-
-28.- Examen a titulo de suficiencia;
-
-29.- Examen de mejoramiento académico;
-
-30.- Examen de regularización;
-
-31.- Examen especial;
-
-32.- Examen global;
-
-33.- Examen intermedio;
-
-34.- Examen de titulación por áreas de conocimiento;
-
-35.- Examen complementario;
-
-36.- Examen de competencia profesional y laboral;
-
-37.- Expedición de certificado;
-
-38.- Expedición de certificado por mejoramiento académico;
-
-39.- Expedición de duplicado de certificado;
-
-40.- Expedición de duplicado de certificado de terminación;
-
-41.- Expedición de constancia con calificaciones;
-
-42.- Expedición de constancia sin calificaciones;
-
-43.- Expedición de duplicado de constancia con calificaciones;
-
-44.- Expedición de duplicado de constancia sin calificaciones;
-
-45.- Expedición de duplicados de certificados;
-
-46.- Expedición de duplicados de constancias;
-
-47.- Expedición de historial académico;
-
-48.- Expedición de constancia de portabilidad académica;
-
-49.- Expedición de Título Profesional;
-
-50.- Expedición de credenciales;
-
-51.- Expedición de copias certificadas;
-
-52.- Tramite de gestoría de registro profesional;
-
-53.- Legalización de certificados;
-
-54.- Legalización de firmas;
-
-55.- Protocolo de titulación;
-
-56.- Registro de Titulo Profesional;
-
-57.- Registro para ejercer especialidad;
-
-58.- Registro de grado académico;
-
-59.- Autorización provisional para ejercer una profesión;
-
-60.- Registro de autorización provisional para ejercer como pasante;
-
-61.- Ampliación de autorización profesional;
-
-62.- Información de antecedentes profesionales;
-
-63.- Certificación de candidatos externos;
-
-64.- Registro de colegios de profesionistas solicitado por particulares;
-
-65.- Registro de institución de educación media superior y superior que otorguen títulos profesionales;
-
-66.- Colegiaturas;
-
-67.- Cuota mensual de recuperación por estimulación temprana del nivel preescolar;
-
-68.- Cuota mensual de recuperación a piano de nivel preescolar;
-
-69.- Cuota mensual de recuperación a violín a nivel preescolar;
-
-70.- Cuota mensual de recuperación a iniciación musical;
-
-71.- Cuota mensual de recuperación a cursos sabatinos;
-
-72.- Cuota mensual de recuperación a nivel básico;
-
-73.- Cuota mensual de recuperación a nivel intermedio;
-
-74.- Cuota mensual de recuperación a curso propedéutico a tres años para ingresar a la licenciatura de música;
-
-75.- Cuota mensual de recuperación a curso propedéutico a un año para ingresar a la licenciatura de música;
-
-76.- Cuota mensual de recuperación de nivel superior;
-
-77.- Cuota mensual de recuperación a cursos individuales a materia libre;
-
-78.- Cuota mensual de recuperación a cursos grupales a materia libre;
-
-79.- Cuotas escolares semestral;
-
-80.- Cuotas escolares por cada examen extraordinario;
-
-81.- Cuotas escolares por tiempo;
-
-82.- Cuotas escolares por alumno;
-
-83.- Cuotas escolares por curso;
-
-84.- Cuota escolar por hora por participante;
-
-85.- Cuota escolar por curso por participante;
-
-86.- Cuota por curso de extensión, actualización, educación continua y extracurricular;
-
-87.- Cuota por asesoría técnica;
-
-88.- Cuota de recuperación mensual por materia de propedéutico;
-
-89.- Cuotas de recuperación por incubación de proyectos;
-
-90.- Cuota de recuperación por alumno en cursos de computo;
-
-91.- Cuota por alumno para curso de especialidades;
-
-92.- Cuota de recuperación de curso impartido;
-
-93.- Cuota por hora de aplicación de evaluación para otorgar el Reconocimiento Oficial de la Competencia Ocupacional (ROCO);
-
-94.- Cuota por especialidad incorporada al Reconocimiento Oficial de la Competencia Ocupacional (ROCO);
-
-95.- Cuota por recuperación por persona para recibir cursos de capacitación;
-
-96.- Cuota por inscripción en curso básico, intermedio y avanzado de capacitación;
-
-97.- Cuota por hora de tutoría;
-
-98.- Otorgamiento del Reconocimiento de Validez Oficial de Estudios (REVOE);
-
-99.- Revisión anual de planes y programas a escuelas incorporadas al Reconocimiento de Validez Oficial de Estudios (REVOE);
-
-100.- Inspección durante el trámite para obtener el Reconocimiento de Validez Oficial de Estudios (REVOE);
-
-101.- Registro de oficinas de representación que ofrece educación superior en la modalidad virtual o a distancia;
-
-102.- Capacitación;
-
-103.- Servicios de educación;
-
-104.- Servicios de consultoría;
-
-105.- Servicio de asesoría;
-
-106.- Cursos de verano;
-
-107.- Cursos en materia deportiva;
-
-108.- Curso especial de titulación;
-
-109.- Curso intersemestral;
-
-110.- Curso extracurricular;
-
-111.- Reposición de credenciales;
-
-112.- Seguros estudiantiles;
-
-113.- Dictámenes de programas de estudios;
-
-114.- Seminario de titulación;
-
-115.- Impartición de diplomados;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-116.- Evaluación para la certificación de competencia laboral;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-117.- Servicio de diagnóstico de consultoría;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-118.- Emitir documento probatorio extemporáneo;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-119.- Duplicar documento probatorio emitido;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-120.- Preinscripción;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-121.- Incorporación de escuelas;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-122.- Equivalencia de educación media;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-123.- Autentificación de certificado de estudios;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-124.- Visita de inspección a instituciones;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-125.- Instructivo que regula el trámite para el Reconocimiento de Validez Oficial de Estudios (REVOE) y CD de formatos;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-126.- Expedición de carta de no inconveniente;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-127.- Trámite para el cambio a actualización de cada programa académico;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-128.- Autentificación de duplicado y triplicado de certificado de estudios;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-129.- Autentificación de título, diploma o grado académico;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-130.- Equivalencia de estudios;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-131.- Revisión de documentos por alumno inscrito;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-132.- Expedición de registro de personal docente;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-133.- Cuota de recuperación mensual por cursar materia reprobada de los programas de educación abierta y a distancia y de obtención de licenciatura;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-134.- Bases para licitación de obra con recurso estatal;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-135.- Bases para licitación de equipamiento con recurso estatal;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-136.- Impresión o copia de planos;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-137.- Dictamen de obra;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-138.- Validación de expedientes técnicos;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-139.- Asesoría técnica;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-140.- Venta de bibliografía (Manual);
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-141.- Equivalencia de estudios (costo fijo);
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-142.- Equivalencia de estudios (costo adicional por materia);
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-143.- Evaluación complementaria;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-144.- Servicio técnico (hora);
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-145.- Colegiatura de maestría;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-146.- Propedéutico de maestría;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-147.- Maestría de posgrado;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-148.- Curso intensivo de recuperación;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-149.- Curso de educación continua categoría B2;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-150.- Curso de educación continua categoría C2;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-151.- Cuota de recuperación cuatrimestral nivel licenciatura;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-152.- Curso de educación continua categoría A (hora);
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-153.- Reposición de tarjetón de estacionamiento;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-154.- Kit de capacitación;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-155.- Asignatura en modalidad EDMIX nivel licenciatura;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-156.- Examen TOEFL;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-157.- Recursar materia por 3er. Vez;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-158.- Curso intensivo de regularización;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-159.- Diploma y cédula de especialidad;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-160.- Duplicado de diplomas de especialidad;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-161.- Evaluación integral de capacidades;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-162.- Constancia de no adeudo a biblioteca;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-163.- Reexpedición de constancia de servicios (sic) social;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-164.- Constancia por reposición de documento de educación continua;
-
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 81, PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DE LA PRESENTE FRACCIÓN Y SOLO CONSERVA EL TEXTO DE LOS NUMERALES 1 AL 3, PREVIO A ESTA MODIFICACIÓN.</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-II.- Servicios en Materia de Salud:
-
-DESCRIPCIÓN
-
-CONSULTA EXTERNA
-
-1. Consulta general;
-
-2. Consulta especialidad;
-
-3. Consulta subsecuente de especialidad;
-
-4. Consulta extemporánea;
-
-5. Consulta urgencias;
-
-6. Observación de 2 a 12 horas;
-
-7. Observación de 12 a 23 horas;
-
-8. Hidratación oral;
-
-9. Hidratación de menores;
-
-10. Hospitalización día cama;
-
-11. Día incubadora;
-
-CIRUGÍA GENERAL (MAYOR, INTERNA Y MENOR)
-
-12. Lipomas;
-
-13. Quiste sebáceo quirúrgico;
-
-14. Fimosis;
-
-15. Extirpación ganglionar;
-
-16. Mastectomía;
-
-17. Hernia umbilical y paraumbilical;
-
-18. Hernia inguinal;
-
-19. Hernia crural;
-
-20. Hernia hiatal;
-
-21. Quiste pilonidal;
-
-22. Apendicectomía;
-
-23. Extracción de uñas;
-
-24. Litotomía;
-
-25. Safenectomía por extremidad;
-
-26. Eventración postquirúrgica;
-
-27. Histerectomía, anterectomía y biopsia;
-
-28. Extirpación de tumores de piel malignos;
-
-29. Extirpación de tumores de piel benignos;
-
-30. Fisuras;
-
-31. Tiroidectomía;
-
-32. Frenorrafia;
-
-33. Coledocorrafia;
-
-34. Diástasis de rectos;
-
-35. Sello de agua;
-
-36. Extracción de cuerpos extraños en cualquier parte de cuerpo en quirófano;
-
-37. Extracción de cuerpos extraños en cualquier parte de cuerpo sin técnica quirúrgica;
-
-38. Orquidopexia;
-
-PAQUETE DE CIRUGÍA MENOR CORTA INSTANCIA
-
-39. Lipomas, nuevos quistes;
-
-40. Hernia umbilical;
-
-41. Hernia inguinal;
-
-42. Hernia hiatal;
-
-43. Apendicectomía;
-
-ODONTOLOGíA
-
-44. Consulta y plan de tratamiento;
-
-45. Apicoformación;
-
-46. Corona de acero cromo;
-
-47. Mantenedores de espacio;
-
-48. Sedación;
-
-49. Obturación resina fotocurable;
-
-50. Sellador de fosetas y fisuras;
-
-51. Guardas Oclusal;
-
-52. Incrustaciones;
-
-53. Coronas Metálicas;
-
-54. Prótesis Removible por Unidad Dental;
-
-55. Placas totales;
-
-56. Placa Monomaxilar;
-
-57. Rebases;
-
-58. Provisionales;
-
-59. Placa Parcial por Unidad de Dientes 1 a 3 Piezas;
-
-60. Placa Parcial por Unidad de Dientes 4 a 6 Piezas;
-
-61. Placa Parcial por Unidad de Dientes 7 a 9 Piezas;
-
-62. Placa Parcial por Unidad de Dientes 10 a 12 Piezas;
-
-63. Reparación de Prótesis;
-
-OPERATORIA
-
-64. Atención por cuadrante;
-
-65. Obturación con amalgama de plata;
-
-66. Obturación con resina compuesta;
-
-67. Obturación con IRM o con óxido de zinc;
-
-68. Restauración con corona de acero de cromo;
-
-69. Restauración con corona de celuloide;
-
-70. Cemento incrustaciones y corona;
-
-71. Aplicación de flúor;
-
-72. Exodoncia simple (por pieza) vía alveolar;
-
-73. Exodoncia múltiple con regularización;
-
-74. Exodoncia por disección;
-
-75. Cirugía preprotésica;
-
-76. Cirugía periapical;
-
-77. Cirugía parodontal;
-
-78. Cirugía ATM prótesis;
-
-79. Reducción cerrada de fractura mandibular;
-
-80. Reducción abierta de fractura mandibular;
-
-81. Cirugía mandíbula;
-
-82. Cirugía maxilar;
-
-83. Bimaxilar;
-
-84. Pulido de restauración;
-
-85. Cirugía de labio fisurado;
-
-86. Cirugía de paladar fisurado;
-
-87. Drenaje de absceso en quirófano;
-
-88. Drenaje de absceso en consulta externa;
-
-89. Excisión de neoplastia bucal con anestesia local;
-
-90. Excisión de neoplastia bucal con anestesia general;
-
-91. Excisión de neopl. bucal r. x. periap. y oclusal;
-
-92. Curaciones dentales;
-
-93. Limpieza cabitrón;
-
-94. Suturas dentales;
-
-95. Odontoxesis;
-
-96. Silicato;
-
-97. Dientes supernumerarios;
-
-98. Extracciones múltiples bajo anestesia;
-
-99. Extracción tercer molar;
-
-100. Obturación con ionómero de vidrio;
-
-TERAPIA PULPAR
-
-101. Recubrimientos pulpares;
-
-102. Pulpotomía piezas posteriores:
-
-103. Pulpotomía piezas anteriores:
-
-104. Urgencia pulpar;
-
-RADIOLOGÍA
-
-105. Técnica oclusal;
-
-106. Técnica periapical;
-
-PATOLOGÍA DENTAL
-
-107. Profilaxis;
-
-CIRUGÍA
-
-108. Frenivectomía;
-
-109. Ostiomielitis;
-
-110. Parodoncia;
-
-111. Gingivectomía;
-
-112. Plastia labial;
-
-113. Endodoncia;
-
-114. Distractor dactilar y mandibular;
-
-PLASTIAS GINGIVALES HIPERPLASTIAS
-
-115. Pordifenhidantoina cuadrante;
-
-116. Debridación y canalización de abscesos;
-
-117. Corrección de fistula oro-angral;
-
-118. Apicectomía;
-
-119. Bloqueos líticos a nivel trigeminal;
-
-120. Regularización de proc. alveolares residuales;
-
-121. Tulvidina y toma de biopsia;
-
-TRAUMATOLOGÍA
-
-122. Suturas menores;
-
-123. Fractura dentoalveolar/ férula aparte;
-
-124. Fractura mandibular estable;
-
-125. Fractura mandibular inestable y fer. (osteo);
-
-126. Fractura tercio medio gigométrico malar;
-
-127. Suturas mayores (10 puntos);
-
-EXODONCIA
-
-128. Implante normal (por pieza);
-
-129. Implante anormal (por pieza);
-
-130. Órganos dentarios retenidos (por pieza);
-
-ORTODONCIA
-
-131. Cuota por sesión;
-
-SALUD MENTAL
-
-132. Pruebas de personalidad;
-
-133. Pruebas vocacionales;
-
-134. Pruebas psicométricas (individual);
-
-135. Paquete de pruebas psicom.(más de 5 p) c/u;
-
-136. Pruebas MMPI;
-
-137. Pruebas de WAIS;
-
-138. Pruebas de Tat;
-
-139. Pruebas de Buck;
-
-140. Pruebas de Bender;
-
-141. Pruebas de Hábitat;
-
-142. Pruebas de Wipsi;
-
-143. Pruebas de Wisc;
-
-144. Terapia conyugal (por pareja de 1 a 3 sesiones);
-
-145. Terapia familiar (familia de 1 a 3 sesiones);
-
-146. Terapia individual (de 1 a 3 sesiones);
-
-147. Terapia de grupo de 1 a 3 sesiones por persona;
-
-148. Hospitalización psiquiátrica por día;
-
-149. Hospitalización psiquiátrica mensual;
-
-150. Desintoxicación alcohólica;
-
-151. Prueba de Rorschach;
-
-152. Inscripción a grupos de orientación (anual);
-
-153. Grupos de orientación (mensualidad);
-
-154. Paseos terapéuticos;
-
-DERMATOLOGÍA
-
-155. Biopsia;
-
-156. Electrodesecación;
-
-157. Electrofulguración;
-
-158. Crioterapia;
-
-159. Extirpación de verrugas;
-
-160. Extirpación de lunares;
-
-161. Estudios mocológicos;
-
-162. Rasurados;
-
-163. Criocirugía;
-
-164. Radioterapia superficial;
-
-165. Peeling químico superficial o medio;
-
-166. Aplicación tópica;
-
-167. Aplicación intralesionar;
-
-ESTUDIOS
-
-168. Estudio audiofoniatrico completo;
-
-169. Estudio audiométrico básico;
-
-170. Estudio audiométrico complementario;
-
-171. Estudio foniátrico;
-
-172. Colocación de auxiliar auditivo ext.;
-
-173. Estudio afasiológico;
-
-174. Estroboscopia;
-
-TERAPIAS DE REHABILITACIÓN
-
-175. 20 sesiones al mes (5 por semana);
-
-176. 12 sesiones al mes (3 por semana);
-
-177. 8 sesiones al mes (2 por semana);
-
-178. 4 sesiones al mes (1 por semana);
-
-179. 1 sesión;
-
-MEDICINA FÍSICA Y REHABILITACIÓN
-
-180. Sesión de terapia física;
-
-181. Sesión terapia ocupacional;
-
-182. Sesión terapia psicológica;
-
-183. Cardiometría por impedancia;
-
-184. Valoración cardiaca por paquete: prueba de esfuerzo;
-
-185. Monitoreo de control cardíaco;
-
-186. Terapia del lenguaje;
-
-GINECO - OBSTETRICIA
-
-187. Histerectomía abdominal;
-
-188. Histerectomía vaginal;
-
-189. Bartholinectomia;
-
-190. Conificación;
-
-191. Resección alta o baja de cérvix;
-
-192. Debridación de absceso mamario;
-
-193. Colpoperineorrafia (cirugía p/correc de estática pélvica);
-
-194. Resección de quistes y tumores benignos;
-
-195. Drenaje de fondo de saco;
-
-196. Reparación de fístulas besico vaginales;
-
-197. Excéresis de nódulo mamario;
-
-198. Extirpación de pólipo cervical;
-
-199. Laparoscopía diagnóstica;
-
-200. Salpingoclasia;
-
-201. Salpingo-oferectomía;
-
-202. Parto distócico;
-
-203. Embarazo extrauterino;
-
-204. Parto normal;
-
-205. Cesárea;
-
-206. Legrado;
-
-207. Extirpación de quiste de ovario;
-
-208. Traqueloplastia;
-
-209. Cerclaje de cérvix;
-
-210. Conización de cérvix;
-
-211. Cirugía abdominal no clasificada;
-
-212. Miomectomía;
-
-213. Tumoraciones anexiales;
-
-214. Plastia tubaria;
-
-215. Biopsia de glándula mamaria;
-
-216. Metroplastia;
-
-217. Cirugía menor dentro de quirófano;
-
-218. Laparoscopía exploradora;
-
-219. Inseminación artificial;
-
-220. Addaire;
-
-221. Cesárea-histerectomía;
-
-222. Colpoclisis;
-
-223. Cuadrantectomía;
-
-224. Extirpación de lipoma;
-
-225. Extirpación quiste Gardner;
-
-226. Extirpación pólipo cervical;
-
-227. Hernioplastia;
-
-228. Histeroscopia;
-
-229. Histerotomía;
-
-230. Histeroctomía radical o amplificada;
-
-231. Mastectomía radical;
-
-232. Plastia de pared;
-
-233. Reparación de fístula recto-vaginal;
-
-234. Salpingo-ovariolisis y adherenciolisis;
-
-235. Salpingectomía;
-
-236. Suspensión de cúpula vaginal;
-
-237. Uretropexia;
-
-238. Servicio de transfusión fetal;
-
-239. Servicio de monitorización fetal anteparto;
-
-240. Amniocentesis;
-
-241. Capacitación espermática;
-
-242. Fotodensitometria radiológica;
-
-243. Cariotipo en sangre periférica;
-
-244. Cromatina sexual;
-
-245. Cultivo líquido amniótico y tejidos;
-
-246. Criocirugía cérvix uterino;
-
-247. Asa diatérmica;
-
-248. Mastografía;
-
-PAQUETES DE GINECO - OBSTETRICIA
-
-249. Paq. Bartholinectomia o marzupialización;
-
-250. Paq. Himenectomía o aplicación de introito;
-
-251. Paq. Polipectomía;
-
-252. Paq. Cono cervical;
-
-253. Paq. Vaporización de cérvix con láser;
-
-254. Paq. Cerclaje;
-
-255. Paq. Legrado obstétrico;
-
-256. Paq. Legrado hemostático biopsia;
-
-257. Paq. Sinequiolisis con aplicación de D.I.U.;
-
-258. Paq. Extracción de D.I.U. bajo anestesia;
-
-259. Paq. Laparoscopia diagnóstica;
-
-260. Paq. Obstrucción tubaria bilateral de intervalo;
-
-261. Paq. Biopsia abierta de mama;
-
-262. Paq. Biopsia de piel;
-
-263. Paq. Biopsia de ganglios;
-
-264. Paq. Resección de mamas supernumerarias;
-
-265. Paq. Inseminación gift-fivte;
-
-266. Paq. Parto normal;
-
-267. Paq. Parto distócico;
-
-268. Paq. Cesárea;
-
-269. Paq. Histerectomía abdominal;
-
-270. Paq. Histerectomía vaginal;
-
-271. Paq. Colpoperineoplastia;
-
-NEUROLOGÍA Y NEUROCIRUGÍA
-
-272. Punción lumbar;
-
-273. Craneotomía;
-
-274. Craniectomía;
-
-275. Exploración de nervio periférico (plastias);
-
-276. Meningoplastia;
-
-277. Colocación de válvula Pudens (con sonda);
-
-278. Tratamiento quirúrgico de epilepsia;
-
-279. Abordaje de columna cervical vía anterior;
-
-280. Cirugía transfenoidal;
-
-281. Electroencefalografía;
-
-282. Electromiografía;
-
-283. Neurocirugía con rayo láser;
-
-284. Velocidad de conducción;
-
-285. Mapeo cerebral con potenciales o Beg.;
-
-286. Paquete de extirpación de condilomas vulvares o vaginales;
-
-NEUMOLOGÍA
-
-287. Punción transtorácica;
-
-288. Toracotomía;
-
-289. Toracotomía con resección;
-
-290. Toracotomía de proceso mediastinal;
-
-291. Decorticación pulmonar;
-
-292. Mioplastia;
-
-293. Toracoplastia;
-
-294. Pleurotomía;
-
-295. Mediastinotomía;
-
-296. Traqueotomía;
-
-297. Broncoscopia con brocoscopio rígido diagnóstico;
-
-298. Broncoscopia con brocoscopio lavado terapéutico;
-
-299. Fibrobroncoscopia cepillado lavado biopsia;
-
-300. Fibrobroncoscopia biopsia transbronquial;
-
-301. Fibrobroncoscopia lavado broncoalveolar;
-
-302. Fibrobroncoscopia cepillado selectivo;
-
-303. Fibrobroncoscopia biopsia punción transbronquial;
-
-304. Fibroncoscopia extracción de cuerpo extraño;
-
-305. Toracoscopia toma de biopsia o muest. de líquido;
-
-306. Laringoscopia directa e indirecta;
-
-307. Espirometría Pruebas Funcionales Pulmonares;
-
-308. Pletismografía;
-
-CIRUGÍA PLÁSTICA Y RECONSTRUCTIVA
-
-309. Ritidectomía;
-
-310. Fasiotomía;
-
-311. Mamas de reducción;
-
-312. Mamas en aumento;
-
-313. Lipectomia abdominal;
-
-314. Blefaroplastia;
-
-315. Otoplastia;
-
-316. Mentoplastia;
-
-317. Progmatismo;
-
-318. Dermoabrasión (peeling);
-
-319. Liposucción;
-
-320. Colocación de expansores;
-
-321. Maxilofacial;
-
-322. Colgajos miocutáneos;
-
-323. Colgajos;
-
-324. Microcirugía;
-
-325. Tenorrafias;
-
-326. Neurorrafias;
-
-327. Procesos combinados (tenorrafia/neurorrafia);
-
-328. Labio leporino y paladar hendido;
-
-329. Mastopexia;
-
-330. Plastia umbilical;
-
-331. Injertos de piel menores;
-
-332. Injertos de piel mayores;
-
-333. Cicatrices de manos;
-
-334. Cicatrices mayores;
-
-335. Plastia local (cicatrices mayores);
-
-336. Prótesis de mamas;
-
-337. Obturador L.P.H.;
-
-CIRUGÍA CARDIOVASCULAR
-
-338. Aplicación marcapaso temporal;
-
-339. Aplicación marcapaso definitivo;
-
-340. Coronariografía;
-
-341. Coronarioplastia;
-
-342. Trombosis coronaria;
-
-343. Plastia de válvula pulmonar/ aortica/ mitral;
-
-344. Estudio electrofisiológico (Aas de Hu);
-
-345. Apexcardiograma;
-
-346. Cateterismo cardiaco simple;
-
-347. Cateterismo cardiaco con angiografía;
-
-348. Angiografía de vasos periféricos;
-
-349. Ecocardiograma simple;
-
-350. Ecocardiograma con dopler;
-
-351. Electrocardiograma en reposo;
-
-352. Electrocardiograma de esfuerzo;
-
-353. Fonocardiograma;
-
-354. Corazón abierto;
-
-355. Corazón cerrado y grandes vasos;
-
-356. Aorta abdominal;
-
-357. Prueba de esfuerzo;
-
-358. Cirugía vascular de abdomen y tórax;
-
-359. Simpatectomía;
-
-360. Cirugía vascular periférica;
-
-361. Derivación atrioventricular;
-
-362. Anillos vasculares;
-
-OFTALMOLOGÍA
-
-363. Cataratas;
-
-364. Estrabismo;
-
-365. Pterigion y pinguécula;
-
-366. Retina;
-
-367. Chalazión;
-
-368. Dacrioscistectomía;
-
-369. Entropión y ectoprión (y quemadura);
-
-370. Extracción de cuerpos extraños;
-
-371. Glaucoma;
-
-372. Graduación de lentes;
-
-373. Fotocoagulación (rayo láser);
-
-374. Sondeo;
-
-375. Electronestacnografía;
-
-376. Ajustes de armazón de lentes;
-
-377. Fluorangiografía;
-
-378. Reconstrucción palpebral;
-
-379. Prótesis oculares;
-
-380. Enucleación;
-
-381. Trasplante de Córnea;
-
-382. Paq. Cirugía Cataratas FACCO;
-
-383. Paq. Cirugía Cataratas ECCO;
-
-OTORRINOLARINGOLOGÍA
-
-384. Extracción de cuerpos extraños en quirófano;
-
-385. Extracción de cuerpos extraños sin técnica quirúrgica;
-
-386. Audiometría tonal logoaudiometriaimpedanción;
-
-387. Electronistangnografía (electronistagmografía);
-
-388. Meringocentésis;
-
-389. Colocación del tubo de ventilación;
-
-390. Timpanotomía exploradora;
-
-391. Miringoplastia;
-
-392. Timpanoplastia;
-
-393. Mastoidectomía simple;
-
-394. Mastoidectomía con timpanoplastía;
-
-395. Tratamiento quirúrgico de parálisis facial;
-
-396. Mastoidectomía radical;
-
-397. Estapedectomia;
-
-398. Laberintectomia;
-
-399. Tratamiento quirúrgico de tumores malignos de oído;
-
-400. Tratamiento quirúrgico de tumores benignos de oído;
-
-401. Tratamiento quirúrgico de absceso otógenoendocraneano;
-
-402. Tratamiento quirúrgico estenosis del conducto auditivo externo;
-
-403. Tratamiento quirúrgico malformaciones congénitas de oído;
-
-404. Cirugía de pólipos nasales;
-
-405. Ligadura trans-antral de la arteria maxilar interna;
-
-406. Ligadura de carótida externa;
-
-407. Debridación de hematoma y/o absceso septal nasal;
-
-408. Tratamiento quirúrgico de sequias;
-
-409. Tratamiento de fractura nasal;
-
-410. Tratamiento quirúrgico atresia coanal;
-
-411. Corrección quirúrgico septum nasal;
-
-412. Rinoplastia;
-
-413. Rinoseptumplastia;
-
-414. Tratamiento quirúrgico de perforaciones dentales;
-
-415. Extirpación de tumores benignos en fosas nasales;
-
-416. Tratamiento quirúrgico de angiofibroma nasofaríngeo;
-
-417. Tratamiento quirúrgico de sinusitis frontal y/o etmoidal;
-
-418. Tratamiento quirúrgico de sinusitis maxilar (CaldwellLuc);
-
-419. Tratamiento quirúrgico de laberinto etmoidal;
-
-420. Maxilectomía;
-
-421. Amigdalectomía con o sin adenoidectomía;
-
-422. Tratamiento quirúrgico de ránula;
-
-423. Extirpación de glándula submaxilar;
-
-424. Oclusión de fístula oroantral;
-
-425. Taponamiento nasal;
-
-426. Laringofisura;
-
-427. Tratamiento quirúrgico de la parálisis de los abductores laríngeos;
-
-428. Laringectomias parciales;
-
-429. Procedimientos reconstructivos (colgajos laríngeos);
-
-430. Tratamiento quirúrgico de remanentes embrionarios del cuello;
-
-431. Laringoscopia, exploración microscopia de laringe;
-
-432. Obturadores por maxilectomia;
-
-433. Rinectomia prótesis nasal;
-
-PAQUETES DE OTORRINOLARINGOLOGÍA
-
-434. Extracción de cuerpo extraño nasal;
-
-435. Cirugía pólipos nasales;
-
-436. Tratamiento de fractura nasal;
-
-437. Corrección quirúrgica del septumnasal;
-
-438. Rinoseptumplastia;
-
-439. Sinusitis maxilar Cadwell;
-
-440. Amigdalectomía con o sin adenoidectomía;
-
-UROLOGÍA
-
-441. Nefrectomía;
-
-442. Pielilotomía;
-
-443. Cistostomía;
-
-444. Prostatectomía;
-
-445. Corrección de reflujo vesicouretral;
-
-446. Dilatación uretral;
-
-447. Punción de absceso prostático;
-
-448. Orquiectomía;
-
-449. Meatotomías;
-
-450. Diálisis peritoneal (con equipo);
-
-451. Diálisis peritoneal (sin equipo);
-
-452. Hemodiálisis (con equipo);
-
-453. Hemodiálisis;
-
-454. Extirpación de tumores retroperitoneales;
-
-455. Extirpación de tumores renales;
-
-456. Biopsia renal percutánea;
-
-457. Trasplante renal;
-
-458. Litotripsia;
-
-459. Colocación de catéter blando;
-
-460. Colocación de catéter para hemodiálisis;
-
-461. Exceresis de quiste de epidídimo;
-
-462. Prótesis testiculares;
-
-463. Circuncisión adulto;
-
-PAQUETES DE UROLOGÍA
-
-464. Prostactectomia;
-
-ORTOPEDIA, AMPUTACIÓN O DESARTICULACIÓN
-
-465. Brazo;
-
-466. Antebrazo;
-
-467. Muslo;
-
-468. Pierna;
-
-469. Mano;
-
-470. Pie;
-
-471. Dedo;
-
-472. Ortejo;
-
-ARTRODESIS
-
-473. Hombro;
-
-474. Columna;
-
-475. Cadera;
-
-476. Artroneumografia;
-
-477. Artrodésis;
-
-COXARTROSIS y GONARDROSIS
-
-478. Total;
-
-479. Parcial;
-
-FRACTURA DE CADERA
-
-480. Artroplastia total;
-
-481. Artroplastia parcial;
-
-482. Osteosíntesis;
-
-483. Elongación ósea;
-
-484. Extirpación discal;
-
-485. Laminectomía;
-
-HALLUS VALGUS
-
-486. Unilateral;
-
-487. Bilateral;
-
-LUXACIONES GLENOHUMERAL
-
-488. Miembro torácico reducción manual;
-
-489. Miembro torácico reducción quirúrgica;
-
-490. Radiocarpiana reducción manual;
-
-491, Radiocarpiana reducción quirúrgica;
-
-492. Dedos reducción manual;
-
-493. Dedos reducción quirúrgica;
-
-494. Miembro pélvico reducción manual;
-
-495. Miembro pélvico reducción quirúrgica;
-
-496. Rodilla reducción manual;
-
-497. Rodilla reducción quirúrgica;
-
-498. Tobillo reducción manual;
-
-499. Tobillo reducción quirúrgica;
-
-500. Pie reducción manual;
-
-501. Pie reducción quirúrgica;
-
-502. Columna reducción manual;
-
-503. Columna reducción quirúrgica;
-
-504. Realización de férulas de yeso;
-
-OSTEOPLASTIAS
-
-505. Húmero;
-
-506. Codo;
-
-507. Antebrazo;
-
-508. Mano;
-
-509. Dedo;
-
-510. Cadera;
-
-511. Fémur;
-
-512. Rodilla;
-
-513. Tibia y/o peroné;
-
-514. Tobillo;
-
-515. Pie;
-
-516. Columna;
-
-OSTEOSÍNTESIS
-
-517. Húmero;
-
-518. Codo;
-
-519. Antebrazo;
-
-520. Mano;
-
-521. Dedo;
-
-522. Cadera;
-
-523. Fémur;
-
-524. Rodilla;
-
-525. Menisectomia;
-
-526. Tibia y/o peroné;
-
-527. Tobillo;
-
-528. Pie;
-
-529. Columna;
-
-530. Meniscotomia y colocación de prótesis ortopédica;
-
-531. Liberación de canal;
-
-532. Retiro de material de osteosíntesis;
-
-OSTEOTOMÍAS
-
-533. Húmero;
-
-534. Codo;
-
-535. Antebrazo;
-
-536. Mano;
-
-537. Dedo;
-
-538. Cadera;
-
-539. Fémur;
-
-540. Rodilla;
-
-541. Tibia y/o peroné;
-
-542. Tobillo;
-
-543. Pie;
-
-544. Columna;
-
-545. Prótesis dactilar;
-
-RASPAS SECUESTRECTOMIA
-
-546. Húmero;
-
-547. Codo;
-
-548. Antebrazo;
-
-549. Mano;
-
-550. Dedo;
-
-551. Cadera;
-
-552. Fémur;
-
-553. Rodilla;
-
-554. Tibia y/o peroné;
-
-555. Pie;
-
-556. Columna;
-
-557. Vendas de yeso c/u (reposición);
-
-558. Tobillo;
-
-CIRUGÍA PEDIÁTRICA
-
-559. Hernioplastia inguinal unilateral;
-
-560. Hernioplastia inguinal bilateral;
-
-561. Hernioplastia umbilical;
-
-562. Hernioplastia diafragmática;
-
-563. Pilorotomía;
-
-564. Desinvaginación del intestino;
-
-565. Intervención del intestino;
-
-566. Intervenciones esplénicas;
-
-567. Intervenciones hepáticas
-
-568. Intervenciones de vía biliar;
-
-569. Atresias de intestino;
-
-570. Esplenectomía;
-
-571. Anastomosis de hígado, riñón y tubo digestivo;
-
-572. Atresia de esófago;
-
-573. Tumorectomias abdominales;
-
-574. Atresia rectal alta;
-
-575. Atresia rectal baja;
-
-576. Colostomía;
-
-577. Descenso intestinal;
-
-578. Ano imperforado;
-
-579. Ano húmedo;
-
-580. Oclusión intestinal;
-
-581. Fistula recto urinaria;
-
-582. Quiste idiopático;
-
-583. Perforación de intestino;
-
-584. Adherencias intestinales;
-
-585. Absceso residual de pared abdominal;
-
-586. Quiste tirogloso;
-
-587. Miectomia;
-
-588. Eventraciones, bridas, resección;
-
-589. Exónfalos simples;
-
-590. Exónfalos en dos tiempos;
-
-591. Estenosis ureteropielica unilateral;
-
-592. Estenosis ureteropielica bilateral: plastia bilateral;
-
-593. Fistula branquial (resección de fistula);
-
-594. Frenillo lingual corto: frenilectomía;
-
-595. Hipospadias: plastia de uretra peneana;
-
-596. Desinvaginación por taxis;
-
-CIRUGÍA CARDIOVASCULAR PEDIÁTRICA
-
-597. Blalock;
-
-598. Anastomosis troncovenoso auricular derecho;
-
-599. Anastomosis sistemático pulmonar;
-
-600. Bandaje de arteria pulmonar;
-
-601. Waterston;
-
-602. Drenaje de arteria pulmonar;
-
-603. Derivación espleno renal;
-
-604. Coartectomia;
-
-605. Rastelli;
-
-606. Rastelli con tubo valvulado;
-
-607. Substitución valvular (sin prótesis);
-
-608. Resección paquete varicoso;
-
-609. Corrección de fistula;
-
-610. Esplenoportografía;
-
-611. Corrección drenaje anómalo total venas pulmonares cierre;
-
-612. Sección y sutura de conducto (persistencia conducto arterial);
-
-NEUMOLOGÍA PEDIÁTRICA
-
-613. Gasometría;
-
-614. Pruebas funcionales respiratorias;
-
-NEUROCIRUGÍA PEDIÁTRICA
-
-615. Quiste pilonidal;
-
-616. Laminectomia;
-
-617. Plastia de meningocele;
-
-618. Plastia de meningocele craneano;
-
-619. Murcelación;
-
-620. Craneoplastia;
-
-621. Craneotomía o craniectomía;
-
-622. Derivación de líquido cefalorraquídeo;
-
-623. Colocación de reservorio de Omaya;
-
-624. Colocación de deriv. ventricular periton;
-
-UROLOGÍA PEDIÁTRICA
-
-625. Diálisis peritoneal con equipo;
-
-626. Diálisis peritoneal sin equipo;
-
-627. Biopsia renal;
-
-628. Trasplante de riñón-receptor;
-
-629. Trasplante de riñón-donador;
-
-630. Orquidopexia unilateral;
-
-631. Orquidopexia bilateral;
-
-632. Circuncisión;
-
-633. Circuncisión con plastibel y anestesia;
-
-634. Cicatriz fibrosa del prepucio;
-
-635. Corrección de hipospadias;
-
-636. Reflujo vesicouretral;
-
-637. Reimplante de ureteros;
-
-638. Valvas posteriores;
-
-639. Tumores de vejiga;
-
-PAQUETES DE UROLOGÍA PEDIÁTRICA
-
-640. Circuncisión;
-
-NEONATOLOGÍA
-
-641. Aspiración de secreciones;
-
-642. Fototerapia por día;
-
-643. Fototerapia por 1 hora;
-
-644. Intubación;
-
-645. Uso monitor apnea por día;
-
-646. Uso de monitor neonatal;
-
-647. Preparación alimentación parenteral;
-
-GASTROENTEROLOGÍA
-
-648. Hemorroidectomias;
-
-649. Extirpación de tumores benignos de ano o recto;
-
-650. Debridación de abscesos;
-
-651. Fistulectomias;
-
-652. Prolapso rectal;
-
-653. Colecistectomía;
-
-654. Colecistectomía con canales;
-
-655. Gastrectomía;
-
-656. Hernias diafragmáticas;
-
-657. Gastrostomía;
-
-658. Hemicolectomias o colectomias;
-
-659. Resección abdomino perineal;
-
-660. Transposición de colon;
-
-661. Laparotomía exploradora;
-
-662. Resecciones intestinales;
-
-663. Colostomía o cierre;
-
-664. Biopsia hepática;
-
-665. Rectosigmoidoscopia;
-
-666. Gastroscopia;
-
-667. Panendoscopia;
-
-668. Colonoscopia;
-
-669. Cirugía menor de esófago;
-
-670. Esclerosis de varices (por sesión);
-
-671. Dilataciones esofágicas (por sesión);
-
-672. Cirugía menor de recto;
-
-673. Curaciones proctológicas;
-
-674. Curaciones esofágicas;
-
-675. Laparoscopia diagnóstica;
-
-676. Cuerpos extraños en esófago y recto;
-
-677. Perfil rectal;
-
-678. Cirugía de páncreas;
-
-679. Abdomen agudo por perforación de víscera hueca;
-
-680. Endoscopía;
-
-681. Piloroplastía;
-
-682. Anoplastia perineal;
-
-683. Rectonectomia;
-
-684. Plastia local colecistectomía laparoscópica;
-
-685. Colectomia (resección de colon);
-
-686. Apendicetomía por laparoscopia;
-
-687. Colecistectomía por laparoscopia;
-
-PAQUETES DE GASTROENTEROLOGÍA
-
-688. Colecistectomía;
-
-689. Laparatomía exploradora;
-
-VIRUS DE INMUNODEFICIENCIA HUMANA
-
-690. Determinación de carga viral del VIH;
-
-691. Anticuerpos anti-VIH (ELISA);
-
-692. Paquete plaquetoferesis;
-
-693. Detección de anti-cuerpos VIH 1/2 (ELISA);
-
-694. Antígeno de superficie AgsHBV;
-
-695. Paquete de componente (sic) sanguíneos (p.f.c, paquete globular, concentrado plaquetario);
-
-696. Pruebas de escrutinio detección anti- VIH mediante aglutinación pasiva;
-
-697. Pruebas confirmatorias detección de anticuerpos contra virus hepatitis C (RIBA 3.0);
-
-698. Prueba confirmatoria para detección del antígeno de superficie del virus hepatitis B (Ags HBV);
-
-699. Prueba confirmatoria detección de anticuerpos contra virus de inmunodeficiencia humana (anti-VIH-1) Western Blot;
-
-700. Neutralización Abbott;
-
-701. Hematopoyéticas trasplante médula ósea;
-
-BACTERIOLOGÍA
-
-702. Bacteriología en fresco;
-
-703. Bacteriología frotis y tinción;
-
-704. Serotipificaciones;
-
-705. Investigación de Plasmodium (paludismo en gota gruesa);
-
-706. Cultivos en general;
-
-707. Cultivos anaerobios;
-
-INMUNOLOGÍA
-
-708. Estudio de líquido C.R.;
-
-709. Estudio de líquido Ascitis;
-
-710. Estudio de líquido Peritoneal;
-
-711. Estudio de líquido Sinovial;
-
-712. Reacciones febriles en placa;
-
-713. Reacciones febriles en tubo;
-
-714. Reacciones febriles en zona;
-
-715. V.D.R.L. cuantitativo;
-
-716. Eosinofilos en moco nasal;
-
-717. Eosinofilos en esputo
-
-718. Treponema inmunofluorescencia (prueba confirmatoria FTA-abs sífilis);
-
-719. Antiestreptolisinas;
-
-720. Proteínas c-reactivas;
-
-721. Factor reumatoide (prueba de látex );
-
-722. IgG;
-
-723. IgM;
-
-724. IgA;
-
-725. IgE;
-
-726. Complemento hemolítico C3
-
-727. Complemento hemolítico C4
-
-728. Células LE;
-
-729. Anticuerpos Toxoplasma gondiilgM (ELISA);
-
-730. Anticuerpos mononucleosis;
-
-731. Anticuerpos DNA;
-
-732. Anticuerpos antinúcleo;
-
-733. Anticuerpos Mitocondria;
-
-734. Anticuerpos TBG;
-
-735. Clamidia fluorescencia;
-
-736. Coombs directo;
-
-737. Coombs indirecto;
-
-738. Paul y Bunnell;
-
-739. Anticuerpos amibiasis;
-
-740. Antígeno carcinoembrionario (C E A);
-
-741. Alfa 1 feto proteína (A F P);
-
-742. Antígeno prostático (P A P);
-
-743. Ferritina;
-
-744. Antígeno extraíble del núcleo I (ENA I);
-
-745. Antígeno extraíble del núcleo II (ENA II);
-
-746. C.A. 15-3 (marcador tumoral);
-
-747. C.A. 125 (marcador tumoral);
-
-748. P.G.A. (marcador tumoral);
-
-749. C.A. 19-9 (marcador tumoral);
-
-750. Investigación antígeno HBVag asociado a hepatitis;
-
-751. Investigación de anticuerpos HBV asociados a hepatitis;
-
-752. Investigación anticuerpos HLA 827;
-
-753. Anticuerpos a histomas músculo esquelético;
-
-754. Anticuerpos antimusculo liso;
-
-755. Anticuerpos anticelulares parietales;
-
-756. Cadenas ligeras de inmunoglobulinas;
-
-757. Complemento hemolítico CH-50;
-
-758. Anticuerpos vs. Rubeola IgM e IgG;
-
-759. Determinación de xilosa;
-
-760. Anti-hepatitis A;
-
-761. HIV;
-
-762. Anti-hepatitis C;
-
-BIOQUÍMICA
-
-763. Glucosa;
-
-764. Glucosa postprandial;
-
-765. Curva de tolerancia a la glucosa 3 horas;
-
-766. Urea;
-
-767. Nitrógeno urea;
-
-768. Creatinina;
-
-769. Ácido úrico sérico;
-
-770. Bilirrubinas (directa e indirecta);
-
-771. Proteínas totales;
-
-772. Albumina;
-
-773. Globulinas;
-
-774. Colesterol total;
-
-775. Electroforesis lipoproteínas alfa, beta y prebeta;
-
-776. Electroforesis de proteínas;
-
-777. Dopamina
-
-778. Espermatobioscopia;
-
-779. Amonio;
-
-780. Determinación salicilatos en sangre;
-
-781. Reacciones seroluteicas cuantitativas;
-
-782. Ácido láctico;
-
-783. Determinación de niveles séricos (incluye 3 pbas.);
-
-784. Determinación de niveles séricos: carbamazepina;
-
-785. Determinación de niveles séricos: difenilhidantoína;
-
-786. Determinación de niveles séricos: ácido valproico;
-
-787. Ph y azucares reductores (heces);
-
-ENZIMAS
-
-788. T.G.O. (transaminasa glutámico oxalacéticas);
-
-789. T. G. P. (transaminasa glutamicopirúvicas);
-
-790. Fosfatasa alcalina;
-
-791. Fosfatasa ácida;
-
-792. F. Ac. fracción prostática;
-
-793. D.H.L. (deshidrogenasa latica);
-
-794. D.T.P.;
-
-795. Amilasa sérica o urinaria;
-
-796. Lipasa;
-
-797. C.P.K. creatinfosfoquinasa;
-
-798. D.H.L. isoenzimas;
-
-799. Colinesterasa;
-
-800. L.A.P. (lesinina amino peptitosa);
-
-801. Alfa 1 antitripsina;
-
-PRUEBAS BÁSICAS DE FUNCIONAMIENTO HEPÁTICO RENAL DIGESTIVO
-
-802. Depuración de bromosulfofenoftaleina;
-
-803. Floculación de timol;
-
-804: Turbidez de timol;
-
-805. Floculación de cefalin colesterol;
-
-806. Esterificación de colesterol;
-
-807. Síntesis de urea;
-
-808. Hierro sérico;
-
-809. Captación de fijación de hierro;
-
-810. Síntesis de trombina;
-
-811. Ácidos biliares;
-
-812. Concentración;
-
-813. Depuración de creatinina endógena;
-
-814. Relación osmolar;
-
-815. Cuenta minutada;
-
-816. Quimismo gástrico;
-
-817. Prueba de Hollander;
-
-818. Tolerancia d-xylosa;
-
-819. Pepsinógeno;
-
-820. Gastrina;
-
-821. Hemoglobina en heces;
-
-822. Carotenos;
-
-823. Prueba de Jigrl (prueba de tubo digestivo);
-
-824. Bilirrubinas (directa e indirecta);
-
-ELECTROLITOS
-
-825. Sodio;
-
-826. Potasio;
-
-827. Cloro;
-
-828. C02;
-
-829. P02;
-
-830. PC02;
-
-831. Ph;
-
-832. Osmolaridad;
-
-833. Magnesio;
-
-834. Litio;
-
-835. Fosforo;
-
-836. Calcio;
-
-837. Cloruros;
-
-838. Fosfato de calcio;
-
-839. Alfa 1;
-
-840. Alfa 2;
-
-841. Beta;
-
-842. Gamma;
-
-843. Relación alb/glob.;
-
-844. Urobilinogeno cuantitativo;
-
-LÍPIDOS
-
-845. Lípidos totales;
-
-846. Triglicéridos;
-
-847. H.D.L.colesterol (alfa. beta. y prebetalipoproeteínas.);
-
-848. Electroforesis de lipoproteínas;
-
-849. Grasas en heces;
-
-HORMONAS
-
-850. T.3;
-
-851. T.4;
-
-852. T.4 normalizado;
-
-853. T.S.H.;
-
-854. T.B.G.;
-
-855. Pregnandiol;
-
-856. Pregnantriol;
-
-857. Testosterona;
-
-858. Testosterona libre;
-
-859. Cortisol;
-
-860. Hidroxicorticoesteroides;
-
-861. Cetoesteroides;
-
-862. Cetogenicos;
-
-863. Catecolaminas totales;
-
-864. Adrenalina;
-
-865. Noradrenalina;
-
-866. Ácido vanilmandelico;
-
-867. Ácido homovanilico;
-
-868. Estriol;
-
-869. Estradiol;
-
-870. Progesterona;
-
-871. Serotomina;
-
-872. Aldosterona;
-
-873. Prueba de Thorn;
-
-874. Insulina;
-
-875. Glucagón;
-
-876. Hormona crecimiento;
-
-877. Hormona adenocorticotrófica;
-
-878. Hormona folículo estimulante;
-
-879. Hormona leutinizante;
-
-880. Prolactina;
-
-881. Antidiurética;
-
-882. Gonadotropina cualitativa;
-
-883. Gonadotropina cuantitativa;
-
-884. Lactógeno placentario;
-
-885. Paratohormona;
-
-886. Fracción "B" gonadotropina;
-
-EXAMEN DE ORINA
-
-887. Proteínas;
-
-888. Ácido diacetico;
-
-889. Mioglobina;
-
-890. Ácido úrico urinario;
-
-891. Hemosiderina en orina;
-
-892. Fenilcetonuria;
-
-893. Sedimento urinario;
-
-894. Células grasas;
-
-895. Investigación de hifas;
-
-896. Proteínas de Bence Jones;
-
-897. Acetona;
-
-PARASITOLOGÍA
-
-898. Prueba para inducción de parásitos;
-
-899. Coproparasitoscópico en serie de 3 muestras;
-
-900. Investigación enterobios;
-
-901. Investigación trofozoitos;
-
-902. Sangre oculta en heces;
-
-903. Ameba en fresco;
-
-HEMATOLOGÍA
-
-904. Cuenta de eritrocitos;
-
-905. Hemoglobina;
-
-906. Hematrocito;
-
-907. Cuenta de leucocitos;
-
-908. Fórmula diferencial;
-
-909. Observaciones especiales;
-
-910. Recuento de plaquetas;
-
-911. Recuento de reticulocitos;
-
-912. Velocidad sedimentación globular;
-
-913. Investigación hematozoarios;
-
-914. Fragilidad globular;
-
-915. Serie roja;
-
-916. Serie blanca;
-
-917. Prueba de bromelina directa;
-
-918. Pruebas cruzadas;
-
-919. Pruebas cruzadas (servicio a Establecimientos Privados);
-
-920. Determinación de grupo sanguíneo y factor RH;
-
-921. Pruebas de tendencia hemorr. (tipa.tp.tt.);
-
-922. Tiempo de tromboplastina parcial act.(tipa);
-
-923. Lisis de euglobulinas (fibrinólisis);
-
-924. Complemento hemolítico;
-
-925. Tinción de hemosiderina en medula osea;
-
-926. Búsqueda de hemosiderina serica;
-
-927. Prueba de RumpellLeede;
-
-928. Tiempo de coagulación;
-
-929. Tiempo de coagulación plasma recalcificado;
-
-930. Tiempo de protombina;
-
-931. Tiempo parcial de tromboplastina;
-
-932. Tiempo de trombina;
-
-933. Consumo de protombina;
-
-934. Retracción del coagulo;
-
-935. Fibrinógeno;
-
-936. HB A 1 C y caracterización de hemoglobina;
-
-937. Pancreolouril;
-
-938. Linfocitos CD 4 y CD 8;
-
-939. Plasmoferesis;
-
-940. Aglutina anti "B";
-
-PAQUETES DE ESTUDIO DE LABORATORIO
-
-941. Examen general de orina;
-
-942. Examen general de orina c/gonadotropina coreonica;
-
-943. Biometría hemática completa;
-
-944. Perfil de lípidos I (triglicéridos, lípidos y colesterol total);
-
-945. Perfil de lípidos II (triglicéridos, lípidos, colesterol total, colesterol de alta y baja densidad);
-
-946. Química sanguínea 6 elementos;
-
-947. Química sanguínea 12 elementos;
-
-948. Química sanguínea 23 elementos;
-
-949. Perfil hepático;
-
-950. Perfil quirúrgico;
-
-951. Perfil reumático;
-
-952. Perfil control de embarazo;
-
-953. Perfil tiroideo;
-
-954. Protocolo centinela de diarrea ( 3 est. lab);
-
-955. Cristalografía;
-
-956. Prueba inmunológica de embarazo (sangre);
-
-957. Prueba inmunológica de embarazo (orina);
-
-ANTIDOPING
-
-958. Examen antidoping incluye 4 pruebas;
-
-959. Examen antidoping: cocaína;
-
-960. Examen antidoping: canabinoides;
-
-961. Examen antidoping: opiáceos;
-
-962. Examen antidoping: benzodiacepinas;
-
-RADIOLOGÍA
-
-963. Teleterapia (5 a 25 sesiones);
-
-964. Braquiterapia manual (hospitalización 72-120 hrs);
-
-965. Braquiterapia con selectrón (2-4 hrs);
-
-966. Terapia superficial;
-
-967. Quimioterapia (intravenosa o intra-arterial);
-
-968. Estudio clínico preventivo;
-
-MEDICINA NUCLEAR
-
-969. Radioyodo (Aplicación de Yodo);
-
-970. Gammagrama tiroideo;
-
-971. Perfil ginecológico;
-
-972. Perfil paratiroideo;
-
-973. Perfil suprarrenal;
-
-974. Perfil oncológico;
-
-975. Perfil hipertensión renovascular;
-
-976. Perfil hipofisiario;
-
-977. Perfil perinatológico;
-
-978. Bazo;
-
-979. Cerebro;
-
-980. Corazón;
-
-981. Hígado;
-
-982. Gammagrama Mamario;
-
-983. Óseo;
-
-984. Páncreas;
-
-985. Pulmón;
-
-986. Útero;
-
-987. Venoso;
-
-988. Rastreo;
-
-989. Tratamiento;
-
-990. Mielograma;
-
-991. Esplenograma;
-
-992. Adenograma;
-
-993. Aspirado e interpretación de médula ósea;
-
-994. Esofagografía;
-
-995. Neumoperitoneo;
-
-996. Esofagograma 22 proyecciones;
-
-RAYOS X
-
-997. Torax p.a.;
-
-998. Costillas o esternón (toraxoseo);
-
-999. Columna vertebral cervical;
-
-1000. Columna vertebral dorsal;
-
-1001. Columna vertebral lumbosacra;
-
-1002. Columna vertebral estudio dinámico;
-
-1003. Pelvis a.p.;
-
-1004. Cráneo;
-
-1005. Macizo facial;
-
-1006. Huesos propios de la nariz perfilograma;
-
-1007. Orbitas por placa;
-
-1008. Senos paranasales;
-
-1009. Senos paranasales con tomografía;
-
-1010. Articulaciones temporomandibulares;
-
-1011. Silla turca;
-
-1012. Silla turca con tomografía;
-
-1013. Oídos Schuller;
-
-1014. Oídos Schuller con tomografía;
-
-1015. Mastoides convencional;
-
-1016. Conductos auditivos;
-
-1017. Mandíbula dos posiciones;
-
-1018. Lateral de cuello;
-
-1019. Laringe;
-
-1020. Laringe con tomografía a.p.;
-
-1021. Cuello a.p. y lateral partes blandas;
-
-1022. Mano;
-
-1023. Manos comparativas;
-
-1024. Muñeca, escafoides y carpo;
-
-1025. Antebrazo adulto;
-
-1026. Codo;
-
-1027. Codo comparativo;
-
-1028. Húmero;
-
-1029. Húmeros comparativos;
-
-1030. Hombro;
-
-1031. Hombros comparativos;
-
-1032. Clavícula;
-
-1033. Clavícula comparada;
-
-1034. Omóplato;
-
-1035. Omóplato comparativo;
-
-1036. Pie;
-
-1037. Tobillo;
-
-1038. Tobillo comparativo;
-
-1039. Pierna;
-
-1040. Rodilla;
-
-1041. Rótula;
-
-1042. Rodillas comparativas;
-
-1043. Fémur a.p.;
-
-1044. Fémur a.p. /lat.;
-
-1045. Fémur comparativo;
-
-1046. Medición de miembro pélvico;
-
-1047. Edad ósea;
-
-1048. Abdomen simple;
-
-1049. Céfalo pelvimetría;
-
-ESTUDIOS ESPECIALES
-
-1050. Histerosalpingografia;
-
-1051. Galactografía;
-
-1052. Mamografía;
-
-1053. Urografía excretora adulto;
-
-1054. Urografía excretora infantil;
-
-1055. Urografía excretora cronometrada Maxwell;
-
-1056. Urografía excretora por perfusión arata;
-
-1057. Uretrosistografía;
-
-1058. Cistografía retrograda;
-
-1059. Sialografía;
-
-1060. Broncografía;
-
-1061. Fistulografía;
-
-1062. Laringografía;
-
-1063. Mielografía lumbar, dorsal, cervical;
-
-1064. Flebografía bilateral;
-
-1065. Artrografía;
-
-1066. Arteriografía periférica o aortografía;
-
-1067. Arteriografía visceral, pulmonar o cerebral;
-
-1068. Extracción de cálculos, dilatación, angiop.;
-
-1069. Colecistografía (oral);
-
-1070. Colangiografía por perfusión;
-
-1071. Colangio por sonda;
-
-1072. Colon por enema;
-
-1073. Serie esófago gastroduodenal;
-
-1074. Tránsito intestinal;
-
-1075. Tránsito intestinal con serie esofágica gastroduodenal;
-
-1076. Colangiografía percutánea;
-
-1077. Serie cardiaca;
-
-1078. Angiografía selectiva abdominal;
-
-1079. Angiografía cerebral;
-
-1080. Pielografía ascendente;
-
-1081. Dacrosistografía;
-
-1082. Bulbografía;
-
-1083. Pielografía retrograda;
-
-1084. Cistoscopia;
-
-1085. Estudios de Holter;
-
-1086. Densitometría 2 Regiones (Cadera y Columna Lumbar);
-
-1087. Densitometría 3 Regiones (Muñeca, Cadera y Columna Lumbar);
-
-TOMOGRAFÍAS LINEALES
-
-1088. Tomografía de columna vertebral cervical;
-
-1089. Tomografía de columna vertebral dorsal;
-
-1090. Tomografía de columna vertebral lumbar;
-
-1091. Tomografía pulmonar;
-
-1092. Tomografía lineal de columna con medio de contraste;
-
-1093. Nefrotomografía simple - columna;
-
-1094. Tomografía laringe;
-
-TOMOGRAFÍAS COMPUTADAS
-
-1095. Tomografías computadas simple de cualquier región
-
-1096. Tomografías computadas con medio contraste
-
-ULTRASONIDO
-
-1097. Ultrasonido una región;
-
-1098. Ultrasonido dos regiones;
-
-1099. Sonografía;
-
-1100. Foliculograma;
-
-RESONANCIA MAGNÉTICA
-
-1101. Estudio normal de una región;
-
-1102. Estudio de una región con medio de contraste;
-
-1103. Estudio normal de dos regiones;
-
-1104. Estudio dos regiones con medio de contraste;
-
-1105. Estudio normal de tres regiones;
-
-1106. Estudio tres regiones con medio de contraste;
-
-PATOLOGÍA
-
-1107. Apéndice cecal, vesícula biliar;
-
-1108. Tumores pequeños de mama;
-
-1109. Tumores benignos de mama (pieza mayor);
-
-1110. Resecciones intestinales sin tumor;
-
-1111. Resecciones intestinales con tumor;
-
-1112. Tumores de glándulas salivales sin disección;
-
-1113. Tumores de glándulas salivales con disección;
-
-1114. Estómago sin tumor;
-
-1115. Estómago con tumor;
-
-1116. Segmentos o lóbulos pulmonares;
-
-1117. Próstata;
-
-1118. Riñón sin tumor;
-
-1119. Riñón con tumor;
-
-1120. Testículos sin tumor;
-
-1121. Testículos con tumor;
-
-1122. Extremidades con gangrena o infección;
-
-1123. Tumores retroperitoneales;
-
-1124. Amígdalas;
-
-1125. Ganglio linfático;
-
-1126. Médula ósea;
-
-1127. Bazo;
-
-1128. Laringe sin disección de cuello;
-
-1129. Laringe con disección de cuello;
-
-1130. Tiroides sin disección de cuello;
-
-1131. Tiroides con disección de cuello;
-
-1132. Inmunofluorescencia;
-
-1133. Inmuno-peroxidasa;
-
-1134. Anticuerpos monoclonales;
-
-1135. Microscopia electrónica;
-
-1136. Revisión de laminillas;
-
-1137. Laminillas para otra Institución;
-
-1138. Biopsia por saca-bocado de piel (Punch);
-
-1139. Biopsia incisional de piel;
-
-1140. Biopsia para rasurado de piel;
-
-1141. Biopsia por corretaje de piel;
-
-1142. Pieza quirúrgica de piel;
-
-1143. Cariotipo simple;
-
-1144. Cariotipo con bandas;
-
-1145. Sexocromatina;
-
-1146. Electroforesis;
-
-1147. Tamiz metabólico;
-
-1148. Papanicolaucérvico vaginal;
-
-1149. Serie hormonal;
-
-1150. Expectoración en serie;
-
-1151. Cepillado y lavado;
-
-1152. Ascitis liquido pleural y liquido cefaloraq.;
-
-1153. Orina en serie;
-
-1154. Pulmón glándula mamaria. Tiroides gangl. linf.;
-
-1155. Próstata tejido blando huesos;
-
-1156. Citología gástrica;
-
-1157. Biopsias Peq. Cérvix endom. estom.esof.intest.;
-
-1158. Ovarios sin tumor;
-
-1159. Útero sin anexos;
-
-1160. Ovarios con tumor;
-
-1161. Útero con anexos;
-
-1162. Exenteración anterior y posterior;
-
-1163. Exenteración total;
-
-1164. Fetos hasta 4 1/2 meses;
-
-1165. Placenta;
-
-1166. Biopsia de hígado y riñón;
-
-1167. Toma y estudio de médula ósea;
-
-ALERGIA
-
-1168. Citología de moco nasal;
-
-1169. Proteosa autovacuna;
-
-1170. Preciptiva;
-
-1171. Inmunoterapia (vacunas especificas);
-
-1172. Pruebas cutáneas intradérmicas 1 serie;
-
-1173. Pruebas cutáneas intradérmicas 2 series;
-
-1174. Pruebas cutáneas intradérmicas 3 series;
-
-1175. Pruebas cutáneas por transferencias 1 serie;
-
-1176. Pruebas cutáneas por transferencias 2 series;
-
-1177. Pruebas cutáneas por transferencias 3 series;
-
-INFECTOLOGÍA
-
-1178. Citología de L.C.R.;
-
-1179. Cultivo en orina y bacterioscópico BAAR (T B);
-
-1180. Tinción de Macchiavello;
-
-1181. Serología de amiba por hemoglutinaciónindir;
-
-TRAT. TERAPÉUTICO "CLÍNICA DEL DOLOR"
-
-1182. Bloqueo rama trigeminal;
-
-1183. Bloqueo ganglio gaser;
-
-1184. Bloqueo de ramas trigeminales terminales;
-
-1185. Bloqueo de nervio lingual;
-
-1186. Bloqueo de nervio gloso faríngeo;
-
-1187. Bloque de ganglio esfenopalatino;
-
-1188. Bloqueo de nervio occipital;
-
-1189. Bloqueo de raíz cervical profunda;
-
-1190. Bloqueo de plexo cervical superficial;
-
-1191. Bloqueo de nervio faríngeo;
-
-1192. Bloqueo de nervio frénico;
-
-1193. Bloqueo de nervio supraescapular;
-
-1194. Bloqueo simpático servicodorsal c/control. Rx;
-
-1195. Bloqueo simpático servicodorsal s/control. Rx;
-
-1196. Bloqueo peridual anti-inflamat. sin medicamento;
-
-1197. Bloqueo peridual lítico;
-
-1198. Bloqueo subaracnoideo lítico;
-
-1199. Bloqueo paravertebral;
-
-1200. Bloque de nervios intercostales;
-
-1201. Bloqueo de nervio abdominogenital;
-
-1202. Bloqueo de nervio crural;
-
-1203. Bloqueo de nervio fermorocutaneo;
-
-1204. Bloqueo de nervio obturador;
-
-1205. Bloqueo de nervio ciático;
-
-1206. Bloqueo de articulación sacro-iliaca;
-
-1207. Bloqueo de articulación coxo-femoral;
-
-1208. Bloqueo de nervio safeno;
-
-1209. Bloqueo trans-sacro;
-
-1210. Bloqueo de ramas terminales de miembros pelv.;
-
-1211. Bloqueo de articulación de rodillas;
-
-1212. Bloque caudal;
-
-1213. Bloqueo de Bursa anterior de hombro;
-
-1214. Bloqueo de plexo bronquial;
-
-1215. Bloqueos periféricos de miembros superiores;
-
-1216. Bloqueo de ganglio simpático lumb.contr.r.x;
-
-1217. Bloqueo de ganglio esplacico celiaco c/r.x;
-
-1218. Bloqueo de cápsula de hombro;
-
-1219. Bloqueo perivascular de arteria temporal;
-
-1220. Estimulación eléctrica cutánea;
-
-TERAPIA INTENSIVA
-
-1221. Día estancia en terapia intensiva (urgencias);
-
-1222. Electrocardiograma;
-
-1223. Alimentación artificial por día;
-
-AUXILIARES DE TRATAMIENTO
-
-1224. Lavado gástrico;
-
-1225. Sondeo vesical;
-
-1226. Venoclisis;
-
-1227. Aplicación de inyecciones intravenosas;
-
-1228. Aplicación de inyecciones intramusculares;
-
-1229. Vendajes compresivos;
-
-1230. Retiro de yeso;
-
-1231. Sangría;
-
-1232. Punción vesical suprapubica;
-
-1233. Radioterapia por sesión;
-
-1234. Curaciones;
-
-1235. Inhaloterapia por sesión;
-
-1236. Lavado de oídos;
-
-1237. Retiro de puntos;
-
-1238. Aseos quirúrgicos en quirófano;
-
-1239. Suturas mayores urgencias;
-
-1240. Suturas menores urgencias;
-
-SERVICIOS DIVERSOS
-
-1241. Vacuna antirrábica humana;
-
-1242. Vacuna antirrábica canina;
-
-1243. Día jaula para perro;
-
-1244. Inscripción club de madres;
-
-1245. Mensualidad club de madres;
-
-1246. Inscripción guarderías;
-
-1247. Mensualidad guarderías;
-
-1248. Tarjeta de salud;
-
-1249. Utilización de mortuorio;
-
-1250. Servicio de reposición de carnet;
-
-1251. Certificado prenupcial ( incluye v.d.r.l. y rx tórax);
-
-1252. Certificado médico (únicamente expedición );
-
-1253. Certificado internacional de vacunación;
-
-1254. Constancia de nacimiento;
-
-1255. Desratización con anticoagulante 500 gr.;
-
-1256. Expedición de credencial;
-
-1257. Servicio de ambulancia s/médico por kilometro;
-
-1258. Servicio de ambulancia c/médico por kilometro;
-
-1259. Servicio de ambulancia c/terapia intensiva por kilometro;
-
-1260. Fotocopia;
-
-1261. Certificado de lesiones;
-
-LABORATORIO ESTATAL DE SALUD PÚBLICA
-
-1.- ACTIVIDADES DE DIAGNÓSTICO Y REFERENCIA EN VIGILANCIA EPIDEMIOLÓGICA
-
-A.- AGENTES VIRALES
-
-1. INFECCIONES RESPIRATORIAS VIRALES
-
-VIRUS DE LA INFLUENZA/PARA INFLUENZA
-
-1262. Identificación de virus para influenza: panel (para influenza 1, para influenza 2, para influenza 3) en muestra de exudado faringeo o nasofaríngeo;
-
-1263. Identificación de adenovirus en muestra de exudado faringeo o nasofaríngeo;
-
-1264. Identificación de virus sincial respiratorio de muestra de exudado faríngeo o nasofaríngeo;
-
-1265. Panel de virus respiratorio (parainfluenza 1, 2, 3; adenovirus y virus sincial respiratorio);
-
-VIRUS HERPES SIMPLE
-
-1266. Determinación de anticuerpos IgM en muestra única de suero;
-
-2. INFECCIONES GASTROINTESTINALES VIRALES
-
-ROTAVIRUS
-
-1267. Identificación de RNA viral (rotaforesis);
-
-3. INFECCIONES EXANTEMÁTICAS VIRALES
-
-VIRUS DE SARAMPIÓN
-
-1268. Determinación en suero de anticuerpos IgM (ELISA);
-
-VIRUS DEL DENGUE
-
-1269. Determinación de anticuerpos IgM (ELISA) en muestra única de suero;
-
-1270. Determinación de anticuerpos IgG (ELISA) en muestra única de suero;
-
-1271. Determinación de anticuerpos NS1 (ELISA) en muestra única de suero;
-
-VIRUS DE LA RUBEOLA
-
-1272. Determinación de anticuerpos IgM (ELISA) en muestra única de suero;
-
-1273. Determinación de anticuerpos IgG (ELISA) en muestra única de suero;
-
-4. VIRUS DE TRANSMISIÓN SEXUAL
-
-VIRUS DE INMUNODEFICIENCIA HUMANA
-
-1274. Determinación de anticuerpos anti VIH-1/2 (por cada prueba de ELISA);
-
-1275. Prueba serológica confirmatoria (Western Blot);
-
-5. HEPATITIS VIRALES
-
-VIRUS A DE LA HEPATITIS (HAV)
-
-1276. Determinación en suero de anticuerpos IgM anti HAV (ELISA);
-
-VIRUS B DE LA HEPATITIS (HBV)
-
-1277. Perfil serológico de la HBV (HBSAG, IgM anti-HBC);
-
-VIRUS C DE LA HEPATITIS (HCV)
-
-1278. Determinación en suero de anticuerpos totales anti-HCV (ELISA);
-
-6. ZOONOSIS VIRALES VIRUS DE LA RABIA
-
-1279. Identificación del virus en material de necropsia o biopsia (IFD);
-
-1280. Determinación en suero de anticuerpos (totales) anti-virus rábico (ELISA):
-
-7. OTROS VIRUS CITOMEGALOVIRUS
-
-1281. Determinación de anticuerpos IgM en muestras únicas de suero (ELISA);
-
-1282. Determinación de anticuerpos IgG en pares de Sueros (ELISA);
-
-B. AGENTES BACTERIANOS
-
-1.- INFECCIONES GASTROINTESTINALES BACTERIANAS
-
-1283. Coprocultivo e identificación de agentes bacterianos;
-
-SALMONELLA TYPHI
-
-1284. Aislamiento a partir de muestras fecales;
-
-SALMONELLA SPP
-
-1285. Aislamiento a partir de muestras fecales;
-
-SHIGELLA SPP
-
-1286. Aislamiento a partir de muestras fecales;
-
-VIBRIO CHOLERAE
-
-1287. Aislamiento a partir de muestras fecales;
-
-ESCHERICHIA COLl
-
-1288. Aislamiento a partir de muestras fecales;
-
-2. INFECCIONES BACTERIANAS DE TRANSMISIÓN SEXUAL
-
-TREPONEMA PALLIDUM
-
-1289. Determinación de anticuerpos anti Treponema pallidum (FTA-ABS);
-
-1290. Prueba USR (anticuerpos anti cardiolipina-lecitina);
-
-3. ZOONOSIS BACTERIANAS BRUCELLA SPP
-
-1291. Perfil serológico de la brucelosis (Rosa de Bengala, SAT-2ME);
-
-LEPTOSPIRA SPP
-
-1292. Identificación de la bacteria en orina (microscopía de campo obscuro);
-
-1293. Determinación de anticuerpos séricos en muestras únicas (microaglutinación);
-
-4. MICROBACTERIAS (MYCOBACTERIUM TUBERCULOSIS)
-
-1294. Identificación de BAAR en expectoración (Ziehl-Neelsen);
-
-1295. Aislamiento a partir de esputo, lavado gástrico o secreciones;
-
-1296. Aislamiento a partir de orina;
-
-C. PROTOZOARIOS
-
-1.- PROTOZOARIOS INTESTINALES
-
-1297. Identificación morfológica en heces (coproparasitoscópico);
-
-2. PROTOZOARIOS SISTÉMICOS
-
-TOXOPLASMA GONDII
-
-1298. Determinación en suero de anticuerpos IgM (ELISA);
-
-TRYPANOSOMA CRUZI
-
-1299. Identificación morfológica del agente en muestras de sangre;
-
-1300. Determinación de anticuerpos séricos (IFI, ELISA, HAI) al menos dos pruebas diferentes;
-
-PLASMOSIUM SPP
-
-1301. Identificación diferencial de especies en muestras de sangre;
-
-D. HELMINTOS
-
-1.- HELMINTOS INTESTINALES
-
-1302. Identificación de parásitos en heces (coproparasitoscópico);
-
-2. TAENIA SPP
-
-1303. Determinación de anticuerpos anti-cisticercos de Taeniasolium en suero o LCR (ELISA);
-
-E. ARTRÓPODOS DE IMPORTANCIA MÉDICA
-
-1304. Determinación taxonómica de triatominos o insectos de importancia médica;
-
-1305. Estudio coprológico en triatómicos;
-
-F. EXÁMENES CITOLÓGICOS
-
-1306. Revisión de laminilla de citología cérvico - vaginal (Papanicolaou);
-
-G. OTROS (ENFERMEDADES NO INFECCIOSAS)
-
-1307. Cuantificación linfocitaria CD4-CD8;
-
-H. OTROS (ENFERMEDADES INFECCIOSAS)
-
-1308. Carga viral para virus de VIH;
-
-1309. Prueba confirmatoria de hepatitis C (RIBA);
-
-1310. Aislamiento e identificación de Streptococcusspp en exudado faríngeo;
-
-1311. Virus de hepatitis B, prueba confirmatoria para HBsAg;
-
-1312. Identificación de agentes bacterianos a partir de muestra fecal. Identificación de Vibrio parahaemolyticus;
-
-1313. Identificación de Bordetellapertussis o B. parapertussis (sindromecoqueluchoide), en muestra de exudado faríngeo;
-
-1314. Aislamiento e identificación de Haemophilusinfluenzae en exudado nasofaríngeo;
-
-1315. Aislamiento e identificación de Haemophilusinfluenzae en LCR;
-
-1316. Aislamiento e identificación de Neisseriameningitidis en LCR;
-
-II.- ACTIVIDADES DE DIAGNÓSTICO EN REGULACIÓN SANITARIA
-
-ANÁLISIS FISICOQUÍMICOS DE AGUA Y ALIMENTOS
-
-AGUA PURIFICADA O AGUA NATURAL
-
-1317. pH;
-
-1318. Color;
-
-1319. Cloro libre residual;
-
-1320. Conductividad;
-
-1321. Dureza (como CACO3);
-
-1322. Sólidos totales;
-
-1323. Sustancias activas al azul de metileno, SAAM en agua;
-
-1324. Flúor como ion flúor (agua, sal de consumo humano);
-
-1325. Cloruros;
-
-1326. Turbiedad;
-
-SAL DE CONSUMO HUMANO
-
-1327. Flúor como ion flúor;
-
-1328. Yodo a partir de yodatos;
-
-LECHE FLUIDA Y PRODUCTOS LÁCTEOS
-
-1329. Fosfatasa residual;
-
-1330. Oxidantes en Leche fluida;
-
-CÁRNICOS
-
-1331. Nitritos (NO3);
-
-OTROS
-
-1332. Determinación de clenbuterol (orina, suero e hígado);
-
-1333. Ácido fólico
-
-1334. Determinación de Metales Pesados en Loza Vidriada (plomo);
-
-1335. Determinación de EnterotoxinaEstafilococica en Alimentos;
-
-ANÁLISIS MICROBIOLÓGICO DE AGUA Y ALIMENTOS
-
-1336. Método para la cuenta de bacterias aerobias en placa;
-
-1337. Método para la determinación de bacterias coliformes por la técnica del NMP;
-
-1338. Investigación de Staphylococcusaureus;
-
-1339. Investigación de Salmonella spp en alimentos;
-
-1340. Métodos para la determinación de cuentas de mohos y levaduras en alimentos;
-
-1341. Investigación de Vibrio cholerae en pescados y mariscos;
-
-1342. Método para la determinación de bacterias coliformes totales en placa;
-
-1343. Método para la determinación de organismos coliforme fecales por la tecnica del NMP;
-
-1344. Investigación de Escherichiacoli;
-
-1345. PCR brucella en queso;
-
-1346. Lysteriamonocytogenes en queso;
-
-1347. Amiba de vida libre;
-
-1348. Investigación de Vibrio cholerae en agua;
-
-DETERMINACIÓN DE METALES PESADOS
-
-1349. Arsénico (por generador de hidruros);
-
-1350. Arsénico por técnica horno de grafito;
-
-1351. Plomo;
-
-1352. Manganeso;
-
-1353. Cobre (por flama);
-
-1354. Fierro (por flama);
-
-III. CURSOS Y ADIESTRAMIENTO DIVERSOS
-
-1355. Cursos y adiestramiento en servicio (por semana);
-
-1356. Cursos y adiestramiento en servicio (por sesión);
-
-CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA PARA ESTABLECIMIENTOS PRIVADOS
-
-1357. Componente de sangre (CE concentrado eritrocitario, PFC plasma fresco congelado, CP concentrado de plaquetas, CRIO crioprecipitado) por unidad;
-
-1358. Albúmina humana;
-
-1359. Procedimiento de aféresis;
-
-1360. Inmunoglobulina intravenosa 1g;
-
-1361. Panel de anti cuerpos irregulares;
-
-1362. Factor VIII de la coagulación;
-
-CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA
-
-PÚBLICO EN GENERAL
-
-1363. Pruebas cruzadas;
-
-1364. Determinación de grupo sanguíneo ABO y RH;
-
-1365. Coombs directo;
-
-1366. Componente de sangre (CE concentrado eritrocitario, PFC plasma fresco congelado, CP concentrado de plaquetas, CRIO crioprecipitado) por unidad;
-
-1367. Paquete plaquetoferesis;
-
-1368. Albúmina humana;
-
-1369. Procedimiento de aféresis;
-
-1370. Inmunoglobulina intravenosa 1g;
-
-1371. Panel de anti cuerpos irregulares;
-
-1372. Factor VIII de la coagulación;
-
-ALBERGUE TEMPORAL
-
-1373. Hospedaje por día;
-
-1374. Servicio de alimento (1 servicio);
-
-1375. Servicio de regadera;
-
-CENTRO DE CONTROL CANINO (ANTIRRÁBICO)
-
-1376. Observación Clínica de Agresores por Día;
-
-1377. Sacrificio Humanitario;
-
-1378. Vacunación Antirrábica fuera de Campaña;
-
-1379. Consulta Veterinaria;
-
-1380. Esterilización de Mascotas programa de Control Animal;
-
-III.- Servicios de Agua y Alcantarillado;
-
-1.- Derechos por prestación de servicios de agua en sus tarifas doméstica, comercial, industrial, oficial, municipales y tomas varias;
-
-2.- Agua en bloque por m3;
-
-3.- K-1: Cierre de llave de paso o válvula limitadora de flujo colocando precinto y sello;
-
-4.- K-2: Cierre en macho de banqueta;
-
-5.- K-3: Cierre en llave de paso o válvula limitadora de flujo colocando tapón ciego en contra izquierda del medidor, colocando precinto y sello en llave de paso o en la contratuerca izquierda;
-
-6.- K-4: Cierre en llave de paso o válvula limitadora de flujo colocando precinto y sello, retirando contratuerca izquierda del medidor y colocando tapón macho en llave de paso con sello;
-
-7.- K-5: Suspensión cortando tubo de alimentación e introduciendo tapón de madera, haciendo cuerda en tubo para colocar tapón cachucha con sello;
-
-8.- K-6: Suspensión en macho de banqueta realizando excavación (regularmente en banqueta de concreto) y cortando tubo de alimentación adelante del macho de banqueta;
-
-9.- K-7: Suspensión de servicio desde la red general, incluye demolición de pavimento, excavación en zanja, cierre de llave de inserción, corte de tubería y relleno a volteo;
-
-10.- R-1: Reconexión abriendo llave de paso o válvula limitadora de flujo, retirando precinto y sello. (con medidor instalado);
-
-11.- R-2: Reconexión abriendo macho de banqueta. (con medidor instalado);
-
-12.- R-3: Reconexión abriendo llave de paso o válvula limitadora de flujo, retirando tapón ciego en contra izquierda del medidor, retirando precinto y sello de la llave de paso o de la contratuerca izquierda. (con medidor instalado);
-
-13.- R-4: Reconexión abriendo llave de paso o válvula limitadora de flujo, retirando precinto y sello, colocando contratuerca izquierda del medidor y retirando tapón macho en llave de paso con sello. (con medidor instalado);
-
-14.- R-5: Reconexión retirando tapón del tubo de alimentación y conectando al cuadro del medidor. (con medidor instalado);
-
-15.- R-6: Reconexión por "suspensión en macho de banqueta realizando excavación (regularmente en banqueta de concreto) y cortando tubo de alimentación adelante del macho de banqueta";
-
-16.- R-7: Reconexión por “suspensión de servicio desde la red general, incluye demolición de pavimento, excavación en zanja, cierre de llave de inserción, corte de tubería y relleno a volteo";
-
-17.- Reposición de recibo;
-
-18.- Instalación de medidor de ½” tipo de chorro múltiple en cuadro;
-
-19.- Instalación de medidor de ½” tipo volumétrico en cuadro;
-
-20.- Suministro de medidor de ½” tipo de chorro múltiple;
-
-21.- Suministro de medidor de ½” tipo volumétrico;
-
-22.- Cambio de nombre o modificación de datos;
-
-23.- Alcantarillado;
-
-24.- Suministro de válvula expulsora de ½”;
-
-25.- Suministro de modulo de toque logar de 1/2”;
-
-26.- Suministro de modulo de radio izar de 1/2”;
-
-27.- Suministro de sensor de aire de 1/2” NPT;
-
-28.- Instalación de medidor de 3/4" tipo de chorro único, transmisión magnética;
-
-29.- Instalación de medidor de 1 1/4" tipo de chorro único transmisión magnética;
-
-30.- Instalación de medidor de 2" tipo de chorro único transmisión magnética;
-
-31.- Instalación de medidor de 4" tipo de chorro único transmisión magnética;
-
-32.- Instalación de modulo de toque logar para medidores de ½” hasta 4";
-
-33.- Instalación de modulo de radio izar para medidores de ½” hasta 4";
-
-34.- Instalación de sensor de aire 1/2" NPT;
-
-35.- Instalación de válvula expulsora de aire de ½”;
-
-36.- Reubicación de toma al exterior;
-
-37.- CONCEPTO NO AUTORIZADO
-
-38.- Vale para viaje de agua potable de 8 m3;
-
-39.- Vale de pipa de agua potable a la colonia 20 de Noviembre;
-
-40.- Vale de pipa de agua potable a la colonia Explanada del Palmar;
-
-41.- Vale de pipa de agua potable a las colonias la Camelia; El Cerezo y Loma Bonita;
-
-42.- Vale de pipa de agua potable a las colonias Rinconada San Antonio; Mariano Otero y Miguel Ramos Arizpe;
-
-43.- Vale de pipa de agua potable a la colonia Asta Bandera;
-
-44.- Pipas de agua potable en Real del Monte;
-
-45.- Pago de bases de concurso;
-
-46.- CONCEPTO NO AUTORIZADO
-
-47.- Derechos de alcantarillado para descarga doméstica;
-
-48.- Derechos de alcantarillado para descarga comercial e industrial;
-
-49.- Derechos de alcantarillado para descarga a fraccionamientos;
-
-50.- Derechos de conexión de agua y alcantarillado para contratación de toma domiciliaria con tarifa domestica;
-
-51.- Derechos de conexión de agua y alcantarillado para contratación de tomas comerciales para un gasto de 0.005 Litros por Segundo en la zona norte;
-
-52.- Derechos de conexión de agua y alcantarillado para contratación de fraccionamientos por lote en desarrollos de interés social;
-
-53.- Derechos de conexión de agua potable para contratación de tomas domiciliarias con tarifas comerciales, industriales y de servicio público, en la zona norte por cada Litro por Segundo;
-
-54.- Derechos de conexión de agua potable para contratación de tomas domiciliarias con tarifas comerciales, industriales y de servicio público, en la zona sur por cada Litro por Segundo;
-
-55.- Derechos de conexión de agua potable que deberá pagar el urbanizador de fraccionamientos de interés medio o interés social, que no estén comercializando las viviendas con Infonavit, ubicados en la zona norte por cada Litro por Segundo;
-
-56.- Derechos de conexión de agua potable que deberá pagar el urbanizador de fraccionamientos de interés medio o interés social, que no estén comercializando las viviendas con Infonavit, ubicados en la zona sur por cada Litro por Segundo;
-
-57.- Derechos de conexión de agua potable que deberá pagar el urbanizador de fraccionamientos de interés social, que estén comercializando las viviendas con Infonavit, ubicados en cualquier zona / excepto sistemas externos) por cada Litro por Segundo;
-
-58.- Derechos de conexión de agua potable que deberá pagar el urbanizador de fraccionamientos de cualquier tipo, ubicados en la zona de influencia de sistemas externos, por cada Litro por Segundo;
-
-59.- Costo de elaboración de presupuestos de ampliación de red solicitada;
-
-60.- Costo de estudio de factibilidad de servicio para comercios, industrias y uso público de 0 a 100 m2;
-
-61.- Costo de estudio de factibilidad de servicio para comercios, industrias y uso público de 101 a 300 m2;
-
-62.- Costo de estudio de factibilidad de servicio para comercios, industrias y uso público de 301 a 600 m2;
-
-63.- Costo de estudio de factibilidad de servicio para comercios, industrias y uso público de 601 a 1,000 m2;
-
-64.- Costo de estudio de factibilidad de servicio para fraccionamientos, comercios, industrias de 1001 a 5000 m2;
-
-65.- Costo de estudio de factibilidad de servicio para fraccionamientos, comercios, industrias de 5001 a 10,000 m2;
-
-66.- Costo de estudio de factibilidad de servicio para fraccionamientos, comercios, industrias de mas de 10,000 m2;
-
-67.- Presupuesto de tomas domiciliarias;
-
-68.- Metro lineal de bacheo de concreto en instalación de toma nueva (incluye costo de material y mano de obra);
-
-69.- Metro lineal de bacheo de asfalto en instalación de toma nueva (incluye costo de material y mano de obra);
-
-70.- Metro lineal de bacheo de adoquín en instalación de toma nueva (incluye costo de material y mano de obra);
-
-71.- Elaboración de presupuesto para descarga domiciliaria;
-
-72.- Inspección detallada para fraccionamientos en el proceso de emisión de certificación u opinión técnica para tubería de 2" a 4", hasta una longitud de 500 m;
-
-73.- Inspección detallada para fraccionamientos en el proceso de emisión de certificación u opinión técnica para tubería de 6”, hasta una longitud de 500 m;
-
-74.- Inspección detallada para fraccionamientos en el proceso de emisión de certificación u opinión técnica para tubería de 8”, hasta una longitud de 500 m;
-
-75.- Inspección detallada para fraccionamientos en el proceso de emisión de certificación u opinión técnica para tubería de 10”, hasta una longitud de 500 m;
-
-76.- Inspección detallada para fraccionamientos en el proceso de emisión de certificación u opinión técnica para tubería de 12”, hasta una longitud de 500 m;
-
-77.- Inspección detallada para fraccionamientos en el proceso de emisión de certificación u opinión técnica para tubería de 14”, hasta una longitud de 500 m;
-
-78.- Supervisión a fraccionamientos;
-
-79.- Certificación, revisión de proyecto ejecutivo en fraccionamientos de 0 a 500 lotes, realizados por los fraccionadores, que incluye memorias descriptivas, memoria de cálculo, planos, especificaciones de construcción, una vez que cumpla con todo lo anterior;
-
-80.- Certificación, revisión de proyecto ejecutivo en fraccionamientos de 501 a 3000 lotes, realizados por los fraccionadores, que incluye memorias descriptivas, memoria de cálculo, planos, especificaciones de construcción, una vez que cumpla con todo lo anterior;
-
-81.- Supervisión de construcción de descargas domiciliarias;
-
-82.- Brigada de desazolve con equipo Vactor;
-
-83.- Brigada de desazolve con equipo Vactor a usuarios con tarifa comercial;
-
-84.- Prueba de laboratorio para agua residual demanda química de oxígeno (DQO);
-
-85.- Prueba de laboratorio para agua residual grasas y aceites;
-
-86.- Prueba de laboratorio para agua residual detergentes (SAAM);
-
-87.- Prueba de laboratorio para agua residual nitrógeno amoniacal;
-
-88.- Prueba de laboratorio para agua residual nitrógeno orgánico;
-
-89.- Prueba de laboratorio para agua residual fosfatos;
-
-90.- Prueba de laboratorio para agua residual fenoles;
-
-91.- Prueba de laboratorio para agua residual demanda bioquímica de oxígeno. (DBO);
-
-92.- Prueba de laboratorio para agua residual fijación de oxígeno disuelto;
-
-93.- Prueba de laboratorio para agua residual sólidos totales;
-
-94.- Prueba de laboratorio para agua potable sólidos totales;
-
-95.- Prueba de laboratorio para agua potable coliformes totales;
-
-96.- Prueba de laboratorio para agua residual coliformes totales;
-
-97.- Prueba de laboratorio para agua potable alcalinidad;
-
-98.- Prueba de laboratorio para agua potable dureza total;
-
-99.- Prueba de laboratorio para agua potable fierro;
-
-100.- Prueba de laboratorio para agua potable manganeso;
-
-101.- Prueba de laboratorio para agua potable fluoruros;
-
-102.- Prueba de laboratorio para agua potable cloruros;
-
-103.- Prueba de laboratorio para agua potable sulfatos;
-
-104.- Prueba de laboratorio para agua residual nitratos;
-
-105.- Prueba de laboratorio para agua potable nitratos;
-
-106.- Prueba de laboratorio para agua potable oxígeno consumido en medio ácido;
-
-107.- Prueba de laboratorio para agua potable temperatura;
-
-108.- Prueba de laboratorio para agua residual temperatura;
-
-109.- Prueba de laboratorio para agua potable P.H;
-
-110.- Prueba de laboratorio para agua residual P.H;
-
-111.- Prueba de laboratorio para agua residual conductividad;
-
-112.- Prueba de laboratorio para agua potable conductividad;
-
-113.- Prueba de laboratorio para agua residual turbiedad;
-
-114.- Prueba de laboratorio para agua potable turbiedad;
-
-115.- Prueba de laboratorio para agua potable color;
-
-116.- Prueba de laboratorio para agua residual color;
-
-117.- Prueba de laboratorio para agua residual sólidos en aguas residuales (incluye sólidos totales, sólidos suspendidos totales, sólidos sedimentables y sólidos suspendidos volátiles);
-
-118.- Prueba de laboratorio para agua potable coliformes fecales;
-
-119.- Prueba de laboratorio para agua residual coliformes fecales;
-
-120.- Sólidos sedimentables;
-
-121.- Sólidos suspendidos totales;
-
-122.- Sólidos suspendidos volátiles;
-
-123.- Verificación de pipas agua no potable;
-
-124.- Verificación de pipas agua potable;
-
-125.- Desinfección de pipas;
-
-126.- Registro de pipas;
-
-127.- Caudal a empresas;
-
-128.- Prueba de laboratorio para agua potable n-nitritos;
-
-129.- Prueba de laboratorio para agua potable dureza calcio;
-
-130.- Toma de muestra residual o potable en la cuidad y su zona conurbada;
-
-131.- Toma de muestra residual o potable un radio de 61 a 150 km;
-
-132.- Toma de muestra residual o potable un radio de 151 a 300 km;
-
-133.- Registro descarga agua residual microempresa;
-
-134.- Registro descarga agua residual pequeña empresa;
-
-135.- Registro descarga agua residual mediana empresa;
-
-136.- Registro descarga agua residual grande empresa;
-
-137.- Resello descarga agua residual microempresa;
-
-138.- Resello descarga agua residual pequeña empresa;
-
-139.- Resello descarga agua residual mediana empresa;
-
-140.- Resello descarga agua residual grande empresa;
-
-141.- Indices de contaminación;
-
-142.- Saneamiento;
-
-143.- Baja del padrón de usuarios o cancelación de contrato (trámite administrativo);
-
-144.- Cambio de ubicación de la toma;
-
-145.- Constancia de no adeudo;
-
-146.- Constancia de no instalación de toma;
-
-147.- Visitas de inspección domiciliaria, realizada dentro de un radio de 0 a 10 km.;
-
-148.- Visitas de inspección domiciliaria, realizada dentro de un radio de más de 10 hasta 15 km;
-
-149.- Visitas de inspección domiciliaria, realizada dentro de un radio de más de15 km;
-
-150.- Servicio medido municipal de 0-12M3;
-
-151.- Servicio medido municipal de 12.01-25M3;
-
-152.- Servicio medido municipal de 25.01-35M3;
-
-153.- Servicio medido municipal de 35.01-50M3;
-
-154.- Servicio medido municipal de 50.01-75M3;
-
-155.- Servicio medido municipal de 75.01-100M3;
-
-156.- Servicio medido municipal de 100.01-150M3;
-
-157.- Servicio medido municipal de 150.01-250M3;
-
-158.- Servicio medido municipal de 250.01 en adelante;
-
-159.- Toma instalada sin servicio;
-
-160.- Prestación de servicios de derechos de agua, tarifa especial para personas afiliadas al INSEN, pensionados y jubilados;
-
-161.- Toma instalada servicio restringido hasta 2 m3;
-
-162.- Costo m3 extra hasta 3 m3;
-
-163.- Cortadora de pavimento metro lineal;
-
-164.- Excavación por metro cúbico;
-
-165.- Construcción de registros;
-
-166.- Demolición de pavimento metro cúbico;
-
-167.- Reposición de pavimento metro cúbico;
-
-168.- Permiso de ruptura y reposición de pavimento;
-
-169.- Rescisión y contratación;
-
-170.- Reinstalación;
-
-171.- Estudio de factibilidad;
-
-172.- Constancia de no adeudo;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-173.- Contratación y conexión doméstico, escuelas, servicios municipales, comercial e industrial;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-174.- Conexión a fraccionamientos e industrias, por litro por segundo;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-175.- Conexiones;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-IV.- Servicios de Desarrollo Urbano:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-1.- Elaboración de Escrituras por lote habitacional, incluye oficios de trámite para avalúo y traslado de dominio;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-2.- Elaboración de escrituras de lote con vivienda de un nivel;
-
-3.- Expedición de escrituras de lote comercial;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-4.- Orden de escrituración por lote;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-5.- Orden de escrituración por casa;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-6.- Por actualización o reexpedición de orden de escrituración;
-
-7.- Actualización de solicitudes de avalúo y traslado de dominio;
-
-8.- Cesión de derechos lote habitacional;
-
-9.- Cesión de derechos lote comercial;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-10.- Cesión de derechos lote casa-habitacional;
-
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
-
-11.- Expedición de copias de documentos en archivo: primera hoja; por las siguientes.
-
-12.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-13.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-14.- Expedición de constancias de propiedad;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-15.- Entrega física de lote por segunda vez;
-
-16.- Elaboración de croquis de localización por lote;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-17.- Expedición de constancias de no invasión fraccionamientos, áreas verdes u otros;
-
-18.- Derechos de preferencia;
-
-19.- Reposición de acta entrega;
-
-20.- Levantamiento topográfico;
-
-21.- Proyecto de lotificación;
-
-22.- Proyecto de agua potable;
-
-23.- Proyecto de alcantarillado sanitario;
-
-24.- Marcado de lotes;
-
-25.- Copia de plano;
-
-26.- Regularización de la propiedad;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-V.- Servicios Culturales y Recreativos:
-
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
-
-1.- Cuota de acceso al museo, niño, 3a. edad y personas con discapacidad;
-
-2.- Cuota de acceso al museo, adulto;
-
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
-
-3.- Cuota de acceso al planetario, niño, 3a. edad y personas con discapacidad;
-
-4.- Cuota de acceso al planetario, adulto;
-
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
-
-5.- Cuota de acceso al observatorio, niño, 3a. edad y personas con discapacidad;
-
-6.- Cuota de acceso al observatorio, adulto;
-
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
-
-7.- Cuota de acceso al museo y planetario, niño, 3a. edad y personas con discapacidad;
-
-8.- Cuota de acceso al museo y planetario, adulto;
-
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
-
-9.- Cuota de acceso al museo y observatorio, niño, 3a. edad y personas con discapacidad;
-
-10.- Cuota de acceso al museo y observatorio, adulto;
-
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
-
-11.- Cuota de acceso al planetario y observatorio, niño, 3a. edad y personas con discapacidad;
-
-12.- Cuota de acceso al planetario y observatorio, adulto;
-
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
-
-13.- Cuota de acceso al museo, planetario y observatorio niño, 3a. edad y personas con discapacidad;
-
-14.- Cuota de acceso al museo, planetario y observatorio adulto;
-
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
-
-15.- Cuota de acceso para corredor temático de dinosaurios, niño, 3a. edad y personas con discapacidad;
-
-16.- Cuota de acceso para corredor temático de dinosaurios, para visitantes con carnet del hospital;
-
-17.- Cuota de acceso a ciclo normal de cine;
-
-18.- Cuota de acceso a ciclo especial de cine;
-
-19.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-20.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-21.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-22.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-23.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-24.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-25.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-26.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-27.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-28.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-29.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-30.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-31.- Cursos y Talleres;
-
-32.- Cursos semestrales en sistema escolarizado;
-
-33.- Cursos libres semestrales de 24 a 40 horas al semestre;
-
-34.- Cursos libres semestrales de 49 a 96 horas el semestre;
-
-35.- Cursos libres semestrales de 97 a 144 horas el semestre;
-
-36.- Cursos especializados en alguna disciplina de las artes, hasta 40 horas;
-
-37.- Cursos especializados en alguna disciplina de las artes, más de 40 horas;
-
-38.- Curso de verano;
-
-39.- Talleres dirigidos a niños;
-
-40.- Talleres de capacitación;
-
-41.- Talleres especializados;
-
-42.- Talleres de verano;
-
-43.- Diplomados especializados;
-
-44.- Expedición de certificaciones de expedientes que obren en sus archivos y que incluyan hasta 35 hojas;
-
-45.- Hoja adicional a la expedición de certificaciones de expedientes que rebasen el límite de 35 hojas, que obren en sus archivos y;
-
-46.- Registro y emisión de credencial para préstamo de libros a domicilio, adultos y niños;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-VI.- Servicios en Materia Ambiental:
-
-1.- Autorización de centros de verificación vehicular fijo y móvil;
-
-2.- Autorización de apertura de talleres PIREC;
-
-3.- Autorización de modificaciones a proyectos;
-
-4.- Autorización de cambio de domicilio de los centros de verificación vehicular;
-
-5.- Ampliación del servicio a través de nuevas líneas;
-
-6.- Ampliación de cobertura en el servicio del centro de verificación vehicular móvil;
-
-7.- Ampliación de plazos y términos de proyectos;
-
-8.- Análisis y recomendaciones técnicas por informe preventivo;
-
-9.- Análisis y recomendaciones técnicas por manifiesto de impacto ambiental, modalidad particular;
-
-10.- Análisis y recomendaciones técnicas por manifiesto de impacto ambiental, modalidad regional;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-11.- Capacitación para acreditamiento como técnico verificador y responsable administrativo;
-
-12.- Cambio de nombre, denominación o razón social del centro de verificación vehicular;
-
-13.- Certificado y holograma de aprobación general;
-
-14.- Certificado y holograma 0 (cero);
-
-15.- Certificado y holograma 00 (doble cero);
-
-16.- Certificado no reportado al Consejo;
-
-17.- Compulsa de documentos;
-
-18.- Cuota de admisión al Parque Ecológico Cubitos por automóvil;
-
-19.- Cuota de admisión al Parque Ecológico Cubitos por combi;
-
-20.- Cuota de admisión al Parque Ecológico Cubitos por microbús;
-
-21.- Cuota de admisión al Parque Ecológico Cubitos por autobús;
-
-22.- Cuota de admisión para niños;
-
-23.- Cuota de admisión para adultos;
-
-24.- Expedición de holograma 0 (cero);
-
-25.- Expedición de holograma 00 (doble cero);
-
-26.- Expedición de reposiciones de constancias y/o certificados de verificación vehicular, del semestre inmediato anterior o en curso;
-
-27.- Expedición de copias compulsadas de documentos;
-
-28.- Evaluación del manifiesto y registro de empresas generadoras de residuos industriales no peligrosos;
-
-29.- Factibilidad en materia ambiental a proyectos industriales, habitacionales y de servicios propuestos en la Entidad;
-
-30.- Gafetes de acreditación;
-
-31.- Inscripción o por la renovación en el Padrón de Prestadores de Servicios Técnicos Ambientales (PPSTA);
-
-32.- Obtención de la Licencia Ambiental Estatal por micro industria o servicio;
-
-33.- Obtención de la Licencia Ambiental Estatal por pequeña industria o servicio;
-
-34.- Obtención de la Licencia Ambiental Estatal por mediana industria o servicio;
-
-35.- Obtención de la Licencia Ambiental Estatal por gran industria o servicio;
-
-36.- Obtención de la Licencia Ambiental Estatal por bancos pétreos;
-
-37.- Obtención de la Licencia Ambiental Estatal por ladrilleras;
-
-38.- Pérdida o extravío del folio de multa;
-
-39.- Por día de retraso en la entrega de discos sps, bitácora o curvas de calibración, entrega de informe mensual o papelería y multas;
-
-40.- Por día de retraso (días naturales) en la entrega de curvas de calibración y/o fianza;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-41.- Recepción de solicitudes y evaluación de campo - gabinete para la apertura de nuevos centros de servicio;
-
-42.- Recepción de solicitudes y evaluación de campo gabinete para la apertura de talleres PIREC;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-43.- Recepción, evaluación y dictaminación de informes preventivos en materia de Impacto Ambiental;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-44.- Recepción, evaluación y dictaminación de manifiestos de Impacto Ambiental, con superficies de una a cinco hectáreas;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-45.- Recepción, evaluación y dictaminación de manifiestos de Impacto Ambiental, con superficies de cinco a diez hectáreas;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-46.- Recepción, evaluación y dictaminación de manifiestos de Impacto Ambiental, con superficies de diez a veinte hectáreas;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-47.- Recepción, evaluación y dictaminación de manifiestos de Impacto Ambiental, con superficies de veinte a cuarenta hectáreas;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-48.- Recepción, evaluación y dictaminación de manifiestos de Impacto Ambiental, con superficies de más de cuarenta hectáreas;
-
-49.- Recepción, evaluación y dictaminación de estudios de riesgo ambiental, por capacidad de almacenamiento hasta 100,000 litros;
-
-50.- Recepción, evaluación y dictaminación de estudios de riesgo ambiental, para capacidad de almacenamiento mayor de 100,000 litros;
-
-51.- Recepción y análisis de la Cédula de Operación Anual de micro, pequeña, mediana o gran industria o servicio;
-
-52.- Recepción y análisis de la Cédula de Operación Anual de bancos pétreos;
-
-53.- Recepción y análisis de la Cédula de Operación Anual de ladrilleras;
-
-54.- Renovación de la autorización del centro de verificación vehicular fijo y móvil;
-
-55.- Revisión de expedientes y verificación en campo para emisión de constancias de los licenciamientos;
-
-56.- Reposición de documentos;
-
-57.- Servicio de asesoría para estudios sobre medio ambiente y desarrollo sustentable, en sus modalidades: general, semidetallado y detallado;
-
-58.- Servicio de formulación y evaluación de proyectos local;
-
-59.- Servicio de formulación y evaluación de proyectos municipal;
-
-60.- Servicio de formulación y evaluación de proyectos regional;
-
-61.- Servicio de formulación y evaluación de proyectos estatal;
-
-62.- Servicio de asesoría y capacitación;
-
-63.- Verificación vehicular y la expedición del certificado a vehículos que utilicen gasolina y gas L.P;
-
-64.- Verificación vehicular y la expedición del certificado a vehículos que utilicen diesel;
-
-65.- Verificación después de los 15 días naturales del periodo que corresponda;
-
-66.- Verificación vehicular extemporánea, para cualquier modalidad de holograma (general “0”, “00”);
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-VII.- Servicios de Transporte;
-
-1.- Autorización para cambio de modalidad del servicio individual y colectivo;
-
-2.- Autorización en la ampliación de ruta;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-3.- Autorización de prestación de servicios auxiliares y conexos en base a dictámenes técnicos emitidos por Ingeniería y Planeación;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-4.- Autorización de transferencia de concesión;
-
-5.- Autorización para sustitución vehicular;
-
-6.- Autorización para establecer y operar sitios de pasajeros o carga;
-
-7.- Autorización de cambio de ruta o sitio;
-
-8.- Autorización para reemplazar temporalmente la unidad;
-
-9.- Autorización para reposición de placas del servicio público de concesión o permiso por extravío o robo de una o las dos placas;
-
-10.- Autorización para reposición de placas del servicio público de concesión o permiso por robo total de la unidad;
-
-11.- Autorización para emplacar o reemplazar la concesión o permiso en caso de modificación;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-12.- Certificación de copias expedidas por el Instituto Estatal de Transporte;
-
-13.- Costo de recuperación por estudio técnico;
-
-14.- Dictamen técnico y autorización para el enrolamiento de unidades registradas para prestar servicio público;
-
-15.- Dictamen técnico;
-
-16.- Expedición de cedula única de identificación para concesionarios;
-
-17.- Expedición de cedula única de identificación para operadores;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-18.- Inspección y certificación de vehículos que prestan el servicio público de transporte;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-19.- Otorgamiento de concesión para el servicio de transporte público con ruta fija en cualquiera de sus submodalidades;
-
-20.- Otorgamiento de concesión para el transporte público en la modalidad de servicio individual en cualquiera de sus submodalidades;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-21.- Otorgamiento de permisos temporales o eventuales;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-22.- Otorgamiento de permisos temporales;
-
-23.- Otorgamiento de autorizaciones eventuales;
-
-24.- Otorgamiento de autorizaciones complementarias;
-
-25.- Otorgamiento de permiso para operar servicios conexos;
-
-26.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
-
-27.- Por expedición del tarjetón al operador;
-
-28.- Registro de proyectos de escrituras para la constitución de sociedades;
-
-29.- Resello del tarjetón;
-
-30.- Renovación de los derechos de explotación de autorización complementarias;
-
-31.- Renovación de permiso para operar servicios conexos;
-
-32.- Renovación de permisos y concesiones;
-
-33.- Reexpedición de títulos de concesiones y permisos a permisionarios y marginales, regulados a través del Programa de Ordenamiento; y
-
-34.- Reexpedición de títulos de concesiones;
-
-35.- Reposición de títulos de concesión o permiso;
-
-36.- Reposición de cedula única del registro de transporte;
-
-37.- Reposición de tarjetón por robo, extravió o destrucción;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-VIII.- Servicios de Difusión;
-
-1.- Equipo portátil de televisión por un día por Betacam SP;
-
-2.- Equipo portátil de televisión por un día por Dv-Cam JVC;
-
-3.- Equipo portátil de televisión por un día por Dv-Cam Sony;
-
-4.- Patrocinio en radio de 10" Región I (Pachuca 98.1 Fm);
-
-5.- Patrocinio en radio de 20" Región I (Pachuca 98.1 Fm);
-
-6.- Patrocinio en radio de 30" Región I (Pachuca 98.1 Fm);
-
-7.- Patrocinio en radio de 10" Región II (Actopan 91.7 FM, Ixmiquilpan 96.5 FM, Tula 1300 FM);
-
-8.- Patrocinio en radio de 20" Región II (Actopan 91.7 FM, Ixmiquilpan 96.5 FM, Tula 1300 FM);
-
-9.- Patrocinio en radio de 30" Región II (Actopan 91.7 FM, Ixmiquilpan 96.5 FM, Tula 1300 FM);
-
-10.- Patrocinio en radio de 10" Región III (Ixmiquilpan 1390 AM, Huichapan 1510 AM, Jacala 1300 AM);
-
-11.- Patrocinio en radio de 20" Región III (Ixmiquilpan 1390 AM, Huichapan 1510 AM, Jacala 1300 AM)
-
-12.- Patrocinio en radio de 30” Región III (Ixmiquilpan 1390 AM, Huichapan 1510 AM, Jacala 1300 AM);
-
-13.- Patrocinio en radio de 10” Región IV (Tlanchinol 1470 AM, San Bartolo Tutotepec 1140 AM);
-
-14.- Patrocinio en radio de 20" Región IV (Tlanchinol 1470 AM, San Bartolo Tutotepec 1140 AM);
-
-15.- Patrocinio en radio de 30" Región IV (TIanchinol 1470 AM, San Bartolo Tutotepec 1140 AM);
-
-16.- Patrocinio en radio de 10" Región V (Huejutla);
-
-17.- Patrocinio en radio de 20" Región V (Huejutla);
-
-18.- Patrocinio en radio de 30” Región V (Huejutla);
-
-19.- Patrocinio en TV. XHPAH-Canal 3 en radio de 10";
-
-20.- Patrocinio en TV. XHPAH-Canal 3 en radio de 20";
-
-21.- Patrocinio en TV. XHPAH-Canal 3 en radio de 30";
-
-22.- Producción de patrocinios en radio 10” Región I (Pachuca 98.1 AM);
-
-23.- Patrocinios específicos en radio, mención de locutor de 20" (Todas las Estaciones);
-
-24.- Patrocinios específicos en televisión Super de 10";
-
-25.- Patrocinios específicos en televisión Cintillo de 10";
-
-26.- Patrocinios específicos en televisión Cortinilla 10";
-
-27.- Patrocinios específicos en televisión Cartón de 10";
-
-28.- Patrocinios específicos en televisión mención del locutor de 20";
-
-29.- Patrocinios específicos en televisión presencia de patrocinador por hora;
-
-30.- Producción de patrocinios en radio 20” Región I (Pachuca 98.1 AM);
-
-31.- Producción de patrocinios en radio 30” Región I (Pachuca 98.1 AM);
-
-32.- Producción de patrocinios en radio de 10" Región II (Actopan 91.7 FM, Ixmiquilpan 96.5 FM, Tula 89.3 FM);
-
-33.- Producción de patrocinios en radio de 20" Región II (Actopan 91.7 FM, Ixmiquilpan 96.5 FM, Tula 89.3 FM);
-
-34.- Producción de patrocinios en radio de 30" Región II (Actopan 91.7 FM, Ixmiquilpan 96.5 FM, Tula 89.3 FM);
-
-35.- Producción de patrocinios en radio de 10” Región III (Ixmiquilpan 1390 AM, Huichapan 1510 AM, Jacala 1300AM);
-
-36.- Producción de patrocinios en radio de 20” Región III (Ixmiquilpan 1390 AM, Huichapan 1510 AM, Jacala 1300 AM);
-
-37.- Producción de patrocinios en radio de 30" Región III (Ixmiquilpan 1390 AM, Huichapan 1510 AM, Jacala 1300 AM);
-
-38.- Producción de patrocinios en radio de 10” Región IV (Tlanchinol 1470 AM San Bartolo Tutotepec 11.40 AM);
-
-39.- Producción de Patrocinios en radio de 20" Región IV (Tlanchinol 1470 AM San Bartolo Tutotepec 11.40 AM);
-
-40.- Producción de patrocinios en radio de 30" Región IV (Tlanchinol 1470 AM San Bartolo Tutotepec 11.40 AM);
-
-41.- Producción de patrocinios en radio de 10" Región V (Huejutla);
-
-42.- Producción de patrocinios en radio de 20” Región V (Huejutla);
-
-43.- Producción de patrocinios en radio de 30" Región V (Huejutla);
-
-44.- Producción de patrocinios en televisión XHPAH-Canal 3 en televisión de 10"
-
-45.- Producción de patrocinios en televisión XHPAH-Canal 3 en televisión de 20";
-
-46.- Producción de patrocinios en televisión XHPAH-CanaI 3 en televisión de 30";
-
-47.- Servicio de edición de televisión por hora con editor;
-
-48.- Servicio de edición de televisión post-producción por hora con operador;
-
-49.- Transfer de 3/4 a VHS;
-
-50.- Transfer de 3/4 a BTC;
-
-51.- Transfer de VHS a 3/4;
-
-52.- Transfer de BTC a VHS;
-
-53.- Transfer de BTC a 3/4;
-
-54.- Transfer de 3/4 a 3/4; y
-
-55.- Transfer de VHS a BTC;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-IX.- Servicios de Seguridad Pública:
-
-1. Policía Industrial Bancaria.
-
-2. Oficial.
-
-3. Custodio.
-
-4. Servicio Especial.
-
-5. Custodias Foráneas.
-
-6. Patrulla.
-
-7. Cuatrimoto.
-
-8. Capacitación Básica.
-
-9. Capacitación Especializada.
-
-Los demás derechos que se señalen en las cuotas y tarifas, que al efecto se publiquen en el Periódico Oficial del Estado.
-
-Los derechos previstos en éste Artículo, se citan de manera enunciativa, más no limitativa.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2014)
 
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 111.
 
@@ -7671,6 +4311,8 @@ VIII.- Por la venta de artesanías.
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTICULO 112.
 
 Quedan comprendidos dentro de este Capítulo, los ingresos ordinarios que obtengan del Estado y que no sean clasificados como impuestos, derechos, productos e ingresos extraordinarios, catalogándose como tales, los siguientes:
@@ -7694,6 +4336,10 @@ VIII.- Las herencias legales y donaciones que sean a favor del Estado; y
 IX.- Las indemnizaciones.
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES Y APORTACIONES
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 113.
 
@@ -7836,3 +4482,11 @@ SEGUNDO. La tabla que contiene los plazos y periodos de pago del Impuesto Sobre 
 TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 CUARTO. Se abroga la Ley Estatal de Estímulos Fiscales para el Ejercicio Fiscal 2003, publicada en el Periódico Oficial del Estado de Hidalgo de fecha 30 de diciembre de 2002, dentro del Decreto número 16, expedido por la LVIII Legislatura Local.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2015, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Con el propósito de que los Municipios y los prestadores de servicio cuenten con un plazo perentorio para el cumplimiento de lo dispuesto en el artículo 5° de este Decreto, con relación al Derecho de Alumbrado Público, las disposiciones contenidas en él, entrarán en vigor hasta el 1° de julio del año 2015.
