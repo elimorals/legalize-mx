@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2014-11-03"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -177,9 +177,9 @@ Toda persona tiene derecho a decidir, de manera libre, responsable e informada, 
 
 El Estado, en sus decisiones y actuaciones, velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los niños, niñas, adolescentes, adultos mayores y personas con discapacidad, tienen derecho a la satisfacción de sus necesidades de alimentación nutritiva, suficiente y de calidad, salud, educación y sano esparcimiento para su desarrollo integral, así como a la convivencia familiar.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios. El Estado proveerá lo necesario para garantizar el respeto a la dignidad de la niñez, los adolescentes y las personas con discapacidad y el ejercicio pleno de sus derechos.
+Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios. El Estado proveerá lo necesario para garantizar el respeto a la dignidad de la niñez, los adolescentes, las personas con discapacidad, los adultos mayores, así como el ejercicio pleno de sus derechos.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -597,7 +597,7 @@ V. Desempeñar los cargos de elección popular que en ningún caso serán gratui
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 1998)</small>
 
-VI. Desempeñar gratuitamente los cargos consejiles (sic) del Municipio donde resida, así como las funciones electorales y censales.
+VI. Desempeñar gratuitamente los cargos consejiles del Municipio donde resida, así como las funciones electorales y censales.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE ENERO DE 1987)</small>
 
@@ -723,19 +723,25 @@ Desde el inicio de las campañas electorales y hasta la conclusión de la respec
 
 La Ley determinará los supuestos y las reglas para la realización, por parte de las autoridades administrativas o jurisdiccionales, de recuentos totales o parciales de votación, siempre que ello no sea obstáculo para resolver dentro de los plazos legales.
 
-III. La organización de las elecciones estatales y municipales es una función del Estado, que se realiza a través de un organismo público, autónomo, de carácter permanente, denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan los partidos políticos y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esta función estatal, la certeza, legalidad, independencia, imparcialidad, equidad y objetividad serán principios rectores.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-El Instituto Estatal Electoral será autoridad en la materia, independiente en sus decisiones, funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia.
+III. La organización de las elecciones estatales y municipales es una función estatal, que se realiza a través de un organismo público, autónomo, de carácter permanente, denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan los partidos políticos y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esta función estatal, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores.
 
-Será facultad del Consejo General del Instituto Estatal Electoral convocar a elecciones extraordinarias, cuando procedan.
+El Instituto Estatal Electoral será autoridad en la materia, independiente en sus decisiones, funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia, en los términos que señale la ley.
 
-El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de los partidos políticos, al padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, Diputados y Ayuntamientos, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán en los términos que señale la ley.
+Será facultad del Consejo General del Instituto Estatal Electoral convocar a elecciones ordinarias y extraordinarias, cuando procedan.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, en los términos que determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de los partidos políticos, al padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, Diputados y Ayuntamientos, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán en los términos que señale la ley.
 
-El Instituto Estatal Electoral podrá convenir con el Instituto Federal Electoral que se haga cargo de la organización de los procesos electorales locales. La propuesta para la celebración del convenio correspondiente deberá ser aprobada por el voto de al menos cuatro de los Consejeros Electorales del Consejo General y deberá contener los motivos y fundamentos que sustenten la necesidad y posibilidad para la celebración del convenio, el proyecto de reestructuración administrativa, financiera y laboral del propio Instituto Estatal, los montos a erogar y la forma en que habrán de cubrirse al Instituto Federal Electoral.
+El Instituto Estatal Electoral podrá convenir con el Instituto Nacional Electoral que asuma la organización de los procesos electorales locales. La propuesta para la celebración del convenio correspondiente deberá ser aprobada por el voto de al menos cinco de los Consejeros Electorales del Consejo General y deberá contener los motivos y fundamentos que sustenten la necesidad y posibilidad para la celebración del convenio, el proyecto de reestructuración administrativa, financiera y laboral del propio Instituto Estatal Electoral, los montos a erogar y la forma en que habrán de cubrirse al Instituto Nacional Electoral.
 
-> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
+El Consejo General del Instituto Estatal Electoral estará integrado por un Consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto; el Secretario Ejecutivo; los representantes de los partidos políticos y el Vocal Ejecutivo del Registro Federal de Electores en el Estado, con derecho a voz.
+
+Durante el proceso electoral, concurrirán ante los órganos del Instituto Estatal Electoral, los representantes de los Candidatos Independientes en términos de ley, con derecho a voz.
+
+El consejero Presidente y los Consejeros Electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley.
+
+Los Consejeros Electorales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
 IV. Para garantizar la legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señale esta Constitución, y las leyes respectivas. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, fijará los plazos convenientes para el desahogo de todas las instancias impugnativas y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos de esta Constitución. Correspondiendo al Tribunal Electoral la aplicación del sistema mencionado.
 
@@ -813,7 +819,9 @@ El Congreso se integra por 18 Diputados de mayoría electos por votación direct
 
 Los Diputados de mayoría relativa y de representación proporcional, son representantes del pueblo y tienen la misma categoría e iguales derechos y obligaciones.
 
-Por cada Diputado Propietario se elegirá un Suplente y la elección se hará por fórmula.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+Las candidaturas deberán integrarse por fórmulas de propietarios y suplentes del mismo género, en términos de lo que establezca la ley.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
 
@@ -857,11 +865,11 @@ IV. Los Jueces de Primera Instancia y los Administradores de Rentas, en la circu
 
 V. Los militares que no se hayan separado del servicio activo, cuando menos seis meses antes de la elección.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 33.
 
-Los Diputados al Congreso del Estado, no podrán ser reelectos para la Legislatura siguiente. Los Suplentes podrán ser electos para la Legislatura inmediata, con el carácter de Propietarios, siempre que no hubiesen estado en ejercicio durante la última Legislatura, pero los Diputados Propietarios no podrán serlo en la Legislatura subsecuente con el carácter de Suplentes.
+Los Diputados al Congreso del Estado, podrán ser electos hasta por un periodo consecutivo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieran postulado; salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -877,11 +885,11 @@ El Presidente del Congreso, velará por el respeto al fuero constitucional de lo
 
 Los diputados en funciones durante el periodo de su encargo, no podrán desempeñar algún otro empleo, cargo o comisión de los Gobiernos Federal, Estatal o Municipal, por el que se disfrute de sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero, sin previa licencia del Congreso. En tanto se encuentren desempeñando dicho cargo, empleo o comisión públicos cesarán en su función representativa. La infracción de esta disposición será castigada con la pérdida del carácter de diputado.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 36.
 
-El Congreso se renovará en su totalidad cada tres años, mediante elección que se celebrará el primer domingo de julio del año que corresponda, debiendo tomar posesión de su cargo los integrantes de la nueva Legislatura, el cinco de septiembre del año de la elección.
+El Congreso se renovará en su totalidad cada tres años, mediante elección que se celebrará el primer domingo de junio del año que corresponda, debiendo tomar posesión de su cargo los integrantes de la nueva Legislatura, el cinco de septiembre del año de la elección.
 
 ###### Artículo 37.
 
@@ -1187,9 +1195,9 @@ XXIII. Expedir leyes sobre planeación del desarrollo estatal, y
 
 XXIV. Legislar en materia de protección al ambiente y preservación y restauración del equilibrio ecológico, en el ámbito de competencia del Estado y de sus Municipios; y
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-XXV. Nombrar a los Magistrados del Tribunal Electoral del Estado y a los Consejeros Electorales del Instituto Estatal Electoral, así como al Consejero de la Judicatura, en los términos establecidos en las Leyes de la materia. Asimismo conocerá de su renuncia;
+XXV. Nombrar a los Consejeros del Consejo de la Judicatura, en los términos establecidos en la ley de la materia, asimismo conocerá de su renuncia.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MAYO DE 1998)</small>
 
@@ -1323,21 +1331,19 @@ Son facultades de la Diputación Permanente:
 
 I. Convocar a sesiones extraordinarias por sí o a solicitud formulada por el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de un mes y a los Diputados, Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, así como a los Consejeros del Consejo de la Judicatura, al Procurador General de Justicia y al Subprocurador de Asuntos Electorales, cuando sea por un período mayor de tres meses;
+II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de un mes y a los Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, así como a los Consejeros del Consejo de la Judicatura, al Procurador General de Justicia y al Subprocurador de Asuntos Electorales, cuando sea por un periodo mayor de tres meses;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-III. Recibir la protesta al Cargo de Gobernador y Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, Consejeros del Consejo de la Judicatura, así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales;
+III. Recibir la protesta al Cargo de Gobernador y Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, Consejeros del Consejo de la Judicatura, así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales;
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 IV. Resolver asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de Ley y proposiciones que le dirija, turnándolas para dictamen a fin de que se despachen en el periodo inmediato de sesiones; así como las comparecencias de las autoridades, las servidoras y los servidores públicos a que hace referencia la fracción XX Bis del artículo 56, ante las Comisiones de estudio y Dictamen;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
-
-V. Conocer las propuestas de nombramiento de los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral y las de los Magistrados del Tribunal Electoral del Estado y de su licencia o renuncia, en los términos que establezca la Ley de la materia;
+V. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1377,11 +1383,11 @@ La Diputación Permanente dará cuenta en la segunda sesión del Congreso, del u
 
 #### SECCION I. DEL GOBERNADOR
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 61.
 
-Se deposita el ejercicio del Poder Ejecutivo en un ciudadano que se denominará Gobernador Constitucional del Estado de Hidalgo, quien será electo en jornada comicial que se celebrará el primer domingo de julio del año que corresponda, durará en su encargo 6 años, deberá tomar posesión el cinco de septiembre del año de la elección y nunca podrá ser reelecto.
+Se deposita el ejercicio del Poder Ejecutivo en un ciudadano que se denominará Gobernador Constitucional del Estado de Hidalgo, quien será electo en jornada comicial que se celebrará el primer domingo de junio del año que corresponda, durará en su encargo 6 años, deberá tomar posesión el cinco de septiembre del año de la elección y nunca podrá ser reelecto.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1793,7 +1799,7 @@ Artículo 88d. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
 ### CAPITULO III. DEL PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 89.
 
@@ -1859,7 +1865,7 @@ Las policías de investigación actuarán bajo la conducción y el mando del Min
 
 ###### Artículo 93.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común, en un Tribunal Fiscal Administrativo y en un Tribunal Electoral, en los términos de esta Constitución y su Ley Orgánica.
+Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común y en un Tribunal Fiscal Administrativo, en los términos de esta Constitución y su Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
@@ -1873,13 +1879,13 @@ I. El Tribunal Superior de Justicia y jueces del fuero común;
 
 II. El Tribunal Fiscal Administrativo;
 
-III. El Tribunal Electoral y
+III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2014)
 
 IV. Los demás funcionarios y auxiliares de la administración de justicia en los términos que establezcan las Leyes.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-La administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, el Tribunal Fiscal Administrativo y el Tribunal Electoral, estará a cargo del Consejo de la Judicatura, en los términos que, conforme a las bases que señala esta Constitución, establezcan las Leyes.
+La administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia y el Tribunal Fiscal Administrativo, estará a cargo del Consejo de la Judicatura, en los términos que, conforme a las bases que señala esta Constitución, establezcan las Leyes.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2006)</small>
 
@@ -1889,19 +1895,19 @@ Los magistrados y los jueces en el Estado, tendrán independencia en el ejercici
 
 Las leyes garantizarán a dichos servidores públicos una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, así como los reconocimientos al desempeño de su función, que les aseguren el digno ejercicio de la misma y establecerán las condiciones para su ingreso, formación y permanencia.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 94.
 
-El Tribunal Superior de Justicia, el Tribunal Fiscal Administrativo y el Tribunal Electoral estarán integrados por el número de magistrados que establezca la Ley Orgánica del Poder Judicial.
+El Tribunal Superior de Justicia, el Tribunal Fiscal Administrativo y el Tribunal Electoral estarán integrados por el número de magistrados que establezcan las leyes orgánicas respectivas.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 Los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, serán nombrados por el Gobernador del Estado con la aprobación del Congreso o de la Diputación Permanente en su caso, en los términos de esta Constitución.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-Los Magistrados del Tribunal Electoral serán nombrados por el Congreso del Estado o por la Diputación Permanente, en su caso, a propuesta de los Partidos Políticos.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
 Para el trámite de renuncias de los magistrados del Poder Judicial, se seguirá el mismo procedimiento que para su nombramiento.
 
@@ -1969,17 +1975,17 @@ Dentro de los primeros diez días de sesiones del Congreso del Estado se deberá
 
 Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Gobernador someterá nuevo nombramiento en los términos que se indican en este precepto.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-Los magistrados que integren al Tribunal Electoral serán electos de acuerdo al siguiente procedimiento:
+Los magistrados que integren el Tribunal Electoral serán electos por la Cámara de Senadores, en los términos que determine la ley.
 
-I. Cada partido político con registro, tendrá derecho a presentar una lista de cuatro candidatos;
+I. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2014)
 
-II. Aquellos candidatos que obtengan el consenso de todos los partidos políticos serán nombrados magistrados;
+II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2014)
 
-III. En caso de no existir consenso o éste sea parcial, el Congreso del Estado solicitará a las asociaciones de abogados reconocidas por la Dirección de Profesiones y al Colegio de Notarios de la entidad, propongan una lista de cuando menos el doble de candidatos al número de magistrados que se pretenda cubrir y
+III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2014)
 
-IV. Las propuestas serán presentadas al Congreso del Estado, para elegir por votación de por lo menos las dos terceras partes de los diputados presentes, al número de magistrados que faltare por designar.
+IV. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 1998)</small>
 
@@ -1991,11 +1997,11 @@ Los magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administ
 
 Obtendrán su jubilación al totalizar 60 años, sumando su edad a la antigüedad en el servicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 98.
 
-Los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y el Tribunal Electoral, así como los Consejeros del Consejo de la Judicatura, otorgarán la protesta de Ley ante el Congreso del Estado.
+Los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal, así como los Consejeros del Consejo de la Judicatura, otorgarán la protesta de Ley ante el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2006)</small>
 
@@ -2405,17 +2411,13 @@ Hay falta absoluta de Ayuntamiento cuando no se hubieren efectuado las eleccione
 
 Si alguno de los miembros del Ayuntamiento deja de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 127.
 
-Los Ayuntamientos serán electos por sufragio directo, libre y secreto, en jornada comicial que se celebrará el primer domingo de julio del año que corresponda. Durarán en su encargo cuatro años y tomarán posesión el cinco de septiembre del año de la elección.
+Los Ayuntamientos serán electos por sufragio directo, libre y secreto, en jornada comicial que se celebrará el primer domingo de junio del año que corresponda. Durarán en su encargo cuatro años y tomarán posesión el cinco de septiembre del año de la elección.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
-
-Los miembros del Ayuntamiento se elegirán por planillas, en los términos de la ley, por cada miembro propietario, se elegirá su suplente.
+Los miembros del Ayuntamiento se elegirán por planillas, en los términos de la ley, por cada miembro propietario, se elegirá su suplente del mismo género.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -2439,9 +2441,9 @@ VI. No ser ministro de culto religioso alguno, ni pertenecer al estado eclesiás
 
 VII. Saber leer y escribir y
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
-VIII. En el caso de los Consejeros electorales, el Subprocurador de Asuntos Electorales, los integrantes de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral del Poder Judicial del Estado, deberán separarse de su cargo un año antes del inicio del proceso electoral de que se trate.
+VIII. En el caso de los Consejeros Electorales, el Subprocurador de Asuntos Electorales, los integrantes de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral, deberán separarse de su cargo un año antes del inicio del proceso electoral de que se trate.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -3684,3 +3686,19 @@ SEGUNDO.- Se derogan las disposiciones que contravengan lo dispuesto en el prese
 P.O. 3 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 293 POR EL QUE SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 5° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 311 POR EL QUE SE REFORMAN LA FRACCIÓN III DEL ARTÍCULO 24; SEGUNDO PÁRRAFO DEL ARTÍCULO 30; ARTÍCULO 33; ARTÍCULO 36; LA FRACCIÓN XXV DEL ARTÍCULO 56; LAS FRACCIONES II Y III DEL ARTÍCULO 59; ARTÍCULO 61; PÁRRAFOS PRIMERO Y CUARTO DEL ARTÍCULO 93; PÁRRAFO PRIMERO DEL ARTÍCULO 94; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 96; PÁRRAFO PRIMERO DEL ARTÍCULO 98; ARTÍCULO 127; Y LA FRACCIÓN VIII DEL ARTÍCULO 128; SE DEROGAN LA FRACCIÓN V DEL ARTÍCULO 59; LA FRACCIÓN III DEL ARTÍCULO 93; PÁRRAFO TERCERO DEL ARTÍCULO 94 Y LAS FRACCIONES DE LA I A LA IV DEL ARTÍCULO 96 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Para efectos de dar cumplimiento a la reforma del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, aprobada por el Congreso de la Unión y publicada en el Diario Oficial de la Federación, el día 10 de febrero de 2014, respecto de que se verifique, al menos, una elección local en la misma fecha en que tenga lugar alguna de las elecciones federales, los integrantes de la LXIII Legislatura del Congreso del Estado, que resulten electos el primer domingo de junio del 2016, durarán por única vez en su encargo dos años, para que la próxima elección de Diputados Locales se verifique el día en que se lleve a cabo la elección federal de 2018.
+
+TERCERO. Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas y adiciones de la Constitución Política del Estado de Hidalgo.
