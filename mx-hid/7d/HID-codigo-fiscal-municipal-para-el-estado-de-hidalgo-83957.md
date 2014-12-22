@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-para-el-estado-de-hidalgo-83957"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-11-21"
-last_updated: "2013-12-31"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CODIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 2 DE FEBRERO DE 2015 Y 6 DE ABRIL DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -1225,9 +1227,45 @@ La facultad de la Tesorería Municipal, para la verificación del cumplimiento d
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 114.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias, estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados, en dichos documentos, por los contribuyentes o terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de las defensas de los intereses fiscales municipales, a las autoridades judiciales en proceso del orden penal o los tribunales competentes que conozcan de pensiones alimenticias.
+Los funcionarios y servidores públicos que intervengan en los diversos trámites y procedimientos relativos a la aplicación de las disposiciones fiscales, estarán obligados a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o terceros con ellos relacionados.
+
+En materia fiscal municipal, la reserva a que se refiere el párrafo anterior no comprenderá:
+
+I.-...
+
+La información que deba proporcionarse a los funcionarios encargados de la administración y defensa de los intereses fiscales federales, estatales y municipales;
+
+II.-...
+
+La información relativa a los adeudos y créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia;
+
+III.-...
+
+La información solicitada por mandato judicial del orden penal, civil, mercantil, administrativo y de tribunales competentes en materia de pensiones alimenticias;
+
+IV.-...
+
+La información solicitada por los Agentes del Ministerio Público del Fuero Federal y Estatal;
+
+V.-...
+
+La información solicitad (sic) por las autoridades competentes del Instituto Nacional Electoral tratándose de la integración de expedientes relacionados con la comisión de delitos electorales
+
+VI.-...
+
+La información que el propio contribuyente autorice a hacer pública; y
+
+VII.-...
+
+Los demás casos específicos que establezcan las leyes fiscales.
+
+En materia fiscal estatal y federal, se estará a lo dispuesto por las leyes y normas que expidan dichos órdenes de gobierno.
 
 ## TÍTULO CUARTO. DE LAS INFRACCIONES, LAS SANCIONES Y LOS DELITOS FISCALES
 
@@ -2037,7 +2075,7 @@ VIII.- Garantía fiduciaria en términos del contrato de fideicomiso irrevocable
 
 La garantía de un crédito fiscal, deberá comprender además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
-La garantía deberá constituirse dentro de los quince días siguientes a la fecha en que se hubiere notificado por la autoridad fiscal correspondiente, la resolución sobre la cual se deba garantizar el interés fiscal, salvo en los casos en que se indique un plazo diferente en otros preceptos de este código; y (sic)
+La garantía deberá constituirse dentro de los quince días siguientes a la fecha en que se hubiere notificado por la autoridad fiscal correspondiente, la resolución sobre la cual se deba garantizar el interés fiscal, salvo en los casos en que se indique un plazo diferente en otros preceptos de este código; y
 
 En los casos que la garantía consista en pago bajo protesta de depósito de dinero en efectivo ante la Tesorería Municipal, no se causarán recargos a partir de la fecha en que se haga el depósito.
 
@@ -2119,7 +2157,7 @@ I.- El contribuyente se oponga u obstaculice la iniciación o desarrollo de las 
 
 II- Después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes;
 
-III.- El contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales, a que se (sic) está obligado; y (sic)
+III.- El contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales, a que se (sic) está obligado; y
 
 IV.- Se realicen visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública y dichos contribuyentes no puedan demostrar que se encuentran inscritos en el registro o padrón municipal de contribuyentes, ni exhibir los comprobantes que amparen la legal posesión o propiedad de las mercancías que vendan en esos lugares. Una vez inscrito el contribuyente en el citado registro y acreditada la posesión o propiedad de la mercancía, se levantará el aseguramiento realizado;
 
@@ -2146,6 +2184,12 @@ Cuando se suspenda el procedimiento administrativo de ejecución en los término
 Asimismo, se interrumpirá el plazo a que se refiere este Artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
 
 La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad recaudadora o a petición del contribuyente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo.
 
 ###### ARTÍCULO 184.
 
@@ -3092,3 +3136,11 @@ SEGUNDO. La tabla que contiene los plazos y periodos de pago del Impuesto Sobre 
 TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 CUARTO. Se abroga la Ley Estatal de Estímulos Fiscales para el Ejercicio Fiscal 2003, publicada en el Periódico Oficial del Estado de Hidalgo de fecha 30 de diciembre de 2002, dentro del Decreto número 16, expedido por la LVIII Legislatura Local.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2015, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Con el propósito de que los Municipios y los prestadores de servicio cuenten con un plazo perentorio para el cumplimiento de lo dispuesto en el artículo 5° de este Decreto, con relación al Derecho de Alumbrado Público, las disposiciones contenidas en él, entrarán en vigor hasta el 1° de julio del año 2015.
