@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2014-12-18"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -2806,7 +2806,23 @@ Artículo 276
 
 1. Los senadores y los grupos parlamentarios también presentan proposiciones con punto de acuerdo con el objeto de atender asuntos que no constituyen iniciativas de ley o decreto.
 
-2. Las proposiciones con punto de acuerdo se remiten por escrito y firmadas por su o sus autores al Presidente de la Mesa; se presentan al Pleno en la sesión en que se incluyen en el Orden del Día y se turnan a comisiones, salvo que se les dispense de dicho trámite en términos del artículo 108 de este Reglamento.
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+
+Se entiende por proposición con punto de acuerdo a toda petición o declaración formal que el Pleno del Senado de la República realiza para asumir una postura institucional respecto a asuntos de diversas índoles y sin carácter vinculante, en función de su objeto se clasifican en:
+
+I. De Exhorto.- Cuando se solicita a alguna autoridad dependiente de los tres Poderes de la Unión en el marco de colaboración que debe imperar entre los mismos: información sobre, el ejercicio de sus funciones, la realización y ejecución de determinados actos, el cumplimiento de obligaciones cuyos efectos sean de interés para una comisión senatorial o de un senador particular que requiera para su desempeño. También se entiende que el punto de acuerdo está incluido dentro de éste tipo cuando se solicita información de interés general del país, de la colectividad, de una región, de una entidad, de un sector de la sociedad igualmente cuando se solicita la cesación o suspensión de determinadas acciones consideradas perjudiciales o que afecten intereses de terceros, así como para crear alguna comisión legislativa ordinaria
+
+o especial;
+
+II. De Pronunciamiento.- Cuando se solicita la declaración expresa del Senado de la República o de la Comisión Permanente, que implique un posicionamiento en relación a una manifestación, acontecimiento, resolución o acuerdo de dependencias, entidades u organismos nacionales e internacionales, en relación a asuntos de orden político, social o cultural, cuyos efectos sean de interés general;
+
+III. De Recomendación.- Cuando se realiza una sugerencia respetuosa, en el ámbito de colaboración entre los Poderes, a órganos de la Administración Pública Federal, del Poder Judicial o de los gobiernos de los Estados, a efecto de que realicen algún acto, gestión, cumplimiento de obligación, resolución o acuerdo, o para que atiendan algún asunto de su incumbencia administrativa y de gestión, que sea de interés general, y
+
+IV. De Convocatoria.- Cuando se pida a la Comisión Permanente, convocar a periodos extraordinarios de sesiones, en términos de lo dispuesto por el artículo 67 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+
+2. Las proposiciones con punto de acuerdo se remiten por escrito y firmadas por su o sus autores a las comisiones correspondientes según el tema y éstas emitirán su dictamen de trámite según la importancia y la pertinencia del punto de acuerdo. Salvo que se les dispense de dicho trámite en términos del artículo 108 de este Reglamento.
 
 3. El derecho a presentar proposiciones con punto de acuerdo conlleva el de retirarlas a solicitud de su o sus autores.
 
@@ -2817,6 +2833,10 @@ Artículo 277
 2. Pueden desahogarse varias proposiciones en un mismo dictamen, si se refieren a la misma materia o tema.
 
 3. El punto de acuerdo a que se refiere el dictamen es leído una sola vez y enseguida se somete a debate y votación económica.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+
+4. Los plazos y condiciones para emitir los dictámenes de los puntos de acuerdo estarán sujetos a las normas establecidas en el Capítulo Sexto del Título Séptimo de este ordenamiento.
 
 ### CAPITULO QUINTO. DE LAS COMUNICACIONES Y PETICIONES
 
@@ -3279,3 +3299,7 @@ D.O.F. 18 DE DICIEMBRE DE 2014.
 DECRETO POR EL QUE SE ADICIONA EL NUMERAL 4 AL ARTÍCULO 238 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 2014.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
