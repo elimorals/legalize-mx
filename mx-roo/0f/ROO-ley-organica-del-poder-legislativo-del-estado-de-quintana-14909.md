@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2014-09-12"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -541,7 +541,9 @@ Las Comisiones ordinarias serán:
 
 19.- Comisión de Cultura.
 
-20.- Comisión de Turismo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
+20.- Comisión de Turismo y Asuntos Internacionales.
 
 21.- Comisión de Deporte.
 
@@ -2054,3 +2056,9 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. Los diputados que hayan rendido el informe a que se refiere el artículo 71 fracción IV de la Ley Orgánica del Poder Legislativo del Estado de Quintana Roo, correspondiente al primer año de ejercicio constitucional de la XIV Legislatura del Estado, antes de la entrada en vigor del presente decreto, o que hayan agendado la presentación de dicho informe antes del 15 de septiembre del año que transcurre, no estarán obligados a cumplir nuevamente con lo establecido en este decreto.
 
 TERCERO. El informe a que se refiere el artículo 71 fracción V de la Ley Orgánica del Poder Legislativo del Estado de Quintana Roo contenido en este decreto, deberá ser rendido por única ocasión durante el mes de septiembre del presente año.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
