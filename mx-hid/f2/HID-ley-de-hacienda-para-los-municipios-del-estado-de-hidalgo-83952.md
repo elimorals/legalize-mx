@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-para-los-municipios-del-estado-de-hidalgo-83952
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2013-12-31"
+last_updated: "2014-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "HID"
 ---
 # LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE FEBRERO 2015 Y 6 DE ABRIL DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -609,13 +613,17 @@ Para los efectos de esta Ley, se entenderá por servicio de alumbrado público e
 
 Es objeto de este derecho, el servicio de alumbrado público que presta el Municipio a la comunidad, las personas físicas, morales o unidades económicas en las calles, plazas, jardines y lugares de uso común.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 64.
 
-Están obligadas al pago de este derecho, las personas físicas, morales o unidades económicas que disfruten de él y hayan contratado o estén obligadas a hacerlo, el consumo de energía eléctrica para uso doméstico, comercial, industrial, o cualesquiera como se le denomine en el territorio del Municipio, con la Comisión Federal de Electricidad u otro prestador del servicio.
+Están obligadas al pago de este derecho las personas físicas o morales que disfruten de él.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 65.
 
-El pago de este derecho se causará y pagará, de conformidad con el convenio que para tal efecto celebre el Municipio correspondiente, sobre el total del consumo que por el servicio de alumbrado público registren los medidores de la Comisión Federal de Electricidad u otro prestador del servicio.
+El pago de este derecho se causará y pagará, de conformidad con el convenio que para tal efecto celebre el Municipio correspondiente con la Comisión Federal de Electricidad, o con cualquier otro prestador de servicio, y en el que se determinarán, de conformidad con la legislación federal aplicable, los elementos de la contribución.
 
 En dicho convenio se establecerá que la base de este derecho será el total del consumo que genere el contratante del servicio de energía eléctrica en términos del Artículo anterior, así como los elementos necesarios que permitan que la determinación de las tasas o tarifas aplicables para el cobro de este derecho sean proporcionales y equitativas para todos los contribuyentes sujetos del gravamen y que aseguren la suficiencia financiera del municipio para la prestación del servicio.
 
@@ -765,9 +773,11 @@ Se entiende por servicio de limpia, el conjunto de actividades relacionadas con 
 
 Son sujetos del pago del derecho por el servicio de limpia, las personas físicas y morales, propietarios o poseedores de predios urbanos que en forma adicional al servicio de limpia que presta en forma general el municipio a toda la población, requieran, por el volumen de desechos que generan, de recolección, transporte y almacenamiento adicional.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 92.
 
-La base para la determinación de este derecho será el volumen en metros cúbicos recolectados, multiplicado por los días de recolección por semana requeridos; al resultado le serán aplicadas las cuotas y tarifas establecidas en la Ley de Ingresos de cada Municipio de conformidad con el Artículo 5o de esta Ley.
+La base para la determinación de este derecho será el peso en tonelaje o volumen en metros cúbicos recolectados, multiplicado por los días de recolección por semana requeridos; al resultado le serán aplicadas las cuotas y tarifas establecidas en la Ley de Ingresos de cada Municipio de conformidad con el Artículo 5° de esta Ley.
 
 ###### ARTÍCULO 93.
 
@@ -1009,7 +1019,7 @@ Para el caso de controversias respecto de límites, medidas y colindancias, se e
 
 ###### ARTÍCULO 131.
 
-El pago de los derechos por alineamiento, deslinde y nomenclatura, así como por la realización de levantamientos topográficos se determinara de conformidad con las cuotas y tarifas establecidas en la Ley de Ingresos de cada Municipio de conformidad con el Artículo 5ºde (sic) esta Ley, según los siguientes conceptos:
+El pago de los derechos por alineamiento, deslinde y nomenclatura, así como por la realización de levantamientos topográficos se determinara de conformidad con las cuotas y tarifas establecidas en la Ley de Ingresos de cada Municipio de conformidad con el Artículo 5º de esta Ley, según los siguientes conceptos:
 
 I.- Otorgamiento de número oficial;
 
@@ -1229,7 +1239,7 @@ n).- Fraccionamiento campestre
 
 ###### ARTÍCULO 141.
 
-Por la expedición de las licencias de subdivisión y autorización de fraccionamientos: (sic)
+Por la expedición de las licencias de subdivisión y autorización de fraccionamientos:
 
 1.- Por la autorización de subdivisiones y/o fraccionamientos habitacionales de tipos:
 
@@ -1245,7 +1255,7 @@ e).- Por fusión de predios
 
 f).- Constitución de régimen de propiedad en condominio se pagará tomando como base la suma de las áreas de propiedad
 
-(SIC) Por autorización y certificación de libros de actas de régimen de propiedad en condominio
+Por autorización y certificación de libros de actas de régimen de propiedad en condominio
 
 2.- Por la autorización de fraccionamiento o subdivisiones de tipo residencial alto, residencial medio, campestre, Industrial y comercial se cobrarán derechos a razón de 8% del valor catastral de la superficie del terreno, más el 7.5% del valor de las obras de urbanización.
 
@@ -1780,3 +1790,11 @@ SEGUNDO. La tabla que contiene los plazos y periodos de pago del Impuesto Sobre 
 TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 CUARTO. Se abroga la Ley Estatal de Estímulos Fiscales para el Ejercicio Fiscal 2003, publicada en el Periódico Oficial del Estado de Hidalgo de fecha 30 de diciembre de 2002, dentro del Decreto número 16, expedido por la LVIII Legislatura Local.
+
+P.O. 22 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2015, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Con el propósito de que los Municipios y los prestadores de servicio cuenten con un plazo perentorio para el cumplimiento de lo dispuesto en el artículo 5° de este Decreto, con relación al Derecho de Alumbrado Público, las disposiciones contenidas en él, entrarán en vigor hasta el 1° de julio del año 2015.
