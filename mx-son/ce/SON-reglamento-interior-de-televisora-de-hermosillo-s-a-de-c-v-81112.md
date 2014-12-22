@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-televisora-de-hermosillo-s-a-de-c-v-8111
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-07"
-last_updated: "2011-04-07"
+last_updated: "2014-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE TELEVISORA DE HERMOSILLO, S.A. DE C.V. DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE REGULA A LA TELEVISORA DE HERMOSILLO S. A. DE C. V., PUBLICADA EN EL B.O. DE 22 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 7 de abril de 2011.
 
@@ -265,7 +267,7 @@ VII. Autorizar requisiciones de compra de materiales y consumibles, dependiendo 
 
 VIII. Coordinar los programas integrales de capacitación y desarrollo del personal adscrito a esta Gerencia;
 
-IX. Coordinar la elaboración de presupuesto general de esta Gerencia; y (sic)
+IX. Coordinar la elaboración de presupuesto general de esta Gerencia; y
 
 X. Producir los spots comerciales de clientes-anunciantes, que se distingan por innovaciones que marquen la diferencia de lo común y convencional, respecto a lo que ofrecen las empresas televisivas locales.
 
@@ -419,7 +421,7 @@ Televisora de Hermosillo S.A. De C.V.
 
 Organigrama General.
 
-> <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION I DEL B.O. DE 7 DE ABRIL DE 2011, PAGINA 18.</small>
+> <small>N. DE E. VÉASE ORGANIGRAMA EN LA SECCIÓN I DEL B.O. DE 7 DE ABRIL DE 2011, PÁGINA 18.</small>
 
 PRESIDENTE
 
@@ -456,3 +458,35 @@ C.P. PATRICIA ARGÜELLES CANSECO
 Órgano de Control y Desarrollo Administrativo
 
 C.P. RICARDO CHAVEZ VELASQUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 22 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de Televisora de Hermosillo S. A. de C. V., publicado en el Boletín Oficial del Gobierno del Estado número 28, Sección I, de fecha 07 de abril de 2011.
+
+###### ARTÍCULO TERCERO.
+
+Telemax deberá elaborar el Reglamento de la presente Ley, en un plazo no mayor de sesenta días hábiles, contado a partir de la entrada en vigor del presente ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo Consultivo a que se hace referencia en la presente Ley, deberá ser integrado en un plazo no mayor de sesenta días hábiles, contado a partir de la entrada en vigor del presente ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Se autoriza a la empresa de participación estatal mayoritaria denominada Televisora de Hermosillo S. A. de C. V. (TELEMAX) para que gestione y contrate con la o las instituciones de la banca comercial que mejores condiciones contractuales ofrezcan uno o más créditos de hasta por la cantidad total de $90’000,000.00 (Noventa Millones de Pesos) a un plazo de hasta 10 años, en cuyo importe no se comprenden comisiones, intereses ni gastos, con el objeto de destinarlos exclusivamente a llevar a cabo el proceso de digitalización de la señal de televisión.
+
+En respaldo a lo anterior, se autoriza al Ejecutivo del Estado para que a nombre y representación del Gobierno del Estado de Sonora y por conducto de la Secretaría de Hacienda, otorgue el aval amplio y suficiente para garantizar y/o ser la fuente de pago de las obligaciones que asuma la citada empresa estatal mayoritaria y se autoriza a los funcionarios de la Secretaría de Hacienda facultados para que celebren los actos jurídicos pertinentes a esta autorización, en calidad de aval.
+
+Con fundamento en el artículo 9, de la Ley de Coordinación Fiscal, así como, con lo dispuesto por el artículo 6, fracciones IV y VI de la Ley de Deuda Pública del Estado de Sonora, se autoriza al Titular del Ejecutivo del Estado para fungir como aval del presente crédito y por ello afectar como garantía y/o fuente de pago de las operaciones financieras señaladas en el presente artículo, más reservas, accesorios financieros, coberturas, gastos y las comisiones que se generen en virtud de dichas operaciones, el porcentaje necesario y suficiente de los derechos e ingresos sobre las participaciones presentes y futuras que en ingresos federales le correspondan al Estado de Sonora.
+
+El mecanismo de afectación de los ingresos señalados en este artículo para cubrir los pasivos que se contraten al amparo del presente artículo, será a través de la creación y/o utilización de un Fideicomiso Irrevocable de Administración y Fuente de Pago o de Garantía ya existente. Por lo que, en este acto se autoriza al Titular del Ejecutivo para que, si es el caso, por conducto de la Secretaría de Hacienda del Estado de Sonora, proceda a la celebración de uno o varios Fideicomisos Irrevocables de Administración y Fuente de Pago o de Garantía en términos del presente Decreto, o bien se utilice uno preexistente.
+
+Se autoriza a la empresa de participación estatal mayoritaria denominada Televisora de Hermosillo S. A. de C. V. (TELEMAX) para que pacte con la o las instituciones de la banca comercial con quienes contrate el financiamiento autorizado, las bases, condiciones y modalidades que estimen necesarias o pertinentes respecto a las operaciones que aquí se autorizan y para que concurran a la firma del o los contratos relativos, por conducto de sus funcionarios o representantes legalmente investidos para la celebración de los actos jurídicos, mismos que se inscribirán en el Registro Estatal de Deuda Pública que lleva la Secretaría de Hacienda del Estado de Sonora en los términos que establece la Ley de Deuda Pública del Estado de Sonora; y en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, que para el efecto lleva la Secretaría de Hacienda y Crédito Público por conducto de la Unidad de Coordinación con Entidades Federativas, de conformidad con el artículo 9º de la Ley de Coordinación Fiscal y su reglamento respectivo.
