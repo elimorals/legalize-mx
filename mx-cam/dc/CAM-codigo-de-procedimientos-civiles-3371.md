@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "2014-12-05"
+last_updated: "2014-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "CAM"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 2015 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE DICIEMBRE DE 2014.</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -3227,6 +3229,8 @@ IV.- Cualquier instrumento privado, suscrito por el otorgante, que haya sido rec
 
 V.- La confesión judicial hecha de conformidad con el artículo 444;
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
 VI.- Los Convenios celebrados ante el juez en el curso del juicio, los celebrados ante los órganos de justicia alternativa de los Poderes Judicial y Ejecutivo, y aquéllos que adquieran el carácter de cosa juzgada.
@@ -4588,6 +4592,8 @@ Se llama ejecutoria la copia expedida por el tribunal superior, y también el te
 ###### Art. 846.
 
 Siempre que se expida una ejecutoria, se tomará razón en los autos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
@@ -8365,13 +8371,19 @@ I. La revocación de la adopción; y
 
 II. Cuando el adoptante y el adoptado soliciten la conversión de la adopción simple en plena.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
 ## TÍTULO VIGÉSIMO TERCERO. DE LA JUSTICIA ALTERNATIVA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO ÚNICO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
@@ -8381,6 +8393,8 @@ Previo a emitir el auto de radicación, las partes deberán presentar ante el Ju
 
 La autoridad de segunda instancia, al recibir los autos correspondientes para el trámite del recurso de apelación, deberá hacer saber a las partes los beneficios y ventajas de los procedimientos alternativos y que para tal fin se encuentran a su disposición los órganos de justicia alternativa.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
 ###### Art. 1471.
@@ -8388,6 +8402,8 @@ La autoridad de segunda instancia, al recibir los autos correspondientes para el
 La información, documentos y conversaciones derivados de los procedimientos alternativos, no podrán ser objeto de prueba en los Juicios Civiles, Mercantiles y Familiares.
 
 Los especialistas, así como toda persona vinculada en un procedimiento alternativo, no podrán ser ofrecidos como testigos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
@@ -8563,6 +8579,8 @@ CUARTO.- Se derogan todas las disposiciones legales y reglamentarias del marco j
 
 P.O. 5 DE DICIEMBRE DE 2014.
 
-PRIMERO.- Este decreto entrará en vigor a los 3 días siguientes, previo su publicación en el Periódico Oficial del Estado.
+> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+PRIMERO.- Este decreto entrará en vigor a los 180 días hábiles siguientes, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido de este decreto
