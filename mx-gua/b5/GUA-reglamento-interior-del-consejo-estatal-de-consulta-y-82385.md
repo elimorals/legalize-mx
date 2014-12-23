@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-consejo-estatal-de-consulta-y-82385"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-29"
-last_updated: "2011-07-29"
+last_updated: "2014-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONSULTA Y PARTICIPACION CIUDADANA DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONSULTA Y PARTICIPACION CIUDADANA DEL ESTADO DE GUANAJUATO
+REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONSULTA Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONSULTA Y PARTICIPACIÓN CIUDADANA, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 29 de julio de 2011.
 
 Juan Manuel Oliva Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77, fracciones II y III, y 79 de la Constitución Política para el Estado de Guanajuato, y en observancia de los (sic) dispuesto por los artículos 2o. y 9o. de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -163,7 +165,7 @@ El Presidente del Consejo tiene las siguientes facultades:
 
 I. Representar al Consejo ante cualquier instancia;
 
-II. Dirigir y presidir el desarrollo las (sic) sesiones;
+II. Dirigir y presidir el desarrollo (sic) las sesiones;
 
 III. Propiciar la integración del programa de trabajo del Consejo;
 
@@ -173,7 +175,7 @@ V. Convocar, por conducto del Secretario Técnico, a las sesiones del Consejo;
 
 VI. Proponer y someter a la consideración del Consejo los asuntos relativos al ejercicio de sus atribuciones; y
 
-VII. Las demás que se requieran para el cumplimiento de su función; (sic)
+VII. Las demás que se requieran para el cumplimiento de su función;
 
 Facultades del Secretario Técnico
 
@@ -235,7 +237,7 @@ III. Participar en las actividades que lleve a cabo el Consejo;
 
 IV. Representar al Consejo, cuando éste así lo determine, en las diferentes instancias de participación ciudadana y prevención del delito;
 
-V. Participar en las sesiones de los Consejos Municipales de Consulta y Participación Ciudadana, de acuerdo a fa representación que le asigne el Consejo; y
+V. Participar en las sesiones de los Consejos Municipales de Consulta y Participación Ciudadana, de acuerdo a la representación que le asigne el Consejo; y
 
 VI. Las demás que determine el Consejo.
 
@@ -347,10 +349,26 @@ Artículo Tercero. Se derogan todas aquellas disposiciones que se opongan al pre
 
 Artículo Cuarto. Los consejeros ciudadanos que integran el Consejo al iniciar la vigencia del presente Decreto Gubernativo, continuarán en funciones hasta la conclusión de su cargo conforme a lo establecido en la Ley.
 
-Dado en la residencia del Poder Ejecutivo, en la ciudad de Guanajuato, Gto., a los 6 del (sic) mes de julio del año 2011.
+Dado en la residencia del Poder Ejecutivo, en la ciudad de Guanajuato, Gto., a los 6 (sic) del mes de julio del año 2011.
 
 JUAN MANUEL OLIVA RAMIREZ
 
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMAN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 177 publicado en el Periódico Oficial del Gobierno del Estado, número 120, primera parte, de fecha 29 de julio de 2011, mediante el cual se expidió el Reglamento Interior del Consejo Estatal de Consulta y Participación Ciudadana.
+
+Permanencia de los consejeros
+
+Artículo Tercero. Los consejeros ciudadanos que integran el Consejo al iniciar la vigencia del presente Decreto Gubernativo, continuarán en funciones hasta la conclusión de su cargo conforme a lo establecido en la Ley de la materia.
