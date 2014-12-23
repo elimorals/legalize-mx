@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2013-07-16"
+last_updated: "2014-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -4021,7 +4021,9 @@ ART. 867.- Cuando el dueño de la cosa accesoria es el que ha hecho la incorpora
 
 ART. 868.- Si el dueño de la cosa principal es el que ha procedido de mala fe, el que lo sea de la accesoria tendrá derecho a que aquél le pague su valor y le indemnice de los daños y perjuicios; o a que la cosa de su pertenencia se separe, aunque para ello haya de destruirse la principal.
 
-ART. 869.- Si la incorporación se hace por cualquiera de los dueños a la vista o ciencia y paciencia del otro, y sin que éste se oponga, los derechos respectivos se arreglarán conforme a lo dispuesto en los artículos 881 (sic), 862, 863 y 864.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+ART. 869.- Si la incorporación se hace por cualquiera de los dueños a la vista, o ciencia y paciencia del otro, y sin que éste se oponga, los derechos respectivos se arreglarán conforme a lo dispuesto en los artículos 861, 862, 863, y 864.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -4049,7 +4051,9 @@ ART. 875.- Cuando el mérito artístico de la obra sea inferior en precio a la m
 
 ART. 876.- Si la especificación se hizo de mala fé, el dueño de la materia empleada tiene derecho de quedarse con la obra sin pagar nada al que la hizo, o exigir de éste que le pague el valor de la materia y le indemnice de los daños y perjuicios que se le hayan seguido.
 
-ART. 879 (SIC).- La mala fe en los casos de mezcla o confusión se calificará conforme a lo dispuesto en los artículos 849 y 850.
+> <small>(REFORMADO EN SU IDENTIFICACIÓN, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+ART. 877.- La mala fe en los casos de mezcla o confusión se calificará conforme a lo dispuesto en los artículos 849 y 850.
 
 ### CAPITULO V. Del Dominio de las Aguas
 
@@ -4057,7 +4061,9 @@ ART. 878.- El dueño del predio en que exista una fuente natural, o que haya per
 
 El dominio del dueño de un predio sobre las aguas de que trata este artículo, no perjudica los derechos que legítimamente hayan podido adquirir a su aprovechamiento los de los predios inferiores.
 
-ART. 879.- Si alguno perforase pozo o hiciere obras de captación de aguas subterráneas en su propiedad, aunque por ésto disminuya el agua del abierto en fundo ajeno, no está obligado a indemnizar; pero debe tenerse en cuenta lo dispuesto en el artículo 875.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+ART. 879.- Si alguno perforase pozo, o hiciere obras de captación de aguas subterráneas en su propiedad, aunque por esto disminuya el agua de otro pozo abierto en fundo ajeno, no está obligado a indemnizar; pero debe observarse lo dispuesto en los artículos, 786, y 1748.
 
 ART. 880.- El propietario de las aguas no podrá desviar su curso de modo que cause daño a tercero.
 
@@ -4071,7 +4077,9 @@ ART. 883.- Hay copropiedad cuando una cosa o derecho pertenece pro indiviso a va
 
 ART. 884.- Los que por cualquier título tienen el dominio legal de una cosa, no pueden ser obligados a conservarlo indiviso, sino en los casos en que por la misma naturaleza de las cosas o por determinación de la Ley, el dominio es indivisible.
 
-ART. 885.- Si el dominio no es indivisible, o la cosa no admite cómoda división y los partícipes no se convienen en que sea adjudicada a alguno de ellos, se procederá a su venta y a la repartición de su precio entre los interesados.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+ART. 885.- Si el dominio no es divisible, o la cosa no admite cómoda división y los partícipes no se convienen en que sea adjudicada a alguno de ellos, se procederá a su venta y a la repartición de su precio entre los interesados.
 
 ART. 886.- A falta de contrato o disposición especial, se regirá la copropiedad por las disposiciones siguientes.
 
@@ -4883,7 +4891,9 @@ IV.- El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de �
 
 V.- El que haya sido condenado por un delito que merezca pena de prisión, cometido contra el autor de la herencia, de sus hijos, de su cónyuge, de sus ascendientes o de sus hermanos;
 
-VI.- El padre y la madre respecto del hijo expuesto por ellos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+VI.- El padre, o la madre respecto del hijo expuesto por ellos;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1998)</small>
 
@@ -4895,7 +4905,9 @@ IX.- Los parientes del autor de la herencia que, hallándose éste imposibilitad
 
 X.- El que usare de violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
 
-XI.- El que, conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+XI.- El que, conforme al Código Penal, fuere culpable del delito de, tráfico de menores; robo de infante; sustracción de menores, o de incapaces; o contra la filiación y el estado civil de las personas; siempre que se trate de la herencia que debió de corresponder a éste, o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos, y
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
 
@@ -5013,31 +5025,21 @@ ART. 1213.- Si el legado consistiere en prestación periódica, el legatario har
 
 ### CAPITULO V. De los bienes de que se puede disponer por Testamento y de los Testamentos Inoficiosos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-ART. 1214.- El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
+ART. 1214.- El testador debe dejar alimentos a:
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+I.- Los descendientes menores de 18 años;
 
-I.- A los descendientes menores de 18 años;
+II.- Los descendientes que estén imposibilitados de trabajar, cualquiera que sea su edad;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
-
-II.- A los descendientes que estén imposibilitados de trabajar, cualquiera que sea su edad; así como a los que se encuentren estudiando hasta una edad máxima de veinticinco años;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
-
-III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva hosestamente (sic);
+III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva honestamente;
 
 IV.- A los ascendientes;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los tres años que precedieron a su muerte, o con quien tuvo hijos durante ese tiempo, siempre que ambos hayan permanecido libres del matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quienes el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos, y
 
-V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los cinco años que precedieron a su muerte o con quien tuvo hijos durante ese tiempo, siempre que ambos hayan permanecido libres del matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quienes el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos;
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
-
-VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados; así como a quienes no cumplan los dieciocho años, o un máximo de veinticinco años de edad en caso de estar estudiando, si no tienen bienes para subvenir sus necesidades.
+VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si son personas con discapacidad o mientras que no cumplan los dieciocho años, si no tienen bienes para subvenir a sus necesidades.
 
 ART. 1215.- No hay obligación de dar alimentos, sino a falta o por imposibilidad de los parientes más próximos en grado.
 
@@ -5123,7 +5125,9 @@ ART. 1247.- El acreedor cuyo crédito no conste más que por testamento, se tend
 
 ART. 1248.- Cuando se legue una cosa con todo lo que comprenda, se entenderán legados los documentos y los créditos activos a no ser que se hayan exceptuado expresamente.
 
-ART. 1249.- El legado del menaje de una casa sólo comprende los bienes muebles a que se refiere el artículo 761.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+ART. 1249.- El legado del menaje de una casa sólo comprende los bienes muebles a que se refiere el artículo 708.
 
 ART. 1250.- Si el que lega una propiedad le agrega después nuevas adquisiciones, no se comprenderán éstas en el legado, aunque sean contiguas, si no hay nueva declaración del testador.
 
@@ -5749,6 +5753,10 @@ ART. 1447.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a
 
 ART. 1448.- El adoptado hereda como un hijo; pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+En el caso de la adopción plena, el adoptado hereda como un hijo, adquiriendo los mismos derechos y obligaciones del parentesco consanguíneo de la familia de quien lo adopta en los términos del artículo 248 del Código Familiar.
+
 ART. 1449.- Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
 
 ART. 1450.- Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
@@ -5769,7 +5777,9 @@ ART. 1456.- Concurriendo los adoptantes con ascendientes del adoptado, la herenc
 
 ART. 1457.- Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieren la adopción.
 
-ART. 1458.- Los ascendientes, aun cuando sean ilegítimos, tienen derecho de heredar a sus descendientes reconocidos.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+ART. 1458.- Los ascendientes tienen derecho de heredar a sus descendientes reconocidos.
 
 ART. 1439 (SIC).- Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce ni sus descendientse (sic) tienen derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos, en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibir alimentos.
 
@@ -7639,7 +7649,9 @@ ART. 2108.- Se exceptúa de lo dispuesto en el artículo anterior, la venta o ce
 
 ART. 2109.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 2110.- Los propietarios de cosa indivisa no pueden vender su parte respectiva a extraños, sino cumpliendo lo dispuesto en los artículos 920 y 921.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+ART. 2110.- Los propietarios de cosa indivisa no pueden vender su parte respectiva a extraños, sino cumpliendo lo dispuesto en los artículos, 918, y 919.
 
 ART. 2111.- No pueden comprar los bienes de cuya venta o administración se hallen encargados:
 
@@ -7893,7 +7905,9 @@ Si transcurren cinco años desde que se hizo la donación y el donante no ha ten
 
 Si dentro del mencionado plazo naciere un hijo póstumo del donante, la donación se tendrá por revocada en su totalidad.
 
-ART. 2189.- Si en el primer caso del artículo anterior el padre no hubiere revocado la donación, ésta deberá reducirse cuando se encuentre comprendida en la disposición del artículo 2877, a no ser que el donatario tome sobre sí la obligación de ministrar alimentos y la garantice debidamente.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+ART. 2189.- Si en el primer caso del artículo anterior el padre no hubiere revocado la donación, ésta deberá reducirse cuando se encuentre comprendida en la disposición del artículo 2177, a no ser que el donatario tome sobre sí la obligación de ministrar alimentos y la garantice debidamente.
 
 ART. 2190.- La donación no podrá ser revocada por superveniencia de hijos:
 
@@ -8159,7 +8173,9 @@ ART. 2282.- Podrá solicitarse la modificación del precio del arrendamiento en 
 
 ### CAPITULO V. Del Arrendamiento de Fincas Rústicas
 
-ART. 2283.- El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+ART. 2283.- El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo a lo que dispone la Ley de Fomento al Desarrollo Rural Sustentable del Estado.
 
 ART. 2284.- La renta debe pagarse en los plazos convenidos, y a falta de convenio por semestres vencidos.
 
@@ -9031,7 +9047,9 @@ ART. 2566.- Concedida la autorización por la Secretaría de Relaciones Exterior
 
 ART. 2567.- La aparcería rural comprende la aparcería agrícola y la de ganados.
 
-ART. 2568.- El contrato de aparcería deberá otorgarse por escrito, formándose tres ejemplares, uno para cada contratante, y el otro para el Departamento de Agricultura y Ganadería, dependiente del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+ART. 2568.- El contrato de aparcería deberá otorgarse por escrito, formándose tres ejemplares, uno para cada contratante, y el otro para la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos.
 
 ART. 2569.- Tiene lugar la aparcería agrícola, cuando una persona da a otra un predio rústico para que lo cultive, a fin de repartirse los frutos en la forma que convengan, que nunca podrán ser menores, por cuanto hace al aparcero, de las cantidades que se establecen en las siguientes reglas:
 
@@ -9725,9 +9743,9 @@ ART. 2782.- El fiador sólo queda obligado por la transacción cuando consiente 
 
 ART. 2783.- La transacción tiene, respecto de las partes, la misma eficacia y autoridad que la cosa juzgada; pero podrá pedirse la nulidad o la rescisión de aquélla en los casos autorizados por la Ley.
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-ART. 2783 BIS.- Las transacciones celebradas y sancionadas ante la Procuraduría Federal del Consumidor tendrán carácter obligatorio para las partes que comparezcan y su ejecución se llevará conforme a las normas establecidas en el Artículo 291 del Código de Procedimientos Civiles.
+ART. 2783 BIS.- Las transacciones celebradas y sancionadas ante la Procuraduría Federal del Consumidor tendrán carácter obligatorio para las partes que comparezcan, y su ejecución se llevará conforme a las normas establecidas en el artículo 1010 del Código de Procedimientos Civiles.
 
 ART. 2784.- Puede anularse la transacción cuando se hace en razón de un título nulo, a no ser que las partes hayan tratado expresamente de la nulidad.
 
@@ -10424,3 +10442,9 @@ P.O. 16 DE JULIO DE 2013.
 PRIMERO. Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
