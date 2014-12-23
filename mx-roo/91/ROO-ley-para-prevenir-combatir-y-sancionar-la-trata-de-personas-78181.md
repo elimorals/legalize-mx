@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-prevenir-combatir-y-sancionar-la-trata-de-personas-781
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-10"
-last_updated: "2011-06-27"
+last_updated: "2014-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 23 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 10 de diciembre de 2010.
 
@@ -31,7 +33,7 @@ DECRETO NUMERO: 371
 
 POR EL QUE SE EXPIDE LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO; SE REFORMAN LOS ARTÍCULOS 191, 193, 194, Y 194 QUlNQUIES SEGUNDO PÁRRAFO Y SE DEROGA EL ARTÍCULO 192 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 100 Y EL 205 PÁRRAFO SEGUNDO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
-LA HONORABLE XIl LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
+LA HONORABLE XII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
 
 D E C R E T A:
 
@@ -973,7 +975,7 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EDUARDO OVANDO MARTINEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE JUNIO DE 2011.
 
@@ -982,3 +984,17 @@ P.O. 27 DE JUNIO DE 2011.
 T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga la Ley para Prevenir, Combatir y Sancionar la Trata de Personas del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo en fecha 10 de diciembre del año 2010.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente ley.
+
+CUARTO.- El Ejecutivo del Estado contará con un plazo de noventa días contados a partir de la entrada en vigor de la presente Ley, para reglamentar los aspectos particulares que se requieran para la aplicación de la presente Ley.
+
+QUINTO.- La Comisión Interinstitucional contra los delitos en materia de trata de personas del Estado de Quintana Roo deberá instalarse a más tardar en los ciento veinte días posteriores a la entrada en vigor de la presente ley.
+
+SEXTO.- El Programa Estatal para la Prevención, Combate y Sanción de los Delitos en Materia de Trata de Personas se elaborará de conformidad a lo dispuesto en el Programa Nacional para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
