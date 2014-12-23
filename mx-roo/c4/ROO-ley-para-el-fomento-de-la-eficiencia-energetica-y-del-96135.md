@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-el-fomento-de-la-eficiencia-energetica-y-del-96135"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-06"
-last_updated: "2013-09-06"
+last_updated: "2014-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY PARA EL FOMENTO DE LA EFICIENCIA ENERGETICA Y DEL APROVECHAMIENTO DE LAS FUENTES DE ENERGIA RENOVABLES EN EL ESTADO DE QUINTANA ROO -- ANTES LEY PARA EL FOMENTO Y APROVECHAMIENTO DE LAS FUENTES DE ENERGIA RENOVABLES EN EL ESTADO DE QUINTANA ROO --
 
-LEY PARA EL FOMENTO Y APROVECHAMIENTO DE LAS FUENTES DE ENERGÍA RENOVABLES EN EL ESTADO DE QUINTANA ROO
+LEY PARA EL FOMENTO DE LA EFICIENCIA ENERGÉTICA Y DEL APROVECHAMIENTO DE LAS FUENTES DE ENERGÍA RENOVABLES EN EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 6 de septiembre de 2013.
 
@@ -33,7 +33,9 @@ D E C R E T A:
 
 ÚNICO. Se expide la Ley para el Fomento y Aprovechamiento de las Fuentes de Energía Renovables en el Estado de Quintana Roo, para quedar como sigue:
 
-LEY PARA EL FOMENTO Y APROVECHAMIENTO DE LAS FUENTES DE ENERGIA RENOVABLES EN EL ESTADO DE QUINTANA ROO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+LEY PARA EL FOMENTO DE LA EFICIENCIA ENERGÉTICA Y DEL APROVECHAMIENTO DE LAS FUENTES DE ENERGÍA RENOVABLES EN EL ESTADO DE QUINTANA ROO.
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -89,7 +91,9 @@ f. Los bioenergéticos, que determine la Ley de Promoción y Desarrollo de los B
 
 g. Aquellas otras que, en su caso, determine la Secretaría de Energía del Gobierno Federal, cuya fuente cumpla con el primer párrafo de esta fracción;
 
-VIII. Plan de Fomento: Plan Estatal de Fomento de Energías Renovables.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+VIII. Plan de Fomento: Plan Estatal para el Fomento de la Eficiencia Energética y del Aprovechamiento de las Fuentes de Energía Renovables.
 
 IX. Secretaría: La Secretaría de Desarrollo Económico del Estado de Quintana Roo.
 
@@ -143,7 +147,9 @@ V. La Secretaría de Desarrollo Urbano y Vivienda;
 
 VI. La Secretaría de Ecología y Medio Ambiente;
 
-VII. La Secretaría de Educación, y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+VII. La Secretaría de Educación y Cultura, y
 
 VIII. El Consejo Quintanarroense de Ciencia y Tecnología.
 
@@ -155,9 +161,13 @@ Al Gobernador del Estado le corresponde el ejercido de las siguientes atribucion
 
 I. Establecer en el Plan Estatal de Desarrollo, las políticas y programas relativos al fomento del aprovechamiento de las fuentes de energía renovables y el uso de tecnologías limpias, la eficiencia y la suficiencia energética, de conformidad con lo previsto en esta ley;
 
-II. Aprobar y publicar el Plan de Fomento;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-III. Aprobar y publicar el Programa para el Desarrollo Tecnológico y Aprovechamiento de las Fuentes de Energía Renovables y el Programa Estatal de Suficiencia Energética;
+II. Aprobar y publicar el Plan de Fomento cada tres años;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+III. Aprobar y publicar el Programa para el Desarrollo Tecnológico y Aprovechamiento de las Fuentes de Energía Renovables y el Programa Estatal de Seguridad Energética;
 
 IV. Difundir campañas para dar a conocer las fuentes de energías renovables en los Municipios del Estado, así como su aprovechamiento a la ciudadanía;
 
@@ -235,9 +245,21 @@ III. Coordinar con las demás dependencias y entidades de la Administración Pú
 
 IV. Celebrar convenios de colaboración y coordinación con la Federación, los municipios, instituciones de educación e investigación, y sectores social y privado, para la promoción y aprovechamiento de las energías renovables;
 
-V. Gestionar recursos nacionales e internacionales que propicien un mayor aprovechamiento de las energías renovables con el fin de impulsar la eficiencia energética y el desarrollo sustentable en el Estado, y
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-VI. Las demás que le señalen las disposiciones legales aplicables.
+V. Implementar campañas de asistencia técnica, capacitación, difusión y concientización sobre la eficiencia energética y sus beneficios;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+VI. Coordinar el mantenimiento periódico de los equipos e instalaciones eléctricas de los edificios de la Administración Pública, para la identificación oportuna de fugas eléctricas;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+VII. Fomentar el uso eficiente de los equipos que consumen energía por parte de los servidores públicos;
+
+VIII. Gestionar recursos nacionales e internacionales que propicien un mayor aprovechamiento de las energías renovables con el fin de impulsar la eficiencia energética y el desarrollo sustentable en el Estado, y
+
+IX. Las demás que le señalen las disposiciones legales aplicables.
 
 ###### Artículo 16.
 
@@ -255,9 +277,11 @@ La Secretaría podrá organizar anualmente ferias o convenciones nacionales e in
 
 La Comisión tendrá las atribuciones y facultades establecidas en su Decreto de creación, en la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo y en la presente ley. Para el cumplimiento de dichas atribuciones, deberá elaborar el Plan de Fomento.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-La Comisión, deberá establecer disposiciones administrativas generales y obligatorias para el ahorro y uso eficiente de la energía en la Administración Pública Estatal. Asimismo, la Comisión podrá emitir recomendaciones para el ahorro y uso eficiente de la energía a los demás Poderes del Estado.
+La Comisión, deberá establecer disposiciones administrativas generales y obligatorias para el uso eficiente de la energía en la Administración Pública Estatal. Asimismo, la Comisión podrá emitir recomendaciones para el uso eficiente de la energía a los demás Poderes y Municipios del Estado.
 
 ### CAPÍTULO SÉPTIMO. DE LAS ATRIBUCIONES DE (SIC) SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA
 
@@ -289,11 +313,15 @@ La Comisión podrá establecer, mediante disposiciones administrativas generales
 
 La Comisión en coordinación con la Secretaría de Ecología y Medio Ambiente del Estado, establecerán los criterios técnicos para el uso de las energías renovables en la elaboración de los Programas de Manejo de las áreas naturales protegidas de competencia estatal.
 
-### CAPÍTULO NOVENO. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE EDUCACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO NOVENO. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE EDUCACIÓN Y CULTURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 25.
 
-A la Secretaría de Educación del Estado, le corresponde las siguientes atribuciones:
+A la Secretaría de Educación y Cultura del Estado, le corresponde (sic) las siguientes atribuciones:
 
 I. Impulsar la realización de investigación científica y tecnológica relacionada con la aplicación de fuentes renovables de energía y su uso eficiente;
 
@@ -321,7 +349,9 @@ El Consejo de Ciencia y Tecnología del Estado de Quintana Roo promoverá entre 
 
 ## TÍTULO TERCERO. PLAN ESTATAL DE FOMENTO DE ENERGÍAS RENOVABLES
 
-### CAPÍTULO ÚNICO. DEL PLAN ESTATAL DE FOMENTO DE ENERGÍAS RENOVABLES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO ÚNICO. DEL PLAN ESTATAL PARA EL FOMENTO DE LA EFICIENCIA ENERGÉTICA Y DEL APROVECHAMIENTO DE LAS FUENTES DE ENERGÍA RENOVABLES
 
 ###### Artículo 29.
 
@@ -333,9 +363,19 @@ II. Determinar las metas que orientarán las acciones de planeación y programac
 
 III. Establecer los mecanismos de coordinación y concertación con los ayuntamientos de los municipios del Estado, el gobierno Federal y con los sectores social y privado, a fin de lograr su participación en la ejecución del Plan de Fomento;
 
-IV. Valorar el potencial de las actividades en materia de eficiencia energética, producción y consumo de energías renovables y no renovables, y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-V. Determinar los parámetros de estructura, financieros y operativos para el desarrollo de los proyectos establecidos.
+IV. Valorar el potencial de las actividades en materia de eficiencia energética, producción y consumo de energías renovables y no renovables;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+V. Evaluar las políticas, proyectos y demás acciones implementadas en materia de eficiencia y suficiencia energética así como de aprovechamiento de las fuentes de energía renovables en el Estado;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+VI. Promover la cultura de la eficiencia y suficiencia energética así como de aprovechamiento de las fuentes de energía renovables en el Estado, a través de campañas, talleres, conferencias, entre otros medios, y
+
+VII. Determinar los parámetros de estructura, financieros y operativos para el desarrollo de los proyectos establecidos.
 
 ###### Artículo 30.
 
@@ -474,3 +514,11 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente decreto.
