@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2013-12-14"
+last_updated: "2014-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -88,11 +88,11 @@ VI. El 40% del importe que perciba por concepto del impuesto estatal sobre nómi
 
 VII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2013)
 
-VIII. Hasta el 100% del importe que perciba por concepto del impuesto estatal sobre hospedaje, siempre que dicho porcentaje se defina en acuerdos tanto con los municipios y representantes de la industria hotelera, y (sic)
+VIII. Hasta el 100% del importe que perciba por concepto del impuesto estatal sobre hospedaje, siempre que dicho porcentaje se defina en acuerdos tanto con los municipios y representantes de la industria hotelera, y
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-IX. Los ingresos correspondientes al Fondo de Fiscalización, en base a lo señalado en el artículo 10 de esta ley, y
+IX. Los ingresos correspondientes al Fondo de Fiscalización y Recaudación, con base a lo señalado en el artículo 10 de esta ley; y
 
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
@@ -172,39 +172,49 @@ Los municipios podrán afectar los recursos provenientes del Fondo de Aportacion
 
 El retraso en la entrega de las participaciones dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones y se sujetará a lo dispuesto en el artículo 6o. de la Ley de Coordinación Fiscal de la Federación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 9°.
 
 El Fondo de Fomento Municipal, se distribuirá entre los municipios de la siguiente manera:
 
-I. Recibirán anualmente una cantidad igual a la que les hubiere correspondido en el año inmediato anterior, y
+I. Recibirán anualmente una cantidad igual a la que les hubiere correspondido en el año 2013; y
 
-II. Adicionalmente percibirán la cantidad que resulte de aplicar al monto del incremento que tenga este fondo en el año para el que se hace el cálculo en relación con el año precedente.
+II. Adicionalmente percibirán la cantidad que resulte del excedente con respecto al Fondo en el año para el que se hace el cálculo en relación con el año 2013.
 
 El coeficiente se determinará conforme a las siguientes reglas:
 
-a) El 50% de acuerdo a lo señalado en el artículo 7° fracción I, numeral 2, inciso b), de esta Ley, y
+a) El 70% del excedente se distribuirá entre la totalidad de los municipios del Estado de Jalisco, y se hará considerando en un 50% la recaudación de los impuestos municipales y en un 50% los derechos municipales, generados en el año inmediato anterior en que se efectúa el cálculo y reportados en las caratulas de la cuenta pública anual entregada a la Auditoría Superior del Estado de Jalisco, de cada uno de los municipios con respecto a la recaudación total reportada en el Estado por estos mismos conceptos, aplicando la siguiente fórmula:
 
-b) El 50% restante entre todos los municipios considerando el grado de marginalidad establecido de acuerdo al artículo 7º, fracción I, numeral 2, inciso d) de esta Ley.
+> <small>N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VII DEL P.O. DEL 23 DE DICIEMBRE DE 2014, PÁGINA 4.</small>
 
-Los factores, indicadores, procedimientos, fórmulas y coeficientes utilizados para determinar la distribución del fondo de fomento municipal entre los municipios del estado, serán revisados y aprobados por el Congreso del Estado, para cada ejercicio fiscal.
+b) El 30% restante se distribuirá entre el total de los municipios que celebren el convenio para la administración del impuesto predial con el Gobierno del Estado de Jalisco y que este publicado en el periódico oficial El Estado de Jalisco.
 
-Si el fondo de fomento municipal no tuviere incremento con respecto al año inmediato anterior a aquel para el cual se efectúe el cálculo, el Congreso del Estado, por excepción, podrá prorrogar los factores que hubieren correspondido a cada municipio en ese año.
+La distribución del 30% del excedente se realizará conforme la siguiente fórmula:
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VII DEL P.O. DEL 23 DE DICIEMBRE DE 2014, DE LA PÁGINA 4 A LA 5.</small>
+
+El Poder Ejecutivo actualizará el coeficiente, cuando fuere necesario, en función de la incorporación o desincorporación de los Municipios al Convenio de coordinación y colaboración administrativa en materia del impuesto predial, con base en la información proporcionada por la Secretaría de Hacienda y Crédito Público.
+
+La actualización deberá ser notificada al Congreso del Estado y publicada en el Periódico Oficial “El Estado de Jalisco” dentro de los cinco días hábiles del mes inmediato posterior a que se realizó la incorporación o desincorporación. Dicha publicación contendrá la actualización de los coeficientes y el listado de Municipios incorporados o desincorporados.
+
+Los factores, indicadores, procedimientos, fórmulas y coeficientes utilizados para determinar la distribución del Fondo de Fomento Municipal entre los Municipios del Estado, serán revisados y aprobados por el Congreso del Estado, para cada ejercicio fiscal.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 10.
 
-Las participaciones a favor de los municipios a que se refiere la fracción IX del artículo 5 de esta Ley, correspondiente al Fondo de Fiscalización, se distribuirá entre el Estado y los Municipios en dos partes, de la siguiente forma:
+Las participaciones a favor de los municipios a que se refiere la fracción IX del artículo 5 de esta ley, correspondiente al Fondo de Fiscalización y Recaudación, se distribuirá entre el estado y los municipios en dos partes, de la siguiente forma:
 
-La primera parte, se distribuirá entre los municipios del Estado conforme al monto de participaciones que recibieron cada uno de ellos del fondo de Coordinación en Derechos en el año 2007, garantizándoles los mismos recursos que recibieron en el año 2007, salvo en el caso de la conformación de uno nuevo.
+La primera parte, se distribuirá entre los municipios del Estado conforme al monto de la participación a este fondo que recibieron cada uno de ellos del Fondo de Coordinación en Derechos del año 2007, garantizándoles los mismos recursos que recibieron en el mismo ejercicio, salvo en el caso de la conformación de uno nuevo.
 
-La segunda parte, que corresponde a la diferencia entre el Fondo de Fiscalización del año en que se realiza el cálculo y el monto con el que se integró el Fondo de Coordinación en Derechos en el año 2007, se distribuirá en un 80% para el Estado y un 20% para los municipios.
+La segunda parte, que corresponde a la diferencia entre el Fondo de Coordinación en Derechos del año 2007 y el fondo de Fiscalización y Recaudación para el año en que se realiza el cálculo, se distribuirá en un 80% para el estado y un 20% para los municipios.
 
-Del monto a distribuir entre los municipios, el 40% se repartirá entre todos los municipios del Estado, en proporción directa a la recaudación que obtengan por concepto de licencias de funcionamiento y licencias de anuncios en el municipio en el año inmediato anterior al que se realiza el cálculo, contenida en su cuenta pública.
+Del total del porcentaje correspondiente a los municipios se distribuirá de la siguiente manera:
 
-El 60% restante, se distribuirá entre los municipios que tengan celebrado con el Gobierno del Estado Convenio de Colaboración Administrativa en materia de Registro Federal de Contribuyentes del Régimen de Pequeños Contribuyentes y Régimen de Contribuyentes Intermedios, aplicando el criterio señalado en el párrafo anterior.
+1.- El 40% se distribuirá entre todos los municipios del Estado, en proporción directa a la recaudación que obtengan por los conceptos de Derechos municipales generados en el año inmediato anterior al que se realiza el cálculo y reportados en las caratulas de la cuenta pública anual entregada a la Auditoría Superior del Estado de Jalisco, de cada uno de los municipios con respecto a la recaudación total reportada en el Estado por estos mismos conceptos.
+
+2.- El 60% restante, se distribuirá entre todos los municipios del Estado en proporción directa a la recaudación que obtenga por el concepto de impuestos municipales generados en el año inmediato anterior al que se realiza el cálculo y reportado en las caratulas de la cuenta pública anual entregada a la Auditoría Superior del Estado de Jalisco, de cada uno de los municipios con respecto a la recaudación total reportada en el Estado por este mismo concepto.
 
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
@@ -515,3 +525,7 @@ SÉPTIMO. El presente Decreto entrará en vigor al día siguiente al de su publi
 P.O. 14 DE DICIEMBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
