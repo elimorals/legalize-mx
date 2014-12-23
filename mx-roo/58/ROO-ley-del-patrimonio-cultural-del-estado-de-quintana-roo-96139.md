@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-patrimonio-cultural-del-estado-de-quintana-roo-96139"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-06"
-last_updated: "2013-09-06"
+last_updated: "2014-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 6 de septiembre de 2013.
 
@@ -59,31 +59,57 @@ Para los efectos de esta ley, se entiende por:
 
 I. Ayuntamientos: Los H. Ayuntamientos del Estado de Quintana Roo;
 
-II. Comité: El Comité Dictaminador del Patrimonio Cultural del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+II. Comité: El Comité Dictaminador del Patrimonio Cultural del Estado de Quintana Roo, para efectos de la Declaratoria de Patrimonio Cultural que emita el Titular del Poder Ejecutivo del Estado;
 
 III. Convenio: El acuerdo celebrado entre la Secretaría de Cultura y el propietario o poseedor de un bien tangible susceptible de ser declarado Patrimonio Cultural del Estado;
 
-IV. Ley Federal: La Ley Federal Sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-V. Organismos Auxiliares: Las organizaciones civiles cuyo objeto esencial sea la protección del Patrimonio Cultural Estado;
+IV. Legislatura: La Legislatura del Estado de Quintana Roo.
 
-VI. Patrimonio Cultural del Estado: El Patrimonio Cultural del Estado está constituido por los Bienes Tangibles e Intangibles que conforman y expresan las tradiciones históricas, sociales, políticas, arquitectónicas, tecnológicas y económicas que identifican y caracterizan al Estado;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-VII. Patrimonio Cultural Tangible: El conjunto de bienes materiales muebles e inmuebles, públicos y privados que se generan en una sociedad en un tiempo y lugar determinados, ya sea por su valor histórico, social, características de expresión o simbolismo;
+V. Ley Federal: La Ley Federal Sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos;
 
-VIII. Patrimonio Cultural Intangible: El conjunto de bienes inmateriales que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, que por su valor, significado social, características de expresión y simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-IX. Registro Estatal: El Registro Estatal del Patrimonio Cultural del Estado que consiste en una relación clasificada y estadística de la totalidad de los bienes declarados Patrimonio Cultural del Estado, a cargo de la Secretaría de Educación y Cultura;
+VI. Organismos Auxiliares: Las organizaciones civiles cuyo objeto esencial sea la protección del Patrimonio Cultural del Estado;
 
-X. Reglamento: El Reglamento de esta Ley;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-XI. Secretaría de Educación y Cultura: La Secretaría de Educación y Cultura del Estado de Quintana Roo, y
+VII. Patrimonio Cultural del Estado: El Patrimonio Cultural del Estado está constituido por los Bienes Tangibles e Intangibles que conforman y expresan las tradiciones históricas, sociales, políticas, arquitectónicas, tecnológicas y económicas que identifican y caracterizan al Estado;
 
-XII. Titular del Poder Ejecutivo: El Gobernador del Estado de Quintana Roo.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+VIII. Patrimonio Cultural Tangible: El conjunto de bienes materiales muebles e inmuebles, públicos y privados que se generan en una sociedad en un tiempo y lugar determinados, ya sea por su valor histórico, social, características de expresión o simbolismo;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+IX. Patrimonio Cultural Intangible: El conjunto de bienes inmateriales que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, que por su valor, significado social, características de expresión y simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+X. Registro Estatal: El Registro Estatal del Patrimonio Cultural del Estado que consiste en una relación clasificada y estadística de la totalidad de los bienes declarados Patrimonio Cultural del Estado, a cargo de la Secretaría de Educación y Cultura;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+XI. Reglamento: El Reglamento de esta Ley;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+XII. Secretaría de Educación y Cultura: La Secretaría de Educación y Cultura del Estado de Quintana Roo, y
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+XIII. Titular del Poder Ejecutivo: El Gobernador del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 4.
 
-Corresponde al Gobierno del Estado y a los Ayuntamientos, en sus correspondientes ámbitos de competencia, implementar acciones encaminadas a lograr el objeto y efectividad de esta ley y su reglamento.
+Corresponde al Titular del Poder Ejecutivo, a la Legislatura y a los Ayuntamientos, en sus correspondientes ámbitos de competencia, implementar acciones encaminadas a lograr el objeto y efectividad de esta ley y su reglamento.
 
 ###### Artículo 5.
 
@@ -101,11 +127,21 @@ Son autoridades encargadas de la aplicación de esta ley:
 
 I. El Titular del Poder Ejecutivo del Estado;
 
-II. El Titular de la Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-III. Los Ayuntamientos, y
+II. La Legislatura del Estado;
 
-IV. Las demás autoridades y dependencias estatales, en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+III. El Titular de la Secretaría de Educación y Cultura;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+IV. Los Ayuntamientos, y
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+V. Las demás autoridades y dependencias estatales, en el ámbito de su competencia.
 
 ###### Artículo 7.
 
@@ -135,6 +171,22 @@ XI. Promover en coordinación con las autoridades competentes, la Declaratoria d
 
 XII. Las demás que, en materia de patrimonio cultural, establezcan otras disposiciones legales y reglamentarias aplicables.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+Artículo 7 bis. Corresponde a la Legislatura del Estado las siguientes atribuciones:
+
+I. Legislar sobre la protección, conservación y restauración, del patrimonio histórico, cultural y artístico del Estado.
+
+II. Conocer de las Iniciativas de Decreto para declarar Bienes Tangibles e Intangibles considerados como Patrimonio Cultural del Estado.
+
+III. Remitir para su publicación en el Periódico Oficial del Estado, el Decreto que establezca la declaratoria de Bienes Tangibles e Intangibles considerados como Patrimonio Cultural del Estado.
+
+IV. Coadyuvar con las autoridades federales y estatales, en las acciones de protección y difusión del Patrimonio Cultural en el Estado.
+
+V. Promover en coordinación con las autoridades competentes, las Declaratorias de Patrimonio Cultural de la Humanidad de los bienes de Patrimonio Cultural en el Estado, que cubran los requisitos necesarios para tal efecto.
+
+VI. Las demás que, en materia de patrimonio cultural, establezcan otras disposiciones legales y reglamentarias aplicables.
+
 ###### Artículo 8.
 
 Corresponde a la Secretaría de Educación y Cultura, la aplicación del presente ordenamiento, asimismo esta será la instancia de consulta y vinculación en materia de Patrimonio Cultural entre dependencias públicas, los particulares y organismos sociales, con la finalidad de dar cumplimiento a las siguientes atribuciones:
@@ -157,7 +209,7 @@ VIII. Celebrar convenios con las autoridades municipales para el otorgamiento de
 
 IX. Fomentar el conocimiento en la población del Patrimonio Cultural del Estado;
 
-X. Proponer la celebración de convenios entre Gobierno (sic) del Estado, otras Entidades federativas y organismos nacionales e internacionales, respecto a la protección del Patrimonio Cultural;
+X. Proponer la celebración de convenios entre (sic) Gobierno del Estado, otras Entidades federativas y organismos nacionales e internacionales, respecto a la protección del Patrimonio Cultural;
 
 XI. Llevar el control y registro de los bienes declarados Patrimonio Cultural del Estado, a través del Registro Estatal del Patrimonio Cultural;
 
@@ -245,9 +297,11 @@ g) Las colecciones científicas o técnicas, bibliotecas de instituciones públi
 
 ### CAPÍTULO II. Del Patrimonio Cultural Intangible
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 14.
 
-Se considera Patrimonio Cultural Intangible el conjunto de bienes inmateriales y bienes materiales temporales, que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, los cuales por sus valores de significación social, características de expresión, simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron, de conformidad con la Declaratoria estatal que al efecto emita el Ejecutivo del Estado.
+Se considera Patrimonio Cultural Intangible el conjunto de bienes inmateriales y bienes materiales temporales, que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, los cuales por sus valores de significación social, características de expresión, simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron, de conformidad con la Declaratoria estatal que al efecto emita el Ejecutivo del Estado, o la Legislatura.
 
 ###### Artículo 15.
 
@@ -267,13 +321,17 @@ VI. Bienes etnológicos, considerados estos como el conjunto de conocimientos tr
 
 VII. Todas aquellas otras tradiciones y expresiones que por identificar o caracterizar a la cultura quintanarroense merezcan ser transmitidas a futuras generaciones.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 16.
 
-Para que sean considerados como Patrimonio Cultural del Estado, los bienes muebles o inmuebles establecidos en este Título, se requiere la Declaratoria del Ejecutivo del Estado.
+Para que sean considerados como Patrimonio Cultural del Estado, los bienes muebles o inmuebles establecidos en este Título, se requiere la Declaratoria del Ejecutivo del Estado, o de la Legislatura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 17.
 
-La declaratoria de Patrimonio Cultural del Estado de un bien mueble o inmueble se dictaminará atendiendo a sus cualidades, significado o contenido conforme a alguno de los siguientes criterios:
+Las declaratorias de Patrimonio Cultural del Estado, o la que emita la Legislatura, de un bien mueble o inmueble se dictaminará atendiendo a sus cualidades, significado o contenido conforme a alguno de los siguientes criterios:
 
 I. Histórico: Que se encuentren significativamente vinculados a la historia social, política económica, cultural y religiosa del Estado, o con la vida de un quintanarroense ilustre;
 
@@ -281,9 +339,11 @@ II. Artístico: Que constituyan manifestaciones materiales de creación humana c
 
 III. Típico: Que en razón de su antigüedad, forma, técnica de construcción o producción, o de los materiales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 18.
 
-La declaratoria de Patrimonio Cultural del Estado de una zona territorial, se realizará atendiendo a sus cualidades, significado o contenido conforme a alguno de los siguientes criterios:
+La declaratoria de Patrimonio Cultural del Estado, o la de la Legislatura, de una zona territorial, se realizará atendiendo a sus cualidades, significado o contenido conforme a alguno de los siguientes criterios:
 
 I. Histórico: que comprenda espacios territoriales vinculados a la historia del Estado, de alguna de sus regiones, o poblaciones, en los que de forma relevante se encuentre ubicado alguno o algunos bienes inmuebles que conforme a un criterio histórico hubiesen sido inscritos en el Patrimonio Cultural del Estado;
 
@@ -329,9 +389,11 @@ Las obras de conservación y restauración de las casas y edificios de madera de
 
 Del Comité Dictaminador del Patrimonio Cultural del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-Se crea el Comité Dictaminador del Patrimonio Cultural del Estado, como un órgano consultivo de colaboración y orientación en materia de Patrimonio Cultural del Estado.
+Para efectos de la Declaratoria de Patrimonio Cultural del Estado, que emite el Titular del Poder Ejecutivo del Estado, se crea el Comité Dictaminador del Patrimonio Cultural del Estado, como un órgano consultivo de colaboración y orientación en materia de Patrimonio Cultural del Estado.
 
 ###### Artículo 24.
 
@@ -471,7 +533,21 @@ En el Decreto se debe ordenar la inscripción de la declaratoria que corresponda
 
 En el Decreto se deberá ordenar la notificación a la Unidad Administrativa competente para el Desarrollo Urbano Municipal correspondiente.
 
-### CAPÍTULO II. Del Registro Estatal del Patrimonio Cultural del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO II. Del Procedimiento de Decreto Legislativo
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+Artículo 43 bis. Atendiendo a la facultad de iniciativa que les confiere el artículo 68 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, los Diputados podrán iniciar el trámite legislativo para declarar Patrimonio Cultural del Estado, bienes muebles o inmuebles, tangibles o intangibles.
+
+La Comisión de Cultura de la Legislatura, conocerá de las iniciativas que se presenten atendiendo a lo dispuesto por el párrafo anterior.
+
+Los diputados, podrán invitar a académicos de instituciones públicas o privadas, personal del Instituto Nacional de Antropología e Historia; de la Secretaría de Educación y Cultura del Estado, así como a expertos en la materia, que les permitan coadyuvar para el estudio y el debido análisis de una Iniciativa.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+Artículo 43 ter. El Decreto que expida la Legislatura que declare algún bien tangible e intangible considerado como Patrimonio Cultural del Estado, deberá ser remitido al Ejecutivo del Estado para su inscripción al Registro Estatal del Patrimonio Cultural del Estado.
 
 ###### Artículo 44.
 
@@ -706,3 +782,15 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravenga (sic) lo dispuesto por el presente Decreto.
