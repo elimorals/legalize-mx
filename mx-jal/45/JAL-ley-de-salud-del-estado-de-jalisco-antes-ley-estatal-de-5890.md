@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2014-12-20"
+last_updated: "2014-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -225,13 +225,17 @@ V. Vigilar y coordinar, en su caso, la sanidad en los límites con otras entidad
 
 VI. Implementar programas y campañas de difusión sobre las consecuencias del tabaquismo, alcoholismo y el abuso de bebidas alcohólicas, siendo éstos, especialmente orientados hacia la juventud;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-VII. Procurar contactos y celebrar acuerdos con los propietarios y encargados de medios de comunicación social, establecimientos y empresas productoras y comercializadoras de bebidas alcohólicas y tabaco, a fin de que cualquier publicidad o incentivo que promuevan, así como los eventos y campañas que patrocinen u organicen no sea dirigida a menores de dieciocho años; y
+VII. La prevención, información, orientación, investigación, atención, control y vigilancia en materia de embarazo temprano en adolescentes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-VIII. Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que deriven de la Ley General de Salud, de esta Ley y de otras disposiciones legales aplicables;
+VIII. Procurar contactos y celebrar acuerdos con los propietarios y encargados de medios de comunicación social, establecimientos y empresas productoras y comercializadoras de bebidas alcohólicas y tabaco, a fin de que cualquier publicidad o incentivo que promuevan, así como los eventos y campañas que patrocinen u organicen no sea dirigida a menores de dieciocho años; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+IX. Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que deriven de la Ley General de Salud, de esta Ley y de otras disposiciones legales aplicables;
 
 B. En materia de salubridad local:
 
@@ -4312,3 +4316,7 @@ P.O. 18 DE DICIEMBRE DE 2014.
 P.O. 20 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
