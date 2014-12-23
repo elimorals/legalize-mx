@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-ninas-los-ninos-y-adolescentes-34462
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-25"
-last_updated: "2014-12-20"
+last_updated: "2014-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2003.
 
@@ -217,7 +217,9 @@ V. Ofrecer atención pre y post natal a las madres, especialmente a las adolesce
 
 VI. Atender de manera especial las enfermedades endémicas, epidémicas y de transmisión sexual, impulsando programas de protección e información sobre ellas;
 
-VII. Establecer las medidas tendientes a prevenir embarazos tempranos en adolescentes;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+VII. Establecer las medidas tendientes a prevenir, informar, orientar, investigar, atender, controlar y vigilar el embarazo temprano en adolescentes;
 
 VIII. Disponer lo necesario para que las niñas, los niños y adolescentes con discapacidad, reciban la atención apropiada a su condición, que los rehabiliten, les mejore su calidad de vida y los equipare a las demás personas en ejercicio de sus derechos;
 
@@ -1068,3 +1070,7 @@ P.O. 20 DE DICIEMBRE DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Los procedimientos penales iniciados antes de (sic) entrada en vigor del presente decreto en materia de maltrato al infante, al que se refiere el articulo 205 bis del Código Penal del Estado de Jalisco, así como las agravantes mencionadas en el artículo 142-Ñ, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le den origen.
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
