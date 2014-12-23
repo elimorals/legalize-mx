@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-del-servicio-profesional-de-carrera-policial-77517"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-27"
-last_updated: "2014-03-28"
+last_updated: "2014-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección, del Periódico Oficial del Estado de Puebla, el miércoles 27 de octubre de 2010.
 
@@ -2379,7 +2381,7 @@ XI. Registrar por otro miembro del Servicio los controles de asistencia, firmar 
 
 XII. Revelar información de la Secretaría, relativa a su funcionamiento, dispositivos de seguridad, armamento y en general todo aquéllo que afecte directamente la seguridad de la Institución o la integridad física de cualquier persona;
 
-XIII. Introducir, poseer, consumir o comercializar bebidas alcohólicas, estupefacientes, psicotrópicos, enervantes, narcóticos o instrumentos, productos o armamentos cuyo uso pueda afectar la seguridad de la Secretaría o vaya en contra del la normatividad de la misma;
+XIII. Introducir, poseer, consumir o comercializar bebidas alcohólicas, estupefacientes, psicotrópicos, enervantes, narcóticos o instrumentos, productos o armamentos cuyo uso pueda afectar la seguridad de la Secretaría o vaya en contra de la normatividad de la misma;
 
 XIV. Ocultar, sustraer, destruir, retener o traspapelar intencionalmente, documentos o expedientes propiedad de la Secretaría; así como retenerlos o no proporcionar información relacionada con su función cuando se le solicite;
 
@@ -2699,7 +2701,7 @@ IX. Agravios que dan motivo a la impugnación;
 
 X. Ofrecer las pruebas que estime convenientes apegándose al procedimiento establecido en el artículo 275 del Reglamento, respecto de las pruebas; y
 
-XI. Firma del recurrente; (sic)
+XI. Firma del recurrente;
 
 ###### Artículo 299.
 
@@ -2780,3 +2782,19 @@ P.O. 28 DE MARZO DE 2014.
 PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se abroga el Reglamento del Servicio Profesional de Carrera Policial para la Secretaría de Seguridad Pública y Tránsito Municipal del Honorable Ayuntamiento del Municipio de Puebla, publicado en el Periódico Oficial del Estado el 27 de octubre del año 2010, y sus reformas publicadas en el Periódico citado en fecha 18 de marzo de 2014.
+
+TERCERO. Los procedimientos seguidos al miembro del Servicio que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Reglamento, así como las resoluciones de fondo materia de los mismos, deberán substanciarse y concluirse de conformidad a las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+CUARTO. Para efectos del miembro del Servicio se dispondrá un periodo de migración que no excederá de un año, para que cubra con los siguientes criterios: 1) Que haya realizado y aprobado las evaluaciones de control de confianza, 2) Que tenga la equivalencia a la formación inicial o equivalente, y 3) Que cubra con el perfil con relación a la renivelación académica, en su caso.
+
+Una vez cumplido el plazo, los miembros del servicio que no cumplan con alguno de los criterios citados, le serán cesados los efectos de su nombramiento.
+
+QUINTO. La Secretaría emitirá los lineamientos para la aplicación de los mecanismos y de las herramientas de los procedimientos del servicio que se señalan en este Reglamento, en coordinación con las autoridades competentes.
+
+SEXTO. Dentro de los 30 días siguientes a la publicación del presente Reglamento, se instalará la Comisión del Servicio Profesional de Carrera Policial, Honor y Justicia de la Secretaría de Seguridad Pública y Tránsito Municipal.
