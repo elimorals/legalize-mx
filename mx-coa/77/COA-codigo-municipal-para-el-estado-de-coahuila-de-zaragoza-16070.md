@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2014-09-16"
+last_updated: "2014-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1539,19 +1539,19 @@ IV. Cumplir con los demás requisitos que le señalen las leyes, o acuerde el Ay
 
 Para los efectos del presente ordenamiento, se considera como Cronista Municipal, al ciudadano cuya función fundamental es el registro de sucesos notables acaecidos dentro de la jurisdicción territorial del Municipio al que pertenezca, así como investigar, conservar, exponer y promover la cultura de dicho Municipio.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 134-B.
 
-El Cronista Municipal será electo por las dos terceras partes de los miembros del ayuntamiento, a propuesta del Presidente Municipal. Su elección será con base a su demostrada vocación por custodiar y promover la crónica de los acontecimientos del devenir histórico de su comunidad; así como por su experiencia en el dominio del conocimiento de la historia local.
+El Cronista Municipal deberá ser electo por mayoría calificada de los miembros del Ayuntamiento, posterior a una convocatoria abierta que realizara la dirección de cultura de donde surgirá la propuesta. Su elección será con base en su demostrada vocación por custodiar y promover la crónica de los acontecimientos del devenir histórico de su comunidad; así como por su experiencia en el dominio del conocimiento de la historia local.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 134-C.
 
-El Cronista Municipal recibirá su nombramiento como honorario.
+El Cronista Municipal recibirá sueldo de acuerdo con la disponibilidad presupuestal y contará con el apoyo del Ayuntamiento para el cabal cumplimiento de sus funciones. Anualmente, deberá presentar Informe de labores ante el Ayuntamiento, mismo que quedara en resguardo del archivo Municipal.
 
-El Cronista Municipal permanecerá indefinidamente en su cargo y sólo podrá ser removido por justa causa a juicio del Ayuntamiento.
+El Cronista Municipal permanecerá cinco años en su cargo y podrá ser ratificado por otro periodo y sólo podrá ser removido por causa justificada a juicio del Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2004)</small>
 
@@ -4218,3 +4218,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- La Comisión de Transparencia y Acceso a la Información deberán (sic) quedar instalada en un plazo no mayor de 30 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
