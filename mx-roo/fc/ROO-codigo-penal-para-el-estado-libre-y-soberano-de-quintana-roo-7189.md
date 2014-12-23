@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2014-12-19"
+last_updated: "2014-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -2249,8 +2249,6 @@ Al que forme parte de manera permanente de una asociación o banda de tres o má
 
 ### CAPITULO III. TRATA DE PERSONAS
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
 ###### ARTICULO 182.
 
 Al que de cualquier modo dañe, altere o destruya alguna vía o medio de comunicación o de transporte público que no sean de jurisdicción federal, modifique u obstaculice las señales correspondientes, interrumpiendo o dificultando los servicios, se le aplicará prisión de seis meses a cuatro años y de cincuenta a doscientos días multa.
@@ -2427,7 +2425,7 @@ Al que sin ánimo de lucro o de explotación concierte o facilite la explotació
 
 ###### ARTICULO 194.
 
-Para el delito de trata de personas, se atenderá a lo dispuesto por la Ley para Prevenir, Combatir y Sancionar la Trata de Personas del Estado de Quintana Roo.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -3710,3 +3708,9 @@ DECRETO NÚMERO 240, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO V DEL 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones legales vigentes que se opongan al presente Decreto.
