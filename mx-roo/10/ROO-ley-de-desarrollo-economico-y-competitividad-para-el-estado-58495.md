@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-y-competitividad-para-el-estado-584
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2014-10-08"
+last_updated: "2014-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Número 83 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -301,9 +301,11 @@ La Secretaría dará seguimiento a las variables económicas del Estado que perm
 
 La Secretaría deberá diseñar, instalar, operar y mantener los sistemas de información que le permitan captar, concentrar, vincular y difundir la información económica, financiera y operativa que le permita cumplir con los objetivos planteados en los Artículos 10 y 11.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-La Secretaría establecerá mecanismos de coordinación con la Secretaría de Planeación y Desarrollo Regional, para que la información y los grupos de trabajo que se generen como resultado de esta Ley, sea congruente con los requisitos de integración de información y operación del sector económico conforme a lo requerido en la Ley de Planeación de Quintana Roo.
+La Secretaría establecerá mecanismos de coordinación con la Secretaría de Finanzas y Planeación, para que la información y los grupos de trabajo que se generen como resultado de esta ley, sean congruentes con los requisitos de integración de información y operación del sector económico, conforme a lo requerido en la Ley de Planeación para el Desarrollo del Estado de Quintana Roo.
 
 ### CAPÍTULO II. DEL INCREMENTO A LA COMPETITIVIDAD
 
@@ -601,95 +603,47 @@ IX.- Dar difusión a los programas y servicios públicos y privados orientados a
 
 X.- Participar en coordinación con las dependencias que tengan facultades para expedirlas, en la elaboración de Normas Oficiales Mexicanas y Normas Mexicanas de eficiencia energética y aprovechamiento de energías renovables.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO No. 113 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2012, SE REFORMÓ ESTE ARTÍCULO; SIN EMBARGO, EN EL DECRETO No. 306, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2013, SE REFORMA EL PRIMER PÁRRAFO Y LOS INCISOS A), B), E) Y G) DE LA FRACCIÓN III. POR LO ANTERIOR SE TRANSCRIBE COMO APARECE EN EL PERIÓDICO OFICIAL.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 41.
 
 La Comisión de Energía estará integrada de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+I. El C. Gobernador del Estado quien fungirá como Presidente;
 
-I.- El C. Gobernador del Estado quien fungirá como Presidente;
+II. El Secretario de Desarrollo Económico quien será el Vicepresidente Ejecutivo;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+III. El Director de la Comisión de Energía quien será el Secretario Técnico;
 
-II.- El Secretario de Desarrollo Económico quien será el Vicepresidente Ejecutivo;
+IV. Un representante designado por cada uno de los titulares de las Secretarías de:
 
-III.- El Titular de la Comisión de Energía quien será el Secretario Técnico;
+a) Finanzas y Planeación;
 
-a) Planeación y Finanzas; (sic)
+b) Desarrollo Urbano y Vivienda;
 
-b) Desarrollo Urbano y Vivienda; (sic)
+c) Ecología y Medio Ambiente;
 
-c)…(sic)
+d) Infraestructura y Transporte;
 
-d)…(sic)
+e) Desarrollo Agropecuario y Rural;
 
-e) Desarrollo Agropecuario y Rural;(sic)
+f) Turismo;
 
-f)…(sic)
+g) Gestión Pública, y
 
-g) Gestión Pública;(sic)
+h) Educación y Cultura.
 
-h)…(sic)
+V. El Presidente de la Comisión de Medio Ambiente y Cambio Climático de la Legislatura del Estado;
 
-i)…(sic)
+VI. El titular del Consejo Quintanarroense de Ciencia y Tecnología;
 
-j)…(sic)
+VII. Un representante de los empresarios de la Región Centro-Sur del Estado;
 
-k)…(sic)
+VIII. Un representante de los empresarios de la Región Norte del Estado, y
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
-
-IV.- Planeación y Desarrollo Regional;
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
-
-V.- Desarrollo Urbano;
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
-
-VI.- Ecología y Medio Ambiente;
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
-
-VII.- Infraestructura y Transportes;
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
-
-VIII.- Desarrollo Agropecuario, Rural e Indígena;
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
-
-IX.- Turismo;
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
-
-X.- Contraloría;
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
-
-XI.- El Consejo Quintanarroense de Ciencia y Tecnología;
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
-
-XII.- Un representante de los empresarios de la Región Centro-Sur del Estado;
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
-
-XIII.- Un representante de los empresarios de la Región Norte del Estado; y
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
-
-XIV.- Por invitación un representante de la Comisión Federal de Electricidad.
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
+IX. Por invitación un representante de la Comisión Federal de Electricidad.
 
 Por cada uno de los miembros propietarios se deberá nombrar un suplente.
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
 
 El Vicepresidente Ejecutivo suplirá las ausencias del Presidente; el suplente del Vicepresidente Ejecutivo, asumirá las funciones de éste cuando aquél haga las veces de Presidente.
 
@@ -929,11 +883,11 @@ III.- Así como de 9 Vocales que estarán representados por:
 
 1. (DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-2. Un representante de la Secretaría de Planeación y Finanzas del Estado;
+2. Un representante de la Secretaría de Finanzas y Planeación del Estado;
 
-3. Un representante de la Secretaría (sic)Turismo del Estado;
+3. Un representante de la Secretaría (sic) Turismo del Estado;
 
 4. Un representante de la Secretaría de Economía del Gobierno Federal;
 
@@ -1417,9 +1371,9 @@ III.- Un Secretario Técnico que será el Subsecretario de Desarrollo Económico
 
 IV.- (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-V.- El Titular de la Secretaría de Planeación y Finanzas;
+V. El Titular de la Secretaría de Finanzas y Planeación;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -1471,9 +1425,9 @@ Las sesiones de la Comisión serán ordinarias y extraordinarias, debiendo celeb
 
 Son facultades y atribuciones de la Comisión:
 
-I.- Definir y promover la Visión, Líneas Estratégicas y Objetivos en materia de Competitividad y Desarrollo Económico del Estado.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-Lo anterior acorde a los principios de Planeación y Participación Democrática establecidos en la Ley de Planeación del Estado de Quintana Roo;
+I.- Definir y promover la Visión, Líneas Estratégicas y Objetivos en materia de Competitividad y Desarrollo Económico del Estado. Lo anterior acorde a los principios de Planeación y Participación Democrática establecidos en la Ley de Planeación para el Desarrollo del Estado de Quintana Roo;
 
 II.- Determinar en consenso con los actores económicos de la entidad los agrupamientos empresariales, las regiones económicas y los proyectos estratégicos del Estado;
 
@@ -1659,7 +1613,7 @@ DIPUTADO SECRETARIO:
 
 LIC. JUAN C. PALLARES BUENO.
 
-CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91, FRACCIÓN I Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, EL DECRETO NÚMERO 245 QUE CONTIENE LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA .EL ESTADO DE QUINTANA ROO. EXPEDIDO POR LA HONORABLE XI LEGISLATURA DEL ESTADO A LOS ONCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DIECISIETE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE.
+CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91, FRACCIÓN I Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, EL DECRETO NÚMERO 245 QUE CONTIENE LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO. EXPEDIDO POR LA HONORABLE XI LEGISLATURA DEL ESTADO A LOS ONCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DIECISIETE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO.
 
@@ -1806,3 +1760,9 @@ SEGUNDO. En un término menor a treinta días contados a partir de la entrada en
 TERCERO. La Secretaría de Desarrollo Económico del Estado, dentro del término de noventa días contados a partir de la entrada en vigor del presente Decreto, deberá establecer la Dirección del Emprendedor, la cual dependerá orgánicamente de la Subsecretaría de Desarrollo Económico.
 
 CUARTO. La Secretaría de Desarrollo Económico del Estado, dentro del término previsto en el artículo anterior, realizará los ajustes presupuestales y administrativos correspondientes para el cumplimiento del presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente decreto.
