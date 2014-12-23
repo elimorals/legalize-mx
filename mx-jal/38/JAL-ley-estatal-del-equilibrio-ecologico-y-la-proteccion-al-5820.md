@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2014-04-08"
+last_updated: "2014-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -79,89 +79,65 @@ III. Capacidad de amortiguamiento de los ecosistemas: Se refiere a la cualidad i
 
 IV. Capacidad de carga ambiental: Respuesta de un ecosistema a las diversas actividades o acciones productivas del desarrollo, sin que se afecte su condición natural y/o aumente su fragilidad;
 
-V. Condición natural clímax: Características que hacen a un ecosistema mantener la estabilidad, el desarrollo y la evolución de cada uno de sus elementos, cuya composición y estructura es remotamente conocida;
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-VI. (DEROGADA, P.O. 7 DE JUNIO DE 2007)
+V. Composta: Producto resultante del tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes;
 
-VII. Corta sanitaria: Medida para prevenir y evitar la degradación provocada por algún agente patógeno en especies como árboles, arbustos y otras plantas;
+VI. Condición natural clímax: Características que hacen a un ecosistema mantener la estabilidad, el desarrollo y la evolución de cada uno de sus elementos, cuya composición y estructura es remotamente conocida;
 
-VIII. Criterios ambientales: Los lineamientos y conceptos necesarios para preservar, restaurar y conservar el equilibrio de los ecosistemas y proteger al ambiente, en el marco del desarrollo sustentable;
+VII. (DEROGADA, P.O. 7 DE JUNIO DE 2007)
 
-IX. Desequilibrio ambiental: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman al ambiente que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
+VIII. Corta sanitaria: Medida para prevenir y evitar la degradación provocada por algún agente patógeno en especies como árboles, arbustos y otras plantas;
 
-X. Ecoturismo: Es la actitud de respeto, admiración e interacción del hombre con la cultura y naturaleza en el desarrollo de actividades recreativas en entornos naturales dentro de un marco de sustentabilidad, propiciando un involucramiento activo y socioeconómico en beneficio de las poblaciones locales, principalmente a través de una modalidad turística ambientalmente responsable;
+IX. Criterios ambientales: Los lineamientos y conceptos necesarios para preservar, restaurar y conservar el equilibrio de los ecosistemas y proteger al ambiente, en el marco del desarrollo sustentable;
 
-XI. Emergencia ambiental: Urgencia ante un problema ambiental que necesita solución inmediata;
+X. Desequilibrio ambiental: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman al ambiente que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-XII. Emisión contaminante: La generación o descarga de materia o energía en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los sistemas biótico y abiótico, afecte o pueda afectar negativamente su composición o condición natural;
+XI. Ecoturismo: Es la actitud de respeto, admiración e interacción del hombre con la cultura y naturaleza en el desarrollo de actividades recreativas en entornos naturales dentro de un marco de sustentabilidad, propiciando un involucramiento activo y socioeconómico en beneficio de las poblaciones locales, principalmente a través de una modalidad turística ambientalmente responsable;
 
-XIII. Estudio de impacto ambiental: Proceso de análisis de carácter interdisciplinario, basado en estudios de campo y gabinete, encaminado a identificar, predecir, interpretar, valorar, prevenir y comunicar los efectos de una obra, actividad o proyecto sobre el medio ambiente;
+XII. Emergencia ambiental: Urgencia ante un problema ambiental que necesita solución inmediata;
 
-XIV. Flora y fauna acuáticas: Las especies biológicas y elementos biogénicos que tienen como medio de vida temporal, parcial o permanente, las aguas del territorio del estado;
+XIII. Emisión contaminante: La generación o descarga de materia o energía en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los sistemas biótico y abiótico, afecte o pueda afectar negativamente su composición o condición natural;
 
-XV. Fragilidad ambiental: Condición actual de un ecosistema, parte de él o de sus componentes, en comparación a su condición natural clímax;
+XIV. Estudio de impacto ambiental: Proceso de análisis de carácter interdisciplinario, basado en estudios de campo y gabinete, encaminado a identificar, predecir, interpretar, valorar, prevenir y comunicar los efectos de una obra, actividad o proyecto sobre el medio ambiente;
 
-XVI. Gestión ambiental: Conjunto de acciones orientadas a lograr la sustentabilidad en los procesos de defensa, protección y mejora ambiental;
+XV. Flora y fauna acuáticas: Las especies biológicas y elementos biogénicos que tienen como medio de vida temporal, parcial o permanente, las aguas del territorio del estado;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2014)</small>
+XVI. Fragilidad ambiental: Condición actual de un ecosistema, parte de él o de sus componentes, en comparación a su condición natural clímax;
 
-XVII. Secretaría: Secretaría de Medio Ambiente y Desarrollo Territorial;
+XVII. Gestión ambiental: Conjunto de acciones orientadas a lograr la sustentabilidad en los procesos de defensa, protección y mejora ambiental;
 
-XVIII. Información ambiental: Se considera a cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades estatales y municipales, en materia ambiental, de agua, aire, suelo, flora, fauna y recursos naturales en general, así como de las actividades o medidas que les afectan o pueden afectarles;
+XVIII. Secretaría: Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-XIX. Mejoramiento: El restablecimiento e incremento en la calidad del ambiente;
+XIX. Información ambiental: Se considera a cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades estatales y municipales, en materia ambiental, de agua, aire, suelo, flora, fauna y recursos naturales en general, así como de las actividades o medidas que les afectan o pueden afectarles;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+XX. Mejoramiento: El restablecimiento e incremento en la calidad del ambiente;
 
-XX. Normatividad estatal o normatividad reglamentaria: Acuerdos de carácter técnico que expida el Titular del Ejecutivo o la Secretaría en la Materia.
+XXI. Normatividad estatal o normatividad reglamentaria: Acuerdos de carácter técnico que expida el Titular del Ejecutivo o la Secretaría en la Materia.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+XXII. Norma oficial mexicana: La regla científica o tecnológica emitida por el ejecutivo federal, que deben aplicar los gobiernos del estado y de los municipios, en el ámbito de sus competencias;
 
-XXI. Norma oficial mexicana: La regla científica o tecnológica emitida por el ejecutivo federal, que deben aplicar los gobiernos del estado y de los municipios, en el ámbito de sus competencias;
+XXIII. Patrimonio cultural: El conjunto de manifestaciones producto de la obra conjunta o separada del hombre y de la naturaleza que contiene relevancia histórica, estética, paisajística, arquitectónica, urbanística, literaria, artística, pictográfica, tradicional, etnológica, científica o intelectual para la sociedad jalisciense;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+XXIV. Reciclaje: El Proceso por el cual los residuos son transformados en productos nuevos, de tal manera que pierden su identidad original y se convierten en materia prima de nuevos productos;
 
-XXII. Patrimonio cultural: El conjunto de manifestaciones producto de la obra conjunta o separada del hombre y de la naturaleza que contiene relevancia histórica, estética, paisajística, arquitectónica, urbanística, literaria, artística, pictográfica, tradicional, etnológica, científica o intelectual para la sociedad jalisciense;
+XXV. Recurso natural: Elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+XXVI. Relleno sanitario: Obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar a través de la compactación e infraestructura adicionales los impactos ambientales;
 
-XXIII. Reciclaje: El Proceso por el cual los residuos son transformados en productos nuevos, de tal manera que pierden su identidad original y se convierten en materia prima de nuevos productos;
+XXVII. Rescate energético: Es la recuperación con fines de reutilización de una parte de la energía que fue utilizada en los procesos productivos que anteceden a la generación de residuos;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+XXVIII. Residuo incompatible: Aquel que al entrar en contacto o ser mezclado con otro, reacciona produciendo calor o presión, fuego o evaporación, partículas, gases o vapores peligrosos, pudiendo ser esta reacción violenta;
 
-XXIV. Recurso natural: Elemento natural susceptible de ser aprovechado en beneficio del hombre;
+XXIX. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+XXX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en [a vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
-XXV. Relleno sanitario: Obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar a través de la compactación e infraestructura adicionales los impactos ambientales;
+XXXI. Riesgo: Posibilidad de pérdidas humanas, materiales y económicas, así como la afectación significativa al ambiente, que se pueda generar con motivo de los peligros naturales o antropogénicos existentes y la vulnerabilidad de la población y los ecosistemas; y
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+XXXII. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales;
 
-XXVI. Rescate energético: Es la recuperación con fines de reutilización de una parte de la energía que fue utilizada en los procesos productivos que anteceden a la generación de residuos;
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
-
-XXVII. Residuo incompatible: Aquel que al entrar en contacto o ser mezclado con otro, reacciona produciendo calor o presión, fuego o evaporación, partículas, gases o vapores peligrosos, pudiendo ser esta reacción violenta;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
-
-XXVIII. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
-
-XXIX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en [a vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
-
-XXX. Riesgo: Posibilidad de pérdidas humanas, materiales y económicas, así como la afectación significativa al ambiente, que se pueda generar con motivo de los peligros naturales o antropogénicos existentes y la vulnerabilidad de la población y los ecosistemas; y (sic)
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
-
-XXXI. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales;
-
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
-
-XXXII. Procuraduría: Órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial, denominado Procuraduría Estatal de Protección al Ambiente.
+XXXIII. Procuraduría: Órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial, denominado Procuraduría Estatal de Protección al Ambiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -249,11 +225,17 @@ XXXI. El diseño, desarrollo y aplicación de los instrumentos económicos que i
 
 XXXII. Resolver los recursos de revisión que se interpongan con motivo de la aplicación de esta ley, sus reglamentos y disposiciones que de ella emanen;
 
-XXXIII. Inspeccionar, vigilar, e imponer sanciones, en los asuntos de sus competencias, en cumplimiento de las disposiciones establecidas en esta ley; y
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-XXXIV. Las demás que se deriven de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y sus disposiciones reglamentarias, la presente ley, y otras disposiciones aplicables.
+XXXIII. Crear, diseñar, construir, operar, supervisar y promover el establecimiento o instalación de plantas dedicadas a la elaboración de composta con los residuos orgánicos recolectados por el servicio municipal de aseo;
 
-Cuando dos o más centros de población urbanos, situados en el estado, formen o tiendan a formar una continuidad demográfica, el gobierno del estado y los gobiernos municipales respectivos, en el ámbito de sus competencias, planearán de manera coordinada las acciones de que trata éste artículo, cuya regulación queda a cargo del gobierno del estado, salvo lo previsto en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+XXXIV. Inspeccionar, vigilar, e imponer sanciones, en los asuntos de sus competencias, en cumplimiento de las disposiciones establecidas en esta ley; y
+
+XXXV. Las demás que se deriven de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y sus disposiciones reglamentarias, la presente ley, y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+Cuando dos o más centros de población urbanos, situados en el estado, formen o tiendan a formar una continuidad demográfica, el gobierno del estado y los gobiernos municipales respectivos, en el ámbito de sus competencias, planearán de manera coordinada las acciones de que trata este artículo, cuya regulación queda a cargo del gobierno del estado, salvo lo previsto en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -307,7 +289,7 @@ XVII. Imponer las sanciones administrativas que procedan, a los infractores de e
 
 XVIII. Emitir su opinión sobre las declaratorias que se expidan para regular los usos del suelo, cuyos impactos ambientales pueden ser negativos al funcionamiento y estructura de los ecosistemas del estado;
 
-XIX. Promover y otorgar incentivos y proponer estímulos en favor de los particulares, que fomenten el desarrollo sustentable y contribuyan a la disminución de la contaminación y el mejoramiento de la calidad ambiental; y (sic)
+XIX. Promover y otorgar incentivos y proponer estímulos en favor de los particulares, que fomenten el desarrollo sustentable y contribuyan a la disminución de la contaminación y el mejoramiento de la calidad ambiental; y
 
 XX. Promover la incorporación de contenidos ambientales en los diversos ciclos educativos, para propiciar el fortalecimiento de la conciencia ambiental;
 
@@ -319,19 +301,23 @@ XXII. Vigilar el cumplimiento de las disposiciones de la presente ley en las obr
 
 XXIII. Atender los asuntos que afecten el equilibrio ecológico de dos o más municipios, de conformidad a la distribución de competencias que se establece en la presente ley;
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+XXIV. Asesorar, apoyar, coordinar y fomentar los esfuerzo (sic) públicos y privados que tengan por finalidad el diseño, construcción, operación, supervisión, establecimiento o instalación de plantas dedicadas a la elaboración de composta con los residuos orgánicos recolectados por el servicio municipal de aseo;
+
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-XXIV. Crear, administrar y aplicar el Fondo Estatal de Protección al Ambiente;
+XXV. Crear, administrar y aplicar el Fondo Estatal de Protección al Ambiente;
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-XXV. Proponer al titular del Poder Ejecutivo las bases para la celebración del concurso denominado "Premio Estatal al Cuidado del Medio Ambiente" que será entregado al o a los municipios que hayan cumplido con los Criterios Ambientales y de Gestión Ambiental de la presente ley.
+XXVI. Proponer al titular del Poder Ejecutivo las bases para la celebración del concurso denominado "Premio Estatal al Cuidado del Medio Ambiente" que será entregado al o a los municipios que hayan cumplido con los Criterios Ambientales y de Gestión Ambiental de la presente ley.
 
 Las bases a las que se refiere la presente fracción serán aprobadas mediante acuerdo que deberá ser publicado en el periódico oficial El Estado de Jalisco; y
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-XXVI. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
+XXVII. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -683,7 +669,7 @@ IV. Instalación y operación de establecimientos industriales, comerciales y de
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-V. Las demás que no sean competencia de la federación ni del estado; y (sic).
+V. Las demás que no sean competencia de la federación ni del estado; y
 
 ###### Artículo 30.
 
@@ -849,7 +835,7 @@ VII. La prevención y control de la contaminación atmosférica, de suelos y de 
 
 Artículo 41 Quarter. Los recursos del Fondo Ambiental se integrarán con:
 
-I. Las herencias, Iegados, cesión de derechos y donaciones que reciba;
+I. Las herencias, legados, cesión de derechos y donaciones que reciba;
 
 II. Los recursos destinados para ese efecto en las leyes de ingresos y los presupuestos de egresos de la Federación, Estado y los municipios;
 
@@ -2410,3 +2396,7 @@ P.O. 8 DE ABRIL DE 2014.
 DECRETO NÚMERO 24848/LX/14, POR EL QUE SE REFORMAN LOS ARTÍCULOS 112, 113 Y 114 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
