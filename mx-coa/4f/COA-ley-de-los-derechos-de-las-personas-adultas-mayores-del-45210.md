@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2014-07-29"
+last_updated: "2014-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -466,6 +466,10 @@ VI. Llevar un expediente personal minucioso.
 VII. Expedir copia del expediente en caso de que sea solicitado por sus familiares o cualquier otra institución que por cualquier causa continúe su atención, con objeto de darle seguimiento a su cuidado.
 
 VIII. Registrar los nombres, domicilios, números telefónicos y lugares de trabajo de sus familiares.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+IX. Llevar un registro de las visitas que le hagan los familiares al adulto mayor, en caso de abandono, esta deberá dar aviso a la Procuraduría para Niños, Niñas y la Familia sobre el abandono del adulto mayor, para que ésta inicie un procedimiento para otorgar una pensión alimenticia a los adultos abandonados a cargo de los familiares.
 
 En todo momento las instituciones públicas, privadas y sociales deberán garantizar y observar el total e irrestricto respeto a los derechos de las personas adultas mayores que esta Ley les consagra y deberán contar con personal que posea vocación, capacidad y conocimientos orientados a la atención de éstas.
 
@@ -1246,5 +1250,9 @@ TERCERO. En un plazo de 120 días el Consejo Directivo reformara lo conducente a
 CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
 
 P.O. 29 DE JULIO DE 2014.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
