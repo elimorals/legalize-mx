@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2013-12-26"
+last_updated: "2014-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 108, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2013, QUE MODIFICA ESTE ORDENAMIENTO, VÉASE SU ARTÍCULO PRIMERO TRANSITORIO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -131,9 +129,13 @@ c) Se solicite de los sujetos pasivos, responsables solidarios, responsables obj
 
 d) Se recabe de los servidores públicos y de los fedatarios, los informes y datos que posean, con motivo de sus funciones;
 
-e) Emplear cualquiera de los siguientes medios de apremio, que juzguen eficaces, para hacer cumplir sus determinaciones:
+e) Emplear cualquiera de los siguientes medios de apremio, que se juzguen eficaces, para hacer cumplir sus determinaciones:
 
-1. La multa de 1 a 16 días de salario que se duplicará en caso de reincidencia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+1. La multa de 1 a 16 días de salario mínimo general vigente en la entidad que se duplicará en caso de reincidencia.
 
 2. El auxilio de la fuerza pública; y
 
@@ -689,7 +691,9 @@ Para vehículos de modelo más antiguo, la base del impuesto será el valor de l
 
 #### SECCION CUARTA. DE LA TASA
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 38.
 
@@ -697,7 +701,7 @@ El impuesto sobre adquisición de vehículos de motor usados se calculará aplic
 
 GRUPO 1 GRUPO 2 GRUPO 3
 
-3% 2.5% 3.0%
+2.5% 2.5% 2.5%
 
 #### SECCION QUINTA. DEL PAGO
 
@@ -991,7 +995,11 @@ b) En el acto en que el fideicomitente ceda sus derechos, si entre éstos se inc
 
 XI. La división, liquidación de la copropiedad o de la sociedad conyugal o legal, por lo que se refiere a los excedentes del valor que le correspondería a la porción de cada copropietario o cónyuge;
 
-XII. Las transmisiones de la propiedad realizadas en procedimientos judiciales o administrativos, exceptuándose los casos previstos por el inciso b) de la fracción II del artículo 975 de la Ley Federal del trabajo, en cuyo caso se les aplicará el factor 0.03 sobre el monto del impuesto de transmisiones patrimoniales que les corresponda pagar;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+XII. Las transmisiones de la propiedad realizadas en procedimientos judiciales o administrativos.
 
 XIII. La constitución y transmisión del derecho de superficie;
 
@@ -1011,27 +1019,41 @@ Tratándose de permutas, se considerará que se efectúan dos adquisiciones.
 
 En la determinación de la base del impuesto sobre adquisición de inmuebles, se aplicarán las siguientes disposiciones:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Será base del impuesto, el valor catastral actualizado; por lo tanto, la base del Impuesto, deberá reflejar el valor de mercado, por lo que se deberá presentar el avalúo comercial correspondiente a la fecha de la causación;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-II. Tratándose de inmuebles que no cuenten con accesorios o instalaciones especiales, deberá presentarse avalúo practicado por perito valuador acreditado o dictamen de valor elaborado por la autoridad catastral, conforme a las disposiciones de la Ley de Catastro del Estado de Campeche;
+I. Será base del impuesto el valor catastral actualizado con los valores unitarios vigentes en la fecha de causación.
 
-III. Tratándose de inmuebles que cuenten con accesorios o instalaciones especiales, deberá practicarse avalúo por perito valuador acreditado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los peritos valuadores acreditados deberán presentar sus avalúos ante la autoridad catastral municipal para fines de revisión y, en su caso, aprobación;
+II. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
-IV. Si las autoridades advierten que los avalúos consignan valores inferiores a los reales, se practicará nuevo avalúo por un perito valuador acreditado, con cargo a la Tesorería Municipal correspondiente, a efecto de dar cumplimiento a lo dispuesto en la fracción II de este artículo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Cuando el contribuyente considere que el dictamen de valor asignado al inmueble, con base en lo preceptuado en la fracción I de este artículo, es superior al valor real, podrá solicitar la reclasificación de los datos catastrales, a fin de que la autoridad catastral haga la ratificación o rectificación según corresponda, en los términos de la Ley de Catastro del Estado de Campeche;
+III. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
-VI. Cuando la autoridad catastral considere que el avalúo presentado para su revisión es coincidente con los valores reales, y éstos sean inferiores a los valores de tablas, estará facultada para emitir un dictamen, fundado y motivado, mediante el cual apruebe el avalúo correspondiente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Para la actualización del valor catastral, se podrán tomar en consideración los datos y características del inmueble, que se consignen en el avalúo practicado por el perito valuador acreditado;
+IV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. En la constitución, adquisición, acrecentamiento o extinción del usufructo, del derecho de superficie o de la nuda propiedad, y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el avalúo o dictamen de valor según sea el caso, de conformidad con la fracción I de este artículo. Para los fines de este impuesto, tratándose de la adquisición por el usufructuario, éste pagará el impuesto correspondiente;
+V. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+VIII. En la constitución, adquisición, acrecentamiento y extinción del usufructo, del derecho de superficie o de la nuda propiedad, y en la adquisición de bienes en remate, la base de este impuesto será el valor catastral actualizado, de conformidad con la fracción I de este artículo.
 
 IX. Tratándose de permutas será base de este impuesto el 100% cien por ciento del valor de cada uno de los bienes permutados, determinado de conformidad con lo dispuesto en las fracciones I y II de este artículo;
 
@@ -1061,7 +1083,11 @@ El pago del impuesto deberá hacerse en la Tesorería Municipal correspondiente 
 
 USUFRUCTO O NUDA PROPIEDAD.
 
-I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad.
 
 ADJUDICACIÓN POR SUCESIÓN O HERENCIA.
 
@@ -1115,7 +1141,7 @@ I. La Federación, las Entidades Federativas y los Municipios para formar parte 
 
 II. Los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso;
 
-III. Los Arrendatarios Financieros al ejercer la opción de compra en los términos de contrato de arrendamiento financiero; y (sic)
+III. Los Arrendatarios Financieros al ejercer la opción de compra en los términos de contrato de arrendamiento financiero; y
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1319,13 +1345,41 @@ hasta por quince días 20
 
 D. Por la reposición de tarjeta de circulación 2
 
-E. Por refrendo anual de placas, que incluye
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-calcomanía y tarjeta de circulación 8
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+E. Por refrendo anual de placas,
 
-III.- El pago de las cuotas que anteceden se efectuarán en las oficinas autorizadas al efecto. El plazo para el refrendo anual a que se refiere el inciso E, de la fracción II, deberá realizarse durante el primer trimestre del año; la expedición de placas de los vehículos a que se refieren los incisos I, J, K y L de la fracción I, dentro de los primeros cuatro meses del año. En los demás casos dentro de los quince días siguientes a la adquisición del vehículo.
+que incluye calcomanía y tarjeta
+
+de circulación para automóviles,
+
+autobuses, camiones, camionetas,
+
+tractores, automotores, remolques,
+
+semirremolques, y otros similares. 6
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+F.- Por refrendo anual de placas,
+
+que incluye calcomanía y tarjeta de
+
+circulación para motocicletas,
+
+cuatrimotos, motonetas, trimotos
+
+o similares. 3
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+III.- El pago de las cuotas que anteceden se efectuarán en las oficinas autorizadas al efecto. El plazo para el refrendo anual a que se refiere el apartado E y F, de la fracción II, deberá´ realizarse durante el primer trimestre del año; la expedición de placas de los vehículos a que se refieren los incisos I, J, K y L de la fracción I, dentro de los primeros cuatro meses del año. En los demás casos dentro de los quince días siguientes a la adquisición del vehículo.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1437,7 +1491,7 @@ Están obligados al pago de este derecho quienes resulten beneficiados con este 
 
 ###### ARTÍCULO 82.
 
-Este servicio público estará atendido por el Municipio, mediante el transporte de toda clase de basura y desperdicio en vehículos de su propiedad. El Municipio podrá celebrar convenios - concesión, para la atención de este servicio público.
+Este servicio público estará atendido por el Municipio, mediante el transporte de toda clase de basura y desperdicio en vehículos de su propiedad. El Municipio podrá celebrar convenios – concesión, para la atención de este servicio público.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1607,7 +1661,7 @@ Son sujetos de este derecho las personas físicas o morales, que sean propietari
 
 La tarifa mensual correspondiente al derecho de alumbrado público, será obtenida como resultado de dividir el costo anual global general actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre 12 y lo que dé como resultado de esta operación se cobrará en cada recibo que la Comisión Federal de Electricidad expida y su monto no podrá ser superior al 6% de las cantidades que deban pagar los contribuyentes en forma particular, sobre el consumo de energía eléctrica.
 
-Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la CFE, pagarán la tarifa resultante mencionada en el párrafo anterior, mediante el recibo que para tal efecto expida la Tesorería Municipal. Se entiende para los efectos de esta Ley por "costo anual global general actualizado erogado", la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto directamente involucrado con la prestación de este servicio traído a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio dividiendo el Índice Nacional de Precios al Consumidor del mes de Noviembre del ejercicio inmediato anterior entre el Índice Nacional de Precios al Consumidor correspondiente al mes de Octubre del penúltimo ejercicio inmediato anterior.
+Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la CFE, pagarán la tarifa resultante mencionada en el párrafo anterior, mediante el recibo que para tal efecto expida la Tesorería Municipal. Se entiende para los efectos de esta Ley por “costo anual global general actualizado erogado”, la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto directamente involucrado con la prestación de este servicio traído a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio dividiendo el Índice Nacional de Precios al Consumidor del mes de Noviembre del ejercicio inmediato anterior entre el Índice Nacional de Precios al Consumidor correspondiente al mes de Octubre del penúltimo ejercicio inmediato anterior.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1633,43 +1687,33 @@ Estos servicios se regirán en todo lo que les sean aplicable, por la Ley de Agu
 
 Los derechos a perpetuidad en panteones municipales se causarán y pagarán conforme a la siguiente:
 
-TARIFA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE GRUPO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 G R U P O 1
 
-I.- En los
+TARIFA
 
-panteones
+Se cobrará en veces de salario mínimo general vigente en la entidad
 
-de: San Román Sta. Lucía Samulá Panteón
+I.- EN LOS SAN STA. SAMULÁ SIGLO XXI
 
-Siglo XXI
+PANTEONES ROMÁN LUCÍA
 
-A. Bóveda $5,000 $5,000 $5,000 $3,180
+DE
 
-B. Cripta $5,000 $5,000 $5,000 $3,180
+A. Cripta 80 80 80 60
 
-C. Osario $2,090 $2,090 $2,090 $2,090
+B. Osario 55 55 55 45
 
-D. Cremación
+II.- EN LOS PANTEONES DEL INTERIOR DEL MUNICIPIO.
 
-$3,135
+A. Cripta 3.00
 
-F. Sala de Velación
+B. Osario 2.50
 
-II.- En los panteones del interior del Municipio:
-
-A. Bóveda $209
-
-B. Cripta $209
-
-C. Por metro
-
-cuadrado $52
-
-D. Osario $104
+C. Por metro cuadrado 0.50
 
 G R U P O 2
 
@@ -1723,37 +1767,63 @@ cuadrado $32.00
 
 D. Osario $79.00
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 92.
 
-Por la inscripción de cambio de titular de los derechos en panteones municipales se pagará los salarios mínimos diarios vigentes de la zona económica correspondiente, aplicando a lo determinado en (sic) siguiente tabla:
+Por la inscripción de cambio de titular de los derechos, inhumación y exhumación, en panteones municipales se pagará los salarios mínimos diarios vigentes de la zona económica correspondiente, aplicando a lo determinado en la siguiente tabla:
 
-GRUPO 1 GRUPO 2 GRUPO 3
+Concepto Grupo 1 Grupo 2 Grupo 3
 
-7 2 2
+Cambio de titular 7 2 2
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+Inhumación 2 a 5
+
+Exhumación 2 a 5
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 93.
 
-Los derechos por el uso en panteones municipales causarán y pagarán en veces de salarios mínimos, conforme a la siguiente:
+Los derechos por el uso temporal en panteones municipales causarán y pagarán en veces de salarios mínimos vigentes en el Estado, conforme a la siguiente:
 
 T A R I F A
 
-I.- PANTEONES MUNICIPALES.-
+I.- PANTEONES MUNICIPALES
 
-G R U P O 1
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE GRUPO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-A. En los panteones de: San Román Sta. Lucía Samulá Lerma SIGLO XXI
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-1. Bóveda por cinco años 37 a 53 37 a 53 37 a 53 37 a 53 37 a 53
+Grupo I
 
-2. Cripta por cinco años 37 a 53 37 a 53 37 a 53 37 a 53 37 a 53
+A.- En los SAN STA. SAMULÁ SIGLO XXI
 
-3. Por metro cuadrado por cinco años 21 21 21 21 21
+panteones de: ROMÁN LUCÍA
+
+1.- Fosa o
+
+Tumba por
+
+5 años 37 37 37 35
+
+2.- Cripta por
+
+5 años 35 35 35 30
+
+3.- Osario por
+
+5 años 30 30 30 25
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 Se causarán y pagarán estos derechos de acuerdo con el número de veces el salario mínimo diario vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 B. En los panteones del interior del Municipio:
 
@@ -1764,6 +1834,20 @@ B. En los panteones del interior del Municipio:
 3. Por metro cuadrado, por tres años $20.90
 
 4. Fosa común por tres años $31.35
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+II.- EN LOS PANTEONES DEL INTERIOR DEL MUNICIPIO.
+
+1.- Fosa o Tumba por 5 años 3.00
+
+2.- Cripta por 5 años 2.50
+
+3.- Osario por 5 años 2.00
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 G R U P O 2
 
@@ -1786,6 +1870,8 @@ B. En los panteones del Interior del Municipio:
 3. Por metro cuadrado, por tres años $31.35
 
 4. Fosa común por tres años EXENTO
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 G R U P O 3
 
@@ -1955,39 +2041,61 @@ Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento 
 
 #### SECCION TERCERA. POR LICENCIA DE USO DE SUELO
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 105.
 
-Para poder dar uso o destino a un predio, se causará un derecho equivalente al número de veces el salario mínimo diario de la zona conforme a la siguiente:
+La autorización de uso o destino a un predio, causará un derecho equivalente al número de veces el salario mínimo general vigente en la entidad conforme a la siguiente:
+
+TARIFA
 
 TIPO GRUPO 1 GRUPO 2 GRUPO 3
 
-I.- Para
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-casa-habitación
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-Hasta 65.00 m2
+I. Para casa-habitación
 
-construidos 1.045 1.045 1.045
+Hasta 65.00 m2 construidos. 3 3 3
 
 De 65.10 m2 a
 
-120.00 m2 2.09 2.09 2.09
+120.00 m2 5 5 5
 
 De 120.10 m2
 
-en adelante 3.135 3.135 3.135
+en adelante 7 7 7
 
-II.- Para Comercio e Industria
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Económico 1.045 1.045 1.045
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-Media 2.09 2.09 2.09
+II. Para Comercio e Industria
 
-Alta 4.18 4.18 4.18
+A. De hasta 50 M2 7 7 7
 
-III.- El importe se determinará multiplicando los metros cuadrados por el número de veces del salario mínimo de la zona geográfica, según el tipo y grupo al que corresponda el inmueble.
+B. De 50.01 a
+
+100.00M2 9 9 9
+
+C. De 100.01 a
+
+500.00 M2 20 20 20
+
+D. De 500.01 a
+
+2500.00 M2 40 40 40
+
+E. De 2500.01
+
+en adelante 80 80 80
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+III. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -2097,7 +2205,7 @@ Es objeto de este derecho la autorización de rotura de pavimento, adoquín, ban
 
 Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento de Construcciones para el Municipio.
 
-> <small>(ADICIONADA CON LOS ARTÓCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 #### SECCION SEPTIMA. POR LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD
 
@@ -2191,11 +2299,21 @@ Electrónico más de 3 metros
 
 de altura: 15.00
 
-K. Mantas atravesando calles
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-o banquetas, o fijadas a
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-árboles o postes: 3.14
+K. Mantas y lonas en
+
+toda variedad de material
+
+empleado para
+
+publicidad atravesando
+
+calles o banquetas, o
+
+fijadas a árboles o postes 3.4
 
 L. Publicidad en casetas
 
@@ -2615,6 +2733,76 @@ III. Cauciones cuya pérdida se declare por resolución firme a favor del Munici
 
 IV. Indemnizaciones por responsabilidades fincadas a terceros.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 144 BIS.- Los servicios prestados por las Direcciones de Protección Civil Municipales, se pagarán conforme a las cuotas siguientes de acuerdo a la constancia emitida por la autoridad municipal.
+
+CONCEPTO SMGV
+
+I. CONSTANCIA DE MEDIDAS BÁSICAS DE
+
+PROTECCIÓN CIVIL
+
+A. DE HASTA 50 M2 5
+
+B. DE 50.01 a 100.00 M2 10
+
+C. DE 100.01 a 500.00 M2 15
+
+D. DE 500.01a 2500.00 M2 20
+
+E. DE 2500.01 EN ADELANTE 25
+
+II. ANALISIS DE DAÑOS
+
+A. DE HASTA 50 M2 5
+
+B. DE 50.01 a 100.00 M2 10
+
+C. DE 100.01 a 500.00 M2 15
+
+D. DE 500.01 a 2500.00 M2 20
+
+E. DE 2500.01 EN ADELANTE 25
+
+III. ANALISIS DE RIESGOS
+
+A. DE HASTA 50 M2 5
+
+B. DE 50.01 a 100.00 M2 10
+
+C. DE 100.01 a 500.00 M2 15
+
+D. DE 500.01 a 2500.00 M2 20
+
+E. DE 2500.01 EN ADELANTE 25
+
+IV. CONSTANCIA DE APROBACION DEL PROGRAMA INTERNO DE PROTECCION CIVIL
+
+A. DE HASTA 50 M2 5
+
+B. DE 50.01 a 100.00 M2 10
+
+C. DE 100.01 a 500.00 M2 15
+
+D. DE 500.01a 2500.00 M2 20
+
+E. DE 2500.01 EN ADELANTE 25
+
+V. CONSTANCIA DE ZONA DE RIESGO
+
+A. DE HASTA 50 M2 5
+
+B. DE 50.01 a 100.00 M2 10
+
+C. DE 100.01 a 500.00 M2 15
+
+D. DE 500.01a 2500.00 M2 20
+
+E. DE 2500.01 EN ADELANTE 25
+
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 145.
@@ -2847,7 +3035,7 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
 
-P.O. 26 DE DICIEMBRE DE 2012
+P.O. 26 DE DICIEMBRE DE 2012.
 
 Primero.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado, con excepción del Capítulo VI de la Ley de Control Presupuestal y Responsabilidad Hacendaria que comprende los artículos 57, 58 y 59 que entrará en vigor el 1 de enero de 2013.
 
@@ -2872,6 +3060,14 @@ SEGUNDO.-Se derogan todas las disposiciones legales y reglamentarias que se opon
 P.O. 26 DE DICIEMBRE DE 2013.
 
 Primero.- El presente decreto entrará en vigor el día uno de enero del año dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+Tercero.- Cuando el contenido de esta Ley se refiera al Código Fiscal del Estado, se entenderá que se remite al Código Fiscal Municipal del Estado de Campeche, y sólo en el caso que la figura, instrumento o término correspondiente, no se encontrare regulado por el citado Código, se aplicará supletoriamente el Código Fiscal del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+Primero.- El presente decreto entrará en vigor el día 1° de enero del año 2015, previa publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
 
