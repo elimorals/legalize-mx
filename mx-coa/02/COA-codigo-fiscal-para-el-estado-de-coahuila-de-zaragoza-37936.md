@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2014-02-04"
+last_updated: "2014-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE FEBRERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -141,31 +139,31 @@ El cumplimiento de las leyes fiscales, no podrá eludirse por la simulación de 
 
 Las leyes fiscales, sus reglamentos y las disposiciones fiscales de carácter general, entrarán en vigor en el Estado, el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, salvo que en ellas se establezca una fecha posterior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 11.
 
-Se considera domicilio fiscal, el señalado por sus contribuyentes en los registros fiscales, o en su defecto:
+Se considera domicilio fiscal:
 
 I. Tratándose de personas físicas:
 
-a) El local en que se encuentre el principal asiento de sus negocios, cuando realicen actividades empresariales.
+a) Cuando realizan actividades empresariales, el local en que se encuentre el principal asiento de sus negocios.
 
-b) El local que utilicen como base fija para el desempeño de sus actividades cuando no realicen las actividades señaladas en el inciso anterior o presten servicios personales.
+b) Cuando no realicen las actividades señaladas en el inciso anterior, el local que utilicen para el desempeño de sus actividades.
 
-c) En los demás casos, el lugar en que se encuentren los bienes o el lugar en que se realicen los actos o actividades objeto del gravamen.
+c) Únicamente en los casos en que la persona física, que realice actividades señaladas en los incisos anteriores no cuente con un local, su casa habitación. Para estos efectos, las autoridades fiscales harán del conocimiento del contribuyente en su casa habitación, que cuenta con un plazo de cinco días para acreditar que su domicilio corresponde a uno de los supuestos previstos en los incisos a) o b) de esta fracción.
 
-II. Tratándose de personas morales:
+Siempre que los contribuyentes no hayan manifestado alguno de los domicilios citados en los incisos anteriores o no hayan sido localizados en los mismos, se considerará como domicilio el que hayan manifestado a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, cuando sean usuarios de los servicios que presten éstas.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+II. En el caso de personas morales:
 
-a) Cuando sean residentes en el país, el local en que este la administración principal de los negocios.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+a) Cuando sean residentes en el país, el local en donde se encuentre la administración principal del negocio.
 
 b) Si se trata de establecimientos de personas morales residentes en el extranjero, dicho establecimiento; en el caso de varios establecimientos, el local en donde se encuentre la administración principal del negocio en el país, o en su defecto el que designen.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-Cuando el contribuyente no designe un domicilio fiscal estando obligado a ello, o hubiera designado como domicilio fiscal un lugar distinto al que le corresponda de acuerdo con lo dispuesto en este precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realice sus actividades o en el lugar que conforme a este artículo se considere su domicilio.
+Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligados a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio, indistintamente.
 
 ###### ARTICULO 12.
 
@@ -332,6 +330,20 @@ Las reglas que para tal efecto expidan las autoridades fiscales deberán ser pub
 ###### ARTICULO 18.
 
 El uso de las Claves de Identificación Estatal que se establezcan para la presentación de documentos, declaraciones y realización de pagos a través de la red electrónica mundial, sustituye a la firma autógrafa y producirá los mismos efectos que las leyes otorgan a las declaraciones y pagos efectuados en los establecimientos autorizados; en consecuencia, las declaraciones y pagos realizados mediante el uso de la red electrónica mundial tendrán el mismo valor probatorio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 18-A.
+
+Las personas físicas y morales inscritas en el registro estatal de contribuyentes podrán tener asignado un buzón tributario, consistente en un sistema de comunicación electrónico ubicado en la página de Internet que señalen las autoridades fiscales estatales, a través del cual:
+
+I. La autoridad fiscal realizará la notificación de cualquier acto o resolución administrativa que emita, en documentos digitales, incluyendo cualquiera que pueda ser recurrido.
+
+II. Los contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales, y podrán realizar consultas sobre su situación fiscal.
+
+Las personas físicas y morales que tengan asignado un buzón tributario deberán consultarlo dentro de los tres días siguientes a aquél en que reciban un aviso electrónico enviado por la Administración Fiscal General mediante los mecanismos de comunicación que el contribuyente elija de entre los que se den a conocer mediante reglas de carácter general. La autoridad enviará por única ocasión, mediante el mecanismo elegido, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste.
 
 ## TITULO II. DE LOS PROCEDIMIENTOS, DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -951,6 +963,12 @@ VI. Recabar de los funcionarios y empleados públicos y de los fedatarios, los i
 
 VII. Allegarse las pruebas necesarias para formular la denuncia o querella ante el ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la ley relativa concede a las actas del Ministerio Público; y la propia Autoridad, a través de los abogados que designe, será coadyuvante del ministerio público, en los términos del Código de Procedimientos Penales vigente en el Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+VIII. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones.
+
 ###### ARTICULO 43.
 
 En la orden de visita, además de los requisitos a que se refiere el artículo 39 de este Código, se deberá indicar:
@@ -1095,6 +1113,36 @@ En dicha resolución deberán señalarse los plazos en que la misma puede ser im
 
 Siempre se podrá volver a determinar contribuciones o aprovechamientos omitidos correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 50-A.
+
+Para los efectos de lo dispuesto en el artículo 42, fracción VIII de este Código, las revisiones electrónicas se realizarán conforme a lo siguiente:
+
+I. Con base en la información y documentación que obre en su poder, las autoridades fiscales darán a conocer los hechos que deriven en la omisión de contribuciones y aprovechamientos o en la comisión de otras irregularidades, a través de una resolución provisional que, en su caso, contenga la preliquidación respectiva.
+
+II. En la resolución provisional se le requerirá al contribuyente, responsable solidario o tercero, para que en un plazo de quince días siguientes a la notificación de la citada resolución, manifieste lo que a su derecho convenga y proporcione la información y documentación, tendiente a desvirtuar las irregularidades o acreditar el pago de las contribuciones o aprovechamientos consignados en la resolución provisional.
+
+En caso de que el contribuyente acepte la preliquidación por los hechos que se hicieron de su conocimiento, podrá optar por corregir su situación fiscal dentro del plazo señalado en el párrafo que antecede, mediante el pago total de las contribuciones y aprovechamientos omitidos, junto con sus accesorios, en cuyo caso, gozará del beneficio de pagar una multa equivalente al 20% de las contribuciones omitidas.
+
+III. Una vez recibidas y analizadas las pruebas aportadas por el contribuyente, si la autoridad fiscal identifica elementos adicionales que deban ser verificados, podrá actuar indistintamente conforme a cualquiera de los siguientes procedimientos:
+
+a) Efectuará un segundo requerimiento al contribuyente, dentro del plazo de los diez días siguientes a aquél en que la autoridad fiscal reciba las pruebas, el cual deberá ser atendido por el contribuyente dentro del plazo de diez días siguientes contados a partir de la notificación del segundo requerimiento, mismo que suspenderá el plazo señalado en la fracción IV, primer párrafo de este artículo.
+
+b) Solicitará información y documentación de un tercero, en cuyo caso, desde el día en que se formule la solicitud y hasta aquel en que el tercero conteste, se suspenderá el plazo previsto en la fracción IV de este artículo, situación que deberá notificársele al contribuyente dentro de los diez días siguientes a la solicitud de la información. Dicha suspensión no podrá exceder de seis meses.
+
+Una vez obtenida la información solicitada, la autoridad fiscal contará con un plazo máximo de cuarenta días para la emisión y notificación de la resolución, salvo tratándose de pruebas periciales, caso en el cual el plazo se computará a partir de su desahogo.
+
+IV. En caso de que el contribuyente exhiba pruebas, la autoridad contará con un plazo máximo de cuarenta días contados a partir de su desahogo para la emisión y notificación de la resolución con base en la información que se cuente en el expediente.
+
+En caso de que el contribuyente no aporte pruebas, ni manifieste lo que a su derecho convenga para desvirtuar los hechos u omisiones dentro del plazo establecido en la fracción II de este artículo, la resolución provisional se volverá definitiva y las cantidades determinadas se harán efectivas mediante el procedimiento administrativo de ejecución.
+
+Concluidos los plazos otorgados a los contribuyentes para hacer valer lo que a su derecho convenga respecto de los hechos u omisiones dados a conocer durante el desarrollo de las facultades de comprobación a que se refiere la fracción VIII del artículo 42 de este Código, se tendrá por perdido el derecho para realizarlo.
+
+Los actos y resoluciones administrativos, así como las promociones de los contribuyentes a que se refiere este artículo, se notificarán y presentarán en documentos digitales a través del buzón tributario.
+
 ###### ARTICULO 51.
 
 En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten datos, informes o documentos del contribuyente, responsable solidario o tercero, se tendrán los siguientes plazos para su presentación:
@@ -1107,9 +1155,13 @@ III. Quince días contados a partir del siguiente a aquel en que surta efectos l
 
 Los plazos a que se refiere este inciso, se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 52.
 
-Las autoridades fiscales podrán determinar presuntivamente el valor de los actos o actividades por los que deban pagar contribuciones, cuando:
+Las autoridades fiscales podrán determinar presuntivamente las erogaciones efectuadas por los contribuyentes, sus ingresos y el valor de los actos o actividades por los que deban pagar contribuciones, cuando:
 
 I. Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales, o hayan omitido presentar cualquier declaración, hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de tres meses desde el día en que venció el plazo para la presentación de la declaración de que se trate.
 
@@ -1121,9 +1173,13 @@ IV. Por otras irregularidades en la contabilidad que imposibiliten el conocimien
 
 La determinación presuntiva a que se refiere este artículo, procederá independientemente de las sanciones a que haya lugar.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 53.
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales calcularán los ingresos brutos de los contribuyentes y el valor de los actos o actividades sobre los que proceda el pago de contribuciones, indistintamente con cualquiera de los siguientes procedimientos:
+Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales calcularán las erogaciones efectuadas por los contribuyentes, los ingresos y el valor de los actos o actividades sobre los que proceda el pago de contribuciones, indistintamente con cualquiera de los siguientes procedimientos:
 
 I. Utilizando los datos de la contabilidad del contribuyente.
 
@@ -1143,17 +1199,25 @@ Las autoridades fiscales podrán determinar presuntivamente las contribuciones q
 
 Para efectos de la determinación presuntiva a que se refiere este artículo, las autoridades fiscales podrán utilizar indistintamente cualquiera de los procedimientos previstos en el artículo anterior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 55.
 
-Para la comprobación de los ingresos o del valor de los actos o actividades por los que se deban pagar contribuciones, las autoridades fiscales presumirán, salvo prueba en contrario:
+Para la comprobación de las erogaciones efectuadas por los contribuyentes, los ingresos o del valor de los actos o actividades por los que se deban pagar contribuciones, las autoridades fiscales presumirán, salvo prueba en contrario:
 
 I. Que la información contenida en la contabilidad, documentación comprobatoria y correspondencia que se encuentren en poder del contribuyente, corresponde a operaciones celebradas por él, aun cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por el contribuyente.
 
 II. Que la información contenida en los sistemas de contabilidad, a nombre del contribuyente, localizados en poder de personas a su servicio, o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 56.
 
-Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere el artículo 52 de este Código y no puedan comprobar por el período objeto de revisión el valor de los actos o actividades por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las siguientes operaciones:
+Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere el artículo 52 de este Código y no puedan comprobar por el período objeto de revisión las erogaciones efectuadas por los contribuyentes, los ingresos o del valor de los actos o actividades por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las siguientes operaciones:
 
 I. Si con base en la contabilidad y documentación del contribuyente o información de terceros pudieran reconstruirse las operaciones correspondientes cuando menos a treinta días lo más cercano posible al periodo a revisar, el valor de los actos o actividades se determinará con base en el promedio diario del período reconstruido, el que se multiplicará por el número de días que correspondan al período objeto de revisión.
 
@@ -1161,9 +1225,13 @@ II. Si la contabilidad del contribuyente no permite reconstruir las operaciones 
 
 Al valor de los actos o actividades estimados presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa que corresponda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 57.
 
-Para el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente corresponden a operaciones realizadas por éste, cuando:
+Para las erogaciones efectuadas por los contribuyentes, los ingresos o del valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente corresponden a operaciones realizadas por éste, cuando:
 
 I. Se refieran al contribuyente designado por su nombre, denominación o razón social.
 
@@ -1236,6 +1304,24 @@ El personal oficial que intervenga en los diversos trámites relativos a la apli
 ###### ARTICULO 63.
 
 La aplicación de las multas, por infracciones a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+Cuando las multas no se paguen en la fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos del artículo 15-A de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con el décimo párrafo del artículo 21 de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+Cuando la multa aplicable a una misma conducta infraccionada, sea modificada posteriormente mediante reforma al precepto legal que la contenga, las autoridades fiscales aplicarán la multa que resulte menor entre la existente en el momento en que se cometió la infracción y la multa vigente en el momento de su imposición.
 
 ###### ARTICULO 64.
 
@@ -1857,11 +1943,63 @@ Las notificaciones de los actos administrativos se harán:
 
 I. Personalmente o por correo certificado o mensaje de datos con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
 
-En el caso de notificaciones por documento digital, podrán realizarse en la página de Internet de las autoridades fiscales o mediante correo electrónico, conforme las reglas de carácter general que para tales efectos establezcan la (sic) mismas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El acuse de recibo consistirá en el mensaje electrónico que transmita el destinatario al abrir el documento digital que le hubiera sido enviado. Para los efectos de este párrafo, se entenderá como notificado, una vez que el particular hubiere tenido acceso al documento mediante la Clave de Identificación Estatal que como llave de seguridad proporcionaron las autoridades fiscales.
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
-Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales.
+La notificación electrónica de documentos digitales se realizará en el buzón tributario conforme las reglas de carácter general que para tales efectos establezcan las autoridades fiscales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+El acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al abrir el documento digital que le hubiera sido enviado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que el contribuyente se autenticó para abrir el documento a notificar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+Previo a la realización de la notificación electrónica, al contribuyente le será enviado un aviso mediante el mecanismo elegido por el contribuyente en términos del último párrafo del artículo 18-A de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+Los contribuyentes contarán con tres días para abrir los documentos digitales pendientes de notificar. Dicho plazo se contará a partir del día siguiente a aquél en que le sea enviado el aviso al que se refiere el párrafo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+En caso de que el contribuyente no abra el documento digital en el plazo señalado, la notificación electrónica se tendrá por realizada al cuarto día, contado a partir del día siguiente a aquél en que le fue enviado el referido aviso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+La clave de seguridad será personal, intransferible y de uso confidencial, por lo que el contribuyente será responsable del uso que dé a la misma para abrir el documento digital que le hubiera sido enviado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+El acuse de recibo también podrá consistir en el documento digital con firma electrónica avanzada que genere el destinatario de documento remitido al autenticarse en el medio por el cual le haya sido enviado el citado documento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales y podrán imprimirse para el interesado, dicha impresión contendrá un sello digital que lo autentifique.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+Las notificaciones en el buzón tributario serán emitidas anexando el sello digital correspondiente, conforme a lo señalado en los artículos 17-D y 38, fracción V de este Código.
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior.
 
@@ -1895,7 +2033,11 @@ Toda notificación personal, realizada con quien deba entenderse, será legalmen
 
 Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, sea para que espere a una hora fija del día hábil siguiente o para que acuda a notificarse, dentro del plazo de seis días, a las oficinas de las autoridades fiscales.
 
-Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino debidamente identificados. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible del domicilio de la persona citada, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina exactora.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+El citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino debidamente identificados. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible del domicilio de la persona citada, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina exactora.
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán los gastos de ejecución a cargo de quien incurrió en el incumplimiento.
 
@@ -2560,3 +2702,21 @@ El presente Decreto entrará en vigor el día primero de enero de 2014, a excepc
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de 2015, a excepción de lo dispuesto en los artículos 18-A, 42, 50-A y 117, que entrarán en vigor, cuando así lo disponga la Secretaría de Finanzas, mediante la emisión de reglas de carácter general, con fundamento en lo dispuesto por el artículo 34, fracción VII del Código Fiscal para el Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Entre tanto entren en vigor las disposiciones relativas al buzón tributario las revisiones electrónicas y las notificaciones deberán realizarse en los términos del artículo 42 y 117 del Código Fiscal para el Estado vigente.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
