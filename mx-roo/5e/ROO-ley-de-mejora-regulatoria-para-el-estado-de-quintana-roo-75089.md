@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-mejora-regulatoria-para-el-estado-de-quintana-roo-75089"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-18"
-last_updated: "2013-08-19"
+last_updated: "2014-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 23 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014. (ABROGADA)
 
 Ley publicada en el Extraordinario al Periódico Oficial del Estado de Quintana Roo, el martes 18 de mayo de 2010.
 
@@ -105,7 +107,7 @@ XVI. RETYS: El Registro Estatal de Trámites y Servicios;
 
 XVII. CITA: Centro Integral de Tramitación y Asesoramiento;
 
-XVIII. Homoclave: Número de asignación generado a cada trámite o servicio; (sic)
+XVIII. Homoclave: Número de asignación generado a cada trámite o servicio;
 
 ###### Artículo 6°.
 
@@ -940,3 +942,15 @@ Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del 
 Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
 
 Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Ejecutivo del Estado deberá expedir, dentro de un término de 90 días hábiles contados a partir de la entrada en vigor de esta ley, el Reglamento de la misma, así como el del Consejo de Mejora Regulatoria.
+
+TERCERO. En un término de 60 días hábiles siguientes a la entrada en vigor de la presente ley, el Ejecutivo del Estado instalará el Consejo de Mejora Regulatoria.
+
+CUARTO. Se abroga la Ley de Mejora Regulatoria para el Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo el 18 de mayo de 2010.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
