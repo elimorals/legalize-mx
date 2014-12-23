@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2013-12-24"
+last_updated: "2014-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "COA"
 
 [NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2: PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2014", PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2013.]
+[NOTA 2: PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -1111,7 +1111,9 @@ XV. La inscripción de declaración unilateral de voluntad en que se contenga la
 
 XVI. Por otros no especificados, $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.).
 
-XVII. La inscripción de avisos pre-preventivos o preventivos $70.00 (SETENTA PESOS 00/100 M.N.)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XVII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 80.
 
@@ -2037,6 +2039,14 @@ XVI. Constancia de extravío de documentos $136.00 (CIENTO TREINTA Y SEIS PESOS 
 
 XVII. Por la autorización para operar y por prórroga para operar las Escuelas de Manejo, conforme al Reglamento de la Ley de Tránsito y Transporte $24,016.00 (VEINTICUATRO MIL DIECISEIS PESOS 00/100 M.N.);
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+XVIII. Derecho de preferencia por parcela, $567.39 (QUINIENTOS SESENTA Y SIETE PESOS 39/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
+XIX. Registro de Director responsable de obra y Corresponsable de obra por tres años, $1,702.17 (MIL SETECIENTOS DOS PESOS 17/100 M.N.).
+
 SUJETO
 
 ###### ARTICULO 140.
@@ -2297,9 +2307,9 @@ XXII. Recepción, evaluación y resolución de la solicitud de permiso de funcio
 
 XXIII. Recepción de cedulas de operación anual, $200.00 (DOSCIENTOS PESOS 00/100 M.N.)
 
-XXIV. Derecho de preferencia, $500.00 (QUINIENTOS PESOS 00/100 M.N.)
+XXIV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
-XXV. Registro de Director responsable de obra y Corresponsable de obra por tres años, $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.)
+XXV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -3254,3 +3264,17 @@ Publíquese en el Periódico Oficial del Gobierno del Estado.
 P.O. 24 DE DICIEMBRE DE 2013.
 
 LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
