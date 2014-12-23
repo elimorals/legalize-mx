@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-del-25505
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-01"
-last_updated: "2014-11-07"
+last_updated: "2014-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25505&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE NOVIEMBRE DE 2014.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 7 DE NOVIEMBRE DE 2014.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 23 DE DICIEMBRE DE 2014.</small>
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de agosto de 2002.
 
@@ -1210,13 +1210,21 @@ VIII. Salvaguardar, en el ámbito de sus atribuciones, la confidencialidad de da
 
 IX. Coordinar la realización de diagnósticos para identificar temas prioritarios en la agenda de los Derechos Humanos;
 
-> <small>(F. DE E., G.O. 7 DE NOVIEMBRE DE 2014)</small>
+> <small>(F. DE E., G.O. 23 DE DICIEMBRE DE 2014)</small>
 
-X. Conducir y fortalecer el Centro de Consulta y Documentación de la Comisión; y
+X. Conducir y fortalecer el Centro de Consulta y Documentación de la Comisión;
 
-> <small>(F. DE E., G.O. 7 DE NOVIEMBRE DE 2014)</small>
+> <small>(F. DE E., G.O. 23 DE DICIEMBRE DE 2014)</small>
 
-XI. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos aplicables.
+XI. Editar, coeditar y distribuir las publicaciones y materiales de la Comisión;
+
+> <small>(F. DE E., G.O. 23 DE DICIEMBRE DE 2014)</small>
+
+XII. Publicar mensualmente en el órgano oficial de difusión las Recomendaciones o su síntesis, los Acuerdos de no Responsabilidad, las Propuestas Generales, los Informes Especiales y materiales varios que, por su importancia, merezcan darse a conocer mediante dicha publicación, y;
+
+> <small>(F. DE E., G.O. 23 DE DICIEMBRE DE 2014)</small>
+
+XIII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos aplicables.
 
 > <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
