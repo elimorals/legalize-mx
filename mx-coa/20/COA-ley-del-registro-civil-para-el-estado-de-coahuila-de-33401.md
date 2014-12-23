@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-33401"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-25"
-last_updated: "2013-12-24"
+last_updated: "2014-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de julio de 2003.
 
@@ -677,9 +677,11 @@ Toda persona que pretenda contraer matrimonio, independientemente de su edad, de
 
 Los Oficiales del Registro Civil proporcionarán a quienes pretendan contraer matrimonio, las formas de solicitudes de matrimonio, sin perjuicio de la libertad que tienen los interesados de formular este documento de manera distinta y de acuerdo con sus circunstancias particulares.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 95.
 
-Cuando alguno o ambos contrayentes sean extranjeros, se deberá cumplir con lo dispuesto por el artículo 68 de la Ley General de Población y el artículo 14 de la presente ley.
+Cuando alguno o ambos contrayentes sean extranjeros, se deberá cumplir con lo dispuesto en la Ley de Migración y el Artículo 14 de la presente ley.
 
 ###### ARTÍCULO 96.
 
@@ -1306,3 +1308,7 @@ P.O. 24 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto
+
+P.O. 23 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
