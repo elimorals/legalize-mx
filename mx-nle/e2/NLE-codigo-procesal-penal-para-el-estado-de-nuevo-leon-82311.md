@@ -4,7 +4,7 @@ identifier: "NLE-codigo-procesal-penal-para-el-estado-de-nuevo-leon-82311"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-07-05"
-last_updated: "2014-10-29"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 199, PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EL 1 DE ENERO DE 2016 CUANDO SE DECLARE EL INICIO DE LA VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 5 DE MARZO DE 2014, EN TODO EL TERRITORIO DEL ESTADO DE NUEVO LEÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el martes 5 de julio de 2011.
 
@@ -5490,3 +5492,19 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los Municipios deberán adecuar sus reglamentos, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
 
 Artículo Tercero.- Los procedimientos administrativos iniciados con anterioridad, continuarán hasta su conclusión conforme a las normas vigentes al momento de su inicio.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 199 POR EL QUE SE DECLARA INICIO DE LA VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
+
+Artículo Primero.- A partir del 1 de enero de 2016 se declara inicio de la vigencia del Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, en todo el territorio del Estado de Nuevo León y respecto de todos los delitos regulados en el Código Penal para el Estado de Nuevo León y Leyes especiales.
+
+Artículo Segundo.- En términos de lo dispuesto en el Artículo Tercero Transitorio del Código Nacional de Procedimientos Penales, se abroga el Código Procesal Penal para el Estado de Nuevo León, publicado mediante Decreto número 211 de fecha 5 de julio de 2011, en el Periódico Oficial del Estado, en la fecha de inicio del Código Nacional de Procedimientos Penales. Respecto a las investigaciones y procedimientos penales que a la entrada en vigor del Código Nacional de Procedimientos Penales se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento de la iniciación de los mismos.
+
+Toda mención en otras leyes u ordenamientos legales referentes a los Códigos de Procedimientos Penales para el Estado de Nuevo León y Procesal Penal para el Estado de Nuevo León, que por virtud del presente Decreto se abrogan, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
+
+Artículo Tercero.- No obstante lo señalado en los artículos anteriores, el Titular del Ejecutivo, en cualquier tiempo estará en aptitud de proponer al H. Congreso del Estado el adelanto del plazo de inicio de vigencia del Código Nacional de Procedimientos Penales en el Estado de Nuevo León, tomando en cuenta la opinión que al respecto emita el Presidente del Tribunal Superior de Justicia, Procurador General de Justicia, Secretario de Seguridad Pública, Secretario de Finanzas y Tesorero General del Estado, Director General del Instituto de Defensoría Pública y al Director General de la Comisión Ejecutiva para la Reforma del Sistema de Justicia Penal.
+
+Artículo Cuarto.- Remítase copia de la presente declaratoria al Congreso de la Unión, a las legislaturas Estatales, a la Asamblea del Distrito Federal, a los Poderes Ejecutivo y Judicial de la Federación, así como a las Entidades Federativas, para su conocimiento y efectos a que haya lugar.
+
+Artículo Quinto.- Publíquese la presente Declaratoria en el Periódico Oficial del Estado.
