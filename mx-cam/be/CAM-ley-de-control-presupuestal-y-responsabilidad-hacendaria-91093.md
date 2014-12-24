@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-control-presupuestal-y-responsabilidad-hacendaria-91093"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-26"
-last_updated: "2012-12-26"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE CONTROL PRESUPUESTAL Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE
 
-LEY DE CONTROL PRESUPUESTAL Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE.
+LEY DE CONTROL PRESUPUESTAL Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 26 de diciembre de 2012.
 
@@ -107,6 +107,18 @@ Será responsabilidad de las Dependencias, Entidades o autoridad respectiva, con
 
 Los Poderes Legislativo y Judicial y las personas de derecho público a las que la Constitución Política del Estado de Campeche les otorgue autonomía, así como las universidades y demás instituciones de educación superior del Estado a las que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Campeche u otras leyes otorguen también autonomía, por conducto de sus respectivas unidades de administración, establecerán en el ámbito de su competencia los requisitos aplicables a las garantías que se constituyan a su favor.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Corresponderá a las dependencias y entidades fijar las bases, forma, monto y porcentaje a las que deberán sujetarse las garantías que deban constituirse por terceros cumpliendo con los requisitos mínimos siguientes:
+
+a).- Su monto deberá ser suficiente para cubrir el importe principal de la obligación garantizada y los accesorios causados durante la vigencia del contrato;
+
+b).- Sea acorde con los términos de la obligación garantizada; y
+
+c).- Cumpla con todos los requisitos de forma que establezcan las disposiciones aplicables
+
 ###### Artículo 8.
 
 La Secretaría operará un sistema informático de planeación, programación, presupuestación y seguimiento de recursos gubernamentales a fin de optimizar y simplificar las operaciones de registro presupuestal y de trámite de pago, además de concentrar la información presupuestaria, financiera y contable de la Administración Pública Estatal con la participación que, en su caso, corresponda a la Secretaría de Administración e Innovación Gubernamental.
@@ -157,31 +169,29 @@ La Secretaría, al hacer la integración de los proyectos de presupuestos de egr
 
 La Ley de Presupuesto de Egresos será la que apruebe el Congreso a iniciativa del Ejecutivo, para expensar, durante el periodo de un año contado a partir del 1° de enero del ejercicio fiscal correspondiente, el gasto neto total que en éste se especifique, así como la clasificación económica, funcional y económico administrativo, y el desglose de las actividades, obras y servicios públicos previstos en los programas a cargo de las Unidades Presupuestales que el mismo y sus anexos señalen.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-La Secretaría será la encargada de formular los proyectos de Ley de Ingresos y de Ley de Presupuesto de Egresos, los cuales deberán contener:
+La Secretaría es la dependencia competente para elaborar los proyectos de leyes de ingresos y de presupuesto de egresos del Estado, los cuales deberán contener apartados específicos con la información siguiente:
 
-I.- De Ley de Ingresos:
+I. Ley de Ingresos:
 
-a) Los comentarios necesarios sobre la condición económica, financiera y hacendaria del Estado, así como un pronóstico de los mismos;
+a) Las fuentes de sus ingresos sean ordinarios o extraordinarios, desagregando el monto de cada una incluyendo los recursos federales que se estime serán transferidos por la Federación a través de los fondos de participaciones y aportaciones federales, subsidios y convenios de reasignación; así como los ingresos recaudados con base en la Ley de Hacienda del Estado de Campeche, Código Fiscal del Estado de Campeche y demás disposiciones legales, reglamentarias y contractuales vigentes, y
 
-b) Estimación desglosada de todos los ingresos que percibirá el Estado;
+b) Las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza con contrapartes, proveedores, contratistas y acreedores, incluyendo la disposición de bienes o expectativa de derechos sobre éstos, contraídos directamente o a través de cualquier instrumento jurídico considerado o no dentro de la estructura orgánica de la administración pública correspondiente, y la celebración de actos jurídicos análogos a los anteriores y sin perjuicio de que dichas obligaciones tengan como propósito el canje o refinanciamiento de otras o de que sea considerado o no como deuda pública en los ordenamientos aplicables. Asimismo, la composición de dichas obligaciones y el destino de los recursos obtenidos;
 
-c) Estimación de los ingresos propios previstos por las entidades; y
+II. Ley de Presupuesto de Egresos:
 
-d) Situación que guardan las finanzas públicas respecto a su ejercicio fiscal, así como la estimación que se pueda obtener del siguiente ejercicio.
+a) Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, entre otros;
 
-II.- De la Ley de Presupuesto de Egresos:
+b) El listado de programas así como sus indicadores estratégicos y de gestión aprobados, y
 
-a) Explicación y comentarios de los principales programas y, en especial, de aquellos cuya ejecución abarque más de un ejercicio fiscal;
+c) La aplicación de los recursos conforme a las clasificaciones administrativa, funcional, programática, económica y, en su caso, geográfica y sus interrelaciones que faciliten el análisis para valorar la eficiencia y eficacia en el uso y destino de los recursos y sus resultados.
 
-b) Proposición de gastos del ejercicio fiscal para el que se propone, con el tabulador de puestos y sueldos de las Unidades Presupuestales;
-
-c) Situación de la deuda pública al fin del último ejercicio fiscal y estimación de la que se tendrá al fin de los ejercicios fiscales en curso e inmediato siguiente;
-
-d) Comentarios sobre las condiciones económicas, financieras y hacendarias actuales y las que prevén para el futuro, y
-
-e) En general, toda la información que considere útil para mostrar la propuesta en forma clara y completa.
+En el proceso de integración de la información financiera para la elaboración de los presupuestos se deberán incorporar los resultados que deriven de los procesos de implantación y operación del presupuesto basado en resultados y del sistema de evaluación del desempeño, establecidos en términos del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 20.
 
@@ -217,19 +227,319 @@ g) Otros datos que, en cada caso, la Secretaría considere pertinentes.
 
 La Secretaría deberá supervisar que la institución fiduciaria aplique el patrimonio fideicomitido de conformidad con las estipulaciones contractuales pactadas en el contrato de fideicomiso, para lo cual, se deberá estipular la posibilidad de que solicite informes, periódicos o eventuales, al fiduciario sobre la situación que guarda el patrimonio del fideicomiso y su aplicación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo II Bis. De la naturaleza, objeto y fines del Fondo Petrolero de Campeche
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+1.- Se autoriza al Estado para que, por conducto del titular de la Secretaría de Finanzas, constituya un fideicomiso de administración e inversión, denominado Fondo Petrolero de Campeche o "FOPEC".
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+2.- El Fondo Petrolero de Campeche no formará parte de la administración pública paraestatal, de conformidad con lo establecido por el segundo párrafo del artículo 51 de la Ley Orgánica de la Administración Pública del Estado de Campeche, por lo que su operación se sujetará exclusivamente a lo previsto en la presente Ley, en el contrato de fideicomiso mediante el cual se constituya dicho fondo, y en las reglas de operación que emita el Comité Técnico y que se publiquen en el Periódico Oficial del Estado de Campeche. El derecho mercantil y el derecho civil serán supletorios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+3.- El Fondo Petrolero de Campeche tendrá por objeto concentrar, administrar, invertir y aplicar recursos que le correspondan al Estado y que sean determinados en esta Ley y en las reglas de operación, incluyendo, sin limitar:
+
+I. Los excedentes del Fondo de Extracción de Hidrocarburos, a efecto de:
+
+1. Compensar disminuciones en las participaciones que en ingresos federales le corresponden al Estado del Fondo General de Participaciones;
+
+2. Aportar, invertir y/o pagar las cantidades que sean necesarias o convenientes relacionadas con las pensiones del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche (ISSSTECAM);
+
+3. Pagar obligaciones de pasivo circulante con objeto de alcanzar y mantener niveles de obligaciones de pago adecuados;
+
+4. Amortizar las obligaciones de pago del Estado que, de conformidad con lo previsto en la Ley de Deuda Pública del Estado de Campeche y sus Municipios y demás legislación aplicable, sean constitutivas de deuda pública directa, indirecta o contingente, con objeto de alcanzar y mantener niveles de endeudamiento adecuados;
+
+5. Invertir en proyectos de infraestructura que sean aprobados por el Comité Técnico y que se deriven de la celebración de: (i) contratos de colaboración público privada celebrados de conformidad con la Ley de Contratos de Colaboración Público Privada para el Estado de Campeche; (ii) proyectos de asociaciones público privadas celebrados en términos de la Ley de Asociaciones Público Privadas; (iii) contratos de servicios celebrados de conformidad con la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Estado de Campeche; (iv) contratos de obra pública celebrados en términos de la Ley de Obras Públicas del Estado de Campeche, y (v) en general, cualesquier otros proyectos, contratos e inversiones de naturaleza similar a los anteriores, con objeto de incentivar el desarrollo económico del Estado;
+
+6. Constituir y mantener una reserva que permita al Estado afrontar contingencias derivadas de desastres naturales, así como realizar cualesquier aportaciones, gastos o pagos relacionados con el Fondo de Desastres Naturales y con el Fondo para la Prevención de Desastres Naturales;
+
+7. Pagos relacionados con cualquier acción, demanda, controversia, pretensión u otro procedimiento legal, procedimiento arbitral, denuncia o investigación contra o iniciada en contra del Estado o que éste inicie en contra de terceros;
+
+8. Pagos en relación con cualesquier obligaciones fiscales a cargo del Estado de conformidad con el Código Fiscal del Estado de Campeche, incluyendo sin limitar pagos por concepto de devoluciones fiscales;
+
+9. Pagos para fondear planes de liquidación y retiro voluntario, que permitan al Estado reducir compromisos de gasto corriente;
+
+10. Constituir y mantener una reserva que permita al Estado afrontar las caídas de los ingresos del Estado o cualquier otro evento imprevisible que autorice el Comité Técnico; y
+
+11. Pagar los gastos de administración y operación del Fondo Petrolero de Campeche.
+
+Durante la vigencia del Fondo Petrolero de Campeche, por "Excedentes del Fondo de Extracción de Hidrocarburos" para el ejercicio fiscal de que se trate, se entenderá la diferencia positiva entre: (i) las cantidades recibidas por el Estado de Campeche del Fondo de Extracción de Hidrocarburos, en el ejercicio fiscal de que se trate, y (ii) las cantidades publicadas por la Secretaría de Hacienda y Crédito Público de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria par a (sic) ese ejercicio fiscal.
+
+Para evitar cualquier duda, si las cantidades recibidas por el Estado de Campeche del Fondo de Extracción de Hidrocarburos, en el ejercicio fiscal de que se trate son menores a las cantidades publicadas por la Secretaría de Hacienda y Crédito Público de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria para ese ejercicio fiscal, no habrá Excedentes del Fondo de Extracción de Hidrocarburos para dicho ejercicio fiscal; y
+
+II. Los recursos que le corresponden al Estado derivados del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos a que se refiere el artículo 57 de la Ley de Ingresos Sobre Hidrocarburos y demás legislación aplicable de conformidad con lo previsto en el presente Decreto y en las reglas de operación, a efecto de invertir en:
+
+1. Infraestructura para resarcir, entre otros fines, las afectaciones al entorno social y ecológico, y
+
+2. En estudios y evaluación de proyectos que cumplan con los fines específicos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+4.- El Fondo Petrolero de Campeche podrá tener por objeto concentrar, administrar, invertir y aplicar los recursos que le corresponden al o a los Municipios que se adhieran al Fondo Petrolero de Campeche de conformidad con lo previsto en (sic) artículo siguiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+5.- El Fondo Petrolero de Campeche deberá constituirse en una institución integrante del sistema financiero mexicano que ofrezca, a juicio del titular de la Secretaría de Finanzas, las mejores condiciones de contratación, operación y administración.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+6.- El Comité Técnico deberá elaborar las reglas, lineamientos y criterios de inversión y operación que sean necesarios para el correcto funcionamiento del Fondo Petrolero de Campeche, de conformidad con lo previsto en esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+7.- El Fideicomiso Fondo Petrolero de Campeche no podrá constituirse como fuente de pago o garantía de ninguna obligación constitutiva de deuda pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo II Ter. Del patrimonio del Fondo Petrolero de Campeche
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+8.- El patrimonio del Fondo Petrolero de Campeche se constituirá con los siguientes bienes, derechos y demás cantidades, entre otros:
+
+I. El derecho a percibir, y los ingresos derivados de hasta el 100% (cien por ciento) de los recursos que le corresponden al Estado del Fondo de Extracción de Hidrocarburos, de conformidad con lo establecido en el artículo 4°-B y demás aplicables de la Ley de Coordinación Fiscal, o cualquier otro fondo que lo complemente o substituya, en el entendido de que, por lo menos, se deberán afectar al patrimonio del Fondo Petrolero de Campeche los Excedentes del Fondo de Extracción de Hidrocarburos;
+
+II. El derecho a percibir, y los ingresos derivados del 100% (cien por ciento) de los recursos que le corresponden al Estado del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos, de conformidad con lo previsto en el artículo 57 y demás aplicables de la Ley de Ingresos sobre Hidrocarburos, o cualquier otro fondo que lo complemente o substituya;
+
+III. En caso de que algún Municipio se adhiera al Fondo Petrolero de Campeche, conforme a lo previsto en este Decreto, (i) el derecho a percibir, y los ingresos derivados de hasta el 100% (cien por ciento) de los recursos que le corresponden a dicho Municipio del Fondo de Extracción de Hidrocarburos, de conformidad con lo establecido en el artículo 4°-B y demás aplicables de la Ley de Coordinación Fiscal, o cualquier otro fondo que lo complemente o substituya, en el entendido de que, por lo menos, se deberán afectar los Excedentes del Fondo de Extracción de Hidrocarburos Municipales al patrimonio del Fondo Petrolero de Campeche; y (ii) el derecho a percibir, y los ingresos derivados de hasta el 100% (cien por ciento) de los recursos que le corresponden a dicho Municipio del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos, de conformidad con lo previsto en el artículo 57 y demás aplicables de la Ley de Ingresos sobre Hidrocarburos, o cualquier otro fondo que lo complemente o substituya;
+
+IV. Los demás bienes, cantidades o derechos adicionales que, en su caso, aporte el Estado, un Municipio o cualquier tercero;
+
+V. Los bienes, derechos o cantidades que deriven del ejercicio de cualquier derecho que, por cualquier causa válida, correspondan al Fondo Petrolero de Campeche;
+
+VI. Los bienes, cantidades y demás derechos de los que sea titular el fiduciario del Fondo Petrolero de Campeche, por cualquier causa válida y legal, y
+
+VII. Los rendimientos financieros que se obtengan por la inversión de los recursos disponibles en el patrimonio del Fondo Petrolero de Campeche.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo II Quáter. Del Comité Técnico
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+9.- El Fondo Petrolero de Campeche contará con un comité técnico, el cual será el órgano supremo del mismo y que se integrará por los siguientes miembros propietarios:
+
+I. El titular del Poder Ejecutivo, quien será el presidente;
+
+II. El titular de la Secretaría de Finanzas, quien será el Secretario;
+
+III. Un funcionario de la Secretaría de Coordinación;
+
+IV. Un funcionario de la Secretaría de Contraloría;
+
+V. Dos miembros independientes que como mínimo cumplan con los requisitos previstos en esta Ley; y
+
+VI. Un funcionario de la Auditoria Superior del Estado.
+
+Cada miembro propietario del Comité Técnico tendrá derecho a nombrar a su respectivo suplente.
+
+El funcionario de la Auditoría Superior del Estado y de la Secretaría de Contraloría contarán con voz pero sin voto.
+
+Los miembros independientes serán designados por el titular del Poder Ejecutivo del Estado, en razón de su experiencia, capacidad y prestigio profesional, y considerando que puedan desempeñar sus funciones sin conflicto de interés y sin estar supeditados a intereses personales, patrimoniales o económicos. Los miembros independientes del Comité Técnico, deberán cumplir con los siguientes requisitos:
+
+1. Contar con título profesional, con una antigüedad no menor a diez años;
+
+2. Haberse desempeñado, durante al menos diez años, en actividades que proporcionen la experiencia necesaria y que estén sustancialmente relacionadas con las funciones del Comité Técnico, ya sea en los ámbitos profesional, docente o de investigación;
+
+3. No haber sido condenado por sentencia ejecutoria por delito doloso que le imponga pena de prisión; tratándose de delitos patrimoniales dolosos, cualquiera que haya sido la pena;
+
+4. No haber sido sancionado mediante una resolución o sentencia ejecutoria por responsabilidad administrativa o, en su caso, política;
+
+5. No ser servidor público de cualquier nivel de gobierno ni ocupar cargos de elección popular o directivos en partido político alguno, durante el tiempo de su nombramiento;
+
+6. No ejercer un empleo, cargo o comisión simultáneo que le impida el adecuado ejercicio de su función de miembro independiente ni que esté relacionada con el destino del Fondo Petrolero de Campeche;
+
+7. Solo podrán durar seis años y no podrán ser reelectos como miembros independientes del Comité Técnico; y
+
+8. No tendrán carácter de funcionarios públicos.
+
+Por acuerdo de la mayoría de los integrantes del Comité Técnico, se podrá invitar a participar en sus sesiones, con voz pero sin voto, a otros representantes del Estado, de los municipios, asesores, miembros de subcomités y a representantes del sector social y privado.
+
+Los nombramientos de los miembros del Comité Técnico y la participación de los invitados serán de carácter honorifico, por lo que no tendrán derecho a retribución alguna.
+
+Las decisiones del Comité Técnico se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
+
+El Comité Técnico podrá crear Subcomités que apoyen en la administración de los recursos del patrimonio del Fondo Petrolero de Campeche, los cuales tendrán las facultades y obligaciones previstas en las reglas de operación.
+
+El Comité Técnico tendrá las facultades que se establecen en esta Ley, en el contrato de fideicomiso del Fondo Petrolero de Campeche, así como en las reglas de operación que emita, las cuales deberán ser suficientes para el cumplimiento de los fines y objeto del Fondo Petrolero de Campeche.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo II Quintus. De la adhesión voluntaria de los Municipios del Estado
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+10.- Se autoriza al Estado para que, por conducto del Titular de la Secretaría de Finanzas, de así considerarlo conveniente, lleve a cabo los actos conducentes con objeto de que los municipios puedan adherirse al Fondo Petrolero de Campeche, en términos de lo previsto en el artículo siguiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+11.- Cualquier municipio, previa autorización del Cabildo respectivo y de la celebración de un convenio con el Estado, en forma y términos satisfactorios para la Secretaría de Finanzas, podrá adherirse al Fondo Petrolero de Campeche, a efecto de que las cantidades que le correspondan derivadas de los Excedentes del Fondo de Extracción de Hidrocarburos Municipales y del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos sean concentrados, administrados, invertidos y aplicados en términos de lo dispuesto en esta Ley, el contrato de fideicomiso del Fondo Petrolero de Campeche y en las reglas de operación respectivas. Para estos efectos, el municipio de que se trate estará facultado para otorgar los mandatos e instrucciones irrevocables que se requieran para estos efectos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+12.- No obstante lo anterior, a elección del titular de la Secretaría de Finanzas, el Estado, directamente o por conducto del fiduciario del Fondo Petrolero de Campeche, podrá constituir uno o más fideicomisos adicionales, a efecto de que la adhesión de los municipios se instrumente en dichos fideicomisos, con objeto de lograr una operación eficiente del Fondo Petrolero de Campeche, en el entendido de que la participación de los municipios en dichos fideicomisos será determinada en las reglas de operación correspondientes. Dichos fideicomisos estarán sujetos a lo dispuesto en el presente Decreto, así como en el contrato de fideicomiso y en las reglas de operación respectivas, en cuyo caso las autorizaciones otorgadas al Estado respecto del Fondo Petrolero de Campeche, se entenderán otorgadas al Estado respecto de dichos fideicomisos adicionales. Para evitar cualquier duda, los fideicomisos adicionales que se constituyan en términos del presente, no serán considerados parte de la administración pública paraestatal o paramunicipal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+13.- El Fondo Petrolero de Campeche y/o los fideicomisos que se constituyan de conformidad con el artículo anterior, tendrá por objeto concentrar, administrar, invertir y aplicar los recursos que le corresponden a los municipios que se adhieran al Fondo Petrolero de Campeche que sean determinados mediante esta Ley y en las reglas de operación, incluyendo sin limitar:
+
+I. Los Excedentes del Fondo de Extracción de Hidrocarburos Municipales, a efecto de:
+
+1. Compensar disminuciones en las participaciones que en ingresos federales le corresponden al municipio respectivo del Fondo General de Participaciones;
+
+2. Aportar, invertir y/o pagar las cantidades que sean necesarias o convenientes relacionadas con las pensiones del Instituto de Seguridad y Servicios Sociales de los Trabajadores, respecto del municipio correspondiente;
+
+3. Pagar obligaciones de seguridad social de los servidores públicos municipales;
+
+4. Pagar obligaciones de pasivo circulante con objeto de alcanzar y mantener niveles de obligaciones de pago adecuados;
+
+5. Amortizar las obligaciones de pago del municipio correspondiente que, de conformidad con lo previsto en la Ley de Deuda Pública del Estado de Campeche y sus Municipios y demás legislación aplicable, sean constitutivas de deuda pública directa, indirecta o contingente, con objeto de alcanzar y mantener niveles de endeudamiento adecuados;
+
+6. Invertir en proyectos de infraestructura que sean aprobados por el Comité Técnico o por los Subcomités respectivos y que se deriven de la celebración de: (i) contratos de colaboración público privada celebrados de conformidad con la Ley de Contratos de Colaboración Público Privada para el Estado de Campeche; (ii) proyectos de asociaciones público privadas celebrados en términos de la Ley de Asociaciones Público Privadas; (iii) contratos de servicios celebrados de conformidad con la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Estado de Campeche; (iv) contratos de obra pública celebrados en términos de la Ley de Obras Públicas del Estado de Campeche, y (v) en general, cualesquier otros proyectos, contratos e inversiones de naturaleza similar a los anteriores, con objeto de incentivar el desarrollo económico del municipio correspondiente;
+
+7. Constituir y mantener una reserva que permita al municipio afrontar contingencias de desastres naturales, así como afrontar cualesquier aportaciones, gastos o pagos relacionados con el Fondo de Desastres Naturales y con el Fondo para la Prevención de Desastres Naturales;
+
+8. Pagos relacionados con cualquier acción, demanda, controversia, pretensión u otro procedimiento legal, procedimiento arbitral, denuncia o investigación contra o iniciada en contra del municipio correspondiente o que éste inicie en contra de terceros;
+
+9. Pagos en relación con cualesquier obligaciones fiscales a cargo del municipio correspondiente de conformidad con el Código Fiscal del Estado de Campeche y, en su caso, de los reglamentos aplicables, incluyendo sin limitar pagos por concepto de devoluciones fiscales;
+
+10. Pagos para fondear planes de liquidación y retiro voluntario, que permitan al municipio reducir compromisos de gasto corriente;
+
+11. Constituir y mantener una reserva que permita al municipio correspondiente afrontar las caídas de los ingresos del municipio o cualquier otro evento imprevisible que autorice el Comité Técnico o el Subcomité Técnico según sea el caso; y
+
+12. Pagar los gastos de administración y operación del Fondo Petrolero de Campeche que le correspondan.
+
+Durante la vigencia del Fondo Petrolero de Campeche, por "Excedentes del Fondo de Extracción de Hidrocarburos Municipales" para el ejercicio fiscal de que se trate, se entenderá la diferencia positiva entre: (i) las cantidades recibidas por el municipio que corresponda de Campeche del Fondo de Extracción de Hidrocarburos, en el ejercicio fiscal de que se trate, y (ii) las cantidades determinadas por el Estado de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria para ese ejercicio fiscal y de conformidad con la Ley de Coordinación Hacendaria del Estado de Campeche. Para evitar cualquier duda, si (i) las cantidades recibidas por el municipio del Fondo de Extracción de Hidrocarburos, en el ejercicio fiscal de que se trate son menores a (ii) las cantidades determinadas por el Estado de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria para ese ejercicio fiscal y de conformidad con la Ley de Coordinación Hacendaria del Estado de Campeche, no habrá Excedentes del Fondo de Extracción de Hidrocarburos Municipales para dicho ejercicio fiscal; y
+
+II. Los recursos que le corresponden al municipio correspondiente, derivados del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos a que se refiere el artículo 57 de la Ley de Ingresos Sobre Hidrocarburos y demás legislación aplicable, de conformidad con lo previsto en esta Ley y en las reglas de operación, a efecto de invertir en:
+
+1. Infraestructura para resarcir, entre otros fines, las afectaciones al entorno social y ecológico, y
+
+2. En estudios y evaluación de proyectos que cumplan con los fines específicos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+### Capitulo II Sextus. Disposiciones generales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+14.- La duración del Fondo Petrolero de Campeche será por tiempo indefinido y no deberá exceder del término lícito que fija la Ley e iniciará su vigencia a partir de la fecha de suscripción del contrato de fideicomiso respectivo, en el entendido de que si el Comité Técnico decide que es necesario o conveniente que el Fondo Petrolero de Campeche se dé por terminado con antelación a dicho término, se requerirá de la previa autorización del Congreso del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+15.- El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá gestionar, negociar y acordar los demás términos y condiciones que se estimen necesarios o convenientes, y firmar y suscribir los convenios, contratos y demás documentos que sean necesarios o convenientes, para instrumentar el Fondo Petrolero de Campeche al amparo de esta Ley, así como celebrar y llevar a cabo los demás actos contemplados en la misma, incluyendo sin limitar, modificar, revocar o cancelar instrucciones, registros, notificaciones o avisos girados con anterioridad para la afectación de los derechos y recursos derivados de los Excedentes del Fondo de Extracción de Hidrocarburos y del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos, o bien llevar a cabo nuevas instrucciones, notificaciones registros o avisos que sean necesarios o convenientes ante autoridades Federales, Estatales o Municipales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+16.- En el ámbito de sus respectivas competencias la Secretaría de la Contraloría y la Secretaría de Finanzas vigilarán el cumplimiento de lo establecido en esta Ley, con base en las disposiciones aplicables y vigilarán que la implementación del Fondo Petrolero de Campeche se realice en cumplimiento con la normatividad en materia de transparencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+17.- Corresponderá a la Auditoria Superior del Estado evaluar el desempeño del Fondo Petrolero de Campeche y fiscalizar su operación, conforme a la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Campeche y a las demás disposiciones jurídicas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo II Séptimus. Destino de ciertos recursos derivados del Fondo de Extracción de Hidrocarburos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 23
+
+18.- Los recursos del Fondo de Extracción de Hidrocarburos correspondientes al Estado (excluyendo a los municipios) que representan la diferencia positiva entre: (i) las cantidades publicadas por la Secretaría de Hacienda y Crédito Público de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en el ejercicio fiscal de que se trate, o cualquier otro que lo sustituya; y (ii) las cantidades recibidas por el Estado de Campeche del Fondo de Extracción de Hidrocarburos en el ejercicio fiscal del 2012, actualizadas al ejercicio fiscal en que se efectúe el cálculo, deberán ser destinados a pagos derivados de inversión pública productiva, según dicho término se define en la Ley de Deuda Pública del Estado de Campeche y sus Municipios; así como también podrán ser destinados para el pago de las contrapartes estatales a Convenios Federales.
+
+La actualización a que se refiere el inciso (ii) anterior, se realizará mediante la aplicación de la siguiente fórmula:
+
+> <small>N. DE E. VÉASE FORMULA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 92.</small>
+
+Para evitar cualquier duda, si las cantidades publicadas por la Secretaría de Hacienda y Crédito Público de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en el ejercicio fiscal de que se trate son menores a las cantidades recibidas por el Estado de Campeche del Fondo de Extracción de Hidrocarburos en el ejercicio fiscal del 2012, actualizado al ejercicio fiscal en que se efectúe el cálculo, mediante la aplicación de la fórmula descrita en el párrafo anterior, entonces no habrán recursos definidos en este artículo de la presente Ley.
+
 ### Capítulo III. Del Ejercicio del Presupuesto
-
-### Capítulo IV. De los subsidios, Transferencias y Donativos
-
-### Capítulo V. De la Contabilidad Gubernamental
-
-### Capítulo VI. De la evaluación
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE EXPIDE ESTE ORDENAMIENTO.</small>
-
-### Capítulo VII. De la Vigilancia del Presupuesto
-
-### Capítulo VIII. De las Responsabilidades, Infracciones y Sanciones
 
 ###### Artículo 24.
 
@@ -345,6 +655,8 @@ Los documentos contractuales que celebren las Dependencias por sí o en represen
 
 El Ejecutivo a través de la Comisión Intersecretarial de Planeación, Programación, Evaluación y Seguimiento de Convenios y Auditorías Gubernamentales será la instancia de asesoría y seguimiento permanente del Ejecutivo en las señaladas materias incluidas en su denominación. El Ejecutivo expedirá el Reglamento Interior de esta Comisión.
 
+### Capítulo IV. De los subsidios, Transferencias y Donativos
+
 ###### Artículo 44.
 
 Se faculta el Ejecutivo del Estado para otorgar subsidios con cargo a los impuestos o derechos estatales, en relación con aquellas actividades o causantes respecto de los cuales juzgue indispensable tal medida, con las limitantes establecidas en ésta y otras leyes, según el caso.
@@ -364,6 +676,8 @@ El Ejecutivo del Estado determinará la forma en que deberán invertirse los sub
 ###### Artículo 47.
 
 La falta de la información a que se refiere el artículo anterior o su comprobación, motivará en su caso, la inmediata suspensión de las subsecuentes ministraciones de fondos que por el mismo concepto se hubieren autorizado, así como el reintegro de lo que se haya suministrado.
+
+### Capítulo V. De la Contabilidad Gubernamental
 
 ###### Artículo 48.
 
@@ -431,6 +745,10 @@ Cuando el crédito exceda del equivalente a un mil veces de salario mínimo, su 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE EXPIDE ESTE ORDENAMIENTO.</small>
 
+### Capítulo VI. De la evaluación
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE EXPIDE ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 57.
 
 Las dependencias o las entidades a través de su respectiva dependencia coordinadora de sector, deberán realizar una evaluación de resultados de los programas, por conducto de expertos, instituciones académicas y de investigación u organismos especializados, de carácter nacional o internacional, que cuenten con reconocimiento y experiencia en las respectivas materias de los programas.
@@ -486,6 +804,8 @@ Dicho sistema de evaluación del desempeño a que se refiere el párrafo anterio
 Los indicadores del sistema de evaluación del desempeño deberán formar parte del Presupuesto de Egresos e incorporar sus resultados en la Cuenta Pública, explicando en forma detallada las causas de las variaciones y su correspondiente efecto económico.
 
 Los resultados a los que se refiere este artículo deberán ser considerados para efectos de la programación, presupuestación y ejercicio de los recursos.
+
+### Capítulo VII. De la Vigilancia del Presupuesto
 
 ###### Artículo 60.
 
@@ -571,6 +891,8 @@ I.- Si es sobrante, se ordenará se registre en la contabilidad, haciéndolo del
 
 II.- Si es faltante, requerirá al responsable para que efectúe el reintegro en el acto; si lo hace y justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Contraloría. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, practicará las investigaciones necesarias, hará las denuncias que procedan de acuerdo con lo que dispone esta Ley y formulará, en su caso, los pliegos preventivos de responsabilidad.
 
+### Capítulo VIII. De las Responsabilidades, Infracciones y Sanciones
+
 ###### Artículo 79.
 
 La Contraloría dictará las medidas administrativas sobre responsabilidades que afecten a la Hacienda Pública del Estado y al patrimonio de las dependencias y entidades, derivadas del incumplimiento de las disposiciones de esta Ley y demás relativas, y que se conozcan por:
@@ -640,3 +962,15 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la Ciudad de San Franc
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los dieciocho días del mes de septiembre del año dos mil doce.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- LA SUBSECRETARIA "A" DE GOBIERNO ENCARGADA DEL DESPACHO DE LA SECRETARIA DE GOBIERNO, MTRA. PERLA KARINA CASTRO FARIAS.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+Primero. El presente decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo. La interpretación para efectos administrativos de este decreto, así como la resolución de supuestos no previstos en éstos, corresponde al titular de la Secretaría de Finanzas, en el entendido de que la interpretación deberá privilegiar la mejor realización de los fines y objeto del Fondo Petrolero de Campeche, conforme a su naturaleza de fideicomiso que no forma parte de la administración paraestatal.
+
+Tercero. Las referencias a leyes o reglamentos en este decreto se entenderán hechas a las leyes o reglamentos según estos sean modificados de tiempo en tiempo, o a aquellas leyes o reglamentos que los substituyan.
+
+Cuarto.- Se derogan todas las disposiciones que se opongan al presente decreto.
