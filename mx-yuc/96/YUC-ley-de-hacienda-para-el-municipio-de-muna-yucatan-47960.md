@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-muna-yucatan-47960"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2013-12-27"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MUNA, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -229,13 +229,21 @@ APORTACIONES
 
 Las aportaciones son los recursos que la federación transfiere a las haciendas públicas de los estados y en su caso, el Municipio, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de recurso establece la Ley de Coordinación Fiscal.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 24 DE DICIEMBRE DE 2014)</small>
+
+CONVENIOS
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Artículo 19 A.- Los Convenios son los recursos que percibe el Municipio con el propósito de reasignar la ejecución de funciones, programas o proyectos federales, y en su caso, recursos humanos y materiales.
+
 INGRESOS EXTRAORDINARIOS
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 20.
 
-Los ingresos extraordinarios son aquellos distintos de los anteriores que las haciendas públicas municipales estiman percibir como partes integrantes del presupuesto municipal, como por ejemplo los empréstitos, la emisión de bonos de deuda pública y otros ingresos que se obtengan de las diversas fuentes de financiamiento, siempre que fueran aprobados por la Legislatura del Estado en términos de lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán y en la Constitución Política del Estado de Yucatán. Los donativos también se considerarán ingresos extraordinarios.
+Son los ingresos extraordinarios obtenidos por la celebración de empréstitos internos y externos, se obtengan de las diversas fuentes de financiamiento, siempre que fueran aprobados por la Legislatura del Estado en términos de lo dispuesto en la Constitución Política del Estado de Yucatán y en Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 ### Capítulo VII. De los Créditos Fiscales
 
@@ -647,7 +655,7 @@ CARRETERA $450.00 $450.00
 
 VALORES UNITARIOS AREA CENTRO AREA MEDIA PERIFERIA
 
-DE COSTRUCCION.
+DE CONSTRUCCION.
 
 TIPO $ POR M2 $ POR M2 $ POR M2
 
@@ -2265,7 +2273,7 @@ Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios
 
 Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
-## TÍTULO QUINTO. De las Contribuciones de Mejoras (sic)
+## TÍTULO QUINTO. De las Contribuciones de Mejoras
 
 ### Capítulo Único. DE LOS SUJETOS
 
@@ -2395,7 +2403,7 @@ DE LA FACULTAD PARA DISMINUIR LA CONTRIBUCIÓN
 
 El Tesorero Municipal previa solicitud por escrito del interesado y una vez realizado el estudio socioeconómico del contribuyente, podrá disminuir la contribución a aquellos contribuyentes de ostensible pobreza y que dependa de él más de tres personas y devengue un ingreso no mayor a dos salarios mínimos vigentes en el estado de Yucatán.
 
-## TÍTULO SEXTO. De los Productos (sic)
+## TÍTULO SEXTO. De los Productos
 
 ### Capítulo Único. De la Clasificación
 
@@ -2687,6 +2695,8 @@ D.O. 27 DE DICIEMBRE DE 2013.
 
 Artículo Único.- Este decreto entrará en vigor el día primero de enero del año dos mil catorce, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
+D.O. 24 DE DICIEMBRE DE 2014.
+
 ###### ARTÍCULO ÚNICO.
 
-Este decreto entrará en vigor el día 1 de enero del año 2012, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+Este decreto entrará en vigor el día primero de enero del año dos mil quince, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
