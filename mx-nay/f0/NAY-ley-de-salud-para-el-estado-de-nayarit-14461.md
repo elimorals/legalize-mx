@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2014-10-30"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -1567,6 +1567,12 @@ IV.- La realización de estudios epidemiológicos, y
 
 V.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 122 bis.- La Secretaría de Salud implementará programas de educación, prevención, información, socialización y detección de cáncer de mama y cérvicouterino de manera permanente en los hospitales y clínicas del sector salud, de tal forma que garantice a las mujeres la realización de exámenes de detección de cáncer de mama y cérvicouterino, de manera gratuita, por lo menos una vez al año.
+
+En las localidades donde no exista clínica del sector público, la Secretaría de Salud del Estado podrá celebrar convenios de colaboración con los Ayuntamientos, clínicas particulares o patrocinadoras del sector privado, para que se realice el servicio gratuito de exámenes para la detección de cáncer de mama y cérvicouterino.
+
 ###### ARTICULO 123.
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
@@ -3088,3 +3094,9 @@ P.O. 21 DE MAYO DE 2014.
 P.O. 30 DE OCTUBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit
