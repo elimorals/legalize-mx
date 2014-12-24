@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-garantiza-la-transparencia-y-el-derecho-a-la-52402"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-12"
-last_updated: "2011-11-16"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Tomo II del Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -61,9 +61,11 @@ Solo los servidores públicos de los sujetos obligados, serán responsables de l
 
 Los titulares de cada sujeto obligado deberán adoptar las medidas necesarias para asegurar la protección, custodia, resguardo y conservación de los expedientes clasificados como reservados y confidenciales.
 
-###### Artículo 2º.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Están obligados al cumplimiento de esta Ley los servidores públicos de los poderes Legislativo, Ejecutivo y Judicial del Estado, de los municipios, y de los órganos autónomos previstos en la Constitución y en las leyes estatales.
+###### Artículo 2°.
+
+Están obligados al cumplimiento de la presente ley, cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial del Estado, de los municipios, y órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal, con excepción de los asuntos jurisdiccionales.
 
 ###### Artículo 3º.
 
@@ -667,7 +669,7 @@ XVI. Los informes presentados por los partidos políticos ante las autoridades e
 
 XVII. Las formas de participación ciudadana, en su caso, para la toma de decisiones por parte de los sujetos obligados;
 
-XVIII. Una descripción de los programas, proyectos, acciones y recursos asignados a cada uno de ellos por el presupuesto asignado; y (sic),
+XVIII. Una descripción de los programas, proyectos, acciones y recursos asignados a cada uno de ellos por el presupuesto asignado; y,
 
 XIX. La información de sus actividades que considere relevante;
 
@@ -813,25 +815,27 @@ En todo momento, si los servidores públicos adscritos a los sujetos obligados a
 
 ### Capítulo Único. Del Instituto de Acceso a la Información Pública del Estado de Chiapas
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 60.
 
-El Instituto de Acceso a la Información Pública del Estado de Chiapas, es un organismo público descentralizado no sectorizable de la referida administración pública estatal, con personalidad jurídica y patrimonio propios, autonomía de gestión, así como, facultades de operación, decisión, resolución, administración, fomento, promoción y sanción en lo concerniente al derecho de acceso a la información pública, a que se encuentran obligados los sujetos previstos en el artículo 2° de esta ley.
+El Instituto de Acceso a la Información Pública del Estado de Chiapas, es un órgano autónomo especializado previsto en la Constitución Política del Estado de Chiapas, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados previstos en el artículo 2° de la presente ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 61.
 
-El Instituto, estará integrado por cinco consejeros, uno de los cuales tendrá el carácter de Consejero General, quien llevará la representación legal del instituto.
+El Instituto estará integrado por tres consejeros, uno de los cuales tendrá el carácter de Consejero Presidente, quien llevará la representación legal del Instituto. Los otros dos Consejeros, serán designados Consejeros Ciudadanos.
 
-Los consejeros, durarán en el ejercicio de su cargo siete años y elegirán por orden alfabético a quien ocupará el cargo de Consejero General para un período de dos años. Los consejeros serán nombrados por el Titular del Poder Ejecutivo del Estado, quienes deberán ser ratificados por el Congreso del Estado, o en su caso por la Comisión Permanente, por mayoría calificada de votos de los diputados presentes. La ratificación o rechazo de la propuesta, se deberá realizar dentro de un plazo de quince días naturales, si el Congreso o la Comisión Permanente, no resuelven dentro de dicho plazo, la propuesta se tendrá por aprobada, si la propuesta formulada fuera rechazada, el ejecutivo deberá realizar una nueva propuesta.
+Los consejeros durarán en el ejercicio de su cargo siete años. La designación de Consejeros Ciudadanos la realizará el Congreso del Estado o la Comisión Permanente. El Consejero Presidente ocupará dicho cargo por tres años y será elegido por los Consejeros Ciudadanos, mediante voto secreto, con posibilidad de ser reelecto por un periodo igual.
 
-Los consejeros sólo podrán ser removidos de sus funciones cuando transgredan en forma grave o reiterada las disposiciones contenidas en la Constitución Política del Estado de Chiapas, y esta Ley, cuando por actos u omisiones se afecten las atribuciones del Instituto, o cuando hayan sido sentenciados por un delito grave.
+La designación de Consejeros, será a cargo del Congreso del Estado o en su caso, por la Comisión Permanente por mayoría calificada de votos de los diputados presentes, y deberán ser ratificados por el Titular del Poder Ejecutivo del Estado. La ratificación u objeción de la propuesta, se deberá realizar dentro de un plazo de diez días hábiles. Si el Ejecutivo objetara el nombramiento, el Congreso del Estado o en su caso, la Comisión Permanente realizará una nueva propuesta, con votación de las tres quintas partes de los miembros presentes, siguiendo el mismo procedimiento. Si este segundo nombramiento fuere objetado, el Congreso del Estado o la Comisión Permanente, en los mismos términos, designará al Consejero para la plaza vacante.
+
+Los Consejeros sólo podrán ser removidos de sus funciones cuando transgredan en forma grave o reiterada las disposiciones contenidas en la Constitución Política del Estado de Chiapas y por causas previstas en esta Ley, o cuando por actos u omisiones se afecten las atribuciones del Instituto, o cuando hayan sido sentenciados por un delito grave.
 
 El Instituto, para efectos de sus resoluciones, no estará subordinado a autoridad alguna, adoptará sus decisiones con plena independencia y contará con los recursos humanos y materiales necesarios para el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 62.
 
@@ -839,19 +843,25 @@ Para ser Consejero se requiere:
 
 I. Ser ciudadano chiapaneco en pleno uso de sus derechos.
 
-II. Tener cuando menos treinta y cinco años cumplidos al día de la designación.
+II. Tener más de treinta años de edad cumplidos al día de su nombramiento.
 
-III. Gozar de reconocido prestigio moral y profesional.
+III. No ser ni haber sido dirigente o representante de ningún partido o asociación política, ministro de ningún culto religioso, ni titular de alguna dependencia o entidad de los órganos autónomos estatales, cuando menos tres años antes al momento de su designación.
 
-IV. No ser ni haber sido dirigente de ningún partido o asociación política, ministro de ningún culto religioso, ni titular de alguna dependencia o entidad de los órganos autónomos estatales, cuando menos tres años antes al momento de su designación.
+IV. Haberse desempeñado destacadamente en actividades profesionales de servicio público o académicas, relacionadas preferentemente con la materia de esta ley; contar con título y cédula profesional; así como experiencia mínima de 4 años en actividades de su profesión.
 
-V. No haber sido condenado por delito doloso.
+V. Gozar de buena reputación, tener buena conducta y honorabilidad manifiesta.
+
+VI. No haber sido condenado en sentencia ejecutoria por delito intencional.
+
+VII. No estar inhabilitado para ocupar cargo público.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 63.
 
-El Consejero General, durará en su encargo un período de dos años, sin posibilidad de ser reelecto y no podrá ser retirado de su cargo durante el período para el que fue nombrado.
+El Consejero Presidente, durará en su encargo un período de tres años, con posibilidad de ser reelecto y no podrá ser retirado de su cargo durante el período para el que fue nombrado.
 
-El cargo de Consejero General, es incompatible con cualquier otro empleo o actividad, salvo la docencia o la beneficencia pública o privada.
+El cargo de Consejero Presidente o Consejero Ciudadano, es incompatible con cualquier otro empleo, cargo o comisión sean lucrativas o no, salvo la docencia o la beneficencia pública o privada que no implique remuneración, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Instituto.
 
 ###### Artículo 64.
 
@@ -921,21 +931,19 @@ XXI. Las demás que le confiera esta ley, su reglamento y demás disposiciones a
 
 Para el ejercicio de sus facultades y atribuciones el Instituto contará con la estructura orgánica que determine su Reglamento Interior.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 66.
 
-El Instituto contará con un órgano permanente de vigilancia, a cargo de un Comisario Público, que será designado y removido libremente por la Contraloría General del Poder Ejecutivo del Estado, en términos de la legislación aplicable, quién deberá de llevar a cabo las funciones de vigilancia y control interno.
+Con la finalidad de poder cumplir con sus atribuciones y objetivos, el Instituto contará con la estructura orgánica y funcional necesaria, las cuales estarán determinadas en su Reglamento Interior. Así también, contará con un Contralor Interno quien tendrá las facultades que le establezca el mismo.
 
-El Comisario evaluará la eficiencia con la que el Instituto maneje y aplique los recursos públicos conforme a las disposiciones aplicables, solicitará información y efectuará los actos que requiera para el adecuado cumplimiento de sus funciones, sin perjuicio de las facultades que le corresponden a la Contraloría General.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 67.
 
-Los Órganos Administrativos del Instituto proporcionarán al Comisario la información que les solicite y le prestarán las facilidades necesarias para comprobar y vigilar que las políticas, normas, procedimientos y demás disposiciones se apliquen correctamente.
+Los Órganos Administrativos del Instituto proporcionarán al Contralor Interno la información que les solicite y le prestarán las facilidades necesarias para comprobar y vigilar que las políticas, normas, procedimientos y demás disposiciones se apliquen correctamente.
 
-El Comisario deberá elaborar los informes derivados de las revisiones practicadas y proponer al Consejero General las medidas preventivas y correctivas tendentes a mejorar la organización, funcionamiento y control interno del Instituto, estableciendo el seguimiento para su aplicación, por lo que, en todo caso, deberá dirigir sus acciones en apoyo y promoción para el mejoramiento de la gestión del Instituto.
+El Contralor Interno deberá elaborar los informes derivados de las revisiones practicadas y proponer al Consejero Presidente las medidas preventivas y correctivas tendentes a mejorar la organización, funcionamiento y control interno del Instituto, estableciendo el seguimiento para su aplicación, por lo que, en todo caso, deberá dirigir sus acciones en apoyo y promoción para el mejoramiento de la gestión del Instituto.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -959,13 +967,13 @@ III. Las prórrogas por circunstancias excepcionales.
 
 IV. La cantidad de resoluciones dictadas: denegando las solicitudes de información presentadas y los fundamentos de cada una de las resoluciones.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 69.
 
-El Consejero General del Instituto, rendirá a los tres Poderes del Estado, un informe anual de labores el cual incluirá la descripción de la información remitida por los sujetos obligados, el número de asuntos atendidos, así como, las dificultades observadas en el cumplimiento de esta Ley.
+El Consejero Presidente del Instituto, comparecerá y rendirá anualmente, un informe de actividades ante los Poderes del Estado, respecto de las actividades desarrolladas durante ese periodo por el Instituto.
 
-El informe anual será publicado y difundido con amplitud en el portal de cada sujeto obligado, y su circulación será obligatoria para éstos.
+Asimismo, el informe será publicado y difundido con amplitud en el Portal de cada sujeto obligado, y su circulación será obligatoria para éstos.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -1067,57 +1075,137 @@ La Unidad de Acceso a la Información Pública deberá entregar la información 
 
 ### Capítulo II. Del Recurso ante el Instituto
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 81.
 
 Los solicitantes que se consideren afectados por los actos y resoluciones del Comité o las Unidades de Enlace, por negar, limitar u omitir el acceso a la información pública, podrán promover el recurso de revisión ante la Unidad de Acceso a la Información Pública por escrito o a través de los medios electrónicos que pongan a disposición los sujetos obligados.
 
-Para llevar a cabo la substanciación del recurso a que se refiere el presente capítulo, el Instituto deberá observar lo establecido en el Libro Primero, Título Séptimo, de la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+Cuando el Recurso se interponga por medios electrónicos, las notificaciones del Instituto se harán a los solicitantes y sujetos obligados por esa misma vía.
+
+El plazo para la formulación del recurso de revisión será de quince días hábiles.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 82.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
+El recurso deberá presentarse ante la Unidad de Acceso a la Información Pública de los sujetos obligados correspondiente, por escrito o a través de medios electrónicos, en el término de quince días hábiles, cumpliendo con los siguientes requisitos:
+
+I. Estará dirigido a la autoridad a la que se solicitó la información;
+
+II. El nombre del recurrente y, en su caso, el de su representante legal que acredite su personalidad.
+
+III. Señalar el medio a través del cual el solicitante pueda recibir notificaciones, mismos que podrán ser:
+
+a) Por correo electrónico; y/o,
+
+b) Por estrados electrónicos del Instituto.
+
+IV. Precisar el acto u omisión, o la resolución impugnada, la autoridad responsable del mismo y los conceptos de impugnación.
+
+V. Mencionar de manera expresa y clara los hechos en que se funde la impugnación.
+
+VI. Adjuntar como anexo copia de la resolución o acto que se impugna y de la notificación correspondiente; cuando se trate de actos que no se resolvieron en tiempo, acompañar la solicitud con que se dio inicio al trámite, señalando la fecha que corresponda.
+
+Cuando se omita señalar el medio para recibir las notificaciones, éstas se harán por correo electrónico.
+
+El Instituto deberá suplir las deficiencias que presente el recurso de revisión, siempre y cuando no altere el contenido original de la solicitud de accesos a la información o de datos personales.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 83.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
+El Instituto en la resolución que dé al recurso, deberá:
+
+I. Sobreseer.
+
+II. Confirmar el acto impugnado; o,
+
+III. Revocar total o parcialmente el acto impugnado, debiendo precisar la forma y los términos en que la resolución deba cumplirse.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 84.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
+Son causas de sobreseimiento del recurso, las siguientes:
+
+I. El desistimiento expreso del recurrente.
+
+II. La modificación o revocación del acto impugnado que deje sin materia el recurso.
+
+III. El fallecimiento del recurrente, o tratándose de personas morales, su disolución.
+
+IV. Cuando admitido el recurso, aparezca alguna causal de improcedencia en los términos de la presente Ley.
+
+V. Cuando la materia de la impugnación no sea facultad de conocimiento de la autoridad emisora del acto impugnado.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 85.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
+El recurso será desechado por improcedente cuando:
+
+I. El acto recurrido no corresponda a la materia de acceso a la información o protección de datos personales.
+
+II. Sea extemporáneo.
+
+III. Se recurra una resolución que no haya sido emitida por el sujeto obligado correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 86.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
+La resolución que ponga fin al recurso deberá constar por escrito debidamente fundado y motivado.
+
+Sin excepción la notificación de la resolución se hará a los solicitantes y sujetos obligados únicamente por medios electrónicos y/o estrados electrónicos del Instituto.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 87.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
+La Unidad de Acceso a la Información Pública del sujeto obligado correspondiente remitirá por medio de oficio o a través de medios electrónicos, la interposición del recurso y copia del expediente al Instituto, dentro del término de diez días hábiles contados a partir del día siguiente al de la recepción del recurso. Al mismo tiempo rendirá el informe que la Unidad de Enlace o el Comité respectivo le remita para justificar el acto o resolución que se impugna, precisando la forma en que el Recurso fue presentado.
+
+Para tal efecto, la Unidad de Acceso a la información Pública correspondiente, tan pronto tenga conocimiento de la interposición del recurso, deberá requerir a las Unidades de Enlace o Comités de los sujetos obligados, el informe a que se refiere el párrafo anterior, así como la documentación que soporte el acto impugnado.
+
+Al emitir copias certificadas del expediente, la Unidad de Acceso a la Información Pública de los sujetos obligados deberá conservar el original para su resguardo.
+
+Cuando por alguna circunstancia el recurso se presente indebidamente ante el Instituto u otra instancia que no sea competente, el personal de éstos deberá orientar al recurrente para que lo presente ante la Unidad de Acceso a la Información Pública del sujeto obligado que corresponda. Lo anterior no interrumpirá el término a que se refiere el artículo 82 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 88.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
+Una vez que el Instituto haya admitido el Recurso, se seguirá el siguiente procedimiento:
+
+I. El Consejero Presidente mandará turnar en el mismo acuerdo de admisión, el expediente, dentro del término de cinco días hábiles al Consejero Ciudadano Ponente que corresponda a efecto de que formule por escrito su proyecto de resolución del recurso.
+
+II. El Consejero Ciudadano Ponente tendrá un plazo de quince días hábiles, para elaborar el proyecto de resolución fundada, motivada y relatada como si fuera una sentencia.
+
+III. Una vez concluido lo anterior se pasará copia de dicho proyecto, dentro de los cinco días hábiles, a los demás Consejeros, quedando el expediente a su disposición, para su estudio.
+
+IV. Formulado el proyecto de resolución, se señalará día y hora dentro de los cinco días hábiles siguientes para su discusión y resolución en Pleno.
+
+El Instituto podrá duplicar el plazo para emitir la resolución cuando requiera mayores elementos para dictar su resolución.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 89.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
+Toda resolución que pronuncie el Instituto deberá ser firmada por los tres Consejeros que lo integran, con la intervención del titular de su área jurídica, al momento de que se hubiese aprobado la resolución.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 90.
 
-(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
+Una vez emitida la resolución, el Instituto, deberá notificarla a la Unidad de Acceso a la Información Pública y al recurrente en un plazo que no deberá exceder de tres días hábiles.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 91.
 
-El sujeto obligado deberá dar cumplimiento a las resoluciones que emita el Instituto en un término de 10 días hábiles, contados a partir de la notificación de las mismas, en el entendido que de no hacerlo, éste podrá ejercer la atribución señalada en la fracción XIII del artículo 64 de la presente Ley.
+Las resoluciones que emita el Instituto serán definitivas e inatacables para los sujetos obligados.
 
-En caso de mediar circunstancias que dificulten el cumplimiento de la resolución, o bien, la comunicación de su cumplimiento por parte del sujeto obligado, el Instituto podrá conceder una prórroga para el cumplimiento, hasta por un plazo igual al que se refiere el párrafo anterior.
+El sujeto obligado deberá dar cumplimiento a las resoluciones del Recurso que emita el Instituto, en un plazo de quince días hábiles.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -1153,7 +1241,7 @@ En caso de que el solicitante no atienda al requerimiento en el plazo establecid
 
 ## Transitorios
 
-Artículo Primero,- La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, bajo las modalidades previstas en los artículos siguientes.
+Artículo Primero.- La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, bajo las modalidades previstas en los artículos siguientes.
 
 Artículo Segundo.- Los consejeros del Instituto de Acceso a la Información Pública, serán nombrados dentro de los treinta días siguientes de la entrada en vigor de la presente Ley.
 
@@ -1248,3 +1336,25 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Por única ocasión, una vez designados los dos Consejeros que sumarán los cinco a que se refiere el artículo 61, que por este Decreto se reforma, sesionarán entre ellos para designar al nuevo Consejero General o, en su caso, para que se ratifique en ese cargo a quien actualmente realiza esas funciones.
 
 Artículo Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los recursos humanos, materiales y financieros, que a la entrada en vigor del presente Decreto, se encuentren asignados al organismo público descentralizado, pasarán a formar parte del nuevo órgano, preservándose los derechos adquiridos de los trabajadores.
+
+Artículo Cuarto.- Los actuales Consejeros continuarán en su encargo hasta en tanto se realicen las designaciones de los nuevos Consejeros Ciudadanos conforme a lo dispuesto en el presente Decreto y a la reforma constitucional que crea a este órgano autónomo.
+
+Para no afectar el funcionamiento del órgano autónomo, continuará como Consejero Presidente quien hasta esta fecha ocupa el cargo de Consejero General del Instituto de Acceso a la Información Pública del Estado de Chiapas, hasta en tanto se realice la designación de los nuevos Consejeros Ciudadanos y Consejero Presidente.
+
+Artículo Quinto.- Los compromisos y procedimientos que a la entrada en vigor del presente Decreto, hubiere contraído el organismo público descentralizado, seguirán siendo asumidos inmediatamente y se entenderán conferidos al nuevo órgano, conforme a las disposiciones vigentes a la entrada en vigor del presente Decreto.
+
+Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se resolverán y seguirán rigiendo conforme a las disposiciones legales aplicables hasta antes de la entrada en vigencia de este Decreto.
+
+Artículo Sexto.- En tanto se expidan las disposiciones legales, reglamentarias y acuerdos generales, seguirán siendo aplicadas las que se encuentran vigentes a la entrada en vigor del presente Decreto, salvo en los casos en que se opongan al mismo.
+
+Artículo Séptimo.- En lo relativo al Recurso de Revisión, lo que no se encuentre previsto por esta Ley, se aplicará supletoriamente lo dispuesto en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+
+Artículo Octavo.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables; debiendo la Secretaría de Hacienda, prever en el Presupuesto de Egresos, la suficiencia presupuestaria necesaria que otorgará al órgano autónomo que mediante este Decreto se crea, además de dictaminar la estructura funcional del mismo, para que éste logre la consecución de su objeto.
