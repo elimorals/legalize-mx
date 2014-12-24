@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-procuraduria-general-de-la-republica-68589"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-05-29"
-last_updated: "2013-05-03"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-27"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2009.
 
@@ -1419,7 +1419,9 @@ Segundo. Las acciones que en su caso deba efectuar la Procuraduría General de l
 
 D.O.F. 27 DE DICIEMBRE DE 2012.
 
-PRIMERO. El presente Decreto entrará en vigor a los dos años siguientes al día de su publicación en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2014)</small>
+
+PRIMERO. El presente Decreto entrará en vigor una vez que haya entrado en vigor el Código Nacional de Procedimientos Penales en la Federación, en todas las Entidades Federativas y del Distrito Federal, en los términos previstos en la declaratoria a que hace referencia el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, sin que pueda exceder del 18 de junio de 2016.
 
 SEGUNDO. Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
 
@@ -1448,3 +1450,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- El Titular del Poder Ejecutivo Federal contará con un término de 180 días naturales para expedir las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República, a efecto de establecer la unidad administrativa que conozca de los delitos federales cometidos contra algún periodista, persona o instalación que atenten contra el derecho a la información o las libertades de expresión o imprenta, así como para aquellos delitos del fuero común que sean atraídos de conformidad con lo dispuesto por los artículos 73, fracción XXI, segundo párrafo, de la Constitución y 10 del Código Federal de Procedimientos Penales.
 
 Tercero.- En tanto se expiden las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República al que se refiere el artículo transitorio anterior, la Fiscalía Especial para la Atención de Delitos Cometidos contra la Libertad de Expresión, de la Procuraduría General de la República ejercerá las atribuciones establecidas en el presente Decreto.
+
+D.O.F. 24 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
