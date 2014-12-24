@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2014-10-04"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -676,6 +676,10 @@ La infracción de lo dispuesto en los artículos 67, 74 última parte, la falsif
 Declaración de nacimiento
 
 Las declaraciones de nacimiento se harán dentro de los 365 días siguientes a éste, presentando a la persona ante el Oficial del Registro Civil en su oficina y, en los casos en que circunstancialmente sea necesario, el Oficial acudirá al lugar en que se encuentre la persona.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Cuando se trate del registro y de la primera certificación de nacimiento, el Estado no cobrará contribución o pago de derecho alguno.
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2007)</small>
 
@@ -1835,7 +1839,7 @@ La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge 
 
 Cuándo no procede la nulidad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 Los dieciséis años en el hombre y la mujer dejarán de ser causa de nulidad:
 
@@ -25570,3 +25574,13 @@ P.O. 4 DE OCTUBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Las motocicletas “moto taxi” que tengan actividad legal dentro del territorio del Estado, deberán solicitar la reexpedición de la tarjeta de circulación a “motocarro” por escrito, dentro del término de 90 días naturales a la Secretaría de Comunicaciones y Transportes, sin pago del derecho correspondiente.
+
+TERCERO.- Las obligaciones relativas al Impuesto Vehicular Estatal que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en el capítulo séptimo de esta Ley vigente hasta el 31 de diciembre de 2014, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones fiscales aplicables.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
