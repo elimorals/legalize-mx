@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-maxcanu-yucatan-90723"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-26"
-last_updated: "2012-12-26"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MAXCANÚ, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 26 de diciembre de 2012.
 
@@ -57,9 +57,13 @@ II.- Definir el objeto, sujeto, base y época de pago de las contribuciones, y
 
 III.- Señalar las obligaciones y derechos que en materia fiscal tendrán las autoridades y los sujetos a que la misma se refiere.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-De conformidad con lo establecido por el Código Fiscal y la Ley de Coordinación Fiscal, ambas del Estado de Yucatán, para cubrir el gasto público y demás obligaciones a su cargo, la Hacienda Pública del Municipio de Maxcanú, Yucatán podrá percibir ingresos por los siguientes conceptos:
+De conformidad con lo establecido por el Código Fiscal y la Ley de Coordinación Fiscal, ambas del Estado de Yucatán, para cubrir el gasto público y demás obligaciones a su cargo, la hacienda pública del Municipio de Maxcanú, Yucatán podrá percibir ingresos por los siguientes conceptos:
 
 I.- Impuestos;
 
@@ -71,11 +75,11 @@ IV.- Productos;
 
 V.- Aprovechamientos;
 
-VI.- Participaciones;
+VI.- Participaciones, Aportaciones y Convenios;
 
-VII.- Aportaciones, y
+VII.- Transferencias, Asignaciones, Subsidios y otras ayudas, y
 
-VIII.- Ingresos Extraordinarios.
+VIII.- Ingresos derivados de Financiamiento.
 
 ### CAPÍTULO II. De los Ordenamientos Fiscales
 
@@ -1185,47 +1189,65 @@ La Hacienda Pública del Municipio de Maxcanú, Yucatán de conformidad con lo e
 
 Las multas impuestas por el Ayuntamiento por infracciones a los reglamentos administrativos, tendrán el carácter de aprovechamientos y se turnarán a la Tesorería Municipal para su cobro. Cuando estas multas no fueren cubiertas dentro del plazo señalado serán cobradas mediante el procedimiento administrativo de ejecución.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 151.
 
 Son aprovechamientos derivados de recursos transferidos al Municipio los que perciba el Municipio por cuenta de:
 
-I.- Cesiones;
+I.- Infracciones por faltas administrativas;
 
-II.- Herencias;
+II.- Sanciones por faltas al reglamento de tránsito;
 
-III.- Legados;
+III.- Cesiones;
 
-IV.- Donaciones;
+IV.- Herencias;
 
-V.- Adjudicaciones judiciales;
+V.- Legados;
 
-VI.- Adjudicaciones administrativas;
+VI.- Donaciones;
 
-VII.- Subsidios de otro nivel de gobierno;
+VII.- Adjudicaciones judiciales;
 
-VIII.- Subsidios de otros organismos públicos y privados, y
+VIII.- Adjudicaciones administrativas;
 
-IX.- Multas impuestas por autoridades administrativas federales no fiscales.
+IX.- Subsidios de otro nivel de Gobierno;
+
+X.- Subsidios de organismos públicos y privados;
+
+XI.- Multas impuestas por autoridades federales no fiscales;
+
+XII.- Convenidos (sic) con la federación y el Estado (zofemat, Capufe, entre otros), y
+
+XIII.- Aprovechamiento (sic) Diversos de tipo Corriente.
 
 ### CAPÍTULO VI. Participaciones y Aportaciones
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 152.
 
-La Hacienda Pública del Municipio de Maxcanú, Yucatán podrá percibir ingresos en concepto de participaciones y aportaciones, conforme a lo establecido en las leyes respectivas.
+La Hacienda Pública del Municipio de Maxcanú podrá percibir ingresos en concepto de Participaciones, Aportaciones y convenios, conforme a lo establecido en las leyes respectivas.
+
+Los Convenios son los recursos que percibe el Municipio con el propósito de reasignar la ejecución de funciones, programas o proyectos federales, y en su caso, recursos humanos y materiales.
 
 ### CAPÍTULO VII. Ingresos Extraordinarios
 
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2014)</small>
+
+INGRESOS DERIVADOS DE FINANCIAMIENTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 153.
 
-La Hacienda Pública del Municipio de Maxcanú, Yucatán podrá percibir ingresos extraordinarios por los siguientes conceptos:
-
-I.- Empréstitos aprobados por el Congreso del Estado de Yucatán;
-
-II.- Empréstitos aprobados por el Cabildo;
-
-III.- Subsidios, y
-
-IV.- Los que reciba de la Federación o del Estado, por conceptos diferentes a participaciones o aportaciones.
+La Hacienda Pública del Municipio de Maxcanú, podrá percibir ingresos por la celebración de empréstitos internos y externos que se obtengan de diversas fuentes de financiamiento, siempre que fueran aprobadas por la legislatura del estado en términos de lo dispuesto en la Constitución Política del Estado de Yucatán y en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 ## TÍTULO TERCERO. INFRACCIONES Y MULTAS
 
@@ -1434,3 +1456,11 @@ SECRETARIO DE PLANEACIÓN Y PRESUPUESTO
 C. MIGUEL ANTONIO FERNÁNDEZ VARGAS
 
 SECRETARIO DE LA CONTRALORÍA GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 24 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil quince, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
