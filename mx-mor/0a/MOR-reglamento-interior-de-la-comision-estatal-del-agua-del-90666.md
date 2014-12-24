@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-comision-estatal-del-agua-del-90666"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-12"
-last_updated: "2014-04-16"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,15 +22,15 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre del 2012.
 
 Al margen izquierdo un Escudo del Estado de Morelos que dice.- La tierra volverá a quienes la trabajan con sus manos.
 
-LA JUNTA DE GOBIERNO DE LA COMISIÓN ESTATAL DEL AGUA EN EJERCICIO DE LA FACULTADES (SIC) QUE LE CONFIEREN LOS ARTÍCULOS 54, 65, FRACCIÓN VII, Y 78, SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 13, FRACCIÓN XII, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DEL AGUA COMO ORGANISMO PÚBLICO DESCENTRALIZADO DEL PODER EJECUTIVO DEL ESTADO DE MORELOS; Y CON BASE EN LA SIGUIENTE:
+LA JUNTA DE GOBIERNO DE LA COMISIÓN ESTATAL DEL AGUA EN EJERCICIO DE LA (SIC) FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 54, 65, FRACCIÓN VII, Y 78, SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 13, FRACCIÓN XII, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DEL AGUA COMO ORGANISMO PÚBLICO DESCENTRALIZADO DEL PODER EJECUTIVO DEL ESTADO DE MORELOS; Y CON BASE EN LA SIGUIENTE:
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS...
 
 Por lo anteriormente expuesto y fundado, tenemos a bien expedir el siguiente:
 
@@ -86,11 +86,13 @@ III. Coordinación Técnica;
 
 IV. Dirección General de Agua Potable en Zonas Urbanas.
 
-V. Dirección General de Saneamiento en Zonas Urbanas.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
+V. Dirección General de Saneamiento en Zonas Urbanas y Operación de Sistemas;
 
-VI. Dirección General de Saneamiento en Zonas Urbanas y Operación de Sistemas;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VI. Dirección General de Agua Potable y Saneamiento en Zonas Rurales;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2014)</small>
 
@@ -278,7 +280,7 @@ VII. Ejercer, en su caso, en forma directa, las atribuciones que otorga el prese
 
 VIII. Tener la representación legal de la Comisión, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la Ley; así como otorgar, revocar y sustituir poderes para pleitos y cobranzas, actos de administración, formular querellas y denuncias, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse del juicio de amparo y, en su caso, efectuar los trámites para la desincorporación de los bienes del dominio público que se requiera enajenar;
 
-IX. Expedir concesiones, autorizaciones, dictámenes y permisos en materia de su competencia y de conformidad con las disposiciones jurídicas aplicables;
+IX. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
 X. Ordenar que se elabore el Plan Estratégico para el Desarrollo Institucional de la Comisión, así como su actualización periódica, sometiéndolo a la aprobación de la Junta de Gobierno; proyecto que deberá contener, la política hídrica general y las políticas particulares en materia de protección, conservación y saneamiento de agua e infraestructura hidráulica e hidroagrícola y protección a centros de población en el ámbito de competencia del Estado;
 
@@ -354,7 +356,9 @@ V. Formular y proponer al Secretario Ejecutivo los proyectos de programas de act
 
 VI. Ejecutar los programas de actividades de la Unidad Administrativa a su cargo y vigilar la ejecución de los correspondientes a las Direcciones Generales que tengan adscritas;
 
-VII. Refrendar con su firma los contratos, convenios, acuerdos de coordinación, concesiones, autorizaciones, dictámenes y permisos que en la materia de su competencia, deba suscribir el Secretario Ejecutivo, a solicitud de éste;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VII. Suscribir los Contratos, Convenios, Acuerdos de Coordinación, Concesiones, Autorizaciones, Dictámenes y Permisos que en la materia de su competencia deban expedir;
 
 VIII. Realizar las actividades que sean necesarias para lograr que los servicios que preste la Comisión, sean adecuados y eficientes, según su competencia;
 
@@ -490,7 +494,7 @@ XXIX. Asesorar a los Municipios de la Entidad, en la consolidación de los servi
 
 XXX. Tramitar ante las autoridades correspondientes y conforme a las normas aplicables, las asignaciones para la explotación, uso o aprovechamiento de aguas nacionales así como los permisos de descarga a cuerpos de agua nacionales;
 
-XXXI. Desarrollar el Programa para la Modernización de los Organismos Operadores de Agua que ofrece Fondo (sic) Nacional de Infraestructura (FNI), y
+XXXI. Desarrollar el Programa para la Modernización de los Organismos Operadores de Agua que ofrece (sic) Fondo Nacional de Infraestructura (FNI), y
 
 XXXII. Las demás que le delegue el Secretario Ejecutivo y las que señalen las disposiciones jurídicas aplicables.
 
@@ -526,7 +530,7 @@ XIII. Proponer al Secretario Ejecutivo el otorgamiento de apoyos financieros, co
 
 XIV. Operar y dar seguimiento a programas federalizados en materia hidroagrícola, dando cumplimiento a los requisitos acordados en los anexos técnicos, reglas y manuales de operación para tal fin;
 
-XV. Promover la obtención de todo tipo de créditos y mecanismos financieros, para el financiamiento de los programas y proyectos de infraestructura hidroagrícola con base en las leyes y reglamentos correspondientes, así como las disposiciones y autorizaciones que emita las (sic) Secretaría de Administración y de Hacienda del Poder Ejecutivo Estatal;
+XV. Promover la obtención de todo tipo de créditos y mecanismos financieros, para el financiamiento de los programas y proyectos de infraestructura hidroagrícola con base en las leyes y reglamentos correspondientes, así como las disposiciones y autorizaciones que emita las Secretaría (sic) de Administración y de Hacienda del Poder Ejecutivo Estatal;
 
 XVI. Capacitar y actualizar técnica y normativamente, en materia de infraestructura hidroagrícola y de protección contra inundaciones al personal de la Comisión;
 
@@ -544,7 +548,7 @@ XXII. Promover la elaboración de estudios para la definición de cuotas de auto
 
 XXIII. Promover y apoyar la instalación de los dispositivos de medición en las fuentes de abastecimiento superficiales y subterráneas;
 
-XXIV. Promover, coordinar, concertar y, en su caso, realizar la investigación y desarrollo tecnológico en materia hidroagrícola y la formación y capacitación de recursos humanos, y (sic)
+XXIV. Promover, coordinar, concertar y, en su caso, realizar la investigación y desarrollo tecnológico en materia hidroagrícola y la formación y capacitación de recursos humanos, y
 
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
@@ -892,7 +896,7 @@ II. Proponer, celebrar o suscribir convenios de coordinación y demás instrumen
 
 III. Formular la cartera anual de estudios y proyectos de agua potable, alcantarillado, saneamiento, infraestructura hidroagrícola y de protección contra inundaciones;
 
-IV. Concertación los (sic) créditos y otros mecanismos financieros, incluyendo la inversión privada y social en el financiamiento de los programas y proyectos de infraestructura hidráulica en el Estado, y
+IV. Concertación (sic) los créditos y otros mecanismos financieros, incluyendo la inversión privada y social en el financiamiento de los programas y proyectos de infraestructura hidráulica en el Estado, y
 
 V. Las demás que le delegue el Secretario Ejecutivo, la persona titular de la Subsecretaría y le confieran otras disposiciones jurídicas aplicables.
 
@@ -938,7 +942,7 @@ XVII. Proponer la contratación de los servicios externos necesarios para el ade
 
 XVIII. Certificar, previo cotejo y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan, en el ejercicio de sus funciones, los servidores públicos que les estén subordinados;
 
-XIX. Expedir credenciales de identificación al personal de la Comisión, y (sic)
+XIX. Expedir credenciales de identificación al personal de la Comisión, y
 
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
@@ -1014,9 +1018,9 @@ XXII. Elaborar y proponer los informes previos y justificados en juicios de ampa
 
 XXIII. Ordenar, en auxilio del Secretario Ejecutivo, que se practiquen visitas de supervisión, inspección y verificación, a fin de vigilar el cumplimiento de la normatividad aplicable;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XXIV. Suplir, en sus ausencias, a los servidores públicos del Organismo, en los juicios de amparo en los que sean señalados como autoridades responsables, en lo concerniente, a los informes previos, con justificación, recursos y cualquier otra actuación que dichas autoridades deban realizar conforme a la ley de la materia;
+XXIV. Representar y asesorar legalmente a los servidores públicos del Organismo, en toda clase de juicios en que sean parte y sean señalados como autoridad responsable por el ejercicio de sus atribuciones, incluidos en estos juicios de amparo, arbitrajes y reclamaciones de carácter jurídico;
 
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
@@ -1241,5 +1245,9 @@ P.O. 29 DE ENERO DE 2014.
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en (sic) Periódico Oficial "Tierra y Libertad".
 
 P.O. 16 DE ABRIL DE 2014.
+
+ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en (sic) Periódico Oficial "Tierra y Libertad".
+
+P.O. 24 DE DICIEMBRE DE 2014.
 
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en (sic) Periódico Oficial "Tierra y Libertad".
