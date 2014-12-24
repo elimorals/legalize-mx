@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-penales-para-el-estado-de-chiapas-8679
 country: "mx"
 rank: "codigo"
 publication_date: "2012-02-09"
-last_updated: "2014-11-27"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO NÚMERO 147 PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2012, Y P.O. DE 17 DE MAYO DE 2012, QUE ESTABLECE EL INICIO DE VIGENCIA EN FORMA GRADUAL Y PROGRESIVA SEGÚN CORRESPONDA EL MUNICIPIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el jueves 9 de febrero de 2012.
 
@@ -69,11 +69,9 @@ En caso de condena rigen los principios de proporcionalidad de las penas o medid
 
 Ningún juez podrá tratar asuntos que estén sometidos a proceso penal con cualquiera de los intervinientes sin que estén presentes los otros, respetando en todo momento el principio de contradicción, salvo las excepciones que establece este Código o las demás leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2012)</small>
-
-Los principios que rigen el presente ordenamiento son la igualdad, la no discriminación y el respeto a la dignidad y libertad de las personas; en ese sentido, cuando en este Código se utilice el genérico masculino por efectos gramaticales, se entenderá que se hace referencia a mujeres y a hombres por igual; en ese tenor los nombramientos que para tal efecto se expidan, deberán referirse en cuanto a su género.
+Los principios que rigen el presente ordenamiento son la igualdad, la no discriminación y el respeto a la dignidad humana y libertad de las personas; en ese sentido, cuando en este Código se utilice el genérico masculino por efectos gramaticales, se entenderá que se hace referencia a mujeres y a hombres por igual; en ese tenor los nombramientos que para tal efecto se expidan, deberán referirse en cuanto a su sexo.
 
 ###### Artículo 2°.
 
@@ -119,23 +117,29 @@ Hasta que se dicte sentencia condenatoria, ninguna autoridad pública podrá pre
 
 En caso de declararse la sustracción de la acción penal de un imputado se admitirá la publicación de los datos indispensables para su aprehensión por orden judicial.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 7°.
 
-Principio de igualdad ante la ley
+Principio de igualdad entre mujeres y hombres y no discriminación.
 
 Todas las personas son iguales ante la ley y deberán ser tratadas conforme a las mismas reglas.
 
-Los jueces, el ministerio público y la policía deberán tomar en cuenta las condiciones particulares de las personas y del caso, pero no deberán fundar sus decisiones sobre la base de la nacionalidad, género, origen étnico, credo o religión, ideas políticas, posición económica o social u otra condición con implicaciones discriminatorias.
+Los jueces, de control, de paz, municipales, de conciliación e indígenas, el ministerio público y la policía deberán tomar en cuenta las condiciones particulares de las personas y del caso, pero no deberán fundar sus decisiones sobre la base de la nacionalidad, género, origen étnico, credo o religión, ideas políticas, posición económica o social u otra condición con implicaciones discriminatorias.
+
+En el ejercicio de los derechos y garantías de las víctimas y en todos los procedimientos a los que se refiere el presente Código, las autoridades se conducirán sin distinción, exclusión o restricción, ejercida por razón de sexo, raza, color, orígenes étnicos, sociales, nacionales, lengua, religión, opiniones políticas, ideológicas o de cualquier otro tipo, género, edad, preferencia u orientación sexual, estado civil, condiciones de salud, pertenencia a una minoría nacional, patrimonio y discapacidades, o cualquier otra que tenga por objeto o efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas. Toda garantía o mecanismo especial deberá fundarse en razones de enfoque diferencial.
 
 Los jueces deberán preservar el principio de igualdad procesal y allanar los obstáculos que impidan su vigencia o lo debiliten.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 8°.
 
-Principio de imparcialidad y deber de resolver
+Principio de imparcialidad y deber de resolver. Incorporación de la perspectiva de género en las resoluciones.
 
-Los jueces deberán resolver con imparcialidad los asuntos sometidos a su conocimiento y no podrán abstenerse de decidir, so pretexto de silencio, contradicción, deficiencia, oscuridad o ambigüedad en los términos de las leyes, ni retardar indebidamente alguna decisión. Si lo hicieren, incurrirán en responsabilidad.
+Los jueces deberán resolver con imparcialidad los asuntos sometidos a su conocimiento, incorporando en todo momento la perspectiva de género y la pertenencia cultural, y no podrán abstenerse de decidir, so pretexto de silencio, contradicción, deficiencia, oscuridad o ambigüedad en los términos de las leyes, ni retardar indebidamente alguna decisión. Si lo hicieren, incurrirán en responsabilidad.
 
-Desde el inicio del proceso y a lo largo de su desarrollo las autoridades deberán considerar en sus decisiones no sólo las circunstancias perjudiciales para el imputado, sino también las favorables a él.
+Desde el inicio del proceso y a lo largo de su desarrollo las autoridades deberán considerar en sus decisiones no sólo las circunstancias perjudiciales para el imputado, sino también las favorables a él, ponderando la protección más amplia de las personas, bajo el principio de igualdad respecto de las víctimas u ofendidos.
 
 ###### Artículo 9°.
 
@@ -189,7 +193,9 @@ Dignidad de la persona
 
 Toda persona tiene derecho a que se respete su dignidad humana, su seguridad y su integridad física y psíquica.
 
-Nadie puede ser sometido a incomunicación, intimidación, torturas ni a otros tratos crueles, inhumanos o degradantes.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Nadie puede ser sometido a incomunicación, intimidación, torturas ni a otros tratos crueles, inhumanos o degradantes, así como tampoco a ser objeto de actos de discriminación o vulneración de derechos humanos.
 
 ###### Artículo 14.
 
@@ -213,9 +219,33 @@ Se comprende como elementos esenciales del derecho a la defensa del imputado, el
 
 Los derechos del imputado podrán ser ejercidos directamente por su abogado, salvo aquellos de carácter personal o cuando exista una reserva expresa en la ley o en el mandato. Asimismo, para renunciar a derechos disponibles, el defensor deberá contar con el consentimiento expreso de su defendido.
 
-Los miembros de pueblos o comunidades indígenas a quienes se impute la comisión de un delito deberán contar con un abogado defensor que tenga conocimiento de su lengua y cultura.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Las personas integrantes de pueblos o comunidades indígenas a quienes se impute la comisión de un delito, deberán contar con un abogado defensor que tenga conocimiento de su lengua y cultura.
 
 El juez de oficio o a petición de parte podrá declarar desierta la defensa cuando advierta en el abogado durante la tramitación del proceso o en la celebración de audiencias que no garantiza la adecuada defensa en los términos de la fracción VIII del apartado B del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+En los casos de violencia contra las mujeres, estas deberán contar con abogado defensor o asesor jurídico con conocimientos en materia de género, derechos humanos de las mujeres, incorporación de la perspectiva de género y acceso a la justicia penal para mujeres.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 15 Bis.
+
+La Debida diligencia.
+
+El Estado deberá realizar todas las actuaciones necesarias para lograr el objeto de este Código, en especial la prevención, ayuda, atención, asistencia, derecho a la verdad, justicia y reparación integral del daño, a fin de que la víctima sea tratada y considerada como sujeto titular de derecho.
+
+El Estado deberá procurar el acceso real y efectivo de las víctimas a las medidas reguladas por el presente Código, realizar prioritariamente acciones encaminadas al fortalecimiento de sus derechos, contribuir a su recuperación como sujetos en ejercicio pleno de sus derechos y deberes, así como evaluar permanentemente el impacto de las acciones que se implementen a favor de las víctimas.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 15 Ter.
+
+Las pruebas en casos de violencia contra las mujeres.
+
+Serán considerados como pruebas de violencia contra las mujeres, los estudios psicológicos, antropológicos o cualquier otro especializado, que hagan visible cualquier tipo de violencia contra las mujeres, niñas y niños.
 
 ###### Artículo 16.
 
@@ -431,6 +461,10 @@ j) Si él, su cónyuge, concubina, concubinario, padres, hijos u otras personas 
 
 k) Cuando en la causa hubiera intervenido o intervenga, como juez, algún pariente suyo dentro del cuarto grado de consanguinidad.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+l) Cuando exista una investigación o resolución que lo señale como responsable de violencia contra las mujeres, alguna resolución que lo señale como culpable de delitos cometidos contra mujeres relacionadas por su condición de género, o cuando expresamente existan elementos que hagan visible sus opiniones sobre estereotipos de género o misoginia.
+
 Para los fines de este artículo, se consideran interesados: el imputado y la víctima, así como sus representantes, defensores o mandatarios y el tercero civilmente responsable.
 
 Cualquier otra causa, fundada en motivos graves, que afecte su imparcialidad.
@@ -549,15 +583,19 @@ Si el fiscal del ministerio público no comparece o se aleja de la audiencia, se
 
 El fiscal sustituto o el abogado defensor, podrán solicitar al tribunal que aplace el inicio de la audiencia, o su continuación, por un plazo razonable para la adecuada preparación de su intervención. El tribunal resolverá considerando la complejidad del caso, las circunstancias del abandono del ministerio público y las posibilidades de aplazamiento.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 48.
 
-Libertad del imputado
+Libertad de la persona imputada y protección de la víctima.
 
-El imputado asistirá a las audiencias libre en su persona. El juez o tribunal podrá disponer la vigilancia necesaria para impedir la fuga o actos de violencia por parte del acusado.
+La persona imputada asistirá a las audiencias en forma libre. El juez o tribunal podrá disponer la vigilancia necesaria para impedir la fuga o actos de violencia por parte de la persona acusada.
 
-Si el acusado estuviere en libertad, bastará su citación para su presencia en el debate.
+Si la persona imputada estuviese en libertad, bastará que sea citada para su presencia en el debate.
 
-Sin embargo, el juez o tribunal podrá disponer, para asegurar la realización del debate o de un acto particular que lo integre, su conducción por la fuerza pública e, incluso, su detención, con determinación del lugar en el que ella se cumplirá, cuando ella resulte imprescindible. Podrá también variar las condiciones bajo las cuales goza de libertad o imponer alguna medida cautelar personal no privativa de la libertad.
+Sin embargo, el juez o tribunal podrá disponer para asegurar la realización del debate o de un acto particular que lo integre, su conducción por la fuerza pública, e incluso, su detención con determinación del lugar en el que se cumplirá cuando resulte imprescindible. Podrá también variar las condiciones bajo las cuales goza de libertad o imponer alguna medida cautelar personal no privativa de la libertad.
+
+El juez en todo momento, garantizará la integridad y seguridad de la víctima, familia y testigos, principalmente en los casos de violencia contra las mujeres o de actos que vulneran los derechos humanos.
 
 ###### Artículo 49.
 
@@ -765,7 +803,15 @@ Las sentencias contendrán los antecedentes del caso, una relación de los hecho
 
 Las sentencias deberán ser redactadas de forma clara y circunstanciada en modo, tiempo y lugar, con la indicación del valor otorgado a los medios de prueba desahogados durante la audiencia oral. También se expresará el modo como se interpretan las normas al caso concreto, y las razones y criterios jurídicos que revisten importancia, sin dejar de analizar los argumentos de los intervinientes y la parte dispositiva.
 
-Los autos contendrán, en un considerando único, una sucinta descripción de los hechos o situaciones a resolver; la debida consideración y la fundamentación fáctica, jurídica y probatoria de los mismos.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+En las sentencias se establecerán los alcances del control de convencionalidad y se fundamentarán en los instrumentos internacionales de derechos humanos, particularmente de mujeres, niñas y niños.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Los autos contendrán en un considerando único, una sucinta descripción de los hechos o situaciones a resolver, la debida consideración y la fundamentación fáctica, jurídica y probatoria de los mismos.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 Los autos y las sentencias sin la debida fundamentación serán nulos. El tribunal de oficio o en apelación deberá corregir los errores.
 
@@ -843,11 +889,15 @@ Los requerimientos dirigidos a jueces o autoridades extranjeras se efectuarán p
 
 No obstante, en casos de urgencia podrán dirigirse comunicaciones a cualquier autoridad judicial o administrativa extranjera, anticipando el exhorto o la contestación a un requerimiento, sin perjuicio de que, con posterioridad se formalice la gestión, según lo previsto en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 78.
 
-Exhortos de otras jurisdicciones
+Exhortos de otras jurisdicciones.
 
 Los exhortos de otras jurisdicciones serán diligenciados, sin retardo, siempre que no perjudiquen la jurisdicción del tribunal y se encuentren ajustados a derecho.
+
+La autoridad otorgará las medidas para que las mujeres en situación de violencia y víctimas de algún delito, cuenten con los mecanismos para que los exhortos sean enviados de manera inmediata.
 
 ###### Artículo 79.
 
@@ -873,11 +923,15 @@ b) Que contengan los elementos necesarios para asegurar la defensa y el ejercici
 
 c) Que adviertan suficientemente al imputado, a la víctima u ofendido, según el caso, cuando el ejercicio de un derecho esté sujeto a plazo o condición.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 81.
 
-Regla general sobre notificaciones
+Regla general sobre notificaciones.
 
 Las resoluciones deberán notificarse a quien corresponda, dentro de las veinticuatro horas después de ser dictadas, salvo que el órgano jurisdiccional disponga un plazo menor. No obligarán sino a las personas debidamente notificadas. Se tendrán por notificadas las personas que se presenten a la audiencia.
+
+En los casos de aplicarse una medida de seguridad o una orden de protección de las establecidas en el Código Penal y en la Ley de Acceso a una vida Libre de Violencia para las Mujeres en el Estado de Chiapas, la persona agresora deberá señalar sus datos personales para que sea notificado conforme lo dispone este Código.
 
 ###### Artículo 82.
 
@@ -1135,9 +1189,81 @@ n) Que se ordene la reparación del daño a través de las resoluciones que pone
 
 ñ) Instar a su constitución como actora civil, y solicitar la presencia del imputado y/o el tercero civilmente responsable como demandados civiles.
 
-o) Los demás que en su favor establezcan las leyes.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+o) Protección inmediata y efectiva por parte de las autoridades.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+p) Trato digno y respeto a sus derechos humanos durante cualquier entrevista o actuación como víctima de violencia.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+q) Asistencia legal y necesaria para los trámites jurídicos relacionados con la violencia de la cual sea víctima.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+r) Asistencia médica y psicológica para la atención de las consecuencias generadas por la violencia.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+s) Acciones de asistencia social e integral que contribuyan a su pleno desarrollo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+t) Atención en un refugio temporal en compañía de sus hijas, hijos, niñas, niños o personas con discapacidad, o dependientes económicos, siendo prevalentes las medidas cautelares y órdenes de protección que alejen al agresor de éstas.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+u) La víctima no será sujeta a mecanismos de conciliación o mediación con su agresor, en los casos de violencia contra las mujeres. Para lo cual el Ministerio Público actuará de oficio y lo asentará en la diligencia respectiva.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+v) Las mujeres víctimas de violencia serán asistidas en todo tiempo por intérpretes y defensores sociales que tengan conocimiento de su lengua materna y cultura, en los casos que se requiera.
 
 La víctima y los ofendidos serán informados sobre sus derechos, cuando realicen la denuncia o en su primera intervención en el proceso.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 105 Bis.
+
+De la atención integral desde la perspectiva de género.
+
+El Ministerio Público dispondrá que se preste a la víctima, ofendido o persona imputada de manera urgente, la atención integral desde la perspectiva de género que requiera con motivo de la comisión del delito o por violencia contra las mujeres.
+
+En su caso, el Ministerio Público hará saber a la institución encargada de la atención integral, las condiciones generales del caso y, de ser necesario, hará del conocimiento los protocolos, normas oficiales mexicanas o cualquier otro instrumento que sirva para dar la atención médica con perspectiva de género.
+
+Serán instituciones encargadas de la atención integral desde la perspectiva de género:
+
+a) Instituciones de Salud.
+
+b) Instituciones de Asistencia Social.
+
+c) Instituciones de Asistencia Privada.
+
+d) Refugios o Albergues.
+
+e) Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
+
+f) Centro de Justicia para Mujeres.
+
+g) Cualquier otra que brinde servicios de atención a víctimas con perspectiva de género.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 105 Ter.
+
+De la atención médica.
+
+Para la debida atención médica, en el caso donde se presenta algún tipo o modalidad de violencia contra las mujeres, deben seguirse los protocolos, lineamientos, normas oficiales mexicanas, o cualquier otro instrumento administrativo especializado que será solicitado por el Ministerio Público a la institución de salud.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 105 Quáter.
+
+Suspensión de diligencia por atención a víctima.
+
+En los casos donde la víctima es una mujer, menor de edad, o persona mayor de 60 años y haya sufrido algún tipo o modalidad de violencia, no comparecerá hasta en tanto se consideren sus condiciones médicas y psicológicas. Si durante el desahogo se presentara alguna situación que vulnere, restrinja o menoscabe su libertad, el o la Fiscal, o el órgano jurisdiccional, suspenderán la diligencia, y ordenarán la atención de la víctima por parte de persona especializada que le brinde una atención psicológica y médica. Restablecida la víctima, continuará el desahogo de la diligencia.
 
 ###### Artículo 106.
 
@@ -1405,11 +1531,15 @@ Funciones del ministerio público
 
 Además de las funciones que prevé su ley orgánica, el ministerio público tendrá las siguientes atribuciones:
 
-a) Realizar la investigación de los hechos delictivos y ejercer la acción penal pública ante los tribunales en la forma establecida por la ley, pudiendo aplicar criterios de oportunidad cuando corresponda;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+a) Realizar la investigación de los hechos delictivos con perspectiva de género y ejercer la acción penal pública ante los tribunales en la forma establecida por la ley, pudiendo aplicar criterios de oportunidad cuando corresponda, tomando en consideración lo establecido en el presente Código en materia de violencia contra las mujeres.
 
 b) Practicar, coordinar y ordenar todos los actos de investigación necesarios para el esclarecimiento de los hechos delictivos de que tenga conocimiento por la noticia del hecho, la denuncia o la querella;
 
-c) Conducir a los oficiales de investigación y dirigir las investigaciones que realicen para determinar el hecho delictivo y la probable responsabilidad de sus autores, conforme a la ley;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+c) Conducir a los oficiales de investigación y dirigir las investigaciones que realicen para determinar el hecho delictivo y la probable responsabilidad de sus autores conforme a la ley, actuando con la debida diligencia.
 
 d) Vigilar que los oficiales de investigación y, cuando corresponda, la policía cumpla con los requisitos de la legalidad de los actos de investigación que lleven a cabo;
 
@@ -1417,9 +1547,13 @@ e) Solicitar la reparación del daño a cargo del imputado o, de los terceros ci
 
 f) Proteger a la víctima, ofendidos y testigos de la acción ilícita y las consecuencias del hecho punible y facilitar las actuaciones procesales de la víctima.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2014)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-g) Realizar las indagatorias necesarias para integrar un historial de violencia conformado por la existencia de datos, testimoniales o cualquier otro elemento que acrediten la ejecución de actos violentos basados por género, que le cause daño o sufrimiento psicológico, físico, patrimonial; económico o sexual a la víctima u ofendido.
+g) Atender los protocolos de actuación en casos de violencia de género y de protección a niñas, niños, adolescentes, personas con discapacidad, adultas mayores o indígenas, aquellos relacionados con delitos cometidos en contra de las mujeres.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+h) Informar a la denunciante sobre la prohibición de mecanismos de conciliación, mediación o cualquier otro alternativo, según sea el caso.
 
 ###### Artículo 134.
 
@@ -1443,17 +1577,21 @@ La excusa o la recusación serán resueltas por la autoridad que resulte compete
 
 ### Capítulo VI. Oficiales de Investigación y Órganos de Policía
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 136.
 
-Función
+Función.
 
-Los oficiales de investigación, de oficio, por denuncia, querella o por orden de autoridad competente, procederán a investigar los hechos presuntamente delictivos, impedir que los hechos se lleven a consecuencias ulteriores, identificar y aprehender a los probables responsables y reunir los datos y medios de prueba necesarios para que el ministerio público pueda fundar la acusación, el no ejercicio de la acción penal o el sobreseimiento.
+Los oficiales de investigación, de oficio, por denuncia, querella o por orden de autoridad competente, procederán a investigar los hechos presuntamente delictivos desde la perspectiva de género, impidiendo que los hechos se lleven a consecuencias ulteriores, identificar y aprehender a los probables responsables y reunir los datos y medios de prueba necesarios para que el Ministerio Público pueda fundar la acusación, el no ejercicio de la acción penal o el sobreseimiento.
 
 ###### Artículo 137.
 
 Obligaciones de los oficiales de investigación y policías
 
-Los oficiales de investigación y, cuando se requiera, los órganos de policía y seguridad, procederán bajo los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos. Bajo la conducción y mando del ministerio público se sujetarán a las siguientes obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Los oficiales de investigación y, cuando se requiera, los órganos de policía y seguridad, procederán bajo los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez, igualdad y respeto a los derechos humanos. Bajo la conducción y mando del Ministerio Público se sujetarán a las siguientes obligaciones:
 
 a) Actuar conforme a la ley respetando las garantías individuales y derechos humanos reconocidos en la Constitución.
 
@@ -1472,6 +1610,14 @@ g) Utilizar los protocolos de investigación y de cadena de custodia conforme a 
 h) Preservar, conforme a las disposiciones de este código, las pruebas e indicios de probables hechos delictivos de forma que no pierdan su calidad probatoria.
 
 i) Abstenerse de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+j) Abstenerse de realizar cualquier acto de discriminación, apología de la violencia contra las mujeres o vulneración de los derechos humanos de las mujeres.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+k) Otorgar todos los medios para proteger la dignidad humana de las mujeres, niñas, niños y adolescentes.
 
 ###### Artículo 138.
 
@@ -1620,6 +1766,14 @@ La intervención por sí misma, como actor civil, no exime del deber de declarar
 Demanda de reparación del daño
 
 La acción para obtener la reparación del daño podrá dirigirse, contra el imputado y contra la persona que, según las leyes, responda objetivamente por los daños y perjuicios que el imputado hubiera causado con el hecho punible.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 150 Bis.
+
+Resarcimiento y reparación del daño en los delitos de feminicidio.
+
+Ante el delito de feminicidio, el estado mexicano deberá resarcir el daño conforme a lo dispuesto en el marco jurídico aplicable.
 
 ###### Artículo 151.
 
@@ -6252,3 +6406,13 @@ Artículo Tercero.- De acuerdo a lo previsto en el artículo Tercero Transitorio
 Toda mención en otras leyes u ordenamientos del Estado de Chiapas al Código de Procedimientos Penales para el Estado, se entenderá referido al Código de Procedimientos Penales que resulte aplicable, tomando en consideración la vigencia de los Códigos de Procedimientos Penales de 1938, el de corte acusatorio y oral de 2012, y el Código Nacional de Procedimientos Penales.
 
 Artículo Cuarto.- Remítase copia de este Decreto a los poderes públicos de la Federación, de las Entidades Federativas y del Distrito Federal, así como a los demás Poderes del Estado, para su conocimiento y efectos a que haya lugar.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Se armonizarán en un plazo máximo de seis meses a partir la entrada en vigor del presente Decreto, las disposiciones contenidas en el presente Código en materia de lenguaje incluyente.
+
+Artículo Cuarto.- Las disposiciones contenidas en el presente Código, deberán vincularse a lo dispuesto en los Tratados y Protocolos Internacionales emitidos en la materia, así como la normatividad aplicable en la misma.
