@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-679
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-01"
-last_updated: "2011-06-08"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LA SEGUNDA DISPOSICIÓN TRANSITORIA DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -541,7 +543,7 @@ IX. Diseñar los mecanismos, procedimientos y programas de supervisión y seguim
 
 X. Asegurar que las peticiones de servicios periciales que le formule el Agente del Ministerio Público se canalizen (sic) para su atención;
 
-XI. Establecer los mecanismos y procedimientos de registro y control de atención a las peticiones deservicios periciales formuladas por los Agentes del Ministerio Público, así como vigilar que se elaboren los informes y estadísticas correspondientes;
+XI. Establecer los mecanismos y procedimientos de registro y control de atención a las peticiones deservicios (sic) periciales formuladas por los Agentes del Ministerio Público, así como vigilar que se elaboren los informes y estadísticas correspondientes;
 
 XII. Establecer y operar un sistema de supervisión permanente del personal de las diversas especialidades periciales, a efecto de garantizar que cumplan y observen las normas jurídico administrativas vigentes en la materia;
 
@@ -599,7 +601,7 @@ La Coordinación General de la Policía Ministerial tendrá las siguientes atrib
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-I. Supervisar que los agentes de la Policía Ministerial investiguen los hechos delictivos actuando bajo la conducción y el mando del Agentes (sic) del Ministerio Público, así como aquellos de que tengan noticia directamente, en los casos y condiciones que establezcan las normas jurídicas aplicables, debiendo hacerlo del conocimiento inmediato del Agente del Ministerio Público que corresponda;
+I. Supervisar que los agentes de la Policía Ministerial investiguen los hechos delictivos actuando bajo la conducción y el mando del (sic) Agentes del Ministerio Público, así como aquellos de que tengan noticia directamente, en los casos y condiciones que establezcan las normas jurídicas aplicables, debiendo hacerlo del conocimiento inmediato del Agente del Ministerio Público que corresponda;
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
@@ -789,7 +791,7 @@ II. Dirección General del Centro de Justicia Alternativa;
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-III. Dirección General de Enlace Interinstitucional; y (sic)
+III. Dirección General de Enlace Interinstitucional; y
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -1269,7 +1271,7 @@ II. Coordinarse con las instancias competentes, para el intercambio de conocimie
 
 III. Gestionar y dar seguimiento al cumplimiento de los compromisos adquiridos por la Procuraduría General de Justicia a través de los convenios que se suscriban con otras instituciones públicas y privadas, debiendo revisar el proyecto de estos documentos para su opinión;
 
-IV. Garantizar la difusión entre las unidades administrativas de la Institución las leyes, decretos, reglamentos, Periódico Oficial del Estado de Morelos, Diario Oficial de la Federación, circulares, acuerdos y convenios de la Procuraduría y; (sic)
+IV. Garantizar la difusión entre las unidades administrativas de la Institución las leyes, decretos, reglamentos, Periódico Oficial del Estado de Morelos, Diario Oficial de la Federación, circulares, acuerdos y convenios de la Procuraduría y;
 
 V. Controlar el correcto funcionamiento de la Biblioteca de la Procuraduría;
 
@@ -1901,7 +1903,7 @@ Los servidores públicos de la Procuraduría General de Justicia del Estado, cuy
 
 ###### ARTÍCULO 62.
 
-Las Unidades Especializadas de investigación son unidades administrativas integradas por Agentes del Ministerio Público encargados de la persecución e investigación de los delitos, las cuales atenderán las atribuciones precisadas en la Constitución Política de los Estados Unidos Mexicanos, en la Ley Orgánica de la Procuraduría General del Justicia del Estado de Morelos y demás disposiciones jurídicas aplicables.
+Las Unidades Especializadas de investigación son unidades administrativas integradas por Agentes del Ministerio Público encargados de la persecución e investigación de los delitos, las cuales atenderán las atribuciones precisadas en la Constitución Política de los Estados Unidos Mexicanos, en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos y demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 63.
 
@@ -2821,7 +2823,7 @@ DR. EN DERECHO JOSÉ FRANCISCO CORONATO RODRÍGUEZ
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 21 DE OCTUBRE DE 2009.
 
@@ -2870,3 +2872,27 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
 TERCERO.- Los manuales de organización y de políticas y procedimientos deberán adecuarse en un plazo no mayor a 90 días hábiles, y en tanto se expidan dichos manuales seguirán vigentes los anteriores.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+PRIMERA. El presente Reglamento entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abrogan el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos, y el Decreto que crea el Centro de Justicia para las Mujeres del Estado de Morelos, ambos publicados en el Periódico Oficial “Tierra y Libertad”, el primero el día 01 de abril de 2009, en el ejemplar número 4690 y, el segundo, el día catorce de agosto de 2013, en el número 5110, respectivamente; y se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango jerárquico normativo que se opongan al presente Reglamento.
+
+TERCERA. Los Manuales de Organización, de Políticas y Procedimientos y otros de la Fiscalía General, que por razón del presente Reglamento se tengan que emitir, deberán expedirse dentro de un plazo no mayor a 120 días hábiles, contados a partir de la entrada en vigor del presente ordenamiento; y, en tanto se expidan dichos Manuales, el Fiscal General resolverá las cuestiones de procedimiento y operación que se originen por la aplicación de éste ordenamiento.
+
+CUARTA. El Fiscal General determinará la readscripción de los servidores públicos conforme a la nueva estructura organizacional que regula este Reglamento, tomando en cuenta la fecha de entrada en vigor del presente ordenamiento. La Unidad de Desarrollo Profesional y Administrativo realizará todos los trámites administrativos necesarios respetando el derecho de los trabajadores.
+
+QUINTA. La nueva estructura orgánica de la Fiscalía General, establecida en el presente Reglamento, deberá implementarse en atención a las necesidades del servicio de procuración de justicia y de acuerdo con la disponibilidad presupuestal con que se cuente.
+
+SEXTA. Las Unidades Administrativas de nueva creación tendrán un plazo máximo de 60 días hábiles, contados a partir de la entrada en vigor del presente Reglamento, para iniciar su funcionamiento, tiempo en que se deberán de realizar todas aquellas acciones de carácter administrativo necesarias.
+
+SÉPTIMA. Los recursos humanos y materiales serán distribuidos de acuerdo a las necesidades y a la carga de trabajo que exista en cada Fiscalía Regional, mientras que las carpetas de investigación se turnarán al lugar donde se originaron los hechos delictivos, por lo que la Unidad de Desarrollo Profesional y Administración realizará las adecuaciones necesarias para el cumplimiento de esta disposición.
+
+OCTAVA. El patrocinio legal que brindaba la Dirección General de Asesoría Social y Auxilio a Víctimas de la otrora Procuraduría General de Justicia del Estado de Morelos, en materia, agraria, civil, mercantil y administrativo, seguirá su continuidad por la Fiscalía de Apoyo a Victimas y Representación, hasta la sentencia de la instancias en que se encuentre.
+
+NOVENA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; la Fiscalía General, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la citada Secretaría de Gobierno, los cambios de denominación y supresión de las unidades administrativas de aquella, sufridos en virtud de este instrumento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+DÉCIMA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Fiscalía General deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+DÉCIMA PRIMERA Todas aquellas carpetas de investigación y averiguaciones previas que conocía la Dirección General de Derechos Humanos, se turnarán a la Fiscalía Regional Metropolitana para la continuación y desarrollo correspondiente, por lo que se derogan aquellas disposiciones que contravengan lo presente.
