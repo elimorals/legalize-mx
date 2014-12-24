@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2014-11-12"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -849,9 +849,11 @@ PROTECCIÓN DEL ESTADO A LA INSTITUCIÓN DEL MATRIMONIO. El Estado protegerá la
 
 ### CAPÍTULO III. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 72.
 
-EDAD PARA CONTRAER MATRIMONIO. Para contraer matrimonio el varón y la mujer necesita haber cumplido dieciséis años. El Juez de lo Familiar puede únicamente conceder dispensas de edad por causas graves y justificadas.
+EDAD PARA CONTRAER MATRIMONIO. Para contraer matrimonio el varón y la mujer necesitan haber cumplido dieciocho años. El Juez de lo Familiar puede únicamente conceder dispensas de edad cuando ambos pretendientes comparezcan ante él de manera voluntaria, siempre que éstos hayan cumplido los dieciséis años de edad y cuenten con el respectivo consentimiento de quienes deban otorgarlo en términos del artículo 73 del presente código.
 
 ###### ARTÍCULO 73.
 
@@ -921,17 +923,25 @@ XIV.- La impotencia incurable para la cópula;
 
 XV. Encontrarse afectado por enfermedades mentales incurables;
 
-XVI.- El matrimonio subsistente con persona distinta de aquella con quien se pretende contraer; y
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XVII.- Las demás que señale este Código.
+XVI.- La falta de edad requerida por la Ley, cuando no haya sido dispensada;
+
+XVII.- El matrimonio subsistente con persona distinta de aquella con quien se pretende contraer; y
+
+XVIII.- Las demás que señale este Código.
 
 ###### ARTÍCULO 78.
 
 IMPEDIMENTOS DISPENSABLES. Son impedimentos dispensables:
 
-I.- No tener la edad de 18 años el hombre y la mujer, si no han obtenido el consentimiento conforme a las reglas del artículo 73 de este Código.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-II.- El parentesco en la línea colateral desigual la cual comprende sólo a los tíos y sobrinos en el tercer grado.
+I.- No tener la edad de 18 años el hombre y la mujer, si no han obtenido el consentimiento conforme a las reglas de los artículos 72 y 73 de este Código.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II.- El parentesco en la línea colateral desigual la cual comprende sólo a los tíos y sobrinos en el tercer grado, conforme a las reglas de los artículos 72 y 73 de este Código.
 
 ###### ARTÍCULO 79.
 
@@ -945,9 +955,11 @@ PROHIBICIÓN MATRIMONIAL DEL ADOPTANTE. El adoptante no puede contraer matrimoni
 
 IMPEDIMENTO POR POSIBLE GRAVIDEZ DE LA MUJER. La mujer no puede contraer matrimonio sino hasta pasados trescientos días después de la disolución del anterior. En los casos de nulidad o de divorcio, debe contarse este tiempo desde que se interrumpió la cohabitación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 82.
 
-PROHIBICIÓN MATRIMONIAL PARA EL TUTOR, CURADOR Y SUS DESCENDIENTES. El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Juez de lo familiar respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
+PROHIBICIÓN MATRIMONIAL PARA EL TUTOR, CURADOR Y SUS DESCENDIENTES. El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Juez de lo familiar respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela y que la persona que esté o haya estado bajo su guarda tenga cumplidos los dieciséis años de edad.
 
 Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
 
@@ -1435,15 +1447,19 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 4
 
 PRETENSIÓN DE NULIDAD POR ERROR EN LA PERSONA DEL CÓNYUGE. La pretensión de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error de inmediato al advertirlo, se tiene por ratificado el consentimiento y queda subsistente el matrimonio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 157.
 
-FALTA DE NULIDAD POR MINORÍA DE EDAD. La menor edad de dieciséis años en el hombre y en la mujer dejará de ser causa de nulidad cuando:
+FALTA DE NULIDAD POR MINORIA DE EDAD. La menor edad de dieciocho años en el hombre y en la mujer dejará de ser causa de nulidad cuando:
 
 I.- Haya hijos;
 
 II.- Aunque no los hubiere, el menor haya cumplido los dieciocho años, y ni él ni el otro cónyuge hubieren intentado la nulidad; y
 
-III.- Antes de declararse ejecutoriada la resolución de nulidad se obtuviese la dispensa de edad o la esposa se halle encinta.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+III.- Antes de declararse ejecutoriada la resolución de nulidad se obtuviese la dispensa de edad conforme a lo establecido en este código o la esposa se halle encinta.
 
 ###### ARTÍCULO 158.
 
@@ -3461,9 +3477,13 @@ El Oficial del Registro Civil, hará del conocimiento de los pretendientes inmed
 
 DOCUMENTOS QUE DEBEN ACOMPAÑARSE A LA SOLICITUD DE MATRIMONIO. Al escrito a que se refiere el artículo anterior se acompañará:
 
-I.- Copia certificada del acta de nacimiento y documento de identificación personal de cada uno de los solicitantes;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-II.- La constancia de que otorgan su consentimiento las personas a que se refiere el artículo 73 de este Código, para que el matrimonio se celebre;
+I.- Copia certificada del acta de nacimiento y documento de identificación personal de cada uno de los solicitantes, en el que se verifique que ambos son mayores de edad;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II.- En su caso, la constancia de que otorgan su consentimiento las personas a que se refiere (sic) artículo 73 de este Código, para que el matrimonio se celebre siempre y cuando los contrayentes tengan cumplidos los dieciséis años de edad;
 
 III.- La declaración de dos testigos capaces de que conocen a los pretendientes y que no tienen impedimento legal alguno para unirse legalmente. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
@@ -6176,3 +6196,11 @@ P.O. 12 DE NOVIEMBRE DE 2014.
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículo 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Dese cuenta a la Cámara de Diputados, en contestación a los exhortos contenidos en los oficios DGPL-62-II-5-694, CP2R2A.-337.16 y CP2R2A.-1400.16, de fecha veinticuatro de abril de dos mil trece, 21 de mayo de 2014 y 25 de junio de 2014, mediante el cual se exhorta a las Legislaturas de los Estados, para que en el ámbito de sus respectivas competencias, revisen su legislación civil, con el fin de aumentar la edad mínima para que ambos contrayentes puedan celebrar matrimonio.
