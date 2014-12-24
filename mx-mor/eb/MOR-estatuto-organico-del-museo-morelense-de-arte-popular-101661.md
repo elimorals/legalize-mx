@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-museo-morelense-de-arte-popular-101661"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-02"
-last_updated: "2014-08-27"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL MUSEO MORELENSE DE ARTE POPULAR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DEL MUSEO MORELENSE DE ARTE POPULAR
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE AGOSTO DE 2014.</small>
+> <small>N. DE E. CONTIENE LAS FE DE ERRATAS PUBLICADAS EN EL PERIÓDICO OFICIAL DEL 27 DE AGOSTO DE 2014 Y 24 DE DICIEMBRE DE 2014.</small>
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 2 de julio de 2014.
 
@@ -391,7 +389,9 @@ I. El Coordinador, quien lo presidirá;
 
 II. La persona titular de la Dirección Administrativa, quien fungirá como Secretario Técnico;
 
-III. La persona titular de la Coordinación de la Unidad de Procesos para la Adjudicación de Contratos del Poder Ejecutivo del Estado de Morelos, como Secretario Ejecutivo, y
+> <small>(F. DE E. 24 DE DICIEMBRE DE 2014)</small>
+
+III. La persona titular de la Coordinación de la Unidad de Procesos para laAdjudicación (sic) de Contratos del Poder Ejecutivo del Estado de Morelos, y
 
 IV. Dos vocales, que serán las personas titulares de las Unidades Administrativas del MMAPO, designadas por la persona que presida el Subcomité de Adquisiciones.
 
