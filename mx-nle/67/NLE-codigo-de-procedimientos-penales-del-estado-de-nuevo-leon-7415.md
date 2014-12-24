@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2014-03-24"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEÓN
 
 > <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE FECHA 5 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO DEJA DE SER APLICABLE EN FORMA GRADUAL Y SUCESIVA, EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO, Y QUEDA ABROGADO A PARTIR DEL 1 DE ENERO DE 2016, CON LAS EXCEPCIONES ESTABLECIDAS EN LOS ARTÍCULOS DEL TERCERO AL SEXTO TRANSITORIOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE MARZO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -38,6 +36,8 @@ Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 D E C R E T O
 
 NUM. 95
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 199, PUBLICADO EN EL P.O. 24 DE DICIEMBRE DE 2014, TODA MENCIÓN EN OTRAS LEYES U ORDENAMIENTOS LEGALES REFERENTES A LOS CÓDIGOS DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NUEVO LEÓN Y PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN, QUE POR VIRTUD DEL PRESENTE DECRETO SE ABROGAN, SE ENTENDERÁ QUE SE REFIERE AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
@@ -61,7 +61,7 @@ III. Instrucción, que comprende desde el auto de formal prisión o sujeción a 
 
 En este período deben proponerse y rendirse las pruebas que el Juez o las partes estimen necesarias, dentro de los plazos marcados por la Ley o en los que el Juez decrete conforme al presente Código.
 
-IV.- Juicio, que comprende las conclusiones acusatorias del Ministerio Público, acorde con los hechos motivo del auto de formal prisión o de sujeción a proceso, la defensa del inculpado, la audiencia de vista y la sentencia que proceda.
+IV.- Juicio, que comprende las conclusiones acusatorias del Ministerio Publico, acorde con los hechos motivo del auto de formal prisión o de sujeción a proceso, la defensa del inculpado, la audiencia de vista y la sentencia que proceda.
 
 V. La actuación del Tribunal Superior de Justicia del Estado, cuando efectúe diligencias y autos tendientes a resolver los recursos y el pronunciamiento de las sentencias que procedan; y
 
@@ -1995,7 +1995,7 @@ Siempre que se lleve a cabo una aprehensión en virtud de orden judicial, la Pol
 
 ###### ARTICULO 200.
 
-Si el Juez niega la orden de aprehensión, de comparecencia, de cateo, de arraigo, de presentación o de embargo precautorio, por considerar que no están reunidos los requisitos de los artículos 16 de la Constitución Política de los Estados Unidos Mexicanos, 193 y 197 de este Código, y se solicitare replantear el auto en que se ejercita la acción penal o la práctica de nuevas pruebas, se regresará el expediente al Ministerio Público a efecto de que realice un nuevo auto de ejercicio de la acción penal o desahogue de nuevas pruebas estando facultado para solicitar de nueva cuenta la orden de aprehensión, de comparecencia o de cateo, de arraigo, de presentación o embargo precautorio, con un nuevo planteamiento o en el mismo sentido apoyado en pruebas diversas a las anteriores, ya consideradas por la autoridad judicial, debiendo el juzgador valorar en su conjunto todas y cada una de las pruebas que obran en el expediente, tanto la (sic) nuevas como las anteriores, al emitir un nuevo auto.
+Si el Juez niega la orden de aprehensión, de comparecencia, de cateo, de arraigo, de presentación o de embargo precautorio, por considerar que no están reunidos los requisitos de los artículos 16 de la Constitución Política de los Estados Unidos Mexicanos, 193 y 197 de este Código, y se solicitare replantear el auto en que se ejercita la acción penal o la práctica de nuevas pruebas, se regresará el expediente al Ministerio Público a efecto de que realice un nuevo auto de ejercicio de la acción penal o desahogue de nuevas pruebas, estando facultado para solicitar de nueva cuenta la orden de aprehensión, de comparecencia o de cateo, de arraigo, de presentación o embargo precautorio, con un nuevo planteamiento o en el mismo sentido apoyado en pruebas diversas a las anteriores, ya consideradas por la autoridad judicial, debiendo el juzgador valorar en su conjunto todas y cada una de las pruebas que obran en el expediente, tanto la (sic) nuevas como las anteriores, al emitir un nuevo auto.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -4597,7 +4597,7 @@ Las normas contenidas en el presente Capítulo serán aplicables para el procesa
 
 I. Los cometidos por culpa;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -4779,9 +4779,7 @@ En caso de que se promueva juicio de amparo donde se aleguen violaciones a los a
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
-###### ARTICULO 560 Bis.
-
-El Ministerio Público le hará saber a los testigos y peritos, la obligación que tienen de comparecer y declarar durante la Audiencia del Juicio Oral, así como de comunicar cualquier cambio de domicilio o de morada hasta esa oportunidad.
+ARTICULO 560 BIS.- El Ministerio Público le hará saber a los testigos y peritos, la obligación que tienen de comparecer y declarar durante la Audiencia del Juicio Oral, así como de comunicar cualquier cambio de domicilio o de morada hasta esa oportunidad.
 
 En caso de que el testigo o perito manifestare la imposibilidad de concurrir a la Audiencia del Juicio Oral, por tener que ausentarse a distancia o por motivo que a juicio del juez le imposibilite asistir a dicha audiencia, vivir en el extranjero o exista motivo que hiciere temer su muerte, su incapacidad física o mental que le impidiese declarar, o alguna otra situación extraordinaria a juicio del Juez, el Ministerio Público o el Defensor del inculpado podrán solicitar al Juez de Preparación de lo Penal o, en su caso, al del Juicio Oral, que se reciba su declaración o dictamen anticipadamente, debiendo el Juez resolver lo conducente valorando los motivos expuestos por la parte solicitante. Las pruebas de esta forma desahogadas se incorporarán a la audiencia del Juicio Oral, en los términos del artículo 579 de este Código.
 
@@ -5081,7 +5079,7 @@ El acusado podrá comunicarse libremente con su defensor durante el juicio, siem
 
 Cada parte determinará el orden en que rendirá su prueba, correspondiendo recibir primero la ofrecida para acreditar los hechos y peticiones del Ministerio Público y luego la prueba ofrecida por el acusado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 586.
 
@@ -5185,7 +5183,7 @@ II.- El juez, tomando en cuenta la complejidad del juicio y la cantidad de prueb
 
 III.- Manifestará primero el Ministerio Público y, en seguida, el defensor. También alegará el acusado si así lo desea. Seguidamente se otorgará al Ministerio Público y al Defensor, las facultades de replicar;
 
-IV.- Sólo se concederá el uso de la palabra por dos veces a cada una de las partes. En la réplica, el Ministerio Público únicamente podrá ocuparse de lo alegado por el defensor al expresar sus conclusiones. Igual regla se seguirá en caos de la duplica del defensor respecto a la réplica del Ministerio Público;
+IV.- Sólo se concederá el uso de la palabra por dos veces a cada una de las partes. En la réplica, el Ministerio Público únicamente podrá ocuparse de lo alegado por el defensor al expresar sus conclusiones. Igual regla se seguirá en caso de la duplica del defensor respecto a la réplica del Ministerio Público;
 
 V.- En sus alegatos procurarán las partes la mayor brevedad. El Juez tomará en consideración la extensión del proceso para determinar el tiempo que concederá al efecto. No se concederá el uso de la palabra por más de media hora cada vez. Los tribunales tomarán las medidas prudentes que procedan, a fin de que las partes se sujeten al tiempo indicado. Sin embargo, cuando se amerite, el Juez podrá permitir que se amplíe el tiempo marcado, o que se use por otra vez de la palabra, observándose la más completa equidad entre las partes;
 
@@ -5315,9 +5313,7 @@ En la audiencia a que se refiere el artículo 606 de este Código, el inculpado 
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
-###### ARTICULO 607 Bis.
-
-Cuando el procedimiento se siga conforme a lo dispuesto en el Capítulo Primero del Título Décimo Cuarto, el inculpado que desee tramitar el procedimiento en forma abreviada, solicitará al Juez se convoque al Ministerio Público y, en su caso, a la víctima u ofendido a una audiencia en la que su defensor deberá plantear, fundar y motivar oralmente su solicitud de procedimiento abreviado. En caso de que no hubiese aceptado con anterioridad los hechos que se le imputan, el Juez de Preparación de lo Penal le preguntará al inculpado en la audiencia si entiende y conoce los hechos que se le imputan y si es su deseo aceptar libre y voluntariamente esos hechos. Si el inculpado acepta los hechos, se continuará con la audiencia, en caso contrario o cuando el juez considere que la aceptación de los hechos no es informada, libre o voluntaria, o bien, no sea lisa y llana, se concluirá con la audiencia y se procederá conforme lo dispone el último párrafo de este artículo.
+ARTICULO 607 BIS.- Cuando el procedimiento se siga conforme a lo dispuesto en el Capítulo Primero del Título Décimo Cuarto, el inculpado que desee tramitar el procedimiento en forma abreviada, solicitará al Juez se convoque al Ministerio Público y, en su caso, a la víctima u ofendido a una audiencia en la que su defensor deberá plantear, fundar y motivar oralmente su solicitud de procedimiento abreviado. En caso de que no hubiese aceptado con anterioridad los hechos que se le imputan, el Juez de Preparación de lo Penal le preguntará al inculpado en la audiencia si entiende y conoce los hechos que se le imputan y si es su deseo aceptar libre y voluntariamente esos hechos. Si el inculpado acepta los hechos, se continuará con la audiencia, en caso contrario o cuando el juez considere que la aceptación de los hechos no es informada, libre o voluntaria, o bien, no sea lisa y llana, se concluirá con la audiencia y se procederá conforme lo dispone el último párrafo de este artículo.
 
 Aceptado los hechos por el inculpado, el Juez de Preparación de lo Penal verificará que el inculpado conozca su derecho a ofrecer pruebas, a un juicio oral y público, que renuncia libre y voluntariamente a esos derechos, que entiende los términos del procedimiento abreviado y las consecuencias que éste pudiere significarle y, especialmente, que no hubiere sido objeto de coacciones ni presiones indebidas para obligarlo a solicitar dicho procedimiento. Acto seguido se le dará el uso de la palabra al Ministerio Público para que manifieste lo que a su interés convenga.
 
@@ -5769,11 +5765,11 @@ Artículo 195, 206, 206 Bis, 207, 211 en relación con el artículo 212 fracció
 
 A partir del 1° de enero de 2014 se adicionarán para su procesamiento los delitos tipificados en los siguientes artículos del Código Penal para el Estado de Nuevo León:
 
-Artículos 174, 175, 177, 187 en relación al 186, 196, 197 Bis, 201 Bis, 201 Bis 2, 208, 209, 223, 224, 225, 225 Bis, 225 Bis 1, 225 Bis 2, 226 Bis, 240, 242, 243, 244 Bis, 245, 247, 254 Bis, 271 Bis 2, 287, 308 en relación al 302, 308 en relación al 313, 308 en relación al 320, 322, 327 en relación al 328, 327 en relación al 329, 327 en relación al 330, 33I Bis.
+Artículos 174, 175, 177, 187 en relación al 186, 196, 197 Bis, 201 Bis, 201 Bis 2, 208, 209, 223, 224, 225, 225 Bis, 225 Bis 1, 225 Bis 2, 226 Bis, 240, 242, 243, 244 Bis, 245, 247, 254 Bis, 271 Bis 2, 287, 308 en relación al 302, 308 en relación al 313, 308 en relación al 320, 322, 327 en relación al 328, 327 en relación al 329, 327 en relación al 330, 331 Bis.
 
 A partir del 1° de enero de 2015 se adicionarán para su procesamiento los delitos tipificados en los siguientes artículos del Código Penal para el Estado de Nuevo León:
 
-Artículos 150, 151, 152, 153, 154, 158, 160, 161, 163, 164, 165, 265, 266, 267,268, 271,624 en relación al 367 fracción III, 369, 381, 383, 384, 385, 386, 387, 387 Bis, 391, 392, 396,397,401,406 Bis, 410 segundo párrafo en relación al 409 fracción IV, 427, 428, 429, 43I.
+Artículos 150, 151, 152, 153, 154, 158, 160, 161, 163, 164, 165, 265, 266, 267,268, 271,624 en relación al 367 fracción III, 369, 381, 383, 384, 385, 386, 387, 387 Bis, 391, 392, 396,397,401,406 Bis, 410 segundo párrafo en relación al 409 fracción IV, 427, 428, 429, 431.
 
 A partir de 1° de enero de 2016, se aplicará a todos los delitos tipificados en el Código Penal para el Estado de Nuevo León y a otros delitos especiales previstos en los ordenamientos legales.
 
@@ -5793,7 +5789,7 @@ Cuarto.- No procederá la acumulación de procesos por hechos que la ley señale
 
 Quinto.- Será aplicable el Código de Procedimientos Penales del Estado de Nuevo León publicado en el Periódico Oficial del Estado de fecha 28 de marzo de 1990 y sus reformas, si el procedimiento se sigue a dos o más personas y a cualquiera de ellas se le investiga por delito que no se encuentre vigente aun en este Código de acuerdo con lo establecido en el Transitorio Primero. En este caso la inhibitoria será respecto de todos los inculpados.
 
-Sexto.- los exhortos y rogatorias que se reciban en el Estado se diligenciarán según señale la autoridad exhortante de acuerdo con el sistema del Código establecido en el presente Decreto o bien de acuerdo con lo señalado en el Código de Procedimientos Penales del Estado de Nuevo León publicado en el Periódico Oficial del Estado de fecha 28 de marzo de I990 y sus reformas. En caso de que la autoridad exhortante omita hacer la referencia, el Juez se ajustará a las reglas establecidas en el presente Decreto.
+Sexto.- los exhortos y rogatorias que se reciban en el Estado se diligenciarán según señale la autoridad exhortante de acuerdo con el sistema del Código establecido en el presente Decreto o bien de acuerdo con lo señalado en el Código de Procedimientos Penales del Estado de Nuevo León publicado en el Periódico Oficial del Estado de fecha 28 de marzo de 1990 y sus reformas. En caso de que la autoridad exhortante omita hacer la referencia, el Juez se ajustará a las reglas establecidas en el presente Decreto.
 
 Séptimo.- Los epígrafes de cada Artículo de este Código son de carácter indicativo por lo que no definen, interpretan o limitan el contenido de los artículos.
 
@@ -5838,3 +5834,19 @@ Lo anterior en los términos de los Artículos Transitorios Segundo y Quinto del
 P.O. 31 DE DICIEMBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 199 QUE EXPIDE LA DECLARATORIA DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN TODO EL TERRITORIO DEL ESTADO DE NUEVO LEÓN Y RESPECTO DE TODOS LOS DELITOS REGULADOS EN EL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN Y LEYES ESPECIALES.</small>
+
+Artículo Primero.- A partir del 1 de enero de 2016 se declara inicio de la vigencia del Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, en todo el territorio del Estado de Nuevo León y respecto de todos los delitos regulados en el Código Penal para el Estado de Nuevo León y Leyes especiales.
+
+Artículo Segundo.- En términos de lo dispuesto en el Artículo Tercero Transitorio del Código Nacional de Procedimientos Penales, se abroga el Código Procesal Penal para el Estado de Nuevo León, publicado mediante Decreto número 211 de fecha 5 de julio de 2011, en el Periódico Oficial del Estado, en la fecha de inicio del Código Nacional de Procedimientos Penales. Respecto a las investigaciones y procedimientos penales que a la entrada en vigor del Código Nacional de Procedimientos Penales se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento de la iniciación de los mismos.
+
+Toda mención en otras leyes u ordenamientos legales referentes a los Códigos de Procedimientos Penales para el Estado de Nuevo León y Procesal Penal para el Estado de Nuevo León, que por virtud del presente Decreto se abrogan, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
+
+Artículo Tercero.- No obstante lo señalado en los artículos anteriores, el Titular del Ejecutivo, en cualquier tiempo estará en aptitud de proponer al H. Congreso del Estado el adelanto del plazo de inicio de vigencia del Código Nacional de Procedimientos Penales en el Estado de Nuevo León, tomando en cuenta la opinión que al respecto emita el Presidente del Tribunal Superior de Justicia, Procurador General de Justicia, Secretario de Seguridad Pública, Secretario de Finanzas y Tesorero General del Estado, Director General del Instituto de Defensoría Pública y al Director General de la Comisión Ejecutiva para la Reforma del Sistema de Justicia Penal.
+
+Artículo Cuarto.- Remítase copia de la presente declaratoria al Congreso de la Unión, a las legislaturas Estatales, a la Asamblea del Distrito Federal, a los Poderes Ejecutivo y Judicial de la Federación, así como a las Entidades Federativas, para su conocimiento y efectos a que haya lugar.
+
+Artículo Quinto.- Publíquese la presente Declaratoria en el Periódico Oficial del Estado.
