@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-combatir-prevenir-y-sancionar-la-trata-de-personas-684
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2014-11-25"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE CHIAPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 144, PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 3 de abril de 2009.
 
@@ -770,3 +772,17 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- La Comisión Intersecretarial, en un plazo no mayor a sesenta días hábiles, contados a partir de la publicación del presente Decreto, someterá a consideración del Titular del Ejecutivo del Estado, las adecuaciones que al efecto requiera el Reglamento de la presente Ley, para su aprobación, expedición y publicación correspondiente.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO DEL DECRETO NÚMERO 144 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+Artículo Único.- Se abroga el Decreto número 207, por el que se expide la Ley para Combatir, Prevenir y Sancionar la Trata de Personas en el Estado de Chiapas, publicado en el Periódico Oficial número 156, Tomo III, de fecha viernes 03 de abril de dos mil nueve.
+
+T r a n s i t o r i o s
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Las disposiciones relativas a los delitos a que se refiere la Ley que por este Decreto se abroga, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
