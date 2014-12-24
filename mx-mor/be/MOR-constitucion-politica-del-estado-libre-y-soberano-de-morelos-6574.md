@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2014-07-09"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1546,7 +1546,11 @@ VIII. Designar a los Magistrados Interinos.
 
 IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las fracciones XXVII, XXX, XXXII, XXXIII y LV del artículo 40 de esta Constitución.
 
-X.- Las demás que le confiere expresamente esta misma Constitución.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+X.- Realizar el cómputo y emitir la Declaratoria correspondiente en términos de lo que disponen los artículo (sic) 147 y 148, de esta Constitución; y
+
+XI.- Las demás que le confiere expresamente esta misma Constitución.
 
 ## TITULO CUARTO.
 
@@ -3346,15 +3350,21 @@ DE LA OBSERVANCIA Y REFORMAS DE LAS CONSTITUCIONES FEDERAL Y LOCAL.
 
 Esta Constitución puede ser adicionada o reformada con los requisitos siguientes:
 
-I.- Iniciada la reforma y aprobada por los votos de las dos terceras partes del número total de Diputados, se pasará a los Ayuntamientos con los debates que hubiere provocado para su discusión; si la mayoría de los Ayuntamientos aprobaran la reforma o adición, una vez hecho el cómputo por la Cámara, las reformas y adiciones se tendrán como parte de esta Constitución.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-II.- Si transcurriere un mes desde la fecha en que los Ayuntamientos hayan recibido el proyecto de reformas, sin que se hubiere recibido en el Congreso el resultado de la votación, se entenderá que aceptan la adición o reforma.
+I.- Iniciada la reforma y aprobada por los votos de las dos terceras partes del número total de Diputados, se pasará a los Ayuntamientos con los debates que hubiere provocado para su discusión; si la mayoría de los Ayuntamientos aprobaran la reforma o adición, una vez hecho el cómputo por el Congreso del Estado o Diputación Permanente en su caso, las reformas y adiciones se tendrán como parte de esta Constitución;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II.- Si transcurriere un mes desde la fecha en que los Ayuntamientos hayan recibido el Proyecto de Reformas, sin que se hubiere recibido en el Congreso o la Diputación Permanente en su caso, el resultado de la votación, se entenderá que aceptan la adición o reforma;
 
 III.- Las adiciones y reformas hechas a la Constitución Política de los Estados Unidos Mexicanos que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y programadas sin necesidad de algún otro trámite.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 148.
 
-El Congreso del Estado hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
+El Congreso del Estado o Diputación Permanente en su caso, hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4722,7 +4732,7 @@ TERCERO. Respecto a la reforma a la Ley de Salud del Estado de Morelos, el prese
 
 P.O. 27 DE JUNIO DE 2014.
 
-PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de difusión del Gobierno del Estado de Morelos, lo anterior, conforme lo dispuesto por el artículo 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145 del Reglamento para el Congreso del Estado.
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de difusión del Gobierno del Estado de Morelos, lo anterior, conforme lo dispuesto por el artículo 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145 del Reglamento para el Congreso del Estado.
 
 SEGUNDA. Las reformas, adiciones y derogaciones contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la Declaratoria a que se refieren los artículos 147 y 148, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -4749,3 +4759,9 @@ PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDO. Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, la adición se tiene como parte de esta Constitución.
 
 TERCERA. En un plazo que no exceda de seis meses, el Titular del Poder Ejecutivo del Estado presentará el Proyecto de Ley para la Regularización de la Propiedad Inmobiliaria en el Estado.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, lo anterior con fundamento en lo dispuesto por el artículo 70, fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDO.- Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado; en consecuencia, la reforma y adición se tienen como parte de esta Constitución.
