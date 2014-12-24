@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-45519"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-22"
-last_updated: "2013-12-21"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 22 de junio de 2005.
 
@@ -55,11 +55,11 @@ LEY DE HACIENDA DEL ESTADO DE TABASCO
 
 La presente Ley es de orden público y de interés social. Tiene por objeto regular los impuestos, derechos, productos, aprovechamientos, participaciones y demás ingresos tributarios y no tributarios que corresponden al Estado, que estén previstos en esta Ley y en las disposiciones fiscales aplicables, para cubrir el gasto público.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 2.
 
-La presente Ley será aplicada por el Ejecutivo del Estado, a través de la Secretaría y demás autoridades fiscales. Asimismo, se complementa con los reglamentos, circulares, acuerdos, concesiones, convenios, contratos y demás actos jurídicos de carácter fiscal que se expidan, otorguen o celebren por las autoridades competentes.
+La presente Ley será aplicada por el Ejecutivo del Estado a través de la Secretaría de Planeación y Finanzas y demás autoridades fiscales. Asimismo, se complementa con los reglamentos, circulares, acuerdos, concesiones, convenios, contratos y demás actos jurídicos de carácter fiscal que se expidan, otorguen o celebren por las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -79,37 +79,79 @@ c) El Subsecretario de Ingresos;
 
 d) El Procurador Fiscal;
 
-e) Los Directores Generales de la Subsecretaría de Ingresos;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-f) Los Directores de la Subsecretaría de. Ingresos;
+e) El Director General de Recaudación;
 
-g) Los Directores de la Procuraduría Fiscal;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-h) Los Receptores de Rentas;
+f) El Director de Recaudación;
 
-i) Los Notificadores;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-j) Los Ejecutores;
+g) El Director Técnico de Recaudación;
 
-k) Los Visitadores;
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-l) Los Verificadores;
+h) El Director de Auditoría Fiscal;
 
-m) Los Auditores, y
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-n) Los demás que señalen las leyes, así como aquellas personas habilitadas por acuerdo expreso del Secretario de Planeación y Finanzas para ejercer funciones relacionadas con la gestión y la recepción de pago de contribuciones; en este último caso dicho acuerdo debe ser publicado en el Periódico Oficial del Estado de Tabasco.
+i) El Director General de Catastro y Ejecución Fiscal;
 
-II. Secretaría: La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Tabasco;
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+j) El Director de Catastro;
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+k) El Titular de la Unidad de Ejecución Fiscal;
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+l) El Director de Control de Procesos;
+
+m) Los Receptores de Rentas;
+
+n) Los Notificadores;
+
+o) Los Ejecutores;
+
+p) Los Visitadores;
+
+q) Los Verificadores;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+r) Los Auditores; y
+
+s) Los demás que señalen las leyes, así como aquellas personas habilitadas por acuerdo expreso del Secretario de Planeación y Finanzas para ejercer funciones relacionadas con la gestión y la recepción de pago de contribuciones; en este último caso dicho acuerdo debe ser publicado en el Periódico Oficial del Estado de Tabasco.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. Secretaría: La Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Tabasco;
 
 III. Vivienda de interés social: Aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por trescientos, el salario mínimo general diario vigente en el Estado, elevado a treinta días; y
 
 IV. Vivienda popular: Aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por trescientos cincuenta, el salario mínimo general diario vigente en el Estado, elevado a treinta días.
 
-Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25%; y en el segundo, el 50% del monto total de las contribuciones señaladas en los artículos 58, 58-A, 58-B, 66 fracciones I y II, y 74 de esta Ley. De igual forma no se causarán los derechos a que se refiere el artículo 58 fracción I, inciso h), cuando se trate de los actos a que se refiere el artículo 109 fracción XIX incisos a) y b) de la Ley del Impuesto Sobre la Renta.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25%; y en el segundo, el 50% del monto total de las contribuciones señaladas en los artículos 58, fracciones I, II, IV, V, VI, VII, VIII, X, XI, XII y XIII, 58-A, 66 fracciones I y II, y 74 de esta Ley. De igual forma no se causaran los derechos a que se refiere el artículo 58 fracción I, inciso h), cuando se trate de los actos a que se refiere el artículo 93 fracción XXIII incisos a) y b) de la Ley del Impuesto Sobre la Renta.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Los actos, trámites o servicios que no se encuentren contemplados expresamente en este párrafo no se les aplicará el interés social o popular.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+El Instituto Registral del Estado de Tabasco para efectos de acreditar los actos o trámites relacionados con viviendas de interés social o popular, podrá solicitar al interesado el avaluó correspondiente, cuando lo estime necesario.
 
 Las tarifas establecidas que se causan en su equivalente en días de salario mínimo general vigente en el Estado, se refieren en esta Ley con las siglas "D.S.M.G.V.".
 
-Los montos de las contribuciones señaladas en esta Ley, se pagarán en moneda nacional de conformidad con las reglas que establece para tal efecto el artículo 21 del Código Fiscal del Estado, en las receptorías de rentas, agencias recaudadoras o cajas autorizadas de la Secretaría. También podrán pagarse en las instituciones bancarias o a través de los distintos medios que autorice expresamente la Secretaría.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Los montos de las contribuciones señaladas en esta Ley, se pagarán en moneda nacional de conformidad con las reglas que establece para tal efecto el artículo 21 del Código Fiscal del Estado, en las receptorías de rentas; también podrán pagarse en las instituciones bancarias o a través de los distintos medios que autorice expresamente la Secretaría.
 
 ###### ARTÍCULO 4.
 
@@ -191,7 +233,9 @@ Las autoridades fiscales tienen, en todo tiempo, la facultad de requerir informa
 
 Para la recaudación de este impuesto se observarán las siguientes reglas:
 
-Las personas que lleven a cabo las operaciones traslativa (sic) a que este impuesto se refiere, deberán presentar, al efectuarse el acto, la factura original o comprobante que ampare la propiedad del bien mueble usado ante la Receptoría de Rentas o Agencia Recaudadora correspondiente y ésta procederá a efectuar el cobro del impuesto, expidiendo el recibo oficial respectivo y sellando la factura o comprobante, para hacer constar que el impuesto ha sido cubierto.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Las personas que lleven a cabo las operaciones traslativas a que este impuesto se refiere, deberán presentar, al efectuarse el acto, la factura original o comprobante que ampare la propiedad del bien mueble usado ante la Receptoría de Rentas correspondiente y ésta procederá a efectuar el cobro del impuesto, expidiendo el recibo oficial respectivo y sellando la factura o comprobante, para hacer constar que el impuesto ha sido cubierto.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -401,9 +445,11 @@ e) Los conceptos afectos al pago del impuesto al valor agregado, así como aquel
 
 En el caso de que las obligaciones estipuladas esté sujetas a alguna condición, se pagará el impuesto como si fueren puras y simples.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 19.
 
-Por lo que se refiere a la fracción VI del artículo 15 de este capítulo, al celebrarse el contrato definitivo deberá pagarse el derecho de inscripción en el Registro Público de la Propiedad y de Comercio.
+Por lo que se refiere a la fracción VI del artículo 15 de este capítulo, al celebrarse el contrato definitivo deberá pagarse el derecho de inscripción en el Instituto Registral del Estado de Tabasco, en las receptorías de rentas, en las instituciones bancarias o a través de los distintos medios que autorice expresamente la Secretaría.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -411,9 +457,11 @@ Por lo que se refiere a la fracción VI del artículo 15 de este capítulo, al c
 
 Tratándose de documentos privados u otorgados fuera del Estado, los notarios, particulares o funcionarios judiciales, cuando sea potestativa la protocolización de sus resoluciones, darán aviso a la Secretaría, de los actos gravados en que intervengan por los impuestos a que se refiere este capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 21.
 
-Los notarios, el Registro Público de la Propiedad y de Comercio y demás autoridades, no expedirán testimonios ni darán trámites a actos o contratos, hasta que sea pagado el impuesto que se cause.
+Los notarios, el Instituto Registral del Estado de Tabasco y demás autoridades, no expedirán testimonios ni darán trámites a actos o contratos, hasta que sea pagado el impuesto que se cause.
 
 En todo caso, al margen de los testimonios y en los documentos privados, deberá asentarse la constancia de pago o, en su caso, si se encuentra exento.
 
@@ -435,11 +483,17 @@ III. La realización de pagos por cualquiera de las formas a que se refiere la f
 
 IV. Los pagos o erogaciones realizadas por cualquiera de las formas que se señalan en la fracción I de este artículo, en favor de los directores, gerentes, administradores, comisarios, miembros de los consejos directivos o de vigilancia de las sociedades o asociaciones.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+V. La realización de pagos por cualquiera de las formas a que se refiere la fracción I de este artículo, llevado a cabo dentro o fuera del territorio del Estado, por un patrón, contratista, intermediario o tercero, por concepto de erogaciones o remuneraciones al trabajo personal realizado dentro del territorio del Estado, y prestado bajo la subordinación de un patrón distinto al que realiza el pago, tenga o no su domicilio fiscal dentro del territorio del Estado.
+
 Para los efectos de este gravamen, se consideran erogaciones o remuneraciones al trabajo personal todas las contraprestaciones, cualquiera que sea el nombre con el que se les designe, ya sean ordinarias o extraordinarias, incluyendo viáticos, gastos de representación, comisiones, premios, gratificaciones, primas, y cualquier otra prestación que se entregue al trabajador, o a las personas que se mencionan en la fracción IV de este artículo y que no se encuentren exentas o no sean sujetas de este Impuesto; de conformidad con lo dispuesto en los artículos 29 y 30 de esta Ley.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 23.
 
-Son sujetos de este impuesto, las personas físicas, las jurídicas colectivas o las unidades económicas que realicen los pagos a que se refiere el artículo 22 de esta Ley.
+Son sujetos de este impuesto, las personas físicas, las jurídicas colectivas o las unidades económicas que bajo la dirección y/o dependencia de un patrón, contratista, intermediario o terceros, realicen los pagos a que se refiere el artículo 22 de esta Ley.
 
 #### SECCIÓN SEGUNDA. DE LA BASE, TASA Y PAGO DEL IMPUESTO
 
@@ -473,9 +527,9 @@ Los contribuyentes presentarán sus declaraciones y efectuarán el pago del impu
 
 Son obligaciones de los contribuyentes de este impuesto:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-I. Inscribirse en la Receptoría de Rentas o Agencia Recaudadora que corresponda a su domicilio fiscal, dentro de los treinta días siguientes al de iniciación de actividades, utilizando al efecto, las formas aprobadas por la Secretaría, con los datos que las mismas exijan;
+I. Inscribirse en la Receptoría de Rentas que corresponda a su domicilio fiscal, dentro de los treinta días siguientes al de iniciación de actividades, utilizando al efecto, las formas aprobadas por la Secretaría, con los datos que las mismas exijan;
 
 II. Presentar ante las mismas autoridades y dentro del plazo señalado en la fracción anterior, los avisos de cambio de nombre o razón social, domicilio, actividad, suspensión de actividades o clausura.
 
@@ -483,9 +537,15 @@ III. Presentar los avisos, datos, documentos e informes que le soliciten las aut
 
 IV. Presentar una sola declaración, cuando tengan varios establecimientos dentro del Estado.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-ARTÍCULO 28 BIS. Las personas físicas o jurídicas colectivas, que contraten a su vez con otras personas físicas o jurídicas colectivas, la prestación de servicios que deban realizarse con trabajadores de estos últimos y cuyos domicilios estén ubicados fuera del territorio del Estado, deberán de retener y enterar el impuesto que corresponda pagar a sus contratados, siempre que el servicio personal se preste en el territorio del Estado, debiendo entregar por la retención la constancia respectiva.
+V. Presentar aviso por cada uno de los establecimientos que contraten los servicios de personal; cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí, del trabajador o trabajadores que presten sus servicios.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VI. El contratante estará obligado a registrar ante la Secretaría de Planeación y Finanzas, el contrato que celebre con el Intermediario Laboral, de acuerdo a los mecanismos establecidos por la propia Secretaría, con la finalidad de que la empresa beneficiada se inscriba en un plazo de treinta días, a partir de la firma del contrato.
+
+ARTÍCULO 28 BIS. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 #### SECCIÓN CUARTA. DE LAS EXENCIONES Y NO SUJECIONES
 
@@ -501,13 +561,17 @@ c) Jubilaciones y pensiones, en caso de invalidez, cesantía, vejez y muerte.
 
 d) Gastos funerarios.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 30.
 
-Estarán exentos de este impuesto, las siguientes personas morales o jurídicas colectivas domiciliadas en esta entidad federativa:
+Estarán exentos de este impuesto, las siguientes personas jurídicas colectivas domiciliadas en esta entidad federativa:
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 a) Los sindicatos nacionales y estatales, así como las agrupaciones de trabajadores debidamente constituidas conforme a la Ley Federal del Trabajo; y
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 b) Clubes y asociaciones de servicios sociales, partidos políticos e instituciones de beneficencia pública constituidas conforme a la Ley.
 
@@ -525,9 +589,11 @@ Son sujetos de este impuesto, las personas físicas que perciban ingresos por lo
 
 Cuando las personas físicas operen organizadas en agrupaciones profesionales, asociaciones o sociedades de carácter civil, serán sujetos del impuesto, por la participación que les corresponda en los ingresos de la organización.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 33.
 
-Quienes hagan pagos a contribuyentes eventuales de este impuesto, deberán retenerlo y enterarlo a la Receptoría de Rentas o Agencia Recaudadora que corresponda, dentro de los 5 días siguientes a la fecha que cause, siendo en todo caso solidariamente responsable de este impuesto. ARTÍCULO 33. Quienes hagan pagos a contribuyentes eventuales de este impuesto, deberán retenerlo y enterarlo a la Receptoría de Rentas o Agencia Recaudadora que corresponda, dentro de los 5 días siguientes a la fecha que cause, siendo en todo caso solidariamente responsable de este impuesto.
+Quienes hagan pagos a contribuyentes eventuales de este impuesto, deberán retenerlo y enterarlo a la Receptoría de Rentas que corresponda, dentro de los 5 días siguientes a la fecha en que se cause, siendo en todo caso solidariamente responsable de este impuesto.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
@@ -549,11 +615,11 @@ Para el pago del 10.0% a que se refiere la fracción II del párrafo anterior, s
 
 Cuando existan consultas eventuales en consultorios particulares o en algún otro lugar, sean estos hoteles, casas de huéspedes o domicilios particulares, las autoridades fiscales habilitarán al personal para la verificación de los ingresos y la revisión del pago de este impuesto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 36.
 
-El pago del impuesto a que se refiere este capítulo, se efectuará en la Receptoría de Rentas o Agencia Recaudadora que corresponda, haciendo uso de las formas aprobadas por la Secretaría, de la manera siguiente:
+El pago del impuesto a que se refiere este capítulo, se efectuará en la Receptoría de Rentas que corresponda, haciendo uso de las formas aprobadas por la Secretaría, de la manera siguiente:
 
 I. En forma habitual se hará bimestralmente, dentro de los primeros días de los meses de: marzo, mayo, julio, septiembre, noviembre y enero del siguiente año.
 
@@ -565,11 +631,13 @@ II. En forma eventual al día siguiente de percibir el ingreso.
 
 Los sujetos de este impuesto están obligados a:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-I. Empadronarse en la Receptoría de Rentas o Agencia Recaudadora que corresponda, dentro de los treinta días siguientes a aquél en que se inicien sus actividades, utilizando al efecto las formas oficiales aprobadas por la Secretaría;
+I. Empadronarse en la Receptoría de Rentas que corresponda, dentro de los treinta días siguientes a aquél en que se inicien sus actividades, utilizando al efecto las formas oficiales aprobadas por la Secretaría;
 
-II. Dar aviso en la Receptoría de Rentas o Agencia Recaudadora que corresponda, de los cambios de domicilio, así como los de suspensión de actividades dentro del mismo plazo señalado en la fracción anterior.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. Dar aviso en la Receptoría de Rentas que corresponda, de los cambios de domicilio, así como los de suspensión de actividades dentro del mismo plazo señalado en la fracción anterior.
 
 III. Presentar los avisos, documentos, datos e información que le solicite la autoridad fiscal en relación con este impuesto, dentro de los plazos y lugares señalados al efecto.
 
@@ -611,11 +679,17 @@ Respecto a las personas señaladas en el artículo 33 de esta Ley, los obligados
 
 Es objeto de este impuesto:
 
-I. La organización o celebración de loterías, rifas, sorteos y concursos de toda clase, realizadas mediante la emisión de boletos, contraseñas, billetes, contraseñas (sic) o mediante cualquier otro comprobante que dé derecho a su participación, aún cuando no se cobre cantidad alguna para tener derecho a participar en ellos.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+I. La organización o celebración de loterías, rifas, sorteos y concursos de toda clase, realizadas mediante la emisión de boletos, contraseñas, billetes o mediante cualquier otro comprobante que dé derecho a su participación, aún cuando no se cobre cantidad alguna para tener derecho a participar en ellos.
 
 II. La obtención de ingresos o premios derivados de rifas o sorteos, que hayan sido cobrados en el territorio estatal, independientemente que el organizador y el evento mismo de cuyo resultado dependa la obtención de ingresos, se encuentren y/o celebren fuera del territorio del Estado.
 
 III. La obtención de ingresos o premios derivados de loterías, rifas, sorteos y concursos de toda clase, que hayan sido cobrados en el territorio del Estado.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV. La obtención de ingresos o premios derivados de la celebración de juegos de azar, apuesta electrónica, en los que se incluyen, independientemente del nombre con el que se les designe, a aquellos en los que el ingreso o premio se obtenga por la destreza del participante en el uso de máquinas que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
 
 ###### ARTÍCULO 42.
 
@@ -657,9 +731,17 @@ IV. Sobre la base gravable, se aplicará la tasa del 3.0%, para quienes organice
 
 Para quienes obtengan premios derivados de loterías, rifas, sorteos, o concursos de toda clase en el Estado, este impuesto se determinará aplicando la tasa del 6.0% a la base a que se refiere esta Ley.
 
-Quienes entreguen los premios a que se refiere este capítulo, tendrán obligación de efectuar las retención (sic) de este impuesto, así como de proporcionar, cuando así lo solicite el interesado, constancia de retención de dicho impuesto.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-V. Los sujetos obligados al pago del impuesto con responsabilidad directa o solidaria por retención, realizarán el pago a más tardar el día 15 del mes siguiente a aquel al que corresponda el pago, presentándose la declaración aprobada en la Receptoría de Rentas o Agencia Recaudadora que corresponda. Dicho pago se entenderá definitivo.
+Quienes entreguen los premios a que se refiere este capítulo, tendrán obligación de efectuar las retenciones de este impuesto, así como de proporcionar, cuando así lo solicite el interesado, constancia de retención de dicho impuesto.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+V. Cuando la realización de juegos y concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, o bien, que en el uso de las mismas intervenga directa o indirectamente el azar el impuesto se determinará aplicando una cuota mensual de $637.00 por máquina que tenga cada establecimiento.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VI. Los sujetos obligados al pago del impuesto con responsabilidad directa o solidaria por retención, realizarán el pago a más tardar el día 20 del mes siguiente a aquel al que corresponda el pago, presentándose la declaración aprobada en la Receptoría de Rentas que corresponda. Dicho pago se entenderá definitivo.
 
 #### SECCIÓN TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -733,11 +815,11 @@ El impuesto se causará, liquidará y pagará a la tasa del 2.0%, sobre los ingr
 
 El pago del impuesto se efectuará mensualmente, a más tardar el día 20 del mes siguiente a aquél en que se haya percibido el ingreso.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 51.
 
-Los contribuyentes presentarán sus declaraciones y pagos en la Receptoría de Rentas o Agencia Recaudadora correspondiente a su domicilio fiscal, en las formas aprobadas para tal efecto por la Secretaría.
+Los contribuyentes presentarán sus declaraciones y pagos en la Receptoría de Rentas correspondiente a su domicilio fiscal, en las formas aprobadas para tal efecto por la Secretaría.
 
 #### SECCIÓN TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -745,9 +827,9 @@ Los contribuyentes presentarán sus declaraciones y pagos en la Receptoría de R
 
 Son obligaciones de los contribuyentes de este impuesto:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-I. Inscribirse en la Receptoría de Rentas o Agencia Recaudadora que corresponda a su domicilio fiscal, dentro de los treinta días siguientes al de iniciación de sus actividades, utilizando al efecto, las formas oficiales aprobadas por la Secretaría con los datos que las mismas exijan;
+I. Inscribirse en la Receptoría de Rentas que corresponda a su domicilio fiscal, dentro de los treinta días siguientes al de iniciación de sus actividades, utilizando al efecto, las formas oficiales aprobadas por la Secretaría con los datos que las mismas exijan;
 
 II. Presentar ante las mismas autoridades y dentro del plazo señalado en la fracción anterior, los avisos de cambio de nombre o razón social, domicilio, actividad, suspensión de actividades o clausura.
 
@@ -761,11 +843,9 @@ IV. Presentar una sola declaración cuando tengan varios establecimientos dentro
 
 No son sujetos de este impuesto, cuando se presten, los servicios de hospedaje proporcionados por los hospitales, clínicas, asilos, conventos, seminarios, internados, orfanatos y casas de beneficencia o asistencia social.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-### CAPÍTULO SÉPTIMO. DEL IMPUESTO VEHÍCULAR ESTATAL
+### CAPÍTULO SÉPTIMO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -773,23 +853,7 @@ No son sujetos de este impuesto, cuando se presten, los servicios de hospedaje p
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 53 A. Es objeto del impuesto a que se refiere este capítulo, la tenencia o uso de vehículos que se efectúe en el territorio del Estado.
-
-Para efectos de este impuesto y con independencia de las prevenciones que se establecen en este capítulo, se entiende por vehículo entre otros, aquellos terrestres, marítimos, pluviales o aéreos, de combustión interna, eléctricos o híbridos, cualquiera que sea su diseño, modelo, tipo, precio, dimensión, compartimentos, ejes, marca, origen o uso.
-
-Asimismo, para efectos de este impuesto, se considera que la tenencia o uso de los vehículos señalados en el párrafo anterior se efectúan dentro de la circunscripción territorial del Estado, en los siguientes casos:
-
-a) Cuando se inscriban en el registro vehicular del Estado;
-
-b) Cuando el domicilio fiscal del tenedor o usuario del vehículo, que obre en las bases de datos de la Secretaría o de las autoridades fiscales, se localice en territorio del Estado; o
-
-c) En su defecto, cuando el domicilio del sujeto pasivo de la relación jurídico tributaria se encuentre en el Estado.
-
-Para los efectos de este impuesto, se presume que el propietario es el tenedor o usuario del vehículo.
+ARTÍCULO 53 A. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -797,35 +861,9 @@ Para los efectos de este impuesto, se presume que el propietario es el tenedor o
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ARTÍCULO 53 B. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 53 B. Están obligados al pago de este impuesto, las personas físicas, jurídico colectivas o unidades económicas, tenedoras o usuarias de los vehículos a que se refiere este capítulo de la Ley.
-
-La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos estatales o estén exentos de ellos.
-
-Para los efectos de este capítulo, se presume que el propietario es tenedor o usuario del vehículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 53 C. Son solidariamente responsables del pago de este impuesto:
-
-I.- Quienes por cualquier título, adquieran la propiedad, tenencia o uso de un vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto.
-
-II.- Quienes reciban en consignación, comisión o por cualquier título, para su enajenación un vehículo o vehículos, por el o los adeudos del impuesto que en su caso existieran.
-
-III.- Las autoridades y funcionarios competentes que autoricen el registro de vehículos, permisos provisionales para circulación o en traslado, matrículas, altas, cambios o bajas de placas de circulación o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite fehacientemente que se encuentra liberado de esta obligación.
-
-Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado; y
-
-IV.- Las autoridades competentes que expidan los certificados de aeronavegabilidad, de matrícula para las aeronaves o de inspección de seguridad a embarcaciones cuando al expedirlos el tenedor o usuario del vehículo no compruebe el pago del impuesto sobre tenencia o uso de vehículos a que se refiere en este capítulo, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales correspondientes.
-
-Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
-
-Las autoridades competentes, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en territorio del Estado de Tabasco.
+ARTÍCULO 53 C. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -833,253 +871,9 @@ Las autoridades competentes, solamente registrarán vehículos cuyos propietario
 
 #### SECCIÓN TERCERA. DEL CÁLCULO, BASE Y TASA DEL IMPUESTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ARTÍCULO 53 D. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 53 D. En el caso de vehículos nuevos el impuesto se calculará conforme a lo siguiente:
-
-I.- Tratándose de automóviles destinados al transporte hasta de quince pasajeros, el impuesto se calculará aplicando al valor total del vehículo la siguiente:
-
-TARIFA
-
-Límite Límite Cuota fija Tasa para
-
-inferior superior $ aplicarse
-
-$ $ sobre el
-
-excedente
-
-del límite
-
-inferior
-
-%
-
-0.001 526,657.78 0.00 3.0
-
-526,657.79 1,013,523.64 15,799.73 8.7
-
-1,013,523.65 1,362,288.13 58,157.06 13.3
-
-1,362,288.14 1,711,052.62 104,542.74 16.8
-
-1,711,052.63 En adelante 163,135.16 19.1
-
-Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-II.- Tratándose de vehículos terrestres destinados al transporte de más de quince pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas, vehículos terrestres que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", "moto taxis", vehículos terrestres eléctricos o híbridos y camionetas "pick up", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del vehículo.
-
-III.- Tratándose de vehículos terrestres, cuyo peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
-
-IV. Tratándose de motocicletas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
-
-TARIFA
-
-Límite Límite Cuota fija Tasa para
-
-inferior superior $ aplicarse
-
-$ $ sobre el
-
-excedente
-
-del límite
-
-inferior
-
-%
-
-0.01 220,660.00 0.00 3.0
-
-220,660.01 303,459.28 6,619.80 8.7
-
-303,459.29 407,882.92 13,823.33 13.3
-
-407,882.93 En adelante 27,711.67 16.8
-
-V.- Tratándose de vehículos marítimos y fluviales, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
-
-VI. Tratándose de vehículos aéreos, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga del vehículo aéreo expresado en toneladas, por la cantidad de $7,313.00 para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $7,877.00 para aeronaves de reacción.
-
-Para efectos de los vehículos a que se refiere esta fracción, tratándose de aeronaves de más de diez años de fabricación anteriores al de la aplicación de este capítulo, el impuesto se pagará haciendo el cálculo conforme a la siguiente tabla:
-
-TABLA
-
-TIPO DE CUOTA
-
-VEHÍCULO
-
-AÉREO
-
-Hélice o pistón $2,115.74
-
-Turbohélice $11,710.12
-
-Reacción $16,918.38
-
-Helicópteros $2,600.99
-
-Tratándose de los vehículos a que se refieren las fracciones I a IV de este artículo, de más de diez años de antigüedad al de aplicación de este capítulo, el impuesto se pagará a la tasa del 0%.
-
-En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de este capítulo, se pagará el impuesto correspondiente al año de calendario correspondiente en el que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
-
-Las cantidades establecidas en las tarifas y tablas se actualizarán en el mes de enero de cada año, aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior al que se pretende aplicar el factor, entre el mes de noviembre de dos años inmediatos anteriores al año en que se pretende aplicar el factor. La Secretaría publicará las tarifas actualizadas en el Periódico Oficial del Estado, a más tardar el 31 de diciembre de cada año.
-
-El Índice Nacional de precios al Consumidor que se aplicará para los efectos del párrafo anterior, es el publicado por el Banco de México en los términos que disponga el Código Fiscal de la Federación o las disposiciones federales aplicables, para tales efectos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 53 E. En el caso de vehículos usados de fabricación nacional e importados, incluyendo los denominados extranjeros, el impuesto se determinará conforme a lo siguiente:
-
-I.- Tratándose de los vehículos a que se refiere la fracción I del artículo 53-D de esta Ley, de hasta nueve años modelo anteriores al de aplicación de este capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-a) El valor total del vehículo se multiplicará por el factor de depreciación de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
-
-TABLA
-
-Años de antigüedad Factor de depreciación
-
-1 0.850
-
-2 0.725
-
-3 0.600
-
-4 0.500
-
-5 0.400
-
-6 0.300
-
-7 0.225
-
-8 0.150
-
-9 0.075
-
-b) La cantidad obtenida conforme al inciso anterior se actualizará de conformidad con el procedimiento establecido en los párrafos cuarto y quinto del artículo 53-D de esta Ley.
-
-c) A la cantidad que resulte del inciso anterior se le aplicará la tarifa del artículo 53-D fracción I.
-
-II.- Tratándose de los vehículos a que se refieren las fracciones II, III y VI del artículo 53-D de esta Ley, el impuesto se determinará multiplicando el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de años de antigüedad que corresponda, de acuerdo con la siguiente:
-
-TABLA
-
-Años de Antigüedad Factor
-
-1 0.900
-
-2 0.889
-
-3 0.875
-
-4 0.857
-
-5 0.833
-
-6 0.800
-
-7 0.750
-
-8 0.667
-
-9 0.500
-
-El resultado obtenido conforme al párrafo anterior se actualizará de conformidad con el procedimiento establecido en los párrafos cuarto y quinto del artículo 53-D de esta Ley.
-
-III.-Tratándose de vehículos de servicio particular, que pasen a ser de servicio público para transporte de pasajeros o de los denominados “taxis”, el impuesto se calculará para el ejercicio fiscal siguiente a aquél en que se dé esta circunstancia conforme al siguiente procedimiento:
-
-a) El valor total del automóvil se multiplicará por el factor de años de antigüedad que corresponda conforme a la tabla contenida en la fracción I de este artículo,
-
-b) La cantidad obtenida conforme al inciso anterior se actualizará de conformidad con el procedimiento establecido en los párrafos cuarto y quinto del artículo 53-D de esta Ley; y
-
-c) El resultado obtenido se multiplicará por el 0.245%.
-
-IV. Tratándose de vehículos de servicio público para transporte de pasajeros o los denominados 'taxis”, que pasen a ser de servicio particular destinados al transporte hasta de quince pasajeros, el impuesto se calculará para el ejercicio fiscal siguiente a aquél en que se dé esta circunstancia, conforme a lo previsto en la fracción I del presente artículo;
-
-V. Tratándose de los vehículos a que se refiere la fracción IV del artículo 53-D de esta Ley, de hasta nueve años modelo anteriores al de aplicación de este capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
-
-TABLA
-
-Años de antigüedad Factor de depreciación
-
-1 0.9
-
-2 0.8
-
-3 0.7
-
-4 0.6
-
-5 0.5
-
-6 0.4
-
-7 0.3
-
-8 0.2
-
-9 0.1
-
-A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hacer referencia el artículo 53-D fracción IV, de esta Ley.
-
-VI. Tratándose de los vehículos a que se refiere la fracción V del artículo 53-D de esta Ley, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-a) El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
-
-TABLA
-
-Años de antigüedad Factor de depreciación
-
-1 0.9250
-
-2 0.8500
-
-3 0.7875
-
-4 0.7250
-
-5 0.6625
-
-6 0.6000
-
-7 0.5500
-
-8 0.5000
-
-9 0.4500
-
-10 0.4000
-
-11 0.3500
-
-12 0.3000
-
-13 0.2625
-
-14 0.2250
-
-15 0.1875
-
-16 0.1500
-
-17 0.1125
-
-18 0.0750
-
-19 y siguientes 0.0375
-
-b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con el procedimiento establecido en los párrafos cuarto y quinto del artículo 53-D de esta Ley; al resultado se le aplicará la tasa a que hace referencia la fracción V del artículo 53-D de esta Ley.
-
-Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+ARTÍCULO 53 E. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1087,67 +881,9 @@ Para los efectos de este artículo, los años de antigüedad se calcularán con 
 
 #### SECCIÓN CUARTA. DEL PAGO Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+ARTÍCULO 53 F. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-ARTÍCULO 53 F. Los sujetos pasivos de la relación jurídico tributaria pagarán mediante declaración o por los medios que al efecto establezca la Secretaría para facilitar su pago, el impuesto por año calendario durante los cuatro primeros meses de cada año, salvo en el caso de vehículos nuevos, en el que el impuesto deberá calcularse y enterarse dentro de los 10 días naturales siguientes a los supuestos de enajenación o importación definitiva a que se refiere el artículo 53-H fracción VIII de la presente Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación del presente capítulo de esta Ley, se pagará el importe correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-En caso que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este capítulo, se pagará como si éste fuese nuevo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
-
-Mes de Adquisición Factor aplicable al
-
-Impuesto causado
-
-Febrero 0.92
-
-Marzo 0.83
-
-Abril 0.75
-
-Mayo 0.67
-
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-Octubre 0.25
-
-Noviembre 0.17
-
-Diciembre 0.08
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 53 G. Son obligaciones de los contribuyentes de este impuesto:
-
-I.- Solicitar ante las autoridades fiscales competentes el Registro Estatal Vehicular que corresponda dentro de los plazos y los lugares señalados para tal efecto;
-
-II.- Conservar a disposición de las autoridades fiscales, acreditar y exhibir cuando lo soliciten, la documentación comprobatoria del pago del impuesto que corresponda;
-
-III.- Conservar la documentación comprobatoria relacionada con el objeto de este impuesto durante el plazo a que se refiere el Código Fiscal del Estado de Tabasco; y
-
-IV.- Las demás que establezcan las leyes y normatividad aplicable.
+ARTÍCULO 53 G. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1155,53 +891,9 @@ IV.- Las demás que establezcan las leyes y normatividad aplicable.
 
 #### SECCIÓN QUINTA. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ARTÍCULO 53 H. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 53 H. Para efecto del impuesto establecido en este Capítulo, se entiende por:
-
-I.- Vehículo: Aparato con motor que se desplaza o mueve sobre el suelo, en el agua o el aire y sirve para transportar cosas o personas y que puede incluir sin limitación entre otros: automóvil, camioneta “pick up”, ómnibus, camiones, minibuses, microbuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, aeronaves, embarcaciones, veleros, esquíes acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, motocicletas, bicimotos, cuatrimotos, motonetas, triciclos automotores; cualquiera que sea su diseño, modelo, tipo, precio, dimensión, compartimentos, ejes, marca, origen o uso;
-
-II.- Vehículo terrestre: el que se desplaza o mueve sobre el suelo;
-
-III.- Vehículo marítimo o fluvial: el que se desplaza o mueve en el agua;
-
-IV.- Vehículo aéreo o aeronave: el que se desplaza o mueve en el aire;
-
-V.- Vehículo terrestre eléctrico: el que desplaza o mueve sobre el suelo y cuenta con un motor eléctrico;
-
-VI.- Vehículo terrestre híbrido: el que se desplaza o mueve sobre el suelo y cuenta en adición a un motor de combustión interna, con un motor eléctrico, accionado por hidrógeno o por alguna otra energía alternativa;
-
-VII.- Vehículos terrestres destinados al transporte de más de 15 pasajeros o para el transporte de carga: los camiones, vehículos Pick Up, omnibuses, minibuses, microbuses y autobuses integrales, tractores no agrícolas tipo quinta rueda cualquiera que sea su tipo y peso bruto vehicular;
-
-VIII.- Vehículo nuevo:
-
-a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos; y
-
-b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación del impuesto a que se refiere este Capítulo o al año modelo en que se efectúe la importación.
-
-IX.- Valor total del vehículo: Es el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante las autoridades competentes como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado y sin incluir los intereses derivados de créditos otorgados para la adquisición del mismo;
-
-X.- Año modelo: es el año de fabricación o ejercicio automotriz comprendido entre el primero de octubre del año anterior y el 30 de septiembre del año que transcurra;
-
-XI.- Modelo: todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos;
-
-XII.- Peso Bruto Vehicular: es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable;
-
-XIII.- RecaudaNet: El sistema de pagos electrónicos a través de Internet de la Secretaría; y
-
-XIV.- Pago en Ventanilla: Aquel que se realice en las receptorías de rentas, agencias recaudadoras o cajas autorizadas de la Secretaría.
-
-En todo momento, para determinar la clasificación del vehículo o variables definidas en las fracciones anteriores y en el presente capítulo, se estará a los datos manifestados en la primera factura o factura de origen, que expida el enajenante o distribuidor autorizado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 53 I. Los vehículos siniestrados y que representen pérdida total o robo total, siempre que medie denuncia o querella ante la Agencia del Ministerio Público correspondiente, enterarán - del monto total que corresponda enterar en el ejercicio - la parte proporcional en razón del mes en que se determinó la pérdida total o robo total del vehículo; esto es, que el monto anual que resulte después de realizado el cálculo del impuesto correspondiente, se dividirá entre doce (número de meses en el año) y el resultado se multiplicará por el número de meses que comprenda hasta el mes en que sucedió la pérdida o robo total del vehículo.
-
-Lo dispuesto en este artículo no será aplicable a los adeudos de ejercicios fiscales anteriores a aquél en el que se siniestró el vehículo.
+ARTÍCULO 53 I. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1209,65 +901,13 @@ Lo dispuesto en este artículo no será aplicable a los adeudos de ejercicios fi
 
 #### SECCIÓN SEXTA. DE LAS EXENCIONES Y LOS BENEFICIOS FISCALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ARTÍCULO 53 J. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+ARTÍCULO 53 K. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-ARTÍCULO 53 J. Para efectos de este impuesto estarán exentos los siguientes vehículos:
+ARTÍCULO 53 L. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-I.- Los importados temporalmente en los términos de la legislación aduanera;
-
-II.- Los vehículos propiedad de la Federación Estado y Municipios, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
-
-III.- Los que tengan para su venta los comerciantes inscritos en el Registro de Distribuidores y Concesionarios Automotrices;
-
-IV.- Las embarcaciones dedicadas al transporte mercante o a la pesca comercial;
-
-V.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga; y
-
-VI. Las aeronaves con capacidad de más de 20 pasajeros, destinadas al transporte aéreo al público en general.
-
-No se pagará el impuesto que establece este capítulo, en los casos que se acredite haber cubierto un impuesto correspondiente al año de calendario de que se trate en otra entidad federativa, que en su momento le correspondió por su circunscripción territorial, cuyo objeto coincida con el de este Capítulo.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 3 días siguientes a aquel en que tenga lugar el hecho de que se trate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, 30 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 53 K. Los tenedores o usuarios de los vehículos a que se refiere el artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Administración y Finanzas, que se encuentran comprendidos en dichos supuestos, de acuerdo con las reglas de carácter general que para tal efecto emita la citada Secretaría.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 53 L. Los contribuyentes que realicen el pago del impuesto en una sola exhibición, a más tardar el último día del mes de abril del periodo de liquidación ordinario que corresponda, tendrán derecho a una reducción sobre el monto del impuesto o cuota a pagar, de acuerdo a la siguiente tabla:
-
-Mes en que se efectúa Porcentaje de reducción
-
-el pago
-
-Pago en Ventanilla Recaudanet y
-
-Bancos
-
-Enero-Febrero 20 % 20%
-
-Marzo 10 % 15%
-
-Abril 5%
-
-Los contribuyentes tendrán derecho a la reducción que establece este artículo, siempre que cumplan con las siguientes condiciones:
-
-a) No tener adeudos por ejercicios fiscales anteriores; y
-
-b) Presentar póliza de seguro automotriz vigente en los términos que dispone el artículo 40, segundo y tercer párrafos de la Ley General de Tránsito y Vialidad del Estado de Tabasco, según corresponda.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 53 M. Los beneficios fiscales a que se refiere la presente sección no darán derecho a devolución, compensación, acreditamiento o saldo a favor alguno.
+ARTÍCULO 53 M. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 ## TÍTULO TERCERO. DERECHOS
 
@@ -1350,6 +990,10 @@ IV. Por expedición de constancia positiva o
 negativa de registro de nacimiento. 1.0 D.S.M.G.V.
 
 V. Por certificación de actas de nacimiento. 1.0 D.S.M.G.V.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+No obstante, cuando se trate del registro del nacimiento y de la expedición de la primera copia certificada del acta de nacimiento, no se cobrará este derecho.
 
 VI. Por certificación de acta de defunción,
 
@@ -1469,7 +1113,19 @@ no comprendidos en el inciso anterior. 180.0 D.S.M.G.V.
 
 La misma cuota se pagará cuando provenga de resoluciones judiciales o administrativas.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Sin embargo, los contribuyentes que adquieran la propiedad de una vivienda o predio sin edificar, pudiendo pagar los derechos a que se refiere el inciso b), podrán utilizar de manera opcional, la tasa del 1%, calculada sobre la base gravable que resulte mayor de los siguientes valores:
+
+1).- El precio o valor del inmueble señalado en el acto traslativo de dominio y sus accesorios, independientemente del nombre con que se designe; o
+
+2).- El valor del inmueble determinado mediante el avalúo que practique perito valuador autorizado por la Comisión del Registro Estatal de Valuadores; o
+
+3).- El valor catastral.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+No será aplicable a los contribuyentes que gocen del beneficio fiscal a que se refiere el artículo 3 fracción IV, segundo párrafo, de esta Ley.
 
 c) Tratándose de bienes muebles en
 
@@ -1507,7 +1163,19 @@ g) El registro de prescripción positiva. 11.0 D.S.M.G.V.
 
 h) Las donaciones. 180.0 D.S.M.G.V.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Sin embargo, los contribuyentes que adquieran la propiedad de una vivienda o predio sin edificar, por donación podrán pagar los derechos a que se refiere el inciso h), podrán utilizar de manera opcional, la tasa del 1%, calculada sobre la base gravable que resulte mayor de los siguientes valores:
+
+1).- El precio valor del inmueble señalado en el acto traslativo de dominio y sus accesorios, independientemente del nombre con que se designe; o
+
+2).- El valor del inmueble determinado mediante el avalúo que practique perito valuador autorizado por la Comisión del Registro Estatal de Valuadores; o
+
+3).- El valor catastral.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+No será aplicable a los contribuyentes que gocen del beneficio fiscal a que se refiere el artículo 3 fracción IV, segundo párrafo, de esta Ley.
 
 i) La disolución de mancomunidad, por
 
@@ -1557,11 +1225,11 @@ registro 62.0 D.S.M.G.V.
 
 III. Embargos:
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-a) Inscripción 100.0 D.S.M.G.V
+a) Inscripción de Embargos 100.0 D.S.M.G.V.
 
-Sin embargo, el contribuyente sujeto a esta contribución, podrá solicitar por escrito y manifestando su más estricto consentimiento, que ésta se calcule mediante la aplicación de la tasa del 3% sobre el importe del embargo.
+Sin embargo, la persona sujeta a esta contribución, podrá solicitar al Instituto Registral del Estado de Tabasco, mediante escrito que le deberá presentar, al momento de realizar el trámite, donde manifieste su más estricto consentimiento, que el cobro se calcule aplicando la tasa del 3% sobre el importe del embargo.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -1691,19 +1359,15 @@ XVI. Certificados o constancias de no propiedad
 
 registrada. 3.0 D.S.M.G.V.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XVII. Certificado de libertad o existencia
+XVII. Certificados de libertad o existencia
 
 de gravamen con o sin certificación de
 
-superficie y/o historia registral, por predio. 6.0 D.S.M.G.V.
+superficie por predio. 6.0 D.S.M.G.V.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-XVIII. Por reingreso de la solicitud cuando
-
-el asiento Registral haya sido denegado 3.0 D.S.M.G.V.
+XVIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -1721,15 +1385,31 @@ XX.- Los demás documentos no comprendidos
 
 en este artículo 11.0 D.S.M.G.V.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-ARTÍCULO 58 A. Los servidores públicos encargados de las Oficinas Registrales del Instituto Registral del Estado de Tabasco expedirán previo las formalidades de la ley, las copias certificadas de las escrituras de los volúmenes que se encuentran en los archivos y que los interesados solicitaren con relación a la tarifa de 5.0 D.S.M.V. por cada .testimonio librado.
+Las escrituras o documentos hechos o elaborados en otras Entidades Federativas y que por su naturaleza deban inscribirse en el Instituto Registral del Estado de Tabasco deberán pagar un 25% más sobre el importe de los derechos que genera su inscripción en dicha Institución.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 58 A. Los servidores públicos encargados de las oficinas del Instituto Registral del Estado de Tabasco expedirán previo las formalidades de la ley, las copias certificadas de las escrituras de los volúmenes que se encuentran en los archivos y que los interesados solicitaren con relación a la tarifa siguiente por cada testimonio librado:
+
+a) Hasta 20 hojas 5 D.S.M.G.V.
+
+b) De 21 a 50 hojas 8 D.S.M.G.V.
+
+c) De 51 en adelante 11 D.S.M.G.V.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ARTÍCULO 58 B. Las inscripciones en el Instituto Registral del Estado de Tabasco de los créditos hipotecarios, refaccionarios y de habilitación o avío, que soliciten las instituciones y organizaciones auxiliares de crédito o los organismos públicos federales, así como su cancelación pagarán:
 
-Por cada acto. 5.0 D.S.M.GV.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Por cada acto. 10.0 D.S.M.G.V.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Las escrituras o documentos hechos o elaborados en otras Entidades Federativas y que por su naturaleza deban inscribirse en el Instituto Registral del Estado de Tabasco deberán pagar un 25% más sobre el importe de los derechos que genera su inscripción en dicha Institución.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -1751,13 +1431,13 @@ a) Por mes 13.00 D.S.M.G.V.
 
 b) Por año 130.00 D.S.M.G.V.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-ARTÍCULO 58 D. Los magistrados; jueces, notarios o corredores y demás funcionarios que expidan copias de sentencias, testimonios o actos que deban ser registrados, quedan sujetos a las disposiciones que establece el Código Fiscal del Estado para los notarios y encargados del Registro Público de la Propiedad y del Comercio respectivamente, y por ende, a las sanciones correspondientes, si antes el interesado no presenta el comprobante de pago oficial autorizado por las autoridades fiscales.
+ARTÍCULO 58 D. Los magistrados, jueces, notarios o corredores y demás funcionarios que expidan copias de sentencias, testimonios o actos que deban ser registrados, quedan sujetos a las disposiciones que establece el Código Fiscal del Estado para los notarios y encargados del Instituto Registral del Estado de Tabasco respectivamente, y por ende, a las sanciones correspondientes, si antes el interesado no presenta el comprobante de pago oficial autorizado por las autoridades fiscales.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-ARTÍCULO 58 E. El personal adscrito al Instituto Registral del Estado de Tabasco, que expida documentos en uso de sus atribuciones, deberán exigir al solicitante, el comprobante que se han satisfecho al erario estatal, los derechos correspondientes, anotando el número de recibo oficial; quienes infrinjan esta disposición, serán sancionados conforme al Código Fiscal del Estado, sin perjuicio de las sanciones y responsabilidades a las que hiciera acreedor, según la gravedad del caso.
+ARTÍCULO 58 E. El personal adscrito al Instituto Registral del Estado de Tabasco, que expida documentos en uso de sus atribuciones, deberán exigir al solicitante, el comprobante que se ha satisfecho al erario estatal, los derechos correspondientes, anotando el número de recibo oficial; y, en el caso de aquellos solicitantes que de conformidad al artículo 76 fracción II de ésta Ley, no causen el pago de derechos, deberán presentar el sello de exento de la Receptoría de Rentas, quienes infrinjan esta disposición, serán sancionados conforme a las leyes aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -2131,6 +1811,12 @@ para vehículos nuevos, con vigencia de
 
 setenta y dos horas. 5.0 D.S.M.G.V.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VII. Por la expedición de la constancia de
+
+no infracción 3.0 D.S.M.G.V.
+
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 59 TER. Por el servicio de grúa que se preste como consecuencia de la comisión de infracciones, remoción de vehículo o movimiento de éste, el propietario del vehículo pagará el derecho de grúa, conforme a lo siguiente:
@@ -2153,21 +1839,47 @@ ARTÍCULO 59 QUÁTER. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2013)
 
 Por los servicios derivados, relacionados o prestados como consecuencia de la aplicación de la Ley que Regula las Casas de Empeño en el Estado de Tabasco, se pagarán los siguientes derechos:
 
-I.- Por expedición o revalidación bianual
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-de cada permiso de funcionamiento de
+I.- Por la expedición de licencia nueva de
 
-cada establecimiento: 600 D.S.M.G.V.
+funcionamiento de cada establecimiento: 1,500.00 D.S.M.G.V.
 
-II.- Por la revisión y validación anual de
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II.- Por la revalidación anual de la licencia
+
+de casas de empeño: 300.00 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+III.- Por el cambio de domicilio de cada
+
+establecimiento: 500.00 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV.- Por la revisión y validación anual de
 
 cada póliza de seguro otorgada por
 
-compañía autorizada: 50 D.S.M.G.V.
+compañía autorizada: 50.00 D.S.M.G.V.
 
-III.- Por modificación de cada permiso de
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-cada establecimiento: 100 D.S.M.G.V.
+V.- Por el Cambio de Titular de la Licencia: 700.00 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VI.- Por la reposición de la Licencia por
+
+extravío o robo: 50.00 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VII.- Por modificación de cada permiso de cada
+
+establecimiento: 100.00 D.S.M.G.V.
 
 ###### ARTÍCULO 61.
 
@@ -2371,7 +2083,7 @@ XX. Por coordinación de Programas de
 
 Actualización Catastral, por predio 0.50 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 XXI. Por la expedición anual de constancia
 
@@ -2379,41 +2091,55 @@ que acredite su inscripción como perito
 
 valuador o perito topógrafo en la Secretaría
 
-de Administración y Finanzas 14.0 D.S.M.G.V.
+de Planeación y Finanzas 14.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 XXII. Por la expedición anual de constancia
 
 que acredite su inscripción como dibujante
 
-técnico en la Secretaría de Administración
+técnico en la Secretaría de Planeación y Finanzas 7.0 D.S.M.G.V.
 
-y Finanzas 7.0 D.S.M.G.V.
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 XXIII. Por revisión y validación de avalúo
 
 comercial a peritos registrados ante la
 
-Secretaría de Administración y Finanzas. 10.0 D.S.M.G.V.
+Secretaría de Planeación y Finanzas. 10.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 XXIV. Por revisión y validación de avalúo
 
 catastral a peritos registrados ante la
 
-Secretaría de Administración
-
-y Finanzas. 5.0 D.S.M.G.V.
+Secretaría de Planeación y Finanzas. 5.0 D.S.M.G.V.
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XXV. Por consulta de valor catastral de zona,
 
 por calle. 1.0 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXVI. Expedición de cada folio para realizar
+
+Avalúo Comercial de predio urbano. 2.0 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXVII. Expedición de cada folio para realizar
+
+Avalúo Comercial de predio rústico. 1.0 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXVIII. Expedición de cada folio para realizar
+
+Avalúo Catastral (rústico y urbano) 1.0 D.S.M.G.V.
 
 #### SECCIÓN TERCERA
 
@@ -2427,35 +2153,51 @@ I. Por la expedición de licencia para el funcionamiento de establecimiento cuyo
 
 a) En envase cerrado:
 
-Abarrote. 1500.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Expendio. 1750.0 D.S.M.G.V.
+Abarrotes. 1,750.0 D.S.M.G.V.
 
-Minisúper. 1750.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Supermercado. 2500.0 D.S.M.G.V.
+Expendio. 2,000.0 D.S.M.G.V.
 
-Ultramarino. 1750.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Distribuidora 2500.0 D.S.M.G.V.
+Minisúper. 3,000.0 D.S.M.G.V.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Tienda de Conveniencia 2000 D.S.M.G.V.
+Supermercado. 4,000.0 D.S.M.G.V.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Ultramarino. 2,000.0 D.S.M.G.V.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Distribuidora. 5,000.0 D.S.M.G.V.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Tienda de Conveniencia. 4,000.0 D.S.M.G.V.
 
 b) En envase abierto:
 
-Bar. 2500.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Bar con presentación de espectáculos. 3500.0 D.S.M.G.V.
+Bar. ,500.0 D.S.M.G.V.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Bar con presentación de espectáculos. 6,500.0 D.S.M.G.V.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 Casino 9,000 D.S.M.G.V.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Centro de Espectáculos 2000 D.S.M.G.V
+Centro de Espectáculos. 1,500.0 D.S.M.G.V.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -2469,15 +2211,33 @@ Desarrollo turístico y recreativo 4000 D.S.M.G.V
 
 Fábrica de bebidas alcohólicas 10,000 D.S.M.G.V.
 
-Discoteca. 3500.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Hoteles y moteles. 3000.0 D.S.M.G.V.
+Discoteca. 5,500.0 D.S.M.G.V.
 
-Restaurante. 2000.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Restaurante bar. 2500.0 D.S.M.G.V.
+Hoteles. 4,500.0 D.S.M.G.V.
 
-Salón de baile. 2000.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Restaurante. 2,500.0 D.S.M.G.V.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Restaurante-Bar. 4,000.0 D.S.M.G.V.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Salón de baile. 1,500.0 D.S.M.G.V.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Productor de bebidas alcohólicas Artesanal. 1,500.0 D.S.M.G.V.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Moteles. 3,500.0 D.S.M.G.V.
 
 Cuando la expedición de la licencia sea con vigencia de más de un año, a la cantidad que resulte de la expedición de la licencia con vigencia de un año, el pago de los derechos se incrementarán en un 15.0% por cada uno de los años subsecuentes, en cada uno de los giros que se señalan en esta fracción.
 
@@ -2507,11 +2267,17 @@ villas o localidades pequeñas, por día: 20.0 D.S.M.G.V.
 
 Permiso temporal en ferias por día:
 
-a) De 3 m2 hasta 25 m2: 20.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-b) De 26 m2 a 50 m2: 40. 0 D.S.M.G.V.
+a) De 5 m2 hasta 50 m2; 20.0 D.S.M.G.V.
 
-c) De 51 m2 en adelante: 70.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+b) De 51 m2 a 100 m2; 40.0 D.S.M.G.V.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+c) De 101 m2 en adelante; 70.0 D.S.M.G.V.
 
 Permiso temporal en cabeceras municipales,
 
@@ -2521,7 +2287,7 @@ Permiso temporal para eventos masivos, por día: 250.0 D.S.M.G.V.
 
 Permiso temporal para degustación de bebidas
 
-alcohólicas: 50.0 D.S.M.G. V.
+alcohólicas: 50.0 D.S.M.G.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -2529,9 +2295,11 @@ VI. Autorización de ampliación de horario,
 
 por hora. 10.0 D.S.M.G.V.
 
-VII. La reposición de la licencia, permiso o
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-autorización. 35.0 D.S.M.G.V.
+VII. La reposición de la licencia, permiso
+
+o autorización. 50.0 D.S.M.G.V.
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -2557,49 +2325,147 @@ XI.- Por autorización de cambio de titular de una
 
 licencia por fallecimiento. 200.00 D.S.M.G.V.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 67 BIS. La Secretaría establecerá un registro estatal de vehículos, con la finalidad de llevar un control de los contribuyentes tenedores, usuarios o propietarios de vehículos automotores, emisión de tarjeta de circulación y otorgamiento de juego de placas, calcomanías y demás comprobantes de pago de impuestos y derechos establecidos en las leyes estatales y federales.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 67 TER. Los contribuyentes con domicilio en esta entidad que detenten la propiedad, posesión o el uso de vehículos, deben solicitar su inscripción dentro del registro estatal de vehículos ante la Secretaría, a través de las (sic) receptoría de rentas.
+
+Los contribuyentes, para darse de alta o baja dentro del registro estatal de vehículos, deberán atender las disposiciones establecidas por la Secretaría, cumpliendo con los siguientes requisitos:
+
+I. Los contribuyentes que adquieran vehículos nuevos o importados, deben inscribirlos en el registro estatal de vehículos dentro del término de 15 días hábiles posteriores a la adquisición o importación del vehículo que se trate.
+
+II. En el cambio de propietario de vehículos, deberán tramitarse la baja del propietario y el alta del nuevo tenedor, usuario o propietario, dentro de los 15 días hábiles siguientes de haber realizado la operación.
+
+III. Los propietarios, usuarios o tenedores de vehículos están obligados a presentar la baja correspondiente dentro del término de 60 días contados a partir del día siguiente de la determinación por autoridad competente en los siguientes casos:
+
+a) Que como resultado de algún accidente o siniestro sea declarada la pérdida total o destrucción del vehículo por la Procuraduría General de Justicia del Estado, Secretaría de Seguridad Publica a través de la Dirección General de la Policía Estatal de Caminos, por las autoridades homologas en otras entidades o por la Procuraduría General de la República.
+
+b) Que acredite el robo del vehículo, mediante acta administrativa instrumentada ante la Procuraduría General de Justicia del Estado, por las autoridades homologas en otras entidades o por la Procuraduría General de la República, debidamente certificada.
+
+c) Que acredite el robo, deterioro o extravió de las placas de circulación mediante acta administrativa instrumentada por ministerio publico competente de la Procuraduría General de Justicia del Estado, por las autoridades homologas en otras entidades federativas o por la Procuraduría General de la República, debidamente certificada.
+
+d) Que acredite con la manifestación de baja expedida por la autoridad competente el cambio de domicilio del propietario, usuario o tenedor del vehículo con la finalidad de realizar el cambio de domicilio a otra entidad federativa o municipio.
+
+e) Que acredite con documento expedido por el distribuidor, fabricante o comerciante de vehículos en el que conste que fue devuelto para dejar de ser de su propiedad o posesión.
+
+f) Que acredite con la factura expedida por el distribuidor, fabricante o comerciante la adquisición de un motor distinto al de origen del vehículo de su posesión y el acta de inspección vehicular realizada por la Dirección General de la Policía Estatal de Caminos.
+
+g) Cuando el propietario, usuario o tenedor de un vehículo destinado al servicio particular, pretenda realizar el cambio a servicio público deberá acreditarlo con la manifestación de baja expedida por la Dirección General de la Policía Estatal de Caminos de la Secretaría de Seguridad Pública.
+
+Cuando el propietario, usuario o tenedor de un vehículo destinado al servicio público, pretenda realizar el cambio a servicio particular deberá acreditarlo con la manifestación de baja expedida por la Secretaría de Comunicaciones y Transportes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 67 QUATER. Tratándose de periodo general de canje de placas de circulación, los derechos a que se refieren los artículos 68, fracción V y 69, fracción V, de esta Ley deberán pagarse a más tardar, el último día del mes de abril de cada año para el que se realice el canje.
+
+Tratándose de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía de automóviles, camiones, camionetas, tractores, automotores, remolque, semirremolques y otros vehículos, los derechos a los que se refieren los artículos 68, fracción IV y 69, fracción IV, de esta Ley deberán pagarse a más tardar el último día del mes de abril de cada año para que se realice el refrendo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 67 QUINQUIES. Para efecto del alta o baja en el registro estatal vehicular establecido en esta sección, se entiende por:
+
+I.- Vehículo: Aparato con motor que se desplaza o mueve sobre el suelo y sirve para transportar cosas o personas y que puede incluir sin limitación entre otros: automóvil, camioneta “pick up”, ómnibus, van, camiones, góndolas, volteos, minibuses, microbuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, motocicletas, bicimotos, cuatrimotos, motonetas, motocarro, triciclos automotores, equipo especial móvil de la industria del comercio; cualquiera que sea su diseño, modelo, tipo, precio, dimensión, compartimentos, ejes, marca, origen o uso;
+
+II.- Vehículo terrestre: el que se desplaza o mueve sobre el suelo;
+
+III.- Vehículo terrestre eléctrico: el que desplaza o mueve sobre el suelo y cuenta con un motor eléctrico;
+
+IV.- Vehículo terrestre híbrido: el que se desplaza o mueve sobre el suelo y cuenta en adición a un motor de combustión interna, con un motor eléctrico, accionado por hidrógeno o por alguna otra energía alternativa;
+
+V.- Vehículos terrestres destinados al transporte de más de 9 pasajeros o para el transporte de carga: los camiones, vehículos Pick Up, van, omnibuses, minibuses, microbuses, volteo, góndola y autobuses integrales, tractores no agrícolas tipo quinta rueda cualquiera que sea su tipo y peso bruto vehicular;
+
+VI.- Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos; y
+
+b) El importado definitivamente al país, que corresponda al año modelo en que se efectúe la importación.
+
 #### SECCIÓN CUARTA
 
 ###### ARTÍCULO 68.
 
 Por los servicios relacionados con vehículos particulares, se causarán y pagarán los derechos siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-I. Por emisión o reposición de juegos de
+I. Por registro, emisión de tarjeta de circulación, calcomanía y otorgamiento de juego de placas:
 
-placas de circulación, incluyendo calcomanía
+a) Vehículos 15.0 D.S.M.G.V.
 
-y tarjeta de circulación. 15.0 D.S.M.G.V.
+b) Motocicletas, motocarro y motonetas. 3.0 D.S.M.G.V.
 
-II. Por emisión de placa bianual y tarjeta de circulación para:
+c) Bicicletas y Triciclos 2.0 D.S.M.G.V.
 
-a) Motocicletas y motonetas. 3.0 D.S.M.G.V.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-b) Bicicletas. 2.0 D.S.M.G.V.
+II.- Por reposición de juegos de placas, calcomanía y emisión de tarjeta de circulación:
 
-c) Carro de mano o tracción animal. 2.0 D.S.M.G.V.
+a) Vehículos 10.0 D.S.M.G.V.
 
-III. Por reposición de placas de circulación
+b) Motocicletas, motocarro y motonetas 3.0 D.S.M.G.V.
 
-para motocicletas, motonetas, bicicletas y
+c) Bicicletas y Triciclos 2.0 D.S.M.G.V.
 
-carros de mano o tracción animal. 3.0 D.S.M.G.V.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-IV. Por la reposición de cualquier otro
+II BIS. Por la modificación, reexpedición de
 
-documento que ampare el registro para que
+tarjeta de circulación o recibo de pago de
 
-circule legalmente en la vía pública. 5.0 D.S.M.G.V.
+contribuciones vehiculares. 5.0 D.S.M.G.V.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
-V. Por el refrendo anual de placa de
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-circulación, tarjeta de circulación y calcomanía. 10.0 D.S.M.G.V.
+IV. Por el refrendo anual de placa de circulación, tarjeta de circulación y calcomanía para:
 
-VI. Por baja de vehículos de servicio
+a. Vehículos 10.0 D.S.M.G.V.
 
-particular. 5.0 D.S.M.G.V.
+b. Motocicletas, motocarro y motonetas. 3.0 D.S.M.G.V.
+
+c. Bicicletas y Triciclos 1.0 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+V. Por canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública:
+
+a. Vehículos 10.0 D.S.M.G.V.
+
+b. Motocicletas, motocarro y motonetas. 3.0 D.S.M.G.V.
+
+c. Bicicletas y Triciclos 1.0 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VI. Por baja de vehículos de servicio particular por:
+
+a. Destrucción de Vehículo 5.0 D.S.M.G.V.
+
+b. Cambio de propietario 5.0 D.S.M.G.V.
+
+c. Cambio de estado o municipio 5.0 D.S.M.G.V.
+
+d. Robo de Vehículo 5.0 D.S.M.G.V.
+
+e. Extravió de placas 5.0 D.S.M.G.V.
+
+f. Robo de placas 5.0 D.S.M.G.V.
+
+g. Cambio de servicio 5.0 D.S.M.G.V.
+
+h. Deterioro de placas 5.0 D.S.M.G.V.
+
+i. Devolución de unidad 5.0 D.S.M.G.V.
+
+j. Pérdida total 5.0 D.S.M.G.V.
+
+k. Cambio de motor o chasis 3.0 D.S.M.G.V.
+
+l. Otros 5.0 D.S.M.G.V.
 
 #### SECCIÓN QUINTA
 
@@ -2607,57 +2473,115 @@ particular. 5.0 D.S.M.G.V.
 
 De los servicios relacionados con el transporte público se pagarán y causarán los derechos siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-I. Por emisión o reposición de juegos de 15.0 D.S.M.G.V.
+I. Por registro, emisión de tarjeta de circulación, calcomanía y otorgamiento de juego de placas.
 
-placas de circulación, incluyendo calcomanía
+a) Vehículos 15.0 D.S.M.G.V.
 
-y tarjeta de circulación.
+b) Motocarro 3.0 D.S.M.G.V.
 
-II. Por emplacamientos de servicio público.
+c) Remolque Tipo Góndola 5.0 D.S.M.G.V.
 
-a) Alta. 10.0 D.S.M.G.V.
+d) Equipo especial móvil de la industria del comercio 15.0 D.S.M.G.V.
 
-b) Baja. 5.0 D.S.M.G.V.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+II. Por reposición de juego de placas, calcomanía y emisión de tarjeta de circulación.
 
-III. Por el refrendo anual de placa de
+a) Vehículos. 10.0 D.S.M.G.V.
 
-circulación, tarjeta de circulación,
+b) Motocarro 3.0 D.S.M.G.V.
 
-calcomanía, tarjetón de ruta, de jurisdicción
+c) Remolque Tipo Góndola 3.0 D.S.M.G.V.
 
-y enmicado de la tarjeta de circulación para
+d) Equipo especial móvil de la industria del comercio 15.0 D.S.M.G.V.
 
-vehículo de servicio público. 10.0 D.S.M.G.V.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+III. Por la modificación y reexpedición de tarjeta de circulación por:
 
-IV. Por emisión de placa y tarjeta de circulación para:
+a) Cambio de ruta 5.0 D.S.M.G.V.
 
-a) motocicletas "moto taxi" 5.0 D.S.M.G.V.
+b) Cambio de jurisdicción 5.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+c) Ampliación de ruta 5.0 D.S.M.G.V.
 
-V. Por el refrendo bianual de placa de circulación,
+d) Nueva Ruta 5.0 D.S.M.G.V.
 
-tarjeta de circulación y calcomanía de “moto taxis" 3.0 D.S.M.G.V.
+e) Reubicación de Terminal 5.0 D.S.M.G.V.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+f) Cambio de Cromática 5.0 D.S.M.G.V.
+
+g) Cambio de Modalidad de Transporte Público 5.0 D.S.M.G.V.
+
+h) Reubicación de base de inicio y cierre de ruta. 5.0 D.S.M.G.V.
+
+i) Cambio de nombre o razón social 5.0 D.S.M.G.V.
+
+j) Fusión de Rutas 5.0 D.S.M.G.V.
+
+k) Enrolamiento interno de vehículos 5.0 D.S.M.G.V.
+
+l) Modificación de Itinerario 5.0 D.S.M.G.V.
+
+m) Modificación de horario 5.0 D.S.M.G.V.
+
+n) Otros 5.0 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV. Por el refrendo anual de placa de circulación, tarjeta de circulación y calcomanía para vehículos de servicio público:
+
+a) Vehículo. 10.0 D.S.M.G.V.
+
+b) Motocarro. 2.0 D.S.M.G.V.
+
+c) Remolque Tipo Góndola 3.0 D.S.M.G.V.
+
+d) Equipo especial móvil de la industria del comercio 15.0 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+V. Por canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública:
+
+a) Vehículos. 10.0 D.S.M.G.V.
+
+b) Motocarro. 3.0 D.S.M.G.V.
+
+c) Remolque Tipo Góndola 3.0 D.S.M.G.V.
+
+d) Equipo especial móvil de la industria del comercio 15.0 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VI.- Por baja de vehículos de servicio público:
+
+a) Sustitución de unidad 5.0 D.S.M.G.V.
+
+b) Cambio de servicio 5.0 D.S.M.G.V.
+
+c) Extravió o robo de placas 5.0 D.S.M.G.V.
+
+d) Robo de vehículo o pérdida total por siniestro 5.0 D.S.M.G.V.
+
+e) Devolución de unidad 5.0 D.S.M.G.V.
+
+f) Cambio de propietario por sucesión de derechos
+
+o cesión de derechos 5.0 D.S.M.G.V.
+
+g) Deterioro de placas 5.0 D.S.M.G.V.
+
+h) Cambio de motor o chasis 5.0 D.S.M.G.V.
+
+i) Motocarro 5.0 D.S.M.G.V.
+
+j) Otros 5.0 D.S.M.G.V.
 
 ###### ARTÍCULO 70.
 
-Para el pago de los derechos a que se refieren los artículos 68, fracción V y 69, fracción III, de esta Ley se observará, lo siguiente:
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-I. Tratándose de canje de periodo general de placas de circulación, los derechos correspondientes deberán pagarse a más tardar, el último día del mes de abril de cada año para el que se realice el canje.
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-II. Tratándose de refrendo anual de tarjetas de circulación y calcomanías de automóviles, camiones, camionetas, tractores, automotores, remolque, semirremolques y otros vehículos, los derechos correspondientes deberán pagarse a más tardar el último día del mes de abril de cada año para que se realice el refrendo.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -3173,17 +3097,19 @@ de vehículos afectos a las averiguaciones previas
 
 y actas ministeriales 1 D.S.M.G.V.
 
-> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULO QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO SEXTO TER. POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO ECONÓMICO
+### CAPÍTULO SEXTO TER. POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO ECONÓMICO Y TURISMO
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCIÓN ÚNICA
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-ARTÍCULO 72 TER. Por los servicios prestados por la Secretaría de Desarrollo Económico, se causarán y pagarán los siguientes derechos:
+ARTÍCULO 72 TER. Por los servicios prestados por la Secretaría de Desarrollo Económico y Turismo, se causarán y pagarán los siguientes derechos:
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 I.- Por la búsqueda y expedición de
 
@@ -3207,43 +3133,53 @@ ARTÍCULO 72 QUÁTER. Por los servicios relacionados con el transporte público,
 
 se causarán y pagarán los derechos siguientes:
 
-I. A solicitud de parte, por realizar los estudios técnicos para la autorización de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-a) Expedición de concesión 150.0 D.S.M.G.V.
+I. A solicitud de parte, por realizar los estudios y dictámenes técnicos para la realización de:
 
-b) Renovación de concesión 150.0 D.S.M.G.V.
+a) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-c) Incremento de unidades de
+b) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-transporte público. 40.0 D.S.M.G.V.
+c) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-d) Ampliación de ruta. 20.0 D.S.M.G.V.
+d) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-e) Nueva ruta. 20.0 D.S.M.G.V.
+e) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-f) Cambio de ruta. 20.0 D.S.M.G.V.
+f) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-g) Cambio de jurisdicción 20.0 D.S.M.G.V.
+g) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-h) Cambio de capacidad de unidad. 20.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+h) Cambio de capacidad de unidad. 10.0 D.S.M.G.V.
 
 i) Cambio de tipo de servicio. 20.0 D.S.M.G.V.
 
-j) Cambio de nombre o razón social. 20.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+j) Cambio de nombre o razón social. 10.0 D.S.M.G.V.
 
 k) Cambio de diseño de unidad del
 
 transporte público. 20.0 D.S.M.G.V.
 
-l) Enrolamiento de unidad entre dos
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-o más agrupaciones en rutas autorizadas. 20.0 D.S.M.G.V.
+l) Enrolamiento de unidad entre dos o más
+
+agrupaciones en rutas autorizadas 40.0 D.S.M.G.V.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 m) Enrolamiento interno de unidad en
 
-rutas autorizadas. 20.0 D.S.M.G.V.
+rutas autorizadas 40.0 D.S.M.G.V.
 
-n) Verificación de planos de ruta. 20.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+n) Verificación de planos de ruta. 40.0 D.S.M.G.V.
 
 o) Ubicación o reubicación de terminal 20.0 D.S.M.G.V.
 
@@ -3255,135 +3191,119 @@ q) Ubicación y reubicación de sitio de taxi. 20.0 D.S.M.G.V.
 
 r) Ubicación o reubicación de paradero. 20.0 D.S.M.G.V.
 
-s) Servicio de transporte público Individual. 40.0 D.S.M.G.V.
+s) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-t) Servicio de transporte público colectivo. 40.0 D.S.M.G.V.
+t) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-u) Servicio de transporte escolar. 40.0 D.S.M.G.V.
+u) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-v) Servicio transporte de personal. 40.0 D.S.M.G.V.
+v) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-w) Servicio de transporte turístico. 40.0 D.S.M.G.V.
+w) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-x) Servicio de arrendadoras de vehículos
+x) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-sin chofer. 40.0 D.S.M.G.V.
+y) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-y) Servicio de carga en general. 40.0 D.S.M.G.V.
+z) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-z) Servicio público de grúa o remolque. 40.0 D.S.M.G.V.
+aa) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-aa) Servicio público de reten. 40.0 D.S.M.G.V.
+bb) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-bb) Servicio de carga especializada. 40.0 D.S.M.G.V.
+cc) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-cc) Servicio de transporte mixto. 40.0 D.S.M.G.V.
+dd) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-dd) Servicio de transporte por medio de
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-unidad adaptada con motocicleta o vehículo
-
-mecánico sin motor. 40.0 D.S.M.G.V.
-
-ee) Servicio privado de Transporte. 40.0 D.S.M.G.V.
+ee) Servicio privado de Transporte. 20.0 D.S.M.G.V.
 
 ff) Modificación de itinerario. 20.0 D.S.M.G.V.
 
 gg) Modificación de horario. 20.0 D.S.M.G.V.
 
-hh) Modificación de tarifa del transporte
+hh) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-público en general. 20.0 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-ii) Permiso especial de paso. 20.0 D.S.M.G.V.
+ii) Permiso especial de paso o
 
-jj) Cesiones de derechos. 50.0 D.S.M.G.V.
+permiso complementario 40.0 D.S.M.G.V.
 
-kk) Sucesiones de derechos. 20.0 D.S.M.G.V.
+jj) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-II. A solicitud de parte, para el otorgamiento de permisos, autorizaciones y concesiones:
+kk) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-a) Por la expedición de cada título de
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-concesión 1,200.0 D.S.M.G.V.
+ll) Otros 20.0 D.S.M.G.V.
 
-b) Por la renovación de cada título de
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-concesión 1,200.0 D.S.M.G.V.
+II. A solicitud de parte, para el otorgamiento de concesiones y permisos de transporte público:
 
-c) Permiso provisional para el servicio público
+a) Por la autorización de nuevo título de concesión o sustitución de permiso de transporte público por título de concesión en términos del artículo quinto transitorio de la Ley de Transportes para el Estado de Tabasco, por:
 
-de transporte, por cada vehículo, por mes. 10.0 D.S.M.G.V.
+a) Vehículo 60 D.S.M.G.V.
 
-d) Reexpedición de oficios de autorización. 5.0 D.S.M.G.V.
+b) Motocarro 25 D.S.M.G.V.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+b) Por la prórroga de la concesión, por vehículo 40 D.S.M.G.V.
 
-e) Tarjeta de Identificación por un año 8 D.S.M.G.V
+c) Por la prórroga del permiso de transporte público, por:
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+a) Vehículo 40 D.S.M.G.V.
 
-(a) Tarjeta de identificación por 2 años 14 D.S.M.G.V
+b) Motocarro 40 D.S.M.G.V.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+d) Permiso provisional para el servicio público de
 
-(b) Tarjeta de Identificación por 3 años 23 D.S.M.G.V
+transporte, por cada vehículo, por mes. 10 D.S.M.G.V.
 
-f) Permiso para el servicio de transporte
+e) Por incremento de vehículo dentro de una concesión o nuevo permiso de transporte público, por vehículo para:
 
-público individual, por unidad. 240.0 D.S.M.G.V.
+a) El servicio de transporte público individual 240 D.S.M.G.V.
 
-g) Permiso de servicio de transporte público
+b) El servicio de transporte público colectivo 120 D.S.M.G.V.
 
-colectivo, por unidad. 120.0 D.S.M.G.V.
+c) Permiso de servicio de transporte escolar 120 D.S.M.G.V.
 
-h) Permiso de servicio de transporte escolar,
+d) Permiso servicio (sic) transporte de personal 120 D.S.M.G.V.
 
-por unidad. 120.0 D.S.M.G.V.
+e) Permiso servicio de transporte turístico 120 D.S.M.G.V.
 
-i) Permiso servicio transporte de personal, por
+f) Servicio de Arrendamiento de vehículos con
 
-unidad. 120.0 D.S.M.G.V.
+o sin chofer 60 D.S.M.G.V.
 
-j) Permiso servicio de transporte turístico,
+g) Permiso servicio de carga en general 60 D.S.M.G.V.
 
-por unidad. 120.0 D.S.M.G.V.
+h) Servicio de carga de materiales para construcción a
 
-k) Permiso servicio de arrendadoras de
+granel con vehículo con capacidad de 7 hasta 14 mts
 
-vehículos sin chofer, por unidad. 120.0 D.S.M.G.V.
+cúbicos 60 D.S.M.G.V.
 
-l) Permiso servicio de carga en general,
+i) Servicio de carga de materiales para construcción a
 
-por unidad. 60.0 D.S.M.G.V.
+granel con vehículo con capacidad de 14 mts hasta
 
-m) Permiso servicio público de grúa o
+30 mts cúbicos 100 D.S.M.G.V.
 
-remolque, por unidad. 240.0 D.S.M.G.V.
+j) Permiso servicio público de grúa o remolque, por
 
-n) Permiso servicio público de retén. 240.0 D.S.M.G.V.
+unidad 240 D.S.M.G.V.
 
-o) Permiso servicio de carga especializada,
+k) Permiso de Depósito de Vehículos 120 D.S.M.G.V.
 
-por unidad. 120.0 D.S.M.G.V.
+l) Permiso servicio de carga especializada 120 D.S.M.G.V.
 
-p) Permiso servicio de transporte mixto,
+m) Permiso servicio de transporte mixto, por unidad 120 D.S.M.G.V.
 
-por unidad. 120.0 D.S.M.G.V.
+n) Permiso servicio de transporte con motocarro o
 
-q) Permiso servicio de transporte por medio
-
-de unidad adaptada con motocicleta o
-
-vehículo mecánicos sin motor, por unidad. 100.0 D.S.M.G.V.
-
-r) Permiso servicio privado de transporte,
-
-por unidad. 100.0 D.S.M.G.V.
-
-s) Autorizaciones de ampliaciones,
-
-modificaciones y nuevas rutas. 100.0 D.S.M.G.V.
+vehículo mecánicos (sic) sin motor 80 D.S.M.G.V.
 
 Para el otorgamiento de cualquiera de los permisos, autorizaciones y concesiones a que se refiere esta fracción será necesario que el interesado presente su inscripción en el Registro Federal de Contribuyentes.
 
@@ -3401,11 +3321,87 @@ d) Constancia de antigüedad de prestación
 
 del servicio público de transporte 5.0 D.S.M.G.V.
 
-(sic) Búsqueda de documentos para la
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-elaboración de las constancias a que se
+e) Búsqueda de documentos inscritos en el Registro
 
-refieren las fracciones anteriores 5.0 D.S.M.G.V.
+Estatal de Comunicaciones y Transportes 5.0 D.S.M.G.V.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+f) Constancia de designación de beneficiarios
+
+para sucesión de derechos 5.0 D.S.M.G.V.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+g) Constancia de historial de chofer 10 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV. A solicitud de parte, para autorizaciones y trámites adicionados al Transporte Público:
+
+a) Inscripción de lista de beneficiarios por persona
+
+física concesionaria o permisionario en caso de
+
+muerte, incapacidad o declaración de ausencia. 10.0 D.S.M.G.V.
+
+b) Preautorización de cesión de derechos de
+
+concesión o permiso de transporte público 5.0 D.S.M.G.V.
+
+c) Cesión de Derechos 50 D.S.M.G.V.
+
+d) Sucesión de Derechos 20 D.S.M.G.V.
+
+e) Autorizaciones de ampliaciones, modificaciones
+
+y nuevas rutas 100 D.S.M.G.V.
+
+f) Autorizaciones para cambio de ruta, cambio de
+
+tipo de servicio, y fusión de rutas 60 D.S.M.G.V.
+
+g) Autorizaciones para Ubicación o reubicación de
+
+terminal, cambio de diseño de vehículos de transporte
+
+público, ubicación o reubicación de base de inicio y
+
+cierre de circuito, ubicación o reubicación de paraderos,
+
+modificación de itinerario o modificación de horarios 40 D.S.M.G.V.
+
+h) Autorizaciones para permiso especial de paso o
+
+permiso complementario 80 D.S.M.G.V.
+
+i) Actualización de oficios de autorización 5.0 D.S.M.G.V.
+
+j) Tarjeta de identificación (Gafete):
+
+1. a) Por 1 año 8.0 D.S.M.G.V.
+
+2. b) Por 2 años 15 D.S.M.G.V.
+
+3. c) Por 3 años 22 D.S.M.G.V.
+
+k) Permiso servicio privado de transporte,
+
+por año, por vehículo. 60 D.S.M.G.V.
+
+l) Autorización de reprogramación para asistir a
+
+los cursos de capacitación 2.0 D.S.M.G.V.
+
+m) Inscripción de Documentación al Padrón
+
+de Choferes 2.0 D.S.M.G.V.
+
+n) Permiso especial de viaje 5.0 D.S.M.G.V.
+
+o) Otros 10.0 D.S.M.G.V.
 
 ### CAPÍTULO SÉPTIMO. BÚSQUEDA EN LOS ARCHIVOS, LEGALIZACIÓN DE FIRMAS, EXPEDICIÓN DE CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
 
@@ -3487,7 +3483,9 @@ I. La legalización de firmas y la expedición de certificaciones en los proceso
 
 II. Los derechos de registros, la legalización de firmas, expedición de certificados y certificaciones solicitadas por las dependencias de la Federación, el Estado y los municipios, para asuntos oficiales de su competencia debidamente justificados y acreditados para determinar que la solicitud no implique relevo de la obligación a cargo de un particular para exhibir el documento respectivo.
 
-III. Las certificaciones o copias certificadas que expida el Registro Público de la Propiedad y de Comercio, a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos económicos.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+III. Las certificaciones o copias certificadas que expida el Instituto Registral del Estado de Tabasco, a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos económicos.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -3575,9 +3573,11 @@ Las mismas cuotas y tarifas serán aplicables por la expedición de los document
 
 #### SECCIÓN ÚNICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 79.
 
-Los ingresos que el Estado, obtenga por la explotación de sus bienes patrimoniales o por actividades que no correspondan al desarrollo de sus funciones propias de derecho público, se fijarán y recaudarán de acuerdo con las reglas que establecen las leyes o reglamentos respectivos o, en su efecto, conforme a las bases generales establecidas por el Ejecutivo del Estado en las licencias, concesiones o contratos correspondiente (sic).
+Los ingresos que el Estado, obtenga por la explotación de sus bienes patrimoniales o por actividades que no correspondan al desarrollo de sus funciones propias de derecho público, se fijarán y recaudarán de acuerdo con las reglas que establecen las leyes o reglamentos respectivos o, en su efecto, conforme a las bases generales establecidas por el Ejecutivo del Estado en las licencias, concesiones o contratos correspondientes.
 
 Quedan comprendidos dentro de este título los siguientes:
 
@@ -3741,7 +3741,7 @@ P.O. 17 DE NOVIEMBRE DE 2012.
 
 P.O. 30 DE NOVIEMBRE DE 2013.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, a excepción del capítulo séptimo del Título Segundo que incluye los artículos 53-A al 53-M, los cuales entrarán en vigor el día 1º de enero de 2011 (sic)).
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, a excepción del capítulo séptimo del Título Segundo que incluye los artículos 53-A al 53-M, los cuales entrarán en vigor el día 1º de enero de 2011).
 
 SEGUNDO.- Queda sin efecto cualquier disposición que contravenga a lo estipulado en los Convenios de Adhesión y Colaboración Administrativa en Materia Fiscal, celebrados entre el Gobierno del Estado de Tabasco y la Secretaría de Hacienda y Crédito Público.
 
@@ -3768,3 +3768,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
 
 TERCERO.- La Secretaría de Planeación y Finanzas queda habilitada para dictar las medidas administrativas que estime necesarias para mejorar y proveer la aplicación de las disposiciones que establece el presente Decreto y la presente Ley.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Las motocicletas “moto taxi” que tengan actividad legal dentro del territorio del Estado, deberán solicitar la reexpedición de la tarjeta de circulación a “motocarro” por escrito, dentro del término de 90 días naturales a la Secretaría de Comunicaciones y Transportes, sin pago del derecho correspondiente.
+
+TERCERO.- Las obligaciones relativas al Impuesto Vehicular Estatal que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en el capítulo séptimo de esta Ley vigente hasta el 31 de diciembre de 2014, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones fiscales aplicables.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
