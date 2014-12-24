@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2014-08-18"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -787,9 +787,13 @@ La práctica de las diligencias enviadas al extranjero o que se reciban de él, 
 
 ### CAPITULO VI. TERMINOS
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 81.
 
-Los términos procesales que establece este código, empezarán a surtir sus efectos desde el día siguiente a aquél en que se hubiera hecho la notificación.
+Los términos procesales que establece este código comenzarán a computarse a partir del día siguiente al que surta efecto la notificación, incluyendo los días de su vencimiento.
+
+Las notificaciones surtirán sus efectos a partir del día siguiente al que hubieren quedado legalmente hechas.
 
 ###### ARTICULO 82.
 
@@ -5288,3 +5292,7 @@ Artículo único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 18 DE AGOSTO DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
