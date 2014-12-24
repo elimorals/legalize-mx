@@ -4,7 +4,7 @@ identifier: "FED-ley-para-el-tratamiento-de-menores-infractores-para-el-138"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-24"
-last_updated: "2012-12-27"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1991-12-19"
 
 LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE JUSTICIA PARA ADOLESCENTES, PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO, EN SU APLICACIÓN DE ÁMBITO FEDERAL, A LOS DOS AÑOS SIGUIENTES AL DÍA DE SU PUBLICACIÓN.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE JUSTICIA PARA ADOLESCENTES, PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2012 Y REFORMADO EL 24 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, UNA VEZ QUE HAYA ENTRADO EN VIGOR EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LA FEDERACIÓN, EN TODAS LAS ENTIDADES FEDERATIVAS Y DEL DISTRITO FEDERAL, EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA A QUE HACE REFERENCIA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 5 DE MARZO DE 2014, SIN QUE PUEDA EXCEDER DEL 18 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 24 de diciembre de 1991.
 
@@ -1337,7 +1337,9 @@ D.O.F. 25 DE JUNIO DE 2003.
 
 D.O.F. 27 DE DICIEMBRE DE 2012.
 
-PRIMERO. El presente Decreto entrará en vigor a los dos años siguientes al día de su publicación en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2014)</small>
+
+PRIMERO. El presente Decreto entrará en vigor una vez que haya entrado en vigor el Código Nacional de Procedimientos Penales en la Federación, en todas las Entidades Federativas y del Distrito Federal, en los términos previstos en la declaratoria a que hace referencia el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, sin que pueda exceder del 18 de junio de 2016.
 
 SEGUNDO. Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
 
@@ -1354,3 +1356,7 @@ SÉPTIMO. Para efectos de la aplicación de la fuerza física sobre los adolesce
 OCTAVO. El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia penal acusatorio, previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 24 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
