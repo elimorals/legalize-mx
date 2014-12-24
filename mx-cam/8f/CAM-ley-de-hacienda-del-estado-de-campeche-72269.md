@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2014-12-05"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -77,9 +79,11 @@ XI.- De los capitales, créditos, obligaciones y empréstitos a favor del Estado
 
 XII.- De los bienes muebles e inmuebles propiedad del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 2.
 
-Los ingresos fiscales, que se establecen en este Ordenamiento, se regularán por lo establecido en la presente Ley y en el Código Fiscal del Estado de Campeche.
+Los ingresos fiscales que se establecen en este Ordenamiento, se regularán por lo establecido en la presente Ley, en la Ley de Ingresos del Estado de Campeche y en el Código Fiscal del Estado de Campeche.
 
 ###### ARTÍCULO 3.
 
@@ -109,29 +113,23 @@ Las obligaciones de los sujetos de las contribuciones establecidas en esta Ley d
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 6.
 
 Es objeto de este impuesto la enajenación de toda clase o tipo de libros, periódicos y revistas, que se realice dentro del Estado de Campeche, independientemente del lugar o el medio por el cual se realice el pago.
 
-Para los fines de este Capítulo se entiende por enajenación, lo siguiente:
-
-I.- Toda transmisión de propiedad, aun en la que el enajenante se reserve el dominio del bien enajenado;
-
-II.- Las adjudicaciones, aun cuando se realicen a favor del acreedor;
-
-III.- La aportación a una sociedad o asociación;
-
-IV.- La cesión de los derechos; y
-
-V.- La que se realice mediante fusión o escisión de sociedades.
-
-Se considera que la enajenación se efectúa dentro del Estado de Campeche, entre otros casos, si el bien se encuentra dentro del Estado al efectuarse el envío al adquirente y cuando no habiendo envío, en el Estado se realiza la entrega material del bien por el enajenante.
-
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 7.
 
-Son sujetos y están obligadas al pago de este impuesto las personas físicas y morales y las unidades económicas, que enajenen libros, periódicos y revistas dentro del Estado de Campeche, incluyendo sus locales, bodegas, establecimientos, agencias, sucursales, oficinas u otras instalaciones cualquiera que sea la denominación que se les dé, aun cuando tengan su domicilio principal fuera del Estado de Campeche, independientemente del lugar donde se pague el precio o contraprestación.
+Son sujetos y están obligadas al pago de este impuesto las personas físicas y morales y las unidades económicas que enajenen libros, periódicos y revistas dentro del Estado de Campeche.
+
+Para los efectos de esta Ley, se considera libro toda publicación unitaria, no periódica, impresa en cualquier soporte, cuya edición se haga en un volumen o en varios volúmenes. Dentro del concepto de libros, no quedan comprendidas aquellas publicaciones periódicas amparadas bajo el mismo título o denominación y con diferente contenido entre una publicación y otra.
+
+Igualmente se considera que forman parte de los libros, los materiales complementarios que se acompañen a ellos, cuando no sean susceptibles de comercializarse separadamente. Se entiende que no tienen la característica de complementarios cuando los materiales pueden comercializarse independientemente del libro.
 
 #### SECCIÓN TERCERA. DE LA BASE
 
@@ -185,9 +183,7 @@ XI.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
 
 ###### ARTÍCULO 12.
 
-Están exentos del pago de este impuesto las enajenaciones de libros, periódicos y revistas, que editen los propios contribuyentes. Para los efectos de esta Ley, se considera libro toda publicación, unitaria, no periódica, impresa en cualquier soporte, cuya edición se haga en un volumen o en varios volúmenes. Dentro del concepto de libros, no quedan comprendidas aquellas publicaciones periódicas amparadas bajo el mismo título o denominación y con diferente contenido entre una publicación y otra.
-
-Igualmente se considera que forman parte de los libros, los materiales complementarios que se acompañen a ellos, cuando no sean susceptibles de comercializarse separadamente. Se entiende que no tienen la característica de complementarios cuando los materiales pueden comercializarse independientemente del libro.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 ### CAPÍTULO II. DEL IMPUESTO SOBRE LA EXTRACCIÓN DE MATERIALES DEL SUELO Y SUBSUELO
 
@@ -229,7 +225,7 @@ Los contribuyentes deberán proporcionar la información que se les solicite en 
 
 ###### ARTÍCULO 18.
 
-Cuando se formulen declaraciones complementarias sustituyendo datos de la original, en virtud de las cuales resulten diferencias a cargo del contribuyente por declarar, o bien resulten diferencias a su favor, o se incrementen los ya declarados, sólo podrán ser modificados por el contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultades de comprobación, no operará la anterior limitación, cuando sólo incremente el total de los metros cúbicos extraídos a que se refiere el artículo 13.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
@@ -275,29 +271,33 @@ Son también objeto de este impuesto, las erogaciones por pagos realizados a los
 
 Son sujetos y están obligados al pago de este impuesto, las personas físicas, las personas morales y las unidades económicas que realicen las erogaciones o pagos a que se refiere el artículo anterior, conforme a lo siguiente:
 
-I.- Los residentes en el Estado de Campeche, respecto de todas las erogaciones que habitual o accidentalmente realicen en el Estado de Campeche; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-II.- Los residentes fuera del Estado de Campeche, respecto de todas las erogaciones que habitual o accidentalmente realicen en el Estado de Campeche.
+I.- Los residentes en el Estado de Campeche, de todas las erogaciones o pagos que realicen de los servicios prestados en forma habitual o accidentalmente en el Estado de Campeche; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II.- Los residentes fuera del Estado de Campeche, de todas las erogaciones o pagos que realicen de los servicios prestados en forma habitual o accidentalmente en el Estado de Campeche, independientemente del lugar en donde se realicen dichas erogaciones o pagos.
 
 También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 22.
 
-Cuando en la contratación de trabajadores para un patrón, a fin de que ejecuten trabajos o presten servicios para él, participe un intermediario laboral, cualquiera que sea la denominación que patrón e intermediarios asuman, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en este capítulo.
+Están obligados a retener y enterar este impuesto, las personas físicas, las personas morales, las unidades económicas y los demás sujetos del impuesto a que se refiere el artículo anterior, que contraten la prestación de servicios objeto de este impuesto con empresas residentes fuera del Estado de Campeche.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+A fin de que se cumpla la obligación a que se refiere el párrafo anterior quienes contraten la prestación de servicios objeto de este impuesto con empresas residentes fuera del Estado de Campeche, deberán informar a la Secretaría de Finanzas y Administración el pago que haya efectuado a los trabajadores, la empresa prestadora del servicio dentro de los diez días del mes siguiente al que se haya efectuado el pago.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+En caso que se omita esta obligación, se presumirá que el pago por los servicios objeto de este impuesto es el importe total que se cubre a la prestadora de servicios.
 
-No serán considerados intermediarios, sino patrones, las personas establecidas que presten servicios a otras, para ejecutarlos como elementos propios y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, en los términos de los artículos 12, 13, 14, 15 y 15-A de la Ley Federal del Trabajo.
+Las personas físicas, las personas morales y las unidades económicas que realicen las retenciones del impuesto sobre nómina, estarán obligadas a expedir y entregar constancias de dichas retenciones a las personas, dentro de los cinco días siguientes a la fecha en que les haya realizado la retención del impuesto.
 
-Sin perjuicio de lo dispuesto en los párrafos anteriores, cuando un patrón o sujeto obligado, cualquiera que sea su personalidad jurídica o su naturaleza económica, en virtud de un contrato, cualquiera que sea su forma o denominación, como parte de las obligaciones contraídas, ponga a disposición trabajadores u otros sujetos de aseguramiento para que ejecuten los servicios o trabajos acordados bajo la dirección del beneficiario de los mismos, en las instalaciones que éste determine, el beneficiario de los trabajos o servicios asumirá las obligaciones establecidas en este capítulo en relación con dichos trabajadores, en el supuesto de que el patrón omita su cumplimiento, siempre y cuando la Secretaría de Finanzas hubiese notificado previamente al patrón el requerimiento correspondiente y éste no lo hubiera atendido.
+Las personas físicas y las personas morales, que sean residentes fuera del Estado de Campeche, a las que se les haya retenido el impuesto sobre nómina, tendrán la obligación de proporcionar a la persona que les efectúe la retención del impuesto, el importe por concepto del pago que les haya realizado en el mes a sus trabajadores, dentro de los cinco días siguientes al mes al que corresponda el pago, asimismo podrán acreditarse las cantidades que les hayan sido retenidas contra el impuesto sobre nóminas que les resulte a su cargo en el Estado de Campeche.
 
-Asimismo, la Secretaría de Finanzas dará aviso al beneficiario de los trabajos o servicios, del requerimiento a que se refiere el párrafo anterior.
+Cuando en la contratación de trabajadores para un patrón persona física o moral denominado contratante, a fin de que ejecuten trabajos o presten servicios para él, participe un intermediario laboral persona física o moral, cualquiera que sea la denominación que patrón e intermediarios asuman denominado contratista no cumpla con las obligaciones del pago, el contratante queda obligado respecto de todas las obligaciones fiscales contenidas en este capítulo que nazca de dicha relación.
 
-Los contratantes deberán comunicar trimestralmente ante las oficinas recaudadoras de la Dirección de Ingresos de la Secretaría de Finanzas del Estado que correspondan al domicilio del patrón o sujeto obligado, y del beneficiario respectivamente, dentro de los primeros quince días de los meses de enero, abril, julio y octubre, en relación con los contratos celebrados en el trimestre de que se trate la información siguiente:
+La persona que contrate los servicios personales a que se refiere este artículo, deberá comunicar trimestralmente ante las oficinas recaudadoras de la Dirección de Ingresos de la Secretaría de Finanzas del Estado que correspondan al domicilio del patrón o sujeto obligado, y del beneficiario respectivamente, dentro de los primeros quince días de los meses de enero, abril, julio y octubre, en relación con los contratos celebrados en el trimestre de que se trate la información siguiente:
 
 I. De las partes en el contrato: Nombre, denominación o razón social; clase de persona moral de que se trate, en su caso; objeto social; domicilio social, fiscal y, en su caso, convencional para efectos del contrato; número del Registro Federal de Contribuyentes y de Registro Patronal ante el IMSS; datos de su acta constitutiva, tales como número de escritura pública, fecha, nombre del notario público que da fe de la misma, número de la notaría y ciudad a la que corresponde, sección, partida, volumen, foja o folio mercantil, en su caso, y fecha de inscripción en el Registro Público de la Propiedad y el Comercio; nombre de los representantes legales de las partes que suscribieron el contrato.
 
@@ -409,7 +409,9 @@ D) Las contraprestaciones cubiertas a trabajadores domésticos, a trabajadores c
 
 V.- Cuotas patronales pagadas al Instituto Mexicano del Seguro Social y las aportaciones efectuadas por el patrón al Instituto del Fondo Nacional de la Vivienda para los Trabajadores o al Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche y al Sistema de Ahorro para el Retiro. Para que los conceptos que se mencionan en esta fracción queden exentos, deberán estar debidamente registrados en la contabilidad del patrón en términos de la legislación fiscal correspondiente;
 
-VI.- Gastos de representación y viáticos efectivamente erogados por cuenta del patrón, debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto Sobre la Renta;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VI.- Viáticos efectivamente erogados por cuenta del patrón, debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto Sobre la Renta;
 
 VII.- Aportaciones patronales al fondo de ahorro, cuando sea igual o menor al aportado por el trabajador y la entrega del mismo al beneficiario se realice anualmente;
 
@@ -471,9 +473,11 @@ El monto del impuesto se determinará aplicando a la base gravable a que alude e
 
 #### SECCIÓN QUINTA. DEL PAGO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 33.
 
-El impuesto establecido en este capítulo se causará y se tendrá obligación de pagar en el momento en que se cobren o sean exigibles las contraprestaciones en favor de quien preste los servicios de hospedaje.
+El impuesto establecido en este capítulo se causará y se tendrá obligación de pagar en el momento en que se cobren o sean exigibles las contraprestaciones en favor de quien preste los servicios de hospedaje, el que ocurra primero.
 
 El pago de este impuesto tiene el carácter de definitivo y deberá efectuarse mensualmente, mediante declaración que deberá presentarse a más tardar el día veinte del mes siguiente a aquel en que se cause el impuesto, en los formularios que apruebe y publique la Secretaría de Finanzas.
 
@@ -675,7 +679,9 @@ V. Los obtenidos de sorteos de bonos del ahorro nacional y de planes de ahorro a
 
 VI. Cuando se de algunos de los siguientes supuestos:
 
-a).- Los juegos con apuestas o sorteos se lleven a cabo por personas morales sin fines de lucro autorizadas para recibir donativos deducibles para los efectos de la Ley de Impuesto sobre la Renta, a que se refiere el Artículo 95, fracciones VI, IX y XVII de dicha Ley, siempre que destine la totalidad de sus ingresos, una vez descontados los premios efectivamente pagados, a los fines para los cuales fueron constituidas;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+a).- Los juegos con apuestas o sorteos se lleven a cabo por personas morales sin fines de lucro autorizadas para recibir donativos deducibles para los efectos de la Ley de Impuesto sobre la Renta, a que se refiere el Artículo 79, fracciones VI, IX Y XVII de dicha Ley, siempre que destine la totalidad de sus ingresos, una vez descontados los premios efectivamente pagados, a los fines para los cuales fueron constituidas;
 
 b).- Tratándose de sorteos, cuando los participantes obtengan dicha calidad sin sujetarse a pago, a la adquisición de un bien o a la contratación de un servicio; o
 
@@ -759,7 +765,7 @@ I. Quienes por cualquier título, adquieran la propiedad, tenencia o uso del veh
 
 II. Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera;
 
-III. Las autoridades y funcionarios competentes (sic) que autoricen el registro de vehículos, permisos provisionales para circulación ó en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+III. Las autoridades y funcionarios competentes que autoricen el registro de vehículos, permisos provisionales para circulación ó en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
 Los contribuyentes comprobarán el pago del impuesto con la forma o recibo oficial original, por medio de la cual lo hayan efectuado.
 
@@ -1653,7 +1659,7 @@ b) Por las hojas subsiguientes, cada una .1
 
 III.- Por los servicios a que se refiere la fracción III del artículo anterior:
 
-a ) Por expedición de copias simples y fotostáticas,
+a) Por expedición de copias simples y fotostáticas,
 
 cada hoja .07
 
@@ -2930,3 +2936,9 @@ P.O. 5 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.-Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
