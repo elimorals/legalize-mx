@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2014-03-04"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -741,7 +741,9 @@ XVII. Ecología y Protección al Medio Ambiente;
 
 XVIII. Niñez, Juventud y Deporte;
 
-XIX. Equidad, Género y Familia;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XIX. Igualdad de Género y Familia;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2008)</small>
 
@@ -754,6 +756,10 @@ XXII. Transparencia e Información Gubernamental;
 > <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 XXIII. Ciencia, Tecnología e Innovación.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXIV. Participación Ciudadana.
 
 Estas comisiones podrán ampliarse o disminuirse por acuerdo de la Legislatura, su funcionamiento será permanente y se regirán de conformidad a lo dispuesto por el Reglamento.
 
@@ -1570,3 +1576,7 @@ Artículo Único.- El presente Decreto entrará en vigor el primero de enero del
 P.O. 4 DE MARZO DE 2014.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
