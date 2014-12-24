@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-23619
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2013-12-21"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY QUE REGULA LA VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el jueves 21 de diciembre de 2001.
 
@@ -55,7 +57,13 @@ La presente Ley es de orden público y de observancia general en el Estado de Ta
 
 Para los efectos de esta Ley se entiende por:
 
-I. Abarrote: Establecimiento cuya actividad consiste en la comercialización de comestibles y artículos de primera necesidad, y que cuente con licencia para la comercialización de bebidas alcohólicas en envase cerrado;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+I. Abarrotes: Establecimiento cuya actividad consiste en la comercialización de comestibles y artículos de primera necesidad, y que cuente con licencia para la comercialización de bebidas alcohólicas en envase cerrado;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+I Bis. Área de Venta: Superficie expresada en metros cuadrados, de un establecimiento, a la que tiene acceso el público, y en la que se encuentra el área de cajas registradoras;
 
 II. Bar: Establecimiento que, de manera independiente o formando parte de otro giro, vende preponderantemente bebidas alcohólicas para su consumo en el mismo local, pudiendo de manera complementaria, presentar música viva, grabada o vídeo grabada;
 
@@ -109,11 +117,15 @@ XXI. Fábrica de bebidas alcohólicas: Espacio físico que cuente con infraestru
 
 XXII. Feria: Lugar o espacio habilitado o construido, para exponer, exhibir y dar a conocer artículos y actividades comerciales, industriales, agropecuarias, artísticas, culturales, artesanales, deportivas y de cualquier otra naturaleza para promover el desarrollo del Estado y los municipios;
 
-XXIII. Hotel y Motel: Inmueble donde se proporciona hospedaje y diversos servicios integrados para la comodidad de los huéspedes, que podrán contar con licencia para la venta de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XXIV. Licencia: Documento por el que se concede autorización, términos y condiciones para vender, distribuir o permitir el consumo de bebidas alcohólicas en envase cerrado o abierto, otorgada por el Ejecutivo del Estado a través de la Secretaría;
+XXIII. Hotel: Inmueble donde se proporciona hospedaje y diversos servicios integrados para la comodidad de los huéspedes, que podrán contar con licencia para la venta de bebidas alcohólicas en espacios para discos, salón de baile, restaurante, restaurante bar, servicio a cuarto y servibar;
 
-XXV. Licencia Única para Hoteles y Moteles: Documento otorgado por el Ejecutivo del Estado a través de la Secretaría, en el que se concede a éstos, autorización para la venta de bebidas alcohólicas, siempre y cuando operen dentro de su infraestructura general uno de los siguientes establecimientos: restaurante, restaurante bar, bar, discoteca o servicios de banquetes, servi-bar en las habitaciones y servicio a cuartos;
+XXIV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXV. Licencia: Concesión autorizada por el Ejecutivo del Estado a través de la Secretaría de Planeación y Finanzas a personas físicas o jurídico colectiva (sic) con la finalidad de que estas puedan vender, distribuir o permitir el consumo de bebidas alcohólicas en envase cerrado o abierto en los términos y condiciones de la presente Ley;
 
 XXVI. Licenciatario: La persona física o jurídica colectiva que haya obtenido una licencia;
 
@@ -121,17 +133,31 @@ XXVII. Mercancía: Toda bebida alcohólica que se encuentre en un inmueble, así
 
 XXVIII. Mezcla para bebida preparada: Combinación de diversas salsas y/o otras sustancias comestibles, que pueden incluir refresco, jugo de limón, sal entre otras;
 
-XXIX. Minisuper: Establecimiento organizado por departamentos y con presentación de autoservicio, cuya función primordial es expender al público productos de uso y consumo en general y que cuente con licencia para expender bebidas alcohólicas en envase cerrado, para llevar;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXIX. Minisúper: Establecimiento organizado por departamentos y con presentación de autoservicio, cuya función primordial es expender al público productos de uso y consumo en general y que cuente con licencia para expender bebidas alcohólicas en envase cerrado, para llevar;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXIX Bis. Motel: Inmueble donde se proporciona hospedaje y diversos servicios integrados para la comodidad de los huéspedes, que podrán contar con licencia para la venta de bebidas alcohólicas en espacios para restaurante, restaurante bar, servicio a cuarto y servibar;
 
 XXX. Permiso: Documento en que consta la autorización otorgada por el Ejecutivo del Estado a través de la Secretaría, con la anuencia del Presidente Municipal o Primer Concejal, para vender en envase abierto y permitir el consumo de bebidas alcohólicas, en un espacio previamente delimitado y por una temporalidad que no excederá de treinta días naturales;
 
 XXXI. Recurso de reconsideración: Medio de defensa legal, que los particulares afectados podrán interponer en contra de las resoluciones emitidas por la Secretaría o ante la negativa ficta;
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXXI Bis. Productor de bebidas alcohólicas artesanales: Giro que se le permitirá la elaboración, preparación, producción, almacenaje y distribución de bebidas alcohólicas artesanal (sic), a una escala menor en comparación a los giros de distribuidora y fábrica de bebidas alcohólicas.
+
 XXXII. Refrendo: Acto administrativo por la cual la Secretaría autoriza anualmente al licenciatario continuar haciendo uso de la licencia, previo el pago de los derechos correspondientes, vigentes en la Ley de Hacienda del Estado;
 
-XXXIII. Restaurante: El lugar donde se expenden bebidas alcohólicas para su consumo acompañado de alimentos exclusivamente;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XXXIV. Restaurante-Bar: Establecimiento donde se expenden bebidas alcohólicas con alimentos y que cuenta con un área delimitada, en donde pueden expenderse y consumirse bebidas alcohólicas sin alimentos;
+XXXIII. Restaurante: El lugar donde se expenden bebidas alcohólicas para su consumo acompañado de alimentos exclusivamente; acorde a las especificaciones de funcionamiento del establecimiento señalado en el Reglamento de la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXXIV. Restaurante-Bar: Establecimiento donde se expenden bebidas alcohólicas con alimentos y que cuenta con un área delimitada, en donde pueden expenderse y consumirse bebidas alcohólicas sin alimentos; acorde a las especificaciones de funcionamiento del establecimiento señalado en el Reglamento de la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco;
 
 XXXV. Revocación: Acto administrativo por el cual la Secretaría deja sin efecto el acto que dio origen a la expedición de una licencia o permiso;
 
@@ -145,7 +171,7 @@ XXXIX. Ultramarinos: Establecimiento cuya actividad preponderante es la venta de
 
 XL. Venta: Toda actividad de enajenación de bebidas alcohólicas;
 
-XLI. Área de Venta: Superficie expresada en metros cuadrados, de un establecimiento, a la que tiene acceso el público más el área de cajas registradoras; y
+XLI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
 XLII. Tienda de Conveniencia: Establecimiento que cuenta con sistema de autoservicio, con un horario comercial igual o superior a las dieciocho horas, cuya función principal es expender al público productos de uso y consumo, pudiendo accesoriamente vender bebidas alcohólicas en envase cerrado para llevar.
 
@@ -159,9 +185,9 @@ Es facultad del Ejecutivo del Estado por conducto de la Secretaría, interpretar
 
 El Gobernador del Estado, de así considerarlo, propondrá la celebración de un convenio para que los Presidentes Municipales o Primeros Concejales, apliquen y vigilen directamente el cumplimiento de la presente Ley.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-En términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo, cuando lo consideren pertinente la Secretaría y Secretaría de Salud, de manera coordinada practicarán inspecciones en los establecimientos; a fin de vigilar el cumplimiento de la presente ley o de la Ley de Salud del Estado de Tabasco, respectivamente.
+En términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo, cuando lo considere pertinente la Secretaría, practicará inspecciones en los establecimientos, a fin de vigilar el cumplimiento de la presente Ley y su Reglamento, con apoyo en su caso de autoridades Federales, Estatales y Municipales.
 
 ### CAPITULO II. DE LOS ESTABLECIMIENTOS
 
@@ -175,7 +201,9 @@ La venta o distribución de bebidas alcohólicas en envase cerrado, únicamente 
 
 l. La venta de bebidas alcohólicas en envase cerrado, únicamente podrá hacerse en los establecimientos siguientes:
 
-a) Abarrote (sic);
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+a) Abarrotes;
 
 b) Centro Comercial;
 
@@ -291,9 +319,9 @@ I. Un mostrador que esté acondicionado debidamente para preparar y servir las b
 
 II. Los establecimientos con acceso a la vía pública, a excepción de los giros de restaurante bar, deberán cubrir con cualquier medio la visibilidad al interior del mismo;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-III. El original de la licencia de funcionamiento vigente que deberá estar fijado en un lugar visible en el interior del establecimiento, además de indicar en el exterior del mismo, el número de la licencia y el nombre del titular. Durante los plazos que señala la presente ley para los trámites de revalidación de licencia y en caso de inspección, en el acto se deberán mostrar al servidor público, que debidamente acreditado, ejerza funciones de autoridad, los documentos originales del formato de solicitud de revalidación, debidamente presentado ante la Secretaría;
+III. El original de la licencia de funcionamiento vigente que deberá estar fijado en un lugar visible en el interior del establecimiento, además de indicar en el exterior del mismo, el número de la licencia y el nombre del titular. Durante los plazos que señala la presente ley para los trámites de refrendo de licencia y en caso de inspección, en el acto se deberán mostrar al servidor público, que debidamente acreditado, ejerza funciones de autoridad, los documentos originales del formato de solicitud de refrendo, debidamente presentado ante la Secretaría;
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
 
@@ -307,47 +335,29 @@ VI. (DEROGADA, P.O. 1 DE MAYO DE 2010)
 
 Los cabarets, bares, cantinas y cervecerías que cuenten con entradas directas por la vía pública, además de los requisitos señalados en el artículo anterior, deberán tener persianas, tabiques, mamparas u otros medios que impidan la visibilidad hacia el interior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 10.
 
-Cuando los establecimientos pretendan modificar el objeto de su giro a uno diferente del estipulado en la licencia original, el licenciatario deberá solicitar por escrito de conformidad por lo previsto en el Código Fiscal el Estado de Tabasco, la autorización de dicho cambio a la Secretaría. Dicho escrito deberá especificar las causas que motivan dicho cambio de giro; y deberá ser acompañado por los siguientes documentos que conforme a sus disposiciones aplicables, deben emitir los servidores públicos facultados de las instancias siguientes:
+Cuando se pretenda modificar el giro del establecimiento a uno diferente de lo estipulado en la licencia original, el licenciatario deberá solicitar por escrito, la autorización del cambio a la Secretaría, el cual deberá contener los requisitos que exige el Código Fiscal del Estado de Tabasco para tales efectos y especificar las causas que motivan el cambio de giro.
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+Una vez recepcionada la solicitud, la Secretaría tendrá sesenta días hábiles para efectuar el estudio de prefactibilidad, que consistirá en la inspección física del establecimiento para verificar que cumpla con las especificaciones y características señaladas en esta Ley y su Reglamento, así como las restricciones de inmuebles señaladas en el artículo 17 de esta ley, y adicionalmente se efectuará una consulta a los vecinos del lugar que se encuentran dentro de un radio de 200 metros donde se pretenda ubicar el establecimiento.
 
-I. Constancia expedida por la Secretaría de Salud en la que se acredite que el establecimiento reúne los requisitos sanitarios en vigor, para el nuevo giro.
+El resultado de la consulta a los vecinos será analizada y evaluada por la Secretaría al momento de resolver sobre la solicitud del cambio de giro.
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+Cuando el resultado del estudio de prefactibilidad sea positivo, el licenciatario entregará la siguiente documentación:
 
-II. Constancia expedida por la Unidad de Protección Civil del Ayuntamiento, o el área que tenga a cargo dichas funciones, dentro de la administración municipal, en la que se especifique que el inmueble cumple con la normatividad correspondiente para el nuevo giro.
+a) Constancia expedida por la Secretaría de Salud del Estado en la que se acredite que el establecimiento reúne los requisitos sanitarios en vigor, para el nuevo giro;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+b) Constancia expedida por Protección Civil del Estado o Ayuntamiento, en la que se especifique que el inmueble cumple con la normatividad correspondiente para el nuevo giro;
 
-III. Constancia expedida por la autoridad competente del Ayuntamiento en la que se indique que la propuesta de cambio de giro, no representa alteración alguna al medio ambiente y al entorno ecológico.
+c) Anuencia por escrito del Presidente Municipal o Primer Concejal, debidamente fundada y motivada, donde se indique que la autoridad municipal no tiene inconveniente alguno y está de acuerdo con la designación del nuevo giro; y
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+d) Acreditar estar al día en el pago de refrendo de la licencia, mediante la presentación de la licencia original o recibo de pago correspondiente.
 
-IV. La anuencia en los términos similares a lo señalado en el artículo 26, fracción III, de la presente Ley.
+La secretaría revisará la documentación antes señalada, y en caso de existir inconsistencia o faltar algún documento, le notificará al interesado para que en un plazo no mayor a 10 días hábiles solvente las observaciones. Cuando el titular cumpla con todos los requisitos efectuará el pago correspondiente señalado en la Ley de Hacienda del Estado, previa autorización de la Secretaría.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
-
-Si el nuevo giro mercantil cambia de uno que no esté contenido en la fracción VII del artículo 17 de la presente ley, a uno que sí lo esté, éste deberá cumplir con lo señalado en el mismo.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-Los giros de supermercado, casino, club deportivo, desarrollo turístico y recreativo y fábrica de bebidas alcohólicas, se obtendrá únicamente a través de licencia nueva en conformidad al artículo 17. Dichos establecimientos podrán cambiar de giro exclusivamente a restaurante, restaurante-bar, expendio, ultramarino, minisúper, o bar.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-Recibida la solicitud y los anexos a que se refiere este artículo, la Secretaria, dentro de los treinta días hábiles siguientes a la recepción de la solicitud, ordenará una visita de inspección al local, a efecto de comprobar si se reúnen los requisitos establecidos por esta Ley, independientemente de los que señalan las demás leyes aplicables.
-
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
-
-Una vez practicada la inspección, y comprobado que el establecimiento reúne los requisitos de la ley, conforme las disposiciones aplicables de la Secretaría.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-La Secretaría dará una respuesta dentro de los treinta días hábiles siguientes a la fecha en que se haya hecho la inspección.
+Los giros de bar con presentación de espectáculos, casino, club deportivo, desarrollo turístico y recreativo, discoteca y fábrica de bebidas alcohólicas, se obtendrá únicamente a través de licencia nueva de conformidad con el artículo 17 de esta Ley. Dichos establecimientos podrán cambiar de giro exclusivamente a restaurante, restaurante-bar, expendio, ultramarino, minisúper o bar.
 
 ### CAPITULO III. DÍAS Y HORAS DE FUNCIONAMIENTO
 
@@ -367,7 +377,9 @@ II. Los supermercados, y centros comerciales todos los días, de las diez a las 
 
 III. Las discotecas, todos los días, de las veinte a las cuatro horas del día siguiente;
 
-IV. Los bares y bar con presentación de espectáculos, todos los días de las doce a las tres horas del día siguiente;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV. Los bares y bar con presentación de espectáculos, todos los días de las catorce a las tres horas del día siguiente;
 
 V. Los Restaurantes, restaurante-bar, incluyendo los de hoteles y moteles, así como los bares de éstos, todos los días de las nueve a las tres horas del día siguiente;
 
@@ -385,17 +397,21 @@ IX. Los hoteles así como moteles en servicio a cuarto y servibar, todos los dí
 
 X. Los centros de espectáculos y salones de baile en los días y horarios determinados por las autoridades estatales y municipales competente, según corresponda;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XI. Los minisúper y tiendas de conveniencia todos los días;
+XI. Los minisúper y tiendas de conveniencia todos los días, de las diez a las veinticuatro horas;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XII. Casinos, Club deportivo, Desarrollo Turísticos y recreativo, todos los días, de las diez a las tres horas del día siguiente; y
+XII. Casinos, Club deportivo, Desarrollo Turísticos (sic) y recreativo, todos los días, de las diez a las tres horas del día siguiente;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XIII. Las fábricas de bebidas alcohólicas, todos los días, de ocho a veinte horas.
+XIII. Las fábricas de bebidas alcohólicas, todos los días, de ocho a veinte horas; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XIV. Productor de bebidas alcohólicas artesanales de lunes a domingo, de las diez a las dieciocho horas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -413,7 +429,9 @@ Los establecimientos a los que se refiere la fracción II, del artículo 11 podr
 
 El licenciatario que cuente con establecimiento con giro de minisúper o tienda de conveniencia, podrá solicitar autorización anual para venta de bebidas alcohólicas durante las 24 horas, cubriendo los derechos correspondientes que señale para tal efecto la Ley de Hacienda del Estado y los siguientes requisitos:
 
-I. Estudio de prefactibilidad que realizará la Secretaría para verificar que el solicitante cumpla con los requisitos de Ley;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+I. Estudio de prefactibilidad que realizará la Secretaría dentro de los sesenta días hábiles a partir de la recepción de la solicitud, para verificar que el solicitante cumpla con los requisitos de esta Ley;
 
 II. No haber sido infraccionado en los últimos dos años; y
 
@@ -441,71 +459,53 @@ La licencia tendrá una vigencia de un año, la cual deberá ser refrendada por 
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 17.
 
-Los interesados para obtener la licencia deberán reunir los requisitos siguientes:
+Los interesados para obtener una licencia nueva, previamente deberán solicitar el estudio de prefactibilidad anexando identificación con fotografía de quien pretenda ser titular o representante legal de éste, croquis de la ubicación del establecimiento propuesto, fotografías del interior y del exterior del local.
 
-I. Solicitud por escrito, dirigida al titular de la Secretaría, a la que se deberá acompañar:
+Una vez recepcionada la solicitud, la Secretaría tendrá noventa días hábiles para efectuar el estudio de prefactibilidad, de conformidad al procedimiento señalado en el reglamento de esta ley, además de considerar las siguientes restricciones: Tratándose de abarrotes, expendios, minisúper, y ultramarinos, deberán estar ubicados, cuando menos, fuera de un radio de 300 metros de escuelas, parques, centros deportivos, edificios públicos e iglesias; en el caso de bares, discotecas y bar con presentación de espectáculos, la distancia será de 700 metros, respecto de los inmuebles mencionados;
 
-a) Original o copia certificada de los siguientes documentos: acta de nacimiento del interesado, clave de su Registro Federal de Contribuyentes, o en su caso, solicitud de inscripción y Clave Única de Registro de Población;
+Cuando el resultado del estudio de prefactibilidad sea positivo, el interesado entregará la solicitud por escrito para la adquisición de licencia nueva a la autoridad competente, a la que deberá acompañar:
 
-b) Tratándose de personas jurídicas colectivas, copia certificada de la escritura constitutiva, o de sus modificaciones en las que se contengan las facultades del representante legal, o en su caso, poder general para actos de administración;
+a) Original o copia certificada de los siguientes documentos: acta de nacimiento del interesado, clave de Registro Federal de Contribuyentes y Clave Única de Registro de Población;
 
-c) En caso de personas extranjeras deberán acreditar su legal estancia en el país, así como la autorización otorgada por la Secretaria de Gobernación para poder trabajar y ejercer actos de comercio;
+b) Tratándose de personas jurídicas colectivas, copia certificada del acta constitutiva incluyendo sus modificaciones, en las que se contengan las facultades del representante legal, o en su caso, poder general para actos de administración;
+
+c) En caso de personas extranjeras deberán acreditar su legal estancia en el país, así como la autorización otorgada por la Secretaría de Gobernación para poder trabajar y ejercer actos de comercio;
 
 d) Plano expedido por profesional del ramo, debidamente acreditado, en donde se especifique en forma clara y precisa la ubicación y distribución del local en el que se pretenda establecer el giro;
 
-e) Anuencia por escrito del Presidente Municipal o Primer Concejal, debidamente fundada y motivada, expedida previo estudio del desarrollo urbano y del plano regulador del municipio de que se trate, a la cual deberá anexarse la constancia expedida y firmada por el Director de Obras Públicas Municipal, en el que se establezca que el proyecto se ajusta a las disposiciones reglamentarias en la materia;
+e) Anuencia por escrito del Presidente Municipal o Primer Concejal, debidamente fundada y motivada, expedida previo estudio del desarrollo urbano y del plano regulador del municipio de que se trate;
 
-f) Constancia de la inversión realizada o proyecto de la inversión a realizar, y del número de empleos que se pretenden generar;
+f) Constancia del uso de suelo emitida por el H. Ayuntamiento;
 
 g) Constancia expedida por la Secretaría de Salud en la que se acredite que el local reúne los requisitos sanitarios en vigor;
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+h) Constancia expedida por la Coordinación de Protección Civil del Estado de Tabasco o por las áreas que tenga (sic) a su cargo dichas funciones en el Municipio, donde señale que el local cumple con la normatividad de Ley;
 
-h) Constancia expedida por el servidor público facultado de la Unidad Municipal de Protección Civil, o las áreas que tenga a su cargo dichas funciones dentro de este gobierno; en la que se especifique que el inmueble cumple con la normatividad correspondiente, incluyendo lo relativo a las facilidades para discapacitados; y
+i) Manifestar por escrito, bajo protesta de decir verdad, que en el establecimiento no se han suscitados hechos de sangre, conductas delictivas en los últimos cinco años;
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+j) Manifestar por escrito, bajo protesta de decir verdad, que el establecimiento no está sujeto a una averiguación previa ante el Ministerio Público o finalizada en un periodo de cinco años;
 
-i) Constancia expedida por el servidor público municipal legitimado de la Dirección de Protección Ambiental y Desarrollo Sustentable o de la unidad administrativa que realice esas funciones, en la que se indique que la propuesta de cambio de giro, no representa alteración alguna al medio ambiente y al entorno ecológico.
+k) Manifestar por escrito, bajo protesta de decir verdad, de quien pretenda ser titular o representante legal (sic) no tiene carácter de servidor público;
 
-II. Ser mayor de edad y estar en pleno goce y ejercicio de sus derechos; y en caso de ser una persona jurídica colectiva, estar legalmente constituida conforme a las leyes de los Estados Unidos Mexicanos, tratándose de sociedades extranjeras deberán acreditar que se constituyeron conforme a las leyes de su País de origen;
+l) Manifestar por escrito, bajo protesta de decir verdad, de quien pretenda ser titular o representante legal (sic) no ha sido condenado por delitos fiscales, sexuales, contra la vida, contra la salud o los considerados como grave (sic) por las leyes aplicables, excepto los cometidos por culpa;
 
-III. Acreditar estar al día en el pago de sus contribuciones fiscales, mediante la presentación de la declaración anual del ejercicio inmediato anterior de que se trate;
+m) Manifestar por escrito, bajo protesta de decir verdad, de quien pretenda ser titular o representante legal, que en los cinco años anteriores a la fecha de su solicitud no ha sido sancionado con la revocación de licencia;
 
-IV. No tener el carácter de servidor público;
+n) Acreditar estar al día en el pago de sus contribuciones fiscales, mediante la presentación de la declaración anual del ejercicio inmediato anterior de que se trate, ante el Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público del Gobierno Federal. Así como la carta de no adeudo ante la Subsecretaria de Ingresos.
 
-V. No haber sido condenado, por delitos fiscales, sexuales, contra la vida, la salud, o los considerados como graves por las leyes aplicables, excepto los cometidos por culpa;
+La secretaría revisará la documentación antes señalada, y en caso de existir inconsistencia o faltar algún documento, le notificará al interesado para que en un plazo no mayor a 15 días hábiles solvente las observaciones. Cuando el titular cumpla con todos los requisitos efectuará el pago correspondiente señalado en la Ley de Hacienda del Estado, previa autorización de la Secretaría.
 
-VI. En los cinco años anteriores a la fecha de su solicitud no haber sido sancionado con la revocación de una licencia;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+###### Artículo 17 Bis.
 
-VII. Tratándose de abarrotes, tiendas de conveniencia, bares, cantinas, cervecerías, discotecas, expendios, minisúper y ultramarinos, deberán estar ubicados, cuando menos, fuera de un radio de trescientos metros de planteles educativos, templos religiosos, edificios públicos o instalaciones deportivas. En el caso de los cabaret y bar con presentación de espectáculos, la distancia será de 500 metros, respecto de los inmuebles mencionados;
+Los interesados en obtener una licencia nueva, permiso temporal, cambio de giro o cambio de domicilio deberán presentar por escrito al Ayuntamiento, la solicitud de anuencia municipal con el fin de cumplir con el artículo 17 de esta Ley.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
-
-VII-Bis. En el caso de las tiendas de conveniencia, estas deberán contar con cajones de estacionamiento, área de venta de 60 metros cuadrados como mínimo y cuando menos con 5 giros comerciales como son: artículos básicos, frutas, bebidas no alcohólicas, carnes frías, leche y sus derivados, conservas, ferreterías, tlapalería, publicaciones impresas, material de limpieza y otros, independientemente del destinado a bebidas alcohólicas; y deberán contar permanentemente al menos con un 70% del área del establecimiento con productos diferentes a las bebidas alcohólicas. Cuando éstas cuenten con neveras y/o enfriadores para bebidas alcohólicas, las mismas deberán ser a lo sumo en la misma cantidad que requieran para refrigerar para productos perecederos y bebidas no alcohólicas; y
-
-VIII. Que se acredite mediante constancia expedida por la autoridad competente en su jurisdicción, que el lugar en el que se pretenda instalar el establecimiento, sea compatible con los usos de suelos, de conformidad a las disposiciones de desarrollo urbano vigentes.
-
-Recibida la solicitud y los anexos a que se refiere este artículo, la Secretaría, dentro de los diez días hábiles siguientes a la recepción de la solicitud, ordenará una visita de inspección al local, a efecto de comprobar si se reúnen los requisitos establecidos por esta ley, independientemente, de los que señalan las demás leyes aplicables.
-
-Una vez practicada la inspección, y comprobado que el establecimiento reúne los requisitos de ley, la Secretaría, en un término no mayor a sesenta días naturales, resolverá si es de otorgarse o no la licencia correspondiente.
-
-En caso de que el solicitante no obtuviere respuesta de la Secretaría, transcurrido el plazo a que se refiere el párrafo anterior, se entenderá que la resolución es en sentido negativo.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-En caso de que la Secretaría otorgase la licencia, el solicitante deberá hacer el pago de los derechos correspondientes establecidos en la Ley de Hacienda del Estado de Tabasco de acuerdo al Giro solicitado.
-
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
-
-###### Artículo 17
-
-Bis. Los interesados en obtener una licencia nueva, permiso temporal, cambio de giro mercantil o cambio de domicilio deberán presentar por escrito al Ayuntamiento, la solicitud de anuencia municipal con el fin de cumplir con el artículo 17 inciso e).
-
-El Ayuntamiento tendrá un plazo de 15 días hábiles para resolver y otorgar por escrito, la anuencia municipal o la negación de la misma.
+El Ayuntamiento tendrá un plazo de 45 días naturales para resolver y otorgar por escrito, la anuencia municipal o la negación de la misma.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -525,11 +525,17 @@ Permiso temporal en ejidos, ranchería, poblados, villas o localidades pequeñas
 
 Permiso temporal para stand en ferias, por día: Este permiso facultará al permisionario vender y permitir el consumo de bebidas alcohólicas en el interior de un local acondicionado, según el espacio del stand:
 
-a) De 3 m2 hasta 25 m2
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-b) De 26 m2 a 50 m2
+a) De 5 m2 hasta 50 m2
 
-c) De 51 m2 en adelante
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+b) De 51 m2a (sic) 100 m2
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+c) De 101 m2 en adelante
 
 Permiso temporal en cabeceras municipales, por día: Este permiso facultará al permisionario vender y permitir el consumo de bebidas alcohólicas en el Interior de un local acondicionado.
 
@@ -549,6 +555,14 @@ La licencia es propiedad del Estado, y se concesionará a quien lo solicite y cu
 
 La licencia será personal e inembargable.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+El licenciatario podrá transferir a un tercero la titularidad, debiendo solicitarlo por escrito a la Secretaría cumpliendo con los requisitos del artículo 19 del Código Fiscal del Estado de Tabasco, siempre y cuando no exista adeudo o trámite pendiente relativo a las obligaciones emanadas de la licencia.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Una vez autorizado por la Secretaría, el licenciatario deberá pagar el derecho correspondiente según lo previsto en la Ley de Hacienda del Estado de Tabasco.
+
 Cuando el licenciatario sea persona física, deberá señalar expresamente ante la Secretaría a una persona física, quien será titular de un derecho preferente para que se le otorgue la concesión sobre la licencia, previo al pago del derecho establecido en el artículo 67, fracción XI de la Ley de Hacienda del Estado de Tabasco.
 
 La Secretaría autorizará el cambio, previo pago de los derechos, siempre y cuando el beneficiario y el establecimiento cumplan con los requisitos que establece esta Ley. En ningún caso podrá designarse como beneficiario a una persona moral.
@@ -557,29 +571,11 @@ Para los efectos de este artículo, el beneficiario deberá informar por escrito
 
 Para el caso de que el Titular de la licencia no designe beneficiario, en caso de su fallecimiento, perderá el derecho que se establece en el presente artículo.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-La Secretaría, en coordinación con los municipios, para efecto de control, llevarán de manera conjunta un libro de registro autorizado por el titular de la Secretaría, de los establecimientos que cuenten con licencia o permiso para la venta, distribución y consumo de bebidas alcohólicas, el cual contendrá:
-
-I. Nombre del propietario;
-
-II. Domicilio, giro, nombre o razón social del establecimiento;
-
-III. Fecha de expedición del permiso o licencia, así como del refrendo y revalidación de ésta última;
-
-IV. Las inspecciones y sanciones que se le hubieren impuesto, indicando fecha, monto y concepto;
-
-V. Registro Federal de Contribuyentes;
-
-VI. Registro de los incidentes graves o importantes que se hayan presentado en el local;
-
-VII. Fecha del cumplimiento del pago de las sanciones impuestas, y
-
-VIII. La declaración a que hace mención el penúltimo párrafo del artículo anterior.
-
-Se llevarán registros acumulados en caso de que un mismo licenciatario detente más de una licencia, a efectos de prevenir prácticas monopólicas.
-
-Asimismo, en caso de que a un licenciatario se le haya revocado la licencia se archivará el expediente respectivo hasta por un término de cinco años a efecto de que la Secretaría tenga control y evitar así que se lleven a cabo prácticas fraudulentas.
+Cuando el establecimiento no cumpla con lo estipulado en esta Ley y su Reglamento se llevará a efecto la suspensión preventiva de la actividad comercial de bebidas alcohólicas.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -595,9 +591,11 @@ La Secretaría, para el otorgamiento del refrendo considerará las sanciones imp
 
 Si el licenciatario no obtuviere respuesta de la Secretaría, transcurrido el plazo de sesenta días naturales a que se refiere el artículo anterior, sobre el refrendo de la licencia, se entenderá que la resolución es en sentido negativo y a partir de ese plazo, contará el correspondiente para que, de así considerarlo, interponga los medios de defensa que estime pertinentes.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 22.
 
-En el tiempo durante el cual se encuentre pendiente de emitirse el fallo que resuelva el medio de defensa interpuesto, el establecimiento podrá seguir operando si así lo desea el licenciatario o promovente.
+En el tiempo durante el cual se encuentre pendiente de emitirse el fallo que resuelva el medio de defensa interpuesto, el establecimiento no podrá seguir operando, hasta que concluya el proceso en cuestión.
 
 ### CAPITULO V. DEL PROCEDIMIENTO DE INSPECCIÓN
 
@@ -605,7 +603,9 @@ En el tiempo durante el cual se encuentre pendiente de emitirse el fallo que res
 
 Para los efectos de vigilar la estricta observancia de los lineamientos establecidos en la presente Ley, la Secretaría contará con un equipo de inspectores los cuales para practicar visitas, deberán contar con orden escrita que contendrá los siguientes requisitos:
 
-a) Nombre completo del inspector o inspectores;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+a) Nombre completo de la persona que funge como inspector o inspectores;
 
 b) Nombre de la institución que expide la orden de inspección;
 
@@ -635,7 +635,9 @@ II. Identificación de la persona con quien se entiende la visita;
 
 III. Tratándose de representantes legales, documento notarial original o certificado con el que se acredite la personalidad;
 
-IV. Comprobante del refrendo anual o de la revalidación de las licencias en su caso, y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV. Comprobante del refrendo de la licencia, y
 
 V. Todos los elementos y datos necesarios que se requieran para comprobar el cumplimiento de las disposiciones de la ley, así como los que se señalan en la licencia respectiva.
 
@@ -667,15 +669,35 @@ En caso de que al practicarse una inspección, el establecimiento de que se trat
 
 ### CAPITULO VI. CAMBIO DE DOMICILIO DE LOS ESTABLECIMIENTOS
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 26.
 
-La Secretaría podrá autorizar el cambio de domicilio de los establecimientos, cuando se reúnan los requisitos siguientes:
+Cuando se pretenda modificar el domicilio del establecimiento a uno diferente de lo autorizado en la licencia original, el licenciatario deberá solicitar por escrito, la autorización del cambio a la Secretaría, el cual deberá contener los requisitos que exige el Código Fiscal del Estado de Tabasco, para tales efectos y especificar las causas que motivan el cambio de domicilio.
 
-I. Que el interesado presente su solicitud por escrito dirigida a la Secretaría, cuando menos con treinta días naturales de anticipación a la fecha que pretenda realizar el cambio de domicilio;
+Una vez recepcionada la solicitud, la Secretaría tendrá sesenta días hábiles para efectuar el estudio de Prefactibilidad, que consistirá en la inspección física del establecimiento para verificar que cumpla con las especificaciones y características señaladas en esta Ley y Reglamento, así como las restricciones de inmuebles señaladas en el artículo 17 de esta ley, y adicionalmente se efectuará una consulta a los vecinos del lugar que se encuentran dentro de un radio de 400 metros donde se pretenda ubicar el establecimiento.
 
-II. Acredite que el nuevo local reúna los requisitos establecidos en el artículo 17 de la presente Ley, y
+El resultado de la consulta a los vecinos será analizada y evaluada por la Secretaría al momento de resolver sobre la solicitud del cambio de domicilio.
 
-III. La anuencia por escrito del Presidente Municipal, Primer Concejal, debidamente fundada y motivada, previo estudio del desarrollo urbano y del plano regulador del municipio de que se trate.
+Cuando el resultado del estudio de prefactibilidad sea positivo, el licenciatario entregará la siguiente documentación:
+
+a) Plano expedido por profesional del ramo, debidamente acreditado, en donde se especifique en forma clara y precisa la ubicación y distribución del local en el que se pretenda establecer el giro;
+
+b) Anuencia por escrito del Presidente Municipal o Primer Concejal, debidamente fundada y motivada, expedida previo estudio del desarrollo urbano y del plano regulador del municipio de que se trate;
+
+c) Constancia del uso de suelo emitido por el H. Ayuntamiento;
+
+d) Constancia expedida por la Secretaría de Salud en la que se acredite que el local reúne los requisitos sanitarios en vigor;
+
+e) Constancia expedida por la Coordinación de Protección Civil del Estado de Tabasco o por las áreas que tenga a su cargo dichas funciones en el Municipio, donde señale que el local cumple con la normatividad de Ley;
+
+f) Manifestar por escrito, bajo protesta de decir verdad, que en el establecimiento no se han suscitado hechos de sangre, ni conductas delictivas en los últimos cinco años;
+
+g) Manifestar por escrito, bajo protesta de decir verdad, que el establecimiento no está sujeto a una averiguación previa ante el Ministerio Público o finalizada en un periodo de cinco años; y
+
+h) Acreditar estar al día en el pago de refrendo de la licencia, mediante la presentación de la licencia original o recibo de pago correspondiente.
+
+La secretaría revisará la documentación antes señalada, y en caso de existir inconsistencia o faltar algún documento, le notificará al interesado para que en un plazo no mayor a 10 días hábiles solvente las observaciones. Cuando el titular cumpla con todos los requisitos efectuará el pago correspondiente señalado en la Ley de Hacienda del Estado, previa autorización de la Secretaría.
 
 ###### Artículo 27.
 
@@ -693,13 +715,29 @@ I. Tratándose de discotecas, cabarets, bar, bar con presentación de espectácu
 
 II. En todos los establecimientos en los que conforme a esta Ley se expendan bebidas alcohólicas, se deberán fijar letreros visibles en los que se exprese con claridad que se prohíbe su venta a menores de edad y a personas que no estén en pleno goce de sus facultades mentales;
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+En todos los establecimientos en los que conforme a esta Ley se expendan bebidas alcohólicas, se deberán fijar letreros visibles alusivos del conductor designado, tanto en el interior como en el exterior;
+
 III. Destinar el local al giro autorizado;
 
 IV. Presentar el original de la licencia de funcionamiento para su refrendo y revalidación;
 
-V. Facilitar el acceso a la documentación y al interior de los establecimientos a los inspectores, debidamente acreditados, para el ejercicio de sus funciones, y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-VI. Las demás que le señale la presente ley.
+V. Facilitar el acceso a la documentación y al interior de los establecimientos a los inspectores, debidamente acreditados, para el ejercicio de sus funciones;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VI. Tratándose de Restaurante y Restaurante Bar la actividad principal es la comercialización de alimentos preparados;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VII. El licenciatario deberá solicitar por escrito el cambio de denominación comercial de su establecimiento cuando menos treinta días naturales al cambio del mismo; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VIII. Las demás que le señale la presente ley.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -717,19 +755,29 @@ El licenciatario solicitará el cierre temporal o definitivo con quince días de
 
 Los menores de edad y las personas que no estén en pleno goce de sus facultades mentales, bajo ninguna circunstancia, podrán administrar los establecimientos regulados por esta Ley.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Ningún giro podrá vender a domicilio, como casas habitación, oficinas, parques, o centros deportivos o cualquier otro destino fuera del domicilio señalado en su licencia.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Salvo la Distribuidora podrá distribuir bebidas alcohólicas exclusivamente a establecimientos autorizados y que cuenten con licencia o permiso temporales en el horario establecido por esta Ley y Reglamento.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 31.
 
-Queda estrictamente prohibida la venta y consumo de bebidas alcohólicas a menores de edad, a las personas que no estén en pleno goce de sus facultades mentales, a los que se encuentren en notorio estado de ebriedad, o bajo los efectos psicotrópicos, a personas armadas, así como a los elementos del ejército, armada y policía, que se presenten uniformados o en servicio, inspectores de los Ayuntamientos y de la Secretaría, en el desempeño de sus funciones.
+Queda estrictamente prohibida la venta y consumo de bebidas alcohólicas a menores de edad, a las personas que no estén en pleno goce de sus facultades mentales, a los que se encuentren en notorio estado de ebriedad, o bajo los efectos psicotrópicos, a personas armadas, así como a los elementos del ejército, armada y policía.
 
-> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2008)</small>
-
-En el caso de los menores de edad, los padres, tutores o custodios podrán interponer denuncia ante la autoridad correspondiente o el Ministerio Público para que estas, soliciten el inicio del Procedimiento para la Aplicación de Sanciones, Revocación de la Licencia y Clausura establecido en los Capítulos IX y X de esta Ley, sin perjuicio de la aplicación de las sanciones penales, civiles o de otra naturaleza.
+En el caso de los menores de edad, los padres, tutores o custodios podrán interponer denuncia ante la autoridad correspondiente o el Fiscal del Ministerio Público para que estas, soliciten la Reubicación, el inicio del Procedimiento Administrativo de Revocación de la Licencia y Clausura sin perjuicio de la aplicación de las sanciones penales, civiles o de otra naturaleza.
 
 ###### Artículo 32.
 
 En los términos de la presente Ley, queda estrictamente prohibido el otorgamiento de licencia para operar en inmueble dedicado a casa-habitación.
 
-Por lo anterior las personas que expendan bebidas alcohólicas en casa-habitación, sin perjuicio de las sanciones administrativas a que haya lugar, serán responsables penalmente en los términos del Código Penal vigente.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Por lo anterior las personas que expendan bebidas alcohólicas en casa-habitación, sin perjuicio de las sanciones administrativas a que haya lugar, serán responsables en los términos del Código Penal vigente.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -737,7 +785,9 @@ Por lo anterior las personas que expendan bebidas alcohólicas en casa-habitaci�
 
 No podrán coexistir dos licencias de funcionamiento en el mismo domicilio.
 
-Sólo se permitirá que los giros de Restaurante y Restaurant Bar, puedan tener en el mismo domicilio una licencia de Ultramarinos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Sólo se permitirá que los giros de Restaurante y Restaurante Bar, puedan tener en el mismo domicilio una licencia de Ultramarinos o minisúper.
 
 ###### Artículo 33.
 
@@ -747,9 +797,17 @@ I. Las barras libres;
 
 II. La distribución o venta de bebidas alcohólicas que estén adulteradas o contaminadas, en los términos de las disposiciones aplicables;
 
-III. La comercialización de bebidas alcohólicas para llevar en los establecimientos mercantiles, que cuenten con licencias para expender bebidas alcohólicas en envase abierto y al copeo, y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-IV. La presentación de espectáculos de exhibicionismo corporal, en restaurante y restaurante- bar.
+III. La comercialización de bebidas alcohólicas para llevar en los establecimientos mercantiles, que cuenten con licencias para expender bebidas alcohólicas en envase abierto y al copeo;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV. La presentación de espectáculos de exhibicionismo corporal, en cualquiera de los giros señalados en el artículo (sic) 5 y 6 a excepción del Bar con Presentación de Espectáculos; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+V. La publicidad exterior que contenga imágenes de personas semidesnudas, desnudas o en ropa interior, así como imágenes obscenas o vulgares que contravengan las disposiciones legales que afecten los derechos de terceros, y dañen la buena moral e integridad de la sociedad Tabasqueña.
 
 ###### Artículo 34.
 
@@ -759,9 +817,11 @@ Trimestralmente, informaran a la Secretaría la cantidad de bebidas alcohólicas
 
 La Secretaría en el ámbito de su competencia podrá cotejar estos informes para verificar el cumplimiento de la Ley.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 35.
 
-Las discotecas podrán funcionar con admisión de menores de edad en horario de dieciséis a veinte horas, siempre y cuando, no haya venta y consumo de bebidas alcohólicas, y se cuente con el permiso correspondiente.
+Los salones de bailes podrán funcionar con admisión de menores de edad en horario de dieciséis a veinticuatro horas, siempre y cuando, no haya venta y consumo de bebidas alcohólicas, y se cuente con el permiso correspondiente.
 
 ###### Artículo 36.
 
@@ -773,13 +833,15 @@ Las prohibiciones contempladas en el presente capítulo, deberán ser observadas
 
 Las infracciones a esta Ley, se sancionarán:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-I. Con multa de cien a doscientos días de salario mínimo:
+I. Con multa de cien a doscientos días de salario mínimo general vigente:
 
-a) Por no mostrar en lugar visible, la licencia y en su caso el permiso original respectivo, salvo que la primera se encuentre en revalidación, lo cual podrá acreditarse con el acuse de recibo, y
+a) Por no mostrar en lugar visible, la licencia vigente y en su caso el permiso original respectivo, salvo que la primera se encuentre en refrendo, lo cual podrá acreditarse con el acuse de recibo;
 
-b) A quienes, estando obligados a ello, no fijen letreros visibles en el exterior de sus establecimientos, dando a conocer la prohibición de la venta o entrada a menores de edad o personas que no estén en pleno goce de sus facultades mentales.
+b) A quienes, estando obligados a ello, no fijen letreros visibles en el exterior de sus establecimientos, dando a conocer la prohibición de la venta o entrada a menores de edad o personas que no estén en pleno goce de sus facultades mentales; y
+
+c) Por no contar con señalamientos alusivos a la campaña de conductor designado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -795,9 +857,21 @@ d) A los que no cumplan con los requisitos establecidos en el artículo 8 de est
 
 e) A los que permitan que menores de edad o personas que no estén en pleno goce de sus facultades mentales administren establecimientos a los que se refiere esta Ley;
 
-f) A las distribuidoras que vendan o distribuyan bebidas alcohólicas a temperatura distinta del ambiente, y
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-g) A quienes oferten a los consumidores barras libres en los establecimientos señalados en la presente ley.
+f) A las distribuidoras que vendan o distribuyan bebidas alcohólicas a temperatura distinta del ambiente;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+g) A quienes oferten a los consumidores barras libres en los establecimientos señalados en la presente ley;
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+h) A los que incumplan con lo señalado en el artículo 30 de la presente Ley; y
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+i) A los que incumplan con lo señalado en el artículo 33 de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -815,9 +889,9 @@ e) A las distribuidoras que incumplan lo señalado en el artículo 34 de la pres
 
 f) A los licenciatarios o permisionarios que permitan, auspicien, induzcan, ordenen o realicen la distribución o venta de bebidas alcohólicas fuera de los horarios establecidos en la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-IV. Con multa de mil a dos mil días de salario mínimo vigente en la entidad, y en caso de reincidencia, la revocación de la licencia o permiso en los siguientes casos:
+IV. Con multa de mil a dos mil días de salario mínimo vigente en la entidad y clausura hasta por un plazo de 90 días, y en caso de reincidencia, la revocación de la licencia o permiso, en los siguientes casos:
 
 a) A los que en cualquier forma vendan, cedan, graven, arrienden, asocien, donen u otorguen en comodato o cualquier otra clase de convenios, la licencia o permiso en contravención a lo dispuesto por esta Ley;
 
@@ -841,9 +915,13 @@ g) Cuando el establecimiento esté funcionando fuera del giro autorizado.
 
 También son causas de revocación de la licencia las siguientes:
 
-I. Cuando así lo requiera el orden público, la moral o las buenas costumbres, o bien exista una causa de interés general que a juicio de la autoridad lo justifique;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-II. Cuando el crecimiento de la población así lo exija, considerando el desarrollo urbano de la localidad de que se trate;
+I. Cuando así lo requiera el orden público, la moral o las buenas costumbres, o bien exista una causa de interés general que a juicio de la autoridad competente lo solicite y justifique;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. Cuando el crecimiento de la población así lo exija, considerando el desarrollo urbano de la localidad de que se trate, siempre y cuando exista una solicitud fundada y motivada por una autoridad competente;
 
 III. Ocurran en el interior del establecimiento hechos o actos que alteren el orden público, la moral, las buenas costumbres, el medio ambiente; que pongan en peligro la integridad física, la salud o se verifique un homicidio imputable al licenciatario;
 
@@ -853,7 +931,9 @@ V. Cuando mediante la correspondiente acta de verificación, se compruebe que el
 
 VI. La violación que de cualquier manera se haga al artículo 18, párrafo primero, de la presente Ley;
 
-VII. Cometer el licenciatario tres infracciones en un período de sesenta días naturales, o cinco acumuladas en un año;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VII. Cuando la licencia acumule dos infracciones en un período de noventa días naturales, o cuatro acumuladas en un año calendario;
 
 VIII. En los casos en que se compruebe que el establecimiento ha dejado de reunir los requisitos que exige esta Ley, o se incurra por parte de los licenciatarios en faltas u omisiones graves contemplados en la misma;
 
@@ -865,7 +945,11 @@ XI. Vender o permitir el consumo de bebidas alcohólicas a menores de edad y per
 
 XII. No efectuar el refrendo anual de la licencia dentro del término de ley.
 
-### CAPITULO X. DEL PROCEDIMIENTO PARA LA APLICACIÓN DE SANCIONES, REVOCACIÓN DE LA LICENCIA Y CLAUSURA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+### CAPITULO X
+
+DEL PROCEDIMIENTO PARA LA APLICACIÓN DE SANCIONES, REUBICACIÓN, REGULARIZACIÓN Y REVOCACIÓN DE LA LICENCIA.
 
 ###### Artículo 39.
 
@@ -875,7 +959,9 @@ I. La Secretaría iniciará de oficio o a petición de la autoridad que interven
 
 II. Una vez iniciado el procedimiento, la Secretaría comunicara por escrito al licenciatario o permisionario los hechos constitutivos de la infracción, para que dentro del término de diez días hábiles, que empezarán a contar a partir del día siguiente de la notificación, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes, mismas que deberán desahogarse en un plazo no mayor a 30 días a partir de la fecha en que se notifique al interesado su admisión;
 
-III. Transcurrido el término a que se refiere la fracción anterior o habiéndose ofrecidas pruebas que no ameriten termino para su desahogo, la Secretaría dentro de los quince días hábiles siguientes dictará resolución;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+III. Transcurrido el término al que se refiere la fracción anterior o habiéndose ofrecidas (sic) pruebas que no ameriten término para su desahogo, la Secretaría dentro de treinta días hábiles siguiente (sic) dictará resolución;
 
 IV. La resolución deberá estar debidamente fundada y motivada, debiendo considerar los argumentos y pruebas que en su caso se hubieren hecho valer;
 
@@ -903,9 +989,11 @@ La imposición de las sanciones administrativas establecidas en esta Ley, se apl
 
 Son responsables de las infracciones que se cometan a la presente ley, los titulares de la licencia o permiso, independientemente de quién o quiénes cometan la infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 44.
 
-El pago de las sanciones económicas impuestas a los licenciatarios o permisionarios por violaciones a la ley, se hará dentro del término de quince días hábiles contados a partir de que fue notificada dicha sanción.
+El pago de las sanciones económicas impuestas a los licenciatarios o permisionarios por violaciones a la ley, se hará dentro del término de treinta días hábiles contados a partir de que fue notificada dicha sanción.
 
 El pago de las sanciones se hará ante las ventanillas correspondientes de la Secretaría, misma que expedirá el recibo impreso de la caja registradora, para amparar el cumplimiento del infractor.
 
@@ -915,17 +1003,19 @@ Sin estos requisitos no se tendrá por realizado el pago.
 
 La Secretaría, para hacer efectivo el cobro de las sanciones económicas impuestas por violaciones a la presente Ley, aplicará lo relativo al Procedimiento Administrativo de Ejecución señalado en el Código Fiscal del Estado de Tabasco.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 46.
 
-Son autoridades que auxiliarán en el cumplimiento de la presente Ley: Los Presidentes Municipales o Primeros Concejales en su caso, la Secretaría de Seguridad Pública, la Secretaría de Salud y la Procuraduría General de Justicia.
+Son autoridades que auxiliarán el cumplimiento de la presente Ley: Los Presidentes Municipales o Primeros Concejales en su caso, la Secretaría de Seguridad Pública, la Secretaria de Salud, la Fiscalía General del Estado y demás autoridades competentes en la materia.
 
 ### CAPITULO XI. DEL RECURSO DE RECONSIDERACIÓN
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 47.
 
-El recurso de reconsideración se interpondrá por escrito ante la propia Secretaría, dentro de los cinco días hábiles siguientes a la notificación de la resolución cuyos efectos se impugne. Cuando opere la negativa ficta el plazo para interponer dicho recurso será de diez días hábiles y empezará a correr a partir del día siguiente al en que opere.
-
-El recurso tiene por objeto revocar, modificar o confirmar la resolución impugnada.
+El recurso de reconsideración se interpondrá por escrito ante la Secretaría, dentro de los cinco días hábiles siguientes a la notificación de la resolución cuyos efectos se impugne (sic). Cuando opere la negativa ficta el plazo para interponer dicho recurso será de diez días hábiles y empezará a correr a partir del día siguiente al en que opere.
 
 ###### Artículo 48.
 
@@ -997,7 +1087,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE FEBRERO DE 2008.
 
@@ -1028,3 +1118,29 @@ SEXTO.- Derivado de la reforma al artículo 2 de esta Ley, los establecimientos 
 SÉPTIMO.- En caso de que los Licenciatarios no cumplan lo señalado en el artículo transitorio cuarto y sexto en el tiempo indicado, su solicitud de cambio de giro se acatará a lo establecido en el artículo 10 de esta Ley y en el artículo 67 fracción VIII de la Ley de Hacienda del Estado.
 
 OCTAVO.- Entrado en vigor el presente decreto, en un plazo de 90 días hábiles, el Titular del Poder Ejecutivo deberá expedir las reformas del Reglamento de la Ley.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas (sic) disposiciones jurídicas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos relativos a la expedición o revocación de licencias, así como la imposición de sanciones derivadas de infracciones, que a la entrada en vigor de la presente ley se encuentren en trámite, continuarán substanciándose conforme a la ley anterior hasta el dictado de la resolución correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Los licenciatarios a la entrada en vigor del presente decreto deberán cambiar el giro de Hotel o Motel en sustitución del giro derogado Hoteles y Moteles solicitando por escrito, dentro del término de 90 días naturales a la Secretaría, el cambio respectivo, sin pago del derecho correspondiente. En este caso deberán acompañar a su solicitud, el original de la licencia que contiene los derechos que habrán de otorgarse a favor de la persona física o moral de que se trate.
+
+###### ARTÍCULO QUINTO.
+
+Los licenciatarios que tienen actividad como Hotel o Motel, y cuenten con algunas de estas licencias de los giros de Salón de baile, Bar, Restaurante, Restaurante Bar o Discoteca, deberán cambiar al giro de Hotel o Motel que corresponda a su actividad comercial, solicitando por escrito, dentro del término de 90 días naturales a la Secretaría, el cambio respectivo, sin pago del derecho correspondiente.
+
+###### ARTÍCULO SEXTO.
+
+En caso de que los Licenciatarios no cumplan lo señalado en los artículos cuarto y quinto transitorios de este decreto en el tiempo indicado, su solicitud de cambio de giro se acatará a lo establecido en el artículo 10 de esta Ley y el artículo 67 fracción VIII de la Ley de Hacienda del Estado.
