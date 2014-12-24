@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2014-11-01"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -781,7 +781,7 @@ XXII.- Dentro de la posibilidad de cada Municipio, aprobar la realización de la
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
 
-En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua.
+En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a largo Plazo del Estado de Chihuahua.
 
 XXIII.- Ejercer el control y vigilancia, por conducto de la dependencia correspondiente, en materia de fraccionamientos, sobre construcción de obras públicas y privadas, de ornato, nomenclatura, numeración oficial, planificación y alineamiento de edificaciones y calles;
 
@@ -1365,7 +1365,11 @@ IX.- Dirección de Fomento Económico Municipal.
 
 > <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2004)</small>
 
-X. Dirección o Departamento de Ecología.
+X.- Dirección o Departamento de Ecología.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XI.- Dirección de Educación.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1517,7 +1521,7 @@ XIII.- Las demás que fijen las leyes, reglamentos y manuales de organización.
 
 ###### ARTICULO 65.
 
-El tesorero al iniciar sus funciones, deberá caucionar su manejo con la garantía que fije el Ayuntamiento, la cual podrá ser revisada cada año y, en su caso, podrá aumentarse o disminuirse. La caución podrá otorgarse por los siguientes medios:
+El tesorero al iniciar sus funciones, deberá caucionar su manejo con la garantía suficiente que fije el Ayuntamiento, la cual podrá ser revisada cada año y, en su caso, podrá aumentarse o disminuirse. La caución podrá otorgarse por los siguientes medios:
 
 A).- Fianza, deberá ser otorgada por una institución autorizada para dichos fines.
 
@@ -1769,6 +1773,32 @@ X.- En coordinación con la Dirección de Seguridad Pública Municipal, establec
 
 XI.- Las demás que le señalen expresamente otras leyes o reglamentos.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 74 TER.- Son atribuciones y obligaciones de la Dirección de Educación:
+
+I. Promover y prestar servicios educativos de cualquier tipo o modalidad, sin perjuicio de la concurrencia de las autoridades educativas federal y local.
+
+II. Editar libros y otros materiales didácticos distintos a los libros de texto gratuito.
+
+III. Crear, organizar y dirigir bibliotecas, hemerotecas, casas de cultura y otros similares.
+
+IV. Diseñar e implementar programas de fomento cultural.
+
+V. Promover la investigación que sirva como base en la innovación educativa.
+
+VI. Promover la investigación y desarrollo de la ciencia, tecnología y la innovación.
+
+VII. Fomentar la creación de programas de educación para la salud, así como de protección del medio ambiente.
+
+VIII. Impulsar programas de alfabetización, educación para adultos, educación para y en el trabajo y la productividad.
+
+IX. Diseñar programas para la dotación de becas a alumnos que se encuentren en situación de vulnerabilidad.
+
+X. Proponer al Presidente Municipal la celebración de convenios de coordinación y concertación con los sectores público, social y privado para el mejoramiento de la infraestructura educativa en el municipio.
+
+XI. Las demás establecidas en el presente Código, legislación federal y local aplicable.
+
 ###### ARTICULO 74 Bis.
 
 Son atribuciones del Director o Jefe de Departamento de Ecología, las siguientes:
@@ -2019,7 +2049,7 @@ VIII.- Recomendar al Ayuntamiento la presentación de iniciativa de Ley al Congr
 
 IX.- Recomendar la realización de obras y la prestación de servicios que contribuyan al bienestar de los habitantes del Municipio;
 
-X.- Designar cuando lo crea conveniente, comités especiales que de (sic) seguimiento a la ejecución de una obra determinada;
+X.- Designar cuando lo crea conveniente, comités especiales que de seguimiento a la ejecución de una obra determinada;
 
 XI.- Promover la participación y colaboración de los vecinos del Municipio en las acciones gubernamentales de beneficio colectivo; y
 
@@ -4524,6 +4554,12 @@ P.O. 18 DE DICIEMBRE DE 2013.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
