@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "2013-12-21"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 CÓDIGO FISCAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE DECRETO ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -49,9 +51,11 @@ CODIGO FISCAL DEL ESTADO DE TABASCO
 
 ### Capítulo Unico
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-Todas las personas residentes en el Estado de Tabasco, de paso por su territorio o que tengan actos cuyas fuentes o efectos se localicen dentro del mismo, están obligados a contribuir al sostenimiento del gasto público de la manera proporcional y equitativa que determinen las disposiciones de este Código y las demás leyes fiscales. A falta de disposición de reglamentación expresa se aplicarán supletoriamente el Código Fiscal de la Federación o las disposiciones del derecho común estatal, cuando su aplicación no sea contraria a la naturaleza propia del derecho tributario.
+Todas las personas residentes en el Estado de Tabasco, de paso por el territorio o que realicen actos cuyas fuentes o efectos se localicen dentro del mismo, están obligados a contribuir al sostenimiento del gasto público de la manera proporcional y equitativa que determinen las disposiciones de este Código y las demás leyes fiscales. A falta de disposición de reglamentación expresa se aplicarán supletoriamente el Código Fiscal de la Federación o las disposiciones del derecho común estatal, cuando su aplicación no sea contraria a la naturaleza propia del derecho tributario.
 
 Sólo mediante Ley podrá destinarse una contribución a un gasto público específico.
 
@@ -63,9 +67,13 @@ Las personas que de conformidad con las leyes fiscales no estén obligadas a pag
 
 Las contribuciones se clasifican en impuestos y derechos; los que se definen de la manera siguiente:
 
-I. Impuestos son las Contribuciones establecidas en la Ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho previstas por la misma que sean distintas a las señaladas en la fracción II de este artículo; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-II. Derechos son las contribuciones establecidas en la Ley por el uso de los bienes del dominio público del Estado, así como por recibir los servicios que éste presta en sus funciones de derecho público, excepto, cuando se presten por organismos descentralizados y órganos desconcentrados cuando, en este último caso se trate de contraprestaciones que no se encuentren previstas en la Ley de Hacienda del Estado. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
+I. Impuestos son las contribuciones establecidas en la Ley, que deben pagar las personas físicas y jurídicas colectivas que se encuentren en la situación jurídica o de hecho previstas por la misma que sean distintas a las señaladas en la fracción II de este artículo; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. Derechos son las contribuciones establecidas en la Ley, por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir los servicios que éste presta en sus funciones de derecho público, excepto, cuando se presten por organismos descentralizados y órganos desconcentrados cuando, en este último caso se trate de contraprestaciones que no se encuentren previstas en la Ley de Hacienda del Estado. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
@@ -87,17 +95,19 @@ A los productos no le son aplicables, para los efectos de su cobro, las disposic
 
 Participaciones son los ingresos que el Gobierno del Estado de Tabasco tiene derecho a percibir del Gobierno Federal, conforme a las leyes y convenios de coordinación que se hayan suscrito o suscriban para tales efectos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 6.
 
-Son créditos fiscales los que tenga derecho a percibir el Gobierno del Estado o sus organismos descentralizados, que provengan de contribuciones, aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que tenga derecho a exigir de sus servidores públicos o de los particulares, así como, aquéllos a los que las leyes les den ese carácter.
+Son créditos fiscales los que tenga derecho a percibir el Gobierno del Estado o sus organismos descentralizados, que provengan de contribuciones, aprovechamientos, multas y accesorios, incluyendo los que deriven de responsabilidades que tenga derecho a exigir de servidores públicos o de los particulares, así como, aquéllos a los que las leyes les den ese carácter.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 La recaudación proveniente de todos los ingresos del Estado, inclusive la de sus organismos descentralizados y empresas de participación estatal mayoritaria, aun cuando se destinen a un fin específico, se harán por los mecanismos que autorice la Secretaría de Planeación y Finanzas.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Las autoridades fiscales o administrativas que remitan créditos a la Secretaría para su cobro, deberán cumplir con los requisitos que establezca la Secretaría.
+Las autoridades fiscales o administrativas que remitan créditos a la Secretaría de Planeación y Finanzas para su cobro, deberán cumplir con los requisitos que establezca la misma Secretaría.
 
 ###### Artículo 7.
 
@@ -113,13 +123,15 @@ IV. Ley de Catastro; y
 
 V. Los demás ordenamientos que contengan disposiciones de orden hacendario.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-La aplicación de las disposiciones a que se refiere este artículo le corresponderá al Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas y demás autoridades administrativas que establezcan las leyes.
+La aplicación de las disposiciones a que se refiere este artículo le corresponderá al Poder Ejecutivo del Estado de Tabasco, por conducto de la Secretaría de Planeación y Finanzas y demás autoridades administrativas que establezcan las leyes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-Son autoridades fiscales del Estado:
+Son autoridades fiscales del Estado de Tabasco:
 
 I. El Gobernador del Estado;
 
@@ -135,49 +147,71 @@ III. El Subsecretario de Ingresos;
 
 IV. El Procurador Fiscal;
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+V. El Director General de Recaudación;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VI. El Director de Recaudación;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VII. El Director Técnico de Recaudación;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VIII. El Director de Auditoría Fiscal;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IX. El Director General de Catastro y Ejecución Fiscal;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+X. El Director de Catastro;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XI. El Titular de la Unidad de Ejecución Fiscal;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XII. El Director de Control de Procesos;
+
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-V. Los Directores Generales de la Subsecretaría de Ingresos;
+XIII. Los Receptores de Rentas;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-VI. Los Directores de la Subsecretaría de Ingresos;
+XIV. Los Notificadores;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-VII. Los Directores de la Procuraduría Fiscal;
+XV. Los Ejecutores;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-VIII. Los Receptores de Rentas;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-IX. Los Notificadores;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-X. Los Ejecutores;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-XI Los Visitadores;
+XVI. Los Visitadores;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XII. Los Verificadores;
+XVII. Los Verificadores;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XIII. Los Auditores; y
+XVIII. Los Auditores; y
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XIV. Los demás que señalen las leyes, así como aquellas personas habilitadas por acuerdo expreso del Secretario de Planeación y Finanzas para ejercer funciones relacionadas con la gestión y la recepción de pago de contribuciones; en este último caso dicho acuerdo debe ser publicado en el Periódico Oficial del Estado de Tabasco.
+XIX. Los demás que señalen las leyes, así como aquellas personas habilitadas por acuerdo expreso del Secretario de Planeación y Finanzas para ejercer funciones relacionadas con la gestión y la recepción de pago de contribuciones; en este último caso dicho acuerdo debe ser publicado en el Periódico Oficial del Estado de Tabasco.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 9.
 
-Las disposiciones fiscales que establezcan cargas a los particulares y las que señal en excepciones a las mismas, así como las que fijen las infracciones y sanciones son de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa. Las otras disposiciones fiscales se interpretarán aplicando cualquier método de interpretación jurídica.
+Las disposiciones fiscales que establezcan cargas a los particulares y las que señalen excepciones a las mismas, así como las que fijen las infracciones y sanciones son de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa. Las otras disposiciones fiscales se interpretarán aplicando cualquier método de interpretación jurídica.
 
 ###### Artículo 10.
 
@@ -197,19 +231,23 @@ II. En cualquier otro caso, dentro de los cinco días siguientes al momento de l
 
 En el caso de contribuciones que se deban pagar mediante retención, aún cuando quien deba efectuarla no retenga o no haga pago de la contraprestación relativa, el retenedor estará obligado a enterar una cantidad equivalente a la que debió haber retenido.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Quien haga pago de créditos fiscales deberá obtener de la oficina autorizada el recibo oficial o la forma aprobada y controlada exclusivamente por la Secretaría de Planeación y Finanzas del Gobierno del Estado, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora. Tratándose de pagos efectuados en instituciones de crédito, se deberá obtener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo electrónico con sello digital; en el caso de otros medios electrónicos, obtener el comprobante electrónico con cadena original y sello digital.
+Quien haga pago de créditos fiscales deberá obtener de la Receptoría de Rentas, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Planeación y Finanzas del Gobierno del Estado, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito, se deberá obtener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo electrónico con sello digital; en el caso de otros medios electrónicos, obtener el comprobante electrónico con cadena original y sello digital.
 
-Cuando las disposiciones fiscales establezcan opciones a los contribuyentes, para el cumplimiento de sus obligaciones fiscales o para determinar contribuciones a su cargo, la que elija no podrá cambiarla en el mismo ejercicio.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Cuando las disposiciones fiscales establezcan opciones a los contribuyentes, para el cumplimiento de sus obligaciones fiscales o para determinar contribuciones a su cargo, la elegida por el contribuyente no podrá variarla respecto al mismo ejercicio.
 
 ###### Artículo 11.
 
 Las leyes fiscales, sus reglamentos y las disposiciones administrativas de carácter general, entrarán en vigor en todo el Estado al día siguiente de su publicación en el Periódico Oficial del Estado, salvo, que en ellas se establezca una fecha posterior.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 12.
 
-Para los efectos fiscales se entenderá por Estado, el territorio que conforme a la Constitución Política del Estado de Tabasco lo integra.
+Para los efectos fiscales se entenderá por Estado, el territorio que conforme a la Constitución Política del Estado Libre y Soberano de Tabasco lo integra con la extensión y límites que de hecho y por derecho le corresponde.
 
 ###### Artículo 13.
 
@@ -219,15 +257,27 @@ I. Tratándose de personas físicas:
 
 a) Cuando realicen actividades empresariales, el local en que se encuentre el principal asiento de sus negocios;
 
-b) Cuando no realicen las actividades señalados (sic) en el inciso anterior pero presten servicios personales independientes, el local que utilice para el desempeño de sus actividades; y
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-c) En los demás casos, en lugar donde tenga el principal asiento de sus actividades; y
+b) Cuando no realicen las actividades señaladas en el inciso anterior, pero presten servicios personales independientes, el local que utilice para el desempeño de sus actividades; y
 
-II. En el caso de personas morales:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+c) Únicamente en los casos en que la persona física, que realice actividades señaladas en los incisos anteriores no cuente con un local, su casa habitación. Para estos efectos, las autoridades fiscales harán del conocimiento del contribuyente en su casa habitación, que cuenta con un plazo de cinco días para acreditar que su domicilio corresponde a uno de los supuestos previstos en los incisos a) o b) de esta fracción.
+
+Siempre que los contribuyentes no hayan manifestado alguno de los domicilios citados en los incisos anteriores o no hayan sido localizados en los mismos, se considerará como domicilio el que hayan manifestado a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, cuando sean usuarios de los servicios que presten éstas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. En el caso de personas jurídico colectivas:
 
 a) Cuando sean residentes en el Estado, el local en donde se encuentre la administración principal del negocio; y
 
 b) Si son residentes fuera del Estado o en el extranjero, el establecimiento que se encuentre en el Estado y, en el caso de varios establecimientos, el local donde se encuentre la administración principal del negocio o, en su defecto, el que se designe.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligados a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio, indistintamente.
 
 Las autoridades fiscales podrán practicar diligencias en el lugar que conforme a este artículo se considere domicilio fiscal de los contribuyentes. Lo establecido en este párrafo no es aplicable a las notificaciones que deban hacerse en el domicilio a que se refiere la fracción IV del artículo 19 de este Código.
 
@@ -269,9 +319,11 @@ La práctica de diligencias por las autoridades fiscales deberá efectuarse en d
 
 Las autoridades fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice actividades por las que deba pagar contribuciones en días y horas inhábiles. También se podrá continuar en días u horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 17.
 
-Sujeto pasivo de un crédito fiscal es la persona física o moral que, de acuerdo con las leyes, está obligada al pago de una determinada contribución, aprovechamiento o accesorio al fisco del Estado.
+El sujeto pasivo de un crédito fiscal es la persona física o jurídica colectiva, que de acuerdo con las leyes, está obligada al pago de una contribución, aprovechamiento o accesorio al fisco del Estado.
 
 También es sujeto pasivo cualquiera agrupación que constituya una unidad económica diversa a la de cada uno de sus miembros. Para la aplicación de las leyes fiscales, estas agrupaciones se consideran personas morales.
 
@@ -293,9 +345,13 @@ IV. La persona o personas cualquiera que sea el nombre con que se les designe, q
 
 a) No solicite su inscripción en el Registro Estatal de Contribuyentes;
 
-b) Cambie su domicilio sin presentar el aviso correspondiente en los términos del presente ordenamiento, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio del ejercicio de las facultades de comprobación previstas en este Código y antes de que se haya notificado la resolución que se dicte con motivo de dicho ejercicio, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-c) No lleve contabilidad, la oculte o la destruya; y
+b) Cambie su domicilio sin presentar el aviso correspondiente, dentro de los 10 días hábiles siguientes al día en el que tenga lugar dicho cambio, en los términos del presente ordenamiento, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio del ejercicio de las facultades de comprobación previstas en este Código y antes de que se haya notificado la resolución que se dicte con motivo de dicho ejercicio, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+c) No lleve contabilidad, la oculte, altere o la destruya; y
 
 d) Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos del presente Código.
 
@@ -307,7 +363,9 @@ VII. Los legatarios y los donatarios a título particular respecto de los crédi
 
 VIII. Los terceros que para garantizar el interés fiscal constituyan depósito, prenda, hipoteca o permitan el secuestro de bienes, hasta por el valor de los entregados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado;
 
-IX. Los funcionarios y notarios públicos que autoricen algún acto jurídico o den trámite a algún documento, si no se cercioran de que no se han cubierto los impuestos o derechos respectivos, o no den cumplimiento a las disposiciones correspondientes que regulen el pago del gravamen; y (sic)
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IX. Los funcionarios y notarios públicos que autoricen algún acto jurídico o den trámite a algún documento, si no se cercioran que se han cubierto los impuestos o derechos respectivos, o se dio cumplimiento a las disposiciones correspondientes que regulen el pago del gravamen;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -341,23 +399,65 @@ La responsabilidad solidaria comprenderá los accesorios, con excepción de las 
 
 ### Capítulo I. De los Derechos y Obligaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
+Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital, firmando a su nombre ya (sic) su ruego una persona con capacidad legal.
 
 Las promociones deberán contener por lo menos los requisitos siguientes:
 
 I. Constar por escrito;
 
-II. El nombre, la denominación o razón social y el domicilio fiscal manifestado al Registro Estatal de Contribuyentes, para el efecto de fijar la competencia de la autoridad y la clave que le correspondió en dicho registro;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. El nombre, la denominación o razón social y el domicilio fiscal manifestado ante el Registro Estatal de Contribuyentes, para el efecto de fijar la competencia de la autoridad y la clave que le correspondió en dicho registro;
 
 III. Señalar la autoridad a la que se dirige y el propósito de la promoción; y
 
-IV. En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV. En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+V. Copia de la identificación del contribuyente o representante legal, previo cotejo con su original; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VI. La dirección de correo electrónico para recibir notificaciones;
 
 Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de diez días cumpla con el requisito omitido. En caso de no subsanarse la omisión, la promoción se tendrá por no presentada.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+En caso de que la firma no sea legible o se dude de su autenticidad, las autoridades fiscales requerirán al promovente para que en el plazo señalado en el párrafo anterior, se presente a ratificar la firma.
+
 Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos al Registro Estatal de Contribuyentes a que se refiere el artículo 29 de este Código.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 19 Bis.
+
+Las promociones que se presenten ante las autoridades fiscales en las que se formulen consultas o aclaraciones para las que no haya forma oficial, deberán cumplir, en adición a los requisitos establecidos en el artículo 19 de este Código, con lo siguiente:
+
+I.- Señalar los números telefónicos, en su caso, del contribuyente y el de los autorizados en los términos del artículo 20 de este Código;
+
+II.- Describir las actividades a las que se dedica el interesado;
+
+III.- Indicar el monto de la operación u operaciones objeto de la promoción;
+
+IV.- Señalar todos los hechos y circunstancias relacionados con la promoción, así como acompañar los documentos e información que soporten tales hechos o circunstancias;
+
+V.- Describir las razones de negocio que motivan la operación planteada;
+
+VI.- Indicar si los hechos o circunstancias sobre los que versa la promoción han sido previamente planteados ante la misma autoridad u otra distinta, o han sido materia de medios de defensa ante autoridades administrativas o jurisdiccionales y, en su caso, el sentido de la resolución;
+
+VII.- Indicar si el contribuyente se encuentra sujeto al ejercicio de las facultades de comprobación por parte de la Secretaría de Planeación y Finanzas;
+
+Si el promovente no se encuentra en los supuestos a que se refiere la fracción VII de este artículo deberá manifestarlo así expresamente.
+
+Cuando no se cumplan los requisitos a que se refiere este artículo, se estará a lo dispuesto en el artículo 19, antepenúltimo párrafo de este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -373,7 +473,13 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Las contribuciones o sus accesorios se causarán y pagarán en moneda nacional.
 
-Se aceptarán como medios de pago, además de dinero en efectivo, cheques certificados, giros postales, telegráficos o bancarios.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Se aceptarán como medios de pago, además de dinero en efectivo, cheques certificados, transferencias electrónicas, tarjetas de crédito y débito, fichas bancaria (sic) de depósito o comprobante de pago de establecimientos autorizados, mediante la modalidad de pago referenciado, de conformidad con los procedimientos establecidos por la Secretaría de Planeación y Finanzas.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Se aceptará como medio de pago de las contribuciones, los cheques del mismo banco en que se efectué el pago, tarjetas de crédito o débito, y la transferencia electrónica de fondos a favor de la Secretaría de Planeación y Finanzas del Gobierno del Estado. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor del Estado, realizada por las instituciones de crédito, en forma electrónica.
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución y, antes del adeudo principal, a los accesorios, en el orden siguiente:
 
@@ -394,6 +500,10 @@ Para determinar las contribuciones se considerarán, inclusive, las fracciones d
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
 Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, la Secretaría de Planeación y Finanzas podrá ordenar, por medio de disposiciones de carácter general y con el objeto de facilitar el cumplimiento de la obligación, así como para allegarse de la información necesaria en materia de estadística de ingresos, que se proporcione en declaración distinta de aquella con la cual se efectúe el pago.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+El Gobierno del Estado, a través de la Secretaría de Planeación y Finanzas, podrá autorizar otros medios de pago así como facultar a terceros para la realización de dichos cobros mediante mecanismos que establezca la propia Secretaría y que le permitan auxiliarse en el cobro de las contribuciones.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
@@ -423,7 +533,9 @@ En los casos de garantía de obligaciones fiscales a cargo de terceros, cuando n
 
 Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe. Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule y compruebe la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar el cobro del monto del cheque y una indemnización, que será siempre de veinte por ciento del valor de aquél, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. La indemnización mencionada, el monto del cheque y, en su caso, los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+El cheque certificado recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar el (sic) cobro del monto del cheque y una indemnización, que será siempre de veinte por ciento del valor de aquél, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. La indemnización mencionada, el monto del cheque y, en su caso, los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
 
 Si se obtiene autorización para pagar a plazos, ya sea en forma diferida o en parcialidades, se causarán, además, los recargos que establece el artículo 52 de este Código, por la parte diferida.
 
@@ -431,13 +543,23 @@ Si se obtiene autorización para pagar a plazos, ya sea en forma diferida o en p
 
 Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco estatal, así como a los valores de bienes u operaciones de que se traten, será 1.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo para abono en cuenta del contribuyente o certificado expedido a nombre de este último, los que se podrán utilizar para cubrir cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor.
+Las autoridades fiscales devolverán las cantidades pagadas indebidamente y las que procedan conforme a las leyes fiscales. La devolución podrá hacerse de oficio o a petición del interesado, mediante transferencia electrónica, cheque nominativo para abono en cuenta del contribuyente, los que se podrán utilizar para cubrir cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor.
 
-Si el pago de lo indebido se hubiere efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiere quedado insubsistente. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de treinta días siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, informes y documentos. El fisco estatal deberá hacer la devolución que proceda, desde el mes en que se presentó la declaración hasta aquel en que la devolución se efectúe. Si la devolución no se hubiere efectuado dentro de los treinta días, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo, conforme a una tasa que se aplicará sobre la devolución y que será igual a la prevista para los recargos en los términos del artículo 22 de este Código.
+Si el pago de lo indebido se hubiere efectuado en cumplimiento de acto de autoridad, el derecho a la devolución en los términos de este artículo nace cuando dicho acto se anule. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Cuando en una solicitud de devolución existan errores en los datos contenidos en la misma, la autoridad requerirá al contribuyente para que mediante escrito y en un plazo de diez días aclare dichos datos, apercibiéndolo que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. En este supuesto no será necesario presentar una nueva solicitud cuando los datos erróneos solo se hayan consignado en la solicitud o en los anexos. Dicho requerimiento suspenderá el plazo previsto para efectuar la devolución, durante el periodo que transcurra entre el día hábil siguiente en que surta efectos la notificación del requerimiento y la fecha en que se atienda el requerimiento.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cuarenta días siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, incluyendo para el caso de depósito en cuenta, los datos de la institución integrante del sistema financiero y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera debidamente integrado de conformidad con las disposiciones del Banco de México, así como los demás informes y documentos. El fisco estatal deberá pagar la devolución que proceda, desde el mes en que se presentó la declaración hasta aquel en que la devolución se efectúe, para el caso de depósito en cuenta, se entenderá que la devolución está a disposición del contribuyente a partir de la fecha en que la autoridad efectúe el depósito en la institución financiera señalada en la solicitud de devolución. Si la devolución no se hubiere efectuado dentro de los cuarenta días, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo, conforme a una tasa que se aplicará sobre la devolución y que será igual a la prevista para los recargos en los términos del artículo 22 de este Código, para el caso en que la autoridad no de contestación en el plazo previsto en el presenta párrafo, el contribuyente podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución o bien, esperar a que esta se dicte.
 
 El contribuyente que habiendo efectuado el pago de una contribución determinada por él mismo o por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtengan resolución firme que le sea favorable, total o parcialmente, tendrá derecho a obtener del fisco estatal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código, sobre las cantidades que se hayan pagado indebidamente y a partir de que se efectuó el pago.
 
@@ -467,11 +589,11 @@ Las autoridades fiscales podrán compensar de oficio las cantidades que los cont
 
 Para los efectos de este Código, se entenderá que es una misma contribución si se trata del mismo impuesto o derecho.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 25.
 
-Las personas jurídicas colectivas, así como las personas físicas que deban presentar declaraciones periódicas del 1% sobre nóminas, 3% sobre honorarios por actividades profesionales y ejercicios lucrativos, no gravados por la Ley de Impuesto al Valor Agregado y del 2% sobre la prestación de servicio de hospedaje o que estén obligados a expedir comprobación por las actividades que realicen, deberán solicitar su inscripción y presentar los avisos, en su caso, en el Registro Estatal de Contribuyentes de la Secretaría de Planeación y Finanzas, y proporcionar la información relacionada con su identidad, domicilio y en general sobre su situación fiscal, en los formatos autorizados que para tal efecto apruebe la Secretaría.
+Las personas jurídicas colectivas, así como las personas físicas que deban presentar declaraciones periódicas del impuesto sobre nóminas, impuesto sobre honorarios por actividades profesionales y ejercicios lucrativos, no gravados por la Ley de Impuesto al Valor Agregado e impuesto sobre la prestación de servicio de hospedaje o que estén obligados a expedir comprobantes fiscales digitales de conformidad con la legislación federal respectiva, por las actividades que realicen, deberán solicitar su inscripción y presentar los avisos, en su caso, en el Registro Estatal de Contribuyentes de la Secretaría de Planeación y Finanzas, y proporcionar la información relacionada con su identidad, domicilio, actividad y en general sobre su situación fiscal, en los formatos autorizados que para tal efecto apruebe la Secretaría.
 
 La misma obligación señalada en el párrafo anterior se establece para las sucursales o agencias, cuyas matrices no se encuentren domiciliadas dentro del territorio del Estado.
 
@@ -495,9 +617,13 @@ IV. Cancelación en el Registro Estatal de Contribuyentes.
 
 La solicitud de inscripción en el Registro Estatal de Contribuyentes deberá presentarse ante la Receptoría de Rentas, correspondiente al domicilio fiscal del contribuyente dentro del mes siguiente al día en que:
 
-I. Las personas morales residentes en el Estado, firmen su acta constitutiva; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-II. Las personas físicas, así como las morales residentes fuera del Estado, realicen las situaciones jurídicas o de hecho den lugar a la presentación de declaraciones periódicas.
+I. Las personas jurídicas colectivas residentes en el Estado, firmen su acta constitutiva; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. Las personas físicas, así como las jurídicas colectivas residentes fuera del Estado, realicen las situaciones jurídicas o de hecho den lugar a la presentación de declaraciones periódicas.
 
 ###### Artículo 27.
 
@@ -517,11 +643,17 @@ c) Suspensión de actividades, cuando el contribuyente interrumpa las actividade
 
 d) Reanudación de actividades, cuando se vuelva a estar obligado a presentar alguna de las declaraciones periódicas, debiendo presentarse conjuntamente con la primera de éstas. Este aviso deberá presentarse ante la Receptoría de Rentas correspondiente, dentro del mes siguiente al día en que se realicen las situaciones jurídicas o el hecho que lo motive; y
 
-IV. El aviso de cancelación al Registro Estatal de Contribuyente, deberá presentarse dentro del mes siguiente al que cesen sus actividades, conforme a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-a) En los casos de fusión de sociedades, la que subsista o resulte de la fusión presentará el aviso por las sociedades que desaparezcan; y
+IV. El aviso de cancelación al Registro Estatal de Contribuyentes, deberá presentarse dentro del mes siguiente al que cesen sus actividades, conforme a lo siguiente:
 
-b) En la sucesión de personas obligadas a presentar declaraciones periódicas, el aviso lo presentará el Representante Legal que se haya obligado a ello.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+a) En los casos de fusión de sociedades, la que subsista o resulte de la fusión, presentará el aviso por las sociedades que desaparezcan; y
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+b) En la sucesión de personas obligadas a presentar declaraciones periódicas, el aviso lo presentará el representante legal.
 
 Los avisos a que se refieren los incisos anteriores se presentarán dentro del mes siguiente del día en que se haya dado por finalizada la liquidación de la sucesión o la fusión.
 
@@ -533,13 +665,17 @@ Las personas que de acuerdo con las disposiciones fiscales estén obligadas a ll
 
 I. Llevarán los sistemas y registros contables mediante los instrumentos, recursos y sistemas de registro y procedimiento que mejor convengan y se puedan identificar cada operación, relacionándolas con la documentación comprobatoria;
 
-II. Los asientos de la contabilidad serán analíticos y deberán efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. Los asientos de la contabilidad serán analíticos y deberán efectuarse en el mes en que se realicen las actividades respectivas;
 
 III. Llevarán la contabilidad en su domicilio. Dicha contabilidad podrá llevarse en lugar distinto al domicilio fiscal, previo aviso y siempre que dicho lugar se encuentre ubicado en la misma población en la que se encuentre el domicilio fiscal del contribuyente.
 
 Cuando las autoridades fiscales en los términos de este artículo, mantengan en su poder uno o más libros de contabilidad por un plazo mayor de un mes, el contribuyente deberá asentar las operaciones pendientes de registro y las subsecuentes en el nuevo o nuevos libros que correspondan. Cuando la autoridad devuelva los libros, después de que los nuevos hayan sido utilizados, el contribuyente ya no hará asientos en los devueltos.
 
-El aviso para los efectos de la fracción III de este artículo, se presentará ante la autoridad recaudadora de su domicilio fiscal dentro del mes en que se hubiere presentado ante la autoridad recaudadora de la federación.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+El aviso para los efectos de la fracción III de este artículo, se presentará ante la autoridad recaudadora que corresponda de acuerdo a su domicilio fiscal dentro del mes en que se hubiere presentado ante la autoridad recaudadora de la federación.
 
 Cuando las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registro (sic) contables a que se refiere la fracción I de este Artículo.
 
@@ -553,9 +689,9 @@ Las personas que conforme a las disposiciones fiscales tengan obligación de pre
 
 En los casos que las formas para la presentación de las declaraciones o avisos que prevengan las disposiciones fiscales, no hubieren sido aprobadas por la Secretaría de Planeación y Finanzas, los obligados a presentarlas las formularán en escrito por triplicado que contengan su nombre, denominación o razón social, domicilio y clave y Registro Estatal de Contribuyentes, ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, deberá señalarse además el monto del mismo.
 
-> <small>(REFORMADO P.O. 30 DE DICIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Los contribuyentes que tengan obligaciones de presentar obligaciones periódicas de conformidad con las leyes fiscales respectivas, continuarán haciéndolo inclusive en ceros, en tanto no presente los avisos que correspondan parta (sic) efecto del Registro Estatal de Contribuyentes.
+Los contribuyentes que deban presentar obligaciones periódicas, de conformidad con las leyes fiscales respectivas, continuarán haciéndolo inclusive en ceros, en tanto no presente los avisos que correspondan al Registro Estatal de Contribuyentes.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -651,11 +787,13 @@ Artículo 30 Sexties.- Los actos y procedimientos administrativos, así como los
 
 ### Capítulo Unico
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
-Las autoridades fiscales tendrán las facultades y obligaciones que les otorga este Código, además de las que dispongan los ordenamientos legales respectivos, siendo competentes para el mejor cumplimiento de sus facultades para lo siguiente:
+Las autoridades fiscales tendrán las facultades y obligaciones que les otorga este Código, además de las que dispongan los ordenamientos legales respectivos, siendo competentes para el mejor cumplimiento de sus facultades estarán a lo siguiente:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 I. Proporcionar asistencia gratuita a los contribuyentes y para ello procurarán:
 
@@ -671,15 +809,23 @@ e) Difundir de manera general entre los contribuyentes los derechos y medios de 
 
 f) Efectuar en distintas partes del Estado de Tabasco reuniones de información con los contribuyentes, especialmente cuando se modifiquen las disposiciones fiscales y durante los principales periodos de presentación de declaraciones.
 
-g) Publicar anualmente las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a periodos inferiores a un año. Las resoluciones que se emitan conforme a este inciso y que se refieran a sujeto, objeto, base, tasa o tarifa, no generarán obligaciones o cargas adicionales a las establecidas en las propias leyes fiscales.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+g) Publicar anualmente las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a periodos inferiores a un año. Las resoluciones que se emitan conforme a este inciso y que se refieran a sujeto, objeto, base, tasa o tarifa, no generarán obligaciones o cargas adicionales a las establecidas en las propias leyes fiscales; y
 
 h) Dar a conocer, mediante publicación en el Periódico Oficial del Estado de Tabasco, los criterios no vinculativos de las disposiciones fiscales.
 
-Los servicios de asistencia al contribuyente a que se refiere esta fracción también deberán difundirse a través de la página electrónica que al efecto establezca la Secretaría. En dicha página también se podrán dar a conocer todos los trámites fiscales.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Los servicios de asistencia al contribuyente a que se refiere esta fracción también deberán difundirse a través de la página electrónica que al efecto establezca la Secretaría de Planeación y Finanzas. En dicha página también se podrán dar a conocer todos los trámites fiscales;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 II. Para los efectos de lo dispuesto en este artículo, la autoridad fiscal, en el ejercicio de sus facultades de asistencia al contribuyente, podrá realizar recorridos; campañas de difusión por medios electrónicos e impresos; invitaciones verbales, electrónicas, impresas; o censos, para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover su incorporación voluntaria o actualización de sus datos en los registros de contribuyentes que para tal efecto mantenga la Secretaría.
 
-No. se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar los Registros de Contribuyentes que mantenga la Secretaría de Administración y Finanzas
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar los Registros de Contribuyentes que mantenga la Secretaría de Planeación y Finanzas.
 
 Asimismo, las autoridades fiscales darán a conocer a los contribuyentes, a través de los medios de difusión que se señalen en reglas de carácter general, los criterios de carácter interno que emitan para el debido cumplimiento de las disposiciones fiscales, salvo aquéllos que, a juicio de la propia autoridad, tengan el carácter de reservados, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Periódico Oficial del Estado de Tabasco
 
@@ -719,11 +865,11 @@ Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones ad
 
 Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte la Secretaría de Planeación y Finanzas al respecto no podrán ser impugnadas por los contribuyentes.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 31 Quater.
 
-Las autoridades fiscales podrán llevar a cabo verificaciones para constatar los datos proporcionados al registro estatal de contribuyentes, relacionados con la identidad, domicilio y demás datos que se hayan manifestado para los efectos de dicho registro, sin que por ello se considere que las autoridades fiscales inician sus facultades de comprobación.
+Las autoridades fiscales podrán llevar a cabo verificaciones para constatar los datos proporcionados al Registro Estatal de Contribuyentes, relacionados con la identidad, domicilio y demás datos que se hayan manifestado para los efectos de dicho registro, sin que por ello se considere que las autoridades fiscales inician sus facultades de comprobación.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -769,17 +915,147 @@ III. Conceder subsidios o estímulos fiscales.
 
 Las resoluciones que conforme a este artículo dicte el Ejecutivo Estatal, deberán señalar las contribuciones a que se refieren, salvo, que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 34 Bis.
+
+La Administración Pública Estatal, Centralizada y Paraestatal, el Poder Legislativo, el Poder Judicial, Municipios y Órganos Constitucionales Autónomos, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que:
+
+I. Tengan a su cargo créditos fiscales firmes.
+
+II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
+
+III. No se encuentren inscritos en el Registro Estatal de Contribuyentes.
+
+IV. Habiendo vencido el plazo para presentar alguna declaración, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción no es aplicable tratándose de omisión en la presentación de declaraciones que sean exclusivamente informativas.
+
+Para los efectos de este artículo la autoridad fiscal competente expedirá la constancia que corresponda, previa solicitud del particular y pago del derecho correspondiente conforme a la Ley de Hacienda del Estado de Tabasco, dicha constancia tendrá vigencia de un mes contado desde la fecha de su expedición.
+
+La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo deberán ser cubiertos con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
+
+Para estos efectos, en el convenio se establecerá que las dependencias antes citadas retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes, lo cual la autoridad fiscal deberá hacer del conocimiento de las citadas dependencias para que cumplan con la retención y entero, apercibiéndolas como si de embargo de créditos se tratase de conformidad con el primer párrafo del artículo 129 de este Código.
+
+Los proveedores a quienes se adjudique el contrato sólo podrán subcontratar con aquellos contribuyentes que estén al corriente de sus obligaciones fiscales, de conformidad con lo dispuesto por este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 35.
 
-Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales o cuando éstas tengan que hacer valer sus resoluciones, podrán indistintamente:
+Las autoridades fiscales podrán emplear las medidas de apremio que se indican a continuación, cuando los contribuyentes, los responsables solidarios o terceros relacionados con ellos, impidan de cualquier forma o por cualquier medio el inicio o desarrollo de sus facultades, observando estrictamente el siguiente orden:
 
 I. Solicitar el auxilio de la fuerza pública;
 
-II. Imponer la multa que corresponda en los términos de este Código; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-III. Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo.
+Para los efectos de esta fracción, los cuerpos de seguridad o policiales deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+El apoyo a que se refiere el párrafo anterior consistirá en efectuar las acciones necesarias para que las autoridades fiscales ingresen al domicilio fiscal, establecimientos, sucursales, oficinas, locales, puestos fijos o semifijos, lugares donde se almacenen mercancías y en general cualquier local o establecimiento que utilicen para el desempeño de sus actividades los contribuyentes, así como para brindar la seguridad necesaria al personal actuante, y se solicitará en términos de los ordenamientos que regulan la seguridad pública del Estado, o de los municipios o, en su caso, de conformidad con los acuerdos de colaboración administrativa establecidos;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. Imponer la multa que corresponda en los términos de este Código;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+III. Practicar el aseguramiento precautorio de los bienes o de la negociación del contribuyente o responsable solidario, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, conforme a lo establecido en el artículo 35-Bis de este Código; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV. Solicitar a la autoridad competente se proceda por desobediencia o resistencia, por parte del contribuyente, responsable solidario o tercero relacionado con ellos, a un mandato legítimo de autoridad competente.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Las autoridades fiscales no aplicarán la medida de apremio prevista en la fracción I, cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, no atiendan las solicitudes de información o los requerimientos de documentación que les realicen las autoridades fiscales, o al atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual acrediten el cumplimiento de las disposiciones fiscales a que estén obligados, o cuando destruyan o alteren la misma.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+No se aplicarán medidas de apremio cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, manifiesten por escrito a la autoridad, que se encuentran impedidos de atender completa o parcialmente la solicitud realizada por causa de fuerza mayor o caso fortuito, y lo acrediten exhibiendo las pruebas correspondientes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 35 Bis.
+
+El aseguramiento precautorio de los bienes o de la negociación de los contribuyentes o los responsables solidarios, a que se refiere la fracción III del artículo 35 de este Código, así como el levantamiento del mismo, en su caso, se realizará conforme a lo siguiente:
+
+I. Se practicará una vez agotadas las medidas de apremio a que se refieren las fracciones I y II del artículo 35 de este ordenamiento, salvo en los casos siguientes:
+
+a) Cuando no puedan iniciarse o desarrollarse las facultadas de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios, no sean localizables en su domicilio fiscal; desocupen o abandonen el mismo sin presentar el aviso correspondiente; hayan desaparecido, o se ignore su domicilio.
+
+b) Cuando las autoridades fiscales practiquen visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública y éstos no puedan demostrar que se encuentran inscritos en el registro estatal de contribuyentes.
+
+c) Cuando una vez iniciadas las facultades de comprobación, exista riesgo inminente de que los contribuyentes o los responsables solidarios oculten, enajenen o dilapiden sus bienes.
+
+II. La autoridad practicará el aseguramiento precautorio hasta por el monto de la determinación provisional de adeudos fiscales presuntos que ella misma realice, únicamente para estos efectos. Para lo anterior, se podrá utilizar cualquiera de los procedimientos establecidos en los artículos 48 Bis, 48-Ter y 48 Quater de este Código.
+
+La autoridad fiscal que practique el aseguramiento precautorio levantará acta circunstanciada en la que precise las razones por las cuales realiza dicho aseguramiento, misma que se notificará al contribuyente en ese acto.
+
+III. El aseguramiento precautorio se sujetará al orden siguiente:
+
+a) Bienes inmuebles, en este caso, el contribuyente o su representante legal deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, aseguramiento o embargo anterior; se encuentran en copropiedad, o pertenecen a sociedad conyugal alguna. Cuando la diligencia se entienda con un tercero, se deberá requerir a éste para que, bajo protesta de decir verdad, manifieste si tiene conocimiento de que el bien que pretende asegurarse es propiedad del contribuyente y, en su caso, proporcione la documentación con la que cuente para acreditar su dicho.
+
+b) Cuentas por cobrar, acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, estados y municipios y de instituciones o empresas de reconocida solvencia.
+
+c) Derechos de autor sobre obras literarias, artísticas o científicas; patentes de invención y registros de modelos de utilidad, diseños industriales, marcas y avisos comerciales.
+
+d) Obras artísticas, colecciones científicas, joyas, medallas, armas, antigüedades, así como instrumentos de artes y oficios, indistintamente.
+
+e) Dinero y metales preciosos.
+
+f) Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito, componente, producto o instrumento de ahorro o inversión en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
+
+g) Los bienes muebles no comprendidos en las fracciones anteriores.
+
+h) La negociación del contribuyente.
+
+Los contribuyentes, responsables solidarios o terceros relacionados con ellos, deberán acreditar la propiedad de los bienes sobre los que se practique el aseguramiento precautorio.
+
+Cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos no cuenten o, bajo protesta de decir verdad, manifiesten no contar con alguno de los bienes a asegurar conforme al orden establecido, se asentará en el acta circunstanciada referida en el segundo párrafo de la fracción II de este artículo.
+
+En el supuesto de que el valor del bien a asegurar conforme al orden establecido exceda del monto de la determinación provisional de adeudos fiscales presuntos efectuada por la autoridad, se podrá practicar el aseguramiento sobre el siguiente bien en el orden de prelación.
+
+Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios o terceros relacionados con ellos no sean localizables en su domicilio fiscal, desocupen o abandonen el mismo sin presentar el aviso correspondiente, hayan desaparecido o se ignore su domicilio, el aseguramiento se practicará sobre los bienes a que se refiere el inciso f) de esta fracción.
+
+Tratándose de las visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública a que se refiere el inciso b) de la fracción I de este artículo, el aseguramiento se practicará sobre las mercancías que se enajenen en dichos lugares, sin que sea necesario establecer un monto de la determinación provisional de adeudos fiscales presuntos.
+
+IV. El aseguramiento de los bienes a que se refiere el inciso f) de la fracción III de este artículo, se realizará conforme a lo siguiente:
+
+La solicitud de aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda.
+
+Cuando la solicitud de aseguramiento se realice a través de las comisiones señaladas en el párrafo anterior, éstas contarán con un plazo de tres días para ordenar a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, que practique el aseguramiento precautorio.
+
+La entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, contará con un plazo de tres días contado a partir de la recepción de la solicitud respectiva, ya sea a través de la comisión de que se trate, o bien, de la autoridad fiscal, según sea el caso, para practicar el aseguramiento precautorio.
+
+Una vez practicado el aseguramiento precautorio, la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, deberá informar a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a aquél en que lo haya realizado, las cantidades aseguradas en una o más cuentas o contratos del contribuyente, responsable solidario o tercero relacionado con ellos.
+
+En ningún caso procederá el aseguramiento precautorio de los depósitos bancarios, otros depósitos o seguros del contribuyente por un monto mayor al de la determinación provisional de adeudos fiscales presuntos que la autoridad fiscal realice para efectos del aseguramiento, ya sea que se practique sobre una sola cuenta o contrato o más de uno. Lo anterior, siempre y cuando previo al aseguramiento, la autoridad fiscal cuente con información de las cuentas o contratos y los saldos que existan en los mismos.
+
+V. La autoridad fiscal notificará al contribuyente, responsable solidario o tercero relacionado con ellos, a más tardar el tercer día siguiente a aquél en que se haya practicado el aseguramiento, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo. La notificación se hará personalmente al contribuyente, responsable solidario o tercero relacionado.
+
+VI. Los bienes asegurados precautoriamente podrán, desde el momento en que se notifique el aseguramiento precautorio y hasta que el mismo se levante, dejarse en posesión del contribuyente, responsable solidario o tercero relacionado con ellos, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 145 de este Código, salvo lo indicado en su segundo párrafo.
+
+El contribuyente, responsable solidario o tercero relacionado con ellos que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
+
+Lo establecido en esta fracción no será aplicable tratándose del aseguramiento que se practique sobre los bienes a que se refieren los incisos e) y f) de la fracción III de este artículo, así como sobre las mercancías que se enajenen en los locales, puestos fijos o semifijos en la vía pública, cuando el contribuyente visitado no demuestre estar inscrito en el Registro Estatal de Contribuyentes, o bien, no exhiba los comprobantes que amparen la legal posesión o propiedad de dichas mercancías.
+
+VII. Cuando el ejercicio de facultades de comprobación no se concluya dentro de los plazos que establece este Código; se acredite fehacientemente que ha cesado la conducta que dio origen al aseguramiento precautorio, o bien exista orden de suspensión emitida por autoridad competente que el contribuyente haya obtenido, la autoridad deberá ordenar que se levante la medida a más tardar el tercer día siguiente a que ello suceda.
+
+En el caso de que se hayan asegurado los bienes a que se refiere el inciso f) de la fracción III de este artículo, el levantamiento del aseguramiento se realizará conforme a lo siguiente:
+
+La solicitud para el levantamiento del aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, dentro del plazo de tres días siguientes a aquél en que se actualice alguno de los supuestos a que se refiere el primer párrafo de esta fracción.
+
+Cuando la solicitud de levantamiento del aseguramiento se realice a través de las comisiones señaladas en el párrafo anterior, estas contarán con un plazo de tres días a partir de que surta efectos la notificación a las mismas, para ordenar a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, que levante el aseguramiento precautorio.
+
+La entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, contará con un plazo de tres días a partir de la recepción de la solicitud respectiva, ya sea a través de la comisión que corresponda, o bien de la autoridad fiscal, según sea el caso, para levantar el aseguramiento precautorio.
+
+Una vez levantado el aseguramiento precautorio, la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate deberá informar del cumplimiento de dicha medida a la autoridad fiscal que ordenó el levantamiento, a más tardar al tercer día siguiente a aquél en que lo haya realizado.
+
+Cuando la autoridad constate que el aseguramiento precautorio se practicó por una cantidad mayor a la debida, únicamente ordenará su levantamiento hasta por el monto excedente, observando para ello lo dispuesto en los párrafos que antecede.
+
+Tratándose de los supuestos establecidos en el inciso b) de la fracción I de este artículo, el aseguramiento precautorio quedará sin efectos cuando se acredite la inscripción al Registro Estatal de Contribuyentes o se acredite la legal posesión o propiedad de la mercancía, según sea el caso.
+
+Para la práctica del aseguramiento precautorio se observarán las disposiciones contenidas en la Sección Segunda del Capítulo II del Título V de este Código, en aquello que no se oponga a lo previsto en este artículo.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -797,7 +1073,9 @@ III. Embargar, precautoriamente, los bienes o la negociación cuando el contribu
 
 IV. Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido en un plazo de seis días. Si no se atiende se impondrá multa por cada requerimiento no atendido. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
 
-En el caso de la fracción IV y agotados los actos señalados en la misma, se pondrá (sic) los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+En el caso de la fracción IV y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo.
 
 Si la declaración se presenta después de haberse notificado al contribuyente la cantidad determinada por la autoridad conforme a esta fracción, dicha cantidad se disminuirá del importe que se tenga que pagar con la declaración que se presente, debiendo cubrirse, en su caso, la diferencia que resulte entre la cantidad determinada por la autoridad y el importe a pagar en la declaración. En caso de que en la declaración resulte una cantidad menor a la determinada por la autoridad fiscal, la diferencia pagada por el contribuyente únicamente podrá ser compensada en declaraciones subsecuentes.
 
@@ -831,15 +1109,17 @@ VIII. Allegarse las pruebas necesarias para denunciar ante el Ministerio Públic
 
 En la orden de visita, además de los requisitos a que se refiere el artículo 33 de este Código, se deberá indicar:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-I. El lugar o lugares donde debe efectuarse la visita. El aumento de lugares a visitar deberá notificarse al visitado;
+I. El lugar o lugares donde debe efectuarse la visita; el aumento de lugares a visitar deberá notificarse al visitado;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 II. El nombre de la persona o personas que deban efectuar la visita las cuales podrán ser sustituidas, aumentadas o reducidas en su número, en cualquier tiempo por la autoridad competente. La sustitución o aumento de las personas que deban efectuar la visita se notificará al visitado; y
 
-III. Los impuestos y derechos cuya verificación se trate y, en su caso, los ejercicios a los que deberá limitarse la visita.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+III. Los impuestos y derechos cuya verificación se trate y, en su caso, los periodos y ejercicios a los que deberá limitarse la visita.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -857,9 +1137,15 @@ Los visitadores al citar al contribuyente o a su representante, podrán hacer un
 
 Cuando exista el peligro de que el contribuyente se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
 
-Al iniciarse la visita en el domicilio fiscal, los visitadores deberán identificarse ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en la acta que levanten, sin que esta circunstancia invalide los resultados de la visita. Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo, en tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita; y
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-IV. (sic) Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes, para que continúen una visita iniciada por aquéllas, notificando al visitado la sustitución de autoridad y de visitadores. Podrán también solicitarles practiquen otras visitas para comprobar hechos relacionados con la que estén practicando.
+Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en la acta que levanten, sin que esta circunstancia invalide los resultados de la visita. Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo, en tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+III. Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes, para que continúen una visita iniciada por aquéllas, notificando al visitado la sustitución de autoridad y de visitadores. Podrán también solicitarles practiquen otras visitas para comprobar hechos relacionados con la que estén practicando.
+
+IV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
 ###### Artículo 40.
 
@@ -895,39 +1181,61 @@ Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores reco
 
 La visita en el domicilio fiscal se desarrollará conforme a las reglas siguientes:
 
-I. De toda visita en el domicilio fiscal se levantará acta, en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el período revisado, salvo, prueba en contrario. Asimismo, quedará a cargo de la Dirección de Auditoría y Fiscalización, determinar las consecuencias legales de tales hechos u omisiones, las que se podrán hacer constar en la misma acta o en documento por separado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+I. De toda visita en el domicilio fiscal se levantará acta, en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el período revisado, salvo, prueba en contrario. Asimismo, quedará a cargo de la autoridad fiscal, determinar las consecuencias legales de tales hechos u omisiones, las que se podrán hacer constar en la misma acta o en documento por separado;
 
 II. Si la visita se realiza en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado;
 
-III. Durante el desarrollo de la visita los visitadores, a fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en la contabilidad, podrán sellar o colocar marcas en dichos documentos, muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto formulen. Cuando algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea requerido por el visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-IV. Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita o después de concluida. Formulada la liquidación, no se podrán levantar las actas complementarias sin que exista una nueva orden de visita.
+III. Durante el desarrollo de la visita los visitadores a fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en la contabilidad, podrán, indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto formulen, siempre que dicho argumento no impida la realización de las actividades del visitado. Para efectos de esta fracción se considera que no se impide la realización de actividades cuando se asegure la contabilidad o correspondencia no relacionada con las actividades del mes en curso y los dos anteriores. Cuando algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea requerido por el visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo;
 
-Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante, se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos quince días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señala lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad;
+IV. Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
+
+Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante, se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos veinte días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
+
+Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que éstos se encuentran en poder de una autoridad;
 
 V. Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal podrán levantarse en las oficinas de las autoridades fiscales.
 
-En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-VI. Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente; si no se presentare, la acta final se concluirá ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos, firmarán la acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar la acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; y
+En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia, excepto en el supuesto de que el visitado hubiere desaparecido del domicilio fiscal durante el desarrollo de la visita;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VI. Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente; si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos, firmarán la acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; y
 
 VII. Las actas parciales forman parte del acta final de la visita, aunque no se señale así expresamente.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VIII. Cuando de la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables, que pudieran afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez, reponer el procedimiento, a partir de la violación formal cometida.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Lo señalado en la fracción anterior, será sin perjuicio de la responsabilidad en que pueda incurrir el servidor público que motivo la violación.
 
 ###### Artículo 42.
 
 Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos, documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
 
-I. La solicitud se notificará en el domicilio fiscal, pero tratándose de personas físicas también podrá notificarse en su casa habitación o en lugar donde se encuentren;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-II. En la solicitud se indicará ante quien y el plazo en el cual se debe proporcionar los informes o documentos;
+I. La solicitud se notificará al contribuyente de conformidad con lo establecido en el artículo 115 del presente ordenamiento;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. En la solicitud se indicará ante quien, el lugar y el plazo en el cual se debe proporcionar los informes o documentos;
 
 III. Los informes, libros o documentos requeridos, deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-IV. Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubiesen• conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario;
+IV. Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario, quien podrá ser notificado de conformidad con el artículo 115 de este Código;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -941,9 +1249,9 @@ Se tendrán por consentidos los hechos u omisiones consignados en el oficio de o
 
 El plazo que se señala en el primero y segundo párrafos de esta fracción es independiente del que se establece en el artículo 42 Bis.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-VII. Dentro del plazo para .desvirtuar los hechos u omisiones asentados en el oficio de observaciones, a que se refieren las fracciones VI y VII, el contribuyente podrá optar por corregir su situación fiscal en las distintas contribuciones objeto de la revisión, mediante la presentación de la forma de corrección de su situación fiscal, de la que proporcionará copia a la autoridad revisora; y
+VII. Dentro del plazo para desvirtuar los hechos u omisiones asentados en el oficio de observaciones, a que se refiere la fracción VI, el contribuyente podrá optar por corregir su situación fiscal en las distintas contribuciones objeto de la revisión, mediante la presentación de la forma de corrección de su situación fiscal, de la que proporcionará copia a la autoridad revisora; y
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -967,9 +1275,19 @@ II. Fallecimiento del contribuyente, hasta en tanto se designe al representante 
 
 III. Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice;
 
-IV. Cuando el contribuyente no atienda el requerimiento de datos, informes o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses. En el caso de dos o más solicitudes de información, se sumarán los distintos periodos de suspensión y en ningún caso el periodo de suspensión podrá exceder de un año; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-V. Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Diario Oficial de la Federación y en la página de Internet del Servicio de Administración Tributaria;
+IV. Cuando el contribuyente no atienda el requerimiento de datos, informes o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses. En el caso de dos o más solicitudes de información, se sumarán los distintos periodos de suspensión y en ningún caso dicho periodo podrá exceder de un año;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+V. Tratando se (sic) de la fracción VIII del artículo anterior, el plazo se suspenderá a partir de que la autoridad informe al contribuyente la reposición del procedimiento.
+
+Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VI. Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Periódico Oficial del Estado de Tabasco y en la página de la Secretaría de Planeación y Finanzas;
 
 Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, los contribuyentes interponen algún medio de defensa en el país o en el extranjero contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
 
@@ -991,21 +1309,33 @@ En dicha resolución deberán señalarse los plazos en que la misma puede ser im
 
 Siempre se podrá volver a determinar contribuciones o aprovechamientos omitidos correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales, de conformidad con lo previsto por el último párrafo del artículo 41 de este Código.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 42 Quater.
 
-Para los efectos de lo dispuesto por la fracción V del artículo 42 de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
+Para los efectos de lo dispuesto por la fracción VI delartículo (sic) 37 de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 I. Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, puestos fijos y semifijos en la vía pública, de los contribuyentes, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, así como en los lugares donde se almacenen las mercancías;
 
-II. Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. Al presentarse los visitadores en el lugar donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 III. Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección;
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 IV. En toda visita domiciliaria se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los visitadores, en los términos de este Código o, en su caso, las irregularidades detectadas durante la inspección;
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 V. Si al cierre del acta de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la visita domiciliaria; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 VI. Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Previamente se deberá conceder al contribuyente un plazo de tres días hábiles para desvirtuar la comisión de la infracción presentando las pruebas y formulando los alegatos correspondientes. Si se observa que el visitado no se encuentra inscrito en el Registro Estatal de Contribuyentes, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
 
@@ -1117,27 +1447,31 @@ III. Señalen el nombre o domicilio de un tercero, real o ficticio, si se compru
 
 IV. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 49.
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, podrán servir para motivar las resoluciones de la Secretaría de Planeación y Finanzas y de cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones estatales.
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales, o bien que consten en los expedientes, documentos o base de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Planeación y Finanzas y de cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones estatales.
 
-Las copias o reproducciones que deriven del microfilm o disco óptico de documento que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionarios competente (sic) para ello, sin necesidad de cotejo con los originales.
+Cuando otras autoridades proporcionen expedientes o documentos a las autoridades fiscales conforme a lo dispuesto en el párrafo anterior, estas últimas deberán conceder a los contribuyentes un plazo de quince días, contado a partir de la fecha en la que les den a conocer tales expedientes o documentos, para manifestar por escrito lo que a su derecho convenga, lo cual formará parte del expediente administrativo correspondiente.
+
+Las mencionadas autoridades estarán a lo dispuesto en el primer párrafo de este artículo, sin perjuicio de su obligación de mantener la confidencialidad de la información proporcionada por terceros independientes que afecte su posición competitiva, a que se refiere el artículo 76 de este Código.
+
+Las copias o reproducciones que deriven del microfilm o disco óptico de documento que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionarios competentes para ello, sin necesidad de cotejo con los originales.
 
 ###### Artículo 50.
 
 Las autoridades fiscales, con motivo del ejercicio de sus facultades de comprobación, respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, para determinar contribuciones omitidas procederán como sigue:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-I. Determinarán, en primer lugar, las contribuciones omitidas en el último ejercicio de doce meses, por el que se hubiere presentado o debió haber sido presentada la declaración mensual del impuesto sobre nóminas y el impuesto de la prestación de servicio y hospedaje e impuesto sobre loterías rifas y sorteos, o la bimestral sobre honorarios por ejercicios lucrativos no gravados por el Impuesto al Valor Agregado, a más tardar el día anterior a aquel en que se ejerzan las facultades de comprobación, así como las contribuciones correspondientes al período transcurrido entre la fecha de terminación de dicho ejercicio y el momento en que se ejerzan las citadas facultades.
+I. Determinarán, en primer lugar, las contribuciones omitidas en el periodo o los ejercicios, por el que se hubiere presentado o debió haber sido presentada la declaración mensual del impuesto sobre nóminas, el impuesto de la prestación de servicio y hospedaje e impuesto sobre loterías, rifas y sorteos, o la bimestral sobre honorarios por ejercicios lucrativos no gravados por el Impuesto al Valor Agregado, a más tardar el día anterior a aquel en que se ejerzan las facultades de comprobación, así como las contribuciones correspondientes al período transcurrido entre la fecha de terminación de dichos periodos o ejercicios y el momento en que se ejerzan las citadas facultades.
 
 Si se tratare de contribuyentes cuyos estados financieros hubieren sido dictaminados por Contador Público autorizado, se considerará como último ejercicio, aquel de doce meses por el que se haya presentado el último dictamen, salvo, que hubieren transcurrido, cuando menos doce meses desde que presentó dicho dictamen sin haber presentado otro. En estos casos la determinación también podrá abarcar los meses posteriores a la presentación del último dictamen. Lo dispuesto en este párrafo se aplicará también a un ejercicio irregular, siempre que el ejercicio regular inmediato anterior también esté determinado;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-II. Al comprobarse que durante el período a que se refiere la fracción anterior, se omitió la presentación de la declaración del ejercicio de alguna contribución, o que el contribuyente incurrió en alguna irregularidad, se podrán determinar en el mismo acto o con posterioridad contribuciones omitidas correspondientes a ejercicios anteriores, siempre y cuando la autoridad emita una nueva orden de visita o solicitud de datos y documentos en términos de los artículos 37, fracciones II y III del presente código, respectivamente sin más limitación que lo dispuesto en el artículo 54 de este Código.
+II. Al comprobarse que durante el período a que se refiere la fracción anterior, se omitió la presentación de las declaraciones de alguna contribución, o que el contribuyente incurrió en alguna irregularidad, se podrán determinar en el mismo acto o con posterioridad contribuciones omitidas correspondientes a periodos o ejercicios anteriores, siempre y cuando la autoridad emita una nueva orden de visita o solicitud de datos y documentos en términos del artículo 37, fracciones II y III del presente Código, respectivamente, sin más limitación que lo dispuesto en el artículo 54 de este Código.
 
 Las irregularidades a que se refiere esta fracción, son las siguientes:
 
@@ -1157,53 +1491,145 @@ No se formularán querellas ni se impondrán multas por omisión en el pago de c
 
 Lo establecido en este artículo no limita el ejercicio de las facultades de comprobación de las autoridades fiscales.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
-Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los cuarenta y cinco días siguientes a aquel en que haya surtido efectos su notificación.
+Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los treinta días siguientesa (sic) aquel en que haya surtido efectos su notificación, excepto tratándose de créditos fiscales determinados en términos del artículo 36 penúltimo párrafo, de este Código, en cuyo caso el pago deberá de realizarse antes de que transcurra el plazo señalado en dicho párrafo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 52.
 
-Las autoridades fiscales a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de treinta y seis meses. Durante el plazo concedido se causarán recargos sobre el saldo insoluto, incluyendo accesorios, a la tasa que mediante Ley fije anualmente el Congreso del Estado.
+Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de doce meses para pago diferido y de treinta y seis meses para pago en parcialidades, siempre y cuando los contribuyentes:
 
-Las autoridades fiscales al autorizar el pago a plazos exigirán se garantice el interés fiscal en los términos del artículo 101 de este Código.
+I. Presenten mediante escrito libre ante la autoridad competente, la solicitud respectiva que cumpla con lo dispuesto en el artículo 19 y 19 Bis de éste Código.
 
-Cesará la autorización para pagar a plazos, en forma diferida o en parcialidades, cuando:
+La modalidad del pago a plazos elegida por el contribuyente en su solicitud de autorización de pago a plazos, podrá modificarse para el crédito de que se trate por una sola ocasión, siempre y cuando el plazo en su conjunto no exceda del plazo máximo establecido en el presente artículo.
 
-I. Desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente;
+II. Paguen como mínimo el 20% del monto total del crédito fiscal al momento de la solicitud de autorización del pago a plazos. El monto total del adeudo se integrará por la suma de los siguientes conceptos:
 
-II. El contribuyente sea declarado en quiebra o solicite su liquidación judicial; y
+a) El monto de las contribuciones omitidas actualizadas desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización.
 
-III. El contribuyente no pague tres parcialidades sucesivas.
+b) Las multas que correspondan actualizadas desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización.
 
-Cuando no se cubra alguna parcialidad dentro de la fecha o del plazo fijado, el contribuyente estará obligado a pagar recargos al fisco estatal por falta de pago oportuno, con forme a lo establecido por el artículo 22 de este Código, calculados sobre la cantidad no pagada.
+c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que solicite la autorización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+La actualización que corresponda al periodo mencionado se efectuará conforme a lo previsto por el artículo 22 de este Código.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 52 Bis.
+
+Para los efectos de la autorización a que se refiere el artículo anterior, se estará a lo siguiente:
+
+I. Tratándose de la autorización del pago a plazos en parcialidades, el saldo que se utilizará para el cálculo de las parcialidades será el resultado de disminuir el pago correspondiente al 20% señalado en la fracción II del artículo anterior, del monto total del adeudo a que hace referencia dicha fracción.
+
+El monto de cada una de las parcialidades deberá ser igual, y pagadas en forma mensual y sucesiva, para lo cual se tomará como base el saldo de la fracción anterior, el plazo elegido por el contribuyente en su solicitud de autorización de pago a plazos y la tasa mensual de recargos por prórroga que incluye actualización de acuerdo a la Ley de Ingresos del Estado de Tabasco, vigente en la fecha de la solicitud de autorización de pago a plazos en parcialidades.
+
+Cuando no se paguen oportunamente los montos de los pagos en parcialidades autorizados, el contribuyente estará obligado a pagar recargos por los pagos extemporáneos sobre el monto total de las parcialidades no cubiertas actualizadas, de conformidad con el artículo 22 de este Código, por el número de meses o fracción de mes desde la fecha en que se debió realizar el pago y hasta que éste se efectúe.
+
+II. Tratándose de la autorización del pago a plazos de forma diferida, el monto que se diferirá será el resultado de restar el pago correspondiente al 20% señalado en la fracción II del artículo anterior, del monto total del adeudo a que hace referencia dicha fracción.
+
+El monto a liquidar por el contribuyente, se calculará adicionando al monto referido en la fracción anterior, la cantidad que resulte de multiplicar la tasa de recargos por prórroga que incluye actualización de acuerdo a la Ley de Ingresos del Estado de Tabasco, vigente en la fecha de la solicitud de autorización de pago a plazos de forma diferida, por el número de meses, o fracción de mes transcurridos desde la fecha de la solicitud de pago a plazos de forma diferida y hasta la fecha señalada por el contribuyente para liquidar su adeudo y por el monto que se diferirá.
+
+El monto para liquidar el adeudo a que se hace referencia en el párrafo anterior, deberá cubrirse en una sola exhibición a más tardar en la fecha de pago especificada por el contribuyente en su solicitud de autorización de pago a plazos.
+
+III. Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo al que se hace referencia en la fracción II del artículo 52 de éste código, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado de acuerdo a lo dispuesto en las fracciones I y II de este artículo.
+
+IV. Se revocará la autorización para pagar a plazos en parcialidades o en forma diferida, cuando:
+
+a) No se otorgue, desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente de nueva garantía o amplíe la que resulte insuficiente.
+
+b) El contribuyente se encuentre sometido a un procedimiento de concurso mercantil o sea declarado en quiebra.
+
+c) Tratándose del pago en parcialidades el contribuyente no cumpla en tiempo y monto con tres parcialidades o, en su caso, con la última.
+
+d) Tratándose del pago diferido, se venza el plazo para realizar el pago y éste no se efectúe.
+
+En los supuestos señalados en los incisos anteriores las autoridades fiscales requerirán y harán exigible el saldo mediante el procedimiento administrativo de ejecución.
+
+El saldo no cubierto en el pago a plazos se actualizará y causará recargos, de conformidad con lo establecido en el artículo 22 de este Código, desde la fecha en que se haya efectuado el último pago conforme a la autorización respectiva.
+
+V. Los pagos efectuados durante la vigencia de la autorización se deberán aplicar al periodo más antiguo, en el siguiente orden:
+
+a) Recargos por prórroga.
+
+b) Recargos por mora.
+
+c) Accesorios en el siguiente orden:
+
+1. Multas.
+
+2. Gastos extraordinarios.
+
+3. Gastos de ejecución.
+
+4. Recargos.
+
+5. Indemnización a que se refiere el penúltimo párrafo del artículo 22 de este Código.
+
+d) Monto de las contribuciones omitidas, a las que hace referencia el inciso a) de la fracción II del artículo 52 de éste Código.
+
+VI. No procederá la autorización a que se refiere este artículo tratándose (sic) contribuciones que debieron pagarse en el año de calendario en curso en el que se solicite la autorización, así como, las contribuciones retenidas, trasladadas o recaudadas.
+
+VII. La autoridad fiscal podrá determinar y cobrar el saldo de las diferencias que resulten por la presentación de declaraciones, en las cuales, sin tener derecho al pago a plazos, los contribuyentes hagan uso en forma indebida de dicho pago a plazos, entendiéndose como uso indebido cuando se solicite cubrir las contribuciones y aprovechamientos que debieron pagarse en el año de calendario en curso, cuando se trate de Contribuciones retenidas, trasladadas o recaudadas; así como cuando procediendo el pago a plazos, no se presente la solicitud de autorización correspondiente en el plazo establecido o no se presente con todos los requisitos a que se refiere este artículo.
+
+Durante el periodo que el contribuyente se encuentre pagando a plazos en los términos de las fracciones I y II del presente artículo, las cantidades determinadas, no serán objeto de actualización, debido a que la tasa de recargos por prórroga la incluye, salvo que el contribuyente se ubique en alguna causal de revocación, o cuando deje de pagar en tiempo y monto alguna de las parcialidades, supuestos en los cuales se causará ésta de conformidad con lo previsto por el artículo 22 de este Código, desde la fecha en que debió efectuar el último pago y hasta que éste se realice.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 53.
 
-Cuando el contribuyente solicite autorización, en tanto se resuelve su solicitud, deberá pagar mensualmente parcialidades actualizadas a treintaiseisavas partes, considerando inclusive los recargos causados conforme a la tasa prevista en el artículo 22 de este Código, hasta la fecha en que se resuelva la solicitud respectiva; cuando dicha solicitud sea para cubrir parcialidades menores a treinta y seis meses, los pagos que deberá hacer mensualmente el contribuyente se efectuarán en proporción a lo solicitado. A más tardar al mismo día de calendario del mes siguiente a la fecha en que realizó el pago del 20% contemplado en la fracción II del artículo 52 de éste Código.
+Para los efectos del artículo 52 de este Código, cuando el contribuyente solicite autorización de pago a plazos, en parcialidades o diferido, en tanto se resuelve su solicitud, deberá realizar los pagos mensuales subsecuentes, de acuerdo con el número de parcialidades solicitadas, a más tardar el mismo día de calendario que corresponda al día en el que fue efectuado el pago a que se refiere el artículo 52, fracción II del presente Código o, en su caso, la fecha propuesta para el pago diferido, aplicando la tasa de recargos correspondiente, de acuerdo a lo establecido en el artículo 52 Bis de este Código.
 
 Cuando el contribuyente deje de pagar o pague fuera de plazo cualquiera de las parcialidades a que se refiere el párrafo anterior, se considerará por ese solo hecho, que ha desistido de su solicitud, debiendo cubrirse el saldo insoluto con recargos a partir de la fecha en que debió hacerse el pago, los que se causaron a la tasa prevista en el artículo 22 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 54.
 
-Las facultades de las autoridades fiscales para determinar las contribuciones omitidas y sus accesorios, así como para imponer sanciones por infracciones a dichas disposiciones, se extinguen en el plazo de cinco años contados a partir del día siguiente a aquel en que:
+Las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, así como para imponer sanciones por infracciones a las disposiciones fiscales, se extinguen en el plazo de cinco años contados a partir del día siguiente a aquél en que:
 
-I. Se presentó la declaración del ejercicio, cuando se tenga obligación de hacerlo. En estos casos las facultades se extinguirán por ejercicios completos, incluyendo aquellas facultades relacionadas con la exigibilidad de obligaciones distintas a la de presentar la declaración del ejercicio. No obstante lo anterior, cuando se presenten declaraciones complementarias, el plazo empezará a computarse a partir del día siguiente a aquel en que se presenten, por lo que hace a los conceptos modificados en relación a la última declaración de esa misma contribución en el ejercicio;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-II. Se presentó o debió haberse presentado declaración o aviso, que corresponda a una contribución que no se calcule por ejercicios o a partir de que se causaron las contribuciones cuando no exista la obligación de pagarla mediante declaración; y
+I. Se presentó la declaración del ejercicio, cuando se tenga obligación de hacerlo. En estos casos las facultades se extinguirán por años de calendario completos, incluyendo aquellas facultades relacionadas con la exigibilidad de obligaciones distintas de l a (sic) de presentar la declaración del ejercicio. No obstante lo anterior, cuando se presenten declaraciones complementarias el plazo empezará a computarse a partir del día siguiente a aquél en que se presentan, por lo que hace a los conceptos modificados en relación a la última declaración de esa misma contribución en el ejercicio.
 
-III. Se hubiera cometido la infracción a las disposiciones fiscales; pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. Se presentó o debió haberse presentado declaración o aviso que corresponda a una contribución que no se calcule por ejercicios o a partir de que se causaron las contribuciones cuando no exista la obligación de pagarlas mediante declaración;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+III. Se hubiera cometido la infracción a las disposiciones fiscales; pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente; y
+
+> <small>(ADICIONADA. P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV. Se levante el acta de incumplimiento de la obligación garantizada, en un plazo que no excederá de cuatro meses, contados a partir del día siguiente al de la exigibilidad de las fianzas constituidas a favor del Estado para garantizar el interés fiscal, la cual será notificada a la afianzadora.
 
 El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el Registro Estatal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como por los ejercicios en que no se presente alguna declaración del ejercicio, estando obligado a presentarlas; en este último caso, el plazo de diez años se computará a partir del día siguiente a aquel en que se debió haber presentado la declaración del ejercicio. En los casos en que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo, sumado al tiempo transcurrido entre la fecha en que debió presentarse la declaración omitida y la fecha en que se presentó espontáneamente, exceda de diez años. Para los efectos de este artículo las declaraciones del ejercicio no comprenden las de pagos provisionales.
 
-En los casos de responsabilidad solidaria a que se refiere el artículo 18 fracción III de este Código, el plazo será de tres años a partir de que la garantía del interés fiscal resulte insuficiente.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales, a que se refieren las fracciones III y IV del artículo 37, o cuando se interponga algún recurso administrativo o juicio.
+En los casos de responsabilidad solidaria a que se refiere el artículo 18, fracciones XII y XIII de este Código, el plazo será de cinco años a partir de que la garantía del interés fiscal resulte insuficiente.
 
-El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación antes mencionadas, se inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal. La suspensión a que se refiere este párrafo estará condicionada a que cada seis meses se levante, cuando menos, una acta parcial o final, o se dicte la resolución definitiva. De no cumplirse esta condición se entenderá que no hubo suspensión.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-En todo caso, el plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de diez años.
+El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones II, III y IV del artículo 37 de este Código; cuando se interponga algún recurso administrativo o juicio; o cuando las autoridades fiscales no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal. En estos dos últimos casos, se reiniciará el cómputo del plazo de caducidad a partir de la fecha en la que se localice al contribuyente. Asimismo, el plazo a que hace referencia este artículo se suspenderá en los casos de huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga y en el de fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación antes mencionadas inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal o cuando concluya el plazo que establece el artículo 42 Ter de este Código para emitirla. De no emitirse la resolución, se entenderá que no hubo suspensión.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+En todo caso, el plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de diez años. Tratándose de visitas domiciliarias, de revisión de la contabilidad en las oficinas de las propias autoridades o de la revisión de dictámenes, el plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de seis años con seis meses o de siete años, según corresponda.
 
 Las facultades de las autoridades fiscales para investigar hechos constitutivos de delitos en materia fiscal, no se extinguirán conforme a este artículo.
 
@@ -1221,9 +1647,29 @@ Los servidores públicos que intervengan en los diversos trámites relativos a l
 
 Dicha reserva o confidencialidad tampoco comprenderá la información relativa a los adeudos fiscales de los contribuyentes, que las autoridades fiscales proporcionen o difundan únicamente a las sociedades de información crediticia que operen de conformidad con la Ley para Regular las Sociedades de Información Crediticia, sea que estos adeudos emanen de contribuciones locales o de contribuciones federales coordinadas. A efecto de la correcta y debida aplicación de la facultad prevista en este párrafo, la Secretaría podrá solicitar o auxiliarse de la colaboración que brinden las autoridades federales.
 
-Sólo por acuerdo expreso del titular de la Secretaría se podrán publicar los siguientes datos por grupos de contribuyentes: nombre, domicilio, actividad y montos de adeudos fiscales no cubiertos o pagados.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 Mediante acuerdo de intercambio recíproco de información, suscrito por el titular de la Secretaría, se podrá suministrar la información a las autoridades fiscales de otras entidades federativas o del Gobierno Federal, siempre que se pacte o acuerde que la misma sólo se utilizará para efectos fiscales y se guardará el secreto fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+La reserva a que se refiere el primer párrafo de este artículo no resulta aplicable respecto del nombre, denominación o razón social y clave del registro federal de contribuyentes de aquéllos que se encuentren en los siguientes supuestos:
+
+I. Que tengan a su cargo créditos fiscales firmes.
+
+II. Que tengan a su cargo créditos fiscales determinados, que siendo exigibles, no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
+
+III. Que estando inscritos ante el Registro Estatal de Contribuyentes, se encuentren como no localizados.
+
+IV. Que haya recaído sobre ellos sentencia condenatoria ejecutoria respecto a la comisión de un delito fiscal.
+
+V. Que tengan a su cargo créditos fiscales que hayan sido afectados en los términos de lo dispuesto por el artículo 116 Bis de este Código.
+
+VI. Que se les hubiere condonado algún crédito fiscal.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría de Planeación y Finanzas publicará en su página de Internet el nombre, denominación o razón social y clave del Registro Estatal de Contribuyentes, de aquéllos que se ubiquen en alguno de los supuestos a los que se refiere el párrafo anterior. Los contribuyentes que estuvieran inconformes con la publicación de sus datos, podrán llevar a cabo el procedimiento de aclaración que la Secretaría determine, en el cual podrán aportar las pruebas que a su derecho convenga. La autoridad fiscal deberá resolver el procedimiento en un plazo de tres días, contados a partir del día siguiente al que se reciba la solicitud correspondiente y, en caso de aclararse dicha situación, la Secretaría procederá a eliminar la información publicada que corresponda.
 
 Los datos personales recabados a través de las solicitudes, avisos, declaraciones y demás manifestaciones, ya sean impresos o por medios electrónicos, serán incorporados, protegidos y tratados en los sistemas de datos personales de la Secretaría conforme a las disposiciones fiscales, con la finalidad de ejercer las facultades conferidas a la autoridad fiscal y únicamente podrán ser transmitidos en los términos y con las excepciones establecidas en el presente artículo, además de las previstas en otros ordenamientos legales fiscales estatales o federales.
 
@@ -1235,13 +1681,13 @@ Los datos personales recabados a través de las solicitudes, avisos, declaracion
 
 La aplicación de las multas por infracciones a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Cuando las multas no se paguen en le (sic) fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos del artículo 22 de este Código.
+Cuando las multas no se paguen en la fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos del artículo 22 de este Código.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con el antepenúltimo párrafo del artículo 22 de este Código.
+Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con el artículo 21, penúltimo párrafo de este Código.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -1321,7 +1767,7 @@ c) Se destruya o permita la destrucción total o parcial de la contabilidad;
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
-d) Que se microfilme o graben en disco ópticos o en cualquier otro medio que autorice la Secretaría de Planeación y Finanzas, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas. El agravante procederá sin perjuicio de que los documentos microfilmados o grabados, carezcan de valor probatorio;
+d) Que se microfilme o graben en disco (sic) ópticos o en cualquier otro medio que autorice la Secretaría de Planeación y Finanzas, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas. El agravante procederá sin perjuicio de que los documentos microfilmados o grabados, carezcan de valor probatorio;
 
 e) La comisión en el entero de contribuciones que se hayan retenido; y
 
@@ -1467,9 +1913,11 @@ V. No conservar la contabilidad a disposición de las autoridades en los plazos 
 
 VI. No expedir comprobante de sus actividades o expedirlos sin requisitos fiscales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 71.
 
-A quien cometa las infracciones relacionadas con las (sic) obligación de llevar la contabilidad a que se refiere el artículo 70, se impondrán las sanciones siguientes:
+A quien cometa las infracciones relacionadas con la o bligación (sic) de llevar la contabilidad a que se refiere el artículo 70, se impondrán las sanciones siguientes:
 
 I. De veinte a ciento ochenta días de salario mínimo a la comprendida en la fracción I;
 
@@ -1695,9 +2143,13 @@ I. Personalmente o por correo certificado con acuse de recibo, cuando se trate d
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
 
-III. Por estrados, en los casos que señalen las leyes fiscales y este Código;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-IV. Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiere fallecido y no se conozca al representante de la sucesión, hubiese desaparecido, se ignore su domicilio o el de su representante; y
+III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del Registro Estatal de Contribuyentes, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación o desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al Registro Estatal de Contribuyentes, después de la notificación del ejercicio de facultades de comprobación fiscal, o bien después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos; así como en los demás casos que señalen las Leyes fiscales y este Código;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV. Por edictos, en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión; y
 
 V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del artículo 97 de este Código.
 
@@ -1705,19 +2157,21 @@ V. Por instructivo, solamente en los casos y con las formalidades a que se refie
 
 Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que fueron hechas y al practicarlas deberá proporcionarse al interesado copia del acto administrativo que se notifique.
 
-> <small>N. DE E. DE LA APLICACIÓN DEL DECRETO 065 DE REFORMA PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL PRESENTE PÁRRAFO FORMABA PARTE DEL PRIMER PÁRRAFO.</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Cuando se haga la notificación, deberá señalarse la fecha en que se efectúe, recabando, de ser posible, nombre y firma de la persona con quien se entienda la diligencia y, si no lo es, se hará constar en el acta de notificación.
+Cuando se haga la notificación, deberá señalarse la fecha en que se efectúe, recabando, el nombre y la firma de la persona con quien se entienda la diligencia. Si ésta se niega a una u otra cosa, se hará constar en el acta de notificación.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-La manifestación que haga el interesado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento, si ésta es anterior a aquella en que debiera surtir efectos la notificación de acuerdo con el párrafo anterior.
+La manifestación que haga el interesado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma, desde la fecha en que manifieste haber tenido tal conocimiento, si ésta es anterior a aquella en que debiera surtir efectos la notificación de acuerdo con el párrafo anterior.
 
 ###### Artículo 96.
 
 Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales, si las personas a quienes debe notificarse se presentan en las mismas.
 
-También se podrán efectuar en el último domicilio que el interesado haya señalado para efectos del Registro Estatal de Contribuyentes, salvo que hubiere designado otro para recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de las actuaciones relacionadas con el trámite o la resolución de los mismos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Las notificaciones también se podrán efectuar en el último domicilio que el interesado haya señalado para efectos del Registro Estatal de Contribuyentes o en el domicilio fiscal que le corresponda de acuerdo con lo previsto en el artículo 13 de este Código. Asimismo, podrán realizarse en el domicilio que hubiere designado para recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de las actuaciones relacionadas con el trámite o la resolución de los mismos.
 
 Toda notificación personal realizada con quien deba entenderse será legalmente válida aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
 
@@ -1731,13 +2185,17 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, los honorarios que establezca este Código se causarán a cargo de quien incurrió en incumplimiento.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 98.
 
-Cuando se practique ilegalmente una notificación se impondrá al notificador una multa de hasta diez veces el salario mínimo.
+Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez días de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 99.
 
-Las notificaciones por estrado se harán fijando el documento que se pretenda notificar en las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día siguiente a aquel en que se hubiere fijado el documento.
+Las notificaciones por estrados se harán fijando durante quince días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquél en el que se hubiera f ijado (sic) o publicado el documento.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -1753,11 +2211,15 @@ III. Durante quince días en la página electrónica que al efecto establezcan l
 
 Las publicaciones a que se refiere este artículo contendrán un extracto de los actos que se notifican.
 
-Se tendrá como fecha de notificación la de la última publicación en cualquiera de los citados periódicos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Se tendrá como fecha de notificación la de la última publicación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 101.
 
-Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
+Los Contribuyentes podrán garantizar el interés fiscal, cuando se actualice alguno de los supuestos previstos en el artículo 61 y 103 de este Código, en alguna de las formas siguientes:
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
 
@@ -1771,11 +2233,17 @@ IV. Obligación solidaria asumida por un tercero que compruebe su idoneidad y so
 
 V. Embargo en la vía administrativa.
 
-La garantía deberá comprender, las contribuciones adeudadas, los accesorios causados, así como los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá ampliarse la garantía para que cubra el crédito y el importe de los recargos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse las garantías para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
-En este Código se establecerán los requisitos que deberán reunir las garantías, la Secretaría de Planeación y Finanzas vigilará que sean suficientes, tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes. En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+La autoridad fiscal vigilará que sean suficientes, tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación. En los casos en que los contribuyentes, a requerimiento de la autoridad fiscal, no lleven a cabo la ampliación o sustitución de garantía suficiente, ésta procederá al secuestro o embargo de otros bienes para garantizar el interés fiscal. En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+La garantía deberá constituirse dentro de los treinta días siguientes al en que surta efectos la notificación efectuada por la autoridad fiscal correspondiente de la resolución sobre la cual se deba garantizar el interés fiscal, salvo en los casos en que se indique un plazo diferente en otros preceptos de este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
 
@@ -1785,9 +2253,15 @@ La garantía del interés fiscal se otorgará a favor de la Secretaría de Plane
 
 Las garantías subsistirán hasta que proceda su cancelación en los términos que establezca este Código y los gastos que se originen será por cuenta del interesado.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-En los casos en que conforme a las leyes, los particulares estén obligados a otorgar garantía al Gobierno Estatal, se hará a favor de la Secretaría de Planeación y Finanzas y se aplicará en lo conducente lo dispuesto por este artículo.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+En ningún caso las autoridades podrán dispensar el otorgamiento de la garantía.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+La garantía deberá constituirse dentro de los treinta días en los que se originen cualquiera de los supuestos establecidos en el artículo 103 de este Código.
 
 ###### Artículo 103.
 
@@ -1819,11 +2293,17 @@ I. Bienes muebles, hasta por el setenta y cinco por ciento de su valor, siempre 
 
 No se aceptarán en prenda los bienes de fácil descomposición o deterioro; los que se encuentren embargados, ofrecidos en garantía, o con algún gravamen o afectación; los sujetos al régimen de copropiedad, cuando no sea posible que el Gobierno Estatal asuma de manera exclusiva la titularidad de todos los derechos; los afectos a algún fideicomiso; los que por su naturaleza o por disposición legal estén fuera del comercio y aquéllos que sean inembargables en términos del Código; así como las mercancías de procedencia extranjera, cuya legal estancia no esté acreditada en el país, los semovientes, las armas prohibidas y las materias y sustancias inflamables, contaminantes, radioactivas o peligrosas.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINAS 36 Y 37.</small>
 
-III (SIC). Bienes inmuebles, hasta por el setenta y cinco por ciento del avalúo o del valor catastral. Para estos efectos se deberá acompañar a la solicitud respectiva el certificado del Instituto Registral del Estado de Tabasco, en el que no aparezca anotado algún gravamen ni afectación urbanística o agraria, que hubiere sido expedido cuando más con tres meses de anticipación. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de éstos y el Interés fiscal a garantizar, no podrá exceder del setenta y cinco por ciento del valor;
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. Bienes inmuebles, hasta por el setenta y cinco por ciento del avalúo o del valor catastral. Para estos efectos se deberá acompañar a la solicitud respectiva el certificado del Instituto Registral del Estado de Tabasco, en el que no aparezca anotado algún gravamen ni afectación urbanística o agraria, que hubiere sido expedido cuando más con tres meses de anticipación. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de éstos y el Interés fiscal a garantizar, no podrá exceder del setenta y cinco por ciento del valor;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 En la hipoteca el otorgamiento de la garantía se hará en escritura pública, que deberá inscribirse en el Instituto Registral del Estado de Tabasco y contener los datos relacionados con el crédito fiscal. El otorgante podrá garantizar con la misma hipoteca los recargos futuros o ampliar la garantía cada año, en los términos del artículo 110 de este Código.
+
+III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
 ###### Artículo 106.
 
@@ -1917,13 +2397,19 @@ Las garantías constituidas para asegurar el interés fiscal, a que se refieren 
 
 Si la garantía consiste en depósito de dinero en las oficinas recaudadoras de la Secretaría de Planeación y Finanzas, una vez que el crédito fiscal quede firme se ordenará su aplicación por la misma Secretaría.
 
-Tratándose de fianzas a favor del Estado, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible se aplicará al Procedimiento Administrativo de Ejecución de conformidad con la Ley Federal de Instituciones de Fianzas.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Tratándose de fianza a favor del Gobierno del Estado de Tabasco, otorgado para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigibles se harán efectivas de conformidad con lo establecido en la Ley de Instituciones de Seguros y de Fianzas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 112.
 
-No se ejecutarán los actos administrativos cuando se garantice el interés fiscal. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de cuarenta y cinco días siguientes a la fecha en que surta efectos su notificación.
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación. Si a más tardar al vencimiento de dicho plazo se acredita la impugnación que se hubiere intentado y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el procedimiento administrativo de ejecución.
 
-Cuando el contribuyente hubiere interpuesto en tiempo y forma el recurso de revocación, el plazo para garantizar el interés fiscal será de cinco meses siguientes a la fecha en que surta efectos la notificación del acto, debiendo el interesado acreditar ante la autoridad fiscal, que lo interpuso dentro de los cuarenta y cinco días siguientes a esa fecha, a fin de suspender el Procedimiento Administrativo de Ejecución.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Cuando el contribuyente hubiere interpuesto en tiempo y forma el recurso de revocación previsto en este Código, no estará obligado a exhibir la garantía correspondiente, sino hasta que sea resuelto el medio de defensa señalado, para ello el contribuyente contará con un plazo de diez días siguientes a aquél en que haya surtido efectos la notificación de la resolución que recaiga al recurso de revocación, para pagar o garantizar los créditos fiscales.
 
 Cuando se impugne alguno o algunos de los créditos determinados por el acto administrativo, cuya ejecución fue suspendida, se pagarán los créditos fiscales no impugnados.
 
@@ -1961,25 +2447,103 @@ La cancelación de las garantías en las que con motivo de su otorgamiento se hu
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 115.
 
-Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante el Procedimiento Administrativo de Ejecución.
+Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante el procedimiento administrativo de ejecución.
 
-Se podrá practicar embargo precautorio para asegurar el interés fiscal, antes de la fecha en que el crédito fiscal esté determinado o sea exigible, cuando a juicio de la autoridad exista la probabilidad de que el obligado se ausente, enajene u oculte sus bienes o realice cualquier maniobra tendente a evadir el cumplimiento. Si el pago se hiciere dentro de los plazos legales, se levantará el embargo y el contribuyente no estará obligado a cubrir los gastos que origine la diligencia.
+Se podrá practicar embargo precautorio, sobre los bienes o la negociación del contribuyente conforme a lo siguiente:
 
-El embargo quedará sin efecto si la autoridad no emite, dentro del plazo de un año contado desde la fecha en que fue practicado, resolución en la que determine el crédito fiscal. Si dentro del plazo señalado la autoridad lo determina, el embargo precautorio se convertirá en definitivo y se proseguirá el Procedimiento Administrativo de Ejecución, conforme a las disposiciones de este capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución. Si el particular garantiza el interés fiscal en los términos del artículo 101, se levantará el embargo.
+I.- Procederá el embargo precautorio cuando el contribuyente:
 
-Son aplicables al embargo precautorio a que este artículo se refiere y al previsto por el artículo 36, fracción II, las disposiciones establecidas para el embargo y para la intervención.
+a) Haya desocupado el domicilio fiscal sin haber presentado el aviso de cambio de domicilio, después de haberse emitido la determinación respectiva.
 
-En ningún caso se aplicará el Procedimiento Administrativo de Ejecución para cobrar créditos derivados de productos.
+b) Se oponga a la práctica de la notificación de la determinación de los créditos fiscales correspondientes.
+
+c) Tenga créditos fiscales que debieran estar garantizados y no lo estén o la garantía resulte insuficiente, excepto cuando haya declarado, bajo protesta de decir verdad, que son los únicos bienes que posee.
+
+II. La autoridad trabará el embargo precautorio hasta por un monto equivalente a las dos terceras partes de la contribución o contribuciones determinadas incluyendo sus accesorios. Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia de pago y embargo y se levantará dicho embargo.
+
+La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones por las cuales realiza el embargo, misma que se notificará al contribuyente en ese acto.
+
+III. El embargo precautorio se sujetará al orden siguiente:
+
+a) Bienes inmuebles. En este caso, el contribuyente o la persona con quien se entienda la diligencia, deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, embargo anterior, se encuentran en copropiedad o pertenecen a sociedad conyugal alguna.
+
+b) Acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, estados y municipios y de instituciones o empresas de reconocida solvencia.
+
+c) Derechos de autor sobre obras literarias, artísticas o científicas; patentes de invención y registros de modelos de utilidad, diseños industriales, marcas y avisos comerciales.
+
+d) Obras artísticas, colecciones científicas, joyas, medallas, armas, antigüedades, así como instrumentos de arte y oficios, indistintamente.
+
+e) Dinero y metales preciosos.
+
+f) Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
+
+g) Los bienes muebles no comprendidos en las fracciones anteriores.
+
+h) La negociación del contribuyente.
+
+Los contribuyentes, responsables solidarios o terceros, deberán acreditar el valor del bien o los bienes sobre los que se practique el embargo precautorio.
+
+En caso de que los contribuyentes, responsables solidarios o terceros no cuenten con alguno de los bienes a asegurar o, bajo protesta de decir verdad, manifiesten no contar con ellos conforme al orden establecido en esta fracción o, en su caso, no acrediten el valor de los mismos, ello se asentará en el acta circunstanciada referida en el segundo párrafo de la fracción II de este artículo.
+
+IV. La autoridad fiscal ordenará mediante oficio dirigido a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, que procedan a inmovilizar y conservar los bienes señalados en el inciso f) de la fracción III de este artículo, a más tardar al tercer día siguiente a la recepción de la solicitud de embargo precautorio correspondiente formulada por la autoridad fiscal. Para efectos de lo anterior, la inmovilización deberá realizarse dentro de los tres días siguientes a aquél en que les fue notificado el oficio de la autoridad fiscal.
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización en una o más cuentas del contribuyente, deberán informar del cumplimiento de dicha medida a la autoridad fiscal que la ordenó a más tardar al tercer día siguiente a la fecha en que se haya ejecutado, señalando los números de las cuentas, así como el importe total que fue inmovilizado.
+
+En los casos en que el contribuyente, la entidad financiera, sociedades de ahorro y préstamo o de inversiones y valores, hagan del conocimiento de la autoridad fiscal que la inmovilización se realizó en una o más cuentas del contribuyente por un importe mayor al señalado en el segundo párrafo de este artículo, ésta deberá ordenar dentro de los tres días siguientes a aquél en que hubiere tenido conocimiento de la inmovilización en exceso, que se libere la cantidad correspondiente. Dichas entidades o sociedades cooperativas de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos inmovilizados en exceso, a más tardar a los tres días siguientes a aquél en que surta efectos la notificación del oficio de la autoridad fiscal.
+
+En ningún caso procederá embargar precautoriamente los depósitos bancarios, otros depósitos o seguros del contribuyente, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+Al acreditarse que ha cesado la conducta que dio origen al embargo precautorio, o bien, cuando exista orden de suspensión que el contribuyente haya obtenido emitida por autoridad competente, la autoridad deberá ordenar que se levante la medida dentro del plazo de tres días.
+
+La autoridad fiscal deberá ordenar a las entidades financieras, sociedades de ahorro y préstamo o de inversiones y valores, la de sin movilización (sic) de los bienes señalados en el inciso f) de la fracción III de este artículo, dentro de los tres días siguientes a aquél en que se acredite que cesó la conducta que dio origen al embargo precautorio o bien, que existe orden de suspensión emitida por autoridad competente.
+
+Las entidades financieras o sociedades cooperativas de ahorro y préstamo contarán con un plazo de tres días a partir de la recepción de la instrucción respectiva, ya sea a través de la Comisión de que se trate, o bien, de la autoridad fiscal, según sea el caso, para la liberación de los bienes embargados.
+
+V. A más tardar al tercer día siguiente a aquél en que hubiera tenido lugar el embargo precautorio, la autoridad fiscal notificará al contribuyente la conducta que originó la medida y, en su caso, el monto sobre el cual procede. La notificación se hará en términos del artículo 94 de este código.
+
+VI. Con excepción de los bienes a que se refiere el inciso f) de la fracción III de este artículo, los bienes embargados precautoriamente podrán, desde el momento en que se notifique el mismo y hasta que se levante, dejarse en posesión del contribuyente, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 122, del presente Código, salvo lo indicado en su tercer párrafo.
+
+El contribuyente que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
+
+Salvo tratándose de los bienes a que se refiere el inciso f) de la fracción III de este artículo, la autoridad fiscal deberá ordenar el levantamiento del embargo precautorio a más tardar al tercer día siguiente a aquél en que se acredite que cesó la conducta que dio origen al embargo precautorio, o bien, que existe orden de suspensión emitida por autoridad competente.
+
+La autoridad requerirá al obligado para que dentro del término de diez días desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento.
+
+Una vez practicado el embargo precautorio, el contribuyente afectado podrá ofrecer a la autoridad exactora alguna de las garantías que establece el artículo 101 de este Código, a fin de que el crédito fiscal y sus accesorios queden garantizados y se ordene el levantamiento del embargo trabado sobre los depósitos bancarios, otros depósitos o seguros del contribuyente.
+
+El embargo precautorio se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución, sujetándose a las disposiciones que este Código establece.
+
+Son aplicables al embargo precautorio a que se refiere este artículo, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables y no contravengan a lo dispuesto en este artículo.
 
 ###### Artículo 116.
 
 El crédito fiscal se extingue, por prescripción, en el término de cinco años.
 
-El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá interponer como excepción en los recursos administrativos. El término para la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al adeudor (sic) o por el reconocimiento expreso o tácito de éste, respecto de la existencia del crédito. Se considera gestión de cobro, cualquier actuación de la autoridad dentro del Procedimiento Administrativo de Ejecución, siempre que se haga del conocimiento del deudor.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, no libera de su pago.
+El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos o a través del juicio contencioso administrativo. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 112 de este Código, también se suspenderá el plazo de la prescripción.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad recaudadora o a petición del contribuyente.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -1992,6 +2556,14 @@ Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferio
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
 Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere el segundo párrafo de este artículo, se determinarán de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 116 Ter.
+
+Los créditos fiscales que se encuentren registrados en la cuenta especial de créditos incobrables a que se refiere el artículo 116 Bis de este Código, se extinguirán, transcurridos cinco años contados a partir de que se haya realizado dicho registro, cuando exista imposibilidad práctica de cobro.
+
+Para estos efectos, se considera que existe imposibilidad práctica de cobro, entre otras, cuando los deudores no tengan bienes embargables, el deudor hubiera fallecido o desaparecido sin dejar bienes a su nombre o cuando por sentencia firme hubiera sido declarado en quiebra por falta de activo.
 
 ###### Artículo 117.
 
@@ -2017,51 +2589,93 @@ Cuando sea necesario emplear el Procedimiento Administrativo de Ejecución para 
 
 #### Sección Segunda. Embargo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 120.
 
-Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios, requerirán de pago al deudor y, en caso de no hacerlo en el acto, procederán como sigue:
+Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor y, en caso de que éste no pruebe en el acto haberlo efectuado, procederán como sigue:
 
-I. Embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlo en favor del fisco;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+I. A embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlos en favor del fisco, o a embargar los depósitos o seguros a que se refiere el artículo 124, fracción I del presente Código, a fin de que se realicen las transferencias de fondos para satisfacer el crédito fiscal y sus accesorios legales.
+
+En ningún caso procederá el embargo de los depósitos o seguros, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado el embargo de los depósitos o seguros a que se refiere el artículo 124, fracción I, de este Código en una o más cuentas del contribuyente, deberán informarlo a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a la fecha en la que se haya ejecutado, señalando el número de las cuentas así como el importe total que fue embargado. La autoridad fiscal a su vez deberá notificar al contribuyente de dicho embargo a más tardar al tercer día siguiente a aquél en que le hubieren comunicado éste.
+
+En los casos en que la autoridad fiscal tenga conocimiento de que el embargo se realizó por un importe mayor al señalado en el segundo párrafo de este artículo, ordenará a más tardar al tercer día siguiente a aquél en que hubiere tenido conocimiento del embargo en exceso, a las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que correspondan, liberar la cantidad correspondiente. Las entidades o sociedades de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos embargados en exceso, a más tardar al tercer día siguiente a aquél en que surta efectos la notificación del oficio de la autoridad fiscal.
 
 II. Embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellas, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
 
-El embargo de bienes raíces, derechos reales o negociaciones de cualquier género, se inscribirá en el Registro Público que corresponda.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público, en todas ellas se inscribirá el embargo.
+El embargo de bienes raíces, derechos reales o negociaciones de cualquier género, se inscribirá en el Instituto Registral que corresponda.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Instituto Registral, en todas ellas se inscribirá el embargo.
 
 Si la exigibilidad se origina por cese de la prórroga, de la autorización para pagar en parcialidades, por error aritmético en las declaraciones o por situaciones previstas en la fracción I del artículo 37 de este Código, el deudor podrá efectuar el pago dentro de los seis días hábiles siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+No se practicará embargo respecto de aquellos créditos fiscales que hayan sido impugnados en sede administrativa, tampoco se practicará embargo cuando se encuentre impugnado en sede jurisdiccional y esté garantizado en términos de lo establecido en las disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 121.
 
-El ejecutor designado por el Jefe de la Oficina Recaudadora se constituirá en el domicilio del deudor y practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que se señalan para las notificaciones personales en el artículo 96 de este Código. De esta diligencia se levantará acta pormenorizada de la que se entregará copia a la persona con quien se entienda la misma. El acta deberá llenar los requisitos a que se refiere el artículo 33 de este ordenamiento.
+El ejecutor designado por el jefe de la oficina exactora se constituirá en el lugar donde se encuentren los bienes propiedad del deudor y deberá identificarse ante la persona con quien se practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que se señalan para las notificaciones en este Código. De esta diligencia se levantará acta circunstanciada de la que se entregará copia a la persona con quien se entienda la misma y se notificará personalmente al propietario de los bienes embargados, en caso de no localizarlo se le notificará conforme a las fracciones III y IV del artículo 94 de este Código, las cuales tendrán la misma validez como si se hubiesen practicado de manera personal.
 
 Si la notificación del crédito fiscal adeudado o del requerimiento en su caso, se hizo por edicto, la diligencia se entenderá con la autoridad municipal o local de la circunscripción de los bienes, salvo que, en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 122.
 
-Los bienes o negociaciones embargados se dejarán bajo la guarda del o de los depositarios necesarios.
+Los bienes o negociaciones embargados se podrándejar (sic) bajo la guarda del o de los depositarios que se hicieren necesarios.
 
-Los jefes de las oficinas ejecutoras, bajo su responsabilidad, nombrarán y removerán a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Los jefes de las oficinas ejecutoras, bajo su responsabilidad, nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales. Cuando se efectúe la remoción del depositario, éste deberá poner a disposición de la autoridad ejecutora los bienes que fueron objeto de la depositaría, pudiendo ésta realizar la sustracción de los bienes para depositarlos en almacenes bajo su resguardo o entregarlos al nuevo depositario.
 
 En los embargos de bienes raíces o de negociaciones, los depositarios tendrán el carácter de administradores o de interventores con cargo a la caja, según el caso, con las facultades y obligaciones señaladas en los artículos 134, 135 y 136 de este Código.
 
-La responsabilidad de los depositarios cesará con la entrega de los bienes embargados a satisfacción de las autoridades fiscales. El depositario será designado por el ejecutor cuando no lo hubiere hecho el jefe de la oficina recaudadora, pudiendo recaer el nombramiento en el ejecutado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+La responsabilidad de los depositarios cesará con la entrega de los bienes embargados a satisfacción de las autoridades fiscales.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+El ejecutor podrá colocar sellos o marcas oficiales con los que se identifiquen los bienes embargados, lo cual se hará constar en el acta a que se refiere el primer párrafo del artículo 121 de este Código.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+El depositario será designado por el ejecutor cuando no lo hubiere hecho el jefe de la oficina exactora, pudiendo recaer el nombramiento en el ejecutado.
 
 ###### Artículo 123.
 
 El embargo podrá ampliarse en cualquier momento del Procedimiento Administrativo de Ejecución, cuando la Oficina Ejecutora estime que los bienes embargados son insuficientes para cubrir los créditos fiscales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 124.
 
-La persona con quien se entienda la diligencia de embargo, tendrá derecho a señalar los bienes en que éste se deba trabar, sujetándose al orden siguiente:
+La persona con quien se entienda la diligencia de embargo, tendrá derecho a señalar los bienes en que éste se deba trabar, siempre que los mismos sean de fácil realización o venta, sujetándose al orden siguiente:
 
-I. Dinero, metales preciosos y depósitos bancarios;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+I. Dinero, metales preciosos, depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
+
+En el caso de que se embarguen depósitos bancarios, otros depósitos o seguros del contribuyente a que se refiere el párrafo anterior, el monto del embargo sólo podrá ser hasta por el importe del crédito fiscal actualizado y sus accesorios legales que correspondan hasta la fecha en que se practique, ya sea en una o más cuentas. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
 
 II. Acciones, bonos, cupones vencidos, valores mobiliarios y en general créditos de inmediato y fácil cobro, a cargo de entidades o dependencias de la Federación, Estados, Municipios, Instituciones o Empresas de reconocida solvencia;
 
 III. Bienes muebles no comprendidos en las fracciones anteriores; y
 
-IV. Bienes inmuebles.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV. Bienes inmuebles. En este caso, el deudor o la persona con quien se entienda la diligencia deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, embargo anterior, se encuentran en copropiedad o pertenecen a sociedad conyugal alguna.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
@@ -2084,6 +2698,64 @@ c) Bienes de fácil descomposición, deterioro o inflamables.
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 El ejecutor deberá señalar, invariablemente, bienes que sean de fácil realización o venta. En el caso de bienes inmuebles, el ejecutor solicitará al deudor o a la persona con quien se entienda la diligencia que manifieste bajo protesta de decir verdad si dichos bienes reportan cualquier gravamen real, embargo anterior, se encuentran en copropiedad o pertenecen a sociedad conyugal alguna. Para estos efectos, el deudor o la persona con quien se entienda la diligencia deberá acreditar fehacientemente dichos hechos dentro de los 15 días siguientes a aquél en que se inició la diligencia correspondiente, haciéndose constar esta situación en el acta que se levante o bien, su negativa.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 125 Bis.
+
+La autoridad fiscal procederá a la inmovilización de depósitos bancarios, seguros o cualquier otro depósito en moneda nacional o extranjera que se realice en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, a excepción de los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, incluidas las aportaciones voluntarias que se hayan realizado hasta por el monto de las aportaciones efectuadas conforme a la Ley de la materia, de acuerdo con lo siguiente:
+
+I. Cuando los créditos fiscales se encuentren firmes.
+
+II. Tratándose de créditos fiscales que se encuentren impugnados y no estén debidamente garantizados, procederá la inmovilización en los siguientes supuestos:
+
+a) Cuando el contribuyente no se encuentre localizado en su domicilio o desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio al registro estatal de contribuyentes.
+
+b) Cuando no esté debidamente asegurado el interés fiscal por resultar insuficiente la garantía ofrecida.
+
+c) Cuando la garantía ofrecida sea insuficiente y el contribuyente no haya efectuado la ampliación requerida por la autoridad.
+
+d) Cuando se hubiera realizado el embargo de bienes cuyo valor sea insuficiente para satisfacer el interés fiscal o se desconozca el valor de éstos.
+
+Sólo procederá la inmovilización hasta por el importe del crédito fiscal y sus accesorios o, en su caso, hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir los mismos a la fecha en que se lleve a cabo la inmovilización. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+La autoridad fiscal ordenará mediante oficio dirigido a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, a efecto de que éstas últimas realicen la inmovilización y conserven los fondos depositados. Para efectos de lo anterior, la inmovilización deberán realizarla a más tardar al tercer día siguiente a aquel en que les fue notificado el oficio de la autoridad fiscal.
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización de los depósitos o seguros en una o más cuentas del contribuyente, deberán informar del cumplimiento de dicha medida a la autoridad fiscal que la ordenó, a más tardar al tercer día siguiente a la fecha en que se ejecutó, señalando el número de las cuentas, así como el importe total que fue inmovilizado. La autoridad fiscal notificará al contribuyente sobre dicha inmovilización, a más tardar al tercer día siguiente a aquél en que le hubieren comunicado ésta.
+
+En los casos en que el contribuyente, la entidad financiera, sociedades de ahorro y préstamo o de inversiones y valores, haga del conocimiento de la autoridad fiscal que la inmovilización se realizó en una o más cuentas del contribuyente por un importe mayor al señalado en el segundo párrafo de este artículo, ésta deberá ordenar a más tardar dentro de los tres días siguientes a aquél en que hubiere tenido conocimiento de la inmovilización en exceso, que se libere la cantidad correspondiente. Dichas entidades o sociedades cooperativas de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos inmovilizados en exceso, a más tardar al tercer día siguiente a aquél en que surta efectos la notificación del oficio de la autoridad fiscal.
+
+En caso de que en las cuentas a que se refiere el primer párrafo del presente artículo, no existan recursos suficientes para garantizar el crédito fiscal y sus accesorios, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate, deberá efectuar una búsqueda en su base de datos, a efecto de determinar si el contribuyente tiene otras cuentas con recursos suficientes para tal efecto. De ser el caso, la entidad o sociedad procederá a inmovilizar a más tardar dentro de los tres días siguientes a aquél en que se les ordene la inmovilización y conservar los recursos depositados hasta por el monto del crédito fiscal. En caso de que se actualice este supuesto, la entidad o sociedad correspondiente deberá notificarlo a la autoridad fiscal, dentro del plazo de tres días contados a partir de la fecha de inmovilización, a fin de que dicha autoridad realice la notificación que proceda conforme al párrafo anterior.
+
+La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberá informar a la autoridad fiscal a que se refiere el primer párrafo de este artículo, el incremento de los depósitos por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente.
+
+Los fondos de la cuenta del contribuyente únicamente podrán transferirse cuando el crédito fiscal relacionado, incluyendo sus accesorios quede firme, y hasta por el importe que resulte suficiente para cubrirlo a la fecha en que se realice la transferencia.
+
+En los casos en que el crédito fiscal incluyendo sus accesorios, aún no quede firme, el contribuyente titular de las cuentas inmovilizadas podrá, de acuerdo con el artículo 101 de este Código, ofrecer una garantía que comprenda el importe del crédito fiscal, incluyendo sus accesorios a la fecha de ofrecimiento. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de cinco días siguientes a la presentación de la garantía. La autoridad tendrá la obligación de comunicar a la entidad financiera o la sociedad cooperativa de ahorro y préstamo el sentido de la resolución, enviándole copia de la misma, dentro del plazo de cinco días siguientes a aquél en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la entidad o sociedad de que se trate levantará la inmovilización de la cuenta.
+
+En ningún caso procederá la inmovilización de los depósitos o seguros, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 125 Ter.
+
+En los casos en que el crédito fiscal se encuentre firme, la autoridad fiscal procederá como sigue:
+
+I. Si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció una forma de garantía del interés fiscal suficiente antes de que el crédito fiscal quedara firme, la autoridad fiscal ordenará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la autoridad fiscal, dentro de los tres días posteriores a la orden de transferencia, el monto transferido y acompañar el comprobante que acredite el traspaso de los fondos a la cuenta de la Secretaría de Planeación y Finanzas o de la autoridad fiscal que corresponda.
+
+II. Si el interés fiscal se encuentra garantizado en alguna forma distinta a las establecidas en las fracciones I y III, del artículo 101 de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días siguientes a la notificación del requerimiento. En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder en los términos de la fracción anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo, informe a la autoridad fiscal haber transferido los recursos suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente.
+
+III. Si el interés fiscal se encuentra garantizado en alguna de las formas establecidas en las fracciones I y III, del artículo 101 de este Código, la autoridad fiscal procederá a hacer efectiva la garantía.
+
+IV. Si el interés fiscal no se encuentra garantizado, la autoridad fiscal podrá proceder a la transferencia de recursos en los términos de la fracción I de este artículo.
+
+En los casos indicados en este artículo, las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores deberán informar a la autoridad fiscal que ordenó la transferencia el monto transferido, a más tardar al tercer día siguiente de la fecha en que ésta se realizó. La autoridad fiscal deberá notificar al contribuyente la transferencia de los recursos, conforme a las disposiciones aplicables, a más tardar al tercer día siguiente a aquél en que se hizo de su conocimiento la referida transferencia.
+
+Si al transferirse el importe el contribuyente considera que éste es superior al crédito fiscal, deberá demostrar tal hecho ante la autoridad fiscal con prueba documental suficiente, para que dicha autoridad proceda al reintegro de la cantidad transferida en exceso en un plazo no mayor de veinte días a partir de que se notifique al contribuyente la transferencia de los recursos. Si a juicio de la autoridad fiscal las pruebas no son suficientes, se lo notificará dentro del plazo antes señalado, haciéndole saber que puede hacer valer el recurso de revocación correspondiente, o bien, presentar juicio contencioso administrativo.
+
+El fisco Estatal será preferente para recibir la transferencia de fondos de las cuentas inmovilizadas de los contribuyentes para el pago de créditos provenientes de ingresos que el Estado debió percibir, en los mismos términos establecidos en el artículo 118 de este Código.
+
+En los casos en que el fisco federal y el fisco estatal, concurrentemente ordenen en contra de un mismo deudor la inmovilización de fondos o seguros con base en lo previsto en el artículo anterior, la transferencia de fondos se sujetará al orden que establece el artículo 117 de este Código.
 
 ###### Artículo 126.
 
@@ -2111,9 +2783,17 @@ X. Los sueldos y salarios;
 
 XI. Las pensiones de cualquier tipo;
 
-XII. Los ejidos; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XIII. Los bienes pertenecientes a los Municipios del Estado de Tabasco.
+XII. Los ejidos;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XIII. Los bienes pertenecientes a los Municipios del Estado de Tabasco; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XIV. Los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, incluidas las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, conforme a lo establecido en la Ley de los Sistemas de Ahorro para el Retiro.
 
 ###### Artículo 127.
 
@@ -2125,17 +2805,23 @@ Cuando los bienes señalados para la traba estuvieren ya embargados por otras au
 
 Si los bienes señalados para la ejecución hubieren sido ya embargados por parte de autoridades fiscales federales y/o municipales, se practicará la diligencia, entregándose los bienes al depositario que designe la autoridad estatal y se dará aviso a la autoridad federal y/o municipal. En caso de inconformidad, la controversia será resuelta por los tribunales judiciales de la federación. En tanto se resuelve el procedimiento respectivo, no se hará aplicación del producto, salvo, que se garantice el interés fiscal a satisfacción de la Secretaría de Finanzas del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 129.
 
-El embargo de créditos será notificado directamente por la oficina ejecutora a los deudores del embargado, para que no hagan el pago de las cantidades respectivas a éste sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
+El embargo de créditos será notificado directamente por la autoridad fiscal a los deudores del embargado, y se le requerirá con el objeto de que no efectúen el pago de las cantidades respectivas a éste sino a la autoridad fiscal, apercibidos de doble pago en caso de desobediencia.
 
-Si en cumplimiento de lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el Registro Público que corresponda, la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes a la notificación, firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
+Si en cumplimiento de lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el Instituto Registral que corresponda, la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes a la notificación, firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
 
-En caso de abstención del titular de los créditos embargados, transcurrido el plazo indicado, el jefe de la oficina ejecutora firmará la escritura o documentos relativos en rebeldía de aquél y lo hará del conocimiento del Registro Público que corresponda, para los efectos procedentes.
+En caso de abstención del titular de los créditos embargados, transcurrido el plazo indicado, el jefe de la oficina ejecutora firmará la escritura o documentos relativos en rebeldía de aquél y lo hará del conocimiento del Instituto Registral que corresponda, para los efectos procedentes.
+
+El incumplimiento en que incurra el deudor del embargado a lo indicado en el primer párrafo de este artículo, dentro del plazo que para tal efecto le haga del conocimiento la autoridad fiscal, hará exigible el monto respectivo a través del procedimiento administrativo de ejecución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 130.
 
-El dinero, metales preciosos, alhajas y valores mobiliarios embargados se entregarán por el depositario a la oficina ejecutora, previo inventario, dentro de un plazo que no excederá de veinticuatro horas; tratándose de los demás bienes, el plazo será de cinco días.
+El dinero, metales preciosos, alhajas y valores mobiliarios embargados, se entregarán por el depositario a la oficina ejecutora, previo inventario, dentro de un plazo que no excederá de veinticuatro horas. Tratándose de los demás bienes, el plazo será de cinco días contados a partir de aquél en que fue hecho el requerimiento para tal efecto.
 
 Las sumas de dinero objeto del embargo, así como la cantidad que señale el propio ejecutado, la cual nunca podrá ser menor del veinticinco por ciento del importe de los frutos y productos de los bienes embargados, se aplicarán a cubrir el crédito fiscal al recibirse en la caja de la oficina ejecutora.
 
@@ -2157,6 +2843,10 @@ Si no fuere factible romper o forzar las cerraduras de cajas u otros objetos uni
 
 Cuando las autoridades fiscales embarguen negociaciones, el depositario designado tendrá el carácter de interventor con cargo a la caja o de administrador.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+En la intervención de negociaciones será aplicable, en lo conducente, las secciones de este Capítulo.
+
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 134.
@@ -2169,9 +2859,11 @@ Cuando el interventor tenga conocimiento de irregularidades en el manejo de la n
 
 Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables o, en su caso, procederá a solicitar ante la autoridad competente el inicio del concurso mercantil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 135.
 
-El interventor administrador tendrá todas las facultades que normalmente corresponda a la administración de la sociedad y plenos poderes con las facultades que requieran cláusula especial conforme a la ley, para ejercer actos de dominio o administración, para pleitos y cobranzas, otorgar o suscribir títulos de créditos, presentar denuncias y querellas y desistirse de estas últimas, previo acuerdo de la oficina ejecutora, así como para otorgar los poderes generales o especiales que juzgue conveniente, revocar los otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
+El interventor administrador tendrá todas las facultades que normalmente corresponda a la administración de la sociedad y plenos poderes con las facultades que requieran cláusula especial conforme a la ley, para ejercer actos de dominio y de administración, para pleitos y cobranzas, otorgar o suscribir títulos de créditos, presentar denuncias y querellas y desistirse de estas últimas, previo acuerdo de la oficina ejecutora, así como para otorgar los poderes generales o especiales que juzgue conveniente, revocar los otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
 
 El interventor administrador no quedará supeditado en su actuación al consejo de administración, asamblea de accionista, socios o partícipes.
 
@@ -2187,9 +2879,13 @@ II. Rendir cuentas mensuales comprobadas a la oficina ejecutora.
 
 El interventor administrador no podrá enajenar los bienes del activo fijo. Cuando se den los supuestos de enajenación de la negociación intervenida, a que se refiere el artículo 143 de este Código, se procederá al remate de conformidad con las disposiciones contenidas en la siguiente sección de este capítulo.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 137.
 
-El nombramiento de interventor administrador deberá anotarse en el Registro Público que corresponda al domicilio de la negociación intervenida.
+El nombramiento de interventor administrador deberá anotarse en el Instituto Registral que corresponda al domicilio de la negociación intervenida.
+
+Sin perjuicio de lo dispuesto por el artículo 135 de este Código, la asamblea y administración de la sociedad podrán continuar reuniéndose regularmente para conocer de los asuntos que les competen y de los informes que formule el interventor administrador sobre el funcionamiento y las operaciones de la negociación, así como para opinar sobre los asuntos que les someta a su consideración. El interventor podrá convocar a asamblea de accionistas, socios o partícipes y citar a la administración de la sociedad con los propósitos que considere necesarios o convenientes.
 
 ###### Artículo 138.
 
@@ -2199,9 +2895,11 @@ En caso de que la negociación que se pretenda intervenir, ya lo estuviera por m
 
 La intervención se levantará cuando el crédito fiscal se hubiere satisfecho o, cuando de conformidad con este Código, se haya enajenado la negociación. En estos casos la oficina ejecutora comunicará el hecho al Registro Público que corresponda para que se cancele la inscripción respectiva.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 140.
 
-Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida, cuando lo recaudado en tres meses no alcance a cubrir por lo menos el veinticuatro por ciento del crédito fiscal, salvo, que se trate de negociaciones que obtengan sus ingresos en un determinado período del año, en cuyo caso el porciento será el que corresponda al número de meses transcurridos, a razón del ocho por ciento mensual y siempre que lo recaudado no alcance para cubrir el porciento del crédito que resulte.
+Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida o a la enajenación de los bienes o derechos que componen la misma de forma separada, cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 24% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado período del año, en cuyo caso el porcentaje será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porcentaje del crédito que resulte.
 
 #### Sección Cuarta. Remate
 
@@ -2223,23 +2921,31 @@ IV. Al quedar firme la resolución del acto impugnado.
 
 Salvo los casos que este Código autoriza, toda enajenación se hará en subasta pública que se llevará a cabo en el local de la oficina ejecutora o a través de medios electrónicos. La autoridad podrá ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 143.
 
-La base para enajenación de los bienes inmuebles y negociaciones embargados, será el avalúo pericial conforme a las reglas que establezca este Código y, en los demás casos, la que fijen de común acuerdo la autoridad y el embargado en un plazo de seis días contados a partir de la fecha en que se hubiere practicado el embargo. A falta de acuerdo, la autoridad practicará el avalúo pericial. En todos los casos, la autoridad notificará personalmente al embargado el avalúo practicado.
+La base para enajenación de los bienes inmueblesembargadosserá (sic) el de avalúo y para negociaciones el avalúo pericial, en todos los demás casos, la autoridad practicará avalúo pericial. En todos los casos, la autoridad notificará personalmente el avalúo practicado en los términos de este código.
 
-Los avalúos que se practiquen para efectos fiscales, tendrán vigencia durante seis meses, contados a partir de la fecha en que se efectúen y deberán realizarse por las autoridades fiscales, instituciones de crédito o por la comisión de avalúos de bienes nacionales. El embargado o terceros acreedores que no estén conformes con el avalúo, podrán hacer valer el recurso de oposición al procedimiento administrativo de ejecución, debiendo designar perito de su parte.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Los avalúos que se practiquen para efectos fiscales, tendrán vigencia durante seis meses, contados a partir de la fecha en que se efectúen y deberán realizarse por las autoridades fiscales, instituciones de crédito, por peritos registrados ante la Comisión Estatal de Valuadores o peritos autorizados conforme al artículo 29 de la Ley de Valuación para el Estado de Tabasco. El embargado o terceros acreedores que no estén conformes con el avalúo o avalúo pericial, podrán hacer valer el recurso de revocación a que se refiere la fracción II, inciso b), del artículo 166 de este Código, debiendo designar en el mismo como perito de su parte a cualquiera de los valuadores señalados en este párrafo.
 
 Cuando el embargado o terceros acreedores no interpongan el recurso dentro del plazo legal o haciéndolo no designen valuador, se tendrá por aceptado el avalúo realizado conforme al segundo párrafo de este artículo.
 
 Cuando del dictamen rendido por el perito del embargado o terceros acreedores, resulte un valor superior a un diez por ciento al determinado conforme al segundo párrafo de este artículo, la autoridad recaudadora designará dentro del término de seis días, un perito tercero valuador que será cualquiera de los señalados en este Código. El avalúo que se fije será la base para la enajenación de los bienes.
 
-En todos los casos a que se refieren los párrafos que anteceden, los peritos, a partir de su designación, deberán rendir su dictamen en un plazo de diez días si se trata de bienes muebles, de veinte si son inmuebles y de treinta cuando sean negociaciones.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+En todos los casos a que se refieren los párrafos que anteceden, los peritos deberán rendir su dictamen en un plazo de cinco días si se trata de bienes muebles, diez días si son inmuebles y quince días cuando sean negociaciones, a partir de la fecha de su aceptación.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 144.
 
-El remate deberá ser convocado para una fecha dentro de los treinta días siguientes a aquella en que se determinó el precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos diez días antes del remate y se fijará en sitio visible y usual de la oficina ejecutora y en lugares públicos que se juzgue conveniente.
+El remate deberá ser convocado al día siguiente de haberse efectuado la notificación del avalúo, para que tenga verificativo dentro de los veinte días siguientes. La convocatoria se hará cuando menos diez días antes del inicio del período señalado para el remate y la misma se mantendrá en la página electrónica de las autoridades fiscales hasta la conclusión del remate.
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces el salario mínimo elevado al año, la convocatoria se publicará en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación, dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
+La convocatoria se publicará en la página electrónica de las autoridades fiscales, en la cual se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
 ###### Artículo 145.
 
@@ -2269,35 +2975,61 @@ Al escrito en que se haga la postura se acompañará necesariamente un depósito
 
 El importe de los depósitos que se constituyan de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados; inmediatamente después de fincado el remate, previa orden de la autoridad ejecutora, se devolverán los certificados de depósitos a los postores o las cantidades depositadas en la propia oficina, excepto, el que corresponda al admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 150.
 
-El escrito en que se haga la postura deberá contener:
+El escrito en que se haga la postura deberá contener los siguientes datos:
 
-I. Cuando se trate de personas físicas, el nombre, la nacionalidad y domicilio del postor y, en su caso, clave del registro estatal de contribuyentes; tratándose de sociedades, el nombre o razón social, fecha de constitución, clave del registro estatal de contribuyentes y domicilio social; y
+I. Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor y, en su caso, la clave del registro federal de contribuyentes; tratándose de personas jurídicas colectivas, el nombre o razón social, la fecha de constitución, la clave del registro federal de contribuyentes en su caso y el domicilio social;
 
-II. La cantidad que se ofrezca y la forma de pago.
+II. La cantidad que se ofrezca;
+
+III. El número de cuenta bancaria y nombre de la institución de crédito en la que se reintegrarán, en su caso, las cantidades que se hubieran dado en depósito;
+
+IV. La dirección de correo electrónico y el domicilio para oír y recibir notificaciones; y
+
+V. El monto y el comprobante del depósito que haya realizado.
+
+Si las posturas no cumplen los requisitos a que se refieren las fracciones anteriores y los que se señalen en la convocatoria, la autoridad fiscal no las calificará como posturas legales, situación que se hará del conocimiento del interesado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 151.
 
-El día y hora señalados en la convocatoria, el jefe de la oficina ejecutora hará saber a los presentes, las posturas que fueron calificadas como legales y cual es la mejor de ellas; concediendo plazos sucesivos de cinco minutos cada uno, hasta que la último postura sea mejorada.
+El día y hora señalados en la convocatoria, el jefe de la oficina ejecutora hará saber a los presentes, las posturas que fueron calificadas como legales y cuál es la mejor de ellas; concediendo plazos sucesivos de cinco minutos cada uno, hasta que la última postura sea mejorada. Una vez transcurrido el último plazo sin que se reciba una mejor postura se tendrá por concluido el remate.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 El jefe de la oficina ejecutora fincará el remate en favor de quien haga la mejor postura. Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la postura más alta, se aceptará la primera postura que se haya recibido, salvo lo dispuesto por la fracción III del artículo 158.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 152.
 
-Cuando el postor, en cuyo favor se hubiere fincado un remate, no cumple con las obligaciones contraídas y las que este Código señale, perderá el importe del depósito que hubiere constituido y la autoridad ejecutora lo aplicará de inmediato en favor del fisco estatal. En este caso se reanudarán las almonedas en la forma y plazos que señalen los artículos respectivos.
+Cuando el postor, en cuyo favor se hubiere fincado un remate, no cumple con las obligaciones contraídas y las que este Código señale, perderá el importe del depósito que hubiere constituido y la autoridad ejecutora lo aplicará de inmediato en favor del fisco estatal.
+
+La autoridad podrá adjudicar el bien al postor que haya presentado la segunda postura de compra más alta y así sucesivamente, siempre que dicha postura sea mayor o igual al precio base de enajenación fijado. Al segundo o siguientes postores les serán aplicables los mismos plazos para el cumplimiento de las obligaciones del postor ganador.
+
+En caso de incumplimiento de los postores, se iniciará nuevamente la almoneda en la forma y plazos que señalan los artículos respectivos.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 153.
 
-Fincado el remate de bienes muebles se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha de remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en postura o la que resulte de las mejoras. Tan pronto como el postor cumpla con este requisito la autoridad procederá a entregarle los bienes que le hubiere adjudicado.
+Fincado el remate de bienes muebles se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor deberá enterar mediante las formas de pago autorizadas por la autoridad fiscal, el saldo de la cantidad ofrecida en su postura o la que resulte de las mejoras.
 
-Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición; en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente. Cuando el monto del derecho por el almacenaje sea igual o superior al valor en que se adjudicaron los bienes, éstos se aplicarán a cubrir los adeudos que se generan por este concepto.
+Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días, entregue los comprobantes fiscales de la enajenación, los cuales deberán expedirse cumpliendo, en lo conducente, con los requisitos a que se refiere este Código, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
+
+Posteriormente, la autoridad deberá entregar al adquirente, conjuntamente con estos documentos, los bienes que le hubiere adjudicado.
+
+Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente. Cuando el monto del derecho por el almacenaje sea igual o superior al valor en que se adjudicaron los bienes, éstos se aplicarán a cubrir los adeudos que se generan por este concepto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 154.
 
-Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los diez días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
+Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los diez días siguientes a la fecha del remate, el postor deberá enterar mediante las formas de pago autorizadas por la autoridad fiscal, el saldo de la cantidad ofrecida en su postura o la que resulte de las mejoras.
 
 Hecho el pago a que se refiere el párrafo anterior y designado, en su caso, el notario por el postor, se citará al ejecutado para que dentro del plazo de diez días otorgue y firme la escritura de venta correspondiente, apercibido de que si no lo hace, el jefe de la oficina ejecutora lo hará en su rebeldía.
 
@@ -2373,9 +3105,11 @@ II. Se trate de bienes de fácil descomposición o deterioro, o de materiales in
 
 III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 161.
 
-En el supuesto señalado en la fracción II del artículo anterior, las autoridades fiscales podrán hacer la enajenación directamente o encomendarla a empresas o instituciones dedicadas a la compraventa o subasta de bienes.
+En el supuesto señalado en la fracción II del artículo anterior, las autoridades fiscales podrán hacer la enajenación directamente o adjudicarlos a favor del fisco estatal y en su caso donarlos de conformidad con el segundo párrafo del artículo 159 de este Código.
 
 ###### Artículo 162.
 
@@ -2385,13 +3119,17 @@ El producto obtenido del remate, enajenación o adjudicación al fisco, se aplic
 
 En tanto no se hubieren rematado, enajenado o adjudicado los bienes, el embargado podrá pagar el crédito total o parcialmente y recuperarlo inmediatamente en la proporción del pago, tomándose en cuenta el precio del avalúo.
 
-Una vez realizado el pago por el embargado, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición y, en caso de no hacerlo, se causarán derechos por el almacenaje, a partir del día siguiente. Cuando el monto del derecho por el almacenaje sea igual o superior al valor de los bienes determinados, conforme al artículo 143 de este Código, se aplicará a cubrir los adeudos que se generarán por este concepto.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Una vez realizado el pago por el embargado o cuando obtenga resolución o sentencia favorable derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado o adjudicado los bienes que obliguen a las autoridades a entregar los mismos, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición y en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente. Cuando el monto del derecho por el almacenaje sea igual o superior al valor de los bienes determinados conforme al artículo 143 de este Código, se aplicará a cubrir los adeudos que se generarán por este concepto.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 164.
 
-Cuando existan excedentes después de haberse cubierto el crédito, se entregarán al deudor, salvo que, medie orden de autoridad competente o que el propio deudor acepte por escrito que se haga entrega total o parcial del saldo a un tercero.
+En el caso de que existan excedentes en la adjudicación a que se refiere el artículo 159 de este Código, después de haberse cubierto el crédito fiscal y sus accesorios en los términos del artículo 162 de este Código, se entregarán al deudor o al tercero que éste designe por escrito, hasta que se lleve a cabo la enajenación del bien de que se trate, salvo que medie orden de autoridad competente. En el caso de que la enajenación no se verifique dentro de los 24 meses siguientes a aquél en el que se firmó el acta de adjudicación correspondiente, los excedentes de los bienes, descontadas las erogaciones o gastos que se hubieren tenido que realizar por pasivos o cargas adquiridas con anterioridad a la adjudicación, se entregarán al deudor o al tercero que éste designe por escrito hasta el último mes del plazo antes citado. La entrega a que se refiere este artículo se realizará en los términos que establezcan las autoridades fiscales.
 
-En caso de conflicto, el remanente se depositará en institución de crédito autorizada en tanto resuelvan las autoridades competentes.
+Cuando se lleve a cabo el remate, el importe obtenido como producto de éste se aplicará en los términos de lo dispuesto en el artículo 162 de este Código, así como a recuperar los gastos de administración y mantenimiento. El remanente del producto mencionado será el excedente que se entregará al contribuyente o embargado, salvo que medie orden de autoridad competente, o que el propio deudor o embargado acepte por escrito que se haga la entrega total o parcial del saldo a un tercero.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -2429,241 +3167,397 @@ II. Por consulta entre autoridades, si de dicha consulta depende la entrega de l
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 165.
 
-Contra los actos y resoluciones administrativas dictadas en materia fiscal se podrán interponer los recursos siguientes:
+Contra los actos administrativos dictados en materia fiscal, se podrá interponer el recurso de revocación.
 
-I. El de revocación;
+I. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
-II. El de oposición al procedimiento administrativo de ejecución;
+II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
-III. El de revisión; y
+III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
-IV. El de queja.
+IV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 166.
 
-Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
+El recurso de revocación procederá contra:
+
+I. Las resoluciones definitivas dictadas por autoridades fiscales que:
+
+a). Determinen contribuciones y accesorios o aprovechamientos.
+
+b). Nieguen la devolución de cantidades que procedan conforme a la Ley.
+
+c). Cualquier resolución de carácter definitivo que cause agravio al particular en materia fiscal, salvo aquéllas a que se refieren los artículos 31-Bis, 31 Ter y 61 de este Código.
+
+II. Los actos de autoridades fiscales que:
+
+a). Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la autoridad ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 22 de este Código.
+
+b). Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley, o determinen el valor de los bienes embargados.
+
+c). Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 177 de este Código.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 167.
 
-Si el particular tiene su domicilio fuera de la población en que radique la autoridad que emitió o ejecutó el acto impugnado, el escrito de interposición del recurso podrá presentarse en la oficina recaudadora más cercana a dicho domicilio o enviarlo a la autoridad que emitió o ejecutó el acto, por correo certificado con acuse de recibo.
+La interposición del recurso de revocación se hará antes de acudir al Tribunal de lo Contencioso Administrativo del Estado.
+
+El interesado podrá optar por impugnar una resolución definitiva o acto a través del recurso de revocación o promover, directamente juicio ante el Tribunal de lo Contencioso Administrativo del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro; en el caso de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos, el contribuyente podrá impugnar dicho acto, por una sola vez, a través de la misma vía.
+
+Si la resolución dictada en el recurso de revocación se combate ante el Tribunal de lo Contencioso Administrativo del Estado, la impugnación del acto conexo deberá hacerse valer ante el Tribunal de lo Contencioso Administrativo del Estado que conoce del juicio respectivo.
+
+Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 168.
 
-En los casos del artículo anterior, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue a la oficina recaudadora o se deposite en la oficina de correos.
+El escrito de interposición del recurso deberá presentarse ante la autoridad competente, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación, excepto lo dispuesto en el artículo 175 de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que en el mismo se señala.
 
-Si el particular afectado por un acto o resolución administrativa fallece durante el plazo en que deba interponer el recurso, se suspenderá hasta un año, si antes no se hubiere aceptado el cargo de representante de la sucesión.
+Si el particular tiene su domicilio fuera de la población en que radique la autoridad competente, el escrito de interposición del recurso podrá presentarse en la oficina recaudadora más cercana a dicho domicilio o enviarlo a la autoridad competente para resolverlo, por correo certificado con acuse de recibo.
+
+En los casos del párrafo anterior, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue a la oficina recaudadora o se deposite en la oficina de correos.
+
+Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta un año, si antes no se hubiere aceptado el cargo de representante de la sucesión.
+
+En los casos de incapacidad o declaración de ausencia, decretadas por autoridad judicial, cuando el particular se encuentre afectado por un acto o resolución administrativa, se suspenderá el plazo para interponer el recurso de revocación hasta por un año. La suspensión cesará cuando se acredite que se ha aceptado el cargo de tutor del incapaz o representante legal del ausente, siendo en perjuicio del particular si durante el plazo antes mencionado no se provee sobre su representación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 169.
 
-El escrito de interposición del recurso deberá satisfacer los requisitos del artículo 19 de este Código, señalar y presentar, además:
+El escrito de interposición del recurso deberá satisfacer lo establecido en el artículo 19 y (sic) de este Código y señalar además:
 
 I. La resolución o acto que se impugne;
 
-II. Los agravios que el recurrente estime le cause la resolución o el acto impugnado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-III. Los documentos que acrediten la personalidad, cuando se actúe en nombre de otro o de personas morales;
+II. Los agravios que le cause la resolución o el acto impugnado; y
 
-IV. Constancia de notificación de la resolución o del acto impugnado, excepto, cuando el promovente declare bajo protesta de decir verdad que no recibió constancia. Si la notificación fue por edictos, deberá acompañarse el periódico en que se hizo la última publicación; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-V. Las pruebas que ofrezca.
+III. Las pruebas y los hechos controvertidos de que se trate.
 
-Cuando no se acompañe algunos de los documentos a que se refieren las fracciones I a III de este precepto, la autoridad fiscal desechará por improcedente el recurso interpuesto. Si se omiten las de la fracción V, se tendrán por no ofrecidas.
+IV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
-Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas, a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentre para que la autoridad fiscal requiera su remisión cuando esto sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
+V. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
-La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Cuando no se señale la resolución o el acto que se impugna, no se expresen los agravios, no se ofrezcan las pruebas o los hechos controvertidos a que se refieren las fracciones I, II y III de este precepto, la autoridad fiscal requerirá al promovente para que dentro del plazo de cinco días cumpla con dichos requisitos. Si dentro de dicho plazo no se señala la resolución o el acto que se impugna se tendrá por no presentado el recurso; si no se expresan los agravios que le cause la resolución o acto impugnado, la autoridad fiscal desechará el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos o se tendrán por no ofrecidas las pruebas, respectivas.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Cuando no se gestione en nombre propio, la representación de las personas físicas y jurídicas colectivas, deberá acreditarse en términos del artículo 20 de este Código.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 170.
 
-Es improcedente cualquier recurso administrativo cuando se haga valer contra actos y resoluciones:
+El promovente deberá acompañar al escrito en que se interponga el recurso:
 
-I. Que no afecten el interés jurídico del recurrente;
+I. Los documentos que acrediten su personalidad cuando actúe a nombre de otro o de personas jurídicas colectivas, o en los que conste que ésta ya hubiera sido reconocida por la autoridad fiscal que emitió el acto o resolución impugnada o que se cumple con los requisitos a que se refiere el primer párrafo del artículo 20 de este Código;
 
-II. Dictadas en el recurso de queja;
+II. El documento en que conste el acto impugnado;
 
-III. Que hayan sido aceptados expresa o tácitamente por el recurrente o su representante legal;
+III. Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancia o cuando la notificación se haya practicado por correo certificado con acuse de recibo o se trate de negativa ficta. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y el órgano en que ésta se hizo;
 
-IV. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente;
+IV. Las pruebas documentales que ofrezca y el dictamen pericial, en su caso; y
 
-V. Que no amplíen el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II, del artículo 186 de este Código; y
+V. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
-VI. Si son revocados por la autoridad fiscal competente.
+VI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
+
+Los documentos a que se refieren las fracciones anteriores, podrán presentarse en fotocopia simple, siempre que obren en poder del recurrente los originales. En caso de que presentándolos en esta forma la autoridad tenga indicios de que no existen o son falsos, podrá exigir al contribuyente la presentación del original o copia certificada.
+
+Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
+
+La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
+
+Cuando no se acompañe alguno de los documentos a que se refieren las fracciones anteriores, la autoridad fiscal requerirá al promovente para que los presente dentro del término de cinco días. Si el promovente no los presentare dentro de dicho término y se trata de los documentos a que se refieren las fracciones I a III, se tendrá por no interpuesto el recurso; si se trata de las pruebas a que se refiere la fracción IV, las mismas se tendrán por no ofrecidas.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, en el escrito en que se interponga el recurso o dentro de los quince días posteriores, el recurrente podrá anunciar que exhibirá pruebas adicionales, en términos de lo previsto en el tercer párrafo del artículo 177 de este Código.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 171.
 
-Los fallos que se dicten a través de los recursos serán para confirmar, modificar o revocar los actos o resoluciones impugnados.
+Es improcedente el recurso cuando se haga valer contra las resoluciones o los actos administrativos:
 
-#### Sección Segunda. Recurso de Revocación
+I. Que no afecten el interés jurídico del recurrente;
+
+II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de sentencias;
+
+III. Que hayan sido impugnados ante el Tribunal de lo Contencioso Administrativo del Estado;
+
+IV. Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto;
+
+V. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente;
+
+VI. Si son revocados los actos por la autoridad; y
+
+VII. Que no amplíen el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II, del artículo 186 de este Código.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 171 Bis.
+
+Procede el sobreseimiento en los casos siguientes:
+
+I. Cuando el promovente se desista expresamente de su recurso;
+
+II. Cuando durante el procedimiento en que se substancie el recurso administrativo sobrevenga alguna de las causas de improcedencia a que se refiere el artículo 171 de este Código;
+
+III. Cuando de las constancias que obran en el expediente administrativo quede demostrado que no existe el acto o resolución impugnada; y
+
+IV. Cuando hayan cesado los efectos del acto o resolución impugnada.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 171 Ter.
+
+El recurso de revocación no procederá contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 171 Quater.
+
+Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate, sólo podrán hacerse valer ante la autoridad recaudadora hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en que surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 171 Quinquies.
+
+El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de revocación en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco del Estado. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+#### Sección Segunda
 
 ###### Artículo 172.
 
-El recurso de revocación procederá contra las resoluciones que:
-
-I. Determinen contribuciones o accesorios; y
-
-II. Nieguen la devolución de cantidades que procedan conforme a la ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 ###### Artículo 173.
 
-El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente el recurso de revisión ante la Secretaría de Planeación y Finanzas. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-El recurso de revocación deberá interponerse ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los cuarenta y cinco días siguientes a aquel en que surta efectos su notificación. La resolución de este recurso deberá dictarse dentro de los cuarenta y cinco días siguientes al de la fecha de su interposición.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-#### Sección Tercera. Recurso de Oposición al Procedimiento Administrativo de Ejecución
+#### Sección Tercera
 
 ###### Artículo 174.
 
-El recurso de oposición al procedimiento administrativo de ejecución se hará valer y se agotará ante la autoridad ejecutora, antes de interponer el recurso de revisión, dentro de los cuarenta y cinco días siguientes a aquel en que surta efectos su notificación, y la autoridad deberá resolverlo dentro de los cuarenta y cinco días siguientes al de su interposición.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 ###### Artículo 175.
 
-El recurso de oposición al procedimiento administrativo de ejecución procederá contra los actos que:
-
-I. Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la oficina ejecutora o se refiere a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 22 de este Código;
-
-II. Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la ley;
-
-III. Afecten el interés jurídico de terceros en los casos a que se refiere el artículo 177 de este Código; y
-
-IV. Determinen el valor de los bienes embargados a que se refiere el artículo 143 de este Código.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 ###### Artículo 176.
 
-Cuando el recurso de oposición al procedimiento administrativo de ejecución se interponga porque éste no se ajustó a la ley, las violaciones cometidas antes del remate sólo podrán hacerse valer hasta el momento de la convocatoria en primera almoneda, salvo, que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material o de lo previsto por el artículo 186, casos en que el plazo para interponer el recurso se computará a partir del día siguiente en que surta efectos la notificación de requerimientos de pagos o del día siguiente al de la diligencia de embargo.
-
-Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se tratare de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 ###### Artículo 177.
 
-El tercero que afirme ser propietario de los bienes, negociaciones o titular de los derechos embargados, podrá hacer valer el recurso de oposición al procedimiento administrativo de ejecución en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco Estatal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-#### Sección Cuarta. Recurso de Revisión
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+#### Sección Cuarta
 
 ###### Artículo 178.
 
-El recurso de revisión se interpondrá ante la Secretaría de Planeación y Finanzas, contra las resoluciones dictadas en los recursos de revocación o de oposición al procedimiento administrativo de ejecución.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 ###### Artículo 179.
 
-Este recurso deberá hacer valer dentro del término de quince días siguientes a la fecha en que se produzca o se tenga conocimiento de la violación que se impugne.
-
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 ###### Artículo 180.
 
-El Secretario de Planeación y Finanzas ordenará la suspensión del acto o resolución reclamados, siempre que esté garantizado el interés fiscal.
-
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 ###### Artículo 181.
 
-El interesado podrá interponer este recurso por conducto del Receptor de Rentas o de los titulares de las Unidades Administrativas, quienes lo admitirán y enviarán el expediente al Secretario de Planeación y Finanzas, siempre que el escrito en que se haga valer se haya presentado dentro del término legal, en caso contrario, se considerará improcedente por extemporáneo.
-
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 ###### Artículo 182.
 
-El Secretario de Planeación y Finanzas deberá dictar resolución en relación con el recurso interpuesto, dentro de los quince días siguientes al de la fecha de su presentación.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-#### Sección Quinta. Recurso de Queja
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+#### Sección Quinta
 
 ###### Artículo 183.
 
-El recurso de queja se interpondrá ante el Gobernador del Estado, contra las resoluciones del Secretario de Planeación y Finanzas.
-
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 ###### Artículo 184.
 
-El Secretario de Planeación y Finanzas deberá turnar el expediente respectivo al Gobernador del Estado, dentro de los cinco días siguientes a la fecha en que se haya interpuesto el recurso de queja, remitiendo el oficio de notificación de la resolución dictada, para comprobar que las mismas se efectuaron dentro de los términos que señalan los artículos 182 y 188 de esta Código.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 ###### Artículo 185.
 
-El Gobernador del Estado dictará su resolución dentro de los cuarenta y cinco días hábiles siguientes al de la fecha en que le haya sido turnado el recurso.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 #### Sección Sexta. Impugnación de las Notificaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 186.
 
-Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme a los artículos 172 y 175, se estará a las reglas siguientes:
+Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 166, se estará a las reglas siguientes:
 
 I. Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda, en el que manifestará la fecha en que lo conoció.
 
 En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación;
 
-II. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el recurso el domicilio para recibir notificaciones y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad dará a conocer el acto y la notificación por estrados.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-El particular tendrá un plazo de cuarenta y cinco días a partir del siguiente al en que la autoridad se los haya dado a conocer, para impugnar el acto y su notificación o sólo esta última;
+II. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
+
+El particular tendrá un plazo de veinte días a partir del día siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo esta última;
 
 III. La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo; y
 
-IV. Si se resuelve que no hubo notificación o que fue ilegal, se tendrá al recurrente como sabedor del acto administrativo, desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción segunda, quedando sin efecto todo lo actuado en base a aquélla y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Si se concluye que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto fue interpuesta extemporáneamente, se desechará dicho recurso.
+IV. Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo, desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II de este artículo, quedando sin efectos todo lo actuado en base a aquélla y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
 
-En el caso de actos regulados por otras leyes estatales, la impugnación de la notificación efectuada por autoridades fiscales se hará mediante el recurso administrativo que establezcan dichas leyes y de acuerdo con lo previsto por este artículo.
+Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, se sobreseerá dicho recurso por improcedente.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+En el caso de actos regulados por otras leyes estatales, la impugnación de la notificación efectuada por autoridades fiscales se hará mediante el recurso administrativo que en su caso establezcan dichas leyes y de acuerdo con lo previsto por este artículo.
 
 #### Sección Séptima. Trámite y Resolución de los Recursos
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 187.
 
-En los recursos administrativos, a excepción de la confesión de las autoridades mediante absolución de posiciones, se admitirán como prueba todo aquello que se ofrezca como tal, siempre que pueda constituirla a juicio, fundado y motivado, del funcionario que practique la investigación; pero tratándose de la testimonial, ésta no tendrá ningún valor si en relación con los hechos debe existir la prueba documental. Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
+En el recurso de revocación se admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
 
-Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documento público; pero si en estos últimos se contiene declaraciones o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
+Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
+
+Cuando el recurrente anuncie que exhibirá las pruebas en los términos de lo previsto por el último párrafo del artículo 170 de este Código, tendrá un plazo de quince días para presentarlas, contado a partir del día siguiente al de dicho anuncio.
+
+La autoridad que conozca del recurso, para un mejor conocimiento de los hechos controvertidos, podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, así como ordenar la práctica de cualquier diligencia.
+
+Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos, incluyendo los digitales; pero, si en los documentos públicos citados se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
+
+Las demás pruebas quedarán a la prudente apreciación de la autoridad.
+
+Si por el enlace de las pruebas rendidas y de las presunciones formadas, las autoridades adquieren convicción distinta acerca de los hechos materia del recurso, podrán valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
+
+Para el trámite, desahogo y valoración de las pruebas ofrecidas y admitidas, serán aplicables las disposiciones legales que rijan para el juicio ante el Tribunal de lo Contencioso Administrativo del Estado, a través del cual se puedan impugnar las resoluciones que pongan fin al recurso de revocación, en tanto no se opongan a lo dispuesto en este Capítulo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 188.
 
-La autoridad deberá notificar la resolución de los recursos en un término que no exceda de ocho días, contados a partir de la fecha en que se dicten. El silencio de la autoridad significará que se ha confirmado el acto impugnado.
+L a (sic) autoridad deberá d ictar (sic) resolución y notificarla en un término que no excederá de tres meses contados a partir de la fecha de interposición del recurso. El silencio de la autoridad significará que se ha confirmado el acto impugnado.
 
-El recurrente podrá decidir esperar la notificación o impugnar en cualquier tiempo la presunta confirmación del acto impugnado.
+El recurrente podrá decidir esperar la resolución expresa o impugnar en cualquier tiempo la presunta confirmación del acto impugnado.
+
+La autoridad fiscal contara con un plazo de cinco meses contados a partir de la fecha de la interposición del recurso para resolverlo, en el caso de que el recurrente ejerza el derecho previsto en el último párrafo del artículo 170 de este Código.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 189.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
+La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la facultad de invocar hechos notorios; pero cuando se trate de agravios que se refieran al fondo de la cuestión controvertida, a menos que uno de ellos resulte fundado, deberá examinarlos todos antes de entrar al análisis de los que se planteen sobre violación de requisitos formales o vicios del procedimiento.
 
-La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar su resolución.
+La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance de su resolución.
+
+No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
+
+La resolución expresará con claridad los actos que se modifiquen y, si la modificación es parcial, se indicará el monto del crédito fiscal correspondiente. Asimismo, en dicha resolución deberán señalarse los plazos en que la misma puede ser impugnada en el juicio ante el Tribunal de lo Contencioso Administrativo del Estado. Cuando en la resolución se omita el señalamiento de referencia, el contribuyente contará con el doble del plazo que establecen las disposiciones legales para interponer el juicio ante el Tribunal de lo Contencioso Administrativo del Estado.
 
 ###### Artículo 190.
 
 La resolución que ponga fin al recurso podrá:
 
-I. Desecharlo por improcedente o sobreseerlo en su caso;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-II. Confirmar el acto impugnado;
+I. Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo, en su caso.
 
-III. Mandar reponer el procedimiento administrativo;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-IV. Dejar sin efecto el acto impugnado; y
+II. Confirmar la resolución o el acto impugnado.
 
-V. Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de cuarenta y cinco días.
+III. Mandar reponer el procedimiento administrativo o que se emita una nueva resolución.
 
-## TITULO VI. DE LA PERSONALIDAD
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV. Dejar sin efectos la resolución o el acto impugnado.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+V. Modificar la resolución o el acto impugnado o dictar uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Cuando se deje sin efectos el acto impugnado por la incompetencia de la autoridad que emitió el acto, la resolución correspondiente declarará la nulidad lisa y llana.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 190 Bis.
+
+Las autoridades fiscales que hayan emitido los actos o resoluciones recurridas, y cualquier otra autoridad relacionada, están obligadas a cumplir las resoluciones dictadas en los recursos de revocación.
+
+Cuando se dejen sin efectos el acto o la resolución recurrida por alguna de las causales que se mencionan a continuación, las autoridades a las que se refiere el párrafo anterior, deberán cumplirlas conforme a lo siguiente:
+
+I. Tratándose de la incompetencia, la autoridad competente podrá iniciar el procedimiento o dictar una nueva resolución, sin violar lo resuelto por la resolución, siempre que no hayan caducado sus facultades. Este efecto se producirá aun en el caso de que la resolución declare la nulidad en forma lisa y llana.
+
+Si tiene su causa en un vicio de forma la resolución impugnada, ésta se puede reponer subsanando el vicio que produjo la nulidad; en el caso de nulidad por vicios del procedimiento, éste se puede reanudar reponiendo el acto viciado y a partir del mismo.
+
+En ambos casos, la autoridad demandada cuenta con un plazo de cuatro meses para reponer el procedimiento y dictar una nueva resolución definitiva, aun cuando hayan transcurrido los plazos señalados en los artículos 42-Bis y 54 de este Código.
+
+En el caso previsto en el párrafo anterior, cuando sea necesario realizar un acto de autoridad en otra entidad federativa o solicitar información a terceros para corroborar datos relacionados con las operaciones efectuadas con los contribuyentes, en el plazo de cuatro meses no se contará el tiempo transcurrido entre la petición de la información o de la realización del acto correspondiente y aquél en el que se proporcione dicha información o se realice el acto. Igualmente, cuando en la reposición del procedimiento se presente alguno de los supuestos a que se refiere el artículo 42-Bis del presente Código, tampoco se contará dentro del plazo de cuatro meses el periodo por el que se suspende el plazo para concluir las visitas domiciliarias o las revisiones de gabinete, previsto en dicho precepto, según corresponda.
+
+Si la autoridad tiene facultades discrecionales para iniciar el procedimiento o para dictar una nueva resolución en relación con dicho procedimiento, podrá abstenerse de reponerlo, siempre que no afecte al particular que obtuvo la nulidad de la resolución impugnada.
+
+Los efectos que establece esta fracción se producirán sin que sea necesario que la resolución del recurso lo establezca, aun cuando la misma revoque el acto o resolución impugnada sin señalar efectos.
+
+Cuando la resolución impugnada esté viciada en cuanto al fondo, la autoridad no podrá dictar una nueva resolución sobre los mismos hechos, salvo que la resolución le señale efectos que le permitan volver a dictar el acto.
+
+En ningún caso el nuevo acto administrativo puede perjudicar más al actor que la resolución impugnada, ni puede dictarse después de haber transcurrido cuatro meses, aplicando en lo conducente lo establecido en las fracciones anteriores del presente artículo.
+
+Para los efectos de este artículo, no se entenderá que el perjuicio se incrementa cuando se trate de recursos en contra de resoluciones que determinen obligaciones de pago que se aumenten con actualización por el simple transcurso del tiempo y con motivo de los cambios de precios en el país o con alguna tasa de interés o recargos.
+
+Cuando se interponga un medio de impugnación, se suspenderá el efecto de la resolución, hasta que se dicte la sentencia que ponga fin a la controversia.
+
+Los plazos para dar el cumplimiento que establece este artículo, empezarán a correr a partir del día siguiente a aquél en el que haya quedado firme la resolución para el obligado a cumplirla, se entenderá que ésta quedo firme cuando no exista medio de impugnación que pueda revocar o modificar la resolución que se cumplimenta.
+
+> <small>(DEROGADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+## TITULO VI
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ### Capítulo Unico
 
 ###### Artículo 191.
 
-Los contribuyentes podrán promover o comparecer ante la autoridad fiscal, en forma directa o por conducto de representante legal.
-
-Los representantes legales acreditarán su personalidad conforme a las reglas siguientes:
-
-I. Cuando representen a personas físicas, mediante poder notarial o carta poder firmada por el otorgante ante dos testigos, ratificada en los términos previstos en el artículo 20 de este Código; y
-
-II. Cuando actúen como representante legal de persona moral, mediante testimonio notarial.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 ###### Artículo 192.
 
-Los representantes deberán acreditar su personalidad exhibiendo copia fotostática simple del documento respectivo, para su cotejo con el original, el cual será devuelto, quedando en autos la copia debidamente cotejada.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 T R A N S I T O R I O S
 
@@ -2718,3 +3612,27 @@ P.O. 21 DE DICIEMBRE DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales en lo que se oponga al contenido del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos de auditoría fiscal, de ejecución, los recursos administrativos y en general, las instancias administrativas, solicitudes o trámites iniciados con anterioridad a la entrada en vigor del presente Decreto, se resolverán con arreglo a las disposiciones fiscales vigentes al iniciarse los procedimientos o trámites respectivos.
+
+###### ARTÍCULO CUARTO.
+
+El artículo 116 del presente Código, aplicará en relación a los créditos fiscales determinados a partir de la entrada en vigor del mismo.
+
+El plazo para el cómputo de la prescripción a que se refiere el párrafo quinto del artículo 116 del Código Fiscal del Estado, será aplicable para los créditos fiscales que hayan sido exigidos a partir del 1 de enero de 2006.
+
+Tratándose de los créditos fiscales exigibles con anterioridad al 1 de enero de 2006, la Secretaría de Planeación y Finanzas tendrá un plazo máximo de dos años para hacer efectivo el cobro de dichos créditos contados a partir de la entrada en vigor del presente Decreto, siempre que se trate de créditos que no se encuentren controvertidos en dicho periodo; de controvertirse, el plazo máximo de dos años será suspendido.
+
+La aplicación del presente artículo no configurará responsabilidad administrativa para servidores públicos encargados de la ejecución y cobro de créditos fiscales, siempre y cuando realicen las gestiones de cobro correspondientes.
