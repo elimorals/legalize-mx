@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2014-11-12"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -486,6 +486,10 @@ XXX. Representar al Gobierno del Estado y participar activamente dentro del Sist
 XXXI. Concentrar, custodiar y requerir, en su caso, las garantías que se otorguen en favor del Gobierno del Estado de Morelos, por conducto de cualesquiera de sus secretarías y dependencias, o bien en favor de la Federación, de acuerdo a los convenios celebrados para tal efecto; registrarlas, cancelarlas o hacerlas efectivas oportunamente, conforme a las disposiciones legales aplicables; y
 
 XXXII. (DEROGADA, P.O. 23 DE JULIO DE 2014)
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXXIII. Autorizar los precios y tarifas de los bienes, trámites y servicios que producen o prestan las Entidades de la Administración Pública Paraestatal, distintos de contribuciones, previa opinión de la Secretaría, Dependencia o Entidad que corresponda.
 
 ###### Artículo 23.
 
@@ -1465,9 +1469,17 @@ XI. Aprobar la creación de reservas y la aplicación de las utilidades de las e
 
 XII. Examinar y aprobar en su caso, los informes periódicos que presente el titular o director general con la intervención que a los comisarios corresponda;
 
-XIII. Decidir los donativos o pagos extraordinarios, con base en las disposiciones jurídicas aplicables, verificando que se apliquen exactamente, a los fines señalados en las instrucciones dictadas por la dependencia coordinadora del sector al que esté adscrito el organismo auxiliar; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XIV. Establecer las normas y bases para hacer la cancelación de adeudos a favor del organismo auxiliar y a cargo de terceros, en los casos de notoria imposibilidad práctica de su cobro, con la prevención de que cuando proceda la citada cancelación, se someterá a la aprobación de la Secretaría de Hacienda y de la dependencia coordinadora correspondiente.
+XIII. Decidir los donativos o pagos extraordinarios, con base en las disposiciones jurídicas aplicables, verificando que se apliquen exactamente, a los fines señalados en las instrucciones dictadas por la Secretaría o Dependencia coordinadora del sector al que esté adscrito el organismo auxiliar;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XIV. Establecer las normas y bases para hacer la cancelación de adeudos a favor del organismo auxiliar y a cargo de terceros, en los casos de notoria imposibilidad práctica de su cobro, con la prevención de que cuando proceda la citada cancelación, se someterá a la aprobación de la Secretaria de Hacienda y de la Secretaría o Dependencia coordinadora; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XV. Proponer los precios y tarifas de bienes, trámites y servicios que produzca o preste el organismo auxiliar, distintos de contribuciones, excepto los de aquellos que sean determinados por acuerdo del Gobernador del Estado.
 
 ###### Artículo 66.
 
@@ -1968,3 +1980,11 @@ P.O. 12 DE NOVIEMBRE DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día primero de enero del año 2015, previa su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
