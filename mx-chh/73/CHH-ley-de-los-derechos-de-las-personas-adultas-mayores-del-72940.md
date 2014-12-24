@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-las-personas-adultas-mayores-del-72940"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2014-07-05"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 3 de febrero de 2010.
 
@@ -119,9 +119,11 @@ Todo establecimiento que proporcione bienes o servicios al público en general, 
 
 Las construcciones deberán cumplir con las especificaciones relativas a la supresión de barreras urbanísticas y arquitectónicas que dificulten la accesibilidad de las personas adultas mayores, conforme a las disposiciones de la ley en la materia.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-En los términos que establezcan las disposiciones legales aplicables, las instituciones que cuenten con transporte colectivo exclusivo para el traslado de personas adultas mayores, tendrán derecho al uso compartido de los cajones de estacionamiento para personas con discapacidad, ubicados en los establecimientos que se dediquen a la prestación de servicios al público en general, así como en las áreas de esparcimiento.
+En los términos que establezcan las disposiciones legales aplicables, las instituciones que cuenten con transporte colectivo exclusivo para el traslado de personas adultas mayores, tendrán derecho al uso compartido de los cajones de estacionamiento para personas con discapacidad, ubicados en los establecimientos que se dediquen a la prestación de bienes o servicios al público en general, así como en las áreas de esparcimiento.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS
 
@@ -393,7 +395,17 @@ IV. Registro de ingresos y salidas;
 
 V. Nombre, domicilio, número telefónico y lugar de trabajo de sus familiares, y
 
-VI. Las demás que se establezcan en la presente Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VI. Actividades recreativas, deportivas o artísticas que realiza.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VII. Aptitudes para desempeñar un arte u oficio.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VIII. Las demás que se establezcan en la presente Ley y otros ordenamientos aplicables.
 
 ###### Artículo 33.
 
@@ -732,6 +744,12 @@ El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbric
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
