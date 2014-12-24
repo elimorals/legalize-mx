@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2014-06-27"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -2954,7 +2954,7 @@ XXVIII.- Fijar las bases de la política informática y estadística del Tribuna
 
 XXIX.- Establecer, por conducto del Consejo de la Judicatura Federal, la coordinación entre el Instituto de la Judicatura y el Centro de Capacitación Judicial Electoral;
 
-XXX.- Vigilar que los servidores de las Salas Regionales y de la propia Comisión de Administración y de sus órganos auxiliares cumplan en tiempo y forma con la presentación de las declaraciones de situación patrimonial ante el Consejo de la Judicatura Federal, y (sic)
+XXX.- Vigilar que los servidores de las Salas Regionales y de la propia Comisión de Administración y de sus órganos auxiliares cumplan en tiempo y forma con la presentación de las declaraciones de situación patrimonial ante el Consejo de la Judicatura Federal, y
 
 XXXI.- (DEROGADA, D.O.F. 27 DE JUNIO DE 2014)
 
@@ -3562,7 +3562,7 @@ Las Salas Superior y la Regional con jurisdicción en la cuarta circunscripción
 
 Noveno.- La totalidad de los bienes muebles e inmuebles destinados al Tribunal Federal Electoral, quedarán destinados al Tribunal Electoral del Poder Judicial de la Federación, a fin de garantizar su adecuado funcionamiento.
 
-ARTICULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES; DE LA LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTICULO 105 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION; DEL CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL; DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL; Y SE EXPIDE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL.
+ARTICULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES; DE LA LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN; DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA DE FUERO FEDERAL; DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL; Y SE EXPIDE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL.
 
 PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor el día de su publicación en el Diario Oficial de la Federación, con las particularidades que se establecen en las disposiciones transitorias de cada uno de los artículos de este Decreto.
 
@@ -3644,7 +3644,7 @@ SEGUNDO.- El Fondo previsto en el artículo 246, deberá quedar formalmente cons
 
 D.O.F. 1 DE JULIO DE 2008.
 
-DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
+DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
 Artículo Primero.- En un plazo improrrogable de quince días naturales contados a partir de la entrada en vigor del presente Decreto, la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación que se encuentra integrada y en funciones, deberá:
 
@@ -3740,7 +3740,9 @@ D.O.F. 14 DE JUNIO DE 2012.
 
 D.O.F. 27 DE DICIEMBRE DE 2012.
 
-PRIMERO. El presente Decreto entrará en vigor a los dos años siguientes al día de su publicación en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2014)</small>
+
+PRIMERO. El presente Decreto entrará en vigor una vez que haya entrado en vigor el Código Nacional de Procedimientos Penales en la Federación, en todas las Entidades Federativas y del Distrito Federal, en los términos previstos en la declaratoria a que hace referencia el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, sin que pueda exceder del 18 de junio de 2016.
 
 SEGUNDO. Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
 
@@ -3809,5 +3811,9 @@ La Sala Regional Especializada, deberá entrar en funcionamiento conforme a lo s
 2. El Instituto Nacional Electoral continuará conociendo de los procedimientos especiales sancionadores que se encuentren en trámite a la entrada en vigor del presente Decreto, así como de los que se interpongan posteriormente, hasta en tanto entre en funcionamiento la Sala Especializada establecida en el presente Decreto.
 
 D.O.F. 27 DE JUNIO DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
