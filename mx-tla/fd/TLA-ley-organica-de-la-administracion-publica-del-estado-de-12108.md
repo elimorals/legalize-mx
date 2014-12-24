@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-de-la-administracion-publica-del-estado-de-12108"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-07"
-last_updated: "2014-08-13"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TLA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS QUINTO, SÉPTIMO Y DÉCIMO SEXTO TRANSITORIOS DEL DECRETO NÚMERO 177, PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 5 DE JULIO DE 2013, CUANDO EN OTROS ORDENAMIENTOS JURÍDICOS SE MENCIONE A LA SECRETARÍA DE TURISMO SE ENTENDERÁ QUE SE HACE REFERENCIA A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO; CUANDO SE REFIERA A LA COORDINACIÓN DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE TLAXCALA Y A LA SECRETARÍA DE TURISMO, SE ENTENDERÁ ASIGNADO A LA SECRETARÍA DE PLANEACIÓN Y FINANZAS Y A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO, RESPECTIVAMENTE; LAS MENCIONES RESPECTO DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA Y DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO, SE ENTENDERÁN REFERIDAS A LOS ÓRGANOS QUE INTEGRARÁN EL DESPACHO DEL GOBERNADOR DEL ESTADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 7 de abril de 1998.
 
@@ -38,6 +36,8 @@ Que por conducto de la Secretaría del Honorable Congreso del Estado, se me ha c
 EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, A NOMBRE DEL PUEBLO DECRETA.
 
 NUMERO 162
+
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS QUINTO, SÉPTIMO Y DÉCIMO SEXTO TRANSITORIOS DEL DECRETO NÚMERO 177, PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 5 DE JULIO DE 2013, CUANDO EN OTROS ORDENAMIENTOS JURÍDICOS SE MENCIONE A LA SECRETARÍA DE TURISMO SE ENTENDERÁ QUE SE HACE REFERENCIA A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO; CUANDO SE REFIERA A LA COORDINACIÓN DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE TLAXCALA Y A LA SECRETARÍA DE TURISMO, SE ENTENDERÁ ASIGNADO A LA SECRETARÍA DE PLANEACIÓN Y FINANZAS Y A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO, RESPECTIVAMENTE; LAS MENCIONES RESPECTO DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA Y DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO, SE ENTENDERÁN REFERIDAS A LOS ÓRGANOS QUE INTEGRARÁN EL DESPACHO DEL GOBERNADOR DEL ESTADO.</small>
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TLAXCALA
 
@@ -226,6 +226,10 @@ III. No ser miembro activo del Ejército y Fuerzas Armadas del país.
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 Para los casos de Secretario de Gobierno y Procurador General de Justicia del Estado, éstos deberán reunir los requisitos que para ocupar dichos cargos establece la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+El Titular de la Secretaría de Planeación y Finanzas, deberá contar con título y cédula profesional en carrera afín al área de las ciencias económico-administrativas, así como con experiencia mínima de seis años en la materia.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -589,11 +593,9 @@ j) Generar la interacción de los diversos sectores de la sociedad, para contrib
 
 k) Las demás que le confiera el Ejecutivo del Estado y otras disposiciones legales.
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
-
 ###### ARTICULO 32 Bis.
 
-La elaboración y formulación del plan y los programas de dependencias y entidades, así como de los Comités de Planeación del Desarrollo Municipal, se realizarán bajo la coordinación de la Secretaría de Planeación y Finanzas del Estado de Tlaxcala, la que para el mejor desempeño de sus funciones podrá establecer comités específicos de análisis, seguimiento y evaluación, que se integrarán y tendrán las facultades y obligaciones que se establezcan en su Reglamento Interior.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -1422,3 +1424,17 @@ Las obligaciones laborales de cada Dependencia que se extinga o desaparezca, ser
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos del nombramiento del tesorero y del director de Obras Públicas, el Presidente Municipal deberá observar estrictamente lo dispuesto en los artículos 71 párrafo segundo, 73 y 74 de la Ley Municipal del Estado de Tlaxcala, en caso contrario, tal nombramiento será considerado nulo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
