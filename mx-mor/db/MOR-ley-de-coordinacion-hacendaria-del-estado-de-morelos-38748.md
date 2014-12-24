@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2014-03-26"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -269,7 +269,11 @@ Este fondo lo administrará el Ejecutivo Estatal, a través de la Secretaría de
 
 Los municipios del Estado de Morelos podrán presentar proyectos de inversión en materia de seguridad, atendiendo las necesidades y prioridades municipales, a fin de ser financiados por este Fondo. Asimismo, este fondo podrá financiar proyectos intermunicipales, respetando de manera agregada los valores señalados en el párrafo anterior, con el propósito de orientar las políticas en materia de seguridad del ámbito regional.
 
-El monto total de los recursos de este Fondo que resulte de la suma de los importes a que se refieren las fracciones de la I a la V del presente Artículo, se invertirán hasta en un cinco por ciento para el pago de nóminas, gasto corriente o de operación; el resto se aplicará en infraestructura, equipamiento y controles de confianza, en materia de seguridad pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+El monto total de los recursos de este fondo que resulte de la suma de los importes a que se refieren las fracciones de la I a la V del presente artículo, se invertirán para impulsar el desarrollo policial, el pago de nóminas, estímulos, recompensas, gasto corriente, de operación, infraestructura, equipamiento y controles de confianza, en materia de seguridad pública.
 
 ### CAPÍTULO V. De la Coordinación en Materia de Deuda Pública
 
@@ -291,71 +295,213 @@ El Gobierno del Estado y los municipios o éstos entre sí, podrán celebrar con
 
 ### CAPÍTULO VI. De los Organismos en Materia de Coordinación Hacendaria
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-El Poder Ejecutivo por conducto de la Secretaría de Despacho encargada de la hacienda pública, el Congreso a través del diputado Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública y los ayuntamientos, por medio de su Presidente Municipal, regidor o funcionario encargado de la hacienda municipal, participarán en el Sistema de Coordinación Hacendaria del Estado, a través de:
+La persona titular del Poder Ejecutivo, por sí o por conducto de la persona titular de la Secretaría de Despacho encargada de la hacienda pública estatal, el Congreso a través del Diputado Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública y los Ayuntamientos, por medio de su Presidente Municipal o funcionario encargado de la hacienda pública municipal, participarán en el Sistema de Coordinación Hacendaria del Estado, a través de:
 
-I.- La Asamblea Estatal de Funcionarios Hacendarios;
+I.- La Reunión Estatal de Funcionarios Hacendarios;
 
-II.- La Comisión Permanente Estatal de Funcionarios Hacendarios; y
+II.- La Comisión Permanente de Funcionarios Hacendarios;
 
-III.- El Instituto de Desarrollo y Fortalecimiento Municipal.
+III.- La Junta de Coordinación Hacendaria, y
+
+IV.- El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos.
+
+El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos será el secretario técnico de los organismos señalados en las fracciones I, II y III de este artículo y tendrá derecho a voz, pero no a voto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 20.
 
-La Asamblea de funcionarios hacendarios se integrará por el Secretario de Despacho encargado de la Hacienda Pública, el Presidente Municipal, regidor o el responsable de la hacienda municipal, y por el diputado Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado, ésta será presidida por el primero de los mencionados y por el funcionario de mayor jerarquía presente en la Asamblea del municipio en que ésta se lleve a cabo.
+La Reunión Estatal de Funcionarios Hacendarios se integrará por la persona titular del Poder Ejecutivo del Estado, por sí o por conducto de la persona titular de la Secretaría de Despacho encargada de la hacienda pública estatal, los Presidentes Municipales de los 33 Municipios del Estado por sí o por conducto de la persona titular de la Tesorería Municipal y por el Diputado Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado.
+
+La Reunión Estatal de Funcionarios Hacendarios, será presidida de manera colegiada por el Titular del Poder Ejecutivo y del Coordinador de la Comisión Permanente de Funcionarios Hacendarios; éste último será elegido por los representantes municipales integrantes de la citada Comisión Permanente de Funcionarios Hacendarios y durará en su encargo de Coordinado, por el plazo de un año.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 20 Bis.
+
+La Reunión Estatal de Funcionarios Hacendarios, se reunirá en sesión ordinaria cuando menos dos veces en cada ejercicio fiscal, previa convocatoria que emita la presidencia de la misma y sesionará de manera extraordinaria a convocatoria de la Comisión Permanente de Funcionarios Hacendarios.
+
+Para la validez de las sesiones, ordinarias o extraordinarias, se requerirá de la asistencia de cuando menos la mitad más uno de los integrantes de la Reunión, entre los cuales deberán estar quienes la presiden. Las decisiones que se adopten, para ser válidas requerirán de la aceptación mayoritaria de los asistentes a la sesión, con excepción de los supuestos en que esta Ley o su Reglamento dispongan otra cosa.
+
+En la convocatoria se señalarán el domicilio, fecha y horario en que habrá de llevarse a cabo la reunión y los asuntos que deban tratarse en ella.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 21.
 
-Son facultades de la Asamblea Estatal de Funcionarios Hacendarios:
+Son facultades de la Reunión Estatal de Funcionarios Hacendarios:
 
-I.- Establecer las medidas que estime convenientes para mejorar el Sistema de Coordinación Hacendaria del Estado y proponer las que considere convenientes para mejorar el Sistema Nacional de Coordinación Fiscal;
+I.- Establecer las medidas que estime convenientes para el mejor desarrollo y consolidación del Sistema Estatal de Coordinación Hacendaria y proponer las que considere convenientes para mejorar el Sistema Nacional de Coordinación Fiscal;
 
-II.- Vigilar el cumplimiento de los convenios de Coordinación Hacendaria y colaboración administrativa que se celebren y en caso de violación a los mismo (sic) emitir propuestas al respecto.
+II.- Vigilar el cumplimiento de los convenios de Coordinación Hacendaria y colaboración administrativa que se celebren y, en caso de violación a los mismos, emitir propuestas al respecto;
 
-III.- Designar comisiones para estudio y desahogo de asuntos específicos que así lo requieran.
+III.- Designar comisiones o grupos de trabajo para el estudio y desahogo de asuntos específicos que así lo requieran;
 
-IV.- Proponer factores, indicadores, fórmulas y coeficientes aplicables para determinar la distribución de participaciones y aportaciones estatales y federales a los municipios;
+IV.- Proponer factores, indicadores, fórmulas y coeficientes aplicables para determinar la distribución de participaciones y aportaciones estatales a los Municipios, así como proponer a la Comisión Permanente de Funcionarios Fiscales las reformas y adiciones a los factores, indicadores, fórmulas y coeficientes aplicables para determinar la distribución de participaciones y aportaciones federales, contenidos en la Ley de Coordinación Fiscal;
 
-V.- Aprobar el Reglamento General del sistema de Coordinación Hacendaria del Estado y el Reglamento Interior de la propia Asamblea Estatal de Funcionarios Hacendarios;
+V.- Aprobar el Reglamento General del Sistema Estatal de Coordinación Hacendaria y los Reglamentos Interiores de la propia Reunión Estatal de Funcionarios Hacendarios, de la Comisión Permanente de Funcionarios Hacendarios, de la Junta de Coordinación Hacendaria y de los Comités de Vigilancia y Grupos de Trabajo de la Comisión Permanente de Funcionarios Hacendarios;
 
-VI.- Establecer, en su caso, las aportaciones ordinarias y extraordinarias que deban cubrir los Ayuntamientos para el sostenimiento de los órganos citados en la fracción anterior; y
+VI.- Establecer, en su caso, las aportaciones ordinarias y extraordinarias que deban cubrir los Ayuntamientos para el sostenimiento de los órganos citados en la fracción anterior;
 
-VII.- Para el ejercicio de sus facultades, la Asamblea Estatal de Funcionarios Hacendarios se apoyará en la Comisión Permanente Estatal de Funcionarios Hacendarios y en el Instituto de Desarrollo y Fortalecimiento Municipal.
+VII.- Para el ejercicio de sus facultades, la Reunión Estatal de Funcionarios Hacendarios se apoyará en la Comisión Permanente de Funcionarios Hacendarios y en el Instituto de Desarrollo y Fortalecimiento Municipal, y
+
+VIII.- Determinar las sedes, agenda y temática de la Reunión Estatal de Funcionarios Hacendarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 22.
 
-La Comisión Permanente Estatal de Funcionarios Hacendarios se integrará por el Poder Ejecutivo representado por el Secretario de Despacho encargada de la hacienda pública, el Poder Legislativo, representado por el diputado Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública y por once representantes de los municipios del Estado, mismos que serán elegidos uno por cada tres municipios, en la forma que defina la Asamblea General.
+La Comisión Permanente de Funcionarios Hacendarios se integrará por el Poder Ejecutivo representado por la persona titular de la Secretaría de Despacho encargada de la hacienda pública estatal, o el funcionario que esta designe, por el Diputado Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado y por seis representantes de los Municipios del Estado, mismos que serán elegidos uno por cada Grupo Zonal de los que a continuación se expresan, debiendo representarlos en forma rotativa.
 
-Esta será presidida por el representante de un municipio elegido por mayoría de votos de sus demás miembros. En esta elección no participarán los representantes de los Poderes Ejecutivo y Legislativo.
+GRUPO UNO: Cuernavaca, Jiutepec, Temixco, Xochitepec, Yautepec y Emiliano Zapata;
+
+GRUPO DOS: Axochiapan, Ayala, Cuautla, Jantetelco, Jonacatepec y Tepalcingo;
+
+GRUPO TRES: Atlatlahucan, Huitzilac, Tepoztlán, Tlalnepantla, Tlayacapan y Totolapan;
+
+GRUPO CUATRO: Ocuituco, Temoac, Tetela del Volcán, Yecapixtla y Zacualpan de Amilpas;
+
+GRUPO CINCO: Jojutla, Puente de Ixtla, Tlaltizapán de Zapata, Tlaquiltenango y Zacatepec, y
+
+GRUPO SEIS: Amacuzac, Coatlán del Río, Mazatepec, Miacatlán y Tetecala.
+
+Cada Grupo zonal designará de entre sus integrantes a un representante para integrar a la Comisión Permanente de Funcionarios Hacendarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 23.
 
-Los representantes de los municipios, miembros de la Comisión Permanente, durarán en su encargo un año y podrán ser reelectos por otro plazo igual.
+Los representantes de los municipios, miembros de la Comisión Permanente de Funcionarios Hacendarios, durarán en su encargo un año y no podrán ser reelectos por ningún motivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 24.
 
-La Comisión Permanente Estatal de Funcionarios Hacendarios sesionará en la capital del estado cuando menos cada dos meses. Será convocada por su presidente o por un mínimo de cuatro propietarios de la misma comisión, por lo menos con quince días de anticipación y podrá celebrarse con la asistencia de por lo menos la mitad más uno de sus integrantes. En la convocatoria se señalarán el domicilio, fecha y horario en que habrá de llevarse a cabo la reunión y los asuntos que deban tratarse en ella, los que se aprobarán con la mayoría de votos de los asistentes.
+La Comisión Permanente Estatal de Funcionarios Hacendarios sesionará cuando menos dos veces al año. Será convocada por su coordinador o por un mínimo de tres miembros de la misma Comisión, por lo menos con quince días de anticipación y podrá celebrarse con la asistencia de por lo menos la mitad más uno de sus integrantes. En la convocatoria se señalarán el domicilio, fecha y horario en que habrá de llevarse a cabo la reunión y los asuntos que deban tratarse en ella, los que se aprobarán con la mayoría de votos de los asistentes.
+
+El Coordinador de la Comisión será elegido de entre los representantes de los Municipios del Estado, al momento de renovarse la Comisión Permanente de Funcionarios Hacendarios y durará en su encargo un año. En esta elección no participarán los representantes de los Poderes Ejecutivo y Legislativo.
+
+Para que haya quórum en las reuniones de la Comisión Permanente de Funcionarios Hacendarios, se requiere de la asistencia del Coordinador y la mitad más uno de sus integrantes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 25.
 
-Serán facultades de la Comisión Permanente Estatal de Funcionarios Hacendarios:
+Serán facultades de la Comisión Permanente de Funcionarios Hacendarios:
 
-I.- Preparar la Asamblea Estatal de Funcionarios Hacendarios y definir los asuntos de que ésta deba ocuparse;
+I.- Preparar la Reunión Estatal de Funcionarios Hacendarios y definir los asuntos de que ésta deba ocuparse;
 
-II.- Sugerir las propuestas de contribuciones económicas que deban cubrir los municipios para el sostenimiento de los órganos de coordinación, los cuales someterá a la aprobación de la Asamblea Estatal de Funcionarios Hacendarios;
+II.- Sugerir, en su caso, las propuestas de contribuciones económicas que deban cubrir los Municipios para el sostenimiento de los órganos de coordinación, los cuales someterá a la aprobación de la Reunión Estatal de Funcionarios Hacendarios;
 
-III.- Formular dictámenes técnicos en todo lo relativo al Sistema de Coordinación Hacendaria entre el estado y los municipios;
+III.- Formular dictámenes técnicos en todo lo relativo al Sistema de Coordinación Hacendaria entre el Estado y los Municipios;
 
-IV.- Realizar estudios y propuestas relativos al Sistema Nacional de Coordinación Fiscal y al Estatal de Coordinación Hacendaria a través del Instituto de Desarrollo y Fortalecimiento Municipal.
+IV.- Realizar estudios y propuestas relativos al Sistema Nacional de Coordinación Fiscal y al Estatal de Coordinación Hacendaria, con la asistencia técnica del Instituto de Desarrollo y Fortalecimiento Municipal, y
 
-V.- Las demás que le otorgue la Asamblea Estatal de Funcionarios Hacendarios.
+V.- Las demás que le otorgue la Reunión Estatal de Funcionarios Hacendarios.
 
-Para el ejercicio de sus facultades, la Comisión Permanente Estatal de Funcionarios Hacendarios se apoyará en el Instituto de Desarrollo y Fortalecimiento Municipal.
+Para el ejercicio de sus facultades, la Comisión Permanente de Funcionarios Hacendarios, se apoyará en el Instituto de Desarrollo y Fortalecimiento Municipal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 25 Bis.
+
+Para el cumplimiento de sus atribuciones la Comisión Permanente de Funcionarios Hacendarios, contará con los Comités y Grupos de Trabajo que, de manera enunciativa más no limitativa, se indican:
+
+I. Comités:
+
+a) Comité de vigilancia de distribución de participaciones federales y estales, y
+
+b) Comité de vigilancia de distribución de aportaciones federales y estatales, y
+
+II. Grupos de Trabajo:
+
+a) Grupo de Ingresos y Potestades Tributarias;
+
+b) Grupo de Gasto Público;
+
+c) Grupo de Deuda Pública y Financiamiento;
+
+d) Grupo de Patrimonio, y
+
+e) Grupo Jurídico.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 25 Bis 1.
+
+La Junta de Coordinación Hacendaria se integra por el representante que designe la Secretaría de Despacho encargada de la hacienda pública estatal y los representantes de los Municipios en la Comisión Permanente de Funcionarios Hacendarios.
+
+Estará presidida conjuntamente por uno de los representantes de la Secretaría de Despacho encargada de la hacienda pública estatal y por un representante elegido de entre los Municipios miembros de la Comisión Permanente de Funcionarios Hacendarios cuya designación deberá ser aprobada por la Reunión Estatal de Funcionarios Hacendarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 25 Bis 2.
+
+La Junta de Coordinación Hacendaria sesionará a convocatoria de la Reunión Estatal de Funcionarios Hacendarios o a solicitud de la mitad más uno de los miembros de la Comisión Permanente de Funcionarios Hacendarios.
+
+Para que haya quórum en las reuniones de la Junta de Coordinación Hacendaria se requiere la presencia del representante de la Secretaría de Despacho encargada de la hacienda pública estatal y de cuando menos de cuatro de los representantes de los Municipios en la Comisión Permanente de Funcionarios Hacendarios.
+
+En la convocatoria se señalarán el domicilio, fecha y horario en que habrá de llevarse a cabo la reunión y los asuntos que deban tratarse en ella.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 25 Bis 3.
+
+La Junta de Coordinación Hacendaria, es el órgano colegiado encargado de formular las propuestas de resolución que le solicite la Reunión Estatal de Funcionarios Hacendarios, para la atención de las inconformidades presentadas por los miembros del Sistema Estatal de Funcionarios Hacendarios.
+
+Las propuestas contendrán las opiniones de todos y cada uno de los integrantes de la misma, inclusive con los votos particulares de los miembros que así lo soliciten.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 26.
 
-Instituto de Desarrollo y Fortalecimiento Municipal es un organismo público descentralizado, con personalidad jurídica y patrimonio propios y se integrará conforme lo establece el artículo 118 bis de la Constitución Local.
+El Instituto de Desarrollo y Fortalecimiento Municipal, se integrará conforme lo establece el artículo 118 bis, de la Constitución Local que actuará como órgano de consulta y análisis técnico de los Municipios en materia hacendaria.
+
+El Instituto de Desarrollo y Fortalecimiento Municipal será el Secretario Técnico de los órganos del Sistema de Coordinación Hacendaria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 26 Bis.
+
+Serán facultades del Instituto de Desarrollo y Fortalecimiento Municipal:
+
+I. Promover el desarrollo técnico de las haciendas públicas municipales, a través de las autoridades hacendarias respectivas;
+
+II. En funciones de Secretario Técnico, asistir a las sesiones de la Reunión Estatal de Funcionarios Hacendarios así como a las reuniones de la Comisión Permanente de Funcionarios Hacendarios, de la Junta de Coordinación Hacendaria, así como de los Comités de Vigilancia y de los Grupos de Trabajo y levantar las actas respectivas; en donde se contenga la relatoría de las reuniones y, de manera concreta, la síntesis de todos los acuerdos tomados en las sesiones respectivas, para dar seguimiento e informar sobre su cumplimiento, y
+
+III. Las demás funciones que le asigne la Reunión de Funcionarios Hacendarios, la Comisión Permanente de Funcionarios Hacendarios y la Junta de Coordinación Hacendaria.
 
 ### CAPÍTULO VII. De las Inconformidades
 
@@ -514,3 +660,11 @@ TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respe
 CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal Seguridad Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día primero de enero del año 2015, previa su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
