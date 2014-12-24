@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2014-03-04"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -585,7 +585,7 @@ XXII. Ordenar el auxilio de la fuerza pública en los casos que resulten necesar
 
 XXIII. Previa solicitud por escrito donde se establezcan los motivos, autorizar a los legisladores para que se retiren en definitiva antes de clausurar la sesión;
 
-XXIV. Para corroborar la permanencia de los legisladores, e identificar a quienes abandonan la sesión sin la autorización correspondiente, podrá en el transcurso de la misma o antes de clausurar los trabajos, ordenar a la secretaría registre de nueva cuenta la asistencia; y (sic)
+XXIV. Para corroborar la permanencia de los legisladores, e identificar a quienes abandonan la sesión sin la autorización correspondiente, podrá en el transcurso de la misma o antes de clausurar los trabajos, ordenar a la secretaría registre de nueva cuenta la asistencia; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
@@ -1185,17 +1185,19 @@ c) Los relativos a combatir la drogadicción y delincuencia juvenil, y
 
 d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
-XIX. Equidad, Género y Familia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XIX. Igualdad de Género y Familia.
 
 a) Los que tengan por objeto promover la igualdad del hombre y la mujer para impulsar la actualización y planeación de las políticas públicas estatales y municipales;
 
-b) Los relativos al estudio de la legislación, para establecer y promover la equidad de género y el desarrollo de la familia;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-c) En general, los asuntos de competencia de las instituciones públicas estatales y municipales vinculadas con la equidad de género, siempre que tales asuntos deban desahogarse ante el Congreso, y
+b) Los relativos al estudio de la legislación, para establecer y promover la igualdad de género y el desarrollo de la familia, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
+c) En general, los asuntos de competencia de las instituciones públicas estatales y municipales vinculadas con la igualdad de género, siempre que tales asuntos deban desahogarse ante el Congreso.
 
 XX. Asuntos Migratorios, Gestoría Social y Grupos Vulnerables.
 
@@ -1274,6 +1276,20 @@ j) Las demás que se deriven de su propia denominación en correspondencia con l
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 k) (DEROGADO, P.O. 2 DE JULIO DE 2011)
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXIV. Participación Ciudadana;
+
+a) Los asuntos que tengan que ver con la legislación en materia de participación ciudadana;
+
+b) Los proyectos de iniciativas de ley, decretos o dictámenes donde la participación de la sociedad sea un factor determinante;
+
+c) Los relativos a la intervención del Congreso respecto a los mecanismos de participación ciudadana, en los términos de la ley de la materia;
+
+d) El trámite relacionado con la admisión de las iniciativas populares presentadas en términos de la ley de la materia. En los casos en que la iniciativa popular sea admitida, una vez desahogado el procedimiento establecido en la ley de la materia, esta será turnada para su estudio y dictamen correspondiente a la comisión legislativa que resulte competente conforme al presente Reglamento, y
+
+e) El fomento a una mayor participación ciudadana a través de investigaciones, estudio y foros.
 
 ###### Artículo 56.
 
@@ -1697,7 +1713,7 @@ II. Habrá en la sala de sesiones un estrado de dos niveles. En el primer nivel 
 
 III. La presidencia de la Mesa Directiva acordará la ubicación de los servidores públicos que comparezcan ante el Congreso, tanto en el estrado como en la sala de sesiones;
 
-IV. Cuando el Gobernador del Estado rinda protesta para asumir el ejercicio de su cargo, los diputados y el público permanecerán de pie, guardando respetuoso silencio, y (sic)
+IV. Cuando el Gobernador del Estado rinda protesta para asumir el ejercicio de su cargo, los diputados y el público permanecerán de pie, guardando respetuoso silencio, y
 
 V. El presidente del Congreso permanecerá sentado cuando ingresen comparecientes o invitados hasta el lugar del estrado;
 
@@ -2225,7 +2241,7 @@ Cualquier diputado podrá solicitar moción suspensiva a la discusión de un pro
 
 El desahogo de la moción suspensiva se llevará a cabo mediante el siguiente procedimiento:
 
-I. Lectura de la propuesta, y (sic)
+I. Lectura de la propuesta, y
 
 II. Discusión y votación, pudiendo hablar únicamente hasta tres individuos en pro y hasta tres en contra por diez minutos cada uno.
 
@@ -4552,3 +4568,7 @@ Artículo Único.- El presente Decreto entrará en vigor el primero de enero del
 P.O. 4 DE MARZO DE 2014.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
