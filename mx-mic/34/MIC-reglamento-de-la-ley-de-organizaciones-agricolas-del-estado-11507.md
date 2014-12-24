@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-organizaciones-agricolas-del-estado-115
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-05-15"
-last_updated: "1997-05-15"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # REGLAMENTO DE LA LEY DE ORGANIZACIONES AGRICOLAS DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO DE LA LEY DE ORGANIZACIONES AGRICOLAS DEL ESTADO DE MICHOACAN DE OCAMPO
+REGLAMENTO DE LA LEY DE ORGANIZACIONES AGRÍCOLAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado, el día jueves 15 de mayo de 1997.
 
@@ -39,49 +39,35 @@ REGLAMENTO DE LA LEY DE ORGANIZACIONES AGRICOLAS DEL ESTADO DE MICHOACAN DE OCAM
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-El presente Reglamento rige en todo el territorio del Estado de Michoacán de Ocampo, y su aplicación para efectos administrativos, corresponde al Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Agropecuario y Forestal.
+###### ARTICULO 1°.
 
-###### ARTICULO 2º.
+El presente Reglamento rige en todo el territorio del Estado de Michoacán de Ocampo, y su aplicación para efectos administrativos corresponde al Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Rural.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 2°.
 
 Para los efectos de este Reglamento, se entiende por:
 
-I. Productor Agrícola: Persona física o moral dedicada a la explotación de una plantación, cultivo o rama agrícola especializada, cualesquiera que sea su tenencia de la tierra.
+I. Asociación Agrícola: A la agrupación de personas físicas o morales dedicadas a la producción agrícola y actividades directas a la producción o conexas en el sector, pudiendo integrarse como asociaciones mixtas o por sistemas producto municipal, regional o estatal;
 
-II. Organización Agrícola: Las asociaciones agrícolas y la Unión Agrícola del Estado.
+II. Autoridad Competente: Al Titular del Poder Ejecutivo del Estado, la Secretaría de Desarrollo Rural y los Municipios;
 
-III. Asociaciones Agrícolas: Agrupación de personas físicas o morales dedicadas a la producción agrícola y a actividades conexas a la producción en el sector, pudiendo integrarse como asociaciones locales, regionales, genéricas y especializadas.
+III. Consejo Estatal: Al Consejo Estatal para el Desarrollo Rural Integral Sustentable; para los efectos de esta Ley el Consejo Estatal es el establecido en la legislación federal de Desarrollo Rural Sustentable;
 
-IV. Unión Agrícola Estatal: Agrupación principal de las asociaciones agrícolas del Estado.
+IV. Estado: Al Estado Libre y Soberano de Michoacán de Ocampo;
 
-V. SAGAR: La Secretaría de Agricultura, Ganadería y Desarrollo Rural.
+V. Ley: A la Ley de Organizaciones Agrícolas del Estado de Michoacán;
 
-VI. Secretaría: La Secretaría de Desarrollo Agropecuario y Forestal del Estado.
+VI. Organización Agrícola: A las Asociaciones Agrícolas y la Unión Agrícola del Estado;
 
-VII. Ley: Ley de Organizaciones Agrícolas del Estado de Michoacán.
+VII. Productor Agrícola: A la persona física o moral dedicada predominantemente a la explotación de una plantación, cultivo o rama agrícola especializada, cualquiera que sea su tenencia de la tierra;
 
-VIII. Región: Dos o más municipios o aquella zona que por sus características geográficas, económicas, o agroclimatológicas, sean coincidentes, y que así lo determine la Secretaría.
+VIII. Sección Especializada: A la integrada por socios dedicados preponderantemente a la explotación de uno o varios cultivos, o a una actividad determinada, relacionada directamente con el sector agrícola;
 
-IX. Certificado Fitosanitario: Documento oficial expedido por la SAGAR o las personas aprobadas y acreditadas para tal efecto, en el que consta el cumplimiento de las disposiciones fitosanitarias a que se sujetan la movilización, importación o exportación de vegetales, sus productos o subproductos.
-
-X. Norma Oficial Mexicana (NOM): Las normas oficiales mexicanas en materia de sanidad vegetal de carácter obligatorio expedidas por la SAGAR en términos de la Ley Federal de Sanidad Vegetal y conforme al procedimiento previsto en la Ley Federal sobre Metrología y Normalización.
-
-XI. Norma Mexicana (NMX): Las normas de referencia de observancia voluntaria, que emitan los organismos nacionales de normalización en los términos de la Ley Federal sobre Metrología y Normalización.
-
-XII. Socio Productor: La persona física que se registre en la Asociación ubicada en la jurisdicción en la que desarrolle su actividad agrícola o en la que tenga su domicilio, dedicado a la explotación de una plantación, cultivo o a una rama agrícola especializada.
-
-XIII. Socio Empresarial Agricultor: La persona moral legalmente constituida, que tiene como principal objetivo la explotación de una plantación o cultivo.
-
-XIV. Socio Empresarial Agrícola: La persona moral legalmente constituida, en la que participen Socios Productores de la Asociación y que se dediquen a una rama agrícola especializada.
-
-XV. Socio Afiliado: El agricultor que explote tierras ubicadas dentro de la jurisdicción de la Asociación.
-
-XVI. Sección Especializada de Agricultores: La integrada por socios productores y/o empresariales agricultores dedicados a la explotación de uno o varios cultivos o productos.
-
-XVII. Sección Especializada Agrícola: La integrada por socios productores y/o empresariales agrícolas dedicados a una sola rama agrícola especializada.
-
-XVIII. Sección Especializada: La integrada por socios dedicados preponderantemente a la explotación de uno o varios cultivos, o a una actividad determinada, relacionada directamente con el sector agrícola.
+IX. Secretaría: A la Secretaría de Desarrollo Rural;
 
 ###### ARTICULO 3º.
 
@@ -89,33 +75,31 @@ La Secretaría programará y evaluará la actividad agrícola en materia de fome
 
 La Secretaría promoverá y fomentará la constitución, organización, y funcionamiento de las Organizaciones Agrícolas para el desarrollo de la actividad agrícola.
 
-###### ARTICULO 4º.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-El Gobierno del Estado, a través de la Secretaría y demás dependencias y entidades involucradas en el sector agrícola, apoyará a las Organizaciones Agrícolas para su desarrollo socio-económico, en las siguientes materias:
+###### ARTICULO 4°.
 
-I. Financiamiento;
+Para el desarrollo socio-económico de las Organizaciones Agrícolas, de conformidad con las disposiciones normativas aplicables, la Secretaría y las entidades que pertenezcan al sector rural, proporcionaran los apoyos siguientes:
 
-II. Conservación de agua, suelo y uso racional de los recursos naturales;
+I. Desarrollo de capacidades en materia de conservación de agua, suelo y uso racional de los recursos naturales;
 
-III. Insumos para la producción;
+II. Insumos para la producción;
 
-IV. Infraestructura agrícola;
+III. Infraestructura hidroagrícola, agrícola y ganadera;
 
-V. Comercialización nacional e internacional;
+IV. Vinculación y gestión para la comercialización nacional e internacional;
 
-VI. Industrialización;
+V. Desarrollo de capacidades que permitan dar valor agregado a la producción rural;
 
-VII. Ciencia y Tecnología;
+VI. Capacitación y asistencia técnica en la implementación de nuevas y mejores Tecnologías; y,
 
-VIII. Asistencia técnica y transferencia de tecnología;
+VII. Servicios de asistencia técnica para el manejo de las sanidades vegetales y animales.
 
-IX. Organización y capacitación de los productores y comercializadores agrícolas, y
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-X. Servicios e infraestructura para la sanidad vegetal.
+###### ARTICULO 5°.
 
-###### ARTICULO 5º.
-
-La Secretaría podrá convenir con las Organizaciones Agrícolas, en su carácter de organismos de colaboración del Gobierno del Estado, la planeación y ejecución de programas y actividades de campañas fitosanitarias y de fomento agrícola, de conformidad con la legislación en la materia.
+La Secretaría establecerá los mecanismos necesarios para la entrega de los informes técnicos-administrativos que la misma solicite a las Asociaciones Agrícolas.
 
 ###### ARTICULO 6º.
 
@@ -137,37 +121,37 @@ Las Organizaciones Agrícolas no tendrán fines lucrativos y serán de duración
 
 ### CAPITULO I. DEL OBJETO
 
-###### ARTICULO 8º.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Las Asociaciones Agrícolas tendrán por objeto:
+###### ARTICULO 8°.
 
-I. El fomento y desarrollo de la agricultura y su interacción con otras actividades inherentes al Sector;
+De conformidad con la Ley y el presente Reglamento, las Asociaciones Agrícolas tendrán como objetivos los siguientes:
 
-II. Contribuir al mejoramiento económico y social de la comunidad y particularmente de la población rural;
+I. Fomentar el desarrollo rural y su interacción con otras actividades inherentes al Sector;
 
-III. Elaborar la estadística agrícola de su jurisdicción, recabar la estatal, nacional e internacional;
+II. Contribuir al mejoramiento económico y social de la población rural y de la comunidad a la que pertenecen;
 
-IV. Fungir como órgano de consulta de las autoridades municipales, estatales y federales, para la satisfacción de las necesidades de los productores y comercializadores agrícolas, y de la comunidad en general, y además prestar a las autoridades la colaboración e informes relacionados con su ramo;
+III. Elaborar la estadística agropecuaria de su jurisdicción;
 
-V. Estimular y fomentar toda acción que realicen los agricultores en beneficio de los trabajadores del campo;
+IV. Fungir como órgano de consulta de las autoridades municipales, estatales y federales;
 
-VI. Promover entre sus asociados la utilización de los mecanismos que establezcan el sector público y privado para el fomento de la producción y la productividad agrícola, y prestarles para ese efecto la asesoría necesaria para que se organicen en empresas, sociedades, asociaciones en participación y unidades de producción o en cualquier tipo de agrupación permitido para ese efecto por las leyes y reglamentos vigentes;
+V. Coadyuvar con la autoridad competente para la satisfacción de las necesidades de los productores y comercializadores rurales;
 
-VII. Fomentar entre sus socios los mecanismos de ahorro e inversión para la debida comercialización e industrialización de los productos y subproductos agrícolas;
+VI. Proporcionar a las autoridades coadyuvantes, competentes y concurrentes los informes relacionados con su ramo;
 
-VIII. Constituir, agrupándose con las demás asociaciones agrícolas de la entidad, la Unión Agrícola Estatal;
+VII. Estimular y fomentar toda acción que realicen los productores rurales en beneficio de sus unidades de producción;
 
-IX. Adquirir los bienes muebles e inmuebles necesarios para la realización de sus fines;
+VIII. Promover entre sus Asociadas la utilización de los mecanismos que establezca el sector público y privado para el fomento de la producción y la productividad y sustentabilidad rural;
 
-X. Promover el registro y transferencia de tecnología relacionada con la actividad agrícola realizando, en su caso, los trámites respectivos; y apoyar la creación y fomento de tecnología de punta e investigación;
+IX. Agruparse con las demás Asociaciones Agrícolas del Estado, a fin de fortalecer las asociaciones rurales de interés colectivo;
 
-XI. Promover la difusión del uso y explotación de patentes, marcas y franquicias, y apoyar a los productores en los trámites de su registro y contratación en su caso;
+X. Promover el registro y transferencia de tecnología relacionada con la actividad rural realizando, en su caso, los trámites respectivos; y apoyar la creación y fomento de tecnología de punta e investigación;
 
-XII. Proporcionar los apoyos de informática y computación en general a los productores asociados;
+XI. Solicitar ante la autoridad competente la obtención de patentes, marcas y franquicias, con el objeto de incursionar en mejores canales de comercialización;
 
-XIII. Promover la constitución de instituciones, empresas y organismos dedicados a la investigación, y apoyarlos en la realización de sus funciones;
+XII. Promover y apoyar la constitución de instituciones, empresas y organismos dedicados a la investigación y apoyarlos en la realización de sus funciones; y,
 
-XIV. Realizar las demás funciones que señale este Reglamento, sus estatutos y las que se deriven de la naturaleza propia de las Asociaciones;
+XIII. Las demás que señale este Reglamento, sus estatutos y las que se deriven de la naturaleza propia de cada Asociación.
 
 ### CAPITULO II. DE LA CONSTITUCION Y REGISTRO
 
@@ -175,9 +159,13 @@ XIV. Realizar las demás funciones que señale este Reglamento, sus estatutos y 
 
 Para proceder a la constitución de una Asociación Agrícola, es necesario celebrar asamblea constitutiva que cumpla con los siguientes requisitos:
 
-I. Reunir a un mínimo de diez socios que realicen su actividad agrícola en la jurisdicción de la Asociación que pretendan integrar;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-II. Protocolizar la constitución de la asociación ante Notario Público;
+I. Reunir un mínimo de diez o más productores, a fin de promover el Desarrollo Rural Integral Sustentable, así como la protección de los intereses económicos de sus agremiados;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+II. Protocolizar la constitución de la Asociación ante Notario Público e inscribirla en el Registro Público de la Propiedad;
 
 III. Presentar el acta constitutiva, los estatutos aprobados por su Comité Directivo ante la Secretaría, para obtener su registro conforme a lo dispuesto por la fracción IV del artículo 4o. de la Ley;
 
@@ -303,7 +291,7 @@ I. Cumplir los acuerdos de las asambleas y del Comité Directivo de la Asociaci�
 
 II. Asistir a las Asambleas que convoque el Comité Directivo o los Comisarios;
 
-III. Inscribirse para cada ciclo agrícola en los registros de las secciones especializadas que les corresponda, mediante la presentación de los datos relativos a sus cultivos, en el plazo que señala (sic) en este Reglamento, así como informar en su oportunidad del resultado de la cosecha y proporcionar todos los datos que para fines estadísticos le solicite la Asociación, en los cuestionarios que al efecto les serán entregados en forma gratuita;
+III. Inscribirse para cada ciclo agrícola en los registros de las secciones especializadas que les corresponda, mediante la presentación de los datos relativos a sus cultivos, en el plazo que (sic) señala en este Reglamento, así como informar en su oportunidad del resultado de la cosecha y proporcionar todos los datos que para fines estadísticos le solicite la Asociación, en los cuestionarios que al efecto les serán entregados en forma gratuita;
 
 IV. Presentar oportunamente a la Asociación los datos señalados en la fracción anterior, cuando su cultivo no corresponda a alguna de las secciones especializadas establecidas en las mismas;
 
@@ -659,37 +647,65 @@ Los miembros del Comité Directivo continuarán en el desempeño de sus funcione
 
 ### CAPITULO I. DEL OBJETO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 62.
 
-La Unión Agrícola Estatal tiene por objeto:
+La Unión Agrícola Estatal tendrá por objeto:
 
-I. Fomentar y desarrollar la agricultura y la interacción de ésta con actividades inherentes al Sector, en el Estado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-II. Contribuir con el cumplimiento de su objeto, al mejoramiento económico y social de la entidad y particularmente de su población rural;
+I. Fomentar el desarrollo Rural y la interacción de ésta con actividades inherentes al Sector en el Estado;
 
-III. Estudiar, con el auxilio de sus Asociadas, las condiciones de los mercados nacional e internacional de los productos agrícolas del Estado, a fin de fomentar la producción y estimular el consumo;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-IV. Ser órgano de consulta de las autoridades municipales, estatales y federales, sobre las necesidades de los productores y comercializadores agrícolas en general;
+II. Contribuir al mejoramiento económico y social de la entidad y particularmente de la población rural;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+III. Diseñar mecanismos estadísticos que permitan conocer las condiciones de los mercados nacional e internacional de los productos agropecuarios del Estado, a fin de fomentar la producción y estimular el consumo;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IV. Ser órgano de consulta de las autoridades municipales, estatales y federales, sobre las necesidades de los productores y comercializadores rurales en general;
 
 V. Procurar la coordinación de sus Asociadas y la mutua cooperación entre ellas;
 
-VI. Establecer y mantener relaciones con otras instituciones afines del país y del extranjero y en su caso, designar ante ellas las representaciones correspondientes;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-VII. Actuar como árbitro o mediador en los conflictos que surjan entre sus Asociadas y en sus procesos internos electorales, siendo obligatorios para éstas los fallos que dicte;
+VI. Establecer y mantener vínculos con otras instituciones nacionales y extranjeras afines al Sector, de conformidad con las disposiciones normativas aplicables y, en su caso, designar ante ellas las representaciones correspondientes;
 
-VIII. Estudiar y procurar resolver los problemas concretos que le planteen sus Asociadas;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-IX. Promover, ante las autoridades correspondientes, la ejecución de obras públicas de beneficio para los productores y comercializadores agrícolas;
+VII. Actuar como árbitro o mediador en los conflictos que surjan entre sus Asociadas y en sus procesos internos;
 
-X. Estimular y fomentar la realización de los fines de sus Asociadas y proporcionarles al efecto, la cooperación que sea necesaria;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XI. Promover conjuntamente con sus Asociadas, sistemas de asistencia técnica que permitan a los productores adoptar nuevas tecnologías para elevar los niveles de productividad en las explotaciones agrícolas;
+VIII. Analizar y resolver los problemas concretos que le planteen sus Asociadas;
 
-XII. Propiciar y fomentar mecanismos de cooperación y solidaridad entre las Asociadas, sus socios y con otros productores y comercializadores agrícolas, a efecto de brindar a éstos los servicios y asistencia técnica necesarias, previa solicitud, en los términos de la Ley y del presente reglamento;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XIII. Adquirir los bienes muebles e inmuebles que sean necesarios para la realización de sus fines;
+IX. Gestionar ante las autoridades competentes, la ejecución de obras públicas de beneficio para los productores rurales;
 
-XIV. Crear la infraestructura necesaria para prestar servicios indispensables para el cumplimiento de sus fines, y el de sus asociadas; y,
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+X. Estimular y fomentar el cumplimiento del objeto y los fines de sus Asociadas;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XI. Promover conjuntamente con sus Asociadas, sistemas de asistencia técnica que permitan a los productores adoptar nuevas tecnologías para elevar los niveles de productividad de las unidades de producción;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XII. Propiciar y fomentar mecanismos de cooperación y solidaridad entre las Asociadas y sus socios, a efecto de brindar a éstos los servicios y asistencia técnica necesarias (sic), en los términos de las disposiciones normativas aplicables;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XIII. Crear la infraestructura necesaria para prestar servicios indispensables para el cumplimiento de sus fines, y el de sus asociadas; y,
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XIV. Las demás que señalen la Ley, y demás disposiciones normativas aplicables.
 
 XV. Realizar las demás funciones que señalen la Ley, y demás disposiciones jurídicas aplicables.
 
@@ -779,27 +795,27 @@ IX. Someterse al arbitraje de la Secretaría y de la Unión, en las controversia
 
 X. Las demás que le impongan la Ley, este Reglamento y los estatutos de la Unión.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 66.
 
-Las Asociaciones Agrícolas tendrán, frente a la Unión, los siguientes derechos:
+Las Asociaciones Agrícolas afiliadas a la Unión Agrícola Estatal tendrán los derechos siguientes:
 
-I. Utilizar los servicios que establezca la Unión a través del Centro Estatal para el Desarrollo Agrícola de Michoacán;
+I. Solicitar, y recibir la protección y ayuda de la Unión en la defensa de los intereses de las Asociaciones y de sus socios;
 
-II. Solicitar, y recibir la protección y ayuda de la Unión en la defensa de los intereses de las Asociaciones y de sus socios;
+II. Solicitar de la Unión su intervención como árbitro o mediador en los conflictos que surjan entre sus Asociadas y en sus procesos internos;
 
-III. Solicitar de la Unión y de la Secretaría, que desempeñen funciones de árbitro o mediador;
+III. Recibir en forma gratuita las publicaciones informativas que edite o patrocine la Unión;
 
-IV. Recibir en forma gratuita las publicaciones informativas que edite o patrocine la Unión;
+IV. Presentar al Comité Directivo, a la Asamblea General y a las Asambleas Seccionales de la Unión, iniciativas y propuestas que coadyuven a la realización de sus objetos;
 
-V. Presentar al Comité Directivo, a la Asamblea General y a las Asambleas Seccionales de la Unión, iniciativas y propuestas que coadyuven a la realización de sus objetos sociales;
+V. Solicitar al Comité Directivo o a los Comisarios de la Unión, que se convoque a Asamblea General o Seccional;
 
-VI. Solicitar al Comité Directivo o a los Comisarios de la Unión, que se convoque a Asamblea General o Seccional;
+VI. Asistir por medio de sus delegados, a las Asambleas Generales y Seccionales de la Unión y votar en ellas;
 
-VII. Asistir por medio de sus delegados, a las Asambleas Generales y Seccionales de la Unión y votar en ellas;
+VII. Elegir de entre sus socios con derecho a voto, a los delegados que deban integrar las asambleas y el Comité Directivo de la Unión, respectivamente; y,
 
-VIII. Elegir de entre sus socios con derecho a voto, a los delegados que deban integrar las asambleas y el Comité Directivo de la Unión, respectivamente; y
-
-IX. Los demás que señalan la Ley, el presente Reglamento y los Estatutos de la Unión.
+VIII. Los demás que señalan la Ley, el presente Reglamento y los Estatutos de la Unión.
 
 ### CAPITULO IV. DE LAS ASAMBLEAS DE LA UNION
 
@@ -1259,9 +1275,11 @@ Tratándose de bienes inmuebles, la donación se otorgará en escritura pública
 
 ### CAPITULO VI. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 132.
 
-Las violaciones a la Ley, a este Reglamento, a los Estatutos y acuerdos de las asambleas, y de los Comités Directivos de las Asociaciones, y de la Unión, serán sancionados conforme a lo que se dispone en el presente Capítulo de este Reglamento, y en los Estatutos de cada Asociación, y de la Unión, según el caso.
+Las sanciones por violaciones a la Ley y el presente Reglamento serán aplicadas por la Secretaría, previo dictamen que emita la Dirección de Organización y Capacitación, de acuerdo a la gravedad de la falta en que se incurra. Las infracciones a las disposiciones estatutarias así como de los acuerdos de las asambleas y de los Comités Directivos de las asociaciones, y de la Unión, serán impuestas por la Comisión de Honor y Justicia de ésta, las que deberá remitir a la Secretaría para su validación y aplicación.
 
 ###### ARTICULO 133.
 
@@ -1269,17 +1287,21 @@ En cada asociación y en la Unión funcionará una Comisión de Honor y Justicia
 
 ###### ARTICULO 134.
 
-La Comisión de Honor y Justicia conocerá, a instancia del Comité Directivo de la Asociación o de la Unión, según sea el caso, de las infracciones cometidas por los socios o asociadas, para lo cual se les notificará personalmente la acusación respectiva, concediéndoseles un plazo de diez días hábiles para que ofrezcan pruebas y formulen alegatos, de conformidad con el articulo siguiente (sic) los estatutos correspondientes.
+La Comisión de Honor y Justicia conocerá, a instancia del Comité Directivo de la Asociación o de la Unión, según sea el caso, de las infracciones cometidas por los socios o asociadas, para lo cual se les notificará personalmente la acusación respectiva, concediéndoseles un plazo de diez días hábiles para que ofrezcan pruebas y formulen alegatos, de conformidad con el articulo siguiente los estatutos correspondientes.
 
-Transcurrido el término y procedimiento señalado, la Comisión de Honor y Justicia remitirá su dictamen ante el Comité Directivo en el plazo reglamentario.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Transcurrido el término y procedimiento señalado, la Comisión de Honor y Justicia de la Unión remitirá su dictamen ante la Secretaría.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 135.
 
-Los socios que infrinjan la Ley o el presente Reglamento o los Estatutos o los acuerdos de la Asamblea General, Seccional, del Comité Directivo de la Asociación o de la Unión o que realicen actos que infrinjan gravemente las normas internas de las Asociaciones o de la Unión, podrán ser sancionados por el Comité Directivo de la Asociación o de la Unión previo el dictamen de culpabilidad que dicte la Comisión de Honor y Justicia respectiva.
+Los socios que infrinjan la Ley, el presente Reglamento, los Estatutos, o los Acuerdos de la Asamblea General, Seccional, del Comité Directivo de la Asociación o de la Unión o que realicen actos que infrinjan gravemente las normas internas de las Asociaciones o de la Unión, podrán ser sancionados por la Secretaría previo el dictamen de culpabilidad que dicte la Comisión de Honor y Justicia de la Unión.
 
-Para los efectos anteriores, cualquier socio interesado presentará la acusación por escrito ante el Comité Directivo de la Asociación o de la Unión, quien previa audiencia del socio acusado, resolverá si turna el caso a la Comisión de Honor y Justicia, la que a su vez, oyendo a los socios involucrados, y desahogadas las probanzas, resolverá en definitiva si procede la aplicación de sanciones.
+Para los efectos anteriores, cualquier socio interesado presentará la acusación por escrito ante la Secretaría, quien previa audiencia del socio acusado resolverá si turna el caso a la Comisión de Honor y Justicia de la Unión, la que a su vez, escuchando a los socios involucrados, y desahogadas las probanzas, resolverá en definitiva si procede la aplicación de sanciones.
 
-La sanción podrá ser recurrida ante la asamblea general respectiva, quien resolverá en definitiva.
+La sanción podrá ser recurrida ante la Asamblea General de la Unión, quien resolverá en definitiva.
 
 ###### ARTICULO 136.
 
@@ -1478,3 +1500,11 @@ Aquella asociación que desee registrarse ante la Secretaria en los términos de
 Dado en la residencia del Poder Ejecutivo, ciudad de Morelia, Michoacán, a los 14 catorce días del mes de mayo de 1997 mil novecientos noventa y siete.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- EL SECRETARIO DE DESARROLLO AGROPECUARIO Y FORESTAL.- ING. JAIME RODRIGUEZ LOPEZ.- EL SECRETARIO DE FOMENTO ECONOMICO.- C. HUMBERTO RODRIGUEZ LOYA.- (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se dejan sin efectos todas aquellas disposiciones administrativas que se opongan al presente Decreto.
