@@ -4,7 +4,7 @@ identifier: "LFDEFP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1998-05-28"
-last_updated: "2013-12-24"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11736&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFDEFP"
 
 LEY FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el jueves 28 de mayo de 1998.
 
@@ -502,7 +502,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 D.O.F. 27 DE DICIEMBRE DE 2012.
 
-PRIMERO. El presente Decreto entrará en vigor a los dos años siguientes al día de su publicación en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2014)</small>
+
+PRIMERO. El presente Decreto entrará en vigor una vez que haya entrado en vigor el Código Nacional de Procedimientos Penales en la Federación, en todas las Entidades Federativas y del Distrito Federal, en los términos previstos en la declaratoria a que hace referencia el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, sin que pueda exceder del 18 de junio de 2016.
 
 SEGUNDO. Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
 
@@ -523,3 +525,7 @@ NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 24 DE DICIEMBRE DE 2013.
 
 ÚNICO.- El Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
