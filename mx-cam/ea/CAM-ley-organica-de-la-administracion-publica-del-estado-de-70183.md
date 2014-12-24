@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2012-12-26"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -345,9 +345,17 @@ V. Vigilar el cumplimiento de las disposiciones legales y contractuales de cará
 
 VI. Recaudar y administrar los impuestos, derechos, productos, aprovechamientos y demás ingresos que correspondan al Estado en los términos de las leyes respectivas;
 
-VII. Administrar, comprobar, determinar, recaudar y cobrar ingresos federales, así como ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o celebre el Estado con la Federación, a través de la Secretaría de Hacienda y Crédito Público y, en su caso, con los Municipios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Ordenar y practicar visitas domiciliarias, auditorías, revisiones, inspecciones, actos de vigilancia, verificaciones, requerimientos de información y documentación, y demás actos que establezcan las disposiciones fiscales, tanto estatales como federales convenidas, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios, terceros con ellos relacionados y demás obligados;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VII. Administrar, comprobar, determinar, recaudar y cobrar ingresos, municipales y federales, así como ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o celebre el Estado con la Federación, a través de la Secretaría de Hacienda y Crédito Público y, en su caso, de los convenios de colaboración administrativa que se celebren con los Municipios del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+VIII. Ordenar y practicar visitas domiciliarias, auditorías, revisiones, inspecciones, actos de vigilancia, verificaciones, requerimientos de información y documentación, y demás actos que establezcan las disposiciones fiscales para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios, terceros con ellos relacionados y demás obligados, así como todas aquellas que se deriven de los convenios y sus anexos en materia fiscal federal que haya celebrado o celebre el Estado con la Federación y en su caso de los convenios de colaboración administrativa que se celebren con los Municipios del Estado;
 
 IX. Determinar, liquidar las contribuciones, aprovechamientos y sus accesorios correspondientes e imponer las multas o sanciones administrativas que procedan por infracciones a las disposiciones fiscales y, ejercer cuando proceda, la facultad de condonación de multas, conforme a las leyes y reglamentos respectivos:
 
@@ -365,19 +373,31 @@ XV. Ejercitar todos los derechos que correspondan al Estado, en el caso de las g
 
 XVI. Dictar la normatividad necesaria para el control, supervisión, vigilancia y evaluación de las actividades de sus oficinas recaudadoras, locales y foráneas;
 
-XVII. Formular la cuenta pública anual de la Hacienda Estatal, incluyendo la glosa de los ingresos y egresos del Estado; así como mantener las relaciones institucionales con la Auditoria Superior del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XVII. Formular la cuenta pública anual de la Hacienda Estatal, incluyendo la glosa de los ingresos y egresos del Estado; así como mantener las relaciones institucionales con la Auditoría Superior del Estado cumpliendo con las disposiciones de la Armonización Contable;
 
 XVIII. Dictar las normas relacionadas con la administración de fondos y valores de las dependencias y fideicomisos del Estado, así como custodiar los documentos que constituyen valores, acciones y demás derechos que forman parte del patrimonio del Estado;
 
 XIX. Cuidar que los empleados que administren fondos del Estado otorguen fianza suficiente para garantizar la aplicación adecuada en los términos establecidos en la Ley Reglamentaria del Capitulo XVII de la Constitución Política del Estado de Campeche;
 
-XX. Integrar el programa general del gasto público y el anteproyecto de Presupuesto de Egresos, en coordinación con la Secretaría de Coordinación, y presentarlo a la consideración del Gobernador del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XX. Integrar el programa general del gasto público y el anteproyecto de Presupuesto de Egresos, en coordinación con la Secretaría de Coordinación, y presentarlo a la consideración del Gobernador del Estado, en términos de la Ley General de Contabilidad Gubernamental;
 
 XXI. Establecer las normas y conducir las políticas para el diseño e implementación de la programación-presupuestación, así como evaluar la ejecución del Presupuesto de Egresos del Estado, y de los organismos descentralizados;
 
 XXII. Autorizar, conjuntamente con la Secretaría de Administración e Innovación Gubernamental, en el ámbito de sus respectivas competencias, las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Estatal y sus modificaciones;
 
-XXIII. Evaluar los programas operativos anuales de las dependencias y entidades de la administración pública estatal, e impulsar el establecimiento de indicadores de gestión y de resultados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXIII. Evaluar los programas de las dependencias y entidades de la administración pública estatal, e impulsar el establecimiento de indicadores de desempeño;
 
 XXIV. Participar en la Comisión Intersecretarial Gasto-Financiamiento para determinar los lineamientos a que deben sujetarse las dependencias y entidades de la administración pública estatal, respecto de las disponibilidades financieras con que (sic) durante el ejercicio presupuestal;
 
@@ -397,13 +417,31 @@ XXXI. Llevar el Registro Único Estatal de Deuda Pública y dirigir su negociaci
 
 XXXII. Suscribir, previo acuerdo del Ejecutivo, contratos y títulos de crédito en representación del Estado;
 
-XXXIII. Proponer al Gobernador del Estado la cancelación de cuentas y créditos incobrables, así como el otorgamiento de subsidios fiscales en los casos en que proceda;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXIV. Estimar y dar a conocer a los diversos ramos que conforman la Administración Pública Estatal, el monto global y calendarización provisional del presupuesto para el siguiente ejercicio fiscal, a fin de posibilitar las atribuciones de esta Secretaría en materia de programación-presupuestación, previo acuerdo con la Secretaría de Coordinación;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXXIII. Tramitar la cancelación de cuentas y créditos incobrables, así como el otorgamiento de subsidios y estímulos fiscales de conformidad con la legislación aplicable;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXXIV. Estimar y publicar, el monto global y calendarización provisional del presupuesto para el siguiente ejercicio fiscal, a fin de posibilitar las atribuciones de esta Secretaría en materia de programación-presupuestación, previo acuerdo con la Secretaría de Coordinación;
 
 XXXV. Prestar a los municipios, cuando así se lo soliciten, la asesoría y el apoyo técnico necesarios en materia hacendaria; y
 
-XXXVI. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXXVI. Publicar la información financiera en términos de la Ley General de Contabilidad Gubernamental; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XXXVII. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 28.
 
@@ -749,7 +787,7 @@ XIII. Realizar campañas de concientización, educación y capacitación sanitar
 
 XIV. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
-###### Articulo 36.
+###### Artículo 36.
 
 La Secretaría de Desarrollo Urbano y Obras Públicas tiene a su cargo:
 
@@ -1254,3 +1292,9 @@ Quinto.- Los entes públicos a que se refiere el Artículo 3 de la Ley de Deuda 
 Sexto.- El Ejecutivo expedirá la reglamentación de las Leyes de Deuda Pública del Estado de Campeche y sus Municipios y, de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche en lo que fuere necesario para su correcta observancia.
 
 Séptimo.- La Comisión Intersecretarial a que se refiere el artículo 43 de la Ley de Control Presupuestal y Responsabilidad Hacendaria deberá quedar constituida dentro de los sesenta días siguientes a la entrada en vigor de este decreto.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+Primero.- El presente decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
