@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2014-12-03"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -3721,9 +3721,9 @@ Los ingresos por productos se determinarán en los actos, convenios, contratos o
 
 Quedan comprendidos dentro de este título los ingresos que el Estado perciba por concepto de multas, recargos, rezagos, gastos de ejecución, donativos, herencias, legados, bienes vacantes, tesoros ocultos, indemnizaciones, reintegros por responsabilidades administrativas, concesiones, fianzas, depósitos, subsidios federales, empréstitos y financiamientos, aportaciones para obras y servicios públicos, ingresos que cubran los municipios, por la administración de impuestos y servicios públicos municipales y aportaciones federales.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-También se considera aprovechamiento, la recaudación obtenida por el pago de las sanciones pecuniarias que imponga la Dirección de Seguridad Pública y Tránsito, por violaciones a lo establecido en el artículo 94, capítulo XIV del Reglamento de la Ley de Transito.
+También se considera aprovechamiento, la recaudación obtenida por el pago de las sanciones pecuniarias que imponga la Dirección de Transporte, Tránsito y Vialidad, por violaciones a lo establecido en el artículo 186, capítulo XXX del Reglamento General de la Ley de Transporte, Tránsito y Vialidad del Estado de Zacatecas.
 
 > <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2004)</small>
 
@@ -3916,3 +3916,9 @@ Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente D
 Tercero.- Se abroga el Decreto 605, por el que se reforman diversos ordenamientos legales para dar vigencia al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 2 al No. 40 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de mayo de 2013. Y se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo a la publicación de la presente reforma, se desahogarán y resolverán de conformidad con la Ley de Fraccionamientos Rurales, sin ordenarse la expedición del título, por lo que al momento de certificar la zona a la que pertenezca el inmueble e inicie el proceso de obtención del dominio pleno, el acuerdo de adjudicación servirá para acreditar el derecho que le asiste al interesado. Por tanto se remitirá el acuerdo al Organismo Regularizador de la Tenencia de la Tierra para que expida la escritura privada correspondiente.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan al presente Decreto.
