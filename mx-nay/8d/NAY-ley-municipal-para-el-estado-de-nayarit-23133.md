@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2014-05-28"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -441,7 +441,7 @@ IX.- La documentación relativa a los programas municipales y proyectos aprobado
 
 X.- El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles de propiedad municipal;
 
-XI.- La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y (sic)
+XI.- La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -1445,9 +1445,17 @@ IX.- Formular propuestas de reforma a las disposiciones jurídicas municipales y
 
 X.- Fomentar la cultura de los derechos humanos en el municipio;
 
-XI.- Coordinarse con organismos estatales y nacionales tendientes a lograr una mejor defensa y promoción de los derechos en nuestro estado; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XII.- Las demás que le confiere el reglamento interno u otras disposiciones aplicables.
+XI.- Coordinarse con organismos estatales y nacionales tendientes a lograr una mejor defensa y promoción de los derechos humanos en el estado;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XII.- Elaborar y ejecutar programas de difusión de los derechos humanos, y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+XIII.- Las demás que le confiere el reglamento interno u otras disposiciones aplicables.
 
 ### CAPÍTULO IV. De los organismos auxiliares
 
@@ -1629,7 +1637,7 @@ c) Contar con el perfil profesional o técnico adecuado para el encargo;
 
 d) No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión en los últimos cinco años;
 
-e) Tener un modo de vida honesto; y (sic)
+e) Tener un modo de vida honesto; y
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
@@ -3740,3 +3748,7 @@ Artículo Segundo.- Tratándose de las fracciones III, V y VI del artículo 106,
 P.O. 28 DE MAYO DE 2014.
 
 Artículo Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
