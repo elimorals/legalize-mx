@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-tizimin-yucatan-53553"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-28"
-last_updated: "2010-12-28"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE TIZIMIN, YUCATAN
 
-LEY DE HACIENDA DEL MUNICIPIO DE TIZIMIN, YUCATAN
+LEY DE HACIENDA DEL MUNICIPIO DE TIZIMIN, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el jueves 28 de diciembre de 2006.
 
@@ -416,11 +416,9 @@ Cuando la base del impuesto predial sea el valor catastral del inmueble, el pago
 
 El impuesto predial sobre la base de valor catastral deberá cubrirse por bimestres anticipados dentro de los primeros quince días de cada uno de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO EN TRANSITORIOS, D.O. 28 DE DICIEMBRE DE 2010)</small>
-
-Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante los meses de enero, febrero y marzo de cada año, gozará de un descuento del 10% sobre el importe de dicho impuesto.
+Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante los meses de enero, febrero y marzo de cada año, gozará de un descuento del 20, 15 y 10% para cada uno de los meses de Enero, Febrero y Marzo sobre el importe de dicho impuesto.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1586,7 +1584,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O. 27 DE DICIEMBRE DE 2008.
 
@@ -1625,3 +1623,9 @@ TRANSITORIO:
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día 1 de enero del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 24 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil quince, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
