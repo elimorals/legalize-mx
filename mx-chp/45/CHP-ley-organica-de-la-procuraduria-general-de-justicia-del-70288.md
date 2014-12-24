@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-procuraduria-general-de-justicia-del-70288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-08-19"
-last_updated: "2014-10-29"
+last_updated: "2014-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -1071,7 +1071,9 @@ III. Fiscalía Especializada en Atención a los Delitos en Materia de Trata de P
 
 IV. Fiscalía Especializada en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación.
 
-V. Fiscalía Especializada en Atención de los Delitos Relacionados con Servidores Públicos.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+V. Fiscalía Especializada en Combate a la Corrupción.
 
 VI. Fiscalía Especializada en Atención de Periodistas y Libertad de Expresión.
 
@@ -2390,6 +2392,14 @@ Artículo Cuarto.- Los asuntos que se encuentren en trámite en la Coordinación
 Artículo Quinto.- El Titular de la Procuraduría, en un término no mayor a 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterá a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requiera el Reglamento de su Ley Orgánica, para su aprobación, expedición y publicación correspondiente.
 
 P.O. 29 DE OCTUBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Titular de la Procuraduría General de Justicia del Estado, en un término no mayor de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterá a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requiera el Reglamento de su Ley Orgánica, para su aprobación, expedición y publicación correspondiente.
+
+P.O. 24 DE DICIEMBRE DE 2014.
 
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
