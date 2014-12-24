@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2014-06-30"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE JUNIO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -197,21 +195,21 @@ II.- Ser preferidos para los empleos, cargos o comisiones de nombramiento de las
 
 Son ciudadanos los que reúnan los requisitos que señala el artículo 34 de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-###### Artículo 8º.
+###### Artículo 8°.
 
-Son derechos de los ciudadanos: votar y ser votados en las elecciones populares; participar en los procedimientos de referéndum, plebiscito e iniciativa popular, en los términos previstos por la ley de la materia; desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando se reúnan las condiciones que la ley exija para cada caso; y los demás que señala el artículo 35 de la Constitución Federal.
+Son derechos de los ciudadanos votar y ser votados en las elecciones populares; intervenir y participar, individual o colectivamente, en las decisiones públicas, en la formulación, ejecución y evaluación de las políticas, programas y actos de gobierno a través de los mecanismos de participación ciudadana previstos por la ley de la materia; desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando se reúnan las condiciones que la ley exija para cada caso; y los demás que señala el artículo 35 de la Constitución Federal.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
 
 Tendrán derecho a expresar sus ideas, las cuales no serán objeto de ninguna inquisición judicial o administrativa, sino en los casos que denigren a las instituciones y a los propios partidos o que calumnien a las personas, se violente la autenticidad de los procesos electorales, además de los casos previstos en la Constitución Federal. El derecho de réplica será ejercido en los términos dispuestos por la Ley; asimismo, el derecho a la información deberá ser garantizado por el Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Las dependencias y entidades de la Administración Pública, Estatal y municipales, así como, los órganos constitucionales autónomos que se determinen en la ley, en el ámbito de sus respectivas atribuciones, en concordancia con esta Constitución y las normas que las regulan, están obligadas a establecer los mecanismos de participación ciudadana y garantizar el derecho de los ciudadanos a utilizarlos siempre que lo soliciten en los términos que establezcan las normas que al efecto se emitan.
+
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 8°.
-
-El Congreso expedirá con preferencia y a la mayor brevedad, las leyes que conforme a los artículos 27, 117 fracción VIII, 123 y 130 de la Constitución General, le compete dictar.
 
 ###### Artículo 9º.
 
@@ -871,7 +869,7 @@ XXXIV.- Expedir todas las leyes que sean necesarias a fin de hacer efectivas las
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
-XXXV.- Someter a referéndum las leyes y decretos que considere sean trascendentales para el orden público o el interés social del Estado, conforme a los procedimientos y formalidades que establezca la ley de la materia. No podrán ser objeto de referéndum las reformas a esta Constitución, normas de carácter tributario o fiscal, de Egresos y las relativas a la regulación interna de los órganos del Estado; y, (sic)
+XXXV.- Someter a referéndum las leyes y decretos que considere sean trascendentales para el orden público o el interés social del Estado, conforme a los procedimientos y formalidades que establezca la ley de la materia. No podrán ser objeto de referéndum las reformas a esta Constitución, normas de carácter tributario o fiscal, de Egresos y las relativas a la regulación interna de los órganos del Estado; y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DEL 2005)</small>
 
@@ -1299,7 +1297,7 @@ VII. Los síndicos e interventores de concursos, quiebras y suspensión de pagos
 
 VIIII. (sic) Los albaceas, interventores, depositarios, tutores, curadores y notarios, en las funciones que les encomienden las leyes correspondientes;
 
-IX. Los cuerpos policíacos del Estado y de los municipios; y (sic)
+IX. Los cuerpos policíacos del Estado y de los municipios; y
 
 (NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2263,7 +2261,7 @@ La propaganda gubernamental que difundan como tales, los poderes públicos, los 
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
 
-En los casos de infracción a lo dispuesto en el párrafo anterior, será competente en todo momento el Instituto Electoral de Michoacán, quien conocerá y sancionará de manera pronta y expedita, sin menoscabo de las responsabilidades a que pueda ser acreedor.
+En los casos de infracción a lo dispuesto en el párrafo anterior, será competente en todo momento el Instituto Electoral de Michoacán, quien conocera y sancionara de manera pronta y expedita, sin menoscabo de las responsabilidades a que pueda ser acreedor.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
 
@@ -2427,7 +2425,7 @@ La educación que imparta el Estado tenderá a desarrollar armónicamente, todas
 
 (REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
 
-Garantizada la libertad de creencias, el criterio que orientará a dicha educación se mantendrán por completo ajeno a cualquier doctrina religiosa y, basado en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
+Garantizada la libertad de creencias, el criterio que orientará a dicha educación se mantendrá por completo ajeno a cualquier doctrina religiosa y, basado en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
 
 a).- Será democrática, considerando la democracia no sólo como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
 
@@ -3139,7 +3137,7 @@ P.O. 31 DE DICIEMBRE DE 2004.
 
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-Artículo Segundo.- Para dar cumplimento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
+Artículo Segundo.- Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
 
 P.O. 21 DE OCTUBRE DE 2005.
 
@@ -3149,7 +3147,7 @@ Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de
 
 Artículo Segundo. Para la elección por primera y única vez de los magistrados del Tribunal de lo Contencioso Administrativo del Estado, la lista que someta el Titular del Poder Ejecutivo al Congreso del Estado, será tomada del padrón de aspirantes a magistrados que remita el Supremo Tribunal de Justicia del Estado, mismos que deberán cubrir los requisitos que señale la Ley de la materia.
 
-Artículo Tercero. Para dar cumplimento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
+Artículo Tercero. Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
 
 P.O. 21 DE OCTUBRE DE 2005.
 
@@ -3475,7 +3473,7 @@ P.O. 13 DE ENERO DE 2012.
 
 ###### ARTÍCULO PRIMERO.
 
-Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Articulo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -3582,3 +3580,9 @@ CUARTO. En relación con la salvedad dispuesta para los artículos 20 párrafo p
 QUINTO. La celebración de las próximas elecciones, una vez que haya entrado en vigor el presente Decreto conforme al artículo transitorio precedente, será en los términos de esta Constitución, salvo aquellas que se verifiquen en el año 2018, las cuales se llevarán a cabo el primer domingo del mes de julio.
 
 SEXTO. La presente reforma, por lo que ve a la reelección, no será aplicable a los Legisladores, Presidentes Municipales, Síndicos y Regidores, que hayan protestado el cargo en la Legislatura o Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+PRIMERO. Remítase la Minuta con Proyecto de Decreto a los Ayuntamientos del Estado, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
