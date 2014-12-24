@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2014-12-03"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1781,7 +1781,13 @@ I. El Tribunal Constitucional.
 
 II. Las salas regionales colegiadas.
 
-III. Los juzgados de primera instancia.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+III. Los juzgados de Primera Instancia, dentro de los cuales se entenderán como tales a los:
+
+a) Juzgados de Control y Tribunales de Enjuiciamiento.
+
+b) Juzgados de Primera Instancia Especializados en Juicio Oral Mercantil.
 
 IV. Los juzgados y salas especializadas en justicia para adolescentes.
 
@@ -1793,7 +1799,9 @@ VII. Los juzgados municipales.
 
 VIII. El Centro Estatal de Justicia Alternativa.
 
-IX. El Instituto de Defensoría Social.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+IX. El Instituto de la Defensoría Pública.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2014)</small>
 
@@ -1835,11 +1843,9 @@ El Tribunal Superior de Justicia contará con un órgano de mediación, concilia
 
 El Director General del Centro Estatal de Justicia Alternativa será nombrado por el Consejo de la Judicatura a propuesta del Titular del Ejecutivo, para la designación de los demás servidores públicos del Centro, se nombrarán dentro de aquéllos que aprueben satisfactoriamente el curso de formación para mediadores, conciliadores y árbitros, mediante un proceso riguroso de oposición. Las bases, requisitos y procedimientos serán establecidos por el Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2012)</small>
-
-El Instituto de la Defensoría Social del Estado de Chiapas, tiene como fin garantizar el acceso real y equitativo del derecho a la defensa pública adecuada y a la justicia mediante la orientación, asesoría y representación jurídica a la población más desprotegida del Estado, que no se encuentra en condiciones económicas de atender por su cuenta los gastos de un proceso jurisdiccional, contribuyendo a superar desigualdades sociales y a consolidar el estado de derecho. La Ley de la defensoría Pública del Estado de Chiapas regirá lo respectivo a la organización, atribuciones y funcionamiento del Instituto.
+El Instituto de la Defensoría Pública del Estado de Chiapas, tiene como fin garantizar el acceso real y equitativo del derecho a la defensa pública adecuada y a la justicia mediante la orientación, asesoría y representación jurídica a la población más desprotegida del Estado, que no se encuentra en condiciones económicas de atender por su cuenta los gastos de un proceso jurisdiccional, contribuyendo a superar desigualdades sociales y a consolidar el estado de derecho. La Ley de la defensoría Pública del Estado de Chiapas regirá lo respectivo a la organización, atribuciones y funcionamiento del Instituto.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2012)</small>
 
@@ -2041,7 +2047,9 @@ d) El equivalente al 33% de los ayuntamientos de la entidad.
 
 e) El Presidente de la Comisión Estatal de los Derechos Humanos, en el ámbito de su competencia.
 
-Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por el pleno del Tribunal Constitucional, y surtirán efectos a partir de su publicación en el Periódico Oficial sin efecto retroactivo, excepto cuando se trate de asuntos del orden penal en beneficio del inculpado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por el pleno del Tribunal Constitucional, y surtirán efectos a partir de su publicación en el Periódico Oficial sin efecto retroactivo, excepto cuando se trate de asuntos del orden penal en beneficio del inculpado o imputado.
 
 III. De las acciones por omisión legislativa cuando se considere que el Congreso del Estado no ha resuelto alguna ley o decreto y que dicha omisión afecte el debido cumplimiento de esta Constitución, que interponga:
 
@@ -3141,9 +3149,9 @@ II. Que todas las personas mayores de 64 años que residan en el Estado, reciban
 
 III. El respeto y protección de los derechos humanos de los migrantes, entre ellos el derecho a la salud, derechos laborales, derecho a la seguridad pública y a la procuración de justicia.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-En el Estado de Chiapas, tratándose de delitos del fuero común, queda prohibida la figura del arraigo dentro de los procedimientos inherentes a la averiguación previa.
+En el Estado de Chiapas, tratándose de delitos del fuero común, queda prohibida la figura del arraigo dentro de los procedimientos inherentes a la averiguación previa o etapa de investigación.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4502,3 +4510,9 @@ DECRETO NÚMERO 59, POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 48 D
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día posterior a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
