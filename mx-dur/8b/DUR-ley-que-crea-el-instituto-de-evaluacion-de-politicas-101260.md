@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-de-evaluacion-de-politicas-101260"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-16"
-last_updated: "2014-02-16"
+last_updated: "2014-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY QUE CREA EL INSTITUTO DE EVALUACIÓN DE POLÍTICAS PÚBLICAS DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO NÚMERO 74, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR AL AÑO DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE DURANGO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO No. 311 QUE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS DOS AÑOS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE DURANGO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de febrero de 2014.
 
@@ -509,7 +509,9 @@ IV. Los demás bienes, recursos y derechos que adquiera por cualquier título de
 
 ## TRANSITORIOS
 
-Artículo Primero. El presente decreto entrará en vigor al año de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Artículo Primero. La presente Ley entrará en vigor a los dos años de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 Artículo Segundo. Los nombramientos de los integrantes del Consejo General del Instituto de Evaluación de Políticas Públicas del Estado de Durango, se deberán realizar a más tardar quince días antes de la entrada en vigor de la presente Ley.
 
@@ -546,3 +548,15 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las previstas en el presente Decreto.
