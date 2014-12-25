@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2014-12-23"
+last_updated: "2014-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -38,13 +38,21 @@ LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
 ### CAPÍTULO I. Del sistema de coordinación Fiscal del Estado
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 1°.
 
-Se establece el Sistema de Coordinación Fiscal del Estado de Jalisco con sus Municipios, regulado por esta Ley, y tiene por objeto:
+Se establece el Sistema de Coordinación Fiscal del Estado de Jalisco con sus Municipios, regulado por esta Ley el cual tiene por objeto:
 
 I. Coordinar el Sistema Fiscal del Estado de Jalisco con sus Municipios y fijar las reglas de colaboración administrativa entre ambas autoridades fiscales;
 
-II. Establecer los montos, bases, plazos y toda normatividad requerida para la distribución de las participaciones derivadas de gravámenes Federales y Estatales que correspondan a los municipios del estado, así como su distribución y vigilancia en el cálculo y liquidación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+II. Establecer los montos, bases, plazos y toda normatividad requerida para la distribución tanto de las Participaciones derivadas de gravámenes Federales y Estatales que correspondan a los Municipios del Estado, como de las Aportaciones Federales correspondientes a los Municipios, así como su distribución y vigilancia en el cálculo y liquidación;
 
 III. Constituir los organismos en materia de coordinación fiscal y definir su organización, funcionamiento y facultades, y
 
@@ -62,9 +70,13 @@ Las participaciones Federales y Estatales que correspondan a los municipios en l
 
 ### CAPÍTULO III. De las participaciones Federales y Estatales a los municipios
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 4°.
 
-El fondo municipal de participaciones se integrará con los recursos que perciba el estado procedente del fondo general de participaciones, de la recaudación del impuesto sobre tenencia o uso de vehículos; del impuesto especial sobre producción y servicios y del impuesto sobre automóviles nuevos, así mismo del fondo de fomento municipal, en los términos de la Ley Federal de Coordinación Fiscal, por los ingresos estatales derivados de los impuestos sobre nóminas, espectáculos públicos y hospedaje.
+El Fondo Municipal de Participaciones se integrará con los recursos que perciba el Estado procedentes del Fondo General de Participaciones, de la Recaudación del Impuesto sobre Tenencia o Uso de Vehículos; del Impuesto Especial sobre Producción y Servicios y del Impuesto sobre Automóviles Nuevos, así mismo del Fondo de Fomento Municipal, en los términos de la Ley Federal de Coordinación Fiscal, por los ingresos estatales derivados de los Impuestos sobre Nóminas, y Hospedaje.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -116,11 +128,17 @@ El factor que a cada Municipio corresponda en el Fondo Municipal de Participacio
 
 I. De los ingresos federales. Se aplicarán los siguientes criterios y parámetros:
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-1) Se garantizarán a los Municipios los mismos recursos que recibieron el año inmediato anterior, salvo en el caso de la conformación de uno nuevo.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-2) De las cantidades que el Estado reciba en exceso, con respecto al año inmediato anterior, se distribuirán entre los municipios de conformidad con los coeficientes que se determinen tomando los siguientes parámetros:
+1) Se garantizarán a los Municipios los recursos entregados en el año 2013 en los porcentajes correspondientes, y en los términos establecidos en la Ley de Coordinación Fiscal, salvo en el caso de la conformación de un nuevo Municipio; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+2) De las cantidades que el Estado reciba en exceso, respecto del monto determinado en el numeral anterior, se distribuirán entre los Municipios de conformidad con los coeficientes que se determinen tomando los siguientes parámetros:
 
 a) 45% en proporción al número de habitantes de cada Municipio en relación al total estatal. El número de habitantes de cada Municipio se tomará de la última información oficial que dé a conocer el Instituto Nacional de Estadística, Geografía e Informática.
 
@@ -146,7 +164,11 @@ En el caso de que el Congreso del Estado apruebe la creación de nuevos municipi
 
 II. De los impuestos estatales.
 
-Por los porcentajes descritos en el artículo 5º, fracciones VI y VII, que se generen en cada jurisdicción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Por los porcentajes descritos en el artículo 5° fracción VI, que se generen en cada jurisdicción.
 
 Los factores de participación que conforme a las bases anteriores resulten, se revisarán, modificarán y aprobarán anualmente por el Congreso del Estado. En tanto dichos factores no se actualicen, el Congreso del Estado autorizará que se sigan aplicando las que correspondan al año inmediato anterior, a cada municipio.
 
@@ -438,11 +460,13 @@ Cuando el estado o algún municipio contravengan lo establecido por esta Ley, o 
 
 ### CAPÍTULO VIII. De las aportaciones federales
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 23.
 
-Para los efectos de la distribución de los Fondos de Aportaciones para la Infraestructura Social Municipal y del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las demarcaciones territoriales del Distrito Federal, se estará a lo establecido en el capítulo V de la Ley de Coordinación Fiscal.
+Para los efectos de la distribución de los fondos de aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, y del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, se estará a lo establecido en el Capítulo V de la Ley de Coordinación Fiscal, en tanto que la determinación y aprobación de los coeficientes vinculados quedará a cargo del Congreso del Estado.
 
 ## TRANSITORIOS
 
@@ -529,3 +553,7 @@ P.O. 14 DE DICIEMBRE DE 2013.
 P.O. 23 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor a partir del 01 de enero de 2015, previa su publicación en el periódico oficial El Estado de Jalisco.
