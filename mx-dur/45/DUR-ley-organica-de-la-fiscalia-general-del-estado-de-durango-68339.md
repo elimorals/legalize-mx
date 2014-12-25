@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-general-del-estado-de-durango-68339
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-02-26"
-last_updated: "2014-05-06"
+last_updated: "2014-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de febrero de 2009.
 
@@ -179,7 +179,7 @@ En la investigación de hechos delictuosos, serán auxiliares del Ministerio Pú
 
 ### CAPÍTULO II. ESTRUCTURA ORGÁNICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2011)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2011) (REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2014)
 
 ###### Artículo 5.
 
@@ -209,11 +209,9 @@ III. Vicefiscal de Procedimientos Penales;
 
 IV. Vicefiscal de Control Interno, Análisis y Evaluación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
-
-V. Vicefiscal de protección a los derechos humanos y Atención a las Víctimas del Delito;
+V. Vicefiscal de Protección a los Derechos Humanos, Atención a las Víctimas del Delito, Protección a Periodistas y Personas Defensoras de Derechos Humanos;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -443,13 +441,11 @@ II. Coordinar a las Vicefiscalias, con el fin de garantizar el eficaz cumplimien
 
 III. Las demás que le asigne el Fiscal General y otras disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 16.
 
-El Vicefiscal de Protección de los Derechos Humanos y Atención a Víctimas del Delito, tendrá las siguientes atribuciones:
+El Vicefiscal de Protección a los Derechos Humanos, Atención a las Víctimas del Delito, Protección a Periodistas y Personas Defensoras de Derechos Humanos, tendrá las siguientes atribuciones:
 
 I. Proponer e instrumentar las políticas institucionales para la observancia, capacitación y promoción en materia de derechos humanos;
 
@@ -487,11 +483,13 @@ VI. Proporcionar orientación y asesoría jurídica a las víctimas u ofendidos 
 
 VII. Canalizar a las víctimas u ofendidos por delitos a las dependencias y entidades que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional, vigilando su debida atención; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+VIII. Coadyuvar y darle seguimiento a las investigaciones y, en su caso, a la persecución de los delitos cometidos en contra de periodistas y personas defensoras de derechos humanos; y
 
-VIII. Las demás que le confieran el Fiscal General y otros ordenamientos.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+IX. Las demás que le confieran el Fiscal General y otros ordenamientos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -1375,7 +1373,7 @@ DÉCIMO PRIMERO.- La Secretaría de Seguridad Pública del Estado asumirá todos
 
 DÉCIMO SEGUNDO.- El personal que actualmente labora para la Agencia Estatal de Investigación, se transferirán a la Secretaría de Seguridad Púbica del Estado, respetando todos sus derechos laborales.
 
-DÉCIMO TERCERO.- Se autoriza al Secretario de Seguridad Pública para en los términos del artículo 32 del artículo primero del presente decreto, brinde protección a los servidores públicos siguientes: Gobernador del Estado, Secretario General de Gobierno, Procurador General del Estado, Sub Procurador General, Sub Procurador de Procedimientos Penales, Sub Procurador de Control Interno Análisis y Evaluación, Sub Procurador de Protección a los Derechos Humanos y Atención a las Víctimas del Delito, Sub Procurador de la Zona 1, Sub Procurador de. la Zona 2, Secretario de Seguridad Pública, Subsecretario Operativo de Seguridad, Subsecretario de Participación Ciudadana, Prevención y Reinserción Social, Titular de la Dirección de la Policía Estatal.
+DÉCIMO TERCERO.- Se autoriza al Secretario de Seguridad Pública para en los términos del artículo 32 del artículo primero del presente decreto, brinde protección a los servidores públicos siguientes: Gobernador del Estado, Secretario General de Gobierno, Procurador General del Estado, Sub Procurador General, Sub Procurador de Procedimientos Penales, Sub Procurador de Control Interno Análisis y Evaluación, Sub Procurador de Protección a los Derechos Humanos y Atención a las Víctimas del Delito, Sub Procurador de la Zona 1, Sub Procurador de la Zona 2, Secretario de Seguridad Pública, Subsecretario Operativo de Seguridad, Subsecretario de Participación Ciudadana, Prevención y Reinserción Social, Titular de la Dirección de la Policía Estatal.
 
 DÉCIMO CUARTO.-En la readscripción de los empleados y trabajadores de la Procuraduría General de Justicia del Estado a la Fiscalía General, se respetarán sus derechos adquiridos.
 
@@ -1422,3 +1420,13 @@ El presente decreto entrará en vigor a las 00:01 horas del día 7 de mayo del a
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
