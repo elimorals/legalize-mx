@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2013-12-15"
+last_updated: "2014-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -471,9 +471,9 @@ participar en rifas, loterías, sorteos y
 
 concursos de toda clase; y 8%
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-III.- Ingresos por la obtención de premios: 4.4%
+III. Ingresos por la obtención de premios: 4.25%
 
 ###### ARTICULO 36.
 
@@ -697,7 +697,7 @@ Tratándose de vehículos nuevos, este impuesto deberá enterarse en un plazo no
 
 Para aquellos vehículos que porten placas de transporte público federal, el impuesto se pagará en los plazos, lugares y formas previstas en el primer párrafo de este artículo, siempre y cuando el domicilio fiscal que el propietario tenga registrado ante la Secretaría de Hacienda y Crédito Público se encuentre dentro del territorio del Estado.
 
-En los casos que proceda (sic), el contribuyente comprobará el pago del Impuesto Sobre Tenencia o Uso de Vehículos a que esté sujeto, con el original del comprobante de pago que le hubiere expedido la autoridad correspondiente, de la Entidad Federativa de que se trate.
+En los casos que proceda, el contribuyente comprobará el pago del Impuesto Sobre Tenencia o Uso de Vehículos a que esté sujeto, con el original del comprobante de pago que le hubiere expedido la autoridad correspondiente, de la Entidad Federativa de que se trate.
 
 Los sujetos de este impuesto, no están obligados a presentar por esta contribución la solicitud de inscripción, ni los avisos a los Registros Federal o Estatal de Contribuyentes, con excepción de aquellos que se encuentren inscritos en dichos registros, los cuales deberán proporcionar la clave correspondiente, y tratándose de personas físicas, su Clave Única de Registro de Población.
 
@@ -1755,7 +1755,7 @@ documentos solicitados. 0.21
 
 V.- Por envío de información al interior
 
-del Estado, Mediante (sic) servicios de
+del Estado, Mediante servicios de
 
 mensajería o correo, por documento
 
@@ -2139,15 +2139,21 @@ DIAS DE PORCENTAJE
 
 SALARIO
 
-I Registro de Nacimiento:
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-a) Dentro de la oficina del Registro Civil. EXENTO
+I Registro de Nacimiento y primer acta: 5
+
+a) Dentro de la oficina del Registro Civil,
+
+hasta los 18 años incumplidos; y, EXENTO
 
 b) Fuera de la oficina del Registro Civil,
 
-salvo en el caso de enfermedad en
+salvo en el caso de enfermedad
 
-menores de 180 días. 3
+cuando el menor no pueda salir
+
+del lugar donde ocurrió el nacimiento. 20
 
 II Registro de defunciones. 1
 
@@ -2223,7 +2229,17 @@ de la parte interesada: 6
 
 XIV Por la expedición de formato para registro 0.5
 
-XV Otros servicios no especificados
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+XV Impresión de copias certificadas de otros
+
+estados, a través de procesos sistematizados
+
+o de interconexión de redes informáticas del
+
+Registro Civil. 3
+
+XVI Otros servicios no especificados
 
 en las fracciones anteriores: 3
 
@@ -3658,5 +3674,11 @@ Se derogan todas las disposiciones que contravengan lo previsto en el presente d
 P.O. 15 DE DICIEMBRE DE 2013.
 
 PRIMERO. El presente Decreto entrará en vigor a partir del primero de enero del año dos mil catorce.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor el día primero de enero de 2015, el cual será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
