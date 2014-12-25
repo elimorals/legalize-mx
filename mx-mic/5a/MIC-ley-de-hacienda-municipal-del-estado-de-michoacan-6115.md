@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2011-12-30"
+last_updated: "2014-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 25 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -783,7 +785,7 @@ Las infracciones a las disposiciones del presente capítulo, se sancionarán con
 
 ###### ARTICULO 59.
 
-Es objeto del Impuesto sobre Espectáculos Públicos, el ingreso que obtengan las personas físicas y morales que celebren espectáculos públicos de: teatro, conciertos culturales, circo, lucha libre, corridas de toros, bailes públicos, eventos deportivos, espectáculos con variedad, audiciones musicales populares, torneos de gallos, carreras de caballos, jaripeos, exhibiciones de cualesquiera naturaleza y cualquier otro evento no especificado a los que se condicione el acceso al público en general mediante en pago de cuotas de admisión.
+Es objeto del Impuesto sobre Espectáculos Públicos, el ingreso que obtengan las personas físicas y morales que celebren espectáculos públicos de: teatro, conciertos culturales, circo, lucha libre, corridas de toros, bailes públicos, eventos deportivos, espectáculos con variedad, audiciones musicales populares, torneos de gallos, carreras de caballos, jaripeos, exhibiciones de cualesquiera naturaleza y cualquier otro evento no especificado a los que se condicione el acceso al público en general mediante en (sic) pago de cuotas de admisión.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2102,3 +2104,21 @@ El presente Decreto, entrará en vigor el día 1° de enero de 2012, previa su p
 ###### ARTÍCULO SEGUNDO.
 
 Dése cuenta a los Ayuntamientos del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de enero del año 2015, previa su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Hacienda Municipal del Estado de Michoacán de Ocampo, de fecha 29 veintinueve de diciembre de 1983 mil novecientos ochenta y tres, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 31 del mes y año antes citados, así como las demás disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Dése cuenta a los Ayuntamientos del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO CUARTO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación.
