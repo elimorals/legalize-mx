@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-prevencion-atencion-y-erradicacion-de-la-trata-8909
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-15"
-last_updated: "2012-07-15"
+last_updated: "2014-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA TRATA DE PERSONAS EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 15 de julio de 2012.
 
@@ -45,7 +45,11 @@ LA SEXAGÉSIMA QUINTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBE
 
 Se expide la Ley para la Prevención, Atención y Erradicación de la Trata de Personas en el Estado de Durango, para quedar en los siguientes términos:
 
+> <small>N. DE E. EL DECRETO NÚMERO 307, EXPEDIDO POR LA SEXAGÉSIMA SEXTA LEGISLATURA, PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
+
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA TRATA DE PERSONAS EN EL ESTADO DE DURANGO
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 1.
 
@@ -53,17 +57,33 @@ La presente Ley es de orden público e interés social, se aplicará en todo el 
 
 Esta ley define las responsabilidades de las instituciones públicas encargadas de las políticas de prevención, atención, combate y erradicación de la trata de personas en el Estado de Durango.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 2.
+
+Corresponde exclusivamente a la Federación, de acuerdo a lo ordenado por los artículos 73, fracción XXI, inciso a); 124 de la Constitución Federal, y 2, fracción II, de la Ley General, establecer los tipos penales y sanciones relativas a los delitos en materia de trata de personas.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 3.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, tienen la obligación de actuar con diligencia para perseguir y sancionar el delito de trata de personas, realizando las investigaciones y acciones necesarias para sancionar a los responsables, brindar atención y protección a las víctimas y prevenir la comisión del delito, mediante el desarrollo de programas permanentes.
 
 Las autoridades a las que alude el párrafo anterior, tendrán obligación de coordinarse con las autoridades federales en los términos que establezcan las leyes en dicha competencia.
 
-###### ARTÍCULO 3.
-
-Serán aplicadas las disposiciones normativas de los Tratados que en la materia haya ratificado el Estado Mexicano, la legislación federal atinente, el Código Penal para el Estado Libre y Soberano de Durango, el Código Procesal Penal del Estado de Durango, y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 4.
+
+Las autoridades ministeriales y judiciales del Estado investigarán, procesarán, enjuiciarán y sancionarán los delitos en materia de trata de personas, cuando se actualice su competencia conforme al artículo 5 de la Ley General y deberán ajustar sus actuaciones, en todo momento, a las disposiciones de dicho ordenamiento federal.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, la competencia de las autoridades del Estado, se surtirá cuando los delitos a que se refiere esta Ley se inicien, preparen o cometan en el territorio del Estado o cuando se inicien, preparen o cometan en otra entidad federativa, siempre que produzca o se pretenda que tengan efectos en el Estado de Durango y no se haya ejercitado acción penal en contra de los sujetos activos en esa diversa entidad federativa.
+
+Serán aplicadas las disposiciones normativas de los Tratados que en la materia haya ratificado el Estado Mexicano, la legislación federal atinente, el Código Penal para el Estado Libre y Soberano de Durango, el Código Nacional de Procedimientos Penales, y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 5.
 
 Son principios rectores en materia de prevención, atención y erradicación de la trata de personas, los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos y sus garantías, los instrumentos internacionales en los que el Estado Mexicano sea parte, además de los previstos en la Constitución Política local y sus garantías. Obrarán además, en tratándose de dichas materias, los siguientes principios:
 
@@ -89,35 +109,47 @@ X. Presunción de minoría de edad; y
 
 XI. Las medidas de atención, asistencia y protección, beneficiarán a todas las víctimas del delito de trata de personas con independencia de si el sujeto activo ha sido identificado, aprehendido, juzgado o sentenciado, así como de la relación familiar, de dependencia, laboral o económica que pudiera existir entre éste y la víctima.
 
-###### ARTÍCULO 5.
-
-Para los efectos de la presente Ley, se entenderá por:
-
-I. Ley: La Ley para la Prevención, Atención y Erradicación de la Trata de Personas en el Estado de Durango;
-
-II. Menores: Todo ser humano menor de 18 años;
-
-III. Organismo: Entidad pública interinstitucional encargada de coordinar las políticas públicas es materia de Trata de Personas;
-
-IV. Personas adultas mayores: Aquellas personas mayores de sesenta años y que se encuentren domiciliadas o en tránsito en el territorio duranguense;
-
-V. Programa: Instrumento rector en materia de prevención del delito de trata de personas, asistencia y protección de las víctimas del delito de trata de personas, y
-
-VI. Víctima de trata: Aquella persona que haya sufrido daños, inclusive lesiones físicas o mentales, sufrimiento emocional, pérdida financiera o menoscabo de sus derechos fundamentales como consecuencia de acciones u omisiones relacionadas con la trata de personas.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 6.
 
-En el Estado de Durango se establecerá un Organismo Interinstitucional, para coordinar las políticas públicas en la materia, que elaborará y ejecutará un programa estatal el cual contendrá las acciones relativas a la prevención, atención y erradicación del delito de trata de personas por parte de la autoridad.
+Para los efectos de la presente Ley, se entenderá por:
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+I. Centros de Atención Especializados: Los refugios, albergues y casas de medio camino con servicios integrales a víctimas de los delitos de Trata de Personas;
+
+II. Ley: La Ley para la Prevención, Atención y Erradicación de la Trata de Personas en el Estado de Durango;
+
+III. Ley General: La Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+
+IV. Menores: Todo ser humano menor de 18 años;
+
+V. Órgano: Entidad pública interinstitucional encargada de coordinar las políticas públicas es (sic) materia de Trata de Personas;
+
+VI. Personas adultas mayores: Aquellas personas mayores de sesenta años y que se encuentren domiciliadas o en tránsito en el territorio duranguense;
+
+VII. Programa: Instrumento rector en materia de prevención del delito de trata de personas, asistencia y protección de las víctimas del delito de trata de personas, y
+
+VIII. Víctima de trata: Aquella persona que haya sufrido daños, inclusive lesiones físicas o mentales, sufrimiento emocional, pérdida financiera o menoscabo de sus derechos fundamentales como consecuencia de acciones u omisiones relacionadas con la trata de personas.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEGUNDO (SIC). DEL ESTABLECIMIENTO DE LAS POLÍTICAS PÚBLICAS PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA TRATA DE PERSONAS
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 7.
 
-El organismo al que se refiere el artículo anterior, deberá ser integrado al menos de la siguiente manera:
+En el Estado de Durango se establecerá un Órgano Interinstitucional, para coordinar las políticas públicas en la materia, que elaborará y ejecutará un programa estatal el cual contendrá las acciones relativas a la prevención, atención y erradicación del delito de trata de personas por parte de la autoridad.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 8.
+
+El Órgano al que se refiere el artículo anterior, deberá ser integrado al menos de la siguiente manera:
 
 I. Un representante de cada uno de los Poderes del Estado;
 
-El representante de Poder Ejecutivo será el Secretario General de Gobierno, quien fungirá como Presidente del organismo;
+El representante del Poder Ejecutivo será el Secretario General de Gobierno, quien fungirá como Presidente del Órgano;
 
 El representante del Poder Legislativo, lo será preferentemente el Presidente de la Comisión Legislativa de Derechos Humanos; y el Representante del Poder Judicial del Estado, el que designe el Consejo de la Judicatura;
 
@@ -137,15 +169,19 @@ VIII. El Director del Instituto Duranguense de la Juventud.
 
 Por cada miembro, habrá un suplente designado por su titular; el suplente deberá tener el nivel inmediato inferior.
 
-Para efectos de consulta y asesoría, el organismo interinstitucional, podrá invitar a sus reuniones a representantes de organizaciones de la sociedad civil que tengan como objeto la defensa y promoción de los derechos humanos, así como a expertos académicos vinculados con el tema y a los representantes de dependencias públicas federales, que por la naturaleza de sus funciones se requieran.
+Para efectos de consulta y asesoría, el Órgano interinstitucional, podrá invitar a sus reuniones a representantes de organizaciones de la sociedad civil que tengan como objeto la defensa y promoción de los derechos humanos, así como a expertos académicos vinculados con el tema y a los representantes de dependencias públicas federales, que por la naturaleza de sus funciones se requieran.
 
-###### ARTÍCULO 8.
-
-El Organismo tendrá carácter consultivo ante el Gobierno Estatal y será el coordinador de las acciones que se desarrollen en el Estado de Durango, a través de los programas específicos en la materia.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 9.
 
-Corresponde al Organismo, la realización de las siguientes actividades:
+El Órgano tendrá carácter consultivo ante el Gobierno Estatal y será el coordinador de las acciones que se desarrollen en el Estado de Durango, a través de los programas específicos en la materia.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 10.
+
+Corresponde al Órgano, la realización de las siguientes actividades:
 
 I. Elaborar y coordinar la ejecución del Programa Estatal, que será el eje de la política estatal en esta materia, y realizar seguimiento a su ejecución;
 
@@ -159,27 +195,93 @@ V. Desarrollar programas o proyectos productivos que permitan la reinserción la
 
 VI. Articular acciones y programas tendentes a la atención de las víctimas y prevención de la trata de personas;
 
-VII. Crear registros suficientes y eficientes para actualizar la información sobre trata de personas;
+VII. Impulsar la elaboración de los planes para la instalación y/o construcción de Centros de Atención Especializados, recomendando las características de éstos para que se observen las normas técnicas en la materia, donde se les brinden las condiciones para garantizar el respeto a sus derechos humanos, así como alojamiento por el tiempo necesario, asistencia jurídica, médica, psicológica y psiquiátrica, alimentación y los cuidados, atendiendo a las necesidades particulares de las víctimas con especial referencia a las niñas, niños, adolescentes y mujeres;
 
-VIII. Realizar seguimiento y estudiar los efectos de las normas, programas y actividades de lucha contra la trata de las personas en los Derechos Humanos y recomendar medidas y acciones para su adecuación y mejoramiento;
+VIII. Monitorear y vigilar de manera permanente que los anuncios clasificados que se publiquen por cualquier medio en territorio estatal, sean establecidos conforme a los lineamientos que emita el Gobierno Federal;
 
-IX. Proponer las investigaciones y estudios necesarios para conocer la situación de la trata de personas en la entidad; y
+IX. Crear registros suficientes y eficientes para actualizar la información sobre trata de personas;
 
-X. Las demás que se consideren necesarias para su funcionamiento;
+X. Realizar seguimiento y estudiar los efectos de las normas, programas y actividades de lucha contra la trata de las personas en los Derechos Humanos y recomendar medidas y acciones para su adecuación y mejoramiento;
 
-###### ARTÍCULO 10.
+XI. Proponer las investigaciones y estudios necesarios para conocer la situación de la trata de personas en la entidad; y
 
-El Organismo aprobará el Reglamento que lo organice, así como su funcionamiento.
+XII. Las demás que se consideren necesarias para su funcionamiento;
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 11.
 
-Corresponde a los gobiernos de los Municipios del Estado de Durango la realización de las siguientes actividades:
+El Órgano aprobará el Reglamento que lo organice, así como su funcionamiento.
 
-I. Proporcionar a través de las instancias que para el efecto se establezcan, la asistencia jurídica y el apoyo médico, psicológico y social a las víctimas de trata de personas;
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO TERCERO. DE LAS FACULTADES DE INVESTIGACIÓN DE LAS AUTORIDADES ESTATALES
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 12.
+
+El Ministerio Público, además de las facultades que le confieren otros ordenamientos, durante la fase de investigación tendrá las siguientes:
+
+I. Solicitar la intervención de comunicaciones, en términos de la legislación federal o local aplicable;
+
+II. Solicitar información a las empresas telefónicas y de comunicación, en términos de la legislación federal o local aplicable;
+
+III. Autorizar el seguimiento de personas hasta por un período de un mes, el cual podrá ser prorrogado siempre que existan motivos suficientes, sin que la misma tenga una duración mayor a seis meses, en términos de la normatividad aplicable;
+
+IV. Solicitar información a la Comisión Nacional Bancaria y de Valores sobre la actividad financiera de las personas sujetas a investigación, en términos de la legislación federal o local aplicable;
+
+V. Autorizar la colaboración de informantes, en los términos de los lineamientos mínimos que emita el Sistema Nacional de Seguridad Pública, así como demás disposiciones;
+
+VI. Autorizar la utilización de cualquier medio, instrumentos o herramienta para la obtención de pruebas, siempre que ésta no contravenga los derechos humanos ni violente el orden jurídico; y
+
+VII. Todas aquellas que determinen las leyes aplicables.
+
+Para los efectos de este artículo, el Ministerio Público se podrá coordinar con las instituciones análogas de procuración de justicia de la Federación u otros Estados en la investigación.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 13.
+
+Las policías bajo la dirección y conducción del Ministerio Público, además de las facultades que les confieran otros ordenamientos, durante la fase de investigación tendrán las siguientes:
+
+I. Recabar información en lugares públicos, mediante la utilización de medios e instrumentos y cualquier herramienta que resulten necesarias para la generación de inteligencia. En el ejercicio de esta atribución se deberán respetar los derechos particulares de los ciudadanos;
+
+II. Recabar información de bases de datos públicos, con el objeto de identificar a las víctimas, testigos, lugares de los hechos, forma de operar, sujetos involucrados o bienes de éstos;
+
+III. Realizar análisis técnico táctico o estratégico de la información obtenida para la generación de inteligencia;
+
+IV. Verificar la información que reciba sobre hechos que puedan ser constitutivos de delito o delitos para informarlo al Ministerio Público; y
+
+V. Efectuar el procesamiento del lugar de los hechos, para lo cual deberán fijar, señalar, levantar, embalar y entregar la evidencia física al Ministerio Público, conforme al procedimiento previamente establecido por éste y en términos de las disposiciones aplicables, en caso de contar con personal calificado para tal fin.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 14.
+
+Tendrá la calidad de informante, toda aquella persona que reúna las características que establece el artículo 58 de la Ley General.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 15.
+
+En los casos en que las autoridades locales carezcan de normatividad para el ejercicio de cualquiera de las atribuciones señaladas en los artículos 12 y 13 de la presente Ley, se solicitará a la Procuraduría General de la República coadyuve en la investigación, conforme lo establecido en el artículo 57 de la Ley General.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO CUARTO. DE LAS ACTIVIDADES DE LAS AUTORIDADES MUNICIPALES
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 16.
+
+Además de las establecidas en la Ley General, corresponde a los gobiernos de los Municipios del Estado de Durango la realización de las siguientes actividades:
+
+I. Proporcionar, la asistencia jurídica y el apoyo médico, psicológico y social a las víctimas de trata de personas;
 
 II. Coordinarse con las organizaciones de la sociedad civil y otras organizaciones sociales, para llevar a cabo acciones de prevención de la trata de personas;
 
-III. Participar de las actividades que se deriven de la puesta en práctica del Programa Estatal que implemente el Organismo;
+III. Participar de las actividades que se deriven de la puesta en práctica del Programa Estatal que implemente el Órgano;
 
 IV. Llevar a cabo procesos de capacitación de su personal en materia de prevención y detección de la trata de personas;
 
@@ -189,11 +291,19 @@ VI. Coordinarse con las instancias de Seguridad y Procuración de Justicia feder
 
 VII. Las demás que se establezcan en esta Ley o que se deriven de las acciones de la aplicación del Programa Estatal, así como las que se deriven de las disposiciones federales.
 
-### CAPITULO SEGUNDO. DEL ESTABLECIMIENTO DE LAS POLITICAS PÚBLICAS PARA LA PREVENCION, ATENCION Y ERRADICACION DE LA TRATA DE PERSONAS
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 12.
+### CAPÍTULO QUINTO. DE LA PREVENCIÓN Y ASISTENCIA A LAS VÍCTIMAS
 
-El Organismo realizará las acciones tendentes a fortalecer la participación ciudadana, la responsabilidad social, la cultura de la denuncia y la prevención social del delito, para lo cual deberá:
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN PRIMERA. DE LA PREVENCIÓN
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 17.
+
+El Órgano realizará las acciones tendentes a fortalecer la participación ciudadana, la responsabilidad social, la cultura de la denuncia y la prevención social del delito, para lo cual deberá:
 
 I. Sensibilizar a la población mediante la divulgación de material referente al delito de trata de personas y los derechos de las víctimas;
 
@@ -207,55 +317,85 @@ V. Promover la cultura de la denuncia como un factor indispensable en la lucha c
 
 VI. Las demás que considere necesarias para la prevención del delito de trata de personas.
 
-###### ARTÍCULO 13.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 18.
 
 Las políticas públicas, los programas y demás acciones que se adopten, de conformidad con el presente capítulo, cuando proceda, deberán incluir la intervención de organismos no gubernamentales y de la sociedad civil.
 
-###### ARTÍCULO 14.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-El Organismo fomentará el diseño, evaluación y actualización de los planes y programas de capacitación y formación de servidores públicos en materia de prevención, atención y combate al delito de trata de personas, conforme a las siguientes reglas:
+###### ARTÍCULO 19.
+
+El Órgano fomentará el diseño, evaluación y actualización de los planes y programas de capacitación y formación de servidores públicos en materia de prevención, atención y combate al delito de trata de personas, conforme a las siguientes reglas:
 
 I. Proporcionar la capacitación y formación continua a los servidores públicos, con la finalidad de prevenir el delito de trata de personas. Estas actividades estarán dirigidas, como mínimo, a todos los miembros de las instituciones y corporaciones vinculadas a la seguridad pública, procuración y administración de justicia; y
 
 II. La capacitación y formación tendrán como principio rector el respeto a los derechos fundamentales de la víctima, y el ofendido.
 
-###### ARTÍCULO 15.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN SEGUNDA. DE LA PROTECCIÓN DE LAS VÍCTIMAS
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 20.
 
 Las autoridades estatales realizarán las acciones necesarias para identificar a las víctimas del delito de trata de personas, y adoptarán las siguientes medidas de atención y protección:
 
-I. Proporcionarán orientación jurídica, asistencia social, educativa y laboral a las víctimas del delito de trata de personas. En el caso de que las víctimas pertenezcan a alguna etnia o comunidad indígena o hablen un dialecto o idioma diferente al castellano se designará a un traductor, quien le asistirá en todo momento;
+I. Proporcionarán orientación jurídica, asistencia social, educativa y laboral a las víctimas del delito de trata de personas. En el caso de que las víctimas pertenezcan a alguna etnia o comunidad indígena o hablen un dialecto o idioma diferente al castellano se designará, a un traductor, quien le asistirá en todo momento;
 
-II. Garantizarán asistencia material, médica y psicológica, en todo momento, a las víctimas del delito, la cual, según sea el caso, deberá ser en su lengua o idioma;
+II. Procurar brindar asistencia material, médica y psicológica, en todo momento, a las víctimas del delito, la cual, según sea el caso, deberá ser en su lengua o idioma;
 
 III. Fomentarán oportunidades de empleo, educación y capacitación para el trabajo, a las víctimas del delito;
 
 IV. Procurarán el auxilio inmediato de la autoridad competente para los extranjeros víctimas del delito, brindando, en su caso, la orientación jurídica mínima y la asistencia básica que requieran;
 
-V. Proporcionarán protección, seguridad y salvaguarda de la integridad de la víctima y la de sus familiares ante amenazas, agresiones, intimidaciones o venganzas; garantizando su derecho a la confidencialidad; y
+V. Garantizar que la estancia en Centros de Atención Especializados o en cualquier otra instalación diseñada para la asistencia y protección de las víctimas de los delitos materia de la Ley General, que correspondan al fuero común, sea de carácter voluntario y cuenten con medios para poder comunicarse, siempre y cuando el o los sujetos activos del delito no se presuman integrantes de la delincuencia organizada y estas medidas pongan en peligro la vida, integridad y seguridad del pasivo del delito y de aquellas víctimas con las que comparta las medidas de protección y asistencia;
 
-VI. Proporcionarán asistencia jurídica respecto de los derechos y procedimientos legales a seguir durante todo el proceso legal, en especial, para exigir la reparación del daño sufrido.
+VI. Garantizar que bajo ninguna circunstancia se alberge a víctimas nacionales o extranjeras, en centros preventivos, penitenciarios o estaciones migratorias, ni lugares habilitados para ese efecto;
 
-### CAPITULO TERCERO. DE LAS ACTIVIDADES DE LAS AUTORIDADES MUNICIPALES
+VII. Proporcionarán protección, seguridad y salvaguarda de la integridad de la víctima y la de sus familiares ante amenazas, agresiones, intimidaciones o venganzas; garantizando su derecho a la confidencialidad; y
 
-###### ARTÍCULO 16.
+VIII. Proporcionarán asistencia jurídica respecto de los derechos y procedimientos legales a seguir durante todo el proceso legal, en especial, para exigir la reparación del daño sufrido.
 
-El Organismo, propondrá la adopción de medidas para lograr la recuperación física, psicológica y social de las víctimas del delito de trata de personas; al efecto, podrá promover la participación de organizaciones no gubernamentales y demás actores de la sociedad civil.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO CUARTO. DE LA PREVENCIÓN Y ASISTENCIA A LAS VÍCTIMAS
+###### ARTÍCULO 21.
 
-#### SECCION PRIMERA. DE LA PREVENCIÓN
+Corresponde de manera exclusiva a las autoridades del Estado, en su respectivo ámbito de competencia, la creación de Centros de Atención Especializados para las víctimas, ofendidos y testigos de los delitos que la Ley General establece como del fuero común o apoyar a las organizaciones de la sociedad civil, para la creación y operación de los mismos, hasta la total recuperación de las víctimas, ofendidos y testigos de los delitos contenidos en la Ley General.
 
-###### ARTÍCULO 17.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 22.
+
+El Órgano, propondrá la adopción de medidas para lograr la recuperación física, psicológica y social de las víctimas del delito de trata de personas; al efecto, podrá promover la participación de organizaciones no gubernamentales y demás actores de la sociedad civil.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 23.
 
 Las autoridades estatales, en el ámbito de sus competencias, garantizarán de manera efectiva la seguridad física de las víctimas del delito de trata de personas que se encuentren en territorio estatal.
 
-###### ARTÍCULO 18.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEXTO. DEL PROGRAMA ESTATAL
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN PRIMERA. CONTENIDO DEL PROGRAMA
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 24.
 
 Sin perjuicio de lo dispuesto por la legislación federal, el Programa establecerá los mecanismos y acciones para la protección y asistencia de las víctimas así como los programas específicos de prevención.
 
-###### ARTÍCULO 19.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-El Organismo, en el diseño del Programa, deberá incluir los siguientes aspectos:
+###### ARTÍCULO 25.
+
+El Órgano, en el diseño del Programa, deberá incluir los siguientes aspectos:
 
 I. Un diagnóstico de la situación que prevalezca en la materia, así como, la identificación de la problemática a superar;
 
@@ -275,21 +415,27 @@ VIII. Promover la cultura de prevención de la trata de personas y la protecció
 
 IX. Establecer la metodología de evaluación y seguimiento de las actividades que deriven de este programa, fijando indicadores para evaluar los resultados.
 
-#### SECCION SEGUNDA. DE LA PROTECCIÓN DE LAS VÍCTIMAS
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 20.
+#### SECCIÓN SEGUNDA. DE LA PARTICIPACIÓN SOCIAL
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 26.
 
 Las autoridades encargadas de la prevención, persecución del delito de trata de personas, así como de protección y asistencia a las víctimas, cooperarán entre sí, intercambiando información, a fin de fortalecer las acciones encaminadas a combatir, prevenir y sancionar la trata de personas y asistir a las víctimas de este delito.
 
-###### ARTÍCULO 21.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-El Organismo, en coordinación con las autoridades Estatales y municipales promoverán la participación ciudadana, a fin de que la población y la sociedad civil organizada:
+###### ARTÍCULO 27.
+
+El Órgano, en coordinación con las autoridades Estatales y municipales promoverán la participación ciudadana, a fin de que la población y la sociedad civil organizada:
 
 I. Colaboren en la prevención del delito de trata de personas;
 
 II. Participen en las campañas y en las acciones derivadas del Programa Estatal a que se refiere esta Ley;
 
-III. Colaboren con las instituciones a fin de detectar a las víctimas del delito de trata, así como denunciar a los posibles autores del mismo;
+III Colaboren con las instituciones a fin de detectar a las víctimas del delito de trata, así como denunciar a los posibles autores del mismo;
 
 IV. Denuncien cualquier hecho que resulte violatorio a lo establecido en esta Ley;
 
@@ -297,11 +443,23 @@ V. Den parte al Ministerio Público de cualquier indicio de que una persona sea 
 
 VI. Proporcionen los datos necesarios para el desarrollo de investigaciones y estadísticas en la materia.
 
-###### ARTÍCULO 22.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 28.
 
 Con la participación ciudadana se podrán constituir fondos de financiamiento, en los que concurran las organizaciones civiles y sociales, las instituciones académicas, grupos empresariales y agencias de cooperación, que estarán destinados para el desarrollo de proyectos en la materia.
 
-###### ARTÍCULO 23.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA ASISTENCIA Y PROTECCIÓN DE LAS VÍCTIMAS Y LA REPARACIÓN DEL DAÑO
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN PRIMERA. DE LA ASISTENCIA Y DERECHOS DE LAS VÍCTIMAS
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 29.
 
 Las víctimas de la trata de personas tienen derecho a:
 
@@ -311,15 +469,15 @@ II. Contar con asistencia psicológica, médica y jurídica gratuitas, incluyend
 
 III. Prestar testimonio en condiciones especiales de protección y cuidado; en todo caso deberán atenderse las garantías procesales que le asistan en cuanto a la protección de su identidad;
 
-IV. La protección frente a toda posible represalia contra su persona o su familia, en términos de la legislación federal y estatal en materia penal;
+IV. La protección frente a toda posible represalia contra su persona o su familia, en términos de la legislación federal en materia penal y en lo establecido en la ley Estatal para la Protección de Personas que Intervienen en el Procedimiento Penal;
 
-V. La adopción de las medidas necesarias para garantizar su integridad física y psicológica;
+V. La adopción de medidas tendentes a proteger su integridad física y psicológica;
 
 VI. Ser informadas del estado de las actuaciones, de las medidas adoptadas y de la evolución del proceso;
 
 VII. Ser oídas en todas las etapas del proceso;
 
-VIII. Permanecer en el país, bajo la protección del Estado, previo acuerdo de la autoridad que así lo resuelva, de conformidad con la legislación vigente, y a recibir la documentación o constancia que acredite tal circunstancia;
+VIII. Permanecer en el país, previo acuerdo de la autoridad que así lo resuelva, de conformidad con la legislación vigente, y a recibir la documentación o constancia que acredite tal circunstancia, para la cual se dará de inmediato vista a la Secretaría de Relaciones Exteriores del Gobierno Federal, para que proceda en consecuencia;
 
 IX. Que se les facilite el retorno al lugar en el que estuviera asentado su domicilio; y,
 
@@ -331,79 +489,107 @@ No será requisito la presentación de la denuncia penal o la cooperación en un
 
 El consentimiento dado por la víctima de trata de personas a toda forma de explotación no se tendrá en cuenta cuando se haya empleado cualquiera de los medios comisivos
 
-### CAPITULO QUINTO. DEL PROGRAMA ESTATAL
-
-#### SECCION PRIMERA. CONTENIDO DEL PROGRAMA
-
-###### ARTÍCULO 24.
-
-Cuando la víctima solicite regresar a su lugar de origen, se le deberá facilitar su retorno garantizando su seguridad y proporcionando en su cas,o (sic) la asistencia y apoyos necesarios, conforme a las leyes vigentes.
-
-###### ARTÍCULO 25.
-
-Deberá garantizarse a las víctimas la asesoría y representación legal, en los asuntos del orden civil y familiar, que les permita obtener la custodia de sus hijos, el divorcio, la reparación de daño, la recuperación de sus bienes, entre otros.
-
-#### SECCION SEGUNDA. DE LA PARTICIPACIÓN SOCIAL
-
-###### ARTÍCULO 26.
-
-Atendiendo al principio de interés superior de la infancia, los servidores públicos en el ámbito de su competencia, llevarán a cabo estudios psico-sociales, sobre la pertinencia de reincorporarlos a su núcleo familiar, tomando en cuenta para ello, la opinión que los menores de edad emitan.
-
-Cuando del estudio psico-social se determine que la o el menor no pueden reincorporarse al núcleo familiar, se les deberá proporcionar asistencia social, que deberá incluir vivienda provisional, alimentación, estudios y cuidados de acuerdo a su edad, así como atención psicológica y médica, hasta lograr su· recuperación física y psicológica, además de las medidas de protección que permitan salvaguardar su integridad y seguridad.
-
-###### ARTÍCULO 27.
-
-Tratándose de menores de edad que participen en la averiguación previa o en los procesos penales, independientemente de lo establecido por la legislación de la materia, deberá protegerse su identidad y garantizarse su seguridad e integridad física y emocional.
-
-###### ARTÍCULO 28.
-
-Las medidas de protección y los tratamientos médicos y psicológicos que se proporcionen a los menores víctimas de trata, deberán llevarse a cabo en lugares separados de adultos, incluso de quienes han sido víctimas de trata.
-
-### CAPITULO SEXTO. DE LA ASISTENCIA Y PROTECCIÓN DE LAS VÍCTIMAS Y LA REPARACIÓN DEL DAÑO
-
-#### SECCION PRIMERA. DE LA ASISTENCIA Y DERECHOS DE LAS VÍCTIMAS
-
-###### ARTÍCULO 29.
-
-Todo servidor público que tenga conocimiento directo de conductas relacionadas con el delito de trata de personas, o bien, desde el momento que reciba o atienda a una víctima o testigo involucrado en el mismo, está obligado a ponerlo en conocimiento de la autoridad responsable, quien garantizará y solicitará, en su caso, todas las medidas de protección tendentes a salvaguardar la vida, integridad, libertad y seguridad de víctimas y testigos.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 30.
 
-La víctima de trata de personas o testigo de las conductas delictivas de trata o delitos conexos, recibirá, en términos de la legislación aplicable, las medidas de protección necesarias.
+Deberá garantizarse a las víctimas la asesoría y representación legal, en los asuntos del orden civil y familiar, que les permita obtener la custodia de sus hijos, el divorcio, la reparación de daño, la recuperación de sus bienes, entre otros.
 
-#### SECCION SEGUNDA. DE LA PROTECCIÓN ESPECIAL A MENORES DE EDAD
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN SEGUNDA. DE LA PROTECCIÓN ESPECIAL A MENORES DE EDAD
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 31.
 
-Las medidas de protección durarán hasta que la víctima o testigo se encuentren libres de daños o amenazas u otros actos de intimidación, por parte de las personas acusadas.
+Atendiendo al principio de interés superior de la infancia, los servidores públicos en el ámbito de su competencia, llevarán a cabo estudios psico-sociales, sobre la pertinencia de reincorporarlos a su núcleo familiar, tomando en cuenta para ello, la opinión que los menores de edad emitan.
+
+Cuando del estudio psico-social se determine que la o el menor no pueden reincorporarse al núcleo familiar, se les deberá proporcionar asistencia social, que deberá incluir vivienda provisional, alimentación, estudios y cuidados de acuerdo a su edad, así como atención psicológica y médica, hasta lograr su recuperación física y psicológica, además de las medidas de protección que permitan salvaguardar su integridad y seguridad.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 32.
+
+Tratándose de menores de edad que participen en la averiguación previa o en los procesos penales, independientemente de lo establecido por la legislación de la materia, deberá protegerse su identidad y garantizarse su seguridad e integridad física y emocional.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 33.
+
+Las medidas de protección y los tratamientos médicos y psicológicos que se proporcionen a los menores víctimas de trata, deberán llevarse a cabo en lugares separados de adultos, incluso de quienes han sido víctimas de trata.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN TERCERA. DE LAS MEDIDAS DE PROTECCIÓN
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 34.
+
+Todo servidor público que tenga conocimiento directo de conductas relacionadas con el delito de trata de personas, o bien, desde el momento que reciba o atienda a una víctima o testigo involucrado en el mismo, está obligado a ponerlo en conocimiento de la autoridad responsable, quien garantizará y solicitará, en su caso, todas las medidas de protección tendentes a salvaguardar la vida, integridad, libertad y seguridad de víctimas y testigos.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 35.
+
+La víctima de trata de personas o testigo de las conductas delictivas de trata o delitos conexos, recibirá, en términos de la legislación aplicable, las medidas de protección necesarias.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 36.
+
+Las medidas de protección durarán hasta que la víctima o testigo se encuentren libres de daños o amenazas u otros actos de intimidación, por parte de las personas acusadas.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO OCTAVO. DE LA REPARACIÓN DEL DAÑO
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 37.
 
 Todo servidor público en el ámbito de su competencia, procurará se garantice la reparación del daño a toda persona víctima de trata, esta reparación comprenderá al menos:
 
 I. Los gastos de asistencia, tratamientos y terapias médicas y/o psicológicas, rehabilitación física y psicológica para la víctima y sus dependientes;
 
-II. La reinserción social y ocupacional;
+II. La reinserción social y ocupacional; y
 
-III. El pago de transporte y gastos de traslado a su lugar de origen, garantizando su seguridad;
+III. El pago por la naturaleza y gravedad de las afectaciones en su integridad física y mental.
 
-IV. El pago por la naturaleza y gravedad de las afectaciones en su integridad física y mental.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 33.
+###### ARTÍCULO 38.
 
 A fin de garantizar la reparación del daño a la víctima, los servidores públicos, en el ámbito de su competencia, promoverán, y en su caso, determinarán el decomiso de los bienes muebles o inmuebles que se utilizaron para la comisión del delito, así como el embargo precautorio de los bienes del presunto responsable.
 
-#### SECCION TERCERA. DE LAS MEDIDAS DE PROTECCIÓN
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 34.
+### CAPÍTULO NOVENO. DE LA PARTICIPACIÓN CIUDADANA Y LA COOPERACIÓN ENTRE AUTORIDADES
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN PRIMERA. DE LA PARTICIPACIÓN CIUDADANA
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 39.
 
 Todo servidor público en el ámbito de su competencia, promoverá la participación ciudadana en las acciones contra la trata de personas, la identificación y asistencia a las víctimas, y la denuncia anónima de lugares en donde se comete el delito y personas que lo promuevan o lo lleven a cabo.
 
-###### ARTÍCULO 35.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-Toda persona, que tuviesen conocimiento directo de conductas relacionadas con la trata de personas o de lugares donde se cometa este delito, las podrán denunciar ante la autoridad ministerial competente o al número telefónico de denuncia anónima que se establezca para tal efecto.
+###### ARTÍCULO 40.
 
-###### ARTÍCULO 36.
+Toda persona, que tuviesen (sic) conocimiento directo de conductas relacionadas con la trata de personas o de lugares donde se cometa este delito, las podrán denunciar ante la autoridad ministerial competente o al número telefónico de denuncia anónima que se establezca para tal efecto.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN SEGUNDA. DE LA COOPERACIÓN ENTRE AUTORIDADES
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 41.
 
 Los servidores públicos del Estado y los municipios, en el ámbito de su respectiva competencia, podrán llevar a cabo acuerdos de colaboración o coordinación con otras entidades federativas, municipios y la Federación, a efecto de:
 
@@ -418,14 +604,6 @@ IV. Participar en acciones de prevención, protección a las víctimas en su tra
 V. Identificar y entrevistar testigos; y
 
 VI. Colaborar en todas aquellas acciones en las que se requiera una cooperación en beneficio de las víctimas.
-
-### CAPITULO SEPTIMO. DE LA REPARACIÓN DEL DAÑO
-
-### CAPITULO OCTAVO. DE LA PARTICIPACIÓN CIUDADANA Y LA COOPERACIÓN ENTRE AUTORIDADES
-
-#### SECCION PRIMERA. DE LA PARTICIPACIÓN CIUDADANA
-
-#### SECCION SEGUNDA. DE LA COOPERACIÓN ENTRE AUTORIDADES
 
 ## TRANSITORIOS
 
@@ -462,3 +640,11 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNÁNDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan las contenidas en el presente Decreto.
