@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2014-08-24"
+last_updated: "2014-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO Y OCTAVO TRANSITORIOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO ABROGADO EN LO QUE SE OPONGA AL CONTENIDO DEL NUEVO CÓDIGO, HASTA EN TANTO SE PUBLIQUE EN EL P.O. DEL ESTADO LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISIÓN PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL REFERIDO INSTRUMENTO, POR LO QUE LAS DISPOSICIONES DEL PRESENTE CÓDIGO SE APLICARÁN PARA INVESTIGAR Y JUZGAR LOS DELITOS COMETIDOS DURANTE LA VIGENCIA DEL MISMO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -2435,6 +2435,30 @@ I.- Al que elabore o comercie con comestibles, bebidas o medicinas de tal modo q
 
 II.- Al que oculte, sustraiga, venda o compre efectos que la autoridad competente haya mandado destruir por ser nocivos a la salud.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Se impondrá la misma pena de prisión a que se refiere el artículo, a la utilidad de ganancias sin moderación obtenida de las ventas de mercancías de canasta básica de las familias del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 276 BIS.- Se impondrá de uno a cinco años de prisión y multa de dieciocho a trescientos sesenta días de salario, a toda persona que sin motivo ni justificación, almacene artículos de consumo necesario, por un período mayor de tres meses sin efectuar operaciones de venta.
+
+No se procederá penalmente en contra de las personas que incurran en la conducta anterior cuando:
+
+I.- A pesar de haber ofrecido sus artículos en venta al público a los precios oficiales, no hubo compradores;
+
+II.- Las mercancías que almacena son para uso propio y en cantidades que no excedan a las necesidades normales durante dos meses.
+
+Se consideran artículos de consumo necesario todos los comestibles de primera necesidad, medicinas, combustibles, llantas y refacciones mecánicas destinadas para uso particular y de empresas de transportes y en general, las que sean necesarias para la economía de la región.
+
+Quien realice operaciones de venta a precios que produzcan lucro inmoderado, mercancías de las señaladas en el párrafo anterior, será castigado con de (sic) tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario.
+
+La misma pena se impondrá a quien desobedezca las disposiciones de la autoridad dictadas con el fin de controlar la venta de artículos alimenticios, a precios oficiales y asimismo a los comerciantes, que estando autorizados únicamente a realizar sus mercancías al menudeo, efectúen también operaciones de mayoreo.
+
+Cuando los productores, distribuidores, comisionistas, comerciantes y en general cualquiera persona, con el fin de obtener lucro inmoder (sic) concierten actos tendientes a elevar en forma exagerada los precios de las mercancías de consumo necesario, serán sancionados con dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientos cuarenta y ocho días de salario.
+
+Los comerciantes, los distribuidores y los comisionistas que reincidan en cualquiera de los actos delictuosos enumerados en artículos anteriores y aún cuando hayan sufrido las penas establecidas por esta Ley, serán castigados además con la cancelación de la licencia respectiva, para que puedan ejercitar actos de comercio en toda la Entidad.
+
 ### CAPÍTULO TERCERO. DELITOS CONTRA EL TRABAJO Y LA PREVISIÓN SOCIAL
 
 ###### ARTÍCULO 277.
@@ -2655,27 +2679,11 @@ III.- Al que públicamente invite a otro al comercio carnal.
 
 ###### ARTÍCULO 290.
 
-Al que por cualquier medio, procure, propicie, posibilite, promueva induzca o facilite el que una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho, realice actos de exhibicionismo corporal, lascivos o sexuales, prostitución, ebriedad, consumo de drogas o enervantes, prácticas sexuales o a cometer hechos delictuosos, se le impondrán de dos a ocho años de prisión y hasta doscientos días multa.
-
-Cuando los actos de corrupción a los que se refiere este artículo, se realicen reiteradamente sobre el mismo menor o incapaz o éstos incurran en la comisión de algún delito, la prisión se aumentará de dos a cinco años.
-
-Cuando de la práctica reiterada de los actos de corrupción, el menor o incapaz adquiera los hábitos del alcoholismo, fármaco dependencia, se dedique a la prostitución, práctica de actos sexuales, a formar parte de una asociación delictuosa o de la delincuencia organizada, las penas serán de cinco a quince años de prisión y hasta doscientos cincuenta días multa.
-
-No se entenderá por corrupción de menores los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
-
-Al que procure o facilite la práctica de la mendicidad, se le impondrán de tres a ocho años de prisión y de cincuenta a trescientos días multa.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 291.
 
-Se impondrán de dos a cinco años de prisión y hasta cincuenta días multa, a quien:
-
-I.- Emplee directa o indirectamente los servicios de una persona menor de edad en un lugar nocivo para su sana formación psicosocial; y
-
-II.- Acepte que su hijo o pupilo menor de edad, preste sus servicios en lugar nocivo para su sana formación psicosocial.
-
-A quien permita directa o indirectamente el acceso de un menor a espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrán de uno a tres años de prisión y de cincuenta a doscientos días multa.
-
-Para efectos de este artículo, se considera como empleado al menor que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente preste sus servicios en tales lugares.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 292.
 
@@ -2683,21 +2691,17 @@ Las sanciones que señalan los artículos anteriores, se duplicarán cuando el r
 
 ###### ARTÍCULO 293.
 
-Al que promueva, publicite, facilite o gestione, por cualquier medio, viajes al territorio del Estado de Durango o al exterior de éste, con el propósito de que la persona que viaja tenga relaciones sexuales con menores de edad o con quien no tenga capacidad de comprender o resistir el hecho, se le impondrá una pena de cinco a catorce años de prisión y de mil a cinco mil días multa.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ### CAPÍTULO CUARTO. PORNOGRAFÍA INFANTIL
 
 ###### ARTÍCULO 294.
 
-Al que por cualquier medio procure, facilite o induzca a una persona menor de edad, a realizar actos de exhibicionismo corporal o sexuales, con el objeto de videograbarla, fotografiarla o exhibirla a través de cualquier medio se le impondrán de seis a catorce años de prisión y de quinientos a cinco mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales gráficos.
-
-Se impondrán las mismas sanciones a quien financie, elabore, reproduzca, comercialice, distribuya, arriende, exponga, publicite o difunda el material a que se refieren las acciones anteriores.
-
-No constituye pornografía infantil el empleo los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 295.
 
-A quien por sí o a través de terceros dirija cualquier tipo de asociación delictuosa, con el fin de que se realicen las conductas previstas en este Capítulo, se le impondrán prisión de ocho a dieciséis años y de mil a diez mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de materiales gráficos.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 296.
 
@@ -2707,23 +2711,15 @@ Los responsables de los delitos previstos en este subtítulo con excepción de l
 
 ###### ARTÍCULO 297.
 
-Se sancionará de tres a ocho años de prisión y de cien a quinientos días multa, al que:
-
-I.- Habitual u ocasionalmente explote el cuerpo de una persona u obtenga de ella un beneficio por medio del comercio sexual;
-
-II.- Induzca a una persona para que comercie sexualmente su cuerpo con otra o le facilite los medios para que se prostituya; y
-
-III.- Regentee, administre o sostenga directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
-
-Si el sujeto activo fuere ascendiente, tutor, curador, cónyuge, concubinario o concubina, o tuviere cualquier otra autoridad sobre la persona explotada, la pena privativa de la libertad que se le impusiere se aumentara hasta en dos años mas, y además será privado de todo derecho sobre los bienes de aquella, en su caso, del ejercicio de la patria potestad o para ejercer la función u ocupación en virtud de las cuales ejercía aquella autoridad.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 298.
 
-Se impondrá de cuatro a nueve años de prisión y de cien a quinientos días multa, al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del país.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 299.
 
-Las penas se agravarán en una mitad, si se emplea violencia o cuando la víctima del delito sea menor de edad o no tenga capacidad de comprender el significado del hecho o de resistirlo, o cuando el agente se valiese de su función pública.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ### CAPÍTULO SEXTO. PROVOCACIÓN DE UN DELITO Y APOLOGÍA DE ESTE O DE ALGÚN VICIO
 
@@ -3237,69 +3233,19 @@ Igual sanción se le dará al particular que por medio de la violencia o la coac
 
 ### CAPÍTULO SEGUNDO. SECUESTRO
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 362.
 
-Comete el delito de secuestro, quien por cualquier medio prive de la libertad a otro, con alguno de los siguientes propósitos:
+En materia del delito de secuestro se estará a lo establecido en la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
-I.- Obtener un beneficio económico para sí o para un tercero;
+ARTÍCULO 362 BIS.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
-II.- Que la autoridad o un particular realice o deje de realizar un acto de cualquier naturaleza;
-
-III.- Alterar la integridad física o mental del secuestrado o de cualquier otra persona relacionada con éste, o
-
-IV.- Causar daño o perjuicio económico al secuestrado o a otra persona relacionada con éste.
-
-Al que cometa el delito de secuestro, se le aplicarán de quince a setenta años de prisión y de quinientos a dos mil días multa.
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2004)</small>
-
-ARTÍCULO 362 bis.- Se impondrán de treinta a setenta años de prisión y de mil a tres mil días multa, a quien al privar de la libertad a otro, en los términos del artículo 362 incurra además en las siguientes circunstancias:
-
-I. Que el secuestrado sea menor de dieciocho o mayor de sesenta años o que tenga alguna discapacidad física o mental;
-
-II.- Que el secuestrador tenga vínculos de parentesco, amistad, gratitud, confianza o relación laboral con el secuestrado o persona relacionada con éste;
-
-III.- Que el secuestrador sea o haya sido servidor público o miembro de una corporación de seguridad privada;
-
-IV.- Que el secuestro se desarrolle en dos o más Entidades Federativas;
-
-V.- Que el secuestrador cause una mutilación física o extraiga alguno de los órganos de su secuestrado;
-
-VI.- Que altere la salud del secuestrado o de sus familiares de forma permanente o grave;
-
-VII.- Que la víctima sea mujer en estado de embarazo;
-
-VIII.- Que la víctima pierda la vida después de la cesación del delito, por una causa originada durante el mismo, o
-
-IX.- Que persona relacionada con el secuestrado por un vínculo de parentesco o afectivo pierda la vida como consecuencia del delito.
-
-Cuando en la comisión de este delito intervenga un servidor público, se le impondrán además de las penas previstas, la destitución e inhabilitación por un tiempo igual al de la pena de prisión impuesta.
-
-En caso de que el secuestrado sea privado de la vida por su o sus secuestradores, la pena de prisión será de cuarenta y cinco a setenta años y multa de mil quinientos a tres mil quinientos días multa.
-
-Si el secuestrador deja en libertad de manera espontánea al secuestrado dentro de los tres días siguientes a la comisión del delito, sin haber logrado algunos de los propósitos previstos en el artículo 362, se le impondrán de cuatro a doce años de prisión y de trescientos a mil días multa.
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2004)</small>
-
-ARTÍCULO 362 ter.- Se impondrán de tres a diez años de prisión y de doscientos a quinientos días multa, al que en relación con las conductas sancionadas en los artículos 362 y 362 bis:
-
-I.- Actúe como intermediario en las gestiones de libertad, sin la autorización de los familiares directos de la víctima;
-
-II.- Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
-
-III.- Actúe como asesor de quienes representen o gestionen a favor de la víctima y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro, o
-
-IV.- Aconseje o induzca a no presentar la denuncia del secuestro cometido, o bien a no colaborar u obstruir la actuación de las autoridades.
-
-Igual pena se impondrá al servidor público que teniendo el deber de hacerlo, no intervenga en la investigación de los hechos y la persecución del inculpado, ni proceda en los términos de esta disposición, tan pronto como tenga conocimiento del ilícito y aún cuando el ofendido o sus familiares se opongan a ello. Además de las penas previstas, se le impondrán la destitución e inhabilitación por un tiempo igual al de la pena de prisión.
+ARTÍCULO 362 TER.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 363.
 
-A quien simule encontrarse privado de su libertad o simule la privación de la libertad de otro, con amenaza de su vida o daños a su persona, con el propósito de obtener rescate o con la intención de que la autoridad o un particular realice o deje de realizar un acto cualquiera, se le impondrán de dos a ocho años de prisión y de cien a quinientos días multa.
-
-Las mismas penas se impondrán a cualquiera que intervenga en la comisión de este delito.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ### CAPÍTULO TERCERO. DESAPARICIÓN FORZADA DE PERSONAS
 
@@ -4141,7 +4087,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas las disposiciones legales que s opongan al presente decreto.
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
 
 P.O. 5 DE OCTUBRE DE 2006.
 
@@ -4376,3 +4322,29 @@ P.O. 24 DE AGOSTO DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 297 POR EL QUE SE REFORMA EL ARTÍCULO 362 Y SE DEROGAN LOS ARTÍCULOS 362 BIS, 362 TER Y 363 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE DURANGO, EL JUEVES VEINTINUEVE DE ABRIL DEL AÑO DOS MIL CUATRO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan las contenidas en el presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 299 POR EL QUE SE ADICIONAN UN PÁRRAFO AL ARTÍCULO 276 Y EL ARTÍCULO 276 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE DURANGO, EL JUEVES VEINTINUEVE DE ABRIL DEL AÑO DOS MIL CUATRO.
+
+Artículo Primero.- El presente decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo.- Se abroga la Ley contra el Lucro Inmoderado para el Estado de Durango, publicado en el Decreto Número 14, de la XLI Legislatura, del Periódico Oficial Número 49, de Fecha 18 de diciembre de 1947.
+
+Artículo Tercero.- Se derogan todas las disposiciones que contravengan a las contenidas en la presente Ley.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 307 POR EL QUE SE DEROGAN LOS ARTÍCULOS 290, 291, 293, 294, 295, 297, 298 Y 299 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan las contenidas en el presente Decreto.
