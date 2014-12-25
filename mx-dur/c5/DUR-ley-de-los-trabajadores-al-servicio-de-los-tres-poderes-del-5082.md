@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2014-06-26"
+last_updated: "2014-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -489,7 +489,9 @@ VIII.- Notificar al Sindicato de las vacantes temporales y definitivas, así com
 
 IX.- Cubrir las plazas a que se refiere la Fracción anterior, con los elementos que al efecto proponga el Sindicato, siempre y cuando se llenen los requisitos de aptitud y capacidad que sean establecidos.
 
-X.- Otorgar las primas a los Trabajadores que se retiren voluntariamente del servicio así como la prima vacacional.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+X.- Otorgar la prima vacacional.
 
 XI.- Hacer las deducciones en los salarios que solicite el Sindicato, siempre que se ajusten a los términos de esta Ley.
 
@@ -1510,6 +1512,12 @@ PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publica
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 26 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2014.
 
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
