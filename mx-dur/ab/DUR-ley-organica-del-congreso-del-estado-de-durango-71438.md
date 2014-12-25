@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2014-07-20"
+last_updated: "2014-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -71,7 +71,9 @@ Al Congreso del Estado le corresponde el ejercicio de las facultades que le conf
 
 La residencia del Poder Legislativo es la capital del Estado, su recinto oficial será el Palacio Legislativo, donde se ubicará el salón de sesiones, el cual constituirá su recinto plenario.
 
-El Congreso podrá cambiar su residencia en forma provisional si así lo aprueba el voto de las dos terceras partes de los diputados integrantes de la Legislatura.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+El Congreso del Estado podrá trasladar su sede provisionalmente, cuando así lo acuerden las dos terceras partes de sus miembros presentes en la sesión en que se trate.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
@@ -3337,11 +3339,7 @@ a) La actuación particularmente relevante en alguna rama del deporte, en evento
 
 b) Por el impulso o el fomento al desarrollo del deporte.
 
-XI. Premio Estatal del Periodismo.- Cada año el Congreso del Estado, a través de la Gran Comisión y en coordinación con los periodistas de la entidad, emitirá la convocatoria correspondiente con la finalidad de llevar a cabo un concurso estatal denominado: "Premio Estatal de Periodismo", en el cual, podrán participar los periodistas locales que cumplan con los requisitos establecidos en la misma.
-
-El 7 de junio del año que corresponda, el Congreso del Estado en espacio solemne en sesión del Pleno, otorgará las condecoraciones o reconocimientos respectivos a los periodistas ganadores.
-
-Una misma persona podrá recibir dos o más condecoraciones, siempre y cuando estas sean distintas, pero nunca podrá entregarse la misma condecoración más de una vez, a una persona o institución, aunque hubiese sido propuesta en años diferentes.
+XI. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
 
@@ -3674,3 +3672,13 @@ Los informes de actividades legislativas y gestoría a que se refiere el artícu
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las previstas en el presente Decreto.
