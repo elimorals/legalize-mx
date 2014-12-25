@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-de-la-mujer-duranguense-16742"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-18"
-last_updated: "2005-12-25"
+last_updated: "2014-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY QUE CREA EL INSTITUTO DE LA MUJER DURANGUENSE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DEL INSTITUTO ESTATAL DE LAS MUJERES, PUBLICADA EN EL P.O. DE 25 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 18 de junio de 2000.
 
@@ -347,7 +349,7 @@ III. Convocar a sesiones, previo acuerdo con el Presidente; y
 
 IV. Las demás que le confiera el Consejo Directivo, este ordenamiento, el Reglamento Interior del Instituto y demás disposiciones aplicables.
 
-###### ARTICULO 14.
+###### ARTÍCULO 14.
 
 Son atribuciones de los Vocales:
 
@@ -447,11 +449,11 @@ XVIII. Proporcionar la información y dar acceso a la documentación que le soli
 
 XIX. Las demás que le otorguen la Ley de Entidades Paraestatales del Estado de Durango, el Reglamento Interior del Instituto, el Consejo Directivo y demás disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ### CAPÍTULO IV. DE LOS CONSEJOS CONSULTIVOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 18.
 
@@ -513,10 +515,28 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS CATO
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ANGEL SERGIO GUERRERO MIER.- EL SECRETARIO GENERAL DE GOBIERNO. LIC. JOSE MIGUEL CASTRO CARRILLO.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE DICIEMBRE DE 2005.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que Crea el Instituto de la Mujer Duranguense publicada en el Decreto No. 298 de la 61 Legislatura del P.O. 49 del 18 de Junio del 2000.
+
+###### ARTICULO TERCERO.
+
+Los recursos humanos, presupuestales, financieros y materiales del Instituto de la Mujer Duranguense, pasarán a formar parte del Instituto Estatal de las Mujeres; sin menoscabo de los derechos laborales.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
