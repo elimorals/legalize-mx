@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2014-08-24"
+last_updated: "2014-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 1. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSI
 
 NOTA 2. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TRANSITORIO PRIMERO DEL DECRETO NÚMERO 139 DE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA ADOPCIÓN DEL SISTEMA PENAL ACUSATORIO Y ORAL, ASÍ COMO LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 8 DE MAYO DE 2014, SE ADOPTA EL SISTEMA PENAL ACUSATORIO, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO, INTEGRADOS DE LA SIGUIENTE MANERA: SEGUNDO DISTRITO: CIUDAD LERDO COMO RESIDENCIA, COMPRENDE LOS MUNICIPIOS DE LERDO Y MAPIMÍ, EXCEPTO EN MATERIA PENAL QUE CORRESPONDE AL TERCER DISTRITO; TERCER DISTRITO: GÓMEZ PALACIO COMO RESIDENCIA; COMPRENDE EL MUNICIPIO DEL MISMO NOMBRE Y EL DE TLAHUALILO, POR LO QUE AL MISMO TIEMPO ENTRARÁ EN VIGOR EL PRESENTE ORDENAMIENTO, MISMO QUE SURTE SUS EFECTOS A PARTIR DE LAS CERO HORAS DEL DÍA 10 DE JUNIO DE 2014.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1887,115 +1887,27 @@ DELITOS CONTRA LA LIBERTAD Y SEGURIDAD PERSONAL
 
 ### CAPÍTULO I. SECUESTRO
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 153.
 
-Al que prive de la libertad a otro se le aplicarán:
-
-A. De veinte a cuarenta años de prisión y de quinientos a dos mil días multa, si la privación de la libertad se efectúa con el propósito de:
-
-I. Obtener, para sí o para un tercero, rescate o cualquier beneficio;
-
-II. Detener en calidad de rehén a una persona y amenazar con privarla de la vida o con causarle daño, para obligar a sus familiares o a un particular a que realice o deje de realizar un acto cualquiera;
-
-III. Causar daño o perjuicio a la persona privada de la libertad o a terceros; o
-
-IV. Cometer secuestro exprés, desde el momento mismo de su realización, entendiéndose por éste, el que, para ejecutar los delitos de robo o extorsión, prive de la libertad a otro. Lo anterior, con independencia de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten.
-
-B. Estas penas se agravarán de veinticinco a cuarenta y cinco años de prisión y de dos mil a cuatro mil días multa, si en la privación de la libertad concurre alguna o algunas de las circunstancias siguientes:
-
-I. Que se realice en camino público o en lugar desprotegido o solitario;
-
-II. Que quienes la lleven a cabo obren en grupo de dos o más personas;
-
-III. Que se realice con violencia;
-
-IV. Que para privar a una persona de su libertad se allane el inmueble en el que ésta se encuentra;
-
-V. Que la víctima sea menor de dieciocho años o mayor de sesenta años de edad, o que por cualquier otra circunstancia no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo;
-
-VI. Que la víctima sea una mujer en estado de gravidez;
-
-C. De veinticinco a cincuenta años de prisión y de cuatro mil a ocho mil días multa, si en la privación de la libertad concurren cualquiera de las circunstancias siguientes:
-
-l. Que el o los autores sean o hayan sido integrantes de alguna institución de seguridad pública, de procuración o administración de justicia, o de las Fuerzas Armadas Mexicanas, o se ostenten como tales sin serlo;
-
-II. Que el o los autores tengan vínculos de parentesco, amistad, gratitud, confianza o relación laboral con la víctima o persona relacionada con ésta;
-
-III. Que durante su cautiverio se cause a la víctima alguna lesión de las previstas en el artículo 140 de este Código;
-
-IV. Que en contra de la víctima se hayan ejercido actos de tortura o violencia sexual;
-
-V. Que durante o después de su cautiverio, la víctima muera debido a cualquier alteración de su salud que sea consecuencia de la privación de la libertad, o por enfermedad previa que no hubiere sido atendida en forma adecuada por los autores o partícipes del delito.
-
-Las sanciones señaladas en el presente artículo se impondrán, sin perjuicio o con independencia de las que correspondan por otros delitos que de las conductas a las que se aplican resulten.
-
-Si la víctima del delito previsto en el presente Capítulo de este Código es privada de la vida por los autores o partícipes de los mismos, se impondrá a éstos una pena de cuarenta a setenta años de prisión y de seis mil a doce mil días multa.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
+En materia del delito de secuestro se estará a lo establecido en la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 154.
 
-Si espontáneamente se libera a la víctima del secuestro dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refieren las cuatro primeras fracciones del artículo 153 de este Código y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena será de dos a seis años de prisión y de cincuenta a ciento cincuenta días multa.
-
-La misma pena se aplicará a aquél que habiendo participado en la planeación de alguna de las conductas a que hace referencia el presente Capítulo, dé noticia de ese hecho a la autoridad y la víctima sea rescatada con vida.
-
-La pena señalada en el párrafo primero de este artículo se aplicará a aquél que habiendo participado en la comisión de alguna de las conductas a que hace referencia el presente Capítulo, dé noticia de ese hecho a la autoridad para evitar que se cometa el delito y proporcione datos fehacientes o suficientes elementos de convicción contra los demás participantes del hecho o, ya cometido, antes de que se libere a la víctima, proporcione, los datos o elementos referidos, además dé información eficaz para liberar o localizar a la víctima.
-
-No obstante lo anterior, si a la víctima se le hubiere causado alguna lesión de las previstas en el artículo 140 de este Código, la pena será de nueve a dieciséis años de prisión y de trescientos a quinientos días multa, así como la colocación de los dispositivos de localización y vigilancia por la autoridad policial hasta por los cinco años posteriores a su liberación.
-
-En caso de que espontáneamente se libere al secuestrado dentro de los primeros diez días, sin lograr alguno de los propósitos a que se refieren las cuatro primeras fracciones del artículo 153 de este Código y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena de prisión aplicable será de ocho a quince años y de doscientos cincuenta hasta quinientos días multa.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ###### Artículo 155.
 
-Se impondrá pena de cien a trescientas cincuenta jornadas de trabajo a favor de la comunidad, al que simule por sí o por interpósita persona, la privación de su libertad con alguno de los propósitos señalados en las cuatro primeras fracciones del artículo 153 de este Código.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ###### Artículo 156.
 
-Se impondrán de dos a ocho años de prisión al que simule la privación de la libertad de una persona, con la intención de conseguir alguno de los propósitos señalados las (sic) cuatro primeras fracciones del artículo 153 de este Código.
-
-La misma pena se impondrá al que amenace de cualquier modo a una persona con privarla de la libertad o con privar de la libertad a algún miembro de su familia o con quien esté ligada por algún vínculo, con alguno de los propósitos señalados en los (sic) las cuatro primeras fracciones del artículo 153 de este Código.
-
-Esta misma pena se impondrá, además de setecientos a mil quinientos días multa, al que:
-
-I. Después de la ejecución de cualquiera de las conductas previstas en el artículo 153 del presente Código, y sin haber participado en cualquiera de ellas, adquiera o· reciba el producto de las mismas a sabiendas de esta circunstancia;
-
-II. Preste auxilio o cooperación al autor de cualquiera de las conductas previstas en el artículo 153 del presente Código, con conocimiento de esta circunstancia, por acuerdo posterior a la liberación de la víctima;
-
-III. Oculte o favorezca el ocultamiento del responsable de ejecutar cualquiera de las conductas previstas en el artículo 153 del presente Código, con conocimiento de esta circunstancia, así como los efectos, objetos o instrumentos del mismo o impida que se averigüe;
-
-IV. Altere, modifique o destruya ilícitamente el lugar, huellas o vestigios de los hechos delictivos a que se refiere este Código, y
-
-V. Desvíe u obstaculice la investigación de cualquiera de las conductas previstas en el artículo 153 del presente Código, o favorezca que el inculpado se sustraiga a la acción de la justicia.
-
-No se aplicará la pena prevista en este artículo en el caso de la fracción III, en lo referente al ocultamiento del infractor, cuando se trate de:
-
-a) Los ascendientes o descendientes consanguíneos o afines directos, y
-
-b) El cónyuge, la concubina, el concubinario y parientes colaterales por consanguinidad hasta el segundo grado.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ###### Artículo 157.
 
-Se aplicará pena de dos a ocho años de prisión, de doscientos a mil días multa, al servidor público que:
-
-I. Divulgue, sin motivo fundado, información reservada o confidencial, relacionada con las conductas sancionadas por este Capítulo, salvo que se refiera a la información o imágenes obtenidas en una intervención de comunicación privada, en este caso se aplicará lo dispuesto por el Código Penal Federal, o
-
-II. Revele, sin motivo fundado, técnicas aplicadas a la investigación o persecución de las conductas previstas en el presente Capítulo.
-
-Si el sujeto es o hubiere sido integrante de una institución de seguridad pública, de procuración de justicia, de los centros de reclusión preventiva o penitenciaria, la pena será de cuatro años seis meses a trece años de prisión, así como también, la multa y el tiempo de colocación de dispositivos de localización y vigilancia se incrementarán desde un tercio hasta dos terceras partes.
-
-Además de la pena a que se refiere el párrafo anterior, se le impondrá de doscientos a mil días multa al servidor público que, teniendo atribuciones en materia de prevención, investigación, procuración o impartición de justicia o de vigilancia y custodia en los centros de privación de la libertad o penitenciaria, se abstenga de denunciar ante el Ministerio Público o, en caso de urgencia, ante la policía, la comisión de cualquiera de los delitos previstos en este Código, o de hacer saber de inmediato al Ministerio Público información, evidencias o cualquier otro dato relacionado, directa o indirectamente, con la preparación o comisión de las conductas previstas en este Código.
-
-A todo sentenciado por cualquiera de los delitos previstos en esta Ley que sea o hubiere sido servidor público de cualquiera de las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias encargadas de la seguridad pública, se le aplicará como parte de la pena la inhabilitación para ocupar un empleo, cargo o comisión en el servicio público federal, local o municipal, desde un plazo igual al de la pena de prisión que se le imponga por el delito en que incurrió hasta la inhabilitación definitiva.
-
-Cualquier otro servidor público quedará inhabilitado para ocupar un empleo, cargo o comisión en el servicio público federal, local o municipal hasta por un plazo igual al de la pena de prisión que se imponga. Dicha inhabilitación correrá a partir de que concluya la pena de prisión.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ### CAPÍTULO II. DESAPARICIÓN FORZADA DE PERSONAS
 
@@ -3189,6 +3101,30 @@ I. Al que elabore o comercie con comestibles, bebidas o medicinas de tal modo qu
 
 II. Al que oculte, sustraiga, venda o compre efectos que la autoridad competente haya mandado destruir por ser nocivos a la salud.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Se impondrá la misma pena de prisión a que se refiere el artículo, a la utilidad de ganancias sin moderación obtenida de las ventas de mercancías de canasta básica de las familias del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Artículo 265 bis. Se impondrá de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario, a toda persona que con ánimo de acaparamiento, almacene artículos de consumo necesario, por un período mayor de tres meses sin efectuar operaciones de venta.
+
+No se procederá penalmente en contra de las personas que incurran en la conducta anterior cuando:
+
+I.- A pesar de haber ofrecido sus artículos en venta al público a los precios oficiales, no hubo compradores;
+
+II.- Las mercancías que almacena son para uso propio y en cantidades que no excedan a las necesidades normales durante dos meses.
+
+Se consideran artículos de consumo necesario todos los comestibles de primera necesidad, medicinas, combustibles, llantas y refacciones mecánicas destinadas para uso particular y de empresas de transportes y en general, las que sean necesarias para la economía de la región.
+
+Quien realice operaciones de venta a precios que produzcan lucro inmoderado, mercancías de las señaladas en el párrafo anterior, será castigado de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario.
+
+La misma pena de prisión se impondrá a quien desobedezca las disposiciones de la autoridad dictadas con el fin de controlar la venta de artículos alimenticios, a precios oficiales y asimismo a los comerciantes, que estando autorizados únicamente a realizar sus mercancías al menudeo, efectúen también operaciones de mayoreo.
+
+Cuando los productores, distribuidores, comisionistas, comerciantes y en general cualquiera persona, con el fin de obtener lucro inmoderado, concierten actos tendientes a elevar en forma exagerada los precios de las mercancías de consumo necesario, serán sancionados de dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientos cuarenta y ocho días de salario
+
+Los comerciantes, los distribuidores y los comisionistas que reincidan en cualquiera de los actos delictuosos enumerados en artículos anteriores y aún cuando hayan sufrido las penas establecidas por esta Ley, serán castigados además con la cancelación de la licencia respectiva, para que puedan ejercitar actos de comercio en toda la Entidad.
+
 ### CAPÍTULO I. PORNOGRAFÍA CON PERSONAS MENORES DE EDAD O QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
 ###### Artículo 266.
@@ -3573,33 +3509,15 @@ DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
 
 ###### Artículo 303.
 
-Comete el delito de trata de personas quien introduzca, procure, promueva, facilite, reclute, mantenga, capte, ofrezca, traslade, entregue o reciba para sí o para un tercero a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para someterla a cualquier forma de explotación o para extirpar sus órganos, tejidos o sus componentes.
-
-Para efectos de este artículo se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas similares, la servidumbre, la mendicidad ajena o la extracción de órganos, tejidos o componentes.
-
-Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios señalados en el primer párrafo del presente artículo.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ###### Artículo 304.
 
-El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no constituirá causa que excluye el delito.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ###### Artículo 305.
 
-A quien cometa el delito de trata de personas se le aplicará:
-
-I. De seis a doce años de prisión y multa de cuatrocientos treinta y dos a ochocientos sesenta y cuatro días de salario;
-
-II. De nueve a dieciocho años de prisión y multa de seiscientos cuarenta y ocho a mil doscientos noventa y seis días de salario, si se emplease violencia física o moral, o el sujeto activo se valiese de la función pública que tuviere o hubiese ostentado sin tener. Además, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por diez años;
-
-III. Las penas que resulten de las fracciones I y II de este artículo se incrementarán hasta una mitad; y,
-
-a) Si el delito es cometido en contra de una persona menor de dieciocho años de edad;
-
-b) Si el delito es cometido en contra de una persona mayor de sesenta años de edad;
-
-c) Si el delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho;
-
-d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), afinidad o civil, habite en el mismo domicilio con la víctima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
 ### CAPÍTULO IV. SEDICIÓN
 
@@ -4986,3 +4904,29 @@ P.O. 24 DE AGOSTO DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 297 POR EL QUE SE REFORMA EL ARTÍCULO 153 Y SE DEROGAN LOS ARTÍCULOS 154, 155, 156 Y 157 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE DURANGO EL CATORCE DE JUNIO DEL AÑO DOS MIL NUEVE.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan las contenidas en el presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 299 POR EL QUE SE ADICIONAN UN PÁRRAFO AL ARTÍCULO 265 Y EL ARTÍCULO 265 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE DURANGO EL CATORCE DE JUNIO DEL AÑO DOS MIL NUEVE.
+
+Artículo Primero.- El presente decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo.- Se abroga la Ley contra el Lucro Inmoderado para el Estado de Durango, publicado (sic) en el Decreto Número 14, de la XLI Legislatura, del Periódico Oficial Número 49, de Fecha 18 de diciembre de 1947.
+
+Artículo Tercero.- Se derogan todas las disposiciones que contravengan a las contenidas en la presente Ley.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 307 POR EL QUE SE DEROGAN LOS ARTÍCULOS 303, 304 Y 305 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE DURANGO EL CATORCE DE JUNIO DEL AÑO DOS MIL NUEVE.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan las contenidas en el presente Decreto.
