@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2014-01-12"
+last_updated: "2014-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 12 DE ENERO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 103 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -293,7 +291,7 @@ VII. Secretaría de Educación;
 
 VIII. Secretaría de Contraloría;
 
-IX. Secretaria de Recursos Naturales y Medio Ambiente; y (sic)
+IX. Secretaria de Recursos Naturales y Medio Ambiente; y
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -301,11 +299,11 @@ X. Secretaría de Seguridad Pública;
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-XI. Secretaría de Desarrollo Social; y (sic)
+XI. Secretaría de Desarrollo Social; y
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-XII.- Secretaría de Turismo; y (sic)
+XII.- Secretaría de Turismo; y
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2008)</small>
 
@@ -638,6 +636,262 @@ LXXIII. Evaluar, con la participación de las dependencias y entidades de la adm
 > <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
 
 LXXIV. Las demás que le señalen las leyes, reglamentos y convenios vigentes.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 30 BIS-A. La Secretaria de Finanzas y de Administración del Gobierno del Estado contará con unidades administrativas que estarán jerárquicamente subordinadas y tendrán facultades específicas para resolver sobre la materia que se determine de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 30 BIS-B. Son autoridades fiscales además del Gobernador y del Secretario de Finanzas y de Administración en términos de las atribuciones que esta Ley les confiere, las siguientes unidades administrativas:
+
+I. Subsecretaría de Ingresos.
+
+II. Procuraduría Fiscal.
+
+III. Dirección de Recaudación.
+
+IV. Dirección de Auditoría Fiscal.
+
+V. Recaudación de Rentas.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 30 BIS-C. Corresponde al Subsecretario de Ingresos las siguientes facultades y obligaciones:
+
+I. Recaudar los ingresos que sean a favor del Gobierno del Estado y los depósitos de particulares que se constituyan de acuerdo a las disposiciones legales;
+
+II. Autorizar mediante su firma el trámite, resolución y despacho de los asuntos de su competencia o por suplencia, así como de los señalados por delegación o por suplencia;
+
+III. Autorizar a servidores públicos adscritos a su responsabilidad la ejecución de las facultades que le hayan sido encomendadas;
+
+IV. Resolver las autorizaciones que establezcan las leyes fiscales, estatales o federales, así como las consultas que formulen los interesados respecto a situaciones reales y concretas sobre la aplicación de las mismas;
+
+V. Emitir y tramitar la publicación de edictos que procedan en los asuntos de su competencia.
+
+VI. Conforme a los lineamientos que fije el Secretario, depurar los créditos fiscales a favor del fisco estatal y autorizar su cancelación cuando proceda;
+
+VII. Emitir dictamen que declare la caducidad de la facultad de la autoridad fiscal para la determinación de créditos fiscales o, en su caso, la prescripción de los mismos;
+
+VIII. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de carácter fiscal, tanto las aplicables en el Estado como las de orden federal en el ámbito de su competencia;
+
+IX. Representar al Secretario en todas las obligaciones y compromisos derivados de los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, de Colaboración Administrativa en materia fiscal y sus anexos respectivos que sean suscritos entre el Gobierno del Estado y el de la Federación, así como, auxiliarlo en la preparación, interpretación y aplicación de los mismos;
+
+X. En ausencia del Secretario, emitir las disposiciones de carácter general, en las que periódica o anualmente se establezcan las facilidades administrativas que permita a los contribuyentes cumplir en forma oportuna con sus obligaciones fiscales;
+
+XI. Ejercer las atribuciones que como sujeto activo de la relación fiscal, se encuentren establecidas en las disposiciones fiscales estatales, así como las de orden federal en los ingresos cuya administración tenga delegada el Estado, de conformidad con los convenios de adhesión al Sistema Nacional de Coordinación Fiscal, de Colaboración Administrativa en materia fiscal federal y sus anexos respectivos que sean suscritos entre el Gobierno del Estado y el de la Federación;
+
+XII. Recibir de los contribuyentes, y en su caso requerir los avisos, manifestaciones, declaraciones y demás documentación que conforme a las disposiciones fiscales deban presentarse ante la misma, y aplicar cuando proceda las medidas de apremio necesarias;
+
+XIII. Implantar las medidas de control y de inspección a los contribuyentes; incorporar a los padrones de aquellas que no se encuentren en los mismos y requerir la regularización de su situación fiscal;
+
+XIV. Atender las solicitudes de devolución de contribuciones estatales y de cantidades pagadas indebidamente al fisco, y determinar su devolución cuando proceda;
+
+XV. Calificar la existencia y procedencia de créditos y compensaciones a cargo del fisco estatal;
+
+XVI. Conforme a las disposiciones legales aplicables, emitir el dictamen confirmatorio de que no se causan las contribuciones correspondientes o de exención en el pago de contribuciones, previa solicitud del contribuyente;
+
+XVII. Calificar y determinar la aceptación de las daciones en pago por adeudos fiscales, así como las donaciones a favor del Gobierno del Estado;
+
+XVIII. Autorizar la verificación o comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y terceros relacionados con ellos, conforme a las disposiciones fiscales estatales y las de carácter federal; así como las relativas a revisión de declaraciones, de dictámenes, auditorías, de verificaciones y demás actos que se deriven de las disposiciones fiscales estatales y federales cuando se actúe en ejercicio de administración de ingresos coordinados;
+
+XIX. Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados, así como comprobar el cumplimiento de sus obligaciones, de conformidad con las disposiciones fiscales estatales o federales;
+
+XX. Determinar la existencia de créditos fiscales, su actualización y sus accesorios, a cargo de contribuyentes, responsables solidarios y demás obligados; dar las bases para su liquidación y fijarlos en cantidad líquida, en los términos de las leyes fiscales del Estado, así como en las de carácter federal de los ingresos federales cuya administración tenga delegada el Estado;
+
+XXI. Determinar y ordenar el cobro a los contribuyentes, responsables solidarios y demás obligados, de las diferencias por errores aritméticos en las declaraciones y por el pago en parcialidades de las contribuciones, tanto de las derivadas de la aplicación de disposiciones fiscales estatales, así como las de carácter federal, en los ingresos cuya administración tenga delegada el Estado;
+
+XXII. Conforme a las disposiciones legales aplicables, autorizar el pago diferido o en parcialidades de los créditos fiscales estatales, así como de créditos federales cuya administración tenga delegada el Estado;
+
+XXIII. Calificar, para su aceptación, las garantías del interés fiscal que deban ser otorgadas a favor del Gobierno del Estado; hacerlas efectivas y resolver sobre la dispensa o el otorgamiento de las mismas; vigilar que sean suficientes y exigir su ampliación, así como ordenar el secuestro de otros bienes;
+
+XXIV. Ordenar y practicar el embargo precautorio o el aseguramiento precautorio para asegurar el interés fiscal, así como el levantamiento del mismo;
+
+XXV. Ordenar y aplicar el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales y sus accesorios a cargo de los contribuyentes, responsables solidarios y demás obligados, así como recuperar las garantías constituidas para asegurar el interés fiscal, incluyendo las fianzas otorgadas para garantizar los créditos de acuerdo con las disposiciones fiscales estatales o federales;
+
+XXVI. Ordenar y practicar visitas domiciliarias, auditorías, inspecciones vigilancia, verificaciones revisiones electrónicas y demás actos que establezcan las disposiciones fiscales, estatales o federales, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y terceros relacionados con ellos en materia de impuestos, derechos, contribuciones por mejoras, productos, aprovechamientos, su actualización y accesorios, incluyendo los ingresos federales cuya administración tiene delegada el Estado de los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, de Colaboración Administrativa en materia Fiscal Federal y sus anexos respectivos, que sean suscritos entre el Gobierno del Estado y el de la Federación;
+
+XXVII. Requerir a los contribuyentes, responsables solidarios, terceros con ellos relacionados y contadores públicos autorizados que hayan formulado dictámenes para efectos fiscales, que exhiban y proporcionen la contabilidad, declaraciones, avisos, datos, informes, papeles de trabajo y demás documentos que permitan comprobar el cumplimiento de las disposiciones fiscales estatales, así como las de orden federal de los ingresos cuya administración tenga delegada el Estado;
+
+XXVIII. Recabar de los servidores públicos y de los fedatarios los informes y datos que posean con motivo de sus funciones que se relacionen con el cumplimiento de obligaciones fiscales de los contribuyentes, responsables solidarios, terceros con ellos relacionados y contadores públicos autorizados para emitir dictámenes para efectos fiscales;
+
+XXIX. Revisar que los dictámenes formulados por contador público registrado sobre los estados financieros relacionados con las declaraciones fiscales de los contribuyentes, reúnan los requisitos establecidos en las disposiciones fiscales estatales o federales;
+
+XXX. Ordenar la práctica de la notificación de los actos relacionados con el ejercicio de las facultades de comprobación, así como las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y los demás actos administrativos que se generen con motivo de sus facultades de comprobación del cumplimiento de las disposiciones fiscales estatales o federales, así como la notificación por buzón tributaria;
+
+XXXI. Expedir oficio de prórroga sobre el plazo en el que deban concluir las visitas domiciliarias, auditorias, inspecciones, verificaciones y demás actos que sean de su competencia;
+
+XXXII. Citar e informar al contribuyente, a su representante legal y, tratándose de personas morales, también a sus órganos de dirección, de los hechos u omisiones que se vayan conociendo en el desarrollo del ejercicio de facultades de comprobación;
+
+XXXIII. Dar a conocer mediante oficio de observaciones los hechos u omisiones que se hubiesen conocido con motivo de la revisión de los informes, datos, documentos o contabilidad tratándose de revisiones desarrolladas de conformidad con las facultades contenidas en este artículo y en las disposiciones fiscales estatales o federales de su competencia;
+
+XXXIV. Autorizar en los términos que señalan las disposiciones legales, la solicitud de ampliación de plazo que presenten los contribuyentes para entrega de documentos o informes cuyo contenido sea difícil de proporcionar o de difícil obtención;
+
+XXXV. Expedir los oficios de designación, credenciales o constancias de identificación del personal que se autorice para la práctica de notificaciones, visitas domiciliarias, auditorias, inspecciones, vigilancia, verificaciones, requerimientos y demás actos que se deriven de las disposiciones fiscales estatales y federales;
+
+XXXVI. Orientar y auxiliar a los contribuyentes respecto al cumplimiento de sus obligaciones fiscales, al calendario de aplicación de las disposiciones fiscales y de los procedimientos y formas para su debida observancia, en las materias de su competencia;
+
+XXXVII. De conformidad con los ordenamientos legales aplicables, imponer las sanciones administrativas que correspondan a las infracciones fiscales en materia de contribuciones estatales; así como en las de carácter federal de los ingresos federales cuya administración tenga delegada el Estado;
+
+XXXVIII. Conforme a los ordenamientos legales en la materia, condonar las multas administrativas aplicadas por infracción a las disposiciones fiscales estatales o federales;
+
+XXXIX. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
+
+XL. Expedir certificados de constancias de los expedientes relativos a asuntos de su competencia, en materia fiscal federal y estatal;
+
+XLI. Vigilar que se encuentre garantizado el interés fiscal así como calificar y en su caso, aceptar la garantía del interés fiscal ofrecida por los contribuyentes para darle el trámite correspondiente;
+
+XLII. Ordenar y practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros relacionados basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o más contribuciones;
+
+XLIII. Comunicar a los contadores públicos registrados las irregularidades de las que tenga conocimiento la autoridad con motivo de la revisión de los dictámenes que formulen para efectos fiscales o las derivadas del incumplimiento de las disposiciones fiscales por parte de dichos contadores;
+
+XLIV. Dejar sin efectos las órdenes de visita domiciliaria, los requerimientos de información que se formulen a los contribuyentes, así como la revisión de papeles de trabajo que se haga a los contadores públicos registrados;
+
+XLV. Determinar la responsabilidad solidaria respecto de créditos fiscales de su competencia; y
+
+XLVI. Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asigne el Secretario en el ámbito de sus facultades.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 30 BIS-D. Corresponde al Procurador Fiscal del Estado, las siguientes atribuciones y facultades:
+
+I. Expedir las constancias de identificación de los servidores públicos que se autoricen para la notificación de asuntos derivados de sus facultades;
+
+II. Resolver los recursos administrativos que se interpongan ante la Secretaría con motivo de la aplicación de las leyes fiscales del Estado o federales coordinadas, conforme a las facultades otorgadas en los convenios suscritos con el Gobierno Federal o los municipios;
+
+III. Definir, previa autorización del Secretario, el criterio de la Secretaría y de las unidades administrativas de la misma, cuando se emitan opiniones contradictorias en cuestiones fiscales;
+
+IV. Certificar las copias de documentos y constancia (sic) que obren en los archivos de la dependencia, conforme a las disposiciones legales aplicables;
+
+V. Intervenir y representar ante los tribunales jurisdiccionales, administrativos y del trabajo ya sean federales, estatales y municipales en representación de la Secretaría, de sus órganos o áreas administrativas en las controversias en que sean parte, contando para ello con todas las facultades generales y especiales, para lo cual podrá:
+
+a) Realizar su defensa y ejercer las acciones de las que sea titular la Secretaría o cualquiera de sus órganos o áreas administrativas;
+
+b) Presentar, contestar y reconvenir demandas;
+
+c) Oponer excepciones y defensas;
+
+d) Ofrecer y rendir pruebas, preguntar y repreguntar, tachar testigos, recursar, articular y absolver posiciones, formular alegatos;
+
+e) Comprometer en árbitros, transigir y celebrar convenios judiciales;
+
+f) Interponer todo tipo de Incidentes, recursos judiciales y administrativos que sean procedentes ante los órganos jurisdiccionales o tribunales administrativos del Estado o de la Federación, así como las demás autoridades;
+
+g) Ejecutar sentencias, promover embargo, rematar bienes y adjudicar estos a favor del fisco estatal;
+
+h) Cuando sea procedente, previo acuerdo del Secretario y sin perjuicio del erario estatal, otorgar el perdón judicial ante las autoridades federales y estatales; y
+
+i) En su caso, previo acuerdo del Secretario(a), desistirse de cualquier acción intentada.
+
+j) Allanarse en aquellos procesos jurisdiccionales, cuando a su juicio, considere que existen agravios suficientes expresados en la demanda, y que puedan inducir al tribunal correspondiente a declarar la nulidad de la resolución impugnada, para el efecto de que se reponga su emisión o el procedimiento del que deriva.
+
+k) Elaborar y suscribir los informes previos y justificados que deban presentar el Secretario, los servidores públicos de la Secretaría y las autoridades fiscales estatales, en los asuntos competencia de la Secretaría; así como los escritos de demanda o contestación, según proceda, en las controversias constitucionales o acciones de inconstitucionalidad; proponer los términos de intervención de la Secretaría, cuando tenga el carácter de tercero interesado en los juicios de amparo e interponer los recursos procedentes.
+
+VI. Elaborar y formular las demandas en los asuntos en los que se afecte el interés jurídico del fisco estatal, incluso cuando éste actué en la administración de ingresos federales delegados al Estado en los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal y de Colaboración Administrativa en materia Fiscal Federal, incluyendo sus anexos respectivos, que sean suscritos entre el Gobierno del Estado y el de la Federación;
+
+VII. Sin menoscabo de las facultades conferidas en el artículo 43 fracción X de la presente Ley, conferidas al Consejero General de Asuntos Jurídicos adscrito al Despacho del Ejecutivo Estatal, el Procurador Fiscal tendrá la representación legal de la entidad federativa exclusivamente para interponer ante los Tribunales Colegiados de Circuito los recursos de revisión a los que se refiere el artículo 63 de la Ley Federal de Procedimiento de lo (sic) Contencioso Administrativo en contra de las sentencias emitidas por el pleno, sección o salas regionales del Tribunal Federal de Justicia Fiscal y Administrativa, que se dicten en los juicios contenciosos administrativos, cuando éste actué en la administración de ingresos federales delegados en los Convenios de Adhesión al Sistema de Coordinación Fiscal y de Colaboración Administrativa en materia Fiscal Federal, incluyendo sus anexos respectivos, que sean suscritos entre el Gobierno del Estado y la Federación; y
+
+VIII. Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asigne el Secretario en el ámbito de sus facultades.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 30 BIS-E. Corresponde al Director de Recaudación las siguientes facultades y obligaciones:
+
+I. Recaudar las contribuciones, productos, aprovechamientos y sus accesorios que deba percibir el Gobierno del Estado, provenientes del cumplimiento de las leyes fiscales y de los convenios fiscales que celebre (sic) Estado con la Federación o los municipios;
+
+II. Representar a la Secretaría en su jurisdicción territorial, ante autoridades federales, estatales, municipales así como ante los contribuyentes;
+
+III. Recibir de los contribuyentes, responsables solidarios o terceros con ellos relacionados, avisos, declaraciones, solicitudes, constancias, manifestaciones y demás documentación que conforme a las disposiciones fiscales deban presentarse ante la misma;
+
+IV. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban ante las oficinas de Hacienda y/o Recaudaciones de Rentas del Estado, la documentación comprobatoria de sus obligaciones fiscales cuya vigilancia se encuentre encomendada a dichas Recaudaciones;
+
+V. Tramitar y resolver las solicitudes para el pago diferido o en parcialidades de los créditos fiscales y sus accesorios, previa garantía del interés fiscal, de conformidad con las leyes fiscales federales y estatales;
+
+VI. Llevar a cabo en los términos de la legislación fiscal federal y estatal, el Procedimiento Administrativo de Ejecución para hacer efectivos los créditos fiscales a cargo de contribuyentes, responsables solidarios, terceros con ellos relacionados y demás obligados, así como para exigir las garantías constituidas para asegurar el interés fiscal;
+
+VII. Aceptar y custodiar las garantías previa calificación de las mismas, que los contribuyentes otorguen para cubrir los créditos fiscales, respecto de los cuales se aplique el Procedimiento Administrativo de Ejecución o sobre los que se autorice su pago diferido o en parcialidades, así como el de autorizar la sustitución de las citadas garantías, cancelarlas como proceda, y llevar a cabo el embargo en la vía administrativa como medio de garantía en términos de las disposiciones fiscales;
+
+VIII. Practicar embargos precautorios en la forma y términos que proceda conforme a las leyes fiscales, para asegurar el interés fiscal, cuando a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda;
+
+IX. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales o administrativas en materia de su competencia;
+
+X. Notificar las multas impuestas por las autoridades administrativas, federales no fiscales, determinar sus correspondientes accesorios y recaudar unos y otros, incluso a través del Procedimiento Administrativo de Ejecución;
+
+XI. Notificar en la forma y términos que conforme a las leyes fiscales corresponda, las resoluciones que determinen créditos fiscales, citatorios, requerimientos solicitudes de informes y otros actos administrativos de su competencia;
+
+XII. Ordenar la práctica de la notificación de los actos relacionados con el ejercicio de las facultades de comprobación delegadas a la Recaudación de Rentas así como las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitudes de informes y otros actos administrativos que se generen con motivo de sus facultades de comprobación del cumplimiento de las disposiciones fiscales Estatales o Federales;
+
+XIII. Expedir certificaciones y constancias que obren en los expedientes relativos a asuntos de su competencia;
+
+XIV. Practicar u ordenar se practique avalúo de conformidad con las disposiciones fiscales;
+
+XV. Solicitar a las instituciones bancarias, así como a las organizaciones auxiliares del crédito, que ejecuten el embargo o aseguramiento de cuentas y de inversiones a nombre de los contribuyentes, o de los responsables solidarios y solicitar su levantamiento cuando así proceda;
+
+XVI. Habilitar días y horas inhábiles para la práctica de diligencias, según lo establezcan las leyes fiscales y/o estatales; y
+
+XVII. Las demás que las leyes y reglamentos vigentes en el Estado le atribuyan, así como aquellas que le confiera el Secretario, o el Subsecretario de Ingresos.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 30 BIS-F. Corresponde al Director de Auditoría Fiscal las siguientes facultades y obligaciones:
+
+I. Ordenar y practicar visitas domiciliarias de auditoría, inspecciones y verificaciones, así como realizar los demás actos que establezcan las disposiciones fiscales, a fin de comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados tanto en materia estatal o federal, en los términos de los convenios de coordinación celebrados entre la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado;
+
+II. Ordenar y practicar el embargo precautorio o el aseguramiento precautorio para asegurar el interés fiscal cuando a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda, tratándose tanto de impuestos estatales como federales convenidos;
+
+III. Requerir a los contribuyentes, responsables solidarios y demás obligados que exhiban la contabilidad, declaraciones, avisos y otros documentos e informes, así como recabar de los servidores públicos y de los fedatarios los informes y datos que tengan con motivo de sus funciones, para proceder a su revisión a fin de comprobar el cumplimiento de las disposiciones fiscales en materia estatal y federal convenidos;
+
+IV. Revisar los dictámenes formulados por Contador Público Registrado, sobre los estados financieros relacionados con las declaraciones de los contribuyentes para comprobar el cumplimiento de las disposiciones fiscales;
+
+V. Recibir de los contribuyentes, responsables solidarios y terceros con ellos relacionados y demás obligados, dentro de los plazos fijados, las inconformidades que formulen y las pruebas que ofrezcan en relación con los actos de comprobación, estudiarlas y tomarlas en cuenta, en su caso, para determinar los créditos fiscales correspondientes;
+
+VI. Determinar en cantidad líquida los créditos fiscales derivados de las revisiones practicadas e imponer las multas por infracción de las disposiciones fiscales, en las materias de su competencia;
+
+VII. Dar a conocer a los contribuyentes, responsables solidarios y terceros con ellos relacionados y demás obligados, los hechos y omisiones que entrañen o puedan entrañar violaciones a las disposiciones fiscales, que se conozcan con motivo del ejercicio de sus facultades de comprobación, previstas tanto en las leyes fiscales estatales o en alguna otra ley de carácter fiscal;
+
+VIII. Citar e informar al contribuyente, a su representante legal y, tratándose de personas morales, también a sus órganos de dirección, de los hechos u omisiones que se vayan conociendo en el desarrollo del ejercicio de facultades de comprobación;
+
+IX. Ordenar y practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros relacionados basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o más contribuciones;
+
+X. Comunicar a los contadores públicos registrados las irregularidades de las que tenga conocimiento la autoridad con motivo de la revisión de los dictámenes que formulen para efectos fiscales o las derivadas del incumplimiento de las disposiciones fiscales por parte de dichos contadores;
+
+XI. Determinar la responsabilidad solidaria respecto de créditos fiscales de su competencia;
+
+XII. Solicitar a las instituciones bancarias, así como a las organizaciones auxiliares del crédito, que ejecuten el embargo o aseguramiento de cuentas y de inversiones a nombre de los contribuyentes, o de los responsables solidarios y solicitar su levantamiento cuando así proceda; y
+
+XIII. Expedir certificaciones y constancias que obren en los expedientes relativos a asuntos de su competencia;
+
+XIV. Las demás que le señalen las leyes, reglamentos convenios, decretos, y otras disposiciones legales, así como las que le confieran el Secretario o el Subsecretario de Ingresos.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 30 (SIC)-G. Corresponde al Recaudador de Rentas las siguientes facultades y obligaciones:
+
+I. Recaudar los ingresos provenientes de contribuciones, productos, aprovechamientos y accesorios que deba percibir el Gobierno del Estado, conforme lo dispongan las leyes y de (sic) los convenios fiscales que celebre el Estado con la Federación o los Municipios, dentro del ámbito territorial que se asigne en el Reglamento de las Oficinas de Hacienda y/o Recaudaciones de Rentas;
+
+II. Representar a la Secretaria en su jurisdicción territorial, ante autoridades federales, estatales, o municipales así como ante los contribuyentes.
+
+III. Recibir de los contribuyentes, responsables solidarios o terceros con ellos relacionados, avisos, declaraciones, solicitudes, constancias, manifestaciones, y demás documentación que conforme a las disposiciones fiscales deberán presentarse ante la misma;
+
+IV. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban ante las oficinas de Hacienda y/o Recaudaciones de Rentas, la documentación comprobatoria de sus obligaciones fiscales cuya vigilancia se encuentre encomendada a dichas Recaudaciones;
+
+V. Previo acuerdo del Director de Recaudación, tramitar y resolver las solicitudes para el pago diferido o en parcialidades de los créditos fiscales, previa garantía del interés fiscal y sus accesorios, de conformidad con las leyes fiscales federales y estatales;
+
+VI. Aplicar el Procedimiento Administrativo de Ejecución para hacer efectivos los créditos fiscales a cargo de los contribuyentes, responsables solidarios, terceros con ellos relacionados y demás obligados, así como para exigir las garantías constituidas para asegurar el interés fiscal;
+
+VII. Aceptar y custodiar las garantías previa calificación de las mismas, que los contribuyentes otorguen para cubrir los créditos fiscales, respecto de los cuales aplique el Procedimiento Administrativo de Ejecución o sobre los que se autorice su pago diferido o en parcialidades, así como el de autorizar la sustitución de las citadas garantías, cancelarlas cuando proceda, y llevar a cabo el embargo en la vía administrativa como medio de garantía en términos de las disposiciones fiscales;
+
+VIII. Practicar embargos precautorios en la forma y términos que proceda conforme a las leyes fiscales para asegurar el interés fiscal cuando a su juicio hubiera peligro de que el obligado se ausente o realice la enajenación de los bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda;
+
+IX. Imponer sanciones que correspondan por infracciones a las disposiciones fiscales o administrativas en materia de su competencia;
+
+X. Notificar las multas impuestas por las autoridades administrativas, federales o fiscales, determinar sus correspondientes accesorios y recaudar unos y otros incluso a través del Procedimiento Administrativo de Ejecución;
+
+XI. Notificar en la forma y términos que conforme a las leyes fiscales corresponda, las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitudes de informes y otros actos administrativos de su competencia;
+
+XII. Ordenar la práctica de la notificación de los actos relacionados con el ejercicio de las facultades de comprobación delegadas a la Recaudación de Rentas, así como las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitudes de informes, y otros actos administrativos que se generen con motivo de sus facultades de comprobación o del cumplimiento de las disposiciones fiscales, estatales o federales; y
+
+XIII. Las demás que las Leyes y Reglamentos vigentes en el Estado le atribuyan, así como aquellas que les confiere el Secretario de Finanzas y de Administración, el Subsecretario de Ingresos o el Director de Recaudación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2013)</small>
 
@@ -1227,7 +1481,7 @@ XXV. (DEROGADA, P.O. 9 DE ABRIL DE 2013)
 
 XXVI. Vigilar la exacta y adecuada observancia de las Leyes que rijan en materia de adquisiciones y obras públicas;
 
-XXVII. Proponer y establecer las medidas que considere necesarias para prevenir y combatir la corrupción; y (sic)
+XXVII. Proponer y establecer las medidas que considere necesarias para prevenir y combatir la corrupción; y
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -1639,7 +1893,9 @@ V. Secretaría Auxiliar y Coordinación de Audiencias;
 
 VI. Consejería General de Asuntos Jurídicos;
 
-VII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+VII. Dirección de Asuntos Internacionales y Atención a Migrantes;
 
 VIII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2003)
 
@@ -2284,3 +2540,27 @@ El Tribunal Superior de Justicia y el Gobierno del Estado, en el ámbito de sus 
 SEXTO.- Las menciones que las diversas disposiciones legales hagan del Tribunal de Conciliación y Arbitraje, se entenderán referidas al Tribunal Laboral Burocrático.
 
 SÉPTIMO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 313, POR EL QUE SE REFORMA EL ARTÍCULO 39 FRACCIÓN VII DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 314, POR EL QUE SE ADICIONAN LOS ARTÍCULOS 30 BIS-A, 30 BIS-B, 30 BIS-C, 30 BIS-D, 30 BIS-E, 30 BIS-F Y 30 BIS-G A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las previstas en el presente Decreto.
