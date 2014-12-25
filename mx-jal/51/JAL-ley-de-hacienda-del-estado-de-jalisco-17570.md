@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2014-10-09"
+last_updated: "2014-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -113,7 +113,9 @@ I. La adjudicación;
 
 II. La transmisión o promesa de cesión de derechos fiduciarios;
 
-III. La cesión y transmisión de derechos hereditarios;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+III. La cesión y transmisión de derechos: hereditarios, de crédito, litigiosos y los derivados de ejecución de sentencia;
 
 IV. La transmisión de derechos relativos a palcos, butacas o plateas;
 
@@ -121,7 +123,7 @@ V. Los actos constitutivos del fideicomiso, así como los actos de ejecución de
 
 VI. La disolución o liquidación de la copropiedad por lo que respecta a los excedentes del valor que le correspondería a la porción de cada propietario;
 
-VII La disolución o liquidación de la sociedad conyugal o sociedad legal, por lo que respecta a los excedentes del valor que le correspondería a la porción de cada cónyuge;
+VII. La disolución o liquidación de la sociedad conyugal o sociedad legal, por lo que respecta a los excedentes del valor que le correspondería a la porción de cada cónyuge;
 
 VIII. La enajenación, cesión o donación de acciones o partes sociales; y
 
@@ -148,6 +150,10 @@ III. Tratándose de fideicomisos, el valor de los bienes fideicomitidos.
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 Cuando la Secretaría de Planeación, Administración y Finanzas advierta que el valor de operación consignado en el documento de que se trate; o el consignado en el avalúo pericial, es notoriamente inferior al que le correspondería como valor real, practicará avalúo con los elementos de que disponga, mismo que servirá de base para el pago de ese impuesto.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+La Secretaria de Planeación, Administración y Finanzas podrá tomar como base de cálculo del gravamen, cualquier avaluó practicado por el perito, que conozca con motivo de la transmisión patrimonial, en el caso de que no se cuente con valores.
 
 De la cuota
 
@@ -241,11 +247,11 @@ Los fedatarios públicos, registradores y las autoridades competentes no registr
 
 De la base del impuesto
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 15.
 
-Será base para el pago de este impuesto el monto establecido por las partes en los contratos y actos jurídicos o de fedatario público en que se estipulen obligaciones pecuniarias o reducibles a dinero.
+Sera base para el pago de este impuesto el monto establecido por la (sic) partes en los contratos y actos jurídicos o de fedatario público en que se estipulen obligaciones pecuniarias o reducibles a dinero, o en su caso los montos establecidos en los documentos que hayan dado origen al contrato o acto jurídico de que se trate, si no se hubieren señalado montos.
 
 En caso de obligaciones alternativas, el monto de la más elevada.
 
@@ -385,13 +391,11 @@ Los contribuyentes propietarios de vehículos automotores usados registrados en 
 
 De las exenciones
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 29.
 
-Están exentas del pago de este impuesto:
-
-I. Las operaciones de compra-venta de vehículos usados por cuya enajenación deba pagarse el impuesto al valor agregado, y
-
-II. Las compras de vehículos efectuadas por empresas cuyo giro sea la compraventa de vehículos automotores, siempre que hayan sido adquiridos de personas físicas que no realicen actividades empresariales.
+Están exentas del pago de este impuesto, las operaciones de compra-venta de vehículos usados por cuya enajenación debe pagarse el impuesto al valor agregado.
 
 ### CAPITULO CUARTO. Del impuesto sobre remuneraciones al trabajo personal no subordinado
 
@@ -445,11 +449,15 @@ II. Llevar un libro de ingresos y egresos en el que consignarán el concepto; fe
 
 III. Expedir y recabar documentación comprobatoria de sus operaciones;
 
-IV. Presentar su aviso de inscripción ante la Oficina de Recaudación Fiscal correspondiente a su domicilio fiscal, dentro del mes siguiente al día en que inicien actividades por las cuales deban efectuar los pagos objeto de este impuesto;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-V. Presentar ante las mismas autoridades, dentro del plazo que señala la fracción anterior, los avisos de cambio de domicilio, nombre, razón social, traslado, traspaso, reanudación o suspensión de actividades; y
+IV. Presentar los avisos de inscripción o modificaciones ante el Registro Estatal, en los términos que disponen los artículos 50, 51 y demás aplicables del Código Fiscal del Estado;
 
-VI. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales, en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+V. Cumplir con las obligaciones y disposiciones que se establece (sic) en el Código Fiscal del Estado, entre las que se señalan de manera enunciativa, mas no limitativa, obligaciones en materia de contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales avisos, datos informes o cualquiera otra documentación a que se obligue el Código Fiscal del Estado, en lo que no contravengan lo dispuesto en el presente capitulo; y
+
+VI. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -597,13 +605,17 @@ La Secretaría de Planeación, Administración y Finanzas, podrá estimar las er
 
 I. Cuando no presenten sus declaraciones o no lleven los libros o registros que legalmente están obligados a llevar; y
 
-II. Cuando de los informes que se obtengan de las declaraciones y datos presentados por el contribuyente ante un tercero o ante cualquier dependencia o entidad gubernamental, exista discrepancia con el impuesto pagado y lo que debió enterarse.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-En este caso la autoridad fiscal dará a conocer al sujeto del impuesto, los datos contenidos en sus declaraciones e informes presentados ante un tercero o ante cualquier dependencia o entidad gubernamental, señalando el periodo sujeto a revisión, así como las cantidades que resultan como diferencia en el pago del impuesto.
+II. Cuando de los informes que se obtengan de las declaraciones y datos presentados por el contribuyente ante un tercero o ante cualquier dependencia o entidad gubernamental, exista discrepancia con los datos o importes declarados en materia de este impuesto o bien cuando el contribuyente fue omiso en su pago;
 
-En el mismo acto se otorgará al sujeto del impuesto, un plazo de diez días para que realice las aclaraciones que a su derecho convenga, el sujeto del impuesto podrá autocorregir su situación, dentro del plazo de diez días, mediante el pago de las contribuciones omitidas, en cuyo caso se impondrá la multa mínima.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-En caso de que no se realicen las aclaraciones o no se justifique la discrepancia, dentro del plazo antes señalado, la autoridad fiscal procederá a determinar la diferencia del impuesto, calculando el monto de las erogaciones correspondientes a cuando menos 30 días, los más cercanos posibles al período revisado, con base en la información obtenida, se determinará el promedio mensual de las erogaciones correspondientes al período calculado u observado, el cual se multiplicará por el número de meses del período sujeto a revisión, respecto del cual no se acreditó el pago del impuesto sobre nominas en los términos establecidos en esta Ley.
+En este caso, la autoridad fiscal dará a conocer al sujeto del impuesto, los datos contenidos en sus declaraciones e informes presentados ante un tercero o ante cualquier dependencia o entidad gubernamental, señalando el periodo sujeto a revisión, así como las cantidades que resultan como diferencia en el pago del impuesto, procediendo en los términos que establece el artículo 31-B del Código Fiscal del Estado, para que el contribuyente pueda manifestar lo que a su derecho convenga.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 III. Cuando no se cuente con registro en el padrón estatal de contribuyentes, no se presenten declaraciones o no se pague oportunamente el importe del Impuesto Sobre Nóminas, o se pague el impuesto de forma incorrecta, respecto de las remuneraciones al trabajo personal subordinado relacionado con el ramo de la construcción de bienes inmuebles, se estimaran las erogaciones de conformidad a los costos de mano de obra por metro cuadrado para la obra privada, así como los factores de mano de obra de los contratos de obra pública que rigen las diversas leyes sobre la materia, acorde con la determinación de salarios mínimos que emite la Comisión Nacional de Salarios Mínimos, los cuales dé a conocer la Secretaría de Planeación, Administración y Finanzas mediante disposiciones de carácter general, en los términos que establezca el Código Fiscal del Estado.
 
@@ -617,19 +629,29 @@ De las obligaciones de los contribuyentes
 
 Son obligaciones de los contribuyentes de este impuesto, además de las establecidas en la presente Ley o en cualquier otra disposición legal, las siguientes:
 
-I. Presentar aviso de inscripción ante la oficina de recaudación fiscal correspondiente a su domicilio fiscal, dentro del mes siguiente al día en que inicie actividades por las cuales deban efectuar los pagos objeto del impuesto;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-II. Presentar ante las mismas autoridades, dentro del plazo que señala la fracción anterior, los avisos de cambio de domicilio, nombre, razón social, traslado y reanudación o suspensión de actividades;
+I. Presentar los avisos de inscripción o modificación ante el Registro Estatal, con los términos que disponen los artículos 50, 51 y demás aplicables del Código Fiscal del Estado;
 
-III. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales, en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-IV. Las sucursales, bodegas, agencias y otras dependencias de la matriz que se establezcan fuera del domicilio fiscal de ésta, deberán presentar su aviso de inscripción y pago por separado. En el caso de que dos o más establecimientos se encuentren ubicados en la misma localidad, uno deberá registrarse, para efectos de pago y los demás para efectos de control;
+II. Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativas (sic), obligaciones en materia de llevar contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales, aviso, datos, informes o cualquier otra documentación a que obligue el Código Fiscal del Estado, en lo que no contravenga lo dispuesto en el presente capítulo;
 
-V. Los contribuyentes que teniendo sus matrices fuera del estado, establezcan dentro del territorio del mismo, sucursales, bodegas, agencias, oficinas y otras dependencias, cuando se encuentren gravadas por este impuesto o cuando no lo estén, deberán registrarse para efectos de pago y control;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-VI. Conservar la documentación comprobatoria del pago de las remuneraciones objeto de este impuesto; y
+III. Las sucursales, bodegas, agencias y otras dependencias de la matriz que se establezcan fuera del domicilio fiscal de ésta, deberán presentar su aviso de inscripción y pago por separado. En el caso de que dos o más establecimientos se encuentren ubicados en la misma localidad, uno deberá registrarse, para efectos de pago y los demás para efectos de control;
 
-VII. Las personas físicas o jurídicas que reciban las prestaciones del trabajo personal subordinado y que no hagan las erogaciones objeto de este impuesto, deberán de presentar su aviso de inscripción para efectos de control, exhibiendo copia del contrato de prestación de servicio ante la oficina de recaudación fiscal que corresponda a su domicilio, y proporcionar los datos que identifiquen a la persona que haga dichas erogaciones, así como el número de trabajadores que presten el trabajo subordinado.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+IV. Los contribuyentes que teniendo sus matrices fuera del estado, establezcan dentro del territorio del mismo, sucursales, bodegas, agencias, oficinas y otras dependencias, cuando se encuentren gravadas por este impuesto o cuando no lo estén, deberán registrarse para efectos de pago y control;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+V. Las personas físicas o jurídicas que reciben las prestaciones del trabajo personal subordinado y que no hagan las erogaciones objeto de este impuesto, deberán de presentar su aviso de inscripción para efectos de control, exhibiendo copia del contrato de prestación de servicios ante la oficina de recaudación fiscal que corresponda a su domicilio, y proporcionar los datos que identifiquen a la persona que haga dichas erogaciones, así como el número de trabajadores que presten el trabajo subordinado;
+
+VI. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2014)
+
+VII. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2014)
 
 ### CAPITULO SEXTO. Del impuesto sobre hospedaje
 
@@ -655,21 +677,23 @@ De las obligaciones
 
 Las personas que presten los servicios de hospedaje, así como las que tengan a su cargo la administración u operación de sistemas de tiempo compartido, están obligadas a lo siguiente:
 
-I. Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la autoridad fiscal que corresponda, mediante la forma oficial del caso y proporcionando la información relacionada con su identidad, su domicilio y aquella que les sea solicitada,
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+I. Presentar los avisos de inscripción o modificación ante el Registro Estatal, en los términos que disponen, los artículos 50, 51 y demás aplicables del Código Fiscal del Estado;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2006)</small>
 
 II. Trasladar el impuesto a las personas a las que se preste el servicio de hospedaje y enterarlo en las oficinas autorizadas dentro del plazo señalado en este capítulo,
 
-III. Presentar ante las autoridades, dentro del mes siguiente en que suceda cualquiera de los siguientes casos; los avisos de cambio de domicilio, nombre, razón social, traslado, traspaso, reanudación o suspensión de actividades,
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+III. Llevar contabilidad en los términos que establece el Código Fiscal del Estado. Además, consignar en la documentación respectiva, el monto correspondiente al valor de la contraprestación por los servicios de hospedaje, donde se desglosen los servicios accesorios que en su caso se presenten; y
 
-IV. Llevar un registro acorde con sus sistemas de contabilidad, en el que se consigne el monto correspondiente al valor de la contraprestación por los servicios de hospedaje, donde se desglosen los servicios accesorios que en su caso se presten.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+IV. Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativa mas no limitativa, obligaciones en materia de contabilidad; conservación de la misma, de proporcionar a las autoridades fiscales, avisos, datos, informes o cualquier otra documentación a que obligue el Código Fiscal del Estado, en lo que no contravengan lo dispuesto en el presente capítulo.
 
-En el caso de que un contribuyente cuente con dos o más inmuebles donde se presten servicios de hospedaje, deberá llevar el registro a que se refiere el párrafo anterior respecto de cada uno de ellos.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 De la base del impuesto
 
@@ -681,7 +705,7 @@ La base para el cálculo de este impuesto se integra con el valor total de la co
 
 Los servicios prestados bajo el sistema "todo incluido" por el cual el pago de la contraprestación contemple servicios adicionales al de hospedaje tales como alimentación, bebidas, transportación y otros similares, considerarán como base gravable únicamente el importe correspondiente al albergue, en caso de que no se desglosen y demuestren la prestación de los servicios accesorios, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
-El contribuyente podrá optar por estimar el Importe relativo al servicio de hospedaje dentro del sistema ''todo incluido”, sin que ningún (sic) caso puede ser inferior al 40% del monto total de los servicios comprendidos bajo este sistema.
+El contribuyente podrá optar por estimar el Importe relativo al servicio de hospedaje dentro del sistema ''todo incluido”, sin que (sic) ningún caso puede ser inferior al 40% del monto total de los servicios comprendidos bajo este sistema.
 
 De la cuota
 
@@ -773,9 +797,17 @@ II. Presentar ante las mismas autoridades, los avisos de cambio de domicilio, no
 
 III. Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones, así como proporcionar constancia de retención del impuesto a la persona que obtenga el premio;
 
-IV. Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados, del pago del impuesto correspondiente, así como los avisos, datos e informes que les soliciten; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-V. Cuando los sujetos realicen eventos en varios establecimientos, acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el estado.
+IV. Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados, del pago del impuesto correspondiente, así como los avisos, datos e información que les soliciten;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+V. Cuando los sujetos realicen eventos en varios establecimientos, acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el estado; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+VI. Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativa mas no limitativa, obligaciones en materia de contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales avisos, datos, informes o cualquier otra documentación a que obligue el Código Fiscal del Estado, en lo que no contravengan lo dispuesto en el presente capítulo.
 
 ### CAPITULO OCTAVO. Del Impuesto sobre Enajenación de Boletos de Rifas y Sorteos
 
@@ -859,9 +891,9 @@ V. Abstenerse de vender boletos en tanto no estén resellados por las autoridade
 
 VI. Presentar una declaración, en la forma oficial aprobada, del ejercicio ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio, una vez deducidos los pagos provisionales mensuales en aquellos casos en los que se esté obligado a presentarlos; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-VII. Llevar contabilidad en registro específico de las operaciones relativas a este impuesto.
+VII. Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativa mas no limitativa, obligaciones en materia de contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales avisos, datos, informes o cualquier otra documentación a que obligue el Código Fiscal del Estado, en lo que no contravengan lo dispuesto en el presente capítulo.
 
 ### CAPITULO UNICO. De los derechos
 
@@ -1081,7 +1113,7 @@ Los ingresos por créditos otorgados al Estado se obtendrán:
 
 I. Por financiamientos contratados previa autorización del Congreso del Estado; y
 
-II. Por las obligaciones directas y contingentes a que se refiere Ley (sic) de Deuda Pública del Estado de Jalisco y sus Municipios.
+II. Por las obligaciones directas y contingentes a que se refiere (sic) Ley de Deuda Pública del Estado de Jalisco y sus Municipios.
 
 ## TRANSITORIOS
 
@@ -1158,3 +1190,9 @@ SEGUNDO.- El Poder Ejecutivo dentro de los 30 días hábiles siguientes, contado
 P.O. 9 DE OCTUBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor el 1.° de enero de 2015, previa publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Las reformas contenidas en este Decreto, se aplicarán a partir de su entrada en vigor. El ejercicio de facultades de comprobación iniciadas con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme las disposiciones aplicables en el momento de su inicio.
