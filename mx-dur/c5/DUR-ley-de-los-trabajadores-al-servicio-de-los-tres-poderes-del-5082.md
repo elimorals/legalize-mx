@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2014-06-26"
+last_updated: "2014-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,121 +21,91 @@ state: "DUR"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-REGLAMENTO DEL SERVICIO MEDICO FORENSE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
+LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE L DISTRITO FEDERAL: 16 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
 
-Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 4 de abril de 2007.
+Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
-TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
+EL CIUDADANO DOCTOR SALVADOR GAMIZ FERNANDEZ GOBERNADOR CONSTITUCIONAL SUBSTITUTO del ESTADO LIBRE y SOBERANO de DURANGO, a sus habitantes, sabed:
 
-ACUERDO GENERAL 6-13/2007, EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL, EN SESIÓN DE FECHA VEINTIUNO DE MARZO DEL AÑO DOS MIL SIETE, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DEL SERVICIO MEDICO FORENSE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
+Que la H. Legislatura del mismo se ha servido dirigirme el siguiente:
 
-En cumplimiento al Acuerdo General 6-13/2007 emitido por el Consejo de la Judicatura del Distrito Federal, en sesión ordinaria de fecha 21 de marzo del año en curso, para los efectos legales y administrativos correspondientes, se hace del conocimiento, el contenido de dicho Acuerdo, mismo que en su parte conducente dice:
+Con fecha 23 de Junio del presente año, el C. Dr. Salvador Gámiz Fernández, Gobernador Constitucional Substituto del Estado Libre y Soberano de Durango, envió Iniciativa de Decreto que contiene la Ley de los Trabajadores al Servicio de los Tres Poderes del Estado de Durango, la cual fué turnada a la Comisión de Legislación integrada por los CC. Diputados Licenciado Antonio Arreola Valenzuela, Profesor Maximiliano Arreola Santillán y Profesor Elías Vázquez Payán, quienes emitieron su dictamen favorable con base en los siguientes:
 
-"ACUERDO GENERAL 6-13/2007, EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL, EN SESIÓN DE FECHA VEINTIUNO DE MARZO DEL AÑO DOS MIL SIETE, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DEL SERVICIO MEDICO FORENSE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
+CONSIDERANDOS
 
-(Al margen superior dos escudos nacionales que dicen: ESTADOS UNIDOS MEXICANOS.- CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL.- México; SECRETARÍA GENERAL).
+1o.- La necesidad de una Legislación adecuada que regule las relaciones de los servidores públicos y el Estado con motivo de su trabajo, obedece a una marcada situación de desigualdad entre los trabajadores al servicio de los Poderes de la Unión. En efecto, sólo éstos últimos tienen garantizados sus derechos como trabajadores, pues sólo a ellos se aplican las disposiciones que elevadas a la jerarquía suprema, se contienen en el apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-CONSIDERANDO
+2o.- No se justifica la distinción de que son objeto los trabajadores al servicio de los Estados frente a los burócratas federales, ya que la naturaleza del servicio prestado es la misma en todos los casos, y por éllo, consideramos que las condiciones en que se realice la prestación de servicios, deben estar rodeadas de las mismas normas protectoras de la vida, la salud y un nivel económico decoroso para el trabajador y su familia.
 
-Que el Servicio Médico Forense es el órgano del Tribunal Superior de Justicia del Distrito Federal encargado de realizar los análisis, reconocimientos y demás trabajos medico-forenses, cuando las disposiciones legales o autoridad competente establezcan o determinen la necesidad de contar con dictámenes periciales en dicha materia a cargo del personal especializado y médicos forenses pertenecientes a dicho órgano del Tribunal.
+3o.- Si este justo anhelo de la clase burocrática marginada no ha sido plasmada en la Carta Fundamental, se ha constituído sin embargo en motivo de preocupación y meditación por parte de la Administración Pública del Estado de Durango, en lo que toca a los servidores públicos que están dentro de su jurisdicción, y como resultado de un análisis minucioso de su situación actual, se establece como primera premisa que el servicio prestado por los Trabajadores al Servicio del Estado es de la misma naturaleza del servicio que prestan los trabajadores al servicio de los Poderes del Estado.- Aparece, no obstante, como premisa menor, que las condiciones de trabajo de éstos son mejores, y se encuentran debidamente reglamentadas, en tanto que los burócratas estatales se encuentran en un plano de desventaja, pues el Estatuto Jurídico que regula las relaciones de trabajo de los servidores de los Tres Poderes del Estado, es obsoleto e incompleto, y en esa virtud, se impone como conclusión la necesidad ineludible de expedir la presente Ley, cuyas disposiciones si bien no colocan a los burócratas Estatales en un plano de estricta igualdad en relación con los burócratas Federales, si permiten que la prestación de servicios se realice sobre bases más acordes con los principios del Derecho Laboral, consagrando los elementales derechos del Trabajador, como son la vida, la salud y el nivel económico decoroso a que ya nos hemos referido.
 
-Que derivado de lo anterior y por la relevancia de los servicios que presta el Servicio Médico Forense, la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal en su Titulo Sexto, considera a dicho órgano como auxiliar de la administración de justicia.
+La presente Ley se compone de Siete Títulos.
 
-Que el Servicio Médico Forense presta sus servicios periciales ajustándose a las normas sustantivas y adjetivas que regulan su actuación, entre las que se encuentran la Ley General de Salud, la Ley de Salud para el Distrito Federal, la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, el Código de Procedimientos Penales para el Distrito Federal y demás ordenamientos aplicables, incluso de carácter administrativo.
+El Título Primero contiene disposiciones generales sobre la aplicación de la Ley, la definición de dependencias y de trabajador, la adopción de principios elementales de derecho del trabajo, la definición de trabajadores de confianza, de base y supernumerarios, así como la aplicación supletoria de otros ordenamientos jurídicos en lo no previsto.
 
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+El Título Segundo consigna las condiciones generales de trabajo, y se divide en siete Capítulos. El Capítulo Primero contiene disposiciones generales; el Capítulo Segundo regula la jornada de trabajo y los descansos obligatorios; el Capítulo Tercero contiene la definición y normas protectoras del salario; el Capítulo Cuarto establece las obligaciones de las Dependencias Públicas; el Capítulo Quinto regula las obligaciones de los trabajadores; el Capítulo Sexto y el Capítulo Séptimo, se refieren respectivamente a la suspensión temporal y a la terminación de los efectos del nombramiento de los Trabajadores.
 
-Que entre los servicios, trámites y procedimientos que lleva a cabo el Servicio Médico Forense e integran su actividad cotidiana, se encuentran los siguientes: práctica de necropsias a cadáveres que le son remitidos por disposición legal y emisión de los dictámenes respectivos, lo que a su vez comprende la realización de exámenes químico-toxicológicos, histopatológicos, toma de fotografías, elaboración por diversas especialidades de la célula para la posible identificación de cadáveres de identidad desconocida; valoraciones médicas a lesionados; exámenes psiquiátricos y/o psicológicos a solicitud de jueces penales, de justicia para adolescentes, civiles o familiares; envío de cadáveres en calidad de desconocidos o no reclamados a inhumación o a escuelas de medicina; recolección de residuos químicos y biológicos-infecciosos; además de los trámites de carácter administrativo inherentes a la función.
+El Título Tercero es una serie de disposiciones que, en dos Capítulos, regulan el ascenso escalafonario de los trabajadores y el funcionamiento de las comisiones mixtas de escalafón.
 
-Que los servicios, trámites y procedimientos a que se refiere el párrafo anterior se encuentran descritos y regulados por el Manual de Procedimientos del Servicio Médico Forense que con dicho propósito ha autorizado el Pleno del Consejo de la Judicatura del Distrito Federal.
+ElTítulo (sic) Cuarto regula la organización colectiva de los trabajadores, y prevee la reglamentación de las condiciones generales de trabajo. Se divide en dos Capítulos, el primero de los cuales define el Sindicato y establece los requisitos para su existencia así como las reglas generales para su funcionamiento; el Capítulo Segundo preveé lo relativo a la expedición de los Reglamentos de las condiciones generales de trabajo.
 
-Que de igual manera, el Pleno del Consejo de la Judicatura del Distrito Federal en uso de las facultades que legalmente le han sido conferidas, ha dotado de la estructura y plantillas de personal al Servicio Médico Forense y consecuentemente del respectivo Manual de Operación, para su debido y eficiente funcionamiento.
+El Título Quinto fija los derechos que tienen los trabajadores en caso de sufrir un riesgo de trabajo, y más específicamente en caso de contraer una enfermedad no profesional.
 
-Que dichos manuales constituyen indudablemente instrumentos normativos de carácter administrativo, que regulan en forma complementaria la función de dicho órgano auxiliar de la procuración y administración de justicia.
+El Título Sexto contiene las reglas para que opere la prescripción de las acciones tanto de los trabajadores como de las Dependencias del Estado.
 
-Que no obstante la basta normatividad relacionada con la función del Servicio Médico Forense quedan algunos aspectos de carácter administrativos relacionados con su operación que aun no son regulados en los diversos ordenamientos existentes y que son inherentes a las funciones y obligaciones que le han sido asignadas, por lo que el presente reglamento pretende regular complementariamente su operación
+El Título Séptimo establece las bases para la instalación y funcionamiento del Tribunal de Conciliación y Arbitraje, estableciendo además en el Capítulo Segundo la competencia de dicho Tribunal y consignando en el Capítulo Tercero las normas del procedimiento que ante el mismo debe seguirse en caso de controversia. El Capítulo Cuarto implementa la ejecución de los laudos y regula la aplicación de medios de apremio. El Capítulo Quinto regula la imposición de correcciones disciplinarias y sanciones por infracciones a la Ley.
 
-Por lo que Con (sic) fundamento en los artículos 122, inciso C, Base Cuarta, Fracción II y III de la Constitución Política de los Estados Unidos Mexicanos; 76 y 83, párrafos primero y quinto, del Estatuto de Gobierno del Distrito Federal; 107 al 120, 124, 125, 195, 200, párrafo primero, 201, fracción I, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal; 5º del Reglamento Interior del Consejo de la Judicatura del Distrito Federal, y demás disposiciones jurídicas y administrativas que resulten aplicables, el Consejo de la Judicatura del Distrito Federal expide el siguiente:
+A continuación se exponen los razonamientos que justifican la inclusión de las disposiciones, que por sus alcances o innovaciones, revisten mayor relevancia, optando en la presente exposición por prescindir de analizar Artículo por Artículo, por considerar suficiente hacerlo en los términos planteados, en vista de que muchos Artículos sólo son complementarios, accesorios o aclaratorios de los referidos.
 
-REGLAMENTO DEL SERVICIO MEDICO FORENSE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
+El Artículo Primero señala la observancia general de la Ley, y se refiere a los Titulares de los Poderes del Estado y a los trabajadores al servicio de los mismos. Esto significa que la Ley tiene aplicación para regular las relaciones de trabajo entre dichas Dependencias y los trabajadores que tengan a su cargo, y obedece al principio esbozado líneas arriba, consistente en el afán de sanjar en lo posible las diferencias de orden institucional entre los servidores públicos a nivel estatal, frente a los servidores públicos federales, mejorando las condiciones de trabajo de los primeros.
+
+Se crea la categoría de trabajadores supernumerarios para el caso de que la duración de la relación de trabajo está condicionada a las necesidades del servicio o a una partida presupuestal determinada (Artículo 11). De esta forma, la dependencia no se obliga a buscar acomodo permanente al trabajador cuando ya no requiera del servicio contratado o se agota la partida respectiva, pues la inamobilidad (sic) sólo es para los trabajadores de base.
+
+Son necesarias las disposiciones relativas a la jornada de trabajo y a la limitación de la prestación de la prestación del trabajo extraordinario, pues en la actualidad puede darse el caso de que los horarios de trabajo se fijen de manera unilateral y se abuse en la duración y frecuencia de la prestación de trabajo extraordinario, en perjuicio de la salud del trabajador y en detrimento de los resultados efectivos del trabajo (Artículos 24, 25, 26, 27, 28 y 29).
+
+El Capítulo Tercero del Título Segundo contiene las normas protectoras del salario y enuncia los principios que rigen en esta materia, como son los de uniformidad y remunerabilidad, oportunidad en el pago, etc. Se justifica primordialmente el de uniformidad, consistente en que a trabajo igual corresponde salario igual, pues de esta forma se fijarán distintas categorías de trabajos con salarios iguales y se evitarán injusticias en el sentido de que unos trabajadores perciben mayor salario que otros pese a desempeñar el mismo trabajo.
+
+Dentro de las obligaciones establecidas a cargo de las Dependencias, resaltan por su trascendencia, las contenidas en la Fracción V del Artículo 55 del presente Decreto, pues con ello se pretende que los Trabajadores obtengan los beneficios de la Seguridad Social integral, y al efecto se hace obligatorio para las Dependencias proporcionar a los trabajadores, directamente o por conducto de instituciones de Seguridad Social, los servicios de asistencia Médica Quirúrgica, Farmacéutica y Hospitalaria para el propio Trabajador y para sus dependientes económicos; las prestaciones socioeconómicas previstas en la Ley de Pensiones del Estado; la jubilación en los términos de la citada Ley, con derecho además a todas las prestaciones de que disfrute al momento del retiro; seguro de vida; gastos de marcha e indemnización a los familiares del Trabajador equivalente a cuatro meses de salario; establecimiento de centros vacacionales y de recuperación, de guarderías infantiles y tiendas económicas; cursos de adiestramiento para que el Trabajador adquiera los elementos necesarios para obtener los ascensos escalafonarios; Becas a los Trabajadores de base para especialidades en materia de Administración Pública.
+
+Como puede apreciarse, con estas prestaciones se persigue alcanzar los objetivos propuestos en mejoramiento de las condiciones de los Trabajadores al Servicio del Estado, y se busca garantizar la vida, la salud y la seguridad económica de los mismos, y elevar su nivel económico y sociocultural, que son los principales postulados del Derecho del Trabajo.
+
+Por otro lado, resalta también por su trascendencia, la obligación de las Dependencias de dar aviso al Sindicato de las vacantes temporales y definitivas, y de cubrirlas con personal propuesto, por el propio Sindicato, pues de lo contrario, resultaría nugatoria una de las principales funciones del Sindicato (Artículo 56 Fracciones VIII y IX).
+
+Como innovación, aparece también en el presente Decreto la obligación de cubrir a los trabajadores la prima vacacional, pues éllo permite que el trabajador esté en condiciones de tener un descanso y distracción efectivos (Artículo 55 Fracción X).
+
+La Fracción XII del Artículo 55, señala como obligación de las Dependencias, la de determinar las condiciones generales de trabajo, y la expedición de los Reglamentos respectivos, con intervención del Sindicato. De esta suerte ambas partes estarán en aptitud de cumplir oportunamente sus deberes y ejercer sus derechos correspondientes.
+
+El Capítulo Séptimo del Título Segundo, señala las causas de despido justificado, las acciones que puede ejercitar el Trabajador si considera injusta la separación así como las indemnizaciones para el caso de que prosperen dichas acciones. Con las disposiciones de este Capítulo se concilian los intereses de ambas partes, pues por un lado, las Dependencias podrán válidamente y sin responsabilidad, dar de baja a un trabajador que por su falta de probidad, su negligencia, dolo, inmoralidad, indiscreción, imprudencia, indisciplina, incumplimiento, etc., obstaculice o impida el funcionamiento normal de la Dependencia. Por otro lado el ejercicio de esta facultad, no se prestará a desiciones (sic) arbitrarias, pues si el trabajador considera violados sus derechos por lo injustificado de la separación, podrá acudir ante el Tribunal de Conciliación y Arbitraje a demandar la reinstalación o la indemnización que proceda.
+
+El Título Tercero de la presente Ley, contiene los principios que motivan el ascenso de los trabajadores, y vienen a satisfacer una necesidad inaplazable, pues permite mediante el establecimiento de un sistema escalafonario, la promoción de los trabajadores tomando en consideración sus conocimientos, aptitud, antigüedad, disciplina y puntualidad. Asímismo se preveé la implementación del escalafón, señalando las bases para la expedición de los Reglamentos respectivos en casa uno de los Tres Poderes del Estado, y para el funcionamiento de las Comisiones Mixtas de Escalafón.- Con estas medidas, aparte de garantizarse un derecho de los trabajadores, estimula a éstos, para superarse y cumplir eficientemente con su trabajo, circunstancia que incuestionablemente redundará en beneficio del funcionamiento de las Dependencias.
+
+El Capítulo Primero del Título Cuarto establece las bases para la organización colectiva de los trabajadores, pues la Administración Pública está consciente de que ésta es condición sine qua non para el mejoramiento y la defensa de los intereses de los trabajadores, y respeta, por tanto, el derecho de asociación que les asiste, por lo que se han adoptado en el señalamiento de las bases de referencia, los principios doctrinales del Derecho Sindical.
+
+Como corolario del Capítulo que antecede, el Capítulo Segundo preveé la reglamentación de las condiciones generales de trabajo, pues sin una adecuada instrumentación, los derechos y obligaciones resultarían ambiguos, y se dificultaría su ejercicio y su cumplimiento.
+
+Hemos anotado a lo largo de esta exposición, que una de las razones que impelieron la presentación de la iniciativa a que este Decreto se refiere, deriva del marcado abandono en que se encuentran los burócratas Estatales en lo que respecta a sus más elementales, pero no por ello menos valiosos, bienes jurídicos, como son la vida y la salud. En respuesta al problema que plantea esta deficiencia, se han estructurado en el Decreto un sistema conforme al cual los trabajadores que sufran una enfermedad no profesional, tienen derecho bajo ciertas condiciones, a licencias para separarse de sus labores, percibiendo su salario íntegro o parcial según la duración de la enfermedad y la antigüedad en el trabajo.
+
+Para dirimir las controversias que surjan entre las Dependencias del Estado y sus trabajadores con motivo de la relación de trabajo, se encomiendan facultades jurisdiccionales a un órgano independiente y autónomo que en el Decreto se denomina Tribunal de Conciliación y Arbitraje, el cual se integra con un Representante del Sindicato de los Trabajadores, un Representante de las Dependencias del Estado y un tercer árbitro que fungirá como Presidente (Capítulo Primero Título Séptimo). Se determinan las facultades del Tribunal en el Capítulo Segundo, y en cuanto al procedimiento, sus normas se consignan en el Capítulo Tercero del mismo Título.
+
+En apoyo de la eficiencia de la actuación y de la eficacia de las resoluciones del Tribunal de Conciliación y Arbitraje, se estatuyen en los Capítulos Cuarto y Quinto del mencionado Título Séptimo, los medios de apremio que pueden emplear y las correcciones disciplinarias y sanciones que puede aplicar para conservar la disciplina en su funcionamiento interno.
+
+Por los motivos expuestos, y muchas otras razones de órden político-social que sería prolijo incluir, esta H. LIV Legislatura del Estado expide el siguiente:
+
+DECRETO NUMERO 203
+
+LA H. LIV LEGISLATURA del ESTADO LIBRE y SOBERANO de DURANGO, a nombre del Pueblo DECRETA la siguiente:
+
+LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES
+
+DEL ESTADO DE DURANGO
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO
 
-###### Artículo 1.
-
-El presente ordenamiento tiene por objeto reglamentar en el ámbito administrativo las disposiciones contenidas en el Capitulo IV del Titulo Sexto de la Ley referente al Servicio Médico Forense.
-
-###### Artículo 2.
-
-Para los efectos del presente Reglamento, se entenderá por:
-
-I. El Consejo: Consejo de la Judicatura del Distrito Federal;
-
-II. El Director: El Director del Servicio Médico Forense del Tribunal Superior de Justicia del Distrito Federal;
-
-III. El Pleno: El Pleno del Consejo de la Judicatura del Distrito Federal;
-
-IV. El Tribunal: Tribunal Superior de Justicia del Distrito Federal;
-
-V. La Ley: Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal;
-
-VI. Reglamento: Reglamento del Servicio Médico Forense;
-
-VII. SEMEFO: Servicio Médico Forense del Tribunal Superior de Justicia del Distrito Federal; y
-
-VIII. Presidencia: Presidencia del Tribunal Superior de Justicia del Distrito Federal.
-
-###### Artículo 3.
-
-El SEMEFO es un órgano de apoyo judicial del Tribunal y auxiliar en la procuración y administración de justicia, en términos de la legislación aplicable.
-
-###### Artículo 4.
-
-La actividad sustantiva del SEMEFO será la realización de estudios en materia de medicina forense y sus funciones en todo momento estarán orientadas a contribuir a la efectiva y eficaz procuración y administración de justicia a cargo de las autoridades competentes.
-
-###### Artículo 5.
-
-El SEMEFO como auxiliar de los órganos de procuración y administración de justicia en el Distrito Federal, estará facultado para emitir informes o dictámenes en materia de medicina forense, psiquiatría, psicología e identificación, en los términos que señalen las leyes, reglamentos y demás disposiciones jurídicas aplicables.
-
-No podrá expedir informe o dictamen alguno si no media oficio de parte de autoridad judicial o ministerial.
-
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
-
-Los peritos adscritos al Servicios Médico Forense del Distrito Federal, deberán abstenerse de intervenir en todos aquellos asuntos en que se encuentren impedidos legalmente, en términos del artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos.
-
-###### Artículo 6.
-
-El SEMEFO contará con la estructura orgánica y personal especializado y operativo que autorice el Pleno para el oportuno y eficaz cumplimento de sus atribuciones.
-
-El Manual de Organización del SEMEFO describirá las funciones de cada una de las áreas o unidades que lo integran y establecerá las políticas y lineamientos para la prestación del servicio, la realización de dictámenes, certificados y opiniones técnicas periciales y para el manejo de productos químicos y equipo de laboratorio.
-
-###### Artículo 7.
-
-El Pleno podrá modificar la estructura orgánica a que se refiere el artículo anterior, a fin de que el SEMEFO cumpla adecuadamente con las funciones que la Ley y este Reglamento le establecen.
-
-###### Artículo 8.
-
-Quienes ocupen los cargos dentro de la estructura del SEMEFO, deberán cubrir los requisitos establecidos para cada uno de ellos en la Ley y en el presente Reglamento.
-
-###### Artículo 9.
-
-Para desempeñar el cargo de Subdirector de Servicios Periciales se requieren los mismos requisitos señalados en el Artículo 110, con excepción de la fracción IV y 113 de la Ley, en que se requerirá práctica profesional en materia de medicina forense de tres años.
-
-###### Artículo 10.
-
-Para ocupar los cargos de Jefe de Unidad Departamental del SEMEFO se requieren los mismos requisitos señalados en el Artículo 112 y 113 de la Ley.
-
-###### Artículo 11.
-
-Los Peritos Auxiliares del SEMEFO en materia de química, anatomopatología, entomología, psiquiatría, psicología, identificación y demás, para su designación deberán cumplir los mismos requisitos señalados en los Artículos 112 y 113 de la Ley.
-
-###### Artículo 12.
-
-Entre el SEMEFO y los médicos asignados a las agencias investigadoras del Ministerio Público y a los hospitales públicos a que se refieren los Artículos 117, 121 y 123 de la Ley, no existe relación laboral o administrativa alguna.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
 ###### Artículo 1º.
 
@@ -245,11 +215,7 @@ Asimismo, los tratados Internacionales ratificados por el Estado Mexicano, las r
 
 ## TITULO SEGUNDO. DE LAS CONDICIONES GENERALES DE TRABAJO
 
-### CAPÍTULO II. DE LA PRESTACIÓN DEL SERVICIO
-
-###### Artículo 13.
-
-El horario de labores del personal podrá ajustarse de acuerdo a las necesidades del Servicio, a fin de darle continuidad a la prestación del mismo durante los 365 días del año.
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 18o.
 
@@ -291,17 +257,7 @@ El nombramiento aceptado obliga al cumplimiento de los deberes inherentes al mis
 
 En ningún caso de cambio de funcionarios de las Dependencias y Entidades Administrativas o de su estructura jurídica, organización o funcionamiento de éstas, se modificará la situación de los trabajadores de base; ésto es, no se afectarán los derechos de los mismos.
 
-### CAPÍTULO III. DE LAS ACTIVIDADES ACADÉMICAS Y DE INVESTIGACIÓN
-
-###### Artículo 14.
-
-El SEMEFO podrá intercambiar apoyo técnico con instituciones similares de otras entidades federativas y proporcionar apoyo técnico a órganos judiciales y procuradurías de justicia tanto estatales como federal, cuando corresponda y derivado de los asuntos que conozca.
-
-Previa autorización del Pleno, podrá celebrar convenios de colaboración e intercambio técnico o científico para apoyar actividades de investigación y enseñanza.
-
-###### Artículo 15.
-
-Toda solicitud de entrevista o declaración de los servidores públicos del SEMEFO ante medios de comunicación escritos o electrónicos, relacionadas con los servicios forenses a su cargo, deberá hacerse del conocimiento a la Coordinación de Comunicación Social del Tribunal para obtener la autorización respectiva de la Presidencia.
+### CAPITULO SEGUNDO. DE LA JORNADA DE TRABAJO
 
 ###### Artículo 24o.
 
@@ -391,47 +347,7 @@ Es nula la renuncia que los trabajadores hagan de los salarios devengados, de la
 
 Todo convenio o liquidación para ser válidos, deberán hacerse por escrito y contener una relación circunstanciada de los hechos que lo motiven y de los derechos comprendidos en él. Será ratificado ante el Tribunal Laboral Burocrático, el que lo aprobará siempre que no contenga renuncia de los derechos de los trabajadores.
 
-### CAPÍTULO IV. DE LOS PERITOS MÉDICO FORENSES
-
-###### Artículo 16.
-
-Los Peritos Médico Forenses desempeñaran su cargo con esmero, objetividad, imparcialidad, eficiencia, honradez, profesionalismo y con estricto apego a las normas que lo rigen.
-
-###### Artículo 17.
-
-Previo requerimiento de autoridad competente, los peritos médicos forenses deberán emitir con toda oportunidad los siguientes documentos:
-
-a) Dictámenes relativos a la práctica del estudio de necropsias;
-
-b) Certificados y opiniones médicas relativas a valoraciones en personas vivas o en su caso con base a documentos médico legales aportados por la autoridad solicitante; y
-
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
-
-c) Las ampliaciones con base a los resultados de los estudios complementarios que ordenan realizar o sin estos.
-
-En los documentos referidos en las fracciones anteriores se asentarán todas las operaciones, técnicas y experimentos practicados, que su ciencia les sugiera, expresando los hechos y circunstancias que sirvan de fundamento a su conclusión.
-
-###### Artículo 18.
-
-Los Peritos Médico Forenses además estarán obligados a:
-
-I. Cumplir con los protocolos y técnicas de autopsia que su especialidad les señale y preferentemente con lo indicado en la Guía Técnica para la realización de Necropsias autorizada por el Consejo;
-
-II. Guardar absoluta discreción sobre los asuntos que tengan conocimiento por razón de su cargo;
-
-III. Asistir con toda oportunidad a las diligencias ordenadas por la autoridad judicial o administrativa competente;
-
-IV. Concurrir y participar en las juntas de peritos cuando sean convocados por la Dirección del SEMEFO; y
-
-V. Cumplir con todo aquello que las leyes, reglamentos y demás ordenamientos jurídicos les señalen.
-
-###### Artículo 19.
-
-(DEROGADO, G.O. 16 DE DICIEMBRE DE 2008)
-
-###### Artículo 20.
-
-Los Peritos Médico Forenses en la emisión de sus dictámenes y resultados de reconocimientos, análisis y demás trabajos médico forenses en que intervengan, contarán con plena independencia técnica.
+### CAPITULO TERCERO. DEL SALARIO
 
 ###### Artículo 40o.
 
@@ -509,35 +425,11 @@ El salario no es susceptible de embargo judicial o administrativo, fuera de lo e
 
 Es nula la cesión de salarios en favor de terceras personas.
 
-### CAPÍTULO V. DE LAS NECROPSIAS
+### CAPITULO CUARTO. DE LAS OBLIGACIONES DE LAS DEPENDENCIAS PUBLICAS
 
-###### Artículo 21.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las necropsias se practicarán en las instalaciones del SEMEFO y únicamente intervendrán en ellas los peritos médico forenses adscritos y designados para tal efecto por la Dirección del SEMEFO, auxiliándose del personal necesario.
-
-###### Artículo 22.
-
-Atendiendo a las condiciones excepcionales del caso y por orden expresa por escrito de autoridad competente, así como a lo señalado en el artículo 166 del Código de Procedimientos Penales para el Distrito Federal, el Director podrá autorizar la práctica de necropsias fuera de las instalaciones del SEMEFO. En cuyo caso, dicho titular deberá notificar tal determinación por escrito al personal designado, señalando el lugar en que habrá de llevarse a cabo la necropsia.
-
-###### Artículo 23.
-
-En todas las necropsias deberá invariablemente utilizarse el Formato Protocolo de Necropsias, el cual deberá redactarse de puño y letra y firmarse por los peritos responsables.
-
-###### Artículo 24.
-
-Cuando se presenten estudios de necropsia con antecedentes de alta peligrosidad contagiosa, tales como hepatitis, VIH, encefalitis viral u otro padecimiento infecto-contagioso, se deberán tomar las medidas de protección necesarias.
-
-###### Artículo 25.
-
-En la práctica de las necropsias deberá utilizarse el equipo siguiente: gogles, protectores, mascarilla de fieltro o de hule, mandil de plástico, gorro, pijama, guantes y botas quirúrgicas.
-
-###### Artículo 26.
-
-Cuando se deseche el instrumental, equipo y material utilizado en la práctica de necropsias, se colocará en bolsas adecuadas y se procederá a depositarlas en el colector de basura destinado para tal fin. Tratándose de instrumental y material utilizado en necropsias de individuos con padecimientos contagiosos, éste deberá colocarse en depósitos RPBI.
-
-###### Artículo 27.
-
-Cuando se manejen y recolecten Residuos Peligrosos Biológico Infecciosos (RPBI), deberá cumplirse con la normatividad vigente en la materia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 55o.
 
@@ -597,7 +489,9 @@ VIII.- Notificar al Sindicato de las vacantes temporales y definitivas, así com
 
 IX.- Cubrir las plazas a que se refiere la Fracción anterior, con los elementos que al efecto proponga el Sindicato, siempre y cuando se llenen los requisitos de aptitud y capacidad que sean establecidos.
 
-X.- Otorgar las primas a los Trabajadores que se retiren voluntariamente del servicio así como la prima vacacional.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+X.- Otorgar la prima vacacional.
 
 XI.- Hacer las deducciones en los salarios que solicite el Sindicato, siempre que se ajusten a los términos de esta Ley.
 
@@ -635,49 +529,7 @@ II.- Ejecutar cualquier acto que restrinja a los trabajadores los derechos que l
 
 III.- Hacer propaganda política pública dentro de las Dependencias y Entidades Administrativas.
 
-### CAPÍTULO VI. DEL TRATAMIENTO DE LOS CADÁVERES
-
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 28.
-
-Los cadáveres que ingresen a las instalaciones del servicio para la práctica de necropsia, serán registrados, etiquetados y fotografiados. Una vez necropsiados deberán ser trasladados de inmediato a la gaveta de refrigeración por los ayudantes de autopsia y se conservarán en ese sitio mientras permanezcan en las instalaciones del SEMEFO.
-
-###### Artículo 29.
-
-Cuando los cadáveres recibidos presenten objetos vulnerantes, tales como armas punzo-cortantes, alambres, cuerdas o cualquier otro así considerado, éstos no deberán ser retirados del cuerpo hasta la práctica de la necropsia correspondiente.
-
-###### Artículo 30.
-
-La ropa y objetos vulnerantes mencionados en el artículo precedente, únicamente podrán ser retirados en presencia de los peritos médicos forenses, posteriormente se procederá al lavado del cadáver.
-
-###### Artículo 31.
-
-Cuando el cuerpo ingrese con objetos de valor, estos serán retirados, embalados y entregados a sus deudos; en caso de no existir estos últimos, se remitirán al siguiente día al Agente del Ministerio Público que conozca del caso.
-
-###### Artículo 32.
-
-Cuando la persona haya fallecido a causa de uno o más proyectiles de arma de fuego y éste o éstos se encuentren en el interior del cuerpo, se deberá proceder a extraer dichos proyectiles, a fijarlo fotográficamente, a embalarlo y a remitirlo posteriormente al Agente del Ministerio Público que conozca del caso.
-
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 33.
-
-Después del estudio de necropsia, el técnico de autopsia lavará el cadáver y se entregará a sus deudos cuando el agente del Ministerio Público así lo ordene.
-
-###### Artículo 34.
-
-En el momento de la entrega del cadáver a los deudos, se deberá requisitar el formato respectivo por el familiar responsable y testigos.
-
-En caso de cadáveres de identidad desconocida o no reclamados la Dirección del SEMEFO les dará destino final de acuerdo con la normatividad vigente.
-
-###### Artículo 35.
-
-Los cadáveres podrán permanecer en el SEMEFO el tiempo que se requiera para establecer con certeza la causa que originó la muerte y emitir el dictamen respectivo.
-
-###### Artículo 36.
-
-El anfiteatro y zona de gavetas deberán contar con las condiciones físicas y ambientales adecuadas y necesarias para la práctica y estudios de necropsia y la conservación de los cadáveres o restos humanos que ahí se depositen, así como con sistemas que impidan la existencia de insectos u otro tipo de fauna nociva.
+### CAPITULO QUINTO. DE LAS OBLIGACIONES DE LOS TRABAJADORES
 
 ###### Artículo 59o.
 
@@ -701,15 +553,7 @@ VIII.- Asistir a los Institutos de Capacitación para mejorar su preparación y 
 
 IX.- Cuidar los edificios, obras, maquinarias, instrumentos, útiles, materias primas y demás objetos relacionados con el trabajo.
 
-### CAPÍTULO VII. DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y SUS DERIVADOS DE CUERPOS HUMANOS
-
-###### Artículo 37.
-
-Solo las instituciones de enseñanza a que se refiere el artículo 14 del presente Reglamento o instituciones médicas legalmente facultadas para tal fin podrán disponer de órganos, tejidos y sus derivados, de cuerpos humanos, para fines terapéuticos o de investigación.
-
-###### Artículo 38.
-
-Cuando se pretenda disponer de órganos, tejidos y sus derivados, se deberá cumplir estrictamente con las disposiciones que regulan la materia.
+### CAPITULO SEXTO. DE LA SUSPENSION TEMPORAL DEL NOMBRAMIENTO DE LOS TRABAJADORES
 
 ###### Artículo 60o.
 
@@ -731,27 +575,7 @@ IV.- El arresto impuesto por la Autoridad Judicial o administrativa a menos de q
 
 V.- Los Trabajadores que tengan encomendado el manejo de fondos, valores o bienes, podrán ser suspendidos hasta por 60 días por el Titular de la Dependencia correspondiente, cuando apareciere alguna irregularidad en su gestión, en tanto se efectúan las investigaciones sobre el caso.
 
-### CAPÍTULO VIII. DE LA LIMPIEZA Y SEGURIDAD QUE DEBERÁ OBSERVARSE EN EL SERVICIO
-
-###### Artículo 39.
-
-El personal de cada turno de (sic) anfiteatro será responsable de entregar las instalaciones así como el instrumental médico, equipo, camillas y demás accesorios en perfectas condiciones de limpieza.
-
-###### Artículo 40.
-
-El titular de cada área será responsable de la custodia y conservación del instrumental y equipo que disponga.
-
-###### Artículo 41.
-
-La zona de anfiteatro, andenes y gavetas de refrigeración deberán asearse diariamente y desinfectarse semanalmente.
-
-###### Artículo 42.
-
-Las áreas del SEMEFO que respecto a su aseo no se señale disposición legal especial ya sea en el presente Reglamento o en cualquier ordenamiento jurídico, deberán limpiarse diariamente en forma convencional.
-
-###### Artículo 43.
-
-. Queda estrictamente prohibido ingerir alimentos y bebidas al interior de las instalaciones del SEMEFO. Asimismo queda prohibido el acceso de menores de edad sin motivo legal alguno.
+### CAPITULO SEPTIMO. DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO DE LOS TRABAJADORES
 
 ###### Artículo 61o.
 
@@ -769,13 +593,15 @@ V.- La incapacidad física o mental o inhabilitación manifiesta del trabajador,
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
-###### Artículo 62º.
+###### Artículo 62o.
 
 Son causas de rescisión de la relación del trabajo, sin responsabilidad para la Dependencia o Entidad Administrativa, las siguientes:
 
 I.- Incurrir el empleado en faltas de probidad u honradez o en actos de violencia, amagos, injurias o malos tratos contra los jefes o compañeros, o contra los familiares de unos u otros, ya sea dentro o fuera de las horas de servicio.
 
-II.- Faltar por más de tres días consecutivos a sus labores sin causa justificada.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+II.- Tener el trabajador más de tres faltas de asistencia en un período de treinta días, sin permiso del patrón o sin causa justificada;
 
 III.- Destruir el trabajador intencionalmente edificios, obras, maquinaria, instrumentos, materia prima o demás objetos relacionados con el trabajo.
 
@@ -799,19 +625,35 @@ En los casos a que se refiere este Artículo, el trabajador que diere motivo par
 
 Si el Tribunal resuelve que fué justificado el cese, el trabajador no tendrá derecho al pago de salarios caídos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### Artículo 63o.
 
-El Trabajador podrá optar por solicitar ante el Tribunal Laboral Burocrático, que se le reinstale en el trabajo que desempeñaba, o bien, que se le indemnice con el importe de tres meses de salario.
+El trabajador podrá solicitar ante el Tribunal Laboral Burocrático, a su elección, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de salario.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
-Si en el Juicio correspondiente no comprueba el Titular de la Dependencia o Entidad Administrativa respectiva, la causa del cese o suspensión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios caídos desde la fecha del despido hasta que se cumplimente la sentencia.
+Si en el Juicio correspondiente no comprueba el Titular de la Dependencia o Entidad Administrativa respectiva, la causa del cese o suspensión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un período máximo de doce meses.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento a la sentencia, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se le impondrá una multa de cien a mil veces el salario mínimo general.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción aplicable será la suspensión hasta por noventa días sin pago de salario. En caso de reincidencia se sancionará con la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
-###### Artículo 64º.
+###### Artículo 64o.
 
 El Titular de la Dependencia o Entidad Administrativa de que se trate, quedará eximido de la obligación de reinstalar al trabajador, mediante el pago de las indemnizaciones que se determinan en el Artículo 65º. de esta Ley, en los casos siguientes:
 
@@ -839,27 +681,7 @@ III.- Además de las indemnizaciones a que se refieren las Fracciones anteriores
 
 ## TITULO TERCERO. DEL ESCALAFON
 
-### CAPÍTULO IX. DE LOS EXPEDIENTES E INFORMACIÓN DEL SEMEFO
-
-###### Artículo 44.
-
-. El SEMEFO deberá integrar por cada cadáver que ingrese o restos humanos un expediente el cual deberá contener todas las documentales necesarias para la practica de la necropsia y las que se deriven de la misma, así como de los estudios y reconocimientos que realice el SEMEFO.
-
-###### Artículo 45.
-
-Los expedientes del SEMEFO referentes a los estudios médico forenses se deberán resguardar en lugar seguro a fin de salvaguardar la información personal o de acceso restringido que contengan.
-
-###### Artículo 46.
-
-Los expedientes referentes a estudios médico forenses por ningún motivo podrán salir del SEMEFO, en todo caso se expedirán las copias simples o autorizadas cuando las normas así lo establezcan o por determinación judicial.
-
-###### Artículo 47.
-
-La información estadística del SEMEFO en todo momento podrá ser consultada por las autoridades del Tribunal y público en general.
-
-###### Artículo 48.
-
-La documentación de los expedientes de los cadáveres será depurada, clasificada por año e inventariada, a fin de proceder a su resguardo en medios fotográficos o electrónicos.
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 66o.
 
@@ -923,15 +745,7 @@ Los Titulares de las Dependencias y Entidades Administrativas proporcionarán a 
 
 Las facultades, obligaciones, atribuciones, procedimientos y derechos de las Comisiones Mixtas de Escalafón y de los organismos auxiliares, en su caso, quedarán especificados en los Reglamentos y convenios, sin contravenir la (sic) preceptuado por esta Ley.
 
-### CAPÍTULO X. DE LA JUNTA DE PERITOS MÉDICOS
-
-###### Artículo 49.
-
-La junta de peritos médico forenses deberá efectuarse mensualmente y será convocada y presidida por el Director; sin embargo, ésta podrá ser convocada en cualquier momento a iniciativa del Director, a solicitud de autoridad judicial o administrativa competente o cuando el caso lo amerite.
-
-###### Artículo 50.
-
-La junta de peritos médicos se reunirá con los propósitos señalados en los Artículos 115, fracción III, y 119 de la Ley. Las sesiones que lleve acabo la junta de peritos se desarrollaran conforme al Manual de Procedimientos que al efecto autorice el Pleno del Consejo.
+### CAPITULO SEGUNDO. Del PROCEDIMIENTO ESCALAFONARIO
 
 ###### Artículo 76o.
 
@@ -951,51 +765,9 @@ En los concursos las Comisiones verificarán las pruebas a que se sometan los co
 
 ## TITULO CUARTO. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES
 
-### CAPÍTULO XI. DEL COMITÉ DE EVALUACIÓN
+### CAPITULO PRIMERO. DE LOS SINDICATOS
 
-###### Artículo 51.
-
-Con el propósito de contar con un órgano colegiado de carácter técnico normativo y de control al interior del SEMEFO, se deberá integrar un Comité de Evaluación el cual estará presidido por el Director e integrado de la siguiente forma:
-
-I. El Director;
-
-II. Un Subdirector;
-
-III. Un Jefe de Unidad Departamental; y
-
-IV. Dos peritos médico forenses.
-
-La designación de los integrantes del Comité estará a cargo del Director, sujetándose a lo dispuesto en el artículo siguiente.
-
-###### Artículo 52.
-
-El Comité se reunirá trimestralmente, debiéndose renovar en su totalidad cada seis meses, con excepción del Director, quien será miembro permanente y deberá presidir las reuniones mientras dure en su cargo.
-
-###### Artículo 53.
-
-El Comité de Evaluación será una instancia normativa de operación, control, supervisión y evaluación de las actividades técnicas periciales.
-
-###### Artículo 54.
-
-El Comité tendrá las siguientes atribuciones relacionadas con la actividad pericial del personal adscrito al SEMEFO:
-
-I. Verificar y evaluar que los procesos técnicos periciales se ajusten a la normatividad aplicable en la materia;
-
-II. Crear mecanismos que permitan vigilar y detectar errores y/u omisiones imprudenciales del orden técnico que influyan negativamente en el desarrollo de la investigación forense;
-
-III. Elaborar reportes relacionados con los casos de negligencia, irresponsabilidad, dolo o mala fe que se hayan detectado en la aplicación de la técnica médica y hacerlo del conocimiento del Consejo, a efecto de que éste determine la responsabilidad o no del servidor público de que se trate; y
-
-IV. Promover la generación de una cultura de ética profesional y estricto apego a la técnica en materia de las ciencias forenses.
-
-TRANSITORIOS (SIC)
-
-PRIMERO.- El presente Reglamento entrará en vigor el día de la primera publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal."
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
-
-G.O. 16 DE DICIEMBRE DE 2008.
-
-UNICO.- Por considerarse que tal acuerdo es de interés general, publíquese por una sola vez en la Gaceta Oficial del Distrito Federal, así como por tres veces en el Boletín Judicial del H. Tribunal.
+Rrtículo (sic) 80o.- El Sindicato es la asociación de Trabajadores del Estado, constituída para el estudio, mejoramiento y defensa de sus intereses comunes.
 
 ###### Artículo 81o.
 
@@ -1141,7 +913,7 @@ II.- La intensidad y la calidad del trabajo.
 
 III.- Las horas de entrada y salida de los Trabajadores.
 
-IV.- Medidas que deben adoptarse para prevenir las realizaciones (sic) de riesgos profesionales.
+IV.- Medidas que deben adoptarse para prevenir las realizaciones de riesgos profesionales.
 
 V.- Las disposiciones disciplinarias y la forma de aplicarlas.
 
@@ -1734,6 +1506,18 @@ SÉPTIMO.- Los Trabajadores de la Educación al Servicio del Estado que al momen
 Los Trabajadores de la Educación al Servicio del Estado que ingresen al servicio a partir de la entrada en vigor del presente decreto, se regirán por todas las disposiciones contenidas en la presente ley y sus disposiciones reglamentarias.
 
 P.O. 16 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2014.
 
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
