@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "2013-12-14"
+last_updated: "2014-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO FISCAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -137,11 +137,11 @@ Si por cualquier circunstancia el Congreso del Estado, no aprobara la Ley de Ing
 
 Corresponde al Gobernador del Estado, la aplicación administrativa de las leyes u ordenamientos de carácter fiscal por conducto de la Secretaría de Planeación, Administración y Finanzas, la que, con el objeto de simplificar las obligaciones de los contribuyentes, de facilitar la recaudación de los ingresos y de hacer más efectivos y prácticos los sistemas de control fiscal, podrá dictar acuerdos de carácter administrativo necesarios para modificar o adicionar el control, forma de pago y procedimiento, sin variar en ninguna forma las relativas al sujeto, objeto, cuota, tasa o tarifa del gravamen, ni las infracciones, multas o sanciones.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 10.
 
-La Secretaría de Planeación, Administración y Finanzas, podrá encomendar la recepción de pago de los ingresos a otros organismos públicos o a instituciones de crédito autorizadas para tal efecto.
+La Secretaría de Planeación, Administración y Finanzas, podrá encomendar la recepción de pago de los ingresos a otros organismos públicos, a instituciones de crédito o a organizaciones privadas autorizadas para tal efecto.
 
 ###### Artículo 11.
 
@@ -303,11 +303,15 @@ IV. Promover la actividad de las organizaciones mencionadas para divulgar las no
 
 Son facultades de las autoridades fiscales:
 
-I. Practicar auditorías en las oficinas o dependencias de los sujetos pasivos, de los responsables solidarios y de los responsables objetivos; revisar sus libros, documentos y correspondencia que tengan relación con las obligaciones fiscales y en su caso asegurarlos dejando en calidad de depositario al auditado, previo inventario que al efecto se formule;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+l. Practicar auditorías en el domicilio de los sujetos pasivos, de los responsables solidarios y de los responsables objetivos; revisar su contabilidad, libros, documentos y correspondencia que tengan relación con las obligaciones fiscales, así como los estados de cuenta bancarios o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente, y en su caso asegurarlos dejando en calidad de depositario al auditado, previo inventario que al efecto se formule;
 
 II. Proceder a la verificación física, clasificación y valuación de toda clase de bienes;
 
-III. Solicitar de los servidores públicos, de los fedatarios, de los sujetos pasivos, responsables solidarios y responsables objetivos, datos o informes directamente relacionados con el cumplimiento de las disposiciones fiscales;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+III. Solicitar de los servidores públicos, de los fedatarios, de los sujetos pasivos, responsables solidarios y responsables objetivos, su contabilidad, libros, documentos, correspondencia, datos o informes, que tengan relación con el cumplimiento de las disposiciones fiscales, así como los estados de cuenta bancarios o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente;
 
 IV. Emplear cualquiera de los siguientes medios de apremio para hacer cumplir sus determinaciones:
 
@@ -371,6 +375,20 @@ Las facultades de determinación presuntiva, se ejercerán por las autoridades f
 
 XI. Expedir y publicar las resoluciones que establezcan disposiciones de carácter general, que faciliten a los contribuyentes el cumplimiento de sus obligaciones fiscales, sin variar en ninguna forma las relativas al sujeto, objeto, cuota, tasa o tarifa del gravamen, ni las infracciones, multas o sanciones, las resoluciones que se emitan conforme a este inciso, no generarán obligaciones o cargas adicionales a las establecidas en las propias leyes fiscales.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Cuando se comprueben hechos diferentes o discrepancias la autoridad fiscal podrá volver a revisar los mismos rubros o conceptos específicos de una contribución o aprovechamiento por el mismo periodo y en su caso, determinar contribuciones o aprovechamientos omitidos que deriven de dichos hechos.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+La comprobación de hechos diferentes o discrepancias deberá estar sustentada en información, datos o documentos de terceros; en los datos aportados por los particulares en las declaraciones complementarias que se presenten, o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales, a menos que en este último supuesto la autoridad no haya objetado de falso el documento en el medio de defensa correspondiente, pudiendo haberlo hecho o bien, cuando habiéndolo objetado, el incidente respectivo haya sido declarado improcedente.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Artículo 26 A.- Las autoridades fiscales podrán solicitar a los contribuyentes, responsables solidarios o terceros, datos, informes o documentos adicionales, que consideren necesarios para aclarar la información asentada en las declaraciones. Las personas antes mencionadas deberán proporcionar la información solicitada dentro de los quince días siguientes a la fecha en la que surta efectos la notificación de la solicitud correspondiente.
+
+No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando únicamente soliciten los datos, informes y documentos a que se refiere este artículo, pudiendo ejercerlas en cualquier momento.
+
 ###### Artículo 27.
 
 La práctica de auditorías, para comprobar que se han acatado las disposiciones fiscales, además de lo establecido por el artículo 100 de este código, se sujetarán a lo siguiente:
@@ -395,11 +413,11 @@ Los testigos podrán ser sustituidos en cualquier tiempo por no comparecer al lu
 
 La sustitución de los testigos no invalida los resultados de la auditoría.
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 28.
 
-El contribuyente, sus representantes, o la persona con quien se entienda la auditoría en el domicilio fiscal, están obligados a permitir a los auditores designados por las autoridades el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales de los que los auditores podrán sacar copias para que previo cotejo con las originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la auditoría. También deberán permitir la verificación de los documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares auditados.
+El contribuyente, sus representantes, o la persona con quien se entienda la auditoría en el domicilio fiscal, están obligados a permitir a los auditores designados por las autoridades, el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales de los que los auditores podrán sacar copias para que previo cotejo con las originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la auditoría. También deberán permitir la verificación de los documentos, estados de cuenta bancarios, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares auditados.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -437,7 +455,7 @@ Lo dispuesto en el párrafo anterior no es aplicable cuando los auditores obteng
 
 La auditoría en el domicilio se desarrollará conforme a lo siguiente:
 
-I. De toda auditoría en el domicilio fiscal se levantará acta, en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los auditores. Los hechos u omisiones consignados por los auditores en las actas hacen prueba de la existencia los (sic) mismos, para efectos de cualquiera de las contribuciones a cargo del contribuyente en el período revisado;
+I. De toda auditoría en el domicilio fiscal se levantará acta, en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los auditores. Los hechos u omisiones consignados por los auditores en las actas hacen prueba de la existencia (sic) los mismos, para efectos de cualquiera de las contribuciones a cargo del contribuyente en el período revisado;
 
 II. Si la auditoría se realiza simultáneamente en uno o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la auditoría se haga, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento auditado en donde se levante acta parcial, cumpliendo al respecto con lo previsto en el cuarto párrafo de la fracción II del artículo 27 de éste Código;
 
@@ -497,6 +515,10 @@ VII. Dentro del plazo para desvirtuar los hechos u omisiones a que se refiere la
 
 VIII. Cuando el contribuyente no corrija totalmente su situación fiscal conforme al oficio de observaciones o no desvirtúe los hechos consignados en dicho documento, se emitirá la resolución que determine las contribuciones omitidas, la cual se deberá notificar al contribuyente.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Para los efectos del primer párrafo de este artículo, se considera como parte de la documentación o información que pueden solicitar las autoridades fiscales, la relativa a las cuentas bancarias del contribuyente.
+
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 Artículo 31 A.- En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten datos, informes o documentos del contribuyente, responsable solidario o tercero, se tendrán los siguientes plazos para su presentación:
@@ -511,13 +533,19 @@ Los plazos a que se refiere este inciso, se podrán ampliar por las autoridades 
 
 Artículo 31 B.- Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades de administración tributaria federales o municipales, cualquier otra autoridad o tercero, podrán servir para motivar las resoluciones de la Secretaría de Planeación, Administración y Finanzas.
 
-Cuando otras autoridades o terceros proporcionen información, expedientes o documentos a las autoridades fiscales conforme a lo dispuesto en el párrafo anterior, éstas darán a conocer a los contribuyentes, sobre las irregularidades que se desprendan de ello, para que en un plazo de quince días, contados a partir del día en que les den a conocer las irregularidades de referencia, manifiesten lo que a su derecho convenga.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Cuando otras autoridades en términos de la Colaboración Administrativa con la Secretaría de Planeación, Administración y Finanzas o terceros proporcionen información, expedientes, bases de datos o documentos a las autoridades fiscales conforme a lo dispuesto en el párrafo anterior, éstas darán a conocer a los contribuyentes, sobre la (sic) irregularidades que se desprendan de ello, para que en un plazo de diez días, contados a partir del día en que les den a conocer las irregularidades de referencia, manifiesten lo que a su derecho convenga.
 
 ###### Artículo 32.
 
 La determinación y pago de las obligaciones fiscales corresponde a los sujetos pasivos, salvo disposición expresa en contrario.
 
 Para los efectos del párrafo anterior, los sujetos pasivos informarán a las autoridades fiscales, de la realización de los hechos que hubieren dado nacimiento a la obligación fiscal y los que sean pertinentes para el pago del crédito en los términos que establezcan las disposiciones relativas y en su defecto, por escrito, dentro de los quince días siguientes al nacimiento de la obligación fiscal. Los responsables solidarios proporcionarán, a solicitud de las autoridades, la información que tengan a su disposición.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+El pago de las contribuciones se acreditará con el comprobante expedido por las oficinas de la Secretaría de Planeación, Administración y Finanzas, y en los casos de pagos efectuados en medios alternos, con el comprobante que expidan las instituciones y organizaciones autorizadas a que se refiere el artículo 10 de este Código.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -639,19 +667,25 @@ Se exceptúa de lo dispuesto en el párrafo anterior, la imposición de las sanc
 
 Los servidores públicos, que en ejercicio de sus funciones conozcan los hechos u omisiones que puedan entrañar infracciones a las leyes y disposiciones fiscales, los comunicarán a la Secretaría de Planeación, Administración y Finanzas, dentro de los diez días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 41.
 
-Las facultades de la Secretaría de Planeación, Administración y Finanzas para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las leyes y disposiciones fiscales, así como las facultades de verificar el cumplimiento o incumplimiento de dichas disposiciones, se extinguen en el término de cinco años. Dicho término empezará a correr a partir:
+Las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, así como para imponer sanciones por infracciones a las disposiciones fiscales, se extinguen en el término de cinco años. Dicho término empezará a correr a partir:
 
-I. Al día siguiente en que haya vencido el plazo establecido por las leyes y disposiciones fiscales para presentar declaraciones, manifestaciones o avisos;
+l. Al día siguiente en que se presentó la declaración, aviso o manifestación correspondiente a que se refieren las disposiciones fiscales. Cuando se presenten declaraciones complementarias, el término empezará a computarse a partir del día siguiente a aquél en que se presentan;
 
-II. Al día siguiente al que se produjo el hecho generador del crédito fiscal, si no existiera obligación de presentar declaraciones, manifestaciones o avisos; y
+II. Al día siguiente al en que debió hacerse el pago del impuesto, derecho o aprovechamiento, si no existiera obligación de presentar declaraciones, manifestaciones o avisos; y
 
-III. Al día siguiente al que se cometió la infracción a las leyes y disposiciones fiscales; pero si la infracción fuera de carácter continuo, el término correrá a partir del día siguiente al que hubiese cesado.
+III. Al día siguiente al en que se cometió la infracción a las leyes y disposiciones fiscales; pero si la infracción fuera de carácter continuo o continuado, el término correrá a partir del día siguiente al que hubiese cesado.
 
-El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se interponga algún recurso administrativo o juicio.
+El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el Registro Estatal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código.
+
+En los casos de responsabilidad solidaria a que se refiere el artículo 45, fracciones II, IV, VI, VII y XI de este Código, el plazo será de cinco años a partir de que la autoridad se encuentre impedida por cualquier causa para hacer efectivo el crédito al responsable directo del mismo.
+
+El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones I, III, VI, IX y X del artículo 26 de este Código; cuando se interponga algún recurso administrativo o juicio; o cuando las autoridades fiscales no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiera desocupado su domicilio sin haber presentado el aviso correspondiente o cuando hubiere señalado de manera incorrecta su domicilio. En estos dos últimos casos, se reiniciará el cómputo del plazo de caducidad a partir de la fecha en la que se localice al contribuyente. Asimismo, el plazo a que hace referencia este artículo se suspenderá en los casos de huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga y en el de fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
+
+El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación antes mencionadas inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -755,7 +789,7 @@ e) La que se realice a través de fideicomiso; y
 
 f) La cesión de derechos derivados del fideicomiso; y
 
-IV. (sic) Las demás personas que señalen las leyes fiscales.
+IV. Las demás personas que señalen las leyes fiscales.
 
 #### SECCIÓN TERCERA. Del Domicilio
 
@@ -845,6 +879,18 @@ Sólo se tramitarán los avisos de suspensión de actividades y cancelación de 
 
 El aviso de reanudación no implica nueva inscripción al padrón estatal de contribuyentes.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar actas constitutivas, de fusión, escisión o de liquidación de personas jurídicas, que comprueben dentro del mes siguiente a la firma, que han presentado el aviso respectivo, según sea el caso, en el registro estatal de contribuyentes, de la persona jurídica de que se trate, debiendo asentar en su protocolo la fecha de su presentación; en caso contrario, el fedatario deberá informar de dicha omisión a la Secretaría de Planeación, Administración y Finanzas dentro del mes siguiente a la autorización de la escritura.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría de Planeación, Administración y Finanzas podrá inscribir de oficio a las personas físicas y jurídicas que hubieran sido omisas en inscribirse al Registro Estatal de Contribuyentes teniendo obligación de hacerlo, en cuyo caso, notificará al contribuyente que ha sido inscrito en el Registro Estatal de Contribuyentes, debiendo proporcionarle el número de registro estatal asignado y otorgándole un término de 10 días hábiles contados a partir de que surta efectos la notificación de la resolución, para que manifieste lo que a su derecho convenga. La Secretaría de Planeación, Administración y Finanzas valorará los documentos y argumentos aportados por el particular, y emitirá resolución definitiva.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Vencido el término a que se refiere el párrafo anterior, sin que el contribuyente hubiese efectuado manifestaciones al respecto, el registro asignado será definitivo. El contribuyente podrá interponer los medios de defensa que establece este Código.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 51.
@@ -921,6 +967,10 @@ b) Las personas jurídicas cuando entren en liquidación, a partir de la fecha d
 
 c) Tratándose de asociaciones y sociedades civiles, a partir de la fecha en que se protocolice el acta de asamblea en la cual se acuerde la disolución.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Artículo 55 A.- Los avisos a que se refieren los artículos 50 y 51 de este Código, que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados.
+
 ###### Artículo 56.
 
 Las personas físicas o jurídicas que, teniendo sus domicilios fiscales fuera del Estado, establezcan dentro del territorio del mismo: despachos, oficinas, salas de exhibición, depósitos, locales o representaciones de cualquiera índole, aún cuando no realicen operaciones gravadas por impuestos estatales, para efectos de control, tendrán la obligación de registrarse en los términos de este código y presentar los avisos que, en su caso, correspondan.
@@ -943,13 +993,35 @@ Las resoluciones favorables a los particulares no podrán ser revocadas o nulifi
 
 Cuando deban ser nulificadas, será necesario promover juicio ante el Tribunal de lo Administrativo del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 60.
 
-Los sujetos que de acuerdo con las leyes fiscales del Estado, estén obligados a llevar libros de contabilidad y registros, observarán lo siguiente:
+Los sujetos que de acuerdo con las disposiciones fiscales estén obligados a llevar contabilidad, estarán a lo siguiente:
 
-I. Los registros de contabilidad en los libros fiscales deberán correrse, de acuerdo con los principios de contabilidad generalmente aceptados, dentro de los dos meses siguientes a la fecha en que se realicen las operaciones que los originen, sin incurrir en alteraciones, borraduras o enmendaduras; y
+l. La contabilidad, para efectos fiscales, se integra por los libros, sistemas y registros contables, papeles de trabajo, estados de cuenta bancarios, cuentas especiales, libros y registros sociales, control de inventarios y método de valuación, discos y cintas o cualquier otro medio procesable de almacenamiento de datos, los equipos o sistemas electrónicos de registro fiscal y sus respectivos registros, además de la documentación comprobatoria de los asientos respectivos, así como toda la documentación e información relacionada con el cumplimiento de las disposiciones fiscales, la que acredite sus ingresos y erogaciones, y la que obliguen otras leyes;
 
-II. Deberán conservar la documentación comprobatoria de los registros respectivos y los comprobantes de haber cumplido con las obligaciones fiscales, en el domicilio del sujeto por un plazo mínimo de cinco años. En caso de suspensión de actividades o de liquidación, el plazo se computará a partir de la fecha de las mismas, debiendo señalarse en el aviso respectivo el domicilio en que estarán a disposición de las autoridades fiscales, tales libros y documentos.
+II. Los registros de contabilidad en los libros fiscales deberán correrse, de acuerdo con los principios de contabilidad generalmente aceptados, dentro del mes siguiente a la fecha en que se realicen las operaciones que los originen, sin incurrir en alteraciones, borraduras o enmendaduras; y
+
+III. Deberán conservar la documentación comprobatoria de los registros respectivos y los comprobantes de haber cumplido con las obligaciones fiscales, en el domicilio del sujeto por un plazo mínimo de cinco años. En caso de suspensión de actividades o de liquidación, el plazo se computará a partir de la fecha de las mismas, debiendo señalarse en el aviso respectivo el domicilio en que estarán a disposición de las autoridades fiscales, tales libros y documentos.
+
+Los registros o asientos que integran la contabilidad podrán llevarse en forma manual, mecánica o en medios electrónicos. La documentación comprobatoria de dichos registros o asientos deberá estar disponible en el domicilio fiscal del contribuyente.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Artículo 60 A.- Los sistemas y registros contables deberán satisfacer como mínimo los requisitos que permitan:
+
+l. Identificar cada operación, acto o actividad y sus características, relacionándolas con la documentación comprobatoria, de tal forma que aquéllos puedan identificarse con las distintas contribuciones, tasa y cuotas, incluyendo las actividades liberadas de pago por las disposiciones aplicables;
+
+II. Relacionar cada operación, acto o actividad con los saldos que den como resultado las cifras finales de las cuentas;
+
+III. Formular estados de posición financiera y relacionar las cuentas de cada operación;
+
+IV. Contar con la documentación e información de los registros de todas las operaciones, actos o actividades;
+
+V. Comprobar el cumplimiento de los requisitos relativos al otorgamiento de estímulos fiscales y de subsidios;
+
+Lo dispuesto en este artículo no libera a los contribuyentes de la obligación de contar con los controles o libros que establezcan las leyes o reglamentos.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -1413,11 +1485,11 @@ Cuando los plazos se fijen por mes, sin especificar que sean de calendario, se e
 
 No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo, o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores, se prorrogará el plazo hasta el siguiente día hábil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 103.
 
-Para los efectos de cómputos de plazos fiscales, son días inhábiles el 1º de enero, 5 de febrero, 21 de marzo, 1º y 5 de mayo, 16 y 28 de septiembre, 12 de octubre, 2 y 20 de noviembre, 25 de diciembre, el día correspondiente a la transmisión del poder ejecutivo federal y los sábados y domingos.
+Para los efectos de cómputos de plazos fiscales, son días inhábiles el 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, 1° y 5 de mayo, 16 y 28 de septiembre, 12 de octubre, 2 y tercer lunes de noviembre en conmemoración del 20 de noviembre, 25 de diciembre, el día correspondiente a la transmisión del Poder Ejecutivo Federal y los sábados y domingos.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
 
@@ -1453,7 +1525,9 @@ Los servidores públicos ante quienes, con motivo de sus funciones se presente a
 
 En cada infracción de las señaladas en este Código o en las leyes de carácter fiscal, se aplicarán las sanciones correspondientes, conforme a las reglas siguientes:
 
-I. Las autoridades fiscales al imponer las sanciones que correspondan, tomarán en cuenta la importancia de la infracción, las condiciones del contribuyente y la conveniencia de destruir prácticas establecidas, tanto para evadir el pago de créditos fiscales, como para infringir, en cualquier otra forma, las disposiciones legales o reglamentarias;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+l. Las autoridades fiscales al imponer las sanciones que correspondan, tomarán en cuenta la importancia de la infracción, la reincidencia en la comisión de infracciones, si es conducta agravada, las condiciones del contribuyente y la conveniencia de destruir prácticas establecidas, tanto para evadir el pago de créditos fiscales, como para infringir en cualquier otra forma las disposiciones legales o reglamentarias;
 
 II. La autoridad fiscal deberá fundar y motivar debidamente su resolución siempre que imponga sanciones;
 
@@ -1467,6 +1541,10 @@ VI. Cuando las infracciones se estimen leves y consistan en hechos, omisiones o 
 
 VII. Cuando se estime que la infracción cometida es leve y que no ha tenido como consecuencia la evasión del impuesto, se impondrá el mínimo de la sanción que corresponda, apercibiéndose al infractor de que se le castigará como reincidente si vuelve a incurrir en la infracción;
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+Se considera agravante, la omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes, por lo que la multa se aumentará de un 50% a un 75% del importe de las contribuciones retenidas o recaudadas y no enteradas.
+
 VIII. Cuando se omita el pago de un crédito fiscal, que corresponda a los actos o contratos que se hagan constar en escrituras públicas o minutas extendidas ante fedatario público, la sanción se impondrá exclusivamente a los notarios o corredores y los otorgantes sólo quedarán obligados a pagar los impuestos omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados, la sanción se aplicará a los sujetos del contrato;
 
 IX. Cuando la liquidación de algún crédito fiscal, esté encomendada a servidores públicos del Estado o de los municipios, éstos serán responsables de las infracciones que cometan y se les aplicarán las sanciones que correspondan, quedando únicamente obligados los contribuyentes a pagar el crédito fiscal omitido, excepto en los casos en que este código o alguna ley fiscal disponga que no se podrá exigir al contribuyente dicho pago;
@@ -1475,7 +1553,9 @@ IX. Cuando la liquidación de algún crédito fiscal, esté encomendada a servid
 
 X. La Secretaría de Planeación, Administración y Finanzas no impondrá multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las leyes fiscales o cuando se haya incurrido en infracción por causa de fuerza mayor o de caso fortuito. No se considerará que el pago es espontáneo, cuando medie requerimiento, auditoría, excitativa o cualquiera otra gestión de cobro efectuada por las autoridades fiscales; y
 
-XI. Cuando las multas impuestas por las autoridades fiscales, se paguen dentro del plazo establecido en la fracción I del artículo 66 de este Código, la sanción se reducirá en un 20 por ciento de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+XI. Cuando las multas impuestas por las autoridades fiscales, se paguen dentro del plazo de 10 días hábiles siguientes contados a partir de que surta efectos su notificación, la sanción se reducirá en un 30 por ciento de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
 
 (REPUBLICADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)
 
@@ -1511,7 +1591,9 @@ X. No devolver oportunamente, a las autoridades, los comprobantes de pago de las
 
 XI. Faltar a la obligación de expedir recibos, comprobantes fiscales, notas de venta o cualesquiera otros documentos que señalen las leyes fiscales, o expedirlos, sin que reúnan los requisitos correspondientes; no exigirlos cuando tengan obligación de hacerlo. No consignar por escrito los actos, convenios o contratos que, de acuerdo con las leyes fiscales, deban constar en esa forma, multa de 20 a 200 días de salario mínimo general, vigente en la zona económica de Guadalajara;
 
-XII. No presentar, o hacer extemporáneamente, los avisos, declaraciones, contratos, solicitudes, datos, informes, copias, libros o documentos que exijan las leyes fiscales, así como no presentarlos o aclararlos, cuando las autoridades fiscales lo soliciten, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+XII. No presentar, o hacer extemporáneamente, los avisos, declaraciones, contratos, solicitudes, datos, informes, copias, libros o documentos que exijan las leyes fiscales, así como no presentarlos o aclararlos, cuando las autoridades fiscales lo soliciten, multa de 10 a 100 días de salario mínimo general, vigente en el Municipio de Guadalajara; tratándose de la no presentación o presentación extemporánea de declaraciones o avisos exigidos por las disposiciones fiscales, la multa se impondrá por cada declaración o aviso no presentado o presentado en forma extemporánea;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -1527,19 +1609,29 @@ XVI. No pagar en forma total o parcial los impuestos o derechos en los plazos se
 
 XVII. Evadir el pago de las obligaciones fiscales, como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras, o beneficiarse de un estímulo fiscal, sin tener derecho a ello, multa por el equivalente de 20 a 200 días de salario mínimo general, vigente en la zona económica de Guadalajara, cuando no pueda precisarse el monto del crédito fiscal omitido o del estímulo fiscal indebidamente aprovechado. De lo contrario, la multa será hasta de tres tantos del importe de dicha contribución, o estímulo fiscal;
 
-XVIII. Resistirse, por cualquier medio, a las visitas de revisión o auditoría; no suministrar los datos e informes que legalmente puedan exigir los auditores; no mostrar los libros de contabilidad, documentos, registros, o impedir el acceso a los almacenes, depósitos, bodegas, oficinas o cualquiera otra dependencia y, en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del auditado, en relación con el objeto de la revisión o auditoría, multas de 20 a 200 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+XVIII. Oponerse, por cualquier medio, al ejercicio de facultades de comprobación previstas en el artículo 26 de este Código; no proporcionar alguno de los datos, libros, registros que formen parte de la contabilidad, informes o documentos que legalmente puedan exigir los auditores; no mostrar los libros de contabilidad, documentos, registros, o impedir el acceso a los almacenes, depósitos, bodegas, oficinas o cualquiera otra dependencia y, en general, negarse a proporcionar alguno de los documentos o elementos que se requieran para comprobar la situación fiscal del auditado, en relación con el objeto de la revisión o auditoría, multas de 150 a 300 días de salario mínimo general vigente en la zona económica de Guadalajara;
 
 XIX. No presentar ante las autoridades fiscales, cuando éstas lo soliciten, los comprobantes fiscales, recibos, nota de venta y otros comprobantes de las compras efectuadas, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara; y
 
 XX. Ejercer el comercio sin cumplir con los requisitos que establecen las leyes fiscales, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara;
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-XXI. Presentar los avisos, declaraciones, contratos, solicitudes, datos e informes, que exijan las leyes fiscales; con datos incompletos o erróneos, multas de 3 a 15 días de salario mínimo general, vigente en la zona económica de Guadalajara.
+XXI. Presentar los avisos, declaraciones, contratos, solicitudes, datos e informes, que exijan las leyes fiscales; con datos incompletos o erróneos, multas de 3 a 15 días de salario mínimo general, vigente en la zona económica de Guadalajara;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-XXII. Señalar como domicilio para efectos del registro estatal de contribuyentes, un lugar distinto al que corresponda conforme a este Código o leyes fiscales, multa de 20 a 50 días de salario mínimo general, vigente en el Municipio de Guadalajara.
+XXII. Señalar como domicilio para efectos del registro estatal de contribuyentes, un lugar distinto al que corresponda conforme a este Código o leyes fiscales, multa de 20 a 50 días de salario mínimo general, vigente en el Municipio de Guadalajara;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+XXIII. No presentar las declaraciones de entero de retenciones a que obligan las disposiciones legales correspondientes o hacerlo a requerimiento de la autoridad, por cada una, multa de 50 a 100 días de salario mínimo general vigente en el Municipio de Guadalajara; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
+XXIV. No proporcionar información solicitada por las autoridades fiscales, respecto de retenciones a que obligan las disposiciones fiscales, multa de 50 a 100 días de salario mínimo general vigente en el Municipio de Guadalajara.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -1703,7 +1795,7 @@ El citado organismo ejercerá los recursos que perciba por dicho concepto sin me
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2007)</small>
 
-III. el (sic) 25% del fondo único general le corresponderá directamente al Organismo Público Descentralizado denominado Hospital Civil de Guadalajara, el cual deberá destinarlo independientemente de lo programado en su presupuesto de egresos, exclusivamente a lo siguiente:
+III. el 25% del fondo único general le corresponderá directamente al Organismo Público Descentralizado denominado Hospital Civil de Guadalajara, el cual deberá destinarlo independientemente de lo programado en su presupuesto de egresos, exclusivamente a lo siguiente:
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2007)</small>
 
@@ -2716,6 +2808,12 @@ P.O. 29 DE OCTUBRE DE 2011.
 P.O. 14 DE DICIEMBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor, al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Las reformas contenidas en este Decreto, se aplicarán a partir de su entrada en vigor. El ejercicio de facultades de comprobación iniciadas con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables en el momento de su inicio.
 
 ###### ARTICULO PRIMERO
 
