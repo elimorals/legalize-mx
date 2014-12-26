@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-organico-de-la-direccion-de-seguridad-publica-60270"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2010-04-30"
+last_updated: "2014-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO ORGANICO DE LA DIRECCION DE SEGURIDAD PUBLICA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA-- ANTES REGLAMENTO ORGANICO DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA--
 
-REGLAMENTO ORGÁNICO DE LA SECRETARIA DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO ORGÁNICO DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de junio de 2006.
 
@@ -51,7 +51,9 @@ El Secretario Fedatario del XVIII Ayuntamiento de Ensenada.
 
 LIC. JULIO CESAR ARENAS RUIZ.
 
-REGLAMENTO ORGANICO DE LA SECRETARIA DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+REGLAMENTO ORGÁNICO DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
 ## Título Primero. DISPOSICIONES GENERALES
 
@@ -63,15 +65,21 @@ El presente Reglamento es de orden público y tiene por objeto:
 
 I. Normar la función de seguridad pública preventiva que realiza el municipio de Ensenada, Baja California;
 
-II. Establecer las bases de organización de la Secretaría de Seguridad Pública Municipal;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-III. Determinar las bases de coordinación, operación, funcionamiento y supervisión de los cuerpos preventivos de la Secretaría de Seguridad Pública Municipal.
+II. Establecer las bases de organización de la Dirección de Seguridad Pública Municipal;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+III. Determinar las bases de coordinación, operación, funcionamiento y supervisión de los cuerpos preventivos de la Dirección de Seguridad Pública Municipal.
 
 ###### Artículo 2.
 
 La Seguridad Pública Preventiva es un servicio cuya prestación, en el ámbito de competencia que corresponde al Municipio, deberá desarrollarse con respeto absoluto a las garantías individuales y a los derechos humanos, cuyo propósito será:
 
-I. Mantener el orden público y garantizar la coexistencia pacifica entre los miembros de la comunidad;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+I. Mantener el orden público y garantizar la coexistencia pacífica entre los miembros de la comunidad;
 
 II. Proteger los derechos y la integridad física de las personas, así como de sus bienes;
 
@@ -95,87 +103,93 @@ III. La vigilancia disuasiva y la ejecución de programas necesarios para evitar
 
 IV. El diseño e implementación de programas preventivos en contra de la adicción a las drogas, al graffiti, al pandillerismo y vandalismo y, en general, a las conductas antisociales tipificadas como delitos.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 4.
 
-En el Municipio de Ensenada, Baja California, la Secretaría de Seguridad Pública, es el órgano de autoridad encargado de prestar coordinadamente el servicio de seguridad pública de acuerdo a las atribuciones y competencias que se establecen, entre otros ordenamientos, en la Ley del Régimen Municipal, Ley de Seguridad Pública y Bases de Coordinación, Ley de Protección Civil, Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales y el Código de Procedimientos Penales, todas ellas del Estado de Baja California.
+En el Municipio de Ensenada, Baja California, la Dirección de Seguridad Pública, es el órgano de autoridad encargado de prestar coordinadamente el servicio de seguridad pública de acuerdo a las atribuciones y competencias que se establecen, entre otros ordenamientos, en la Ley del Régimen Municipal, Ley de Seguridad Pública y Bases de Coordinación, Ley de Protección Civil, Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales y el Código de Procedimientos Penales, todas ellas del Estado de Baja California.
 
-###### Articulo 5.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-Se considera como elemento de los Cuerpos Preventivos de Seguridad Pública, aquellos a quienes se atribuya ese carácter mediante nombramiento o instrumento jurídico equivalente y que los considere como policías preventivos o elementos de tránsito, otorgado por autoridad competente del Municipio o de la Secretaría de Seguridad Pública, según sea el caso, aun cuando se encuentren comisionados o desempeñen funciones administrativas o diversas a la función preventiva directa.
+###### Artículo 5.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+Se considera como Miembros de Seguridad Pública, aquellos a quienes se atribuya ese carácter mediante nombramiento o instrumento jurídico equivalente y que los considere como Elementos de policía y de tránsito, otorgado por autoridad competente del Municipio o de la Dirección de Seguridad Pública, según sea el caso, aun cuando se encuentren comisionados o desempeñen funciones administrativas o diversas a la función preventiva directa.
 
-En este sentido, la relación jurídica del personal que se integra a los cuerpos de seguridad pública será de carácter administrativa y se regirán por la Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales y su reglamento, así como por el presente ordenamiento, con excepción de los elementos de la Dirección de Bomberos.
+En este sentido, la relación jurídica del personal que se integra a la Dirección de seguridad pública será de carácter administrativa y se regirán por la Ley de Seguridad Pública del Estado de Baja California, así como por el Reglamento de la Comisión Disciplinaria y de Carrera Policial de la Dirección de Seguridad Pública del Municipio de Ensenada, el presente Reglamento y los demás ordenamientos de la materia, con excepción de los elementos de la Subdirección de Bomberos.
 
-###### Articulo 6.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-Los cuerpos preventivos de seguridad pública municipal, regirán su operación e integración conforme a lo establecido por los reglamentos, convenios, acuerdos, circulares y demás disposiciones administrativas que sobre la materia apruebe el Ayuntamiento, dicte el Presidente Municipal o el Titular de la Secretaría de Seguridad Pública Municipal.
+###### Artículo 6.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+Los Miembros de seguridad pública municipal, regirán su operación e integración conforme a lo establecido por los reglamentos, convenios, acuerdos, circulares y demás disposiciones administrativas que sobre la materia apruebe el Ayuntamiento, dicte el Presidente Municipal o el Titular de la Dirección de Seguridad Pública Municipal.
 
-Para el desarrollo de las funciones, a la Secretaría se adscriben las atribuciones de la Policía y Tránsito Municipal, Bomberos, así como las Coordinaciones, unidades operativas y el personal que las integran.
+Para el desarrollo de las funciones, a la Dirección se adscriben las atribuciones de la Policía y Tránsito Municipal, Bomberos, así como las Coordinaciones, unidades operativas y el personal que las integran.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 7.
 
-El reglamento de la Policía y Tránsito y el respectivo de Bomberos establecerá por lo menos, las disposiciones relativas a su organigrama interno, licencias, permisos, causas de baja, prestaciones de previsión social y de régimen disciplinario, sanciones y deberes, estímulos y recompensas, que corresponda a cada una de las corporaciones de seguridad pública preventiva.
+El reglamento de la Policía y Tránsito y el respectivo de Bomberos establecerá por lo menos, las disposiciones relativas a su organigrama interno, licencias, permisos, causas de baja, prestaciones de previsión social y de régimen disciplinario, requisitos de permanencia, sanciones y deberes, estímulos y recompensas, que corresponda a cada una de las corporaciones de seguridad pública preventiva.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
 Para los efectos de este reglamento, se entenderá por:
 
-Secretaría: a la Secretaría de Seguridad Pública Municipal;
+Dirección: a la Dirección de Seguridad Pública Municipal;
 
-Secretario: El Secretario de Seguridad Pública Municipal;
+Director: El Director de Seguridad Pública Municipal;
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+Cuerpos Preventivos: A la agrupación de los miembros de seguridad pública que desempeña labores de policía y tránsito y bomberos;
 
-Cuerpos Preventivos: A la agrupación de los miembros de seguridad pública que desempeña labores de policía y tránsito, bomberos;
+Miembro Seguridad Publica: A los servidores públicos que desempeñen labores de policía preventiva y tránsito;
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
+Coordinaciones: A las Coordinaciones de auxilio ejecutivo, normativo y operativo adscritas a la Dirección.
 
-Miembro o Elemento de Seguridad Publica Preventiva: A los servidores públicos que desempeñen labores de policía y tránsito.
+Unidad Administrativa: A las áreas administrativas que por especialidad o función se adscriben e integran la estructura orgánica de la Dirección.
 
-Coordinaciones: A las Coordinaciones de auxilio ejecutivo, normativo y operativo adscritas a la Secretaría.
+Subdirecciones Operativas: Al conjunto que hacen las Subdirecciones de Policía y Tránsito y la de Bomberos.
 
-Unidad Administrativa: A las áreas administrativas que por especialidad o función se adscriben e integran la estructura orgánica de la Secretaría.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
-
-Direcciones o Direcciones Operativas: Al conjunto que hacen las Direcciones de Policía y Tránsito y la de Bomberos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 9.
 
-El Plan de Seguridad Pública Municipal, es la ordenación racional y sistemática de acciones que en base al presupuesto autorizado y al ejercicio de las atribuciones de la Secretaría de Seguridad Pública Municipal, tiene como finalidad el cumplimiento de los propósitos señalados en el artículo segundo del presente reglamento.
+El Plan de Seguridad Pública Municipal, es la ordenación racional y sistemática de acciones que en base al presupuesto autorizado y al ejercicio de las atribuciones de la Dirección de Seguridad Pública Municipal, tiene como finalidad el cumplimiento de los propósitos señalados en el Artículo segundo del presente reglamento.
 
 El Plan es el documento que contiene las acciones que en forma programada y coordinada deberán realizar los cuerpos preventivos de seguridad pública en el corto, mediano y largo plazo.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-Corresponde al Secretario de Seguridad Pública Municipal y a las Direcciones operativas, en el ámbito de su competencia, conducir la ejecución y desarrollo del Plan de Seguridad Pública Municipal.
+Corresponde al Director de Seguridad Pública Municipal y a las Subdirecciones operativas, en el ámbito de su competencia, conducir la ejecución y desarrollo del Plan de Seguridad Pública Municipal.
 
-En caso de duda sobre la interpretación de los mecanismos, metas y disposiciones contenidas en el Plan Municipal de Seguridad Pública, se estará a lo que resuelva, para efectos administrativos, el Secretario por conducto de la Coordinación de Planeación y Evaluación.
+En caso de duda sobre la interpretación de los mecanismos, metas y disposiciones contenidas en el Plan Municipal de Seguridad Pública, se estará a lo que resuelva, para efectos administrativos, el Director por conducto de la Coordinación de Planeación y Evaluación.
 
 ### Capítulo II. DE LAS AUTORIDADES DE SEGURIDAD PÚBLICA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-El mando inmediato de los Cuerpos Preventivos de Seguridad Pública Municipal, corresponde al Presidente Municipal quien lo ejercerá por sí o por conducto del Secretario de Seguridad Pública Municipal.
+El mando inmediato de los Cuerpos Preventivos de Seguridad Pública Municipal, corresponde al Presidente Municipal quien lo ejercerá por sí o por conducto del Director de Seguridad Pública Municipal.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 12.
 
-La representación de la Secretaría, así como el trámite y resolución de los asuntos en materia de seguridad pública municipal, corresponde al Secretario de Seguridad Pública Municipal.
+La representación de la Dirección, así como el trámite y resolución de los asuntos en materia de seguridad pública municipal, corresponde al Director de Seguridad Pública Municipal.
 
-Las relaciones institucionales de las coordinaciones y unidades administrativas de la Secretaría con los titulares de otras dependencias municipales, estatales, federales, públicas o privadas, nacionales o extranjeras, se realizarán invariablemente a través del Secretario de Seguridad Pública Municipal.
+Las relaciones institucionales de las coordinaciones y unidades administrativas de la Dirección con los titulares de otras dependencias municipales, estatales, federales, públicas o privadas, nacionales o extranjeras, se realizarán invariablemente a través del Director de Seguridad Pública Municipal.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 13.
 
-Cuando los fines de la seguridad pública preventiva se vean afectados en el territorio del municipio, aun no siendo competente la instancia municipal, la Secretaría se hará cargo de atenderlas hasta en tanto la autoridad competente ejerza sus atribuciones.
+Cuando los fines de la seguridad pública preventiva se vean afectados en el territorio del municipio, aun no siendo competente la instancia municipal, la Dirección se hará cargo de atenderlas hasta en tanto la autoridad competente ejerza sus atribuciones.
 
-Igualmente, la Secretaría podrá auxiliar en la prestación del servicio de seguridad pública al Estado y a la Federación, cuando exista solicitud al respecto.
+Igualmente, la Dirección podrá auxiliar en la prestación del servicio de seguridad pública al Estado y a la Federación, cuando exista solicitud al respecto.
 
 ###### Artículo 14.
 
@@ -185,9 +199,13 @@ I. El Ayuntamiento;
 
 II. El Presidente Municipal;
 
-III. El Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-IV. Los Directores operativos;
+III. El Director de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IV. Los Subdirectores operativos;
 
 V. Los miembros de los cuerpos preventivos de seguridad pública, durante el desempeño de su función.
 
@@ -195,17 +213,23 @@ V. Los miembros de los cuerpos preventivos de seguridad pública, durante el des
 
 Son atribuciones del Ayuntamiento en materia de Seguridad Pública Preventiva:
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-I. Aprobar el Plan de Seguridad Pública Municipal y los programas especiales de protección civil, tránsito, prevención de incendios y demás relativos a las materias de seguridad pública preventiva, que se presenten a su consideración;
+I. Aprobar el Plan de Seguridad Pública Municipal y los programas especiales de tránsito, prevención de incendios y demás relativos a las materias de seguridad pública preventiva, que se presenten a su consideración;
 
 II. Aprobar los convenios de coordinación en materia de Seguridad Pública preventiva con otros municipios de la entidad y de coordinación o de transferencia y aceptación de funciones con el Estado, previa observancia de las formalidades que establecen los reglamentos municipales y las leyes estatales;
 
-III. Aprobar el nombramiento del Titular de la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-IV. Supervisar el correcto funcionamiento de la Secretaría y vigilar el desarrollo y cumplimiento de los programas de seguridad pública preventiva;
+III. Aprobar el nombramiento del Titular de la Dirección de Seguridad Pública;
 
-V. Solicitar la comparecencia del Secretario, Directores Operativos y demás funcionarios de la Secretaría, cuando el caso o la información solicitada lo ameriten y justifiquen, en los términos del Reglamento Interior del Ayuntamiento de Ensenada;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IV. Supervisar el correcto funcionamiento de la Dirección y vigilar el desarrollo y cumplimiento de los programas de seguridad pública preventiva;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+V. Solicitar la comparecencia del Director, Subdirectores Operativos y demás funcionarios de la Dirección, cuando el caso o la información solicitada lo ameriten y justifiquen, en los términos del Reglamento Interior del Ayuntamiento de Ensenada;
 
 VI. Las demás que le señale la Ley, otras disposiciones en la materia y el presente reglamento.
 
@@ -221,7 +245,9 @@ III. Suscribir y vigilar el cumplimiento de los acuerdos y convenios que en la m
 
 IV. Promover la participación de la comunidad para estimular las propuestas de solución a los problemas de seguridad pública preventiva;
 
-V. Proponer al Ayuntamiento el nombramiento del Secretario de Seguridad Pública Municipal y nombrar a los Directores operativos de las propuestas presentadas por el propio Secretario;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+V. Proponer al Ayuntamiento el nombramiento del Director de Seguridad Pública Municipal y nombrar a los Subdirectores operativos de las propuestas presentadas por el propio Director;
 
 VI. Establecer en el Municipio las instancias de coordinación para la integración y funcionamiento del Sistema Nacional de Seguridad Pública;
 
@@ -229,101 +255,115 @@ VII. Establecer la operación de los registros, archivos, estadísticas y demás
 
 VIII. Las demás que señale la Ley, otras disposiciones en la materia y el presente reglamento.
 
-## Título Segundo. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-### Capítulo I. DE LA ORGANIZACIÓN DE LA SECRETARIA
+## Título Segundo. DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo I. DE LA ORGANIZACIÓN DE LA DIRECCIÓN
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 17.
 
-La función de seguridad pública preventiva en el municipio se realiza a través de la Secretaria de Seguridad Pública Municipal, cuyo titular será nombrado en los términos del Reglamento de la Administración Pública para el Municipio de Ensenada, Baja California y de los artículos 14 y 15 del presente ordenamiento.
+La función de seguridad pública preventiva en el municipio se realiza a través de la Dirección de Seguridad Pública Municipal, cuyo titular será nombrado en los términos del Reglamento de la Administración Pública para el Municipio de Ensenada, Baja California y de los Artículos 14 y 15 del presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 18.
 
-La Secretaría de Seguridad Pública Municipal contará con las unidades subalternas normativas, de coordinación, supervisión y operación que figuren en su presupuesto, cuya adscripción y funciones deberán ser establecidas en el presente reglamento, los reglamentos de las Direcciones Operativas y en los Manuales de Organización y de Procedimientos de la propia Secretaría.
+La Dirección de Seguridad Pública Municipal contará con las unidades subalternas normativas, de coordinación, supervisión y operación que figuren en su presupuesto, cuya adscripción y funciones deberán ser establecidas en el presente reglamento, los reglamentos de las Subdirecciones Operativas y en los Manuales de Organización y de Procedimientos de la propia Dirección.
 
-Contará además, con una Unidad de Asuntos Internos, que se encargará de investigar e integrar los expedientes para la aplicación de los correctivos disciplinarios conforme a lo dispuesto por los artículos 10, 13, 14 y demás relativos de la Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales del Estado de Baja California.
+Contará además, con una Unidad de Asuntos Internos, que se encargará de investigar e integrar los expedientes para la aplicación de las correcciones disciplinarias conforme a lo dispuesto por Ley de Seguridad Pública del Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-###### Articulo 19.
+###### Artículo 19.
 
-Las facultades y atribuciones que los reglamentos municipales y otras disposiciones legales le atribuye (sic) a los Directores de Policía y Tránsito, Bomberos, le corresponden originalmente al Secretario de Seguridad Pública, quien podrá ejercerlas directamente cuando así lo juzgue necesario.
+Las facultades y atribuciones que los reglamentos municipales y otras disposiciones legales les atribuyen a los Subdirectores de Policía y Tránsito y Bomberos, le corresponden originalmente al Director de Seguridad Pública, quien podrá ejercerlas directamente cuando así lo juzgue necesario.
 
-### Capítulo II. DE LA OFICINA Y ATRIBUCIONES DEL SECRETARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo II. DE LA OFICINA Y ATRIBUCIONES DEL DIRECTOR
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 20.
 
-La Oficina del Secretario se integrará con la Secretaría Particular, Ejecutiva o Técnica que requiera y que autorice el Presupuesto, quien le auxiliará en el trámite administrativo y desahogo de los asuntos de su competencia.
+La Oficina del Director se integrará con la Secretaría Particular, Ejecutiva o Técnica que requiera y que autorice el Presupuesto, quien le auxiliará en el trámite administrativo y desahogo de los asuntos de su competencia.
 
-Los servidores públicos integrados a la Oficina del Secretario serán de libre designación y estarán sujetos a los procedimientos de evaluación del desempeño y no así a los de reclutamiento y selección que establece el Servicio de Carrera en materia de Seguridad Publica Preventiva a que se refiere el presente Reglamento.
+Los servidores públicos integrados a la Oficina del Director serán de libre designación y estarán sujetos a los procedimientos de evaluación del desempeño y no así a los de reclutamiento y selección que establece el Servicio de Carrera en materia de Seguridad Publica Preventiva a que se refiere el presente Reglamento.
 
-Los servidores públicos que sea miembros o elementos de seguridad publica preventiva que se integren a la Oficina del Secretario o se comisionen para la asistencia o atención personal del Titular, quedaran sujetos al régimen disciplinario que establece la Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales y su Reglamento respectivo.
+Los servidores públicos que sean miembros de seguridad pública que se integren a la Oficina del Director o se comisionen para la asistencia o atención personal del Titular, quedarán sujetos al régimen disciplinario que establece la Ley de Seguridad Pública del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 21.
 
-Al Secretario de Seguridad Pública Municipal, además de las atribuciones que se establecen en el artículo 73 del Reglamento de la Administración Pública Municipal, le corresponde:
+Al Director de Seguridad Pública Municipal, además de las atribuciones que se establecen en el Artículo 78 del Reglamento de la Administración Pública Municipal, le corresponde:
 
-I. El despacho y resolución de los asuntos de Seguridad Pública que sean competencia de la Secretaría;
+I. El despacho y resolución de los asuntos de Seguridad Pública que sean competencia de la Dirección;
 
-II. Representar a la Secretaría y suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación de funciones;
+II. Representar a la Dirección y suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación de funciones;
 
-III. Determinar las políticas de seguridad pública, así como ejecutar, dar seguimiento y evaluar las acciones y programas previstos para el ámbito municipal, en la Ley de Seguridad Pública y Bases de Coordinación para el Estado;
+III. Determinar las políticas de seguridad pública, así como ejecutar, dar seguimiento y evaluar las acciones y programas previstos para el ámbito municipal, en la Ley de Seguridad Pública del Estado de Baja California;
 
 IV. Establecer, supervisar, operar y mantener actualizados los sistemas, registros e instrumentos de información municipal que requiere el Sistema Nacional de Seguridad Pública, el estatal y el municipal que corresponda;
 
 V. Planear, programar, organizar, coordinar, controlar y evaluar el funcionamiento de las unidades administrativas adscritas a su ámbito de competencia;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+VI. Dirigir los programas y las unidades administrativas de coordinación general en materia de Planeación, Profesionalización, Administración, Informática, y las Subdirecciones operativas de policía y tránsito y bomberos;
 
-VI. Dirigir los programas y las unidades administrativas de coordinación general en materia de Planeación, Profesionalización, Administración, Informática, y las Direcciones operativas de policía y tránsito, bomberos;
+VII. Administrar los recursos, vigilar y dar seguimiento al ejercicio de las funciones, programas y acciones, de las coordinaciones y Subdirecciones operativas adscritas a la Dirección, así como evaluar sus resultados;
 
-VII. Administrar los recursos, vigilar y dar seguimiento al ejercicio de las funciones, programas y acciones, de las coordinaciones y direcciones operativas adscritas a la Secretaría, así como evaluar sus resultados;
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
-
-VIII. Vigilar que el ejercicio de la autoridad y la operación diaria de la policía y tránsito municipal, bomberos, se observe el respeto absoluto a los derechos humanos de los ciudadanos;
+VIII. Vigilar que el ejercicio de la autoridad y la operación diaria de la policía y tránsito municipal y bomberos, se observe el respeto absoluto a los derechos humanos de los ciudadanos;
 
 IX. Promover la celebración de convenios con otras instituciones similares sobre apoyo y asesoría reciproca en materia policial, preventiva, jurídica y de formación al personal, intercambio de material, recursos e información necesaria para el desarrollo de sus atribuciones, con apego estricto a las disposiciones legales y sin perjuicio de las facultades que corresponden a otras autoridades municipales.
 
-X. Proponer al Presidente Municipal el nombramiento y remoción de los titulares de las Direcciones Operativas adscritas a la Secretaría;
+X. Proponer al Presidente Municipal el nombramiento y remoción de los titulares de las Subdirecciones Operativas adscritas a la Dirección;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
-
-XI. Asumir cuando lo juzgue necesario, las atribuciones que los Reglamentos del Municipio de Ensenada, Baja California, señala al encargo de la Policía y Tránsito, Bomberos.
+XI. Asumir cuando lo juzgue necesario, las atribuciones que los Reglamentos del Municipio de Ensenada, Baja California, señala al encargo de la Policía y Tránsito y Bomberos.
 
 XII. Ordenar y supervisar la Integración de las estadísticas delictivas y proponer programas para mejorar y ampliar la cobertura del servicio de Seguridad Pública Municipal;
 
-XIII. Determinar en acuerdo con el Coordinador Administrativo de la Secretaría y el Oficial Mayor de Ayuntamiento la vacante de plazas dentro de la Secretaría;
+XIII. Determinar en acuerdo con el Coordinador Administrativo de la Dirección y el Oficial Mayor de Ayuntamiento la vacante de plazas dentro de la Dirección;
 
 XIV. En materia de amparo, contestar los informes justificados y ser parte del juicio de garantías, con las facultades de nombrar delegados o representantes para oír y recibir notificaciones, presentar pruebas y promociones, hacer alegatos, promover recursos y demás medios de defensa.
 
-XV. Certificar y/o cotejar los documentos que se requiera (sic) y que se presenten, pertenezcan o se encuentren en los archivos de la Secretaría;
+XV. Certificar y/o cotejar los documentos que se requiera y que se presenten, pertenezcan o se encuentren en los archivos de la Dirección;
 
 XVI. Las demás que le confieran las Leyes y reglamentos aplicables.
 
-### Capítulo III. DE LAS DEPENDENCIAS QUE INTEGRAN LA SECRETARIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo III. DE LAS DEPENDENCIAS QUE INTEGRAN LA DIRECCIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 22.
 
-La Secretaría para el ejercicio de sus atribuciones en materia de seguridad pública preventiva se organiza mediante las siguientes Direcciones operativas:
+La Dirección para el ejercicio de sus atribuciones en materia de seguridad pública preventiva se organiza mediante las siguientes Subdirecciones operativas:
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-I.- Dirección de Policía y Tránsito Municipal;
+I.- Subdirección de Policía y Tránsito Municipal;
 
-II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2008)
+II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2008) (REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-III. Dirección de Bomberos.
+III.- Subdirección de Bomberos.
 
 ###### Artículo 23.
 
 Para el auxilio de las tareas de seguridad pública preventiva, se contara con un Centro de Operaciones Policiales para la atención, monitoreo, seguimiento y respuesta a las emergencias, de acuerdo al Manual de Operación respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 24.
 
-La Secretaría contará además con las siguientes unidades administrativas:
+La Dirección contará además con las siguientes unidades administrativas:
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
 
@@ -333,29 +373,33 @@ II. Coordinación Administrativa.
 
 III. Coordinación de Profesionalización.
 
-IV. (DEROGADA, P.O. 22 DE FEBRERO DE 2008)
+IV. (DEROGADA, P.O. 22 DE FEBRERO DE 2008) (REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2014)
 
-V. (DEROGADA, P.O. 22 DE FEBRERO DE 2008)
+V. (DEROGADA, P.O. 22 DE FEBRERO DE 2008) (REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2014)
 
-VI. (DEROGADA, P.O. 22 DE FEBRERO DE 2008)
+VI. (DEROGADA, P.O. 22 DE FEBRERO DE 2008) (REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2014)
 
-VII. (DEROGADA, P.O. 22 DE FEBRERO DE 2008)
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2008)</small>
-
-VIII.- Coordinación de Prevención del Delito; y
+VII. (DEROGADA, P.O. 22 DE FEBRERO DE 2008) (REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2008)</small>
 
-IX.- Coordinación de Estrategia y Logística Operativa.
+VIII. Coordinación de Prevención del Delito; y
 
-## Título Tercero. DE LAS DIRECCIONES OPERATIVAS
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2008)</small>
+
+IX. Coordinación de Estrategia y Logística Operativa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+## Título Tercero. DE LAS SUBDIRECCIONES OPERATIVAS
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
-Corresponde a las Direcciones operativas, además de las atribuciones que a cada una le determina el Reglamento respectivo, las siguientes:
+Corresponde a las Subdirecciones operativas, además de las atribuciones que a cada una le determina el Reglamento respectivo, las siguientes:
 
 I. Planear, programar, organizar, evaluar, operar y realizar las acciones necesarias para el cumplimiento de los objetivos referidos a las materias de su especialidad;
 
@@ -363,13 +407,19 @@ II. Dirigir, controlar, programar, coordinar y evaluar el desarrollo de los prog
 
 III. Organizar las funciones internas y desarrollar los procedimientos y servicios asignados a su especialidad;
 
-IV. Acordar con el Secretario la resolución de los asuntos relevantes que le competan;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IV. Acordar con el Director la resolución de los asuntos relevantes que le competan;
 
 V. Formular dictámenes, opiniones e informes sobre asuntos que le sean encomendados y propios de su competencia;
 
-VI. Administrar los recursos con sujeción a las disposiciones aplicables de Oficialía Mayor y de la Secretaría;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-VII. Administrar y conservar los recursos materiales, equipos, muebles y demás bienes, preservando el patrimonio de la institución con sujeción a las políticas y lineamientos señalados por la Oficialía Mayor, por la Secretaría, así como las contenidas en las Normas Técnicas aplicables;
+VI. Administrar los recursos con sujeción a las disposiciones aplicables de Oficialía Mayor y de la Dirección:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VII. Administrar y conservar los recursos materiales, equipos, muebles y demás bienes, preservando el patrimonio de la institución con sujeción a las políticas y lineamientos señalados por la Oficialía Mayor, por la Dirección, así como las contenidas en las Normas Técnicas aplicables;
 
 VIII. Proponer la adquisición de material, equipo, muebles y justificar las necesidades de su adquisición;
 
@@ -377,9 +427,9 @@ VIII. Proponer la adquisición de material, equipo, muebles y justificar las nec
 
 IX. Dirigir, controlar y coordinar al personal a su encargo y, en su caso, turnarlo a Sindicatura Municipal, para que determine y recomiende en su caso, la imposición de sanciones administrativas y disciplinarias a que hubiere lugar por infracciones cometidas en el desempeño de su trabajo, en atención a la competencia establecida en la normatividad correspondiente;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-X. Imponer los correctivos disciplinarios de conformidad con lo establecido en el Capitulo IV de la Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales del Estado de Baja California y al Reglamento vigente para la aplicación de correctivos disciplinarios a los elementos de Seguridad pública, informando a la Coordinación de Capacitación y Profesionalización y a Sindicatura Municipal de la sanción impuesta y su cumplimiento;
+X. Imponer las correcciones disciplinarias de conformidad con lo establecido en el artículo 138 de la Ley de Seguridad Pública del Estado de Baja California, informando a la Coordinación de Profesionalización, a la Coordinación Administrativa y a la Sindicatura Municipal de la sanción impuesta y su cumplimiento;
 
 XI. Elaborar proyectos y programas, planes y estrategias para el desarrollo de operativos específicos sobre asuntos encomendados y eventos que requieran de su especialidad;
 
@@ -395,9 +445,13 @@ XVI. En materia de amparo, contestar los informes justificados y ser parte del j
 
 XVII. En general, operar la función técnica de organización, ejecución y desarrollo de la prestación del servicio público encomendado basada en los principios de simplificación, transparencia, racionalidad y honestidad, con el propósito de lograr una administración eficiente, ágil y oportuna;
 
-XVIII. Certificar y/o cotejar los documentos que se requiera y que se presenten, pertenezcan o se encuentren en los archivos de la Secretaría;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XIX. Las demás que establezcan las Leyes, reglamentos o le ordene el Secretario.
+XVIII. Certificar y/o cotejar los documentos que se requiera y que se presenten, pertenezcan o se encuentren en los archivos de la Dirección;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XIX. Las demás que establezcan las Leyes, reglamentos o le ordene el Director.
 
 ## Título Cuarto. DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -407,29 +461,43 @@ XIX. Las demás que establezcan las Leyes, reglamentos o le ordene el Secretario
 
 Al frente de cada Coordinación habrá un Coordinador General, a quien le corresponde:
 
-I. Acordar con el Secretario el despacho de los asuntos relevantes de las Unidades Administrativas a su encargo;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-II. Desempeñar las comisiones, funciones que el Secretario les delegue y encomiende y mantenerlo informado sobre el desarrollo de sus actividades;
+I. Acordar con el Director el despacho de los asuntos relevantes de las Unidades Administrativas a su encargo;
 
-III. Someter a la aprobación del Secretario, aquellos estudios y proyectos de disposiciones, bases, reglamentos de carácter general, normas, lineamientos y políticas que se elaboren en el área respectiva de su responsabilidad y que así lo ameriten;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+II. Desempeñar las comisiones, funciones que el Director les delegue y encomiende y mantenerlo informado sobre el desarrollo de sus actividades;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+III. Someter a la aprobación del Director, aquellos estudios y proyectos de disposiciones, bases, reglamentos de carácter general, normas, lineamientos y políticas que se elaboren en el área respectiva de su responsabilidad y que así lo ameriten;
 
 IV. Vigilar que en los asuntos de su competencia se de cumplimiento a los ordenamientos legales y a las disposiciones que resulten aplicables;
 
-V. Coordinar las labores a su encargo y establecer mecanismos de integración e interrelación que propicien el óptimo desarrollo de las responsabilidades que competen a la Secretaría;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+V. Coordinar las labores a su encargo y establecer mecanismos de integración e interrelación que propicien el óptimo desarrollo de las responsabilidades que competen a la Dirección;
 
 VI. Planear, programar, organizar, dirigir y controlar el funcionamiento de las Unidades administrativas que se le hubieren adscrito;
 
 VII. Formular los anteproyectos de programas y de presupuesto que le corresponden;
 
-VIII. Dictar las medidas administrativas de mejoramiento en las unidades que se le hubieren adscrito y proponer al Secretario la delegación de atribuciones que se le hayan encomendado, a sus subalternos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VIII. Dictar las medidas administrativas de mejoramiento en las unidades que se le hubieren adscrito y proponer al Director la delegación de atribuciones que se le hayan encomendado, a sus subalternos;
 
 IX. Recibir en acuerdo ordinario a los titulares de las unidades administrativas que le hubieren adscrito y en acuerdo extraordinario a cualquier servidor público subalterno, así como conceder audiencia al público;
 
 X. Suscribir documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia, así como certificar copias de los documentos que obren en el archivo de las unidades administrativas a su encargo;
 
-XI. Proporcionar información, datos o la cooperación técnica que le sean requeridos por otras dependencias del Ayuntamientos (sic), de acuerdo a las normas y políticas que hubiere expedido y señalado el Secretario;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XII. Las demás que establezcan las Leyes, reglamentos o le ordene el Secretario.
+XI. Proporcionar información, datos o la cooperación técnica que le sean requeridos por otras dependencias del Ayuntamientos (sic), de acuerdo a las normas y políticas que hubiere expedido y señalado el Director;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XII. Las demás que establezcan las Leyes, reglamentos o le ordene el Director.
 
 ### Capítulo II. DE LA COORDINACIÓN DE PLANEACIÓN Y EVALUACIÓN
 
@@ -437,13 +505,21 @@ XII. Las demás que establezcan las Leyes, reglamentos o le ordene el Secretario
 
 Corresponde a la Coordinación de Planeación y Evaluación:
 
-I. Auxiliar en la ejecución de las atribuciones que competen a la Secretaría y que no se atribuya expresamente a otra unidad administrativa, coordinación o dirección, así como atender, tramitar y responder solicitudes de audiencia que el Secretario de Seguridad indique, y en su caso, hacer el seguimiento de las resoluciones adoptadas;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-II. Coordinar las actividades de la Secretaría en la elaboración del Plan Municipal de Seguridad Pública, así como dar seguimiento al cumplimiento del mismo;
+I. Auxiliar en la ejecución de las atribuciones que competen a la Dirección y que no se atribuya expresamente a otra unidad administrativa, coordinación o Subdirección, así como atender, tramitar y responder solicitudes de audiencia que el Director de Seguridad indique, y en su caso, hacer el seguimiento de las resoluciones adoptadas;
 
-III. Elaborar con la participación de las direcciones operativas, coordinaciones generales o unidades administrativas y delegados municipales según corresponda, los programas anuales, estratégicos y de operación que se requieran, con sujeción a las previsiones presupuestales y metas contenidas en el Plan Municipal de Seguridad Pública. Los programas especiales circunscritos a un evento o región geográfica del Municipio deberán ser sometidos a la aprobación del Secretario;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-IV. Diseñar, establecer y coordinar el registro de actividades y los sistemas de auto-evaluación integral de las operaciones y seguimiento de la gestión y desempeño del servicio público, que desarrolle la unidad administrativa o Dirección correspondiente;
+II. Coordinar las actividades de la Dirección en la elaboración del Plan Municipal de Seguridad Pública, así como dar seguimiento al cumplimiento del mismo;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+III. Elaborar con la participación de las Subdirecciones operativas, coordinaciones generales o unidades administrativas y delegados municipales según corresponda, los programas anuales, estratégicos y de operación que se requieran, con sujeción a las previsiones presupuestales y metas contenidas en el Plan Municipal de Seguridad Pública. Los programas especiales circunscritos a un evento o región geográfica del Municipio deberán ser sometidos a la aprobación del Director;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IV. Diseñar, establecer y coordinar el registro de actividades y los sistemas de auto-evaluación integral de las operaciones y seguimiento de la gestión y desempeño del servicio público, que desarrolle la unidad administrativa o Subdirección correspondiente;
 
 V. Promover la eficiencia en la operación diaria, verificar el cumplimiento de los objetivos y en su caso, formular las observaciones y recomendaciones necesarias, establecer un seguimiento sistemático en la aplicación de dichas recomendaciones. Al efecto, verificar reuniones periódicas con los directores operativos, coordinadores administrativos y delegados municipales para recabar los informes y verificar las medidas adoptadas al respecto;
 
@@ -455,17 +531,29 @@ VIII. Estudiar y analizar la información estadística y los índices delictivos
 
 IX. Difundir estudios e investigaciones que se realicen en materia de prevención del delito y de seguridad pública;
 
-X. Recabar informes y datos técnicos necesarios, sobre medidas de supervisión y dar seguimiento a los planes, proyectos, políticas y disposiciones administrativas, normas y lineamientos aprobados por el Secretario de Seguridad Pública Municipal;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XI. Proponer la actualización del marco legal y normativo de la Secretaría, así como coordinar, supervisar y evaluar la operación de las Unidades Jurídica, Sistemas, Estadística, Comunicación y Programas Especiales;
+X. Recabar informes y datos técnicos necesarios, sobre medidas de supervisión y dar seguimiento a los planes, proyectos, políticas y disposiciones administrativas, normas y lineamientos aprobados por el Director de Seguridad Pública Municipal;
 
-XII. Proponer al Secretario los Manuales de Organización general y los especiales, así como recabar la información, formular y definir las guías técnicas para la elaboración de los manuales específicos de normas y procedimientos de servicios al público y de los procesos que resulten necesarios para el mejor funcionamiento de la Secretaría, verificar su actualización y promover su registro y difusión;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XIII. Estudiar y evaluar la estructura de organización y operación de los procesos y servicios brindados por las Unidades Administrativas de la Secretaría para el mejor desarrollo de sus labores, así como dictar las modificaciones concernientes, y;
+XI. Proponer la actualización del marco legal y normativo de la Dirección, así como coordinar, supervisar y evaluar la operación de las Unidades Jurídica, Sistemas, Estadística, Comunicación y Programas Especiales;
 
-XIV. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-### Capítulo III. DE LA COORDINACION ADMINISTRATIVA
+XII. Proponer al Director los Manuales de Organización general y los especiales, así como recabar la información, formular y definir las guías técnicas para la elaboración de los manuales específicos de normas y procedimientos de servicios al público y de los procesos que resulten necesarios para el mejor funcionamiento de la Dirección, verificar su actualización y promover su registro y difusión;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XIII. Estudiar y evaluar la estructura de organización y operación de los procesos y servicios brindados por las Unidades Administrativas de la Dirección para el mejor desarrollo de sus labores, así como dictar las modificaciones concernientes, y;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XIV. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Director.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo III. DE LA COORDINACIÓN ADMINISTRATIVA
 
 ###### Artículo 28.
 
@@ -473,61 +561,87 @@ Corresponde a la Coordinación Administrativa:
 
 I. Administrar los recursos humanos, financieros, materiales y proporcionar los servicios que requieran las áreas operativas de acuerdo a las políticas establecidas por Oficialía Mayor y las Normas Técnicas Municipales;
 
-II. Coordinar e integrar el presupuesto de egresos de la Secretaría de Seguridad Pública Municipal y de las Direcciones operativas, así como realizar su ejercicio, control y evaluación de acuerdo a las normas señaladas por la Secretaría de Administración y Finanzas y la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-III. Proponer al titular los objetivos, políticas, programas, estructura orgánica y procedimientos administrativos que se requieran tendientes a mejorar el cumplimiento de las atribuciones y servicios institucionales de la Secretaría;
+II. Coordinar e integrar el presupuesto de egresos de la Dirección de Seguridad Pública Municipal y de las Subdirecciones operativas, así como realizar su ejercicio, control y evaluación de acuerdo a las normas señaladas por la Dirección de Planeación y Gestión Financiera y la Tesorería Municipal;
 
-IV. Proporcionar a las Direcciones Operativas y a las unidades administrativas adscritas a la Secretaría los servicios, recursos materiales, financieros y humanos que requieran para el desarrollo de sus funciones y vigilar que sean administrados en forma racional, de acuerdo a disposiciones de Oficialía Mayor;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-V. Determinar en acuerdo con el Secretario y el Oficial Mayor del Ayuntamiento la vacante de plazas, así como participar en el proceso de reclutamiento y selección de personal, en coordinación con la unidad de profesionalización y tramitar en el registro nacional la alta del personal de nuevo ingreso y, en su caso, la licencia de portación de armas;
+III. Proponer al titular los objetivos, políticas, programas, estructura orgánica y procedimientos administrativos que se requieran tendientes a mejorar el cumplimiento de las atribuciones y servicios institucionales de la Dirección;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IV. Proporcionar a las Subdirecciones Operativas y a las unidades administrativas adscritas a la Dirección los servicios, recursos materiales, financieros y humanos que requieran para el desarrollo de sus funciones y vigilar que sean administrados en forma racional, de acuerdo a disposiciones de Oficialía Mayor;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+V. Determinar en acuerdo con el Director y el Oficial Mayor del Ayuntamiento la vacante de plazas, así como participar en el proceso de reclutamiento y selección de personal, en coordinación con la unidad de profesionalización y tramitar en el registro nacional la alta del personal de nuevo ingreso y, en su caso, la licencia de portación de armas;
 
 VI. Coordinar y operar el sistema de remuneración del personal y tramitar las incidencias, bajas, incapacidades, licencias, cambios de adscripción del personal y proponer las designaciones, promociones y asignación de sueldos o compensaciones;
 
 VII. Realizar los estudios relativos a la organización y puesta en marcha de programas y mecanismos de evaluación de la operación y el manejo eficiente y eficaz de recursos;
 
-VIII. Proponer lineamientos y normas para regular la asignación, utilización, conservación, aseguramiento, reparación, mantenimiento, rehabilitación y aprovechamiento de los bienes muebles e inmuebles al servicio de las Direcciones y unidades administrativas de la Secretaría;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VIII. Proponer lineamientos y normas para regular la asignación, utilización, conservación, aseguramiento, reparación, mantenimiento, rehabilitación y aprovechamiento de los bienes muebles e inmuebles al servicio de las Direcciones y unidades administrativas de la Dirección;
 
 IX. Aplicar las normas y supervisar los sistemas de control de inventarios de bienes muebles, dictaminar y vigilar la afectación, baja y destino final de los mismos, de acuerdo a disposiciones de Oficialía Mayor y las Normas Técnicas Municipales aplicables;
 
 X. Autorizar las adquisiciones con cargo al presupuesto que a su atribución corresponda;
 
-XI. Llevar el registro y control del parque vehicular y las bitácoras de servicio mecánico, asignación y ubicación de los vehículos de la Secretaría;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XI. Llevar el registro y control del parque vehicular y las bitácoras de servicio mecánico, asignación y ubicación de los vehículos de la Dirección;
 
 XII. Coordinar, supervisar y evaluar la operación de las unidades de recursos humanos, financieros administrativos, materiales y taller mecánico y de servicios y, en su caso, dictar los mecanismos de control y mejora administrativa;
 
-XIII. Establecer y mantener actualizada la credencial, gafete, conchas y placas oficiales de identificación del personal de la Secretaría, coordinándose para tal efecto con el Oficial Mayor del Ayuntamiento;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XIV. Verificar anualmente los antecedentes no penales de todo el personal de la Secretaría en el Registro Nacional de Seguridad Pública;
+XIII. Establecer y mantener actualizada la credencial, gafete, conchas y placas oficiales de identificación del personal de la Dirección, coordinándose para tal efecto con el Oficial Mayor del Ayuntamiento;
 
-XV. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE FEBRERO DE 2008)</small>
+XIV. Verificar anualmente los antecedentes no penales de todo el personal de la Dirección en el Registro Nacional de Seguridad Pública;
 
-### Capítulo IV. DE LA COORDINACIÓN DE CAPACITACIÓN Y PROFESIONALIZACIÓN
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2008)</small>
+XV. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Director.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo IV. DE LA COORDINACIÓN DE PROFESIONALIZACIÓN
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 29.
 
-La Coordinación de Capacitación y Profesionalización de la Secretaría, es el órgano competente para promover la dignificación de los Cuerpos Preventivos de Seguridad Pública mediante la institucionalización y desarrollo del Programa General de Formación Académica y de los programas específicos que de él se deriven, determinando la curricula de materias y conocimientos que servirán de base para la capacitación, adiestramiento, actualización, promoción, permanencia o separación del servicio, así como evaluación y ascenso de los elementos de seguridad preventiva.
+La Coordinación de Profesionalización de la Dirección, es el órgano competente para promover la dignificación de los Cuerpos Preventivos de Seguridad Pública mediante la institucionalización y desarrollo del Programa General de Formación Académica y de los programas específicos que servirán de base para la capacitación, adiestramiento, actualización, promoción, permanencia o separación del servicio, así como evaluación y ascenso de los Miembros de seguridad preventiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 30.
 
-Corresponde a la Coordinación de Capacitación y Profesionalización:
+Corresponde a la Coordinación de Profesionalización:
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-I. Formar y preparar a los elementos de la Secretaría con la finalidad de alcanzar el desarrollo profesional, técnico, humanístico, científico, físico y cultural, en el marco de respeto a los Derechos Humanos y al Estado de Derecho;
+I. Formar y preparar a los Miembros de la Dirección, con la finalidad de alcanzar el desarrollo profesional, técnico, humanístico, científico, físico y cultural, en el marco de respeto a los Derechos Humanos y al Estado de Derecho;
 
-II. Actualizar y perfeccionar los conocimientos, destrezas y habilidades de los elementos en activo, conforme a las especialidades y capacidades requeridas en cada una de las áreas con que cuenta la Secretaría;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-III. Convocar en unión con el Secretario a los concursos de promoción y ascenso de los elementos de la Secretaría;
+II. Actualizar y perfeccionar los conocimientos, destrezas y habilidades de los Miembros en activo, conforme a las especialidades y capacidades requeridas en cada una de las áreas con que cuenta la Dirección;
 
-IV. Impartir conocimientos a los miembros de seguridad pública sobre la organización, administración, dirección y supervisión de los servicios que ofrece la Secretaría;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-V. Promover los programas de educación abierta, en coordinación con las instituciones de educación media superior, para efecto de mejorar el nivel de conocimiento de los integrantes de los cuerpos preventivos adscritos a la Secretaría;
+III. Convocar en unión con el Director a los concursos de promoción y ascenso de los Miembros de la Dirección;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IV. Impartir conocimientos a los miembros de seguridad pública sobre la organización, administración, dirección y supervisión de los servicios que ofrece la Dirección;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+V. Promover los programas de educación abierta, en coordinación con las instituciones de educación media superior, para efecto de mejorar el nivel de conocimiento de los integrantes de los Miembros de Seguridad Pública de la Dirección;
 
 VI. Elaborar, controlar, sistematizar y actualizar los registros de formación recibida por cadete o miembro de seguridad pública, de calificación, mérito o evaluación, para promoción o ascenso de acuerdo a sus respectivos ámbitos de competencia;
 
@@ -545,35 +659,45 @@ XII. Planear conjuntamente con las Instituciones de formación en el ámbito de 
 
 XIII. Coordinar, supervisar y evaluar la operación del Centro de Profesionalización y Capacitación Académica en materia de Seguridad Pública Municipal, unidad de apoyo Psicológico y la unidad de reclutamiento, selección del recurso humano y demás áreas que a la coordinación se adscriban;
 
-XIV. Realizar, evaluar y mantener actualizado el registro sinalagmático, para el caso de ingreso al Centro de Profesionalización y Capacitación Académica, así como el banco de recursos humanos y el registro de la actualización y profesionalización de los elementos de la Secretaría para los efectos de evaluación y desarrollo de los mismos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XV. Integrar el Registro del Personal de Seguridad Pública, incorporando las incidencias, así como la información de los servidores públicos de la Secretaria que hayan sido sancionados;
+XIV. Realizar, evaluar y mantener actualizado el registro sinalagmático, para el caso de ingreso al Centro de Profesionalización y Capacitación Académica, así como el banco de recursos humanos y el registro de la actualización y profesionalización de los Miembros de la Dirección para los efectos de evaluación y desarrollo de los mismos;
 
-XVI. Gestionar la participación de instituciones públicas, sociales y privadas en programas de acción que fortalezcan los valores de los elementos y sus familias y propicie una mayor integración con éstas, y;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2008)</small>
+XV. Integrar el Registro del Personal de Seguridad Pública, incorporando las incidencias, así como la información de los servidores públicos de la Dirección que hayan sido sancionados;
 
-XVII. Solicitar y proponer al Secretario y a la Comisión de Seguridad Pública del Cabildo los nombres y antecedentes del personal para iniciar el tramite de evaluación de meritos, otorgamiento de grado y reconocimiento de los miembros de Bomberos, Policia y Tránsito remitiendo para ello el expediente respectivo y, en su caso, fungir como ponente y representante de los intereses de la Secretaría en los asuntos que se sometan a la Comisión;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XVIII. Proponer un sistema de estímulos y recompensas al personal que reconozca el esfuerzo, dedicación y empeño desarrollado en el cumplimiento de su deber, de conformidad con el reglamento aplicable y los lineamientos que dicte la Oficialía Mayor del Ayuntamiento y el Secretario de Seguridad Pública;
+XVI. Gestionar la participación de instituciones públicas, sociales y privadas en programas de acción que fortalezcan los valores de los Miembros y sus familias y propicie una mayor integración con éstas, y;
 
-XIX. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XVII. Solicitar y proponer al Director y a la Comisión de Seguridad, Tránsito y Transporte del Cabildo los nombres y antecedentes del personal para iniciar el trámite de evaluación de méritos, otorgamiento de grado y reconocimiento de los miembros de Bomberos, Policía y Tránsito, remitiendo para ello el expediente respectivo y, en su caso, fungir como ponente y representante de los intereses de la Dirección en los asuntos que se sometan a la Comisión;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XVIII. Proponer un sistema de estímulos y recompensas al personal que reconozca el esfuerzo, dedicación y empeño desarrollado en el cumplimiento de su deber, de conformidad con el reglamento aplicable y los lineamientos que dicte la Oficialía Mayor del Ayuntamiento y el Director de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XIX. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Director.
 
 ###### Artículo 31.
 
-El Centro de Profesionalización y Capacitación Académica depende de la Secretaría de Seguridad Pública Municipal, quien a través de la Coordinación de Profesionalización, desarrollará y ejecutará las estrategias de capacitación y actualización de quienes pretendan ingresar al servicio en calidad de cadetes o de los elementos en activo, mandos medios y superiores de Seguridad Pública Municipal que pretendan participar en concursos de promoción.
-
-El Centro de Profesionalización y Capacitación utilizará los planteles que le sean asignados y los necesarios para la debida organización, funcionamiento y ejecución ordenada de la materia o curso impartido.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2014)
 
 ###### Artículo 32.
 
 Con el fin de adquirir los conocimientos teóricos y prácticos que conlleve a la profesionalización de los cuerpos preventivos de seguridad pública municipal, los cursos de formación, actualización, capacitación, adiestramiento y formación profesional tendrán el carácter de obligatorios, su instrucción será conforme a la disciplina militar y serán requisito indispensable para aspirar a participar en concursos de promoción a grados superiores de responsabilidad jerárquica y laboral.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 33.
 
-La Secretaría seleccionará de entre los cadetes a quienes teniendo los conocimientos y aptitudes necesarias para ingresar a los cuerpos preventivos de seguridad pública municipal, hubieran obtenido las calificaciones más altas. Para el ingreso de personal será requisito indispensable el haber acreditado el curso de formación y adiestramiento básico.
+La Dirección seleccionará de entre los cadetes de la Academia de Seguridad Pública del Estado de Baja California (ASPE) a quienes teniendo los conocimientos y aptitudes necesarias para ingresar a los cuerpos preventivos de seguridad pública municipal, hubieran obtenido las calificaciones más altas. Para el ingreso de personal será requisito indispensable el haber acreditado el curso de formación y adiestramiento básico.
 
-El Secretario en coordinación con los Directores operativos podrá disponer que los cadetes que se encuentren a mitad del curso básico de formación, realicen las prácticas en la función que tendrán al concluir su preparación académica elemental.
+El Director en coordinación con los (sic) Subdirector de Policía y Tránsito podrá disponer que los cadetes de la ASPE que se encuentren a mitad del curso básico de formación, realicen las prácticas en la función que tendrán al concluir su preparación académica elemental.
 
 ### Capítulo V. DE LA COORDINACIÓN DE SISTEMAS
 
@@ -581,21 +705,33 @@ El Secretario en coordinación con los Directores operativos podrá disponer que
 
 Corresponde a la Coordinación de Sistemas:
 
-I. Captar y procesar la información correspondiente a las diligencias, traslados, reportes, operativos, ordenes de localización, presentaciones, cita, auxilios, detenciones, multas, infracciones, amonestaciones, turnos al Ministerio Público, simulacros, incendios, inspecciones, sanciones, permisos, autorizaciones y demás actividades con objeto de emitir informes y estadísticas de utilidad para la Secretaría;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+I. Captar y procesar la información correspondiente a las diligencias, traslados, reportes, operativos, ordenes de localización, presentaciones, cita, auxilios, detenciones, multas, infracciones, amonestaciones, turnos al Ministerio Público, simulacros, incendios, inspecciones, sanciones, permisos, autorizaciones y demás actividades con objeto de emitir informes y estadísticas de utilidad para la Dirección;
 
 II. Registrar, analizar y clasificar los índices de infracciones, delitos, faltas administrativas en las distintas zonas del municipio, con el objeto de auxiliar en la toma de decisiones para la aplicación de los recursos;
 
-III. Elaborar y mantener actualizado el registro de infracciones administrativas o delitos, características de la actividad sancionada cuya investigación y seguimiento sea competencia de la policía o de tránsito y transportes, antecedentes de criminalidad, modo de operación y zonas o lugares afectadas y en general todos los datos que de conformidad con las instrucciones de la Secretaría resulten útiles para el cumplimiento del servicio;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-IV. Coordinar los sistemas de información y estadísticas de la Secretaría, procesando la información pertinente que obligatoriamente deberán proporcionarle las Direcciones, las Delegaciones Municipales y las diversas unidades administrativas;
+III. Elaborar y mantener actualizado el registro de infracciones administrativas o delitos, características de la actividad sancionada cuya investigación y seguimiento sea competencia de la policía o de tránsito y transportes, antecedentes de criminalidad, modo de operación y zonas o lugares afectadas y en general todos los datos que de conformidad con las instrucciones de la Dirección resulten útiles para el cumplimiento del servicio;
 
-V. Establecer y operar las redes de datos internas y generar la información estadísticas que le requieran las Direcciones, las Delegaciones Municipales, Sindicatura Municipal y las diversas unidades administrativas de la Secretaría, así como integrar, para la difusión pública, aquella información Institucional de interés general;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-VI. Desarrollar los sistemas informáticos, así como elaborar y ejecutar los programas de mantenimiento del equipo de cómputo y de comunicación, efectuar el registro y la asignación de radios y equipos computacionales a las Direcciones Operativas y unidades administrativas de la Secretaría, vigilando la adecuada operación y uso de programas, radios y frecuencias radioeléctricas asignadas a la Secretaría;
+IV. Coordinar los sistemas de información y estadísticas de la Dirección, procesando la información pertinente que obligatoriamente deberán proporcionarle las Subdirecciones, las Delegaciones Municipales y las diversas unidades administrativas;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+V. Establecer y operar las redes de datos internas y generar la información estadísticas que le requieran las Subdirecciones, las Delegaciones Municipales, Sindicatura Municipal y las diversas unidades administrativas de la Dirección, así como integrar, para la difusión pública, aquella información Institucional de interés general;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VI. Desarrollar los sistemas informáticos, así como elaborar y ejecutar los programas de mantenimiento del equipo de cómputo y de comunicación, efectuar el registro y la asignación de radios y equipos computacionales a las Subdirecciones Operativas y unidades administrativas de la Dirección, vigilando la adecuada operación y uso de programas, radios y frecuencias radioeléctricas asignadas a la Dirección;
 
 VII. Formular propuestas normativas y programáticas tendientes a lograr un desarrollo informático caracterizado por la actualización tecnológica, pertinente y óptima utilización de los equipos y programas de cómputo;
 
-VIII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VIII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Director.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE FEBRERO DE 2008)</small>
 
@@ -603,7 +739,7 @@ VIII. Las demás atribuciones que le confieran las disposiciones jurídicas apli
 
 ###### Artículo 35.
 
-(DEROGADO, P.O. 22 DE FEBRERO DE 2008)
+(DEROGADO, P.O. 22 DE FEBRERO DE 2008) (REPUBLICADO, P.O. 26 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2008)</small>
 
@@ -611,11 +747,11 @@ VIII. Las demás atribuciones que le confieran las disposiciones jurídicas apli
 
 ###### Artículo 36.
 
-(DEROGADO, P.O. 22 DE FEBRERO DE 2008)
+(DEROGADO, P.O. 22 DE FEBRERO DE 2008) (REPUBLICADO, P.O. 26 DE DICIEMBRE DE 2014)
 
 ###### Artículo 37.
 
-(DEROGADO, P.O. 22 DE FEBRERO DE 2008)
+(DEROGADO, P.O. 22 DE FEBRERO DE 2008) (REPUBLICADO, P.O. 26 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE FEBRERO DE 2008)</small>
 
@@ -623,41 +759,59 @@ VIII. Las demás atribuciones que le confieran las disposiciones jurídicas apli
 
 ###### Artículo 38.
 
-(DEROGADO, P.O. 22 DE FEBRERO DE 2008)
+(DEROGADO, P.O. 22 DE FEBRERO DE 2008) (REPUBLICADO, P.O. 26 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE FEBRERO DE 2008)</small>
 
 ### Capítulo IX. DE LA COORDINACIÓN DE PREVENCIÓN DEL DELITO
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-###### Artículo 38 Bis.
+Artículo 38 BIS.- Corresponde a la coordinación:
 
-Corresponde a la Coordinación:
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2008)</small>
 
 I. Crear, Diseñar y Generar campañas preventivas, encaminadas a la disminución de accidentes vehiculares, consumo de drogas y conductas delictivas.
 
-II. Coordinación entre comunidad y la Secretaría, buscando un acercamiento en la prevención del delito, tomando como base la participación ciudadana.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-III. Aplicar los programas preventivos en la comunidad en general, como en escuelas (jardines de niños, primarias, secundarias, preparatorias y universidades), empresas en general y colonias.
+II. Coordinación entre comunidad y la Dirección, buscando un acercamiento en la prevención del delito, tomando como base la participación ciudadana.
 
-IV. Generar estrategias de participación ciudadana, a través de programas coordinados entre la Secretaría de Seguridad Pública Municipal y la Comunidad.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+III. Aplicar los programas preventivos en la comunidad en general, como en escuelas (jardines de niños, primarios, secundarios, preparatorios y universidades), empresas en general y colonias.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IV. Generar estrategias de participación ciudadana, a través de programas coordinados entre la Dirección de Seguridad Pública Municipal y la comunidad.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2008)</small>
 
 V. Difundir la cultura de la legalidad en cada uno de los programas que se implementan, como vigilancia por vecinos, educación vial, D.A.R.E., Manejo defensivo, Prevención de adicciones y Seguridad Escolar.
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2008)</small>
+
 VI. Actualizar los programas preventivos adecuándolos a la realidad existente. Conforme a la problemática real que se va presentando en la Sociedad.
 
-VII. Informar al Secretario de los programas y acciones en materia de prevención del delito, que sean presentados ante la comunidad.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-VIII. Representar a la Secretaría, previo acuerdo con el Secretario, en las funciones que se le encomienden ante los comités de vecinos unidos, relativo a las actividades que éstos desarrollan, así como ante las autoridades federales, estatales y municipales, y entidades no gubernamentales que implementen programas y operativos preventivos del delito en apoyo a los valores de la familia y la sociedad.
+VII. Informar al Director de los programas y acciones en materia de prevención del delito, que sean presentados a la comunidad.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VIII. Representar a la Dirección, previo acuerdo con el Director en las funciones que se le encomienden ante los comités de vecinos unidos, relativo a las actividades que éstos desarrollan, así como ante las autoridades federales estatales, municipales, y entidades no gubernamentales que implementen programas y operativos preventivos del delito en apoyo a los valores de la familia y la sociedad.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2008)</small>
 
 IX. Sesionar con los comités de vecinos, brindando temas de capacitación relativos a la familia, paternidad responsable, comunicación, valores en la sociedad, adicciones y sobre violencia intrafamiliar.
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2008)</small>
+
 X. Implementar brigadas preventivas del delito en coordinación con instituciones públicas federales, estatales, municipales, así como privadas y organismos no gubernamentales.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-### Capítulo X. DE LA COORDINACION DE ESTRATEGIA Y LOGISTICA OPERATIVA
+### Capítulo X. DE LA COORDINACIÓN DE ESTRATEGIA Y LOGÍSTICA OPERATIVA
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2008)</small>
 
@@ -665,9 +819,13 @@ X. Implementar brigadas preventivas del delito en coordinación con institucione
 
 Corresponde a la Coordinación de Estrategia y Logística Operativa:
 
-I. Asesorar al Secretario de Seguridad Pública, Directores de Área, Sub directores Operativos, Comandantes, Subcomandantes, Jefes de Grupo y Agentes sobre la Operatividad Policial.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-II. Diseñar programas de operatividad en materia de seguridad pública, ejecutándolos de acuerdo a la vocación de cada una de las áreas de la Secretaria.
+I. Asesorar al Director de Seguridad Pública, Subdirectores Operativos, Comandantes, Sub comandantes, Jefes de Grupo y Agentes sobre la Operatividad Policial.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+II. Diseñar programas de operatividad en materia de seguridad pública, ejecutándolos de acuerdo a la vocación de cada una de las áreas de la Dirección.
 
 III. Diseñar las estrategias operativas para atender de inmediato los requerimientos de auxilio que soliciten otras autoridades y/o en casos especiales o de emergencia.
 
@@ -675,55 +833,69 @@ IV. Analizar y evaluar la información que emane de las diferentes áreas de la 
 
 V. Coordinar, sistematizar, vigilar, analizar y canalizar al Sistema Nacional de Seguridad Pública, y otras instancias de gobierno que así lo requieran, la información sobre seguridad pública que se generen (sic) producto de la incidencia y del trabajo operativo.
 
-VI. Promover la capacitación operativa del personal de la secretaría en cada uno de los ramos, materias y especialidades que correspondan.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-VII Promover la especialización operativa de los agentes de policía, de acuerdo a sus vocaciones y aptitudes.
+VI. Promover la capacitación operativa del personal de la Dirección en cada uno de los ramos, materias y especialidades que correspondan.
 
-## Título Quinto. DE LA INTEGRACION Y ORDEN JERARQUICO DE MANDO
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VII. Promover la especialización operativa de los agentes de policía de acuerdo a sus vocaciones y aptitudes.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+## Título Quinto. DE LA INTEGRACIÓN Y ORDEN JERÁRQUICO DE MANDO
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 39.
 
-Las relaciones jerárquicas en la Secretaría de Seguridad Pública, la organización territorial y la estructura operativa en el municipio, así como otros componentes de mando, dirección y disciplina, serán determinados conforme al presente Reglamento, así como en los Reglamentos y Manuales de Operación que en la materia específica de Policía y Tránsito, Bomberos, elabore y emita el Ayuntamiento y la Secretaría, según corresponda.
+Las relaciones jerárquicas en la Dirección de Seguridad Pública, la organización territorial y la estructura operativa en el municipio, así como otros componentes de mando, dirección y disciplina, serán determinados conforme al presente Reglamento, así como en los Reglamentos y Manuales de Operación que en la materia específica de Policía y Tránsito y Bomberos, elabore y emita el Ayuntamiento y la Dirección, según corresponda.
 
 ###### Artículo 40.
 
 Se entenderá por mando a la autoridad ejercida por un superior jerárquico, sobre sus iguales o inferiores en jerarquía, cuando en razón de su nombramiento, categoría, cargo o comisión se encuentren subordinados al que lo ejerce.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 41.
 
-Para el cumplimiento de las funciones y atribuciones, así como para el desarrollo de las operaciones en cuanto a dirección y disciplina, la Secretaria contará con los niveles de mando siguientes:
+Para el cumplimiento de las funciones y atribuciones, así como para el desarrollo de las operaciones en cuanto a dirección y disciplina, la Dirección contará con los niveles de mando siguientes:
 
 I. Alto Mando
 
-I. Mando Superior
+II. Mando Superior
 
 III. Mandos Operativos
 
 IV. Mandos Subordinados
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 42.
 
-El Alto Mando de los Cuerpos de Seguridad Pública Municipal, corresponde al Presidente Municipal quien lo ejercerá por sí o por conducto del Secretario de Seguridad Pública Municipal.
+El Alto Mando de los Cuerpos de Seguridad Pública Municipal, corresponde al Presidente Municipal quien lo ejercerá por sí o por conducto del Director de Seguridad Pública Municipal.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
+El Director ejercerá el alto mando, entendido éste como la representación de la propia Dirección y la autoridad que se ejerce sobre los Miembros que integran el cuerpo de policía y tránsito y bomberos, que se encuentran en servicio activo.
 
-El Secretario ejercerá el alto mando, entendido éste como la representación de la propia Secretaria y la autoridad que se ejerce sobre los elementos que integran el cuerpo de policía preventiva, tránsito, transporte, bomberos, que se encuentran en servicio activo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 43.
 
-Los mandos superiores serán ejercidos por los titulares de las Direcciones operativas mencionadas en el artículo 22 del presente reglamento, circunscritas al desempeño de las funciones y atribuciones que a cada Dirección le atribuye el presente reglamento, así como los reglamentos y manuales de operación específicos de cada una de ellas.
+Los mandos superiores serán ejercidos por los titulares de las Subdirecciones operativas mencionadas en el Artículo 22 del presente reglamento, circunscritas al desempeño de las funciones y atribuciones que a cada una le atribuye el presente reglamento, así como los reglamentos y manuales de operación específicos de cada una de ellas.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 44.
 
-Los mandos operativos se ejercerán de acuerdo al orden jerárquico de su nombramiento en los términos que para cada Dirección, señala su respectivo reglamento y el Manual de Operación que corresponda.
+Los mandos operativos se ejercerán de acuerdo al orden jerárquico de su nombramiento en los términos que para cada Subdirección, señala su respectivo reglamento y el Manual de Operación que corresponda.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 45.
 
-Los mandos subordinados serán los no señalados en los artículos que anteceden, de acuerdo al propio esquema jerárquico que se establezca en los reglamentos de cada dirección y sus manuales de operación respectivos.
+Los mandos subordinados serán los no señalados en los Artículos que anteceden, de acuerdo al propio esquema jerárquico que se establezca en los reglamentos de cada Subdirección y sus manuales de operación respectivos.
 
 ###### Artículo 46.
 
@@ -737,15 +909,21 @@ II. Accidental: El que ejerce por ausencia temporal del titular que le impida de
 
 III. Incidental: El que se desempeña en casos imprevistos, por ausencia momentánea del titular o de quien ejerza el mando inmediato superior.
 
-En cualquier caso, solo los miembros de la Secretaría en servicio activo podrán ejercer mando.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+En cualquier caso, solo los miembros de la Dirección en servicio activo podrán ejercer mando.
 
 ###### Artículo 47.
 
 En los casos de ausencia temporal, impedimento, excusa u otros similares del mando titular, la orden y sucesión de mando se sujetara a las reglas siguientes:
 
-I. En ausencia del Secretario, el despacho y resolución de los asuntos correspondientes a la Secretaría estarán a cargo del Director Operativo que mediante acuerdo designe el Presidente Municipal;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-II. En Ausencia de un Director, el despacho corresponderá al subdirector. En caso de haber varios subdirectores el Secretario nombrara mediante acuerdo el subdirector que suplirá la falta y en caso de no haberlos, al jefe de departamento o unidad que determine el Secretario;
+I. En ausencia del Director, el despacho y resolución de los asuntos correspondientes a la Dirección estarán a cargo del Subdirector Operativo que mediante acuerdo designe el Presidente Municipal;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+II. En Ausencia de un Subdirector, el despacho corresponderá al Jefe de Departamento. En caso de haber varios Jefes de Departamento el Director nombrará mediante acuerdo al Jefe de Departamento que suplirá la falta y en caso de no haberlos, a la unidad que determine el Director;
 
 ###### Artículo 48.
 
@@ -773,7 +951,9 @@ I. Fomentar la vocación de servicio mediante la motivación y el establecimient
 
 II. Garantizar la estabilidad y la seguridad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones proporcional a la profesionalización y experiencia del personal;
 
-III. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización del recurso humano de la Secretaría; e,
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+III. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización del recurso humano de la Dirección; e,
 
 IV. Impulsar la capacitación y profesionalización permanente de los miembros de seguridad pública preventiva para asegurar la lealtad institucional y el apego a los principios de legalidad, eficiencia, profesionalismo, empatia, rectitud y honradez.
 
@@ -799,27 +979,37 @@ I. Cadetes: quienes estén realizando el curso de formación inicial o básica e
 
 II. Alumnos: los que estén realizando cursos específicos de actualización o de formación continua.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 53.
 
-Todos los aspirantes se sujetarán a las disposiciones aplicables al régimen interno del Centro de Profesionalización y Capacitación. Solo permanecerán en la Secretaría quienes cursen y aprueben los programas de formación y actualización.
+Todos los aspirantes se sujetarán a las disposiciones aplicables al régimen interno del Centro de Profesionalización y Capacitación. Solo permanecerán en la Dirección quienes cursen y aprueben los programas de formación y actualización.
 
 ###### Artículo 54.
 
 El reglamento de Profesionalización establecerá los criterios para la promoción de los miembros de las corporaciones, tomará en cuenta al menos: los meritos demostrados en el desempeño de las funciones, las aptitudes de mando y liderazgo y los resultados obtenidos en los programas de formación y actualización.
 
-Igualmente, los requisitos y procedimientos para la selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia y promoción de los miembros de la Secretaría serán establecidos en las disposiciones del Reglamento, atendiendo al perfil y a las funciones requeridas por el cargo que pretenda desarrollar.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+Igualmente, los requisitos y procedimientos para la selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia y promoción de los miembros de la Dirección serán establecidos en las disposiciones del Reglamento, atendiendo al perfil y a las funciones requeridas por el cargo que pretenda desarrollar.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 55.
 
-Para permanecer en la Secretaría, los integrantes deberán cumplir los requisitos previstos en el artículo 72 de la Ley de Seguridad Pública y Bases de Coordinación, los indicados en el articulo 11 de la Ley que regula la Relación Administrativa de los Miembros de las Instituciones Policiales, ambas del Estado de Baja California, los relativos señalados en el presente reglamento y los que establece el reglamento y el Manual de Profesionalización respectivo.
+Para permanecer en la Dirección, los integrantes deberán cumplir los requisitos previstos en el Artículo 117 de la Ley de Seguridad Pública del Estado de Baja California, los relativos señalados en el presente reglamento y los que establece el reglamento y el Manual de Profesionalización respectivo.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 56.
 
-Los miembros de la Policía Preventiva y de Tránsito y Transporte que dejen de cumplir cualquiera de los requisitos de permanencia, serán removidos de su cargo y dejaran de prestar sus servicios a la Secretaría de Seguridad Pública Municipal.
+Los miembros de la Policía Preventiva y de Tránsito y Transporte que dejen de cumplir cualquiera de los requisitos de permanencia, serán removidos de su cargo y dejaran de prestar sus servicios a la Dirección de Seguridad Pública Municipal.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 57.
 
-La promoción es el acto mediante el cual la Secretaría otorga a los miembros de la Institución, el grado inmediato superior al que ostenten, dentro del orden jerárquico de la Secretaria y sus respectivas Direcciones Operativas.
+La promoción es el acto mediante el cual la Dirección otorga a los miembros de la Institución, el grado inmediato superior al que ostenten, dentro del orden jerárquico de la Dirección y sus respectivas Subdirecciones Operativas.
 
 ###### Artículo 58.
 
@@ -841,9 +1031,11 @@ VII. Observar los deberes y obligaciones indicados en el reglamento correspondie
 
 VIII. Los demás que se señalen en la convocatoria respectiva.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 59.
 
-Para satisfacer las expectativas de desarrollo profesional de los miembros de la Secretaría, se establece el servicio civil de seguridad pública, a través del sistema de promociones y ascensos que fomente la vocación de servicio y la permanencia en la Institución.
+Para satisfacer las expectativas de desarrollo profesional de los miembros de la Dirección, se establece el servicio civil de seguridad pública, a través del sistema de promociones y ascensos que fomente la vocación de servicio y la permanencia en la Institución.
 
 ###### Artículo 60.
 
@@ -896,3 +1088,7 @@ P.O. 30 DE ABRIL DE 2010.
 > <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO RESOLUTIVO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
 
 SEXTO.- Una vez aprobado el presente dictamen publíquese el presente en el Periódico Oficial del Estado y en dos periódicos locales de mayor circulación, para conocimiento de los usuarios y para los efectos legales correspondientes.
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
