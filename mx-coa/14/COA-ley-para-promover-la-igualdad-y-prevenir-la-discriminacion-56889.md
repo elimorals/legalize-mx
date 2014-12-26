@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2009-05-12"
+last_updated: "2014-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACION EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACION EN EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -481,7 +481,7 @@ XVI. Proporcionar a las personas que presuntamente hayan sido discriminadas, ase
 
 XVII. Promover la presentación de quejas y denuncias ante las autoridades correspondientes, por actos u omisiones que puedan dar lugar a responsabilidades previstas en la presente ley u otras disposiciones legales;
 
-XVIll. Difundir periódicamente los avances, resultados e impactos de las políticas, programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad;
+XVIII. Difundir periódicamente los avances, resultados e impactos de las políticas, programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad;
 
 XIX. Divulgar los compromisos asumidos por el Estado Mexicano en los instrumentos internacionales que establecen disposiciones en la materia, así como promover su cumplimento en los diferentes ámbitos de gobierno;
 
@@ -515,13 +515,21 @@ Este reconocimiento se otorgará a solicitud de los interesados y certificará l
 
 ### CAPÍTULO SEXTO. DE LO PROCEDIMIENTO DE QUEJA
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 30.
 
-La Dirección admitirá, conocerá y resolverá los procedimientos de queja que se presenten con motivo de conductas o prácticas discriminatorias y/o contrarias a lo preceptuado por esta ley, realizadas por autoridad estatal o municipal, así como por particulares ya sean personas físicas o morales.
+La Dirección admitirá, conocerá y resolverá los procedimientos de queja que se presenten con motivo de conductas, omisiones o prácticas discriminatorias y/o contrarias a lo preceptuado por esta ley, o que se presuman como tales, realizadas por autoridad estatal o municipal, así como por particulares ya sean personas físicas o morales e impondrá en su caso las sanciones y medidas administrativas que esta ley previene.
+
+El procedimiento de queja que se tramite ante la Dirección, será breve y sencillo; se regirá por los principios de anti formalidad, inmediatez, concentración, buena fe y suplencia de la queja.
+
+Todas las actuaciones practicadas por personal de la Dirección con motivo de la integración de los expedientes de queja deberán constar en actas circunstanciadas.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 31.
 
-Los servidores públicos, las autoridades estatales y municipales a que se refiere el artículo 3 de esta ley, están obligados tanto a auxiliar al personal de la Dirección en el desempeño de sus funciones, como a rendir los informes que les soliciten en los términos establecidos por la misma ley.
+Los servidores públicos, las autoridades estatales y municipales a que se refiere el artículo 3 de esta ley, así como los particulares, sean personas físicas o morales están obligados tanto a auxiliar al personal de la Dirección en el desempeño de sus funciones, como a rendir los informes que les soliciten en los términos establecidos por la misma ley.
 
 ###### ARTÍCULO 32.
 
@@ -549,9 +557,13 @@ La Dirección, dentro del ámbito de su competencia, iniciará sus actuaciones a
 
 En todo lo no previsto en esta ley respecto a los procedimientos que la misma establece, se estará, en lo conducente, a lo dispuesto en el Código Procesal Civil de Coahuila.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 38.
 
-Las quejas que se presenten con motivo de un acto que contraríe los preceptos de la presente ley, podrán presentarse por escrito o comparecencia sin más señalamiento que el asunto que las motivó y los datos generales de quien, las presente, debiendo ratificarse con las formalidades establecidas en el párrafo anterior dentro de los cinco días hábiles siguientes, de lo contrario se tendrán por no presentadas.
+Las quejas que se presenten con motivo de un acto, omisión o práctica que contraríe los preceptos de la presente ley, podrán presentarse por escrito con la firma o huella digital y datos generales de la peticionaria, así como la narración de los hechos que las motiven.
+
+También podrán formularse verbalmente mediante comparecencia ante la Dirección, vía telefónica o por correo electrónico institucional, en estos supuestos deberán ratificarse dentro de los cinco días hábiles siguientes a su presentación, de lo contrario se tendrán por no presentadas.
 
 Será obligación de la Dirección, en su caso, suplir las deficiencias de la queja presentada e investigar de inmediato sobre los hechos denunciados.
 
@@ -559,7 +571,9 @@ Será obligación de la Dirección, en su caso, suplir las deficiencias de la qu
 
 Cuando la Dirección considere que la queja no reúne los requisitos señalados para su admisión, o sea evidentemente improcedente o infundada, se rechazará mediante acuerdo motivado y fundado que emitirá en un plazo máximo de cinco días hábiles. La Dirección lo notificará al interesado dentro de los cinco días siguientes a la resolución.
 
-No se admitirán quejas o reclamaciones anónimas.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+No se admitirán quejas anónimas ni aquellas que no expongan conductas o prácticas discriminatorias o éstas consistan en la reproducción de una queja ya examinada y resuelta anteriormente.
 
 ###### ARTÍCULO 40.
 
@@ -583,37 +597,61 @@ Una vez admitida la queja, la Dirección la notificará dentro de los siguientes
 
 En el informe, la autoridad o particular hará constar los antecedentes del asunto, los fundamentos y motivaciones de los actos u omisiones que se le imputan, la existencia de los mismos, en su caso, así como los elementos de información que considere necesarios.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 45.
 
-La omisión de informar dentro del plazo señalado, dará lugar a tener por ciertos los hechos mencionados en la queja, salvo prueba en contrario. La Dirección podrá, si lo estima necesario, realizar las investigaciones procedentes en el ámbito de su competencia, ejerciendo las acciones pertinentes.
+La omisión de informar dentro del plazo señalado, o dar respuesta parcial, dará lugar a tener por ciertos los hechos mencionados en la queja, salvo prueba en contrario. La Dirección podrá, si lo estima necesario, realizar las investigaciones procedentes en el ámbito de su competencia, ejerciendo las acciones pertinentes.
 
 ###### ARTÍCULO 46.
 
 La Dirección estará impedida para conocer de la reclamación, cuando el presunto agraviado acuda, asimismo, en queja ante la Comisión de Derechos Humanos del Estado de Coahuila o ante la Comisión Nacional de Derechos Humanos, según corresponda.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 47.
 
-Recibido el informe que rinda la autoridad o particular, la Dirección propondrá a las partes someterse a un procedimiento de mediación.
+Recibido el informe que rinda la autoridad o particular, la Dirección propondrá a las partes someterse a un procedimiento de conciliación.
 
-La mediación es la etapa del procedimiento de reclamación por medio de la cual la Dirección buscará avenir a las partes involucradas a resolverla, a través de alguna de las soluciones que les presente el conciliador.
+Lo anterior será notificado a las partes a efecto de que dentro del término de tres días hábiles siguientes al de la notificación, manifiesten su interés para someterse al procedimiento conciliatorio.
+
+Si alguna de las partes no acepta la etapa conciliatoria del procedimiento, o es omisa en tal sentido, se pasará a la etapa de la investigación y se procederá a realizar la investigación prevista en el artículo 55 de la presente Ley.
+
+La conciliación es la etapa del procedimiento de queja por medio de la cual la Dirección buscará avenir a las partes involucradas a resolverla a través de la adopción de uno o varios acuerdos.
+
+Al efecto el personal de la Dirección que desahogue la etapa de conciliación ponderará que las pretensiones y acuerdos que se alcancen sean proporcionales y congruentes con la competencia de la Dirección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 48.
 
-Siempre que las partes en conflicto manifiesten su conformidad, se procurará la celebración de una primera sesión en que se informe a las mismas la naturaleza y fines de la mediación, para posteriormente iniciar con el proceso. Dicha audiencia se celebrará dentro de los diez días hábiles siguientes a aquél en que se notificó a las partes dicha celebración, y tendrá verificativo en las instalaciones de la Dirección.
+Siempre que las partes en conflicto manifiesten su conformidad, se procurará la celebración de una primera sesión en que se informe a las mismas la naturaleza y fines de la conciliación para posteriormente iniciar con el proceso.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES SEGUNDA PARTE DEL PRIMER PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+Dicha audiencia se celebrará dentro de los diez días hábiles siguientes a aquél en que se notificó a las partes dicha celebración, y tendrá verificativo en las instalaciones de la Dirección.
 
 El citatorio al o los presuntos responsables contendrá el apercibimiento que de no presentarse a la audiencia, se tendrán por ciertos los hechos imputados en su contra, salvo prueba en contrario.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+Para el supuesto de que las partes residan fuera del domicilio de la Dirección, la conciliación podrá efectuarse por escrito, medios electrónicos u otros, con la intermediación de la Dirección, comprobándose debidamente la personalidad de las partes, acompañando la documentación de identidad correspondiente.
 
 ###### ARTÍCULO 49.
 
 En caso de que el quejoso no comparezca a la audiencia de conciliación y justifique la causa de su inasistencia dentro del plazo de tres días hábiles posteriores a la fecha de la misma, se señalará por única ocasión nueva fecha para su celebración. En el supuesto de no justificar su inasistencia, se le tendrá por desistido de su queja, archivándose el expediente como asunto concluido.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 50.
 
-El mediador expondrá a las partes un resumen de la queja y los elementos de juicio que se hayan integrado, y los exhortará a resolver sus diferencias, a cuyo efecto propondrá opciones de solución.
+El conciliador expondrá a las partes un resumen de la queja y los elementos de juicio que se hayan integrado, y los exhortará a resolver sus diferencias, a cuyo efecto propondrá opciones de solución.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 51.
 
-La audiencia de mediación podrá ser suspendida por el mediador o por ambas partes de común acuerdo hasta por una ocasión, debiéndose reanudar, en su caso, dentro de los cinco días hábiles siguientes.
+La audiencia de conciliación podrá ser suspendida por el conciliador o por ambas partes de común acuerdo hasta por una ocasión, debiéndose reanudar, en su caso, dentro de los cinco días hábiles siguientes.
 
 ###### ARTÍCULO 52.
 
@@ -627,9 +665,11 @@ El convenio suscrito por las partes y aprobado por la Dirección causará ejecut
 
 En caso de que las partes no lleguen a acuerdo alguno, la Dirección hará de su conocimiento que investigará los hechos motivo de la queja, en los términos de esta ley, e impondrá, en su caso, las medidas administrativas para prevenir y eliminar la discriminación previstas en la misma; asimismo, la Dirección promoverá el fincamiento de las responsabilidades que resulten de la aplicación de otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 55.
 
-En caso de no prosperar la mediación, la Dirección iniciará las investigaciones del caso, para lo cual tendrá las siguientes facultades:
+En caso de no prosperar la conciliación, la Dirección iniciará las investigaciones del caso, para lo cual tendrá las siguientes facultades:
 
 I. Solicitar a las autoridades o particulares a los que se imputen conductas discriminatorias, para que en el plazo de cinco días hábiles siguientes al de la fecha de recepción de la solicitud, rindan sus informes adjuntando los documentos complementarios que justifiquen la legalidad de la conducta reclamada;
 
@@ -675,13 +715,21 @@ Si al finalizar la investigación, la Dirección comprueba que las autoridades o
 
 Si de las constancias que obran en el expediente respectivo se desprende que se cometió un acto discriminatorio, se podrá proceder de la siguiente manera:
 
-I. Si quien cometió la falta es un Servidor Público, se dará vista a la Secretaría de la Función Pública, la cual deberá sancionar al empleado de que se trate con multa equivalente por lo menos a veinte días de salario del empleado de que se trate;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-II. Si quien cometió la falta es una persona física, se impondrá multa equivalente a veinte a doscientos días de salario mínimo vigente en nuestra entidad;
+I. Si quien cometió la falta es un Servidor Público, además de las medidas administrativas y de reparación que se le imponga, quedará sujeto a las responsabilidades en que haya incurrido, en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
 
-III. Si la falta es atribuible a una persona moral, se impondrá multa de cincuenta a doscientos días de salario mínimo vigente en nuestra entidad;
+En este supuesto se dará vista al superior jerárquico del funcionario así como a la Secretaría de Fiscalización y Rendición de Cuentas a efecto de que se integre la resolución al expediente del servidor público.
 
-Además de las sanciones económicas a que se refieren las fracciones anteriores, la Dirección podrá imponer como sanción cursos capacitación, talleres o seminarios de sensibilización que promuevan la igualdad de oportunidades a empleados públicos o personas físicas en lo individual o como partes de una persona moral;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+II. Si quien cometió la falta es una persona física, se impondrá multa de cien a quinientas veces el salario mínimo vigente en nuestra entidad;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+III. Si la falta es atribuible a una persona moral, se impondrá multa de cien a mil veces el salario mínimo vigente en nuestra entidad.
+
+Además de las sanciones económicas a que se refieren las fracciones anteriores, la Dirección podrá establecer como sanción cursos, capacitación, talleres o seminarios de sensibilización que promuevan la igualdad de oportunidades a empleados públicos o personas físicas en lo individual o como partes de una persona moral;
 
 IV. Revocación de la autorización, permiso o licencia para operación de establecimientos comerciales o de servicios al público;
 
@@ -689,7 +737,9 @@ V. Cancelación de la correspondiente concesión o permiso;
 
 VI. Clausura definitiva, parcial o total, del establecimiento o edificio;
 
-VII. La fijación de carteles en los que se promuevan la prevención y eliminación de conductas discriminatorias, en cualquier establecimiento de quienes incumplan alguna disposición de esta ley;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VII. La fijación de carteles en los que se haga alusión a la falta de observancia del derecho a la Igualdad y a la No discriminación en el lugar de que se trate.
 
 VIII. La supervisión y presencia del personal de la Dirección para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento, por el tiempo que disponga la determinación correspondiente;
 
@@ -781,7 +831,7 @@ LIC. HOMERO RAMOS GLORIA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE MAYO DE 2009.
 
@@ -798,3 +848,13 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
