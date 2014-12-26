@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-integral-para-adolescentes-del-estado-de-53146"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-16"
-last_updated: "2014-06-27"
+last_updated: "2014-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 472 POR EL QUE SE EXPIDE EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO AL MOMENTO DE ENTRAR EN VIGOR EL PRESENTE DECRETO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014. (ABROGADA)
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el martes 16 de enero del 2007.
 
@@ -371,7 +373,7 @@ IV. Expeditez; y,
 
 V. Flexibilidad.
 
-### Capítulo Ill. Oralidad
+### Capítulo III. Oralidad
 
 ###### Artículo 37.
 
@@ -1181,7 +1183,7 @@ La presente Ley entrará en vigor a los ciento veinte días siguientes al de su 
 
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga la Ley Tutelar para Menores del Estado de Michoacán, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el27 de agosto de 1979.
+Se abroga la Ley Tutelar para Menores del Estado de Michoacán, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 27 de agosto de 1979.
 
 ###### ARTÍCULO TERCERO.
 
@@ -1209,7 +1211,7 @@ El Titular del Poder Ejecutivo del Estado dispondrá se publique y observe.
 
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 19 diecinueve días del mes de diciembre de 2006 dos mil seis.
 
-PRESIDENTE.- DIP. MAURlCIO MONTOYA MANZO. PRIMER SECRETARIO.- DIP. MARTÍN GODOY SÁNCHEZ.- SEGUNDO SECRETARIO.- DIP. JULIÁN RODRÍGUEZ SESMAS.- TERCER SECRETARIO.- DIP. JOSÉ JUAN MARÍN GONZÁLEZ. (Firmados).
+PRESIDENTE.- DIP. MAURICIO MONTOYA MANZO. PRIMER SECRETARIO.- DIP. MARTÍN GODOY SÁNCHEZ.- SEGUNDO SECRETARIO.- DIP. JULIÁN RODRÍGUEZ SESMAS.- TERCER SECRETARIO.- DIP. JOSÉ JUAN MARÍN GONZÁLEZ. (Firmados).
 
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 19 diecinueve días del mes de diciembre del año 2006 dos mil.
 
@@ -1228,3 +1230,13 @@ SEGUNDO. El Congreso del Estado, a través de las comisiones correspondientes, e
 P.O. 27 DE JUNIO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor en la misma fecha que señale la Declaratoria para el nuevo sistema de justicia penal publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+
+SEGUNDO. Se abroga la Ley de Justicia Integral para Adolescentes del Estado de Michoacán al momento de entrar en vigor el presente Decreto, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán, mediante Decreto 88 publicado el 16 de enero del 2007, en el tomo CXL, núm. 54.
+
+TERCERO. Los procedimientos y procesos que hayan sido iniciados conforme a la ley que se abroga, continuarán sustanciándose con ésta hasta su resolución; por lo que no podrá aplicarse retroactivamente; sin embargo, los adolescentes y adultos jóvenes sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie.
+
+CUARTO. El Gobernador del Estado observará que la reglamentación para la aplicación de lo señalado en el presente ordenamiento deberá expedirse treinta días después de su entrada en vigor.
