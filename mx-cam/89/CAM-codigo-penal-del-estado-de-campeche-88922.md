@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2014-12-01"
+last_updated: "2014-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1935,6 +1935,10 @@ Se impondrán dos terceras partes de la sanción, cuando el sujeto activo sumini
 
 ### CAPÍTULO II. ABIGEATO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 181 Bis.
 
 Al que en despoblado o en paraje solitario haga uso de violencia sobre una persona con el propósito de causarle un mal, obtener un lucro o de exigir su asentimiento para cualquier fin y cualesquiera que sean los medios y el grado de violencia que se emplee, e independientemente de cualquier hecho delictuoso que resulte cometido, se le castigará con prisión de dos a nueve años.
@@ -2031,13 +2035,13 @@ Al que se le impute haber robado una cosa y acredite haberla tomado con carácte
 
 Además pagará a la víctima u ofendido, como reparación del daño, el doble del alquiler, arrendamiento o intereses de la cosa usada. Si esta no se halla invertida o sujeta a alquiler o arrendamiento, la reparación se estimará conforme a los valores del mercado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 193.
 
-A la sanción que le corresponda al agente por la comisión del delito de robo simple se le aumentarán de uno a cuatro años de prisión, en los casos siguientes:
+A la sanción que le corresponda al agente por la comisión del delito de robo simple se le aumentarán de seis meses a dos años de prisión, en los casos siguientes:
 
 I. Cuando se realice aprovechando alguna relación de trabajo, servicio u hospitalidad;
 
@@ -2071,13 +2075,19 @@ XII. Cuando se cometa en contra de menor de edad, de persona con discapacidad o 
 
 > <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2013)</small>
 
-XIII.- Cuando se cometa por quien haya sido o sea miembro de algún cuerpo de seguridad pública o privada aunque no se encuentre en servicio.
+XIII. Cuando se cometa por quien haya sido o sea miembro de algún cuerpo de seguridad pública o privada aunque no se encuentre en servicio.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2013)</small>
 
-XIV.- Cuando recaiga sobre material, infraestructura o parte de ésta, que proporcione suministro de agua, energía eléctrica o cualquier otro servicio público o privado.
+XIV. Cuando recaiga sobre material, infraestructura o parte de ésta, que proporcione suministro de agua, energía eléctrica o cualquier otro servicio público o privado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XV. Cuando recaiga sobre implementos o infraestructura de producción agropecuaria.
 
 ###### Artículo 194.
 
@@ -2095,49 +2105,123 @@ En todo caso de robo, la autoridad jurisdiccional competente podrá suspender al
 
 ###### Artículo 196.
 
-Comete el delito de abigeato el que se apodere, sin derecho y sin consentimiento de quien legalmente pueda disponer de ellos, e independientemente del lugar en que se encuentren, de uno o más semovientes de cualquier especie ganadera, formen o no hato, o de una o más colonias de abejas en un apiario.
+Comete del (sic) delito de abigeato el que se apodere, sin derecho y sin consentimiento de quien legalmente pueda disponer de ellos e independientemente del lugar en que se encuentren, de uno o más semovientes de cualquier especie ganadera, formen o no hato, o de una o más colonias de abejas en un apiario.
 
-Para efectos de este capítulo, una colonia es un conjunto de abejas que interactúan intercambiando alimentos y otras sustancias necesarias para su vida y llevando a cabo diferentes actividades; viven en una colmena y está compuesta por una abeja reina, zánganos y obreras.
+Para los efectos de este capítulo:
+
+a) Una colonia de abejas es un conjunto de abejas que interactúan intercambiando alimentos y otras sustancias necesarias para su vida y llevando a cabo diferentes actividades.
+
+b) Serán considerados instrumentos del delito de abigeato las cabalgaduras o vehículos y objetos que sirvan para su comisión y el transporte de animales o sus productos.
+
+c) Este delito se sancionará de la forma siguiente:
+
+I.- Con prisión de uno a tres años y multa de trescientos a cuatrocientos días de salario cuando se cometa en una cabeza de ganado o una colonia de abejas.
+
+II.- Con prisión de tres a cinco años y multa de cuatrocientos a quinientos días de salario cuando se cometa en hasta tres cabezas de ganado o el mismo número de colonias de abejas.
+
+III.- Con prisión de cinco a siete años y multa de quinientos a mil días de salario cuando se cometa en más de tres cabezas de ganado o el mismo número de colonias de abejas.
+
+En el supuesto de la fracción I el delito será perseguido por querella de parte.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 196 Bis.
+
+Se equiparará al abigeato la sustracción o el apoderamiento sin derecho y sin consentimiento de quien legalmente pueda disponer de aves, conejos o peces, de cuya crianza consista una actividad de producción pecuaria y se encuentren en las granjas destinadas a estos efectos.
 
 Este delito se sancionará de la forma siguiente:
 
-I. Con prisión de seis meses a dos años y multa de cien a trescientos días de salario, cuando se cometa en una o dos piezas de ganado;
+I.- Con prisión de tres meses a un año y multa de cien a doscientos días de salario cuando se cometa en hasta cinco aves que no rebasen un metro de altura cada una; conejos; o el equivalente a 20 kilogramos de peces de granja.
 
-II. Con prisión de dos a cinco años y multa de trescientos a seiscientos días de salario, cuando se cometa en tres o más piezas de ganado;
+II.- Con prisión de uno a dos años y multa de doscientos a trescientos días de salario cuando se cometa en más de cinco aves que no rebasen un metro de altura cada una; conejos; o el equivalente a 20 kilogramos de peces de granja.
 
-III. Con prisión de tres meses a un año y multa de cincuenta a ciento cincuenta días de salario, cuando el apoderamiento sea, total o parcialmente, de una colonia de abejas perteneciente a un apiario;
+III.- Con prisión de dos a cuatro años y multa de trescientos a cuatrocientos días de salario cuando se cometa en un ave con altura mayor de un metro.
 
-IV. Con prisión de uno a tres años y multa de ciento cincuenta a trescientos días de salario, cuando el apoderamiento sea, total o parcialmente, de dos o más colonias de abejas pertenecientes a un apiario.
+IV.- Con prisión de cuatro a cinco años y multa de cuatrocientos a quinientos días de salario cuando se cometa en dos o más aves con altura mayor de un metro.
 
-Las sanciones anteriores se aumentarán en una tercera parte cuando el abigeato lo cometan los encargados de la custodia, vigilancia o traslado del ganado o colonias de abejas.
+En el supuesto de las fracciones I y III, el delito será perseguido por querella de parte.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 196 Ter.
+
+Para los efectos de este capítulo las sanciones contenidas en los artículos 196 y 196 bis, se aumentarán en una tercera parte cuando:
+
+a) el delito lo cometan los encargados de la custodia, vigilancia o traslado de los animales materia del ilícito;
+
+b) el apoderamiento se realice con violencia; o por la noche; o con horadación de paredes o cercas; o con fractura de cerraduras, puertas o ventanas, ya sea al perpetrarse el hecho o después de consumado para lograr la fuga o defender el producto;
+
+c) participen del hecho dos o más personas;
+
+d) participe en el hecho una persona que se dedique a la crianza, cuidado, faena, elaboración o transporte de animales, productos o subproductos de origen animal;
+
+e) participe en el hecho el funcionario público que, violando sus deberes o aprovechando su posición o conocimientos técnicos, facilite directa o indirectamente su comisión;
+
+f) el delito se desarrolle en diferentes entidades federativas;
+
+g) El responsable sea, o simule ser, miembro de algún cuerpo de seguridad pública o alguna otra autoridad;
+
+h) El responsable lleve algún arma, aun cuando no haga uso de ella;
+
+i) Se trate de sementales registrados;
+
+j) Los animales sean destazados en el lugar de crianza y sustraídos en todo o en parte.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 197.
 
-Se impondrá una mitad de las sanciones que señala el artículo anterior a los que adquieran ganado o colonias de abejas robados, a sabiendas de su origen ilícito.
+Se impondrán las mismas sanciones que se señalan en el artículo anterior a los que adquieran semovientes, colonias de abejas, aves, conejos o peces robados, a sabiendas de su procedencia u origen ilícitos.
 
 ###### Artículo 198.
 
 Al servidor público que intervenga en la legalización de los documentos que acrediten la propiedad del semoviente o colonia de abejas, o al encargado del rastro o lugar destinado a este fin, si no toma las medidas indispensables para cerciorarse de la procedencia legítima del mismo, se le impondrán de veinticuatro a setenta y ocho jornadas de trabajo a favor de la comunidad y multa de cincuenta a ciento cincuenta días de salario y destitución del empleo, cargo o comisión.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 199.
 
-Al que ampare con documentos una o más cabezas de ganado robado o una o más colonias de abejas, a sabiendas de su origen ilícito, se le impondrán de un mes a un año de prisión y multa de cincuenta a doscientos días de salario. Igual sanción se aplicará al que transporte ganado o sus pieles, carnes u otros derivados, o colonias de abejas o productos derivados de estas colonias, a sabiendas de que se trata de ganado o colonias de abejas robados.
+Al que con documentos, ampare animales a sabiendas de su origen ilícito, se le impondrán de uno a tres años de prisión y multa de cincuenta a doscientos días de salario. Igual sanción se aplicará al que transporte productos o derivados robados de origen animal.
 
 ###### Artículo 200.
 
 Al que lucre con pieles, carnes u otros derivados obtenidos del abigeato sin haber tomado las medidas necesarias para cerciorarse de su legal procedencia, se le impondrá multa de ciento cincuenta a trescientos días de salario.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 201.
 
-Al que altere o elimine las marcas o señales, marque, señale, contramarque o contraseñale ganado ajeno, sin consentimiento de quien legalmente pueda otorgarlo, se le impondrá de un mes a un año de prisión o multa de cien a trescientos días de salario.
+Al que altere o elimine las marcas o señales, marque, señale, contramarque o contraseñale semovientes o colonias de abejas ajenos o subproductos o derivados de estos, sin consentimiento de quien legalmente pueda otorgarlo, se le impondrán de dos a cuatro años de prisión o multa de cien a trescientos días de salario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 202.
 
-Si el apoderamiento a que se refiere este Capítulo se verifica con violencia, o por la noche, o por dos o más individuos o con horadación de paredes, fractura de puertas o destrucción de las cerraduras de éstas o ruptura de cercas, setos o vallados, las sanciones que correspondan se aumentarán en un tercio.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 203.
 
-Siempre serán considerados como instrumentos del delito de abigeato las cabalgaduras de que se sirvan los abigeos para arrear el ganado y los vehículos en que se realice el transporte de ganado o sus productos o de colonias de abejas o sus productos, así como los demás objetos que sirvan para su comisión.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 203 Bis.
+
+Cuando el abigeato sea cometido entre parientes consanguíneos o por afinidad, se ejercitará acción penal únicamente por querella de parte.
 
 ### CAPÍTULO VI. EXTORSIÓN
 
@@ -2213,7 +2297,11 @@ VI. Realice un acto jurídico, contrato o acto judicial, simulado en perjuicio d
 
 VII. Siendo fabricante, empresario, contratista o constructor de una obra, emplee en ésta materiales o realice construcciones de calidad o cantidad inferior a las ofrecidas, si ha recibido el precio convenido o parte de él, o no realice las obras que amparen la cantidad pagada;
 
-VIII. Provoque deliberadamente cualquier acontecimiento y simule que se trata de caso fortuito o fuerza mayor, para liberarse de obligaciones o cobrar fianzas o seguros;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VIII. Provoque deliberadamente cualquier acontecimiento y simule que se trata de caso fortuito o fuerza mayor, o de un delito, para liberarse de obligaciones, cobrar fianzas o seguros, o recibir apoyos o beneficios de entidades públicas o privadas;
 
 IX. Reciba dinero, valores o cualquier otra cosa mediante el ofrecimiento de encargarse de la defensa penal de una persona, o de la dirección o patrocinio de un asunto civil, administrativo, o de cualquier otra rama de derecho, y no realice lo ofrecido, sea porque no se haga cargo legalmente de la defensa o de la dirección o patrocinio, o porque renuncie a ella o la abandone sin causa justificada;
 
@@ -3585,7 +3673,7 @@ Lo anterior, con independencia de las demás sanciones que conforme a esta (sic)
 
 Las sanciones previstas en el artículo anterior se aumentarán en un tercio cuando la privación de la libertad:
 
-I. Se lleve a cabo en persona menor de edad o mayor de setenta años, o en aquélla que, por cualquier circunstancia, esté imposibilidad (sic) de resistir o en situación de inferioridad física respecto del agente;
+I. Se lleve a cabo en persona menor de edad o mayor de setenta años, o en aquélla que, por cualquier circunstancia, esté (sic) imposibilidad de resistir o en situación de inferioridad física respecto del agente;
 
 II. Se prolongue por más de cuarenta y ocho horas;
 
@@ -3828,3 +3916,9 @@ P.O. 1 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente decreto entrará en vigor el día 3 de diciembre del 2014, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+PRIMERO: El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
