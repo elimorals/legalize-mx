@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-proteccion-a-los-animales-5179"
 country: "mx"
 rank: "ley"
 publication_date: "1991-03-09"
-last_updated: "2005-11-08"
+last_updated: "2014-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE PROTECCION A LOS ANIMALES
 
-LEY DE PROTECCION A LOS ANIMALES
+LEY DE PROTECCIÓN A LOS ANIMALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el sábado 8 de marzo de 1991.
 
@@ -529,7 +531,7 @@ El Secretario General de Gobierno.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE NOVIEMBRE DE 2005.
 
@@ -538,3 +540,27 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se deroga el Capítulo VI del Título VI que contiene los Artículos 159, 160, 161, 162, 163 y 164 de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado de fecha 19 de Marzo de 1991.
 
 SEGUNDO.- Se derogan los Artículos 74 y 75 contenidos en el Capítulo II del Título Quinto de la Ley de Protección a los Animales, publicada en el Periódico Oficial del Gobierno del Estado de fecha 8 de Marzo de 1991.
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+PRIMERO. La presente Ley entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley de Protección a los Animales del Estado de Guerrero, publicada en el Periódico Oficial No. 21, el 9 de marzo de 1991.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en esta Ley y sus reglamentos.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado, deberá designar en el proyecto de presupuesto de egresos anual, las participaciones necesarias para la exacta aplicación de lo establecido en la presente Ley.
+
+QUINTO. El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de la presente Ley dentro de los 90 días naturales posteriores a la entrada en vigor del presente ordenamiento.
+
+SEXTO. Las Autoridades Municipales, en un plazo no mayor a 45 días naturales a partir de la publicación del reglamento de la presente Ley emitido por el Poder Ejecutivo Estatal, deberán formular el reglamento municipal respectivo que permita la exacta observancia de la Ley, en las materias de su competencia.
+
+SÉPTIMO. La disposición del cumplimiento a lo dispuesto en el Artículo 44 fracción XIV de esta Ley, deberá entrar en vigencia en un plazo no mayor a 365 días naturales a partir de la promulgación de esta Ley.
+
+El Gobierno del Estado deberá atender a los propietarios de los animales y los concesionarios de vehículos de tracción animal, con el objeto de implementar opciones alternativas que permitan mantener la prestación de servicios y fuentes de empleo.
+
+OCTAVO. El Consejo Consultivo a que se refiere esta Ley deberá instalarse dentro de los 30 días después de la expedición de los reglamentos emitidos para tal efecto.
+
+NOVENO. El Poder Ejecutivo Estatal deberá adecuar el Decreto de creación del Fondo Auxiliar Ambiental Estatal denominado Fondo Verde, en un plazo de 30 días naturales a la entrada en vigor de la presente Ley.
+
+DÉCIMO. El cumplimiento de los Artículos transitorios de la presente Ley se considera de interés público, por lo que su incumplimiento será sancionado conforme a lo establecido por la Ley de Responsabilidad de los Servidores Públicos vigente.
