@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-de-la-ley-numero-553-de-acceso-de-las-mujeres-a-6740
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-05"
-last_updated: "2008-12-05"
+last_updated: "2014-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO DE LA LEY NUMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 5 de diciembre de 2008.
 
@@ -143,7 +145,7 @@ II. Asesorar y defender a la mujer ante los órganos jurisdiccionales;
 
 III. Brindar el servicio de atención integral a las mujeres internas en los Centros de Readaptación Social del Estado, con la intervención del Servicio de Defensoría de Oficio y de la Dirección General de Readaptación Social;
 
-IV. Operar el servicio de atención psicológica a mujeres y su familia; e (sic)
+IV. Operar el servicio de atención psicológica a mujeres y su familia; e
 
 V. Informar y capacitar a las mujeres sobre los derechos que la asisten y la manera de hacerlos valer.
 
@@ -400,3 +402,13 @@ LA SECRETARIA DE LA MUJER.
 PROFRA. ROSA MARÍA GÓMEZ SAAVEDRA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+Segundo. Se abroga el Reglamento de la Ley número 553 de Acceso de las Mujeres a una Vida Libre de Violencia, publicado en el Periódico Oficial del Gobierno del Estado de Guerrero, número 98 alcance I, el 5 de diciembre del año 2008.
+
+Tercero. Los programas y la implementación de las acciones que se deriven del presente Reglamento, deberán contar con una previa suficiencia presupuestaria autorizada por las instancias competentes del estado, municipios y órganos autónomos.
