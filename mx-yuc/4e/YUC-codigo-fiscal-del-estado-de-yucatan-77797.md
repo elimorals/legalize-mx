@@ -4,7 +4,7 @@ identifier: "YUC-codigo-fiscal-del-estado-de-yucatan-77797"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-22"
-last_updated: "2013-12-20"
+last_updated: "2014-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 CÓDIGO FISCAL DEL ESTADO DE YUCATÁN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 131 PUBLICADO EN EL D.O. DE 20 DE DICIEMBRE DE 2013, VÉASE ARTÍCULO PRIMERO TRANSITORIO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 22 de diciembre de 2010.
 
@@ -221,7 +219,7 @@ I. Toda transmisión de propiedad, aun en la que el enajenante se reserve el dom
 
 II. Las adjudicaciones, aun cuando se realicen a favor del acreedor;
 
-III. La aportación a una sociedad o asociación, y (sic)
+III. La aportación a una sociedad o asociación, y
 
 IV. La que se realiza mediante el arrendamiento financiero;
 
@@ -465,7 +463,7 @@ En los casos de que la contribución se calcule por ejercicios, únicamente se p
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución en los términos de este artículo nace cuando dicho acto se anule. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del penúltimo párrafo de este artículo.
 
-En el caso de que en una solicitud de devolución existan errores en sus datos, la autoridad requerirá al contribuyente para que mediante escrito y en un plazo de diez días aclare dichos datos, apercibiéndolo que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente.. (sic) El contribuyente no tendrá que presentar una nueva solicitud de devolución, cuando la autoridad le requiera que aclare datos erróneos en su solicitud o anexos, este requerimiento suspende el plazo para la devolución, durante el periodo que transcurra entre el día hábil siguiente al en que surta efecto la notificación del requerimiento y la fecha en que se atienda el mismo. Dicho requerimiento suspenderá el plazo previsto para efectuar la devolución, durante el período que transcurra entre el día hábil siguiente al en que surta efectos la notificación del requerimiento y la fecha en que se atienda éste.
+En el caso de que en una solicitud de devolución existan errores en sus datos, la autoridad requerirá al contribuyente para que mediante escrito y en un plazo de diez días aclare dichos datos, apercibiéndolo que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente.. El contribuyente no tendrá que presentar una nueva solicitud de devolución, cuando la autoridad le requiera que aclare datos erróneos en su solicitud o anexos, este requerimiento suspende el plazo para la devolución, durante el periodo que transcurra entre el día hábil siguiente al en que surta efecto la notificación del requerimiento y la fecha en que se atienda el mismo. Dicho requerimiento suspenderá el plazo previsto para efectuar la devolución, durante el período que transcurra entre el día hábil siguiente al en que surta efectos la notificación del requerimiento y la fecha en que se atienda éste.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -531,9 +529,13 @@ Los estados de cuenta que emiten las instituciones financieras son considerados 
 
 La Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general podrá autorizar la devolución en efectivo o cheque nominativo o el uso de medios electrónicos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 34.
 
-En el caso de que los contribuyentes estén obligados a pagar mediante declaración, podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, incluyendo sus accesorios.
+Los contribuyentes podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, incluyendo sus accesorios.
 
 El contribuyente efectuará la compensación de dichas cantidades actualizadas, conforme a lo previsto en el artículo 22 de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor, hasta aquel en que la compensación se realice. Los contribuyentes presentarán el aviso de compensación, dentro de los cinco días siguientes a aquél en el que la misma se haya efectuado, acompañado de la documentación que al efecto se solicite.
 
@@ -693,7 +695,11 @@ I. Utilizarán los sistemas y registros contables que señale este Código y dem
 
 II. Los asientos en la contabilidad serán analíticos y deberán efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas;
 
-III. Llevarán la contabilidad en su domicilio fiscal. Dicha contabilidad podrá llevarse en lugar distinto cuando se cumplan los requisitos que señale la Secretaría mediante reglas de carácter general;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+III. Llevarán la contabilidad en su domicilio fiscal. Dicha contabilidad podrá llevarse en lugar distinto cuando se cumplan los requisitos que señale la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general;
 
 IV. Conservarán la documentación y registro comprobatorio de las erogaciones, actos o actividades o pagos relacionados con las actividades objeto de contribuciones estatales y en general del pago y entero de dichas contribuciones durante el plazo al que se refiere este Código, y
 
@@ -719,7 +725,7 @@ La documentación a que se refiere el párrafo anterior de este artículo y la c
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
-Las personas que dictaminen sus estados financieros por contador público autorizado en los términos del artículo 75 de este Código, podrán grabar en discos o en cualquier otro medio la parte de su contabilidad que autorice la Agencia de Administración Fiscal de Yucatán, mediante reglas de carácter general, en cuyo caso, los discos y cualquier otro medio, tendrán el mismo valor que los originales, siempre que cumplan con los requisitos que al respecto establezcan las citadas reglas; tratándose de personas morales, el presidente del consejo de administración o en su defecto la persona física que la dirija, serán directamente responsables del cumplimiento de esta disposición..(sic) Asimismo, la propia Agencia de Administración Fiscal de Yucatán podrá autorizar procedimientos que faciliten a los contribuyentes el cumplimiento de las obligaciones a que se refiere este artículo.
+Las personas que dictaminen sus estados financieros por contador público autorizado en los términos del artículo 75 de este Código, podrán grabar en discos o en cualquier otro medio la parte de su contabilidad que autorice la Agencia de Administración Fiscal de Yucatán, mediante reglas de carácter general, en cuyo caso, los discos y cualquier otro medio, tendrán el mismo valor que los originales, siempre que cumplan con los requisitos que al respecto establezcan las citadas reglas; tratándose de personas morales, el presidente del consejo de administración o en su defecto la persona física que la dirija, serán directamente responsables del cumplimiento de esta disposición.. Asimismo, la propia Agencia de Administración Fiscal de Yucatán podrá autorizar procedimientos que faciliten a los contribuyentes el cumplimiento de las obligaciones a que se refiere este artículo.
 
 Cuando al inicio de una visita domiciliaria los contribuyentes hubieran omitido asentar registros en su contabilidad dentro de los plazos establecidos en las disposiciones fiscales, dichos registros sólo podrán efectuarse después de que la omisión correspondiente haya sido asentada en acta parcial; esta obligación subsiste inclusive cuando las autoridades hubieran designado un depositario distinto del contribuyente, siempre que la contabilidad permanezca en alguno de sus establecimientos. El contribuyente deberá seguir llevando su contabilidad independientemente de lo dispuesto en este párrafo.
 
@@ -729,7 +735,11 @@ Los contribuyentes con establecimientos, sucursales, locales, puestos fijos o se
 
 Los contribuyentes que lleven su contabilidad o parte de ella utilizando registros electrónicos, deberán proporcionar a las autoridades fiscales, cuando así se lo soliciten, en los medios procesables que utilicen, la información relacionada con su contabilidad que tengan en dichos medios.
 
-Cuando el contribuyente lleve su contabilidad mediante los sistemas manual o mecanizado o cuando su equipo de cómputo no pueda procesar dispositivos en los términos señalados por la Secretaría, la información deberá proporcionarse en las formas que al efecto apruebe dicha dependencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+Cuando el contribuyente lleve su contabilidad mediante los sistemas manual o mecanizado o cuando su equipo de cómputo no pueda procesar dispositivos en los términos señalados por la Agencia de Administración Fiscal de Yucatán, la información deberá proporcionarse en las formas que al efecto apruebe.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -871,11 +881,13 @@ Cuando las leyes fiscales hagan referencia a la firma electrónica, se entender�
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 53.
 
-Los particulares podrán acudir ante las autoridades fiscales dentro de un plazo de seis días siguientes a aquel en que haya surtido efectos la notificación de las resoluciones a que se refieren los artículos 61 fracción I, 103, 104 y 106 fracciones I, III y VI de este Código, así como en los casos en que la autoridad fiscal determine mediante reglas de carácter general que emita la Agencia de Administración Fiscal de Yucatán, a efecto de hacer las aclaraciones que consideren pertinentes, debiendo la autoridad, resolver en un plazo de seis días contados a partir de que quede debidamente integrado el expediente mediante el procedimiento previsto en las citadas reglas de carácter general.
+Los particulares podrán acudir ante las autoridades fiscales dentro de un plazo de seis días siguientes a aquel en que haya surtido efectos la notificación de las resoluciones a que se refieren los artículos 61 fracciones I y II, 103, 104 y 106 fracciones I, II, III y VI de este Código, así como en los casos en que la autoridad fiscal determine mediante reglas de carácter general que emita la Agencia de Administración Fiscal de Yucatán, a efecto de hacer las aclaraciones que consideren pertinentes, debiendo la autoridad, resolver en un plazo de seis días contados a partir de que quede debidamente integrado el expediente mediante el procedimiento previsto en las citadas reglas de carácter general.
 
 Lo previsto en este artículo no constituye instancia, ni interrumpe ni suspende los plazos para que los particulares puedan interponer los medios de defensa. Las resoluciones que emita la autoridad fiscal no podrán ser impugnadas por los particulares.
 
@@ -905,9 +917,13 @@ En el caso de que se haya emitido la resolución a que se refiere el artículo 7
 
 Los funcionarios fiscales facultados debidamente podrán dar a conocer a las diversas dependencias el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando sean publicados en el Diario Oficial del Gobierno del Estado de Yucatán.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 56.
 
-Las resoluciones administrativas de carácter individual favorables a un particular solamente podrán ser modificadas por el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, mediante resolución que recaiga a un juicio iniciado por las autoridades fiscales.
+Las resoluciones administrativas de carácter individual favorables a un particular solamente podrán ser modificadas por el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, mediante resolución que recaiga a un juicio iniciado por las autoridades fiscales.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1455,15 +1471,21 @@ Las copias, impresiones o reproducciones que deriven del microfilm, disco óptic
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales deberán pagarse o garantizarse, junto con sus accesorios, dentro de los cuarenta y cinco días siguientes a aquél en que haya surtido efectos su notificación. excepto tratándose de créditos fiscales determinados en términos del artículo 61, fracción II de este Código en cuyo caso el pago deberá de realizarse antes de que transcurra el plazo señalado en dicha fracción.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 88.
 
-A fin de asegurar la recaudación de toda clase de créditos a favor del Gobierno del Estado, la Agencia de Administración Fiscal de Yucatán podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos, cuando sea la única forma que tenga el deudor para cumplir con la obligación a su cargo y estos sean de fácil realización o venta, o resulten aprovechables en los servicios públicos estatales, a juicio de la propia Secretaría.
+A fin de asegurar la recaudación de toda clase de créditos a favor del Gobierno del Estado, la Agencia de Administración Fiscal de Yucatán podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos, cuando sea la única forma que tenga el deudor para cumplir con la obligación a su cargo y estos sean de fácil realización o venta, o resulten aprovechables en los servicios públicos estatales, a juicio de la Agencia de Administración Fiscal de Yucatán.
 
 La Agencia de Administración Fiscal de Yucatán a través de reglas de carácter general señalará qué tipo de bienes son susceptibles de ofrecerse en dación en pago por los contribuyentes.
 
-La aceptación o negativa de la solicitud de dación en pago será facultad discrecional del titular de la Agencia de Administración Fiscal de Yucatán, debiendo resolver en un término que no excederá de treinta días hábiles contados a partir de que esté debidamente integrado el expediente y no podrá ser impugnada en recurso administrativo, ni en juicio de nulidad ante el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado. En caso de que en dicho término no se emita la resolución correspondiente, se tendrá por negada la solicitud.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+La aceptación o negativa de la solicitud de dación en pago será facultad discrecional del titular de la Agencia de Administración Fiscal de Yucatán, debiendo resolver en un término que no excederá de treinta días hábiles contados a partir de que esté debidamente integrado el expediente y no podrá ser impugnada en recurso administrativo, ni en juicio de nulidad ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán. En caso de que en dicho término no se emita la resolución correspondiente, se tendrá por negada la solicitud.
 
 ###### Artículo 89.
 
@@ -1707,7 +1729,7 @@ f) Que se graben en discos o en cualquier otro medio que autorice la Agencia de 
 
 III. Se considera también agravante la omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes;
 
-IV. Igualmente es agravante, el que la comisión de la infracción sea en forma continuada; se considerará que una infracción se realiza en forma continuada cuando se comete con pluralidad de conductas procedentes de la misma decisión del sujeto activo de cometer la infracción, violándose el mismo precepto legal, y (sic)
+IV. Igualmente es agravante, el que la comisión de la infracción sea en forma continuada; se considerará que una infracción se realiza en forma continuada cuando se comete con pluralidad de conductas procedentes de la misma decisión del sujeto activo de cometer la infracción, violándose el mismo precepto legal, y
 
 V. Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales de carácter formal a las que correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor, y
 
@@ -2253,9 +2275,13 @@ c) Afecten el interés jurídico de terceros, en los casos a que se refiere el a
 
 d) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2013)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 140.
 
-La interposición del Recurso de Revocación será optativa para el interesado antes de acudir al Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado.
+La interposición del Recurso de Revocación será optativa para el interesado antes de acudir al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
 
 Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
 
@@ -2315,7 +2341,11 @@ I. Que no afecten el interés jurídico del recurrente;
 
 II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de sentencias;
 
-III. Que hayan sido impugnados ante el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+III. Que hayan sido impugnados ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán;
 
 IV. Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto;
 
@@ -2337,11 +2367,15 @@ III. Cuando de las constancias que obran en el expediente administrativo quede d
 
 IV. Cuando hayan cesado los efectos del acto o resolución impugnada.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 146.
 
-El interesado podrá optar por impugnar un acto a través del Recurso de Revocación o promover, directamente contra dicho acto, juicio ante el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro; en el caso de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos, el contribuyente podrá impugnar dicho acto, por una sola vez, a través de la misma vía.
+El interesado podrá optar por impugnar un acto a través del Recurso de Revocación o promover, directamente contra dicho acto, juicio ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro; en el caso de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos, el contribuyente podrá impugnar dicho acto, por una sola vez, a través de la misma vía.
 
-Si la resolución dictada en el Recurso de Revocación se combate ante el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, la impugnación del acto conexo deberá hacerse valer ante el propio Tribunal.
+Si la resolución dictada en el Recurso de Revocación se combate ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, la impugnación del acto conexo deberá hacerse valer ante el propio Tribunal.
 
 ###### Artículo 147.
 
@@ -2583,7 +2617,11 @@ Para los efectos de la fracción I del artículo 163 de este Código, el depósi
 
 Para los efectos de la fracción II del artículo 163 de este Código, la prenda o hipoteca serán constituidas sobre los siguientes bienes:
 
-I. Bienes muebles por el 75% de su valor siempre que estén libres de gravámenes hasta por ese por ciento. La Secretaría podrá autorizar a instituciones y a corredores públicos para valuar o mantener en depósito determinados bienes. Deberá inscribirse la prenda en el registro que corresponda cuando los bienes en que recaiga estén sujetos a esta formalidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+I. Bienes muebles por el 75% de su valor siempre que estén libres de gravámenes hasta por ese por ciento. La Agencia de Administración Fiscal de Yucatán podrá autorizar a instituciones y a corredores públicos para valuar o mantener en depósito determinados bienes. Deberá inscribirse la prenda en el registro que corresponda cuando los bienes en que recaiga estén sujetos a esta formalidad;
 
 No serán admisibles como garantía los bienes que se encuentren en dominio fiscal o en el de acreedores. Los de procedencia extranjera sólo serán admitidos cuando se compruebe su legal estancia en el país.
 
@@ -2607,27 +2645,41 @@ Cuando sea persona moral la que garantice el interés fiscal, el monto de la gar
 
 Para que un tercero asuma obligación de garantizar por cuenta de otro en alguna de las formas a que se refieren las fracciones II y V del artículo 163 de este Código, deberá cumplir con los requisitos que para cada una se establecen.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 172.
 
-Para los efectos de la fracción V del artículo 163 de este artículo (sic), el embargo en la vía administrativa se sujetará a las siguientes reglas:
+Para los efectos de la fracción V del artículo 163 de este Código, el embargo en la vía administrativa se sujetará a las siguientes reglas:
 
-I. Se practicará a solicitud del contribuyente, quien deberá acompañar los documentos que señale la forma oficial correspondiente;
+I. Se practicará a solicitud del contribuyente, quien deberá presentar los documentos y cumplir con los requisitos que dé a conocer la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general;
 
-II. El contribuyente señalará los bienes en que deba trabarse, debiendo ser suficientes para garantizar el interés fiscal, siempre que en su caso se cumplan los requisitos y por los porcentajes que establece la fracción II del artículo 168. No serán susceptibles de embargo los bienes que se encuentren en el supuesto a que se refiere el inciso c) de la fracción II del artículo 206 de este Código;
+II. El contribuyente señalará los bienes de su propiedad sobre los que deba trabarse el embargo, debiendo ser suficientes para garantizar el interés fiscal y cumplir los requisitos y porcentajes que establece el artículo 168. No serán susceptibles de embargo los bienes que se encuentren en el supuesto a que se refiere el inciso c) de la fracción II del artículo 206 de este Código;
 
-III. Cuando a juicio del jefe de la autoridad recaudadora exista peligro de que el depositario se ausente, enajene u oculte sus bienes o realice maniobras tendientes a evadir el cumplimiento de sus obligaciones, podría removerlo del cargo; en este supuesto los bienes se depositarán en almacén destinado para el efecto y si no hubiera almacén en la localidad, con la persona que designe el jefe de la oficina;
+III. Tratándose de personas físicas, el depositario de los bienes será el contribuyente y en el caso de personas morales, su representante legal. Cuando a juicio del jefe de la autoridad recaudadora exista peligro de que el depositario se ausente, enajene u oculte los bienes o realice maniobras tendientes a evadir el cumplimiento de sus obligaciones, podrá removerlo del cargo; en este supuesto, los bienes se depositarán en almacén destinado para el efecto, y si no hubiera almacén en la localidad, con la persona que designe la autoridad recaudadora;
 
 IV. Deberá inscribirse en el Registro Público de la Propiedad y del Comercio que corresponda, el embargo de los bienes que estén sujetos a esta formalidad, y
 
-V. Deberá cubrirse con anticipación a la práctica de la diligencia de embargo en la vía administrativa, los gastos de ejecución señalados en el artículo 196 del este Código. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia.
+V. Antes de la práctica de la diligencia de embargo en la vía administrativa, deberán cubrirse los gastos de ejecución que puedan ser determinados en términos del artículo 196 de este Código. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 173.
 
-La garantía del interés fiscal será ofrecida por el interesado ante la autoridad recaudadora correspondiente, para que la califique, acepte si procede y le dé el trámite correspondiente.
+La garantía del interés fiscal que se ofrezca ante la autoridad recaudadora correspondiente para cobrar coactivamente créditos fiscales, será objeto de calificación y de aceptación, en su caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 174.
 
-La autoridad recaudadora, para calificar la garantía ofrecida deberá verificar que se cumplan los requisitos que establecen (sic) este Código, en cuanto a la clase de la garantía ofrecida, el motivo por el cual se otorgó y que su importe cubre los conceptos que señala el artículo 163. Cuando no se cumplan, la autoridad requerirá al promovente, a fin de que en un plazo de cinco días contados a partir del día siguiente a aquél en que se le notifique dicho requerimiento, cumpla con el requisito omitido; en caso contrario no se aceptará la garantía.
+Para calificar la garantía del interés fiscal, la autoridad recaudadora deberá verificar que se cumplan los requisitos que se establecen en este Código, en cuanto a la clase de la garantía ofrecida, el motivo por el cual se otorgó y que su importe cubre los conceptos que señala el artículo 163 de este Código. Cuando no se cumplan los requisitos a que se refiere este artículo la autoridad requerirá al promovente a fin de que; en un plazo de cinco días, contados a partir del día siguiente a aquel en que se le notifique dicho requerimiento, cumpla con el requisito omitido, en caso contrario, no se aceptará la garantía. El plazo establecido en el artículo 165 de este Código se suspenderá hasta que se emita la resolución en la que se determine la procedencia o no de la garantía del interés fiscal.
+
+La autoridad recaudadora podrá aceptar la garantía ofrecida por el contribuyente aun y cuando esta no sea suficiente para garantizar el interés fiscal de acuerdo con lo establecido en el artículo 163 de este Código, instaurando el procedimiento administrativo de ejecución por el monto no garantizado.
 
 ###### Artículo 175.
 
@@ -2641,21 +2693,43 @@ La garantía constituida podrá garantizar uno o varios créditos fiscales, siem
 
 La garantía deberá ampliarse dentro del mes siguiente a aquél en que concluya el período a que se refiere el segundo párrafo del artículo 163, por el importe de los recargos correspondientes a los doce meses siguientes. Lo dispuesto en este artículo será aplicable a aquellos casos en que por cualquier circunstancia resulte insuficiente la garantía.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 178.
 
-La cancelación de la garantía procederá en los siguientes casos:
+La cancelación de la garantía del interés fiscal procederá en los siguientes casos:
 
 I. Por sustitución de garantía;
 
 II. Por el pago del crédito fiscal;
 
-III. Cuando en definitiva quede sin efectos la resolución que dio origen al otorgamiento de la garantía, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. En cualquier otro caso en que deba cancelarse de conformidad con las disposiciones fiscales.
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+III. Cuando en definitiva quede sin efectos la resolución que dio origen al otorgamiento de la garantía;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IV. Cuando se cumpla la fecha de la vigencia de la garantía, y
+
+V. En cualquier otro caso en que deba cancelarse de conformidad con las disposiciones fiscales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 179.
 
-La garantía podrá disminuirse o substituirse por una menor en la misma proporción en que se reduzca el crédito fiscal por pago de una parte del mismo. Para estos efectos, el contribuyente o el tercero que tenga interés jurídico, deberá presentar solicitud de cancelación de garantía ante la autoridad recaudadora que la haya exigido o recibido, acompañando los documentos que en la misma se señalen.
+La garantía del interés fiscal podrá disminuirse o sustituirse por una menor en la misma proporción en que se reduzca el crédito fiscal por pago parcial de este, o por cumplimiento a una resolución definitiva dictada por autoridad competente en la que se haya declarado la nulidad lisa y llana o revocado la resolución que determina el crédito fiscal, dejando subsistente una parte de este.
+
+Para efectos del párrafo anterior, el contribuyente o el tercero que tenga interés jurídico, podrá presentar solicitud de cancelación de garantía ante la autoridad recaudadora que la haya exigido o recibido, a la que deberá acompañar los documentos que acrediten la procedencia de la cancelación.
+
+La autoridad recaudadora cancelará las garantías ofrecidas cuando se actualice cualquiera de los supuestos previstos en el artículo anterior, informando de dicha situación al contribuyente que ofreció la garantía.
 
 ###### Artículo 180.
 
@@ -2665,11 +2739,15 @@ La cancelación de las garantías en las que con motivo de su otorgamiento se hu
 
 Procede garantizar el interés fiscal cuando:
 
-I. Se solicite la suspensión del procedimiento administrativo de ejecución, inclusive si dicha suspensión se solicita ante el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado en los términos de la Ley de lo Contencioso Administrativo del Estado de Yucatán;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+l. Se solicite la suspensión del procedimiento administrativo de ejecución, inclusive si dicha suspensión se solicita ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, en los términos de la Ley de lo Contencioso Administrativo del Estado de Yucatán.
 
 II. Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente;
 
-III. Se solicite la aplicación del producto en los términos del artículo 210 de este Código, y (sic)
+III. Se solicite la aplicación del producto en los términos del artículo 210 de este Código, y
 
 IV. En los demás casos que señalen este ordenamiento y las leyes fiscales;
 
@@ -2713,7 +2791,17 @@ La tasa de recargos para cada uno de los meses del periodo mencionado, será la 
 
 No se ejecutarán los actos administrativos cuando se garantice el interés fiscal satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de cuarenta y cinco días siguientes a la fecha en que surta efectos su notificación. Si a más tardar al vencimiento del citado plazo se acredita que se ha impugnado el acto y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el Procedimiento Administrativo de Ejecución.
 
-Cuando el contribuyente hubiere interpuesto en tiempo y forma el Recurso de Revocación, el plazo para garantizar el interés fiscal será de cinco meses siguientes a partir de la fecha en que se interponga el referido medio de defensa, debiendo el interesado acreditar ante la autoridad fiscal que lo interpuso dentro de los cuarenta y cinco días siguientes a esa fecha, a fin de suspender el procedimiento administrativo de ejecución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+Cuando el contribuyente hubiera interpuesto en tiempo y forma el Recurso de Revocación previsto en este Código, no estará obligado a exhibir la garantía correspondiente, sino, en su caso, hasta que sea resuelto el medio de defensa señalado en este artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+El contribuyente contará con un plazo de diez días siguientes a aquel en que surta efectos la resolución que recaiga al recurso de revocación, para pagar o garantizar los créditos fiscales en términos de lo dispuesto en este Código.
 
 Cuando en el medio de defensa se impugnen únicamente algunos de los créditos determinados por el acto administrativo cuya ejecución fue suspendida, se pagarán los créditos fiscales no impugnados, con los recargos correspondientes.
 
@@ -2729,9 +2817,13 @@ También se suspenderá la ejecución del acto que determine un crédito fiscal 
 
 Las autoridades fiscales continuarán con el procedimiento administrativo de ejecución a fin de obtener el pago del crédito fiscal, cuando en el procedimiento judicial de concurso mercantil se hubiere celebrado convenio estableciendo el pago de los créditos fiscales y éstos no sean pagados dentro de los treinta días siguientes a la celebración de dicho convenio o cuando no se dé cumplimiento al pago con la prelación establecida en este Código. Asimismo, las autoridades fiscales podrán continuar con dicho procedimiento cuando se inicie la etapa de quiebra en el procedimiento de concurso mercantil en los términos de la ley correspondiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 187.
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado u ocurrir al superior jerárquico de la autoridad ejecutora si se está tramitando recurso, acompañando los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso, el otorgamiento de la garantía del interés fiscal. El superior jerárquico aplicará, en lo conducente, las reglas establecidas por este Código para el citado incidente de suspensión de la ejecución.
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán u ocurrir al superior jerárquico de la autoridad ejecutora si se está tramitando recurso, acompañando los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso, el otorgamiento de la garantía del interés fiscal. El superior jerárquico aplicará, en lo conducente, las reglas establecidas por este Código para el citado incidente de suspensión de la ejecución.
 
 ### CAPÍTULO III. Del Procedimiento Administrativo de Ejecución
 
@@ -2798,6 +2890,16 @@ Una vez practicado el embargo precautorio el contribuyente afectado podrá ofrec
 El embargo precautorio se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución, sujetándose a las disposiciones que este Código establece.
 
 Son aplicables al embargo precautorio a que se refiere este artículo, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que conforme a su naturaleza, le sean aplicables y no contravengan a lo dispuesto en este artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 188-A.
+
+Para los efectos del artículo anterior, cuando la autoridad ejecutora haya iniciado el procedimiento administrativo de ejecución, embargando bienes propiedad del contribuyente y este posteriormente ofrezca garantía suficiente en términos del artículo 163 de este Código, a efecto de asegurar el interés fiscal por la interposición de medios de defensa, la citada autoridad podrá llevar a cabo la calificación y aceptación de la referida garantía y proceder a levantar el embargo.
+
+La garantía a que se refiere el párrafo anterior, podrá ofrecerse hasta en tanto no se hubieren resuelto en definitiva los medios de defensa promovidos por el contribuyente, y no procederá su aceptación en los casos que se ofrezcan como garantía títulos valor o cartera de créditos del contribuyente.
 
 ###### Artículo 189.
 
@@ -2919,6 +3021,16 @@ La autoridad vigilará que los gastos extraordinarios que se efectúen sean los 
 
 No se cobrará los gastos de ejecución a que se refiere el artículo 196 de éste Código, cuando los créditos fiscales respecto de los cuales se ejercitó el procedimiento administrativo de ejecución que dio lugar a dichos gastos, hayan quedado insubsistentes en su totalidad mediante resolución o sentencia definitiva dictada por autoridad competente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 199-A.
+
+Cuando el requerimiento y el embargo a que se refiere el artículo 196, fracciones I y II del Código, se lleven a cabo en una misma diligencia se efectuará únicamente un cobro por concepto de gastos de ejecución.
+
+Para la determinación del monto de los gastos de ejecución a que se refiere el artículo 196 del Código, la autoridad ejecutora considerará que se lleva a cabo una sola diligencia, cuando en un mismo acto se requiera el pago de diferentes contribuciones, aun cuando correspondan a ejercicios distintos.
+
 ###### Artículo 200.
 
 (DEROGADO, D.O. 22 DE DICIEMBRE DE 2011)
@@ -2956,6 +3068,22 @@ No se practicará embargo respecto de aquellos créditos fiscales que hayan sido
 El ejecutor designado por el jefe de la oficina exactora se constituirá en el lugar donde se encuentren los bienes propiedad del deudor y deberá identificarse ante la persona con quien se practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que se señalan para las notificaciones en este Código. De esta diligencia se levantará acta circunstanciada de la que se entregará copia a la persona con quien se entienda la misma, y se notificará al propietario de los bienes embargados.
 
 Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso, se hizo por edictos, estrados, o instructivo, la diligencia se entenderá con la autoridad municipal o local de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 202-A.
+
+Para los efectos del primer párrafo del artículo anterior, la identificación del ejecutor debe hacerse constar en el acta que se levante con motivo de la diligencia, para lo cual se deberá incluir en dicha acta, lo siguiente:
+
+I. El nombre completo del ejecutor, así como el número, la vigencia y la fecha de expedición de la credencial o constancia de identificación del ejecutor;
+
+II. Nombre y cargo del funcionario competente que emite la credencial o constancia de identificación, así como el fundamento para su expedición;
+
+III. El fundamento jurídico que lo acredite para llevar a cabo requerimientos de pago y cualquier otro acto dentro del procedimiento administrativo de ejecución, y
+
+IV. Que el documento con el que se identifica contiene fotografía y firma de quien practica la diligencia.
 
 ###### Artículo 203.
 
@@ -3155,9 +3283,23 @@ Si el deudor o cualquiera otra persona impidieran materialmente al ejecutor el a
 
 Si durante el embargo, la persona con quien se entienda la diligencia no abriere las puertas de las construcciones, edificios o casas señalados para su embargo, o en los que se presuma que existen bienes muebles embargables, el ejecutor, previo acuerdo fundado del titular de la oficina ejecutora, hará que ante dos testigos sean rotas las cerraduras que fuere necesario, para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
 
-En igual forma procederá el ejecutor cuando la persona con quien se entienda la diligencia no abriere los muebles en los que aquél suponga se guardan dinero, acciones, bonos o cualquier otro título de crédito o valor, alhajas, objetos de arte u otros bienes embargables. Si no fuere factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la oficina ejecutora, donde deberán ser abiertos por el deudor o por su representante legal dentro de un plazo de tres días y, en caso de no hacerlo, lo hará un experto designado por la propia oficina, en los términos del reglamento de este Código.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+En igual forma procederá el ejecutor cuando la persona con quien se entienda la diligencia no abriere los muebles en los que aquel suponga se guardan dinero, acciones, bonos o cualquier otro título de crédito o valor, alhajas, objetos de arte u otros bienes embargables. Si no fuere factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la oficina ejecutora, donde deberán ser abiertos por el deudor o por su representante legal dentro de un plazo de tres días y, en caso de no hacerlo, lo hará un experto designado por la propia oficina, en los términos del artículo 214-A de este Código.
 
 Si no fuere factible romper o forzar las cerraduras de cajas u otros objetos unidos a un inmueble o que sean de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido y los sellará; para su apertura se seguirá el procedimiento establecido en el párrafo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 214-A.
+
+Para los efectos del segundo párrafo del artículo anterior, en los casos en los que el deudor o su representante legal no se presenten en las oficinas de la autoridad ejecutora a abrir las cerraduras de los bienes muebles a que se refiere dicho artículo o presentándose se niegue a abrir las cerraduras, la citada autoridad encomendará a un experto para que proceda a su apertura en presencia de dos testigos designados previamente por la propia autoridad.
+
+El ejecutor levantará un acta haciendo constar el inventario completo del contenido de los bienes muebles a que se refiere el párrafo anterior, la cual deberá ser firmada por él, por los testigos y por el depositario designado, una copia del acta se le notificará al deudor.
 
 #### Sección Tercera. De la Intervención
 
@@ -3247,7 +3389,11 @@ La autoridad con objeto de obtener un mayor rendimiento podrá designar otro lug
 
 La base para enajenación de los bienes inmuebles embargados será el de avalúo y para negociaciones, el avalúo pericial, ambos conforme a reglas que se establezcan, en los demás casos, la autoridad practicará avalúo pericial. En todos los casos, la autoridad notificará personalmente al embargado el avalúo practicado.
 
-El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de revocación a que se refiere la fracción II, inciso d) del artículo 139 de este Código, dentro de los diez días siguientes a aquél en que surta efectos la notificación a que se refiere el párrafo anterior, debiendo designar en el mismo como perito de su parte a cualquiera de los valuadores señalados en este Código o alguna empresa o institución dedicada a la compraventa y subasta de bienes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el Recurso de Revocación a que se refiere la fracción II, inciso b) del artículo 139, en relación con el 148 de este Código, debiendo designar en dicho recurso como perito de su parte a cualquiera de los valuadores señalados en este Código o alguna empresa o institución dedicada a la compraventa y subasta de bienes.
 
 Cuando el embargado o terceros acreedores no interpongan el recurso dentro del plazo legal, o haciéndolo no designen valuador, o habiéndose nombrado perito por dichas personas, no se presente el dictamen dentro de los plazos a que se refiere el párrafo quinto de este artículo, se tendrá por aceptado el avalúo hecho por la autoridad.
 
@@ -3289,7 +3435,11 @@ Toda postura deberá ofrecerse de contado, cuando menos la parte suficiente para
 
 Si el importe de la postura es menor al interés fiscal, se rematará de contado los bienes embargados.
 
-La autoridad exactora podrá enajenar a plazos los bienes embargados en los casos y condiciones que establezca la Secretaría mediante reglas de carácter general. En este supuesto, el embargado quedará liberado de la obligación de pago.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+La autoridad exactora podrá enajenar a plazos los bienes embargados en los casos y condiciones que establezca la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general. En este supuesto el embargado quedará liberado de la obligación de pago.
 
 ###### Artículo 232.
 
@@ -3520,3 +3670,13 @@ Este Decreto entrará en vigor el día 1 de enero del año 2014, previa su publi
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y normativas de igual o menor rango en lo que se opongan al contenido de este Decreto.
+
+D.O. 26 DE DICIEMBRE DE 2014.
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2015, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Derogación tácita
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
