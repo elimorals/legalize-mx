@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-adquisiciones-enajenaciones-arrendamientos-y-46361"
 country: "mx"
 rank: "ley"
 publication_date: "2005-09-16"
-last_updated: "2013-06-07"
+last_updated: "2014-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL SECTOR PÚBLICO EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE CONTRATACIONES PÚBLICAS PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el viernes 16 de septiembre de 2005.
 
@@ -43,7 +45,7 @@ LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto regular las acciones y operaciones relativas a los actos y contratos que lleven a cabo y celebren los sujetos de esta Ley, en materia de adquisiciones, enajenaciones y arrendamientos de bienes muebles e inmuebles y de prestación e servicios relacionados con los mismos.
+La presente Ley es de orden público e interés general y tiene por objeto regular las acciones y operaciones relativas a los actos y contratos que lleven a cabo y celebren los sujetos de esta Ley, en materia de adquisiciones, enajenaciones y arrendamientos de bienes muebles e inmuebles y de prestación de servicios relacionados con los mismos.
 
 ###### Artículo 2.
 
@@ -141,7 +143,7 @@ II. Los servicios de mercado de valores y de banca y crédito;
 
 III. Los bienes adquiridos o recibidos en consignación por las dependencias y entidades, para su comercialización a sus empleados y al público en general;
 
-IV. La contratación de servicios personales bajo el régimen fiscal de honorarios asimilados a salarios, y (sic)
+IV. La contratación de servicios personales bajo el régimen fiscal de honorarios asimilados a salarios, y
 
 V. La adquisición de reservas territoriales necesarias para la construcción de infraestructura pública;
 
@@ -815,7 +817,7 @@ II. Cuando no se presenten por lo menos tres posturas;
 
 III. Cuando sea más costosa la realización del procedimiento de enajenación que el valor estimado de los bienes muebles;
 
-IV. Cuando se rescinda un contrato adjudicado conforme a este procedimiento; en tal supuesto, conforme al criterio de adjudicación, el comité celebrará un nuevo contrato de enajenación con el postor que resulte mas aceptable de los que participaron en la subasta, y (sic)
+IV. Cuando se rescinda un contrato adjudicado conforme a este procedimiento; en tal supuesto, conforme al criterio de adjudicación, el comité celebrará un nuevo contrato de enajenación con el postor que resulte mas aceptable de los que participaron en la subasta, y
 
 V. Cuando el destino de los bienes muebles propiedad del Estado sea la donación a los municipios, a instituciones educativas, de beneficencia, o a otras entidades federativas, por acuerdo del sujeto de esta Ley que corresponda;
 
@@ -1480,3 +1482,29 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 26 DE DICIEMBRE 2014.
+
+Inicio de vigencia
+
+Artículo Primero. La presente ley entrará en vigor el 1 de febrero de 2015, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de la vigente Ley
+
+Artículo Segundo. Se abroga la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato, expedida a través de Decreto Legislativo número 198, publicado en el Periódico Oficial del Gobierno del Estado número 148, de fecha 16 de septiembre de 2005.
+
+Procedimientos en trámite
+
+Artículo Tercero. Los procedimientos de contratación, de aplicación de sanciones e inconformidades, así como los demás asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente ley, se tramitarán y resolverán conforme a las disposiciones aplicables al momento en que se iniciaron. Los contratos de adquisiciones, arrendamientos, enajenaciones y servicios que se encuentren vigentes, se regirán por las disposiciones aplicables en el momento en que se celebraron.
+
+Término para expedir la reglamentación
+
+Artículo Cuarto. A partir de la entrada en vigor la presente ley y en un término no mayor a noventa días, los sujetos de esta ley expedirán en el ámbito de sus respectivas competencias, los reglamentos de la misma. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente ley.
+
+Término excepcional para los programas de compras del año 2015
+
+Artículo Quinto. Por esta sola ocasión, los sujetos de la ley pondrán a disposición del público en general su programa anual de adquisiciones, arrendamientos y servicios correspondiente al ejercicio fiscal 2015, a más tardar el 31 de marzo de 2015.
+
+Derogación tácita
+
+Artículo Sexto. Se derogan las demás disposiciones legales y administrativas que se opongan a la presente ley.
