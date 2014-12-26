@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2013-12-24"
+last_updated: "2014-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -2271,7 +2271,7 @@ VIII. Restricciones Federales y Estatales de Uso del Suelo: las contempladas en 
 
 IX. Licencia Municipal de Construcción: el acto por el cual cada Ayuntamiento autoriza la ejecución de una edificación, instalación u obra o alguno de los servicios específicos que señale el Reglamento de ésta Ley;
 
-X. Director Responsable de Obra: la persona física que, inscrita en el respectivo Registro Municipal está habilitada para asumir la dirección y vigilancia de la ejecución de obras de edificación o urbanización para la construcción, así como la que sólo desarrolle una actividad parcialmente vinculada con determinado proyecto u obra, y (sic)
+X. Director Responsable de Obra: la persona física que, inscrita en el respectivo Registro Municipal está habilitada para asumir la dirección y vigilancia de la ejecución de obras de edificación o urbanización para la construcción, así como la que sólo desarrolle una actividad parcialmente vinculada con determinado proyecto u obra, y
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -3097,7 +3097,7 @@ II. Transferir gratuitamente al mismo ayuntamiento las áreas de donación desti
 
 a) Tener acceso directo por vía pública existente o en proyecto, y tener cuando menos quinientos metros cuadrados de superficie, con quince metros de frente.
 
-b) Para el supuesto de que el área de donación sea menor a quinientos metros cuadrados, el propietario o el ayuntamiento podrán solicitar que dicha superficie le sea pagada en efectivo al municipio, tomando como valor unitario el comercial practicado por un perito valuador debidamente inscrito en el Padrón Estatal de Peritos, o el catastral; en ambos casos del predio ya urbanizado; siempre será tomando siempre (sic) el valor que resulte mayor.
+b) Para el supuesto de que el área de donación sea menor a quinientos metros cuadrados, el propietario o el ayuntamiento podrán solicitar que dicha superficie le sea pagada en efectivo al municipio, tomando como valor unitario el comercial practicado por un perito valuador debidamente inscrito en el Padrón Estatal de Peritos, o el catastral; en ambos casos del predio ya urbanizado; siempre será tomando siempre el valor que resulte mayor.
 
 Los recursos obtenidos por el ayuntamiento en los términos del inciso b), deberán ser destinados preferentemente para la adquisición de reserva territorial para equipamiento urbano o infraestructura básica en las zonas socioeconómicas menos favorecidas del centro de población que lo requiera; siempre y cuando sea aprobado por cuando menos las dos terceras partes de los integrantes del cabildo, el que será responsable de que estos recursos se apliquen exclusivamente a los fines anteriormente señalados.
 
@@ -3105,9 +3105,9 @@ c) Reunirán las características físicas que se indican: no exceder su pendien
 
 d) Su localización dentro del respectivo desarrollo urbano, será determinada por el ayuntamiento, a fin de responder debidamente a la mejor distribución, acceso y funcionamiento de los servicios públicos urbanos.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-El ayuntamiento reservará en las áreas de donación de que se trate, el cincuenta por ciento para área verde, la que quedará al cuidado de los vecinos del fraccionamiento; y el resto deberá ser utilizado exclusivamente para equipamiento urbano, en beneficio social.
+El ayuntamiento reservará en las áreas de donación de que se trate, el cincuenta por ciento para área verde, las cuales deberán incorporarse como áreas de uso común, es decir, de dominio público, las cual (sic) serán inalienables, imprescriptibles e inembargables, y no podrán ser sujetas de venta, permuta, donación, cesión, comodato, o cualquier acto de enajenación; las áreas verdes deberán ser espacios ajardinados, el fraccionador tendrá la obligación de introducir plantas endémicas de la región y dotarlas para tales efectos, mismas que quedarán al cuidado de los vecinos del fraccionamiento; y el resto deberá ser utilizado exclusivamente para equipamiento urbano, en beneficio social.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
@@ -3257,7 +3257,9 @@ Los tiempos máximos de respuesta de cada una de las instancias que participan e
 
 II. Títulos que acrediten la plena propiedad del inmueble objeto del fraccionamiento, con la constancia de inscripción en el Registro Público de la Propiedad, y comprobante de pago del impuesto predial al corriente;
 
-III. Proyecto de lotificación y memoria descriptiva del fraccionamiento;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+III. Proyecto de lotificación; proyecto de memoria descriptiva; y proyecto que contenga la delimitación del cincuenta por ciento de las áreas verdes establecidas en el artículo 177 de esta Ley, las cuales no podrán ser modificadas ni alteradas, después de haber sido aprobado el proyecto;
 
 IV. Plano topográfico;
 
@@ -3619,9 +3621,9 @@ La construcción de condominios verticales, horizontales y mixtos queda sujeta a
 
 I. En construcciones en condominio, el número máximo de viviendas será el que al efecto establezca el respectivo Plan de Desarrollo Urbano, en las normas de zonificación secundaria y en donde no haya Plan se respetarán las densidades máximas establecidas para los fraccionamientos en el presente ordenamiento legal;
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-II. Los condominios estarán afectos a ceder área de donación para equipamiento conforme a lo dispuesto en el artículo 157, fracción IV de esta Ley, la cual se ubicará adyacente y al exterior del condominio. En los casos en que el área de donación sea menor de 500 metros cuadrados se podrá aplicar el procedimiento de transferencia de áreas de donación que establezca el Reglamento de esta Ley;
+II. Los condominios estarán afectos a ceder área de donación para equipamiento, conforme a lo dispuesto en el artículo 157 fracción IV de esta Ley, donde el cincuenta por ciento se ubicará al exterior del condominio; y el cincuenta por ciento restante destinado para área verde, se ubicará al interior del condominio, misma que quedará al cuidado de los condóminos. En los casos en que el área de donación sea menor de quinientos metros cuadrados, se podrá aplicar el procedimiento de transferencia de áreas de donación que establezca el Reglamento de esta Ley. El cincuenta por ciento que corresponde al interior del condominio deberá estar distribuido de preferencia de manera equitativa en el fraccionamiento para beneficio de sus habitantes.
 
 III. Los estacionamientos deberán ubicarse al interior del terreno, salvo aquellos que den servicio a viviendas con frente a vía pública;
 
@@ -4134,6 +4136,12 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente De
 TERCERO. El Plan Regional de Desarrollo deberá adecuarse con las reformas relativas a la Ley de Desarrollo Urbano, en un término de trescientos sesenta y cinco días, contados a partir de la entrada en vigor de este Decreto.
 
 P.O. 24 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
