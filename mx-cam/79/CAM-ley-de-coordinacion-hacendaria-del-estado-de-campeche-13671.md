@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-coordinacion-hacendaria-del-estado-de-campeche-13671"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-31"
-last_updated: "2014-06-27"
+last_updated: "2014-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Campeche, el martes 31 de diciembre de 1996.
 
@@ -471,7 +473,7 @@ La coordinación en materia de gasto público podrá generar relaciones intergub
 
 Los acuerdos y convenios de coordinación que en esta materia celebren las entidades señaladas tendrán dos aspectos:
 
-I. El aspecto administrativo sustantivo: que comprende las funciones de la administración pública estatal o municipal que se identifica con la finalidad de producir bienes y prestar servicios a la comunidad. El aspecto administrativo sustantivo de las materias o programas. que sean objeto de coordinación se regirán por la normatividad jurídico-administrativa aplicable; y
+I. El aspecto administrativo sustantivo: que comprende las funciones de la administración pública estatal o municipal que se identifica con la finalidad de producir bienes y prestar servicios a la comunidad. El aspecto administrativo sustantivo de las materias o programas, que sean objeto de coordinación se regirán por la normatividad jurídico-administrativa aplicable; y
 
 II. El aspecto administrativo financiero, que se refiere a los recursos o medios económicos que se destinan para hacer frente a las necesidades monetarias de los acuerdos y convenios que se celebren. Al aspecto administrativo financiero se le identifica como el medio para realizar el aspecto administrativo sustantivo.
 
@@ -986,3 +988,11 @@ P.O. 27 DE JUNIO DE 2014.
 PRIMERO.-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias, del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+Primero.- El presente decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley de Coordinación Hacendaría del Estado de Campeche, así como todos los decretos que la adicionaron, reformaron o, en su caso, derogaron; asimismo, se derogan todas las disposiciones legales, reglamentarias, administrativas y contractuales del marco jurídico estatal, en lo que se opongan al contenido de la presente Ley.
+
+Tercero.- Se autoriza a los ayuntamientos de los municipios del Estado, previa aprobación de sus respectivos cabildos, con el propósito de que puedan afectar los recursos que les correspondan del Fondo de Aportaciones para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal, como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y de derechos por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales de conformidad con lo dispuesto por el artículo 51 de la Ley de Coordinación Fiscal.
