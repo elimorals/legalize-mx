@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2014-10-03"
+last_updated: "2014-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -149,7 +149,7 @@ VII.- Disposiciones normativas de alcance particular;
 
 VIII.- Disposiciones administrativas de carácter interno (Circulares);
 
-IX.- Acuerdos económicos; (sic)
+IX.- Acuerdos económicos;
 
 REGLAMENTO.
 
@@ -253,7 +253,7 @@ III.- Solicitar al Presidente Municipal la celebración de sesiones extraordinar
 
 IV.- Presentar iniciativas de acuerdo de cabildo y proponer las medidas que consideren necesarias para el mejor ejercicio del Gobierno y la buena marcha de la administración pública municipal;
 
-V.- Expresar el sentido de su voto en las sesiones de cabildo o comisiones que integre; (sic)
+V.- Expresar el sentido de su voto en las sesiones de cabildo o comisiones que integre;
 
 OBLIGACIONES DE LOS INTEGRANTES DEL AYUNTAMIENTO.
 
@@ -1005,7 +1005,7 @@ Es aquella que corresponde a más de la mitad de los integrantes del Ayuntamient
 
 II.- MAYORIA CALIFICADA:
 
-Es aquella que corresponde a cuando menos las dos terceras partes de los integrantes del Ayuntamiento, elevando en su caso las fracciones al número entero; (sic)
+Es aquella que corresponde a cuando menos las dos terceras partes de los integrantes del Ayuntamiento, elevando en su caso las fracciones al número entero;
 
 VOTACION SUFICIENTE.
 
@@ -1503,7 +1503,9 @@ COMISION DE PLANEACION Y DESARROLLO ECONOMICO.
 
 Atribuciones:
 
-I.- Dictaminar respecto de los asuntos relativos a los proyectos de reglamentos, iniciativas de Ley y disposiciones normativas de observancia general, en materia económica y de planeación a corto, mediano y largo plazo para el desarrollo integral del Municipio.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+I.- Dictaminar respecto de los asuntos relativos a los proyectos de reglamentos, iniciativas de Ley, disposiciones normativas de observancia general y actualización de la normatividad municipal en materia de desarrollo económico, de mejora regulatoria y de planeación a corto, mediano y largo plazo para el desarrollo integral del Municipio;
 
 II.- Proponer al Ayuntamiento los mecanismos e instrumentos de investigación, planeación, y participación social, que resulten necesarios para promover el equilibrio en las políticas de desarrollo del Municipio, que garanticen la continuidad de los procesos de planeación del desarrollo municipal; y
 
@@ -1511,7 +1513,13 @@ III.- Vigilar la elaboración y actualización del Plan Municipal de Desarrollo 
 
 IV.- Participar en los organismos que promuevan el desarrollo económico en los que tenga injerencia el ayuntamiento, a través de sus dependencias;
 
-V.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios apara (sic) la promoción del desarrollo económico del municipio.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+V.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios apara (sic) la promoción del desarrollo económico del municipio;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VI.- Supervisar el funcionamiento de los trámites y los servicios que preste la Unidad Municipal de Gestión Empresarial y Mejora Regulatoria (UGEMER), solicitar a ésta a través del Presidente Municipal, los informes relativos a sus acciones y programas e informar al Ayuntamiento y al Presidente Municipal sobre cualquier deficiencia en la prestación de sus trámites y servicios.
 
 COMISION DE ADMINISTRACION Y FORTALECIMIENTO MUNICIPAL.
 
@@ -1523,7 +1531,7 @@ I.- Dictaminar respecto de los proyectos de Reglamentos, y disposiciones normati
 
 II.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para modernizar y simplificar el funcionamiento y operación de la administración pública municipal y las políticas para el control de los recursos humanos, materiales y financieros.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 COMISION DE EDUCACION, CULTURA, CIENCIA Y TECNOLOGÍA.
 
@@ -1621,7 +1629,7 @@ b).- Los mecanismos y acciones necesarias para mejorar la atención a la Comunid
 
 III.- Promover acciones tendientes a incentivar la participación de los miembros de la comunidad indígena del Municipio en los programas y actividades del Gobierno Municipal.
 
-> <small>(ADICIONADA SU DENOMINACION, P.O. 18 DE JULIO DE 2008)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2008)</small>
 
 COMISION DE PESCA Y ACUACULTURA SUSTENTABLES.
 
@@ -1635,7 +1643,7 @@ II.- Proponer al Ayuntamiento:
 
 a) Los mecanismos, instrumentos, programas y acciones que resulten necesarios para fomentar, impulsor y promover la pesca y la acuacultura como actividades estratégicas para el desarrollo del Municipio, considerando la participación del sector social y privado;
 
-b) La adopción de políticas y medidas necesarias para el mejorar (sic) la atención a las necesidades o problemas del sector pesquero y acuícola, vigilando el cumplimiento de los planes y programas del Gobierno Municipal en esa materia;
+b) La adopción de políticas y medidas necesarias para el (sic) mejorar la atención a las necesidades o problemas del sector pesquero y acuícola, vigilando el cumplimiento de los planes y programas del Gobierno Municipal en esa materia;
 
 III.- Supervisar el desempeño de la unidad administrativa de la Administración Pública Municipal que se encargue de dar atención y tramite a los asuntos relacionados con la Pesca y la Acuacultura, y coadyuvar en la promoción de sus acciones, eventos y actividades;
 
@@ -2028,3 +2036,9 @@ P.O. 3 DE OCTUBRE DE 2014.
 PRIMERO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
 
 SEGUNDO.- Una vez publicada la presente reforma en el Periódico Oficial del Gobierno del Estado de Baja California, el Presidente Municipal de Ensenada, Baja California, en la siguiente Sesión de Cabildo deberá someter a la aprobación del Ayuntamiento la propuesta para la designación del Regidor Coordinador y Regidores Vocales que integrarán la Comisión de Protección Civil, en los términos del Reglamento Interior para el Ayuntamiento de Ensenada, B.C.
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el periódico oficial del estado de Baja California.
