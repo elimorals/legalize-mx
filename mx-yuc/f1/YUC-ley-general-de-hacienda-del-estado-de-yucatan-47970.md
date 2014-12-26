@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2014-11-27"
+last_updated: "2014-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 20, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 29 DE DICIEMBRE DE 2012, EL CAPÍTULO IV, DEL TÍTULO III DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 244/2014, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 26 DE DICIEMBRE DE 2014, EL CAPÍTULO IV, DEL TÍTULO TERCERO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -89,13 +89,11 @@ OBLIGACIONES ESPECÍFICAS DE CADA TRIBUTO: A aquellas obligaciones a cargo de lo
 
 UNIDADES ECONÓMICAS: A los fideicomisos, las asociaciones en participación a que se refiere la Ley General de Sociedades Mercantiles, las sucesiones, las copropiedades, las sociedades conyugales y todas aquellas entidades, que sin tener personalidad jurídica propia, realizan los actos o actividades que causan contribuciones o aprovechamientos. El tratamiento fiscal de las unidades económicas será el mismo que para las personas morales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 4.
 
-Los impuestos que establece esta Ley podrán pagarse en las oficinas recaudadoras y en las instituciones de crédito que autorice para tal efecto la Secretaría de Administración y Finanzas o la Agencia de Administración Fiscal de Yucatán; utilizando los medios de pago señalados en el Código Fiscal del Estado de Yucatán, e incluso mediante transferencia electrónica de fondos.
+El pago de las contribuciones y demás ingresos a que se refiere esta ley podrá realizarse en las instituciones de crédito, establecimientos u oficinas autorizados por la Secretaría de Administración y Finanzas o la Agencia de Administración Fiscal de Yucatán; utilizando los medios de pago señalados en el Código Fiscal del Estado de Yucatán.
 
 ###### ARTÍCULO 5.
 
@@ -175,13 +173,11 @@ Cuando se trate de vehículos que se encuentren en mal estado, se practicará un
 
 #### SECCIÓN CUARTA. DE LA TASA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 11.
 
-El impuesto se determinará aplicando a la base la tasa del 3%.
+El impuesto se determinará aplicando a la base la tasa del 1 %.
 
 #### SECCIÓN QUINTA. DE LA CAUSACIÓN
 
@@ -355,7 +351,9 @@ Los contribuyentes deberán presentar las declaraciones provisionales aun cuando
 
 El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos las deducciones autorizadas correspondientes al mismo período. Al resultado se le aplicará la tasa que establece la presente Ley. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario.
 
-En los casos en los que el impuesto definitivo del contribuyente sea menor que la cantidad que se acredite en los términos del párrafo anterior, se podrá solicitar la devolución del impuesto efectivamente pagado en exceso.
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+En los casos en los que el impuesto definitivo del contribuyente sea menor que la cantidad que se acredite en los términos del párrafo anterior, se podrá solicitar la devolución o compensación del impuesto efectivamente pagado en exceso.
 
 > <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
 
@@ -507,11 +505,9 @@ Para efectos de este artículo, se considera que la casa-habitación del contrib
 
 El objeto de este impuesto lo constituyen las erogaciones que se efectúen en el Estado de Yucatán por concepto de remuneración al trabajo personal subordinado, así como las erogaciones por remuneraciones a honorarios asimilables a salarios, siempre y cuando los servicios que las generen se efectúen en el territorio de este Estado. También, se considera objeto de este impuesto, el servicio personal subordinado, cuando se preste en el territorio del Estado de Yucatán no obstante que se cubra su remuneración en otra entidad federativa o en el Distrito Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
-
-Para los efectos de este artículo, se entienden por erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás contraprestaciones que deriven de una relación laboral, incluyendo las provenientes de comisiones, premios, gratificaciones, primas dominicales, vacacionales y por antigüedad; así como cualquier otra contraprestación destinada a remunerar el trabajo personal subordinado, independientemente de la designación que se le dé, así como las cantidades que por concepto de alimentos proporcionen sociedades universales y particulares a sus integrantes de acuerdo con la legislación civil del Estado de Yucatán, así mismo, los rendimientos y anticipos, que obtengan los miembros de las sociedades cooperativas de producción. También se entiende por erogaciones destinadas a remunerar el trabajo personal subordinado, los fondos de previsión social a que se refiere el artículo 58 de la Ley General de Sociedades Cooperativas, que se entreguen a los cooperativistas, cuando dicho fondo no sea deducible en los términos de la fracción XXIII del artículo 31 de la Ley del Impuesto sobre la Renta.
+Para los efectos de este artículo, se entienden por erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás contraprestaciones que deriven de una relación laboral, incluyendo las provenientes de comisiones, premios, gratificaciones, primas dominicales, vacacionales y por antigüedad; así como cualquier otra contraprestación destinada a remunerar el trabajo personal subordinado, independientemente de la designación que se le dé, así como las cantidades que por concepto de alimentos proporcionen sociedades universales y particulares a sus integrantes de acuerdo con la legislación civil del Estado de Yucatán, así mismo, los rendimientos y anticipos, que obtengan los miembros de las sociedades cooperativas de producción. También se entiende por erogaciones destinadas a remunerar el trabajo personal subordinado, los fondos de previsión social a que se refiere el artículo 58 de la Ley General de Sociedades Cooperativas, que se entreguen a los cooperativistas, cuando dicho fondo no sea deducible en los términos de la fracción XXI del artículo 27 de la Ley del Impuesto sobre la Renta.
 
 Se entiende por honorarios asimilables a salarios, las erogaciones por concepto de contraprestación al servicio personal independiente, siempre y cuando éste se preste bajo la dirección del prestatario, en forma preponderante y, siempre que el servicio se lleve a cabo en las instalaciones del mismo.
 
@@ -815,7 +811,9 @@ V. Los obtenidos de sorteos de bonos del ahorro nacional y de planes de ahorro a
 
 VI. Cuando se de algunos de los siguientes supuestos:
 
-a) Los juegos con apuestas y sorteos se lleven a cabo por personas morales sin fines de lucro autorizadas para recibir donativos deducibles para los efectos de la Ley del Impuesto sobre la Renta, a que se refiere el Artículo 95, fracciones VI, IX y XVII de dicha Ley, siempre que destine la totalidad de sus ingresos, una vez descontados los premios efectivamente pagados, a los fines para los cuales fueron constituidas;
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+a) Los juegos con apuestas y sorteos (sic) se lleven a cabo por personas morales sin fines de lucro autorizadas para recibir donativos deducibles para los efectos de la Ley del Impuesto sobre la Renta, a que se refiere el Artículo 79, fracciones VI, IX y XVII de dicha ley, siempre que destine la totalidad de sus ingresos, una vez descontados los premios efectivamente pagados, a los fines para los cuales fueron constituidas;
 
 b) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad sin sujetarse a pago, a la adquisición de un bien o a la contratación de un servicio, o
 
@@ -833,7 +831,9 @@ c) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad
 
 Los contribuyentes que organicen, administren, exploten o patrocinen, loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, tendrán, independientemente de las obligaciones de carácter general previstas en esta Ley, las siguientes:
 
-I. Expedir boletos o comprobantes impresos por imprenta autorizada, que den derecho a participar en la lotería, rifa, sorteo, concurso o juego con cruce de apuestas legalmente permitidos numerados progresivamente, en los que se exprese el nombre de la empresa, el tipo de actividad, costo del mismo, los datos de la imprenta autorizada, número de folios de boletos emitidos, la fecha de emisión, y presentarlos junto con la factura respectiva ante la Secretaría de Hacienda del Estado, para su autorización, cuando menos cinco días hábiles antes de que se lleve a cabo la actividad gravada, así como señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en las actividades mencionadas el valor de los premios, aún cuando éstos sean en especie. Dicha autoridad deberá proceder a sellar el boletaje;
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+I.- Expedir boletos o comprobantes impresos por imprenta autorizada, que den derecho a participar en la lotería, rifa, sorteo, concurso o juego con cruce de apuestas legalmente permitidos numerados progresivamente, en los que se exprese el nombre de la empresa, el tipo de actividad, su costo, los datos de la imprenta autorizada, número de folios de boletos emitidos, la fecha de emisión, y presentarlos junto con la factura respectiva ante la Agencia de Administración Fiscal, para su autorización, cuando menos cinco días hábiles antes de que se lleve a cabo la actividad gravada, así como señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en las actividades mencionadas el valor de los premios, aun cuando éstos sean en especie. Dicha autoridad deberá proceder a sellar el boletaje;
 
 II. Vender únicamente boletos con autorización oficial;
 
@@ -955,6 +955,10 @@ Las personas físicas o morales, tenedoras o usuarias de vehículos, sujetas al 
 
 Lo señalado en el párrafo anterior se deberá realizar independientemente de haber pagado el impuesto correspondiente al ejercicio fiscal al de aplicación de la Ley de Ingresos del Estado, ya sea en el Estado de Yucatán o en otra entidad federativa.
 
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+La Agencia de Administración Fiscal de Yucatán emitirá las disposiciones normativas necesarias para dar cumplimiento a lo establecido en este capítulo.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
@@ -979,7 +983,9 @@ Tratándose de la enajenación de vehículos embargados y/o rematados por una au
 
 a) El valor que establezcan las guías que fijan los precios del mercado automotriz para vehículos usados, al momento de efectuarse la operación;
 
-b) Si el modelo del vehículo no apareciera en las mencionadas guías, se tomará como referencia para determinar el precio de mercado, el 85% o del importe total de la factura original expedida por el distribuidor, sin incluir el Impuesto al Valor Agregado, y
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+b) Si el modelo del vehículo no apareciera en las mencionadas guías, se tomará como referencia para determinar el precio de mercado, el 85% del importe total del comprobante fiscal de origen expedido por el distribuidor, sin incluir el Impuesto al Valor Agregado, y
 
 c) Si no se cuenta con ninguno de los dos supuestos anteriores se practicará avalúo por un perito en la materia.
 
@@ -1105,15 +1111,9 @@ Están obligados al pago del impuesto establecido en este capítulo, las persona
 
 > <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL D.O. DE 19 DE DICIEMBRE DE 2013 EL SEGUNDO PÁRRAFO DEL PRESENTE ARTÍCULO PASÓ A FORMAR PARTE DE LA FRACCIÓN VII.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
-
-ARTÍCULO 47 F.- Tratándose de vehículos nuevos el impuesto se determinará de conformidad con lo siguiente:
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-l.- Para los vehículos de hasta 15 pasajeros, vehículos blindados y los vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
+ARTÍCULO 47 F.- Tratándose de vehículos nuevos el Impuesto Sobre Tenencia o Uso de Vehículos se determinará de conformidad con lo siguiente:
 
 > <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -1505,17 +1505,13 @@ VIII.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, 
 
 IX.- En los casos en los que se acredite haber cubierto un impuesto correspondiente al año de calendario de que se trate en otra entidad federativa, cuyo objeto coincida con el de este Capítulo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+Cuando, por cualquier motivo, un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, su propietario, tenedor o usuario deberá dar aviso a la Agencia de Administración Fiscal de Yucatán dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate y pagar el impuesto correspondiente, de conformidad con las disposiciones aplicables a los supuestos establecidos en el presente capítulo.
 
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá dar aviso a la Agencia de Administración Fiscal de Yucatán dentro de los 15 días siguientes a aquél en que tenga lugar el hecho de que se trate y pagar el impuesto correspondiente.
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 47 J.- Los tenedores o usuarios de los vehículos a que se refiere el artículo anterior, para gozar del beneficio que se establece en el mismo deberán comprobar ante la Agencia de Administración Fiscal de Yucatán, que se encuentran comprendidos en dichos supuestos, cumpliendo los lineamientos que para tal efecto emita la citada dependencia.
+ARTÍCULO 47 J.- Los propietarios, tenedores o usuarios de los vehículos a que se refiere el artículo anterior, para gozar del beneficio que establece, deberán comprobar ante la Agencia de Administración Fiscal de Yucatán, que se encuentran comprendidos en dichos supuestos, cumpliendo los lineamientos que para tal efecto emita la citada dependencia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1691,7 +1687,9 @@ X.- Derechos por la verificación de emisión de contaminantes generados por veh
 
 XI.- Derechos por el uso, goce o aprovechamiento de bienes de dominio público del Estado;
 
-XII.- Derechos por los servicios que prestan las unidades del Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XII.- Derechos por el Uso de Bienes del Dominio Público del Estado de Yucatán que operen como Paradores Turísticos de Zonas Arqueológicas y Turísticas;
 
 XIII.- Derechos por los servicios de supervisión, vigilancia y registro de máquinas de juegos y apuestas;
 
@@ -1893,9 +1891,7 @@ IV.- A presentar un aviso ante las oficinas autorizadas de la Agencia de Adminis
 
 V.- Presentar a las autoridades fiscales la información que se les requiera mediante reglas de carácter general, a fin de que pueda integrarse el registro a que se refiere el segundo párrafo del artículo 85-K.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ### CAPÍTULO II. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
@@ -1903,15 +1899,7 @@ V.- Presentar a las autoridades fiscales la información que se les requiera med
 
 > <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
-#### SECCIÓN SEXTA. DEL EMBARGO Y REMATE DE LAS MÁQUINAS DE JUEGOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 85 O.- Sin perjuicio de la aplicación de las sanciones que correspondan en términos del Código Fiscal del Estado de Yucatán, a quienes incumplan con la obligación de pago del derecho previsto en este Capítulo, no adhieran o retiren a las máquinas de juegos el holograma previsto en el artículo 85-M, se les embargará y retirará adicionalmente las máquinas correspondientes.
-
-El producto del remate de dichos bienes se destinará a los programas del Estado que fomenten la actividad física y el deporte entre los jóvenes.
+#### SECCIÓN SEXTA. ARTÍCULO 85 O.- (DEROGADO, D.O. 26 DE DICIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2147,6 +2135,10 @@ c) Con vigencia de cinco años 5.38 S.M.G.
 
 Por reposición de licencias de conducir y permiso temporal para conducir, por un término de hasta seis meses, por extravío o deterioro, se causará un derecho equivalente al 50% del costo de su expedición.
 
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 54 A.- Por la expedición de Tarjetón para pasajeros con discapacidad se causará un derecho de 1.57 S.M.G.
+
 ###### ARTÍCULO 55.
 
 La estancia en el corralón, causará un derecho diario por vehículo, de acuerdo con lo siguiente:
@@ -2359,6 +2351,12 @@ XIII.- Por servicio extraordinario de 12 horas con elemento de la
 
 policía armada 30.00 S.M.G.
 
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XIV.- Por servicio extraordinario de 1 hora con elemento de la
+
+policía armada 4.00 S.M.G.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
@@ -2479,9 +2477,9 @@ c) Notariales 7.84 S.M.G.
 
 XI.- Certificaciones 0.81 S.M.G.
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XII.- Registro extemporáneo de nacimiento:
+XII.- Diligencia administrativa de registro extemporáneo de nacimiento:
 
 a) De 8 a 17 años 1.44 S.M.G.
 
@@ -2507,9 +2505,9 @@ XVI.- Autorización de Inhumación o Cremación 0.27 S.M.G.
 
 XVII.- Búsqueda de actas del estado civil sin datos concretos por búsqueda hasta 5 años mediante manual en oficialía y archivo 1.65 S.M.G
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XVIII.- Registro de nacimiento a domicilio 4.59 S.M.G
+XVIII.- Diligencia a domicilio por registro de nacimiento 4.59 S.M.G
 
 > <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -2540,6 +2538,8 @@ Los servicios dispuestos en las fracciones III, V, VIII, y IX, incluyen la exped
 > <small>(ADICIONADO, D.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 No se causarán los derechos a que se refiere la fracción XI de este artículo cuando se trate de la primera certificación del acta de registro de nacimiento.
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 244/2014, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 26 DE DICIEMBRE DE 2014, EL CAPÍTULO IV, DEL TÍTULO TERCERO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
 
 ### CAPÍTULO IX. DERECHOS POR LOS SERVICIOS QUE PRESTA LA CONSEJERÍA JURÍDICA
 
@@ -2629,9 +2629,9 @@ V.- Por la expedición de cualquier certificado,
 
 por cada predio 5.80 S.M.G.
 
-VI.- Por la rectificación o la reposición
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-de inscripción 1.32 S.M.G.
+VI.- Por la rectificación de inscripción 1.32 S.M.G.
 
 VII.- Por la verificación de cualquier predio 0.65 S.M.G.
 
@@ -2641,7 +2641,19 @@ IX.- Por la cancelación de la anotación
 
 de cualquier aviso. 0.35 S.M.G.
 
-No se causarán los derechos a que se refieren las fracciones I, II y III de este artículo, en los casos en que el servicio se preste para la inscripción de contratos, en los cuales sean parte el Instituto de Seguridad Social para los Trabajadores del Estado de Yucatán, Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores, el Instituto de la Vivienda del Estado de Yucatán, la Comisión Reguladora de la Tenencia de la Tierra o el Registro Agrario Nacional, o los relativos a contratos de créditos celebrados por cualesquiera de las instituciones públicas o de crédito autorizadas, cuyo objeto sea la adquisición o la construcción de viviendas; siempre y cuando el monto de la operación, individualmente considerada, no exceda de la cantidad que resulte de multiplicar por 25 veces el salario mínimo general vigente en el Estado de Yucatán, elevado al año. De igual forma no se causarán los derechos señalados cuando se trate de las adjudicaciones a favor de los trabajadores que señala el artículo 975 fracción II inciso b) de la Ley Federal del Trabajo.
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+X.- Por la corrección de la anotación de cualquier
+
+aviso 0.39 S.M.G.
+
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XI.- Por la inscripción de la copia o constancia del acta de la diligencia de ejecución en juicio ejecutivo mercantil, para el caso de haberse embargado bienes inmuebles 0.39 S.M.G.
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+No se causarán los derechos a que se refieren las fracciones I, II, III y VIII de este artículo, en los casos en que el servicio se preste para la inscripción de contratos, en los cuales sean parte el Instituto de Seguridad Social para los Trabajadores del Estado de Yucatán, Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Instituto de la Vivienda del Estado de Yucatán, la Comisión Reguladora de la Tenencia de la Tierra o el Registro Agrario Nacional; así como tampoco los que se refieren a las fracciones I, II y III en los casos relativos a contratos de créditos celebrados por cualesquiera de las instituciones públicas o de crédito autorizadas, cuyo objeto sea la adquisición o la construcción de viviendas; siempre y cuando el monto de la operación, individualmente considerada, no exceda de la cantidad que resulte de multiplicar por 25 veces el salario mínimo general vigente en el Estado de Yucatán, elevado al año. De igual forma no se causarán los derechos señalados cuando se trate de las adjudicaciones a favor de los trabajadores que señala el artículo 975 fracción II inciso b) de la Ley Federal del Trabajo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2881,15 +2893,9 @@ Los servicios que presta la Dirección del Catastro causarán derechos de confor
 
 I.- La emisión de copias fotostáticas simples:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-a) Por cada hoja simple tamaño carta u oficio,
-
-de cédulas, planos, parcelas o cualquier otro
-
-documento 0.28 S.M.G.
+a) Por cada hoja simple tamaño carta u oficio, de cédulas, planos, parcelas o cualquier otro documento catastral 0.28 S.M.G.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -2903,15 +2909,13 @@ c) Planos mayores a 4 veces tamaño carta 3.03 S.M.G.
 
 II.- Expedición de copias fotostáticas certificadas de:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+a) Cada hoja certificada tamaño carta u oficio de
 
-a) Cada hoja certificada tamaño carta u oficio
+cedulas, planos, parcelas o cualquier otro documento
 
-de cédulas, planos, parcelas o cualquier otro
-
-documento 0.76 S.M.G.
+catastral 0.76 S.M.G.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -2937,11 +2941,15 @@ b) Oficio o revalidación de oficio de rectificación de medidas, urbanización 
 
 c) Cédulas catastrales 1.94 S.M.G.
 
-d) Constancias y certificados 1.89 S.M.G.
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-e) Constancia de historia del predio con aplicación de valor 1.99 S.M.G.
+d) Constancias y certificados 1.99 S.M.G.
 
-f) Información de bienes por propietario:
+e) (DEROGADO, D.O. 26 DE DICIEMBRE DE 2014)
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+f) Información de bienes por propietario o por predio:
 
 De 1 a 5 predios 1.64 S.M.G.
 
@@ -2955,13 +2963,9 @@ Adicionalmente por
 
 cada predio excedente a 21 0.20 S.M.G.
 
-g) Oficio de verificación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-de medidas, deslinde catastral
-
-como ubicación o
-
-marcación de predio 1.20 S.M.G.
+g) Oficio de verificación de medidas, deslinde catastral, ubicación o marcación de predio 1.20 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2969,11 +2973,13 @@ marcación de predio 1.20 S.M.G.
 
 IV.- Elaboración de planos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+a) Catastrales a escala sin cuadro de construcción 3.00 S.M.G.
 
-a) Catastrales a escala sin cuarto de construcción 3.00 S.M.G.
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+Cuando se trate del primer plano catastral, se pagarán además los derechos previstos en las fracciones VI y VII de este artículo, en su caso.
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -2999,11 +3005,9 @@ V.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2012)
 
 VI.- Por diligencias de rectificación o verificación de medidas físicas, de colindancias de predios, división, unión, urbanización, ubicación, marcación y acta circunstanciada 4.78 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-Más 0.10 S.M.G. por kilómetro recorrido, considerando como punto de partida la ubicación de la Dirección de Catastro del Estado, sin que el derecho establecido en este párrafo exceda de 17 km.
+Más 0.10 S.M.G. por kilómetro recorrido, considerando como punto de partida la ubicación de la Dirección de Catastro del Estado, sin que el derecho establecido en este párrafo exceda de 17 S.M.G.
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -3011,49 +3015,13 @@ En el pago de kilometraje se pagará un sólo derecho cuando se trate del mismo 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-VII.- Cuando la elaboración de planos o la diligencia de verificación o rectificación incluya trabajos de topografía, se cobrará de acuerdo a la siguiente tabla:
+VII.- Cuando los trámites a realizar requieran de trabajos de topografía, que usen el sistema de coordenadas universal transversal de Mercator, se cobrará de acuerdo con la siguiente tabla:
 
-RANGO DE SUPERFICIE
+> <small>N. DE E. VÉASE TABLA EN EL D.O. DE 29 DE DICIEMBRE DE 2005, PÁGINAS DE LA 26 A LA 28.</small>
 
-HECTAREAS
-
-LIMITES
-
-CUOTA ADICIONAL
-
-POR HA
-
-INFERIOR SUPERIOR CUOTA EXCEDENTE
-
-FIJA DEL LIMITE
-
-S.M.G. INFERIOR
-
-S.M.G.
-
-0.01 1-00-00.00 14.10 0.00
-
-1-00-00.00 10-00-00.00 14.10 0.98
-
-10-00-00.01 20-00-00.00 22.56 1.06
-
-20-00-00.01 30-00-00.00 31.72 1.14
-
-30-00-00.01 40-00-00.00 41.45 1.22
-
-40-00-00.01 50-00-00.00 52.14 1.30
-
-50-00-00.01 75-00-00.00 63.40 1.47
-
-75-00-00.01 100-00-00.00 98.66 1.63
-
-100-00-00.01 150-00-00.00 137.83 1.79
-
-150-00-00.01 200-00-00.00 224.03 1.96
-
-200-00-00.01 EN ADELANTE 318.05 2.12
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. DE 24 DE DICIEMBRE DE 2007, PÁGINA 73; 20 DE DICIEMBRE DE 2010, PÁGINA 29; 19 DE DICIEMBRE DE 2013, PÁGINA 38; 26 DE DICIEMBRE DE 2014, PÁGINAS DE LA 36 A LA 37.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -3069,7 +3037,21 @@ c) Tamaño cuatro cartas (Plotter) 3.39 S.M.G.
 
 d) Planos mayores a 4 veces tamaño carta 6.73 S.M.G.
 
-IX.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2012)
+> <small>(ADICIONADA (N. DE E. REFORMADA], D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IX.- Por la expedición del archivo electrónico de planos de carácter informativo de colonia, fraccionamiento, sección o municipio a nivel manzana, zonas urbanas:
+
+a) De 1 a 10 manzanas 1.00 S.M.G.
+
+b) De 11 a 20 manzanas 2.00 S.M.G.
+
+c) De 21 a 30 manzanas 3.00 S.M.G.
+
+d) Municipio completo 4.00 S.M.G.
+
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+X.- Por la verificación vía Internet de planos 1.00 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3133,11 +3115,11 @@ común) 0.98 S.M.G.
 
 c) Constancia de factibilidad 1.20 S.M.G.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 73.
 
-Las instituciones públicas estatales y municipales siempre que el servicio sea destinado a un interés público, quedan exentas del pago de los derechos que establece este capítulo.
+Las instituciones públicas federales, estatales y municipales, siempre que el servicio sea destinado a un interés público, quedan exentas del pago de los derechos que establece este capítulo.
 
 ### CAPÍTULO XVI. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SALUD
 
@@ -3645,7 +3627,7 @@ IX.- Diagnóstico de Riesgo 15.00 S.M.G.
 
 ARTÍCULO 85 F.- Están exentas del pago de los derechos establecidos en este capítulo, las dependencias federales, estatales y municipales, y las instituciones y asociaciones sin fines de lucro.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 80.
 
@@ -3671,67 +3653,141 @@ III.- La autorización, registro y revalidación del permiso para prestar los se
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-### CAPÍTULO XVIII. DERECHOS POR SERVICIOS QUE PRESTA EL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURÍSTICOS DEL ESTADO DE YUCATÁN
+### CAPÍTULO XVIII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PÚBLICO DEL ESTADO DE YUCATÁN QUE OPEREN COMO PARADORES TURÍSTICOS DE ZONAS ARQUEOLÓGICAS Y TURÍSTICAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 85 G.- Por el uso de los paradores turísticos, ubicados en las áreas aledañas a las zonas arqueológicas y turísticas a que se refiere este artículo, se cobrarán los siguientes derechos:
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+I.- Chichén Itzá 1.22 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+II.- Chichén Itzá (extranjeros) 2.28 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+III.- Chichén Itzá horario Luz y Sonido 3.02 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IV.- Chichén Itzá horario Luz y Sonido (extranjeros) 3.02 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+V.- Uxmal 1.15 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VI.- Uxmal (extranjeros) 2.03 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VII.- Uxmal horario Luz y Sonido 0.78 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VIII.- Uxmal horario Luz y Sonido (extranjeros) 1.22 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IX.- Grutas de Loltún 0.58 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
-ARTÍCULO 85 G.- Por los servicios que presta el Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán, se cobrarán los siguientes derechos:
-
-I.- Chichén Itzá Unidad de servicio 1.22 S.M.G.
-
-II.- Chichén Itzá Unidad de servicio (extranjeros) 2.28 S.M.G.
-
-III.- Chichén Itzá Luz y Sonido 3.02 S.M.G.
-
-IV.- Chichén Itzá Luz y Sonido (extranjeros) 3.02 S.M.G.
-
-V.- Uxmal Unidad de Servicios 1.15 S.M.G.
-
-VI.- Uxmal Unidad de Servicios (extranjeros) 2.03 S.M.G.
-
-VII.- Uxmal Luz y Sonido 0.78 S.M.G.
-
-VIII.- Uxmal Luz y Sonido (extranjeros) 1.22 S.M.G.
-
-IX.- Grutas de Loltún Unidad de Servicio 0.58 S.M.G.
-
 X.- Grutas de Loltún (extranjeros) 1.02 S.M.G.
 
-XI.- Dzibilchaltún Unidad de Servicio 0.58 S.M.G.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XI.- Dzibilchaltún 0.58 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 XII.- Dzibilchaltún (extranjeros) 1.02 S.M.G.
 
-XIII.- Balankanché Unidad de Serivicio (sic) 0.58 S.M.G.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XIII.- Balankanché 0.58 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 XIV.- Grutas de Balankanché (extranjeros) 1.02 S.M.G.
 
-XV.- Celestún Unidad de Servicio 0.58 S.M.G.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XV.- Celestún 0.58 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 XVI.- Celestún (extranjeros) 1.02 S.M.G.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
 XVII.- Cenote X'Kekén adultos 0.48 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 XVIII.- Cenotes X'Kekén (extranjeros) 0.92 S.M.G.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
 XIX.- Cenote Samulá adultos 0.48 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 XX.- Cenote Samulá (extranjeros) 0.92 S.M.G.
 
-XXI.- Izamal Luz y Sonido 0.95 S.M.G.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XXII.- Izamal Luz y Sonido (extranjeros) 1.39 S.M.G.
+XXI.- Izamal horario Luz y Sonido 0.95 S.M.G.
 
-XXIII.- Ek Balam Unidad de Servicios 0.58 S.M.G.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XXIV.- Ek Balam Unidad de Servicios (extranjeros) 1.02 S.M.G.
+XXII.- Izamal horario Luz y Sonido (extranjeros) 1.39 S.M.G.
 
-Las personas físicas que acrediten la nacionalidad mexicana estarán exentos del pago del derecho a que se refiere este artículo por los servicios que se presten los domingos, en las unidades de Chichén Itzá, Uxmal, Dzibilchaltún y Ek Balam, con excepción del luz y sonido. En los días festivos, las personas físicas que acrediten la nacionalidad mexicana pagarán el 50% de derecho que establece este artículo por los servicios que se presten en las unidades de Chichén Itzá, Uxmal, Dzibilchaltún y Ek Balam.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Las personas adultos mayores con credencial del Instituto Nacional de las Personas Adultas Mayores, los niños menores de 13 años de edad y las personas con discapacidad, no pagarán el derecho a que se refiere este artículo.
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-El Secretario de Administración y Finanzas podrá, discrecionalmente, reducir las cuotas establecidas en este artículo cuando se trate de visitas escolares. Lo previsto en este artículo no constituye instancia y las resoluciones que se emitan no podrán ser impugnadas.
+XXIII.- Ek Balam 0.92 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XXIV.- Ek Balam (extranjeros) 1.75 S.M.G.
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+Las personas físicas que acrediten la nacionalidad mexicana estarán exentos del pago del derecho a que se refiere este artículo por el uso de los paradores turísticos los domingos, en Chichén Itzá, Uxmal, Dzibilchaltún y Ek Balam, con excepción del uso que se dé en horario de luz y sonido.
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+Las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, que así lo acrediten, no pagarán el derecho a que se refiere este artículo, excepto tratándose del uso de los paradores turísticos, ubicados en las áreas aledañas a los cenotes X'Kekén y Samulá en los que los estudiantes en activo pagarán el 50% del costo del derecho.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 La recaudación de este derecho se destinará a un fideicomiso cuyo fin principal será apoyar e impulsar las actividades y los objetivos turísticos y culturales del Estado de Yucatán.
 
@@ -4113,6 +4169,10 @@ XVI.- Por cada verificación e inspección de áreas, predios y obras en materia
 
 XVII.- Por cada evaluación y resolución de las solicitudes para obtener la factibilidad urbana ambiental 14.68 S.M.G.
 
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XVIII.- Por cada verificación e inspección de áreas, predios y obras en materia de extracción de material pétreo 22.00 S.M.G.
+
 ### CAPÍTULO XX. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DE TRANSPORTE
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
@@ -4383,6 +4443,8 @@ La recaudación de este derecho se destinará íntegramente al Poder Judicial de
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ### CAPÍTULO ÚNICO
 
 ### CAPÍTULO ÚNICO
@@ -4457,7 +4519,7 @@ Cualquier otro aprovechamiento que deba percibir el Estado, no especificado en e
 
 ###### ARTÍCULO 91.
 
-El Gobierno del Estado, a través de la Secretaría de Hacienda, percibirá los ingresos extraordinarios provenientes de los siguientes conceptos:
+El Gobierno del Estado, a través de la Secretaría de Administración y Finanzas, percibirá los ingresos extraordinarios provenientes de los siguientes conceptos:
 
 I. Los empréstitos o créditos que se obtengan, para inversiones públicas u otros fines.
 
@@ -4694,5 +4756,37 @@ Segundo. Obligación normativa
 El Gobernador deberá realizar las modificaciones al Reglamento de la Ley del Registro Civil del Estado de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los 90 días naturales siguientes contados a partir de su entrada en vigor.
 
 Tercero. Derogación tácita.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 26 DE DICIEMBRE DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Factor de condonación
+
+Los contribuyentes que paguen en una sola exhibición el Impuesto Sobre la Tenencia o Uso de Vehículos correspondiente al ejercicio fiscal 2015, durante los meses de enero, febrero y marzo de dicho año, gozarán de una condonación, de conformidad con la siguiente tabla:
+
+Mes de pago Factor de condonación
+
+Enero 20%
+
+Febrero 10%
+
+Marzo 5%
+
+Para poder gozar de los beneficios establecidos en este artículo, el contribuyente deberá haber cumplido, a más tardar el día en que solicite la condonación, con las obligaciones a su cargo relativas al Impuesto Sobre Tenencia o Uso de Vehículos de ejercicios fiscales anteriores al 2015 y haber cubierto cualquier otro adeudo fiscal que tuviere pendiente con motivo de la propiedad, posesión o uso del vehículo.
+
+Tercero. Inaplicación del Capítulo IV denominado "Derechos por el Uso de Cementerios y Prestación de Servicios Conexos" del Título Tercero
+
+El Capítulo IV del Título Tercero de la Ley General de Hacienda del Estado de Yucatán dejará de ser aplicable a los municipios a partir de que se hagan cargo del servicio público de panteones y su función recaudatoria inherente.
+
+Cuarto. Reformas a las fracciones XXIII y XXIV del artículo 85-G
+
+Las reformas contenidas en las fracciones XXIII y XXIV del artículo 85-G de la Ley General de Hacienda del Estado de Yucatán entrarán en vigor a partir del 1 de abril del 2015.
+
+Quinto. Derogación tácita
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
