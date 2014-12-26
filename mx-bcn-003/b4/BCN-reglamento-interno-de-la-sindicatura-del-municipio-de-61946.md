@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-sindicatura-del-municipio-de-61946"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-27"
-last_updated: "2010-09-03"
+last_updated: "2014-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SINDICATURA DEL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de junio de 2008. (REPUBLICADO EN EL P.O. 7 DE NOVIEMBRE DE 2008).
 
@@ -61,11 +61,11 @@ REGLAMENTO INTERNO DE LA SINDICATURA DEL MUNICIPIO DE TECATE, B. C.
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 1.
 
-El presente Reglamento tiene por objeto establecer la organización y funcionamiento de los departamentos, secciones y áreas con que cuenta el Síndico Procurador del Municipio de Tecate, Baja California, para cumplimiento de las disposiciones que le derivan de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado Libre y Soberano de Baja California, de la Ley del Régimen Municipal para el Estado de Baja California, Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, Ley de Seguridad Pública del Estado de Baja California.
+El presente Reglamento tiene por objeto establecer las facultades, atribuciones, organización y funcionamiento de los departamentos, secciones y áreas con que cuenta el Síndico Procurador del Municipio de Tecate, Estado de Baja California, para el cumplimiento de las disposiciones que le derivan de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado Libre y Soberano de Baja California, de la Ley del Régimen Municipal para el Estado de Baja California, Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, Ley de Seguridad Pública del Estado de Baja California y el Reglamento de la Administración pública para el Municipio de Tecate, Baja California y demos (sic) disposiciones relativas y aplicables.
 
 ###### ARTICULO 2.
 
@@ -139,7 +139,9 @@ El Departamento Administrativo además de las atribuciones que le confiere el ar
 
 I.- Administrar los recursos financieros asignados a la Sindicatura Municipal de manera óptima y eficiente, con el fin de apoyar al Titular y a las distintas Direcciones de la Sindicatura Municipal en la consecución de los objetivos y metas de la misma.
 
-II.- Vigilar el estricto cumplimiento de los principios de racionalización y transparencia en el manejo y utilización de los recursos humanos, materiales y financieros de la Sindicatura Municipal, creando e implementando en su caso las políticas internas necesarias para tal efecto.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+II.- Administrar y vigilar el estricto cumplimiento de los principios de racionalización y transparencia en el manejo y utilización de los recursos humanos, materiales y financieros de la Sindicatura Municipal, creando e implementando en su caso las políticas internas necesarias para tal efecto.
 
 III.- Coordinar la administración de los recursos humanos, buscando la actualización, capacitación y el desarrollo del personal de la Sindicatura Municipal.
 
@@ -161,11 +163,17 @@ XI.- Coordinar y supervisar las actividades del personal bajo su mando para que 
 
 XII.- Vigilar el cumplimiento de las actividades contenidas en la apertura programática de la Sindicatura Municipal, apoyando en lo necesario para el alcance de las metas fijadas.
 
-XIV (SIC).- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico Procurador.
+> <small>(REFORMADA, [N. DE E. ADICIONADA] P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XIII.- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico Procurador.
+
+XIV.- (REFORMADA, [N. DE E. DEROGADA], P.O. 26 DE DICIEMBRE DE 2014)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO CUARTO
 
-DEL DEPARTAMENTO DE CONTRALORÍA INTERNA MUNICIPAL.
+DE LA CONTRALORIA INTERNA MUNICIPAL.
 
 ###### ARTICULO 7.
 
@@ -177,25 +185,45 @@ II.- Realizar revisiones financieras y administrativas en las Dependencias y Ent
 
 III.- Revisar el debido cumplimiento por parte de las Dependencias y Entidades de la Administración Pública Municipal de las normas y reglas en materia de programación, presupuesto, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad bajo su custodia.
 
-IV.- Vigilar la observancia de las circulares, normas técnicas, instrumentos y procedimientos de control establecidos al ejercicio del gasto público y a la administración de bienes y recursos municipales.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IV.- Vigilar el cumplimiento de las normas de control y fiscalización, circulares, normas técnicas, instrumentos y procedimientos de control establecidos para el ejercicio del gasto público y la administración de bienes y recursos municipales. Además de asesorar, apoyar y evaluar a los Órganos de Control Interno de las Dependencias, Entidades descentralizadas y Desconcentradas de la Administración Pública Municipal;
 
 V.- Verificar que se remitan oportunamente las cuentas públicas de las Dependencias y Entidades de la Administración Pública Municipal, al Congreso del Estado de Baja California, para su revisión.
 
-VI.- Verificar que las Dependencias y Entidades solventen oportunamente las observaciones que haga el Organo Superior de Fiscalización, en los términos de la Ley respectiva.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VI.- Verificar que las Dependencias y Entidades solventen oportunamente las observaciones que haga el Órgano Superior de Fiscalización, en los términos de la normatividad correspondiente.
 
 VII.- Revisar la actualización del inventario general de los bienes muebles e inmuebles propiedad del Ayuntamiento observando que se inscriban en el libro especial con expresión de sus valores y de todas las características de identificación, así como el destino de los mismos.
 
-VIII.- Vigilar que los remates públicos en los que tenga interés el Ayuntamiento, se realicen en los términos y disposiciones previstas por las leyes y reglamentos respectivos.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VIII.- Inspeccionar y vigilar directamente o a través de los (sic) instancias de Auditoria y Comisariado, que las Dependencias y Entidades Paramunicipales cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Municipal;
+
+Así como vigilar que los remates públicos en los que tenga interés el Ayuntamiento, se realicen en los términos y disposiciones previstas por las leyes y reglamentos respectivos.
 
 IX.- Turnar al Departamento de Responsabilidades los asuntos que puedan derivar responsabilidad de servidores públicos con motivo de revisiones, auditorias u observaciones que realice él mismo o el Organo Superior de Fiscalización del H. Congreso del Estado, o por incumplimiento en las declaraciones patrimoniales.
 
-X.- Establecer sistemas de trabajo con el propósito de mejorar continuamente los resultados de la Sindicatura Municipal.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+X.- Informar al Síndico Procurador sobre el resultado de la evaluación de las Dependencias y Entidades Paramunicipales que hayan sido objeto de fiscalización e informar a las autoridades competentes si así fuese requerida el resultado de tales intervenciones;
 
 XI.- Coordinar y supervisar las actividades del personal bajo su mando para que estos cumplan con sus responsabilidades y funciones con apego a los requerimientos establecidos en leyes, reglamentos, disposiciones administrativas y Manual de Procedimientos para cumplir las metas fijadas por el Síndico Procurador.
 
-XV (SIC).- Rendir informe al Síndico Procurador de los resultados obtenidos por el Departamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XVI.- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico Procurador.
+XII.- Rendir informe al Síndico Procurador de los resultados obtenidos por el Departamento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XIII.- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico Procurador.
+
+XV (SIC).- (REFORMADA [N. DE E. DEROGADA], P.O. 26 DE DICIEMBRE DE 2014)
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XIII DE ÉSTE ARTÍCULO, VÉASE P.O. DE 26 DE DICIEMBRE DE 2014.</small>
+
+XVI.- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico Procurador. (sic)
 
 ### CAPITULO QUINTO
 
@@ -208,6 +236,8 @@ DEL DEPARTAMENTO DE RESPONSABILIDADES.
 El Titular del Departamento de Responsabilidades además de las atribuciones que le confiere el Artículo 35 del Reglamento de Administración Pública tendrá las siguientes:
 
 I.- Determinar con plena jurisdicción y competencia, las estrategias, métodos y sistemas de investigación que permitan conocer las acciones y conductas de los servidores públicos municipales en el desempeño de su empleo, cargo o comisión dentro de la Administración Pública Municipal.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 II.- Investigar de oficio o por virtud de queja o denuncia, los actos, omisiones o conductas en que incurran los servidores públicos de la Administración Pública Municipal.
 
@@ -227,15 +257,21 @@ VIII.- Coordinar y supervisar las actividades del personal bajo su mando para qu
 
 IX.- Llevar un padrón de servidores públicos inhabilitados por la Sindicatura, que hallan alcanzado resolución firme, y tener coordinación con otras contralorías, síndicos o autoridades en materia de responsabilidades para llevar un padrón de servidores públicos inhabilitados en todo el Estado.
 
-X.- Remitir al Congreso del Estado copia de las resoluciones emitidas sobre las responsabilidades administrativas y sanciones que resulten como consecuencia de los dictámenes recaídos a las Cuentas Públicas de los Servidores Públicos responsables de las mismas, que les hayan sido turnadas por el Congreso del Estado.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2010)
+X.- Remitir al Congreso del Estado copia de las resoluciones emitidas sobre las responsabilidades administrativas y sanciones que resulten como consecuencia de los dictámenes recaídos a las Cuentas Públicas de los Servidores Públicos responsables de las mismas, que les hayan sido turnadas por el Congreso del Estado o por los Órganos de control y fiscalización superiores jerárquicos a la Sindicatura Municipal.
+
+XI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2010) (REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2014)
 
 XII.- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico.
 
-> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XIII.- Las establecidas en el Reglamento de la Comisión Disciplinaria y de Carrera Policial del Municipio de Tecate, Baja California.
+XIII.- Las establecidas en el Reglamento del Servicio Profesional de Carrera Policial de Tecate, Baja California.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IX (SIC).- Informar al Síndico Procurador sobre el resultado de la evaluación de las Dependencias y Entidades Paramunicipales que hayan sido objeto de fiscalización e informar a las autoridades competentes si así fuese requerida el resultado de tales intervenciones;
 
 ###### ARTICULO 9.
 
@@ -325,13 +361,17 @@ El Titular del Departamento de Supervisión del Servicio Público de Arrastre y 
 
 (DEROGADO, P.O. 4 DE JUNIO DE 2010)
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ### CAPITULO SEXTO
 
-DEL CONTROL Y EVALUACION GUBERNAMENTAL.
+DE LA EVALUACION GUBERNAMENTAL.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 22.
 
-El Departamento de Control y Evaluación Gubernamental, además de las atribuciones que le confiere el artículo 36 del Reglamento de la Administración Pública, tendrá las siguientes:
+El Departamento de Evaluación Gubernamental, además de las atribuciones que le confiere el artículo 36 del Reglamento de la Administración Pública, tendrá las siguientes:
 
 I.- Revisar que las dependencias y entidades de la administración pública municipal, al ejercer el presupuesto asignado, cumplan con las acciones, metas y objetivos establecidos en el Plan de Desarrollo Municipal y evaluar el grado de cumplimiento.
 
@@ -351,23 +391,31 @@ VIII.- Las demás que las (sic) que le encomiende el Síndico.
 
 En el caso de ausencia temporal o indefinida del titular de este Departamento, las atribuciones serán ejercidas por el Jefe del Departamento de Contraloría Interna Municipal.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ### CAPITULO SEPTIMO
 
-UNIDAD MUNICIPAL DE ACCESO A LA INFORMACIÓN.
+DE LA UNIDAD MUNICIPAL DE ACCESO A LA INFORMACIÓN.
 
 ###### ARTICULO 23.
 
 La Unidad de (sic) Municipal de Acceso a la Información tiene las atribuciones que le confiere el artículo 37 del Reglamento de la Administración Pública.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ### CAPITULO OCTAVO
 
-COMISARIOS DE LAS ENTIDADES PARAMUNICIPALES.
+DEL DEPARTAMENTO DE COMISARIOS.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 24.
 
-Los Comisarios de las entidades paramunicipales, son los órganos de control interno a que se refiere el segundo párrafo del artículo 52 de la Ley de Responsabilidades y de conformidad con el mismo dependerán jerárquica y funcionalmente del Síndico, y tendrán las siguientes obligaciones:
+El Departamento de Comisarios, fungirá como los Órganos de control Interno a que se refiere el segundo párrafo del artículo 52 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California y de conformidad con el mismo dependerán jerárquica y funcionalmente del Síndico Procurador, y además de las atribuciones que le confiere el artículo 38 del Reglamento de la Administración Pública para el Municipio de Tecate Baja California, articulo 65 del Reglamento de las Entidades Paramunicipales del Municipio de Tecate, Baja California, tendrá las siguientes facultades:
 
-I.- Canalizar, turnar o hacer del conocimiento inmediato al Síndico y Jefe de Responsabilidades de las quejas o denuncias que se le presenten en contra de los servidores públicos de la entidad a que pertenezca.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+I. Realizar las indagatorias y gestiones correspondientes cuando se tenga conocimiento de quejas o denuncias que se presenten en contra de los Organismos Descentralizados, Centralizados y Desconcentrados de la Administración pública Municipal, y turnar los expedientes al área de Responsabilidades de la Sindicatura Municipal.
 
 II.- Auxiliar y coadyuvar en las auditorías al Jefe del Departamento de Contraloría Interna Municipal y dar seguimiento a las observaciones derivadas del mismo a la entidad hasta lograr su cumplimiento o solventación, así como las que realice el Organo Superior de Fiscalización, derivadas del análisis de las cuentas públicas de la entidad a la que pertenezca.
 
@@ -375,21 +423,31 @@ III.- Vigilar que la entidad cumpla con la normatividad administrativa, contable
 
 IV.- Hacer las observaciones preventivas a la entidad que considere convenientes, marcando copia al Síndico y al Jefe del Departamento de Contraloría Interna Municipal.
 
-V.- Coadyuvar coordinadamente con el Departamento de Control y Evaluación Gubernamental, así como con las instancias correspondientes, para evaluar el desempeño de la entidad y el cumplimiento de las acciones, metas y objetivos establecidos en el Plan de Desarrollo Municipal.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-VI.- Participar en las Juntas de Gobierno de la entidad con voz, pero sin voto.
+V.- Coadyuvar en auxilio de los demás departamentos que integran la Sindicatura Municipal cuando lo pidan por escrito los Titulares de las mismas o así lo requiera el Síndico Procurador, con el fin de intervenir en las entidades de la Administración Pública Municipal y sus dependencias e integrar procedimientos, diligencias, indagatorias y actuaciones que sean necesarias y con ello deslindar las responsabilidades que resulten de la intervención y desahogo de los procedimientos
 
-VII.- Las demás que le encomienden otros reglamentos, leyes o el Síndico Municipal.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-Los Comisarios serán coordinador (sic) por el Jefe del Departamento de Contraloría Interna Municipal.
+VI.- Asistir a las Juntas de Gobierno o consejos de Administración y en su caso suplir al Síndico Procurador Cuando este así lo requiera.
 
-### CAPITULO NOVENO
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VII.- Las demás que le encomienden las Leyes, Reglamentos, Normas Técnicas y el Síndico Procurador.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+### CAPITULO DECIMO (SIC)
 
 DE LAS SANCIONES Y RECURSOS.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 25.
 
-El incumplimiento del presente reglamento conlleva a la aplicación de las sanciones a que se refiere la Ley de Responsabilidades y las inconformidades con las mismas se realizarán a través de los recursos que provee la misma.
+El incumplimiento del presente reglamento conlleva a la aplicación de las sanciones a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, y las inconformidades con las mismas se realizarán a través de los recursos que prevé la misma.
 
 ## TRANSITORIOS
 
@@ -412,3 +470,7 @@ P.O. 3 DE SEPTIEMBRE DE 2010.
 PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Publíquese en un diario de mayor circulación en la localidad, para conocimiento de la población.
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+ÚNICO.- Las presentes Reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
