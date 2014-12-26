@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-del-estado-de-guerrero-numero-428-22965"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2013-12-27"
+last_updated: "2014-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA DEL ESTADO DE GUERRERO, NÚMERO 428
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -643,71 +643,11 @@ ARTICULO 37 A.- Tratándose de pagos a trabajadores por concepto de edificación
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 Dependiendo del tipo de obra de que se trate, la base será la que resulte de multiplicar el número de metros cuadrados de construcción por el costo de mano de obra por metro cuadrado, de acuerdo a la siguiente:
 
-TABLA
-
-TIPO DE OBRA COSTO POR m2
-
-BARDAS 4.36
-
-BODEGAS 5.80
-
-CANCHAS DE TENIS 2.42
-
-CASA HABITACIÓN DE INTERÉS SOCIAL 9.71
-
-CASA HABITACIÓN TIPO MEDIO 9.85
-
-CASA HABITACIÓN DE LUJO 15.06
-
-CINES 11.23
-
-EDIFICIOS HABITACIONALES DE INTERÉS SOCIAL 9.38
-
-EDIFICIOS HABITACIONALES TIPO MEDIO 10.92
-
-EDIFICIOS HABITACIONALES DE LUJO 16.06
-
-EDIFICIOS DE OFICINAS 9.38
-
-EDIFICIOS DE OFICINAS Y LOCALES COMERCIALES 12.39
-
-ESCUELAS DE ESTRUCTURA DE CONCRETO 8.46
-
-ESCUELAS DE ESTRUCTURA METÁLICA 10.16
-
-ESTACIONAMIENTOS 5.47
-
-GASOLINERAS 6.47
-
-GIMNASIOS 9.71
-
-HOSPITALES 16.68
-
-HOTELES 16.80
-
-HOTELES DE LUJO 22.62
-
-LOCALES COMERCIALES 10.08
-
-NAVES INDUSTRIALES 8.61
-
-NAVES PARA FABRICAS, BODEGAS Y/O TALLERES 6.03
-
-PISCINAS 7.67
-
-REMODELACIONES 9.88
-
-TEMPLOS 9.24
-
-URBANIZACIONES 3.34
-
-VÍAS DE COMUNICACIÓN SUBTERRÁNEAS Y
-
-CONEXAS 17.12
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 26 DE DICIEMBRE DE 2014, PÁGINAS DE LA 8 A LA 9.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -733,11 +673,13 @@ III.- Inscribirse en el Registro Estatal de Contribuyentes ante las oficinas aut
 
 IV.- Presentar declaraciones mensuales del pago de este impuesto, disminuyendo, en su caso, el monto de las retenciones que le hubieren efectuado, ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago. En los casos en que se cuente con uno o más establecimientos o locales el entero se deberá realizar de forma consolidada.
 
-Los contribuyentes que tributen en el Régimen de Pequeños Contribuyentes de la Ley del Impuesto Sobre la Renta deberán presentar las declaraciones de este impuesto bimestralmente, a más tardar el día 17 del mes de calendario posterior al bimestre que corresponda el pago en las oficinas o por los medios autorizados.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+Los contribuyentes que tributen en el Régimen de Incorporación Fiscal de la Ley del Impuesto Sobre la Renta deberán presentar las declaraciones de este impuesto bimestralmente, a más tardar el día 17 del mes de calendario posterior al bimestre que corresponda el pago en las oficinas o por los medios autorizados.
 
 V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -825,7 +767,7 @@ h) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2009)
 
 i) Becas educacionales y deportivas.
 
-j).Servicios de transporte.
+j) Servicios de transporte.
 
 k) Pagos a discapacitados.
 
@@ -849,9 +791,9 @@ q) Intereses por créditos al personal.
 
 En el caso de personas morales para que los conceptos mencionados en este precepto se excluyan como integrantes de la base del impuesto sobre remuneraciones al trabajo personal, deberán estar registrados en la contabilidad del contribuyente, si fuera el caso.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-r) Los pagos realizados a un trabajador cuyo salario no exceda de un salario mínimo del área geográfica del contribuyente elevado al mes, siempre y cuando este sea su ascendiente o descendiente en línea recta, por contribuyentes que tributen en el Régimen de Pequeños Contribuyentes de la Ley del Impuesto Sobre la Renta.
+r) Los pagos realizados a un trabajador cuyo salario no exceda de un salario mínimo del área geográfica del contribuyente elevado al mes, siempre y cuando este sea su ascendiente o descendiente en línea recta, por contribuyentes que tributen en el Régimen de Incorporación Fiscal de la Ley del Impuesto Sobre la Renta.
 
 II.- Las erogaciones que efectúen:
 
@@ -871,11 +813,11 @@ III.- Los que realicen la edificación de vivienda social progresiva:
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-a).- Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal, cuya superficie de construcción no exceda de 50 M2.
+a) Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal, cuya superficie de construcción no exceda de 50 M2.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-b). Los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, para su habitación personal, cuya superficie no exceda de 50 M2.
+b) Los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, para su habitación personal, cuya superficie no exceda de 50 M2.
 
 ###### ARTICULO 42.
 
@@ -953,9 +895,9 @@ Es objeto del Impuesto sobre la Prestación de Servicios de Hospedaje, la percep
 
 Para los efectos de este impuesto, se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-Los ingresos que se generen por la recaudación de este Impuesto, serán destinados para la promoción turística nacional e internacional de los destinos turísticos que aplican dicho impuesto, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos.
+Los ingresos que se generen por la recaudación de este Impuesto, las dos terceras partes serán destinados (sic) al Fideicomiso para la promoción turística nacional e internacional de los destinos turísticos que aplican dicho impuesto, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos, y una tercera parte serán destinados a la Secretaría de Finanzas y Administración del Estado, para los gastos de operación y vigilancia en el cobro de este impuesto.
 
 ###### ARTICULO 49.
 
@@ -1417,7 +1359,7 @@ b. Los integrantes de la Sociedad conyugal y/o copropiedad deberán considerar p
 
 El representante común deberá cumplir con todas las demás obligaciones fiscales de su persona y sus representados de conformidad con las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -1425,21 +1367,19 @@ ARTICULO 60 Bis G.- Los contribuyentes a que se refiere esta Sección, efectuar�
 
 El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas del mismo periodo. Al resultado que se obtenga se le aplicará la tasa del 5%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 Contra el pago provisional determinado conforme a este artículo, se acreditan los pagos provisionales efectuados con anterioridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
-
-El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. Al resultado se le aplicará la tasa establecida en esta sección. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente.
+El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. Al resultado se le aplicará la tasa establecida en esta sección. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará durante los primeros cuatro meses del año siguiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1791,7 +1731,7 @@ C).- Por canje de placas o reposición por cualquier circunstancia 6.81
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-II. Por el refrendo anual de la tarjeta de circulación, 3.96
+II.- Por el refrendo anual de la tarjeta de circulación, 3.96
 
 III.- Por la expedición inicial, reposición por extravío o deterioro y canje de placas y tarjeta de circulación de:
 
@@ -1818,6 +1758,10 @@ C).- Vehículos de mano 0.60
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 D).- Placas para demostración 14.16
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+E).- Por el Refrendo Anual de la tarjeta de circulación de motocicletas, motonetas y similares 2.5
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2089,7 +2033,9 @@ III.- Por el registro de documentos inscribibles, relativos a todo tipo de biene
 
 IV.- Por la inscripción de todo tipo de embargos, excluyendo los laborales, así como providencias precautorias, a excepción de la de alimentos y avisos preventivos, a que se refiere el primer párrafo del artículo 2889 del Código Civil, se causará sobre el monto de los mismos; 4 al millar
 
-V.- Por el registro de documentos inscribibles, relacionados con todo tipo de contratos de arrendamiento y siempre que sea por más de seis años o con anticipo de rentas por más de tres, el cobro se hará sobre el total del valor consignado o del monto de lo anticipado según el caso; 4 al millar
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+V.- Por el registro de documentos inscribibles, relacionados con todo tipo de contratos de arrendamiento y siempre que sea por más de seis años o con anticipo de rentas por más de tres, el cobro se hará sobre el total del valor consignado en el contrato; 4 al millar
 
 VI.- Por el registro de documentos inscribibles, concernientes a todo tipo de créditos, siempre que dichos documentos sean formulados en el Estado, se cobrará sobre el total del valor consignado; 4 al millar
 
@@ -2103,7 +2049,7 @@ VII.- Todos los actos de inscripción de cooperativas legalmente registradas ant
 
 VIII.- Las anotaciones por herencias o remates, causarán derechos sobre el valor de los mismos; 4 al millar
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -2111,19 +2057,19 @@ IX.- Las anotaciones y sus cancelaciones que se hicieren a solicitud de los inte
 
 X.- Por la inscripción de planos de fraccionamientos de terrenos, así como de actos, convenios o resoluciones administrativas o judiciales por las que se lotifique, relotifique, divida o subdivida un inmueble, causarán derechos de inscripción como sigue:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-a).- Por cada lote urbano, y 4.0
+a) Por cada lote urbano, y 4.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-b).- Por cada lote rústico 2.0
+b) Por cada lote rústico 2.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -2133,17 +2079,17 @@ XII.- Por las inscripciones de autos o sentencias judiciales o administrativas, 
 
 XIII.- Por la inscripción de sentencias judiciales sobre usucapión e información ad-perpetuam, causarán los derechos sobre el valor de los mismos; 4 al millar
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 XIV.- Por la expedición de cada certificado de libertad de gravamen o de gravámenes, por cada unidad de propiedad 4.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 a) (DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 b) (DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
 
@@ -2151,25 +2097,25 @@ c) Por historial registral 8.0
 
 XV.- Por certificados de no inscripción de propiedad:
 
-a).- Para Acapulco y Zihuatanejo 4.0
+a) Para Acapulco y Zihuatanejo 4.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-b).- En caso de más de un Distrito, por cada uno. 2.5,
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-c).- Para el resto del Estado 3.0
+b) En caso de más de un Distrito, por cada uno. 2.5,
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-d).- En caso de más de un Distrito, por cada uno 2.0
+c) Para el resto del Estado 3.0
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+d) En caso de más de un Distrito, por cada uno 2.0
 
 XVI.- Por la expedición de constancias de propiedad y no propiedad:
 
@@ -2179,7 +2125,7 @@ b) En caso de más de un Distrito por cada uno 2.0
 
 XVII.- Por la búsqueda y expedición de constancia de testamentos en el Archivo del Registro Público de la Propiedad, del Comercio y Crédito Agrícola; 6.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -2193,15 +2139,15 @@ b) En caso de más de un Distrito por cada uno 0.5
 
 XX.- Por la expedición de copias certificadas:
 
-a).- De los apéndices si no excede de tres hojas 3.0
+a) De los apéndices si no excede de tres hojas 3.0
 
-b).- Por cada hoja excedente 1.0
+b) Por cada hoja excedente 1.0
 
-c ).- De folios 3.0
+c ) De folios 3.0
 
-d).- De inscripción en libros, por las tres primeras hojas 3.0
+d) De inscripción en libros, por las tres primeras hojas 3.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -2223,11 +2169,9 @@ Cuando se solicite el registro de Sistemas de Tiempo Compartido que aún no se e
 
 XXIV.- Tratándose del registro de documentos inscribibles señalados en las fracciones anteriores, que se elaboren fuera del Estado 6.0 al millar; cuando sean de aquellos que no expresan valor, se causará una cuota de 11.50 salario (sic) mínimos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-XXV.- Por el Servicio de Tramite Urgente o Agilización de documentos para ser entregados el mismo día, siempre y cuando la solicitud se haya entregado antes de las 11:00 horas se cobrara 5 salarios mínimos diarios del área geográfica del contribuyente, adicionales al costo del servicio, de no ser así el trámite se entregará al día siguiente.
+XXV.- Por el servicio de Trámite Urgente o Agilización de documentos para ser entregados el mismo día, siempre y cuando la solicitud se haya entregado antes de las 11:00 horas se cobrará 5 salarios mínimos diarios vigentes en el área geográfica del contribuyente, adicionales al costo del servicio.
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -2315,7 +2259,7 @@ D).- Registro de Matrimonio
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-E) Registro de Divorcio
+E).- Registro de Divorcio
 
 1.- Divorcio Judicial entre nacionales 5.94
 
@@ -2335,7 +2279,7 @@ E) Registro de Divorcio
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-F) Registro de Defunción Gratuito
+F).- Registro de Defunción Gratuito
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -2409,17 +2353,17 @@ I).- Otros:
 
 10.- Cualquier otra certificación que se expida distinta a las expresadas 0.99
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-No se causarán los impuestos adicionales a que se refieren los artículos 43 en su inciso h), 44, 45 y 46 de la Presente Ley de Hacienda del estado de Guerrero, en los conceptos del inciso I) de esta fracción.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
-
-11).- Autorización de Registro Extemporáneo de Defunción, 4.80
+No se causarán los impuestos adicionales a que se refieren los artículos 43 en su inciso h), 44, 45 y 46 de la presente Ley de Hacienda del Estado de Guerrero, en los conceptos del inciso I) de esta fracción y de la fracción VII.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-12).- Rectificación Administrativa, 14.50
+11.- Autorización de Registro Extemporáneo de Defunción, 4.80
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
+12.- Rectificación Administrativa, 14.50
 
 J).- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2013)
 
@@ -2486,6 +2430,10 @@ j).- Dictamen de genética para paternidad o identidad. 27.2
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 k).- Constancia de No Inhabilitado, 1.31
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VII.- Por el cobro de los servicios que presta la oficina de enlace con la Secretaría de Relaciones Exteriores 2.23
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -2971,7 +2919,7 @@ Mayor a 15.1 ha. 238.4
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-IV.- Por recepción, evaluación y resolución autorización (sic) de Manifestación de Impacto Ambiental Específica.
+IV.- Por recepción, evaluación y resolución (sic) autorización de Manifestación de Impacto Ambiental Específica.
 
 Menor a 5 ha. 238.4
 
@@ -3345,9 +3293,7 @@ VI.- Por el permiso para llevar a cabo la realización de cruzamientos aéreos o
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE 2003)</small>
 
-###### ARTICULO 101 Bis
-
-1.- Por el Registro y Acreditación como Director Responsable de Obra y/o Corresponsable de carácter estatal 41.3.
+ARTICULO 101 Bis I.- Por el Registro y Acreditación como Director Responsable de Obra y/o Corresponsable de carácter estatal 41.3.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -3383,81 +3329,21 @@ b).- 5% sobre el valor declarado, más un salario mínimo por cada 5 kilómetros
 
 IV.- Por los servicios de seguridad y protección de personas, en la modalidad de resguardante personal o escolta, 75 salarios mínimos, mensuales por persona acreditada; y
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 V.- Por los servicios análogos que se relacionan con el cumplimiento de su objeto:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
-
-CONCEPTO CUOTA
-
-Uniformes especiales A presentación de facturas
-
-Alimentos A presentación de facturas, nunca superior a
-
-dos salarios mínimos diarios por elemento.
-
-Combustibles y/o A presentación de facturas
-
-Reparación de vehículos
-
-Gastos médicos y/o Funerarios A presentación de facturas
-
-Renta de casa-habitación Al valor del costo del contrato de
-
-y servicios (agua, luz y teléfono) arrendamiento de que se trate
-
-Reparación de armamento A cotización emitida por el departamento de
-
-registro, control y portación de armamento,
-
-municiones y equipo del IPAE
-
-Arma adicional tipo corta 75 salarios mínimos, mensuales
-
-o larga
-
-Otros conceptos que dañen A presentación de facturas y
-
-y/o pongan en perjuicio el cotización emitida por el
-
-patrimonio del IPAE y el departamento de recursos materiales
-
-patrimonio del y/o oficina de mantenimiento
-
-contratante de servicio. y servicios generales
-
-Unidad canina con servicio 350 salarios mínimos, mensuales
-
-de 12 horas, con un día
-
-de descanso por semana
-
-(instructor y canino).
-
-Traslado en ambulancia 100 salarios mínimos por traslado
-
-Acapulco- México
-
-Traslado en ambulancia 40 salarios mínimos por traslado
-
-Acapulco-Chilpancingo
-
-Traslado en ambulancia 100 salarios mínimos por traslado
-
-Acapulco- Zihuatanejo
-
-con resguardo
-
-Reposición de documento 1 salario mínimo diario
-
-de identidad policial
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 26 DE DICIEMBRE DE 2014, PÁGINAS DE LA 11 A LA 12.</small>
 
 Cuando el contratante de servicio no cubra en tiempo y forma el pago correspondiente serán objeto del cobro de recargos y actualizaciones, conforme los artículos 107 y 108 de la presente Ley.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 Para los efectos a que se contrae el presente artículo, por salario mínimo, se entenderá el que corresponda a la zona económica "A" en el Estado. Así mismo los pagos que tengan la característica de ser mensuales, se realizaran a más tardar el día 17 del mes en que se preste el servicio.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+Por cada uno de los servicios establecidos en el presente artículo; el solicitante del servicio deberá haber cubierto el pago de impuestos federales a que haya lugar.
 
 ###### ARTICULO 102.
 
@@ -3649,9 +3535,9 @@ a).- Las leyes, libros y demás publicaciones tendrán el precio que señale el 
 
 b).- Se considerará también como productos, el importe de los esqueletos de las manifestaciones que se suministren en las oficinas rentísticas, las que serán previstas por la Secretaría de Finanzas y Administración y cuyo precio será determinado por la misma.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-Formato de avalúo de bienes inmuebles con fines fiscales. 2.0 Salarios Mínimos Diarios del Área Geográfica “A”.
+Formato de avalúo de bienes inmuebles con fines fiscales. 1.0 Salarios Mínimos Diarios del Área Geográfica "A".
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -4851,13 +4737,11 @@ Baño (Costo por persona). 5.00
 
 Otros productos (renta a particulares). -
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ARTICULO 114 Bis VII.- Por la prestación de los servicios proporcionados por el Instituto de Vivienda y Suelo Urbano de Guerrero, se aplicarán las siguientes tarifas:
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE DICIEMBRE DE 2011, PÁGINA 27.</small>
-
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 28 DE DICIEMBRE DE 2012, PÁGINA 90; 27 DE DICIEMBRE DE 2013, PÁGINA 18.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 26 DE DICIEMBRE DE 2014, PÁGINA 13.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -5795,123 +5679,11 @@ COPIAS DE PLANO EN GENERAL 4.813
 
 PLANO INDIVIDUAL 1.604
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ARTICULO 114 Bis XV.- Por la prestación de los servicios proporcionados por el Instituto Tecnológico Superior de la Costa Chica, se aplicarán las siguientes tarifas:
 
-DERECHOS:
-
-CONCEPTO IMPORTE $
-
-SERVICIO ADMINISTRATIVOS Y
-
-ESCOLARES ACRED. CERTIF. Y
-
-CONVALIDACIÓN
-
-CERTIFICADO PARCIAL 600.00
-
-REPOSICIÓN DE CERTIFICADO 840.00
-
-ACTO RECEPCIÓN PROFS. 420.00
-
-TRÁMITE DE TIT. Y CÉDULA 2,040.00
-
-RETIRO DE DOCUMS. ORIGINALES 60.00
-
-CARTA DE PASANTE 120.00
-
-EXPEDICIÓN DE CERTIFICADO 360.00
-
-OTROG. Y EXPED. DE DOCTOS. OFICIALES
-
-CONSTANCIAS
-
-CONSTANCIA SIMPLE SIN
-
-CALIFICACIÓN 30.00
-
-CONSTANCIA CON CALIFICACIONES 48.00
-
-CONSTANCIA D/INGLES
-
-C/CALIFICACIONES 42.00
-
-EXPEDICIÓN DE CREDENCIALES 12.00
-
-REPOSICIONES
-
-PRIMERA REPOSICIÓN DE CREDENCIAL 18.00
-
-SEGUNDA REPOSICIÓN DE
-
-CREDENCIAL 24.00
-
-REPOSICIÓN DE LA CARTA DE SERV. 24.00
-
-REPOSICIÓN DE CARTAS DE
-
-PRACTICAS 24.00
-
-REPOSICIÓN DE DIPLOMAS ESPEC. 24.00
-
-REPOSICIÓN DE CARTAS DE
-
-PASANTES 180.00
-
-EXAMENES
-
-EXAMENES EXTRAORDINARIOS 60.00
-
-EXAMENES ESPECIALES 300.00
-
-DERECHO EXAMEN PROFESIONAL 420.00
-
-EXAMEN DE ADMISIÓN (FICHA) 240.00
-
-EXAMEN ESPECIAL A FORÁNEOS 360.00
-
-EXAMEN GLOBAL 360.00
-
-APORT. Y COOP. VOLUNTARIAS
-
-CUOTAS DE COOP. VOLUNTARIAS
-
-INSC. AGO-2012-ENERO-2013 700.00
-
-REINSC. FEB-JULIO 2012 700.00
-
-REINC. AGO.2012-ENERO-2013 700.00
-
-RECARGOS P/PAGOEXT. 60.00
-
-CURSOS DE INGLES 240.00
-
-CURSOS DE TITULACIÓN 2,400.00
-
-CURSOS DE VERANO 360.00
-
-CURSOS PROPED. P/MAESTRIA 1,500.00
-
-INSC. MAEST. CIENC. D/COMP. 6,000.00
-
-REINSC. MAEST. CIENC. D/COMP. 6,000.00
-
-APORT. Y COOP, DONAC. AL PLANTEL
-
-DONATIVOS DIV. (SALA AUD.) 1,000.00
-
-BIBLIOTECA 500.00
-
-OTROS
-
-IMPRE.(CENTRO DE COMP.) 2,000.00
-
-SERVICIOS GENERALES
-
-ALQUILERES
-
-RENTA DE CAFETERÍA Y OTROS 4,000.00
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 26 DE DICIEMBRE DE 2014, PÁGINAS DE LA 13 A LA 14.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -6401,51 +6173,21 @@ VENTA DE
 
 PALMA HIBRIDA PIEZA 1 $ 25.00
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ARTICULO 114 Bis XXIV.- Por la prestación de los servicios proporcionados por Radio y Televisión de Guerrero, se aplicarán las siguientes tarifas:
 
 DERECHOS:
 
-LISTA DE COSTOS PARA PATROCINIOS EN RADIO Y TELEVISION
+LISTA DE COSTOS PARA PATROCINIOS EN RADIO Y TELEVISIÓN
 
 RADIO
 
-CONCEPTO COSTO
-
-SPOT DE 10 Y 20 SEGUNDOS $57.50
-
-SPOT DE 30 SEGUNDOS $80.50
-
-CAPSULA 1 MINUTO $402.50
-
-ENTREVISTA 5 MINUTOS $1,725.00
-
-MENCIÓN DE CONDUCTORES
-
-(1 MINUTO APROX.) $345.00
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 26 DE DICIEMBRE DE 2014, PÁGINA 15.</small>
 
 TELEVISIÓN
 
-CONCEPTO COSTO
-
-MENCION DE CONDUCTORES $575.00
-
-IMAGEN LOGOTIPO EN PANTALLA $575.00
-
-CINTILLO (20 SEGUNDOS) $402.50
-
-CORTINILLA (5 SEGUNDOS) $345.00
-
-SPOT DE 20 SEGUNDOS $345.00
-
-SPOT DE 30 SEGUNDOS $460.00
-
-REPORTAJE 3 EMISIONES DE 2
-
-MINUTOS $4,600.00
-
-ENTREVISTA (5 MINUTOS) $3,450.00
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 26 DE DICIEMBRE DE 2014, PÁGINA 15.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -7526,6 +7268,12 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicac
 SEGUNDO.- Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
 
 P.O. 27 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 26 DE DICIEMBRE DE 2014.
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
