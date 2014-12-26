@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-817-para-las-personas-con-discapacidad-del-84760"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-20"
-last_updated: "2011-12-20"
+last_updated: "2014-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 817 PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 20 de diciembre de 2011.
 
@@ -33,7 +33,7 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA QUINCUAGÉSIMA NOVENA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 Por lo anteriormente expuesto, y con fundamento en lo dispuesto por los artículos 47 fracciones I y XIX de la Constitución Política Local, y en el artículo 8° fracción I de la Ley Orgánica del Poder Legislativo del Estado de Guerrero número 286, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -61,7 +61,7 @@ Persona con discapacidad es aquella que padece alguna deficiencia física, menta
 
 Se aceptan las tres clases de afectación o alteración que clasifica la Organización Mundial de la Salud como causantes de la discapacidad:
 
-l. Deficiencia: la pérdida o anormalidad de una estructura o de una función psicológica, fisiológica o anatómica, permanente o transitoria; y (sic)
+l. Deficiencia: la pérdida o anormalidad de una estructura o de una función psicológica, fisiológica o anatómica, permanente o transitoria; y
 
 II. Discapacidad: cualquier restricción o impedimento de la capacidad de realizar una actividad en la forma o dentro del margen que se considera normal para el ser humano.
 
@@ -71,7 +71,7 @@ III. La minusvalía: es la socialización de la problemática causada en un suje
 
 Para los efectos de esta ley, se entenderá por:
 
-l. Consejo Estatal: El Consejo Estatal pare. la Integración Social de las Personas con Discapacidad;
+l. Consejo Estatal: El Consejo Estatal para la Integración Social de las Personas con Discapacidad;
 
 II. Discapacidad Física: la que manifiesta alguna deficiencia que obstaculiza o impide realizar diferentes acciones o actividades habituales;
 
@@ -133,6 +133,10 @@ VI. De preferencia que se constituye con el libre acceso y recibir el servicio d
 
 VII. De comunicación, facilitando el acceso y uso de los medios a las personas con discapacidad;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VII Bis. De trato preferencial relativo a los servicios y trámites administrativos que brindan al público, las oficinas de las Dependencias y Entidades de la Administración Pública Estatal y Municipal, así como los Organismos Autónomos del Estado de Guerrero.
+
 VIII. De acceso a las actividades recreativas, culturales y deportivas, acotando la jornada laboral a personas con discapacidad y a su tutor; y
 
 IX. De· respeto y convivencia, eliminando los prejuicios, estereotipos y otras actitudes discriminatorias.
@@ -161,7 +165,7 @@ El Consejo Estatal para la Integración Social de las Personas con Discapacidad,
 
 l. El Gobernador Constitucional del Estado, quien lo presidirá;
 
-II. El Presidente del H.Tribunal Superior de Justicia;
+II. El Presidente del H. Tribunal Superior de Justicia;
 
 III. El Presidente de la Mesa Directiva del H. Congreso del Estado;
 
@@ -295,6 +299,10 @@ XI. Conservar en buen estado a través de la Dependencia encargada de la Adminis
 
 XII. Concertar y coordinar la participación de los sectores públicos y sociales en la planeación, programación, ejecución, supervisión y evaluación de las acciones que se emprendan a favor de las personas con discapacidad;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XII Bis. Destinar una ventanilla para la atención preferente e inmediata a las personas con discapacidad en las oficinas de las Dependencias y Entidades de la Administración Pública Estatal y Organismos Autónomos del Estado de Guerrero, donde se brinden servicios al público y se realicen trámites administrativos. Esta ventanilla podrá atender a todos los usuarios de dichas oficinas, pero siempre priorizando la atención a los usuarios de trato preferencial, entendiendo por ellos las personas con discapacidad;
+
 XIII. Fomentar en el proyecto de presupuesto de egresos del Estado, las partidas correspondientes para la ejecución de los programas dirigidos a las personas con discapacidad;
 
 XIV. Propiciar el otorgamiento de estímulos fiscales a personas físicas o morales que realicen acciones a favor de las personas con discapacidad;
@@ -377,9 +385,17 @@ V. Transporte público y comunicaciones;
 
 VI. Cultura, recreación y deporte;
 
-VII. Desarrollo y asistencia social; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-VIII. Seguridad Jurídica.
+VII. Desarrollo y asistencia social;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VIII. Seguridad Jurídica; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IX. Trato preferente.
 
 ### CAPÍTULO II. De los Ayuntamientos y Comisionados Municipales
 
@@ -424,6 +440,10 @@ XI. Recibir y transmitir capacitación sobre los diversos temas relativos a la d
 XII. Realizar, de acuerdo con su capacidad humana y de infraestructura, estudios socioeconómicos, investigaciones de campo y colaterales a las personas con discapacidad, con la finalidad de conseguir que, a través del Consejo Estatal y otras instituciones, se otorgue atención y apoyos;
 
 XIII. Operar los programas de atención y apoyo de conformidad con los lineamientos expedidos por el Consejo Estatal; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XIII Bis. Destinar una ventanilla para la atención preferente e inmediata a las personas con discapacidad en todas las oficinas de la Administración Pública Municipal donde se brinden servicios al público y se realicen trámites administrativos. Esta ventanilla podrá atender a todos los usuarios de dichas oficinas, pero siempre priorizando la atención a los usuarios de trato preferencial, entendiendo por ellos las personas con discapacidad, y
 
 XIV. Las demás que determine esta ley y otras disposiciones aplicables.
 
@@ -579,7 +599,7 @@ l. Tratamiento:
 
 II. Orientación y tratamiento psicológico;
 
-III. Educación general y especial; y (sic)
+III. Educación general y especial; y
 
 IV. Rehabilitación socioeconómica y laboral
 
@@ -707,7 +727,7 @@ Asimismo, se deberá contar con un área determinada específicamente para perso
 
 El Estado impulsará y fortalecerá entre las personas con discapacidad, la ocupación del tiempo libre a través de las actividades deportivas, recreativas y culturales, como medio para su desarrollo e integración a la sociedad, debiendo establecer los mecanismos necesarios para que se aporten de manera gratuita.
 
-De igual forma, el Estado difundirá entre las empresas o (sic) instituciones que empleen a personas con discapacidad, sus programas de ocupación del tiempo libre.
+De igual forma, el Estado difundirá entre las empresas o instituciones que empleen a personas con discapacidad, sus programas de ocupación del tiempo libre.
 
 ###### ARTÍCULO 60.
 
@@ -955,7 +975,7 @@ El Gobierno del Estado otorgará estímulos, beneficios y reconocimientos a aque
 
 ###### ARTÍCULO 97.
 
-El Gobierno del Estado a través del Sistema Estatal para el Desarrollo Integral de la Familia y el Consejo Estatal, creará estímulos, premios y reconocimientos, a favor de aquellas personas con discapacidad, que se distingan en cualquier actividad, con el propósito que la sociedad les reconozca sus hechos y aptitudes, ya sea en·la realización de acciones tendientes a superarse a sí mismos, en su trabajo, en el deporte, en la cultura, ciencia o en el arte.
+El Gobierno del Estado a través del Sistema Estatal para el Desarrollo Integral de la Familia y el Consejo Estatal, creará estímulos, premios y reconocimientos, a favor de aquellas personas con discapacidad, que se distingan en cualquier actividad, con el propósito que la sociedad les reconozca sus hechos y aptitudes, ya sea en la realización de acciones tendientes a superarse a sí mismos, en su trabajo, en el deporte, en la cultura, ciencia o en el arte.
 
 ### CAPÍTULO II. Sanciones
 
@@ -1005,7 +1025,7 @@ II. Efectuada la inspección, si resultaren ciertos los hechos denunciados, el p
 
 III. Transcurrido el plazo antes señalado, si el presunto infractor hubiese ofrecido pruebas, la autoridad fijará un plazo que no excederá de diez días para que las mismas sean recibidas o perfeccionadas; y
 
-IV. Concluido el periodo probatorio o vencido el plazo indicado en la fracción II de este articulo, en el supuesto de que el presunto infractor no comparezca o no ofrezca pruebas, la autoridad emitirá resolución en un plazo no mayor de diez días, determinando si se aplica o no la sanción. En los plazos a que se alude en este numeral, sólo se computarán los días hábiles.
+IV. Concluido el periodo probatorio o vencido el plazo indicado en la fracción II de este artículo, en el supuesto de que el presunto infractor no comparezca o no ofrezca pruebas, la autoridad emitirá resolución en un plazo no mayor de diez días, determinando si se aplica o no la sanción. En los plazos a que se alude en este numeral, sólo se computarán los días hábiles.
 
 ###### ARTÍCULO 103.
 
@@ -1094,3 +1114,15 @@ EL SECRETARIO DE DESARROLLO SOCIAL.
 MC. DAVID JUMÉNEZ RUMBO.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
