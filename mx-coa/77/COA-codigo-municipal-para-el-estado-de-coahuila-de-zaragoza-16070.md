@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2014-12-23"
+last_updated: "2014-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1975,7 +1975,9 @@ La formulación, expedición, y publicación de los ordenamientos legales munici
 
 I. El derecho de iniciar el reglamento interior para la organización política del Municipio y los bandos de policía y buen gobierno, compete al presidente municipal y a los regidores.
 
-II. El derecho de iniciar reglamentos administrativos interiores, circulares o cualesquier otro ordenamiento legal de carácter administrativo, o para el funcionamiento de los servicios públicos, compete al presidente municipal; al síndico; a los regidores y a los titulares de las dependencias de la administración central municipal que corresponda, según la materia que se regule.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+II. El derecho de iniciar reglamentos administrativos interiores, circulares o cualesquier otro ordenamiento legal de carácter administrativo, o para el funcionamiento de los servicios públicos, compete al presidente municipal; al síndico; a los regidores; a los titulares de las dependencias de la administración central municipal que corresponda, según la materia que se regule y, a las personas consideradas como habitantes del municipio de conformidad a lo dispuesto por los artículos 16, 17, y 18 de este Código y observando lo dispuesto en el artículo 45 de la Ley de Participación Ciudadana para el Estado.
 
 III. Los reglamentos que sea necesario expedir para regular la intervención que le compete al Municipio en la organización y funcionamiento de entidades desconcentradas de la administración municipal; empresas de participación municipal y fideicomisos públicos municipales, podrán ser iniciados ante el ayuntamiento por el presidente municipal, los regidores, el síndico y los representantes legales de las mencionadas entidades.
 
@@ -4222,3 +4224,7 @@ TERCERO.- La Comisión de Transparencia y Acceso a la Información deberán (sic
 P.O. 23 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
