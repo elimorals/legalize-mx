@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-coordinacion-fiscal-del-estado-de-yucatan-22766"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2013-12-20"
+last_updated: "2014-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2001.
 
@@ -41,17 +41,21 @@ LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN.
 
 ### CAPÍTULO I. DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO
 
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-Esta ley establece y regula el Sistema de Coordinación Fiscal del Estado de Yucatán con sus Municipios, y tiene por objeto:
+Esta ley es de orden público y observancia general en el Estado de Yucatán y tiene por objeto:
 
-I.- Coordinar el Sistema de Coordinación Fiscal del Estado de Yucatán con sus Municipios y fijar las reglas de colaboración administrativa entre esas autoridades;
+I.- Establecer el Sistema de Coordinación Fiscal del Estado de Yucatán con sus Municipios y fijar las reglas de colaboración administrativa entre estos;
 
-II.- Establecer los montos, bases, plazos y toda normatividad requerida para la distribución de las Participaciones que correspondan a los Municipios;
+II.- Definir los montos, bases, plazos y regular la distribución de las participaciones que correspondan a los municipios;
 
-III.- Constituir los organismos en materia de coordinación fiscal estatal y definir su organización, funcionamiento y facultades, y
+III.- Disponer la integración, distribución, administración, ejercicio y supervisión de las aportaciones federales que corresponden al estado y los municipios, de conformidad con lo dispuesto por la Ley de Coordinación Fiscal federal;
 
-IV.- Establecer y vigilar la aplicación de las sanciones por violaciones al Sistema de Coordinación Fiscal del Estado de Yucatán.
+IV.- Constituir los organismos en materia de coordinación fiscal estatal y definir su organización, funcionamiento y atribuciones, y
+
+V.- Establecer y vigilar la aplicación de las sanciones por violaciones al sistema de coordinación fiscal del estado.
 
 ### CAPÍTULO II. DE LOS MONTOS, BASES Y PLAZOS PARA LA DISTRIBUCIÓN DE PARTICIPACIONES FEDERALES Y ESTATALES A LOS MUNICIPIOS
 
@@ -97,7 +101,15 @@ Los Municipios participarán de los ingresos estatales en la proporción y conce
 
 4. 20% de la recaudación del Impuesto sobre Automóviles Nuevos;
 
-5. 100% del Fondo de Fomento Municipal, en los términos de la Ley de Coordinación Fiscal Federal;
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+5. 100% del Fondo de Fomento Municipal, a que se refiere la Ley de Coordinación Fiscal federal, en los siguientes términos:
+
+a) 100% de la participación del fondo que recibió el estado en el año 2013.
+
+b) El coeficiente de distribución del 70% del excedente del fondo con respecto a 2013 del estado en el año en que se efectúe el cálculo, en los términos de la fórmula establecida en el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal federal.
+
+c) La cantidad que corresponda al estado por los municipios que hayan convenido la coordinación del cobro del impuesto predial con aquel, en términos de la fórmula establecida en el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal federal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -117,19 +129,29 @@ Asimismo, se exceptúa de participación a los Municipios el Impuesto sobre erog
 
 También quedan exceptuados de participaciones a los municipios, el impuesto a las erogaciones en juegos y concursos, el impuesto cedular sobre la obtención de ingresos por actividades empresariales y el impuesto cedular por la enajenación de bienes inmuebles;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+7. 20% de los recursos del Fondo de Fiscalización y Recaudación, de conformidad con la Ley de Coordinación Fiscal federal;
 
-7. 20% de los recursos del Fondo de Fiscalización y Recaudación, de conformidad con la Ley de Coordinación Fiscal federal.
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2005)</small>
+8. 100% del monto que corresponda al estado por la recaudación que se obtenga del impuesto sobre la renta que efectivamente se entere a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en las dependencias de los municipios, así como en las entidades paramunicipales, siempre que el salario sea efectivamente pagado con cargo a sus participaciones u otros ingresos locales, en los términos del artículo 3-B de la Ley de Coordinación Fiscal federal;
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+9. 20% del monto que corresponda al estado del total recaudado de las cuotas por enajenación de gasolina o diesel previstas en el artículo 2º-A, fracción II, de la Ley Especial sobre Producción y Servicios, de conformidad con lo dispuesto por el artículo 4o.-A de la Ley de Coordinación Fiscal federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
-El factor que a cada municipio corresponda, del total de los recursos resultantes de las proporciones establecidas en el artículo inmediato anterior, se determinará conforme a las siguientes bases:
+El factor que a cada municipio corresponda del total de los recursos resultantes de las proporciones establecidas en el artículo anterior, con excepción de las cantidades establecidas en los numerales 5, inciso c), 8 y 9, se determinará conforme a las siguientes bases:
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2005)</small>
 
 I.- El 64%, se distribuirá entre los municipios en proporción directa al número de habitantes que cada uno tenga, conforme a la última información publicada por el Instituto Nacional de Estadística, Geografía e Informática;
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2005)</small>
 
 II.- El 4.5% se distribuirá entre los municipios con base en el Índice de Esfuerzo Recaudatorio del Impuesto Predial y de las cuotas por el Servicio de Agua Potable que se obtuvo en cada municipio;
 
@@ -137,7 +159,7 @@ El Índice de Esfuerzo Recaudatorio resultará de la siguiente fórmula:
 
 R3i R2i R1i
 
-IERi=0.33* +0.33* +0.34*
+IERi= 0.33* +0.33* +0.34*
 
 R3TOT R2TOT R1TOT
 
@@ -157,6 +179,8 @@ R1i Recaudación del Impuesto Predial y las cuotas de Servicio de Agua Potable, 
 
 R1TOT Sumatoria de la Recaudación del Impuesto Predial y las cuotas de Servicio de Agua Potable de todos los municipios del Estado, del año inmediato anterior.
 
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2005)</small>
+
 III.- El 2% se distribuirá en función del Esfuerzo en la Recaudación del Impuesto Predial y las cuotas de Agua Potable del año inmediato anterior, de acuerdo con la siguiente fórmula:
 
 R1i
@@ -173,7 +197,9 @@ R1i Recaudación del Impuesto Predial y las cuotas de Servicio de Agua Potable, 
 
 R1TOT Sumatoria de la Recaudación del Impuesto Predial y las cuotas de Servicio de Agua Potable de todos los municipios del Estado, del año inmediato anterior.
 
-IV.- Derogada;
+IV.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2005)
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2005)</small>
 
 V.- El 2.5% se distribuirá con base en la proporción directa del Índice de Masa de Marginación de cada municipio, con respecto a la sumatoria total de los valores del Índice para todos los municipios del Estado.
 
@@ -189,7 +215,25 @@ Mi Marginación para el municipio i de acuerdo con la última información publi
 
 Pi Población del municipio i de acuerdo con la última información publicada por el Instituto Nacional de Estadística, Geografía e Informática.
 
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2005)</small>
+
 VI.- El 27% restante, se distribuirá en partes iguales, entre los municipios del Estado.
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 6 Bis.
+
+El factor que a cada municipio corresponda del total de los recursos resultantes de las proporciones establecidas en los numerales 5, inciso c), 8 y 9 del artículo 5 se determinará conforme a las siguientes bases específicas:
+
+I.- La cantidad establecida en el artículo 5, numeral 5, inciso c), se distribuirá entre los municipios que hayan convenido la coordinación del cobro del impuesto predial con el estado, en términos de lo establecido en el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal federal, de conformidad con las fórmulas previstas en el artículo 6 de esta ley. No obstante, cuando en las fórmulas se aluda a variables que consideren a todos los municipios del estado, se entenderá que se refiere solo a los municipios que cumplan los requisitos señalados en este artículo;
+
+II.- Para efectos de la distribución de la cantidad establecida en el artículo 5, numeral 8, de esta ley, se participará a cada municipio el 100% de la recaudación que se obtenga del impuesto sobre la renta, una vez descontadas las devoluciones por dicho concepto, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en el municipio de que se trate, siempre que el salario sea efectivamente pagado con cargo a sus participaciones y otros ingresos locales;
+
+III.- La cantidad establecida en artículo 5, numeral 9, se distribuirá de la siguiente manera:
+
+a) El 70% se distribuirá entre los Municipios, en proporción directa al número de habitantes que cada uno tenga, conforme a la última información oficial publicada por el Instituto Nacional de Estadística, Geografía e Informática.
+
+b) El 30% se distribuirá con base en la proporción directa del Índice de Masa de Marginación de cada municipio, con respecto a la sumatoria total de los valores del Índice para todos los municipios del Estado.
 
 ###### Artículo 7.
 
@@ -233,15 +277,15 @@ En caso de incumplimiento en los plazos establecidos, el retraso dará lugar al 
 
 Las entregas antes referidas serán cubiertas por la Secretaría de Administración y Finanzas mediante cheque o depósito en cuenta bancaria a nombre de los municipios.
 
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 8.
 
-Las participaciones que correspondan a los Municipios son inembargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo cuando garanticen el pago de obligaciones contraídas por los Ayuntamientos, con autorización del cabildo. Cuando las obligaciones rebasen el término de la administración municipal, para la afectación de las participaciones deberán observarse las obligaciones y términos de la Ley de Deuda Pública del Estado de Yucatán y en caso de ser posible, con el artículo 9 de la Ley de Coordinación Fiscal Federal, contando en todo caso con la aprobación del Congreso del Estado.
+Las participaciones federales que correspondan a los municipios en los términos del artículo 9 de la Ley de Coordinación Fiscal federal son inembargables; no pueden afectarse a fines específicos ni estar sujetas a retención, salvo aquellas correspondientes al Fondo General de Participaciones, al Fondo de Fomento Municipal y a los recursos a que se refiere el Artículo 4-A, fracción I, de la Ley de Coordinación Fiscal federal, las cuales podrán ser afectadas para el pago de obligaciones contraídas por los municipios, con autorización del Congreso e inscritas a petición de los municipios ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, a favor de la federación, de las instituciones de crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+No estarán sujetas a lo dispuesto en el párrafo anterior las compensaciones que se requiera efectuar como consecuencia de ajustes en participaciones federales o de descuentos originados del incumplimiento de metas pactadas con la federación en materia de administración de contribuciones. Procederán las compensaciones entre las participaciones federales e incentivos de los municipios y las obligaciones que tengan con la federación, cuando exista acuerdo entre las partes interesadas.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
-
-Las participaciones que correspondan a los municipios otorgadas en garantía de obligaciones a su cargo deberán ser inscritas en la Secretaría de Administración y Finanzas, en el registro estatal de deuda pública, en caso de ser procedente. La Secretaría de Administración y Finanzas será la obligada a realizar los trámites de inscribir en dicho registro la deuda pública de los municipios en cuanto se habilite.
+Las participaciones que correspondan a los municipios otorgadas en garantía de obligaciones a su cargo deberán ser inscritas en la Secretaría de Administración y Finanzas, en el registro estatal de deuda pública, en caso de ser procedente. La Secretaría de Administración y Finanzas será la obligada de realizar los trámites de inscribir en dicho registro la deuda pública de los municipios en cuanto se habilite.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -251,13 +295,31 @@ Las participaciones que correspondan a los municipios otorgadas en garantía de 
 
 El Ejecutivo del Estado deberá informar al Congreso del Estado y publicar trimestralmente en el Diario Oficial del Gobierno del Estado de Yucatán, el monto de las participaciones recibidas y la distribución de la parte que le corresponde a los municipios, en los primeros quince días de los meses de enero, abril, julio y octubre.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO III BIS. DE LAS APORTACIONES FEDERALES AL ESTADO Y LOS MUNICIPIOS
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 9 Bis.
+
+Las aportaciones federales son los recursos que la federación transfiere a las haciendas públicas del estado y los municipios, cuyo gasto se encuentra condicionado a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece la Ley de Coordinación Fiscal federal.
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 9 Ter.
+
+El estado y los municipios podrán afectar las aportaciones federales que les correspondan en los casos y con las condiciones establecidas en la Ley de Coordinación Fiscal federal.
+
+Los municipios podrán afectar las aportaciones que les correspondan del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal en garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales.
+
+En caso de incumplimiento de pago de derechos y aprovechamientos por concepto de agua y descargas residuales por parte de los municipios que hayan afectado los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal en los términos del párrafo anterior, la Secretaría de Administración y Finanzas, a solicitud de la Comisión Nacional del Agua, retendrá y pagará el adeudo con cargo a los recursos de dicho fondo que correspondan al municipio de que se trate.
+
 ### CAPÍTULO IV. DE LA COORDINACIÓN FISCAL Y COLABORACIÓN ADMINISTRATIVA ENTRE EL ESTADO Y LOS MUNICIPIOS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
-
-### CAPÍTULO V. DE LOS ORGANISMOS DEL SISTEMA DE COORDINACIÓN FISCAL
 
 ###### Artículo 10.
 
@@ -293,7 +355,7 @@ En los convenios a que se refiere el artículo anterior se establecerá el objet
 
 Las autoridades fiscales municipales, en el ejercicio de las facultades y funciones a que se refieren los convenios respectivos que se relacionen con ingresos estatales, serán consideradas como autoridades fiscales estatales o federales según el caso, debiendo ajustar sus actuaciones, en lo conducente, a lo dispuesto en la Legislación Fiscal Estatal o Federal que sea aplicable.
 
-### CAPÍTULO VI. DE LA VIGILANCIA Y LOS ALCANCES POR VIOLACIÓN AL SISTEMA DE COORDINACIÓN FISCAL
+### CAPÍTULO V. DE LOS ORGANISMOS DEL SISTEMA DE COORDINACIÓN FISCAL
 
 ###### Artículo 13.
 
@@ -361,6 +423,8 @@ Cada grupo elegirá mediante el procedimiento acordado al efecto por el Consejo 
 
 El Comité Directivo sesionará en los términos que determine el Reglamento del Consejo Estatal Hacendario y tendrá como objetivo promover los mecanismos para el diálogo e información entre la Secretaría de Administración y Finanzas, el Congreso del Estado y los ayuntamientos; realizar propuestas en materia hacendaria, así como brindar asesoría técnica y jurídica. Entre sus obligaciones están las de convocar y preparar el orden del día de las asambleas del Consejo Estatal Hacendario, establecer el reglamento de operación del comité, formar subcomités para funciones específicas, y en general canalizar los acuerdos y determinaciones que se tomen en el Consejo.
 
+### CAPÍTULO VI. DE LA VIGILANCIA Y LOS ALCANCES POR VIOLACIÓN AL SISTEMA DE COORDINACIÓN FISCAL
+
 ###### Artículo 17.
 
 Cuando el Estado o algún Municipio, contravengan lo establecido por esta Ley, o violen el o los Convenios de Coordinación Fiscal y Colaboración Administrativa que se deriven de la misma, previa manifestación expresa de dicha contravención por la parte afectada a la autoridad infractora, podrá presentar su inconformidad por escrito ante el Congreso del Estado, para que previo estudio y análisis, y la opinión del Consejo Estatal Hacendario, dictamine sobre la procedencia de las medidas correctivas a que haya lugar.
@@ -420,3 +484,13 @@ Este Decreto entrará en vigor el día 1 de enero del año 2014, previa su publi
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y normativas de igual o menor rango en lo que se opongan al contenido de este Decreto.
+
+D.O. 26 DE DICIEMBRE DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2015, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este Decreto.
