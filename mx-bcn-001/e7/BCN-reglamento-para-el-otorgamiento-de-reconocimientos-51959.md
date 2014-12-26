@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-otorgamiento-de-reconocimientos-51959"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-29"
-last_updated: "2008-04-11"
+last_updated: "2014-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTIMULOS, RECOMPENSAS Y ASCENSOS DE LA DIRECCION DE SEGURIDAD PUBLICA MUNICIPAL DE ENSENADA -- ANTES REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTIMULOS, RECOMPENSAS Y ASCENSOS DE LA SECRETARIA DE SEGURIDAD PUBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA -- ANTES REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTIMULOS Y RECOMPENSAS DE LA SECRETARIA DE SEGURIDAD PUBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTIMULOS, RECOMPENSAS Y ASCENSOS DE LA SECRETARIA DE SEGURIDAD PUBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTÍMULOS, RECOMPENSAS Y ASCENSOS DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 2006.
 
@@ -49,19 +49,23 @@ El Secretario Fedatario del XVIII Ayuntamiento de Ensenada
 
 LIC. JULIO CESAR ARENAS RUIZ
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTÍMULOS, RECOMPENSAS Y ASCENSOS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA.
+REGLAMENTO PARA EL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTÍMULOS, RECOMPENSAS Y ASCENSOS DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA.
 
 ## TÍTULO PRIMERO. PREVENCIONES GENERALES
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES Y DEFINICIONES GENERALES
 
-(REFORMADO, P.O. 11 DE ABRIL DE 2008
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto promover la participación, formación e iniciativa de los elementos de la Secretaría, así como reconocer al personal que desarrolle su función con responsabilidad, honradez, diligencia, eficiencia, eficacia, dentro de los lineamentos legales establecidos y con el mayor respeto a los derechos humanos de los ciudadanos, a través del otorgamiento de reconocimientos, condecoraciones, estímulos, recompensas y ascensos, los cuales proporcionará satisfacción por el esfuerzo realizado en el empleo y fortalecerá la carrera profesional en seguridad pública.
+El presente Reglamento tiene por objeto promover la participación, formación e iniciativa de los Miembros de la Dirección de Seguridad Pública, así como reconocer al personal que desarrolle su función con responsabilidad, honradez, diligencia, eficiencia, eficacia, dentro de los lineamentos legales establecidos y con el mayor respeto a los derechos humanos de los ciudadanos, a través del otorgamiento de reconocimientos, condecoraciones, estímulos y recompensas, los cuales proporcionará (sic) satisfacción por el esfuerzo realizado en el empleo y fortalecerá la carrera profesional en seguridad pública.
+
+Son Sujetos al otorgamiento de reconocimientos, condecoraciones, estímulos y recompensas, los miembros de Policía, Tránsito y Bomberos y los comisionados en áreas administrativas.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 2.
 
@@ -69,51 +73,67 @@ Para los efectos del presente Reglamento se entenderá por:
 
 AYUNTAMIENTO: El H. Ayuntamiento de Ensenada, Baja California.
 
-LEY: La Ley de Seguridad Pública y Bases de Coordinación para el Estado de Baja California.
+LEY: La Ley de Seguridad Pública del Estado de Baja California.
 
-SECRETARÍA: La Secretaría de Seguridad Pública Municipal de Ensenada, Baja California.
+DIRECCIÓN: La Dirección de Seguridad Pública Municipal de Ensenada, Baja California.
 
 COMISIÓN: La Comisión de Seguridad Pública de Estímulos y Recompensas.
 
-REGLAMENTO DE LA SECRETARÍA: El Reglamento Orgánico de la Secretaría de Seguridad Pública Municipal de Ensenada, Baja California.
+REGLAMENTO DE LA DIRECCIÓN: El Reglamento Orgánico de la Dirección de Seguridad Pública Municipal de Ensenada, Baja California.
 
 REGLAMENTO: El Reglamento para el otorgamiento de reconocimientos, condecoraciones, estímulos y recompensas.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
-
 MERITOS ESPECIALES: Todos aquellos actos relevantes sobresalientes, incluso más allá del deber arriesgando la integridad física o la propia vida en defensa de la vida o bienes de las personas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 3.
 
 Corresponde la aplicación del presente ordenamiento a la Comisión, la que fija y otorga los reconocimientos, condecoraciones, estímulos y recompensas.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-La Secretaría contará con la partida presupuestal correspondiente, para la aplicación del presente Reglamento. La que se integrará con el presupuesto previamente asignado conforme a la normatividad aplicable y de las aportaciones otorgadas por la ciudadanía, instituciones públicas, privadas y personas morales, partida que será controlada por la Secretaría y administrada por la Comisión, conforme al capítulo de aportaciones externas del presente ordenamiento.
+La Dirección contará con la partida presupuestal correspondiente, para la aplicación del presente Reglamento. La que se integrará con el presupuesto previamente asignado conforme a la normatividad aplicable y de las aportaciones otorgadas por la ciudadanía, instituciones públicas, privadas y personas morales, partida que será controlada por la Dirección y administrada por la Comisión, conforme al capítulo de aportaciones externas del presente ordenamiento.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
 
 Se prohíbe la portación de condecoraciones que no hayan sido legítimamente otorgada y autorizada (sic) por la Comisión.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 6.
 
-La inobservancia de lo previsto en el artículo anterior, deberá hacerse del conocimiento de la Unidad de Asuntos Internos de la Secretaría, por quien advierta tal irregularidad y dará lugar a la imposición de las sanciones previstas en el ordenamiento legal correspondiente.
+La inobservancia de lo previsto en el artículo anterior, deberá hacerse del conocimiento de la Unidad de Asuntos Internos de la Dirección, por quien advierta tal irregularidad y dará lugar a la imposición de las sanciones previstas en el ordenamiento legal correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 7.
 
-Los integrantes podrán recibir estímulos de otras instituciones u organizaciones sociales, sin menoscabo de las que pueda recibir de la Secretaría.
+Los integrantes podrán recibir estímulos de otras instituciones u organizaciones sociales, sin menoscabo de las que pueda recibir de la Dirección.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
 Cuando un acto considerado para el otorgamiento de una recompensa, haya sido realizado por varios integrantes, ésta se les otorgará proporcionalmente tomando en consideración, las categorías y jerarquías, el número de quienes hayan intervenido, así como su grado de participación o intervención en los hechos de que se trate.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 9.
 
-Cuando una unidad administrativa u operativa haya realizado o ejecutado un acto que amerite la entrega de una condecoración, mención honorífica o citación, ésta se le impondrá en su conjunto y podrá ser exhibida en su sala de juntas o en aquella área designada par (sic) tal efecto.
+Cuando una unidad administrativa u operativa haya realizado o ejecutado un acto que amerite la entrega de una condecoración, mención honorífica o citación, ésta se le impondrá en su conjunto y podrá ser exhibida en su sala de juntas o en aquella área designada para tal efecto.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 10.
 
 La entrega de un estímulo, por resolución o autorización de la Comisión, será acompañada de un diploma que acredite el derecho de ejecución o portación del mismo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 11.
 
@@ -123,9 +143,13 @@ Se enviará copia de la constancia mediante la cual se otorgue el estímulo al e
 
 ### CAPÍTULO I. DE LA INTEGRACIÓN Y ATRIBUCIONES DE LA COMISIÓN
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 12.
 
-La Comisión es el órgano colegiado encargado de evaluar la actuación y desempeño de los miembros de la Secretaría.
+La Comisión es el órgano colegiado encargado de evaluar la actuación y desempeño de los miembros de la Dirección.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 13.
 
@@ -133,17 +157,17 @@ La Comisión estará integrada por los siguientes miembros:
 
 I. El Presidente Municipal, quien fungirá como Presidente;
 
-II. El Secretario de Seguridad Pública, quien fungirá como Secretario;
+II. El Director de Seguridad Pública, quien fungirá como Secretario;
 
 III. El Síndico Municipal, quien fungirá como vocal ejecutivo;
 
-IV. El Regidor Presidente de la Comisión de Seguridad Pública, quien fungirá como primer vocal;
+IV. El Regidor Presidente de la Comisión de Seguridad, Tránsito y Transporte, quien fungirá como primer vocal;
 
-V. El Presidente del Comité Ciudadano de Seguridad Pública del Municipio de Ensenada, quien fungirá como segundo vocal, y (sic)
+V. El Presidente del Comité Ciudadano de Seguridad Pública del Municipio de Ensenada, quien fungirá como segundo vocal, y
 
-VI. El Presidente de la Asociación de Policías, quien fungirá como tercer vocal;
+VI. El Presidente de la Asociación de Policías, quien fungirá como tercer vocal.
 
-VII. Dos representantes del Consejo Coordinador Empresarial de Ensenada, quines (sic) tungirán (sic) como cuarto y quinto vocal.
+VII. Dos representantes del Consejo Coordinador Empresarial de Ensenada, quienes fungirán como cuarto y quinto vocal.
 
 ###### Artículo 14.
 
@@ -163,29 +187,27 @@ Los miembros de la Comisión durarán en su cargo únicamente el período consti
 
 La Comisión podrá contar con el número de invitados que ésta determine, éstos tendrán derecho a voz siempre que así lo autorice la Comisión y solo por el punto del orden del día para la cual fueron invitados, en ninguno de los casos tendrán derecho a voto, ni permanecer en la sesión en asuntos ajenos a los de su competencia, a criterio del presidente de la Comisión.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 18.
 
 La Comisión tendrá las siguientes atribuciones:
 
-I. Conocer de los actos y conductas de los miembros de la Secretaría que ameriten reconocimientos y condecoraciones;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
+I. Conocer de los actos y conductas de los miembros de la Dirección que ameriten reconocimientos y condecoraciones;
 
 II. Establecer los mecanismos adecuados para la fijación, otorgamiento y entrega de reconocimientos, condecoraciones, estímulos, recompensas y ascensos, a través de un manual de procedimientos autorizado por la misma;
 
-III. Autorizar los estímulos y recompensas que la comunidad desee otorgar a los elementos, en los términos de este reglamento;
+III. Autorizar los estímulos y recompensas que la comunidad desee otorgar a los miembros, en los términos de este reglamento;
 
-IV. Establecer las medidas que fomenten la dignidad y profesionalización de los miembros de la Secretaría;
+IV. Establecer las medidas que fomenten la dignidad y profesionalización de los miembros de la Dirección;
 
 V. Revisar y evaluar los expedientes de los aspirantes a recibir algún beneficio;
 
 VI. Dictar aquellos acuerdos relacionados al objeto del presente Reglamento;
 
-VII. Los demás que establezcan las leyes, Reglamentos y disposiciones aplicables al presente Reglamento;
+VII. Los demás que establezcan las leyes, Reglamentos y disposiciones aplicables al presente Reglamento:
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
-
-VIII. otorgar, mediante acuerdo, los reconocimientos, condecoraciones, estímulos, recompensas y ascensos a los Elementos de la Secretaría; y,
+VIII. Otorgar, mediante acuerdo, los reconocimientos, condecoraciones, estímulos, recompensas y ascensos, a los miembros de la Dirección; y,
 
 IX. Las demás que otorgue el presente reglamento y otras disposiciones aplicables.
 
@@ -236,6 +258,8 @@ Los integrantes de la Comisión deberán de excusarse de conocer de algún asunt
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DE LOS MIEMBROS DE LA COMISIÓN
 
 #### SECCIÓN PRIMERA. ATRIBUCIONES DEL PRESIDENTE Y SECRETARIO DE LA COMISIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 29.
 
@@ -293,11 +317,15 @@ XIV. Remitir a los miembros de la Comisión las convocatorias para las sesiones,
 
 XV. Por instrucciones del presidente, someter a la aprobación de la Comisión los acuerdos que emanen de las sesiones;
 
-XVI. Remitir a la Coordinación de Profesionalización de la Secretaría, los dictámenes de la Comisión, para ser agregados a los expedientes personales de los elementos que hayan sido objeto de una resolución; y,
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XVI. Remitir a la Coordinación de Profesionalización de la Dirección, los dictámenes de la Comisión, para ser agregados a los expedientes personales de los miembros que hayan sido objeto de una resolución; y,
 
 XVII. Las demás que le confiera el presente Reglamento, otras disposiciones aplicables y la propia Comisión.
 
 #### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES GENÉRICAS DE LOS VOCALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
@@ -321,6 +349,8 @@ VIII. Las demás que le asigne el ayuntamiento, el presente Reglamento o las que
 
 #### SECCIÓN TERCERA. DE LA SUSTITUCIÓN Y DE LA SEPARACIÓN DE LOS MIEMBROS DE LA COMISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 32.
 
 La Comisión podrá sustituir a sus miembros ciudadanos, cuando:
@@ -337,39 +367,39 @@ IV. Renuncien voluntariamente.
 
 La Comisión para sustituir alguno de sus miembros, notificará al organismo que representa para que en un término de diez días hábiles designe un nuevo representante, en caso de que no haga llegar el nombramiento respectivo, la Comisión nombrará a un tercero con el perfil y vocación del organismo de que se trate.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2008)</small>
 
 ## TÍTULO TERCERO. DEL OTORGAMIENTO DE RECONOCIMIENTOS, CONDECORACIONES, ESTÍMULOS, RECOMPENSAS Y ASCENSOS
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 34.
 
-Los reconocimientos, condecoraciones, estímulos, recompensas y ascensos serán otorgados a aquellos elementos que cumplan con los requisitos establecidos en el presente Reglamento, y con la mayoría de votos emitidos por la Comisión, de acuerdo a la evaluación realizada para tales efectos.
+Los reconocimientos, condecoraciones, estímulos, recompensas y ascensos serán otorgados a aquellos Miembros que cumplan con los requisitos establecidos en el presente Reglamento, y con la mayoría de votos emitidos por la Comisión, de acuerdo a la evaluación realizada para tales efectos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 35.
 
 Los reconocimientos, condecoraciones, estímulos, recompensas y ascensos consistirán en: numerario, diplomas, medallas, menciones honoríficas, especie y/o días de descanso extraordinarios, los cuales tendrán las siguientes características:
 
-I. NUMERARIO: Percepción económica distinta al salario mensual percibido por el elemento;
+I. NUMERARIO: Percepción económica distinta al salario mensual percibido por el Miembro;
 
 II. DIPLOMA: Documento oficial, que establece la posesión de un privilegio o que resalta un acto o hecho;
 
 III. MEDALLA: Pieza grabada de carácter simbólico, concedida mediante una condecoración;
 
-IV. MENCIÓN HONORÍFICA: Documento que exprese los méritos o acciones especificas en la prestación del servicio de seguridad pública, que lleve a cabo el elemento;
+IV. MENCIÓN HONORÍFICA: Documento que exprese los méritos o acciones específicas en la prestación del servicio de seguridad pública, que lleve a cabo el Miembro;
 
 V. ESPECIE: Bien mueble o inmueble que este dentro del comercio, y
 
-VI. DIAS DE DESCANSO EXTRAORDINARIOS: Aquellos distintos a los días francos y vacaciones.
+VI. DÍAS DE DESCANSO EXTRAORDINARIOS: Aquellos distintos a los días francos y vacaciones.
 
 En todo caso, la Comisión acordara su aplicación en lo particular.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 36.
 
@@ -377,35 +407,35 @@ La propuesta de aspirantes a recibir reconocimientos, condecoraciones, estímulo
 
 I. Cualquiera de los miembros de la Comisión;
 
-II. El Director de Policía Preventiva, Director de Tránsito y Transporte o el Director de Bomberos y Protección Civil;
+II. El Subdirector de Policía y Tránsito o el Subdirector de Bomberos.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
+III. El comandante de la zona o sector, así como en (sic) titular del departamento donde preste su servicio el aspirante;
 
-III. El comandante de la zona o sector, así como en (sic) titular del departamento donde preste sus servicios el aspirante;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
-
-IV. El Delegado Municipal, donde preste sus servicios el aspirante;
+IV. El Delegado Municipal, donde preste su servicio el aspirante;
 
 V. Residentes de la comunidad, en donde preste su servicio el aspirante;
 
-VI. Los propios elementos que tengan la certeza de cubrir todos los requisitos exigidos y que se consideren con derecho de recibir un estímulo o recompensa.
+VI. Los propios miembros que tengan la certeza de cubrir todos los requisitos exigidos y que se consideren con derecho de recibir un estímulo o recompensa.
 
-La propuesta deberá presentarse por escrito, a cualquiera de los miembros de la Comisión, manifestando los motivos y razones por las cuales consideren deban de ser otorgados.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+###### Artículo 36 Bis.
 
-Artículo 36 bis. A iniciativa del Secretario de Seguridad Publica Municipal se determinará los concursos de selección, con base en las vacantes al número de plazas a cubrir en cada grado, convocando a la Comisión Municipal de Estímulos, Recompensas, Condecoraciones y Ascensos para que lleve a cabo dicho procedimiento, de conformidad a lo establecido en el manual correspondiente.
+A iniciativa del Director de Seguridad Pública Municipal se determinará (sic) los concursos de selección, con base en las vacantes al número de plazas a cubrir en cada grado, convocando a la Comisión Municipal de Estímulos, Recompensas, Condecoraciones y Ascensos para que lleve a cabo dicho procedimiento, de conformidad a lo establecido en el manual correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 37.
 
 Para el otorgamiento de reconocimientos, condecoraciones, estímulos y recompensas, la Comisión deberá obtener los siguientes requisitos del aspirante o candidato:
 
-I. Tener nombramiento dentro de la Secretaría;
+I. Tener nombramiento dentro de la Dirección;
 
-II. Por parte de la Coordinación de Profesionalización de la Secretaría, un informe del expediente personal del aspirante, con el objeto de que valore sus antecedentes.
+II. Por parte de la Coordinación de Profesionalización de la Dirección, un informe del expediente personal del aspirante, con el objeto de que valore sus antecedentes.
 
-Dentro del expediente, deberán quedar integrados los resultados de evaluación del desempeño de los elementos y el formato único de movimiento de personal correspondiente.
+Dentro del expediente, deberán quedar integrados los resultados de evaluación del desempeño de los Miembros y el formato único de movimiento de personal correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 38.
 
@@ -417,35 +447,47 @@ II. Calidad del desempeño y dedicación, así como la eficiencia, eficacia, par
 
 III. Comportamiento ético, para lo cual se deberá considerar la conducta honesta, lealtad, servicios relevantes, acciones de trascendencia y otros méritos del aspirante, y
 
-IV. Observancia de las políticas consignadas en la Ley de Seguridad Pública y Bases de Coordinación para el Estado de Baja California, el Reglamento Orgánico de la Secretaría de Seguridad Pública del Municipio de Ensenada y demás normatividad relativa y aplicable.
+IV. Observancia de las políticas consignadas en la Ley de Seguridad Pública y Bases de Coordinación para el Estado de Baja California, el Reglamento Orgánico de la Dirección de Seguridad Pública del Municipio de Ensenada y demás normatividad relativa y aplicable.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 39.
 
-Los reconocimientos, condecoraciones, estímulos y recompensas, podrán ser otorgados previo acuerdo de la Comisión, al o los elementos, sin perjuicio de algún otro, ya sea distinto o de la misma especie.
+Los reconocimientos, condecoraciones, estímulos y recompensas, podrán ser otorgados previo acuerdo de la Comisión, al o los Miembros, sin perjuicio de algún otro, ya sea distinto o de la misma especie.
 
 ### CAPÍTULO II. DE LOS RECONOCIMIENTOS
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 40.
 
 Los reconocimientos, serán otorgados por la perseverancia en el servicio, cada cinco años a partir de los diez años de servicio activo.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 41.
 
-Para efectos del artículo anterior, la Comisión solicitará a Oficialía Mayor del Ayuntamiento, un informe para la comprobación de la antigüedad en el servicio del elemento y una vez cotejada dicha información, la Comisión dictaminará sobre la procedencia del otorgamiento del reconocimiento, así como la forma en que se entregará éste.
+Para efectos del artículo anterior, la Comisión solicitará a Oficialía Mayor del Ayuntamiento, un informe para la comprobación de la antigüedad en el servicio del Miembro y una vez cotejada dicha información, la Comisión dictaminará sobre la procedencia del otorgamiento del reconocimiento, así como la forma en que se entregará éste.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 42.
 
 Cuando se entreguen reconocimientos por perseverancia de 20 años o más en el servicio, la Comisión podrá entregarlos en ceremonia pública.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 43.
 
-La Comisión, acordará los casos en que el reconocimiento deberá acompañarse de prestaciones económicas adicionales a la percepción mensual que el elemento perciba, así como los términos en que le serán entregadas.
+La Comisión, acordará los casos en que el reconocimiento deberá acompañarse de prestaciones económicas adicionales a la percepción mensual que el Miembro perciba, así como los términos en que le serán entregadas.
 
 ### CAPÍTULO III. DE LOS ESTÍMULOS Y RECOMPENSAS
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 44.
 
-Los estímulos y recompensas que se otorgarán a los integrantes de la Secretaría, serán los siguientes:
+Los estímulos y recompensas que se otorgarán a los Miembros de la Dirección, serán los siguientes:
 
 I. Recompensas
 
@@ -456,6 +498,8 @@ III. Menciones honoríficas
 IV. Distintivos, y
 
 V. Citaciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 45.
 
@@ -471,21 +515,27 @@ III. La protección de la vida, los bienes y la seguridad jurídica de las perso
 
 Recompensa es la remuneración de carácter económico que se otorga dependiendo de las asignaciones presupuestarias, para alentar e incentivar la conducta del personal, creando conciencia de que el esfuerzo y el sacrificio son honrados y reconocidos por la sociedad y por la Comisión.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 47.
 
-Condecoración, es la presea o joya que galardona un acto o hechos específicos del personal de la Secretaría.
+Condecoración, es la presea o joya que galardona un acto o hechos específicos del personal de la Dirección.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 48.
 
-Mención Honorífica, es la presea o joya que se otorga al personal o las unidades administrativas de la Secretaría por acciones sobresalientes o de relevancia, pero que no se encuentren consideradas para el otorgamiento de condecoraciones.
+Mención Honorífica, es la presea o joya que se otorga al personal o las unidades administrativas de la Dirección por acciones sobresalientes o de relevancia, pero que no se encuentren consideradas para el otorgamiento de condecoraciones.
 
 ###### Artículo 49.
 
 Distintivo, es la divisa o insignia con que la Comisión reconoce al personal que se destaque por actuación sobresaliente en el cumplimiento del servicio, disciplina o desempeño académico. Asimismo, esta recompensa se otorgará al personal que obtenga por dos años consecutivos en su evaluación de permanencia resultados sobresalientes.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 50.
 
-Citación, consiste en el reconocimiento verbal y escrito, por parte de la Comisión, al personal de la Secretaría, por haber realizado un hecho relevante, pero que no amerite o este considerado para el otorgamiento de los estímulos referidos anteriormente.
+Citación, consiste en el reconocimiento verbal y escrito, por parte de la Comisión, al personal de la Dirección, por haber realizado un hecho relevante, pero que no amerite o este considerado para el otorgamiento de los estímulos referidos anteriormente.
 
 ###### Artículo 51.
 
@@ -493,9 +543,11 @@ Se prohíbe la portación u ostentación de estímulos que no hayan sido legíti
 
 ### CAPÍTULO IV. DE LAS RECOMPENSAS
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 52.
 
-La coordinación de administración de la Secretaría, informará a la Comisión sobre las asignaciones presupuestales que existan en la partida correspondiente, para que ésta se encuentre en posibilidad de ponderar los montos para el otorgamiento de las recompensas.
+La coordinación de administración de la Dirección, informará a la Comisión sobre las asignaciones presupuestales que existan en la partida correspondiente, para que ésta se encuentre en posibilidad de ponderar los montos para el otorgamiento de las recompensas.
 
 ###### Artículo 53.
 
@@ -507,9 +559,11 @@ La Comisión se asegurará de quien haya reclamado alguna recompensa, cumpla tot
 
 ### CAPÍTULO V. DE LAS CONDECORACIONES
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 55.
 
-Las condecoraciones que se otorgarán al personal de la Secretaría, serán las siguientes:
+Las condecoraciones que se otorgarán al personal de la Dirección, serán las siguientes:
 
 I. Mérito Policial
 
@@ -525,33 +579,47 @@ VI. Mérito Docente
 
 VII. Mérito Deportivo
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 56.
 
-Las condecoraciones al Mérito Policial, se otorgará a los elementos de la Secretaría que realicen actos de heroísmo y servicio a la comunidad, cuando realice acciones para salvar la vida de una o varias personas, arriesgando la propia, la integridad física o la salud por anteponer la defensa del orden público y la protección a los integrantes de la comunidad.
+Las condecoraciones al Mérito Policial, se otorgará a los Miembros de la Dirección que realicen actos de heroísmo y servicio a la comunidad, cuando realice acciones para salvar la vida de una o varias personas, arriesgando la propia, la integridad física o la salud por anteponer la defensa del orden público y la protección a los integrantes de la comunidad.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 57.
 
-La condecoración al Merito Cívico se otorgará a los elementos de la Secretaría, considerados por la comunidad donde ejerzan funciones, como ejemplos de dignidad cívica, diligente cumplimiento de la ley, firme defensa de los derechos humanos, respeto a las instituciones públicas y en general, por un relevante comportamiento ciudadano.
+La condecoración al Mérito Cívico se otorgará a los Miembros de la Dirección, considerados por la comunidad donde ejerzan funciones, como ejemplos de dignidad cívica, diligente cumplimiento de la ley, firme defensa de los derechos humanos, respeto a las instituciones públicas y en general, por un relevante comportamiento ciudadano.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 58.
 
-La condecoración al Mérito Social y Cultural se otorgará a los elementos de la Secretaría que se distingan por el cumplimiento excepcional en el servicio a favor de la comunidad, poniendo en alto el prestigio y dignidad de la Secretaría, mediante acciones que beneficien directamente a grupos de personas determinados, o bien que se destaquen en las disciplinas artística o cultural y sea de relevante interés, prestigio y dignidad para la Secretaría.
+La condecoración al Mérito Social y Cultural se otorgará a los Miembros de la Dirección que se distingan por el cumplimiento excepcional en el servicio a favor de la comunidad, poniendo en alto el prestigio y dignidad de la Dirección, mediante acciones que beneficien directamente a grupos de personas determinados, o bien que se destaquen en las disciplinas artística o cultural y sea de relevante interés, prestigio y dignidad para la Dirección.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 59.
 
-La Condecoración al Mérito Ejemplar se otorgara a los elementos de la Secretaría que se distingan en forma sobresaliente por su puntualidad, disciplina en el servicio, asistencia, obediencia y respeto a las disposiciones de la Secretaría y sus superiores.
+La Condecoración al Mérito Ejemplar se otorgara a los Miembros de la Dirección que se distingan en forma sobresaliente por su puntualidad, disciplina en el servicio, asistencia, obediencia y respeto a las disposiciones de la Dirección y sus superiores.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 60.
 
-La condecoración al Merito Científico y Tecnológico se otorgará a los elementos de la Secretaría que se destaquen en el estudio y aplicación de la ciencia, inventen, diseñen o mejoren alguno (sic) instrumento, aparato, sistema o método de instrucción o procedimientos que impliquen un progreso y que sea de utilidad y prestigio para las Corporaciones de Seguridad Pública, para el Municipio o para el Estado.
+La condecoración al Mérito Científico y Tecnológico se otorgará a los Miembros de la Dirección que se destaquen en el estudio y aplicación de la ciencia, inventen, diseñen o mejoren alguno (sic) instrumento, aparato, sistema o método de instrucción o procedimientos que impliquen un progreso y que sea de utilidad y prestigio para las Corporaciones de Seguridad Pública, para el Municipio o para el Estado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 61.
 
-La condecoración al Mérito Docente se otorgará los (sic) elementos de la Secretaría que hayan desempeñado actividades docentes con distinción y eficiencia por un tiempo mínimo de 3 años, pudiendo computarse en varios períodos.
+La condecoración al Mérito Docente se otorgará (sic) los Miembros de la Dirección que hayan desempeñado actividades docentes con distinción y eficiencia por un tiempo mínimo de 3 años, pudiendo computarse en varios períodos.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 62.
 
-La condecoración al Merito Deportivo se otorgará a los elementos de la Secretaría que se distingan en cualquiera de las ramas del deporte. A quienes por su participación en cualquiera (sic) disciplina a nombre de la Secretaría, ya sea en justas a nivel Municipal, Estatal o Nacional obtenga alguna presea y a quienes impulsen o participen destacadamente en cualquiera de las ramas del deporte.
+La condecoración al Mérito Deportivo se otorgará a los Miembros de la Dirección que se distingan en cualquiera de las ramas del deporte. A quienes por su participación en cualquiera disciplina a nombre de la Dirección, ya sea en justas a nivel Municipal, Estatal o Nacional obtenga alguna presea y a quienes impulsen o participen destacadamente en cualquiera de las ramas del deporte.
 
 ### CAPÍTULO VI. DE LAS APORTACIONES EXTERNAS
 
@@ -567,19 +635,21 @@ Cuando alguno de los sujetos a que se refiere el presente capítulo requiera del
 
 Únicamente se celebrarán contratos de donación, respecto de aquellos bienes respaldados por la documentación en la que se acredite la propiedad de los mismos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 66.
 
-Los bienes deberán ser entregados a la Secretaría, para ser integrados a la partida presupuestal correspondiente, dando cuenta de todos los movimientos generados en la misma a la Comisión, teniendo a cargo su administración y disposición.
+Los bienes deberán ser entregados a la Dirección, para ser integrados a la partida presupuestal correspondiente, dando cuenta de todos los movimientos generados en la misma a la Comisión, teniendo a cargo su administración y disposición.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2008)</small>
 
 ### CAPÍTULO VII. DE LOS ASCENSOS
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 67.
 
-Ascenso es el acto mediante el cual es conferido al elemento de Policía Preventiva y Transito Municipal, un grado superior en el orden jerárquico de la escala que fija el presente Reglamento. Los ascensos otorgados tienen por finalidad cubrir las vacantes que ocurran en el servicio, con el personal apto y preparado para el desempeño de grado inmediato superior.
+Ascenso es el acto mediante el cual es conferido al Miembro de Seguridad Pública, un grado superior en el orden jerárquico de la escala que fija el presente Reglamento. Los ascensos otorgados tienen por finalidad cubrir las vacantes que ocurran en el servicio, con el personal apto y preparado para el desempeño de grado inmediato superior.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
 
@@ -587,21 +657,23 @@ Ascenso es el acto mediante el cual es conferido al elemento de Policía Prevent
 
 Los ascensos serán otorgados por medio de la aplicación de un sistema de exámenes con criterios para cada grado, mismo que se sujetara a lo establecido en el presente Reglamento.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 69.
 
 Los ascensos tienen como finalidad:
 
-I.- Cubrir las vacantes que se generen en los cuadros orgánicos de las unidades;
+I.- Cubrir las vacantes que se generen en los cuadros orgánicos de las unidades:
 
-II.- Asegurar la profesionalización los elementos de Policía Preventiva y Transito Municipal.
+II.- Asegurar la profesionalización (sic) los Miembro de Policía y Tránsito Municipal.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 70.
 
 Los requisitos para participar en la promoción serán los siguientes:
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
 
 I.- Perfil y capacidad.-
 
@@ -615,9 +687,13 @@ c) Médico,
 
 d) De conocimiento Técnico-policial
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
 II.- Antigüedad en la corporación.-
 
 Acreditará con oficio emitido por la Oficialía Mayor del Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
 
 III.- Conducta.-
 
@@ -627,31 +703,35 @@ a) Profesional y,
 
 b) Ciudadana.
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
 IV.- Antigüedad como servidor público.-
 
 Se acreditará conforme a la fracción II del presente artículo.
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
 
 V.- Méritos especiales.-
 
 Se acreditará con la hoja de desempeño personal.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 71.
 
-Para acreditar la antigüedad en la corporación requerirá, un oficio emitido por la Oficialía Mayor del Ayuntamiento en donde se escriban los datos generales del interesado, así como la fecha de ingreso y el tiempo de servicios en cada uno de los grados o puestos en los cuales se haya desempeñado, firmado por el Secretario de Seguridad Pública Municipal.
+Para acreditar la antigüedad en la corporación requerirá, un oficio emitido por la Oficialía Mayor del Ayuntamiento en donde se escriban los datos generales del interesado, así como la fecha de ingreso y el tiempo de servicios en cada uno de los grados o puestos en los cuales se haya desempeñado, firmado por el Director de Seguridad Pública Municipal.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 72.
 
 La conducta de los policías:
 
-I.- Conducta Profesional:
+I. Conducta Profesional:
 
-Será acreditado para los efectos de este Reglamento, con la hoja de desempeño personal expedida por el Secretario de Seguridad Pública.
+Será acreditado (sic) para los efectos de este Reglamento, con la hoja de desempeño personal expedida por el Director de Seguridad Pública.
 
-II.- Conducta Ciudadana:
+III. Conducta Ciudadana:
 
 Será acreditada a través de un certificado expedido por el área de recursos humanos de la Corporación donde manifieste el modo honesto de vida.
 
@@ -661,47 +741,55 @@ Será acreditada a través de un certificado expedido por el área de recursos h
 
 Los exámenes de conocimientos técnico-policial, deberán de ser aprobados, de conformidad a lo establecido por el manual de Procedimientos autorizados por la Comisión Municipal de Estímulos, Recompensas, Condecoraciones y Ascensos.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 74.
 
-El examen médico será practicado por médicos autorizados por la Secretaria de Seguridad Publica Municipal y comprenderá:
+El examen médico será practicado por médicos autorizados por la Dirección de Seguridad Pública Municipal y comprenderá:
 
 I.- Examen de salud general.
 
 II.- Examen toxicológico.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 75.
 
 El examen de aptitudes físicas comprenderá las siguientes pruebas.
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
 I.- Resistencia.
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
 
 II.- Flexibilidad.
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+
 III.- Velocidad.
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
 
 IV.- Fuerza.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 76.
 
-Los exámenes psicológicos generales comprenderán la aplicación de las pruebas necesarias para determinar la capacidad y aptitud del Elemento.
+Los exámenes psicológicos generales comprenderán la aplicación de las pruebas necesarias para determinar la capacidad y aptitud del Miembro.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 77.
 
-Para efectos del presente Reglamento, se establecen las siguientes jerarquías de la Policía Preventiva y Transito Municipal:
+Para efectos del presente Reglamento, se establecen las siguientes jerarquías de la Policía y Tránsito Municipal:
 
 I.- Agente de Seguridad Pública
 
 II.- 2do. Suboficial.
 
-III.- 1er. Suboficial.
+III.- 1er. Suboficial
 
 IV.- 3er. Oficial.
 
@@ -709,11 +797,11 @@ V.- 2do. Oficial.
 
 VI.- 1er Oficial.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 78.
 
-Las jerarquías citadas en los incisos del artículo que antecede, son las que conforman el escalafón de la Secretaría de Seguridad Pública Municipal.
+Las jerarquías citadas en los incisos del artículo que antecede, son las que conforman el escalafón de la Dirección de Seguridad Pública Municipal.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
 
@@ -795,13 +883,13 @@ IV.- Aprobar el examen de aptitud física.
 
 V.- Aprobar el examen psicológico.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 84.
 
-El elemento de Seguridad Pública podrá aspirar a los cargos de comandantes, Subcomandantes y Jefes de Departamentos, siendo El Secretario de Seguridad Publica Municipal el facultado para otorgar dicho cargo, debiendo los elementos reunir los siguientes requisitos
+El Miembro de Seguridad Pública podrá aspirar a los cargos de comandantes, Subcomandantes y Jefes de Departamentos, siendo El Director de Seguridad Pública Municipal el facultado para otorgar dicho cargo, debiendo los Miembros reunir los siguientes requisitos
 
-l. Antigüedad de su grado mínimo de dos años seis meses.
+I. Antigüedad de su grado mínimo de dos años seis meses.
 
 II. Contar con buena salud y capacidad física.
 
@@ -809,31 +897,31 @@ III. Contar con buena reputación Humana y Laboral.
 
 IV. Aprobar los exámenes teóricos que se establezcan con anticipación.
 
-Los cargos de comandante, subcomandante y Jefe de Departamento, son puestos otorgados con independencia del grado que ostente el elemento, cuyo desempeño no implica ascenso de grado alguno.
+Los cargos de comandante, subcomandante y Jefe de Departamento, son puestos otorgados con independencia del grado que ostente el Miembro, cuyo desempeño no implica ascenso de grado alguno.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 85.
 
-La antigüedad para los elementos de la Secretaría de Seguridad Pública se contará desde la fecha en que haya causado alta ante la Secretaría de Seguridad Publica Municipal, en forma ininterrumpida.
+La antigüedad para los Miembros de la Dirección de Seguridad Pública se contará desde la fecha en que haya causado alta ante la Dirección de Seguridad Pública Municipal, en forma ininterrumpida.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 86.
 
-Cuando un Elemento este imposibilitado temporalmente por enfermedad comprobada, para participar total o parcialmente en los exámenes de promoción tendrá derecho de presentarse una vez desaparecida esa causa siempre que este plazo se encuentre dentro del periodo señalado para la realización de dichos exámenes.
+Cuando un Miembro este imposibilitado temporalmente por enfermedad comprobada, para participar total o parcialmente en los exámenes de promoción tendrá derecho de presentarse una vez desaparecida esa causa siempre que este plazo se encuentre dentro del periodo señalado para la realización de dichos exámenes.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 87.
 
-En todas las jerarquías el número de ascensos estará en razón directa de las plazas vacantes, o en la cantidad de puestos de nueva creación. Todo el personal perteneciente a las Direcciones de Policía Preventiva y Transito Municipal, tienen la obligación de superarse profesionalmente, por lo que deberán participar en las promociones de ascenso que para tal efecto se realicen; en la inteligencia de que en el caso de que alguna persona no deseé participar en alguna promoción a la cual tenga derecho, deberá manifestarlo por escrito, pero asistirá en calidad de oyente al curso correspondiente.
+En todas las jerarquías el número de ascensos estará en razón directa de las plazas vacantes, o en la cantidad de puestos de nueva creación. Todo el personal perteneciente a las (sic) Subdirección de Policía y Tránsito Municipal, tienen la obligación de superarse profesionalmente, por lo que deberán participar en las promociones de ascenso que para tal efecto se realicen: en la inteligencia de que en el caso de que alguna persona no deseé participar en alguna promoción a la cual tenga derecho, deberá manifestarlo por escrito, pero asistirá en calidad de oyente al curso correspondiente.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 88.
 
-En caso de empate de calificaciones y méritos entre dos o más elementos en busca de una sola plaza, ascenderá el candidato seleccionado con base en el siguiente orden de prioridad:
+En caso de empate de calificaciones y meritos entre dos o más Miembros en busca de una sola plaza, ascenderá el candidato seleccionado con base en el siguiente orden de prioridad:
 
 I.- Mayor antigüedad;
 
@@ -851,11 +939,11 @@ V.- Los que menos comisiones fuera del servicio operativo hayan desempeñado.
 
 Sólo se ascenderá al grado inmediato superior, respetando siempre el orden del escalafón jerárquico establecido.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 90.
 
-El Elemento que participa en la promoción para ascensos, podrá ser excluido del mismo, y por ningún motivo se les concederán ascensos, si se encuentran en alguna de las siguientes circunstancias:
+El Miembro que participa en la promoción para ascensos, podrá ser excluido del mismo, y por ningún motivo se les concederán ascensos, si se encuentran en alguna de las siguientes circunstancias:
 
 I.- Inhabilitados;
 
@@ -867,17 +955,17 @@ IV.- Desempeñando un cargo de elección popular, y
 
 V.- En cualquier otro supuesto previsto en otras leyes.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 91.
 
 Desarrollo de los exámenes.
 
-I.- Los exámenes se realizarán en las instalaciones de la Secretaría de Seguridad Pública Municipal.
+I.- Los exámenes se realizarán en las instalaciones de la Dirección de Seguridad Pública Municipal.
 
-II.- El período de exámenes se hará del conocimiento de todos los participantes y oportunamente, a fin de que se encuentren disponibles para asistir a las instalaciones de la Secretaría de Seguridad Pública Municipal.
+II.- El período de exámenes se hará del conocimiento de todos los participantes y oportunamente, a fin de que se encuentren disponibles para asistir a las instalaciones de la Dirección de Seguridad Pública Municipal.
 
-III.- Durante el tiempo que dure la calificación del elemento no se le nombrara ningún servicio o Comisión al personal participante.
+III.- Durante el tiempo que dure la calificación del Miembro no se le nombrara ningún servicio o Comisión al personal participante.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -901,8 +989,12 @@ LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 11 DE ABRIL DE 2008.
 
 UNICO.- Esta reforma entrara en vigor a partir del día siguiente de su publicación en el periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
