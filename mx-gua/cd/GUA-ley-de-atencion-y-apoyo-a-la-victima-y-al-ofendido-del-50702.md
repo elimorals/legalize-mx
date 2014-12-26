@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-atencion-y-apoyo-a-la-victima-y-al-ofendido-del-50702"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2014-11-28"
+last_updated: "2014-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ATENCIÓN Y APOYO A LA VÍCTIMA Y AL OFENDIDO DEL DELITO EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 30 de mayo de 2006.
 
@@ -45,13 +45,13 @@ LEY DE ATENCIÓN Y APOYO A LA VÍCTIMA Y AL OFENDIDO DEL DELITO EN EL ESTADO DE 
 
 #### SECCIÓN ÚNICA. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 1.
 
-Esta ley tiene por objeto garantizar a la víctima y al ofendido del delito el goce y ejercicio de los derechos y las medidas de atención, protección y apoyo que se les reconoce en el Estado de Guanajuato, conforme a la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, los tratados internacionales y las demás leyes aplicables.
+Esta ley tiene por objeto garantizar a la víctima y al ofendido del delito el goce y ejercicio de los derechos y las medidas de atención, protección, apoyo y reparación integral que se les reconoce en el Estado de Guanajuato, conforme a la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, los tratados internacionales y las demás leyes aplicables.
+
+La presente Ley obliga a las dependencias y entidades de la Administración Pública Estatal, a los Poderes Legislativo y Judicial, los Organismos Autónomos, así como a cualquier oficina, institución u organismos públicos o privados que vele por la protección de las víctimas u ofendidos del delito, a proporcionarles ayuda, asistencia o reparación integral.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -73,13 +73,11 @@ III. Fondo: el Fondo para la Atención y Apoyo a las Víctimas y a los Ofendidos
 
 IV. Unidad: la Unidad de Asesoría Jurídica Penal a Víctimas y Ofendidos del Delito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 3.
 
-Se entiende por víctima a lo persona que haya sufrido daños en su integridad física o mental, en su patrimonio o cuando sus derechos fundamentales se vean afectados sustancialmente, como consecuencia de conductas susceptibles de ser tipificadas como delito. También se consideran víctimas a los familiares o personas que tengan dependencia directa con el ofendido del delito y se vean afectadas por las consecuencias inmediatas de dichas conductas.
+Se entiende por víctima a la persona que haya sufrido daños en su integridad física o mental, en su patrimonio o cuando sus derechos humanos se vean afectados sustancialmente, como consecuencia de conductas susceptibles de ser tipificadas como delito. También se consideran víctimas a los familiares o personas que tengan dependencia directa con el ofendido del delito y se vean afectadas por las consecuencias inmediatas de dichas conductas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -105,9 +103,21 @@ Una persona será víctima u ofendido del delito independientemente de que se id
 
 Se considera daño toda lesión o menoscabo en alguno de los bienes tutelados por la norma penal, consecuencia de la comisión de una conducta susceptible de ser tipificada como delito y su reparación en el aspecto económico, comprende los conceptos a que se refiere el Código Penal.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 6 Bis.
+
+La reparación integral específica comprende las medidas de restitución, rehabilitación y compensación en sus dimensiones individual y material. Cada una de estas medidas será implementada a favor de la víctima teniendo en cuenta la gravedad y magnitud del hecho victimizante cometido o la gravedad y magnitud de la violación de sus derechos, así como las circunstancias y características del hecho victimizante.
+
+Se acreditará la reparación en el aspecto económico a que se refiere el artículo 6, en la determinación de la reparación integral a favor de la víctima, cuando así proceda.
+
+El estado de Guanajuato, además, incorporará medidas correspondientes a la reparación moral y simbólica.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
-En caso de conflicto entre las disposiciones del presente ordenamiento y otro que tenga por objeto la protección de la víctima u ofendido, habrá de aplicarse el más favorable a su protección.
+Esta Ley se interpretará de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales y las leyes aplicables en materia de atención a víctimas, favoreciendo en todo tiempo la protección más amplia de éstas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -133,59 +143,65 @@ I. Recibir, desde el momento en que resienten la conducta susceptible de ser tip
 
 II. Ser coadyuvantes del Ministerio Público;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+III. A una investigación pronta y eficaz que lleve, en su caso, a la identificación y enjuiciamiento de los responsables de la comisión, en su perjuicio, de una conducta susceptible de ser tipificada como delito;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IV. A obtener una reparación de manera integral, adecuada, diferenciada, transformadora y efectiva por el daño o menoscabo que hayan sufrido en sus derechos como consecuencia de una conducta susceptible de ser tipificada como delito y por los daños que esa conducta les causó;
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-III. Ser informados desde su primera intervención en el procedimiento penal, de los derechos que en su favor le reconocen en ese momento procedimental la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, los Tratados Internacionales, y las leyes que de ellos emanen; y de la trascendencia y alcance legal de cada una de las actuaciones en las que intervenga y del desarrollo del mismo;
+V. Ser informados desde su primera intervención en el procedimiento penal, de los derechos que en su favor le reconocen en ese momento procedimental la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, los Tratados Internacionales, y las leyes que de ellos emanen; y de la trascendencia y alcance legal de cada una de las actuaciones en las que intervenga y del desarrollo del mismo;
 
-IV. Ejercer la acción penal particular cuando así lo autorice la legislación penal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-V. Participar en los mecanismos alternativos de solución de controversias;
+VI. Ejercer la acción penal particular cuando así lo autorice la legislación penal;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-VI. Otorgar su consentimiento informado para que les sean practicados exámenes físicos o mentales. Tratándose de menores de edad o incapaces, la autorización podrá ser otorgada por persona que ejerza la patria potestad, tutela o curatela. En caso de que no exista una persona que ejerza esos derechos, se hará mediante el consentimiento de una institución pública de asistencia familiar o de derechos humanos;
+VII. Participar en los mecanismos alternativos de solución de controversias;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-VII. Solicitar a la autoridad judicial o ministerial que corresponda, las medidas de protección, providencias precautorias y medidas cautelares;
+VIII. Otorgar su consentimiento informado para que les sean practicados exámenes físicos o mentales. Tratándose de menores de edad o incapaces, la autorización podrá ser otorgada por persona que ejerza la patria potestad, tutela o curatela. En caso de que no exista una persona que ejerza esos derechos, se hará mediante el consentimiento de una institución pública de asistencia familiar o de derechos humanos;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-VIII. Recibir gratuitamente la asistencia de intérprete o traductor desde la denuncia hasta la conclusión del procedimiento penal, cuando pertenezcan a un grupo étnico o pueblos indígenas, no conozcan o no comprendan el idioma español, o padezcan alguna discapacidad que les impida oír o hablar;
-
-IX. Recibir en forma gratuita, cuando la soliciten, copia simple o certificada de la denuncia o querella interpuesta ante el Ministerio Público;
-
-X. Ser asistidos por personal de apoyo, incluidos especialistas y familiares del menor de edad o incapaz en cualquier acto procesal al que sean llamados, tomándose las medidas necesarias para salvaguardar su dignidad, seguridad e identidad;
+IX. Solicitar a la autoridad judicial o ministerial que corresponda, las medidas de protección, providencias precautorias y medidas cautelares;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XI. Recibir asesoría jurídica gratuita en cualquier etapa del procedimiento, así como intervenir en todo el procedimiento por sí o a través de quien lo represente, conforme a lo dispuesto por la legislación aplicable;
+X. Recibir gratuitamente la asistencia de intérprete o traductor desde la denuncia hasta la conclusión del procedimiento penal, cuando pertenezcan a un grupo étnico o pueblos indígenas, no conozcan o no comprendan el idioma español, o padezcan alguna discapacidad que les impida oír o hablar;
+
+XI. Recibir en forma gratuita, cuando la soliciten, copia simple o certificada de la denuncia o querella interpuesta ante el Ministerio Público;
+
+XII. Ser asistidos por personal de apoyo, incluidos especialistas y familiares del menor de edad o incapaz en cualquier acto procesal al que sean llamados, tomándose las medidas necesarias para salvaguardar su dignidad, seguridad e identidad;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XII. Solicitar directamente ante el Órgano Jurisdiccional, que se le repare el daño causado por la comisión del delito, sin perjuicio de que el Ministerio Público lo solicite; y
+XIII. Recibir asesoría jurídica gratuita en cualquier etapa del procedimiento, así como intervenir en todo el procedimiento por sí o a través de quien lo represente, conforme a lo dispuesto por la legislación aplicable;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-XIII. Los demás derechos que establezcan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, los tratados internacionales y las demás leyes aplicables.
+XIV. Solicitar directamente ante el Órgano Jurisdiccional, que se le repare el daño causado por la comisión del delito, sin perjuicio de que el Ministerio Público lo solicite; y
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XIV (SIC). Los demás derechos que establezcan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, los Tratados Internacionales, la Ley General de Víctimas y las demás leyes aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -208,6 +224,28 @@ La víctima u ofendido tendrá derecho a recibir de forma gratuita atención psi
 ###### Artículo 10.
 
 El ofendido y la víctima del delito tendrán derecho a recibir asistencia social. Los trámites para su otorgamiento se realizarán por la Coordinación ante las instituciones públicas o privadas que puedan prestarla.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 10 Bis.
+
+La reparación integral específica de las víctimas comprenderá:
+
+l. La restitución, que buscará devolver a la víctima a la situación anterior a la comisión de una conducta susceptible de ser tipificada como delito;
+
+II. La rehabilitación, a fin de facilitar a la víctima hacer frente a los efectos sufridos por causa de una conducta susceptible de ser tipificada como delito; y
+
+III. La compensación, ha de otorgarse a la víctima de forma apropiada y proporcional a la gravedad de la conducta susceptible de ser tipificada como delito y teniendo en cuenta las circunstancias de cada caso. Ésta se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia de la conducta susceptible de ser tipificada como delito.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 10 Ter.
+
+La reparación integral genérica y colectiva de las víctimas atenderá:
+
+l. La satisfacción, que reconoce y restablece la dignidad de las víctimas; y
+
+II. Las medidas de no repetición, que buscan que la conducta susceptible de ser tipificada como delito sufrida por la víctima no vuelva a ocurrir.
 
 ### CAPÍTULO III. DEL SISTEMA DE ATENCIÓN, APOYO Y PROTECCIÓN A LA VÍCTIMA Y AL OFENDIDO
 
@@ -264,6 +302,32 @@ Tratándose de atención médica, se procurará canalizar a la víctima a las in
 La prestación de servicios médicos de urgencia será general y gratuita. Los servicios médicos no urgentes, se otorgarán a quienes por su condición económica estén impedidos para satisfacerlos por sí mismos.
 
 En la prestación de servicios asistenciales, se dará prioridad a quienes por su condición económica estén impedidos para satisfacerlos por sí mismos.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 13 Bis.
+
+En la reparación integral de sus bienes, las víctimas tendrán derecho a la restitución en sus derechos conculcados, así como en sus bienes y propiedades si hubieren sido despojadas de ellos.
+
+Las medidas de restitución comprenden, según corresponda:
+
+l. Restablecimiento de la libertad, en caso de secuestro o desaparición forzada;
+
+II. Restablecimiento de los derechos;
+
+III. Restablecimiento de la identidad;
+
+IV. Restablecimiento de la vida y unidad familiar;
+
+V. Restablecimiento de la ciudadanía y de los derechos políticos;
+
+VI. Regreso digno y seguro al lugar de residencia;
+
+VII. Reintegración en el empleo, y
+
+VIII. Devolución de todos los bienes o valores de su propiedad que hayan sido incautados o recuperados por las autoridades incluyendo sus frutos y accesorios, y si no fuese posible, el pago de su valor actualizado, de acuerdo a las directrices que fije la resolución judicial que ordene dicha devolución.
+
+Estas medidas son enunciativas y se instituirán estrategias que las adopten como acciones, donde se reconozca la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -569,7 +633,17 @@ VI. Promover la realización de investigaciones y estudios relacionados con la v
 
 VII. Promover la participación y colaboración de instituciones públicas y privadas para mejorar el apoyo que se brinde a la víctima o al ofendido, y
 
-VIII. Las demás que se señalen en esta ley.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VIII. Cuidar que en el Programa para la Atención y Auxilio a las Víctimas y Ofendidos del Delito en el Estado de Guanajuato, contenga acciones dirigidas a adoptar medidas para la reparación integral, bajo los principios y derechos fundamentales que regula la Ley General de Víctimas;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IX. Impulsar que en la elaboración de protocolos para la investigación de los delitos y para juzgar, se incorporen los derechos de las víctimas; y
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
+X. Las demás que señale esta Ley.
 
 ###### Artículo 33.
 
@@ -605,11 +679,9 @@ VI. Una estrategia de comunicación con organismos internacionales dedicados a l
 
 VII. El diseño, la programación y el calendario de cursos de sensibilización, capacitación y actualización en temas relativos a la prevención y protección a la víctima y al ofendido para el personal de la Procuraduría General de Justicia del Estado y organizaciones públicas, sociales y de carácter privado que, por razón de sus funciones se relacionen con ellos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
-
-VIII. La elaboración de códigos de ética, manuales, instructivos y formatos para brindar un servicio eficiente;
+VIII. La elaboración de códigos de ética, manuales, protocolos, instructivos y formatos para brindar un servicio eficiente;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -617,11 +689,9 @@ VIII. La elaboración de códigos de ética, manuales, instructivos y formatos p
 
 IX. Estrategias de difusión en medios de comunicación sobre la atención y apoyo a favor de las víctimas y el ofendido del delito;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
-
-X. Estrategias para favorecer una cultura de atención, apoyo y protección para la víctima o el ofendido;
+X. Estrategias para favorecer una cultura de atención, apoyo y protección, para la víctima del delito con un enfoque diferenciado y especializado;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -936,3 +1006,9 @@ TRANSITORIO DEL DECRETO
 Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigencia en los términos que se precisan en cada uno de los artículos que lo conforman.
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá adecuar las disposiciones necesarias para la aplicación de la reparación integral, los derechos, programas y mecanismos contenidos en el presente Decreto, dentro del año siguiente al inicio de su vigencia.
