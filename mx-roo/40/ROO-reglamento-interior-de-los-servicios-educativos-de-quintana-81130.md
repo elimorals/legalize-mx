@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-los-servicios-educativos-de-quintana-811
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-25"
-last_updated: "2013-08-19"
+last_updated: "2014-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LOS SERVICIOS EDUCATIVOS DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LOS SERVICIOS EDUCATIVOS DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LOS SERVICIOS EDUCATIVOS DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Numero Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 25 de marzo de 2011.
 
@@ -1842,3 +1844,19 @@ Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del 
 Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
 
 Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2014.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LOS SERVICIOS EDUCATIVOS DE QUINTANA ROO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Organismo Descentralizado de la Administración Pública Paraestatal denominado Servicios Educativos de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo, el día 25 de marzo de 2011.
+
+###### ARTÍCULO TERCERO.
+
+Se dejan sin efecto todas las disposiciones legales que (sic) igual o menor jerarquía que se opongan al presente reglamento.
