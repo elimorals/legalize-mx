@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-774
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-17"
-last_updated: "2014-10-07"
+last_updated: "2014-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 17 de noviembre de 2010.
 
@@ -31,7 +31,7 @@ Al margen un sello que dice: Estados Unidos Mexicanos. Gobernador del Estado de 
 
 Fidel Herrera Beltrán, Gobernador del Estado de Veracruz de Ignacio de la Llave, en ejercicio de las facultades que me confiere el artículo 49 fracción III de la Constitución Política del Estado, y con fundamento en el artículo 8 fracción II de la Ley Orgánica del Poder Ejecutivo del Estado, y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 He tenido a bien expedir el siguiente:
 
@@ -831,7 +831,7 @@ VIII. Las demás que les señalen otras disposiciones legales, reglamentarias, e
 
 ###### Artículo 43.
 
-Por cada investigación ministerial que registren en el Libro de Gobierno, deberán remitir el informe estadístico al Subprocurador Regional por conducto del Enlace de Estadística e Informática, en los formatos de captación e integración de información sustantiva (IM-01 “Inicio”, IM-02 “Determinación (sic)).
+Por cada investigación ministerial que registren en el Libro de Gobierno, deberán remitir el informe estadístico al Subprocurador Regional por conducto del Enlace de Estadística e Informática, en los formatos de captación e integración de información sustantiva (IM-01 “Inicio”, IM-02 “Determinación).
 
 DE LOS AGENTES DEL MINISTERIO PÚBLICO ADSCRITOS A LOS JUZGADOS PENALES, CIVILES Y MIXTOS
 
@@ -3365,7 +3365,7 @@ VIII. Acudir a los lugares de hechos, anfiteatros y laboratorios, en cualquier p
 
 IX. Supervisar la designación de los peritos que deban actuar, cuando el Agente del Ministerio Público Investigador solicite la revisión de dictámenes. En todos los casos, dará vista al Director con el resultado de la revisión.
 
-X. Solicitar, por conducto del Enlace Administrativo de la Dirección, los recursos materiales necesarios para llevar a cabo sus funciones encomendadas, así mismo (sic), deberá de requisitar las solicitudes de viáticos y gasolina, así como la asignación de vehículos, a efecto de dar agilidad a los traslados y trabajos del personal para la emisión oportuna de sus dictámenes.
+X. Solicitar, por conducto del Enlace Administrativo de la Dirección, los recursos materiales necesarios para llevar a cabo sus funciones encomendadas, así mismo, deberá de requisitar las solicitudes de viáticos y gasolina, así como la asignación de vehículos, a efecto de dar agilidad a los traslados y trabajos del personal para la emisión oportuna de sus dictámenes.
 
 XI. Someter a la autorización del Director, las salidas de comisión del personal pericial.
 
@@ -4295,7 +4295,7 @@ El Subprocurador realizará reuniones periódicas con los Consejos Distritales q
 
 ###### Artículo 285.
 
-Los integrantes de los Consejos Distritales se reunirán con la periodicidad que acuerden, correspondiendo al presidente dirigir los debates y al secretario de actas llevar el registro, los puntos tratados y las decisiones aprobadas, así mismo (sic), se levantará acta de la sesión que será firmada por los asistentes.
+Los integrantes de los Consejos Distritales se reunirán con la periodicidad que acuerden, correspondiendo al presidente dirigir los debates y al secretario de actas llevar el registro, los puntos tratados y las decisiones aprobadas, así mismo, se levantará acta de la sesión que será firmada por los asistentes.
 
 ###### Artículo 286.
 
@@ -4318,6 +4318,240 @@ Los Subprocuradores y Directores deberán elaborar y presentar al Procurador, pa
 ###### Artículo 290.
 
 Los programas de actividades sexenales (Multianuales) autorizados por el Procurador y a que se refiere el anterior deberán seguir siendo operados por los funcionarios de nuevo ingreso.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+## TÍTULO QUINTO. DE LA RECOMPENSA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO I. Disposiciones Preliminares
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 291.
+
+El presente capítulo tiene por objeto establecer los lineamientos conforme a los cuales se realizará el ofrecimiento y entrega de recompensas; así como los criterios para establecer los montos de las mismas.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 292.
+
+Para efectos del presente capítulo se entenderá por:
+
+I. Comité. Al Comité Evaluador para el Otorgamiento de Recompensas;
+
+II. Recompensa. La cantidad en numerario que se ofrece y, en su caso, se entrega en un solo pago o en exhibiciones periódicas, con cargo a la suficiencia presupuestal destinada por el Ejecutivo para tal efecto, a aquella persona que auxilie eficaz y eficientemente al Ministerio Público en las investigaciones que realice, aportando información útil relacionada con las mismas, o colabore con aquél en la localización y detención de probables responsables de la comisión de delitos, en los términos y condiciones del presente capítulo y del acuerdo específico que emita el Procurador, y
+
+III. Servidor público que reciba la información. Al servidor público de la Procuraduría que se encuentre a cargo de la investigación o, en su caso, a quien le sea asignada esa función, el cual será el único punto de contacto con la persona que aporte la información.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 293.
+
+El ofrecimiento y entrega de recompensas sólo podrá realizarse respecto de delitos calificados como graves por la Ley aplicable.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO II. De las Recompensas
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 294.
+
+Cuando los titulares de las unidades administrativas, encargadas de la investigación y persecución de los delitos, de la Procuraduría consideren conveniente que se ofrezca una recompensa, presentarán una propuesta ante el Comité, fundando y motivando su petición, debiendo incluir los antecedentes del caso y los datos de identificación de la o las personas susceptibles de localización o aprehensión.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 295.
+
+El Comité, una vez analizada la propuesta del Titular de la unidad administrativa que la solicita, deberá:
+
+I. Aprobarla y someter al Procurador la autorización del ofrecimiento y entrega de recompensa, así como los términos y condiciones que deberá contener el acuerdo específico que al efecto se emita;
+
+II. Requerirla, en su caso, para que aclare la propuesta o amplíe la justificación de la misma, o,
+
+III. Desecharle la propuesta.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 296.
+
+En caso de aprobación de la propuesta de ofrecimiento y entrega de recompensa, el Comité someterá a consideración del Procurador el acuerdo específico, mismo que contendrá:
+
+I. Los datos de identificación de la investigación que motive el ofrecimiento de la recompensa o de la persona o personas en contra de las cuales exista mandamiento judicial de aprehensión o ministerial de localización, y fotografías de las mismas, cuando esto sea posible;
+
+II. El delito o delitos materia de la investigación o del mandamiento judicial de aprehensión o ministerial de localización;
+
+III. Los rangos del monto de la recompensa, conforme con lo establecido en los artículos 297, 298 y 299 del presente Reglamento, y
+
+IV. El domicilio, números telefónicos, o, en su caso, cuentas de correo electrónico, en los que podrá presentarse la información.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 297.
+
+Para determinar el monto de las recompensas se tomarán en cuenta, entre otros, que contenga el acuerdo específico, los criterios siguientes:
+
+I. El rango que ocupa en la organización delictiva la persona por la cual se ofrezca la recompensa y la importancia de las actividades que realiza dentro de la organización, cuando se trate de miembros de la Delincuencia Organizada;
+
+II. La trascendencia del caso o el grado de dificultad que exista para la obtención de la información que permita la localización y detención de la persona, y
+
+III. La gravedad o el número de conductas delictivas por las cuales se investiga o que se le imputan a la persona, y el riesgo que implican para la seguridad de la sociedad y las instituciones del Estado.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 298.
+
+El monto de la recompensa será de $100,000.00 (CIEN MIL PESOS 00/100 M.N.) a $1,000,000.00 (UN MILLÓN DE PESOS 00/100 M.N.), y podrá ser cubierta en un solo pago o en exhibiciones periódicas, según se disponga en el acuerdo específico respectivo.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 299.
+
+El Procurador, en casos extraordinarios, excepcionales y específicos, podrá autorizar recompensas por montos superiores al señalado como máximo en el artículo que antecede.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 300.
+
+El acuerdo específico que autorice el ofrecimiento y entrega de recompensa será público y aplicable a cualquier persona que cumpla con los términos y condiciones establecidos en el mismo, con excepción de servidores públicos con funciones relacionadas con la procuración de justicia o la seguridad pública; y deberá ser publicado en la Gaceta Oficial del estado.
+
+En los casos que por sus características resulten excepcionales o dadas las circunstancias requieran de atención urgente, el Procurador podrá autorizar el ofrecimiento y entrega de recompensas a personas determinadas así como un procedimiento distinto al contemplado en el artículo 301 del presente.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 301.
+
+El servidor público que reciba la información, deberá:
+
+I. Registrar la información que le sea proporcionada, haciendo constar la fecha y hora de recepción;
+
+II. Proporcionar, a la persona que aporte la información, un número confidencial de identificación, así como la fecha y hora en que recibe la misma. Tratándose de información remitida vía electrónica, acusará recibo por el mismo medio.
+
+En todo caso, se hará del conocimiento de la persona que proporcione la información que el número de identificación confidencial tendrá el carácter de personal e intransferible;
+
+III. Requerir a la persona que aporte la información, para que proporcione un medio de comunicación privado en donde se le pueda notificar, y
+
+IV. Comunicar de inmediato, en su caso, la información recibida al titular de la unidad administrativa a cargo de la investigación de que se trate o de la localización de la persona o personas que se busquen.
+
+El servidor público que reciba la información podrá entablar comunicación con quien la haya aportado por segunda o ulteriores veces, a fin de aclararla o complementarla. En todo caso, deberá levantarse acta de la comunicación y su contenido.
+
+La información proporcionada se mantendrá bajo la más estricta reserva y confidencialidad, de conformidad con las disposiciones aplicables. En ningún caso y bajo ninguna circunstancia se dará a conocer públicamente el nombre o datos de identificación de la persona que proporcione la información.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 302.
+
+El titular de la unidad administrativa deberá resguardar la información que reciba bajo su más estricta responsabilidad, y la relacionará con el número confidencial de identificación a que se refiere el artículo 301, fracción II, del presente.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 303.
+
+La unidad administrativa que reciba la información deberá corroborar que ésta corresponda a la solicitada en la oferta de recompensa, y ordenará la práctica de las diligencias que resulten conducentes con motivo de la misma.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 304.
+
+Como requisito esencial para la procedencia de la entrega de la recompensa, la información que se proporcione debe ser veraz y útil para el auxilio eficaz, eficiente, efectivo y oportuno al Ministerio Público en las investigaciones que realice, o para la localización de las personas desaparecidas que se presuma sean víctimas de un delito, o la localización y detención de probables responsables de la comisión de delitos.
+
+La veracidad y utilidad de la información, y la eficacia, eficiencia, efectividad y oportunidad del auxilio al Ministerio Público, para efectos del pago, serán determinadas por la unidad administrativa, con base en las diligencias que se hayan practicado al efecto.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 305.
+
+Una vez corroborada la información y los resultados positivos que de ésta se desprendan, la unidad administrativa propondrá el monto proporcional a entregar, para que se solicite a la Secretaría de Finanzas y Planeación asigne los recursos correspondientes para la realización del pago.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 306.
+
+En el caso de que la misma información fuera proporcionada por más de una persona, tendrá derecho a la recompensa el que primero la hubiere proporcionado.
+
+Si la misma información fuese proporcionada por dos o más personas simultáneamente, se repartirá la recompensa por partes iguales entre ellas.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 307.
+
+El servidor público que reciba la información establecerá comunicación con la persona a quien debe entregarse la recompensa, a través del medio que ésta haya proporcionado para tal efecto, mediante el número confidencial de identificación.
+
+La entrega de la recompensa se realizará mediante depósito en cuenta bancaria o en efectivo, únicamente a quien cuente con el número confidencial de identificación. Para tal efecto, el servidor público que reciba la información deberá requerir al interesado el número de la cuenta bancaria respectiva o citarlo para hacer la entrega en efectivo.
+
+Si dentro de los diez días hábiles siguientes a la comunicación a que se refiere este artículo, la persona a quien debe entregarse la recompensa no proporciona el número de la cuenta bancaria o no acude a la cita, sin causa justificada, perderá el derecho a recibirla.
+
+En todo caso, deberá levantarse acta de la comunicación establecida con el interesado y del pago de la recompensa.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. Del Comité Evaluador para el Otorgamiento de Recompensas
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 308.
+
+El Comité estará integrado por los Titulares de las unidades administrativas siguientes:
+
+I. Dirección General Jurídica, quien lo presidirá;
+
+II. Dirección General de Investigaciones Ministeriales, quien fungirá como Secretario Técnico;
+
+III. Dirección General de Administración, quien fungirá como Vocal;
+
+IV. Subprocuraduría Especializada en la Investigación de Delitos de Violencia contra las Mujeres y de Delitos en Materia de Trata de Personas, quien fungirá como Vocal;
+
+V. Coordinación de la Unidad Especializada en Combate al Secuestro, quien fungirá como vocal;
+
+VI. Un representante de la Secretaría de Finanzas y Planeación del Estado como vocal; y
+
+VII. Tres representantes de los sectores de la Industria y del Comercio del Estado, quienes tendrán el carácter de vocales.
+
+Se tendrá permanentemente como invitado de honor, en cada una de las sesiones ordinarias o extraordinarias, al Diputado Presidente de la Comisión de Procuración de Justicia del H. Congreso del Estado, o quien designe como su suplente, mismo que conocerá del asunto materia del comité, el cual tendrá voz y voto.
+
+El Secretario Técnico convocará a las sesiones ordinarias del Comité conforme con el calendario que se apruebe, así como a las extraordinarias cuando lo estime necesario.
+
+Los integrantes del Comité tendrán voz y voto, y sólo podrán ser suplidos en caso de ausencia en los términos del presente Reglamento.
+
+Se podrán incorporar al Comité representantes de dependencias de la Administración Pública Estatal en los términos de los instrumentos de coordinación que se celebren para tal efecto.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 309.
+
+El Comité tendrá las facultades siguientes:
+
+I. Coordinar las acciones necesarias para el ofrecimiento y entrega de recompensas en los términos del presente Reglamento;
+
+II. Emitir lineamientos para la recepción de información, así como para el ofrecimiento y entrega de recompensas, en los términos del presente Reglamento;
+
+III. Realizar evaluaciones sobre los resultados de los ofrecimientos de recompensas, así como de la utilidad de estos medios para la obtención de información eficaz para el combate a la delincuencia;
+
+IV. Someter a la consideración del Procurador los acuerdos específicos a que se refiere el presente Acuerdo;
+
+V. Determinar los principios de valoración de la información, conforme con la unidad administrativa que proponga el ofrecimiento de la recompensa;
+
+VI. Modificar el monto de la recompensa, tomando en cuenta las características del caso;
+
+VII. Establecer los mecanismos que garanticen la plena confidencialidad de las personas que otorguen información a cambio de la recompensa que se regulan (sic) en el presente Reglamento;
+
+VIII. Someter a consideración del Procurador la celebración de instrumentos de coordinación y colaboración con instituciones públicas, para la realización de acciones en materia de ofrecimiento y entrega de recompensas;
+
+IX. Rendir un informe mensual al Procurador sobre el estado que guarda el sistema de recepción de información, así como del ofrecimiento y entrega de recompensas, y
+
+X. Las demás necesarias para el cumplimiento del presente Reglamento y las que le otorgue el Procurador.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO IV. Disposiciones Finales
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 310.
+
+El Comité someterá a consideración del Procurador los casos en que sea necesario brindar protección a quienes aporten información verídica y útil, o presten auxilio eficaz, eficiente, efectivo y oportuno al Ministerio Público, en los términos del presente Reglamento y del acuerdo específico correspondiente, o a otras personas relacionadas, de conformidad con las disposiciones aplicables, siempre que existan indicios suficientes que hagan presumir la existencia de un riesgo para su vida o integridad corporal.
 
 T R A N S I T O R I O S
 
@@ -4356,3 +4590,11 @@ Segundo. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Tercero. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
 
 Cuarto. La Procuraduría General de Justicia, deberá actualizar su Manual de Organización y de Procedimientos.
+
+G.O. 26 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
