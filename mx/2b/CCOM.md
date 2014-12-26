@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2014-06-13"
+last_updated: "2014-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,6 +23,8 @@ abbreviation: "CCOM"
 CÓDIGO DE COMERCIO
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
+
+ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA SECRETARÍA DE ECONOMÍA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2014.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -6090,9 +6092,9 @@ Art. 1,067 Bis. Para hacer cumplir sus determinaciones el juez puede emplear cua
 
 I. Amonestación;
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2013)
+(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2014)
 
-II. Multa hasta de $6,477.08 (Seis mil cuatrocientos setenta y siete pesos 08/100 M.N.), monto que se actualizará en términos del artículo 1253, fracción VI;
+II. Multa hasta de $6,747.17 (Seis mil setecientos cuarenta y siete pesos 17/100 M.N.), monto que se actualizará en términos del artículo 1253, fracción VI;
 
 III. El uso de la fuerza pública y rompimiento de cerraduras si fuere necesaria, y
 
@@ -7432,9 +7434,9 @@ VI. La falta de presentación del escrito del perito designado por la oferente d
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-(REFORMADO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2013)
+(REFORMADO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2014)
 
-En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de $3,238.54 (Tres mil doscientos treinta y ocho pesos 54/100 M.N.) y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
+En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de $3,373.59 (Tres mil trescientos setenta y tres pesos 59/100 M.N.) y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7886,7 +7888,7 @@ I. El litigante condenado en el fallo, si creyere haber recibido algún agravio;
 
 > <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
-II. El vencedor que, aunque haya obtenido en el litigio, no ha conseguido la restitución de frutos, la indemnización de daños y perjuicios, o el pago de las costas, y (sic)
+II. El vencedor que, aunque haya obtenido en el litigio, no ha conseguido la restitución de frutos, la indemnización de daños y perjuicios, o el pago de las costas, y
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -7908,9 +7910,9 @@ Art. 1,338. La apelación puede admitirse en el efecto devolutivo y en el suspen
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2013)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2014)
 
-Art. 1,339. Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a $539,756.58 (Quinientos treinta y nueve mil setecientos cincuenta y seis pesos 58/100 M.N.) por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
+Art. 1,339. Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a $562,264.43 (Quinientos sesenta y dos mil doscientos sesenta y cuatro pesos 43/100 M.N.) por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7956,9 +7958,9 @@ Art. 1,339 Bis. Los asuntos de cuantía indeterminada siempre serán apelables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-(REFORMADO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2013)
+(REFORMADO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2014)
 
-Art. 1,340. La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a $539,756.58 (Quinientos treinta y nueve mil setecientos cincuenta y seis pesos 58/100 M.N.) por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
+Art. 1,340. La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a $562,264.43 (Quinientos sesenta y dos mil doscientos sesenta y cuatro pesos 43/100 M.N.) por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
 
 Art. 1,341. Las sentencias interlocutorias son apelables, si lo fueren las definitivas conforme al artículo anterior. Con la misma condición, son apelables los autos si causan un gravamen que no pueda repararse en la definitiva, ó si la ley expresamente lo dispone.
 
@@ -8752,9 +8754,9 @@ VI. La citación para audiencia de juicio.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-(ADICIONADO, D.O.F. 27 DE ENERO DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2013)
+(ADICIONADO, D.O.F. 27 DE ENERO DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2014)
 
-Art. 1,390 Bis 33. La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a $2,159.03 (Dos mil ciento cincuenta y nueve pesos 03/100 M.N., ni superior a $5,397.57 (Cinco mil trescientos noventa y siete pesos 57/100 M.N.), monto que se actualizará en los términos del artículo 1253 fracción VI de este Código.
+Art. 1,390 Bis 33. La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a $2,249.06 (Dos mil doscientos cuarenta y nueve pesos 06/100 M.N., ni superior a $5,622.64 (Cinco mil seiscientos veintidós pesos 64/100 M.N.), monto que se actualizará en los términos del artículo 1253 fracción VI de este Código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -10545,3 +10547,7 @@ Primero. El presente Decreto entrará en vigor al día siguiente al de su public
 Segundo. La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
 
 Tercero. Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
+
+D.O.F. 26 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
