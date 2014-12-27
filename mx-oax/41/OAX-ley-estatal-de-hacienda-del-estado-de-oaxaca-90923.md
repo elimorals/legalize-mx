@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2013-12-31"
+last_updated: "2014-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -153,7 +153,7 @@ Para efectos de este impuesto se entenderá como diversión y espectáculo públ
 
 ###### ARTÍCULO 11.
 
-Son sujetos de este impuesto las personas físicas, morales o unidades económica, que habitual o eventualmente, obtengan un ingreso por la realización y/u organización de cualquier diversión o espectáculo público en el territorio del Estado.
+Son sujetos de este impuesto las personas físicas, morales o unidades económicas, que habitual o eventualmente, obtengan un ingreso por la realización y/u organización de cualquier diversión o espectáculo público en el territorio del Estado.
 
 ###### ARTÍCULO 12.
 
@@ -323,19 +323,41 @@ Este impuesto se calculará aplicando a la base la tasa del 5 por ciento.
 
 El pago de este impuesto se efectuará mediante declaración bimestral definitiva dentro de los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre, y enero del año siguiente.
 
-> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 28.
 
-Los sujetos obligados al pago de este impuesto tendrán a su cargo, además de las que específicamente se consignan en esta Ley, las siguientes obligaciones:
+Los sujetos obligados al pago de este impuesto tendrán a su cargo las siguientes obligaciones:
 
 I. Llevar contabilidad de conformidad con el Código. No quedan comprendidos en lo dispuesto en esta fracción quienes opten por la deducción del 35 por ciento a que se refiere el artículo 24 de esta Ley;
 
-II. Expedir comprobantes que reúnan los requisitos fiscales previstos en el Código, por las contraprestaciones recibidas, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Presentar las declaraciones bimestrales definitivas de este impuesto de conformidad con el Código.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+II. Expedir comprobantes que reúnan los requisitos fiscales previstos en el Código, por las contraprestaciones recibidas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+III. Presentar las declaraciones bimestrales definitivas de este impuesto de conformidad con el Código; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+IV. Presentar declaración anual informativa del ejercicio dentro de los tres meses siguientes al cierre del mismo, cuando hayan obtenido ingresos anuales superiores (sic) $100,000.00.
 
 Cuando los ingresos a que se refiere este capítulo sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria la que cumpla con las obligaciones previstas en este artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+La presentación de declaración informativa a que refiere este artículo se realizará en el formato y conforme a las reglas de carácter general que emita la Secretaría.
 
 ### CAPÍTULO CUARTO. SOBRE LAS DEMASÍAS CADUCAS
 
@@ -358,6 +380,18 @@ Este impuesto se calculará aplicando a la base la tasa del 10 por ciento.
 ###### ARTÍCULO 33.
 
 El pago de este impuesto se efectuará mediante declaración bimestral definitiva que deberá ser presentada en los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre, y enero del año siguiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Los sujetos obligados al pago de este impuesto, deberán presentar declaración anual informativa del ejercicio dentro de los tres meses siguientes al cierre del mismo, cuando hayan obtenido ingresos anuales superiores (sic) $5,000.00.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+La presentación de declaración informativa a que refiere el párrafo anterior se realizará en el formato y conforme a las reglas de carácter general que emita la Secretaría.
 
 ### CAPÍTULO QUINTO. SOBRE TENENCIA O USO DE VEHÍCULOS
 
@@ -565,11 +599,15 @@ b) El resultado obtenido, se actualizará de conformidad con lo previsto en el C
 
 c) La cantidad actualizada se multiplicará por el 0.50 por ciento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-II. Vehículos que se destinen al servicio de pasajeros, el impuesto se calculará, conforme el procedimiento siguiente:
+II. Vehículos que se destinen al servicio público, el impuesto se calculará, conforme el procedimiento siguiente:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 a) El valor total del Automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente tabla:
 
@@ -593,9 +631,21 @@ Años de antigüedad Factor de depreciación
 
 9 0.500
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 b) La cantidad obtenida se actualizará atendiendo lo dispuesto en el Código; y
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 c) El resultado obtenido se multiplicará por la tasa del 0.25 por ciento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el Vehículo;
 
@@ -847,9 +897,13 @@ II. Quienes reciban vehículos en consignación o comisión, para su enajenació
 
 III. Los servidores públicos que autoricen el registro de vehículos, sin haberse cerciorado de la existencia de adeudos por este impuesto a favor de la hacienda pública.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 45.
 
-No son sujetos de este impuesto, los siguientes vehículos
+No son objeto de este impuesto, los siguientes vehículos:
 
 I. Los eléctricos utilizados para el transporte público de personas;
 
@@ -857,7 +911,17 @@ II. Los importados temporalmente, en los términos de la legislación aduanera;
 
 III. Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
 
-IV. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+IV. Los que tengan para su venta los fabricantes, las plantas ensambladoras o sus distribuidores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Quedan comprendidos dentro del supuesto de esta fracción, los vehículos destinados a demostración y que correspondan al año modelo o año modelo posterior al del otorgamiento de la placa de demostración. Los tenedores de los vehículos deberán comprobar ante la Secretaria que estos se encuentran comprendidos en tal supuesto, debiendo para tal efecto solicitar su registro y expedición de placa de circulación que así los identifique;
 
 V. Las embarcaciones dedicadas al transporte mercante o a la pesca comercial;
 
@@ -945,13 +1009,31 @@ Los prestadores de los servicios a que hace referencia el artículo 52 de esta L
 
 Son responsables solidarios del pago de este impuesto, los prestadores de los servicios de hospedaje, quienes tendrán las siguientes obligaciones:
 
-I. Enterar una cantidad equivalente a la que debieron retener en los términos de este capítulo, aún cuando no hubieren hecho la retención correspondiente o no hayan recibido el pago de las contraprestaciones relativas al servicio prestado, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-II. El pago de este impuesto se efectuará mediante declaración bimestral definitiva que deberá ser presentada en los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre, y enero del año siguiente.
+I. Enterar una cantidad equivalente a la que debieron retener en los términos de este capítulo, aún cuando no hubieren hecho la retención correspondiente o no hayan recibido el pago de las contraprestaciones relativas al servicio prestado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+II. El pago de este impuesto se efectuará mediante declaración bimestral definitiva que deberá ser presentada en los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre, y enero del año siguiente, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+III. Presentar declaración anual informativa del ejercicio dentro de los tres meses siguientes al cierre del mismo, cuando hayan obtenido ingresos anuales superiores a $100,000.00.
 
 Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la Oficina Recaudadora correspondiente a su domicilio fiscal, o bien, en las oficinas autorizadas que correspondan, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto retenido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+La presentación de declaración informativa a que refiere este artículo se realizará en el formato y conforme a las reglas de carácter general que emita la Secretaría.
 
 ### CAPÍTULO OCTAVO. PARA EL DESARROLLO SOCIAL
 
@@ -991,9 +1073,29 @@ V. Inspección y vigilancia;
 
 VI. Del Centro de Desarrollo Infantil;
 
-VII. Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. De atención en Salud.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VII. Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VIII. De atención en Salud;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+IX. Por visita guiada; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+X. Acceso por persona a museos, teatros y ferias.
 
 ### CAPÍTULO ÚNICO
 
@@ -1101,9 +1203,13 @@ VI. Las uniones de ejidos y comunidades, y
 
 VII. Las unidades agrícolas industriales de la mujer campesina;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 69.
 
-Los sujetos obligados al pago de este impuesto tendrán a su cargo, además de las que específicamente se consignan en este ordenamiento, las obligaciones siguientes:
+Los sujetos obligados al pago de este impuesto tendrán a su cargo las obligaciones siguientes:
 
 I. Cuando el domicilio fiscal de las personas físicas, morales o unidades económicas, se encuentre ubicado fuera del territorio del, estado de Oaxaca, deberán señalar un domicilio dentro de éste para su registro;
 
@@ -1111,7 +1217,11 @@ II. Las personas físicas, morales o unidades económicas, cuyo domicilio fiscal
 
 III. Cuando el domicilio fiscal de las personas físicas, morales o unidades económicas, se encuentre ubicado fuera del territorio del estado de Oaxaca, y realicen erogaciones por remuneraciones al trabajo personal en establecimientos dentro de dicho territorio, deberán presentar una sola declaración en los lugares de pago autorizados por la Secretaría, en razón del domicilio fiscal que al efecto hayan manifestado ante la Secretaría, para realizar el pago respectivo, acumulando los pagos por la prestación de un servicio personal que realicen en cada uno de los establecimientos;
 
-IV. Las personas físicas, morales o las unidades económicas deberán presentar declaración anual informativa dentro de los dos primeros meses del año, cuando realicen los siguientes actos:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+IV. Presentar declaración anual informativa dentro de los tres primeros meses del año, cuando estos realicen los siguientes actos:
 
 a) Presten servicios mediante los cuales proporcionen trabajadores a terceros cuyo domicilio se encuentre dentro o fuera del territorio del Estado, o
 
@@ -1205,9 +1315,7 @@ TRANSITORIOS:
 
 PRIMERO: El presente Decreto entrará en vigor el uno de enero de dos mil trece, previa publicación en el Periódico Oficial del Estado.
 
-SEGUNDO: Se abroga el Decreto Número 238, publicado en el Periódico Oficial del Estado el 30 de diciembre de 2000, por el que se promulgó la Ley de Hacienda del Estado de Oaxaca, así como los decretos, en los que se haya autorizado reformas, adiciones y derogaciones subsecuentes, y todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley.
-
-Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
+SEGUNDO: Se abroga el Decreto Número 238, publicado en el Periódico Oficial del Estado el 30 de diciembre de 2000, por el que se promulgó la Ley de Hacienda del Estado de Oaxaca, así como los decretos, en los que se haya autorizado reformas, adiciones y derogaciones subsecuentes, y todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley. Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 
 DADO EN EL SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- San Raymundo Jalpan, Centro, Oaxaca a 10 de diciembre de 2012.
 
@@ -1256,3 +1364,7 @@ C. P. A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
 P.O. 31 DE DICIEMBRE DE 2013.
 
 ÚNICO: El presente Decreto entrará en vigor el primero de enero de dos mil catorce, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 27 DE DICIEMBRE DE 2014.
+
+ÚNICO: El presente Decreto entrará en vigor el uno de enero de dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
