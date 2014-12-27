@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-92358"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-12-22"
-last_updated: "2013-12-31"
+last_updated: "2014-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
 
 Código publicado en la cuarta sección del periódico oficial del Estado de Oaxaca el sábado 22 de diciembre de 2012.
 
@@ -119,7 +119,7 @@ I. El Gobernador del Estado;
 
 II. El Secretario de Finanzas;
 
-III. El Subsecretario de Ingresos y Fiscalización;
+III. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
 IV. El Procurador Fiscal y los Directores de la Procuraduría a su cargo;
 
@@ -129,9 +129,13 @@ VI. El Director de Ingresos y los Coordinadores de la Dirección a su cargo;
 
 VII. El Director de Auditoría e Inspección Fiscal y los Coordinadores de la Dirección a su cargo;
 
-VIII. Los Auditores, Inspectores y Notificadores - Ejecutores e Interventores;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-IX. El Coordinador de las Oficinas Recaudadoras;
+VIII. Los auditores, inspectores, visitadores, notificadores, ejecutores e interventores;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+IX. El Coordinador de Delegaciones Fiscales, delegados y subdelegaciones fiscales;
 
 X. Director General del Instituto Catastral del Estado y los Coordinadores de la Dirección a su cargo;
 
@@ -657,6 +661,10 @@ XXX. A ser informados, al inicio de las facultades de comprobación de las autor
 
 Se tendrá por informados a los contribuyentes sobre sus derechos, cuando les sea entregado un documento en que se mencionen los derechos del contribuyente y así se asiente en la actuación que corresponda;
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+La omisión de lo dispuesto en esta fracción no afectará la validez de las actuaciones que lleve a cabo la autoridad fiscal, pero dará lugar a que se finque responsabilidad administrativa al servidor público que incurrió en la omisión, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
+
 XXXI. A corregir en cualquier momento su situación fiscal, incluso cuando se ejerzan por parte de las autoridades fiscales las facultades de comprobación que la ley les conceden;
 
 XXXII. A presentar las declaraciones complementarias que sean necesarias para el debido cumplimiento de sus obligaciones fiscales, y el ejercicio de los derechos que de ello emanen;
@@ -683,7 +691,9 @@ En los trámites administrativos que se realicen ante las autoridades fiscales, 
 
 La representación ante las autoridades fiscales deberá acreditarse mediante escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, o ante fedatario público. En el caso de carta poder, para acreditar debidamente el poder otorgado, se deberá proporcionar ésta a la autoridad, acompañada de una copia de una identificación del contribuyente o representante legal y de los testigos instrumentales.
 
-Las autoridades fiscales establecerán un registro de representantes legales, en cuyo caso previa inscripción que se realice cumpliendo los requisitos que se establezcan en el Reglamento, se podrá acreditar la representación en los trámites ante la autoridad fiscal, con copia simple de la constancia que al efecto se expida. El registro de representantes legales realizado por los contribuyentes, surtirá plenos efectos mientras no se haya manifestado de forma expresa ante la autoridad competente, la voluntad en contrario de quien lo hubiese otorgado o de quien sea facultado para ello, como contribuyente o representante legal.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Las autoridades fiscales establecerán un registro de representantes legales, en cuyo caso previa inscripción que se realice cumpliendo los requisitos y anexando los documentos que se establezcan en el Reglamento, se podrá acreditar la representación en los trámites ante la autoridad fiscal, con copia simple de la constancia que al efecto se expida. El registro de representantes legales realizado por los contribuyentes, surtirá plenos efectos mientras no se haya manifestado de forma expresa ante la autoridad competente, la voluntad en contrario de quien lo hubiese otorgado o de quien sea facultado para ello, como contribuyente o representante legal.
 
 Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer, rendir pruebas y presentar promociones relacionadas con estos propósitos.
 
@@ -1045,19 +1055,35 @@ III. Las que en el año calendario inmediato anterior hayan contado con un prome
 
 IV. Las que en el año calendario inmediato anterior hayan obtenido ingresos superiores a $750,000.00, por concepto del otorgamiento del uso o goce temporal de bienes inmuebles;
 
-V. Las que estén constituidas como organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos conforme a la ley de la materia, y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-VI. Las que en el año calendario inmediato anterior hayan obtenido ingresos superiores a $100,000.00, por concepto de demasías caducas.
+V. Las que estén constituidas como organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos conforme a la ley de la materia;
 
-A partir del segundo ejercicio en que se encuentren en suspensión de actividades, los contribuyentes a que se refieren las fracciones II, III, IV y VI de este artículo, no estarán obligados a dictaminar sus contribuciones estatales.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-Las personas físicas, morales o unidades económicas, que no estén obligadas a dictaminar sus contribuciones estatales por contador público registrado, podrán optar por hacerlo en los términos del artículo 82 de este Código y de las Reglas que emita la Secretaría.
+VI. Las que en el año calendario inmediato anterior hayan obtenido ingresos superiores a $100,000.00, por concepto de demasías caducas; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VII. Las que en el año calendario inmediato anterior hayan enajenado un promedio mensual de diez o más vehículos de motor usados.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+A partir del segundo ejercicio en que se encuentren en suspensión de actividades, los contribuyentes a que se refieren las fracciones II, III, IV, VI y VII de este artículo, no estarán obligados a dictaminar sus contribuciones estatales.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Las personas físicas, morales o unidades económicas, que no estén obligadas a dictaminar sus contribuciones estatales por contador público registrado, podrán optar por hacerlo en los términos del artículo 82 de este Código y su Reglamento.
 
 Los contribuyentes a que se refiere este artículo deberán presentar ante la autoridad fiscal estatal competente lo siguiente:
 
-a) Aviso de dictamen a través de los formularios autorizados para tal efecto por la Secretaría, dentro de los tres meses siguientes a la terminación del ejercicio a dictaminar, y
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-b) Dictamen formulado por contador público registrado, incluyendo la información y documentación que indiquen las Reglas que emita la Secretaría, a más tardar el 30 de junio del año inmediato posterior a la terminación del ejercicio a dictaminar.
+a) Aviso de dictamen a través de los formatos autorizados para tal efecto por la Secretaría, dentro de los tres meses siguientes a la terminación del ejercicio a dictaminar, y
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+b) Dictamen formulado por contador público registrado, incluyendo la información y documentación que indique el Reglamento, a más tardar el 30 de junio del año inmediato posterior a la terminación del ejercicio a dictaminar.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -1065,57 +1091,95 @@ Cuando el dictamen y la información relacionada con el mismo se presenten fuera
 
 En el caso de que en el dictamen se determinen diferencias de contribuciones a pagar, éstas deberán enterarse mediante declaración complementaria ante la Secretaría, dentro de los diez días posteriores a la presentación del dictamen.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 82.
 
-Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por contadores públicos registrados, sobre las contribuciones estatales de los contribuyentes o bien en las aclaraciones que dichos contadores formulen respecto de sus dictámenes, siempre que se reúnan los siguientes requisitos:
+Los dictámenes formulados por contadores públicos registrados, sobre las contribuciones estatales de los contribuyentes o bien en las aclaraciones que dichos contadores formulen respecto de los hechos afirmados en los dictámenes se presumirán ciertos, salvo prueba en contrario, siempre que se cumpla con lo siguiente:
 
-I. Que el contador público que dictamine esté registrado ante la Secretaría para estos efectos, en los términos de las Reglas que emita dicha Secretaría. Este registro lo podrán obtener únicamente:
+I. El contador público que dictamine esté registrado ante la Secretaría, en los términos de este Código y las Reglas que la misma emita;
 
-a) Las personas de nacionalidad mexicana que tengan título de contador público registrado ante la Secretaría de Educación Pública y que sean miembros de un colegio profesional reconocido por la citada secretaría, cuando menos en los tres años previos a la presentación de la solicitud de registro correspondiente y de conformidad con los requisitos establecidos en este Código.
+II. El dictamen se formule de acuerdo con el Reglamento y las Normas Internacionales de Auditoría.
 
-Las personas a que se refiere el párrafo anterior, adicionalmente deberán contar con certificación expedida por los colegios profesionales o asociaciones de contadores públicos, registrados y autorizados por la Secretaría de Educación Pública y solo serán válidos las certificaciones que le sean expedidas a los contadores públicos por los organismos certificadores que obtengan el reconocimiento de idoneidad que otorgue la Secretaría de Educación Pública; además, deberá contar con experiencia mínima de tres años participando en la elaboración de dictámenes fiscales.
+Cuando el contador público registrado no dé cumplimiento a las disposiciones establecidas en esta fracción, la autoridad fiscal, previa audiencia, oirá las razones y defensas del contador público y en el caso que proceda conforme a pruebas debidamente calificadas, exhortará o amonestará al contador público registrado, o suspenderá hasta por dos años los efectos de su registro. Si hubiera reincidencia o el contador hubiere participado en la comisión de un delito de carácter fiscal, o no exhiba a requerimiento de autoridad, los papeles de trabajo que elaboró con motivo de la auditoría practicada a los documentos correspondientes del contribuyente para efectos fiscales, se procederá a la cancelación definitiva de dicho registro. Lo anterior de conformidad con lo establecido en el Reglamento;
 
-El registro para formular dictámenes del cumplimiento de obligaciones fiscales, lo pueden obtener las personas de nacionalidad mexicana que tengan cédula profesional de contador público expedida por la Secretaría de Educación Pública y que sean miembros de un colegio de contadores públicos reconocido por la citada secretaría. Para tal efecto, deberán presentar ante la Dirección de Auditoría e Inspección Fiscal dependiente de la Secretaría, solicitud de registro en el formato autorizado por dicha Secretaría, acompañando acta de nacimiento original o carta de naturalización certificada por un notario público en su caso, copia certificada por un notario público de su cédula profesional y la constancia emitida por un colegio de contadores públicos que acredite su calidad de miembro activo por un mínimo de tres años de manera continua, expedida dentro de los dos meses anteriores a la fecha de presentación de la solicitud.
+III. El dictamen se presente en los términos de lo dispuesto por el presente Código y su Reglamento; y
 
-La Dirección de Auditoría e Inspección Fiscal proporcionará al contador público que haya cumplido con los requisitos mencionados, su registro correspondiente en un plazo no mayor de quince días hábiles contados a partir de la fecha en que se integró debidamente la solicitud, debiendo recoger su oficio de constancia de registro en la propia Dirección. Obtenido el registro, dentro de los tres meses siguientes a cada año calendario, el contador público deberá comprobar ante la Dirección de Auditoría e Inspección Fiscal, que es socio activo de un colegio profesional, y presentar copia certificada y original para cotejo de la constancia del cumplimiento de la norma de educación profesional continua, expedida por dicho colegio, en caso contrario el contador público no podrá dictaminar.
+IV. El contador público registrado no esté impedido para formular dictámenes de contribuciones estatales respecto de un contribuyente, por afectar su independencia e imparcialidad, en los siguientes casos:
+
+a) Sea cónyuge, pariente por consanguinidad o civil en línea recta sin limitación de grado, transversal dentro del cuarto grado y por afinidad dentro del cuarto grado, del propietario o socio principal de la empresa o de algún director, administrador o empleado que tenga intervención importante en la administración;
+
+b) Sea o haya sido en el ejercicio fiscal que dictamina, director, miembro del consejo de administración, administrador o empleado del contribuyente o de una empresa afiliada, subsidiaria o que esté vinculada económica o administrativamente a él, cualquiera que sea la forma como se le designe y se le retribuyan sus servicios.
+
+Cuando se desempeñe como comisario de la sociedad no se considerará impedido para dictaminar, salvo que concurra otra causal de las que se mencionan en estas fracciones;
+
+c) Tenga o haya tenido en el ejercicio fiscal que dictamine, alguna injerencia o vinculación económica en los negocios del contribuyente que le impida mantener su independencia e imparcialidad;
+
+d) Reciba, por cualquier circunstancia o motivo, participación directa en función de los resultados de su auditoria o emita su dictamen relativo a las contribuciones estatales del contribuyente en circunstancias en las cuales su emolumento dependa del resultado del mismo;
+
+e) Sea agente o corredor de bolsa de valores en ejercicio;
+
+f) Sea servidor público de los Gobiernos Federal, Estatal o Municipal, o de un organismo descentralizado competente para determinar contribuciones federales, estatales o municipales; o
+
+g) Se encuentre vinculado en cualquier otra forma con el contribuyente, que le impida independencia e imparcialidad de criterio.
+
+Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos, se podrán efectuar en forma previa o simultánea al ejercicio de las otras facultades de verificación fiscal y comprobación, respecto de los contribuyentes o responsables solidarios.
+
+Para obtener el registro a que se refiere la fracción I de este artículo, se deberán reunir los siguientes requisitos:
+
+a) Presentar solicitud de registro en el formato autorizado por la Secretaría;
+
+b) Copia del acta de nacimiento o de la carta de naturalización;
+
+c) Copia de cédula profesional;
+
+d) Estar al corriente en el cumplimiento de sus obligaciones fiscales;
+
+e) Constancia emitida por Colegio Profesional o Asociación que acredite su calidad de miembro activo por un mínimo de tres años de manera continua, expedida dentro de los dos meses anteriores a la fecha de presentación de la solicitud.
+
+Solo serán válidas las constancias que sean expedidas a los contadores públicos por (sic) Colegio Profesional que obtenga el reconocimiento de idoneidad que otorga la Secretaría de Educación Pública; y
+
+f) Experiencia mínima de tres años participando en la elaboración de dictámenes fiscales.
+
+La Secretaría proporcionará al contador público que haya cumplido con los requisitos mencionados, su registro correspondiente en un plazo no mayor de quince días hábiles contados a partir de la fecha en que se integró debidamente la solicitud.
+
+Obtenido el registro, dentro de los tres meses siguientes a cada ejercicio fiscal, el contador público deberá comprobar ante la Secretaría, que es socio activo de un Colegio Profesional, y presentar copia certificada y original para cotejo de la constancia del cumplimiento de la norma de educación profesional continua, expedida por dicho Colegio, en caso contrario el contador público no podrá dictaminar.
 
 Asimismo, deberá expresar bajo protesta de decir verdad que no está sujeto a proceso o condenado, por delitos de carácter fiscal o por delitos intencionales que ameriten pena corporal.
 
-En caso de modificación de los datos asentados en la solicitud de registro deberá dar aviso a la Dirección de Auditoría e Inspección Fiscal dependiente de la Secretaría, dentro de los treinta días siguientes en que ocurra, en el formato de actualización de datos del registro de contador público registrado.
+En caso de modificación de los datos asentados en la solicitud de registro el contador público deberá presentar aviso a la Secretaría, dentro de los quince días siguientes en que ocurra dicho evento, en el formato de actualización de datos que para tal efecto emita la Secretaría.
 
-El registro otorgado a los contadores públicos que formulen dictámenes de contribuciones estatales, será dado de baja del padrón de contadores públicos registrados que llevan las autoridades fiscales, en aquellos casos en que dichos contadores no formulen dictamen sobre contribuciones estatales de los contribuyentes, en un periodo de cinco años.
+El registro otorgado a los contadores públicos que formulen dictámenes de contribuciones estatales, será dado de baja del registro de contadores públicos que lleve la Secretaría, en aquellos casos en que dichos contadores no formulen dictamen sobre contribuciones estatales, en un periodo de cinco años.
 
-El periodo de cinco años a que se refiere el párrafo anterior, se computara a partir del día siguiente a aquél en que se presentó el último dictamen que haya formulado el contador público.
+El periodo de cinco años a que se refiere el párrafo anterior, se computará a partir del día siguiente a aquél en que se presentó el último dictamen que haya formulado el contador público registrado.
 
-En estos casos se dará inmediatamente aviso mediante oficio al contador público, al colegio profesional al que pertenezca el contador público en cuestión. El contador público podrá solicitar que quede sin efectos la baja del padrón antes citado, siempre que lo solicite por escrito en un plazo de 30 días hábiles posteriores a la fecha en que reciba el aviso a que se refiere el presente párrafo.
+La baja del registro se dará a conocer al contador público mediante aviso, así como al Colegio Profesional o Asociación al que pertenezca el mismo. La Secretaría podrá dejar sin efectos la baja del registro, siempre que el contador público lo solicite por escrito en un plazo de 30 días hábiles posteriores a la fecha en que reciba el aviso debiendo justificar dicha petición.
 
-El contador público registrado estará impedido para formular dictámenes de contribuciones estatales de un contribuyente, por afectar su independencia e imparcialidad, en los siguientes casos:
+Las sociedades o asociaciones civiles conformadas por los despachos de contadores públicos, cuyos integrantes obtengan autorización para formular los dictámenes a que se refiere este artículo, deberán registrarse ante la Secretaría mediante el formato establecido en Reglas, debiendo cumplir con lo siguiente:
 
-1. Sea cónyuge, pariente por consanguinidad o civil en línea recta sin limitación de grado, transversal dentro del cuarto y por afinidad dentro del segundo, del propietario o socio principal de la empresa o de algún director, administrador o empleado que tenga intervención importante en la administración;
+I. Estar inscritas en el registro estatal o federal de contribuyentes, así como encontrarse en dicho registro con el estatus de localizados en su domicilio fiscal;
 
-2. Sea o haya sido en el ejercicio fiscal que dictamina, director, miembro del consejo de administración, administrador o empleado del contribuyente o de una empresa afiliada, subsidiaria o que esté vinculada económica o administrativamente a él, cualquiera que sea la forma como se le designe y se le retribuyan sus servicios;
+II. Contar con el certificado de firma electrónica avanzada vigente;
 
-3. El comisario de la sociedad no se considerará impedido para dictaminar, salvo que concurra otra causal de las que se mencionan en esta regla;
+III. Entregar una relación con los nombres de los contadores públicos autorizados para formular dictámenes para efectos fiscales, que presten sus servicios a la misma persona moral; y
 
-4. Tenga o haya tenido en el ejercicio fiscal que dictamine, alguna injerencia o vinculación económica en los negocios del contribuyente que le impida mantener su independencia e imparcialidad.
+IV. El representante legal de la sociedad o asociación civil cumpla con los requisitos establecidos en las fracciones I y II del presente artículo, y no haya presentado aviso de suspensión de actividades.
 
-5. Reciba, por cualquier circunstancia o motivo, participación directa en función de los resultados de su auditoria o emita su dictamen relativo a las contribuciones estatales del contribuyente en circunstancias en las cuales su emolumento dependa del resultado del mismo;
+Cuando las sociedades o asociaciones civiles a que se refiere el párrafo anterior soliciten por primera vez el registro correspondiente, la solicitud se deberá presentar dentro del mes siguiente a la fecha en la que alguno de sus miembros obtenga autorización para formular dictámenes para efectos fiscales.
 
-6. Sea agente o corredor de bolsa de valores en ejercicio;
+Las sociedades o asociaciones civiles que hayan obtenido su registro, deberán presentar aviso mediante el formato establecido en Reglas a la Secretaría dentro del plazo de quince días siguientes en las que se actualice cualquiera de las siguientes circunstancias:
 
-7. Sea funcionario o empleado de los Gobiernos Federal, Estatal o Municipal, o de un organismo descentralizado competente para determinar contribuciones, y
+a) Se incorpore a ellas un contador público registrado;
 
-8. Se encuentre vinculado en cualquier otra forma con el contribuyente, que le impida independencia e imparcialidad de criterio.
+b) Cuando alguno de sus miembros obtenga su registro;
 
-II. Que el dictamen se formule de acuerdo con las Reglas que emita la Secretaría y las Normas Internacionales de Auditoría, y
+c) Cuando alguno de sus miembros que sea contador público registrado se desincorpore de ellas;
 
-III. Que el dictamen se presente a través de los medios electrónicos de conformidad con las Reglas que al efecto emita la Secretaría.
+d) Por fallecimiento de alguno de sus miembros registrados; o
 
-Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos, se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de verificación fiscal y comprobación, respecto de los contribuyentes o responsables solidarios.
+e) Por cancelación o baja en el registro.
 
-Cuando el contador público no dé cumplimiento a las disposiciones referidas en este artículo, o no aplique Normas Internacionales de Auditoría, la autoridad fiscal, previa audiencia, oirá las razones y defensas del contador público y en el caso que proceda conforme a pruebas debidamente calificadas, exhortará o amonestará al contador público registrado, o suspenderá hasta por dos años los efectos de su registro, conforme a las Reglas que emita la Secretaría. Si hubiera reincidencia o el contador hubiere participado en la comisión de un delito de carácter fiscal, o no exhiba a requerimiento de autoridad, los papeles de trabajo que elaboró con motivo de la auditoría practicada a los documentos correspondientes del contribuyente para efectos fiscales, se procederá a la cancelación definitiva de dicho registro.
-
-Las Sociedades o Asociaciones Civiles conformadas por los despachos de contadores públicos registrados, cuyos integrantes obtengan autorización para formular los dictámenes a que se refiere el primer párrafo de este artículo, deberán registrarse ante la autoridad competente, en los términos de las Reglas que emita la Secretaría.
+El aviso a que se refiere el párrafo anterior deberá indicar los datos de identificación del contador público: nombre; número de inscripción; clave en el registro estatal o federal de contribuyentes; clave única del registro de población; cargo que desempeña en la persona moral de que se trate y los demás que mediante Reglas establezca la Secretaría.
 
 ## TÍTULO TERCERO. DE LA RESPONSABILIDAD SOLIDARIA
 
@@ -2187,9 +2251,23 @@ VII. Cuando de las irregularidades conocidas por los visitadores se desprendan s
 
 VIII. Concluida la visita, las autoridades en la propia acta, harán saber al interesado que cuenta con un plazo de tres días para desvirtuar la comisión de las infracciones que se le imputen, para lo cual deberá presentar las pruebas que a sus intereses convengan.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 161.
 
-Dentro de un plazo que no excederá de tres meses, las autoridades que hubieren practicado las visitas domiciliarias previstas en el artículo anterior, procederán a emitir la resolución correspondiente, en la que se determinen las consecuencias que se hubieren generado por el incumplimiento de disposiciones legales o reglamentarias. En el caso que se hubiere clausurado el establecimiento por existir causa justificada, el levantamiento de dicha clausura estará sujeto a las disposiciones que para ello sean aplicables.
+Los visitados, su representante legal o las personas con quien se entienda la visita de inspección, están obligados a permitir a los visitadores designados en la orden de visita el acceso al lugar o lugares objeto de la misma, así como a poner y mantener a su disposición documentos, informes, discos, cintas o cualquier otro medio de almacenamiento de datos que acrediten el cumplimiento de las disposiciones fiscales.
+
+Los visitadores previo cotejo con los originales podrán reproducir documentos, informes, discos, cintas o cualquier otro medio (sic) almacenamiento de datos para que se certifiquen por éstos y sean anexados al acta que se levante con motivo de la visita.
+
+Cuando las autoridades fiscales durante la visita de inspección soliciten de los contribuyentes, documentación para su revisión, estos deberán presentarla de inmediato. Cuando el visitado no ponga a disposición de la autoridad la documentación solicitada, independientemente de las sanciones a que se hubiere hecho acreedor el contribuyente omiso, deberá presentarla en el plazo de tres días, a que se refiere la fracción VIII del artículo anterior.
+
+El plazo a que se refiere el párrafo anterior podrá ampliarse a solicitud del interesado, por diez días más cuando se trate de informes cuyo contenido sea difícil de proporcionar o sean de difícil obtención. La solicitud deberá presentarse dentro del plazo de tres días a que se refiere la fracción VIII del artículo anterior.
+
+Se entiende que la visita de inspección concluye con el levantamiento del acta a que se refiere el artículo anterior.
+
+Dentro de un plazo que no excederá de tres meses, las autoridades que hubieren practicado las visitas de inspección, procederán a emitir la resolución correspondiente, en la que se determinen las consecuencias que se hubieren generado por el incumplimiento de disposiciones legales o reglamentarias.
+
+En el caso que se hubiere clausurado el establecimiento por existir causa justificada, el levantamiento de dicha clausura estará sujeto a las disposiciones que para ello sean aplicables.
 
 ### CAPÍTULO QUINTO. DE LOS PROCEDIMIENTOS PARA LA DETERMINACIÓN PRESUNTIVA DE LA BASE GRAVABLE Y DE LOS INGRESOS PRESUNTOS
 
@@ -2321,11 +2399,15 @@ III. Cuando se trate de la segunda o posteriores ocasiones en que se hubiere omi
 
 Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación adviertan la existencia de contribuyentes que no se encuentran inscritos en el registro estatal de contribuyentes, y se cuente con los datos necesarios para hacerlo, procederán a realizar de oficio la inscripción correspondiente, a efecto de lo cual se estará a lo siguiente:
 
-I. Requerirán la presentación del documento omitido en los términos de la fracción I del artículo 102 de este Código;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-II. Si después de efectuados los tres requerimientos establecidos en el numeral señalado en la fracción anterior, el contribuyente persiste en su conducta omisa, la autoridad, independientemente de la imposición de las sanciones que correspondan, emitirá mandamiento fundado y motivado en el que de conformidad con los datos que tenga en su poder realice la inscripción oficiosa del contribuyente en el registro estatal de contribuyentes, la cual le será notificada personalmente al contribuyente para que en el término de quince días manifieste lo que a su derecho corresponda;
+I. Requerirán por una sola ocasión, la presentación del documento omitido en los términos de la fracción I del artículo 102 de este Código;
 
-III. Transcurridos los quince días a que se refiere la fracción anterior, si no existen manifestaciones del contribuyente inscrito oficiosamente, la clave que en el registro estatal de contribuyentes se hubiere asignado, podrá ser publicada junto con un resumen de los procedimientos realizados, por el término de quince días en el portal electrónico de la autoridad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+II. Si después de efectuado el requerimiento establecido en la fracción anterior, el contribuyente persiste en conducta omisa, la autoridad fiscal, independientemente de la imposición de la sanción que corresponda, emitirá resolución fundada y motivada en la que de conformidad con los datos que tenga en su poder realice la inscripción oficiosa del contribuyente en el Registro Estatal de Contribuyentes, la cual deberá ser notificada personalmente;
+
+III. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
 IV. La inscripción realizada en términos de este artículo, genera a cargo del contribuyente todas las obligaciones fiscales que de ella se deriven.
 
@@ -2613,7 +2695,9 @@ I. Por el requerimiento de pago señalado en el primer párrafo del artículo 19
 
 II. Por la de embargo, incluyendo el señalado en la fracción V del artículo 129 de este Código;
 
-III. Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+III. Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
 Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a cinco salarios mínimos generales vigentes en el Estado, se cobrará esta cantidad.
 
@@ -2668,6 +2752,8 @@ Las autoridades fiscales continuarán con el procedimiento administrativo de eje
 En todos los casos, cuando hubiere negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante la Sala del Tribunal que conozca del juicio respectivo
 
 #### SECCIÓN TERCERA. DE LA INTERVENCIÓN DE NEGOCIACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 192.
 
@@ -2859,7 +2945,7 @@ Si no fuere factible romper o forzar las cerraduras de cajas u otros objetos uni
 
 ###### ARTÍCULO 208.
 
-Cuando las autoridades fiscales embarguen negociaciones, además de ser depositarios por disposición de ley y adquirir las responsabilidades que corresponden el propietario de la negociación y/o el representante legal de la misma, se nombrará un depositario por parte de la autoridad ejecutora, que sólo adquirirá las obligaciones que en este capítulo se señalen, quien tendrá el carácter de interventor con cargo a la caja, y en su caso conforme las disposiciones de esta sección, de interventor administrador. En las actas que al efecto se levanten se hará constar que el propietario y/o representante legal de la negociación embargada son depositarios por ministerio de ley.
+Cuando las autoridades fiscales embarguen negociaciones, además de ser depositarios por disposición de ley y adquirir las responsabilidades que corresponden al propietario de la negociación y/o al representante legal de la misma, se nombrará un depositario por parte de la autoridad ejecutora, que sólo tendrá las facultades y obligaciones que en este capítulo y el Reglamento señalen, quien tendrá el carácter de interventor con cargo a la caja, y en su caso conforme las disposiciones de esta sección, de interventor administrador. En las actas que al efecto se levanten se hará constar que el propietario y/o representante legal de la negociación embargada son depositarios por ministerio de ley.
 
 En la intervención de negociaciones serán aplicables, en lo conducente, las Secciones de este Capítulo.
 
@@ -2871,7 +2957,9 @@ Para efectos del retiro a que se refiere el párrafo anterior, el contribuyente 
 
 Los movimientos de las cuentas bancarias y de inversiones de la negociación intervenida, por conceptos distintos a los señalados en el párrafo anterior, que impliquen retiros, traspasos, transferencias, pagos o reembolsos, deberán ser aprobados previamente por el interventor designado por la oficina ejecutora, quien además llevará un control de dichos movimientos.
 
-Cuando el interventor designado por la autoridad fiscal tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco federal, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Cuando el interventor designado por la autoridad fiscal tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco estatal, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
 
 Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables o, en su caso, procederá a solicitar ante la autoridad competente el inicio del concurso mercantil.
 
@@ -2883,9 +2971,11 @@ El interventor administrador designado por la autoridad fiscal no quedará suped
 
 Tratándose de negociaciones que no constituyan una sociedad, el interventor administrador designado por la autoridad fiscal tendrá todas las facultades de dueño para la conservación y buena marcha del negocio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 211.
 
-El interventor administrador designado por la autoridad fiscal tendrá las siguientes obligaciones:
+El interventor administrador designado por la autoridad fiscal tendrá las obligaciones establecidas en el Reglamento, así como las siguientes:
 
 I. Rendir cuentas mensuales comprobadas a la oficina ejecutora, y
 
@@ -2995,7 +3085,9 @@ La Secretaría, a través de Reglas, podrá establecer facilidades administrativ
 
 El documento digital en que se haga la postura, deberá contener los siguientes datos:
 
-I. Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor y, en su caso, la clave del registro federal de contribuyentes; tratándose de sociedades, la nacionalidad, el nombre o razón social, la fecha de constitución, la clave del registro federal de contribuyentes en su caso y el domicilio social;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+I. Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor y, en su caso, la clave del registro estatal o federal de contribuyentes; tratándose de personas morales o unidades económicas, la nacionalidad, el nombre, denominación o razón social, la fecha de constitución, la clave del registro estatal o federal de contribuyentes y en su caso el domicilio social;
 
 II. La cantidad que se ofrezca;
 
@@ -3005,7 +3097,9 @@ IV. La dirección de correo electrónico y el domicilio para oír y recibir noti
 
 V. El monto y número de la transferencia electrónica de fondos que se haya realizado.
 
-Si las posturas no cumplen los requisitos a que se refieren las fracciones anteriores y los que se señalen en la convocatoria, la Secretaría a través de la autoridad competente, no las calificará como posturas legales, situación que a través de los medios electrónicos se hará del conocimiento del interesado, antes de la fecha señalada para el remate.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Si las posturas no cumplen los requisitos a que se refieren las fracciones anteriores y los que se señalen en la convocatoria, la autoridad fiscal no las calificará como posturas legales, situación que a través de los medios electrónicos se hará del conocimiento del interesado, antes de la fecha señalada para el remate.
 
 ###### ARTÍCULO 225.
 
@@ -3739,7 +3833,7 @@ Se impondrá sanción de tres meses a tres años de prisión, a quien:
 
 I. Omita solicitar su inscripción en el registro estatal de contribuyentes por más de un año contado a partir de la fecha en que debió hacerlo, excepto cuando se trate de personas cuya solicitud de inscripción deba ser presentada por otro, aun en el caso que éste no lo haga;
 
-II. Rinda con falsedad al citado registro, los datos, informes o avisos a que se encuentra obligado, y (sic)
+II. Rinda con falsedad al citado registro, los datos, informes o avisos a que se encuentra obligado, y
 
 III. Use intencionalmente más de una clave del registro estatal de contribuyentes;
 
@@ -3797,9 +3891,11 @@ QUINTO: Las infracciones y delitos cometidos durante la vigencia del Código que
 
 SEXTO: En tanto se expida el Reglamento del Código Fiscal para el Estado de Oaxaca, se continuará aplicando las reglas de carácter general vigentes en lo que no se opongan al presente Código.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-SÉPTIMO: Las disposiciones contenidas en el Título Tercero, Del Uso de Medios Electrónicos en Materia Fiscal del Libro Primero de este Código, así como, cualquier disposición que aluda al uso de los Medios Electrónicos, entrarán en vigor a partir del 1 de enero de 2015.
+SÉPTIMO: Las Disposiciones relativas a las notificaciones electrónicas a que se refiere el presente ordenamiento, entrarán en vigor a partir del uno de enero de dos mil dieciséis.
+
+Respecto a las disposiciones de la firma electrónica a que se refiere el presente ordenamiento, entrarán en vigor al mismo tiempo que indique la ley en la materia.
 
 OCTAVO: El Titular del Poder Ejecutivo a la brevedad posible, instrumentará las medidas pertinentes y necesarias, para la elaboración de un estudio de impacto presupuestario que permita crear una institución que tenga a su cargo la defensa del contribuyente.
 
@@ -3854,3 +3950,7 @@ Al C..
 P.O. 31 DE DICIEMBRE DE 2013.
 
 PRIMERO: El presente Decreto entrará en vigor el uno de enero de dos mil catorce, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 27 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
