@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2014-08-05"
+last_updated: "2014-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -59,7 +59,9 @@ V. Armonizar la política estatal y municipal en materia de desarrollo social, c
 
 VI. Establecer los criterios de coordinación para el diseño de estrategias conjuntas de los tres órdenes de gobierno, que tengan como finalidad la atención de regiones y sectores de población prioritarios, en el combate a la pobreza y la marginación en el Estado y municipios;
 
-VII. Establecer las bases y los mecanismos para la planeación, ejecución, seguimiento y evaluación de las políticas públicas en materia de desarrollo social del Estado y municipios;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VII. Establecer las bases y los mecanismos para la planeación, ejecución, monitoreo, evaluación y seguimiento de las políticas públicas en materia de desarrollo social del Estado y municipios;
 
 VIII. Garantizar la calidad de los programas de desarrollo social a cargo del Gobierno del Estado y de los municipios, así como su eficiente aplicación con apego a la equidad y la justicia social;
 
@@ -81,13 +83,15 @@ La aplicación de la presente Ley corresponde a las dependencias, organismos y e
 
 En todo lo no previsto por esta Ley, se aplicará supletoriamente la Ley de Planeación del Estado y Municipios de San Luis Potosí.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 4°.
 
-Queda prohibida toda práctica discriminatoria en la prestación de los bienes y servicios contenidos en los programas para el desarrollo social.
+Queda prohibida toda práctica discriminatoria en la prestación de los bienes y servicios contenidos en los programas para el desarrollo social, y en los programas sociales.
 
-###### ARTICULO 5°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-Los principios de la política de desarrollo social, que constituyen el marco en el cual deberán planearse, ejecutarse y evaluarse, los programas y acciones en materia de desarrollo social de la administración pública estatal y municipal, son:
+ARTICULO 5° Los principios de la política de desarrollo social, que constituyen el marco en el cual deberá planearse, ejecutarse, monitorearse, evaluarse, y dar seguimiento a los programas y acciones en materia de desarrollo social de la administración pública estatal, y municipal, son:
 
 I. Integralidad: la articulación y complementariedad de programas y acciones que conjunten los diferentes beneficios sociales, en el marco de las políticas de desarrollo social de los tres ámbitos de gobierno;
 
@@ -125,7 +129,9 @@ VI. Desarrollo humano: es un proceso permanente que genera las condiciones que p
 
 VII. Desarrollo local: es un proceso orientado a lograr la cooperación de los sectores público, privado y social, bajo un enfoque multidimensional e integrador, para impulsar con la participación permanente y creadora de la población, un proyecto común que eleve su calidad de vida, y articule lo local con el desarrollo municipal y estatal;
 
-VIII. Desarrollo social: entorno donde las personas y las familias acceden, de manera estable, a los recursos necesarios para satisfacer sus necesidades de alimentación, salud, educación, vivienda y empleo dignos, que aseguran el pleno ejercicio de su libertad para elegir y alcanzar su proyecto de vida;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VIII. Desarrollo social: entorno donde las personas y las familias acceden, de manera estable, a los recursos necesarios para satisfacer sus necesidades de alimentación, salud, seguridad social, educación, vivienda con calidad, servicios básicos y empleo dignos, que aseguran el pleno ejercicio de su libertad para elegir y alcanzar su proyecto de vida;
 
 IX. Desigualdad social: diferencia que guardan las personas de una misma sociedad, generada por su forma de acceso al empleo y al ingreso, y a las condiciones estructurales del mercado de trabajo;
 
@@ -133,9 +139,9 @@ X. Ley de Planeación: la Ley de Planeación del Estado y Municipios de San Luis
 
 XI. Marginación: la exclusión de los grupos sociales del proceso de desarrollo y del disfrute de sus beneficios, que expone a las personas, familias y localidades, a privaciones, riesgos y vulnerabilidad social;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-XII. Padrón: la relación oficial de los beneficiarios que incluye a las personas atendidas por los programas de desarrollo social de los diversos órdenes de gobierno, cuyo perfil socioeconómico se establece en la normatividad correspondiente;
+XII. Padrón de beneficiarios: la relación oficial de los beneficiarios que incluye a las personas atendidas por los programas sociales de los diversos órdenes de gobierno, cuyo perfil socioeconómico se establece en la normatividad correspondiente;
 
 XIII. Personas en situación de vulnerabilidad: los núcleos de población que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación y, por lo tanto, requieren de la atención de los sectores público, privado y social para disminuir sus desventajas;
 
@@ -143,23 +149,47 @@ XIV. Pobreza: la situación que padecen las personas, familias y comunidades que
 
 XV. Política de desarrollo social: el conjunto de programas, proyectos y acciones tendientes a reducir las brechas de desigualdad, pobreza, marginación y exclusión social, que potencian y garantizan el desarrollo sostenible y con equidad, que se transforme en bienestar y mejor calidad de vida para la sociedad;
 
-XVI. Programas de desarrollo social: son los instrumentos de planeación, en los que se establecen los objetivos, metas, estrategias y líneas de acción que orientan el quehacer del Estado y de los municipios, en materia de política social, y cuyas acciones específicas se instrumentan a través de programas sociales;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-XVII. Programa estatal: el Programa Estatal de Desarrollo Social, que contiene los lineamientos de la política estatal en la materia;
+XVI. Pobreza multidimensional: situación de las personas cuyos ingresos son insuficientes para adquirir los bienes y servicios que requieren para satisfacer sus necesidades, y presentan carencia en al menos unos de los siguientes seis indicadores: rezago educativo; acceso a los servicios de salud; acceso a la seguridad social; calidad y espacios de la vivienda; servicios básicos en la vivienda; y acceso a la alimentación;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XVII. Política de desarrollo social: el conjunto de programas, proyectos y acciones tendientes a reducir las brechas de desigualdad, pobreza, marginación y rezago social, que potencian y garantizan el desarrollo sostenible y con equidad, que se transforme en bienestar y mejor calidad de vida para la sociedad;
 
 XVIII. Programa municipal: el programa de desarrollo social que cada municipio debe formular, en concordancia con los programas nacional y estatal en la materia;
 
 XIX. Programas sociales: los programas, proyectos y acciones derivadas de los objetivos de los programas estatal, y municipales, que de manera ordenada y sistemática se orientan a superar uno o más rezagos en servicios e infraestructura básica, a fomentar la economía social, o a apoyar directamente a las familias o grupos sociales en situación de desventaja o vulnerabilidad;
 
-XX. Secretaría ejecutiva: la Secretaría de Desarrollo Social y Regional del Estado, y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-XXI. Sistema estatal: el Sistema Estatal de Desarrollo Social.
+XX. Programas sociales: son los instrumentos para concretar los objetivos de la política de desarrollo social, que de manera ordenada y sistemática se orientan a superar uno o más rezagos en servicios e infraestructura básica, a fomentar la economía social, o a apoyar directamente a las familias o grupos sociales en situación de desventaja o vulnerabilidad. Los programas sociales contienen diagnósticos, objetivos, estrategias, inversiones, cartera de obras y acciones, indicadores y metas;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXI. Índice de rezago social: es una medida que incorpora indicadores de carencia en educación, acceso a los servicios de salud y a los servicios básicos, calidad y espacios en la vivienda y activos en el hogar, y que ordena los municipios y localidades según sus carencias en cinco grados de rezago social y facilita la ubicación de zonas de atención prioritaria;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXII. Zonas de atención prioritaria: son las áreas o regiones sean de carácter predominantemente rural o urbano, cuya población registra índices de pobreza y marginación indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de sus derechos sociales;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXIII. Secretaría Ejecutiva: la Secretaría de Desarrollo Social y Regional del Estado, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXIV. Sistema Estatal: el Sistema Estatal de Desarrollo Social.
 
 ## TITULO SEGUNDO. DE LA COMPETENCIA DEL ESTADO Y LOS MUNICIPIOS
 
 ### CAPITULO I. Del Sistema Estatal de Desarrollo Social
 
-ARTICULO 7° El Sistema Estatal de Desarrollo Social es un mecanismo de coordinación interinstitucional y concertación social; y será el órgano rector del desarrollo social del Estado en el diseño, planeación, ejecución y evaluación de las políticas y programas de la materia.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 7°.
+
+El Sistema Estatal de Desarrollo Social es un mecanismo de coordinación interinstitucional y concertación social; y será el órgano rector del desarrollo social del Estado en el diseño, planeación, ejecución, monitoreo, evaluación y seguimiento de las políticas y programas de la materia.
 
 ###### ARTICULO 8°.
 
@@ -205,17 +235,23 @@ Los titulares que formen parte del Sistema Estatal, podrán nombrar representant
 
 El Sistema Estatal tendrá las siguientes atribuciones:
 
-I. Establecer la concurrencia de las dependencias y entidades de la administración pública estatal y municipal, en el diseño, planeación, ejecución y evaluación de la política social, a partir de sus respectivos ámbitos de competencia;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+I. Establecer la concurrencia a las dependencias y entidades de la administración pública estatal y municipal, en el diseño, planeación, ejecución, monitoreo, evaluación y seguimiento de la política social, a partir de sus respectivos ámbitos de competencia;
 
 II. Coordinar con los sectores social y privado, de manera armónica, complementaria y convenida, su participación en el cumplimiento de los objetivos, estrategias y prioridades de la política estatal de desarrollo social;
 
 III. Formular el Programa Estatal con base en lo establecido en la presente Ley, teniendo como marco de referencia los lineamientos del Plan Estatal de Desarrollo, y del Programa Nacional en la materia, y considerando la normatividad que al efecto señale la Ley de Planeación;
 
-IV. Evaluar de manera interna y externa el Programa Estatal para conocer sus resultados e impactos en el combate a la pobreza, la marginación y la desigualdad social, para corregirlo, modificarlo, adicionarlo o reorientarlo;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+IV. Evaluar de manera interna y externa el Programa Estatal para conocer sus resultados e impactos en el combate a la pobreza, la marginación y el rezago social, para incorporar estrategias de mejora mediante correcciones y modificaciones, adiciones, reorientaciones y, en su caso, cancelaciones;
 
 V. Aprobar los programas sociales que presenten las diversas dependencias y entidades integrantes del mismo;
 
-VI. Integrar comisiones de trabajo, temáticas y regionales, para la planeación, seguimiento y evaluación de las políticas y programas, Estatal y municipales, de desarrollo social;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VI. Integrar comisiones de trabajo, temáticas y regionales, para la planeación, monitoreo, evaluación y seguimiento de las políticas y programas, Estatal y municipales, de desarrollo social;
 
 VII. Participar en el Sistema Nacional de Desarrollo Social, en los términos que señala la Ley General de Desarrollo Social;
 
@@ -229,19 +265,25 @@ XI. Acordar con las dependencias y entidades de la administración pública esta
 
 XII. Promover el intercambio de experiencias en materia de desarrollo social y de superación de la pobreza;
 
-XIII. Revisar el marco normativo del desarrollo social y, en su caso, proponer y promover modificaciones ante las instancias competentes;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XIII. Revisar el marco normativo estatal de la política del desarrollo social y, en su caso, proponer y promover reformas, modificaciones o adecuaciones ante las instancias competentes;
 
 XIV. Integrar los padrones de beneficiarios de los diversos programas sociales, y entregarlos a la Secretaría Ejecutiva, para los efectos que señala la presente Ley, y
 
-XV. Informar a la sociedad sobre los avances en tomo al desarrollo social y el alcance de los objetivos del Programa Estatal.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XV. Informar a la sociedad sobre los avances en torno al desarrollo social, y el alcance de los objetivos del Programa Estatal y de los programas sociales.
 
 ###### ARTICULO 10.
 
 Los acuerdos del Sistema Estatal serán obligatorios para las dependencias, entidades y organismos del Ejecutivo Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 11.
 
-El Sistema Estatal sesionará de manera ordinaria cuando menos trimestralmente; y de forma extraordinaria cuando resulte necesario para el cumplimiento de sus atribuciones.
+El Sistema Estatal sesionará de manera ordinaria cuando menos dos veces al año; y de forma extraordinaria cuando resulte necesario para el cumplimiento de sus atribuciones.
 
 Para que el Sistema Estatal pueda sesionar se requiere de la presencia de más de la mitad de sus miembros.
 
@@ -257,15 +299,17 @@ III. Promover la concurrencia y participación de los municipios en el cumplimie
 
 IV. Integrar la participación de los sectores público, social y privado, en el cumplimiento de los objetivos; estrategias y metas del Programa Estatal;
 
-V. Administrar los recursos que corresponden a las aportaciones federales transferidas para la infraestructura social del Estado, orientando su ejercicio con criterios de equidad y transparencia, conforme a la normatividad aplicable;
+V. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
-VI. Recibir en el Presupuesto de Egresos del Estado, la asignación de la partida presupuestal correspondiente al Fondo Estatal para la Infraestructura Social, misma que no podrá ser menor a la determinada por la Federación para el Estado; y cuyos recursos podrán ser complementados con aportaciones municipales, de organismos internacionales, y del sector social y privado, para contribuir al cumplimiento de los objetivos del Programa Estatal;
+VI. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
 VII. Convocar oportunamente a las sesiones del Sistema Estatal a todos sus integrantes; levantar las actas o minutas respectivas; y dar seguimiento a los acuerdos que se tomen en las mismas;
 
 VIII. Dar seguimiento al ejercicio de los fondos y recursos estatales y federales, descentralizados o convenidos en materia de desarrollo social, de las dependencias, entidades, organismos y municipios, destinados a la ejecución de obras y acciones en la materia, para medir sus impactos e informar semestralmente de sus resultados al Sistema;
 
-IX. Presentar informes trimestrales al Poder Legislativo, sobre el ejercicio de los fondos municipales que corresponden a las aportaciones federales transferidas y, de las cuales es responsable del seguimiento, por tratarse de recursos que deben beneficiar directamente a sectores de la población que se encuentran en condiciones de rezago social y pobreza;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+IX. Presentar informes trimestrales al Poder Legislativo, sobre el ejercicio de los fondos municipales que corresponden a las aportaciones federales transferidas y, de las cuales es responsable del seguimiento, por tratarse de recursos que benefician directamente a la población en pobreza extrema, localidades con alto o muy alto nivel de rezago social, y zonas de atención prioritaria;
 
 X. Integrar y actualizar los padrones de beneficiarios de los diversos programas sociales, y proporcionarlos al Sistema Estatal cuando éste lo requiera;
 
@@ -306,6 +350,10 @@ V. Dos representantes de organizaciones civiles legalmente constituidas, cuyo ob
 VI. Dos representantes de la iniciativa privada, y
 
 VII. Dos beneficiarios de programas de desarrollo local.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Los consejeros titulares, presidentes municipales, legisladores, académicos, representantes de organizaciones civiles y de la iniciativa privada, podrán nombrar suplentes para asistir a las reuniones que sean convocadas en ausencia del titular de la Secretaría Ejecutiva.
 
 El Consejo se reunirá a convocatoria de la Secretaría Ejecutiva, cuantas veces resulte necesario para el ejercicio de sus funciones.
 
@@ -409,9 +457,11 @@ Cuando los beneficiarios proporcionen información general y socioeconómica fal
 
 El Gobierno del Estado, a través del Sistema Estatal, y los municipios, en sus ámbitos de competencia, integrarán los padrones de beneficiarios, y complementarán los derivados de los programas sociales federales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 23.
 
-Los padrones de beneficiarios serán administrados y actualizados por la Secretaría Ejecutiva.
+Los padrones de beneficiarios serán integrados por la Secretaría Ejecutiva con base en los lineamientos normativos que la misma emita, y serán actualizados cada año de acuerdo a modificaciones del marco legal y/o de políticas públicas.
 
 La Secretaría Ejecutiva constituirá y mantendrá actualizada una base de datos de los diversos padrones, a fin de garantizar que los beneficiarios no se dupliquen, salvo en los casos en que lo permita la normatividad aplicable.
 
@@ -477,33 +527,39 @@ El Programa Estatal deberá publicarse en el Periódico Oficial del Estado, dent
 
 Asimismo, de manera anual el Gobierno del Estado deberá hacer públicos los avances de la política social, contenida en el Programa Estatal.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-ARTICULO 28 BIS. Para certificar la aplicación eficiente, eficaz, oportuna, equitativa y transparente de los recursos públicos, los programas sociales deberán sujetarse a reglas de operación que deberán ser simples y de fácil acceso para los beneficiarios, debiendo precisar en forma clara por lo menos los siguientes aspectos:
+ARTICULO 28 BIS. Los programas sociales derivados de los objetivos del Programa Estatal de Desarrollo Social, deberán contar con reglas de operación que establecerán como mínimo:
 
-I. El diagnóstico situacional que guarda el Estado en el rubro o rubros de atención;
+I. El diagnóstico de la situación de la carencia social que se atiende;
 
-II. Los objetivos del programa;
+II. Los objetivos del programa social;
 
-III. La población objetivo a la que está dirigido;
+III. La población objetivo;
 
-IV. La entidad o dependencia responsable del programa;
+IV. Las opciones de financiamiento de las obras y acciones;
 
-V. La programación presupuestal;
+V. Los esquemas de concurrencia de recursos, y
 
-VI. Las metas programadas;
+VI. Los requisitos de acceso al programa.
 
-VII. Los procedimientos y requisitos de acceso;
+Las reglas de operación se publicarán anualmente en la página de internet de la dependencia o municipio.
 
-VIII. La temporalidad y la cobertura;
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-IX. Los mecanismos de evaluación y los indicadores de resultados y gestión;
+ARTICULO 28 TER. Se deberán elaborar los programas sociales correspondientes a la carencia que se atiende, con el siguiente contenido:
 
-X. Las formas de participación y corresponsabilidad social, y
+I. El presupuesto específico asignado, bajo la metodología de Presupuesto basado en Resultados;
 
-XI. La articulación con dependencias y otros programas sociales aplicables.
+II. La gestión y concurrencia de recursos;
 
-Las reglas de operación se publicarán en el Periódico Oficial del Estado, dentro de los quince días posteriores a la publicación del Programa Estatal.
+III. La cartera de obras y acciones, y
+
+IV. La metodología del marco lógico.
+
+Se podrán proponer nuevos programas sociales acordes con los cambios en la orientación de la política social, de nuevos esquemas normativos, de la actualización de la agenda nacional o internacional, o de asignación específica de recursos para nuevos programas.
+
+Para el efecto se deberán emitir criterios que sirvan de base para la creación de programas sociales nuevos, que refieran información de su pertinencia y justificación y cumplir con las disposiciones del artículo anterior.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2011)</small>
 
@@ -571,21 +627,33 @@ En ambos casos, la evaluación incluirá la opinión de los beneficiarios y debe
 
 La Secretaría Ejecutiva dará seguimiento a los estudios relativos a la marginación, rezago social, pobreza y desarrollo humano, realizados por el CONAPO, el CONEVAL, y el Programa para las Naciones Unidas para el Desarrollo, e informará, respectivamente, al Sistema Estatal y a cada ayuntamiento, sobre los resultados y el lugar que ocupa el Estado y su municipio en el contexto nacional.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 38.
 
-Las evaluaciones de manera invariable incluirán indicadores de resultados, gestión y servicios para medir su cobertura, calidad e impacto de los programas sociales.
+Las dependencias del Sistema Estatal elaborarán un programa anual de evaluación de sus programas sociales. Las evaluaciones de manera invariable incluirán indicadores de resultados y de gestión para medir su cobertura, calidad e impacto de los programas sociales.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
 Las dependencias u organismos estatales o municipales ejecutores de los programas a evaluar, proporcionarán a los evaluadores información veraz, y otorgarán las facilidades necesarias para la realización de los trabajos respectivos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+La evaluación tendrá como propósito revisar sistemáticamente los resultados en el cumplimiento de los objetivos de los programas sociales, proyectos y acciones de política social, para corregirlos, modificarlos, adicionarlos, reorientarlos, en su caso, suspenderlos total o parcialmente, o proponer programas sociales nuevos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 38 BIS. Las dependencias del Sistema Estatal darán seguimiento a las recomendaciones derivadas de las evaluaciones, para retroalimentar el proceso de planeación y operación de sus programas, y establecer condiciones de mejora continua, que fortalezcan la toma de decisiones.
 
 ###### ARTICULO 39.
 
 El Sistema Estatal en función a lo que establece la ley, utilizará la información que genere el Instituto Nacional de Estadística Geografía e Informática, el CONAPO, el CONEVAL, y otras instituciones competentes en la materia, para definir y medir la pobreza.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 40.
 
-El Estado y los municipios deberán hacer públicos los resultados de las evaluaciones.
+El Estado y los municipios deberán hacer públicos en sus respectivos portales de internet, los resultados de las evaluaciones, y los resultados de las recomendaciones aplicadas.
 
 ## TITULO QUINTO. DE LA PARTICIPACION SOCIAL
 
@@ -756,3 +824,9 @@ P.O. 5 DE AGOSTO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición contraria a éste, o en otros ordenamientos estatales o municipales de la Entidad.
