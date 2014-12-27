@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48147"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2014-06-21"
+last_updated: "2014-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -51,23 +51,25 @@ D E C R E T O No. 314
 
 "ARTÍCULO ÚNICO.- Es de aprobarse y se aprueba la Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado del Municipio de Comala, Colima, para quedar como sigue:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA, COLIMA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA, COLIMA
 
 ## TITULO PRIMERO. DE LOS DERECHOS
 
 ### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 1.
 
-Es objeto de esta Ley, el que los usuarios de los servicios públicos de agua potable y alcantarillado y demás que presta la Comisión de Agua Potable y Alcantarillado del Municipio de COMALA, en lo sucesivo la COMAPAC, paguen los derechos y aprovechamientos establecidos en unidades de salario mínimo general diario vigente en el área geográfica en el que está ubicado el Estado de Colima, que resulten de aplicar las cuotas y tarifas establecidas en el presente ordenamiento.
+Es objeto de esta Ley, el que los usuarios de los servicios públicos de agua potable y alcantarillado y demás que presta la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de COMALA, en lo sucesivo la COMAPAC, paguen los derechos y aprovechamientos establecidos en unidades de salario mínimo general diario vigente en el área geográfica en el que está ubicado el Estado de Colima, que resulten de aplicar las cuotas y tarifas establecidas en el presente ordenamiento.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 2.
 
-Serán sujetos para el pago de tales derechos, todas aquellas personas físicas o morales que habiten dentro del territorio que conforma al Municipio de Comala, Colima, que requieran y hagan uso de los servicios públicos de agua potable y alcantarillado.
+Serán sujetos para el pago de tales derechos, todas aquellas personas físicas o morales que habiten dentro del territorio que conforma al Municipio de Comala, Colima, que requieran y hagan uso de los servicios públicos de agua potable, alcantarillado y saneamiento.
 
 ###### ARTICULO 3.
 
@@ -263,19 +265,25 @@ Los desarrolladores de vivienda deberán proporcionar e instalar el medidor para
 
 ### CAPITULO IV. DE LAS OBLIGACIONES DE LOS CONSTRUCTORES DE CONJUNTOS HABITACIONALES Y DESARROLLOS COMERCIALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 11.
+
+Los constructores de conjuntos habitacionales o desarrollos comerciales deberán construir por cuenta propia las instalaciones y conexiones de agua potable, alcantarillado y saneamiento necesarias y estarán obligados a:
+
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-###### ARTÍCULO 11.
-
-Los constructores de conjuntos habitacionales o desarrollos comerciales deberán construir por cuenta propia las instalaciones y conexiones de agua potable y alcantarillado necesarias y estarán obligados a:
 
 a).- Tramitar ante la Comisión de Agua Potable la revisión y autorización de los proyectos respectivos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 Dichas obras se integrarán al patrimonio de la Comisión de Agua Potable, una vez que estén en operación y previo pago de las cuotas correspondientes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 12.
 
-La Comisión de Agua Potable realizará la inspección de las instalaciones destinadas a los servicios de agua potable y alcantarillado, por medio del personal que la COMAPAC, debiéndose cobrar al promotor por este servicio el 2% del costo de la obra supervisada.
+La Comisión de Agua Potable realizará la inspección de las instalaciones destinadas a los servicios de agua potable, alcantarillado y saneamiento, por medio del personal que la COMAPAC, debiéndose cobrar al promotor por este servicio el 2% del costo de la obra supervisada.
 
 ###### ARTICULO 13.
 
@@ -287,11 +295,15 @@ Para la construcción de cualquier tipo de obra, deberá celebrarse un convenio 
 
 La COMAPAC prestará el servicio requerido para la celebración de espectáculos públicos mediante la elaboración de convenios en los que se estimen los consumos con base en los requerimientos y se realice el pago por adelantado.
 
-### CAPITULO VI. DE LAS TARIFAS POR EL SERVICIO DE DRENAJE SANITARIO Y CONEXION A LA RED DE ALCANTARILLADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### CAPITULO VI. DE LAS TARIFAS POR EL SERVICIO DE DRENAJE SANITARIO, SANEAMIENTO Y CONEXION A LA RED DE ALCANTARILLADO
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 15.
 
-Los usuarios del servicio de drenaje sanitario pagarán por este concepto el 30% de la cuota que corresponda por la prestación del servicio de agua potable.
+Los usuarios del servicio de drenaje sanitario y saneamiento pagarán por estos conceptos el 30% y 14% respectivamente de la cuota que corresponda por la prestación del servicio de agua potable.
 
 ###### ARTICULO 16.
 
@@ -319,19 +331,15 @@ En el pago de estas cuotas, no se incluye la conexión física de la obra, por l
 
 ### CAPITULO VII. DE LAS TARIFAS POR EL MANTENIMIENTO DE LAS REDES
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 17.
 
-En relación a el mantenimiento de las redes (Infraestructura) serán cubiertas por los propietarios o poseedores de predios edificados con superficie hasta 500 M2, que permanezcan sin habitar, ni uso del servicio de agua y alcantarillado y que cuenten con las instalaciones adecuadas para que los servicios sean utilizados pagarán el 50% de la cuota correspondiente, incluyendo aquellos predios edificados que por autorización de su propietario haya decidido cancelar el servicio.
+En relación a el mantenimiento de las redes (Infraestructura) serán cubiertas por los propietarios o poseedores de predios urbanos con superficie hasta 500 M2, que permanezcan sin habitar, ni uso del servicio de agua, alcantarillado y saneamiento y que cuenten con las instalaciones adecuadas para que los servicios sean utilizados pagaran el 50% de la cuota correspondiente, incluyendo aquellos predios edificados que por autorización de su propietario haya decidido cancelar el servicio. Si el lote urbano no cuenta con toma de agua instalada pagara únicamente el 20% de la cuota correspondiente.
 
-En el caso de lotes urbanos que cuenten con superficie superior a 500 M2, que cuenten con la infraestructura a que se refiere el párrafo anterior cuando no estén conectados a las redes de agua potable y alcantarillado, pagarán las siguientes tarifas:
+En el caso de lotes urbanos que cuenten con superficie superior a 500 M2, que cuenten con la infraestructura a que se refiere el párrafo anterior cuando no estén conectados a las redes de agua potable, alcantarillado y saneamiento, pagaran las siguientes tarifas:
 
-De 500 a 5,000 M2 2.5 veces la cuota
-
-De 5,001 a 10,000 M2 5 veces la cuota
-
-De 10,001 a 20,000 M2 10 veces la cuota
-
-Más de 20,000 M2 20 veces la cuota
+De 500 a 5,000 M2De 5,001 a 10,000 M2De 10,001 a 20,000 M2Más de 20,000 M2 2.5 veces la cuota5 veces la cuota10 veces la cuota20 veces la cuota (sic)
 
 ###### ARTICULO 18.
 
@@ -355,13 +363,17 @@ Por instalación de medidor (Mano de obra) 4.000
 
 La COMAPAC podrá realizar descuentos en el pago de los derechos, de conformidad con los criterios siguientes:
 
-I.- Doce por ciento de descuento a los usuarios de cuota fija que paguen la anualidad el servicio de agua potable y alcantarillado de manera anticipada. Siempre y cuando se realice el pago durante los meses de enero y febrero respectivamente.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-II.- Ocho por ciento de descuento a los usuarios de cuota fija que paguen la anualidad el servicio de agua potable y alcantarillado de manera anticipada. Siempre y cuando se realice el pago durante los meses de marzo.
+I.- Doce por ciento de descuento a los usuarios de cuota fija que paguen la anualidad el servicio de agua potable, alcantarillado y saneamiento de manera anticipada. Siempre y cuando se realice el pago durante los meses de enero y febrero respectivamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados, tendrán derecho a un descuento del cincuenta por ciento en el pago de los derechos por servicios públicos de agua potable y alcantarillado, respecto de la casa que habitan, solo cuando paguen de manera anticipada dicha anualidad o pago puntual, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
+II.- Ocho por ciento de descuento a los usuarios de cuota fija que paguen la anualidad el servicio de agua potable, alcantarillado y saneamiento de manera anticipada. Siempre y cuando se realice el pago durante los meses de marzo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados, tendrán derecho a un descuento del cincuenta por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento respecto de la casa que habitan, solo cuando paguen de manera anticipada dicha anualidad, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
 
 a).- Original y copia credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y
 
@@ -373,7 +385,9 @@ En caso de que el usuario sujeto al beneficio de esta fracción, realice su pago
 
 IV.- Cincuenta por ciento de descuento a los usuarios de cuota fija mayores de 60 años de edad o discapacitados, dicho descuento se aplicará respecto de la casa que habiten, siempre y cuando se cubra de manera anticipada todo el año en los meses de enero y febrero o pago puntual, para tal efecto, deberán de acreditar cualquiera de las dos hipótesis a que hace referencia esta fracción con documento idóneo para ello, dejando copia del mismo para los efectos que procedan.
 
-V.- En caso de servicio medido, se concede un doce por ciento de descuento a los usuarios que paguen el servicio de agua potable y alcantarillado de forma anual anticipada durante los meses de enero y febrero. De acuerdo a sus consumos históricos se realizará el cálculo para el registro del pago y, periódicamente se harán supervisiones para la evaluación del consumo, tomando en cuenta que si varía el registro se efectuarán los cargos correspondientes a la cuenta del usuario.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+V.- En caso de servicio medido, se concede un doce por ciento de descuento a los usuarios que paguen el servicio de agua potable, alcantarillado y saneamiento de forma anual anticipada durante los meses de enero y febrero. De acuerdo a sus consumos históricos se realizará el cálculo para el registro del pago y, periódicamente se harán supervisiones para la evaluación del consumo, tomando en cuenta que si varía el registro se efectuarán los cargos correspondientes a la cuenta del usuario.
 
 VI.- Tratándose de los servicios mixtos se estará a lo dispuesto por la fracción II o en su defecto, la fracción I del presente artículo.
 
@@ -393,9 +407,11 @@ III.- Al efectuar el cambio de propietario, el nuevo propietario es responsable 
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 21.
 
-Quedan comprendidos dentro de esta clasificación los ingresos que obtenga la Comisión de Agua Potable y Alcantarillado de Comala (COMAPAC), por concepto de:
+Quedan comprendidos dentro de esta clasificación los ingresos que obtenga la Comisión de Agua Potable, Alcantarillado y Saneamiento de Comala (COMAPAC), por concepto de:
 
 I.- Recargos;
 
@@ -490,3 +506,9 @@ P.O. 21 DE JUNIO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el 01 de julio de 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El presente Decreto no les será aplicable a quienes con anterioridad a éste, hayan cubierto los pagos de los derechos por concepto de agua potable, alcantarillado y saneamiento y, en su caso, los recargos y multas generados.
+
+P.O. 27 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Colima".
