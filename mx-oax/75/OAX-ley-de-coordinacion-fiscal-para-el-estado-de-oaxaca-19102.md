@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2013-12-31"
+last_updated: "2014-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -71,15 +71,19 @@ II. Congreso: Al Congreso del Estado;
 
 III. Decreto: Al Decreto que establece Bases, Factores de Distribución, Montos Estimados y Plazos para el Pago de Participaciones Fiscales Federales a los Municipios del Estado de Oaxaca, para el ejercicio fiscal que corresponda;
 
-IV. Ley: A la Ley de Coordinación Fiscal para el Estado de Oaxaca;
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-V. Ley de Coordinación: A la Ley de Coordinación Fiscal;
+IV. Ejecutores de gasto local: A los Poderes Judicial, Órganos Autónomos por disposición Constitucional, Dependencias y Entidades del Poder Ejecutivo, y Municipios a los que se les asignen recursos provenientes de Aportaciones;
 
-VI. Municipio: Al nivel de Gobierno, investido de personalidad jurídica, con territorio y patrimonio propios, autónomo en su régimen interior, con capacidad económica propia y con la libre administración de su hacienda; con una población asentada en una circunscripción territorial y gobernado por un Ayuntamiento;
+V. Ley: A la Ley de Coordinación Fiscal para el Estado de Oaxaca;
 
-VII. Participaciones: A las Participaciones Federales que el Estado y los Municipios perciben de conformidad con los Capítulos I al IV de la Ley de Coordinación, y
+VI. Ley de Coordinación: A la Ley de Coordinación Fiscal;
 
-VIII. Secretaría: A la Secretaría de Finanzas del Poder Ejecutivo del Estado.
+VII. Municipio: Al nivel de Gobierno, investido de personalidad jurídica, con territorio y patrimonio propios, autónomo en su régimen interior, con capacidad económica propia y con la libre administración de su hacienda; con una población asentada en una circunscripción territorial y gobernado por un Ayuntamiento;
+
+VIII. Participaciones: A las Participaciones Federales que el Estado y los Municipios perciben de conformidad con los Capítulos I al IV de la Ley de Coordinación, y
+
+IX. Secretaría: A la Secretaría de Finanzas del Poder Ejecutivo del Estado.
 
 ###### ARTICULO 3.
 
@@ -113,7 +117,7 @@ III. El 20% de las Participaciones por Impuestos Especiales sobre Cerveza, Bebid
 
 IV. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
-V. El 20% del Impuesto sobre Automóviles Nuevos; y (sic),
+V. El 20% del Impuesto sobre Automóviles Nuevos; y,
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -129,7 +133,7 @@ VIII. EL 20% de la Recaudación del Impuesto Especial sobre Producción y Servic
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-IX. El 20% del Fondo de Compensación; y, (sic)
+IX. El 20% del Fondo de Compensación; y,
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -477,21 +481,27 @@ El Estado a través de la Secretaría reportará tanto su información, como aqu
 
 El Estado y los Municipios los pondrán a disposición del público en general a través de sus respectivas páginas electrónicas de internet o de otros medios locales de difusión a más tardar a los cinco días hábiles posteriores a la fecha señalada en el párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-ARTÍCULO 23 B.- El control, evaluación y fiscalización del manejo de los recursos federales a que se refiere este Capítulo quedará a cargo de las siguientes autoridades, en las etapas que se indican:
+ARTICULO 23 B.- Las Aportaciones y los accesorios que reciban los Ejecutores de gasto local, estarán sujetas a las etapas y a la competencia de las siguientes autoridades:
 
-I. Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria estatal y hasta la entrega de los recursos correspondientes a los Municipios, corresponderá a la Secretaría de la Contraloría y Transparencia Gubernamental;
+I. Desde la etapa de distribución de las Aportaciones que le correspondan a los Municipios hasta la entrega de dichos recursos estará a cargo de la Secretaría de la Contraloría y Transparencia Gubernamental;
 
-II. Recibidos los recursos de los Fondos de que se trate por el Estado y sus Municipios, hasta su erogación total, corresponderá a la Auditoría Superior del Estado.
+II. Recibidos los recursos de las Aportaciones de que se trate por los Ejecutores de gasto local hasta su erogación total, corresponderá a la Secretaría de la Contraloría y Transparencia Gubernamental en el ámbito local, tratándose de los Municipios por la Contraloría Municipal;
 
-La supervisión y vigilancia no podrán implicar limitaciones ni restricciones, de cualquier índole, en la administración y ejercicio de dichos Fondos, y deberá estar supeditada a lo que establecen las leyes y disposiciones de la materia; y,
+III. En el ejercicio de dichos recursos, los Ejecutores de gasto local deberán sujetarse a la evaluación del desempeño con base en indicadores, la que estará a cargo de la Instancia Técnica de Evaluación y la Secretaría; respecto de los recursos ejercidos por los Municipios estará a cargo de la Auditoría Superior del Estado;
 
-III. La fiscalización de las Cuentas Públicas del Estado y Municipios, será efectuada por la Legislatura del Estado, por conducto de la Auditoría Superior del Estado, a fin de verificar que las dependencias del Ejecutivo Estatal y los Municipios respectivamente, aplicaron los recursos de los Fondos para los fines previstos en esta Ley.
+Los resultados de las evaluaciones deberán ser informados en los términos del artículo 48 de la Ley de Coordinación.
 
-Cuando la Auditoría Superior del Estado, detecte que los recursos de los Fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
+IV. La fiscalización de la Cuenta Pública del Estado y Municipios, será efectuada por el Congreso por conducto de la Auditoria Superior del Estado, a fin de verificar que los Ejecutores de gasto local aplicaron los recursos de las Aportaciones para los fines previstos en la Ley de Coordinación.
 
-Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos municipales por el manejo o aplicación indebidos de los recursos de los Fondos a que se refiere este Capítulo, serán determinadas y sancionadas conforme a las disposiciones aplicables.
+La Auditoria Superior del Estado verificará que los Ejecutores de gasto local cumplieron con las disposiciones legales y administrativas federales.
+
+Cuando las autoridades señaladas en las fracciones I y II, en el ejercicio de las etapas que se señalan conozcan que los recursos de las Aportaciones no han sido aplicados a los fines que por cada Fondo se señale en la Ley de Coordinación, deberán hacerlo del conocimiento de la Auditoría Superior de la Federación y de la Función Pública en forma inmediata.
+
+Por su parte la Auditoría Superior del Estado detecte que los recursos de las Aportaciones no se han destinado a los fines establecidos en la Ley de Coordinación, deberá hacerlo del conocimiento inmediato de la Autoría (sic) Superior de la Federación.
+
+Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos locales o municipales por el manejo o aplicación indebidos de los recursos de las Aportaciones de la Ley de Coordinación, serán determinados y sancionados por las autoridades federales o locales competentes, en los términos de las disposiciones aplicables.
 
 ###### ARTICULO 24.
 
@@ -615,7 +625,9 @@ El Consejo de Coordinación Hacendaria, será un órgano técnico formado por:
 
 I. Un Presidente, quien será el Titular de la Secretaría de Finanzas;
 
-II. Un Secretario, quien será el Subsecretario de Ingresos y Fiscalización;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+II. Un Secretario, quien será el Titular de la Tesorería de la Secretaría:
 
 III. Vocales quienes serán:
 
@@ -623,7 +635,7 @@ a) Las autoridades hacendarias municipales;
 
 b) El Presidente diputado de la Comisión Permanente de Hacienda;
 
-c) El El Presidente diputado de la Comisión Permanente de Vigilancia de la Auditoría Superior del Estado, y
+c) El Presidente diputado de la Comisión Permanente de Vigilancia de la Auditoría Superior del Estado, y
 
 d) El titular de la Auditoría Superior del Estado.
 
@@ -820,3 +832,7 @@ CUARTO: Lo dispuesto en la fracción X del artículo 5, así como lo dispuesto e
 QUINTO: La Comisión Nacional del Agua sólo podrá solicitar la retención a que se refiere el artículo 23 de esta Ley para el cobro de adeudos que se generen a partir del uno de enero de 2014, por concepto de derechos y aprovechamientos de agua y descargas de aguas residuales.
 
 SEXTO: La fracción VII del artículo 17 de esta Ley, entrará en vigor a partir del uno de enero de 2016.
+
+P.O. 27 DE DICIEMBRE DE 2014.
+
+ÚNICO: El presente Decreto entrará en vigor a partir del día uno de enero del año dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
