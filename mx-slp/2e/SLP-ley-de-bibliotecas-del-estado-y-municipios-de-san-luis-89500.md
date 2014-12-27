@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bibliotecas-del-estado-y-municipios-de-san-luis-89500"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2014-04-15"
+last_updated: "2014-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre de 2012.
 
@@ -158,6 +158,10 @@ De igual forma, en la medida de sus respectivos presupuestos implementarán el s
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
 
 Dichos entes de gobierno deberán desarrollar programas para la actualización del sistema de bibliotecas, y propiciar la formación de especialistas e investigadores en la materia, con el fin de restaurar y conservar el material bibliográfico.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Asimismo, para el enriquecimiento del acervo de las bibliotecas públicas, podrán gestionar la adquisición de obras mediante donación, dando prioridad a aquéllas dedicadas al conocimiento de la historia y cultura del Estado; de la cultura indígena y sus lenguas con presencia en la Entidad; y de autores potosinos; con la finalidad de integrar y robustecer la colección local.
 
 ## TITULO TERCERO. DE LA RED ESTATAL DE BIBLIOTECAS PUBLICAS
 
@@ -319,6 +323,12 @@ Por lo menos el veinte por ciento del acervo en las bibliotecas públicas deber�
 
 La señalización para la identificación de espacios en las bibliotecas, se hará mediante el empleo de placas que contengan números, leyendas, símbolos realzados o rehundidos, en colores contrastantes, con la finalidad de facilitar su localización y lectura.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 20.
+
+Las bibliotecas públicas contarán con estantería destinada exclusivamente a la exhibición del acervo, cultural e histórico del Estado; de la cultura indígena y sus lenguas con presencia en la Entidad; y de autores potosinos.
+
 ## TRANSITORIOS
 
 PRIMERO. La Ley que se expide, así como los artículos, segundo, y tercero de este Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -358,3 +368,9 @@ P.O. 15 DE ABRIL DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
