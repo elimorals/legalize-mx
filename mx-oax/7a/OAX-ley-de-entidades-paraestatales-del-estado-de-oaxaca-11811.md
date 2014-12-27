@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entidades-paraestatales-del-estado-de-oaxaca-11811"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-28"
-last_updated: "2011-12-17"
+last_updated: "2014-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de febrero de 1998.
 
@@ -193,13 +193,19 @@ El órgano de Gobierno de la entidad paraestatal, tendrá las siguiente atribuci
 
 I. Establecer en congruencia con la Ley de Planeación y el Plan Estatal de Desarrollo, las políticas generales y definir las prioridades a las que deberá sujetarse la entidad paraestatal, relativas a producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
 
-II. Aprobar los planes, programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-III. Fijar y ajustar los precios de bienes y servicios que produzcan o presten la entidad paraestatal, así como los intereses, dividendos, comisiones y demás utilidades que deban percibir por sus servicios;
+II. Aprobar los planes y programas, así como sus modificaciones, en términos de la legislación aplicable;
 
-IV. Aprobar la concertación de obligaciones para el financiamiento de la entidad paraestatal, así como observar los lineamientos que dicten las autoridades competentes, en materia de manejo de disponibilidades financieras;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-V. Aprobar previo informe de los Comisarios y dictamen de los Auditores Externos, los estados financieros anuales de la entidad paraestatal y autorizar la publicación de los mismos;
+III. Proponer a la Secretaría de Finanzas para su incorporación en la Ley Estatal de Derechos la inclusión o modificación de conceptos y cuotas por la prestación de servicios públicos a su cargo, así como por el uso, goce o aprovechamientos de bienes de dominio público que tengan asignados, para su presentación y aprobación del Congreso del Estado;
+
+IV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+V. Autorizar la publicación de los estados financieros, previo informe y validación del comisario;
 
 > <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
 
@@ -213,15 +219,15 @@ IX. Autorizar la creación de Comités o Subcomités Técnicos especializados, l
 
 X. Nombrar y remover a propuesta de su secretario técnico al secretario auxiliar;
 
-XI. Aprobar la constitución de reservas y aplicación de excedentes financieros de las entidades paraestatales;
+XI. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
 XII. Observar las normas y bases para la adquisición, arrendamiento y enajenación de muebles e inmuebles que la entidad paraestatal requiera, para la prestación de sus servicios, con sujeción a las disposiciones legales respectivas;
 
-XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los Comisarios; y (sic)
+XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los Comisarios; y
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-XIV. Aprobar y autorizar el Reglamento Interno y los manuales administrativos de la Entidad para su publicación; y
+XIV. Autorizar la publicación del Reglamento Interno y manuales administrativos, previa revisión y validación de la Secretaría de Administración y la Consejería Jurídica del Gobierno del Estado;
 
 > <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2009)</small>
 
@@ -235,7 +241,9 @@ Al frente de cada Entidad Paraestatal habrá un Director General o equivalente, 
 
 I. Administrar y representar legalmente a la entidad paraestatal;
 
-II. Formular los planes y programas institucionales de corto, mediano y largo plazo, así como los presupuestos de la entidad paraestatal y presentarlos para su aprobación al Órgano de Gobierno. Si dentro de los plazos correspondientes, el Director General no diera cumplimiento a esta obligación, sin perjuicio de su correspondiente responsabilidad, el Órgano de Gobierno procederá al desarrollo e integración de tales requisitos;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+II. Formular los planes y programas institucionales de corto; mediano y largo plazo, y presentarlos para su aprobación al órgano de Gobierno;
 
 III. Formular los programas de organización y administración;
 
@@ -491,11 +499,11 @@ Los Planes y los Programas Institucionales, constituyen la asunción de compromi
 
 La Programación Institucional de las entidades paraestatales, en consecuencia, deberá contener la fijación de objetivos y metas, los resultados económicos y financieros esperados, así como las bases para evaluar las acciones que lleve a cabo; la definición de estrategias y prioridades; la previsión y organización de recursos para alcanzarlas; la expresión de programas para la coordinación de sus tareas, así como las previsiones, respecto a las posibles modificaciones a sus estructuras.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 40.
 
-Los presupuestos de las entidades paraestatales, se formularán a partir de sus programas anuales, que deberán contener la descripción detallada de objetivos, metas y unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
-
-En la formulación de sus presupuestos, las entidades paraestatales se sujetarán a los lineamientos generales que en materia de gasto establezca la Secretaría de Finanzas, así como a las disposiciones de la normatividad aplicable.
+Los programas operativos anuales de las entidades paraestatales, se formularán de conformidad con lo establecido en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como en los manuales y lineamientos que establezca la Secretaría de Finanzas.
 
 ###### ARTICULO 41.
 
@@ -507,13 +515,25 @@ Los ingresos que se recauden por los diversos conceptos que establece la Ley de 
 
 La percepción de subsidios, transferencias y los derivados de la suscripción de convenios, acuerdos, donativos, reintegros y cualquier otro bien financiero o material que reciban por cualquier otro título no considerado en los anteriores, los recibirá de la Secretaría de Finanzas, en los términos que se fijen en los presupuestos de egresos autorizados, debiendo erogarlos con sujeción de los controles e informes que determinen las disposiciones legales aplicables al origen de financiamiento.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 43.
 
-Las entidades paraestatales, en lo tocante al ejercicio de sus presupuestos, concertación y cumplimiento de compromisos, registro de operaciones; rendimiento de informes sobre estados financieros e integración de datos para efecto de cuenta pública, deberán sujetarse a lo dispuesto por esta Ley y su Reglamento y en las disposiciones legales respectivas de la materia.
+La aplicación, ejercicio, control, evaluación y comprobación de los presupuestos aprobados, registro de operaciones y emisión de estados financieros, deberán sujetarse a lo dispuesto en la Ley General de Contabilidad Gubernamental, Ley Estatal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y demás disposiciones legales y administrativas vigentes.
+
+En el ejercicio de recursos federales, serán responsables de su aplicación, ejercicio, control, comprobación y evaluación en cumplimiento de las disposiciones contenidas en la Ley General de Contabilidad Gubernamental, reglas, lineamientos, acuerdos y convenios aplicables a la fuente de financiamiento federal que les da origen.
+
+Para la recepción de recursos federales deberán contar con una cuenta bancaria especifica productiva que darán a conocer a la Secretaria de Finanzas, realizando el trámite presupuestal dentro de los tres días hábiles después de recibir el comunicado de que los recursos se han ministrado al Estado, a fin de que la Secretaría de Finanzas ministre dichos recursos en el plazo que se establezca en las disposiciones aplicables al recurso federal.
+
+El trámite presupuestal deberá acompañarse del comprobante fiscal digital expedido a favor del Gobierno del Estado de Oaxaca, señalando en el concepto la denominación del recurso federal y el monto que será transferido a la cuenta bancaria productiva específica notificada a la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 44.
 
-Las entidades paraestatales, elaborarán trimestralmente estados financieros y de deuda pública; mismos que, una vez aprobados en los términos de la fracción V del artículo 12 de la presente Ley, deberán publicarse en el Periódico Oficial del Gobierno del Estado, dentro del término de 45 días naturales posteriores al cierre de cada trimestre.
+Las entidades paraestatales elaborarán trimestralmente, estados financieros que deberán publicarse en el órgano oficial de difusión del Estado, dentro de los treinta días naturales de concluirse el trimestre.
+
+Mismos que se pondrá a disposición del público en general a través de medios electrónicos, observando las disposiciones contenidas en la Ley General de Contabilidad Gubernamental y Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
 
 ### CAPITULO II. DEL CONTROL Y VIGILANCIA POR PARTE DEL EJECUTIVO ESTATAL
 
@@ -523,35 +543,29 @@ Las entidades paraestatales, elaborarán trimestralmente estados financieros y d
 
 Corresponde al Ejecutivo del Estado, el control y vigilancia de las entidades, a través de las Secretarías de Finanzas y de Administración, así como la Secretaría de la Contraloría y la coordinación, supervisión y evaluación, por conducto de las Dependencias Coordinadoras de Sector respectivas.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 46.
 
-La Secretaría de Finanzas, tendrá respecto de las entidades paraestatales, las siguientes atribuciones:
+La Secretaria de Finanzas tendrá, respecto de las entidades paraestatales, competencia para:
 
-I. Fijar los lineamientos y políticas, así como aprobar las condiciones generales de los financiamientos;
+I. Establecer las disposiciones administrativas para el ejercicio del presupuesto aprobado;
 
-II. Autorizar la contratación de financiamientos, de conformidad con las políticas que al efecto se establezcan, en términos de la Ley de Deuda Pública Estatal y Municipal;
+II. Practicar visitas en el ámbito de su competencia, en términos de la legislación aplicable;
 
-III. Aprobar los montos y llevar el registro y control de la deuda pública, de acuerdo a lo que disponga la Ley de la materia;
+III. Requerir sus estados financieros, informes sobre beneficiarios cuando se les hubiere aprobado recursos para subsidios o ayudas para su integración en los informes trimestrales de avance de gestión y cuenta pública, conforme a la Ley General de Contabilidad Gubernamental y Ley Estatal de Presupuesto y Responsabilidad Hacendaría y su Reglamento;
 
-IV. Vigilar la utilización de recursos no presupuestales, que sean obtenidos, de acuerdo con las autorizaciones previstas en la Ley de Deuda Pública Estatal y Municipal;
+IV. Requerir el resultado de la evaluación financiera y programática de sus programas, proyectos y acciones contenidas en sus programas operativos anuales;
 
-V. Formular lineamientos y políticas para la emisión y suscripción de títulos de crédito y otros documentos, en que se hagan constar obligaciones a cargo de las mismas;
+V. Requerir informes sobre la aplicación, ejercicio, control y evaluación de recursos destinados a donativos;
 
-VI. Recabar de las entidades paraestatales, la información financiera indispensable, para determinar su capacidad de pago y el tipo de gastos que se pretendan financiar con recursos crediticios;
+VI. Requerir los estados financieros de los fideicomisos públicos, así como los de administración, inversión o pago que tengan a su cargo;
 
-VII. Dictar lineamientos para la utilización de excedentes de recursos financieros;
+VII. Vigilar el cumplimiento de sus obligaciones fiscales, y en su caso, determinar créditos fiscales;
 
-VIII. Practicar visitas en el ámbito de su competencia, en términos de la legislación aplicable;
+VIII. Requerir información sobre la situación que guardan las garantías que responden a obligaciones contraídas en contratos de obra pública, adquisiciones y prestación de servicios, y
 
-IX. Vigilar que los Acuerdos de Coordinación que se realicen con las Dependencias o Entidades Federales, dentro de su respectivo ámbito de competencia, se lleven a cabo en el marco de los convenios respectivos;
-
-X. Establecer normas para el ejercicio de su gasto público y programas de inversión, así como vigilar su cumplimiento;
-
-XI. Requerir la información financiera y contable, de acuerdo a los lineamientos y formas de presentación establecidos por la propia Secretaría de Finanzas para efectos de consolidación de estados financieros y preparación de la cuenta pública, conforme a la Ley de la materia;
-
-XII. hacer que las entidades paraestatales, cumplan las disposiciones fiscales, y
-
-XIII. las demás que le determinen las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones legales aplicables.
+IX. Las demás que le determinen las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones aplicables.
 
 ###### ARTICULO 47.
 
@@ -776,3 +790,7 @@ QUINTO.- El Congreso del Estado procederá a realizar las adecuaciones a las ley
 P.O. 17 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
