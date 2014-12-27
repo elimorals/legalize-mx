@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2013-09-06"
+last_updated: "2014-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -49,13 +51,17 @@ Los Ejecutores de gasto estarán obligados a cumplir las disposiciones de esta L
 
 La Auditoría Superior del Estado fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los Ejecutores de gasto, conforme a la competencia que le confieren la Constitución Política del Estado libre y Soberano de Oaxaca y la Ley de Fiscalización Superior del Estado de Oaxaca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-Para efectos de esta Ley, se entenderá por:
+Para los efectos de esta ley, se entenderá por:
 
 I. Actividad institucional: las acciones sustantivas o de apoyo que realizan los Ejecutores de gasto con el fin de dar cumplimiento a los objetivos y metas contenidos en los programas, de conformidad con la competencia que les señala su respectiva Ley Orgánica o el ordenamiento jurídico que les es aplicable;
 
-II. Adecuaciones presupuestarias: las modificaciones a las estructuras funcional, programática, administrativa, económica, tipo de gasto y por objeto del gasto; a los calendarios de presupuesto; a las ampliaciones y reducciones al Presupuesto de Egresos autorizado o a los flujos de efectivo correspondientes, siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los Ejecutores de gasto;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+II. Adecuaciones presupuestarias: las modificaciones a las estructuras funcional, programática, administrativa, económica, tipo de gasto y por objeto del gasto; a los calendarios de presupuesto; a las ampliaciones y reducciones al Presupuesto de Egresos aprobado, siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los Ejecutores de gasto;
 
 III. Avance de Gestión: al informe a que se refiere la Ley de Fiscalización Superior del Estado de Oaxaca;
 
@@ -83,7 +89,9 @@ XIV. Cuenta Pública: al informe a que se refiere la Ley de Fiscalización Super
 
 XV. Déficit presupuestario: el financiamiento que cubre la diferencia entre los montos previstos en la Ley de Ingresos y el Presupuesto de Egresos y aquélla entre los ingresos y los gastos en los presupuestos de las entidades;
 
-XVI. Dependencias: la Procuraduría General del Estado y Secretarías de despacho incluyendo a sus respectivos órganos administrativos desconcentrados, conforme a lo dispuesto en la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XVI. Dependencias: Gubernatura, Secretarías de despacho incluidas en ellas a los órganos administrativos desconcentrados; Procuraduría General de Justicia del Estado; Consejería Jurídica del Gobierno del Estado; Órganos Auxiliares que dependen directamente del Gobernador del Estado, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
 
 XVII. Economías: los remanentes de recursos no devengados del presupuesto modificado;
 
@@ -91,7 +99,9 @@ XVIII. Eficacia en la aplicación del gasto público: lograr en el ejercicio fis
 
 XIX. Eficiencia en el ejercicio del gasto público: el ejercicio del Presupuesto de Egresos en tiempo y forma, en los términos de esta Ley y demás disposiciones aplicables;
 
-XX. Ejecutores de gasto: los Poderes Legislativo y Judicial, y los Órganos Autónomos, a los que se asignen recursos del Presupuesto de Egresos a través de los ramos autónomos, así como de la gubernatura, dependencias y entidades del Poder Ejecutivo, que realizan las erogaciones a que se refiere el artículo 4 de esta Ley con cargo al Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XX. Ejecutores de gasto: Los Poderes Legislativo y Judicial; Órganos Autónomos por disposición constitucional y legal; dependencias y entidades del Poder Ejecutivo que realizan las erogaciones a que se refiere el artículo 4 de esta Ley con cargo al Presupuesto de Egresos;
 
 XXI. Endeudamiento neto: la diferencia entre las disposiciones y amortizaciones efectuadas de las obligaciones constitutivas de deuda pública, al cierre del ejercicio fiscal;
 
@@ -141,11 +151,11 @@ XLIII. Programas de inversión: las acciones que implican erogaciones de gasto d
 
 XLIV. Proyectos de inversión: las acciones que implican erogaciones de gasto de capital destinadas a obra pública en infraestructura así como los originados por los estudios, diseño ejecución y evaluación de las mismas;
 
-XLV. Ramo: la previsión de gasto con el mayor nivel de agregación en el Presupuesto de Egresos;
+XLV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
-XLVI. Ramos Administrativos: los ramos por medio de los cuales se asignan recursos en el Presupuesto de Egresos a las dependencias y entidades del Poder Ejecutivo;
+XLVI. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
-XLVII. Ramos Autónomos: los ramos por medio de los cuales se asignan recursos en el Presupuesto de Egresos a los Poderes Legislativo y Judicial, y a los Órganos Autónomos;
+XLVII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
 XLVIII. Reglamento: el Reglamento de la Ley Estatal de Presupuesto y Responsabilidad Hacendaría;
 
@@ -173,7 +183,9 @@ LIX. Unidades de administración: los órganos o unidades administrativas de los
 
 LX. Unidad ejecutora: las áreas administrativas de los Poderes Legislativo, Judicial, Ejecutivo, Órganos Autónomos y órganos auxiliares de colaboración que llevan a cabo las actividades y actos previstos en los programas y subprogramas aprobados que sirven de base para la determinación del Presupuesto de Egresos que ejercerán en cada ejercicio; y
 
-LXI. Unidad responsable: los Poderes Legislativo y Judicial, los Órganos Autónomos; las dependencias y las entidades del Poder Ejecutivo, obligadas a la rendición de cuentas sobre los recursos humanos, materiales y financieros que administra para contribuir al cumplimiento de los programas comprendidos en el Plan Estatal de Desarrollo.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+LXI. Unidad responsable: Para efectos presupuestales los Poderes Legislativo y Judicial; Órganos Autónomos, dependencias y entidades del Poder Ejecutivo, obligadas a rendir cuentas sobre la aplicación, ejercicio, control y evaluación de los programas comprendidos en el Presupuesto de Egresos y que contribuyen al cumplimiento del Plan Estatal de Desarrollo.
 
 Los conceptos utilizados en la presente Ley que requieran ser precisados y que no se encuentren incluidos en este apartado, deberán incluirse en el Reglamento.
 
@@ -191,7 +203,9 @@ El gasto público estatal comprende las erogaciones por concepto de Gasto Corrie
 
 Los Ejecutores de gasto serán responsables de planear, programar, presupuestar sus actividades institucionales, así como establecer medidas para la administración interna, controlar y evaluar sus actividades.
 
-El ejercicio del presupuesto autorizado, resguardo y custodia de la documentación justificativa y comprobatoria es responsabilidad de los Ejecutores de gasto.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+El ejercicio del presupuesto, resguardo y custodia de la documentación justificativa y comprobatoria es responsabilidad de los Ejecutores de gasto.
 
 Los Ejecutores de gasto están obligados a rendir cuentas por la administración y ejercicio de los recursos públicos en los términos de la presente Ley y demás disposiciones aplicables.
 
@@ -225,9 +239,11 @@ Los Ejecutores de gasto público que cuenten con autonomía presupuestaria deber
 
 En lo conducente la Auditoría Superior del Estado deberá observar lo señalado en el presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 6.
 
-El Ejecutivo Estatal, por conducto de la Secretaría, estará a cargo de la integración de la programación y presupuestación del gasto público correspondiente a las Ejecutoras del gasto adscritas al Poder Ejecutivo. El control de dicho gasto corresponderá a la Secretaría y a la Contraloría, en el ámbito de sus respectivas competencias. Asimismo, la Contraloría inspeccionará y vigilará el cumplimiento de las disposiciones de esta Ley y de las que de ella emanen, respecto de dicho gasto.
+La integración de la programación y presupuestación del gasto público correspondiente a los Ejecutores de gasto adscritos al Poder Ejecutivo corresponderá a la Secretaría. El control, inspección y vigilancia de dicho gasto corresponderá a la Contraloría.
 
 La evaluación del gasto público será realizada por la Instancia Técnica de Evaluación.
 
@@ -389,7 +405,9 @@ En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en 
 
 I. La disminución de alguno de los rubros de ingresos aprobados en la Ley de Ingresos, podrá compensarse con el incremento que, en su caso, observen otros rubros de ingresos aprobados en dicha Ley, salvo en el caso en que estos últimos tengan un destino específico por disposición expresa de leyes de carácter fiscal o conforme a éstas se cuente con autorización de la Secretaría, para utilizarse en un fin específico, así como tratándose de ingresos que por cualquier otro concepto perciban las entidades. En caso de que no pueda realizarse la compensación para mantener la relación de ingresos y gastos aprobados o ésta resulte insuficiente, se procederá en los términos de la siguiente fracción;
 
-II. La disminución de los ingresos totales del Gobierno Estatal, asociada a una menor recaudación de ingresos tributarios, se compensará con la reducción de los montos aprobados en los presupuestos de la (sic) dependencias, entidades y programas, conforme a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+1 (SIC). La disminución de los ingresos totales del Gobierno Estatal, se compensará con la reducción de los montos aprobados en los presupuestos de las dependencias, entidades y programas, conforme a lo siguiente:
 
 a) Los ajustes deberán realizarse preferentemente en los siguientes rubros:
 
@@ -403,9 +421,13 @@ iv) Los ahorros y economías presupuestarios que se determinen con base en los c
 
 En caso de que los ajustes anteriores no sean factibles o suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto siempre y cuando se procure no afectar programas sociales;
 
-b) En el caso de que la contingencia represente una reducción equivalente de hasta el tres por ciento de los ingresos por impuestos a que se refiera la Ley de Ingresos, el Ejecutivo Estatal informará al Congreso del Estado en los siguientes 15 días hábiles en que se haya determinado la disminución de ingresos, un informe que contenga el monto de gasto programable a reducir y la composición de dicha reducción por dependencia y entidad;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-c) En el caso de que la contingencia sea de tal magnitud que represente una reducción equivalente a un monto superior al tres por ciento de los ingresos por impuestos a que se refiera la Ley de Ingresos, el Ejecutivo Estatal enviará a la Legislatura en los siguientes 15 días hábiles a que se haya determinado la disminución de ingresos, el monto de gasto a reducir y una propuesta de composición de dicha reducción por dependencia y entidad.
+b) En el caso de que la contingencia represente una reducción equivalente de hasta el tres por ciento de los ingresos a que se refiera la Ley de Ingresos, el Ejecutivo Estatal informará al Congreso del Estado en los siguientes 15 días hábiles en que se haya determinado la disminución de ingresos, un informe que contenga el monto de gasto programable a reducir y la composición de dicha reducción por dependencia y entidad;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+c) En el caso de que la contingencia sea de tal magnitud que represente una reducción equivalente a un monto superior al tres por ciento de los ingresos a que se refiera la Ley de Ingresos, el Ejecutivo Estatal enviará a la Legislatura en los siguientes 15 días hábiles a que se haya determinado la disminución de ingresos, el monto de gasto a reducir y una propuesta de composición de dicha reducción por dependencia y entidad.
 
 El Congreso del Estado, por conducto de la Comisión de Presupuesto y Programación, en un plazo de 15 días hábiles a partir de la recepción de la propuesta, analizará la composición de ésta, con el fin de proponer, en su caso, modificaciones a la composición de la misma, en el marco de las disposiciones generales aplicables. El Ejecutivo Estatal, con base en la opinión de la Legislatura, resolverá lo conducente de acuerdo a las prioridades aprobadas en el presupuesto informando de ello a la misma. En caso de que el Congreso del Estado no emita opinión dentro de dicho plazo, procederá la propuesta enviada por el Ejecutivo Estatal.
 
@@ -471,19 +493,23 @@ Las entidades se agruparán en el Presupuesto de Egresos en dos categorías: ent
 
 Las entidades procurarán generar ingresos suficientes para cubrir su costo de operación, sus obligaciones legales y fiscales y, dependiendo de su naturaleza y objeto, un aprovechamiento para el Estado por el patrimonio invertido.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
-Los programas operativos anuales deberán sujetarse a la estructura programática aprobada por la Secretaría, la cual contendrá como mínimo:
+Los programas operativos anuales deberán sujetarse a la estructura programática aprobada por la Secretaría, los cuales contendrán como mínimo:
 
-I. Las categorías comprenderán la finalidad, función, subfunción, eje, programa, subprograma, proyecto, actividad institucional; y
+I. Categorías: integradas por finalidad, función, subfunción, eje, programa, subprograma, proyecto, actividad institucional, y
 
-II. Los elementos comprenderán la misión, visión, objetivos, metas, indicadores de desempeño, Unidad responsable y Unidad ejecutora, en congruencia con el Plan Estatal de Desarrollo, programas sectoriales y regionales.
+II. Elementos: integrados por misión, visión, objetivos, metas, indicadores de desempeño, Unidad responsable y Unidad ejecutora, en congruencia con el Plan Estatal de Desarrollo, programas sectoriales y regionales.
 
-La estructura programática facilitará la vinculación de la programación de los Ejecutores con el Plan Estatal de Desarrollo y los programas, y deberá incluir indicadores de desempeño con sus correspondientes metas. Los indicadores de desempeño corresponderán a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año expresado en términos de eficiencia, eficacia, economía y calidad. Estos indicadores serán la base para el funcionamiento del Sistema de Evaluación del Desempeño.
+La estructura programática facilitará la vinculación de la programación con el Plan Estatal de Desarrollo y deberá incluir indicadores de desempeño con sus correspondientes metas.
 
-Los entes públicos y los Poderes Legislativo y Judicial incluirán los indicadores de desempeño y metas que faciliten el examen de sus programas operativos anuales.
+Los indicadores de desempeño corresponderán a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un tiempo determinado en términos de eficiencia, eficacia, economía y calidad. Estos indicadores serán la base para el funcionamiento del Sistema de Evaluación del Desempeño.
 
-La estructura programática deberá ser sencilla y facilitar el examen del Presupuesto y sólo sufrirá modificaciones cuando éstas tengan el objetivo de fortalecer dichos principios, en los términos de las disposiciones aplicables.
+Los Poderes Legislativo y Judicial, Órganos autónomos, y las Dependencias y Entidades del Poder Ejecutivo, incluirán los indicadores de desempeño y metas que faciliten el examen de sus programas operativos anuales.
+
+La estructura programática deberá ser sencilla y facilitar el examen del Presupuesto y sólo sufrirá modificaciones cuando éstas tengan el objetivo de fortalecer los criterios a que se refiere el artículo 1 de la presente Ley.
 
 ###### Artículo 26.
 
@@ -621,7 +647,7 @@ e) Disposiciones en materia de transparencia fiscal e información que se deber�
 
 III. En caso de considerarse ingresos por financiamiento, se deberá incluir en la Ley de Ingresos:
 
-a) Los ingresos por financiamiento; (sic)
+a) Los ingresos por financiamiento;
 
 ###### Artículo 36.
 
@@ -837,47 +863,73 @@ Los Ejecutores de gasto deberán incluir en los informes trimestrales un reporte
 
 En los casos de contingencias causadas por desastres naturales, los Ejecutores de gasto estarán facultades (sic) para llevar a cabo la contratación de servicios, bienes u obra pública de manera directa justificando la premura y oportunidad en el resguardo de los derechos humanos.
 
-### CAPÍTULO SEGUNDO. DE LA MINISTRACIÓN, El PAGO Y LA CONCENTRACIÓN DE RECURSOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEGUNDO. DEL CALENDARIO DE PRESUPUESTO, PAGO Y CONCENTRACIÓN DE RECURSOS
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 46.
 
-En el ejercicio de sus presupuestos, las dependencias y entidades se sujetarán a los calendarios de presupuesto autorizados en los términos de las disposiciones aplicables.
+Las Dependencias y Entidades deberán proponer a la Secretaría en sus programas operativos anuales sus calendarios de presupuesto en términos mensuales.
 
-La Secretaría queda facultada para elaborar los calendarios de presupuesto de las dependencias y entidades de conformidad con los montos aprobados por el Congreso del Estado.
+La Secretaría realizará el análisis de la propuesta de calendario de presupuesto de los Ejecutores de gasto e informará de su viabilidad considerando en todo tiempo el calendario estimado de ingresos y de la disponibilidad financiera proyectada para el ejercicio fiscal.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+La Unidad de administración de cada Dependencia y Entidad deberán comunicar los calendarios de presupuesto a sus respectivas unidades ejecutoras.
 
-Los calendarios de presupuesto deberán comunicarse por la Secretaría a los Ejecutores de gasto, así como publicarse en el Periódico Oficial del Estado a más tardar el último día del mes de enero del año que corresponda. A su vez, la Unidad de administración de cada dependencia y entidad deberán comunicar los calendarios de presupuesto correspondientes a sus respectivas áreas administrativas.
+Los Poderes Judicial y Legislativo y Órganos Autónomos por disposición constitucional deberán proponer su calendario de presupuesto considerando en todo tiempo la estimación de ingresos y la disponibilidad financiera que le informe la Secretaría para el ejercicio fiscal.
 
-Los calendarios a que se refiere el párrafo anterior deberán ser en términos mensuales.
+Concertado el calendario de presupuesto con el Ejecutivo del Estado por conducto de la Secretaría procederán a su publicación en el mismo plazo señalado para las Dependencias y Entidades del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+La Secretaría deberá publicar el calendario de presupuesto de las Dependencias y Entidades a más tardar el último día del mes de enero del año que corresponda, así como incluir en los informes trimestrales y Cuenta Pública el cumplimiento de los calendarios de presupuesto por Unidad Responsable y por capítulo de gasto.
 
-La Secretaria deberá incluir en los informes trimestrales y Cuenta Pública el cumplimiento de los calendarios de presupuesto por Unidad responsable y por capítulo de gasto.
+El calendario de presupuesto deberá ponerse a disposición de la ciudadanía en las páginas de internet de los Ejecutores de gasto en el mismo plazo señalado en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 47.
 
-La Secretaría a través de sus diversas oficinas autorizadas para el efecto y utilizando la red bancaria cuando resulte conveniente, efectuará los cobros y los pagos correspondientes a los Ejecutores de gasto.
+La Secretaría a través de la Tesorería efectuará los pagos correspondientes a los proveedores, contratistas y prestadores de servicio del Poder Ejecutivo, utilizando preferentemente la red bancaria.
 
-La ministración de los fondos correspondientes será autorizada en todos los casos por la Secretaría, de conformidad con el Presupuesto de Egresos.
+La entrega de participaciones, aportaciones, subsidios, transferencias a favor de los Municipios del Estado, se realizará mediante transferencia bancaria a las cuentas bancarias productivas específicas que los Municipios comuniquen a la Secretaría, de conformidad con lo señalado en las disposiciones legales aplicables al origen del recurso.
 
-Los Poderes Legislativo, Judicial y los Órganos Autónomos, recibirán y manejarán sus recursos así como harán sus pagos a través de sus propias tesorerías o sus equivalentes.
+Los Poderes Legislativo, Judicial y los Órganos Autónomos, recibirán y manejarán sus presupuestos así como efectuaran sus pagos a través de sus propias tesorerías o equivalentes.
 
-El Ejecutivo Estatal, por conducto de la Secretaría, podrá disponer que los fondos y pagos correspondientes a las entidades, se manejen, temporal o permanentemente de manera centralizada. Asimismo, podrá suspender, diferir o determinar reducciones en la ministración de los recursos, cuando las dependencias y entidades no cumplan con las disposiciones de esta Ley y el Reglamento o se presenten situaciones supervenientes que puedan afectar negativamente la estabilidad financiera, reportando al respecto en los Informes trimestrales, de Avance de Gestión y la Cuenta Pública.
+La Secretaría por conducto de la Tesorería, realizará los trámites y suscripción de instrumentos jurídicos ante las instituciones del Sistema Financiero para la administración, inversión y recaudación de los ingresos que constituyan la hacienda del Estado.
 
-La ministración de los recursos atenderá primordialmente el principio de oportunidad y respeto a los calendarios de gasto que se elaborarán con base en las prioridades y requerimientos de las Ejecutoras del gasto, con el objeto de lograr una mayor eficacia en el uso de los recursos públicos.
+Por lo que deberá informar trimestralmente la relación de cuentas bancarias productivas específicas en las cuales se depositaron los recursos federales transferidos en los informes trimestrales y Cuenta Pública.
+
+Las dependencias y entidades a las que se les autorice la administración y ejercicio de recursos federales y estatales, deberán informar a la Secretaría el listado de cuentas bancarias productivas específicas e informarán mensualmente sobre los rendimientos financieros obtenidos en el periodo.
+
+Los rendimientos financieros obtenidos en el manejo de recursos públicos federales y estatales no podrán ser destinados y ejercidos sin que previamente exista la autorización de las instancias normativas federales. Es responsabilidad de la Dependencia o Entidad informar de tal situación a la Secretaría a efecto de que está integre en los informes trimestrales y Cuenta Pública el ejercicio de los recursos federales.
+
+Las Dependencias y Entidades que administren y ejerzan recursos públicos serán responsables de integrar cada uno de los reportes e informes a que se obligue en las disposiciones legales aplicables, convenios, acuerdos, anexos, entre otros, así como de entregar toda la información a los órganos de control y fiscalización federales y estatales que les requieran.
+
+Las economías y ahorros presupuestarios de recursos federales y estatales con vencimiento al cierre del ejercicio fiscal deberán ser depositados a más tardar el 15 de enero del año que corresponde a la cuenta bancaría productiva específica receptora de los recursos federales a cargo de la Secretaría.
+
+Las Dependencias y Entidades a las que se les autorice fondo rotatorio deberán suscribir contratos de apertura de cuentas bancarias productivas específicas para tal efecto.
+
+Las Dependencias y Entidades deberán informar a la Secretaría el listado de sus proveedores y contratistas mediante el procedimiento, formatos y plazos que se determinen en el Reglamento.
 
 ###### Artículo 48.
 
 Los Ejecutores de gasto realizarán los cargos al Presupuesto de Egresos, a través de cuentas por liquidar certificadas.
 
-La Secretaría podrá realizar cargos a los presupuestos de las dependencias y entidades en el presupuesto en caso de incumplimiento de normas o pagos, conforme a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-I. La Secretaría solicitará a la dependencia que efectúe el cargo a su presupuesto. Si en un plazo de 5 días hábiles la dependencia no realizara el cargo, la Secretaría elaborará una cuenta por liquidar certificada especial para efectuarlo;
+La Secretaría podrá realizar cargos a los presupuestos de las Dependencias y Entidades en el presupuesto en caso de incumplimiento de normas, conforme a lo siguiente:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+I. La Secretaría solicitará a la dependencia o entidad que efectúe el cargo a su presupuesto. Si en un plazo de 5 días hábiles la dependencia o entidad no realizara el cargo, la Secretaría elaborará una cuenta por liquidar certificada especial para efectuarlo, y
 
 II. La dependencia cuyo presupuesto se haya afectado por la expedición de cuentas por liquidar certificadas especiales deberá efectuar el registro contable y presupuestario correspondiente; y
 
-III. En caso de presentarse incumplimiento a lo dispuesto en este artículo, la Secretaría podrá suspender las ministraciones de fondos a la dependencia o entidad correspondiente.
+III. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría podrá suspender las ministraciones de fondos a la dependencia o entidad correspondiente en caso de incumplimiento a lo dispuesto en este artículo.
 
 ###### Artículo 49.
 
@@ -897,13 +949,29 @@ Queda prohibido realizar erogaciones al final del ejercicio con cargo a ahorros 
 
 Las dependencias y entidades que al cierre del ejercicio conserven recursos de origen federal que no se encuentren efectivamente devengados y contabilizados observarán lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su reglamento, reglas de operación de los Programas y demás disposiciones aplicables, a fin de realizar su reintegro a la Tesorería de la Federación incluyendo sus rendimientos financieros.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
-La Secretaría expedirá las disposiciones generales a que se sujetarán las garantías que deban constituirse a favor de las dependencias y entidades en los actos y contratos que celebren.
+En la celebración de contratos regulados por la Ley para Adquisiciones, Arrendamiento y Servicios del Estado, así como la Ley de Obras Públicas y Servicios Relacionados del Estado de Oaxaca, las Dependencias y Entidades deberán exigir las garantías a las que se refieren dichas leyes, verificar su autenticidad e informar a la Secretaría trimestralmente la situación que guardan.
 
-La Secretaría será la beneficiaria de todas las garantías que se otorguen a favor de las dependencias y entidades. La Secretaría conservará la documentación respectiva y, en su caso, ejercitará los derechos que correspondan, a cuyo efecto y con la debida oportunidad se le deberán de remitir la información y documentos necesarios.
+La Secretaría será la beneficiaria de todas las garantías que se otorguen a favor de las Dependencias y Entidades y, en su caso, ejercitará los derechos que correspondan.
+
+Se reconocen únicamente las siguientes garantías:
+
+I. Póliza de Fianza;
+
+II. Cheque certificado, y
+
+III. Billete de Depósito.
+
+En los casos en los que sea procedente hacer efectiva una garantía, la Dependencia o Entidad deberá integrar el expediente correspondiente con las constancias que justifiquen el incumplimiento y por consecuencia la exigibilidad de la garantía, remitiéndolo oportunamente mediante oficio a la Secretaría, conforme a lo establecido en el Reglamento de esta Ley. La omisión en el aviso y entrega oportuna del expediente o de documentos para la efectividad de garantías, se informará a la Contraloría para que en el ámbito de su competencia inicie el procedimiento de responsabilidad a que haya lugar.
+
+Los requisitos aplicables a las garantías que se constituyan a favor de la Secretaría, se establecerán en el Reglamento de esta Ley.
 
 Los Poderes Legislativo, Judicial y los Órganos Autónomos, por conducto de sus respectivas Unidades de administración, establecerán en el ámbito de su competencia los requisitos aplicables a las garantías que se constituyan a su favor.
+
+Los Poderes Legislativo, Judicial y los Órganos Autónomos establecerán en sus disposiciones legales y administrativas los requisitos aplicables a las garantías que se constituyan a su favor.
 
 ###### Artículo 52.
 
@@ -1099,19 +1167,29 @@ La prescripción sólo se interrumpe por gestión de cobro realizada por escrito
 
 Cuando algún servidor público fallezca y tuviere cuando menos una antigüedad en el servicio de seis meses, los familiares o quienes hayan vivido con él en la fecha del fallecimiento y se hagan cargo de los gastos de inhumación, recibirán hasta el importe de dos meses de las percepciones ordinarias que estuviere percibiendo en esa fecha.
 
-### CAPÍTULO SEXTO. DE LOS SUBSIDIOS, TRANSFERENCIAS Y DONATIVOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEXTO. DE LAS TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 70.
 
-El Ejecutivo Estatal, por conducto de la Secretaría, autorizará la ministración de los subsidios y transferencias que con cargo a los presupuestos de las dependencias y, en su caso de las entidades, se aprueben en el Presupuesto de Egresos. La Secretaría podrá reducir, suspender o terminar la ministración de subsidios y transferencias cuando las dependencias y entidades no cumplan lo establecido en esta Ley, informando al Congreso del Estado.
+El Ejecutivo Estatal, por conducto de la Secretaría, autorizará las transferencias que con cargo a los presupuestos de las Entidades y en su caso de las Dependencias, se aprueben en el Presupuesto de Egresos de la Federación.
 
-Los titulares de las dependencias y entidades, con cargo a cuyos presupuestos se autorice la ministración de subsidios y transferencias, serán responsables, en el ámbito de sus competencias, de que éstos se otorguen y ejerzan conforme a las disposiciones generales aplicables.
+La recepción de los recursos federales por parte de las Entidades conlleva la obligación de expedir a favor del Gobierno del Estado comprobante fiscal digital por el monto total transferido.
 
-La Secretaría podrá suspender las ministraciones de recursos a los órganos administrativos desconcentrados o a las entidades, cuando éstos no cumplan con las disposiciones generales aplicables.
+Las Dependencias y Entidades receptoras de recursos federales estarán obligadas a la retención y entero de los recursos destinados a la Contraloría y Auditoría Superior del Estado.
+
+Las asignaciones presupuestales aprobadas en el Presupuesto de Egresos a los Poderes Legislativo y Judicial, y Órganos Autónomos se ministrarán en las partidas presupuestales indicadas en los programas operativos anuales y de conformidad con sus calendarios de presupuesto.
+
+Los titulares de las Dependencias y Entidades, con cargo a cuyos presupuestos se autoricen subsidios, serán responsables, en el ámbito de sus competencias, de que éstos se otorguen y ejerzan conforme a las disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 71.
 
-Los subsidios deberán sujetarse a los criterios de objetividad, equidad, transparencia, publicidad, selectividad y temporalidad, para lo cual las dependencias y entidades que los otorguen deberán:
+Las Ayudas deberán sujetarse a los criterios de objetividad, equidad, transparencia, publicidad, selectividad y temporalidad, para lo cual las dependencias y entidades que los otorguen deberán:
 
 I. Identificar con precisión a la población objetivo, tanto por grupo específico como por región del Estado y Municipios;
 
@@ -1135,11 +1213,19 @@ X. Procurar que sea el medio más eficaz y eficiente para alcanzar los objetivos
 
 XI. Reportar su ejercicio en los informes trimestrales, detallando los elementos a que se refieren las fracciones I a IX de este artículo, incluyendo el importe de los recursos.
 
-Las transferencias destinadas a cubrir el déficit de operación y los gastos de administración asociados con el otorgamiento de subsidios de las entidades y órganos administrativos desconcentrados, serán otorgadas de forma excepcional y temporal, siempre que se justifique ante la Secretaría su beneficio económico y social. Estas transferencias se sujetarán a lo establecido en las fracciones V, VI y VIII a X, de este artículo.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Las asignaciones destinadas a cubrir el déficit de operación y los gastos de administración asociados con el otorgamiento de subsidios de las Entidades, serán otorgadas de forma excepcional y temporal, siempre que se justifique ante la Secretaría su beneficio económico y social. Estas asignaciones se sujetarán a lo establecido en las fracciones V, VI y VIII a X, de este artículo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría podrá suspender el trámite de cuentas por liquidar certificadas de las Dependencias y Entidades, cuando éstas no cumplan con las disposiciones contenidas en la presente Ley.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 72.
 
-Las dependencias y entidades deberán informar a la Secretaría previamente a la realización de cualquier modificación en el alcance o modalidades de sus programas, políticas de precios, adquisiciones, arrendamientos, garantías de compra o de venta, cambios en la población objetivo, o cualquier otra acción que implique variaciones en los subsidios y las transferencias. Cuando dichas modificaciones impliquen una adecuación presupuestaria en los alcances de los programas, se requerirá autorización de la Secretaría conforme a lo establecido en los artículos 54 y 55 de esta Ley.
+Las Dependencias y Entidades deberán informar a la Secretaría previamente a la realización de cualquier modificación en el alcance o modalidades de sus programas, políticas de precios, adquisiciones, arrendamientos, garantías de compra o de venta, cambios en la población objetivo, o cualquier otra acción que implique variaciones en los subsidios y ayudas. Cuando dichas modificaciones impliquen una adecuación presupuestaria en los alcances de los programas, se requerirá autorización de la Secretaría conforme a lo establecido en los artículos 54 y 55 de esta Ley.
 
 ###### Artículo 73.
 
@@ -1428,3 +1514,7 @@ P.O. 6 DE SEPTIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor rango, que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el uno de enero del dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
