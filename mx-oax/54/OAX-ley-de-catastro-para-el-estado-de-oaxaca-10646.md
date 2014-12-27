@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-catastro-para-el-estado-de-oaxaca-10646"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2012-12-22"
+last_updated: "2014-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 16 de diciembre de 1996.
 
@@ -101,7 +103,7 @@ VI. La realización de los estudios técnicos para la identificación y georrefe
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
-VII. Integrar y mantener actualizado el Inventario de Infraestructura y equipamiento urbano del Estado; y (sic),
+VII. Integrar y mantener actualizado el Inventario de Infraestructura y equipamiento urbano del Estado; y,
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -221,17 +223,21 @@ III. Suscribir los convenios de coordinación en materia de Catastro que se requ
 
 IV. Las demás que expresamente determine esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 11.
 
-Compete al Secretario de Finanzas del Gobierno del Estado de Oaxaca:
+Compete al Secretario de Finanzas del Poder Ejecutivo del Estado:
 
 I. Vigilar el cumplimiento de las disposiciones de la presente Ley y su Reglamento.
 
 II. Supervisar y evaluar el funcionamiento del Instituto Catastral y, en su caso, instruir la práctica de visitas de inspección y vigilancia a dicho órgano, a fin de procurar, en el ámbito de la esfera administrativa, su eficiencia y el debido ejercicio y destino de su presupuesto.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-III. Celebrar con los Ayuntamientos de los Municipios del Estado los convenios de coordinación que estos requieran para que el Ejecutivo del Estado, por su conducto, se haga cargo de las funciones relacionadas con la administración de las contribuciones relativas a la propiedad inmobiliaria y para otorgar asesoría y asistencia técnica para la elaboración de las tablas de valores unitarios de suelo y construcciones.
+III. Celebrar con los Municipios del Estado los convenios de coordinación que éstos requieran para que el Ejecutivo del Estado, por su conducto, se haga cargo de las funciones relacionadas con la administración de las contribuciones relativas a la propiedad inmobiliaria;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 Asimismo, podrá celebrar convenios de colaboración y asistencia técnica en materia catastral, en la utilización de la Información digital del sistema cartográfico estatal y la integración de un banco de datos territorial con propósito de uso multifinalitario, con las dependencias y organismos de carácter federal, estatal y municipal.
 
@@ -311,17 +317,17 @@ II. Ejecutar las normas, políticas y lineamientos que en materia de Catastro di
 
 III. Expedir las normas administrativas e instructivos técnicos para la realización de las actividades y operaciones catastrales de conformidad con la presente Ley y su Reglamento.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-IV. Proponer al Consejo Consultivo Catastral las normas técnicas y administrativas para la formulación del Programa Estatal de Catastro, considerando los Planes y Programas de Desarrollo Urbano, mismos que orientarán a las autoridades competentes para la actualización de la (sic) zonas catastrales y las tablas de valores unitarios de suelo y construcciones, así como la Identificación, registro, valuación, revaluación y deslinde de los bienes inmuebles ubicados, en el territorio del Estado, en estricto apego a las tablas de valores unitarios de suelo y construcciones aprobadas por el Congreso del Estado.
+IV. Proponer al Consejo Consultivo Catastral las normas técnicas y administrativas para la formulación del Programa Estatal de Catastro, considerando los Planes y Programas de Desarrollo Urbano, mismos que orientarán a las autoridades competentes para la actualización de las Tablas de Valores Unitarios de Suelo y Construcciones, los Planos de Zonificación Catastral y el Instructivo Técnico de Valuación; así como la identificación, registro, valuación, revaluación y deslinde de los bienes inmuebles ubicados en el territorio del Estado, en estricto apego a los ordenamientos antes citados;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 V. Coordinar la integración del sistema cartográfico estatal con propósito de uso multifinalitario.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-VI. Determinar el valor de mercado de los bienes inmuebles, en estricto apego a las tablas de valores unitarios de suelo y construcciones aprobadas por el Congreso del Estado, mismo que servirá de base para establecer la cuantía en las operaciones de adquisición, enajenación o renta en las que participe el Estado. Dicho valor servirá de base para el registro contable de bienes adquiridos.
+VI. Determinar el valor de mercado de los bienes inmuebles, mismo que servirá de base para establecer la cuantía en las operaciones de adquisición, enajenación o renta en las que participe el Estado. Dicho valor servirá de base para el registro contable de los bienes adquiridos;
 
 VII. Determinar en forma precisa la localización de cada bien inmueble.
 
@@ -331,9 +337,9 @@ VII. Determinar en forma precisa la localización de cada bien inmueble.
 
 VIII. Asignar cuando así proceda, cuenta catastral y clave catastral a cada bien inmueble.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-IX. Determinar los valores catastrales de cada bien inmueble conforme a las disposiciones contenidas en esta Ley, su Reglamento y la zonificación catastral en estricto apego a las tablas de valores unitarios de suelo y construcciones aprobados por el Congreso del Estado;
+IX. Determinar los valores catastrales de cada bien inmueble en estricto apego a las Tablas de Valores Unitarios de Suelo y Construcciones, los Planos de Zonificación Catastral y el Instructivo Técnico de Valuación aprobados por el Congreso del Estado, y asimismo conforme a lo dispuesto por la presente Ley y su Reglamento;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -417,11 +423,11 @@ XXXI. Fijar los lineamientos respectivos para la autorización de los avalúos q
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
-XXXII. Sistematizar la información estadística y generar los indicadores de gestión que permitan determinar la contribución del Instituto al fortalecimiento de los ingresos municipales, y a evaluar el funcionamiento de las unidades que lo integran; y (sic),
+XXXII. Sistematizar la información estadística y generar los indicadores de gestión que permitan determinar la contribución del Instituto al fortalecimiento de los ingresos municipales, y a evaluar el funcionamiento de las unidades que lo integran; y,
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-XXXIII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2011)
+XXXIII. Elaborar las propuestas de Planos de Zonificación Catastral;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -567,7 +573,7 @@ IX. Realizar estudios técnicos para la elaboración de las tablas de valores un
 
 X. Zonificación catastral.
 
-XI. Elaboración y determinación de las tipologías constructivas; y (sic)
+XI. Elaboración y determinación de las tipologías constructivas; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -575,11 +581,9 @@ XI. Elaboración y determinación de las tipologías constructivas; y (sic)
 
 XII. Certificación de los avalúos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
-
-XIII. Cancelación de registro de cuenta catastral en el Sistema de Información Territorial por resolución judicial o por duplicidad de cuentas que amparen el mismo bien inmueble.
+XIII. Cancelación de registro de cuenta catastral en el Sistema de Información Territorial por resolución judicial, o cuando se trate de duplicidad de cuentas, y éstas amparen el mismo bien inmueble a nombre del mismo poseedor o propietario; y
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -591,23 +595,15 @@ XIV. Deslinde Catastral.
 
 El cobro de los derechos que corresponden a las operaciones catastrales señaladas en el artículo 23 BIS de esta Ley, se determinaran con base en la Ley Estatal de Derechos.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-Para determinar la base de los derechos por concepto de servicios catastrales, se tomará el valor que resulte mayor de los siguientes:
+Para efectos de esta ley se entiende por:
 
-a) El valor de la operación;
+a) Valor de la operación: aquel que fijen las partes en el acto traslativo de dominio; dicho valor deberá ser declarado por los notarios públicos o cualquier otro fedatario público que intervengan en la celebración de contratos que tengan por objeto transmitir o modificar el dominio directo de un bien inmueble; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) Tabla de Valores Unitarios de Suelo y Construcciones: aquella que contiene los valores de mercado de la propiedad raíz.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
-
-b) El valor que resulte de aplicar las Tabla (sic) de Valores Unitarios de Suelo y Construcciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
-
-Para efectos de esta Ley se entiende por valor de la operación, aquel que fijen las partes en el acto traslativo de dominio; dicho valor deberá ser declarado por los notarios públicos o cualquier otro fedatario público que intervengan en la celebración de contratos que tengan por objeto transmitir o modificar el dominio directo de un bien inmueble; y por Tabla de Valores, como aquella que contiene los valores de la propiedad raíz, para determinar los derechos por operaciones catastrales.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -703,13 +699,11 @@ En aquellos casos en que no sea posible el acceso al inmueble por causas no impu
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 33.
 
-En el caso de un bien inmueble no registrado por causa imputable al propietario o poseedor, y en aquellos casos en que se hayan omitido los avisos y manifestaciones que esta ley establece, el avalúo catastral surtirá efectos desde la fecha en que debió haberse efectuado el registro sin exceder de cinco años.
+En el caso de un bien inmueble no registrado por causa imputable al propietario o poseedor, y en aquellos casos en que se hayan omitido los avisos y manifestaciones que esta Ley establece, el avalúo catastral surtirá efectos desde la fecha en que debió haberse efectuado el registro.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -799,15 +793,27 @@ De no cumplirse lo establecido en este artículo, los fedatarios públicos no au
 
 Para efectos de la valuación de los bienes inmuebles en particular, el personal del Instituto Catastral del Estado de Oaxaca o Perito Valuador autorizado, se sujetarán a las disposiciones aplicables que para las visitas domiciliarias prevé el Código Fiscal del Estado. Si los propietarios o poseedores se opusieran en cualquier forma a la visita, el avalúo se hará administrativamente con base en los elementos de que se disponga, apoyándose en la cartografía, en Tablas de Valores Unitarios de Suelo y Construcciones y el Instructivo Técnico de Valuación, sin perjuicio de las sanciones correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 46.
 
-Para la mejor valuación de los bienes inmuebles en particular, el Instituto podrá:
+Para la valuación de los bienes inmuebles en particular, el Instituto deberá:
 
 I. Revisar y confrontar las manifestaciones o avisos presentados por los propietarios o poseedores de bienes inmuebles con los datos que obren en su poder.
 
 II. Solicitar los informes que estime necesarios de las oficinas públicas o de los fedatarios.
 
-III. Calificar las manifestaciones o avisos y exigir a los interesados que las aclaren, comprueben o ratifiquen cuando sea necesario.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+III. Calificar las manifestaciones o avisos y exigir a los interesados que las aclaren, comprueben o ratifiquen cuando sea necesario; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+IV. Realizar verificaciones físicas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+El Instituto podrá utilizar las herramientas geográficas de uso libre, para la correcta identificación de los bienes inmuebles.
 
 ###### ARTÍCULO 47.
 
@@ -877,9 +883,7 @@ IX. Las políticas de ordenamiento del territorio que sean aplicables; y
 
 X. Los elementos físicos, sociales, económicos, históricos o cualquier otro que influya en el valor de los predios.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-Cumplido lo anterior, se remitirán las propuestas y opiniones técnicas a que se refiere este artículo al Congreso del Estado, para su aprobación; concluido el término de su vigencia, se prorrogará la aplicación de las mismas hasta en tanto no se publiquen nuevas tablas de valores unitarios de suelo y construcciones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -895,19 +899,15 @@ Para tales efectos, los municipios podrán celebrar convenios de coordinación c
 
 ### CAPÍTULO OCTAVO. DE LA VALUACIÓN CATASTRAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 49.
 
-Para efectos de esta Ley se entenderá por avalúo catastral, el que resulte de la aplicación de las Tablas de Valores Unitarios de Suelo y Construcciones, así como del Instructivo Técnico de Valuación.
+Para efectos de esta Ley se entenderá por valor catastral, el que resulte de la aplicación de las Tablas de Valores Unitarios de Suelo y Construcciones, los Planos de Zonificación Catastral, así como del Instructivo Técnico de Valuación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-El Instructivo Técnico de Valuación que menciona la presente Ley, contendrá los Coeficientes de Mérito, Demérito y el procedimiento para su aplicación, así como los procedimientos de valuación; se entiende por Coeficientes de Mérito y de Demérito, el resultado de aplicar los factores que influyen en el valor del bien inmueble, relativos al suelo y construcciones.
+El Instructivo Técnico de Valuación que menciona la presente Ley, contendrá los factores de Mérito, Demérito y el procedimiento para su aplicación, así como los procedimientos de valuación. Se entiende por factores de Mérito y de Demérito, el resultado de aplicar los factores que influyen en el valor del bien inmueble relativos al suelo y construcciones.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -921,11 +921,9 @@ Para la determinación del valor catastral, el Instituto Catastral del Estado de
 
 I. La información que sobre las características del bien inmueble manifieste el propietario o poseedor, considerando su uso, tipo y ubicación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-II. La información sobre las características del bien inmueble con que cuente el Instituto Catastral del Estado de Oaxaca;
+II. La información sobre las características del bien inmueble con que cuente el Instituto Catastral del Estado de Oaxaca, incluyendo la obtenida en la verificación física;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -933,19 +931,15 @@ II. La información sobre las características del bien inmueble con que cuente 
 
 III. La aplicación del procedimiento de valuación establecido en el Instructivo Técnico de Valuación respectivo; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
+IV. La aplicación de las Tablas de Valores Unitarios de Suelo y Construcciones, los Planos de Zonificación Catastral y el Instructivo Técnico de Valuación vigentes.
 
-IV. La aplicación de las Tablas de Valores Unitarios de Suelo y Construcciones y el Instructivo Técnico de Valuación vigentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 50.
 
-Tratándose de predios que estén fuera de la zonificación del municipio respectivo, para la determinación de los valores catastrales, se tomarán en consideración las Tablas de Valores Unitarios de Suelo y Construcciones, de suelo susceptible de transformación o suelo rústico, atendiendo a la clasificación de bienes inmuebles prevista en el artículo 8 de esta Ley, así como el Instructivo Técnico de Valuación.
+Tratándose de predios que estén fuera de la zonificación del municipio respectivo, para la determinación de los valores catastrales, se tomarán en consideración las Tablas de Valores Unitarios de Suelo y Construcciones, el Instructivo Técnico de Valuación, atendiendo la clasificación de bienes inmuebles prevista en el artículo 8 de esta Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -989,7 +983,7 @@ V. Interponer los recursos previstos en esta Ley.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Conocer los resultados de los avalúos que señala el artículo 17 de esta Ley; y (sic)
+VI. Conocer los resultados de los avalúos que señala el artículo 17 de esta Ley; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1123,7 +1117,9 @@ a) Tener cédula profesional de arquitecto, de ingeniero civil o de alguna carre
 
 b) Los profesionistas que no cumplan con lo señalado en el inciso anterior, deberán contar con cédula relativa a una especialidad o maestría en materia de valuación de inmuebles, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
 
-II. Contar con experiencia mínima de un año en el ejercicio profesional;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+II. Contar con experiencia mínima de un año en materia de valuación inmobiliaria;
 
 III. Contar con la Clave Única de Registro de Población y Registro Federal de Contribuyentes;
 
@@ -1221,11 +1217,9 @@ III. Determinar el valor catastral de los inmuebles ubicados en el Estado de Oax
 
 IV. Realizar la verificación física del inmueble;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
-
-V. Realizar los avalúos observando las Tablas de Valores Unitarios de Suelo y Construcciones y el Instructivo Técnico de Valuación;
+V. Realizar los avalúos observando las Tablas de Valores Unitarios de Suelo y Construcciones, los Planos de Zonificación Catastral y el Instructivo Técnico de Valuación;
 
 VI. Realizar conjuntamente con el personal autorizado por la Secretaría de Finanzas o el Instituto Catastral del Estado de Oaxaca, la verificación física del inmueble objeto de avalúo, en caso de ser requerido; y
 
@@ -1794,3 +1788,9 @@ P.O. 17 DE DICIEMBRE DE 2011.
 P.O. 22 DE DICIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 27 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día uno de enero del año dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se presente la adecuación del salario mínimo desvinculado como unidad de medida para el pago de Derechos y Catastro una vez que el Congreso de la Unión lo apruebe.
