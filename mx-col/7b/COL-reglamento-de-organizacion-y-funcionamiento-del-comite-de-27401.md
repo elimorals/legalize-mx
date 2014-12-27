@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-organizacion-y-funcionamiento-del-comite-de-27401
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-12-14"
-last_updated: "2002-12-14"
+last_updated: "2014-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "COL"
 ---
 # REGLAMENTO DE ORGANIZACION Y FUNCIONAMIENTO DEL COMITE DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL INSTITUTO ELECTORAL DEL ESTADO
 
-REGLAMENTO DE ORGANIZACION Y FUNCIONAMIENTO DEL COMITE DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL INSTITUTO ELECTORAL DEL ESTADO
+REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL COMITÉ DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL INSTITUTO ELECTORAL DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL COMITÉ DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL INSTITUTO ELECTORAL DEL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 14 de diciembre de 2002.
 
@@ -209,3 +211,11 @@ TERCERO: En virtud de la propuesta referida en el considerando III, se aprueba c
 Así lo acordaron por unanimidad los miembros del Consejo General del Instituto Electoral del Estado de Colima, mismos que firman para constancia con el Secretario Ejecutivo que da fe.
 
 MTRO. JOSÉ LUIS GAITAN GAITAN, Consejero Presidente. Rúbrica. LlC. MIGUEL ALCOCER ACEVEDO, Secretario Ejecutivo. Rúbrica. LlCDA. GRISELDA E. EUSEBIO ADAME. Consejera Electoral. Rúbrica. LIC. JOSUÉ NOÉ DE LA VEGA MORALAES. Consejero Electoral. Rúbrica. LIC. JOSÉ ALVAREZ MIRANDA, Consejero Electoral. Rúbrica. LIC. GUSTAVO PUENTE MIRANDA, Consejero Electoral. Rúbrica. LIC. JAVIER FIGUEROA BALDOVINES. Consejero Electoral. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2014.
+
+PRIMERO: El presente reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO: Queda abrogado el reglamento de organización y funcionamiento del Comité de Adquisiciones, Servicios y Arrendamiento del Instituto Electoral del Estado, que fuera aprobado el día 27 de noviembre del año 2002, mediante acuerdo número 04, y todos aquellos que se opongan al presente ordenamiento.
