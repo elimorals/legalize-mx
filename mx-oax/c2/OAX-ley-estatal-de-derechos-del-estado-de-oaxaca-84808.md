@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-del-estado-de-oaxaca-84808"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2014-05-10"
+last_updated: "2014-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -971,7 +973,7 @@ a) Acceso al Museo, por persona: $20.00
 
 ###### Artículo 15.
 
-Por el uso, goce o aprovechamiento de bienes del dominio público del Estado en custodia de la Secretaría de Administración, las personas físicas y morales causarán y pagarán derechos conforme a las siguientes cuotas:(sic)
+Por el uso, goce o aprovechamiento de bienes del dominio público del Estado en custodia de la Secretaría de Administración, las personas físicas y morales causarán y pagarán derechos conforme a las siguientes cuotas:
 
 #### Sección Segunda Bis. Espacios en Instalaciones de Oficinas y Complejos Públicos
 
@@ -1057,10 +1059,6 @@ fracciones anteriores: 24.00
 
 #### Sección Segunda. Registro Público de la Propiedad y del Comercio
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
 ###### Artículo 17.
 
 Las personas físicas que tengan acceso al Planetario Nundehui causarán y pagarán derechos de conformidad con las siguientes cuotas:
@@ -1143,9 +1141,9 @@ las Canteras”, por 3 horas: 3.00
 
 Se cobrará adicionalmente el 25 por ciento sobre el costo del derecho a pagar por el uso del inmueble, por concepto de energía eléctrica.
 
-#### Sección Quinta. Por los Servicios que se presten en materia de Transporte Público
+#### Sección Quinta. De los Servicios en materia de Control de Confianza
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 19.
 
@@ -1275,6 +1273,10 @@ En las visitas guiadas se otorgará un estímulo fiscal del 50 por ciento a estu
 
 Las visitas guiadas para grupos de estudiantes provenientes de instituciones públicas nacionales serán gratuitas previa solicitud de la institución señalando día y hora de la visita.
 
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Quinto. Centro de las Artes de San Agustín
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Artículo 19 B. Las personas físicas, morales y unidades económicas que soliciten el uso, goce o aprovechamiento de las instalaciones del Centro de las Artes de San Agustín, causarán y pagarán derechos de conformidad con las siguientes cuotas:
@@ -1295,12 +1297,6 @@ actividad: 95.00
 
 IV Establecimiento comercial, por mes: 46.00
 
-### Capítulo Primero. De los Servicios a cargo de la Administración Pública
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
 ###### Artículo 20.
 
 Los ingresos que se obtengan por el uso, goce o aprovechamiento de los bienes del dominio público a que se refiere este título serán destinados a los mismos.
@@ -1313,7 +1309,11 @@ Los servidores públicos a cargo de la administración de los bienes de dominio 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-### Capítulo Segundo. De la Secretaría General de Gobierno
+### Capítulo Primero. De los Servicios a cargo de la Administración Pública
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 21.
 
@@ -1395,11 +1395,7 @@ VI Reproducción en Audio casete: 0.21
 
 Tratándose de otros medios de reproducción previstos en esta ley, se sujetará a la misma; en aquellos casos en que se requiera los servicios de mensajería, los gastos correrán a cargo del solicitante.
 
-### Capítulo Tercero. Por los servicios que presta la Secretaría de Seguridad Pública
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+### Capítulo Segundo. De la Secretaría General de Gobierno
 
 ###### Artículo 23.
 
@@ -1429,29 +1425,35 @@ mínimos
 
 I Por registro de Nacimientos
 
+> <small>(REFORMADO [N. DE E. REPUBLICADA SU CUOTA],P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 a) Ordinario, de niños recién
 
 nacidos hasta 180 días: 0.00
 
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 b) Ordinario, de niños de más de
 
-181 días hasta 6 años de edad: 4.00
+181 días hasta 6 años de edad: 0.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 c) Extemporáneo, de seis años de
 
-edad en adelante: 10.00
+edad en adelante: 0.00
 
-d) Ordinario o extemporáneo a
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-domicilio en días hábiles de 09:00
+d) A efectuarse en el domicilio del solicitante,
 
-a 15:00 horas: 8.00
+en días hábiles de 09:00 a 15:00 horas: 8.00
 
-e) Ordinario o extemporáneo a
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-domicilio después de las 15:00 horas
+e) A efectuarse en el domicilio del solicitante
 
-o días inhábiles: 9.00
+después de las 15:00 horas o días inhábiles: 9.00
 
 II Por expediciones de certificación de datos
 
@@ -1476,6 +1478,10 @@ f) Los servicios considerados en los incisos
 anteriores, solicitados con carácter de urgente
 
 causarán, además: 2.20
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+g) Primera copia del acta de nacimiento: 0.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
 
@@ -1615,17 +1621,21 @@ mínimos
 
 I Por la inscripción de documentos por los que:
 
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 a) Se adquiera o transmita el dominio o la
 
 posesión de bienes inmuebles o derechos
 
 reales, incluyendo compraventas en las que
 
-el vendedor se reserve el dominio: 20.50
+el vendedor se reserve el dominio: 14.00
 
 Tratándose de viviendas de interés social
 
-o valor equivalente causarán una cuota de: 12.00
+o valor equivalente causarán una cuota de: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 b) Se realicen donaciones en pago o
 
@@ -1635,25 +1645,31 @@ a personas que por disposición legal no
 
 puedan conservar la propiedad de los
 
-bienes dados en pago o adjudicados: 15.50
+bienes dados en pago o adjudicados: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 c) Cancelación de las inscripciones
 
 ordenadas por la autoridad competente
 
-o por voluntad de las partes: 8.50
+o por voluntad de las partes: 14.00
 
 II Por la inscripción de:
 
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 a) Documentos por lo que se constituyan
 
-servidumbres o usufructos vitalicios: 8.50
+servidumbres o usufructos vitalicios: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 b) Por la cancelación de documentos por los
 
 que se constituyan servidumbres o usufructos
 
-vitalicios: 8.50
+vitalicios: 14.00
 
 III Por inscripción de:
 
@@ -1667,9 +1683,13 @@ de la producción agrícola, pagarán derechos,
 
 conforme a lo siguiente:
 
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 1 Cuando el monto del crédito sea para la
 
-adquisición de una vivienda de interés social: 8.50
+adquisición de una vivienda de interés social: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 2 Cuando el valor del crédito es mayor al valor
 
@@ -1677,11 +1697,15 @@ de una vivienda de interés social y menor a
 
 cuatro veces el valor de la vivienda de interés
 
-social: 20.50
+social: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 3 Contratos de crédito con garantía hipotecaria;
 
-así como de habilitación o avío: 20.50
+así como de habilitación o avío: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 IV Por la inscripción de los convenios que
 
@@ -1691,7 +1715,9 @@ crédito o mutuo con garantía hipotecaria o
 
 prendaria, así como los que se destinen al
 
-financiamiento de la producción agrícola: 13.50
+financiamiento de la producción agrícola: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 V Por el refrendo o la cancelación de gravámenes
 
@@ -1705,17 +1731,23 @@ garantía hipotecaria o prendaria, así como los que
 
 se destinen al financiamiento de la producción
 
-agrícola: 9.50
+agrícola: 9.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 VI Por la inscripción de contratos de fideicomiso
 
-sobre bienes inmuebles: 30.00
+sobre bienes inmuebles: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 VII Por la inscripción de los convenios que
 
 modifiquen los contratos de fideicomiso sobre
 
-bienes inmuebles: 13.50
+bienes inmuebles: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 VIII Por la cancelación de las inscripciones
 
@@ -1725,21 +1757,29 @@ bienes inmuebles o convenios que modifiquen
 
 los contratos de fideicomiso sobre bienes
 
-inmuebles: 9.50
+inmuebles: 9.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 IX Por la inscripción de gravámenes sobre bienes
 
-inmuebles: 15.50
+inmuebles: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 X Por inscripción de embargo derivado de juicio
 
-de alimentos: 2.50
+de alimentos: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 XI Por inscripción o cancelación de cédulas
 
-hipotecarias: 20.50
+hipotecarias: 14.00
 
-XII Por refrendo o cancelación de cédulas 10.00
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XII Por refrendo o cancelación de cédulas 9.00
 
 hipotecarias, cuando por resolución judicial o
 
@@ -1765,11 +1805,15 @@ sin efecto la inscripción de los gravámenes
 
 subsecuentes.
 
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 XIII Por la inscripción de documentos en que
 
 consten fianzas, contrafianzas u obligaciones
 
-solidarias con el fiador: 21.50
+solidarias con el fiador: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 XIV Por la cancelación de inscripciones
 
@@ -1779,15 +1823,19 @@ obligaciones que consten fianzas,
 
 contrafianzas u obligaciones solidarias
 
-con el deudor 13.50
+con el deudor 9.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 XV Por la inscripción de cada acto correspondiente
 
 al cumplimiento de la condición, cancelación de la
 
-reserva de dominio o consolidación de la propiedad: 9.50
+reserva de dominio o consolidación de la propiedad: 14.00
 
 XVI Por la inscripción de escrituras:
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 a) Por las que se constituyan sociedades
 
@@ -1797,7 +1845,9 @@ cooperativas y de las sociedades mercantiles
 
 comprendidas en la Ley Federal para el Fomento
 
-de la Microindustria: 30.50
+de la Microindustria: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 b) Por las que se protocolicen actas de asambleas
 
@@ -1809,21 +1859,27 @@ sociedades cooperativas y de las sociedades
 
 mercantiles comprendidas en la Ley Federal
 
-para el Fomento de la Microindustria: 13.50
+para el Fomento de la Microindustria: 14.00
 
 XVII Por la inscripción de documentos:
 
-a) Por los que se constituyan sociedades civiles: 12.50
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+a) Por los que se constituyan sociedades civiles: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 b) Por los que se protocolicen actas de asambleas
 
 o de sesiones de los órganos de administración
 
-de sociedades civiles: 8.50
+de sociedades civiles: 14.00
 
 XVIII Por la inscripción de los documentos en que
 
 consten los actos que a continuación se señalan:
+
+> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 a) Otorgamiento de poderes o sustitución de los
 
@@ -1831,9 +1887,11 @@ mismos, otorgados por personas físicas, por cada
 
 primer apoderado, tanto en sociedades civiles,
 
-asociaciones civiles y mercantiles: 8.50
+asociaciones civiles y mercantiles: 14.00
 
 Por cada apoderado adicional: 3.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 b) Otorgamiento de poderes o sustitución de
 
@@ -1841,7 +1899,7 @@ los mismos, otorgados por personas morales,
 
 por cada primer apoderado, tanto en sociedades
 
-civiles, asociaciones civiles y mercantiles: 8.50
+civiles, asociaciones civiles y mercantiles: 14.00
 
 Por cada apoderado adicional: 3.00
 
@@ -1853,13 +1911,21 @@ XIX Por la inscripción de los documentos en que
 
 los actos (sic) que a continuación se relacionan:
 
-a) Patrimonio familiar: 3.50
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-b) Por la cancelación del patrimonio familiar: 2.50
+a) Patrimonio familiar: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+b) Por la cancelación del patrimonio familiar: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 c) Por la inscripción o cancelación de las
 
-capitulaciones matrimoniales: 3.50
+capitulaciones matrimoniales: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 d) Documentos o resoluciones judiciales relativas
 
@@ -1867,19 +1933,25 @@ a las sucesiones, independientemente de los
 
 derechos que se causen por el registro de la
 
-transmisión de los bienes hereditarios: 9.50
+transmisión de los bienes hereditarios: 14.00
 
-e) Inscripción del auto declaratorio de herederos: 10.50
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+e) Inscripción del auto declaratorio de herederos: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 f) Inscripción de la radicación de sucesiones
 
 testamentarias o intestamentarias ante Notario
 
-Público: 20.50
+Público: 14.00
 
 XX Por la inscripción de los documentos en que
 
 consten los actos que a continuación se señalan:
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 a) Actos, contratos, convenios o resoluciones
 
@@ -1889,43 +1961,59 @@ constituya un fraccionamiento, se lotifique,
 
 relotifique, divida o subdivida un inmueble,
 
-por cada lote: 8.50
+por cada lote: 14.00
 
 No causará cobro alguno su cancelación.
 
-b) Fusión, por cada lote adherido: 10.00
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+b) Fusión, por cada lote adherido: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 c) Constitución del régimen de propiedad
 
-en condominio, por cada unidad privativa: 8.00
+en condominio, por cada unidad privativa: 14.00
 
 XXI Por la inscripción de documentos en que
 
 consten los actos que a continuación se relacionan:
 
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 a) Fideicomisos que no incluyan inmuebles,
 
-por cada inscripción: 15.00
+por cada inscripción: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 b) Por cesión de derechos hereditarios
 
-o de fideicomisos que no incluyan inmuebles: 15.00
+o de fideicomisos que no incluyan inmuebles: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 c) Corresponsalía mercantil, por su registro
 
-o cancelación: 5.00
+o cancelación: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 XXII Por la inscripción de quiebras, secuestros,
 
 intervenciones o sentencias interlocutorias o
 
-definitivas: 15.50
+definitivas: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 XXIII Por cada anotación marginal o su cancelación
 
 girada por autoridad competente, independiente de
 
-que se ordene en un mismo documento: 6.50
+que se ordene en un mismo documento: 6.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 XXIV Por inscripción de documentos que
 
@@ -1941,11 +2029,13 @@ contratos, sin aumentar o disminuir el valor, precio
 
 o monto consignados en estos y sin transferir
 
-derechos: 13.50
+derechos: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 XXV Por la inscripción o refrendo de contratos de
 
-arrendamiento o de comodato: 15.00
+arrendamiento o de comodato: 14.00
 
 Si en un mismo documento se consignan diversos
 
@@ -1955,9 +2045,13 @@ por la inscripción de cada uno, con base en lo
 
 establecido en las fracciones anteriores.
 
-XXVI Por inscripción de testamento: 6.50
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXVI Por inscripción de testamento: 14.00
 
 XXVII Por la inscripción de:
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 a) De documentos por los que se constituyan
 
@@ -1971,7 +2065,9 @@ Fomento de la Microindustria u otro tipo de personas
 
 morales distintas de las señaladas en las fracciones
 
-XV y XVI: 20.50
+XV y XVI: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 b) De las actas de asamblea o de sesiones de los
 
@@ -1983,21 +2079,25 @@ social, sociedades rurales, sociedades mercantiles
 
 comprendidas en la Ley Federal para el Fomento de
 
-la Microindustria: 8.50
+la Microindustria: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 XXVIII Por inscripción de actos de cesión onerosa
 
-de crédito y derechos litigiosos: 20.50
+de crédito y derechos litigiosos: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 XXIX Por la cancelación de las inscripciones de
 
 actos de cesión onerosa de crédito y derechos
 
-litigiosos: 10.50
+litigiosos: 9.00
 
 a) Por el reconocimiento de adeudo de créditos
 
-previamente otorgados: 9.50
+previamente otorgados: 9.00
 
 b) Por división de hipotecas (aquellos casos en que
 
@@ -2007,19 +2107,23 @@ hipotecaria; posteriormente se lotifica o subdivide,
 
 y cada fracción de terreno se le asigna un valor
 
-para responder a la garantía hipotecaria total); 6.50
+para responder a la garantía hipotecaria total); 9.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 XXX Por resolución testamentaria o intestamentaria,
 
 con el objeto de realizar un posterior traslado de
 
-dominio: 6.50
+dominio: 9.00
 
 Se pagará por cada registro que se consolide.
 
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 XXXI Por cancelaciones de contratos de
 
-arrendamiento o de comodatos: 6.50
+arrendamiento o de comodatos: 9.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2287,7 +2391,7 @@ por haber aprobado exámenes: 1650.00
 
 Los libros de los Notarios deberán reunir los requisitos que establecen los artículos 41 al 45 de la Ley del Notariado para el Estado de Oaxaca.
 
-#### Sección Segunda. De la Policía Auxiliar Bancaria, Industrial y Comercial
+#### Sección Segunda. Servicios de Seguridad y Vigilancia
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2399,6 +2503,8 @@ Los Talleres Gráficos del Estado deberán proporcionar por lo menos dos ejempla
 
 Los ingresos recaudados por los servicios contenidos en esta sección se destinarán hasta por un 60 por ciento al programa de modernización tecnológica de los Talleres Gráficos del Estado. Para tal efecto deberá presentar informe dentro de los primeros diez días naturales de cada mes de los servicios prestados a fin de determinar los montos que serán asignados al programa de referencia.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 #### Sección Primera. Del Servicio Público
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
@@ -2407,7 +2513,9 @@ Los ingresos recaudados por los servicios contenidos en esta sección se destina
 
 ###### Artículo 30.
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
+Por los servicios públicos que se presten en materia de aplicación de evaluaciones de control de confianza, se causarán derechos por los que se pagarán $6,000.00 pesos.
+
+Los ingresos recaudados con motivo de la aplicación de evaluaciones de control de confianza, hasta por un sesenta por ciento serán destinados a cubrir las erogaciones derivadas de los servicios que se prestan en el Centro Estatal de Evaluación y Control de Confianza, y los costos inherentes al mismo.
 
 #### Sección Segunda. Del Control Vehicular
 
@@ -2663,11 +2771,11 @@ X Copias certificadas de expedientes: 0.18
 
 XI Información en dispositivos magnéticos: 0.53
 
-### Capítulo Tercero Bis. Por los Servicios que presta la Secretaría de Vialidad y Transporte
+### Capítulo Tercero. Por los servicios que presta la Secretaría de Seguridad Pública
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 33.
 
@@ -2733,13 +2841,11 @@ b (sic) ) Especializada: 325.00
 
 Pesos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+VIII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
-VIII Por la aplicación de evaluaciones de
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-control de confianza: $6,000.00
-
-Los ingresos recaudados en las fracciones II a la VIII hasta por un 60 por ciento serán destinados a cubrir las erogaciones derivadas de los servicios que se prestan en el Centro de Desarrollo Infantil y los costos inherentes a la impartición de los cursos.
+Los ingresos recaudados en las fracciones II a la VII hasta por un 60 por ciento serán destinados a cubrir las erogaciones derivadas de los servicios públicos que se prestan en el Centro de Desarrollo Infantil y los costos inherentes a la impartición de los cursos.
 
 ###### Artículo 34.
 
@@ -2893,19 +2999,39 @@ III Por renovación anual a que se refiere la
 
 fracción anterior. 40.7
 
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 IV Por arrastre de automóvil o camioneta
 
-dentro de la ciudad de Oaxaca de Juárez: 5.69
+dentro de la ciudad de Oaxaca de Juárez: 13.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 V Por arrastre de camión o autobús dentro
 
-de la ciudad de Oaxaca de Juárez: 7.33
+de la ciudad de Oaxaca de Juárez: 15.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 VI Por arrastre fuera del perímetro de la
 
 ciudad de Oaxaca de Juárez, por cada
 
-kilometro: 0.25
+kilometro: 0.50
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VII Maniobra de salvamento por hora,
+
+automóvil y camioneta: 2.00
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VIII Maniobra de salvamento por hora,
+
+camión y autobuses: 3.00
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 #### Sección Primera. Servicios Ecológicos
 
@@ -2957,6 +3083,10 @@ i) Con motocicleta y dos elementos armados
 
 a bordo en un turno de 12 horas, por mes: 560.00
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+j) Por otros servicios, por elemento, por mes: 39.19
+
 II Servicios de vigilancia administrativa:
 
 a) Sin arma, por elemento en un turno de 12
@@ -2974,6 +3104,10 @@ alto riesgo:
 a) Con arma y equipo, por elemento en un
 
 turno de 12 horas, por mes: 200.00
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+b) Por otros servicios, por elemento, por mes: 77.28
 
 IV Servicios de seguridad y vigilancia especiales:
 
@@ -3023,7 +3157,11 @@ una cámara mensual: 25.00
 
 > <small>(ADICIONADO CON LA SECCIÓN QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-### Capítulo Cuarto. Por los Servicios que presta la Secretaría de Salud
+### Capítulo Tercero Bis. Por los Servicios que presta la Secretaría de Vialidad y Transporte
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 #### Sección Segunda. Supervisión de Obra Pública
 
@@ -3281,13 +3419,21 @@ Los concesionarios, propietarios y/o tenedores de vehículos destinados al servi
 
 Los derechos por servicios de control vehicular se causarán y pagarán de acuerdo con los siguientes periodos:
 
-I. Dentro de los 15 días hábiles siguientes a la fecha de adquisición de vehículo nuevo;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-II. Los tres primeros meses del año, tratándose de uso, goce o aprovechamiento de placas, calcomanía y tarjeta de circulación en vehículos destinados al servicio privado;
+I. Dentro de los quince días hábiles siguientes a la fecha de adquisición de vehículo nuevo para la expedición de placas y calcomanía;
 
-III. Los tres primeros meses del año, cuando el Estado realice canje total de placas, calcomanía y tarjeta de circulación, y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-IV. Dentro de los 15 días hábiles siguientes a la fecha de haberse efectuado la operación de compra venta del que deriva el trámite de baja.
+II. Los tres primeros meses del año, por el uso, goce o aprovechamiento de placas y calcomanía de vehículos;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+III. Los tres primeros meses del año, cuando el Estado realice canje total de placas y calcomanía, y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+IV. Dentro de los quince días hábiles siguientes a la fecha de haberse efectuado la operación de compra - venta del que derive el trámite de baja.
 
 Para efectos de la presente sección, se entenderá por:
 
@@ -3307,23 +3453,23 @@ Número de salarios
 
 mínimos
 
-I Expedición de placas, calcomanía y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-tarjeta de circulación, por alta o canje
+I Expedición de placas y calcomanía, por alta
 
-total para vehículos destinados al
+o canje total para vehículos destinados al
 
-servicio privado: 11.00
+servicio privado: 9.70
 
-II Expedición de placas, calcomanía y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-tarjeta de circulación, por alta o canje
+II Expedición de placas y calcomanía, por
 
-total para motocicletas y otros vehículos
+alta o canje total para motocicletas y otros
 
-similares con remolque y/o cabina
+vehículos similares con remolque y/o cabina
 
-destinados al servicio privado: 5.50
+destinados al servicio privado: 4.20
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3355,11 +3501,21 @@ vehiculares en cualquiera de sus
 
 modalidades: 1.80
 
-VII Por reposición de tarjeta de circulación
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-de vehículos en cualquiera de sus
+VII Expedición de tarjeta de circulación de
 
-modalidades: 3.30
+vehículos destinados al servicio privado por:
+
+a) 1 año: 4.60
+
+b) 2 años: 9.00
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VIII Reposición de tarjeta de circulación de
+
+vehículos en cualquiera de sus modalidades: 4.60
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3371,29 +3527,23 @@ Número de salarios
 
 mínimos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 I Por el uso, goce o aprovechamiento de
 
-placas, calcomanía y tarjeta de circulación
+placas y calcomanía de vehículos destinados
 
-de vehículos destinados al servicio privado: 7.70
+al servicio privado: 6.40
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 II Por el uso, goce o aprovechamiento de
 
-placas, calcomanía y tarjeta de circulación
+placas y calcomanía de motocicletas y otros
 
-de motocicletas y otros vehículos similares
+vehículos similares con remolque y/o cabina
 
-con remolque y/o cabina destinados al
-
-servicio privado: 2.20
+destinados al servicio privado: 0.90
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3419,13 +3569,9 @@ con remolque y/o cabina destinados al
 
 servicio público: 3.80
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-V Por el uso, goce o aprovechamiento de
-
-placas, calcomanía y tarjeta de circulación
+V Por el uso, goce o aprovechamiento de placas
 
 de vehículos de demostración: 11.00
 
@@ -3609,7 +3755,7 @@ descenso de pasajeros o área de maniobras
 
 de carga y descarga de mercancías): 2.20
 
-### Capítulo Quinto. Por los Servicios que presta la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable
+### Capítulo Cuarto. Por los Servicios que presta la Secretaría de Salud
 
 #### Sección Primera. Por los Servicios que presta la Casa de la Cultura Oaxaqueña
 
@@ -3743,7 +3889,7 @@ XX Sello de recetas controladas para prescripción
 
 de psicotrópicos (por c/100 recetas) 4.00
 
-### Capítulo Sexto. Por los Servicios que presta la Secretaría de Turismo y Desarrollo Económico
+### Capítulo Quinto. Por los Servicios que presta la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable
 
 ###### Artículo 46.
 
@@ -4315,9 +4461,9 @@ III Regularización de planes de sitios y
 
 tiraderos a cielo abierto: 125.00
 
-#### Sección Primera. Del Control Vehicular
+#### Sección Primera. Del Control Zoosanitario
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 56.
 
@@ -4327,9 +4473,13 @@ Las oficinas pagadoras de las dependencias y entidades, al hacer el pago del ant
 
 Cuando se trate de contrataciones en las que no se haya pactado la entrega de anticipo, las oficinas pagadoras de las dependencias y entidades, al hacer el pago de la primera estimación retendrán el importe del derecho a que se refiere el presente artículo y procederán en los mismos términos descritos en el párrafo anterior.
 
-Tratándose de la contratación de obras por parte de los ayuntamientos donde una parte de la fuente de financiamiento provenga de la autorización realizada en el programa de inversión del estado, se estará a lo previsto en este artículo. Los derechos recaudados se destinarán para la supervisión de las obras autorizadas en el programa de referencia.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-Los ingresos que se obtengan por la recaudación de este derecho, se destinarán hasta por los montos que les correspondan a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable; Caminos y Aeropistas de Oaxaca, Comisión Estatal del Agua; Comisión Estatal de la Vivienda; Instituto Oaxaqueño Constructor de Infraestructura Física Educativa; Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca, entre otras, para el fortalecimiento del servicio de supervisión de las obras públicas a que se refiere este artículo.
+Tratándose de la contratación de obras por parte de los Municipios donde una parte de la fuente de financiamiento provenga de la autorización realizada en el programa de inversión del Estado, se estará a lo previsto en este artículo. Los derechos recaudados se destinarán para la supervisión y evaluación de las obras autorizadas en el programa de referencia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Los ingresos que se obtengan por la recaudación de este derecho, se destinarán hasta en un 70 por ciento de los montos que les correspondan a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable; Caminos y Aeropistas de Oaxaca; Comisión Estatal del Agua; Comisión Estatal de Vivienda; Instituto Oaxaqueño Constructor de Infraestructura Física Educativa; Servicios de Agua Potable y Alcantarillado de Oaxaca, entre otras, para el fortalecimiento del servicio de supervisión de las obras públicas a que se refiere este articulo, el 30 por ciento será destinado y ejercido para la evaluación del desempeño a que se refiere la Ley de Coordinación Fiscal, Ley Estatal de Presupuesto y Responsabilidad Hacendaría y las demás disposiciones legales aplicables.
 
 Procederá la ministración de los montos recaudados en esta sección siempre que las dependencias y entidades presenten el informe de los derechos retenidos dentro de los primeros diez días naturales de cada mes para su conciliación.
 
@@ -4337,7 +4487,7 @@ Procederá la ministración de los montos recaudados en esta sección siempre qu
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-#### Sección Segunda. De las Constancias
+#### Sección Primera. De las Constancias
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2013)</small>
 
@@ -4351,7 +4501,7 @@ Procederá la ministración de los montos recaudados en esta sección siempre qu
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
 
-### Capítulo Séptimo. Por los Servicios que presta la Secretaría de las Culturas y Artes de Oaxaca
+### Capítulo Sexto. Por los Servicios que presta la Secretaría de Turismo y Desarrollo Económico
 
 ###### Artículo 59.
 
@@ -4381,13 +4531,13 @@ Sección B $700.00
 
 La Secretaría de Finanzas acordará el plazo y porcentaje de la preventa anualmente.
 
-### Capítulo Octavo. Por los Servicios que presta la Secretaría de Finanzas
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Artículo 59 A. Las personas físicas que tengan acceso a la Feria Internacional del Mezcal, causarán y pagarán la cuota de $40.00 pesos.
 
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2012)</small>
+### Capítulo Séptimo. Por los Servicios que presta la Secretaría de las Culturas y Artes de Oaxaca
 
-#### Sección Tercera. Servicios Catastrales
+#### Sección Segunda. Servicios Catastrales
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -4403,33 +4553,39 @@ I Inscripciones a talleres:
 
 a) Clases de lunes a sábado:
 
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 La tarifa aplicable por cada 30 minutos
 
-de clase, será de: 0.47
+de clase, será de: 0.56
 
 b) Clases: sábado y domingo:
 
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 La tarifa aplicable por cada 30 minutos
 
-de clase, será de: 0.71
+de clase, será de: 0.85
 
 c) Clases: domingo:
 
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 La tarifa aplicable por cada 30 minutos
 
-de clase, será de: 0.94
+de clase, será de: 1.13
 
 d) Clases: Especiales externos:
 
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 La tarifa aplicable por cada 30 minutos
 
-de clase, será de: 1.28
+de clase, será de: 1.54
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-II Inscripción de nuevo ingreso: 1.00
+II Inscripción de nuevo ingreso: 1.20
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4501,13 +4657,85 @@ I Pago de Inscripción a curso propedéutico: 2.89
 
 II Pago de Inscripción a cursos semestrales: 11.55
 
-### Capítulo Noveno. Por los Servicios que presta la Secretaría de Administración
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Octavo. Por los Servicios que presta la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 #### Sección Segunda. Inspección y Vigilancia
 
 ###### Artículo 63.
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
+Las personas físicas, morales o unidades económicas que soliciten la prestación de servicios públicos a cargo de la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura, causarán y pagarán derechos conforme a los conceptos y cuotas siguientes:
+
+Pesos
+
+I Por la expedición de guías de tránsito de ganado por cabeza:
+
+a) Bovino: 2.50
+
+b) Equino: 2.50
+
+c) Caprino: 1.50
+
+d) Ovino: 1.50
+
+e) Porcino: 1.50
+
+f) Lechón: 0.50
+
+II Por la expedición de guías de tránsito de aves por cabeza: 0.05
+
+III Por la expedición de guías de tránsito por caja de pollo: 1.00
+
+IV Por la expedición de guías de tránsito por colmena: 1.00
+
+V Por la expedición de guías de tránsito de los productos:
+
+a) Por litro o kilogramo de lácteos: 0.02
+
+b) Por kilogramo de carne en canal, procesada o embutida,
+
+vísceras o grasa: 0.02
+
+c) Por caja de huevo de 360 piezas: 0.50
+
+d) Por kilogramo de miel: 0.05
+
+e) Por kilogramo de lana: 0.05
+
+VI Por la expedición de guías de tránsito de pieles por vehículo:
+
+a) De ¾ a 3 toneladas: 20.00
+
+b) Más de 3 a 5 toneladas: 30.00
+
+c) Más de 5 toneladas: 50.00
+
+VII Por la expedición de guías de tránsito de pollinaza:
+
+a) De ¾ a 3 toneladas: 40.00
+
+b) Más de 3 a 5 toneladas: 70.00
+
+c) Más de 5 toneladas: 100.00
+
+VIII Por el registro de patente de fierro ganadero, señal de
+
+sangre y/o tatuaje:
+
+a) Registro nuevo: 15.00
+
+b) Refrendo: 10.00
+
+c) Cambio de propietario: 10.00
+
+IX Por la expedición de credencial como ganadero o productor 5.00
+
+pecuario:
+
+Los ingresos que se recauden por la prestación de servicios públicos contenidos en el presente artículo, se destinarán al pago de gastos operativos relacionados con la prestación de los servicios. Los servidores públicos de la Dependencia y la Secretaría de Finanzas del Poder Ejecutivo del Estado, deberán establecer mecanismos que permitan la ministración de manera ágil y directa sin más limitaciones ni restricciones, incluyendo aquéllas de carácter administrativo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4527,7 +4755,11 @@ II Pago de Inscripción a cursos semestrales: 11.55
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
 
-### Capítulo Décimo. Por los Servicios que presta la Secretaría de la Contraloría y Transparencia Gubernamental
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Octavo Bis. Por los Servicios que presta la Secretaría de Finanzas
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA ANTES SECCIÓN SEGUNDA DEL CAPÍTULO OCTAVO DEL TÍTULO TERCERO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 #### Sección Primera. Por los servicios que presta la Comisión Estatal del Agua
 
@@ -4683,6 +4915,8 @@ a que alude la Ley de Deuda Pública: 5.00
 
 Para efectos de la fracción XI, cuando se trate de objetos cuyas dimensiones sean por fracción de la medida establecida, se cobrará en proporción al espacio que ocupe.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA ANTES SECCIÓN TERCERA DEL CAPÍTULO OCTAVO DEL TÍTULO TERCERO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 #### Sección Segunda. Por los Servicios de Agua Potable y Alcantarillado de Oaxaca
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
@@ -4725,13 +4959,9 @@ en el Sistema Integral de Catastro, derivado de
 
 la división o fusión de bienes inmuebles: 2.50
 
-V Trámites urgentes de solicitudes catastrales
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-que cumplan con todos los requisitos legales y
-
-técnicos, para entregar al siguiente día hábil de
-
-haber efectuado el pago de los derechos: 8.00
+V Reimpresión de la cédula catastral: 3.00
 
 VI Por cancelación de registro de
 
@@ -4757,7 +4987,15 @@ XI Por la práctica de avalúo comercial. 30.00
 
 XII Por la práctica de avalúo catastral: 20.00
 
-XIII Reimpresión de la cédula catastral: 3.00
+XIII (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Los trámites a que se refieren los artículos 68 al 73, que se soliciten con carácter de urgente, adicionalmente causarán y pagarán la cuota de 8.00 salarios mínimos, siempre que la solicitud de la prestación de servicios públicos cumpla con los requisitos técnicos y legales previstos en la Ley y Reglamento de la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Los servicios públicos de carácter urgente se entregarán al día hábil siguiente de haber efectuado el pago de derechos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -4823,6 +5061,14 @@ d) Del año 2005 en la escala 1:10,000
 
 90 x 60 cm. 3.00
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+e) Del año 2012 en la escala 1:10,000
+
+21.5 x 28 cm. 2.00
+
+90 x 60 cm. 6.00
+
 II Expedición de Información cartográfica
 
 planimetría en medios digitales:
@@ -4846,6 +5092,10 @@ d) Por expedición de planos temáticos
 e) Del año 2012 en la escala 1:1,000 por
 
 0.25 km2 10.00
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+f) Del año 2012 en la escala 1:10,000 por 0.25 Km2 4.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -4935,6 +5185,30 @@ c) Ortofotos en archivo digital escala 1:1,000
 
 del año 2012 por 0.25 km2 7.00
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+III Del año 2012
+
+a) Edición de impresión de ortofotos escala 1:1,000:
+
+21.5 x 28 cm. 5.00
+
+90 x 60 cm. 15.00
+
+b) Edición de impresión de ortofotos escala 1:10,000:
+
+21.5 x 28 cm. 3.00
+
+90 x 60 cm. 10.00
+
+c) Ortofotos en archivo digital escala 1:1,000 del año 7.00
+
+2012 por 0.25 km2
+
+d) Ortofotos en archivo digital escala 1:10,000 del año 5.00
+
+2012 por 0.25 km2:
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 73.
@@ -5011,15 +5285,73 @@ I De nuevo ingreso: 64.00
 
 II Renovación: 43.00
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 76.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+Los Municipios que soliciten la prestación de servicios públicos catastrales en forma masiva, causarán y pagarán derechos conforme a los siguientes conceptos y cuotas:
+
+Número de salarios
+
+mínimos
+
+I Estudio de gabinete y de campo necesarios
+
+para llevar a cabo la zonificación o rezonificación
+
+catastral por kilómetro cuadrado: 84.00
+
+II Elaboración de Tabla de Valores Unitarios de
+
+suelo urbano, susceptible de transformación,
+
+rústico y construcción: 155.00
+
+III Obtención de base catastral generadas por
+
+trámite de integración al padrón catastral y por
+
+revaluaciones previo censo catastral por cada
+
+bien inmueble: 8.00
+
+IV Censo catastral en áreas contiguas:
+
+a) Cuando se cuente con información cartográfica
+
+planimétrica, ortofoto digital escala 1:1 ,000 por cada
+
+bien inmueble: 4.00
+
+b) Cuando no se cuente con información cartográfica
+
+digital se realizará el levantamiento topográfico del
+
+predio y sus construcciones para la generación de la
+
+misma por predio igual o menor a 500 m2: 10.00
+
+c) Cuando no se cuente con información
+
+cartográfica planimétrica se realizará el levantamiento
+
+topográfico del predio y sus construcciones para la
+
+obtención de cartografía digital de la zona contigua
+
+solicitada, por predio:
+
+1. Mayor a 500 m2 y menor a 1000 m2: 15.00
+
+2. Mayor a 1001 m2 y menor a 5000 m2: 20.00
+
+3. Mayor a 5001 m2 y menor a 10000 m2: 25.00
 
 ###### Artículo 77.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-### Capítulo Primero. Por los Servicios que presta "Novauniversitas"
+### Capítulo Noveno. Por los Servicios que presta la Secretaría de Administración
 
 ###### Artículo 78.
 
@@ -5123,6 +5455,10 @@ X Por la expedición de constancias
 
 de no adeudo patrimonial: 1.00
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XI Por los servicios que prestan sus organismos sectorizados
+
 ###### Artículo 79.
 
 Las personas físicas y morales que soliciten servicios a cargo del Archivo del Poder Ejecutivo, causarán y pagarán cuotas de conformidad con lo siguiente:
@@ -5185,7 +5521,7 @@ XVI Reproducción de documento
 
 digitalizado por hoja: 0.28
 
-### Capítulo Segundo. Por los Servicios que presta la Universidad Tecnológica de los Valles Centrales de Oaxaca
+### Capítulo Décimo. Por los Servicios que presta la Secretaría de la Contraloría y Transparencia Gubernamental
 
 ###### Artículo 80.
 
@@ -5221,7 +5557,7 @@ Los servidores públicos a cargo de la prestación de servicios deberán realiza
 
 ## Título Cuarto. Por los Servicios que se prestan en Materia Educativa
 
-### Capítulo Tercero. Por los Servicios que presta la Universidad del Istmo
+### Capítulo Primero. Por los Servicios que presta "Novauniversitas"
 
 ###### Artículo 83.
 
@@ -5305,7 +5641,7 @@ A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracci
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-### Capítulo Cuarto. Por los Servicios que presta la Universidad del Mar
+### Capítulo Segundo. Por los Servicios que presta la Universidad Tecnológica de los Valles Centrales de Oaxaca
 
 ###### Artículo 84.
 
@@ -5375,7 +5711,7 @@ De 9.6 a 10 75%
 
 Tratándose de estudiantes que provengan de zonas marginadas, se aplicarán porcentajes de becas determinadas por el Consejo Directivo que van del 25%, 50% 75% de descuento en inscripción y reinscripción.
 
-### Capítulo Quinto. Por los Servicios que presta la Universidad del Papaloapan
+### Capítulo Tercero. Por los Servicios que presta la Universidad del Istmo
 
 ###### Artículo 85.
 
@@ -5455,7 +5791,7 @@ j) Expedición de grado: 23.08
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Sexto. Por los Servicios que presta la Universidad de la Cañada
+### Capítulo Cuarto. Por los Servicios que presta la Universidad del Mar
 
 ###### Artículo 86.
 
@@ -5559,7 +5895,7 @@ l) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Séptimo. Por los Servicios que presta la Universidad de la Sierra Juárez
+### Capítulo Quinto. Por los Servicios que presta la Universidad del Papaloapan
 
 ###### Artículo 87.
 
@@ -5641,7 +5977,7 @@ j) Expedición de grado: 23.08
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Octavo. Por los Servicios que presta la Universidad de la Sierra Sur
+### Capítulo Sexto. Por los Servicios que presta la Universidad de la Cañada
 
 ###### Artículo 88.
 
@@ -5723,7 +6059,7 @@ j) Expedición de grado: 23.08
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Noveno. Por los Servicios que presta la Universidad Tecnológica de la Mixteca
+### Capítulo Séptimo. Por los Servicios que presta la Universidad de la Sierra Juárez
 
 ###### Artículo 89.
 
@@ -5805,7 +6141,7 @@ j) Expedición de grado: 23.08
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II ; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Décimo. Por los Servicios que presta el Instituto Estatal de Educación Pública de Oaxaca
+### Capítulo Octavo. Por los Servicios que presta la Universidad de la Sierra Sur
 
 ###### Artículo 90.
 
@@ -5914,6 +6250,10 @@ j) Examen de grado: 17.28
 k) Expedición de grado: 51.56
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II ; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Noveno. Por los Servicios que presta la Universidad de Chalcatongo
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -6039,6 +6379,10 @@ o certificado de !inglés Americano "TOEFL": 7.77
 
 Se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de La Unidad que van de 25%, 50% 75% y 100% de descuento en los conceptos de cursos propedéuticos, reinscripción, colegiatura mensual y curso de verano comprendidos en las fracciones I a IV del presente artículo.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Décimo. Por los Servicios que presta la Universidad de la Costa
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Artículo 90 B. Por los servicios educativos que preste la Universidad de la Costa, se causarán y pagarán los siguientes derechos:
@@ -6097,11 +6441,9 @@ o certificado de Inglés Americano "TOEFL": 7.77
 
 Se aplicarán porcentajes de becas determinadas por el H. Consejo Académico que van de 25%, 50% 75% y 100% de descuento en las conceptos de cursos propedéuticos, reinscripción, colegiatura mensual y curso de verano comprendidos en la fracción I del presente artículo.
 
-### Capítulo Décimo Primero. Por los Servicios que presta el Instituto de Estudios de Bachillerato del Estado de Oaxaca
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-### Capítulo Décimo Segundo. Por los Servicios que presta el Instituto Tecnológico de Teposcolula
-
-### Capítulo Décimo Tercero. Por los Servicios que presta el Colegio de Bachilleres del Estado de Oaxaca
+### Capítulo Décimo Primero. Por los Servicios que presta la Universidad Tecnológica de la Mixteca
 
 ###### Artículo 91.
 
@@ -6235,6 +6577,10 @@ Americano "TOEFL": 7.77
 
 A excepción de los incisos a), i) de la fracción I; inciso f) de la fracción II; inciso e) de la fracción III; inciso e) de la fracción IV; inciso a) de la fracción V; se aplicará porcentajes de becas determinadas por el H. Congreso Académico de la Universidad Tecnológica de la Mixteca que van desde el 25%, 50%, 75%, y 100% de descuento.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Décimo Segundo. Por los Servicios que presta la Universidad Tecnológica de la Sierra Sur
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Artículo 91 A. Los contribuyentes que reciban servicios en materia educativa a cargo de la Universidad Tecnológica de la Sierra Sur de Oaxaca, causarán y pagarán las cuotas conforme a los siguientes conceptos:
@@ -6263,7 +6609,9 @@ V Expedición de certificado parcial o total: 7.83
 
 Se aplicarán porcentajes de becas determinadas por el H. Consejo Académico que van de 25%, 50% 75% y 100% de descuento en los conceptos de inscripción y reinscripción del presente artículo.
 
-### Capítulo Décimo Cuarto. Por los Servicios que presta el Colegio de Estudios Científicos y Tecnológicos del Estado de Oaxaca
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Décimo Tercero. Por los Servicios que presta el Instituto Estatal de Educación Pública de Oaxaca
 
 ###### Artículo 92.
 
@@ -6957,6 +7305,12 @@ en relación con el título profesional
 
 o grado académico: 13.75
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Décimo Cuarto. Por los Servicios que presta el Instituto de Estudios de Bachillerato del Estado de Oaxaca
+
+### Capítulo Décimo Quinto. Por los Servicios que presta el Instituto Tecnológico de Teposcolula
+
 ###### Artículo 93.
 
 Los contribuyentes que reciban servicios en materia educativa a cargo del Instituto de Estudios de Bachillerato del Estado de Oaxaca, se causarán y pagarán los derechos de la siguiente forma:
@@ -7000,6 +7354,10 @@ Pesos
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 XI Diario de aprendizaje: $37.00
+
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Décimo Sexto. Por los Servicios que presta el Colegio de Bachilleres del Estado de Oaxaca
 
 ###### Artículo 94.
 
@@ -7050,6 +7408,10 @@ XVIII Exámen global: 7.05
 XIX Exámen especial foráneo: 35.27
 
 XX Exámen de inglés: 17.64
+
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Décimo Séptimo. Por los Servicios que presta el Colegio de Estudios Científicos y Tecnológicos del Estado de Oaxaca
 
 ###### Artículo 95.
 
@@ -7160,6 +7522,8 @@ El Colegio de Bachilleres del Estado de Oaxaca podrá realizar convenios de cola
 Tratándose de estudiantes que acrediten una situación de vulnerabilidad económica, se les otorgará un 50% de descuento en cuotas de inscripción y reinscripción de acuerdo con los lineamientos que para tal efecto emita el Colegio de Bachilleres del Estado de Oaxaca.
 
 Los beneficios antes señalados no podrán ser acumulables.
+
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 96.
 
@@ -7780,3 +8144,9 @@ PRIMERO: El presente Decreto entrará en vigor el uno de enero de dos mil catorc
 P.O. 10 DE MAYO DE 2014.
 
 Único: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 27 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día uno de enero del año dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se presente la adecuación del salario mínimo desvinculado como unidad de medida para el pago de Derechos y Catastro una vez que el Congreso de la Unión lo apruebe.
