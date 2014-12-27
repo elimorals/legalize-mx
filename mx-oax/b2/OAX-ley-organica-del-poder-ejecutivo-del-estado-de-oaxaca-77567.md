@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2013-11-28"
+last_updated: "2014-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -291,7 +293,7 @@ XI. Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura;
 
 XII. Secretaría de Finanzas;
 
-XIII. Secretaría de Administración, y (sic)
+XIII. Secretaría de Administración, y
 
 XIV. Secretaría de la Contraloría y Transparencia Gubernamental.
 
@@ -1127,11 +1129,15 @@ X. Formular los proyectos anuales de la Ley de Ingresos y el Presupuesto de Egre
 
 XI. Recaudar los impuestos, derechos, productos, contribuciones de mejoras y aprovechamientos, así como hacer cumplir las disposiciones fiscales;
 
-XII. Aplicar las disposiciones legales y dictar medidas para llevar el control, supervisión, vigilancia y evaluación del desempeño de actividades que realizan sus oficinas recaudadoras;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XII. Establecer la circunscripción territorial de las delegaciones y subdelegaciones fiscales, así como, dictar medidas para llevar el control, supervisión y evaluación del desempeño de las actividades que tengan a su cargo,
 
 XIII. Notificar los actos, acuerdos o resoluciones que emita con motivo del ejercicio de sus facultades tributarias y de comprobación, y las que le otorguen los convenios o acuerdos de colaboración administrativa, con otras instancias u órdenes de gobierno;
 
-XIV. Reglamentar y autorizar el ejercicio del Presupuesto de Egresos, así como efectuar los pagos correspondientes mediante ministraciones calendarizadas;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XIV. Emitir disposiciones administrativas para el ejercicio del Presupuesto de Egresos, efectuar los pagos a proveedores, contratistas y prestadores de servicio de la Administración Pública tratándose de recursos estatales. Realizar la ministración calendarizada del Presupuesto de Egresos a los Poderes Legislativo, Judicial y Órganos Autónomos;
 
 XV. Establecer los lineamientos para ejercer el gasto público, de acuerdo con los objetivos y prioridades del Plan Estatal de Desarrollo;
 
@@ -1161,7 +1167,7 @@ XXIII. Coordinar la función de catastro, definiendo lineamientos generales para
 
 XXIV. Intervenir en las operaciones en que el Gobierno del Estado haga uso del crédito público, así como llevar un Registro Único de Obligaciones y Empréstitos;
 
-XXV. Coordinar financieramente las operaciones de las Entidades de la Administración Pública Estatal y de todas aquellas que posean o administren bienes del Gobierno del Estado;
+XXV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
 XXVI. Formar parte del Órgano de Gobierno de las Entidades;
 
@@ -1199,7 +1205,9 @@ XXXIX. Establecer y operar el sistema de contabilidad gubernamental;
 
 XL. Formular mensualmente los estados financieros;
 
-XLI. Intervenir en los juicios y procedimientos relacionados con el cumplimiento de las obligaciones derivadas de las fianzas expedidas a favor del Estado, e intervenir en los procedimientos relacionados con la recaudación y pago de la reparación del daño;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XLI. Intervenir en los juicios y procedimientos por los que se requiera el pago de las garantías que responden a obligaciones fiscales y no fiscales otorgadas a favor del Gobierno del Estado, e intervenir en los procedimientos relacionados con la recaudación y pago de la reparación del daño.
 
 XLII. Coordinar el sistema de información estadístico y documental para el desarrollo;
 
@@ -1215,7 +1223,7 @@ XLVII. Dictaminar la disponibilidad presupuestal para las estructuras de la Admi
 
 XLVIII. Emitir dictamen de disponibilidad presupuestal en los casos en que se pretenda la contratación de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, cuya ejecución rebase uno o más ejercicios presupuestales; y previo a la firma de convenios que impliquen afectaciones presupuestales;
 
-XLIX. Integrar el programa anual de inversión pública del Estado; y (sic)
+XLIX. Integrar el programa anual de inversión pública del Estado; y
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
@@ -1729,7 +1737,7 @@ II. Atender los requerimientos en tiempo y forma que le formule la Comisión Nac
 
 III. Coadyuvar con la Comisión Nacional de los Derechos Humanos, la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y organismos afines en la divulgación, promoción, conocimiento y capacitación en derechos humanos;
 
-IV. Promover y consolidar acciones que generen la garantía plena a los derechos humanos: (sic)
+IV. Promover y consolidar acciones que generen la garantía plena a los derechos humanos:
 
 V. Verificar que la organización y programación de acciones de formación, capacitación, vinculación, promoción y defensa a favor de los derechos humanos, sea conforme a los imperativos internacionales, nacionales y de acuerdo al Plan Estatal de Desarrollo, pugnando por establecer mejores estándares de protección y promoción de los mismos;
 
@@ -2059,7 +2067,7 @@ El Gobernador del Estado emitirá el reglamento que contendrá las normas y proc
 
 ###### ARTÍCULO 75.
 
-Los servidores públicos al momento de terminar con su encomienda, deberán entregar la Dependencia o Entidad, a su cargo, mediante Acta de Entrega-Recepción, en los términos de la normatividad aplicable; (sic)
+Los servidores públicos al momento de terminar con su encomienda, deberán entregar la Dependencia o Entidad, a su cargo, mediante Acta de Entrega-Recepción, en los términos de la normatividad aplicable;
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -2171,7 +2179,7 @@ Los módulos de maquinaria que por estructura pertenecen a la Coordinación Gene
 
 La Coordinación General de Comunicación Social del Poder Ejecutivo del Gobierno del Estado, adscrita a la Gubernatura y los recursos materiales, financieros y humanos con que venía operando, se transfieren al área de Comunicación Social de la Jefatura de la Gubernatura, facultándose a las Secretarías de la Contraloría y Transparencia Gubernamental, Administración y Finanzas, para que lleven a cabo los actos necesarios para la extinción y la transferencia, ordenados en este transitorio, de igual manera los actos jurídicos y administrativos realizados por la Coordinación General de Comunicación Social del Poder Ejecutivo del Gobierno del Estado, se entenderán que se refieren a la Jefatura de la Gubernatura.
 
-Los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, se transfieren a la Consejería Jurídica del Gobierno del Estado, por esta razón los actos jurídicos y administrativos suscritos por estas unidades administrativas adscritas a la Secretaría General de Gobierno, en lo subsecuente se entenderán que se refieren a los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, dentro de la estructura de la Consejería Jurídica del Gobierno del Estado.
+Los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, las Direcciones General de Notarías y del Archivo General de Notarías, se transfieren a la Consejería Jurídica del Gobierno del Estado, por esta razón los actos jurídicos y administrativos suscritos por estas unidades administrativas adscritas a la Secretaría General de Gobierno, en lo subsecuente se entenderán que se refieren a los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, dentro de la estructura de la Consejería Jurídica del Gobierno del Estado.
 
 Por lo que todos los recursos materiales, financieros y humanos con que venían operando dentro de la estructura de la Secretaría General de Gobierno se deberán transferir a la Consejería Jurídica del Gobierno del Estado; por lo que se faculta a las Secretarías de Administración, Finanzas, y de la Contraloría y Transparencia Gubernamental, para que realicen todos los trámites necesarios para cumplir con el presente transitorio.
 
@@ -2195,7 +2203,7 @@ QUINTO. En todos los casos que por la aplicación de esta Ley se modifique la es
 
 SEXTO. Cuando una Unidad Administrativa se transfiera de una Dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental.
 
-SÉPTIMO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación de éste Decreto. De igual manera, se faculta para que dichas Secretarías realicen los cambios que se susciten de las estructuras de los órganos que por esta Ley se creen o extingan.
+SÉPTIMO. Se faculta al Titular de la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación de este Decreto. De igual manera, se faculta para que dichas Secretarías realicen los cambios que se susciten de las estructuras de los órganos que por esta Ley se creen o extingan.
 
 OCTAVO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por esta Ley cambian de denominación y sector o se extinguen y transfieren sus recursos humanos, materiales y financieros a otras áreas o unidades, se entenderán subrogadas y contraídas por sus correlativas.
 
@@ -2266,3 +2274,7 @@ Los archivos, expedientes y mobiliario que tengan en resguardo las diferentes de
 QUINTO. En tanto la Secretaría del Medio Ambiente y Recursos Naturales del Estado es creada e instalada, las Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura, seguirá ejerciendo las funciones que establece el artículo 44 en su fracción XXIII de esta Ley.
 
 SEXTO. En tanto la Secretaría del Medio Ambiente y Recursos Naturales del Estado es creada e instalada, las Secretarías y/o entidades involucradas en la materia ecológica y ambiental, seguirán ejerciendo sus facultades de acuerdo a las competencias distribuidas por la Ley Orgánica del Poder Ejecutivo del Estado. EI Instituto Estatal de Ecología y Desarrollo Sustentable de Oaxaca seguirá ejerciendo sus atribuciones conforme a lo establecido por la Ley que lo crea y la Ley del Equilibrio Ecológico del Estado de Oaxaca.
+
+P.O. 27 DE DICIEMBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el uno de enero del dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
