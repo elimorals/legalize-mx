@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-a-la-maternidad-para-el-estado-de-durango-824
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-26"
-last_updated: "2011-06-26"
+last_updated: "2014-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE PROTECCION A LA MATERNIDAD PARA EL ESTADO DE DURANGO
 
-LEY DE PROTECCION A LA MATERNIDAD PARA EL ESTADO DE DURANGO
+LEY DE PROTECCIÓN A LA MATERNIDAD PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 26 de junio de 2011.
 
@@ -165,7 +165,9 @@ c) El puerperio, brindar asistencia médica a la madre en caso de ser necesario;
 
 I (SIC). Impulsar la atención a la salud física, mental, sexual y reproductiva de las mujeres, garantizando el ejercicio pleno de su derecho a la salud;
 
-II. Realizar campañas permanentes de planificación familiar voluntaria, dirigida especialmente al grupo de adolescentes; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+II. Realizar campañas permanentes de planificación familiar voluntaria, dirigida especialmente al grupo de adolescentes, además de canalizarlos a las dependencias correspondientes para recibir capacitación sobre el buen desarrollo e integración de la familia; y
 
 III. Las demás que le confiera la presente Ley y demás disposiciones legales aplicables.
 
@@ -233,11 +235,15 @@ V. Las demás que le confiera la presente Ley y demás disposiciones legales apl
 
 Corresponde al DIF Estatal y a los DIF Municipales:
 
-I. Promover el bienestar de la familia mediante la aplicación de las acciones de asistencia social;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+I. Promover el bienestar de la familia mediante la aplicación de las acciones de asistencia social, así como ser el vínculo de integración a los programas de apoyo de la Secretaría de Desarrollo Social;
 
 II. Establecer acciones que promuevan el fomento a la paternidad responsable, que propicie la vigencia de los derechos de los menores a la satisfacción de sus necesidades, salud física y mental;
 
-III. Apoyar el desarrollo de la familia y la comunidad por medio de la promoción de valores, a través de medios de comunicación masivos;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+III. Apoyar el desarrollo de la familia y la comunidad por medio de la promoción de valores, a través de medios de comunicación masivos; fomentando la implementación de cursos de capacitación y talleres;
 
 IV. Gestionar ante el Ejecutivo del Estado, a través de la Dirección General del Registro Civil y sus oficialías, el registro de nacimientos de manera gratuita en el pago de derechos por la expedición de la primera copia del acta correspondiente;
 
@@ -317,13 +323,21 @@ Deberá enfatizarse la difusión de esta información, tratándose de mujeres en
 
 Se establecen como derechos de la mujer embarazada, además de los establecidos en otros ordenamientos, los siguientes:
 
-I. Al acceso a los centros de atención a la mujer, gubernamentales o privados, mismos que conocerán a través de una línea de atención gratuita que implementará el Instituto de la Mujer Duranguense, o bien, a través de la implementación de una página de internet. Por medio de esta línea telefónica o de internet, se proporcionará la información necesaria a las mujeres para hacer efectivos sus derechos;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+I. Al acceso a los centros de atención a la mujer, gubernamentales o privados, mismos que conocerán a través de una línea de atención gratuita que implementará el Instituto, o bien, a través de la implementación de una página de internet. Por medio de esta línea telefónica o de internet, se proporcionará la información necesaria a las mujeres para hacer efectivos sus derechos;
 
 II. Tener acceso al trabajo en las mismas condiciones que las mujeres no embarazadas;
 
-III. En el caso de mujeres embarazadas a las que haya sido diagnosticado síndrome de inmunodeficiencia adquirida, contarán además con atención especializada a efecto de garantizar su salud y la del niño en gestación, otorgando las mejores condiciones de atención médica procurando que los responsables de la atención cuenten con la certificación de médico especialista, conforme a lo dispuesto por la Ley General de Salud.
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-Las mujeres embarazadas en estado de vulnerabilidad social y/o económica y que no cuente con ningún tipo de seguridad social, que se encuentren dentro de los supuestos de este artículo podrán acudir al Instituto de la Mujer Duranguense de su municipio, a efecto de que se le proporcione la ayuda necesaria a través de las instancias correspondientes.
+III. El acceso de forma gratuita a las mujeres embarazadas a servicios de salud materna en periodos de embarazos, parto y posparto.
+
+IV. En el caso de mujeres embarazadas a las que haya sido diagnosticado síndrome de inmunodeficiencia adquirida, contarán además con atención especializada a efecto de garantizar su salud y la del niño en gestación, otorgando las mejores condiciones de atención médica procurando que los responsables de la atención cuenten con la certificación de médico especialista, conforme a lo dispuesto por la Ley General de Salud.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+Las mujeres embarazadas en estado de vulnerabilidad social y/o económica y que no cuente con ningún tipo de seguridad social, que se encuentren dentro de los supuestos de este artículo podrán acudir al Instituto de su municipio, a efecto de que se le proporcione la ayuda necesaria a través de las instancias correspondientes.
 
 ###### ARTÍCULO 19.
 
@@ -393,9 +407,17 @@ I. A recibir, atención digna, gratuita y de calidad en el parto;
 
 II. A recibir información clara y completa sobre todas las alternativas, causas y consecuencias de las decisiones que tomen durante la atención médica;
 
-III. A decidir de manera libre e informada la forma en que se llevará a cabo el parto, de manera normal, por intervención quirúrgica, o a través de los distintos mecanismos establecidos en la práctica médica. En todo caso, la madre deberá otorgar por escrito su consentimiento, por sí, o a través de la persona que autorice para otorgarlo; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-IV. Al respeto pleno de sus creencias en la atención del parto, exceptuado los casos de urgencia médica.
+III. A decidir de manera libre e informada la forma en que se llevará a cabo el parto, de manera normal, por intervención quirúrgica, o a través de los distintos mecanismos establecidos en la práctica médica. En todo caso, la madre deberá otorgar por escrito su consentimiento, por sí, o a través de la persona que autorice para otorgarlo;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+IV. Al respeto pleno de sus creencias en la atención del parto, exceptuado (sic) los casos de urgencia médica; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+V. Recibir hospitalización cuando así lo requiera.
 
 ###### ARTÍCULO 24.
 
@@ -413,9 +435,11 @@ Las mismas disposiciones previstas en este artículo se observarán cuando el pa
 
 Tratándose de partos múltiples o de niños con necesidades especiales, el Gobierno del Estado, a través del DIF Estatal, brindará un apoyo en especie durante un año, para que la madre pueda hacer frente a las necesidades imprevistas en la atención de sus hijos, previo estudio socioeconómico correspondiente.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 26.
 
-Tratándose de partos prematuros o de madres que se les haya diagnosticado síndrome de inmunodeficiencia adquirida y que no cuente con ningún tipo de seguridad social, previo estudio socioeconómico, el Gobierno del Estado, podrá llevar a cabo acciones que garanticen atención médica y quirúrgica especializada bajo los más altos estándares de calidad en el servicio de la salud.
+Tratándose de partos prematuros, de enfermedades prenatales, perinatales, postnatales o de madres que se les haya diagnosticado síndrome de inmunodeficiencia adquirida y que no cuente con ningún tipo de seguridad social, previo estudio socioeconómico, el Gobierno del Estado, podrá llevar a cabo acciones que garanticen atención médica y quirúrgica especializada bajo los más altos estándares de calidad en el servicio de la salud.
 
 ### CAPÍTULO OCTAVO. DE LOS DERECHOS EN RELACIÓN CON LA LACTANCIA
 
@@ -464,3 +488,15 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HECTOR EDUARDO VELA VALENZUELA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
+
+P.O. 28 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
