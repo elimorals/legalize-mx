@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2014-12-25"
+last_updated: "2014-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO Y OCTAVO TRANSITORIOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO ABROGADO EN LO QUE SE OPONGA AL CONTENIDO DEL NUEVO CÓDIGO, HASTA EN TANTO SE PUBLIQUE EN EL P.O. DEL ESTADO LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISIÓN PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL REFERIDO INSTRUMENTO, POR LO QUE LAS DISPOSICIONES DEL PRESENTE CÓDIGO SE APLICARÁN PARA INVESTIGAR Y JUZGAR LOS DELITOS COMETIDOS DURANTE LA VIGENCIA DEL MISMO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -2435,11 +2435,11 @@ I.- Al que elabore o comercie con comestibles, bebidas o medicinas de tal modo q
 
 II.- Al que oculte, sustraiga, venda o compre efectos que la autoridad competente haya mandado destruir por ser nocivos a la salud.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014) (REPUBLICADO, P.O. 28 DE DICIEMBRE DE 2014)
 
 Se impondrá la misma pena de prisión a que se refiere el artículo, a la utilidad de ganancias sin moderación obtenida de las ventas de mercancías de canasta básica de las familias del Estado de Durango.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014) (REPUBLICADO, P.O. 28 DE DICIEMBRE DE 2014)
 
 ARTÍCULO 276 BIS.- Se impondrá de uno a cinco años de prisión y multa de dieciocho a trescientos sesenta días de salario, a toda persona que sin motivo ni justificación, almacene artículos de consumo necesario, por un período mayor de tres meses sin efectuar operaciones de venta.
 
@@ -2455,7 +2455,9 @@ Quien realice operaciones de venta a precios que produzcan lucro inmoderado, mer
 
 La misma pena se impondrá a quien desobedezca las disposiciones de la autoridad dictadas con el fin de controlar la venta de artículos alimenticios, a precios oficiales y asimismo a los comerciantes, que estando autorizados únicamente a realizar sus mercancías al menudeo, efectúen también operaciones de mayoreo.
 
-Cuando los productores, distribuidores, comisionistas, comerciantes y en general cualquiera persona, con el fin de obtener lucro inmoder (sic) concierten actos tendientes a elevar en forma exagerada los precios de las mercancías de consumo necesario, serán sancionados con dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientos cuarenta y ocho días de salario.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+Cuando los productores, distribuidores, comisionistas, comerciantes y en general cualquiera persona, con el fin de obtener lucro inmoderado, concierten actos tendientes a elevar en forma exagerada los precios de las mercancías de consumo necesario, serán sancionados con dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientos cuarenta y ocho días de salario.
 
 Los comerciantes, los distribuidores y los comisionistas que reincidan en cualquiera de los actos delictuosos enumerados en artículos anteriores y aún cuando hayan sufrido las penas establecidas por esta Ley, serán castigados además con la cancelación de la licencia respectiva, para que puedan ejercitar actos de comercio en toda la Entidad.
 
@@ -4348,3 +4350,11 @@ DECRETO NO. 307 POR EL QUE SE DEROGAN LOS ARTÍCULOS 290, 291, 293, 294, 295, 29
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan las contenidas en el presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2014.
+
+Artículo Primero.- El presente decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo.- Se abroga la Ley contra el Lucro Inmoderado para el Estado de Durango, publicado en el Decreto Número 14, de la XLI Legislatura, del Periódico Oficial Número 49, de Fecha 18 de diciembre de 1947.
+
+Artículo Tercero.- Se derogan todas las disposiciones que contravengan a las contenidas en la presente Ley.
