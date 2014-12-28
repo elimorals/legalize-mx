@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "2012-12-06"
+last_updated: "2014-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -4553,11 +4553,15 @@ DIVORCIOS POR MUTUO CONSENTIMIENTO.
 
 Cuando ambos consortes convengan en divorciarse, conforme al Artículo 267 del Código Civil, deberán ocurrir al juzgado competente, presentando el convenio que se exige en el Artículo 270 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 664.
 
-Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta en la que se identificarán plenamente ante el Juez, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar la reconciliación. Si no lograra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuge debe dar al otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
+Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta en la que se identificarán plenamente ante el Juez, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados, los exhortará para procurar la reconciliación. Si no lograra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativo a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquellos y de los que un cónyuge debe dar al otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+El juez apercibirá a los cónyuges durante el procedimiento, hasta antes de que se decrete el divorcio, para que eviten cualquier acto de manipulación orientado a producir en los hijos rechazo, rencor o distanciamiento hacia el otro cónyuge. Cuando el juez tenga conocimiento de esta clase de conductas resolverá sobre las medidas que sean necesarias para otorgar seguridad y seguimiento al hijo, y en su caso, ordenará las terapias que permitan salvaguardar la integridad física y emocional del menor. Una vez decretado el divorcio, la misma actitud deberá ser observada por los cónyuges.
 
 ###### ARTICULO 665.
 
@@ -7022,3 +7026,9 @@ P.O. 6 DE DICIEMBRE DE 2012.
 PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
