@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2014-05-08"
+last_updated: "2014-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,9 @@ NOTA 1. DE CONFORMIDAD CON LA FRACCIÓN IV DEL ARTÍCULO SEGUNDO Y PRIMERO TRANS
 
 NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 139 POR EL QUE SE ADOPTA EL SISTEMA PENAL ACUSATORIO, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO, INTEGRADOS DE LA SIGUIENTE MANERA: SEGUNDO DISTRITO: CIUDAD LERDO COMO RESIDENCIA, COMPRENDE LOS MUNICIPIOS DE LERDO Y MAPIMÍ, EXCEPTO EN MATERIA PENAL QUE CORRESPONDE AL TERCER DISTRITO; TERCER DISTRITO: GÓMEZ PALACIO COMO RESIDENCIA; COMPRENDE EL MUNICIPIO DEL MISMO NOMBRE Y EL DE TLAHUALILO, POR LO QUE AL MISMO TIEMPO ENTRARÁ EN VIGOR LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO, RELACIONADAS CON EL SISTEMA PROCESAL PENAL ACUSATORIO, APROBADAS MEDIANTE DECRETO NÚMERO 259 DEL 18 DE FEBRERO DE 2009, PUBLICADAS EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE DURANGO, NÚMERO 15 BIS DE FECHA 19 DE FEBRERO DE 2009 Y LAS REFORMAS POSTERIORES A LA CITADA LEY EN LA MATERIA, PARA QUE SURTA SUS EFECTOS A PARTIR DE LAS CERO HORAS DEL DÍA 10 DE JUNIO DE 2014.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -121,7 +123,7 @@ XII Sistema Estatal.- Sistema Estatal de Seguridad Pública;
 
 XIII Sistema Nacional.- Sistema Nacional de Seguridad Pública;
 
-XIV Secretaría General.- Secretaría General del Gobierno del Estado; y (sic)
+XIV Secretaría General.- Secretaría General del Gobierno del Estado; y
 
 XV. Secretaría de Seguridad.- Secretaría de Seguridad Pública del Estado;
 
@@ -135,7 +137,7 @@ XVII. Carrera Policial.- Al Servicio Profesional de Carrera Policial;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-XVIII. Consejo Ciudadano.- Al Consejo Ciudadano de Seguridad Pública Estatal; y (sic)
+XVIII. Consejo Ciudadano.- Al Consejo Ciudadano de Seguridad Pública Estatal; y
 
 > <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
 
@@ -2271,7 +2273,7 @@ IV. De imputados, vinculados a proceso y sentenciados;
 
 V. De mandamientos judiciales pendientes de ejecutar;
 
-VI. De vehículos robados y recuperados; y (sic)
+VI. De vehículos robados y recuperados; y
 
 > <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -3227,7 +3229,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE OCTUBRE DE 2006.
 
@@ -3538,3 +3540,17 @@ Segundo. Remítase para su conocimiento a las Cámaras que componen el Honorable
 Tercero. Hágase del conocimiento a los habitantes del Segundo y Tercer Distritos Judiciales del Estado de Durango, la presente Declaratoria, mediante Sesión Solemne que se llevará a cabo el día 10 de junio de 2014, en la ciudad de Gómez Palacio, Durango, así como por medios impresos, televisivos y electrónicos de dicha región.
 
 Cuarto. A medida que en los restantes distritos judiciales de nuestro Estado, se implemente el Sistema de Justicia Penal Acusatorio, se hará la Declaratoria respectiva para la aplicación del Código Nacional de Procedimientos Penales, la cual no deberá exceder del 18 de junio de 2016.
+
+P.O. 28 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Seguridad Pública, publicada mediante Decreto No. 134 de la 63 Legislatura, en el P.O. 7 de fecha 24 de Julio del 2005.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
