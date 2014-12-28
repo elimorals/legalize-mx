@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-obras-publicas-del-estado-de-durango-14897"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-13"
-last_updated: "1999-06-13"
+last_updated: "2014-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE OBRAS PUBLICAS DEL ESTADO DE DURANGO
 
-LEY DE OBRAS PUBLICAS DEL ESTADO DE DURANGO
+LEY DE OBRAS PÚBLICAS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 13 de junio de 1999.
 
@@ -61,9 +61,11 @@ DEL ESTADO DE DURANGO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-La presente ley es de orden público e interés social y tiene por objeto, reglamentar lo relativo a la planeación, programación, presupuestación, adjudicación, contratación, ejecución, conservación, mantenimiento, ampliación, demolición y control de obra pública que se lleve a cabo en el Estado, a través de las dependencias de la administración pública estatal, entidades y los ayuntamientos, así como dar cumplimiento a las disposiciones contenidas en el artículo 127 de la Constitución Política del Estado de Durango, en materia de obra pública.
+La presente ley es de orden público e interés social y tiene por objeto, reglamentar lo relativo a la planeación, programación, presupuestación, adjudicación, contratación, ejecución, conservación, mantenimiento, ampliación, demolición y control de obra pública que se lleve a cabo en el Estado, a través de las dependencias de la administración pública estatal, entidades y los ayuntamientos, así como dar cumplimiento a las disposiciones contenidas en el artículo 40 y 48 de la Constitución Política del Estado Libre y Soberano de Durango, en materia de obra pública.
 
 ###### ARTÍCULO 2.
 
@@ -321,11 +323,15 @@ III. Los avances tecnológicos aplicables en función de la naturaleza de las ob
 
 IV. Los requerimientos de áreas y predios previa consulta con la SECOPE o con las áreas municipales que corresponda cuando se trate de obras urbanas, y cuando se trate de obras rurales, con las dependencias correspondientes para que éstas, en el ejercicio de sus atribuciones determinen su conveniencia y viabilidad. Asimismo, la observancia de las declaratorias de provisiones, usos, reservas y destinos de áreas y predios que se hubieren hecho conforme a lo dispuesto por las leyes de la materia;
 
-V. Tratándose de la edificación de vivienda de interés social, se procurará que en su construcción se utilicen preferentemente, módulos, sistemas y componentes industrializados;
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-VI. Los efectos y consecuencias sobre las condiciones ambientales, cuando éstas pudieran deteriorarse, los proyectos deberán incluir, si ello fuere posible, lo necesario para que se preserven o restauren las condiciones ambientales y los procesos ecológicos, considerando el medio ambiente como soporte de calidad de vida, para lo cual se solicitará la intervención de la SECOPE, y en su caso, de las dependencias que tengan atribuciones sobre la materia; y
+V. Promover programas de adecuación arquitectónica que favorezcan la inclusión total a las vías y espacios públicos.
 
-VII. Preferentemente, el empleo de recursos humanos y la utilización de materiales propios de la región.
+VI. Tratándose de la edificación de vivienda de interés social, se procurará que en su construcción se utilicen preferentemente, módulos, sistemas y componentes industrializados;
+
+VII. Los efectos y consecuencias sobre las condiciones ambientales, cuando éstas pudieran deteriorarse, los proyectos deberán incluir, si ello fuere posible, lo necesario para que se preserven o restauren las condiciones ambientales y los procesos ecológicos, considerando el medio ambiente como soporte de calidad de vida, para lo cual se solicitará la intervención de la SECOPE, y en su caso, de las dependencias que tengan atribuciones sobre la materia; y
+
+VIII. Preferentemente, el empleo de recursos humanos y la utilización de materiales propios de la región.
 
 ###### ARTÍCULO 26.
 
@@ -1196,3 +1202,15 @@ POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPOND
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS DIEZ DIAS DEL MES DE JUNIO DEL AÑO DE MIL NOVECIENTOS NOVENTA Y NUEVE.
 
 EL GOBERNADO CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
