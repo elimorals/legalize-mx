@@ -4,7 +4,7 @@ identifier: "DUR-ley-contra-el-lucro-inmoderado-11469"
 country: "mx"
 rank: "ley"
 publication_date: "1947-12-18"
-last_updated: "2014-12-25"
+last_updated: "2014-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "DUR"
 
 LEY CONTRA EL LUCRO INMODERADO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 288, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 299, PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 18 de diciembre de 1947.
 
@@ -94,6 +96,14 @@ Dado en el Palacio del Poder Ejecutivo, en Victoria de Durango, Dgo., a los 12 d
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE DICIEMBRE DE 2014.
+
+Artículo Primero.- El presente decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo.- Se abroga la Ley contra el Lucro Inmoderado para el Estado de Durango, publicado en el Decreto Número 14, de la XLI Legislatura, del Periódico Oficial Número 49, de Fecha 18 de diciembre de 1947.
+
+Artículo Tercero.- Se derogan todas las disposiciones que contravengan a las contenidas en la presente Ley.
+
+P.O. 28 DE DICIEMBRE DE 2014.
 
 Artículo Primero.- El presente decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
