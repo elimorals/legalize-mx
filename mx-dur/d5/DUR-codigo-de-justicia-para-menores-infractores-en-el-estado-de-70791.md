@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-justicia-para-menores-infractores-en-el-estado-de-707
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-11"
-last_updated: "2014-11-16"
+last_updated: "2014-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 11 de octubre de 2009.
 
@@ -49,11 +49,9 @@ CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
 Las disposiciones del presente Código, son de orden público y de observancia en todo el territorio del Estado de Durango.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
-
-Para efectos de este Código, cuando se haga referencia al Tribunal para Menores Infractores del Estado de Durango, se entenderá que se refiere al Tribunal de Menores Infractores del Poder Judicial del Estado contemplado en el apartado B del artículo 97 de la Constitución Política del Estado Libre y Soberano de Durango.
+Para efectos de este Código, cuando se haga referencia al Tribunal para Menores Infractores del Estado de Durango, se entenderá que se refiere al Tribunal de Menores Infractores del Poder Judicial del Estado contemplado en el artículo 117 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### Artículo 2.
 
@@ -307,7 +305,9 @@ IV. Cometidos con medios violentos como armas y explosivos; y
 
 V. Contra el libre desarrollo de la personalidad.
 
-Para los efectos de este artículo, sólo podrán considerarse delitos cometidos por medios violentos los siguientes: homicidio doloso, secuestro, desaparición forzada de personas, tortura, robo cometido con armas de fuego. Se consideran delitos contra el libre desarrollo de la personalidad: pornografía con personas menores de edad o que no tienen la capacidad para comprender el significado del hecho; delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho, lenocinio en menores de edad o que no tengan la capacidad de comprender el significado del hecho o de resistirlo; trata de personas en los términos del artículo 5, fracción III, incisos a) y c) del Código Penal.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+Para los efectos de este artículo sólo podrán considerarse delitos cometidos por medios violentos los siguientes: homicidio doloso, secuestro, desaparición forzada de personas, tortura, robo cometido con armas de fuego. Se consideran delitos contra el libre desarrollo de la personalidad: pornografía con personas menores de edad o que no tienen la capacidad para comprender el significado del hecho; delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho, lenocinio en menores de edad o que no tengan la capacidad de comprender el significado del hecho o de resistirlo; trata de personas en los términos del artículo 305, fracción III, incisos a) y c) del Código Penal.
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -373,7 +373,9 @@ XVIII. Oportunidad: Es el que supone la posibilidad de resolver ante el Minister
 
 XIX. Culpabilidad: Es el que se debe garantizar con la previsión de derecho de acto, de modo tal que prohíba que la responsabilidad se finque en los menores en base de criterios no judiciables tales como la personalidad, la vulnerabilidad biológica, la temibilidad o la peligrosidad;
 
-XX. Retributividad: Es el que prevé que toda medida, prevista en la Ley, se siga necesariamente de la certeza de que quien la recibe por que se ha verificado durante el proceso que realizo una conducta tipificado (sic) por Ley como delito;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+XX. Retributividad: Es el que prevé que toda medida, prevista en la Ley, se siga necesariamente de la certeza de que quien la recibe por que se ha verificado durante el proceso que realizó una conducta tipificada por Ley como delito;
 
 XXI. Libertad probatoria y libre valoración de la prueba: Es el que prevé que los Juzgadores dictarán sus resoluciones a verdad sabida, sin necesidad de sujetarse a las reglas sobre estimación de pruebas, sino apreciando los hechos y los documentos fundando y motivando dichas resoluciones;
 
@@ -501,9 +503,11 @@ Si se trata de personas que no puedan hablar u oír, se les podrán formular las
 
 En el caso de los miembros de pueblos o comunidades indígenas se les nombrará intérprete, aun cuando hablen el español, si así lo solicitan. Los documentos y las grabaciones en un idioma distinto del español deberán ser traducidos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 36.
 
-Los menores serán interrogadas (sic) en español o mediante la asistencia de un traductor o intérprete, cuando corresponda. La traducción o interpretación seguirá a cada pregunta o respuesta.
+Los menores serán interrogados en español o mediante la asistencia de un traductor o intérprete, cuando corresponda. La traducción o interpretación seguirá a cada pregunta o respuesta.
 
 ###### Artículo 37.
 
@@ -1227,9 +1231,11 @@ Todas las decisiones judiciales relativas a las medidas cautelares reguladas por
 
 El menor contra quien se haya librado la orden de detención, podrá ocurrir ante el Juez que corresponda para que se le formule la imputación. El Juez podrá ordenar, según el caso, que se mantenga en libertad al menor e, incluso, eximirlo de la aplicación de medidas cautelares personales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 144.
 
-No podrá librarse orden (sic) detención sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como conducta tipificada como delito o, sancionado con medida cautelar privativa de libertad en los términos de éste código y obren datos que establezcan que se ha cometido ese hecho y exista la probabilidad de que el menor lo cometió o participó en su comisión. Una vez cumplidos los anteriores requisitos, el Juez, a solicitud del Ministerio Público, podrá ordenar la detención del menor para ser conducido a su presencia, sin previa citación, a fin de formularle la imputación.
+No podrá librarse orden de detención sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como conducta tipificada como delito o, sancionado con medida cautelar privativa de libertad en los términos de éste código y obren datos que establezcan que se ha cometido ese hecho y exista la probabilidad de que el menor lo cometió o participó en su comisión. Una vez cumplidos los anteriores requisitos, el Juez, a solicitud del Ministerio Público, podrá ordenar la detención del menor para ser conducido a su presencia, sin previa citación, a fin de formularle la imputación.
 
 También se decretará la detención del menor cuya presencia en una audiencia judicial fuere condición de ésta y que, legalmente citado, no comparezca sin causa justificada, siempre y cuando se reúnan los requisitos previstos en el párrafo anterior.
 
@@ -1255,7 +1261,9 @@ Cualquier persona podrá detener al menor que se sorprenda en delito flagrante y
 
 Las autoridades que intervengan en la detención deberán informar al menor sobre su derecho a permanecer en silencio, la posibilidad de consultar a un defensor y le darán a conocer el motivo de la detención. La policía elaborará un registro pormenorizado de las circunstancias de ésta y dará aviso inmediato al Ministerio Público para proceder a la puesta a disposición, la cual se realizará de inmediato.
 
-Los agentes policiales estarán obligados a detener a los menores (sic) sorprendan en la comisión de un delito. En este caso o cuando reciban de cualquier persona o autoridad a un detenido, deberán ponerla de inmediato a disposición del Ministerio Público.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+Los agentes policiales estarán obligados a detener a los menores que sorprendan en la comisión de un delito. En este caso o cuando reciban de cualquier persona o autoridad a un detenido, deberán ponerla de inmediato a disposición del Ministerio Público.
 
 Cuando se detenga a un menor por un hecho que constituyera una conducta tipificada como delito que requiera querella de parte ofendida, será informado inmediatamente quien pueda presentarla y si éste no se presenta en un plazo razonable que no podrá ser superior a veinticuatro horas, el detenido será puesto en libertad de inmediato.
 
@@ -1921,9 +1929,11 @@ I. Pueda afectar la integridad física o la intimidad de alguna de las partes o 
 
 II. El orden público pueda verse gravemente afectado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 219.
 
-Los asistentes a la audiencia deberán guardar orden y permanecer en silencio mientras no esté (sic) autorizados para exponer o responder a las preguntas que se les formulen. No podrán portar armas u otros objetos aptos para interrumpir el desarrollo de la audiencia, ni adoptar comportamiento intimidatorio, ni manifestar de cualquier modo opiniones.
+Los asistentes a la audiencia deberán guardar orden y permanecer en silencio mientras no estén autorizados para exponer o responder a las preguntas que se les formulen. No podrán portar armas u otros objetos aptos para interrumpir el desarrollo de la audiencia, ni adoptar comportamiento intimidatorio, ni manifestar de cualquier modo opiniones.
 
 Se negará el acceso a cualquier persona que se presente en forma incompatible con la seriedad y los propósitos de la audiencia.
 
@@ -2049,9 +2059,11 @@ El menor acusado declarará siempre con libertad de movimiento, sin el uso de in
 
 Cada parte determinará el orden en que rendirá su prueba, correspondiendo recibir primero la ofrecida por el Ministerio Público y el acusador coadyuvante, y luego la ofrecida por el menor acusado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 236.
 
-Durante la audiencia, los peritos y testigos deberán ser interrogados personalmente. Su declaración personal no podrá ser sustituida por la lectura de los registros en que consten anteriores declaraciones o de otros documentos que las contengan, salvo lo (sic) para la prueba anticipada.
+Durante la audiencia, los peritos y testigos deberán ser interrogados personalmente. Su declaración personal no podrá ser sustituida por la lectura de los registros en que consten anteriores declaraciones o de otros documentos que las contengan, salvo lo dispuesto para la prueba anticipada.
 
 El Juez que presida la audiencia identificará al perito o testigo, le tomará protesta de conducirse con verdad y le advertirá de las penas que se imponen si se incurre en falsedad de declaraciones.
 
@@ -2259,9 +2271,11 @@ Todas las medidas estarán determinadas temporalmente, y no podrán superar bajo
 
 Podrá aplicarse una o más medidas previstas en este Código, de manera simultánea o alternativa, ya sea de forma provisional o definitiva.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 258.
 
-Las medidas que puedan ser cumplidas en libertad, se considerarán de prioritaria aplicación, mientras que las medidas privativas de la libertad deberán ser utilizadas en casos extremos y únicamente podrá aplicarse a los (sic) personas mayores de 14 años, tratándose de conductas tipificadas como delitos en el Código Penal o en las Leyes Estatales y que este ordenamiento considere como graves. En este caso el Juez competente deberá observar lo establecido en este Código.
+Las medidas que puedan ser cumplidas en libertad, se considerarán de prioritaria aplicación, mientras que las medidas privativas de la libertad deberán ser utilizadas en casos extremos y únicamente podrá aplicarse a las personas mayores de 14 años, tratándose de conductas tipificadas como delitos en el Código Penal o en las Leyes Estatales y que este ordenamiento considere como graves. En este caso el Juez competente deberá observar lo establecido en este Código.
 
 ###### Artículo 259.
 
@@ -2391,7 +2405,9 @@ El Director del Centro, revisará el Plan Individual de Ejecución como mínimo 
 
 El Juez de Ejecución, deberá informar tanto al menor como a sus familiares o representantes, el estado de cumplimiento del Plan Individual de Ejecución.
 
-En caso de ser necesario, este Plan podrá ser modificado o adaptado a nuevas condiciones que surjan durante su cumplimiento, pero siempre en atención a lo dispuesto la (sic) presente ordenamiento.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+En caso de ser necesario, este Plan podrá ser modificado o adaptado a nuevas condiciones que surjan durante su cumplimiento, pero siempre en atención a lo dispuesto en el presente ordenamiento.
 
 ###### Artículo 276.
 
@@ -2415,13 +2431,17 @@ Cuando se presente una solicitud de modificación, sustitución o cese de la med
 
 En la audiencia se rendirán las pruebas e informes técnicos de la Unidad de Diagnóstico que se estimen pertinentes y el Juez de Ejecución deberá resolver lo que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 279.
 
-Al iniciar la audiencia el Juez de Ejecución, le habrá (sic) saber a las partes el procedimiento que habrá de desarrollarse en la misma. A continuación le dará la palabra al Ministerio público o a la parte que la propone, para que exponga sintéticamente el fundamento de su solicitud y ofrezca las pruebas de su intención.
+Al iniciar la audiencia el Juez de Ejecución, le hará saber a las partes el procedimiento que habrá de desarrollarse en la misma. A continuación le dará la palabra al Ministerio público o a la parte que la propone, para que exponga sintéticamente el fundamento de su solicitud y ofrezca las pruebas de su intención.
 
 Luego se dará la palabra a la contraparte por si desea realizar un alegato y ofrezca las pruebas de su parte. Acto seguido, dará intervención al menor para que manifieste lo que a su derecho convenga.
 
-Seguidamente, el Juez de Ejecución admitirán (sic) las pruebas ofrecidas que así correspondan y procederá a su desahogo y valoración en el orden en que fueron ofrecidas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+Seguidamente, el Juez de Ejecución admitirá las pruebas ofrecidas que así correspondan y procederá a su desahogo y valoración en el orden en que fueron ofrecidas.
 
 ###### Artículo 280.
 
@@ -3033,11 +3053,13 @@ El Tribunal será la máxima autoridad jurisdiccional en la materia y órgano es
 
 El Tribunal, estará dotado de autonomía técnica, de decisión y personalidad jurídica y patrimonio propio.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 366.
 
-El Magistrado del Tribunal, deberán (sic) otorgar la protesta en la forma y términos que establece el artículo 121 de la Constitución Local, ante el Pleno del Congreso del Estado.
+El Magistrado del Tribunal, deberá otorgar la protesta en la forma y términos que establece el artículo 174 de la Constitución Local, ante el Pleno del Congreso del Estado.
 
-Los jueces del Tribunal, deberán otorgar la protesta en la forma y términos que establece el artículo 121 de la Constitución Local, ante el Magistrado Presidente del propio Tribunal.
+Los jueces del Tribunal, deberán otorgar la protesta en la forma y términos que establece el artículo 198 de la Ley Orgánica del Poder Judicial del Estado de Durango.
 
 ### CAPITULO II. ATRIBUCIONES DEL TRIBUNAL PARA MENORES INFRACTORES DEL ESTADO DE DURANGO
 
@@ -3051,9 +3073,11 @@ II. Desahogar el procedimiento y dictar las resoluciones que contengan las medid
 
 III. Vigilar el cumplimiento de la legalidad en el procedimiento y el respeto a los derechos de los menores sujetos a este ordenamiento y otras disposiciones de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 368.
 
-El Tribunal es competente para conocer de la conducta de las personas mayores de doce años y menores de dieciocho años de edad, que se encontraran implicados en hechos tipificados como delitos en el Código Penal o en las Leyes Estatales.
+El Tribunal es competente para conocer de la conducta de las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, que se encuentren implicados en hechos tipificados como delitos en el Código Penal o en las Leyes Estatales.
 
 La competencia del Tribunal, se establecerá atendiendo a la edad que hayan tenido los sujetos infractores, en la fecha de comisión de la infracción que se les atribuya; pudiendo, en consecuencia, conocer de las infracciones y ordenar las medidas de orientación, protección y tratamiento que correspondan, aun cuando aquéllos hayan alcanzado la mayoría de edad.
 
@@ -3095,13 +3119,11 @@ El Tribunal, tendrá un Presidente que a su vez será el Magistrado de la Sala U
 
 No podrá actuar como patrono, abogado o representante ante el Tribunal de Menores dentro del año siguiente a la fecha de que dejen su cargo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 371.
 
-El Presidente del Tribunal será designado por el Titular del Poder Ejecutivo y ratificado por Mayoría calificada del Congreso del Estado de Durango. El mismo, podrá ser reelecto hasta por una ocasión, previa evaluación de su desempeño por parte del Congreso.
+El Presidente del Tribunal será propuesto por el Titular del Poder Ejecutivo y ratificado por Mayoría calificada del Congreso del Estado de Durango. El mismo, durará seis años en el encargo y podrá ser ratificado hasta por una sola ocasión por igual periodo, previa evaluación de su desempeño por parte del Congreso del Estado.
 
 ###### Artículo 372.
 
@@ -3111,7 +3133,9 @@ I. Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos,
 
 II. Tener cuando menos treinta y cinco años cumplidos, al día de la propuesta de designación;
 
-III. Poseer para ese día (sic) designación una antigüedad mínima de diez años, del título y de Cedula profesional de Licenciado en Derecho o su equivalente, expedido por institución legalmente facultada para ello y registrado ante las autoridades correspondientes;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+III. Poseer para el día de la designación una antigüedad mínima de diez años, del título y de Cedula profesional de Licenciado en Derecho o su equivalente, expedido por institución legalmente facultada para ello y registrado ante las autoridades correspondientes;
 
 IV. Tener experiencia mínima de dos años en materia de menores Infractores y conocimientos en los derechos de los niños;
 
@@ -3125,13 +3149,17 @@ Este nombramiento, deberá recaer preferentemente entre aquellas personas que ha
 
 El Magistrado que haya concluido su período, permanecerá en el cargo hasta en tanto tome posesión el que se designe para substituirlo y a fin de que éste pueda recibir oficial y materialmente su oficina, previo acto de entrega-recepción previsto en la Ley de la materia en lo conducente.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 374.
 
-El Magistrado, los Jueces de Menores, Jueces de Ejecución, Secretarios y Actuarios del Tribunal estarán impedidos para desempeñar cualquier otro cargo o actividad profesional, excepto en instituciones docentes, literarias, de beneficencia o cuando actúen en defensa legal de causa propia. El incumplimiento de este precepto se sancionará con la destitución.
+El Magistrado, los Jueces de Menores, Jueces de Ejecución, Secretarios y Actuarios del Tribunal estarán impedidos para desempeñar cualquier otro cargo o actividad profesional, a excepción de lo establecido en el artículo 162 de la Ley Orgánica del Poder Judicial del Estado de Durango.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 375.
 
-El Magistrado será inamovible durante el período de su encargo y sólo podrán (sic) ser privado de su cargo en los términos y en los casos legalmente aplicables, conforme a los procedimientos que establezcan la Constitución Política del Estado Libre y Soberano de Durango y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+El Magistrado será inamovible durante el período de su encargo y sólo podrá ser privado de su cargo en los términos y en los casos legalmente aplicables, conforme a los procedimientos que establezcan la Constitución Política del Estado Libre y Soberano de Durango y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO No. 417, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR ONCE FRACCIONES.</small>
 
@@ -3289,7 +3317,9 @@ V. Instruir el procedimiento y emitir la resolución definitiva en su caso, en l
 
 VI. Ordenar a la Unidad de Diagnóstico, la práctica de los estudios psicológicos y familiares a los menores;
 
-VII. Enviar (sic) la Unidad de Diagnóstico copia de la sentencia definitiva para los efectos que establece este Código una vez que la misma ha quedado firme;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+VII. Enviar a la Unidad de Diagnóstico copia de la sentencia definitiva para los efectos que establece este Código una vez que la misma ha quedado firme;
 
 VIII. Vigilar en todo momento el respeto, integridad, dignidad y estricto cumplimiento de los derechos de los menores sujetos a su jurisdicción, previstos en la Constitución Federal, los Tratados Internacionales que hayan sido aprobados por el Senado de la República, la Constitución Local, este Código y demás ordenamientos aplicables;
 
@@ -3303,7 +3333,9 @@ XII. Recibir y turnar a la Presidencia de este Tribunal los asuntos relacionados
 
 XIII. Aplicar los acuerdos, y tomar en cuenta los precedentes emitidos por la Sala;
 
-XIV. Promover entre las partes la celebración de los medios alternos de justicia que establece que (sic) este Código, y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+XIV. Promover entre las partes la celebración de los medios alternos de justicia que establece este Código; y
 
 XV. Las demás que determinen este Código, los reglamentos, y el Presidente del Tribunal.
 
@@ -3373,7 +3405,9 @@ II. Fungir como la autoridad encargada de la evaluación de riesgos del imputado
 
 III. Presentar en la audiencia de juicio oral el dictamen respecto a la situación del menor, las medidas de orientación y supervisión conducentes a su adaptación social, basados en los estudios psicológico y familiar que le realicen;
 
-IV. Conocer el desarrollo y el resultado de las medidas de orientación, de protección y de tratamiento, y emitir el dictamen técnico correspondiente para efectos de la evaluación prevista en este ordenamiento;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+IV. Supervisar por lo menos cada tres meses o cuando el Juez de Ejecución así lo determine, los programas de medidas no privativas de la libertad; y
 
 V. Supervisar por lo menos cada mes meses (sic) o cuando el Juez de Ejecución así lo determine, los programas de medidas no privativas de la libertad;
 
@@ -3705,9 +3739,11 @@ IV. Las demás que le señale el Reglamento Interior del Centro.
 
 #### SECCIÓN QUINTA. DEPARTAMENTO DE MEDICINA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 413.
 
-El Departamento de Medicina estará integrada por Médicos especializados en Pediatría y tendrá las siguientes funciones:
+El Departamento de Medicina estará integrado por Médicos especializados en Pediatría y tendrá las siguientes funciones:
 
 I. Elaborar la historia clínica del menor, estudiando los antecedentes patológicos, hereditarios y personales del menor, incluyendo el examen antropométrico y actualizarlo constantemente;
 
@@ -3715,7 +3751,9 @@ II. Elaborar los dictámenes médicos que solicite el Juez de Menores, Juez de E
 
 III. Brindar atención médica a los menores que la necesiten;
 
-IV. Notificando a la Dirección del Centro el resultado del examen médico practicados (sic);
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+IV. Notificar a la Dirección del Centro, el resultado del examen médico practicado;
 
 V. Hacer del conocimiento del Director del Centro los casos de enfermedades transmisibles o infectocontagiosas que se presenten en los internos, para que éste tome de inmediato las medidas pertinentes; y
 
@@ -3916,3 +3954,13 @@ P.O. 16 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 28 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan a las contenidas en el presente Decreto.
