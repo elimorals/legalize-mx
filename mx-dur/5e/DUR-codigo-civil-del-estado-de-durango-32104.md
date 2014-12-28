@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2014-05-06"
+last_updated: "2014-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1369,7 +1369,9 @@ Los consortes que no se encuentren en el caso previsto en los anteriores párraf
 
 ART. 268.- El divorcio por mutuo consentimiento no puede pedirse sino pasados dos años de celebración del matrimonio.
 
-ART. 269.- Mientras se decreta el divorcio el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+ART. 269.- Mientras se decreta el divorcio el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos, y para garantizar el desarrollo físico y emocional de los menores y los bienes del cónyuge.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1997)</small>
 
@@ -1461,15 +1463,17 @@ Si los dos cónyuges fueren culpables y existan elementos para ello, el Juez les
 
 Tercera.- En caso de las fracciones VI y VII del artículo 262, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-ART. 278 BIS.- En la sentencia de divorcio se observará en ella: la protección para los hijos que incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 973 del Código de Procedimientos Civiles del Estado de Durango, para el caso de los mayores incapaces sujetos a la tutela de alguno de los excónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección.
+ART. 278 BIS.- En la sentencia de divorcio se observará en ella: la protección para los hijos que incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar o de alienación parental, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 973 del Código de Procedimientos Civiles del Estado de Durango; para el caso de los mayores incapaces sujetos a la tutela de alguno de los excónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2004)</small>
 
 Para el caso de los mayores incapaces, sujetos a la tutela de alguno de los excónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-ART. 279.- Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, podrán acordar los tribunales, a petición de los abuelos, tíos o hermanos mayores o el Ministerio Público, cualquiera providencia que se considere benéfica a los menores o incapaces.
+ART. 279.- Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, podrán acordar los tribunales, a petición de los abuelos, tíos o hermanos mayores o el Ministerio Público, cualquiera providencia que se considere benéfica a los menores o incapaces. El que ejerza la patria potestad o guarda y custodia, debe inculcar el respeto y el acercamiento constante de los menores con el otro progenitor, con sus hermanos y con sus demás familiares. Cualquier progenitor o familiar, tiene la obligación de hacer del conocimiento del juez las conductas que pudieran constituir alienación parental.
 
 ART. 280.- El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
@@ -2053,9 +2057,13 @@ De la Patria Potestad.
 
 De los efectos de Patria Potestad, respecto de la persona de los hijos.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-ART. 406.- En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
+ART. 406.- En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición; por lo tanto, deberá evitarse todo acto, de parte de cualquiera de los progenitores o ascendientes, encaminado a provocar en un menor de edad rechazo, rencor o distanciamiento hacia el otro progenitor. Cuando el juez tenga conocimiento de este tipo de actos tomará las medidas necesarias de seguridad, seguimiento, y en su caso, ordenará las terapias que permitan corregir y evitar estas conductas, con el propósito de salvaguardar la integridad física y emocional del menor.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+ART. 406 BIS.- La alienación parental es la manipulación que un progenitor o un familiar realiza hacia un menor de edad, mediante la desaprobación o la crítica, con el objeto de denigrar al otro progenitor o a sus familiares y con el propósito de producir en el menor, rechazo, rencor, odio o desprecio hacia alguno de éstos, con el propósito de inducir al menor a rechazar la convivencia con el progenitor o familiar.
 
 ART. 407.- Los hijos menores de edad no emancipados, están bajo la patria protestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
 
@@ -2077,17 +2085,21 @@ Si viven separados, se observará en el caso lo dispuesto en los artículos 375 
 
 ART. 411.- En los casos previstos en los artículos 375 y 376, cuando por cualquiera circunstancia deja de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-ART. 412.- En caso de separación o divorcio de los padres o abuelos, continuarán ejerciendo ambos la patria potestad, la custodia será decidida por convenio o por el Juez de lo Familiar, atento a lo dispuesto en el Artículo 278 de este Código, teniendo siempre en cuenta los intereses del hijo.
+ART. 412.- En caso de separación o divorcio de los padres o abuelos, continuarán ejerciendo ambos la patria potestad; la custodia será decidida por convenio o por el Juez de lo Familiar, atento a lo dispuesto en el Artículo 278 de este Código, teniendo siempre en cuenta el interés superior del hijo.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
 
 Al progenitor o cónyuge abandonado, por más de seis meses, le corresponderá la custodia de los hijos que haya conservado consigo.
 
-No podrán impedirse, sin justa causa, las relaciones personales entre el hijo y sus ascendientes. En caso de oposición, el Juez de lo Familiar, a petición del menor o del ascendiente, resolverá atendiendo al interés superior del menor.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
+No podrán impedirse, sin justa causa, las relaciones personales entre el hijo y sus ascendientes. En caso de oposición, el juez, a petición del menor o del ascendiente, resolverá atendiendo al interés superior del menor. Los ascendientes deben evitar cualquier acto sobre el hijo orientado a provocar rechazo, rencor o distanciamiento hacia otro ascendiente.
 
-El derecho de visita y convivencia podrá suspenderse o perderse por decisión judicial, en los casos en que el menor haya sido víctima de violencia familiar por parte de quien tenga el derecho de visita o convivencia o sea sustraído o retenido sin autorización de quien tenga la custodia.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+El derecho de visita y convivencia podrá suspenderse o perderse por decisión judicial, en los casos en que el menor haya sido víctima de violencia familiar por parte de quien tenga el derecho de visita o convivencia o sea sustraído o retenido sin autorización de quien tenga la custodia. El cónyuge que ejerza la guarda y custodia del hijo deberá evitar conductas que promuevan la separación, rechazo, o falta de convivencia de los hijos con el cónyuge separado, el juez vigilará el cumplimiento de ello, y en su caso, podrá revocar de inmediato la custodia.
 
 > <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
 
@@ -2235,15 +2247,17 @@ VI.- Cuando se tolere que otras personas cometan atentado o pongan en riesgo la 
 
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2010)</small>
 
-VII.- Por no dar cumplimiento por más de seis meses, sin causa justificada, a las obligaciones de crianza, a los sujetos a patria potestad; y (sic)
+VII.- Por no dar cumplimiento por más de seis meses, sin causa justificada, a las obligaciones de crianza, a los sujetos a patria potestad; y
 
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2010)</small>
 
 VIII.- Por la negativa injustificada, por más de tres meses, de no proporcionar alimentos a quien tenga obligación de darlos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-IX.- Cuando el que la ejerce incurra en conductas de violencia familiar de manera reiterada en contra de los menores sobre los que ejerzan la patria potestad;
+IX.- Cuando uno de los progenitores realice, en forma reiterada y grave, en la persona de los hijos, conductas que ocasionen alienación parental que impacte al menor en su desarrollo armónico, o afecte a la persona, libertad o patrimonio del otro que ejerce la patria potestad, acreditable mediante dictamen que ordene el juez a perito especializado en la materia. La pérdida cesará una vez que el alineador justifique, al Juez que conoce del asunto, haberse sometido al tratamiento que le permita tener una sana relación con el menor.
+
+Cuando el que ejerce la patria potestad la pierda por incurrir en los supuestos de las fracciones III, VII y VIII de este artículo, no podrá recuperarla.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2009)</small>
 
@@ -2280,6 +2294,10 @@ IV.- Cuando el que la ejerce incurra en conductas de violencia familiar en contr
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2004)</small>
 
 V.- Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico de las sustancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos, amenacen causar algún perjuicio cualquiera que éste sea al menor.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+VI.- Cuando uno de los cónyuges realice en la persona de los hijos, conductas que causen alienación parental que impacte gravemente al menor en su desarrollo armónico, o afecte a la persona, libertad o patrimonio del otro que ejerce la patria potestad, acreditable mediante dictamen que ordene el juez a perito especializado en la materia. La pérdida cesará una vez que el alienador justifique, al Juez que conoce del asunto, haberse sometido al tratamiento que le permita tener una sana relación con el menor.
 
 ART. 443.- La patria potestad no es renunciable; pero aquellos a quienes corresponda ejercerla, pueden excusarse;
 
@@ -10486,3 +10504,9 @@ III. En el resto de los Distrititos Judiciales, conforme lo establezca la Declar
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que contravengan a las contenidas en el presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
