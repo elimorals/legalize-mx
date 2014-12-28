@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-de-datos-personales-del-estado-de-durango-973
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-05"
-last_updated: "2013-12-05"
+last_updated: "2014-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 5 de diciembre de 2013.
 
@@ -79,35 +79,65 @@ VIII. Seguridad: implica garantizar la confidencialidad de los datos personales,
 
 Para efectos de esta Ley, además de las definiciones establecidas, en materia de protección de datos personales, en la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango, se entenderá por:
 
-I. Bloqueo: La identificación y conservación de datos personales una vez cumplida la finalidad para la que fueron recabados, con el único propósito de determinar posibles responsabilidades en relación con su tratamiento, hasta el plazo de prescripción de éstas. Durante dicho período, los datos personales no podrán ser objeto de tratamiento y transcurrido éste, cancelación en la base de datos que corresponde;
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-II. Catálogo de disposición documental: El Registro general y sistemático que establece los valores documentales, los plazos de conservación, la vigencia documental, la clasificación de confidencialidad y el destino final de los documentos que contienen datos personales;
+I. Aviso de Privacidad: Documento físico, electrónico o en cualquier otro formato emitido por el responsable del sistema de datos personales al titular de éstos, para informarle sobre los datos que se recaban, su finalidad y tratamiento;
 
-III. Consentimiento: Toda manifestación de voluntad, libre, inequívoca, específica e informada, mediante la que el interesado consienta el tratamiento de datos personales que le conciernen;
+II. Bloqueo: La identificación y conservación de datos personales una vez cumplida la finalidad para la que fueron recabados, con el único propósito de determinar posibles responsabilidades en relación con su tratamiento, hasta el plazo de prescripción de éstas. Durante dicho período, los datos personales no podrán ser objeto de tratamiento y transcurrido éste, cancelación en la base de datos que corresponde;
 
-IV. Comisión: La Comisión Estatal para la Transparencia y el Acceso a la Información Pública;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-V. Datos especialmente protegidos: Los datos personales concernientes al origen racial y étnico; las opiniones políticas; convicciones filosóficas, religiosas y morales; afiliación sindical o política; preferencias sexuales; estados de salud físicos o mentales; relaciones familiares o conyugales u otras análogas que afecten la intimidad;
+III. Catálogo de Disposición Documental: El Registro general y sistemático que establece los valores documentales, los plazos de conservación, la vigencia documental, la clasificación de confidencialidad y el destino final de los documentos que contienen datos personales;
 
-VI. Datos personales: La información concerniente a una persona física, identificada o identificable, relativa a sus características físicas y datos generales como son: nombre, domicilio, estado civil, edad, sexo, escolaridad, número telefónico y datos patrimoniales; asimismo aquellos relativos a su origen racial y étnico; las opiniones políticas; convicciones filosóficas, religiosas y morales; afiliación sindical o política; preferencias sexuales; estados de salud físicos o mentales; relaciones familiares o conyugales u otras análogas que afecten la intimidad;
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-VII. Disociación: El procedimiento mediante el cual los datos personales no pueden asociarse al interesado ni permitir, por su estructura, contenido o grado de desagregación, la identificación del mismo;
+IV. Comité de Clasificación: cuerpo colegiado que designa el titular del sujeto obligado cuyas atribuciones se establecen el Capitulo X de la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango, y las que le confiere la presente Ley de Protección de Datos Personales del Estado de Durango;
 
-VIII. Encargado: El servidor público o cualquier otra persona física o moral facultada por un instrumento jurídico o expresamente autorizado por el responsable para llevar a cabo el tratamiento físico o automatizado de los datos personales;
+V. Consentimiento: Toda manifestación de voluntad, libre, inequívoca, específica e informada, mediante la que el interesado consienta el tratamiento de datos personales que le conciernen;
 
-IX. Interesado: La persona física titular de los datos que sean objeto del tratamiento;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-X. Ley: La Ley de Protección de Datos Personales del Estado de Durango;
+VI. Datos Personales: La información concerniente a una persona física, identificada o identificable, relativa a sus características físicas y datos generales como son: domicilio, estado civil, edad, sexo, escolaridad, número telefónico y datos patrimoniales;
 
-XI. Responsable: El servidor público o cualquier otra persona física titular de la unidad administrativa responsable de las decisiones sobre el tratamiento físico o automatizado de datos personales, así como del contenido y finalidad de los sistemas de datos personales;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-XII. Sistema (s): Es el conjunto ordenado de datos personales que están en posesión de un sujeto obligado, recabados en el ejercicio de su función o con el consentimiento del interesado;
+VII. Datos Personales Sensibles: Aquellos datos personales relativos al origen racial y étnico, las opiniones políticas, convicciones filosóficas, religiosas y morales; afiliación sindical o política; preferencias sexuales, estados de salud físicos o mentales, huella dactilar e información genética; relaciones familiares o conyugales u otras análogas que afecten la intimidad;
 
-XIII. Tercero: La persona física o moral, pública o privada, autoridad, entidad, órgano u organismo distinta del interesado, del responsable del tratamiento, del responsable del sistema de datos personales, del encargado del tratamiento y de las personas autorizadas para tratar los datos bajo la autoridad directa del responsable del tratamiento o del encargado del tratamiento;
+VIII. Disociación: El procedimiento mediante el cual los datos personales no pueden asociarse al interesado ni permitir, por su estructura, contenido o grado de desagregación, la identificación del mismo;
 
-XIV. Tratamiento: Cualquier operación o conjunto de operaciones, efectuadas mediante procedimientos automatizados o físicos, aplicada a datos personales, como la obtención, registro, organización, conservación, elaboración, modificación, extracción, consulta, utilización, comunicación por transmisión, difusión o cualquier otra forma, que facilite el acceso a los datos personales, su cotejo o interconexión, así como su bloqueo, supresión o destrucción; y
+IX. Encargado: El servidor público o cualquier otra persona física o moral facultada por un instrumento jurídico o expresamente autorizado por el responsable para llevar a cabo el tratamiento físico o automatizado de los datos personales;
 
-XV. Transmisión: Toda comunicación o cesión de datos personales a una persona distinta del interesado. No se considerará como tal la efectuada por el responsable al encargado de los datos personales.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+X. Instituto: Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales;
+
+XI. Ley: La Ley de Protección de Datos Personales del Estado de Durango;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+XII. Medidas Compensatorias: Son los mecanismos alternos que permiten dar a conocer a los titulares el aviso de privacidad, a través de su difusión por medios masivos de comunicación u otros mecanismos de amplio alcance, cuando no sea posible poner a disposición el aviso a cada titular, de manera personal o directa;
+
+XIII. Responsable: El servidor público o cualquier otra persona física titular de la unidad administrativa responsable de las decisiones sobre el tratamiento físico o automatizado de datos personales, así como del contenido y finalidad de los sistemas de datos personales;
+
+XIV. Sistema (s): Es el conjunto ordenado de datos personales que están en posesión de un sujeto obligado, recabados en el ejercicio de su función o con el consentimiento del interesado;
+
+XV. Tercero: La persona física o moral, pública o privada, autoridad, entidad, órgano u organismo distinta del interesado, del responsable del tratamiento, del responsable del sistema de datos personales, del encargado del tratamiento y de las personas autorizadas para tratar los datos bajo la autoridad directa del responsable del tratamiento o del encargado del tratamiento;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+XVI. Titular: La persona física a quien corresponden los datos personales;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+XVII. Tratamiento: Cualquier operación o conjunto de operaciones, efectuadas mediante procedimientos automatizados o físicos, aplicada a datos personales, como la obtención, registro, organización, conservación, elaboración, modificación, extracción, consulta, utilización, comunicación por transmisión, difusión o cualquier otra forma, que facilite el acceso a los datos personales, su cotejo o interconexión, así como su bloqueo, supresión o destrucción;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+XVIII. Transferencia: Toda comunicación o cesión de datos a persona distinta del responsable o encargado del tratamiento; y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+XIX. Unidad de Enlace: Son las encargadas de transparentar el ejercicio de la función pública que realicen los sujetos obligados y coadyuvar con el efectivo ejercicio del derecho de acceso a la información pública y la protección de datos personales.
 
 ###### Artículo 5.
 
@@ -125,9 +155,21 @@ V. Los Ayuntamientos de los Municipios o Consejos Municipales y todas las depend
 
 VI. Los órganos autónomos previstos en la Constitución Política del Estado Libre y Soberano de Durango y en las Leyes estatales reconocidos como de interés público;
 
-VII. Las Universidades e Instituciones Públicas de Educación Superior; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-VIII. Los Partidos y Agrupaciones políticas u organismos semejantes reconocidos por las Leyes, con registro en el Estado.
+VII. Las Universidades e Instituciones Públicas de Educación Superior;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+VIII. Los Partidos y Agrupaciones políticas u organismos semejantes reconocidos por las Leyes, con registro en el Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+IX. Los concesionarios de bienes y servicios, y sindicatos que reciban recursos públicos; y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+X. Fideicomisos y fondos públicos.
 
 ### CAPITULO II. DEL TRATAMIENTO DE LOS DATOS PERSONALES
 
@@ -143,9 +185,11 @@ El consentimiento será expreso cuando la voluntad se manifieste verbalmente, po
 
 Se entenderá que el titular consiente tácitamente el tratamiento de sus datos, cuando habiéndose puesto a su disposición el aviso de privacidad, no manifieste su oposición.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 8.
 
-Tratándose de datos especialmente protegidos el responsable deberá obtener el consentimiento expreso y por escrito del titular para su tratamiento, a través de su firma autógrafa, electrónica o cualquier mecanismo de autenticación que al efecto se establezca.
+Tratándose de datos sensibles el responsable deberá obtener el consentimiento expreso y por escrito del titular para su tratamiento, a través de su firma autógrafa, electrónica o cualquier otro mecanismo de autentificación que al efecto se establezca.
 
 ###### Artículo 9.
 
@@ -177,23 +221,39 @@ V. Las disposiciones legales exijan su publicidad.
 
 Si la transmisión se efectúa previo procedimiento de disociación, no será aplicable lo establecido en los artículos anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-Los responsables deberán informar a los interesados de modo expreso, preciso e inequívoco lo siguiente:
+Los responsables deberán informar a los titulares mediante el aviso de privacidad de modo expreso, preciso e inequívoco lo siguiente:
 
-I. Que sus datos se incorporaran a un sistema de datos personales, la finalidad del tratamiento y los destinatarios;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-II. Del carácter obligatorio o facultativo de la entrega de los datos personales;
+I. Identificación y domicilio del responsable que recabe;
 
-III. De las consecuencias de la negativa a suministrarlos;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-IV. De la posibilidad que estos datos sean transmitidos, en cuyo caso deberá constar el consentimiento expreso de la persona;
+II. Que sus datos se incorporarán a un sistema de datos personales y la finalidad del tratamiento;
 
-V. De la posibilidad de ejercitar los derechos de acceso, rectificación, cancelación y oposición; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-VI. Del cargo y dirección del responsable.
+III. Las opciones y medios que el responsable ofrezca a los titulares para limitar el uso o divulgación de los datos;
 
-Cuando los datos de carácter personal no hayan sido obtenidos del interesado, éste deberá ser informado de forma expresa y clara, por el responsable dentro de los tres meses siguientes al momento del registro de los datos.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+IV. Los medios para ejercer los derechos de acceso, rectificación, cancelación u oposición, de conformidad con lo dispuesto en esta Ley;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+V. De las transferencias de datos que puedan efectuarse, en cuyo caso deberá constar el consentimiento expreso del titular; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+VI. El procedimiento y medio por el cual el responsable comunicará a los titulares de los cambios que se efectúen al aviso de privacidad.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+Cuando los datos de carácter personal no hayan sido obtenidos del titular, este deberá ser informado de forma expresa y clara por el responsable dentro de los tres meses siguientes al momento del registro de los datos.
 
 ###### Artículo 12.
 
@@ -201,9 +261,33 @@ Lo dispuesto en el artículo anterior no será aplicable cuando:
 
 I. Expresamente un ordenamiento legal así lo prevea;
 
-II. El tratamiento tenga fines históricos, estadísticos o científicos; o
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-III. Cuando a criterio de la autoridad competente la información al interesado resulte materialmente imposible, ya que exija esfuerzos desproporcionados, en consideración al número de titulares, a la antigüedad de los datos y a las posibles medidas compensatorias.
+II. El tratamiento tenga fines históricos, estadísticos o científicos; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+III. Cuando para el sujeto obligado resulte imposible dar a conocer el aviso de privacidad al titular al exigir esfuerzos desproporcionados en consideración al número de titulares o a la antigüedad de los datos, deberá instrumentar medidas compensatorias que previamente le autorice el Instituto.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 12 Bis.
+
+Las medidas compensatorias que pueden instrumentarse por los sujetos obligados para dar a conocer a los titulares el aviso de privacidad serán las siguientes:
+
+I. Diarios de circulación nacional;
+
+II. Diarios locales o revistas especializadas;
+
+III. Página de Internet del responsable;
+
+IV. Hiperenlaces o hipervínculos situados en una página de Internet del Instituto;
+
+V. Carteles informativos;
+
+VI. Cápsulas informativas radiofónicas, y
+
+VII. Otros medios alternos de comunicación masiva.
 
 ###### Artículo 13.
 
@@ -263,35 +347,49 @@ En el caso de que el tratamiento de los datos personales haya sido realizado por
 
 ### CAPITULO III. DE LOS SISTEMAS
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
-Los sujetos obligados deberán elaborar un documento de seguridad que establezca las medidas de seguridad físicas, técnicas y administrativas adoptadas para cada sistema que posean, las cuales garanticen el nivel de protección bajo, medio o alto que requieren los datos personales contenidos en dichos sistemas, con base en los Lineamientos respectivos que emita la Comisión.
+Los sujetos obligados deberán elaborar un documento de seguridad que establezca las medidas de seguridad físicas, técnicas y administrativas adoptadas para cada sistema que posean, las cuales garanticen el nivel de protección bajo, medio o alto que requieren los datos personales contenidos en dichos sistemas, con base en los lineamientos respectivos que emita el Instituto.
 
 ###### Artículo 26.
 
 El documento de seguridad deberá incluir el nombre, cargo y adscripción de los responsables y encargados que intervienen en el tratamiento de los datos personales.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 27.
 
-En el supuesto de actualización de los datos del documento de seguridad, la modificación respectiva deberá notificarse a la Comisión, dentro de los 30 días siguientes a que se efectuó.
+En el supuesto de actualización de los datos del documento de seguridad, la modificación respectiva deberá notificarse al Instituto, dentro de los 30 días siguientes al día en que se efectuó.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 28.
 
-Para garantizar la seguridad de los sistemas, los titulares de los sujetos obligados deberán adoptar las medidas siguientes:
+Los titulares de los sujetos obligados dispondrán lo necesario para establecer las medidas de seguridad, técnicas y organizativas, para garantizar la confidencialidad e integridad de los sistemas, con la finalidad de proteger los datos personales y evitar su pérdida, destrucción, alteración o acceso no autorizado.
 
-I. Designar al responsable; y
+Asimismo, deberán adoptar las medidas siguientes:
 
-II. Observar los lineamientos que, para tal efecto, emita la Comisión.
+I. Designar al responsable;
+
+II. Implementar medidas de seguridad y protección física, técnica, organizativa y de control; y
+
+III. Observar los lineamientos que, para tal efecto, emita el Instituto.
 
 ###### Artículo 29.
 
 El responsable del Sistema deberá:
 
-I. Atender y vigilar el cumplimiento de las medidas de seguridad establecidas por la Comisión;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+I. Atender y vigilar el cumplimiento de las medidas de seguridad establecidas por el Instituto establecidas en los lineamientos que emita;
 
 II. Establecer los criterios específicos sobre el manejo, mantenimiento, seguridad y protección del sistema;
 
-III. Difundir la normatividad aplicable entre el personal involucrado en el manejo de los datos personales, y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+III. Difundir la normatividad aplicable entre el personal involucrado en el manejo de los datos personales;
 
 IV. Elaborar un plan de capacitación en materia de seguridad de datos personales;
 
@@ -299,11 +397,15 @@ V. Adoptar las medidas para el resguardo de los sistemas, de manera que se evite
 
 VI. Autorizar a los encargados y llevar una relación actualizada de las personas que tengan acceso a los sistemas; y
 
-VII. Notificar a la Comisión, a las autoridades competentes y a los titulares de la información, en los supuestos de divulgación de los incidentes relacionados con la conservación o mantenimiento de los sistemas previstos en las recomendaciones de medidas de seguridad de los datos personales.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+VII. Notificar al Instituto, a las autoridades competentes y a los titulares de la información, en los supuestos de divulgación de los incidentes relacionados con la conservación o mantenimiento de los sistemas previstos en las recomendaciones de medidas de seguridad de los datos personales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 30.
 
-Los sistemas en posesión de los sujetos obligados deberán ser registrados ante la Comisión, quien conformará un listado actualizado de los mismos.
+Los sistemas en posesión de los sujetos obligados deberán ser registrados ante el Instituto, quien conformará un listado actualizado de los mismos.
 
 El listado contendrá por cada sistema registrado la información a que se refiere el artículo siguiente.
 
@@ -329,11 +431,13 @@ VIII. El tipo de soporte del propio sistema; y
 
 IX. Las medidas adoptadas para garantizar la seguridad de los datos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 32.
 
-La Comisión deberá elaborar, actualizar y publicar en el sitio de Internet para consulta pública, los listados de los sistemas registrados por los sujetos obligados.
+El Instituto deberá elaborar, actualizar y publicar en el sitio de Internet para consulta pública, los listados de los sistemas registrados por los sujetos obligados.
 
-La publicación de los listados de los sistemas registrados en su sitio de Internet, a más tardar treinta días hábiles a partir de su recepción.
+La publicación de los listados de los sistemas registrados en su sitio de Internet, se hará a más tardar treinta días hábiles posteriores al día de su recepción.
 
 ### CAPITULO IV. DE LOS DERECHOS DE ACCESO, RECTIFICACIÓN, CANCELACIÓN Y OPOSICIÓN
 
@@ -341,31 +445,45 @@ La publicación de los listados de los sistemas registrados en su sitio de Inter
 
 Los derechos de acceso, rectificación, cancelación y oposición de datos personales son derechos independientes. El ejercicio de cualquiera de ellos no es requisito previo ni impide el ejercicio de otro.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 34.
 
-El interesado tiene derecho a tener acceso a sus datos personales gratuitamente, a conocer el origen de dichos datos así como las transmisiones realizadas o que se prevean hacer de los mismos en términos de lo previsto por esta Ley.
+El titular tiene derecho a acceder a sus datos personales gratuitamente, a conocer el origen de dichos datos, así como las transmisiones realizadas o que se prevean hacer de los mismos en términos de lo previsto por esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 35.
 
-Cuando la persona de cuyos datos se trate hubiese fallecido o sea declarada judicialmente su presunción de muerte, podrán solicitar la información sus familiares en línea recta sin limitación de grado o colaterales hasta el tercer grado.
+Cuando el titular de los datos hubiere fallecido o sea declarada judicialmente su presunción de muerte, podrán solicitar la información sus familiares en línea recta sin limitación de grado o colaterales hasta el tercer grado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 36.
 
-El interesado tendrá derecho a rectificar sus datos personales cuando sean inexactos o incompletos, siempre que no sea material o legalmente imposible o exija esfuerzos desproporcionados, a criterio de la autoridad competente en la materia.
+El titular tendrá derecho a rectificar sus datos personales, cuando sean inexactos o incompletos, siempre que no sea material o legalmente imposible o exija esfuerzos desproporcionados, a criterio de la autoridad competente en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 37.
 
-El interesado tendrá derecho a cancelar sus datos personales cuando:
+El titular tendrá derecho a cancelar sus datos personales cuando:
 
-I. El tratamiento de los mismos no se ajuste a lo dispuesto por la Ley, sus Reglamentos o los lineamientos respectivos;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+I. El tratamiento de los mismos no se ajuste a lo dispuesto por la Ley, sus reglamentos o los lineamientos respectivos; y
 
 II. Hubiere ejercido el derecho de oposición y este haya resultado procedente.
 
 Cuando un dato personal sea cancelado, el mismo será susceptible de ser bloqueado.
 
-La cancelación dará lugar al bloqueo de los datos, conservándose únicamente a disposición de los sujetos obligados, para la atención de las posibles responsabilidades nacidas del tratamiento, durante el plazo de prescripción de éstas. Cumplido el plazo deberá procederse a su supresión, en términos de la normatividad aplicable.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
-La supresión de datos no procede cuando pudiese causar perjuicios a derechos o intereses legítimos de terceros, o cuando exista una obligación legal de conservar dichos datos.
+La cancelación dará lugar al bloqueo de los datos, conservándose únicamente a disposición de los sujetos obligados, para la atención de las posibles responsabilidades nacidas del tratamiento, durante el plazo equivalente al de prescripción de las acciones derivadas de la relación jurídica que funda el tratamiento de los datos. Cumplido el plazo deberá procederse a su supresión, en términos de la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+La cancelación de datos no procede cuando pudiese causar perjuicios a derechos o intereses legítimos de terceros, cuando exista una obligación legal de conservar dichos datos o sean necesarios para cumplir una obligación legalmente adquirida por el titular. Una vez cancelado el dato se dará aviso a su titular.
 
 ###### Artículo 38.
 
@@ -383,15 +501,21 @@ De proceder la oposición, el responsable del sistema deberá excluir del tratam
 
 El ejercicio de la acción de protección de datos personales, se sustanciará de conformidad con lo dispuesto en el presente capítulo, sin perjuicio de las disposiciones previstas en el capítulo séptimo de la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango.
 
-Sólo el titular o su representante legal podrá solicitar a la unidad de enlace, previa acreditación, el ejercicio de la acción de protección de datos personales, que comprende el acceso, rectificación, cancelación o haga efectivo su derecho de oposición, respecto de los datos personales que le conciernen y que obren en un sistema en posesión del sujeto obligado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+Solo el titular o su representante legal podrá, previa acreditación, solicitar ante la unidad de enlace del sujeto obligado el ejercicio de la acción de protección de datos personales, que comprende el acceso, rectificación, cancelación o haga efectivo su derecho de oposición, respecto de los datos personales que le conciernen y que obren en un sistema en posesión del sujeto obligado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 41.
 
-La solicitud del ejercicio de la acción de protección de datos personales deberá contener:
+La solicitud de acceso, rectificación, cancelación u oposición, respecto de datos personales deberá contener:
 
 I. El sujeto obligado al que se dirige;
 
-II. Los datos generales del titular o de su representante legal, en su caso;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+II. Nombre del titular o de su representante legal, en su caso;
 
 III. Copia de la Identificación oficial del titular o de su representante legal, en su caso;
 
@@ -403,23 +527,33 @@ VI. La descripción clara y precisa de los datos personales respecto de los que 
 
 VII. Cualquier otro elemento que facilite la localización de la información.
 
-Opcionalmente se señalará la modalidad en la que el interesado prefiere se otorgue el acceso a sus datos personales, la cual podrá ser mediante consulta directa, copias simples, certificadas o cualquier otro tipo de medio.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
+El titular señalará la modalidad en la que prefiere se otorgue el acceso a sus datos personales, la cual podrá ser mediante consulta directa, copias simples o certificadas, correo electrónico o cualquier otro tipo de medio que facilite el acceso.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 42.
 
-Si la información proporcionada por el solicitante no basta o es errónea, la unidad de enlace podrá requerir por única vez y dentro de los cinco días hábiles siguientes a la presentación de la acción de protección de datos personales, que indique otros elementos o corrija la información presentada. Este requerimiento interrumpirá el plazo establecido en el artículo siguiente de esta Ley.
+Si la información proporcionada por el titular no es suficiente o es errónea, la unidad de enlace podrá requerir por única vez y dentro de los cinco días hábiles siguientes a la presentación de la acción de protección de datos personales, que indique otros elementos o corrija la información presentada. Este requerimiento interrumpirá el plazo establecido en el artículo siguiente de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 43.
 
-La unidad de enlace deberá notificar al solicitante, en un plazo de quince días hábiles contados a partir del día hábil siguiente al de la recepción de la acción de protección de datos personales, la procedencia o negativa de dicha acción, debidamente fundada y motivada.
+La unidad de enlace deberá notificar al titular, en un plazo no mayor de quince días hábiles, contados a partir del día hábil siguiente al de la recepción de la acción de protección de datos personales, la procedencia o negativa de dicha acción, debidamente fundada y motivada.
 
-Cuando la complejidad o volumen de la información lo ameriten, se hará la notificación al solicitante, fundándose y motivándose la ampliación del plazo hasta por diez días hábiles; esta comunicación deberá hacerse del conocimiento del solicitante durante los primeros cinco días hábiles a partir de la presentación de su escrito de solicitud de acción de protección de los datos personales.
+Cuando la complejidad o volumen de la información lo ameriten, se hará la notificación al solicitante, fundándose y motivándose la ampliación del plazo hasta por diez días hábiles; esta comunicación deberá hacerse del conocimiento del titular durante los primeros cinco días hábiles a partir de la presentación de su escrito de solicitud de acción de protección de los datos personales.
 
-En caso de que no se resuelva dentro del término señalado, o la resolución no sea favorable a los intereses del interesado, éste podrá acudir ante la Comisión a interponer el recurso de revisión establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango.
+De resultar procedente la acción de protección de datos que promueva el titular, la unidad de enlace hará efectiva la misma dentro de los cinco días hábiles siguientes a la fecha en la que se comunica la respuesta y, de ser el caso, se hayan cubierto los costos que señala el artículo 57 Bis de la Ley de Hacienda del Estado de Durango.
+
+En caso de que no se resuelva dentro del término señalado, o la resolución no sea favorable a los intereses del titular, este podrá acudir ante el Instituto a interponer el Recurso de Revisión que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 44.
 
-Las notificaciones que se hagan durante el procedimiento de protección de datos personales por la unidad de enlace, así como el recurso de revisión interpuesto ante la Comisión podrán ser:
+Las notificaciones que se hagan durante el procedimiento de protección de datos personales por la unidad de enlace, así como el recurso de revisión interpuesto ante el Instituto podrán ser:
 
 I. En el domicilio señalado por el titular; o
 
@@ -427,41 +561,55 @@ II. Por medio de sistemas electrónicos.
 
 En lo no contenido por la presente en materia de notificaciones, serán supletorias las disposiciones del Código de justicia Administrativa para el Estado de Durango.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 45.
 
-En el supuesto de que los datos personales obren en los sistemas del sujeto obligado y éste, considere improcedente la acción, el Comité para la Clasificación de Información correspondiente emitirá una resolución fundada y motivada al respecto, notificándola al interesado, a través de la unidad de enlace.
+En el supuesto de que los datos personales obren en los sistemas del sujeto obligado y este considere improcedente la acción, el Comité para la Clasificación de Información correspondiente emitirá una resolución fundada y motivada al respecto, notificándola al titular a través de la unidad de enlace.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 46.
 
-En caso de que los datos personales requeridos no fuesen localizados en los sistemas del sujeto obligado, el Comité para la Clasificación de Información lo hará constar en su resolución declarando su inexistencia y lo notificará al interesado a través de la unidad de enlace.
+En caso de que los datos personales requeridos no fuesen localizados en los sistemas del sujeto obligado, el Comité para la Clasificación de Información lo hará constar en su resolución declarando su inexistencia y lo notificará al titular a través de la unidad de enlace.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 47.
 
-El ejercicio de la acción de protección de datos personales será gratuito, debiendo cubrir el solicitante el costo de la reproducción de la información, de conformidad con los montos que establece el artículo 57 bis de la Ley de Hacienda del Estado de Durango.
+El ejercicio de la acción de protección de datos personales será gratuito, debiendo cubrir el titular el costo de la reproducción de la información, de conformidad con los montos que establece el artículo 57 bis de la Ley de Hacienda del Estado de Durango.
 
-El único medio por el cual el solicitante podrá recibir la información referente a los datos personales será en la unidad de enlace respectiva, y sin mayor formalidad que la de acreditar su identidad.
+El único medio por el cual el titular podrá recibir la información referente a los datos personales será en la unidad de enlace respectiva, y sin mayor formalidad que la de acreditar su identidad.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 48.
 
-En el caso de que la acción de protección de datos personales verse sobre la rectificación de datos personales, el interesado deberá indicar, además de lo señalado en el artículo 45 de esta Ley, las modificaciones a realizarse y aportar la documentación que sustente su petición.
+En el caso de que la acción de protección de datos personales verse sobre la rectificación de datos personales, el titular deberá indicar, además de lo señalado en el artículo 45 de esta Ley, las modificaciones a realizarse y aportar la documentación que sustente su solicitud.
 
 ###### Artículo 49.
 
 Cuando la acción de protección de datos personales se presente para la cancelación de datos, la solicitud deberá indicar si revoca el consentimiento otorgado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 50.
 
-El interesado al que se niegue, total o parcialmente, el ejercicio de la acción de protección de datos personales, podrá interponer el recurso de revisión previsto en la Ley de Transparencia y Acceso a la Información del Estado de Durango, de acuerdo con el procedimiento establecido en su Capítulo XIII.
+El titular al que se niegue, total o parcialmente, el ejercicio de la acción de protección de datos personales, podrá interponer el recurso de revisión previsto en la Ley de Transparencia y Acceso a la Información del Estado de Durango, de acuerdo con el procedimiento establecido en su Capítulo XIII.
 
 ### CAPITULO VI. DE LA AUTORIDAD
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
-La comisión es el órgano encargado de dirigir y vigilar el cumplimiento de la presente Ley, así como de las normas que de ella deriven; será la autoridad encargada de garantizar la protección y el correcto tratamiento de datos personales.
+El Instituto es el órgano encargado de vigilar y verificar el cumplimiento de la presente Ley, así como de las normas que de ella deriven; será la autoridad encargada de garantizar la protección y el correcto tratamiento de datos personales en posesión de los sujetos obligados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 52.
 
-La Comisión tendrá las siguientes facultades:
+El Instituto tendrá las siguientes facultades:
 
 I. Vigilar el cumplimiento de la presente Ley;
 
@@ -566,3 +714,11 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNÁNDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado (sic) Durango.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
