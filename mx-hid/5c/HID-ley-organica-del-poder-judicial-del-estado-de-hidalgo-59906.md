@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-59906"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-01-07"
-last_updated: "2014-11-10"
+last_updated: "2014-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "HID"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE DICIEMBRE DE 2014, EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014 (DEROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014 (ABROGADA).
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Número 1 Bis del Periódico Oficial del Estado de Hidalgo, el lunes 7 de enero de 2008.
 
@@ -3119,7 +3119,9 @@ P.O. 10 DE NOVIEMBRE DE 2014.
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. El presente decreto deroga el diverso 391 que contiene la Ley Orgánica del Poder Judicial (sic) Estado de Hidalgo, publicado en el Periódico Oficial del Estado el 7 de enero del 2008, cuyo título cuarto relativo al Tribunal Electoral que comprende los artículos 96 al 117 de esa Ley continuará en vigor, hasta en tanto se expida la legislación que lo regule.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+SEGUNDO. El presente decreto abroga el diverso 391 que contiene la Ley Orgánica del Poder Judicial del Estado de Hidalgo, publicado en el Periódico Oficial del Estado el 7 de enero del 2008, cuyo título cuarto relativo al Tribunal Electoral que comprende los artículos 96 al 117 de esa Ley continuará en vigor, hasta en tanto se expida la legislación que lo regule.
 
 TERCERO. En un término no mayor de 180 días naturales, deberá expedirse el Reglamento de la presente Ley.
 
