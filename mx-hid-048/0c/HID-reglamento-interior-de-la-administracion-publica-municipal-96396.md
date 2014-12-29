@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-administracion-publica-municipal-9639
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-21"
-last_updated: "2013-10-21"
+last_updated: "2014-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
 
@@ -2281,11 +2281,11 @@ Para el cumplimiento de su objeto, estudio, planeación, operación y despacho d
 
 I. Dirección de Desarrollo Social;
 
-II. Dirección de Participación Social y Cultural;
+II. (DEROGADA POR ARTÍCULO SEXTO TRANSITORIO DEL DECRETO MUNICIPAL NÚMERO VEINTIUNO.- QUE CONTIENE LA CREACIÓN DEL INSTITUTO MUNICIPAL PARA LA CULTURA DE PACHUCA, HIDALGO, P.O. 29 DE DICIEMBRE DE 2014)
 
 III. Dirección de Educación; y
 
-IV. Dirección de Atención a la Juventud.
+IV. (DEROGADA POR ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO MUNICIPAL NÚMERO DIECINUEVE POR EL QUE SE CREA EL INSTITUTO MUNICIPAL PARA LA JUVENTUD DEL MUNICIPIO DE PACHUCA DE SOTO, P.O. 29 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 86.
 
@@ -2327,33 +2327,9 @@ XVII. Participar en campañas de vacunación, ferias de salud, detecciones oport
 
 XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
 
-###### Artículo 87.
+###### ARTÍCULO 87.
 
-A la Dirección de Participación Social y Cultural le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Desarrollar y ejecutar el Programa Municipal de Cultura y Participación Social, mediante la implementación de políticas públicas en materia cultural;
-
-II. Formular e implementar proyectos y programas que permitan rescatar, preservar y fomentar la identidad y el conjunto de bienes culturales del Municipio;
-
-III. Dirigir la instrumentación, ejecución, supervisión y evaluación de estrategias y acciones abocadas al fomento de la cultura en el Municipio, en coordinación con las dependencias estatales y federales competentes;
-
-IV. Organizar el control, supervisión y evaluación de la ejecución de estrategias y acciones para la prestación de servicios culturales, el fomento de las actividades artísticas y recreativas;
-
-V. Fomentar y organizar la presentación de artistas, compañías teatrales, grupos musicales y compañías de danza, tanto locales como foráneas;
-
-VI. Organizar y coordinar en forma permanente con los gobiernos Estatal y Federal, la realización de festivales artísticos que estimulen la cultura;
-
-VII. Establecer vínculos con el sector público, social y privado, nacional e internacional para el fomento, estímulo y divulgación de la actividad cultural del Municipio;
-
-VIII. Organizar y realizar eventos especiales de cultura y arte en general;
-
-IX. Fomentar las relaciones culturales con los países extranjeros, con la colaboración de las instancias Estatales y Federales competentes que promuevan el fomento de la cultura dentro del Municipio;
-
-X. Establecer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
-
-XI. Desarrollar programas que fomenten la cultura de corresponsabilidad social, particularmente, aquellos que permitan la participación de jóvenes, niños y niñas; y,
-
-XII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL DECRETO MUNICIPAL NÚMERO VEINTIUNO.- QUE CONTIENE LA CREACIÓN DEL INSTITUTO MUNICIPAL PARA LA CULTURA DE PACHUCA, HIDALGO, P.O. 29 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 88.
 
@@ -2393,33 +2369,7 @@ XVI. Las demás que determinen las disposiciones legales y reglamentarias aplica
 
 ###### ARTÍCULO 89.
 
-A la Dirección de Atención a la Juventud le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Proponer al Titular de la Secretaría acciones en materia de política y planeación Municipal para la Atención a la Juventud;
-
-II. Diseñar programas, proyectos y estudios focalizados a la atención de la juventud, que permitan promover sus derechos a la vida, salud, educación, trabajo, profesionalización, medio ambiente, recreación y deporte, principalmente;
-
-III. Representar, cuando le sea instruido al Titular de la Secretaría, ante las diferentes instancias municipales, estatales y federales, organizaciones sociales y privadas, estatales, nacionales o internacionales relacionadas con la atención a la juventud;
-
-IV. Proponer al Titular de la Secretaría la concertación de acuerdos y convenios con las diferentes instancias municipales, estatales y federales, que promuevan la participación del Municipio en la ejecución de políticas, programas y acciones tendientes al desarrollo integral de la juventud;
-
-V. Coordinar la observancia de la Ley de la Juventud del Estado de Hidalgo y del marco jurídico vigente aplicable en la materia;
-
-VI. Promover, en coordinación con la Secretaría de Desarrollo Económico Municipal, la implementación de programas y proyectos que impulsen el emprendimiento de nuevos negocios;
-
-VII. Implementar acciones y procedimientos, que permitan vincular a los sectores productivos del Municipio con los jóvenes, promoviendo el acceso a un empleo formal,
-
-VIII. Coordinar la gestión y promoción de becas de estudio, trabajo, formación profesional y capacitación a jóvenes del Municipio;
-
-IX. Brindar asesoría a la población juvenil para el acceso a los programas municipales, estatales y federales, que apoyen el desarrollo integral de los jóvenes en el Municipio;
-
-X. Gestionar ante las autoridades competentes servicios de medicina general y especializada y planificación familiar dirigida a los jóvenes del Municipio para preservar su salud;
-
-XI. Coordinar las base (sic) de organización y funcionamiento para el establecimiento de comités de la juventud;
-
-XII. Establecer un sistema de captación de propuestas, sugerencias e inquietudes de la juventud, que permita su adecuada canalización a las diferentes secretarías municipales; y
-
-XIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+(DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO MUNICIPAL NÚMERO DIECINUEVE POR EL QUE SE CREA EL INSTITUTO MUNICIPAL PARA LA JUVENTUD DEL MUNICIPIO DE PACHUCA DE SOTO, P.O. 29 DE DICIEMBRE DE 2014)
 
 ### CAPÍTULO XI. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
@@ -3362,3 +3312,31 @@ C. JUANA ROSA ZACARÍAS AYALA
 PROFRA. ROSA MARÍA ZAMUDIO MONTUFAR
 
 LIC. OLIVIA ZÚÑIGA SANTÍN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2014.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO DIECINUEVE POR EL QUE SE CREA EL INSTITUTO MUNICIPAL PARA LA JUVENTUD DEL MUNICIPIO DE PACHUCA DE SOTO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se deroga la fracción IV del artículo 85 y el articulo 89 del Decreto Municipal Número Siete que contiene el Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Hidalgo, publicado en el Tomo CXLVI del Alcance al Periódico Oficial de fecha 21 de Octubre de 2013.
+
+P.O. 29 DE DICIEMBRE DE 2014.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO VEINTIUNO.- QUE CONTIENE LA CREACIÓN DEL INSTITUTO MUNICIPAL PARA LA CULTURA DE PACHUCA, HIDALGO”.]
+
+PRIMERO. El presente Decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Quedan derogadas todas aquellas disposiciones reglamentarias, decretos y publicaciones que se opongan al presente Decreto.
+
+TERCERO. La Junta de Gobierno se integrará dentro de los 30 días siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. El Director General del INSTITUTO elaborará el Reglamento Interno para que sea aprobado por el Ayuntamiento de Pachuca de Soto, Hidalgo y los Manuales Operativos para proponerlos a la Junta de Gobierno dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. El personal de la Dirección de Participación Social y Cultural pertenecientes a la Secretaría de Desarrollo Humano y Social formarán parte del INSTITUTO.
+
+SEXTO. Se DEROGA la fracción II del artículo 85 y el artículo 87 del Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Estado de Hidalgo, publicado mediante decreto número Siete, el día 21 de octubre de 2013 en el Periódico Oficial del Estado, número 42.
+
+SÉPTIMO. Sin perjuicio de lo anterior, al INSTITUTO se le otorgará suficiencia presupuestaria y recursos humanos para el ejercicio fiscal 2015.
