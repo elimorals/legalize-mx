@@ -4,7 +4,7 @@ identifier: "FED-decreto-que-autoriza-al-ejecutivo-federal-para-firmar-en-12999"
 country: "mx"
 rank: "decreto"
 publication_date: "1945-12-31"
-last_updated: "2012-05-14"
+last_updated: "2014-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12999&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,44 +19,42 @@ issue_date: "1945-12-26"
 ---
 # DECRETO QUE AUTORIZA AL EJECUTIVO FEDERAL PARA FIRMAR, EN REPRESENTACION DEL GOBIERNO DE MEXICO, EL TEXTO DEL CONVENIO SOBRE FONDO MONETARIO INTERNACIONAL, APROBADO EN BRETTON WOODS, E.U.A
 
-DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 3o. DEL DECRETO QUE AUTORIZÓ AL EJECUTIVO FEDERAL A FIRMAR, EN REPRESENTACIÓN DEL GOBIERNO DE MÉXICO, EL TEXTO DEL CONVENIO SOBRE EL FONDO MONETARIO INTERNACIONAL.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 4o. DEL DECRETO QUE AUTORIZA AL EJECUTIVO FEDERAL A FIRMAR, EN REPRESENTACIÓN DEL GOBIERNO DE MÉXICO, LOS CONVENIOS CONSTITUTIVOS SOBRE EL FONDO MONETARIO INTERNACIONAL Y EL BANCO INTERNACIONAL DE RECONSTRUCCIÓN Y FOMENTO
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2012.
+Decreto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 29 de diciembre de 2014.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
 
 DECRETO
 
-"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
+"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
 
-SE REFORMA EL ARTÍCULO 3o. DEL DECRETO QUE AUTORIZÓ AL EJECUTIVO FEDERAL A FIRMAR, EN REPRESENTACIÓN DEL GOBIERNO DE MÉXICO, EL TEXTO DEL CONVENIO SOBRE EL FONDO MONETARIO INTERNACIONAL.
-
-Artículo Primero.- Se reforma el Artículo 3o. del Decreto que autorizó al Ejecutivo Federal a firmar, en representación del Gobierno de México, el texto del Convenio sobre el Fondo Monetario Internacional, aprobado en Bretton Woods, E.U.A., publicado en el Diario Oficial de la Federación del 31 de diciembre de 1945, para quedar como sigue:
-
-###### Artículo 3o.
-
-El Banco de México efectuará la aportación de los Estados Unidos Mexicanos al Fondo Monetario Internacional. La citada aportación será hasta por la cantidad equivalente a ocho mil novecientos doce millones, setecientos mil derechos especiales de giro.
-
-Artículo Segundo.- Se autoriza al Ejecutivo Federal por conducto del Banco de México, para que, en representación de los Estados Unidos Mexicanos, actualice las aportaciones al Fondo Monetario Internacional por una cantidad de cinco mil doscientos ochenta y siete millones de derechos especiales de giro, conforme a los términos establecidos en la Resolución 66-2 del 15 de diciembre de 2010, adoptada por la Junta de Gobernadores del Fondo Monetario Internacional, a fin de dar cumplimiento a lo indicado en el Artículo Primero de este Decreto.
-
-Artículo Tercero.- Se autoriza al Ejecutivo Federal para que en representación del Gobierno de México, acepte la enmienda al Convenio Constitutivo sobre el Fondo Monetario Internacional aprobada por su Junta de Gobernadores conforme a la Resolución 66-2 del 15 de diciembre de 2010.
+SE REFORMA EL ARTÍCULO 4o. DEL DECRETO QUE AUTORIZA AL EJECUTIVO FEDERAL A FIRMAR, EN REPRESENTACIÓN DEL GOBIERNO DE MÉXICO, LOS CONVENIOS CONSTITUTIVOS SOBRE EL FONDO MONETARIO INTERNACIONAL Y EL BANCO INTERNACIONAL DE RECONSTRUCCIÓN Y FOMENTO.
 
 ###### ARTÍCULO PRIMERO.
 
-Se reforma el Artículo 3o. del Decreto que autorizó al Ejecutivo Federal a firmar, en representación del Gobierno de México, el texto del Convenio Sobre el Fondo Monetario Internacional, aprobado en Bretton Woods, E.U.A., publicado en el Diario Oficial de la Federación del 31 de diciembre de 1945, para quedar como sigue:
+Se reforma el artículo 4o. del Decreto que autoriza al Ejecutivo Federal a firmar, en representación del Gobierno de México, los Convenios Constitutivos sobre el Fondo Monetario Internacional y el Banco Internacional de Reconstrucción y Fomento, para quedar como sigue:
+
+###### Artículo 4o.
+
+El Gobierno Federal, por conducto del Banco de México, hará la suscripción adicional de 21,021 acciones del Banco Internacional de Reconstrucción y Fomento hasta por el equivalente a 2,535,868,335 (dos mil quinientos treinta y cinco millones ochocientos sesenta y ocho mil trescientos treinta y cinco) dólares de Estados Unidos de América, de las cuales:
+
+a) 8,459 acciones corresponden al Aumento General de Capital, equivalentes a 1,020,451,465 (mil veinte millones cuatrocientos cincuenta y un mil cuatrocientos sesenta y cinco) dólares de Estados Unidos de América, y
+
+b) 12,562 acciones corresponden al Aumento Selectivo de Capital, equivalentes a 1,515,416,870 (mil quinientos quince millones cuatrocientos dieciséis mil ochocientos setenta) dólares de Estados Unidos de América.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se autoriza al Ejecutivo Federal por conducto del Banco de México, para que, en representación de los Estados Unidos Mexicanos, actualice las aportaciones al Fondo Monetario Internacional por una cantidad de cuatrocientos setenta y dos millones novecientos mil derechos especiales de giro, conforme a los términos establecidos en la Resolución No. 63-2, de fecha 28 de abril de 2008, adoptada por la Junta de Gobernadores del Fondo Monetario Internacional, a fin de dar cumplimiento a lo indicado en el Artículo Primero de este Decreto.
+Se autoriza al Ejecutivo Federal para aceptar enmiendas al Convenio Constitutivo del Banco Internacional de Reconstrucción y Fomento, que sean consecuencia de las reformas y adiciones a que se refiere el artículo primero de este Decreto.
 
 ## Transitorio
 
-Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario oficial de la Federación.
 
-México, D. F., a 12 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Laura Arizmendi Campos, Secretaria.- Rúbricas."
+México, D.F., a 4 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Lucero Saldaña Pérez, Secretaria.- Dip. Graciela Saldaña Fraire, Secretaria.- Rúbricas."
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de mayo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
