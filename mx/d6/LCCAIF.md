@@ -4,7 +4,7 @@ identifier: "LCCAIF"
 country: "mx"
 rank: "ley"
 publication_date: "1960-12-31"
-last_updated: "2009-01-22"
+last_updated: "2014-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LCCAIF"
 ---
 # LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACION INTERNACIONAL DE FOMENTO
 
-LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACION INTERNACIONAL DE FOMENTO
+LEY QUE ESTABLECE BASES PARA LA EJECUCIÓN EN MÉXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1960.
 
@@ -42,15 +42,13 @@ LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDE
 
 Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960.
 
-> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 2o.
 
-Se autoriza al Gobierno Federal para que por conducto del Banco de México efectúe las siguientes aportaciones a la Asociación Internacional de Fomento hasta por el equivalente en Derechos Especiales de Giro, que a continuación se indican:
+Se autoriza al Gobierno Federal para que por conducto del Banco de México efectúe la siguiente aportación a la Asociación Internacional de Fomento hasta por el equivalente en Derechos Especiales de Giro, que a continuación se indica:
 
-a) 7'070,000 (siete millones setenta mil), por concepto de suscripción adicional correspondiente a la Decimocuarta Reposición de Capital, cantidad que se adicionará a las suscripciones anteriores efectuadas por nuestro país.
-
-b) 10'180,000 (diez millones ciento ochenta mil), por concepto de suscripción adicional correspondiente a la Decimoquinta Reposición de Capital, cantidad que se adicionará a las suscripciones anteriores efectuadas por nuestro país.
+a) 66´140,000 (sesenta y seis millones ciento cuarenta mil), por concepto de suscripción adicional correspondiente a la Decimosexta Reposición de Capital, cantidad que se adicionará a las suscripciones anteriores efectuadas por nuestro país.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -106,7 +104,7 @@ Enrique Sada Baigts, D. P.- Guillermo Ramírez Valadez, S. P.- Juan José Osorio
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos sesenta.- Adolfo López Mateos.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.- El Secretario de Gobernación, Gustavo Díaz Ordaz.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 8 DE ENERO DE 1981.
 
@@ -191,5 +189,9 @@ D.O.F. 22 DE ENERO DE 2009.
 Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refiere la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para dar cumplimiento a lo dispuesto en el artículo anterior.
 
 ## TRANSITORIO
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
