@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2014-06-13"
+last_updated: "2014-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL D.O.F. DE 5 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO, UNA VEZ QUE ENTRE EN VIGOR A NIVEL FEDERAL GRADUALMENTE EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE AL EFECTO EMITA EL CONGRESO DE LA UNIÓN PREVIA SOLICITUD CONJUNTA DEL PODER JUDICIAL DE LA FEDERACIÓN, LA SECRETARÍA DE GOBERNACIÓN Y DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA, SIN QUE PUEDA EXCEDER DEL 18 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1063,13 +1063,61 @@ Si a pesar de no haberse hecho la notificación en la forma que este Código pre
 
 Las notificaciones hechas contra lo dispuesto en este Capítulo serán nulas, excepto en el caso del artículo anterior.
 
-### CAPITULO I. Iniciación del procedimiento
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
+
+### CAPITULO XIII. Acuerdos Reparatorios
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 112 Bis.
+
+Los acuerdos reparatorios son aquéllos celebrados entre la víctima u ofendido y el inculpado que, una vez aprobados por el Ministerio Público o el Juez y cumplidos en sus términos, tienen como efecto la conclusión del procedimiento penal.
+
+Serán procedentes en los casos siguientes:
+
+I. Delitos que se persiguen por querella o requisito equivalente de parte ofendida;
+
+II. Delitos culposos, o
+
+III. Delitos patrimoniales cometidos sin violencia sobre las personas.
+
+No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos de la misma naturaleza jurídica, salvo que hayan transcurrido cinco años de haber dado cumplimiento al último acuerdo reparatorio, o se trate de delitos de violencia familiar.
+
+Procederán hasta antes de que se formulen las conclusiones. El Juez a petición de las partes, podrá suspender el proceso penal hasta por treinta días para que las partes puedan concretar el acuerdo con el apoyo de la autoridad competente especializada en la materia. En caso de que la concertación se Interrumpa, cualquiera de las partes podrá solicitar la continuación del proceso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 112 Ter.
+
+Las partes podrán celebrar acuerdos reparatorios de cumplimiento inmediato o diferido. En caso de señalar que el cumplimiento debe ser diferido y no señalar plazo específico, se entenderá que el plazo será por un año.
+
+El plazo para el cumplimiento de las obligaciones suspenderá el trámite del proceso y la prescripción de la acción penal.
+
+Si el imputado incumple sin justa causa las obligaciones pactadas dentro del plazo acordado, el Ministerio Público lo hará del conocimiento del Juez, quien ordenará levantar la suspensión del trámite del proceso y continuará con el procedimiento como si no se hubiera celebrado acuerdo alguno. La información que se genere como producto de los acuerdos reparatorios no podrá ser utilizada en perjuicio de las partes dentro del proceso penal.
+
+El juez decretará la extinción de la acción penal una vez aprobado el cumplimiento pleno de las obligaciones pactadas en un acuerdo reparatorio, haciendo las veces de sentencia ejecutoriada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 112 Quáter.
+
+Los acuerdos reparatorios deberán ser aprobados por el Juez cuando sean de cumplimiento diferido o cuando el proceso ya se haya iniciado y por el Ministerio Público, en la etapa de averiguación previa, cuando sean de cumplimiento inmediato; en este último caso, se declarará extinta la acción penal.
+
+La parte inconforme con esta determinación del Ministerio Público podrá recurrirla ante el titular de la institución de procuración de justicia o el servidor público que el mismo determine dentro del plazo de tres días contados a partir de aquél en que se haya aprobado el acuerdo.
+
+Previo a la aprobación del acuerdo reparatorio, el Juez o el Ministerio Público verificarán que las obligaciones que se contraen no resulten notoriamente desproporcionadas y que los intervinientes estuvieron en condiciones de igualdad para negociar y que no hayan actuado bajo condiciones de intimidación, amenaza o coacción.
 
 ## TITULO SEGUNDO. Averiguación previa
 
-### CAPITULO II. Reglas especiales para la práctica de diligencias y levantamiento de actas de averiguación previa
+### CAPITULO I. Iniciación del procedimiento
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
@@ -1145,9 +1193,9 @@ Este artículo se aplicará también en lo conducente cuando se tache de falso a
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
-### CAPITULO III. Consignación ante los tribunales
+### CAPITULO II. Reglas especiales para la práctica de diligencias y levantamiento de actas de averiguación previa
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 123.
 
@@ -1357,11 +1405,13 @@ En ningún caso podrá desentenderse la solicitud y toda omisión imputable al c
 
 Se castigará a la autoridad investigadora que utilice los datos e información obtenidos como resultado de localización geográfica de equipos de comunicación móvil para fines distintos a los señalados en este artículo, en términos de lo establecido en la fracción IV del artículo 214 del Código Penal Federal.
 
-### CAPITULO UNICO. Acción penal
+### CAPITULO III. Consignación ante los tribunales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 134.
 
-En cuanto aparezca de la averiguación previa que se han acreditado el cuerpo del delito y la probable responsabilidad del indiciado, en los términos del artículo 168, el Ministerio Público ejercitará la acción penal ante los tribunales y expresará, sin necesidad de acreditarlo plenamente, la forma de realización de la conducta, los elementos subjetivos específicos cuando la descripción típica lo requiera, así como las demás circunstancias que la ley prevea.
+En cuanto aparezca de la averiguación previa que se han acreditado el cuerpo del delito y la probable responsabilidad del indiciado, en los términos del artículo 168, salvo en los casos previstos en este Código y demás disposiciones aplicables, el Ministerio Público ejercitará la acción penal ante los tribunales y expresará, sin necesidad de acreditarlo plenamente, la forma de realización de la conducta, los elementos subjetivos específicos cuando la descripción típica lo requiera, así como las demás circunstancias que la ley prevea.
 
 > <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
@@ -1427,9 +1477,7 @@ La presente disposición no será aplicable cuando se trate de los delitos grave
 
 ## TITULO TERCERO
 
-### CAPITULO I. Reglas generales de la instrucción
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+### CAPITULO UNICO. Acción penal
 
 ###### ARTICULO 136.
 
@@ -1607,7 +1655,9 @@ Particularmente, el juez podrá considerar en la sentencia, como medida de prote
 
 ## TITULO CUARTO. Instrucción
 
-### CAPITULO II. Declaración preparatoria del inculpado y nombramiento de defensor
+### CAPITULO I. Reglas generales de la instrucción
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 142.
 
@@ -1725,9 +1775,7 @@ El inculpado podrá optar por el procedimiento ordinario dentro de los tres día
 
 (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
-### CAPITULO III. Autos de formal prisión, de sujeción a proceso y de libertad por falta de elementos para procesar
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+### CAPITULO II. Declaración preparatoria del inculpado y nombramiento de defensor
 
 ###### ARTICULO 153.
 
@@ -1797,9 +1845,9 @@ Fuera de los casos excluidos en el párrafo anterior, el inculpado puede designa
 
 Si el inculpado designare a varios defensores, éstos deberán nombrar en el mismo acto a un representante común, y si no lo hicieren, en su lugar lo determinará el juez.
 
-### CAPITULO I. Comprobación del cuerpo del delito y de la probable responsabilidad del inculpado
+### CAPITULO III. Autos de formal prisión, de sujeción a proceso y de libertad por falta de elementos para procesar
 
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 161.
 
@@ -1897,9 +1945,9 @@ También en estos casos, el Ministerio Público podrá promover prueba, en ejerc
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE MAYO DE 1999)</small>
 
-### CAPITULO II. Huellas del delito.- Aseguramiento de los Instrumentos y objetos del mismo
+### CAPITULO I. Comprobación del cuerpo del delito y de la probable responsabilidad del inculpado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 168.
 
@@ -2025,7 +2073,9 @@ En las actividades que desarrollen el o los policías que ejecuten la orden se c
 
 El Ministerio Público de la Federación deberá dar aviso de la autorización prevista en el primer párrafo de este artículo al Ministerio Público de las entidades federativas en las que se ejecute la orden respectiva.
 
-### CAPITULO III. Atención médica a los lesionados
+### CAPITULO II. Huellas del delito.- Aseguramiento de los Instrumentos y objetos del mismo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 181.
 
@@ -2265,9 +2315,7 @@ En los casos de envenenamiento se recogerán cuidadosamente las vasijas y demás
 
 Si el delito fuere de falsificación de documento, además de la minuciosa descripción que se haga de éste, se depositará en lugar seguro haciendo que firmen sobre aquél, si fuere posible, las personas que depongan respecto de su falsedad, y en caso contrario, se hará constar el motivo. Al expediente se agregará una copia certificada del documento argüido de falso y otra fotostática del mismo, si fuere necesario y posible.
 
-### CAPITULO IV. Aseguramiento del inculpado
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+### CAPITULO III. Atención médica a los lesionados
 
 ###### ARTICULO 188.
 
@@ -2313,9 +2361,9 @@ Los certificados de defunción o de sanidad expedidos por médicos particulares,
 
 Cuando un lesionado necesite pronta atención, cualquier médico que se halle presente donde aquél se encuentre, debe atenderlo y aun trasladarlo del lugar de los hechos al sitio apropiado para su atención, sin esperar la intervención de la autoridad, debiendo comunicar a ésta, inmediatamente después de brindarle los primeros auxilios, los siguientes datos: nombre del lesionado; lugar preciso en que fue encontrado y circunstancias en que se hallaba; naturaleza de las lesiones que presente y causas probables que las originaron; curaciones que se le hubieren hecho, y lugar preciso en que queda a disposición de la autoridad.
 
-### CAPITULO I. Medios de prueba
+### CAPITULO IV. Aseguramiento del inculpado
 
-(REFORMADO, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADO, D.O.F. 9 DE ENERO DE 1991)
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 193.
 
@@ -2589,7 +2637,7 @@ XII. De la Ley del Mercado de Valores, los delitos previstos en los artículos 3
 
 > <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-XIII. De la Ley de los Sistemas de Ahorro para el Retiro, los previstos en los artículos 103, y 104 cuando el monto de la disposición de los fondos, valores o documentos que manejen de los trabajadores con motivo de su objeto, exceda de trescientos cincuenta mil días de salario mínimo general vigente en el Distrito Federal, y (sic)
+XIII. De la Ley de los Sistemas de Ahorro para el Retiro, los previstos en los artículos 103, y 104 cuando el monto de la disposición de los fondos, valores o documentos que manejen de los trabajadores con motivo de su objeto, exceda de trescientos cincuenta mil días de salario mínimo general vigente en el Distrito Federal, y
 
 > <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -2719,7 +2767,7 @@ Cuando por la naturaleza del delito o de la pena aplicable el imputado no deba s
 
 ## TITULO SEXTO. Prueba
 
-### CAPITULO II. Confesión
+### CAPITULO I. Medios de prueba
 
 (REFORMADO, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADO, D.O.F. 9 DE ENERO DE 1991)
 
@@ -2727,15 +2775,17 @@ Cuando por la naturaleza del delito o de la pena aplicable el imputado no deba s
 
 Se admitirá como prueba en los términos del artículo 20 fracción V de la Constitución Política de los Estados Unidos Mexicanos, todo aquello que se ofrezca como tal, siempre que pueda ser conducente, y no vaya contra el derecho, a juicio del juez o tribunal. Cuando la autoridad judicial lo estime necesario, podrá por algún otro medio de prueba, establecer su autenticidad.
 
-### CAPITULO III. Inspección
+### CAPITULO II. Confesión
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+(REFORMADO, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADO, D.O.F. 9 DE ENERO DE 1991)
 
 ###### ARTICULO 207.
 
 La confesión es la declaración voluntaria hecha por persona no menor de dieciocho años, en pleno uso de sus facultades mentales, rendida ante el Ministerio Público, el juez o tribunal de la causa, sobre hechos propios constitutivos del tipo delictivo materia de la imputación, emitida con las formalidades señaladas por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos: se admitirá en cualquier estado del procedimiento, hasta antes de dictar sentencia irrevocable.
 
-### CAPITULO IV. Peritos
+### CAPITULO III. Inspección
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 208.
 
@@ -2807,7 +2857,7 @@ La descripción se hará en la forma que establece el artículo 209.
 
 Cuando hubiere versiones distintas acerca de la forma en que ocurrieron los hechos, se practicarán, si fueren conducentes al esclarecimiento de los mismos, las reconstrucciones relativas a cada una de aquéllas; y en caso de que se haga necesaria la intervención de peritos, éstos dictaminarán sobre cuál de las versiones puede acercarse más a la verdad.
 
-### CAPITULO V. Testigos
+### CAPITULO IV. Peritos
 
 ###### ARTICULO 220.
 
@@ -2921,9 +2971,7 @@ II.- El cotejo se hará con documentos indubitables, o con los que las partes de
 
 El juez podrá ordenar que se repita el cotejo por otros peritos.
 
-### CAPITULO VI. Confrontación
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
+### CAPITULO V. Testigos
 
 ###### ARTICULO 240.
 
@@ -3059,9 +3107,9 @@ Cuando tuviere que ausentarse del lugar en que se practiquen las diligencias alg
 
 El funcionario que practique las diligencias podrá dictar las providencias necesarias para que los testigos no se comuniquen entre sí, ni por medio de otra persona, antes de que rindan su declaración.
 
-### CAPITULO VII. Careos
+### CAPITULO VI. Confrontación
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
 
 ###### ARTICULO 258.
 
@@ -3109,9 +3157,9 @@ Se le llevará frente a las personas que formen el grupo; se le permitirá mirar
 
 Cuando la pluralidad de las personas amerite varias confrontaciones, éstas se verificarán en actos separados.
 
-### CAPITULO VIII. Documentos
+### CAPITULO VII. Careos
 
-> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 265.
 
@@ -3131,9 +3179,9 @@ Cuando, por cualquier motivo, no pudiere obtenerse la comparecencia de alguno de
 
 Si los que deban carearse estuvieren fuera de la jurisdicción del tribunal, se librará el exhorto correspondiente.
 
-### CAPITULO VIII BIS. Comunicaciones Privadas entre Particulares
+### CAPITULO VIII. Documentos
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 269.
 
@@ -3187,9 +3235,9 @@ Si ésta fuere objetada, se ordenará que sean traducidos por los peritos que de
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 23 DE ENERO DE 2009)</small>
 
-### CAPITULO IX. Valor Jurídico de la Prueba
+### CAPITULO VIII BIS. Comunicaciones Privadas entre Particulares
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 278 Bis.
 
@@ -3223,7 +3271,9 @@ El juez podrá, en cualquier momento, verificar que las intervenciones sean real
 
 En caso de no ejercicio de la acción penal y una vez transcurrido el plazo legal para impugnarlo, sin que ello suceda, el juez que autorizó la intervención, ordenará que se pongan a su disposición las cintas resultado de las investigaciones, los originales y sus copias, y ordenará su destrucción en presencia del Ministerio Público.
 
-### CAPITULO UNICO. (REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+### CAPITULO IX. Valor Jurídico de la Prueba
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 279.
 
@@ -3335,7 +3385,7 @@ Los tribunales, en sus resoluciones, expondrán los razonamientos que hayan teni
 
 ## TITULO SEPTIMO. Conclusiones
 
-### CAPITULO UNICO
+### CAPITULO UNICO. (REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 291.
 
@@ -3389,9 +3439,7 @@ Si al concluirse el término concedido al acusado y a su defensor, éstos no hub
 
 ## TITULO OCTAVO. Sobreseimiento
 
-### CAPITULO I. Procedimiento ante los Jueces de Distrito
-
-> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 298.
 
@@ -3459,7 +3507,9 @@ El auto de sobreseimiento que haya causado estado, surtirá los efectos de una s
 
 ## TITULO NOVENO. Juicio
 
-### CAPITULO II. Procedimiento relativo al jurado popular
+### CAPITULO I. Procedimiento ante los Jueces de Distrito
+
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 305.
 
@@ -3481,7 +3531,7 @@ Cuando se esté en los casos a que se refieren los apartados a), b) y c) del art
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
-### CAPITULO III. Aclaración de sentencia
+### CAPITULO II. Procedimiento relativo al jurado popular
 
 ###### ARTICULO 308.
 
@@ -3749,7 +3799,7 @@ Dentro de los tres días siguientes el secretario del tribunal extenderá acta p
 
 La sentencia se engrosará dentro de los cinco días siguientes al de la fecha del acta a que se refiere el artículo anterior.
 
-### CAPITULO IV. Sentencia irrevocable
+### CAPITULO III. Aclaración de sentencia
 
 ###### ARTICULO 351.
 
@@ -3787,7 +3837,7 @@ Contra la resolución que se dicte otorgando o negando la aclaración, no proced
 
 La aclaración propuesta interrumpe el término señalado para la apelación.
 
-### CAPITULO I. Revocación
+### CAPITULO IV. Sentencia irrevocable
 
 ###### ARTICULO 360.
 
@@ -3799,9 +3849,7 @@ II.- Las sentencias contra las cuales no dé la ley recurso alguno.
 
 ## TITULO DECIMO. Recursos
 
-### CAPITULO II. Apelación
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+### CAPITULO I. Revocación
 
 ###### ARTICULO 361.
 
@@ -3817,7 +3865,9 @@ El plazo para interponer el recurso de revocación y ofrecer pruebas será de ci
 
 El tribunal resolverá el recurso oyendo a las partes en una audiencia que se efectuará dentro de las cuarenta y ocho horas siguientes a la notificación que se haga a la parte que no interpuso el recurso, acerca de la admisión de éste. En la audiencia se desahogarán las pruebas ofrecidas, se escuchará a las partes y se dictará resolución, contra la que no procede recurso alguno. Si no es posible que en esa audiencia concluya el desahogo de pruebas, el juez podrá convocar, por una sola vez, a otra audiencia.
 
-### CAPITULO III. Denegada apelación
+### CAPITULO II. Apelación
+
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
 ###### ARTICULO 363.
 
@@ -4081,9 +4131,7 @@ Siempre que el tribunal de apelación encuentre que se retardó indebidamente el
 
 Cuando el tribunal de apelación notare que el defensor faltó a sus deberes: por no haber interpuesto los recursos que procedían; por haber abandonado los interpuestos, cuando de las constancias de autos apareciere que debían prosperar; por no haber alegado circunstancias probadas en el proceso y que habrían favorecido notablemente al inculpado, o por haber alegado hechos no probados en autos, podrá imponerle una corrección disciplinaria o consignarlo al Ministerio Público si procediere. Si el defensor fuere de oficio, el tribunal deberá, además, dar cuenta al superior de aquél, llamándole la atención sobre la negligencia o ineptitud de dicho defensor.
 
-### CAPITULO IV. Queja
-
-> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
+### CAPITULO III. Denegada apelación
 
 ###### ARTICULO 392.
 
@@ -4115,9 +4163,9 @@ Si la apelación se declara admisible, o se varía el grado, se pedirá el testi
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO I. Libertad provisional bajo caución
+### CAPITULO IV. Queja
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 398 Bis.
 
@@ -4137,7 +4185,9 @@ Incidentes
 
 #### SECCION PRIMERA. Incidentes de libertad
 
-### CAPITULO II. Libertad provisional bajo protesta
+### CAPITULO I. Libertad provisional bajo caución
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 399.
 
@@ -4375,7 +4425,7 @@ Cuando un tercero haya constituido depósito, fianza, prenda, hipoteca o fideico
 
 En los casos del primer párrafo del artículo 414 y de la última parte del artículo 416, la autoridad fiscal conservará en su poder el importe de la caución que se haya hecho efectiva, entretanto se resuelve sobre la sanción pecuniaria, para los efectos del último párrafo del artículo 35 del Código Penal.
 
-### CAPITULO III. Libertad por desvanecimiento de datos
+### CAPITULO II. Libertad provisional bajo protesta
 
 ###### ARTICULO 418.
 
@@ -4431,7 +4481,7 @@ V.- Cuando dejare de concurrir alguna de las condiciones expresadas en las fracc
 
 VI.- Cuando recaiga sentencia condenatoria contra el inculpado y ésta cause ejecutoria.
 
-### CAPITULO I. Substanciación de las competencias
+### CAPITULO III. Libertad por desvanecimiento de datos
 
 ###### ARTICULO 422.
 
@@ -4469,7 +4519,7 @@ La resolución que conceda la libertad tendrá los mismos efectos que el auto de
 
 #### SECCION SEGUNDA. Incidentes diversos
 
-### CAPITULO II. Impedimentos, excusas y recusaciones
+### CAPITULO I. Substanciación de las competencias
 
 ###### ARTICULO 427.
 
@@ -4553,7 +4603,7 @@ En la substanciación de las competencias, una vez transcurridos los términos s
 
 En todas las controversias de competencia, será oído el Ministerio Público.
 
-### CAPITULO III. Suspensión del procedimiento
+### CAPITULO II. Impedimentos, excusas y recusaciones
 
 ###### ARTICULO 444.
 
@@ -4671,7 +4721,7 @@ Las excusas de los defensores de oficio serán calificadas por el tribunal que c
 
 Las excusas voluntarias de los jurados serán calificadas en los términos que señale la Ley Orgánica del Poder Judicial de la Federación.
 
-### CAPITULO IV. Acumulación de autos
+### CAPITULO III. Suspensión del procedimiento
 
 ###### ARTICULO 468.
 
@@ -4717,9 +4767,7 @@ Cuando se haya decretado la suspensión del procedimiento en los casos a que se 
 
 El tribunal resolverá de plano sobre la suspensión del procedimiento, de oficio, a petición del Ministerio Público o del inculpado o su representante, en lo procedente, fundada en cualquiera de las causas a que se refiere el artículo 468.
 
-### CAPITULO V. Separación de autos
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+### CAPITULO IV. Acumulación de autos
 
 ###### ARTICULO 473.
 
@@ -4779,7 +4827,9 @@ Los incidentes de acumulación se substanciarán por separado sin suspenderse el
 
 Serán aplicables las disposiciones de este capítulo a las averiguaciones que se practiquen por los tribunales, aun cuando no exista auto de formal prisión o de sujeción a proceso.
 
-### CAPITULO VI. Reparación del daño exigible a personas distintas del inculpado
+### CAPITULO V. Separación de autos
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 483.
 
@@ -4805,9 +4855,7 @@ El incidente sobre separación de autos se substanciará por separado, en la mis
 
 Cuando varios tribunales conocieren de procesos cuya separación se hubiere decretado, el que primero pronuncie sentencia ejecutoria procederá en los términos del artículo 477.
 
-### CAPITULO VII. Incidentes no especificados
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+### CAPITULO VI. Reparación del daño exigible a personas distintas del inculpado
 
 ###### ARTICULO 489.
 
@@ -4835,7 +4883,9 @@ En los casos previstos en las fracciones I y III del artículo 468, se continuar
 
 Las providencias precautorias que pudiere intentar quien tenga derecho a la reparación, se regirán por lo que dispone el Código Federal de Procedimientos Civiles, sin perjuicio de las facultades que las leyes conceden al Fisco para asegurar su interés.
 
-### CAPITULO I. Enfermos mentales
+### CAPITULO VII. Incidentes no especificados
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 494.
 
@@ -4847,7 +4897,7 @@ TITULO DECIMOSEGUNDO
 
 Procedimiento relativo a los enfermos mentales, a los menores y a los que tienen el hábito o la necesidad de consumir estupefacientes o psicotrópicos.
 
-### CAPITULO II. Menores
+### CAPITULO I. Enfermos mentales
 
 ###### ARTICULO 495.
 
@@ -4871,9 +4921,7 @@ Cuando en el curso del proceso el inculpado enloquezca, se suspenderá el proced
 
 La vigilancia del recluído estará a cargo de la autoridad administrativa federal correspondiente.
 
-### CAPITULO III. De los farmacodependientes
-
-> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+### CAPITULO II. Menores
 
 ###### ARTICULO 500.
 
@@ -4969,9 +5017,9 @@ En las Entidades federativas donde hubiere dos o más tribunales para menores, c
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO III. De los farmacodependientes
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 523.
 
@@ -5001,7 +5049,9 @@ TITULO DECIMOTERCERO
 
 Ejecución
 
-### CAPITULO II. Condena condicional
+### CAPITULO I. Disposiciones generales
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 528.
 
@@ -5051,9 +5101,7 @@ Cuando un sentenciado enloquezca después de dictarse en su contra sentencia irr
 
 Cuando se decrete el decomiso, se estará a lo previsto en el Código Penal para los fines de conservación, destrucción, venta y aplicación de instrumentos, objetos y productos de los delitos.
 
-### CAPITULO III. Libertad preparatoria
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+### CAPITULO II. Condena condicional
 
 ###### ARTICULO 536.
 
@@ -5079,7 +5127,9 @@ El sentenciado que considere que al dictarse sentencia reunía las condiciones f
 
 Cuando por alguna de las causas que señala el artículo 90 del Código Penal Federal deba hacerse efectiva la sanción impuesta, revocándose el beneficio de la condena condicional, el tribunal que concedió éste, procederá, con audiencia del Ministerio Público, y del sentenciado y de su defensor, si fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará que se ejecute la sanción.
 
-### CAPITULO IV. Retención
+### CAPITULO III. Libertad preparatoria
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 540.
 
@@ -5135,9 +5185,7 @@ Cuando el sentenciado cometiere un nuevo delito, el tribunal que conozca de ést
 
 Cuando se revoque la libertad preparatoria conforme a los dos artículos anteriores, se recogerá e inutilizará el salvo-conducto.
 
-### CAPITULO V. Conmutación y reducción de sanciones y cesación de sus efectos
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+### CAPITULO IV. Retención
 
 ###### ARTICULO 549.
 
@@ -5155,7 +5203,9 @@ Cuando se revoque la libertad preparatoria conforme a los dos artículos anterio
 
 (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
-### CAPITULO VI. Indulto y reconocimiento de la inocencia del sentenciado
+### CAPITULO V. Conmutación y reducción de sanciones y cesación de sus efectos
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 553.
 
@@ -5179,7 +5229,7 @@ Dictada la resolución se comunicará al tribunal que haya conocido del proceso 
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO VII. Rehabilitación
+### CAPITULO VI. Indulto y reconocimiento de la inocencia del sentenciado
 
 ###### ARTICULO 557.
 
@@ -5260,6 +5310,8 @@ Si se declara fundada, se remitirá original el expediente al Ejecutivo de la Un
 Todas las resoluciones en que se conceda indulto se publicarán en el Diario Oficial de la Federación y se comunicarán al tribunal que hubiese dictado la sentencia, para que haga la anotación respectiva en el expediente del caso.
 
 Las resoluciones relativas al reconocimiento de la inocencia se comunicarán al tribunal que hubiese dictado la sentencia, para que haga la anotación respectiva en el expediente del caso. A petición del interesado, también se publicarán en el Diario Oficial de la Federación.
+
+### CAPITULO VII. Rehabilitación
 
 ###### ARTICULO 569.
 
@@ -5924,3 +5976,21 @@ Tercero.- Los procedimientos penales relacionados con presuntos delitos contra l
 Cuarto.- Las averiguaciones previas y las causas penales que hayan sido iniciadas antes de la entrada en vigor del presente Decreto por la presunta comisión de delitos que no atenten contra la disciplina militar, serán remitidas a las autoridades civiles competentes dentro de los 30 días posteriores a la entrada en vigor de este Decreto.
 
 Quinto.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+D.O.F. 29 DE DICIEMBRE DE 2014.
+
+PRIMERO. La Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal entrará en vigor en los mismos términos y plazos en que entrará en vigor el Código Nacional de Procedimientos Penales, de conformidad con lo previsto en el artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales.
+
+Las reformas y adiciones al Código Federal de Procedimientos Penales previstas en el presente Decreto entrarán en vigor en las regiones y gradualidad en las que se lleve a cabo la declaratoria a que refiere el artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, serán aplicables para los procedimientos iniciados con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio y se sustanciarán de conformidad con lo previsto en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, el Poder Judicial de la Federación y los poderes judiciales de las entidades federativas que cuenten con un Órgano, conformarán, dentro del término de sesenta días hábiles, el Consejo a que se refiere el artículo 46 de la presente Ley.
+
+CUARTO. La certificación inicial de Facilitadores a que se refiere la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal deberá concluirse antes del dieciocho de junio de 2016.
+
+Dentro de los sesenta días siguientes a la publicación de este Decreto en el Diario Oficial de la Federación, la Secretaría Técnica de la Conferencia Nacional de Procuración de Justicia, así como la Secretaría Técnica del Consejo de certificación en sede judicial deberán elaborar el proyecto de criterios mínimos de certificación de Facilitadores. Para la elaboración de los criterios referidos deberán tomar en consideración la opinión de los representantes de las zonas en que estén conformadas la Conferencia y el Consejo. El proyecto deberá ser sometido a consideración del Pleno de la Conferencia o el Consejo en la sesión plenaria siguiente al vencimiento del plazo a que se refiere este párrafo.
+
+QUINTO. La Federación y las entidades federativas emitirán las disposiciones administrativas que desarrollen lo previsto en el presente Decreto a más tardar el día de su entrada en vigor de conformidad con el artículo primero transitorio anterior.
+
+SEXTO. La Federación y las entidades federativas, en su ámbito de competencia respectivo, proveerán los recursos humanos, materiales, tecnológicos y financieros que requiera la implementación del presente Decreto, conforme a sus presupuestos autorizados. Para el presente ejercicio fiscal, la Procuraduría General de la República, cubrirá con cargo a su presupuesto autorizado las erogaciones necesarias para el cumplimiento del presente Decreto, en el ámbito de su competencia.
