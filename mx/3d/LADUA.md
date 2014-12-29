@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2013-12-09"
+last_updated: "2014-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY ADUANERA
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2013.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA DE COMERCIO EXTERIOR: 27 DE DICIEMBRE DE 2011.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA DE COMERCIO EXTERIOR: 29 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -434,9 +434,9 @@ La Secretaría podrá autorizar a los particulares para prestar los servicios de
 
 I. Tener cinco años de experiencia, prestando los servicios que se vayan a autorizar.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-II. Tener un capital social pagado de por lo menos $1,965,630.00.
+II. Tener un capital social pagado de por lo menos $2,210,150.00.
 
 III. Cumplir con los requisitos de procedimiento que la Secretaría establezca en la convocatoria que para estos efectos publique en el Diario Oficial de la Federación.
 
@@ -464,9 +464,9 @@ Para obtener la autorización prevista en el primer párrafo de este artículo, 
 
 Las autorizaciones se podrán otorgar hasta por un plazo de veinte años, mismo que podrá ser prorrogado por un plazo igual, previa solicitud del interesado presentada ante el Servicio de Administración Tributaria un año antes de su vencimiento, siempre que se sigan cumpliendo con los requisitos previstos para su otorgamiento y las obligaciones derivadas de la misma.
 
-(ADICIONADO, D.O.F. 1 DE ENERO DE 2002) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ADICIONADO, D.O.F. 1 DE ENERO DE 2002) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-Las personas que obtengan la autorización en los términos de este artículo, estarán obligadas a pagar en las oficinas autorizadas, mensualmente, en los primeros doce días del mes siguiente a aquél al que corresponda el pago, un aprovechamiento de $190.00 por cada pedimento que prevaliden y que posteriormente sea presentado ante la autoridad aduanera para su despacho. Dicho aprovechamiento será aportado a un fideicomiso público para el programa de mejoramiento de los medios de informática y de control de las autoridades aduaneras.
+Las personas que obtengan la autorización en los términos de este artículo, estarán obligadas a pagar en las oficinas autorizadas, mensualmente, en los primeros doce días del mes siguiente a aquél al que corresponda el pago, un aprovechamiento de $210.00 por cada pedimento que prevaliden y que posteriormente sea presentado ante la autoridad aduanera para su despacho. Dicho aprovechamiento será aportado a un fideicomiso público para el programa de mejoramiento de los medios de informática y de control de las autoridades aduaneras.
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -488,9 +488,9 @@ II. Contar con los medios de cómputo y de transmisión de datos enlazado con el
 
 Las autorizaciones previstas en este artículo, se podrán otorgar hasta por un plazo de diez años, mismo que podrá ser prorrogado por un plazo igual, previa solicitud del interesado presentada ante el Servicio de Administración Tributaria un año antes de su vencimiento, siempre que se sigan cumpliendo los requisitos previstos para su otorgamiento y las obligaciones derivadas de la misma.
 
-(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-Las personas que obtengan la autorización en los términos de este artículo, estarán obligadas a pagar en las oficinas autorizadas, mensualmente, en los primeros doce días del mes siguiente a aquél al que corresponda el pago, un aprovechamiento de $150.00 por la prevalidación del pedimento para la importación temporal de cada remolque, semiremolque y portacontenedor, misma que amparará su legal estancia por el plazo que establece el artículo 106, fracción I de esta Ley. El aprovechamiento será aportado a un fideicomiso público para el programa de mejoramiento de los medios de informática y de control de las autoridades aduaneras.
+Las personas que obtengan la autorización en los términos de este artículo, estarán obligadas a pagar en las oficinas autorizadas, mensualmente, en los primeros doce días del mes siguiente a aquél al que corresponda el pago, un aprovechamiento de $170.00 por la prevalidación del pedimento para la importación temporal de cada remolque, semiremolque y portacontenedor, misma que amparará su legal estancia por el plazo que establece el artículo 106, fracción I de esta Ley. El aprovechamiento será aportado a un fideicomiso público para el programa de mejoramiento de los medios de informática y de control de las autoridades aduaneras.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -3582,9 +3582,9 @@ Cuando los agentes aduanales tengan autorización para despachar en aduanas dist
 
 La propia Secretaría podrá cambiar la obligación a que se refiere el primer párrafo de esta fracción, autorizando, a petición de los agentes aduanales de un determinado lugar, que el servicio se proporcione en forma rotatoria o permanente para el total de las operaciones a que se refiere esta fracción por uno o varios agentes.
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-En los casos a que se refiere esta fracción, el agente aduanal tendrá derecho a una contraprestación de $260.00 por cada operación.
+En los casos a que se refiere esta fracción, el agente aduanal tendrá derecho a una contraprestación de $290.00 por cada operación.
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3716,9 +3716,9 @@ VI. Declarar con inexactitud en el pedimento, siempre que resulte lesionado el i
 
 No procederá la suspensión a que se refiere esta fracción, cuando la omisión de contribuciones y cuotas compensatorias, en su caso, se deba a la inexacta clasificación arancelaria por diferencia de criterios en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción II, del artículo 165 de esta Ley, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, la omisión no exceda de $142,120.00.
+VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción II, del artículo 165 de esta Ley, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, la omisión no exceda de $159,800.00.
 
 VIII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
@@ -3734,9 +3734,9 @@ I. Contravenir lo dispuesto en el artículo 163, fracción II.
 
 II. Declarar con inexactitud algún dato en el pedimento, sus anexos, o en el aviso consolidado, tratándose de operaciones con pedimento consolidado, siempre que se dé alguno de los siguientes supuestos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $203,030.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
+a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $228,290.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3762,9 +3762,9 @@ VI. Permitir el uso, por cualquier tercero, de cualesquiera de los derechos cons
 
 VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción II de este artículo, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, se dé alguno de los siguientes supuestos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-a) La omisión exceda de $203,030.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
+a) La omisión exceda de $228,290.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4032,9 +4032,9 @@ I. Multa del 130% al 150% de los impuestos al comercio exterior omitidos, cuando
 
 Cuando la infracción a que se refiere esta fracción sea cometida por pasajeros, se impondrá una multa del 80% al 120% del valor comercial de las mercancías.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-II. Multa de $4,060.00 a $10,150.00 cuando no se haya obtenido el permiso de autoridad competente, tratándose de vehículos.
+II. Multa de $4,570.00 a $11,410.00 cuando no se haya obtenido el permiso de autoridad competente, tratándose de vehículos.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -4144,9 +4144,9 @@ I. Multa equivalente del 130% al 150% del beneficio obtenido con la franquicia, 
 
 Multa equivalente del 30% al 50% del impuesto general de importación que habría tenido que cubrirse si la importación fuera definitiva o del 15% al 30% del valor comercial de las mercancías cuando estén exentas, en los casos a que se refiere la fracción I, incisos d) y e) y la fracción III. Tratándose de yates y veleros turísticos la multa será del 10% al 15% del valor comercial.
 
-(ACTUALIZADO PRIMER PÁRRAFO EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADO PRIMER PÁRRAFO EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-II. Si la infracción consistió en exceder los plazos concedidos para el retorno de las mercancías de importación o internación, según el caso, multa de $1,640.00 a $2,460.00 si el retorno se verifica en forma espontánea, por cada periodo de quince días o fracción que transcurra desde la fecha de vencimiento del plazo hasta que se efectúe el retorno. El monto de la multa no excederá del valor de las mercancías.
+II. Si la infracción consistió en exceder los plazos concedidos para el retorno de las mercancías de importación o internación, según el caso, multa de $1,840.00 a $2,770.00 si el retorno se verifica en forma espontánea, por cada periodo de quince días o fracción que transcurra desde la fecha de vencimiento del plazo hasta que se efectúe el retorno. El monto de la multa no excederá del valor de las mercancías.
 
 No se aplicará la multa a que se refiere el párrafo anterior, a las personas que retornen en forma espontánea los vehículos importados o internados temporalmente.
 
@@ -4158,9 +4158,9 @@ III. Multa equivalente a la señalada por el artículo 178, fracciones I, II, II
 
 IV. Multa equivalente del 30% al 50% del valor comercial de las mercancías correspondientes, en los demás casos.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-V. Multa de $60,910.00 a $81,210.00 en el supuesto a que se refiere la fracción IV.
+V. Multa de $68,490.00 a $91,310.00 en el supuesto a que se refiere la fracción IV.
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -4296,23 +4296,21 @@ Se aplicarán las siguientes multas a quienes cometan las infracciones relaciona
 
 I. Multa de $2,930.00 a $4,400.00, en caso de omisión a las mencionadas en las fracciones I y II. Las multas se reducirán al 50% cuando la presentación sea extemporánea.
 
-(ACTUALIZADO PRIMER PÁRRAFO EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
 
-II. Multa de $1,420.00 a $2,030.00 a la señalada en la fracción III, por cada documento.
+II. Multa de $1,600.00 a $2,280.00 a la señalada en la fracción III, por cada documento.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+III. Multa de $2,750.00 a $4,600.00 tratándose de la fracción IV.
 
-III. Multa de $2,450.00 a $4,090.00 tratándose de la fracción IV.
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+IV. Multa de $3,690.00 a $5,520.00 a la señalada en la fracción V, por cada medio magnético que contenga información inexacta, incompleta o falsa.
 
-IV. Multa de $3,280.00 a $4,910.00 a la señalada en la fracción V, por cada medio magnético que contenga información inexacta, incompleta o falsa.
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
-
-V. Multa de $3,050.00 a $5,080.00 a la señalada en la fracción VI.
+V. Multa de $3,430.00 a $5,710.00 a la señalada en la fracción VI.
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -4322,25 +4320,25 @@ VI. Multa de $3,050.00 a $5,080.00, en el caso señalado en la fracción VII, po
 
 VII. Multa equivalente de 20% al 40% de la cantidad que exceda al equivalente en la moneda o monedas de que se trate a diez mil dólares de los Estados Unidos de América, a las infracciones establecidas en las fracciones VIII, XV y XVI.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-VIII. Multa de $58,610.00 a $87,920.00, en el caso de la transmisión electrónica señalada en la fracción IX, por la omisión de cada pasajero, tripulante o medio de transporte que arribe a territorio nacional, a que se refiere el inciso a) y por la omisión relativa a la mercancía por cada medio de transporte a que se refiere el inciso b). La multa se reducirá en un 50%, en el caso de que la transmisión electrónica sea extemporánea, incompleta o contenga información incorrecta.
+VIII. Multa de $65,900.00 a $98,860.00, en el caso de la transmisión electrónica señalada en la fracción IX, por la omisión de cada pasajero, tripulante o medio de transporte que arribe a territorio nacional, a que se refiere el inciso a) y por la omisión relativa a la mercancía por cada medio de transporte a que se refiere el inciso b). La multa se reducirá en un 50%, en el caso de que la transmisión electrónica sea extemporánea, incompleta o contenga información incorrecta.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-IX. Multa de $163,800.00 a $245,700.00, en los casos señalados en la fracción X, por cada aeronave que arribe al territorio nacional.
+IX. Multa de $184,180.00 a $276,270.00, en los casos señalados en la fracción X, por cada aeronave que arribe al territorio nacional.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-X. Multa de $2,030.00 a $3,050.00, en el caso señalado en la fracción XI, por cada pedimento.
+X. Multa de $2,280.00 a $3,430.00, en el caso señalado en la fracción XI, por cada pedimento.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-XI. Multa de $6,090.00 a $8,120.00 en caso de omisión y de $3,050.00 a $5,080.00 por la presentación extemporánea, en el caso señalado en la fracción XII.
+XI. Multa de $6,850.00 a $9,130.00 en caso de omisión y de $3,430.00 a $5,710.00 por la presentación extemporánea, en el caso señalado en la fracción XII.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-XII. Multa de $1,020.00 a $2,030.00, en el caso señalado en la fracción XIII, por cada documento.
+XII. Multa de $1,150.00 a $2,280.00, en el caso señalado en la fracción XIII, por cada documento.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4356,11 +4354,11 @@ XIV. Multa de $14,650.00 a $21,980.00, a la señalada en la fracción XVII, en c
 
 Comete la infracción relacionada con la obligación de llevar los sistemas de control de inventarios, quienes no cumplan con lo dispuesto en la fracción I del artículo 59 de esta Ley.
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
 ###### Artículo 185-B.
 
-Se aplicará una multa de $14,650.00 a $29,310.00 a quienes cometan la infracción relacionada con la obligación de llevar los sistemas de control de inventarios prevista en el artículo 185-A de esta Ley.
+Se aplicará una multa de $16,470.00 a $32,960.00 a quienes cometan la infracción relacionada con la obligación de llevar los sistemas de control de inventarios prevista en el artículo 185-A de esta Ley.
 
 ###### Artículo 186.
 
@@ -4438,13 +4436,13 @@ XXIII. Las personas que hubieran obtenido la autorización a que se refiere el a
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones relacionadas con el control, seguridad y manejo de las mercancías previstas en el artículo 186 de esta Ley:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-I. Multa de $5,860.00 a $8,060.00, a las señaladas en las fracciones I, II, IV, V, XI, XXI y XXII.
+I. Multa de $6,590.00 a $9,060.00, a las señaladas en las fracciones I, II, IV, V, XI, XXI y XXII.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-II. Multa de $1,640.00 a $2,460.00, a la señalada en la fracción III.
+II. Multa de $1,840.00 a $2,770.00, a la señalada en la fracción III.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4454,47 +4452,47 @@ III. Multa equivalente del 70% al 100% de las contribuciones y cuotas compensato
 
 IV. Multa de $16,380.00 a $24,570.00 a las señaladas en la fracción IX.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-V. Multa de $9,830.00 a $13,100.00 a las señaladas en las fracciones XII y XIII.
+V. Multa de $11,050.00 a $14,730.00 a las señaladas en las fracciones XII y XIII.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-VI. Multa de $58,610.00 a $87,920.00, a la señalada en la fracción VIII.
+VI. Multa de $65,900.00 a $98,860.00, a la señalada en la fracción VIII.
 
 VII. Clausura del establecimiento por una semana en la primera ocasión, por dos semanas en la segunda ocasión, por tres semanas en la tercera y siguientes ocasiones dentro de cada año de calendario, a la señalada en la fracción XV del artículo 186 de esta Ley.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-VIII. Multa de $32,760.00 a $65,520.00 a la señalada en la fracción XVI.
+VIII. Multa de $36,840.00 a $73,670.00 a la señalada en la fracción XVI.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 IX. Multa del 3% al 5% del importe total que no se hubiera transferido, a la señalada en la fracción XVIII.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-X. Multa de $81,210.00 a $111,660.00, a la señalada en la fracción XIX.
+X. Multa de $91,310.00 a $125,550.00, a la señalada en la fracción XIX.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-XI. Multa de $1,020.00 a $2,030.00, a la señalada en la fracción XVII.
+XI. Multa de $1,150.00 a $2,280.00, a la señalada en la fracción XVII.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-XII. Multa de $366,340.00 a $586,140.00, a la señalada en la fracción XX, por cada periodo de 20 días o fracción que transcurra desde la fecha en que se debió dar cumplimiento a la obligación y hasta que la misma se cumpla.
+XII. Multa de $411,910.00 a $659,060.00, a la señalada en la fracción XX, por cada periodo de 20 días o fracción que transcurra desde la fecha en que se debió dar cumplimiento a la obligación y hasta que la misma se cumpla.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 XIII. Multa equivalente del 80% al 100% de las contribuciones y cuotas compensatorias que se hubieran omitido, cuando no se haya cubierto lo que correspondía pagar o del 30% al 50% del valor comercial de las mercancías si están exentas o se trata de retorno al extranjero, a la señalada en la fracción VII. En el caso de reincidencia, la sanción consistirá en la suspensión provisional del recinto fiscalizado por un plazo de dos a treinta días.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-XIV. Multa de $58,610.00 a $87,920.00, a la señalada en la fracción XIV. En el caso de reincidencia, la sanción consistirá en la suspensión provisional del recinto fiscalizado por un plazo de dos a treinta días.
+XIV. Multa de $65,900.00 a $98,860.00, a la señalada en la fracción XIV. En el caso de reincidencia, la sanción consistirá en la suspensión provisional del recinto fiscalizado por un plazo de dos a treinta días.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-XV. Multa de $732,670.00 a $1,465,350.00 a la señalada en la fracción XXIII.
+XV. Multa de $823,810.00 a $1,647,640.00 a la señalada en la fracción XXIII.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -4512,13 +4510,13 @@ II. Utilice una clave confidencial que haya sido revocada o cancelada.
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones a que se refiere el artículo 188 de esta Ley:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-I. Multa de $32,760.00 a $49,140.00, a quien cometa la infracción señalada en la fracción I.
+I. Multa de $36,840.00 a $55,250.00, a quien cometa la infracción señalada en la fracción I.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-II. Multa de $65,520.00 a $98,280.00, a quien cometa la infracción señalada en la fracción II.
+II. Multa de $73,670.00 a $110,510.00, a quien cometa la infracción señalada en la fracción II.
 
 ###### Artículo 190.
 
@@ -4538,21 +4536,21 @@ V. Falsifique o altere el contenido de algún gafete de identificación.
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones establecidas en el artículo 190 de esta Ley:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-I. Multa de $16,380.00 a $24,570.00, tratándose de las señaladas en las fracciones I y II.
+I. Multa de $18,420.00 a $27,630.00, tratándose de las señaladas en las fracciones l y II.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-II. Multa de $32,760.00 a $49,140.00, tratándose de la señalada en la fracción III.
+II. Multa de $36,840.00 a $55,250.00, tratándose de la señalada en la fracción III.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-III. Multa de $3,280.00 a $4,910.00, tratándose de la señalada en la fracción IV.
+III. Multa de $3,690.00 a $5,520.00, tratándose de la señalada en la fracción IV.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-IV. Multa de $64,820.00 a $98,280.00, tratándose de la señalada en la fracción V, independientemente de las sanciones a que haya lugar por la comisión de delitos.
+IV. Multa de $73,670.00 a $110,510.00, tratándose de la señalada en la fracción V, independientemente de las sanciones a que haya lugar por la comisión de delitos.
 
 A los infractores que aporten a los fondos a que se refiere el artículo 202 de esta Ley, una cantidad equivalente a la multa que se les imponga en los términos de este artículo, se les tendrá por liberados de la obligación de pagar dicha multa.
 
@@ -4570,17 +4568,17 @@ III. Introduzca al recinto fiscal vehículos que transporten mercancías cuyo pe
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones relacionadas con la seguridad o integridad de las instalaciones aduaneras previstas en el artículo 192 de esta Ley:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-I. Multa de $9,830.00 a $13,100.00, a la señalada en la fracción I.
+I. Multa de $11,050.00 a $14,730.00, a la señalada en la fracción I.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-II. Multa de $13,100.00 a $16,380.00, a la señalada en la fracción II, así como reparación del daño causado.
+II. Multa de $14,730.00 a $18,420.00, a la señalada en la fracción II, así como reparación del daño causado.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-III. Multa de $13,100.00 a $16,380.00, si se trata de la señalada en la fracción III.
+III. Multa de $14,730.00 a $18,420.00, si se trata de la señalada en la fracción III.
 
 A los infractores que aporten a los fondos a que se refiere el artículo 202 de esta Ley, una cantidad equivalente a la multa que se les imponga en los términos de este artículo, se les tendrá por liberados de la obligación de pagar dicha multa.
 
@@ -4644,11 +4642,11 @@ V. En un 50% en el caso de que la multa no derive de la omisión de contribucion
 
 Lo dispuesto en este artículo no será aplicable cuando se den los supuestos del artículo 198 de esta Ley.
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
 ###### Artículo 200.
 
-Cuando el monto de las multas que establece esta Ley esté relacionado con el de los impuestos al comercio exterior omitidos, con el valor en aduana de las mercancías y éstos no pueden determinarse, se aplicará a los infractores una multa de $49,140.00 a $65,520.00.
+Cuando el monto de las multas que establece esta Ley esté relacionado con el de los impuestos al comercio exterior omitidos, con el valor en aduana de las mercancías y éstos no pueden determinarse, se aplicará a los infractores una multa de $55,250.00 a $73,670.00.
 
 ###### Artículo 201.
 
@@ -4943,3 +4941,19 @@ TERCERO. En tanto se expidan las disposiciones reglamentarias de la Ley Aduanera
 CUARTO. A partir de la entrada en vigor de este Decreto quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular que contravengan o se opongan a lo establecido en la Ley Aduanera.
 
 QUINTO. Las autorizaciones de apoderado aduanal activas a la fecha de entrada en vigor del presente Decreto, continuarán vigentes hasta en tanto las mismas se cancelen, se extingan o se les revoquen a los apoderados aduanales. Para tales efectos serán aplicables las disposiciones del Título Séptimo, Capítulo Único, Sección Segunda, de la Ley Aduanera y demás aplicables, que se derogan por virtud del presente Decreto.
+
+D.O.F. 29 DE DICIEMBRE DE 2014.
+
+Único. La presente Resolución entrará en vigor al día siguiente de su publicación en el DOF, con excepción de lo siguiente:
+
+I. Para efectos de la regla 1.1.11., se deberá presentar ante las autoridades aduaneras una impresión del pedimento, del aviso consolidado o de algún otro documento para el despacho aduanero de las mercancías y la activación del mecanismo de selección automatizado, en tanto se implementa el mecanismo tecnológico que permita la transmisión a que se refiere la citada regla, en cada una de las aduanas del país, lo cual se dará a conocer en la página de internet www.sat.gob.mx.
+
+II. Lo dispuesto en la regla 2.4.13., entrará en vigor el 1 de febrero de 2015.
+
+III. Las cantidades modificadas en las reglas 1.8.3., primer párrafo, 3.3.5., primer párrafo, 4.6.15., segundo párrafo de la fracción III, el Anexo 2 y el procedimiento de la regla 1.1.4., fracción IV, serán aplicables a partir del 1 de enero de 2015.
+
+IV. Lo dispuesto en la regla 1.9.21., la modificación de la regla 1.9.3., y la adición del último párrafo de la regla 1.9.4., entrarán en vigor el 1 de abril de 2015.
+
+V. Lo dispuesto en las tablas de las reglas 3.4.2., y 3.7.4., entrará en vigor el 1 de enero de 2015.
+
+VI. La derogación de la regla 3.7.28. aplicará a partir del 1 de julio de 2015.
