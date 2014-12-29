@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-103533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2014-11-10"
+last_updated: "2014-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -133,7 +133,9 @@ La entidad garantizará la seguridad pública a través del diseño transversal 
 
 Para los efectos de esta ley se entenderá por:
 
-I. Agencia: La Agencia de Seguridad del Estado de Hidalgo;
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+I. Agencia: La Agencia de Seguridad e Investigación del Estado de Hidalgo;
 
 II. Base de Datos: Al conjunto de datos informativos contenidos en los registros nacionales y estatales en materia de detenciones, información criminal, personal de Seguridad Pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, equipo de radiocomunicación, sentenciados y las demás que sean necesarias para la operación del Sistema Estatal de Registros e Información para la seguridad pública;
 
@@ -657,11 +659,17 @@ La Secretaría es una dependencia de la administración pública centralizada, q
 
 I. Subsecretaría de Prevención y Coordinación Institucional.
 
-a) Dirección General de Prevención Social de la Violencia y la Delincuencia y Participación Ciudadana;
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-b) Dirección General de la Unidad de Registro y Supervisión de Empresas de Seguridad Privada; y
+d (SIC) Dirección General de Prevención Social de la Violencia y la Delincuencia y Participación Ciudadana;
 
-c) Dirección de Área de la Coordinación Interinstitucional.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+e) Dirección General de la Unidad de Registro y Supervisión de Prestadores de Seguridad Privada; y
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+f) Dirección de Área de la Coordinación Interinstitucional.
 
 II. Subsecretaría de Seguridad Pública y Reinserción Social.
 
@@ -679,9 +687,13 @@ b) Dirección General de Aeropuerto Estatal y de la Flota Aérea del Poder Ejecu
 
 c) Centro de Control, Comando, Comunicaciones y Cómputo; y
 
-d) Dirección de Medidas Cautelares, conformada por:
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-a) Dirección de Medidas Cautelares;
+d) Dirección General de Medidas Cautelares, conformada por:
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+a) Dirección General de Medidas Cautelares;
 
 b) Subdirección Administrativa;
 
@@ -693,11 +705,17 @@ e) Subdirección de Informática; y
 
 f) Operadores de evaluación y supervisión.
 
-III. Agencia de Seguridad Pública del Estado de Hidalgo.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-a) Coordinación Administrativa de Seguridad; y
+III. Agencia de Seguridad e Investigación del Estado de Hidalgo.
 
-b) Coordinación Operativa de Seguridad.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+a) Coordinación de Seguridad Estatal; y
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+b) Coordinación de Investigación.
 
 IV. Policía Industrial Bancaria del Estado de Hidalgo;
 
@@ -751,25 +769,41 @@ V. Perspectiva de género: Consiste en que a partir de identificar las desiguald
 
 ### CAPÍTULO II. DE LAS INSTITUCIONES POLICIALES
 
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 31.
 
-Los integrantes de las instituciones policiales, estarán sujetos a los derechos y obligaciones que señala la presente Ley, su reglamento y demás disposiciones que al efecto se emitan.
+Los integrantes de las instituciones Policiales, estarán sujetos a los derechos y obligaciones que señala la presente Ley, su reglamento y demás disposiciones que al efecto se emitan.
 
 I. Los integrantes de los cuerpos policiales que dependen de la Secretaría operarán en todo el territorio del Estado, y se denominarán:
 
-a) Policía Preventivo, con funciones de prevención de conductas delictivas e infracciones administrativas;
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-b) Policía Penitenciario, que se encarga de la vigilancia y custodia de los Centros de Reinserción Social, así como en los Centros de Internamiento para adolescentes infractores;
+a. Policía Preventivo, con funciones de prevención de conductas delictivas e infracciones administrativas;
 
-c) Policía Industrial Bancario, cuya función será la de brindar el servicio de seguridad, en las modalidades de protección, custodia, vigilancia y traslado, para salvaguardar la integridad y bienes de las personas físicas y morales, públicas y privadas que requieran sus servicios y las demás que establezca la normatividad vigente y aplicable; y,
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-d) Policía Procesal; que se encargará de cumplir con las atribuciones previstas en el Código Nacional de Procedimientos Penales, esta Ley y demás disposiciones legales aplicables.
+b. Policía Penitenciario, que se encarga de la vigilancia y custodia de los Centros de Reinserción Social, así como en los Centros de Internamiento para adolescentes infractores;
 
-II. Coordinación de Investigación, cuyos miembros se denominarán Policía Investigador operará en todo el territorio del Estado y estarán encargados de investigar los delitos y perseguir a los probables responsables bajo la conducción y mando del Ministerio Público; y
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-III. Los Cuerpos Preventivos de Seguridad Pública Municipal cuyos miembros se denominarán policías preventivos municipales, operarán en el territorio del municipio que corresponda o fuera de éste; en coordinación con las Instituciones Policiales del orden Federal, Estatal o Municipal.
+c. Policía Industrial Bancario, cuya función será la de brindar el servicio de seguridad, en las modalidades de protección, custodia, vigilancia y traslado, para salvaguardar la integridad y bienes de las personas físicas y morales, públicas y privadas que requieran sus servicios y las demás que establezca la normatividad vigente y aplicable; y,
 
-Las instituciones policiales señaladas en las fracciones anteriores deberán atender al Mando. Entendiéndose por éste a la autoridad ejercida por un superior jerárquico en servicio activo sobre sus subordinados o iguales en jerarquía, cuando éstos se encuentren bajo sus órdenes, en razón de su categoría, cargo o comisión.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+d. Policía Procesal; que se encargará de cumplir con las atribuciones previstas en el Código Nacional de Procedimientos Penales, esta Ley y demás disposiciones legales aplicables; y
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+e. Policía Investigador, operará en todo el territorio del Estado y estarán encargados de la investigación para la prevención de la violencia y la delincuencia, y en su caso, investigar los delitos y perseguir a los probables responsables, bajo la conducción y mando del Ministerio Público.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+II. Los Cuerpos Preventivos de Seguridad Pública Municipal cuyos miembros se denominarán policías preventivos municipales, operarán en el territorio del municipio que corresponda o fuera de éste; en coordinación con las Instituciones Policiales del orden Federal, Estatal o Municipal.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+Las instituciones policiales señaladas en las fracciones anteriores deberán atender al Mando, entendiéndose por éste a la autoridad ejercida por un superior jerárquico en servicio activo sobre sus subordinados o iguales en jerarquía, cuando éstos se encuentren bajo sus órdenes, en razón de su categoría, cargo o comisión.
 
 Para el cumplimiento de sus funciones y atribuciones, así como para el desarrollo de sus operaciones, las instituciones policiales contarán con los siguientes niveles de Mando, que los tendrán los funcionarios que enseguida se mencionan:
 
@@ -787,11 +821,15 @@ Lo anterior, en los términos de la Constitución, la Constitución Estatal y la
 
 #### SECCIÓN PRIMERA
 
-DE LA AGENCIA DE SEGURIDAD PÚBLICA DEL ESTADO DE HIDALGO.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+DE LA AGENCIA DE SEGURIDAD E INVESTIGACIÓN.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 32.
 
-Para el cumplimiento de sus atribuciones la Secretaría, contará con una Agencia de Seguridad Pública, con el propósito de cumplir los objetivos de esta ley y los fines de la función de seguridad pública en el ámbito de su competencia.
+Para el cumplimiento de sus atribuciones la Secretaría, contará con una Agencia, con el propósito de cumplir los objetivos de esta ley y los fines de la función de seguridad pública en el ámbito de su competencia.
 
 ###### Artículo 33.
 
@@ -1499,7 +1537,9 @@ La certificación y registro tendrán una vigencia de acuerdo a lo que determine
 
 Los servidores públicos de las instituciones de seguridad pública deberán someterse a los procesos de evaluación en los términos de la normatividad correspondiente.
 
-La renovación del certificado será requisito indispensable para su permanencia en las instituciones policiales.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+La vigencia del certificado será requisito indispensable para su permanencia en las instituciones policiales.
 
 ###### Artículo 80.
 
@@ -1509,7 +1549,9 @@ I. Al ser separados de su encargo por incumplir con alguno de los requisitos de 
 
 II. Al ser removidos o cesados de su encargo;
 
-III. Por no obtener la renovación de su Certificado; y
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+III. Por fenecer la vigencia del Certificado; y
 
 IV. Por las demás causas que establezcan las disposiciones aplicables.
 
@@ -1529,9 +1571,11 @@ El Centro de Evaluación emitirá los certificados correspondientes a quienes ac
 
 Los certificados a que se refiere el artículo anterior, para su validez, deberán otorgarse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de certificación, a efecto de que sea ingresado en el Registro Nacional que para tal efecto se establezca. Dicha certificación y registro tendrán una vigencia de tres años.
 
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 84.
 
-Los servidores públicos de la Institución de Procuración de Justicia deberán someterse a los procesos de evaluación en los términos de la normatividad correspondiente, con seis meses de anticipación a la expiración de la validez de su certificado y registro, a fin de obtener la revalidación de los mismos, en los términos que determinen las autoridades competentes.
+Los servidores públicos de la Institución de Procuración de Justicia deberán someterse a los procesos de evaluación en los términos de la normatividad correspondiente, con seis meses de anticipación a la expiración de la validez de su certificado y registro, a fin de mantener la vigencia de los mismos, en los términos que determine la norma aplicable y las autoridades competentes.
 
 La revalidación del certificado será requisito indispensable para su permanencia en la Institución de Procuración de Justicia y deberá registrarse para los efectos a que se refiere el artículo anterior.
 
@@ -1551,7 +1595,9 @@ I. Al ser separados de su encargo por incumplir con alguno de los requisitos de 
 
 II. Al ser removidos de su encargo;
 
-III. Por no obtener la renovación de su certificado, y;
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+III. Por fenecer la vigencia del certificado, y;
 
 IV. Por las demás causas que establezcan las disposiciones aplicables.
 
@@ -1627,7 +1673,9 @@ VIII. Expedir y actualizar los Certificados conforme a los formatos autorizados 
 
 IX. Informar a las autoridades competentes, sobre los resultados de las evaluaciones que se practiquen;
 
-X. Solicitar se efectúe el seguimiento individual de los integrantes de las Instituciones de Seguridad Pública y Procuración de Justicia por parte del Centro, en los que se identifiquen factores de riesgo que interfieran o pongan en riesgo el desempeño de sus funciones;
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+X. Dar seguimiento del cumplimiento por parte de las Instituciones que correspondan, referente a las recomendaciones realizadas respecto de los integrantes de dichas instituciones, durante el proceso de evaluaciones, a fin de garantizar que desaparezcan los factores de riesgo que interfieran en el desempeño de sus funciones;
 
 XI. Detectar áreas de oportunidad para establecer programas de prevención y atención que permitan solucionar la problemática identificada;
 
@@ -1727,7 +1775,9 @@ La Comisión también conocerá y resolverá sobre estímulos, premios y recompe
 
 La Comisión que se constituya en cada institución policial dependiente de la Secretaría, deberá integrarse por:
 
-I. El titular de la institución policial de que se trate;
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+I. El titular de la institución policial de que se trate, quien la presidirá y representará;
 
 II. Un Secretario Técnico que deberá ser licenciado en derecho, designado por la Secretaría; que dará fe de las actuaciones;
 
@@ -1785,7 +1835,9 @@ VIII. La Comisión resolverá de manera fundada y motivada, dentro de los diez d
 
 IX. De todo lo actuado se levantará constancia por escrito, debidamente firmada por los que intervinieron y quisieron hacerlo. Las resoluciones de la Comisión se agregarán a los expedientes u hojas de servicio del integrante de la institución policial y se solicitará se realicen las anotaciones en los Registros correspondientes.
 
-Contra la resolución emitida por la Comisión procederá el recurso de inconformidad, el cual se presentará con la expresión de agravios ante la Comisión, dentro de los cinco días hábiles siguientes a la notificación personal.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+Contra la resolución emitida por la Comisión a la que hace mención el artículo 106 de este ordenamiento, procederá el recurso de inconformidad, el cual se presentará con la expresión de agravios ante la Comisión, dentro de los cinco días hábiles siguientes a la notificación personal.
 
 ###### Artículo 109.
 
@@ -2469,6 +2521,8 @@ Los procedimientos de operación del Sistema Estatal de Denuncia Pública y de L
 
 ### CAPÍTULO II. DE LA AUTORIZACIÓN Y REVALIDACIÓN
 
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 182.
 
 Corresponde al Estado el control de los Servicios de Seguridad Privada que operen dentro del ámbito de su jurisdicción territorial, con base a lo que establece esta Ley, la Ley de Seguridad Privada para el Estado de Hidalgo, su reglamento y demás disposiciones aplicables.
@@ -2493,19 +2547,29 @@ El personal operativo de los prestadores de servicios de Seguridad Privada que d
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-Artículo 189 (SIC). Para efectos de esta Ley, se consideran instalaciones estratégicas los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, el mantenimiento y la operación de las actividades consideradas como estratégicas por la Constitución, así como de aquéllas que tiendan a preservar la integridad, la estabilidad y la permanencia del Estado Mexicano, en los términos de la legislación aplicable.
-
 ###### Artículo 186.
 
-La Ley de Seguridad Privada para el Estado de Hidalgo y su Reglamento, señalarán los requisitos y procedimientos que deberán cumplir los interesados para obtener la autorización, revalidación, modificación y vigencia para realizar actividades de seguridad privada, así como todo lo relativo a las obligaciones, infracciones, sanciones y medios de defensa a los que estarán sujetos los prestadores de los servicios de seguridad privada.
+La Ley de Seguridad Privada para el Estado de Hidalgo y su Reglamento, señalarán los requisitos y procedimientos que deberán cumplir los interesados para obtener la autorización, revalidación, modificación y vigencia para realizar actividades de seguridad privada.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 187.
+
+En todo lo relativo a las obligaciones, infracciones, sanciones y medios de defensa, estarán sujetos los prestadores de los servicios de seguridad privada a la Ley mencionada en el artículo anterior.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 188.
 
 Los prestadores de servicios de seguridad privada, asumirán en forma solidaria, la obligación de responder por daños y perjuicios que se ocasionen a terceros por parte de su personal, durante la prestación de dichos servicios.
 
 ## TÍTULO DÉCIMO TERCERO. DE LAS INSTALACIONES ESTRATÉGICAS DEL ESTADO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+###### Artículo 189.
+
+Para efectos de esta Ley, se consideran instalaciones estratégicas los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, el mantenimiento y la operación de las actividades consideradas como estratégicas por la Constitución, así como de aquéllas que tiendan a preservar la integridad, la estabilidad y la permanencia del Estado Mexicano, en los términos de la legislación aplicable.
 
 ###### Artículo 190.
 
@@ -2617,7 +2681,13 @@ SEGUNDO. Se abroga la Ley de Seguridad Pública para el Estado de Hidalgo, publi
 
 TERCERO. Los prestadores de servicios de seguridad privada en la Entidad, deberán ceñirse a lo establecido en la presente Ley, la Ley de Seguridad Privada para el Estado de Hidalgo, su Reglamento y demás disposiciones aplicables.
 
-CUARTO. Se expedirán los reglamentos derivados del contenido de la presente ley dentro de un plazo de ciento ochenta días, contados a partir del día siguiente a su entrada en vigor.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+CUARTO. Los procedimientos de honor y justicia y del Servicio Profesional de Carrera Policial, que se estén ventilando en forma distinta a lo señalado en esta Ley, pasarán a ser competencia de las autoridades previstas en la presente Ley y en los Reglamentos que se expidan conforme a la misma, debiendo prever la autoridad estatal o municipal correspondiente, lo necesario para la transferencia de los asuntos y expedientes que se encuentren en trámite antes de la publicación de esta normativa.
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+QUINTO. Se expedirán los reglamentos derivados del contenido de la presente ley dentro de un plazo de ciento ochenta días, contados a partir del día siguiente a su entrada en vigor.
 
 AL EJECUTIVO DE LA ENTIDAD, PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.- APROBADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HIDALGO, A LOS OCHO DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL CATORCE.
 
