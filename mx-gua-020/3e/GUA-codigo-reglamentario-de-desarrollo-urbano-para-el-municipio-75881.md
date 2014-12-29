@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2014-12-16"
+last_updated: "2014-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ACUERDO DE REFORMAS ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2014.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -815,7 +813,9 @@ III. Auxiliar, como asesor técnico, al H. Ayuntamiento en cambios a la zonifica
 
 III- A. Clasificar, reclasificar y asignar los usos del suelo en los Ejes Metropolitanos, Vías Primarias e Interbarrios, de manera conjunta y coordinada con la Dirección General de Desarrollo Urbano, dicho procedimiento, deberá estar soportado en un estudio técnico que avale su procedencia;
 
-IV. Proponer al Ayuntamiento, a través de la Comisión del Instituto Municipal de Planeación, las propuestas de actualización y modificación al POTE y al Plano de Zonificación Municipal, incluyendo las declaratorias de asignación de uso del suelo en zonas de reserva para el crecimiento (ZRC y ZRC-C);
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+IV. Proponer al Ayuntamiento, a través de la Comisión del Instituto Municipal de Planeación, las propuestas de actualización y modificación al POTE y al Plano de Zonificación Municipal, incluyendo las asignaciones de uso del suelo en zonas de reserva para el crecimiento (ZRC y ZRC-C) y en zonas de reserva agrícola (RA);
 
 V. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
@@ -1161,7 +1161,9 @@ Servicio de Intensidad Alta:
 
 1.- Norma de Intensidad: Más de 100 personas activas;
 
-2.- Dimensión del predio: Más de 1601 metros cuadrados; y,
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+2.- Dimensión del predio: Más de 1600 metros cuadrados; y,
 
 3.- Servicio de carga y descarga: Hasta Trailer.
 
@@ -1775,9 +1777,11 @@ Las zonas de reserva para el crecimiento (ZRC y ZRC-C), no tienen usos predeterm
 
 Los desarrollos inmobiliarios en esta zona, en el resolutivo correspondiente deberá establecerse que el promovente aporte un porcentaje del 3% del valor de la urbanización a favor del fideicomiso ambiental que se cree e incorporar garantías ambientales, a favor del mismo fideicomiso con fin de promover los costos de conservación de la zona. En caso de un desarrollo de vivienda de interés social, el porcentaje será del 1%.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 84.
 
-En las propuestas de nuevos desarrollos, el IMPLAN analizará el estudio correspondiente para determinar la compatibilidad urbanística, quien lo turnara al H. Ayuntamiento para análisis y en su caso la aprobación de la declaratoria de asignación de uso de suelo.
+En las propuestas de nuevos desarrollos, el IMPLAN analizará el estudio correspondiente para determinar la compatibilidad urbanística, quien lo turnará al H. Ayuntamiento para análisis y en su caso la aprobación de la asignación de uso de suelo.
 
 ###### Artículo 85.
 
@@ -2819,31 +2823,57 @@ La plantación de los árboles deberá efectuase (sic) con las especies, y confo
 
 Para la construcción de los fraccionamientos a que se refiere el Código Territorial, se aplicarán en lo conducente los parámetros establecidos en el título de zonificación y usos del suelo de este Código clasificándose los diferentes tipos de desarrollos conforme a su densidad, en los siguientes:
 
-I. Campestre Rústico: HR;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-II. Campestre Residencial: H1;
+I. Campestre rústico;
 
-III. Residencial A: H2;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-IV. Residencial B: H3;
+II. Campestre residencial;
 
-V. Residencial C: H4, H5 y H6;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-VI. Habitacional popular o de interés social: H7 y H8;
+III. Residencial A;
 
-VII. Industria ligera: I 1;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-VIII. Industria mediana: I 2;
+IV. Residencial B;
 
-IX. Industria pesada: I 3;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-X. Industria de alto riesgo: I 4;
+V. Residencial C;
 
-XI. Turístico, recreativo o deportivo: RE;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-XII. Agropecuario: RA, RF, RE y RP; y,
+VI. Habitacional popular, de interés social o de densidad alta;
 
-XIII. Comerciales: C1, C2 y C3:
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+VII. Industria ligera;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+VIII. Industria mediana;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+IX. Industria pesada;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+X. Industria de alto riesgo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+XI. Turístico, recreativo o deportivo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+XII. Agropecuario; y,
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+XIII. Comerciales.
 
 En los proyectos de diseño urbano de los fraccionamientos, se podrán prever diferentes tipos de uso considerando las disposiciones que establezca el Título de la Zonificación y usos del suelo de este Código, para la zona en que aquellos se ubiquen.
 
@@ -2945,17 +2975,21 @@ Se consideran fraccionamientos habitacionales de interés social aquellos confor
 
 Los lotes de los fraccionamientos de habitación popular, de interés social o de densidad alta (H7 y H8), deberán tener un frente no menor de 6 metros y una superficie no menor de 105 metros cuadrados.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 182.
 
-En los lotes a que se refiere esta sección se podrán realizar dos edificaciones por cada lote, siempre que el mismo tenga una superficie mínima de 135.00 metros cuadrados, y que cada unidad tenga un frente mínimo de 5.00 metros, y una superficie mínima de 67.50 metros cuadrados; cada vivienda contará con un cajón de estacionamiento como mínimo, así como obras, instalaciones y accesos independientes.
+En los lotes a que se refiere esta sección se podrán realizar dos edificaciones por cada lote, conforme a lo siguiente:
+
+I. En los fraccionamientos habitacionales populares o de interés social el lote debe tener un frente mínimo de 9.00 metros y una superficie mínima de 135.00 metros cuadrados y cada unidad debe contar con un frente mínimo de 4.50 metros y una superficie mínima de 67.50 metros cuadrados.
+
+II. En fraccionamientos de densidad alta, el lote debe tener un frente mínimo de 10.00 metros y una superficie mínima de 150.00 metros cuadrados y cada unidad debe contar con un frente mínimo de 5.00 metros y una superficie mínima de 75.00 metros cuadrados.
+
+En ambos casos cada vivienda deberá contar con un cajón de estacionamiento como mínimo, al igual que con obras, instalaciones y accesos independientes.
 
 Conjuntamente con el permiso de venta, previo pago del impuesto de división para la individualización de las viviendas, el desarrollador deberá solicitar a la Tesorería Municipal la asignación de una clave catastral por cada una de estas edificaciones que conforman el fraccionamiento, en la que se identificará cada unidad dispuesta sobre el lote que les corresponda.
 
-Así mismo, se permitirán construir hasta cuatro viviendas sujetas al régimen en condominio, cuando el lote tenga una superficie mínima de 180 metros cuadrados y un frente mínimo de 12.00 metros, se ubiquen en las zonas determinadas para este uso en el programa municipal y el proyecto de diseño urbano atienda a la densidad de población y, en su caso, al de vivienda establecidos en el mismo.
-
-En el caso de que se pretendan construir más de cuatro viviendas por lote en las zonas a que se refiere esta sección, deberá sujetarse a los lineamientos establecidos para un desarrollo en condominio.
+Así mismo, se permitirán construir hasta cuatro viviendas sujetas al régimen en condominio, cuando el lote tenga una superficie mínima de 180.00 metros cuadrados, se ubiquen en las zonas determinadas para este uso en el programa municipal y el proyecto de diseño urbano atienda a la densidad de población y, en su caso, al de vivienda establecidos en el mismo.
 
 ###### Artículo 183.
 
@@ -3173,11 +3207,11 @@ II. Condominio vertical: Es aquel en el que cada condómino es propietario exclu
 
 III. Condominio Mixto. Es aquel formado por condominios verticales y horizontales, que pueden estar constituidos en grupos de unidades de propiedad exclusiva como: Edificios, cuerpos, torres, manzanas, secciones o zonas.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 197.
 
-Los desarrollos en condominio cualquiera que sea su tipo, conforme al número de viviendas, lotes, locales, departamentos o unidades que los integren, deberán contar con los espacios necesarios para área de estacionamiento independiente de los requeridos para las unidades privativas, de conformidad con el título de zonificación y usos del suelo de este Código.
+Los desarrollos en condominio, cualquiera que sea su tipo, conforme al número de viviendas, lotes, locales, departamentos o unidades que los integren, deberán contar con los espacios para área de estacionamiento requeridos para las unidades privativas, de conformidad con el título de zonificación y usos del suelo de este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3287,9 +3321,7 @@ II. Aprobación de traza;
 
 III. Permiso de urbanización de fraccionamientos y/o permiso de edificación en el caso de desarrollos en condominio;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-IV. Permiso de construcción, tratándose de desarrollos en condominio o de fraccionamientos con edificación, la cual se otorgará en los términos del Título de las construcciones que prevé el presente Código;
+IV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3537,9 +3569,11 @@ para Fraccionamientos
 
 Mixtos)
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
 Seccionamiento Fraccionamiento Seccionado
 
-(Etapas) Azul Cielo 4
+(Secciones) Azul Cielo 4
 
 a) Todos los Layers se deberán presentar en polilíneas y en polígonos cerrados, excepto layers de calles;
 
@@ -3547,7 +3581,9 @@ b) La numeración de manzanas y predios siempre se realizará de forma ascendent
 
 c) No se deberán repetir números de lotes en una manzana, ni números de manzanas en un mismo fraccionamiento;
 
-d) Si el fraccionamiento se desarrolla por secciones, ampliaciones o etapas se deberá dar continuidad a la numeración de manzanas de acuerdo a la última etapa o proyecto autorizado;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+d) Si el fraccionamiento se desarrolla por secciones o ampliaciones se deberá dar continuidad a la numeración de manzanas de acuerdo al último proyecto autorizado;
 
 e) Si el macro proyecto se divide en varios fraccionamientos, se deberá dar continuidad al número de manzanas anterior de acuerdo al último autorizado; y,
 
@@ -3801,7 +3837,9 @@ En el caso de que la ejecución se realice por los particulares, éstos deberán
 
 La urbanización progresiva se ajustará a lo siguiente:
 
-I. Podrá ejecutarse por secciones, debiendo comenzar con la introducción al cien por ciento del agua potable y drenaje sanitario; así como del drenaje pluvial, cuando SAPAL lo determine como necesario;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+I. Podrá ejecutarse por etapas de urbanización, debiendo comenzar con la introducción al cien por ciento del agua potable y drenaje sanitario; así como del drenaje pluvial, cuando SAPAL lo determine como necesario;
 
 II. Contar con el proyecto ejecutivo de trazo, secciones, nivelación y deslinde de las obras mínimas de infraestructura, autorizados por la Dirección, SAPAL y CFE en el ámbito de sus respectivas competencias;
 
@@ -3845,13 +3883,13 @@ Los desarrolladores podrán presentar a la Dirección propuesta para emplear ele
 
 El desarrollador podrá solicitar, en los términos el (sic) artículo 431 del Código Territorial, la autorización de la urbanización de un fraccionamiento por etapas, para lo cual la Dirección emitirá un permiso de urbanización de la etapa correspondiente.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 251-B.
 
-Para la obtención del permiso de urbanización de la etapa correspondiente el desarrollador deberá presentar a la Dirección los requisitos previstos en las fracciones I, II, VII y VIII del artículo 241 del presente Código, así como los proyectos de infraestructura pública aprobados por las instancias competentes con los que cuente al momento de hacer su solicitud.
+Para la obtención del permiso de urbanización de la etapa de urbanización o proyecto correspondiente el desarrollador deberá presentar a la Dirección los requisitos previstos en las fracciones I, II y III del artículo 241 del presente Código, así como los proyectos de infraestructura pública aprobados por las instancias competentes con los que cuente al momento de hacer su solicitud.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 251-C.
 
@@ -3863,11 +3901,11 @@ La Dirección con base en la solicitud y documentales que le sean presentadas po
 
 Una vez concedido el permiso de urbanización de la etapa solicitada, el desarrollador establecerá una garantía parar (sic) la realización de la misma, en los términos del presente Código. Asimismo, la Dirección podrá supervisar los alcances y límites establecidos en el permiso de urbanización de la etapa.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 251-E.
 
-El desarrollador no podrá solicitar la entrega recepción de las obras de urbanización o de edificación en los fraccionamientos o desarrollos en condominios por etapas. Deberá realizar en un solo acto de (sic) la entrega-recepción de la totalidad de las etapas.
+El desarrollador podrá solicitar la entrega recepción de las obras de urbanización o de edificación en los fraccionamientos o desarrollos en condominios por etapas de urbanización, sin necesidad de que los desarrolladores entreguen dichas obras o servicios en un solo acto.
 
 ### CAPÍTULO XI. DEL PERMISO DE VENTA
 
@@ -3903,9 +3941,9 @@ La garantía a que se refiere el artículo 430 fracción IV del Código Territor
 
 En el caso de garantía real ésta se constituirá sobre inmuebles propiedad del interesado en favor del Municipio, debiendo practicarse al efecto por parte de la Dirección un avalúo comercial con cargo al desarrollador.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-Cuando el permiso de urbanización o edificación se haya otorgado por secciones o etapas, la garantía se constituirá por cada una de ellas.
+Cuando el permiso de urbanización o edificación se haya otorgado por secciones o etapas de urbanización, la garantía se constituirá por cada una de ellas.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3947,11 +3985,9 @@ El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisit
 
 De los permisos otorgados al amparo de este artículo, la Dirección deberá rendir un informe al menos mensualmente a la Comisión de Desarrollo Urbano, o bien cuando ésta se lo requiera.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
-
 ###### Artículo 261.
 
-La modificación de traza que contenga adecuaciones de lotificación para su validez deberá inscribirse, a costa del desarrollador, en el Registro Público de la Propiedad y del Comercio de León, Guanajuato, cuando se haya obtenido con posterioridad a la obtención del permiso de venta respectivo.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -4001,7 +4037,9 @@ Tratándose de fraccionamientos o desarrollos en condominio campestres o agropec
 
 Para los efectos de la recepción de las obras de urbanización o de infraestructura pública en fraccionamientos y desarrollos en condominio, el desarrollador deberá presentar las actas de entrega-recepción de la Dirección, CFE y el SAPAL, que hayan autorizado los proyectos correspondientes, así como la garantía por vicios ocultos en la forma y casos previstos en el Código Territorial y el presente Código.
 
-La entrega recepción de las obras de urbanización, podrá efectuarse en lo individual, por cada obra correspondiente a una etapa, sección o bien a la totalidad del desarrollo, según éste se haya autorizado por las dependencias y entidades competentes.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+La entrega recepción de las obras de urbanización, podrá efectuarse en lo individual, por cada uno de los proyectos, secciones o bien a la totalidad del desarrollo, según éste se haya autorizado por las dependencias y entidades competentes.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -4047,11 +4085,11 @@ II. Notificar por escrito a la Dirección sobre la designación que haga sobre e
 
 III. Realizar los estudios ordenados por la Dirección, así como llevar a cabo las acciones resultantes de los mismos, cuando en la ejecución de las obras de urbanización de un desarrollo, se hayan detectado factores de riesgo;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-IV. Abstenerse de presentar para inscripción ante el Registro Público de la Propiedad y del Comercio de León, Guanajuato, cualquier permiso relacionada (sic) con el trámite y ejecución de algún fraccionamiento o desarrollo en condominio, diverso al permiso de venta o a la modificación de traza derivada de la adecuación a la lotificación, que se otorgue con posterioridad al permiso de venta.
+IV. Abstenerse de presentar para inscripción ante el Registro Público de la Propiedad y del Comercio de León, Guanajuato, cualquier licencia, permiso o autorización relacionado con el trámite y ejecución de algún fraccionamiento o desarrollo en condominio, diverso a la autorización de traza, régimen en condominio, al permiso de venta o a la modificación de traza derivada de la adecuación a la lotificación.
 
-Para la inscripción ante el Registro Público de la Propiedad y del Comercio de la modificación de traza derivada de la adecuación a la lotificación otorgada con posterioridad al permiso de venta, el Notario Público encargado de su protocolización en la escritura pública correspondiente deberá describir las áreas que integran el desarrollo, tales como manzanas, lotes y vialidades para efecto de que queden plenamente identificadas además se deberá estipular que la inscripción de dicho trámite no es para efectos de traslados de dominio;
+Para la inscripción de la autorización de traza ante el Registro Público de la Propiedad y del Comercio, el Notario Público encargado de su protocolización en la escritura pública correspondiente deberá describir las áreas que integran el desarrollo, tales como manzanas, lotes y vialidades para efecto de que queden plenamente identificadas, además se deberá estipular que la inscripción de dicho trámite no es para efectos de traslados de dominio, para lo cual el Notario Público en la Escritura Pública correspondiente agregará la leyenda "Folio en trámite, no válido para la realización de traslado de dominio por no contar con permiso de venta";
 
 V. Garantizar el libre tránsito peatonal y vehicular en las áreas destinadas para tal fin, a partir del permiso de venta y hasta la entrega recepción del desarrollo al municipio;
 
@@ -4469,11 +4507,11 @@ VI. Establecer las normas específicas que deberán observarse en la supervisió
 
 VII. Regular la arquitectura ecológica, así como la innovación tecnológica en arquitectura y construcción.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 289.
 
-La planeación y la ejecución de las obras de construcción que impliquen ampliación, remodelación, conservación, restauración, reconstrucción, reestructuración y demolición, de cualquier género de edificaciones o construcciones, públicas o privadas, se sujetarán a lo previsto en el presente Código para el permiso de construcción, al manual técnico de las construcciones y demás normativa aplicable.
+La planeación y la ejecución de las obras de construcción que impliquen obra nueva, ampliación, remodelación, conservación, restauración, reconstrucción, reestructuración, demolición y trabajos preliminares de cualquier género de edificaciones o construcciones, públicas o privadas, se sujetarán a lo previsto en el presente Código para el permiso de construcción, al manual técnico de las construcciones y demás normativa aplicable.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -4493,11 +4531,11 @@ En los proyectos de construcción que presenten los DRO sobre cualquier tipo de 
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 291.
 
-El permiso de construcción es el documento expedido por la Dirección en el cual se autoriza a los propietarios o poseedores de un bien inmueble para construir, ampliar, modificar, reparar, o demoler una edificación o instalación en sus predios, en los términos y bajo las condiciones previstas por el presente Código.
+El permiso de construcción es el documento expedido por la Dirección en el cual se autoriza a los propietarios o poseedores de un bien inmueble para construir, ampliar, modificar, reparar o demoler una construcción y realizar trabajos especiales, en los términos y bajo las condiciones previstas por el presente Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -4897,7 +4935,9 @@ Para los grupos de uso habitacionales, sólo se deberá presentar la responsiva 
 
 Requieren de permiso de construcción especial la realización de obras e instalaciones que a continuación se indican:
 
-I. Para realización de trabajos preliminares y de cimentación;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+I. Para realización de trabajos preliminares;
 
 II. Construcción de bardas interiores o exteriores con altura excedente de 2.50 metros;
 
@@ -4953,11 +4993,11 @@ I. Dentro de la memoria descriptiva del proyecto estructural, deberán indicarse
 
 II. Plano de sembrado indicando la ubicación de los unidades con proyecto tipo en la manzana, cluster, isla, o conjunto de unidades o plantas tipo, para las que se solicita la Licencia.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 320.
 
-El permiso de construcción especial para trabajos preliminares y de cimentación, consiste en la autorización de todas aquellas actividades que comprendan la limpieza de terreno, movimiento de tierras, trazo, excavación, relleno, nivelación, compactación y cualquier procedimiento de cimentación.
+El permiso de construcción especial para trabajos preliminares, consiste en la autorización de todas aquellas actividades que comprendan la limpieza de terreno, movimiento de tierras, trazo, excavación, relleno, nivelación, compactación y cualquier procedimiento de cimentación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -8126,3 +8166,7 @@ Por única ocasión, el presidente del Consejo Consultivo Ambiental debe ser ele
 Artículo vigésimo. Dentro de los tres meses siguientes a la entrada en vigencia del presente Acuerdo, la Dirección General de Gestión Ambiental, debe realizar las gestiones conducentes y, en su caso, emitir las convocatorias respectivas, para la integración del padrón municipal de peritos ambientales.
 
 En tanto se integra el padrón municipal de peritos ambientales, las funciones periciales a que se refiere este Ordenamiento, pueden ser realizadas por las personas inscritas en el Padrón de Prestadores de Servicios Ambientales en el Estado de Guanajuato, que administra el Instituto de Ecología del Estado de Guanajuato.
+
+P.O. 29 DE DICIEMBRE DE 2014.
+
+Único. Las presentes reformas y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
