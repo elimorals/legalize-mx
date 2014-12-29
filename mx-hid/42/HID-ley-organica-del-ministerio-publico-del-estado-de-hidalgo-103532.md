@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-10353
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2014-11-10"
+last_updated: "2014-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "HID"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DE LAS CERO HORAS DEL DÍA 18 DE NOVIEMBRE DE 2014, CONFORME AL DECRETO NÚMERO 208, PROMULGADO POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, DE FECHA 22 DE AGOSTO DE 2014.</small>
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -687,7 +687,9 @@ SEGUNDO. La Procuraduría General de Justicia del Estado de Hidalgo, dentro de l
 
 TERCERO. La Secretaría de Finanzas y Administración del Gobierno del Estado, tomará las medidas administrativas y financieras pertinentes para alcanzar el objeto de esta Ley, conforme al Presupuesto de Egresos respectivo.
 
-CUARTO. Se derogan todas las disposiciones que se oponga al contenido del presente Decreto.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+CUARTO. Se abroga la Ley Orgánica del Ministerio Público, publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2009; se derogan las disposiciones que se oponga al contenido del presente Decreto.
 
 AL EJECUTIVO DE LA ENTIDAD, PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.- APROBADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HIDALGO, A LOS OCHO DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL CATORCE.
 
