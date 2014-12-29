@@ -4,7 +4,7 @@ identifier: "HID-ley-de-extincion-de-dominio-para-el-estado-de-hidalgo-80424"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-21"
-last_updated: "2014-11-10"
+last_updated: "2014-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO DE 29 DE DICIEMBRE DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 29 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de marzo de 2011.
 
@@ -599,11 +599,11 @@ Se notificará mediante oficio a la Secretaría de Finanzas y Administración de
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 29 DE DICIEMBRE DE 2014)
 
 ###### Artículo 37.
 
-Una vez presentada la demanda con los documentos que acrediten la procedencia de la acción y demás pruebas que ofrezca el agente del Ministerio Público, el juez contará con un plazo (sic) setenta y dos horas para resolver sobre la admisión de la demanda, así como el otorgamiento de las providencias cautelares solicitadas.
+Una vez presentada la demanda con los documentos que acrediten la procedencia de la acción y demás pruebas que ofrezca el agente del Ministerio Público, el juez contará con un plazo de setenta y dos horas para resolver sobre la admisión de la demanda, así como el otorgamiento de las providencias cautelares solicitadas.
 
 Si la demanda fuere obscura o irregular, el juez deberá prevenir por una sola vez al agente del Ministerio Público para que la aclare, corrija o complete, señalando en concreto sus defectos, otorgándole para tal efecto, un plazo de tres días contados a partir de que surta efectos la notificación del auto que lo ordene.
 
