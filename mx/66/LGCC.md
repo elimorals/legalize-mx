@@ -4,7 +4,7 @@ identifier: "LGCC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2014-10-16"
+last_updated: "2014-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCC"
 
 LEY GENERAL DE CAMBIO CLIMÁTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -426,9 +426,11 @@ d) Los recursos que se obtengan por la comercialización de sus obras literarias
 
 VII. Los demás bienes, derechos y aprovechamientos que le fijen las leyes y reglamentos o que provengan de otros fondos o aportaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 17.
 
-La Junta de Gobierno será la máxima autoridad del organismo, estará presidida por el titular de la Secretaría de Medio Ambiente y Recursos Naturales e integrada por los titulares de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Gobernación; de Desarrollo Social; de Hacienda y Crédito Público; de Energía; de Salud; y del Consejo Nacional de Ciencia y Tecnología.
+La Junta de Gobierno será la máxima autoridad del organismo, estará presidida por el titular de la Secretaría de Medio Ambiente y Recursos Naturales e integrada por los titulares de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Gobernación; de Desarrollo Social; de Hacienda y Crédito Público; de Energía; de Salud; de Desarrollo Agrario, Territorial y Urbano, y del Consejo Nacional de Ciencia y Tecnología.
 
 Cada integrante de este órgano colegiado deberá nombrar un suplente con nivel jerárquico de subsecretario.
 
@@ -956,7 +958,9 @@ Los mecanismos de funcionamiento y operación del Sistema Nacional de Cambio Cli
 
 La Comisión tendrá carácter permanente y será presidida por el titular del Ejecutivo federal, quién podrá delegar esa función al titular de la Secretaría de Gobernación o al titular de la Secretaría de Medio Ambiente y Recursos Naturales.
 
-Se integrará por los titulares de las Secretarías de Medio Ambiente y Recursos Naturales; de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Salud; de Comunicaciones y Transportes; de Economía; de Turismo; de Desarrollo Social; de Gobernación; de Marina; de Energía; de Educación Pública; de Hacienda y Crédito Público, y de Relaciones Exteriores.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
+
+Se integrará por los titulares de las Secretarías de Medio Ambiente y Recursos Naturales; de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Salud; de Comunicaciones y Transportes; de Economía; de Turismo; de Desarrollo Social; de Gobernación; de Marina; de Energía; de Educación Pública; de Hacienda y Crédito Público; de Relaciones Exteriores, y de Desarrollo Agrario, Territorial y Urbano.
 
 Cada secretaría participante deberá designar a una de sus unidades administrativas, por lo menos a nivel de dirección general, como la encargada de coordinar y dar seguimiento permanente a los trabajos de la comisión.
 
@@ -1358,9 +1362,11 @@ VIII. Otros proyectos y acciones en materia de cambio climático que la comisió
 
 El Fondo operará a través de un Fideicomiso público creado por la Secretaría de Hacienda y Crédito Público, en términos de las disposiciones jurídicas que resulten aplicables.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 84.
 
-El Fondo contará con un Comité Técnico presidido por la Secretarías de Medio Ambiente y Recursos Naturales; y con representantes de las secretarías de Hacienda y Crédito Público; Economía; Gobernación; Desarrollo Social; Comunicaciones y Transportes; Energía; Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+El Fondo contará con un Comité Técnico presidido por la Secretaría de Medio Ambiente y Recursos Naturales; y con representantes de las Secretarías de Hacienda y Crédito Público; de Economía; de Gobernación; de Desarrollo Social; de Comunicaciones y Transportes; de Energía; de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Desarrollo Agrario, Territorial y Urbano.
 
 ###### Artículo 85.
 
@@ -1689,3 +1695,7 @@ D.O.F. 7 DE MAYO DE 2014.
 D.O.F. 16 DE OCTUBRE DE 2014.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 2014.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
