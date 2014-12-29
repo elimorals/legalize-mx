@@ -4,7 +4,7 @@ identifier: "HID-ley-de-atencion-asistencia-y-proteccion-a-victimas-de-103528"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2014-11-10"
+last_updated: "2014-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "HID"
 ---
 # LEY DE ATENCION, ASISTENCIA Y PROTECCION A VICTIMAS DE DELITOS Y VIOLACIONES A DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS ERRATAS PUBLICADAS EL 29 DE DICIEMBRE DE 2014 Y 9 DE FEBRERO DE 2015 [NÚMERO 52, PÁGINAS 4 Y 6 Y NÚMERO 6, PÁGINAS 2 Y 3] EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE FEBRERO DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY DE ATENCIÓN, ASISTENCIA Y PROTECCIÓN A VÍCTIMAS DE DELITOS Y VIOLACIONES A DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 29 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -449,7 +451,9 @@ II. No haber sido condenado por la comisión de un delito doloso o inhabilitado 
 
 III. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley; y
 
-IV. No ocupar cargo público en la administración federal, estatal o municipal, ni haber desempeñado cargo en algún partido político, dentro de los dos seis (sic) meses previos a su designación.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+IV. No ocupar cargo público en la administración federal, estatal o municipal, ni haber desempeñado cargo en algún partido político, dentro de los seis meses previos a su designación.
 
 ###### Artículo 19.
 
@@ -965,6 +969,8 @@ XI. Elaborar un informe anual de labores sobre las actividades integrales desarr
 
 XII. Las demás que sean necesarias para cumplir con el objeto de esta Ley.
 
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 61.
 
 La víctima tendrá derecho a nombrar un abogado. En caso de no contar con abogado particular, la Comisión Ejecutiva Estatal deberá nombrarle un Asesor Jurídico Estatal.
@@ -973,17 +979,21 @@ La víctima tendrá el derecho de que su abogado comparezca a todos los actos en
 
 El servicio de la Asesoría Jurídica Estatal será gratuito y se prestará a todas las víctimas que quieran o que no pueden contratar a un abogado particular y en especial a:
 
-I. Las personas que estén desempleadas y no perciban ingresos;
+VI (sic). Las personas que estén desempleadas y no perciban ingresos;
 
-II. Los trabajadores jubilados o pensionados, así como sus cónyuges;
+VII. Los trabajadores jubilados o pensionados, así como sus cónyuges;
 
-III. Los trabajadores eventuales o subempleados;
+VIII. Los trabajadores eventuales o subempleados;
 
-IV. Los indígenas, y
+IX. Los indígenas, y
 
-V. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
+X. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
 
-Artículo 61 (sic). El Asesor Jurídico Estatal tendrá las funciones siguientes:
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 61 Bis.
+
+El Asesor Jurídico Estatal tendrá las funciones siguientes:
 
 I. Asistir y asesorar a la víctima desde el primer momento en que tenga contacto con la autoridad;
 
@@ -1141,7 +1151,9 @@ Cuando la conducta del servidor público pudiera ser constitutiva de algún deli
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. Se abrogan todas las disposiciones que contravengan el presente Decreto.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+SEGUNDO. Se abroga la Ley de Atención y Protección a Víctimas del Delito para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado, el 24 de mayo de 2010; se derogan todas las disposiciones que contravengan el presente Decreto.
 
 TERCERO. El Reglamento de la presente Ley deberá expedirse dentro de los seis meses siguientes a la fecha en que la Ley entre en vigor.
 
