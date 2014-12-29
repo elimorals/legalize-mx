@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-promocion-de-valores-y-cultura-de-la-legalidad-5496
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-23"
-last_updated: "2011-10-17"
+last_updated: "2014-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY PARA LA PROMOCION DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEON
 
-LEY PARA LA PROMOCION DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEON
+LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de marzo de 2007.
 
@@ -55,7 +55,9 @@ II.- Comité: el Comité de Investigación y Análisis para la formulación del 
 
 III.- Consejo: el Consejo Estatal para la Promoción de Valores y Cultura de la legalidad;
 
-IV.- Cultura de la Legalidad: Atributo de la sociedad que se distingue por el acatamiento a las disposiciones jurídicas vigentes;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+IV.- Cultura de la Legalidad: Atributo de la sociedad y de las Instituciones Públicas y Privadas que se distingue por el acatamiento de las disposiciones jurídicas vigentes;
 
 V.- Ley: Ley para la Promoción de Valores y Cultura de la Legalidad del Estado de Nuevo León;
 
@@ -69,7 +71,7 @@ VII.- Recinto: Recinto de los Hombres y Mujeres Ilustres del Estado de Nuevo Le�
 
 VIII.- Valores: Cualidades del ser humano que modelan su comportamiento y que son estimados, en virtud de que su práctica se orienta al bienestar personal y social; siempre de acuerdo con la naturaleza de las personas y con el carácter universal e inmutable de éstas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2009)</small>
 
 ###### Artículo 3.
 
@@ -149,7 +151,9 @@ III.- Promover vínculos de coordinación con las diversas instancias de los tre
 
 IV.- Proponer y dar seguimiento al cumplimiento de las políticas públicas, programas, proyectos y acciones de fomento que se emprendan en el marco de esta Ley;
 
-V.- Realizar evaluaciones periódicas sobre el grado de cultura de la legalidad en el Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+V.- Realizar evaluaciones periódicas sobre el grado de cultura de la legalidad en el estado, las cuales comprenderán el comportamiento social de los ciudadanos y el funcionamiento de las Instituciones Públicas y Privadas, exclusivamente en lo que respecta al grado de acatamiento del orden jurídico vigente;
 
 VI.- Integrar, conducir y coordinar las campañas públicas de promoción de valores en la sociedad;
 
@@ -195,7 +199,7 @@ El Programa promoverá el respeto a los valores que sustentan la institución fa
 
 El Comité a que se refiere el Artículo 10 será de carácter permanente para dar seguimiento y evaluar el grado de cumplimiento del Programa, así como para proponer los ajustes o modificaciones que sean necesarios como resultado del análisis de su ejecución. Para estos efectos sus integrantes serán miembros del Consejo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ABRIL DE 2009)</small>
 
 ### CAPÍTULO IV. DEL RECINTO DE LOS HOMBRES Y MUJERES ILUSTRES DEL ESTADO DE NUEVO LEÓN
 
@@ -359,7 +363,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 ROGELIO CERDA PÉREZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE ABRIL DE 2009.
 
@@ -374,3 +378,7 @@ Cuarto.- El Ejecutivo, a través de la Secretaria de Finanzas y Tesorería Gener
 P.O. 17 DE OCTUBRE DE 2011.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el periódico Oficial del Estado de Nuevo León.
