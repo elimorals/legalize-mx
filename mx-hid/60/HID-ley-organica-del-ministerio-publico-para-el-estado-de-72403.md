@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-para-el-estado-de-72403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-31"
-last_updated: "2014-11-10"
+last_updated: "2014-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "HID"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO PARA EL ESTADO DE HIDALGO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DE LA LEY ORGÁNICA DEL MINISTERIO PUBLICO DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014 (DEROGADA).
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Alcance Uno del Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2009.
 
@@ -693,4 +693,6 @@ SEGUNDO. La Procuraduría General de Justicia del Estado de Hidalgo, dentro de l
 
 TERCERO. La Secretaría de Finanzas y Administración del Gobierno del Estado, tomará las medidas administrativas y financieras pertinentes para alcanzar el objeto de esta Ley, conforme al Presupuesto de Egresos respectivo.
 
-CUARTO. Se derogan todas las disposiciones que se oponga (sic) al contenido del presente Decreto.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+CUARTO. Se abroga la Ley Orgánica del Ministerio Público, publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2009; se derogan las disposiciones que se opongan al contenido del presente Decreto.
