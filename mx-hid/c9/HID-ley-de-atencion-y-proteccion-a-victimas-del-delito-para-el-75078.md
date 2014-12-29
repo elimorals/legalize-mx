@@ -4,7 +4,7 @@ identifier: "HID-ley-de-atencion-y-proteccion-a-victimas-del-delito-para-el-7507
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-24"
-last_updated: "2014-11-10"
+last_updated: "2014-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "HID"
 ---
 # LEY DE ATENCION Y PROTECCION A VICTIMAS DEL DELITO PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 29 DE DICIEMBRE DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS DEL DELITO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ATENCIÓN, ASISTENCIA Y PROTECCIÓN A VÍCTIMAS DE DELITOS Y VIOLACIONES A DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014 (ABROGADA).
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 29 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de mayo de 2010.
 
@@ -89,7 +91,7 @@ XIII.- Víctima directa: Persona que como consecuencia de la realización de una
 
 XIV.- Víctima Indirecta: Dependientes económicos de las víctimas directas, o que, en virtud de la cercanía de éstas, se vean afectadas psicoemocionalmente por la conducta delictiva desplegada en contra de la víctima directa;
 
-XV.- Victimización: Experiencia de la víctima y el ofendido y las consecuencias perjudiciales de índole física, económica, psicológica y social, producidas por el delito, o puesta en peligro del bien jurídico tutelado que les ocasionan un daño material o físico;
+XV.- Victimización: Experiencia de la víctima y el ofendido y las consecuencias perjudiciales de índole física, económica, psicológica y social, producidas por el delito, o puesta en peligro del bien jurídico tutelado que les ocasionan un daño material o físico; (sic)
 
 ###### ARTÍCULO 3.
 
@@ -289,7 +291,9 @@ P.O. 10 DE NOVIEMBRE DE 2014.
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. Se abrogan todas las disposiciones que contravengan el presente Decreto.
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+SEGUNDO. Se abroga la Ley de Atención y Protección a Víctimas del Delito para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado, el 24 de mayo de 2010; se derogan todas las disposiciones que contravengan el presente Decreto.
 
 TERCERO. El Reglamento de la presente Ley deberá expedirse dentro de los seis meses siguientes a la fecha en que la Ley entre en vigor.
 
