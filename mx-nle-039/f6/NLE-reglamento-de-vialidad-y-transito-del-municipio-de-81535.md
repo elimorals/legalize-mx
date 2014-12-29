@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-vialidad-y-transito-del-municipio-de-81535"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-13"
-last_updated: "2014-06-06"
+last_updated: "2014-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE VIALIDAD Y TRÁNSITO DEL MUNICIPIO DE MONTERREY DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 13 de diciembre de 2010.
 
@@ -49,25 +49,25 @@ CIRCULACIÓN DE VEHÍCULOS Y CAUSAS DE ARRASTRE
 
 El presente reglamento se declara de utilidad pública y de observancia general en el territorio del Municipio de Monterrey y tiene por objeto regular todo lo referente al tránsito y vialidad en la vía pública y en las áreas privadas con acceso al público.
 
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 2.
 
 Son autoridades para la aplicación del presente reglamento las siguientes:
 
 I. El Presidente Municipal;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
-
 II. El Secretario de Seguridad Pública y Vialidad;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+III. Los Directores de la Secretaría de Seguridad Pública y Vialidad;
 
-III. Los Directores de la Secretaria de Seguridad Pública y Vialidad;
+IV. Los Oficiales de Tránsito;
 
-IV. Los Oficiales de Tránsito; y
+V. El personal autorizado por el Secretario de Seguridad Pública y Vialidad; y,
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
-
-V. El personal autorizado por el Secretario de Seguridad Pública y Vialidad.
+VI. Las demás que tengan expresamente una competencia en este Reglamento.
 
 ###### ARTÍCULO 3.
 
@@ -83,7 +83,9 @@ IV. Licencia vigente del conductor; y
 
 V. Seguro de responsabilidad civil vigente.
 
-La autoridad municipal de tránsito podrá emitir permisos provisionales para circular sin placas en el Municipio de Monterrey en los casos establecidos en el presente reglamento.
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 Los vehículos al servicio de las fuerzas armadas del país podrán circular libremente por el Municipio de Monterrey y sólo se identificarán mediante los colores oficiales y sus números de matrículas.
 
@@ -209,6 +211,10 @@ En caso de que el accidente o la infracción se de en un área privada con acces
 
 ### CAPÍTULO TERCERO. INFRACCIONES Y MULTAS
 
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 9.
 
 Se considerará como infracción al presente reglamento y se sancionará con multa al conductor que incurra en los supuestos del siguiente recuadro:
@@ -217,11 +223,11 @@ INFRACCIÓN CUOTAS
 
 1 Estacionarse en lugar prohibido; 5 a 7
 
-Estacionarse en un lugar exclusivo para
+Estacionarse en un lugar exclusivo
 
-discapacitados el costo de la multa será
+para discapacitados el costo de la
 
-de 30 a 50 cuotas;
+multa será de 30 a 50 cuotas;
 
 2 Circular a exceso de velocidad; 10 a 15
 
@@ -229,11 +235,13 @@ de 30 a 50 cuotas;
 
 en luz roja;
 
-4 Manejar sin licencia o con licencia vencida; 10 a 15
+4 Manejar sin licencia o con licencia 10 a 15
 
-5 Circular sin placas o con placas que no le 20 a 25
+vencida;
 
-correspondan;
+5 Circular sin placas o con placas que 20 a 25
+
+no le correspondan;
 
 Circular con placas vencidas el costo
 
@@ -243,7 +251,7 @@ de la multa será 3 a 5;
 
 7 Circular por calles, avenidas o 20 a 30
 
-zonas restringidas vehículos
+zonas restringidas a vehículos
 
 de carga pesada sin el permiso
 
@@ -265,9 +273,9 @@ circulación de vehículos o peatones;
 
 circulación o licencia de manejo;
 
-12 Conducir sin el cinturón de seguridad 5 a 7
+12 Conducir sin el cinturón de 5 a 7
 
-abrochado;
+seguridad abrochado;
 
 13 Transportar personas en espacio 5 a 10
 
@@ -309,7 +317,7 @@ y acompañante en su caso;
 
 22 No hacer alto en la vía del ferrocarril; 5 a 10
 
-23 Por manejar en estado de ebriedad 50 a 200
+23 Por conducir en estado de ebriedad 50 a 200
 
 incompleto o en estado de ebriedad
 
@@ -317,73 +325,195 @@ completo o bajo el influjo de drogas
 
 que afecten su capacidad motora;
 
-En caso de reincidencia en el periodo
+23 Por conducir en estado ebriedad 100 a 300
 
-de un año, sin que sea preciso que el
+BIS incompleto o en estado de ebriedad
 
-individuo conduzca el mismo vehículo,
+completo o bajo el influjo de drogas
 
-se aplicará una multa de 200 a 600 cuotas.
+que afecte la capacidad motora y
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+cometer cualquier infracción
 
-24 Poseer, en el área de pasajeros de un vehículo, una o más botellas, latas u otros envases que contengan
+administrativa.
 
-bebidas alcohólicas abiertas, con los sellos rotos o 20 a 100
+23 Por conducir en estado ebriedad 200 a 600
 
-el contenido parcialmente consumido. No se considerará como área de pasajeros aquella con asientos abatibles habilitada para carga. En caso de reincidencia se aumentará hasta al doble el monto de la multa impuesta previamente. En el caso de que el infractor sea menor de edad, multa de 30 a 200 cuotas y suspensión de la licencia de conducir hasta por 3 meses.
+BIS incompleto o en estado de ebriedad
+
+I completo o bajo el influjo de drogas
+
+que afecten su capacidad motora
+
+en forma reincidente.
+
+La reincidencia se configurará cuando
+
+se cometa la infracción contemplada en
+
+los numerales 23 o 23 BIS de este
+
+artículo por más de una ocasión en un
+
+periodo de un año, sin que sea preciso
+
+que el individuo conduzca el mismo
+
+vehículo.
+
+24 Poseer en el área de pasajeros de 30 a 200
+
+un vehículo una o más botellas,
+
+latas u otros envases que contengan
+
+bebidas alcohólicas abiertas, con
+
+los sellos rotos o el contenido
+
+parcialmente consumido. No se
+
+considerará como área de pasajeros
+
+aquella con asientos abatibles
+
+habilitada para carga.
+
+En caso de reincidencia se aumentará
+
+hasta al doble el monto de la multa
+
+impuesta previamente.
+
+En el caso de que el infractor sea menor
+
+de edad, multa de 30 a 200 cuotas y
+
+suspensión de la licencia de conducir
+
+hasta por 3 meses.
 
 25 Huir del lugar del accidente; 10 a 20
 
 26 No pagar la cuota de parquímetro; 1 a 2
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+27 Circular con cristales polarizados 70 a 80
 
-27 Circular con cristales polarizados o con 70 a 80
+o con objetos que impidan o La sanción
 
-objetos que impidan o limiten la La sanción quedará sin
+limiten la visibilidad del conductor. quedará sin
 
-visibilidad del conductor. efectos si en un plazo de
+Con excepción de los vehículos con efectos si en
 
-Con excepción de los vehículos con 15 días naturales posteriores
+cristales entintados de fábrica. un plazo de
 
-cristales entintados de fabrica. a la infracción el conductor
+15 días naturales
 
-demuestre
+posteriores a la
 
-ante la autoridad competente
+infracción el
 
-el retiro de su polarizado
+conductor
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+demuestre ante
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2014)</small>
+la autoridad
 
-28 Conducir usando el teléfono celular, a
+competente el
 
-menos que esté funcionando con sistema
+retiro de su
 
-de manos libres, o cualquier otro aparato
+polarizado.
 
-electrónico u objeto que pueda distraer al
+28 Conducir usando cualquier 6 a 10
 
-conductor y poner en riesgo la seguridad de
+objeto que pueda distraer
 
-los pasajeros y peatones. 6 a 10
+al conductor y poner en riesgo
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+la seguridad de los pasajeros
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2014)</small>
+y peatones.
+
+28 Conducir utilizando simultáneamente 50 a 200
+
+BIS algún tipo de aparato de comunicación,
+
+salvo que se utilice con tecnología
+
+de manos libres u otra tecnología
+
+que evite distracción del conductor.
+
+28 Conducir utilizando simultáneamente 100 a 300
+
+BIS algún tipo de aparato de comunicación,
+
+I salvo que se utilice con tecnología
+
+de manos libres u otra tecnología
+
+que evite distracción del conductor
+
+y cometer cualquier infracción
+
+administrativa.
+
+28 Conducir utilizando simultáneamente 200 a 600
+
+BIS algún tipo de aparato de comunicación,
+
+II salvo que se utilice con tecnología
+
+de manos libres u otra tecnología
+
+que evite distracción del conductor
+
+en forma reincidente.
+
+La reincidencia se configurará
+
+cuando se cometa la infracción
+
+contemplada en los numerales
+
+28 BIS o 28 BIS I de este artículo
+
+por más de una ocasión en un
+
+periodo de un año, sin que sea preciso
+
+que el individuo conduzca el mismo
+
+vehículo.
 
 29 La violación a cualquier otra 6 a 10
 
-disposición del presente reglamento
+disposición del presente reglamento.
 
-El costo de las multas, es el establecido en el recuadro anterior.
+El costo de las multas es el establecido en el recuadro anterior.
 
-Los conceptos de ebriedad incompleta y completa serán los establecidos en la Ley Estatal de Prevención y Combate al Abuso del Alcohol.
+Los conceptos de ebriedad incompleta y completa serán los establecidos en la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León.
 
-Para efectos del presente reglamento una cuota es igual a un día de salario mínimo vigente en la Ciudad de Monterrey.
+Para efectos del presente reglamento una cuota equivale a un día de salario mínimo vigente en la Ciudad de Monterrey.
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 9 BIS. La conducción de vehículo automotor en estado de voluntaria intoxicación que afecten la capacidad de manejo, o utilizando simultáneamente algún tipo de aparato de comunicación, salvo que se utilice con tecnología de manos libres u otra tecnología que evite la distracción del conductor, será sancionada al menos, en los términos siguientes:
+
+I. Por conducir en alguna de las referidas condiciones, multa, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por 3 meses y arresto administrativo de 8 a 12 horas;
+
+II. Por conducir en alguna de las referidas condiciones, y cometer cualquier infracción administrativa, multa, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por 6 meses y arresto administrativo de 12 a 24 horas;
+
+III. Por conducir en alguna de las referidas condiciones, por más de dos veces en el lapso de un año, procederá multa, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por 12 meses y arresto administrativo de 24 a 36 horas;
+
+IV. Por no acreditar haber acudido al menos al 90% de las sesiones de tratamiento decretadas, multa de 100 a 200 cuotas y suspensión de la licencia para conducir hasta por 18 meses.
+
+En todos los casos de infracciones con motivo de conducción en estado de voluntaria intoxicación que afecte la capacidad de manejo, el infractor se deberá comprometer a asistir a tratamiento o cursos de rehabilitación y acreditar su cumplimiento ante la autoridad competente. De no efectuar el compromiso o no acreditarlo, se le suspenderá la vigencia de la licencia para conducir por hasta 18 meses.
+
+Tratándose de menores no emancipados que hayan cometido infracciones con motivo de conducción de vehículos en alguna de las condiciones señaladas en el primer párrafo de este artículo, se les cancelará la licencia para conducir o estarán inhabilitados para obtenerla hasta por 12 meses, y en su caso el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, quienes deberán acompañar al infractor a dicho tratamiento o curso.
 
 ###### ARTÍCULO 10.
 
@@ -415,13 +545,21 @@ IV. Conducir a exceso de velocidad en zona escolar; y
 
 V. Circular sin placas, con placas vencidas o con placas que no le correspondan.
 
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 12.
 
-El propietario del vehículo y el conductor son solidariamente responsables de las infracciones que se cometan en la conducción del vehículo, excepto en caso de robo del vehículo, siempre que la denuncia ante el Ministerio Público se presente antes que los hechos generadores de las infracciones.
+El conductor del vehículo es responsable de las infracciones que cometa en la conducción del mismo, siendo el propietario del vehículo responsable solidario de las mismas, excepto en caso de robo del vehículo, siempre que la denuncia ante el Ministerio Público se presente antes de los hechos generadores de las infracciones.
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 13.
 
-Las multas impuestas conforme al presente reglamento tendrán el carácter de crédito fiscal.
+Las multas impuestas en términos del presente reglamento, de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su venta y Consumo para el Estado de Nuevo León, y de la Ley que Regula la Expedición de Licencias de Conducir del Estado de Nuevo León, tendrán el carácter de crédito fiscal.
 
 ### CAPÍTULO CUARTO. LIBERACIÓN DE VEHÍCULOS
 
@@ -863,7 +1001,13 @@ Para obtener la licencia de conducir deberá cumplirse lo siguiente:
 
 l. Ser mayor de edad;
 
-II. Los menores de edad, de entre dieciséis y dieciocho años, podrán solicitar la licencia de conducir si cuentan con anuencia de sus padres o tutores y éstos suscriben una carta compromiso de vigilancia y monitoreo, así como de responsabilidad civil y, además, acrediten haber aprobado un curso de manejo;
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+II. Los menores de edad, de entre dieciséis y dieciocho años, podrán solicitar la licencia de conducir si cuentan con anuencia de sus padres o tutores y estos suscriban una carta compromiso de vigilancia y monitoreo, así como de responsabilidad civil y, además, acrediten haber aprobado un curso de manejo;
+
+El curso de manejo deberá incluir una presentación audiovisual, por medio de la cual se les informará con relación a los inconvenientes y consecuencias de conducir bajo el efecto de las bebidas alcohólicas o intoxicado con cualquier sustancia, además de incluir los riesgos de los accidentes que se pueden ocasionar cuando al conducir vehículos motores se utilice teléfono celular, radio o cualquier aparato de comunicación, ya sea para hablar o enviar cualquier tipo de mensajes de texto utilizando dispositivos móviles de comunicación.
 
 III. Saber leer y escribir;
 
@@ -883,29 +1027,51 @@ VIII. Acreditar residencia en Monterrey; los extranjeros deberán acreditar adic
 
 Los tipos de licencia y su vigencia son los establecidos en la Ley que regula la expedición de licencias para conducir del Estado de Nuevo León.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 45.
 
-La licencia de conducir será suspendida por el término de tres meses al conductor que:
+La licencia de conducir será suspendida o cancelada en caso de incurrir en los supuestos de los numerales 23, 23 BIS, 23 BIS I, 24, 28 BIS, 28 BIS I y 28 BIS II del recuadro del artículo 9, así como del artículo 9 BIS del presente reglamento, en los términos establecidos en la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León y de la Ley que Regula la Expedición de Licencias para Conducir del Estado de Nuevo León.
 
-I. Incurra en las (sic) infracción contemplada en el numeral 25 del recuadro del artículo 9 de este reglamento; o
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Incurra en tres ocasiones en un plazo de un año en cualquiera de los supuestos de infracción contemplados en los numerales 1, 2, 3 y 28 del recuadro del artículo 9 de este reglamento
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 46.
 
-La licencia de conducir será suspendida o cancelada en caso de incurrir en los supuestos de los numerales 23 y 24 del recuadro del artículo 9 del presente reglamento, en los términos establecidos en la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León.
+El Oficial de Tránsito al levantar infracciones que tengan como sanción la suspensión o cancelación de las licencias de conducir actuará como sigue:
+
+I.- Retendrá inmediatamente de forma provisional, como medida preventiva la licencia de conductor del vehículo;
+
+II.- Tomará las medidas necesarias, para evitar que el titular de la licencia continúe conduciendo; y
+
+III. Entregará la boleta de la infracción y la licencia retenida a la Jefatura de Control de Infracciones de la Secretaría de Seguridad Pública y Vialidad.
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 47.
 
-La autoridad municipal de tránsito retendrá la licencia del infractor cuando éste sea menor de edad o cuando el vehículo porte placas foráneas.
+La Jefatura de Control de Infracciones notificará de la retención a la Coordinación Jurídica de la Secretaría de Seguridad Pública y Vialidad para que de manera inmediata se informe de ello a la autoridad estatal competente en materia de expedición de licencias.
 
-Las licencias para conducir de menores de edad serán canceladas por incurrir en dos ocasiones en cualquier causal de infracción contenida en el presente reglamento, con excepción de las infracciones previstas en los numerales 23 y 24 del recuadro del artículo 9 de este reglamento, en cuyo caso bastará con una sola ocasión para su cancelación.
+Remitirá también a dicha Coordinación la licencia y copia de la boleta de infracción para efecto de que ésta sustancie el procedimiento para determinar la procedencia de la suspensión o cancelación de la licencia de conducir, y en su caso, el plazo de la suspensión referida.
+
+Para dicho procedimiento, dentro de los siguientes diez días hábiles, contados a partir de la fecha de la infracción, notificará al titular de la licencia a fin de que dentro del plazo de quince días hábiles, en el horario de 08:00 a 17:00 horas, manifieste por escrito lo que a su derecho convenga, presente pruebas y genere los alegatos de su intención. Vencido el término para su defensa, resolverá en definitiva y lo notificará dentro de los quince días hábiles siguientes al titular de la licencia.
+
+Posteriormente, notificará a la autoridad estatal competente en materia de expedición de licencias, sobre la resolución definitiva remitiendo en su caso la licencia retenida, a fin de que ésta efectúe las anotaciones correspondientes en la base de datos donde se registran dichas sanciones, así como su cumplimiento, lo cual deberá tomarse en cuenta para determinar la reincidencia.
+
+Para efectos de este procedimiento y a falta de disposición expresa, será de aplicación supletoria el Código de Procedimientos Civiles del Estado de Nuevo León.
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 47 BIS. La Coordinación Jurídica de la Secretaría de Seguridad Pública y Vialidad podrá reactivar la licencia de conducir si el infractor demuestra haber cumplido la sanción, o en su caso, solicite o realice 30 horas de servicio a la comunidad por cada mes que se haya decretado la suspensión de la licencia de conducir, informando a la autoridad estatal competente de la procedencia de esta reactivación.
+
+Las actividades a desarrollar como servicio a la comunidad serán las establecidas por la Secretaría de Seguridad Pública y Vialidad.
 
 ### CAPÍTULO DÉCIMO. SISTEMA DE SEMAFORIZACIÓN, SIMBOLOGÍA Y SEÑALIZACIÓN
 
@@ -1056,3 +1222,7 @@ Las presentes reformas por modificación, adición y derogación del Reglamento 
 P.O. 6 DE JUNIO DE 2014.
 
 ÚNICO. Las presentes reformas entrarán en vigor a los treinta días naturales siguientes a su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2014.
+
+ÚNICO. Las presentes reformas entrarán en vigor a los 90-noventa días naturales siguientes a su publicación en el Periódico Oficial del Estado, plazo en el cual se realizará una intensa campaña de difusión de las presentes reformas entre la comunidad, y la Secretaría de Seguridad Pública y Vialidad realizará las precisiones administrativas necesarias para la implementación de la reforma.
