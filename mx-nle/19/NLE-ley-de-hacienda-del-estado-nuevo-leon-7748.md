@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2014-07-03"
+last_updated: "2014-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -2729,6 +2729,10 @@ IX.- Por servicio de información de inscripciones de de (sic) Registro Civil, o
 
 X.- Por otros servicios no especificados 1.23 cuotas
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+
+No se pagarán los derechos previstos en este artículo por la inscripción del acta de nacimiento y la expedición de la primera copia certificada de dicha acta.
+
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 270 Bis.
@@ -4632,5 +4636,9 @@ P.O. 27 DE DICIEMBRE DE 2013.
 Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2014.
 
 P.O. 3 DE JULIO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
