@@ -4,7 +4,7 @@ identifier: "LCCBID"
 country: "mx"
 rank: "ley"
 publication_date: "1959-12-19"
-last_updated: "2012-05-14"
+last_updated: "2014-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=436&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCBID"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCIÓN EN MÉXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 19 de diciembre de 1959.
 
@@ -42,11 +42,9 @@ LEY que establece bases para la ejecución en México, por el Poder Ejecutivo Fe
 
 Se aprueba el Convenio Constitutivo del Banco Interamericano de Desarrollo, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 8 de abril de 1959.
 
-> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2012)</small>
-
 ###### ARTICULO 2o.
 
-Se autoriza al Gobierno Federal, para que, por conducto del Banco de México, efectúe la suscripción adicional de 401,052 acciones del Banco Interamericano de Desarrollo, hasta por el equivalente a 4,838,063,683 (cuatro mil ochocientos treinta y ocho millones sesenta y tres mil seiscientos ochenta y tres) dólares de los Estados Unidos de América.
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2012)</small>
 
@@ -100,9 +98,11 @@ En ningún caso los tribunales dictarán providencias precautorias sobre los bie
 
 Los funcionarios y empleados del Banco Interamericano de Desarrollo, así como las propiedades y bienes de este Organismo, sus archivos y sus comunicaciones oficiales, disfrutarán de las inmunidades, privilegios y exenciones tributarias a que se refiere el texto aprobado por la Comisión Especializada de Representantes de los Gobiernos de los Estados Miembros.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 12.
 
-El Gobierno Federal requerirá la autorización expresa del Congreso de la Unión para aceptar modificaciones a la suscripción de México al Banco Interamericano de Desarrollo, aceptar enmiendas al Convenio respectivo, hacer préstamos a este Organismo y separarse del mismo.
+El Gobierno Federal requerirá exclusivamente la aprobación del Senado, de conformidad con lo dispuesto en el artículo 76, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, para la terminación, denuncia, suspensión, modificación, enmienda, retiro de reservas y formulación de declaraciones interpretativas del Convenio Constitutivo del Banco Interamericano de Desarrollo o para modificar la suscripción del Gobierno de México al Banco Interamericano de Desarrollo.
 
 N. DE E.: EL DECRETO DE PROMULGACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
@@ -175,3 +175,7 @@ D.O.F. 10 DE MAYO DE 1996.
 D.O.F. 14 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 2014.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
