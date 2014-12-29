@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2013-12-27"
+last_updated: "2014-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -167,7 +167,7 @@ TOTALES FIJO A PAGAR:
 
 ANUALES:
 
-1.- De$150,000.01 a $250,000.00 $330.00
+1.- De $150,000.01 a $250,000.00 $330.00
 
 2.-" $250,000.01 " "390,000.00 $360.00
 
@@ -591,11 +591,9 @@ La Tesorería Municipal que corresponda, de acuerdo a los párrafos anteriores, 
 
 #### SECCION SEXTA. DEL PAGO DEL IMPUESTO
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-###### ARTICULO 21 Bis 12.
-
-El impuesto se causará anualmente y su pago deberá hacerse por bimestres adelantados, que se cubrirán a más tardar el día 1° de los meses de Febrero, Abril, Junio, Agosto, Octubre y Diciembre. El impuesto podrá pagarse por anualidad anticipada a más tardar el día 1° del mes de Marzo, sin recargos. En el caso de que se pague a más tardar el 1° del mes de Febrero, gozará de una reducción del 15% de dicha anualidad y si lo cubre a más tardar el día 1° del mes de Marzo, gozará de una reducción del 10% de la misma.
+ARTICULO 21 BIS 12.- El Impuesto se causará anualmente y su pago deberá de hacerse por bimestres adelantados, que se cubrirán a más tardar el día 5° de los meses de Febrero, Abril, Junio, Agosto, Octubre y Diciembre. El impuesto podrá pagarse por anualidad anticipada a más tardar el día 5° del mes de Marzo, sin recargos. En el caso de que se pague a más tardar el (sic) 5° del mes de Febrero, gozará de una reducción del 15% de dicha anualidad y si lo cubre a más tardar el día 5° del mes de Marzo, gozará de una reducción del 10% de la misma.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -767,9 +765,9 @@ En la adquisición de viviendas cuyo valor gravable no exceda de 25 cuotas eleva
 
 El Impuesto sobre adquisición de inmuebles se cubrirá a una tarifa única especial por cada inmueble equivalente a 7 cuotas, en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-I.- En las adquisiciones realizadas por instituciones de beneficencia privada, constituidas en términos legales, respecto de bienes destinados exclusivamente a sus fines.
+I.- En las adquisiciones realizadas por instituciones de beneficencia privada y asociaciones civiles legalmente constituidas y certificadas por la Junta de Beneficencia Privada del Estado de Nuevo León, respecto de bienes destinados exclusivamente a sus fines.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
@@ -2045,7 +2043,7 @@ C.- Lotes con superficie mayor de 300 m2 0.172 cuotas
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-5.- Otros ubicados en los municipios de Apodaca, Escobedo, García Guadalupe (sic), Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santiago y Santa Catarina 0.107 cuotas
+5.- Otros ubicados en los municipios de Apodaca, Escobedo, García Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santiago y Santa Catarina 0.107 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -3754,3 +3752,7 @@ P.O. 4 DE JULIO DE 2013.
 P.O. 27 DE DICIEMBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
