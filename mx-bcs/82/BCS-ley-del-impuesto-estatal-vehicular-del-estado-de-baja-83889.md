@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-impuesto-estatal-vehicular-del-estado-de-baja-83889"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-31"
-last_updated: "2011-10-31"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DEL IMPUESTO ESTATAL VEHICULAR DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO 2211 POR EL QUE SE ABROGA LA LEY DEL IMPUESTO ESTATAL VEHICULAR, CONTENIDA EN EL DECRETO 1939, PUBLICADO EN EL B.O. DE 30 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2014. (ABROGADA)
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de octubre de 2011.
 
@@ -524,3 +526,11 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 CARLOS MENDOZA DAVIS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 30 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Las obligaciones derivadas de la Ley del Impuesto Estatal Vehicular que se abroga conforme al Artículo Único del presente Decreto, que hubieren nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dicho ordenamiento, deberán ser cumplidas en las formas y plazos establecidos en el mismo y en las demás disposiciones aplicables.
