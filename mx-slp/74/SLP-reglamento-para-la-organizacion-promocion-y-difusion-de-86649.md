@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-la-organizacion-promocion-y-difusion-de-86649"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-31"
-last_updated: "2012-01-31"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 REGLAMENTO PARA LA ORGANIZACIÓN, PROMOCIÓN Y DIFUSIÓN DE DEBATES PÚBLICOS ENTRE CANDIDATOS A PUESTOS DE ELECCIÓN POPULAR EN EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA ORGANIZACIÓN, PROMOCIÓN Y DIFUSIÓN DE DEBATES PÚBLICOS ENTRE CANDIDATOS A PUESTOS DE ELECCIÓN POPULAR EN EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 31 de enero de 2012.
 
@@ -268,3 +270,11 @@ Lic. Rafael Rentería Armendáriz
 Secretario de Actas
 
 (Rúbricas)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la vigencia del presente acuerdo se abroga el Reglamento para la Organización, Promoción y Difusión de Debates Públicos entre Candidatos a puestos de elección popular en el Estado de San Luís Potosí, expedido por acuerdo del Pleno del Consejo Estatal Electoral y de Participación Ciudadana mediante número 07/01/2012 de fecha 16 de enero del año 2012.
