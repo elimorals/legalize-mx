@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2013-12-16"
+last_updated: "2014-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE DECRETO ENTRA EN VIGOR EL 1 DE ENERO DE 2014, PREVIA SU PUBLICACIÓN EN LA GACETA OFICIAL.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2014.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -827,7 +825,9 @@ o) Las anotaciones marginales relativas al decreto judicial para garantizar pens
 
 p) Los casos que señalen de manera específica las demás leyes.
 
-q) Las Oficinas del Registro Público de la Propiedad del Estado inscribirán los embargos de bienes que realicen autoridades fiscales de la Federación, el Estado y los municipios, para lo cual quedará en suspenso el pago de los derechos que se generen por estos actos.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+q) Las Oficinas del Registro Público de la Propiedad del Estado inscribirán los embargos de bienes que realicen autoridades fiscales de la Federación, el Estado y los municipios, para lo cual quedará en suspenso el pago de los derechos que se generen por estos actos. Dichas autoridades cubrirán el monto de los derechos conforme a la tasa aplicable vigente al momento de que soliciten la cancelación de la inscripción. Este pago no se realizará cuando se adjudiquen los bienes a favor de los Gobiernos federal, estatal o municipal, ni cuándo adquiera firmeza la resolución judicial o administrativa que nulifique, anule, revoque o deje sin efectos el acto administrativo que generó la inscripción del embargo. Para el trámite a que se refiere esta fracción no se requerirá resolución especial.
 
 Dichas autoridades cubrirán el monto de los derechos conforme a la tasa aplicable vigente al momento de que soliciten la cancelación de la inscripción. Este pago no se realizará cuando se adjudiquen los bienes a favor de los Gobiernos federal, estatal o municipal. Para el trámite a que se refiere esta fracción no se requerirá resolución especial.
 
@@ -1123,7 +1123,9 @@ actualización de la vigencia de un
 
 dictamen de arrendamiento: 1 salario mínimo
 
-Se exceptúan del pago de derechos por la expedición de avalúos comerciales, dictámenes de arrendamiento y la corrección de datos o la actualización de la vigencia correspondiente, los bienes propiedad del Estado o de los Ayuntamientos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+Se exceptúan del pago de derechos por la expedición de avalúos comerciales, dictámenes de arrendamiento y la corrección de datos o la actualización de la vigencia correspondiente, relativos a bienes propiedad del Estado o de los Ayuntamientos. Asimismo, se exceptúan a las autoridades fiscales, cuando soliciten avalúos comerciales dentro de las (sic) substanciación del procedimiento administrativo de ejecución.
 
 ###### Artículo 14.
 
@@ -1589,6 +1591,24 @@ copias de documentos que obren en los
 
 expedientes administrativos, por hoja: 1 salario mínimo
 
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+I. Por la emisión de
+
+constancias de
+
+cumplimiento de
+
+obligaciones fiscales: 10 Salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+II. Por la emisión de
+
+constancias de registro
+
+de contador público autorizado: 23.5 salarios mínimos
+
 B. Por registro y control de vehículos de servicio privado:
 
 I. Alta en el Registro Estatal de Contribuyentes de un vehículo nuevo o usado con dotación de placas, calcomanía numeral y tarjeta de circulación:
@@ -1597,7 +1617,9 @@ a) Para automóvil, camión y ómnibus: 10 salarios mínimos
 
 b) Para remolque y motocicleta: 5 salarios mínimos
 
-II. Derechos de control vehicular, el cual deberá pagarse en los meses de enero a marzo, sin perjuicio del pago de cualquier impuesto relativo a la posesión o uso de vehículos. El recibo oficial de pago será el comprobante fiscal:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+II. Derechos de control vehicular, el cual deberá pagarse en los meses de enero a abril, sin perjuicio del pago de cualquier impuesto relativo a la posesión o uso de vehículos. El recibo oficial de pago será el comprobante fiscal:
 
 a) Automóvil, camión y ómnibus: 9 salarios mínimos
 
@@ -3029,7 +3051,7 @@ a) Por la expedición de cada constancia de no inhabilitación: 1 salario mínim
 
 ###### Artículo 23.
 
-Se causarán y pagarán derechos por servicios prestados por la Administración Pública Paraestatal a través de las entidades que se mencionan a continuación: (sic)
+Se causarán y pagarán derechos por servicios prestados por la Administración Pública Paraestatal a través de las entidades que se mencionan a continuación:
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -3663,6 +3685,10 @@ IV. Bitácora para estudios y proyectos: 12.3 salarios mínimos
 
 V. Letrero de obra, adicional: 13.93 salarios mínimos
 
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+VI. Bases de licitación para adquisición de mobiliario (recurso estatal): 70.57 salarios mínimos
+
 ###### Artículo 30.
 
 Por el uso temporal de bienes del Instituto Veracruzano de la Cultura:
@@ -3727,7 +3753,7 @@ b) Entradas:
 
 III. Centro Veracruzano de las Artes (CEVART):
 
-a ) Salón de usos múltiples "Juan Vicente Melo":
+a) Salón de usos múltiples "Juan Vicente Melo":
 
 1. Sin mobiliario:
 
@@ -3799,15 +3825,21 @@ e) Sala de lectura "Emilio Carballido":
 
 4. Uso de los pianos: 40.7 salarios mínimos
 
-f) Cursos y Talleres: 4.9 salarios mínimos
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+f) Hora por curso, taller o diplomado: 0.5 salarios mínimos
 
 IV. Escuela Libre de Música:
 
-a) Cursos y talleres:
+a) Cursos y Talleres:
 
 1. Inscripción: 12.2 salarios mínimos
 
 2. Mensualidad 5.7 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+3. Inscripción con beca: 6.1 salarios mínimos
 
 V. Centro para el Desarrollo Artístico Integral (CEDAI):
 
@@ -3837,6 +3869,14 @@ a) Recinto teatral:
 
 5. Apoyo personal técnico: 48.9 salarios mínimos
 
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+6. Ensayo: 94.1 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+7. Lobby: 23.6 salarios mínimos
+
 VIII. Teatro del Estado "General Ignacio de la Llave":
 
 a) Recinto teatral:
@@ -3850,6 +3890,18 @@ a) Recinto teatral:
 4. Cuota mínima: 162.9 salarios mínimos
 
 5. Apoyo personal técnico: 48.9 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+6. Ensayo: 94.1 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+7. Mezzanine: 62.8 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+8. Lobby: 23.6 salarios mínimos
 
 b) Sala chica "Dagoberto Guillaumín":
 
@@ -3897,13 +3949,21 @@ c) Sala de exposiciones temporales: 97.8 salarios mínimos
 
 d) Sala de usos múltiples: 48.9 salarios mínimos
 
-e)Toma de fotografías para XV años
+e) Toma de fotografías para XV años
 
 y bodas: 40.7 salarios mínimos
 
 f) Toma de fotografías para
 
 graduaciones: 48.9 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+g) Entradas:
+
+1. General 0.2 salarios mínimos
+
+2. Estudiante e INAPAM 0.1 salarios mínimos
 
 XII. Casa de Cultura de Coatepec:
 
@@ -4093,7 +4153,7 @@ XVI. Trámite de expedición de cédula para curso de verano práctico: 13 salar
 
 XVII. Trámite de expedición de cédula para curso propedéutico: 8.1 salarios mínimos
 
-XVIII. Trámite de expedición de cédula de solicitud para la devolución documentos (sic): 1.6 salarios mínimos
+XVIII. Trámite de expedición de cédula de solicitud para la devolución (sic) documentos: 1.6 salarios mínimos
 
 XIX. Trámite de expedición de duplicado de boleta: 1.3 salarios mínimos
 
@@ -4159,7 +4219,7 @@ IX. Trámite de expedición de cédula de baja definitiva: 3.3 salarios mínimos
 
 X. Trámite de expedición reposición credencial estudiante: 1.6 salarios mínimos
 
-XI. Trámite expedición (sic) de duplicado de documentos: 1.2 salarios mínimos
+XI. Trámite (sic) expedición de duplicado de documentos: 1.2 salarios mínimos
 
 XII. Trámite de expedición de constancia de estudios con y sin calificaciones: 1.2 salarios mínimos
 
@@ -5181,7 +5241,7 @@ XLVII. Trámite de reposición de constancia de actividades extraescolares: 1 sa
 
 XLVIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global de materia: 4.90 salarios mínimos
 
-XLIX. Trámite de expedición de carta de pasante y certificado de estudios posgrado (sic): 9.77 salarios mínimos
+XLIX. Trámite de expedición de carta de pasante y certificado de estudios (sic) posgrado: 9.77 salarios mínimos
 
 L. Trámite de expedición de cédula de reinscripción posgrado (sic) generación 2010: 24.43 salarios mínimos
 
@@ -6168,3 +6228,9 @@ Primero. El presente Decreto entrará en vigor el primero de enero del año 2014
 Segundo. Las donaciones o cuotas voluntarias de los trámites administrativos relacionados con los servicios educativos, tendrán el mismo tratamiento que los derechos, para todos los efectos legales a que haya lugar, en lo que no se contraponga a su naturaleza.
 
 Tercero. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
