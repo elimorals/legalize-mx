@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-5961"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-05"
-last_updated: "2007-08-23"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE CATASTRO DEL ESTADO DE MICHOACAN
 
-LEY DE CATASTRO DEL ESTADO DE MICHOACAN
+LEY DE CATASTRO DEL ESTADO DE MICHOACÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE CATASTRO DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 5 de marzo de 1984.
 
@@ -139,7 +141,7 @@ Los valores unitarios de terreno y construcción que apruebe el Congreso del Est
 
 Los resultados que se obtengan de realizar las operaciones a que se refiere el párrafo anterior, se ajustarán a la unidad monetaria más próxima.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 12.
 
@@ -165,7 +167,7 @@ VI. Por ejecución de obras públicas, resulten perjudicados o beneficiados con 
 
 VII. El predio sea objeto de trasmisión de dominio;
 
-VIII. Se cambie el régimen de propiedad individual por el de condominio, y (sic9
+VIII. Se cambie el régimen de propiedad individual por el de condominio, y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -179,7 +181,7 @@ X. Deba corregirse el régimen registrado como urbano, cuando por las caracterí
 
 En los casos en que no se pueda determinar técnicamente el valor catastral de un predio o de aquellos originados por la fusión o división de otros se fijará un valor catastral provisional con base en los elementos de que se dispongan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 14.
 
@@ -201,7 +203,7 @@ La ausencia de los interesados citados legalmente, no será motivo para suspende
 
 El resultado de estas actuaciones catastrales, y en su caso las observaciones de los propietarios o poseedores del predio objeto de medición y deslinde o de quienes los representen legalmente, así como de los colindantes, se hará constar en acta circunstanciada que firmará el personal autorizado por la Tesorería que hubiere intervenido en los trabajos; pudiendo firmar, si lo considera conveniente, los propietarios o poseedores del predio deslindado y los colindantes o sus representantes.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -315,7 +317,7 @@ La autoridad competente comunicará por escrito a la autoridad catastral, de las
 
 Las personas físicas o morales que obtengan de la autoridad competente dictamen aprobatorio de uso del suelo para fraccionar un terreno o establecer un condominio, deberán solicitar por escrito a la autoridad catastral, la medición y deslinde del predio afectado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 33.
 
@@ -455,7 +457,7 @@ VII. Tengan el carácter de fedatarios, funcionarios y empleados de oficinas pú
 
 VIII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 1993)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 45.
 
@@ -509,29 +511,29 @@ Los servidores públicos de la Tesorería, que por dolo o negligencia alteren o 
 
 (DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ### CAPITULO DECIMO PRIMERO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 I. DEL PROCEDIMIENTO SOBRE VARIACIONES CATASTRALES DE BIENES HEREDITARIOS.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 52.
 
 El Tesorero General, a su juicio puede autorizar la variación de cuentas catastrales sobre bienes hereditarios, si éstos en la fecha de presentación de la solicitud no rebasan un valor equivalente a 4,000 días de salario mínimo vigente en el Estado de Michoacán, mismo que se determinará mediante avaluó catastral practicado por perito que designe la propia Tesorería, y siempre que las pruebas que presenten los interesados sean suficientes para acreditar el parentesco de éstos con el autor de la herencia.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 Los acuerdos que se emitan deberán ser por escrito, fundarse y motivarse en las razones que lo justifiquen.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -629,7 +631,7 @@ Los recaudadores de rentas que no envíen las denuncias a la Tesorería General 
 
 ###### ARTICULO 66.
 
-Una ve declarado heredero el Fisco del Estado por resolución judicial firme, la Tesorería General del Estado y los recaudadores de rentas, en sus respectivos casos, recabarán copia certificada de dicha resolución y del inventario, procediendo a realizar las gestiones necesarias para su inscripción tanto en el Catastro como en el Registro Público de la Propiedad en el Estado.
+Una vez declarado heredero el Fisco del Estado por resolución judicial firme, la Tesorería General del Estado y los recaudadores de rentas, en sus respectivos casos, recabarán copia certificada de dicha resolución y del inventario, procediendo a realizar las gestiones necesarias para su inscripción tanto en el Catastro como en el Registro Público de la Propiedad en el Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -669,7 +671,7 @@ Para los efectos del artículo anterior, cuando los bienes sucesorios no fueren 
 
 Se entenderá por bien mostrenco todo inmueble que carezca de dueño o se encuentre abandonado por éste.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 III. DEL PROCEDIMIENTO SOBRE INMUEBLES MOSTRENCOS
 
@@ -679,7 +681,7 @@ III. DEL PROCEDIMIENTO SOBRE INMUEBLES MOSTRENCOS
 
 La denuncia de bienes mostrencos se hará por escrito ante el Instituto, o a la oficina recaudadora respectiva, indicando la ubicación del predio, sus medidas y linderos y en su caso, el nombre del propietario. El interesado deberá recabar por escrito el acuse de recibo de su denuncia, sin cuyo requisito no podrá hacer ninguna reclamación posterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 74.
 
@@ -751,11 +753,11 @@ A la persona que denuncie ante la Tesorería la existencia de un inmueble mostre
 
 Las personas que se crean con derecho sobre algún inmueble declarado mostrenco, deberán denunciarlo ante el juez competente dentro del término de ciento ochenta días naturales, contados desde la fecha en que se inscriba en el Registro Público de la Propiedad en el Estado, el acuerdo correspondiente. Transcurrido ese plazo, quedará prescrito el derecho de cualquier reclamante.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 IV. DEL PROCEDIMIENTO SOBRE PREDIOS IGNORADOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 83.
 
@@ -781,9 +783,9 @@ I. Si se trata de bienes de alguna herencia vacante o inmueble mostrenco, hecho 
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II. Si durante la tramitación de la solicitud se presentaran reclamaciones justificadas de tercero, oponiéndose a la inscripción en el Catastro; se considera que una reclamación de tercero está justificada, cuado a ella se acompañen pruebas documentales que desvirtúen el contenido de la manifestación en trámite.
+II. Si durante la tramitación de la solicitud se presentaran reclamaciones justificadas de tercero, oponiéndose a la inscripción en el Catastro; se considera que una reclamación de tercero está justificada, cuando a ella se acompañen pruebas documentales que desvirtúen el contenido de la manifestación en trámite.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 86.
 
@@ -809,7 +811,7 @@ Cuando la autoridad catastral en el ejercicio de sus atribuciones, detecte predi
 
 Con el mismo procedimiento señalado en el párrafo anterior, se inscribirán en el catastro, los ejidos colectivos y comunales, parcelas en ejidos parcelados y los solares en zonas urbanas ejidales y comunales sin o con las construcciones adheridas a ellos.
 
-> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ### CAPITULO DECIMO SEGUNDO. DISPOSICIONES GENERALES
 
@@ -841,7 +843,7 @@ Las autoridades municipales deberán comunicar a la autoridad catastral de las l
 
 Los propietarios o poseedores de predios o sus representantes legales, deberán manifestar a la autoridad catastral, la terminación de nuevas construcciones, reconstrucciones o ampliaciones de las existentes, dentro de los quince días hábiles siguientes a la fecha de terminación de la obra.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 91.
 
@@ -871,7 +873,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 Sufragio Efectivo. No reelección.- El Gobernador Constitucional del Estado.- Ing. Cuauhtémoc Cárdenas Solórzano.- El Secretario de Gobierno.- Lic. Cristóbal Arias Solís.- (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 1986.
 
@@ -954,3 +956,15 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley de Catastro del Estado de Michoacán de fecha 05 de marzo de 1984; así como las demás disposiciones que se opongan a la presente Ley.
+
+TERCERO. El Reglamento de la presente Ley, deberá expedirse en un periodo máximo de 90 días, a partir de su entrada en vigor, así como el instructivo técnico de valuación catastral.
+
+CUARTO. La referencia que en la presente Ley se hace a la Secretaría de Finanzas y Administración, se entenderá adecuada a su nueva denominación, al momento en que entre en vigor la reforma a la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, conforme al Artículo Tercero Transitorio del Decreto Legislativo N° 126 publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, N° 21/ Tomo CLVII, Sección Sexta, el 25 de junio del año 2013.
+
+QUINTO. Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo.
