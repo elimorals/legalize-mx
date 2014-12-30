@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6235
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-11"
-last_updated: "2010-12-14"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 11 de julio de 2008.
 
@@ -205,7 +205,7 @@ XVII. Alentar a las organizaciones a las que pertenezcan a que incluyan en sus p
 
 Las acciones que se lleven a cabo con motivo de esta ley y demás disposiciones aplicables, tienen por objeto la protección y asistencia a las víctimas o a aquellas en situación de riesgo de violencia y además promover su desarrollo integral y su participación en los ámbitos de la vida pública y privada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 13.
 
@@ -487,7 +487,7 @@ El Instituto Coahuilense de la Mujer será la entidad responsable de operar los 
 
 ###### ARTÍCULO 35.
 
-El lnstituto Coahuilense de la Mujer será la entidad responsable de brindar atención vía telefónica a las víctimas de violencia con perspectiva de género. Además se encargará de elaborar el manual operativo de este tipo de atención, el cual deberá ser sometido a la consideración y aprobación del Sistema Estatal.
+El Instituto Coahuilense de la Mujer será la entidad responsable de brindar atención vía telefónica a las víctimas de violencia con perspectiva de género. Además se encargará de elaborar el manual operativo de este tipo de atención, el cual deberá ser sometido a la consideración y aprobación del Sistema Estatal.
 
 El servicio de atención telefónica a las víctimas tendrá cobertura en todo el Estado, para lo cual, se deberán implementar las acciones y mecanismos que la garanticen.
 
@@ -533,9 +533,11 @@ V. Asesoría jurídica, y
 
 VI. Terapia psicológica.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 38.
 
-La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos que persista su inestabilidad física, psicológica o su situación de riesgo. El personal médico, psicológico y jurídico evaluará periódicamente, para tales efectos, su condición.
+La permanencia de las víctimas en los refugios no podrá ser mayor a seis meses, a menos que persista su inestabilidad física, psicológica o su situación de riesgo. El personal médico, psicológico y jurídico evaluará periódicamente, para tales efectos, su condición.
 
 ###### ARTÍCULO 39.
 
@@ -643,7 +645,7 @@ LIC. JESÚS TORRES CHARLES
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
 
 P.O. 12 DE MAYO DE 2009.
 
@@ -666,3 +668,7 @@ P.O. 14 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
