@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2014-12-17"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2009-03-25"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE DICIEMBRE DE 2014 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LAS REFORMAS PUBLICADAS EN EL D.O.F DE 7 DE DICIEMBRE DE 2014, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LAS REFORMAS PUBLICADAS EN EL D.O.F. DE 7 DE DICIEMBRE DE 2014, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL PRESENTE REGLAMENTO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 30 DE DICIEMBRE DE 2014.</small>
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -469,9 +469,9 @@ Al frente de las Direcciones Generales a que hace referencia el artículo 3 de e
 
 I. Planear, programar, organizar, dirigir y evaluar el desempeño de las actividades encomendadas a la Unidad Administrativa a su cargo, de acuerdo con los lineamientos que fije la Junta de Gobierno y el Presidente;
 
-> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E., D.O.F. 30 DE DICIEMBRE DE 2014)
 
-I Bis. Garantizar que la información que se produce, se integra y se difunde, dentro de su ámbito de competencia, cumpla con los atributos de calidad, pertinencia, veracidad y oportunidad, así como con los principios de accesibilidad, transparencia, objetividad e independencia dispuestos en el Artículo 3 de la Ley.
+I Bis. Asegurar y evaluar que la información que se produce, se integra y se difunde, dentro de su ámbito de competencia, cumpla con los atributos de calidad, pertinencia, veracidad y oportunidad, así como con los principios de accesibilidad, transparencia, objetividad e independencia dispuestos en el Artículo 3 de la Ley.
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1681,9 +1681,9 @@ XXVI (SIC). Las facultades que expresamente le otorga el artículo 11 de este Re
 
 Son atribuciones específicas de la Dirección General Adjunta de Información Geográfica Básica, las siguientes:
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E., D.O.F. 30 DE DICIEMBRE DE 2014)
 
-I. Desarrollar proyectos de disposiciones normativas para someterlas a consideración del Director General de su adscripción, sobre los procesos de generación, integración, validación y explotación de información geográfica básica, producida por las Unidades Administrativas del Instituto y demás Unidades del Estado, conforme a lo dispuesto en la Ley;
+I. Desarrollar los proyectos de disposiciones normativas y de propuestas de Información de Interés Nacional para someterlas a consideración del Director General de su adscripción, sobre los procesos de generación, integración, validación y explotación de información geográfica básica, producida por las Unidades del Estado, conforme a lo dispuesto en la Ley;
 
 > <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -1773,23 +1773,23 @@ XXII. Formular recomendaciones que permitan elevar la calidad de los procesos de
 
 XXIII. Elaborar, actualizar y conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)
 
-XIV (SIC). Coordinar la participación del INEGI con organismos nacionales e internacionales, para la administración, operación y mantenimiento de estaciones de recepción de datos satelitales, así como el control en los levantamientos de datos geográficos mediante aeronaves tripuladas y no tripuladas, que contribuyan a la obtención de información geográfica;
+XXIV. Coordinar la participación del INEGI con organismos nacionales e internacionales, para la administración, operación y mantenimiento de estaciones de recepción de datos satelitales, así como el control en los levantamientos de datos geográficos mediante aeronaves tripuladas y no tripuladas, que contribuyan a la obtención de información geográfica;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)
 
-XXIV. Coordinar y concertar con las Unidades del Estado acciones para la producción y actualización de información geográfica;
+XXV. Coordinar y concertar con las Unidades del Estado acciones para la producción y actualización de información geográfica;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)
 
-XXV. Proponer e implementar en los levantamientos de información geográfica básica las acciones requeridas para que los Informantes incurran en los menores costos posibles en la entrega de la información que se les solicite, y
+XXVI. Proponer e implementar en los levantamientos de información geográfica básica las acciones requeridas para que los Informantes incurran en los menores costos posibles en la entrega de la información que se les solicite, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
-XXVI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+XXVI (SIC). Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2010)</small>
+(REFORMADO, D.O.F. 31 DE AGOSTO DE 2010) (F. DE E., D.O.F. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 26.
 
@@ -2537,7 +2537,9 @@ III. Operar el Programa Anual de Productos, así como, diseñar y supervisar la 
 
 IV. Administrar la Imprenta del Instituto;
 
-V. Diseñar e Implementar la estrategia de promoción del conocimiento y uso de la información estadística y geográfica que genera e integra y genera el Instituto;
+> <small>(F. DE E., D.O.F. 30 DE DICIEMBRE DE 2014)</small>
+
+V. Diseñar e Implementar la estrategia de promoción del conocimiento y uso de la información estadística y geográfica que genera e integra el Instituto;
 
 VI. Diseñar, coordinar y administrar el Sitio del INEGI en Internet y administrar la difusión de información que genere el Instituto por medios electrónicos, de acuerdo a las mejores prácticas internacionales;
 
@@ -2617,9 +2619,9 @@ VIII. Autorizar los manuales de procedimientos y de organización del Instituto;
 
 IX. Proponer al Presidente, para la aprobación de la Junta de Gobierno, las políticas y lineamientos necesarios para el Servicio Profesional de Carrera del Instituto, así como implementar su operación;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E., D.O.F. 30 DE DICIEMBRE DE 2014)
 
-X. Coordinar la elaboración y aplicación de los programas de capacitación y desarrollo profesional del Instituto, así como las acciones que las Unidades Administrativas lleven a cabo para mejorar certificar procesos y/o proyectos estadísticos y geográficos.
+X. Coordinar la elaboración y aplicación de los programas de capacitación y del Servicio Profesional de Carrera.
 
 XI. Autorizar la modificación de la estructura orgánica ocupacional y salarial desde el punto de vista técnico, organizacional y operacional, conforme a los lineamientos aprobados por la Junta de Gobierno;
 
@@ -3069,6 +3071,8 @@ El Auditor Externo vigilará, entre otras cosas, que la información financiera 
 
 Al menos cada tres años se deberá designar a una nueva empresa de auditoría en términos de lo dispuesto en este artículo, para salvaguardar la eficacia en la vigilancia del Instituto.
 
+> <small>(F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 48.
 
 La Contraloría Interna del Instituto estará a cargo de un Titular, el cual contará con las siguientes atribuciones:
@@ -3093,7 +3097,7 @@ VIII. Coordinar la atención de quejas y denuncias; las investigaciones y proced
 
 > <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
-VIII Bis. Dictar las disposiciones administrativas necesarias para el adecuado cumplimiento de la Ley Federal Anticorrupción en las Contrataciones Públicas, e interpretar sus disposiciones para efectos administrativos;
+VIII BIS. Dictar las disposiciones administrativas necesarias para el adecuado cumplimiento de la Ley Federal Anticorrupción en las Contrataciones Públicas, e interpretar sus disposiciones para efectos administrativos;
 
 > <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -3101,27 +3105,25 @@ IX. Resolver los recursos de revisión que se hagan valer en contra de las resol
 
 X. Realizar ante las diversas instancias jurisdiccionales, por sí o por conducto del servidor público de la propia Contraloría Interna que determine, la defensa jurídica de las resoluciones que emita, así como, expedir copias certificadas de los documentos que obren en los archivos de la Contraloría Interna del Instituto;
 
-XI. (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2014)
+XI. Denunciar ante las autoridades competentes, por sí o por conducto del servidor público que la propia Contraloría Interna determine, los hechos de los que tenga conocimiento y que puedan ser constitutivos de delito o, en su defecto, instar a la Dirección General Adjunta de Asuntos Jurídicos a formular las querellas a que haya lugar, cuando las conductas ilícitas requieran de este requisito de procedibilidad;
 
-XII. Denunciar ante las autoridades competentes, por sí o por conducto del servidor público que la propia Contraloría Interna determine, los hechos de los que tenga conocimiento y que puedan ser constitutivos de delito o, en su defecto, instar a la Dirección General Adjunta de Asuntos Jurídicos a formular las querellas a que haya lugar, cuando las conductas ilícitas requieran de este requisito de procedibilidad;
+XII. Aprobar los lineamientos para establecer y llevar el registro y seguimiento de la evolución patrimonial de los servidores públicos del Instituto, de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
 
-XIII. Aprobar los lineamientos para establecer y llevar el registro y seguimiento de la evolución patrimonial de los servidores públicos del Instituto, de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+XIII. Proporcionar la información que le sea requerida, de acuerdo con las políticas y normas institucionales y con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-XIV. Proporcionar la información que le sea requerida, de acuerdo con las políticas y normas institucionales y con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+XIV. Asistir como invitado a las sesiones de la Junta de Gobierno, con voz y sin voto; acordar los asuntos de la Contraloría Interna con el Vicepresidente a que hace referencia el artículo 81 de la Ley;
 
-XV. Asistir como invitado a las sesiones de la Junta de Gobierno, con voz y sin voto; acordar los asuntos de la Contraloría Interna con el Vicepresidente a que hace referencia el artículo 81 de la Ley;
+XV. Aportar elementos a la Junta de Gobierno para nombrar al Auditor Externo a que se refiere la fracción II del artículo 91 de la Ley;
 
-XVI. Aportar elementos a la Junta de Gobierno para nombrar al Auditor Externo a que se refiere la fracción II del artículo 91 de la Ley;
-
-XVII. Coordinar, con la participación de la Dirección General de Administración, los trabajos a desarrollar por el auditor externo, y
+XVI. Coordinar, con la participación de la Dirección General de Administración, los trabajos a desarrollar por el auditor externo, y
 
 > <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
-XVIII. Representar al Instituto ante las Unidades del Estado, el medio académico, las organizaciones empresariales, los organismos no gubernamentales, organizaciones de otros países y organismos internacionales en el ámbito de su competencia;
+XVII. Representar al Instituto ante las Unidades del Estado, el medio académico, las organizaciones empresariales, los organismos no gubernamentales, organizaciones de otros países y organismos internacionales en el ámbito de su competencia;
 
 > <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
-XVIII (SIC). Suscribir los documentos relativos al ejercicio de las facultades que le correspondan a la Unidad Administrativa a su cargo, las que le hayan sido delegadas o le correspondan por suplencia;
+XVIII. Suscribir los documentos relativos al ejercicio de las facultades que le correspondan a la Unidad Administrativa a su cargo, las que le hayan sido delegadas o le correspondan por suplencia;
 
 > <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -3213,7 +3215,7 @@ III. Recibir las quejas y denuncias en contra de los servidores públicos del In
 
 > <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
-III Bis. Investigar la posible comisión de las infracciones a que se refiere el artículo 8 de la Ley Federal Anticorrupción en las Contrataciones Públicas, así como determinar las responsabilidades que deriven de las mismas y aplicar las sanciones correspondientes;
+III BIS. Investigar la posible comisión de las infracciones a que se refiere el artículo 8 de la Ley Federal Anticorrupción en las Contrataciones Públicas, así como determinar las responsabilidades que deriven de las mismas y aplicar las sanciones correspondientes;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -3237,15 +3239,23 @@ VIII. Citar al presunto responsable a la audiencia a que hace referencia el art�
 
 > <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
-VIII Bis. Citar al presunto responsable al procedimiento a que se refiere el Capítulo Cuarto e imponer las sanciones que correspondan conforme a los Capítulos Quinto y Sexto, todos de la Ley Federal Anticorrupción en las Contrataciones Públicas.
+VIII BIS. Citar al presunto responsable al procedimiento a que se refiere el Capítulo Cuarto e imponer las sanciones que correspondan conforme a los Capítulos Quinto y Sexto, todos de la Ley Federal Anticorrupción en las Contrataciones Públicas.
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 IX. Determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, en términos de lo dispuesto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)
 
 X. Fincar las responsabilidades por infracciones imputables a los servidores públicos del Instituto e imponer las sanciones a que haya lugar, con fundamento en lo establecido por los artículos 104, 105, 108, 109, 110 y 112 de la Ley, conforme a las disposiciones administrativas aplicables.
+
+> <small>(F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)</small>
+
+Fincar las responsabilidades por infracciones imputables a los servidores públicos del Instituto e imponer las sanciones a que haya lugar, con fundamento en lo establecido por los artículos 8 y 13 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+> <small>(F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)</small>
+
+Realizar las acciones que procedan conforme a la ley de la materia, a fin de garantizar el cobro de las sanciones económicas a que hace referencia esta fracción;
 
 > <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -3279,9 +3289,9 @@ XVII. Llevar los registros de los asuntos de su competencia y expedir las copias
 
 XVIII. Las demás que le confiera el Contralor Interno, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia.
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)
 
-XX (SIC). Para la atención, instrucción y substanciación de todos los asuntos y procedimientos a su cargo, el Titular de Quejas y Responsabilidades, se auxiliará del personal adscrito al área, para realizar las actividades de investigación, citación, celebración de audiencia de ley, admisión y desahogo de pruebas y demás diligencias pertinentes.
+XIX. Para la atención, instrucción y substanciación de todos los asuntos y procedimientos a su cargo, el Titular de Quejas y Responsabilidades, se auxiliará del personal adscrito al área, para realizar las actividades de investigación, citación, celebración de audiencia de ley, admisión y desahogo de pruebas y demás diligencias pertinentes.
 
 ###### ARTICULO 51.
 
