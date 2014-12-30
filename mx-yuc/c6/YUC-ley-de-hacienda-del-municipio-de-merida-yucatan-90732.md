@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-yucatan-90732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2013-12-23"
+last_updated: "2014-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA DEL ESTADO DE YUCATÁN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 132, PUBLICADO EN EL D.O. DE 23 DE DICIEMBRE DE 2013, VÉASE ARTÍCULO PRIMERO TRANSITORIO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -55,11 +53,11 @@ LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA
 
 #### Sección Primera. De los Ingresos Municipales
 
-De los Ingresos Municipales
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 1.
 
-El Ayuntamiento del Municipio de Mérida, Estado de Yucatán, para cubrir los gastos de su administración y demás obligaciones a su cargo, percibirá, por conducto de su Hacienda Pública, los ingresos que por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones, aportaciones e ingresos extraordinarios se establecen en esta Ley y la Ley de Ingresos del Municipio de Mérida.
+El Ayuntamiento del Municipio de Mérida, Yucatán, para cubrir los gastos de su administración y demás obligaciones a su cargo, percibirá, por conducto de su Hacienda Pública, los ingresos que por concepto de impuestos, contribuciones de mejoras, derechos, productos, aprovechamientos, participaciones y aportaciones, transferencias, asignaciones, subsidios y otras ayudas e ingresos derivados de financiamientos que se establecen en esta Ley y en la Ley de Ingresos del Municipio de Mérida.
 
 #### Sección Segunda. De las disposiciones fiscales
 
@@ -163,7 +161,7 @@ El Subdirector de Ingresos tendrá facultades para suscribir:
 
 a).- Las licencias de funcionamiento municipales, cuya expedición apruebe la autoridad competente;
 
-b).- Los certificados de no adeudar contribuciones municipales, y (sic)
+b).- Los certificados de no adeudar contribuciones municipales, y
 
 c).- Los acuerdos de notificación y mandamientos de ejecución, de las multas federales no fiscales y de las multas impuestas por las autoridades municipales y requerimientos de pago.
 
@@ -241,39 +239,45 @@ Son participaciones: las cantidades que el Municipio tiene derecho a percibir de
 
 Las aportaciones: Son los recursos que la federación transfiere a las haciendas públicas de los estados y en su caso, al municipio, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de recurso establece la Ley de Coordinación Fiscal.
 
-#### Sección Sexta. Ingresos Extraordinarios
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
+#### Sección Sexta. Transferencias, Asignaciones, Subsidios y Otras Ayudas
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
+#### Sección Séptima. Ingresos derivados de Financiamiento
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 20 A.- Son los ingresos obtenidos por la celebración de empréstitos internos autorizados o ratificados por el Congreso del Estado y por el Cabildo, así como los financiamientos derivados de rescate y/o aplicación de Activos Financieros.
 
 #### Sección Primera. De la causación y determinación
 
-#### Sección Segunda. De los obligados solidarios
-
 ###### ARTÍCULO 20.
 
-Son ingresos extraordinarios: Los recursos que puede percibir la Hacienda Pública Municipal, distintos de los anteriores, por los conceptos siguientes:
+Son los recursos destinados en forma directa o indirecta a la Hacienda Pública Municipal y apoyos como parte de su política económica y social de acuerdo a las estrategias y prioridades de desarrollo para el sostenimiento de desempeño de sus actividades, por los siguientes conceptos:
 
-I. Los empréstitos que se obtengan, cumpliendo con las disposiciones de Ley;
+I. Donativos
 
-II. Los recibidos del Estado y la Federación por conceptos diferentes a Participaciones, Aportaciones, y a aquellos derivados de convenios de colaboración administrativa catalogados como aprovechamientos;
+II. Cesiones
 
-III. Donativos;
+III. Herencias
 
-IV. Cesiones;
+IV. Legados
 
-V. Herencias;
+V. Por adjudicaciones judiciales
 
-VI. Legados;
+VI. Por adjudicaciones administrativas
 
-VII. Por Adjudicaciones Judiciales;
+VII. Por subsidios
 
-VIII. Por Adjudicaciones Administrativas;
+VIII. Otros ingresos no especificados
 
-IX. Por Subsidios de Organismos Públicos y Privados; y
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
-X. Otros ingresos no especificados, entre ellos la recuperación de créditos otorgados o pagos realizados en ejercicios anteriores.
+#### Sección Segunda. De los obligados solidarios
 
 #### Sección Tercera. De la época de pago
-
-#### Sección Cuarta. Del pago a plazos
 
 ### CAPÍTULO III. DE LOS CREDITOS FISCALES
 
@@ -281,7 +285,7 @@ X. Otros ingresos no especificados, entre ellos la recuperación de créditos ot
 
 Son créditos fiscales aquéllos que tenga derecho de percibir el Ayuntamiento y sus organismos descentralizados, que provengan de contribuciones, de aprovechamientos y de sus accesorios, incluyendo los que deriven de responsabilidades que el Ayuntamiento tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que la Ley otorgue ese carácter y el Municipio tenga derecho a percibir, por cuenta ajena.
 
-#### Sección Quinta. De los pagos en general
+#### Sección Cuarta. Del pago a plazos
 
 ###### ARTÍCULO 22.
 
@@ -297,7 +301,7 @@ Los contribuyentes, proporcionarán a las mencionadas autoridades, la informaci�
 
 No serán exigibles los impuestos y derechos a que se refiere la presente Ley cuando hayan sido derogados o suspendidos para cumplir con los requisitos establecidos en las leyes federales y los convenios suscritos entre la Federación y el Estado o Municipio, a partir de la fecha de su celebración.
 
-#### Sección Sexta. Del pago ajustado a pesos
+#### Sección Quinta. De los pagos en general
 
 ###### ARTÍCULO 24.
 
@@ -311,7 +315,7 @@ III.- Los retenedores de impuestos y otras contribuciones.
 
 IV.- Los funcionarios, fedatarios y las demás personas que señala la presente Ley y que en el ejercicio de sus funciones, no cumplan con las obligaciones que las leyes y disposiciones fiscales les imponen, de exigir, a quienes están obligados a hacerlo, que acrediten que están al corriente en el pago de sus contribuciones o créditos fiscales al Municipio.
 
-#### Sección Séptima. De los formularios
+#### Sección Sexta. Del pago ajustado a pesos
 
 ###### ARTÍCULO 25.
 
@@ -321,7 +325,7 @@ En los términos establecidos en el párrafo anterior, para el pago de los créd
 
 La existencia de personal de guardia no habilita los días en que se suspendan las labores. Si al término del vencimiento fuere día inhábil, el plazo se prorrogará al siguiente día hábil.
 
-#### Sección Octava. De las obligaciones en general
+#### Sección Séptima. De los formularios
 
 ###### ARTÍCULO 26.
 
@@ -343,7 +347,7 @@ Los pagos efectuados durante la vigencia de la autorización se deberán aplicar
 
 La falta de pago oportuno de alguna parcialidad ocasionará la revocación de la autorización de pago a plazos en parcialidades, a lo cual la autoridad exigirá el pago del adeudo total. El saldo de la contribución o aprovechamiento a que se refiere el inciso a) anterior que no haya sido cubierto en el pago a plazos se actualizará y causará recargos de conformidad con lo establecido en los artículos 32, 33 y 34 de esta Ley, desde la fecha en que se haya efectuado el último pago en parcialidades conforme a la autorización respectiva y hasta la fecha en que se realice el pago. A fin de determinar el adeudo total deberán considerarse los importes no cubiertos de la contribución o aprovechamiento, su actualización y accesorios, por los cuales se autorizó el pago en parcialidades adicionados con la actualización y accesorios que se generen a partir del incumplimiento del pago en parcialidades.
 
-#### Sección Novena. De las Licencias de Funcionamiento
+#### Sección Octava. De las obligaciones en general
 
 ###### ARTÍCULO 27.
 
@@ -365,19 +369,19 @@ III.- Multas.
 
 IV.- La indemnización a que se refiere el artículo 35 de esta ley.
 
-#### Sección Décima. De la actualización
+#### Sección Novena. De las Licencias de Funcionamiento
 
 ###### ARTÍCULO 28.
 
 Para determinar las contribuciones, los productos y los aprovechamientos, se considerarán inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que los que contengan cantidades que incluyan de 1 hasta 49 centavos se ajusten a la unidad inmediata anterior y los que contengan cantidades de 50 a 99 centavos, se ajusten a la unidad inmediata superior.
 
-#### Sección Décima Primera. De los Recargos
+#### Sección Décima. De la actualización
 
 ###### ARTÍCULO 29.
 
 Los avisos, declaraciones, solicitudes, memoriales o manifestaciones, que presenten los contribuyentes para el pago de alguna contribución o producto, se harán en los formularios que apruebe la Dirección de Finanzas y Tesorería Municipal en cada caso, debiendo consignarse los datos, y acompañar los documentos que se requieran.
 
-#### Sección Décima Segunda. De la causación de los Recargos
+#### Sección Décima Primera. De los Recargos
 
 ###### ARTÍCULO 30.
 
@@ -403,7 +407,7 @@ VII.- Proporcionar con veracidad los datos que requiera la Dirección de Finanza
 
 VIII.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y términos que señala la presente Ley.
 
-#### Sección Décima Tercera. Del cheque presentado en tiempo y no pagado
+#### Sección Décima Segunda. De la causación de los Recargos
 
 ###### ARTÍCULO 31.
 
@@ -463,7 +467,7 @@ Para el cambio de titular de la licencia de funcionamiento, se deberá acreditar
 
 Para el cambio de denominación, suspensión de actividades, y baja definitiva, deberá acreditarse con documentación fehaciente la titularidad o representación legal de la licencia de funcionamiento correspondiente.
 
-#### Sección Décima Cuarta. De los recargos en pagos espontáneos
+#### Sección Décima Tercera. Del cheque presentado en tiempo y no pagado
 
 ###### ARTÍCULO 32.
 
@@ -473,9 +477,7 @@ Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes 
 
 Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco municipal, será 1.
 
-#### Sección Décima Quinta. Del pago en exceso
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+#### Sección Décima Cuarta. De los recargos en pagos espontáneos
 
 ###### ARTÍCULO 33.
 
@@ -483,7 +485,9 @@ Los recargos se calcularán y aplicarán en la forma y términos establecidos en
 
 No causarán recargos las multas no fiscales.
 
-#### Sección Décima Sexta. Del remate en pública subasta
+#### Sección Décima Quinta. Del pago en exceso
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 34.
 
@@ -493,7 +497,7 @@ Los recargos se causarán por cada mes o fracción que transcurra desde el día 
 
 Cuando el pago de las contribuciones o de los créditos fiscales, hubiese sido menor al que corresponda, los recargos se causarán sobre la diferencia.
 
-#### Sección Décima Séptima. Del cobro de las multas
+#### Sección Décima Sexta. Del remate en pública subasta
 
 ###### ARTÍCULO 35.
 
@@ -501,19 +505,17 @@ El cheque recibido por el Municipio de Mérida, en pago de alguna contribución,
 
 Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de siete días efectúe el pago de su importe junto con la mencionada indemnización. Transcurrido el plazo señalado sin que se obtenga el pago, la autoridad fiscal municipal requerirá y cobrará el monto del cheque, la indemnización y, en su caso, los recargos mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal, que en su caso, proceda.
 
-#### Sección Décima Octava. Del salario mínimo
+#### Sección Décima Séptima. Del cobro de las multas
 
 ###### ARTÍCULO 36.
 
 Cuando el contribuyente pague en una sola exhibición, el total de las contribuciones o de los créditos fiscales omitidos debidamente actualizados, en forma espontánea, sin mediar notificación alguna por parte de las autoridades fiscales, los recargos no podrán exceder de un tanto igual, al importe de la contribución omitida actualizada.
 
-#### Sección Primera. Impuesto Predial
-
-De los sujetos
+#### Sección Décima Octava. Del salario mínimo
 
 ###### ARTÍCULO 37.
 
-Las autoridades fiscales municipales están obligadas a devolver las cantidades pagadas indebidamente. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo, o efectivo si no excede de $2,000.00 y conforme a las disposiciones siguientes:
+Las autoridades fiscales municipales están obligadas a devolver las cantidades pagadas indebidamente. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo y conforme a las disposiciones siguientes:
 
 I.- Si el pago de lo indebido se hubiese efectuado en el cumplimiento de un acto de autoridad, el derecho a la devolución nace, cuando dicho acto hubiere quedado insubsistente.
 
@@ -529,7 +531,7 @@ En ningún caso los intereses a cargo del fisco municipal excederán de los caus
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
 
-#### Sección Segunda. Del Impuesto sobre Adquisición de Inmuebles
+#### Sección Primera. Impuesto Predial
 
 De los sujetos
 
@@ -543,7 +545,7 @@ Para el caso de que el valor de adjudicación no alcanzare a cubrir el adeudo de
 
 En todo caso se aplicarán a los remates las reglas que para tal efecto fije el Código Fiscal del Estado y en su defecto las del Código Fiscal de la Federación y su reglamento.
 
-#### Sección Tercera. Impuesto sobre Espectáculos y Diversiones Públicas
+#### Sección Segunda. Del Impuesto sobre Adquisición de Inmuebles
 
 De los sujetos
 
@@ -551,7 +553,9 @@ De los sujetos
 
 Las multas por infracciones a las disposiciones municipales sean éstas de carácter administrativo o fiscal, serán cobradas mediante el procedimiento administrativo de ejecución.
 
-#### Sección Primera. Disposiciones comunes
+#### Sección Tercera. Impuesto sobre Espectáculos y Diversiones Públicas
+
+De los sujetos
 
 ###### ARTÍCULO 40.
 
@@ -561,9 +565,7 @@ Cuando en la presente Ley se haga mención de las palabras "salario" o "salario 
 
 ### CAPÍTULO I. IMPUESTOS
 
-#### Sección Segunda. De los servicios que presta la Dirección de Desarrollo Urbano
-
-De los sujetos
+#### Sección Primera. Disposiciones comunes
 
 ###### ARTÍCULO 41.
 
@@ -633,7 +635,7 @@ I.- Los valores unitarios para el terreno correspondiente a las secciones catast
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 27 A LA 55.</small>
 
-> <small>N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83.</small>
 
 CALLES Y AVENIDAS
 
@@ -641,13 +643,13 @@ II.- Los valores unitarios para los terrenos ubicados en las calles y avenidas p
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 56 A LA 61.</small>
 
-> <small>N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90.</small>
 
 III.- Los valores unitarios para los terrenos ubicados en el periférico y las calles laterales adyacentes que provean acceso al mismo, así como en las principales vialidades ubicadas fuera del periférico, se especifican en la siguiente tabla:
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 61 A LA 62.</small>
 
-> <small>N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 90 A LA 91.</small>
 
 La aplicación de los valores unitarios contenidos en esta fracción será a la superficie que resulte de multiplicar el frente del terreno, que se encuentre sobre el periférico y las calles laterales adyacentes que provean acceso al mismo, así como en las principales vialidades ubicadas fuera del periférico, hasta por los cien primeros metros de fondo; la superficie restante será valorada con el valor unitario de la sección catastral que corresponda al terreno.
 
@@ -657,13 +659,13 @@ IV.- Los valores unitarios para los locales correspondientes a las plazas comerc
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINA 62.</small>
 
-> <small>N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91.</small>
 
 V.- Los valores unitarios para los diferentes tipos de construcción y factores por zona, que se expresan en la siguiente tabla:
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 63 A LA 64.</small>
 
-> <small>N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 91 A LA 94.</small>
 
 > <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
@@ -727,7 +729,9 @@ G) DE SUPERFICIE
 
 Si el predio es mayor de 5,000 m² el excedente de terreno por sobre esa cantidad podrá ser afectado de acuerdo a la siguiente tabla de factores
 
-Superficie excedente sobre 5,000 m² (m²) Factor
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
+Superficie excedente sobre 5,000 M2 Factor
 
 5,000 o menos 0.90
 
@@ -837,7 +841,9 @@ La Dirección de Finanzas y Tesorería Municipal, expedirá los certificados de 
 
 Los fedatarios públicos o aquellas personas que por disposición legal tengan funciones notariales, cuando actúen en nombre del propietario del predio o por ministerio de ley, podrán realizar la solicitud a que se refiere el párrafo anterior, e incluso obtener la expedición de ese certificado mediante el uso de las aplicaciones en Internet que para tal efecto habilite la Dirección de Finanzas y Tesorería Municipal.
 
-#### Sección Tercera. Otros servicios prestados por el Ayuntamiento
+#### Sección Segunda. De los servicios que presta la Dirección de Desarrollo Urbano
+
+De los sujetos
 
 ###### ARTÍCULO 54.
 
@@ -1049,11 +1055,15 @@ b).- Se eleve a escritura pública.
 
 c).- Se inscriba en el Registro Público.
 
-Los fedatarios públicos o aquellas personas que por disposición legal tengan funciones notariales, cuando actúen en nombre del adquirente del predio o por ministerio de ley, podrán realizar el pago de este impuesto mediante cheque sin certificar para abono en cuenta del "Municipio de Mérida, Yucatán", o bien mediante el uso de las aplicaciones en Internet que para tal efecto habilite la Dirección de Finanzas y Tesorería Municipal, obteniendo por esa misma vía el comprobante de pago correspondiente.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
+Los fedatarios públicos o aquellas personas que por disposición legal tengan funciones notariales, cuando actúen en nombre del adquirente del predio o por ministerio de ley, podrán realizar el pago de este impuesto mediante cheque sin certificar para abono en cuenta del “Municipio de Mérida Yucatán”, de su chequera o de la persona moral a través de la cual presten sus servicios profesionales, siempre y cuando los cheques sean firmados por el propio fedatario como representante legal de la misma; o bien mediante el uso de las aplicaciones en Internet que para tal efecto habilite la Dirección de Finanzas y Tesorería Municipal, obteniendo por esa misma vía el comprobante de pago correspondiente. Respecto del pago a través de cheque y para efectos de registro, el Fedatario Público deberá notificar previamente, por escrito, a la Dirección de Finanzas y Tesorería Municipal, la denominación de la persona moral de cuya chequera se emitirán los cheques correspondientes.
 
 El Fedatario Público cuyo cheque sin certificar sea rechazado por la Institución Bancaria ante la que se presente para su pago por fondos insuficientes, dejará de tener ese beneficio y los pagos posteriores que realice con cheque, deberán apegarse a lo que dispone el párrafo segundo del artículo 27, sin perjuicio de la indemnización prevista en el artículo 35, ambos de esta Ley.
 
-Cuando dichas personas realicen el pago mediante el uso de aplicaciones en Internet, deberán entregar en las Oficinas de la Dirección de Finanzas y Tesorería Municipal, la documentación relativa a cada una de las operaciones realizadas por esa contribución durante un mes de calendario, dentro de los primeros quince días hábiles del mes siguiente; consistente en el manifiesto señalado en el artículo 61 de esta ley, así como el documento que exige el antepenúltimo párrafo del propio artículo y el recibo de pago.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
+Cuando dichas personas realicen el pago mediante el uso de aplicaciones en Internet, deberán poner a disposición de la Dirección de Finanzas y Tesorería Municipal, previo requerimiento de esta autoridad, la documentación relativa a cada una de las operaciones realizadas para esa contribución; consiente (sic) en el manifiesto señalado en el artículo 61 de esta Ley, así como el documento que exige el antepenúltimo párrafo del propio artículo y el recibo de pago.
 
 De la sanción
 
@@ -1061,9 +1071,7 @@ De la sanción
 
 Cuando el Impuesto Sobre Adquisición de Inmuebles no cubierto dentro del plazo señalado en el artículo inmediato anterior, los contribuyentes o los obligados solidarios, en su caso, se harán acreedores a una sanción equivalente al importe de los recargos que se determinen conforme al artículo 33 de esta Ley. Lo anterior, sin perjuicio de la aplicación del recargo establecido para las contribuciones fiscales pagadas en forma extemporánea.
 
-#### Sección Cuarta. Derechos por Matanza de Ganado
-
-De los sujetos
+#### Sección Tercera. Otros servicios prestados por el Ayuntamiento
 
 ###### ARTÍCULO 65.
 
@@ -1123,7 +1131,9 @@ En este caso, el sujeto obligado causará y pagará, junto con la determinación
 
 ### CAPÍTULO II. DERECHOS
 
-#### Sección Quinta. De los Certificados y Constancias
+#### Sección Cuarta. Derechos por Matanza de Ganado
+
+De los sujetos
 
 ###### ARTÍCULO 71.
 
@@ -1137,7 +1147,7 @@ Los derechos que establece esta Ley se pagarán por los servicios que preste el 
 
 Cuando de conformidad con la Ley de Gobierno de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta o bien por un organismo descentralizado o paramunicipal, se seguirán cobrando los derechos en los términos establecidos por esta Ley.
 
-#### Sección Sexta. De los derechos por los servicios que presta la Dirección del Catastro del Municipio
+#### Sección Quinta. De los Certificados y Constancias
 
 ###### ARTÍCULO 73.
 
@@ -1191,9 +1201,9 @@ XII.- Por Factibilidad de instalación de anuncio.
 
 XIII.- Revisión previa de proyecto.
 
-> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
-XIV.- Oficio de factibilidad para suministro de energía eléctrica.
+XIV.- Expedición del oficio de Anuencia de Electrificación.
 
 XV.- Emisión de copias simples y/o copias certificadas de cualquier documentación contenida en los expedientes de la Dirección de Desarrollo Urbano.
 
@@ -1207,9 +1217,9 @@ XVII.- Autorización de la Constitución de Desarrollo Inmobiliario.
 
 XVIII.- Autorización de la Modificación de Desarrollo Inmobiliario.
 
-> <small>(ADICIONADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
-XIX.- Por la expedición del oficio de información del tipo de zona en la que se ubican los bienes inmuebles, de conformidad con lo establecido en el Programa de Desarrollo Urbano del Municipio de Mérida.
+XIX.- Expedición de oficio de zona de Reserva de Crecimiento.
 
 De la Base y de las Cuotas
 
@@ -1713,49 +1723,51 @@ XIV.- Revisión previa de proyectos
 
 de lotificación de fraccionamientos:
 
-a) Por la segunda revisión 3 Constancia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
+a) Por la segunda revisión 3 Revisión
 
 b) A partir de la tercera revisión:
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
 1.- De fraccionamientos de hasta
 
-1 Hectárea. 5 Constancia
+1 Hectárea. 5 Revisión
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
 2.- De fraccionamientos de más
 
-de 1 hasta 5 Hectáreas. 10 Constancia
+de 1 hasta 5 Hectáreas. 10 Revisión
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
 3.- De fraccionamiento de más
 
-de 5 hasta 20 Hectáreas. 15 Constancia
+de 5 hasta 20 Hectáreas. 15 Revisión
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
 4.- De fraccionamientos de más
 
-de 20 Hectáreas. 20 Constancia
+de 20 Hectáreas. 20 Revisión
 
-XV.- Por la expedición del oficio
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
-de factibilidad para el suministro
+XV.- Por la expedición del
 
-del servicio de energía eléctrica que
+oficio de anuencia de electrificación
 
-proporciona la Comisión Federal
+por cada inmueble solicitado. 2 Oficio
 
-de Electricidad. 2 Oficio
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+XVI.- Por la expedición del
 
-XVI.- Por la expedición del oficio de
+oficio de zona de Reserva de
 
-información del tipo de zona en la
-
-que se ubican los bienes inmuebles,
-
-de conformidad con lo establecido
-
-en el Programa de Desarrollo
-
-Urbano del Municipio de Mérida 2 Oficio
+Crecimiento por cada inmueble solicitado. 2 Oficio
 
 XVII.- Emisión de copias simples y/o
 
@@ -1927,9 +1939,7 @@ En las oficinas recaudadoras se instalarán cartelones en lugares visibles, info
 
 Lo dispuesto en este artículo, no libera a los responsables de las obras o de los actos relacionados, de la obligación de solicitar los permisos o autorizaciones correspondientes.
 
-#### Sección Séptima. De los Derechos por el Uso y Aprovechamiento de los Bienes de Dominio Público del Patrimonio Municipal
-
-De los sujetos
+#### Sección Sexta. De los derechos por los servicios que presta la Dirección del Catastro del Municipio
 
 ###### ARTÍCULO 79.
 
@@ -2007,9 +2017,9 @@ d) Media plana 5.50
 
 e) Un cuarto de plana 3.00
 
-#### Sección Octava
+#### Sección Séptima. De los Derechos por el Uso y Aprovechamiento de los Bienes de Dominio Público del Patrimonio Municipal
 
-Derechos por el Servicio Público de Panteones.
+De los sujetos
 
 ###### ARTÍCULO 82.
 
@@ -2071,7 +2081,9 @@ En el caso de que las personas que realicen la introducción de carne en los té
 
 No se aplicará la sanción prevista en el párrafo que inmediatamente antecede, siempre y cuando, quien introduzca carnes frescas o refrigeradas a este Municipio, permita que personal de "Abastos de Mérida" realice la inspección en lugar distinto de las instalaciones de dicho organismo descentralizado y pague por ese servicio un derecho de 0.0142 de salario mínimo por kilogramo.
 
-#### Sección Novena. Derechos por servicio de Alumbrado Público
+#### Sección Octava
+
+Derechos por el Servicio Público de Panteones.
 
 ###### ARTÍCULO 87.
 
@@ -2135,7 +2147,7 @@ del Título Segundo de esta Ley 1.0
 
 El Director de Finanzas y Tesorero Municipal, podrá disminuir las cuotas señaladas en las fracciones II y IV del artículo 87 de esta sección, tratándose de personas de escasos recursos, previo estudio socioeconómico que para tal efecto realice la Secretaría Municipal.
 
-#### Sección Décima. Derechos por Licencias de funcionamiento y Permisos
+#### Sección Novena. Derechos por servicio de Alumbrado Público
 
 ###### ARTÍCULO 89.
 
@@ -2425,9 +2437,7 @@ VI.- Asignación de nomenclatura en planos de fraccionamientos y divisiones de p
 
 VII.- Por revisión y validación en línea (vía internet) de planos en 0.32 formato catastral, elaborados y presentados por un dibujante salarios empadronado, se cobrará por cada plano.
 
-#### Sección Décima Primera. Derechos por los servicios que presta la Subdirección de Ecología
-
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+#### Sección Décima. Derechos por Licencias de funcionamiento y Permisos
 
 ###### ARTÍCULO 96.
 
@@ -2501,7 +2511,9 @@ Por el permiso para realizar el comercio ambulante, se pagará un derecho de 0.1
 
 El pago de los derechos establecidos en la presente sección será posterior a la obtención de la autorización que otorgue la autoridad o dependencia municipal que corresponda.
 
-#### Sección Décima Segunda. Derechos por los Servicios de Vigilancia y los Relativos a Vialidad
+#### Sección Décima Primera. Derechos por los servicios que presta la Subdirección de Ecología
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 101.
 
@@ -2683,9 +2695,37 @@ e) Cremación y disposición de cenizas:
 
 (entrega en urna) 35.3 salarios
 
-II.- Por el uso de la sala
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
-de embalsamamiento 3 salarios
+f) Por el uso de la sala de
+
+embalsamamiento 3 salarios
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
+g) Por traslado de un cadáver:
+
+1) Del Municipio de Mérida a otro Municipio del Estado de Yucatán, se pagarán 3.6 salarios más 0.1 salarios por kilómetro recorrido.
+
+2) Del Municipio de Mérida a otro Estado de la República Mexicana, se pagarán 3.6 salarios más 0.2 salarios por kilómetro recorrido.
+
+Para el cómputo del número de kilómetros recorridos señalados en esta fracción, se considerará como kilómetros recorridos, las distancias establecidas por la Secretaría de Comunicaciones y Transportes, entre el punto de origen hasta el punto de destino del traslado.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
+h) Por el servicio de Cremación prestado a empresas funerarias:
+
+1. Adulto: 54.6 salarios
+
+2. Niño: 28.5 salarios
+
+3. Restos áridos: 21.4 salarios
+
+4. Por Órganos Humanos, hasta 2 órganos: 25.0 salarios
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
+II.- Cuando el servicio de cremación sea prestado por un particular, este deberá informar al Departamento de Panteones de la Dirección de Servicios Públicos Municipales del Ayuntamiento de Mérida, previamente a la prestación de dicho servicio, y cubrir el 0.20 de las tarifas señaladas en el inciso h.
 
 III.- Por traslado fuera de la ciudad de Mérida, se pagarán 3.6 salarios más 0.1 salarios por kilómetro recorrido.
 
@@ -2707,15 +2747,15 @@ hasta 2 órganos 25.0 salarios
 
 Cuando el servicio de cremación sea prestado por un particular, este deberá informar al Departamento de Panteones de la Dirección de Servicios Públicos Municipales del Ayuntamiento de Mérida, previamente a la prestación de dicho servicio, y cubrir el 0.20 de las tarifas señaladas en esta fracción.
 
-De la reducción de las cuotas
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 103.
 
-El Director de Finanzas y Tesorero Municipal, podrá disminuir a petición expresa del Director de Servicios Públicos Municipales o del Director de Desarrollo Social, las cuotas señaladas en las fracciones I y II del artículo 102 de esta sección, en el caso de personas de escasos recursos.
+En el caso de personas de escasos recursos el Director de Finanzas y Tesorero Municipal, podrá disminuir a petición expresa del Director de Servicios Públicos Municipales o del Director de Desarrollo Social, las cuotas señaladas en el artículo 102 de la fracción I incisos a), b), c), d), e) y f) de esta sección.
 
-El Director de Servicios Públicos Municipales o el Director de Desarrollo Social a fin de solicitar la disminución que se señala en el párrafo anterior, deberá tomar en consideración el estudio socioeconómico y los lineamientos que para tal efecto realice y establezca, respectivamente, el Departamento de Panteones de la Subdirección de Servicios Públicos Municipales del Ayuntamiento de Mérida.
+El Director de Servicios Públicos Municipales o el Director de Desarrollo Social a fin de solicitar la disminución que se señala en el párrafo anterior, deberá tomar en consideración el estudio socioeconómico y los lineamientos que para tal efecto realice y establezca, respectivamente, el Departamento de Panteones de la Dirección de Servicios Públicos Municipales del Ayuntamiento de Mérida.
 
-#### Sección Décima Tercera. Derechos por los Servicios de Corralón y Grúa
+#### Sección Décima Segunda. Derechos por los Servicios de Vigilancia y los Relativos a Vialidad
 
 ###### ARTÍCULO 104.
 
@@ -2743,7 +2783,7 @@ Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios
 
 Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
-#### Sección Décima Cuarta. Derechos por el uso de Estacionamientos y Baños Públicos, propiedad del Municipio
+#### Sección Décima Tercera. Derechos por los Servicios de Corralón y Grúa
 
 ###### ARTÍCULO 110.
 
@@ -2849,7 +2889,7 @@ El derecho correspondiente a la revalidación de la licencia de funcionamiento, 
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-#### Sección Décima Quinta. Derechos por Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura
+#### Sección Décima Cuarta. Derechos por el uso de Estacionamientos y Baños Públicos, propiedad del Municipio
 
 ###### ARTÍCULO 114.
 
@@ -2887,9 +2927,7 @@ razón fueron capturados o decomisados y
 
 resguardados en el C.E.M.C.A., por día 0.85
 
-#### Sección Décima Sexta
-
-Derechos por Permisos otorgados a Oferentes en Programas para la Promoción Económica Turística y Cultural.
+#### Sección Décima Quinta. Derechos por Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura
 
 ###### ARTÍCULO 115.
 
@@ -2933,7 +2971,9 @@ A solicitud expresa del Director de Policía Municipal, en consideración a la a
 
 El pago de los derechos se hará por anticipado en el momento de la solicitud del servicio, ante las oficinas de la Tesorería Municipal o lugar autorizado para ello. En el caso de que la autoridad determine de oficio la prestación del servicio, y el pago de éste no pudiera ser realizado con anterioridad, el sujeto obligado deberá realizar el pago dentro del plazo que establezca dicha autoridad.
 
-#### Sección Décima Séptima. De los Derechos por el Servicio de Agua Potable y Drenaje
+#### Sección Décima Sexta
+
+Derechos por Permisos otorgados a Oferentes en Programas para la Promoción Económica Turística y Cultural.
 
 ###### ARTÍCULO 119.
 
@@ -2999,9 +3039,7 @@ accidentados: 18.76 salarios
 
 El pago de los derechos a que se refiere esta Sección se hará una vez proporcionado el servicio, de acuerdo a las cuotas establecidas en la ley y en los lugares autorizados por la Tesorería Municipal.
 
-#### Sección Décima Octava. Derechos por los Servicios de la Central de Abasto
-
-De los sujetos
+#### Sección Décima Séptima. De los Derechos por el Servicio de Agua Potable y Drenaje
 
 ###### ARTÍCULO 123.
 
@@ -3023,7 +3061,9 @@ Por la primera hora de uso de estacionamiento o fracción de esta se cobrarán l
 
 Los derechos por el uso de baños públicos no concesionados en los mercados públicos propiedad del Municipio, se pagarán con la tarifa única de $3.00 pesos, y por el uso de regaderas se pagará una tarifa única de $7.00.
 
-#### Sección Décima Novena. De los Derechos por los Servicios de Limpia de Bienes Inmuebles en Desuso
+#### Sección Décima Octava. Derechos por los Servicios de la Central de Abasto
+
+De los sujetos
 
 ###### ARTÍCULO 125.
 
@@ -3079,9 +3119,7 @@ b) Los usuarios de los servicios de recolección y traslado de residuos sólidos
 
 Para los efectos del inciso b) de este artículo, se considerará como tarifa de consumo ordinario el importe total que resulte de aplicar la tarifa señalada en el último párrafo del artículo 126 por el número de tambores de residuos sólidos de origen comercial generados por el usuario en el mes inmediato anterior a aquél en que se realice el pago señalado en ese inciso. Si durante cualquiera de los meses de servicio de recolección que se haya pagado por anticipado el usuario del servicio de recolección excediera en un 20 por ciento el número de tambores considerados para la determinación de la tarifa de consumo ordinario, éste deberá pagar la cuota correspondiente al número de tambores que excedieron al número de tambores considerados para la determinación de la tarifa de consumo ordinario.
 
-#### Sección Única. Contribuciones por Mejoras
-
-De los sujetos
+#### Sección Décima Novena. De los Derechos por los Servicios de Limpia de Bienes Inmuebles en Desuso
 
 ###### ARTÍCULO 128.
 
@@ -3103,9 +3141,9 @@ Por la emisión de la credencial de oferente en programas o eventos para la prom
 
 El Director de Finanzas y Tesorero Municipal, a solicitud expresa del Director de Desarrollo Económico, podrá reducir las cuotas establecidas en esta sección, tomando en consideración la finalidad de la realización del evento o programa.
 
-#### Sección Única. Generalidades
+#### Sección Única. Contribuciones por Mejoras
 
-De la clasificación
+De los sujetos
 
 ###### ARTÍCULO 132.
 
@@ -3203,9 +3241,9 @@ Los derechos a que se refiere la presente sección deberán cubrirse dentro del 
 
 Cuando el Municipio de Mérida realice la reconexión de los servicios de agua potable, con motivo de la reducción o suspensión del servicio de agua potable a que se hizo acreedor el usuario que adeudó las cuotas establecidas en el artículo 135, el usuario deberá pagar una cuota de 110 pesos por concepto de reconexión.
 
-#### Sección Única. Aprovechamientos
+#### Sección Única. Generalidades
 
-Multas Federales No Fiscales
+De la clasificación
 
 ###### ARTÍCULO 138.
 
@@ -3253,7 +3291,9 @@ En el caso a que se refiere la fracción II del artículo 140, las cuotas deber�
 
 No se causarán actualización ni recargos sobre las cuotas a que se refiere el artículo 140
 
-#### Sección Primera. De los Gastos de Ejecución
+#### Sección Única. Aprovechamientos
+
+Multas Federales No Fiscales
 
 ###### ARTÍCULO 142.
 
@@ -3269,11 +3309,11 @@ El objeto de los derechos establecidos en esta sección es el servicio de limpia
 
 Por los servicios a que se refiere la presente sección se causará un derecho equivalente a 0.20 salarios mínimos por cada metro cuadrado de la superficie del bien inmueble en el cual se efectúe el servicio de limpia. El pago de este derecho se realizará previamente a la prestación del servicio.
 
-#### Sección Segunda. De los Gastos Extraordinarios de Ejecución
+#### Sección Primera. De los Gastos de Ejecución
 
 ### CAPÍTULO III. CONTRIBUCIONES ESPECIALES
 
-#### Sección Primera. Generalidades
+#### Sección Segunda. De los Gastos Extraordinarios de Ejecución
 
 ###### ARTÍCULO 145.
 
@@ -3403,7 +3443,7 @@ Para tal efecto, la Dirección o dependencia, a que se refiere el párrafo anter
 
 ### CAPÍTULO IV. DE LOS PRODUCTOS
 
-#### Sección Segunda. De los responsables
+#### Sección Primera. Generalidades
 
 ###### ARTÍCULO 157.
 
@@ -3465,7 +3505,7 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ### CAPÍTULO V. APROVECHAMIENTOS
 
-#### Sección Tercera. De las infracciones y sanciones
+#### Sección Segunda. De los responsables
 
 ###### ARTÍCULO 163.
 
@@ -3522,6 +3562,8 @@ Lo dispuesto en este artículo aplicará únicamente en el caso de las notificac
 Las autoridades fiscales municipales exigirán el pago de las contribuciones, los aprovechamientos y de los créditos fiscales que no hubiesen sido cubiertos o garantizados en las fechas y plazos señalados en la presente Ley, mediante el procedimiento administrativo de ejecución, sujetándose en todo caso, a lo dispuesto en el Código Fiscal del Estado y a falta de disposición expresa en este último, se estará a lo dispuesto en el Código Fiscal de la Federación.
 
 En todo caso las autoridades fiscales municipales deberán señalar en los mandamientos escritos correspondientes el texto legal en el que se fundamenten.
+
+#### Sección Tercera. De las infracciones y sanciones
 
 ###### ARTÍCULO 168.
 
@@ -3950,3 +3992,125 @@ CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVA
 ###### ARTÍCULO DÉCIMO.
 
 HASTA EN TANTO NO SE EMITA DISPOSICIÓN LEGAL EN CONTRARIO, CONTINUA VIGENTE PARA EL AÑO 2014 Y LOS AÑOS SUBSECUENTES, EL ARTÍCULO TRANSITORIO SEXTO, PUBLICADO EN EL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO MEDIANTE DECRETO 18, DE FECHA 28 DE DICIEMBRE DE 2012, MEDIANTE EL CUAL SE EXPIDIÓ LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA, QUE OTORGA BENEFICIOS FISCALES A LOS SUJETOS OBLIGADOS AL PAGO DEL IMPUESTO PREDIAL.
+
+D.O. 30 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día uno de enero del año dos mil quince, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Los derechos establecidos en la Sección Décima Segunda del Capítulo II del Título Segundo de esta Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+###### ARTÍCULO TERCERO.
+
+En caso de que durante el ejercicio fiscal 2015 fueran modificadas mediante sesión de cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta del Capítulo II del Título Segundo se verán incrementadas, o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio fiscal 2015, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 48 las bonificaciones se otorgarán de conformidad con la siguiente tabla:
+
+Mes en el que se paga Factor de bonificación
+
+el equivalente a una anualidad
+
+Enero 0.20
+
+Febrero 0.10
+
+Marzo 0.08
+
+Para estos efectos, los contribuyentes que paguen el importe correspondiente a una anualidad en el mes de marzo no pagarán actualización y recargos sobre el impuesto correspondiente a los meses de enero y febrero del año 2015.
+
+###### ARTÍCULO QUINTO.
+
+Se otorga un estímulo fiscal en materia de impuesto predial, consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros “A”, “B-1”, “B-2”, “B-3” y “B-4” de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial que se cause hasta el mes de diciembre de 2015, siempre y cuando los trabajos fueren iniciados y concluidos durante el año 2015, de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles catalogados o declarados por el Instituto Nacional de Antropología e Historia como monumentos históricos o artísticos.
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los catalogados o declarados como monumentos históricos o artísticos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo se entenderá por acreditamiento, el restar del impuesto predial que corresponda hasta el mes de diciembre de 2015, el importe de la inversión que se determine en la constancia de aplicación del estímulo.
+
+Así mismo, para efectos de este artículo, los tipos de trabajos que se podrán realizar serán los siguientes:
+
+I.- Rescate: Aquellos trabajos que se realizan para la recuperación de elementos que hubieren sido mutilados o alterados;
+
+II.- Consolidación: Aquellos trabajos que se realizan para devolver la estabilidad a partir de lo existente;
+
+III.- Restauración: Aquellos trabajos que se realizan para reincorporar algún elemento original, o con características similares a la original; y
+
+IV.- Integración al contexto: Aquellos trabajos que permiten incorporar al predio en cuestión con las características de su entorno.
+
+V.- Rehabilitación integral: Conjunto de trabajos, en interior y exterior, respetuosos de las características originales de inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente solicitará por escrito a la Dirección de Desarrollo Urbano, un dictamen en el cual se determine el importe de la inversión de los trabajos, que podrá considerarse en la aplicación del estímulo. Dicha solicitud deberá contener cuando menos la información que indique el importe de la inversión, fecha de inicio y conclusión, así como el tipo de trabajo que se realizará.
+
+La Dirección de Desarrollo Urbano previa revisión de la solicitud señalada en el párrafo anterior desechará o aprobará la solicitud, en este último caso emitirá el dictamen en el cual se establecerán los requisitos que el contribuyente deberá cumplir para obtener la constancia de aplicación del estímulo.
+
+Una vez concluidos todos los trabajos de conformidad con los requisitos y plazos establecidos en el dictamen el contribuyente dará aviso por escrito, dentro de los quince días hábiles siguientes, a la Dirección de Desarrollo Urbano, la que en caso de que sea procedente, emitirá la constancia de aplicación del estímulo en la cual se indicará el importe de la inversión que podrá acreditarse contra el impuesto predial, tomando en cuenta el monto de la inversión y el porcentaje de aplicación del estímulo, de acuerdo con el tipo de trabajo realizado.
+
+Después de obtener la constancia señalada en el párrafo anterior, si el impuesto lo causa sobre la base del valor catastral, el contribuyente deberá solicitar por escrito a la Dirección de Finanzas y Tesorería la aplicación del estímulo señalado en este artículo, anexando a su solicitud la constancia señalada en el párrafo anterior.
+
+Para la aplicación de dicho estímulo la Dirección de Finanzas y Tesorería dictará un acuerdo de conformidad con lo siguiente:
+
+1. Determinará el importe del impuesto que se cause hasta por el mes de diciembre de 2015.
+
+2. Procederá a realizar el acreditamiento de conformidad con lo establecido en este artículo.
+
+3. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es menor que el importe de la inversión señalada en la constancia de aplicación del estímulo, se considerará pagado en su totalidad el impuesto correspondiente al período determinado en el punto 1.
+
+4. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es mayor que el importe de la inversión determinada en la constancia de aplicación del estímulo, la diferencia deberá ser pagada al momento de aplicar el estímulo.
+
+En caso de que el impuesto predial se cause sobre la base de la contraprestación, el contribuyente deberá determinar el impuesto que se cause hasta el mes de diciembre de 2015, y realizar, en una sola declaración, el acreditamiento que señala este artículo. En este caso, le será aplicable lo dispuesto en los puntos 3 y 4 del párrafo anterior.
+
+En caso de que en los períodos comprendidos hasta el mes de diciembre de 2015 le corresponda al contribuyente tributar, por algún, o algunos meses, sobre la base del valor catastral y por otro, u otros sobre la base de la contraprestación, para la aplicación del estímulo, deberá cumplir con lo que para cada una de esas bases dispone este artículo.
+
+La suma de los acreditamientos aplicados no podrá ser mayor al importe de la inversión que se determinó en la constancia de aplicación del estímulo.
+
+El acreditamiento del importe de la inversión deberá realizarse contra el principal así como por los accesorios del mismo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna
+
+###### ARTÍCULO SEXTO.
+
+Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros “A”, “B-1”, “B-2”, “B-3” y “B-4” de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2015, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
+
+Para poder acceder al estímulo el contribuyente deberá acreditar que el inmueble es su casa habitación y exhibir la siguiente documentación:
+
+1.- El certificado o dictamen expedido por el Instituto Nacional de Antropología e Historia en el que se señale que el inmueble está declarado o catalogado como monumento histórico o artístico.
+
+2.- Se encuentre pagado en su totalidad el impuesto predial, causado hasta por el mes de diciembre 2014.
+
+Para efectos de que el contribuyente acredite que el inmueble objeto del estímulo fiscal es su casa habitación, deberá exhibir cualquiera de los documentos comprobatorios que se relacionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el domicilio del inmueble objeto del estímulo:
+
+1. La credencial de elector, expedida por el Instituto Federal Electoral.
+
+2. Los comprobantes de los pagos efectuados por la prestación de energía eléctrica o de telefonía fija.
+
+La documentación a que se refieren las fracciones anteriores, deberá estar a nombre del propietario del inmueble objeto del estímulo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SÉPTIMO.
+
+Si durante el ejercicio fiscal 2015 el contribuyente hubiese pagado el importe correspondiente a esa anualidad del impuesto predial sobre la base del valor catastral, este pago se considerará como definitivo respecto de esta base; en consecuencia no le será aplicable lo dispuesto en los párrafos segundo y tercero del artículo 45 de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones legales que eximan a los particulares del pago de las contribuciones previstas en esta Ley con excepción de las que dispone la misma que otorguen beneficios fiscales.
+
+###### ARTÍCULO NOVENO.
+
+Las constancias que haya expedido la Dirección de Finanzas y Tesorería Municipal, para el registro de peritos valuadores, seguirán vigentes respecto de los avalúos que se emitan para efectos del Impuesto Sobre Adquisición de Inmuebles.
+
+###### ARTÍCULO DÉCIMO.
+
+A partir del ejercicio fiscal 2015 el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder del que le haya correspondido durante el ejercicio fiscal 2014; este comparativo se efectuará solamente sobre el impuesto principal, sin tomar en consideración, bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+Se exceptúan de lo dispuesto en el párrafo inmediato anterior, los predios que, como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en más de un 50% el valor catastral que tenían antes de dichas modificaciones, de conformidad con las disposiciones legales aplicables.
