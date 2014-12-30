@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-comisiones-del-consejo-estatal-electoral-y-de-830
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-22"
-last_updated: "2014-01-21"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "SLP"
 
 REGLAMENTO DE COMISIONES DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRABAJO EN COMISIONES DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 22 de septiembre de 2011.
 
 ACUERDO DEL PLENO DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA POR MEDIO DEL CUAL SE APRUEBA EL REGLAMENTO DE COMISIONES DEL CONSEJO
 
-A N T E C E D E N T E S.
+A N T E C E D E N T E S...
 
 SÉPTIMO. Que en el plazo conferido al efecto y con el propósito de regular lo concerniente a la integración, facultades y funcionamiento de las Comisiones Permanentes que establece la ley y de la (sic) Comisiones Temporales que se acuerde crear, con fundamento en los artículos 31 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; 103, 105, fracciones l, incisos a) y j), y III, inciso e) de la Ley Electoral del Estado, el pleno del Consejo Estatal Electoral y de Participación Ciudadana emite el
 
@@ -630,3 +632,11 @@ P.O. 21 DE ENERO DE 2014.
 PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Publíquese para los efectos legales procedentes.
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la vigencia del presente acuerdo se abroga el Reglamento de Comisiones del Consejo Estatal Electoral y de Participación Ciudadana de San Luis Potosí, expedido por acuerdo del Pleno del Consejo número 41/09/2011 de fecha 05 de septiembre del año 2011, así como el acuerdo 63/08/2013 de fecha 13 de agosto de 2013, emitido por el órgano electoral antes señalado mediante el cual se reformo el artículo 15 del Reglamento en cita.
+
+TERCERO. Las Comisiones Permanentes a que refiere el artículo 60 de la Ley Electoral del Estado, por única ocasión deberán presentar al Pleno del Consejo, las obligaciones establecidas en el artículo 22 del presente Reglamento en el mes (sic) enero del año 2015, y los años posteriores deberán dar cumplimiento en el mes de noviembre como lo establece el artículo en mención.
