@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2014-12-05"
+last_updated: "2014-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -873,17 +873,17 @@ El Ministerio Público velará por los intereses del ausente y será parte neces
 
 El Registro Civil es una institución de orden público que tiene por objeto hacer constar de una manera auténtica todos los actos y hechos relacionados con el estado civil de las personas físicas, mediante la intervención de funcionarios dotados de fe pública, denominados Oficiales del Registro Civil, y a través de un sistema organizado de publicidad.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
-Así mismo, el Registro Civil tendrá a su cargo la creación y manejo del Registro Estatal de Deudores Alimentarios Morosos, en el que se inscribirá a las personas que hayan dejado de cumplir sus obligaciones alimentarias por un periodo de tres meses consecutivos o no, decretadas por la autoridad judicial correspondiente o por la Procuraduría de la Familia.
+Así mismo, el Registro Civil tendrá a su cargo la creación y manejo del Registro Estatal de Deudores Alimentarios Morosos, en el que se inscribirá a las personas que hayan dejado de cumplir sus obligaciones alimentarias por un periodo de tres meses consecutivos o no, decretadas por la autoridad judicial correspondiente o por la Procuraduría de los Niños, Niñas y la Familia.
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 El Registro Civil, estará facultado para la expedición de constancias que informen si quien la solicita se encuentra inscrito o no, en el Registro Estatal de Deudores Alimentarios Morosos.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
-El Registro Civil, una vez hecha la inscripción a que se refiere el segundo párrafo, solicitará al Registro Público de la Propiedad la anotación de la constancia respectiva en los bienes de los que sea propietario el Deudor Alimentario inscrito. El Registro Público de la Propiedad deberá informar al Registro Civil en un plazo de 3 días hábiles si fue procedente la anotación. Igualmente, el Registro Civil efectuará convenios con las sociedades de información crediticia a que se refiere la Ley de la materia a fin de suministrarles la información contenida en el Registro Estatal de Deudores Alimentarios Morosos. La anotación realizada en el Registro Público surtirá efectos de embargo precautorio.
+El Registro Civil, una vez hecha la inscripción a que se refiere el segundo párrafo, solicitará al Registro Público del Estado de Coahuila de Zaragoza la anotación de la constancia respectiva en los bienes de los que sea propietario el Deudor Alimentario inscrito. El Registro Público del Estado de Coahuila de Zaragoza deberá informar al Registro Civil en un plazo de 3 días hábiles si fue procedente la anotación. Igualmente, el Registro Civil efectuará convenios con las sociedades de información crediticia a que se refiere la Ley de la materia a fin de suministrarles la información contenida en el Registro Estatal de Deudores Alimentarios Morosos. La anotación realizada en el Registro Público surtirá efectos de embargo precautorio.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
@@ -1775,7 +1775,7 @@ El juez que hubiere autorizado a un menor para contraer matrimonio, no podrá re
 
 ###### ARTÍCULO 261.
 
-También es requisito para contraer matrimonio, la asistencia previa de los interesados al Taller de Orientación Prematrimonial implementado por las autoridades estatales; misma (sic) que deberá acreditarse mediante la presentación del documento autorizado.
+También es requisito para contraer matrimonio, la asistencia previa de los interesados al Taller de Orientación Prematrimonial implementado por las autoridades estatales; misma que deberá acreditarse mediante la presentación del documento autorizado.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
@@ -10551,7 +10551,9 @@ Quien se crea con derecho a los bienes a que alude el artículo anterior, podrá
 
 Si el opositor deja transcurrir noventa días naturales sin promover en el juicio de oposición, quedará éste sin efecto, haciéndose en su caso la cancelación que proceda.
 
-Transcurrido el plazo fijado en la parte final del artículo 1787, sin que en el Registro aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobado este hecho mediante la presentación del certificado respectivo, a que el juez competente declare que se ha convertido en propietario en virtud de la usucapión, y ordene que se haga en el Registro Público la inscripción de dominio correspondiente. No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+Transcurrido el plazo fijado en la parte final del artículo 1787, sin que en el Registro Público del Estado de Coahuila de Zaragoza aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobado este hecho mediante la presentación del certificado respectivo, a que el juez competente declare que se ha convertido en propietario en virtud de la usucapión, y ordene que se haga en el Registro Público la inscripción de dominio correspondiente. No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
 
 #### SECCIÓN SEGUNDA. DE LA INFORMACIÓN DE USUCAPIÓN
 
@@ -13659,7 +13661,9 @@ Los créditos civiles a la orden se transmitirán por endoso, y por su simple en
 
 La cesión de créditos civiles que no sean a la orden o al portador, producirá efectos contra personas que no sean parte en ella, desde que su fecha deba tenerse como cierta, conforme a las reglas siguientes:
 
-I. Si tiene por objeto un crédito que deba inscribirse, desde la fecha de su inscripción en el Registro Público.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+I. Si tiene por objeto un crédito que deba inscribirse, desde la fecha de su inscripción en el Registro Público del Estado de Coahuila de Zaragoza.
 
 II. Si se hace en escritura pública, desde la fecha de su otorgamiento.
 
@@ -19263,9 +19267,11 @@ Si la obligación garantizada estuviese sujeta a condición resolutoria inscrita
 
 Cuando se contraiga la obligación futura o se cumplan las condiciones de que tratan los dos artículos anteriores, deberán los interesados pedir que se haga constar así por medio de una nota al margen de la inscripción hipotecaria, sin cuyo requisito no podrá aprovechar ni perjudicar a tercero la hipoteca constituida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3454.
 
-Para hacer constar en el Registro el cumplimiento de la condiciones a que se refieren los artículos que preceden, o la existencia de las obligaciones futuras, presentará cualquiera de los interesados al Registrador la copia del documento público que así lo acredite y, en su defecto, una solicitud formulada por ambas partes, pidiendo que se extienda la nota marginal y expresando claramente los hechos que deben dar lugar a ella.
+Para hacer constar en el Registro Público del Estado de Coahuila de Zaragoza el cumplimiento de la (sic) condiciones a que se refieren los artículos que preceden, o la existencia de las obligaciones futuras, presentará cualquiera de los interesados al Registrador la copia del documento público que así lo acredite y, en su defecto, una solicitud formulada por ambas partes, pidiendo que se extienda la nota marginal y expresando claramente los hechos que deben dar lugar a ella.
 
 Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro a la autoridad judicial para que, previo el procedimiento correspondiente, dicte la resolución que proceda.
 
@@ -20197,33 +20203,37 @@ El notario público que conozca de la terminación de una sociedad de convivenci
 
 ### CAPÍTULO ÚNICO. DE LA ORGANIZACIÓN DEL REGISTRO PÚBLICO
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 3588.
 
-El Registro Público del Estado de Coahuila es una institución jurídica unitaria, dependiente del poder ejecutivo, que tiene por objeto regular la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes; los actos relativos a la constitución, modificación y extinción de las personas morales; así como los otros actos, negocios, resoluciones y diligencias judiciales a que este mismo título se refiere, y a las consecuencias inherentes a dichas inscripciones.
+El Registro Público del Estado de Coahuila de Zaragoza es una institución jurídica unitaria, dependiente del poder ejecutivo, que tiene por objeto regular la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes; los actos relativos a la constitución, modificación y extinción de las personas morales; así como los otros actos, negocios, resoluciones y diligencias judiciales a que este mismo título se refiere, y a las consecuencias inherentes a dichas inscripciones.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 3589.
 
-La Ley Reglamentaria del Registro Público del Estado de Coahuila de Zaragoza organizará la institución y determinará el número de autoridades, su jerarquía, atribuciones y deberes, así como las circunscripciones territoriales en que se divida el Estado y los municipios que comprenda cada una de ellas. Igualmente fijará y nominará las secciones de que se componga el registro, precisará los títulos que deban inscribirse en cada una de ellas, el número de libros y sus correspondientes requisitos, y determinará el sistema y métodos mediante los cuales funcionará.
+La Ley del Registro Público del Estado de Coahuila de Zaragoza y su Reglamento Interior organizará la institución y determinará el número de autoridades, su jerarquía, atribuciones y deberes, así como las circunscripciones territoriales respecto de las Oficinas Registrales y los municipios que comprenda cada una de ellas.
 
-La misma ley establecerá los requisitos necesarios para desempeñar los cargos que requiera el funcionamiento del registro.
+Igualmente fijará y nominará los apartados de que se componga el Registro Público del Estado de Coahuila de Zaragoza, precisará los títulos que deban inscribirse en cada uno de ellos, y el sistema a implementar así como sus correspondientes requisitos y determinará los métodos mediante los cuales funcionará.
+
+La misma Ley y su Reglamento establecerán los requisitos necesarios para desempeñar los cargos que requiera el funcionamiento del Registro Público.
 
 ###### ARTÍCULO 3590.
 
 El Registro es público y en consecuencia, toda persona tendrá acceso a los asientos regístrales y a los documentos en que éstos se apoyen, y derecho a obtener constancias certificadas de ellos, así como certificaciones de no existir asientos de ninguna especie o de especie definida, sobre bienes o personas determinadas, excepto en los casos en que, por disposición de la ley, sólo a ciertas personas y autoridades se les permita información.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3591.
 
-El Registro se diversificará en los siguientes ramos:
+En el Registro Público del Estado de Coahuila de Zaragoza se podrán inscribir:
 
-I. Registro inmobiliario.
+I. Bienes inmuebles.
 
-II. Registro mobiliario.
+II. Bienes muebles.
 
-III. Registro de personas morales.
+III. Registro de personas morales
 
 ## TÍTULO SEGUNDO. DEL REGISTRO INMOBILIARIO
 
@@ -20269,9 +20279,11 @@ XVI. Los Planes Estatal y Municipales de Desarrollo Urbano.
 
 XVII. Los demás actos y títulos que la ley prevenga expresamente que sean registrados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3593.
 
-Se anotarán preventivamente en el Registro inmobiliario:
+Se anotarán preventivamente en el Registro Público del Estado de Coahuila de Zaragoza:
 
 I. Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquéllos.
 
@@ -20281,7 +20293,7 @@ III. Las demandas promovidas para exigir el cumplimiento de contratos preparator
 
 IV. Las providencias judiciales que ordenen el secuestro o prohiban la enajenación de bienes inmuebles o derechos reales sobre los mismos.
 
-V. Los títulos presentados al Registro Público y cuya inscripción haya sido denegada o suspendida por el Registrador.
+V. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2014)
 
 VI. Las fianzas legales o judiciales, de acuerdo con lo establecido en el artículo 3318.
 
@@ -20289,7 +20301,9 @@ VII. El decreto de expropiación y de ocupación temporal y declaración de limi
 
 VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro Público.
 
-IX. Cualquier otro título que sea anotable, de acuerdo con este código u otras leyes.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+IX. Cualquier otro título que de acuerdo a este Código, Ley del Registro Público del Estado de Coahuila de Zaragoza, su Reglamento Interior y demás leyes aplicables deba anotarse.
 
 ### CAPÍTULO II. DE LA INMATRICULACIÓN
 
@@ -20379,15 +20393,19 @@ IV. El nombramiento de los directores y administradores de las instituciones a q
 
 Los documentos que conforme a este código deban registrarse y no se registren, sólo producirán efectos, por cuanto a los actos jurídicos que comprendan, entre quienes los otorguen; pero no podrán ser oponibles a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3601.
 
-Se entiende por terceros, para los efectos del Registro, a todos aquellos que tengan constituidos o inscritos derechos reales, gravámenes o embargos sobre los bienes o derechos que sean objeto de inscripción conforme a los artículos 3592 y 3598 de este código y, por tanto, sólo dichos terceros podrán invocar la falta de registro, cuando se les pretenda oponer un acto, contrato, resolución o documento, que debiéndose registrar no se inscribió, a efecto de que no les sea oponible ni los perjudique.
+Se entiende por terceros, para los efectos del Registro Público del Estado de Coahuila de Zaragoza, a todos aquellos que tengan constituidos o inscritos derechos reales, gravámenes o embargos sobre los bienes o derechos que sean objeto de inscripción conforme a los artículos 3592 y 3598 de este código y, por tanto, sólo dichos terceros podrán invocar la falta de registro, cuando se les pretenda oponer un acto, contrato, resolución o documento, que debiéndose registrar no se inscribió, a efecto de que no les sea oponible ni los perjudique.
 
 ###### ARTÍCULO 3602.
 
 Los actos ejecutados, los negocios celebrados y las resoluciones judiciales pronunciadas en otra entidad federativa o país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
 
-I. Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Estado, habría sido necesaria su inscripción en el Registro.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+I. Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Estado, habría sido necesaria su inscripción en el Registro Público del Estado de Coahuila de Zaragoza.
 
 II. Que estén debidamente legalizados, cuando la ley exija este requisito.
 
@@ -20403,9 +20421,11 @@ La inscripción de los negocios y demás actos jurídicos en el Registro Públic
 
 La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3605.
 
-No obstante lo dispuesto en el artículo anterior, los actos o negocios que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito, o de causas que no resulten claramente del mismo Registro Público.
+No obstante lo dispuesto en el artículo anterior, los actos o negocios que se otorguen o celebren por personas que en el Registro Público del Estado de Coahuila de Zaragoza aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito, o de causas que no resulten claramente del mismo Registro Público.
 
 Lo dispuesto en este artículo no se aplicará a los negocios gratuitos, a los actos que se ejecuten u otorguen violando una ley prohibitiva o de interés público, ni a los actos o negocios que sean oponibles a tercero con posterioridad a la anotación preventiva de la demanda sobre revocación, rescisión, simulación, resolución, nulidad, reivindicación u otra acción que tenga por objeto la pérdida o modificación del derecho del otorgante.
 
@@ -20417,9 +20437,11 @@ El derecho registrado se presume que existe y que pertenece a su titular en la f
 
 No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de persona o entidad determinada, sin que previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3608.
 
-En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá el procedimiento respectivo de los mismos o de sus frutos, inmediatamente que conste en los autos, por certificación auténtica del Registro Público, que dichos bienes o derechos están inscritos a favor de persona distinta de aquélla contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparecía como dueño en el Registro.
+En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá el procedimiento respectivo de los mismos o de sus frutos, inmediatamente que conste en los autos, por certificación auténtica del Registro Público del Estado de Coahuila de Zaragoza, que dichos bienes o derechos están inscritos a favor de persona distinta de aquélla contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparecía como dueño en el Registro Público.
 
 ###### ARTÍCULO 3609.
 
@@ -20429,49 +20451,57 @@ No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, a
 
 La preferencia entre derechos reales sobre un inmueble o cualesquiera otros derechos registrables, se determinará por la prioridad de su registro, cualquiera que sea la fecha de su constitución.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3611.
 
 El derecho real adquirido con anterioridad a la fecha de una anotación preventiva será preferente aun cuando su inscripción sea posterior, siempre que se dé el aviso que previene el artículo 3614.
-
-Si la anotación preventiva se hiciere con posterioridad a la presentación del aviso preventivo, el derecho real motivo de éste será preferente, aun cuando tal aviso se hubiese dado extemporáneamente.
 
 ###### ARTÍCULO 3612.
 
 Los asientos del Registro Público, en cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos, salvo resolución judicial.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3613.
 
-El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado, siempre que se cumpla con lo dispuesto por la Ley Reglamentaria del Registro Público, salvo lo dispuesto en el artículo siguiente.
+El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado, siempre que se cumpla con lo dispuesto por la Ley del Registro Público de Coahuila de Zaragoza y su Reglamento Interior, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 3614.
 
-Cuando vaya a otorgarse una escritura en la que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, deberá solicitar al registro público certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En dicha solicitud que surtirá efectos de aviso pre-preventivo deberá mencionar la operación y bien de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esta solicitud practicará inmediatamente la anotación de presentación en la partida respectiva, anotación que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud. Si existe certificado de gravámenes vigente, el aviso pre-preventivo se podrá presentar en documento independiente.
+Cuando vaya a otorgarse una escritura en la que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, deberá solicitar al Registro Público del Estado de Coahuila de Zaragoza certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. Asimismo el notario deberá solicitar por escrito la anotación del aviso de presentación preventivo manifestando en el mismo la operación y bien de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El Registrador, con esta solicitud practicará la anotación de presentación en el folio respectivo, anotación que tendrá vigencia por un término improrrogable de treinta días naturales a partir de la fecha de presentación de la solicitud.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al registro público, dentro de las cuarenta y ocho horas siguientes y contendrá además de los datos mencionados en el párrafo anterior la fecha de la escritura y la de su firma. El registrador, con el aviso practicará de inmediato la ·anotación de presentación correspondiente, la cual tendrá una vigencia de noventa días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del término de treinta días a que se contrae el párrafo primero sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario ante quien se otorgó dará aviso de presentación definitivo acerca de la operación de que se trate al Registro Público, dentro de las cuarenta y ocho horas siguientes y contendrá además de los datos mencionados en el párrafo anterior la fecha de la escritura y la de su firma. El Registrador, con el aviso practicará la anotación de presentación correspondiente, la cual tendrá una vigencia improrrogable de sesenta días naturales a partir de la fecha de presentación del aviso.
 
 Si el testimonio respectivo se presentare al Registro Público dentro de cualquiera de los dos términos que señalan los párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso y con arreglo a su número de entrada. Si el documento se presentare fenecidos los referidos plazos su registro sólo surtirá efectos desde la fecha de presentación.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3615.
 
-Si el documento en que consta alguna de las operaciones que se mencionan en el párrafo primero del artículo anterior fuere privado, deberá dar el aviso preventivo, con vigencia por sesenta días hábiles, el notario o la autoridad judicial que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los notarios en el caso de los instrumentos públicos. Si el contrato se ratificara ante el Registrador, éste deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
+Si el documento en que consta alguna de las operaciones que se mencionan en el párrafo primero del artículo anterior fuere privado, deberá dar el aviso de presentación definitivo, con vigencia por sesenta días hábiles, el notario o la autoridad judicial que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los notarios en el caso de los instrumentos públicos. Si el contrato se ratificara ante el Registrador, éste deberá practicar de inmediato el aviso de presentación definitivo a que este precepto se refiere.
 
 ###### ARTÍCULO 3616.
 
-Las anotaciones preventivas y su cancelación deberán hacerse sin cobro de derecho alguno.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 3617.
 
-Mientras no se cancelen las anotaciones preventivas, no podrá hacerse ninguna inscripción que perjudique el registro de la escritura protegida por aquellas anotaciones. Sin embargo, lo anterior no impedirá que en el Registro se reciban documentos que deban inscribirse, quedando pendiente su calificación registral.
+Mientras no se cancelen los avisos de presentación preventivos y definitivos, no podrá hacerse ninguna inscripción que perjudique el registro de la escritura protegida por aquellos avisos. Sin embargo, lo anterior no impedirá que en el Registro Público del Estado de Coahuila de Zaragoza se reciban documentos que deban inscribirse, quedando pendiente su calificación registral.
 
-Cancelado el aviso preventivo, se procederá a la calificación de ellos y, en su caso, a la tramitación de los mismos, conforme al orden de su presentación, sujetándose a lo dispuesto por la Ley Reglamentaria. Si procediere la prioridad registral a que alude el artículo 3614, se calificarán los documentos presentados con posterioridad al aviso y en caso de que la calificación sea negativa, se devolverán a los interesados.
+Cancelado el aviso de presentación preventivo o definitivo, se procederá a la calificación de los documentos pendientes y, en su caso, a la tramitación de los mismos, conforme al orden de su presentación, sujetándose a lo dispuesto por la Ley del Registro Público del Estado de Coahuila de Zaragoza y su Reglamento Interior. Si procediere la prioridad registral a que alude el artículo 3614, se calificarán los documentos presentados con posterioridad a los avisos y en caso de que la calificación sea negativa, se devolverán a los interesados.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 3618.
 
-Si el aviso a que alude el artículo 3614 fuere incompleto, o los datos estuvieren equivocados, no se hará la anotación preventiva y se devolverá de inmediato al interesado haciéndosele saber los motivos por los cuales no se efectúa la anotación, para que subsane las deficiencias que tuviere el aviso.
+Si el aviso a que alude el artículo 3614 fuere incompleto, o los datos estuvieren equivocados, no se hará la inscripción del aviso de presentación definitivo y se devolverá de inmediato al interesado haciéndosele saber los motivos por los cuales no se efectúa el aviso de presentación definitivo, para que subsane las deficiencias que tuviere el aviso.
 
 ###### ARTÍCULO 3619.
 
@@ -20503,9 +20533,11 @@ Las inscripciones que se practiquen en relación a bienes muebles y personas mor
 
 ### CAPÍTULO II. DE LAS PERSONAS QUE TIENEN DERECHO DE PEDIR LA INSCRIPCIÓN Y DE LA CALIFICACIÓN REGISTRAL
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3624.
 
-La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el notario que haya autorizado la escritura de que se trate.
+La inscripción de los títulos en el Registro Público del Estado de Coahuila de Zaragoza puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, por el notario que haya autorizado la escritura de que se trate, los fedatarios y las autoridades judiciales, agrarias, administrativas y laborales en la esfera de su competencia.
 
 ###### ARTÍCULO 3625.
 
@@ -20535,9 +20567,11 @@ V. Los decretos de expropiación originales, o copias certificadas de los mismos
 
 El interesado presentará el título que va a ser registrado o anotado, y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de bienes inmuebles, un plano de éstos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3629.
 
-El Registrador calificará bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación, la que suspenderá o denegará en los casos siguientes:
+El Coordinador Jurídico de la oficina registral correspondiente, calificará bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación, la que suspenderá o denegará en los casos siguientes:
 
 I. Cuando el título presentado no sea de los que deben inscribirse o anotarse.
 
@@ -20547,15 +20581,19 @@ III. Cuando los funcionarios ante quienes se haya otorgado o ratificado el docum
 
 IV. Cuando el contenido del documento sea contrario a las leyes prohibitivas o de interés público.
 
-V. Cuando haya incompatibilidad entre el texto del documento y los asientos del Registro.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+V. Cuando haya incompatibilidad entre el texto del documento y los asientos del Registro Público del Estado de Coahuila de Zaragoza.
 
 VI. Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado.
 
 VII. Cuando falte algún otro requisito que deba llenar el documento de acuerdo con este código u otras leyes aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3630.
 
-En caso de que el Registrador niegue o suspenda la inscripción o anotación, devolverá el título sin registrar, expresando por escrito la causa y fundamento de su negativa, entregando la resolución al interesado.
+En caso de que el Coordinador Jurídico de la oficina registral correspondiente, niegue o suspenda la inscripción o anotación, devolverá el título sin registrar, expresando por escrito la causa y fundamento de su negativa, entregando la resolución al interesado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2012)</small>
 
@@ -20565,9 +20603,11 @@ En el caso a que se refiere el artículo anterior, el registrador tiene la oblig
 
 La inscripción preventiva sólo podrá cancelarse hasta que la resolución definitiva quede firme.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3632.
 
-La calificación hecha por el Registrador podrá recurrirse ante el Director General del Registro Público. Si éste ordena que se registre o anote el título rechazado, la inscripción surtirá sus efectos en el momento determinado en el artículo anterior.
+La calificación hecha por el personal facultado para ello del Registro Público del Estado de Coahuila de Zaragoza podrá recurrirse ante el Director General. Si éste ordena que se registre o anote el título rechazado, la inscripción surtirá sus efectos en el momento determinado en el artículo anterior.
 
 ###### ARTÍCULO 3633.
 
@@ -20593,15 +20633,17 @@ En los casos de las fracciones I y II del artículo que precede, los interesados
 
 (DEROGADO, P.O. 18 DE JUNIO DE 2010)
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3636.
 
-Hecho el registro, serán devueltos los documentos al que los presentó, con la nota de haber quedado registrados, la cual contendrá la fecha de presentación, la fecha de la inscripción o anotación y los demás datos de identificación de éstas.
+Hecho el registro, serán devueltos los documentos al que los presentó, con la boleta de inscripción, la cual contendrá fecha de presentación y de inscripción, el número de folio, prelación y recibo de pago, el monto de los derechos causados, así como la firma de autorización del Registrador y su sello.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 3637.
 
-La Ley Reglamentaría del Registro Público del Estado de Coahuila de Zaragoza establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
+La Ley del Registro Público del Estado de Coahuila de Zaragoza establecerá los derechos y obligaciones de los Registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
 
 ### CAPÍTULO III. DEL CONTENIDO Y DE LOS REQUISITOS DE LOS ASIENTOS
 
@@ -20637,7 +20679,9 @@ VI. La naturaleza del acto o negocio jurídicos.
 
 VII. La fecha del título, número si lo tuviere, y el funcionario o notario que lo haya autorizado.
 
-VIII. El día y la hora de la presentación del título en el Registro.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+VIII. El día y la hora de la presentación del título en el Registro Público del Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 3640.
 
@@ -20645,7 +20689,9 @@ Las anotaciones preventivas contendrán las circunstancias que expresa el artíc
 
 Las que deban su origen a embargo o secuestro, expresarán la causa que haya dado lugar a aquéllos y el importe de la obligación que los hubiere originado.
 
-Las que provengan de una declaración de expropiación, limitación de dominio u ocupación de bienes inmuebles, mencionarán la fecha del decreto respectivo, la de su publicación en el Diario Oficial de la Federación o en el Periódico Oficial del Gobierno del Estado, y el fin de utilidad pública que sirva de causa a la declaración.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+Las que provengan de una declaración de expropiación, limitación de dominio u ocupación de bienes inmuebles, mencionarán la fecha del decreto respectivo, la de su publicación en el Diario Oficial de la Federación o en el Periódico Oficial del Estado, y el fin de utilidad pública que sirva de causa a la declaración.
 
 ###### ARTÍCULO 3641.
 
@@ -20665,13 +20711,17 @@ V. Cuando se trate de cancelación parcial, la parte que se segregue o que haya 
 
 Las anotaciones deberán contener las indicaciones para relacionar entre sí los bienes o los asientos a que se refieren y, en su caso, el hecho que se trate de acreditar y el documento en cuya virtud se extienda.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3643.
 
-Todos los asientos, de la clase que fueren, deberán ir firmados por el Registrador y expresar la fecha en que se practiquen, así como el día y número del asiento de presentación.
+Todos los asientos deberán ser capturados electrónicamente y quedarán debidamente registrados, una vez que haya sido autorizada su inscripción por el Registrador.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 3644.
 
-Los asientos del Registro Público surtirán efecto aunque no estén firmados por el Registrador o funcionario que lo substituya, siempre que exista el acuerdo de calificación debidamente firmado por aquéllos. La firma de los mismos puede exigirse en cualquier tiempo por quien tenga el título con la certificación de haber sido registrado.
+Todos los asientos del Registro Público del Estado de Coahuila de Zaragoza deberán estar debidamente firmados de manera autógrafa o electrónica, los cuales surtirán efecto desde el momento de su presentación.
 
 ###### ARTÍCULO 3645.
 
@@ -20747,7 +20797,9 @@ Se entenderá que se comete error de concepto, cuando al expresar en la inscripc
 
 Cuando se trate de errores de concepto, los asientos practicados sólo podrán rectificarse con el consentimiento de todos los interesados en el asiento.
 
-A falta del consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+A falta del consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial y/o por determinación del Director General del Registro Público del Estado de Coahuila de Zaragoza, cuando medie recurso de inconformidad debidamente fundado y motivado.
 
 En caso de que el Registrador se oponga a la rectificación se observará lo dispuesto en el artículo 3621.
 
@@ -20765,9 +20817,11 @@ Las inscripciones no se extinguen en cuanto a terceros, sino por su cancelación
 
 Las anotaciones preventivas se extinguen por cancelación, por caducidad, o por su conversión en inscripción.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3659.
 
-Las inscripciones y anotaciones pueden cancelarse por consentimiento de las personas a cuyo favor estén hechas o por orden judicial. Podrán no obstante ser canceladas a petición de parte, sin dichos requisitos, cuando el derecho inscrito o anotado quede extinguido por disposición de la ley o por causas que resulten del título en cuya virtud se practicó la inscripción o anotación, debido a hecho que no requiera la intervención de la voluntad.
+Las inscripciones y anotaciones pueden cancelarse por consentimiento de las personas a cuyo favor estén hechas o por orden judicial. Podrán no obstante ser canceladas a petición de parte, cuando el derecho inscrito o anotado quede extinguido por disposición de la ley y/o por determinación del Director General del Registro Público del Estado de Coahuila de Zaragoza, cuando medie recurso de inconformidad debidamente fundado y motivado.
 
 ###### ARTÍCULO 3660.
 
@@ -20817,7 +20871,9 @@ III. Cuando se trate de las inscripciones a que se refiere la fracción V del ar
 
 Las anotaciones preventivas, cualquiera que sea su origen, caducarán a los tres años de su fecha, salvo aquellas a las que se les fije un plazo de caducidad más breve. No obstante, a petición de parte o por mandato de las autoridades que los decretaron, podrán prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
 
-La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo; pero cualquier interesado podrá solicitar en este caso que se registre la cancelación de dicho asiento.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo; y se podrá solicitar en este caso que se registre la cancelación de dicho asiento, por consentimiento de las partes a cuyo favor estén hechas o cuando medie resolución judicial.
 
 ###### ARTÍCULO 3667.
 
@@ -20863,9 +20919,11 @@ Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, 
 
 Podrá también cancelarse, total o parcialmente, la hipoteca que garantice tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que se cancela.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 3676.
 
-Las cancelaciones se harán en la forma que fije la Ley Reglamentaria del Registro Público; pero deberán contener, para su validez, los datos que menciona el artículo 3641.
+Las cancelaciones se harán en la forma que fije la Ley del Registro Público del Estado de Coahuila de Zaragoza y su Reglamento; y deberán contener, para su validez, los datos que menciona el artículo 3641.
 
 ###### ARTÍCULO 3677.
 
@@ -20873,33 +20931,27 @@ Las inscripciones preventivas se cancelarán no solamente cuando se extinga el d
 
 ### CAPÍTULO VII. DE LOS MEDIOS DE IMPUGNACIÓN
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 3678.
 
-Contra las resoluciones y omisiones del registrador procede el recurso de inconformidad ante el Director General del Registro Público.
+Contra los actos o determinaciones de las Oficinas Registrales, que nieguen o suspendan la inscripción de algún documento, aviso o cancelación procederá el recurso de inconformidad, y para tal efecto se estará a lo dispuesto en la Ley del Registro Público del Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 3679.
 
-El recurso deberá interponerse por escrito, dentro del término de tres días hábiles siguientes al en que tenga conocimiento la parte afectada, expresándose los razonamientos y fundamentos legales que justifiquen la impugnación y anexando, en su caso, el instrumento rechazado y copia certificada del acto impugnado.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 3680.
 
-El registrador remitirá al Director General del Registro Público dentro de los tres días hábiles siguientes, un informe sobre su actuación, acompañando en su caso las documentales que estime necesarias.
-
-El director general resolverá lo procedente dentro del término de tres días hábiles.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 3681.
 
-Contra las resoluciones del Director General del Registro Público no procede recurso alguno.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 3682.
 
-Los Registradores carecen de legitimación para impugnar las resoluciones de su superior jerárquico.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ## TRANSITORIOS
 
@@ -21234,3 +21286,23 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 5 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado dictamen (sic).
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones contenidas en la Ley Reglamentaria del Registro Público del Estado de Coahuila de Zaragoza, publicada el día 23 de noviembre de 1999 en el Periódico Oficial del Estado, estarán vigentes solamente en las oficinas registrales en las que aún no se implemente el nuevo sistema registral previsto en la presente ley.
+
+La implementación del nuevo sistema registral será determinada por la Secretaría de Gobierno, la cual definirá el esquema de aplicación gradual en todo el estado; una vez que se haya implementado el sistema registral en todas las oficinas registrales, la Ley Reglamentaria del Registro Público del Estado de Coahuila de Zaragoza, publicada el día 23 de noviembre de 1999 en el Periódico Oficial del Estado quedará abrogada.
+
+###### ARTÍCULO TERCERO.
+
+Hasta en tanto las oficinas registrales no cuenten con la tecnología necesaria para realizar trámites electrónicos, el usuario deberá presentarlos de manera física.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
