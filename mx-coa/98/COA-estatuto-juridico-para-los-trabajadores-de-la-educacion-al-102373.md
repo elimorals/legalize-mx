@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-de-la-educacion-al-1023
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-02"
-last_updated: "2014-09-02"
+last_updated: "2014-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 2 de septiembre de 2014.
 
@@ -919,6 +919,10 @@ En el procedimiento ante el Tribunal de Conciliación y Arbitraje no se requiere
 
 El procedimiento para resolver las controversias que se sometan al Tribunal de Conciliación y Arbitraje, se reducirá: a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación, que podrá hacerse en cualquiera de las dos formas señaladas; y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes, y se pronunciará resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de otras diligencias, en cuyo caso se ordenará que se lleven a cabo, y, una vez desahogadas, se dictará laudo.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 85 BIS.- El procedimiento ante el Tribunal se inicia a instancia de parte, es público, gratuito e inmediato; por lo cual se deben tomar las medidas conducentes encaminadas a lograr la mayor economía del tiempo, concentración y sencillez en el proceso.
+
 ###### ARTÍCULO 86.
 
 Las sesiones ordinarias del Tribunal tendrán verificativo por lo menos un día hábil de cada semana, sin perjuicio de las sesiones extraordinarias que, en uno y otro caso, al efecto convoque el presidente. Para la celebración de las sesiones, se requerirá la presencia de los tres magistrados; en consecuencia, si algún magistrado numerario se encuentra ausente, deberá llamarse de inmediato al supernumerario que corresponda para que lo supla en la sesión.
@@ -1210,3 +1214,9 @@ EL SECRETARIO DE EDUCACIÓN
 JESÚS JUAN OCHOA GALINDO
 
 (RÚBRICA)
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+ÚNICO- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico
