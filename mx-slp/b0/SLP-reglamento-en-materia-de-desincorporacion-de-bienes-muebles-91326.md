@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-en-materia-de-desincorporacion-de-bienes-muebles-913
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-03"
-last_updated: "2013-01-03"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 REGLAMENTO EN MATERIA DE DESINCORPORACIÓN DE BIENES MUEBLES DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO EN MATERIA DE DESINCORPORACIÓN DE BIENES MUEBLES DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO MODIFICADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de enero de 2013.
 
@@ -484,3 +486,13 @@ LIC. RAFAEL RENTERÍA ARMENDÁRIZ
 SECRETARIO DE ACTAS
 
 RÚBRICA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Secretario, en un término no mayor de treinta días, contados a partir de la publicación del presente Reglamento, deberá instalar el Comité de Desincorporación de Bienes Muebles del Consejo en los términos contenidos en el presente Reglamento.
+
+TERCERO. Con la vigencia del presente acuerdo se modifica el Reglamento en Materia de Desincorporación de Bienes Muebles del Consejo Estatal Electoral y de Participación Ciudadana, expedido por acuerdo del Pleno del Consejo número 300/12/2012 de fecha 13 de diciembre del año 2012.
