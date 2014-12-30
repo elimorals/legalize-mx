@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2014-08-11"
+last_updated: "2014-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 30 DE DICIEMBRE DE 2014.
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
 
@@ -239,6 +239,8 @@ Cuando no se llenen los requisitos legales para la prestación de los servicios 
 
 Tratándose de los derechos que se causen por ejercicios, cuando el uso o aprovechamiento de los bienes del dominio público de la Federación sea por un período menor, el pago del derecho se hará proporcionalmente al periodo en el que se use o aproveche el bien.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 5o.
@@ -249,21 +251,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Expedición de copias
 
 Certificadas de documentos,
 
 por cada hoja tamaño carta
 
-u oficio $15.90 $16
+u oficio $17.25 $17
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 Asimismo se pagará el derecho que se estipula en esta fracción, por la expedición de copias certificadas que sean solicitadas al Tribunal Federal de Justicia Fiscal y Administrativa.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -271,27 +269,19 @@ II.- Reposición de constancias
 
 o duplicados de las mismas,
 
-así como de calcomanías $134.86 $135
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+así como de calcomanías $146.32 $146
 
 III.- Compulsa de documentos,
 
-por hoja $9.34 $9
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+por hoja $10.13 $10
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 IV.- Copias de planos certificados,
 
-por cada una $97.32 $97
+por cada una $105.59 $106
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-V.- Legalización de firmas $438.86 $439
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+V.- Legalización de firmas $476.16 $476
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -303,7 +293,7 @@ constancias distintas de la (sic)
 
 señaladas en las fracciones
 
-que anteceden $134.86 $135
+que anteceden $146.32 $146
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -383,6 +373,8 @@ Lo dispuesto en el presente artículo, también será aplicable a cualquier órg
 
 #### SECCION PRIMERA. Servicios Migratorios
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
@@ -391,55 +383,43 @@ Lo dispuesto en el presente artículo, también será aplicable a cualquier órg
 
 Por la expedición del documento migratorio que acredita la condición de estancia se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I. Visitante sin permiso para realizar
 
-I. Visitante sin permiso para realizar actividades remuneradas $305.65 $306
+actividades remuneradas $331.63 $332
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+II. Visitante con permiso para realizar
 
-II. Visitante con permiso para realizar actividades remuneradas $2,3434.84 $2,435
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+actividades remuneradas $2,641.80 $2,642
 
 III. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+IV. Visitante Trabajador Fronterizo $331.63 $332
 
-IV. Visitante Trabajador Fronterizo $305.65 $306
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-V. Visitante con fines de adopción $2,362.31 $2,362
+V. Visitante con fines de adopción $2,563.11 $2,563
 
 VI. Residente Temporal:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). Hasta un año $3,518.64 $3,519
 
-a). Hasta un año $3,242.99 $3,243
+b). Dos años $5,272.35 $5,272
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+c). Tres años $6,677.56 $6,678
 
-b). Dos años $4,859.31 $4,859
+d). Cuatro años $7,914.14 $7,914
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c). Tres años $6,154.43 $6,154
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-d). Cuatro años $7,294.14 7,294
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-VII. Residente Permanente $3,952.72 $3, 953
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VII. Residente Permanente $4,288.70 $4,289
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-Por la reposición de los documentos contenidos en las fracciones I y IV de este artículo se pagará la misma cuota del derecho según corresponda. Respecto a las fracciones II, V, VI y VII la cuota aplicable será de $1,040.00
+Por la reposición de los documentos contenidos
+
+en las fracciones I y IV de este artículo se pagará
+
+la misma cuota del derecho según corresponda.
+
+Respecto a las fracciones II, V, VI y VII la cuota
+
+aplicable será de $1,083.26 $1,083
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -467,7 +447,7 @@ Tratándose de extranjeros que arriben al país vía aérea, el derecho previsto
 
 Los prestadores del servicio de transporte aéreo internacional de pasajeros a que se refiere el párrafo anterior, deberán enterar el pago mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -475,11 +455,11 @@ Los prestadores del servicio de transporte aéreo internacional de pasajeros a q
 
 ###### ARTICULO 9o.
 
-Por la recepción y estudio de la solicitud y, en su caso, la autorización del cambio de condición de estancia se pagará el derecho conforme a la cuota de $1,036.10.00 $1,036
+Por la recepción y estudio de la solicitud y, en su caso, la autorización del cambio de condición de estancia se pagará el derecho conforme a la cuota de $1,124.17 $1,124
 
 El pago a que se refiere este artículo será sin perjuicio del derecho que corresponda por el otorgamiento de la nueva condición de estancia a adquirir en términos del artículo 8o. de esta Ley.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -487,7 +467,7 @@ El pago a que se refiere este artículo será sin perjuicio del derecho que corr
 
 ###### ARTICULO 10.
 
-Por la recepción y estudio de la solicitud y, en su caso, la regularización de la situación migratoria en los términos de las disposiciones migratorias se pagará el derecho conforme a la cuota de $1,036.10 $1,036
+Por la recepción y estudio de la solicitud y, en su caso, la regularización de la situación migratoria en los términos de las disposiciones migratorias se pagará el derecho conforme a la cuota de $1,124.17 $1,124
 
 No pagarán los derechos a que se refiere este artículo los extranjeros que soliciten la regularización de su situación migratoria con fundamento en las fracciones III, IV y V del artículo 133 de la Ley de Migración.
 
@@ -523,7 +503,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -539,7 +519,7 @@ internacionales que abandonen el
 
 territorio nacional, se cobrará la
 
-cuota de $60.91 $61
+cuota de $66.09 $66
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -553,6 +533,8 @@ Tratándose de pasajeros que abandonen el país vía aérea, el derecho previsto
 
 Los prestadores del servicio de transporte aéreo internacional de pasajeros a que se refiere el párrafo anterior, deberán enterar el pago mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
@@ -561,31 +543,25 @@ Los prestadores del servicio de transporte aéreo internacional de pasajeros a q
 
 Por la recepción y estudio de la solicitud y, en su caso, la expedición de certificados, permisos o autorizaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I. Certificados en los que se haga
 
-I. Certificados en los que se haga constar la situación migratoria $331.55 $332
+constar la situación migratoria $359.73 $360
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II. Permiso de salida y regreso al país $331.55 $332
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+II. Permiso de salida y regreso al país $359.73 $360
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-III. Autorización para realizar actividades remuneradas al Residente Temporal y al Residente Temporal estudiante $2,434.84 $2,435
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III. Autorización para realizar actividades remuneradas al Residente Temporal y al Residente Temporal estudiante $2,641.80 $2,642
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-IV. Autorización de la condición de estancia de Residente Temporal, cuando el extranjero acredite ser ministro de culto o pertenecer a una asociación religiosa, por cada año $800.00
+IV. Autorización de la condición de estancia de Residente Temporal, cuando el extranjero acredite ser ministro de culto o pertenecer a una asociación religiosa, por cada año $833.28 $833
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -593,7 +569,9 @@ IV. Autorización de la condición de estancia de Residente Temporal, cuando el 
 
 ###### ARTICULO 14.
 
-Por el estudio, trámite y, en su caso, autorización o renovación para ser miembro del Programa Viajero Confiable, se pagarán derechos conforme a la cuota de $1,372.00
+Por el estudio, trámite y, en su caso, autorización o renovación para ser miembro del Programa Viajero Confiable, se pagarán derechos conforme a la cuota de $1,429.08 $1,429
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -609,8 +587,6 @@ ajuste ajuste
 
 I.- En puertos marítimos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 a).- Por cada revisión de la
@@ -621,7 +597,7 @@ en embarcaciones cargueras, al
 
 desembarque y despacho,
 
-respectivamente $5,186.36 $5,186
+respectivamente $5,627.20 $5,627
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -629,21 +605,15 @@ respectivamente $5,186.36 $5,186
 
 b).- Por cada revisión de la documentación de la tripulación de las embarcaciones turísticas comerciales, al desembarque y despacho, respectivamente, de acuerdo al número de personas a bordo:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+1. De 1 a 500 personas $3,517.81 $3,518
 
-1. De 1 a 500 personas $3,242.22 $3,242
+2. De 501 a 1000 personas $4,567.73 $4,568
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+3. De 1001 a 1500 personas $5,439.09 $5,439
 
-2. De 501 a 1000 personas $4,209.89 $4,210
+4. De 1501 personas,
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-3. De 1001 a 1500 personas $5,012.99 $5,013
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-4. De 1501 personas, en adelante $5,701.33 $5,701
+en adelante $6,185.94 $6,186
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -652,8 +622,6 @@ Cuando el servicio migratorio extraordinario en puertos marítimos se preste a e
 > <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
 No se pagarán los derechos por servicios migratorios extraordinarios, cuando por causas no imputables al contribuyente, los servicios migratorios se tengan que proporcionar en días y horas inhábiles o en lugares distintos a las oficinas migratorias.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 II.- En aeropuertos
 
@@ -665,7 +633,7 @@ de pasajeros en vuelos de
 
 fletamento, al ingreso y a la
 
-salida del país $1,576.01 $1,576
+salida del país $1,709.97 $1,710
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -681,7 +649,7 @@ Tratándose de las aeronaves particulares que sin fines de lucro se utilicen par
 
 (DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -689,7 +657,7 @@ Tratándose de las aeronaves particulares que sin fines de lucro se utilicen par
 
 ###### ARTICULO 15.
 
-Por el estudio, trámite y, en su caso, la expedición de la tarjeta de viaje APEC Business Travel Card (ABTC), se pagarán derechos conforme a la cuota de $1,117.00
+Por el estudio, trámite y, en su caso, la expedición de la tarjeta de viaje APEC Business Travel Card (ABTC), se pagarán derechos conforme a la cuota de $1,163.47 $1,163
 
 Por la reposición de la tarjeta, se pagará la misma cuota.
 
@@ -745,6 +713,8 @@ No pagarán los derechos a los que se refiere esta Sección los extranjeros que 
 
 #### SECCION SEGUNDA. Certificados de Licitud
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 ###### ARTICULO 19.
 
 Por la expedición de certificados de licitud de título y contenido de publicaciones y revistas y el duplicado de los mismos, se pagarán derechos conforme a las siguientes cuotas:
@@ -753,33 +723,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I.- Certificado de licitud de título $2,529.56 $2,530
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Certificado de licitud de título $2,744.57 $2,745
 
 II.- Certificado de licitud de
 
-contenido $3,162.05 $3,162
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+contenido $3,430.82 $3,431
 
 III.- Duplicado de certificado de
 
-licitud de título $1,264.60 $1,265
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+licitud de título $1,372.09 $1,372
 
 IV.- Duplicado de licitud de
 
-contenido $1,580.76 $1,581
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+contenido $1,715.12 $1,715
 
 V.- Registro de cambio de
 
-editor responsable $2,252.83 $2,253
+editor responsable $2,444.32 $2,444
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -799,7 +759,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 19-A.
 
@@ -813,7 +773,7 @@ pagará el derecho de publicaciones
 
 por octavo de plana, conforme a la
 
-cuota de $1,594.78 $1,595
+cuota de $1,730.34 $1,730
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -833,6 +793,8 @@ Los Poderes Legislativo y Judicial, así como las dependencias y entidades de la
 
 #### SECCION CUARTA. Servicios de Cinematografía, Televisión y Radio
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 19-C.
@@ -849,15 +811,11 @@ ajuste ajuste
 
 I. Por la supervisión, clasificación y autorización de cada material cinematográfico en cualquier formato o modalidad:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-a). Avance publicitario $616.48 $616
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). Avance publicitario $668.88 $669
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -865,13 +823,19 @@ a). Avance publicitario $616.48 $616
 
 b). Película destinada a
 
-exhibición pública $4,937.02 $4,937
+exhibición pública $5,356.67 $5,357
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Los contribuyentes podrán
 
-Los contribuyentes podrán optar por pagar el derecho a que se refiere este inciso por cada minuto de duración de la película conforme a la cuota de $54.91 $55
+optar por pagar el derecho
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a que se refiere este inciso por
+
+cada minuto de duración de
+
+la película conforme a la
+
+cuota de $59.58 $60
 
 c).- Videograma o material
 
@@ -879,7 +843,7 @@ grabado, en cualquier formato
 
 o modalidad, por cada media
 
-hora o fracción $910.94 $911
+hora o fracción $988.37 $988
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -903,6 +867,8 @@ IV.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 19-E.
@@ -917,8 +883,6 @@ ajuste ajuste
 
 I.- Por el trámite y estudio y, en su caso, la autorización anual al concesionario o permisionario de un sistema de televisión abierta, por cable, de señal restringida terrestre o satelital, para transmisión o distribución en México, de programación originada, desarrollada o proveniente del extranjero:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 a).- Por cada canal cuya
@@ -927,9 +891,7 @@ programación, en más del
 
 50% de su tiempo, esté en
 
-el supuesto de esta fracción $8,732.71 $8,733
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+el supuesto de esta fracción $9,474.99 $9,475
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -943,7 +905,7 @@ de derechos de explotación
 
 comercial, que no corresponda
 
-al supuesto del inciso anterior $873.13 $873
+al supuesto del inciso anterior $947.35 $947
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -951,29 +913,23 @@ al supuesto del inciso anterior $873.13 $873
 
 II. Tratándose de programas de concurso:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a). Por el trámite y estudio y, en
 
 su caso, la autorización anual
 
 o modificación de las condiciones
 
-de programa de concurso $1,084.66 $1,085
+de programa de concurso $1,176.86 $1,177
 
 b). Por la supervisión de programa de concurso por cada hora o fracción, se pagarán las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+1. Horario ordinario de servicio $945.23 $945
 
-1. Horario ordinario de servicio $871.18 $871
+2. Fuera de horario ordinario de
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-2. Fuera de horario ordinario de servicio $1,219.66 $1,220
+servicio $1,323.33 $1,323
 
 Para los efectos de este inciso, se entiende como horario ordinario de servicio el comprendido de las 9:00 a las 18:00 horas, de lunes a viernes.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -983,7 +939,7 @@ en su caso, la autorización anual
 
 por transmisiones en idioma
 
-extranjero $1,084.66 $1,085
+extranjero $1,176.86 $1,177
 
 IV.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
@@ -993,11 +949,7 @@ V.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 VI.- Por el trámite, estudio y, en su caso, clasificación y autorización de:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-a) Películas, por cada una $1,595.12 $1,595
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a) Películas, por cada una $1,730.71 $1,731
 
 b) Telenovelas y teleteatros
 
@@ -1005,11 +957,9 @@ grabados destinados a su
 
 exhibición en televisión, por
 
-capítulo $965.08 $965
+capítulo $1,047.11 $1,047
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c) Series filmadas, por capítulo $711.46 $711
+c) Series filmadas, por capítulo $771.93 $772
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1021,17 +971,15 @@ VIII.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 IX.- Cuando los servicios a que se refiere la fracción VI de este artículo, se presten fuera del horario ordinario o de las instalaciones de la Dirección General de Radio, Televisión y Cinematografía, se pagarán adicionalmente, por hora de servicio, las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- Por la primera hora $277.17 $277
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por la primera hora $300.73 $301
 
 b).- Por cada hora o fracción
 
-adicional $138.55 $139
+adicional $150.33 $150
 
 Para efectos de esta fracción se entiende como horario ordinario el de 9:00 a 18:00 horas.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1043,8 +991,6 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el trámite y estudio y, en
 
 su caso, la autorización anual
@@ -1055,7 +1001,7 @@ en México, de programación
 
 originada, desarrollada o
 
-proveniente del extranjero $476.83 $477
+proveniente del extranjero $517.36 $517
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1063,29 +1009,23 @@ proveniente del extranjero $476.83 $477
 
 II. Tratándose de programas de concurso:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a). Por el trámite y estudio y, en
 
 su caso, la autorización anual
 
 o modificación de las condiciones
 
-de programa de concurso $1,084.66 $1,085
+de programa de concurso $1,176.86 $1,177
 
 b). Por la supervisión de programa de concurso por cada hora o fracción, se pagarán las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+1. Horario ordinario de servicio $945.23 $945
 
-1. Horario ordinario de servicio $871.18 $871
+2. Fuera de horario ordinario de
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-2. Fuera de horario ordinario de servicio $1,219.66 $1,220
+servicio $1,323.33 $1,323
 
 Para los efectos de este inciso, se entiende como horario ordinario de servicio el comprendido de las 9:00 a las 18:00 horas, de lunes a viernes.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 III.- Por el trámite y estudio y, en
 
@@ -1093,7 +1033,7 @@ su caso, la autorización anual
 
 por transmisiones en idioma
 
-extranjero $1,084.66 $1,085
+extranjero $1,176.86 $1,177
 
 IV.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
@@ -1105,7 +1045,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 19-G.
 
@@ -1115,7 +1055,7 @@ apostillamiento de documentos
 
 públicos federales, por cada
 
-documento $640.94 $640
+documento $694.67 $695
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1124,6 +1064,8 @@ No se pagará el derecho por el apostillamiento de documentos públicos que sean
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 #### SECCION SEXTA. Servicios insulares
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1141,23 +1083,19 @@ ajuste ajuste
 
 I.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 II.- Por el estudio y trámite de
 
 la solicitud de concesión en
 
-territorio insular $1,478.45 $1,478
+territorio insular $1,604.12 $1,604
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 III.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 IV.- Por la expedición de la
 
-concesión en territorio insular $2,957.12 $2,957
+concesión en territorio insular $3,208.48 $3,208
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1187,6 +1125,8 @@ V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 #### SECCION PRIMERA. Pasaportes y Documentos de Identidad y Viaje
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 20.
@@ -1197,8 +1137,6 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 I. Pasaportes ordinarios y
@@ -1207,9 +1145,7 @@ documentos de identidad y
 
 viaje con validez hasta por un
 
-año $475.07 $475
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+año $515.45 $515
 
 > <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -1219,9 +1155,7 @@ documentos de identidad y
 
 viaje con validez mayor a un
 
-año y hasta por tres años $987.15 $985
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+año y hasta por tres años $1,071.06 $1,070
 
 > <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -1231,33 +1165,25 @@ documentos de identidad y
 
 viaje con validez mayor a
 
-tres años y hasta por seis años $1,357.33 $1,355
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+tres años y hasta por seis años $1,472.71 $1,475
 
 IV.- Pasaportes ordinarios
 
 con validez hasta por diez
 
-años $2,087.31 $2,085
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+años $2,264.73 $2,265
 
 V.- Pasaportes oficiales con
 
-validez hasta por un año $393.21 $395
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+validez hasta por un año $426.63 $425
 
 VI.- Pasaportes oficiales con
 
-validez hasta por dos años $393.21 $395
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+validez hasta por dos años $426.63 $425
 
 VII.- Por el refrendo de
 
-pasaportes oficiales $235.84 $235
+pasaportes oficiales $255.89 $255
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -1283,6 +1209,8 @@ Los Diputados y Senadores del Congreso de la Unión y los miembros del Servicio 
 
 #### SECCION SEGUNDA. ServiciosConsulares (sic)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
 ###### ARTICULO 22.
@@ -1293,37 +1221,29 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I.- Actuaciones matrimoniales $654.56 $655
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Actuaciones matrimoniales $710.20 $710
 
 II.- Legalización de firmas o
 
-Sellos $555.76 $555
+Sellos $603.00 $605
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Visas de:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Certificados de análisis, de
 
 libre venta, de origen y médicos,
 
-por cada uno $666.91 $665
+por cada uno $723.60 $725
 
 b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 c).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 d).- Ordinarias en pasaportes
 
-extranjeros $555.76 $555
+extranjeros $603.00 $605
 
 e).- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -1335,49 +1255,41 @@ Los derechos por la expedición de las visas ordinarias en pasaportes extranjero
 
 IV.- Expedición de certificados de:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-a). Constitución de sociedades extranjeras y de pasavantes o patentes provisionales de navegación, por cada uno $2,791.35 $2,790
+a). Constitución de sociedades
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+extranjeras y de pasavantes o
+
+patentes provisionales de
+
+navegación, por cada uno $3,028.61 $3,030
 
 b).- Matrícula consular a
 
-mexicanos, por cada una $419.97 $420
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+mexicanos, por cada una $455.67 $455
 
 c).- Importación de psicotrópicos
 
-y estupefacientes $951.52 $950
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y estupefacientes $1,032.40 $1,030
 
 d).- Copia certificada de actas del
 
-registro civil, por cada una $197.55 $200
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+registro civil, por cada una $214.34 $215
 
 e).- De los que se expiden a
 
-petición de parte, por cada uno $950.96 $950
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+petición de parte, por cada uno $1,031.79 $1,030
 
 f).- Lista de menaje de casa
 
-a mexicanos $1,455.16 $1,455
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a mexicanos $1,578.85 $1,580
 
 g).- Lista de menaje de casa a
 
-extranjeros $1,949.38 $1,950
+extranjeros $2,115.08 $2,115
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1393,6 +1305,8 @@ Cuando los servicios a que se refiere este artículo, sean prestados en territor
 
 Los derechos que se obtengan por concepto de las fracciones anteriores se destinarán a la integración del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano, con excepción de los que sean prestados en territorio nacional.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 23.
@@ -1403,55 +1317,39 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la renuncia de derechos
 
-Hereditarios $1,766.19 $1,765
+Hereditarios $1,916.32 $1,915
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 II.- Por los mandatos o poderes, así como la revocación de los mismos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Generales o especiales
 
-otorgados por personas físicas $1,766.19 $1,765
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+otorgados por personas físicas $1,916.32 $1,915
 
 b).- Generales o especiales
 
-otorgados por personas morales $2,655.48 $2,655
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+otorgados por personas morales $2,881.20 $2,880
 
 III.- Por cada testamento
 
-público abierto $4.520.55 $4,520
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+público abierto $4.904.80 $4,905
 
 IV.- Por la expedición de
 
 subsecuentes testimonios,
 
-por hoja $111.10 $110
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+por hoja $120.54 $120
 
 V.- Por la recepción de cada
 
-testamento ológrafo $2,260.22 $2,260
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+testamento ológrafo $2,452.34 $2,450
 
 VI.- Por cada testamento
 
-público cerrado $617.54 $620
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+público cerrado $670.03 $670
 
 VII.- Por las autorizaciones
 
@@ -1461,15 +1359,13 @@ que ejerzan la patria potestad
 
 o la tutela sobre menores o
 
-incapaces $679.27 $680
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+incapaces $737.01 $735
 
 VIII.- Por otras certificaciones
 
 distintas a las señaladas en el
 
-artículo 22 de esta Ley $174.94 $175
+artículo 22 de esta Ley $189.81 $190
 
 Siempre que una escritura notarial contenga diversos contratos o actos, los derechos se fiarán por cada uno de los contratos o actos principales y en un 50% por los accesorios y complementarios.
 
@@ -1569,6 +1465,8 @@ IX.- Por la expedición de los certificados de presunción de nacionalidad mexic
 
 #### SECCION TERCERA. Permisos Conforme al Artículo 27 Constitucional y Cartas de Naturalización
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 25.
@@ -1587,21 +1485,17 @@ I.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2011)
 
 II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Por el examen de cada solicitud
 
 de permiso a que se refieren las
 
-fracciones IV, V, y VII $334.48 $335
+fracciones IV, V, y VII $362.91 $365
 
 IV.- Para la celebración de contratos u obtención de concesiones:
 
 a).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 b).- Obtención de concesiones
 
@@ -1609,7 +1503,7 @@ del Gobierno Federal o de los
 
 gobiernos de las Entidades
 
-Federativas o de los Municipios $5,894.47 $5,895
+Federativas o de los Municipios $6,395.50 $6,395
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1617,17 +1511,13 @@ Federativas o de los Municipios $5,894.47 $5,895
 
 V.- Por la expedición de permisos para la constitución de fideicomisos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Por los permisos para
 
 constituir fideicomisos a que
 
 se refiere el artículo 11 de la
 
-Ley de Inversión Extranjera $12,143.37 $12,145
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Ley de Inversión Extranjera $13,175.56 $13,175
 
 b).- Para la modificación de
 
@@ -1635,9 +1525,7 @@ los permisos para la constitución
 
 de los fideicomisos a que se
 
-refiere el inciso anterior $5,463.58 $5,465
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+refiere el inciso anterior $5,927.98 $5,930
 
 c).- Por la solicitud extemporánea
 
@@ -1649,17 +1537,13 @@ de fideicomiso, de conformidad
 
 con lo dispuesto en la Ley de
 
-Inversión Extranjera $5,953.53 $5,955
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Inversión Extranjera $6,459.58 $6,460
 
 d).- Para los demás casos no
 
 señalados en los incisos
 
-anteriores $401.22 $400
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+anteriores $435.32 $435
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1677,7 +1561,7 @@ exploración y explotación
 
 de minas o aguas en el
 
-territorio nacional $5,894.47 $5,895
+territorio nacional $6,395.50 $6,395
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1688,8 +1572,6 @@ VIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IX.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 X.- Por la presentación de
 
@@ -1705,7 +1587,7 @@ extranjeros en zona
 
 restringida, destinados a
 
-fines no residenciales $826.61 $825
+fines no residenciales $896.87 $895
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1717,8 +1599,6 @@ b).- (DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
 
 c).- (DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 d).- De aviso de adquisición de
 
 bienes inmuebles por sociedades
@@ -1729,17 +1609,17 @@ admisión de extranjeros en zona
 
 restringida, destinados a fines no
 
-residenciales. $6,354.75 $6,355
+residenciales. $6,894.90 $6,895
 
 XII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 XIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 XIV.- Los no especificados
 
-en las fracciones anteriores $401.22 $400
+en las fracciones anteriores $435.32 $435
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -1755,9 +1635,7 @@ ajuste ajuste
 
 I.- Por los documentos expedidos con fundamento en el artículo 30, Apartado A, 32 y 37, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- Por expedición $233.06 $235
+a).- Por expedición $252.87 $255
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1767,13 +1645,11 @@ b).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 II.- En las cartas de naturalización a las que se refiere la fracción I del Apartado B del citado precepto constitucional:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a). Por la recepción, estudio y, en
 
 su caso, expedición de la carta de
 
-naturalización $4,110.01 $4,110
+naturalización $4,459.36 $4,460
 
 b). (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -1785,13 +1661,11 @@ c). (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 III. En las cartas de naturalización a que se refiere la fracción II del Apartado B del artículo 30 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 20, fracciones II y III de la Ley de Nacionalidad:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a). Por la recepción, estudio y,
 
 en su caso, expedición de cada
 
-carta de naturalización $1,449.08 $1,450
+carta de naturalización $1,572.25 $1,570
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1829,6 +1703,8 @@ I.- El importe de los estímulos que se concedan de conformidad con la Ley del I
 
 II.- El importe de los estímulos cuando en la disposición en que se otorguen, se exima expresamente del pago de estos derechos.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 29.
@@ -1838,8 +1714,6 @@ Por los siguientes servicios que presta la Comisión Nacional Bancaria y de Valo
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I. Por el estudio y trámite de la
 
@@ -1859,9 +1733,7 @@ inversión y sociedades
 
 valuadoras de acciones de
 
-sociedades de inversión: $24,966.76 $24,967
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+sociedades de inversión: $27,088.93 $27,089
 
 II. Por la autorización para la
 
@@ -1879,9 +1751,7 @@ inversión y sociedades
 
 valuadoras de acciones de
 
-sociedades de inversión: $256,768.84 $256,769
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+sociedades de inversión: $278,594.19 $278,594
 
 III. Por la autorización para la
 
@@ -1895,9 +1765,7 @@ de inversión de capitales o de
 
 sociedades de inversión de
 
-objeto limitado: $224,783.30 $2224,783
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+objeto limitado: $243,889.88 $243,890
 
 IV. Por el estudio y trámite de
 
@@ -1907,9 +1775,7 @@ sociedades inmobiliarias y
 
 empresas de servicios auxiliares
 
-o complementarios: $24,966.76 $24,967
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o complementarios: $27,088.93 $27,089
 
 V. Por el estudio y trámite de
 
@@ -1919,17 +1785,13 @@ la constitución y operación de
 
 una institución calificadora de
 
-valores: $22,108.17 $22,108
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+valores: $23,987.36 $23,987
 
 VI. Por la autorización de una
 
 institución calificadora de
 
-valores: $256,768.84 $256,769
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+valores: $278,594.19 $278,594
 
 VII. Por el estudio y trámite de
 
@@ -1943,9 +1805,7 @@ renta variable, en instrumentos
 
 de deuda, de capitales y de objeto
 
-limitado: $20,605.02 $20,605
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+limitado: $22,356.45 $22,356
 
 VIII. Por el estudio y trámite de
 
@@ -1953,25 +1813,19 @@ la solicitud de autorización para
 
 la constitución y operación de
 
-uniones de crédito: $22,108.15 $22,108
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+uniones de crédito: $23,987.34 $23,987
 
 IX. Por la autorización para la
 
 constitución y operación de
 
-uniones de crédito: $227,368.96 $227,369
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+uniones de crédito: $246,695.32 $246,695
 
 X. Por cualquier certificación que
 
 se expida relativa al Registro
 
-Nacional de Valores: $430.04 $430
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Nacional de Valores: $466.59 $467
 
 XI. Por el estudio y trámite de
 
@@ -1985,9 +1839,7 @@ las Federaciones a que se
 
 refiere la Ley de Ahorro y
 
-Crédito Popular $34,342.01 $34,342
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Crédito Popular $37,261.08 $37,261
 
 XII. Por el estudio y trámite
 
@@ -2009,7 +1861,7 @@ de Integración Financiera Rural
 
 a que se refiere la Ley de
 
-Ahorro y Crédito Popular $20,605.20 $20,605
+Ahorro y Crédito Popular $22,356.64 $22,357
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2017,25 +1869,19 @@ Ahorro y Crédito Popular $20,605.20 $20,605
 
 El derecho a que se refiere esta fracción se pagará también por el estudio y trámite de la solicitud y, en su caso, autorización para realizar operaciones de ahorro y préstamo, de sociedades cooperativas de ahorro y préstamo a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 XIII. Por el estudio y trámite de
 
 la solicitud de autorización para
 
 la constitución y operación de
 
-casas de bolsa: $22,108.15 $22,108
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+casas de bolsa: $23,987.34 $23,987
 
 XIV. Por la autorización para
 
 la constitución y operación de
 
-casas de bolsa: $320,593.79 $320,594
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+casas de bolsa: $347,844.26 $347,844
 
 XV. Por el estudio y trámite de la
 
@@ -2047,9 +1893,7 @@ sociedades que administran
 
 sistemas para facilitar operaciones
 
-con valores: $22,108.15 $22,108
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+con valores: $23,987.34 $23,987
 
 XVI. Por la autorización para la
 
@@ -2059,9 +1903,7 @@ sociedades que administran
 
 sistemas para facilitar operaciones
 
-con valores: $227,368.96 $227,369
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+con valores: $246,695.32 $246,695
 
 XVII. Por el estudio y trámite de la
 
@@ -2069,17 +1911,13 @@ solicitud de autorización para la
 
 constitución y operación de
 
-proveedores de precios: $22,108.15 $22,108
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+proveedores de precios: $23,987.34 $23,987
 
 XVIII. Por la autorización para la
 
 constitución y operación de
 
-proveedores de precios: $227,368.96 $227,369
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+proveedores de precios: $246,695.32 $246,695
 
 XIX. Por el estudio y trámite de la
 
@@ -2087,9 +1925,7 @@ solicitud para obtener el
 
 reconocimiento como organismo
 
-autorregulatorio: $32,059.38 $32,059
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+autorregulatorio: $34,784.43 $34,784
 
 XX. Por el estudio y trámite de
 
@@ -2099,9 +1935,7 @@ el establecimiento de oficinas de
 
 representación de entidades
 
-financieras del exterior: $19,235.63 $19,236
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+financieras del exterior: $20,870.66 $20,871
 
 XXI. Por la autorización para la
 
@@ -2111,35 +1945,43 @@ sociedades de inversión de renta
 
 variable, en instrumentos de deuda,
 
-de capitales y de objeto limitado: $39,653.82 $39,654
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de capitales y de objeto limitado: $43,024.39 $43,024
 
 XXII. Por la autorización para el
 
 inicio de operaciones de casas de
 
-bolsa: $987,150.610 $987,150
+bolsa: $1,071,057.86 $1,071,058
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XXIII. Por el estudio y trámite
 
-XXIII. Por el estudio y trámite de la solicitud de autorización para la constitución y operación de instituciones de banca múltiple: $39,493.44 $39,493
+de la solicitud de autorización
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+para la constitución y operación
 
-XXIV. Por la autorización para la constitución y operación de instituciones de banca múltiple: $580,785.86 $580,786
+de instituciones de banca múltiple: $42,850.38 $42,850
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XXIV. Por la autorización
 
-XXV. Por la autorización para el inicio de operaciones de instituciones de banca múltiple: $1,858,514.74 $1,858,515
+para la constitución y operación
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de instituciones de banca múltiple: $630,152.66 $630,153
+
+XXV. Por la autorización
+
+para el inicio de operaciones
+
+de instituciones de banca
+
+múltiple: $2,016,488.49 $2,016,488
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-XXVI. Por el estudio, trámite y, en su caso, emisión o renovación del dictamen técnico en materia de prevención, detección y reporte de actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139, 148 Bis o 400 Bis del Código Penal Federal, que soliciten los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas para obtener su registro: $20,000.00
+XXVI. Por el estudio, trámite y, en su caso, emisión o renovación del dictamen técnico en materia de prevención, detección y reporte de actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139, 148 Bis o 400 Bis del Código Penal Federal, que soliciten los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas para obtener su registro: $20,832.00 $20,832
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2151,19 +1993,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I. Solicitud de inscripción o
 
 actualización de la misma y/o
 
-autorización de oferta pública: $18,245.85 $18,246
+autorización de oferta pública: $19,796.75 $19,797
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 No se pagarán los derechos a que se refiere esta fracción, cuando en términos del primer párrafo del artículo 93 de la Ley del Mercado de Valores, se solicite la inscripción genérica de instrumentos de deuda en el Registro Nacional de Valores.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 II. Solicitud de autorización de
 
@@ -2173,11 +2011,13 @@ de promoción, comercialización o
 
 publicidad sobre valores, dirigida
 
-al público en general: $18,245.85 $18,246
+al público en general: $19,796.75 $19,797
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 No se pagarán los derechos a que se refiere esta fracción, cuando la solicitud se presente conjuntamente con la autorización señalada en la fracción I de este artículo.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2199,8 +2039,6 @@ a). Tratándose de acciones:
 
 1. Emitidas por Sociedades Anónimas Bursátiles:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013..</small>
-
 0.7 al millar del capital
 
 contable de la emisora
@@ -2209,11 +2047,9 @@ sin que los derechos a
 
 pagar por este concepto
 
-excedan de: $2,903,929.28 $2,903,929
+excedan de: $3,150,763.27 $3,150,763
 
 2. Emitidas por Sociedades Anónimas Promotoras de Inversión Bursátil:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.35 al millar del capital
 
@@ -2223,13 +2059,11 @@ sin que los derechos a
 
 pagar por este concepto
 
-excedan de: $1,451,964.64 $1,451,965
+excedan de: $1,575,381.63 $1,575,382
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 3. Emitidas por sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa, casas de cambio, almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple y demás entidades financieras autorizadas:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.7 al millar del capital
 
@@ -2239,15 +2073,13 @@ sin que los derechos a
 
 pagar por este concepto
 
-excedan de: $2,903,929.28 $2,903,929
+excedan de: $3,150,763.27 $3,150,763
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 b). Tratándose de títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación sobre bienes o derechos muebles o inmuebles y otros valores:
 
 1. Con vigencia mayor a un año:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.7 al millar sobre el
 
@@ -2257,13 +2089,11 @@ que los derechos a
 
 pagar por este concepto
 
-excedan de: $2,903,929.28 $2,903,929
+excedan de: $3,150,763.27 $3,150,763
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 2.- Con vigencia igual o menor a un año, distintos a los señalados en el numeral 3 de este inciso:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.5 al millar del monto
 
@@ -2279,13 +2109,11 @@ de la autorización por
 
 programa
 
-excedan de: $813,100.20 $813,100
+excedan de: $882,213.72 $882,214
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 3.- En el caso de títulos suscritos o emitidos por instituciones de crédito representativos de un pasivo a su cargo, por tipo de valor, con vigencia igual o menor a un año:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.27 al millar del monto
 
@@ -2299,7 +2127,7 @@ pagar por este concepto
 
 en un ejercicio
 
-excedan de: $813,100.20 $813,100
+excedan de: $882,213.72 $882,214
 
 c). Tratándose de acciones de sociedades de inversión:
 
@@ -2313,8 +2141,6 @@ c). Tratándose de acciones de sociedades de inversión:
 
 d). Tratándose de títulos opcionales emitidos por sociedades anónimas incluyendo casas de bolsa, instituciones de crédito y filiales de entidades financieras del exterior del mismo tipo:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 0.5 al millar respecto al
 
 monto total de las primas
@@ -2323,13 +2149,11 @@ de emisión sin que los
 
 derechos a pagar
 
-excedan de: $2,903,929.28 $2,903,929
+excedan de: $3,150,763.27 $3,150,763
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 e). Tratándose de valores con plazo mayor a un año emitidos por entidades paraestatales de la Administración Pública Federal y/o valores fiduciarios en los que dichas entidades actúen exclusivamente en su carácter de fideicomitentes o fideicomisarios:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.7 al millar sobre el
 
@@ -2339,13 +2163,11 @@ los derechos a pagar por
 
 este concepto
 
-excedan de: $2,903,929.28 $2,903,929
+excedan de: $3,150,763.27 $3,150,763
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 f). Tratándose de valores emitidos por las entidades federativas y municipios, así como por los organismos descentralizados de las entidades federativas o municipios o valores fiduciarios en los que dichas personas morales actúen exclusivamente en su carácter de fideicomitentes o fideicomisarios:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.7 al millar sobre el
 
@@ -2355,13 +2177,11 @@ los derechos a pagar
 
 por este concepto
 
-excedan de: $2,903,929.28 $2,903,929
+excedan de: $3,150,763.27 $3,150,763
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 g). Tratándose de certificados, pagarés y otros valores emitidos o garantizados por el Gobierno Federal, en términos del artículo 93 de la Ley del Mercado de Valores, por tipo de valor:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.27 al millar del monto
 
@@ -2375,11 +2195,9 @@ pagar por este concepto en
 
 un ejercicio
 
-excedan de: $813,100.20 $813,100
+excedan de: $882,213.72 $882,214
 
 h). Tratándose de bonos de regulación monetaria emitidos por el Banco de México:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.27 al millar del monto
 
@@ -2391,7 +2209,7 @@ que los derechos a pagar
 
 por este concepto en un ejercicio
 
-excedan de: $813,100.20 $813,100
+excedan de: $882,213.72 $882,214
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2400,8 +2218,6 @@ excedan de: $813,100.20 $813,100
 i). Tratándose de emisores de valores que mantengan inscritos valores de los señalados en los incisos a), b) numeral 1, e) y f), de esta fracción, en sustitución de la cuota de inscripción inicial o ampliación señalada en los incisos b), numerales 1 y 2, e) y f), anteriores:
 
 1. Con vigencia mayor a un año:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.35 al millar sobre
 
@@ -2413,13 +2229,11 @@ pagar por este
 
 concepto
 
-excedan de $2,903,929.28 $2,903,929
+excedan de $3,150,763.27 $3,150,763
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 2.- En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuadas o no al amparo de cada programa:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.27 al millar del monto
 
@@ -2427,9 +2241,7 @@ emitido sin que los
 
 derechos a pagar por año
 
-excedan de: $813,100.20 $813,100
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+excedan de: $882,213.72 $882,214
 
 j). Tratándose de emisoras
 
@@ -2467,9 +2279,7 @@ derechos a pagar por este
 
 concepto
 
-excedan de: $813,100.20 $813,100
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+excedan de: $882,213.72 $882,214
 
 k). Tratándose de la
 
@@ -2491,9 +2301,7 @@ los derechos a pagar por
 
 este concepto
 
-excedan de: $2,903,929.28 $2,903,929
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+excedan de: $3,150,763.27 $3,150,763
 
 l). Tratándose de la
 
@@ -2523,7 +2331,7 @@ derechos a pagar
 
 por este concepto
 
-excedan de: $813,100.20 $813,100
+excedan de: $882,213.72 $882,214
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2533,8 +2341,6 @@ m). Tratándose de títulos fiduciarios y demás valores emitidos al amparo de f
 
 1. Con vigencia mayor a un año:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 0.9 al millar sobre el
 
 monto emitido sin que
@@ -2543,11 +2349,9 @@ los derechos a pagar por
 
 este concepto
 
-excedan de: $2,903,929.28 $2,903,929
+excedan de: $3,150,763.27 $3,150,763
 
 2. En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuadas o no, al amparo de cada programa:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.65 al millar sobre el
 
@@ -2557,7 +2361,7 @@ los derechos a pagar por
 
 año
 
-excedan de: $813,100.20 $813,100
+excedan de: $882,213.72 $882,214
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2567,8 +2371,6 @@ n). Tratándose de títulos fiduciarios y demás valores emitidos al amparo de f
 
 1. Con vigencia mayor a un año:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 0.45 al millar del monto
 
 emitido sin que los
@@ -2577,11 +2379,9 @@ derechos a pagar por
 
 este concepto
 
-excedan de: $2,903,929.28 $2,903,929
+excedan de: $3,150,763.27 $3,150,763
 
 2. En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuados o no, al amparo de cada programa:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.35 al millar del monto
 
@@ -2589,9 +2389,7 @@ emitido, sin que los
 
 derechos a pagar por año
 
-excedan de: $813,100.20 $813,100
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+excedan de: $882,213.72 $882,214
 
 ñ). Tratándose de títulos
 
@@ -2637,13 +2435,11 @@ emitido sin que los derechos
 
 a pagar por año
 
-excedan de: $813,100.20 $813,100
+excedan de: $882,213.72 $882,214
 
 II. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 III.- Cualquier canje de acciones que no implique un aumento en el monto de capital social inscrito, o de títulos de deuda con objeto de actualizar o modificar los datos de inscripción por concepto de capitalización de intereses, el otorgamiento o liberación de garantías, así como la sustitución de fiduciario en el caso de certificados de participación, no causarán derecho alguno por concepto de registro.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 IV. Inscripción preventiva
 
@@ -2651,7 +2447,7 @@ de acciones en el
 
 Registro Nacional de
 
-Valores: $11,615.72 $11,616
+Valores: $12,603.06 $12,603
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2668,6 +2464,8 @@ Tratándose de ampliación de la inscripción de acciones, la base del cobro ser
 ###### ARTICULO 29-C.
 
 (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2693,15 +2491,13 @@ a). El resultado de multiplicar 0.135636 al millar por el valor de los certifica
 
 b). El resultado de multiplicar 1.350500 al millar por el valor de sus otras cuentas por cobrar menos las estimaciones por irrecuperabilidad o difícil cobro de esas otras cuentas por cobrar.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 La cuota que resulte de
 
 conformidad con lo previsto
 
 en esta fracción, en ningún
 
-caso podrá ser inferior a: $320,593.79 $320,594
+caso podrá ser inferior a: $347,844.26 $347,844
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2721,11 +2517,9 @@ a). El resultado de multiplicar 0.275887 al millar, por el valor del total de lo
 
 b). El resultado de multiplicar 0.021500 al millar, por el valor de sus activos sujetos a riesgo totales.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 La cuota que resulte, en ningún
 
-caso será inferior a $6,169,688.14 $6,169,688
+caso será inferior a $6,694,111.63 $6,694,112
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2741,11 +2535,9 @@ a). El resultado de multiplicar 0.128561 al millar, por el valor del total de pa
 
 b). El resultado de multiplicar 0.007110 al millar, por el valor de sus activos sujetos a riesgo totales.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 La cuota que resulte, en ningún
 
-caso será inferior a $3,701,812.88 $3,701,813
+caso será inferior a $4,016,466.97 $4,016,467
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2783,11 +2575,9 @@ a). El resultado de multiplicar 4.000000 al millar, por el valor de su capital c
 
 b). El resultado de multiplicar 18.750000 al millar, por el importe que resulte de capital contable menos las disponibilidades netas, las cuales serán equivalentes a la suma de caja, billetes y monedas, saldos deudores de bancos, documentos de cobro inmediato, remesas en camino e inversiones en valores, menos los saldos acreedores de bancos. En este caso, cuando las disponibilidades netas sean negativas, la aplicación de la fórmula a que se refiere este inciso será equivalente a sumar el valor absoluto de dichas disponibilidades netas al capital contable.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 La cuota que resulte, en ningún
 
-caso será inferior a $493,575.05 $493,575
+caso será inferior a $535,528.23 $535,529
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2805,19 +2595,15 @@ Cada entidad que pertenezca al sector de Inmobiliarias, entendiéndose por ello 
 
 a). (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 La cuota que resulte, en ningún
 
-caso será inferior a $74,000.16 $74,000
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+caso será inferior a $80,290.17 $80,290
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-IX. Cada Federación constituida en los términos de la Ley de Ahorro y Crédito Popular pagará una cuota de $2,680,390.70, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural, que supervise:
+IX. Cada Federación constituida en los términos de la Ley de Ahorro y Crédito Popular pagará una cuota de $2,908,223.91, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural, que supervise:
 
 a). El resultado de multiplicar 0.10000 al millar, por el valor de sus pasivos totales;
 
@@ -2825,17 +2611,13 @@ b). El resultado de multiplicar 0.25000 al millar, por el valor de su cartera de
 
 c). El resultado de multiplicar 0.00800 al millar, por el valor de su cartera de crédito total menos las reservas preventivas.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, tal cuota en ningún caso podrá ser inferior a $21,443.13 por cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural que supervise la Federación de que se trate.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, tal cuota en ningún caso podrá ser inferior a $23,265.80 por cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural que supervise la Federación de que se trate.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-X. El Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores pagará una cuota de $16,082,344.20, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las Sociedades Cooperativas de Ahorro y Préstamo que supervise:
+X. El Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores pagará una cuota de $17,449,343.46, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las Sociedades Cooperativas de Ahorro y Préstamo que supervise:
 
 a). El resultado de multiplicar 0.10000 al millar, por el valor de sus pasivos;
 
@@ -2843,21 +2625,15 @@ b). El resultado de multiplicar 0.25000 al millar, por el valor de su cartera de
 
 c). El resultado de multiplicar 0.00800 al millar, por el valor de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, en ningún caso dicha cuota podrá ser inferior a $21,443.13 por cada sociedad que supervise el Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, en ningún caso dicha cuota podrá ser inferior a $23,265.80 por cada sociedad que supervise el Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-XI. Cada entidad que pertenezca al sector de Sociedades de Inversión, entendiéndose para estos efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, excluyendo a las Sociedades de Inversión Especializadas en Fondos de Ahorro para el Retiro, pagará una cuota de $1,157,928.78, o bien, podrá optar por pagar el equivalente al valor que resulte menor entre el total de las operaciones de venta de activos objeto de inversión que realice la Sociedad de Inversión y el total de las operaciones de compra de dichos activos, multiplicado por 0.0065 al millar.
+XI. Cada entidad que pertenezca al sector de Sociedades de Inversión, entendiéndose para estos efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, excluyendo a las Sociedades de Inversión Especializadas en Fondos de Ahorro para el Retiro, pagará una cuota de $1,256,352.73, o bien, podrá optar por pagar el equivalente al valor que resulte menor entre el total de las operaciones de venta de activos objeto de inversión que realice la Sociedad de Inversión y el total de las operaciones de compra de dichos activos, multiplicado por 0.0065 al millar.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-La cuota que resulte de la aplicación de la opción prevista en esta fracción en ningún caso podrá ser inferior a $23,231.43. $23,231
+La cuota que resulte de la aplicación de la opción prevista en esta fracción en ningún caso podrá ser inferior a $25,206.10
 
 Cuando las sociedades de inversión paguen derechos por inscripción de sus acciones en el Registro Nacional de Valores, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
 
@@ -2883,11 +2659,9 @@ b). El resultado de multiplicar 0.243000 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.011650 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 La cuota que resulte, en ningún
 
-caso será inferior a $197,430.02 $197,430
+caso será inferior a $214,211.57 $214,212
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2895,9 +2669,7 @@ XIV. Financiera Rural:
 
 La Financiera Rural, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a). Una cuota de $2,060,520.42 $2,060,520
+a). Una cuota de $2,235,664.66 $2,235,665
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2915,9 +2687,7 @@ XV. Fideicomisos Públicos:
 
 Los fideicomisos públicos, que conforme a la Ley de Instituciones de Crédito formen parte del Sistema Bancario Mexicano, pagarán una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a). Una cuota de $2,003,001.68 $2,003,002
+a). Una cuota de $2,173,256.82 $2,173,257
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2929,9 +2699,7 @@ XVI. Instituto del Fondo Nacional para el Consumo de los Trabajadores:
 
 El Instituto del Fondo Nacional para el Consumo de los Trabajadores, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a). Una cuota de: $1,869,867.14 $1,869,867
+a). Una cuota de: $2,028,805.85 $2,028,806
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2943,9 +2711,7 @@ XVII. Instituto del Fondo Nacional de la Vivienda para los Trabajadores:
 
 El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a). Una cuota de: $1,869,867.14 $1,869,867
+a). Una cuota de: $2,028,805.85 $2,028,806
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2969,15 +2735,13 @@ b). El resultado de multiplicar 0.257000 al millar, por el valor de su cartera v
 
 c). El resultado de multiplicar 0.014910 al millar, por el valor de su cartera menos las estimaciones preventivas para riesgos crediticios.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 La cuota que resulte de
 
 conformidad con lo previsto
 
 en esta fracción en ningún caso
 
-podrá ser inferior a: $616,968.82 $616,969
+podrá ser inferior a: $669,411.17 $669,411
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2987,15 +2751,13 @@ XIX. Sociedades Controladoras de Grupos Financieros:
 
 Cada entidad que pertenezca al sector de sociedades controladoras de grupos financieros, entendiéndose por ello a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará la cantidad que resulte de multiplicar 0.008129 al millar por el total del activo del balance general consolidado con subsidiarias.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 La cuota que resulte de
 
 conformidad con lo previsto
 
 en esta fracción, en ningún caso
 
-podrá ser inferior a: $897,662.62 $897,663
+podrá ser inferior a: $973,963.94 $973,964
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3005,9 +2767,7 @@ XX. Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los 
 
 El Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a). Una cuota de $1,814,313.45 $1,814,313
+a). Una cuota de $1,968,530.09 $1,968,530
 
 b). El resultado de multiplicar 0.020883 al millar, por el total de sus activos.
 
@@ -3020,6 +2780,8 @@ XXI. (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 En la elaboración de los cálculos aritméticos a que se refieren las fracciones I a X y XII a XX del presente artículo, no se considerarán los resultados negativos que, en su caso, se obtengan durante el proceso de cómputo de la cuota, salvo lo dispuesto en el inciso b) de la fracción VI de este artículo.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3041,8 +2803,6 @@ I. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 II. Bolsas de Futuros y Opciones:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 Cada entidad que pertenezca
 
 al sector de Bolsas de Futuros
@@ -3059,15 +2819,13 @@ y operar como tales en
 
 términos de las disposiciones
 
-aplicables, pagará la cuota $3,355,099.02 $3,355,099
+aplicables, pagará la cuota $3,640,282.44 $3,640,282
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 III. Bolsas de Valores:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Cada entidad que pertenezca
 
@@ -3085,15 +2843,13 @@ como tales en términos
 
 de la legislación aplicable,
 
-pagará la cuota de $8,387,747.55 $8,387,748
+pagará la cuota de $9,100,706.09 $9,100,706
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 IV. Cámaras de Compensación:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Cada entidad que pertenezca
 
@@ -3111,15 +2867,13 @@ en términos de la legislación
 
 aplicable, pagará la
 
-cuota de $2,795,915.85 $2,795,916
+cuota de $3,033,568.70 $3,033,569
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 V. Contrapartes Centrales:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Cada entidad que pertenezca
 
@@ -3135,13 +2889,11 @@ correspondiente en términos de
 
 la legislación aplicable, pagará
 
-la cuota de $2,795,915.85 $2,795,916
+la cuota de $3,033,568.70 $3,033,569
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 VI. Empresas de Servicios Complementarios:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Cada entidad que pertenezca
 
@@ -3161,9 +2913,7 @@ disposiciones aplicables, o en la
 
 realización de su objeto, pagará la
 
-cantidad de: $110,828.58 $110,829
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+cantidad de: $120,249.01 $120,249
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3195,7 +2945,7 @@ establecidas en el artículo
 
 95 Bis de la citada ley,
 
-la cuota de $31,083.00 $31,083
+la cuota de $33,725.06 $33,725
 
 VIII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -3206,8 +2956,6 @@ X. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XI. Instituciones Calificadoras de Valores:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Cada entidad que pertenezca
 
@@ -3225,15 +2973,13 @@ y sean autorizadas en términos
 
 de la Ley del Mercado de Valores,
 
-deberá pagar: $513,000.93 $513,001
+deberá pagar: $556,606.01 $556,606
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 XII. Instituciones para el Depósito de Valores:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Cada entidad que pertenezca
 
@@ -3251,13 +2997,11 @@ correspondiente en términos
 
 de la legislación aplicable,
 
-pagará la cuota de $5,032,648.53 $5,032,649
+pagará la cuota de $5,460,423.66 $5,460,424
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 XIII. Sociedades que administran sistemas para facilitar las operaciones con valores:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Cada entidad que pertenezca al
 
@@ -3271,13 +3015,11 @@ valores, autorizadas en términos
 
 de la Ley del Mercado de Valores
 
-pagará la cantidad de: $417,577.26 $417,577
+pagará la cantidad de: $453,071.33 $453,071
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XIV. Oficinas de Representación de Entidades Financieras del Exterior:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Cada entidad que pertenezca al
 
@@ -3289,13 +3031,11 @@ Financieras del Exterior, pagará
 
 por cada una de las Entidades
 
-que represente la cantidad de: $68,277.48 $68,277
+que represente la cantidad de: $74,081.07 $74,081
 
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 XV. Operadores del Mercado de Futuros y Opciones:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Cada entidad que pertenezca al
 
@@ -3303,7 +3043,7 @@ sector de Operadores del Mercado
 
 de Futuros y Opciones, pagará la
 
-cantidad de: $95,327.92 $95,328
+cantidad de: $103,430.79 $103,431
 
 Para efectos de lo previsto en esta fracción, se entenderá que pertenecen al sector de Operadores del Mercado de Futuros y Opciones, las instituciones de crédito, casas de bolsa y demás personas físicas y morales que pueden o no ser socios de la Bolsa de Futuros y Opciones en términos de lo previsto en las disposiciones que regulan a las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, y cuya función sea actuar como comisionista de uno o más Socios Liquidadores, en la celebración de contratos de futuros y contratos de opciones, y que pueden tener acceso al sistema electrónico de negociación de la bolsa para la celebración de dichos contratos.
 
@@ -3316,8 +3056,6 @@ Tratándose de instituciones de crédito o casas de bolsa que actúen simultáne
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 XVI. Organismos Autorregulatorios:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 a). Cada asociación gremial de
 
@@ -3337,9 +3075,7 @@ organismo autorregulatorio
 
 bancario o del mercado de
 
-valores, pagará la cantidad de: $441,749.67 $441,750
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+valores, pagará la cantidad de: $479,298.39 $479,298
 
 b). Los organismos
 
@@ -3379,9 +3115,7 @@ de crédito, así como de sus
 
 apoderados, pagarán la cantidad
 
-de: $1,233,937.63 $1,233,938
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de: $1,338,822.33 $1,338,822
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3399,13 +3133,11 @@ refiere la Ley de Ahorro y
 
 Crédito Popular pagará la
 
-cuota de: $21,443.13 $21,443
+cuota de: $23,265.80 $23,266
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XVIII. Proveedores de Precios:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Cada entidad que pertenezca
 
@@ -3415,15 +3147,13 @@ autorizados en términos de la Ley
 
 del Mercado de Valores
 
-pagará: $631,149.23 $631,149
+pagará: $684,796.91 $684,797
 
 XIX. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XX. Sociedades de Información Crediticia:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Cada entidad que pertenezca
 
@@ -3441,7 +3171,7 @@ a las Sociedades de Información
 
 Crediticia, pagará la cantidad
 
-de: $1,172,240.74 $1,172,241
+de: $1,271,881.20 $1,271,881
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3449,17 +3179,13 @@ XXI. Sociedades Distribuidoras de Acciones de Sociedades de Inversión:
 
 Cada entidad que pertenezca al sector de Sociedades Distribuidoras de Acciones de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará conforme a lo siguiente:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a). Que actúen como
 
-referenciadoras: $43,187.82 $43,188
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+referenciadoras: $46,858.78 $46,859
 
 b). Que actúen como
 
-integrales: $86,375.64 $86,376
+integrales: $93,717.57 $93,718
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -3471,25 +3197,19 @@ XXII. Sociedades Operadoras de Sociedades de Inversión:
 
 Cada entidad que pertenezca al sector de Sociedades Operadoras de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará conforme a lo siguiente:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a). De renta variable y
 
 de inversión en instrumentos
 
-de deuda: $86,795.17 $86,795
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de deuda: $94,172.76 $94,173
 
 b). De capitales o de
 
-objeto limitado: $73,777.14 $73,777
+objeto limitado: $80,048.20 $80,048
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XXIII. Sociedades Valuadoras de Acciones de Sociedades de Inversión:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Cada entidad que pertenezca
 
@@ -3507,9 +3227,7 @@ Sociedades de Inversión,
 
 pagará la cantidad de
 
-por cada Fondo valuado. $844.01
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+por cada Fondo valuado. $915.75 $916
 
 La cuota que resulte de
 
@@ -3517,21 +3235,21 @@ conformidad con lo previsto en
 
 esta fracción, en ningún caso
 
-podrá ser inferior a $35,423.55 $35,424
+podrá ser inferior a $38,434.55 $38,435
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XXIV. Socios Liquidadores:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 Cada entidad que pertenezca al
 
 sector de Socios Liquidadores
 
-pagará la cantidad de: $598,596.62 $598,597
+pagará la cantidad de: $649,477.33 $649,477
 
 Para efectos de lo previsto en esta fracción se entenderá que este sector lo conforman los fideicomisos que sean socios de una bolsa y que participen en el patrimonio de una cámara de compensación en términos de lo dispuesto por las Reglas a las que habrán de sujetarse las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, teniendo como finalidad liquidar y, en su caso, celebrar por cuenta de clientes, contratos de futuros y contratos de opciones operados en bolsa.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3553,21 +3271,17 @@ a). Con sólo acciones inscritas:
 
 1. Emitidas por sociedades Anónimas Bursátiles:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 0.3 al millar respecto al capital
 
 contable sin que los derechos
 
 a pagar por este concepto
 
-excedan de: $464,628.68 $464,629
+excedan de: $504,122.12 $504,122
 
 2. Emitidas por sociedades Anónimas Promotoras de Inversión Bursátil:
 
 i). Que se encuentren en cumplimiento del programa de adopción progresiva del régimen aplicable a las Sociedades Anónimas Bursátiles:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.1 al millar respecto al capital
 
@@ -3575,11 +3289,9 @@ contable sin que los derechos
 
 a pagar por este concepto
 
-excedan de: $139,388.61 $139,389
+excedan de: $151,236.64 $151,237
 
 ii). Que no hayan dado cumplimiento a su programa de adopción progresiva del régimen aplicable a las Sociedades Anónimas Bursátiles:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.2 al millar respecto al capital
 
@@ -3587,13 +3299,11 @@ contable sin que los derechos
 
 a pagar por este concepto
 
-excedan de: $278,777.21 $278,777
+excedan de: $302,473.27 $302,473
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 3. Emitidas por sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa, casas de cambio, almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple y demás entidades financieras autorizadas:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.3 al millar respecto al capital
 
@@ -3601,13 +3311,11 @@ contable sin que los derechos a
 
 pagar por este concepto
 
-excedan de: $464,628.68 $464,629
+excedan de: $504,122.12 $504,122
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 b). Con sólo títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.9595 al millar respecto al
 
@@ -3617,13 +3325,11 @@ emisión, sin que los derechos a
 
 pagar por este concepto
 
-excedan de: $348,471.51 $348,472
+excedan de: $378,091.59 $378,092
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 c). Con acciones y títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Por acciones, la cuota señalada
 
@@ -3649,11 +3355,9 @@ derechos muebles o inmuebles
 
 sin que los derechos a pagar por
 
-este concepto excedan de: $139,388.61 $139,389
+este concepto excedan de: $151,236.64 $151,237
 
 d). Valores emitidos por organismos descentralizados del Gobierno Federal, Gobiernos de los Estados y Municipios, así como de los organismos y empresas en que estos últimos participen:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.9595 al millar, respecto al
 
@@ -3663,13 +3367,11 @@ emisión sin que los derechos a
 
 pagar por este concepto
 
-excedan de: $348,471.51 $348,472
+excedan de: $378,091.59 $378,092
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 e). Títulos de crédito que representen acciones:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.5116 al millar, respecto al
 
@@ -3679,17 +3381,13 @@ cada emisión sin que los
 
 derechos a pagar por este
 
-concepto excedan de: $92,925.74 $92,926
+concepto excedan de: $100,824.43 $100,824
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-f). Otros títulos o valores inscritos distintos a los señalados en los incisos anteriores: $92,925.74 $92,926, por cada emisión.
+f). Otros títulos o valores inscritos distintos a los señalados en los incisos anteriores: $100,824.43 $100,824, por cada emisión.
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 g). Títulos fiduciarios cuyo activo principal se encuentre respaldado por valores inscritos en el Registro Nacional de Valores:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 0.5116 al millar respecto al
 
@@ -3699,13 +3397,11 @@ cada emisión sin que los
 
 derechos a pagar por este
 
-concepto excedan de: $92,925.74 $92,926
+concepto excedan de: $100,824.43 $100,824
 
 II. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III. Las personas morales que mantengan sus acciones inscritas con carácter preventivo bajo la modalidad de listado previo pagarán $11,615.72 $11,616 por inscripción preventiva.
+III. Las personas morales que mantengan sus acciones inscritas con carácter preventivo bajo la modalidad de listado previo pagarán $12,603.06 $12,603 por inscripción preventiva.
 
 No computarán para los efectos de la cuota de inspección y vigilancia a que se refiere este artículo, los valores que hayan sido inscritos en el mismo ejercicio fiscal en el cual se paguen dichos derechos, excepto cuando se otorgue la inscripción para la ampliación de plazos, montos de emisión o de capital social.
 
@@ -3909,6 +3605,8 @@ Las bolsas de valores se abstendrán de inscribir valor alguno, mientras el emis
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 30.
@@ -3937,23 +3635,17 @@ Las sociedades mutualistas pagarán las cuotas de inspección y vigilancia calcu
 
 Los derechos a que se refieren las fracciones anteriores, se pagarán por mensualidades adelantadas.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+III. Las sociedades controladoras de grupos financieros $618,292.68 $618,293 anuales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-III. Las sociedades controladoras de grupos financieros $569,855.00 $569,855 anuales.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-IV. Cada empresa de servicios complementarios que forme parte de grupos financieros cuyas sociedades controladoras se encuentren bajo supervisión de la Comisión Nacional de Seguros y Fianzas $31,083.00 $31,083 anuales.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+IV. Cada empresa de servicios complementarios que forme parte de grupos financieros cuyas sociedades controladoras se encuentren bajo supervisión de la Comisión Nacional de Seguros y Fianzas $33,725.06 $33,725 anuales.
 
 V.- Por los servicios de
 
@@ -3961,9 +3653,7 @@ inspección y vigilancia que
 
 se prestan a los intermediarios
 
-de reaseguro cuota mensual $7,140.49 $7,140
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de reaseguro cuota mensual $7,747.43 $7,747
 
 VI.- Por los servicios de
 
@@ -3973,7 +3663,9 @@ se prestan a las oficinas de
 
 representación de reaseguradoras
 
-extranjeras cuota mensual $4,284.29 $4,284
+extranjeras cuota mensual $4,648.45 $4,648
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -3985,15 +3677,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la autorización provisional
 
 proporcionada a agentes de
 
-seguros personas físicas $1,733.64 $1,734
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+seguros personas físicas $1,881.00 $1,881
 
 II.- Por la autorización definitiva a
 
@@ -4001,25 +3689,19 @@ agentes de seguros personas físicas
 
 para actuar por cuenta propia con
 
-vigencia de tres años $2,726.55 $2,727
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+vigencia de tres años $2,958.31 $2,958
 
 III.- Por el refrendo trianual de las
 
 autorizaciones definitivas a agentes
 
-personas físicas $1,426.52 $1,427
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+personas físicas $1,547.77 $1,548
 
 IV.- Por la autorización a
 
 agentes de seguros personas
 
-morales $8,669.51 $8,670
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+morales $9,406.42 $9,406
 
 V.- Por la autorización para ejercer la
 
@@ -4029,17 +3711,13 @@ de seguros persona moral para
 
 intervenir en el asesoramiento y
 
-contratación de seguros $2,726.55 $2,727
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+contratación de seguros $2,958.31 $2,958
 
 VI.- Por el refrendo trianual de la
 
 autorización a que se refiere la
 
-fracción anterior $1,426.52 $1,427
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+fracción anterior $1,547.77 $1,548
 
 VII.- Por la autorización para
 
@@ -4047,9 +3725,7 @@ ejercer la actividad de agente
 
 mandatario de instituciones de
 
-seguros $133.74 $134
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+seguros $145.11 $145
 
 VIII.- Por la presentación del
 
@@ -4063,9 +3739,7 @@ seguros persona física o
 
 apoderado de agente de
 
-seguros persona moral $622.72 $623
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+seguros persona moral $675.65 $676
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4085,7 +3759,9 @@ de seguros persona física
 
 o apoderado de agente de
 
-seguros persona moral $321.65 $322
+seguros persona moral $348.99 $349
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -4097,15 +3773,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la autorización
 
 definitiva como intermediario
 
-de reaseguro. $8,669.59 $8,670
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de reaseguro. $9,406.51 $9,407
 
 II.- Por la autorización para
 
@@ -4117,21 +3789,21 @@ de reaseguro, para intervenir
 
 en el asesoramiento y contratación
 
-de reaseguro $2,726.55 $2,727
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de reaseguro $2,958.31 $2,958
 
 III.- Por el refrendo quinquenal
 
 de la autorización a que se refiere
 
-la fracción anterior $1,426.52 $1,427
+la fracción anterior $1,547.777 $1,548
 
 IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -4142,8 +3814,6 @@ Por la presentación de los exámenes de acreditación de conocimientos de los a
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I. Por el examen de acreditación
 
@@ -4161,9 +3831,7 @@ que ofrezcan al público las
 
 instituciones y sociedades
 
-mutualistas de seguros $1,259.92 $1,260
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+mutualistas de seguros $1,367.01 $1,367
 
 II. Por el examen de acreditación
 
@@ -4179,9 +3847,7 @@ calcular y registrar las
 
 instituciones y sociedades
 
-mutualistas de seguros $1,259.92 $1,260
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+mutualistas de seguros $1,367.01 $1,367
 
 III. Por el examen de acreditación
 
@@ -4201,19 +3867,15 @@ constituir las instituciones y
 
 sociedades mutualistas de
 
-seguros $1,259.92 $1,260
+seguros $1,367.01 $1,367
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 30-D.
 
-Por la presentación
+Por la presentación cuota sin cuota con
 
-del examen de evaluación y certificación
+del examen de evaluación y certificación ajuste ajuste
 
 de la capacidad de los empleados o
 
@@ -4225,7 +3887,9 @@ de promoción o venta de productos
 
 de seguros, se pagarán derechos
 
-conforme a la cuota de: $551.42 $551
+conforme a la cuota de: $598.29 $598
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -4245,21 +3909,19 @@ II.- Las demás personas y entidades sujetas a la inspección y vigilancia de la
 
 Las cuotas determinadas conforme al presente artículo deberán manifestarse a la Secretaría de Hacienda y Crédito Público dentro de los primeros 15 días de cada bimestre. Al presentarse dichas manifestaciones, exhibirán el comprobante de haber pagado el importe de los derechos causados, a reserva de que se hagan los ajustes que procedan al verificarse las mencionadas manifestaciones mediante las inspecciones respectivas.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+III. Las sociedades controladoras de grupos financieros $618,292.68 $618,293 anuales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-III. Las sociedades controladoras de grupos financieros $569,855.00 $569,855 anuales.
+IV. Cada empresa de servicios complementarios que forme parte de grupos financieros cuyas sociedades controladoras se encuentren bajo supervisión de la Comisión Nacional de Seguros y Fianzas $33,725.06 $33,725 anuales.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-IV. Cada empresa de servicios complementarios que forme parte de grupos financieros cuyas sociedades controladoras se encuentren bajo supervisión de la Comisión Nacional de Seguros y Fianzas $31,083.00 $31,083 anuales.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -4271,31 +3933,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la autorización definitiva a
 
 agentes de fianzas personas físicas
 
 para actuar por cuenta propia con
 
-vigencia de tres años $2,726.55 $2,727
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+vigencia de tres años $2,958.31 $2,958
 
 II.- Por el refrendo trianual de las
 
 autorizaciones definitivas a agentes
 
-personas físicas $1,426.52 $1,427
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+personas físicas $1,547.77 $1,548
 
 III.- Por la autorización a agentes de
 
-fianzas personas morales $8,668.65 $8,669
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+fianzas personas morales $9,405.49 $9,405
 
 IV.- Por la autorización para ejercer
 
@@ -4305,25 +3959,19 @@ agente de fianzas persona moral
 
 para intervenir en el asesoramiento
 
-y contratación de fianzas $2,726.55 $2,727
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y contratación de fianzas $2,958.31 $2,958
 
 V.- Por el refrendo trianual de la
 
 autorización a que se refiere la
 
-fracción anterior $1,426.52 $1,427
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+fracción anterior $1,547.77 $1,548
 
 VI.- Por la autorización provisional
 
 proporcionada a agentes de fianzas
 
-personas físicas $1,724.79 $1,735
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+personas físicas $1,882.25 $1,882
 
 VII.- Por la autorización para
 
@@ -4331,9 +3979,7 @@ ejercer la actividad de agente
 
 mandatario de instituciones de
 
-fianzas $133.74 $134
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+fianzas $145.11 $145
 
 VIII.- Por la presentación del
 
@@ -4347,9 +3993,7 @@ persona física o apoderado de
 
 agente de fianzas persona
 
-moral $622.72 $623
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+moral $675.65 $676
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4371,7 +4015,9 @@ física o apoderado de
 
 agente de fianzas
 
-persona moral $321.65 $322
+persona moral $348.99 $349
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -4382,8 +4028,6 @@ persona moral $321.65 $322
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- Por el examen de acreditación
 
@@ -4401,9 +4045,7 @@ soportar la adecuada operación
 
 de los productos que ofrezcan
 
-al público $1,259.92 $1,260
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+al público $1,367.01 $1,367
 
 II.- Por el examen de acreditación
 
@@ -4417,9 +4059,7 @@ técnicas, que deben calcular y
 
 registrar las instituciones de
 
-fianzas $1,259.92 $1,260
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+fianzas $1,367.01 $1,367
 
 III.- Por el examen de acreditación
 
@@ -4435,7 +4075,7 @@ las reservas de carácter técnico, que
 
 deben constituir las instituciones
 
-de fianza $1,259.92 $1,260
+de fianza $1,367.01 $1,367
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -4447,13 +4087,13 @@ de fianza $1,259.92 $1,260
 
 #### SECCION SEGUNDA. De la Comisión Nacional del Sistema de Ahorro para el Retiro
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 31-B.
 
 Las Administradoras de Fondos para el Retiro, las instituciones públicas que realicen funciones similares a éstas, las Empresas Operadoras de la Base de Datos Nacional SAR y las Sociedades de Inversión Especializadas de Fondos para el Retiro pagarán el derecho de inspección y vigilancia que se efectúa en éstas, conforme a las siguientes cuotas:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I. Las Administradoras de
 
@@ -4487,11 +4127,11 @@ Instituto de Seguridad y Servicios
 
 Sociales de los Trabajadores del
 
-Estado, $70,544.96 $70,545
+Estado, $76,541.28
 
 por concepto de cuota anual y
 
-adicionalmente $0.1613 anuales
+adicionalmente $0.1750 anuales
 
 por cada mil pesos del saldo total
 
@@ -4501,35 +4141,25 @@ cesantía en edad avanzada y
 
 vejez.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 II. Las Sociedades de Inversión
 
 Especializadas de Fondos
 
-para el Retiro $66,916.09 $66,916 cuota anual.
+para el Retiro $72,603.96
 
 El pago de las cuotas anuales a que se refieren las fracciones I y II anteriores, deberá realizarse a más tardar el día 20 del mes de enero del ejercicio fiscal que transcurra.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Las Administradoras de Fondos para el Retiro o Sociedades de Inversión Especializadas de Fondos para el Retiro que obtengan autorización para organizarse y operar como tales o las instituciones públicas que realicen funciones similares que inicien operaciones, durante el año calendario deberán cubrir la cuota anual de $76,541.28 o de $72,603.96, según corresponda, a que se refieren las fracciones I y II del presente artículo, a más tardar el último día hábil del mes inmediato posterior al mes en que obtengan dicha autorización o, en su caso, inicien operaciones. El monto de dicha cuota anual será proporcional al número de meses que resten al año calendario de que se trate.
 
-Las Administradoras de Fondos para el Retiro o Sociedades de Inversión Especializadas de Fondos para el Retiro que obtengan autorización para organizarse y operar como tales o las instituciones públicas que realicen funciones similares que inicien operaciones, durante el año calendario deberán cubrir la cuota anual de $70,544.96 o de $70,545, según corresponda, a que se refieren las fracciones I y II del presente artículo, a más tardar el último día hábil del mes inmediato posterior al mes en que obtengan dicha autorización o, en su caso, inicien operaciones. El monto de dicha cuota anual será proporcional al número de meses que resten al año calendario de que se trate.
+Para los efectos de la cuota anual adicional de $0.1750 a que se refiere la fracción I anterior, se realizarán pagos provisionales trimestrales en los meses de abril, julio y octubre del ejercicio fiscal de que se trate y enero del siguiente, a más tardar el día 20 del mes respectivo.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-Para los efectos de la cuota anual adicional de $0.1613 a que se refiere la fracción I anterior, se realizarán pagos provisionales trimestrales en los meses de abril, julio y octubre del ejercicio fiscal de que se trate y enero del siguiente, a más tardar el día 20 del mes respectivo.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-Para determinar el monto de cada pago trimestral a que se refiere el párrafo anterior se deberá multiplicar cada $1,000.00 del saldo total del capital suscrito y pagado por los trabajadores invertido en las Sociedades de Inversión Especializadas de Fondos para el Retiro a que se refiere el primer párrafo de la fracción I de este artículo por la cuota anual de $0.1613, dividida entre cuatro, tomando como total de recursos el valor de dicho capital que resulte al último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Para determinar el monto de cada pago trimestral a que se refiere el párrafo anterior se deberá multiplicar cada $1,000.00 del saldo total del capital suscrito y pagado por los trabajadores invertido en las Sociedades de Inversión Especializadas de Fondos para el Retiro a que se refiere el primer párrafo de la fracción I de este artículo por la cuota anual de $0.1750, dividida entre cuatro, tomando como total de recursos el valor de dicho capital que resulte al último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho.
 
 III. Las Empresas Operadoras
 
 de la Base de Datos Nacional
 
-SAR $2,060,520.42 $2,060,520
+SAR $2,235,664.66
 
 por cada Administradora de
 
@@ -4541,7 +4171,7 @@ realice funciones similares.
 
 El pago de derechos a que se refiere la presente fracción deberá enterarse a más tardar el día 20 del mes de enero del ejercicio fiscal que transcurra. En caso que se incorpore una nueva Administradora de Fondos para el Retiro o institución pública que realice funciones similares durante el año calendario, el pago por la nueva entidad deberá cubrirse a más tardar el último día hábil del mes inmediato posterior al mes en que se autorice ésta y será proporcional al número de meses que resten al año calendario de que se trate.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4549,7 +4179,7 @@ El pago de derechos a que se refiere la presente fracción deberá enterarse a m
 
 ###### ARTICULO 32.
 
-Cada entidad que pertenezca al sector de sociedades controladoras de grupos financieros, entendiéndose como tales a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará anualmente el derecho de inspección y vigilancia conforme a la cuota de $310,830.00 $310,830
+Cada entidad que pertenezca al sector de sociedades controladoras de grupos financieros, entendiéndose como tales a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará anualmente el derecho de inspección y vigilancia conforme a la cuota de $337,250.55 $337,251
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4561,11 +4191,11 @@ Cada entidad que pertenezca al sector de sociedades controladoras de grupos fina
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 ###### ARTICULO 34.
 
@@ -4591,7 +4221,7 @@ Fondos para el Retiro, pagará
 
 derechos conforme a la
 
-cuota de: $103,026.02 $103,026
+cuota de: $111,783.23 $111,783
 
 ###### ARTICULO 34-A.
 
@@ -4621,6 +4251,8 @@ Los ingresos que se obtengan por la recaudación de los derechos por los servici
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 40.
@@ -4631,15 +4263,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Por la inscripción en el
 
 registro del despacho de
 
-mercancías $4,919.00 $4,919
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+mercancías $5,337.12 $5,337
 
 b).- Por la autorización de depósito
 
@@ -4653,9 +4281,7 @@ industria automotriz terminal o
 
 manufacturera de vehículos de
 
-autotransporte $9,996.72 $9,997
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+autotransporte $10,846.44 $10,846
 
 c).- Por la autorización para
 
@@ -4665,9 +4291,7 @@ mercancías del territorio
 
 nacional por lugar distinto al
 
-autorizado $9,679.34 $9,679
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+autorizado $10,502.08 $10,502
 
 d).- Por la concesión o
 
@@ -4679,9 +4303,7 @@ almacenaje y custodia de
 
 mercancías de comercio
 
-exterior $52,363.84 $52,364
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+exterior $56,814.77 $56,815
 
 e).- Por la autorización para
 
@@ -4691,21 +4313,15 @@ descarga, estiba, acarreo y
 
 trasbordo de mercancías en
 
-el recinto fiscal $9,996.72 $9,997
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+el recinto fiscal $10,846.44 $10,846
 
 f).- Por la autorización de
 
-apoderado aduanal $7,933.90 $7,934
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+apoderado aduanal $8,608.28 $8,608
 
 g).- Por la autorización de
 
-dictaminador aduanero $7,933.90 $7,934
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+dictaminador aduanero $8,608.28 $8,608
 
 h).- Por la autorización para la
 
@@ -4715,9 +4331,7 @@ por tuberías, ductos, cables
 
 u otros medios de
 
-conducción $8,727.30 $8,727
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+conducción $9,469.12 $9,469
 
 i).- Por la autorización de
 
@@ -4727,17 +4341,13 @@ para locales destinados
 
 a exposiciones internacionales
 
-de mercancías $4,760.33 $4,760
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de mercancías $5,164.96 $5,165
 
 j).- Por la inscripción en el
 
 Registro de empresas
 
-transportistas $5,236.37 $5,236
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+transportistas $5,681.46 $5,681
 
 k).- Por la autorización para
 
@@ -4747,9 +4357,7 @@ fiscal para la exposición y
 
 ventas de mercancías
 
-extranjeras y nacionales $43,588.92 $43,589
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+extranjeras y nacionales $47,293.98 $47,294
 
 I).- Por la habilitación de
 
@@ -4765,25 +4373,19 @@ estratégico y la autorización
 
 o prórroga para su
 
-administración: $60,231.47 $60,231
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+administración: $65,351.14 $65,351
 
 m).- Por la inscripción en el
 
 registro de empresas
 
-certificadas $22,586.79 $22,587
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+certificadas $24,506.67 $24,507
 
 n).- Por la autorización de
 
 mandatario de agente
 
-aduanal $7,630.49 $7,630
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+aduanal $8,279.08 $8,279
 
 ñ).- Por la autorización para
 
@@ -4791,9 +4393,7 @@ destinar mercancías al
 
 régimen de recinto
 
-fiscalizado estratégico $20,768.90 $20,769
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+fiscalizado estratégico $22,534.26 $22,534
 
 o).- Por la autorización para
 
@@ -4801,9 +4401,7 @@ prevalidar electrónicamente
 
 los datos contenidos
 
-en los pedimentos $7,015.89 $7,016
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+en los pedimentos $7,612.24 $7,612
 
 p).- Por la autorización para
 
@@ -4817,9 +4415,7 @@ importación temporal de
 
 remolques, semiremolques
 
-y portacontenedores $7,015.89 $7,016
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y portacontenedores $7,612.24 $7,612
 
 q).- Por la autorización para
 
@@ -4833,7 +4429,7 @@ ser objeto de elaboración,
 
 transformación o
 
-reparación $7,015.89 $7,016
+reparación $7,612.24 $7,612
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4883,6 +4479,8 @@ IV.- Diez días naturales de aquél en que queden en depósito ante la aduana, e
 
 Los plazos a que se refieren las fracciones I y II de este artículo se computarán a partir del día siguiente a aquél en que el almacén reciba las mercancías.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 42.
@@ -4895,25 +4493,19 @@ ajuste ajuste
 
 I.- Por cada quinientos kilogramos o fracción y durante:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Los primeros quince días
 
-naturales $10.00 $10
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+naturales $10.85 $11.
 
 b).- Los siguientes treinta días
 
-naturales $19.50 $19
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+naturales $21.16 $21
 
 c).- El tiempo que transcurra después
 
 de vencido el plazo señalado en el
 
-inciso anterior $31.59 $32
+inciso anterior $34.28 $34
 
 II.- Se pagará por cada día de almacenaje el doble de las cuotas establecidas en la fracción anterior, cuando se trate de las siguientes mercancías:
 
@@ -4931,15 +4523,13 @@ d) Las que por su naturaleza deban conservarse en refrigeración, en cuartos est
 
 e) Los animales vivos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 III.- Los equipajes o efectos
 
 personales de pasajeros, por
 
 cada cien kilogramos o fracción,
 
-diariamente $16.24 $16
+diariamente $17.62 $18
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -5007,6 +4597,8 @@ Los interesados dispondrán de tres días hábiles para el retiro de sus mercanc
 
 Los almacenistas serán responsables de cualquier omisión en el cobro de los derechos de almacenaje, originada por la inexactitud del lugar en que los efectos hayan estado depositados, así como por la indebida entrega de mercancías que ya estén abandonadas, o no se haya pagado, parcial o totalmente el derecho de almacenaje.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 49.
@@ -5024,8 +4616,6 @@ I.- Del 8 al millar, sobre el valor que tengan los bienes para los efectos del i
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 II.- Del 1.76 al millar sobre el valor que tengan los bienes, tratándose de la importación temporal de bienes de activo fijo que efectúen las maquiladoras o las empresas que tengan programas de exportación autorizados por la Secretaría de Economía o, en su caso, la maquinaria y equipo que se introduzca al territorio nacional para destinarlos al régimen de elaboración, transformación o reparación en recintos fiscalizados.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 III.- Tratándose de
 
@@ -5055,7 +4645,7 @@ Maquiladora y de
 
 Servicios de Exportación
 
-IMMEX): $258.91 $259
+IMMEX): $280.92 $281
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -5082,8 +4672,6 @@ recintos fiscalizados, así
 como en los retornos
 
 respectivos $222.90 $223.00
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 IV.- En el caso de operaciones de
 
@@ -5113,13 +4701,11 @@ las disposiciones aplicables no tengan
 
 valor en aduana, por cada
 
-operación. $258.91 $259
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+operación. $280.92 $281
 
 V.- En las operaciones de
 
-exportación $259.62 $260
+exportación $281.69 $282
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -5129,45 +4715,31 @@ Cuando la exportación de mercancías se efectúe mediante pedimento consolidado
 
 También se pagará este derecho por cada operación en que se utilice el pedimento complementario del pedimento de exportación o retorno de mercancías.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 VI.- Tratándose de las efectuadas
 
-por los Estados extranjeros $253.90 $254
+por los Estados extranjeros $275.48 $275
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VII.- Por aquellas operaciones en que se rectifique un pedimento y no se esté en los supuestos de las fracciones anteriores, así como cuando se utilice algunos de los siguientes pedimentos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- De tránsito interno $280.92 $281
 
-a).- De tránsito interno $258.91 $259
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De tránsito internacional $245.88 $246
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- De tránsito internacional $266.78 $267
 
 c).- De extracción del régimen de
 
-depósito fiscal para retorno $258.91 $259
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+depósito fiscal para retorno $280.92 $281
 
 d).- La parte II de los pedimentos
 
 de importación; exportación o
 
-tránsito $258.91 $259
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+tránsito $280.92 $281
 
 e).- Por cada rectificación
 
-de pedimento $249.29 $249
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de pedimento $270.48 $270
 
 VIII.- Del 8 al millar, sobre el valor
 
@@ -5175,7 +4747,7 @@ que tenga el oro para los efectos
 
 del impuesto general de importación,
 
-sin exceder de la cuota de $2,743.68 $2,744
+sin exceder de la cuota de $2,976.89 $2,977
 
 > <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 1993)</small>
 
@@ -5223,6 +4795,8 @@ Para los efectos del artículo 49 de esta Ley, Petróleos Mexicanos y sus organi
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 51.
@@ -5233,39 +4807,29 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el examen para aspirante
 
 a agente aduanal, apoderado
 
 aduanal o dictaminador
 
-aduanero $8,071.92 $8,072
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+aduanero $8,758.03 $8,758
 
 II.- Por la expedición de la patente de
 
-agente aduanal $16,141.45 $16,141
+agente aduanal $17,513.47 $17,513
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 III.- Por el examen para aspirante a mandatario de agente aduanal:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a). Correspondiente a la
 
-etapa de conocimientos $3,943.41 $3,943
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+etapa de conocimientos $4,278.60 $4,279
 
 b). Correspondiente a la
 
-etapa psicotécnica $3,943.41 $3,943
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+etapa psicotécnica $4,278.60 $4,279
 
 IV.- Por el estudio y aprobación
 
@@ -5275,19 +4839,15 @@ las sociedades o asociaciones
 
 que exploten la patente
 
-de agente aduanal $12,816.83 $12,817
+de agente aduanal $13,906.26 $13,906
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 52.
 
-Por los servicios de
+Por los servicios de cuota sin cuota con
 
-análisis de laboratorios derivados del
+análisis de laboratorios derivados del ajuste ajuste
 
 cumplimiento de las obligaciones
 
@@ -5301,7 +4861,7 @@ arancelaria, establecidas en la Ley
 
 Aduanera, se pagarán por cada
 
-muestra analizada, la cuota de: $3,560.30 $3,560
+muestra analizada, la cuota de: $3,862.93 $3,863
 
 #### SECCION CUARTA. Registro Federal de Vehículos
 
@@ -5355,17 +4915,13 @@ muestra analizada, la cuota de: $3,560.30 $3,560
 
 #### SECCION OCTAVA. Resoluciones Relativas a Precios o Montos de Contraprestaciones entre Partes Relacionadas
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 53-G.
 
-Por el estudio
+Por el estudio cuota sin cuota con
 
-y trámite de cada solicitud de
+y trámite de cada solicitud de ajuste ajuste
 
 resolución relativa a los precios
 
@@ -5375,19 +4931,15 @@ entre partes relacionadas, se
 
 pagarán derechos conforme a la
 
-cuota de $11,643.71 $11,644
+cuota de $12,633.43 $12,633
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 53-H.
 
-Por cada revisión
+Por cada revisión cuota sin cuota con
 
-del informe anual sobre la aplicación
+del informe anual sobre la aplicación ajuste ajuste
 
 de las resoluciones a que se refiere
 
@@ -5395,7 +4947,7 @@ el artículo anterior, se pagarán
 
 derechos conforme a la
 
-cuota de $2,328.62 $2,329
+cuota de $2,526.55 $2,527
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5413,17 +4965,17 @@ cuota de $2,328.62 $2,329
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 53-K.
 
-Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a la cuota de $0.3576 por cada uno.
+Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a la cuota de $0.3880 por cada uno.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 53-L.
 
-Por la obtención de precintos que se adhieran a los envases que contengan bebidas alcohólicas a granel a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de precintos conforme a la cuota de $1.32 por cada uno.
+Por la obtención de precintos que se adhieran a los envases que contengan bebidas alcohólicas a granel a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de precintos conforme a la cuota de $1.43 por cada uno.
 
 ### CAPITULO IV. De la Secretaría de Programación y Presupuesto
 
@@ -5449,6 +5001,8 @@ Por la obtención de precintos que se adhieran a los envases que contengan bebid
 
 #### SECCION UNICA (SIC). Actividades Reguladas en Materia Energética
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 56.
@@ -5461,21 +5015,13 @@ ajuste ajuste
 
 I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso, con base en la capacidad de autoabastecimiento, cogeneración, pequeña producción, producción independiente, exportación e importación de energía eléctrica solicitada, de conformidad con las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). Hasta 10 MW: $96,867.66 $96,868
 
-a). Hasta 10 MW: $89,278.95 $89,279
+b). Mayor a 10 y hasta 50 MW: $126,410.78 $126,411
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+c). Mayor a 50 y hasta 200 MW: $186,921.77 $186,922
 
-b). Mayor a 10 y hasta 50 MW: $116,507.63 $116,508
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c). Mayor a 50 y hasta 200 MW: $172,278.13 $172,278
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-d). Mayor a 200 MW: $728,682.77 $728,683
+d). Mayor a 200 MW: $790,620.81 $790,621
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5483,33 +5029,21 @@ d). Mayor a 200 MW: $728,682.77 $728,683
 
 II. Por la supervisión de los permisos de energía eléctrica, se pagará anualmente el derecho de supervisión, conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). Hasta 3 MW $16,987.99 $16,988
 
-a). Hasta 3 MW $15,657.13 $15,657
+b). Mayor a 3 y hasta 10 MW $93,118.43 $93,118
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+c). Mayor a 10 y hasta 50 MW $229,672.69 $229,673
 
-b). Mayor a 3 y hasta 10 MW $85,823.44 $85,823
+d). Mayor a 50 y hasta 200 MW $379,526.14 $379,526
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c). Mayor a 10 y hasta 50 MW $211,679.90 $211,680
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-d). Mayor a 50 y hasta 200 MW $349,793.68 $349,794
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-e). Mayor a 200 MW $1,063,862.76 $1,063,863
+e). Mayor a 200 MW $1,154,291.09 $1,154,291
 
 III. Por la modificación de los títulos de permiso de energía eléctrica, se pagarán derechos conforme a las siguientes cuotas:
 
 a). El 50 por ciento de la cuota establecida en la fracción I del presente artículo, cuando la modificación implique un análisis técnico, jurídico, financiero o la opinión del suministrador en términos del Reglamento de la Ley del Servicio Público de Energía Eléctrica.
 
 b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 IV. Por el análisis, evaluación y,
 
@@ -5525,9 +5059,7 @@ organismos a cargo de la
 
 prestación del servicio público
 
-de energía eléctrica anualmente: $641,344.04 $641,344
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de energía eléctrica anualmente: $695,858.28 $695,858
 
 V. Aprobación o modificación de
 
@@ -5539,11 +5071,13 @@ actividades reguladas en términos
 
 de la Ley de la Comisión Reguladora
 
-de Energía: $12,826.32 $12,826
+de Energía: $13,916.56 $13,917
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ARTICULO 56 BIS.- En ningún caso se pagará el derecho de permiso de generación de energía eléctrica por el análisis, evaluación de la solicitud y, en su caso, la expedición o modificación del título de permiso, exclusivamente, cuando sea bajo las modalidades de fuentes de energía renovables.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -5557,15 +5091,11 @@ ajuste ajuste
 
 I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso relacionados con la distribución, almacenamiento o transporte de gas natural, de conformidad con las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 a). Permisos de distribución
 
-de gas natural $572,992.76 $572,993
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de gas natural $621,697.14 $621,697
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5575,9 +5105,7 @@ natural para usos propios en su
 
 modalidad de sociedades de
 
-autoabastecimiento $348,325.26 $348,325
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+autoabastecimiento $377,932.91 $377,933
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5585,9 +5113,7 @@ c). Permisos de transporte de
 
 gas natural de acceso
 
-abierto $572,992.76 $572,993
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+abierto $621,697.14 $621,697
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5595,67 +5121,51 @@ d). Permisos de transporte de
 
 gas natural para usos
 
-propios $283,917.43 $283,917
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+propios $308,050.41 $308,050
 
 e). Tratándose de permisos para
 
 el almacenamiento de gas
 
-natural: $3,847,978.29 $3,847,978
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+natural: $4,175,056.44 $4,175,056
 
 f). Tratándose de permisos de
 
 almacenamiento de gas natural
 
-para usos propios: $149,762.18 $149,762
+para usos propios: $162,491.97 $162,492
 
 II. Por la supervisión de los permisos de gas natural, se pagará anualmente el derecho, conforme a las siguientes cuotas:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 a). Permisos de distribución
 
-de gas natural $453,248.15 $453,248
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de gas natural $491,774.24 $491,774
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 b). Permisos de transporte de
 
-gas natural de acceso abierto $411,232.26 $411,232
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+gas natural de acceso abierto $446,187.00 $446,187
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 c). Permisos de almacenamiento
 
-de gas natural $551,559.27 $551,559
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de gas natural $598,441.81 $598,442
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 d). Permisos de transporte de
 
-gas natural para usos propios $161,571.51 $161,572
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+gas natural para usos propios $175,305.09 $175,305
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 e). Permisos de almacenamiento de
 
-gas natural para usos propios $104,973.22 $104,973
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+gas natural para usos propios $113,895.94 $113,896
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5667,9 +5177,7 @@ propios en su modalidad de
 
 sociedades de
 
-autoabastecimiento $209,170.29 $209,170
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+autoabastecimiento $226,949.76 $226,950
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5691,7 +5199,7 @@ Energía, de conformidad a las
 
 disposiciones legales
 
-aplicables $384,059.30 $384,059
+aplicables $416,704.34 $416,704
 
 IV. Por la modificación de los títulos de permiso de gas natural, se pagarán derechos conforme a las siguientes cuotas:
 
@@ -5702,6 +5210,8 @@ b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 V. Por el análisis, evaluación y, en su caso, renovación de los permisos de distribución, transporte y almacenamiento de gas natural, se pagará el 50 por ciento de los derechos establecidos en la fracción I de este artículo.
 
 #### SECCION PRIMERA. Minería
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -5715,31 +5225,23 @@ Se pagarán derechos en materia de gas licuado de petróleo por los servicios qu
 
 I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del permiso para la distribución, el almacenamiento y el transporte de gas licuado de petróleo por medio de ductos, conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a). Permisos para la distribución de gas
 
 licuado de petróleo por
 
-medio de ductos $563,482.17 $563,482
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+medio de ductos $611,378.15 $611,378
 
 b). Permisos para el transporte de
 
 gas licuado de petróleo por medio
 
-de ductos $563,482.17 $563,482
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de ductos $611,378.15 $611,378
 
 c). Permisos para el transporte de
 
 gas licuado de petróleo por ductos
 
-para autoconsumo $212,939.19 $212,939
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+para autoconsumo $231,039.02 $231,039
 
 d). Permisos para el almacenamiento
 
@@ -5747,7 +5249,7 @@ de gas licuado de petróleo mediante
 
 planta de suministro
 
-o depósito $563,482.17 $563,482
+o depósito $611,378.15 $611,378
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5755,43 +5257,37 @@ o depósito $563,482.17 $563,482
 
 II. Por la supervisión de los permisos en materia de gas licuado de petróleo, se pagará anualmente el derecho de supervisión conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a). Permisos para la distribución de gas
 
 licuado de petróleo por medio
 
-de ductos $453,248.15 $453,248
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de ductos $491,774.24 $491,774
 
 b). Permisos para el transporte de gas
 
 licuado de petróleo por medio
 
-de ductos $411,232.26 $411,232
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de ductos $446,187.00 $446,187
 
 c). Permisos para el transporte de gas
 
 licuado de petróleo por ductos
 
-para autoconsumo $161,571.51 $161,572
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+para autoconsumo $175,305.09 $175,305
 
 d). Permisos para el almacenamiento de
 
 gas licuado de petróleo mediante planta
 
-de suministro o depósito $551,540.25 $551,540
+de suministro o depósito $598,421.17 $598,421
 
 III. Por la modificación de los títulos de permiso de gas licuado de petróleo, se pagarán derechos conforme a las siguientes cuotas:
 
 a). El 50 por ciento de la cuota establecida en la fracción I del presente artículo, cuando se requiera contar con un análisis técnico, jurídico o financiero por parte de la Comisión Reguladora de Energía o, en su caso, se requiera la intervención de otras autoridades del Gobierno Federal.
 
 b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5801,25 +5297,21 @@ b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 Por la supervisión de la operación y el mantenimiento de las actividades de transporte y distribución por medio de ductos de los productos que se obtengan de la refinación del petróleo y de los petroquímicos básicos, así como de los sistemas de almacenamiento que se encuentren directamente vinculados a éstos, Petróleos Mexicanos y sus organismos subsidiarios pagarán anualmente derechos conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I. Por las terminales de almacenamiento
 
-y recepción $551,540.25 $551,540
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y recepción $598,421.17 $598,421
 
 II. Por los ductos interconectados
 
 a las terminales de almacenamiento
 
-y recepción $444,783.25 $444,783
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y recepción $482,589.83 $482,590
 
 III. Por otros sistemas de transporte
 
-por medio de ductos $161,571.51 $161,572
+por medio de ductos $175,305.09 $175,305
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5829,17 +5321,13 @@ por medio de ductos $161,571.51 $161,572
 
 Por el análisis y, en su caso, la expedición de la resolución sobre las propuestas de Petróleos Mexicanos y sus organismos subsidiarios, dichos organismos pagarán derechos conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I. Respecto de los términos y condiciones
 
 de las ventas de primera mano del gas,
 
 del combustóleo y de los petroquímicos
 
-básicos $553,898.89 $553,899
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+básicos $600,980.30 $600,980
 
 II. Respecto de los términos y condiciones
 
@@ -5859,7 +5347,9 @@ encuentren directamente vinculados a
 
 las terminales de importación o distribución
 
-de dichos productos $564,175.56 $564,176
+de dichos productos $612,130.48 $612,130
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5872,8 +5362,6 @@ Por los servicios que proporciona la Dirección General de Gas L.P., referentes 
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- Por el otorgamiento del
 
@@ -5891,9 +5379,7 @@ mediante el sistema de
 
 calidad de la línea de
 
-producción $5,743.31 $5,743
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+producción $6,231.49 $6,231
 
 II.- Por el análisis de la solicitud y,
 
@@ -5905,9 +5391,7 @@ de Gas Licuado de Petróleo, con
 
 excepción de los otorgados por la
 
-Comisión Reguladora de Energía $20,791.65 $20,792
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Comisión Reguladora de Energía $22,558.94 $22,559
 
 III.- Por la modificación de las
 
@@ -5921,13 +5405,11 @@ análisis de cada solicitud y, en
 
 su caso, el otorgamiento de
 
-autorizaciones $1,520.46 $1,520
+autorizaciones $1,649.70 $1,650
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 Tratándose de la autorización para instalar bodegas de distribución adicionales, se pagarán derechos por cada solicitud, independientemente del número de bodegas que se incluyan en la misma.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 IV.- Por los servicios de
 
@@ -5941,9 +5423,7 @@ en el ramo del Petróleo,
 
 pagarán derechos por
 
-hora de verificación $831.57 $832
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hora de verificación $902.25 $902
 
 V.- Por el estudio y trámite y, en su caso,
 
@@ -5951,9 +5431,9 @@ la obtención del registro como empresa
 
 con equipo certificado, taller de equipos
 
-de carburación o centros de destrucción $1,364.84 $1,365
+de carburación o centros de destrucción $1,480.85 $1,481
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5981,9 +5461,9 @@ cada solicitud, independientemente del
 
 número de aprobaciones emitidas,
 
-con la siguiente cuota: $3,667.08 $3,667
+con la siguiente cuota: $3,978.78 $3,979
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6015,7 +5495,7 @@ Federal sobre Metrología y
 
 Normalización se pagarán derechos
 
-con la siguiente cuota: $2,265.07 $2,265
+con la siguiente cuota: $2,457.60 $2,458
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6035,13 +5515,15 @@ con la siguiente cuota: $2,265.07 $2,265
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 61-D.
 
-(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014) 61,907.96 61,908
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -6057,7 +5539,7 @@ transporte y comercialización de bioenergéticos,
 
 se pagarán derechos, por cada uno,
 
-conforme a la cuota de $12,132.04 $12,132
+conforme a la cuota de $13,163.26 $13,163
 
 Tratándose de solicitudes para la autorización de prórroga, transferencia y modificación de los términos y condiciones originales de los permisos señalados en el párrafo anterior se pagarán derechos, por cada una, conforme a la cuota a que se refiere el citado párrafo.
 
@@ -6087,13 +5569,13 @@ Los ingresos que se obtengan por el pago de derechos por los servicios a los que
 
 #### SECCION SEGUNDA. Minería
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 63.
 
 Por el estudio, trámite y resolución de cada solicitud de concesión o asignación minera, se pagarán los derechos que resulten de aplicar la siguiente tabla al número de hectáreas que pretende amparar la solicitud:
-
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Rango de Superficie
 
@@ -6109,19 +5591,19 @@ Excedente del
 
 Límite Inferior
 
-1 30 $515.06 $8.37
+1 30 $558.84 $9.08
 
-31 100 $779.94 $15.57
+31 100 $846.23 $16.89
 
-101 500 $1,912.32 $37.85
+101 500 $2,074.87 $41.07
 
-501 1000 $17,855.65 $49.34
+501 1000 $19,373.38 $53.53
 
-1,001 5,000 $49,736.53 $2.9879
+1,001 5,000 $53,964.14 $3.2419
 
-5,001 50,000 $63,129.85 $2.1416
+5,001 50,000 $68,495.89 $2.3236
 
-50,001 en adelante $160,053.25 $1.9749
+50,001 en adelante $173,657.78 $2.1428
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -6130,6 +5612,8 @@ Por el estudio, trámite y resolución de cada solicitud de prórroga de concesi
 ###### ARTICULO 63-A.
 
 (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992) (REPUBLICADO, D.O.F. 2 DE AGOSTO DE 1994)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -6143,8 +5627,6 @@ ajuste ajuste
 
 I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
@@ -6153,9 +5635,7 @@ II. Reducción, división,
 
 identificación o unificación
 
-de superficie $2,072.20 $2,072
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de superficie $2,248.34 $2,248
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6169,9 +5649,7 @@ la incorporación o
 
 separación de éstas a
 
-uno o más de ellos $1,036.10 $1,036
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+uno o más de ellos $1,124.17 $1,124
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6181,9 +5659,7 @@ IV. Expedición de duplicado
 
 del título de concesión o
 
-asignación minera $518.05 $518
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+asignación minera $562.08 $562
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6191,7 +5667,9 @@ asignación minera $518.05 $518
 
 V. Inscripción en el registro
 
-de peritos mineros $518.05 $518
+de peritos mineros $562.08 $562
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6201,33 +5679,79 @@ de peritos mineros $518.05 $518
 
 Por el estudio y trámite de actos, contratos o convenios sujetos a inscripción en el Registro Público de Minería, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I. Inscripción de actos,
 
-I. Inscripción de actos, contratos o convenios relativos a la transmisión de la titularidad de concesiones mineras o de los derechos que de ellas deriven $1,036.10 $1,036
+contratos o convenios
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+relativos a la transmisión
 
-II. Cancelación de las inscripciones relativas a los actos, contratos o convenios a que alude la fracción anterior $518.05 $518
+de la titularidad de
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+concesiones mineras o
 
-III. Inscripción de Sociedades mineras $2,072.20 $2,072
+de los derechos que
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de ellas deriven $1,124.17 $1,124
 
-IV. Inscripción de las modificaciones estatutarias de dichas sociedades $1,036.10 $1,036
+II. Cancelación de las
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+inscripciones relativas a
 
-V. Avisos notariales preventivos $518.05 $518
+los actos, contratos o
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+convenios a que alude
 
-VI. Anotaciones preventivas para interrumpir la cancelación de las inscripciones de contratos o convenios sujetos a temporalidad $518.05 $518
+la fracción anterior $562.08 $562
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III. Inscripción de
 
-VII. Revisión de la documentación que consigne las correcciones o aclaraciones requeridas para la inscripción o cancelación de los actos, contratos o convenios mencionados en las fracciones anteriores $518.05 $518
+Sociedades mineras $2,248.34 $2,248
+
+IV. Inscripción de las
+
+modificaciones
+
+estatutarias de
+
+dichas sociedades $1,124.17 $1,124
+
+V. Avisos notariales
+
+preventivos $562.08 $562
+
+VI. Anotaciones
+
+preventivas para
+
+interrumpir la cancelación
+
+de las inscripciones de
+
+contratos o convenios
+
+sujetos a temporalidad $562.08 $562
+
+VII. Revisión de la
+
+documentación
+
+que consigne las
+
+correcciones o
+
+aclaraciones
+
+requeridas para la
+
+inscripción o
+
+cancelación de los
+
+actos, contratos o
+
+convenios mencionados
+
+en las fracciones anteriores $562.08 $562
 
 ###### ARTICULO 65-A.
 
@@ -6236,6 +5760,8 @@ VII. Revisión de la documentación que consigne las correcciones o aclaraciones
 ###### ARTICULO 65-B.
 
 (DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -6247,29 +5773,41 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+I. Por cada plano a escala
+
+1:50,000 que corresponda
+
+a las hojas topográficas
+
+del Instituto Nacional de
+
+Estadística y Geografía $3,372.51 $3,373
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-I. Por cada plano a escala 1:50,000 que corresponda a las hojas topográficas del Instituto Nacional de Estadística y Geografía $3,108.30 $3,108
+II. Por cada porción de
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+las hojas anteriores de
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+5 minutos de latitud y
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-II. Por cada porción de las hojas anteriores de 5 minutos de latitud y de longitud $518.05 $518
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de longitud $562.08 $562
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-III. Por cada porción a que se refiere la fracción anterior a escala 1:25,000 $1,968.59 $1,969
+III. Por cada porción a que
+
+se refiere la fracción anterior
+
+a escala 1:25,000 $2,135.92 $2,136
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -6315,6 +5853,8 @@ Por la prestación de servicios relativos a las visitas para dictaminar sobre la
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 72.
@@ -6324,8 +5864,6 @@ Por recepción y estudio de solicitudes y expedición de resoluciones específic
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- Suscripción o adquisición de
 
@@ -6341,9 +5879,7 @@ o adquisiciones con regulación
 
 específica y en las que la inversión
 
-extranjera participe en más del 49% $5,860.74 $5,861
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+extranjera participe en más del 49% $6,358.90 $6,359
 
 II.- Constitución de fideicomisos
 
@@ -6353,9 +5889,7 @@ virtud de los cuales se deriven
 
 derechos en favor de la inversión
 
-extranjera $5,860.74 $5,861
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+extranjera $6,358.90 $6,359
 
 III.- Por afectación de acciones
 
@@ -6367,9 +5901,7 @@ neutra, o la emisión de series
 
 especiales de acciones neutras
 
-por parte de sociedades mexicanas $5,685.15 $5,685
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+por parte de sociedades mexicanas $6,168.39 $6,168
 
 IV.- Entrada a nuevos campos de
 
@@ -6379,9 +5911,7 @@ requiera resolución favorable de la
 
 Comisión Nacional de Inversiones
 
-Extranjeras $1,124.77 $1,125
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Extranjeras $1,220.38 $1,220
 
 V.- Autorización para la inscripción
 
@@ -6393,9 +5923,7 @@ Propiedad y el Comercio, o para
 
 su establecimiento en la República
 
-Mexicana $1,646.09 $1,646
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Mexicana $1,786.01 $1,786
 
 VI.- Replanteamiento a resoluciones
 
@@ -6403,17 +5931,13 @@ específicas o autorizaciones y
 
 exención de cumplimiento de
 
-programas y compromisos $5,630.27 $5,630
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+programas y compromisos $6,108.84 $6,109
 
 VII.- Reconsideraciones o
 
 revisiones de resoluciones
 
-específicas $674.78 $675
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+específicas $732.14 $732
 
 VIII.- Por recepción, estudio o
 
@@ -6425,21 +5949,17 @@ que se presenten sobre la
 
 legislación aplicable en materia
 
-de inversión extranjera $565.03 $565
+de inversión extranjera $613.06 $613
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 IX.- Por recepción y estudio de solicitudes para el otorgamiento de prórrogas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- Por la primera prórroga $565.03 $565
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por la primera prórroga $613.06 $613
 
 b).- Por la segunda y ulteriores
 
-prórrogas $1,030.24 $1,130
+prórrogas $1,226.31 $1,226
 
 X.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
@@ -6461,23 +5981,19 @@ XIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 #### SECCION CUARTA. Normas Oficiales
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 73-A.
 
-Por el trámite y, en
+Por el trámite y, en cuota sin cuota con
 
-su caso, registro y autorización para el
+su caso, registro y autorización para el ajuste ajuste
 
 uso de las marcas y contraseñas
 
 oficiales, se pagarán derechos
 
-conforme a la cuota de: $520.62 $521
+conforme a la cuota de: $564.87 $565
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -6499,17 +6015,13 @@ Cuando para la prestación de los servicios a que se refiere esta Sección, se r
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 73-F.
 
-Por la
+Por la cuota sin cuota con
 
-Autorización para el uso de
+Autorización para el uso de ajuste ajuste
 
 hologramas con que marcarán
 
@@ -6527,7 +6039,7 @@ de verificación, se pagará el
 
 derecho de normas conforme
 
-a la cuota de $548.52 $549
+a la cuota de $595.14 $595
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -6571,6 +6083,8 @@ a la cuota de $548.52 $549
 
 #### SECCION SEPTIMA. Servicios de Certificación de Firma Electrónica en Actos de Comercio
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 78.
@@ -6581,8 +6095,6 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I. Por el trámite y estudio de
 
 la solicitud para acreditación
@@ -6591,9 +6103,7 @@ como prestador del servicio
 
 de certificación para la emisión
 
-de certificados digitales $42,098.77 $42,099
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de certificados digitales $45,677.17 $45,677
 
 II. Por la acreditación como
 
@@ -6601,9 +6111,7 @@ prestador del servicio de
 
 certificación para la emisión
 
-de certificados digitales $201,732.34 $201,732
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de certificados digitales $218,879.59 $218,880
 
 III. Por el cese voluntario
 
@@ -6613,13 +6121,11 @@ de certificación para la
 
 emisión de certificados
 
-digitales $147,874.30 $147,874
+digitales $160,443.62 $160,444
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 V. Por el trámite y estudio de
 
@@ -6637,9 +6143,7 @@ mensajes de datos u otros
 
 servicios adicionales relativos
 
-a la firma electrónica $21,162.03 $21,162
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a la firma electrónica $22,960.80 $22,961
 
 VI. Por la acreditación de un
 
@@ -6655,7 +6159,7 @@ mensajes de datos u otros
 
 servicios adicionales relativos
 
-a la firma electrónica $129,933.63 $129,934
+a la firma electrónica $140,977.99 $140,978
 
 (REUBICADA CON LOS ARTÍCULOS QUE LA INTEGRAN [N. DE E. ANTES SECCIÓN SÉPTIMA DEL CAPÍTULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
@@ -6777,6 +6281,8 @@ III.- Lugares en donde exista personal adscrito las 24 horas del día.
 
 IV.- Por el cumplimiento de disposiciones especiales, tendientes a proteger la sanidad fitopecuaria del país.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 86-A.
@@ -6787,17 +6293,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por cada certificado fitosanitario
 
 para la movilización nacional de
 
 productos y subproductos vegetales
 
-sujetos a regulación fitosanitaria $87.13 $87
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+sujetos a regulación fitosanitaria $94.54 $95
 
 II.- Por cada certificado zoosanitario
 
@@ -6807,9 +6309,7 @@ animales vivos, productos y
 
 subproductos animales, sujetos a
 
-regulación zoosanitaria $87.13 $87
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+regulación zoosanitaria $94.54 $95
 
 III.- Por cada certificado fitosanitario
 
@@ -6817,9 +6317,7 @@ internacional para la exportación
 
 de vegetales, sus productos y
 
-subproductos $436.50 $436
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+subproductos $473.60 $474
 
 IV.- Por cada certificado zoosanitario
 
@@ -6833,9 +6331,7 @@ farmacéuticos, biológicos y
 
 alimenticios para uso en animales
 
-y consumo por éstos $436.50 $436
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y consumo por éstos $473.60 $474
 
 V.- Por cada certificado fitosanitario
 
@@ -6843,9 +6339,7 @@ internacional para la importación de
 
 vegetales, sus productos y
 
-subproductos $1,882.22 $1,882
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+subproductos $2,042.21 $2,042
 
 VI.- Por cada certificado zoosanitario
 
@@ -6859,9 +6353,7 @@ químicos, farmacéuticos, biológicos
 
 y alimenticios para uso en animales
 
-y consumo por éstos $1,882.22 $1,882
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y consumo por éstos $2,042.21 $2,042
 
 VII.- Por cada certificación de la
 
@@ -6873,9 +6365,7 @@ Federal, cuando sea realizada
 
 por la Comisión Nacional de
 
-Sanidad Agropecuaria $17,179.56 $17,180
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Sanidad Agropecuaria $18,639.82 $18,640
 
 VIII.- Por la certificación
 
@@ -6897,7 +6387,7 @@ tratamiento cuarentenario,
 
 centros de acopio de granos y
 
-semillas regulados $844.07 $844
+semillas regulados $915.82 $916
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6927,6 +6417,8 @@ En caso de que la expedición de los certificados señalados en las fracciones V
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 86-C.
@@ -6937,19 +6429,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el dictamen técnico de
 
 efectividad biológica de plaguicidas
 
-agrícolas o pecuarios $2,110.25 $2,110
+agrícolas o pecuarios $2,289.62 $2,290
 
 II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 III.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6963,8 +6455,6 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
@@ -6973,27 +6463,19 @@ I. Personas Físicas: Médico
 
 Veterinario Responsable o
 
-Tercero Especialista $648.99 $649
+Tercero Especialista $704.15 $704
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II.- Organismos de certificación $77,140.37 $77,140
+II.- Organismos de certificación $83,697.30 $83,697
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Unidades de verificación:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Personas físicas $789.42 $789
 
-a).- Personas físicas $727.58 $728
+b).- Personas morales $6,392.42 $6,392
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Personas morales $5,891.63 $5,892
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IV.- Laboratorios de pruebas $2,328.62 $2,329
+IV.- Laboratorios de pruebas $2,526.55 $2,527
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -7003,7 +6485,7 @@ V. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -7023,7 +6505,9 @@ o laboratorio zoosanitario de
 
 constatación, se pagarán derechos
 
-conforme a la cuota de $5,580.65 $5,581
+conforme a la cuota de $6,055.01 $6,055
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7035,13 +6519,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la expedición del formato
 
 de requisitos técnico-fitosanitarios
 
-para importación $290.96 $291
+para importación $315.69 $316
 
 II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -7049,11 +6531,11 @@ II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -7077,7 +6559,7 @@ el derecho por inspección
 
 veterinaria oficial, conforme
 
-a la cuota de $1,142.45 $1,142
+a la cuota de $1,239.56 $1,240
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -7089,6 +6571,8 @@ Los ingresos que se obtengan por la recaudación de derechos a que se refiere es
 
 #### SECCION TERCERA. Certificación y protección del obtentor de variedades vegetales
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 87.
@@ -7099,35 +6583,27 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el estudio y trámite de la
 
 solicitud de protección de derechos
 
-del obtentor $13,681.42 $13,681
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+del obtentor $14,844.34 $14,844
 
 II.- Por la expedición de la
 
-constancia de presentación $727.58 $728
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+constancia de presentación $789.42 $789
 
 III.- Por la expedición del
 
-título del obtentor $6,695.02 $6,695
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+título del obtentor $7,264.10 $7,264
 
 IV.- Por el reconocimiento
 
-del derecho de prioridad $727.58 $728
+del derecho de prioridad $789.42 $789
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+V.- Por cambio de denominación $2,005.46 $2,005
 
-V.- Por cambio de denominación $1,848.35 $1,848
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -7139,33 +6615,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el registro de sucesión de
 
-los derechos de protección $1,293.64 $1,294
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+los derechos de protección $1,403.60 $1,404
 
 II.- Por cada copia certificada del
 
-Título $369.46 $369
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Título $400.86 $401
 
 REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
 III.- Por el registro de la transmisión
 
-total o parcial del derecho $654.25 $654
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+total o parcial del derecho $709.86 $710
 
 IV.- Copia de la caracterización de
 
-la variedad protegida $369.50 $370
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+la variedad protegida $400.91 $401
 
 V.- Por la presentación de
 
@@ -7173,13 +6639,13 @@ correcciones e información
 
 adicional por causa imputable
 
-al usuario. $240.09 $240
+al usuario. $260.50 $260
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 ###### ARTICULO 89.
 
@@ -7193,7 +6659,7 @@ de cualquier especie, se pagará el
 
 derecho del obtentor, conforme a
 
-la cuota de: $2,855.19 $2,855
+la cuota de: $3,097.88 $3,098
 
 ###### ARTICULO 89-A.
 
@@ -7205,6 +6671,8 @@ la cuota de: $2,855.19 $2,855
 
 Se pagará el 50% del monto del derecho correspondiente a que se refiere esta Sección, cuando los servicios sean prestados a instituciones de enseñanza e investigación, públicas o propiedad de particulares que tengan autorización o reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 90.
@@ -7215,19 +6683,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la expedición de certificado
 
 de origen para exportación, por
 
-cada uno $321.73 $322
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+cada uno $349.08 $349
 
 II.- Por la expedición de certificados
 
-de calidad, por etiqueta $1.2652
+de calidad, por etiqueta $1.3727
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -7235,17 +6699,11 @@ de calidad, por etiqueta $1.2652
 
 III.- Por la autorización a personas físicas o morales como organismos de certificación de semillas o como mantenedores de la identidad varietal:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Autorización $9,474.99 $9,475
 
-a).- Autorización $8,732.71 $8,733
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por refrendo anual $4,366.27 $4,366
+b).- Por refrendo anual $4,737.40 $4,737
 
 c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 IV.- Por el estudio de la solicitud y,
 
@@ -7253,9 +6711,7 @@ en su caso, la inscripción en el
 
 catálogo de variedades factibles
 
-de certificación $268.30 $268
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de certificación $291.11 $291
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -7265,9 +6721,7 @@ certificado internacional de
 
 calidad de semilla,
 
-por etiqueta $3.36
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+por etiqueta $3.65 $4
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -7277,13 +6731,15 @@ de certificado internacional
 
 de calidad, para semilla
 
-finalmente no certificada $335.51 $336
+finalmente no certificada $364.03 $364
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCION CUARTA. Sanidad Acuícola
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -7292,8 +6748,6 @@ finalmente no certificada $335.51 $336
 ###### ARTICULO 90-A.
 
 Por la expedición de cada certificado de sanidad acuícola, se pagará el derecho de certificación de sanidad acuícola, conforme a las siguientes cuotas:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I. Para importación de especies
 
@@ -7307,9 +6761,7 @@ farmacéuticos o alimenticios para
 
 uso o consumo de
 
-dichas especies $1,901.22 $1,901
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+dichas especies $2,062.82 $2,063
 
 II. Para exportación de especies
 
@@ -7323,9 +6775,7 @@ farmacéuticos o alimenticios para
 
 uso o consumo de dichas
 
-especies $559.18 $559
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+especies $606.71 $607
 
 III. Para tránsito internacional
 
@@ -7339,9 +6789,7 @@ farmacéuticos o alimenticios
 
 para uso o consumo de
 
-dichas especies $464.12 $464
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+dichas especies $503.57 $504
 
 IV. Para movilización de especies
 
@@ -7355,9 +6803,7 @@ farmacéuticos o alimenticios para
 
 uso o consumo de dichas
 
-especies $447.35 $447
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+especies $485.37 $485
 
 V. Para establecimientos en
 
@@ -7373,9 +6819,7 @@ biológicos, farmacéuticos y alimenticios
 
 para el uso o consumo de dichas
 
-especies $2,460.41 $2,460
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+especies $2,669.54 $2,670
 
 VI. Para uso y aplicación de
 
@@ -7385,9 +6829,7 @@ veterinarios, aditivos y demás
 
 sustancias químicas a los
 
-organismos de cultivo $1,084.82 $1,085
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+organismos de cultivo $1,177.03 $1,177
 
 VII. Para introducción de especies
 
@@ -7395,17 +6837,13 @@ acuícolas vivas a un cuerpo de
 
 agua de jurisdicción
 
-federal $447.35 $447
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+federal $485.37 $485
 
 VIII. Para instalaciones en las que se
 
 realicen actividades
 
-acuícolas $2,460.41 $2,460
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+acuícolas $2,669.54 $2,670
 
 IX. Para especies acuáticas vivas
 
@@ -7413,13 +6851,11 @@ capturadas de poblaciones naturales
 
 que se destinen a la
 
-acuacultura $447.35 $447
+acuacultura $485.37 $485
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+X. Para unidades de cuarentena $2,669.54 $2,670
 
-X. Para unidades de cuarentena $2,460.41 $2,460
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -7445,7 +6881,7 @@ dichas especies, se pagarán derechos,
 
 por cada uno, conforme a la
 
-cuota de $447.35 $447
+cuota de $485.37 $485
 
 ###### ARTICULO 90-C.
 
@@ -7465,6 +6901,8 @@ cuota de $447.35 $447
 
 #### SECCION QUINTA. De los Organismos Genéticamente Modificados
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
@@ -7472,8 +6910,6 @@ cuota de $447.35 $447
 ###### ARTICULO 90-F.
 
 Por los servicios de recepción y análisis de la solicitud y, en su caso, la expedición de permisos en materia de organismos genéticamente modificados, se pagará el derecho por actividades relacionadas con la liberación al ambiente, conforme a las siguientes cuotas:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I. Por el permiso de liberación
 
@@ -7483,9 +6919,7 @@ de organismos genéticamente
 
 modificados, incluyendo
 
-su importación $46,614.63 $46,615
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+su importación $50,576.87 $50,577
 
 II. Por el permiso de liberación
 
@@ -7497,9 +6931,7 @@ genéticamente modificados,
 
 incluyendo su
 
-importación $46,614.63 $46,615
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+importación $50,576.87 $50,577
 
 III. Por el permiso de
 
@@ -7511,9 +6943,7 @@ genéticamente modificados,
 
 incluyendo su
 
-importación $46,614.63 $46,615
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+importación $50,576.87 $50,577
 
 Tratándose de la solicitud de
 
@@ -7523,7 +6953,7 @@ negativa de cada permiso a que
 
 se refiere este artículo, se pagar
 
-la cuota de $14,527.58 $14,528
+la cuota de $15,762.42 $15,762
 
 ###### ARTICULO 90-G.
 
@@ -7543,11 +6973,11 @@ la cuota de $14,527.58 $14,528
 
 #### SECCION PRIMERA. Servicios de Telecomunicaciones
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 ###### ARTICULO 91.
 
@@ -7567,7 +6997,7 @@ y asignatarios, se pagará el
 
 derecho de verificación, por cada
 
-visita, conforme a la cuota de $8,254.66 $8,255
+visita, conforme a la cuota de $8,956.31 $8,956
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -7581,6 +7011,8 @@ Las verificaciones realizadas a usuarios del servicio de aficionados o radioafic
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 93.
@@ -7591,31 +7023,25 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el estudio de la documentación
 
 inherente a la solicitud para obtener
 
-uno o más títulos de concesión $30,973.29 $30,973
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+uno o más títulos de concesión $33,606.02 $33,606
 
 II.- Por la expedición del título de
 
-concesión, por cada uno $22,270.80 $22,271
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+concesión, por cada uno $24,163.82 $24,164
 
 III.- Por el estudio de la solicitud de
 
-prórroga del título de concesión $12,718.21 $12,718
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+prórroga del título de concesión $13,799.26 $13,799
 
 IV.- Por la autorización de prórroga
 
-de concesión $9,996.03 $9,996
+de concesión $10,845.69 $10,846
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -7627,35 +7053,29 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el estudio de la solicitud
 
 y de la documentación técnica,
 
 administrativa y legal inherente
 
-a la misma $35,247.82 $35,248
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a la misma $38,243.88 $38,244
 
 II.- Por la expedición del título
 
-de concesión $39,864.30 $39,864
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de concesión $43,252.77 $43,253
 
 III.- Por el estudio de la solicitud
 
 de prórroga del título de
 
-concesión $24,906.16 $24,906
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+concesión $27,023.18 $27,023
 
 IV.- Por la autorización de
 
-prórroga de concesión $21,113.04 $21,113
+prórroga de concesión $22,907.65 $22,908
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -7667,15 +7087,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Por el estudio $13,513.03 $13,513
 
-I.- Por el estudio $12,454.41 $12,454
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II.- Por la autorización $5,720.35 $5,720
+II.- Por la autorización $6,206.58 $6,207
 
 No pagarán este derecho las instituciones de enseñanza educativa sin fines de lucro cuando utilicen las bandas de frecuencia para investigación.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -7687,33 +7105,27 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el estudio de la solicitud y
 
 de la documentación técnica,
 
 administrativa y legal inherente
 
-a la misma $29,158.52 $29,159
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a la misma $31,636.99 $31,637
 
 II.- Por la expedición del título de
 
-concesión $19,158.71 $19,159
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+concesión $20,787.20 $20,787
 
 III.- Por el estudio de la solicitud de
 
-prórroga del título de concesión $10,252.92 $10,253
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+prórroga del título de concesión $11,124.42 $11,124
 
 IV.- Por la autorización de prórroga
 
-de concesión $9,580.22 $9,580
+de concesión $10,394.54 $10,395
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -7725,35 +7137,29 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el estudio de la solicitud
 
 y de la documentación técnica,
 
 administrativa y legal inherente
 
-a la misma $35,730.18 $35,730
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a la misma $38,767.25 $38,767
 
 II.- Por la expedición del título de
 
-Concesión $40,045.38 $40,045
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Concesión $43,449.24 $43,449
 
 III.- Por el estudio de la solicitud
 
 de prórroga del título de
 
-concesión $21,113.04 $21,113
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+concesión $22,907.65 $22,908
 
 IV.- Por la autorización de prórroga
 
-de concesión $21,113.04.42 $21,113
+de concesión $22,907.65 $22,908
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -7765,67 +7171,43 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el registro de representantes
 
 o apoderados, después de los
 
-primeramente designados $7,026.20 $7,026
+primeramente designados $7,623.43 $7,623
 
 II.- Por cambio en la titularidad de las concesiones:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $34,151.44 $34,151
 
-a).- Por el estudio $31,475.98 $31,476
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $11,672.22 $11,672
+b).- Por la autorización $12,664.36 $12,664
 
 III.- Por cambio en la escritura constitutiva del concesionario:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $19,413.63 $19,414
 
-a).- Por el estudio $17,892.75 $17,893
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $7,955.80 $7,956
+b).- Por la autorización $8,632.04 $8,632
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 IV.- Por el estudio y, en su caso, autorización para prestar un servicio adicional:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $14,489.02 $14,489
 
-a).- Por el estudio $13,353.94 $13,354
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $4,187.60 $4,188
+b).- Por la autorización $4,543.55 $4,544
 
 V.- Por ampliación al área de cobertura de la red:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio. $12,548.07 $12,548
 
-a).- Por el estudio. $11,565.04 $11,565
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización. $4,187.60 $4,188
+b).- Por la autorización. $4,543.55 $4,544
 
 VI.- Por modificación de las características de uso, aprovechamiento o explotación de frecuencias o bandas de frecuencias concesionadas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio. $11,266.79 $11,267
 
-a).- Por el estudio. $10,384.14 $10,384
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización. $4,187.60 $4,188
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- Por la autorización. $4,543.55 $4,544
 
 VII.- Por el estudio de prórrogas,
 
@@ -7837,31 +7219,25 @@ el título de concesión y, en su
 
 caso, por la autorización de las
 
-prórrogas. $3,171.16 $3,171
+prórrogas. $3,440.71 $3,441
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 VIII.- Por cambio de razón social o cambio en la titularidad de acciones o partes sociales y de aportaciones de capital social de sociedades mercantiles:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $7,288.45 $7,288
 
-a).- Por el estudio $6,717.47 $6,717
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $2,143.41 $2,143
+b).- Por la autorización $2,325.60 $2,326
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 IX.- Por el estudio y autorización de otras modificaciones de los títulos de concesión, no consideradas en las fracciones anteriores:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $11,009.17 $11,009
 
-a).- Por el estudio $10,146.70 $10,147
+b).- Por la autorización $4,439.67 $4,440
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $4,091.86 $4,092
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -7873,31 +7249,25 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el estudio de la solicitud
 
 y de la documentación técnica,
 
 administrativa y legal inherente
 
-a la misma $20,212.08 $20,212
+a la misma $21,930.11 $21,930
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II.- Por la expedición del permiso $22,498.12 $22,498
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+II.- Por la expedición del permiso $24,410.46 $24,410
 
 III.- Por el estudio de la solicitud
 
-de prórroga del permiso $15,994.79 $15,995
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de prórroga del permiso $17,354.35 $17,354
 
 IV.- Por la autorización de
 
-prórroga del permiso $13,402.02 $13,402
+prórroga del permiso $14,541.19 $14,541
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -7911,51 +7281,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el registro de representantes
 
 o apoderados, después de los
 
-primeramente designados $8,979.61 $8,980
+primeramente designados $9,742.88 $9,743
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II.- Por cambio en la titularidad del permiso:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $17,118.33 $17,118
 
-a).- Por el estudio $15,777.26 $15,777
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $5,335.65 $5,336
+b).- Por la autorización $5,789.18 $5,789
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Por cambios en la escritura constitutiva del permisionario:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $3,423.50 $3,423
 
-a).- Por el estudio $3,155.30 $3,155
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $1,068.19 $1,068
+b).- Por la autorización $1,158.99 $1,159
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IV.- Por ampliación al área de cobertura de los servicios:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $14,771.78 $14,772
 
-a).- Por el estudio $13,614.54 $13,615
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $6,266.65 $6,267
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- Por la autorización $6,799.32 $6,799
 
 V.- Por el estudio de prórrogas
 
@@ -7965,7 +7319,9 @@ obligaciones establecidas en el
 
 permiso y, en su caso, por la
 
-autorización de las prórrogas $1,865.78 $1,866
+autorización de las prórrogas $2,024.37 $2,024
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -7977,21 +7333,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la autorización de modificaciones
 
-que requieran estudio técnico $6,137.28 $6,137
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+que requieran estudio técnico $6,658.95 $6,659
 
 II.- Por la autorización de modificaciones
 
-que no requieran estudio técnico $2,188.00 $2,188
+que no requieran estudio técnico $2,373.98 $2,374
 
 ###### ARTICULO 100-A.
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -8003,17 +7357,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el estudio de la solicitud y de
 
 la documentación técnica administrativa
 
-y legal inherente a la misma $12,574.06 $12,574
+y legal inherente a la misma $13,642.86 $13,643
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+II.- Por la expedición del permiso $6,237.87 $6,238
 
-II.- Por la expedición del permiso $5,749.19 $5,749
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -8025,51 +7377,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el registro de representantes o
 
 apoderados, después de los
 
-primeramente designados $5,368.52 $5,369
+primeramente designados $5,824.84 $5,825
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II.- Por cambio en la titularidad del permiso:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $17,118.33 $17,118
 
-a).- Por el estudio $15,777.26 $15,777
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $5,335.65 $5,336
+b).- Por la autorización $5,789.18 $5,789
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Por cambio en la escritura constitutiva del permisionario:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $4,597.69 $4,598
 
-a).- Por el estudio $4,237.50 $4,237
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $1,068.19 $1,068
+b).- Por la autorización $1,158.99 $1,159
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 IV. Por cambio en las características técnicas y de operación del permiso de la estación terrena transmisora:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $4,956.62 $4,957
 
-a).- Por el estudio $4,568.31 $4,568
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $1,859.08 $1,859
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- Por la autorización $2,017.10 $2,017
 
 V. Por el estudio de prórrogas solicitadas
 
@@ -8077,7 +7413,7 @@ para el cumplimiento de obligaciones
 
 establecidas en el permiso y, en su caso,
 
-por la autorización de las prórrogas. $1,865.78 $1,866
+por la autorización de las prórrogas. $2,024.37 $2,024
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -8093,6 +7429,8 @@ por la autorización de las prórrogas. $1,865.78 $1,866
 
 (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 105.
@@ -8103,25 +7441,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el estudio de la solicitud
 
-de asignación $5,501.59 $5,502
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de asignación $5,969.23 $5,969
 
 II.- Por el otorgamiento del título
 
-de asignación $6,630.73 $6,631
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de asignación $7,194.34 $7,194
 
 III.- Por la autorización de
 
 modificaciones o ampliaciones
 
-al título de asignación $3,927.03 $3,927
+al título de asignación $4,260.83 $4,261
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -8253,17 +7585,13 @@ Los estudios para la asignación de las frecuencias que vayan a ser utilizadas d
 
 #### SECCION TERCERA. Concesiones, Permisos, Autorizaciones e Inspecciones
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 120.
 
-Por el estudio de cada
+Por el estudio de cada cuota sin cuota con
 
-solicitud y expedición de la constancia
+solicitud y expedición de la constancia ajuste ajuste
 
 de modificaciones o ampliaciones a
 
@@ -8281,7 +7609,7 @@ entrada en vigor de la Ley Federal de
 
 Telecomunicaciones, se pagará la
 
-cuota de $8,852.10 $8,852
+cuota de $9,604.53 $9,605
 
 ###### ARTICULO 120-A.
 
@@ -8299,6 +7627,8 @@ cuota de $8,852.10 $8,852
 
 (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 123.
@@ -8313,97 +7643,67 @@ ajuste ajuste
 
 I.- Modificación del sistema:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $17,631.10 $17,631
 
-a).- Por el estudio $16,249.86 $16,250
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $2,622.30 $2,622
+b).- Por la autorización $2,845.20 $2,845
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 II.- Generación de nuevos canales:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $4,062.33 $4,062
 
-a).- Por el estudio $3,744.08 $3,744
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $1,129.08 $1,129
+b).- Por la autorización $1,225.05 $1,225
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Por cambios en la escritura constitutiva del concesionario:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $4,416.32 $4,416
 
-a).- Por el estudio $4,070.34 $4,070
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $1,356.65 $1,357
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- Por la autorización $1,471.97 $1,472
 
 IV.- Por el registro de representantes
 
 o apoderados, después de los
 
-primeramente designados $2,170.56 $2,171
+primeramente designados $2,355.06 $2,355
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 V.- Por cambio en la titularidad de las concesiones, traspasos, arrendamientos o cesión de derechos en los títulos de concesión:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $9,426.08 $9,426
 
-a).- Por el estudio $8,687.63 $8,688
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $938.45 $938
+b).- Por la autorización $1,018.22 $1,018
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VI.- Por cambio en la titularidad de las acciones o partes sociales y de aportaciones de capital social de sociedades mercantiles:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $7,459.02 $7,459
 
-a).- Por el estudio $6,874.67 $6,875
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $2,193.56 $2,194
+b).- Por la autorización $2,380.01 $2,380
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VII.- Ampliación del sistema de otra población:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por el estudio $14,326.60 $14,327
 
-a).- Por el estudio $13,204.24 $13,204
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la autorización $4,032.37 $4,032
+b).- Por la autorización $4,375.12 $4,375
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VIII.- Por la autorización de prórroga de la concesión:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Por el estudio de la solicitud de
 
-prórroga del título de concesión $16,282.50 $16,282
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+prórroga del título de concesión $17,666.51 $17,667
 
 b).- Por la autorización de prórroga del
 
-título de concesión $5,427.42 $5,427
+título de concesión $5,888.75 $5,889
 
 ###### ARTICULO 123-A.
 
@@ -8433,6 +7733,8 @@ título de concesión $5,427.42 $5,427
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 124.
@@ -8447,23 +7749,17 @@ ajuste ajuste
 
 I.- Por estaciones de radio en la banda de 535 a 1705 Kilohertz (AM), de 3 a 30 Megahertz (OC) y de 88 a 108 Megahertz (FM):
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Por el estudio de la solicitud y
 
 de la documentación inherente
 
-a la misma $5,821.75 $5,822
+a la misma $6,316.60 $6,317
 
 b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 c).- Por expedición del título de
 
-concesión $10,854.81 $10,855
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+concesión $11,777.47 $11,777
 
 d).- Por el estudio de la
 
@@ -8471,37 +7767,25 @@ documentación solicitada con
 
 motivo de la expedición del
 
-título de concesión $2,910.80 $2,911
+título de concesión $3,158.22 $3,158
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales correspondiente a:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Equipo de transmisión principal
 
-o auxiliar $4,342.97 $4,343
+o auxiliar $4,712.12 $4,712
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- Frecuencia $7,851.54 $7,852
 
-b).- Frecuencia $7,236.44 $7,236
+c).- Potencia $7,851.54 $7,852
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- Potencia $7,236.44 $7,236
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-d).- Ubicación de los estudios $1,808.99 $1,809
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+d).- Ubicación de los estudios $1,962.75 $1,963
 
 e).- Ubicación de la planta
 
-transmisora $7,236.44 $7,236
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+transmisora $7,851.54 $7,852
 
 f).- Para instalar y operar un equipo
 
@@ -8509,41 +7793,29 @@ complementario de zona de sombra
 
 de estaciones de radiodifusoras en
 
-FM $4,107.26 $4,107
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+FM $4,456.38 $4,456
 
 g).- Horario de operación de estaciones
 
-de radio moduladas en amplitud $3,617.98 $3,618
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de radio moduladas en amplitud $3,925.51 $3,926
 
 h).- Por estudio de mediciones de
 
-intensidad de campo $63,339.99 $63,340
+intensidad de campo $68,723.89 $68,724
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-i).- Distintivo de llamada $1,808.79 $1,809
+i).- Distintivo de llamada $1,962.54 $1,963
 
 j).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 k).- Escritura constitutiva de sociedades
 
-mercantiles $5,427.14 $5,427
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+mercantiles $5,888.45 $5,888
 
 l).- Representante o apoderado
 
 legal después del primeramente
 
-aceptado $2,170.56 $2,171
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+aceptado $2,355.06 $2,355
 
 m).- Titularidad de acciones o partes
 
@@ -8551,15 +7823,11 @@ sociales y de aportaciones integrantes
 
 del capital social de sociedades
 
-mercantiles $3,617.98 $3,618
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+mercantiles $3,925.51 $3,926
 
 n).- Titularidad de los derechos de
 
-concesión $3,617.98 $3,618
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+concesión $3,925.51 $3,926
 
 III.- Por el otorgamiento de prórroga
 
@@ -8571,9 +7839,7 @@ así como para cumplir con la
 
 documentación fijada en dichas
 
-autorizaciones $8,444.53 $8,445
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+autorizaciones $9,162.32 $9,162
 
 IV.- Por el estudio y revisión del
 
@@ -8583,13 +7849,13 @@ cada estación que esté incluida
 
 en la concesión que se solicita
 
-refrendar $8,546.44 $8,546
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+refrendar $9,272.89 $9,273
 
 V.- Por la expedición del título del
 
-refrendo de la concesión $8,546.44 $8,546
+refrendo de la concesión $9,272.89 $9,273
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -8601,17 +7867,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el estudio técnico y legal
 
-de la solicitud $4,342.97 $4,343
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de la solicitud $4,712.12 $4,712
 
 II.- Por la expedición de la
 
-Autorización $7,236.53 $7,237
+Autorización $7,851.64 $7,852
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -8627,91 +7891,65 @@ ajuste ajuste
 
 I.- Por estaciones de televisión en las bandas de VHF (canales del 2 al 13) y UHF (canales del 14 al 69):
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Por el estudio de la solicitud y
 
 de la documentación inherente a
 
-la misma $5,821.75 $5,822
+la misma $6,316.60 $6,317
 
 b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 c).- Por la expedición del título de
 
-concesión $8,546.44 $8,546
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+concesión $9,272.89 $9,273
 
 d).- Por el estudio de la documentación
 
 solicitada con motivo de la expedición
 
-del título de concesión $2,910.80 $2,911
+del título de concesión $3,158.22 $3,158
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales, correspondiente a:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Cambio de equipo transmisor
 
-principal o auxiliar $8,141.81 $8,142
+principal o auxiliar $8,833.86 $8,834
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Cambio de canal $10,854.86 $10,855
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- Cambio de canal $11,777.52 $11,778
 
 c).- Cambio de potencia radiada
 
-aparente $10,854.86 $10,855
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+aparente $11,777.52 $11,778
 
 d).- Cambio de ubicación de los
 
-estudios $2,713.47 $2,713
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+estudios $2,944.11 $2,944
 
 e).- Cambio de ubicación de la
 
-planta transmisora $10,854.86 $10,855
+planta transmisora $11,777.52 $11,778
 
 f).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 g).- Por estudio de mediciones de
 
-intensidad de campo $63,339.99 $63,340
+intensidad de campo $68,723.89 $68,724
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-h).- Distintivo de llamada $2,713.37 $2,713
+h).- Distintivo de llamada $2,944.01 $2,944
 
 i).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 j).- Escritura constitutiva de
 
-sociedades mercantiles $8,141.06 $8,141
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+sociedades mercantiles $8,833.05 $8,833
 
 k).- Representante o apoderado
 
 legal, después del primeramente
 
-aceptado $2,713.37 $2,713
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+aceptado $2,944.01 $2,944
 
 l).- Titularidad de acciones o partes
 
@@ -8719,15 +7957,11 @@ sociales y de aportaciones integrantes
 
 del capital social de sociedades
 
-mercantiles $5,427.14 $5,427
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+mercantiles $5,888.45 $5,888
 
 m).- Titularidad de los derechos
 
-de concesión $5,427.14 $5,427
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de concesión $5,888.45 $5,888
 
 III.- Por el otorgamiento de prórroga
 
@@ -8737,9 +7971,7 @@ técnicas autorizadas, así como para
 
 cumplir con la documentación fijada en
 
-dichas autorizaciones $8,447.43 $8,447
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+dichas autorizaciones $9,165.46 $9,165
 
 IV.- Por el estudio de cada solicitud y de
 
@@ -8753,9 +7985,7 @@ zona de sombra o un canal adicional
 
 para las transmisiones de la televisión
 
-digital terrestre $4,455.57 $4,456
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+digital terrestre $4,834.29 $4,834
 
 V.- Por la revisión del cumplimiento de
 
@@ -8763,13 +7993,13 @@ obligaciones por cada estación que esté
 
 incluida en la concesión que se pretende
 
-refrendar $10,557.90 $10,558
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+refrendar $11,455.32 $11,455
 
 VI.- Por la expedición del título de
 
-refrendo de la concesión $10,557.90 $10,558
+refrendo de la concesión $11,455.32 $11,455
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -8781,17 +8011,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el estudio técnico y legal de
 
-la solicitud $4,342.97 $4,343
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+la solicitud $4,712.12 $4,712
 
 II.- Por la expedición de la
 
-autorización $5,699.47 $5,699
+autorización $6,183.92 $6,184
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -8803,15 +8031,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el estudio de la solicitud y
 
 de la documentación inherente a
 
-la misma $5,754.76 $5,755
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+la misma $6,243.91 $6,244
 
 II.- Por el estudio de la solicitud y
 
@@ -8821,7 +8045,7 @@ misma, por modificación al
 
 circuito de enlace estudio-planta
 
-o control remoto $4,246.78 $4,247
+o control remoto $4,607.76 $4,608
 
 ###### ARTICULO 127.
 
@@ -8871,11 +8095,11 @@ o control remoto $4,246.78 $4,247
 
 Por el otorgamiento del permiso para la instalación y operación de estaciones de radiodifusión sonora y de televisión, se pagará el 50% de los derechos establecidos en los artículos 124 y 125 de esta Ley, según corresponda.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 131.
 
-Por la expedición de licencias de estaciones de radio a bordo de barcos y aviones $684.28 $684
+Por la expedición de licencias de estaciones de radio a bordo de barcos y aviones $742.44 $742
 
 ###### ARTICULO 132.
 
@@ -8923,6 +8147,8 @@ Por la expedición de licencias de estaciones de radio a bordo de barcos y avion
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 138.
@@ -8935,27 +8161,19 @@ ajuste ajuste
 
 A.- Por el estudio de la solicitud y de la documentación técnica, administrativa, operativa y legal inherente a la misma y, en su caso, por el otorgamiento del certificado de homologación provisional:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- De conmutadores hasta
 
-de 30 líneas $4,268.95 $4,269
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de 30 líneas $4,631.81 $4,632
 
 II.- De equipo transreceptor de
 
 radioenlace de hasta 30 canales
 
-o 2 megabits por segundo (mbps) $6,383.10 $6,383
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o 2 megabits por segundo (mbps) $6,925.66 $6,926
 
 III.- De conmutadores de 31
 
-hasta 60 líneas $7,442.05 $7,442
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hasta 60 líneas $8,074.62 $8,075
 
 IV.- De equipo transreceptor de
 
@@ -8963,15 +8181,11 @@ radioenlace de más de 30 y hasta
 
 60 canales o 2x2 megabits por
 
-segundo (mbps) $11,143.68 $11,144
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+segundo (mbps) $12,090.89 $12,091
 
 V.- De conmutadores de 61
 
-hasta 120 líneas $13,791.93 $13,792
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hasta 120 líneas $14,964.24 $14,964
 
 VI.- De equipo transreceptor de
 
@@ -8979,15 +8193,11 @@ radioenlace de más de 60 y hasta
 
 120 canales o 4x2 megabits por
 
-segundo (mbps) $20,679.68 $20,680
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+segundo (mbps) $22,437.45 $22,437
 
 VII.- De conmutadores de 121
 
-hasta 240 líneas $20,151.10 $20,151
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hasta 240 líneas $21,863.94 $21,864
 
 VIII.- De equipo transreceptor de
 
@@ -8995,191 +8205,125 @@ radioenlace de más de 120 y hasta
 
 240 canales u 8x2 megabits por
 
-segundo (mbps) $30,202.67 $30,203
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+segundo (mbps) $32,769.90 $32,770
 
 IX.- De conmutadores de
 
-más de 240 líneas $33,381.32 $33,381
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+más de 240 líneas $36,218.73 $36,219
 
 X.- De equipo transreceptor de radio
 
 enlace de más de 240 canales o de más
 
-de 8x2 megabits por segundo (mbps) $50,060.00 $50,060
+de 8x2 megabits por segundo (mbps) $54,315.10 $54,315
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XI.- De centrales telefónicas públicas $59,850.9 $59,851
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XI.- De centrales telefónicas públicas $64,938.32 $64,938
 
 XII.- De centrales telefónicas
 
-privadas digitales $13,791.93 $13,792
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+privadas digitales $14,964.24 $14,964
 
 XIII.- De estaciones terrenas
 
-transreceptoras maestras $33,381.32 $33,381
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+transreceptoras maestras $36,218.73 $36,219
 
 XIV.- De estaciones terrenas
 
-transreceptoras remotas $13,791.93 $13,792
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+transreceptoras remotas $14,964.24 $14,964
 
 XV.- De estaciones terminales
 
-móviles terrestres por satélite $11,151.08 $11,151
+móviles terrestres por satélite $12,098.92 $12,099
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XVI.- De equipo terminal satelital $6,383.10 $6,383
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XVI.- De equipo terminal satelital $6,925.66 $6,926
 
 XVII.- De ruteadores de baja y
 
-mediana capacidad $9,467.47 $9,467
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+mediana capacidad $10,272.20 $10,272
 
 XVIII.- De ruteadores de
 
-alta capacidad $33,381.32 $33,381
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+alta capacidad $36,218.73 $36,219
 
 XIX.- De conmutadores y multilíneas
 
-digitales de baja y mediana capacidad $9,467.47 $9,467
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+digitales de baja y mediana capacidad $10,272.20 $10,272
 
 XX.- De conmutadores y multilíneas
 
-digitales de alta capacidad $33,381.32 $33,381
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+digitales de alta capacidad $36,218.73 $36,219
 
 XXI.- De multiplexores digitales
 
-de baja y mediana capacidad $13,699.52 $13,700
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de baja y mediana capacidad $14,863.98 $14,864
 
 XXII.- De multiplexores digitales
 
-de alta capacidad $13,791.93 $13,792
+de alta capacidad $14,964.24 $14,964
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XXIII.- De terminal de datos $11,151.08 $11,151
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XXIII.- De terminal de datos $12,098.92 $12,099
 
 XXIV.- De transreceptores de
 
-facsímiles y de facsímil-modem $6,383.10 $6,383
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+facsímiles y de facsímil-modem $6,925.66 $6,926
 
 XXV.- De teléfonos analógicos
 
-alámbricos y accesorios telefónicos $6,383.10 $6,383
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+alámbricos y accesorios telefónicos $6,925.66 $6,926
 
 XXVI.- De teléfonos inalámbricos,
 
 digitales, celulares y sistemas
 
-personales de comunicación $6,383.10 $6,383
+personales de comunicación $6,925.66 $6,926
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XXVII.- De módem $6,925.66 $6,926
 
-XXVII.- De módem $6,383.10 $6,383
+XXVIII.- De equipo de fibra óptica $22,437.45 $22,437
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XXIX.- De centrales celulares $16,423.47 $16,423
 
-XXVIII.- De equipo de fibra óptica $20,679.68 $20,680
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XXIX.- De centrales celulares $15,136.84 $15,137
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XXX.- De estación base celular $11,151.08 $11,151
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XXX.- De estación base celular $12,098.92 $12,099
 
 XXXI.- De equipo transreceptor
 
-monocanal base $11,151.08 $11,151
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+monocanal base $12,098.92 $12,099
 
 XXXII.- De equipo transreceptor
 
-monocanal móvil $6,383.10 $6,383
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+monocanal móvil $6,925.66 $6,926
 
 XXXIII.- De equipo transreceptor
 
-monocanal portátil $2,714.69 $2,715
+monocanal portátil $2,945.44 $2,945
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XXXIV.- De equipo repetidor fijo $12,098.92 $12,099
 
-XXXIV.- De equipo repetidor fijo $11,151.08 $11,151
+XXXV.- De equipo receptor terminal $6,925.66 $6,926
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XXXV.- De equipo receptor terminal $6,383.10 $6,383
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XXXVI.- De equipo transmisor terminal $6,383.10 $6,383
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XXXVI.- De equipo transmisor terminal $6,925.66 $6,926
 
 XXXVII.- De equipo de
 
 radiocomunicación que emplea
 
-la técnica de espectro disperso $6,562.35 $6,562
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+la técnica de espectro disperso $7,120.15 $7,120
 
 XXXVIII.- De equipo conmutador
 
 telefónico privado con acceso
 
-inalámbrico $11,151.08 $11,151
+inalámbrico $12,098.92 $12,099
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XXXIX.- De equipos multilíneas $11,151.08 $11,151
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XXXIX.- De equipos multilíneas $12,098.92 $12,099
 
 XL.- Otros equipos no contemplados
 
-en este apartado $5,649.40 $5,649
+en este apartado $6,129.60 $6,130
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 Por la expedición de un certificado de homologación definitivo, con antecedentes de homologación y el solicitante presente pruebas fehacientes del funcionamiento del equipo, estipulado en el proceso de homologación vigente, avaladas por dos peritos en telecomunicaciones o por un laboratorio autorizado por la autoridad competente, se pagará el equivalente al 50% de las cuotas establecidas según el producto a homologar establecido en este apartado.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Por la primera o segunda renovación
 
@@ -9191,9 +8335,7 @@ modificado las características técnicas
 
 y operativas autorizadas, se pagará la
 
-cuota de: $2,678.68 $2,679
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+cuota de: $2,906.37 $2,906
 
 Por la expedición de una ampliación a un
 
@@ -9203,7 +8345,7 @@ definitivo, cuando el equipo no cambie de
 
 normatividad y se trate del mismo equipo
 
-homologado, se pagará la cuota de: $2,678.68 $2,679
+homologado, se pagará la cuota de: $2,906.37 $2,906
 
 ###### ARTICULO 139.
 
@@ -9216,6 +8358,8 @@ homologado, se pagará la cuota de: $2,678.68 $2,679
 ###### ARTICULO 141.
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -9237,17 +8381,11 @@ II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 III.- Certificados de aptitud para instalar y operar estaciones radioeléctricas del servicio de aficionados:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Expedición $1,425.58 $1,426
 
-a).- Expedición $1,313.90 $1,314
+b).- Revalidación $729.76 $730
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Revalidación $672.59 $673
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- Modificaciones $672.59 $673
+c).- Modificaciones $729.76 $730
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -9259,19 +8397,15 @@ a).- Expedición:
 
 1.- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 2.- Permiso para operar estaciones
 
-de servicio de aficionados $1,313.90 $1,314
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de servicio de aficionados $1,425.58 $1,426
 
 3.- Permiso para instalar y operar
 
 estaciones repetidoras del servicio
 
-de aficionados $1,313.90 $1,314
+de aficionados $1,425.58 $1,426
 
 b).- Revalidación:
 
@@ -9279,41 +8413,31 @@ b).- Revalidación:
 
 1. (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 2. Permiso para operar estaciones
 
-del servicio de aficionados $672.59 $673
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+del servicio de aficionados $729.76 $730
 
 3. Permiso para instalar y operar
 
 estaciones repetidoras del servicio
 
-de aficionados $672.59 $673
+de aficionados $729.76 $730
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- Modificaciones $672.59 $673
+c).- Modificaciones $729.76 $730
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 V.- Constancia de registro de profesional técnico responsable y de radioperadores de estaciones radioeléctricas civiles:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Expedición $1,722.34 $1,722
 
-a).- Expedición $1,587.41 $1,587
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Revalidación $809.36 $809
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- Revalidación $878.16 $878
 
 c).- Responsiva, por cada estación
 
-o red pública $809.36 $809
+o red pública $878.16 $878
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -9329,27 +8453,19 @@ ajuste ajuste
 
 I.- Por ajustes de frecuencia, ancho de banda y modulación a estaciones radioeléctricas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- Radiodifusión $7,408.76 $7,409
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Radiodifusión $8,038.50 $8,038
 
 b).- Servicios privados por cada
 
-transreceptor fijo $1,351.57 $1,352
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+transreceptor fijo $1,466.45 $1,466
 
 c).- Servicios privados por cada
 
-transreceptor móvil $450.24 $450
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+transreceptor móvil $488.51 $489
 
 II.- Medición de los parámetros técnicos
 
-de la señal de televisión $9,012.39 $9,012
+de la señal de televisión $9,778.44 $9,778
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -9399,6 +8515,8 @@ de la señal de televisión $9,012.39 $9,012
 
 #### SECCION QUINTA. Autotransporte Federal y Servicios Auxiliares
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 148.
@@ -9419,33 +8537,73 @@ I.- Permisos:
 
 a). Para la operación y explotación de los servicios de autotransporte federal y sus servicios auxiliares en sus distintas modalidades, por cada permiso para:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+1. Vehículos motrices. Incluye
 
-1. Vehículos motrices. Incluye permiso, alta vehicular, dos placas, calcomanía de identificación vehicular y tarjeta de circulación $3,080.00
+permiso, alta vehicular, dos
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+placas, calcomanía de identificación
 
-Cuando los servicios a que se refiere el presente numeral sean solicitados a través de medios electrónicos $2,349.00
+vehicular y tarjeta de circulación $3,208.13 $3,208
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Cuando los servicios a que
 
-2. Unidades de Arrastre. Incluye permiso, alta vehicular, una placa, calcomanía de identificación vehicular y tarjeta de circulación $2,351.00
+se refiere el presente numeral
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+sean solicitados a través de
 
-Cuando los servicios a que se refiere el presente numeral sean solicitados a través de medios electrónicos $1,620.00
+medios electrónicos $2,446.72 $2,447
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+2. Unidades de Arrastre.
 
-3. Especial para grúas industriales del servicio de autotransporte federal; especial por un viaje para el autotransporte de objetos voluminosos o de gran peso; para complementar la ruta autorizada por concesiones o permisos estatales; depósitos de vehículos; para el autotransporte internacional de pasajeros, turismo y carga; para operar servicios transfronterizos de turismo $552.24 $552
+Incluye permiso, alta vehicular,
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+una placa, calcomanía de
 
-Cuando los servicios a que se refiere el presente numeral sean solicitados a través de medios electrónicos $179.25 $179
+identificación vehicular y tarjeta
+
+de circulación $2,448.80 $2,449
+
+Cuando los servicios a que
+
+se refiere el presente numeral
+
+sean solicitados a través de
+
+medios electrónicos $1,687.39 $1,687
+
+3. Especial para grúas industriales
+
+del servicio de autotransporte
+
+federal; especial por un viaje
+
+para el autotransporte de objetos
+
+voluminosos o de gran peso;
+
+para complementar la ruta
+
+autorizada por concesiones o
+
+permisos estatales; depósitos
+
+de vehículos; para el autotransporte
+
+internacional de pasajeros, turismo
+
+y carga; para operar servicios
+
+transfronterizos de turismo $599.18 $599
+
+Cuando los servicios a que
+
+se refiere el presente numeral
+
+sean solicitados a través de
+
+medios electrónicos $194.49 $194
 
 Si los permisos que se otorgan conforme a los numerales 1 y 2 de este inciso amparan más de un vehículo motriz o unidad de arrastre, se pagará por cada uno de los subsecuentes únicamente el derecho por el alta, a que se refiere la fracción I del apartado D de este artículo.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 b).- Para la construcción, operación
 
@@ -9453,71 +8611,83 @@ y explotación de terminales de
 
 pasajeros del autotransporte federal,
 
-por permiso. $1,754.18 $1,754
+por permiso. $1,903.29 $1,903
 
 II.- Autorizaciones:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 a).- Para la cesión de derechos y
 
 obligaciones establecidos en los
 
-permisos, por trámite. $1,847.59 $1,848
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+permisos, por trámite. $2,004.64 $2,005
 
 b).- Para el traslado de mancuernas,
 
 tricuernas, cuatricuernas y
 
-pentacuernas, por permiso. $1,629.18 $1,629
+pentacuernas, por permiso. $1,767.66 $1,768
 
 c).- Para el inicio de operación de terminal de autotransporte de pasajeros, por autorización:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+1.- Central. $11,504.72 $11,505
 
-1.- Central. $10,603.43 $10,603
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-2.- Individual. $1,890.18 $1,890
+2.- Individual. $2,050.85 $2,051
 
 III.- Placas metálicas, calcomanía de identificación vehicular y tarjeta de circulación:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+a). Reposición de placas
+
+para automotor, remolque
+
+y semirremolque, para los
+
+servicios de autotransporte
+
+federal en sus diversas
+
+modalidades, servicios auxiliares
+
+y de arrendamiento, por placa $819.74 $820
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-a). Reposición de placas para automotor, remolque y semirremolque, para los servicios de autotransporte federal en sus diversas modalidades, servicios auxiliares y de arrendamiento, por placa $755.52 $756
+b). Reposición de calcomanía
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de identificación vehicular,
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-b). Reposición de calcomanía de identificación vehicular, por calcomanía $122.27 $122
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+por calcomanía $132.66 $133
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-c). Revalidación de la tarjeta de circulación para automotor, remolque y semirremolque, para los servicios de autotransporte federal en sus diversas modalidades, servicios auxiliares y de arrendamiento, por tarjeta $438.20 $438
+c). Revalidación de la tarjeta
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de circulación para automotor,
+
+remolque y semirremolque,
+
+para los servicios de
+
+autotransporte federal en
+
+sus diversas modalidades,
+
+servicios auxiliares y de
+
+arrendamiento, por tarjeta $475.45 $475
 
 1.- Por la modificación o reposición
 
-de la tarjeta de circulación, por tarjeta. $175.83 $176
+de la tarjeta de circulación, por tarjeta. $190.78 $191
 
 B. Canje de placas metálicas y calcomanías de identificación:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- Canje de placas metálicas y
 
@@ -9529,9 +8699,7 @@ carga, pasajeros, turismo, servicios
 
 auxiliares, arrendamiento y traslado,
 
-por vehículo. $1,541.28 $1,541
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+por vehículo. $1,672.29 $1,672
 
 II.- Canje de placa metálica y
 
@@ -9539,31 +8707,23 @@ calcomanía de identificación para
 
 remolque y semirremolque, por
 
-vehículo. $767.90 $768
+vehículo. $833.17 $833
 
 C. Licencias para conducir:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- Expedición. $388.76 $389
+a).- Expedición. $421.80 $422
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 b). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 c).- Expedición de categoría
 
-adicional de licencia. $123.64 $124
+adicional de licencia. $134.15 $134
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+d).- Renovación. $254.87 $255
 
-d).- Renovación. $234.90 $235
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-e).- Duplicado. $234.90 $235
+e).- Duplicado. $254.87 $255
 
 Las cuotas a que se refiere este apartado, se aplicarán por servicio prestado, no debiendo pagarse los refrendos o renovación vencidos.
 
@@ -9575,33 +8735,73 @@ D. Servicios diversos:
 
 I.- Alta de vehículo automotor, remolque o semirremolque en el permiso de los servicios de autotransporte federal y servicios auxiliares. En el supuesto de arrendamiento: alta de vehículo automotor, remolque o semirremolque o automóvil para uso particular en el registro de arrendamiento; vehículo automotor, remolque o semirremolque en arrendamiento, en el permiso de los servicios de autotransporte federal y servicios auxiliares. Alta de vehículo automotor, remolque o semirremolque por cambio de modalidad:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). Por cada vehículo motriz.
 
-a). Por cada vehículo motriz. Incluye alta de vehículo, dos placas, calcomanía de identificación vehicular y tarjeta de circulación $2,547.00
+Incluye alta de vehículo,
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+dos placas, calcomanía de
 
-Cuando los servicios a que se refiere el presente inciso sean solicitados a través de medios electrónicos, por cada vehículo motriz $2,176.00
+identificación vehicular y tarjeta
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de circulación $2,652.96 $2,653
 
-b). Por cada unidad de arrastre. Incluye alta de vehículo, una placa, calcomanía de identificación vehicular y tarjeta de circulación $1,818.00
+Cuando los servicios a que
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+se refiere el presente
 
-Cuando los servicios a que se refiere el presente inciso sean solicitados a través de medios electrónicos, por cada unidad de arrastre $1,447.00
+inciso sean solicitados a
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+través de medios electrónicos,
 
-c). Por cada vehículo automotor, remolque o semirremolque en arrendamiento, en el permiso de los servicios de autotransporte federal y servicios auxiliares; o cambio de modalidad. Incluye alta de vehículo y modificación de la tarjeta de circulación $718.00
+por cada vehículo motriz $2,266.52 $2,267
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b). Por cada unidad de arrastre.
 
-Cuando los servicios a que se refiere el presente inciso sean solicitados a través de medios electrónicos, por cada vehículo automotor, remolque o semirremolque $347.00
+Incluye alta de vehículo, una
+
+placa, calcomanía de identificación
+
+vehicular y tarjeta de circulación $1,893.63 $1,894
+
+Cuando los servicios a que se
+
+refiere el presente inciso
+
+sean solicitados a través de
+
+medios electrónicos, por cada
+
+unidad de arrastre $1,507.20 $1,507
+
+c). Por cada vehículo automotor,
+
+remolque o semirremolque en
+
+arrendamiento, en el permiso de los
+
+servicios de autotransporte federal
+
+y servicios auxiliares; o cambio
+
+de modalidad. Incluye alta de
+
+vehículo y modificación de la
+
+tarjeta de circulación $747.87 $748
+
+Cuando los servicios a que
+
+se refiere el presente inciso
+
+sean solicitados a través de
+
+medios electrónicos, por cada
+
+vehículo automotor, remolque o
+
+semirremolque $361.44 $361
 
 II.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 III.- Suscripción de convenio anual
 
@@ -9613,25 +8813,19 @@ las empresas fabricantes y
 
 distribuidoras de vehículos nuevos y
 
-empresas trasladistas, por convenio. $123.64 $124
+empresas trasladistas, por convenio. $134.15 $134
 
 IV.- Expedición y reposición de placas metálicas de identificación de traslado a empresas armadoras o distribuidoras trasladistas de vehículos nuevos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Por el pago de la renta mensual
 
-de placas de traslado, por vehículo. $615.41 $615
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de placas de traslado, por vehículo. $667.72 $668
 
 b).- Expedición o reposición de placa
 
 metálica de identificación de traslado,
 
-por vehículo. $747.28 $747
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+por vehículo. $810.80 $811
 
 V.- Por el otorgamiento de cada
 
@@ -9643,7 +8837,7 @@ entregue a los centros de verificación
 
 de emisiones contaminantes de los
 
-vehículos de pasaje y carga. $13.73 $14
+vehículos de pasaje y carga. $14.90 $15
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9653,15 +8847,15 @@ VI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 VII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 VIII.- Por el estudio y, en su caso,
 
 aprobación de la instalación de
 
 unidades de verificación o laboratorios
 
-de prueba, por unidad. $1,050.86 $1,051
+de prueba, por unidad. $1,140.18 $1,140
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -9673,37 +8867,27 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Expedición de permiso para
 
-transporte privado, por permiso. $1,572.86 $1,573
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+transporte privado, por permiso. $1,706.55 $1,707
 
 II.- Expedición de la tarjeta de
 
 circulación para el transporte
 
-privado, por tarjeta. $921.75 $922
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+privado, por tarjeta. $1,000.10 $1,000
 
 III.- Reposición o modificación de la
 
 tarjeta de circulación para el transporte
 
-privado, por tarjeta. $281.61 $282
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+privado, por tarjeta. $305.55 $306
 
 IV.- Revalidación de la tarjeta de
 
 circulación para el transporte privado,
 
-por tarjeta. $755.52 $756
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+por tarjeta. $819.74 $820
 
 V.- Alta de vehículo automotor,
 
@@ -9711,25 +8895,19 @@ remolque o semirremolque en el
 
 permiso de transporte privado de
 
-personas o carga, por vehículo. $567.34 $567
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+personas o carga, por vehículo. $615.56 $616
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-Cuando los permisos a que se refiere la presente fracción sean solicitados a través de medios electrónicos, por vehículo $183.39 $183
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Cuando los permisos a que se refiere la presente fracción sean solicitados a través de medios electrónicos, por vehículo $198.98 $199
 
 VI.- Permiso para el transporte de
 
 materiales peligrosos y sus residuos,
 
-por permiso. $1,715.72 $1,716
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+por permiso. $1,861.56 $1,862
 
 VII.- Permiso especial por un año
 
@@ -9737,9 +8915,7 @@ para el tránsito de grúas industriales
 
 del servicio privado, por vehículo, por
 
-permiso. $552.21 $552
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+permiso. $599.15 $599
 
 VIII.- Permiso por un solo viaje para
 
@@ -9749,7 +8925,7 @@ de objetos voluminosos o de gran
 
 peso, con exceso de peso o dimensión,
 
-por permiso. $526.12 $526
+por permiso. $570.84 $571
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -9767,6 +8943,8 @@ por permiso. $526.12 $526
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 150-C.
@@ -9777,15 +8955,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por extensión de horario de los
 
 servicios de control de tránsito aéreo,
 
 por cada minuto o fracción, conforme
 
-a la cuota de $11.58 $12
+a la cuota de $12.56 $13
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9849,6 +9025,8 @@ VI.- Que participen en festivales aéreos organizados por la autoridad aeronáut
 
 (DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2005)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 154.
@@ -9859,19 +9037,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por cada concesión de
 
-Aeropuertos $29,109.47 $29,109
+Aeropuertos $31,583.77 $31,584
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- Por su modificación $3,638.58 $3,639
+a).- Por su modificación $3,947.86 $3,948
 
 II.- Por cada permiso de:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 a).- Construcción de aeródromos de
 
@@ -9887,9 +9059,7 @@ privado; helipuertos de servicio
 
 privado con contrato con terceros o
 
-hidroaeródromos $7,277.25 $7,277
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hidroaeródromos $7,895.82 $7,896
 
 b).- Explotación de aeródromos de
 
@@ -9905,9 +9075,7 @@ privado; helipuertos de servicio
 
 privado con contrato con terceros o
 
-hidroaeródromos $7,277.25 $7,277
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hidroaeródromos $7,895.82 $7,896
 
 c).- Ampliación o remodelación de la
 
@@ -9925,49 +9093,33 @@ de servicio privado; helipuertos de
 
 servicio privado con contrato con
 
-terceros o hidroaeródromos $7,277.25 $7,277
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+terceros o hidroaeródromos $7,895.82 $7,896
 
 d).- Por la modificación de los permisos
 
-a que se refiere esta fracción $3,638.58 $3,639
+a que se refiere esta fracción $3,947.86 $3,948
 
 III.- Por cada permiso de:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Construcción y explotación de
 
-aeródromos de servicio comunitario $727.58 $728
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+aeródromos de servicio comunitario $789.42 $789
 
 b).- Modificación a los aeródromos
 
-de servicio comunitario $290.96 $291
+de servicio comunitario $315.69 $316
 
 IV.- Por cada permiso para proporcionar servicios de almacenamiento y suministro de combustible de aviación:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- De uso privado $3,947.86 $3,948
 
-a).- De uso privado $3,638.58 $3,639
+b).- De uso público $15,791.81 $15,792
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De uso público $14,554.66 $14,555
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- Para aviones agrícolas 1,455.34 $1,455
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+c).- Para aviones agrícolas $1,579.04 $1,579
 
 d).- Para aerostatos, aviones
 
-ultraligeros u otros análogos $1,455.34 $1,455
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+ultraligeros u otros análogos $1,579.04 $1,579
 
 V.- Por la autorización de extensión de
 
@@ -9977,7 +9129,7 @@ cada media hora o fracción con
 
 tolerancia de cinco minutos posteriores
 
-a la media hora $436.50 $436
+a la media hora $473.60 $474
 
 Cuando la extensión de horario de servicio de los aeródromos civiles sea solicitado por más de un concesionario, permisionario, autorizado u operador, cada solicitante pagará el 50% de la cuota establecida en esta fracción.
 
@@ -9997,6 +9149,8 @@ d). La verificación y certificación de radares y radioayudas a la navegación 
 
 e). Participar en festivales aéreos organizados por la autoridad aeronáutica.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 155.
@@ -10007,23 +9161,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por verificación mayor o verificación
 
 a las condiciones de concesiones
 
-y permisos $5,836.07 $5,836
+y permisos $6,332.14 $6,332
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II.- Por verificación menor $1,164.23 $1,164
+II.- Por verificación menor $1,263.19 $1,263
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 III.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 IV.- Por verificación menor a los
 
@@ -10043,7 +9191,7 @@ concesionarios y permisionarios en
 
 especial a las aeronaves, sus partes
 
-y refacciones $369.54 $370
+y refacciones $400.95 $401
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10051,17 +9199,13 @@ y refacciones $369.54 $370
 
 No se pagará el derecho a que se refiere esta fracción cuando se verifique a los Centros de Formación, Capacitación y Adiestramiento operados por la Secretaría de Comunicaciones y Transportes.
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 156.
 
-Por los servicios
+Por los servicios cuota sin cuota con
 
-de certificación mediante vuelos de
+de certificación mediante vuelos de ajuste ajuste
 
 inspección de ayudas a la navegación
 
@@ -10073,11 +9217,13 @@ determinación de sitio y certificación
 
 periódica o especial se pagarán
 
-derechos conforme a la cuota de $81,797.89 $81,798
+derechos conforme a la cuota de $88,750.71 $88,751
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 No se pagará el derecho a que se refiere este artículo por los servicios de certificación mediante vuelos de inspección a las instalaciones de ayudas a la navegación aérea propiedad de la Secretaría de Comunicaciones y Transportes operadas por la misma.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10093,13 +9239,9 @@ Por los servicios relacionados con la expedición de cada certificado de capacid
 
 I. Por la expedición de cada certificado de capacidad, licencia o permiso para:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Personal de vuelo $1,263.19 $1,263
 
-a).- Personal de vuelo $1,164.23 $1,164
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Personal de tierra $873.13 $873
+b).- Personal de tierra $947.35 $947
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10111,23 +9253,19 @@ Por la recuperación de licencia se pagará la misma cuota establecida en los in
 
 II.- Por la revalidación de licencia al:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Personal de vuelo $631.47 $631
 
-a).- Personal de vuelo $582.00 $582
+b).- Personal de tierra $473.60 $474
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Personal de tierra $436.50 $436
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III.- Por reposición de la licencia $436.50 $436
+III.- Por reposición de la licencia $473.60 $474
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 No se pagará el derecho a que se refiere la fracción II de este artículo por la revalidación de licencias al personal técnico aeronáutico de la Secretaría de Comunicaciones y Transportes.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -10141,29 +9279,21 @@ ajuste ajuste
 
 I.- Por la expedición de los siguientes certificados:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-a) De aeronavegabilidad $2,853.00
+a) De aeronavegabilidad $2,971.68 $2,972
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De matrícula $1,455.34 $1,455
+b).- De matrícula $ 1,579.04 $ 1,579
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 c). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 d).- De aeronavegabilidad o matrículas
 
-de aeronaves agrícolas $873.13 $873
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de aeronaves agrícolas $ 947.35 $ 947
 
 e).- De aeronavegabilidad o matrícula
 
@@ -10173,53 +9303,57 @@ u otros análogos, cuando operen fuera
 
 de las áreas geográficas autorizadas
 
-a sus clubes $873.13 $873
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a sus clubes $ 947.35 $ 947
 
 II.- Por la expedición de certificados de
 
-homologación por emisión de ruido $873.13 $873
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+homologación por emisión de ruido $ 947.35 $ 947
 
 III.- Por la renovación o reposición
 
 del certificado de aeronavegabilidad
 
-o matrícula $1,455.34 $1,455
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o matrícula $ 1,579.04 $ 1,579
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-IV. Por la expedición del certificado de aeródromo $9,203.62
+IV. Por la expedición del certificado
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de aeródromo $ 9,586.49 $9,586
 
 V.- Por la asignación de marcas de
 
 nacionalidad y matrícula con siglas
 
-especiales $19,048.20 $19,048
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+especiales $ 20,667.30 $ 20,667
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-VI. Por la expedición del certificado de especificaciones del sistema de gestión de seguridad operacional $32,875.23
+VI. Por la expedición del certificado de
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+especificaciones del sistema
+
+de gestión de seguridad
+
+operacional $ 34,242.84 $34,243
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-VII. Por la expedición del certificado de producción de aeronaves y sus componentes $17,161.47
+VII. Por la expedición
+
+del certificado de producción
+
+de aeronaves y sus
+
+componentes $ 17,875.39 $17,875
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10227,17 +9361,13 @@ VII. Por la expedición del certificado de producción de aeronaves y sus compon
 
 ARTICULO 158 BIS.- Por las verificaciones, y en su caso, la certificación como explotador de servicios aéreos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I. Por el otorgamiento $ 54,763.31 $54,763
 
-I. Por el otorgamiento $52,576.14
+II. Por la renovación $ 4,164.44 $4,164
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III. Por la convalidación $ 1,520.26 $1,520
 
-II. Por la renovación $3,998.12
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III. Por la convalidación $1,459.54
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -10249,13 +9379,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Concesión $ 31,583.77 $ 31,584
 
-I.- Concesión $29,109.47 $29,109
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II.- Permiso $14,554.66 $14,555
+II.- Permiso $ 15,791.81 $ 15,792
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10263,55 +9389,43 @@ II.- Permiso $14,554.66 $14,555
 
 No se pagará el derecho establecido en esta fracción cuando los permisos se otorguen para talleres aeronáuticos o centros de capacitación o adiestramiento que los concesionarios, permisionarios, autorizados u operadores de servicios establezcan con motivo de su propia operación o de la Ley Federal del Trabajo, así como aquellos que son parte de la Secretaría de Comunicaciones y Transportes.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-III. Autorización $1,383.35
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III. Autorización $ 1,440.90 $1,441
 
 IV.- Permiso de aeronaves para
 
-uso agrícola $7,277.25 $7,277
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+uso agrícola $ 7,895.82 $ 7,896
 
 V.- Autorización de clubes aéreos
 
-y de aeromodelismo $1,455.34 $1,455
+y de aeromodelismo $ 1,579.04 $ 1,579
 
 Por la modificación de las concesiones, permisos o autorizaciones a que se refiere este artículo se pagará únicamente el 25% del monto de la cuota del derecho que corresponda, respectivamente.
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 160.
 
-Por la expedición
+Por la expedición cuota sin cuota con
 
-de cada certificado de aprobación
+de cada certificado de aprobación ajuste ajuste
 
 tipo, se pagarán derechos conforme
 
-a la cuota de $1,455.34 $1,455
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a la cuota de $ 1,579.04 $ 1,579
 
 Por el otorgamiento de autorización
 
 de vuelos de traslado, se pagarán
 
-derechos conforme a la cuota de $873.13 $873
+derechos conforme a la cuota de $ 947.35 $ 947
 
 por cada vuelo.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10319,13 +9433,13 @@ por cada vuelo.
 
 ###### ARTICULO 161.
 
-Por el examen para el permiso de formación o capacitación, así como por los exámenes para la obtención, convalidación y recuperación de licencias y certificados de capacidad, se pagarán derechos, por cada uno $1,684.83
+Por el examen para el permiso de formación o capacitación, así como por los exámenes para la obtención, convalidación y recuperación de licencias y certificados de capacidad, se pagarán derechos, por cada uno $ 1,754.92 $1,755
 
 No se pagarán los derechos a que se refiere este artículo cuando los servicios correspondientes sean solicitados por el personal de la Secretaría de Comunicaciones y Transportes.
 
 #### SECCION SEPTIMA. Registro Público Marítimo Nacional y Servicios Marítimos
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10341,7 +9455,7 @@ inscripción en el Registro Público
 
 Marítimo Nacional se pagará
 
-la cuota de $406.47 $406
+la cuota de $ 441.02 $ 441
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10355,6 +9469,8 @@ la cuota de $406.47 $406
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 165.
@@ -10367,41 +9483,27 @@ ajuste ajuste
 
 I.- Por el otorgamiento de abanderamiento y dimisión de bandera de embarcaciones, tomando en cuenta el arqueo bruto:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Hasta de 50 toneladas $ 597.52 $ 598
 
-a).- Hasta de 50 toneladas $550.71 $551
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De más de 50 hasta 500 toneladas $1,101.87 $1,102
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- De más de 50 hasta 500 toneladas $ 1,195.53 $ 1,196
 
 c).- De más de 500 hasta
 
-5,000 toneladas $1,928.67 $1,929
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+5,000 toneladas $ 2,092.61 $ 2,093
 
 d).- De más de 5,000 hasta
 
-15,000 toneladas $2,755.54 $2,756
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+15,000 toneladas $ 2,989.76 $ 2,990
 
 e).- De 15,000.01 hasta
 
-25,000.00 toneladas $6,889.35 $6,889
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+25,000.00 toneladas $ 7,474.94 $ 7,475
 
 f).- De 25,000.01 hasta
 
-50,000.00 toneladas $9,645.10 $9,645
+50,000.00 toneladas $ 10,464.93 $ 10,465
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-g).- De más 50,000.01 toneladas $11,023.12 $11,023
+g).- De más 50,000.01 toneladas $ 11,960.09 $ 11,960
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -10409,129 +9511,91 @@ II.- Por la expedición, revalidación o reposición del certificado de matrícu
 
 a).- Tratándose de embarcaciones para tráfico de recreo:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 1.- Hasta de 5 toneladas brutas
 
-de arqueo $550.71 $551
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de arqueo $ 597.52 $ 598
 
 2.- De 5.01 hasta 10 toneladas
 
-brutas de arqueo $827.14 $827
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+brutas de arqueo $ 897.45 $ 897
 
 3.- De 10.01 hasta 20 toneladas
 
-brutas de arqueo $1,101.53 $1,102
+brutas de arqueo $ 1,195.16 $ 1,195
 
 b).- Embarcaciones para tráfico interior de carga, pasajeros o carga y pasajeros:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 1.- Hasta de 5 toneladas brutas
 
-de arqueo $274.21 $274
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de arqueo $ 297.52 $ 298
 
 2.- De 5.01 hasta 10 toneladas
 
-brutas de arqueo $413.52 $414
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+brutas de arqueo $ 448.67 $ 449
 
 3.- De 10.01 hasta 20 toneladas
 
-brutas de arqueo $550.71 $551
+brutas de arqueo $ 597.52 $ 598
 
 c).- Tratándose de embarcaciones para remolque, dragado, salvamento y demás relacionados con las comunicaciones por agua o con las obras de los puertos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 1.- Hasta de 5 toneladas brutas
 
-de arqueo $413.52 $414
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de arqueo $ 448.67 $ 449
 
 2.- De 5.01 hasta 10 toneladas
 
-brutas de arqueo $550.71 $551
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+brutas de arqueo $ 597.52 $ 598
 
 3.- De 10.01 hasta 20 toneladas
 
-brutas de arqueo $827.14 $827
+brutas de arqueo $ 897.45 $ 897
 
 d).- Tratándose de embarcaciones pesqueras en cualquier clase de pesca:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 1.- Hasta de 5 toneladas brutas
 
-de arqueo $407.19 $407
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de arqueo $ 441.80 $ 442
 
 2.- De 5.01 hasta 10 toneladas
 
-brutas de arqueo $679.44 $679
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+brutas de arqueo $ 737.19 $ 737
 
 3.- De 10.01 hasta 20 toneladas
 
-brutas de arqueo $951.68 $952
+brutas de arqueo $ 1,032.57 $ 1,033
 
 e).- Para embarcaciones que efectúen en cualquier clase de tráfico, navegación de altura, cabotaje e interior:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 1.- De 20.01 hasta 100 toneladas
 
-brutas de arqueo $1,119.86 $1,120
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+brutas de arqueo $ 1,215.05 $ 1,215
 
 2.- De 100.01 hasta 500 toneladas
 
-brutas de arqueo $1,332.36 $1,332
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+brutas de arqueo $ 1,445.61 $ 1,446
 
 3.- De 500.01 hasta 5,000 toneladas
 
-brutas de arqueo $1,543.04 $1,543
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+brutas de arqueo $ 1,674.20 $ 1,674
 
 4.- De 5,000.01 hasta 15,000 toneladas
 
-brutas de arqueo $1,835.97 $1,836
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+brutas de arqueo $ 1,992.03 $ 1,992
 
 5.- De 15,000.01 hasta 25,000
 
-toneladas brutas de arqueo $5,102.90 $5,103
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas brutas de arqueo $ 5,536.65 $ 5,537
 
 6.- De 25,000.01 hasta 50,000
 
-toneladas brutas de arqueo $7,143.69 $7,144
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas brutas de arqueo $ 7,750.90 $ 7,751
 
 7.- De más de 50,000.01 toneladas
 
-brutas de arqueo $8,165.17 $8,165
+brutas de arqueo $ 8,859.21 $ 8,859
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011, PARA QUEDAR DE LA SIGUIENTE FORMA “Para el caso de las embarcaciones de hasta 10 metros de eslora sin cubierta corrida, destinadas a la pesca ribereña, se pagará la cuota de $89.15 $89."</small>
+Para el caso de las embarcaciones de hasta 10 metros de eslora sin cubierta corrida, destinadas a la pesca ribereña, se pagará la cuota de $ 100.22 $100
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10539,105 +9603,69 @@ f). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 III.- Por la expedición de autorización para la permanencia de artefactos navales y dragas en zonas marinas nacionales, por tonelada bruta o fracción de registro internacional:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Hasta 500 toneladas $8.6975
 
-a).- Hasta 500 toneladas $8.0161
+b).- De 500.01 hasta 1,000 toneladas $ 7.1909
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De 500.01 hasta 1,000 toneladas $6.6276
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- De 1,000.01 hasta 5,000 toneladas $5.5067
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+c).- De 1,000.01 hasta 5,000 toneladas $ 5.9748
 
 d).- De 5,000.01 hasta 15,000
 
-toneladas $4.1283
+toneladas $ 4.4792
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-e).- De 15,000.01 en adelante $2.7499
+e).- De 15,000.01 en adelante $ 2.9836
 
 IV.- Por expedición de pasavantes por tonelaje bruto de arqueo:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- Hasta de 5 toneladas $109.82 $110
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Hasta de 5 toneladas $ 119.15 $ 119
 
 b).- De más de 5 hasta 10
 
-toneladas $192.50 $192
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 208.86 $ 209
 
 c).- De más de 10 hasta 20
 
-toneladas $275.09 $275
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 298.47 $ 298
 
 d).- De 20.01 hasta 100.00
 
-toneladas $688.56 $689
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 747.09 $ 747
 
 e).- De 100.01 hasta 500.00
 
-toneladas $826.32 $826
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 896.56 $ 897
 
 f).- De 500.01 hasta 1,000.00
 
-toneladas $1,101.87 $1,102
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 1,195.53 $ 1,196
 
 g).- De 1,000.01 hasta 5,000.00
 
-toneladas $1,928.67 $1,929
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 2,092.61 $ 2,093
 
 h).- De 5,000.01 hasta 15,000.00
 
-toneladas $2,479.79 $2,480
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 2,690.57 $ 2,691
 
 i).- De 15,000.01 hasta 25,000.00
 
-toneladas $3,306.63 $3,307
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 3,587.69 $ 3,588
 
 j).- De 25,000.01 hasta 50,000.00
 
-toneladas $4,133.42 $4,133
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 4,484.76 $ 4,485
 
 k).- De más de 50,000.01
 
-toneladas $5,511.36 $5,511
+toneladas $ 5,979.83 $ 5,980
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 V.- Por la revisión de los cálculos de arqueo y de la marca de máxima carga o francobordo:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Hasta 1,000 toneladas brutas
 
-de arqueo $2.6074
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de arqueo $ 2.8290
 
 b).- De más de 1,000 hasta 5,000
 
@@ -10647,9 +9675,7 @@ la cuota señalada en el inciso
 
 anterior, y por cada una o fracción
 
-de las excedentes $1.5615
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de las excedentes $ 1.6942
 
 c).- De más de 5,000 hasta 15,000
 
@@ -10659,9 +9685,7 @@ la cuota señalada en el inciso anterior
 
 y por cada una o fracción de las
 
-excedentes $1.2995
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+excedentes $ 1.4100
 
 d).- De más de 15,000 toneladas, por
 
@@ -10669,35 +9693,23 @@ las primeras 15,000, la cuota señalada
 
 en el inciso anterior y por cada una o
 
-fracción de las excedentes $1.0385
+fracción de las excedentes $ 1.1268
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 VI.- Por la expedición del permiso de navegación para embarcaciones mercantes extranjeras de carga en general, o mixto incluyendo el de pasajeros, por tonelada bruta o fracción de registro internacional:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Hasta 500 toneladas $ 32.53 $ 33
 
-a).- Hasta 500 toneladas $29.98 $30
+b).- De 500.01 hasta 1,000 toneladas $ 26.97 $ 27
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De 500.01 hasta 1,000 toneladas $24.86 $25
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- De 1,000.01 hasta 5,000 toneladas $20.85 $21
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+c).- De 1,000.01 hasta 5,000 toneladas $ 22.62 $ 23
 
 d).- De 5,000.01 hasta 15,000
 
-toneladas $15.65 $16
+toneladas $ 16.98 $ 17
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-e).- De 15,000.01 en adelante $10.41 $10
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+e).- De 15,000.01 en adelante $ 11.29 $ 11
 
 VII.- Por la expedición del permiso
 
@@ -10705,7 +9717,7 @@ especial para tráfico de pasaje-ros (sic),
 
 a partir de 2 toneladas por tonelada
 
-bruta de arqueo o fracción $7.06 $7
+bruta de arqueo o fracción $ 7.66 $ 8
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10715,29 +9727,23 @@ VIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 IX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 X.- Por la expedición de autorización
 
 para la extracción, remoción o
 
 reflotación de embarcaciones,
 
-aeronaves o artefactos navales $4,222.48 $4,222
+aeronaves o artefactos navales $ 4,581.39 $ 4,581
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 XII.- Por la autorización para el
 
 desguace de embarcaciones o
 
-artefactos navales $5,871.07 $5,871
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+artefactos navales $ 6,370.11 $ 6,370
 
 XIII.- Por autorizar el embarque de
 
@@ -10747,7 +9753,7 @@ mexicanas y, en su caso, por la
 
 renovación de autorización, por cada
 
-técnico $975.85 $976
+técnico $ 1,058.80 $ 1,059
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10769,6 +9775,8 @@ I.- Las dedicadas exclusivamente a fines humanitarios o científicos.
 
 II.- Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios oficiales.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 167.
@@ -10778,8 +9786,6 @@ Por el estudio y trámite de la solicitud y, en su caso, expedición, prórroga,
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- Concesión de bienes sujetos al
 
@@ -10793,9 +9799,7 @@ a la construcción, operación y
 
 explotación de terminales marinas
 
-e instalaciones portuarias $49,922.43 $49,922
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+e instalaciones portuarias $ 54,165.84 $ 54,166
 
 II.- Permiso para la prestación de
 
@@ -10807,13 +9811,11 @@ atracaderos, botaderos y demás
 
 similares en las vías generales de
 
-comunicación por agua $12,680.83 $12,681
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+comunicación por agua $ 13,758.70 $ 13,759
 
 III.- Autorización para la construcción
 
-de obras marítimas y de dragado $39,777.76 $39,778
+de obras marítimas y de dragado $ 43,158.87 $ 43,159
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -10835,6 +9837,8 @@ IV.- Las instalaciones de señales marítimas y maniobras de rescate.
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 168-B.
@@ -10847,97 +9851,73 @@ ajuste ajuste
 
 I.- Cruceros turísticos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Embarcaciones menores de
 
 pasajeros equipadas para brindar
 
 servicios de pernocta, descanso y
 
-recreativos a bordo y en puerto $14,128.79 $14,129
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+recreativos a bordo y en puerto $ 15,329.74 $ 15,330
 
 b).- Embarcaciones de 500 hasta
 
-1,000 unidades de arqueo bruto $29,542.01 $29,542
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+1,000 unidades de arqueo bruto $ 32,053.08 $ 32,053
 
 c).- Embarcaciones de 1,000.01
 
 hasta 5,000.00 unidades de
 
-arqueo bruto $39,176.05 $39,176
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+arqueo bruto $ 42,506.01 $ 42,506
 
 d).- Embarcaciones de más de
 
-5,000.01 unidades de arqueo bruto $45,598.23 $45,598
+5,000.01 unidades de arqueo bruto $ 49,474.08 $ 49,474
 
 II.- Transporte de pasajeros:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Embarcaciones cuya capacidad sea
 
-hasta 3.5 unidades de arqueo bruto $627.90 $628
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hasta 3.5 unidades de arqueo bruto $ 681.27 $ 681
 
 b).- Embarcaciones mayores a 3.5 y
 
 menores de 500 unidades de
 
-arqueo bruto $1,255.81 $1,256
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+arqueo bruto $ 1,362.55 $ 1,363
 
 c).- Embarcaciones de 500 o más
 
-unidades de arqueo bruto $2,511.63 $2,512
+unidades de arqueo bruto $ 2,725.12 $ 2,725
 
 III.- Turismo náutico:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 a).- Embarcaciones cuya capacidad
 
 sea hasta 3.5 unidades de arqueo
 
-bruto $1,284.42 $1,284
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+bruto $ 1,393.60 $ 1,394
 
 b).- Embarcaciones mayores a 3.5 y
 
 menores de 500 unidades de
 
-arqueo bruto $2,568.85 $2,569
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+arqueo bruto $ 2,787.20 $ 2,787
 
 c).- Embarcaciones de 500 o más
 
-unidades de arqueo bruto $4,494.76 $4,495
+unidades de arqueo bruto $ 4,876.81 $ 4,877
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 168-C.
 
-Por otorgar permiso
+Por otorgar permiso cuota sin cuota con
 
-o su prórroga para la prestación de
+o su prórroga para la prestación de ajuste ajuste
 
 servicios en navegación interior, en el
 
@@ -10945,7 +9925,7 @@ que se incluyan hasta cinco
 
 embarcaciones, se pagará la cuota
 
-anual de $2,790.20 $2,790
+anual de $ 3,027.37 $ 3,027
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -10954,6 +9934,8 @@ Tratándose de:
 I.- Servicio de transporte de pasajeros, con embarcaciones cuya dimensión máxima sea de 3.5 unidades de arqueo bruto o capacidad máxima de 16 pasajeros.
 
 II.- Servicio de turismo náutico, con embarcaciones de recreo o deportivas tipo moto acuática, kayak, botes de remos o similares en porte; cuya dimensión máxima sea de 0.5 unidades de arqueo bruto.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -10969,65 +9951,43 @@ ajuste ajuste
 
 I.- Por reconocimiento:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- Hasta 10 toneladas $74.01 $74
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Hasta 10 toneladas $ 80.30 $ 80
 
 b).- De más de 10 y hasta 20
 
-toneladas $148.13 $148
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 160.72 $ 161
 
 c).- De más de 20 y hasta 50
 
-toneladas $593.08 $593
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 643.49 $ 643
 
 d).- De más de 50 y hasta 75
 
-toneladas $1,853.55 $1,854
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 2,011.10 $ 2,011
 
 e).- De más de 75 y hasta 100
 
-toneladas $2,224.35 $2,224
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 2,413.42 $ 2,413
 
 f).- De más de 100 y hasta 200
 
-toneladas $3,336.59 $3,337
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 3,620.20 $ 3,620
 
 g).- De más de 200 y hasta 300
 
-toneladas $4,078.05 $4,078
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 4,424.68 $ 4,425
 
 h).- De más de 300 y hasta 500
 
-toneladas $5,931.78 $5,932
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 6,435.98 $ 6,436
 
 i).- De más de 500 y hasta 1,000
 
-toneladas $8,156.25 $8,156
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 8,849.53 $ 8,850
 
 j).- De más de 1,000 y hasta 2,000
 
-toneladas $9,639.24 $9,639
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 10,458.58 $ 10,459
 
 k).- De más de 2,000 toneladas brutas
 
@@ -11037,7 +9997,7 @@ cuota señalada en el inciso anterior,
 
 y por cada una o fracción de las
 
-excedentes $2.4082
+excedentes $ 2.6129
 
 Si se efectúa a la embarcación un segundo o subsecuente reconocimiento, se pagará lo que resulte de aplicar el factor de 0.15 a la cuota correspondiente.
 
@@ -11049,81 +10009,57 @@ II. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 III.- Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos y proyectos de construcción:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- En barcos hasta de 100
 
-toneladas $2,4223.48 $2,423
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 2,629.48 $ 2,629
 
 b).- En barcos de más de 100 hasta
 
-500 toneladas $3,231.37 $3,231
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+500 toneladas $ 3,506.04 $ 3,506
 
 c).- En barcos de más de 500 hasta
 
-1,000 toneladas $4,039.37 $4,039
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+1,000 toneladas $ 4,382.72 $ 4,383
 
 d).- En barcos de 1,000 a 5,000
 
-toneladas $5,251.32 $5,251
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 5,697.68 $ 5,698
 
 e).- En barcos de 5,000 a 10,000
 
-toneladas $6,463.19 $6,463
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $ 7,012.56 $ 7,013
 
 f).- En barcos de más de 10,000
 
-toneladas $8,079.07 $8,079
+toneladas $8,765.79 $8,766
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 IV.- Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos o proyectos que impliquen reformas o modificaciones:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- En barcos hasta de 100
 
-toneladas $807.52 $808
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $876.16 $876
 
 b).- En barcos de más de 100 hasta
 
-500 toneladas $1,615.47 $1,615
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+500 toneladas $1,752.78 $1,753
 
 c).- En barcos de más de 500 hasta
 
-1,000 toneladas $2,827.41 $2,827
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+1,000 toneladas $3,067.74 $3,068
 
 d).- En barcos de 1,000 a 5,000
 
-toneladas $4,039.37 $4,039
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $4,382.72 $4,383
 
 e).- En barcos de 5,000 a 10,000
 
-toneladas $5,655.34 $5,655
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas $6,136.04 $6,136
 
 f).- En barcos de más de 10,000
 
-toneladas $7,271.17 $7,271
+toneladas $7,889.22 $7,889
 
 V.- (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -11131,15 +10067,11 @@ V.- (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 VI.- Por el reconocimiento total a una embarcación en construcción o en reparación o modificación para verificar su estado de avance y el cumplimiento de las especificaciones y normas que le son aplicables, se pagarán los derechos correspondientes de acuerdo al tonelaje conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Hasta 50 toneladas brutas
 
 de arqueo comprendiendo 3
 
-inspecciones parciales. $5,385.84 $5,386
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+inspecciones parciales. $5,843.64 $5,844
 
 b).- De más de 50 hasta 100
 
@@ -11147,9 +10079,7 @@ toneladas brutas de arqueo,
 
 comprendiendo 3 inspecciones
 
-parciales $8,079.07 $8,079
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+parciales $8,765.79 $8,766
 
 c).- De más de 100 hasta 200
 
@@ -11157,9 +10087,7 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $10,772.32 $10,772
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+parciales $11,687.97 $11,688
 
 d).- De más de 200 hasta 300
 
@@ -11167,9 +10095,7 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $13,465.47 $13,465
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+parciales $14,610.03 $14,610
 
 e).- De más de 300 hasta 500
 
@@ -11177,9 +10103,7 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $16,158.74 $16,159
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+parciales $17,532.23 $17,532
 
 f).- De más de 500 hasta 1000
 
@@ -11187,9 +10111,7 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $21,544.96 $21,545
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+parciales $23,376.28 $23,376
 
 g).- De más de 1000 hasta 5000
 
@@ -11197,9 +10119,7 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $26,931.37 $26,931
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+parciales $29,220.54 $29,221
 
 h).- De más de 5000 hasta 15000
 
@@ -11207,9 +10127,7 @@ toneladas brutas de arqueo,
 
 comprendiendo 5 inspecciones
 
-parciales $32,317.81 $32,318
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+parciales $35,064.82 $35,065
 
 i).- De más de 15000 hasta 25000
 
@@ -11217,9 +10135,7 @@ toneladas brutas de arqueo,
 
 comprendiendo 5 reparaciones
 
-parciales $40,397.50 $40,397
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+parciales $43,831.29 $43,831
 
 j).- De más de 25000 hasta 50000
 
@@ -11227,15 +10143,15 @@ toneladas brutas de arqueo,
 
 comprendiendo 6 inspecciones
 
-parciales $67,329.24 $67,329
+parciales $73,052.23 $73,052
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-k).- De más de 50,000 toneladas brutas de arqueo en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más $2.6870 por cada tonelada o fracción excedente.
+k).- De más de 50,000 toneladas brutas de arqueo en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más $2.9154 por cada tonelada o fracción excedente.
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 Tratándose de artefactos navales, se pagarán las cuotas establecidas en las fracciones III, IV y VI de este artículo, según el rango de peso que les corresponda.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -11247,51 +10163,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Señales en escolleras $2,290.63 $2,291
 
-I.- Señales en escolleras $2,111.18 $2,111
+II.- Señales en faros $9,163.01 $9,163
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II.- Señales en faros $8,445.17 $8,445
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III.- Señales en muelles $2,111.18 $2,111
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III.- Señales en muelles $2,290.63 $2,291
 
 IV.- Señales en atracaderos y peines
 
-de marinas turísticas $2,111.18 $2,111
+de marinas turísticas $2,290.63 $2,291
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+V.- Señales de enfilaciones $4,581.39 $4,581
 
-V.- Señales de enfilaciones $4,222.48 $4,222
+VI.- Señales flotantes $1,832.42 $1,832
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+VII.- Señales diurnas $2,290.63 $2,291
 
-VI.- Señales flotantes $1,688.87 $1,689
+VIII.- Señales laterales fijas $1,832.42 $1,832
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+IX.- Señales acústicas $3,435.93 $3,436
 
-VII.- Señales diurnas $2,111.18 $2,111
+X.- Señales radioeléctricas $5,497.73 $5,498
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XI.- Otras señales $6,185.03 $6,185
 
-VIII.- Señales laterales fijas $1,688.87 $1,689
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IX.- Señales acústicas $3,166.76 $3,167
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-X.- Señales radioeléctricas $5,067.03 $5,067
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XI.- Otras señales $5,700.49 $5,700
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -11305,61 +10201,45 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- De más de 3 hasta 20 unidades
 
-de arqueo bruto $235.63 $236
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de arqueo bruto $255.66 $256
 
 II.- De más de 20 hasta 100 toneladas
 
-brutas de arqueo $354.98 $355
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+brutas de arqueo $385.15 $385
 
 III.- De más de 100 hasta 500 toneladas
 
-brutas de arqueo $582.00 $582
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+brutas de arqueo $631.47 $631
 
 IV.- De más de 500 hasta 1,000
 
-toneladas brutas de arqueo $1,184.56 $1,185
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+toneladas brutas de arqueo $1,285.25 $1,285
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-V. De más de 1,000 hasta 15,000 toneladas brutas de arqueo $2,475.00
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+V. De más de 1,000 hasta 15,000 toneladas brutas de arqueo $2,577.96 $2,578
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-VI. De más de 15,000 hasta 25,000 toneladas brutas de arqueo $3,153.25
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+VI. De más de 15,000 hasta 25,000 toneladas brutas de arqueo $3,284.43 $3,284
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-VII. De más de 25,000 hasta 50,000 toneladas brutas de arqueo $3,637.04
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+VII. De más de 25,000 hasta 50,000 toneladas brutas de arqueo $3,788.34 $3,788
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-VIII. De más de 50,000 toneladas brutas de arqueo $4,385.38
+VIII. De más de 50,000 toneladas brutas de arqueo $4,567.81 $4,568
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -11387,6 +10267,8 @@ No pagarán el derecho a que se refiere este artículo, las embarcaciones nacion
 
 El pago que deba realizarse a la Capitanía de Puerto por los servicios anteriormente descritos, podrá ser efectuado en su totalidad previo a la autorización del despacho de la embarcación del puerto de que se trate.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 170-A.
@@ -11397,41 +10279,27 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I.- Hasta 200 unidades de arqueo bruto $4,412.47 $4,412
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Hasta 200 unidades de arqueo bruto $4,787.53 $4,788
 
 II.- De más de 200 hasta 300
 
-unidades de arqueo bruto $4,813.63 $4,814
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $5,222.79 $5,223
 
 III.- De más de 300 hasta
 
-1000 unidades de arqueo bruto $6,819.42 $6,819
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+1000 unidades de arqueo bruto $7,399.07 $7,399
 
 IV.- De más de 1000 hasta
 
-5000 unidades de arqueo bruto $8,022.93 $8,023
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+5000 unidades de arqueo bruto $8,704.88 $8,705
 
 V.- De más de 5000 hasta 10000
 
-unidades de arqueo bruto $12,034.44 $12,034
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $13,057.37 $13,057
 
 VI.- De más de 10000 unidades
 
-de arqueo bruto $16,045.98 $16,046
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de arqueo bruto $17,409.89 $17,410
 
 VII.- Por la revisión del protocolo de la
 
@@ -11441,7 +10309,9 @@ sistemas y equipamiento, pruebas de
 
 mar y tirón a punto fijo, se pagará por
 
-cada embarcación $1,421.07 $1,421
+cada embarcación $1,541.86 $1,542
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -11453,41 +10323,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Hasta 200 unidades de arqueo
 
-Bruto $4,412.47 $4,412
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Bruto $4,787.53 $4,788
 
 II.- De más de 200 hasta 300
 
-unidades de arqueo bruto $4,813.63 $4,814
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $5,222.79 $5,223
 
 III.- De más de 300 hasta 1000
 
-unidades de arqueo bruto $6,819.42 $6,819
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $7,399.07 $7,399
 
 IV.- De más de 1000 hasta
 
-5000 unidades de arqueo bruto $8,022.93 $8,023
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+5000 unidades de arqueo bruto $8,704.88 $8,705
 
 V.- De más de 5000 hasta
 
-10000 unidades de arqueo bruto $12,034.44 $12,034
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+10000 unidades de arqueo bruto $13,057.37 $13,057
 
 VI.- De más de 10000 unidades
 
-de arqueo bruto $16,045.98 $16,046
+de arqueo bruto $17,409.89 $17,410
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -11499,29 +10359,21 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Dique menor de 150 metros de
 
-eslora $16,045.98 $16,046
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+eslora $17,409.89 $17,410
 
 II.- Dique de 150 metros o más de
 
-Eslora $24,069.06 $24,069
+Eslora $26,114.93 $26,115
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 170-D.
 
-Por la inspección,
+Por la inspección, cuota sin cuota con
 
-verificación y, en su caso, certificación
+verificación y, en su caso, certificación ajuste ajuste
 
 del cumplimiento de la normatividad de
 
@@ -11535,9 +10387,7 @@ para los equipos contra incendio de
 
 las embarcaciones, se pagarán derechos,
 
-conforme a la cuota de: $25,962.55 $25,963
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+conforme a la cuota de: $28,169.37 $28,169
 
 Por el análisis de la solicitud y, en su
 
@@ -11549,7 +10399,9 @@ en el certificado otorgado, se pagará el
 
 derecho por cada persona, conforme a la
 
-cuota de: $1,359.94 $1,360
+cuota de: $1,475.53 $1,476
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -11561,19 +10413,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Por persona moral $21,875.94 $21,876
 
-I.- Por persona moral $20,162.16 $20,162
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II.- Por persona física $1,847.96 $1,848
+II.- Por persona física $2,005.04 $2,005
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 170-F.
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -11591,81 +10441,57 @@ ajuste ajuste
 
 I.- Por la revisión de la evaluación de protección:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- De más de 10 hasta 200 unidades
 
-de arqueo bruto $3,511.13 $3,511
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de arqueo bruto $3,809.58 $3,810
 
 b).- De más de 200 hasta 500 unidades
 
-de arqueo bruto $4,376.55 $4,377
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de arqueo bruto $4,748.56 $4,749
 
 c).- De más de 500 hasta 1,000 unidades
 
-de arqueo bruto $5,235.09 $5,235
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de arqueo bruto $5,680.07 $5,680
 
 d).- De más de 1,000 hasta 5,000
 
-unidades de arqueo bruto $7,456.32 $7,456
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $8,090.11 $8,090
 
 e).- De más de 5,000 hasta 10,000
 
-unidades de arqueo bruto $10,408.37 $10,408
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $11,293.08 $11,293
 
 f).- De más de 10,000 unidades
 
-de arqueo bruto $17,242.42 $17,242
+de arqueo bruto $18,708.03 $18,708
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 II.- Por la revisión y, en su caso, aprobación del Plan de Protección:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- De más de 10 hasta 200 unidades
 
-de arqueo bruto $3,813.33 $3,813
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de arqueo bruto $4,137.46 $4,137
 
 b).- De más de 200 hasta 500
 
-unidades de arqueo bruto $4,766.66 $4,767
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $5,171.83 $5,172
 
 c).- De más de 500 hasta 1,000
 
-unidades de arqueo bruto $5,688.42 $5,688
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $6,171.94 $6,172
 
 d).- De más de 1,000 hasta 5,000
 
-unidades de arqueo bruto $8,104.72 $8,105
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $8,793.62 $8,794
 
 e).- De más de 5,000 hasta 10,000
 
-unidades de arqueo bruto $11,315.00 $11,315
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $12,276.78 $12,277
 
 f).- De más de 10,000 unidades
 
-de arqueo bruto $18,753.48 $18,753
+de arqueo bruto $20,347.53 $20,348
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -11675,49 +10501,45 @@ También se pagarán los derechos establecidos en esta fracción, cuando se llev
 
 III.- Por la verificación de la implantación del Plan de Protección y, en su caso, certificación o renovación anual:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- De más de 10 y hasta 200
 
-unidades de arqueo bruto $3,575.68 $3,576
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $3,879.61 $3,880
 
 b).- De más de 200 y hasta 500
 
-unidades de arqueo bruto $4,454.85 $4,455
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $4,833.51 $4,834
 
 c).- De más de 500 y hasta 1,000
 
-unidades de arqueo bruto $5,329.88 $5,330
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $5,782.92 $5,783
 
 d).- De más de 1,000 y hasta 5,000
 
-unidades de arqueo bruto $7,592.32 $7,592
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $8,237.67 $8,238
 
 e).- De más de 5,000 y hasta
 
-10,000 unidades de arqueo bruto $10,596.58 $10,597
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+10,000 unidades de arqueo bruto $11,497.29 $11,497
 
 f).- De más de 10,000 unidades
 
-de arqueo bruto $17,552.88 $17,553
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de arqueo bruto $19,044.87 $19,045
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-IV. Por el estudio, trámite y, en su caso, la expedición del certificado de cumplimiento por parte de las instalaciones portuarias $3,087.54
+IV. Por el estudio, trámite
+
+y, en su caso, la
+
+expedición del certificado
+
+de cumplimiento por parte
+
+de las instalaciones portuarias $3,215.98 $3,216
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -11731,105 +10553,73 @@ ajuste ajuste
 
 I.- Por la revisión de documentación y, en su caso, expedición de documento de cumplimiento o certificado, según corresponda:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- Por empresa $8,048.39 $8,048
+a).- Por empresa $8,732.50 $8,732
 
 b).- Por buque:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 1.- De 10 hasta 200 unidades
 
-de arqueo bruto $2,938.31 $2,938
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de arqueo bruto $3,188.07 $3,188
 
 2.- De más de 200 hasta 500
 
-unidades de arqueo bruto $3,906.74 $3,907
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $4,238.81 $4,239
 
 3.- De más de 500 hasta 1,000
 
-unidades de arqueo bruto $4,676.00 $4,676
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $5,073.46 $5,073
 
 4.- De más de 1,000 hasta 5,000
 
-unidades de arqueo bruto $5,829.90 $5,830
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $6,325.44 $6,325
 
 5.- De más de 5,000 hasta 10,000
 
-unidades de arqueo bruto $8,305.27 $8,305
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $9,011.22 $9,011
 
 6.- De más de 10,000 unidades
 
-de arqueo bruto $11,565.01 $11,565
+de arqueo bruto $12,548.04 $12,548
 
 También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones a los documentos de gestión de la seguridad de la empresa o de cada buque.
 
 II.- Por la verificación del cumplimiento del Código Internacional de Gestión de la Seguridad y, en su caso, expedición o renovación anual del documento de cumplimiento o certificado, según corresponda:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- Por empresa $22,114.88 $22,115
+a).- Por empresa $23,994.64 $23,995
 
 b).- Por buque:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 1.- De más de 10 y hasta 200
 
-unidades de arqueo bruto $3,575.68 $3,576
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $3,879.61 $3,880
 
 2.- De más de 200 y hasta 500
 
-unidades de arqueo bruto $4,454.85 $4,455
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $4,833.51 $4,834
 
 3.- De más de 500 y hasta 1,000
 
-unidades de arqueo bruto $5,329.88 $5,330
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $5,782.92 $5,783
 
 4.- De más de 1,000 y hasta 5,000
 
-unidades de arqueo bruto $7,592.32 $7,592
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $8,237.67 $8,238
 
 5.- De más de 5,000 y hasta 10,000
 
-unidades de arqueo bruto $10,596.58 $10,597
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+unidades de arqueo bruto $11,497.29 $11,497
 
 6.- De más de 10,000 unidades
 
-de arqueo bruto $17,552.88 $17,553
+de arqueo bruto $19,044.87 $19,045
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 170-I.
 
-Por la revisión y,
+Por la revisión y, cuota sin cuota con
 
-en su caso, aprobación u homologación
+en su caso, aprobación u homologación ajuste ajuste
 
 de chalecos salvavidas, aros salvavidas,
 
@@ -11837,7 +10627,7 @@ dispositivos y medios de salvamento,
 
 por cada tipo, se pagará anualmente
 
-el derecho conforme a la cuota de: $2,658.07 $2,658
+el derecho conforme a la cuota de: $2,884.01 $2,884
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -11849,6 +10639,8 @@ I.- Las dedicadas exclusivamente a fines educativos, humanitarios o científicos
 
 II.- Las pertenecientes al Gobierno Federal, Estados o Municipios, que estén dedicadas a servicios oficiales.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 171.
@@ -11859,15 +10651,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Expedición y reposición de
 
 Libretas de mar e identidad
 
-Marítima $281.24 $281
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Marítima $305.15 $305
 
 II.- Títulos profesionales al
 
@@ -11875,9 +10663,7 @@ Personal de la marina mercante
 
 nacional, tanto de cubierta
 
-como de máquinas $844.50 $844
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+como de máquinas $916.28 $916
 
 III.- Certificados de competencia
 
@@ -11885,35 +10671,29 @@ para mandar embarcaciones, tanto
 
 en el departamento de cubierta como
 
-en el de máquinas $562.88 $563
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+en el de máquinas $610.72 $611
 
 IV.- Certificados de competencia
 
 especial para mandar o laborar
 
-en buques especializados $1,126.19 $1,126
+en buques especializados $1,221.92 $1,222
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 V.- Documento oficial para poder ejercer como tripulante a bordo de las embarcaciones mercantes mexicanas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Personal subalterno $610.72 $611
 
-a).- Personal subalterno $562.88 $563
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Personal titulado $844.50 $844
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- Personal titulado $916.28 $916
 
 VI.- Expedición de refrendos de
 
 títulos a oficialidad de la marina
 
-mercante $422.07 $422
+mercante $457.95 $458
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -11931,13 +10711,9 @@ ajuste ajuste
 
 I.- Por la expedición de la autorización de Agente Naviero Consignatario de Buques en:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Navegación de Altura $8,133.36 $8,133
 
-a).- Navegación de Altura $7,496.18 $7,496
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Navegación de Cabotaje $5,354.16 $5,354
+b).- Navegación de Cabotaje $5,809.26 $5,809
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -11947,8 +10723,6 @@ c).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 d).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 II.- Por la expedición de la
 
 autorización para actuar
@@ -11957,7 +10731,7 @@ como Agente Naviero
 
 General o Agente Naviero
 
-Protector $15,243.71 $15,244
+Protector $16,539.43 $16,539
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -11987,6 +10761,8 @@ Protector $15,243.71 $15,244
 
 #### SECCION OCTAVA. Otorgamiento de permisos
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 172.
@@ -11996,8 +10772,6 @@ Por los servicios relacionados con el otorgamiento de permisos para la construcc
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- Estudios técnicos de planos,
 
@@ -12013,9 +10787,7 @@ jurisdicción federal, por cada 100
 
 metros o fracción que exceda de
 
-dicha longitud $2,051.22 $2,051
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+dicha longitud $2,225.57 $2,226
 
 II.- Estudios técnicos de planos,
 
@@ -12029,7 +10801,7 @@ subterráneos o aéreos que
 
 atraviesen carreteras y puentes
 
-de jurisdicción federal $2,051.22 $2,051
+de jurisdicción federal $2,225.57 $2,226
 
 III.- Por la autorización para la construcción de accesos que afecten el derecho de vía de una carretera, incluyendo la supervisión de la obra, 14% sobre el costo de la misma.
 
@@ -12040,8 +10812,6 @@ IV.- Por el estudio técnico del
 proyecto, supervisión y autorización
 
 de obras para paradores 1% sobre el costo total de la obra.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 V.- Por el estudio técnico
 
@@ -12065,191 +10835,135 @@ derechos de vía de carreteras,
 
 puentes o vías férreas, por
 
-kilómetro o fracción $1,226.02 $1,226
+kilómetro o fracción $1,330.23 $1,330
 
 VI.- Por el permiso para la construcción de accesos que afecten el derecho de vía de un camino o puente de cuota, incluyendo la supervisión de la obra:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Proyecto a realizar en
 
-terreno plano $20,085.50 $20,085
+terreno plano $21,792.77 $21,793
 
 b).- Proyecto a realizar en terreno de lomerío con:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+1.- Geometría en corte $24,003.64 $24,004
 
-1.- Geometría en corte $22,123.17 $22,123
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-2.- Geometría en terraplén $24,160.81 $24,161
+2.- Geometría en terraplén $26,214.48 $26,214
 
 c).- Proyecto a realizar en terreno montañoso con:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+1.- Geometría en corte $28,425.34 $28,425
 
-1.- Geometría en corte $26,198.47 $26,198
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-2.- Geometría en terraplén $28,236.18 $28,236
+2.- Geometría en terraplén $30,636.26 $30,636
 
 VII.- Por el estudio técnico del proyecto, supervisión y permiso de obras para paradores en caminos y puentes de cuota:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Con superficie total del proyecto
 
-hasta 3,000 M2 $47,157.44 $47,157
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hasta 3,000 M2 $51,165.82 $51,166
 
 b).- Con superficie total del proyecto
 
-hasta 5,000 M2 $56,181.46 $56,181
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hasta 5,000 M2 $60,956.88 $60,957
 
 c).- Con superficie total del proyecto
 
-hasta 10,000 M2 $65,787.57 $65,788
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hasta 10,000 M2 $71,379.51 $71,380
 
 d).- Con superficie mayor a los
 
 10,000 M2, por cada 1,000 M2
 
-adicionales $1,891.96 $1,892
+adicionales $2,052.78 $2,053
 
 VIII.- Por la revisión, permiso y supervisión del proyecto geométrico, estructura de pavimentos, obras hidráulicas y otras que se requieran no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Por obras desarrolladas en un
 
-tramo de 1 Km. de longitud $20,085.50 $20,085
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+tramo de 1 Km. de longitud $21,792.77 $21,793
 
 b).- Por obras desarrolladas en un tramo
 
-no mayor de 5 Km. de longitud $24,160.81 $24,161
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+no mayor de 5 Km. de longitud $26,214.48 $26,214
 
 c).- Por obras desarrolladas en un tramo
 
-no mayor de 20 Km. de longitud $28,236.18 $28,236
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+no mayor de 20 Km. de longitud $30,636.26 $30,636
 
 d).- Por obras desarrolladas en un tramo
 
 mayor de 20 Km., por cada kilómetro
 
-adicional $290.96 $291
+adicional $315.69 $316
 
 IX.- Por la revisión, permiso y supervisión de señales y dispositivos para el control del tránsito no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Proyecto comprendido en un tramo
 
-no mayor de 1 Km. $4,075.19 $4,075
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+no mayor de 1 Km. $4,421.58 $4,422
 
 b).- Proyecto comprendido en un tramo
 
-no mayor de 5 Km. $8,150.51 $8,151
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+no mayor de 5 Km. $8,843.30 $8,843
 
 c).- Proyecto comprendido en un tramo
 
-no mayor de 20 Km. $9,897.11 $9,897
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+no mayor de 20 Km. $10,738.36 $10,738
 
 d).- Proyecto comprendido en un tramo
 
 mayor de 20 Km., por kilómetro
 
-adicional $290.96 $291
+adicional $315.69 $316
 
 X.- Por la revisión, permiso y supervisión de forestación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Proyecto comprendido en un tramo
 
-no mayor de 1 Km $4,075.19 $4,075
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+no mayor de 1 Km $4,421.58 $4,422
 
 b).- Proyecto comprendido en un tramo
 
-no mayor de 5 Km $6,636.82 $6,637
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+no mayor de 5 Km $7,200.95 $7,201
 
 c).- Proyecto comprendido en un tramo
 
-no mayor de 20 Km $9,897.11 $9,897
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+no mayor de 20 Km $10,738.36 $10,738
 
 d).- Proyecto comprendido en un tramo
 
 mayor de 20 Km., por kilómetro
 
-adicional $290.96 $291
+adicional $315.69 $316
 
 XI.- Por la revisión, permiso y supervisión de estación de casetas de cobro, edificios administrativos u otros servicios auxiliares no contemplados en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Con superficie total del proyecto
 
-no mayor de 100 M2 $22,123.17 $22,123
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+no mayor de 100 M2 $24,003.64 $24,004
 
 b).- Con superficie total del proyecto
 
-mayor de 100 M2 $31,147.13 $31,147
+mayor de 100 M2 $33,794.64 $33,795
 
 XII.- Por revisión, permiso y supervisión de proyectos de iluminación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Proyecto comprendido en un tramo
 
-no mayor de 1 Km $4,075.19 $4,075
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+no mayor de 1 Km $4,421.58 $4,422
 
 b).- Proyecto comprendido en un tramo
 
-no mayor de 5 Km $8,150.51 $8,151
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+no mayor de 5 Km $8,843.30 $8,843
 
 c).- Proyecto comprendido en un tramo
 
-no mayor de 20 Km $9,897.11 $9,897
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+no mayor de 20 Km $10,738.36 $10,738
 
 d).- Proyecto comprendido en un
 
 tramo mayor de 20 Km., por
 
-kilómetro adicional $290.96 $291
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+kilómetro adicional $315.69 $316
 
 XIII.- Por revisión, permiso y
 
@@ -12263,11 +10977,13 @@ original o que requiera
 
 modificación en los caminos
 
-y puentes de cuota $6,112.86 $6,113
+y puentes de cuota $6,632.45 $6,632
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION NOVENA. Otros Servicios
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -12279,25 +10995,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Subterráneas $1,649.71 $1,650
 
-I.- Subterráneas $1,520.47 $1,520
+II.- Aéreos $1,649.71 $1,650
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III.- A nivel $2,261.04 $2,261
 
-II.- Aéreos $1,520.47 $1,520
+IV.- A desnivel $5,622.43 $5,622
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+V.- Pasos superiores $11,184.21 $11,184
 
-III.- A nivel $2,083.91 $2,084
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IV.- A desnivel $5,181.96 $5,182
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-V.- Pasos superiores $10,308.03 $10,308
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -12309,29 +11017,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Laderas o escapes $2,261.04 $2,261
 
-I.- Laderas o escapes $2,083.91 $2,084
+II.- Espuelas hasta 1,000 metros $3,361.00 $3,361
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III.- Cortas vías $1,649.71 $1,650
 
-II.- Espuelas hasta 1,000 metros $3,097.70 $3,098
+IV.- Patios y terminales $11,184.21 $11,184
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+V.- Vías particulares $5,500.21 $5,500
 
-III.- Cortas vías $1,520.47 $1,520
+VI.- Levantamientos de vías $5,500.21 $5,500
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IV.- Patios y terminales $10,308.03 $10,308
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-V.- Vías particulares $5,069.32 $5,069
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-VI.- Levantamientos de vías $5,069.32 $5,069
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -12343,41 +11041,29 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Arrendamientos $1,649.71 $1,650
 
-I.- Arrendamientos $1,520.47 $1,520
+II.- Enajenaciones $1,649.71 $1,650
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III.- Donaciones $2,261.04 $2,261
 
-II.- Enajenaciones $1,520.47 $1,520
+IV.- Permutas $2,257.07 $2,257
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+V.- Construcciones de edificios $5,500.21 $5,500
 
-III.- Donaciones $2,083.91 $2,084
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IV.- Permutas $2,080.25 $2,080
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-V.- Construcciones de edificios $5,069.32 $5,069
-
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 172-D.
 
-Por la
+Por la cuota sin cuota con
 
-autorización para operar el
+autorización para operar el ajuste ajuste
 
 transporte multimodal, se
 
-pagará la cuota de $2,743.68 $2,744
+pagará la cuota de $2,976.89 $2,977
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -12389,35 +11075,25 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Para la prestación de servicios
 
-auxiliares, por cada uno $8,732.71 $8,733
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+auxiliares, por cada uno $9,474.99 $9,475
 
 II.- Para construir accesos, cruzamientos
 
 e instalaciones marginales en el derecho
 
-de vía de las vías férreas $8,732.71 $8,733
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de vía de las vías férreas $9,474.99 $9,475
 
 III.- Para instalar anuncios y señales
 
 publicitarias en el derecho de vía,
 
-por anuncio o señal publicitaria $7,407.58 $7,408
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+por anuncio o señal publicitaria $8,037.22 $8,037
 
 IV.- Para construir y operar
 
-puentes sobre vías férreas $17,465.59 $17,466
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+puentes sobre vías férreas $18,950.17 $18,950
 
 V.- Por el otorgamiento de permisos
 
@@ -12429,15 +11105,15 @@ almacenaje y transbordo que se
 
 ejecuten en el derecho de vía de las
 
-vías férreas $10,746.35 $10,746
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+vías férreas $11,659.79 $11,660
 
 VI.- Por asignación de inicial y
 
 número, o matrícula al equipo
 
-ferroviario $546.94 $547
+ferroviario $593.43 $593
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -12449,13 +11125,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Por la expedición $631.47 $631
 
-I.- Por la expedición $582. $582
+II.- Por la revalidación $631.47 $631
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II.- Por la revalidación $582.00 $582
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -12467,13 +11141,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por verificación especial a los
 
-concesionarios e vías férreas $2,037.53 $20387
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+concesionarios e vías férreas $2,210.72 $2,211
 
 II.- Por la verificación técnica
 
@@ -12487,35 +11157,31 @@ del servicio público de transporte
 
 ferroviario, por cada unidad
 
-tractiva o de arrastre $873.13 $873
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+tractiva o de arrastre $947.35 $947
 
 a).- Por la expedición de la
 
-constancia de aprobación $174.49 $174
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+constancia de aprobación $189.32 $189
 
 III.- Por verificación para la
 
 construcción o reconstrucción
 
-de obras ferroviarias $2,037.53 $2,038
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de obras ferroviarias $2,210.72 $2,211
 
 IV.- Por la verificación de las
 
 instalaciones de los servicios
 
-auxiliares $1,878.15 $1,878
+auxiliares $2,037.79 $2,038
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 172-H.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -12529,13 +11195,9 @@ ajuste ajuste
 
 I.- Para la prestación del servicio público de transporte ferroviario de pasajeros o de carga:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por la expedición del título $2,210.72 $2,211
 
-a).- Por la expedición del título $2,037.53 $2,038
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por la reposición del título $1,455.34 $1,455
+b).- Por la reposición del título $1,579.04 $1,579
 
 II.- Para la construcción, operación y explotación de vías férreas, que sean vía general de comunicación:
 
@@ -12547,8 +11209,6 @@ Kilómetros 100 a 500 500
 
 Kilómetros Kilómetros
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 1.- Gobiernos estatales,
 
 municipios y entidades
@@ -12557,13 +11217,9 @@ paraestatales de la
 
 Administración Pública
 
-Federal $727.58 $1,018.63 $1,309.78
+Federal $789.42 $1,105.21 $1,421.11
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-2.- Particulares exclusivamente $3,201.88 $6,112.86 $9,023.85
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+2.- Particulares exclusivamente $3,474.04 $6,632.45 $9,790.88
 
 III.- Por la autorización para la
 
@@ -12571,11 +11227,11 @@ cesión total o parcial de derechos
 
 y obligaciones establecidos en las
 
-concesiones o permisos $1,746.40 $1,746
+concesiones o permisos $1,894.84 $1,895
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+IV.- Por prórroga de la vigencia $2,210.72 $2,211
 
-IV.- Por prórroga de la vigencia $2,037.53 $2,038
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -12587,55 +11243,43 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Manuales de sistemas de control
 
-de tránsito $7,414.76 $7,415
+de tránsito $8,045.01 $8,045
 
-cuota sin cuota con
-
-ajuste ajuste
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
 ###### ARTICULO 172-K.
 
-Por el otorgamiento
+Por el otorgamiento cuota sin cuota con
 
-del permiso para construir, instalar
+del permiso para construir, instalar ajuste ajuste
 
 y operar terminales interiores de carga,
 
-se pagará la cuota de $13,678.03 $13,678
+se pagará la cuota de $14,840.66 $14,841
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 172-L.
 
-Por la verificación
+Por la verificación cuota sin cuota con
 
-para el inicio de la operación de
+para el inicio de la operación de ajuste ajuste
 
 terminales interiores de carga, se
 
-pagará la cuota de $11,440.67 $11,441
+pagará la cuota de $12,413.13 $12,413
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 172-M.
 
-Por el trámite de la
+Por el trámite de la cuota sin cuota con
 
-solicitud y, en su caso, registro o
+solicitud y, en su caso, registro o ajuste ajuste
 
 aprobación de tarifas o reglas de
 
@@ -12665,25 +11309,21 @@ número de tarifas o reglas de aplicación
 
 contenidas en la misma, conforme a la
 
-cuota de: $871.14 $871
+cuota de: $945.19 $945
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 172-N.
 
-Por la autorización
+Por la autorización cuota sin cuota con
 
-para constituir gravámenes sobre los
+para constituir gravámenes sobre los ajuste ajuste
 
 derechos derivados de la concesión
 
 del sistema ferroviario, se pagará la
 
-cuota de $14,677.73 $14,678
+cuota de $15,925.34 $15,925
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -12801,17 +11441,13 @@ cuota de $14,677.73 $14,678
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 176-A.
 
-Por el trámite
+Por el trámite cuota sin cuota con
 
-de la solicitud y, en su caso, el
+de la solicitud y, en su caso, el ajuste ajuste
 
 otorgamiento del permiso de
 
@@ -12831,11 +11467,13 @@ sobre monumentos artísticos,
 
 por pieza, conforme a la
 
-cuota de: $41.70 $42
+cuota de: $45.24 $45
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 No se pagará este derecho por los permisos que soliciten la Federación, las Entidades Federativas o los Municipios.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -12847,11 +11485,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Expedición de cédula individual
 
-de registro de objeto $12.21 $12
+de registro de objeto $13.25 $13
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -12860,8 +11496,6 @@ Se exceptúa del pago de derechos previsto en esta fracción a las asociaciones 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 II.- Permisos:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 a).- De exportación de reproducciones
 
@@ -12873,9 +11507,7 @@ Instituto Nacional de Antropología e
 
 Historia, sin límite de objetos y por
 
-cada operación $108.28 $108
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+cada operación $117.48 $117
 
 b).- De exportación de reproducción
 
@@ -12883,19 +11515,15 @@ autorizada, cuando éstas carezcan
 
 de sello, marca o registro por unidad
 
-de empaque $1,085.19 $1,085
+de empaque $1,177.43 $1,177
 
 III.- Dictámenes
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 a) Para determinar que un objeto
 
 o lote es reproducción, por unidad
 
-o empaque hasta veinticinco objetos $163.89 $164
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o empaque hasta veinticinco objetos $177.82 $178
 
 b) Para establecer delimitación de
 
@@ -12903,7 +11531,7 @@ inmuebles privados con monumentos
 
 y zonas arqueológicas, a petición de
 
-parte $273.70 $274
+parte $296.96 $297
 
 ###### ARTICULO 178.
 
@@ -12916,6 +11544,8 @@ parte $273.70 $274
 ###### ARTICULO 178-B.
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -12933,8 +11563,6 @@ I.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 II.- Permisos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- De exportación temporal
 
 para exhibición autorizada de
@@ -12949,11 +11577,9 @@ de la prima de seguro o garantía
 
 que proceda por el valor del
 
-monumento histórico o artístico $361.48 $361
+monumento histórico o artístico $392.21 $392
 
 b).- De exportación de reproducciones a persona física o moral:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 1.- Cuando los objetos tengan sello,
 
@@ -12965,23 +11591,19 @@ e Historia y de Bellas Artes y Literatura,
 
 sin límite de objetos y por cada
 
-operación $108.28 $108
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+operación $117.48 $117
 
 2.- Cuando carezcan de sello, marca
 
 o registro por unidad de empaque,
 
-hasta 25 objetos $1,085.19 $1,085
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hasta 25 objetos $1,177.43 $1,177
 
 III.- Por el dictamen para certificar el
 
 carácter histórico o artístico de un bien
 
-mueble o inmueble $108.28 $108
+mueble o inmueble $117.48 $117
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13011,31 +11633,41 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I. Recepción, examen, estudio
 
-I. Recepción, examen, estudio y, en su caso, registro de cada obra literaria o artística, o de una obra derivada o versión $205.59 $206
+y, en su caso, registro de
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+cada obra literaria o artística,
 
-II. Recepción, examen, estudio y, en su caso, registro de las características gráficas y distintivas de cada obra $205.59 $206
+o de una obra derivada
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o versión $223.07 $223
 
-III. Recepción, examen, estudio y, en su caso, registro de cada fonograma, videograma o libro $205.59 $206
+II. Recepción, examen, estudio
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y, en su caso, registro de las
 
-IV. Búsqueda y expedición de cada constancia de antecedentes o datos de registro o de inscripción $146.36 $146
+características gráficas y distintivas
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de cada obra $223.07 $223
+
+III. Recepción, examen, estudio
+
+y, en su caso, registro de cada
+
+fonograma, videograma o libro $223.07 $223
+
+IV. Búsqueda y expedición
+
+de cada constancia de antecedentes
+
+o datos de registro o de inscripción $158.80 $159
 
 V.- Recepción, examen, estudio y,
 
 en su caso, inscripción de cada
 
-convenio o contrato $1,081.04 $1,081
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+convenio o contrato $1,172.93 $1,173
 
 VI.- Inscripción de cada poder
 
@@ -13047,9 +11679,7 @@ de Autor, cuando la representación
 
 conferida abarque todos los asuntos
 
-del mandante $1,081.04 $1,081
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+del mandante $1,172.93 $1,173
 
 VII.- Recepción, examen y estudio de
 
@@ -13063,9 +11693,7 @@ o extinga derechos patrimoniales
 
 de autor y, en su caso, inscripción de
 
-la anotación marginal correspondiente $1,620.68 $1,621
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+la anotación marginal correspondiente $1,758.44 $1,758
 
 VIII.- Recepción, examen, estudio
 
@@ -13075,9 +11703,7 @@ acta, documento, escritura y
 
 estatutos de las sociedades de
 
-gestión colectiva $1,620.68 $1,621
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+gestión colectiva $1,758.44 $1,758
 
 IX.- Recepción, examen, estudio y,
 
@@ -13085,9 +11711,7 @@ en su caso, inscripción de cada
 
 convenio o contrato celebrado por
 
-las sociedades de gestión colectiva $1,434.00 $1,434
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+las sociedades de gestión colectiva $1,555.89 $1,556
 
 X.- Inscripción de cada poder especial
 
@@ -13097,17 +11721,13 @@ de gestión colectiva para el cobro de
 
 percepciones derivadas de los derechos
 
-de autor o derechos conexos $681.85 $682
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de autor o derechos conexos $739.81 $740
 
 XI.- Inscripción de cada poder que
 
 autorice la gestión individual de
 
-derechos patrimoniales $1,358.24 $1,358
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+derechos patrimoniales $1,473.69 $1,474
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -13119,7 +11739,7 @@ avenencia y, en su caso, por la realización
 
 de la primera audiencia en el
 
-procedimiento de avenencia $376.35 $376
+procedimiento de avenencia $408.34 $408
 
 Tratándose de las subsecuentes audiencias, por la celebración de cada una se pagará el 50% de la cuota establecida en esta fracción.
 
@@ -13127,17 +11747,13 @@ Tratándose de las subsecuentes audiencias, por la celebración de cada una se p
 
 XIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 XIV.- Solicitud y dictamen de reservas
 
 de derechos al uso exclusivo de títulos
 
 de publicaciones o difusiones
 
-periódicas $1,629.90 $1,630
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+periódicas $1,768.44 $1,768
 
 XV.- Solicitud y dictamen de la
 
@@ -13145,9 +11761,7 @@ renovación de reservas de derechos
 
 al uso exclusivo de títulos de
 
-publicaciones o difusiones periódicas $855.57 $856
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+publicaciones o difusiones periódicas $928.29 $928
 
 XVI.- Solicitud y dictamen de reservas
 
@@ -13161,9 +11775,7 @@ nombres artísticos, denominaciones
 
 de grupos artísticos o promociones
 
-publicitarias $3,219.21 $3,219
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+publicitarias $3,492.84 $3,493
 
 XVII.- Solicitud y dictamen de la
 
@@ -13177,13 +11789,9 @@ humanos de caracterización,
 
 nombres artísticos y denominaciones
 
-de grupos artísticos $1,683.49 $1,683
+de grupos artísticos $1,826.59 $1,827
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XVIII.- Solicitud de análisis y búsqueda de antecedentes de títulos, nombres o denominaciones de publicaciones o difusiones periódicas, nombres artísticos o denominaciones de grupos artísticos $171.91 $172
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XVIII.- Solicitud de análisis y búsqueda de antecedentes de títulos, nombres o denominaciones de publicaciones o difusiones periódicas, nombres artísticos o denominaciones de grupos artísticos $186.52 $187
 
 XIX.- Solicitud de análisis y búsqueda
 
@@ -13195,9 +11803,7 @@ de caracterización, personajes ficticios
 
 o simbólicos, o promociones
 
-publicitarias $277.17 $277
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+publicitarias $300.73 $301
 
 XX.- Solicitud y dictamen de
 
@@ -13205,7 +11811,7 @@ anotaciones marginales en los
 
 expedientes de reservas de derechos
 
-al uso exclusivo $855.57 $856
+al uso exclusivo $928.29 $928
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13213,13 +11819,11 @@ al uso exclusivo $855.57 $856
 
 XXI. Respecto del Número Internacional Normalizado del Libro (ISBN):
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). Por el otorgamiento del ISBN $191.57 $192
 
-a). Por el otorgamiento del ISBN $176.56 $177
+b). Por la expedición de cada
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b). Por la expedición de cada certificado o constancia $127.44 $127
+certificado o constancia $138.27 $138
 
 No se pagarán los derechos a que se refiere esta fracción cuando se trate de reproducciones en formato Braille, siempre que se realicen sin fines de lucro y con el objeto exclusivo de hacerlas accesibles a las personas con discapacidad visual.
 
@@ -13231,8 +11835,6 @@ XXII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 XXIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 XXIV.- Recepción, examen, estudio y,
 
 en su caso, inscripción de la
@@ -13243,9 +11845,7 @@ de cualquier acto o instrumento que
 
 tenga por efecto la revocación del
 
-poder otorgado, previamente inscrito $1,513.47 $1,513
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+poder otorgado, previamente inscrito $1,642.11 $1,642
 
 XXV.- Solicitud, dictamen y, en su
 
@@ -13253,23 +11853,33 @@ caso, expedición de la autorización
 
 de apoderado para la gestión individual
 
-de derechos patrimoniales $1,594.78 $1,595
+de derechos patrimoniales $1,730.34 $1,730
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XXVI. Solicitud de práctica de
 
-XXVI. Solicitud de práctica de visita de inspección a establecimientos comerciales a petición de parte $640.03 $640
+visita de inspección a establecimientos
+
+comerciales a petición de parte $694.43 $694
 
 No se pagará el derecho por registro de obras a que se refiere este artículo, cuando se trate de libros de texto editados por la Federación, las entidades federativas, los municipios o por sus organismos descentralizados.
 
 Para los efectos de la aplicación de lo señalado en la fracción V de este artículo, cuando se presenten para examen, estudio y, en su caso, inscripción, contratos impresos en los cuales no exista variación en sus cláusulas y se trate de un mismo contratante, se pagará íntegro el derecho correspondiente al primer contrato y se reducirá en un 50% la cuota del derecho correspondiente sobre los sucesivos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-XXVII. Por la expedición de cada certificado o constancia relacionados con el Número Internacional Normalizado para Publicaciones Periódicas (ISSN) $127.44 $127
+XXVII. Por la expedición de
+
+cada certificado o constancia
+
+relacionados con el
+
+Número Internacional Normalizado
+
+para Publicaciones Periódicas
+
+(ISSN) $138.27 $138
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -13283,13 +11893,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Registro de colegio de
 
-Profesionistas $7,378.71 $7,379
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Profesionistas $8,005.90 $8,006
 
 II.- Registro de establecimiento
 
@@ -13299,75 +11905,55 @@ para expedir títulos profesionales,
 
 diplomas de especialidad o grados
 
-académicos $7,378.71 $7,379
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+académicos $8,005.90 $8,006
 
 III.- Revalidación de título profesional,
 
 de diploma de especialidad y de grado
 
-académico $1,475.32 $1,475
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+académico $1,600.72 $1,601
 
 IV.- Registro de título profesional,
 
 de diploma de especialidad y de
 
-grado académico $737.50 $737
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+grado académico $800.19 $800
 
 V.- Expedición de autorización para
 
-el ejercicio de una especialidad $739.32 $739
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+el ejercicio de una especialidad $802.16 $802
 
 VI.- Expedición de autorización
 
 para constituir un colegio de
 
-profesionistas $737.52 $738
+profesionistas $800.21 $800
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 VII.- Enmiendas al registro profesional:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- En relación con colegios de
 
-profesionistas $737.52 $738
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+profesionistas $800.21 $800
 
 b).- En relación con establecimiento
 
-educativo $737.52 $738
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+educativo $800.21 $800
 
 c).- En relación con título profesional
 
-o grado académico $147.15 $147
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o grado académico $159.66 $160
 
 d).- Inscripción de asociado a un
 
 colegio de profesionistas que no
 
-figuren en el registro original $29.00 $29
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+figuren en el registro original $31.47 $31
 
 e).- En relación con Federaciones
 
-de Colegios de Profesionistas $889.53 $890
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de Colegios de Profesionistas $965.14 $965
 
 f).- Inscripción de asociado a una
 
@@ -13375,25 +11961,19 @@ Federación de Colegios de
 
 Profesionistas que no figure en el
 
-registro original $889.53 $890
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+registro original $965.14 $965
 
 VIII.- Expedición de duplicado de
 
 cédula o de autorización para el
 
-ejercicio de una especialidad $296.16 $296
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+ejercicio de una especialidad $321.33 $321
 
 IX.- Expedición de cédula profesional
 
 con efectos de patente o de cédula
 
-de grado académico $294.69 $295
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de grado académico $319.74 $320
 
 X.- Expedición de autorización
 
@@ -13401,23 +11981,17 @@ provisional para ejercer por estar
 
 el título profesional en trámite o
 
-para ejercer como pasante $294.69 $295
+para ejercer como pasante $319.74 $320
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XI.- Consultas de archivo $134.44 $134
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XI.- Consultas de archivo $145.87 $146
 
 XII.- Constancias de antecedentes
 
-Profesionales $292.90 $293
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Profesionales $317.80 $318
 
 XIII.- Registro de Federación de
 
-Colegios de Profesionistas $9,887.34 $9,887
+Colegios de Profesionistas $10,727.76 $10,728
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13441,13 +12015,9 @@ ajuste ajuste
 
 I.- Por solicitud, estudio y resolución del trámite de:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Reconocimiento de validez
 
-oficial de estudios de tipo superior $8,316.18 $8,316
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+oficial de estudios de tipo superior $9,023.06 $9,023
 
 b).- Cambios a cada plan y
 
@@ -13455,9 +12025,7 @@ programa de estudio de tipo
 
 superior con reconocimiento
 
-de validez oficial $3,594.39 $3,594
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de validez oficial $3,899.91 $3,900
 
 c).- Cambio o ampliación de domicilio,
 
@@ -13467,9 +12035,7 @@ adicional, respecto de cada plan de
 
 estudios con reconocimiento de
 
-validez oficial $3,141.80 $3,142
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+validez oficial $3,408.85 $3,409
 
 II.- Por solicitud, estudio y resolución
 
@@ -13481,9 +12047,7 @@ primaria, secundaria, normal y
 
 demás para la formación de
 
-maestros, sea cual fuere la modalidad $907.65 $908
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+maestros, sea cual fuere la modalidad $984.80 $985
 
 III.- Por solicitud, estudio y resolución
 
@@ -13495,91 +12059,63 @@ superior o equivalente y de formación
 
 para el trabajo, sea cual fuere la
 
-modalidad $907.65 $908
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+modalidad $984.80 $985
 
 IV.- Acreditación y certificación a
 
 estudiantes de preparatoria abierta,
 
-por examen $56.80 $57
+por examen $61.63 $62
 
 V.- Exámenes profesionales o de grado:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a) De tipo superior $195.59 $196
 
-a) De tipo superior $180.27 $180
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De tipo medio superior $90.47 $90
+b).- De tipo medio superior $98.16 $98
 
 VI.- Exámenes a título de suficiencia:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a) De educación primaria $35.64 $36
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a) De educación primaria $38.67 $39
 
 b).- De educación secundaria y de
 
 educación media superior,
 
-por materia $20.27 $20
+por materia $21.99 $22
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- De tipo superior, por materia. $66.45 $66
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+c).- De tipo superior, por materia. $72.10 $72
 
 d).- Del Instituto Nacional de Bellas
 
-Artes y Literatura, por materia $86.81 $87
+Artes y Literatura, por materia $94.19 $94
 
 e).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
 
 VII.- Exámenes extraordinarios, por materia:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- De educación secundaria y de
 
-educación media superior $16.54 $17
+educación media superior $17.95 $18
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De tipo superior $66.47 $66
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- De tipo superior $72.12 $72
 
 c).- Del Instituto Nacional de
 
-Bellas Artes y Literatura $52.53 $53
+Bellas Artes y Literatura $57.00 $57
 
 VIII.- Otorgamiento de diploma, título o grado:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- De tipo superior $175.41 $175
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- De tipo superior $190.32 $190
 
 b).- De educación secundaria y
 
-de educación media superior $42.42 $42
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de educación media superior $46.03 $46
 
 c).- De capacitación para el trabajo
 
-industrial $28.98 $29
+industrial $31.44 $31
 
 IX.- (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 2007)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 X.- Por la solicitud de acreditación
 
@@ -13589,83 +12125,53 @@ cada certificado de competencia
 
 ocupacional en capacitación para el
 
-trabajo industrial $473.17 $473
+trabajo industrial $513.39 $513
 
 XI.- Expedición de duplicado de certificados de terminación de estudios:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- De educación básica y de educación
 
-media superior $42.42 $42
+media superior $46.03 $46
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De tipo superior $133.25 $133
+b).- De tipo superior $144.58 $145
 
 XII.- Por solicitud de revalidación de estudios:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- De educación básica $31.43 $31
 
-a).- De educación básica $28.97 $29
+b).- De educación media-superior $315.69 $316
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De educación media-superior $290.96 $291
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- De educación superior $873.13 $873
+c).- De educación superior $947.35 $947
 
 XIII.- Revisión de certificados de estudio, por grado escolar:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- De educación básica y
 
-educación media superior $10.99 $11
+educación media superior $11.92 $12
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De tipo superior $34.89 $35
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- De tipo superior $37.86 $38
 
 c).- Del Instituto Nacional de Bellas
 
-Artes y Literatura $34.89 $35
+Artes y Literatura $37.86 $38
 
 XIV.- Por solicitud de equivalencia de estudios:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- De educación básica $31.43 $31
 
-a).- De educación básica $28.97 $29
+b).- De educación media-superior $315.69 $316
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De educación media-superior $290.96 $291
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- De educación superior $873.13 $873
+c).- De educación superior $947.35 $947
 
 XV.- Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- De educación superior $76.08 $76
 
-a).- De educación superior $70.12 $70
+b).- De educación media superior $34.00 $34
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+c).- De educación secundaria $32.60 $33
 
-b).- De educación media superior $31.34 $31
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- De educación secundaria $30.05 $30
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-d).- De educación primaria $6.64 $7
+d).- De educación primaria $7.20 $7
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -13683,55 +12189,39 @@ XVIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 XIX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F DEL 29 DE DICIEMBRE DE 2011, PARA QUEDAR DE LA SIGUIENTE FORMA “XX.- Expedición de duplicado de certificados de aptitud: a).- De locutor…..$436.00…$436. b).- De cronista o comentarista…$717.93…$718.”</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F DEL 29 DE DICIEMBRE DE 2011, PARA QUEDAR DE LA SIGUIENTE FORMA "XX.- Expedición de duplicado de certificados de aptitud: a).- De locutor…..$436.00…$436. b).- De cronista o comentarista…$717.93…$718."</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 XXI.- Consultas o constancias de
 
-Archivo $134.86 $135
+Archivo $146.32 $146
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XXII.- Cambio de carrera $71.76 $72
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XXII.- Cambio de carrera $77.86 $78
 
 XXIII.- Dictamen psicopedagógico
 
-para cambio de carrera $108.10 $108
+para cambio de carrera $117.29 $117
 
 XXIV.- Inscripción:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- En curso de verano $156.39 $156
 
-a).- En curso de verano $144.14 $144
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- En curso de regularización $144.14 $144
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- En curso de regularización $156.39 $156
 
 c).- Cursos de capacitación para el
 
-trabajo industrial $415.86 $416
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+trabajo industrial $451.21 $451
 
 XXV.- Materias libres para alumnos
 
-Inscritos $66.62 $67
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Inscritos $72.28 $72
 
 XXVI.- Expedición de duplicado de
 
-credencial de la preparatoria abierta $33.39 $33
+credencial de la preparatoria abierta $36.23 $36
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13757,8 +12247,6 @@ A. (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 B.- Por la expedición de los siguientes certificados y títulos de propiedad:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Certificados y títulos de
 
 propiedad por actos jurídicos
@@ -13767,9 +12255,7 @@ que no provengan del Fondo
 
 de Apoyo para los Núcleos
 
-Agrarios sin Regularizar $109.63 $110
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Agrarios sin Regularizar $118.95 $119
 
 II.- Títulos de dominio pleno de colonias,
 
@@ -13777,15 +12263,11 @@ siempre y cuando no provengan del
 
 Programa de Regularización de
 
-Colonias $109.55 $110
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Colonias $118.86 $119
 
 III.- Títulos de propiedad de
 
-origen parcelario $208.75 $209
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+origen parcelario $226.49 $226
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13799,35 +12281,27 @@ tierras de uso común; así como
 
 de certificados de derechos
 
-agrarios, por cada uno $109.55 $110
+agrarios, por cada uno $118.86 $119
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 D.- Por la expedición de otros documentos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I.- Constancias $109.55 $110
+I.- Constancias $118.86 $119
 
 No se pagará el derecho establecido en esta fracción por la expedición de constancias que sean solicitadas por la Federación, estados y municipios y por las organizaciones campesinas, en este último caso, cuando acrediten que actúan en representación legal de los núcleos de población o de sus integrantes.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 II.- Oficios informativos sobre
 
-ubicación de predios $143.43 $143
+ubicación de predios $155.62 $156
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 III.- Listado de ejidatarios o comuneros
 
-con derechos vigentes $210.93 $211
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+con derechos vigentes $228.86 $229
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13837,7 +12311,7 @@ IV. Listados prediales referenciados
 
 a carta catastral, por cada hoja
 
-tamaño carta u oficio $54.64 $55
+tamaño carta u oficio $59.28 $59
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13855,8 +12329,6 @@ I. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 II. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
@@ -13867,15 +12339,13 @@ su rectificación o cancelación,
 
 así como por la cancelación o
 
-rectificación de las inscripciones $54.64 $55
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+rectificación de las inscripciones $59.28 $59
 
 IV.- Por la expedición de copias
 
 certificadas de cada plano tamaño
 
-carta u oficio $15.29 $15
+carta u oficio $16.59 $17
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13903,6 +12373,8 @@ No se pagarán los derechos establecidos en este artículo cuando se trate del c
 
 #### SECCION SEGUNDA. Derechos de Autor
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 190.
@@ -13920,6 +12392,8 @@ No se pagarán los derechos establecidos en este artículo cuando se trate del c
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 #### SECCION TERCERA. Registro y Ejercicio Profesional
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -13963,29 +12437,21 @@ VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 VIII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 IX.- Expedición de certificados de libertad
 
-o existencia de gravámenes $259.62 $260
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o existencia de gravámenes $281.69 $282
 
 X.- Expedición de certificados de inscripción
 
-de propiedad federal $433.15 $433
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de propiedad federal $469.97 $470
 
 XI.- Expedición de certificados de
 
-no inscripción federal $433.15 $433
+no inscripción federal $469.97 $470
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 XIII.- Expedición de listados computarizados
 
@@ -13993,21 +12459,15 @@ de los inmuebles incorporados al Sistema
 
 Nacional de Información Inmobiliaria,
 
-por hoja $21.18 $21
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+por hoja $22.98 $23
 
 XIV.- Expedición de copia certificada
 
-de folio real $581.85 $582
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de folio real $631.31 $631
 
 XV.- Expedición de copia certificada
 
-de documento inscrito $436.50 $436
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de documento inscrito $473.60 $474
 
 XVI.- Asiento en el folio real de
 
@@ -14019,15 +12479,13 @@ datos equivocados o cualquier otra
 
 que no constituya novación del
 
-contrato $212.16 $212
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+contrato $230.19 $230
 
 XVII.- Otros tipos de asientos
 
 registrales en libros o en folio real
 
-que soliciten particulares $581.85 $582
+que soliciten particulares $631.31 $631
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -14036,6 +12494,8 @@ El pago de los derechos que establece este artículo comprende la búsqueda de a
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 No pagarán los derechos a que se refieren las fracciones I, II, III, X, XIII, XIV y XV de este artículo las dependencias de la administración pública centralizada, los poderes legislativo y judicial, así como los organismos descentralizados siempre que sus fines se relacionen directamente con la asistencia social, educativa y de apoyo a agrupaciones campesinas.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -14047,17 +12507,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 I.- Por recepción y estudio de solicitudes
 
 de concesión o permiso sobre inmuebles
 
-del dominio público $3,089.40 $3,089
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+del dominio público $3,352.00 $3,352
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -14065,9 +12521,7 @@ II.- Por recepción y estudio de solicitudes
 
 de enajenación de inmuebles de la
 
-Federación $844.30 $844
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Federación $916.07 $916
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -14075,9 +12529,7 @@ III.- Por otorgamiento o prórroga de
 
 concesión o permiso sobre bienes de
 
-dominio público de la Federación $1,544.61 $1,545
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+dominio público de la Federación $1,675.90 $1,676
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -14093,9 +12545,7 @@ humanos áridos o cremados en
 
 templos de propiedad federal o sus
 
-anexidades $10,504.32 $10,504
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+anexidades $11,397.19 $11,397
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -14109,9 +12559,7 @@ humanos áridos o cremados en templos
 
 de propiedad federal o sus
 
-anexidades $5,252.09 $5,252
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+anexidades $5,698.52 $5,699
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -14125,11 +12573,13 @@ modificación, ampliación, adaptación
 
 o reparación dentro de inmuebles de
 
-propiedad federal $6,560.28 $6,560
+propiedad federal $7,117.90 $7,118
 
 (REUBICADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 #### SECCION CUARTA. Servicios de Educación
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -14157,6 +12607,8 @@ Los ingresos que se obtengan por la recaudación de este derecho, que no estén 
 
 #### SECCION PRIMERA. Registro Agrario Nacional
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
@@ -14169,23 +12621,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I. Por el otorgamiento o autorización de
 
 sustitución de concesiones para la
 
-pesca comercial $9,507.13 $9,507
+pesca comercial $10,315.24 $10,315
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 II.- Por la expedición de permisos para:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- La pesca comercial $866.63 $867
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- La pesca comercial $940.29 $940
 
 b).- Para realizar los trabajos pesqueros
 
@@ -14193,9 +12639,7 @@ necesarios para fundamentar la solicitud
 
 de las concesiones de pesca
 
-comercial $519.80 $520
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+comercial $563.98 $564
 
 c).- La pesca de fomento a personas
 
@@ -14205,7 +12649,7 @@ social sea la captura, comercialización
 
 o transformación de productos
 
-pesqueros $520.87 $521
+pesqueros $565.14 $565
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -14213,25 +12657,17 @@ pesqueros $520.87 $521
 
 III.- Por el otorgamiento de permiso para:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Instalar artes de pesca fija, en
 
-aguas de jurisdicción federal $522.56 $523
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+aguas de jurisdicción federal $566.98 $567
 
 b).- La recolección del medio natural
 
-de reproductores $828.62 $829
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de reproductores $899.05 $899
 
 c).- La transferencia de permisos
 
-de pesca comercial $841.39 $841
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de pesca comercial $912.91 $913
 
 d).- Desembarcar productos pesqueros
 
@@ -14239,27 +12675,19 @@ frescos, enhielados o congelados en
 
 puertos mexicanos, por embarcaciones
 
-extranjeras $520.87 $521
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+extranjeras $565.14 $565
 
 IV.- Por el otorgamiento de una
 
-concesión para acuacultura comercial $12,708.83 $12,709
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+concesión para acuacultura comercial $13,789.08 $13,789
 
 V.- Por la expedición de permiso para
 
-acuacultura de fomento $6,542.62 $6,543
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+acuacultura de fomento $7,098.74 $7,099
 
 VI.- Por el otorgamiento de permiso
 
-para acuacultura didáctica $2,213.49 $2,213
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+para acuacultura didáctica $2,401.64 $2,402
 
 VII.- Por el otorgamiento de
 
@@ -14267,7 +12695,7 @@ autorización para la sustitución de
 
 titular de los derechos de la concesión
 
-acuícola $1,633.65 $1,634
+acuícola $1,772.51 $1,773
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -14299,17 +12727,13 @@ IV.- La pesca didáctica que realizan las instituciones educativas del país, re
 
 V.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 191-C.
 
-Por los permisos
+Por los permisos cuota sin cuota con
 
-de excepción para pesca, por cada
+de excepción para pesca, por cada ajuste ajuste
 
 embarcación extranjera y por cada
 
@@ -14317,7 +12741,7 @@ viaje hasta de 60 días, se pagará
 
 el derecho de pesca, conforme a la
 
-cuota de $2,898.63 $2,899
+cuota de $3,145.01 $3,145
 
 ###### ARTICULO 191-D.
 
@@ -14347,17 +12771,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por cada título de asignación o
 
 concesión para explotar, usar o
 
 aprovechar aguas nacionales
 
-incluyendo su registro $3,188.04 $3,188
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+incluyendo su registro $3,459.02 $3,459
 
 II.- Por cada permiso de descarga
 
@@ -14367,9 +12787,7 @@ de procesos industriales a un
 
 cuerpo receptor, incluyendo su
 
-registro $4,366.27 $4,366
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+registro $4,737.40 $4,737
 
 III.- Por cada permiso de descarga
 
@@ -14377,9 +12795,7 @@ de aguas residuales, distintas a las
 
 que prevé la fracción anterior,
 
-incluyendo su registro $1,455.34 $1,455
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+incluyendo su registro $1,579.04 $1,579
 
 IV.- Por cada prórroga o modificación,
 
@@ -14399,9 +12815,7 @@ profundización, sustitución de usuarios,
 
 relocalización o reposición de pozos,
 
-punto o calidad de descarga o plazo $1,630.31 $1,630
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+punto o calidad de descarga o plazo $1,768.89 $1,769
 
 V.- Por cada transmisión de títulos de
 
@@ -14409,13 +12823,15 @@ concesión y permisos de descarga
 
 cuando se modifiquen las características
 
-del título $2,938.48 $2,938
+del título $3,188.25 $3,188
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 Tratándose de los casos previstos en las fracciones IV y V de este artículo, los interesados pagarán además el derecho de la inscripción correspondiente en el Registro Público de Derechos de Agua en términos del artículo 192-C de esta Ley.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -14427,17 +12843,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por cada título de concesión para
 
 la extracción de materiales de cauces,
 
 vasos y depósitos de propiedad
 
-nacional $1,350.59 $1,351
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+nacional $1,465.39 $1,465
 
 II.- Por cada título de concesión para
 
@@ -14449,9 +12861,7 @@ así como esteros, zonas federales y
 
 demás bienes nacionales regulados por
 
-la Ley de Aguas Nacionales $1,351.32 $1,351
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+la Ley de Aguas Nacionales $1,466.18 $1,466
 
 III.- Por cada permiso para la construcción
 
@@ -14467,9 +12877,7 @@ pozos para uso de aguas del subsuelo
 
 o para la construcción de obras en zona
 
-federal $4,125.81 $4,126
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+federal $4,476.50 $4,476
 
 IV.- Por cada título de concesión para
 
@@ -14479,9 +12887,7 @@ infraestructura hidráulica federal,
 
 incluyendo la prestación de los
 
-servicios respectivos $4,342.09 $4,342
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+servicios respectivos $4,711.17 $4,711
 
 V.- Por la prórroga o modificación,
 
@@ -14497,7 +12903,7 @@ uso o aprovechamiento, sustitución de
 
 usuario, ubicación o plazo, por cada
 
-uno $1,630.31 $1,630
+uno $1,768.89 $1,769
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -14509,6 +12915,8 @@ Los derechos a que se refiere este artículo, se pagarán independientemente de 
 
 Tratándose del caso previsto en la fracción V de este artículo, los interesados pagarán además el derecho de la inscripción correspondiente en el Registro Público de Derechos de Agua en términos del artículo 192-C de esta Ley.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 192-B.
@@ -14519,19 +12927,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la expedición del certificado de
 
 calidad del agua, a que se refieren
 
 las fracciones V del artículo 224 y
 
-IV del artículo 282, por cada uno $4,220.95 $4,221
+IV del artículo 282, por cada uno $4,579.73 $4,580
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 II.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -14551,8 +12959,6 @@ I.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 II.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 III.- Por la constancia de búsqueda
 
 o acceso a la información sobre
@@ -14561,13 +12967,11 @@ antecedentes registrales, a cargo de
 
 la Comisión Nacional del Agua, por
 
-cada una $312.65 $313
+cada una $339.23 $339
 
 Los usuarios que utilicen la página electrónica de la Comisión Nacional del Agua en internet o utilicen el equipo de cómputo que ponga a disposición del público en general dicha Comisión, para consultar los antecedentes registrales que obran en el Registro Público de Derechos de Agua, no estarán obligados al pago del derecho.
 
 Por los servicios a que se refiere esta fracción, no se pagará el derecho establecido en la fracción IV de este artículo.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 IV.- Por la expedición de certificados
 
@@ -14575,9 +12979,7 @@ o constancias de las inscripciones o
 
 documentos que obren en el Registro
 
-Público, por cada uno $159.14 $159
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Público, por cada uno $172.67 $173
 
 V.- Por la emisión de mapas con
 
@@ -14585,7 +12987,7 @@ información registral, a cargo de
 
 la Comisión Nacional del Agua,
 
-por cada uno $251.72 $252
+por cada uno $273.12 $273
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -14627,15 +13029,15 @@ XI. Con excepción del uso doméstico amparado en los títulos de concesión y d
 
 El ejercicio de las facultades a que se refiere este artículo, es independiente y sin menoscabo de las atribuciones que competen a la Secretaría de Hacienda y Crédito Público.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-###### ARTICULO 92-F.
+###### ARTICULO 192-F.
 
-Por el estudio, trámite, y en su caso, la expedición de la validación a que se refiere la fracción VI del artículo 224 de esta Ley, se pagará el derecho conforme a la cuota de $6,155.00
+Por el estudio, trámite, y en su caso, la expedición de la validación a que se refiere la fracción VI del artículo 224 de esta Ley, se pagará el derecho conforme a la cuota de $6,411.05 6,411
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -14653,6 +13055,8 @@ Por el estudio, trámite, y en su caso, la expedición de la validación a que s
 
 #### SECCION PRIMERA. Del Registro Público de la Propiedad Federal
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 194-A.
@@ -14662,6 +13066,8 @@ Por el estudio, trámite, y en su caso, la expedición de la validación a que s
 ###### ARTICULO 194-B.
 
 (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -14675,35 +13081,25 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el otorgamiento de la
 
-concesión, anualmente $3,377.96 $3,378
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+concesión, anualmente $3,665.09 $3,665
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-II.- Por el otorgamiento de cada autorización $329.10 $329
+II.- Por el otorgamiento de cada autorización $357.07 $357
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 III.- Por el deslinde y levantamiento topográfico de la zona sujeta a concesión, por metro cuadrado:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Hasta 500 metros $457.95 $458
 
-a).- Hasta 500 metros $422.07 $422
+b).- De 501 a 1000 metros $572.39 $572
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De 501 a 1000 metros $527.55 $528
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- De 1001 en adelante $590.96 $591
+c).- De 1001 en adelante $641.19 $641
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -14719,19 +13115,13 @@ IV.- Por el otorgamiento de autorizaciones para prestadores de servicios turíst
 
 a).- Por unidad de transporte terrestre:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+1.- Motorizada $381.43 $381
 
-1.- Motorizada $351.55 $352
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-2.- No motorizada $69.92 $70
+2.- No motorizada $75.86 $76
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 b).- Por unidad de transporte acuática, subacuática o anfibia:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 1.- Embarcaciones hasta de 12
 
@@ -14741,9 +13131,7 @@ vehículos o aparatos sumergibles
 
 o anfibios, tablas de oleaje y sus
 
-equivalentes $351.55 $352
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+equivalentes $381.43 $381
 
 2.- Embarcaciones mayores de 12
 
@@ -14751,9 +13139,7 @@ metros de eslora, incluyendo
 
 vehículos o aparatos sumergibles
 
-o anfibios y sus equivalentes $7,037.34 $7,037
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o anfibios y sus equivalentes $7,635.51 $7,636
 
 3.- Motocicletas acuáticas y
 
@@ -14763,15 +13149,13 @@ motorizados equivalentes,
 
 diferentes a los enunciados en los
 
-numerales 1 y 2 de este inciso $494.20 $494
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+numerales 1 y 2 de este inciso $536.21 $536
 
 c).- Otros vehículos distintos a los
 
 señalados en los incisos
 
-anteriores $175.41 $175
+anteriores $190.32 $190
 
 d).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -14781,17 +13165,13 @@ V.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
 Estos derechos se pagarán independientemente de los que correspondan conforme al Título II de esta Ley.
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 194-C
 
-1.- Por la expedición
+1.- Por la expedición cuota sin cuota con
 
-de cada constancia o certificado que
+de cada constancia o certificado que ajuste ajuste
 
 emita el Registro Nacional de Áreas
 
@@ -14799,7 +13179,7 @@ Naturales Protegidas, se pagará el
 
 derecho conforme a la siguiente
 
-cuota $105.28 $105
+cuota $114.23 $114
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -14814,8 +13194,6 @@ Por los servicios que a continuación se señalan, se pagará el derecho corresp
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- Por la recepción, estudio de la
 
@@ -14847,7 +13225,7 @@ cualquier otro depósito de aguas
 
 marítimas, se pagará el derecho
 
-conforme a la siguiente cuota $2,043.86 $2,044
+conforme a la siguiente cuota $2,217.59 $2,218
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -14856,8 +13234,6 @@ La anterior disposición es aplicable a los establecimientos permanentes. En el 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 II.- Por la verificación en campo de levantamiento topográfico presentado por el solicitante de uso o aprovechamiento de las playas, la zona federal marítimo terrestre, los terrenos ganados al mar, o a cualquier otro depósito que se forme por aguas marítimas:
-
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Rango de Superficie
 
@@ -14869,37 +13245,35 @@ por m2 excedente
 
 del límite inferior
 
-0.01 500.00 $1,405.97 $0.0000
+0.01 500.00 $1,525.48 $0.0000
 
-500.01 1,000.00 $1,405.97 $3.9372
+500.01 1,000.00 $1,525.48 $4.2719
 
-1,000.01 2,500.00 $3,375.09 $2.9399
+1,000.01 2,500.00 $3,661.97 $3.1898
 
-2,500.01 5,000.00 $7,786.48 $1.5916
+2,500.01 5,000.00 $8,448.33 $1.7269
 
-5,000.01 10,000.00 $11,768.30 $1.0139
+5,000.01 10,000.00 $12,768.61 $1.1001
 
-10,000.01 15,000.00 $16,842.88 $0.7796
+10,000.01 15,000.00 $18,274.52 $0.8459
 
-15,000.01 20,000.00 $20,747.23 $0.6798
+15,000.01 20,000.00 $22,510.74 $0.7376
 
-20,000.01 25,000.00 $24,150.31 $0.5880
+20,000.01 25,000.00 $26,203.09 $0.6380
 
-25,000.01 50,000.00 $27,095.39 $0.4881
+25,000.01 50,000.00 $29,398.50 $0.5296
 
-50,000.01 100,000.00 $39,330.73 $0.2698
+50,000.01 100,000.00 $42,673.84 $0.2927
 
-100,000.01 150,000.00 $52,890.26 $0.2042
+100,000.01 150,000.00 $57,385.93 $0.2216
 
-150,000.01 En adelante $63,147.00 $0.1365
+150,000.01 En adelante $68,514.50 $0.1481
 
 A partir del límite inferior, a los m2 adicionales se les aplicará el factor correspondiente hasta llegar al límite inferior del siguiente rango.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 III.- Por la cesión de la concesión
 
-entre particulares $4,590.89 $4,591
+entre particulares $4,981.12 $4,981
 
 IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
@@ -14919,6 +13293,8 @@ Este derecho se pagará independientemente del que corresponda por el uso o apro
 
 #### SECCION PRIMERA. Concesiones, Permisos y Autorizaciones para Pesca
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 194-F.
@@ -14935,8 +13311,6 @@ A. (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
 
 B. Por la expedición de permisos, autorizaciones y certificados:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el trámite y, en su caso,
 
 autorización de colecta científica,
@@ -14947,13 +13321,11 @@ biológico de flora y fauna silvestres,
 
 terrestres y acuáticas realizada en
 
-el país por extranjeros $14,010.28 $14,010
+el país por extranjeros $15,201.15 $15,201
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 Las personas que realicen colecta científica en el país, bajo algún convenio con el Gobierno Federal o con alguna institución mexicana, así como con investigadores mexicanos registrados en el sistema nacional de investigadores, no pagarán los derechos a que se refieren las fracciones I y III de este apartado.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 II.- Por la recepción y trámite de
 
@@ -14981,9 +13353,7 @@ Flora Silvestres de la que México
 
 forma parte, cualquiera que sea
 
-su resolución $493.72 $494
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+su resolución $535.69 $536
 
 III.- Para colecta de material parental
 
@@ -15003,19 +13373,19 @@ Silvestres, de la que México forma
 
 parte, para su reproducción o
 
-propagación $587.58 $588
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+propagación $637.52 $638
 
 IV.- Por la autorización de colecta
 
 de recursos biológicos con fines de
 
-utilización en biotecnología $14,196.92 $14,197
+utilización en biotecnología $15,403.66 $15,404
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
 VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -15027,19 +13397,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por cada solicitud de registro
 
-en materia de vida silvestre $384.71 $385
+en materia de vida silvestre $417.41 $417
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 No se pagará el derecho que se establece en esta fracción cuando se trate del registro de unidades de manejo para la conservación de vida silvestre, de mascotas y aves de presa, de prestadores de servicios en materia de vida silvestre, así como de colecciones científicas o museográficas públicas o privadas.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 II.- Por el trámite y, en su caso,
 
@@ -15049,17 +13415,15 @@ prestadores de servicios de
 
 aprovechamiento en caza
 
-deportiva $1,067.86 $1,068
+deportiva $1,158.63 $1,159
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 III.- Por la expedición de cintillo
 
-de aprovechamiento cinegético $247.56 $248
+de aprovechamiento cinegético $268.60 $269
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -15067,15 +13431,13 @@ de aprovechamiento cinegético $247.56 $248
 
 IV.- Por la expedición o reposición de cada licencia de caza deportiva:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). De modalidad anual $521.65 $522
 
-a). De modalidad anual $480.78 $481
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b). De modalidad indefinida $1,494.95 $1,495
+b). De modalidad indefinida $1,622.02 $1,622
 
 V.- (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F 10 DE MAYO DE 1996)</small>
 
@@ -15087,21 +13449,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Distrito Federal, México, Morelos,
 
-Puebla, Tlaxcala, Hidalgo y Querétaro $17.21 $17
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Puebla, Tlaxcala, Hidalgo y Querétaro $18.67 $19
 
 II.- Jalisco, Michoacán, Aguascalientes,
 
 Guanajuato, Nuevo León, San Luis
 
-Potosí y Zacatecas $23.21 $23
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Potosí y Zacatecas $25.18 $25
 
 III.- Baja California, Baja California Sur,
 
@@ -15113,19 +13469,19 @@ Tabasco, Guerrero, Oaxaca, Chiapas,
 
 Campeche, Yucatán, Quintana Roo y
 
-Sinaloa $28.97 $29
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Sinaloa $31.43 $31
 
 IV.- Por supervisión anual, por
 
-Hectárea $8.51 $9
+Hectárea $9.23 $9
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
 #### SECCION SEGUNDA
 
 Servicios Relacionados con el Agua y sus Bienes Públicos Inherentes.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -15241,21 +13597,13 @@ se pagará la cuota de: $3,332.55 $3,333
 
 Por los servicios de recepción y análisis de la solicitud y, en su caso, la expedición de permisos en materia de organismos genéticamente modificados, se pagará el derecho por actividades relacionadas con la liberación al ambiente, conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I. Por el permiso de liberación experimental al ambiente de organismos genéticamente modificados, incluyendo su importación $25,008.74 $25,009
 
-I. Por el permiso de liberación experimental al ambiente de organismos genéticamente modificados, incluyendo su importación $23,049.53 $23,050
+II. Por el permiso de liberación al ambiente en programa piloto de organismos genéticamente modificados, incluyendo su importación $25,008.74 $25,009
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III. Por el permiso de liberación comercial al ambiente de organismos genéticamente modificados, incluyendo su importación $25,008.74 $25,009
 
-II. Por el permiso de liberación al ambiente en programa piloto de organismos genéticamente modificados, incluyendo su importación $23,049.53 $23,050
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III. Por el permiso de liberación comercial al ambiente de organismos genéticamente modificados, incluyendo su importación $23,049.53 $23,050
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-Tratándose de la solicitud de reconsideración de resolución negativa de cada permiso a que se refiere este artículo, se pagará la cuota $19,878.97 $19,879
+Tratándose de la solicitud de reconsideración de resolución negativa de cada permiso a que se refiere este artículo, se pagará la cuota $21,568.68 $21,569
 
 ###### ARTICULO 194-J.
 
@@ -15275,27 +13623,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Hasta 500 metros cúbicos EXENTO EXENTO
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 II.- De más de 500 metros cúbicos
 
-hasta 1,000 metros cúbicos $4,344.55 $4,345
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hasta 1,000 metros cúbicos $4,713.84 $4,714
 
 III.- De más de 1,000 metros cúbicos
 
-hasta 5,000 metros cúbicos $5,937.56 $5,938
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hasta 5,000 metros cúbicos $6,442.25 $6,442
 
 IV.- De más de 5,000 metros
 
-cúbicos en adelante $7,602.98 $7,603
+cúbicos en adelante $8,249.23 $8,249
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -15320,6 +13660,8 @@ d). La solicitud de modificación sea exclusivamente para el aprovechamiento de 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 e). La solicitud de modificación sea para cambiar la cronología de las anualidades.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -15331,25 +13673,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Hasta 500 metros cúbicos EXENTO EXENTO
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 II.- De más de 500 metros cúbicos
 
-hasta 1,500 metros cúbicos $2,747.36 $2,747
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+hasta 1,500 metros cúbicos $2,980.89 $2,981
 
 III.- De más de 1,500 metros cúbicos
 
-hasta 3,000 metros cúbicos $3,708.94 $3,709
+hasta 3,000 metros cúbicos $4,024.20 $4,024
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IV.- De más de 3,000 metros cúbicos $4,807.89 $4,808
+IV.- De más de 3,000 metros cúbicos $5,216.56 $5,217
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -15375,6 +13709,8 @@ d). La solicitud de modificación sea exclusivamente para el aprovechamiento de 
 
 e). La solicitud de modificación sea para cambiar la cronología de las anualidades.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 194-M.
@@ -15385,47 +13721,33 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I. Hasta 1 hectárea $941.33 $941
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I. Hasta 1 hectárea $1,021.34 $1,021
 
 II. De más de 1 hectárea hasta
 
-10 hectáreas $1,303.36 $1,303
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+10 hectáreas $ 1,414.15 $ 1,414
 
 III. De más de 10 hectáreas hasta
 
-50 hectáreas $2,751.55 $2,752
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+50 hectáreas $ 2,985.43 $ 2,985
 
 IV. De más de 50 hectáreas
 
-hasta 200 hectáreas $5,503.11 $5,503
+hasta 200 hectáreas $ 5,970.87 $ 5,971
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-V. De más de 200 hectáreas $8,399.48 $8,399
+V. De más de 200 hectáreas $ 9,113.44 $ 9,113
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 Cuando la solicitud se refiera a terrenos incendiados que requieran de un dictamen especial, se pagará adicionalmente el 20% de las cuotas establecidas en las fracciones anteriores.
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 194-N.
 
-Por la recepción,
+Por la recepción, cuota sin cuota con
 
-evaluación y dictamen del programa
+evaluación y dictamen del programa ajuste ajuste
 
 de manejo de plantación forestal
 
@@ -15441,25 +13763,23 @@ hectáreas o, en su caso, en sustitución
 
 de vegetación nativa, se pagará la
 
-cuota de $5,937.56 $5,938
+cuota de $ 6,442.25 $ 6,442
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 194-N
 
-1.- Por la expedición
+1.- Por la expedición cuota sin cuota con
 
-de los certificados de inscripción o
+de los certificados de inscripción o ajuste ajuste
 
 modificación del Registro Forestal
 
 Nacional, se pagarán derechos, por
 
-cada uno, conforme a la cuota de $362.05 $362
+cada uno, conforme a la cuota de $ 392.82 $ 393
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -15471,8 +13791,6 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la expedición de cada
 
 certificado fitosanitario para la
@@ -15481,9 +13799,7 @@ importación de productos y
 
 subproductos forestales fuera de
 
-la región y franja fronteriza $1,086.15 $1,086
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+la región y franja fronteriza $ 1,178.47 $ 1,178
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -15501,9 +13817,7 @@ internacional para la exportación
 
 o la reexportación de materias
 
-primas o productos forestales $868.91 $869
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+primas o productos forestales $ 942.77 $ 943
 
 III.- Por la emisión del dictamen técnico
 
@@ -15513,19 +13827,15 @@ muestras entomológicas o patológicas
 
 detectadas en productos y/o subproductos
 
-forestales de importación $1,230.96 $1,231
+forestales de importación $ 1,335.59 $ 1,336
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 194-N
 
-3.- Por la recepción y
+3.- Por la recepción y cuota sin cuota con
 
-evaluación de la solicitud y, en su caso,
+evaluación de la solicitud y, en su caso, ajuste ajuste
 
 la autorización para el funcionamiento
 
@@ -15535,7 +13845,9 @@ transformación de materias primas
 
 forestales, se pagará el derecho
 
-conforme a la cuota de $1,593.00 $1,593
+conforme a la cuota de $ 1,728.41 $ 1,728
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -15547,19 +13859,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por colecta de recursos biológicos
 
 forestales con fines biotecnológicos
 
-comerciales $12,786.28 $12,786
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+comerciales $ 13,873.11 $ 13,873
 
 II.- Por colecta de recursos biológicos
 
-forestales con fines científicos $1,468.31 $1,468
+forestales con fines científicos $ 1,593.12 $ 1,593
 
 III.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
@@ -15581,19 +13889,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la recepción y evaluación de
 
-solicitud de licencia $2,172.28 $2,172
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+solicitud de licencia $ 2,356.92 $ 2,357
 
 II.- Actualización de la licencia de
 
 funcionamiento o de la licencia
 
-ambiental $1,086.15 $1,086
+ambiental $ 1,178.47 $ 1,178
 
 III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
@@ -15619,6 +13923,8 @@ III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2002)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 (REUBICADO Y REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 194-T.
@@ -15629,55 +13935,41 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I. Operación de unidades para la
 
 recolección y transporte de residuos
 
-peligrosos $3,442.86 $3,443
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+peligrosos $ 3,735.50 $ 3,735
 
 II. Instalación y operación de centros
 
 de acopio y almacenamiento de
 
-residuos peligrosos $3,441.00 $3,441
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+residuos peligrosos $ 3,733.49 $ 3,733
 
 III. Instalación y operación de sistemas
 
 de reciclaje o coprocesamiento de
 
-residuos peligrosos $2,172.28 $2,172
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+residuos peligrosos $ 2,356.92 $ 2,357
 
 IV. Instalación y operación de sistemas
 
 de reutilización de residuos
 
-peligrosos $2,172.28 $2,172
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+peligrosos $ 2,356.92 $ 2,357
 
 V. Instalación y operación de
 
 sistemas de tratamiento de residuos
 
-peligrosos $5,671.57 $5,672
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+peligrosos $ 6,153.65 $ 6,154
 
 VI. Instalación y operación de
 
 sistemas de incineración de
 
-residuos peligrosos $45,715.21 $45,715
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+residuos peligrosos $ 49,601.00 $ 49,601
 
 VII. Instalación y operación de
 
@@ -15685,13 +13977,11 @@ sistemas para el confinamiento
 
 o disposición final de residuos
 
-peligrosos $75,274.85 $75,275
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+peligrosos $ 81,673.21 $ 81,673
 
 VIII. Prestación de servicios de
 
-manejo de residuos peligrosos $5,379.33 $5,379
+manejo de residuos peligrosos $ 5,836.57 $ 5,837
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -15703,6 +13993,8 @@ Por las solicitudes de transferencia, modificación o prórroga de la autorizaci
 
 Los microgeneradores organizados que presenten las solicitudes a que se refiere la fracción I del presente artículo pagarán el 50% de la cuota establecida en este artículo.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 194-T
@@ -15713,33 +14005,25 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Para importar residuos peligrosos
 
 o residuos que no tienen características
 
-de peligrosidad $1,746.33 $1,746
+de peligrosidad $ 1,894.77 $ 1,895
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II.- Para exportar residuos peligrosos $820.45 $820
+II.- Para exportar residuos peligrosos $ 890.19 $ 890
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 Por los trámites subsecuentes y solicitudes de prórroga y modificación a la autorización se pagará el 50% de la cuota establecida en este artículo.
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 194-T
 
-2.- Por la evaluación
+2.- Por la evaluación cuota sin cuota con
 
-y, en su caso, aprobación de los
+y, en su caso, aprobación de los ajuste ajuste
 
 programas para la prevención de
 
@@ -15749,7 +14033,9 @@ actividades altamente riesgosas,
 
 pagarán el derecho, conforme a la
 
-cuota de $2,145.49 $2,145
+cuota de $ 2,327.86 $ 2,328
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -15761,27 +14047,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Estudio de riesgo Nivel 0 $ 1,075.81 $ 1,076
 
-I.- Estudio de riesgo Nivel 0 $991.53 $992
+II.- Estudio de riesgo Nivel 1 $ 1,645.49 $ 1,645
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III.- Estudio de riesgo Nivel 2 $ 2,436.87 $ 2,437
 
-II.- Estudio de riesgo Nivel 1 $1,516.58 $1,517
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III.- Estudio de riesgo Nivel 2 $2,245.96 $2,246
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IV.- Estudio de riesgo Nivel 3 $3,081.72 $3,082
+IV.- Estudio de riesgo Nivel 3 $ 3,343.67 $ 3,344
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 Por la solicitud de modificación o ampliación de las resoluciones del estudio de riesgo ambiental se pagará el 50% de la cuota establecida en las fracciones del presente artículo.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -15789,17 +14067,19 @@ Por la solicitud de modificación o ampliación de las resoluciones del estudio 
 
 ###### ARTICULO 194-T
 
-4.- Por la recepción, análisis y, en su caso, autorización de la solicitud para importar plaguicidas, nutrientes vegetales y sustancias o materiales tóxicos o peligrosos, así como para exportar materiales peligrosos, se pagará la cuota de:…..$1,072.16 $1,072
+4.- Por la recepción, análisis y, en su caso, autorización de la solicitud para importar plaguicidas, nutrientes vegetales y sustancias o materiales tóxicos o peligrosos, así como para exportar materiales peligrosos, se pagará la cuota de: $ 1,163.29 $ 1,163
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 194-T
 
-5.- Por la recepción, análisis y, en su caso, registro de cada plan de manejo o de condiciones particulares de manejo de residuos peligrosos, de grandes generadores, se pagará la cuota de $580.79 $581
+5.- Por la recepción, análisis y, en su caso, registro de cada plan de manejo o de condiciones particulares de manejo de residuos peligrosos, de grandes generadores, se pagará la cuota de $ 630.16 $ 630
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 No se pagará el derecho establecido en el presente artículo por las solicitudes de modificación o integración al registro de planes de manejo.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -15819,25 +14099,17 @@ ajuste ajuste
 
 I. Pasivo ambiental:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). Por volumen de suelo
 
-a). Por volumen de suelo hasta por 1000 m³ $1,161.57 $1,162
+hasta por 1000 m³ $ 1,260.30 $ 1,260
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b). Por metro cúbico adicional $1.74
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b). Por metro cúbico adicional $ 1.89
 
 El monto del derecho a que se refiere
 
-esta fracción no podrá exceder de $40,655.01 $40,655
+esta fracción no podrá exceder de $ 44,110.69 $ 44,111
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II. Emergencia ambiental $1,233.93 $1,234
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+II. Emergencia ambiental $ 1,338.81 $ 1,339
 
 Tratándose de la solicitud de
 
@@ -15845,11 +14117,13 @@ autorización para la transferencia
 
 de sitios contaminados se pagará
 
-la cuota de $3,701.81 $3,702
+la cuota de $ 4,016.46 $ 4,016
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION QUINTA. De las Playas, la Zona Federal Marítimo Terrestre o los Terrenos Ganados al Mar o a Cualquier otro Depósito de Aguas Marítimas
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -15860,8 +14134,6 @@ Por el otorgamiento de actas, constancias, certificaciones o registros de verifi
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- Por la verificación del cumplimiento
 
@@ -15895,9 +14167,7 @@ reutilización, el reciclaje, el
 
 co-procesamiento o el tratamiento de
 
-los mismos $558.04 $558
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+los mismos $ 605.47 $ 605
 
 II.- Por la verificación del cumplimiento
 
@@ -15927,9 +14197,7 @@ o incineración de los mismos en el país
 
 importador, o bien, sea distinto al comercio
 
-o la industrialización $149.61 $150
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o la industrialización $ 162.33 $ 162
 
 III.- Por la constancia de cumplimiento
 
@@ -15939,9 +14207,7 @@ envolturas, tarimas y embalajes de
 
 madera que se importan como soporte
 
-de mercancías $155.12 $155
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de mercancías $ 168.31 $ 168
 
 IV.- Por la expedición del acta para
 
@@ -15959,33 +14225,25 @@ marinas de jurisdicción federal,
 
 que acrediten la debida instalación
 
-de los excluidores, por cada acta $1,556.97 $1,557
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de los excluidores, por cada acta $ 1,689.31 $ 1,689
 
 V.- Por la expedición de la constancia
 
 de no daño ambiental en la zona federal
 
-marítimo terrestre $3,693.69 $3,694
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+marítimo terrestre $ 4,007.65 $ 4,008
 
 VI.- Por la revisión, evaluación y, en su
 
 caso, certificación de vehículos nuevos
 
-en planta, por cada vehículo $18.05 $18
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+en planta, por cada vehículo $ 19.58 $ 20
 
 VII.- Por la revisión, evaluación y
 
 certificación excepcional de vehículos
 
-nuevos, por cada vehículo $386.96 $387
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+nuevos, por cada vehículo $ 419.85 $ 420
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -16013,7 +14271,7 @@ derechos por cada solicitud,
 
 independientemente del número de
 
-aprobaciones emitidas $13,902.59 $13,903
+aprobaciones emitidas $ 15,084.31 $ 15,084
 
 Las unidades de verificación que soliciten la aprobación para ser consideradas auditores ambientales dentro del Programa Nacional de Auditoría Ambiental, no pagarán los derechos a que se refiere esta fracción. Dichas unidades de verificación deberán pagar el referido derecho cuando pretendan obtener la aprobación para evaluar la conformidad de una norma oficial mexicana expedida por la Secretaría de Medio Ambiente y Recursos Naturales.
 
@@ -16039,7 +14297,7 @@ Los ingresos que se obtengan por la recaudación de los derechos contenidos de l
 
 Cuando los solicitantes, con base en el artículo 109-Bis 1 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y conforme a los lineamientos de carácter general que emita la Secretaría de Medio Ambiente y Recursos Naturales, presenten una solicitud única para dos o más trámites o servicios establecidos de la Sección Quinta a la Sección Novena del presente Capítulo para la autorización de un proyecto, sólo pagarán el derecho más alto que corresponda a los trámites y servicios solicitados.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -16047,7 +14305,7 @@ Cuando los solicitantes, con base en el artículo 109-Bis 1 de la Ley General de
 
 ###### ARTICULO 194-Y.
 
-Por la recepción, evaluación y dictamen del Documento Técnico Unificado y, en su caso, la autorización en Materia de Impacto Ambiental en su modalidad particular y del aprovechamiento de recursos forestales maderables o el refrendo del mismo se pagará una cuota de: $8,993.35 $8,993
+Por la recepción, evaluación y dictamen del Documento Técnico Unificado y, en su caso, la autorización en Materia de Impacto Ambiental en su modalidad particular y del aprovechamiento de recursos forestales maderables o el refrendo del mismo se pagará una cuota de: $ 9,757.78 $ 9,758
 
 Por la solicitud y, en su caso, autorización de la modificación del Documento Técnico Unificado a que se refiere este artículo se pagará el 35% de la cuota prevista en el párrafo que antecede.
 
@@ -16058,6 +14316,8 @@ Por la solicitud y, en su caso, autorización de la modificación del Documento 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEXTA. Servicios de Vida Silvestre
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -16071,35 +14331,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a). Televisión e Internet $19,770.56 $19,771
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). Televisión e Internet $ 21,451.06 $ 21,451
 
 b). Cine, video en lugares públicos
 
 cerrados y en medios de transporte
 
-público $2,751.55 $2,752
+público $ 2,985.43 $ 2,985
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+c).- Radio $ 2,121.23 $ 2,121
 
-c).- Radio $1,955.05 $1,955
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-d).- Prensa $651.69 $652
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+d).- Prensa $ 707.08 $ 707
 
 e). Folletos, catálogos, carteles y otros
 
-medios similares $448.93 $449
+medios similares $ 487.09 $ 487
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-f).- Anuncios en exteriores $3,475.64 $3,476
+f).- Anuncios en exteriores $ 3,771.07 $ 3,771
 
 Los derechos que se establecen en esta fracción, se pagarán por cada tipo de mensaje que comprenda la autorización que se otorgue, según el medio publicitario que se utilice de los señalados en los incisos de esta fracción.
 
@@ -16119,9 +14367,7 @@ II.- (DEROGADA. D.O.F. 13 DE NOVIEMBRE DE 2008)
 
 III. Por cada solicitud y, en su caso, expedición de licencia sanitaria de establecimientos de insumos para la salud, o por cada solicitud de visita de verificación sanitaria en el extranjero para certificación de buenas prácticas de fabricación de fármacos, medicamentos y otros insumos para la salud, se pagará el derecho conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a). Por fábrica o laboratorio $73,396.24 $73,396
+a). Por fábrica o laboratorio $ 79,634.92 $ 79,635
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -16129,17 +14375,11 @@ a). Por fábrica o laboratorio $73,396.24 $73,396
 
 Tratándose de centros de mezcla para la preparación de mezclas parenterales nutricionales y medicamentosas, se pagará el 50% del derecho que corresponda a este inciso.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b). Por almacén de depósito y distribución $ 25,798.46 $ 25,798
 
-b). Por almacén de depósito y distribución $23,777.38 $23,777
+c).- Por farmacia o botica $ 1,257.04 $ 1,257
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- Por farmacia o botica $1,158.56 $1,159
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-d).- Droguerías $2,896.37 $2,896
+d).- Droguerías $ 3,142.56 $ 3,143
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -16157,8 +14397,6 @@ Por la modificación o actualización de la licencia sanitaria señalada en esta
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 IV.- Por cada solicitud y, en su caso,
 
 expedición de licencia sanitaria de
@@ -16167,7 +14405,7 @@ establecimientos de atención médica
 
 donde se practiquen actos quirúrgicos
 
-u obstétricos, por cada uno: $16,927.36 $16,927
+u obstétricos, por cada uno: $ 18,366.19 $ 18,366
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -16176,6 +14414,8 @@ Por la modificación o actualización de la licencia sanitaria señalada en esta
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -16193,15 +14433,9 @@ ajuste ajuste
 
 I.- Por la solicitud y, en su caso, el registro de Medicamentos Alopáticos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). Medicamento genérico $ 67,562.45 $ 67,562
 
-a). Medicamento genérico $62,269.54 $62,270
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b). Medicamento molécula nueva $111,341.30 $111,341
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b). Medicamento molécula nueva $ 120,805.31 $ 120,805
 
 II.- Por la solicitud y, en su caso,
 
@@ -16213,21 +14447,15 @@ vitamínicos, se pagará por cada
 
 uno el derecho conforme a la
 
-cuota de $14,807.25 $14,807
+cuota de $ 16,065.87 $ 16,066
 
 III.- Por la solicitud y, en su caso, el registro de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, productos higiénicos e insumos de uso odontológico que no sean medicamentos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). Clase I $ 10,041.17 $ 10,041
 
-a). Clase I $9,254.53 $9,255
+b). Clase II $ 14,727.04 $ 14,727
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b). Clase II $13,573.31 $13,573
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c). Clase III $17,275.12 $17,275
+c). Clase III $ 18,743.51 $ 18,744
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -16235,31 +14463,17 @@ c). Clase III $17,275.12 $17,275
 
 IV.- Por la solicitud y, en su caso, el registro de plaguicidas, según la categoría toxicológica que le corresponda, y nutrientes vegetales, se pagará el derecho de registro por cada producto, conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). Categoría toxicológica 1 $ 67,069.95 $ 67,070
 
-a). Categoría toxicológica 1 $61,815.62 $61,816
+b). Categoría toxicológica 2 $ 55,891.62 $ 55,892
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+c). Categoría toxicológica 3 $ 39,282.06 $ 39,282
 
-b). Categoría toxicológica 2 $51,513.01 $51,513
+d). Categoría toxicológica 4 $ 28,318.42 $ 28,318
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+e). Categoría toxicológica 5….. $ 18,278.77 $ 18,279
 
-c). Categoría toxicológica 3 $36,204.66 $36,205
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-d). Categoría toxicológica 4 $26,099.93 $26,100
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-e). Categoría toxicológica 5….. $16,846.79 $16,847
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-f). Nutrientes vegetales $5,351.01 $5,351
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+f). Nutrientes vegetales $ 5,805.85 $ 5,806
 
 V.- Por la solicitud y, en su caso,
 
@@ -16267,9 +14481,7 @@ el registro de cada producto que
 
 contenga sustancias tóxicas de alto
 
-y mediano riesgo para la salud $6,802.06 $6,802
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y mediano riesgo para la salud $ 7,380.24 $ 7,380
 
 VI.- Por la solicitud y, en su caso,
 
@@ -16277,7 +14489,7 @@ el registro de cada producto que
 
 contenga sustancias tóxicas de
 
-bajo riesgo para la salud $1,360.06 $1,360
+bajo riesgo para la salud $ 1,475.67 $ 1,476
 
 Por las modificaciones de la razón o denominación social o de propietario, de los registros señalados en las fracciones anteriores de este artículo, se pagará el 50% del derecho de registro que corresponda.
 
@@ -16291,35 +14503,19 @@ Por otras modificaciones, renovación o prórroga que se soliciten a los registr
 
 VII. Por la solicitud y, en su caso, el otorgamiento de cada permiso para la importación de plaguicidas, según la categoría toxicológica que le corresponda, y de nutrientes vegetales y de sustancias tóxicas, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). Categoría toxicológica 1 $ 25,151.23 $ 25,151
 
-a). Categoría toxicológica 1 $23,180.86 $23,181
+b). Categoría toxicológica 2 $ 12,774.59 $ 12,775
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+c). Categoría toxicológica 3 $ 5,499.49 $ 5,499
 
-b). Categoría toxicológica 2 $11,773.82 $11,774
+d). Categoría toxicológica 4 $ 2,123.88 $ 2,124
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+e). Categoría toxicológica 5….. $ 1,404.09 $ 1,404
 
-c). Categoría toxicológica 3 $5,068.65 $5,069
+f). Nutrientes vegetales $ 3,475.95 $ 3,476
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-d). Categoría toxicológica 4 $1,957.49 $1,957
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-e). Categoría toxicológica 5….. $1,294.09 $1,294
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-f). Nutrientes vegetales $3,203.64 $3,204
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-g). Sustancias tóxicas $3,182.81 $3,183
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+g). Sustancias tóxicas $ 3,453.35 $ 3,453
 
 VIII.- Por la solicitud y, en su caso,
 
@@ -16327,13 +14523,11 @@ expedición de la licencia sanitaria de
 
 Bancos de Sangre, se pagará el derecho
 
-conforme a la cuota de $9,615.75 $9,616
+conforme a la cuota de $ 10,433.09 $ 10,433
 
 Por la modificación a la licencia sanitaria de bancos de sangre se pagará el 75% del derecho que corresponda.
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 IX.- Por cada solicitud y, en su caso,
 
@@ -16343,7 +14537,7 @@ importación para suplementos
 
 alimenticios, se pagará el derecho
 
-conforme a la cuota de: $3,949.34 $3,949
+conforme a la cuota de: $ 4,285.03 $ 4,285
 
 Por las modificaciones o prórrogas que se soliciten a los permisos señalados en esta fracción, se pagará el 75% del derecho que corresponda.
 
@@ -16351,21 +14545,15 @@ Por las modificaciones o prórrogas que se soliciten a los permisos señalados e
 
 X.- Por la solicitud y, en su caso, expedición de la licencia sanitaria para:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a). Establecimientos con disposición
 
-de órganos, tejidos y células $9,233.10 $9,233
+de órganos, tejidos y células $ 10,017.91 $ 10,018
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b). Bancos de órganos, tejidos y células $9,233.10 $9,233
+b). Bancos de órganos, tejidos y células $ 10,017.91 $ 10,018
 
 Por la modificación a la licencia sanitaria a que se refiere esta fracción, se pagará el 75% de la cuota del derecho que corresponda conforme a los incisos anteriores.
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 XI.- Por cada solicitud y, en su caso,
 
@@ -16379,13 +14567,11 @@ modificación a la apariencia física
 
 mediante tatuajes, perforación o
 
-micropigmentación $4,231.84 $4,232
+micropigmentación $ 4,591.55 $ 4,592
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 Por la modificación o prórrogas de la tarjeta de control sanitario señalados en esta fracción, se pagará el 75% de la cuota del derecho que corresponda.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 XII.- Por cada solicitud y, en su caso,
 
@@ -16403,9 +14589,7 @@ de alimentos para consumo humano
 
 o que se destinen a una finalidad de
 
-salud pública o a la biorremediación. $192,356.28 $192,356
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+salud pública o a la biorremediación. $ 208,706.56 $ 208,707
 
 XIII.- Por la expedición de cada
 
@@ -16417,13 +14601,17 @@ derecho de certificados, para libre
 
 venta o para exportación conforme
 
-a la cuota de $2,388.06 $2,388
+a la cuota de $ 2,591.05 $ 2,591
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 #### SECCION SEPTIMA. Impacto Ambiental
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 195-B.
 
@@ -16432,6 +14620,8 @@ a la cuota de $2,388.06 $2,388
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 #### SECCION OCTAVA. Servicios Forestales
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -16442,8 +14632,6 @@ Por los servicios de verificación o fomento sanitario, para evaluar o supervisa
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- Por cada solicitud de visita de
 
@@ -16469,15 +14657,31 @@ intervengan en su elaboración,
 
 por tipo de producto, se pagará la
 
-cuota de $2,027.46 $2,027
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+cuota de $ 2,199.79 $ 2,200
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-II.- Por el análisis de la solicitud y, en su caso, por la autorización a personas físicas y morales como Unidades de Verificación, Laboratorios de Pruebas, Organismos de Certificación o terceros autorizados, se pagarán derechos por cada solicitud, y por cada autorización emitida, conforme a la cuota de $6,943.88 $6,944
+II.- Por el análisis de la solicitud
+
+y, en su caso, por la autorización
+
+a personas físicas y morales
+
+como Unidades de Verificación,
+
+Laboratorios de Pruebas,
+
+Organismos de Certificación o
+
+terceros autorizados, se
+
+pagarán derechos por cada
+
+solicitud, y por cada autorización
+
+emitida, conforme a la cuota de $ 7,534.11 $ 7,534
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -16491,15 +14695,13 @@ Quedan exceptuados del pago del derecho establecido en esta fracción, las insti
 
 III.- Por cada solicitud de visita de verificación para estupefacientes o psicotrópicos por:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- Constatación de destrucción $2,050.89 $2,051
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Constatación de destrucción $ 2,225.22 $ 2,225
 
 b).- Enfajillamiento, sello y lacre
 
-con fines de exportación $2,050.89 $2,051
+con fines de exportación $ 2,225.22 $ 2,225
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -16513,31 +14715,19 @@ ajuste ajuste
 
 I.- Estudios sanitarios de carácter interdisciplinarios que requieren de la intervención de servicios de salud del tercer nivel.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- De alto riesgo sanitario $ 7,471.80 $ 7,472
 
-a).- De alto riesgo sanitario $6,886.45 $6,886
+b).- De riesgo medio sanitario $ 4,981.12 $ 4,981
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De riesgo medio sanitario $4,590.89 $4,591
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- De riesgo bajo sanitario $2,295.24 $2,295
+c).- De riesgo bajo sanitario $ 2,490.34 $ 2,490
 
 II.- Estudios sanitarios interdisciplinarios que requieran de la intervención de servicios de salud del segundo o primer nivel.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- De alto riesgo sanitario $ 1,494.08 $ 1,494
 
-a).- De alto riesgo sanitario $1,377.03 $1,377
+b).- De riesgo medio sanitario $ 1,244.87 $ 1,245
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De riesgo medio sanitario $1,147.35 $1,147
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- De riesgo bajo sanitario $917.86 $918
+c).- De riesgo bajo sanitario $ 995.88 $ 996
 
 ###### ARTICULO 195-D
 
@@ -16546,6 +14736,8 @@ c).- De riesgo bajo sanitario $917.86 $918
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 #### SECCION NOVENA. Prevención y Control de la Contaminación
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 (REUBICADO Y REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
@@ -16557,47 +14749,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Libre venta para exportación de
 
-insumos para la salud $1,663.19 $1,663
+insumos para la salud $ 1,804.56 $ 1,805
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 III.- De transportes, de riesgo alto
 
 o medio, directo o indirecto, para
 
-la salud humana $1,836.16 $1,836
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+la salud humana $ 1,992.23 $ 1,992
 
 IV.- De transportes de riesgo bajo,
 
 directo o indirecto, para la salud
 
-humana $917.86 $918
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+humana $ 995.88 $ 996
 
 V.- Sobre pozos de agua para
 
 abastecimiento privado, para
 
-determinar su calidad sanitaria $4,878.73 $4,879
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+determinar su calidad sanitaria $ 5,293.42 $ 5,293
 
 VI.- Sobre la calidad sanitaria
 
 fisicoquímica y bactereológica del
 
-agua de uso y consumo humano $2,295.24 $2,295
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+agua de uso y consumo humano $ 2,490.34 $ 2,490
 
 VII.- Sobre las condiciones sanitarias
 
@@ -16609,29 +14789,27 @@ consumo humano o industrial, que
 
 utilicen como fuente de abastecimiento
 
-los pozos de carácter privado $6,886.45 $6,886
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+los pozos de carácter privado $ 7,471.80 $ 7,472
 
 VIII.- Equipos e instalaciones para el
 
 proceso del agua para uso y consumo
 
-humano e industrial $4,590.89 $4,591
+humano e industrial $ 4,981.12 $ 4,981
 
 IX.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 X.- Por cada certificado de buenas
 
 prácticas de fabricación o de
 
-manufactura de insumos para la salud $1,561.50 $1,561
+manufactura de insumos para la salud $ 1,694.23 $ 1,694
 
 ###### ARTICULO 195-F.
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -16647,13 +14825,9 @@ ajuste ajuste
 
 I.- De alimentos, bebidas, tabaco, productos de aseo, limpieza, perfumería y belleza, así como por las materias primas y aditivos que intervengan en su elaboración:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Por cada solicitud de permiso
 
-de importación $3,949.34 $3,949
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de importación $ 4,285.03 $ 4,285
 
 b).- Por cada solicitud de prórroga,
 
@@ -16663,17 +14837,13 @@ modificación relacionada con el
 
 permiso sanitario previo de
 
-importación $739.14 $739
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+importación $ 801.97 $ 802
 
 c).- Por el muestreo de los productos
 
 señalados en el permiso sanitario
 
-previo de importación $1,754.23 $1,754
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+previo de importación $ 1,903.34 $ 1,903
 
 d).- Por cualquier otra modalidad
 
@@ -16681,7 +14851,7 @@ relacionada con la autorización
 
 sanitaria previa de importación
 
-no especificada $263.51 $264
+no especificada $ 285.91 $ 286
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -16689,73 +14859,57 @@ no especificada $263.51 $264
 
 II.- De materias primas y productos terminados de medicamentos que no sean o contengan estupefacientes o psicotrópicos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Por cada solicitud del
 
 permiso sanitario de
 
-importación de materia prima $4,094.54 $4,095
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+importación de materia prima $ 4,442.58 $ 4,443
 
 b).- Por cada solicitud del
 
 permiso sanitario de
 
-importación de producto terminado $4,094.54 $4,095
+importación de producto terminado $ 4,442.58 $ 4,443
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 c).- (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 d).- Por la modificación, corrección
 
 o prórroga en el permiso sanitario de
 
-importación $247.07 $247
+importación $ 268.07 $ 268
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- De materias primas y productos terminados de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, y productos higiénicos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Por cada solicitud del permiso
 
 sanitario de importación en materia
 
-prima $1,748.21 $1,748
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+prima $ 1,896.81 $ 1,897
 
 b).- Por cada solicitud del permiso
 
 sanitario de importación de producto
 
-terminado $1,748.21 $1,748
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+terminado $ 1,896.81 $ 1,897
 
 c).- Por cada solicitud del permiso
 
-sanitario de importación para donación $247.07 $247
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+sanitario de importación para donación $ 268.07 $ 268
 
 d).- Por la modificación, corrección
 
 o prórroga en el permiso sanitario de
 
-importación $247.07 $247
+importación $ 268.07 $ 268
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 IV.- Por cada solicitud del permiso sanitario previo de exportación de insumos para la salud:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 a).- De materia prima y producto
 
@@ -16763,19 +14917,17 @@ terminado de medicamentos que
 
 sean o contengan estupefacientes
 
-o sustancias psicotrópicas $1,748.21 $1,748
+o sustancias psicotrópicas $ 1,896.81 $ 1,897
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 b).- (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 c).- Por la modificación, corrección
 
 o prórroga en el permiso sanitario
 
-previo de exportación $247.07 $247
+previo de exportación $ 268.07 $ 268
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -16783,37 +14935,31 @@ previo de exportación $247.07 $247
 
 V.- De materias primas y productos terminados de medicamentos que sean o contengan estupefacientes o psicotrópicos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a). Por cada solicitud del permiso
 
 sanitario de importación de
 
-materia prima $7,975.35 $7,975
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+materia prima $ 8,653.25 $ 8,653
 
 b). Por cada solicitud del permiso
 
 sanitario de importación de
 
-producto terminado $7,975.35 $7,975
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+producto terminado $ 8,653.25 $ 8,653
 
 c). Por cada solicitud del
 
 permiso sanitario de
 
-importación para uso personal $224.18 $224
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+importación para uso personal $ 243.24 $ 243
 
 d). Por la modificación o
 
 prórroga en el permiso
 
-sanitario de importación $224.18 $224
+sanitario de importación $ 243.24 $ 243
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -16825,8 +14971,6 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por cada uno de los trámites de
 
 solicitud de certificado con o sin
@@ -16835,9 +14979,7 @@ análisis de laboratorio, así como por
 
 cualquier otra modalidad relacionada
 
-y no especificada $844.30 $844
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y no especificada $ 916.07 $ 916
 
 II.- En caso de certificados que
 
@@ -16845,17 +14987,17 @@ requieran de muestreo para análisis
 
 de laboratorio se pagará
 
-adicionalmente $1,370.93 $1,371
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+adicionalmente $ 1,487.46 $ 1,487
 
 III.- Por la corrección o modificación
 
 de un certificado expedido y que se
 
-encuentre vigente $633.17 $633
+encuentre vigente $ 686.99 $ 687
 
 No se pagará el derecho por los servicios previstos en la fracción II, cuando el análisis de los productos se realice en un laboratorio privado, y que hubiera sido aprobado por la Secretaría de Salud.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -16869,8 +15011,6 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por los servicios de trámite de
 
 solicitudes de los permisos sanitarios
@@ -16883,9 +15023,7 @@ fármacos o medicamentos que
 
 contengan estupefacientes o
 
-psicotrópicos $1,556.97 $1,557
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+psicotrópicos $ 1,689.31 $ 1,689
 
 II.- Por la solicitud de liberación
 
@@ -16901,7 +15039,7 @@ biotecnológicos, hemoderivados
 
 o antibióticos, se pagará por
 
-cada solicitud de liberación $1,579.56 $1,580
+cada solicitud de liberación $ 1,713.82 $ 1,714
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
@@ -16911,21 +15049,15 @@ III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
 IV.- Por los servicios de reposición de licencias sanitarias y registros sanitarios, con motivo de pérdida, robo o extravío, se pagará conforme a las siguientes cuotas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Por la reposición de cada
 
-licencia sanitaria $602.31 $602
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+licencia sanitaria $ 653.51 $ 654
 
 b).- Por la reposición de cada
 
-registro sanitario $1,204.61 $1,205
+registro sanitario $ 1,307.00 $ 1,307
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 VI.- Por el servicio de trámite de
 
@@ -16941,9 +15073,7 @@ sanitario, se pagará por cada
 
 solicitud de protocolo de
 
-investigación $4,597.11 $4,597
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+investigación $ 4,987.86 $ 4,988
 
 VII.- Por cada solicitud de
 
@@ -16951,13 +15081,15 @@ autorización de la clave
 
 alfanumérica de remedios
 
-herbolarios, se pagará $3,512.98 $3,513
+herbolarios, se pagará $ 3,811.58 $ 3,812
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 Por las modificaciones solicitadas a las autorizaciones señaladas en las fracciones VI y VII de este artículo se pagará el 75% del derecho que corresponda.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -16969,21 +15101,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I.- Por la expedición $6,675.14 $6,675
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Por la expedición $ 7,242.53 $ 7,243
 
 II.- Por la corrección del certificado
 
-sanitario $274.14 $274
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+sanitario $ 297.44 $ 297
 
 III.- Por cualquier otra modalidad
 
-no especificada $274.14 $274
+no especificada $ 297.44 $ 297
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -16995,13 +15123,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- De cesión de derechos de autorizaciones
 
-sanitarias entre personas físicas $112.98 $113
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+sanitarias entre personas físicas $ 122.58 $ 123
 
 II.- De cesión de derechos de
 
@@ -17009,9 +15133,11 @@ autorizaciones sanitarias entre
 
 personas morales o entre personas
 
-físicas y morales $566.47 $566
+físicas y morales $ 614.62 $ 615
 
 III.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -17023,21 +15149,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I.- Por dictamen provisional $3,559.95 $3,560
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Por dictamen provisional $ 3,862.55 $ 3,863
 
 II.- Por dictamen definitivo, incluida
 
-la visita de inspección y vigilancia $16,020.77 $16,021
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+la visita de inspección y vigilancia $ 17,382.54 $ 17,383
 
 III.- Por dictamen anual, incluida la
 
-visita de inspección y vigilancia $10,679.95 $10,680
+visita de inspección y vigilancia $ 11,587.75 $ 11,588
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -17049,15 +15171,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por cada solicitud y, en su caso,
 
 la expedición de licencia sanitaria
 
-de Servicios de Transfusión $831.31 $831
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de Servicios de Transfusión $ 901.97 $ 902
 
 II.- Por la solicitud de permiso de
 
@@ -17065,31 +15183,25 @@ internación o salida de unidades de
 
 sangre, componentes y células
 
-progenitoras hematopoyéticas $504.44 $504
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+progenitoras hematopoyéticas $ 547.32 $ 547
 
 III.- Por la solicitud de autorización de
 
 ingresos de sangre y
 
-hemocomponentes $639.96 $640
+hemocomponentes $ 694.36 $ 694
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 Por la modificación a la licencia o permiso indicado en las fracciones de este artículo, se pagarán el 75% del derecho que corresponda.
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 195-K
 
-3.- Por el dictamen
+3.- Por el dictamen cuota sin cuota con
 
-sanitario de efectividad bacteriológica
+sanitario de efectividad bacteriológica ajuste ajuste
 
 de equipos o sustancias germicidas
 
@@ -17097,9 +15209,9 @@ para potabilización de agua tipo
 
 doméstico, se pagarán derechos
 
-conforme a la cuota de $3,764.47 $3,764
+conforme a la cuota de $ 4,084.45 $ 4,084
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -17107,19 +15219,15 @@ conforme a la cuota de $3,764.47 $3,764
 
 ###### ARTICULO 195-K
 
-4.- Por cada certificado que se emita al amparo del Programa Mexicano de Sanidad de Moluscos Bivalvos, distintos a los señalados en este Capítulo, se pagarán derechos conforme a la cuota de $1,600.00
+4.- Por cada certificado que se emita al amparo del Programa Mexicano de Sanidad de Moluscos Bivalvos, distintos a los señalados en este Capítulo, se pagarán derechos conforme a la cuota de $1,666.56 $1,667
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 195-K
 
-5.- Por la acreditación
+5.- Por la acreditación cuota sin cuota con
 
-de laboratorio de bacteriología y
+de laboratorio de bacteriología y ajuste ajuste
 
 biotoxinas marinas en apoyo al
 
@@ -17127,7 +15235,7 @@ Programa Mexicano de Sanidad de
 
 Moluscos Bivalvos, se pagarán derechos
 
-conforme a la cuota de $10,856.71 $10,857
+conforme a la cuota de $ 11,779.53 $ 11,780
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -17135,21 +15243,19 @@ conforme a la cuota de $10,856.71 $10,857
 
 6.- (DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 195-K
 
-7.- Por el certificado
+7.- Por el certificado cuota sin cuota con
 
-de cumplimiento a la Norma Oficial
+de cumplimiento a la Norma Oficial ajuste ajuste
 
 Mexicana, se pagarán derechos
 
-conforme a la cuota de $2,434.84 $2,435
+conforme a la cuota de $ 2,641.80 $ 2,642
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -17161,15 +15267,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la licencia sanitaria para
 
 servicios urbanos de fumigación y
 
-control de plagas $3,952.68 $3,953
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+control de plagas $ 4,288.66 $ 4,289
 
 II.- Por la licencia sanitaria para
 
@@ -17177,9 +15279,7 @@ establecimientos que fabrican
 
 sustancias tóxicas o peligrosas
 
-para la salud $11,624.66 $11,625
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+para la salud $ 12,612.76 $ 12,613
 
 III.- Por la licencia sanitaria para
 
@@ -17189,19 +15289,21 @@ formulan, mezclan o envasan
 
 plaguicidas y nutrientes
 
-vegetales $18,521.18 $18,521
+vegetales $ 20,095.48 $ 20,095
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 195-K
 
-9.- Por la solicitud y, en su caso, expedición de licencia sanitaria para establecimientos que utilicen fuentes de radiación para fines médicos o de diagnóstico, se pagarán derechos conforme a la cuota de…..$5,315.42 $5,315
+9.- Por la solicitud y, en su caso, expedición de licencia sanitaria para establecimientos que utilicen fuentes de radiación para fines médicos o de diagnóstico, se pagarán derechos conforme a la cuota de $ 5,767.23 $ 5,767
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 Por la solicitud de modificación a las condiciones de la licencia sanitaria señalada en este artículo se pagará el 75% del derecho que corresponda.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -17215,13 +15317,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Por la expedición $2,458.84 $2,459
 
-I.- Por la expedición $2,266.21 $2,266
+II.- Por la modificación $1,347.85 $1,348
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II.- Por la modificación $1,242.26 $1,242
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -17233,25 +15333,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Por la expedición $10,684.92 $10,685
 
-I.- Por la expedición $9,847.85 $9,848
+II.- Por la modificación $8,699.87 $8,700
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II.- Por la modificación $8,018.31 $8,018
-
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 195-K
 
-12.- Por la expedición
+12.- Por la expedición cuota sin cuota con
 
-del permiso para realizar modificaciones
+del permiso para realizar modificaciones ajuste ajuste
 
 a las instalaciones y establecimientos que
 
@@ -17261,7 +15353,7 @@ determinadas como de alto riesgo, se
 
 pagarán derechos conforme a la cuota
 
-de $3,606.34 $3,606
+de $3,912.88 $3,913
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -17278,6 +15370,8 @@ II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, p
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION DECIMA. De la Inspección y Vigilancia
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -17333,6 +15427,8 @@ II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, p
 
 #### SECCION PRIMERA. Autorizaciones en Materia Sanitaria
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(ADICIONADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 195-P.
@@ -17347,95 +15443,65 @@ ajuste ajuste
 
 I.- Por la inscripción de:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Establecimiento de alimentos
 
-y bebidas $736.53 $737
+y bebidas $799.14 $799
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- Transportación turística $864.95 $865
 
-b).- Transportación turística $797.19 $797
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- Agencias de viajes $589.15 $589
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+c).- Agencias de viajes $639.23 $639
 
 d).- Establecimiento de hospedaje,
 
 campamentos y paradores de casas
 
-rodantes $1,040.03 $1,040
+rodantes $1,128.43 $1,128
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+e).- Operadores de marinas turísticas $1,692.78 $1,693
 
-e).- Operadores de marinas turísticas $1,560.17 $1,560
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-f).- Guías de turistas $433.16 $433
+f).- Guías de turistas $469.98 $470
 
 g).- (DEROGADO D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 h).- Empresas de sistemas de intercambio
 
-de servicios turísticos $587.01 $587
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de servicios turísticos $636.91 $637
 
 i).- Operadoras turísticas de
 
-buceo $433.33 $433
+buceo $470.16 $470
 
 II.- Por la reposición de comprobantes de inscripción:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Establecimientos de alimentos
 
-y bebidas $476.50 $476
+y bebidas $517.00 $517
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- Transportación turística $300.52 $301
 
-b).- Transportación turística $276.98 $277
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- Agencias de viajes $329.08 $329
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+c).- Agencias de viajes $357.05 $357
 
 d).- Establecimientos de hospedaje,
 
 campamentos y paradores de casas
 
-rodantes $779.83 $780
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+rodantes $846.12 $846
 
 e).- Operadores de marinas
 
-turísticas $866.63 $867
+turísticas $940.29 $940
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-f).- Guías de turistas $259.62 $260
+f).- Guías de turistas $281.69 $282
 
 g).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 h).- Empresas de sistemas de intercambio
 
-de servicios turísticos $329.08 $329
+de servicios turísticos $357.05 $357
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+i).- Operadoras turísticas de buceo $279.57 $280
 
-i).- Operadoras turísticas de buceo $257.67 $258
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -17447,47 +15513,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Establecimientos de alimentos
 
-y bebidas $736.53 $737
+y bebidas $799.14 $799
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+II.- Transportación turística $864.95 $865
 
-II.- Transportación turística $797.19 $797
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III.- Agencias de viajes $594.10 $594
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III.- Agencias de viajes $644.60 $645
 
 IV.- Establecimientos de hospedaje,
 
 campamentos y paradores de
 
-casas rodantes $1,040.03 $1,040
+casas rodantes $1,128.43 $1,128
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+V.- Operadores de marinas turísticas $1,881.00 $1,881
 
-V.- Operadores de marinas turísticas $1,733.64 $1,734
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-VI.- Guías de turistas $433.16 $433
+VI.- Guías de turistas $469.98 $470
 
 VII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 VIII.- Empresas de sistemas de
 
-intercambio de servicios turísticos $592.45 $592
+intercambio de servicios turísticos $642.81 $643
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IX.- Operadoras turísticas de buceo $433.33 $433
+IX.- Operadoras turísticas de buceo $470.16 $470
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -17513,6 +15563,8 @@ En aquellos casos en que las entidades federativas hayan celebrado Convenio de C
 
 #### SECCION TERCERA. Fomento y Análisis Sanitario
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 195-T.
@@ -17525,55 +15577,41 @@ ajuste ajuste
 
 A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Para la fabricación de armas de fuego,
 
 cartuchos, cartuchos de fuego central,
 
 armas deportivas o municiones esféricas
 
-de plomo $6,334.08 $6,334
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de plomo $6,872.48 $6,872
 
 II.- Para la fabricación, importación
 
-y exportación de partes de escopeta $6,334.08 $6,334
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y exportación de partes de escopeta $6,872.48 $6,872
 
 III.- Para la compra y consumo de
 
 cartuchos industriales, de salva o
 
-deportivos $6,334.08 $6,334
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+deportivos $6,872.48 $6,872
 
 IV.- Para talleres dedicados a la
 
-reparación de armas de fuego o gas $6,238.04 $6,238
+reparación de armas de fuego o gas $6,768.27 $6,768
 
 B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- De importación o exportación de
 
 armas, cartuchos y elementos
 
-constitutivos $4,383.76 $4,384
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+constitutivos $4,756.38 $4,756
 
 II.- Para la compra de cartuchos
 
 deportivos a los expendios
 
-autorizados $678.11 $678
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+autorizados $735.75 $736
 
 III.- Por la ampliación de vigencia
 
@@ -17581,15 +15619,13 @@ de un permiso ordinario de
 
 importación o exportación de armas
 
-y municiones $1,973.77 $1,974
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y municiones $2,141.54 $2,142
 
 IV.- Por la modificación de un permiso
 
 ordinario de importación o exportación
 
-de armas y municiones $2,074.11 $2,074
+de armas y municiones $2,250.41 $2,250
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -17597,19 +15633,13 @@ Para el caso de la modificación del permiso por cambio de destino, se pagará e
 
 C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Para la importación o exportación
 
-de armas y cartuchos $3,935.44 $3,935
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de armas y cartuchos $4,269.95 $4,270
 
 II.- Para la compra-venta, donación
 
-o permuta de armas o cartuchos $98.78 $99
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o permuta de armas o cartuchos $107.18 $107
 
 III.- Para la importación o exportación
 
@@ -17617,21 +15647,15 @@ temporal de armas de fuego y
 
 cartuchos, con fines cinegéticos
 
-o de tiro $793.37 $793
+o de tiro $860.81 $861
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 IV.- Para la transportación de armas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Hasta por tres armas $396.62 $397
 
-a).- Hasta por tres armas $365.55 $366
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por cada arma adicional $121.57 $122
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- Por cada arma adicional $131.90 $132
 
 V.- Por la ampliación de vigencia de
 
@@ -17639,15 +15663,13 @@ un permiso extraordinario de
 
 importación o exportación de armas
 
-y municiones $1,973.77 $1,974
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y municiones $2,141.54 $2,142
 
 VI.- Por la modificación de un permiso
 
 extraordinario de importación o
 
-exportación de armas y municiones $2,074.11 $2,074
+exportación de armas y municiones $2,250.41 $2,250
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -17655,13 +15677,9 @@ Para el caso de la modificación del permiso por cambio de destino, se pagará e
 
 D.- Por los servicios prestados a coleccionistas o museos de armas de fuego:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el permiso para coleccionista
 
-o museo de armas de fuego $3,172.79 $3,173
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o museo de armas de fuego $3,442.48 $3,442
 
 II.- Por la autorización para la adquisición
 
@@ -17671,71 +15689,47 @@ al enriquecimiento de una colección o
 
 de un museo, e inscripción en el mismo
 
-permiso $290.96 $291
+permiso $315.69 $316
 
 E.- Por el trámite de cada registro:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por el registro inicial para organizador
 
-cinegético o criador de fauna silvestre $7,993.35 $7,993
+cinegético o criador de fauna silvestre $8,672.78 $8,673
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- Por su revalidación $4,089.71 $4,090
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por su revalidación $4,437.34 $4,437
 
 II.- Anual para club o asociación de
 
-deportistas de tiro y cacería $5,914.92 $5,915
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+deportistas de tiro y cacería $6,417.69 $6,418
 
 III.- Por el registro de un arma
 
-de fuego $40.62 $41
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de fuego $44.07 $44
 
 IV.- Por la expedición de cada
 
-constancia de registro $125.00 $125
+constancia de registro $135.63 $136
 
 F.- Por la expedición o revalidación de cada licencia para la portación de arma de fuego:
 
 I.- Por la expedición de:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Licencia particular individual $2,078.00 $2,078
 
-a).- Licencia particular individual $1,915.21 $1,915
+b).- Licencia particular colectiva $32,291.27 $32,291
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Licencia particular colectiva $29,761.54 $29,762
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- Licencia oficial colectiva $16,158.57 $16,159
+c).- Licencia oficial colectiva $17,532.05 $17,532
 
 II.- Por la revalidación de:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Licencia particular individual $2,078.00 $2,078
 
-a).- Licencia particular individual $1,915.21 $1,915
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Licencia particular colectiva $29,761.54 $29,762
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- Licencia particular colectiva $32,291.27 $32,291
 
 III.- Por la modificación de licencia
 
-particular colectiva u oficial colectiva $2,252.94 $2,253
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+particular colectiva u oficial colectiva $2,444.44 $2,444
 
 IV.- Por baja de armamento de las
 
@@ -17743,19 +15737,19 @@ licencias oficiales colectivas y
 
 particulares colectivas, por robo,
 
-extravío o destrucción $4,518.17 $4,518
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+extravío o destrucción $4,902.21 $4,902
 
 V.- Por baja de personal de las
 
 licencias oficiales colectivas y
 
-particulares colectivas $4,135.79 $4,136
+particulares colectivas $4,487.33 $4,487
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 Cuando se paguen los derechos a que se refieren las fracciones IV o V de este Apartado, no se estará obligado al pago del derecho establecido en la fracción III del mismo.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -17769,15 +15763,11 @@ ajuste ajuste
 
 A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Para la compra, almacenamiento y
 
 consumo o compra-consumo de
 
-materiales explosivos $11,713.58 $11,714
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+materiales explosivos $12,709.23 $12,709
 
 II.- Para la fabricación de explosivos
 
@@ -17787,9 +15777,7 @@ con éstos, así como para la adquisición
 
 y almacenamiento de materia prima
 
-y productos terminados $11,713.58 $11,714
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y productos terminados $12,709.23 $12,709
 
 III.- Para la compra-venta, compra-consumo
 
@@ -17797,9 +15785,7 @@ o almacenamiento de explosivos o
 
 sustancias químicas relacionadas
 
-con éstos $11,943.51 $11,944
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+con éstos $12,958.71 $12,959
 
 IV.- Para la compra, almacenamiento
 
@@ -17807,9 +15793,7 @@ y consumo de sustancias químicas en
 
 la fabricación y venta de artificios
 
-pirotécnicos $1,696.96 $1,697
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+pirotécnicos $1,841.20 $1,841
 
 V.- Por intervenciones para importación
 
@@ -17817,9 +15801,7 @@ o exportación de armas, municiones,
 
 explosivos y sustancias químicas, a
 
-partir de la segunda intervención $271.74 $272
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+partir de la segunda intervención $294.84 $295
 
 Por la inspección para el reinicio de
 
@@ -17829,39 +15811,29 @@ suspendido a solicitud del interesado,
 
 se pagará el derecho conforme a la
 
-cuota de $3,522.11 $3,522
+cuota de $3,821.49 $3,821
 
 B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Para la compra de material explosivo
 
-o sustancias químicas $1,030.34 $1,030
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o sustancias químicas $1,117.92 $1,118
 
 II.- De importación o exportación de
 
 explosivos o sustancias químicas
 
-relacionadas con éstos $3,999.50 $3,999
+relacionadas con éstos $4,339.46 $4,339
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-a).- Por su modificación $3,999.50 $3,999
+a).- Por su modificación $4,339.46 $4,339
 
 C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- Para la compra-consumo, importación
 
 o exportación de material explosivo o
 
-sustancias químicas $11,713.58 $11,714
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+sustancias químicas $12,709.23 $12,709
 
 II.- Por la modificación a un permiso
 
@@ -17869,13 +15841,13 @@ extraordinario de importación o
 
 exportación de explosivos o sustancias
 
-químicas relacionados con éstos $3,999.50 $3,999
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+químicas relacionados con éstos $4,339.46 $4,339
 
 III.- Para la compra-venta de artificios
 
-Pirotécnicos $1,030.34 $1,030
+Pirotécnicos $1,117.92 $1,118
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -17887,8 +15859,6 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la expedición de cada permiso
 
 general para el transporte especializado
@@ -17897,25 +15867,19 @@ de explosivos, sustancias químicas
 
 relacionadas con éstos, artificios,
 
-armamento o municiones $11,896.97 $11,897
+armamento o municiones $12,908.21 $12,908
 
 II.- Por el trámite de autorización:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 a).- De libros de compras y ventas
 
 a personas físicas o morales con
 
-permiso general $154.13 $154
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+permiso general $167.23 $167
 
 b).- Para cambio de razón social a
 
-un permiso general $1,775.47 $1,775
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+un permiso general $1,926.38 $1,926
 
 III.- Por la autorización para modificar
 
@@ -17925,11 +15889,13 @@ sus condiciones, por ubicación, técnica
 
 de trabajo u otro motivo que no afecte
 
-la clase de producción permitida $11,795.05 $11,795
+la clase de producción permitida $12,797.63 $12,798
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION CUARTA. Otros Servicios
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -17941,27 +15907,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I.- Por el permiso para salir del país $168.70 $169
+I.- Por el permiso para salir del país $183.04 $183
 
 II.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 III.- Por corrección de los datos base
 
-de la cartilla $168.70 $169
+de la cartilla $183.04 $183
 
 IV.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 V.- Por expedición de duplicado
 
-de cartilla $168.70 $169
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de cartilla $183.04 $183
 
 VI.- Por la elaboración de oficios,
 
@@ -17969,7 +15927,7 @@ cuando siendo mayor de 40 años
 
 no obtuvo la cartilla del Servicio
 
-Militar Nacional $331.71 $332
+Militar Nacional $359.91 $360
 
 > <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -17991,15 +15949,11 @@ ajuste ajuste
 
 I.- Por el estudio y trámite de la solicitud para la autorización o para su revalidación:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 a).- Para prestar servicios de
 
-seguridad privada en los bienes $14,554.66 $14,555
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+seguridad privada en los bienes $15,791.81 $15,792
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -18007,17 +15961,13 @@ b).- Para prestar los servicios de
 
 seguridad privada en el traslado
 
-de bienes o valores $13,316.87 $13,317
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de bienes o valores $15,533.80 $15,534
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 c).- Para prestar los servicios
 
-de seguridad privada a personas $14,554.66 $14,555
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de seguridad privada a personas $15,791.81 $15,792
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -18025,9 +15975,7 @@ d).- Para prestar los servicios
 
 de sistemas de prevención y
 
-responsabilidades $13,559.38 $13,559
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+responsabilidades $14,711.93 $14,712
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -18037,31 +15985,27 @@ seguridad de la información y por
 
 cualquier actividad vinculada
 
-con los servicios de seguridad privada $13,559.38 $13,559
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+con los servicios de seguridad privada $14,711.93 $14,712
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-f).- Para prestar servicios de alarmas y de monitoreo electrónico $14,047.54
+f).- Para prestar servicios de
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+alarmas y de monitoreo electrónico $14,631.92 14,632
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-g).- Para fungir como centro de capacitación privado $14,047.54
+g).- Para fungir como centro
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de capacitación privado $14,631.92 14,632
 
 II.- Por la expedición de la autorización
 
-o de su revalidación $4,366.90 $4,367
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o de su revalidación $4,738.09 $4,738
 
 III.- Por la inscripción de cada
 
@@ -18071,9 +16015,7 @@ que se refiere este artículo, en el
 
 Registro Nacional del Personal de
 
-Seguridad Público (sic) $145.91 $146
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Seguridad Público (sic) $158.31 $158
 
 IV.- Por la inscripción de cada arma de
 
@@ -18083,9 +16025,7 @@ físicas o morales a que se refiere este
 
 artículo, en el Registro Nacional de
 
-Empresas de Seguridad Privada $44.27 $44
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Empresas de Seguridad Privada $48.03 $48
 
 V.- Por la consulta de antecedentes
 
@@ -18099,9 +16039,7 @@ cuentan las instituciones que
 
 presten los servicios de seguridad
 
-privada, por cada integrante $43.44 $43
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+privada, por cada integrante $47.13 $47
 
 VI.- Por la modificación de la
 
@@ -18109,9 +16047,7 @@ autorización o, en su caso,
 
 de la revalidación, a que se
 
-refiere este artículo $2,564.18 $2,564
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+refiere este artículo $2,782.14 $2,782
 
 VII.- Por la expedición de cada
 
@@ -18119,31 +16055,23 @@ cédula de identificación del
 
 personal, con el registro asignado
 
-en su inscripción $41.23 $41
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+en su inscripción $44.73 $45
 
 VIII.- Por cambio de
 
-representante legal $6,489.93 $6,490
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+representante legal $7,041.57 $7,042
 
 IX.- Por cambio en la titularidad de
 
-las acciones o partes sociales $6,489.93 $6,490
+las acciones o partes sociales $7,041.57 $7,042
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 195-X
 
-1.- Por el estudio de
+1.- Por el estudio de cuota sin cuota con
 
-la solicitud y, en su caso, la
+la solicitud y, en su caso, la ajuste ajuste
 
 expedición o revalidación de cada
 
@@ -18153,19 +16081,15 @@ de armas de fuego a empleados
 
 federales, se pagarán derechos
 
-conforme a la siguiente cuota $380.62 $381
+conforme a la siguiente cuota $412.97 $413
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 195-X
 
-2.- Por el estudio de
+2.- Por el estudio de cuota sin cuota con
 
-la solicitud y la expedición de la
+la solicitud y la expedición de la ajuste ajuste
 
 opinión respectiva, sobre la justificación
 
@@ -18177,13 +16101,11 @@ el servicio de seguridad privada,
 
 porten armas de fuego, se pagarán
 
-derechos conforme a la cuota de $3,927.80 $3,928
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+derechos conforme a la cuota de $4,261.66 $4,262
 
 Por la modificación de la
 
-opinión respectiva $3,927.80 $3,928
+opinión respectiva $4,261.66 $4,262
 
 > <small>(ADICIONADO CON LA SECCION Y EL ARTICULO QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -18192,6 +16114,8 @@ opinión respectiva $3,927.80 $3,928
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 #### SECCION UNICA. Registro Nacional de Turismo
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -18219,6 +16143,8 @@ opinión respectiva $3,927.80 $3,928
 
 ### CAPITULO I. Bosques y Áreas Naturales Protegidas
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 ###### ARTICULO 196.
 
 Por el aprovechamiento de bosques nacionales en terrenos pertenecientes al Gobierno Federal, se pagarán derechos conforme a las siguientes cuotas:
@@ -18229,17 +16155,13 @@ ajuste ajuste
 
 I.- Por el aprovechamiento de la vegetación arbórea:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a) Maderas, por metro cúbico rollo fustal
 
 sin corteza autorizado de: caoba, cedro
 
 rojo, primavera, fresno, nogal, guayacán
 
-y otras especies similares $2,337.84 $2,338
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y otras especies similares $2,536.56 $2,537
 
 b) Maderas, por metro cúbico rollo
 
@@ -18249,25 +16171,19 @@ canshan, barí, jobo, chacáguanacastle,
 
 ceiba, bojón, cedrillo y especies
 
-similares $440.47 $440
+similares $477.91 $478
 
 c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
 d).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-e) Chicle, por tonelada autorizada $6,072.57 $6,073
+e) Chicle, por tonelada autorizada $6,588.74 $6,589
 
 II.- Por el aprovechamiento de la vegetación herbácea para pastoreo, por cabeza-mes.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a) De ganado mayor $15.95 $16
 
-a) De ganado mayor $14.70 $15
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b) De ganado menor $7.10 $7
+b) De ganado menor $7.70 $8
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -18279,23 +16195,19 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 El derecho sobre bosques se pagará previamente al aprovechamiento de bosques, en las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 197-A.
 
-Por la explotación
+Por la explotación cuota sin cuota con
 
-de la vegetación arbórea en los cauces
+de la vegetación arbórea en los cauces ajuste ajuste
 
 y zona federal de los ríos, se pagará el
 
 derecho de aprovechamiento forestal
 
-conforme a la cuota de $127.38 $123
+conforme a la cuota de $138.21
 
 por metro cúbico de rollo de árbol
 
@@ -18309,6 +16221,8 @@ El pago del derecho a que este artículo se refiere, se hará previamente al apr
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional Forestal para los programas de restauración forestal con especies nativas.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 198.
@@ -18318,8 +16232,6 @@ Por el uso o aprovechamiento de los elementos naturales marinos e insulares suje
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- Por persona, por día, por cada
 
@@ -18333,7 +16245,7 @@ capacidad de carga de
 
 conformidad con la siguiente
 
-lista: $55.92 $56
+lista: $60.67 $61
 
 - Parque Nacional Cabo Pulmo
 
@@ -18377,19 +16289,15 @@ lista: $55.92 $56
 
 - Reserva de la Biosfera Bahía de los Ángeles, canales de Ballenas y Salsipuedes
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 II.- Por las demás Áreas Naturales
 
 Protegidas no enlistadas en la
 
 fracción I, por persona, por día,
 
-por Área Natural Protegida: $27.96 $28
+por Área Natural Protegida: $30.34 $30
 
 No pagarán el derecho establecido en esta fracción, las personas que hayan pagado el derecho señalado en la fracción I de este artículo, siempre y cuando la visita se realice el mismo día.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 III.- Las personas podrán optar
 
@@ -18399,7 +16307,7 @@ refiere este artículo, por persona,
 
 por año, para todas las Áreas
 
-Naturales Protegidas: $290.77 $291
+Naturales Protegidas: $315.49 $315
 
 La obligación del pago de los derechos previstos en las fracciones I y II de este artículo, será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios náutico-recreativos o acuático-recreativos. En los casos en que las actividades a las que se refieren las fracciones de este artículo, se realicen sin la participación de los titulares mencionados, la obligación del pago será de cada individuo.
 
@@ -18419,6 +16327,8 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 En el caso de que para acceder a una determinada Área Natural Protegida que por sus características geográficas sea contigua con otra y solamente se pueda acceder a la misma transitando por la otra, únicamente se pagarán los derechos a los que hacen referencia las fracciones I y II, según sea el caso, por aquélla en la que usen o aprovechen los elementos naturales marinos e insulares de la misma, siempre y cuando sea en el mismo día y no se usen o aprovechen los elementos del Área Natural Protegida contigua.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 198-A.
@@ -18429,9 +16339,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I.- $55.92 $56
+I.- $60.67 $61
 
 por día, por persona,
 
@@ -18485,21 +16393,17 @@ con la siguiente lista:
 
 - Reserva de la Biosfera Calakmul
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 II.- Por las demás Áreas Naturales
 
 Protegidas terrestres no enlistadas
 
 en la fracción anterior, por persona,
 
-por día: $27.96 $28
+por día: $30.34 $30
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 No pagarán el derecho establecido en esta fracción las personas que hayan pagado el derecho señalado en la fracción I de este artículo, siempre y cuando la visita se realice el mismo día.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 III.- Se podrá optar por pagar el derecho
 
@@ -18507,7 +16411,7 @@ a que se refiere este artículo, por persona,
 
 por año, para todas las Áreas Naturales
 
-Protegidas a una cuota de: $290.77 $291
+Protegidas a una cuota de: $315.49 $315
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -18547,17 +16451,13 @@ En el supuesto de que para acceder a una determinada Área Natural Protegida que
 
 ### CAPITULO II. Pesca
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 199.
 
-Las personas
+Las personas cuota sin cuota con
 
-físicas y morales que al amparo
+físicas y morales que al amparo ajuste ajuste
 
 de permisos excepcionales,
 
@@ -18579,7 +16479,7 @@ o fracción del barco,
 
 por cada viaje hasta de 60
 
-días, conforme a la cuota de $2,460.94 $2,461
+días, conforme a la cuota de $2,670.12 $2,670
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -18592,6 +16492,8 @@ El pago del derecho a que se refiere este artículo se hará previamente a la ex
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Lo dispuesto en este artículo, no modificará los convenios o acuerdos celebrados en esta materia por México con otros países.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -18615,115 +16517,65 @@ REGISTRO DE LA
 
 EMBARCACIÓN
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- ABULÓN $754.73
 
-I.- ABULÓN $695.60
+II.- SARGAZO $100.87 $2,731.85
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III.- ALGAS MARINAS $4,642.65 $2,731.85
 
-II.- SARGAZO $92.97 $2,517.83
+IV.- ALMEJAS $634.66 $2,731.85
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+V.- ANCHOVETA $69.30
 
-III.- ALGAS MARINAS $4,278.94 $2,517.83
+VI.- CALAMAR $102.83
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IV.- ALMEJAS $584.94 $2,517.83
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-V.- ANCHOVETA $63.87
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-VI.- CALAMAR $94.77
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-VII.- CAMARÓN DE ALTAMAR $43.49
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+VII.- CAMARÓN DE ALTAMAR $47.19
 
 VIII.- CAMARÓN DE AGUAS
 
-PROTEGIDAS $90.07
+PROTEGIDAS $97.73
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+IX.- CANGREJO $81.92
 
-IX.- CANGREJO $75.50
+X.- CARACOL $344.08
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XI.- ERIZO $1,585.34
 
-X.- CARACOL $317.12
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XI.- ERIZO $1,461.14
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XII.- JAIBA $49.32
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XII.- JAIBA $53.51
 
 XIII.- ESPECIES MARINAS
 
-DE ESCAMA $63.87
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+DE ESCAMA $69.30
 
 XIV.- ESPECIES DE ESCAMA
 
-DE AGUA DULCE $31.83
+DE AGUA DULCE $34.54
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XV.- LANGOSTA $328.26
 
-XV.- LANGOSTA $302.54
+XVI.- LANGOSTINO $53.51
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XVII.- OSTIÓN $69.30
 
-XVI.- LANGOSTINO $49.32
+XVIII.- PICUDOS $59.81
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XIX.- PULPO $195.65 $265.14
 
-XVII.- OSTIÓN $63.87
+XX.- SARDINA $69.30
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XXI.- TIBURÓN $17.38
 
-XVIII.- PICUDOS $55.12
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XIX.- PULPO $180.32 $244.36
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XX.- SARDINA $63.87
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XXI.- TIBURÓN $16.02
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XXII.- TÚNIDOS $43.49
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+XXII.- TÚNIDOS $47.19
 
 XXIII.- OTRAS PESQUERÍAS
 
-MARINAS $58.06 $244.36
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+MARINAS $63.00 $265.14
 
 XXIV.- OTRAS PESQUERÍAS
 
-DE AGUA DULCE $31.83 $244.36
+DE AGUA DULCE $34.54 $265.14
 
 XXV.- Por la extracción de organismos adultos de especies de la fauna acuática del medio natural, para utilizarlos como pie de cría o reproductores, se pagará la cuota anual por tonelada neta de registro establecida para la especie de que se trate.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 XXVI.- Por la extracción de larvas
 
@@ -18733,7 +16585,7 @@ natural, para abastecer unidades
 
 de producción acuícola, se pagará
 
-la cuota de $669.32
+la cuota de $726.21
 
 por cada millón de organismos
 
@@ -18745,6 +16597,8 @@ Las cuotas anuales señaladas en las fracciones I a la XXIV deberán pagarse, po
 
 El pago se efectuará atendiendo a la vigencia y fecha de expedición de los permisos o concesiones de pesca comercial, los que se refieran a períodos menores a un año se cubrirán mediante cuotas por cada mes o fracción, dividiendo la cuota anual correspondiente a la especie de que se trate entre doce. El pago de cuotas correspondientes a años subsecuentes amparados por el permiso o concesión expedido se cubrirá dentro del mes de enero del ejercicio fiscal correspondiente.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 199-B.
@@ -18755,23 +16609,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Por un día $123.92 $124
 
-I.- Por un día $114.21 $114
+II.- Por una semana $310.64 $311
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III.- Por un mes $466.03 $466
 
-II.- Por una semana $286.30 $286
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III.- Por un mes $429.52 $430
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IV.- Por un año $572.85 $573
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+IV.- Por un año $621.54 $622
 
 V.- Para excursiones de pesca
 
@@ -18781,7 +16625,7 @@ extranjero, por cada integrante y
 
 por viaje de más de tres días y
 
-hasta por un año $814.91 $815
+hasta por un año $884.18 $884
 
 En este último caso, si son menores a tres días, se pagará la cuota señalada por día, multiplicada por el número de días de viaje.
 
@@ -18793,33 +16637,33 @@ Las Entidades Federativas que hayan celebrado convenio de colaboración administ
 
 ### CAPITULO III. Puerto y Atraque
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 200.
 
-Las personas físicas y morales que usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de altura que entre a los mismos, el derecho de puerto de altura conforme a la cuota de $5.78, por unidad de arqueo bruto o fracción.
+Las personas físicas y morales que usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de altura que entre a los mismos, el derecho de puerto de altura conforme a la cuota de $6.27, por unidad de arqueo bruto o fracción.
 
 Tratándose de embarcaciones que realicen tráfico mixto, se pagará el 90% de la cuota correspondiente al derecho de puerto de altura, por cada puerto o terminal de uso público fuera de puerto habilitado en que entren.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 200-A.
 
-Las personas físicas y morales cuyas embarcaciones entren a los puertos nacionales o a las terminales de uso público fuera de puerto habilitado pagarán, por cada embarcación de altura dedicada exclusivamente a actividades turísticas, el derecho de puerto de altura, conforme a la cuota de $2.56, por unidad de arqueo bruto o fracción.
+Las personas físicas y morales cuyas embarcaciones entren a los puertos nacionales o a las terminales de uso público fuera de puerto habilitado pagarán, por cada embarcación de altura dedicada exclusivamente a actividades turísticas, el derecho de puerto de altura, conforme a la cuota de $2.78, por unidad de arqueo bruto o fracción.
 
 Tratándose de las embarcaciones que realicen exclusivamente actividades turísticas y que en un viaje entren a diversos puertos nacionales, se pagará el 90% de la cuota a que se refiere el párrafo anterior, por cada uno de los puertos o terminales de uso público fuera de puerto habilitado, siguientes al primero.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011, MISMA QUE SEÑALA UNA CUOTA CON AJUSTE DE $2.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 201.
 
-Las personas físicas y morales cuyas embarcaciones usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de cabotaje que entre a los mismos, el derecho de puerto de cabotaje conforme a la cuota de $1.83, por unidad de arqueo bruto o fracción.
+Las personas físicas y morales cuyas embarcaciones usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de cabotaje que entre a los mismos, el derecho de puerto de cabotaje conforme a la cuota de $1.99, por unidad de arqueo bruto o fracción.
 
 Las embarcaciones dedicadas exclusivamente a actividades turísticas pagarán el 75% de la cuota del derecho de puerto de cabotaje, por cada puerto o terminal de uso público fuera de puerto habilitado en que entren.
 
@@ -18828,6 +16672,8 @@ Las embarcaciones dedicadas exclusivamente a actividades turísticas pagarán el
 ###### ARTICULO 201-A.
 
 Los derechos a que se refieren los artículos 200, 200-A y 201 de esta ley se pagarán dentro de los 5 días siguientes a aquél en que entre a puerto la embarcación o previo a su salida, lo que ocurra primero.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -18839,21 +16685,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Por embarcación comercial $0.62
 
-I.- Por embarcación comercial $0.57
+II.- Por yate $0.39
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III.- Por embarcación arrejerada $0.27
 
-II.- Por yate $0.36
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III.- Por embarcación arrejerada $0.25
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IV.- Por embarcación local comercial $0.38
+IV.- Por embarcación local comercial $0.41
 
 Para los efectos de este artículo, se entiende por embarcación comercial cualquiera que se destine a la realización de actos de comercio; por yate, toda embarcación que esté destinada exclusivamente al placer personal de sus propietarios o poseedores, sin perseguir fines de lucro; por embarcación arrejerada, aquella que únicamente utiliza el muelle para ser amarrada, por lo que no atraca en el mismo, o bien sólo hace contacto con él con su proa o su popa por hallarse en posición perpendicular al muelle; y por embarcación local comercial, la que opera únicamente en un puerto y está registrada en el mismo.
 
@@ -18915,6 +16753,8 @@ Los derechos a que se refiere este capítulo no se causarán cuando el uso o apr
 
 ### CAPITULO IV. Muelle, Embarque y Desembarque
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 206.
@@ -18925,19 +16765,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Mercancías de exportación $5.93 $6
 
-I.- Mercancías de exportación $5.47 $5
+II.- Mercancías de importación $12.80 $13
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II.- Mercancías de importación $11.80 $12
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III.- Mercancías de tráfico de cabotaje $2.82 $3
+III.- Mercancías de tráfico de cabotaje $3.06 $3
 
 El derecho a que se refiere la fracción I de este artículo se pagará dentro de los cinco días siguientes a aquél en que se presente a las autoridades aduaneras el pedimento de exportación; el derecho a que se refiere la fracción II del mismo artículo se pagará dentro de los cinco días siguientes a aquél en que se realice la descarga de las mercancías correspondientes a cada conocimiento de embarque; y el derecho a que se refiere la fracción III del propio numeral se pagará dentro de los cinco días siguientes a aquél en que se realice la carga o la descarga de las mercancías amparadas por cada conocimiento de embarque.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -18949,19 +16785,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- En instalaciones no dedicadas
 
 exclusivamente al servicio de
 
-pasajeros $27.52 $28
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+pasajeros $29.86 $30
 
 II.- En instalaciones exclusivas
 
-para pasajeros $41.44 $41
+para pasajeros $44.96 $45
 
 Los derechos a que se refiere este artículo se pagarán, por una sola vez en cada puerto, al momento en que se realice el embarque o desembarque de pasajeros.
 
@@ -19045,17 +16877,13 @@ Las autoridades portuarias, antes de expedir el despacho de salida de una embarc
 
 ### CAPITULO V. Salinas
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 211-A.
 
-Están obligados
+Están obligados cuota sin cuota con
 
-a pagar el derecho de explotación
+a pagar el derecho de explotación ajuste ajuste
 
 de sal, las personas físicas o morales,
 
@@ -19073,7 +16901,7 @@ de mares actuales, en forma natural o
 
 artificial. El derecho se calculará
 
-aplicando la cantidad de $1.8111
+aplicando la cantidad de $1.9650
 
 por cada tonelada enajenada de sal
 
@@ -19083,17 +16911,13 @@ o sus subproductos.
 
 El derecho se pagará semestralmente mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria, dentro de los 5 días posteriores al último día del semestre al que corresponda el pago.
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 211-B.
 
-Las personas
+Las personas cuota sin cuota con
 
-físicas o morales a que se refiere
+físicas o morales a que se refiere ajuste ajuste
 
 el artículo anterior, que para realizar
 
@@ -19115,7 +16939,7 @@ terrestre para la explotación de
 
 salinas, por cada metro cuadrado,
 
-la cantidad de $0.1121
+la cantidad de $0.1216
 
 > <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -19247,11 +17071,75 @@ Cuando resulte saldo a favor para Aeropuertos y Servicios Auxiliares, dicho sald
 
 #### SECCION SEGUNDA. Servicios relacionados con el Registro Federal de Armas de Fuego y el control de explosivos
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 222.
 
 Están obligadas al pago del derecho sobre agua, las personas físicas y morales que usen, exploten o aprovechen aguas nacionales, bien sea de hecho o al amparo de títulos de asignación, concesión, autorización o permiso, otorgados por el Gobierno Federal, de acuerdo con la zona de disponibilidad de agua en que se efectúe su extracción.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 223.
+
+Por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere este Capítulo, se pagará el derecho sobre agua, de conformidad con la zona de disponibilidad de agua y la cuenca o acuífero en que se efectúe su extracción y de acuerdo con las siguientes cuotas:
+
+A. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, por cada metro cúbico:
+
+(VÉASE ARCHIVO ANEXO)
+
+Las empresas públicas y privadas que tengan asignación o concesión para explotar, usar o aprovechar aguas nacionales, que cuenten con el permiso por parte de los municipios u organismos operadores para la prestación de los servicios de agua potable, cumplan con las condiciones de calidad de agua para consumo humano establecidas en las normas oficiales mexicanas y suministren volúmenes de agua para consumo doméstico a centros o núcleos de población, cubrirán el derecho respecto de los volúmenes de agua suministrada, con las cuotas establecidas en el Apartado B, fracción I, de este artículo; para tales efectos, deberán contar con medidor que contabilice exclusivamente el volumen de agua que proporcionen para el citado uso. Los contribuyentes podrán aplicar las cuotas preferenciales que establece el Apartado B, fracción I de este artículo, siempre y cuando cumplan con todos los requisitos previstos en este párrafo.
+
+De los ingresos que se obtengan por la recaudación de los derechos por la explotación, uso o aprovechamiento de aguas nacionales por usuarios distintos de los municipales y organismos operadores de los mismos, 300 millones de pesos tendrán destino específico para el Fondo Forestal Mexicano para el desarrollo y operación de Programas de Pago por Servicios Ambientales. Estos recursos ampliarán el presupuesto que se asigne a la Comisión Nacional Forestal.
+
+B. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, se pagará el derecho sobre agua por cada mil metros cúbicos, destinadas a:
+
+I. Uso de agua potable:
+
+a). Asignada a Entidades Federativas, Municipios, organismos paraestatales, paramunicipales.
+
+b). Concesionadas a empresas que presten el servicio de agua potable o alcantarillado y que mediante autorización o concesión, presten el servicio en sustitución de las personas morales a que se refiere el inciso a).
+
+c). Concesionada a colonias constituidas como personas morales que por concesión de las personas morales a que se refiere el inciso a), presten el servicio de suministro de agua potable de uso doméstico.
+
+Para los efectos del uso de agua potable, se considerará:
+
+(VÉASE ARCHIVO ANEXO)
+
+Los ingresos que se obtengan por la recaudación de los derechos por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere esta fracción, que paguen los municipios, se destinarán a la Comisión Nacional del Agua para obras de infraestructura hidráulica.
+
+Las tarifas a que se refiere esta fracción, serán aplicables a los sujetos que en las mismas se señalan cuando el consumo de agua en el periodo sea inferior o igual a un volumen equivalente a los 300 litros por habitante al día, de acuerdo con la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población, provenientes del último Censo General de Población y Vivienda publicado por el Instituto Nacional de Estadística y Geografía.
+
+En aquellos casos en que el consumo sea superior a los volúmenes que se mencionan en el párrafo anterior, se aplicarán las siguientes tarifas sobre el volumen de consumo excedente:
+
+(VÉASE ARCHIVO ANEXO)
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+II. Generación Hidroeléctrica y generación geotérmica $4.9444
+
+III. Acuacultura:
+
+(VÉASE ARCHIVO ANEXO)
+
+IV. Balnearios y centros recreativos:
+
+(VÉASE ARCHIVO ANEXO)
+
+Lo dispuesto en esta fracción no es aplicable a hoteles, centros recreativos de acceso exclusivo o privado y campos de golf.
+
+C. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, destinadas a uso agropecuario, se pagará el derecho sobre agua por cada metro cúbico que exceda el volumen concesionado a cada distrito de riego o por cada metro cúbico que exceda el volumen concesionado a los usuarios agropecuarios restantes, conforme a las siguientes cuotas:
+
+Zona de disponibilidad 1 a 4 $0.1632
+
+Los ingresos que se obtengan por la recaudación del derecho a que se refiere este Apartado, se destinarán a la Comisión Nacional del Agua para la instalación de dispositivos de medición y tecnificación del propio sector agropecuario.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -19259,51 +17147,7 @@ Están obligadas al pago del derecho sobre agua, las personas físicas y morales
 
 ###### ARTICULO 223.
 
--BIS.- Las personas físicas y morales a que se refieren los artículos 222 y 223 de esta Ley, que trasvasen directamente las aguas nacionales, así como aquéllas que se beneficien del trasvase indirecto, pagarán adicionalmente a las cuotas previstas en el artículo 223 citado, las cuotas siguientes atendiendo a los usos establecidos en el artículo 223 de esta Ley, así como a las zonas de disponibilidad de donde se efectúa la exportación del agua trasvasada y la de importación.
-
-Apartado A, del artículo 223 de esta Ley, fuente de extracción aguas superficiales
-
-(VÉASE ARCHIVO ANEXO)
-
-Apartado B, fracción I del artículo 223 de esta Ley, fuente de extracción aguas superficiales
-
-(VÉASE ARCHIVO ANEXO)
-
-Apartado B, fracción II del artículo 223 de esta Ley, fuente de extracción aguas superficiales
-
-(VÉASE ARCHIVO ANEXO)
-
-Apartado B, fracción III del artículo 223 de esta Ley, fuente de extracción aguas superficiales
-
-(VÉASE ARCHIVO ANEXO)
-
-Apartado B, fracción IV del artículo 223 de esta Ley, fuente de extracción aguas superficiales
-
-(VÉASE ARCHIVO ANEXO)
-
-Apartado C, dei (sic) artículo 223 de esta Ley, fuente de extracción aguas superficiales
-
-(VÉASE ARCHIVO ANEXO)
-
-La cuota que resulte de las tablas anteriores, se aplicará por cada metro cúbico o mil metros cúbicos de agua que durante el trimestre trasvase directamente el contribuyente, así como por cada metro cúbico o mil metros cúbicos de los que se haya beneficiado el contribuyente derivado del trasvase indirecto, según corresponda.
-
-El contribuyente podrá optar por adicionar a la cuota prevista en el artículo 223 de esta Ley, la cuota que se determine de acuerdo con la siguiente fórmula:
-
-(VÉASE ARCHIVO ANEXO)
-
-Como facilidad administrativa, la Secretaría de Hacienda y Crédito Público, publicará en el Diario Oficial de la Federación, a más tardar el último día del segundo mes del ejercicio fiscal que corresponda, las cuotas aplicables al trasvase durante dicho ejercicio.
-
-Para los efectos de este artículo se considerará trasvase, el uso, explotación o aprovechamiento de aguas nacionales trasladadas de una cuenca a una distinta con la que no haya conexión natural, que realiza el Estado, así como los asignatarios y concesionarios, mediante obras de infraestructura hidráulica, para concesionarlas, asignarlas, usarlas, aprovecharlas y explotarlas en un lugar distinto a la cuenca de extracción, y que para los fines de la presente Ley pueden ser:
-
-a). Directo: El que realizan los asignatarios y concesionarios con autorización de la Comisión Nacional del Agua.
-
-b). Indirecto: El que efectúa el Estado en beneficio de los asignatarios o concesionarios, con inversión federal o con participación de inversión estatal, municipal, social o privada. Dicho beneficio tiene lugar cuando concesionarios y asignatarios usan, aprovechan o explotan aguas nacionales trasvasadas previamente por el Estado.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-###### ARTICULO 223.
-
--BIS.- Las personas físicas y morales a que se refieren los artículos 222 y 223 de esta Ley, que trasvasen directamente las aguas nacionales, así como aquéllas que se beneficien del trasvase indirecto, pagarán adicionalmente a las cuotas previstas en el artículo 223 citado, las cuotas siguientes atendiendo a los usos establecidos en el artículo 223 de esta Ley, así como a las zonas de disponibilidad de donde se efectúa la exportación del agua trasvasada y la de importación.
+BIS.- Las personas físicas y morales a que se refieren los artículos 222 y 223 de esta Ley, que trasvasen directamente las aguas nacionales, así como aquéllas que se beneficien del trasvase indirecto, pagarán adicionalmente a las cuotas previstas en el artículo 223 citado, las cuotas siguientes atendiendo a los usos establecidos en el artículo 223 de esta Ley, así como a las zonas de disponibilidad de donde se efectúa la exportación del agua trasvasada y la de importación.
 
 Apartado A, del artículo 223 de esta Ley, fuente de extracción aguas superficiales
 
@@ -19504,6 +17348,8 @@ Las personas físicas y morales que usen, exploten o aprovechen aguas nacionales
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION TERCERA. Servicio Militar Nacional
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -19735,6 +17581,8 @@ La Comisión Nacional del Agua informará, trimestralmente, al H. Congreso de la
 
 ### CAPITULO IX. Uso o goce de Inmuebles
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 232.
@@ -19748,8 +17596,6 @@ ajuste ajuste
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 I.- El 7.5% anual del valor del inmueble concesionado o permisionado incluyendo terreno, áreas de agua ocupadas, obras e instalaciones, en su caso.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Cuando se trate de bienes
 
@@ -19769,7 +17615,7 @@ anualmente por metro
 
 cuadrado de superficie,
 
-la siguiente cuota $2.6310
+la siguiente cuota $2.8546
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -19783,9 +17629,7 @@ Para los efectos de las fracciones I, II y III que anteceden, el valor del inmue
 
 Cada cinco años como máximo deberá realizarse un nuevo avalúo, si el término de la concesión o permiso excede del periodo mencionado. Dicho avalúo únicamente deberá considerar el inmueble como originalmente se concesionó o permisionó, sin incluir las mejoras y adiciones que se hubieren efectuado durante la concesión o el permiso.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IV.- De $0.0414
+IV.- De $0.0449
 
 anual por metro cuadrado,
 
@@ -19801,9 +17645,7 @@ comprendidos en los artículos
 
 113 y 114 de la Ley de Aguas Nacionales.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-V.- De $2.6683
+V.- De $2.8951
 
 anual por metro cuadrado,
 
@@ -19829,9 +17671,7 @@ en los artículos 113 y 114 de la
 
 Ley de Aguas Nacionales.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-VI.- De $2.6748
+VI.- De $2.9022
 
 anual por metro cuadrado
 
@@ -19841,9 +17681,7 @@ consista en la realización
 
 de actividades pesqueras.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-VII.- De $0.1054
+VII.- De $0.1144
 
 anual por metro cuadrado,
 
@@ -19857,25 +17695,17 @@ de actividades de acuacultura.
 
 VIII.- Por instalaciones de telecomunicación:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- En espacios cerrados, por cada
 
 metro cuadrado o fracción,
 
-mensualmente $611.79 $612
+mensualmente $663.79 $664
 
 b).- En espacios abiertos, mensualmente:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+1.- Por cada antena instalada $319.33 $319
 
-1.- Por cada antena instalada $294.31 $294
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-2.- Por cada torre instalada $611.79 $612
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+2.- Por cada torre instalada $663.79 $664
 
 c).- Por el uso del derecho de vía de
 
@@ -19889,9 +17719,7 @@ de redes públicas de
 
 telecomunicaciones, anualmente,
 
-por cada kilómetro o fracción $443.44 $443
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+por cada kilómetro o fracción $481.13 $481
 
 IX.- Por los espacios dentro de
 
@@ -19905,7 +17733,7 @@ expendedoras de bienes o servicios,
 
 se pagará por metro cuadrado o
 
-fracción, por cada mes $247.07 $247
+fracción, por cada mes $268.07 $268
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -19915,41 +17743,33 @@ El derecho a que se refiere esta fracción, se efectuará anticipadamente median
 
 El derecho del ejercicio, deducidos los pagos provisionales semestrales, se pagará mediante declaración que se presentará en las oficinas autorizadas dentro de los dos meses siguientes al cierre del mismo ejercicio.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 X.- Por el depósito de restos humanos
 
 áridos o cremados en un nicho construido
 
 en templos de propiedad federal o sus
 
-anexidades, por cada depósito $716.61 $717
+anexidades, por cada depósito $777.52 $778
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 XI.- Por el uso o goce de postes, torres o ductos, o bienes similares, propiedad de organismos públicos descentralizados, para la instalación de cableado de redes de telecomunicaciones, anualmente:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a). Por cada poste, torre o bienes
 
 similares que se use, por cada cable
 
-instalado: $64.11 $64
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+instalado: $69.56 $70
 
 b). Por cada ducto, por cada kilómetro
 
 o fracción de kilómetro que se use, por
 
-cada cable instalado: $705.30 $705
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+cada cable instalado: $765.25 $765
 
 c). Por cada registro que se use, por
 
-cada cable instalado: $44.88 $45
+cada cable instalado: $48.69 $49
 
 Para los efectos de esta fracción, se entiende por cable instalado a la unidad compuesta por cable de suspensión de acero, cable coaxial y/o fibra óptica y sus accesorios.
 
@@ -19999,13 +17819,13 @@ Los derechos a que se refiere este artículo se enterarán mediante pagos defini
 
 Los bienes a que se refiere este artículo en ningún caso serán objeto de los derechos establecidos en los artículos 232 y 232-A.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 232-C.
 
 Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas. El monto del derecho a pagar se determinará con los siguientes valores y las zonas a que se refiere el artículo 232-D de esta Ley:
-
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Zonas Usos
 
@@ -20027,33 +17847,33 @@ bola
 
 ($ /m2) ($ /m2) ($ /m2)
 
-ZONA I $0.30 $0.122 $1.12
+ZONA I $0.33 $0.132 $1.22
 
-ZONA II $0.73 $0.122 $2.36
+ZONA II $0.79 $0.132 $2.56
 
-ZONA III $1.57 $0.122 $4.83
+ZONA III $1.70 $0.132 $5.24
 
-ZONA IV $2.43 $0.122 $7.28
+ZONA IV $2.64 $0.132 $7.90
 
-ZONA V $3.27 $0.122 $9.78
+ZONA V $3.55 $0.132 $10.61
 
-ZONA VI $5.10 $0.122 $14.70
+ZONA VI $5.53 $0.132 $15.95
 
-ZONA VII $6.80 $0.122 $19.63
+ZONA VII $7.38 $0.132 $21.30
 
-ZONA VIII $12.84 $0.122 $36.96
+ZONA VIII $13.93 $0.132 $40.10
 
-ZONA IX $17.16 $0.122 $49.31
+ZONA IX $18.62 $0.132 $53.50
 
-ZONA X $34.43 $0.122 $98.72
+ZONA X $37.36 $0.132 $107.11
 
 ZONA XI Subzona A
 
-$15.00 $0.111 $55.83
+$16.86 $0.120 $60.58
 
 Subzona B
 
-$31.19 $0.111 $111.76
+$33.84 $0.120 $121.26
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -20131,27 +17951,27 @@ ZONA X. Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco d
 
 ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quintana Roo: Benito Juárez, Solidaridad y Tulum.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 232-D
 
 1.- Están obligadas a pagar el derecho por extracción de materiales pétreos, las personas físicas y morales que los extraigan de las playas, la zona federal marítimo terrestre y los terrenos ganados al mar o de cualquier otro depósito de aguas marítimas, así como del lecho marino, conforme a la cuota que resulte por metro cúbico:
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 Material $ /M3
 
-Grava $13.08
+Grava $14.19
 
-Arena $13.08
+Arena $14.19
 
-Arcillas y limos $9.48
+Arcillas y limos $10.29
 
-Materiales en greña $10.23
+Materiales en greña $11.10
 
-Piedra bola $11.29
+Piedra bola $12.25
 
-Otros $3.92
+Otros $4.25
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -20291,6 +18111,8 @@ III.- Determinar la cantidad de materiales extraídos de los cauces, vasos y zon
 
 Cuando las autoridades fiscales hagan las valuaciones a que se refiere este artículo, proporcionarán al contribuyente un extracto del avalúo.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 236.
@@ -20301,41 +18123,37 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Zona 1 $/M3
 
 Estados de Baja California, Guanajuato, Sinaloa, Sonora, Tabasco, Veracruz y Zacatecas:
 
-Grava $20.27
+Grava $21.99
 
-Arena $20.27
+Arena $21.99
 
-Arcillas y Limos $15.92
+Arcillas y Limos $17.27
 
-Materiales en Greña $15.92
+Materiales en Greña $17.27
 
-Piedra $17.38
+Piedra $18.86
 
-Otros $7.25
-
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Otros $7.87
 
 II.- Zona 2
 
 Los Estados no comprendidos en la fracción anterior y el Distrito Federal:
 
-Grava $13.03
+Grava $14.14
 
-Arena $13.03
+Arena $14.14
 
-Arcillas y Limos $10.14
+Arcillas y Limos $11.00
 
-Materiales en Greña $10.14
+Materiales en Greña $11.00
 
-Piedra $11.58
+Piedra $12.56
 
-Otros $4.34
+Otros $4.71
 
 El derecho por extracción de materiales se pagará previamente, mediante declaración que se presente en las oficinas que autorice el Servicio de Administración Tributaria.
 
@@ -20389,6 +18207,8 @@ VI.- El volumen o cualquier información proporcionada por el contribuyente a la
 
 Tratándose del derecho a que se refieren los artículos 232, fracciones I, segundo párrafo, IV y V y 236 de esta Ley, la Comisión Nacional del Agua está facultada para ejercer las atribuciones establecidas en el artículo 192-E de esta Ley.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 237.
@@ -20399,15 +18219,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Anuncios publicitarios que tienen
 
 una superficie total hasta de 50 metros
 
-cuadrados $4,869.82 $4,870
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+cuadrados $5,283.75 $5,284
 
 II.- Anuncios publicitarios que tienen
 
@@ -20415,11 +18231,9 @@ una superficie total de más de 50
 
 metros cuadrados y de hasta 75
 
-metros cuadrados $7,304.87 $7,305
+metros cuadrados $7,925.78 $7,926
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III.- Señales informativas $7,303.9 $7,304
+III.- Señales informativas $7,924.83 $7,925
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -20453,9 +18267,13 @@ No pagarán el derecho que se establece en el artículo 232-A, las entidades fed
 
 #### SECCION PRIMERA. Aprovechamiento Extractivo
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 #### SECCION UNICA. Servicios Privados de Seguridad y Armas de Fuego
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO Y REUBICADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -20467,31 +18285,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I.- Borrego Cimarrón $428,431.52 $428,432
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Borrego Cimarrón $464,848.20 $464,848
 
 II.- Venado Bura en Sonora
 
-o Cola Blanca texano $41,210.40 $41,210
+o Cola Blanca texano $44,713.28 $44,713
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III.- Puma $15,867.81 $15,868
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+III.- Puma $17,216.57 $17,217
 
 IV.- Venado Bura Cola Blanca en
 
-el resto del país y Temazate $12,694.25 $12,694
+el resto del país y Temazate $13,773.26 $13,773
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-V.- Faisán de Collar $7,933.90 $7,934
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+V.- Faisán de Collar $8,608.28 $8,608
 
 VI.- Patos, palomas, codornices,
 
@@ -20499,33 +18305,23 @@ cercetas, gansos, perdiz, tinamú,
 
 branta negra del pacífico y otras
 
-aves, por lote $23,352.56 $23,353
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+aves, por lote $25,337.53 $25,338
 
 VII.- Guajolote Silvestre
 
-y Pavo Ocelado $4,760.33 $4,760
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y Pavo Ocelado $5,164.96 $5,165
 
 VIII.- Zorra gris y otros
 
-pequeños mamíferos $4,760.33 $4,760
+pequeños mamíferos $5,164.96 $5,165
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IX.- Gato Montés $3,173.55 $3,174
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+IX.- Gato Montés $3,443.30 $3,443
 
 X.- Jabalí (de collar, labios
 
-blancos, europeo) $3,173.55 $3,174
+blancos, europeo) $3,443.30 $3,443
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-XI.- Borrego Audat o Berberisco $793.37 $793
+XI.- Borrego Audat o Berberisco $860.81 $861
 
 XII.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -20565,6 +18361,8 @@ No se estará obligado al pago del derecho a que se refiere este artículo, cuan
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 238-C.
@@ -20575,11 +18373,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I. Por persona, por día: $27.96 $28
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I. Por persona, por día: $30.34 $30
 
 II. Se podrá optar por pagar el derecho
 
@@ -20595,7 +18389,7 @@ propiedad de la Nación y en los centros
 
 para la conservación e investigación
 
-de la vida silvestre: $290.77 $291
+de la vida silvestre: $315.49 $315
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -20665,6 +18459,8 @@ Los Poderes de la Unión, las entidades paraestatales federales y los organismos
 
 Lo dispuesto en este Capítulo, será aplicable para cualquier concesión, permiso, asignación o como se denomine de acuerdo con las disposiciones jurídicas aplicables, por lo que las referencias efectuadas en este Capítulo a los términos antes señalados, serán aplicados igualmente a las figuras que se determinen en las disposiciones jurídicas aplicables en la materia.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 240.
@@ -20679,15 +18475,9 @@ ajuste ajuste
 
 I.- Para redes que cuenten con estaciones base o repetidoras:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- Por cada estación base $8,701.21 $8,701
 
-a).- Por cada estación base $8,019.55 $8,020
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por cada estación repetidora $12,029.40 $12,029
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+b).- Por cada estación repetidora $13,051.90 $13,052
 
 II.- Para quienes únicamente cuenten
 
@@ -20697,11 +18487,9 @@ red, se pagará por todos los equipos
 
 móviles, portátiles o terminales de
 
-radiocomunicación privada de usuario $5,276.03 $5,276
+radiocomunicación privada de usuario $5,724.49 $5,724
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 IV.- Por cada frecuencia asignada a
 
@@ -20709,9 +18497,7 @@ nivel nacional, no importando la
 
 cantidad de estaciones bases,
 
-móviles o fijas $1,075,078.71 $1,075,079
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+móviles o fijas $1,166,460.40 $1,166,460
 
 a).- Por frecuencia asignada a nivel
 
@@ -20719,9 +18505,7 @@ regional, se pagará por Entidad
 
 Federativa, sin importar la cantidad
 
-de estaciones bases, móviles o fijas $52,019.55 $52,020
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de estaciones bases, móviles o fijas $56,441.21 $56,441
 
 V.- Por los sistemas de alta frecuencia H.F.,
 
@@ -20731,9 +18515,7 @@ frecuencia, tomando como mínimo dos
 
 horas diarias, por equipo terminal base
 
-o móvil $1,128.52 $1,129
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o móvil $1,224.44 $1,224
 
 VI.- Por la autorización provisional
 
@@ -20741,7 +18523,7 @@ que no exceda de seis meses, se
 
 pagará diariamente por cada
 
-frecuencia $86.21 $86
+frecuencia $93.54 $94
 
 VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
@@ -20749,19 +18531,13 @@ VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
 VIII.- Para sistemas que utilicen el espectro radioeléctrico con fines de pruebas, con autorizaciones temporales con vigencia máxima de 2 años, se pagarán los derechos por el uso del espectro radioeléctrico en los términos siguientes:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- En sistemas que operen en
 
-periodos de hasta seis meses $2,577.67 $2,578
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+periodos de hasta seis meses $2,796.77 $2,797
 
 b).- En sistemas que operen en
 
-periodos superiores a seis meses $5,155.41 $5,155
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+periodos superiores a seis meses $5,593.62 $5,594
 
 IX.- Para el servicio privado móvil
 
@@ -20773,11 +18549,13 @@ cada frecuencia sin importar el
 
 número de bases, móviles
 
-y repetidores $10,556.55 $10,557
+y repetidores $11,453.86 $11,454
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 X.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -20789,17 +18567,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por cada megahertz utilizado en
 
 territorio nacional para prestar
 
 servicios de telecomunicaciones en
 
-la banda C: $85.31 $85
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+la banda C: $92.56 $93
 
 II.- Por cada megahertz utilizado
 
@@ -20807,7 +18581,7 @@ en territorio nacional para prestar
 
 servicios de telecomunicaciones
 
-en la banda Ku: $130.53 $131
+en la banda Ku: $141.63 $142
 
 Cuando el concesionario utilice bandas de frecuencia del espectro radioeléctrico por fracciones de día, pagará la parte proporcional de las cuotas establecidas en la (sic) fracciones I y II anteriores, según corresponda.
 
@@ -20847,6 +18621,8 @@ Asimismo, el monto anual que se haya pagado ante las autoridades del país de or
 
 Para los efectos del presente artículo, en ningún caso se podrán acreditar los pagos por el uso de bandas de frecuencias que en su caso, el concesionario haya efectuado o efectúe ante las autoridades del país de origen del sistema satelital extranjero. El acreditamiento a que se refiere este artículo no dará lugar a devolución o compensación alguna.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 242.
@@ -20857,17 +18633,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por cada megahertz utilizado en
 
 territorio nacional para prestar
 
 servicios de telecomunicaciones en
 
-la banda C: $85.31 $85
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+la banda C: $92.56 $93
 
 II.- Por cada megahertz utilizado
 
@@ -20875,7 +18647,7 @@ en territorio nacional para prestar
 
 servicios de telecomunicaciones
 
-en la banda Ku: $130.53 $131
+en la banda Ku: $141.63 $142
 
 Cuando el concesionario utilice bandas de frecuencia del espectro radioeléctrico por fracciones de día, pagará la parte proporcional de las cuotas establecidas en las fracciones I y II anteriores, según corresponda.
 
@@ -20919,6 +18691,8 @@ Para los efectos del presente artículo, en ningún caso se podrán acreditar lo
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 242-B.
@@ -20928,8 +18702,6 @@ El derecho por el uso del espectro radioeléctrico, por los enlaces redioeléctr
 cuota sin cuota con
 
 ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- Por cada frecuencia que utilice
 
@@ -20941,9 +18713,7 @@ y de estaciones móviles remotas
 
 de estaciones de radiodifusión en
 
-A.M. y F.M. $6,150.89 $6,151
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+A.M. y F.M. $6,673.72 $6,674
 
 II.- Por cada frecuencia que utilice
 
@@ -20955,9 +18725,7 @@ y de estaciones móviles remotas de
 
 estaciones de radiodifusión de
 
-televisión $12,302.21 $12,302
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+televisión $13,347.90 $13,348
 
 III.- Por cada frecuencia que se utilice
 
@@ -20969,9 +18737,7 @@ servicios públicos de radio restringido
 
 con señal digitalizada o de sistemas
 
-de música continua $6,333.87 $6,334
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de música continua $6,872.25 $6,872
 
 IV.- Por cada frecuencia que se
 
@@ -20983,7 +18749,7 @@ servicios públicos de televisión
 
 restringida, sistemas de televisión por
 
-cable o televisión de alta definición $12,667.85 $12,668
+cable o televisión de alta definición $13,744.62 $13,745
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -20993,6 +18759,8 @@ Cuando se reutilicen las frecuencias a que se refieren las fracciones anteriores
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
@@ -21000,8 +18768,6 @@ Cuando se reutilicen las frecuencias a que se refieren las fracciones anteriores
 ###### ARTICULO 243.
 
 Por el uso, goce, aprovechamiento o explotación del espectro radioeléctrico, para prestar el servicio de televisión restringida de servicio fijo de distribución terrenal punto a multipunto, de señales codificadas de audio y video por microondas, se pagará por cada megahertz concesionado, la cuota que corresponda de conformidad con la tabla siguiente:
-
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Entidad Federativa Cuota por cada
 
@@ -21011,69 +18777,69 @@ concesionado o
 
 permisionado
 
-Aguascalientes $2,120.24
+Aguascalientes $2,300.46
 
-Baja California $9,094.85
+Baja California $9,867.91
 
-Baja California Sur $1,225.85
+Baja California Sur $1,330.05
 
-Campeche $1,169.34
+Campeche $1,268.73
 
-Coahuila $4,367.64
+Coahuila $4,738.89
 
-Colima $1,126.05
+Colima $1,221.76
 
-Chiapas $2,978.75
+Chiapas $3,231.94
 
-Chihuahua $8,610.65
+Chihuahua $9,342.56
 
-Distrito Federal $31,759.90
+Distrito Federal $34,459.49
 
-Durango $2,435.82
+Durango $2,642.86
 
-Guanajuato $6,987.78
+Guanajuato $7,581.74
 
-Guerrero $2,334.53
+Guerrero $2,532.97
 
-Hidalgo $1,857.45
+Hidalgo $2,015.33
 
-Jalisco $13,862.51
+Jalisco $15,040.82
 
-Estado de México $27,089.78
+Estado de México $29,392.41
 
-Michoacán $4,808.86
+Michoacán $5,217.61
 
-Morelos $2,490.75
+Morelos $2,702.46
 
-Nayarit $1,375.05
+Nayarit $1,491.93
 
-Nuevo León $12,862.26
+Nuevo León $13,955.55
 
-Oaxaca $2,209.41
+Oaxaca $2,397.21
 
-Puebla $6,268.50
+Puebla $6,801.32
 
-Querétaro $2,001.36
+Querétaro $2,171.48
 
-Quintana Roo $2,539.36
+Quintana Roo $2,755.21
 
-Sinaloa $6,443.02
+Sinaloa $6,990.68
 
-San Luis Potosí $2,993.72
+San Luis Potosí $3,248.19
 
-Sonora $7,267.89
+Sonora $7,885.66
 
-Tabasco $2,152.11
+Tabasco $2,335.04
 
-Tamaulipas $6,272.01
+Tamaulipas $6,805.13
 
-Tlaxcala $1,188.62
+Tlaxcala $1,289.65
 
-Veracruz $12,428.31
+Veracruz $13,484.72
 
-Yucatán $1,771.15
+Yucatán $1,921.70
 
-Zacatecas $1,500.06
+Zacatecas $1,627.57
 
 En los casos en que el área de cobertura no abarque la totalidad del territorio de una entidad federativa, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla anterior corresponda a la entidad federativa en la que la concesión autorice prestar los servicios, por la proporción que represente la población total del área en la que la concesión autorice prestar los servicios entre la población total de la entidad federativa. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población derivados de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -21107,7 +18873,7 @@ Para los casos en que el área de cobertura de una concesión cubra más de una 
 
 (DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 ###### ARTICULO 244-B.
 
@@ -21143,7 +18909,7 @@ California, Baja California Sur
 
 y el municipio de San Luis Río
 
-Colorado del estado de Sonora $3,260.68
+Colorado del estado de Sonora $3,537.84
 
 Todos los municipios de Sinaloa
 
@@ -21151,7 +18917,7 @@ y todos los de Sonora, excepto
 
 el municipio de San Luis Río
 
-Colorado $483.36
+Colorado $524.45
 
 Todos los municipios de los estados
 
@@ -21161,7 +18927,7 @@ municipios de Francisco I. Madero,
 
 Matamoros, Torreón, San Pedro y
 
-Viesca del estado de Coahuila $2,053.03
+Viesca del estado de Coahuila $2,227.54
 
 Todos los municipios de los estados
 
@@ -21173,7 +18939,7 @@ municipios de Francisco I. Madero,
 
 Matamoros, Torreón, San Pedro
 
-y Viesca $10,211.46
+y Viesca $11,079.43
 
 Todos los municipios de los estados
 
@@ -21191,7 +18957,7 @@ Santa María de los Angeles,
 
 Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo $3,965.90
+Villa Hidalgo $4,303.00
 
 Todos los municipios de
 
@@ -21211,19 +18977,19 @@ María de los Angeles, Teocaltiche,
 
 Villa Guerrero y Villa Hidalgo del estado
 
-de Jalisco $1,654.60
+de Jalisco $1,795.24
 
 Todos los municipios de los estados
 
 de Guerrero, Oaxaca, Puebla,
 
-Tlaxcala y Veracruz $282.66
+Tlaxcala y Veracruz $306.69
 
 Todos los municipios de los estados
 
 de Campeche, Chiapas, Quintana Roo,
 
-Tabasco y Yucatán $191.06
+Tabasco y Yucatán $207.30
 
 Todos los municipios de los estados
 
@@ -21231,13 +18997,15 @@ de Hidalgo, Morelos y Estado de
 
 México, y todas las delegaciones del
 
-Distrito Federal $14,852.22
+Distrito Federal $16,114.66
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística, Geografía e Informática, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -21259,15 +19027,13 @@ De 929 MHz a 932 MHz
 
 De 940 MHz a 941 MHz
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 Tabla B
 
 Cobertura Cuota por cada kilohertz
 
 concesionado o permisionada
 
-1 MHz=1000 KHz
+(1 MHz=1000 KHz)
 
 Todos los municipios de Baja
 
@@ -21275,7 +19041,7 @@ California, Baja California Sur
 
 y el municipio de San Luis Río
 
-Colorado del estado de Sonora $16,593.97
+Colorado del estado de Sonora $18,004.46
 
 Todos los municipios de Sinaloa
 
@@ -21283,7 +19049,7 @@ y todos los de Sonora, excepto el
 
 municipio de San Luis Río
 
-Colorado $14,047.52
+Colorado $15,241.56
 
 Todos los municipios de los estados
 
@@ -21293,7 +19059,7 @@ municipios de Francisco I. Madero,
 
 Matamoros, Torreón, San Pedro y
 
-Viesca del estado de Coahuila $3,753.21
+Viesca del estado de Coahuila $4,072.23
 
 Todos los municipios de los estados
 
@@ -21305,7 +19071,7 @@ municipios de Francisco I. Madero,
 
 Matamoros, Torreón, San Pedro y
 
-Viesca $6,631.98
+Viesca $7,195.70
 
 Todos los municipios de los estados
 
@@ -21323,7 +19089,7 @@ Santa María de los Angeles,
 
 Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo $9,780.10
+Villa Hidalgo $10,611.41
 
 Todos los municipios de
 
@@ -21343,19 +19109,19 @@ Jalisco, Santa María de los Angeles,
 
 Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo del estado de Jalisco $4,722.13
+Villa Hidalgo del estado de Jalisco $5,123.51
 
 Todos los municipios de los estados
 
 de Guerrero, Oaxaca, Puebla, Tlaxcala
 
-y Veracruz $8,031.14
+y Veracruz $8,713.79
 
 Todos los municipios de los estados de
 
 Campeche, Chiapas, Quintana Roo,
 
-Tabasco y Yucatán $3,928.11
+Tabasco y Yucatán $4,262.00
 
 Todos los municipios de los estados de
 
@@ -21363,13 +19129,15 @@ Hidalgo, Morelos y Estado de México,
 
 y todas las delegaciones del Distrito
 
-Federal $13,584.04
+Federal $14,738.68
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla mencionada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla B. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística, Geografía e Informática, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -21411,6 +19179,8 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
@@ -21426,8 +19196,6 @@ Rango de frecuencias en Megahertz
 De 1710 MHz a 1770 MHz
 
 De 2110 MHz a 2170 MHz
-
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 Tabla B
 
@@ -21445,7 +19213,7 @@ Baja California, Baja California Sur
 
 y el municipio de San Luis Río Colorado
 
-del estado de Sonora $3,260.68
+del estado de Sonora $3,537.84
 
 > <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
@@ -21455,7 +19223,7 @@ y todos los de Sonora, excepto
 
 el municipio de San Luis
 
-Río Colorado $483.36
+Río Colorado $524.45
 
 > <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
@@ -21469,7 +19237,7 @@ Matamoros, San Pedro,
 
 Torreón y Viesca del
 
-estado de Coahuila $2,053.03
+estado de Coahuila $2,227.54
 
 > <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
@@ -21483,7 +19251,7 @@ con excepción de los municipios
 
 de Francisco I. Madero, Matamoros,
 
-Torreón, San Pedro y Viesca $10,211.46
+Torreón, San Pedro y Viesca $11,079.43
 
 > <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
@@ -21505,7 +19273,7 @@ Santa María de los Angeles,
 
 Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo $3,965.90
+Villa Hidalgo $4,303.00
 
 > <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
@@ -21529,7 +19297,7 @@ Santa María de los Angeles,
 
 Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo del estado de Jalisco $1,654.60
+Villa Hidalgo del estado de Jalisco $1,795.24
 
 > <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
@@ -21537,7 +19305,7 @@ Todos los municipios de los
 
 Estados de Guerrero, Oaxaca,
 
-Puebla, Tlaxcala y Veracruz $282.66
+Puebla, Tlaxcala y Veracruz $306.69
 
 > <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
@@ -21545,7 +19313,7 @@ Todos los municipios de los estados
 
 de Campeche, Chiapas, Quintana Roo,
 
-Tabasco y Yucatán $191.06
+Tabasco y Yucatán $207.30
 
 > <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
@@ -21555,7 +19323,7 @@ de Hidalgo, Morelos y Estado de México,
 
 y todas las delegaciones del
 
-Distrito Federal $14,852.22
+Distrito Federal $16,114.66
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -21563,13 +19331,15 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-###### ARTICULO 244
+###### ARTICULO 244-F.
 
--F.- Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue:
+Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue:
 
 Tabla A
 
@@ -21585,6 +19355,8 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones o el que lo sustituya.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 245.
@@ -21595,17 +19367,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por cada estación terminal de
 
 cada enlace multicanal o por cada
 
 punto extremo del mismo o antena
 
-y por cada repetidor $5,376.52 $5,377
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+y por cada repetidor $5,833.52 $5,834
 
 II.- En cada canal de radiofrecuencia
 
@@ -21617,9 +19385,7 @@ canales telefónicos o de capacidad
 
 equivalente para cualquier otro tipo
 
-de señales de telecomunicaciones $5,376.52 $5,377
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de señales de telecomunicaciones $5,833.52 $5,834
 
 III.- En cada canal de radiofrecuencia
 
@@ -21629,7 +19395,7 @@ canales telefónicos o de capacidad
 
 equivalente para cualquier otro tipo
 
-de señales de telecomunicaciones $5,376.52 $5,377
+de señales de telecomunicaciones $5,833.52 $5,834
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -21638,6 +19404,8 @@ La cuota total por cada enlace será el resultado de aplicar en forma acumulada 
 ###### ARTICULO 245-A.
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -21653,15 +19421,11 @@ ajuste ajuste
 
 I.- Por telefonía rural comunal:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Por cada estación base
 
-o repetidor $1,097.32 $1,097
+o repetidor $1,190.59 $1,191
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- Por estación terminal $411.35 $411
+b).- Por estación terminal $446.31 $446
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -21671,19 +19435,13 @@ Tratándose de los servicios de telefonía rural proporcionados por los gobierno
 
 II.- Para servicios de voz o datos en sistemas punto a punto o punto a multipunto:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 a).- Por nodo, se pagará por cada
 
-frecuencia $5,630.27 $5,630
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+frecuencia $6,108.84 $6,109
 
 b).- Por cada estación fija, se pagará
 
-por cada frecuencia $2,814.72 $2,815
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+por cada frecuencia $3,053.97 $3,054
 
 c).- Por frecuencia asignada a nivel
 
@@ -21691,11 +19449,11 @@ regional se pagará por entidad
 
 federativa, sin importar la cantidad
 
-de estaciones o nodos $52,019.69 $52,020
+de estaciones o nodos $56,441.36 $56,441
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+d).- Por cada estación fija remota $3,053.97 $3,054
 
-d).- Por cada estación fija remota $2,814.72 $2,815
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -21707,13 +19465,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Por cada estación terminal $6,111.36 $6,111
 
-I.- Por cada estación terminal $5,632.59 $5,633
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II.- Por cada canal telefónico $11,265.59 $11,266
+II.- Por cada canal telefónico $12,223.17 $12,223
 
 ###### ARTICULO 246.
 
@@ -21923,6 +19677,8 @@ ARTICULO 258 Quintus.- (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
 Están obligadas a pagar los derechos sobre minería que establece este Capítulo todas las personas físicas o morales titulares de una concesión o que desarrollen trabajos relacionados con la exploración o explotación de sustancias o minerales sujetos a la aplicación de la Ley Minera.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 263.
@@ -21935,41 +19691,29 @@ ajuste ajuste
 
 Concesiones y asignaciones mineras Cuota por hectárea
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I. Durante el primer y segundo año
 
-de vigencia $5.91
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de vigencia $6.41
 
 II. Durante el tercero y cuarto año
 
-de vigencia $8.83
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de vigencia $9.58
 
 III. Durante el quinto y sexto año
 
-de vigencia $18.26
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+de vigencia $19.81
 
 IV. Durante el séptimo y octavo
 
-año de vigencia $36.73
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+año de vigencia $39.85
 
 V. Durante el noveno y décimo
 
-año de vigencia $73.44
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+año de vigencia $79.68
 
 VI. A partir del décimo primer
 
-año de vigencia $129.24
+año de vigencia $140.23
 
 La determinación del pago del derecho cuando la concesión o asignación cubra periodos inferiores a un semestre, se hará considerando la parte proporcional que le corresponda con base en las mismas.
 
@@ -22201,6 +19945,8 @@ En caso de que no se pueda medir el volumen de agua descargada durante el trimes
 
 Los contribuyentes a que se refiere la fracción I del artículo 277-B de esta Ley, cuya infraestructura de drenaje y alcantarillado esté conectada con otro contribuyente del mismo tipo y no se pueda identificar el volumen de descarga de cada uno de ellos, podrán determinarlo multiplicando el volumen descargado por los contribuyentes interconectados por la proporción de habitantes que corresponda al contribuyente, la cual se obtendrá de dividir el número de habitantes del contribuyente entre la totalidad de habitantes en las localidades o municipios interconectados en su red de alcantarillado, en términos del último Censo General de Población y Vivienda publicado por el Instituto Nacional de Estadística y Geografía.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
@@ -22224,6 +19970,8 @@ III. Los contribuyentes a que se refiere la fracción II de este artículo, podr
 Los contribuyentes cuya actividad que origina la descarga no esté comprendida en la tabla anterior, aplicarán la cuota establecida en este artículo para las descargas preponderantemente no biodegradables.
 
 El monto del derecho a pagar será enterado por el contribuyente en los términos del artículo 283 de esta Ley.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -22887,6 +20635,8 @@ Para efectos del presente Capítulo, la Comisión Nacional del Agua está facult
 
 ### CAPITULO XVI. De los Bienes Culturales Propiedad de la Nación
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 288.
@@ -22899,21 +20649,21 @@ ajuste ajuste
 
 > <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
-Áreas tipo AAA $59.22
+Áreas tipo AAA $64.25 $64
 
-$197.43 después
+después $214.21 $214
 
 del horario
 
 normal
 
-Áreas tipo AA $56.77 $57
+Áreas tipo AA $61.60 $62
 
-Áreas tipo A $48.13 $48
+Áreas tipo A $52.22 $52
 
-Áreas tipo B $43.18 $43
+Áreas tipo B $46.85 $47
 
-Áreas tipo C $35.79 $36
+Áreas tipo C $38.83 $39
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -22971,6 +20721,8 @@ No pagarán el derecho a que se refiere este artículo, las personas mayores de 
 
 Lo dispuesto en el párrafo anterior no será aplicable para las áreas tipo AAA, en las visitas después del horario normal de operación.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 288-A.
@@ -22981,9 +20733,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I.- $41.22
+I.- $44.72
 
 mensuales por cada metro cuadrado
 
@@ -23001,7 +20751,7 @@ El pago del derecho a que se refiere esta fracción, se efectuará mensualmente 
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
-II.- $24.73
+II.- $26.83
 
 por cada metro cuadrado o fracción
 
@@ -23021,9 +20771,7 @@ exteriores de cualquier tipo.
 
 El pago del derecho a que se refiere esta fracción, se efectuará previamente a la realización del evento.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III.- $6,868.40
+III.- $7,452.21 $7,452
 
 por evento cultural de hasta cuatro
 
@@ -23053,6 +20801,8 @@ a).- Las instituciones públicas que realicen conjuntamente con el Instituto Nac
 
 b).- Las instituciones públicas que realicen conjuntamente con el Instituto Nacional de Antropología e Historia actividades de promoción, difusión y comercialización culturales, previa celebración de un convenio.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 288-A
@@ -23063,29 +20813,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Recinto tipo 1: $48.69 $49
 
-Recinto tipo 1: $44.88 $45
+Recinto tipo 2: $41.74 $42
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Recinto tipo 3: $34.79 $35
 
-Recinto tipo 2: $38.47 $38
+Recinto tipo 4: $27.82 $28
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Recinto tipo 5: $20.88 $21
 
-Recinto tipo 3: $32.06 $32
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-Recinto tipo 4: $25.64 $26
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-Recinto tipo 5: $19.24 $19
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-Recinto tipo 6: $12.83 $13
+Recinto tipo 6: $13.92 $14
 
 Para los efectos de este artículo se consideran:
 
@@ -23107,15 +20845,17 @@ Museo de Arte Moderno y Museo Nacional de Arquitectura.
 
 Recintos tipo 5:
 
-Museo de Arte Alvar y Carmen T. De Carrillo Gil, Museo Mural Diego Rivera, Museo de Arte Contemporáneo Internacional “Rufino Tamayo” y Laboratorio Arte Alameda.
+Museo de Arte Alvar y Carmen T. De Carrillo Gil, Museo Mural Diego Rivera, Museo de Arte Contemporáneo Internacional "Rufino Tamayo" y Laboratorio Arte Alameda.
 
 Recintos tipo 6:
 
-Museo Casa Estudio Diego Rivera y Frida Kahlo, Museo Nacional de la Estampa y Sala de Arte Público “David Alfaro Siqueiros”.
+Museo Casa Estudio Diego Rivera y Frida Kahlo, Museo Nacional de la Estampa y Sala de Arte Público "David Alfaro Siqueiros".
 
 El pago del derecho a que se refiere este precepto deberá hacerse previo al ingreso a los recintos correspondientes.
 
 No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Bellas Artes y Literatura, para realizar estudios afines a los museos, a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos los domingos.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -23127,21 +20867,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I. Museo Nacional de Culturas
 
-Populares $12.34 $12
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Populares $13.39 $13
 
 II. Museo Nacional de los Ferrocarriles
 
-Mexicanos $12.34 $12
+Mexicanos $13.39 $13
 
 El pago del derecho a que se refiere este precepto deberá hacerse previo al ingreso a los recintos correspondientes.
 
 De las 9:00 horas a las 17:00 horas, no pagarán el derecho a que se refiere este artículo las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Consejo Nacional para la Cultura y las Artes para realizar estudios afines a los museos a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho quienes accedan a los museos los domingos.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -23153,9 +20891,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I. $39.65
+I. $43.02
 
 mensuales por cada metro cuadrado
 
@@ -23169,9 +20905,7 @@ comerciales y el espacio no exceda de
 
 El pago del derecho a que se refiere esta fracción se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II. $39.49
+II. $42.85
 
 por cada metro cuadrado o fracción
 
@@ -23189,9 +20923,7 @@ previa celebración de un convenio.
 
 El pago del derecho a que se refiere esta fracción se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-III. $23.79
+III. $25.81
 
 por cada metro cuadrado o fracción
 
@@ -23207,9 +20939,7 @@ de instalaciones realizado en
 
 espacios exteriores de cualquier tipo.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-IV. $6,608.97
+IV. $7,170.73 $7,171
 
 por evento de hasta cuatro horas de
 
@@ -23221,8 +20951,6 @@ realizado en espacios cerrados, tales
 
 como salas y aulas.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 Tratándose de eventos de hasta cuatro
 
 horas de duración, incluido el tiempo
@@ -23233,11 +20961,9 @@ y accesorios, realizado en auditorios,
 
 vestíbulos, teatros experimentales y
 
-foros al aire libre, por cada uno $17,423.58 $17,424
+foros al aire libre, por cada uno $18,904.58 $18,905
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-V. $30,848.44
+V. $33,470.56 $33,471
 
 por evento de hasta cuatro horas de
 
@@ -23255,6 +20981,8 @@ Las cuotas a que se refieren las fracciones III, IV y V de este artículo se inc
 
 Para los efectos de este artículo, no estarán obligados al pago de los derechos al que el mismo se refiere las instituciones públicas que realicen conjuntamente con el Consejo Nacional para la Cultura y las Artes, eventos culturales, educativos, cívicos o de asistencia social, así como las que realicen actividades de promoción, difusión y comercialización culturales, educativas, cívicas o de asistencia social, previa celebración de un convenio.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 288-B.
@@ -23265,17 +20993,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la reproducción fotográfica,
 
 dibujo o ilustración, a cualquier
 
-escala, por pieza $1,559.55 $1,560
+escala, por pieza $1,692.11 $1,692
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+II.- Por toma de molde, por pieza $4,512.72 $4,513
 
-II.- Por toma de molde, por pieza $4,159.19 $4,159
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -23287,23 +21013,21 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Reproducción fiel del monumento
 
 independientemente de la escala y
 
-materiales $1,715.72 $1,716
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+materiales $1,861.56 $1,862
 
 II.- Reproducción basada en una
 
-versión libre del monumento $3,431.86 $3,432
+versión libre del monumento $3,723.57 $3,724
 
 Se exceptúa del pago de los derechos establecidos en este artículo a la producción artesanal, cuando el artesano cuente con el reconocimiento y registro otorgados por la autoridad competente.
 
 No pagarán los derechos establecidos en este artículo las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -23317,11 +21041,7 @@ ajuste ajuste
 
 A. Filmaciones o videograbaciones:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I.- Por día $8,927.45 $8,927
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Por día $9,686.28 $9,686
 
 II.- Por cada 30 minutos o fracción de
 
@@ -23337,13 +21057,11 @@ derechos por el uso o reproducción
 
 señalados en el artículo 288-E
 
-de esta Ley $557.84 $558
+de esta Ley $605.26 $605
 
 III.- Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 40% del monto de los derechos citados en las fracciones I y II de este apartado.
 
 B. Tomas fotográficas:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 I.- Por día en zona arqueológica, museo,
 
@@ -23351,11 +21069,13 @@ o monumento del patrimonio nacional
 
 bajo custodia de los institutos
 
-competentes $4,463.67 $4,464
+competentes $4,843.08 $4,843
 
 II.- Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 60% del monto de los derechos citados en la fracción I de este apartado.
 
 No pagarán los derechos establecidos en este artículo, las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -23369,23 +21089,19 @@ ajuste ajuste
 
 A. Filmaciones o videograbaciones:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I. Por día $8,590.25 $8,590
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I. Por día $9,320.42 $9,320
 
 II. Por día, cuando se trata de
 
-locaciones $55,527.19 $55,527
+locaciones $60,247.00 $60,247
 
 El cobro de este derecho es independiente a los que se causen por el uso o aprovechamiento de los inmuebles.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-B. Tratándose de tomas fotográficas $4,295.07 $4,295 por día.
+B. Tratándose de tomas fotográficas $4,660.15 $4,660 por día.
 
 No pagarán los derechos establecidos en este artículo las instituciones públicas que realicen conjuntamente con el Consejo Nacional para la Cultura y las Artes, eventos culturales, educativos, cívicos o de asistencia social, así como las que realicen actividades de promoción, difusión y comercialización culturales, educativas, cívicas o de asistencia social, previa celebración de un convenio.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -23397,27 +21113,25 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Instituciones públicas dedicadas
 
 a la promoción, enseñanza o
 
 investigación de la cultura, la ciencia
 
-o el arte, por fotografía $274.29 $274
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+o el arte, por fotografía $297.60 $298
 
 II.- Para instituciones o personas
 
 distintas de las señaladas en la fracción
 
-anterior, por fotografía $411.56 $412
+anterior, por fotografía $446.54 $447
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 No pagarán los derechos establecidos en este artículo, las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -23429,17 +21143,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-I.- Impreso de 1 a 1000 ejemplares $171.30 $171
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+I.- Impreso de 1 a 1000 ejemplares $185.86 $186
 
 II.- Impreso de 1001 ejemplares en
 
 adelante o publicado en soporte
 
-filmado, videograbado o digital $514.39 $514
+filmado, videograbado o digital $558.11 $558
 
 No pagarán los derechos establecidos en este artículo las autoridades competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
@@ -23453,6 +21163,8 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 ### CAPITULO XVII. Derecho por el Uso, Goce o Aprovechamiento del Espacio Aéreo Mexicano
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 289.
@@ -23463,19 +21175,17 @@ El derecho a que se refiere este artículo se calculará conforme a lo siguiente
 
 I.- Por el uso, goce o aprovechamiento del espacio aéreo mexicano que por el desplazamiento, de acuerdo a la envergadura de las aeronaves, realicen durante el vuelo en ruta, se pagará por cada kilómetro volado, conforme a la siguiente tabla:
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 Cuotas por kilómetro volado
 
 Aeronaves según envergadura Cuota
 
-Grandes $7.22
+Grandes $7.83
 
-Medianas $4.82
+Medianas $5.23
 
-Pequeñas Tipo B $1.67
+Pequeñas Tipo B $1.81
 
-Pequeñas Tipo A $0.21
+Pequeñas Tipo A $0.23
 
 El cálculo de los kilómetros volados se realizará de acuerdo a la distancia ortodrómica, conforme a lo siguiente:
 
@@ -23495,33 +21205,29 @@ Para el caso de que el contribuyente inicie operaciones o adquiera una nueva aer
 
 II.- Los contribuyentes podrán optar por pagar el derecho previsto en la fracción I de este artículo, para las aeronaves señaladas en la tabla contenida en la presente fracción, mediante una cuota única por cada vez que le sea suministrado el combustible a la aeronave de que se trate, conforme a la siguiente tabla:
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 Tipo de aeronaves Cuota
 
 Con envergadura de hasta 10.0 metros
 
-y helicópteros $96.15
+y helicópteros $104.32
 
 Con envergadura de más de 10.0 metros
 
-y hasta 11.1 metros $137.37
+y hasta 11.1 metros $149.05
 
 Con envergadura de más de 11.1 metros
 
-y hasta 16.7 metros $206.05
+y hasta 16.7 metros $223.56
 
 III.- Tratándose de las siguientes aeronaves se podrá optar por pagar el derecho a que se refiere este artículo mediante una cuota única por cada vez que les sea suministrado combustible a la aeronave de que se trate, exceptuándose los sobrevuelos, conforme a la siguiente tabla:
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 Aeronaves según envergadura Cuota
 
-Grandes $16,603.67
+Grandes $18,014.98
 
-Medianas $11,078.74
+Medianas $12,020.43
 
-Pequeñas Tipo B $3,818.84
+Pequeñas Tipo B $4,143.44
 
 Lo dispuesto en este artículo, es independiente del pago por los servicios de extensión de horario a que se refiere el artículo 150-C de esta Ley.
 
