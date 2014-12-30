@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-97235"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2013-12-31"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA 1° PRIMERO DE ENERO DE 2014, PREVIA SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Octagésima Sección, del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 31 de diciembre de 2013.
 
@@ -55,11 +53,23 @@ LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 La Hacienda Pública del Estado de Michoacán de Ocampo, para los efectos de esta Ley, se constituye entre otros aspectos, con los ingresos que perciba el Gobierno del Estado de Michoacán en cada ejercicio fiscal, por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones e incentivos en ingresos federales, aportaciones federales, apoyos extraordinarios de la Federación, transferencias federales y municipales por convenio, financiamientos y cualesquiera otros que anualmente se establezcan en la Ley de Ingresos del Estado de Michoacán, para cubrir los gastos públicos a su cargo.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+Ninguna contribución podrá recaudarse si no está prevista en la Ley de Ingresos correspondiente. Sólo podrá destinarse un ingreso a un fin específico, cuando así lo disponga expresamente este Código, la Ley de Ingresos o el Presupuesto de Egresos.
+
 ###### ARTÍCULO 2°.
 
 Las contribuciones y demás conceptos de ingreso que se regulan por este ordenamiento, deberán estar contenidas en la Ley anual de Ingresos del Estado, para sustentar su cobro y se materialice su recaudación.
 
 Para los efectos de esta Ley, en los aspectos relativos a procedimientos, infracciones, sanciones, delitos, medios de defensa y facultades de las autoridades fiscales, se aplicará lo dispuesto por el Código Fiscal del Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+Las disposiciones fiscales que establezcan cargas a las personas, incluidas las asociaciones en participación, las que señalen excepciones a las mismas, así como las que fijen las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a las personas, incluidas las asociaciones en participación las normas que se refieren al sujeto, objeto, base, tasa o tarifa de las contribuciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+A falta de norma fiscal expresa, se aplicarán las disposiciones del derecho común vigente en el Estado, siempre y cuando su aplicación no sea contraria a la naturaleza jurídica del derecho fiscal.
 
 ## TÍTULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -93,9 +103,11 @@ De los ingresos derivados de este Impuesto que obtenga el Estado, participarán 
 
 #### SECCIÓN I. DEL OBJETO Y DEL SUJETO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 6°.
 
-Es objeto del Impuesto sobre Enajenación de Vehículos de Motor Usados, la enajenación de vehículos de motor usados cuyo año modelo corresponda al de aplicación de la Ley de Ingresos del Estado y al del año posterior siguiente, así como a los nueve años modelo anteriores al de aplicación de dicha Ley, que se realicen entre personas físicas en el territorio del Estado de Michoacán.
+Es objeto del Impuesto sobre Enajenación de Vehículos de Motor Usados, la enajenación de vehículos de motor usados, que se realicen entre personas físicas en el territorio del Estado de Michoacán. Así mismo están obligadas a retener y enterar este impuesto, las personas jurídicas colectivas que reciban en consignación vehículos automotores usados y los enajenen.
 
 Se exceptúa de lo dispuesto en este artículo, la enajenación de vehículos de motor usados por la que se cause el Impuesto al Valor Agregado, así como las compras de vehículos efectuadas por empresas cuyo giro sea compraventa de vehículos automotores siempre que hayan sido adquiridos a personas físicas que no realicen actividades empresariales.
 
@@ -105,13 +117,23 @@ Para los efectos del Impuesto a que se refiere este Capítulo, se considera enaj
 
 I. Toda transmisión de la propiedad sobre vehículos de motor, aún en la que el enajenante se reserve el dominio;
 
-II. La donación;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+II. La donación y la sucesión;
 
 III. La aportación a una sociedad o asociación;
 
 IV. La dación en pago; y
 
 V. La permuta. Cuando se trate de permuta de dos o más vehículos, se considera que se realiza doble o triple enajenación, según corresponda.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+En las permutas se considerará que se efectúan dos enajenaciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+En este caso, deberán de entregar la constancia de retención correspondiente a la persona física o jurídica colectiva que adquiera el vehículo dentro de los quince días siguientes a la fecha en que se realice la enajenación, en la que se indicarán los datos del propietario anterior, el valor de la operación, el monto del impuesto retenido y los datos de identificación del vehículo.
 
 ###### ARTÍCULO 8°.
 
@@ -187,405 +209,169 @@ Los servidores públicos de la Secretaría de Finanzas y Administración, no tra
 
 Las infracciones que se cometan por los contribuyentes del Impuesto a que se refiere este Capítulo, se sancionarán conforme a lo dispuesto por el Código Fiscal del Estado de Michoacán de Ocampo.
 
+> <small>(DEROGADO CON LAS SECCIONES, SUBSECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ### CAPÍTULO III. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
 
-#### SECCIÓN I. OBJETO, SUJETO Y GENERALIDADES
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN I
 
 ###### ARTÍCULO 14.
 
-Están obligadas al pago del impuesto sobre tenencia o uso de vehículos, las personas físicas y morales tenedoras o usuarias de los vehículos a que se refiere este impuesto; que se encuentren domiciliados en el Estado de Michoacán.
-
-El impuesto referido, corresponde a aquellos vehículos de año modelo definido en este Capítulo; así como el posterior al de aplicación de la Ley de Ingresos del Estado y los de hasta nueve años anteriores al de aplicación de dicha Ley.
-
-Cuando las personas físicas y morales tenedoras o usuarias de vehículos automotores trasladen su residencia al Estado de Michoacán, y circulen con placas asignadas en otras entidades federativas, y que consecuentemente hayan pagado el Impuesto correspondiente en esa otra Entidad Federativa, o estén exentos de su pago, no estarán obligadas a realizar dicho pago.
-
-Lo establecido en el párrafo anterior, procederá únicamente por lo que se refiere al Ejercicio Fiscal en que las personas físicas o morales hayan pagado dicho impuesto, antes de trasladarse al Estado de Michoacán; en caso de no haberlo realizado, deberán pagar el correspondiente al presente ejercicio fiscal y los posteriores, en esta Entidad Federativa.
-
-Para los efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 15.
 
-Los contribuyentes pagarán el impuesto por año de calendario durante los cuatro primeros meses ante las oficinas autorizadas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circulación en traslado o alta del vehículo.
-
-El impuesto se pagará en las oficinas recaudadoras que la Secretaría de Finanzas y Administración del Estado autorice el registro, alta del vehículo o expida el permiso provisional para circulación en traslado, de dicho vehículo. También se puede realizar dicho pago a través de los medios electrónicos en los sitios de Internet o en las sucursales de las instituciones financieras autorizadas por ésta.
-
-Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas correspondientes al domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público, o en la Secretaría de Finanzas y Administración. Los contribuyentes de este impuesto no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos del registro federal o estatal de contribuyentes.
-
-Los importadores ocasionales efectuarán el pago de este impuesto, correspondiente al primer año de calendario en la aduana respectiva en el momento en que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado, o en el caso de importación temporal al convertirse en definitiva. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el párrafo segundo de este artículo.
-
-Las personas físicas o morales cuya actividad sea la enajenación al público de vehículos nuevos o importados, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el primer párrafo de este artículo.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 16.
 
-En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de la Ley de Ingresos del Estado, se pagará la contribución correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
-
-En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto se pagará como si éste fuese nuevo.
-
-Dicho impuesto se pagará simultáneamente, con los derechos que establece el artículo 62 de esta Ley.
-
-Las infracciones que se cometan por los contribuyentes del impuesto a que se refiere este Capítulo, se sancionarán conforme a lo dispuesto por el Código Fiscal del Estado de Michoacán de Ocampo.
-
-El contribuyente que con posterioridad a la fecha de pago del impuesto a que se refiere este Capítulo, compruebe que realizó algún pago indebido en exceso, podrá solicitar la devolución de la cantidad pagada indebidamente.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 17.
 
-De los ingresos derivados de este impuesto que obtenga el Estado, participarán los municipios con un 20%; distribuyéndoseles lo que a cada uno corresponda, conforme a lo dispuesto por la Ley de Coordinación Fiscal del Estado de Michoacán de Ocampo.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 18.
 
-Cuando la enajenación o importación de automóviles o vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año, determinado conforme a lo establecido por los artículos 24, 27 y 29 de esta Ley, según corresponda, se pagará en la proporción que resulte de aplicar el factor siguiente:
-
-Mes de Adquisición Factor aplicable al Impuesto
-
-causado
-
-Febrero 0.92
-
-Marzo 0.83
-
-Abril 0.75
-
-Mayo 0.67
-
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-Octubre 0.25
-
-Noviembre 0.17
-
-Diciembre 0.08
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 19.
 
-Para efectos de este impuesto, se entiende por:
-
-I. Automóviles: A los omnibuses, camiones, camionetas y tractores no agrícolas tipo quinta rueda;
-
-II. Motocicleta: A las motocicletas, mototriciclos, motocarros y cuatrimotos, entre otras;
-
-III. Vehículo nuevo:
-
-A) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos; y,
-
-B) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de la Ley de Ingresos del Estado, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
-
-IV. Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía, como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del Impuesto al Valor Agregado.
-
-En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 20.
 
-Para los efectos de este impuesto se considera como:
-
-I. Marca: Las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás;
-
-II. Año Modelo: El año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1° de octubre del año anterior y el 30 de septiembre del año que transcurra;
-
-III. Modelo: Todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos;
-
-IV. Versión: Cada una de las distintas presentaciones comerciales que tiene un modelo;
-
-V. Línea:
-
-A) Automóviles con motor de gasolina o gas hasta de 4 cilindros;
-
-B) Automóviles con motor de gasolina o gas de 6 u 8 cilindros;
-
-C) Automóviles con motor diesel;
-
-D) Camiones con motor de gasolina, gas o diesel;
-
-E) Tractores no agrícolas tipo quinta rueda;
-
-F) Autobuses integrales; y,
-
-G) Automóviles eléctricos.
-
-VI. Comerciantes en el ramo de vehículos: A las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 21.
 
-Las dependencias, coordinaciones, entidades y organismos descentralizados de la Administración Pública del Estado, organismos autónomos, los municipios, o cualquier otra persona física o moral que se encuentren domiciliados en el Estado de Michoacán, deberán pagar el impuesto, con las excepciones que en este Capítulo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos estatales y federales, o estén exentos de ellos.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 22.
 
-Son solidariamente responsables del pago del impuesto:
-
-I. Quienes por cualquier titulo, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto;
-
-II. Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera; y,
-
-III. Las autoridades de la Secretaría de Finanzas y Administración competentes, que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matriculas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
-
-Las autoridades de la Secretaría de Finanzas y Administración competentes, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el Estado de Michoacán.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 23.
 
-Los contribuyentes comprobarán el pago del impuesto con el original de la forma por medio de la cual lo hayan efectuado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
-#### SECCIÓN II. BASE Y TASA PARA AUTOMÓVILES
+> <small>(DEROGADA CON LA SUBSECCIÓN Y ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN II
 
 ###### ARTÍCULO 24.
 
-Tratándose de automóviles, ómnibus, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
-I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
-
-Tasa para
-
-Límite Límite Cuota aplicarse sobre
-
-Inferior Superior Fija el excedente del
-
-límite inferior
-
-$ $ $ %
-
-0.01 428,768.31 0.00 3.0
-
-428,768.32 825,140.79 12,863.05 8.7
-
-825,140.80 1,109,080.70 47,347.45 13.3
-
-1,109,080.71 1,393,020.60 85,111.46 16.8
-
-1,393,020.61 En adelante 132,813.36 19.1
-
-Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80;
-
-II. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a quince toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados «taxis», el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil. Cuando el peso bruto vehicular sea de quince a treinta y cinco toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre treinta. En el caso de que el peso sea mayor de treinta y cinco toneladas se tomará como peso bruto máximo vehicular esta cantidad.
-
-Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable; y,
-
-III. Tratándose de automóviles de más de diez años modelo anterior al de aplicación de la Ley de Ingresos del Estado, el impuesto se pagara a la tasa del 0%.
-
-Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de quince pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 SUBSECCIÓN ÚNICA
-
-DE LAS EXCENCIONES
 
 ###### ARTÍCULO 25.
 
-No se pagará el impuesto, en los términos de esta Sección, por la tenencia o uso de los siguientes vehículos:
-
-I. Los importados temporalmente en los términos de la legislación aduanera;
-
-II. Los vehículos de la Federación, del Estado, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos; y,
-
-III. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los quince días siguientes a aquel en que tenga lugar el hecho de que se trate.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 26.
 
-Los tenedores o usuarios de los vehículos a que se refieren las fracciones I y II del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas y Administración que se encuentran comprendidos en dichos supuestos.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
-#### SECCIÓN III. BASE Y TASA PARA MOTOCICLETAS
+> <small>(DEROGADA CON LA SUBSECCIÓN Y ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN III
 
 ###### ARTÍCULO 27.
 
-Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
-Tasa para
-
-Límite Límite Cuota aplicarse sobre
-
-Inferior Superior Fija el excedente del
-
-límite inferior
-
-$ $ $ %
-
-0.01 200,000.00 0.00 3.0
-
-200,000.01 275,046.93 6,000.00 8.7
-
-275,046.94 369,693.57 12,529.08 13.3
-
-369,693.58 En adelante 25,117.08 16.8
-
-Tratándose de motocicletas de más de diez años modelos anteriores al de aplicación de la Ley de Ingresos del Estado, el impuesto se pagará a la tasa del 0%.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 SUBSECCIÓN ÚNICA
-
-DE LAS EXCENCIONES
 
 ###### ARTÍCULO 28.
 
-No se pagará el impuesto en los términos de lo dispuesto en esta Sección, por la tenencia o uso de de (sic) los vehículos referidos en artículo 25 de este impuesto. Para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas y Administración que se encuentran comprendidos en dichos supuestos.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
-#### SECCIÓN IV. BASE Y TASA PARA AUTOMÓVILES ELÉCTRICOS
+> <small>(DEROGADA CON LA SUBSECCIÓN Y ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN IV
 
 ###### ARTÍCULO 29.
 
-Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto será la cantidad que resulte de aplicar al valor total del automóvil el 0.16%.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
-Para los efectos de este artículo, el impuesto únicamente será aplicable a aquellas unidades que para su circulación requieran de placas y tarjeta de circulación expedidas por la Secretaría de Finanzas y Administración.
-
-Tratándose de los vehículos antes señalados, de más de diez años modelos anteriores al de aplicación de la Ley de Ingresos del Estado, el impuesto se pagará a la tasa del 0%.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 SUBSECCIÓN ÚNICA
 
-DE LAS EXCENCIONES
-
 ###### ARTÍCULO 30.
 
-No se pagará el impuesto en los términos de lo dispuesto por esta sección, por la tenencia o uso de los vehículos referidos en (sic) artículo 25 de este Capítulo. Para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas y Administración que se encuentran comprendidos en dichos supuestos.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
-#### SECCIÓN V. DE LA ACTUALIZACIÓN
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+#### SECCIÓN V
 
 ###### ARTÍCULO 31.
 
-Para los efectos de lo dispuesto en los artículos 24, 27 y 29 de este impuesto, los montos de las cantidades que en los mismos se señalan se actualizarán en el mes de enero de cada año, aplicando el factor correspondiente al periodo comprendido desde noviembre del penúltimo año, hasta el mes de noviembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con lo dispuesto por el artículo 17-A del Código Fiscal de la Federación.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
-El factor determinado, conforme a lo dispuesto por el párrafo anterior, deberá calcularse hasta el diezmilésimo.
+> <small>(DEROGADA CON LAS SUBSECCIONES Y ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
-#### SECCIÓN VI. DE LOS VEHÍCULOS USADOS
+#### SECCIÓN VI
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 SUBSECCIÓN I
 
-VEHÍCULO (SIC) USADOS DE FABRICACIÓN NACIONAL O IMPORTADOS, DESTINADOS AL TRANSPORTE DE HASTA QUINCE PASAJEROS
-
 ###### ARTÍCULO 32.
 
-Tratándose de vehículos de fabricación nacional o importados, de hasta nueve años modelo anteriores al de aplicación de la Ley de Ingresos del Estado, referidos en el artículo 24, fracción II, y 29 de este Capítulo, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
-TABLA
-
-Años de antigüedad Factor de Depreciación
-
-1 0.900
-
-2 0.889
-
-3 0.875
-
-4 0.857
-
-5 0.833
-
-6 0.800
-
-7 0.750
-
-8 0.667
-
-9 0.500
-
-El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 31 de este Capítulo.
-
-Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 SUBSECCIÓN II
 
-VEHÍCULOS USADOS CON CAMBIO DE MODALIDAD DE SERVICIO
-
 ###### ARTÍCULO 33.
 
-Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados «taxis», de hasta nueve años modelo anteriores al de aplicación de la Ley de Ingresos del Estado, el impuesto estatal sobre tenencia o uso de vehículos se calculará, para el Ejercicio Fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
-
-I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en el artículo 32 de este Capítulo; y,
-
-II. La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el artículo 31 de este Capítulo; el resultado obtenido se multiplicará por 0.245%.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 34.
 
-Tratándose de automóviles de servicio público de transporte denominados «taxis» que pasen a ser de servicio particular, de hasta nueve años modelos anteriores al de aplicación de la Ley de Ingresos del Estado, el Impuesto Sobre Tenencia o Uso de Vehículos se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al procedimiento establecido en el artículo 35 siguiente.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 SUBSECCIÓN III
 
-VEHÍCULOS USADOS DE FABRICACIÓN NACIONAL O IMPORTADOS, DESTINADOS AL TRANSPORTE DE HASTA QUINCE PASAJEROS
-
 ###### ARTÍCULO 35.
 
-Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años modelo anteriores al de aplicación de la Ley de Ingresos del Estado, destinados al transporte de hasta quince pasajeros, referidos en el artículo 24, fracción I de este Capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
-I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
-
-TABLA
-
-Años de antigüedad Factor de Depreciación
-
-1 0.850
-
-2 0.725
-
-3 0.600
-
-4 0.500
-
-5 0.400
-
-6 0.300
-
-7 0.225
-
-8 0.150
-
-9 0.075
-
-II. La cantidad obtenida conforme a la fracción anterior, se actualizará de conformidad con lo dispuesto en el artículo 31 de esta Ley; al resultado se le aplicará la tarifa a que hace referencia el artículo 24 de este Capítulo.
-
-Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 SUBSECCIÓN IV
 
-MOTOCICLETAS DE FABRICACIÓN NACIONAL O IMPORTADAS
-
 ###### ARTÍCULO 36.
 
-Tratándose de motocicletas de fabricación nacional o importadas, de hasta nueve años modelo anteriores al de aplicación de la Ley de Ingresos del Estado, el impuesto será el que resulte de aplicar el procedimiento siguiente: El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
-TABLA
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
-Años de antigüedad Factor de Depreciación
-
-1 0.9
-
-2 0.8
-
-3 0.7
-
-4 0.6
-
-5 0.5
-
-6 0.4
-
-7 0.3
-
-8 0.2
-
-9 0.1
-
-A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hace referencia el artículo 27 de esta Ley.
-
-Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
-
-#### SECCIÓN VII. OBLIGACIONES
+#### SECCIÓN VII
 
 ###### ARTÍCULO 37.
 
-Cuando las autoridades fiscales embarguen precautoriamente vehículos por tenencia ilegal en el país de los mismos, en ejercicio de las facultades establecidas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal, el Estado percibirá como incentivo el 100% de dichos vehículos u otros con un valor equivalente, excepto automóviles deportivos y de lujo, una vez que hayan sido adjudicados definitivamente al fisco federal y cause ejecutoria la resolución respectiva. También percibirán el 100% de las multas efectivamente pagadas y que hayan quedado firmes.
-
-El Estado percibirá el 95% del producto neto de la enajenación de los vehículos que les hayan sido otorgados en los términos del párrafo anterior, siempre y cuando éstos estén inutilizados permanentemente para la circulación. Dicha enajenación se hará conforme a las reglas de carácter general que establezca la Secretaría de Hacienda y Crédito Público.
-
-El Registro Estatal Vehicular a que se refiere el artículo 68 de esta Ley, se integrará con datos de los vehículos de los contribuyentes que porten placas de la circunscripción territorial del Estado, que serán como mínimo: marca, modelo, año modelo, número de cilindros, origen o procedencia, número de motor, número de chasis, número de placas y año fiscal que cubre el impuesto a que se refiere este Capítulo, así como los datos correspondientes al contribuyente: nombre o razón social, domicilio, código postal y, en su caso, el Registro Estatal y/o Federal de Contribuyentes. El Registro Estatal Vehicular estará conectado a los medios o sistemas que para efectos de intercambio de información determine la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general o por cualquier otra dependencia federal, o entidad federativa con quien se suscriba el convenio respectivo.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 38.
 
-Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, domiciliados en el Estado de Michoacán tendrán la obligación de proporcionar a la Secretaría de Hacienda y Crédito Público, y a la Secretaría de Finanzas y Administración del Estado, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en territorio del Estado en el mes inmediato anterior, a través de dispositivos electromagnéticos procesados en los términos que señale la Secretaría de Finanzas y Administración. Los que tengan más de un establecimiento, deberán presentar la información a que se refiere este artículo, haciendo la separación por cada uno de los establecimientos y por cada Municipio.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 39.
 
-El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración constituirá un programa mediante el cual se otorgará subsidio fiscal del 100% en el pago del Impuesto Sobre Tenencia o Uso de Vehículos a las personas físicas y morales sujetas de este Impuesto, que se encuentren al corriente en todas las contribuciones estatales relacionadas con la tenencia de su vehículo, así como del Impuesto Sobre Tenencia o Uso de Vehículos «Federal», y que además cumplan con las disposiciones reglamentarias que al efecto emita dicha Secretaría de Finanzas y Administración.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ### CAPÍTULO IV. DEL IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE
 
@@ -661,19 +447,23 @@ El incumplimiento de las obligaciones a que se refiere este Capítulo, se sancio
 
 ###### ARTÍCULO 47.
 
-De los recursos que se obtengan de la recaudación de este impuesto, se destinará el 90% a la realización de acciones de promoción y desarrollo de la actividad turística del Estado, que se aplicarán a través de un fideicomiso que se constituya en los términos que disponga el titular del Ejecutivo Estatal, en el que participarán los prestadores de los servicios objeto de este impuesto, a través de los dirigentes de la organización empresarial que legalmente los agrupe.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ### CAPÍTULO V. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIÓN AL TRABAJO PERSONAL, PRESTADO BAJO LA DIRECCIÓN Y DEPENDENCIA DE UN PATRÓN
 
 #### SECCIÓN I. DEL OBJETO Y DEL SUJETO
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 48.
 
-Las personas físicas y morales que realicen dichas erogaciones, dentro del territorio del Estado, están obligadas al pago del Impuesto sobre Erogaciones por Remuneración al Trabajo Personal Prestado Bajo la Dirección y Dependencia de un Patrón.
+Están obligados al pago del Impuesto sobre Erogaciones por Remuneración al Trabajo Personal Prestado Bajo la Dirección y Dependencia de un Patrón, las personas físicas y morales, así como las Asociaciones en Participación, que realicen dichas erogaciones, dentro del territorio del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 49.
 
-Quedan comprendidos entre los obligados a que se refiere el artículo 48 de esta Ley, las personas físicas y morales que realicen el pago de las remuneraciones afectas a este Impuesto en la Entidad, aún cuando para efectos distintos tengan su domicilio en otra Entidad federativa.
+Quedan comprendidos entre los obligados a que se refiere el artículo 48 de esta Ley, las personas físicas y morales incluidas las asociaciones en participación, que realicen el pago de las remuneraciones afectas a este Impuesto en la Entidad, aun cuando para efectos distintos tengan su domicilio en otra Entidad federativa.
 
 ###### ARTÍCULO 50.
 
@@ -843,7 +633,9 @@ I. La expedición original de placas de circulación para los vehículos, dentro
 
 II. El refrendo anual de calcomanía de circulación:
 
-A) Para vehículos cuyo modelo corresponda a los diez últimos años, incluido el de aplicación de la Ley de Ingresos del Estado, dentro de los primeros tres meses del año de calendario de que se trate; y,
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+A) Para vehículos cuyo modelo corresponda a los diez últimos años, incluido el de aplicación de la Ley de Ingresos del Estado, dentro de los cuatro primeros meses del año de calendario de que se trate; y,
 
 B) Para vehículos cuyo modelo corresponda a más de diez años anteriores al de aplicación de la Ley de Ingresos del Estado, dentro de los primeros cuatro meses del año de que se trate.
 
@@ -916,6 +708,16 @@ El pago de los derechos a que se refiere este título, se efectuará en las ofic
 Por lo que se refiere a los servicios de Catastro, por concepto de mediciones y deslindes, determinación de la ubicación física de predios y sobre información de interés particular referente a predios registrados, se pagará el 50% de los derechos que se causen conforme a la Ley de Ingresos del Estado, para el ejercicio de que se trate, en la fecha en que se solicite el servicio y, el 50% restante, en la fecha en que se entregue el documento catastral que corresponda.
 
 Por lo que se refiere a los servicios de Catastro por concepto de registro de predios ignorados y registro de excedencias de superficie, los derechos se pagarán en la fecha en que se inscriba la resolución relativa.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 70-A.
+
+Cuando el pago de los derechos se haya efectuado por el contribuyente y no sea prestado por alguna eventualidad sustantiva, incapacidad técnica o material, se procederá en su caso, a la devolución de la contribución enterada, no siendo obligatoria la prestación del servicio para la autoridad.
+
+Para efectos del párrafo anterior, se tendrá como base para que se compute la prescripción, la fecha en la que la autoridad informe por escrito al contribuyente la imposibilidad de la prestación del servicio correspondiente, lo cual en ningún caso generará interés ni accesorio legal alguno.
+
+Una vez realizado el pago de los derechos el contribuyente o retenedor deberá de efectuar su trámite ante la autoridad prestadora del servicio a más tardar en un plazo de treinta días.
 
 ### CAPÍTULO VII. DE LAS EXENCIONES
 
@@ -1140,3 +942,23 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 30 treinta días del mes de diciembre del año 2013 dos mil trece.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO.- LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de enero del año 2015, previa su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+La extinción del Fideicomiso del Programa Promoción de la Actividad Turística del Estado de Michoacán, (FIPROTUR-MICHOACÁN), para el Desarrollo de las Actividades Turísticas, estará a cargo de la Secretaría de Finanzas y Administración, Secretaría de Turismo y Coordinación de Contraloría, quienes realizarán las actividades correspondientes a partir del día 5 de enero del año 2015.
+
+###### ARTÍCULO TERCERO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO CUARTO.
+
+Las obligaciones y los derechos derivados del Impuesto sobre Tenencia o Uso de Vehículos que se deroga en la Ley de Hacienda del Estado de Michoacán de Ocampo, a través de este Decreto, que hubieran nacido durante su vigencia, por la realización de las situaciones jurídicas o de hecho previstas en dicha Ley, deberán cumplirse conforme a los montos, formas y plazos establecidos en dicho ordenamiento.
