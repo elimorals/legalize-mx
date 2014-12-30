@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2014-11-28"
+last_updated: "2014-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2014.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -487,7 +487,11 @@ III. Por lista de acuerdos, cuando así lo solicite la parte interesada, no cons
 
 > <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
-IV. Por estrados ubicados en las oficinas de la Administración Pública abiertas al público, cuando la persona a quien deba notificarse se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales, manteniendo cerrado el local donde tenga su domicilio fiscal, se oponga a la diligencia de notificación o desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio. Al efecto, se fijará en los estrados durante cinco días consecutivos el documento que se notifica. En estos casos, se tendrá por practicada la notificación el día en que se hubiere fijado por última vez el documento;
+IV. Por estrados ubicados en las oficinas de la Administración Pública abiertas al público, cuando la persona a quien deba notificarse se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales, manteniendo cerrado el local donde tenga su domicilio fiscal, se oponga a la diligencia de notificación o desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio. Al efecto, se fijará en los estrados durante cinco días consecutivos el documento que se notifica. En estos casos, se tendrá por practicada la notificación el día en que se hubiere fijado por última vez el documento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+En el caso de las notificaciones por estrados, el documento o resolución se deberá publicar también en la página electrónica de la Dependencia que corresponda durante el mismo plazo señalado en el párrafo anterior y surtirá los mismos efectos que la versión física publicada.
 
 > <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
@@ -1930,6 +1934,12 @@ En caso de que en las cuentas de los depósitos o seguros a que se refiere el pr
 La entidad financiera o la sociedad cooperativa de ahorro y préstamo informará a la autoridad fiscal a que se refiere el primer párrafo de este artículo, el incremento de los depósitos por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente, en tanto no se efectúe la transferencia de depósitos a la cuenta de la Tesorería de la Secretaría de Finanzas y Planeación del Estado de Veracruz de Ignacio de la Llave.
 
 Si al transferirse el importe al Fisco Estatal el contribuyente considera que éste es superior al crédito fiscal, deberá demostrar tal hecho ante el superior jerárquico de la autoridad fiscal ejecutora, con prueba documental suficiente, para que dicha autoridad proceda a la devolución de la cantidad transferida en exceso en términos del artículo 45 fracción II y 46 del Código Financiero para el Estado de Veracruz de Ignacio de la Llave, en un plazo no mayor de veinte días. Si a juicio de la autoridad fiscal, las pruebas no son suficientes, se lo notificará al interesado haciéndole saber que puede hacer valer el recurso de revocación correspondiente.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 199 Ter.
+
+En el caso de créditos fiscales estatales, la autoridad fiscal solicitará a las instituciones de crédito información de cuentas bancarias de contribuyentes deudores, así como su aseguramiento, inmovilización y, en su caso, transferencia de saldos.
 
 ###### Artículo 200.
 
@@ -3856,3 +3866,9 @@ NOVENO. Las Comisiones y en su caso los respectivos Comités de los Servicios Pr
 DÉCIMO. Se derogan los artículos 259 Bis, 259 Ter, 259 Quater, 259 Quinquies, 259 Sexies, 259 Septies y 259 Octies relativos al Procedimiento Administrativo para los Integrantes de las Instituciones de Seguridad Pública del Estado y de los municipios, del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
 
 DÉCIMO PRIMERO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
