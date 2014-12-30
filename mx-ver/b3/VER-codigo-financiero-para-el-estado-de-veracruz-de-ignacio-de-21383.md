@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2014-07-16"
+last_updated: "2014-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERÁN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2014.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -361,7 +361,9 @@ Los titulares de los órganos desconcentrados y demás servidores públicos que,
 
 Los servidores públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias estarán obligados a guardar absoluta reserva y confidencialidad en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva y confidencialidad no comprenderá los casos que señalen las disposiciones legales correspondientes.
 
-No obstante lo anterior, la información relativa a los adeudos fiscales de los contribuyentes que queden firmes, podrá darse a conocer por las autoridades fiscales a las sociedades de información crediticia que operen, de conformidad con la Ley para Regular las Sociedades de Información Crediticia y demás disposiciones aplicables, sea que estos adeudos emanen de contribuciones locales o de contribuciones federales coordinadas. A efecto de la correcta y debida aplicación de la facultad prevista en este párrafo, la Secretaría podrá solicitar o auxiliarse de la colaboración que brinden las autoridades federales.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+No obstante lo anterior, la información relativa a los adeudos fiscales de los contribuyentes que queden firmes, a cargo de los contribuyentes y de los responsables solidarios a que se refiere el artículo 30 de este mismo ordenamiento, podrá darse a conocer por las autoridades fiscales a las sociedades de información crediticia que operen, de conformidad con la Ley para Regular las Sociedades de Información Crediticia y demás disposiciones aplicables, sea que estos adeudos emanen de contribuciones locales o de contribuciones federales coordinadas. A efecto de la correcta y debida aplicación de la facultad prevista en este párrafo, la Secretaría podrá solicitar o auxiliarse de la colaboración que brinden las autoridades federales.
 
 Mediante acuerdo de intercambio recíproco de información, suscrito por el titular de la Secretaría, se podrá suministrar la información a las autoridades fiscales de otras entidades federativas o del Gobierno Federal, siempre que se pacte o acuerde que la misma sólo se utilizará para efectos fiscales y se guardará el secreto fiscal correspondiente.
 
@@ -486,6 +488,10 @@ XIV. Los servidores públicos, magistrados, jueces, secretarios de acuerdos, not
 > <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 XV. Los contadores públicos autorizados para emitir los dictámenes previstos en este código, respecto de las diferencias detectadas por las autoridades fiscales, que no hayan sido consignadas en el dictamen correspondiente; y
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría contará con un registro único de contadores públicos autorizados para dictaminar impuestos estatales; y
 
 > <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -1047,6 +1053,12 @@ I. Alta en el Registro Estatal de Contribuyentes, de un vehículo nuevo, usado, 
 
 II. Baja en el Registro Estatal de Contribuyentes de un vehículo; por cambio de propietario, siniestro, robo, inutilidad del vehículo, cambio de servicio, cambio a otra entidad federativa, por solicitud de canje de placas, destrucción de calcomanía numeral, pérdida de una o de las dos placas y de vehículos registrados en otra entidad federativa.
 
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+II. BIS.- Aviso de enajenación de vehículo, sin previa baja o cambio de propietario.
+
+La Secretaría fijará mediante reglas generales el procedimiento por el medio del cual trasmitirán al nuevo propietario las obligaciones fiscales correspondientes al vehículo enajenado, cuidando en todo momento que quede debidamente garantizado el interés fiscal.
+
 III. Reposición de tarjeta de circulación por robo, extravío o deterioro de la misma;
 
 IV. Cambios en el Registro Estatal de Contribuyentes que implican la reexpedición de tarjeta de circulación en los casos de cambio de propietario, de domicilio, de motor, de color, de uso de capacidad o de combustible;
@@ -1143,17 +1155,19 @@ La solicitud de condonación de multas en los términos de este artículo, no co
 
 Tratándose de la presentación de declaraciones o avisos cuando por diferentes contribuciones se deba presentar una misma forma oficial y se omita hacerlo por alguna de ellas, se aplicará una multa por cada contribución no declarada u obligación no cumplida.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 69.
 
 Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
 
-I. Del 50% al 69% de las contribuciones omitidas, actualizadas, cuando el infractor las pague junto con sus accesorios antes de la notificación de la resolución que determine el monto de la contribución que omitió.
+I. Del 50% al 69% de las contribuciones omitidas, actualizadas, cuando el infractor las pague junto con sus accesorios antes de la notificación de la resolución que determine el monto de la contribución que omitió; y
 
 II. Del 70% al 100% de las contribuciones omitidas, actualizadas, en los demás casos.
 
 Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos de la fracción I de este artículo, aplicarán el porcentaje que corresponda en los términos de la fracción II sobre el remanente no pagado de las contribuciones.
 
-El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto.
+Si el infractor paga las contribuciones omitidas o devuelve el beneficio indebido con sus accesorios dentro de los 15 días siguientes a la fecha en la que surta efectos la notificación de la resolución respectiva, la multa se reducirá en un 50% del monto de las contribuciones omitidas. Para aplicar la reducción contenida en este párrafo, no se requerirá modificar la resolución que impuso la multa.
 
 ###### Artículo 70.
 
@@ -1265,11 +1279,11 @@ III. Exigir una prestación que no esté prevista en las disposiciones fiscales,
 
 La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 10 a 100 días de salario mínimo.
 
-> <small>(ADICIONADO, G.O. 6 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 78 Bis.
 
-En el caso de que las multas a que se refiere este capítulo sean pagadas dentro de los quince días siguientes a la fecha en se notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte una nueva resolución.
+En el caso de que las multas a que se refiere este capítulo sean pagadas dentro de los quince días siguientes a la fecha en que se notifique al infractor la resolución por la cual se le imponga la sanción o el contribuyente se autocorrija en forma total a satisfacción de la autoridad, la multa se reducirá en un 50% de su monto, sin necesidad de que la autoridad que la impuso dicte una nueva resolución.
 
 ## TÍTULO QUINTO. DE LOS DELITOS FISCALES
 
@@ -1531,7 +1545,9 @@ I. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al t
 
 II. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al trabajo personal, por los servicios prestados dentro del territorio del Estado, aun cuando los prestadores del servicio o los beneficiarios del mismo, o ambos, tengan su domicilio fuera de la Entidad.
 
-Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal, ya sea subordinado o no, los sueldos y salarios, los cuales se integran con los pagos hechos en efectivo por cuota diaria; gratificaciones, percepciones, habitación, primas, comisiones, prestaciones en especie; los honorarios profesionales, emolumentos; contraprestaciones contractuales, cuando el contrato tenga como objeto la prestación de un servicio; los pagos a los administradores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de sociedades o asociaciones como remuneración a dichos cargos; los pagos realizados a fiduciarios como remuneración a sus servicios; los pagos por concepto de servicios personales; y cualquier otra de la misma naturaleza que las anteriores, con independencia de la denominación que reciba. Lo anterior, sin perjuicio de las excepciones señaladas en el artículo 103 de este Código.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal, ya sea subordinado o no, los sueldos y salarios, los cuales se integran con los pagos hechos en efectivo por cuota diaria; gratificaciones, percepciones, habitación, primas, comisiones, prestaciones en especie; los honorarios profesionales, emolumentos; aportaciones del patrón al fondo de ahorro constituido a favor de sus trabajadores; contraprestaciones contractuales, cuando el contrato tenga como objeto la prestación de un servicio; los pagos a los administradores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de sociedades o asociaciones como remuneración a dichos cargos; los pagos realizados a fiduciarios como remuneración a sus servicios; los pagos por concepto de servicios personales; y cualquier otra de la misma naturaleza que las anteriores, con independencia de la denominación que reciba. Lo anterior, sin perjuicio de las excepciones señaladas en el artículo 103 de este Código.
 
 En el caso de la fracción I de este artículo, las personas físicas o morales que contraten la prestación de servicios con personas domiciliadas dentro o fuera del territorio del Estado, cuando ello implique la contratación de trabajadores y el servicio personal se preste en los términos de dicha fracción, estarán obligadas a retener y enterar el impuesto de conformidad con lo previsto en el presente Capítulo. En este caso, se deberá proporcionar constancia de retención por parte de la persona que realizó la contratación.
 
@@ -1597,7 +1613,9 @@ Se exceptúan del pago del Impuesto Sobre Erogaciones por Remuneraciones al Trab
 
 I. Las erogaciones que se efectúen por concepto de:
 
-a) Aportaciones del patrón al fondo de ahorro constituido a favor de sus trabajadores, ayuda o vales para despensa y vales de restaurantes, alimentación, pagos de membresías o mantenimiento de clubes sociales o deportivos, pago de colegiaturas y becas para trabajadores o para sus hijos, seguro de vida, seguro de gastos médicos mayores, gastos y honorarios médicos y arrendamiento financiero de vehículos para los trabajadores.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+a) Ayuda o vales para despensa y vales de restaurantes, alimentación, pagos de membrecías o mantenimiento de clubes sociales o deportivos, pago de colegiaturas y becas para trabajadores o para sus hijos, seguro de vida, seguro de gastos médicos mayores, gastos y honorarios médicos y arrendamiento financiero de vehículos para los trabajadores.
 
 b) Indemnizaciones por la rescisión o terminación de la relación laboral.
 
@@ -1687,13 +1705,21 @@ Tratándose de empresas de nueva creación, las personas morales y las personas 
 
 II. Presentar ante la Oficina de Hacienda del Estado que corresponda a la jurisdicción de su domicilio fiscal, los avisos establecidos en el artículo 60 del presente Código; dentro del plazo de 15 días siguientes al en que ocurra cualquiera de estos supuestos.
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2014)</small>
 
-III. Dictaminar la determinación y pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal por medio de contador público autorizado, a más tardar en el mes de julio de cada ejercicio, de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales; y
+III. Dictaminar la determinación y pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal por medio de contador público autorizado, a más tardar en el último día hábil del mes de julio de cada ejercicio.
 
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+Los contribuyentes obligados a dictaminarse, así como los voluntarios, deberán presentar el aviso correspondiente a más tardar el 30 de abril del ejercicio posterior al que se dictamina, el aviso.
 
-IV. Proporcionar a las autoridades fiscales, la información a la que se encuentren obligados, a través de los medios autorizados por la Secretaría.
+El incumplimiento en los plazos señalados en los dos párrafos anteriores, motivará la aplicación de las sanciones establecidas en el artículo 73 fracción I, incisos b) y c) respectivamente, de este Código.
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+IV. Proporcionar a las autoridades fiscales, la información a la que se encuentren obligados, a través de los medios autorizados por la Secretaría; y
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+V. Presentar ante la autoridad fiscal la información que contenga los datos de todas las personas que le prestaron servicios en el formato oficial en el mes de febrero del siguiente año.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2005)</small>
 
@@ -1797,9 +1823,13 @@ V. Llevar y conservar los registros contables o administrativos exigidos por la 
 
 VI. Proporcionar a la autoridad fiscal del Estado, cuando así lo solicite, la contabilidad, los avisos, declaraciones, datos, documentos e informes relacionados con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
 
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2014)</small>
 
-VII. Dictaminar la determinación y pago del Impuesto por la Prestación de Servicios de Hospedaje por medio de contador público autorizado, a más tardar en el mes de julio de cada ejercicio, de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales; y
+VII. Dictaminar la determinación y pago del Impuesto por la Prestación de Servicios de Hospedaje por medio de contador público autorizado, a más tardar en el último día hábil del mes de julio de cada ejercicio.
+
+Los contribuyentes obligados a dictaminarse, así como los voluntarios, deberán presentar el aviso correspondiente a más tardar el 30 de abril del ejercicio posterior al que se dictamina, el Aviso.
+
+El incumplimiento de las obligaciones señaladas en los dos párrafos anteriores, motivará la aplicación de las sanciones establecidas en el artículo 73 fracción I, incisos b) y c) respectivamente de este Código; y
 
 > <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -1907,7 +1937,13 @@ f) Conservar a disposición de las autoridades fiscales y exhibir cuando se les 
 
 g) Si los premios ofrecidos consisten en bienes distintos de dinero, señalarán en moneda nacional el valor de los mismos;
 
-h) Dictaminar la determinación y pago de este impuesto, por medio de contador público autorizado, a más tardar en el mes de julio de cada ejercicio, de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales; e
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+h) Dictaminar la determinación y pago de este impuesto, por medio de contador público autorizado, más tardar en el último día hábil del mes de julio de cada ejercicio.
+
+Los contribuyentes obligados a dictaminarse, así como los voluntarios, deberán presentar el aviso correspondiente a más tardar el 30 de abril del ejercicio posterior al que se dictamina, el Aviso.
+
+El incumplimiento en los plazos señalados en los dos párrafos anteriores, motivará la aplicación de las sanciones establecidas en el artículo 73 fracción I, incisos b) y c) respectivamente de este Código;
 
 i) Proporcionar a las autoridades fiscales, la información solicitada por éstas, a través de los medios autorizados por la Secretaría.
 
@@ -2167,7 +2203,9 @@ e). Tractores no agrícolas tipo quinta rueda.
 
 f). Autobuses integrales.
 
-g). Automóviles eléctricos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+g) Automóviles eléctricos, vehículos híbridos, o bien, accionados por hidrógeno o por cualquier otra fuente de energía alternativa no contaminante.
 
 IX. Comerciantes en el ramo de vehículos: a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
 
@@ -2213,35 +2251,33 @@ Artículo 136 E. Tratándose de automóviles, omnibuses, camiones y tractores no
 
 I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo la siguiente:
 
-TABLA
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2014)</small>
 
-Límite Límites Cuota fija Tasa para
+TARIFA
 
-Inferior superior aplicarse
+Límite Límite Cuota Tasa para
+
+inferior $ superior $ fija $ aplicarse
 
 sobre el
 
 excedente
 
-del
-
-límite
+del límite
 
 inferior
 
-$ $ $ %
+%
 
-0.01 175,000.00 0.00 2.5
+0.01 579,323.56 0.00 3
 
-175,000.01 428,768.31 0.00 3.0
+579,323.57 1,114,876.00 17,379.70 8.7
 
-428,768.32 825,140.79 12,863.05 8.7
+1,114,876.01 1,498,516.94 63,972.77 13.3
 
-825,140.80 1'109,080.70 47,347.45 13.3
+1,498,516.95 1,882,157.88 114,997.01 16.8
 
-1'109,080.71 1'393,020.60 85,111.46 16.8
-
-1'393,020.61 En adelante 132,813.36 19.1
+1,882,157.89 En adelante 179,448.69 19.1
 
 II. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis" el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
 
@@ -2343,11 +2379,9 @@ HELICÓPTEROS 551.00
 
 Tratándose de motocicletas de más de diez años modelos anteriores al de aplicación de este Capítulo, el impuesto se pagará a la tasa del 0%.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
-
-Artículo 136 K. Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
+Artículo 136 K. Tratándose de automóviles eléctricos, vehículos híbridos, o bien, accionados por hidrógeno o por cualquier otra fuente de energía alternativa no contaminante nuevos, el impuesto se pagará a la tasa del 0%.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2561,13 +2595,9 @@ APARTADO VI
 
 Destino del Impuesto
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
-
-Artículo 136 R. La recaudación del impuesto a que se refiere este Capítulo se destinará a cubrir las obligaciones garantizadas con esta contribución. Al efecto, el remanente del monto recaudado será destinado, en partes iguales, al financiamiento del gasto público en el rubro de seguridad pública y de combate a la pobreza, mediante el fideicomiso público que se constituya para su administración.
-
-El Comité Técnico del Fideicomiso se integrará con representantes de los sectores público y privado de la entidad. Dicho Comité tendrá representación de los Poderes Ejecutivo y Legislativo Estatales, de Municipios y del Sector Privado, con el propósito de garantizar la correcta aplicación de los recursos al fin señalado en el párrafo anterior.
+Artículo 136 R. La recaudación, efectivamente ingresada, del impuesto a que se refiere este Capítulo se destinará a cubrir las obligaciones garantizadas con esta contribución y el remanente del monto recaudado será destinado, en partes iguales, al financiamiento del gasto público en el rubro de seguridad pública y de combate a la pobreza, mediante el fideicomiso público que se constituya para su administración.
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR SEGUNDO TRANSITORIO DEL CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 31 DE JULIO DE 2013)</small>
 
@@ -5400,3 +5430,9 @@ CUARTO.- Se derogan todas las disposiciones legales y administrativas que contra
 QUINTO. La Secretaría, a efecto de dar cumplimiento a lo establecido por el artículo 146 Bis de la Ley Estatal de Protección Ambiental, convocará a los concursos públicos para el otorgamiento de las concesiones dentro de un plazo que no excederá de cuarenta y cinco días hábiles siguientes a la fecha de entrada en vigor del presente Decreto, con el objeto de que los concesionarios comiencen a prestar el servicio público de verificación vehicular a la brevedad.
 
 SEXTO. La Secretaría deberá poner en funcionamiento el registro que agrupe a los verificentros concesionados a que se refiere la fracción VIII del Artículo 143 de la Ley Estatal de Protección Ambiental, dentro de los noventa días hábiles siguientes a la publicación del presente Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
