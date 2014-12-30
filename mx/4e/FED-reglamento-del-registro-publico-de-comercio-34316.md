@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-registro-publico-de-comercio-34316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-24"
-last_updated: "2012-11-16"
+last_updated: "2014-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34316&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-10-22"
 
 REGLAMENTO DEL REGISTRO PÚBLICO DE COMERCIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 24 de octubre de 2003.
 
@@ -475,17 +475,13 @@ b. Fedatarios públicos, y
 
 c. Personas autorizadas por la Secretaría.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 33 Bis 1.
 
 Todo Asiento deberá firmarse electrónicamente en los términos que requiera el Sistema por quien lo realiza, quien será responsable de la existencia y veracidad de la información. Tratándose de instituciones financieras o personas morales que sean acreedores prendarios, fideicomisarios o fiduciarios, éstos serán responsables, independientemente del empleado o funcionario que realiza la inscripción.
 
-La Secretaría expedirá los certificados digitales para que los jueces, servidores públicos y fedatarios públicos puedan de manera directa en el Sistema firmar electrónicamente los Asientos en el RUG conforme a lo previsto en el segundo párrafo del artículo 30 Bis del Código de Comercio.
-
-Asimismo, la Secretaría reconocerá los certificados digitales generados por otras autoridades certificadoras en favor de Acreedores, entidades financieras en su calidad de Acreedores y personas autorizadas por éstos en el Sistema, siempre y cuando, a su juicio, presenten un grado de confiabilidad y cumplan con las medidas de seguridad suficientes.
+La Secretaría podrá reconocer los certificados digitales generados por las autoridades certificadoras a las que se refiere el artículo 23 de la Ley de Firma Electrónica Avanzada, para que los acreedores, entidades financieras en su calidad de Acreedores, personas autorizadas por éstos, jueces, servidores públicos, fedatarios públicos y personas autorizadas por la Secretaría puedan firmar electrónicamente en el Sistema, los Asientos a que se refiere el artículo anterior, siempre y cuando, a su juicio, presenten un grado de confiabilidad y cumplan con las medidas de seguridad suficientes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -668,3 +664,7 @@ SEXTO. La Secretaría de Economía realizará las acciones necesarias para que l
 D.O.F. 16 DE NOVIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 2014.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
