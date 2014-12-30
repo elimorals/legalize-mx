@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2013-12-17"
+last_updated: "2014-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -1821,6 +1821,10 @@ En el procedimiento ante el Tribunal de Conciliación y Arbitraje no se requiere
 
 El procedimiento para resolver las controversias que se sometan al Tribunal de Conciliación y Arbitraje, se reducirá: a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación, que podrá hacerse en cualquiera de las dos formas señaladas; y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes, y se pronunciará resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de otras diligencias, en cuyo caso se ordenará que se lleven a cabo, y, una vez desahogadas, se dictará laudo.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 184 BIS.- El procedimiento ante el Tribunal se inicia a instancia de parte, es público, gratuito e inmediato; por lo cual se deben tomar las medidas conducentes encaminadas a lograr la mayor economía del tiempo, concentración y sencillez en el proceso.
+
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 185.
@@ -2198,3 +2202,7 @@ P.O. 17 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico
