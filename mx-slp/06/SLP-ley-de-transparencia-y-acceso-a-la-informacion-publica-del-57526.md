@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5752
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-18"
-last_updated: "2014-11-29"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2007.
 
@@ -1139,11 +1139,11 @@ Por cada comisionado propietario habrá un supernumerario que supla, en el orden
 
 Los comisionados propietarios, y supernumerarios, rendirán la protesta de ley ante el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 88.
 
-La elección de los comisionados será organizada por el Congreso del Estado, el cual publicará por lo menos treinta días hábiles antes de la elección, una convocatoria abierta a toda la ciudadanía, para recibir solicitudes y propuestas ciudadanas. La propia Legislatura determinará las bases bajo las cuales se realizará la elección, siempre siguiendo el principio de acceso al cargo por oposición.
+La elección de los comisionados será organizada y realizada por el Congreso del Estado, a través de la Comisión de Transparencia y Acceso a la Información Pública, la cual publicará por lo menos treinta días hábiles antes de la elección, previa aprobación del Pleno de la Legislatura, una convocatoria abierta a toda la ciudadanía, para recibir solicitudes y propuestas ciudadanas. La propia comisión determinará las bases bajo las cuales se realizará la elección, siempre siguiendo el principio de acceso al cargo por oposición.
 
 ###### ARTICULO 89.
 
@@ -1574,3 +1574,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. El informe de actividades de la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, correspondiente al año dos mil catorce, comprenderá el lapso de octubre de dos mil trece a diciembre de dos mil catorce.
 
 TERCERO. Se deroga (sic) todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
