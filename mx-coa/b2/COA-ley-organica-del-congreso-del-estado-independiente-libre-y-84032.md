@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-8403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-25"
-last_updated: "2014-10-28"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -1053,7 +1055,7 @@ XX. Tratamiento de aguas residuales;
 
 XXI. Saneamiento de ríos, arroyos, cuencas y presas; y
 
-XXII. Otros aspectos que se consideren de la competencia de esta comisión:(sic)
+XXII. Otros aspectos que se consideren de la competencia de esta comisión:
 
 ###### ARTÍCULO 77.
 
@@ -2049,7 +2051,7 @@ Las leyes serán redactadas con precisión y claridad, en la forma que hubieren 
 
 Las leyes votadas por el Congreso, se expedirán bajo esta fórmula: "El Congreso del Estado de Coahuila de Zaragoza, decreta" (aquí el texto de la ley o decreto).
 
-Cuando la ley se refiera a la elección de Gobernador Interino, la fórmula será la siguiente: "El Congreso del Estado de Coahuila de Zaragoza en ejercicio de la facultad que le da el artículo XX o el XX (según el caso), de la Constitución, declara": (sic)
+Cuando la ley se refiera a la elección de Gobernador Interino, la fórmula será la siguiente: "El Congreso del Estado de Coahuila de Zaragoza en ejercicio de la facultad que le da el artículo XX o el XX (según el caso), de la Constitución, declara":
 
 ###### ARTÍCULO 178.
 
@@ -2401,7 +2403,7 @@ I. La presentación de iniciativas de ley, propuestas y pronunciamientos ante el
 
 II. La elección de la Mesa Directiva del Pleno y de la Diputación Permanente; y
 
-III. Cuando lo propongan integrantes de la Legislatura y en otros casos en que se considere procedente: (sic)
+III. Cuando lo propongan integrantes de la Legislatura y en otros casos en que se considere procedente:
 
 ###### ARTÍCULO 222.
 
@@ -2439,7 +2441,7 @@ IV. Tener un grado académico y/o experiencia en las actividades que deben reali
 
 V. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal; y
 
-VI. No haber sido dirigente de un comité directivo, ejecutivo o equivalente de un partido político a nivel nacional, estatal o municipal, durante el año inmediato anterior a la fecha en que deba ser designado; (sic)
+VI. No haber sido dirigente de un comité directivo, ejecutivo o equivalente de un partido político a nivel nacional, estatal o municipal, durante el año inmediato anterior a la fecha en que deba ser designado;
 
 ###### ARTÍCULO 227.
 
@@ -2978,3 +2980,13 @@ Toda mención referida a la Comisión de Energía y Minas, se entenderá hecha a
 ###### ARTÍCULO TERCERO.
 
 En lo que respecta a las atribuciones asignadas en el Artículo 87, Fracción II, las mismas serán asumidas por la Comisión de Energía, Minería e Hidrocarburos en cuanto se extinga la Comisión Especial que se informará de la inspección, vigilancia y control de las condiciones de trabajo y seguridad que se tienen en las minas del Estado, creada el 6 de mayo del presente año.
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Las disposiciones de la presente Ley, entrarán en vigor el 1 de enero de 2015, con excepción de los correspondientes al Título Primero, Capítulo II, de la Instalación de la Legislatura, que deberán observarse para el inicio de funciones y la instalación de la Sexagésima Legislatura del Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
+
+SEGUNDO.- Al entrar en vigor la presente Ley, quedara abrogada la Ley Orgánica del Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el día 25 de noviembre de 2011.
+
+TERCERO.- El Congreso deberá expedir la reglamentación procedente en un plazo de 30 días contados a partir de la entrada en vigor del presente decreto.
+
+CUARTO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
