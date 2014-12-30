@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-agrupaciones-politicas-estatales-de-san-luis-8554
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-31"
-last_updated: "2011-12-31"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 REGLAMENTO DE AGRUPACIONES POLÍTICAS ESTATALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE AGRUPACIONES POLÍTICAS ESTATALES, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 31 de diciembre de 2011.
 
@@ -301,7 +303,7 @@ c) Gastos por renta de equipo técnico en general para la realización del event
 
 d) Gastos por adquisición de papelería para la realización del evento específico;
 
-e) Honorarios y viáticos de organizadores, expositores, capacitadores, conferencistas o equivalentes que participen en el evento específico; (sic)
+e) Honorarios y viáticos de organizadores, expositores, capacitadores, conferencistas o equivalentes que participen en el evento específico;
 
 II. Gastos directos por actividades de investigación socioeconómica y política:
 
@@ -743,4 +745,22 @@ Secretario de Actas
 
 (Rúbrica)
 
-> <small>N. DE E. VÉASE FORMATOS EN EL P.O. DE 31 DE DICIEMBRE DE 2011, PAGINAS DE LA 15 A LA 22.</small>
+> <small>N. DE E. VÉASE FORMATOS EN EL P.O. DE 31 DE DICIEMBRE DE 2011, PÁGINAS DE LA 15 A LA 22.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+PRIMERO. Una vez aprobado por el Pleno del Consejo Estatal Electoral y de Participación Ciudadana, el presente Reglamento entrará en vigor a partir del día 1° de enero del año 2015.
+
+SEGUNDO. Con la vigencia del presente acuerdo se abroga el Reglamento de Agrupaciones Políticas Estatales, aprobado en Sesión Ordinaria del Pleno del Consejo Estatal Electoral y de Participación Ciudadana de fecha 22 de diciembre del año 2011.
+
+TERCERO. La presentación de informes y el procedimiento de fiscalización de los gastos y actividades del ejercicio fiscal 2014 de las Agrupaciones Políticas Estatales, deberá efectuarse de acuerdo con lo establecido en el Reglamento de Agrupaciones Políticas Estatales aprobado en Sesión Ordinaria del Pleno del Consejo Estatal Electoral y de Participación Ciudadana de fecha 22 de diciembre del año 2011.
+
+CUARTO. Los procedimientos de solicitudes de registro de Agrupaciones Políticas Estatales que se encuentren en trámite a la entrada en vigor del presente Reglamento, se concluirán en los términos del Reglamento de Agrupaciones Políticas Estatales, aprobado con fecha 22 de diciembre del año 2011.
+
+QUINTO. Los procedimientos sancionadores que se encuentren en trámite o que se inicien derivados de la fiscalización que correspondan hasta el ejercicio 2014, se estarán a lo establecido en la Ley Electoral del Estado publicada mediante Decreto 578 de fecha 30 de junio de 2011.
+
+SEXTO. Se instruye a la Comisión de Fiscalización del Consejo Estatal Electoral y de Participación Ciudadana, para que en un término de 30 días a partir de la publicación del presente Reglamento, presente ante este Pleno el Proyecto de Reglamento para el desahogo de los Procedimientos Administrativos respecto de las Quejas que se Presenten en Materia de Financiamiento.
+
+SÉPTIMO. Publíquese en el Periódico Oficial del Estado para los efectos legales que procedan.
