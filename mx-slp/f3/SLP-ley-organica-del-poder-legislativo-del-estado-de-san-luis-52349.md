@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2014-12-04"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -211,7 +211,7 @@ IV. Recibir, en los términos que establece esta Ley y el Reglamento, el informe
 
 V. Otorgar al gobernador, por tiempo limitado, facultades extraordinarias en casos de desastre o perturbación grave de la paz pública, las que quedarán precisadas en el decreto respectivo, debiendo aprobar o reprobar los actos emanados del uso de las mismas;
 
-VI. Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado, que le someta el titular del Ejecutivo;
+VI Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado, que le someta el titular del Ejecutivo;
 
 VII. Trasladar, a solicitud del Ejecutivo, la residencia de los poderes del Estado, cuando sea necesario por circunstancias extraordinarias;
 
@@ -1419,7 +1419,7 @@ Es competencia de la Comisión de Justicia, la atención, análisis, discusión 
 
 I. Los concernientes a la legislación civil o penal;
 
-II. Los relacionados con las leyes orgánicas del Poder Judicial y de la Procuraduría General de Justicia del Estado;
+II. Los relacionados con las leyes orgánicas del Poder Judicial, y de la Procuraduría General de Justicia del Estado;
 
 III. Los tocantes a justicia administrativa y laboral del Estado;
 
@@ -1545,9 +1545,15 @@ III. Revisar previo a que los dictámenes sean presentados al Pleno, cumplan con
 
 IV. Convocar a los ciudadanos integrantes del Consejo de Transparencia que establece esta Ley, de manera trimestral, a las reuniones que señala el artículo 140 de este Ordenamiento;
 
-V. Los tocantes a las relaciones con las demás dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
-VI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
+V. Los tocantes a las relaciones con las demás dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+VI. Los relativos al nombramiento y, destitución, en su caso, del Presidente y comisionados de la Comisión Estatal de Garantía y Acceso a la Información Pública, y
+
+VII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTICULO 118.
 
@@ -1593,13 +1599,23 @@ II. Del Instituto de Investigaciones Legislativas;
 
 III. De Orientación, Gestoría y Quejas;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. De Reforma para la Competitividad y Desarrollo Sustentable del Estado, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2014)</small>
+IV. De Reforma para la Competitividad y Desarrollo Sustentable del Estado;
 
-V. De Información.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+V. De Información, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+VI. Del Sistema de Gestión de Calidad.
 
 ###### ARTICULO 120.
 
@@ -1674,6 +1690,32 @@ El Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado
 > <small>(ADICIONADO, P.O. 13 DE MAYO DE 2014)</small>
 
 ARTICULO 124 TER. El Comité de Información estará integrado y actuará en términos y conforme a las funciones establecidas por la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 124 QUÁTER. El Comité del Sistema de Gestión de Calidad se integrará dentro del primer trimestre del inicio de cada Legislatura; el Vicepresidente será el Presidente de la Directiva; y el Secretario el Presidente de la Junta de Coordinación Política. El Presidente del Comité y los vocales se elegirán de entre los diputados que integran la Legislatura, de conformidad con lo establecido en el artículo 122 de esta Ley. De igual forma, serán parte del Comité, el oficial mayor; y el contralor interno, sólo con derecho a voz.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 124 QUINQUE. El Comité del Sistema de Gestión de Calidad tendrá las atribuciones siguientes:
+
+I. Renovar y dar seguimiento a la Certificación ISO: 9001-2008;
+
+II. Determinar los procesos necesarios para el Sistema de Gestión de Calidad, y su implementación;
+
+III. Dar seguimiento a la secuencia e interacción de los procesos para el Sistema de Gestión de Calidad;
+
+IV. Establecer los criterios y métodos necesarios para asegurar que la operación y el control de los procesos del Sistema de Gestión de Calidad sean eficaces;
+
+V. Proponer a la Junta de Coordinación Política la disponibilidad de recursos e información necesaria, para apoyar la operación y seguimiento de los procesos del Sistema de Gestión de Calidad;
+
+VI. Realizar el seguimiento, medición, análisis y mejora continua de los procesos para el Sistema de Gestión de Calidad, y
+
+VII. Implementar las acciones necesarias para alcanzar los resultados planificados.
 
 ### Capítulo II. De los Órganos de Soporte Técnico, de Apoyo y de Control del Congreso del Estado
 
@@ -2254,3 +2296,19 @@ PRIMERO. Este Decreto entrará en vigor el uno de enero de dos mil quince, previ
 SEGUNDO. Por lo que corresponde a la Sexagésima Legislatura, a la entrada en vigor del presente Decreto, el funcionario que actualmente ocupa el cargo de Coordinador de Servicios Parlamentarios, electo el veinte de septiembre de dos mil doce, pasa a ser Coordinador General de Servicios Parlamentarios.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 835, POR EL QUE SE REFORMA EL ARTÍCULO 117 EN SU FRACCIÓN V; Y ADICIONA FRACCIÓN AL MISMO ARTÍCULO 117, ÉSTA COMO VI, POR LO QUE ACTUAL (SIC) VI PASA A SER FRACCIÓN VII, DE Y A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 859, POR EL QUE SE REFORMA EL ARTÍCULO 119 EN SUS FRACCIONES, IV, Y V, Y ADICIONA, AL ARTÍCULO 119 LA FRACCIÓN VI, Y LOS ARTÍCULOS, 124 QUÁTER, Y 124 QUINQUE, DE Y A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto será publicado en el Periódico Oficial del Estado, y entrará en vigor a partir del 15 de septiembre de 2015.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
