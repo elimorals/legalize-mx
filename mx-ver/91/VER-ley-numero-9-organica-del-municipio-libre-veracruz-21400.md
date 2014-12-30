@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2014-12-19"
+last_updated: "2014-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -96,6 +96,8 @@ Cuando no se reúnan los requisitos del artículo anterior se podrá suprimir un
 Cuando dos o más municipios tengan graves dificultades para prestar los servicios públicos municipales, podrán solicitar su fusión a fin de lograr las condiciones necesarias para dicha prestación.
 
 ### CAPÍTULO III. DEL TERRITORIO DE LOS MUNICIPIOS
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 315 SE ADVIERTE QUE SE CAMBIA EL NOMBRE DEL MUNICIPIO DE MEDELLÍN, POR EL DE MEDELLÍN DE BRAVO, VÉASE G.O. DE 30 DE DICIEMBRE DE 2014]</small>
 
 > <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -893,7 +895,9 @@ III. Inspeccionar los hospitales cuidando de que se asista con eficiencia a los 
 
 IV. Opinar sobre las condiciones de salubridad de las construcciones y los giros comerciales;
 
-V. Procurar la creación de asilos y casas hogares;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2014)</small>
+
+V. Procurar la creación, a través de instalaciones óptimas y dignas, de asilos, casas hogares y centros de atención médica, psicológica y de rehabilitación integral para personas con discapacidad;
 
 VI. Cuidar de la buena calidad de los alimentos y bebidas que se expenden denunciando la venta de víveres y substancias en estado de descomposición;
 
@@ -2161,7 +2165,7 @@ III. Con el Estado o la Federación, para que se hagan cargo de algunas de las f
 
 IV. Con el Estado o la Federación, para asumir la ejecución y operación de obras y la prestación de servicios públicos que correspondan a aquellos, cuando el desarrollo económico y social lo hagan necesario;
 
-V. Con el Estado o la Federación, para que éstos asuman la ejecución y operación de obras y la prestación de servicios públicos que corresponda a los municipios, cuando el desarrollo económico y social lo hagan (sic) necesario;
+V. Con el Estado o la Federación, para que éstos asuman la ejecución y operación de obras y la prestación de servicios públicos que corresponda a los municipios, cuando el desarrollo económico y social lo hagan necesario;
 
 VI. Con personas físicas o morales para la ejecución u operación de obras, o la prestación de servicios públicos municipales, cuando en virtud del convenio y sin afectar la calidad del servicio, se produzcan beneficios para el Municipio en los términos de esta Ley;
 
@@ -3556,3 +3560,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las autoridades municipales de las zonas metropolitanas elaborarán sus Programas Sectoriales de Desarrollo Metropolitano en los términos del presente decreto, a efecto de que los mismos inicien su vigencia a partir del próximo ejercicio fiscal correspondiente
 
 TERCERO.- Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2014.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL DECRETO NÚMERO 315.]</small>
+
+Primero. Se autoriza al Honorable Ayuntamiento de Medellín, a que declare oficialmente que se cambia el nombre del municipio de Medellín, por el de Medellín de Bravo, al haberse satisfecho los requisitos que impone la Ley Orgánica del Municipio Libre.
+
+Segundo. Comuníquese el presente Decreto a los ciudadanos Gobernador del Estado, Presidente del Honorable Tribunal Superior de Justicia, Director del Instituto Nacional de Estadística y Geografía, Presidenta del Consejo General del Instituto Electoral Veracruzano, al Órgano de Fiscalización Superior del Estado y al Honorable Ayuntamiento de Medellín, Veracruz de Ignacio de la Llave, para los efectos legales procedentes.
+
+Tercero. Publíquese el presente Decreto en la Gaceta Oficial, órgano del gobierno del estado.
