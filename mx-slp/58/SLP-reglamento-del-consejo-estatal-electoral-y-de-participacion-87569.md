@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-del-consejo-estatal-electoral-y-de-participacion-875
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-21"
-last_updated: "2012-04-21"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 REGLAMENTO DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA EN MATERIA DE DENUNCIAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO EN MATERIA DE DENUNCIAS DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 21 de abril de 2012.
 
@@ -35,7 +37,7 @@ I. En sesión ordinaria de fecha 23 de noviembre del año 2009, el Pleno del Con
 
 II. Con fecha 30 de junio de 2011, se publicó en el Periódico Oficial del Estado, el Decreto 578 por medio del cual se expide la Ley Electoral del Estado de San Luis Potosí, la que abrogó la Ley Electoral expedida por Decreto 362 de la Quincuagésima Octava Legislatura Constitucional del Congreso del Estado, y publicada el 10 de mayo de 2008 en el Periódico Oficial del Estado. Por lo anterior, y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 NOVENO. Que con fundamento en lo dispuesto por los artículos 31 de la Constitución Política del Estado y 79, 105, fracción I, inciso a), fracción II, inciso ñ) y 312, primer párrafo de la ley Electoral del Estado, con la finalidad de regular el Procedimiento Sancionador previsto por el Capítulo II del Título Décimo Segundo de la Ley Electoral, en sus modalidades de Procedimiento Sancionador General y Procedimiento Sancionador Especial, para imponer las sanciones administrativas por infracciones a las disposiciones electorales, el Pleno del Consejo Estatal Electoral y de Participación Ciudadana expide el siguiente
 
@@ -403,7 +405,7 @@ III. Rechazar el proyecto de resolución y ordenar al Secretario elaborar uno nu
 
 En caso de que se trate de infracciones cometidas por dos o más partidos políticos que integran o integraron una coalición, deberán ser sancionados de manera individual, atendiendo al grado de responsabilidad de cada uno de dichos entes políticos y a sus respectivas circunstancias y condiciones.
 
-Las multas que fije el Pleno del Consejo que no hubieran sido recurridas, o bien, que fuesen confirmadas por el Tribunal Electoral, deberán ser pagadas en la Dirección Ejecutiva de Administración y Finanzas del Consejo en un plazo improrrogable de quince días hábiles. Transcurrido el plazo sin que el pago se hubiera efectuado, el Consejo podrá deducir el monto de la multa de la siguiente ministración del financiamiento público que corresponda al partido político o agrupación política sancionado, (sic) en términos de las condiciones previstas en la resolución para el cumplimiento de la sanción.
+Las multas que fije el Pleno del Consejo que no hubieran sido recurridas, o bien, que fuesen confirmadas por el Tribunal Electoral, deberán ser pagadas en la Dirección Ejecutiva de Administración y Finanzas del Consejo en un plazo improrrogable de quince días hábiles. Transcurrido el plazo sin que el pago se hubiera efectuado, el Consejo podrá deducir el monto de la multa de la siguiente ministración del financiamiento público que corresponda al partido político o agrupación política sancionado, en términos de las condiciones previstas en la resolución para el cumplimiento de la sanción.
 
 ### CAPÍTULO X. Transparencia y Rendición de Cuentas
 
@@ -672,3 +674,15 @@ Lic. Rafael Rentaría Armendáriz
 Secretario de Actas
 
 (Rúbricas)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la vigencia del presente acuerdo se abroga el Reglamento del Consejo Estatal Electoral y de Participación Ciudadana en materia de Denuncias, expedido por acuerdo del Pleno del Consejo número 66/03/2012 de fecha 28 de marzo del año 2012.
+
+TERCERO. Los procedimientos sancionadores que se encuentren en trámite a la entrada en vigor del presente Reglamento, se concluirán en los términos de la reglamentación que se abroga.
+
+CUARTO. Publíquese en el Periódico Oficial del Estado para los efectos legales conducentes.
