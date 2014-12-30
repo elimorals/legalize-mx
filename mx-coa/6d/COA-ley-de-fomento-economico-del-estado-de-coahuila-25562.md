@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-economico-del-estado-de-coahuila-25562"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-05"
-last_updated: "2002-07-05"
+last_updated: "2014-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE FOMENTO ECONOMICO DEL ESTADO DE COAHUILA
 
-LEY DE FOMENTO ECONOMICO DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE FOMENTO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 5 de julio de 2002.
 
@@ -548,3 +550,27 @@ LIC. JAVIER GUERRERO GARCIA
 EL SECRETARIO DE PLANEACION Y DESARROLLO
 
 C.P. IGNACIO DIEGO MUÑOZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento Económico del Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado el 05 de julio de 2002.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones legales, reglamentos, decretos y acuerdos que se opongan a la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador expedirá el reglamento de la presente ley, en un término no mayor al de 90 días hábiles, contados a partir de la publicación del presente ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Los Consejos Regionales se integrarán dentro de los sesenta días siguientes a la entrada en vigor de esta ley.
