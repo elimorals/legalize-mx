@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-escuela-normal-superior-de-cultura-96793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-11-30"
-last_updated: "2013-11-30"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ESCUELA SUPERIOR DE CULTURA FÍSICA DEL ESTADO DE BAJA CALIFORNIA SUR.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 30 de noviembre de 2013.
 
@@ -45,9 +45,13 @@ SE CREA LA LEY ORGÁNICA DE LA ESCUELA SUPERIOR
 
 DE CULTURA FÍSICA DEL ESTADO DE BAJA CALIFORNIA SUR.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-La Escuela Superior de Cultura Física del Estado de Baja California Sur, es la institución educativa encargada de formar profesionales en las áreas de la cultura física y sus ciencias aplicadas, acorde a las necesidades del Estado de Baja California Sur y del país, sin desatender la unidad orgánica del Sistema Educativo Nacional.
+La Escuela Superior de Cultura Física ''Profr. Román Pozo Méndez" del Estado de Baja California Sur, es la institución educativa encargada de formar profesionales en las áreas de la cultura física y sus ciencias aplicadas, acorde a las necesidades del Estado de Baja California Sur y del país, sin desatender la unidad orgánica del Sistema Educativo Nacional.
+
+Para los efectos de la presente Ley, cuando se trate de la Escuela Superior de Cultura Física del Estado de Baja California Sur, se entenderá que se refiere a la Escuela Superior de Cultura Física "Profr. Román Pozo Méndez" del Estado de Baja California Sur.
 
 ###### ARTÍCULO 2.
 
@@ -204,3 +208,11 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 ARMANDO MARTÍNEZ VEGA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
