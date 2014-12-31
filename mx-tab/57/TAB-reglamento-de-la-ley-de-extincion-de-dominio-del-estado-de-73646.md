@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-de-extincion-de-dominio-del-estado-de-7364
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-27"
-last_updated: "2010-02-27"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DE LA LEY DE EXTINCION DE DOMINIO DEL ESTADO DE TABASCO
 
-REGLAMENTO DE LA LEY DE EXTINCION DE DOMINIO DEL ESTADO DE TABASCO
+REGLAMENTO DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 27 de febrero de 2010.
 
@@ -250,3 +252,15 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se abroga la Ley de Extinción de Dominio del Estado de Tabasco, publicada mediante Decreto 189 en el suplemento "C" al Periódico Oficial 6998 de fecha 30 de septiembre de 2009 y su Reglamento. Se derogan todas las demás disposiciones que se opongan a lo establecido en esta Ley.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado y el Fiscal General del Estado, así como el órgano que corresponda del Poder Judicial, en el ámbito de sus respectivas competencias, emitirán los ordenamientos de carácter administrativo necesarios para el adecuado cumplimiento de esta Ley.
+
+CUARTO.- Todos los procedimientos que se encuentren en trámite o pendientes de resolución a la fecha de la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones que se encontraban vigentes en el momento que se iniciaron.
