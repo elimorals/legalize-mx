@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2014-11-12"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -2049,7 +2049,7 @@ VIII.- CONVENIR LA CAPACITACION DE LOS CUERPOS POLICIACOS MUNICIPALES COMO ESTRA
 
 IX.- FOMENTAR LA PARTICIPACION CIUDADANA EN LA FORMULACION DE PLANES Y PROGRAMAS DE PREVENCION EN MATERIA DE DELITOS DEL FUERO COMUN, POR CONDUCTO DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA.
 
-X.- ESTABLECER Y OPERAR EL SISTEMA ESTATAL DE PROTECCION CIVIL.
+X.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
@@ -2063,9 +2063,9 @@ XIII.- EMITIR LAS INSTRUCCIONES, POLITICAS Y LINEAMIENTOS TENDENTES A LOGRAR LA 
 
 XIV.- (DEROGADA, P.O. 3 DE AGOSTO DE 2011)
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XV.- CONDUCIR, PLANEAR Y REGULAR LA PRESTACION DEL SERVICIO DE VIGILANCIA POR PARTE DE LA POLICIA AUXILIAR.
+XV.- CONDUCIR, PLANEAR, REGULAR Y EJECUTAR LOS SERVICIOS DE PROTECCION, CUSTODIA, VIGILANCIA Y SEGURIDAD DE LAS DEPENDENCIAS, ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL, ESTATAL, MUNICIPAL, Y A PERSONAS FISICAS O MORALES, MEDIANTE EL PAGO DE LA CONTRAPRESTACION CORRESPONDIENTE.
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2001)</small>
 
@@ -3456,3 +3456,19 @@ Artículo Quinto.- Las atribuciones y referencias que en relación a actos de in
 Artículo Sexto.- Los compromisos y procedimientos que en materia de actos de inspección y vigilancia, imposición y ejecución de medidas de seguridad, determinación de infracciones, imposición de sanciones, atención y seguimiento de las denuncias que pudieran constituir delitos contra los recursos naturales, forestales y el medio ambiente en el Estado, que a la entrada en vigor del presente Decreto, hubiere contraído la Secretaría de Medio Ambiente e Historia Natural, serán asumidos inmediatamente por el Órgano Desconcentrado que para tal efecto se cree.
 
 Artículo Séptimo.- La Secretaría de Medio Ambiente e Historia Natural, deberá someter a consideración del Ejecutivo del Estado, en un plazo no mayor a noventa días naturales, contados a partir de la publicación del presente Decreto, las adecuaciones necesarias a la normatividad vigente, para armonizar la legislación estatal en la materia.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los recursos humanos, materiales y financieros, que a la entrada en vigor del presente Decreto, se encuentran asignados a la Coordinación General de Servicios Estratégicos de Seguridad, serán transferidos de inmediato a la Secretaría de Seguridad y Protección Ciudadana, respetándose en todo momento, los derechos laborales de los trabajadores.
+
+Artículo Cuarto.- Las atribuciones y referencias que las leyes, decretos, reglamentos y demás normatividad aplicable otorgan a la Coordinación General de Servicios Estratégicos de Seguridad, se entenderán conferidas a la Secretaría de Seguridad y Protección Ciudadana.
+
+Artículo Quinto.- Los compromisos y procedimientos que a la entrada en vigor del presente Decreto, hubiere contraído la Coordinación General de Servicios Estratégicos de Seguridad, serán asumidos inmediatamente por la Secretaría de Seguridad y Protección Ciudadana.
+
+Artículo Sexto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables y los efectos legales conducentes.
+
+Artículo Séptimo.- La Secretaría de Seguridad y Protección Ciudadana, deberá someter a consideración del Ejecutivo del Estado, en un plazo no mayor a noventa días naturales, las adecuaciones necesarias a la normatividad vigente, para armonizar la legislación estatal en la materia.
