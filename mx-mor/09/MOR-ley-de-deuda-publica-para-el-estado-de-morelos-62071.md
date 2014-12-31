@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-deuda-publica-para-el-estado-de-morelos-62071"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-16"
-last_updated: "2009-12-30"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO DE MORELOS
 
-LEY DE DEUDA PUBLICA PARA EL ESTADO DE MORELOS
+LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de julio de 2008.
 
@@ -37,7 +37,7 @@ LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELO
 
 I. Antecedentes de la Iniciativa
 
-.
+...
 
 Por lo anteriormente expuesto esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -131,7 +131,9 @@ XXIV.- Operaciones de Reestructuración: Son los empréstitos o créditos que ce
 
 XXV.- Congreso o Congreso del Estado: El Congreso del Estado de Morelos;
 
-XXVI.- Secretaría: La Secretaría de Finanzas y Planeación del Poder Ejecutivo del Estado de Morelos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXVI.- Secretaría: La Secretaría de Hacienda del Estado de Morelos;
 
 XXVII.- Órganos de Gobierno: Los consejos, juntas directivas, comités técnicos o equivalentes, de las entidades de la administración pública paraestatal y paramunicipal; y
 
@@ -877,7 +879,7 @@ Con base en los datos del registro, la Secretaría podrá dar a conocer informac
 
 La Secretaría proporcionará la información relativa a los registros de la deuda pública que consten en el registro y que correspondan a financiamientos celebrados por las entidades a las instituciones calificadoras de valores contratadas por las mismas, para calificar su calidad crediticia o la de los valores que en su caso emitan, cuando estas así lo soliciten.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ### Capítulo Décimo. De la solicitud, autorización, contratación, garantías y pago en esquemas globales de financiamiento
 
@@ -1001,7 +1003,7 @@ LIC. SERGIO ALVAREZ MATA RÚBRICAS.
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 5 DE NOVIEMBRE DE 2008.
 
@@ -1026,3 +1028,9 @@ Remítase al titular del Poder Ejecutivo para su promulgación y publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto, entrará en vigor al día siguiente de su publicación.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
