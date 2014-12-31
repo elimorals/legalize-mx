@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2014-11-26"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 260, SE PRECISA QUE EN LAS CAUSAS PENALES INICIADAS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, CONTINUARÁN SU SUBSTANCIACIÓN, CONFORME DISPONE EL ARTÍCULO TRANSITORIO TERCERO DE DICHO ORDENAMIENTO, ES DECIR, DE ACUERDO A LAS REGLAS DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS; LAS ALUSIONES A JUEZ DE GARANTÍA Y TRIBUNAL DE JUICIO ORAL SUPRIMIDAS DE ESTA LEY, POR CONGRUENCIA A ESTE ÚLTIMO ORDENAMIENTO LEGAL, DEBERÁN SEGUIR VIGENTES, P.O. 31 DE DICIEMBRE DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -153,7 +155,7 @@ En cada uno de los distritos judiciales, el Pleno establecerá, mediante acuerdo
 
 I. El número, materias de conocimiento o especialidades y límites territoriales de los juzgados de Primera Instancia;
 
-II. Los juzgados de Primera Instancia podrán conocer, cuando lo acuerde el Pleno, los asuntos que competan a un juzgado municipal ubicado en su distrito judicial.
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 ### CAPITULO SEGUNDO. DE LA INTEGRACION DEL PODER JUDICIAL DEL ESTADO
 
@@ -165,7 +167,7 @@ El Poder Judicial del Estado de Zacatecas se ejerce por:
 
 I. El Tribunal Superior de Justicia;
 
-II. (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2014)
+II. (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2003)</small>
 
@@ -175,13 +177,11 @@ III. El Tribunal de lo Contencioso Administrativo;
 
 IV. El Tribunal Especializado en Justicia para Adolescentes;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-V. Los Juzgados de Primera Instancia, que podrán ser Civiles, Penales, Familiares, Mercantiles, Mixtos, de Garantías, de Juicio Oral para Adultos, Especializados para Adolescentes y de Ejecución de Sanciones; y
+V. Los Juzgados de Primera Instancia, que podrán ser Civiles, Penales, Familiares, Mercantiles, Mixtos, de Control y Tribunal de Enjuiciamiento, Especializados para Adolescentes y de Ejecución de Sanciones; y
 
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2003)</small>
-
-VI. Los Juzgados Municipales.
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 5º.
 
@@ -295,29 +295,41 @@ X. Disponer que, previo al inicio de su vigencia, los reglamentos y acuerdos gen
 
 XI. Crear o suprimir unidades de apoyo a las funciones jurisdiccionales y administrativas;
 
-XII. Determinar el número de distritos judiciales de conformidad con lo dispuesto en el artículo 3º de esta ley y fijar el lugar en que tendrán su sede los juzgados de Primera Instancia y Municipales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIII. Establecer o suprimir juzgados de Primera Instancia y Municipales, según sea necesario para mejorar la impartición de justicia;
+XII. Determinar el número de distritos judiciales de conformidad con lo dispuesto en el artículo 3º de esta ley y fijar el lugar en que tendrán su sede los juzgados de Primera Instancia;
 
-XIV. Variar el ámbito de la competencia de los juzgados de Primera Instancia y Municipales, cuando así lo requieran las necesidades del servicio;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XV. Determinar, mediante acuerdos generales, los casos en los que se asigne a un juzgado de Primera Instancia, los asuntos que competan a un juzgado Municipal;
+XIII. Establecer o suprimir juzgados de Primera Instancia, según sea necesario para mejorar la impartición de justicia;
 
-XVI. Señalar, cuando así resulte necesario, los periodos y modalidades para la distribución de asuntos que correspondan a los juzgados de Primera Instancia y Municipales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIV. Variar el ámbito de la competencia de los juzgados de Primera Instancia, cuando así lo requieran las necesidades del servicio;
+
+XV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVI. Señalar, cuando así resulte necesario, los periodos y modalidades para la distribución de asuntos que correspondan a los juzgados de Primera Instancia;
 
 XVII. Ordenar visitas judiciales, ordinarias y extraordinarias, a los juzgados cuando se estime necesario y decretar las medidas que procedan para corregir las deficiencias que se observen;
 
 XVIII. Examinar los informes y actas levantadas por los visitadores y dictar los acuerdos conducentes;
 
-XIX. Nombrar a los jueces de Primera Instancia y Municipales, mediante concurso de oposición, de acuerdo con su capacidad y tomando en cuenta además, su conducta, honradez, eficiencia y, en su caso, los antecedentes al servicio del Poder Judicial;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIX. Nombrar a los jueces de Primera Instancia mediante concurso de oposición, de acuerdo con su capacidad y tomando en cuenta además, su conducta, honradez, eficiencia y, en su caso, los antecedentes al servicio del Poder Judicial;
 
 XX. Adscribir a los jueces en los juzgados en que deban ejercer su función y cambiarlos de distrito o de juzgado, cuando así se estime necesario;
 
-XXI. Formular y aplicar los exámenes de oposición a los aspirantes a jueces de Primera Instancia, Municipales y demás servidores públicos de Poder Judicial;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+XXI. Formular y aplicar los exámenes de oposición a los aspirantes a jueces de Primera Instancia y demás servidores públicos de Poder Judicial;
 
-XXII. Nombrar, por conducto del Presidente, al Coordinador y a los Administradores de los Juzgados de Garantía y de los Tribunales de Juicio Oral y demás servidores públicos del Poder Judicial y determinar su adscripción;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXII. Nombrar al Coordinador y a los Administradores de los Juzgados de Control y de los Tribunales de Enjuiciamiento y demás servidores públicos del Poder Judicial y determinar su adscripción;
 
 XXIII. Conceder licencias sin goce de sueldo, que no excedan de tres meses por año calendario a magistrados y hasta por seis meses a jueces y demás servidores públicos del Poder Judicial;
 
@@ -337,9 +349,9 @@ XXX. Ejercer en forma independiente al presupuesto de egresos, el Fondo Auxiliar
 
 XXXI. Vigilar que se lleve un inventario actualizado de los bienes muebles e inmuebles que sean patrimonio del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXXII. Proponer a la Legislatura del Estado, las ternas para el nombramiento de los magistrados que deben integrar los Tribunales de lo Contencioso Administrativo y Especializado en Justicia para Adolescentes;
+XXXII. Proponer a la Legislatura del Estado las ternas para el nombramiento de los magistrados que deben integrar los Tribunales de lo Contencioso Administrativo y Especializado en Justicia para Adolescentes;
 
 XXXIII. Imponer correcciones disciplinarias a sus miembros o a cualquier otro servidor público del Poder Judicial, así como a las partes, abogados patronos y procuradores, cuando falten al respeto a los órganos del Poder Judicial;
 
@@ -407,9 +419,9 @@ XI. Registrar y distribuir entre las Salas los asuntos que fueren de la competen
 
 XII. Designar al magistrado que deba suplir a otro en sus ausencias temporales o, por excusas, impedimentos o recusaciones;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIII. Designar al Juez que deba suplir a otro en sus ausencias temporales y habilitar a jueces para que integren Tribunales de Juicio Oral en diverso Distrito Judicial al de su adscripción, en cuyo caso ésta no se verá modificada, por lo cual se reincorporarán al lugar de su adscripción una vez realizada la comisión para la que fueron habilitados;
+XIII. Designar al Juez que deba suplir a otro en sus ausencias temporales, habilitar a jueces en diverso Distrito Judicial al de su adscripción, en cuyo caso ésta no se verá modificada, por lo cual se reincorporarán al lugar de su adscripción una vez realizada la comisión para la que fueron habilitados. De igual forma, para que integren el Tribunal de Enjuiciamiento;
 
 XIV. Remitir a los jueces que correspondan, los exhortos, requisitorias y despachos para su diligenciación;
 
@@ -443,7 +455,9 @@ XXVIII. Autorizar el registro de los títulos y cédulas profesionales de licenc
 
 XXIX. Representar al Tribunal Superior en los actos oficiales y en caso necesario delegar su representación;
 
-XXX. Vigilar se recabe, mensualmente, un informe estadístico pormenorizado de las Salas del Tribunal, de los juzgados de Primera Instancia y Municipales y, dictar las medidas adecuadas para agilizar el trámite de los negocios;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXX. Vigilar se recabe, mensualmente, un informe estadístico pormenorizado de las Salas del Tribunal, de los juzgados de Primera Instancia y, dictar las medidas adecuadas para agilizar el trámite de los negocios;
 
 XXXI. Rendir en el mes de enero, en sesión solemne, informe anual del estado que guarda la administración del Poder Judicial del Estado; y
 
@@ -495,15 +509,23 @@ Competencia de las Salas Civiles
 
 Las Salas Civiles conocerán:
 
-I. De los recursos de apelación que se interpongan contra las resoluciones dictadas por los jueces de Primera Instancia y Municipales, en los asuntos civiles, familiares y mercantiles;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II. Del recurso de queja que se haga valer en asuntos civiles, familiares y mercantiles, contra resoluciones de los jueces de Primera Instancia y Municipales;
+I. De los recursos de apelación que se interpongan contra las resoluciones dictadas por los jueces de Primera Instancia, en los asuntos civiles, familiares y mercantiles;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. Del recurso de queja que se haga valer en asuntos civiles, familiares y mercantiles, contra resoluciones de los jueces de Primera Instancia;
 
 III. De los impedimentos, excusas y recusaciones de sus miembros;
 
-IV. De los impedimentos, excusas y recusaciones de los jueces de Primera Instancia y Municipales en los asuntos de orden civil, familiar y mercantil;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-V. De los conflictos que sobre competencia se susciten entre los jueces de Primera Instancia, los jueces Municipales o entre éstos y aquéllos, cuando se trate de materia civil, familiar o mercantil;
+IV. De los impedimentos, excusas y recusaciones de los jueces de Primera Instancia en los asuntos de orden civil, familiar y mercantil;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V. De los conflictos que sobre competencia se susciten entre los jueces de Primera Instancia cuando se trate de materia civil, familiar o mercantil;
 
 VI. De las revisiones forzosas en los términos y casos que ordena la ley procesal;
 
@@ -515,19 +537,29 @@ Competencia de las Salas Penales
 
 Las Salas Penales conocerán:
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I. De los recursos de apelación, denegada apelación, nulidad y de revisión que se interpongan contra las resoluciones dictadas por los jueces de Primera Instancia, Tribunales de Juicio Oral y Municipales en materia penal, así como en las que emitan en los incidentes de responsabilidad civil que surjan en el procedimiento;
+I. De los recursos de apelación, denegada apelación, nulidad y de revisión que se interpongan contra las resoluciones dictadas por los jueces de Primera Instancia, Jueces de Control y de Tribunal de Enjuiciamiento en materia penal, así como en las que emitan en los incidentes de responsabilidad civil que surjan en el procedimiento;
 
 II. De los impedimentos, excusas y recusaciones de sus miembros;
 
-III. De los impedimentos, excusas y recusaciones de los jueces de Primera Instancia y Municipales en asuntos del ramo penal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV. De los conflictos de competencia que surjan entre los jueces de Primera Instancia, los jueces Municipales o entre éstos y aquéllos;
+III. De los impedimentos, excusas y recusaciones de los jueces de Primera Instancia en asuntos del ramo penal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. De los conflictos de competencia que surjan entre los jueces de Primera Instancia, cuando se trate de materia penal;
 
 V. Sobre las solicitudes de libertad provisional que se promuevan ante la Sala; y
 
-VI. De los demás asuntos que les corresponda conforme a las leyes, o les asigne el Pleno.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VI. De las quejas presentadas en contra de los juzgadores de primera instancia del ramo penal que no realicen un acto procesal dentro del plazo establecido por el Código Nacional de Procedimientos Penales; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VII. De los demás asuntos que les corresponda conforme a las leyes o les asigne el Pleno.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
@@ -565,7 +597,9 @@ I. Ser mexicano y en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener título de licenciado en derecho y experiencia mínima de dos años en el ejercicio de la profesión, que contarán a partir de la fecha de expedición del título;
 
-III. No tener vínculo matrimonial, ni parentesco por consanguinidad o por afinidad, hasta el tercer grado con los magistrados del Tribunal Superior de Justicia, jueces de Primera Instancia, jueces Municipales o el Oficial Mayor, excepto cuando su ingreso al cargo haya sido anterior a la designación de los referidos servidores públicos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. No tener vínculo matrimonial, ni parentesco por consanguinidad o por afinidad, hasta el tercer grado con los magistrados del Tribunal Superior de Justicia, jueces de Primera Instancia o el Oficial Mayor, excepto cuando su ingreso al cargo haya sido anterior a la designación de los referidos servidores públicos;
 
 IV. Ser de reconocida honorabilidad y no haber sido condenado por delito intencional.
 
@@ -671,7 +705,9 @@ II. Desahogar en forma pronta, expedita, imparcial y eficaz, las diligencias, pr
 
 III. Las demás que las leyes, reglamentos, acuerdos o autoridades superiores les encomienden.
 
-Serán atribuciones de los oficiales de partes, recibir los escritos y demás documentos que estén dirigidos al Pleno, la Presidencia, las Salas de Apelación, Juzgados de Primera Instancia, Municipales y Unidades de Apoyo a la función Jurisdiccional y, entregarlos a quien corresponda, en la forma y términos que les señale el reglamento y acuerdos respectivos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Serán atribuciones de los oficiales de partes, recibir los escritos y demás documentos que estén dirigidos al Pleno, la Presidencia, las Salas de Apelación, Juzgados de Primera Instancia, Unidades de Apoyo a la función Jurisdiccional y, entregarlos a quien corresponda, en la forma y términos que les señale el reglamento y acuerdos respectivos.
 
 ### CAPITULO SEXTO. DE LOS SERVIDORES DEL TRIBUNAL SUPERIOR DE JUSTICIA EN FUNCIONES ADMINISTRATIVAS
 
@@ -697,7 +733,9 @@ II. Tener título de licenciado en derecho, contaduría, administración u otro 
 
 III. Tener más de treinta años de edad cumplidos a la fecha de su designación;
 
-IV. No tener vínculo matrimonial, ni parentesco por consanguinidad o afinidad hasta el tercer grado con los magistrados del Tribunal Superior de Justicia, jueces de Primera Instancia y Municipales, excepto cuando su ingreso al cargo haya sido anterior a la designación de los referidos servidores públicos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. No tener vínculo matrimonial, ni parentesco por consanguinidad o afinidad hasta el tercer grado con los magistrados del Tribunal Superior de Justicia, jueces de Primera Instancia, excepto cuando su ingreso al cargo haya sido anterior a la designación de los referidos servidores públicos;
 
 V. No ser ministro de culto religioso; y
 
@@ -711,9 +749,7 @@ Son atribuciones del Oficial Mayor:
 
 I. Instrumentar las normas y políticas administrativas para el manejo de recursos humanos, financieros y materiales de los órganos del Poder Judicial, que disponga la ley o acuerde el Pleno;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
-
-II. Dirigir, organizar y supervisar la Unidad de Coordinación Administrativa de los Juzgados de Garantía y Tribunales de Juicio Oral; y
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 III. Proponer al Presidente del Tribunal Superior de Justicia las acciones necesarias para mejorar la administración de los recursos;
 
@@ -767,13 +803,21 @@ XXVI. Las demás que le señalen las leyes y reglamentos o le encomiende el Pres
 
 Artículo 30 BIS. Coordinación Administrativa
 
-La Coordinación Administrativa tiene como objetivo estructurar, organizar y planear los proyectos para la implementación y funcionamiento de los Juzgados de Garantía y Tribunales de Juicio Oral. Tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I. Establecer los modelos de gestión para el funcionamiento de los Juzgados de Garantía y Tribunales de Juicio Oral, adoptando las metodologías propias a la estructura, acorde a lo establecido en las leyes;
+La Coordinación Administrativa tiene como objetivo estructurar, organizar y planear los proyectos para la implementación y funcionamiento de los tribunales de primera instancia. Tendrá las siguientes atribuciones:
 
-II. Establecer y mantener actualizados los programas de capacitación al personal administrativo de los Juzgados de Garantía y Tribunales de Juicio Oral;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-III. Implementar acciones, en las diferentes instancias del Poder Judicial, con el objeto de que funcionen adecuadamente los Juzgados de Garantía y los Tribunales de Juicio Oral; y
+I. Establecer los modelos de gestión para el funcionamiento, adoptando las metodologías propias a la estructura, acorde a lo establecido en las leyes;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. Establecer y mantener actualizados los programas de capacitación al personal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Implementar acciones, en las diferentes instancias del Poder Judicial, con el objeto de que funcionen adecuadamente; y
 
 IV. Las demás que señalen las leyes y los acuerdos del Pleno.
 
@@ -791,7 +835,9 @@ III. Aprobar, en su caso, el examen de oposición;
 
 IV. Ser de reconocida honorabilidad y no haber sido condenado por delito intencional; y
 
-V. No tener vínculo matrimonial ni parentesco por consanguinidad o afinidad, hasta el tercer grado, con los magistrados del Tribunal Superior, jueces de Primera Instancia, Municipales y el Oficial Mayor, excepto cuando su ingreso al cargo sea anterior a la designación de los referidos servidores públicos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V. No tener vínculo matrimonial ni parentesco por consanguinidad o afinidad, hasta el tercer grado, con los magistrados del Tribunal Superior, jueces de Primera Instancia y el Oficial Mayor, excepto cuando su ingreso al cargo sea anterior a la designación de los referidos servidores públicos.
 
 ## TITULO TERCERO. DE LA JUSTICIA DE PRIMERA INSTANCIA
 
@@ -813,31 +859,33 @@ Cuando haya dos o más juzgados de Primera Instancia con la misma competencia, e
 
 El personal de los juzgados de Primera Instancia, lo integrarán: el o los Jueces, el secretario de acuerdos cuando lo exijan las leyes de la materia, los actuarios, notificadores, oficiales de partes, secretarios auxiliares y demás empleados que se requieran.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Los Jueces de Garantía y los integrantes de los Tribunales de Juicio Oral comprenden la jurisdicción de primera instancia en materia penal adversarial oral para adultos. En materia de justicia para adolescentes existirá, además, el Juez de Ejecución.
+Los Jueces de Control y los integrantes de los Tribunales de Enjuiciamiento comprenden la jurisdicción de primera instancia en materia penal adversarial oral para adultos. En materia de justicia para adolescentes existirá, además, el Juez de Ejecución.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Los Juzgados de Garantía y los Tribunales de Juicio Oral contarán, además, con los servidores públicos que sean necesarios para su buen funcionamiento.
+Los Juzgados de Control y los Tribunales de Enjuiciamiento contarán, además, con los servidores públicos que sean necesarios para su buen funcionamiento.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 El Pleno del Tribunal Superior de Justicia podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialía de partes y otras áreas para dos o más juzgados de un mismo Distrito Judicial.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Los Juzgados de Garantía, los Especializados para Adolescentes y el de Ejecución de Sanciones se integran por un juez para conocer del caso. El Tribunal de Juicio Oral en materia penal siempre se integrará por tres Jueces.
+Los Juzgados de Control, los Especializados para Adolescentes y el de Ejecución de Sanciones se integran por el número de Jueces que determine el Pleno. El Tribunal de Enjuiciamiento en materia penal siempre se integrará por tres Jueces.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-En los Juzgados de Garantía y en los Tribunales de Juicio Oral deberá nombrarse un Administrador.
+En los Juzgados de Control y en los Tribunales de Enjuiciamiento podrá nombrarse un Administrador, o bien a consideración del Pleno las atribuciones de aquel serán asumidas por quien funja como jefe o encargado de causas.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 Artículo 32 BIS. Administrador
 
-El Administrador adscrito a los Juzgados de Garantía y a los Tribunales de Juicio Oral tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+El Administrador adscrito a los Juzgados de Control y a los Tribunales de Enjuiciamiento tendrá las siguientes atribuciones:
 
 l. Dirigir las labores administrativas del Juzgado o Tribunal de su adscripción;
 
@@ -911,17 +959,27 @@ Los jueces de lo mercantil conocerán de los negocios que por materia les corres
 
 Competencia de los Jueces de Primera Instancia en materia penal
 
-Los jueces del ramo penal, los de Garantía, los Especializados para Adolescentes, los integrantes de los Tribunales de Juicio Oral y los de Ejecución de Sanciones conocerán de los asuntos que por materia les corresponda, de conformidad con las leyes aplicables y de aquellos que por jurisdicción auxiliar les confieran otras leyes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Los jueces del ramo penal, los Especializados para Adolescentes, los integrantes de los Tribunales de Enjuiciamiento y los de Ejecución de Sanciones conocerán de los asuntos que por materia les corresponda, de conformidad con las leyes aplicables y de aquellos que por jurisdicción auxiliar les confieran otras leyes.
 
 En el proceso penal adversarial oral y en materia de justicia para adolescentes, los Jueces y Magistrados podrán actuar sin asistencia de secretarios o testigos de asistencia, y en ese caso ellos tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, de video o se transcriban por escrito.
 
-En los Juzgados Especializados para Adolescentes existirá un Juez de Garantía, un Juez de Juicio y un Juez de Ejecución, quienes para conocer de los asuntos de su competencia, se sujetarán a un riguroso turno e intercambio de roles o funciones a fin de equilibrar sus cargas laborales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Los Jueces de Garantía y los Jueces integrantes del Tribunal de Juicio Oral de un mismo Distrito Judicial, para equilibrar sus cargas laborales, podrán adoptar el sistema rotativo de roles o funciones basado en la competencia en razón del turno, siempre que el Pleno del Tribunal Superior de Justicia así lo determine.
+En los Juzgados Especializados para Adolescentes existirán Jueces de Control, Jueces de Juicio y Jueces de Ejecución, quienes para conocer de los asuntos de su competencia, se sujetarán a un riguroso turno e intercambio de roles o funciones a fin de equilibrar sus cargas laborales.
 
-Bajo ninguna circunstancia el Juez de Garantía podrá fungir como Juez de Juicio Oral en un mismo asunto y viceversa.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Todo incidente de liquidación, autorización para el pago en parcialidades o para embargo de bienes, remate en pública almoneda o cualquier otra incidencia o controversia que se suscite en la etapa de ejecución de sentencia, serán resueltas por el Juez de Garantía a quien inicialmente haya correspondido el asunto, salvo disposición legal en contrario.
+Los Jueces de Control y los Jueces integrantes del Tribunal de Enjuiciamiento de un mismo Distrito Judicial, para equilibrar sus cargas laborales, adoptarán el sistema rotativo de roles o funciones basado en la competencia en razón del turno, salvo que el Pleno del Tribunal Superior de Justicia determine otra forma.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Bajo ninguna circunstancia el Juez de Control podrá fungir como Juez de Tribunal de Enjuiciamiento en un mismo asunto y viceversa.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Todo incidente de liquidación, autorización para el pago en parcialidades o para embargo de bienes, remate en pública almoneda o cualquier otra incidencia o controversia que se suscite en la etapa de ejecución de sentencia, serán resueltas por el Juez a quien inicialmente haya correspondido el asunto, salvo disposición legal en contrario.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
@@ -947,77 +1005,51 @@ Competencia de los Jueces Mixtos de Primera Instancia
 
 Los jueces mixtos conocerán de los asuntos civiles, familiares, mercantiles y penales a que se refieren los artículos 34, 35, 36 y 37 de esta ley, según lo determine el acuerdo de su creación.
 
-### CAPITULO SEGUNDO. DE LOS JUZGADOS MUNICIPALES
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
+### CAPITULO SEGUNDO. DE LOS JUZGADOS MUNICIPALES
 
 ###### Artículo 39.
 
-En cada municipio del Estado, funcionará el servicio de atención a los asuntos que correspondan a los juzgados municipales. Tal servicio podrá ser de competencia mixta o especializada, por lo que no necesariamente se instalará un juzgado municipal en cada municipio, sino que, en su caso, se estará a lo dispuesto en los párrafos siguientes de este artículo.
-
-El Pleno del Tribunal Superior de Justicia, mediante acuerdo general, podrá asignar a un juzgado de Primera Instancia los asuntos que por competencia correspondan al juzgado municipal ubicado en su distrito judicial.
-
-Asimismo, mediante acuerdo general, el Pleno del Tribunal Superior de Justicia podrá disponer que un juez funja como titular de dos o más juzgados municipales, atendiendo a las necesidades del servicio, a las condiciones geográficas, económicas, sociales y de vías de comunicación que prevalezcan en los municipios; de igual forma, un juzgado municipal podrá conocer de asuntos de otro municipio tomando en consideración las circunstancias citadas.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 40.
 
-Requisitos para ser Juez Municipal
-
-Para ser juez municipal se requiere:
-
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
-
-II. Tener título de licenciado en derecho y dos años de práctica profesional o un año al servicio del Poder Judicial;
-
-III. Gozar de buena reputación y haber observado buena conducta;
-
-IV. No tener vínculo matrimonial, ni parentesco por consanguinidad o afinidad, hasta el tercer grado, con los magistrados del Tribunal Superior, jueces de primera instancia y con el Procurador General de Justicia, excepto cuando su ingreso al cargo haya sido anterior a la designación de los referidos servidores públicos;
-
-V. Aprobar el examen de oposición, con excepción, a juicio del Pleno, de aquéllos que con anterioridad hayan desempeñado el cargo de juez de Primera Instancia del Estado, siempre que no lo haya hecho con el carácter de interino.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 41.
 
-Competencia y jurisdicción de los Jueces Municipales
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
-Los jueces a los que se refiere este capítulo, ejercerán jurisdicción en todo el territorio de su municipio.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Su competencia por materia, grado, valor o cuantía, se sujetará originalmente a lo siguiente:
+### CAPITULO TERCERO. REGLAS PARA LOS JUZGADOS DE PRIMERA INSTANCIA
 
-I. Conocerán de los juicios ejecutivos mercantiles cuya suerte principal no exceda de trescientas cuotas de salario mínimo general vigente en la capital del Estado;
-
-II. Conocerán, en materia familiar, de las cuestiones de alimentos;
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
-
-III. Conocerán de todos los juicios que conforme a la ley, deban tramitarse por la vía de jurisdicción voluntaria, incluyendo los juicios sobre rectificación de actas del Registro Civil a que se refiere el capítulo VIII, título tercero, libro tercero del código de Procedimientos Civiles del Estado;
-
-IV. Conocerán de los delitos que de conformidad con el Código de Procedimientos Penales, deban tramitarse en vía sumaria;
-
-V. Diligenciarán los exhortos, requisitorias o despachos que les encomienden, respectivamente, el Tribunal Superior de Justicia, los juzgados de Primera Instancia o los juzgados Municipales;
-
-VI. Procurarán la conciliación entre las partes, siempre que la ley lo permita.
-
-Mediante acuerdo general el Tribunal Superior de Justicia, podrá variar la competencia, atendiendo a las necesidades del servicio, a las condiciones geográficas, económicas, sociales y de vías de comunicación que prevalezcan entre municipios conurbados.
-
-### CAPITULO TERCERO. REGLAS COMUNES PARA LOS JUZGADOS DE PRIMERA INSTANCIA Y MUNICIPALES
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 42.
 
-Requisitos para ser Secretario de Acuerdos de Juzgado de Primera Instancia o Municipal
+Requisitos para ser Secretario de Acuerdos de Juzgado de Primera Instancia
 
-Para ser secretario de acuerdos de juzgado de primera instancia o municipal, se debe cumplir con los requisitos que establece el artículo 21 de esta ley. Sin embargo, por acuerdo del Pleno, se podrá dispensar, por excepción, el requisito de poseer título de licenciado en derecho.
+Para ser secretario de acuerdos de juzgado de primera instancia, se debe cumplir con los requisitos que establece el artículo 21 de esta ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 43.
 
-Requisitos para ser Actuario, Notificador, Oficial de Partes o Secretario Auxiliar de Juzgados de Primera Instancia o Municipal
+Requisitos para ser Actuario, Notificador, Oficial de Partes o Secretario Auxiliar de Juzgados de Primera Instancia
 
-Para ser actuario, notificador, oficial de partes o secretario auxiliar de juzgados de Primera Instancia o Municipales, deberán reunirse los requisitos que establece el artículo 23 de esta ley.
+Para ser Actuario, Notificador, Oficial de Partes o Secretario Auxiliar de juzgados de Primera Instancia, deberán reunirse los requisitos que establece el artículo 23 de esta ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 44.
 
-Obligaciones administrativas de los Jueces de Primera Instancia y Municipales.
+Obligaciones administrativas de los Jueces de Primera Instancia
 
-Además de los asuntos de su competencia, los jueces de Primera Instancia y Municipales, tendrán las siguientes obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Además de los asuntos de su competencia, los jueces de Primera Instancia, tendrán las siguientes obligaciones:
 
 I. Practicar las diligencias que les encomiende el Tribunal Superior de Justicia, dentro de su jurisdicción;
 
@@ -1039,11 +1071,15 @@ IX. Residir en la cabecera de la circunscripción territorial de su adscripción
 
 X. Las demás que determinen la ley, los reglamentos y acuerdos generales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 45.
 
-Obligaciones de los Secretarios de Acuerdos de los Juzgados de Primera Instancia y Municipales
+Obligaciones de los Secretarios de Acuerdos de los Juzgados de Primera Instancia
 
-Son obligaciones de los secretarios de acuerdos de los juzgados de Primera Instancia y Municipales:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Son obligaciones de los secretarios de acuerdos de los juzgados de Primera Instancia:
 
 I. Recibir de la oficialía de partes que corresponda, las promociones que se presenten, verificando que en las mismas se encuentre el sello oficial, con razón del día y la hora en que hayan sido exhibidas y los anexos que se acompañen;
 
@@ -1077,11 +1113,15 @@ XV. Vigilar que se mantenga en orden el archivo del juzgado; y
 
 XVI. Las demás que determinen la ley, los reglamentos y acuerdos generales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 46.
 
-Obligaciones de los Actuarios, Notificadores y Oficiales de Partes de los Juzgados de Primera Instancia y Municipales
+Obligaciones de los Actuarios, Notificadores y Oficiales de Partes de los Juzgados de Primera Instancia
 
-Los actuarios y notificadores de los juzgados de Primera Instancia y Municipales, tendrán las siguientes obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Los actuarios y notificadores de los juzgados de Primera Instancia, tendrán las siguientes obligaciones:
 
 I. Recibir del secretario de acuerdos los expedientes respectivos, en los que deban llevarse a cabo diligencias fuera del juzgado;
 
@@ -1095,11 +1135,15 @@ Serán atribuciones de los oficiales de partes, recibir los escritos y demás do
 
 El Pleno del Tribunal podrá crear unidades que agrupen a los servidores públicos que se mencionan para, en cumplimiento de sus atribuciones, obsequiar las órdenes que emitan distintos juzgados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 47.
 
-Obligaciones de los Secretarios Auxiliares de los Juzgados de Primera Instancia y Municipales
+Obligaciones de los Secretarios Auxiliares de los Juzgados de Primera Instancia
 
-Son obligaciones de los secretarios auxiliares de los juzgados de primera instancia y municipales:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Son obligaciones de los secretarios auxiliares de los juzgados de primera instancia:
 
 I. Cumplir las instrucciones que en el ejercicio de sus labores les giren el juez o el secretario de acuerdos;
 
@@ -1111,15 +1155,15 @@ IV. Autorizar con su firma las diligencias y resoluciones en que intervengan; y
 
 V. Las demás que les fijen las leyes, reglamentos y acuerdos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 48.
 
-Suplencia de Jueces de Primera Instancia y Municipales
+Suplencia de Jueces de Primera Instancia
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+Los jueces de Primera Instancia, en sus ausencias temporales que no excedan de un mes, podrán ser sustituidos por el secretario de acuerdos.
 
-Los jueces de Primera Instancia y Municipales, en sus ausencias temporales que no excedan de un mes, podrán ser sustituidos por el secretario de acuerdos.
-
-Cuando las ausencias de los jueces de Primera Instancia o Municipales, excedan del término a que se refiere el párrafo anterior, el Pleno del Tribunal Superior de Justicia, designará un juez interino que se haga cargo del despacho, en tanto regresa el titular o se hace la designación definitiva.
+Cuando las ausencias de los jueces de Primera Instancia excedan del término a que se refiere el párrafo anterior, el Pleno del Tribunal Superior de Justicia designará un juez interino que se haga cargo del despacho, en tanto regresa el titular o se hace la designación definitiva.
 
 ## TITULO CUARTO. DISPOSICIONES GENERALES
 
@@ -1141,15 +1185,19 @@ Ausencias, impedimentos, recusaciones o excusas de Secretarios de Acuerdos del T
 
 En los casos de ausencias temporales, impedimentos, recusaciones o excusas del Secretario General de Acuerdos o de los Secretarios de Acuerdos de las Salas, serán sustituidos por el Secretario de Acuerdos que designe el Presidente del Tribunal Superior de Justicia.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
-Impedimentos, recusaciones o excusas de Jueces de Primera Instancia o Municipales
+Impedimentos, recusaciones o excusas de Jueces de Primera Instancia
 
-En caso de impedimento, recusación o excusa de algún Juez de Primera Instancia o Municipal, éste será sustituido por el que designe la Sala correspondiente.
+En caso de impedimento, recusación o excusa de algún Juez de Primera Instancia, éste será sustituido por el que designe la Sala correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 52.
 
-Ausencias, impedimentos, recusaciones o excusas de Secretarios de Acuerdos y Actuarios de Juzgados de Primera Instancia y Municipales
+Ausencias, impedimentos, recusaciones o excusas de Secretarios de Acuerdos y Actuarios de Juzgados de Primera Instancia
 
 Los secretarios de acuerdos y actuarios de los juzgados de primera instancia, por ausencia temporal, impedimento, recusación o excusa, serán sustituidos por el secretario auxiliar que designe el juez.
 
@@ -1163,7 +1211,9 @@ La excitativa de justicia se sujetará a las siguientes reglas:
 
 I. Procede contra omisiones, retrasos o dilaciones en que incurran los servidores públicos del Poder Judicial en ejercicio de sus funciones, que produzcan daño a alguna de las partes;
 
-II. Toda excitativa de justicia se promoverá por escrito ante el Pleno cuando se trate de las Salas, Magistrados o servidores Públicos del Tribunal Superior de Justicia; ante la Sala correspondiente, cuando se trate de los jueces de Primera Instancia y Municipales que conozcan de ese ramo y, ante éstos cuando sea contra los empleados de sus juzgados;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. Toda excitativa de justicia se promoverá por escrito ante el Pleno cuando se trate de las Salas, Magistrados o servidores Públicos del Tribunal Superior de Justicia; ante la Sala correspondiente, cuando se trate de los jueces de Primera Instancia que conozcan de ese ramo y, ante éstos cuando sea contra los empleados de sus juzgados;
 
 III. Interpuesta la excitativa, se pedirá a la autoridad respectiva, un informe que deberá rendir dentro del término de cinco días. La falta del mismo establece la presunción de ser cierto el acto u omisión que se atribuye, salvo prueba en contrario;
 
@@ -1447,11 +1497,13 @@ Las infracciones administrativas en que incurrieren los servidores públicos del
 
 Inmunidad
 
-Los magistrados del Tribunal Superior de Justicia gozan de la inmunidad que les otorga la Constitución Política de los Estados Unidos Mexicanos y éstos, así como los jueces de Primera Instancia y Municipales de la que les otorga la Constitución Política del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Los magistrados del Tribunal Superior de Justicia gozan de la inmunidad que les otorga la Constitución Política de los Estados Unidos Mexicanos y éstos, así como los jueces de Primera Instancia de la que les otorga la Constitución Política del Estado.
 
 Los demás servidores públicos del Poder Judicial, serán procesados por los delitos en que incurrieren.
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ## TITULO QUINTO. DEL TRIBUNAL DE JUSTICIA ELECTORAL
 
@@ -1461,15 +1513,15 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 76.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 77.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 78.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
@@ -1477,19 +1529,19 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 79.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 80.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 81.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 82.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
@@ -1497,7 +1549,7 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 83.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
@@ -1505,11 +1557,11 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 84.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 85.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2002)</small>
 
@@ -1517,15 +1569,15 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 86.
 
-(DEROGADO, P.O. 12 DE ENERO DE 2002)
+(DEROGADO, P.O. 12 DE ENERO DE 2002) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 87.
 
-(DEROGADO, P.O. 12 DE ENERO DE 2002)
+(DEROGADO, P.O. 12 DE ENERO DE 2002) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 88.
 
-(DEROGADO, P.O. 12 DE ENERO DE 2002)
+(DEROGADO, P.O. 12 DE ENERO DE 2002) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE ENERO DE 2002)</small>
 
@@ -1533,7 +1585,7 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 89.
 
-(DEROGADO, P.O. 12 DE ENERO DE 2002)
+(DEROGADO, P.O. 12 DE ENERO DE 2002) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2002)</small>
 
@@ -1541,11 +1593,11 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 90.
 
-(DEROGADO, P.O. 12 DE ENERO DE 2002)
+(DEROGADO, P.O. 12 DE ENERO DE 2002) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 91.
 
-(DEROGADO, P.O. 12 DE ENERO DE 2002)
+(DEROGADO, P.O. 12 DE ENERO DE 2002) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
@@ -1553,7 +1605,7 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 92.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
@@ -1561,11 +1613,11 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 93.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 94.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2002)</small>
 
@@ -1573,11 +1625,11 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 95.
 
-(DEROGADO, P.O. 12 DE ENERO DE 2002)
+(DEROGADO, P.O. 12 DE ENERO DE 2002) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 96.
 
-(DEROGADO, P.O. 12 DE ENERO DE 2002)
+(DEROGADO, P.O. 12 DE ENERO DE 2002) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
@@ -1585,19 +1637,19 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 97.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 98.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 99.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 100.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
@@ -1605,11 +1657,11 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 101.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 102.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
@@ -1617,7 +1669,7 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 103.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
@@ -1625,23 +1677,23 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 104.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 105.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 106.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 107.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 108.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
@@ -1649,19 +1701,19 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 109.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 110.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 111.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 112.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
@@ -1669,39 +1721,39 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 113.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 114.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 115.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 116.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 117.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 118.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 119.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 120.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 121.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
@@ -1709,15 +1761,15 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 122.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 123.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 124.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
@@ -1725,7 +1777,7 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ###### Artículo 125.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2014) (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003)</small>
 
@@ -1914,3 +1966,9 @@ P.O. 26 DE NOVIEMBRE DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
 
 Artículo Segundo.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO. Las reformas a la Ley Orgánica del Poder Judicial del Estado, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. En las causas penales iniciadas con anterioridad a la entrada en vigor del Código Nacional de Procedimientos Penales, continuarán su substanciación, conforme dispone el artículo Transitorio Tercero de dicho ordenamiento, es decir, de acuerdo a las reglas del Código Procesal Penal para el Estado de Zacatecas; las alusiones a Juez de Garantía y Tribunal de Juicio Oral suprimidas de esta ley, por congruencia a este último Ordenamiento Legal, deberán seguir vigentes.
