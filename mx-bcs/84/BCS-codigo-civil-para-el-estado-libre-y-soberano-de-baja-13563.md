@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2014-11-20"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -237,6 +237,10 @@ El Registro Civil es la institución de orden público y de interés social por 
 
 El Registro Civil estará constituido por una Dirección Estatal, un Archivo Central, y las Direcciones del Registro Civil de los Ayuntamientos y Oficialías del Registro Civil que acuerde el Ejecutivo del Estado, a propuesta de los Presidentes Municipales respectivos.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Para garantizar y facilitar el registro de los menores nacidos en clínicas, sanatorios u hospitales de las instituciones de salud pública o privadas, se podrán establecer en ellas módulos dependientes de las Oficialías del Registro Civil. Para lo cual se deberá celebrar un convenio de cooperación entre la Dirección del Registro Civil del Ayuntamiento que corresponda, la Institución de Salud Pública o Privada, y la Coordinación Estatal del Registro Civil.
+
 ###### Artículo 37.
 
 La titularidad de las oficialías del Registro Civil estará a cargo de servidores públicos municipales, denominados "Oficiales del Registro Civil", designados por el Presidente Municipal respectivo, quienes tendrán fe pública en el desempeño de las labores propias de su cargo.
@@ -377,13 +381,17 @@ Será registro ordinario el efectuado dentro del plazo establecido en el primer 
 
 Queda prohibido a los Oficiales del Registro Civil asentar los nacimientos de personas que tengan más de siete años de edad. El registro correspondiente, en este caso, deberá tramitarse ante la autoridad judicial competente, por la vía de jurisdicción voluntaria, salvo en los casos de campañas especiales de registro extemporáneo.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 62.
 
-El Ejecutivo del Estado podrá instrumentar campañas especiales de registro extemporáneo de nacimientos, en las cuales los interesados deberán cumplir los requisitos que para el caso se establezcan.
+El Ejecutivo del Estado deberá instrumentar una vez al año campañas especiales de registro extemporáneo de nacimientos, o cuando alguno de los H. Ayuntamientos de la entidad lo solicite al Gobernador del Estado, y en las cuales los interesados deberán cumplir los requisitos que para el caso se establezcan.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 63.
 
-Las campañas a que se refiere el artículo anterior, tendrán la temporalidad que el Gobernador del Estado determine expresamente, debiendo consignarse si deben ser instrumentadas para toda la población o sólo para grupos marginados, así como la exención en el pago de los derechos correspondientes, si se otorgase.
+Las campañas a que se refiere el artículo anterior, tendrán una duración mínima de seis meses, debiendo consignarse si deben ser instrumentadas para toda la población o sólo para grupos marginados, así como la exención en el pago de los derechos correspondientes, si se otorgase.
 
 ###### Artículo 64.
 
@@ -1913,6 +1921,14 @@ Salvo casos excepcionales, como violencia familiar, enfermedades graves y contag
 
 Cuando ambos progenitores conserven la patria potestad, la asignación de los hijos sólo legitima su cohabitación permanente con el padre custodio, como consecuencia natural de la separación corporal de los cónyuges o de la disolución del matrimonio, pero no debe afectar los derechos del padre no custodio a tener una adecuada vinculación con sus hijos, ni el cumplimiento de sus obligaciones de nutrición afectiva, humanización y socialización de sus descendientes.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Artículo 323 bis.- En la relación entre ascendentes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición. Quien ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de los menores con el otro ascendiente, en consecuencia, cada uno de los ascendientes deberá evitar cualquier acto de alienación parental.
+
+Se entiende por alienación parental la manipulación o inducción que un progenitor realiza hacia su menor hijo, mediante la desaprobación o critica tendiente a obtener la denigración exagerada y/o injustificada del otro progenitor para producir en el menor, rechazo, rencor, odio o desprecio hacia este.
+
+En cualquier momento en que se presentare la alienación parental por parte de alguno de los progenitores hacia los hijos, el juez ordenara de oficio las medidas terapéuticas necesarias para los menores, con la finalidad de restablecer la sana convivencia con ambos progenitores.
+
 ###### Artículo 324.
 
 En los casos en que el Juez lo juzgue conveniente y se trate de hijos mayores de doce años, la custodia se decretará después de escuchar a dichos menores, con asistencia de psicólogos o trabajadores sociales, siempre que no les cause perjuicios.
@@ -1920,6 +1936,12 @@ En los casos en que el Juez lo juzgue conveniente y se trate de hijos mayores de
 ###### Artículo 325.
 
 Atendiendo a las necesidades de una sana comunicación paterno filial, el juzgador procurará que los derechos del padre no custodio, se ejerzan fuera del domicilio al que están asignados los hijos, salvo casos excepcionales como enfermedad, minoridad extrema u otros similares, en los que se autorizará temporalmente la visita en la casa del padre titular de la tenencia.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Artículo 325 bis.- Sin perjuicio de lo dispuesto en los artículos precedentes, en los casos que el Padre no custodio, no pueda acceder a la convivencia con el menor, dado la negativa injustificada del padre o madre custodio, la autoridad judicial para garantizar el derecho del menor a la convivencia con su Padre no custodio, decretara las medidas necesarias para que esta se lleve a cabo.
+
+El Poder Judicial del Estado constituirá Centros de Convivencia Familiar los cuales serán destinados a garantizar el interés superior del menor mediante el logro de una eficaz y sana convivencia entre los menores y las personas que tengan derecho de convivir con aquellos, a efectos de propiciar y reforzar los lazos de identidad y confianza entre ellos. Dicho Centro funcionara bajo los lineamientos que se establezcan en la Ley Orgánica del Poder Judicial del Estado de Baja California Sur y el reglamento que al efecto se expida para regular su funcionamiento por el Pleno del Tribunal Superior de Justicia.
 
 ###### Artículo 326.
 
@@ -15573,6 +15595,10 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publi
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 
-P.O. 20 DE NOVIEMBRE DE 2014.
+B.O. 20 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
