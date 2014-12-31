@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-22084"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-09-14"
-last_updated: "2014-06-21"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el viernes 14 de septiembre de 2001.
 
@@ -569,7 +569,15 @@ XXXIII. Procurar la creación del Instituto Municipal de la Mujer.
 
 En su caso, varios Municipios podrán asociarse para crear institutos regionales; y
 
-XXXIV. Las demás que les señalen la Constitución Política de los Estados Unidos Mexicanos, la del Estado y demás disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXXIV. Las autoridades municipales tendrán la obligación de dar a conocer y divulgar el Periódico Oficial, Órgano del Gobierno del Estado y resguardarlos debidamente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXXV. Cada Municipio organizará un archivo de las publicaciones del Periódico Oficial, Órgano del Gobierno del Estado y de su Gaceta Gubernamental Municipal, a efecto de poder ser consultados por el público en general; y
+
+XXXVI. Las demás que les señalen la Constitución Política de los Estados Unidos Mexicanos, la del Estado y demás disposiciones jurídicas aplicables.
 
 El Presidente Municipal, Regidores y Síndico, y los servidores públicos municipales estarán obligados a comparecer ante la Legislatura del Estado, cuando ésta lo estime necesario o requiera de alguna información relativa a sus funciones y responsabilidades.
 
@@ -1161,7 +1169,7 @@ III. La Dirección de Desarrollo Económico y Social;
 
 IV. La Dirección de Obras y Servicios Públicos Municipales;
 
-V. La Contraloría Municipal; y (sic)
+V. La Contraloría Municipal; y
 
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
@@ -2548,3 +2556,7 @@ P.O. 21 DE JUNIO DE 2014.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Artículo Único.- El presente decreto entrara en vigor al momento de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
