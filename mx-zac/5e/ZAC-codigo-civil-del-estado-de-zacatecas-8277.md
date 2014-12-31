@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2014-12-03"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -5239,7 +5239,9 @@ IV.- En los demás casos, la obligación de restituir se rige por lo dispuesto e
 
 1750.- El interés es legal o convencional.
 
-1751.- El interés legal es el veinticuatro por ciento anual.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+1751.- El interés legal es el nueve por ciento anual.
 
 1752.- El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia, de la ignorancia o de la necesidad del deudor, a petición de este el Juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
 
@@ -8134,3 +8136,9 @@ Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente D
 Tercero.- Se abroga el Decreto 605, por el que se reforman diversos ordenamientos legales para dar vigencia al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 2 al No. 40 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de mayo de 2013. Y se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo a la publicación de la presente reforma, se desahogarán y resolverán de conformidad con la Ley de Fraccionamientos Rurales, sin ordenarse la expedición del título, por lo que al momento de certificar la zona a la que pertenezca el inmueble e inicie el proceso de obtención del dominio pleno, el acuerdo de adjudicación servirá para acreditar el derecho que le asiste al interesado. Por tanto se remitirá el acuerdo al Organismo Regularizador de la Tenencia de la Tierra para que expida la escritura privada correspondiente.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
