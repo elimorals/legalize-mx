@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-libre-y-soberano-de-puebla-78369"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-08"
-last_updated: "2013-12-30"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 8 de diciembre de 2010.
 
@@ -195,9 +195,9 @@ VI.- Los premios por asistencia o por puntualidad, siempre que el importe entreg
 
 VII.- Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de la contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro; y
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VIII.- La despensa, siempre y cuando se entregue mediante vales y su importe no rebase el 40% del salario mínimo general vigente en el Estado.
+VIII.- La despensa, siempre y cuando se entregue mediante monederos electrónicos autorizados por el Servicio de Administración Tributaria y su importe no rebase el 40% del salario mínimo general vigente en el Estado; el excedente se tomará en cuenta para el cálculo del impuesto.
 
 La despensa entregada en efectivo se deberá tomar en cuenta en su totalidad para el cálculo del impuesto.
 
@@ -231,11 +231,15 @@ Cuando exista cantidad a pagar, los contribuyentes presentarán las declaracione
 
 Los sujetos del impuesto a que se refiere este Capítulo, además de cumplir con las obligaciones a que se refiere esta Ley y demás disposiciones fiscales aplicables, deberán:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I.- Solicitar la inscripción en el Registro Estatal de Contribuyentes ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se establezcan;
+I.- Solicitar la inscripción en el Registro Estatal de Contribuyentes ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales o los medios electrónicos autorizados por la Secretaría de Finanzas y Administración; debiendo señalar y/o entregar los datos y documentos que en ellos se establezcan;
 
-II.- Presentar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente, los avisos respectivos de cambio de nombre, denominación o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación del Registro Estatal de Contribuyentes.
+Para efectos de la inscripción a través de medios electrónicos, el contribuyente deberá contar con su firma electrónica (FIEL), expedida por el Servicio de Administración Tributaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II.- Presentar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente, los avisos respectivos de cambio de nombre, denominación o razón social, de domicilio fiscal, de actividad preponderante, de representante legal; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación del Registro Estatal de Contribuyentes.
 
 Asimismo, presentar ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, las declaraciones informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas oficiales, con los requisitos y en los plazos que en las mismas se establezcan;
 
@@ -280,6 +284,10 @@ VII.- Informar a requerimiento de las autoridades fiscales, el nombre, denominac
 ###### Artículo 16.
 
 Los contribuyentes de este impuesto, además de las obligaciones establecidas en el artículo anterior, deberán presentar semestralmente ante las Oficinas Recaudadoras y de Asistencia al Contribuyente, la información relativa a sus proveedores y prestadores de servicios, en la que se deberá señalar el nombre o razón social, el Registro Federal de Contribuyentes y el domicilio fiscal, mediante las formas oficiales autorizadas o medios electrónicos que apruebe la Secretaría de Finanzas y Administración.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Para el caso de proveedores y prestadores de servicios, además de presentar la información referida en el párrafo anterior, deberán indicar el periodo de vigencia del contrato respectivo, así como el número promedio mensual de los trabajadores objeto del contrato.
 
 Dicha información deberá presentarse a más tardar los días 30 de los meses de enero y julio, con los datos relativos al semestre inmediato anterior.
 
@@ -781,6 +789,10 @@ Para aquellos vehículos que porten placas de transporte público federal, el im
 
 En los casos que proceda, el contribuyente comprobará el pago del Impuesto Sobre Tenencia o Uso de Vehículos a que esté sujeto, con el original del comprobante de pago que le hubiere expedido la Entidad Federativa correspondiente.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En el caso de inscripción o alta en el Registro Estatal Vehicular, tratándose de vehículos usados, se deberá realizar el pago del Impuesto Sobre Tenencia o Uso de Vehículos correspondiente a los últimos cinco ejercicios fiscales de que se trate, o bien acreditar dicho pago en otra Entidad Federativa.
+
 Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
 
 Mes Factor aplicable
@@ -811,9 +823,11 @@ Diciembre 0.08
 
 Los importadores ocasionales efectuarán el pago del Impuesto Sobre Tenencia o Uso de Vehículos, correspondiente al primer año de calendario en los plazos, lugares y formas establecidos en este Capítulo y de conformidad con los convenios que al efecto se suscriban con las autoridades competentes. Para los siguientes años de calendario, se estará a lo dispuesto en este artículo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 47.
 
-Para los efectos de lo dispuesto en los artículos 35, 36 fracción II, 37 fracción II y 39 de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado, mismo que se obtendrá de conformidad con lo dispuesto en el Código Fiscal del Estado.
+Para los efectos de lo dispuesto en los artículos 35, 36 fracción II, 37 fracción II y 39 de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán en el mes de enero de cada año aplicando el factor correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de noviembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 35 del Código Fiscal del Estado de Puebla.
 
 ###### Artículo 48.
 
@@ -834,6 +848,10 @@ VI.- Las embarcaciones dedicadas al transporte mercante o a la pesca comercial;
 VII.- Las aeronaves monomotores de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga; y
 
 VIII.- Las aeronaves con más de 20 pasajeros, destinadas al aerotransporte al público en general.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IX.- Los vehículos que hayan sido objeto de robo hasta su recuperación; siempre y cuando al momento de la comisión de dicho, este se encuentre al corriente en el pago de sus contribuciones vehiculares, lo cual será aplicable para los ejercicios fiscales subsecuentes hasta la recuperación del automotor.
 
 Los tenedores o usuarios de los vehículos a que se refiere este artículo, para gozar del beneficio que el mismo establece, al momento de solicitarlo deberán comprobar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente que se encuentran comprendidos en dichos supuestos.
 
@@ -908,6 +926,10 @@ III.- Estar al corriente en el pago de los derechos previstos en la Ley de Ingre
 IV.- (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
 V.- Ratificar y, en los casos que proceda, actualizar los datos en el Registro Estatal Vehicular mediante la presentación de la declaración informativa o de los actos administrativos correspondientes.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VI.- No tener créditos fiscales pendientes de pago, provenientes de sanciones por no respetar los límites de velocidad establecidos para las vías públicas de jurisdicción estatal, en las que se encuentre cualquier dispositivo o medio tecnológico de captación de infracciones.
 
 ### CAPÍTULO IV. DEL IMPUESTO SOBRE ADQUISICIÓN DE VEHÍCULOS AUTOMOTORES USADOS
 
@@ -1251,13 +1273,25 @@ V.- Enajenación del vehículo;
 
 VI.- Cambio de propietario; y
 
-VII.- Baja del vehículo por cambio de domicilio a otra Entidad Federativa, siniestro, robo o por estar inservible o chatarrizado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+VII.- Baja del vehículo por alguno de los siguientes supuestos:
 
-Tratándose de trámite de baja de vehículo por cambio de domicilio a otra Entidad Federativa, la autoridad fiscal expedirá un permiso provisional con vigencia de 15 días para que el vehículo circule provisionalmente sin placa oficial.
+a) Cambio de domicilio a otra Entidad Federativa.
+
+En este caso, la autoridad fiscal expedirá un permiso provisional con vigencia de 15 días para que el vehículo de motor circule sin placa de identificación.
+
+b) Que el automotor de que se trate sufra algún siniestro, sea robado, esté inservible o chatarrizado.
+
+c) Cuando los propietarios de vehículos inscritos en el Registro Estatal Vehicular entreguen sus automotores en prenda, venta o consignación a personas cuya actividad o giro sea la enajenación o comercialización de vehículos.
+
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Los formatos y mecanismos para realizar los trámites o movimientos a que se refiere este artículo se darán a conocer mediante Reglas de Carácter General que emita y publique la Secretaría de Finanzas y Administración, en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Para que la Autoridad Fiscal realice cualquier movimiento ante el Registro Estatal Vehicular, el propietario tenedor o usuario deberá demostrar estar al corriente en el pago de las contribuciones vehiculares, así como no tener créditos fiscales pendientes de pago, provenientes de sanciones por no respetar los límites de velocidad establecidos para las vías públicas en las que se encuentre cualquier dispositivo o medio tecnológico de captación de infracciones.
 
 ###### Artículo 89.
 
@@ -1406,3 +1440,9 @@ P.O. 30 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas aquéllas disposiciones que contravengan lo dispuesto en el presente Decreto.
