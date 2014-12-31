@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-asistencia-social-del-estado-de-82531"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-03"
-last_updated: "2011-08-03"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de agosto de 2011.
 
@@ -97,7 +97,9 @@ El Sistema está integrado por las siguientes dependencias y entidades:
 
 I. Secretaría General de Gobierno;
 
-II. Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. Secretaría de Desarrollo Social.
 
 III. Servicios de Salud;
 
@@ -131,7 +133,9 @@ III. Obtener recursos a través de la promoción, obtención y asignación de su
 
 IV. El representante designado ante el Consejo, permanecerá en su cargo el tiempo que se desempeñe como servidor público; y
 
-V. Aprobar los planes de labores, presupuestos, informe de actividades y estados financieros, que se manejen a través del Sistema.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V. Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros, que se manejen a través del Sistema; los que se pondrán a consideración previa de la Unidad de Planeación del Poder Ejecutivo
 
 ###### Artículo 8.
 
@@ -319,7 +323,9 @@ Las sesiones ordinarias del Patronato, se llevarán a cabo cada seis meses y las
 
 La Junta de Gobierno es la máxima autoridad del Organismo y se integrará de la forma siguiente:
 
-I. El Secretario de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. El Secretario de Desarrollo Social;
 
 II. El Director General de los Servicios de Salud, quien la Presidirá;
 
@@ -329,11 +335,13 @@ IV. El Director del Organismo;
 
 V. El Secretario de Finanzas;
 
-VI. El Contralor Interno;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VI. El Secretario de la Función Pública;
 
 VII. El Procurador General de Justicia; y
 
-VIII. El Director de la Comisión Estatal de Integración Social al Desarrollo de las Personas con Discapacidad.
+VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 33.
 
@@ -439,7 +447,9 @@ Con el fin de obtener el reconocimiento del Estado, será obligación de cada In
 
 El Consejo Consultivo estará integrado de la manera siguiente:
 
-I. El Secretario de Planeación y Desarrollo Regional, quien lo Presidirá;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. El Secretario de Desarrollo Social, quien lo Presidirá
 
 II. El Director del Organismo, será el Vicepresidente;
 
@@ -560,3 +570,13 @@ MIGUEL ALEJANDRO ALONSO REYES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ESAÚ HERNÁNDEZ HERRERA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero: Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
