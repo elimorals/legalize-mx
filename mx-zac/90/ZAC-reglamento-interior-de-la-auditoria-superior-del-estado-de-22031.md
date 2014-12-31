@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-auditoria-superior-del-estado-de-2203
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-14"
-last_updated: "2001-07-14"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE ZACATECAS
 
-REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE ZACATECAS
+REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 14 de julio de 2001.
 
@@ -546,3 +548,23 @@ ING. LEONEL G. CORDERO LERMA
 DIPUTADO SECRETARIO
 
 PABLO RAMIREZ FIGUEROA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a partir del 1° de enero de 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Auditoría Superior del Estado de Zacatecas publicado en el Periódico Oficial del Gobierno del Estado de Zacatecas el 14 de julio de 2001.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos en trámite al entrar en vigor este Reglamento, que conforme al mismo deban pasar de un área a otra u otras, continuarán su trámite y serán resueltos por aquella o aquéllas unidades a quienes se atribuye la competencia en el presente ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en este Reglamento se dé una denominación nueva o distinta a alguna Dirección o Departamento establecida con anterioridad a la vigencia del mismo, aquélla Dirección o Departamento atenderá los asuntos a que se refiere este ordenamiento.
