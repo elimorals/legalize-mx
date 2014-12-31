@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-57949
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-12"
-last_updated: "2014-05-28"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre de 2007.
 
@@ -75,7 +75,7 @@ k) Fomento educativo, cultural, artístico, científico, tecnológico, y agríco
 
 l) Acciones de protección civil;
 
-m) Prestación de servicios y apoyo técnico a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta ley; y (sic)
+m) Prestación de servicios y apoyo técnico a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta ley; y
 
 n) Todas aquellas encaminadas al desarrollo y protección de los Derechos sociales;
 
@@ -153,9 +153,11 @@ La Secretaría llevará a cabo las acciones reglamentarias para dar debido cumpl
 
 La Secretaría deberá de expedir la constancia de registro a todas las organizaciones que hayan cumplido con los requisitos previstos en esta Ley u su reglamento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 8.
 
-La Secretaría deberá conservar las constancias de solicitud y registro promovidas por las organizaciones en los términos previstos en la Ley General de Documentación para el Estado de Morelos y la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+La Secretaría deberá conservar las constancias de solicitud y registro promovidas por las organizaciones en los términos previstos en la Ley Estatal de Documentación y Archivos de Morelos y la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2014)</small>
 
@@ -474,3 +476,13 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
