@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-97052
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-28"
-last_updated: "2014-01-15"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2014
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO NO. 256 POR EL QUE SE EXPIDE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2015, PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE ENERO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 42 PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2013.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. 31 DE DICIEMBRE DE 2014, SI DURANTE 2014 NO FUERON FORMALIZADOS Y/O NO DISPUESTOS PARTE O LA TOTALIDAD DE LOS FINANCIAMIENTOS AUTORIZADOS EN LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2014, DURANTE EL EJERCICIO FISCAL 2015 CONTINUARÁN EN VIGOR LAS AUTORIZACIONES ESTABLECIDAS EN LOS ARTÍCULOS DEL 11 AL 17 DE DICHO ORDENAMIENTO Y POR LO QUE RESPECTA AL ARTÍCULO 11 EN MENCIÓN, LA REFERENCIA AL DECRETO DE PRESUPUESTO DE EGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2014, SE ENTENDERÁ RESPECTO AL DEL EJERCICIO FISCAL 2015. EN TAL CASO, LAS AUTORIZACIONES REFERIDAS CONTINUARÁN VIGENTES HASTA POR LOS MONTOS DE LOS FINANCIAMIENTOS AÚN NO FORMALIZADOS Y/O NO DISPUESTOS, Y SUS IMPORTES SE ENTENDERÁN COMPRENDIDOS EN LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2015, ASÍ COMO EN EL PRESUPUESTO DE EGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2015; FACULTÁNDOSE AL GOBERNADOR DEL ESTADO PARA QUE POR CONDUCTO DE LA SECRETARÍA DE FINANZAS REALICE LAS ADECUACIONES DE INGRESO Y PRESUPUESTALES CORRESPONDIENTES A ESOS IMPORTES.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014 (ABROGADO).
 
 Ley publicada en el Suplemento 2 al Periódico Oficial del Estado de Zacatecas; el sábado 28 de diciembre de 2013.
 
@@ -150,3 +152,19 @@ PROFR. FRANCISCO ESCOBEDO VILLEGAS.
 EL SECRETARIO DE FINANZAS
 
 ING. FERNANDO ENRIQUE SOTO ACOSTA.
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil quince, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Si durante 2014 no fueron formalizados y/o no dispuestos parte o la totalidad de los financiamientos autorizados en la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2014, durante el ejercicio fiscal 2015 continuarán en vigor las autorizaciones establecidas en los artículos del 11 al 17 de dicho ordenamiento y por lo que respecta al artículo 11 en mención, la referencia al Decreto de Presupuesto de Egresos del Estado de Zacatecas para el ejercicio fiscal 2014, se entenderá respecto al del ejercicio fiscal 2015. En tal caso, las autorizaciones referidas continuarán vigentes hasta por los montos de los financiamientos aún no formalizados y/o no dispuestos, y sus importes se entenderán comprendidos en la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2015, así como en el Presupuesto de Egresos del Estado de Zacatecas para el ejercicio fiscal 2015; facultándose al Gobernador del Estado para que por conducto de la Secretaría de Finanzas realice las adecuaciones de ingreso y presupuestales correspondientes a esos importes.
+
+###### ARTÍCULO TERCERO.
+
+Salvo lo dispuesto en el artículo anterior, se abroga la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2014, contenida en el Decreto número 42, publicado el28 de diciembre de 2013, en el Suplemento número 2 al número 104 del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
