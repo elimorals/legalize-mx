@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-mejora-regulatoria-del-estado-de-46123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-10"
-last_updated: "2005-08-10"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 10 de agosto del 2005.
 
@@ -65,6 +65,10 @@ VII. Trámite.- Cualquier solicitud o entrega de información de las personas f�
 
 VIII. Simplificación.- El procedimiento por medio del cual, se da prontitud en la elaboración de regulaciones y procesos administrativos, así como la reducción de plazos y requisitos de los trámites.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IX. Secretaría: A la Secretaría de Economía.
+
 ###### Artículo 4.
 
 La aplicación y cumplimiento del presente Reglamento, corresponde a las siguientes instancias:
@@ -77,9 +81,11 @@ II. El Consejo Estatal de Mejora Regulatoria.
 
 En los Reglamentos Interiores de la Comisión y del Consejo, se precisarán las funciones para su operación, a fin de lograr los objetivos de la Ley y este Reglamento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 6.
 
-Los servidores públicos de la Comisión y del Consejo realizarán sus actividades en apego a las políticas del Ejecutivo del Estado y con sujeción a los objetivos, directrices y lineamientos contenidos en el Plan Estatal de Desarrollo 2005-2010.
+Los servidores públicos de la Comisión y del Consejo realizarán sus actividades en apego a las políticas del Ejecutivo del Estado y con sujeción a los objetivos, directrices y lineamientos contenidos en el Plan Estatal de Desarrollo.
 
 ### CAPÍTULO II. Autoridades Competentes
 
@@ -181,15 +187,19 @@ III. Acordar los asuntos que se sometan a su consideración, así como, definir 
 
 El Consejo estará integrado por:
 
-l. El Ejecutivo del Estado;
+I. El Ejecutivo del Estado;
 
-II. Los Titulares de las siguientes Dependencias:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. Los titulares de las siguientes Dependencias:
 
 a) La Secretaría General de Gobierno;
 
 b) La Secretaria, quien estará a cargo de la coordinación;
 
-c) La Contraloría Interna del Gobierno del Estado;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+c) La Secretaría de la Función Pública del Gobierno del Estado;
 
 III. Un Presidente Municipal, que será el Presidente de la Asociación Estatal de Presidentes Municipales que corresponda;
 
@@ -311,9 +321,11 @@ La Comisión emitirá el dictamen final al anteproyecto y su manifestación dent
 
 La Comisión hará públicos los anteproyectos y manifestaciones de impacto regulatorio, así como los dictámenes emitidos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 30.
 
-La Oficialía Mayor de Gobierno deberá publicar, en el Periódico Oficial, Órgano de Gobierno del Estado dentro de los siete primeros días hábiles de cada mes, la lista que le proporcione la Comisión, de los títulos de los documentos dictaminados.
+La Secretaría de Administración deberá publicar, en el Periódico Oficial, Órgano de Gobierno del Estado, dentro de los siete primeros días hábiles de cada mes, la lista que le proporciones (sic) la Comisión, de los títulos de los documentos dictaminados.
 
 ### CAPÍTULO VII. Sanciones
 
@@ -346,3 +358,13 @@ LIC. TOMÁS TORRES MERCADO
 EL SECRETARIO DE DESARROLLO ECONÓMICO
 
 LIC. RAFAEL SESCOSSE SOTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de (sic) Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero: Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
