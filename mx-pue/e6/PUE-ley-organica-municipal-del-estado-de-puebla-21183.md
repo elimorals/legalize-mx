@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2014-08-04"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1795,9 +1795,17 @@ V.- De Salubridad y Asistencia Pública;
 
 VI.- De Educación Pública y Actividades Culturales, Deportivas y Sociales;
 
-VII.- De Grupos Vulnerables, Juventud y Equidad entre Géneros; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VIII.- Las demás que sean necesarias de acuerdo a los recursos y necesidades de cada Municipio.
+VII.- De Grupos Vulnerables y Juventud;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VIII.- De Igualdad de Género; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IX.- Las demás que sean necesarias de acuerdo a los recursos y necesidades de cada Municipio.
 
 ###### ARTÍCULO 97.
 
@@ -1921,7 +1929,7 @@ El Plan de Desarrollo Municipal establecerá los programas de la Administración
 
 ###### ARTÍCULO 106.
 
-El Plan de Desarrollo Municipal deberá ser elaborado y aprobado por el Ayuntamiento, dentro de los primeros tres meses de la gestión municipal, y deberá publicarse en el Periódico Oficial del Estado. Su evaluación deberá realizarse por anualidad. Su vigencia será de tres años; sin embargo, se podrán hacer proyecciones que excedan de este periodo en programas que por su trascendencia y beneficio social así lo ameriten. Para este efecto, el Ayuntamiento podrá solicitar cuando lo considere necesario, la asesoría de los Sistema Nacional y Estatal de Planeación.
+El Plan de Desarrollo Municipal deberá ser elaborado y aprobado por el Ayuntamiento, dentro de los primeros tres meses de la gestión municipal, y deberá publicarse en el Periódico Oficial del Estado. Su evaluación deberá realizarse por anualidad. Su vigencia será de tres años; sin embargo, se podrán hacer proyecciones que excedan de este periodo en programas que por su trascendencia y beneficio social así lo ameriten. Para este efecto, el Ayuntamiento podrá solicitar cuando lo considere necesario, la asesoría de los Sistemas Nacional y Estatal de Planeación.
 
 ###### ARTÍCULO 107.
 
@@ -3367,7 +3375,7 @@ En los Municipios que no cuenten con juzgado calificador, el Presidente Municipa
 
 ###### ARTÍCULO 251.
 
-Al imponerse una sanción, se hará constar por escrito los hechos que la motiven, las defensas alegadas por el infractor, las leyes o reglamento infringidos y la sanción impuesta.
+Al imponerse una sanción, se hará constar por escrito los hechos que la motiven, las defensas alegadas por el infractor, las leyes o reglamento (sic) infringidos y la sanción impuesta.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -3707,7 +3715,7 @@ DECRETO POR EL QUE SE REFORMAN EL INCISO A) DE LA FRACCIÓN I DEL ARTÍCULO 52; 
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Las disposiciones del Capítulo XXVII, entrarán en vigencia y se aplicarán para el proceso de plebiscito de Juntas Auxiliares, a celebrarse en el año dos mil catorce. A excepción de lo establecido en el artículo 226 relativo a la fecha de la elección y toma protesta (sic) de las Juntas Auxiliares que se aplicará en el proceso plebiscitario del año 2019.
+SEGUNDO.- Las disposiciones del Capítulo XXVII, entrarán en vigencia y se aplicarán para el proceso de plebiscito de Juntas Auxiliares, a celebrarse en el año dos mil catorce. A excepción de lo establecido en el artículo 226 relativo a la fecha de la elección y toma (sic) protesta de las Juntas Auxiliares que se aplicará en el proceso plebiscitario del año 2019.
 
 TERCERO.- Para efectos de atender los plazos de renovación y duración del periodo transitorio, los Ayuntamientos del año dos mil dieciséis, establecida en la fracción VI del artículo Tercero Transitorio de la reforma de la Constitución Política del Estado Libre y Soberano de Puebla de veintiocho de octubre de dos mil once, los integrantes de las Juntas Auxiliares que sean electos en el mes de abril del año dos mil catorce, tomarán posesión el día quince de mayo del mismo año y por única ocasión concluirán su periodo en el segundo sábado del mes de febrero del año dos mil diecinueve.
 
@@ -3758,3 +3766,9 @@ P.O. 4 DE AGOSTO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
