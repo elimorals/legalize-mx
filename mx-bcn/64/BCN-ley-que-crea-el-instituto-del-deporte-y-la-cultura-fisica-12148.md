@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-el-instituto-del-deporte-y-la-cultura-fisica-12148
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-08"
-last_updated: "2013-05-17"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY QUE CREA EL INSTITUTO DEL DEPORTE Y LA CULTURA FÍSICA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 8 de agosto de 1997.
 
@@ -306,3 +308,25 @@ P.O. 28 DE DICIEMBRE DE 2012.
 P.O. 17 DE MAYO DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga la Ley Estatal del Deporte y la Cultura Física para el Estado de Baja California publicada en el Periódico Oficial del Estado No. 37, de fecha 4 de agosto de 1995, Sección III, Tomo CII.
+
+TERCERO.- Se abroga la Ley que crea el Instituto del Deporte y la Cultura Física de Baja California, publicada en el Periódico Oficial No. 32, de fecha 8 de agosto de 1997, Tomo CIV.
+
+CUARTO.- El Ejecutivo del Estado contará con 180 días naturales contados a partir de la entrada en vigor del presente decreto, para expedir el Reglamento de la Ley.
+
+QUINTO.- Los Ayuntamientos expedirán los reglamentos municipales a que haya lugar en un plazo no mayor a 1 año contado a partir de la entrada en vigor del presente decreto.
+
+SEXTO.- En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan.
+
+SÉPTIMO.- El Instituto del Deporte y la Cultura Física de Baja California, desarrollará las nuevas atribuciones que le confiere la presente Ley con los recursos humanos, financieros y materiales con los que cuenta actualmente, debido a que se trata de la entidad para estatal (sic) y no se está extinguiendo.
+
+OCTAVO.- El Sistema Estatal de Cultura Física y Deporte deberá sesionar en un plazo no mayor a 90 días contados a partir de la entrada en vigor del presente decreto.
+
+NOVENO.- Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubiesen iniciado bajo la vigencia de la Ley que se abroga, se tramitarán y resolverán conforme a dichas disposiciones.
+
+DÉCIMO.- Se derogan (sic) cualquier disposición que se oponga a la presente reforma.
