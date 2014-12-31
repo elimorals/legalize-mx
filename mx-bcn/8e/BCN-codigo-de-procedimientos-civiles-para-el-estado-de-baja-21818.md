@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2014-11-28"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -4047,7 +4047,7 @@ ART. 581.- En los casos a que se refieren los artículos 578 y 580 se cancelará
 
 En el caso del artículo 579, si el precio de la venta fuere insuficiente para pagar las hipotecas anteriores y las posteriores, sólo se cancelarán éstas, conforme a lo prevenido en la primera parte de este artículo.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 582.- Cuando, conforme a lo prevenido en el artículo 569, el acreedor hubiere optado por la administración de las fincas embargadas, se observarán las siguientes reglas:
 
@@ -6289,45 +6289,45 @@ TITULO DECIMOSEXTO
 
 ART. 925.- Todos los problemas inherentes a la familia se consideran de orden público, por constituir la base de la integración de la sociedad.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-ART. 926.- El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de personas menores de dieciocho años de edad y de alimentos, decretando las medidas proporcionales que tiendan a preservarla y protegerla, anteponiendo siempre el interés superior del menor y de las personas con discapacidad, debiendo razonar y sustentar la medida decretada.
+ART. 926.- El juez de lo familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de personas menores de dieciocho años de edad, incapaces y de alimentos, decretando las medidas provisionales que tiendan a preservarla y protegerla, anteponiendo siempre el interés superior del menor, debiendo razonar y sustentar la medida decretada.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+Cuando quien promueva solicite como medida la guarda y custodia de personas menores de dieciocho años o incapaces deberá de manifestar en donde se encuentran estos y al cuidado de que persona; si manifiesta que están bajo su resguardo y antes de decretar la medida el Juez le requerirá que los presente de inmediato ante él para tomar conocimiento directo de este y tomarle su opinión si esta en aptitud de vertirla y quiera hacerlo. Hecho lo anterior resolverá sin dilación el lugar y la persona con quien deba permanecer el menor o incapaz conforme a los elementos que tenga a su alcance, sin detrimento de modificar la medida durante el proceso si así lo considerara necesario y con las formalidades de Ley.
 
-Cuando se trate de calificar, ratificar o modificar medidas dictadas por la Procuraduría para la Defensa del Menor y la Familia relativas a la no reintegración temporal del menor a su entorno familiar, su ingreso a una institución pública, privada u hogar voluntario o substituto o la afectación de derechos de familia, la audiencia será oral y el Juez escuchara al menor cuando la edad del menor lo permita, así como a las partes involucradas a efecto de dictar las medidas que garanticen el interés superior del menor.
+Si manifiesta que se encuentran bajo el cuidado de diversa persona o de la parte demandada, el Juez en el auto inicial requerirá la presentación inmediata de los menores o incapaces ante el Juzgado, decretando los medios de apremio más eficaces para lograr su comparecencia y en caso de resistencia a acatar su mandato o de imposibilidad para hacer el requerimiento, decidirá a la brevedad con los elementos con que cuente y los que considere allegarse de oficio.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+La opinión del menor o incapaz respecto a su guarda y custodia no será vinculante de la decisión del Juez, en los casos cuando se trate de menores de dieciocho años pero mayor de catorce, su declaración será valorada de manera preponderante para la emisión de la resolución respectiva.
 
-ART. 927.- En todos los asuntos de orden familiar en los que exista controversia entre partes, el Juez tendrá la obligación de citar a las partes para que asistan personalmente a una audiencia de conciliación en la que sólo se tratará de resolver sus diferencias mediante convenio con el que pueda terminarse la controversia y poner fin al procedimiento.
+Bajo ninguna circunstancia el Juzgador podrá aplazar, dilatar o abstenerse de decidir la situación de los menores o incapaces en breve plazo conforme a su interés superior.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+La comparecencia del menor será desahogada personalmente por el juez con asistencia de representación social.
 
-ART. 928.- La audiencia a que se refiere el Artículo anterior, se sujetará a las reglas siguientes:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I.- Esta audiencia deberá versar únicamente sobre la conciliación;
+ART. 927.- En todos los asuntos de orden familiar en los que exista controversia entre partes, el juez tendrá la obligación de citar a las partes para que asistan personalmente a una audiencia de conciliación en la que solo se tratara de resolver sus diferencias mediante convenio con el que pueda terminarse la controversia y poner fin al procedimiento.
 
-II.- La audiencia se celebrará dentro de los cinco días siguientes a la fecha en que quede fijada la litis y como requisito previo para que se de inicio al período de pruebas;
+En caso de existir personas menores de dieciocho años o incapaces relacionados con la controversia familiar, el Juez deberá requerir sean presentados ante él, para tomar conocimiento directo de ellos y tomarles su opinión, si están en aptitud de vertirla y si es su deseo ser escuchados, respecto a los derechos que a ellos les corresponden. Dicha comparecencia deberá realizarse en fecha previa a la celebración de la audiencia de conciliación.
 
-III.- La asistencia de las partes deberá ser obligatoria y en forma personal y no por medio de apoderado. El Juez deberá hacer uso de los medios de apremio más eficaces para lograr la comparecencia de las partes;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV.- En la audiencia, el Juez, sin prejuzgar sobre el fondo del negocio, hará una exhortación a las partes para que procuren llegar a un acuerdo conciliatorio;
+ART. 928.- La audiencia a que se refiere el artículo anterior, se sujetara a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 19 E OCTUBRE DE 2007)</small>
+l. Esta audiencia deberá versar únicamente sobre la conciliación;
 
-V.- Si el Juez logra avenir a las partes, se celebrará un convenio;
+II. La audiencia se celebrara dentro de los cinco días siguientes a la fecha en que quede fijada la Litis y como requisito previo para que se dé inicio al periodo de pruebas;
 
-> <small>(REFORMADA, P.O. 19 E OCTUBRE DE 2007)</small>
+III. La asistencia de las partes deberá ser obligatoria y en forma personal y no por medio de apoderado. Si alguna o ambas partes legalmente citadas no comparece a la Audiencia, se les tendrá por no interesadas en el avenimiento, sin perjuicio de que en cualquier etapa del Juicio se llegue a un convenio;
 
-VI.- Celebrado el convenio se le dará vista a los apoderados de las partes para que afinen los términos del mismo, luego será aprobado por el Juez y producirá los efectos jurídicos inherentes a una sentencia ejecutoriada;
+IV. En la audiencia, el juez, sin prejuzgar sobre el fondo del negocio, hará una exhortación a las partes para que procuren, si así es su voluntad, llegar a un acuerdo conciliatorio;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+V. Si el juez logra avenir a las partes, se celebrara un convenio;
 
-VII.- El convenio, para ser aprobado, no deberá lesionar los derechos que conforme a la Ley son irrenunciables o contravenir normas de orden público; y
+VI. Celebrado el convenio se le dará vista a los apoderados de las partes para que afinen los términos del mismo y asesoren a sus representados respecto a los alcances jurídicos del convenio; el Juzgador de oficio deberá en el mismo acto tomar en cuenta cuando así lo considere, la opinión de los menores o incapaces vinculados a la controversia, fundando y motivando su actuar. Si luego de ser asistidos por sus abogados las partes sostienen los términos del convenio, este será aprobado por el juez y producirá los efectos jurídicos inherentes a una sentencia ejecutoriada;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2007)</small>
+VII. El convenio, para ser aprobado, no deberá lesionar los derechos que conforme a la ley son irrenunciables, contravenir normas de orden público ni los derechos de personas menores de dieciocho años o incapaces; y
 
-VIII.- Si el Juez no logra avenir a las partes, continuará con la siguiente etapa del procedimiento.
+VIII. Si el juez no logra avenir a las partes o estas, legalmente citadas, dejan una o ambas de asistir, continuará desde luego con la siguiente etapa del procedimiento.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -7010,5 +7010,9 @@ P.O. 13 DE SEPTIEMBRE DE 2013.
 Único.- Las presentes reformas entrarán en vigor a los noventa días posteriores a la publicación del presente decreto en el Periódico Oficial del Estado.
 
 P.O. 28 DE NOVIEMBRE DE 2014.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2014.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
