@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2014-12-04"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -1187,9 +1187,13 @@ d) Bicicletas de motor 0.19 0.19
 
 V. Dotación de calcomanía anual a vehículos con tarjeta de circulación vigente que debe adquirirse dentro de los tres primeros meses del año:
 
-SERVICIO PUBLICO SERVICIO PARTICULAR
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-7.0 7.0
+SERVICIO SERVICIO
+
+PUBLICO PARTICULAR
+
+9.0 9.0
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2193,27 +2197,15 @@ III. Certificaciones de copias fotostáticas de documentos que obren en los arch
 
 IV. Copias fotostáticas simples de, códigos, decretos, leyes y demás documentos a los que pueda tener acceso el público, 0.01, por foja.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 93.
 
-Todos los derechos previstos en esta Ley se incrementarán en un quince por ciento adicional, cuyo importe se destinará preferentemente a instituciones públicas y privadas, cuyo fin u objeto sea proporcionar servicios de asistencia social, encaminados a la protección y ayuda de personas, familias o grupos en situación vulnerable, sin fines lucrativos, en el entendido de que por lo que respecta a las instituciones privadas además deberán cumplir con los requisitos establecidos por la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí. Dicho gravamen no estará sujeto a disminución o condonación, aunque lo fueren los principales sobre los que se aplica. El Ejecutivo informará al Congreso del Estado sobre las sumas recaudadas y su aplicación en las cuentas públicas correspondientes. Es obligación de todas las dependencias que conforman la Administración Pública del Estado, ingresar todas las cantidades que se cobren por este concepto, a la Secretaría de Finanzas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+Todos los derechos previstos en esta Ley se incrementarán a una tasa del veinticinco por ciento, cuyo importe se destinará, preferentemente, a instituciones públicas y privadas, cuyo fin u objeto sea proporcionar servicios de asistencia social, encaminados a la protección y ayuda de personas, familias, o grupos en situación vulnerable, sin fines lucrativos; en el entendido de que por lo que respecta a las instituciones privadas, además deberán cumplir con los requisitos establecidos por la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí. Dicho gravamen no estará sujeto a disminución o condonación, aunque lo fueren los principales sobre los que se aplica. El Ejecutivo informará al Congreso del Estado, sobre las sumas recaudadas y su aplicación en las cuentas públicas correspondientes. Es obligación de todas las dependencias que conforman la administración pública del Estado, ingresar todas las cantidades que se cobren por este concepto, a la Secretaría de Finanzas.
 
 ###### ARTICULO 93-A.
 
-Por los servicios prestados por las dependencias y entidades públicas, relativos a la supervisión y control necesarios para la ejecución de obra pública, se cobrará un dos por ciento por concepto de derechos a los contratistas o proveedores con quien se celebren contratos de obra pública, o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generadas.
-
-El pago del importe correspondiente se hará en el momento del pago de la factura por la dependencia u organismo.
-
-Son sujetos de este derecho los contratistas o proveedores que realizan la obra pública.
-
-Es obligación de todas las dependencias que conforman la Administración Pública del Estado, ingresar todas las cantidades que se cobren por este concepto a la Secretaría de Finanzas.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE ABRIL DE 2003)</small>
 
@@ -2801,12 +2793,6 @@ PRIMERO. Este Decreto entrará en vigor a partir del 1 de enero de 2004.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O. 19 DE JUNIO DE 2004.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
-
 P.O. 2 DE SEPTIEMBRE DE 2004.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -2814,6 +2800,12 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Las validaciones de cesiones de derechos a que se refiere el quinto transitorio de las modificaciones aprobadas el 11 de agosto de 2004 por el Congreso del Estado, a la Ley de Transporte Público del Estado de San Luis Potosí, además de los derechos a que se refiere el artículo 70 del presente ordenamiento legal, pagarán el equivalente a diez salarios mínimos vigentes en el Estado, por cada año contado entre la fecha del contrato de cesión de derechos materia de validación, y la fecha de su solicitud ante la Secretaría de Comunicaciones y Transportes.
+
+P.O. 19 DE JUNIO DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
 
 P.O. 18 DE DICIEMBRE DE 2004.
 
@@ -2914,3 +2906,9 @@ P.O. 4 DE DICIEMBRE DE 2014.
 Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero de 2015.
+
+SEGUNDO. Se derogan todas las disposiciones que sean contrarias a lo dispuesto por el presente Decreto.
