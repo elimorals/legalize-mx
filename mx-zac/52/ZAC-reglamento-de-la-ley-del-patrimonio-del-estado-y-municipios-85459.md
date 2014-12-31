@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-del-patrimonio-del-estado-y-municipios-854
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-18"
-last_updated: "2012-01-18"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA LEY DEL PATRIMONIO DEL ESTADO Y MUNICIPIOS DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 18 de enero de 2012.
 
@@ -53,9 +53,9 @@ III. Dependencias: Las dependencias del Poder Ejecutivo que integran la administ
 
 IV. Entidades Públicas: Los organismos públicos descentralizados, empresas de participación estatal y fideicomisos públicos de la administración pública paraestatal;
 
-V. Oficialía Mayor: La Oficialía Mayor;
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-VI. Contraloría Interna: La Contraloría Interna;
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 VII. Catálogo de Bienes: Al catálogo de bienes inmuebles del Estado;
 
@@ -65,13 +65,17 @@ IX. Programa Anual: Al Programa Anual Presupuestado y Calendarizado, de requerim
 
 X. Reglamento: El presente Reglamento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-La administración de los bienes muebles e inmuebles propiedad del Estado, incluyendo su control, elaboración y revisión de inventarios corresponde a la Oficialía Mayor.
+La administración de los bienes muebles e inmuebles propiedad del Estado, incluyendo su control, elaboración y revisión de inventarios corresponde a la Secretaría de Administración.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 4.
 
-Los actos por los que se constituyan o inscriban gravámenes sobre bienes de dominio público son nulos de pleno derecho. El Gobierno del Estado a través de la Oficialía Mayor conjuntamente con las Dependencias o Entidades Públicas que corresponda realizarán los trámites necesarios ante el Registro Público de la Propiedad y del Comercio del Estado para la cancelación de las inscripciones y anotaciones de dichos gravámenes, sin que para ello sea necesaria resolución judicial, de acuerdo a lo previsto en el Código Civil del Estado de Zacatecas.
+Los actos por los que se constituyan o inscriban gravámenes sobre bienes de dominio público son nulos de pleno derecho. El Gobierno del Estado a través de la Secretaría de la Administración conjuntamente con las Dependencias o Entidades Públicas que corresponda realizarán los trámites necesarios ante el Registro Público de la Propiedad y del Comercio del Estado para la cancelación de las inscripciones y anotaciones de dichos gravámenes, sin que para ello sea necesaria resolución judicial, de acuerdo a lo previsto en el Código Civil del Estado de Zacatecas.
 
 ###### Artículo 5.
 
@@ -89,15 +93,19 @@ Los órganos de gobierno de las Entidades Públicas ajustarán sus actos a las d
 
 Corresponde vigilar el cumplimiento del presente Reglamento de conformidad con las atribuciones que les confiere la Ley a:
 
-I. Al Titular del Poder Ejecutivo del Estado, por conducto de la Oficialía Mayor;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Al Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Administración.
 
 II. A los Titulares de las Dependencias; y
 
 III. A las Entidades Públicas, por conducto de sus órganos de gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 8.
 
-Para logar (sic) una administración eficiente de los bienes, el Ejecutivo Estatal otorga a la Oficialía Mayor las siguientes facultades:
+Para lograr una administración eficiente de los bienes, el Ejecutivo Estatal otorga a la Secretaría de Administración las siguientes funciones:
 
 I. Coadyuvar con las Dependencias y Entidades en la elaboración del inventario de los bienes muebles y su resguardo; así como en su caso, dar seguimiento a las bajas del inventario y determinar el destino final;
 
@@ -129,19 +137,21 @@ XIV. Realizar las gestiones necesarias tendientes a recuperar la posesión de lo
 
 XV. Las demás que le confieran las leyes, el presente Reglamento y el Titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 9.
 
-La Oficialía Mayor estará facultada para formalizar todos los actos jurídicos traslativos de dominio para la adquisición, arrendamiento, enajenación y donación de bienes muebles e inmuebles que conforman el patrimonio estatal, salvo en los casos previstos en la Ley Orgánica y el Código Urbano.
+La Secretaría de Administración estará facultada para formalizar todos los actos jurídicos traslativos de dominio para la adquisición, arrendamiento, enajenación y donación de bienes muebles e inmuebles que conforman el patrimonio estatal, salvo en los casos previstos en la Ley Orgánica y el Código Urbano.
 
 ### CAPÍTULO III. DEL CATÁLOGO E INVENTARIO DE LOS BIENES MUEBLES E INMUEBLES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-Para el registro, control y resguardo de los bienes, la Oficialía Mayor establecerá los lineamientos, mecanismos, sistemas y tecnologías necesarias que garanticen contar con un Catálogo de Bienes e Inventario actualizado y de fácil consulta.
+Para el registro, control y resguardo de los bienes, la Secretaría de Administración establecerá los lineamientos, sistemas y tecnologías necesarias que garanticen contar con un Catálogo de Bienes e Inventario (sic) se encuentre actualizado y de fácil consulta.
 
-Las Dependencias y las Entidades Públicas en su caso, en coordinación con la Oficialía Mayor llevarán a cabo el registro de bienes, dicha información se ingresará permanentemente a los sistemas informáticos implementados.
-
-Para efectos de los procesos de entrega - recepción derivados del relevo de autoridades, el Catálogo de Bienes así como el Inventario se publicarán en el Periódico Oficial, por conducto de la Comisión de Entrega quince días antes de la fecha en que tenga lugar el referido procedimiento.
+La (sic) Dependencias y las Entidades Públicas en su caso, en coordinación con la Secretaría de Administración llevarán a cabo el registro de bienes, dicha información se ingresará permanentemente a los sistemas informáticos implementados.
 
 ###### Artículo 11.
 
@@ -165,9 +175,11 @@ IV. Documento público o privado que afecte, altere o modifique los derechos rea
 
 V. Inscripción administrativa o número consecutivo que le corresponde dentro del Catálogo de Bienes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-Las Dependencias y Entidades Públicas enviarán de manera permanente a la Oficialía Mayor la información con que cuenten a fin de mantener actualizado el Catálogo de Bienes. Para ello, integrarán expediente de cada inmueble con los siguientes datos:
+Las Dependencias y Entidades Públicas enviarán de manera permanente a la Secretaría de Administraciónla (sic) información con que cuenten a fin de mantener actualizado el Catálogo de Bienes. Para ello, integrarán expediente de cada inmueble con los siguientes datos:
 
 I. Procedencia del bien;
 
@@ -193,9 +205,11 @@ VIII. Servidumbre si la hubiere, y
 
 IX. Cualquier otro dato que sirva para la identificación administrativa así como la relación que tuviera con otros expedientes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 14.
 
-La Oficialía Mayor expedirá constancias de inscripción al Catálogo de Bienes, previo cotejo en los archivos que respalden la autenticidad del acto.
+La Secretaría de Administración expedirá constancias de inscripción al Catálogo de Bienes, previo cotejo en los archivos que respalden la autenticidad del acto.
 
 ###### Artículo 15.
 
@@ -211,11 +225,13 @@ III. Cuando se declare la nulidad del título que originó la inscripción, en c
 
 Las Dependencias y Entidades Públicas son responsables del buen uso y cuidado de los bienes que tengan bajo su resguardo y responderán sobre los daños y perjuicios ocasionados a estos por negligencia, dolo o descuido de los servidores públicos, sin perjuicio de las medidas administrativas que adopten para los efectos legales a que haya lugar.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 17.
 
-Las Dependencias y Entidades Públicas serán responsables de mantener actualizado el Inventario; para ello, remitirán permanentemente a la Oficialía Mayor la información respectiva.
+Las Dependencias y Entidades Públicas serán responsables de mantener actualizado el Inventario; para ello, remitirán permanentemente a la Secretaría de Administración la información respectiva.
 
-La Oficialía Mayor podrá realizar las inspecciones y revisiones que considere necesarias para verificar el buen uso y estado de conservación de los bienes.
+La Secretaría de Administración podrá realizar las inspecciones y revisiones que considere necesarias para verificar el buen uso y estado de conservación de los bienes.
 
 ###### Artículo 18.
 
@@ -233,9 +249,11 @@ V. Responsiva especial de uso, para el caso de aquellos bienes que por su alto v
 
 ### CAPÍTULO IV. DE LA BAJA DE LOS BIENES MUEBLES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-La baja es el acto administrativo donde se cancela definitivamente la inscripción de un bien dentro del Inventario, las Dependencias y Entidades Públicas se ajustarán a los lineamientos para la baja y destino final que establezca la Oficialía Mayor.
+La baja es el acto administrativo donde se cancela definitivamente la inscripción de un bien dentro del Inventario, las Dependencias y Entidades Públicas se ajustarán a los lineamientos para la baja y destino final que establezca la Secretaría de Administración.
 
 ###### Artículo 20.
 
@@ -247,17 +265,23 @@ II. En mal estado físico o mecánico; y
 
 III. Aquellos que independientemente de sus condiciones físicas, no resulten útiles para la Dependencia o Entidad Pública.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 21.
 
-La Dependencia o Entidad Pública a través del área administrativa facultada para ello, elaborará el Inventario y los resguardos correspondientes a fin de mantenerlos actualizados; en caso de que dicho (sic) bienes deban darse de baja se ajustarán a los lineamientos que establezca la Oficialía Mayor.
+La Dependencia o Entidad Pública a través del área administrativa facultada para ello, elaborará el Inventario y los resguardos correspondientes a fin de mantenerlos actualizados; en caso de que dichos bienes deban darse de baja se ajustarán a los lineamientos que establezca la Secretaría de Administración.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 22.
 
-Para el seguimiento y control de las bajas, el sistema de Inventario implementado por la Oficialía Mayor deberá contener la fecha, descripción del bien, número consecutivo del reporte de baja, estado físico, memoria fotográfica, entre otros.
+Para el seguimiento y control de las bajas, el sistema de Inventario implementado por la Secretaría de Administración deberá contener la fecha, descripción del bien, número consecutivo del reporte de baja, estado físico, memoria fotográfica, entre otros.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 23.
 
-Autorizada la baja del Inventario, las Dependencias y Entidades Públicas turnarán a la Oficialía Mayor los bienes señalados para su custodia correspondiente a fin de que ésta determine el destino final de los mismos.
+Autorizada la baja del Inventario, las Dependencias y Entidades Públicas turnarán a la Secretaría de Administración los bienes señalados para su custodia correspondiente a fin de que ésta determine el destino final de los mismos.
 
 ### CAPÍTULO V. DE LA CONSERVACIÓN Y MANTENIMIENTO DE LOS BIENES
 
@@ -265,35 +289,47 @@ Autorizada la baja del Inventario, las Dependencias y Entidades Públicas turnar
 
 El resguardo es el acto administrativo que controla la entrega de bienes dados en depósito a los servidores públicos para el mejor despacho de los asuntos competencia de las Dependencias o Entidades Públicas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
-La Oficialía Mayor de Gobierno podrá realizar las inspecciones necesarias a fin de supervisar que el uso, destino, mantenimiento y conservación de los bienes muebles e inmuebles sea acorde al estado físico señalado en los resguardos correspondientes.
+La Secretaría de Administración podrá realizar las inspecciones necesarias a fin de supervisar que el uso, destino, mantenimiento y conservación de los bienes muebles e inmuebles sea acorde al estado físico señalado en los resguardos correspondientes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 26.
 
-Las Dependencias y Entidades Públicas, informarán a la Oficialía Mayor la modificación del estado físico de los bienes dentro de los cinco días posteriores al que tengan conocimiento de tal circunstancia, para que realice la verificación correspondiente y deslinde, en su caso, la responsabilidad administrativa si hubiere.
+Las Dependencias y Entidades Públicas, informarán a la Secretaría de Administración la modificación del estado físico de los bienes dentro de los cinco días posteriores al que tengan conocimiento de tal circunstancia, para que realice la verificación correspondiente y deslinde, en su caso, la responsabilidad administrativa si hubiere.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 27.
 
-La conservación y mantenimiento, preventivo o correctivo de los bienes muebles e inmuebles, se realizará por las Dependencias y Entidades Públicas conforme a las bases y lineamientos que en esta materia establezca la Oficialía Mayor.
+La conservación y mantenimiento, preventivo o correctivo de los bienes muebles e inmuebles, se realizará por las Dependencias y Entidades Públicas conforme a las bases y lineamientos que en esta materia establezca la Secretaría de Administración.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 28.
 
-El cambio de uso, como política de conservación, es el procedimiento administrativo por el cual, la Oficialía Mayor resuelve sobre bienes adquiridos para un fin determinado que al dejar de ser útiles para dicha función sean utilizados en otras áreas administrativas u operativas de la administración pública estatal o municipal, en caso de bienes adquiridos de manera bipartita.
+El cambio de uso, como política de conservación, es el procedimiento administrativo por el cual, la Secretaría de Administración resuelve sobre bienes adquiridos para un fin determinado que al dejar de ser útiles para dicha función sean utilizados en otras áreas administrativas u operativas de la administración pública estatal o municipal, en caso de bienes adquiridos de manera bipartita.
 
 ### CAPÍTULO VI. DE LA DESAFECTACIÓN Y DESTINO FINAL DE BIENES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 29.
 
-La desafectación es el acto administrativo mediante el cual la Oficialía Mayor declara formalmente que un bien de dominio privado queda desvinculado del servicio público, y por tanto, es susceptible de enajenación, donación, cesión de derechos o destrucción.
+La desafectación es el acto administrativo mediante el cual la Secretaría de Administración declara formalmente que un bien de dominio privado queda desvinculado del servicio público, y por tanto, es susceptible de enajenación, donación, cesión de derechos o destrucción.
 
 ###### Artículo 30.
 
 Son susceptibles de desafectación los bienes muebles que por sus condiciones de uso, físicas o mecánicas ya no cumplan con las necesidades del servicio que prestan las Dependencias y Entidades Públicas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 31.
 
-La Oficialía Mayor considerando las condiciones físicas o mecánicas de los bienes desafectados, dispondrá en el Acuerdo de Desafectación respectivo el destino final de los bienes.
+La Secretaría de Administración considerando las condiciones físicas o mecánicas de los bienes desafectados, dispondrá en el Acuerdo de Desafectación respectivo el destino final de los bienes.
 
 ###### Artículo 32.
 
@@ -313,15 +349,19 @@ V Destrucción total.
 
 Son susceptibles de enajenación, aquellos bienes desafectados que a pesar de no resultar ya provechosos para la administración pública, por el bien de que se trata o por sus condiciones generales de uso, tiene valor comercial en el mercado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 34.
 
-La Oficialía Mayor conjuntamente con la Secretaría de Finanzas, la Contraloría Interna y la Coordinación General Jurídica emitirán y detallarán en la convocatoria respectiva el procedimiento y demás particularidades a fin de que los bienes desafectados sean enajenados mediante subasta pública.
+La Secretaría de Administración conjuntamente con la Secretaría de Finanzas, la Secretaría de la Función Pública y la Coordinación General Jurídica emitirán y detallarán en la convocatoria respectiva el procedimiento y demás particularidades a fin de que los bienes desafectados sean enajenados mediante subasta pública.
 
 Dicha convocatoria deberá publicarse en el Periódico Oficial Órgano del Gobierno del Estado, con por lo menos treinta días naturales a la fecha en que habrá de realizarse la subasta pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 35.
 
-Para la enajenación de bienes desafectados, la Oficialía Mayor integrará el expediente respectivo con:
+Para la enajenación de bienes desafectados, la Secretaría de Administración integrará el expediente respectivo con:
 
 I. Título o factura del bien;
 
@@ -355,23 +395,31 @@ Serán destruidos parcialmente aquellos bienes desafectados que por sus caracter
 
 Son susceptibles de destrucción total aquellos bienes que resulten incosteables e inservibles o cuya enajenación o donación comprometa la salud, la seguridad o la paz social.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 42.
 
-La Oficialía Mayor establecerá los lineamientos y mecanismos administrativos que servirán de control del destino final de los bienes en apego a los principios de transparencia y rendición de cuentas.
+La Secretaría de Administración establecerá los lineamientos y mecanismos administrativos que servirán de control del destino final de los bienes en apego a los principios de transparencia y rendición de cuentas.
 
 ### CAPÍTULO VII. DE LAS CONCESIONES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 43.
 
-La concesión es el acto jurídico por el cual la Oficialía Mayor por acuerdo del Ejecutivo, otorga a personas físicas o morales su derecho de explotar, usar o aprovechar un bien de dominio público destinado a la prestación de un servicio o actividad de índole pública, conforme al procedimiento para licitaciones que establece la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Zacatecas.
+La concesión es el acto jurídico por el cual la Secretaría de Administración por acuerdo del Ejecutivo, otorga a personas físicas o morales su derecho de explotar, usar o aprovechar un bien de dominio público destinado a la prestación de un servicio o actividad de índole pública, conforme al procedimiento para licitaciones que establece la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Zacatecas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 44.
 
-La Oficialía Mayor hará del conocimiento público en el Periódico Oficial Órgano del Gobierno del Estado y los medios electrónicos a su alcance, la necesidad y beneficios al concesionar cierto bien, especificando los plazos, monto de inversión, necesidades de uso y demás detalles que se requiera para su aprovechamiento, bajo los principios de beneficio económico y social para la población.
+La Secretaría de Administración hará del conocimiento público en el Periódico Oficial Órgano del Gobierno del Estado y los medios electrónicos a su alcance, la necesidad y beneficios al concesionar cierto bien, especificando los plazos, monto de inversión, necesidades de uso y demás detalles que se requiera para su aprovechamiento, bajo los principios de beneficio económico y social para la población.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 45.
 
-La Oficialía Mayor podrá designar de manera directa como concesionario al particular o persona moral que goce de reconocida experiencia y solvencia, en el supuesto de que las solicitudes presentadas no resulten idóneas para la concesión de acuerdo al dictamen que para tales efectos emita.
+La Secretaría de Administración podrá designar de manera directa como concesionario al particular o persona moral que goce de reconocida experiencia y solvencia, en el supuesto de que las solicitudes presentadas no resulten idóneas para la concesión de acuerdo al dictamen que para tales efectos emita.
 
 ###### Artículo 46.
 
@@ -421,9 +469,11 @@ IV. Las instalaciones y equipos se encuentren en condiciones para la prestación
 
 ### CAPÍTULO VIII. DEL PROGRAMA ANUAL DE BIENES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
-Las Dependencias y Entidades Públicas deberán presentar a la Oficialía Mayor el programa anual de bienes calendarizando las necesidades mobiliarias e inmobiliarias, para su aprobación en la Comisión de Gasto Financiamiento. Este programa deberá ser congruente con el presupuesto de egresos del ejercicio fiscal correspondiente.
+Las Dependencias y Entidades Públicas deberán presentar a la Secretaría de Administración el programa anual de bienes calendarizando las necesidades mobiliarias e inmobiliarias, para su aprobación en la Comisión de Gasto Financiamiento. Este programa deberá ser congruente con el presupuesto de egresos del ejercicio fiscal correspondiente.
 
 ###### Artículo 52.
 
@@ -435,13 +485,17 @@ II. Los objetivos y prioridades de los programas sectoriales, especiales e insti
 
 III. Las disposiciones contenidas en la Ley del Patrimonio, el presente Reglamento y demás ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 53.
 
-Las Dependencias y Entidades presentarán, en su caso, a la Oficialía Mayor los programas de necesidades inmobiliarias aprobados por la Comisión de Gasto Financiamiento, quién con base en los mismos, integrará el programa anual la propuesta de aprovechamiento inmobiliario.
+Las Dependencias y Entidades presentarán, en su caso, a la Secretaría de Administración los programas de necesidades inmobiliarias aprobados por la Comisión de Gasto Financiamiento, quién con base en los mismos, integrará el (sic) programa anual la propuesta de aprovechamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 54.
 
-Para atender los requerimientos de inmuebles de las Dependencias y Entidades, la Oficialía Mayor y la Comisión de Gasto Financiamiento deberán:
+Para atender los requerimientos de inmuebles de las Dependencias y Entidades, la Secretaría de Administración y la Comisión de Gasto Financiamiento deberán:
 
 I. Cuantificar y calificar los requerimientos, atendiendo a las características de los inmuebles solicitados y su localización;
 
@@ -451,9 +505,11 @@ III. Asignar a la Dependencia o Entidad interesada los inmuebles disponibles; y
 
 IV. Adquirir en su caso, los inmuebles con cargo a la partida presupuestal autorizada a la Dependencia o Entidad interesada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 55.
 
-Para autorizar adquisiciones de bienes inmuebles, la Oficialía Mayor deberá considerar:
+Para autorizar adquisiciones de bienes inmuebles, la Secretaría de Administración deberá considerar:
 
 I. El Programa Anual de necesidades inmobiliarias respectivo, debidamente aprobado por la Comisión de Gasto Financiamiento, y
 
@@ -461,25 +517,35 @@ II. El Presupuesto de Egresos respectivo.
 
 En cualquier caso, la adquisición de bienes inmuebles, solo se podrá autorizar cuando esté considerada en los programas anuales aprobados y no existan inmuebles propiedad estatal, adecuados para satisfacer los requisitos específicos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 56.
 
-La Oficialía Mayor realizará los trámites necesarios para la formalización de los contratos de adquisición y arrendamiento de los inmuebles necesarios para las Dependencias y Entidades, y determinará con base en los avalúos comerciales practicados, el precio de la operación escuchando a la Secretaría de Finanzas.
+La Secretaría de Administración realizará los trámites necesarios para la formalización de los contratos de adquisición y arrendamiento de los inmuebles necesarios para las Dependencias y Entidades, y determinará con base en los avalúos comerciales practicados, el precio de la operación escuchando a la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 57.
 
-La Oficialía Mayor podrá convenir con los propietarios o poseedores de los inmuebles los términos y condiciones más favorables para el Estado; debiéndose garantizar, en todo caso, la seguridad y la certeza jurídica de las operaciones.
+La Secretaría de Administración podrá convenir con los propietarios o poseedores de los inmuebles los términos y condiciones más favorables para el Estado, debiéndose garantizar, en todo caso, la seguridad y la certeza jurídica de las operaciones.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 58.
 
-Celebrada la escritura pública del bien inmueble, la Oficialía Mayor en coordinación con la Secretaría de Finanzas deberá realizar la inscripción y las anotaciones procedentes, en el Registro Público de la Propiedad y del Comercio que corresponda y proceder al registro en el Catálogo de Bienes.
+Celebrada la escritura pública del bien inmueble, la Secretaría de Administración en coordinación con la Secretaría de Finanzas deberá realizar la inscripción y las anotaciones procedentes en el Registro Público de la Propiedad y del Comercio que corresponda y proceder al registro en el Catálogo de Bienes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 59.
 
-Corresponderá a la Oficialía Mayor brindar el mantenimiento de los inmuebles con cargo al presupuesto de las Dependencias y Entidades Públicas para la prestación de los servicios públicos a su cargo.
+Corresponderá a la Secretaría de Administración brindar el mantenimiento de los inmuebles con cargo al presupuesto de las Dependencias y Entidades Públicas para la prestación de los servicios públicos a su cargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 60.
 
-Las Dependencias y Entidades Públicas deberán solicitar a la Oficialía Mayor y someterlo a la autorización de la Comisión Gasto Financiamiento el arrendamiento de bienes inmuebles, quienes la otorgarán siempre y cuando concurra alguna de estas circunstancias:
+Las Dependencias y Entidades Públicas deberán solicitar a la Secretaría de Administración y someterlo a la autorización de la Comisión Gasto Financiamiento, el arrendamiento de bienes inmuebles, quienes la otorgarán siempre y cuando concurra alguna de estas circunstancias:
 
 I. No sea posible o conveniente su adquisición, o cuando el presupuesto disponible no resulte suficiente para su compra;
 
@@ -489,17 +555,21 @@ III. El bien se requiera temporalmente, y
 
 IV. Resulte onerosa su adquisición y resultare más conveniente su arrendamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 61.
 
-La Oficialía Mayor deberá realizar las justipreciaciones así como la negociación de los incrementos de las rentas de los contratos de arrendamiento de los inmuebles de que se trate en favor de la Hacienda Pública Estatal.
+La Secretaría de Administración deberá realizar las justipreciaciones así como la negociación de los incrementos de las rentas de los contratos de arrendamiento de los inmuebles de que se trate en favor de (sic) Hacienda Pública Estatal.
 
 Para el caso de arrendamiento de bienes muebles, el contrato respectivo deberá de observar lo establecido en la Ley de Adquisiciones, Arrendamientos y Prestaciones de Servicios relacionados con Bienes Muebles del Estado.
 
 ### CAPÍTULO IX. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 62.
 
-En caso de actos u omisiones que afecten el patrimonio estatal, la Oficialía Mayor, promoverá ante la Contraloría Interna la aplicación de las sanciones administrativas en que incurran los servidores públicos en el desempeño de sus funciones de conformidad con lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas. Así como por la comisión de conductas delictivas ante la autoridad correspondiente en los términos de la legislación penal.
+En caso de actos u omisiones que afecten el patrimonio estatal, la Secretaría de Administración promoverá ante la Secretaría de la Función Pública la aplicación de las sanciones administrativas en que incurran servidores públicos en el desempeño de sus funciones de conformidad con lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas. Así como por la comisión de conductas delictivas ante la autoridad correspondiente en los términos de la legislación penal.
 
 Si del mantenimiento correctivo se deduce que fue causado por mal uso, dolo o negligencia del servidor público, se procederá a levantar el reporte a que se refiere el artículo anterior para el deslinde de responsabilidades y sanciones administrativas.
 
@@ -509,9 +579,11 @@ En ambos casos, el reporte deberá contener de manera técnica el detalle de las
 
 El titular de área administrativa de la Dependencia o Entidad Pública será corresponsable de los daños causados a los bienes muebles e inmuebles por falta del reporte de daños, cuantificación y señalamiento de la presunta responsabilidad administrativa del servidor público a quien se le atribuya el hecho.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 64.
 
-Cualquier persona puede denunciar todo hecho o acto que altere o tienda a modificar el uso, destino o aprovechamiento de los bienes que conforman el patrimonio del Estado. La denuncia podrá presentarse ante la Contraloría Interna y deberá aportar la siguiente información:
+Cualquier persona puede (sic) todo hecho o acto que altere o tienda a modificar el uso, destino o aprovechamiento de los bienes que conforman el patrimonio del Estado. La denuncia podrá presentarse ante la Secretaría de la Función Pública y deberá aportar la siguiente información:
 
 I. Los datos necesarios para la identificación y ubicación del bien de que se trate;
 
@@ -519,13 +591,17 @@ II. Una exposición sucinta de los hechos o actos que se consideren alteran o ti
 
 III. El nombre, firma y domicilio para recibir notificaciones de la persona denunciante, salvo en los casos de que la denuncia fuese anónima.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 65.
 
-Si de las investigaciones que realice la Contraloría Interna, se estableciera responsabilidad de algún servidor público, previa sustanciación del procedimiento administrativo correspondiente, se procederá en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Zacatecas y/o de la Ley del Servicio Civil del Estado para que se determine la sanción correspondiente.
+Si de las investigaciones que realice la Secretaría de la Función Pública, se estableciera responsabilidad de algún servidor público, previa sustanciación del procedimiento administrativo correspondiente, se procederá en términos de los (sic) dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Zacatecas y/o de la Ley del Servicio Civil del Estado para que se determine la sanción correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 66.
 
-La responsabilidad administrativa es independiente de las de naturaleza civil o penal a que hubiere lugar. En todo caso, si la Contraloría Interna tuviera conocimiento de hechos que impliquen la probable responsabilidad penal o civil de los servidores públicos, darán vista de ellos a la autoridad competente para el ejercicio de las acciones a que hubiere lugar.
+La responsabilidad administrativa es independiente de las de naturaleza civil o penal a que hubiere lugar. En todo caso, si la Secretaría de la Función Pública tuviera conocimiento de hechos que impliquen la probable responsabilidad penal o civil de los servidores públicos, darán vista de ellos a la autoridad competente para el ejercicio de las acciones a que hubiere lugar.
 
 T R A N S I T O R I O S
 
@@ -550,3 +626,13 @@ SECRETARIO GENERAL DE GOBIERNO
 LE ROY BARRAGÁN OCAMPO
 
 OFICIAL MAYOR DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
