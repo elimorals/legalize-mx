@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-cultura-fisica-y-deporte-para-el-83433"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-19"
-last_updated: "2011-10-19"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # REGLAMENTO DE LA LEY DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE ZACATECAS
 
-REGLAMENTO DE LA LEY DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE ZACATECAS
+REGLAMENTO DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 19 de octubre de 2011.
 
@@ -143,7 +143,9 @@ II. El Programa Estatal.
 
 Para su funcionamiento del Consejo Consultivo contará con la siguiente estructura:
 
-I. Un Presidente, que será el Ejecutivo del Estado, a través del Titular de la Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Un Presidente, que será el Ejecutivo del Estado, a través del Titular de la Secretaría de Educación.
 
 II. Un Secretario Ejecutivo, que será el Director del INCUFIDEZ;
 
@@ -193,6 +195,10 @@ VII. Vigilar que el uso de los recursos de origen federal, estatal y propio se a
 
 VIII. Aprobar los convenios que se elaboran para la concesión de Instalaciones Deportivas.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+El Programa Estatal y las políticas en materia de cultura física y deporte deberán ser autorizados previamente por la Unidad de Planeación del Titular del Ejecutivo del Estado.
+
 ###### ARTÍCULO 16.
 
 Serán funciones del Presidente del Consejo Consultivo:
@@ -221,7 +227,7 @@ IV. Llevar el orden del día.
 
 Serán funciones del Secretario Técnico:
 
-l. Pasar lista de presentes;
+I. Pasar lista de presentes;
 
 II. Integrar y controlar el archivo del Consejo Consultivo;
 
@@ -915,7 +921,7 @@ V. Podrán elegir libremente la modalidad de su registro estatal;
 
 VI. La recepción de estímulos y apoyos para desarrollar capacidades deportivas, guardarán concordancia con los niveles de rendimiento y resultados oficiales conquistados;
 
-VII. La libre asociación para la práctica del deporte, se establece en el principio del bien común; (sic)
+VII. La libre asociación para la práctica del deporte, se establece en el principio del bien común;
 
 ###### ARTÍCULO 102.
 
@@ -1217,7 +1223,7 @@ El otorgamiento de una beca estatal quedará supeditada a lo que establece el pr
 
 Los apoyos a deportistas representativos se clasificarán en:
 
-l. Apoyos para integrantes de selecciones estatales que representen al Estado en competencias oficiales nacionales;
+I. Apoyos para integrantes de selecciones estatales que representen al Estado en competencias oficiales nacionales;
 
 II. Apoyos para seleccionados nacionales de la Entidad, que representen al País en eventos deportivos internacionales oficiales, y
 
@@ -1439,13 +1445,17 @@ I. El Director General como Presidente;
 
 II. Secretario de Finanzas en calidad de Secretario Ejecutivo, y
 
-III. Tres Vocales q (sic) serán:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Tres vocales que serán:
 
 a) Director de Calidad para el Deporte;
 
 b) El Director para el Desarrollo del Deporte, y
 
-c) Un Comisario de la Contraloría Interna del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+c) Un Comisario que será nombrado porla (sic) Secretaría de la Función Pública de Gobierno del Estado.
 
 ###### ARTÍCULO 155.
 
@@ -1483,7 +1493,7 @@ IV. Deportista con discapacidad.
 
 Para ser candidato al Premio Estatal del Deporte se requiere:
 
-l. Respecto al deportista:
+I. Respecto al deportista:
 
 a) Ser zacatecano por nacimiento o naturalización;
 
@@ -1499,7 +1509,9 @@ c) Que se encuentre incorporado a alguna Asociación Deportiva de la Entidad y/o
 
 4. Alto rendimiento
 
-Respecto al deportista con discapacidad, además de los requisitos mencionados en los incisos a) y b) de la fracción I del presente artículo, deberá estar incorporado a algún organismo reconocido por la Comisión Estatal para la Integración Social de las Personas con Discapacidad (CEISD)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Respecto al deportista con discapacidad, además de los requisitos mencionados en los incisos a) y b) de la fracción I del presente artículo, deberá estar incorporado a algún organismo reconocido por la Subsecretaría de la Juventud dependiente de la Secretaría de Desarrollo Social.
 
 II. Respecto al entrenador:
 
@@ -1515,7 +1527,7 @@ III. Respecto del promotor:
 
 a) Ser zacatecano por nacimiento o naturalización, y
 
-b) Que sus actividades emprendidas sean las de promover y difundir la práctica de la actividad física y deportiva en los ámbitos popular, estudiantil, recreativa, de la salud, de nivel competitivo y de alto rendimiento, como un elemento fundamental para el desarrollo integral de la población zacatecana; (sic)
+b) Que sus actividades emprendidas sean las de promover y difundir la práctica de la actividad física y deportiva en los ámbitos popular, estudiantil, recreativa, de la salud, de nivel competitivo y de alto rendimiento, como un elemento fundamental para el desarrollo integral de la población zacatecana;
 
 ###### ARTÍCULO 160.
 
@@ -1543,7 +1555,7 @@ III. Carta propuesta proporcionada por el INCUFIDEZ;
 
 IV. Acta de nacimiento o Acta Constitutiva en caso de ser persona moral, y
 
-V. Currículum Vitae de la trayectoria deportiva con documentos probatorios que lo avale; (sic)
+V. Currículum Vitae de la trayectoria deportiva con documentos probatorios que lo avale;
 
 ###### ARTÍCULO 164.
 
@@ -1758,3 +1770,13 @@ SECRETARIO GENERAL DE GOBIERNO
 PROFR. MARTÍN BARRAZA LUNA
 
 DIRECTOR GENERAL DEL INSTITUTO DE CULTURA FÍSICA Y EL DEPORTE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero: Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
