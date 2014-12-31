@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-desarrollo-social-para-el-estado-y-8264
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-17"
-last_updated: "2011-08-17"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de agosto de 2011.
 
@@ -43,9 +43,11 @@ El presente ordenamiento tiene por objeto reglamentar la Ley de Desarrollo Socia
 
 Sus disposiciones son de orden público e interés social y su aplicación corresponde al Ejecutivo del Estado, por conducto de las dependencias y entidades de la Administración Pública Estatal en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-Corresponde al Ejecutivo Estatal, a través de la Secretaría de Planeación y Desarrollo Regional la interpretación de este Reglamento, para efectos administrativos.
+Corresponde al Ejecutivo Estatal, a través de la Secretaría de DesarrolloSocial (sic), la interpretación de este Reglamento, para efectos administrativos.
 
 ###### Artículo 3.
 
@@ -57,13 +59,17 @@ II. Ley: A la Ley de Desarrollo Social para el Estado y Municipios de Zacatecas;
 
 III. Reglamento: Al presente Reglamento de la Ley;
 
-IV. Secretaría: A la Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. Secretaría: A la Secretaría de DesarrolloSocial (sic)
 
 V. Sistema: Al Sistema Estatal de Desarrollo Social;
 
 VI. Consejo: Al Consejo Estatal de Desarrollo Social;
 
-VII. Subcomité: Al Subcomité Sectorial del Comité de Planeación para el Desarrollo del Estado de Zacatecas - COPLADEZ - que trata los asuntos relativos al Desarrollo Social;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VII. Unidad de Planeación: Unidad de Planeación dependiente del Titular del Poder Ejecutivo del Estado.
 
 VIII. Programa: Al Programa Estatal de Desarrollo Social;
 
@@ -227,9 +233,11 @@ La Secretaría, en el ámbito de su competencia, será la encargada de promover,
 
 El Gobierno del Estado deberá difundir e informar a la sociedad a través de los medios que se considere (sic) apropiados, sobre las Reglas de Operación y lineamientos de las políticas, programas y acciones de desarrollo social, así como el monto presupuestal asignado para las mismas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-Para garantizar el derecho de todas las personas a participar y beneficiarse de los programas de desarrollo social, de acuerdo con los principios rectores de la Política Estatal de Desarrollo Social, las dependencias y organismos, a través de su coordinadora de sector, serán las responsables de emitir las Reglas de Operación de cada uno de los programas de desarrollo social que ejecuten o en su caso, las modificaciones a aquéllas que continúen vigentes, previa autorización de la Secretaría. Los municipios implementarán lo conducente, en el ámbito de su competencia.
+Para garantizar el derecho de todas la (sic) personas a participar y beneficiarse de los programas de desarrollo social, de acuerdo con los principios rectores de la Política Estatal de Desarrollo Social, la Secretariaserán (sic) los responsables de emitir las Reglas de Operación de cada uno de sus programas de desarrollo social que ejecuten o, en su caso, las modificaciones a aquéllas que continúen vigentes, previa autorización de la Unidad de Planeación. Los municipios implementarán lo conducente, en el ámbito de su competencia.
 
 ###### Artículo 24.
 
@@ -313,9 +321,11 @@ Las autoridades estatales y municipales, responsables de establecer y aplicar la
 
 ### CAPÍTULO VII. Del Fomento al Desarrollo Social
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 32.
 
-Las acciones que se lleven a cabo para la aplicación de la Ley y del presente Reglamento, en las que se ejerzan recursos de carácter estatal, se sujetarán a la disponibilidad que se haya aprobado para tal fin en el Presupuesto de Egresos del Estado de Zacatecas, así mismo se deberá observar la Ley de Ingresos del Estado de Zacatecas y demás disposiciones aplicables en materia presupuestaria correspondiente de las dependencias y entidades de la Administración Pública Estatal que tengan a su cargo programas de desarrollo social.
+Las acciones que se lleven a cabo para la aplicación de la Ley y del Presente Reglamento en las que se ejerzan recursos de carácter estatal, deberán contar con la aprobación de la Unidad de Planeación y, así mismo, se sujetarán a la disponibilidad que se haya aprobado para tal fin en el Presupuesto de Egresos del Estado de Zacatecasyse (sic) deberáobservar (sic) la Ley de Ingresos del Estado de Zacatecasy (sic) demás disposiciones aplicables en materia presupuestaria correspondiente de las dependencias y entidades de la Administración Pública Estatal que tengan a su en cargo (sic) programas de desarrollo Social.
 
 ###### Artículo 33.
 
@@ -393,7 +403,9 @@ Dichas instancias normarán su funcionamiento en los términos de sus instrument
 
 El Consejo estará integrado por:
 
-I. El Secretario de Planeación y Desarrollo Regional, quien lo Presidirá;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. El Secretario de DesarrolloSocial (sic), quien lo Presidirá;
 
 II. Un Secretario Técnico, que será nombrado por el Presidente;
 
@@ -445,7 +457,9 @@ VII. Designar y remover al Secretario Técnico del Consejo;
 
 VIII. Proponer los estudios, proyectos y programas que sean necesarios para el cumplimiento del objeto del Consejo;
 
-IX. Presentar un informe anual al Ejecutivo del Estado sobre los acuerdos tomados en el seno del Consejo; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IX. Presentar un Informe anual al Ejecutivo del Estado, a través de la Unidad de Planeación, sobre los acuerdos tomados en el seno del Consejo; y
 
 X. Las demás que le confieren las disposiciones legales aplicables.
 
@@ -723,7 +737,9 @@ I. Señalar la congruencia de los programas y acciones de desarrollo social con 
 
 II. Precisar los programas, proyectos, acciones, obras y, en su caso, servicios de desarrollo social que deban ser ejecutados durante el ejercicio fiscal, para dar cumplimiento a los objetivos y prioridades del Programa;
 
-III. Indicar las metas cuantitativas y cualitativas de los programas de desarrollo social, que deban ser ejecutados de manera coordinada, así como los indicadores de resultados, gestión y servicios, previamente aprobados por el Consejo Estatal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Indicar las metas cuantitativas y cualitativas de los Programas de Desarrollo Social, que deban ser ejecutados de manera coordinada así como los Indicadores de Resultados, Gestión y Servicio, previamentevalidadospor (sic) el Consejo Estataly (sic) aprobados por la Unidad de Planeación.
 
 IV. En su caso, determinar los recursos que las partes deban aportar, señalando lo siguiente:
 
@@ -799,7 +815,9 @@ IV. Designar y remover al Secretario Técnico del Subcomité;
 
 V. Proponer los estudios, proyectos y programas que sean necesarios para el cumplimiento del objeto del Subcomité;
 
-VI. Presentar un informe anual al Ejecutivo del Estado sobre los acuerdos tomados en el seno del Subcomité;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VI. Presentar un informe anual al Ejecutivo del Estado, a través de la Unidad de Planeación, sobre los acuerdos tomados en el seno del Subcomité;
 
 VII. Emitir invitación para la asistencia a las o los delegados federales en el Estado que tengan relación con el desarrollo social; los Presidentes Municipales correspondientes, cuando se trate de acciones o programas a ejecutarse en su municipio y los representantes de instituciones y organismos sociales, académicos o empresariales; y
 
@@ -853,9 +871,11 @@ VIII. Cumplir con los acuerdos que se tomen en las sesiones del Subcomité, en l
 
 IX. Las demás que le confiere la Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 85.
 
-El Subcomité deberá remitir al Ejecutivo, el informe anual de su programa de trabajo.
+El Subcomité deberá remitir al Ejecutivo, a través dela (sic) Unidad de Planeación, el informe anual de su programa de trabajo.
 
 ### CAPÍTULO XV. De la Participación Social
 
@@ -991,9 +1011,11 @@ El Consejo Estatal establecerá los requisitos mínimos que deberán cumplir los
 
 El Consejo Estatal definirá los criterios para la elaboración de los indicadores de resultados, gestión y servicios para medir la cobertura, calidad e impacto de los programas sociales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 106.
 
-Las dependencias o entidades de la Administración Pública Estatal podrán realizar evaluaciones de los programas, acciones y recursos específicos destinados al desarrollo social que tengan a su cargo, para lo cual deberán observar los criterios, normas y lineamientos que establezca el Consejo Estatal y una vez concluidas, deberán ser enviadas al Consejo Estatal para su consideración y, en su caso, aprobación.
+Las Dependencias o Entidades de la Administración Pública Estatal podrán realizar evaluaciones de los programas, acciones y recursos específicos destinados al Desarrollo Social que tengan a su cargo, para lo cual deberán observar los criterios, normas y lineamientos que establezca el Consejo Estatal y una vez concluidas, deberán ser enviadas al Consejo estatal para su consideración, quien a su vez las remitirá a la Unidad de Planeación para su Aprobación.
 
 ###### Artículo 107.
 
@@ -1029,9 +1051,11 @@ El Consejo Estatal pondrá a disposición del público las evaluaciones de los p
 
 La Secretaría determinará anualmente las zonas de atención prioritaria, con el propósito de dirigir las acciones más urgentes para superar las marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social y fortalecer el desarrollo regional equilibrado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 113.
 
-La Secretaría deberá remitir al Ejecutivo del Estado, el listado de las zonas de atención prioritaria, a fin de que se presente a la Legislatura, junto con el Presupuesto de Egresos del ejercicio fiscal respectivo.
+La Secretaría deberá remitir al Ejecutivo del Estado, a través de la Unidad de Planeación, el listado de las Zonas de atención prioritaria, a fin de que analice y si lo considera necesario lo incluya (sic) Presupuesto de Egresos del Ejercicio Fiscal respectivo.
 
 ###### Artículo 114.
 
@@ -1084,3 +1108,13 @@ ESAÚ HERNÁNDEZ HERRERA
 EL SECRETARIO DE PLANEACIÓN Y DESARROLLO REGIONAL
 
 JOSÉ MA. GONZÁLEZ NAVA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero: Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
