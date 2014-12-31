@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-para-la-proteccion-y-bienestar-de-los-8221
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-06"
-last_updated: "2011-07-06"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82213&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # REGLAMENTO DE LA LEY PARA LA PROTECCION Y BIENESTAR DE LOS ANIMALES EN EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-REGLAMENTO DE LA LEY PARA LA PROTECCION Y BIENESTAR DE LOS ANIMALES EN EL ESTADO Y MUNICIPIOS DE ZACATECAS
+REGLAMENTO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES EN EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 6 de julio de 2011.
 
@@ -41,13 +41,17 @@ REGLAMENTO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES EN EL ESTAD
 
 El presente ordenamiento es de observancia general en todo el territorio del Estado de Zacatecas y tiene por objeto reglamentar la Ley para la Protección y Bienestar de los Animales en el Estado y Municipios de Zacatecas, en lo relativo al cuidado y atención de los animales, así como el sacrificio de los mismos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-La aplicación de este Reglamento corresponde al Ejecutivo Estatal, por conducto de la (sic) Instituto de Ecología y Medio Ambiente del Estado de Zacatecas, mismo, que será encargado de aplicar las sanciones previstas en la Ley para la Protección y Bienestar de los Animales en el Estado y Municipios de Zacatecas, sin perjuicio de las atribuciones de los Servicios Coordinados de Salud otras dependencias, federales y municipales, de conformidad con las disposiciones legales aplicables en el ámbito de su (sic) respectivas jurisdicciones.
+La aplicación de este Reglamento corresponde al Ejecutivo Estatal por conducto de la Secretaría del Agua y Medio Ambiente, misma, que será encargada de aplicar las sanciones previstas en la Ley para la Protección y Bienestar de los Animales en el Estado y Municipios de Zacatecas, sin perjuicio de las atribuciones de los Servicios de Saludde (sic) Zacatecas, otras dependencias federales y municipales, de conformidad con las disposiciones legales aplicables en el ámbito de sus respectivas jurisdicciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 3.
 
-Para efectos de éste Reglamento y para facilitar la aplicación del presente ordenamiento, se entenderá por:
+Para efectos de este Reglamento y para facilitar la aplicación del presente ordenamiento, se entenderá por:
 
 I. Animal: Ser vivo, pluricelular, con sistema nervioso desarrollado, que siente y se mueve voluntariamente y por instinto;
 
@@ -59,13 +63,15 @@ IV. Especie: Unidad básica de clasificación taxonómica, formada por un conjun
 
 V. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural; que se desarrollan libremente; que sus poblaciones se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y que por ello sean susceptibles de captura y apropiación;
 
-VI. Instituto: Instituto de Ecología y Medio Ambiente del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VI. Secretaría: Secretaría del Agua y Medio Ambiente.
 
 VII. Ley: Ley Para la Protección y Bienestar de los Animales en el Estado y Municipios de Zacatecas:
 
 VIII. Reglamento: Al presente Reglamento de la Ley Para la Protección y Bienestar de los Animales en el Estado y Municipios de Zacatecas; y
 
-IX. Sacrificio: Acto de dar muerte sin dolor ni sufrimiento a los animales; (sic)
+IX. Sacrificio: Acto de dar muerte sin dolor ni sufrimiento a los animales;
 
 ###### Artículo 4.
 
@@ -81,9 +87,11 @@ IV. Propiciar el respeto y consideración benéfica a los seres animales, y
 
 V. Contribuir a la formación del individuo y a su superación personal, familiar y social, al inculcarle actitudes responsables y humanitarias hacia los animales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 5.
 
-El Instituto, con base en el presente Reglamento, empleará las políticas necesarias para consolidar una cultura de protección y respeto a las diversas especies animales.
+La Secretaría con base en el presente Reglamento, empleará las políticas necesarias para consolidas (sic) una cultura de protecció9n (sic) y respeto a las diversas ewpecies (sic) animales.
 
 Los particulares, las asociaciones protectoras de animales y las organizaciones ambientalistas, prestarán su cooperación a las autoridades para alcanzar los fines que persigue este Reglamento en la forma especificada.
 
@@ -101,9 +109,11 @@ IV. Los Reglamentos Municipales de Protección y Bienestar de los Animales, las 
 
 V. Los demás que designen las autoridades estatales y municipales y la Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
-Para la elaboración de las Normas Zoológicas, el Instituto de Ecología convocará públicamente, mediante un periódico de mayor circulación en el Estado a las Asociaciones Protectoras de Animales, Organizaciones de la Sociedad Civil, Expertos de Fauna, Profesionistas Medico Veterinarios, Instituciones Educativas y de Investigación.
+Para la elaboración de las Normas Zoológicas, la Secretaría convocará públicamente, mediante un periódico de mayor circulación en el Estado a las Asociaciones Protectoras de Animales, Organizaciones de la Sociedad Civil, Expertos de Fauna, Profesionistas Médico Veterinarios, Instituciones Educativas y de Investigación.
 
 La convocatoria referida en el párrafo anterior, se publicará dos veces con intervalo de siete días, en la que se mencionarán las bases para la elaboración y discusión del proyecto de la norma y la fecha de la primera sesión para llevar a cabo los trabajos necesarios.
 
@@ -113,9 +123,11 @@ Una vez acordado el proyecto de Norma Zoológica, el Instituto lo enviará a la 
 
 Serán objeto de tutela y protección, todos los animales domésticos y de cría, los animales domésticos de compañía, los animales domésticos de producción, los animales de entretenimiento, los animales ferales y silvestres aún lo que se encuentren en cautiverio, los animales para enseñanza e investigación, siempre y cuando estos no estén expresamente reservados a la federación.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 9.
 
-El Instituto deberá procurar la creación de reservas y albergues de animales, por sí o con la participación de particulares, asociaciones protectoras, organizaciones ambientalistas o con los Municipios para la salvaguarda de estos, independientemente de que sean domésticos, de cría o silvestres mantenidas en cautiverio, siempre que se estime necesario su reubicación.
+La Secretaría deberá procurar la creación de reservas y albergues de animales, por sí o con la participación de particulares, asociaciones protectoras, organizaciones ambientalistas o con los Municipios para la salvaguarda de estos, independientemente de que sean domésticos, de cría o silvestres mantenidas en cautiverio, siempre que se estime necesario su reubicación.
 
 ###### Artículo 10.
 
@@ -155,15 +167,19 @@ Los albergues realizarán algunos servicios elementales que manejarán cuotas de
 
 6. Ovariectomía en felinas de 3 a 5 salarios mínimos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-El Instituto en el ámbito de su competencia y dentro de sus programas, deberá difundir, por los medios apropiados, el contenido de este Reglamento, inculcando en el niño, en el adolescente y en el adulto, el respeto a los animales.
+La Secretaría en el ámbito de su competencia y dentro de sus programas, deberá difundir, por los medios apropiados, el contenido de este Reglamento, inculcando en el niño, en el adolescente y en el adulto, el respeto a los animales.
 
 ###### Artículo 14.
 
 La Comisión como órgano técnico consultivo de las autoridades responsables, tendrán las facultades establecidas en la Ley y estará integrada de la forma siguiente:
 
-I. El Director General del Instituto de Ecología y Medio Ambiente de Zacatecas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. El titular de la Secretaría,
 
 II. Un representante de los Servicios de Salud;
 
@@ -175,7 +191,9 @@ IV. Un representante de las Asociaciones Protectoras de Animales.
 
 La Comisión para su funcionamiento se estructurará de la siguiente manera:
 
-I. Un Presidente que será el Director General del Instituto de Ecología y Medio Ambiente de Zacatecas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Un Presidente que será el titular de la Secretaría.
 
 II. Un Secretario Ejecutivo, que será elegido de entre los integrantes de la Comisión; y
 
@@ -195,13 +213,17 @@ La Comisión sesionará por lo menos tres veces al año y las atribuciones de su
 
 Todo propietario, poseedor o encargado de un animal, que voluntariamente lo abandone o se libere por negligencia imputable a este y por tal motivo el animal, cause daños a terceros, será responsable por el animal y los perjuicios que ocasionen, independientemente de la naturaleza del ámbito legal que sea aplicable, el propietario, poseedor o encargado podrá ser sancionado en los términos de este Reglamento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-La posesión de un animal manifiestamente peligroso o feroz, deberá contar con una autorización o permiso específico de la (sic) Instituto de conformidad a lo establecido en la Ley. En el supuesto caso de que el animal sea de los que puedan sacarse a la vía pública, deberá estar sujeto con una traílla o cadena y provisto de bozal, independientemente de la autorización de posesión que expida la Dirección General de Vida Silvestre de la Secretaría de Medio Ambiente y Recursos Naturales.
+La posesión de un animal manifiestamente peligroso o feroz, deberá contar con una autorización o permiso específico de la Secretaría de conformidad a lo establecido en la Ley. En el supuesto caso de que el animal sea de los que puedan sacarse a la vía pública, deberá estar sujeto con una traílla o cadena y provisto de bozal, independientemente de la autorización de posesión que expida la Dirección General de Vida Silvestre de la Secretaría de Medio Ambiente y Recursos Naturales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 20.
 
-Para la autorización o permiso señalados en el artículo anterior, el poseedor ante el Instituto, debe presentar solicitud por escrito, fechado y firmado, especificando:
+Para la autorización o permiso señalados en el articulo anterior, el poseedor ante la Secretaría, debe presentar solicitud por escrito, fechado y firmado, especificando:
 
 a).- Nombre científico y común del animal;
 
@@ -211,33 +233,45 @@ c).- Anexar un dictamen de un Médico Veterinario Zootecnista respecto a la cond
 
 d).- Anexar un croquis del sitio, jaula o lugar, y esquema de dimensiones del confinamiento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 21.
 
-Para pasear al perro en la vía pública, es necesario, que se le coloque una traílla o cadena y provisto de bozal, los poseedores deberán notificar al Instituto, siendo en todo momento responsabilidad del propietario, los daños que pudiera causar por el ataque a las personas o sus posesiones.
+Para pasear al perro en la vía pública, es necesario, que se le coloque una traílla o cadena y provisto de bozal, los poseedores deberán notificar ala (sic) Secretaría, siendo en todo momento responsabilidad del propietario, los daños que pudiera causar por el ataque a las personas o sus posesiones.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 22.
 
-El Instituto, en un plazo que no excederá los cinco días hábiles, emitirá su resolución, respecto a la solicitud realizada, sea en forma positiva o negativa.
+La Secretaría, en un plazo que no excederá los cinco días hábiles, emitirá su resolución, respecto a la solicitud realizada, sea en forma positiva o negativa.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 23.
 
-El Instituto podrá verificar la condición de confinamiento del animal, en cualquier momento, previa notificación al poseedor.
+La Secretaría podrá verificar la condición de confinamiento del animal, en cualquier momento, previa notificación al poseedor.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 24.
 
-Los comercios dedicados a la venta de animales vivos, sean domésticos o de cría, se sujetarán a lo establecido en la Ley y el presente Reglamento. Dichos comercios requerirán de permiso otorgado por el Instituto y de las autoridades sanitarias del Estado.
+Los comercios dedicados a la venta de animales vivos, sean domésticos o de cría, se sujetarán a lo establecido en la Ley y el presente Reglamento. Dichos comercios requerirán de permiso otorgado por la Secretaría y de las autoridades sanitarias del Estado.
 
 ###### Artículo 25.
 
 Todo establecimiento dedicado a la venta de animales, deberá contar con las instalaciones y elementos necesarios que garanticen su bienestar; respetando las normas para tal efecto.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 26.
 
-Las instituciones educativas que experimente con animales deberán contar con autorización del Instituto, sin ella no se podrán realizar dichos experimentos.
+Las instituciones educativas que experimenten con animales deberán contar con autorización de la Secretaría, sin ella no se podrán realizar dichos experimentos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 27.
 
-Las personas que se dediquen al adiestramiento canino deberán de acreditar ante el Instituto que están certificados como Adiestradores Caninos ante la Federación Canófila Mexicana A.C. para tal efecto, el Instituto avalará dicha acreditación y será ratificada anualmente.
+Las personas que se dediquen al adiestramiento canino deberán acreditar ante la Secretaría que están certificados como Adiestradores Caninos ante la Federación Canófila Mexicana A.C. para tal efecto, la Secretaría avalará dicha acreditación y será ratificada anualmente.
 
 ### CAPITULO III. DE LAS PROHIBICIONES
 
@@ -357,9 +391,11 @@ El Comité de Vigilancia y Verificación tendrá funciones solo en el municipio 
 
 EL Comité referido en el artículo anterior, según lo establezca su reglamento interno, nombrará un representante que acompañará a la autoridad competente en las inspecciones o verificaciones, sin embargo, la inasistencia de dicho representante no será objeto de suspender la inspección o verificación. Asimismo, dicha inasistencia no afectará la validez del acta que de la inspección o verificación resulte.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 49.
 
-El Instituto, los Servicios de Salud o el Municipio podrán realizar visitas de inspección y verificación sujetándose al procedimiento establecido en el presente Reglamento.
+La Secretaría, los Servicios de Salud o el Municipio podrán realizar visitas de inspección y verificación sujetándose al procedimiento establecido en el presente Reglamento.
 
 ###### Artículo 50.
 
@@ -395,13 +431,17 @@ La autoridad competente podrá hacer uso de las medidas de apremio que considere
 
 Una vez levantada y recibida el acta de inspección por la autoridad ordenadora, se requerirá al interesado, propietario o responsable del establecimiento inspeccionado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos o autorizaciones, fundando y motivando el requerimiento, señalando el plazo que corresponda y para que dentro del término de diez días hábiles, contados a partir del día siguiente a aquel en que se reciba la notificación, exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes, en relación con las irregularidades asentadas en el acta de inspección respectiva.
 
-El Instituto requerirá al interesado, propietario o responsable del establecimiento inspeccionado para que designe un domicilio dentro de su jurisdicción, a fin de llevar a cabo las subsecuentes notificaciones y en caso de que no lo designe, las notificaciones se realizarán a través de los estrados que se fijen en el propio Instituto, sin que por ello se configure una violación al procedimiento administrativo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría requerirá al interesado, propietario o responsable del establecimiento inspeccionado para que designe un domicilio dentro de su jurisdicción, a fin de llevar a cabo las subsecuentes notificaciones y en caso de que no lo designe, las notificaciones se realizarán a través de los estrados que se fijen en la propia Secretaría, sin que por ello se configure una violación al procedimiento administrativo.
 
 Admitidas y desahogadas las pruebas ofrecidas por el interesado o habiendo transcurrido el plazo a que se refiere el párrafo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo tres días hábiles, presente por escrito los alegatos que considere pertinentes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 56.
 
-Una vez recibidos los alegatos o transcurrido el término para presentarlos, el Instituto procederá, dentro de los treinta días naturales siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
+Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá, dentro de los treinta días naturales siguientes, a dictar por escrito la resolución respectiva, misma que se notificara al interesado, personalmente o por correo certificado con acuse de recibo.
 
 ###### Artículo 57.
 
@@ -411,11 +451,15 @@ Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado a
 
 Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer las sanciones establecidas en la Ley.
 
-En los casos en que el infractor realice las medidas correctivas de urgente aplicación o subsane las irregularidades detectadas, en los plazos determinados por el Instituto, siempre y cuando el infractor no sea reincidente, ésta podrá revocar o modificar la sanción o sanciones impuestas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En los casos en que el infractor realice las medidas correctivas de urgente aplicación o subsane las irregularidades detectadas, en los plazos determinados por la Secretaría, siempre y cuando el infractor no sea reincidente, ésta podrá revocar o modificar la sanción o sanciones impuestas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 58.
 
-El Instituto procurará la integración de un padrón de establecimientos y/o particulares que se dediquen a la cría y venta de animales domésticos o considerados como mascotas.
+La Secretaría procurará la integración de un padrón de establecimientos y/o particulares que se dediquen a la cría y venta de animales domésticos o considerados como mascotas.
 
 ###### Artículo 59.
 
@@ -431,9 +475,11 @@ d) Acreditación de la supervisión médico-veterinaria; y
 
 e) Permitir la verificación del lugar donde se encuentren los animales en cría.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 60.
 
-El Instituto en coordinación con el Ayuntamiento respectivo y la autoridad sanitaria implementarán la captura, por motivo de salud pública de perros y otros animales domésticos, que deambulen sin dueño aparente, sin placa de identidad y de vacuna antirrábica y esta sólo podrá hacerse por personas debidamente adiestradas y equipadas, se efectuará únicamente a través y bajo la supervisión de las autoridades sanitarias y del Instituto, quienes evitarán cualquier acto de crueldad, tormento, sobreexcitación o escándalo público.
+La Secretaría en coordinación con el Ayuntamiento respectivo y la autoridad sanitaria implementarán la captura, por motivo de salud pública de perros y otros animales domésticos, que deambulen sin dueño aparente, sin placa de identidad y de vacuna antirrábica y ésta sólo podrá hacerse por personas debidamente adiestradas y equipadas, se efectuará únicamente á través y bajo la supervisión de las autoridades sanitarias y de la Secretaría, quienes evitarán cualquier acto de crueldad, tormento, sobreexcitación o escándalo público.
 
 ###### Artículo 61.
 
@@ -467,19 +513,25 @@ En su caso y considerando la índole de la petición que se formule, las autorid
 
 Queda expresamente prohibido el empleo de golpes o ahorcamiento, así como de ácidos corrosivos, estricnina, warfarina, cianuro, arsénico u otras substancias similares.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 66.
 
-El Instituto procurará la instalación de establecimientos de resguardo temporal de animales en coordinación con los Ayuntamientos y la autoridad sanitaria o convenir con particulares, asociaciones protectoras de animales y organizaciones ambientales el establecimiento y operación de los mismos.
+La Secretaría procurara la instalación de establecimientos de resguardo temporal de animales en coordinación con los Ayuntamientos y la autoridad sanitaria o convenir con particulares, asociaciones protectoras de animales y organizaciones ambientales el establecimiento y operación de los mismos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 67.
 
-El Instituto en todo momento podrá verificar las instalaciones de las estancias o albergues de animales cuyos propietarios los hayan dejado en resguardo por cualquier motivo en dichos lugares para el exacto cumplimiento de la Ley y el presente reglamento.
+La Secretaría en todo momento podrá verificar las instalaciones de las estancias o albergues de animales cuyos propietarios los hayan dejado en resguardo o por cualquier motivo en dichos lugares para el exacto cumplimiento de la Ley y el presente reglamento.
 
 ### CAPITULO V. DE LAS RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 68.
 
-El Instituto, Los Servicios de Salud o el Municipio para el establecimiento de las sanciones de las faltas a Ley y el presente reglamento tomará en consideración:
+La Secretaría, los Servicios de Salud o el Municipio para el establecimiento de las sanciones de las faltas a Ley y el presente Reglamento tendrá en consideración:
 
 I. La gravedad de la infracción;
 
@@ -495,9 +547,11 @@ V. El beneficio directa o indirectamente obtenido por el infractor por el acto q
 
 Se considerarán reincidentes a quienes cometan una falta dentro del año siguiente a la fecha en que hubieren sido sancionados por violación a la ley o su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 70.
 
-Las multas recaudadas por infracciones a la Ley o el presente reglamento, las autoridades competentes destinarán el cincuenta por ciento de los montos recabados al Instituto y el restante a los municipios que emprendan acciones relacionadas con las atribuciones que la Ley les confiere.
+Las multas recaudadas por infracciones a la Ley o el presente reglamento, las autoridades competentes destinarán el cincuenta por ciento de los montos recabados a la Secretaría y el restante a los municipios que emprendan acciones relacionadas con las atribuciones que la Ley les confiere.
 
 La imposición de cualquier sanción prevista por la presente Ley no excluye la responsabilidad civil o penal y la eventual indemnización o reparación del daño correspondiente que pueda recaer sobre el sancionado.
 
@@ -524,3 +578,13 @@ SECRETARIO GENERAL DE GOBIERNO
 M. C. JULIO CESAR NAVA DE LA RIVA
 
 DIRECTOR GENERAL DEL INSTITUTO DE ECOLOGÍA Y MEDIO AMBIENTE DE ZACATECAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
