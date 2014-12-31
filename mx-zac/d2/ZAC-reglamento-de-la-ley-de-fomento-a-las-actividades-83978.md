@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-fomento-a-las-actividades-83978"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-19"
-last_updated: "2011-11-19"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA LEY DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 19 de noviembre de 2011.
 
@@ -93,9 +93,11 @@ La aplicación e interpretación d e (sic) este Reglamento, es facultad del Ejec
 
 ### CAPÍTULO II. Derechos y Obligaciones de las Organizaciones
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 6.
 
-Las Organizaciones podrán ejercer su derecho a participar en los mecanismos de contraloría social que establezcan u operen las dependencias y entidades, de manera corresponsable y honorífica, conforme a los lineamientos que la Secretaría y la Contraloría Interna expidan.
+Las Organizaciones podrán ejercer su derecho de participar en los mecanismos de contraloría social que establezcan u operen dependencias y entidades, de manera correspondiente y honorífica, conforme a los lineamientos que la Secretaría y laSecretaría (sic) de la Función Públicaexpidan (sic).
 
 ###### Artículo 7.
 
@@ -189,9 +191,11 @@ Las sesiones de la Comisión deberán constar en Acta, debiendo ser firmada por 
 
 La Comisión tiene por objeto facilitar la coordinación en el diseño, ejecución, seguimiento y evaluación de las acciones y medidas para el fomento de las Actividades; así como la definición de mecanismos para la participación de las Organizaciones en las políticas públicas relacionadas directamente con el objeto social que establezca su acta constitutiva. La Comisión se integrará y ejercerá las atribuciones que establecen la Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
-La Comisión será presidida por el representante propietario de la Secretaría, o bien, por el Secretario de Desarrollo y Planeación según determine el Titular de Ejecutivo quien ejercerá las atribuciones que la Ley y demás disposiciones aplicables le otorgan a dicha Dependencia, en función de su carácter de Secretaría Técnica de la Comisión.
+La Comisión será presidida por el representante propietario de la Secretaría, o bien, por el Secretario de DesarrolloSocial (sic) según determine el Titular del Poder Ejecutivo, quien ejercerá las atribuciones que la Ley y demás disposiciones aplicables le otorgan a dicha Dependencia, en función de su carácter de Secretaría Técnica de la Comisión.
 
 ###### Artículo 26.
 
@@ -465,7 +469,7 @@ Para la imposición de las sanciones establecidas en la Ley, se observarán las 
 
 Contra los actos y las resoluciones que la Comisión dicte con motivo de la aplicación de este Reglamento y los que den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de revisión, el cual se sustanciará en los términos de la Ley de Procedimiento Administrativo del Estado y Municipios de Zacatecas.
 
-T R A N S I T O R I O S (SIC)
+T R A N S I T O R I O S
 
 ÚNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
@@ -478,3 +482,13 @@ GOBERNADOR DEL ESTADO DE ZACATECAS
 ESAÚ HERNÁNDEZ HERRERA
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
