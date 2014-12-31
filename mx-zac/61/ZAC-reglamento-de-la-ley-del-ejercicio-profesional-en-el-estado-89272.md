@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-del-ejercicio-profesional-en-el-estado-892
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-11"
-last_updated: "2012-08-11"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA LEY DEL EJERCICIO PROFESIONAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de agosto de 2012.
 
@@ -41,9 +41,11 @@ REGLAMENTO DE LA LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE ZACATECAS
 
 El presente Reglamento es de orden público e interés social y tiene por objeto determinar las normas y procedimientos para el registro de títulos profesionales, instituciones educativas que expidan títulos profesionales, así como de Colegios de Profesionistas en el Estado de Zacatecas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-La vigilancia en las diversas ordenanzas del presente Reglamento, es competencia del Titular del Poder Ejecutivo a través de la Secretaría de Educación y Cultura.
+La vigilancia en las diversas ordenanzas del presente Reglamento, es competencia del Titular del Poder Ejecutivo a través de la Secretaría de Educación.
 
 ###### Artículo 3.
 
@@ -57,7 +59,9 @@ I. Ley: A la Ley del Ejercicio Profesional en el Estado de Zacatecas;
 
 II. Reglamento: Al presente Reglamento de la Ley;
 
-III. Secretaría: A la Secretaría de Educación y Cultura del Estado de Zacatecas; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Secretaría: A la Secretaría de Educación del Estado de Zacatecas; y
 
 IV. Registro: A la inscripción que se realiza ante la Secretaría.
 
@@ -416,3 +420,13 @@ ESAÚ HERNÁNDEZ HERRERA
 EL SECRETARIO DE EDUCACIÓN Y CULTURA
 
 MARCO VINICIO FLORES CHÁVEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de (sic) Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero: Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
