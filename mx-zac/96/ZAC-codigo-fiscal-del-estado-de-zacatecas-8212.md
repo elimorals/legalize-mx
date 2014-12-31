@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-del-estado-de-zacatecas-8212"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-12-29"
-last_updated: "2014-01-15"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 CÓDIGO FISCAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE ENERO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 41 PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de diciembre de 1984.
 
@@ -107,7 +105,9 @@ Son Leyes Fiscales del Estado:
 
 5.- El Reglamento Interior de la Secretaría de Finanzas.
 
-6.- Ley General de Coordinación del Estado de Zacatecas y sus Municipios.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+6.- Ley de Coordinación Hacendaria para el Estado de Zacatecas y sus Municipios.
 
 7.- Los demás ordenamientos que contengan disposiciones de orden hacendario.
 
@@ -179,11 +179,13 @@ Los medios de pago señalados en este artículo, aplican respecto de los impuest
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-###### ARTICULO 16-A.
+###### ARTICULO 16o.
 
-El monto de las contribuciones, aprovechamientos, así como de las devoluciones, a cargo del Fisco Estatal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban de actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del Fisco Estatal no se actualizarán por fracciones de mes.
+A.- El monto de las contribuciones, aprovechamientos, así como de las devoluciones, a cargo del Fisco Estatal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban de actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del Fisco Estatal no se actualizarán por fracciones de mes.
 
-En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no haya sido publicado por el Banco de México, la autorización de que se trate se realizará aplicando el último índice mensual publicado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Instituto Nacional de Estadística y Geografía (INEGI), la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
 Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el periodo de que se trate.
 
@@ -399,11 +401,13 @@ VI.- Revisar los dictámenes formulados por contadores públicos, sobre los esta
 
 VII.- Emplear cualquiera de los siguientes medios de apremio para hacer cumplir sus determinaciones;
 
-A)Multa de tres a diez cuotas, que se duplicará en caso de reincidencia. Para los efectos de esta ley, se entiende por cuota, el importe del salario mínimo general diario que rija en el Estado en el momento de la imposición de este medio de apremio.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-B)El auxilio de la fuerza pública;
+A) Multa de $ 198.96 a $ 663.20, que se duplicará en caso de reincidencia.
 
-C)La denuncia ante el Ministerio Público por la comisión de delito de desobediencia y resistencia de particulares y los demás que resultaren;
+B) El auxilio de la fuerza pública;
+
+C) La denuncia ante el Ministerio Público por la comisión de delito de desobediencia y resistencia de particulares y los demás que resultaren;
 
 VIII.- Denunciar ante el Ministerio Público la posible comisión de delitos fiscales y formular la querella respectiva;
 
@@ -411,13 +415,13 @@ Las actuaciones que practique la Secretaría de Finanzas, tendrán el mismo valo
 
 IX.- Comprobar los ingresos totales o gravables de los contribuyentes. Al efecto, se presumirá, salvo prueba en contrario:
 
-A)Que la información contenida en libros y registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando no aparezca su nombre, o aparezca el de otra persona.
+A) Que la información contenida en libros y registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando no aparezca su nombre, o aparezca el de otra persona.
 
-B)Que la información contenida en los libros, registros, sistemas de contabilidad y documentación comprobatoria a nombre del contribuyente, que se encuentren en poder de personas a su servicio o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente.
+B) Que la información contenida en los libros, registros, sistemas de contabilidad y documentación comprobatoria a nombre del contribuyente, que se encuentren en poder de personas a su servicio o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente.
 
-C)Que las diferencias entre los activos registrados y las existencias reales correspondan a ingresos gravables del último ejercicio que se revise.
+C) Que las diferencias entre los activos registrados y las existencias reales correspondan a ingresos gravables del último ejercicio que se revise.
 
-D)Que la información escrita o documentos de terceros relacionados con el contribuyente, corresponda a operaciones realizadas por éste, en cualquiera de los casos siguientes:
+D) Que la información escrita o documentos de terceros relacionados con el contribuyente, corresponda a operaciones realizadas por éste, en cualquiera de los casos siguientes:
 
 1.- Cuando se refieran al contribuyente designado por su nombre, denominación o razón social;
 
@@ -429,15 +433,15 @@ D)Que la información escrita o documentos de terceros relacionados con el contr
 
 X.- Estimar los ingresos gravables de los contribuyentes, de los responsables solidarios, objetivos o de los terceros, en cualquiera de los siguientes casos:
 
-A)Cuando se resistan y obstaculicen por cualquier medio, la iniciación o desarrollo de las visitas domiciliarias, o se nieguen a recibir la orden respectiva.
+A) Cuando se resistan y obstaculicen por cualquier medio, la iniciación o desarrollo de las visitas domiciliarias, o se nieguen a recibir la orden respectiva.
 
-B)Cuando no proporcionen los libros, documentos, informes o datos que se les soliciten;
+B) Cuando no proporcionen los libros, documentos, informes o datos que se les soliciten;
 
-C)Cuando presente libros, documentos, informes o datos alterados o falsificados o existan vicios o irregularidades en su contabilidad;
+C) Cuando presente libros, documentos, informes o datos alterados o falsificados o existan vicios o irregularidades en su contabilidad;
 
-D)Cuando no lleven los libros o registros a que están obligados o no los conserven en domicilio ubicado en el Estado;
+D) Cuando no lleven los libros o registros a que están obligados o no los conserven en domicilio ubicado en el Estado;
 
-E)Cuando las informaciones que se obtengan de clientes, proveedores o terceros, pongan de manifiesto una percepción de ingresos superiores a lo declarado.
+E) Cuando las informaciones que se obtengan de clientes, proveedores o terceros, pongan de manifiesto una percepción de ingresos superiores a lo declarado.
 
 En el caso de que los contribuyentes se coloquen en alguna de las causales de estimativa anteriores, se presumirá, salvo que comprueben su ingreso por el periodo respectivo, que el ingreso es igual al resultado de alguna de las siguientes operaciones:
 
@@ -1019,163 +1023,301 @@ XI.- Cuando las multas impuestas por las autoridades fiscales, se paguen dentro 
 
 Son infracciones cuya responsabilidad recae sobre los sujetos o presuntos sujetos de un crédito fiscal, las que a continuación se indican, señalándose las sanciones correspondientes:
 
-I.- No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse, o hacerlo fuera de los plazos legales; no incurrir en las manifestaciones para su inscripción todas las actividades por las que sea contribuyente habitual o no citar su número de registro en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquier oficina o autoridad, multa de dos o veinte cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II.- Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar total o parcialmente los impuestos correspondientes, multa de diez a cien cuotas.
+I. No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse, o hacerlo fuera de los plazos legales; no incurrir en las manifestaciones para su inscripción todas las actividades por las que sea contribuyente habitual o no citar su número de registro en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquier oficina o autoridad, multa de $ 132.00 a $ 1,320.00.
 
-III.- No obtener oportunamente los permisos, placas, comprobantes de registro; libros o cualquier otro documento exigido por las disposiciones fiscales; no tenerlos en los lugares que señalan dichas disposiciones, o no devolverlos oportunamente, dentro del plazo que las mismas establecen, multa de dos a veinte cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV.- Iniciar cualquier actividad económica sin cubrir los requisitos exigidos por los distintos ordenamientos legales multa de dos a veinte cuotas.
+II. Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar total o parcialmente los impuestos correspondientes, multa de $ 660.00 a $ 6,600.00.
 
-V.- No llevar los libros de contabilidad que requieran las disposiciones fiscales, llevarlos en forma distinta a como éstas establecen, no hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos, inexactos o fuera de los plazos respectivos, multa de dos a veinte cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VI.- Llevar doble juego de libros, multa de diez a cien cuotas.
+III. No obtener oportunamente los permisos, placas, comprobantes de registro; libros o cualquier otro documento exigido por las disposiciones fiscales; no tenerlos en los lugares que señalan dichas disposiciones, o no devolverlos oportunamente, dentro del plazo que las mismas establecen, multa de $ 132.00 a $ 1,320.00.
 
-VII.- Hacer, mandar o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco, cualquier anotación, asiento o constancia hecha en la contabilidad; o mandar o consentir que se hagan esas alteraciones, raspaduras o tachaduras, multa de diez a cien cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VIII.- Destruir, inutilizar o no conservar los libros, archivos y documentación comprobatoria cuando no haya transcurrido el plazo de cinco años, multa de diez a cien cuotas.
+IV. Iniciar cualquier actividad económica sin cubrir los requisitos exigidos por los distintos ordenamientos legales multa de $ 132.00 a $ 1,320.00.
 
-IX.- No presentar para su autorización, o hacerlo extemporáneamente, los libros o sistemas de contabilidad, cuando lo exijan las disposiciones fiscales, multa de dos a veinte cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-X.- No devolver oportunamente a las autoridades, los comprobantes de pago de las prestaciones fiscales cuando lo exijan las disposiciones relativas, multa de dos a veinte cuotas.
+V. No llevar los libros de contabilidad que requieran las disposiciones fiscales, llevarlos en forma distinta a como éstas establecen, no hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos, inexactos o fuera de los plazos respectivos, multa de $ 132.00 a $ 1,320.00.
 
-XI.- Faltar a la obligación de extender recibos, facturas, notas de venta o cualesquiera otros documentos que señalen las leyes fiscales o extenderlos sin que reúnan los requisitos correspondientes, no exigirlos cuando tengan obligación de hacerlo, no consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma, por la primera vez, multa de dos a veinte cuotas, en caso de reincidencia por cada omisión multa de diez a cincuenta cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XII.- No presentar, o no proporcionar o hacerlo extemporáneamente los avisos, declaraciones, contratos, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales, no presentarlos o aclararlos cuando las autoridades fiscales lo soliciten, multa de dos a veinte cuotas.
+VI. Llevar doble juego de libros, multa de $ 660.00 a $ 6,600.00.
 
-XIII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores que lleven consigo la evasión de una prestación fiscal, multa de diez a cien cuotas, siempre que no pueda precisarse el monto de la prestación fiscal omitida. De lo contrario la multa será hasta de tres tantos del importe de dicha prestación.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIV.- Presentar los avisos, declaraciones, datos, informes, copias, libros y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados, multa de diez a cien cuotas.
+VII. Hacer, mandar o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco, cualquier anotación, asiento o constancia hecha en la contabilidad; o mandar o consentir que se hagan esas alteraciones, raspaduras o tachaduras, multa de $ 660.00 a $ 6,600.00.
 
-XV.- Declarar ingresos menores de los percibidos; ocultar u omitir bienes o su existencia que deban figurar en los inventarios o listarlos a precios inferiores de los reales, no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que éstas dispongan, multa de diez a cien cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XVI.- No pagar en forma total o parcial, los impuestos, contribuciones especiales o derechos en los plazos señalados por las leyes fiscales, multa de dos a veinte cuotas.
+VIII. Destruir, inutilizar o no conservar los libros, archivos y documentación comprobatoria cuando no haya transcurrido el plazo de cinco años, multa de $ 660.00 a $ 6,600.00.
 
-XVII.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras, o beneficiarse de un subsidio o estímulo fiscal, sin tener derecho a ello, multa de diez a cien cuotas, siempre que no pueda precisarse el monto de la prestación fiscal omitida o del subsidio o estímulo fiscal indebidamente aprovechado. De lo contrario, la multa será hasta de tres tantos del importe de dicha prestación, subsidio o estímulo fiscal.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XVIII.- Resistirse por cualquier medio a las visitas de inspección y auditoría, no suministrar los datos e informes que legalmente puedan exigir los inspectores y auditores, no mostrar los libros de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas, oficinas o cualquier otra dependencia y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita, multa de diez a cien cuotas.
+IX. No presentar para su autorización, o hacerlo extemporáneamente, los libros o sistemas de contabilidad, cuando lo exijan las disposiciones fiscales, multa de $ 132.00 a $ 1,320.00.
 
-XIX.- No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositario por los visitadores, al estarse practicando visitas de revisión y auditoría, multa de diez a cien cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XX.- No presentar ante las autoridades fiscales cuando éstas lo soliciten, las facturas, recibos, notas de ventas y otros comprobantes de las compras efectuadas, multa de diez a cien cuotas.
+X. No devolver oportunamente a las autoridades, los comprobantes de pago de las prestaciones fiscales cuando lo exijan las disposiciones relativas, multa de $ 132.00 a $ 1,320.00.
 
-XXI.- Ejercer el comercio clandestino por más de dos meses sin reunir los requisitos que establecen las leyes fiscales, siempre que no sean comerciantes ambulantes, multa de diez a cien cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXII.- Infringir disposiciones fiscales en forma no prevista a en las fracciones anteriores, multa de diez a cien cuotas.
+XI. Faltar a la obligación de extender recibos, facturas, notas de venta o cualesquiera otros documentos que señalen las leyes fiscales o extenderlos sin que reúnan los requisitos correspondientes, no exigirlos cuando tengan obligación de hacerlo, no consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma, por la primera vez, multa de $ 132.00 a $ 1,320.00, en caso de reincidencia por cada omisión multa de $ 660.00 a $ 3,300.00.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXIII. No realizar el pago de tenencia o uso de vehículos, presentarlos fuera del plazo, no cumplir con los requerimientos de las autoridades fiscales para presentarlos o cumplir fuera del plazo establecido en dichos requerimientos, multa de 10 a 40 cuotas de salario mínimo general vigente en el Estado.
+XII. No prestar, o no proporcionar o hacerlo extemporáneamente los avisos, declaraciones, contratos, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales, no presentarlos o aclararlos cuando las autoridades fiscales lo soliciten, multa de $ 132.00 a $ 1,320.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIII. Prestar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores que lleven consigo la evasión de una prestación fiscal, multa de $ 660.00 a $ 6,600.00, siempre que no pueda precisarse el monto de la prestación fiscal omitida. De lo contrario la multa será hasta de tres tantos del importe de dicha prestación.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIV. Prestar los avisos, declaraciones, datos, informes, copias, libros y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados, multa de $ 660.00 a $ 6,600.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XV. Declarar ingresos menores de los percibidos; ocultar u omitir bienes o su existencia que deban figurar en los inventarios o listarlos a precios inferiores de los reales, no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que éstas dispongan, multa de $ 660.00 a $ 6,600.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVI. No pagar en forma total o parcial, los impuestos, contribuciones especiales o derechos en los plazos señalados por las leyes fiscales, multa de $ 132.00 a $ 1,320.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVII. Eludir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras, o beneficiarse de un subsidio o estímulo fiscal, sin tener derecho a ello, multa de $ 660.00 a $ 6,600.00, siempre que no pueda precisarse el monto de la prestación fiscal omitida o del subsidio o estímulo fiscal indebidamente aprovechado. De lo contrario, la multa será hasta de tres tantos del importe de dicha prestación, subsidio o estímulo fiscal.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVIII. Resistirse por cualquier medio a las visitas de inspección y auditoría, no suministrar los datos e informes que legalmente puedan exigir los inspectores y auditores, no mostrar los libros de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas, oficinas o cualquier otra dependencia y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita, multa de $ 660.00 a $ 6,600.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIX. No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositario por los visitadores, al estarse practicando visitas de revisión y auditoría, multa de $ 660.00 a $ 6,600.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XX. No presentar ante las autoridades fiscales cuando éstas lo soliciten, las facturas, recibos, notas de ventas y otros comprobantes de las compras efectuadas, multa de $ 660.00 a $ 6,600.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXI. Ejercer el comercio clandestino por más de dos meses sin reunir los requisitos que establecen las leyes fiscales, siempre que no sean comerciantes ambulantes, multa de $ 660.00 a $ 6,600.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXII. Infringir disposiciones fiscales en forma no prevista en las fracciones anteriores, multa de $ 660.00 a $ 6,600.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXIII. No realizar el pago de tenencia o uso de vehículos, presentarlos fuera del plazo, no cumplir con los requerimientos de las autoridades fiscales para presentarlos o cumplir fuera del plazo establecido en dichos requerimientos, multa de $ 660.00 a $ 2,640.00.
 
 ###### ARTICULO 97o.
 
 Son infracciones cuya responsabilidad corresponde a los jueces que actúan por receptoría, encargados de los registros públicos notarios, corredores y en general a los servidores que llevan la fe pública, las que a continuación se indican, señalándose las sanciones correspondientes:
 
-I.- No hacer la manifestación de las escrituras, minutas o cualesquiera actos o contratos que se otorguen ante su fe o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales, multa de dos a veinte cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II.- Expedir testimonio de escrituras, documentos o minutas cuando no estén pagados los impuestos correspondientes, multa de diez a cien cuotas.
+I. No hacer la manifestación de las escrituras, minutas o cualesquiera actos o contratos que se otorguen ante su fe o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales, multa de $ 132.00 a $ 1,320.00.
 
-III.- No expedir las notas de liquidación de alguna prestación fiscal, o expedirlas en forma que dé lugar a evasión parcial o total del gravamen, multa de diez a cien cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV.- Autorizar actos o contratos por los que se cause algún crédito fiscal a favor del Estado o que estén relacionados con fuentes de ingresos gravados por la Ley, sin cerciorarse previamente de que se está al corriente de las obligaciones fiscales, multa de dos a veinte cuotas.
+II. Expedir testimonio de escrituras, documentos o minutas cuando no estén pagados los impuestos correspondientes, multa de $ 660.00 a $ 6,600.00.
 
-V.- Inscribir o registrar documentos, instrumentos o libros que carezcan de la comprobación o constancia de haberse pagado los gravámenes correspondientes, multa de diez a cien cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VI.- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo en el plazo que fijan las disposiciones fiscales o cuando lo exijan las autoridades competentes o presentarlos incompletos, multa de dos a veinte cuotas.
+III. No expedir las notas de liquidación de alguna prestación fiscal, o expedirlas en forma que dé lugar a evasión parcial o total del gravamen, multa de $ 660.00 a $ 6,600.00.
 
-VII.- Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, multa de diez a cien cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VIII.- Extender constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento, multa de diez a cien cuotas.
+IV. Autorizar actos o contratos por los que se cause algún crédito fiscal a favor del Estado o que estén relacionados con fuentes de ingresos gravados por la Ley, sin cerciorarse previamente de que se está al corriente de las obligaciones fiscales, multa de $ 132.00 a $ 1,320.00.
 
-IX.- Cooperar con los infractores o facilitarles en cualquier forma la omisión total o parcial de gravámenes, mediante alteraciones, ocultaciones, otros hechos u omisiones, multa de diez a cien cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-X.- No enterar dentro del plazo legal, los créditos fiscales correspondientes a los actos en que intervengan, multa que no exceda de un tanto de lo que importa el crédito fiscal y los accesorios legales respectivos.
+V. Inscribir o registrar documentos, instrumentos o libros que carezcan de la comprobación o constancia de haberse pagado los gravámenes correspondientes, multa de $ 660.00 a $ 6,600.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VI. No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo en el plazo que fijan las disposiciones fiscales o cuando lo exijan las autoridades competentes o presentarlos incompletos, multa de $ 132.00 a $ 1,320.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VII. Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, multa de $ 660.00 a $ 6,600.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VIII. Extender constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento multa de $ 660.00 a $ 6,600.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IX. Cooperar con los infractores o facilitarles en cualquier forma la omisión total o parcial de gravámenes, mediante alteraciones, ocultaciones, otros hechos u omisiones, multa de $ 660.00 a $ 6,600.00.
+
+X. No enterar dentro del plazo legal, los créditos fiscales correspondientes a los actos en que intervengan, multa que no exceda de un tanto de lo que importa el crédito fiscal y los accesorios legales respectivos.
 
 El notario o servidor público, podrá librarse de la sanción, dando aviso de la celebración del acto dentro del plazo legal.
 
-XI.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos, multa de diez a cien cuotas.
+XI. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos, multa de diez a cien cuotas.
 
-XII.- Infringir otras disposiciones fiscales en forma no prevista en las fracciones precedentes, multa de diez a cien cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos, multa de (sic) $ 660.00 a $ 6,600.00.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIII. Infringir otras disposiciones fiscales en forma no prevista en las fracciones precedentes, multa de $ 660.00 a $ 6,600.00.
 
 ###### ARTICULO 98o.
 
 Son infracciones cuya responsabilidad corresponde a los servidores públicos, las que a continuación se indican, señalándose las sanciones correspondientes:
 
-I.- Dar entrada o curso, a documentos o libros que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales y en general no cuidar el cumplimiento de las mencionadas disposiciones. Esta sanción se aplicará aun cuando los servidores públicos no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo, multa de dos a veinte cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II.- Extender actas, expedir certificados, legalizar firmas, autorizar documentos o libros e inscribirlos o registrarlos, sin que exista constancia de pago de los gravámenes correspondientes, multa de diez a cien cuotas.
+I. Dar entrada o curso, a documentos o libros que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales y en general no cuidar el cumplimiento de las mencionadas disposiciones. Esta sanción se aplicará aun cuando los servidores públicos no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo, multa de $ 132.00 a $ 1,320.00.
 
-III.- Recibir el pago de una prestación fiscal y no contabilizar o enterar su importe en el plazo legal, multa de diez a cien cuotas y los accesorios legales correspondientes.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV.- No presentar ni proporcionar o hacer extemporáneamente los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos.
+II. Extender actas, expedir certificados, legalizar firmas, autorizar documentos o libros e inscribirlos o registrarlos, sin que exista constancia de pago de los gravámenes correspondientes, multa de $ 660.00 a $ 6,600.00.
 
-V.- Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, multa de diez a cien cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VI.- Alterar documentos fiscales que tengan en su poder, multas de diez a cien cuotas.
+III. Recibir el pago de una prestación fiscal y no contabilizar o enterar su importe en el plazo legal, multa de $ 660.00 a $ 6,600.00 y los accesorios legales correspondientes.
 
-VII.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas de inspección o auditorías, o incluir en las actas relativas datos falsos, multa de cincuenta a doscientas cuotas.
+IV. No presentar ni proporcionar o hacer extemporáneamente los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos.
 
-VIII.- No practicar las visitas de inspección o auditorías cuando tengan obligación de hacerlo, multa de diez a cien cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IX.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales, multa de diez a cien cuotas.
+V. Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, multa de $ 660.00 a $ 6,600.00.
 
-X.- Faltar a la obligación de guardar secretos respecto de los asuntos que conozcan, revelar los datos declarados por los causantes o aprovecharse de ellos, multa de cincuenta a doscientas cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XI.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento. Cooperar en cualquier forma para que se eludan las prestaciones, multas de cincuenta a doscientas cuotas.
+VI. Alterar documentos fiscales que tengan en su poder, multas de $ 660.00 a $ 6,600.00.
 
-XII.- Resistirse por cualquier medio a las visitas de inspección o auditorías, no suministrar los datos e informes que legalmente puedan exigir los auditores, los visitadores o auditores, no mostrar los libros, documentos, registros, bodegas o locales y en general negarse a proporcionar los elementos que se requieran en su relación con el objeto de la visita, multa de cincuenta a doscientas cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIII.- Exigir o recibir bajo el título de cooperación o colaboración u otros semejantes cualquier prestación que no esté expresamente prevista en la ley, aun cuando se aplique a la realización de las funciones propias de su cargo multa de cincuenta a doscientas cuotas.
+VII. Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas de inspección o auditorías, o incluir en las actas relativas datos falsos, multa de $ 3,300.00 a $ 13,200.00.
 
-XIV.- Exigir el pago de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e interés del fisco, multa de cincuenta a doscientas cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XV.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos, multa de cincuenta a doscientas cuotas.
+VIII. No practicar las visitas de inspección o auditorías cuando tengan obligación de hacerlo, multa de $ 660.00 a $ 6,600.00.
 
-XVI.- Adquirir los bienes objeto de un remate efectuado por el fisco, por sí o por medio de interpósita persona, multa de cincuenta a doscientas cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XVII.- Otorgar beneficios o estímulos fiscales a los causantes, sin estar legalmente facultado para ello, multa de cincuenta a doscientas cuotas. Si los hechos constituyen delito, se hará la consignación correspondiente.
+IX. Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales, multa de $ 660.00 a $ 6,600.00.
 
-XVIII.- Alterar las bases o tasas impositivas que existan en los controles administrativos, multa de cincuenta a doscientas cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIX.- Omitir la comprobación de la exactitud de los cálculos de impuestos sometidos por los notarios o jueces que actúen por receptoría o incurrir en los mismos errores de aquellos, si ello entraña omisión de impuestos, multa de cincuenta a doscientas cuotas.
+X. Faltar a la obligación de guardar secretos respecto de los asuntos que conozcan, revelar los datos declarados por los causantes o aprovecharse de ellos, multa de $ 3,300.00 a $ 13,200.00.
 
-XX.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, multa de cincuenta a doscientas cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XI. Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento. Cooperar en cualquier forma para que se eludan las prestaciones, multas de $ 3,300.00 a $ 13,200.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XII. Resistirse por cualquier medio a las visitas de inspección o auditorías, no suministrar los datos e informes que legalmente puedan exigir los auditores o los visitadores, no mostrar los libros, documentos, registros, bodegas o locales y en general negarse a proporcionar los elementos que se requieran en su relación con el objeto de la visita, multa de $ 3,300.00 a $ 13,200.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIII. Exigir o recibir bajo el título de cooperación o colaboración u otro semejante cualquier prestación que no esté expresamente prevista en la ley, aún cuando se aplique a la realización de las funciones propias de su cargo multa de $ 3,300.00 a $ 13,200.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIV. Exigir el pago de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e interés del fisco, multa de $ 3,300.00 a $ 13,200.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XV. Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos, multa de $ 3,300.00 a $ 13,200.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVI. Adquirir los bienes objeto de un remate efectuado por el fisco, por sí o por medio de interpósita persona, multa de $ 3,300.00 a $ 13,200.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVII. Otorgar beneficios o estímulos fiscales a los causantes, sin estar legalmente facultado para ello, multa de $ 3,300.00 a $ 13,200.00. Si los hechos constituyen delito, se hará la consignación correspondiente.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVIII. Alterar las bases o tasas impositivas que existan en los controles administrativos, multa de $ 3,300.00 a $ 13,200.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIX. Omitir la comprobación de la exactitud de los cálculos de impuestos sometidos por los notarios o jueces que actúen por receptoría o incurrir en los mismos errores de aquellos, si ello entraña omisión de impuestos, multa de $ 3,300.00 a $ 13,200.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XX. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, multa de $ 3,300.00 a $ 13,200.00.
 
 ###### ARTICULO 99o.
 
 Son infracciones cuya responsabilidad corresponde a terceros, las que a continuación se indican, señalándose las sanciones correspondientes:
 
-I.- Consentir o tolerar que inscriban a su nombre negociaciones ajenas o percibir a nombre propio ingresos gravables que correspondan a otra persona, cuando esto último tenga como consecuencia la omisión de ingresos públicos, multa de cincuenta a doscientas cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II.- No proporcionar avisos, informes, datos o documentos, o no exhibirlos en el plazo fijado por las disposiciones fiscales, o cuando las autoridades lo exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten, multa de dos a veinte cuotas.
+I. Consentir o tolerar que inscriban a su nombre negociaciones ajenas o percibir a nombre propio ingresos gravables que correspondan a otra persona, cuando esto último tenga como consecuencia la omisión de ingresos públicos, multa de $ 3,300.00 a $ 13,200.00.
 
-III.- Presentar los avisos, informes, datos y documentos de que se habla en la fracción anterior, incompletos o inexactos, multa de dos a veinte cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV.- Proporcionar los avisos, informes, datos y documentos a que se refieren las fracciones anteriores, alterados o falsificados, multa de diez a cien cuotas.
+II. No proporcionar avisos, informes, datos o documentos, o no exhibirlos en el plazo fijado por las disposiciones fiscales, o cuando las autoridades lo exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten, multa de $ 132.00 a $ 1,320.00.
 
-V.- Autorizar o hacer constar documentos, inventarios, estados financieros, asientos o datos falsos, cuando actúen como contadores, comisarios, peritos o testigos, multa de cincuenta a doscientas cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VI.- Asesorar o aconsejar a los contribuyentes para evadir el pago de una prestación fiscal, o para infringir las disposiciones fiscales, contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan, o en algún hecho preparatorio de los apuntados, multa de cincuenta a doscientas cuotas.
+III. Presentar los avisos, informes, datos y documentos de que se habla en la fracción anterior, incompletos o inexactos, multa de $ 132.00 a $ 1,320.00.
 
-VII.- Cooperar o participar en cualquier forma no prevista en la comisión de infracciones fiscales, multa de cincuenta a doscientas cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VIII.- No enterar, total o parcialmente, dentro de los plazos que establezcan las disposiciones legales, el importe de las prestaciones fiscales retenidas, recaudadas o que debieron retener o recaudar, multa de dos a veinte cuotas por cada infracción y los accesorios legales correspondientes.
+IV. Proporcionar los avisos, informes, datos y documentos a que se refieren las fracciones anteriores, alterados o falsificados, multa de $ 660.00 a $ 6,600.00.
 
-IX.- Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores que lleven consigo la evasión parcial o total de las mismas prestaciones, multa de diez a cien cuotas, siempre que no pueda precisarse el monto de la prestación omitida, en caso contrario hasta tres tantos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-X.- Adquirir, ocultar, poseer o enajenar productos, mercancías o artículos a sabiendas de que no se cubrieron los impuestos que en relación con los mismos se hubieran debido pagar, multa de cincuenta a doscientas cuotas.
+V. Autorizar o hacer constar documentos, inventarios, estados financieros, asientos o datos falsos, cuando actúen como contadores, comisarios, peritos o testigos, multa de $ 3,300.00 a $ 13,200.00.
 
-XI.- No cerciorarse al transportar o almacenar productos gravados del pago de los impuestos que se hayan causado, cuando las disposiciones fiscales impongan esa obligación, multa de dos a veinte cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XII.- Hacer pagos y aceptar documentos que no reúnan los requisitos señalados por las leyes fiscales, multa de dos a veinte cuotas.
+VI. Asesorar o aconsejar a los contribuyentes para evadir el pago de una prestación fiscal, o para infringir las disposiciones fiscales, contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan, o en algún hecho preparatorio de los apuntados, multa de $ 3,300.00 a $ 13,200.00.
 
-XIII.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales, multa de diez a cien cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIV.- Impedir por cualquier medio las visitas de revisión y auditoría, no suministrar los datos e informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores y en general, negare a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o la de los contribuyentes con quienes hayan efectuado operaciones, en relación con el objeto de la visita, multa de cincuenta a doscientas cuotas.
+VII. Cooperar o participar en cualquier forma no prevista en la comisión de infracciones fiscales, multa de $ 3,300.00 a $ 13,200.00.
 
-XV.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos, multa de cincuenta a doscientas cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XVI.- Infringir disposiciones fiscales en forma distinta de la prevista en las fracciones precedentes, multa de cincuenta doscientas cuotas.
+VIII. No enterar, total o parcialmente, dentro de los plazos que establezcan las disposiciones legales, el importe de las prestaciones fiscales retenidas, recaudadas o que debieron retener o recaudar, multa de $ 132.00 a $ 1,320.00 por cada infracción y los accesorios legales correspondientes.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IX. Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores que lleven consigo la evasión parcial o total de las mismas prestaciones, multa de $ 660.00 a $ 6,600.00, siempre que no pueda precisarse el monto de la prestación omitida, en caso contrario hasta tres tantos.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+X. Adquirir, ocultar, poseer o enajenar productos, mercancías o artículos a sabiendas de que no se cubrieron los impuestos que en relación con los mismos se hubieran debido pagar, multa de $ 3,300.00 a $ 13,200.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XI. No cerciorarse al transportar o almacenar productos gravados del pago de los impuestos que se hayan causado, cuando las disposiciones fiscales impongan esa obligación, multa de $ 132.00 a $ 1,320.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XII. Hacer pagos y aceptar documentos que no reúnan los requisitos señalados por las leyes fiscales, multa de $ 132.00 a $ 1,320.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIII. No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales, multa de $ 660.00 a $ 6,600.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIV. Impedir por cualquier medio las visitas de revisión y auditoría, no suministrar los datos e informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores y en general, negase a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o la de los contribuyentes con quienes hayan efectuado operaciones, en relación con el objeto de la visita, multa de $ 3,300.00 a $ 13,200.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XV. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos, multa de $ 3,300.00 a $ 13,200.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVI. Infringir disposiciones fiscales en forma distinta de la prevista en las fracciones precedentes, multa de $ 3,300.00 a $ 13,200.00.
 
 ###### ARTICULO 100o.
 
@@ -1509,9 +1651,11 @@ Por cada una de las diligencias de requerimiento, embargo, remate, venta fuera d
 
 Cuando en los casos anteriores, el 2% del crédito sea inferior a $340.00, se cobrará esta cantidad, en vez del 2% del crédito fiscal.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 150o.
 
-En ningún caso, los gastos de ejecución por cada una de las diligencias mencionadas en el artículo anterior, podrán exceder de la cantidad equivalente a un salario mínimo general diario de la zona económica del domicilio del deudor, elevada al año.
+En ningún caso, los gastos de ejecución por cada una de las diligencias mencionadas en el artículo anterior, podrán exceder de la cantidad equivalente a $ 24,090.00.
 
 ### CAPITULO SEGUNDO
 
@@ -2054,3 +2198,9 @@ P.O. 28 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el 1° de enero del año 2014, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil quince, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
