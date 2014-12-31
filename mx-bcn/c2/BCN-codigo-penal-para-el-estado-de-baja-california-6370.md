@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2014-10-31"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -529,7 +529,7 @@ II.- Violencia familiar;
 
 III.- Violación en cualquiera de sus formas de comisión;
 
-IV.- Rapto mediante violencia, o engaño cuando se trate de menores de catorce años, o que no tengan capacidad de comprender el hecho;
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 V.- Abuso sexual mediante violencia;
 
@@ -1609,8 +1609,6 @@ Las sanciones previstas en los párrafos precedentes se disminuirán en una terc
 
 ### CAPITULO III. RAPTO
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE FEBRERO DE 2006)</small>
-
 ## TITULO SEGUNDO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
 ### CAPITULO IV. AMENAZAS
@@ -1725,21 +1723,15 @@ Tipo y punibilidad.- Se impondrán de tres meses a dos años de prisión hasta c
 
 ###### Artículo 168.
 
-Tipo y punibilidad.- Al que sustraiga o retenga a una persona por medio de la violencia o del engaño, para satisfacer algún deseo erótico sexual o para casarse con ella, se le impondrá de dos a seis años de prisión.
-
-A quien sustraiga o retenga a una persona menor de catorce años o que no tenga capacidad de comprender el hecho que se comete en su persona o que por cualquier causa no pudiere resistirlo, con los fines a que se refiere el párrafo anterior, se le aumentará la pena anterior hasta con una mitad más.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE FEBRERO DE 2006)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 169.
 
-Extinción de la pretensión punitiva y de la ejecución de la pena.- Cuando el agente contraiga matrimonio con la persona ofendida, se extinguirá la pretensión punitiva o la ejecución punitiva o la ejecución de la pena, en su caso, en relación con él y con los demás que intervengan en el delito, salvo que el matrimonio sea ilegal.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE FEBRERO DE 2006)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 170.
 
-Querella.- El delito de rapto se perseguirá por querella de la persona ofendida o de su legítimo representante.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ### CAPITULO SEGUNDO. ACCESO ILICITO A SISTEMAS Y EQUIPOS DE INFORMATICA
 
@@ -5150,3 +5142,7 @@ Las presentes Reformas entrarán en vigor el día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
