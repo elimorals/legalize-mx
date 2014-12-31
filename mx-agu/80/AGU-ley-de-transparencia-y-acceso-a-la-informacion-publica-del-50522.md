@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5052
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-22"
-last_updated: "2013-09-23"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 22 de mayo de 2006.
 
@@ -283,9 +283,17 @@ XXVII.- Información detallada que contengan los planes de desarrollo urbano ord
 
 XXVIII.- Los estudios de factibilidad ecológica, impacto ambiental, desarrollo urbano y de servicios públicos contratados o elaborados por los sujetos de la presente Ley;
 
-XXIX.- Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirentes y los montos de las operaciones; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXX.- Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base a la información estadística; responda a las preguntas hechas con más frecuencia por el público.
+XXIX.- Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirentes y los montos de las operaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXX.- Cumplir con las obligaciones que en materia de difusión de la información financiera establece la Ley General de Contabilidad Gubernamental y las disposiciones que de ella emanen; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXXI.- Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base a la información estadística, responda a las preguntas hechas con más frecuencia por el público.
 
 La información a que se refiere este artículo deberá publicarse de tal forma que facilite su uso y comprensión por las personas, y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad. Las dependencias y entidades deberán atender los lineamientos y las recomendaciones que al respecto expida el Instituto.
 
@@ -1122,3 +1130,29 @@ P.O. 23 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Aguascalientes contenida en el Decreto número 45 publicado en el Periódico Oficial del Estado de Aguascalientes el 10 de noviembre de 1996. Asimismo, se deroga toda disposición legal que se oponga al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Toda referencia a la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Aguascalientes realizada en otros ordenamientos, se entenderá hecha a la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+###### ARTÍCULO CUARTO.
+
+Los reglamentos, lineamientos y demás disposiciones y prácticas administrativas vigentes a la fecha de entrada en vigor del presente Decreto, seguirán aplicándose en lo que no se opongan al mismo.
+
+###### ARTÍCULO QUINTO.
+
+Toda referencia al Artículo 25 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Aguascalientes que se realizada (sic) en otros ordenamientos, se entenderá hecha al Artículo 55 de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+###### ARTÍCULO SEXTO.
+
+Los Municipios, los Poderes Legislativo y Judicial, así como los Órganos Autónomos, dentro de los noventa días naturales siguientes al inicio de vigencia del presente Decreto, establecerán la instancia técnica de evaluación a que se refiere el Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
