@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2014-11-28"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -267,11 +267,11 @@ La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en t
 
 ### CAPITULO IV.. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 7.
 
-El Estado de Baja California acata plenamente y asegura a todos sus habitantes los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, y en los Tratados Internacionales de los que el Estado Mexicano sea parte, así como las garantías para su protección, y los demás derechos que reconoce esta Constitución, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que establece la Constitución Política de los Estados Unidos Mexicanos; de igual manera esta norma fundamental tutela el derecho a la vida, desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural o no inducida.
+El Estado de Baja California acata plenamente y asegura a todos sus habitantes los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, y en los Tratados Internacionales de los que el Estado Mexicano sea parte, así como las garantías para su protección, y los demás derechos que reconoce esta Constitución, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que establece la Constitución Política de los Estados Unidos Mexicanos; de igual manera esta norma fundamental tutela el derecho a la vida, desde el momento en que un individuo es concebido, entra bajo la protección de la Ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural o no inducida.
 
 El Estado reconoce y protege la Institución del Matrimonio como un derecho de la sociedad orientado a garantizar y salvaguardar la perpetuación de la especie y ayuda mutua entre los cónyuges, satisfaciéndose este solamente, mediante la unión de un hombre con una mujer.
 
@@ -283,11 +283,15 @@ Todas las autoridades, en el ámbito de sus competencias, tienen la obligación 
 
 Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, asimismo, a la salud, el derecho a la igualdad y a la no discriminación, a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
 
+El acceso al agua para consumo personal y doméstico es un derecho que tiene toda persona. La Ley garantizará su distribución y saneamiento; las autoridades en la materia tienen la obligación de respetar, proteger y cumplir con la prestación de éste servicio en los términos de la Ley.
+
+Toda persona tiene el derecho de adquirir y disfrutar una vivienda digna, decorosa y adecuada a las necesidades del hogar. El Estado y los Municipios promoverán los instrumentos, políticas y apoyos necesarios para la inversión, construcción, financiamiento y adquisición de viviendas con la participación de los sectores privado y social, a fin de alcanzar un nivel de vida adecuado.
+
 APARTADO B. De la Procuraduría de los Derechos Humanos y Protección Ciudadana.
 
-Se establecerá por medio de una ley las Bases para la creación de la Procuraduría de los Derechos Humanos y Protección Ciudadana, como un organismo público, dotado de autonomía presupuestaria y de gestión, con personalidad jurídica y patrimonio propio, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público.
+Se establecerá por medio de una Ley las Bases para la creación de la Procuraduría de los Derechos Humanos y Protección Ciudadana, como un organismo público, dotado de autonomía presupuestaria y de gestión, con personalidad jurídica y patrimonio propio, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público.
 
-Este organismo formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presenten (sic) este organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar y motivar y hacer pública su negativa; asimismo, el Congreso del Estado, podrá llamar a solicitud del Titular de la Procuraduría de los Derechos Humanos y Protección Ciudadana, a las autoridades y servidores públicos responsables para que comparezcan, a efecto de que expliquen el motivo de su negativa.
+Este organismo formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presenten este organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar y motivar y hacer pública su negativa; asimismo, el Congreso del Estado, podrá llamar a solicitud del Titular de la Procuraduría de los Derechos Humanos y Protección Ciudadana, a las autoridades y servidores públicos responsables para que comparezcan, a efecto de que expliquen el motivo de su negativa.
 
 La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá una función jurisdiccional, por lo que carece de facultades para modificar por sí misma las resoluciones de la autoridad ni suspender las actuaciones administrativas objeto de queja. Sus determinaciones también podrán consistir en proposiciones, solicitudes y recordatorios de plazos y deberes legales dirigidos a los servidores públicos. Este organismo no es competente tratándose de asuntos electorales y jurisdiccionales.
 
@@ -309,7 +313,7 @@ III.- En caso de que no se aprueben los aspirantes propuestos, se hará del cono
 
 IV.- El Poder Legislativo tendrá un plazo de diez días naturales para resolver, vencido el cual, sin que se haya emitido resolución alguna, se entenderán como electos los aspirantes propuestos en los primeros lugares en el listado respectivo y conforme al orden de prelación, y se expedirán los nombramientos correspondientes, en un plazo de tres días naturales.
 
-V.- Una vez realizado lo anterior, el Gobernador del Estado ordenará la publicación del resultado en el Periódico Oficial del Estado y uno en (sic) los diarios de mayor circulación.
+V.- Una vez realizado lo anterior, el Gobernador del Estado ordenará la publicación del resultado en el Periódico Oficial del Estado y uno en los diarios de mayor circulación.
 
 APARTADO D. De los Juicios Orales y Medios Alternativos.
 
@@ -376,6 +380,12 @@ d) Si son adolescentes que se encuentran entre doce años de edad y menores (sic
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 El Estado en todas sus decisiones y actuaciones, proveerá lo necesario, expedirá leyes y normas en materia de derechos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VII.- Las personas adultas mayores en el Estado, tendrán acceso a los servicios de salud, alimentación, cultura, protección de su patrimonio, asistencia y seguridad social e igualdad de oportunidades que les propicie mayor bienestar y una mejor calidad de vida, en los términos y condiciones que dispongan las leyes.
+
+El Ejecutivo Estatal y los Ayuntamientos, deberán prever en sus Planes de Desarrollo las políticas públicas que brinden una atención integral a las personas adultas mayores.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
@@ -1177,7 +1187,7 @@ VI.- Las demás que establezca expresamente esta Constitución.
 
 En caso de falta absoluta ocurrida durante los dos primeros años del período, el Congreso designará por mayoría absoluta de votos un Gobernador Provisional que convoque a elecciones dentro de los dos meses siguientes, debiendo verificar éstas en un término no mayor de cuatro meses posteriores a la convocatoria.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
 
 La persona que sea designada Gobernador Provisional, tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente.
 
@@ -1185,7 +1195,7 @@ La persona que sea designada Gobernador Provisional, tomará posesión de su car
 
 Si la falta absoluta ocurriere después de los dos primeros años, el Congreso designará por mayoría absoluta y en un término no mayor de ocho días, un Gobernador Sustituto que termine el ejercicio constitucional del Ejecutivo; caso en el cual el Secretario de Gobierno se hará cargo del despacho, de conformidad con lo dispuesto por el Artículo 45 de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DEL 2000)</small>
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
 
 El ciudadano que sea designado para suplir al Titular del Poder Ejecutivo como Gobernador Interino, Provisional o Sustituto, deberá reunir los requisitos establecidos en el Artículo 41 de esta Constitución con excepción de lo dispuesto por la fracción VI.
 
@@ -2467,9 +2477,13 @@ El destino de las donaciones intervivos o testamentarias hechas conforme a las l
 
 Ninguna autoridad exigirá anticipos de contribuciones ni préstamos forzosos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 104.
 
 La Ley Civil contendrá disposiciones que tiendan a proteger la estabilidad del hogar y la constitución del patrimonio familiar, con miras a evitar el desamparo de la esposa y de los hijos.
+
+La vivienda será considerada como un área prioritaria para el desarrollo del Estado y será objeto de protección especial por parte de las autoridades en los términos que establezcan las leyes respectivas.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -3924,3 +3938,33 @@ PRIMERO.- Aprobada que sea esta Iniciativa por esta Honorable Asamblea, envíese
 SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
 
 TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 133 POR EL QUE SE APRUEBA LA ADICIÓN DE UN ÚLTIMO PÁRRAFO AL APARTADO A, DEL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Aprobadas que sean las presentes reformas, túrnense a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 183 POR EL QUE SE ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Una vez aprobadas las presentes reformas por la XXI Legislatura, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez pronunciada la Declaratoria en los términos establecidos en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase la presente reforma para su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 184 POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7 Y 104, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Aprobadas que sean las presentes reformas, túrnense a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de fa Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
