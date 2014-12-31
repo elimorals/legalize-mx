@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-fomento-apicola-del-estado-de-82214"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-02"
-last_updated: "2011-07-02"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # REGLAMENTO DE LA LEY DE FOMENTO APICOLA DEL ESTADO DE ZACATECAS
 
-REGLAMENTO DE LA LEY DE FOMENTO APICOLA DEL ESTADO DE ZACATECAS
+REGLAMENTO DE LA LEY DE FOMENTO APÍCOLA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 2 de julio de 2011.
 
@@ -57,11 +57,15 @@ I. Ley: Ley de Fomento Apícola del Estado de Zacatecas;
 
 II. Reglamento: Al presente Reglamento de la Ley;
 
-III. Secretaría: La Secretaría de Desarrollo Agropecuario de Gobierno del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV. Dirección: La Dirección de Ganadería de la Secretaría;
+III. Secretaría: La Secretaria del Campo de Gobierno del Estado;
 
-V. Director: El Director de Ganadería;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. Subsecretaría: La Subsecretaríade (sic) Ganadería de la Secretaria;
+
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 VI. SAGARPA: A la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; y
 
@@ -125,7 +129,9 @@ Son derechos de los apicultores, además de los establecidos en la Ley, particip
 
 Son obligaciones de los apicultores:
 
-I. Registrarse ante la Secretaría a través de la Dirección, a efecto de conformar un padrón de productores apícolas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Registrarse ante la Secretaria, a través de la Subsecretaría, a efecto de conformar un padrón de productores apícolas;
 
 II. Respetar las disposiciones que en materia de seguridad indiquen las autoridades en materia de salud pública;
 
@@ -153,9 +159,11 @@ Cuando la Secretaría considere conveniente, en coordinación con la SAGARPA, po
 
 ### CAPÍTULO IV. Del Programa Estatal de Fomento Apícola
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 15.
 
-La elaboración del Programa Estatal de Fomento Apícola, corresponde a la Secretaría a través de la Dirección y será publicado en el Periódico Oficial, Órgano del Gobierno del Estado.
+La elaboración del Programa Estatal de Fomento Apícola, corresponde a la Secretaría a través de la Subsecretaría y será publicado en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ###### Artículo 16.
 
@@ -209,15 +217,21 @@ II. De no ser posible su localización, una comisión integrada por personal de 
 
 III. Se elaborará un acta circunstanciada de hechos firmada por las personas que intervinieron en la visita;
 
-IV. La Secretaría elaborará avisos por escrito suficientes y los instalará en las colmenas, en donde se exhortará al productor para que se presente ante la Dirección en el término que ésta determine a fin de regularizar su situación y dirimir la controversia surgida;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-V. Concluido el término para la presentación y de no hacerlo, la Dirección procederá a la incautación de las colmenas afectadoras bajo el siguiente procedimiento:
+IV. La Secretaría elaborará aviso por escrito suficientes y los instalará en las colmenas, en donde se exhortará al productor para que se presente ante la Subsecretaría en el término que ésta determine a fin de regularizar su situación y dirimir la controversia surgida;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V. Concluido el término para la presentación y de no hacerlo, la Subsecretaría procederá a la incautación de las colmenas afectadoras bajo el siguiente procedimiento:
 
 a) Personal técnico y jurídico de la Secretaría, procederán a la incautación de las colmenas, en donde se asiente en un acta circunstanciada de hechos un recuento de ellas, tomando evidencia fotográfica del total de las colmenas y estado general de las mismas;
 
 b) Las colmenas y equipo apícola incautado se resguardará en un lugar seguro; y
 
-c) Si dentro de un término de 30 días hábiles, a partir de la incautación de las colmenas, el dueño de las mismas no las reclama, previo pago que se' haga con motivo de las infracciones que se hayan generado, se procederá a la subasta previa convocatoria que la Dirección publicará en los diarios de mayor circulación en la Entidad.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+c) Si dentro de un término de 30 días hábiles, a partir de la incautación de las colmenas, el dueño de las mismas no las reclama, previo pago que se haga con motivo de las infracciones que se hayan generado, se procederá a la subasta previa convocatoria que la Subsecretaría publicará en los diarios de mayor circulación en la Entidad.
 
 ###### Artículo 25.
 
@@ -227,9 +241,11 @@ Toda colmena o enjambre silvestre localizado dentro de una zona urbana, rural y 
 
 Cuando los productores apícolas de otras Entidades Federativas o del extranjero soliciten permiso de instalación de apiarios en el Estado, la Secretaría se reservará la facultad, conforme al interés de producción y la sanidad apícola de otorgar el permiso correspondiente, de manera temporal o permanente; debiendo sujetarse a las condiciones establecidas en el artículo 27 de la Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 27.
 
-En caso de que el productor de manera dolosa falseara la información y documentación requerida por la Dirección, se reservará el derecho de otorgar el permiso de internación a· productores y colmenas involucradas con marca de fuego en conflicto.
+En caso de que el productor de manera dolosa falseara la información y documentación requerida por la Subsecretaría, se reservará el derecho de otorgar el permiso de internación a productores y colmenas involucradas con marca de fuego en conflicto.
 
 ### CAPÍTULO VI. De la Movilización de las Colmenas y sus Productos
 
@@ -255,9 +271,11 @@ Todo aquel productor foráneo que introduzca colmenas en el Estado, sin el permi
 
 ### CAPÍTULO VII. De la Marca y Propiedad de las Colmenas
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 30.
 
-El productor apícola está obligado a señalar con marca de fuego sus colmenas y registrarlas ante la Dirección.
+El productor apícola está obligado a señalar con marca de fuego sus colmenas y registrarlas ante la Subsecretaría.
 
 ###### Artículo 31.
 
@@ -314,3 +332,13 @@ ESAÚ HERNÁNDEZ HERRERA
 EL SECRETARIO DE DESARROLLO AGROPECUARIO
 
 ENRIQUE GUADALUPE FLORES MENDOZA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
