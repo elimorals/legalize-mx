@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2014-07-10"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -111,6 +111,24 @@ Todas las autoridades, en el ámbito de sus competencias, tienen la obligación 
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+
+7o BIS.- El Estado de Baja California Sur tiene una composición pluricultural, pluriétnica y plurilingüe, derivada originalmente de los pueblos indígenas que habitaron en su territorio al momento de iniciarse la colonización, a la que se sumaron personas que llegaron de otras partes del mundo, y particularmente, de pueblos indígenas procedentes de otras partes de México.
+
+Esta Constitución asume a plenitud todos los derechos, prerrogativas de los pueblos y comunidades indígenas; así como las obligaciones de las instituciones públicas establecidas en el artículo 2° de la Constitución Política de los Estados Unidos Mexicanos.
+
+Las comunidades indígenas pertenecientes a pueblos indígenas, procedentes de otros estados de la República y que residan temporal o permanentemente dentro del territorio del Estado de Baja California Sur, quedan protegidos por los derechos señalados en esta Constitución y la ley respectiva.
+
+La conciencia de la identidad indígena será criterio fundamental para determinar a quienes aplican las disposiciones que sobre pueblos indígenas se establezcan en esta constitución y Leyes de la materia.
+
+El Poder Ejecutivo, el Poder Judicial, el Poder Legislativo y los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, tienen a su cargo la salvaguarda de los derechos colectivos aquí señalados, a fin de asegurar su respeto y aplicación de la ley a favor de los pueblos y comunidades indígenas que se encuentren en el Estado de Baja California Sur.
+
+Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación, en los términos del artículo segundo constitucional.
+
+Para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, el Estado y los municipios establecerán las instituciones y las políticas públicas requeridas para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales tendrán que ser diseñadas y operadas conjuntamente con ellos, en los términos del artículo segundo constitucional y la ley de la materia.
+
+Para el cumplimiento de las obligaciones antes citadas, el Gobierno del Estado establecerá una Unidad Administrativa competente que atienda los Asuntos Indígenas y los Ayuntamientos del Estado crearán Comisiones o Direcciones Municipales de Asuntos Indígenas, como entidades rectoras y ejecutoras de acciones a favor de las comunidades y grupos indígenas. Por tanto en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
 8o.- Todo hombre y mujer serán sujetos de iguales derechos y obligaciones ante la Ley.
@@ -169,7 +187,13 @@ El Ejecutivo Estatal deberá formular, aprobar y administrar el Programa Estatal
 
 Los Municipios del Estado deberán formular, aprobar y administrar los Planes y Programas Municipales de Desarrollo Urbano, de centros de población y los demás derivados de los mismos; así como, participar en la planeación y regulación de las zonas conurbadas, conjunta y coordinadamente con el Ejecutivo, conforme a la legislación correspondiente. Los programas deberán establecer las prohibiciones que la presente Constitución y las Leyes que de ella emanan establecen.
 
-Las Leyes locales organizarán el patrimonio familiar, determinando los bienes que deban constituirlo, sobre la base que será inalienable y no estará sujeto a embargo ni gravamen alguno.
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Toda persona tiene el derecho al uso y disfrute de los espacios públicos destinados para áreas verdes, deporte, esparcimiento y recreación, así como para la realización de eventos cívicos y culturales. Los habitantes de las comunidades donde se ubiquen tienen derecho a ser informados y que se les consulte sobre las decisiones estatales y municipales que pretendan modificar su uso, enajenarlos, usufructuarlos o cualquier forma de trasmisión de la propiedad que altere la naturaleza de su objeto. La consulta pública se realizara en los términos de la ley de la materia y su resultado será vinculatorio para la autoridad.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Las Leyes locales organizarán el patrimonio familiar determinando los bienes que deban constituirlos, sobre la base que será inalienable y no estará sujeto a embargo ni gravamen alguno.
 
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
@@ -193,9 +217,9 @@ Todos los habitantes del Estado tienen derecho a participar en la vida cultural,
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades Estatales y Municipales su estimulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes de la materia.
 
-> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
+Todos los habitantes del Estado tienen derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho de todo individuo de gozar de un ambiente ecológicamente equilibrado y la protección de los ecosistemas que conforman el patrimonio natural de Baja California Sur. Los habitantes del Estado tienen derecho a conocer y tener acceso a la información actualizada acerca del estado del ambiente y de los recursos naturales de la entidad, así como a participar su protección y en las actividades designadas a su conservación y mejoramiento. El daño y deterioro ambiental generará responsabilidad para quién lo provoque en términos de lo dispuesto por la ley.
 
 > <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2013)</small>
 
@@ -743,6 +767,8 @@ IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso 
 
 #### SECCION III. DE LAS SESIONES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO PUBLICADO EN EL P.O. DE 27 DE JUNIO Y SU REFORMA DE 31 DE DICIEMBRE AMBOS DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2014)</small>
 
 50.- El Congreso del Estado tendrá, durante el año, dos Períodos Ordinarios de Sesiones: el primero, del 01 de septiembre al 15 de diciembre, el cual podrá prolongarse hasta el 31 de diciembre del mismo año y el segundo, del 15 de marzo al 30 de junio.
@@ -962,6 +988,8 @@ XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gob
 > <small>(REFORMADA, B.O. 10 DE MARZO DE 2008)</small>
 
 XXIX.- Nombrar y remover libremente a los empleados del Poder Legislativo y a los del Órgano de Fiscalización Superior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO PUBLICADO EN EL P.O. DE 27 DE JUNIO Y SU REFORMA DE 31 DE DICIEMBRE AMBOS DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2014)</small>
 
@@ -3165,7 +3193,7 @@ DECRETO No. 2039, POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 79 DE LA 
 
 Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-Segundo.- Se derogan todas disposiciones (sic) que se opongan la presente (sic) Decreto.
+Segundo.- Se derogan todas (sic) disposiciones que se opongan la (sic) presente Decreto.
 
 B.O. 31 DE DICIEMBRE DE 2012.
 
@@ -3215,7 +3243,7 @@ B.O. 20 DE AGOSTO DE 2013.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-SEGUNDO.- La XIII Legislatura del Congreso del Estado en coordinación con los Municipios, revisarán la legislación de la materia y realizarán los ajustes necesarios en un lapso de 120 días máximo, contados a partir de la entrada en vigor la (sic) presente reforma constitucional.
+SEGUNDO.- La XIII Legislatura del Congreso del Estado en coordinación con los Municipios, revisarán la legislación de la materia y realizarán los ajustes necesarios en un lapso de 120 días máximo, contados a partir de la entrada en vigor (sic) la presente reforma constitucional.
 
 B.O. 13 DE SEPTIEMBRE DE 2013.
 
@@ -3243,7 +3271,9 @@ Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 
 B.O. 27 DE JUNIO DE 2014.
 
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, salvo la reforma realizada al artículo 50 para los efectos del primer párrafo de la fracción XXX del artículo 64, la cual entrará en vigor el día primero de Septiembre de 2015.
 
 SEGUNDO.- Una vez que entre en vigor el presente Decreto, el Congreso del Estado deberá adecuar las leyes secundarias en materia político-electoral que de ella emanen, a más tardar el 30 de junio de 2014. Dichas modificaciones observarán las garantías electorales que la Constitución Política de los Estados Unidos Mexicanos y esta Constitución establecen como marco general; así como respecto de las facultades y competencias que no están expresamente concedidas a la Federación.
 
@@ -3286,3 +3316,15 @@ DECRETO NO. 2166 POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL NUMERAL 10 DE LA C
 B.O. 10 DE JULIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2014.
+
+DECRETO NO. 2219 POR EL QUE SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 2173, PUBLICADO EN EL BOLETÍN OFICIAL EL 27 DE JUNIO DE 2014, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2014.
+
+DECRETO 2234, POR EL QUE SE ADICIONA UN NUMERAL 7 BIS, SE ADICIONA UN PÁRRAFO SÉPTIMO AL NUMERAL 11° Y SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
