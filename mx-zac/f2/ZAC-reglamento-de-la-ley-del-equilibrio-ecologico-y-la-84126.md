@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-del-equilibrio-ecologico-y-la-84126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-30"
-last_updated: "2011-11-30"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE ZACATECAS EN MATERIA DE VERIFICACIÓN VEHICULAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de noviembre de 2011.
 
@@ -67,7 +67,9 @@ I. Autorización: Documento por el cual se permite la instalación y operación 
 
 II. Camiones de Carga: Aquellos dedicados al servicio público o privado local que se utilizan para el transporte de carga o materiales de construcción, de agua y de otros bienes o insumos, que reportan más de tres y media toneladas de peso bruto vehicular;
 
-III. Centro de Verificación: Establecimiento para la realización de la verificación vehicular en el Estado, cuyo funcionamiento es regulado por el Instituto previo (sic) autorización a particulares;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Centro de Verificación: Establecimiento para la realización de la verificación vehicular en el Estado, cuyo funcionamiento es regulado por la Secretaríaprevia (sic) autorización a particulares;
 
 IV. Certificado: Documento que acredita que un vehículo aprobó la verificación vehicular de emisiones contaminantes de conformidad con los límites máximos permisibles establecidos en la Norma Oficial aplicable;
 
@@ -91,11 +93,15 @@ XIII. Holograma: Placa fotográfica tridimensional que identifica a los vehícul
 
 XIV. Humo: Residuo resultante de una combustión incompleta que se compone en su mayoría de carbón, cenizas, partículas sólidas y líquidas, así como de materiales incombustos que son visibles en la atmósfera;
 
-XV. Instituto: El Instituto de Ecología y Medio Ambiente del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XV. La Secretaría: Secretaría de Agua y Medio Ambiente
 
 XVI. Ley: La Ley del Equilibrio y la Protección al Ambiente del Estado de Zacatecas;
 
-XVII. Manual de Imagen: Documento emitido por el Instituto que establece y direcciona los aspectos de imagen interior y exterior de los Centros de Verificación en el Estado, para la correcta reproducción y aplicación del logotipo y colores institucionales, así como las características generales que deben tener los diversos elementos arquitectónicos, señalamientos, equipos y mobiliario que conforman dichos establecimientos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVII. Manual de Imagen: Documento emitido por la Secretaríaque (sic) establece y direcciona los aspectos de imagen interior y exterior de los Centros de Verificación en el Estado, para la correcta reproducción y aplicación del logotipo y colores institucionales, así como las características generales que deben tener los diversos elementos arquitectónicos, señalamientos, equipos y mobiliario que conforman dichos establecimientos;
 
 XVIII. Matriculación: La inscripción de datos relacionados con los vehículos y sus propietarios o poseedores, para el control, inspección y verificación vehicular en materia de emisión de contaminantes;
 
@@ -109,11 +115,15 @@ XXII. Reglamento.- El presente Reglamento de la Ley del Equilibrio y la Protecci
 
 XXIII. Reporte Técnico de Rechazo: Constancia técnica derivada de la verificación de un vehículo que indica que los resultados rebasan los límites permitidos en la emisión de contaminantes;
 
-XXIV. Secretaría: La Secretaría de Finanzas de Gobierno del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXIV. Secretaríade (sic) Finanzas: LaSecretaría (sic) de Finanzas de (sic) Gobierno del Estado;
 
 XXV. Supervisión: Es el control documental, monitoreo, medición y evaluación de los parámetros y lineamientos para el correcto funcionamiento de la verificación vehicular, así como la revisión respecto al cumplimiento de las normas establecidas en materia de emisión de contaminantes;
 
-XXVI. Técnico Verificador: Persona contratada por el Titular de la autorización o el representante legal del Centro de Verificación, que se encuentra debidamente acreditada ante el Instituto para llevar a cabo el procedimiento de verificación vehicular;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXVI. Técnico Verificador: Persona contratada por el Titular de la autorización o el representante legal del Centro de Verificación, que se encuentra debidamente acreditada ante la Secretaría para llevar a cabo el procedimiento de verificación vehicular;
 
 XXVII. Titular de la Autorización: Persona física o moral a quien se le otorga la autorización para el establecimiento y operación de un Centro de Verificación;
 
@@ -123,7 +133,9 @@ XXIX. Vehículos Automotores: Medio de transporte terrestre propulsado por un mo
 
 XXX. Vehículos de Transporte Público: Aquellos destinados para el transporte de pasajeros, colectivos o de alquiler, urbanos o suburbanos que operan mediante el cobro de tarifas autorizadas, a través de una concesión o permiso;
 
-XXXI. Vehículos de Uso Particular: Aquellos destinados al uso privado de una personas (sic) física o moral con tarjeta de circulación en la que se especifica el carácter de tal uso;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXXI. Vehículos de Uso Particular: Aquellos destinados al uso privado de una persona física o moral con tarjeta de circulación en la que se especifica el carácter de tal uso;
 
 XXXII. Vehículos Híbridos: Aquellos que utilizan para su funcionamiento, complementaria o exclusivamente, energías alternativas a los hidrocarburos tales como energía eléctrica, solar u otras, y
 
@@ -137,35 +149,45 @@ Son Autoridades competentes para la aplicación del presente Reglamento:
 
 I. El Ejecutivo del Estado;
 
-II. El Instituto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. La Secretaría;
 
 III. La Dirección de Transporte, Tránsito y Vialidad del Estado de Zacatecas, y
 
 IV. La Secretaría de Finanzas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 5.
 
-La aplicación de este Reglamento corresponde al Estado, por conducto del Instituto de Ecología y Medio Ambiente del Estado de Zacatecas.
+La aplicación de este Reglamento corresponde al Estado, por conductode (sic) la Secretaría.
 
 ###### Artículo 6.
 
 El Ejecutivo del Estado tendrá las siguientes atribuciones:
 
-I. Emitir y evaluar en coordinación con el Instituto, los lineamientos para la aplicación del Programa;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Emitir y evaluar en coordinación conla (sic) Secretaría, los lineamientos para la aplicación del Programa;
 
 II. Emitir el Programa, y
 
 III. Otorgar, suspender, revocar o cancelar, las autorizaciones de establecimientos de los Centros de Verificación.
 
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
-El Instituto tendrá las siguientes atribuciones:
+La Secretaría tendrá las siguientes atribuciones:
 
 I. Prevenir y controlar la contaminación de la atmósfera proveniente de fuentes móviles;
 
 II. Formular, emitir, conducir, evaluar y actualizar el programa en el Estado;
 
-III. Auxiliar al Titular de (sic) del Ejecutivo del Estado en el otorgamiento, suspensión, revocación o cancelación de la autorización del establecimiento de los Centros de Verificación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Auxiliar al Titular del Ejecutivo del Estado en el otorgamiento, suspensión, revocación o cancelación de la autorización del establecimiento de los Centros de Verificación;
 
 IV. Aplicar en el ámbito de su competencia las medidas para prevenir y controlar las contingencias ambientales, en los supuestos que se establece y estén previstos en las normas técnicas aplicables, coordinándose para ello con las dependencias correspondientes;
 
@@ -193,13 +215,19 @@ II. Realizar operativos de revisión en la vía pública, con el objeto de que l
 
 III. Limitar y, en su caso, suspender la circulación de vehículos automotores cuando estos generen contaminación ostensible o no hayan sido verificados.
 
-Las acciones de inspección, vigilancia y las derivadas de los operativos en la vía pública, se llevarán a cabo de manera conjunta con el Instituto, la Secretaría y la Contraloría Interna de Gobierno del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Las acciones de inspección, vigilancia y las derivadas de los operativos en la vía pública, se llevarán a cabo de manera conjunta con la Secretaría, la Secretaría de Finanzas y la Secretaría de la Función Públícadel (sic) Gobierno del Estado.
+
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 9.
 
-La Secretaría tendrá las siguientes atribuciones:
+La Secretaria de Finanzas tendrá las siguientes atribuciones:
 
-I. Autorizar los montos en relación al cobro del holograma, del certificado y del costo del servicio de verificación vehicular, e (sic)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Autorizar los montos en relación al cobro del holograma, del certificado y del costo del servicio de verificación vehicular, y
 
 II. Llevar a cabo el cobro por los conceptos anteriores, en su oficina de recaudación de rentas.
 
@@ -207,9 +235,11 @@ II. Llevar a cabo el cobro por los conceptos anteriores, en su oficina de recaud
 
 Las emisiones de gases contaminantes producidas por los vehículos automotores matriculados en el Estado y los que circulen de paso por el mismo, no deberán exceder los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas aplicables, así como en el Programa.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-El Instituto implementará las acciones y medidas de prevención o contingencia inmediata para la preservación y disminución de los niveles de contaminación.
+La Secretaría implementará las acciones y medidas de prevención o contingencia inmediata para la preservación y disminución de los niveles de contaminación.
 
 ### Capítulo III. Del Programa
 
@@ -225,11 +255,13 @@ I. La vigencia del mismo;
 
 II. La frecuencia en que deberá llevarse la prueba de verificación;
 
-III. El calendario para los vehículos, que podrá hacerse de acuerdo a la terminación de sus placas o de conformidad a la determinación del Instituto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. El calendario para los vehículos, que podrá hacerse de acuerdo a la terminación de sus placas o de conformidad a la determinación de la Secretaría;
 
 IV. Los requisitos que deberán cumplir los propietarios o poseedores de los vehículos para llevar a cabo la prueba verificación vehicular, y
 
-V. Las sanciones a aplicarse a quien incumpla con el Programa; (sic)
+V. Las sanciones a aplicarse a quien incumpla con el Programa;
 
 ###### Artículo 14.
 
@@ -237,9 +269,11 @@ El Programa será de carácter obligatorio para aquellos propietarios o poseedor
 
 ### Capítulo IV. De las Contingencias y las Limitaciones de la Circulación
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 15.
 
-El Instituto, con la finalidad de prevenir y reducir las emisiones contaminantes, podrá limitar la circulación de los vehículos automotores dentro del Estado, incluyendo aquellos que cuenten con placas expedidas por la Secretaría de Comunicaciones y Transportes.
+La Secretaría, con la finalidad de prevenir y reducir las emisiones contaminantes, podrá limitar la circulación de los vehículos automotores dentro del Estado, incluyendo aquellos que cuenten con placas expedidas por la Secretaría de Comunicaciones y Transportes.
 
 ###### Artículo 16.
 
@@ -271,9 +305,11 @@ III. Retirar de la circulación a los vehículos automotores que no respeten las
 
 ### Capítulo I. De los Centros de Verificación
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-EL Titular del Ejecutivo del Estado, atendiendo a las necesidades de los servicios de verificación de fuentes móviles de competencia estatal, otorgará la autorización para el (sic) establecer Centros de Verificación a favor de particulares.
+EL Titular del Ejecutivo del Estado, atendiendo a las necesidades de los servicios de verificación de fuentes móviles de competencia estatal, otorgará la autorización para establecer Centros de Verificación a favor de particulares.
 
 ###### Artículo 20.
 
@@ -365,9 +401,11 @@ V. Se incumpla con las obligaciones señaladas en el presente Reglamento, y
 
 VI. Se hubiere suspendido la autorización en dos ocasiones o más en un lapso de dos años.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 26.
 
-Los Centros de Verificación autorizados deberán mantener sus instalaciones y equipos en óptimas condiciones de operación que garanticen la adecuada prestación de sus servicios; de conformidad con lo establecido en la Ley, el presente Reglamento, el Programa y el Manual de Imagen que al efecto emita el Instituto.
+Los Centros de Verificación autorizados deberán mantener sus instalaciones y equipos en óptimas condiciones de operación que garanticen la adecuada prestación de sus servicios; de conformidad con lo establecido en la Ley, el presente Reglamento, el Programa y el Manual de Imagen que al efecto emítala (sic) Secretaría.
 
 ###### Artículo 27.
 
@@ -381,33 +419,55 @@ I. Operar conforme a los sistemas, procedimientos, instalaciones, equipos, plazo
 
 II. Que el personal del centro de verificación esté debidamente capacitado;
 
-III. Mantener sus instalaciones y equipos calibrados en las condiciones requeridas por el Instituto, observando los requisitos que fije la misma para la debida prestación del servicio de verificación vehicular;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV. Destinar exclusivamente a la verificación de emisiones contaminantes sus establecimientos respectivos, sin efectuar en estos, reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad industrial, o realizar actividades comerciales o de servicios sin aviso al Instituto;
+III. Mantener sus instalaciones y equipos calibrados en las condiciones requeridas porla (sic) Secretaría, observando los requisitos que fije la misma para la debida prestación del servicio de verificación vehicular,
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. Destinar exclusivamente a la verificación de emisiones contaminantes sus establecimientos respectivos, sin efectuar en estos, reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad industrial, o realizar actividades comerciales o de servicios sin avisoa (sic) la Secretaria;
 
 V. Abstenerse de recibir documentación reportada como robada, falsificada o notoriamente alterada como soporte de las verificaciones vehiculares;
 
-VI. Llevar un registro con la información de las verificaciones efectuadas y remitir al Instituto los datos obtenidos en los términos fijados por ésta;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VII. Dar aviso inmediato al Instituto cuando dejen de prestar el servicio de verificación vehicular o los equipos e instalaciones no funcionen debidamente;
+VI. Llevar un registro con la información de las verificaciones efectuadas y remitir a la Secretaría los datos obtenidos en los términos fijados por ésta;
 
-VIII. Conservar en depósito y manejar debidamente los documentos que reciban del Instituto para acreditar la aprobación de la verificación vehicular, hasta que éstos sean entregados al interesado y, en su caso, adheridos a la fuente emisora de contaminantes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IX. Dar aviso inmediato al Instituto y presentar las denuncias correspondientes, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación vehicular;
+VII. Dar aviso inmediato a la Secretaría cuando dejen de prestar el servicio de verificación vehicular o los equipos e instalaciones no funcionen debidamente;
 
-X. Enviar al Instituto en los términos establecidos por ésta, la documentación e información requerida para la supervisión y control de la verificación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XI. Mantener durante las horas de funcionamiento a un representante y recibir las verificaciones administrativas que ordene el Instituto en cualquier momento;
+VIII. Conservar en depósito y manejar debidamente los documentos que reciban de la Secretaría para acreditar la aprobación de la verificación vehicular, hasta que éstos sean entregados al interesado y, en su caso, adheridos a la fuente emisora de contaminantes;
 
-XII. Que sus establecimientos cuenten con los elementos distintivos determinados por el Instituto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IX. Dar aviso inmediato a la Secretaría y presentar las denuncias correspondientes, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación vehicular;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+X. Enviar a la Secretaría en los términos establecidos por ésta, la documentación e información requerida para la supervisión y control de la verificación;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XI. Mantener durante las horas de funcionamiento a un representante y recibir las verificaciones administrativas que ordene la Secretaríaencualquier (sic) momento;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XII. Que sus establecimientos cuenten con los elementos distintivos determinados por la Secretaría;
 
 XIII. Cobrar las tarifas autorizadas por la prestación del servicio de verificación vehicular;
 
 XIV. Mantener en vigor la fianza y el seguro correspondiente durante la vigencia de la autorización para prestar el servicio de verificación vehicular, y
 
-XV. Corroborar que el equipo y programa de cómputo que se le instale para proporcionar el servicio de verificación vehicular, sea la versión autorizada por el Instituto, de lo contrario abstenerse de proporcionar el servicio.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Cuando los Centros de Verificación incumplan con alguna de las normas establecidas en el presente Reglamento, el Instituto podrá iniciar el procedimiento administrativo de revocación de la autorización, con base en la documentación e información que proporcionen o con la que disponga el Instituto.
+XV. Corroborar que el equipo y programa de cómputo que se le instale para proporcionar el servicio de verificación vehicular, sea la versión autorizada porla (sic) Secretaría, de lo contrario abstenerse de proporcionar el servicio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Cuando los Centros de Verificación incumplan con alguna de las normas establecidas en el presente Reglamento, la Secretaríapodrá (sic) iniciar el procedimiento administrativo de revocación de la autorización, con base en la documentación e información que proporcionen o con la que disponga la Secretaría.
 
 ###### Artículo 29.
 
@@ -445,7 +505,9 @@ El Titular de la autorización para operar el Centro de Verificación, contratar
 
 Los Centros de Verificación autorizados, deberán contar con las siguientes condiciones de instalación:
 
-I. La distribución y forma geométrica del área de servicio deberán ser adecuada (sic) a fin de brindar un servicio de calidad, contando con las vías de acceso necesarias para atender una demanda actual de emergencia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. La distribución y forma geométrica del área de servicio deberán ser adecuadas a fin de brindar un servicio de calidad, contando con las vías de acceso necesarias para atender una demanda actual de emergencia;
 
 II. El terreno del centro de verificación deberá estar compactado y pavimentado con riesgo de sello, evitando que el polvo pueda dañar los equipos. El área de servicio donde se realice la verificación deberá estar techada. La superficie total del terreno deberá tener como mínimo 300 metros cuadrados;
 
@@ -455,7 +517,9 @@ IV. En caso de disponer de una sola vía de acceso, esta deberá tener las dimen
 
 V. El Centro de Verificación podrá disponer de una o más vías de acceso para la verificación, siendo indispensable disponer de todos los aparatos, necesarios para cada una de las vías instaladas;
 
-VI. Los Centros de Verificación estarán situados en las zonas que previamente determine el Instituto, al paso de avenidas o calles de tránsito fluido, debiendo en su caso acondicionar lo necesario para el fácil acceso, tomando en cuenta que no deberán obstaculizar la circulación del resto del tráfico vehicular, tanto en el interior como en el exterior;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VI. Los Centros de Verificación estarán situados en las zonas que previamente determínela (sic) Secretaría, al paso de avenidas o calles de tránsito fluido, debiendo en su caso acondicionar lo necesario para el fácil acceso, tomando en cuenta que no deberán obstaculizar la circulación del resto del tráfico vehicular, tanto en el interior como en el exterior;
 
 VII. Los Centros de Verificación deberán reunir en sus instalaciones las condiciones de seguridad en su operación, deberán estar debidamente ventilados para que los humos y gases emitidos por los vehículos en proceso de verificación sean disipados y no lleguen a acumularse, evitando así posibles riesgos de contaminación local y sus efectos consiguientes, además de cumplir con las recomendaciones que al respecto emitan las autoridades de protección civil en el Estado;
 
@@ -465,7 +529,9 @@ IX. Los Centros de Verificación dispondrán del mobiliario y los elementos mate
 
 X. Los Titulares de las autorizaciones están obligados a mantener limpias las instalaciones y a colocar los letreros y señalamientos que indiquen que dichas instalaciones corresponden a un Centro de Verificación;
 
-XI. Colocar en lugar visible las cuotas o tarifas autorizadas, flechas de señalamiento con el sentido de tránsito vehicular, letreros de entradas y salidas, baños, indicaciones si es un Centro de Verificación para vehículos con motor a gasolina o diesel o si se prestan los dos tipos de verificación, el calendario de verificación, así como la autorización expedida por el Instituto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XI. Colocar en lugar visible las cuotas o tarifas autorizadas, flechas de señalamiento con el sentido de tránsito vehicular, letreros de entradas y salidas, baños, indicaciones si es un Centro de Verificación para vehículos con motor a gasolina o diesel o si se prestan los dos tipos de verificación, el calendario de verificación, así como la autorización expedida por la Secretaría;
 
 XII. Los Centros contarán para su operación con una luminosidad mínima de 600 luxes y dispondrán de tomas de corriente eléctrica a 110 volts;
 
@@ -487,13 +553,17 @@ XX. Deberán contar con los servicios de agua potable, energía eléctrica, dren
 
 XXI. Extinguidores, que deberán colocarse cerca del equipo autorizado, y
 
-XXII. Estacionamiento suficiente para los usuarios; (sic)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXII. Estacionamiento suficiente para los usuarios.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 34.
 
-El Centro de Verificación deberá contar con el personal técnico debidamente capacitado y autorizado previamente por el Instituto, así como con el personal administrativo suficiente.
+El Centro de Verificación deberá contar con el personal técnico debidamente capacitado y autorizado previamente porla (sic) Secretaría, así como con el personal administrativo suficiente.
 
-Las relaciones laborales que contraigan los propietarios de los Centros de Verificación y sus trabajadores, deslindan al Instituto y al Gobierno del Estado de toda responsabilidad laboral, civil, penal o administrativa a que pudiera dar lugar.
+Las relaciones laborales que contraigan los propietarios de los Centros de Verificación y sus trabajadores, deslindana (sic) la Secretaría y al Gobierno del Estado de toda responsabilidad laboral, civil, penal o administrativa a que pudiera dar lugar.
 
 ### Capítulo III. Del Equipo para la Verificación Vehicular
 
@@ -511,27 +581,39 @@ Para el servicio de vehículos con motor a diesel, los Centros de Verificación 
 
 Los Centros de Verificación deberán cumplir con las disposiciones emitidas por el Instituto en materia de aseguramiento de calidad. Los elementos mínimos necesarios para asegurar la calidad en el servicio de verificación deben ser los siguientes:
 
-I. Grabación en vídeo de todas y cada una de las verificaciones que se realicen. Grabación que almacenarán para ser proporcionada al Instituto, cuando éste así lo solicite;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Grabación en video de todas y cada una de las verificaciones que se realicen. Grabación que almacenarán para ser proporcionadaa (sic) la Secretaría cuando éste así lo solicite;
 
 II. Conteo electrónico del número de vehículos que ingresan, verifican y salen del Centro de Verificación, así como el tiempo que cada uno de ellos permanece en la línea de verificación (Sistema Electrónico de Aforo Vehicular);
 
 III. Almacenar y entregar semestralmente las bases de datos que se generan durante cada una de las verificaciones vehiculares, misma que deberá presentarse en disco compacto;
 
-IV. Auditoría de calibración de los equipos analizadores de gases y opacímetros, que deberá realizarse cada treinta días naturales, cuyos resultados se deberán informar ante el Instituto dentro de los cinco días siguientes a su elaboración, en términos de lo que establezca el Programa;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. Auditoría de calibración de los equipos analizadores de gases y opacímetros, que deberá realizarse cada treinta días naturales, cuyos resultados se deberán informar antela (sic) Secretaría dentro de los cinco días siguientes a su elaboración, en términos de lo que establezca el Programa;
 
 V. Bitácoras foliadas y actualizadas de la operación general del centro de verificación y de mantenimiento por cada equipo analizador con el objeto de llevar el seguimiento de la operación, así como de los incidentes presentados diariamente;
 
 VI. Contar con imagen interior y exterior en óptimas condiciones, así como los señalamientos de información y seguridad de acuerdo al manual de imagen;
 
-VII. Reportes semanales escritos en donde se consigne el resultado y soporte documental de las verificaciones efectuadas por los Centros de Verificación, mismos que deben ser entregados al Instituto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VIII. Buzón de quejas y sugerencias del servicio, así como el panel de avisos del Instituto a la vista del público;
+VII. Reportes semanales escritos en donde se consigne el resultado y soporte documental de las verificaciones efectuadas por los Centros de Verificación, mismos que deben ser entregados a la Secretaría;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VIII. Buzón de quejas y sugerencias del servicio, así como el panel de avisos de la Secretaría a la vista del público;
 
 IX. Impedir la permanencia dentro del Centro de Verificación de cualquier persona que no esté plenamente identificada y acreditada por la autoridad ambiental a excepción de los propietarios o poseedores de los vehículos a verificar, y
 
-X. Las demás que establezca el Instituto.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Los soportes documentales, una vez revisados y contabilizados, se mantendrán en almacenamiento y bajo resguardo de los Centros de Verificación hasta que les sea requerido por el Instituto.
+X. Las demás que establézcala (sic) Secretaría.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Los soportes documentales, una vez revisados y contabilizados, se mantendrán en almacenamiento y bajo resguardo de los Centros de Verificación hasta que les sea requerido porla (sic) Secretaría.
 
 ### Capítulo IV. Del Funcionamiento
 
@@ -539,57 +621,73 @@ Los soportes documentales, una vez revisados y contabilizados, se mantendrán en
 
 El Centro de Verificación comenzará a prestar el servicio en un término máximo de treinta días hábiles a partir de la expedición de la autorización.
 
-En caso de no prestar el servicio en el término mencionado, sin haberse acreditado ante el Instituto la causa de fuerza mayor, se procederá a la cancelación de la autorización.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En caso de no prestar el servicio en el término mencionado, sin haberse acreditado antela(sic) Secretaría la causa de fuerza mayor, se procederá a la cancelación de la autorización.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 39.
 
-Para estar en condiciones de operar, el Titular de la autorización del Centro de Verificación deberá tramitar ante la Secretaría la adquisición y el pago del monto de los hologramas y los certificados.
+Para estar en condiciones de operar, el titular de la autorización del centro de Verificación deberá tramitar ante la Secretaria de Finanzas la adquisición y el pago del monto de los hologramas y los certificados.
 
 ###### Artículo 40.
 
 La cantidad y periodicidad de entrega de los hologramas y certificados dependerá de la cantidad de verificaciones realizadas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 41.
 
-La Secretaría deberá expedir los recibos correspondientes por la compra de certificados y hologramas.
+La Secretaría de Finanzas deberá expedir los recibos correspondientes por la compra de certificados y hologramas.
 
 ###### Artículo 42.
 
 Si al término del periodo de verificación, al Centro de Verificación le quedaran hologramas y certificados, podrá cambiarlos por los vigentes pagando en su caso los derechos en proporción.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 43.
 
-La Secretaría deberá reponer al Centro de Verificación los certificados y hologramas que tengan defecto de fabricación.
+La Secretaría de Finanzas deberá reponer al Centro de Verificación los certificados y hologramas que tengan defecto de fabricación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 44.
 
-En el supuesto caso de que la documentación se deteriore por causas imputables a las actividades propias del centro de verificación, se deberá informar al Instituto para la cancelación de la misma mediante el levantamiento de un acta que haga constar el hecho.
+En el supuesto caso de que la documentación se deteriore por causas imputables a las actividades propias del centro de verificación, se deberá informara (sic) la Secretaría para la cancelación de la misma mediante el levantamiento de un acta que haga constar el hecho.
 
-En caso de extravío o robo además de lo anterior se deberá presentar una denuncia ante el Ministerio Público.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 45.
 
-El Centro de Verificación deberá presentar un informe mensual de actividades al Instituto con los datos e información que al efecto indique el reporte estadístico, incluyendo la documentación comprobatoria de los vehículos verificados.
+El Centro de Verificación deberá presentar un informe mensual de actividadesa (sic) la Secretaría con los datos e información que al efecto indique el reporte estadístico, incluyendo la documentación comprobatoria de los vehículos verificados.
 
-En caso de presentarse anomalías por inconsistencias, faltantes u otras omisiones, podrá retenerle la entrega de papelería oficial que incluye certificados de aprobación, comprobantes de entrega, hologramas, hasta en tanto no sean solventadas las anomalías a juicio del Instituto.
+En caso de presentarse anomalías por inconsistencias, faltantes u otras omisiones, podrá retenerle la entrega de papelería oficial que incluye certificados de aprobación, comprobantes de entrega, hologramas, hasta en tanto no sean solventadas las anomalías a juicio de la Secretaría.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 46.
 
-Los Centros de Verificación deben archivar la copia de los certificados de los vehículos verificados y conservarlos por dos años para consulta, investigación judicial o respaldo jurídico, debiendo mostrarlos al Instituto cuando sean requeridas (sic).
+Los Centros de Verificación deben archivar las copias de los certificados de los vehículos verificados y conservarlos por dos años para consulta, investigación judicial o respaldo jurídico, debiendo mostrarlas a la Secretaría cuando seanrequeridas (sic).
 
 ###### Artículo 47.
 
 El Centro de Verificación tendrá que funcionar todos los días hábiles del año, cubriendo un horario mínimo de ocho horas.
 
-En caso excepcional y haciendo del conocimiento al Instituto, podrá prestar el servicio en días inhábiles.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En caso excepcional y haciendo del conocimiento a la Secretaría, podrá prestar el servicio en días inhábiles.
 
 ###### Artículo 48.
 
 Para poder prestar el servicio a los vehículos que acudan a realizar el servicio extemporáneo, el responsable del Centro de Verificación le comunicará al conductor que deberá pagar la multa que establece la Ley de Ingresos vigente y este Reglamento, en caso de que no acepte se le hará del conocimiento la negativa de la prestación del servicio.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 49.
 
-Los Centros de Verificación que lleven a cabo la prestación de servicios distintos a lo señalado en el presente Reglamento, serán acreedores a las sanciones que al efecto que (sic) establezcan.
+Los Centros de Verificación que lleven a cabo la prestación de servicios distintos a lo señalado en el presente Reglamento, serán acreedores a las sanciones que al efecto se establezcan.
 
 ### Capítulo V. Del Procedimiento para la Verificación de Vehículos
 
@@ -617,29 +715,39 @@ Una vez analizadas las emisiones del vehículo, el personal del Centro de Verifi
 
 ### Capítulo I. De la Integración de la Matrícula Vehicular
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 55.
 
-Para efectos de control e inspección de los automotores respecto del cumplimiento del Programa, el Instituto en coordinación con la Secretaría, accederá a la base de datos que ésta última posee, sobre la matriculación de los vehículos.
+Para efectos de control e inspección de los automotores respecto del cumplimiento del Programa,la (sic) Secretaría en coordinación con la Secretaría de Finanzas, accederá a la base de datos que ésta última posee, sobre la matriculación de los vehículos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 56.
 
-Los vehículos que no se encuentre (sic) inscritos en la base de datos a que se hace referencia en el artículo anterior, deberán matricularse para los efectos referidos.
+Los vehículos que no se encuentren inscritos en la base de datos a que se hace referencia en el artículo anterior, deberán matricularse para los efectos referidos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 57.
 
-Los propietarios o poseedores de vehículos no regularizados o no matriculados, con residencia en el Estado de Zacatecas, deberán acudir a las dependencias que el Instituto les indique para integrarse a la Matriculación.
+Los propietarios o poseedores de vehículos no regularizados o no matriculados, con residencia en el Estado de Zacatecas, deberán acudir a las dependencias que la Secretaría les indique para integrarse a la Matriculación.
 
 ###### Artículo 58.
 
 La verificación de la inscripción a la Matrícula compete a la Dirección de Transporte, Tránsito y Vialidad del Estado de Zacatecas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 59.
 
-La operación e integración de la base de datos de la Matriculación será responsabilidad del Instituto. Esta se integrará con los datos que proporcionen los interesados, relativos a la identificación del propietario, domicilio y características de las unidades vehiculares. La información proporcionada por los propietarios o poseedores será reservada y confidencial salvo que una autoridad competente lo solicite.
+La operación e integración de la base de datos de la Matriculación será responsabilidad de la Secretaría. Esta se integrará con los datos que proporcionen los interesados, relativos a la identificación del propietario, domicilio y características de las unidades vehiculares. La información proporcionada por los propietarios o poseedores será reservada y confidencial salvo que una autoridad competente lo solicite.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 60.
 
-El Instituto administrará la información de la Matriculación en coordinación con la Dirección de Transporte, Tránsito y Vialidad del Estado de Zacatecas.
+La Secretaría administrará la información de la Matriculación en coordinación con la Dirección de Transporte, Tránsito y Vialidad del Estado de Zacatecas.
 
 ###### Artículo 61.
 
@@ -653,21 +761,31 @@ III. Poseedor: A quien detente el bien mueble al momento de la inscripción con 
 
 IV. Vehículo: La unidad auto motor de procedencia extranjera no regularizado cuyo propietario o poseedor radique en el Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 62.
 
-Serán apoyo para la integración de la Matriculación, la Secretaría y la Dirección de Transporte, Tránsito y Vialidad del Estado de Zacatecas de la Secretaría de Seguridad Pública.
+Serán apoyo para la integración de la Matriculación, la Secretaría de Finanzas y la Dirección de Transporte, Tránsito y Vialidad del Estado de Zacatecas de la Secretaría de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 63.
 
-La Secretaría auxiliará al Instituto, a través de sus recaudaciones de rentas, para efectuar el trámite de la Matriculación y de la validación de los documentos, además de verificar que no haya sido registrado ante el padrón vehicular estatal con anterioridad.
+La Secretaria de Finanzasauxliliará (sic) a la Secretaría, a través de sus recaudaciones de rentas, para efectuar el trámite de la Matriculación y de la validación de los documentos, además de verificar que no haya sido registrado ante el padrón vehicular estatal con anterioridad.
 
 ###### Artículo 64.
 
 El trámite de Matriculación tendrá un costo de veinticinco cuotas de salario mínimo general aplicable en la Entidad, este aprovechamiento será pagado a través de las recaudaciones de rentas del Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La matriculación tendrá vigencia hasta el 31 de diciembre del año en que se efectué el trámite y deberá ser refrendado dentro los primeros tres meses de cada año, cuyo costo será el mismo que se precisa en el párrafo inmediato anterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 65.
 
-La Secretaría tendrá la obligación de proporcionar al Instituto y a la Dirección de Transporte, Tránsito y Vialidad, el padrón levantado con motivo de la Matriculación.
+La Secretaría de Finanzas tendrá la obligación de proporcionar a la Secretaríay (sic) a la Dirección de Transporte, Tránsito y Vialidad, el padrón levantado con motivo de la Matriculación.
 
 ###### Artículo 66.
 
@@ -685,9 +803,11 @@ I. El Propietario o poseedor acompañará a la solicitud de matriculación los r
 
 II. La investigación y seguimiento a los vehículos que hayan cumplido los requisitos señalados para verificar su situación legal en el país se hará por parte de la Procuraduría General de Justicia del Estado de Zacatecas y en caso de existir condiciones jurídicas, se procede a su matriculación.
 
+> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 69.
 
-La solicitud de inscripción a la Matriculación se hará en los formatos que para tal efecto estarán disponibles en las oficinas recaudadoras de rentas de la entidad, para ser llenadas (sic) por el interesado, la cual deberá ser presentada junto con los siguientes requisitos, en original y dos copias:
+La solicitud de inscripción a la Matriculación se hará en los formatos que para tal efecto estarán disponibles en las oficinas recaudadoras de rentas de la entidad, para ser llenados por el interesado, la cual deberá ser presentada junto con los siguientes requisitos, en original y dos copias:
 
 I. Identificación oficial con fotografía;
 
@@ -725,7 +845,9 @@ I. La leyenda: "Este engomado no acredita la legal estancia del vehículo en el 
 
 II. Número único de holograma, y
 
-III. Código de barras que contengan (sic) el folio del holograma.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Código de barras que contenga el folio del holograma.
 
 ###### Artículo 74.
 
@@ -763,9 +885,11 @@ V. Hacer uso indebido de la información o documentos relacionados con la Matric
 
 Cualquier conducta tipificada como delito por parte de los servidores públicos que participen o realicen trámites de registro, así como, de los propietarios o poseedores que se genere con motivo del registro, tenencia, posesión o destino de las unidades motrices, podrá darse vista al Ministerio Público Federal o la Procuraduría General de Justicia del Estado para que se proceda en consecuencia en los términos en materia penal, según sea el caso y competencia de las autoridades.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 79.
 
-La Matriculación será verificada por la Contraloría Interna del Gobierno del Estado de Zacatecas, con facultad de revisar y auditar en cualquier momento, lo efectuado por la Secretaría o sus oficinas recaudadoras, así como la documentación presentada por los interesados, pudiendo dejar sin efecto, las inscripciones efectuadas de manera irregular, aplicando las sanciones y procedimientos correspondientes.
+La Matriculación será verificada por la Secretaría de Función Pública, con facultad de revisar y auditar en cualquier momento, lo efectuado por la Secretaría de Finanzas o sus oficinas recaudadoras, así como la documentación presentada por los interesados, pudiendo dejar sin efecto, las inscripciones efectuadas de manera irregular, aplicando las sanciones y procedimientos correspondientes.
 
 ### Capítulo III. De los Propietarios o Poseedores de los Vehículos Sujetos a la Verificación
 
@@ -777,11 +901,11 @@ Asimismo, todos aquellos vehículos que circulen en el Estado, con placas de otr
 
 Cuando los vehículos que circulen solo vayan de paso por el territorio, deberán demostrarlo a través de la tarjeta de circulación y de una identificación oficial que demuestre que pertenece a otra Entidad Federativa.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 81.
 
-Todos los vehículos automotores, independientemente de lo (sic) nacionalidad mexicana o extranjera, de la propiedad regular o irregular de los mismos, deberán someterse a la verificación de emisión de contaminantes que refiere le (sic) presente Reglamento.
-
-La verificación vehicular, no tendrá efectos de legalización ni de reconocimiento de legal estancia en el Estado.
+Todos los vehículos automotores, independientemente de la nacionalidad mexicana o extranjera de la propiedad regular o irregular de los mismos, deberán someterse a la verificación de emisión de contaminantes que refiere el presente Reglamento.
 
 ###### Artículo 82.
 
@@ -815,13 +939,15 @@ e) Maquinaria para pavimentación en la que se incluyen las motoconformadoras;
 
 f) Maquinaria para perforación, y
 
-g) Maquinaria para cimentación y montaje; (sic)
+g) Maquinaria para cimentación y montaje;
 
 IV. Los vehículos automotores con peso bruto vehicular de 400 kilogramos o menor;
 
 V. Los montacargas;
 
-VI. Los autos de colección debidamente registrados ante la Secretaría;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V (SIC). Los autos de colección debidamente registrados ante la Secretaría de Finanzas.
 
 VII. Las motocicletas, y
 
@@ -851,9 +977,11 @@ El propietario o poseedor del vehículo que incumpla con las normas oficiales me
 
 ### Capítulo I. De la Inspección y Vigilancia
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 88.
 
-El Instituto es la dependencia competente para inspeccionar el estricto cumplimiento en la operación de los Centros de Verificación Vehicular, de acuerdo a lo dispuesto en la Ley, el presente Reglamento, las Normas Oficiales Mexicanas, el Programa, Circulares y autorización correspondientes.
+La Secretaría es la dependencia competente para inspeccionar el estricto cumplimiento en la operación de los Centros de Verificación Vehicular de acuerdo a lo dispuesto en la Ley, el presente Reglamento, las Normas Oficiales Mexicanas, el Programa, Circulares y autorización correspondientes.
 
 ###### Artículo 89.
 
@@ -873,23 +1001,29 @@ Se podrán aplicar las siguientes medidas de seguridad:
 
 I. Clausura temporal en forma parcial o total del Centro de Verificación, y
 
-II. Aseguramiento y confiscación de bienes materiales de los Centro (sic) de Verificación.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. Aseguramiento y confiscación de bienes materiales de los Centros de Verificación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 93.
 
-Las resoluciones que emita el Instituto, serán notificadas en forma personal mediante cédula o instructivo al titular de la autorización, representante legal o quien resultare responsable del Centro de Verificación.
+Las resoluciones que emitala (sic) Secretaría, serán notificadas en forma personal mediante cédula o instructivo al titular de la autorización, representante legal o quien resultare responsable del Centro de Verificación.
 
-En caso de negativa de recibir la notificación o al no encontrarse el interesado, habiendo dejado citatorio para el efecto de llevar a cabo la notificación, se fijará un ejemplar de la misma en un lugar visible del propio centro, en cuyo caso se levantará el acta respectiva firmada por lo menos por un vecino del lugar; pudiendo además, publicar los puntos resolutivos en cualquier medio de comunicación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 94.
 
-El Instituto efectuará las visitas de inspección previa orden fundada y motivada y se levantará un acta circunstanciada de lo visto y practicado en la diligencia, siguiendo lo establecido al efecto en la Ley, y con base en los resultados de la visita de inspección se aplicarán las medidas necesarios (sic) y en su caso las sanciones que procedan en los términos de dicha Ley y el presente Reglamento.
+La Secretaría efectuará las visitas de inspección previa orden fundada y motivada y se levantará un acta circunstanciada de lo visto y practicado en la diligencia, siguiendo lo establecido al efecto en la Ley, y con base en los resultados de la visita de inspección se aplicarán las medidas necesariasy (sic) en su caso las sanciones que procedan en los términos de dicha Ley y el presente Reglamento.
 
 ### Capítulo II. De Medidas de Seguridad y las Sanciones
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 95.
 
-Las violaciones a los preceptos de este Reglamento y disposiciones que de él emanen, serán sancionadas administrativamente por el Instituto en los términos establecidos en la Ley y demás leyes aplicables.
+Las violaciones a los preceptos de este Reglamento y disposiciones que de éste emanen, serán sancionadas administrativamente por la Secretaría en los términos establecidos en la Ley y demás leyes aplicables.
 
 ###### Artículo 96.
 
@@ -909,9 +1043,11 @@ III. Multa de cuarenta días de salario mínimo general vigente en la Entidad, a
 
 Con independencia de las sanciones establecidas en los artículos anteriores, aquellos vehículos sujetos al presente Programa que no hayan realizado la prueba de verificación dentro del periodo establecido, no podrán circular más que para dirigirse al taller o Centro de verificación.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 99.
 
-Aquellos vehículos que circulen en el Estado y emitan humos ostensiblemente, serán detenidos por la autoridad vial competente y remitida (sic) a una pensión municipal o estatal, o bien serán remitidos a algún Centro de Verificación Vehicular.
+Aquellos vehículos que circulen en el Estado y emitan humos ostensiblemente, serán detenidos por la autoridad vial competente y remitido (sic) a una pensión municipal o estatal, o bien serán remitidos a algún Centro de Verificación Vehicular.
 
 ###### Artículo 100.
 
@@ -919,19 +1055,29 @@ Se sancionará con multa por el equivalente de cien a cinco mil cuotas de salari
 
 I. No mantengan sus instalaciones y equipos calibrados y en las condiciones de funcionamiento establecidas en las disposiciones aplicables;
 
-II. No lleven el registro con la información de las verificaciones efectuadas o no remitan al Instituto, los datos obtenidos en los términos fijados por ésta;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-III. No den aviso inmediato al Instituto cuando por cualquier causa se dejen de prestar los servicios de verificación de emisiones contaminantes o cuando los equipos e instalaciones no funcionen debidamente o se realicen verificaciones no obstante esto último;
+II. No lleven el registro con la información de las verificaciones efectuadas o no remitan a la Secretaría, los datos obtenidos en los términos fijados por ésta;
 
-IV. No conserven en depósito o maneje (sic) indebidamente las constancias, calcomanías o documentos para acreditar la aprobación de la verificación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-V. No den aviso al Instituto en caso de robo o uso indebido de las calcomanías o documentos que acrediten la aprobación de la verificación;
+III. No den aviso inmediato a la Secretaría cuando por cualquier causa se dejen de prestar los servicios de verificación de emisiones contaminantes o cuando los equipos e instalaciones no funcionen debidamente o se realicen verificaciones no obstante esto último;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. No conserven en depósito o manejen indebidamente las constancias, calcomanías o documentos para acreditar la aprobación de la verificación;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V. No den aviso a la Secretaría, en caso de robo o uso indebido de las calcomanías o documentos que acrediten la aprobación de la verificación;
 
 VI. Expidan constancias de verificación alteradas o que no reúnan los requisitos establecidos en el reglamento correspondiente;
 
 VII. No entreguen al propietario o poseedor de una fuente emisora de contaminantes, la constancia correspondiente, o en caso de ser aprobatoria, no adhiera la calcomanía o el documento respectivo en dicha fuente;
 
-VIII. No envíe al Instituto en los términos establecidos por éste, la documentación requerida para la supervisión y control de la verificación de emisiones contaminantes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VIII. No envié a la Secretaríaen (sic) los términos establecidos por éste, la documentación requerida para la supervisión y control de la verificación de emisiones contaminantes;
 
 IX. Su establecimiento de verificación no cuente con los elementos físicos distintivos;
 
@@ -939,7 +1085,9 @@ X. Realicen verificaciones para las cuales no estén autorizados;
 
 XI. No operen conforme a los sistemas, procedimientos, instalaciones, equipos y plazos de verificación establecidos en las Normas Oficiales Mexicanas respectivas;
 
-XII. Por cualquier motivo cobre por la verificación una cantidad superior a la autorizada por el Instituto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XII. Por cualquier motivo cobre por la verificación una cantidad superior a la autorizada por la Secretaría;
 
 XIII. No realice la verificación con apego a las condicionantes de la autorización otorgada para establecer, equipar y operar el centro de verificación respectivo y en general no cumpla con dichas condicionantes;
 
@@ -992,3 +1140,13 @@ SECRETARIO GENERAL DE GOBIERNO
 JULIO CESAR NAVA DE LA RIVA
 
 DIRECTOR GENERAL DEL INSTITUTO DE ECOLOGÍA Y MEDIO AMBIENTE DEL ESTADO DE ZACATECAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
