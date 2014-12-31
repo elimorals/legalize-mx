@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-fomento-para-el-desarrollo-80728"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-26"
-last_updated: "2011-03-26"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO DE LA LEY DE FOMENTO PARA EL DESARROLLO ECONOMICO DEL ESTADO DE ZACATECAS
 
-REGLAMENTO DE LA LEY DE FOMENTO PARA EL DESARROLLO ECONOMICO DEL ESTADO DE ZACATECAS
+REGLAMENTO DE LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL DECRETO GUBERNATIVO POR MEDIO DEL CUAL SE REFORMAN DIVERSOS REGLAMENTOS DE LEYES DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014 (DEROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 26 de marzo de 2011.
 
@@ -69,7 +71,7 @@ IV. Subsecretaría: A la Subsecretaría de Proyectos y Parques Industriales de l
 
 V. Consejo: A el Consejo Estatal para la Micro, Pequeña y Mediana Empresa;
 
-VI. Consejos Regionales: A los Consejos Regionales de Fomento a la Inversión; y (sic)
+VI. Consejos Regionales: A los Consejos Regionales de Fomento a la Inversión; y
 
 VII. Fondo: Al Fondo Económico de Incentivos a la Inversión;
 
@@ -710,3 +712,13 @@ ESAÚ HERNÁNDEZ HERRERA
 EL SECRETARIO DE DESARROLLO ECONÓMICO
 
 EDUARDO LÓPEZ MUÑOZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero: Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
