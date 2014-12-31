@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-civiles-para-el-estado-de-tabasco-1503
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-12"
-last_updated: "2014-04-26"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de abril de 1997.
 
@@ -81,7 +81,7 @@ II.- Impulsar el procedimiento una vez que haya sido iniciado, sin demérito de 
 
 III.- Convocar a las partes, en cualquier momento del proceso hasta antes de que se dicte sentencia, para intentar la conciliación de sus intereses;
 
-IV.- Desechar de plano cualquier excepción, incidente, prueba, recurso o promoción que sea manifiestamente improcedente conforme a la ley o notoriamente irrelevante o impertinente en relación con el objeto del proceso; y (sic)
+IV.- Desechar de plano cualquier excepción, incidente, prueba, recurso o promoción que sea manifiestamente improcedente conforme a la ley o notoriamente irrelevante o impertinente en relación con el objeto del proceso; y
 
 V.- Aplicar las correcciones disciplinarias para mantener el orden y el respeto e imponer los medios de apremio para hacer cumplir sus determinaciones;
 
@@ -4745,7 +4745,7 @@ III.- En caso de que la sentencia de primera instancia apelada fuere absolutoria
 
 IV.- Si hubieren recursos o incidentes pendientes y la sentencia decidiere el fondo del asunto, mandará que éstos queden sin materia y ordenará su archivo, una vez que la sentencia de segunda instancia adquiera autoridad de cosa juzgada. Se exceptúan de lo anterior los recursos o incidentes promovidos contra ejecución o rendición de cuentas;
 
-V.- Se resolverá en la sentencia lo que proceda respecto a condenación en costas; y (sic)
+V.- Se resolverá en la sentencia lo que proceda respecto a condenación en costas; y
 
 VI.- En todo lo demás serán aplicables a las sentencias de segunda instancia, las reglas establecidas para las de primera;
 
@@ -6301,7 +6301,7 @@ Para que se pueda celebrar válidamente la audiencia, la cita de emplazamiento d
 
 Domicilio
 
-La citación de emplazamiento se le entregará la demandado en su domicilio, por medio del actuario del juzgado. El domicilio señalado para entregar la cita al demandado, deberá ser:
+La citación de emplazamiento se le entregará la (sic) demandado en su domicilio, por medio del actuario del juzgado. El domicilio señalado para entregar la cita al demandado, deberá ser:
 
 I.- El domicilio del demandado, su despacho, su establecimiento mercantil o su taller; o
 
@@ -6663,7 +6663,7 @@ Suplencia del consentimiento y dispensa de impedimentos
 
 Recibida del oficial del Registro Civil el acta levantada con motivo del impedimento, el juzgador citará al denunciante si lo hubiere, y a los interesados a una audiencia en la que los oirá, recibirá las pruebas y dictará su resolución. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios. El juicio se hará constar en una sola acta cuando termine en un solo día. La resolución que recaiga será irrecurrible.
 
-En los casos en que el actor solicite dispensa para contraer matrimonio con la persona que está bajo su guarda, o se celebrase el matrimonio en contravención a la prohibición legal, el juzgador, a petición de la autoridad administrativa o de cualquier interesado, nombrará un tutor interino que se encargue de representar al menor, reciba los bienes y los administre mientras se concede la dispensa.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -10076,3 +10076,9 @@ P.O. 26 DE ABRIL DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+31 DE DICIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
