@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-catastro-del-estado-de-puebla-76286"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-16"
-last_updated: "2013-09-13"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CATASTRO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICAD EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICAD EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 16 de agosto de 2010.
 
@@ -125,7 +125,9 @@ X. Gobierno Municipal.- El Ayuntamiento del Municipio de que se trate;
 
 XI. Información territorial.- Conjunto de mapas, planos, documentos y bases de datos producto de la investigación científica del territorio, que contienen de manera pormenorizada sus aspectos geográficos, catastrales, topográficos, toponímicos, políticos, económicos, sociales y culturales;
 
-XII. Instituto.- El Instituto de Catastro del Estado de Puebla;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XII. Instituto.- El Instituto Registral y Catastral del Estado de Puebla;
 
 XIII. Ley.- La Ley de Catastro del Estado de Puebla;
 
@@ -205,21 +207,53 @@ Son autoridades catastrales en el Estado:
 
 I. El Gobernador del Estado;
 
-II. El Director General del Instituto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-III. El Director de Gestión Territorial del Instituto;
+II. El Secretario de Finanzas y Administración;
 
-IV. Los Delegados Catastrales del Instituto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-V. Los Presidentes Municipales;
+III. El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración;
 
-VI. Los Tesoreros Municipales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VII. El Director de Catastro o Titular de la Unidad Administrativa Municipal que ejerza facultades en materia de Catastro, cualquiera que sea su denominación;
+IV. El Director General del Instituto;
 
-VIII. Los Jefes del Departamento de Catastro Municipal o Titular del área equivalente a éste que ejerza facultades en materia de Catastro, cualquiera que sea su denominación; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IX. Los demás servidores públicos a los que las leyes les otorguen facultades específicas en materia catastral y a los que mediante Acuerdo o Convenio debidamente publicados en el Periódico Oficial del Estado, les sean conferidas o delegadas atribuciones.
+V. El Director de Catastro;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VI. El Subdirector de Información Territorial;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VII. El Subdirector de Gestión Catastral;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VIII. Los Delegados Catastrales del Instituto;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IX. Los Presidentes Municipales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+X. Los Tesoreros Municipales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XI. El Director de Catastro Municipal o Titular de la Unidad Administrativa Municipal que ejerza facultades en materia de Catastro, cualquiera que sea su denominación;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XII. Los Jefes del Departamento de Catastro Municipal o Titular del área equivalente a éste que ejerza facultades en materia de Catastro, cualquiera que sea su denominación, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIII. Los demás servidores públicos a los que las leyes les otorguen facultades específicas en materia catastral y a los que mediante Acuerdo o Convenio debidamente publicados en el Periódico Oficial del Estado, les sean conferidas o delegadas atribuciones.
 
 ###### Artículo 15.
 
@@ -231,113 +265,77 @@ II. Suscribir convenios y acuerdos de coordinación y colaboración con las Depe
 
 III. Las demás que le determine esta Ley y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 16.
 
-Son atribuciones del Director General del Instituto:
+Son atribuciones de las autoridades catastrales:
 
-I. Proponer al Gobernador del Estado, las políticas generales del Catastro, así como promover y evaluar en el ámbito de su competencia, su cumplimiento;
+I. Integrar, administrar, conservar y mantener actualizada la información catastral del Estado con base en la que genere el Instituto y la que le proporcionen los municipios, fedatarios públicos, particulares y dependencias oficiales;
 
-II. Proponer al Gobernador del Estado en los casos que proceda, la suscripción de convenios y acuerdos de coordinación y colaboración y demás documentos análogos con las Dependencias y Entidades de la Administración Pública Federal y de otras Entidades Federativas, en materia de catastro y en aquéllas que se vinculen con esta materia, e intervenir en la formalización de los mismos;
+II. Integrar, administrar y actualizar los Padrones de Peritos Valuadores de Predios del Estado de Puebla y de Peritos Topógrafos del Estado de Puebla;
 
-III. Suscribir convenios y acuerdos de coordinación y colaboración y demás documentos análogos con las Dependencias y Entidades de la Administración Pública Estatal y Municipal, que tengan por objeto el intercambio de datos e información para integrar y mantener actualizada la cartografía catastral, el padrón de los predios ubicados en el territorio del Estado, así como el inventario de infraestructura y equipamiento urbano del mismo y demás que se requieran para el cumplimiento del objeto de esta Ley;
+III. Suscribir y ejecutar los convenios y acuerdos de colaboración celebrados con las Dependencias o Entidades de la Administración Pública Federal, Estatal o Municipal, así como organizaciones vinculadas con los servicios catastrales, a efecto de difundir o mejorar la función catastral;
 
-IV. Suscribir convenios de coordinación y colaboración y demás documentos análogos con Colegios de Profesionales, instituciones educativas, asociaciones y sociedades civiles y demás instancias con actividades afines;
+IV. Coadyuvar con los Ayuntamientos de la Entidad que lo soliciten en la determinación de los valores catastrales unitarios provisionales de suelo y construcción;
 
-V. Emitir los acuerdos, así como los planes, programas, lineamientos, procedimientos, especificaciones y demás disposiciones que en materia catastral se requieran para el cumplimiento de la presente Ley;
+V. Recibir, clasificar, guardar, custodiar y depurar el archivo electrónico del Instituto, de conformidad con las disposiciones legales y normatividad aplicables;
 
-VI. Coordinar la elaboración de productos en materia catastral;
+VI. Notificar de conformidad con las disposiciones legales y normatividad aplicables los actos administrativos derivados de los procedimientos catastrales;
 
-VII. Vigilar la elaboración y actualización de la cartografía catastral del Estado;
+VII. Vigilar en el ámbito de su competencia, que los sujetos obligados o responsables solidarios cumplan con las disposiciones fiscales;
 
-VIII. Supervisar la valuación y revaluación catastral de los predios del Estado, de conformidad con lo dispuesto en esta Ley y la normatividad que para tales efectos emita el Instituto;
+VIII. Solicitar información a las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, de los datos, documentos e informes que se consideren necesarios para el ejercicio de las funciones catastrales en el Estado;
 
-IX. Integrar, administrar, conservar y mantener actualizada la información catastral del Estado con base en la que genere el Instituto y la que le proporcionen los Municipios, así como las Dependencias y Entidades cuyas funciones incidan en esta materia;
+IX. Llevar a cabo, en el ámbito de su competencia, las acciones correspondientes al programa para la regularización de la propiedad inmobiliaria de predios rústicos en el Estado de Puebla;
 
-X. Vigilar la integración, administración y actualización de los Padrones de Peritos Valuadores de Predios del Estado de Puebla y de Peritos Topógrafos del Estado de Puebla;
+X. Cancelar en los casos que proceda y de conformidad con las disposiciones legales y normatividad aplicables, el registro catastral de los predios;
 
-XI. Solicitar a las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, los datos, documentos e informes que se consideren necesarios para mantener actualizada la cartografía catastral, el padrón de predios y el inventario de infraestructura y equipamiento urbano de la Entidad;
+XI. Valuar y/o revaluar los predios del Estado de Puebla, de conformidad con las disposiciones legales y normatividad aplicables;
 
-XII. Proporcionar información, asesoría, apoyo técnico, bienes y servicios en materia catastral y de información territorial a las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, así como a los propietarios o poseedores de los predios y a los particulares que lo soliciten;
+XII. Inscribir en el padrón Catastral los predios de los propietarios o poseedores, y en los casos que proceda, realizar su cancelación o modificación, en términos de esta Ley y demás disposiciones legales aplicables;
 
-XIII. Otorgar, en el ámbito de su competencia, asistencia técnica a las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, a los propietarios o poseedores de los predios, así como a los particulares que lo soliciten, para la formulación de estudios y proyectos del territorio estatal;
+XIII. Actualizar la cartografía catastral del Estado;
 
-XIV. Apoyar a los Municipios de la Entidad y en su caso, al Congreso del Estado, en la determinación de las zonas catastrales, así como de las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones a la propiedad inmobiliaria;
+XIV. Realizar la inspección de los predios ubicados en la circunscripción territorial del Estado para efectos catastrales y de valuación comercial;
 
-XV. Coadyuvar, en el ámbito de su competencia, con las instancias responsables para la definición y determinación de los límites del territorio del Estado y sus Municipios;
+XV. Coadyuvar con los municipios de la Entidad que lo soliciten, en la elaboración de las propuestas de tablas de valores y de zonificación catastral, que les servirán de base para el cobro de las contribuciones a la propiedad inmobiliaria;
 
-XVI. Planear y coordinar la administración, ejecución y evaluación de los programas y censos en materia catastral, de conformidad con la normatividad y lineamientos que para estos efectos emita el Instituto;
+XVI. Coadyuvar, en el ámbito de su competencia, con las instancias responsables para la definición y determinación de los límites del territorio del Estado y sus municipios;
 
-XVII. Coordinar la integración del sistema cartográfico para uso catastral;
+XVII. Realizar los levantamientos prediales, fotogramétricos, geodésicos o cualquier otro mediante los que se efectúe la exploración y estudio del territorio del Estado que le sean requeridos por los propietarios o poseedores de los predios, por los particulares o por las Dependencias y Entidades de la Administración Pública Federal, Estatal o Municipal;
 
-XVIII. Vigilar la actualización de las bases de datos geográficos y alfanuméricos que asegure la integración de un sistema de información único e interactivo en la gestión territorial;
+XVIII. Realizar la investigación de los valores del mercado inmobiliario, así como de la infraestructura, equipamiento urbano y costos de construcción para la emisión de avalúos comerciales y propuesta de valores catastrales unitarios;
 
-XIX. Emitir y publicar en el Periódico Oficial del Estado, el Acuerdo por el que se dé a conocer la circunscripción territorial de las Delegaciones Catastrales del Instituto;
+XIX. Resolver las aclaraciones que promuevan los propietarios o poseedores de predios, en términos de lo previsto por esta Ley y demás disposiciones legales y normatividad aplicable;
 
-XX. Proponer las normas técnicas y administrativas en materia catastral, para lograr homogeneidad en los procesos de elaboración y mantenimiento de la cartografía, registro y valuación de predios, así como para la conformación del Padrón Catastral Estatal, sin perjuicio de las disposiciones municipales que en esta materia se hubieran aprobado;
+XX. Resolver las consultas que sobre situaciones reales y concretas, formulen los interesados en materia catastral;
 
-XXI. Determinar valores catastrales unitarios provisionales de suelo y construcción;
+XXI. Resolver de conformidad con la legislación aplicable, en el ámbito de sus respectivas competencias, el recurso administrativo de revisión catastral que se interponga en contra de los actos emitidos por las autoridades catastrales;
 
-XXII. Cancelar el registro catastral en los casos previstos en esta Ley;
+XXII. Recibir los recursos administrativos de revisión catastral que se interpongan contra los actos emitidos por las autoridades catastrales, en los casos previstos en esta Ley y, turnarlos de manera inmediata con los antecedentes respectivos a la Unidad Administrativa competente para conocer y substanciar los mismos hasta dejarlos en estado de resolución;
 
-XXIII. Conocer y en su caso, resolver los recursos administrativos de revisión que se interpongan en contra de los actos o resoluciones del Instituto, en términos de esta Ley; y
+XXIII. Imponer, de conformidad con los ordenamientos aplicables, los convenios y sus anexos suscritos entre el Estado con la Federación o con los municipios, las sanciones por el incumplimiento a las disposiciones en materia catastral, y
 
-XXIV. Las demás que le señalen esta Ley, el Decreto de Creación del Instituto y el Reglamento Interior del Instituto, así como otras disposiciones aplicables en la materia.
+XXIV. Las demás que le señalen esta Ley, el Decreto de Creación del Instituto y el Reglamento Interior del Instituto, así como otras disposiciones legales y normatividad aplicables en la materia.
 
-Las atribuciones contenidas en este artículo, se podrán ejercer por los servidores públicos del Instituto, en los términos que se establezcan en el Decreto de Creación del Instituto, en su Reglamento Interior o en el Acuerdo Delegatorio correspondiente, con excepción de las atribuciones previstas en las fracciones I, II, III, IV, V y XX, las cuales son indelegables.
+Las atribuciones contenidas en este artículo, se podrán ejercer por las autoridades catastrales del Estado, en los términos que se establezcan en el Decreto de Creación del Instituto, en su Reglamento Interior y demás disposiciones legales aplicables en la materia.
+
+Las autoridades catastrales municipales ejercerán sus atribuciones dentro de la circunscripción territorial de su propio Municipio, en los términos que establezca su respectiva legislación en la materia.
 
 ###### Artículo 17.
 
-Son atribuciones del Director de Gestión Territorial:
-
-I. Actualizar el sistema de información territorial del Estado con base en los registros catastrales;
-
-II. Administrar y actualizar las bases de datos que conforman el Padrón Catastral;
-
-III. Apoyar a los Municipios que así lo soliciten, en la elaboración de las tablas de valores unitarios de suelo y construcción conforme a las disposiciones aplicables y a los convenios que para tal efecto se celebren;
-
-IV. Efectuar y en su caso, apoyar a los Municipios en el correcto desarrollo de la actividad catastral de valuación y revaluación;
-
-V. Coordinar la realización de levantamientos prediales, fotogramétricos, geodésicos o cualquier otro que tenga por objeto la exploración y estudio del territorio del Estado;
-
-VI. Supervisar el cumplimiento de los programas de modernización y actualización catastral; y
-
-VII. Las demás que le señalen esta Ley, el Decreto de Creación del Instituto y el Reglamento Interior del Instituto, así como otras disposiciones aplicables en la materia.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### Artículo 18.
 
-Los Delegados Catastrales, dentro de su circunscripción territorial, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables, ejercerán las atribuciones siguientes:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
-I. Elaborar y proponer al Director General del Instituto, programas en materia catastral y una vez autorizados, ejecutar y administrar los mismos;
-
-II. Efectuar, el registro catastral y sus modificaciones, así como la valuación y revaluación catastral de los predios;
-
-III. Realizar levantamientos prediales, fotogramétricos, geodésicos o cualquier otro mediante los que se efectúe la exploración y estudio del territorio del Estado que le sean requeridos por los propietarios o poseedores de los predios, por los particulares o por las Dependencias y Entidades de la Administración Pública Federal, Estatal o Municipal;
-
-IV. Elaborar y actualizar la cartografía catastral;
-
-V. Recabar, conservar y mantener actualizada la información catastral del Estado con base en los datos que le sean proporcionados por los Municipios, fedatarios públicos, particulares y dependencias oficiales;
-
-VI. Proporcionar información, asesoría, apoyo técnico, bienes y servicios en materia catastral y de información territorial a las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, propietarios, poseedores y a los particulares que lo soliciten;
-
-VII. Determinar valores catastrales unitarios provisionales de suelo y construcción;
-
-VIII. Efectuar la investigación de los valores del mercado inmobiliario, así como de la infraestructura, equipamiento urbano y costos de construcción para la emisión de avalúos comerciales y propuesta de valores catastrales unitarios;
-
-IX. Coadyuvar con los Municipios que lo soliciten, en la elaboración de las propuestas de tablas de valores y de zonificación catastral, que les servirán de base para el cobro de las contribuciones a la propiedad inmobiliaria;
-
-X. Expedir avalúos catastrales, copias certificadas de planos y constancias relacionadas con la información catastral de los predios ubicados en su circunscripción territorial;
-
-XI. Llevar a cabo la inspección de los predios ubicados en su circunscripción territorial para efectos catastrales y de valuación comercial;
-
-XII. Recibir y resolver en el ámbito de su competencia, las consultas que sobre situaciones reales y concretas, le formulen los interesados en materia catastral;
-
-XIII. Recibir los recursos administrativos de revisión que se interpongan en contra de los actos emanados por el Instituto y turnarlos al área encargada de substanciar los mismos; y
-
-XIV. Las demás que les señalen esta Ley, el Decreto de Creación del Instituto y el Reglamento Interior del Instituto, así como las demás disposiciones aplicables en la materia.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 19.
 
-Los Delegados Catastrales representarán al Instituto en la circunscripción territorial que mediante acuerdo determine el Director General del mismo y ejercerán en ésta, las atribuciones que les correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables.
+Los Delegados Catastrales representarán al Instituto en términos de la demarcación que se determine en el Acuerdo de Circunscripción Territorial que emita la Secretaría de Finanzas y Administración.
 
 ###### Artículo 20.
 
@@ -413,7 +411,9 @@ Las autoridades catastrales, proporcionarán la información y documentación a 
 
 Los propietarios o poseedores de predios están obligados a presentar la solicitud de inscripción de éstos ante la autoridad catastral municipal de la jurisdicción en que se encuentren ubicados los bienes, en un plazo que no excederá de treinta días contados a partir de la realización del acto jurídico o hecho en que se adquirió o transmitió el dominio de la propiedad o la posesión de los mismos.
 
-En un plazo que no excederá de treinta días, contados a partir de la terminación de obras o de la realización de los actos o hechos que la originen, se deberá solicitar la modificación de los datos asentados en el registro catastral del predio, en los siguientes casos:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En un plazo que no excederá de treinta días hábiles, contados a partir de la terminación de obras o de la realización de los actos o hechos que la originen, se deberá declarar la modificación de los datos asentados en el registro catastral del predio, en los siguientes casos:
 
 I. Nuevas construcciones, reconstrucciones o la demolición parcial o total del predio;
 
@@ -427,9 +427,11 @@ IV. Cualquier otro cambio que modifique los datos contenidos en el registro cata
 
 Los propietarios o poseedores, sus representantes, administradores o cualquier otra persona encargada de un predio, están obligados a proporcionar a las autoridades catastrales o a los servidores públicos acreditados, los datos, títulos, planos, contratos o cualquier otra documentación e informes que en materia catastral les soliciten; permitiendo en su caso, el acceso al predio para efectuar la inspección y el levantamiento predial, de conformidad con lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 24.
 
-En caso de que el propietario o poseedor de algún predio no solicite la inscripción de éste, la autoridad catastral realizará de oficio el registro correspondiente, de conformidad con lo previsto en esta Ley y de resultar alguna erogación económica por esta actividad será a costa del infractor, sin perjuicio de imponerlas sanciones que procedan.
+En caso de que el propietario o poseedor de algún predio no solicite la inscripción de éste, la autoridad catastral realizará de oficio el registro correspondiente, de conformidad con lo previsto en esta Ley y de resultar alguna erogación económica por esta actividad, será a costa del infractor, conforme a las contribuciones que establezca el Congreso del Estado para cada ejercicio fiscal, sin perjuicio de imponer las sanciones que procedan.
 
 ###### Artículo 25.
 
@@ -453,9 +455,13 @@ Las autoridades catastrales, estatales o municipales, comunicarán mediante ofic
 
 Las autoridades catastrales realizarán de oficio o a petición de parte interesada y de conformidad con lo previsto en esta Ley, la inspección de predios, el levantamiento predial y los censos catastrales, entre otras operaciones catastrales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 30.
 
-Las autoridades catastrales a solicitud de los propietarios, poseedores o sus representantes legales, expedirán en un plazo no mayor de quince días, cédulas catastrales, constancias y demás documentos que contengan la información catastral de los predios de su propiedad o posesión. A los fedatarios públicos, sólo se les expedirán de los bienes objeto de los actos jurídicos en que intervengan en ejercicio de sus funciones.
+Las autoridades catastrales a solicitud de los propietarios, poseedores o sus representantes legales, expedirán en un plazo no mayor a quince días hábiles, contados a partir de la ejecución de las operaciones catastrales de que se trate, las cédulas catastrales, constancias y demás documentos que contengan la información catastral de los predios de su propiedad o posesión.
+
+A solicitud de los fedatarios públicos, la autoridad catastral deberá expedir, en términos de las disposiciones legales y la normatividad aplicables, los documentos respecto a bienes objeto de los actos jurídicos en que intervengan en ejercicio de sus funciones.
 
 ###### Artículo 31.
 
@@ -475,9 +481,13 @@ IV. La (sic) demás que mediante convenio se determine.
 
 La información a que se refiere este artículo se proporcionará en la forma y términos en que el Instituto las dé a conocer a los Municipios.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 33.
 
-Las oficinas estatales y municipales encargadas de otorgar licencias y permisos para construcción y demolición de edificaciones, deberán destinar copia de dichas autorizaciones a la autoridad catastral municipal dentro de los treinta días siguientes a la fecha de expedición.
+Las oficinas estatales y municipales encargadas de otorgar licencias y permisos para construcción y demolición; así como, cuando otorguen autorizaciones para fraccionar predios urbanos, deberán destinar copia de dichos documentos a la Autoridad Catastral Municipal dentro de los treinta días siguientes a la fecha de expedición.
+
+Una vez que se haya realizado la manifestación o declaración de la modificación o cambio de las características físicas del predio ante el Instituto, éste emitirá al propietario o poseedor una constancia de actualización de características físicas del predio.
 
 ###### Artículo 34.
 
@@ -491,9 +501,11 @@ Las autoridades competentes deberán informar a la autoridad catastral municipal
 
 Las autoridades municipales que instrumenten programas de desarrollo regional y urbano, deberán informar a la autoridad catastral municipal de su conclusión, dentro de los treinta días siguientes a ésta.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 37.
 
-Las autoridades competentes en materia de regularización de la tenencia de la tierra, deberán proporcionar a la autoridad catastral, la cartografía o planos de los predios regularizados, dentro de los treinta días siguientes a la fecha de su inscripción en el Registro Público de la Propiedad.
+Las autoridades competentes en materia de regularización de la tenencia de la tierra, deberán proporcionar a la autoridad catastral, la cartografía o planos de los predios regularizados, dentro de los treinta días hábiles siguientes a la fecha de su inscripción en el Registro Público de la Propiedad, acompañando los datos de inscripción.
 
 ###### Artículo 38.
 
@@ -909,17 +921,29 @@ VI. Incurrir en cualquier otro acto u omisión, distinto de los enumerados en la
 
 A quien cometa las infracciones a que se refiere el artículo anterior, la autoridad catastral impondrá las sanciones siguientes:
 
-I. Multa de tres a cinco días de salario mínimo diario vigente en el Estado, por infringir lo dispuesto en la fracción VI;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II. Multa de tres a ocho días de salario mínimo diario vigente en el Estado, por infringir lo dispuesto en la fracción V;
+I. Multa de $195.00 a $320.00, por infringir lo dispuesto en la fracción VI;
 
-III. Multa de tres a diez días de salario mínimo diario vigente en el Estado, por infringir lo dispuesto en la fracción I;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV. Multa de cinco a quince días de salario mínimo diario vigente en el Estado, por infringir lo dispuesto en la fracción III;
+II. Multa de $195.00 a $515.00, por infringir lo dispuesto en la fracción V;
 
-V. Multa de quince a treinta días de salario mínimo diario vigente en el Estado, por infringir lo dispuesto en la fracción II; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VI. Multa de veinte a treinta días de salario mínimo diario vigente en el Estado, por infringir lo dispuesto en la fracción IV.
+III. Multa de $195.00 a $640.00, por infringir lo dispuesto en la fracción I;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. Multa de $320.00 a $960.00, por infringir lo dispuesto en la fracción III;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V. Multa de $960.00 a $1,195.00, por infringir lo dispuesto en la fracción II, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VI. Multa de $1,280.00 a $1,915.00, por infringir lo dispuesto en la fracción IV.
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por tres veces al monto originalmente impuesto, sin exceder del doble del máximo permitido.
 
@@ -1152,3 +1176,11 @@ P.O. 13 DE SEPTIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las disposiciones reglamentarias que deriven de las presentes reformas se efectuarán dentro del plazo de sesenta días hábiles, a partir de su publicación en el Periódico Oficial del Estado.
