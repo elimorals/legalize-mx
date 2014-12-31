@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2013-12-31"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -61,13 +61,15 @@ Para cubrir el gasto público y las demás obligaciones a su cargo, el Estado pe
 
 Las personas físicas y morales están obligadas al pago de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos, conforme a las disposiciones de esta Ley y de la Ley de Ingresos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 4°.
 
-Las cantidades en moneda nacional correspondientes a las cuotas, contribuciones, sanciones, aprovechamientos y devoluciones a cargo de la Secretaría de Finanzas, que se establezcan en las leyes fiscales, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban de actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones, cuotas, sanciones y aprovechamientos, así como las devoluciones a cargo de la Secretaría de Finanzas, no se actualizarán por fracciones de mes.
+Las cantidades en moneda nacional correspondientes a las cuotas, contribuciones, sanciones, aprovechamientos, que se establezcan en las leyes fiscales, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban de actualizar. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones, cuotas, sanciones y aprovechamientos, no se actualizarán por fracciones de mes.
 
-En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo de que se trate, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+Los Índices Nacionales de Precios al Consumidor son publicados en el Diario Oficial de la Federación, en caso de que el Índice del mes anterior, al mes más reciente del período no haya sido publicado, la actualización de que se trate se realizará aplicando el último Índice mensual publicado.
+
+Cuando el resultado de la operación a que se refiere el primer párrafo de este Artículo sea menor a 1, el factor de actualización que se aplicará será 1. Así mismo, para la determinación del factor, las operaciones aritméticas procedentes se calcularán hasta diezmilésimo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -75,19 +77,31 @@ En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior
 
 Las infracciones a la presente ley se sancionarán de conformidad con lo previsto por el Código Fiscal del Estado.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-ARTICULO 5° BIS.- El pago de los impuestos a que se refiere esta Ley se podrá hacer en cualquiera de las formas que a continuación se señalan, a menos que en los capítulos correspondientes a los diversos impuestos se establezcan formas de pago diferentes:
+ARTICULO 5° BIS.- El pago de las contribuciones o aprovechamientos a que se refiere esta Ley se podrá hacer en cualquiera de las formas que a continuación se señalan, a menos que en los capítulos correspondientes a los diversos impuestos se establezcan formas de pago diferentes:
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 a) En las cajas de la Secretaría de Finanzas del Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 b) En las cajas de las instituciones de banca y crédito autorizadas para ello por la Secretaría de Finanzas del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 c) Mediante transferencia electrónica a través de las instituciones de banca y crédito autorizadas para ello por la Secretaría de Finanzas del Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 d) En las cajas de las empresas comerciales autorizadas para ello por la Secretaría de Finanzas del Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 En relación a los pagos señalados en los incisos que anteceden y en cuanto al monto de dichos pagos se tendrá en cuenta el límite establecido por la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita en cuanto se trate de pagos en efectivo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Los pagos de referencia se documentarán usando las formas autorizadas por la Secretaría de Finanzas del Estado, o con las formas precodificadas autorizadas para ello.
 
@@ -113,7 +127,7 @@ Se causará el impuesto por los siguientes actos:
 
 I.- La realización de los siguientes negocios jurídicos:
 
-a) Constitución de sociedades civiles y mercantiles;
+a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 b) Fusión de sociedades civiles y mercantiles;
 
@@ -123,7 +137,9 @@ d) Disolución y liquidación de sociedades;
 
 e) Cualquier otra modificación a escrituras constitutivas de sociedades;
 
-f) Contratos de mutuo entre particulares, con garantía prendaria o hipotecaria, así como la constitución de estas garantías para el cumplimiento de cualquier otra obligación;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+f) Contratos de mutuo entre particulares con o sin garantía, así como la constitución de garantías, para el cumplimiento de cualquier otra obligación.
 
 g) Cesión de los derechos derivados de los actos y contratos a que se refiere el inciso f) anterior;
 
@@ -133,7 +149,9 @@ i) Rectificaciones o ratificaciones de cualquier acto o contrato;
 
 j) Celebración de instrumentos privados; y
 
-k) Celebración de contratos de arrendamiento puro o financiero en todas sus modalidades, entre particulares o instituciones de crédito, o entre ambos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+k) Celebración de contratos de arrendamiento puro o financiero en todas sus modalidades, entre personas de derecho privado.
 
 II.- Cualquier otro tipo de acto o contrato que represente o no intereses pecuniarios para los otorgantes, siempre que el acto contenido en éstos no esté gravado por otro impuesto previsto en la presente Ley, así como las actas notariales que contengan certificación de hechos;
 
@@ -163,7 +181,9 @@ Será base para el pago de este impuesto el monto establecido por las partes en 
 
 Si las obligaciones pecuniarias se estipulan a base de obligaciones periódicas, su monto se calculará por la suma de todas ellas.
 
-En el caso de que no exista o no pudiera ser determinable una obligación pecuniaria derivada de los contratos y/o actos jurídicos y notariales, el impuesto se determinará a razón de una cuota fija por cada foja en las que obre el contrato o acto jurídico respectivo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En el caso de que no exista o no pudiera ser determinable una obligación pecuniaria derivada de los contratos y/o actos jurídicos y notariales, el impuesto se determinará a razón de un salario mínimo general diario vigente en el Estado de Aguascalientes, por cada acto jurídico que obre en el instrumento respectivo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -175,31 +195,49 @@ En el caso de que no exista o no pudiera ser determinable una obligación pecuni
 
 El impuesto se causará de conformidad con las siguientes cuotas o tarifas:
 
-I.- Por la constitución de sociedades civiles y mercantiles la base del impuesto será el capital de la sociedad y sobre dicho monto se causará el impuesto a razón de seis al millar;
+I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 II.- Por la fusión de sociedades civiles y mercantiles la base del impuesto será la diferencia entre el capital social de la fusionante antes y después de la fusión y sobre dicho monto se causará el impuesto a razón de seis al millar;
 
 III.- Por los aumentos de capital de sociedades civiles y mercantiles la base será el importe del capital aumentado y sobre dicho monto se causará el impuesto a razón de seis al millar;
 
-IV.- Por la disolución y liquidación de sociedades la base del impuesto será el número de fojas del instrumento y se causará el impuesto a razón de .5 salarios mínimos generales por cada una;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-V.- Por cualquier otra modificación a escrituras constitutivas de sociedades la base del impuesto será el número de fojas del documento donde conste la modificación y se causará el impuesto a razón de .5 salarios mínimos generales por cada una;
+IV.- Por la disolución y liquidación de sociedades, se causará el impuesto a razón de un salario mínimo general diario, vigente en el Estado de Aguascalientes, por cada acto;
 
-VI.- Por los contratos de mutuo entre particulares, con garantía prendaria o hipotecaria, así como la constitución de garantías para el cumplimiento de cualquier otra obligación la base del impuesto será el importe del contrato y sobre dicho monto se causará el impuesto a razón de seis al millar;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V.- Por cualquier otra modificación a escrituras constitutivas de sociedades, se causará el impuesto a razón de un salario mínimo general diario, vigente en el Estado de Aguascalientes, por cada acto;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VI.- Por los contratos de mutuo entre particulares con o sin garantía, así como la constitución de garantías, para el cumplimiento de cualquier otra obligación, la base del impuesto será el importe del contrato y sobre dicho monto se causará el impuesto a razón de 6 al millar;
 
 VII.- Por la cesión de los derechos derivados de los actos y contratos previsto en la Fracción inmediata anterior la base del impuesto será el monto de los actos jurídicos y sobre dicho monto se causará el impuesto a razón de seis al millar;
 
-VIII.- Por el otorgamiento, sustitución, renuncia o revocación de poderes la base del impuesto será el número de fojas del documento donde conste el acto y se causará el impuesto a razón de .5 salarios mínimos generales por cada una;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IX.- Por las rectificaciones o ratificaciones de cualquier acto o contrato la base del impuesto será el número de fojas del documento donde conste el acto y se causará el impuesto a razón de .5 salarios mínimos generales por cada una;
+VIII.- Por el otorgamiento, sustitución, renuncia o revocación de poderes, se causará el impuesto a razón de un salario mínimo general diario, vigente en el Estado de Aguascalientes, por cada acto;
 
-X.- Por la celebración de instrumentos privados la base del impuesto será el número de fojas del documento donde conste el acto y se causará el impuesto a razón de .5 salarios mínimos generales por cada una;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XI.- Por la celebración de contratos de arrendamiento puro o financiero en todas sus modalidades, entre particulares o instituciones de crédito, o entre ambos, la base será el monto del contrato y sobre dicho monto se causará el impuesto a razón de seis al millar;
+IX.- Por las rectificaciones o ratificaciones de cualquier acto o contrato, se causará el impuesto a razón de un salario mínimo general diario, vigente en el Estado de Aguascalientes, por cada acto;
 
-XII.- Por cualquier otro tipo de acto o contrato que represente o no intereses pecuniarios para los otorgantes, siempre que el acto contenido en éstos no esté gravado por otro impuesto estatal, así como las actas notariales que contengan certificación de hechos la base del impuesto será el número de fojas del documento donde conste el acto y se causará el impuesto a razón de .5 salarios mínimos generales por cada una;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIII.- Cuando no exista o no pudiera ser determinable una obligación pecuniaria derivada de los contratos y/o actos jurídicos y notariales objeto de la presente contribución, la base del impuesto será el número de fojas del documento donde conste el acto y se causará el impuesto a razón de .5 salarios mínimos generales por cada una.
+X.- Por la celebración de instrumentos privados, se causará el impuesto a razón de un salario mínimo general diario, vigente en el Estado de Aguascalientes, por cada acto;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XI.- Por la celebración de contratos de arrendamiento puro o financiero en todas sus modalidades, entre personas de derecho privado, la base será el monto del contrato y sobre dicho monto se causará el impuesto, a razón de seis al millar;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XII.- Por cualquier otro tipo de acto o contrato que represente o no intereses pecuniarios para los otorgantes, siempre que el acto contenido en éstos no esté gravado por otro impuesto estatal, así como las actas notariales que contengan certificación de hechos, se causará el impuesto a razón de un salario mínimo general diario, vigente en el Estado de Aguascalientes, por cada acto;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIII.- Cuando no exista o no pudiera ser determinable una obligación pecuniaria derivada de los contratos y/o actos jurídicos y notariales objeto de la presente contribución, se causará el impuesto a razón de un salario general diario, vigente en el Estado de Aguascalientes, por cada acto.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -226,6 +264,10 @@ Los notarios, corredores públicos o quienes hagan sus veces, los registradores 
 Los fedatarios públicos o quienes hagan sus veces, los particulares, tratándose de documentos privados u otorgados fuera del Estado y los servidores públicos, cuando sea potestativa la protocolización de sus resoluciones, deberán dar aviso a la Secretaría de Finanzas del Estado de los actos o contratos en que intervengan, gravados por el impuesto que regula este capítulo, así como atender las solicitudes de información que le realice la Secretaría de Finanzas del Estado respecto de operaciones celebradas y gravadas por este impuesto.
 
 Si los actos jurídicos se hacen constar en documentos privados, el cálculo y entero del impuesto deberá efectuarlo cualquiera de los otorgantes, siendo todos ellos responsables del pago del impuesto de forma mancomunada y solidaria.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En los casos en que se protocolicen actos de aumentos de capital de sociedades civiles y mercantiles, a que se refiere el inciso c), de la fracción I, del artículo 6° de esta Ley, que se hubieren realizado antes del ejercicio fiscal del año 2014, los fedatarios públicos estarán obligados a cerciorarse con medios idóneos de prueba que el acto de que se trate se realizó antes de ese ejercicio, cuando menos con los registros contables del aumento de capital y la declaración anual del Impuesto Sobre la Renta del ejercicio en que se acordó el aumento, presentada ante el Servicio de Administración Tributaria, donde se vea reflejado el registro de dicho aumento de capital, o estados de cuenta bancarios que acrediten el depósito correspondiente al aumento de capital, a hacer constar tal hecho en una cláusula en la escritura correspondiente y conservar en el Apéndice del Protocolo copia de las pruebas aportadas por la sociedad civil o mercantil de que se trate. De no cumplir con esta obligación, se presumirá que el hecho generador del impuesto se dio a partir de la entrada en vigor del presente Capítulo, y la autoridad podrá determinar la responsabilidad solidaria en el pago de este impuesto hasta por el importe de éste.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -263,9 +305,17 @@ XII.- Los actos en que se consignen disposiciones testamentarias, así como las 
 
 XIII.- Los actos que contengan operaciones gravadas con algún otro impuesto establecido por esta Ley o por el Impuesto sobre Adquisición de Inmuebles;
 
-XIV.- Los contratos individuales o colectivos de trabajo; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XV.- Adjudicación de bienes a víctimas por reparación del daño en términos de la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+XIV.- Los contratos individuales o colectivos de trabajo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XV.- Adjudicación de bienes a víctimas por reparación del daño en términos de la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVI.- La constitución de sociedades civiles y mercantiles.
 
 ###### ARTICULO 14.
 
@@ -493,7 +543,9 @@ XII.- Constituir garantía del interés fiscal en alguna de las formas previstas
 
 Los contribuyentes eventuales, deberán cumplir las siguientes obligaciones:
 
-I.- Constituir garantía del interés fiscal, en alguna de las formas previstas en el Código Fiscal del Estado ante la Autoridad Fiscal Estatal, previamente a la realización del evento, por un monto equivalente al cien por ciento de los boletos emitidos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I.- Constituir garantía del interés fiscal, en alguna de las formas previstas en el Código Fiscal del Estado ante la Autoridad Fiscal Estatal, previamente a la realización del evento, por un importe equivalente al 6.5 por ciento del monto total de los boletos emitidos.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -621,15 +673,21 @@ Para la aplicación de este Capítulo, se estará a lo dispuesto en los Lineamie
 
 ### CAPITULO III
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE APARTADO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 APARTADO A
 
 Del Impuesto Sobre Tenencia o Uso de Vehículos Automotores
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION PRIMERA. De los Sujetos
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -637,17 +695,21 @@ Del Impuesto Sobre Tenencia o Uso de Vehículos Automotores
 
 Están obligadas al pago de este impuesto las personas físicas y morales que sean usuarias o tenedoras de vehículos automotores de modelo anterior a los diez últimos ejercicios fiscales, que circulen de manera habitual por la circunscripción territorial del Estado de Aguascalientes. Se presumirá lo anterior cuando el propietario, tenedor o usuario, tenga domicilio en el Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Este impuesto se causará por ejercicios fiscales los cuales se fijarán por año calendario. El pago del impuesto se efectuará durante los tres primeros meses del ejercicio ante las oficinas autorizadas por la Secretaría de Finanzas del Estado, y en las formas por ella aprobadas. El pago referido también podrá hacerse a través medios (sic) electrónicos, con cargo a tarjeta de crédito o débito, o transferencia electrónica, cumpliendo los requisitos que establece la ley Sobre el Uso de Medios Electrónicos del Estado de Aguascalientes y usando las formas autorizadas por la Secretaría de Finanzas del Estado o con las formas precodificadas que al efecto la autoridad fiscal tenga en uso.
+Este impuesto se causará por ejercicios fiscales los cuales se fijarán por año calendario. El pago del impuesto se efectuará durante los tres primeros meses del ejercicio ante las oficinas autorizadas por la Secretaría de Finanzas del Estado, y en las formas por ella aprobadas, conjuntamente con los derechos por servicios de control vehicular por el refrendo anual del registro del vehículo en el Padrón Vehicular del Estado. El pago referido también podrá hacerse a través de medios electrónicos, con cargo a tarjeta de crédito o débito, o transferencia electrónica, cumpliendo los requisitos que establece la Ley Sobre el Uso de Medios Electrónicos del Estado de Aguascalientes y usando las formas autorizadas por la Secretaría de Finanzas del Estado o con las formas pre codificadas que al efecto la autoridad fiscal tenga en uso.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 No estarán obligados al pago de este impuesto los tenedores o usuarios de vehículos automotores que circulen con placas definitivas asignadas por otras entidades federativas, que acrediten ante la Secretaría de Finanzas del Estado que se pagó un gravamen similar por el mismo ejercicio fiscal. Para aquellos vehículos que circulen con placas de circulación de transporte público federal, el impuesto se pagará por transferencia electrónica o en las oficinas correspondientes al domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEGUNDA. Del Objeto
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -667,9 +729,13 @@ d) Camiones: vehículos destinados para el transporte de bienes o personas y bie
 
 e) Tractocamiones: vehículos fabricados para arrastrar remolques enganchados mediante sistemas mecánicos o hidráulicos, accionados por motores de combustión interna sin importar el número de cilindros.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION TERCERA. De la Base
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -677,9 +743,13 @@ e) Tractocamiones: vehículos fabricados para arrastrar remolques enganchados me
 
 El presente impuesto se causará por la tenencia o uso de automóviles, motocicletas, ómnibus, camiones y tractocamiones, que sean de año modelo posterior a diez ejercicios fiscales a partir del año de su fabricación, accionados por motores de combustión interna sin importar el número de cilindros.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION CUARTA. Del Pago
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -727,9 +797,13 @@ Las compañías aseguradoras no podrán acreditar el impuesto correspondiente, t
 
 El importe a acreditar no será sujeto de devolución.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION QUINTA. De la Responsabilidad Solidaria
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -743,9 +817,9 @@ I. Quienes por cualquier título adquieran la propiedad, tenencia o uso de vehí
 
 II.- Las personas físicas o morales con actividad permanente o temporal de compraventa de vehículos automotores, o que los reciban en consignación o comisión, la responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-III.- Los servidores públicos que en ejercicio de sus funciones, autoricen movimientos al padrón vehicular del Estado de Aguascalientes, sin cerciorarse con la documentación comprobatoria correspondiente de su pago. La responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados. Lo anterior, sin perjuicio de las responsabilidades de los servidores públicos del Estado de Aguascalientes;
+III.- Los servidores públicos que en ejercicio de sus funciones, autoricen movimientos al padrón vehicular del Estado de Aguascalientes, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de ésta obligación. La responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados. Lo anterior, sin perjuicio de las responsabilidades de los servidores públicos del Estado de Aguascalientes.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -755,9 +829,13 @@ IV.- Quien aparezca como propietario en el Registro del Padrón Vehicular del Es
 
 V.- El que enajene un vehículo, cuando a la fecha de la enajenación no se haya realizado el cambio de propietario.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEXTA. De las Excepciones
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -769,7 +847,9 @@ I.- Cuyo usuario o tenedor a que se refiere este Apartado sea una persona con di
 
 Esta excepción se limita a un vehículo por persona.
 
-II.- Cuyo usuario o tenedor a que se refiere este Apartado, refrende en el Padrón Vehicular del Estado su registro a más tardar el 31 de marzo del ejercicio fiscal que trascurra, de conformidad con la Ley de Ingresos del Estado de Aguascalientes correspondiente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II.- Cuyo usuario o tenedor a que se refiere este Apartado, pague los derechos por servicios de control vehicular por el refrendo anual del registro del vehículo en el Padrón Vehicular del Estado, a más tardar el 31 de marzo del ejercicio fiscal que trascurra, de conformidad con la Ley de Ingresos del Estado de Aguascalientes del ejercicio fiscal correspondiente y además, al momento del pago, el contribuyente interesado compruebe ante la Secretaría de Finanzas del Estado no tener adeudos por contribuciones federales y/o estatales derivadas del uso o tenencia del vehículo de que se trate.
 
 III.- Tractores destinados a actividades agrícolas.
 
@@ -777,11 +857,11 @@ III.- Tractores destinados a actividades agrícolas.
 
 #### SECCION SEPTIMA. Del Padrón Vehicular del Estado de Aguascalientes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 36.
 
-El Padrón Vehicular del Estado será electrónico y estará a cargo de la Secretaría de Finanzas del Estado, en el cual se inscribirán las unidades que por mandato de la Ley de Vialidad del Estado deban de portar placas de circulación asignadas por el Gobierno del Estado.
+El Padrón Vehicular del Estado será electrónico y formará parte del Registro de Contribuyentes del Estado; estará a cargo de la Secretaría de Finanzas del Estado, en el cual se inscribirán las unidades que por mandato de la Ley de Vialidad del Estado de Aguascalientes deban de portar placas de circulación asignadas por el Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -839,13 +919,15 @@ Para realizar cualquiera de los trámites antes señalados, excepto en cambio de
 
 Los trámites deberán efectuarse ante las oficinas autorizadas por la Secretaría de Finanzas del Estado, o bien por medios electrónicos con firma electrónica certificada, cuando la naturaleza del trámite lo permita, cumpliendo los requisitos que establezca el Reglamento del Padrón Vehicular del Estado dentro de los 30 días naturales siguientes a la fecha de la operación que de origen al trámite de que se trate.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Para obtener la baja del Padrón Vehicular del Estado o realizar el canje de placas, el interesado debe entregar las placas respectivas a la autoridad fiscal, salvo en los casos de robo o destrucción de las mismas, en los términos señalados en el Reglamento del Padrón Vehicular del Estado.
+Para obtener la baja del Padrón Vehicular del Estado o realizar el canje de placas, el interesado debe entregar las placas respectivas a la autoridad fiscal, salvo en los casos de robo o destrucción de las mismas, y en los casos de baja administrativa en los términos señalados en el Reglamento del Padrón Vehicular del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Se presume, que el usuario o tenedor del vehículo automotor, es quien se encuentra registrado como propietario ante la Secretaria de Finanzas del Estado.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE APARTADO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -855,17 +937,23 @@ APARTADO B
 
 Del Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 Años Modelo Anterior
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### SECCION PRIMERA. De los Sujetos
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ARTICULO 36 A.- Están obligados al pago de este impuesto las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere este Apartado, que circulen de manera habitual por la circunscripción territorial del Estado de Aguascalientes y tenga su domicilio en el mismo.
 
-Los contribuyentes pagarán el Impuesto por año de calendario durante los tres primeros meses del ejercicio fiscal respectivo ante las oficinas autorizadas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Los contribuyentes pagarán el Impuesto por año de calendario durante los tres primeros meses del ejercicio fiscal respectivo ante las oficinas autorizadas por la Secretaría de Finanzas del Estado, y en las formas por ella aprobadas, conjuntamente con los derechos por servicios de control vehicular por el refrendo anual del registro del vehículo en el Padrón Vehicular del Estado.
 
 En los casos de vehículos nuevos o importados, el impuesto a que se refiere el presente Apartado deberá calcularse y enterarse a más tardar durante los treinta días naturales siguientes a aquel en que se adquirió o importó el vehículo ante las oficinas autorizadas.
 
@@ -880,6 +968,8 @@ Las personas físicas o morales cuya actividad sea la enajenación de vehículos
 En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de este Impuesto, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar este impuesto aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -939,6 +1029,8 @@ h) Motocicletas.
 
 VIII.- Comerciantes en el ramo de vehículos: a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ARTICULO 36 C.- El presente impuesto se causará por el uso o tenencia de vehículos que son objeto de este Apartado.
@@ -950,6 +1042,8 @@ En caso de que no puedan comprobarse los años de antigüedad del vehículo, se 
 Tratándose de vehículos de procedencia extranjera, se tomará como base la de los vehículos de las mismas características y modelo, registrados en el Padrón Vehicular del Estado de Aguascalientes, el cual se llevará a cabo sumando todos los importes de facturas de la primera enajenación al primer consumidor de los vehículos registrados con la misma clave vehicular otorgada por el Servicio de Administración Tributaria, de año y modelo igual y se divide entre el número de ellas.
 
 Cuando el contribuyente de este impuesto sufra el robo, o pérdida total del vehículo y que éste se encuentre registrado en el padrón vehicular del Estado de Aguascalientes, pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto del mismo siempre y cuando se acredite dicho supuesto a entera satisfacción de la Secretaría de Finanzas del Estado.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -1143,6 +1237,8 @@ Las compañías aseguradoras no podrán acreditar el impuesto correspondiente, t
 
 El importe a acreditar no será sujeto de devolución.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ARTICULO 36 E.- Son solidariamente responsables del pago de este impuesto:
@@ -1161,11 +1257,15 @@ IV.- Quien aparezca como propietario en el Registro del Padrón Vehicular del Es
 
 V.- El que enajene un vehículo, cuando a la fecha de la enajenación no se haya realizado el cambio de propietario.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### SECCION SEGUNDA. Del Objeto
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -1191,9 +1291,9 @@ IV.- Los encomendados al servicio de misiones Diplomáticas y Consulares de carr
 
 V.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, distribuidoras y los comerciantes del ramo de vehículos, siempre y cuando carezcan de placas de circulación;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VI.- Los vehículos destinados para el transporte de hasta quince pasajeros, pick up y motocicletas accionados con motores de combustión interna sin importar el número de cilindros, energía eléctrica y/o híbridos cuando el valor total del vehículo y el Impuesto al Valor Agregado consignados en su factura de primera enajenación, sumados den como resultado la cantidad de hasta $300,000.00. Para que la presente excepción surta efectos, será necesario que el usuario tenedor a que se refiere este Apartado, refrende en el Padrón Vehicular del Estado su registro a más tardar el 31 de marzo del ejercicio fiscal que transcurra, de conformidad con la Ley de Ingresos del Estado de Aguascalientes correspondiente y tratándose de vehículos nuevos adquiridos después de esa fecha para que la excepción surta efectos, será necesario que el usuario o tenedor a que se refiere este apartado, lo registre dentro del plazo que la Secretaría de Finanzas del Estado al efecto determine en reglas de carácter general; y
+VI.- Los vehículos destinados para el transporte de hasta quince pasajeros, pick up y motocicletas accionados con motores de combustión interna sin importar el número de cilindros, energía eléctrica y/o híbridos cuando el valor total del vehículo y el Impuesto al Valor Agregado consignados en su factura de primera enajenación, sumados den como resultado la cantidad de hasta $300,000.00. Para que la presente excepción surta efectos, será necesario que el usuario tenedor a que se refiere este apartado, deberá pagar los derechos por servidos de control vehicular por el refrendo anual del vehículo en el Padrón Vehicular del Estado, a más tardar el 31 de marzo del ejercicio fiscal que transcurra, de conformidad con la Ley de Ingresos del Estado de Aguascalientes correspondiente y además, al momento del pago, el contribuyente interesado compruebe ante la Secretaría de Finanzas del Estado no tener adeudos por contribuciones federales y/o estatales derivadas del uso o tenencia del vehículo de que se trate; y, tratándose de vehículos nuevos adquiridos a partir del 1 de marzo del ejercicio fiscal que transcurra, para que la excepción surta efectos, será necesario que el usuario o tenedor a que se refiere este apartado, lo registre dentro del plazo que la Secretaría de Finanzas del Estado al efecto determine en reglas de carácter general; y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1203,6 +1303,8 @@ VII.- Tratándose de tractores destinados a actividades agrícolas.
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el usuario o el tenedor del mismo deberán pagar el impuesto correspondiente dentro de los quince días siguientes a aquél en que tenga lugar el hecho de que se trate.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
@@ -1210,6 +1312,8 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 #### SECCION TERCERA. De la Base
 
 ARTICULO 36 G.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1231,6 +1335,8 @@ ARTICULO 36 M.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
 ARTICULO 36 N.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
@@ -1238,6 +1344,8 @@ ARTICULO 36 N.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 #### SECCION QUINTA. De la Responsabilidad Solidaria
 
 ARTICULO 36 O.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1275,9 +1383,7 @@ No se considerarán servicios de hospedaje, el albergue o alojamiento prestados 
 
 Están obligadas al pago de este impuesto, las personas físicas y morales que dentro del Estado de Aguascalientes, de manera permanente o temporal, presten servicios de albergue u hospedaje en hoteles, moteles, casas de huéspedes o cualquier instalación creada o utilizada para ese fin, a cambio de una contraprestación en dinero o en especie, sin importar la duración de los mismos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-Para efectos del párrafo anterior, se entenderá que el pago del impuesto se realiza de forma espontánea, cuando el mismo se realice antes del inicio del ejercicio de las facultades de comprobación relativas al cumplimiento de las obligaciones fiscales, previstas en el Código Fiscal del Estado de Aguascalientes, o antes de que dé inicio el Procedimiento Administrativo de Ejecución por la Secretaría de Finanzas del Estado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1605,7 +1711,9 @@ V.- Los obtenidos de sorteos de bonos del ahorro nacional y de planes de ahorro 
 
 VI.- Las sociedades o asociaciones de carácter civil que se dediquen a la enseñanza, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación, así como las instituciones creadas por ley o por decreto presidencial, cuyo objeto sea la enseñanza, cuando estén autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, siempre que los ingresos obtenidos se destinen a los fines propios de su objeto social, no se otorguen a persona alguna beneficios sobre el remanente distribuible y que al momento de su liquidación y con motivo de la misma, destinen la totalidad de su patrimonio a entidades autorizadas por el Servicio de Administración Tributaria para recibir donativos deducibles.
 
-VII.- Los organismos públicos centralizados y descentralizados de la administración pública estatal o municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, por la enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos, concursos y juegos con apuestas de toda clase, organizados por estos organismos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VII.- Los organismos públicos centralizados y descentralizados de la administración pública federal, estatal o municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, por la enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos, concursos y juegos con apuestas de toda clase, organizados por estos organismos;
 
 VIII.- Los Ayuntamientos del Estado que destinen el producto de las actividades gravadas por este impuesto a la asistencia social o privada, previa autorización de la Secretaría de Finanzas del Estado.
 
@@ -1725,9 +1833,9 @@ La Federación, el Distrito Federal, los Estados, los Municipios, los organismos
 
 #### SECCION TERCERA. De la Base
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-ARTICULO 70 C.- La base de este impuesto será el valor de enajenación de los bienes objeto de la presente contribución, siendo éste el precio de venta, adicionado con las cantidades que por cualquier otro concepto se carguen o cobren al adquirente del bien, con exclusión del impuesto al valor agregado e impuesto especial sobre producción y servicios.
+ARTICULO 70 C.- La base de este impuesto será el valor de enajenación de los bienes objeto de la presente contribución, siendo éste el precio de venta, disminuyendo el impuesto al valor agregado e impuesto especial sobre producción y servicios que le corresponda según la Ley de la materia.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -1807,11 +1915,13 @@ ARTICULO 70 H.- Los municipios recibirán cuando menos el 20% de la recaudación
 
 Es objeto de este impuesto la adquisición de vehículos usados de motor que se realice en el Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 56.
 
-Se considera que la adquisición se realizó en el Estado cuando el adquiriente deba llevar a cabo los trámites de cambio de propietario o matriculación del vehículo, ante las autoridades estatales correspondientes.
+Se considera que la adquisición se realizó en el Estado cuando el adquiriente deba llevar a cabo los trámites de cambio de propietario o inscripción del vehículo, en el Padrón Vehicular del Estado.
+
+En los casos en que la transmisión de la propiedad hubiese sido efectuada en otra entidad federativa, se deberá acreditar ante la Secretaría de Finanzas del Estado de Aguascalientes el pago de un gravamen similar con el comprobante original del pago correspondiente, en caso de no hacerlo se estará a lo dispuesto en el párrafo anterior.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1967,9 +2077,9 @@ XV.- Instrumentos y materiales necesarios para la ejecución del trabajo; y
 
 XVI.- Remuneraciones a favor de trabajadores con discapacidad, siempre que el salario del trabajador no sea mayor a cinco veces el salario mínimo general vigente en el Estado; en su caso se exentará sólo sobre dicha cantidad.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Para que los conceptos mencionados en este precepto, se excluyan como integrantes de la base del Impuesto sobre Nóminas, deberán estar registrados en la contabilidad del contribuyente, si fuera el caso.
+Para que los conceptos mencionados en este precepto, se excluyan como integrantes de la base del Impuesto sobre Nóminas, deberán estar registrados en la contabilidad del contribuyente, si fuera el caso. Así mismo, la Secretaría de Finanzas del Estado, podrá requerir la documentación que compruebe que esos conceptos se excluyen del salario del trabajador.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2664,3 +2774,23 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Finanzas del Estado, una vez que cuente con la infraestructura necesaria, emitirá las formas precodificadas e implementará el uso de medios electrónicos.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+EI presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir del 1 de enero de 2016, quedan derogados el Apartado A "Del Impuesto Sobre Tenencia o Uso de Vehículo Automotores"; la Sección Primera "De los Sujetos"; la Sección Segunda "Del Objeto"; la Sección Tercera "De la Base"; la Sección Cuarta "Del Pago"; la Sección Quinta "De la Responsabilidad Solidaria"; la Sección Sexta "De las Excepciones"; el Apartado B "Del Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 Años Modelo Anterior"; la Sección Primera "De los Sujetos"; la Sección Segunda "Del Objeto"; la Sección Tercera "De la Base"; la Sección Cuarta "Del Pago"; la Sección Quinta "De la Responsabilidad Solidaria"; la Sección Sexta "De las Exenciones"; así como los artículos 30, 31, 32, 33, 34, 35, 36 A, 36 B, 36 C, 36 D, 36 E, y 36 F de la Ley de Hacienda del Estado de Aguascalientes.
+
+Las obligaciones derivadas de los artículos 30, 31, 32, 33, 34, 35, 36 A, 36 B, 36 C, 36 D, 36 E y 36 F de la Ley de Hacienda del Estado de Aguascalientes, que se derogan en el presente Artículo, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos artículos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, la referencia a la Fiscalía General del Estado contenida en el Artículo 148, párrafo segundo del Código Fiscal del Estado de Aguascalientes, se entenderá hecha a la Procuraduría General de Justicia del Estado.
+
+###### ARTÍCULO CUARTO.
+
+En tanto no se realicen las reformas respectivas a la Ley Orgánica del Poder Judicial del Estado, las referencias a la Sala Administrativa contenidas en el Código Fiscal del Estado de Aguascalientes, se entenderán hechas a la Sala Administrativa y Electoral.
