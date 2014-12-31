@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-50489"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-13"
-last_updated: "2013-09-14"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 13 de mayo de 2006.
 
@@ -493,15 +493,19 @@ V. El Centro Interactivo de Ciencia y Tecnología de Zacatecas "Zigzag";
 
 VI. Laboratorio de Software Libre y de Código Abierto;
 
-VII. Comisiones Técnicas;
+> <small>(ADICIONADA, 31 DE DICIEMBRE DE 2014)</small>
+
+VII. Campus de Innovación Tecnológica;
+
+VIII. Comisiones Técnicas;
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
 
-VIII. Comité Técnico para la Innovación;
+IX. Comité Técnico para la Innovación;
 
-IX. Órgano de Vigilancia; y
+X. Órgano de Vigilancia; y
 
-X. Las Unidades Administrativas que señale el estatuto orgánico.
+XI. Las Unidades Administrativas que señale el estatuto orgánico.
 
 El personal del COZCYT se regirá por las disposiciones de esta Ley, el Estatuto Orgánico y la Ley del Servicio Civil del Estado de Zacatecas.
 
@@ -980,6 +984,14 @@ La organización y funcionamiento del Laboratorio serán determinadas en el Regl
 El domicilio de este órgano especializado, estará ubicado en la ciudad de Zacatecas, Zacatecas; sin perjuicio de que pueda establecer otras subsedes en las diversas regiones del Estado, que estime necesarias para la realización de sus actividades, previa autorización de la Junta Directiva del COZCYT.
 
 La Junta Directiva está obligada a prever en el proyecto de Presupuesto de Egresos anual del COZCYT, recursos suficientes para que el Laboratorio cumpla cabalmente con sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Artículo 24 octies.- El Campus de Innovación Tecnológica es un órgano especializado del COZCYT, promotor de la innovación, que facilite la transferencia tecnológica al sector productivo e impulse el desarrollo del capital intelectual comprometido con el progreso económico de Zacatecas.
+
+El domicilio de este órgano especializado, estará ubicado en la ciudad de Zacatecas, Zacatecas; sin perjuicio de que pueda establecer otras subsedes en las diversas regiones del Estado, que estime necesarias para la realización de sus actividades, previa autorización de la Junta Directiva del COZCYT.
+
+La organización y funcionamiento del Campus de Innovación Tecnológica serán determinados en el Reglamento correspondiente.
 
 #### SECCIÓN SÉPTIMA. De las Comisiones Técnicas
 
@@ -1702,3 +1714,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del pre
 TERCERO.- Las autoridades a que se refiere el artículo 3° de esta Ley llevarán a cabo las acciones necesarias a efecto de que, a más tardar, en el año 2016, al menos, el 60% de los equipos de cómputo asignados a las mismas utilicen Software Libre y de Código Abierto.
 
 CUARTO.- El Titular del Poder Ejecutivo del Estado propondrá y la Legislatura del Estado autorizará, en los Presupuestos de Egresos correspondientes, los recursos financieros necesarios para que, en los plazos previstos en esta Ley, sean cumplidas las metas determinadas en la misma.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Segundo.- Se derogan todas las disposiciones que contravengan el contenido del presente Decreto.
+
+Tercero.- En un plazo no mayor de 180 días contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá expedir el Reglamento del Campus de Innovación Tecnológica.
