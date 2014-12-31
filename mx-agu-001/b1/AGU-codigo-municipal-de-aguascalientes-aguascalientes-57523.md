@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2014-11-17"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1031,6 +1031,10 @@ Dirección General del Sistema para el Desarrollo Integral de la Familia;
 
 Coordinación General de Comunicación Social;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Coordinación General de Delegaciones Urbanas y Rurales;
+
 Contraloría Municipal;
 
 Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
@@ -1051,7 +1055,7 @@ Secretaría de Servicios Públicos;
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-Secretaría Seguridad Pública; y
+Secretaría (sic) Seguridad Pública; y
 
 Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
@@ -1073,43 +1077,37 @@ Departamento de Atención a la Ciudadanía
 
 Departamento de Giras y Eventos
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 III.- OFICINA EJECUTIVA DEL PRESIDENTE MUNICIPAL
 
 Coordinación General de Proyectos Estratégicos.
 
-Dirección de Vinculación Y Convivencia Ciudadana.
-
-Coordinación de Asuntos Religiosos.
+Dirección de Vinculación y Convivencia Ciudadana.
 
 Departamento de Vinculación.
+
+Departamento de Asuntos Religiosos.
 
 Dirección de Estrategia Institucional.
 
 Departamento de Gestión de Proyectos.
 
-Departamento de Seguimiento de Gabinetes Temáticos.
+Departamento de Evaluación de Desempeño
 
-Dirección de Evaluación y Seguimiento.
+Dirección de Coordinación de Gabinetes
 
-Departamento de Evaluación Programática e Institucional.
+Departamento de Programación y Estudios de Opinión
 
-Departamento de Seguimiento de Proyectos de Inversión.
+Departamento de Seguimiento de Gabinetes Temáticos
 
-Coordinación General de Política Hacendaria.
-
-Director de Políticas Financieras.
-
-Departamento de Seguimiento a Convenios.
+Dirección de Políticas Financieras.
 
 Dirección de Estrategia y Análisis Político
 
-Departamento de Análisis Político.
+Departamento de Análisis Político
 
-Departamento de Estudios de Opinión.
-
-Departamento de Estrategia e Información.
+Departamento de Estrategia e Información
 
 Dirección de Cooperación, Financiamiento y Asuntos Internacionales.
 
@@ -1199,17 +1197,19 @@ Departamento de Evaluación a Obras Públicas.
 
 Departamento de Evaluación a Servicios Públicos.
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 IX.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
 
-Asistente Administrativo
+Coordinación Administrativa
 
 Departamento de la Junta Municipal de Reclutamiento.
 
 Coordinación Administrativa de Regidores y Síndicos.
 
 Coordinación de Asuntos de Cabildo.
+
+Coordinación de Calidad en la Gestión.
 
 Dirección de Asuntos Internos de Seguridad Pública y Tránsito.
 
@@ -1233,7 +1233,7 @@ Dirección de Reglamentos.
 
 Coordinación de Licencias.
 
-Coordinación de Verificación.
+Coordinación de Verificación,
 
 Dirección de Mercados, Estacionamientos y Áreas Comerciales.
 
@@ -1241,7 +1241,7 @@ Departamento de Mercados y Estacionamientos.
 
 Departamento de Áreas Comerciales.
 
-Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias.
+Coordinación Municipal de Protección Civil
 
 Departamento de Inspección y Capacitación.
 
@@ -1251,7 +1251,7 @@ Departamento de Atención Médica Prehospitalaria.
 
 Departamento de Bomberos.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 X.- SECRETARÍA DE FINANZAS PÚBLICAS
 
@@ -1260,6 +1260,12 @@ Departamento de Ejecución, Apremios e Inspección Fiscal.
 Departamento de Auditoría Interna.
 
 Departamento de Administración y Deuda Pública.
+
+Coordinación de Control de Gestión
+
+Departamento de Análisis y Seguimiento
+
+Departamento de Soporte Técnico
 
 Dirección de Ingresos.
 
@@ -1387,7 +1393,7 @@ Departamento de Auditoría, Mejora Continua y Normatividad.
 
 Departamento de Seguimiento y Eficiencia Presupuestal.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 XIII.- SECRETARÍA DE DESARROLLO SOCIAL.
 
@@ -1396,66 +1402,6 @@ Coordinación Administrativa.
 Departamento de Seguimiento y Control de Gestión.
 
 Departamento de Recursos Humanos y Eficiencia Presupuestal.
-
-Coordinación General de Delegaciones Urbanas y Rurales.
-
-Delegación Urbana José María Morelos y Pavón.
-
-Departamento de Servicios Públicos.
-
-Departamento de Desarrollo Urbano y Obras Públicas.
-
-Departamento de Desarrollo Social.
-
-Comisarios Municipales.
-
-Delegación Urbana Lic. Jesús Terán Peredo
-
-Departamento de Servicios Públicos.
-
-Departamento de Desarrollo Urbano y Obras Públicas.
-
-Departamento de Desarrollo Social.
-
-Comisarios Municipales.
-
-Delegación Urbana Insurgentes.
-
-Departamento de Servicios Públicos.
-
-Departamento de Desarrollo Urbano y Obras Públicas.
-
-Departamento de Desarrollo Social.
-
-Comisarios Municipales.
-
-Delegación Urbana Pocitos.
-
-Departamento de Servicios Públicos.
-
-Departamento de Desarrollo Urbano y Obras Públicas.
-
-Departamento de Desarrollo Social.
-
-Comisarios Municipales.
-
-Coordinación de Delegaciones Rurales.
-
-Delegación Rural Cañada Honda.
-
-Comisarios Municipales.
-
-Delegación Rural Calvillito.
-
-Comisarios Municipales.
-
-Delegación Rural Peñuelas.
-
-Comisarios Municipales.
-
-Delegación Rural Salto de los Salado.
-
-Comisarios Municipales.
 
 Dirección de Educación Cultura Física y Deporte.
 
@@ -1477,7 +1423,7 @@ Departamento de Programas Federales.
 
 Departamento de Programas Municipales.
 
-Departamento de Programas para la Convivencia
+Departamento de Programas para la Convivencia.
 
 Dirección de Desarrollo Económico y Turismo.
 
@@ -1695,6 +1641,68 @@ Departamento de Recursos Naturales y Biodiversidad.
 
 Departamento de Educación Ambiental y Participación Ciudadana.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVIII.- COORDINACIÓN GENERAL DE DELEGACIONES URBANAS Y RURALES
+
+Delegación Urbana José María Morelos y Pavón.
+
+Departamento de Servicios Públicos.
+
+Departamento de Desarrollo Urbano y Obras Públicas.
+
+Departamento de Desarrollo Social.
+
+Comisarios Municipales.
+
+Delegación Urbana Lic. Jesús Terán Peredo
+
+Departamento de Servicios Públicos.
+
+Departamento de Desarrollo Urbano y Obras Públicas.
+
+Departamento de Desarrollo Social.
+
+Comisarios Municipales.
+
+Delegación Urbana Insurgentes.
+
+Departamento de Servicios Públicos.
+
+Departamento de Desarrollo Urbano y Obras Públicas.
+
+Departamento de Desarrollo Social.
+
+Comisarios Municipales.
+
+Delegación Urbana Pocitos.
+
+Departamento de Servicios Públicos.
+
+Departamento de Desarrollo Urbano y Obras Públicas.
+
+Departamento de Desarrollo Social.
+
+Comisarios Municipales.
+
+Coordinación de Delegaciones Rurales.
+
+Delegación Rural Cañada Honda.
+
+Comisarios Municipales.
+
+Delegación Rural Calvillito.
+
+Comisarios Municipales.
+
+Delegación Rural Peñuelas.
+
+Comisarios Municipales.
+
+Delegación Rural Salto de los Salado.
+
+Comisarios Municipales.
+
 ### CAPÍTULO I. De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
 
 APARTADO PRIMERO
@@ -1905,71 +1913,99 @@ VII. Coordinarse con la Secretaria Particular de la Presidencia Municipal para e
 
 VIII. Coordinarse con la Coordinación General de Comunicación Social para la definición, seguimiento y evaluación de las políticas de difusión institucional;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-IX. Coordinarse con el Instituto Municipal de Planeación para integrar y elaborar los informes Anuales de Gobierno y el Plan de Desarrollo Municipal;
+X. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-X. Coordinar y supervisar el proceso de incorporación de los contenidos de la página web del municipio;
+XI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+XII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-XI. Realizar propuestas para impulsar el fortalecimiento del Federalismo Hacendario;
+XIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+XIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-XII. Establecer, en conjunto con el Tesorero Municipal, los lineamientos y políticas para la elaboración del Anteproyecto de Presupuesto de Egresos del Municipio con base en las directrices del Plan de Desarrollo Municipal;
+XV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+XVI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-XIII. Participar en la elaboración del Anteproyecto de Presupuesto de Egresos del Municipio, en coordinación con todas las dependencias y entidades municipales;
+XVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+XVIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-XIV. Coordinarse con las dependencias y entidades de la administración pública municipal, para evaluar los programas y proyectos, así como el ejercicio de los recursos que se aprueben en el Programa Anual de Inversión Municipal, Programa Anual de Obra Pública y Programa Operativo Anual;
+XIX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+XX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-XV. Realizar e integrar estudios contables, económicos y jurídicos relativos al mejor interés de la Hacienda Pública del Municipio;
+XXI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+XXII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-XVI. Revisar la ejecución del Presupuesto de Egresos, con base en las políticas y lineamientos establecidos en su aprobación en coordinación con el Tesorero Municipal;
+XXIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+XXIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-XVII. Coordinar las actividades y dar seguimiento a los convenios y acuerdos en el marco del Sistema Nacional de Coordinación Fiscal y el Sistema Estatal de Coordinación Hacendaria;
+XXV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XVIII. Definir en conjunto con las dependencias y/o entidades de la administración pública municipal la distribución de los recursos obtenidos a través de programas federales sujetos a reglas de operación y estricto cumplimiento a las mismas,
+APARTADO SEXTO-BIS
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+Coordinación General De Delegaciones Urbanas Y Rurales
 
-XIX. Asesorar y apoyar a las dependencias y/o entidades de la administración pública municipal para la obtención de recursos a través de programas estatales y federales.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+###### ARTÍCULO 105
 
-XX. Proponer mejoras que coadyuven al desarrollo y eficiencia de la Administración Pública Municipal.
+BIS.- Corresponde a la Coordinación General de Delegaciones Urbanas y Rurales, por conducto de su titular, lo siguiente:
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+I. Acordar con el Presidente Municipal, el despacho de los asuntos que le corresponden.
 
-XXI. Coordinar y apoyar los esfuerzos de las diversas Dependencias y/o entidades de la Administración Pública Municipalpara (sic) la integración de los proyectos estratégicos y prioritarios del Municipio.
+II. Rendir informe de las actividades desempeñadas al Presidente Municipal, al Regidor o Síndico del ramo, cuando así se le requiera.
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+III. Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos asignados.
 
-XXII. Revisar los proyectos y programas de las diversas Dependencias y/o entidades de la Administración Municipal, a través de un sistema integral de evaluación de la gestión Municipal.
+IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas, con las unidades administrativas correspondientes con la finalidad de mejorar la calidad de vida de los habitantes.
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+V. Formular y proponer al Presidente Municipal los proyectos de planes y programas que les correspondan.
 
-XXIII. Coordinarse con la Secretaría de Obras Públicas Municipales y el Instituto Municipal de Planeación para la elaboración del Programa anual de Obra Pública.
+VI. Proporcionar información y cooperación técnicas a las dependencias de la Administración Pública Municipal.
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+VII. Mantener permanente comunicación con la Dirección de Atención Ciudadana y demás dependencias municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población.
 
-XXIV. Coordinar, evaluar y dar seguimiento a los Programas Operativos Anuales de todas las Dependencias y Entidades de la Administración Pública Municipal, para garantizar su correspondencia con el Plan de Desarrollo Municipal.
+VIII. Participar con la Dirección de Tecnologías de la Información y Comunicación en la modernización y simplificación de los sistemas administrativos.
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
+IX. Cumplir con la normatividad que emita la Dirección de Tecnologías de la Información y Comunicación en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo y en general, con las normas que emitan las dependencias municipales dentro de sus áreas de competencia.
 
-XXV. Participar en la elaboración del Programa Anual de Inversión Municipal, en coordinación con todas las Dependencias y Entidades de la Administración Pública Municipal.
+X. Asistir y brindar el apoyo necesario para los eventos y actividades de las dependencias de la Administración Pública Municipal organizadas en su jurisdicción.
+
+XI. Llevar a cabo reuniones mensuales con los comisarios municipales.
+
+XII. Hacer recorridos en colonias y comunidades para hacer un diagnóstico y resolver la problemática del lugar en materia de servicios públicos y apoyos en desarrollo humano, urbano y rural.
+
+XIII. Dar seguimiento a reportes de las necesidades del servicio público, alumbrado, agua potable y demás servicios con que cuente o necesite la comunidad.
+
+XIV. Apoyar a la ciudadanía canalizándola a diversas instancias como hospitales, Sistema D.I.F., Seguridad Pública, entre otras.
+
+XV. Las demás que señale la ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 105
+
+TER.- Corresponde a los Comisarios Municipales:
+
+I. Extender constancias de ganado.
+
+II. Expedir cartas de recomendación.
+
+III. Tomar conocimiento de las fiestas dentro de su comunidad.
+
+IV. Reportar al Delegado las necesidades en materia de servicios públicos.
+
+V. Rendir informe mensual de actividades al Delegado.
+
+VI. Las demás que señale la ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
 APARTADO SÉPTIMO
 
@@ -2029,7 +2065,9 @@ V. Expedir, por acuerdo del Presidente Municipal, los nombramientos de los servi
 
 VI. Llevar el control y distribución de la correspondencia oficial y dar cuenta diaria al Presidente Municipal, de todos los asuntos que deban acordarse para su inmediato trámite.
 
-VII. Expedir las constancias de residencia que soliciten los habitantes del Municipio, así como las certificaciones y demás documentos públicos que legalmente proceden, o los que acuerde el H. Ayuntamiento.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VII. Expedir las constancias de residencia y vecindad que soliciten los habitantes del Municipio a través de la Coordinación de Calidad en la Gestión, así como las certificaciones y demás documentos públicos que legalmente proceden, o los que acuerde el H. Ayuntamiento.
 
 VIII. Validar con su firma todos los documentos oficiales emanados del H. Ayuntamiento o de cualquiera de sus miembros; sin este requisito los acuerdos tomados no serán válidos.
 
@@ -2047,7 +2085,9 @@ XI. Requerir información sobre el trámite y resolución de los asuntos tratado
 
 XII. Supervisar y evaluar las actividades que se realicen en materia jurídica por cualquiera de las dependencias de la Administración Pública Municipal, por sí o a través de la Dirección de Asuntos Jurídicos.
 
-XIII. (DEROGADA, P.O. 13 DE ENERO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XIII. Requerir información sobre el trámite y resolución de los asuntos tratados en las Direcciones, Coordinaciones y/o Departamentos de las dependencias de la Secretaría del H. Ayuntamiento y Dirección de Gobierno a efecto de evaluar su desempeño y articular las acciones necesarias para salvaguarda de los intereses del H. Ayuntamiento de Aguascalientes, por sí o a través de la Coordinación de Calidad en la Gestión.
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
 
@@ -2065,7 +2105,7 @@ XVII. Planear, ordenar y ejecutar todas las acciones que tengan relación con la
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
 
-XVIII. Las demás que señale ley (sic) que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal
+XVIII. Las demás que señale (sic) ley que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
@@ -2095,11 +2135,17 @@ De la Secretaría de Finanzas Públicas
 
 Corresponde a la Secretaría de Finanzas Públicas lo siguiente:
 
-l. Realizar las funciones, ejercer las facultades y cumplir con las obligaciones que le señala la Ley que en materia municipal expida el Poder Legislativo del Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Realizar las funciones, ejercer las facultades y cumplir con las obligaciones que le señala la Ley que en materia municipal expidan los Poderes Legislativos tanto Federal como del Estado.
 
 II. Realizar las funciones, ejercer las facultades y cumplir con las obligaciones que le señala la Ley de Hacienda del Municipio de Aguascalientes, el presente Código y las demás disposiciones legales aplicables.
 
-III. Las demás que le señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Realizar la contabilidad gubernamental y los informes financieros correspondientes al Ayuntamiento del Municipio de Aguascalientes y administrar el sistema de Armonización Contable conforme a la legislación aplicable, en Coordinación con las diversas Dependencias y/o entidades de la Administración Pública Municipal.
+
+IV. Las demás que le señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 APARTADO DÉCIMO
 
@@ -2321,59 +2367,13 @@ XXXI. (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE MARZO DE 2008)
 
 XXXII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2014)</small>
+###### ARTÍCULO 111
+
+BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 111
 
-BIS.- Corresponde a las Delegaciones por conducto de sus titulares:
-
-I. Acordar con el Secretario de Desarrollo Social, el despacho de los asuntos que le corresponden.
-
-II. Rendir informe de las actividades desempeñadas al Secretario de Desarrollo Social, al Regidor o Síndico del ramo, cuando así se les requiera.
-
-III. Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos asignados.
-
-IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas, con las unidades administrativas correspondientes con la finalidad de mejorar la calidad de vida de los habitantes.
-
-V. Formular y proponer al Secretario de Desarrollo Social los proyectos de planes y programas que les correspondan.
-
-VI. Proporcionar información y cooperación técnicas a las dependencias de la Administración Pública Municipal.
-
-VII. Mantener permanente comunicación con la Dirección de Atención Ciudadana y demás dependencias municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población.
-
-VIII. Participar con la Dirección de Modernización Tecnológica en la modernización y simplificación de los sistemas administrativos.
-
-IX. Cumplir con la normatividad que emita la Dirección de Modernización Tecnológica en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo y en general, con las normas que emitan las dependencias municipales dentro de sus áreas de competencia.
-
-X. Asistir y brindar el apoyo necesario para los eventos y actividades de las dependencias de la Administración Pública Municipal organizadas en su jurisdicción.
-
-XI. Llevar a cabo reuniones mensuales con los comisarios municipales.
-
-XII. Hacer recorridos en colonias y comunidades para hacer un diagnostico y resolver la problemática del lugar en materia de servicios públicos y apoyos en desarrollo humano, urbano y rural.
-
-XIII. Dar seguimiento a reportes de las necesidades del servicio público, alumbrado, agua potable y demás servicios con que cuente o necesite la comunidad.
-
-XIV. Apoyar a la ciudadanía canalizándola a diversas instancias como hospitales, Sistema D.I.F., Seguridad Pública, entre otras.
-
-XV. Las demás que señale la ley o el H. Ayuntamiento por conducto del Secretario de Desarrollo Social.
-
-> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2014)</small>
-
-###### ARTÍCULO 111
-
-TER.- Corresponde a los Comisarios Municipales:
-
-I. Extender constancias de ganado.
-
-II. Expedir cartas de recomendación.
-
-III. Tomar conocimiento de las fiestas dentro de su comunidad.
-
-IV. Reportar al Delegado las necesidades en materia de servicios públicos.
-
-V. Rendir informe mensual de actividades al Delegado.
-
-VI. Las demás que señale la ley o el H. Ayuntamiento por conducto del Secretario de Desarrollo Social.
+TER.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 APARTADO DÉCIMO TERCERO
 
@@ -5143,17 +5143,17 @@ Una vez dispuesto lo anterior, el personal de Trabajo Social y Psicología, se a
 
 De igual forma se destinarán espacios especiales para la reclusión de los menores de dieciocho años y mayores de doce, cuando por sus circunstancias lo ameriten.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 349.
 
-La vigilancia sobre la comisión de faltas administrativas queda a cargo de las Direcciones de Policía Preventiva, de Tránsito y Movilidad y de la Dirección de Reglamentación, así como de la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Pre hospitalarias en el ámbito de su competencia, en los centros de espectáculos. La aplicación de las sanciones es facultad exclusiva de los Jueces Municipales.
+La vigilancia sobre la comisión de faltas administrativas queda a cargo de las Direcciones de Policía Preventiva, de Tránsito y Movilidad y de la Dirección de Reglamentación, así como de la Coordinación Municipal de Protección Civil en el ámbito de su competencia, en los centros de espectáculos. La aplicación de las sanciones es facultad exclusiva de los Jueces Municipales.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 350.
 
-Los integrantes operativos de las Direcciones de Policía Preventiva, de Tránsito y Movilidad y el personal de la Dirección de Reglamentación, así como de la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Pre hospitalarias en el ámbito de su competencia, deberán poner a disposición inmediatamente ante el Juez Municipal competente al infractor. Si las circunstancias así lo ameritan, solicitarán el auxilio de los servicios médicos.
+Los integrantes operativos de las Direcciones de Policía Preventiva, de Tránsito y Movilidad y el personal de la Dirección de Reglamentación, así como de la Coordinación Municipal de Protección Civil en el ámbito de su competencia, deberán poner a disposición inmediatamente ante el Juez Municipal competente al infractor. Si las circunstancias así lo ameritan, solicitarán el auxilio de los servicios médicos.
 
 ###### ARTÍCULO 351.
 
@@ -6655,9 +6655,9 @@ VII. Reubicar en el ámbito de su competencia o mediante acuerdos de coordinaci�
 
 En prevención de molestias de este tipo, analizará minuciosamente los informes preventivos que señala este Código y en caso de autorizar el funcionamiento de las empresas en cuestión, previo a su funcionamiento, especificará que de ocasionar molestias a la población por emisiones contaminantes a la atmósfera, se cancelará la autorización otorgada y se exigirá su reubicación.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VIII. Coordinarse con la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias prehospitalarias a fin de emitir las medidas preventivas para evitar contingencias ambientales por contaminación;
+VIII. Coordinarse con la Coordinación Municipal de Protección Civil a fin de emitir las medidas preventivas para evitar contingencias ambientales por contaminación;
 
 IX. Identificar las áreas generadoras de tolvaneras dentro del territorio municipal y establecer programas de control con la participación de la población para tomar las medidas que se consideren convenientes.
 
@@ -8829,11 +8829,11 @@ VII. Elaborar propuestas de reformas a leyes, este Código, reglamentos y manual
 
 VIII. Ejercer las demás atribuciones que sean necesarias para cumplir los objetivos de este Código.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 622.
 
-El Departamento de Bomberos es un cuerpo de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, dependiente de la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Pre hospitalarias, auxiliar de la Secretaría de Seguridad Pública.
+El Departamento de Bomberos es un cuerpo de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, dependiente de la Coordinación Municipal de Protección Civil, auxiliar de la Secretaría de Seguridad Pública.
 
 APARTADO PRIMERO
 
@@ -8843,9 +8843,9 @@ De las Obligaciones del Personal del Departamento de Bomberos
 
 Son obligaciones de los elementos operativos del Departamento de Bomberos:
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I.- Rendir el parte diariamente al Secretario del H. Ayuntamiento y Director General de Gobierno por conducto del Director Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias;
+I.- Rendir el parte diariamente al Secretario del H. Ayuntamiento y Director General de Gobierno por conducto del Coordinador Municipal de Protección Civil.
 
 II.- Presentarse puntualmente al desempeño de sus labores;
 
@@ -8935,9 +8935,9 @@ II. El Secretario del H. Ayuntamiento y Director de General de Gobierno;
 
 III. El Secretario de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV. Director Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias; y
+IV. Coordinador Municipal de Protección Civil.
 
 V. El Jefe del Departamento de Emergencias 080.
 
@@ -8945,11 +8945,11 @@ V. El Jefe del Departamento de Emergencias 080.
 
 Con el objetivo de que el Servicio de Emergencia 080 proporcione a la ciudadanía sus servicios, el personal laborará los 365 días del año las 24 horas, conforme al rol de turno que determine la Secretaría.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 628.
 
-El personal que integra el Servicio de Emergencia 080, deberá asistir a los cursos y programas de capacitación que convoquen la Secretaria de Seguridad Pública, la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Pre hospitalarias o la Jefatura del Departamento y los que sean mencionados en el plan interno de capacitación, tomando en cuenta las siguientes formas de capacitación dentro del sistema de emergencia 080:
+El personal que integra el Servicio de Emergencia 080, deberá asistir a los cursos y programas de capacitación que convoquen la Secretaria de Seguridad Pública, la Coordinación Municipal de Protección Civil o la Jefatura del Departamento y los que sean mencionados en el plan interno de capacitación, tomando en cuenta las siguientes formas de capacitación dentro del sistema de emergencia 080
 
 a) Cursos obligatorios de Capacitación para el desempeño: Aquellos cursos que son necesarios para el desarrollo eficiente de su trabajo incrementando la capacidad de los empleados municipales asignados al servicio para la realización de las actividades y funciones del puesto que actualmente ocupan, los cuales pueden ser otorgados por el mismo departamento o por una institución o persona ajena a éste.
 
@@ -12583,7 +12583,9 @@ Cuando existan habitaciones anexas al templo, no tendrán conexión dentro con �
 
 El área en la que se instalen aparatos mecánicos, deberá estar cercada de tal manera que se impida el paso libre al público más allá de una distancia perimetral de uno punto cincuenta metros fuera de la zona delimitada por la proyección vertical del campo de acción de los aparatos en movimiento.
 
-Asimismo el propietario o poseedor deberá presentar en los casos en que la Secretaría lo requiera dictamen de estabilidad estructural avalado por un Perito de Obra o Especializado para autorizar su colocación de los mismos en conjunto con la Dirección de Mercados y Protección Civil Municipal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Así mismo el propietario o poseedor deberá presentar en los casos en que la Secretaría lo requiera dictamen de estabilidad estructural avalado por un Perito de Obra o Especializado para autorizar su colocación de los mismos en conjunto con (sic) Coordinación Municipal de Protección Civil.
 
 ###### ARTÍCULO 805.
 
@@ -17823,7 +17825,9 @@ Además del cumplimiento de los requisitos anteriores, para los establecimientos
 
 I. Dictamen o peritaje del local, expedido por la autoridad competente, en el cual se señale que el establecimiento mercantil, tiene la construcción o adecuaciones estructurales necesarias para no contaminar el medio ambiente con sonidos estridentes, generados en su interior;
 
-II. Constancia emitida por la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencia Prehospitalarias, en la que conste que cumple con las condiciones de seguridad, que señala el presente Código y demás disposiciones aplicables en la materia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. Constancia emitida por la Coordinación Municipal de Protección Civil, en la que conste que cumple con las condiciones de seguridad, que señala el presente Código y demás disposiciones aplicables en la materia;
 
 III. Constancia de la Secretaría de Salud, en la que se señale que el establecimiento reúne las condiciones sanitarias adecuadas para su funcionamiento, en el caso que aplique según la normatividad aplicable;
 
@@ -20657,7 +20661,7 @@ V. Dictar todas las resoluciones por escrito de cuanta petición se les formule.
 
 VI. En caso de licencias reglamentadas el plazo será de quince días, se entiende por licencias reglamentadas aquellas establecidas en el capítulo primero del libro séptimo.
 
-VII. En caso de controversia entre dos o más particulares, y en cualquier estado que forme el asunto o procedimientos administrativo en que intervengan, podrá citar a las partes para su avenimiento.
+VII. En caso de controversia entre dos o más particulares, y en cualquier estado que forme el asunto o procedimientos administrativo (sic) en que intervengan, podrá citar a las partes para su avenimiento.
 
 VIII. Ejercer las facultades fiscales conforme a las leyes respectivas.
 
@@ -22556,3 +22560,9 @@ P.O. 17 DE NOVIEMBRE DE 2014.
 POR LO QUE SE REFORMAN LOS ARTÍCULOS 1°, 6° EN SUS FRACCIONES I, II Y X, 111 FRACCIÓN XV, 130, 299, 302, 342 FRACCIÓN XIV Y XV, 344 FRACCIÓN IV, 558 FRACCIÓN IX, 1185, 1185 BIS Y 1293 TER; SE ADICIONAN LOS ARTÍCULOS 6° FRACCIÓN XII, 16 BIS FRACCIÓN VI, 338 FRACCIÓN XII, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 LAS MODIFICACIONES CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Se otorga un término perentorio de noventa días hábiles para que se lleven a cabo las reformas necesarias a las disposiciones reglamentarias que así lo requieran, en concordancia con el presente dictamen.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor el día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
