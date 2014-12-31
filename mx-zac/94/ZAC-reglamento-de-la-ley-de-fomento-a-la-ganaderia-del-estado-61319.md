@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-fomento-a-la-ganaderia-del-estado-61319
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-24"
-last_updated: "2008-05-24"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # REGLAMENTO DE LA LEY DE FOMENTO A LA GANADERIA DEL ESTADO DE ZACATECAS
 
-REGLAMENTO DE LA LEY DE FOMENTO A LA GANADERIA DEL ESTADO DE ZACATECAS
+REGLAMENTO DE LA LEY DE FOMENTO A LA GANADERÍA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 2008.
 
@@ -41,9 +41,11 @@ REGLAMENTO DE LA LEY DE FOMENTO A LA GANADERÍA DEL ESTADO DE ZACATECAS
 
 El presente Reglamento tiene por objeto prever el cumplimiento de la Ley de Fomento a la Ganadería del Estado de Zacatecas, sus disposiciones son de orden público e interés social, en todo lo relativo al fomento, regulación, organización, operación, sanidad y vigilancia pecuaria, sus disposiciones son de observancia general, obligatorias dentro del territorio estatal.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-La aplicación del presente Reglamento corresponde a la o el Titular del Poder Ejecutivo del Estado, a la Secretaría de Desarrollo Agropecuario y a los Ayuntamientos, con apoyo de los Órganos Auxiliares, en el ámbito de sus respectivas competencias.
+La aplicación del presente Reglamento corresponde a la o el Titular del Poder Ejecutivo del Estado, a la Secretaría del Campoy (sic) a los Ayuntamientos, con apoyo de los Órganos Auxiliares, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 3.
 
@@ -63,7 +65,9 @@ II. Reglamento: Al presente Reglamento de la Ley;
 
 III. El Ejecutivo del Estado: A él o la Titular del Poder Ejecutivo del Estado;
 
-IV. Secretaría: A la Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. Secretaría: A laSecretaría (sic) del Campo;
 
 V. Producto: A las partes útiles de las distintas especies animales que constituyan una explotación zootécnico-económica;
 
@@ -85,7 +89,9 @@ Para la observancia y cumplimiento del presente Reglamento, son autoridades comp
 
 I. El Ejecutivo del Estado;
 
-II. La Secretaría de Desarrollo Agropecuario; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. La Secretaríadel (sic) Campo; y
 
 III. Las autoridades municipales.
 
@@ -442,3 +448,13 @@ CARLOS PINTO NÚÑEZ
 EL SECRETARIO DE DESARROLLO AGROPECUARIO
 
 DANIEL OCTAVIO FAJARDO ORTÍZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
