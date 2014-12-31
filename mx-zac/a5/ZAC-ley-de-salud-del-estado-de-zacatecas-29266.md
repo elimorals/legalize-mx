@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-29266"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-30"
-last_updated: "2009-11-07"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 30 de junio de 2001.
 
@@ -131,7 +131,9 @@ VII. La promoción de la formación de recursos humanos para la salud;
 
 VIII. La coordinación de la investigación para la salud;
 
-IX. La información relativa a las condiciones, recursos y servicios de salud;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IX.- La información relativa a las condiciones, recursos y servicios de salud, misma que deberá presentarse en formatos accesibles para personas con discapacidad;
 
 X. La educación para la salud;
 
@@ -147,7 +149,9 @@ XIV. La prevención y el control de enfermedades transmisibles;
 
 XV. La prevención y el control de enfermedades no transmisibles y accidentes;
 
-XVI. La prevención de la invalidez y la rehabilitación de las secuelas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XVI. La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
 
 XVII. Participar con las autoridades federales en el desarrollo de los programas contra las adicciones, de conformidad con los acuerdos de coordinación que al efecto se celebren;
 
@@ -213,7 +217,7 @@ Son autoridades sanitarias locales:
 
 I. El Gobernador del Estado;
 
-II. Los Servicios de Salud del Estado; y (sic)
+II. Los Servicios de Salud del Estado; y
 
 III. Los ayuntamientos en el ámbito de su respectivo municipio;
 
@@ -431,7 +435,9 @@ La Comisión Estatal de Arbitraje Médico se integrará y funcionará en los té
 
 La Comisión Estatal de Arbitraje Médico tendrá las siguientes atribuciones:
 
-I. Brindar asesoría e información a los usuarios y prestadores de servicios médicos sobre sus derechos y obligaciones;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Brindar asesoría e información a los usuarios y prestadores de servicios médicos sobre sus derechos y obligaciones; misma que deberá presentarse en formatos accesibles para personas con discapacidad;
 
 II. Recibir, investigar y atender las quejas que presenten los usuarios de servicios médicos, por la posible irregularidad en la prestación o negativa de prestación de servicios;
 
@@ -579,7 +585,9 @@ I. Promoción de la salud y protección específica;
 
 II. Diagnóstico precoz y tratamiento oportuno; y
 
-III. Rehabilitación temprana y corrección de las secuelas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. De rehabilitación, que incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad.
 
 ### CAPITULO SEGUNDO. Prestadores de Servicios De Salud
 
@@ -629,7 +637,9 @@ III.- Mujeres en periodo de gestación o lactancia;
 
 IV.- Miembros de la tercera edad en desamparo, incapacidad, marginación o sujetos a maltrato;
 
-V.- Discapacitados;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V. Personas con discapacidad;
 
 VI. Indigentes;
 
@@ -909,7 +919,9 @@ III. Podrá realizarse únicamente cuando exista seguridad de que no expone a ri
 
 IV. Deberá contar con el consentimiento por escrito del sujeto en quien se realizará la investigación, o de su representante legal una vez enterado de los objetivos de la misma;
 
-V. El profesional responsable suspenderá la investigación en cualquier momento, si sobrevienen riesgos para la salud.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V. El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, discapacidad, muerte del sujeto en quien se realice la investigación.
 
 ###### ARTICULO 63.
 
@@ -945,9 +957,9 @@ Los Servicios de Salud, de conformidad con la ley y con los criterios de caráct
 
 La información se referirá fundamentalmente, a los siguientes aspectos:
 
-(ADICIONADA [N. DE E. REFORMADA), P.O. 19 DE FEBRERO DE 2003)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I. Estadísticas desagregadas por sexto, de natalidad, mortalidad, morbilidad, invalidez y violencia familiar;
+I. Estadísticas desagregadas por sexo, de natalidad, mortalidad, morbilidad, incapacidad y violencia familiar;
 
 II. Factores demográficos, económicos, sociales y ambientales vinculados a la salud; y
 
@@ -1043,7 +1055,7 @@ Las autoridades sanitarias estatales se coordinarán con sus similares del ámbi
 
 Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
 
-I. Cólera, fiebre tifoidea, paratifoidea y otras salmonelosis, shigelosis, infección intestinales por otros organismos y las mal definidas, intoxicación alimentaria bacteriana, amibiasis intestinal, absceso hepático amibiano, giardiasis, otras infecciones intestinales debidas a protozoarios, infecciones intestinales debidas a protozoarios (sic), teniasis, ascariasis, oxiuriasis y otras helmintiasis;
+I. Cólera, fiebre tifoidea, paratifoidea y otras salmonelosis, shigelosis, infección intestinales por otros organismos y las mal definidas, intoxicación alimentaria bacteriana, amibiasis intestinal, absceso hepático amibiano, giardiasis, otras infecciones intestinales debidas a protozoarios, infecciones intestinales debidas a protozoarios, teniasis, ascariasis, oxiuriasis y otras helmintiasis;
 
 II. Tuberculosis del aparato respiratorio, otitis media aguda, angina estreptocócica, infecciones respiratorias agudas, neumonías y bronconeumonías;
 
@@ -1129,11 +1141,11 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 ### CAPITULO DECIMO. De la Atención a Personas con Discapacidad
 
-###### ARTICULO 87.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Para los efectos de esta ley se entiende por discapacitado:
+###### Artículo 87.
 
-Toda persona imposibilitada para subvenir por sí misma a las necesidades normales de una vida individual o social, a consecuencia de una afección o alteración de sus facultades físicas o mentales.
+Para los efectos de esta Ley, se entiende por discapacidad a la o las deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal que por razón congénita o adquirida, presenta una persona, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
 
 ###### ARTICULO 88.
 
@@ -1145,9 +1157,13 @@ II. Promover la cooperación y participación de la comunidad en la prevención 
 
 III. Establecer y sostener instalaciones idóneas para el diagnóstico temprano y la atención oportuna de los procesos físicos, mentales o sociales que afectan a personas con discapacidad;
 
-IV. Difundir orientación educativa a la comunidad, en materia de rehabilitación a discapacitados;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-V. Promover acciones urbanísticas y arquitectónicas de los sectores público, social y privado, para adecuar la infraestructura y las edificaciones a las necesidades de los discapacitados;
+IV. Difundir orientación educativa a la comunidad, en materia de rehabilitación a personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V. Promover acciones urbanísticas y arquitectónicas de los sectores público, social y privado, para adecuar la infraestructura y las edificaciones a las necesidades de las personas con discapacidad.
 
 VI. Apoyar la creación de establecimientos educativos y de capacitación para el trabajo y procurar la obtención de empleos y otras formas de ocupación remunerada para las personas en proceso de rehabilitación.
 
@@ -1849,7 +1865,7 @@ Los certificados de defunción y muerte fetal serán expedidos, una vez comproba
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 151.
 
@@ -2207,7 +2223,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE FEBRERO DE 2003
 
@@ -2236,3 +2252,7 @@ Artículo primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo segundo.- Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, será publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el Reglamento Interior del Comité Estatal para la Seguridad en Salud.
 
 Artículo tercero.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
