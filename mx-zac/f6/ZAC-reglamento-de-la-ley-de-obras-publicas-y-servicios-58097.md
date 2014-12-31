@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-obras-publicas-y-servicios-58097"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-14"
-last_updated: "2007-11-14"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # REGLAMENTO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE ZACATECAS
 
-REGLAMENTO A LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE ZACATECAS
+REGLAMENTO A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 14 de noviembre de 2007.
 
@@ -57,15 +57,21 @@ III. Gobierno: Al Gobierno de Estado de Zacatecas;
 
 IV. Ayuntamiento: A la autoridad de los Municipios que integran la Entidad Federativa del Estado de Zacatecas;
 
-V. Secretaría: La Secretaría de Obras Públicas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VI. Secretaría de Desarrollo Económico: Dependencia del Gobierno del Estado de
+V. Secretaría: La Secretaría de Infraestructura.
 
-Zacatecas encargada a tratar los asuntos relacionados con la Economía del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VII. Oficialía: A la Oficialía Mayor de Gobierno;
+VI. La Secretaría de Economía: Dependencia del Gobierno del Estado de Zacatecas encargada de tratar los asuntos relacionados con la Economía del Estado;
 
-VIII. Contraloría: A la Contraloría Interna, dependiente del titular del Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VII. Secretaría de Administración: A la Secretaría de Administración del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VIII. Secretaría de la Función Pública: A la Secretaría de la Función Pública delGobierno (sic) del Estado;
 
 IX. Obra Pública: A todo trabajo que tenga por objeto construir, conservar, reparar, instalar, ampliar, remodelar, rehabilitar, restaurar, reconstruir o demoler bienes inmuebles destinados a un servicio público o al uso común, por su naturaleza o por disposición legal;
 
@@ -93,13 +99,19 @@ XX. Precio Unitario: Es el importe de la remuneración o pago total que debe cub
 
 XXI. Junta de Aclaraciones: acto público donde acuden los licitantes en relación con las obras y proyectos;
 
-XXII. Comité de Planeación: Al Comité de Planeación para el Desarrollo del Estado, dependiente de la Secretaría de Planeación y Desarrollo Regional; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXIII. Padrón de Contratistas: Al Padrón de Contratistas de Obra Pública, integrado por la Contraloría.
+XXII. Unidad de Planeación: A la Unidad de Planeación del titular del Ejecutivo del Estado,; (sic) y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXIII. Padrón de Contratistas: Al Padrón de contratistas de Obra Pública, integrado por la Secretaría de la Función Pública.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 3.
 
-La Secretaría, la Oficialía, la Contraloría y la Secretaria de Finanzas, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar este Reglamento para efectos administrativos, debiendo considerar las disposiciones establecidas en la Ley.
+La Secretaría, la Secretaría de Administración, la Secretaría de la Función Pública y la Secretaría de Finanzas, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar este Reglamento para efectos administrativos, debiendo considerar las disposiciones establecidas en la Ley.
 
 ###### Artículo 4.
 
@@ -121,15 +133,19 @@ VII. La relación de los requisitos necesarios para la formalización de los con
 
 VIII. Los demás que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 5.
 
-El uso de los medios remotos de comunicación electrónica, se regirá por las disposiciones y lineamientos que conforme a la Ley y este Reglamento, emita la Contraloría.
+EI uso de los medios remotos de comunicación electrónica, se regirá por las disposiciones y lineamientos que conforme a la Ley y este Reglamento, emita la Secretaría de la Función Pública.
 
 ###### Artículo 6.
 
 El titular del área responsable de la ejecución de los trabajos deberá mantener actualizado el estado que guarden el avance físico y financiero de las obras, así como la situación en que se encuentren los adeudos a cargo de los contratistas derivados de anticipos no amortizados, finiquitos no liquidados o materiales y equipos no devueltos.
 
-La Contraloría, a través del Ente Público podrá solicitar los datos e informes relacionados con actos relativos a obras y servicios y los contratistas estarán obligados a proporcionarlos. Los Contratistas que no aporten la información que se le requiera serán sancionados en los términos que establece la Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría de la Función Pública, a través del Ente Público podrá solicitar los datos e informes relacionados con actos relativos a obras y servicios y los contratistas estarán obligados a proporcionarlos. Los Contratistas que no aporten la información que se le requiera serán sancionados en los términos que establece la Ley.
 
 ###### Artículo 7.
 
@@ -143,9 +159,11 @@ De ser necesario, los Entes Públicos podrán optar por considerar con cargo a l
 
 ### CAPÍTULO I. De la Planeación
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 8.
 
-El Comité de Planeación, por conducto de la dependencia coordinadora de sector al que pertenezca o directamente, establecerá un sistema informático mediante el cual los Entes Públicos deberán remitir, a través de medios impresos o electrónicos, los programas anuales de obras públicas y servicios así como, sus respectivas modificaciones, antes del treinta y uno de marzo de cada año.
+La Unidad de Planeación, establecerá un sistema informático mediante el cual los Entes Públicos deberán remitir, a través de medios impresos o electrónicos, los programas anuales de obras públicas y servicios así como, sus respectivas modificaciones, antes del treinta y uno de marzo de cada año.
 
 ###### Artículo 9.
 
@@ -209,7 +227,9 @@ Los Entes Públicos al determinar el proyecto y programa de realización de cada
 
 Los periodos necesarios para la elaboración de los estudios y proyectos específicos de ingeniería, arquitectura y de instalaciones, en su caso, periodos de prueba, normas de calidad y especificaciones de construcción;
 
-El análisis costo beneficio que elaboren, conforme a las disposiciones que emita la Secretaría de Planeación y Desarrollo Regional.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+El análisis costo beneficio que elaboren, conforme a las disposiciones que emita la Unidad de Planeación.
 
 ###### Artículo 17.
 
@@ -253,13 +273,17 @@ c) Derivado de caso fortuito o fuerza mayor, no sea posible ejecutar los trabajo
 
 Para participar en las licitaciones que se convoquen en la Entidad, será necesario contar con el Registro del Padrón de Contratistas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 20.
 
-La Contraloría tiene a su cargo inspeccionar y vigilar que los Entes Públicos cumplan con las disposiciones en materia de obra pública; llevará el Registro del Padrón de Contratistas de Obra Pública y fijará los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo con su especialidad, capacidad técnica y económica.
+La Secretaría de la Función Pública tiene a su cargo inspeccionar y vigilar que los Entes Públicos cumplan con las disposiciones en materia de obra pública; llevará el Registro de Padrón de Contratistas de Obra Pública y fijará los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo con su especialidad, capacidad técnica y económica.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 21.
 
-Las personas interesadas en obtener el registro en el Padrón de Contratistas, deberán solicitarlo por escrito ante la Contraloría.
+Las personas interesadas en obtener el registro en el Padrón de Contratistas, deberán solicitarlo por escrito ante laSecretaría (sic) de la Función Pública.
 
 ## TÍTULO CUARTO. DE LAS OBRAS Y SERVICIOS POR CONTRATO
 
@@ -355,7 +379,9 @@ VIII. Manifestación escrita de conocer el sitio de realización de los trabajos
 
 IX. Declaración escrita de conocer el contenido del modelo del contrato y su conformidad de ajustarse a sus términos;
 
-X. Cuando se requiera de materiales, maquinaria y equipo de instalación permanente de origen extranjero señalados por la Secretaría de Economía, la declaración escrita de que los precios consignados en su propuesta no se cotizan en condiciones de prácticas desleales de comercio internacional en su modalidad de discriminación de precios o de subsidios; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+X. Cuando se requiera de materiales, maquinaria y equipo de instalación permanente de origen extranjero señalados por la Secretaría de Economía del Gobierno Federal, la declaración escrita de que los precios consignados en su propuesta no se cotizan en condiciones de prácticas desleales de comercio internacional en su modalidad de discriminación de precios o de subsidios; y
 
 XI. Declaración de integridad, mediante la cual los licitantes manifiesten de que por sí mismos o a través de interpósita persona, se abstendrán de adoptar conductas para que los servidores públicos del Ente Público convocante, induzcan o alteren las evaluaciones de las propuestas, el resultado del procedimiento de contratación y cualquier otro aspecto que les otorguen condiciones más ventajosas, con relación a los demás participantes.
 
@@ -767,9 +793,11 @@ V. En las propuestas hayan presentado documentación no solicitada, información
 
 VI. Las demás que, de acuerdo a las características, magnitud y complejidad de los trabajos a realizar, sean consideradas expresamente en las bases de licitación por los Entes Públicos y que sean estrictamente necesarias para la evaluación de las propuestas o la realización de los trabajos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 47.
 
-Los Entes Públicos que realicen la cancelación de una licitación por caso fortuito o fuerza mayor, deberán notificar por escrito a los licitantes y la Contraloría, dentro de los diez días hábiles siguientes a su emisión, las razones justificadas que funden y motiven dicha determinación.
+Los Entes Públicos que realicen la cancelación de una licitación por caso fortuito o fuerza mayor, deberán notificar por escrito a los licitantes yla (sic) Secretaría de la Función Pública, dentro de los diez días hábiles siguientes a su emisión, las razones justificadas que funden y motiven dicha determinación.
 
 Cuando se presente alguna situación de caso fortuito o fuerza mayor, la convocante deberá abstenerse de realizar pago alguno por tal motivo.
 
@@ -811,7 +839,9 @@ La ubicación de las diversas áreas de los Entes Públicos, que por sí mismas 
 
 En las licitaciones de invitación a cuando menos tres personas, se seleccionará para participar a aquellos Contratistas cuya capacidad técnica y financiera se adecúe a las características de la obra por ejecutar, tomando en consideración que no se deberá invitar a los Contratistas que hubiesen ganado una invitación o se les haya adjudicado directamente un contrato, dentro de los tres meses anteriores.
 
-La inasistencia del representante invitado de la Contraloría, no será impedimento para continuar el procedimiento de licitación de invitación a cuando menos tres personas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La inasistencia del representante invitado de la Secretaría de la Función Pública, no será impedimento para continuar el procedimiento de licitación de invitación a cuando menos tres personas.
 
 ### CAPÍTULO III. La Contratación
 
@@ -2555,13 +2585,15 @@ Aquellos trabajos que se lleven a cabo con personal, con materiales existentes e
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 192.
 
-El Comité de Obras Públicas, es el órgano consultivo, informativo y auxiliar de la Secretaría y de la Secretaría de Planeación y Desarrollo Regional estará integrado de la siguiente manera:
+El Comité de Obras Públicas, es el órgano consultivo, informativo y auxiliar de la Secretaría y de la Unidad de Planeación, estará integrado de la siguiente manera:
 
-I. Un Presidente, que será el Titular de la Secretaría de Planeación y Desarrollo
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Regional;
+I. Un Presidente, que será el Titular de la Unidad de Planeación;
 
 II. Un Secretario, que será el Titular de la Secretaría;
 
@@ -2569,7 +2601,9 @@ III. Cuatro Vocales que serán:
 
 a) Un Representante de la Secretaría de Finanzas;
 
-b) Un Representante de la Oficialía Mayor;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+b) Un Representante de la Secretaría de Administración;
 
 c) Representante de la Cámara de la Industria de la Construcción;
 
@@ -2577,7 +2611,9 @@ d) Un Representante del Colegio de Ingenieros Civiles, relacionado con la constr
 
 e) Un Representante del Colegio de Arquitectos, relacionado con la construcción; y
 
-f) Un Comisario, designado por la Contraloría.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+f) Un Comisario, designado por la Secretaría de la Función Pública.
 
 Todos los miembros del Comité tendrán un suplente, con los mismos derechos de los titulares.
 
@@ -2611,9 +2647,11 @@ III. Vocales: en su caso, enviar al Secretario con la suficiente anticipación, 
 
 ### CAPÍTULO I. De las Sanciones y Medios de Defensa
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 198.
 
-Para la imposición de las sanciones previstas en la Ley, la Contraloría notificará a la persona física o moral, los hechos presumiblemente constitutivos de la infracción.
+Para la imposición de las sanciones previstas en la Ley, la Secretaría de la Función Pública notificará a la persona física o moral, los hechos presumiblemente constitutivos de la infracción.
 
 ###### Artículo 199.
 
@@ -2644,3 +2682,13 @@ LUIS GERARDO ROMO FONSECA
 EL SECRETARIO DE OBRAS PÚBLICAS
 
 HÉCTOR CASTANEDO QUIRARTE
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
