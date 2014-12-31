@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2014-10-24"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -1781,6 +1781,12 @@ I. Cédula de especialista legalmente expedida por la autoridad educativa compet
 
 II. Certificado vigente de especialista que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en la materia, expedido por el Consejo de la especialidad, según corresponda, de conformidad con el artículo 272 BIS de la Ley General de Salud.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Para acreditar capacidad y experiencia en la práctica de los procedimientos y técnicas el Consejo podrá considerar entre los elementos a evaluar, estudios de Posgrado de instituciones de educación superior que cuenten con el reconocimiento de las autoridades educativas competentes de validez oficial de estudios de sus planes y programas del tipo superior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 Los médicos especialistas podrán pertenecer a una agrupación médica cuyas bases de organización y funcionamiento estarán a cargo de las asociaciones, sociedades, colegios o federaciones de profesionales de su especialidad. Tales agrupaciones se encargarán de garantizar el profesionalismo y ética de los expertos en esta práctica de la Medicina.
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
@@ -2890,3 +2896,7 @@ P.O. 17 DE OCTUBRE DE 2014.
 P.O. 24 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
