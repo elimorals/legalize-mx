@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2014-11-19"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -793,7 +793,7 @@ Lo dispuesto en la parte final del mismo artículo anterior, tampoco comprende e
 
 ### CAPITULO I. CONSPIRACION
 
-113.- Hay conspiración siempre que dos o más personas resuelven de común acuerdo cometer alguno de los delitos de que se ocupan los capítulos II y III de este título, acordando los medios de llevar a efecto su determinación. La sanción aplicable será de seis meses a dos años de prisión o confinamiento a juicio del juez, y en uno u otro (sic) casos, multa de cinco a cincuenta cuotas.
+113.- Hay conspiración siempre que dos o más personas resuelven de común acuerdo cometer alguno de los delitos de que se ocupan los capítulos II y III de este título, acordando los medios de llevar a efecto su determinación. La sanción aplicable será de seis meses a dos años de prisión o confinamiento a juicio del juez, y en uno u otro casos, multa de cinco a cincuenta cuotas.
 
 ### CAPITULO II. REBELION
 
@@ -2014,6 +2014,22 @@ II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutila
 257.- Comete el delito de amenazas, el que valiéndose de cualquier medio, intimide a otro con causarle un mal en su persona, en su honor, en su prestigio, en sus bienes o en la persona, honor, prestigio o bienes de alguien con quien esté ligado con cualquier vínculo.
 
 El delito de amenazas se sancionará con prisión de tres meses a un año o multa de cinco a veinte cuotas, o trabajo en favor de la comunidad hasta por quince días, a juicio del juzgador.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+257 Bis.- Al que con la intención de requerir el pago de una deuda, ya sea propia del deudor o de quien funja como referencia o aval, utilice medios ilícitos e ilegítimos, se valga del engaño, o efectúe actos de hostigamiento, intimidación, violencia, ofensas y amenazas, ya sea de manera personal o utilizando medios telefónicos, electrónicos, correspondencia o computacionales de comunicación, aun cuando sean efectuados por medio de grabaciones o textos, se le impondrá prisión de seis meses a dos años y una multa de ciento cincuenta a trescientos días de cuotas de salario mínimo vigente en el estado. Además de las sanciones que correspondan si para tal efecto se empleó documentación, sellos falsos o se usurparon funciones públicas o de profesión, se aplicarán las reglas del concurso de delitos. Para la reparación del daño cometido se estará a lo dispuesto en el artículo 32 de este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+257 Ter.- Se aumentarán en una cuarta parte la sanción pecuniaria y privativa a que hace referencia el artículo anterior, si además:
+
+I. Se hace el requerimiento del pago de forma ilícita o ilegítima por cualquier medio a familiares del deudor o quien funja como referencia o aval;
+
+II. Si se hace de forma personal o telefónica fuera de días y horas hábiles de atención al público;
+
+III. Si se hace por vía telefónica desde número privado o no identificable, o
+
+IV. Si quien hace el requerimiento por cualquier medio, no se identifica en ese momento.
 
 258.- Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho a hacer, se le aplicarán las mismas sanciones a que se refiere el artículo anterior.
 
@@ -3818,3 +3834,9 @@ P.O. 19 DE NOVIEMBRE DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
