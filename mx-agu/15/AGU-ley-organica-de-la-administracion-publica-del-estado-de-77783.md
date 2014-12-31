@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2014-09-29"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -38,6 +38,8 @@ Decreto Número 19
 ###### ARTÍCULO ÚNICO.
 
 Se aprueba la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, para quedar en los siguientes términos:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO TERCERO Y QUINTO DEL DECRETO NÚMERO 168 MEDIANTE EL CUAL SE APRUEBA LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS, PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2014, TODA REFERENCIA A LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE AGUASCALIENTES REALIZADA EN OTROS ORDENAMIENTOS, SE ENTENDERÁ HECHA A LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; ASÍ COMO TODA REFERENCIA AL ARTÍCULO 25 DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE AGUASCALIENTES QUE SE (SIC) REALIZADA EN OTROS ORDENAMIENTOS, SE ENTENDERÁ HECHA AL ARTÍCULO 55 DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS, RESPECTIVAMENTE.</small>
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DEL 10 DE JUNIO DE 2013, LAS REFERENCIAS AL INSTITUTO DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES QUE HAGAN LAS LEYES Y DEMÁS DISPOSICIONES ADMINISTRATIVAS, EN ADELANTE SE ATENDERÁN REALIZADAS A LA SECRETARÍA DE LA JUVENTUD.</small>
 
@@ -675,7 +677,9 @@ IV. Intervenir en la elaboración y proponer para firma del Gobernador del Estad
 
 V. Inscribir, en el ámbito de su competencia, Convenios de Coordinación y Colaboración con otras Dependencias y Entidades Federales, con los municipios del Estado o con otros Estados;
 
-VI. Ejercer las atribuciones que deriven de los Convenios de Coordinación Fiscal o Colaboración Administrativa y sus anexos, celebrados por el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público del Gobierno Federal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VI. Intervenir en la elaboración y proponer para firma del Gobernador del Estado, a través del Jefe de Gabinete, los Convenios de Coordinación Fiscal o Colaboración Administrativa, y sus respectivos anexos, con la Secretaría de Hacienda y Crédito Público del Gobierno Federal, o con los Municipios del Estado.
 
 VII. Recaudar los ingresos ordinarios y extraordinarios que conforme a las disposiciones jurídicas vigentes correspondan al Estado;
 
@@ -719,7 +723,9 @@ XXV. Dirigir la organización y llevar el registro y control de la Deuda Públic
 
 XXVI. Organizar, dirigir, controlar y supervisar las actividades de todas sus oficinas recaudadoras;
 
-XXVII. Determinar las bases, lineamientos y normas sobre:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXVII. Establecer las políticas financieras, fiscales y crediticias, así como determinar las bases, lineamientos y normas sobre:
 
 a) Los procesos de planeación, programación y elaboración anual del Presupuesto de Egresos del Estado;
 
@@ -1187,7 +1193,7 @@ XXX. Ejercer las atribuciones y facultades que le señalen las demás leyes, reg
 
 A la Secretaría de Desarrollo Rural y Agroempresarial corresponde el despacho de los siguientes asuntos:
 
-l. Coordinar, promover, ejecutar y evaluar las políticas, planes y programas en materia de desarrollo, promoción y fomento agrícola, ganadero, forestal y de desarrollo hidráulico y agroindustrial;
+I. Coordinar, promover, ejecutar y evaluar las políticas, planes y programas en materia de desarrollo, promoción y fomento agrícola, ganadero, forestal y de desarrollo hidráulico y agroindustrial;
 
 II. Planear la expansión, mejoramiento y tecnificación de las actividades relacionadas con la producción e industrialización agrícola, ganadera, forestal, y de desarrollo rural y agroempresarial;
 
@@ -1349,7 +1355,7 @@ XLII. Ejercer las atribuciones y facultades que le señalen las demás leyes, re
 
 A la Coordinación Estatal de Planeación y Proyectos corresponde el despacho de los siguientes asuntos:
 
-l. Proyectar y coordinar las actividades de planeación del desarrollo estatal, y promover las acciones que deriven de su implantación;
+I. Proyectar y coordinar las actividades de planeación del desarrollo estatal, y promover las acciones que deriven de su implantación;
 
 II. Conducir, regular y coordinar el Sistema Estatal de Planeación;
 
@@ -1415,9 +1421,17 @@ XXVIII. Formular los proyectos especiales que le encomiende el Titular del Poder
 
 XXIX. Coordinar las acciones que la Federación y el Gobierno del Estado convengan con los gobiernos municipales para el desarrollo integral de las diversas regiones del Estado;
 
-XXX. Ejercer las funciones que corresponden al Secretariado Técnico del Consejo Estatal de Población; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXXI. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+XXX. Ejercer las funciones que corresponden al Secretariado Técnico del Consejo Estatal de Población;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXXI. Diseñar, coordinar y operar el Sistema de Evaluación del Desempeño previsto en la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, así como las otras atribuciones que con respecto a este Sistema le confiera la legislación aplicable; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXXII. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
 
 #### SECCIÓN DÉCIMA CUARTA. De la Oficialía Mayor
 
@@ -1503,11 +1517,13 @@ VI. Coordinar, controlar y evaluar a las contralorías internas de las Dependenc
 
 VII. Acordar con el Titular del Poder Ejecutivo del Estado y el Jefe de Gabinete la designación y remoción de los Contralores Internos en las Dependencias del Poder Ejecutivo y de los comisarios o sus equivalentes, en los órganos de vigilancia de los consejos o juntas de gobierno y administración de las Entidades del Poder Ejecutivo;
 
-VIII. Planear, establecer y coordinar, conjuntamente con la Secretaría de Finanzas y la Oficialía Mayor, el sistema de autoevaluación integral de la gestión pública, para lo cual deberá:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Integrar el Sistema de Indicadores de Desempeño, Eficiencia, Eficacia y Economía, con la correspondiente participación de las Dependencias y Entidades de la Administración Pública Estatal; y
+VIII. Prestar apoyo a las dependencias y entidades de la Administración Pública Estatal mediante:
 
-b) Evaluar las actividades gubernamentales con base en las autoevaluaciones que realicen las Dependencias y Entidades, así como mediante la aplicación de sus propias evaluaciones;
+a) La realización de revisiones preventivas sobre el ejercicio del gasto público con la emisión de recomendaciones para los funcionarios públicos en el cumplimiento de la normatividad aplicable;
+
+b) Asistir a los servidores públicos como enlace ante otras autoridades fiscalizadoras, durante los procedimientos de fiscalización que practiquen dichas autoridades, así como durante los periodos para solventar las observaciones, coordinarse con los funcionarios públicos en la presentación de la documentación requerida.
 
 IX. Medir el impacto social de la gestión pública;
 
@@ -1904,3 +1920,29 @@ En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado,
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones contrarias al contenido del presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Aguascalientes contenida en el Decreto número 45 publicado en el Periódico Oficial del Estado de Aguascalientes el 10 de noviembre de 1996. Asimismo, se deroga toda disposición legal que se oponga al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Toda referencia a la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Aguascalientes realizada en otros ordenamientos, se entenderá hecha a la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+###### ARTÍCULO CUARTO.
+
+Los reglamentos, lineamientos y demás disposiciones y prácticas administrativas vigentes a la fecha de entrada en vigor del presente Decreto, seguirán aplicándose en lo que no se opongan al mismo.
+
+###### ARTÍCULO QUINTO.
+
+Toda referencia al Artículo 25 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Aguascalientes que se (sic) realizada en otros ordenamientos, se entenderá hecha al Artículo 55 de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+###### ARTÍCULO SEXTO.
+
+Los Municipios, los Poderes Legislativo y Judicial, así como los Órganos Autónomos, dentro de los noventa días naturales siguientes al inicio de vigencia del presente Decreto, establecerán la instancia técnica de evaluación a que se refiere el Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
