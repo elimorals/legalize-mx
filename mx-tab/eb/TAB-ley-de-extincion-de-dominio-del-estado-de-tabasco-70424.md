@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-extincion-de-dominio-del-estado-de-tabasco-70424"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-30"
-last_updated: "2009-09-30"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE EXTINCION DE DOMINIO DEL ESTADO DE TABASCO
 
-LEY DE EXTINCION DE DOMINIO DEL ESTADO DE TABASCO
+LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de septiembre de 2009.
 
@@ -33,7 +35,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA NOVENA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCION I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO, Y:
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 SEPTIMO.- En consecuencia, siendo facultad de este Honorable Congreso, de conformidad con lo dispuesto por el artículo 36, fracción I de la Constitución Política Local, expedir, reformar, adicionar, derogar y abrogar las Leyes y Decretos para la mejor administración del Estado, planeando su desarrollo económico y social, se emite el siguiente:
 
@@ -249,7 +251,7 @@ V. Su aseguramiento;
 
 VI. Rompimiento de cerraduras y el uso de la fuerza pública;
 
-VII. El embargo de bienes; dinero en depósito en el sistema financiero; títulos (sic) valor y sus rendimientos, lo mismo que la orden de no pagarlos cuando fuere imposible su aprehensión física; o
+VII. El embargo de bienes; dinero en depósito en el sistema financiero; títulos valor y sus rendimientos, lo mismo que la orden de no pagarlos cuando fuere imposible su aprehensión física; o
 
 VIII. Las demás que considere necesarias, siempre y cuando funde y motive su procedencia, o aquellas contenidas en la legislación vigente.
 
@@ -620,3 +622,15 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se abroga la Ley de Extinción de Dominio del Estado de Tabasco, publicada mediante Decreto 189 en el suplemento “C” al Periódico Oficial 6998 de fecha 30 de septiembre de 2009 y su Reglamento. Se derogan todas las demás disposiciones que se opongan a lo establecido en esta Ley.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado y el Fiscal General del Estado, así como el órgano que corresponda del Poder Judicial, en el ámbito de sus respectivas competencias, emitirán los ordenamientos de carácter administrativo necesarios para el adecuado cumplimiento de esta Ley.
+
+CUARTO.- Todos los procedimientos que se encuentren en trámite o pendientes de resolución a la fecha de la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones que se encontraban vigentes en el momento que se iniciaron.
