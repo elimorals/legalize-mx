@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-periodico-oficial-del-estado-13219"
 country: "mx"
 rank: "ley"
 publication_date: "1988-11-23"
-last_updated: "2013-03-23"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DEL PERIODICO OFICIAL DEL ESTADO
 
-LEY DEL PERIODICO OFICIAL DEL ESTADO
+LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley Publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 23 de noviembre de 1988.
 
@@ -164,3 +166,17 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero.- La presente Ley entrará en vigor el día primero de enero del 2015, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se abroga la Ley del Periódico Oficial del Estado, publicada en el Decreto 374, Suplemento del 1 al 94 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 23 de Noviembre de 1988.
+
+Tercero.- Se derogan todas aquellas disposiciones que se opongan al cumplimiento de la presente Ley.
+
+Cuarto.- A partir de la entrada en vigor de la presente Ley, los recursos humanos, materiales y financieros asignados al Periódico Oficial, Órgano del Gobierno del Estado, a través de la Secretaría de Administración, pasarán al servicio de la Coordinación General Jurídica.
+
+Los derechos laborales de los trabajadores al servicio del Periódico Oficial, serán respetados conforme al marco jurídico aplicable.
+
+Quinto.- Dentro de un término que no excederá de 90 días naturales posteriores a la entrada en vigor de esta Ley, la Coordinación General Jurídica y la Secretaría de Administración, deberán adecuar sus reglamentos interiores.
