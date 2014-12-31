@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-del-estado-de-oaxaca-84808"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2014-12-27"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,29 @@ state: "OAX"
 ---
 # LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
+LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
 
-Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE DICIEMBRE DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 880 PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2014.]</small>
 
-EL C. RODOLFO FELIX VALDES, Gobernador Constitucional del Estado Libre y Soberano de Sonora, a sus habitantes, sabed:
+Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
-Que el H. Congreso del Estado, se ha servido dirigirme la siguiente LEY:
+LIC. GABINO CUÉ MONTEAGUDO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
 
-NUMERO 26
+QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE:
 
-EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
+DECRETO NUM. 710
 
-LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA.
+LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, APRUEBA:
 
-## TITULO PRIMERO
+LEY ESTATAL DE DERECHOS
+
+## Título Primero. Disposiciones Generales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012) (F. DE E., P.O. 27 DE FEBRERO DE 2013)
 
 ###### Artículo 1.
 
@@ -179,7 +185,13 @@ El Poder Judicial, Órganos Autónomos, Dependencias y Entidades que presten ser
 
 El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, en reglas de carácter general determinará los montos y procedimientos para determinar el destino de los derechos contenidos en la presente Ley.
 
-## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA DIRECTA
+## Título Segundo. De los derechos por el uso, goce o aprovechamiento de bienes del Dominio Público
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1386, PUBLICADO EN EL P.O. 15 DE DICIEMBRE DE 2012, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -213,7 +225,11 @@ Asimismo, podrá celebrar convenios con los Ayuntamientos de la Entidad, a efect
 
 Los titulares de las dependencias, cuando así lo determine el Ejecutivo Estatal, podrán firmar en representación del Gobierno del Estado los convenios a que se refiere este artículo, así como los convenios o acuerdos de coordinación o de colaboración que se deriven de los mismos.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### Capítulo Primero. Bienes de Dominio Público en Custodia de la Secretaría de las Culturas y Artes de Oaxaca
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 1o.
 
@@ -256,22 +272,6 @@ La constitución de las empresas de participación estatal mayoritaria, de las s
 Las leyes, decretos, reglamentos, acuerdos, circulares y órdenes que suscriba el Gobernador del Estado, en ejercicio de sus funciones constitucionales, en todo caso, deberán ser refrendados con la firma del Secretario de Gobierno y comunicados por éste. Sin este requisito no surtirán efectos legales.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
-
-###### ARTICULO 7o.
-
-Corresponde al Gobernador del Estado nombrar y remover libremente a los Secretarios, al Procurador General de Justicia del Estado y a los demás trabajadores de confianza cuyo nombramiento o remoción no corresponda a otra autoridad.
-
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 1986)</small>
-
-Asimismo, compete al Gobernador nombrar y remover a los demás trabajadores de la Administración Pública Directa, en los términos y conforme a los requisitos que dispongan los ordenamientos jurídicos respectivos, pudiendo delegar, por Acuerdo, esta facultad en el funcionario que designe, sin perjuicio de su ejercicio directo cuando lo juzgue conveniente.
-
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 1986)</small>
-
-El Acuerdo a que se refiere el párrafo anterior, deberá publicarse en el Boletín Oficial del Gobierno del Estado.
-
-(ADICIONADO, B.O. 20 DE MAYO DE 2004(
-
-Queda prohibido al Ejecutivo Estatal hacer entrega de numerario o bienes en especie a servidores públicos de confianza de primer nivel, a título de bono, indemnización, compensación, o cualquier otro concepto semejante o análogo, por dejar de prestar sus servicios a la conclusión del sexenio o dentro del año inmediato anterior.
 
 ###### Artículo 8.
 
@@ -543,9 +543,95 @@ X Visita guiada por persona: $20.00
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-Las dependencias de la administración pública directa tendrán igual rango y entre ellas no habrá, por lo tanto, preeminencia alguna.
+Por el uso, goce o aprovechamiento del Museo Estatal de Arte Popular "Oaxaca", se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
+
+Número de salarios
+
+mínimos
+
+I Patio Central
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 67.00
+
+2 Por 6 horas: 57.00
+
+3 Por 3 horas: 39.00
+
+4 Por hora adicional: 15.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 133.00
+
+2 Por 6 horas: 114.00
+
+3 Por 3 horas: 77.00
+
+4 Por hora adicional: 15.00
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 9 horas: 54.00
+
+2 Por 6 horas: 46.00
+
+3 Por 3 horas: 31.00
+
+4 Por hora adicional: 15.00
+
+II Terraza
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 67.00
+
+2 Por 6 horas: 57.00
+
+3 Por 3 horas: 39.00
+
+4 Por hora adicional: 15.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 133.00
+
+2 Por 6 horas: 114.00
+
+3 Por 3 horas: 77.00
+
+4 Por hora adicional: 15.00
+
+III Patio y Terraza
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 133.00
+
+2 Por 6 horas: 114.00
+
+3 Por 3 horas: 77.00
+
+4 Por hora adicional: 15.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 266.00
+
+2 Por 6 horas: 229.00
+
+3 Por 3 horas: 152.00
+
+4 Por hora adicional: 30.46
+
+Pesos
+
+IV Establecimiento comercial, por mes: $2,679.00
+
+V Visita guiada por persona $20.00
 
 #### Sección Tercera. Del Teatro Macedonio Alcalá
 
@@ -553,9 +639,141 @@ Las dependencias de la administración pública directa tendrán igual rango y e
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 11.
+###### Artículo 11.
 
-Los titulares de las dependencias a que se refiere esta ley ejercerán sus funciones por acuerdo del Gobernador del Estado.
+Por el uso, goce o aprovechamiento del Teatro Macedonio Alcalá, se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
+
+Número de salarios
+
+mínimos
+
+I Foro
+
+a) Actividad Gubernamental:
+
+1 Por 12 horas: 423.00
+
+2 Por 8 horas: 339.00
+
+3 Por hora adicional: 51.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 12 horas: 846.00
+
+2 Por 8 horas: 677.00
+
+3 Por hora adicional: 51.00
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 12 horas: 339.00
+
+2 Por 8 horas: 271.00
+
+3 Por hora adicional: 51.00
+
+II Salón Excasino
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 112.00
+
+2 Por 6 horas: 95.00
+
+3 Por 3 horas: 64.00
+
+4 Por hora adicional: 26.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 223.00
+
+2 Por 6 horas: 191.00
+
+3 Por 3 horas: 127.00
+
+4 Por hora adicional: 26.00
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 9 horas: 90.00
+
+2 Por 6 horas: 76.00
+
+3 Por 3 horas: 51.00
+
+4 Por hora adicional: 26.00
+
+III Salón Herradura
+
+a) Actividad Gubernamental:
+
+1 Por 9 horas: 45.00
+
+2 Por 6 horas: 38.00
+
+3 Por 3 horas: 26.00
+
+4 Por hora adicional: 11.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 9 horas: 90.00
+
+2 Por 6 horas: 76.00
+
+3 Por 3 horas: 51.00
+
+4 Por hora adicional: 11.00
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 9 horas: 35.00
+
+2 Por 6 horas: 31.00
+
+3 Por 3 horas: 21.00
+
+4 Por hora adicional: 11.00
+
+IV Foro, Salón Herradura y Excasino
+
+a) Actividad Gubernamental:
+
+1 Por 24 horas: 863.00
+
+2 Por 12 horas: 647.00
+
+3 Por 6 horas: 432.00
+
+4 Por hora adicional: 86.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 24 horas: 1395.00
+
+2 Por 12 horas: 1295.00
+
+3 Por 6 horas: 864.00
+
+4 Por hora adicional: 86.00
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 24 horas: 691.00
+
+2 Por 12 horas: 518.00
+
+3 Por 6 horas: 346.00
+
+4 Por hora adicional: 86.00
+
+Pesos
+
+V Establecimiento comercial, por mes: $ 17,857.00
+
+VI Visita guiada por persona: $20.00
 
 #### Sección Cuarta. Del Teatro Juárez
 
@@ -563,9 +781,51 @@ Los titulares de las dependencias a que se refiere esta ley ejercerán sus funci
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 12.
+###### Artículo 12.
 
-Al frente de cada Secretaría habrá un Secretario, quien para el despacho de los asuntos de su competencia se auxiliará por los subsecretarios, directores, subdirectores y demás funcionarios y empleados que autorice el Presupuesto.
+Por el uso, goce o aprovechamiento del Teatro Juárez, se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
+
+Número de salarios
+
+mínimos
+
+I Foro
+
+a) Actividad Gubernamental:
+
+1 Por 12 horas: 169.00
+
+2 Por 8 horas: 148.00
+
+3 Por 6 horas: 127.00
+
+4 Por hora adicional: 26.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 12 horas: 339.00
+
+2 Por 8 horas: 296.00
+
+3 Por 6 horas: 254.00
+
+4 Por hora adicional: 26.00
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 12 horas: 94.00
+
+2 Por 8 horas: 76.00
+
+3 Por 6 horas: 51.00
+
+4 Por hora adicional: 26.00
+
+Pesos
+
+II Establecimiento comercial, por mes: $7,143.00
+
+III Visita guiada por persona: $20.00
 
 #### Sección Quinta. Del Teatro Álvaro Carrillo
 
@@ -573,11 +833,47 @@ Al frente de cada Secretaría habrá un Secretario, quien para el despacho de lo
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 13.
+###### Artículo 13.
 
-(DEROGADO, B.O. 17 DE DICIEMBRE DE 1992)
+Por el uso, goce o aprovechamiento del Teatro Álvaro Carrillo, se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+Número de salarios
+
+mínimos
+
+I Foro
+
+a) Actividad Gubernamental:
+
+1 Por 12 horas: 259.00
+
+2 Por 8 horas: 213.00
+
+3 Por 6 horas: 183.00
+
+4 Por hora adicional: 37.00
+
+b) Actividad Empresarial y Privada:
+
+1 Por 12 horas: 518.00
+
+2 Por 8 horas: 427.00
+
+3 Por 6 horas: 366.00
+
+4 Por hora adicional: 37.00
+
+c) Actividad Académica y/o Cultural:
+
+1 Por 12 horas: 207.00
+
+2 Por 8 horas: 171.00
+
+3 Por 6 horas: 146.00
+
+4 Por hora adicional: 37.00
+
+II Lobby, Mezzanine, Vestíbulo, por hora: 9.00
 
 #### Sección Sexta. Del Salón de Exposiciones "Monte Albán"
 
@@ -585,17 +881,37 @@ Al frente de cada Secretaría habrá un Secretario, quien para el despacho de lo
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 14.
+###### Artículo 14.
 
-El Gobernador del Estado, en los términos del artículo 79, fracciones I y XVIII de la Constitución Política del Estado de Sonora, emitirá los reglamentos interiores, los acuerdos, las circulares y las demás disposiciones que tiendan a regular el funcionamiento de las dependencias.
+Por el uso, goce o aprovechamiento del Salón de Exposiciones "Monte Albán", se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
 
-Los reglamentos interiores de las dependencias determinarán las atribuciones y la adscripción, en su caso, de las unidades administrativas de éstas, así como la forma en que los titulares de dichas dependencias y de las señaladas unidades, podrán ser suplidos en sus ausencias.
+Número de salarios
 
-Los manuales de organización, de procedimientos y de servicios al público, deberán mantenerse permanentemente actualizados. Estos instrumentos de apoyo administrativo contendrán información sobre la estructura orgánica de las dependencias y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan.
+mínimos
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+I Salón de Exposiciones por hora:
 
-Los reglamentos interiores de las dependencias deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+a) Actividad Gubernamental: 9.00
+
+b) Actividad Empresarial: 18.00
+
+c) Actividad Privada: 17.00
+
+d) Actividad Académica y/o Cultural: 9.00
+
+II Salón Dainzú, por hora:
+
+a) Actividad Gubernamental: 4.00
+
+b) Actividad Empresarial: 9.00
+
+c) Actividad Privada: 8.00
+
+d) Actividad Académica y/o Cultural: 4.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 #### Sección Séptima. Del Museo de Arqueología Ervin Frissell
 
@@ -709,13 +1025,11 @@ a) Acceso al Museo, por persona: $20.00
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO I. DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA DIRECTA
+### Capítulo Segundo. Bienes de Dominio Público en Custodia de la Secretaría de Administración
 
-###### ARTICULO 15.
+###### Artículo 15.
 
-Corresponde a los titulares de las dependencias de la administración pública directa el trámite y resolución de los asuntos de su competencia; pero para la mejor organización del trabajo podrán delegar en los funcionarios a que se refieren los Artículos 12 y 13 de esta ley, cualesquiera de sus facultades, excepto aquellas que por disposición de la ley o del reglamento interior respectivo, deban ser ejercidas precisamente por dichos titulares.
-
-Los acuerdos por los cuales se deleguen facultades se publicarán en el Boletín Oficial del Gobierno del Estado.
+Por el uso, goce o aprovechamiento de bienes del dominio público del Estado en custodia de la Secretaría de Administración, las personas físicas y morales causarán y pagarán derechos conforme a las siguientes cuotas:
 
 #### Sección Segunda Bis. Espacios en Instalaciones de Oficinas y Complejos Públicos
 
@@ -759,445 +1073,1231 @@ Hasta 22 metros cuadrados: $13,393.00
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 16.
+###### Artículo 16.
 
-Los titulares de las dependencias a que se refiere esta ley, formularán los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y órdenes, cuyas materias correspondan a sus atribuciones y las remitirán al Gobernador del Estado.
+Por el uso, goce o aprovechamiento del Auditorio Guelaguetza, se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
 
-> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+Número de salarios
+
+mínimos
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+I Actividades Artísticas por 24 horas: 1490.00
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+II Actividades Gubernamentales
+
+por 24 horas: 745.00
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+III Actividades Culturales y Sociales que
+
+no causen cobro de boletaje por 24 horas: 784.00
+
+IV (DEROGADA, P.O. 10 DE MAYO DE 2014)
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+V Por hora adicional en cualquiera de las
+
+fracciones anteriores: 24.00
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 #### Sección Primera. Registro Civil
 
 #### Sección Segunda. Registro Público de la Propiedad y del Comercio
 
+###### Artículo 17.
+
+Las personas físicas que tengan acceso al Planetario Nundehui causarán y pagarán derechos de conformidad con las siguientes cuotas:
+
+Pesos
+
+I Planetario
+
+a) Acceso al Planetario $20.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+#### Sección Tercera. Del Ejercicio Notarial
+
+### Capítulo Tercero. Bienes de Dominio Público en Custodia de la Casa de la Cultura Oaxaqueña
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 17.
-
-Para la eficaz atención y el eficiente despacho de los asuntos de su competencia, las Dependencias podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
-
-#### Sección Tercera. Del Ejercicio Notarial
-
-### CAPITULO II. DE LA COMPETENCIA DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA DIRECTA
-
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
-
 #### Sección Cuarta. Publicaciones
 
-###### ARTICULO 18.
+###### Artículo 18.
 
-El Gobernador del Estado podrá constituir comisiones intersecretariales, para el despacho de asuntos en que deban intervenir varias dependencias.
+Por el uso, goce o aprovechamiento del Estadio de Futbol "Benito Juárez", se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
 
-Las entidades de la administración pública paraestatal podrán integrarse a dichas comisiones, cuando se trate de asuntos relacionados con su objeto.
+Número de salarios
 
-Las comisiones podrán ser transitorias o permanentes y serán presididas por quien determine el Gobernador del Estado.
+mínimos
 
-#### Sección Quinta. Por los Servicios que se presten en materia de Transporte Público
+I Estadio de futbol “Benito Juárez”
+
+a) Actividades Artísticas, Culturales
+
+y Académicas, por 8 horas: 1,400.00
+
+b) Actividades Gubernamentales, por 8 horas: 700.00
+
+c) Actividades Deportivas, por 3 horas:
+
+1 Liga MX o su equivalente: 300.00
+
+2 Primera División A: 200.00
+
+3 Segunda División: 150.00
+
+4 Tercera División o Eventos Deportivos
+
+de Promoción: 100.00
+
+d) Por hora adicional en cualquiera de los
+
+incisos anteriores: 100.00
+
+II Explanada y canchas de básquetbol
+
+a) Exposiciones Comerciales y Ferias,
+
+por 15 días: 1200.00
+
+b) Actividades Artísticas, Culturales y
+
+Verbenas populares, por 8 horas: 700.00
+
+c) Actividades Gubernamentales,
+
+por 8 horas: 350.00
+
+III Estacionamiento del Estadio
+
+Actividades Artísticas, Culturales y
+
+Deportivas, por 8 horas: 180.00
+
+IV Teatro al aire libre “Ciudad de
+
+las Canteras”, por 3 horas: 3.00
+
+Se cobrará adicionalmente el 25 por ciento sobre el costo del derecho a pagar por el uso del inmueble, por concepto de energía eléctrica.
+
+#### Sección Quinta. De los Servicios en materia de Control de Confianza
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 19.
+
+Por el uso, goce o aprovechamiento de bienes en custodia de la Casa de la Cultura Oaxaqueña, se causarán y pagarán derechos de conformidad con lo siguiente:
+
+Número de salarios
+
+mínimos
+
+I Foro Margarita Maza Parada
+
+a) Por 3 horas: 37.00
+
+b) Por 1 hora: 16.00
+
+c) Equipo de sonido, por 1 hora: 14.00
+
+d) Equipo de iluminación, por 1 hora: 17.00
+
+e) Mobiliario, por 1 hora: 10.00
+
+II Pérgola Sor Juana Inés de la Cruz
+
+a) Por 3 Horas: 18.00
+
+b) Por 1 Hora: 8.00
+
+c) Equipo de sonido, por 1 hora: 14.00
+
+d) Equipo de iluminación, por 1 hora: 17.00
+
+e) Mobiliario, por 1 hora: 10.00
+
+III Sala Arcelia Yáñiz
+
+a) Por 3 horas: 26.50
+
+b) Por 1 Hora: 11.50
+
+c) Equipo de sonido, por 1 hora: 6.00
+
+d) Equipo de iluminación, por 1 hora: 7.00
+
+IV Sala Andrés Henestrosa
+
+a) Por 3 Horas: 26.50
+
+b) Por 1 Hora: 11.50
+
+c) Equipo de sonido, por 1 hora: 6.00
+
+d) Equipo de iluminación, por 1 hora: 7.00
+
+e) Mobiliario, por 1 hora: 10.00
+
+Para el caso de que no sea utilizado el equipo de sonido e iluminación se cobrará el 25 por ciento sobre el costo del derecho a pagar por el uso del inmueble, por concepto de uso de energía eléctrica.
+
+Tratándose de Actividades Gubernamentales, se causará el pago del 50 por ciento de la cuota establecida en la fracción e inciso de que se trate.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+### Capítulo Cuarto. Del Jardín Etnobotánico
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTICULO 19.
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-Cuando alguna dependencia de la administración pública directa necesite informes, datos o la cooperación técnica de cualquier otra dependencia, ésta tendrá la obligación de proporcionarlos.
+Artículo 19 A. Por el uso, goce o aprovechamiento de las instalaciones del Jardín Etnobotánico, se causarán y pagarán derechos de conformidad con las siguientes cuotas:
 
-### CAPITULO I. DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
+Número de salarios
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+mínimos
 
-### CAPITULO II. DEL OBJETO, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS ENTIDADES PARAESTATALES
+I Plazuela
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+a) Por 7 horas: 2255.00
 
-###### ARTICULO 20.
+b) Actividades Gubernamentales: 1130.00
 
-Cuando exista duda respecto de la competencia de las dependencias para la atención de algún asunto, el Gobernador del Estado decidirá a cuál de ellas le corresponde atenderlas y emitirá, para tal efecto, el acuerdo respectivo que delimite en definitiva la esfera competencial cuestionada.
+c) Por hora adicional: 562.00
 
-## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
+II Patio del Huaje
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 26 DE DICIEMBRE DE 1986)</small>
+a) Por 7 horas: 1130.00
 
-### CAPITULO III. DEL DESARROLLO Y OPERACIÓN DE LAS ENTIDADES PARAESTALES
+b) Actividades Gubernamentales: 566.00
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+c) Por hora adicional: 281.00
 
-###### ARTICULO 21.
+III Cubo de la Escalera
 
-El Procurador General de Justicia es representante legal del Poder Ejecutivo del Estado. La organización, funcionamiento, jurisdicción, competencia, facultades y obligaciones de la institución del Ministerio Público, se regirán por lo dispuesto en la Constitución Política del Estado, en la Ley Orgánica respectiva y en las demás leyes.
+a) Por 3 horas: 42.00
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+b) Actividades Gubernamentales: 22.00
 
-###### ARTICULO 22.
+IV La Taquilla
 
-Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo del Estado contará con las siguientes dependencias:
+a) Por 3 horas: 42.00
 
-I.- Secretaría de Gobierno.
+b) Actividades Gubernamentales: 22.00
 
-II.- Secretaría de Hacienda.
+V Las Orquídeas
 
-III.- Secretaría de la Contraloría General.
+a) Por 3 horas: 33.00
 
-IV.- Secretaría de Educación y Cultura.
+b) Actividades Gubernamentales: 20.00
 
-V.- Secretaría de Salud Pública.
+VI Imagen del Jardín con fines comerciales
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+a) Sesión de Fotografía o Video: 200.00
 
-VI.- Secretaría de Infraestructura y Desarrollo Urbano.
+Pesos
 
-VII.- Secretaría de Economía.
+VII Visitas Guiadas
 
-VIII.- Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura.
+a) Español
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+1 Por hora: $50.00
 
-IX.- Secretaría de Desarrollo Social;
+b) Inglés
 
-> <small>(REFORMADA, B.O. 11 DE JULIO DE 2011)</small>
+1 Por hora: $100.00
 
-X.- Secretaría del Trabajo;
+Las sesiones de fotografía o video de carácter educativo y cultural no serán sujetos al pago de derechos.
 
-> <small>(REFORMADA, B.O. 11 DE JULIO DE 2011)</small>
+En las visitas guiadas se otorgará un estímulo fiscal del 50 por ciento a estudiantes con credencial de instituciones educativas nacionales y adultos mayores.
 
-XI.- Secretaría de Seguridad Pública; y
+Las visitas guiadas para grupos de estudiantes provenientes de instituciones públicas nacionales serán gratuitas previa solicitud de la institución señalando día y hora de la visita.
 
-> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-XII.- Procuraduría General de Justicia.
+### Capítulo Quinto. Centro de las Artes de San Agustín
 
-Los titulares de estas dependencias, subsecretarios, coordinadores, directores generales, directores, subdirectores, jefes de departamento, secretarios particulares y ayudantes personales, serán trabajadores de confianza, para los efectos de la Ley del Servicio Civil del Estado.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-En ausencia del titular de la dependencia, éste será suplido en la forma que determine el reglamento interior respectivo.
+Artículo 19 B. Las personas físicas, morales y unidades económicas que soliciten el uso, goce o aprovechamiento de las instalaciones del Centro de las Artes de San Agustín, causarán y pagarán derechos de conformidad con las siguientes cuotas:
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+Número de salarios
 
-### CAPITULO IV. DEL CONTROL, VIGILANCIA Y EVALUACION DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
+Mínimos
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+I Sesión fotográfica individual: 33.00
 
-###### ARTICULO 23.
+II Sesión fotográfica grupal: 82.00
 
-A la Secretaría de Gobierno le corresponde ejercer, sin perjuicio de las facultades y obligaciones que señalan los artículos 77 y 82 de la Constitución Política del Estado, las siguientes:
+III Talleres para fotografía, grabado tradicional,
 
-A. En materia de política interna y externa:
+digital de producciones artísticas y culturales por
 
-I.- Ser el conducto del Ejecutivo para atender los asuntos de política interna del Estado;
+actividad: 95.00
 
-II.- Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial y con los Ayuntamientos de los municipios del Estado; con los Poderes de la Unión y con los Gobiernos de las otras Entidades Federativas;
+IV Establecimiento comercial, por mes: 46.00
 
-III.- Asesorar y apoyar a los Ayuntamientos que lo soliciten, en el desempeño de sus atribuciones;
+###### Artículo 20.
 
-IV.- Auxiliar a las autoridades federales en el exacto cumplimiento de la legislación federal en materia de juegos y sorteos;
+Los ingresos que se obtengan por el uso, goce o aprovechamiento de los bienes del dominio público a que se refiere este título serán destinados a los mismos.
 
-V.- Auxiliar a las autoridades federales en el exacto cumplimiento de la legislación en materia de asociaciones religiosas y culto público;
+Los servidores públicos a cargo de la administración de los bienes de dominio público contenidos en este título deberán realizar la conciliación con la Secretaría de Finanzas dentro de los primeros 10 días naturales de concluido el mes de calendario sobre el uso, goce o aprovechamiento otorgado y lo efectivamente recaudado.
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+## Título Tercero. De los Derechos por la Prestación de Servicios
 
-V BIS.- Establecer las bases, definir, coordinar y operar las estrategias que en materia de comunicación social implemente el titular del Poder Ejecutivo del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI.- Promover la cultura cívico-política de los ciudadanos y los mecanismos de participación ciudadana;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-VII.- Atender los asuntos que le planteen los organismos de la sociedad civil y la población en general;
+### Capítulo Primero. De los Servicios a cargo de la Administración Pública
 
-VIII.- Promover y atender los asuntos relacionados con el ámbito rural y agrario de la Entidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX.- Formular y conducir los programas de población en coordinación con las autoridades federales, estatales y municipales que correspondan; y
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-X.- Conducir las actividades del Ejecutivo Estatal en materia de protección civil.
+###### Artículo 21.
 
-B. En materia de atención gubernamental:
+Los servicios que sean prestados por cualquiera de las Secretarías, Procuraduría General de Justicia del Estado, Órganos Desconcentrados y Auxiliares, y por Entidades Descentralizadas cuando dichos servicios no estén contemplados en el apartado de esta Ley que les corresponda, causarán y pagarán derechos por los conceptos y cuotas siguientes:
 
-I.- Organizar y vigilar el ejercicio de las funciones del Registro Civil, sin perjuicio de las atribuciones constitucionales del Ministerio Público;
+Número de salarios
 
-II.- Coordinar y vigilar el cumplimiento de las disposiciones en materia de notariado e imponer las sanciones por infracciones a las mismas, sin perjuicio de las atribuciones constitucionales del Ministerio Público; asimismo, administrar el Archivo de Notarías y autorizar los protocolos que deban utilizar los Notarios Públicos;
+mínimos
 
-III.- Determinar, en los términos que correspondan, el calendario oficial y administrar y publicar el Boletín Oficial del Gobierno del Estado;
+I Por búsqueda, cotejo y certificación de
 
-IV.- Dirigir, organizar y controlar el Archivo General de Gobierno; asimismo, llevar el registro de autógrafos y legalizar las firmas de funcionarios del Estado, de los municipios, de las instituciones educativas y, en general, de las personas que expidan documentos públicos; y
+nombramientos de los trabajadores al
 
-V.- Organizar y vigilar el libre acceso ciudadano a la tutela judicial, a través de la institución de la Defensoría de Oficio.
+servicio del Estado de Oaxaca 1.50
 
-C. (DEROGADO, B.O. 30 DE DICIEMBRE DE 2010)
+II Búsqueda y expedición de documentos
 
-I. (DEROGADA, B.O. 30 DE DICIEMBRE DE 2010)
+que acrediten antigüedad laboral: 1.00
 
-ll. (DEROGADA, B.O. 30 DE DICIEMBRE DE 2010)
+III Expedición de copias simples de
 
-D. En materia jurídico-administrativa:
+Documentos que integren los expedientes
 
-I.- Proporcionar asesoría jurídica a las dependencias del Ejecutivo del Estado;
+personales de servidores públicos y
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+ex servidores públicos, hasta 20 hojas: 1.00
 
-II.- Intervenir en los procedimientos de expropiación por causa de utilidad pública, en los términos de la ley de la materia;
+Por hoja adicional se pagará $3.00
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+IV Por la expedición de constancias de sueldo: 1.50
 
-III.- Realizar los trámites para el ejercicio de las facultades que otorgan al Gobernador los artículos 79, fracción XXIV y 113 de la Constitución Política Local, relativas al nombramiento de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+V. Por la expedición de copias
 
-IV.- Participar en la coordinación de giras de trabajo, eventos especiales y cívicos en los que intervenga el titular del Poder Ejecutivo del Estado.
+certificadas de expedientes: 0.18
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VI. Compulsa de documentos, por hoja: 0.17
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VII. Reposición o modificación de
+
+constancias: 0.18
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+VIII. Reproducción en copia simple, de bases de
+
+licitación, por cada hoja: 0.01
+
+No generará el pago de derechos la expedición de documentos o copias certificadas que sean solicitadas por las autoridades judiciales federales, locales y municipales, siempre que la solicitud no derive de la petición de un particular.
+
+Cuando por causas imputables a los solicitantes de los servicios a que se refiere este artículo, fuere necesario reponer o modificar algún registro, documento o trámite, se pagarán derechos correspondientes por reposición o modificación.
+
+###### Artículo 22.
+
+Las solicitudes de acceso a la información que realicen los particulares en materia de transparencia y acceso a la información, serán gratuitas; la reproducción que requiera impresión y materiales de reproducción, se causarán y pagarán conforme a las siguientes cuotas:
+
+Número de salarios
+
+mínimos
+
+I Reproducción en copia simple,
+
+por cada hoja: 0.01
+
+II Reproducción en copias a color: 0.09
+
+III Reproducción en Disco Flexible 3.5: 0.10
+
+IV Reproducción en disco compacto: 0.31
+
+V Reproducción de imágenes en DVD: 4.00
+
+VI Reproducción en Audio casete: 0.21
+
+Tratándose de otros medios de reproducción previstos en esta ley, se sujetará a la misma; en aquellos casos en que se requiera los servicios de mensajería, los gastos correrán a cargo del solicitante.
+
+### Capítulo Segundo. De la Secretaría General de Gobierno
+
+###### Artículo 23.
+
+Los contribuyentes que soliciten servicios que presta la Secretaría General de Gobierno, causarán derechos y pagarán conforme a las siguientes cuotas:
+
+Número de salarios
+
+mínimos
+
+I Legalización de firmas: 1.43
+
+II Apostillamiento de documentos: 8.80
+
+III Reposición de credencial: 1.43
+
+Los servicios solicitados con carácter de urgente causarán cuota doble.
 
 #### Sección Sexta. De los Servicios en Materia de Protección Civil
 
-###### ARTICULO 24.
+###### Artículo 24.
 
-A la Secretaría de Hacienda le corresponden las facultades y obligaciones siguientes:
+Por los servicios que en materia de registro civil, se presten a los contribuyentes se causarán derechos que se pagarán conforme a las siguientes cuotas:
 
-A. En materia de planeación:
+Número de salarios
 
-I.- Formular y aplicar la política hacendaria, de gasto público y de deuda pública, del Gobierno del Estado;
+mínimos
 
-II.- Representar a la Hacienda Pública del Estado por delegación del Gobernador, en los términos de la fracción XIX del artículo 79 de la Constitución Política Local;
+I Por registro de Nacimientos
 
-III.- Proyectar y coordinar las actividades de planeación del desarrollo estatal, así como promover las acciones que de su instrumentación se deriven;
+> <small>(REFORMADO [N. DE E. REPUBLICADA SU CUOTA],P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-IV.- Elaborar el Plan Estatal de Desarrollo, con la participación de los sectores público, privado y social, en los términos de la Ley de Planeación, y someterlo a la consideración y aprobación del Titular del Poder Ejecutivo; asimismo someter a la consideración del Ejecutivo las propuestas de adecuación al propio Plan Estatal de Desarrollo;
+a) Ordinario, de niños recién
 
-V.- Proyectar y coordinar, con la participación que corresponde a los Gobiernos Municipales, la planeación regional en el Estado;
+nacidos hasta 180 días: 0.00
 
-VI.- Establecer los procedimientos, criterios y lineamientos generales para la elaboración e integración de los programas que se deriven del Plan Estatal de Desarrollo, y elaborar los programas especiales que le señale el Gobernador del Estado, verificando su ejecución;
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-VII.- Coordinar las actividades del Comité Estatal de Planeación para el Desarrollo del Estado de Sonora;
+b) Ordinario, de niños de más de
 
-VIII.- Procurar la congruencia entre las acciones de la Administración Pública Estatal y los objetivos y prioridades del Plan Estatal de Desarrollo, y vigilar el cumplimiento de las disposiciones estatales en materia de planeación, programación, programación, presupuestación y evaluación;
+181 días hasta 6 años de edad: 0.00
 
-IX.- Integrar los programas operativos anuales globales, de acuerdo con los objetivos y prioridades del Plan Estatal de Desarrollo; y
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-X.- Ejecutar los convenios que en materia de acciones de planeación, programación, presupuestación y fiscalización, celebre el Gobierno del Estado con la Federación o municipios, así como vigilar que se efectúen las acciones convenidas con dichos órdenes de gobierno.
+c) Extemporáneo, de seis años de
 
-B. En materia de ingresos:
+edad en adelante: 0.00
 
-I.- Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal, la utilización razonable del crédito público y el saneamiento financiero de la Administración Pública Estatal;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-II. Intervenir en el estudio de proyectos de leyes y disposiciones impositivas; formular y proponer al Gobernador del Estado los proyectos de las leyes anuales de ingresos y presupuestos de ingresos del Estado;
+d) A efectuarse en el domicilio del solicitante,
 
-III.- Recaudar y administrar los impuestos, derechos, productos, aprovechamientos y las contribuciones especiales en los términos de la Ley de Ingresos del Estado y de las leyes fiscales correspondientes;
+en días hábiles de 09:00 a 15:00 horas: 8.00
 
-IV.- Representar al Gobierno del Estado en los órganos del Sistema Nacional de Coordinación Fiscal y demás instancias de representación nacional vinculadas con la Hacienda Pública Estatal;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-V.- Percibir y administrar los recursos derivados de los fondos de participaciones y aportaciones federales, así como de otros conceptos de gasto federalizado que asigne la Federación a la Entidad, en los términos de las normas aplicables y los convenios relativos;
+e) A efectuarse en el domicilio del solicitante
 
-VI.- Custodiar todos los fondos, valores e ingresos del Estado, así como los que se reciban para fines específicos, y establecer y operar los registros necesarios que provean la información de la concentración diaria;
+después de las 15:00 horas o días inhábiles: 9.00
 
-VII.- Ejecutar los convenios que en materia impositiva celebre el Gobierno del Estado con la Federación o los municipios;
+II Por expediciones de certificación de datos
 
-VIII.- Vigilar el estricto cumplimiento de las leyes, reglamentos y otras disposiciones de carácter fiscal; así como practicar visitas de inspección y auditorias a contribuyentes en los términos de los ordenamientos fiscales correspondientes;
+a) De actas del estado civil de las personas: 1.03
 
-IX.- Ejercer las facultades tributarias que, mediante convenio con la Federación, asuma el Gobierno del Estado;
+b) De fotocopias certificadas de las actas
 
-X.- Ejercer las atribuciones conferidas a la Entidad en el Acuerdo que establece el programa "Sólo Sonora" para apoyar y facilitar los trámites que deben cumplir los turistas extranjeros y los mexicanos residentes en el extranjero para importar temporalmente sus vehículos de procedencia extranjera al país, para que circulen exclusivamente en el territorio del Estado;
+del estado civil de las personas: 1.03
 
-XI.- Proporcionar opinión cuando sea solicitada por particulares y opinión o asesoría cuando sea solicitada por los Ayuntamientos en materia de interpretación y aplicación de las leyes tributarias, así como en la instrumentación de métodos y sistemas de planeación, programación, presupuestación, evaluación e informática;
+c) Constancia de extemporaneidad: 2.50
 
-XII.- Realizar una labor permanente de difusión y orientación fiscal;
+d) Constancia de inexistencia de
 
-XIII.- Intervenir en los juicios que se ventilen ante cualquier tribunal, cuando tenga interés la Hacienda Pública del Estado; y
+registro de matrimonio: 1.03
 
-XIV.- Proyectar, para su incorporación en la Ley de Ingresos y el Presupuesto de Egresos del Estado, las prevenciones y partidas relacionadas con los incentivos a que se refiere la Ley de Fomento Económico y estudiar y proyectar sus efectos en los ingresos del Estado.
+e) Constancia de inexistencia de registro
 
-C. En materia de egresos:
+(Búsqueda 5 años): 2.78
 
-I.- Proyectar y calcular los egresos del Gobierno del Estado y de la administración pública paraestatal, haciéndolos compatibles con la disponibilidad de recursos y en la atención a las necesidades y políticas del desarrollo estatal;
+f) Los servicios considerados en los incisos
 
-II.- Formular y proponer al Gobernador del Estado, los proyectos de presupuesto de egresos del Estado y el programa financiero estatal;
+anteriores, solicitados con carácter de urgente
 
-III.- Autorizar a las dependencias y entidades de la Administración Pública Estatal, el ejercicio del gasto público asignado a sus programas, conforme a la calendarización respectiva;
+causarán, además: 2.20
 
-IV.- Realizar los trámites y registros que requiera la vigilancia, seguimiento y evaluación del ejercicio del gasto público estatal y del presupuesto de egresos;
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-V. Autorizar el pago de los gastos que afecten el presupuesto de egresos del Estado, de conformidad con los programas, presupuesto y calendarios financieros aprobados;
+g) Primera copia del acta de nacimiento: 0.00
 
-VI.- Cubrir con cargo a las partidas respectivas del presupuesto de egresos del Estado, los pagos correspondientes al ejercicio del gasto público estatal;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
 
-VII.- Autorizar las ampliaciones y reducciones de los recursos asignados a los programas a cargo de las dependencias y de las entidades incorporadas al presupuesto de egresos del Estado. Asimismo, opinar, a solicitud de la coordinadora de sector, sobre las modificaciones presupuestales de las entidades no incorporadas al presupuesto de egresos mencionado;
+III Por inscripción de:
 
-VIII.- Verificar que los subsidios y transferencias de fondos, realizados por el Ejecutivo del Estado, con cargo a su propio presupuesto, en favor de los municipios o de instituciones de los sectores social y privado, se apliquen en los términos establecidos en los programas aprobados al efecto;
+a) Divorcio: 13.00
 
-IX.- Realizar o celebrar las operaciones en que se haga uso del crédito público;
+b) Adopción, tutela, emancipación, declaración
 
-X.- Normar la planeación, programación, presupuestación, ejecución y evaluación de las obras públicas que realicen o contraten las dependencias y entidades de la Administración Pública Estatal, conforme a las leyes respectivas; y
+de ausencias y la pérdida o la limitación de la
 
-XI.- Evaluar, periódicamente, la relación que guarden los programas y presupuestos de las dependencias y entidades de la Administración Pública Estatal, con los objetivos y prioridades del Plan Estatal de Desarrollo, así como los resultados de su ejecución, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y adecuar, en su caso, el Plan y los programas respectivos.
+capacidad legal para administrar bienes: 2.23
 
-D. En materia catastral y registral:
+c) Anotaciones marginales ordenadas
 
-I.- Efectuar los estudios técnicos catastrales y opinar respecto de los valores de los predios localizados en el territorio del Estado cuando así lo soliciten los ayuntamientos, en los términos de los convenios respectivos;
+por la autoridad judicial: 0.00
 
-II.- Organizar y vigilar el ejercicio de las funciones del Registro Público de la Propiedad; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
 
-III.- Resguardar en el Registro Público de la Propiedad las declaraciones patrimoniales de los servidores públicos que se reciban para su inscripción y registro, en los términos de la ley de la materia.
+IV Por trámites:
 
-E.- En materia de bebidas alcohólicas:
+a) Aclaración de acta: 1.20
 
-I.- Expedir las disposiciones administrativas de carácter general que establezcan los criterios de interpretación para la aplicación de las disposiciones de las leyes y reglamentos en materia de bebidas con contenido alcohólico, así como difundirlas por los medios de comunicación para su conocimiento pleno; y
+b) Anotación marginal: 1.20
 
-II. Expedir o cancelar, en su caso, las licencias para la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, almacenamiento, distribución, transportación, venta y consumo de bebidas con contenido alcohólico.
+c) Aclaración especial para agregar
 
-F.- En materia de administración e informática:
+apellido por uso: 10.50
 
-I.- Establecer normas, lineamientos y políticas en materia de administración, organización, remuneración, capacitación, profesionalización y desarrollo del personal de la administración pública directa;
+d) Certificación de fotocopias de
 
-II.- Determinar y conducir las políticas en materia mobiliaria e inmobiliaria de la administración estatal directa y administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, así como los que posea, use o disfrute por cualquier acto jurídico;
+resoluciones administrativas,
 
-III.- Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes muebles e inmuebles propiedad del dominio público del Estado;
+por aclaraciones de actas: 2.00
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+e) Búsqueda de datos por año: 0.35
 
-IV.- Expedir para efectos administrativos en el ámbito de su competencia, las disposiciones que establezcan los criterios de interpretación para la aplicación de las disposiciones de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal; así como fijar los lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios sobre dichos bienes muebles; y
+f) Inserción de los actos del registro civil que
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+acrediten el estado civil, adquiridos por los
 
-V.- Establecer las normas y procedimientos para la organización, coordinación y funcionamiento de los sistemas de información que permitan integrar y consolidar los proyectos presupuestarios, informes, reportes, estados financieros y demás instrumentos relacionados con la planeación, presupuestación, ejercicio y rendición de cuentas a cargo del Ejecutivo del Estado.
+mexicanos fuera de la República Mexicana: 10.00
 
-G.- En materia de contabilidad, evaluación y estadística:
+g) Certificación de fotocopia por cada
 
-I.- Integrar la Cuenta Pública del Gobierno del Estado y someterla a la consideración del Gobernador para los efectos constitucionales correspondientes;
+uno de los documentos que integren
 
-II.- Establecer y operar el sistema de contabilidad gubernamental del Gobierno del Estado, incluyendo, sin operar, la contabilidad de las entidades de la administración pública paraestatal;
+el apéndice: 1.34
 
-III.- Autorizar los catálogos de cuentas para la contabilidad del gasto público estatal de las entidades, y consolidar los estados financieros que emanen de las contabilidades de las mismas;
+h) Trámite de apostilla de documentación
 
-IV.- Integrar la información necesaria para la formulación del informe que, sobre el estado que guarda la administración pública, debe rendir el Gobernador del Estado, así como para el informe sobre finanzas públicas trimestrales e informes de ejecución del Plan Estatal de Desarrollo; y
+expedida en el extranjero que se haya
 
-V.- Determinar las directrices, estándares y procedimientos necesarios para la integración de información socioeconómica y financiera, con el objetivo de conformar índices estadísticos y elaborar el Anuario Estadístico en coordinación con el Instituto Nacional de Estadística, Geografía e Informática.
+omitido: 3.00
+
+i) Solicitud de actas registradas en el extranjero: 3.00
+
+Tratándose de lo dispuesto en los incisos h) e i), el
+
+solicitante deberá cubrir los costos de expedición y
+
+certificación que se causen en el país emisor.
+
+j) Traducción de actas generadas en idioma
+
+extranjero: 5.00
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
+
+k) Divorcio administrativo: 58.00
+
+V Por matrimonios
+
+a) En la Oficialía del Registro Civil de
+
+9:00 a 15:00 horas en días hábiles: 12.37
+
+b) A domicilio, en días hábiles de las
+
+09:00 a 15:00 horas: 29.00
+
+c) A domicilio, en días hábiles después de
+
+las 15:00 horas: 32.00
+
+d) A domicilio, en días inhábiles: 41.00
+
+e) Por habilitación de un oficial del
+
+Registro Civil para celebrar matrimonios
+
+fuera de su jurisdicción: 30.00
+
+VI Entre extranjeros o extranjero(a) con mexicano (a)
+
+causará derechos de acuerdo con las siguientes
+
+cuotas:
+
+a) En la Oficialía del Registro Civil de
+
+9:00 a 15:00 horas en días hábiles: 24.74
+
+b) A domicilio, en días hábiles de las
+
+9:00 a 15:00 horas: 58.00
+
+c) A domicilio, en días hábiles después
+
+de las 15:00 horas: 64.00
+
+d) A domicilio, en días inhábiles: 82.00
+
+e) Por habilitación de un oficial del
+
+Registro Civil para celebrar matrimonios
+
+fuera de su jurisdicción: 60.00
+
+Tratándose de los servicios efectuados en el marco de la acción gubernamental denominada "Programa de Identidad y Certeza Jurídica para tu Bienestar" el costo del servicio será gratuito.
+
+Los servicios del Registro Civil proporcionados en las Brigadas Bienestar y Atención a Grupos Vulnerables, será gratuito.
+
+La Dirección del Registro Civil trimestralmente deberá informar a la Secretaría de Finanzas de los actos de registro civil proporcionados dentro del Programa y Brigadas citados en los párrafos anteriores para la conciliación correspondiente.
+
+Los servicios prestados a las personas físicas dentro del "Programa Identidad sin Fronteras" tendrán un incremento del 25% sobre la cuota del servicio que se proporcione.
 
 #### Sección Séptima. De los Servicios que se presten en materia de Regularización de la Tenencia de la Tierra Urbana
 
-###### ARTICULO 25.
+###### Artículo 25.
 
-(DEROGADO, B.O. 18 DE DICIEMBRE DE 2003)
+Los contribuyentes que soliciten los servicios contenidos en los siguientes conceptos, causarán y pagarán derechos:
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+Número de salarios
 
-###### ARTICULO 26.
+mínimos
 
-A la Secretaría de la Contraloría General le corresponden las facultades y obligaciones siguientes:
+I Por la inscripción de documentos por los que:
 
-A. En materia de control y desarrollo administrativo:
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-I.- Planear, organizar, coordinar, instrumentar, difundir y aplicar en las dependencias y entidades de la Administración Pública Estatal, un Sistema Integral de Control y Desarrollo Administrativo;
+a) Se adquiera o transmita el dominio o la
 
-II.- Establecer, integrar, normar, organizar, coordinar, dirigir, ejecutar y evaluar los instrumentos y procedimientos de control en la Administración Pública Estatal;
+posesión de bienes inmuebles o derechos
 
-III.- Coordinarse con los órganos de control y desarrollo administrativo, o sus correlativos de los Poderes Legislativo y Judicial del Estado, de los Poderes de la Federación, así como de los municipios del Estado, para el eficaz cumplimiento de sus atribuciones;
+reales, incluyendo compraventas en las que
 
-IV.- Promover el fortalecimiento de los órganos de control y evaluación gubernamental de los municipios;
+el vendedor se reserve el dominio: 14.00
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+Tratándose de viviendas de interés social
 
-V.- Compilar y difundir las disposiciones jurídicas, presupuestales y administrativas de carácter estatal y federal y fungir como instancia de apoyo de las dependencias, entidades y ayuntamientos, en lo relativo a las funciones de control relacionadas con los asuntos de su competencia;
+o valor equivalente causarán una cuota de: 14.00
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-VI.- Coordinar programas de capacitación dirigidos a otros niveles de gobierno que desempeñen funciones relacionadas con la competencia de esta Secretaría; y
+b) Se realicen donaciones en pago o
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+adjudicaciones judiciales o fiduciarias
 
-VII.- Formular las políticas y estrategias para la implementación de la Agenda de Buen Gobierno en el ámbito del Poder Ejecutivo con base en los principios de ética, legalidad, honestidad, responsabilidad, eficiencia, transparencia, rendición de cuentas y vocación de servicio, como rectores del desempeño en el servicio público.
+a personas que por disposición legal no
 
-B. En materia de desarrollo administrativo:
+puedan conservar la propiedad de los
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+bienes dados en pago o adjudicados: 14.00
 
-I.- Impulsar el desarrollo administrativo integral en las dependencias y entidades de la administración pública estatal a fin de que los recursos humanos, patrimoniales y procesos de la misma sean aprovechados y aplicados con criterios de eficiencia, eficacia, efectividad, descentralización, desconcentración y simplificación administrativa;
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+c) Cancelación de las inscripciones
 
-II.- Diseñar e instrumentar la política y directrices para promover la innovación y calidad en la administración pública estatal;
+ordenadas por la autoridad competente
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+o por voluntad de las partes: 14.00
 
-III.- Promover y orientar el mejoramiento del desempeño de la administración pública estatal a través de esquemas de gestión de calidad que aseguren la estandarización, mejora continua de procesos, dirección por servicios, satisfacción ciudadana y de los usuarios internos, así como el autocontrol;
+II Por la inscripción de:
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-IV.- Instrumentar toda clase de acciones tendientes a incrementar la competitividad y mejoramiento del desempeño de los servidores públicos;
+a) Documentos por lo que se constituyan
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+servidumbres o usufructos vitalicios: 14.00
 
-V.- Emitir y difundir la política en materia de uso y aprovechamiento de tecnologías de la información y las comunicaciones;
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+b) Por la cancelación de documentos por los
 
-VI.- Promover el uso de las tecnologías de la información y las comunicaciones e implementar las mejores prácticas de gobierno electrónico en la prestación de servicios al público y en los procesos internos de la administración pública estatal;
+que se constituyan servidumbres o usufructos
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+vitalicios: 14.00
 
-VII.- Intervenir y coordinarse con las dependencias y entidades en la mejora de sus procesos y sistemas de información, así como proporcionarles apoyo y soporte técnico necesario;
+III Por inscripción de:
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+a) Contratos y operaciones de crédito o
 
-VIII.- Diseñar y coordinar la implementación de estrategias y el uso de recursos tecnológicos para la mejora de los procesos de prestación de servicios públicos y operación interna de la administración pública estatal;
+mutuo con garantía hipotecaría o prendaría,
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+así como los que se destinen al financiamiento
 
-IX.- Coordinar con las dependencias y entidades competentes, la ejecución de programas y acciones en materia de simplificación administrativa en todas las ramas de la administración pública estatal;
+de la producción agrícola, pagarán derechos,
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+conforme a lo siguiente:
 
-X.- Participar en la conformación de los sistemas de medición y evaluación del desempeño de las dependencias y entidades, así como en establecer mecanismos que faciliten su autocontrol;
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+1 Cuando el monto del crédito sea para la
 
-XI.- Definir y difundir las políticas y lineamientos para la elaboración de reglamentos interiores y manuales de organización, de procesos y de servicios al público de las dependencias y entidades y validar estos últimos instrumentos de apoyo administrativo;
+adquisición de una vivienda de interés social: 14.00
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-XII.- Aprobar y registrar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la administración pública estatal y sus modificaciones, previo dictamen presupuestal favorable de la Secretaría de Hacienda; y
+2 Cuando el valor del crédito es mayor al valor
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+de una vivienda de interés social y menor a
 
-XIII.- Normar, instrumentar y operar el Sistema para la entrega y recepción de la Administración Estatal, en la transición de una administración a otra, así como en los cambios de titulares de dependencias y unidades administrativas y de directores generales o equivalentes de entidades, dentro de una misma administración.
+cuatro veces el valor de la vivienda de interés
 
-C. En materia de control gubernamental:
+social: 14.00
 
-I.- Examinar y verificar el ejercicio del gasto público estatal en el ámbito del Poder Ejecutivo, para comprobar que se efectúe de conformidad con las disposiciones aplicables, así como comprobar su congruencia con el presupuesto de egresos, y que se cumplan los objetivos y prioridades del Plan Estatal de Desarrollo y de los programas que deriven del mismo;
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-II.- Realizar las funciones en materia de control de los recursos federales que se transfieren al Estado y a los municipios, en los términos que se convengan en los instrumentos de coordinación celebrados con la Federación y los municipios;
+3 Contratos de crédito con garantía hipotecaria;
 
-III.- Evaluar el desempeño de las dependencias y entidades en la ejecución de sus programas, acciones, objetivos y metas, a fin de mejorar su actuación en el cumplimiento de los mismos;
+así como de habilitación o avío: 14.00
 
-IV.- Designar a los enlaces con las dependencias para el ejercicio permanente de las atribuciones de control a su cargo;
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+IV Por la inscripción de los convenios que
 
-V.- Designar mediante procedimientos simplificados de licitación o de manera directa, cuando se considere necesario, a los auditores externos de la cuenta pública estatal y de las entidades de la administración pública estatal y demás entes públicos del Poder Ejecutivo del Estado, así como controlar y evaluar sus actividades y el cumplimiento de los contratos que se celebren con cargo al presupuesto de las propias entidades y entes; asimismo, emitir los lineamientos para la designación y contratación de consultores y casas certificadoras de calidad;
+modifiquen los contratos u operaciones de
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+crédito o mutuo con garantía hipotecaria o
 
-VI.- Realizar, para el ejercicio de sus atribuciones, visitas, inspecciones, auditorías, revisiones, fiscalizaciones, verificaciones y demás actos sustantivos inherentes a su competencia, así como determinar las observaciones que se generen y promover en las dependencias y entidades la realización de acciones preventivas y correctivas que se requieran, y evaluar la eficacia del cumplimiento de las medidas requeridas;
+prendaria, así como los que se destinen al
 
-VII.- Controlar, verificar, fiscalizar y evaluar el cumplimiento normativo, en su caso, de las dependencias y entidades, en lo relativo a: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios de cualquier naturaleza, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, concesiones, almacenes y demás activos y recursos de la Administración Pública Estatal; así como de las obligaciones derivadas en materia de planeación, programación, presupuestación, ingresos, egresos, financiamientos, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Poder Ejecutivo;
+financiamiento de la producción agrícola: 14.00
 
-VIII.- Instrumentar y operar los sistemas para el seguimiento, registro, control y vigilancia de las operaciones que en las materias de obras públicas y servicios relacionados con las mismas, adquisiciones, arrendamientos y servicios de cualquier naturaleza, lleve a cabo la Administración Pública Estatal, así como tramitar y resolver las inconformidades que presenten las personas que hubiesen participado en los procedimientos de licitación y contratación de las mismas;
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-IX.- Recibir para su registro, control y demás efectos legales las declaraciones de situación patrimonial de los servidores públicos del Estado, así como verificar su veracidad y practicar las investigaciones que resulten necesarias, conforme a la normatividad aplicable; y
+V Por el refrendo o la cancelación de gravámenes
 
-X.- Conocer, investigar y, en su caso, sancionar los actos, omisiones o conductas imputables a los servidores públicos del Poder Ejecutivo del Estado, que constituyan responsabilidades administrativas, en términos de la ley en la materia y, de ser necesario, formular las denuncias correspondientes ante el Ministerio Público o ante las autoridades que se estimen competentes, prestándoles la colaboración que le fuere requerida.
+derivados de los contratos u operaciones de crédito
 
-D. En materia de participación social y vinculación:
+o mutuo o de los convenios que modifiquen los
 
-I. Diseñar y ejecutar las estrategias y mecanismos de vinculación que permitan organizar, capacitar e incorporar a grupos de la sociedad interesados en participar dentro de un marco de corresponsabilidad en la planeación, control y evaluación de las acciones y programas del Gobierno del Estado, extendiendo su cobertura al ámbito municipal, en términos de los instrumentos de coordinación que se celebren;
+contratos u operaciones de crédito o mutuo con
 
-II.- Instrumentar un esquema de contraloría social a través de la creación de comités que coadyuven como órganos de consulta en las atribuciones de esta Secretaría;
+garantía hipotecaria o prendaria, así como los que
 
-III.- Operar un sistema de atención a quejas, denuncias, peticiones, sugerencias o reconocimientos que se formulen por cualquier ciudadano en el desempeño o actuación de los servidores públicos, la prestación de servicios o el trámite de asuntos ante las dependencias y entidades de la Administración Pública Estatal; y
+se destinen al financiamiento de la producción
 
-IV.- Instrumentar mecanismos para evaluar permanentemente la calidad e impacto de los servicios que prestan las dependencias y entidades de la Administración Pública Estatal, proponiendo la implementación de acciones y medidas para su mejoramiento o corrección.
+agrícola: 9.00
 
-E. En materia de transparencia y combate a la corrupción:
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-I.- Ejecutar estrategias y líneas de acción tendientes a promover el aprovechamiento, explotación y desarrollo de tecnologías y herramientas informáticas que permitan la difusión de la información pública gubernamental;
+VI Por la inscripción de contratos de fideicomiso
 
-II.- Formular, difundir e impulsar una cultura de transparencia, integridad y legalidad, mediante la vinculación y comunicación entre la ciudadanía y el Gobierno del Estado, que fortalezca los principios y valores fundamentales para formar servidores públicos y ciudadanos que respeten las leyes y rechacen actos de corrupción; y
+sobre bienes inmuebles: 14.00
 
-III.- Crear y mantener actualizado un registro de servidores públicos del Estado que hayan sido sancionados con motivo de algún acto u omisión que constituya responsabilidad administrativa, así como de personas que incumplan sus obligaciones derivadas de cualquier acto jurídico celebrado con las dependencias y entidades de la Administración Pública Estatal.
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+VII Por la inscripción de los convenios que
+
+modifiquen los contratos de fideicomiso sobre
+
+bienes inmuebles: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VIII Por la cancelación de las inscripciones
+
+derivadas de los contratos de fideicomiso sobre
+
+bienes inmuebles o convenios que modifiquen
+
+los contratos de fideicomiso sobre bienes
+
+inmuebles: 9.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+IX Por la inscripción de gravámenes sobre bienes
+
+inmuebles: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+X Por inscripción de embargo derivado de juicio
+
+de alimentos: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XI Por inscripción o cancelación de cédulas
+
+hipotecarias: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XII Por refrendo o cancelación de cédulas 9.00
+
+hipotecarias, cuando por resolución judicial o
+
+administrativa se adjudique un bien y reporte
+
+varios gravámenes:
+
+Cuando por resolución judicial o administrativa
+
+se adjudique un bien y reporte varios gravámenes,
+
+el pago de derechos por cancelación se hará por
+
+cada gravamen, salvo que los gravámenes se
+
+encuentren relacionados con el mismo negocio,
+
+en este caso sólo se pagaran derechos por la
+
+cancelación del primer gravamen y éste dejará
+
+sin efecto la inscripción de los gravámenes
+
+subsecuentes.
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XIII Por la inscripción de documentos en que
+
+consten fianzas, contrafianzas u obligaciones
+
+solidarias con el fiador: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XIV Por la cancelación de inscripciones
+
+derivadas de los contratos, actos u
+
+obligaciones que consten fianzas,
+
+contrafianzas u obligaciones solidarias
+
+con el deudor 9.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XV Por la inscripción de cada acto correspondiente
+
+al cumplimiento de la condición, cancelación de la
+
+reserva de dominio o consolidación de la propiedad: 14.00
+
+XVI Por la inscripción de escrituras:
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+a) Por las que se constituyan sociedades
+
+mercantiles con excepción de las sociedades
+
+cooperativas y de las sociedades mercantiles
+
+comprendidas en la Ley Federal para el Fomento
+
+de la Microindustria: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+b) Por las que se protocolicen actas de asambleas
+
+o de sesiones de los órganos de administración
+
+de sociedades mercantiles, con excepción de las
+
+sociedades cooperativas y de las sociedades
+
+mercantiles comprendidas en la Ley Federal
+
+para el Fomento de la Microindustria: 14.00
+
+XVII Por la inscripción de documentos:
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+a) Por los que se constituyan sociedades civiles: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+b) Por los que se protocolicen actas de asambleas
+
+o de sesiones de los órganos de administración
+
+de sociedades civiles: 14.00
+
+XVIII Por la inscripción de los documentos en que
+
+consten los actos que a continuación se señalan:
+
+> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+a) Otorgamiento de poderes o sustitución de los
+
+mismos, otorgados por personas físicas, por cada
+
+primer apoderado, tanto en sociedades civiles,
+
+asociaciones civiles y mercantiles: 14.00
+
+Por cada apoderado adicional: 3.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+b) Otorgamiento de poderes o sustitución de
+
+los mismos, otorgados por personas morales,
+
+por cada primer apoderado, tanto en sociedades
+
+civiles, asociaciones civiles y mercantiles: 14.00
+
+Por cada apoderado adicional: 3.00
+
+c) Por revocación o renuncia de poderes por
+
+cada apoderado: 6.50
+
+XIX Por la inscripción de los documentos en que
+
+los actos (sic) que a continuación se relacionan:
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+a) Patrimonio familiar: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+b) Por la cancelación del patrimonio familiar: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+c) Por la inscripción o cancelación de las
+
+capitulaciones matrimoniales: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+d) Documentos o resoluciones judiciales relativas
+
+a las sucesiones, independientemente de los
+
+derechos que se causen por el registro de la
+
+transmisión de los bienes hereditarios: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+e) Inscripción del auto declaratorio de herederos: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+f) Inscripción de la radicación de sucesiones
+
+testamentarias o intestamentarias ante Notario
+
+Público: 14.00
+
+XX Por la inscripción de los documentos en que
+
+consten los actos que a continuación se señalan:
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+a) Actos, contratos, convenios o resoluciones
+
+judiciales o administrativas, por los que se
+
+constituya un fraccionamiento, se lotifique,
+
+relotifique, divida o subdivida un inmueble,
+
+por cada lote: 14.00
+
+No causará cobro alguno su cancelación.
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+b) Fusión, por cada lote adherido: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+c) Constitución del régimen de propiedad
+
+en condominio, por cada unidad privativa: 14.00
+
+XXI Por la inscripción de documentos en que
+
+consten los actos que a continuación se relacionan:
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+a) Fideicomisos que no incluyan inmuebles,
+
+por cada inscripción: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+b) Por cesión de derechos hereditarios
+
+o de fideicomisos que no incluyan inmuebles: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+c) Corresponsalía mercantil, por su registro
+
+o cancelación: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXII Por la inscripción de quiebras, secuestros,
+
+intervenciones o sentencias interlocutorias o
+
+definitivas: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXIII Por cada anotación marginal o su cancelación
+
+girada por autoridad competente, independiente de
+
+que se ordene en un mismo documento: 6.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXIV Por inscripción de documentos que
+
+modifiquen, aclaren o sean simples consecuencias
+
+legales de actos o contratos que ya causaron
+
+derechos de registro y que se otorguen por las
+
+mismas personas que celebraron dichos actos o
+
+contratos, sin aumentar o disminuir el valor, precio
+
+o monto consignados en estos y sin transferir
+
+derechos: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXV Por la inscripción o refrendo de contratos de
+
+arrendamiento o de comodato: 14.00
+
+Si en un mismo documento se consignan diversos
+
+actos o contratos registrables, se cobrarán derechos
+
+por la inscripción de cada uno, con base en lo
+
+establecido en las fracciones anteriores.
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXVI Por inscripción de testamento: 14.00
+
+XXVII Por la inscripción de:
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+a) De documentos por los que se constituyan
+
+asociaciones civiles, sociedad cooperativas, sociedades
+
+de solidaridad social, sociedades rurales, sociedades
+
+mercantiles comprendidas en la Ley Federal para el
+
+Fomento de la Microindustria u otro tipo de personas
+
+morales distintas de las señaladas en las fracciones
+
+XV y XVI: 14.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+b) De las actas de asamblea o de sesiones de los
+
+órganos de administración de asociaciones civiles,
+
+sociedades cooperativas, sociedades de solidaridad
+
+social, sociedades rurales, sociedades mercantiles
+
+comprendidas en la Ley Federal para el Fomento de
+
+la Microindustria: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXVIII Por inscripción de actos de cesión onerosa
+
+de crédito y derechos litigiosos: 14.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXIX Por la cancelación de las inscripciones de
+
+actos de cesión onerosa de crédito y derechos
+
+litigiosos: 9.00
+
+a) Por el reconocimiento de adeudo de créditos
+
+previamente otorgados: 9.00
+
+b) Por división de hipotecas (aquellos casos en que
+
+un inmueble general es otorgado en garantía
+
+hipotecaria; posteriormente se lotifica o subdivide,
+
+y cada fracción de terreno se le asigna un valor
+
+para responder a la garantía hipotecaria total); 9.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXX Por resolución testamentaria o intestamentaria,
+
+con el objeto de realizar un posterior traslado de
+
+dominio: 9.00
+
+Se pagará por cada registro que se consolide.
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XXXI Por cancelaciones de contratos de
+
+arrendamiento o de comodatos: 9.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 26.
+
+Las personas físicas o morales que soliciten los siguientes servicios causarán y pagarán derechos conforme a las siguientes cuotas:
+
+Número de salarios
+
+Mínimos
+
+I Certificado de libertad o existencia de
+
+gravámenes de 5 años anteriores a la
+
+fecha: 4.50
+
+Por cada 5 años se aumentará el costo en
+
+lo equivalente a: 2.00
+
+II Por cada copia certificada de:
+
+a) Asientos o documentos existentes en el archivo
+
+de la dependencia; hasta 20 hojas: 6.50
+
+Por hoja adicional se cobrará $3.00.
+
+b) Transcripción literal de asientos o documentos
+
+existentes en el archivo de la dependencias (sic),
+
+hasta 20 hojas: 15.00
+
+Por hoja adicional se cobrará $3.00.
+
+III Certificado o constancia de no propiedad
+
+Registrada de 5 años anteriores a la solicitud: 6.50
+
+Por cada 5 años se aumentará el costo en lo
+
+Equivalente a: 3.00
+
+IV Certificado de no inscripción de un bien
+
+inmueble de 5 años anteriores a la solicitud: 8.50
+
+Por cada 5 años se aumentará el costo en lo
+
+equivalente a: 3.00
+
+V Informes o constancias solicitadas por
+
+autoridades de la Federación, de las Entidades
+
+Federativas, Municipios o sus organismos: 6.50
+
+VI Por cada informe respecto al registro o
+
+depósito de testamentos que se rindan a
+
+solicitud de Jueces o Notarios: 6.50
+
+En caso de conocer por más de un nombre, por
+
+cada nombre como se le identifique al extinto,
+
+se cobrará: 2.00
+
+VII Constancias de no revocación de poderes: 6.50
+
+VIII Constancias conteniendo datos registrales
+
+de una propiedad inmobiliaria: 10.00
+
+IX Historias traslativas de dominio: 16.00
+
+X Por verificación de datos registrales en libros
+
+o índices que se realice por el usuario en oficina: 1.00
+
+XI Por ratificación de firmas ante el Registrador: 10.00
+
+XII Por búsqueda de bienes a nombre de personas: 6.50
+
+Las fundaciones de beneficencia, de promoción
+
+humana y desarrollo social privada no pagarán
+
+cuota alguna.
+
+XIII Por el examen de todo documento público o
+
+privado, cuando éste se rechazare por no ser
+
+inscribible: 8.50
+
+XIV Por custodia o resguardo de documentos
+
+que se presenten para trámite de registro pasados
+
+los treinta días hábiles, contados a partir de la
+
+notificación por estrados, el solicitante no las
+
+recoja o no continúe con su trámite por el motivo
+
+que fuere, pagará por cada mes que transcurra: 2.50
+
+La cantidad a pagar no deberá exceder de 20
+
+salarios mínimos.
+
+Los servicios enumerados en los artículos 25 y 26 solicitados con carácter de urgentes causarán cuota doble.
 
 #### Sección Primera. De la Dirección General de Tránsito
 
@@ -1205,185 +2305,261 @@ III.- Crear y mantener actualizado un registro de servidores públicos del Estad
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 27.
+###### Artículo 27.
 
-A la Secretaría de Educación y Cultura le corresponden las facultades y obligaciones siguientes:
+Por los servicios que preste la Dirección General de Notarias, se causarán derechos que se pagarán conforme a lo siguiente:
 
-A. En materia de operación educativa:
+Número de salarios
 
-I.- Prestar el servicio público de educación, sin perjuicio de la concurrencia de los municipios y de la Federación, conforme a las leyes y reglamentos aplicables;
+mínimos
 
-II.- Vigilar que en los planteles educativos del Estado y de los particulares, se cumpla estrictamente el artículo 3º. de la Constitución General de la República, la Constitución Política Local, la Ley de Educación para el Estado y las demás disposiciones legales y reglamentarias relacionadas con la educación preescolar, primaria, secundaria, telesecundaria y normal;
+I Por informe de los actos y contratos pasados
 
-III.- Promover Programas relativos al desarrollo de los pueblos y comunidades indígenas del Estado, procurando la preservación de sus valores culturales; y
+ante notario que soliciten las personas que hayan
 
-IV.- Promover Programas y contenidos relativos a la equidad de género y de integración social de personas con capacidades diferentes.
+intervenido en ellos o no habiendo intervenido
 
-B. En materia de coordinación y política educativa:
+en ellos, tengan algún interés legítimo debidamente
 
-I.- Determinar, de conformidad con las disposiciones aplicables, los requisitos a que deberá sujetarse la incorporación de escuelas particulares al Sistema Educativo Estatal y ejercer la supervisión que corresponda;
+comprobado a juicio de la Dirección General de
 
-II.- Promover y fomentar la educación superior;
+Notarías: 4.00
 
-III.- Mantener, por si o en coordinación con los Gobiernos Federal y Municipales, programas permanentes de educación para adultos;
+II Por informes a la autoridad judicial o
 
-IV.- Coordinar con las instituciones de educación superior el servicio social de pasantes, la orientación vocacional y otros aspectos educativos y culturales; y
+notario público, relativos al informe de
 
-V.- Vigilar el cumplimiento de la (sic) leyes y reglamentos en materia de ejercicio de las profesiones en el Estado.
+testamentos, incluyendo la búsqueda: 13.00
 
-C. En materia de fomento a la cultura, investigación, recreación y deporte:
+III Por búsqueda de instrumentos
 
-I.- Proponer las políticas y ejecutar los programas relativos al fomento de la educación, la cultura, la recreación, la investigación y el deporte;
+por año preciso: 5.00
 
-II.- Coordinar y promover actividades educativas tendientes al conocimiento de los diversos ecosistemas de la Entidad, así como a la preservación, conservación y el uso social del entorno físico y de los recursos naturales con las dependencias y entidades de la Administración Pública Estatal, los Gobiernos Federal y Municipales y con los miembros de los sectores social y privado;
+IV Por búsqueda de instrumentos de
 
-III.- Promover y fomentar el desarrollo de la investigación científica y tecnológica en el Estado;
+las que no se precise su
 
-IV.- Promover, organizar y supervisar programas de capacitación y adiestramiento, en coordinación con las dependencias y entidades de la Administración Pública Estatal, los Gobiernos Federal y Municipales y con los miembros de los sectores social y privado;
+fecha o año, por cada 5 años: 8.00
 
-V.- Conservar y desarrollar el acervo cultural del Estado, en coordinación con las demás dependencias y entidades de la administración pública estatal y en concertación con los sectores social y privado;
+V Por búsqueda de instrumentos con fecha
 
-VI.- Fomentar las actividades que tiendan al fortalecimiento de los valores regionales y a la afirmación de nuestra identidad nacional;
+precisa, en que no se especifique el número
 
-VII.- Promover la creación de bibliotecas y hemerotecas, organizando y administrando las que correspondan al Gobierno Estatal;
+de instrumento o volumen: 2.00
 
-VIII.- Fomentar el establecimiento de museos en la Entidad;
+VI Por los testimonios de escrituras que
 
-IX.- Fomentar las relaciones de orden cultural con el Gobierno Federal, con los gobiernos de otras entidades federativas y con los ayuntamientos;
+aún no hubiere expedido el notario ante cuya
 
-X.- Impulsar la edición y distribución de obras científicas, históricas y literarias, sobre temas de interés para el Estado;
+fe pasaron los actos o hechos, por la expedición
 
-XI.- Organizar y desarrollar la educación artística en el medio escolar;
+de un segundo o ulterior testimonio de actas o
 
-XII.- Promover y organizar actividades de recreación y aprovechamiento del tiempo libre, tendientes a estimular la formación integral de la niñez y la juventud sonorenses; y
+escrituras o por los antecedentes de los anteriores
 
-XIII.- Coordinar, fomentar y dirigir la enseñanza y práctica del deporte en el medio escolar, y organizar la participación de los alumnos en eventos estatales, regionales y nacionales.
+testimonios: 18.00
 
-D. En materia de ejecución de normatividad educativa y cultural:
+VII Por la expedición de copia certificada de una
 
-I.- Proponer y ejecutar, en su caso, los acuerdos de coordinación que en materia de educación y cultura celebre el Ejecutivo del Estado con los Gobiernos Federal y Municipales, así como los convenios de concertación de acciones que en la misma materia se celebren con los sectores privado y social.
+escritura o acta que fuera asentada en libros de
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+protocolo de los notarios públicos o de jueces
 
-#### Sección Segunda. De la Policía Auxiliar Bancaria, Industrial y Comercial
+receptores: 8.00
+
+VIII Por la expedición de copias certificadas
+
+de documentos que obren agregados al apéndice
+
+de un instrumento, o de constancias: 8.00
+
+IX Por la expedición de copias autorizadas
+
+de expedientes administrativos derivados de
+
+queja en contra de notario:
+
+Por cada foja del documento copiado 0.27
+
+salarios mínimos por la primera copia; y 0.11
+
+salarios mínimos, por las demás.
+
+X Por la cancelación de instrumentos: 4.00
+
+XI Los servicios considerados en las fracciones
+
+anteriores solicitados con carácter de urgente,
+
+causarán cuotas dobles.
+
+XII Por la autorización de los libros destinados
+
+al servicio de las Notarías del Estado, pagarán los
+
+derechos conforme a las siguientes cuotas:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+a) Los que tengan 150 fojas: 25.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+b) Los que tengan 100 fojas: 20.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+XIII Registro de la patente o fíat de Notario
+
+Público de número, por haber aprobado
+
+sus exámenes: 1650.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+XIV Por la solicitud que hagan los
+
+Notarios de constancias personales: 18.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+XV Por la autorización de libros para ser utilizados
+
+exclusivamente en actos del patrimonio inmobiliario
+
+federal: 25.00
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XVI Registro de la patente o fiat de Notario Auxiliar,
+
+por haber aprobado exámenes: 1650.00
+
+Los libros de los Notarios deberán reunir los requisitos que establecen los artículos 41 al 45 de la Ley del Notariado para el Estado de Oaxaca.
+
+#### Sección Segunda. Servicios de Seguridad y Vigilancia
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 28.
+###### Artículo 28.
 
-A la Secretaría de Salud Pública le corresponden las facultades y obligaciones siguientes:
+Por los servicios de publicación que se presten en el Periódico Oficial del Estado, se pagará el derecho de publicaciones, conforme a las siguientes cuotas:
 
-A. En materia de servicios de salud;
+Número de salarios
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+mínimos
 
-I.- Proponer las políticas y conducir y evaluar los programas de servicios médicos, asistencia social y salubridad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Preservar, mejorar y rehabilitar las condiciones de salud de los habitantes del Estado;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-III.- Planear, normar, establecer, coordinar y evaluar un Sistema Integral de Servicios de Salud para el Estado, a partir de los servicios de salud de la Administración Pública Estatal en coordinación con instituciones de salud del Gobierno Federal e instituciones privadas, descentralizadas y sociales;
+I Cuarta de Plana: 5.00
 
-IV.- Planear, promover, apoyar y vigilar la impartición de atención médica y sus servicios auxiliares de diagnóstico terapéutico que realicen instituciones públicas, privadas y sociales en los términos de las leyes respectivas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Proponer al Ejecutivo los acuerdos de coordinación de acciones relativas a los servicios de salud, por lo que toca a la prevención y control de enfermedades, mejoramiento y rehabilitación de la salud, investigación médica así como la concertación de los convenios y contratos que se requieran para la prestación de los servicios de salud;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-VI.- Establecer, coordinar y ejecutar con la participación de otras instituciones asistenciales programas para la asistencia, prevención, atención y tratamiento de personas con capacidades diferentes;
+II Media Plana: 8.00
 
-VII.- Asesorar y apoyar a los municipios de la Entidad que lo soliciten, en la instrumentación de medidas y acciones en materia de atención médica y demás relacionadas con la salubridad, cuya ejecución esté a cargo de los ayuntamientos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- Promover el establecimiento del Sistema Estatal de Información Básica en materia de salud, en el que participen todas las dependencias y entidades que realicen servicios de salud en el Estado;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-IX.- Realizar una labor permanente de difusión y orientación hacia la población, en materia de salud;
+III Plana Completa: 12.00
 
-X.- Establecer normas que deben orientar los servicios de asistencia social que presten los sectores público, social y privado y proveer a su cumplimiento; y
+Por otros servicios del Periódico Oficial del Estado, se pagarán derechos conforme a las siguientes cuotas:
 
-XI.- Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en el Estado.
+Número de salarios
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
+mínimos
 
-B. En materia de salubridad:
+I Certificaciones y constancias de Periódicos
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+agotados o inexistentes: 4.00
 
-I.- Dictar la norma técnica en materia de salubridad y verificar su cumplimiento;
+II Copias certificadas de Periódicos por hoja: 0.20
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+III Disposición de:
 
-II.- Llevar a cabo el control sanitario de la salubridad, ordenando las medidas de seguridad que correspondan imponiendo las sanciones autorizadas por la Ley;
+a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-III.- Proponer al Ejecutivo Estatal los acuerdos y convenios necesarios, a fin de descentralizar a los ayuntamientos funciones, servicios y establecimientos en materia de salubridad, en los términos fijados por la Ley de Salud para el Estado de Sonora;
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-IV.- Coordinar acciones preventivas y de control para el cuidado del medio ambiente cuando pueda resultar afectada la salud de la población, con las demás dependencias y entidades competentes; y
+c) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-V.- Promover y coordinar las campañas sanitarias tendientes a prevenir y erradicar enfermedades y epidemias en el territorio del Estado.
+d) Ejemplar que contenga: Leyes, Reglamentos,
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+Planes, Bandos o Manuales:
 
-###### ARTICULO 29.
+De 1 a 40 páginas: 1.00
 
-A la Secretaría de Infraestructura y Desarrollo Urbano le corresponden las facultades y obligaciones siguientes:
+De 41 a 80 páginas: 2.00
 
-A. En materia de desarrollo urbano e infraestructura:
+De 81 a 120 páginas: 3.00
 
-I.- Proponer las políticas y ejecutar los programas relativos a asentamientos humanos, equipamiento urbano y vivienda;
+Más de 121 páginas: 4.00
 
-II.- Promover y vigilar el desarrollo equilibrado de los asentamientos humanos del Estado, así como ejecutar las acciones tendientes al mejoramiento de las zonas deprimidas y marginadas;
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
 
-III.- Coadyuvar con los ayuntamientos, en la definición de las normas a que deban sujetarse los proyectos que realicen los sectores público, privado y social, que guarden relación con el desarrollo urbano;
+e) Ejemplar del Periódico 0.50
 
-IV.- Fomentar la organización de la población para satisfacer sus necesidades de suelo urbano y vivienda y, en su caso, de infraestructura básica que sea competencia del Gobierno del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Promover la satisfacción de las necesidades de suelo para vivienda y para el desarrollo urbano, así como regular, en coordinación con los Gobiernos Federal y Municipales, el sistema tendiente a satisfacer dichas necesidades;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-VI.- Formular los programas estatales sectoriales de desarrollo urbano y vivienda, y someterlos a la aprobación del Gobernador del Estado; y
+IV Suscripción semestral ordinarios del 1 al
 
-VII.- Promover y ejecutar, en su caso, las acciones de equipamiento urbano y vivienda que sean de su competencia.
+26 o 27 al 52: 9.00
 
-B. En materia de ecología y medio ambiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-I.- Proponer políticas y programas relativos a las materias de ecología y medio ambiente;
+V Suscripción anual ordinarios del 1 al 52: 17.00
 
-II.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-IV.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
+VI Ejemplar que contenga convocatorias. 0.50
 
-C. En materia de obra pública:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-I.- Realizar obras públicas, directamente o a través de terceros, en los términos de la Ley de Obras Públicas del Estado de Sonora y demás disposiciones aplicables; y
+###### Artículo 29.
 
-II.- Elaborar, directamente o a través de terceros, los estudios, proyectos arquitectónicos y de ingeniería necesarios para ejecutar las obras públicas, cumpliendo con lo previsto en las disposiciones legales y reglamentarias aplicables.
+No se causará el pago de derechos de publicaciones a que se refiere el artículo anterior, cuando se trate de la promulgación de leyes y decretos provenientes de la actividad del Poder Legislativo; decretos y acuerdos suscritos por el Titular del Poder Ejecutivo, acuerdos del Pleno del Poder Judicial, así como de los acuerdos y disposiciones emitidos por los Órganos Autónomos.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-D. En materia de transporte:
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+Los Poderes Legislativo y Judicial, Órganos Autónomos, Ayuntamientos, así como las Dependencias y Entidades de la Administración Pública Estatal, pagarán los derechos correspondientes cuando se trate de publicaciones de convocatorias para licitaciones públicas, estados financieros, convenios, edictos, cédulas de notificación, circulares, informes, avisos o aquellos que no cumplan con las características señaladas en el párrafo anterior.
 
-I.- Promover las políticas y ejecutar los programas relativos a la planeación, administración, regulación, modernización, control y supervisión del servicio público y privado de transporte en el Estado, y en su caso, promover las políticas y elaborar programas relativos a la prestación directa del servicio público de transporte por parte del Ejecutivo Estatal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-E. En materia de investigación y asesoría:
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+Los Talleres Gráficos del Estado deberán proporcionar por lo menos dos ejemplares sin costo de todas las publicaciones al Poder Legislativo, al Archivo del Poder Ejecutivo del Estado, al Archivo General de la Nación y al Diario Oficial de la Federación con el propósito de conservarlos como parte de su acervo cultural; de igual manera deberá entregarse dos ejemplares a la persona física o moral que ordene y pague derechos por publicación.
 
-I.- Organizar y fomentar la investigación relacionada con el desarrollo urbano, las comunicaciones y el transporte; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-II.- Asesorar técnicamente a los municipios en materia de desarrollo urbano, comunicaciones, transporte y en la realización de obras públicas, cuando así lo soliciten los ayuntamientos.
+Los ingresos recaudados por los servicios contenidos en esta sección se destinarán hasta por un 60 por ciento al programa de modernización tecnológica de los Talleres Gráficos del Estado. Para tal efecto deberá presentar informe dentro de los primeros diez días naturales de cada mes de los servicios prestados a fin de determinar los montos que serán asignados al programa de referencia.
 
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
-
-F. En materia de comunicaciones:
-
-I.- Proponer políticas y ejecutar acciones en materia de comunicaciones en el Estado.
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 #### Sección Primera. Del Servicio Público
 
@@ -1391,67 +2567,11 @@ I.- Proponer políticas y ejecutar acciones en materia de comunicaciones en el E
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 30.
+###### Artículo 30.
 
-A la Secretaría de Economía le corresponden las facultades y obligaciones siguientes:
+Por los servicios públicos que se presten en materia de aplicación de evaluaciones de control de confianza, se causarán derechos por los que se pagarán $6,000.00 pesos.
 
-A. En materia de fomento del desarrollo económico:
-
-I.- Proponer las políticas y ejecutar los programas relativos al desarrollo económico del Estado en las ramas de la industria, el comercio, los servicios, la minería y el turismo, de conformidad con los planes nacional y estatal de desarrollo y las leyes de la materia;
-
-II.- Promover el crecimiento económico de las regiones de la Entidad sobre bases de desarrollo equilibrado y sustentable, considerando sus ventajas competitivas;
-
-III.- Fomentar la creación de condiciones económicas y de infraestructura necesarias para el establecimiento de empresas en el Estado;
-
-IV.- Proponer proyectos que propicien el desarrollo económico y equilibrado de los centros de población;
-
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-V. Promover la creación y fomento del desarrollo de la micro, pequeña y mediana empresa, así como la creación de parques industriales;
-
-VI.- Asesorar a los sectores social y privado, en el establecimiento de nuevas empresas;
-
-VII.- Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria, del turismo y de la minería;
-
-VIII.- Evaluar anualmente la aplicación de los incentivos que se otorguen conforme a la Ley de Fomento Económico y comunicar sus resultados a la Secretaría de Hacienda y al Titular del Poder Ejecutivo;
-
-IX.- Promover y coordinar la distribución y comercialización de productos, así como el abastecimiento de los consumos básicos de la población;
-
-X.- Integrar y proporcionar información sobre mercados internacionales, proveedores nacionales e inversionistas potenciales para el Estado, así como mantener actualizada la información socioeconómica para proyectos de factibilidad de inversiones;
-
-XI.- (DEROGADA, B.O. 30 DE DICIEMBRE DE 2010)
-
-XII.- Promover, fomentar y fortalecer entre nuestro Estado y otras Entidades de la Federación, Arizona y otros Estados de la Unión Americana y a nivel internacional, el desarrollo de las relaciones económicas, comerciales, culturales e industriales, así como de aquellos asuntos y programas que sean de interés común;
-
-XIII.- Asesorar a los municipios que así lo soliciten, en materia industrial, comercial y de servicios, minera, artesanal y turística;
-
-XIV.- Promover programas y acciones de vivienda;
-
-XV.- Ejercer las atribuciones y compromisos que en materia industrial, comercial, artesanal, minera, turística y de servicios, se establezcan para el Gobierno del Estado en los convenios y acuerdos de coordinación que celebre con la Federación o con los municipios de la Entidad; y
-
-XVI.- Promover la participación de la sociedad, en la ejecución de los programas que en materia de desarrollo económico instrumente el Gobierno del Estado.
-
-B. En materia de turismo:
-
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
-
-I.- Proponer políticas y programas en materia de turismo.
-
-II.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
-
-III.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
-
-IV.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
-
-V.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
-
-VI.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
-
-VII.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
-
-VIII.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+Los ingresos recaudados con motivo de la aplicación de evaluaciones de control de confianza, hasta por un sesenta por ciento serán destinados a cubrir las erogaciones derivadas de los servicios que se prestan en el Centro Estatal de Evaluación y Control de Confianza, y los costos inherentes al mismo.
 
 #### Sección Segunda. Del Control Vehicular
 
@@ -1459,85 +2579,207 @@ VIII.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 31.
+###### Artículo 31.
 
-A la Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura le corresponden las facultades y obligaciones siguientes:
+Por los servicios que se presten en materia de protección civil, se causarán derechos que se pagarán conforme a lo siguiente:
 
-A. En materia de planeación y desarrollo sectorial:
+Número de salarios
 
-I.- Proponer las políticas y ejecutar los programas tendientes a fomentar la producción agrícola, pecuaria, forestal, pesquera y acuícola en el Estado;
+mínimos
 
-II.- Establecer las políticas, estrategias, objetivos y normas para la debida operación de los programas que con relación al uso y abastecimiento del agua y sus bienes inherentes haya transferido o transfiera la Federación al Estado;
+I Por la capacitación en materia de Protección
 
-III.- Promover y orientar los créditos agrícolas, pecuarios, forestales, pesqueros y acuícolas hacia los objetivos y metas prioritarios marcados por el Plan Estatal de Desarrollo, así como impulsar mecanismos novedosos de garantías;
+Civil, tratándose de:
 
-IV.- Promover y apoyar la industrialización y la comercialización de los productos agrícolas, pecuarios, forestales, pesqueros y acuícolas generados en la Entidad, en coordinación con la Secretaría de Economía;
+a) Curso Básico:
 
-V.- Desarrollar canales y esquemas de comercialización eficientes que propicien la rentabilidad de las actividades primarias mediante mecanismos de promoción colectiva, cobertura de precios y apoyos transparentes;
+1 Por grupos de hasta 10 personas: 60.00
 
-VI.- Proponer y apoyar la realización de programas para la ejecución de proyectos de obras de infraestructura hidráulica;
+2 Por cada persona adicional: 6.00
 
-VII.- Promover programas tendientes a la integración de actividades económicas para el desarrollo rural sustentable del Estado, que permitan la generación de empleos; y
+b) Taller de Fenómenos Geológicos, Hidrometeorológicos,
 
-VIII.- Organizar y participar en eventos que promuevan el desarrollo y la competitividad de las actividades hidráulicas, agrícolas, pecuarias, forestales, pesqueras y acuícolas en el Estado, así como en las misiones orientadas a la consolidación y apertura de mercados.
+Químicos, Sanitarios y Socio-organizativos:
 
-B. En materia de asistencia y servicios:
+1 Por grupos de hasta 20 personas: 60.00
 
-I.- Fomentar, conforme a los programas en la materia, la organización, capacitación y asistencia técnica de los productores agrícolas, pecuarios, forestales, pesqueros y acuícolas;
+2 Por cada persona adicional: 6.00
 
-II.- Asesorar a los municipios y organismos de productores que los soliciten, en materia hidráulica, agrícola, pecuaria, forestal, pesquera y acuícola;
+c) Integración de Unidad Interna:
 
-> <small>(REFORMADA, B.O. 31 DE MARZO DE 2005)</small>
+1 Por grupos de hasta 10 personas: 60.00
 
-III.- Promover un sistema para la certificación de origen y calidad de los productos agrícolas, pecuarios, pesqueros y acuícolas;
+2 Por cada persona adicional: 6.00
 
-> <small>(REFORMADA, B.O. 31 DE MARZO DE 2005)</small>
+d) Integración de Comité de Seguridad y
 
-IV.- Organizar y fomentar servicios relacionados con las actividades agrícolas, pecuarias, forestales, pesqueras y acuícolas, considerando la disponibilidad de recursos naturales y los productos generados en cada región, así como la situación del mercado; y
+Emergencia Escolar:
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+1 Por grupos de hasta 10 personas: 60.00
 
-V.- Instrumentar y ejecutar los programas de desarrollo, capacitación, sanidad, vigilancia y aprovechamiento sustentable, así como las acciones y servicios relativos a la fauna de interés cinegético y actividades afines, que se desarrollen en el Estado observando las disposiciones que emitan las autoridades competentes.
+2 Por cada persona adicional: 6.00
 
-C. En materia de desarrollo de infraestructura:
+e) Integración de Comité Hospitalario para
 
-I.- Proponer y apoyar el desarrollo de infraestructura hidráulica, agrícola, pecuaria, pesquera y acuícola de la Entidad, en coordinación con los gobiernos federal y municipales y en concertación con las organizaciones de productores;
+Emergencias y Desastres:
 
-II.- Apoyar los programas de investigación agrícola, pecuaria, forestal, pesquera y acuícola, así como fomentar la divulgación y aplicación de la tecnología y de los sistemas que mejoran la productividad;
+1 Por grupos de hasta 10 personas: 60.00
 
-III.- Fomentar programas reproductivos para elevar la calidad genética en la producción agrícola, pecuaria, pesquera y acuícola;
+2 Por cada persona adicional: 6.00
 
-IV.- Fomentar y apoyar la conservación, preservación y uso racional de los recursos hidráulicos, suelos agrícolas, agostaderos, áreas forestales y recursos pesqueros y acuícolas, en coordinación con las dependencias y entidades estatales, federales y municipales competentes; y
+f) Escenarios y Simulacros:
 
-V.- Promover y contribuir en la conservación de flora y fauna marinas y dulceacuícolas, así como fomentar su desarrollo.
+1 Por evento aislado: 60.00
 
-D. En materia de coordinación:
+g) Prevención y Combate de Incendios:
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+1 Por grupos de hasta 10 personas: 60.00
 
-I.- Ejercer las funciones, ejecutar y operar las obras y prestar los servicios públicos que asuma el Estado por virtud de convenios o acuerdos de coordinación celebrados con el Ejecutivo Federal o los ayuntamientos, en materia hidráulica, agrícola, pecuaria, cinegética, forestal, pesquera o acuícola, cuando así se establezcan en dichos instrumentos;
+2 Por cada persona adicional: 6.00
 
-II.- Coordinar la participación estatal en los comités directivos de los distritos de desarrollo rural que operen en el Estado;
+h) Primeros auxilios:
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+1 Por grupos de hasta 10 personas: 60.00
 
-III.- Colaborar con el Gobierno Federal, en los términos de los convenios correspondientes, en la integración y revisión del Registro Nacional de Pesca, Registro de Derecho de Agua, Padrones de Usuarios de los Distritos de Riego, Servicio Nacional Forestal y en todos los demás afines a su competencia; así como en la interrelación con el Sistema Nacional de Información Forestal, mediante sus respectivos sistemas, registros y padrón estatales correspondientes; y
+2 Por cada persona adicional: 6.00
 
-IV.- Diseñar, coordinar y promover programas y campañas de prevención, combate y erradicación de las plagas y enfermedades que afecten a las especies agrícolas, pecuarias, forestales, pesqueras y acuícolas.
+i) Evacuación de inmuebles:
 
-E. En materia jurídico administrativa:
+1 Por grupos de hasta 10 personas: 60.00
 
-(REFORMADA, B.O. 31 DE MARZO DE 2005) (F. DE E., B.O. 2 DE MAYO DE 2005)
+2 Por cada persona adicional: 6.00
 
-I. Promover la actualización de las disposiciones jurídicas y normas oficiales mexicanas aplicables en las materias agrícola, pecuaria, pesquera, acuícola, forestal, vida silvestre e hidroagrícola;
+j) Taller del Programa Interno de Protección Civil:
 
-II.- Participar, con el carácter de representante del Gobierno del Estado, en los Consejos u Organismos de Cuenca de los que forma parte el Estado de Sonora, de conformidad con la legislación aplicable;
+1 Por grupos de hasta 10 personas: 60.00
 
-III.- Formular el inventario de los recursos e infraestructura hidráulica, agrícola, pecuaria, forestal, pesquera y acuícola existentes en el Estado; y
+2 Por cada persona adicional: 6.00
 
-IV.- Establecer y aplicar los procedimientos para la internación y movilización de ganado, aves y subproductos pecuarios, en los términos de la Ley de Ganadería para el Estado de Sonora.
+II Por la asesoría y la revisión para la elaboración
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+del Programa Interno, de Seguridad y Emergencia
+
+Escolar, Específicos y Planes Hospitalarios: 10.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+III Por la autorización de los programas
+
+internos de Protección Civil: 120.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+a) (DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+b) (DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+c) (DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
+
+IV Por la autorización de los Programas Internos de
+
+Seguridad y Emergencia Escolar de Protección Civil,
+
+para escuelas privadas de tipo:
+
+a) Guarderías, Jardines de Niños, Primarias,
+
+Secundarias y Colegios: 9.00
+
+b) Bachilleratos y Universidades: 18.00
+
+V Por la Autorización de los Programas
+
+Específicos: 100.00
+
+VI Por la autorización de los Planes Hospitalarios: 150.00
+
+VII Por la revalidación anual del Programa Interno,
+
+del Programa Interno de Seguridad y Emergencia
+
+Escolar: 9.00
+
+VIII Por la revalidación anual de los planes
+
+hospitalarios: 35.00
+
+IX Por el registro y expedición de la Cédula de
+
+Autorización de Protección Civil, a personas físicas
+
+o morales, que acrediten las competencias y los
+
+conocimientos especializados en materia de
+
+protección civil, tratándose de:
+
+a) Personas físicas: 100.00
+
+b) Personas morales: 125.00
+
+X Por la revalidación de la Cédula de Autorización
+
+de Protección Civil, tratándose de:
+
+a) Personas físicas: 50.00
+
+b) Personas morales: 60.00
+
+XI Por la emisión de dictamen a las revisiones a
+
+bienes inmuebles:
+
+a) De riesgos y vulnerabilidad: 50.00
+
+b) De análisis de riesgos y recursos: 100.00
+
+XII Por servicios de prevención y atención
+
+operativa de funciones, espectáculos y
+
+diversiones, por cada ocasión que se realicen,
+
+de tipo cultural, artístico, deportivo, recreativo
+
+y otros, donde se lleve a cabo la concentración
+
+masiva de personas: 150.00
+
+XIII Para dar la opinión técnica para emitir la
+
+conformidad del Gobernador del Estado, para el
+
+uso de sustancias explosivas en la industria y en
+
+los centros artesanales, como requisito para que
+
+la Secretaría de la Defensa Nacional pueda otorgar
+
+el permiso correspondiente:
+
+a) Campos de tiro y clubes de caza: 50.00
+
+b) Instalaciones en que se almacena y/o se realiza la
+
+compraventa de sustancias químicas: 60.00
+
+c) Explotación minera o de bancos de cantera: 60.00
+
+d) Industrias químicas: 80.00
+
+e) Fábricas, talleres, bodegas, o polvorines de
+
+elementos y artificios pirotécnicos: 120.00
+
+f) Obras de ingeniería civil: 60.00
+
+g) Transporte especializado de explosivos: 60.00
 
 #### Sección Primera. Atención en Salud
 
@@ -1545,175 +2787,437 @@ IV.- Establecer y aplicar los procedimientos para la internación y movilizació
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 32.
+###### Artículo 32.
 
-A la Secretaría de Desarrollo Social le corresponden las facultades y obligaciones siguientes:
+Las personas físicas que soliciten servicios tendientes a la regularización de la tenencia de la tierra urbana en el Estado de Oaxaca, causarán y pagarán derechos conforme a las siguientes cuotas:
 
-A. En materia de desarrollo social:
+Número de salarios
 
-I.- Proponer, conducir y evaluar la política estatal en materia de desarrollo social integral de la población del Estado, así como los programas y las acciones específicas para la superación de las desigualdades, combate a la pobreza y la atención especial a grupos vulnerables y en desventaja;
+mínimos
 
-II.- Impulsar la participación corresponsable de los grupos beneficiarios de los programas de desarrollo social en la toma de decisiones y la instrumentación de acciones con respecto a su propio desarrollo;
+I Expedición de títulos de propiedad: 17.67
 
-III.- Diseñar, concertar, ejecutar y dar seguimiento a los programas sociales en el ámbito rural y urbano para la atención de grupos específicos y sectores marginados, propiciando la participación de los sectores social y privado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Promover la igualdad de oportunidades de los grupos sociales vulnerables y en desventaja, para garantizar el disfrute pleno de sus derechos sociales al trabajo, a la salud, a la educación, a la vivienda y a los servicios públicos básicos de calidad;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-V.- Promover la equidad de género en las políticas y programas de desarrollo social;
+II Expedición de certificados de posesión
 
-VI.- Participar en la ejecución y supervisión de los programas sociales que el Gobierno Federal desarrolle en el Estado, de conformidad con los convenios o acuerdos de coordinación que se celebren al efecto;
+inmobiliaria: 2.00
 
-VII.- Fomentar y apoyar el desarrollo de proyectos productivos de mujeres, grupos indígenas, personas con discapacidad, jóvenes, adultos mayores y, en general, de grupos marginados o con rezago socioeconómico en el Estado, de acuerdo con los programas que se establezcan;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- Promover el abastecimiento de productos de consumo básico entre la población de escasos recursos o afectada por situaciones de siniestros o de desastres;
+III (DEROGADA, P.O. 15 DE DICIEMBRE DE 2012)
 
-IX.- Promover programas y acciones de asistencia social;
+IV Reimpresión de certificados de posesión
 
-X.- Integrar y mantener actualizado un banco de datos sobre la evolución de la pobreza y el impacto de los programas sociales a efecto de orientar las políticas públicas de desarrollo social; y
+inmobiliaria: 1.76
 
-XI.- Promover programas relativos al desarrollo integral de los pueblos y las comunidades indígenas del Estado, procurando la preservación de sus valores culturales;
+V Reimpresión de títulos de propiedad: 8.82
 
-B. En materia de desarrollo regional:
+VI Copias de planos certificados: 1.76
 
-I.- Intervenir en la planeación, formulación y aplicación de los programas de desarrollo regionales, sectoriales y especiales, con la participación que corresponda a las dependencias y entidades estatales y municipales, de conformidad con el Plan Estatal de Desarrollo;
+VII Copias de planos: 1.41
 
-II.- Promover la inversión pública y privada para el desarrollo social en el Estado, en coordinación con los gobiernos federal y municipales y en concertación con las instituciones de crédito y diversos grupos sociales,
+VIII Copias simples de expedientes tamaño carta: 0.02
 
-III.- Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, y el bienestar social, en coordinación con los gobiernos municipales y con la participación de los sectores social y privado;
+IX Copias simples de expedientes tamaño oficio: 0.04
 
-IV.- Promover y ejecutar convenios de coordinación y de concertación que en materia de desarrollo social suscriba el Gobierno del Estado con la Federación, otros estados, los municipios de la Entidad y las organizaciones de la sociedad civil;
+X Copias certificadas de expedientes: 0.18
 
-V.- Diseñar e instrumentar políticas y programas especiales que fortalezcan y promuevan la organización, identidad cultural y el desarrollo de las comunidades indígenas en el Estado;
+XI Información en dispositivos magnéticos: 0.53
 
-VI.- Vigilar la correcta aplicación de los recursos financieros destinados a los programas de desarrollo social mediante convenios suscritos con la Federación, los municipios del Estado, las instituciones de crédito y de financiamiento del desarrollo, así como de los diversos sectores de la sociedad;
+### Capítulo Tercero. Por los servicios que presta la Secretaría de Seguridad Pública
 
-VII.- Asesorar y prestar asistencia técnica a los municipios que así lo soliciten, en materia de desarrollo social; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- Diseñar e instrumentar políticas y programas para la atención de las micro regiones de más alta marginación en el Estado.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO [ADICIONADO], B.O. 30 DE DICIEMBRE DE 2010)</small>
+###### Artículo 33.
 
-### CAPITULO I. DE LAS JUNTAS LOCALES DE CONCILIACION Y ARBITRAJE
+Se causarán y pagarán derechos, por los conceptos y cuotas que se establecen a continuación:
 
-###### ARTÍCULO 33.
+Número de salarios
 
-A la Secretaría del Trabajo le corresponden las facultades y obligaciones siguientes:
+mínimos
 
-A. En materia de trabajo y previsión social:
+I Expedición de certificados de no
 
-I. Ejercer las funciones que el (sic) Ejecutivo del Estado le corresponden en materia de trabajo y previsión social;
+antecedentes penales: 1.50
 
-II. Diseñar e implementar políticas, programas y acciones que permitan el desarrollo de una cultura laboral que impulse la productividad y la competitividad para el mejoramiento de las condiciones de vida de los trabajadores, así como propiciar las medias de prevención de conflictos laborales, fomentando la armonía laboral y respeto entre los factores de la producción;
+II Por los servicios del Centro de Desarrollo
 
-III. Vigilar en el ámbito de su competencia, que los centros de trabajo cumplan con las disposiciones que les impone la Ley Federal del Trabajo y sus Reglamentos, aplicando las sanciones que en su caso correspondan en términos de normatividad aplicable;
+Infantil:
 
-IV. Diseñar, promover e implementar, por si misma o en coordinación con las autoridades federales competentes y, en su caso, con los sectores productivos correspondientes, programas de capacitación, calidad, seguridad e higiene y desarrollo sindical, a través de diplomados, cursos, seminarios y eventos en general que contribuyan al desarrollo de los trabajadores y de las empresas y que propicien la generación de empleos;
+a) Inscripción: 4.00
 
-V. Conducir y coordinar a la Procuraduría de la Defensa del Trabajo y a través de ésta, representar y asesorar a los trabajadores y a los sindicatos ante cualquier autoridad, resolver sus consultas jurídicas y representarlos en todos los conflictos que se relacionen con la aplicación de las normas de trabajo, en términos de lo dispuesto en la Ley Federal del Trabajo y la demás normatividad aplicable en la materia;
+b) Mensual: 6.00
 
-VI. Promover e impulsar relaciones en materia de política laboral con la Federación, Estados, Municipios e Instituciones públicas y privadas;
+III Impartición de cursos a elementos de la
 
-VII. Impulsar, respaldar y promover la figura de la conciliación que permita resolver por la vía del acuerdo los conflictos que se presenten entre empresa y trabajadores; Coordinar la integración y establecimiento de las Junta Locales de Conciliación y Arbitraje, así como vigilar su funcionamiento; y
+Policía Estatal, por cada uno:
 
-VIII. Proponer a las Juntas Locales de Conciliación y Arbitraje, estrategias para el mejoramiento de la administración e impartición de justicia laboral.
+a) Inicial: 219.00
 
-B. En materia de desarrollo económico-laboral:
+b) Especializada: 57.00
 
-I. Promover, diseñar, establecer e implementar esquemas de trabajo para la creación de unidades productivas en mercados laborales suburbanos y rurales, así como aquellos programas que atiendan la problemática del empleo e incentiven el autoempleo en los sectores marginados de la sociedad;
+IV Impartición de cursos a elementos de la
 
-II. Diseñar, promover e impartir cursos de capacitación en sus diferentes modalidades para desempleados a fin de integrarlos a la planta productiva, en coordinación con las autoridades federales competentes;
+Policía Auxiliar, Bancaria e Industrial y
 
-III. Establecer y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento, en términos de la normatividad aplicable;
+Comercial y Municipal, por cada uno:
 
-IV. Impulsar la aplicación de modelos de calidad y asesorar a las empresas para aumentar la competitividad, la productividad y los empleos;
+a) Continua: 32.00
 
-V. Promover y llevar a cabo la certificación de competencias laborales, sin perjuicio de las atribuciones que en dicha materia corresponden a la Secretaría de Educación y Cultura;
+V Impartición de cursos a custodios, por
 
-VI. Incentivar a las autoridades educativas para que sus programas o productos educativos obedezcan a las necesidades de servicios profesionales que demande el mercado de trabajo.
+cada uno:
 
-VII. Promover la creación de fuentes de empleo mediante el fomento del desarrollo de la industria y del comercio;
+a) Continúa: 32.00
 
-VIII. Elaborar estudios sobre el mercado de trabajo, proporcionar los servicios de información relacionados con el mismo, desarrollar programas y proyectos orientados a generar fuentes de empleo y promover la capacitación y adiestramiento de los trabajadores, de acuerdo a los requerimientos de calidad y servicio de los sectores industrial, comercial, de servicios, minero y turístico de la Entidad; y
+b) Especializada: 57.00
 
-IX. Promover jornadas de orientación laboral.
+VI Impartición de curso de formación
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 11 DE JULIO DE 2011)</small>
+especializada a instituciones públicas o
 
-###### ARTICULO 34.
+privadas, por elemento: 57.00
 
-A la Secretaría de Seguridad Pública le corresponde el despacho de los siguientes asuntos:
+VII Por cada curso de capacitación y
 
-I.- Proponer y ejecutar las políticas de seguridad pública en el Estado, así como las orientaciones, lineamientos, estrategias, programas y acciones para la prevención de los delitos y conductas antisociales y la reinserción social;
+adiestramiento a elementos en la Academia
 
-II.- Formular el proyecto del Programa Estatal de Seguridad Pública, presentarlo para su aprobación al Ejecutivo Estatal y llevar a cabo la ejecución y evaluación del mismo, de conformidad con la normatividad aplicable;
+de la Policía Preventiva, por cada uno:
 
-III.- Gestionar, a solicitud de las personas que prestan servicios de seguridad privada, permisos ante las autoridades competentes para que cuenten con el equipo y licencias necesarias para la prevención, seguridad y custodia de las personas y bienes, de conformidad con las disposiciones jurídicas aplicables;
+a) Básico: 65.00
 
-IV.- Coordinar, supervisar y administrar el Sistema Estatal Penitenciario, así como organizar y dirigir las actividades de apoyo a liberados, a través de la unidad administrativa que se determine en el reglamento interior respectivo;
+b) Actualización: 60.00
 
-V.- Vigilar el cumplimiento de la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora, en el ámbito de competencia que la misma señale;
+b (sic) ) Especializada: 325.00
 
-VI.- Integrar el Centro Estatal de Información sobre Seguridad Pública, en términos de la Ley de Seguridad Pública para el Estado de Sonora;
+Pesos
 
-VII.- Representar al Gobernador del Estado ante el Sistema Nacional de Seguridad Pública;
+VIII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
-VIII.- Desarrollar, operar y mantener la Red Estatal de Telecomunicaciones de Seguridad Pública, el Servicio Único de Asistencia Telefónica, el Servicio de Denuncia Anónima y el Sistema Único de Monitoreo y Operación de Equipos Tecnológicos de Vigilancia, en términos de la normatividad aplicable;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-IX.- Organizar y coordinar el registro y control de los recursos del Fondo de Aportaciones para Seguridad Pública, de acuerdo a la normatividad aplicable y los lineamientos aprobados por el Consejo Estatal;
+Los ingresos recaudados en las fracciones II a la VII hasta por un 60 por ciento serán destinados a cubrir las erogaciones derivadas de los servicios públicos que se prestan en el Centro de Desarrollo Infantil y los costos inherentes a la impartición de los cursos.
 
-X.- Establecer los lineamientos y participar en el diseño, instrumentación y evaluación de los programas académicos y de capacitación del Instituto Superior de Seguridad Pública;
+###### Artículo 34.
 
-XI.- Proponer y participar en la celebración de convenios o acuerdos de coordinación y colaboración con autoridades federales, estatales, municipales y del Distrito Federal, así como con instituciones públicas y organismos sociales y privados, en materia de seguridad pública;
+Por la autorización y revalidación a los particulares para prestar los servicios privados de seguridad, se causarán y pagarán los derechos conforme a las siguientes cuotas:
 
-XII.- Fomentar la participación de la comunidad y de los sectores social y privado, en la formulación, ejecución y evaluación de las estrategias, programas y acciones en materia de seguridad pública;
+Número de salarios
 
-XIII.- Coordinar el servicio de apoyo a la carrera policial;
+mínimos
 
-XIV.- Realizar y publicar estudios especializados en materia de seguridad pública;
+Por el estudio y trámite de la solicitud para
 
-XV.- Tramitar y gestionar ante la autoridad competente, la licencia oficial colectiva para la portación de armas de fuego del personal operativo dependiente de la Secretaría de Seguridad Pública y los Ayuntamientos del Estado;
+el registro y autorización o revalidación para
 
-XVI.- Organizar, dirigir, administrar y supervisar a la Policía Estatal de Seguridad Pública, así como garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario;
+prestar los servicios de seguridad privada en
 
-XVII.- Proponer al Gobernador del Estado el nombramiento del titular de la Policía Estatal de Seguridad Pública;
+las modalidades de:
 
-XVIII.- Salvaguardar la integridad y el patrimonio de las personas, prevenir la comisión de delitos del orden local, así como preservar la libertad, el orden y la paz públicos;
+a) Protección y vigilancia o custodia de personas: 135.50
 
-XIX.- Colaborar en el marco del Sistema Nacional de Seguridad Pública, cuando así lo soliciten autoridades federales, estatales o municipales competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente;
+b) Protección, vigilancia de inmuebles e
 
-XX.- Organizar el Sistema Estatal de Información de Seguridad Pública. En lo correspondiente a los diversos registros relacionados con las instituciones de seguridad pública municipal, se coordinará con los Ayuntamientos respectivos;
+instalaciones: 139.73
 
-XXI.- Informar sobre sus actividades al Consejo Estatal de Seguridad Pública, conforme a la periodicidad que establezca la normatividad aplicable; y
+c) Protección o vigilancia de bienes o valores
 
-XXII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+incluido su traslado: 137.40
+
+d) Establecimiento y operación de sistemas y
+
+equipos de seguridad: 142.20
+
+e) Localización e información sobre personas
+
+físicas o morales y bienes: 130.45
+
+f) Los relacionados con toda actividad vinculada
+
+directamente con los servicios de seguridad privada: 139.73
+
+g) Por la resolución que recaiga respecto de la
+
+solicitud para el registro y autorización o
+
+revalidación de cada una de las modalidades
+
+solicitadas: 45.00
+
+h) Por la inscripción de cada arma de fuego o
+
+equipo que se pretenda utilizar en el servicio: 1.50
+
+i) Por la consulta de antecedentes policiales
+
+de cada elemento con que pretenda brindar
+
+los servicios de seguridad privada: 0.80
+
+j) Por la inscripción de cada elemento que no
+
+tengan impedimento legal para ser contratados: 1.50
+
+k) Por el cambio de representante legal o
+
+modificación del acta constitutiva que
+
+deba manifestar: 70.00
+
+II (sic) Por la modificación de la autorización o,
+
+en su caso, de revalidación a que se refiere este
+
+artículo: 30.00
+
+III Por el estudio de la solicitud y expedición de
+
+opinión, sobre la justificación de la necesidad de
+
+que los elementos de la empresa autorizada
+
+porten armas de fuego en el desempeño de
+
+su servicio: 15.00
+
+Por la modificación de dicha opinión se pagará
+
+la misma cuota.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+IV Impartición de curso de formación
+
+básica para integrantes de seguridad privada: 65.00
 
 #### Sección Segunda. Vigilancia y Control Sanitario
 
-###### ARTICULO 35.
+###### Artículo 35.
 
-La creación o constitución de las entidades paraestatales deberá llevarse a cabo con sujeción a lo establecido en esta Ley, así como en las leyes o decretos de creación correspondientes.
+Por la expedición de constancias, se causarán y pagarán derechos, conforme a las siguientes cuotas:
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+Número de salarios
 
-###### ARTICULO 36.
+mínimos
 
-Las entidades paraestatales, como auxiliares de la administración pública estatal, gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, facultades y obligaciones establecidas en sus instrumentos de creación, y de los objetivos y metas señaladas en sus programas. Al efecto se vigilará que su administración sea ágil y eficiente, sujetándose a los sistemas de control establecidos en esta Ley y demás disposiciones legales aplicables.
+I (DEROGADA, P.O. 10 DE MAYO DE 2014)
 
-Cuando alguna entidad paraestatal haya cumplido o deje de cumplir con su objeto o fines para los que fueron creadas o su funcionamiento no responda a las estrategias y orientaciones del Plan Estatal de Desarrollo y de los programas derivados de éste, o en caso de que su operación no resulte conveniente para la economía estatal o el interés público, la Secretaría de Hacienda, previa opinión de la dependencia coordinadora del sector respectivo, propondrá al Gobernador del Estado, para su determinación, la fusión, disolución, liquidación o extinción, según sea el caso.
+II Constancia de no infracción:
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+a) De servicio público: 2.20
+
+b) De servicio privado: 1.10
+
+III Constancia de no adeudo:
+
+a) De servicio público: 3.53
+
+b) De servicio privado: 1.76
+
+IV Por toma de calcas, por unidad: 0.00
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 36.
+
+Las persona físicas, morales o unidades económicas, causarán y pagarán derechos, conforme a los conceptos y cuotas siguientes:
+
+Número de salarios
+
+mínimos
+
+I Pensión de automóviles, camiones,
+
+camionetas de carga y de pasaje, tractores,
+
+remolques, motocicletas, bicicletas, carros
+
+de mano y de tracción animal, por 24 horas: 0.44
+
+II Por autorización para prestar servicio de
+
+depósito, custodia y estacionamiento de
+
+vehículos: 82.5
+
+III Por renovación anual a que se refiere la
+
+fracción anterior. 40.7
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+IV Por arrastre de automóvil o camioneta
+
+dentro de la ciudad de Oaxaca de Juárez: 13.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+V Por arrastre de camión o autobús dentro
+
+de la ciudad de Oaxaca de Juárez: 15.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VI Por arrastre fuera del perímetro de la
+
+ciudad de Oaxaca de Juárez, por cada
+
+kilometro: 0.50
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VII Maniobra de salvamento por hora,
+
+automóvil y camioneta: 2.00
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VIII Maniobra de salvamento por hora,
+
+camión y autobuses: 3.00
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 #### Sección Primera. Servicios Ecológicos
 
-###### ARTICULO 37.
+###### Artículo 37.
 
-El Gobernador del Estado agrupará por sectores definidos las entidades de la administración pública considerando su objeto en relación con la esfera de competencia que ésta y otras leyes atribuyen a las dependencias.
+Las personas físicas y morales causarán derechos cuando soliciten servicios de seguridad y vigilancia integral especializada, conforme a las siguientes cuotas:
 
-La intervención que conforme a este ordenamiento y a las demás leyes aplicables corresponde al Ejecutivo Estatal en la operación de las entidades de la administración pública estatal se realizará a través de la dependencia que corresponda según el agrupamiento que por sectores haya realizado el mismo, la cual fungirá como coordinadora del sector respectivo.
+Número de salarios
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+mínimos
 
-### CAPITULO II. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE SONORA
+I Servicios de seguridad y vigilancia:
+
+a) Sin arma, por elemento en un turno de
+
+12 horas, por mes: 165.00
+
+b) Sin arma, por elemento en un turno
+
+(sic) 12 horas, por quince días: 83.00
+
+c) Con arma, por elemento en un turno de
+
+12 horas, por mes: 176.00
+
+d) Con arma, por elemento en un turno
+
+(sic) 12 horas, por quince días: 88.00
+
+e) De oficialidad con arma, por elemento en
+
+un turno de 12 horas, por mes: 193.00
+
+f) Escolta, por elemento en un turno de 12
+
+horas, por mes: 231.00
+
+g) Con vehículo de motor con dos elementos
+
+armados a bordo en un turno de 12 horas, por
+
+mes: 852.00
+
+h) Con cuatrimoto y dos elementos armados
+
+a bordo en un turno de 12 horas, por mes: 710.00
+
+i) Con motocicleta y dos elementos armados
+
+a bordo en un turno de 12 horas, por mes: 560.00
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+j) Por otros servicios, por elemento, por mes: 39.19
+
+II Servicios de vigilancia administrativa:
+
+a) Sin arma, por elemento en un turno de 12
+
+horas, por mes: 144.00
+
+b) Si (sic) arma, por elemento en un turno de
+
+12 horas, por quince días: 72.00
+
+III Servicios de seguridad y vigilancia de
+
+alto riesgo:
+
+a) Con arma y equipo, por elemento en un
+
+turno de 12 horas, por mes: 200.00
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+b) Por otros servicios, por elemento, por mes: 77.28
+
+IV Servicios de seguridad y vigilancia especiales:
+
+a) Por elemento sin arma, por 12 horas: 13.00
+
+b) Por elemento sin arma, por 6 horas: 6.50
+
+c) Por elemento con arma, por 12 horas: 17.00
+
+d) Por elemento con arma, por 6 horas: 8.00
+
+e) Por elemento de escolta con arma, por
+
+12 horas: 44.00
+
+f) Por elemento de escolta con arma, por
+
+6 horas: 22.00
+
+g) Con vehículo de motor dentro de la
+
+ciudad con dos elementos a bordo, por
+
+12 horas: 94.50
+
+h) Con vehículo de motor fuera de la
+
+ciudad pero dentro del territorio del
+
+Estado, con dos elementos a bordo y
+
+armados, por 12 horas: 180.00
+
+i) Con motocicleta y dos elementos a bordo,
+
+por 12 horas: 48.00
+
+j) Con motocicleta y dos elementos a bordo,
+
+por 6 horas: 24.00
+
+k) Monitoreo a través de circuito cerrado, por
+
+una cámara mensual: 25.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LA SECCIÓN QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+### Capítulo Tercero Bis. Por los Servicios que presta la Secretaría de Vialidad y Transporte
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 #### Sección Segunda. Supervisión de Obra Pública
 
@@ -1721,471 +3225,1581 @@ La intervención que conforme a este ordenamiento y a las demás leyes aplicable
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 38.
+###### Artículo 38.
 
-Corresponde a los titulares de las dependencias coordinadoras de sector, establecer políticas de desarrollo para las entidades del sector correspondiente; coordinar la programación y presupuestación de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas; conocer la operación y evaluar los resultados de las entidades de la administración pública paraestatal agrupadas en su sector; promover la generación de fondos propios de éstas y las demás atribuciones que les concedan los ordenamientos jurídicos aplicables.
+Las personas físicas y morales que obtengan concesiones y permisos de servicio público en sus diferentes modalidades, causarán y pagarán derechos conforme a las siguientes cuotas:
 
-Atendiendo a la naturaleza de las actividades de dichas entidades, el titular de la dependencia coordinadora podrá agruparlas en subsectores, cuando así convenga para facilitar su coordinación y dar congruencia al funcionamiento de las entidades respectivas.
+Número de salarios
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+mínimos
+
+I Por la integración de expediente para
+
+solicitar una concesión: 6.00
+
+II (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+III Por la expedición de copias simples
+
+de documentos que obren en archivo,
+
+hasta 20 hojas: 1.00
+
+IV Por hoja adicional: 0.05
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+V Por la expedición de
+
+permiso por 60 días: 4.50
+
+VI Por certificación de documentos, excepto
+
+de concesiones o permisos hasta 20 hojas: 6.50
+
+VII Por hoja adicional $3.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VIII Por la expedición de copia
+
+certificada cuando proceda, de
+
+concesión o servicio, en cualquiera
+
+de sus modalidades y tipo de unidades: 5.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+IX Por la expedición de títulos de concesión
+
+para el servicio mixto de pasaje y carga con
+
+capacidad de hasta tres toneladas: 198.00
+
+X Por la expedición de títulos de concesión
+
+para el servicio público en las modalidades
+
+de carga tipo general bajo tonelaje y de
+
+materiales para la construcción a granel tipo
+
+volteo: 198.00
+
+XI Por la expedición de títulos de concesión
+
+para el servicio público en la modalidad de
+
+pasaje, tipo urbano, suburbano y foráneo, de
+
+alquiler o taxi y exclusivo de turismo, con
+
+unidades tipo autobús, minibús, combi,
+
+vagoneta: 236.50
+
+XII Por la expedición de títulos de concesión
+
+para el servicio público en la modalidad de
+
+carga tipo general de alto tonelaje y
+
+especializada: 198.00
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XIII Por la expedición de transferencia
+
+de derechos entre particulares, sea a
+
+título gratuito, previa autorización expresa
+
+de la Secretaría de Vialidad y Transporte,
+
+por muerte o incapacidad física o
+
+mental, y por la integración de
+
+expedientes administrativos de regularización
+
+de concesionarios en cualquier modalidad y
+
+tipo de Unidad: 65.00
+
+XIV Por la expedición de permisos para
+
+vehículos en la modalidad de personal al
+
+campo y empresas, y de transporte especial,
+
+tipo ambulancias, carrozas, escolar, pipa y
+
+centros de aprendizaje de conducción
+
+vehicular: 23.00
+
+XV (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
+
+XVI Por la expedición de títulos de concesión
+
+para el servicio de transporte especial, tipo
+
+grúa: 173.00
+
+XVII Por la expedición de títulos de concesión
+
+para servicio público en la modalidad de
+
+carretilleros: 8.00
+
+XVIII Por la expedición de títulos de
+
+concesión para servicio público en la
+
+modalidad de moto taxis o moto carro: 18.30
+
+XIX Renovación de concesión en la modalidad
+
+de servicio mixto de carga y pasaje: 19.00
+
+XX Renovación de concesión en la modalidad
+
+de carga (bajo tonelaje y de materiales para
+
+la construcción en general tipo volteo): 19.00
+
+XXI Renovación de concesión en la modalidad
+
+de pasaje, tipo urbano, suburbano y foráneo
+
+(autobús), por unidad: 23.00
+
+XXII Renovación de concesión de servicio
+
+público de alquiler (taxi): 18.00
+
+XXIII Renovación de concesión del servicio
+
+público de alquiler turístico (con unidades
+
+tipo autobús, minibús), por unidad: 23.00
+
+XXIV Renovación de concesión para el
+
+servicio público de acarreo de agua para
+
+consumo humano (pipas): 19.00
+
+XXV Renovación de concesión para
+
+el servicio público de carga ligera con
+
+motocarro: 12.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XXVI Renovación de concesión para el
+
+servicio público de maniobras y acarreo
+
+con carretilla y tracción animal 12.00
+
+XXVII Renovación de concesión para el
+
+servicio público de transporte especial,
+
+tipo grúa: 97.00
+
+XXVIII (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
+
+XXIX Renovación de concesión para el
+
+servicio público en la modalidad de moto
+
+taxis o moto carro: 10.00
+
+XXX En el caso de personas morales que
+
+tengan una concesión e incremente unidades
+
+en cualquier modalidad se le cobrará por
+
+cada unidad:
+
+a) En la modalidad de autobús: 193.00
+
+b) En la modalidad de camiones de carga,
+
+volteo y camionetas del servicio público
+
+de alquiler por unidad: 162.00
+
+c) En la modalidad de automóviles de alquiler
+
+por unidad: 177.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+XXXI Por trámite de cambio de vehículo: 1.05
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XXXII. Por la expedición de permiso para
+
+servicio especial y por la integración del
+
+expediente administrativo por unidad: 100.00
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XXXIII. Por prórroga de permiso para servicio especial: 100.00
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XXXIV. Por la expedición de constancia pericial: 4.40
+
+Los concesionarios, propietarios y/o tenedores de vehículos destinados al servicio público deberán someter a la revisión pericial dichos vehículos en los primeros tres meses de cada año.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 #### Sección Tercera. Por el Suministro de Agua Potable
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTICULO 39.
+###### Artículo 39.
 
-La administración de las entidades paraestatales estará a cargo de órganos de gobierno que podrán ser:
+Los derechos por servicios de control vehicular se causarán y pagarán de acuerdo con los siguientes periodos:
 
-I.- Juntas directivas o sus equivalentes de los organismos descentralizados;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-II.- Consejos de administración o sus equivalentes de las empresas de participación estatal mayoritaria; y
+I. Dentro de los quince días hábiles siguientes a la fecha de adquisición de vehículo nuevo para la expedición de placas y calcomanía;
 
-III.- Comités técnicos de los fideicomisos públicos.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-Las entidades paraestatales contarán con un Director General o su equivalente en quien recaerá la representación legal de cada una de ellas y también las atribuciones que les determine esta Ley y las demás leyes o decretos correspondientes.
+II. Los tres primeros meses del año, por el uso, goce o aprovechamiento de placas y calcomanía de vehículos;
 
-La Secretaría de Hacienda tendrá un representante en cada uno de los órganos de gobierno de las entidades paraestatales. También participarán otras dependencias y entidades, en la medida en que tenga relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y disposiciones relativas en la materia.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-Asimismo, podrán participar, con la calidad que se determine en los instrumentos de creación de las entidades, las instituciones académicas, de investigación y organizaciones no gubernamentales y de la sociedad civil, cuando su participación pueda contribuir a la eficiente operación y desarrollo de la Entidad.
+III. Los tres primeros meses del año, cuando el Estado realice canje total de placas y calcomanía, y
 
-Los representantes de las dependencias y de las entidades paraestatales, en las sesiones de los órganos de gobierno en que intervengan, deberán pronunciarse sobre los asuntos que deban resolver dichos órganos de acuerdo con las facultades que les otorga esta Ley y que se relacionen con la esfera de competencia de la dependencia o entidad representada.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-Los cargos de los integrantes del órgano de gobierno serán honoríficos, por lo tanto, sus miembros no recibirán remuneración alguna.
+IV. Dentro de los quince días hábiles siguientes a la fecha de haberse efectuado la operación de compra - venta del que derive el trámite de baja.
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+Para efectos de la presente sección, se entenderá por:
 
-###### ARTICULO 40.
+I. Servicio privado: A los vehículos destinados al servicio particular de las personas, y
 
-Los órganos de gobierno de las entidades paraestatales tendrán las siguientes atribuciones indelegables:
-
-I.- Establecer, en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse la entidad paraestatal relativas a productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
-
-II.- Aprobar los programas y proyectos de presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable;
-
-III.- Aprobar la concertación de los instrumentos para el financiamiento de la entidad paraestatal, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras;
-
-IV.- Expedir las normas o bases generales con arreglo a las cuales el Director General pueda disponer de los activos fijos de la entidad que no correspondan a las operaciones propias del objeto de la misma;
-
-V.- Calificar, previo informe de los comisarios públicos y dictamen de los auditores externos, los estados financieros de la entidad paraestatal;
-
-VI.- Aprobar de acuerdo con las leyes aplicables las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza. El Director General o su equivalente de la entidad y, en su caso, los servidores públicos que deban intervenir de conformidad a las normas orgánicas de la misma, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el órgano de gobierno;
-
-VII.- Aprobar la estructura organizativa secundaria que fuere necesaria para el eficaz funcionamiento de la entidad paraestatal, y las modificaciones que procedan a la misma, así como su reglamento interior;
-
-VIII.- Proponer al Ejecutivo Estatal, por conducto de la dependencia coordinadora de sector, previa opinión de la Secretaría de Hacienda, los convenios de fusión con otras entidades;
-
-IX.- Autorizar la creación de comités de apoyo;
-
-X.- Nombrar a los servidores públicos de la entidad paraestatal que señalen su ordenamiento jurídico de creación y su reglamento interior; asimismo, aprobar la fijación de sus sueldos y prestaciones, de acuerdo con los tabuladores autorizados, y concederles licencias;
-
-XI.- Proponer y aprobar, en su caso, la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria de conformidad con las leyes aplicables a la entidad que corresponda. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación para su determinación por el Ejecutivo Estatal por los conductos adecuados;
-
-XII.- Autorizar la baja y enajenación de los bienes muebles con sujeción a las disposiciones legales aplicables;
-
-XIII.- Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General; y
-
-XIV.- Acordar con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen en los fines señalados en las instrucciones de la dependencia coordinadora del sector correspondiente.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-###### ARTICULO 41.
-
-El órgano de gobierno se reunirá con la periodicidad que se señale en el reglamento interior respectivo, sin que pueda ser menor de tres veces al año.
-
-El órgano de gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la administración pública. Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el Presidente voto de calidad para el caso de empate.
-
-Las funciones del Presidente y demás miembros integrantes del órgano de gobierno serán establecidas en el reglamento interior respectivo, sin perjuicio de las establecidas en otros ordenamientos.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-###### ARTICULO 42.
-
-Serán atribuciones de los directores generales de las entidades, las siguientes:
-
-I.- Administrar y representar a la entidad paraestatal;
-
-II.- Formular los programas institucionales, así como los proyectos de presupuestos de la entidad y presentarlos para su aprobación al órgano de gobierno;
-
-III.- Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles o inmuebles de la entidad paraestatal;
-
-IV.- Tomar las medidas pertinentes a fin de que las funciones de la entidad se realicen de manera articulada, congruente y eficaz;
-
-V.- Establecer los procedimientos para controlar la calidad de los suministros y programas de recepción que aseguren la continuidad en la fabricación, distribución o prestación del servicio;
-
-VI.- Proponer al órgano de gobierno los nombramientos de los servidores públicos de la entidad a que hace referencia la fracción X del artículo 40 de esta Ley; así como la fijación de sueldos y demás prestaciones conforme a los tabuladores autorizados y a las asignaciones globales del presupuesto de egresos aprobado;
-
-VII.- Recabar información y elementos estadísticos que reflejen el estado de las funciones de la entidad paraestatal para así poder mejorar la gestión de la misma;
-
-VIII.- Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
-
-IX.- Rendir periódicamente al órgano de gobierno un informe del desempeño de las actividades de la entidad, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes, conforme lo establezca el reglamento o así lo determine dicho órgano de gobierno. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la dirección con los resultados alcanzados;
-
-X.- Establecer mecanismos de evaluación para conocer la eficiencia y la eficacia con que se desempeñe la entidad y presentar al órgano de gobierno, por lo menos semestralmente, la evaluación de gestión con el detalle que previamente se acuerde con el órgano y escuchando al Comisario Público;
-
-XI.- Ejecutar los acuerdos que dicte el órgano de gobierno; y
-
-XII.- Las que señalen las otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae este ordenamiento.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-###### ARTICULO 43.
-
-Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, durante los primeros diez días de cada mes, la información y datos que les soliciten, así como los que les requieran las dependencias de la administración pública directa.
-
-Para el cumplimiento de lo anteriormente establecido, la respectiva dependencia coordinadora de sector conjuntamente con las Secretarías de Hacienda y de la Contraloría General, harán compatibles los requerimientos de información que se soliciten a las dependencias y entidades paraestatales racionalizando los flujos de información.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-### Capítulo Quinto. Por los Servicios que presta la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable
-
-#### Sección Primera. Por los Servicios que presta la Casa de la Cultura Oaxaqueña
-
-###### ARTICULO 44.
-
-Las entidades a que se refiere esta Ley, deberán inscribirse en el registro de la administración pública paraestatal que llevará la Secretaría de Hacienda.
-
-Los directores generales de las entidades que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
-
-> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
-
-#### Sección Segunda. Por los Servicios que preste el Taller de Artes Plásticas Rufino Tamayo
-
-###### ARTICULO 45.
-
-Son organismos descentralizados las entidades creadas por disposición del Congreso del Estado o por decreto del Ejecutivo, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten, siempre que reúnan los siguientes requisitos:
-
-I.- Que su objeto o fines sean la prestación de un servicio público o social, la explotación de bienes o recursos estatales, la investigación científica o tecnológica y la obtención o aplicación de recursos para fines de asistencia o seguridad sociales, mediante la realización de acciones que sean de interés general o de beneficio colectivo; y
-
-II.- Que su patrimonio se constituya total o parcialmente con recursos o bienes del Gobierno del Estado o aportaciones del Gobierno Federal.
-
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
-
-ARTICULO 45 BIS.- En las leyes o decretos que se expidan por el Congreso del Estado o por el Ejecutivo para la creación de un organismo descentralizado se establecerán cuando menos:
-
-I.- La denominación del organismo;
-
-II.- El objeto del organismo conforme a lo señalado en el artículo 45, fracción I de esta Ley;
-
-III.- Las aportaciones y fuentes de recursos para integrar su patrimonio, así como aquellas que se determinen para su incremento;
-
-IV.- La integración y funcionamiento del órgano de gobierno;
-
-V.- Las atribuciones del órgano de gobierno con especificación de las que serán indelegables;
-
-VI.- Las formas de suplencia de los integrantes del órgano de gobierno;
-
-VII.- Las atribuciones del Director General, quien tendrá la representación legal del Organismo;
-
-VIII.- La determinación de que el organismo no podrá iniciar su función sino hasta que la Secretaría de la Contraloría General designe a el o los órganos de control y vigilancia que correspondan; y
-
-IX.- El régimen laboral de sus servidores.
-
-En la extinción de los organismos descentralizados deberán observarse las mismas formalidades establecidas para su creación, debiendo la ley o decreto respectivo fijar la forma y términos de su extinción y liquidación.
-
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
-
-ARTICULO 45 BIS A.- El órgano de gobierno de un organismo descentralizado estará integrado por no menos de cinco ni más de quince miembros propietarios y de sus respectivos suplentes. Será presidido por el titular de la dependencia coordinadora de sector o por la persona que se designe en la ley o decreto de creación de la entidad. Esto sin perjuicio de que, por disposición expresa del ordenamiento jurídico que cree el organismo, dicha presidencia pueda corresponder al titular del Poder Ejecutivo.
-
-En ningún caso podrán ser miembros del órgano de gobierno del organismo:
-
-I.- El Director General del organismo de que se trate, quien únicamente asistirá con voz a sus sesiones;
-
-II.- Los representantes de la Secretaría de la Contraloría General y los titulares de los órganos de control y vigilancia y los comisarios públicos oficiales y ciudadanos, quienes asistirán a sus sesiones correspondientes en ejercicio de las atribuciones competenciales a su cargo;
-
-III.- Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con el titular de la Secretaría coordinadora de sector o quien tenga a su cargo la designación de los integrantes del órgano de gobierno;
-
-IV.- Las personas que tengan litigios o adeudos pendientes con el organismo de que se trate; y
-
-V.- Las personas sentenciadas por delitos dolosos graves, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
-
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
-
-ARTICULO 45 BIS B.- El Director General del organismo descentralizado será designado por el titular del Poder Ejecutivo, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
-
-I.- Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
-
-II.- Acreditar conocimientos y experiencia en materia administrativa; y
-
-III.- No encontrarse en alguno de los impedimentos que para ser miembro del órgano de gobierno señalan las fracciones III, IV y V del artículo 45 Bis A de esta Ley.
-
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
-
-ARTICULO 45 BIS C.- Los directores generales de los organismos descentralizados, en lo concerniente a su representación legal, sin perjuicio de las facultades que se les otorguen en otras leyes, decretos o reglamentos, ejercerán las atribuciones que el órgano de gobierno expresamente le otorgue.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-### Capítulo Sexto. Por los Servicios que presta la Secretaría de Turismo y Desarrollo Económico
-
-###### ARTICULO 46.
-
-Son empresas de participación estatal mayoritaria las sociedades de cualquier naturaleza que satisfagan alguno o varios de los siguientes requisitos:
-
-I.- Que el Gobierno del Estado o una o más entidades de la administración pública paraestatal, conjunta o separadamente, aporten o sean propietarios de más del 50% del capital social;
-
-II.- Que en la constitución de su capital se hagan figurar títulos representativos del capital social de serie especial que sólo puedan ser suscritos por el Gobierno Estatal; o
-
-III.- Que al Gobierno Estatal corresponda la facultad de nombrar a la mayoría de los miembros del órgano de gobierno, o bien designar al Presidente o al Director General, o cuando tengan facultades para vetar los acuerdos del propio órgano de gobierno o su equivalente.
-
-Se asimilan a las empresas de participación estatal mayoritaria, las sociedades y asociaciones civiles en las que la mayoría de los asociados sean dependencias o entidades de la administración pública estatal, o alguna o varias de ellas se obliguen a realizar o realicen las aportaciones económicas preponderantes.
-
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
-
-ARTICULO 46 BIS.- Los integrantes de los Consejos de Administración o sus equivalentes de las empresas de participación estatal mayoritaria, que representen la participación de la administración pública estatal, serán los señalados en el artículo 39 de esta Ley y deberán de constituir en todo tiempo más de la mitad de los miembros del Consejo. Dichos Consejos serán presididos por el titular de la dependencia coordinadora de sector, excepto cuando los estatutos establezcan que la presidencia de los mismos le corresponde al Gobernador del Estado o a otra persona.
-
-EL Consejo de Administración o su equivalente se reunirá con la periodicidad que se señale en los estatutos de la empresa, sin que pueda ser menor de tres veces al año.
-
-El propio Consejo deberá sesionar válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la participación del Gobierno del Estado. Las resoluciones se tomarán por mayoría de los miembros presentes, debiendo decidir el presidente en caso de empate.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-ARTICULO 46 BIS A.- Los directores generales de las empresas de participación estatal mayoritaria, sin perjuicio de las atribuciones que se les atribuyan (sic) en los estatutos de la empresa y legislación del caso, tendrán las que se mencionan en el artículo 42 de este ordenamiento.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-#### Sección Tercera. Por los Servicios que preste el Centro de Iniciación Musical de Oaxaca
-
-###### ARTICULO 47.
-
-Los fideicomisos públicos que se constituyan por el Ejecutivo del Estado, que se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria y se constituyan con recursos de la administración pública estatal, para la atención de un objeto específico de interés público o beneficio colectivo, serán los que se consideren entidades paraestatales conforme lo dispuesto por esta Ley.
-
-El Ejecutivo Estatal, en el decreto que autorice la constitución del fideicomiso, podrá facultar para la formalización del contrato respectivo al Secretario de Hacienda. En todo caso, éste cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije, en su caso al comité técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el párrafo anterior.
-
-Los comités técnicos y los directores generales de los fideicomisos públicos se ajustarán, en cuanto a su integración, facultades y funcionamiento a las disposiciones que en este Título se establecen para los órganos de gobierno y para los directores generales de los organismos descentralizados, en cuanto le sean compatibles a su naturaleza.
-
-> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 2007)</small>
-
-El Ejecutivo Estatal podrá constituir fideicomisos públicos que no se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, en cuyo caso estarán asignados a una dependencia de la administración pública estatal responsable de que se apliquen a los fines para los cuales fueron constituidos y cuyo patrimonio podrá incluir, además de los recursos estatales, recursos federales o provenientes del sector privado. A estos fideicomisos también le serán aplicables las disposiciones de fiscalización de la administración pública estatal.
-
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
-
-Los fideicomisos públicos referidos en el párrafo anterior estarán sujetos en la contratación de bienes y servicios, a las disposiciones normativas que regulan tales actos en la administración pública estatal.
-
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
-
-ARTICULO 47 BIS.- Cuando, por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, el comité técnico emitirá las instrucciones necesarias para dar efectivo cumplimiento.
-
-> <small>(REFORMADO, B.O. 14 DE JULIO DE 2008)</small>
-
-ARTICULO 47 BIS A.- En los contratos constituidos de fideicomisos públicos, cuando el fideicomitente sea el Gobierno del Estado, se deberá reservar a éste la facultad expresa de revocarlos sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la ley, que la naturaleza de su objeto no lo permita, o que el fin primordial del fideicomiso sea actuar como fuente de pago de obligaciones del Estado o garantizar obligaciones del Estado en términos de la legislación aplicable.
-
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
-
-ARTICULO 47 BIS B.- En los fideicomisos públicos, mandatos o contratos análogos constituidos por dependencias o entidades del Gobierno del Estado, o que administren recursos públicos estatales, corresponderá al fiduciario por instrucciones expresas del fideicomitente, del mandante o de quien celebre el contrato análogo, dar cumplimiento a los requerimientos de información solicitados por las unidades de enlace correspondientes, la Secretaría de la Contraloría General del Estado o por el Instituto Superior de Auditoría y Fiscalización, en el ámbito de sus respectivas competencias, relativos al manejo y destino de recursos públicos estatales.
-
-Los titulares de las dependencias, entidades u órganos autónomos encargados de la coordinación de los fideicomisos, mandatos o contratos análogos, o con cargo a cuyo presupuesto se hayan otorgado recursos, deberán coadyuvar con las unidades de enlace correspondientes, la Secretaría de la Contraloría General del Estado y el Instituto Superior de Auditoría y Fiscalización, a efecto de que se atiendan debidamente los requerimientos de información que se realicen para el cumplimiento de sus funciones de acceso a la información, control y fiscalización.
-
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
-
-ARTICULO 47 BIS C.- Los titulares de las dependencias o entidades del Gobierno del Estado que constituyan fideicomisos públicos, mandatos o contratos análogos, o que administren recursos públicos estatales, deberán realizar los actos necesarios a fin de que se autorice a la fiduciaria en los contratos respectivos a proporcionar la información a que se refiere el primer párrafo del artículo anterior, sin que se requiera autorización por cada solicitud de información, así como de cuidar que las reglas de operación que, en su caso, se emitan y las modificaciones que excepcionalmente se propongan a las mismas, no desvirtúen los propósitos, bases, medidas de control y objetivos para los que fueron constituidos aquéllos.
-
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
-
-ARTICULO 47 BIS D.- Los titulares de las dependencias o entidades del Gobierno del Estado que constituyan fideicomisos públicos, mandatos o contratos análogos, o que administren recursos públicos estatales o, en su caso, los beneficiarios de dichos recursos deberán proporcionar a las unidades de enlace respectivas, la Secretaría de la Contraloría General del Estado y al Instituto Superior de Auditoría y Fiscalización, la información y documentación de que dispongan y que les sea requerida en relación con la aplicación de esos recursos a los fines específicos para los cuales fueron otorgados.
-
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
-
-ARTICULO 47 BIS E.- Los recursos públicos aportados a fideicomisos, mandatos o contratos análogos por dependencias y entidades del Gobierno del Estado, se considerarán públicos para efectos de transparencia y rendición de cuentas, aun cuando se aporten a fideicomisos constituidos por los particulares.
-
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
-
-ARTICULO 47 BIS F.- En todo fideicomiso, mandato o contrato análogo celebrado por las dependencias o entidades del Gobierno del Estado o con recursos públicos estatales, deberá preverse que dichas dependencias o entidades están obligadas dentro de los límites y alcances de la presente ley, a transparentar y rendir cuentas sobre el manejo de dichos recursos y a proporcionar los informes que faciliten su fiscalización.
-
-Asimismo, deberá señalarse que el fideicomitente instruye a la fiduciaria para rendir los informes correspondientes.
-
-En los contratos antes señalados, se deberá incluir la siguiente cláusula:
-
-"El Fiduciario o el mandatario, con la autorización del fideicomitente, mandante o la persona facultada para ello, tienen la obligación de transparentar y rendir cuentas sobre el manejo de los recursos públicos estatales que se hubieren aportado a este fideicomiso o mandato y a proporcionar los informes que permitan su vigilancia y fiscalización, en los términos de la Ley Orgánica del Poder Ejecutivo. Para este fin, se instruye a la fiduciaria para que rinda los informes correspondientes que faciliten la fiscalización referida."
-
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
-
-ARTICULO 47 BIS G.- La información que generen las dependencias y entidades del Gobierno del Estado en materia de fideicomisos, mandatos o contratos análogos para la integración de los informes trimestrales que se envían al Congreso del Estado deberá incluir: ingresos de recursos públicos otorgados en el período, incluyendo rendimientos financieros y egresos realizados en el período, así como su destino.
-
-La información señalada en el párrafo anterior será de acceso público en los términos de la Ley de Acceso a la lnformación Pública del Estado de Sonora y deberá ser puesta a disposición del público en los términos del artículo 14 del mismo ordenamiento legal, así como la relación de los fideicomisos, mandatos o contratos análogos a los que aporten recursos presupuestarios, el monto de estos, programa al que está vinculado el fideicomiso o contrato, partida presupuestaria con cargo a la cual se aportaron o aportan los recursos y la unidad administrativa responsable de coordinarlos.
-
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
-
-ARTICULO 47 BIS H.- Las modificaciones a los contratos de fideicomisos, mandatos o contratos análogos que involucren recursos públicos estatales, que impliquen una desviación a la autorización correspondiente se realizará a través de un convenio modificatorio en los términos de las disposiciones aplicables, el cual deberá celebrarse, en lo conducente, de conformidad con el procedimiento establecido para la constitución del fideicomiso, mandato o contrato análogo respectivo.
-
-En los fideicomisos públicos considerados entidades, la Secretaría de Hacienda podrá proponer al Ejecutivo del Estado su modificación cuando así convenga al interés público.
-
-Formalizado el convenio modificatorio, el fideicomitente, mandante o su equivalente, por conducto de la dependencia o entidad a la que se encuentre asignado el mismo o con cargo a cuyo presupuesto se hayan otorgado los recursos, deberá remitirlo a la Secretaría de Hacienda con el objeto de actualizar su registro en el sistema.
-
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
-
-ARTICULO 47 BIS I.- La Secretaría de Hacienda o, en su caso, las dependencias y entidades a las que se asignen los fideicomisos o que con cargo a su presupuesto se aportaron los recursos presupuestarios fideicomitidos, con la participación que corresponda al fideicomitente, excepto en aquellos constituidos por la Federación, los Municipios o los particulares, promoverán la extinción de los fideicomisos que no se consideren entidades paraestatales que hayan alcanzado sus fines, o que estos sean imposibles de alcanzar, o que en los dos ejercicios fiscales anteriores no hubieran realizado acción alguna tendiente a alcanzar los fines para los que fueron constituidos, salvo que en este último caso, se justifique su vigencia.
-
-Lo anterior, sin perjuicio de la revisión que, en su caso, realicen los órganos de control y fiscalización correspondientes sobre la aplicación de los recursos públicos estatales aportados.
-
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
-
-ARTICULO 47 BIS J.- En la extinción de los fideicomisos no considerados organismos descentralizados y contratos análogos se observará lo siguiente:
-
-I.- El fideicomitente o su equivalente en el contrato análogo, o, en su caso, el Comité Técnico, instruirá a la fiduciaria para que elabore el convenio de extinción, con la participación de la dependencia a la cual se hubiere asignado el fideicomiso o contrato análogo.
-
-II.- La extinción del fideicomiso o contrato análogo se formalizará mediante la firma del convenio de extinción correspondiente; y
-
-III.- Realizado lo anterior, las dependencias y entidades a las que se asignen los fideicomisos o que con cargo a su presupuesto se aportaron los recursos presupuestarios fideicomitidos, entregará dentro de los 15 días hábiles posteriores a la Secretaría de Hacienda el convenio de extinción, anexando copia del oficio de entero de recursos públicos estatales remanentes, y solicitarán la cancelación correspondiente en el Registro de fideicomisos, mandatos y contratos análogos del Gobierno del Estado.
-
-> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
-
-###### ARTICULO 48.
-
-Para su operación, las entidades de la administración pública paraestatal deberán elaborar, con sujeción a las disposiciones legales aplicables y en congruencia con el Plan Estatal de Desarrollo y con los programas sectoriales que se deriven del mismo, sus programas institucionales.
-
-Dichos programas, que constituirán la asunción de compromisos que deben alcanzar las señaladas entidades, deberán contener la fijación de objetivos y metas; los resultados económicos y financieros esperados; las bases para evaluar las acciones que se lleven a cabo; la definición de estrategias y prioridades; la previsión y organización de recursos para alcanzarlas; la expresión de programas para la coordinación de sus tareas y las previsiones respecto a las posibles modificaciones a sus estructuras.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-###### ARTICULO 49.
-
-Las entidades a que se refiere este Título, para cada ejercicio fiscal, deberán elaborar, conforme a los lineamientos generales que establezca la Secretaría de Hacienda, sus programas financieros, los cuales deberán expresar, enunciativamente los fondos propios, las aportaciones de capital y la contratación de créditos. Estos programas deberán contener, además, los criterios conforme a los cuales se ejecutarán los mismos en cuanto a montos, costos reales, plazos, garantías y avales.
-
-Los programas financieros deberán enviarse por los directores generales de las entidades a la Secretaría de Hacienda, a más tardar el primero de octubre del ejercicio correspondiente, para que sean incluidos en el proyecto de Ley de Ingresos y Presupuesto de Ingresos del Estado.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-###### ARTICULO 50.
-
-Las entidades paraestatales deberán formular, a partir de sus programas operativos anuales, sus presupuestos anuales de egresos. En estas actividades, las entidades de la administración pública paraestatal se sujetarán a las proyecciones y cálculos que, en ejercicio de sus facultades, realice la propia Secretaría de Hacienda, y a los lineamientos generales que en materia de gasto establezca dicha dependencia.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-###### ARTICULO 51.
-
-Los presupuestos de egresos a que se refiere el artículo anterior deberán contener, como mínimo, la descripción detallada de objetivos y metas y el señalamiento de unidades responsables de su ejecución, así como los elementos que permitan la evaluación sistemática de los programas correspondientes.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-###### ARTICULO 52.
-
-Sin perjuicio de lo dispuesto en otros ordenamientos jurídicos, las entidades a que se refiere este Título manejarán y erogarán los fondos propios y los subsidios o transferencias que reciban del Estado y se sujetarán a los controles e informes respectivos, de conformidad con los ordenamientos aplicables.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-###### ARTICULO 53.
-
-Las relaciones entre el Ejecutivo Estatal y las entidades paraestatales, para fines de congruencia global de la administración pública paraestatal, con el sistema estatal de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Hacienda y de la Contraloría General, sin perjuicio de las atribuciones que competan a las dependencias coordinadoras de sector.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-###### ARTICULO 54.
-
-El órgano de gobierno de las entidades paraestatales para el logro de los objetivos y metas de sus programas, ejercerá sus facultades con base en las políticas, lineamientos y prioridades que conforme a lo dispuesto por esta Ley establezca el Ejecutivo del Estado.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-###### ARTICULO 55.
-
-El órgano de gobierno de las entidades paraestatales podrá acordar la realización de todas las operaciones inherentes al objeto de la entidad con sujeción a las disposiciones de esta Ley y podrá delegar discrecionalmente sus atribuciones en el Director General, salvo aquellas facultades a que se contrae el artículo 40 de este ordenamiento.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-#### Sección Primera. Del Control Vehicular
+II. Servicio público: A los vehículos destinados a operar mediante cobro de tarifas autorizadas en cualquiera de sus modalidades con sujeción a concesiones o permisos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTICULO 56.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-Las entidades de la administración pública paraestatal, a efecto de que cuenten en su funcionamiento con una administración ágil y eficiente, deberán formular, aprobar y mantener permanentemente actualizados sus reglamentos interiores, manuales de organización, de procedimientos y de servicios al público.
+###### Artículo 40.
 
-Los señalados reglamentos interiores que emitan los órganos de gobierno de las entidades determinarán las atribuciones, la adscripción, en su caso, de las unidades administrativas de éstas, así como la forma en que los titulares de dichas unidades podrán ser suplidos en sus ausencias.
+Causarán y pagarán derechos los propietarios y/o tenedores de vehículos que soliciten servicios de control vehicular por los conceptos y cuotas siguientes:
 
-Los reglamentos interiores de las entidades de la administración pública paraestatal deberán publicarse en el Boletín Oficial del Gobierno del Estado de Sonora, a más tardar a los ciento veinte días de haberse integrado su órgano de gobierno respectivo.
+Número de salarios
 
-Los manuales como instrumentos de apoyo administrativo contendrán información sobre la estructura orgánica de las entidades, las funciones de sus unidades administrativas, así como las líneas de autoridad y coordinación y los principales procedimientos administrativos que se establezcan, debiendo mantenerse a disposición del público en las propias entidades y promoverse su difusión.
+mínimos
 
-Los manuales de organización, de procedimientos y de atención al público deberán formalmente expedirse dentro de los sesenta días posteriores a la publicación del Reglamento Interior de la entidad.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 26 DE DICIEMBRE DE 1986)</small>
+I Expedición de placas y calcomanía, por alta
 
-#### Sección Segunda. De las Constancias
+o canje total para vehículos destinados al
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2013)</small>
+servicio privado: 9.70
 
-###### ARTICULO 57.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-Las funciones de control y evaluación de las entidades paraestatales estarán a cargo de los órganos de control y desarrollo administrativo, los cuales dependerán jerárquica, administrativa y funcionalmente de la Secretaría de la Contraloría General.
+II Expedición de placas y calcomanía, por
 
-Los Comisarios Públicos Oficiales y Comisarios Públicos Ciudadanos, designados por la Secretaría de la Contraloría General, ejercerán las funciones de vigilancia de las entidades paraestatales.
+alta o canje total para motocicletas y otros
 
-El Comisario Público Ciudadano percibirá los estímulos que se fijen anualmente en el presupuesto de egresos de la Secretaría de la Contraloría General.
+vehículos similares con remolque y/o cabina
 
-Los titulares de los órganos de control y desarrollo administrativo y los Comisarios Públicos, participarán con voz en las reuniones de los órganos de gobierno de las entidades.
+destinados al servicio privado: 4.20
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-###### ARTICULO 58.
+III Expedición de placas, por alta o canje
 
-Los comisarios públicos, que serán propietarios y suplentes, evaluarán el desempeño general y por funciones de los organismos descentralizados; realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría General del Estado les asigne específicamente conforme a las leyes.
+total para vehículos de demostración: 20.00
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+IV Expedición de placas, calcomanía y
 
-### Capítulo Séptimo. Por los Servicios que presta la Secretaría de las Culturas y Artes de Oaxaca
+tarjeta de circulación, por alta o canje
 
-###### ARTICULO 59.
+total para vehículos destinados al servicio
 
-Los órganos de control y desarrollo administrativo realizarán las funciones de control y evaluación de la gestión pública de las entidades paraestatales, de conformidad con lo dispuesto en el reglamento correspondiente y con los lineamientos que emita la Secretaría de la Contraloría General.
+público: 17.00
 
-La Secretaría de la Contraloría General cubrirá las remuneraciones del personal de los órganos de control y desarrollo administrativo con cargo al presupuesto de las entidades paraestatales respectivas, las cuales proveerán lo necesario para tal efecto.
+V Expedición de placas, calcomanía y
 
-Asimismo, las entidades paraestatales proveerán los recursos materiales, servicios generales e instalaciones físicas adecuadas necesarios para el funcionamiento de los órganos de control y desarrollo administrativo y proporcionarán la colaboración técnica y toda la información que se requiera para el cumplimiento de sus atribuciones.
+tarjeta de circulación, por alta o canje
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+total para motocicletas y otros vehículos
 
-### Capítulo Octavo. Por los Servicios que presta la Secretaría de Finanzas
+similares con remolque y/o cabina
+
+destinados al servicio público: 8.75
+
+VI Por el trámite de baja de placas
+
+vehiculares en cualquiera de sus
+
+modalidades: 1.80
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VII Expedición de tarjeta de circulación de
+
+vehículos destinados al servicio privado por:
+
+a) 1 año: 4.60
+
+b) 2 años: 9.00
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+VIII Reposición de tarjeta de circulación de
+
+vehículos en cualquiera de sus modalidades: 4.60
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 41.
+
+Los propietarios y/o tenedores de vehículos causarán y pagarán derechos en el ejercicio fiscal que no se realice canje total de placas por los conceptos y cuotas siguientes:
+
+Número de salarios
+
+mínimos
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+I Por el uso, goce o aprovechamiento de
+
+placas y calcomanía de vehículos destinados
+
+al servicio privado: 6.40
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+II Por el uso, goce o aprovechamiento de
+
+placas y calcomanía de motocicletas y otros
+
+vehículos similares con remolque y/o cabina
+
+destinados al servicio privado: 0.90
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+III Por el uso, goce o aprovechamiento de
+
+placas, calcomanía y tarjeta de circulación
+
+de vehículos destinados al servicio público: 11.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+IV Por el uso, goce o aprovechamiento de
+
+placas, calcomanía y tarjeta de circulación
+
+de motocicletas y otros vehículos similares
+
+con remolque y/o cabina destinados al
+
+servicio público: 3.80
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+V Por el uso, goce o aprovechamiento de placas
+
+de vehículos de demostración: 11.00
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
+
+###### Artículo 42.
+
+Las personas físicas causarán y pagarán derechos por la expedición de licencias de conducir, de conformidad con los siguientes tipos:
+
+Número de salarios
+
+mínimos
+
+I Tipo "A":
+
+a) 5 años 8.00
+
+b) 3 años 7.00
+
+c) 2 años 5.00
+
+II Tipo "B":
+
+a) 5 años 11.00
+
+b) 3 años 8.00
+
+c) 2 años 5.50
+
+III Tipo "C":
+
+a) 5 años 12.00
+
+b) 3 años 8.50
+
+c) 2 años 6.00
+
+IV Tipo "D":
+
+a) 5 años 14.00
+
+b) 3 años 10.50
+
+c) 2 años 8.00
+
+V Tipo "E", y
+
+a) 5 años 14.00
+
+b) 3 años 9.00
+
+c) 2 años 7.00
+
+VI Reposición de licencia por pérdida
+
+y extravío en cualquiera de sus tipos: 4.00
+
+Tratándose de personas adultas mayores, se les otorgará el descuento del 50% de la cuota a que se refiere el presente artículo, para lo cual deberán presentar documento oficial con fotografía.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 43.
+
+Las personas físicas que soliciten permisos o constancias causarán y pagarán derechos por los conceptos y cuotas siguientes:
+
+Número de salarios
+
+mínimos
+
+I Por expedición de permiso temporal de
+
+manejo para chofer, hasta por 30 días: 4.40
+
+II Por expedición de permiso temporal de
+
+manejo para automovilista, hasta por 30
+
+días: 2.20
+
+III Por expedición de permiso temporal de
+
+manejo para motociclista, hasta por 30 días: 1.10
+
+IV Por expedición de permiso provisional
+
+para circular sin placas ni tarjeta de
+
+circulación, máximo por 30 días; costo
+
+por día: 0.26
+
+V Por expedición de permiso de manejo
+
+hasta por 4 meses para que los mayores
+
+de 15 años y menores de 16 años puedan
+
+conducir automóviles y motocicletas del
+
+servicio particular: 5.50
+
+VI Por expedición de permiso para circular
+
+sin placas de vehículos destinados al
+
+transporte público, máximo por 30 días;
+
+costo por día: 0.88
+
+VII Por expedición de permiso especial
+
+a particulares que en forma eventual
+
+transporten productos de los señalados
+
+en los artículos 129 al 134 del Reglamento
+
+de la Ley de Tránsito reformada del Estado
+
+de Oaxaca:
+
+a) Hasta 1,000 Kilogramos: 1.21
+
+b) De 1,001 a 3,000 Kilogramos: 2.47
+
+c) De 3,001 Kilogramos en adelante: 4.95
+
+VIII Por la expedición de permiso temporal
+
+de sustitución de vehículos de servicio de
+
+transporte público:
+
+a) Por 30 días: 4.40
+
+b) Por 60 días: 6.60
+
+c) Por 90 días: 11.00
+
+IX Por la expedición de permiso único para
+
+circular sin placas o para manejar sin licencia,
+
+por día: 0.11
+
+X Por la expedición de permiso por
+
+aumento de unidad de camiones de
+
+carga, volteo y camionetas, por unidad: 26.40
+
+XI Por la expedición de permiso de ruta
+
+o ampliación de la misma, se pagará la
+
+cuota mínima de: 103.40
+
+XII Por la expedición de tarjetón de
+
+tarifas oficiales para el cobro del servicio
+
+de transporte público de pasajes: 2.20
+
+XIII Por la expedición de tarjetón para
+
+transporte de carga particular: 9.48
+
+XIV Por la expedición de constancias de
+
+antigüedad de chofer: 1.12
+
+XV Por la autorización para el
+
+establecimiento de sitios en la vía pública
+
+o en predios particulares (base de ascenso y
+
+descenso de pasajeros o área de maniobras
+
+de carga y descarga de mercancías): 2.20
+
+### Capítulo Cuarto. Por los Servicios que presta la Secretaría de Salud
+
+#### Sección Primera. Por los Servicios que presta la Casa de la Cultura Oaxaqueña
+
+###### Artículo 44.
+
+Causarán y pagarán derechos las personas físicas que soliciten servicios médico asistenciales en hospitales generales, básicos, centros de salud, unidades de especialidades del Estado, conforme al tabulador de servicios autorizado por la Secretaría de Finanzas en cada ejercicio fiscal.
+
+Los montos recaudados por estos servicios se destinarán hasta un 80 por ciento a la adquisición de materiales e insumos médicos necesarios, 10 por ciento a la Beneficencia Pública del Estado, 5 por ciento a programas asistenciales y el 5 por ciento restante a la Beneficencia Pública Federal.
+
+La Beneficencia Pública del Estado deberá informar dentro de los primeros diez días de cada mes a la Secretaría de Finanzas sobre los montos recaudados y el desglose de lo erogado por cada uno de los hospitales generales, básicos, centros de salud y unidades de especialidades. Así como de los beneficiarios de los programas asistenciales a su cargo.
+
+Los ingresos que se obtengan por los servicios de atención en salud, deberán ser administrados mediante un Fideicomiso de Administración y Pago.
+
+Tratándose de personas físicas que no cuenten con seguro popular, los servicios deberán ser pagados atendiendo al estudio socioeconómico que se realice.
+
+#### Sección Segunda. Por los Servicios que preste el Taller de Artes Plásticas Rufino Tamayo
+
+###### Artículo 45.
+
+Por los servicios de vigilancia y control sanitario, se causarán y pagarán los derechos conforme a las siguientes cuotas:
+
+Número de salarios
+
+mínimos
+
+I Curso de manejo higiénico de alimentos en las
+
+instalaciones de la DRFS, para la obtención de
+
+constancia (por persona): 0.75
+
+II Curso de manejo higiénico de alimentos a
+
+grupos de 25 a 30 personas en instalaciones
+
+de la empresa para la obtención de constancias: 36.00
+
+III Cursos de manejo higiénico de alimentos a
+
+grupos de 15 a 20 personas en instalaciones de la
+
+empresa para la obtención de constancias: 18.00
+
+IV Autorización de exhumación de restos áridos
+
+de ciudadanos mexicanos: 17.00
+
+V Autorización de exhumación de restos áridos
+
+de extranjeros y autorización de traslado a país
+
+de origen: 34.00
+
+VI Emisión inicial de etiquetas de código de barras
+
+para medicamentos anestésicos: 7.00
+
+VII Emisión subsecuente de etiquetas de código de
+
+barras para medicamentos anestésicos: 4.00
+
+VIII Constancia sanitaria para envió de
+
+medicamentos al extranjero: 5.00
+
+IX Permiso sanitario de traslado de cadáveres al
+
+interior del estado: 3.00
+
+X Permiso sanitario de traslado de cadáveres al
+
+interior del país: 4.00
+
+XI Permiso sanitario de traslado de cadáveres al
+
+extranjero: 5.00
+
+XII Emisión (inicial) de credencial de acreditación
+
+de perito constructor: 18.00
+
+XIII Renovación y/o reposición de credencial de
+
+acreditación de perito constructor: 9.00
+
+XIV Expedición de constancia para purificadoras
+
+de agua y fábricas de hielo (por persona): 7.00
+
+XV Certificado de manejo y dispensación de
+
+Medicamentos (por persona): 14.00
+
+XVI Certificado anual para transporte a granel de
+
+agua en remolque o vehículos cisterna:
+
+a) Con capacidad menor a 5000 litros: 18.00
+
+b) Con capacidad de 5000 a 10, 000 litros: 36.00
+
+c) Con capacidad de mayor a 10, 000 litros: 54.00
+
+XVII Certificado Sanitario único de instalaciones
+
+y servicios en guarderías y jardines de niños y
+
+escuelas de educación primaria: 18.00
+
+XVIII Certificado Sanitario inicial de instalaciones
+
+en escuelas e instituciones de educación media y superior:
+
+a) De 3 a 6 aulas: 26.00
+
+b) De 7 a 12 aulas: 34.00
+
+c) De 13 y mas aulas: 52.00
+
+XIX Refrendo de Certificado Sanitario de instalaciones
+
+en escuelas e instituciones de educación media y superior:
+
+a) De 3 a 6 aulas: 13.00
+
+b) De 7 a 12 aulas: 17.00
+
+c) De 13 y mas aulas: 26.00
+
+XX Sello de recetas controladas para prescripción
+
+de psicotrópicos (por c/100 recetas) 4.00
+
+### Capítulo Quinto. Por los Servicios que presta la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable
+
+###### Artículo 46.
+
+Causarán y pagarán derechos los contribuyentes que soliciten los siguientes servicios:
+
+Número de salarios
+
+mínimos
+
+I Obtención de registro de Director Responsable
+
+de Obra en el Estado: 10.00
+
+a) Revalidación anual del registro de Director
+
+Responsable de Obra en el Estado: 5.00
+
+b) Reposición de credencial de Director Responsable
+
+de Obra en el Estado: 5.00
+
+II Expedición de la licencia estatal de uso de suelo de:
+
+a) Habitación:
+
+Por cada 100 m2, hasta 10, 000 m2: 1.00
+
+Por cada 150 m2, después de 10, 000 m2: 1.00
+
+b) Otros usos:
+
+Por cada 100 m2, hasta 10, 000 m2: 2.00
+
+Por cada 150 m2, después de 10, 000 m2: 3.00
+
+III Certificación de planos:
+
+Por plano: 5.00
+
+IV Por el registro de personas físicas o morales en
+
+el Padrón de Contratistas de Obra Pública: 40.00
+
+V Por la renovación de registro, por ejercicio fiscal
+
+de personas físicas o morales en el Padrón de
+
+Contratistas de Obra Pública: 30.00
+
+#### Sección Tercera. Por los Servicios que preste el Centro de Iniciación Musical de Oaxaca
+
+###### Artículo 47.
+
+Causarán y pagarán derechos los contribuyentes que soliciten evaluación de obras o actividades en materia de impacto y riesgo ambiental, conforme a las siguientes cuotas:
+
+Número de salarios
+
+mínimos
+
+I Informe preventivo de impacto ambiental: 75.00
+
+II Manifestación de impacto ambiental: 125.00
+
+III Informe preliminar de riesgo: 75.00
+
+IV Análisis de riesgo ambiental: 125.00
+
+###### Artículo 48.
+
+Causarán y pagarán derechos los contribuyentes que soliciten autorización en materia de impacto y riesgo ambiental, conforme a las siguientes cuotas:
+
+Número de salarios
+
+mínimos
+
+I Por obra pública estatal:
+
+a) Informe preventivo: 75.00
+
+b) Manifestación de impacto ambiental: 125.00
+
+c) Informe preliminar de riesgo: 75.00
+
+d) Análisis de riesgo ambiental: 125.00
+
+II Por carreteras estatales y caminos rurales:
+
+a) Informe preventivo: 165.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 165.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+III Por instalación de sistemas para el tratamiento de aguas residuales:
+
+a) Informe preventivo: 165.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 165.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+IV Por ladrilleras:
+
+a) Informe preventivo: 33.00
+
+b) Manifestación de impacto ambiental: 55.00
+
+c) Informe preliminar de riesgo: 33.00
+
+d) Análisis de riesgo ambiental: 55.00
+
+V Por manufactura y maquiladoras:
+
+a) Informe preventivo: 165.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 165.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+VI Por industria alimenticia:
+
+a) Informe preventivo: 165.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 165.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+VII Por industria textil:
+
+a) Informe preventivo: 220.00
+
+b) Manifestación de impacto ambiental: 275.00
+
+c) Informe preliminar de riesgo: 220.00
+
+d) Análisis de riesgo ambiental: 275.00
+
+VIII Por industria del hule y sus derivados:
+
+a) Informe preventivo: 165.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 165.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+IX Por curtidurías:
+
+a) Informe preventivo: 55.00
+
+b) Manifestación de impacto ambiental: 110.00
+
+c) Informe preliminar de riesgo: 55.00
+
+d) Análisis de riesgo ambiental: 110.00
+
+X Por industria de bebidas:
+
+a) Informe preventivo: 165.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 165.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+XI Por parques y corredores industriales:
+
+a) Informe preventivo: 165.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 165.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+XII Por exploración, extracción y procesamiento físico de
+
+sustancias minerales que constituyen depósitos de
+
+naturaleza semejante a los componentes de los
+
+terrenos:
+
+a) Informe preventivo: 20.00
+
+b) Manifestación de impacto ambiental: 25.00
+
+c) Informe preliminar de riesgo: 20.00
+
+d) Análisis de riesgo ambiental: 25.00
+
+XIII Por obras o actividades en áreas naturales protegidas
+
+estatales:
+
+a) Informe preventivo: 110.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 110.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+XIV Por sistemas de manejo y disposición de residuos
+
+sólidos no peligrosos:
+
+a) Informe preventivo: 165.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 165.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+XV Por fraccionamientos y unidades habitacionales:
+
+a) Informe preventivo: 165.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 165.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+XVI Por desarrollos turísticos estatales y privados:
+
+a) Informe preventivo: 165.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 165.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+XVII Por centrales de autotransporte intenso y particular de carácter estatal:
+
+a) Informe preventivo: 165.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 165.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+XVIII Por industria automotriz:
+
+a) Informe preventivo: 165.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 165.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+XIX Por aquellas obras o actividades en las cuales el
+
+Estado justifique su participación de conformidad con la
+
+Ley del Equilibrio Ecológico del Estado de Oaxaca y las
+
+Normas Oficiales Ambientales vigentes:
+
+a) Informe preventivo: 165.00
+
+b) Manifestación de impacto ambiental: 220.00
+
+c) Informe preliminar de riesgo: 165.00
+
+d) Análisis de riesgo ambiental: 220.00
+
+XX Por la modificación parcial a obras y actividades
+
+señaladas en el artículo 17 de la Ley de Equilibrio
+
+Ecológico del Estado de Oaxaca:
+
+a) Informe preventivo: 55.00
+
+b) Manifestación de impacto ambiental: 137.50
+
+c) Informe preliminar de riesgo: 55.00
+
+d) Análisis de riesgo ambiental: 137.50
+
+XXI Por la revalidación de la autorización de
+
+impacto y riesgo ambiental:
+
+a) Informe preventivo: 60.00
+
+b) Manifestación de impacto ambiental: 100.00
+
+c) Informe preliminar de riesgo: 60.00
+
+d) Análisis de riesgo ambiental: 100.00
+
+###### Artículo 49.
+
+Las personas físicas y morales que deban pagar derechos por extracción continua derivada de la autorización de impacto y riesgo ambiental, se determinarán considerando el volumen extraído en metros cúbicos y calidad del material, el cual deberá ser multiplicado por las siguientes cuotas:
+
+Número de salarios
+
+mínimos
+
+I Basalto, granito y riolita: 0.028
+
+II Tezontle, calizas y pomacita: 0.043
+
+III Materiales aluviales:
+
+a) Grava 0.040
+
+b) Arena 0.040
+
+c) Arcilla 0.040
+
+IV Cantera: 0.055
+
+V Otros que constituyan depósitos de
+
+naturaleza semejante a los componentes
+
+de los terrenos: 0.035
+
+###### Artículo 50.
+
+Causarán y pagarán derechos los contribuyentes que soliciten autorización en materias de impacto y riesgo ambiental consideradas no altamente riesgosas, conforme a las siguientes cuotas:
+
+Número de salarios
+
+mínimos
+
+Gaseras (LP)
+
+I Por almacenamiento:
+
+a) Informe preventivo: 150.00
+
+b) Manifestación de impacto ambiental: 300.00
+
+c) Informe preliminar de riesgo: 150.00
+
+d) Análisis de riesgo ambiental: 300.00
+
+II Estación de Carburación
+
+a) Informe preventivo: 150.00
+
+b) Manifestación de impacto ambiental:
+
+Número de dispensarios 1 300.00
+
+2 330.00
+
+3 360.00
+
+4 390.00
+
+5 420.00
+
+6 450.00
+
+7 480.00
+
+8 510.00
+
+c) Informe preliminar de riesgo: 150.00
+
+d) Análisis de riesgo ambiental:
+
+Número de dispensarios 1 300.00
+
+2 330.00
+
+3 360.00
+
+4 390.00
+
+5 420.00
+
+6 450.00
+
+7 480.00
+
+8 510.00
+
+Estaciones de Servicio (Gasolina y Diesel)
+
+a) Informe preventivo: 225.00
+
+b) Manifestación de impacto ambiental:
+
+Número de dispensarios: 1 150.00
+
+2 190.00
+
+3 225.00
+
+4 265.00
+
+5 300.00
+
+6 337.00
+
+7 375.00
+
+8 412.00
+
+9 450.00
+
+10 487.00
+
+11 525.00
+
+12 563.00
+
+13 600.00
+
+14 638.00
+
+c) Informe preliminar de riesgo: 225.00
+
+d) Análisis de riesgo ambiental:
+
+Número de dispensarios: 1 150.00
+
+2 190.00
+
+3 225.00
+
+4 265.00
+
+5 300.00
+
+6 337.00
+
+7 375.00
+
+8 412.00
+
+9 450.00
+
+10 487.00
+
+11 525.00
+
+12 563.00
+
+13 600.00
+
+14 638.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 51.
+
+Causarán y pagarán derechos las personas físicas, morales o unidades económicas que se registren en el Padrón de Prestadores de Servicios Ambientales, conforme a las siguientes cuotas:
+
+Números de salarios
+
+mínimos
+
+I Por inscripción 40.00
+
+II Por renovación 30.00
+
+###### Artículo 52.
+
+Las personas físicas y morales que soliciten licencia de funcionamiento para fuentes generadoras de emisiones a la atmósfera, causarán y pagarán derechos conforme las siguientes cuotas:
+
+Número de salarios
+
+mínimos
+
+I Evaluación de funcionamiento: 75.00
+
+II Licencia de funcionamiento: 80.00
+
+III Cédula de operación anual: 60.00
+
+IV Actualización de la licencia de funcionamiento: 45.00
+
+De los ingresos que se generen por esta actividad la Secretaria de Finanzas y el Instituto Estatal de Ecología, se podrá financiar un programa de modernización y de mejora de los servicios que presta dicho instituto.
+
+###### Artículo 53.
+
+Las personas físicas y morales a las que se les otorgue concesión para proporcionar el servicio de verificación de vehículos, causarán y pagarán derechos conforme a las siguientes cuotas:
+
+Número de salarios
+
+mínimos
+
+I Expedición de concesión: 1, 100.00
+
+II Continuación de operaciones: 110.00
+
+III Autorización de cambio de domicilio del centro de
+
+verificación de vehículos: 550.00
+
+IV Autorización de cambio de propietario de centro de
+
+verificación de vehículos: 550.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 54.
+
+Los propietarios y/o tenedores de vehículos, causarán y pagarán derechos por la verificación de emisiones a la atmosfera del 1 de enero al 30 de junio, conforme a las siguientes cuotas:
+
+Números de salarios
+
+mínimos
+
+I Verificación y holograma para
+
+vehículos particulares: 9.50
+
+II Verificación y holograma para
+
+vehículos doble cero: 10.00
+
+III Verificación y holograma para
+
+vehículos de uso intensivo: 12.80
+
+IV Constancia de rechazo 1.70
+
+Los concesionarios del servicio de verificación de vehículos, causarán y pagarán derechos del 1 de julio al 31 de diciembre por los conceptos y cuotas siguientes:
+
+Números de salarios
+
+mínimos
+
+I Holograma para vehículos: 0.60
+
+II Constancia de rechazo: 0.14
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 55.
+
+Causarán y pagarán derechos las personas físicas, morales o unidades económicas a las que se evalúe y otorgue la autorización sobre los conceptos y cuotas siguientes:
+
+Números de salarios
+
+mínimos
+
+I Evaluación de planes para medianos
+
+y grandes generadores: 45.00
+
+II Autorización de planes para medianos
+
+y grandes generadores: 50.00
+
+III Regularización de planes de sitios y
+
+tiraderos a cielo abierto: 125.00
+
+#### Sección Primera. Del Control Zoosanitario
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 56.
+
+Los contratistas que celebren contratos de obra pública y servicios relacionados con la misma, con dependencias y entidades, pagarán sobre el importe total de la contratación sin incluir el importe al Impuesto al Valor Agregado, el uno punto cinco por ciento por los servicios de supervisión.
+
+Las oficinas pagadoras de las dependencias y entidades, al hacer el pago del anticipo retendrán el importe del derecho a que se refiere el párrafo anterior y depositarán de inmediato a la cuenta bancaria que para tal efecto apertura la Secretaría de Finanzas dando aviso de la misma.
+
+Cuando se trate de contrataciones en las que no se haya pactado la entrega de anticipo, las oficinas pagadoras de las dependencias y entidades, al hacer el pago de la primera estimación retendrán el importe del derecho a que se refiere el presente artículo y procederán en los mismos términos descritos en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Tratándose de la contratación de obras por parte de los Municipios donde una parte de la fuente de financiamiento provenga de la autorización realizada en el programa de inversión del Estado, se estará a lo previsto en este artículo. Los derechos recaudados se destinarán para la supervisión y evaluación de las obras autorizadas en el programa de referencia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Los ingresos que se obtengan por la recaudación de este derecho, se destinarán hasta en un 70 por ciento de los montos que les correspondan a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable; Caminos y Aeropistas de Oaxaca; Comisión Estatal del Agua; Comisión Estatal de Vivienda; Instituto Oaxaqueño Constructor de Infraestructura Física Educativa; Servicios de Agua Potable y Alcantarillado de Oaxaca, entre otras, para el fortalecimiento del servicio de supervisión de las obras públicas a que se refiere este articulo, el 30 por ciento será destinado y ejercido para la evaluación del desempeño a que se refiere la Ley de Coordinación Fiscal, Ley Estatal de Presupuesto y Responsabilidad Hacendaría y las demás disposiciones legales aplicables.
+
+Procederá la ministración de los montos recaudados en esta sección siempre que las dependencias y entidades presenten el informe de los derechos retenidos dentro de los primeros diez días naturales de cada mes para su conciliación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-#### Sección Tercera. Servicios Catastrales
+#### Sección Primera. De las Constancias
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2013)</small>
+
+###### Artículo 57.
+
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 58.
+
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
+
+### Capítulo Sexto. Por los Servicios que presta la Secretaría de Turismo y Desarrollo Económico
+
+###### Artículo 59.
+
+Las personas físicas y morales que adquieran boletos para el evento "Lunes del Cerro", causarán y pagarán derechos conforme a lo siguiente:
+
+Pesos
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+I Preventa
+
+Sección A $950.00
+
+Sección B $750.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+II Venta
+
+Sección A $1,050.00
+
+Sección B $700.00
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
+
+La Secretaría de Finanzas acordará el plazo y porcentaje de la preventa anualmente.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Artículo 59 A. Las personas físicas que tengan acceso a la Feria Internacional del Mezcal, causarán y pagarán la cuota de $40.00 pesos.
+
+### Capítulo Séptimo. Por los Servicios que presta la Secretaría de las Culturas y Artes de Oaxaca
+
+#### Sección Segunda. Servicios Catastrales
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-###### ARTICULO 60.
+###### Artículo 60.
 
-Las empresas de participación estatal mayoritaria, en los términos de este Capítulo y sin perjuicio de lo establecido en sus estatutos y en la legislación civil o mercantil aplicable, para su control, vigilancia y evaluación contarán con los instrumentos de control a que se refiere el artículo 57 de esta Ley.
+Las personas físicas que participen de los servicios que presta la Casa de la Cultura Oaxaqueña, causarán y pagarán derechos conforme a las siguientes cuotas bimestrales:
 
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+Número de salarios
 
-Los fideicomisos públicos a que se refiere el artículo 47 de esta Ley, se ajustarán en lo que les sea compatible a las disposiciones anteriores.
+mínimos
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+I Inscripciones a talleres:
+
+a) Clases de lunes a sábado:
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+La tarifa aplicable por cada 30 minutos
+
+de clase, será de: 0.56
+
+b) Clases: sábado y domingo:
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+La tarifa aplicable por cada 30 minutos
+
+de clase, será de: 0.85
+
+c) Clases: domingo:
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+La tarifa aplicable por cada 30 minutos
+
+de clase, será de: 1.13
+
+d) Clases: Especiales externos:
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+La tarifa aplicable por cada 30 minutos
+
+de clase, será de: 1.54
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+II Inscripción de nuevo ingreso: 1.20
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+III Reposición de credencial: 0.28
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+IV Expedición de constancias: 0.88
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+V Reproducción en copia simple,
+
+por cada hoja: 0.01
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+VI Reproducción en disco compacto: 0.31
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+VII Reproducción en DVD: 0.49
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
+VIII Presentación de Grupos Representativos:
+
+a) Danza: 17.64
+
+b) Música: 14.11
 
 #### Sección Primera. De los Servicios del Archivo del Poder Ejecutivo
 
-###### ARTICULO 61.
+###### Artículo 61.
 
-La Secretaría de la Contraloría General del Estado podrá realizar visitas y auditorías a las entidades de la administración pública paraestatal, a fin de supervisar el adecuado funcionamiento del sistema de control de éstas y, en su caso, promoverá lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido.
+Por los servicios que el Taller de Artes Plásticas, se causarán y pagarán los derechos de la siguiente forma:
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+Número de salarios
 
-Los titulares de las dependencias coordinadoras de sector, en los casos que lo consideren necesario, podrán recomendar la instrumentación de las medidas adicionales de control que estimen pertinentes en las entidades paraestatales.
+mínimos
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+I Pago de Inscripción de Cursos Permanentes: 15.40
+
+II Pago de Inscripción de Cursos Especiales: 10.59
 
 #### Sección Primera. De las Constancias
 
-###### ARTICULO 62.
+###### Artículo 62.
 
-En aquellas empresas en las que participe la administración pública estatal con la suscripción del 25% al 50% del capital, se vigilarán las inversiones del Estado a través del comisario que designe la Secretaría de la Contraloría General del Estado. El ejercicio de los derechos respectivos se realizará conforme lo señalen los ordenamientos jurídicos correspondientes.
+Se causarán derechos por los servicios que preste el Centro de Iniciación Musical de Oaxaca, conforme a las siguientes cuotas:
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 6 DE JULIO DE 2006)</small>
+Número de salarios
 
-### Capítulo Noveno. Por los Servicios que presta la Secretaría de Administración
+mínimos
+
+I Pago de Inscripción a curso propedéutico: 2.89
+
+II Pago de Inscripción a cursos semestrales: 11.55
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Octavo. Por los Servicios que presta la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 #### Sección Segunda. Inspección y Vigilancia
 
-###### ARTICULO 63.
+###### Artículo 63.
 
-(DEROGADO, B.O. 6 DE JULIO DE 2006)
+Las personas físicas, morales o unidades económicas que soliciten la prestación de servicios públicos a cargo de la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura, causarán y pagarán derechos conforme a los conceptos y cuotas siguientes:
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, B.O. 6 DE JULIO DE 2006)</small>
+Pesos
 
-###### ARTICULO 64.
+I Por la expedición de guías de tránsito de ganado por cabeza:
 
-(DEROGADO, B.O. 6 DE JULIO DE 2006)
+a) Bovino: 2.50
+
+b) Equino: 2.50
+
+c) Caprino: 1.50
+
+d) Ovino: 1.50
+
+e) Porcino: 1.50
+
+f) Lechón: 0.50
+
+II Por la expedición de guías de tránsito de aves por cabeza: 0.05
+
+III Por la expedición de guías de tránsito por caja de pollo: 1.00
+
+IV Por la expedición de guías de tránsito por colmena: 1.00
+
+V Por la expedición de guías de tránsito de los productos:
+
+a) Por litro o kilogramo de lácteos: 0.02
+
+b) Por kilogramo de carne en canal, procesada o embutida,
+
+vísceras o grasa: 0.02
+
+c) Por caja de huevo de 360 piezas: 0.50
+
+d) Por kilogramo de miel: 0.05
+
+e) Por kilogramo de lana: 0.05
+
+VI Por la expedición de guías de tránsito de pieles por vehículo:
+
+a) De ¾ a 3 toneladas: 20.00
+
+b) Más de 3 a 5 toneladas: 30.00
+
+c) Más de 5 toneladas: 50.00
+
+VII Por la expedición de guías de tránsito de pollinaza:
+
+a) De ¾ a 3 toneladas: 40.00
+
+b) Más de 3 a 5 toneladas: 70.00
+
+c) Más de 5 toneladas: 100.00
+
+VIII Por el registro de patente de fierro ganadero, señal de
+
+sangre y/o tatuaje:
+
+a) Registro nuevo: 15.00
+
+b) Refrendo: 10.00
+
+c) Cambio de propietario: 10.00
+
+IX Por la expedición de credencial como ganadero o productor 5.00
+
+pecuario:
+
+Los ingresos que se recauden por la prestación de servicios públicos contenidos en el presente artículo, se destinarán al pago de gastos operativos relacionados con la prestación de los servicios. Los servidores públicos de la Dependencia y la Secretaría de Finanzas del Poder Ejecutivo del Estado, deberán establecer mecanismos que permitan la ministración de manera ágil y directa sin más limitaciones ni restricciones, incluyendo aquéllas de carácter administrativo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 64.
+
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ## TRANSITORIOS
 
@@ -2613,7 +5227,11 @@ A partir de la entrada en vigor del presente Decreto, el Instituto Superior de S
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2012)
 
-### Capítulo Décimo. Por los Servicios que presta la Secretaría de la Contraloría y Transparencia Gubernamental
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Octavo Bis. Por los Servicios que presta la Secretaría de Finanzas
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA ANTES SECCIÓN SEGUNDA DEL CAPÍTULO OCTAVO DEL TÍTULO TERCERO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 #### Sección Primera. Por los servicios que presta la Comisión Estatal del Agua
 
@@ -2769,6 +5387,8 @@ a que alude la Ley de Deuda Pública: 5.00
 
 Para efectos de la fracción XI, cuando se trate de objetos cuyas dimensiones sean por fracción de la medida establecida, se cobrará en proporción al espacio que ocupe.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA ANTES SECCIÓN TERCERA DEL CAPÍTULO OCTAVO DEL TÍTULO TERCERO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 #### Sección Segunda. Por los Servicios de Agua Potable y Alcantarillado de Oaxaca
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
@@ -2811,13 +5431,9 @@ en el Sistema Integral de Catastro, derivado de
 
 la división o fusión de bienes inmuebles: 2.50
 
-V Trámites urgentes de solicitudes catastrales
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-que cumplan con todos los requisitos legales y
-
-técnicos, para entregar al siguiente día hábil de
-
-haber efectuado el pago de los derechos: 8.00
+V Reimpresión de la cédula catastral: 3.00
 
 VI Por cancelación de registro de
 
@@ -2843,7 +5459,15 @@ XI Por la práctica de avalúo comercial. 30.00
 
 XII Por la práctica de avalúo catastral: 20.00
 
-XIII Reimpresión de la cédula catastral: 3.00
+XIII (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Los trámites a que se refieren los artículos 68 al 73, que se soliciten con carácter de urgente, adicionalmente causarán y pagarán la cuota de 8.00 salarios mínimos, siempre que la solicitud de la prestación de servicios públicos cumpla con los requisitos técnicos y legales previstos en la Ley y Reglamento de la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+Los servicios públicos de carácter urgente se entregarán al día hábil siguiente de haber efectuado el pago de derechos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2909,6 +5533,14 @@ d) Del año 2005 en la escala 1:10,000
 
 90 x 60 cm. 3.00
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+e) Del año 2012 en la escala 1:10,000
+
+21.5 x 28 cm. 2.00
+
+90 x 60 cm. 6.00
+
 II Expedición de Información cartográfica
 
 planimetría en medios digitales:
@@ -2932,6 +5564,10 @@ d) Por expedición de planos temáticos
 e) Del año 2012 en la escala 1:1,000 por
 
 0.25 km2 10.00
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+f) Del año 2012 en la escala 1:10,000 por 0.25 Km2 4.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3021,6 +5657,30 @@ c) Ortofotos en archivo digital escala 1:1,000
 
 del año 2012 por 0.25 km2 7.00
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+III Del año 2012
+
+a) Edición de impresión de ortofotos escala 1:1,000:
+
+21.5 x 28 cm. 5.00
+
+90 x 60 cm. 15.00
+
+b) Edición de impresión de ortofotos escala 1:10,000:
+
+21.5 x 28 cm. 3.00
+
+90 x 60 cm. 10.00
+
+c) Ortofotos en archivo digital escala 1:1,000 del año 7.00
+
+2012 por 0.25 km2
+
+d) Ortofotos en archivo digital escala 1:10,000 del año 5.00
+
+2012 por 0.25 km2:
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 73.
@@ -3097,15 +5757,73 @@ I De nuevo ingreso: 64.00
 
 II Renovación: 43.00
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 76.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+Los Municipios que soliciten la prestación de servicios públicos catastrales en forma masiva, causarán y pagarán derechos conforme a los siguientes conceptos y cuotas:
+
+Número de salarios
+
+mínimos
+
+I Estudio de gabinete y de campo necesarios
+
+para llevar a cabo la zonificación o rezonificación
+
+catastral por kilómetro cuadrado: 84.00
+
+II Elaboración de Tabla de Valores Unitarios de
+
+suelo urbano, susceptible de transformación,
+
+rústico y construcción: 155.00
+
+III Obtención de base catastral generadas por
+
+trámite de integración al padrón catastral y por
+
+revaluaciones previo censo catastral por cada
+
+bien inmueble: 8.00
+
+IV Censo catastral en áreas contiguas:
+
+a) Cuando se cuente con información cartográfica
+
+planimétrica, ortofoto digital escala 1:1 ,000 por cada
+
+bien inmueble: 4.00
+
+b) Cuando no se cuente con información cartográfica
+
+digital se realizará el levantamiento topográfico del
+
+predio y sus construcciones para la generación de la
+
+misma por predio igual o menor a 500 m2: 10.00
+
+c) Cuando no se cuente con información
+
+cartográfica planimétrica se realizará el levantamiento
+
+topográfico del predio y sus construcciones para la
+
+obtención de cartografía digital de la zona contigua
+
+solicitada, por predio:
+
+1. Mayor a 500 m2 y menor a 1000 m2: 15.00
+
+2. Mayor a 1001 m2 y menor a 5000 m2: 20.00
+
+3. Mayor a 5001 m2 y menor a 10000 m2: 25.00
 
 ###### Artículo 77.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-### Capítulo Primero. Por los Servicios que presta "Novauniversitas"
+### Capítulo Noveno. Por los Servicios que presta la Secretaría de Administración
 
 ###### Artículo 78.
 
@@ -3209,6 +5927,10 @@ X Por la expedición de constancias
 
 de no adeudo patrimonial: 1.00
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+XI Por los servicios que prestan sus organismos sectorizados
+
 ###### Artículo 79.
 
 Las personas físicas y morales que soliciten servicios a cargo del Archivo del Poder Ejecutivo, causarán y pagarán cuotas de conformidad con lo siguiente:
@@ -3271,7 +5993,7 @@ XVI Reproducción de documento
 
 digitalizado por hoja: 0.28
 
-### Capítulo Segundo. Por los Servicios que presta la Universidad Tecnológica de los Valles Centrales de Oaxaca
+### Capítulo Décimo. Por los Servicios que presta la Secretaría de la Contraloría y Transparencia Gubernamental
 
 ###### Artículo 80.
 
@@ -3305,11 +6027,9 @@ La omisión total o parcial en lo antes señalado, afectará el presupuesto de l
 
 Los servidores públicos a cargo de la prestación de servicios deberán realizar la conciliación con la Secretaría de Finanzas dentro de los primeros 10 días naturales de concluido el mes de calendario sobre los servicios prestados y lo efectivamente recaudado.
 
-## TITULO CUARTO. DE LOS TRIBUNALES ADMINISTRATIVOS
+## Título Cuarto. Por los Servicios que se prestan en Materia Educativa
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, B.O. 6 DE JULIO DE 2006)</small>
-
-### Capítulo Tercero. Por los Servicios que presta la Universidad del Istmo
+### Capítulo Primero. Por los Servicios que presta "Novauniversitas"
 
 ###### Artículo 83.
 
@@ -3393,7 +6113,7 @@ A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracci
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-### Capítulo Cuarto. Por los Servicios que presta la Universidad del Mar
+### Capítulo Segundo. Por los Servicios que presta la Universidad Tecnológica de los Valles Centrales de Oaxaca
 
 ###### Artículo 84.
 
@@ -3463,7 +6183,7 @@ De 9.6 a 10 75%
 
 Tratándose de estudiantes que provengan de zonas marginadas, se aplicarán porcentajes de becas determinadas por el Consejo Directivo que van del 25%, 50% 75% de descuento en inscripción y reinscripción.
 
-### Capítulo Quinto. Por los Servicios que presta la Universidad del Papaloapan
+### Capítulo Tercero. Por los Servicios que presta la Universidad del Istmo
 
 ###### Artículo 85.
 
@@ -3543,7 +6263,7 @@ j) Expedición de grado: 23.08
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Sexto. Por los Servicios que presta la Universidad de la Cañada
+### Capítulo Cuarto. Por los Servicios que presta la Universidad del Mar
 
 ###### Artículo 86.
 
@@ -3647,7 +6367,7 @@ l) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Séptimo. Por los Servicios que presta la Universidad de la Sierra Juárez
+### Capítulo Quinto. Por los Servicios que presta la Universidad del Papaloapan
 
 ###### Artículo 87.
 
@@ -3729,7 +6449,7 @@ j) Expedición de grado: 23.08
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Octavo. Por los Servicios que presta la Universidad de la Sierra Sur
+### Capítulo Sexto. Por los Servicios que presta la Universidad de la Cañada
 
 ###### Artículo 88.
 
@@ -3811,7 +6531,7 @@ j) Expedición de grado: 23.08
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Noveno. Por los Servicios que presta la Universidad Tecnológica de la Mixteca
+### Capítulo Séptimo. Por los Servicios que presta la Universidad de la Sierra Juárez
 
 ###### Artículo 89.
 
@@ -3893,7 +6613,7 @@ j) Expedición de grado: 23.08
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II ; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
-### Capítulo Décimo. Por los Servicios que presta el Instituto Estatal de Educación Pública de Oaxaca
+### Capítulo Octavo. Por los Servicios que presta la Universidad de la Sierra Sur
 
 ###### Artículo 90.
 
@@ -4002,6 +6722,10 @@ j) Examen de grado: 17.28
 k) Expedición de grado: 51.56
 
 A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II ; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Noveno. Por los Servicios que presta la Universidad de Chalcatongo
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -4127,6 +6851,10 @@ o certificado de !inglés Americano "TOEFL": 7.77
 
 Se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de La Unidad que van de 25%, 50% 75% y 100% de descuento en los conceptos de cursos propedéuticos, reinscripción, colegiatura mensual y curso de verano comprendidos en las fracciones I a IV del presente artículo.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Décimo. Por los Servicios que presta la Universidad de la Costa
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Artículo 90 B. Por los servicios educativos que preste la Universidad de la Costa, se causarán y pagarán los siguientes derechos:
@@ -4185,11 +6913,9 @@ o certificado de Inglés Americano "TOEFL": 7.77
 
 Se aplicarán porcentajes de becas determinadas por el H. Consejo Académico que van de 25%, 50% 75% y 100% de descuento en las conceptos de cursos propedéuticos, reinscripción, colegiatura mensual y curso de verano comprendidos en la fracción I del presente artículo.
 
-### Capítulo Décimo Primero. Por los Servicios que presta el Instituto de Estudios de Bachillerato del Estado de Oaxaca
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-### Capítulo Décimo Segundo. Por los Servicios que presta el Instituto Tecnológico de Teposcolula
-
-### Capítulo Décimo Tercero. Por los Servicios que presta el Colegio de Bachilleres del Estado de Oaxaca
+### Capítulo Décimo Primero. Por los Servicios que presta la Universidad Tecnológica de la Mixteca
 
 ###### Artículo 91.
 
@@ -4323,6 +7049,10 @@ Americano "TOEFL": 7.77
 
 A excepción de los incisos a), i) de la fracción I; inciso f) de la fracción II; inciso e) de la fracción III; inciso e) de la fracción IV; inciso a) de la fracción V; se aplicará porcentajes de becas determinadas por el H. Congreso Académico de la Universidad Tecnológica de la Mixteca que van desde el 25%, 50%, 75%, y 100% de descuento.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Décimo Segundo. Por los Servicios que presta la Universidad Tecnológica de la Sierra Sur
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Artículo 91 A. Los contribuyentes que reciban servicios en materia educativa a cargo de la Universidad Tecnológica de la Sierra Sur de Oaxaca, causarán y pagarán las cuotas conforme a los siguientes conceptos:
@@ -4351,7 +7081,9 @@ V Expedición de certificado parcial o total: 7.83
 
 Se aplicarán porcentajes de becas determinadas por el H. Consejo Académico que van de 25%, 50% 75% y 100% de descuento en los conceptos de inscripción y reinscripción del presente artículo.
 
-### Capítulo Décimo Cuarto. Por los Servicios que presta el Colegio de Estudios Científicos y Tecnológicos del Estado de Oaxaca
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Décimo Tercero. Por los Servicios que presta el Instituto Estatal de Educación Pública de Oaxaca
 
 ###### Artículo 92.
 
@@ -5045,6 +7777,12 @@ en relación con el título profesional
 
 o grado académico: 13.75
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Décimo Cuarto. Por los Servicios que presta el Instituto de Estudios de Bachillerato del Estado de Oaxaca
+
+### Capítulo Décimo Quinto. Por los Servicios que presta el Instituto Tecnológico de Teposcolula
+
 ###### Artículo 93.
 
 Los contribuyentes que reciban servicios en materia educativa a cargo del Instituto de Estudios de Bachillerato del Estado de Oaxaca, se causarán y pagarán los derechos de la siguiente forma:
@@ -5088,6 +7826,10 @@ Pesos
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 XI Diario de aprendizaje: $37.00
+
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Décimo Sexto. Por los Servicios que presta el Colegio de Bachilleres del Estado de Oaxaca
 
 ###### Artículo 94.
 
@@ -5138,6 +7880,10 @@ XVIII Exámen global: 7.05
 XIX Exámen especial foráneo: 35.27
 
 XX Exámen de inglés: 17.64
+
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+
+### Capítulo Décimo Séptimo. Por los Servicios que presta el Colegio de Estudios Científicos y Tecnológicos del Estado de Oaxaca
 
 ###### Artículo 95.
 
@@ -5248,6 +7994,8 @@ El Colegio de Bachilleres del Estado de Oaxaca podrá realizar convenios de cola
 Tratándose de estudiantes que acrediten una situación de vulnerabilidad económica, se les otorgará un 50% de descuento en cuotas de inscripción y reinscripción de acuerdo con los lineamientos que para tal efecto emita el Colegio de Bachilleres del Estado de Oaxaca.
 
 Los beneficios antes señalados no podrán ser acumulables.
+
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 96.
 
@@ -5868,3 +8616,9 @@ PRIMERO: El presente Decreto entrará en vigor el uno de enero de dos mil catorc
 P.O. 10 DE MAYO DE 2014.
 
 Único: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 27 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día uno de enero del año dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se presente la adecuación del salario mínimo desvinculado como unidad de medida para el pago de Derechos y Catastro una vez que el Congreso de la Unión lo apruebe.
