@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-administrativo-del-estado-de-15237"
 country: "mx"
 rank: "ley"
 publication_date: "1999-02-14"
-last_updated: "2013-11-11"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 14 de febrero de 1999.
 
@@ -777,7 +777,7 @@ El recurrente deberá acompañar a su escrito:
 
 I.- El documento que acredite su personalidad cuando actúe a nombre de otro o de personas morales o aquél en el que conste que dicha personalidad le hubiere sido reconocida por la autoridad que emitió el acto o resolución que se impugne.
 
-II.- En su caso, copia de la resolución o acto que se impugna y de la notificación correspondiente. Tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, o del documento sobre el cual no hubiere recaído resolución alguna; y (sic)
+II.- En su caso, copia de la resolución o acto que se impugna y de la notificación correspondiente. Tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, o del documento sobre el cual no hubiere recaído resolución alguna; y
 
 III.- Las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución o acto impugnado debiendo acompañar las documentales con que cuente.
 
@@ -805,7 +805,9 @@ III.- No se siga perjuicio al interés social o se contravengan disposiciones de
 
 IV.- No se ocasionen daños o perjuicios a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable; y
 
-V.- Tratándose de multas, el recurrente garantice el crédito fiscal en cualquiera de las formas previstas en el Código Fiscal del Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V.- Tratándose de algún crédito fiscal, el recurrente lo garantice en cualquiera de las formas previstas en el Código Fiscal del Estado.
 
 La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días siguientes a su interposición, en cuyo defecto se entenderá otorgada la suspensión.
 
@@ -1006,3 +1008,23 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+EI presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir del 1 de enero de 2016, quedan derogados el Apartado A "Del Impuesto Sobre Tenencia o Uso de Vehículo (sic) Automotores"; la Sección Primera. "De los Sujetos"; la Sección Segunda "Del Objeto"; la Sección Tercera "De la Base"; la Sección Cuarta "Del Pago"; la Sección Quinta "De la Responsabilidad Solidaria"; la Sección Sexta "De las Excepciones"; el Apartado B "Del Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 Años Modelo Anterior"; la Sección Primera "De los Sujetos"; la Sección Segunda "Del Objeto"; la Sección Tercera "De la Base"; la Sección Cuarta "Del Pago"; la Sección Quinta "De la Responsabilidad Solidaria"; la Sección Sexta "De las Exenciones"; así como los artículos 30, 31, 32, 33, 34, 35, 36 A, 36 B, 36 C, 36 D, 36 E, y 36 F de la Ley de Hacienda del Estado de Aguascalientes.
+
+Las obligaciones derivadas de los artículos 30, 31, 32, 33, 34, 35, 36 A, 36 B, 36 C, 36 D, 36 E y 36 F de la Ley de Hacienda del Estado de Aguascalientes, que se derogan en el presente Artículo, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos artículos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, la referencia a la Fiscalía General del Estado contenida en el Artículo 148, párrafo segundo del Código Fiscal del Estado de Aguascalientes, se entenderá hecha a la Procuraduría General de Justicia del Estado.
+
+###### ARTÍCULO CUARTO.
+
+En tanto no se realicen las reformas respectivas a la Ley Orgánica del Poder Judicial del Estado, las referencias a la Sala Administrativa contenidas en el Código Fiscal del Estado de Aguascalientes, se entenderán hechas a la Sala Administrativa y Electoral.
