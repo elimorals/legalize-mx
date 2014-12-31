@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-hacendaria-para-el-estado-de-zacatecas-4334
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-01"
-last_updated: "2014-12-13"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE COORDINACIÓN HACENDARIA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 1 de enero de 2005.
 
@@ -433,6 +433,12 @@ VIII. El 23% del Fondo de Compensación del Impuesto sobre Automóviles Nuevos.
 
 Los importes a que se refieren las fracciones IV y V, estarán sujetos a la condición de que la Federación participe al Estado en 100% de estos conceptos.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 39 Bis.
+
+El impuesto sobre la renta que la Federación efectivamenteentere (sic) al Estado por concepto de salarios y en general, por la prestación de un servicio personal subordinado causado por los servidores públicos de los municipios, así como de sus organismos autónomos y entidades paramunicipales, será entregado a éstos atendiendo al monto que la propia Federación determine.
+
 ###### Artículo 40.
 
 La distribución del Fondo Único de Participaciones a los Municipios, se hará conforme a las siguientes bases:
@@ -470,6 +476,10 @@ Para la distribución específica de los subfondos contenidos en los incisos a) 
 ###### Artículo 41.
 
 Las participaciones que correspondan a los Municipios del fondo único de participaciones que establece la presente Ley, se calcularán para cada ejercicio fiscal por la Secretaría y los montos proyectados para cada Municipio del Estado se publicarán en el Periódico Oficial durante el primer mes del ejercicio de aplicación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+El Secretario de Finanzas expedirá de manera trimestral, el Acuerdo mediante el cual se dé a conocer los montos transferidos a los municipios de la entidad del Fondo Único de Participaciones, mismo que deberá ser publicado en el Periódico Oficial, Órgano del Gobierno del Estado, a más tardar el día 15 del mes siguiente a aquel en que se termine el trimestre que corresponda informar.
 
 ###### Artículo 42.
 
@@ -840,3 +850,9 @@ Para el ejercicio fiscal 2017 un 85%
 Para el ejercicio fiscal 2018 un 100%
 
 TERCERO.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil quince, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
