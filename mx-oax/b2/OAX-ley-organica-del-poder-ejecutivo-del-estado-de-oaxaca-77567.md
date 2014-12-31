@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2014-12-27"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE DICIEMBRE DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 881 PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2014.</small>
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -2179,7 +2179,7 @@ Los módulos de maquinaria que por estructura pertenecen a la Coordinación Gene
 
 La Coordinación General de Comunicación Social del Poder Ejecutivo del Gobierno del Estado, adscrita a la Gubernatura y los recursos materiales, financieros y humanos con que venía operando, se transfieren al área de Comunicación Social de la Jefatura de la Gubernatura, facultándose a las Secretarías de la Contraloría y Transparencia Gubernamental, Administración y Finanzas, para que lleven a cabo los actos necesarios para la extinción y la transferencia, ordenados en este transitorio, de igual manera los actos jurídicos y administrativos realizados por la Coordinación General de Comunicación Social del Poder Ejecutivo del Gobierno del Estado, se entenderán que se refieren a la Jefatura de la Gubernatura.
 
-Los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, las Direcciones General de Notarías y del Archivo General de Notarías, se transfieren a la Consejería Jurídica del Gobierno del Estado, por esta razón los actos jurídicos y administrativos suscritos por estas unidades administrativas adscritas a la Secretaría General de Gobierno, en lo subsecuente se entenderán que se refieren a los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, dentro de la estructura de la Consejería Jurídica del Gobierno del Estado.
+Los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, se transfieren a la Consejería Jurídica del Gobierno del Estado, por esta razón los actos jurídicos y administrativos suscritos por estas unidades administrativas adscritas a la Secretaría General de Gobierno, en lo subsecuente se entenderán que se refieren a los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, dentro de la estructura de la Consejería Jurídica del Gobierno del Estado.
 
 Por lo que todos los recursos materiales, financieros y humanos con que venían operando dentro de la estructura de la Secretaría General de Gobierno se deberán transferir a la Consejería Jurídica del Gobierno del Estado; por lo que se faculta a las Secretarías de Administración, Finanzas, y de la Contraloría y Transparencia Gubernamental, para que realicen todos los trámites necesarios para cumplir con el presente transitorio.
 
@@ -2203,7 +2203,7 @@ QUINTO. En todos los casos que por la aplicación de esta Ley se modifique la es
 
 SEXTO. Cuando una Unidad Administrativa se transfiera de una Dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental.
 
-SÉPTIMO. Se faculta al Titular de la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación de este Decreto. De igual manera, se faculta para que dichas Secretarías realicen los cambios que se susciten de las estructuras de los órganos que por esta Ley se creen o extingan.
+SÉPTIMO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación de éste Decreto. De igual manera, se faculta para que dichas Secretarías realicen los cambios que se susciten de las estructuras de los órganos que por esta Ley se creen o extingan.
 
 OCTAVO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por esta Ley cambian de denominación y sector o se extinguen y transfieren sus recursos humanos, materiales y financieros a otras áreas o unidades, se entenderán subrogadas y contraídas por sus correlativas.
 
