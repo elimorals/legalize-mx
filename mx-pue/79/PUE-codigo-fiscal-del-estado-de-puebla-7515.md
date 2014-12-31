@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2013-12-30"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO FISCAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -211,7 +211,9 @@ a) El Director de Ingresos;
 
 b) El Director de Fiscalización:
 
-c) El Director de Verificación de Comercio Exterior;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+c) El Director de Comercio Exterior;
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -221,9 +223,9 @@ d) El Director de Apoyo Técnico y Legal;
 
 e) El Director de Recaudación;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-f) El Subdirector de Recaudación;
+f) El Subdirector de Cobro Persuasivo y Coactivo;
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -265,13 +267,17 @@ n) El Subdirector Técnico de Comercio Exterior;
 
 o) El Subdirector de Investigación, Inteligencia Aduanera y Programación;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-p) El Jefe del Departamento Técnico de Ejecución; y
+p) El Jefe del Departamento Técnico de Ejecución;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-q) Los Jefes de las Oficinas Recaudadoras y de Asistencia al Contribuyente.
+q) Los Jefes de las Oficinas Recaudadoras y de Asistencia al Contribuyente; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+r) Los Administradores de Recaudación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -289,13 +295,21 @@ V.- El Coordinador General Jurídico de la Secretaría de Finanzas y Administrac
 
 VI.- El Director General del Instituto Registral y Catastral del Estado, así como los siguientes servidores públicos de su adscripción:
 
-a) El Director General Adjunto de Catastro;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) El Director General Adjunto de Registro Público de la Propiedad;
+a) El Director de Catastro;
 
-c) El Director de Gestión Catastral;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-d) El Director de Supervisión Registral; y
+b) El Director de Registro Público de la Propiedad;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+c) El Subdirector de Gestión Catastral;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+d) El Subdirector de Control y Mejora de la Función Registral; y
 
 e) Los Delegados Catastrales.
 
@@ -355,9 +369,9 @@ También se prorrogará el plazo hasta el siguiente día hábil, cuando sea vier
 
 Las autoridades fiscales podrán habilitar los días y horas inhábiles; ésta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos. También podrán ampliar el horario de atención al público en las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago, los días en que se venzan los plazos para la presentación de declaraciones; hecho que se dará a conocer mediante publicación que realice la Secretaría de Finanzas y Administración.
 
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995) (F. DE E., P.O. 18 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-La Autoridades Fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días y horas inhábiles. También se podrá continuar en días y horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular o elaborar el acta de inicio de la visita domiciliaria.
+Las Autoridades Fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días y horas inhábiles. También se podrá continuar en días y horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular o elaborar el acta de inicio, la última acta parcial y el acta final de la visita domiciliaria.
 
 (ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993) (F. DE E., P.O. 18 DE MARZO DE 2011)
 
@@ -379,7 +393,9 @@ Para determinar la preferencia de los créditos fiscales se estará a lo siguien
 
 I.- Los créditos a favor del Gobierno del Estado provenientes de impuestos, derechos, productos y aprovechamientos, serán preferentes a cualesquiera otros con excepción de los créditos de alimentos, de salario y sueldos devengados durante el último año, o de indemnizaciones a los obreros conforme lo que dispone la Ley Federal del Trabajo, además de los créditos con garantía hipotecarla o prendaria.
 
-II.- Para que sea aplicable la excepción a que se refiere la fracción anterior, será requisito indispensable que antes de que se notifique al deudor el crédito fiscal, se haya presentado la demanda ante la Autoridad competente, y ésta, hubiere dictado el auto que la admita. En el caso de las garantías hipotecarias y prendarias, el requisito será que éstas se encuentren inscritas en el Registro Público de la Propiedad y del Comercio, antes de la notificación del crédito Fiscal.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II.- Para que sea aplicable la excepción a que se refiere la fracción anterior, será requisito indispensable que antes de que se notifique al deudor el crédito fiscal, se haya presentado la demanda ante la Autoridad competente, y ésta, hubiere dictado el auto que la admita. En el caso de las garantías hipotecarias y prendarias, el requisito será que éstas se encuentren inscritas en el Registro Público de la Propiedad, antes de la notificación del Crédito Fiscal.
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -617,11 +633,9 @@ Para estos efectos, la Secretaría de Finanzas y Administración como autoridad 
 
 Si los contribuyentes no tuvieran la dirección de correo electrónico a que se refiere esta fracción, la Oficina Recaudadora y de Asistencia al Contribuyente los auxiliará para la creación de la misma, cuando éstos así lo requieran.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-II.- Presentar los avisos respectivos de cambio de nombre, denominación o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación al Registro Estatal de Contribuyentes; declaraciones normales, complementarias, provisionales e informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
+Il.- Presentar los avisos respectivos de cambio de nombre, denominación o razón social, de domicilio fiscal, de actividad preponderante, de representante legal; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación al Registro Estatal de Contribuyentes; declaraciones normales, complementarias, provisionales e informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -631,7 +645,9 @@ Los contribuyentes que en términos de las disposiciones fiscales federales haya
 
 Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, las seguirán presentando, tengan o no cantidad a pagar.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En el supuesto de que el contribuyente cambie su domicilio a otra Entidad Federativa y esté sujeto al ejercicio de las facultades de comprobación de la autoridad fiscal del Estado de Puebla, deberá informar a ésta, mediante escrito libre con 30 días de anticipación a dicho cambio de domicilio. Si el cambio de domicilio se efectúa antes de que se le notifique la resolución a que se refiere el artículo 46-E de este Código, el contribuyente deberá presentar el aviso de suspensión de actividades señalando un domicilio en el Estado de Puebla para oír y recibir notificaciones.
 
 > <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -681,11 +697,17 @@ b) Comprobante domiciliario.
 
 c) Identificación Oficial.
 
-d) En su caso, acreditar la personalidad en términos de lo dispuesto por el artículo 25 de este Código.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+d) Clave Única del Registro de Población, tratándose de personas físicas.
 
-e) En los casos que proceda legalmente, el Registro Federal de Contribuyentes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+e) En su caso, acreditar la personalidad en términos de lo dispuesto por el artículo 25 de este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+f) En los casos que proceda legalmente, el Registro Federal de Contribuyentes.
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -809,7 +831,9 @@ III.- Estar firmada por el promovente o su representante legal, en caso de que �
 
 IV.- Señalar la Autoridad a la que se dirige y el propósito de la promoción.
 
-V.- Señalar domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V.- Señalar domicilio ubicado en la circunscripción territorial del Estado de Puebla para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
 
 > <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 1994)</small>
 
@@ -839,11 +863,11 @@ Dicho plazo empezará a contar a partir de la fecha en que el contribuyente haya
 
 Transcurrido el término a que se refiere el artículo anterior sin que las Autoridades Fiscales notifiquen la resolución o respuesta al interesado, podrá considerarse que la autoridad resolvió negativamente.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 29.
 
-La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverá copia sellada y comprobante de pago en su caso, a quien los presente. Además de los casos que señalen las leyes fiscales, se podrá rechazar la presentación cuando no contenga o se anote de manera incorrecta el nombre, denominación o razón social del contribuyente, su número de registro estatal, su registro federal de contribuyentes y su domicilio fiscal o no aparezcan firmados por el contribuyente o su representante legal debidamente acreditado, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverá copia sellada y comprobante de pago en su caso, a quien los presente. Además de los casos que señalen las leyes fiscales, se podrá rechazar la presentación cuando no contenga o se anote de manera incorrecta el nombre, denominación o razón social del contribuyente, su número de registro estatal, su registro federal de contribuyentes, la clave única del registro de población y su domicilio fiscal o no aparezcan firmados por el contribuyente o su representante legal debidamente acreditado, no se acompañen los anexos o cuando la información contenida en los documentos no coincida con la del Registro Estatal de Contribuyentes o tratándose de declaraciones, éstas contengan alteraciones o errores aritméticos. En este último caso la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -1187,21 +1211,29 @@ Para los efectos de lo dispuesto en esta fracción, la autoridad fiscal, en el e
 
 No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Estatal de Contribuyentes.
 
-II.- Contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente; de su resolución favorable se derivan derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito por Autoridad competente para ello.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+II.- Contestar las solicitudes o consultas que sobre situaciones reales y concretas les hagan los interesados individualmente, de su resolución favorable se derivan derechos para el particular, en los casos en que la solicitud o consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito por Autoridad competente para ello.
 
-La autoridad fiscal quedará obligada a aplicar los criterios contenidos en la contestación a la consulta de que se trate, siempre que se cumplan los siguientes requisitos:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Que la consulta comprenda los antecedentes y circunstancias necesarias para que la autoridad pueda pronunciarse al respecto.
+La autoridad fiscal quedará obligada a aplicar los criterios contenidos en la contestación a la solicitud o consulta de que se trate, siempre que se cumplan los siguientes requisitos:
 
-b) Que los antecedentes y circunstancias que originen la consulta no se hubieren modificado posteriormente a su presentación ante la autoridad.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c) Que la consulta se formule antes de que la autoridad inicie el ejercicio de sus facultades de comprobación respecto de las situaciones reales y concretas a que se refiere la consulta.
+a) Que la solicitud o consulta comprenda los antecedentes y circunstancias necesarias para que la autoridad pueda pronunciarse al respecto.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-La autoridad no quedará vinculada por la respuesta otorgada a las consultas realizadas por los contribuyentes cuando los términos de la consulta no coincidan con la realidad de los hechos o datos consultados o se modifique la legislación aplicable.
+b) Que los antecedentes y circunstancias que originen la solicitud o consulta no se hubieren modificado posteriormente a su presentación ante la autoridad.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+c) Que la solicitud o consulta se formule antes de que la autoridad inicie el ejercicio de sus facultades de comprobación respecto de las situaciones reales y concretas a que se refiere la solicitud o consulta.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La autoridad no quedará vinculada por la respuesta otorgada a las solicitudes o consultas realizadas por los contribuyentes cuando los términos de la solicitud o consulta no coincidan con la realidad de los hechos o datos solicitados o consultados o se modifique la legislación aplicable.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1721,11 +1753,11 @@ III.- Que los depósitos y retiros de la cuenta bancaria del contribuyente que n
 
 IV.- Que son ingresos que forman parte de la base gravable del contribuyente los depósitos hechos en cuentas de cheques de terceros cuando éstos efectúan pasos a cuenta del contribuyente y este último no los registre en su contabilidad.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 46.
 
-Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos quince días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones.
+Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos quince días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
@@ -1751,7 +1783,7 @@ Se tendrán por no desvirtuados los hechos u omisiones consignados en el oficio 
 
 El plazo que se señala en el segundo párrafo de esta fracción es independiente del que se establece en el artículo 46 C de este Código;
 
-V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión de los documentos presentados; y (sic)
+V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión de los documentos presentados; y
 
 VI.- Cuando el contribuyente no desvirtúe los hechos u omisiones consignados en el oficio de observaciones, se emitirá la resolución que determine las contribuciones omitidas, la cual se notificará al contribuyente o responsable solidario en términos de lo dispuesto en la fracción I de este artículo.
 
@@ -1948,6 +1980,14 @@ I.- Tratándose del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Per
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 El número de trabajadores podrá obtenerse de la información que conste en el expediente de las autoridades fiscales abierto a nombre del contribuyente, o de la información proporcionada por otras autoridades, organismos públicos o terceros.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Asimismo, cuando el contribuyente no presente ninguna declaración del periodo sujeto a revisión, el número mayor de trabajadores se podrá obtener de las últimas seis declaraciones del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal que haya presentado el contribuyente, aún cuando éstas no correspondan al periodo revisado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Cuando el periodo sujeto a revisión sea de más de dos meses y el contribuyente no pueda proporcionar la información y documentación correspondiente a alguno de los meses revisados, la autoridad fiscal podrá determinar en forma estimativa la base gravable solamente de los meses por los que no se proporcionó dicha información y documentación.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -2153,6 +2193,14 @@ XXIV.- No llevar contabilidad; y
 
 XXV.- Llevar la contabilidad en forma distinta a las disposiciones de este Código o llevarla en lugares distintos a su domicilio fiscal.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXVI.- No presentar el escrito libre a que se refiere el último párrafo de la fracción II del artículo 24 de este Código;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXVII.- No presentar el aviso de suspensión de actividades a que se refiere el último párrafo de fracción II del artículo 24 de este Código;
+
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ARTICULO 58 A.- Es infracción cuya responsabilidad recae en los sujetos y responsables solidarios no pagar total o parcialmente las contribuciones, incluyendo las retenidas o recaudadas, dentro de los plazos establecidos por las leyes fiscales del Estado, salvo cuando éstas se realicen en forma espontánea.
@@ -2191,81 +2239,85 @@ La Autoridad Fiscal impondrá las sanciones por infracción a las disposiciones 
 
 A.- Por las infracciones señaladas en el artículo 58:
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I.- De 3 a 5 días de salario mínimo en el Estado a la comprendida en la fracción VI.
+I.- De $195.00 a $320.00 a la comprendida en la fracción VI;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+II.- De $515.00 a $8,295.00 a las comprendidas en las fracciones II y XXII;
 
-II.- De 8 a 16 días de salario mínimo vigente en el Estado a las comprendidas en las fracciones II y XXII.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+III.- De $515.00 a $1,025.00 a la comprendida en la fracción III;
 
-III.- De 8 a 16 días de salario mínimo en el Estado a la comprendida en la fracción III.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I
+IV.- De $830.00 a $1,660.00 a la establecida en la fracción V. Tratándose de declaraciones correspondientes al Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, la multa impuesta se reducirá en un 50%, al momento de efectuar su pago, cuando el contribuyente demuestre que únicamente tiene a su servicio hasta dos trabajadores, siempre que las erogaciones efectuadas por remuneraciones al trabajo personal en su totalidad, no excedan del equivalente a cuatro veces el salario mínimo vigente en el Estado;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV.- De 13 a 26 días de salario mínimo vigente en el Estado a la establecida en la fracción V. Tratándose de declaraciones correspondientes al Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, la multa impuesta se reducirá en un 50%, al momento de efectuar su pago, cuando el contribuyente demuestre que únicamente tiene a su servicio hasta dos trabajadores, siempre que las erogaciones efectuadas por remuneraciones al trabajo personal en su totalidad, no excedan del equivalente a cuatro veces el salario mínimo vigente en el Estado.
+V.- De $830.00 a $1,660.00 a la establecida en la fracción VII;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-V.- De 13 a 26 días de salario mínimo vigente en el Estado a la establecida en la fracción VII.
+VI.- De $1,025.00 a $1,980.00 a la comprendida en la fracción XV;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VI.- De 16 a 31 días de salario mínimo vigente en el Estado a la comprendida en la fracción XV.
+VII.- De $1,340.00 a $2,680.00 a la señalada en la fracción XVIII;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VII.- De 21 a 42 días de salario mínimo vigente en el Estado a la señalada en la fracción XVIII.
+VIII.- De $1,660.00 a $3,320.00 a las comprendidas en las fracciones IX y XI;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VIII.- De 26 a 52 días de salario mínimo vigente en el Estado a las comprendidas en las fracciones IX y XI.
+IX.- De $2,490.00 a $4,975.00 a la establecida en la fracción X;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IX.- De 39 a 78 días de salario mínimo vigente en el Estado a la establecida en la fracción X.
+X.- De $2,680.00 a $5,295.00 a la comprendida en la fracción IV;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-X.- De 42 a 83 días de salario mínimo vigente en el Estado a la comprendida en la fracción IV.
+XI.- De $3,000.00 a $16,585.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XI.- De 47 a 94 días de salario mínimo vigente en el Estado a las comprendidas en las fracciones I, VIII, XII y XIII.
+XII.- De $3,320.00 a $6,635.00 a las señaladas en la fracción XVII;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XII.- De 52 a 104 días de salario mínimo vigente en el Estado a las señaladas en la fracción XVII.
+XIII.- De $8,295.00 a $16,585.00 a la establecida en la fracción XIX;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIII.- De 130 a 260 días de salario mínimo vigente en el Estado a la establecida en la fracción XIX.
+XIV.- De $515.00 a $1,280.00 a quien cometa la comprendida en la fracción XX;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIV.- de 8 a 20 días de salario mínimo vigente en el Estado a quien cometa la comprendida en la fracción XX.
+XV.- De $5,040.00 a $10,140.00 a la señalada en la fracción XXI;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XV.- De 79 a 159 días de salario mínimo vigente en el Estado a la señalada en la fracción XXI.
+XVI.- De $450.00 a $770.00 a la establecida en la fracción XXIII;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XVI.- De 7 a 12 días de salario mínimo vigente en el Estado a la establecida en la fracción XXIII.
+XVII.- De $3,830.00 a $5,105.00 a la señalada en la fracción XXIV;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XVII.- De 60 a 80 días de salario mínimo vigente en el Estado a la señalada en la fracción XXIV; y
+XVIII.- De $1,660.00 a $3,320.00 a la señalada en la fracción XXV, y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XVIII.- De 26 a 52 días de salario mínimo vigente en el Estado a la señalada en la fracción XXV.
+XIX.- De $8,295.00 a $16,585.00 a las comprendidas en las fracciones XXVI y XXVII.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+El Secretario de Finanzas y Administración, actualizará los montos de las sanciones a que se refiere el presente instrumento y demás Leyes Fiscales del Estado en el mes de enero de cada año aplicando el factor correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de noviembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 35 del Código Fiscal del Estado de Puebla.
 
 B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
@@ -2401,9 +2453,11 @@ VI.- Los relacionados con los Padrones de Contribuyentes.
 
 Comete el delito de defraudación fiscal quien haciendo uso de engaños, aprovechando errores u ocultando circunstancias relevantes, omita total o parcialmente el pago de contribución alguna u obtenga un lucro indebido o ilegítimo, en perjuicio del fisco estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 69.
 
-El delito de defraudación fiscal se sancionará con prisión de dos meses a cuatro años, si el monto de lo defraudado no excede de doscientas veces el salario mínimo diario vigente en el Estado; cuando exceda, la pena será de dos a cinco años de prisión.
+El delito de defraudación fiscal se sancionará con prisión de dos meses a cuatro años, si el monto de lo defraudado no excede de $12,755.00; cuando exceda, la pena será de dos a cinco años de prisión.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
 
@@ -2439,9 +2493,11 @@ No se formulará querella si quien hubiere omitido el pago total o parcial de al
 
 Comete el delito de quebrantamiento de sellos o marcas oficiales, quien sin derecho los altere destruya o retire, habiendo sido colocados con finalidad fiscal para identificar o asegurar documentación o establecimientos sujetos a comprobación de obligaciones fiscales; o impida por cualquier medio que se logre el propósito para el que fueron colocados.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 71.
 
-Al que cometa el delito de quebrantamiento de sellos o marcas oficiales colocados por Autoridad Fiscal en el ejercicio de sus funciones, se le impondrá la pena de dos meses a tres años de prisión y multa de cuarenta veces el salario mínimo diario vigente en el Estado.
+Al que cometa el delito de quebrantamiento de sellos o marcas oficiales colocados por Autoridad Fiscal en el ejercicio de sus funciones, se le impondrá la pena de dos meses a tres años de prisión y multa de $2,555.00.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
@@ -2449,25 +2505,29 @@ Al que cometa el delito de quebrantamiento de sellos o marcas oficiales colocado
 
 Comete el delito de falsificación o uso indebido de medios de control fiscal quien sin autorización:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I.- Grabe, manufacture, imprima, troquele, altere o forme con fragmentos de aquéllos las matrices, punzones, dados, clichés, negativos y las formas oficiales valoradas, así como quien los use, los ponga en circulación, los venda o, a sabiendas de su falsificación los ostente como comprobante de pago de contribuciones en perjuicio del fisco estatal; y
+I.- Grabe, manufacture, imprima, troquele, altere o forme con fragmentos de aquéllos las matrices, punzones, dados, clichés, negativos o las formas oficiales valoradas, así como quien los use, los ponga en circulación, los venda o, a sabiendas de su falsificación los ostente como comprobante de pago de contribuciones en perjuicio del fisco estatal; y
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 II.- Modifique, altere o ingrese información distinta a la real en las bases de datos del Registro Estatal de Contribuyentes que administre la Secretaría de Finanzas y Administración.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 73.
 
-El delito de falsificación o uso de medios de control fiscal se sancionará con prisión de seis meses a cinco años y multa de sesenta veces de salario mínimo vigente en el Estado.
+El delito de falsificación o uso de medios de control fiscal se sancionará con prisión de seis meses a cinco años y multa de $3,830.00.
 
 ###### ARTICULO 74.
 
 Comete el delito de usurpación de funciones fiscales el servidor público o el particular que se ostente como tal, que ordene o practique actos propios de la Autoridad Fiscal sin mandamiento escrito de la Autoridad competente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 75.
 
-El delito de usurpación de funciones fiscales, se sancionará de uno a seis años de prisión y multa de ochenta veces de salario mínimo diario vigente en el Estado.
+El delito de usurpación de funciones fiscales, se sancionará de uno a seis años de prisión y multa de $5,105.00.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -2479,11 +2539,13 @@ ARTICULO 75 A.- Si un funcionario o empleado público comete o en cualquier form
 
 El delito de depositaria infiel, se configura cuando el depositario o interventor designado por las Autoridades Fiscales Estatales, disponga para sí o para otro, el bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubiesen constituido.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 75-C.
 
-El delito de depositaria infiel, se sancionará de tres meses a seis años de prisión si el valor de lo dispuesto no excede de dos mil veces el salario mínimo general diario vigente en el Estado; y cuando exceda, la sanción será de tres a nueve años de prisión.
+El delito de depositaria infiel, se sancionará de tres meses a seis años de prisión si el valor de lo dispuesto no excede de $127,540.00; y cuando exceda, la sanción será de tres a nueve años de prisión.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente que lo requiera.
 
@@ -2501,11 +2563,11 @@ III.- Usen intencionalmente más de una clave del Registro Estatal de Contribuye
 
 IV.- Desocupen o abandonen el local donde tengan su domicilio fiscal, sin presentar el aviso de cambio de domicilio al Registro Estatal de Contribuyentes, cuando después de la notificación de la orden de visita o de la solicitud de información y documentación, o bien después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos, o tratándose de personas morales que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente se tenga obligación de presentar dicho aviso.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 75-E.
 
-En los delitos relacionados con los Padrones de Contribuyentes, se impondrá sanción de 3 meses a 3 años de prisión y multa de sesenta veces de salario mínimo diario vigente en el Estado.
+En los delitos relacionados con los Padrones de Contribuyentes, se impondrá sanción de 3 meses a 3 años de prisión y multa de $3,830.00.
 
 ## TITULO SEXTO. DE LAS NOTIFICACIONES Y DE LA GARANTIA DEL INTERES FISCAL
 
@@ -2775,9 +2837,11 @@ II.- A embargar negociaciones con todo lo que de hecho y por derecho les corresp
 
 Si la exigibilidad se origina por cese de la prórroga o de la autorización para pagar en parcialidades o por error aritmético en las declaraciones, el deudor deberá efectuar el pago dentro de los seis días hábiles siguientes a la fecha en que surta sus efectos la notificación del requerimiento, de lo contrario la autoridad fiscal continuará con el procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 89.
 
-El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género, se inscribirá en el Registro Público de la Propiedad y del Comercio, en atención a la naturaleza de los bienes o derechos de que se trate.
+El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género, se inscribirá en el Registro Público de la Propiedad, en atención a la naturaleza de los bienes o derechos de que se trate.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2933,7 +2997,9 @@ IX.- Los ejidos.
 
 ARTICULO 96 A.- El embargo de crédito a que se refiere el artículo 94 fracción II de este Código, será notificado directamente por el Departamento Técnico de Ejecución o la Oficina Recaudadora y de Asistencia al Contribuyente a los deudores del embargado, para que no hagan el pago de las cantidades respectivas a éste, sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
 
-Si en cumplimiento de lo dispuesto en el párrafo anterior, se paga un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad y del Comercio, la Oficina Recaudadora y de Asistencia al Contribuyente realizará los trámites administrativos correspondientes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Si en cumplimiento de lo dispuesto en el párrafo anterior, se paga un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad, la Oficina Recaudadora y de Asistencia al Contribuyente realizará los trámites administrativos correspondientes.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -3005,11 +3071,11 @@ La actuación del interventor no quedará supeditada al consejo de administraci�
 
 Tratándose de negociaciones que no constituyan una sociedad, el interventor tendrá todas las facultades de dueño para la conservación y buena marcha del negocio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 100-B.
+###### ARTICULO 100-B.
 
-El nombramiento de interventor administrador deberá anotarse en el Registro Público de la Propiedad y del Comercio de la oficina del Instituto Registral y Catastral del Estado que corresponda al domicilio de la negociación intervenida.
+El nombramiento de interventor administrador deberá anotarse en el Registro Público de la Propiedad de la oficina del Instituto Registral y Catastral del Estado que corresponda al domicilio de la negociación intervenida.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
 
@@ -3017,15 +3083,19 @@ ARTICULO 100 C.- Sin perjuicio de lo dispuesto por el artículo 100 A de este C�
 
 En caso de que la negociación que pretenda intervenir ya lo estuviera por mandato de otra autoridad, se nombrará no obstante el nuevo interventor, que también lo será para las otras intervenciones mientras subsista la efectuada por las autoridades fiscales. La designación o cambio de interventor se pondrá en conocimiento de las autoridades que ordenaron las anteriores o posteriores intervenciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 101.
 
-Si el depositario nombrado por la Autoridad Fiscal es el dueño o su representante legal y no cumple con las obligaciones inherentes al cargo, se le impondrán de tres a seis años de prisión; si el depositario no fuere el dueño o su representante legal, se impondrá multa equivalente a sesenta veces el salario mínimo diario vigente en el Estado.
+Si el depositario nombrado por la Autoridad Fiscal es el dueño o su representante legal y no cumple con las obligaciones inherentes al cargo, se le impondrán de tres a seis años de prisión; si el depositario no fuere el dueño o su representante legal, se impondrá multa equivalente a $3,830.00.
 
-En el caso del interventor que no cumpla con lo dispuesto en el Artículo 100 fracción I, independientemente de que sea removido de su cargo, se le aplicará multa equivalente a sesenta veces el salario mínimo diario vigente en el Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+En el caso del interventor que no cumpla con lo dispuesto en el artículo 100 fracción I, independientemente de que sea removido de su cargo, se le aplicará multa equivalente a $3,830.00.
 
-Se impondrá sanción de dos meses a ocho años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco estatal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de 1,705 veces el salario mínimo vigente; cuando exceda, la sanción será de tres a nueve años de prisión.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Se impondrá sanción de dos meses a ocho años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco estatal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $108,730.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -3101,9 +3171,9 @@ El remate deberá ser convocado para una fecha fijada, al día siguiente de habe
 
 La convocatoria se fijará en el sitio visible y usual de la Oficina Recaudadora y de Asistencia al Contribuyente, y en los lugares públicos que se estime conveniente. Además la convocatoria se dará a conocer en la página electrónica de las autoridades fiscales. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente al salario mínimo general de la zona económica vigente en el Estado, elevado al año, la convocatoria se publicará en uno de los periódicos de mayor circulación de la Entidad, dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
+En el caso de que el valor de los bienes exceda de $23,280.00, la convocatoria se publicará en uno de los periódicos de mayor circulación de la Entidad, dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
 
 ###### ARTICULO 108.
 
@@ -3171,9 +3241,9 @@ Hecho el pago a que se refiere el párrafo anterior y designado al notario por e
 
 Aún en este caso, el deudor responderá de la evicción y saneamiento del inmueble rematado.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Una vez adjudicados los bienes al adquiriente, éste deberá retirarlos en el momento en que la Autoridad los ponga a su disposición, en caso de no hacerlo se causarán diariamente derechos por el almacenaje por un importe equivalente al 25% de una vez el salario mínimo general diario vigente en el Estado.
+Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la Autoridad los ponga a su disposición, en caso de no hacerlo se causarán diariamente derechos por el almacenaje por $20.00.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3313,6 +3383,10 @@ ARTICULO 129 B.- El tercero que afirme ser propietario de los bienes o negociaci
 
 El recurso administrativo de revocación deberá ser interpuesto ante la autoridad fiscal que emitió o ejecutó el acto impugnado, dentro de los cuarenta y cinco días siguientes a aquél en que haya surtido efectos la notificación del mismo, a excepción de lo dispuesto en el primer párrafo del artículo 129-A y 129-B.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+El escrito de interposición del recurso podrá enviarse a la autoridad competente para resolverlo, por correo certificado con acuse de recibo, siempre que el envió se efectúe desde el lugar en que resida el recurrente. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se deposite en la Oficina de Correos.
+
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
 El recurso Administrativo de Revocación a que se refiere este capítulo deberá agotarse previamente antes de acudir a los tribunales judiciales competentes.
@@ -3325,9 +3399,9 @@ Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo tur
 
 La tramitación del recurso administrativo de revocación se sujetará además de lo dispuesto en el artículo 26 de este Código, a lo siguiente:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I.- Deberá formularse por escrito, señalando el nombre del recurrente, domicilio para recibir notificaciones y el Registro Estatal de Contribuyentes que le corresponda.
+I.- Deberá formularse por escrito, señalando el nombre del recurrente, domicilio para recibir notificaciones ubicado en la circunscripción territorial del Estado de Puebla y el Registro Estatal de Contribuyentes que le corresponda;
 
 II.- Señalar la resolución o procedimiento que se impugna.
 
@@ -3820,3 +3894,9 @@ P.O. 30 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
