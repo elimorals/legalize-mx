@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2014-12-24"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -87,11 +87,9 @@ La presente Ley tiene por objeto regular la percepción de los ingresos que anua
 
 Los ingresos que se establecen en esta ley, se regularán además en forma supletoria, por la legislación fiscal de la Entidad.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
-
 ###### ARTICULO 3.
 
-Cuando en esta Ley y en otras disposiciones de carácter fiscal se haga mención a cuotas, se entenderá que se refiere al Importe del salario mínimo general diario vigente de la Zona Geográfica a la que pertenece el Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ## TITULO II. DE LOS IMPUESTOS
 
@@ -150,6 +148,10 @@ DE LA TASA
 ###### ARTICULO 8.
 
 Este impuesto se determinará aplicando a la base gravable, la tasa del 1.40 %. En ningún caso el impuesto determinado será menor de 1 cuota.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En ningún caso el impuesto determinado será menor de $66.00.
 
 DEL PAGO
 
@@ -691,9 +693,13 @@ VIII. Comerciantes en el ramo de vehículos: A las personas físicas y morales c
 
 IX. Vehículo: A los automóviles: Ómnibus, camiones y tractores no agrícolas tipo quinta rueda, las aeronaves, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tabla de oleaje con motor, automóviles eléctricos, automóviles híbridos y motocicletas.
 
-X. Índice Nacional de Precios al Consumidor, que aplicará para efectos de este impuesto, el publicado por el Banco de México en los términos de los artículos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XI. Factores de actualización, los que determine la Secretaría de Finanzas, mismo que se publicarán en el Periódico Oficial del Gobierno del Estado de Zacatecas, a más tardar en el mes de diciembre de cada año.
+X. Índice Nacional de Precios al Consumidor, que aplicará para efectos de este impuesto, el publicado por el Instituto Nacional de Estadística y Geográfica (INEGI) en los términos de los artículos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XI. Factores de actualización, los que determine la Secretaría de Finanzas.
 
 DEL CÁLCULO, BASE, TASA, TABLA O TARIFA
 
@@ -769,9 +775,13 @@ inferior
 
 407,882.93 en adelante 27,711.67 16.8
 
-Las cantidades establecidas en las tarifas contenidas en artículo, se actualizarán en el mes de enero de cada aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquél en que se va aplicar la tarifa, entre el Índice Nacional de Precios al Consumidor del mes de noviembre de dos años inmediatos anteriores al año de aplicación. Dicho factor se publicará en el Periódico Oficial del Estado, a más tardar el 31 de diciembre de cada año.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-El Índice Nacional de Precios al Consumidor que se aplicará para los efectos del párrafo anterior es el publicado por el Banco de México en los términos de los artículos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación.
+Las cantidades establecidas en las tarifas contenidas en este artículo, se actualizarán en el mes de enero de cada año, aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquél en que se va aplicar la tarifa, entre el Índice Nacional de Precios al Consumidor del mes de noviembre de dos años inmediatos anteriores al año de aplicación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+El Índice Nacional de Precios al Consumidor que se aplicará para los efectos del párrafo anterior es el publicado por el Instituto Nacional de Estadística y Geográfica (INEGI) en los términos de los artículos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
@@ -969,19 +979,19 @@ De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas
 
 DEL PAGO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 38.
 
-Tratándose de vehículos usados de más de diez años y hasta veinte años de antigüedad al del año modelo de aplicación de este Capítulo; así como todo tipo de remolques, cualquiera que sea su año modelo, el impuesto se pagará de conformidad a las siguientes cuotas:
+Tratándose de vehículos usados de más de diez años y hasta veinte años de antigüedad al del año modelo de aplicación de este Capítulo; así como todo tipo de remolques, cualquiera que sea su año modelo, el impuesto se pagará de conformidad a los siguientes importes:
 
-TIPO DE VEHÍCULOS CUOTA
+TIPO DE VEHÍCULOS IMPORTE
 
-Vehículos de motor 8 cuotas
+Vehículos de motor $528.00
 
-Remolques 2 cuotas
+Remolques $132.00
 
-Motocicletas y similares 2 cuotas
+Motocicletas y similares $132.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1075,9 +1085,11 @@ V. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus 
 
 VI. Cuando un vehículo sea registrado en otra entidad federativa y el propietario presente la documentación que acredite este hecho dentro de los 15 días hábiles siguientes a la realización de este supuesto.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-ARTICULO 39 TER.- De resultar extemporánea la presentación de la documentación a que hace referencia el artículo 39 BIS fracción VI, deberá cubrir un importe equivalente a 20 veces el salario mínimo vigente en el Estado, por gastos de administración de registro vehicular.
+ARTICULO 39 TER.- De resultar extemporánea la presentación de la documentación a que hace referencia el artículo 39 BIS fracción VI, se hará acreedor a una sanción equivalente a $1,320.00.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refiere el artículo 39 de este Capítulo, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquél en que tenga lugar el hecho de que se trate
 
@@ -1103,11 +1115,11 @@ III. Conservar la documentación comprobatoria relacionada con el objeto de este
 
 Los derechos por la prestación de servicios públicos se causarán en el momento en que el particular solicite la prestación del servicio, o en el momento en que se provoque por parte del Estado, el gasto que deba ser remunerado por aquél, salvo que la ley disponga cosa distinta.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 41.
 
-Los derechos se determinarán de acuerdo con las cuotas e importes que señala esta misma Ley, y serán cubiertos en la oficina recaudadora de la jurisdicción en donde se preste el servicio, o en las instituciones de crédito autorizadas.
+Los derechos se determinarán de acuerdo con los importes que señala esta misma Ley, y serán pagados en cualquier oficina recaudadora de la Secretaría de Finanzas, o en las instituciones de crédito autorizadas.
 
 ###### ARTICULO 42.
 
@@ -1141,15 +1153,25 @@ Los servicios que preste la Secretaría General de Gobierno por concepto de:
 
 I. Los derechos por el servicio de expedición de opinión favorable por parte del Ejecutivo del Estado, para el trámite de permisos, licencias o renovación de las mismas, respecto de la compraventa, transporte, fabricación, uso, consumo y almacenamiento de explosivos y sus componentes, se causarán al tenor de lo siguiente:
 
-a) Para empresas del ramo de la minería..............150 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Para empresas del ramo de la construcción....100 cuotas;
+a) Para empresas del ramo de la minería..............$9,900.00
 
-c) Para mediana industria.....................................50 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-d) Para microindustrias y empresas ejidales.........25 cuotas;
+b) Para empresas del ramo de la construcción.... $6,600.00
 
-e) Para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal….......................................................10 cuotas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+c) Para mediana industria..................................... $3,300.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+d) Para microindustrias y empresas ejidales......... $1,650.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+e) Para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal…............................................................$660.00
 
 II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2004; P.O. 31 DE DICIEMBRE DE 2011)
 
@@ -1163,61 +1185,85 @@ IV. Por la Dirección Estatal de Protección Civil por concepto de:
 
 a) Capacitación en brigadas de protección civil:
 
-De 1 a 10 participantes.....................3 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-De 11 a 20 participantes...................5 cuotas;
+De 1 a 10 participantes.....................$660.00
 
-De 11 a 30 participantes...................7 cuotas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+De 11 a 20 participantes...................$1,320.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+De 11 a 30 participantes...................$1,980.00
 
 b) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
 c) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-d) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-e) Registro de grupos voluntarios 2 cuotas;
+d) Revisión y autorización del programa interno de protección civil……………………………….$1,900.00;
 
-f) Renovación del registro de grupos voluntarios 2 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+e) Registro de grupos voluntarios………………………………$132.00;
 
-g) Registro de instructores independientes, empresas asesoras, capacitadoras y consultoras de estudio de riesgo de vulnerabilidad, terceros acreditados 10 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+f) Renovación del registro de grupos voluntarios………………$132.00;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+g) Registro de instructores independientes, empresas asesoras, capacitadoras y consultoras de estudio de riesgo de vulnerabilidad, terceros acreditados......................................................................................$660.00;
 
 h) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
 i) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-j) Renovación del registro de instructores independientes, empresas asesoras, capacitadoras y consultoras de estudio en riesgo de vulnerabilidad, terceros acreditados 10 cuotas;
+j) Renovación del registro de instructores independientes, empresas asesoras, capacitadoras y consultoras de estudio en riesgo de vulnerabilidad, terceros acreditados……………………………$660.00;
 
 k) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
 l) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-m) Emisión de opinión técnica previa al otorgamiento de licencias de construcción para conjuntos habitacionales, escuelas, estaciones de servicio, gaseras, estaciones de- carburación y en general empresas, industrias o establecimientos considerados de riesgo ........................................................................................20 cuotas;
+m) Emisión de opinión técnica previa al otorgamiento de licencias de construcción, atendiendo al nivel de riesgo, tendrá un costo de:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+1. Nivel de riesgo bajo……………………$440.00;
 
-n) Emisión de registro de operación para prestadores de servicios para distribución y recarga de extinguidor 10 cuotas;
+2. Nivel de riesgo medio………………….$660.00;
 
-o) Renovación del registro de operación para prestadores de servicios para distribución y recarga de extinguidores 10 cuotas;
+3. Nivel de riesgo alto…………………… $1,320.00;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-p) Servicios de ambulancia al sector privado para eventos masivos con fines de lucro 20 cuotas;
+n) Emisión de registro de operación para prestadores de servicios para distribución y recarga de extinguidor……..$660.00;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-q) Servicio privado de traslado en la ambulancia por cada 10 km ........ ........................................................................................20 cuotas;
+o) Renovación del registro de operación para prestadores de servicios para distribución y recarga de extinguidores…..$660.00;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+p) Servicios de ambulancia al sector privado para eventos masivos con fines de lucro…………………………………...$1,320.00;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+q) Servicio privado de traslado en la ambulancia por cada 10 km………………………….……………. $132.00;
 
 r) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-s) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-t) Cursos técnicos especializados por persona 10 cuotas;
+s) Análisis de riesgos internos y externos de inmuebles…………….. $990.00;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+t) Cursos técnicos especializados por persona………………………..$660.00;
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
@@ -1235,29 +1281,29 @@ Salarios Mínimos
 
 I. La Dirección de Fraccionamientos:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Expedición de Título 8 cuotas
+a) Expedición de Título……………………….$528.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Constancias para Procampo 0 cuotas
+b) Constancias para Procampo………………...$0.00
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c) Otras constancias 1 cuota
+c) Otras constancias……………………………$66.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-d) Autorización para créditos con bancos 1.5 cuotas
+d) Autorización para créditos con bancos……...$99.00
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 e) Adjudicaciones 3% avalúo catastral
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-f) Copia certificada del título 5 cuotas
+f) Copia certificada del título………………….$330.00
 
 g) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2009)
 
@@ -1265,13 +1311,15 @@ h) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2009)
 
 i) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2009)
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+j) Copia simple de título……………………….$132.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+k) Trámite por cambio de uso de suelo………..$99.00
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
-
-j) Copia simple de título 2 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
-
-k) Trámite por cambio de uso de suelo 1.5 cuotas
 
 (No incluye derechos por la adjudicación
 
@@ -1279,165 +1327,195 @@ correspondiente al incremento en el valor de
 
 la superficie que modifique su uso)
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 l) Copia certificada de documentos distintos a
 
-títulos (de una a cinco fojas) 2 cuotas
+títulos (De una a cinco fojas)………………….$132.00
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-m) Inspección física u ocular 10 cuotas
+m) Inspección física u ocular………………….$660.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-n) Trámite relativo a la reproducción en copia
-
-heliográfica de plano general y/o fraccionamiento 18 cuotas
+n) Trámite relativo a la reproducción en copia heliográfica de plano general y/o fraccionamiento……………..$1,188.00
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 o) Diligencias de apeo y deslinde, levantamientos topográficos en general e inscripción ocular:
 
-SUPERFICIE TERRENO TERRENO TERRENO PLANO LOMERÍO ACCIDEN- TADO
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-1.- Hasta 5-00-00 Has 10 Cuotas 15 Cuotas 25 Cuotas;
+No. Superficie Has. Terreno Terreno Terreno Plano Lomerío Accidentado
 
-2.- De 5-00-01 a 15-00-00 Has. 15 Cuotas 20 Cuotas 35 Cuotas;
+1.- Hasta 5-00-00 Has $660.00 $990.00 $1,650.00
 
-3.- De 15-00-01 a 30-00-00 Has 20 Cuotas 30 Cuotas 45 Cuotas
+2.- De 5-00-01 a
 
-4.- De 30-00-01 a 50-00-00 Has 30 Cuotas 35 Cuotas 50 Cuotas
+15-00-00 Has. $990.00 $1,320.00 $2,310.00
 
-5.- De 50-00-01 a 80-00-00 Has 40 Cuotas 45 Cuotas 55 Cuotas;
+3.- De 15-00-01 a
 
-6.- De 80-00-01 a 110-00-00 Has 60 Cuotas 70 Cuotas 80 Cuotas
+30-00-00 Has. $1,320.00 $1,980.00 $2,970.00
 
-7.- De 110-00-001 a 200-00-00 Has 70 Cuotas 80 Cuotas 90 Cuotas
+4.- De 30-00-01 a
 
-8.- De 200-00-01 Hectáreas en
+50-00-00 Has. $1,980.00 $2,310.00 $3,300.00
 
-adelante, se aumentará por cada
+5.- De 50-00-01 a
 
-hectárea excedente 1 Cuota 1 Cuota 1 Cuota
+80-00-00 Has. $2,640.00 $2,970.00 $3,630.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+6.- De 80-00-01 a
 
-p) Por registro de disposición testamentaria 6 cuotas;
+110-00-00 Has. $3,960.00 $4,620.00 $5,280.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+7.- De 110-00-001 a
 
-q) Trámite por cambio de régimen de propiedad 20 cuotas;
+200-00-00 Has. $4,620.00 $5,280.00 $5,940.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+8.- De 200-00-01
 
-r) Escrito de desistimiento y/o adjudicación 3 cuotas;
+Hectáreas en adelante,
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+se aumentará por cada
 
-s) Escrito de denuncia de juicio sucesorio. 3 cuotas;
+hectárea excedente $66.00 $66.00 $66.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-t) Escrito de adjudicación previa declaración de vacancia 3 cuotas;
+p) Por registro de disposición testamentaria………….$396.00
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-u) Elaboración de planos 2 cuotas;
+q) Trámite por cambio de régimen de propiedad. ……..$1,320.00;
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-v) Solicitudes varias 3 cuotas;
+r) Escrito de desistimiento y/o adjudicación. ………….$198.00
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+s) Escrito de denuncia de juicio sucesorio. ……………$198.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+t) Escrito de adjudicación previa
+
+declaración de vacancia. ………………………………$198.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+u) Elaboración de planos. ……………………………..$132.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+v) Solicitudes varias. ………………………………….$198.00
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
 II. La Dirección del Registro Civil:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Expedición y entrega de acta 1.5 cuotas
+a) Expedición y entrega de acta……………………….$99.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 b) Expedición y entrega de constancia de
 
-inexistencia 1.5 cuotas
+inexistencia……………………………………………$99.00
 
 c) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 d) Trámite administrativo de aclaración de acta
 
-de registro civil 3 cuotas
+de registro civil……………………………………….$198.00
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 e) Trámite para solicitud de actas de registro civil
 
 a oficialías del interior del Estado u otra Entidad
 
-Federativa 1 cuota
+Federativa…………………………………………….$66.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 f) Autorización para registro de actas de registro
 
-civil provenientes del extranjero 6 cuotas
+civil provenientes del extranjero………………………$396.00
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+g) Servicio de Expedición de Actas Interestatales…….$198.00
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 III. La Dirección de Notarías:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Expedición de testimonio por hoja 1.5 cuotas
+a) Expedición de testimonio por hoja…………………$99.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Autorización de protocolo notarial ordinario o abierto.....................................................................5.5 cuotas;
+b) Autorización de protocolo notarial ordinario o abierto....$363.00
 
-c) Expedición de copia certificada 1 cuota por hoja
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2013)</small>
+c) Expedición de copia certificada…………………….$66.00
 
-d) Autorización definitiva de escrituras asentadas en protocolo notariales depositados en el Archivo General de Notarías, además del costo señalado en el inciso a) de esta fracción…………………………………………….4 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2013)</small>
+d) Autorización definitiva de escrituras asentadas en protocolos notariales depositados en el Archivo General de Notarías, además del costo señalado en el inciso a) de esta fracción……………………………$264.00
 
-e) Examen de suficiencia para aspirante a notario.....................................................................41 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2013)</small>
+e) Examen de suficiencia para aspirante a notario…….$2,706.00
 
-f) Examen de oposición para el ejercicio notarial....................................................................58 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+f) Examen de oposición para el ejercicio notarial….....$3,828.00
 
-g) Expedición de patente de aspirante a notario.....................................................................90 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+g) Expedición de patente de aspirante a notario............$5,940.00
 
-h) Expedición de patente de notario.....................197 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+h) Expedición de patente de notario...............................$13,002.00
 
-i) Registro de convenio de suplencia notarial o convenio de asociación notarial...................................................................21 cuotas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+i) Registro de convenio de suplencia notarial o convenio de asociación notarial..........................$1,386.00
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 IV. La unidad de legalización de firmas adscrita a la Coordinación General Jurídica:
 
-a) Certificado de estudio 2 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Título profesional. 2 cuotas
+a) Certificado de estudio………………$132.00
 
-c) De cualquier materia. 2 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-d) Notarios públicos. 2 cuotas
+b) Título profesional…………………...$132.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-e) Apostilla de documentos 5 cuotas
+c) De cualquier materia………………..$132.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+d) Notarios públicos……………………$132.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+e) Apostilla de documentos…………….$330.00
 
 ### CAPITULO III. SERVICIOS DE LA SECRETARÍA DE FINANZAS
 
@@ -1455,121 +1533,121 @@ Grupo B: Villanueva, Valparaíso, Miguel Auza, Juan Aldama, Villa de Cos, Tabasc
 
 Grupo C: Pánuco, Mezquital del Oro, Vetagrande, Apulco, Jiménez del Téul, Momax, Atolinga, Huanusco, Benito Juárez, Moyahua de Estrada, General Enrique Estrada, Teúl de González Ortega, Monte Escobedo, Chalchihuites, General Francisco R. Murguía, Cuauhtémoc, Cañitas de Felipe Pescador, Concepción del Oro, Villa García, Villa González Ortega, General Pánfilo Natera, Pinos, Villa Hidalgo, Trinidad García de la Cadena, El Salvador, Noria de Angeles, Susticacán, Mazapil, General Joaquín Amaro, Melchor Ocampo, Genaro Codina, Trancoso y Santa María de la Paz.
 
-II.- Las verificaciones a los establecimientos que lleve a cabo el Estado, se causarán de acuerdo al grupo al que pertenezca el municipio donde se ubique el domicilio del establecimiento, de acuerdo a las siguientes cuotas:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II.- Las verificaciones a los establecimientos que lleve a cabo el Estado, se causarán de acuerdo al grupo al que pertenezca el municipio donde se ubique el domicilio del establecimiento, de acuerdo a los siguientes importes:
 
 Grupo A B C
 
-5 cuotas 4 cuotas 3 cuotas
+$330.00 $264.00 $198.00
 
-III.- La anuencia que expida el Estado se tasara de acuerdo a las siguientes cuotas:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III.- La anuencia que expida el Estado se tasara de acuerdo a los siguientes importes:
 
 Grupo A B C
 
-7 cuotas 6 cuotas 5 cuotas
+$462.00 $396.00 $330.00
 
-IV.- Los derechos relativos a las licencias originarán el pago de las siguientes cuotas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV.- Los derechos relativos a las licencias originarán el pago de los siguientes importes:
 
 Grupo A B C
 
 Expedición
 
-de licencia 1512 cuotas 1131 cuotas 761 cuotas
+de licencia $99,792.00 $74,646.00 $50,226.00
 
-Renovación 85 cuotas 59 cuotas 39 cuotas
+Renovación $5,610.00 $3,894.00 $2,574.00
 
-Transferencia 208 cuotas 130 cuotas 52 cuotas
+Transferencia $13,728.00 $8,580.00 $ 3,432.00
 
-Cambio de
-
-giro 208 cuotas 130 cuotas 52 cuotas
+Cambio de giro $13,728.00 $8,580.00 $3,432.00
 
 Cambio de
 
-Domicilio 208 cuotas 130 cuotas 52 cuotas
+domicilio $13,728.00 $8,580.00 $3,432.00
 
-Los Permisos Eventuales en los tres grupos tendrán un costo de 20 cuotas, más 7 cuotas por cada día.
+Los Permisos Eventuales en los tres grupos tendrán un costo de $ 1,320.00, más $ 462.00 por cada día.
 
 A) Tratándose de Centro Nocturno o Cabaret
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 Grupo A B C
 
-Expedición
+Expedición de Licencia $ 132,000.00 $ 99,000.00 $ 66,330.00
 
-de licencia 2000 cuotas 1500 cuotas 1005 cuotas
+Renovación $ 7,392.00 $ 5,148.00 $ 3,366.00
 
-Renovación 112 cuotas 78 cuotas 51 cuotas
+Transferencia $ 18,150.00 $ 11,352.00 $ 4,554.00
 
-Transferencia 275 cuotas 172 cuotas 69 cuotas
+Cambio de giro $ 18,150.00 $ 11,352.00 $ 4,554.00
 
-Cambio de giro 275 cuotas 172 cuotas 69 cuotas
-
-Cambio de
-
-Domicilio 275 cuotas 172 cuotas 69 cuotas
+Cambio de domicilio $ 18,150.00 $ 11,352.00 $ 4,554.00
 
 B).- Del alcohol etílico:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 Grupo A B C
 
-Expedición 761 cuotas 566 cuotas 371 cuotas
+Expedición de licencia $ 50,226.00 $ 37,356.00 $ 24,486.00
 
-de licencia
+Renovación $ 5,610.00 $ 3,894.00 $ 2,574.00
 
-Renovación 85 cuotas 59 cuotas 39 cuotas
+Transferencia $ 7,722.00 $ 5,148.00 $ 2,574.00
 
-Transferencia 117 cuotas 78 cuotas 39 cuotas
+Cambio de giro $ 7,722.00 $ 5,148.00 $ 2,574.00
 
-Cambio de
-
-Giro 117 cuotas 78 cuotas 39 cuotas
-
-Cambio de
-
-Domicilio 117 cuotas 78 cuotas 39 cuotas
+Cambio de domicilio $ 7,722.00 $ 5,148.00 $ 2,574.00
 
 C).- Tratándose de venta única de cerveza y/o bebidas refrescantes, cuya graduación no exceda de 10° G.L.:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 Grupo A, B, C
 
-Expedición de licencias 39 cuotas
+Expedición de licencia……………….$ 2,574.00
 
-Renovación 26 cuotas
+Renovación…………………………..$ 1,716.00
 
-Transferencia 39 cuotas
+Transferencia…………………………$ 2,574.00
 
-Cambio de giro 39 cuotas
+Cambio de giro……………………….$ 2,574.00
 
-Cambio de domicilio 13 cuotas
+Cambio de domicilio………………….$ 858.00
 
-Los Permisos Eventuales en los tres grupos tendrán un costo de 13 cuotas, más 1 cuota por cada día adicional.
+Los Permisos Eventuales en los tres grupos tendrán un costo de $ 858.00, más $ 66.00 por cada día adicional.
 
 V.- Los derechos a que se refiere este artículo, cuando se aludan a establecimientos o locales en los que se expendan bebidas alcohólicas para su consumo dentro de los mismos, se incrementará un 10%.
 
-VI.- De los permisos eventuales en el marco de la celebración de la Feria Nacional de Zacatecas, a que se refiere el artículo 30 de la Ley sobre Bebidas Alcohólicas para el Estado, ocasionarán las siguientes cuotas:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Cantina o Bar 200 cuotas
+VI. De los permisos eventuales en el marco de la celebración de la Feria Nacional de Zacatecas, a que se refiere el artículo 30 de la Ley sobre Bebidas Alcohólicas para el Estado, tendrán el costo siguiente:
 
-Centro Nocturno 300 cuotas
+Cantina o Bar………………………………..….$ 13,200.00
 
-Cervecería 200 cuotas
+Centro nocturno……………………………..….$ 19,800.00
 
-> <small>(F. DE E., P.O. 9 DE ENERO DE 2008)</small>
+Cervecería…………………………………..…..$ 13,200.00
 
-Centro Botanero 300 cuotas
+Centro botanero .…………………………….…$ 19,800.00
 
-Merendero 300 cuotas
+Merendero…………………………………….…$ 19,800.00
 
-Discoteca 1000 cuotas
+Discoteca…………………………………….…..$ 66,000.00
 
-Restaurante 500 cuotas
+Restaurante……………………………………...$ 33,000.00
 
-Salón o Finca para Baile 300 cuotas
+Salón o Finca para baile……………………..…$ 19,800.00
 
-Cenaduría 100 cuotas
+Cenaduría…………………………………….…..$ 6,600.00
 
-Deposito 200 cuotas
+Depósito………………………………………..…$ 13,200.00
 
-Licorería 200 cuotas
+Licorería……………………………………..……$ 13,200.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1577,7 +1655,7 @@ Licorería 200 cuotas
 
 Los servicios que presten por concepto de:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 I. En los casos de registro y expedición de placas tratándose de vehículos nuevos o de aquellos que se den de alta por primera vez en la entidad; o cuando se autorice por parte de la Legislatura del Estado el canje total de placas para el parque vehicular de esta Entidad, conforme a lo establecido por el Acuerdo emitido por la Secretaría de Comunicaciones y Transportes, en fecha 25 de septiembre de 2000 y que obliga a cambiar de placas en un periodo no mayor de tres años, el registro y expedición de las mismas, incluyendo calcomanía y tarjeta de circulación con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del año al que corresponda el pago, de la siguiente manera:
 
@@ -1585,29 +1663,35 @@ I. En los casos de registro y expedición de placas tratándose de vehículos nu
 
 Salarios Mínimos
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Vehículo de Servicio Particular 15 cuotas;
+a). Vehículo de Servicio Particular ………………….....$ 990.00
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Vehículo de Servicio Público. 15 cuotas;
+b). Vehículo de Servicio Público ……………….............$ 990.00
 
-c) Demostración de vehículo de agencia autorizada. 20 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+c). Demostración de vehículo de agencia autorizada …..$ 1,320.00
 
-d) Remolque 7 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+d). Remolque …………………………………………...$ 462.00
 
 II. Registro y expedición de placas incluyendo tarjeta de circulación, para:
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Motocicleta y similares 5 cuotas;
+a). Motocicleta y similares……………….……………$ 330.00;
 
-b) Bicicleta 1 cuota;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-III. Reposición de tarjeta de circulación: 1 cuota;
+b). Bicicleta……………………………………………$ 66.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Reposición de tarjeta de circulación: .......................$ 66.00.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -1617,29 +1701,25 @@ con otras entidades, respecto de vehículos que
 
 soliciten emplacamiento en el Estado, conforme a lo siguiente:
 
-a). Expedición con vigencia de tres días hábiles 4 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b). Reposición 4 cuotas.
+a). Expedición con vigencia de tres días hábiles…………$ 264.00;
 
-V. Baja de Placas 1 cuota;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+b). Reposición ………………………………………..…..$ 264.00.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V. Baja de Placas ............................................................$ 66.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 Para el trámite de baja, una vez iniciado el ejercicio fiscal, deberá de estar cubierto el impuesto por tenencia o uso de vehículos y los derechos de refrendo de tarjeta de circulación, del ejercicio en que se solicite la baja respectiva.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VI. Las personas que realicen sus pagos
-
-de Impuestos y Derechos de control
-
-vehicular, vía internet, cubrirán por concepto
-
-de envío de la tarjeta de circulación y
-
-demás documentación comprobatoria, por
-
-medio de Servicio Postal Mexicano. 3.0 cuotas;
+VI. Las personas que realicen sus pagos de Impuestos y Derechos de control vehicular, vía internet, cubrirán por concepto de envío de la tarjeta de circulación y demás documentación comprobatoria, por medio de Servicio Postal Mexicano………………………………………..$ 198.00;
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1647,85 +1727,85 @@ Los propietarios de unidades que se encuentren registradas en el padrón estatal
 
 Cuando no se cubra la contribución dentro del plazo señalado, deberán pagarse recargos y actualización por concepto de indemnización a la Hacienda Pública Estatal por falta de pago oportuno, de conformidad con la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 49.
 
-El refrendo de la tarjeta de circulación y expedición de calcomanía con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del mencionado año, para:
+El refrendo de la tarjeta de circulación y expedición de calcomanía con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del año que corresponda, para:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 I. Vehículos de servicio particular:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a). Del año en curso 18 cuotas;
+a). Del año en curso ………………………………….$ 1,188.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b). Con un año de antigüedad 17 cuotas;
+b). Con un año de antigüedad…………………….......$ 1,122.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c). Con dos años de antigüedad 16 cuotas;
+c). Con dos años de antigüedad ……………………….$ 1,056.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-d). Con tres años de antigüedad 15 cuotas;
+d). Con tres años de antigüedad……………………...$ 990.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-e). Con cuatro años de antigüedad 14 cuotas;
+e). Con cuatro años de antigüedad……………… .....$ 924.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-f). Con cinco y más años de antigüedad 13 cuotas;
+f). Con cinco y más años de antigüedad……………..$ 858.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 II. Vehículos al servicio público:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a). Del año en curso 18 cuotas;
+a). Del año en curso ………………………………...$ 1,188.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b). Con un año de antigüedad 17 cuotas;
+b). Con un año de antigüedad…………………….…$ 1,122.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c). Con dos años de antigüedad 16 cuotas;
+c). Con dos años de antigüedad …………………….$ 1,056.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-d). Con tres años de antigüedad 15 cuotas;
+d). Con tres años de antigüedad………………….…$ 990.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-e). Con cuatro años de antigüedad 14 cuotas;
+e). Con cuatro años de antigüedad……………….…$ 924.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-f). Con cinco y más años de antigüedad 13 cuotas;
+f). Con cinco y más años de antigüedad……………$ 858.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-III. Remolques 6.5 cuotas;
+III. Remolques............................................................$ 429.00.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV. Motocicletas 3.5 cuotas;
+IV. Motocicletas ........................................................$ 231.00.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
 
 Cuando no se cubra la contribución dentro del plazo señalado, deberán pagarse recargos y actualización por concepto de indemnización a la Hacienda Pública Estatal por falta de pago oportuno, de conformidad con la Ley de Ingresos del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 50.
 
-El almacenamiento y guarda en recintos oficiales de bienes embargados conforme al procedimiento administrativo de ejecución:
-
-Por día: 1 cuota;
+El almacenamiento y guarda en recintos oficiales de bienes embargados conforme al procedimiento administrativo de ejecución por día…............$ 66.00.
 
 ### CAPITULO IV. SERVICIOS DE CATASTRO
 
@@ -1735,81 +1815,37 @@ Los servicios que presten por concepto de:
 
 I. Avalúo:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a). Tratándose de terrenos urbanos cuyo
+a). Tratándose de terrenos urbanos cuyo valor no exceda de $ 60,225.00 (valor catastral asignado al terreno de interés social)…….…$ 198.00;
 
-valor no exceda de 2.5 veces el salario
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-mínimo general vigente elevado al año
+b). Tratándose de terrenos urbanos cuyo valor se encuentre entre los $ 60,225.00 y $168,630.00 (valor catastral asignado al terreno de interés medio)………………………………………………..$ 462.00;
 
-(valor catastral asignado al terreno de
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-interés social). 3 cuotas;
+c). Tratándose de terrenos rústicos cuyo valor no exceda de $ 96,360.00 …$ 198.00;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b). Tratándose de terrenos cuyo valor se
+d). Tratándose de terrenos rústicos cuyo valor se encuentre entre $ 96,360.00 y $ 192,720.00..................................................................$ 462.00;
 
-encuentre entre los 2.5 y 7 veces el salario
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-mínimo general vigente elevado al año.
+e). Tratándose de predio con construcción, cuyo valor no exceda al equivalente a $168,630.00 (valor catastral asignado a la vivienda popular)……………………………………………….$ 330.00;
 
-(valor catastral asignado al terreno de
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-interés social). 7 cuotas;
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
-
-c). Tratándose de terrenos rústicos cuyo
-
-valor no exceda 4 veces el salario mínimo
-
-general vigente elevado al año. 3 cuotas;
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
-
-d). Tratándose de terrenos rústicos cuyo
-
-valor se encuentre entre 4 y 8 veces el
-
-salario mínimo general vigente elevado
-
-al año. 7 cuotas;
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
-
-e). Tratándose de predio con construcción,
-
-cuyo valor no exceda al equivalente a 7
-
-veces el salario mínimo general vigente
-
-elevado al año. (valor catastral asignado
-
-a la vivienda popular). 5 cuotas;
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
-
-f). Tratándose de predio con construcción
-
-cuyo valor se encuentre entre los 7 y 14
-
-veces el salario mínimo general vigente
-
-elevado al año. (valor catastral asignado
-
-a la vivienda de interés medio). 11 cuotas;
+f). Tratándose de predio con construcción cuyo valor se encuentre entre los $ 168,630.00 y $ 337,260.00 (valor catastral asignado a la vivienda de interés medio) ………………………………………………..$ 726.00;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 g). Para avalúos cuyo monto rebase lo previsto en los incisos anteriores se aplicará la tarifa adicional de 14.0 (catorce) al millar al monto excedente.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-En ningún caso, los derechos por concepto de avalúo, excederán al equivalente de 250 cuotas.
-
-12 cuotas;
+En ningún caso, los derechos por concepto de avalúo, excederán al equivalente de $16,500.00.
 
 h) Renovaciones:
 
@@ -1835,91 +1871,101 @@ A partir del inicio del cuarto mes posterior a la caducidad se considerará como
 
 II. Deslinde o levantamiento topográfico de predios urbanos:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Hasta de 200.00 m2 9 cuotas
+a) Hasta de 200.00 m2. ….......………........................$594.00
 
-De 200.01 a 400.00 m2 11 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-De 400.01 a 600.00 m2 13 cuotas
+b) De 200.01 a 400.00 m2. ….............………………$ 726.00
 
-De 600.01 a 1000.00 m2 19 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Para la superficie mayor de mil
+c) De 400.01 a 600.00 m2. ……............…………….$ 858.00
 
-metros, por cada metro cuadrado
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-excedente se aplicará una cuota de: $0.20
+d) De 600.01 a 1000.00 m2. ……...........……………$ 1,254.00
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-III. Elaboración del plano que tenga por objeto el
+Para la superficie mayor de mil metros, por cada metro cuadrado excedente se aplicará un importe de: ................................................$ 0.25
 
-servicio a que se refiere la fracción anterior: 7 cuotas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior: ..........................................................$ 462.00;
 
 IV. Deslinde o levantamiento topográfico de predios rústicos:
 
-TERRENO TERRENO TERRENO
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-PLANO DE LOMERIO ACCIDENTADO
+No. Superficie Has. Terreno Terreno Terreno
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+Plano de Lomerío Accidentado
 
-a) Hasta de 5-00-00 has. 14 cuotas 30 cuotas 53 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+a) Hasta 5-00-00 Has. $ 924.00 $ 1,980.00 $ 3,498.00
 
-b) De 5-00-01 has.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a 10-00-00 has. 22 cuotas 53 cuotas 61 cuotas
+b) De 5-00-01 a
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+10-00-00 Has. $ 1,452.00 $ 3,498.00 $ 4,026.00
 
-c) De 10-00-01 has.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a 15-00-00 has. 37 cuotas 69 cuotas 75 cuotas
+c) De 10-00-01 a
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+15-00-00 Has. $ 2,442.00 $ 4,554.00 $ 4,950.00
 
-d) De 15-00-01 has.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a 20-00-00 has. 45 cuotas 84 cuotas 107 cuotas
+d) De 15-00-01 a
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+20-00-00 Has. $ 2,970.00 $ 5,544.00 $ 7,062.00
 
-e) De 20-00-01 has.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a 40-00-00 has. 91 cuotas 130 cuotas 169 cuotas
+e) De 20-00-01 a
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+40-00-00 Has. $ 6,006.00 $ 8,580.00 $ 11,154.00
 
-f) De 40-00-01 has.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a 60-00-00 has. 138 cuotas 176 cuotas 215 cuotas
+f) De 40-00-01 a
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+60-00-00 Has. $ 9,108.00 $ 11,616.00 $ 14,190.00
 
-g) De 60-00-01 has.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a 80-00-00 has. 184 cuotas 223 cuotas 262 cuotas
+g) De 60-00-01 a
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+80-00-00 Has. $ 12,144.00 $ 14,718.00 $ 17,292.00
 
-h) De 80-00-01 has.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a 100-00-00 has. 231 cuotas 269 cuotas 308 cuotas
+h) De 80-00-01 a
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+100-00-00 Has. $ 15,246.00 $ 17,754.00 $ 20,328.00
 
-i) De 100-00-01 has.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a 200-00-00 has. 277 cuotas 323 cuotas 385 cuotas
+i) De 100-00-01 a
 
-j) De 200-00-01 has., en adelante,
+200-00-00 Has. $ 18,282.00 $ 21,318.00 $ 25,410.00
 
-se aumentará por cada hectárea
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-excedente. 1 cuota 1 cuota 1 cuota
+j) De 200-00-01,
+
+en adelante,
+
+se aumentará por
+
+cada hectárea
+
+excedente. ………Has. $ 66.00 $ 66.00 $ 66.00
 
 k) Si el levantamiento topográfico se solicita con curvas de nivel, se tasará el doble de lo que resulte la clasificación del terreno que le corresponda;
 
@@ -1937,205 +1983,123 @@ adicional $4.00
 
 V. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) 1: 100 a 1: 5,000 29 cuotas;
+a). 1:100 a 1:5,000 ………………………................…………..…$ 1,914.00;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) 1: 5,001 a 1: 10,000 17 cuotas;
+b). 1:5,001 a 1:10,000 … ………………...............…………….$ 1,122.00;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c) 1: 10,001 en adelante 7 cuotas;
+c). 1:10,001 en adelante ……..………..............………………....$ 462.00;
 
 VI. Certificación de acta de:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Deslinde de predios 4 cuotas;
+a). Deslinde de predios ……………………..…................………$ 264.00;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Ficha catastral 4 cuotas;
+b). Ficha catastral ……...…..…………………..................……….$ 264.00.
 
 VII. Certificación de plano en:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Urbano 4 cuotas;
+a). Urbano ……………………………………….……$ 264.00;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Rústico 4 cuotas;
+b). Rústico ……...…..………………………………...$ 264.00.
 
 VIII. Copia de plano:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Plano impreso de la zona
+a). Plano impreso de la zona conurbada Zacatecas-Guadalupe, edición 1995……………………………………………….....$ 330.00.
 
-conurbada Zacatecas-Guadalupe,
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-edición 1995. 5 cuotas
+b). Plano manzanero de zonas urbanas de las cabeceras municipales de: Zacatecas, Guadalupe, Fresnillo, Jerez, Río Grande, Sombrerete, Ojocaliente, Calera, Jalpa, Loreto, Tlaltenango, Valparaíso y Villanueva ……$ 1,914.00.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Plano manzanero de zonas
+c). Plano manzanero de zonas urbanas de las cabeceras municipales de: Morelos, Villa de Cos, Pinos, Juchipila, Juan Aldama, Luis Moya, Miguel Auza, Monte Escobedo, Nochistlán de Mejía, Saín Alto, Tabasco, Tepetongo, Villa García, Cañitas de Felipe Pescador, Teúl de González Ortega, Chalchihuites, Fco. R. Murguía, Concepción del Oro, Cuauhtémoc, Tepechitlán, Trancoso y Santa María de la Paz. ………$ 1,584.00.
 
-urbanas de las cabeceras
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-municipales de: Zacatecas,
+d). Plano manzanero de zonas urbanas de las cabeceras municipales de: Apozol, Apulco, Atolinga, Benito Juárez, Jiménez del Teúl, García de la Cadena, Genaro Codina, Gral. Enrique Estrada, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Huanusco, Momax, Moyahua de Estrada, Mazapil, Melchor Ocampo, Mezquital del Oro, Noria de Ángeles, Pánuco, El Salvador, Susticacán, Vetagrande, Villa Hidalgo y Villa González Ortega…..$ 924.00.
 
-Guadalupe, Fresnillo, Jerez,
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Río Grande, Sombrerete,
-
-Ojocaliente, Calera, Jalpa,
-
-Loreto, Tlaltenango,
-
-Valparaíso y Villanueva 29 cuotas
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
-
-c) Plano manzanero de zonas
-
-urbanas de las cabeceras municipales de:
-
-Morelos, Villa de Cos, Pinos, Juchipila,
-
-Juan Aldama, Luis Moya, Miguel Auza,
-
-Monte Escobedo, Nochistlán de Mejía,
-
-Saín Alto, Tabasco, Tepetongo, Villa García,
-
-Cañitas de Felipe Pescador, Teul de González
-
-Ortega, Chalchihuites, Fco. R. Murguía,
-
-Concepción del Oro, Cuauhtémoc, Tepechitlán,
-
-Trancoso y Santa María de la Paz. ………………… 24 cuotas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
-
-d) Plano manzanero de zonas
-
-urbanas de las cabeceras
-
-municipales de: Apozol, Apulco,
-
-Atolinga, Benito Juárez, Jiménez
-
-del Teúl, García de la Cadena,
-
-Genaro Codina, Gral. Enrique
-
-Estrada, Gral. Joaquín Amaro,
-
-Gral. Pánfilo Natera, Huanusco,
-
-Momax, Moyahua de Estrada,
-
-Mazapil, Melchor Ocampo, Mezquital
-
-del Oro, Noria de Ángeles, Pánuco, El
-
-Salvador, Susticacán, Vetagrande,
-
-Villa Hidalgo y Villa González Ortega 14 cuitas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
-
-e) Plano del Estado de Zacatecas
-
-con la división política de los
-
-municipios, vías de comunicación
-
-y localización de poblaciones. 31 cuotas
+e). Plano del Estado de Zacatecas con la división política de los municipios, vías de comunicación y localización de poblaciones. …………..$ 2,046.00
 
 IX. Expedición de planos manzaneros con impresión digital, con predios, manzanero, curvas a nivel, cuotas de crucero y nombres de calles con alcance de 1 km 2:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Escala 1:1000 31 cuotas
+a). Escala 1:1000 ………………………………$ 2,046.00;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Escala 1: 2000 16 cuotas
+b). Escala 1:2000 ……...........………………….$ 1,056.00;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c) Escala 1: 5000 9 cuotas
+c). Escala 1:5000 ……………………………....$ 594.00.
 
 X. Expedición de planos manzaneros con impresión digital, con predios y nombres de calles de alcance de 1 km 2:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Escala 1:1000 15 cuotas
+a). Escala 1:1000 ………………………..…….$ 990.00;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Escala 1:2000 11 cuotas
+b). Escala 1:2000 ……....………….……….….$ 726.00;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c) Escala 1:5000 9 cuotas
+c). Escala 1:5000 ……………………………...$ 594.00.
 
 XI. Expedición de copia de título de propiedad o de otro existente en los archivos de catastro:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+((REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)
 
-a) Certificadas hasta por cinco fojas: 4 cuotas
-
-Por cada foja excedente $15.00
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
-
-b) Simples, hasta 5 fojas: 1cuota
+a). Certificadas, hasta por cinco fojas: ……….............................$ 264.00;
 
 Por cada foja excedente $15.00
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XII. Verificación física del inmueble 9 cuotas
+b). Simples, hasta por cinco fojas: ……................................…... $ 66.00;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+Por cada foja excedente $15.00
 
-XIII. Expedición de constancias de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-propiedad o no propiedad. 4 cuotas;
+XII. Verificación física de inmueble ....................................................$ 594.00;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIV. Por los servicios que se soliciten cuando
+XIII. Expedición de constancias de propiedad o no propiedad……….$ 264.00;
 
-los antecedentes a que se refiera se
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-encuentren fuera del distrito judicial al
+XIV. Por los servicios que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial al que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: ..............................$ 330.00.
 
-que se dirija la petición, se cobrará
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-una tarifa adicional por documento
+XV. Solicitud de particulares de elaboración de planos……………$ 132.00.
 
-equivalente a: 5 cuotas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+XVI. El concepto de solicitud de búsqueda de documentos...………$ 132.00.
 
-XV. Solicitud de particulares 2 cuotas;
-
-de elaboración de planos.
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
-
-XVI. El concepto de solicitud de búsqueda de documentos 2 cuotas.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
-
-Los conceptos no considerados en el presente artículo se tasarán de acuerdo con su monto equiparable en cuotas de salario mínimo.
+> <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2153,41 +2117,25 @@ Los servicios que presten por concepto de:
 
 Salarios Mínimos
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I. Calificación registral, por testimonio
-
-o documento ½ cuota
+I. Calificación Registral, por testimonio o documento .........................$ 33.00;
 
 II. Inscripción de documentos relativos a bienes inmuebles:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Tratándose de inmuebles
+a). Tratándose de inmuebles con valor de hasta $ 168,630.00, se cubrirá la tarifa mínima general por inmueble equivalente a:….… $ 726.00;
 
-con valor de hasta siete veces
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-el salario mínimo vigente elevado
-
-al año, se cubrirá la tarifa mínima
-
-general por el inmueble equivalente a: 11 cuotas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
-
-b) Tratándose de inmuebles cuyo
-
-valor se sitúe entre las 7.0 y las
-
-14.0 veces el salario mínimo vigente
-
-elevado al año cubrirá la tarifa base
-
-por inmueble de: 29 cuotas
+b). Tratándose de inmuebles cuyo valor se sitúe entre los $ 168,630.00 y $ 337,260.00 se cubrirá la tarifa base por inmueble de:…$ 1,914.00;
 
 Para inscripciones cuyo monto rebase el rango de valor establecido en el inciso anterior, se aplicará la tarifa adicional del 1.0% al monto excedente.
 
-En ningún caso, los derechos por inscripción de documentos relativos a bienes inmuebles, excederán el equivalente de 500 cuotas para cada predio en particular.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En ningún caso, los derechos por inscripción de documentos relativos a bienes inmuebles, excederán el equivalente de $ 33,000.00 para cada predio en particular.
 
 La base gravable será el valor que resulte mayor entre el avalúo practicado por la Dirección de Catastro y Registro Público, el inserto en el documento o el avalúo bancario.
 
@@ -2251,101 +2199,87 @@ Para los efectos de este capítulo se equiparan a la compraventa los siguientes 
 
 18.- División de copropiedad, por cada uno de los predios resultantes.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-III. Diligencias de apeo y deslinde: 3 cuotas;
+III. Diligencias de apeo y deslinde: .............................................. $ 198.00;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV. Capitulaciones matrimoniales: 3 cuotas;
+IV. Capitulaciones matrimoniales: ............................................... $ 198.00;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-V. En la inscripción del régimen
+V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas:...................................$ 198.00;
 
-de propiedad en condominio, por
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-cada departamento, despacho, vivienda,
+VI. Fusión de predios, por cada uno de los predios fusionados……$ 66.00;
 
-local, cajón de estacionamiento o
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-cualquier otro tipo de unidades privativas: 3 cuotas;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
-
-VI. Fusión de predios, por cada uno
-
-de los predios fusionados: 1cuota;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
-
-VII. Actos, contratos, convenios o
-
-autorizaciones por los que se fraccione,
-
-notifique o subdivida un predio, por cada
-
-lote o fracción: 1cuota;
+VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: .................$ 66.00;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
 VIII. Por la inscripción y anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al 0.35% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se tasarán, tratándose de actos o contratos de la forma siguiente:
 
-a). Arrendamiento, subarrendamiento
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-o cesión de arrendamiento 11 cuotas
+a). Arrendamiento, subarrendamiento o cesión de arrendamiento ….$ 726.00
 
-b). Constitución o sustitución de garantías
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-reales 11 cuotas
+b). Constitución o sustitución de garantías reales …………..........$ 726.00
 
-c). Sesión de garantías u obligaciones reales 11 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-d). Comodato o convenios judiciales 11 cuotas
+c). Sesión de garantías u obligaciones reales …………………….$ 726.00
 
-e). Demandas o resoluciones que limiten
+> <small>(REFORMADO P, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-el derecho de propiedad o posesión; 11 cuotas
+d). Comodato o convenios judiciales ……………....……………$ 726.00
 
-f). Fideicomiso de afectación o administración
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-en garantía y en el que el o los fideicomitentes,
+e). Demandas o resoluciones que limiten el derecho de propiedad o posesión…………………………………………………………..$ 726.00
 
-se reserven expresamente la propiedad 11 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-g). El cumplimiento de condiciones
+f). Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes, se reserven expresamente la propiedad…….$ 726.00
 
-suspensivas a que se haya sujetado
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-la transmisión de la propiedad 11 cuotas
+g). El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad ………………………..….$ 726.00
 
-h). Fianzas 11 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-i). Prendas sobre crédito inscrito 11 cuotas
+h). Fianzas ……………..…………………………………………$ 726.00
 
-j). Prenda de frutos pendientes 11 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-k). Uso, usufructo, servidumbre y
+i). Prendas sobre crédito inscrito ………………………………….$ 726.00
 
-contratos de crédito refaccionario, de
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-habilitación y avío celebrado entre
+j). Prenda de frutos pendientes ………..……..…………………...$ 726.00
 
-particulares; 11 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+k). Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares …………….$ 726.00
 
 l). (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, se tasará en 9 cuotas sobre el monto total de lo reclamado, siempre y cuando este sea igual o menor al equivalente a siete veces el salario mínimo general elevado al año; cuando el importe de lo reclamado sea mayor a siete veces el salario mínimo general elevado al año, se tasará al 1 %;
+IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, se tasará en $ 594.00 sobre el monto total de lo reclamado, siempre y cuando este sea igual o menor al equivalente a $ 168,630.00; cuando el importe de lo reclamado sea mayor a $ 168,630.00, se tasará al 1%;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
 X. Contrato de promesa de venta, se tasará al 0.4% sobre el valor que se manifieste en el documento.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XI. Contrato de apertura de crédito: 6 cuotas;
+XI. Contrato de apertura de crédito: ............................................... $ 396.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -2361,11 +2295,9 @@ Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados dent
 
 En materia de crédito para adquisición de vivienda el registro de contrato de hipoteca y crédito simple, se tasará al 0.115% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIII. Inscripción de documentos que contengan
-
-los siguientes actos: 9 cuotas
+XIII. Inscripción de documentos que contengan los siguientes actos: .....................$ 594.00
 
 a) Testamento.
 
@@ -2395,23 +2327,13 @@ c) Compraventa;
 
 d) Compraventa con reserva de dominio se tasará sobre el valor inserto en el documento; a falta de éste sobre el avalúo que practique la Secretaria de Finanzas.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XV. Registro de personas morales
+XV. Registro de personas morales o aumento de su capital social, 0.28 % sobre el monto de capital social o sus aumentos, en los casos que dicho capital no exceda de $185,000.00 se pagarán: …………………….................................................................... $ 726.00
 
-o aumento de su capital social, 0.28%
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-sobre el monto de capital social o sus
-
-aumentos, en los casos que dicho capital
-
-no exceda de $185,000.00 se pagarán: 11 cuotas;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
-
-XVI. Registro de documentos que
-
-contengan los siguientes actos: 9 cuotas
+XVI. Registro de documentos que contengan los siguientes actos:........................ $ 594.00
 
 a) Disolución de personas morales;
 
@@ -2423,109 +2345,87 @@ d) Modificaciones al pacto social constitutivo;
 
 e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de participación, depósito o de copias autorizadas por balance, transformación de sociedades y en general otros actos inscribibles;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XVII. Cancelación de inscripción o anotación: 2 cuotas, y
+XVII. Cancelación de inscripción o anotación: .................................................... $ 132.00, y
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: 30 cuotas.
+XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: ………………………………………………… $ 1,980.00.
 
 (DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013) (REPUBLICADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 53.
 
-Contrato innominado: 26 cuotas;
+Contrato innominado: .................................... $ 1,716.00.
 
 ###### ARTICULO 54.
 
 Expedición de certificado de:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I. No propiedad: 3 cuotas;
+I. No propiedad: ..…………………………………………………………………..$ 198.00;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II. Inscripción o no inscripción: 3 cuotas;
+II. Inscripción o no inscripción: ……………………………………………………$ 198.00;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-III. Libertad de gravamen: 2 cuotas;
+III. Libertad de gravamen: …………………………………………………………$ 132.00;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV. Existencia de gravamen, a la
-
-fracción anterior se adicionará por
-
-cada gravamen: ½ cuotas.
+IV. Existencia de gravamen, a la fracción anterior se adicionará por cada gravamen: ….… $ 33.00.
 
 ###### ARTICULO 55.
 
 Expedición de copia de título de propiedad o de cualquier otro documento existente en libros o archivo del registro:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I. Certificadas hasta cinco fojas: 4 cuotas;
-
-Por cada foja excedente $15.00;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
-
-ll. Simples, hasta cinco fojas: 1 cuota;
-
-Por cada foja excedente $10.00
+I. Certificadas hasta cinco fojas: ………..………………………………………. $ 264.00;
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
+Por cada foja excedente $15.00;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. Simples, hasta cinco fojas: …….………………………………………………$ 66.00;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+Por cada foja excedente $10.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 56.
 
-Ratificación o certificación de firmas: 3 cuotas;
+Ratificación o certificación de firmas: ........................................ $ 198.00;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 57.
 
-Cuando de un mismo título
-
-se consignen dos o más actos jurídicos, por
-
-cada acto 3 cuota;
+Cuando de un mismo título se consignen dos o más actos jurídicos, por cada acto: ..............$ 198.00.
 
 Si el mismo origina dos o más inscripciones,
 
 se tasarán por separado. 6 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Por los servicios que se soliciten cuando
+Por los servicios que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial en el que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: .................................................................................. $ 330.00.
 
-los antecedentes a que se refiera se
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-encuentren fuera del distrito judicial en el
+Por los servicios de certificados y copias que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito de la capital del Estado y solicitado en la Dirección, se cobrará una tarifa adicional por documento equivalente a: ………. $ 594.00.
 
-que se dirija la petición, se cobrará una tarifa
-
-adicional por documento equivalente a: 3 cuotas;
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
-
-Por los servicios de certificados y copias que
-
-se soliciten cuando los antecedentes a que
-
-se refiera se encuentren fuera del distrito
-
-de la capital del Estado y solicitado en la
-
-Dirección, se cobrará una tarifa adicional
-
-por documento equivalente a: 9 cuotas;
-
-Los conceptos no considerados en el presente capítulo, se tasarán de acuerdo con el concepto equiparable en cuotas de salario mínimo.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2599,93 +2499,75 @@ II. Expedición de dictamen para diligencia de información Ad-Perpetuam;
 
 a) Rústicos:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-1.- Hasta 1-00-00 Has 10 cuotas;
+1.- Hasta 1-00-00 Has ………………….............................................................………$ 660.00;
 
-2.- De 1-00-01 Has en adelante, se aumentará
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-por hectárea o fracción 4.5 cuotas.
+2.- De 1-00-01 Has en adelante, se aumentará por hectárea o fracción…………. $ 297.00.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
 b) Urbano, por m2 $2.00;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-III. Expedición de constancia estatal de
+III. Expedición de constancia estatal de compatibilidad urbanística:……………..$ 528.00;
 
-compatibilidad urbanística: 8 cuotas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+IV. Registro de director responsable de obra, con vigencia de un año:…………. $ 1,056.00;
 
-IV. Registro de director responsable de obra,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-con vigencia de un año: 16 cuotas;
+V. Revalidación anual de registro de director responsable de obra:……………... $ 528.00;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-V. Revalidación anual de registro de director
+VI. Por cada copia de expediente de documentos de Programas y Esquemas de Desarrollo Urbano o de Fraccionamientos Urbanos Autorizados:…………………………… $ 66.00;
 
-responsable de obra: 8 cuotas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2003)</small>
+VII. Por cada copia heliográfica de planos de Programas y Esquemas de Desarrollo Urbano o de Fraccionamientos Urbanos autorizados:… $ 330.00;
 
-VI. Por cada copia de expediente de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-documentos de Programas y Esquemas
+VIII. Expedición de dictamen en materia de planeación y desarrollo urbano:……… $ 396.00;
 
-de Desarrollo Urbano o de Fraccionamientos
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Urbanos Autorizados 1 cuota;
+###### ARTÍCULO 59.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
-
-VII. Por cada copia heliográfica de planos
-
-de Programas y Esquemas de Desarrollo
-
-Urbano o de Fraccionamientos Urbanos
-
-autorizados: 5 cuotas
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-VIII. Expedición de dictamen en materia de
-
-planeación y desarrollo urbano: 6 cuotas
-
-###### ARTICULO 59.
-
-Los servicios prestados por concepto de inscripción a concurso: 34 cuotas;
+Los servicios prestados por concepto de inscripción a concurso: ............$ 2,244.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 I. Costo por cada disco magnético de “3.5” que se proporcione a los concursantes. $ 10.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II. Costo por cada disco compacto “CD” que se proporcione a los concursantes. 1 cuota;
+II. Costo por cada disco compacto "CD" que se proporcione a los concursantes: ....................... $ 66.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 III. Por cada foja de las bases y demás documentos que se proporcionen a los concursantes. $ 4.00 c/u;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV. Por cada copia heliográfica que se proporcione. 1.7 cuotas;
+IV. Por cada copia heliográfica que se proporcione: ............................................... $ 112.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 V. Sobre tamaño legal por cada paquete de concurso. $ 4.50 c/u;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VI. Costo por inscripción a cada licitación de obra. 45 cuotas;
+VI. Costo por inscripción a cada licitación de obra…………………………........$ 2,970.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VII. Costo por inscripción a licitaciones de suministros, servicios y arrendamientos. 32 cuotas;
+VII. Costo por inscripción a licitaciones de suministros, servicios y arrendamientos……………………$ 2,112.00.
 
 ###### ARTICULO 60.
 
@@ -2695,11 +2577,17 @@ Las verificaciones posteriores a que se refiere el artículo anterior, deberán 
 
 ARTICULO 60 BIS.- Los servicios prestados por concepto de:
 
-I. Elaboración de oficio de cancelación de garantía hipotecaria, reserva de dominio o límites establecidos en los contratos privados emitidos en su momento por el Instituto Zacatecano de la Vivienda Social............................9 cuotas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II. Elaboración de convenio de subsanación de escritura; con relación a los contratos privados emitidos por el entonces Instituto Zacatecano de la Vivienda Social...................................................................14 cuotas, y
+I. Elaboración de oficio de cancelación de garantía hipotecaria, reserva de dominio o límites establecidos en los contratos privados emitidos en su momento por el Instituto Zacatecano de la Vivienda Social ………………………………………………...$ 594.00;
 
-III. Expedición de títulos y escrituras privadas, respecto a los programas de vivienda que ejecuta la Secretaría de Infraestructura.................46 cuotas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. Elaboración de convenio de subsanación de escritura; con relación a los contratos privados emitidos por el entonces Instituto Zacatecano de la Vivienda Social ….$ 924.00; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Expedición de títulos y escrituras privadas, respecto a los programas de vivienda que ejecuta la Secretaría de Infraestructura ....$ 3,036.00.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -2711,23 +2599,23 @@ Los servicios que presten por concepto de:
 
 l. Por registro con vigencia de un año en el padrón:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) De proveedores 7 cuotas;
+a) De proveedores………………………………………...$ 462.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) De contratistas 10 cuotas;
+b) De contratistas…………………………………………$ 660.00
 
 II. Por revalidación del registro con vigencia de un año:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) De proveedores 5 cuotas;
+a) De proveedores…………….........…………………….$ 330.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) De contratistas 7 cuotas;
+b) De contratistas………………..........…………………..$ 462.00
 
 III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
@@ -2751,11 +2639,15 @@ La Secretaría de Finanzas o en su caso los organismos descentralizados, al hace
 
 Los servicios prestados por concepto de:
 
-I. Expedición de título profesional o grado, de egresados de instituciones educativas estatales o incorporadas: 1 cuota;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Expedición y/o validación de Certificado, Título Profesional, Diploma de Especialidad o Grado Académico de egresados de instituciones educativas o incorporadas .............$ 66.00.
 
 II. Expedición de diplomas a egresados de:
 
-a) Academias y centros de capacitación para el trabajo 1 cuota
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+a). Academias y centros de capacitación para el trabajo ........................... $ 66.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2779,7 +2671,9 @@ c) Nivel medio superior $ 34.00;
 
 d) De tipo superior $ 45.00;
 
-IV. Práctica de examen extraordinario por materia:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. Práctica de examen extraordinario de regularización:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2793,7 +2687,9 @@ b) De nivel medio superior o academias $ 15.00;
 
 c) De tipo superior $ 20.00;
 
-V. Exámenes a título de suficiencia:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V. Examen de evaluación general de conocimiento (EGC):
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2809,13 +2705,13 @@ c) De tipo superior por materia $ 30.00;
 
 VI. Exámenes profesionales que sustenten los egresados de escuelas del Estado:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) De centros de capacitación para el trabajo o academias 1 cuota
+a). De centros de capacitación para el trabajo o academias ......$ 66.00;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) De idiomas 1 cuota
+b). De idiomas .............................................................................$ 66.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2831,13 +2727,13 @@ a) Primaria $ 15.00;
 
 b) Secundaria por grado $ 30.00;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c) Tipo medio superior 4 cuotas;
+c) Tipo medio superior ........................................ $ 264.00;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-d) Tipo superior 14 cuotas;
+d) Tipo superior ................................................... $ 924.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2863,23 +2759,21 @@ b) De tipo medio superior o academias $ 50.00;
 
 c) De tipo superior $ 70.00;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XI. Compulsa de documentos, por documento
-
-original $8.00;
+XI. Compulsa de documentos, por foja……….............$9.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 XII. Por cualquier otra certificación o expedición de constancia distintas a las señaladas en las fracciones anteriores: $30.00;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIII. Por solicitud, estudios y resolución del trámite de reconocimiento de validez de estudios de tipo superior 137 cuotas.
+XIII. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudio de tipo superior..............................$ 9,042.00;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIV. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudios de los niveles preescolar y medio superior o equivalente y de formación para el trabajo sea cual fuere la modalidad 15 cuotas
+XIV. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudio del nivel medio superior o equivalente y de formación para el trabajo, sea cual fuere la modalidad...........$ 990.00;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2923,65 +2817,61 @@ XVIII. Equivalencia de estudios:
 
 a) Secundaria, por grado $ 30.00;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Tipo Medio Superior 4 cuotas;
+b). Tipo Medio Superior............................................. $ 264.00;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c) Tipo Superior 14 cuotas;
+c). Tipo Superior........................................................ $ 924.00.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 XIX. Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) De tipo inicial y preescolar $ 7.00;
+a) De tipo inicial........................................................ $ 9.00;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) De tipo elemental $ 9.00;
+b) De tipo básico....................................................... $ 11.00;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c) De tipo medio, academias comerciales o centros
+c) De tipo medio, academias comerciales, centros de formación para el trabajo, Normales y demás para la formación de maestros de educación básica.......................................................................... $ 13.00;
 
-de capacitación para el trabajo $11.00;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+d) De tipo superior. ................... ................................ $ 20.00;
 
-d) De tipo superior $ 18.00;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
-
-XX. Registro de colegio de profesionistas 50 cuotas;
+XX. Registro de colegio de profesionistas .............$ 3,300.00;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 XXI. Registro de socios a un colegio de profesionistas $ 20.00;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXII. Registro de títulos profesionales $ 19.00
+XXII. Registro de títulos profesionales……………………$20.00;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXIII. Certificación o constancia de registro de título profesional o grado académico $ 150.00
+XXIII. Certificación o constancia de registro de título profesional, diploma de especialidad o grado académico ...............................…$198.00;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXIV. Autorización provisional para ejercer como pasante 5 cuotas;
+XXIV. Autorización provisional para ejercer como pasante .... $ 330.00;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXV. Autorización provisional para ejercer con título en trámite 5 cuotas.
+XXV. Autorización provisional para ejercer con título en trámite……$ 330.00;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXVI. Timbre con holograma para trámite de registro
-
-de título y expedición de cédulas profesionales: $ 24.00
+XXVI. Timbre holograma con código de seguridad para el trámite de registro de título y expedición de Cédula..........$ 33.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2991,45 +2881,89 @@ a) Secundaria $ 30.00;
 
 b) Medio superior $ 40.00;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXVIII. Por solicitud, estudio y resolución del trámite de autorización para impartir educación primaria, secundaria, normal y demás para la formación de maestros, sea cual fuere la modalidad 15 cuotas;
+XXVIII. Por solicitud, estudio y resolución de trámite de autorización para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros, sea cual fuere la modalidad…..................$ 1,518.00;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXIX. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial:………………………………………………....59 cuotas;
+XXIX. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial de estudios…………………………………….. $ 4,158.00;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXX. Registro de Federación de Colegios de profesionistas.................................................................79 cuotas;
+XXX. Registro de Federación de Colegios de Profesionistas……………….………….…… $ 6,204.00;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXXI. Solicitud de alta de nuevos Colegios a una Federación de Colegios de Profesionistas..................................................................9 cuotas;
+XXXI. Solicitud de alta de nuevos Colegios a una Federación de Colegios de Profesionistas..................................................... $ 594.00;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXXII. Solicitud de cambio de Consejo Directivo de un Colegio de Profesionistas o Federación de colegios de profesionistas.........................9 cuotas;
+XXXII. Solicitud de cambio de Consejo Directivo de un Colegio de Profesionistas o Federación de Colegios de Profesionistas ..…… $ 594.00;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXXIII. Solicitud de cambio de denominación de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas…..................8 cuotas;
+XXXIII. Solicitud de cambio de denominación de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas …$ 528.00;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXXIV. Solicitud de cambio de estatutos de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas.........................................8 cuotas;
+XXXIV. Solicitud de cambio de estatutos de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas ….. $ 528.00;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXXV. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o de titular de nivel superior con reconocimiento de validez oficial de estudios...... .......................................................................................68 cuotas;
+XXXV. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o de titular de nivel superior con reconocimiento de validez oficial de estudios………………………………..….............$4,620.00;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXXVI. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o titular de educación primaria, secundaria, normal y demás para la formación de maestros, sea cual fuera la modalidad.......................................................20 cuotas;
+XXXVI. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o titular de educación primaria, secundaria, normal y demás para la formación de maestros, sea cual fuera la modalidad: ….....…… $1,320.00;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXXVII. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o titular de niveles de preescolar y medio superior o equivalente y de formación para el trabajo, sea cual fuera la modalidad...............................................20 cuotas.
+XXXVII. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o titular de los niveles de preescolar y medio superior o equivalente y actualización de planes y programas de estudio de formación para el trabajo, sea cual fuere la modalidad………………….$1,320.00;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXXVIII. Por solicitud, estudio y resolución de trámite de Registro para impartir Educación Inicial……………….$1,518.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXXIX. Por solicitud, estudio y resolución de trámite de cambio de titular y/o domicilio de Educación Inicial con Registro........ $1,326.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XL. Enmienda al registro en relación al título profesional o grado académico……………….……………………….$132.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XLI. Solicitud de expedición de copias de documentos contenidos en los expedientes de la Dirección de Profesiones: copias certificadas.........$ 16.50
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XLII. Registro de peritos profesionales……...……………….$660.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XLIII. Refrendo anual de registro de peritos……….................$330.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XLIV. Registro de Institución Educativa…………………...$2,838.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XLV. Enmienda al registro para modificar la nomenclatura de la Institución Educativa……..………….... ..$500.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XLVI. Enmienda al registro para modificar la nomenclatura de carrera….................$500.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XLVII. Enmienda al registro para adición de carrera…………....………..................$500.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XLVIII. Consulta de archivo a la Dirección de Profesiones (cuando la solicitud de consulta se derive de un acto de carácter judicial no será sujeto de cobro)….......................... $96.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -3047,19 +2981,19 @@ I. Autorización de traslado de cadáver: $ 40.00;
 
 II. Otorgamiento a proveedores de las bases para concursos de:
 
-a) Adquisiciones, hasta 10 fojas 16 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Por cada foja adicional $ 35.00; (sic)
+a). Adquisiciones, hasta 10 fojas ......................................... $1,056.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+b) Por cada foja adicional $ 35.00;
 
-III. Inscripción a concurso de adquisición 12 cuotas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-por invitación.
+III. Inscripción a concurso de adquisición por invitación…………......……..…$ 792.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV. Inscripción a concurso de obra por invitación 22 cuotas.
+IV. Inscripción a concurso de obra por invitación…………………...…………$1,452.00;
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -3071,53 +3005,73 @@ ARTICULO 63 BIS.- Los servicios prestados a las empresas de seguridad privada, p
 
 I. Expedición de autorización, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
 
-a) De vigilancia de inmuebles…..............................250 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Protección y vigilancia de personas y bienes…..250 cuotas;
+a) De vigilancia de inmuebles ……………….................$16,500.00;
 
-c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo.................................................................300 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo...............................................................150 cuotas;
+b) Protección y vigilancia de personas y bienes ………..$16,500.00;
 
-e) Traslado y custodia de bienes, fondos y valores....................................................................500 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo ………………….……………………….$19,800.00;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo .…….…………………………………….$9,900.00;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+e) Traslado y custodia de bienes, fondos y valores ……$33,000.00.
 
 II. Expedición de revalidación, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
 
-a) De vigilancia de inmuebles...............................230 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Protección y vigilancia de personas y bienes.....................................................................230 cuotas;
+a) De vigilancia de inmuebles ………….........................$15,180.00;
 
-c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo………………………………..............280 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo..............................................................130 cuotas;
+b) Protección y vigilancia de personas y bienes ……….$15,180.00;
 
-e) Traslado y custodia de bienes, fondos y valores...................................................................480 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-III. Modificación de la autorización para prestar servicios de seguridad privada que realizan los particulares en el Estado de Zacatecas.........100 cuotas, y
+c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo …………………………………….…$18,480.00;
 
-IV. Por cambio de representante legal de las empresas prestadoras de servicios de seguridad privada....................................................................50 cuotas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo …………………..…………………....$ 8,580.00;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+e) Traslado y custodia de bienes, fondos y valores …..$31,680.00;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Modificación de la autorización para prestar servicios de seguridad privada que realizan los particulares en el Estado de Zacatecas……..........................……….$6,600.00, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. Por cambio de representante legal de las empresas prestadoras de servicios de seguridad privada …………………$3,300.00
 
 La autorización y revalidación que refieren las fracciones I y II del presente artículo, serán vigentes por el ejercicio fiscal en que se expidan.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-ARTICULO 63 TER.- Por los servicios que preste el Poder Judicial del Estado o la Secretaría de Seguridad Pública de Gobierno del Estado, en el ámbito de sus respectivas competencias, derivados del Sistema Penitenciario y de Ejecución de Sanciones, en los términos de lo dispuesto en el Código Procesal Penal para el Estado, por concepto de:
+ARTICULO 63 TER.- Por los servicios que preste el Poder Judicial del Estado o la Secretaría de Seguridad Pública de (sic) Gobierno del Estado, en el ámbito de sus respectivas competencias, derivados del Sistema Penitenciario y de Ejecución de Sanciones, en los términos de lo dispuesto en el Código Procesal Penal para el Estado, por concepto de Expedición de certificados de:
 
-I. - Expedición de certificados de:
+a) Remisión parcial de la pena..............………....$264.00;
 
-a) Remisión parcial de la pena 4 cuotas;
+b) Libertad condicional …………….…………..$396.00;
 
-b) Libertad condicional 6 cuotas;
+c) Indulto……..………….....................................$792.00;
 
-c) Indulto 12 cuotas;
+d) Pre-liberación ………..….................................$198.00;
 
-d) Pre-liberación 3 cuotas;
+e) Constancia de reinserción social y certificaciones.………....$66.00; y
 
-e) Constancia de reinserción social
-
-y certificaciones 1 cuota, y
-
-f) Prelibertad 2 cuotas.
+f) Prelibertad …………………….………….$132.00.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -3131,53 +3085,51 @@ I. Por expedición de licencia de manejo, incluido el examen médico para tal ef
 
 Tipo 2 años 4 años 6 años
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Operador
+a) Operador de
 
-de servicio
+servicio público $ 363.00 $ 594.00 $ 726.00
 
-público 5.5 cuotas 9 cuotas 11 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+b) Chofer $ 429.00 $ 726.00 $ 858.00
 
-b) Chofer 6.5 cuotas 11 cuotas 13 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+c) Automovilista $ 363.00 $ 660.00 $ 792.00
 
-c) Automovilista 5.5 cuotas 10 cuotas 12 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
-
-d) Motociclista 3.5 cuotas 6 cuotas 8 cuotas;
+d) Motociclista $ 231.00 $ 396.00 $ 528.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2003)</small>
 
 II. Examen médico a conductores de vehículo:
 
-> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Examen médico a conductores de vehículos que participen en un hecho de tránsito aplicándose (etílico) 3 cuotas;
+a) Examen médico a conductores de vehículos que participen en un hecho de tránsito aplicándose (etílico) ...........................................$ 198.00;
 
-> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Toxicológico 6 cuotas.
+b) Toxicológico ...............................................................$ 396.00.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-III. Expedición de permiso provisional de manejo para mayores de 16 años y menores de 18 años incluido certificado médico, hasta por 90 días: 2 cuotas;
+III. Expedición de permiso provisional de manejo para mayores de 16 años y menores de 18 años incluido certificado médico, hasta por 90 días: …………………....$ 132.00.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-IV. Vehículo depositado en los recintos de tránsito, por día 0.50 cuotas;
+IV. Vehículo depositado en los recintos de tránsito, por día:…....…$ 33.00.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-V. Gafetes para operadores del servicio público 6 cuotas;
+V. Gafetes para operadores del servicio público: ..............................$ 396.00.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VI. Por servicio de grúa 5 cuotas;
+VI. Por servicio de grúa: ....................................................................$ 330.00.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -3187,55 +3139,61 @@ VII. Expedición de permiso para circular sin placas:
 
 a) Por 5 días
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-1. Servicio Público: 5 cuotas;
+1. Servicio Público: ...............................$ 330.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-2. Servicio Particular: 3 cuotas.
+2. Servicio Particular: ...........................$ 198.00.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
 b) Por 10 días
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-1. Servicio Público: 7 cuotas;
+1. Servicio Público: ..............................$ 462.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-2. Servicio Particular: 5 cuotas.
+2. Servicio Particular: ...........................$ 330.00.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
 c) Por 15 días
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-1. Servicio Público: 9 cuotas;
+1. Servicio Público: ..............................$ 594.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-2. Servicio Particular: 7 cuotas.
+2. Servicio Particular: ...........................$ 462.00.
 
 > <small>(ADICIONADO, P.O. 1 DE ENERO DE 2003)</small>
 
 d) Por treinta días:
 
-1. Servicio Particular: 14 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-2. Servicio Público: 16 cuotas.
+1. Servicio Particular .........................................$ 924.00;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+2. Servicio Público ............................................$ 1,056.00.
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 2003)</small>
 
 VIII. Permiso para carga y descarga:
 
-a) Por un día 3 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Por treinta días 11 cuotas.
+a). Por un día .....................................................$ 198.00;
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+b). Por treinta días...............................................$ 726.00.
 
 ###### ARTICULO 65.
 
@@ -3243,83 +3201,85 @@ La revisión operativa de unidades de servicio público de pasajeros y carga:
 
 I. Servicio público de transporte colectivo urbano y suburbano, por unidad:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Iniciación 240 cuotas;
+a). Iniciación..........................................................$ 15,840.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Año posterior 10 cuotas.
+b). Año posterior....................................................$ 660.00.
 
 II. Servicio público de transporte colectivo foráneo, por unidad:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Iniciación 230 cuotas;
+a). Iniciación..........................................................$ 15,180.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Año posterior 10 cuotas.
+b). Año posterior...................................................$ 660.00.
 
 III. Servicio público de taxi, por unidad
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Iniciación 184 cuotas;
+a). Iniciación.........................................................$ 12,144.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Año posterior 10 cuotas.
+b). Año posterior ..................................................$ 660.00.
 
 IV. Servicio público de transporte turístico, por unidad:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Iniciación 122 cuotas;
+a). Iniciación.........................................................$ 8,052.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Año posterior 10 cuotas.
+b). Año posterior..................................................$ 660.00.
 
 V. Servicio público de arrendamiento, hasta por 10 unidades:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Iniciación 208 cuotas;
+a). Iniciación.........................................................$ 13,728.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Por cada unidad excedente de las 10 primeras 54 cuotas;
+b). Por cada unidad excedente de las 10 primeras……$ 3,564.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c) Año posterior 14 cuotas.
+c). Año posterior ..................................................$ 924.00.
 
 VI. Servicio público de transporte proporcionado por agencia funeraria, de carga de materiales, de carga liviana y de grúa, por unidad:
 
-a) Iniciación 121 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+a). Iniciación.........................................................$ 7,986.00;
 
-b) Año posterior 8 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+b). Año posterior..................................................$ 528.00.
 
-VII. Certificación de servicio público: 3 cuotas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VII. Certificación de servicio público: ................$ 198.00.
 
 VIII. Revisión operativa de:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Cambio de vehículo 4 cuotas;
+a). Cambio de vehículo........................................$ 264.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Cambio ruta 12 cuotas;
+b). Cambio de ruta................................................$ 792.00
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c) Ampliación de ruta 6 cuotas.
+c). Ampliación de ruta .........................................$ 396.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -3329,61 +3289,73 @@ c) Ampliación de ruta 6 cuotas.
 
 Por la evaluación y emisión de dictamen de impacto ambiental:
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I. Informe preventivo 29 cuotas;
+I. Informe preventivo ……………..……………$ 1,980.00
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
 II. Estudio de impacto ambiental tipo general.
 
-a) Con nivel de impacto bajo: 40 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Con nivel de impacto medio: 50 cuotas
+a) Con nivel de impacto bajo……………………$ 3,630.00
 
-c) Con nivel de impacto alto: 50 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+b) Con nivel de impacto medio…..…………......$ 3,960.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+c) Con nivel de impacto alto……………………$ 4620.00
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
 III. Estudio de impacto ambiental tipo intermedio.
 
-a) Con nivel de impacto bajo: 80 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Con nivel de impacto medio: 105 cuotas
+a) Con nivel de impacto bajo…………………..$ 5,280.00
 
-c) Con nivel de impacto alto: 148 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+b) Con nivel de impacto medio: ……………….$ 6,930.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+c) Con nivel de impacto alto: ………………….$ 9,768.00
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
 IV. Estudio de impacto ambiental tipo específico.
 
-a) Con nivel de impacto bajo: 160 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Con nivel de impacto medio: 200 cuotas
+a) Con nivel de impacto bajo……………….......$ 10,560.00
 
-c) Con nivel de impacto alto: 242 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
+b) Con nivel de impacto medio: ………….....…$ 13,200.00
 
-V. Exención de trámite de impacto ambiental: 5 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
+c) Con nivel de impacto alto: …………………..$ 15,972.00
 
-VI. Ratificación y ampliación de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-resolución de impacto ambiental: 6 cuotas;
+V. Exención de trámite de impacto ambiental …………$ 330.00.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VII. Estudio de riesgo ambiental: 95 cuotas
+VI. Ratificación y ampliación de resolución de impacto ambiental…... $ 396.00.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VIII. Evaluación y resolución de la solicitud de
+VII. Estudio de riesgo ambiental……………….………$ 6,600.00.
 
-modificación de proyectos autorizados en
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-materia de impacto ambiental: 30 cuotas
+VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental…………..$ 2,310.00.
 
 ###### ARTICULO 67.
 
@@ -3391,65 +3363,49 @@ Por la prestación de los siguientes servicios:
 
 Salarios Mínimos
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I. Reproducción de material didáctico,
+I. Reproducción de material didáctico, ecológico y ambiental…............$10.00 por foja
 
-ecológico y ambiental $ 1.30 por foja;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+II. Reproducción de material informático ecológico y ambiental en medio de almacenamiento (USB, Disco compacto o cualquier otro)…………$16.00 por foja digitalizada c/u
 
-II. Reproducción de material informático
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-ecológico y ambiental en disco flexible $12.70 c/u;
+III. Reproducción de material informático ecológico y ambiental disponible en archivos digitalizados a disco compacto..........................................$165.00 c/u
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-III. Reproducción de material con información
+IV. Información de planos con información ecológica y ambiental…….$ 396.00 c/u
 
-ecológico-ambiental en disco compacto 2.5 cuotas c/u;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+V. Reproducción de planos con información ecológica y ambiental………........… $ 165.00 c/u
 
-IV. Información de planos con información
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-ecológico-ambiental 6 cuotas c/u;
+VI. Asesoría y capacitación en materias de ecología y medio ambiente por cada hora……………………………………$ 528.00.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-V. Reproducción de planos con información
+VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental……...............................................................$ 1,650.00.
 
-ecológico-ambiental 2.5 cuotas c/u;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+VIII. Reproducción en plotter...........................................................$ 264.00.
 
-VI. Asesoría y capacitación en materias de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-ecología y medio ambiente, por cada hora 8 cuotas;
+IX. Autorización por simulacro de incendio……...……….…....…$ 396.00.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VII. Registro en el padrón de prestadores
+X. Registro de generadores de residuos de manejo especial….…..….$ 396.00.
 
-de servicio Ecológico y ambiental: 20 cuotas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
-
-VIII. Reproducción en plotter 4 cuotas;
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
-
-IX. Autorización por simulacro de incendio 5 cuotas;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-X. Registro de generadores de residuos 5 cuotas.
-
-de manejo especial
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-XI. Trámite de certificación ambiental 20 cuotas.
+XI. Trámite de certificación ambiental…………………………..$ 1,650.00.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
@@ -3463,9 +3419,11 @@ ARTICULO 67 BIS.- Los servicios que preste la Procuraduría General de Justicia 
 
 ### CAPITULO XII. OTROS DERECHOS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 68.
 
-Ratificación o certificación de firmas de contratos o actos jurídicos privados ante autoridades judiciales o administrativas distintas de las de Catastro y Registro Público de la Propiedad y del Comercio: 1 cuota;
+Ratificación o certificación de firmas de contratos o actos jurídicos privados ante autoridades judiciales o administrativas distintas de las de Catastro y Registro Público de la Propiedad y del Comercio: ................................................................ $ 66.00.
 
 ###### ARTICULO 69.
 
@@ -3473,17 +3431,17 @@ Las copias certificadas, constancias y certificaciones de cualquier naturaleza q
 
 I. La primera foja relativa a asuntos correspondientes:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Al año en curso 1 cuota;
+a). Al año en curso………………………………..…….$ 66.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) Al año anterior 2 cuotas;
+b). Al año anterior………….............…………………..$ 132.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c) A más de dos años anteriores 3 cuotas;
+c). A más de dos años anteriores ………........……...$ 198.00.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
@@ -3491,9 +3449,9 @@ d) Por cada foja excedente correspondiente
 
 a asuntos de cualquier año $ 10.00.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II. Certificado de no antecedentes penales 1.5 cuotas
+II. Certificado de no antecedentes penales ..................................... $ 99.00.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -3505,35 +3463,29 @@ III. Actas que se expidan en los kioscos de servicios electrónicos de Gobierno 
 
 El pago de derechos, a que se refieren los artículos 68 y 69, por servicios que presten las autoridades judiciales, se enterarán en las oficinas recaudadoras de la Secretaría de Finanzas. De conformidad con el convenio que al efecto se suscriba, los montos serán transferidos al Fondo Auxiliar para el mejoramiento de la Administración de Justicia, con independencia del presupuesto anual de egresos que corresponda al Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-ARTICULO 69 BIS.- Los servicios que prestan las dependencias y entidades de la Administración Pública Centralizada a que se refieren los artículos 22 y 44 de la Ley Orgánica de la Administración Pública del Estado de Zacatecas, por los documentos físicos o que en medios magnéticos le sean solicitados en materia del derecho a la información pública, se cobrará conforme a lo siguiente:
+ARTICULO 69 BIS.- Los servicios que prestan las dependencias y entidades de la Administración Pública Centralizada a que se refieren los artículos 22 y 44 de la Ley Orgánica de la Administración Pública del Estado de Zacatecas, por la reproducción de la información a través de documentos físicos, en medios de almacenamiento o por envío vía internet, que le sean solicitados en materia del derecho a la información pública, se cobrará conforme a lo siguiente:
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I. Por la expedición de copia simple por hoja. $ 1.00;
+I. Por la expedición de copia simple por hoja ………………$15.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II. Por la expedición de copia certificada por
+II. Por expedición de copia certificada por hoja ……………. $17.00;
 
-hoja. $10.00;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+III. Por la expedición de copia a color por hoja ……………...$17.00;
 
-III. Por la expedición de copia a color por hoja. $15.00;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+IV. Por cada hoja enviada por internet que contenga la información requerida..........$ 17.00;
 
-IV. Por cada disco flexible de 3.5 pulgadas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-que contenga la información requerida. $10.00;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-V. Por cada disco compacto que contenga la
-
-información requerida. $15.00;
+V. Por cada hoja transferida a un medio de almacenamiento (USB, Disco Compacto o cualquier otro), que contenga la información requerida…………………………..............................................$17.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -3547,45 +3499,37 @@ VII. Por expedición de copia certificada de
 
 planos por metro cuadrado de papel. $80.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VIII. Remisión de información solicitada, sólo en aquellos casos en que se requiera que el envío de la información se realice por servicio de paquetería:
+VIII. Cuando se requiera el envío de información a través del Servicio Postal Mexicano o empresas privadas de mensajería, además del costo que se cause por la expedición de las copias que refiere el presente artículo, dicho envío tendrá un costo de:
 
-Servicio Postal Mexicano 1 cuota;
+a) Por conducto del Servicio Postal Mexicano ………………$ 66.00;
 
-Servicio Postal de empresas privadas. 3 cuotas;
+b) A través de empresas privadas de mensajería para envío estatal….$198.00;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE 2008)</small>
+c) A través de empresas privadas de mensajería para envío nacional.. $462.00;
 
-Servicio de mensajería de empresas
+d) A través de empresas privadas de mensajería para envío al extranjero…….$660.00;
 
-privadas que presten su servicio en el
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-territorio nacional: 3 cuotas
+Los mismos importes y tarifas serán aplicables por la expedición de los documentos físicos o que en medio magnético u óptico realicen los Poderes Legislativo y Judicial y que le sean solicitados en materia de acceso a la información pública. Lo anterior sin perjuicio de las exenciones o no causación de derechos que por estos conceptos se encuentren previstas (sic) en otras leyes.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Servicio de mensajería de empresas
-
-privadas que presten su servicio al
-
-extranjero 10 cuotas
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-Las mismas cuotas y tarifas serán aplicables por la expedición de los documentos físicos o que en medio magnético u óptico realicen los Poderes Legislativo y Judicial y que le sean solicitados en materia de acceso a la información pública. Lo anterior sin perjuicio de las exenciones o no causación de derechos por estos conceptos previstas en otras leyes.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 69 TER.- Por el derecho de expedición de certificados del Instituto de Selección y Capacitación del Estado de Zacatecas, se cobrarán 72 cuotas.
+ARTICULO 69 TER.- Por el derecho de expedición de certificados del Instituto de Selección y Capacitación del Estado de Zacatecas, se cobrarán…………….........$ 4,752.00.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
 ARTICULO 69 QUATER.- Por los servicios que presta el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas:
 
-I. Expedición de títulos y escrituras privadas de propiedad, respecto del Programa Estatal de regularización de la Tenencia de la Tierra Urbana......................... 46 cuotas, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II. Expedición de documentos privados individuales para la obtención del dominio pleno de los inmuebles sujetos al régimen de fraccionamientos rurales ................ 46 cuotas.
+I. Expedición de títulos y escrituras privadas de propiedad, respecto del Programa Estatal de regularización de la Tenencia de la Tierra Urbana ……………....................$ 3,036.00, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. Expedición de documentos privados individuales para la obtención del dominio pleno de los inmuebles sujetos al régimen de fraccionamientos rurales…………..............$ 3,036.00.
 
 ## TITULO IV. DE LOS PRODUCTOS
 
@@ -3619,7 +3563,9 @@ d) Otras formas impresas, cada una $ 2.50;
 
 e) Leyes, reglamentos, folletos y demás publicaciones, su costo se determinará de conformidad con el tiraje de la edición, número de hojas y calidad de impresión y encuadernación;
 
-f) Juego de 150 fojas de protocolo notarial abierto 10 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+f) Juego de 150 fojas de protocolo notarial abierto….......……$ 660.00
 
 g) Formas de solicitud para inicio, renovación,
 
@@ -3631,51 +3577,51 @@ establecimientos con venta de bebidas
 
 alcohólicas $ 8.40;
 
-h) Formas de permisos provisionales para circular sin placas. 1 cuota;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+h) Formas de permisos provisionales para circular sin placas…...………$ 66.00;
 
-i) Hologramas y certificados para Centros de Verificación 1.32 cuotas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+i) Hologramas y certificados para Centros de Verificación…….........…… $ 87.12;
 
-j) Hoja de rechazo para Centros de Verificación 0.50 cuotas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+j) Hoja de rechazo para Centros de Verificación………….............…...… $ 33.00.
 
 III. De capitales y valores del Estado, sus rendimientos;
 
 IV. Los provenientes del Periódico Oficial. Estos se causarán conforme a la siguiente tarifa:
 
-a) Por suscripción; Salarios Mínimos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+a) Por suscripción; Importe
 
-1.- Por semestre 20 cuotas;
+1.- Por semestre…………………….......................$ 1,320.00;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-2.- Por año 30 cuotas;
+2.- Por año…………………………….…………..$ 1,980.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 b) Por enviar a otros lugares fuera de la ciudad de Zacatecas en el país;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-1.- Por semestre 25 cuotas;
+1.- Por semestre………………………………………...…$ 1,650.00;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-2.- Por año 40 cuotas;
+2.- Por año……………..………………………………...…$ 2,640.00;
 
 c) Por enviar al extranjero;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-1.- Por semestre 40 cuotas;
+1.- Por semestre…………………………………………..$ 2,640.00;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-2.- Por año 60 cuotas;
+2.- Por año……………………………………………..…$ 4,620.00.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -3699,13 +3645,11 @@ b) De fechas anteriores;
 
 3.- De más de un año $ 20.00
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VI. Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota por inserción;
+VI. Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, tendrá un costo;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-Por publicación, por palabra $ 0.40
+Por palabra $ 0.40.
 
 ###### ARTICULO 71.
 
@@ -3922,3 +3866,9 @@ P.O. 24 DE DICIEMBRE DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil quince, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
