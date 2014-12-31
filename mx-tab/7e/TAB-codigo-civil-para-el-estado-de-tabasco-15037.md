@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2014-12-24"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -357,7 +357,9 @@ Cuál se reputa legal
 
 Se reputa como domicilio legal:
 
-I.- Del menor de edad no emancipado, el de la persona a cuya patria potestad esté sujeto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I.- Del menor de edad, el de la persona a cuya patria potestad esté sujeto;
 
 II.- Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
 
@@ -511,11 +513,13 @@ Actas
 
 Las actas del Registro Civil se asentarán en forma especial; la infracción a esta disposición producirá su nulidad. Las inscripciones se harán en forma computarizada o mecanográfica; en ambos casos, deberán contener la clave única de registro de población o, en su defecto, la transcripción de la misma; en caso de inscripción computarizada, se regirá conforme al procedimiento de guarda y distribución de las copias del respaldo informático y tratándose de forma mecanográfica, los formatos una vez utilizados se encuadernarán en volúmenes hasta de doscientas actas que corresponderán al año a que se refiera.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 64.
 
 Expedición de formas
 
-Los oficiales del Registro Civil tendrán bajo su responsabilidad formas especiales por quintuplicado en las que se asentarán actas de "Nacimiento", "Reconocimiento de Hijos", "Adopción", "Matrimonio", "Divorcio Administrativo", "Defunción" e "Inscripción de sentencias ejecutoriadas", que declaren la emancipación, la ausencia, la presunción de muerte, la tutela y la pérdida o la limitación de la capacidad legal para administrar bienes. Las formas del Registro Civil serán expedidas por el Ejecutivo del Estado o por quien éste designe.
+Los oficiales del Registro Civil tendrán bajo su responsabilidad formas especiales por quintuplicado en las que se asentarán actas de "Nacimiento", "Reconocimiento de Hijos", "Adopción", "Matrimonio", "Divorcio Administrativo", "Defunción" e "Inscripción de sentencias ejecutoriadas", que declaren la dispensa del juez competente, la ausencia, la presunción de muerte, la tutela y la pérdida o la limitación de la capacidad legal para administrar bienes. Las formas del Registro Civil serán expedidas por el Ejecutivo del Estado o por quien éste designe.
 
 ###### ARTICULO 65.
 
@@ -899,11 +903,11 @@ Documentos
 
 Al escrito a que se refiere el artículo anterior se acompañará:
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I.- Copias certificadas de las actas de nacimiento y, en su defecto, un dictamen médico que compruebe su edad cuando por su aspecto no sea notorio que el varón y la mujer son mayores de dieciséis años;
+I.- Copias certificadas de las actas de nacimiento y, en su defecto, un dictamen médico que compruebe su edad cuando por su aspecto no sea notorio que el varón y la mujer son mayores de dieciocho años;
 
-II.- La constancia de que otorgan su consentimiento las personas a que se refieren los artículos 155 y 156, para que el matrimonio se celebre bajo el régimen económico señalado por los pretendientes;
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal alguno para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
@@ -935,6 +939,8 @@ Celebración
 
 En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Oficial del Registro Civil, los pretendientes o su apoderado especial constituido en la forma prevista por el artículo 68 de este Código y los testigos a que se refiere la fracción III del artículo 116. Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que a ella se hayan acompañado y las diligencias practicadas e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y, si están conformes, los declarará unidos en el nombre de la ley y de la sociedad, dirigiéndoles una exhortación sobre las finalidades del matrimonio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 120.
 
 Constancia de celebración
@@ -943,11 +949,15 @@ Se levantará el acta de matrimonio en que se hará constar:
 
 I.- Nombres, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
 
-II.- Si son mayores o menores de edad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II.- Que son mayores de edad, salvo las excepciones que este Código establece.
 
 III.- Nombres, domicilio y nacionalidad de sus padres;
 
-IV.- El consentimiento de éstos, de los abuelos o tutores o de las autoridades que deban suplirlo si son menores de edad los contrayentes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV.- El consentimiento de los contrayentes o de las autoridades que deban suplirlo, si son menores de edad;
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -1253,51 +1263,33 @@ El matrimonio debe celebrarse ante los funcionarios que establece la ley y con l
 
 Habrá concubinato cuando una pareja de hombre y mujer, sin impedimento para contraer matrimonio vivan juntos públicamente como si fueran marido y mujer, durante un año, o menos si hubiere hijos.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 154.
 
-Quiénes pueden contraerlo.
+Quiénes pueden contraerlo
 
-Pueden contraer matrimonio: el hombre y la mujer que han cumplido dieciséis años de edad. El Gobernador del Estado o el Presidente Municipal del lugar, pueden conceder dispensa, en casos excepcionales y por causas graves y justificadas.
+Pueden contraer matrimonio: el hombre y la mujer que han cumplido dieciocho años de edad. El Gobernador del Estado o el Presidente Municipal del lugar, pueden conceder dispensa, en casos excepcionales y por causas graves y justificadas.
 
 ###### ARTICULO 155.
 
-Del menor de edad
-
-Para que el menor de edad, cualquiera que sea su sexo, pueda contraer matrimonio, se requiere:
-
-I.- El consentimiento del ascendiente o de los ascendientes que ejerzan la patria potestad; y
-
-II.- Si no hay quien ejerza la patria potestad, se necesita el consentimiento del tutor y, faltando éste, el Juez de primera instancia del domicilio del menor suplirá el consentimiento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 156.
 
-Consentimiento en caso de menores
-
-Quienes han prestado y ratificado su consentimiento ante el Oficial del Registro Civil, no pueden revocarlo, a menos que haya justa causa para ello; tampoco podrán revocarlo quienes los sustituyan.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 157.
 
-Suplencia del consentimiento por la autoridad.
-
-Cuando los ascendientes o tutores nieguen su consentimiento y su disenso no parezca racional, podrá recurrir el interesado al Juez de Primera Instancia, quien después de obtener información sobre el particular suplirá dicho consentimiento, según lo estime conducente a los intereses del menor; pero sin esta habilitación, el matrimonio no podrá celebrarse.
-
-Si se niega el consentimiento, el interesado podrá ocurrir al Tribunal Superior de Justicia, en los términos que señale el Código de Procedimientos Civiles.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 158.
 
-Fallecimiento de quien otorga el consentimiento
-
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 118.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 159.
 
-Revocación del consentimiento del Juez
-
-Solamente por causa justa superveniente, el Juez que hubiera autorizado a un menor para contraer matrimonio, podrá revocar el consentimiento otorgado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 160.
 
@@ -1307,7 +1299,7 @@ Son impedimentos para celebrar el matrimonio:
 
 I.- La falta de edad requerida por la ley;
 
-II.- La falta de consentimiento del que, o de los que conforme a la ley, tienen la patria potestad, del tutor o del Juez en sus respectivos casos;
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 III.- El error, cuando sea esencialmente sobre la persona;
 
@@ -1331,7 +1323,9 @@ XII.- La disminución o perturbación de la inteligencia; y
 
 XIII.- El vínculo de un matrimonio anterior subsistente al tiempo en que se pretenda contraer otro.
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+De estos impedimentos sólo son dispensables la falta de edad, en los casos previstos por este Código, y el parentesco de consanguinidad en línea colateral desigual.
 
 ###### ARTICULO 161.
 
@@ -1343,13 +1337,17 @@ Impedimento por adopción
 
 El adoptante o los ascendientes de éste no pueden contraer matrimonio con el adoptado o sus descendientes, en tanto dure el lazo jurídico resultante de la adopción.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 163.
 
 Impedimento por tutela
 
-Quien haya desempeñado la tutela no puede contraer matrimonio con quien ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se concederá por el Gobernador del Estado o por el servidor público a quien éste comisione para ello, sino cuando hayan sido aprobadas legalmente las cuentas de la tutela. La prohibición contenida en este artículo comprende también a los curadores y a los ascendientes y descendientes de éstos y de los tutores.
+Quien desempeñe el cargo de tutor, en ningún caso podrá contraer matrimonio con quien esté bajo su tutela.
 
-Si el matrimonio se celebra en contravención a lo dispuesto en el párrafo anterior, el Juez designará a quien, ejerciendo interinamente la tutela, reciba los bienes y los administre, mientras se obtiene la dispensa. En el caso de la primera parte del párrafo anterior, el régimen patrimonial del matrimonio será el de separación de bienes; aunque el matrimonio se hubiere contraído bajo el régimen de sociedad conyugal expresa o tácitamente.
+Quien haya desempeñado la tutela no puede contraer matrimonio con quien hubiere estado bajo su guarda, a no ser que obtenga dispensa del Juez competente, cuando hayan sido aprobadas legalmente las cuentas de la tutela. La prohibición contenida en este artículo comprende también a los curadores y a los ascendientes y descendientes de éstos y de los tutores.
+
+En todos los casos previstos en este Artículo el régimen patrimonial del matrimonio será el de separación de bienes, aunque el matrimonio se hubiere contraído bajo el régimen de sociedad conyugal expresa o tácitamente.
 
 ###### ARTICULO 164.
 
@@ -1837,45 +1835,19 @@ La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge 
 
 ###### ARTICULO 232.
 
-Cuándo no procede la nulidad
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-Los dieciséis años en el hombre y la mujer dejarán de ser causa de nulidad:
-
-I.- Cuando haya habido hijos;
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-II.- Cuando, aunque no haya habido hijos, el menor de los cónyuges o ambos hubieren llegado a los dieciocho años, sin que ni uno u el otro hubieren intentado la nulidad; y
-
-III.- Cuando antes de declararse ejecutoriada la resolución de nulidad, se obtuviese la dispensa de edad o la esposa se halle encinta.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 233.
 
-Quiénes podrán alegarla
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquélla o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 234.
 
-Cuándo cesa
-
-Cesa la causa de nulidad establecida en el artículo que precede:
-
-I.- Si han pasado los treinta días sin que se haya reclamado; y
-
-II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los esposos a vivir en su casa, presentando a la prole como de los consortes en el Registro Civil, o practicando otros actos que a juicio del Juez sean tan conducentes al efecto, como los expresados.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 235.
 
-Término
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-La nulidad por falta de consentimiento del tutor o del Juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella, se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 236.
 
@@ -1995,6 +1967,8 @@ Mujer encinta
 
 Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomarán las precauciones a que se refiere el Capítulo I del Título Quinto del Libro Tercero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 254.
 
 Matrimonio ilícito
@@ -2003,15 +1977,21 @@ Es ilícito y, además, nulo el matrimonio:
 
 I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa; y
 
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 163, y cuando se celebre sin que haya transcurrido el término fijado en el artículo 161.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-En los casos anteriores, la nulidad sólo podrá ser exigida por el Ministerio Público y dentro del término de noventa días de celebrado el matrimonio.
+II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 163.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En los casos anteriores, la nulidad sólo podrá ser exigida por quien acredite interés jurídico o por el Ministerio Público, dentro del término de noventa días de celebrado el matrimonio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 255.
 
 Sanciones por infracción
 
-Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del Juez, en sus respectivos casos, y los que autoricen los matrimonios, incurrirán en los delitos que señale el Código de la materia.
+Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor y quienes en contravención de la ley autoricen los matrimonios con menores de edad, incurrirán en los delitos que señale el Código de la materia.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -3445,9 +3425,7 @@ La nulidad que establecen los dos artículos anteriores no comprende los actos d
 
 ###### ARTICULO 412.
 
-Nulidad de actos realizados por el emancipado
-
-Son nulos los actos realizados por el emancipado sin la autorización judicial o del tutor, respectivamente, si estos actos están comprendidos en los enumerados en el artículo 445.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 413.
 
@@ -3489,11 +3467,13 @@ Obligación de respeto hacia los ascendientes
 
 Los descendientes, cualquiera que sea su estado, edad o condición, deben honrar y respetar a sus padres y demás ascendientes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 418.
 
-Patria potestad de los no emancipados
+Patria potestad
 
-Los hijos menores de edad no emancipados están bajo la patria potestad, mientras exista alguno de los ascendientes a quienes corresponde aquélla, según la ley.
+Los hijos menores de edad están bajo la patria potestad, mientras exista alguno de los ascendientes a quienes corresponde aquélla, según la ley.
 
 ###### ARTICULO 419.
 
@@ -3659,11 +3639,7 @@ Si el obligado a dar fianza en los casos de este artículo no lo hiciere dentro 
 
 ###### ARTICULO 440.
 
-Administración del hijo
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-Cuando por la ley o por la voluntad de los padres el hijo tenga la administración como emancipado, será con las restricciones que establece la ley para enajenar, gravar o hipotecar bienes raíces.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 441.
 
@@ -3673,7 +3649,9 @@ Extinción del usufructo
 
 El derecho de usufructo concedido a las personas que ejerzan la patria potestad se extingue:
 
-I.- Por la emancipación o la mayor edad del hijo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I.- Por la mayor edad del hijo;
 
 II.- Por la pérdida de la patria potestad; y
 
@@ -3733,6 +3711,8 @@ Facultades del Juez para proteger los bienes del menor
 
 Los jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del hijo se derrochen o se disminuyan.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 450.
 
 Entrega y rendición de cuentas
@@ -3749,7 +3729,7 @@ La patria potestad se acaba:
 
 I.- Por la muerte del hijo, del que la ejerce, si no hay otra persona en quien recaiga, así como por la declaración de fallecimiento;
 
-II.- Por la emancipación del hijo;
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 III.- Por la mayor edad del hijo; y
 
@@ -3871,11 +3851,7 @@ IV.- Los ebrios consuetudinarios y quienes habitualmente hacen uso no terapéuti
 
 ###### ARTICULO 461.
 
-Incapacidad de los emancipados
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-Los menores de edad emancipados tienen incapacidad para realizar los actos que indica la ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 462.
 
@@ -3999,11 +3975,13 @@ Tutor especial
 
 En el primer caso, si los intereses de algunos de los menores fueren opuestos a los de los otros, el tutor lo pondrá en conocimiento del Juez, quien nombrará un tutor especial que defienda los intereses de los menores con intereses opuestos, mientras se decide el punto de oposición.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 480.
 
 Tutor para la administración de los bienes
 
-El que en su testamento deja bienes, sea por legado, sea por herencia, a un incapaz que no está bajo su patria potestad ni en la de otro, puede nombrarle tutor sólo para la administración de los bienes que le deja. Si el testador es un menor no emancipado, puede hacer también el nombramiento de tutor a que se refiere el párrafo anterior.
+El que en su testamento deja bienes, sea por legado, sea por herencia, a un incapaz que no está bajo su patria potestad ni en la de otro, puede nombrarle tutor sólo para la administración de los bienes que le deja. Si el testador es un menor, puede hacer también el nombramiento de tutor a que se refiere el párrafo anterior.
 
 ###### ARTICULO 481.
 
@@ -4045,9 +4023,7 @@ En ningún otro caso ha lugar a la tutela testamentaria del incapacitado.
 
 ###### ARTICULO 487.
 
-Tampoco la del menor emancipado
-
-Tampoco ha lugar a la tutela testamentaria del menor de edad emancipado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 488.
 
@@ -4207,11 +4183,7 @@ III.- Si el tutor testamentario o legítimo es coheredero o tiene cualquiera otr
 
 ###### ARTICULO 508.
 
-Para asuntos judiciales
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 509.
 
@@ -5101,11 +5073,13 @@ Cuándo se cancelará la garantía
 
 La garantía dada por el tutor, no se cancelará sino cuando las cuentas hayan sido aprobadas y todos los bienes entregados a quien corresponda.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 616.
 
 Nulidad de convenio entre tutor y pupilo
 
-Hasta pasado un mes de la rendición y aprobación definitiva de las cuentas, es nulo todo convenio entre tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
+Hasta pasado un mes de la rendición y aprobación definitiva de las cuentas, es nulo todo convenio de quien se haya desempeñado como tutor con la persona que haya estado bajo su tutela, relativo a la administración de la tutela o a las cuentas mismas.
 
 ### CAPITULO XIII. DE LA ENTREGA DE LOS BIENES
 
@@ -5263,15 +5237,13 @@ Quiénes pueden nombrar
 
 Los que tienen derecho de nombrar tutor, lo tienen también de nombrar curador.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 639.
 
 Cuándo será nombrado por sí mismo
 
-Nombrarán por sí mismos al curador con aprobación judicial:
-
-I.- Los comprendidos en el artículo 506, con la limitación que expresa el mismo artículo; y
-
-II.- Los menores de edad enmancipados (sic) por razón del matrimonio, en el caso previsto en la fracción II del artículo 647.
+Nombrarán por sí mismos al curador con aprobación judicial, los comprendidos en el artículo 506, con la limitación que expresa el mismo artículo.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -5321,27 +5293,17 @@ Honorarios
 
 En los casos en que, conforme a este Código, tenga que intervenir el curador, cobrará los honorarios que señale el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo, regirá respecto de él lo dispuesto en el artículo 608.
 
-TITULO DECIMOCUARTO
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-DE LA EMANCIPACION
+TITULO DECIMOCUARTO
 
 ###### ARTICULO 646.
 
-Cuándo se produce
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-El matrimonio del menor de edad produce su emancipación. Aunque el vínculo matrimonial se extinga, el emancipado menor no recaerá en la patria potestad.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 647.
 
-Administración de sus bienes
-
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante la menor edad:
-
-I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces; y
-
-II.- De un tutor para los negocios judiciales.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 TITULO DECIMOQUINTO
 
@@ -5969,6 +5931,8 @@ Valor máximo
 
 El valor máximo de los bienes afectos al patrimonio de familia, será el equivalente a diez mil días del salario mínimo general vigente en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 733.
 
 Requisitos para su constitución
@@ -5979,7 +5943,9 @@ Requisitos para su constitución
 
 El que quiera constituir el patrimonio, lo manifestará por escrito al Juez de Primera Instancia de su domicilio, designando con toda precisión y de manera que puedan ser inscritos gratuitamente en el Registro Público de la Propiedad los bienes que van a quedar afectos al expresado patrimonio. Además, comprobará lo siguiente:
 
-I.- Que es mayor de edad o que está emancipado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I.- Que es mayor de edad;
 
 II.- Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
 
@@ -25584,3 +25550,9 @@ SEGUNDO.- Las motocicletas “moto taxi” que tengan actividad legal dentro del
 TERCERO.- Las obligaciones relativas al Impuesto Vehicular Estatal que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en el capítulo séptimo de esta Ley vigente hasta el 31 de diciembre de 2014, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones fiscales aplicables.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
