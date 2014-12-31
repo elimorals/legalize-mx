@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-para-la-operacion-de-corrales-de-acopio-de-77504"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-24"
-last_updated: "2010-11-24"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # REGLAMENTO PARA LA OPERACION DE CORRALES DE ACOPIO DE GANADO BOVINO, EN EL ESTADO DE ZACATECAS
 
-REGLAMENTO PARA LA OPERACION DE CORRALES DE ACOPIO DE GANADO BOVINO DEL ESTADO DE ZACATECAS
+REGLAMENTO PARA LA OPERACIÓN DE CORRALES DE ACOPIO DE GANADO BOVINO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 24 de noviembre de 2010.
 
@@ -69,7 +69,9 @@ I. Ley: A la Ley de Fomento a la Ganadería del Estado de Zacatecas;
 
 II. Reglamento: Al presente Reglamento para la Operación de Corrales de Acopio de Ganado Bovino;
 
-III. Secretaría: A la Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Secretaría: A la Secretaría del Campo.
 
 IV. Corral de Acopio de Ganado Bovino: Al e stablecimiento (sic) con registro ante la Secretaría, con infraestructura para reunir recibir, manipular, alojar, alimentar, vender o comprar ganado bovino del Estado y otras Entidades Federativas; y
 
@@ -230,3 +232,13 @@ ESAÚ HERNÁNDEZ HERRERA
 EL SECRETARIO DE DESARROLLO AGROPECUARIO
 
 ENRIQUE FLORES MENDOZA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
