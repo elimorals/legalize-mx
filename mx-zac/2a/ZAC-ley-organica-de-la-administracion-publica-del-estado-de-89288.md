@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-89288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-04"
-last_updated: "2014-12-03"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA PRESENTE LEY ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2013.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 4 de agosto de 2012.
 
@@ -37,7 +35,7 @@ DECRETO # 378
 
 LA HONORABLE SEXAGÉSIMA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO DECRETA
 
-RESULTANDO .
+RESULTANDO ...
 
 Por todo lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 65, fracción I de la Constitución Política del Estado; 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de decretarse y se
 
@@ -387,7 +385,7 @@ Tratándose de programas de vivienda en los que intervenga el Gobierno del Estad
 
 XXIV. Administrar y operar los talleres gráficos del Ejecutivo del Estado y coordinar, conjuntamente con las dependencias y entidades interesadas, la edición de publicaciones oficiales;
 
-XXV. Editar, publicar y distribuir el Periódico Oficial, Órgano del Gobierno del Estado;
+XXV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 XXVI. Coadyuvar y en su caso, realizar la logística de los eventos oficiales y especiales del Ejecutivo del Estado, y
 
@@ -1109,9 +1107,13 @@ VIII. Revisar o en su caso elaborar los proyectos de ley, reglamentos y cualquie
 
 IX. Coordinar con la Secretaría General de Gobierno la presentación de las iniciativas de ley o decreto del Ejecutivo Estatal, ante la Legislatura del Estado;
 
-X. Ordenar la publicación en el Periódico Oficial, Órgano del Gobierno del Estado, de las leyes y decretos que expida el Ejecutivo Estatal, así como las demás disposiciones que deban regir en la Entidad en coordinación con la Secretaría de Administración, de conformidad con lo dispuesto en la Ley del Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XI. Compilar y publicar las leyes, decretos, reglamentos, acuerdos y demás disposiciones legales vigentes en el Estado;
+X. Editar, publicary (sic) distribuir en el Periódico Oficial, Órgano del Gobierno del Estado, de las leyes y decretos que expida el Ejecutivo Estatal, así como las demás disposiciones que deban regir en la Entidad, de conformidad con lo dispuesto en la Ley del Periódico Oficial del Estado de Zacatecas y de sus Municipios;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XI. Compilar las leyes, decretos, reglamentos, acuerdos y demás disposiciones legales vigentes en el Estado;
 
 XII. Llevar el registro de los convenios y acuerdos de coordinación y concertación que tenga celebrados el Estado con la Federación, los ayuntamientos y los sectores social y privado;
 
@@ -1430,3 +1432,7 @@ Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente D
 Tercero.- Se abroga el Decreto 605, por el que se reforman diversos ordenamientos legales para dar vigencia al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 2 al No. 40 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de mayo de 2013. Y se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo a la publicación de la presente reforma, se desahogarán y resolverán de conformidad con la Ley de Fraccionamientos Rurales, sin ordenarse la expedición del título, por lo que al momento de certificar la zona a la que pertenezca el inmueble e inicie el proceso de obtención del dominio pleno, el acuerdo de adjudicación servirá para acreditar el derecho que le asiste al interesado. Por tanto se remitirá el acuerdo al Organismo Regularizador de la Tenencia de la Tierra para que expida la escritura privada correspondiente.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Artículo Único.- El presente decreto entrara en vigor al momento de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
