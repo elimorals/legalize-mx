@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2014-11-19"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -123,7 +123,7 @@ Que por otra parte, se hace expresa la disposición de que cada Municipio cuente
 
 Que en lo que hace al contralor se trasladan su estructura, forma de nombramiento y requisitos a un capítulo especial, puesto que en la ley vigente aparece dentro de las facultades del Ayuntamiento. En el apartado de la Tesorería se consigna la obligación de que esté presente el contralor en diversos actos jurídicos.
 
-Que en lo que toca al cronista y con ánimo de fortalecer las facultades reglamentarias del municipio se hace un ajuste substancial a los artículos que se refieren a esta figura para que el Ayuntamiento, en uso de sus facultades, regulen esta importante función.
+Que en lo que toca al cronista y con ánimo de fortalecer las facultades reglamentarias del municipio se hace un ajuste substancial a los artículos que se refieren a esta figura para que el Ayuntamiento, en uso de sus facultades, regulen (sic) esta importante función.
 
 Que como novedad es importante consignar que esta ley desarrolla un capítulo referente a la Oficialía del Registro Civil, figura jurídica que en la ley actual está prevista marginalmente como facultad del Ayuntamiento para nombrar al responsable de esta oficina.
 
@@ -151,6 +151,10 @@ LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
 Las normas contenidas en la presente Ley, son de orden público y de observancia general en el Estado de Morelos y tienen por objeto establecer las disposiciones para la integración, organización del territorio, población, gobierno y administración pública de los Municipios del Estado de Morelos. Tiene su fundamento en el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y el Título Sexto de la Constitución Política del Estado Libre y Soberano de Morelos.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La administración pública municipal, en el ámbito de su competencia cumplirá en todo momento las disposiciones que en materia de Derechos Humanos se implementen, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos, así como de los Tratados y Convenciones Internacionales de los que México forme parte.
+
 ###### Artículo 2.
 
 El Municipio libre constituye la base de la división territorial y de la organización política y administrativa del Estado Mexicano. Es una entidad de carácter público, dotado de personalidad jurídica y patrimonio propio; susceptible de derechos y obligaciones, autónomo en su régimen interior y con libertad para administrar e integrar su hacienda, conforme a las disposiciones constitucionales, la presente Ley y demás Leyes en la materia que apruebe el Congreso.
@@ -159,9 +163,11 @@ El Municipio libre constituye la base de la división territorial y de la organi
 
 La representación política y administrativa de los Municipios en todos los asuntos relacionados con la Federación o con las demás Entidades Federativas, corresponde al Ejecutivo del Estado, como representante de la entidad, con excepción en los casos de aplicación de Leyes Federales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-Los Municipios del Estado regularán su funcionamiento de conformidad con lo que establece esta Ley, los ordenamientos federales y estatales, bandos municipales, reglamentos y circulares, disposiciones administrativas de demás disposiciones aplicables. Las autoridades municipales tienen competencia plena y exclusiva sobre su territorio y población, así como en lo concerniente a su organización política y administrativa, con las limitaciones que señalen las propias Leyes.
+Los Municipios del Estado, regularán su funcionamiento de conformidad con lo que establecen los derechos humanos, esta Ley, los ordenamientos federales y estatales, bandos municipales, reglamentos y circulares, disposiciones administrativas y demás disposiciones aplicables. Las autoridades municipales tienen competencia plena y exclusiva sobre su territorio y población, así como en lo concerniente a su organización política y administrativas (sic), con las limitaciones que señalen las propias Leyes.
 
 Los Ayuntamientos están facultados para elaborar, aprobar y publicar compendios municipales que comprendan toda la reglamentación vigente aplicable en el ámbito municipal.
 
@@ -2235,7 +2241,7 @@ Cuando las licitaciones a que se hace referencia en el artículo anterior no sea
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2012)</small>
 
-Con el propósito de preservar las fuentes deempleo, el Ayuntamiento podrá disponer, de se s aun diez por ciento como máximo, del total delpresupuesto anual destinado a las adquisiciones oprestaciones de servicios, contratando para ello amicro o pequeños empresarios de la misma Iocalidadmunicipal. Los recursos en ningún caso podráninvolucrar aportaciones o subsidios de origen federal oestatal. (sic)
+Con el propósito de preservar las fuentes deempleo, el Ayuntamiento podrá disponer, de se s aun diez por ciento como máximo, del total delpresupuesto anual destinado a las adquisiciones oprestaciones de servicios, contratando para ello amicro o pequeños empresarios de la misma localidadmunicipal. Los recursos en ningún caso podráninvolucrar aportaciones o subsidios de origen federal oestatal. (sic)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3530,6 +3536,20 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
 
 ###### ARTÍCULO TERCERO.
 
