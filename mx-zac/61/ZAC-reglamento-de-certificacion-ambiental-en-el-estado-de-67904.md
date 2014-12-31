@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-certificacion-ambiental-en-el-estado-de-67904"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-14"
-last_updated: "2009-03-14"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # REGLAMENTO DE CERTIFICACION AMBIENTAL EN EL ESTADO DE ZACATECAS
 
-REGLAMENTO DE CERTIFICACION AMBIENTAL EN EL ESTADO DE ZACATECAS
+REGLAMENTO DE CERTIFICACIÓN AMBIENTAL EN EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 14 de marzo de 2009.
 
@@ -41,9 +41,11 @@ REGLAMENTO DE CERTIFICACIÓN AMBIENTAL EN EL ESTADO DE ZACATECAS
 
 El presente Reglamento de Certificación Ambiental, es de orden público e interés social, tiene por objeto dar cumplimiento a las disposiciones de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-El Ejecutivo del Estado, es el responsable de la aplicación y vigilancia del presente ordenamiento a través del Instituto de Ecología y Medio Ambiente del Estado de Zacatecas.
+El Ejecutivo del Estado, es el responsable de la aplicación y vigilancia del presente ordenamiento a través de la Secretaría del Agua y Medio Ambiente.
 
 ###### Artículo 3.
 
@@ -63,9 +65,15 @@ VI. Emisión contaminante: La descarga directa o indirecta de toda sustancia o e
 
 VII. Tratamiento: a la acción de transformar los residuos, por medio de la cual se cambian sus características.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VIII. Secretaría: A la Secretaría del Agua y Medio Ambiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-Las empresas o establecimientos que deberán presentar el reporte anual de certificación ante el Instituto son:
+Las empresas o establecimientos que deberán presentar el reporte anual de certificación ante la Secretaría son:
 
 I. Zonas y parques industriales;
 
@@ -85,19 +93,29 @@ VIII. Establecimientos industriales, agroindustriales, de transformación, manuf
 
 Asimismo están obligadas a la observancia de las disposiciones de este Reglamento, todas las empresas o establecimientos de jurisdicción estatal que pretendan realizar o realicen obras o actividades por las que se emitan ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas, descarga de aguas, contaminación atmosférica, contaminación visual, olores y cualquier tipo de residuos perjudiciales al equilibrio ecológico o al ambiente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 5.
 
-Toda persona que inicie algún trámite ante el Instituto, deberá acudir ante el mismo, a fin de conocer sus resoluciones.
+Toda persona que inicie algún trámite ante la Secretaría, deberá acudir ante el mismo, a fin de conocer sus resoluciones.
 
-### CAPÍTULO II. De las Atribuciones del Instituto
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO II
+
+De las Atribuciones de la Secretaría.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
-Además de las atribuciones que le corresponden al Instituto, las autoridades federales y municipales en los términos de los convenios de coordinación, podrán actuar como autoridades auxiliares en la aplicación de este Reglamento.
+Además de las atribuciones que le corresponden a la Secretaría, las autoridades federales y municipales en los términos de (sic) de los convenios de coordinación podrán actuar como autoridades auxiliares en la aplicación de este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 7.
 
-Además de las establecidas en la Ley, el Instituto tendrá las siguientes facultades:
+Además de las establecidas en la Ley, la Secretaría tendrá las siguientes facultades:
 
 I. Emitir las disposiciones administrativas de carácter general que tengan por finalidad la prevención y control de la contaminación del suelo, las aguas y la atmósfera, generada por empresas o establecimientos de jurisdicción estatal;
 
@@ -115,9 +133,11 @@ VII. Establecer con las organizaciones empresariales, convenios para presentar s
 
 VIII. Sancionar a las empresas o establecimientos, que incumplan las disposiciones contenidas en el presente Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 8.
 
-El Instituto determinará un programa dirigido a la realización de la Certificación y supervisará su ejecución, en congruencia con los lineamientos establecidos en esta materia en la Ley, para tal efecto deberá:
+La Secretaría determinará un programa dirigido a la realización de la Certificación y supervisará su ejecución, en congruencia con los lineamientos establecidos en esta materia en la Ley, para tal efecto deberá:
 
 I. Elaborar los términos de referencia, así como los formatos que establezcan la metodología para su realización, que deberá contener los siguientes requisitos:
 
@@ -129,7 +149,9 @@ c) Antecedentes en materia de impacto ambiental, generación de contaminantes at
 
 II. Establecer un registro de peritos y certificadores ambientales, determinando los procedimientos y requisitos que deberán cumplir, así como observar lo dispuesto por la Ley Federal sobre Metrología y Normalización;
 
-III. El Instituto integrará un Comité Técnico, constituido por representantes de instituciones de investigación, colegios y asociaciones profesionales y organizaciones del sector industrial;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. La Secretaría integrará un Comité Técnico, constituido por representantes de instituciones de investigación, colegios y asociaciones profesionales y organizaciones del sector industrial;
 
 IV. Desarrollar programas de capacitación en materia de peritajes y Certificación;
 
@@ -137,15 +159,19 @@ V. Instrumentar un sistema de reconocimientos y estímulos que permita identific
 
 ### CAPÍTULO III. De las Obligaciones de las Empresas o Establecimientos
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 9.
 
-Las emisiones de ruido, vibraciones, descarga de aguas, contaminación visual, olores, gases, partículas y sustancias sólidas o líquidas perjudiciales al equilibrio ecológico o al ambiente generadas por empresas o establecimientos de jurisdicción estatal, no deberán exceder los niveles máximos permisibles de emisión, por contaminantes y por fuentes de contaminación que se establezcan en las Normas Oficiales Mexicanas y en las Normas Técnicas Estatales Ambientales que para tal efecto expida el Instituto.
+Las emisiones de ruido, vibraciones, descarga de aguas, contaminación visual, olores, gases, partículas y sustancias sólidas o liquidas perjudiciales al equilibrio ecológico o al ambiente generadas por empresas o establecimientos de jurisdicción estatal, no deberán exceder los niveles máximos permisibles de emisión, por contaminantes y por fuentes de contaminación que se establezcan en las Normas Oficiales Mexicanas y en las Normas Técnicas Estatales Ambientales que para tal efecto expida la Secretaría.
 
 ###### Artículo 10.
 
 Los propietarios de empresas o establecimientos de jurisdicción estatal, por las que se emitan ruido, vibraciones, descarga de aguas, contaminación visual, olores, gases o partículas sólidas o líquidas al ambiente estarán obligados a:
 
-I. Inscribirse ante el Instituto, presentando el Reporte Anual de Certificación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Inscribirse ante la Secretaría, presentando el Reporte Anual de Certificación;
 
 II. Obtener anualmente el Certificado de cualquiera de los niveles correspondientes;
 
@@ -153,17 +179,27 @@ III. Emplear equipos o sistemas que controlen las emisiones contaminantes en cua
 
 IV. Instalar y operar equipos o sistemas de control de emisiones contaminantes, para emisiones no normadas o específicas;
 
-V. Informar al Instituto sobre cualquier cambio en sus procesos, combustibles o actividades, volúmenes de producción y de emisiones de contaminantes, posteriores a la fecha de otorgamiento del Certificado obtenido;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-VI. Integrar un inventario de sus emisiones contaminantes, en los formatos de trámite de Certificación, que para tal afecto elabore el Instituto y entregarlos al mismo anualmente;
+V. Informar a la Secretaría sobre cualquier cambio en sus procesos, combustibles o actividades, volúmenes de producción y de emisiones de contaminantes, posteriores a la fecha de otorgamiento del Certificado obtenido;
 
-VII. En el caso de emitir contaminantes atmosféricos, contar con plataformas y puertos de muestreo, así como llevar a cabo el monitoreo perimetral y puntual de sus emisiones, en los períodos que determine el Instituto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VI. Integrar un inventario de sus emisiones contaminantes, en los formatos de trámite de Certificación, que para tal afecto (sic) elabore la Secretaría y entregarlos al mismo anualmente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VII. En el caso de emitir contaminantes atmosféricos, contar con plataformas y puertos de muestreo, así como llevar a cabo el monitoreo perimetral y puntual de sus emisiones, en los períodos que determine la Secretaría;
 
 VIII. Cuando la fuente de que se trate, se localice en zonas urbanas y suburbanas, colinde con áreas naturales protegidas, cause molestias a los vecinos y que por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro a los ecosistemas;
 
-IX. Llevar y mantener actualizadas bitácoras de sus procesos industriales de generación de residuos, así como de operación y mantenimiento de cada uno de sus equipos de proceso y de control, las cuales deberán registrarse ante el Instituto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-X. Dar aviso inmediato al Instituto en el caso de falla de los equipos de control de emisiones contaminantes, a fin de que éste determine lo conducente;
+IX. Llevar y mantener actualizadas bitácoras de sus procesos industriales de generación de residuos, así como de operación y mantenimiento de cada uno de sus equipos de proceso y de control, las cuales deberán registrarse ante la Secretaría;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+X. Dar aviso inmediato a la Secretaría en el caso de falla de los equipos de control de emisiones contaminantes, a fin de que éste determine lo conducente;
 
 XI. Ejecutar las acciones y medidas que se determinen para el caso de declararse contingencia ambiental; y
 
@@ -175,9 +211,11 @@ XII. Las demás que establezcan la Ley, el presente Reglamento y demás disposic
 
 Los productores, empresas o establecimientos deberán implementar procesos internos de regulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando la legislación y normatividad vigente en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 12.
 
-Para obtener la Certificación, los propietarios de las empresas o sus representantes legales, deberán presentar al Instituto, el Reporte Anual de Certificación, en donde requisite y acredite con documento idóneo la siguiente información:
+Para obtener la Certificación, los propietarios de las empresas o sus representantes legales, deberán presentar a la Secretaría, el Reporte Anual de Certificación, en donde requisite y acredite con documento idóneo la siguiente información:
 
 I. Datos generales del solicitante;
 
@@ -207,41 +245,59 @@ c) horarios de operación;
 
 XI. Información técnica en la que se incluya, diagrama de flujo y descripción detallada de sus procesos o servicios con sus límites y actividades;
 
-XII. Documentación probatoria que el Instituto requiera para su cotejo; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XII. Documentación probatoria que la Secretaría requiera para su cotejo; y
 
 XIII. Las medidas de remediación y protección ambiental a las que se compromete durante y al término de la actividad.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-Recibida la solicitud, en un plazo no mayor a treinta días hábiles contados a partir de su recepción, el Instituto emitirá respuesta por escrito al promovente, en la que determinará si la información y documentación presentada cumple con lo establecido en el artículo anterior.
+Recibida la solicitud, en un plazo no mayor a treinta días hábiles contados a partir de su recepción, la Secretaría emitirá respuesta por escrito al promovente, en la que determinará si la información y documentación presentada cumple con lo establecido en el artículo anterior.
 
-En el supuesto de que la información proporcionada no reúna los requisitos, el Instituto requerirá la información adicional o complementaría que considere necesaria, concediendo al promovente veinte días hábiles para su presentación; de no hacerse en este término o de no cumplir en su totalidad con el requerimiento, la solicitud se desechará y se considerara negada.
+En el supuesto de que la información proporcionada no reúna los requisitos, la Secretaría requerirá la información adicional o complementaria que considere necesaria, concediendo al promovente veinte días hábiles para su presentación; de no hacerse en este término o de no cumplir en su totalidad con el requerimiento, la solicitud se desechará y se considerara negada.
 
-Cuando el solicitante haya cumplido en tiempo y forma con el requerimiento a que se refiere el párrafo anterior, el Instituto deberá emitir en el término de diez días hábiles, respuesta en la que determine el tipo de certificado que obtuvo de acuerdo al nivel de cumplimiento.
+Cuando el solicitante haya cumplido en tiempo y forma con el requerimiento a que se refiere el párrafo anterior, la Secretaría deberá emitir en el término de diez días hábiles, respuesta en la que determine el tipo de certificado que obtuvo de acuerdo al nivel de cumplimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 14.
 
-Una vez evaluado el Reporte Anual de Certificación Ambiental, el Instituto debidamente fundado y motivado emitirá el certificado de acuerdo al tipo de cumplimiento que podrá ser:
+Una vez evaluado el Reporte Anual de Certificación Ambiental, la Secretaría debidamente fundado y motivado emitirá el certificado de acuerdo al tipo de cumplimiento que podrá ser:
 
-I. Pre certificado: Documento por la cual el Instituto ordena a la empresa o establecimiento un programa de mejora en sus actividades y procedimientos, una vez detectadas las anomalías y fijadas las observaciones correctivas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II. Certificación Ambiental Estatal: Documento por la cual el Instituto acredita que la empresa o establecimiento cumple con la normatividad establecida; y
+I. Pre certificado: Documento por la cual la Secretaría ordena a la empresa o establecimiento un programa de mejora en sus actividades y procedimientos, una vez detectadas las anomalías y fijadas las observaciones correctivas;
 
-III. Certificación de Calidad Ambiental Estatal: Documento mediante el cual el Instituto reconoce el cumplimiento ambiental adecuado de una empresa, durante un periodo continuo de tres años con la aplicación efectiva de sistemas de calidad ambiental y de responsabilidad social.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. Certificación Ambiental Estatal: Documento por la cual la Secretaría acredita que la empresa o establecimiento cumple con la normatividad establecida; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Certificación de Calidad Ambiental Estatal: Documento mediante el cual la Secretaría reconoce el cumplimiento ambiental adecuado de una empresa, durante un periodo continuo de tres años con la aplicación efectiva de sistemas de calidad ambiental y de responsabilidad social.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 15.
 
-El Instituto podrá emitir resolución de incumplimiento de trámite de Certificación Ambiental Estatal cuando derivado del Reporte Anual de Certificación se detecten anomalías graves en el desempeño ambiental.
+La Secretaría podrá emitir resolución de incumplimiento de trámite de Certificación Ambiental Estatal cuando derivado del Reporte Anual de Certificación se detecten anomalías graves en el desempeño ambiental.
 
 ###### Artículo 16.
 
 El Certificado Ambiental Estatal tendrá vigencia de un año calendario, independientemente a la fecha que se expida, subsistiendo sus efectos y condicionantes durante el término en que se tramite el nuevo certificado al presentar el Reporte Anual de Certificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 17.
 
-El Instituto al otorgar el Certificado correspondiente, determinará las condiciones que permitan la adecuada prevención y control de la contaminación y establecerá:
+La Secretaría al otorgar el Certificado correspondiente, determinara las condiciones que permitan la adecuada prevención y control de la contaminación y establecerá:
 
-I. La periodicidad y la forma con que deberán remitirse al Instituto los informes derivados del Certificado otorgado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. La periodicidad y la forma con que deberán remitirse a la Secretaría los informes derivados del Certificado otorgado;
 
 II. La periodicidad con que deberá llevarse a cabo la medición y el monitoreo de sus emisiones y reportarlo a través de sus estudios de emisiones;
 
@@ -249,45 +305,61 @@ III. Los niveles máximos de emisión específicos a que deberá sujetarse la fu
 
 IV. Las medidas y acciones que deberán llevarse a cabo en el caso de declararse por las autoridades competentes y de acuerdo a los programas que al efecto se expidan, contingencia ambiental en cualquiera de sus fases; e
 
-V. Instalación de equipos, requisitos, términos y aquellas otras condiciones que el Instituto determine, para prevenir y controlar el desequilibrio ecológico en el medio ambiente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V. Instalación de equipos, requisitos, términos y aquellas otras condiciones que la Secretaría determine, para prevenir y controlar el desequilibrio ecológico en el medio ambiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 18.
 
-El Instituto otorgará el Certificado de acuerdo al nivel de desempeño ambiental en el año inmediato posterior, cumpliendo con los requisitos siguientes:
+La Secretaría otorgará el Certificado de acuerdo al nivel de desempeño ambiental en el año inmediato posterior, cumpliendo con los requisitos siguientes:
 
 I. Dar cumplimiento a las obligaciones establecidas en el Certificado;
 
 II. Proporcionar mantenimiento a los equipos de procesos productivos, de control de emisiones contaminantes;
 
-III. Proporcionar al Instituto la información y documentación que le requiera; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Proporcionar a la Secretaría la información y documentación que le requiera; y
 
 IV. Acreditar el cumplimiento de las disposiciones impuestas previamente y haya instalado los equipos y realizado las adecuaciones estipuladas en el Certificado previo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-Tratándose de empresas o establecimientos que no requieran un nuevo Certificado, deberán reportar al Instituto la información correspondiente al periodo de funcionamiento.
+Tratándose de empresas o establecimientos que no requieran un nuevo Certificado, deberán reportar a la Secretaría la información correspondiente al periodo de funcionamiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 20.
 
-Cualquier cambio en los procesos de producción, uso de combustibles o actividades que se desarrollen en los establecimientos con Certificado Ambiental Estatal, que impliquen modificación en la naturaleza o cantidad de emisiones contaminantes, deberá informar al Instituto a fin de generar su actualización.
+Cualquier cambio en los procesos de producción, uso de combustibles o actividades que se desarrollen en los establecimientoscon (sic) Certificado Ambiental Estatal, que impliquen modificación en la naturaleza o cantidad de emisiones contaminantes, deberá informar a la Secretaría a fin de generar su actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 21.
 
-El Instituto, podrá modificar en cualquier momento los niveles máximos de emisión de contaminantes que se hubiesen fijado en el Certificado Ambiental Estatal, en los siguientes supuestos:
+La Secretaría, podrá modificar en cualquier momento los niveles máximos de emisión de contaminantes que se hubiesen fijado en el Certificado Ambiental Estatal, en los siguientes supuestos:
 
 I. El lugar donde se encuentre la empresa o establecimiento sea declarada zona crítica o se vea afectada por contingencia ambiental; y
 
 II. Existan modificaciones en los procesos de producción empleados en la empresa o establecimiento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 22.
 
-El Instituto podrá revocar el Certificado, cuando tenga por acreditado el incumplimiento de alguna de las obligaciones establecidas en la normatividad o condicionantes determinadas en el mismo Certificado, pudiendo establecer las sanciones correspondientes.
+La Secretaría podrá revocar el Certificado, cuando tenga por acreditado el incumplimiento de alguna de las obligaciones establecidas en la normatividad o condicionantes determinadas en el mismo Certificado, pudiendo establecer las sanciones correspondientes.
 
 ###### Artículo 23.
 
 Las emisiones de contaminantes atmosféricos y/o de agua, que generen las empresas o establecimientos de jurisdicción estatal, deberán canalizarse a través de ductos o chimeneas de descarga.
 
-Cuando por razones de índole técnica no pueda cumplirse con lo dispuesto por este artículo, el responsable de la fuente emisora de contaminantes deberá presentar al Instituto la justificación de tal situación, incluyendo el reporte original de emisión de contaminantes para que éste determine lo conducente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Cuando por razones de índole técnica no pueda cumplirse con lo dispuesto por este artículo, el responsable de la fuente emisora de contaminantes deberá presentar a la Secretaría la justificación de tal situación, incluyendo el reporte original de emisión de contaminantes para que éste determine lo conducente.
 
 ###### Artículo 24.
 
@@ -305,9 +377,11 @@ Los propietarios de las empresas o establecimientos de jurisdicción estatal, de
 
 Toda empresa o establecimiento al término de la actividad que haya realizado en un lugar determinado, estará obligado a retirar la infraestructura con la que cuente, dejando el sitio libre de todo residuo, sustancia o material cumpliendo con las medidas de remediación necesarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 28.
 
-El Instituto con base en los Reportes Anuales de Certificación Ambiental y en el análisis de los dictámenes técnicos correspondientes, promoverá ante las autoridades competentes la reubicación de las empresas o establecimientos, en los siguientes casos:
+La Secretaría con base en los Reportes Anuales de Certificación Ambiental y en el análisis de los dictámenes técnicos correspondientes, promoverá ante las autoridades competentes la reubicación de las empresas o establecimientos, en los siguientes casos:
 
 I. En las condiciones topográficas y meteorológicas del sitio en el que se ubican, dificulten la adecuada dispersión de contaminantes;
 
@@ -317,9 +391,11 @@ III. Que se causen molestias y riesgos para la salud de la población; o
 
 IV. En caso de que las características de los contaminantes constituyan un riesgo inminente de desequilibrio ecológico.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 29.
 
-Los establecimientos o empresas que de acuerdo al Instituto sean consideradas como giros menores y que por consecuencia no tengan la obligación de obtener la Certificación Ambiental, podrán apegarse a éste trámite de manera voluntaria.
+Los establecimientos o empresas que de acuerdo a la Secretaría sean consideradas como giros menores y que por consecuencia no tengan la obligación de obtener la Certificación Ambiental, podrán apegarse a éste trámite de manera voluntaria.
 
 ###### Artículo 30.
 
@@ -329,11 +405,13 @@ Los prestadores de servicio que elaboren y promuevan el trámite para obtener la
 
 Las empresas y establecimientos deberán contar con responsables técnicos en materia ecológica y ambiental, los cuales deberán ser prestadores de servicio, quienes tendrán que estar debidamente registrados para poder presentar los Reportes Anuales de Certificación Ambiental.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 32.
 
-Previo análisis, el Instituto podrá considerar los trámites, procedimientos y estudios llevados a cabo ante otros organismos, instituciones o dependencias gubernamentales, que tiendan a objetivos similares al de Certificación.
+Previo análisis, la Secretaría podrá considerar los trámites, procedimientos y estudios llevados a cabo ante otros organismos, instituciones o dependencias gubernamentales, que tiendan a objetivos similares al de Certificación.
 
-> <small>(F. DE E., P.O. 4 DE ABRIL DE 200)</small>
+> <small>(F. DE E., P.O. 4 DE ABRIL DE 2009)</small>
 
 ###### Artículo 33.
 
@@ -341,17 +419,23 @@ Las empresas que establezcan sistemas de calidad ambiental podrán prescindir de
 
 ### CAPÍTULO V. Del Registro de Fuentes, Emisiones y Transferencia de Contaminantes
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 34.
 
-Corresponde al Instituto, la integración y actualización del Registro de Fuentes, Emisiones y Transferencia de Contaminantes que se establece en la Ley.
+Corresponde a la Secretaría, la integración y actualización del Registro de Fuentes, Emisiones y Transferencia de Contaminantes que se establece en la Ley.
 
-El Instituto creará una base de datos, en la que se integrará y actualizará periódicamente, la información contenida en los documentos que acrediten las autorizaciones de Certificación que se tramiten.
+La Secretaría creará una base de datos, en la que se integrará y actualizará periódicamente, la información contenida en losdocumentos (sic) que acrediten las autorizaciones de Certificación que se tramiten.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 35.
 
-El Instituto analizará la información presentada por los propietarios de las empresas o sus representantes, con el objeto de constatar la veracidad de la información que se recibe.
+La Secretaría analizará la información presentada por los propietarios de las empresas o sus representantes, con el objeto de constatar la veracidad de la información que se recibe.
 
-El Instituto solicitará en su caso, la información necesaria que tenga por finalidad precisar las emisiones y transferencias de contaminantes generadas por sus actividades productivas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+La Secretaría solicitará en su caso, la información necesaria que tenga por finalidad precisar las emisiones y transferencias de contaminantes generadas por sus actividades productivas.
 
 En la propia solicitud se indicará el término para que el propietario de la empresa o establecimiento, presente la información solicitada.
 
@@ -361,17 +445,21 @@ La integración y funcionamiento del Registro de Fuentes, Emisores y Transferenc
 
 ### CAPÍTULO VI. De las Contingencias Ambientales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 37.
 
-El Instituto podrá declarar Contingencia Ambiental cuando se presenten las condiciones preestablecidas en los programas que lo regulan.
+La Secretaría podrá declarar Contingencia Ambiental cuando se presenten las condiciones preestablecidas en los programas que lo regulan.
 
 Para que los programas tengan efectos de observancia obligatoria deberán publicarse en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 38.
 
-En todo programa de Contingencias Ambientales se preverá la conformación de un Comité Técnico de Contingencias que será presidido por el Instituto y tendrá por función atender de forma coordinada las Contingencias Ambientales.
+En todo programa de Contingencias Ambientales se preverá la conformación de un Comité Técnico de Contingencias que será presidido por la Secretaría y tendrá por función atender de forma coordinada las Contingencias Ambientales.
 
-> <small>(F. DE E., P.O. 4 DE ABRIL DE 200)</small>
+> <small>(F. DE E., P.O. 4 DE ABRIL DE 2009)</small>
 
 Dicho Comité estará integrado por las Dependencias y Entidades de la Administración Pública Estatal, Municipal y Federal, asociaciones, sociedades civiles, instituciones, industrias y sociedad civil organizada.
 
@@ -381,19 +469,25 @@ El Programa deberá contener las acciones y actividades que se realizarán para 
 
 En dichos programas se determinarán las medidas adicionales de carácter general, para lograr la disminución en el menor tiempo posible de las emisiones contaminantes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 40.
 
-Para el cumplimiento de los Programas de Contingencias Ambientales, el Instituto podrá celebrar convenios de coordinación con los Municipios a efecto de que éstos asuman funciones en materia de inspección y vigilancia.
+Para el cumplimiento de los Programas de Contingencias Ambientales, la Secretaría podrá celebrar convenios de coordinación con los Municipios a efecto de que éstos asuman funciones en materia de inspección y vigilancia.
 
 ### CAPÍTULO VII. De la Inspección y Vigilancia
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 41.
 
-El Instituto mediante visitas técnicas a la empresa o establecimiento de que se trate, revisará en cualquier momento la veracidad de la información que presenten los propietarios o representantes legales.
+La Secretaría mediante visitas técnicas a la empresa o establecimiento de que se trate, revisará en cualquier momento la veracidad de la información que presenten los propietarios o representantes legales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 42.
 
-El Instituto realizará los actos de inspección y vigilancia, conforme a las disposiciones de la Ley, el presente Reglamento y demás normatividad aplicable a fin de que se dé cumplimiento a las disposiciones en materia de prevención y control de la contaminación del medio ambiente.
+La Secretaría realizara los actos de inspección y vigilancia, conforme a las disposiciones de la Ley, el presente Reglamento y demás normatividad aplicable a fin de que se dé cumplimiento a las disposiciones en materia de prevención y control de la contaminación del medio ambiente.
 
 ###### Artículo 43.
 
@@ -401,9 +495,11 @@ El procedimiento de inspección y vigilancia se realizará conforme a lo estable
 
 ### CAPÍTULO VIII. De las Medidas de Seguridad y Sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 44.
 
-Cuando se determinen incumplimientos al presente Reglamento, existan contingencias ambientales, riesgos de daño a la salud de la población o a los ecosistemas, el Instituto aplicará alguna de las medidas de seguridad y sanciones señaladas en la Ley.
+Cuando se determinen incumplimientos al presente Reglamento, existan contingencias ambientales, riesgos de daño a la salud de la población o a los ecosistemas, la Secretaría aplicará alguna de las medidas de seguridad y sanciones señaladas en la Ley.
 
 Las sanciones a que se refiere este artículo, se aplicarán sin perjuicio de que se produzcan otro tipo de responsabilidades.
 
@@ -434,3 +530,11 @@ CARLOS PINTO NÚÑEZ
 EL DIRECTOR GENERAL DEL INSTITUTO DE ECOLOGÍA Y MEDIO AMBIENTE
 
 JESÚS PATRICIO TAVIZÓN GARCÍA
+
+P.O. 31 DE DICIEMBRE DE 2014
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
