@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-escuela-normal-superior-del-estado-de-2920"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-10-27"
-last_updated: "2014-05-31"
+last_updated: "2014-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ESCUELA NORMAL SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR, "PROFR. ENRIQUE ESTRADA LUCERO"
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ESCUELA NORMAL SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR, "PROFR. ENRIQUE ESTRADA LUCERO", PUBLICADA EN EL B.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Boletín Oficial Estado de Baja California Sur, el 27 de octubre de 1976.
 
@@ -266,3 +268,29 @@ El presente Decreto entrará en vigor el siguiente día al de su publicación en
 B.O. 31 DE MAYO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Escuela Normal Superior del Estado de Baja California Sur publicada en el Boletín Oficial del Gobierno del Estado, mediante decreto número 47, el día 27 de octubre de 1976, así como sus correspondientes reformas contenidas en los decretos número 366, del 3 de Diciembre de 1982 y el número 2159, del 15 de Mayo de 2014.
+
+###### ARTÍCULO TERCERO.
+
+Por única ocasión, El Director de LA ESCUELA, será ratificado o removido por el Titular del Poder Ejecutivo del Estado. En caso de ser ratificado, durará en su cargo cuatro años.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo Técnico deberá quedar instalado dentro de los treinta días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Director elaborará los Manuales de Organización, Procedimientos, Servicios y demás disposiciones que normen el desarrollo de LA ESCUELA, dentro de los 120 días hábiles posteriores a la entrada en vigor de la presente Ley, debiendo presentarlos al Titular de la Secretaría de Educación Pública para su formalización.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Técnico aprobará los Reglamentos, Acuerdos y demás disposiciones que normen el desarrollo de LA ESCUELA, dentro de los 160 días hábiles posteriores a la entrada en vigor de la presente Ley.
