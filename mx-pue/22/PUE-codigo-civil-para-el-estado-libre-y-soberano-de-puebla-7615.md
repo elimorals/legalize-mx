@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2014-11-27"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -6071,9 +6071,11 @@ Es ilícito el ejercicio de los derechos reales cuando sólo cause perjuicios a 
 
 Se declara de utilidad pública, la adquisición por el Estado, o los Municipios, de terrenos apropiados para la constitución del patrimonio de familia, o para que se construyan casas habitación que se alquilen o vendan a familias de escasos recursos económicos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 988.
 
-El propietario de un inmueble es dueño de la superficie de éste y de lo que está debajo de ella, salvo lo dispuesto por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+El propietario de un inmueble es dueño de la superficie de éste y de lo que está debajo de ella, salvo lo dispuesto por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y las demás limitaciones contempladas en las leyes y reglamentos administrativos.
 
 ###### Artículo 989.
 
@@ -6090,6 +6092,14 @@ El propietario tiene derecho de pedir al que lo sea de los inmuebles contiguos, 
 ###### Artículo 992.
 
 El propietario tiene derecho, y en su caso obligación de cerrar o de cercar su propiedad, en todo o en parte, del modo que lo estime conveniente o lo dispongan las leyes o reglamentos, sin perjuicio de las servidumbres que afecten a la propiedad.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Cuando se edificare sobre un bien inmueble, es obligación del propietario o de quien se comporte como tal, declarar su propiedad ante la autoridad catastral con todas sus características y limitaciones, en un término no mayor a treinta días hábiles, contados a partir de la terminación de obra o construcción.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Enterado el pago por los derechos, así como de la contribución correspondiente, el adquiriente deberá inscribirlo ante el Registro Público de la Propiedad.
 
 ###### Artículo 993.
 
@@ -20124,3 +20134,11 @@ P.O. 27 DE NOVIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las disposiciones reglamentarias que deriven de las presentes reformas se efectuarán dentro del plazo de sesenta días hábiles, a partir de su publicación en el Periódico Oficial del Estado.
