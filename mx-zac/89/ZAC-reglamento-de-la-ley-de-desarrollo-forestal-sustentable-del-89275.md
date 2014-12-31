@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-desarrollo-forestal-sustentable-del-892
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-08"
-last_updated: "2012-08-08"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 8 de agosto de 2012.
 
@@ -75,7 +75,7 @@ XI. Estudio regional: Instrumento técnico de planeación y seguimiento que desc
 
 XII. Inventario: El Inventario Estatal Forestal, de Suelos, Bosques y Vida Silvestre;
 
-XIII. Instituto: Al Instituto de Ecología y Medio Ambiente del Estado;
+XIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 XIV. Laminar: Término que se utiliza en el sector forestal para definir la erosión ligera en terrenos forestales;
 
@@ -117,7 +117,9 @@ XXXII. Titular del aprovechamiento: Persona con derecho a aprovechar recursos fo
 
 XXXIII. Turno: Período de regeneración de los recursos forestales que comprende desde su extracción hasta el momento en que éstos son susceptibles de nuevo aprovechamiento;
 
-XXXIV. Secretaría: A la Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XXXIV. Secretaría: A la Secretaría del Campo;
 
 XXXV. SEMARNAT: A la Secretaría de Medio Ambiente y Recursos Naturales;
 
@@ -129,9 +131,11 @@ XXXVIII. Vegetación forestal de Zonas Áridas: Aquélla que se desarrolla en fo
 
 ### Capítulo II. De las Autoridades y sus Funciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-Serán autoridades en materia forestal en el Estado:
+Son Autoridades en Materia Forestal en el Estado:
 
 I. El Titular del Poder Ejecutivo del Estado;
 
@@ -139,7 +143,9 @@ II. La Secretaría General de Gobierno;
 
 III. La Secretaría, y
 
-IV. El Instituto.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. La Secretaría del Agua y Medio Ambiente.
 
 ###### Artículo 5.
 
@@ -169,7 +175,7 @@ VII. Dar a conocer ante la autoridad competente las infracciones, faltas adminis
 
 VIII. Promover una cultura de educación forestal, capacitación e investigación, coordinada con la autoridad Federal y Municipal;
 
-IX. La integración y competividad de la cadena productiva forestal para un manejo forestal sustentable y el establecimiento de plantaciones forestales comerciales;
+IX. La integración y competividad (sic) de la cadena productiva forestal para un manejo forestal sustentable y el establecimiento de plantaciones forestales comerciales;
 
 X. Realizar auditorías técnicas que induzcan al cumplimiento de las disposiciones legales en materia forestal, y
 
@@ -199,9 +205,11 @@ V. Convocar al Consejo Estatal Forestal para autorizar estudios de afectación a
 
 VI. Las demás que se encuentran señaladas en la Ley y el presente Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 9.
 
-El Instituto tendrá las siguientes funciones en materia forestal:
+La Secretaría del Agua y Medio Ambiente tendrá las siguientes atribuciones en materia forestal:
 
 I. Promover la preservación del equilibrio ecológico, protección al ambiente y al aprovechamiento sustentable de los recursos naturales en el ámbito de su competencia, además de ejercer las atribuciones normativas, técnicas, de investigación consultiva y promocional;
 
@@ -589,7 +597,7 @@ La Secretaría concentrará la información de las solicitudes realizadas por lo
 
 ###### Artículo 51.
 
-Los Municipios estarán obligados a enterar a la Secretaría de las solicitudes presentadas en el sistema único de ventanilla de su demarcación, a través de informes mensuales, previendo que dichas solicitudes se hagan llegar con antelación a la celebración del las sesiones del órgano colegiado que las autorice.
+Los Municipios estarán obligados a enterar a la Secretaría de las solicitudes presentadas en el sistema único de ventanilla de su demarcación, a través de informes mensuales, previendo que dichas solicitudes se hagan llegar con antelación a la celebración del (sic) las sesiones del órgano colegiado que las autorice.
 
 ## TÍTULO TERCERO. DEL APROVECHAMIENTO SUSTENTABLE DE LOS RECURSOS FORESTALES
 
@@ -1639,9 +1647,11 @@ Las prácticas de pastoreo en terrenos degradados de vocación forestal, no requ
 
 ### Capítulo VI. De la Reforestación y Forestación
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 160.
 
-La Secretaría y el Instituto coordinarán y promoverán en los sectores público, social y privado que estén interesados, las actividades de asesoría técnica necesaria para el establecimiento y operación de un sistema de mejoramiento genético forestal, con la evaluación y registro de progenitores, la creación de áreas y huertos semilleros, viveros forestales de especies maderables y no maderables y bancos de germoplasma.
+La Secretaria y la Secretaría del Agua y Medio Ambiente coordinarán y promoverán a los sectores público, social y privado que estén interesados, las actividades de asesoría técnica necesaria para el establecimiento y operación de un sistema de mejoramiento genético forestal, con la evaluación y registro de progenitores, la creación de áreas y huertos semilleros, viveros forestales de especies maderables y no maderables y bancos de germoplasma.
 
 ###### Artículo 161.
 
@@ -1709,9 +1719,11 @@ I. Los acuerdos de coordinación celebrados por el Gobierno del Estado, y
 
 II. En las reglas de operación o normatividad que rijan los programas en cuestión.
 
-###### Artículo 171.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-El Gobierno del Estado, establecerá y promoverá la creación de instrumentos crediticios adecuados para el financiamiento de la actividad del sector forestal, con reducidas tazas (sic) de interés y modalidades tales como créditos de garantía, de avío y refaccionario que abarquen los diferentes requerimientos, con base en los criterios y lineamientos que para tal efecto emitan la Secretaría y el Instituto, y promoverá y difundirá oportunamente según sea el caso, las medidas, programas e instrumentos económicos a los interesados.
+###### Articulo 171.
+
+El Gobierno del Estado, establecerá y promoverá la creación de instrumentos crediticios adecuados para el financiamiento de la actividad del sector forestal, con reducidas tasas de interés y modalidades tales como créditos de garantía, de avío y refaccionario que abarquen los diferentes requerimientos, con base en los criterios y lineamientos que para tal efecto emitan la Secretaría y la Secretaría del Agua y Medio Ambiente, debiendo promover y difundir oportunamente según sea el caso, las medidas, programas e instrumentos económicos a los interesados.
 
 ### Capítulo II. Del Fondo Forestal Estatal
 
@@ -1737,7 +1749,9 @@ I. El Titular del Ejecutivo del Estado, quien lo presidirá;
 
 II. Un representante de la Secretaría;
 
-III. Un representante del Instituto, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Un Representante de la Secretaría del Agua y Medio Ambiente;
 
 IV. Un representante del Sector Público Municipal.
 
@@ -1775,9 +1789,11 @@ La Secretaría llevará a cabo la divulgación de los diversos programas mediant
 
 La Secretaría establecerá campañas de divulgación de la cultura forestal, que permitan una mayor comprensión y participación de la sociedad en general, en las tareas de conservación, protección, restauración, fomento y aprovechamiento sustentable de los recursos forestales.
 
-###### Artículo 181.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-La Secretaría en coordinación con la Secretaría de Educación y Cultura y demás dependencias o entidades competentes, así como con el sector social y privado, llevará a cabo la promoción de capacitación para técnicos y profesionales expertos en ecosistemas forestales a fin de que apliquen sus conocimientos en el Estado, así como para la integración de programas de cultura forestal educativos y material didáctico en todos los grados escolares.
+###### Articulo 181.
+
+La Secretaría en coordinación con la Secretaría de Educación y demás dependencias o entidades competentes, así como con el sector social y privado, llevará a cabo la promoción de capacitación para técnicos y profesionales expertos en ecosistemas forestales a fin de que apliquen sus conocimientos en el Estado, así como para la integración de programas de cultura forestal educativos y material didáctico en todos los grados escolares.
 
 ### Capítulo IV. De los Consejos en Materia Forestal
 
@@ -1968,3 +1984,13 @@ Secretario de Desarrollo Agropecuario
 Julio César Nava de la Riva
 
 Director General del Instituto de Ecología y Medio Ambiente del Estado
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
