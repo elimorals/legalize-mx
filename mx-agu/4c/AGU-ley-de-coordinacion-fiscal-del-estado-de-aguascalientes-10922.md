@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-coordinacion-fiscal-del-estado-de-aguascalientes-10922"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-03"
-last_updated: "2013-12-31"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de noviembre de 1996.
 
@@ -41,189 +41,185 @@ LEY DE COORDINACION FISCAL DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 1o.
 
-Esta Ley tiene por objeto coordinar el Sistema Fiscal del Estado Libre y Soberano de Aguascalientes con sus Municipios; en base a la Ley de Coordinación Fiscal Federal establecer las participaciones que correspondan a las haciendas públicas municipales de los ingresos federales, así como los incentivos aplicables; distribuir entre ellos dichas participaciones e incentivos y establecer las bases de cálculo de los mismos; incentivar la recaudación de ingresos municipales; fijar las reglas de colaboración administrativa entre las diversas autoridades fiscales; constituir la Asamblea Fiscal Estatal y las bases de su organización y funcionamiento.
+Esta Ley tiene por objeto coordinar el Sistema Fiscal del Estado Libre y Soberano de Aguascalientes con sus Municipios; en base a la Ley de Coordinación Fiscal establecer las participaciones que correspondan a las haciendas públicas municipales de los ingresos federales, los mecanismos para su descuento; así como los incentivos aplicables; distribuir entre ellos dichas participaciones e incentivos y establecer las bases de cálculo de los mismos; establecer la participación de las haciendas públicas municipales en las Aportaciones y sus correspondientes afectaciones y retenciones; incentivar la recaudación de ingresos municipales; fijar las reglas de colaboración administrativa entre las diversas autoridades fiscales; constituir la Asamblea Fiscal Estatal y las bases de su organización y funcionamiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 2o.
 
 Para efectos de esta Ley se entenderá por:
 
-I.- "Asamblea", la Asamblea Fiscal Estatal;
+I.- "Aportaciones", los fondos de aportaciones contenidos en el Capítulo V de la Ley de Coordinación Fiscal que por disposición de dicho ordenamiento, deban ser enterados a los municipios por conducto del Estado;
 
-II.- "Estado", el Estado Libre y Soberano de Aguascalientes;
+II.- "Asamblea", la Asamblea Fiscal Estatal;
 
-III.- "Fondo de Fomento Municipal", el establecido en la fracción III incisos a) y b) del Artículo 2-A de la Ley de Coordinación Fiscal Federal;
+III.- "Cédula Única Catastral Electrónica", es el documento que contiene la información que permite la identificación y localización de cada uno de los bienes inmuebles del Estado y su vinculación con el Registro Público, en los términos de la Ley de Catastro del Estado de Aguascalientes;
 
-IV.- "Fondo General de Participaciones", el establecido en el Artículo 2º de la Ley de Coordinación Fiscal Federal;
+IV.- "Clave Catastral", Código asignado por el Instituto que identifica al predio en forma única, para su localización, el cual será homogéneo en todo el Estado;
 
-V.- "H. Legislatura", la H. Legislatura del Estado;
+V.- "Estado", el Estado Libre y Soberano de Aguascalientes;
 
-VI.- "Impuesto Especial sobre Producción y Servicios", el Impuesto Federal contenido en la Ley del Impuesto Especial sobre Producción y Servicios o aquella Legislación que la sustituya o reforme;
+VI.- "Fondo de Compensación del Régimen de Incorporación Fiscal", los recursos económicos que otorgue la Federación al Estado derivado de la colaboración administrativa entre ambos órdenes de gobierno en el Régimen de Incorporación Fiscal que prevé la Ley del Impuesto Sobre la Renta;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+VII.- "Fondo de Fiscalización y Recaudación", el establecido en el Artículo 4° de la Ley de Coordinación Fiscal;
 
-VII.- Impuesto sobre Tenencia o Uso de Vehículos, el Impuesto sobre Tenencia o uso de vehículos Automotores y sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior, así como el impuesto sobre tenencia o uso de vehículos, previstos en la Ley de Coordinación Fiscal del Estado, o aquella legislación Estatal o Federal que lo sustituya o reforme;
+VIII.- "Fondo de Fomento Municipal", el establecido en la fracción III incisos a) y b) del Artículo 2-A de la Ley de Coordinación Fiscal;
 
-VIII.- "Incentivos", los ingresos que reciben los Estados y Municipios por concepto de la recaudación que se obtenga del Impuesto sobre Tenencia o Uso de Vehículos, así como por el Impuesto Especial sobre Producción y Servicios, en los porcentajes y forma que se señala en la Ley de Coordinación Fiscal Federal;
+IX.- "Fondo General de Participaciones", el establecido en el Artículo 2° de la Ley de Coordinación Fiscal;
 
-IX.- "Ley", la Ley de Coordinación Fiscal del Estado;
+X.- "H. Legislatura", Congreso del Estado de Aguascalientes;
 
-X.- "Municipio o municipios", el o los municipios que se encuentran dentro del territorio del Estado;
+XI.- "Impuesto Especial sobre Producción y Servicios", el Impuesto Federal contenido en la Ley del Impuesto Especial sobre Producción y Servicios o aquella Legislación que la sustituya o reforme;
 
-XI.- "Participaciones", la proporción de los ingresos federales aplicables que reciben los Estados y los Municipios por su adhesión al Pacto Federal y al Sistema Nacional de Coordinación Fiscal, calculada de la manera establecida en la Ley de Coordinación Fiscal Federal;
+XII.- "Impuesto sobre Tenencia o Uso de Vehículos", el Impuesto sobre Tenencia o uso de vehículos Automotores y el Impuesto sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior, así como el impuesto sobre tenencia o uso de vehículos, previstos en la Ley de Coordinación Fiscal del Estado, o aquella legislación Estatal o Federal que lo sustituya o reforme;
 
-XII.- "Secretaría", la Secretaría de Finanzas del Gobierno del Estado; y
+XIII.- "Impuesto a la Gasolina y Diesel" los recursos económicos que otorgue la Federación, de conformidad con lo señalado en el numeral I del Artículo 4°-A de la Ley de Coordinación Fiscal;
 
-XIII.- "Sistema", el Sistema de Coordinación Fiscal del Estado el cual consiste en la creación de los diversos fondos municipales para establecer las fórmulas de reparto en ingresos federales, la creación de las bases para celebrar convenios de colaboración administrativa y la creación de la Asamblea Fiscal Estatal.
+XIV.- "Incentivos", los ingresos que reciben los Estados y Municipios por concepto de la recaudación que se obtenga del Impuesto sobre Tenencia o Uso de Vehículos, así como por el Impuesto Especial sobre Producción y Servicios, el Impuesto Sobre Automóviles Nuevos en los porcentajes y forma que se señala en la Ley de Coordinación Fiscal;
+
+XV.- "Impuesto Sobre la Renta Participable", el establecido en el Artículo 3-B de la Ley de Coordinación Fiscal, para los municipios;
+
+XVI.- "Ley", la Ley de Coordinación Fiscal del Estado de Aguascalientes;
+
+XVII.- "Municipio o municipios", el o los municipios que se encuentran dentro del territorio del Estado;
+
+XVIII.- "Padrón Catastral", el conjunto de registros alfanuméricos y cartográficos en los que se contienen los datos generales y particulares de los bienes inmuebles ubicados en el territorio del Estado de conformidad a la Ley de Catastro del Estado de Aguascalientes;
+
+XIX.- "Participaciones", la proporción de los ingresos federales aplicables que reciben los Estados y los Municipios por su adhesión al Pacto Federal y al Sistema Nacional de Coordinación Fiscal, calculada de la manera establecida en la Ley de Coordinación Fiscal;
+
+XX.- "Secretaría", la Secretaría de Finanzas del Gobierno del Estado; y
+
+XXI.- "Sistema", el Sistema de Coordinación Fiscal del Estado el cual consiste en la creación de los diversos fondos municipales para establecer las fórmulas de reparto en ingresos federales, la creación de las bases para celebrar convenios de colaboración administrativa y la creación de la Asamblea Fiscal Estatal.
 
 ### CAPITULO II. De las Participaciones e Incentivos a los Municipios en Ingresos Federales
 
-> <small>(REFORMADO P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 3o.
 
-Para efectos de esta Ley, son participaciones e incentivos, las asignaciones que correspondan al Estado y a los Municipios en los ingresos federales del Fondo General de Participaciones, del Fondo de Fomento Municipal, del Impuesto Especial sobre Producción y Servicios y del Impuesto sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal de la Federación, así como del Impuesto sobre Tenencia o Uso de Vehículos y el Impuesto sobre Tenencia o uso de vehículos Automotores y el impuesto sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior.
+Para efectos de esta Ley, son participaciones e incentivos, las asignaciones que correspondan al Estado y a los Municipios en los ingresos federales del Fondo General de Participaciones, del Fondo de Fomento Municipal, del Fondo de Fiscalización y Recaudación, del Fondo de Compensación del Régimen de Incorporación Fiscal, del Impuesto a la Gasolina y Diesel, del Impuesto Sobre la Renta Participable, del Impuesto Especial sobre Producción y Servicios, del Impuesto sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal, así como del Impuesto sobre Tenencia o Uso de Vehículos y el Impuesto sobre Tenencia o uso de vehículos Automotores y el Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior.
 
-El Estado, por conducto de la Secretaría, partiendo de los Fondos establecidos en el Título Único de esta Ley y de conformidad con lo establecido en esta normatividad, así como en la Ley de Coordinación Fiscal Federal, distribuirá a los municipios las participaciones e incentivos mencionados anteriormente, de la siguiente forma:
+A los municipios les corresponderá el 23% del Fondo General de Participaciones, el 100% del Fondo de Fomento Municipal, el 23% del Fondo de Fiscalización y Recaudación, hasta el 23% del Fondo de Compensación del Régimen de Incorporación Fiscal, el 23% del Impuesto a la Gasolina y Diesel, el 100% del Impuesto Sobre la Renta Participable, el 23% del Impuesto Especial sobre Producción y Servicios, el 23% del Impuesto sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal, así como el 23% del Impuesto sobre Tenencia o Uso de Vehículos y el Impuesto sobre Tenencia o uso de vehículos Automotores y el Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior.
 
-I.- El 23% del Fondo General de Participaciones;
+Con el 4.3% de la recaudación de las participaciones e incentivos de las Fracciones I, IV, V y VIII del presente Artículo, se constituirá el Fondo Resarcitorio, el cual se destinará a obra pública y equipamiento y se distribuirá a los Municipios de acuerdo a la siguiente fórmula:
 
-II.- El 100% del Fondo de Fomento Municipal;
+> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 64.</small>
 
-III.- El 23% de la recaudación en el Estado del Impuesto sobre Tenencia o Uso de Vehículos; el Impuesto sobre Tenencia o uso de vehículos Automotores y sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior;
+El 95.7% restante de las fracciones I, IV, V y VIII, así como con las participaciones a que se refieren las Fracciones II, III, VI, VII, IX y X del presente Artículo, se distribuirán conforme a lo siguiente:
 
-IV.- El 23% de la recaudación que obtenga el Estado del Impuesto Especial sobre. Producción y Servicios en los términos del Artículo 3-A de la Ley de Coordinación Fiscal Federal; y
+I.- El Fondo General de Participaciones se distribuirá de acuerdo a la siguiente fórmula:
 
-V.- El 23% de la recaudación en el Estado del Impuesto sobre Automóviles Nuevos;
+> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 64 Y 65.</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+II.- El Fondo de Fomento Municipal de acuerdo a la siguiente fórmula:
 
-VI.- El 23% de la recaudación que obtenga el Estado por el Impuesto a la venta final de bebidas con contenido alcohólico.
+> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 65, 66 Y 67.</small>
 
-Para tal efecto el 50% del monto a distribuir se participará a los municipios atendiendo a los niveles de población, el 50% restante será distribuido a los municipios en proporción inversa al índice de masa carencial de cada municipio. Al inicio de cada ejercicio fiscal, el índice de masa carencial se tomará del Acuerdo Administrativo por el que se da a conocer la fórmula y metodología para la distribución de los recursos del Fondo para la Infraestructura Social Municipal del ejercicio inmediato anterior, y que es publicado por la Secretaría de Finanzas del Estado en el Periódico Oficial del Estado a más tardar el 31 de enero de cada año, previa validación de la Secretaría de Desarrollo Social del Gobierno Federal, así como de la Coordinación Estatal de Planeación y Proyectos.
+La coordinación fiscal en el impuesto predial se realizará mediante convenio con el municipio correspondiente, mismo que deberá ser publicado en el Periódico Oficial del Estado, en el entendido de que la inexistencia o extinción de dicho convenio hará que el municipio deje de ser elegible para la distribución de FFMMC.
 
-Los recursos derivados de este impuesto serán distribuidos a municipios dentro de los 30 días siguientes al mes en que éste sea recaudado.
+III.- La recaudación en el Estado del Impuesto sobre Tenencia o Uso de Vehículos; el Impuesto sobre Tenencia o Uso de vehículos Automotores y sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior, de acuerdo a la siguiente fórmula:
 
-VII.- El Fondo derivado de las cuotas previstas en el Artículo 2°-A, fracción II de la Ley del Impuesto Especial Sobre Producción y Servicios, se distribuirá conforme al Artículo 4°-A de la Ley de Coordinación Fiscal Federal que establece una distribución para los municipios como mínimo del 20% de la recaudación que corresponda a las Entidades Federativas, consistente con el porcentaje previsto para el Fondo General de Participaciones previsto en la Ley de Coordinación Fiscal del Estado de Aguascalientes, mismo que se establece como porcentaje a distribuir el 23% de dicha recaudación, el cual será repartido de la siguiente manera:
+> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 67 y 68.</small>
 
-a) El 70% atendiendo a los niveles de población.
+IV.- La recaudación que obtenga el Estado del Impuesto Especial sobre Producción y Servicios en los términos del Artículo 3-A de la Ley de Coordinación Fiscal de acuerdo a la siguiente fórmula
 
-b) El 30% atendiendo al porcentaje de cumplimiento en el pago de los Impuestos Sobre Tenencia y Uso de Vehículos Automotores y el Impuesto Sobre Tenencia o Uso de Vehículos Automotores y de Tenencia de Uso de Vehículos Nuevos y hasta 9 años Modelo anterior.
+> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 68.</small>
 
-> <small>N. DE E. VÉASE FÓRMULAS Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2009, PÁGINA 2.</small>
+V.- La recaudación en el Estado del Impuesto sobre Automóviles Nuevos; de acuerdo a la siguiente fórmula:
 
-Para lo cual, la Secretaria de Finanzas del Estado publicará a más tardar el 31 de mayo de cada año en el Periódico Oficial del Estado un coeficiente de distribución, así Como el número de vehículos registrados en cada uno de los municipios, porcentaje de cumplimiento en el pago de Impuestos Sobre Tenencia o Uso de Vehículos Automotores y el Impuesto Sobre Tenencia o Uso de vehículos Nuevos y de hasta 9 años Modelo Anterior.
+> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 69.</small>
 
-El cálculo del coeficiente, tomará como base el crecimiento en el cumplimiento en el pago de los Impuestos Sobre Tenencia o Uso de Vehículos Automotores y el Impuesto Sobre Tenencia o Uso de vehículos Nuevos y de hasta 9 años Modelo Anterior.
+VI.- La recaudación que obtenga el Estado por el Impuesto a la venta final de bebidas con contenido alcohólico, de acuerdo a la siguiente fórmula:
 
-El Fondo derivado de las cuotas previstas en el Artículo 2°-A, fracción II de la ley del Impuesto Especial sobre Producción y Servicios, será distribuido dentro de los 30 días siguientes al mes en que éste sea recaudado.
+> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 69 y 70.</small>
 
-Para efectos de la Fracción III de este Artículo, el 50% del monto recaudado se participará a los Municipios en los términos de los fondos municipales establecidos en el Titulo Único de este Capítulo, en tanto que el 50 % restante constituirá el Fondo Especial para el Fortalecimiento de las Haciendas Municipales, que será distribuido a los Municipios en proporción inversa a los ingresos ordinarios que perciba en el ejercicio fiscal inmediato anterior de que se trate.
+VII.- La recaudación del Impuesto a la Gasolina y Diesel, se distribuirá conforme a la siguiente fórmula:
 
-Con el 4.3% de la recaudación de las participaciones e incentivos de las Fracciones I, IV, V y VI del presente Artículo, se constituirá el Fondo Resarcitorio, el cual se distribuirá a los Municipios en proporción inversa al porcentaje de población de cada uno de ellos, recurso que se destinará a obra pública y equipamiento.
+> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 70.</small>
 
-Con el 95.7% restante, así como con las participaciones a que se refiere la Fracción II del presente Artículo, se constituirán los fondos municipales que se mencionan en el Título Único de este Capítulo.
+VIII.- El Fondo de Fiscalización y Recaudación será distribuido de acuerdo con la siguiente fórmula:
+
+> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 71 y 72.</small>
+
+IX.- El Fondo de Compensación que otorgue la Federación al Estado derivado de la colaboración administrativa entre ambos órdenes de gobierno en el Régimen de Incorporación Fiscal que prevé la Ley del Impuesto Sobre la Renta.
+
+De este recurso se distribuirá solo a los municipios que al inicio de cada ejercicio fiscal mantengan vigente convenio con el Estado para el ejercicio de facultades a que se refiere el Anexo No. 19 al Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado entre el Gobierno Federal, por conducto de la de Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Aguascalientes.
+
+El convenio entre el municipio y el estado a que hace referencia el párrafo anterior deberá publicarse en el Periódico Oficial del Estado.
+
+Los recursos a que se refiere esta fracción se distribuirán a los municipios coordinados, dentro de los 5 días siguientes a la fecha en que hayan sido recibidos por el estado, de conformidad con la siguiente fórmula:
+
+> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 72.</small>
+
+X.- El 100% del Impuesto Sobre la Renta Participable enterado por cada municipio una vez descontadas las devoluciones por dicho concepto, de conformidad con lo establecido en el Artículo 3-B de la Ley de Coordinación Fiscal y demás disposiciones aplicables.
+
+La fórmula de las fracciones I, II, IV, VIII y IX no será aplicable en el evento de que en el año que se calcula, el monto de alguno de estos fondos sea inferior al obtenido en 2014. En dicho supuesto la distribución se realizará, en relación con la cantidad efectivamente generada en el año que se calcula y de acuerdo al coeficiente efectivo que cada municipio haya recibido en 2014 en los fondos mencionados donde se verifique el supuesto.
 
 ###### ARTICULO 4o.
 
 La Secretaría efectuará la distribución de participaciones e incentivos que correspondan a los municipios en los fondos municipales que se indican en la presente Ley, de acuerdo a las reglas, bases o fórmulas que en cada uno de ellos se señalen.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 5o.
 
-La Asamblea Fiscal Estatal revisará la distribución de participaciones e incentivos, vigilando el estricto cumplimiento de lo dispuesto en la Ley de Coordinación Fiscal Federal, así como en la presente Ley.
+La Asamblea Fiscal Estatal revisará la distribución de Participaciones, Aportaciones e Incentivos, vigilando el estricto cumplimiento de lo dispuesto en la Ley de Coordinación Fiscal, así como en la presente Ley.
 
 ## TITULO UNICO (SIC). DE LOS FONDOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTICULO 6o.
 
-Las participaciones al Estado del Fondo General de Participaciones y del Fondo de Fomento Municipal, así como del incentivo por concepto del Impuesto Especial sobre Producción y Servicios se calcularán, provisionalmente, por la Federación con los coeficientes del ejercicio inmediato anterior y serán entregadas al Estado por medio de Constancias de Anticipo, en los términos del artículo 7o. de la Ley de Coordinación Fiscal Federal.
+Las Participaciones e Incentivos al Estado señaladas en el Artículo 3° de esta Ley, que deban calcularse con carácter provisional, por la Federación serán entregadas a este, en los términos establecidos en la Ley de Coordinación Fiscal.
 
-Para calcular los montos de los incentivos aplicables a los municipios por concepto del Impuesto sobre Tenencia o Uso de Vehículos, se tomará la recaudación por dicho concepto efectuada por el Estado en el ejercicio fiscal inmediato anterior.
-
-El Estado distribuirá a los municipios las participaciones e incentivos anteriormente señalados en la proporción que establece el Artículo 3º de la presente Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+El Estado distribuirá a los municipios las Participaciones e Incentivos anteriormente señalados en la proporción que establece el Artículo 3° de la presente Ley.
 
 ###### ARTICULO 7o.
 
-El Fondo Básico Municipal se integrará con el total de las participaciones e incentivos del ejercicio fiscal inmediato anterior, que le correspondió a cada Municipio del Fondo General de Participaciones; del Fondo de Fomento Municipal; del Impuesto sobre Tenencia o Uso de Vehículos y del Impuesto Especial sobre Producción y Servicios, sin considerar los recursos del Fondo Resarcitorio ni las excepciones señaladas en el Artículo siguiente. El pago a los municipios se efectuará en la misma proporción que les fue aplicable en dicho ejercicio fiscal.
-
-Para lo anterior, se tomará la información oficial aprobada por la H. Legislatura que, para tal efecto, haya publicado la Secretaría en el Periódico Oficial del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 8o.
 
-De existir diferencias entre las participaciones e incentivos municipales del ejercicio fiscal inmediato anterior y los de las Constancias de Anticipo de la Federación o de la Constancia de Recaudación por concepto del Impuesto sobre Tenencia o Uso de Vehículos del ejercicio fiscal en curso, las diferencias se manejarán de acuerdo a las siguientes excepciones:
-
-I.- Cuando las participaciones e incentivos establecidos en las Constancias de que se trate del ejercicio fiscal en curso, sean menores a las que correspondieron a los municipios en el ejercicio fiscal inmediato anterior, las participaciones e incentivos se distribuirán entre los municipios en la misma proporción que les correspondió en dicho ejercicio anterior;
-
-II.- Cuando las participaciones establecidas en las Constancias de Anticipo de la Federación por concepto de Fondo General y Fondo de Fomento Municipal del ejercicio fiscal en curso, sean mayores que las participaciones que les correspondieron a los municipios en el ejercicio fiscal inmediato anterior, por dichos conceptos, con el excedente se constituirá el Fondo Complementario; y
-
-III.- Cuando los Incentivos establecidos en las Constancias de Anticipo de la Federación por concepto del Impuesto Especial sobre Producción y Servicios y de las Constancias de recaudación del Impuesto sobre Tenencia o Uso de Vehículos del ejercicio fiscal en curso, sean mayores que los incentivos que les correspondieron a los municipios en el ejercicio fiscal inmediato anterior por dichos conceptos, con el excedente se constituirá el Fondo Excedente de Incentivos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 9o.
 
-El Fondo Complementario será distribuido entre los municipios de acuerdo a lo siguiente:
-
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
-
-I.- El 40% del mismo, en proporción directa al número de habitantes que tenga cada Municipio en el ejercicio fiscal de que se trate, calculado en base a la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, de acuerdo a sus fórmulas de actualización de habitantes por Municipio;
-
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
-
-II.- El 40% del mismo, en razón directa a la recaudación de cada Municipio en materia de Impuesto Predial y Derechos por Consumo de Agua del año anterior para el cual se efectúa el cálculo. En caso de que el servicio de agua sea prestado por particulares, la recaudación será calculada en base a los criterios con los cuales la Secretaría de Hacienda y Crédito Público reconozca dicha recaudación al Estado; y
-
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
-
-III.- El 20% restante, calculado en forma inversamente proporcional a la suma de las operaciones efectuadas en los incisos I y II anteriores.
-
-Las cantidades que correspondan por este Fondo, serán calculadas de manera mensual y acumulativa, efectuando los ajustes en base a las proporciones y distribución del Fondo Básico Municipal.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 10.
 
-El Fondo Excedente de Incentivos estará formado con el remanente, si lo hubiere, de la recaudación por concepto del Impuesto sobre Tenencia o Uso de Vehículos y el excedente del Incentivo del Impuesto Especial sobre Producción y Servicios.
-
-Para obtener el remanente del Impuesto sobre Tenencia o Uso de Vehículos, se comparará la recaudación obtenida en el ejercicio en curso contra el ejercicio fiscal inmediato anterior por dicho rubro, calculado en forma mensual.
-
-Para obtener el remanente del Impuesto Especial sobre Producción y Servicios se tomarán como base los incentivos obtenidos en el ejercicio fiscal anterior, comparados en forma mensual, contra las Constancias de Anticipo por dicho rubro del ejercicio fiscal en curso que el Estado reciba la Federación (sic).
-
-La cantidad remanente que resulte será distribuida entre los municipios en base a lo siguiente:
-
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
-
-I.- El 80% del mismo, en proporción directa al número de habitantes que tenga cada Municipio en el ejercicio fiscal de que se trate, calculado en base a la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, de acuerdo a sus fórmulas de actualización de habitantes por Municipio; y
-
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
-
-II.- El 20% restante calculado en forma inversamente proporcional a la suma de las operaciones efectuadas en el inciso anterior.
-
-Las cantidades que correspondan al excedente del Impuesto sobre Tenencia o Uso de Vehículos serán calculadas de manera mensual y acumulativa, efectuando los ajustes que correspondan en base a las proporciones y distribución del Fondo Básico Municipal.
-
-El importe que corresponda a cada Municipio por concepto de excedente del Incentivo del Impuesto sobre Tenencia o Uso de Vehículos, será pagado por el Estado a más tardar dentro de los treinta días posteriores del mes siguiente de su recaudación, salvo que exista convenio entre Municipio y Estado que establezca algo en contrario.
-
-El importe que corresponda a cada Municipio por concepto de excedente del Incentivo del Impuesto Especial sobre Producción y Servicios, será pagado por el Estado dentro de los cinco días hábiles siguientes a aquel en los que reciba la Federación (sic), salvo pacto en contrario, efectuando las compensaciones aplicables a los municipios como consecuencia de ajustes realizados por la Federación.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 11.
 
-En caso de que el Estado perciba ingresos de la Reserva de Contingencia a que se refiere el Artículo 4o. de la Ley de Coordinación Fiscal Federal, participará a los municipios, como mínimo, una cantidad equivalente a la proporción que represente el conjunto de participaciones a los municipios, del total de participaciones del Estado.
-
-La distribución de la Reserva de Contingencia comenzará con el Municipio que tenga el coeficiente de participación efectiva menor y continuará hacia el que tenga el mayor, hasta agotarse, en los términos de dicho artículo de la Ley de Coordinación Fiscal Federal.
-
-El coeficiente de participación efectiva a que se refiere el párrafo anterior, será el que resulte de dividir las participaciones efectivamente percibidas por cada Municipio, entre el total de las participaciones pagadas a los municipios en el ejercicio de que se trate.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
 ###### ARTICULO 12.
 
 Las participaciones que correspondan a los municipios son inembargables, serán cubiertas en efectivo por conducto de la Secretaría, sin condicionamiento alguno y no podrán ser objeto de reducciones o retenciones ni afectarse a fines específicos, salvo para el pago de obligaciones contraidas por los municipios con autorización de su Ayuntamiento y de la H. Legislatura e inscritas ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones o Empréstitos de Entidades y Municipios, a favor de la Federación o de las personas físicas o morales de nacionalidad mexicana.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Asimismo, cuando la Secretaría de Hacienda y Crédito Público habiendo realizado disminución de las Participaciones en los términos de los artículos 11 y 11 A de la Ley de Coordinación Fiscal, como consecuencia de que la H. Legislatura establezca en la ley de ingresos de algún municipio, contribuciones o estímulos que violen lo previsto por los artículos 73, fracción XXIX, 117, fracciones IV a VII y IX, 118 fracción I de la Constitución Política de los Estados Unidos Mexicanos y artículo 10 A de la Ley de Coordinación Fiscal, o como consecuencia de que los Ayuntamientos establezcan estímulos contrarios a dichas disposiciones, la Secretaría podrá disminuir las Participaciones que correspondan al municipio que haya recibido el ingreso u otorgado el estímulo fiscal, en una cantidad equivalente al monto disminuido por la Secretaría de Hacienda y Crédito Público, siempre y cuando exista acuerdo entre el municipio de que se trate y la Secretaría.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 El Estado y los municipios efectuarán los pagos de las obligaciones garantizadas con la afectación de sus participaciones, de acuerdo con los mecanismos y sistemas de registro establecidos en la Ley de Deuda Pública del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 No estarán sujetas a lo dispuesto en el primer párrafo de este Artículo, las compensaciones que se requieran efectuar a los municipios como consecuencia de ajustes en participaciones o descuentos originados del incumplimiento de metas pactadas con el Estado en materia de administración de contribuciones. Asimismo, procederán las compensaciones entre las participaciones federales e incentivos de los municipios y las obligaciones que tengan con el Estado, cuando exista acuerdo entre las partes interesadas o esta Ley así lo autorice.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 13.
 
-El Estado cubrirá el importe a cada Municipio de las participaciones correspondientes a los Fondos señalados en el penúltimo párrafo del Artículo 3° y en los Artículos 7° y 9° anteriores dentro de los cinco días hábiles siguientes a aquel en el que los reciba de la Federación, contados a partir de la fecha de vigencia que señale la Constancia respectiva que el Estado reciba de la Federación, efectuando las compensaciones aplicables a los municipios como consecuencia de ajustes realizados por la Federación.
+El Estado cubrirá el importe a cada Municipio de las Participaciones correspondientes a los Fondos señalados en las fracciones I, II, IV y VIII del Artículo 3° dentro de los cinco días siguientes a aquel en el que los reciba de la Federación, en el caso de la fracción I contados a partir de la fecha de vigencia que señale la Constancia respectiva que el Estado reciba de la Federación, efectuando las compensaciones aplicables a los municipios como consecuencia de ajustes realizados por la Federación. Los recursos derivados de las fracciones III, V, VI y VII, el Estado cubrirá el importe a cada Municipio dentro de los 30 días siguientes al mes en que éste·sea recaudado.
 
 El retraso en la entrega a los municipios de cualesquiera de sus participaciones o incentivos dará lugar al pago de intereses por parte del Estado, a la tasa de recargos que establece el Congreso de la Unión para el pago a plazos de las contribuciones federales.
 
@@ -341,6 +337,90 @@ a).- Establecer las aportaciones a que se refiere la fracción II del artículo 
 
 b).- Las demás que no se encuentren incluidas en la fracción anterior.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO V. De las Aportaciones
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 29.
+
+Las Aportaciones materia de esta ley, son las siguientes:
+
+I.- El Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal;
+
+II.- El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal; y
+
+III.- Las demás cuyo entero deba realizarse a los municipios por conducto del Estado, en términos de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 30.
+
+De las cantidades que reciba el Estado, por concepto de las Aportaciones señaladas en el artículo anterior, se distribuirán, ejercerán y supervisarán de conformidad con lo previsto en la Ley de Coordinación Fiscal, en la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 31.
+
+Los montos de recursos que integrarán estas Aportaciones serán los que se determinen anualmente en el Presupuesto de Egresos de la Federación y se enterarán al Estado por conducto de la Federación ya (sic) los Municipios a través del Estado.
+
+El Estado por conducto de la Secretaría distribuirá entre los municipios los recursos que correspondan a las Aportaciones, considerando criterios de pobreza extrema y número de habitantes de cada Municipio, por lo que con base en lo previsto en los artículos 35 y 38 de la Ley de Coordinación Fiscal, calculará las distribuciones y hará la entrega a los Municipios de las Aportaciones, debiendo publicar la Secretaría en el Periódico Oficial del Estado a más tardar el 31 de enero del ejercicio fiscal aplicable, las fórmulas y su respectiva metodología, justificando cada elemento, así como el calendario de enteros en que la Secretaría deberá entregar a los municipios, los recursos que les correspondan.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 32.
+
+Los recursos de las Aportaciones señaladas en la fracción I y II del artículo 29 de esta Ley, serán destinados exclusivamente a lo establecido en la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 33.
+
+Las Aportaciones, no serán embargables, ni se destinarán a fines distintos a los expresados en la Ley de Coordinación Fiscal, pero se podrán afectar como fuente o garantía de pago de sus obligaciones, de conformidad con lo previsto en el artículo 50 de la Ley de Coordinación Fiscal.
+
+Las Aportaciones mencionadas en la fracción II del Artículo 29 de esta Ley, podrán afectarse como garantía del cumplimiento de obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 34.
+
+Para efectos de lo dispuesto en el segundo párrafo del artículo inmediato anterior, se entenderá por:
+
+Obligaciones de pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales: las generadas por los adeudos que los municipios, incluyendo sus organismos operadores de agua, tengan con la Comisión Nacional del Agua por el derecho de uso, aprovechamiento o explotación de aguas nacionales, por uso o aprovechamiento de bienes de dominio público de la nación como cuerpos receptores de las descargas de aguas residuales, de conformidad con la Ley Federal de Derechos y por el aprovechamiento por el suministro de agua en bloque en términos de la Ley de Ingresos de la Federación.
+
+Incumplimiento: la falta de pago total o parcial de las obligaciones a que se refiere la fracción anterior, que deban realizar los municipios, incluyendo sus organismos operadores de agua.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 35.
+
+La Comisión Nacional del Agua podrá solicitar por escrito al Estado, a través de la Secretaría, previa acreditación del incumplimiento del pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, la retención de la cantidad que cubra el pago incumplido, con cargo a las Aportaciones mencionadas en la fracción II del artículo 29 de la Ley, que correspondan al Municipio de que se trate, en términos de lo previsto en el artículo 51 de la Ley de Coordinación Fiscal.
+
+La Comisión Nacional del Agua sólo podrá solicitar a la Secretaría la retención y pago a que se hace referencia en el párrafo anterior en aquellos casos en que los adeudos generados por el incumplimiento tengan una antigüedad mayor a 90 días naturales.
+
+Para acreditar el incumplimiento, la Comisión Nacional del Agua informará al Municipio de que se trate dentro del plazo citado en el párrafo anterior, que no se ha cubierto la totalidad del pago del trimestre o periodo de que se trate, que corresponda al Municipio y en su caso, a su organismo operador de agua, a efecto de que en un plazo máximo de 10 días hábiles, presente los comprobantes de pago o las aclaraciones a que haya lugar. En caso de que no se acredite el pago total, la Comisión Nacional del Agua deberá informar al municipio que procederá en términos del artículo 51 de la Ley de Coordinación Fiscal.
+
+Vencido el plazo a que se refiere el párrafo anterior, y no habiéndose realizado el pago correspondiente, la Comisión Nacional del Agua solicitará por escrito a la Secretaría, la retención correspondiente. Para tales efectos enviará a la Secretaría en un plazo no mayor a 5 días hábiles a partir de vencido el plazo, la relación de adeudos de cada uno de los municipios, incluyendo sus organismos operadores de agua, por cada una de las obligaciones incumplidas, enviando de la misma manera constancia de las actuaciones señaladas en el párrafo inmediato anterior.
+
+La Secretaría, realizará la retención de los adeudos a que se refiere el párrafo anterior y realizará la (sic) transferencias de los recursos que correspondan a la cuenta que para estos efectos señale por escrito la Comisión Nacional del Agua, debiendo transferir dichos recursos dentro de los 5 días hábiles siguientes una vez que se haya realizado la afectación correspondiente y que la Comisión Nacional del Agua haya comunicado la cuenta para recibir los recursos.
+
+En caso de que los recursos señalados en la fracción II del Articulo 29 de la Ley no sean suficientes para cubrir las obligaciones de pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, la Comisión Nacional del Agua solicitará a la Secretaría, efectúe la retención y pago hasta donde alcancen los recursos de dicho Fondo. Sin perjuicio de lo anterior, los saldos pendientes deberán cubrirse conforme se reciban las aportaciones futuras en dicho Fondo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 36.
+
+Las retenciones y pagos que se realicen con cargo a los recursos señalados en la fracción II del Artículo 29 de la Ley por adeudos que correspondan a los municipios, sus organismos operadores de agua y, en su caso, sus organismos auxiliares, a que se refiere el artículo 51 de la Ley de Coordinación Fiscal, solo podrán solicitarse en el caso de incumplimiento de los pagos correspondientes generados a partir del primero de enero de 2014, en el entendido de que podrán efectuarse de manera gradual, considerando el 100% de la facturación o causación de los conceptos citados, con base en al menos los porcentajes establecidos en el séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación el día 09 de diciembre de 2013.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 37.
+
+Respecto de las Aportaciones señaladas en la fracción I del Artículo 29 de esta Ley, los municipios deberán cumplir integralmente con las obligaciones contenidas en el Articulo 33 de la Ley de Coordinación Fiscal.
+
+Tratándose de los recursos señalados en la fracción II del artículo 29 de la Ley, los municipios deberán cumplir las obligaciones referidas en el artículo 37 de la Ley de Coordinación Fiscal.
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
@@ -381,7 +461,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jesús Orozco Castellanos.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE SEPTIEMBRE DE 2004.
 
@@ -412,3 +492,25 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaria de Finanzas del Estado, una vez que cuente con la infraestructura necesaria, emitirá las formas precodificadas e implementará el uso de medios electrónicos.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado, con las excepciones que se establecen en las siguientes disposiciones transitorias.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto el Instituto Catastral del Estado de Aguascalientes publique en el Periódico Oficial del Estado la variable STCC, el coeficiente CTCC será equiparable al coeficiente CART, de acuerdo con lo dispuesto en las fórmulas de las fracciones I y VIII del artículo 3o.
+
+###### ARTÍCULO TERCERO.
+
+La fórmula a que se refiere el artículo 3o, fracción II de esta Ley será aplicable a partir del ejercicio fiscal de 2015. Para que en 2015 se considere que un municipio está coordinado con el Estado en los términos de esa fracción, el convenio de coordinación deberá publicarse en el Periódico Oficial del Estado en los términos que establezca la Secretaría de Hacienda y Crédito Público.
+
+###### ARTÍCULO CUARTO.
+
+Para lo dispuesto en la fracción VIII del artículo 3o, a falta de la recaudación efectivamente enterada por los contribuyentes de Régimen de Incorporación Fiscal en 2014 se tomará en cuenta la recaudación determinada en los sistemas de pago establecidos por el Servicio de Administración Tributaria de los contribuyentes pertenecientes al Régimen de Incorporación Fiscal cuyo domicilio se encuentre dentro del territorio de cada municipio.
+
+###### ARTÍCULO QUINTO.
+
+El IGRIF a que se refiere la fracción VIII del artículo 3o, para 2015 se fijará en 220 mil pesos y anualmente se incrementará por inflación en razón del Índice Nacional de Precios al Consumidor del mes de diciembre del último año contra el correspondiente del penúltimo año.
