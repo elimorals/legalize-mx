@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2014-12-22"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,9 @@ abbreviation: "LIEPS"
 ---
 # LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 13/2014 POR EL QUE SE ACTUALIZAN LAS CUOTAS DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS APLICABLES A LOS COMBUSTIBLES FÓSILES, PUBLICADO EN EL D.O.F. DE 22 DE DICIEMBRE DE 2014. VÉASE ARCHIVO ANEXO]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 017/2014 POR EL QUE SE ACTUALIZAN LAS CUOTAS APLICABLES A LAS GASOLINAS Y AL DIÉSEL ESTABLECIDAS EN EL ARTÍCULO 2o.-A, FRACCIÓN II DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, PUBLICADO EN EL D.O.F. DE 1 DE ENERO DE 2015.]
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
@@ -70,10 +72,6 @@ La Federación, el Distrito Federal, los Estados, los Municipios, los organismos
 
 El impuesto a que hace referencia esta Ley no se considera violatorio de precios o tarifas, incluyendo los oficiales.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 13/2014 POR EL QUE SE ACTUALIZAN LAS CUOTAS DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS APLICABLES A LOS COMBUSTIBLES FÓSILES, PUBLICADO EN EL D.O.F. DE 22 DE DICIEMBRE DE 2014. VÉASE ARCHIVO ANEXO]</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 2o.
@@ -86,8 +84,6 @@ I. En la enajenación o, en su caso, en la importación de los siguientes bienes
 
 A) Bebidas con contenido alcohólico y cerveza:
 
-(N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 1. Con una graduación alcohólica de hasta 14° G.L. 26.5%
@@ -95,8 +91,6 @@ A) Bebidas con contenido alcohólico y cerveza:
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 2. Con una graduación alcohólica de más de 14° y hasta 20°G.L. 30%
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -120,13 +114,9 @@ C) Tabacos labrados:
 
 3. Puros y otros tabacos labrados hechos enteramente a mano. 30.4%
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
 
 Adicionalmente a las tasas establecidas en este numeral, se pagará una cuota de $0.35 por cigarro enajenado o importado. Para los efectos de esta Ley se considera que el peso de un cigarro equivale a 0.75 gramos de tabaco, incluyendo el peso de otras sustancias con que esté mezclado el tabaco.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -136,13 +126,9 @@ D) Gasolinas: la tasa que resulte para el mes de que se trate en los términos d
 
 E) Diesel: la tasa que resulte para el mes de que se trate en los términos de los artículos 2o.-A y 2o.-B de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
 
 F) Bebidas energetizantes, así como concentrados, polvos y jarabes para preparar bebidas energetizantes 25%
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -154,21 +140,39 @@ Lo dispuesto en este inciso también será aplicable a los bienes mencionados en
 
 La cuota a que se refiere este inciso se actualizará conforme a lo dispuesto por el sexto y séptimo párrafos del artículo 17-A del Código Fiscal de la Federación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-H) Combustibles Fósiles Cuota Unidad de medida
+H) Combustibles Fósiles Cuota Unidad de Medida
 
-(VÉASE ARCHIVO ANEXO)
+1. Propano 5.91 centavos por litro.
+
+2. Butano 7.66 centavos por litro.
+
+3. Gasolinas y gasavión 10.38 centavos por litro.
+
+4. Turbosina y otros kerosenos 12.40 centavos por litro.
+
+5. Diesel 12.59 centavos por litro.
+
+6. Combustóleo 13.45 centavos por litro.
+
+7. Coque de petróleo 15.60 pesos por tonelada.
+
+8. Coque de carbón 36.57 pesos por tonelada.
+
+9. Carbón mineral 27.54 pesos por tonelada.
+
+10. Otros combustibles fósiles 39.80 pesos por tonelada de
+
+carbono que contenga
+
+el combustible.
 
 Tratándose de fracciones de las unidades de medida, la cuota se aplicará en la proporción que corresponda a dichas fracciones respecto de la unidad de medida de que se trate.
 
 Cuando los bienes a que se refiere este inciso estén mezclados, la cuota se calculará conforme a la cantidad que en la mezcla tenga cada combustible.
 
 Las cantidades señaladas en el presente inciso, se actualizarán anualmente y entrarán en vigor a partir del 1 de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -182,13 +186,9 @@ I) Plaguicidas. La tasa se aplicará conforme a la categoría de peligro de toxi
 
 La categoría de peligro de toxicidad aguda se determinará conforme a la siguiente tabla:
 
-Tabla 1. Categorías de peligro de toxicidad aguda
+> <small>[N. DE E. VÉASE "TABLA 1. CATEGORÍAS DE PELIGRO DE TOXICIDAD AGUDA" EN EL D.O.F. DE 11 DE DICIEMBRE DE 2013, PAGINA 10.]</small>
 
-(VÉASE ARCHIVO ANEXO)
-
-La aplicación de la tabla se sujetará a lo dispuesto a la Norma Oficial Mexicana “NOM-232-SSA1-2009, Plaguicidas: que establece los requisitos del envase, embalaje y etiquetado de productos grado técnico y para uso agrícola, forestal, pecuario, jardinería, urbano, industrial y doméstico”, publicada en el Diario Oficial de la Federación el 13 de abril de 2010, emitida por la autoridad competente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+La aplicación de la tabla se sujetará a lo dispuesto a la Norma Oficial Mexicana "NOM-232-SSA1-2009, Plaguicidas: que establece los requisitos del envase, embalaje y etiquetado de productos grado técnico y para uso agrícola, forestal, pecuario, jardinería, urbano, industrial y doméstico", publicada en el Diario Oficial de la Federación el 13 de abril de 2010, emitida por la autoridad competente.
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -220,25 +220,19 @@ El Servicio de Administración Tributaria, mediante reglas de carácter general,
 
 II. En la prestación de los siguientes servicios:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 A) Comisión, mediación, agencia, representación, correduría, consignación y distribución, con motivo de la enajenación de los bienes señalados en los incisos A), B), C), F), I) y J) de la fracción I de este artículo. En estos casos, la tasa aplicable será la que le corresponda a la enajenación en territorio nacional del bien de que se trate en los términos que para tal efecto dispone esta Ley. No se pagará el impuesto cuando los servicios a que se refiere este inciso, sean con motivo de las enajenaciones de bienes por los que no se esté obligado al pago de este impuesto en los términos del artículo 8o. de la propia Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 B) Realización de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, los que realicen los organismos descentralizados, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio nacional. Quedan comprendidos en los juegos con apuestas, aquéllos en los que sólo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar. 30%
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 C) Los que se proporcionen en territorio nacional a través de una o más redes públicas de telecomunicaciones. 3%
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 017/2014 POR EL QUE SE ACTUALIZAN LAS CUOTAS APLICABLES A LAS GASOLINAS Y AL DIÉSEL ESTABLECIDAS EN EL ARTÍCULO 2o.-A, FRACCIÓN II DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, PUBLICADO EN EL D.O.F. DE 1 DE ENERO DE 2015. VÉASE ARCHIVO ANEXO]</small>
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -3009,6 +3003,10 @@ Primero. El presente Decreto entrará en vigor el 1 de enero de 2014.
 Segundo. A la entrada en vigor del presente Decreto quedarán abrogadas la Ley del Impuesto Sobre la Renta, publicada en el Diario Oficial de la Federación el 1 de enero de 2002; la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo.
 
 D.O.F. 22 DE DICIEMBRE DE 2014.
+
+ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2015.
+
+D.O.F. 1 DE ENERO DE 2015.
 
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2015.
 
