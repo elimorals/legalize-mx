@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-del-bienestar-sociedad-22507"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-29"
-last_updated: "2011-06-10"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22507&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2001-11-27"
 ---
 # REGLAMENTO ORGANICO DEL BANCO DEL BIENESTAR, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO -- ANTES REGLAMENTO ORGANICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO --
 
-REGLAMENTO ORGANICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
+REGLAMENTO ORGÁNICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ENERO DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 29 de noviembre de 2001.
 
@@ -71,17 +71,15 @@ La Institución tendrá una duración indefinida.
 
 ### Capítulo II. Del Capital Social
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 7o.
 
-El capital social del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $1,247'025,000.00 (mil doscientos cuarenta y siete millones veinticinco mil pesos 00/100 M.N.). El capital social pagado es la cantidad de $1,247'025,000.00 (mil doscientos cuarenta y siete millones veinticinco mil pesos 00/100 M.N.).
+El capital social del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $1,497'025,000.00 (mil cuatrocientos noventa y siete millones veinticinco mil pesos 00/100 M.N.). El capital social pagado es por la cantidad de $1,497'025,000.00 (mil cuatrocientos noventa y siete millones veinticinco mil pesos 00/100 M.N.).
 
-> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+Dicho capital social estará representado por 98'803,650 (noventa y ocho millones ochocientos tres mil seiscientos cincuenta) certificados de aportación patrimonial de la Serie "A", con un valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno y por 50'898,850 (cincuenta millones ochocientos noventa y ocho mil ochocientos cincuenta) certificados de aportación patrimonial de la Serie "B", con un valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno.
 
-Dicho capital social estará representado por 82'303,650 (ochenta y dos millones trescientos tres mil seiscientos cincuenta) certificados de aportación patrimonial de la Serie "A", con un valor nominal de $10.00 (diez pesos 00/100 M.N.), cada uno y por 42'398,850 (cuarenta y dos millones trescientos noventa y ocho mil ochocientos cincuenta) certificados de aportación patrimonial de la Serie "B", con un valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno.
-
-El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Institución, por acuerdo de la Secretaría de Hacienda y Crédito Público y mediante modificación a este Reglamento.
+El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el ARTÍCULO 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Institución, por acuerdo de la Secretaría de Hacienda y Crédito Público y mediante modificación a este Reglamento.
 
 ###### Artículo 8o.
 
@@ -511,7 +509,7 @@ El capital pagado de la Institución a la vigencia del presente Reglamento Orgá
 
 El presente Reglamento Orgánico se expide en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de noviembre de dos mil uno.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 17 DE SEPTIEMBRE DE 2004.
 
@@ -544,6 +542,12 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publi
 SEGUNDO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio las modificaciones que por virtud del presente acuerdo se realicen a su Reglamento Orgánico.
 
 D.O.F. 10 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio las modificaciones que por virtud del presente acuerdo se realicen a su Reglamento Orgánico.
+
+D.O.F. 1 DE ENERO DE 2015.
 
 PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
