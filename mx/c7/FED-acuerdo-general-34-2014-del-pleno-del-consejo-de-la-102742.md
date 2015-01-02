@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-34-2014-del-pleno-del-consejo-de-la-102742"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-10-13"
-last_updated: "2014-10-13"
+last_updated: "2015-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102742&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,1466 +19,440 @@ issue_date: "2014-10-03"
 ---
 # ACUERDO GENERAL 34/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LA FIRMA ELECTRONICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACION (FIREL) EMITIDA POR EL PROPIO CONSEJO]
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+ACUERDO GENERAL 34/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA FIRMA ELECTRÓNICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACIÓN (FIREL) EMITIDA POR EL PROPIO CONSEJO
 
-LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 2 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2015 (ABROGADO).
 
-Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 13 de octubre de 2014.
 
-FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno y de la Presidencia.
 
-Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
+ACUERDO GENERAL 34/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA FIRMA ELECTRÓNICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACIÓN (FIREL) EMITIDA POR EL PROPIO CONSEJO.
 
-El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
+CONSIDERANDO
 
-"NUMERO 50
+PRIMERO. La administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del mismo, corresponde al Consejo de la Judicatura Federal, con fundamento en los artículos 94, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos y 68 de la Ley Orgánica del Poder Judicial de la Federación;
 
-La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, Fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo, decreta:
+SEGUNDO. De conformidad con el artículo 100, primer párrafo constitucional, el Consejo de la Judicatura Federal es un órgano del Poder Judicial de la Federación con independencia técnica, de gestión y para emitir sus resoluciones;
 
-LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
+TERCERO. Es facultad del Consejo de la Judicatura Federal emitir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo previsto en los artículos 100 de la Constitución Política de los Estados Unidos Mexicanos y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación;
 
-### CAPITULO I. Disposiciones Generales
+CUARTO. Atendiendo a lo previsto en el artículo 81, fracciones XVIII y XXXVIII, de la Ley Orgánica del Poder Judicial de la Federación, son atribuciones del Consejo de la Judicatura Federal, establecer la normativa y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público y dictar las medidas que exijan el buen servicio y la disciplina en las oficinas de los tribunales de Circuito, juzgados de Distrito y órganos auxiliares del Consejo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+QUINTO. El siete de junio de dos mil siete se publicó en el Diario Oficial de la Federación, el Acuerdo General 21/2007 del Pleno del Consejo de la Judicatura Federal, que establece la Firma Electrónica para el Seguimiento de Expedientes (FESE) como medio controlado de ingreso a un sistema para consultar, enviar y recibir promociones, documentos, acuerdos, resoluciones, sentencias y comunicaciones oficiales relacionadas con los asuntos competencia de los órganos jurisdiccionales.
 
-###### ARTICULO 1°.
+Posteriormente, el catorce de junio de dos mil siete, la Comisión de Administración del Consejo de la Judicatura Federal aprobó el Acuerdo por el que establece el procedimiento de asignación, certificación y uso de la Firma Electrónica para el Seguimiento de Expedientes (FESE), el cual fue modificado por uno diverso de veinticinco de septiembre de dos mil ocho;
 
-El conocimiento y resolución del procedimiento contencioso administrativo corresponderá al Tribunal.
+SEXTO. El dos de abril de dos mil trece se publicó en el Diario Oficial de la Federación la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, la cual establece la posibilidad de que los juicios de amparo sean promovidos y tramitados a través de un sistema electrónico mediante el uso de la firma electrónica que para tal efecto establezca el Consejo de la Judicatura Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+SÉPTIMO. El ocho de julio de dos mil trece, se publicó en el Diario Oficial de la Federación, el Acuerdo General Conjunto número 1/2013 de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico; el cual, en su artículo 17 establece que la Suprema Corte, el Tribunal Electoral, por conducto de su Sala Superior o de su Comisión de Administración, según corresponda, y el Consejo expedirán la normativa aplicable, en el ámbito de su competencia, relacionada con los certificados digitales que emitirán;
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+OCTAVO. El aprovechamiento de las tecnologías de la información ha sido constante en el Consejo de la Judicatura Federal, por lo que su evolución obliga al órgano de administración a su correspondiente cambio y adecuación hacia las nuevas tendencias tecnológicas; y
 
-Para los efectos de esta Ley se entenderá por:
+NOVENO. Es preciso actualizar el marco normativo que regula la firma electrónica para que, a través de medios de comunicación electrónica, se utilice por los servidores públicos del Consejo de la Judicatura Federal y órganos jurisdiccionales, así como por el público en general en los procedimientos jurisdiccionales o trámites administrativos, con la consecuente disminución de los costos de desplazamiento, lo que permitirá hacer más eficiente la gestión y el consecuente ahorro de recursos materiales y contribución a la protección del medio ambiente en términos de la legislación correspondiente.
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+Por lo anterior, se expide el siguiente
 
-I. Acuse de Recibo Electrónico: Constancia que acredita que un documento vía digital, fue recibido por el Tribunal y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada. En este caso, el acuse de recibo electrónico identificará al Tribunal que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la fecha y hora que se consignen en dicha constancia. El Tribunal establecerá los medios para que las partes y los autorizados para recibir notificaciones puedan verificar la autenticidad de los acuses de recibo electrónico.
+ACUERDO
 
-II. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+### CAPÍTULO ÚNICO
 
-III. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea del Tribunal a las partes, como medio de identificación de las personas facultadas en el juicio en que promuevan para utilizar dicho Sistema, y asignarles los privilegios de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la Firma Electrónica Avanzada en un Procedimiento.
+###### Artículo 1.
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+El presente Acuerdo tiene por objeto regular los aspectos técnicos del establecimiento de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) emitida por el Consejo.
 
-IV. Contraseña: Conjunto único de caracteres alfanuméricos, asignados de manera confidencial por el Sistema de Justicia en Línea del Tribunal a los usuarios, la cual permite validar la identificación de la persona a la que se le asignó una Clave de Acceso.
+###### Artículo 2.
 
-V. Dirección de Correo Electrónico: Sistema de comunicación a través de redes informáticas, señalado por las partes en el Procedimiento.
+Para efectos del presente Acuerdo se entenderá por:
 
-VI. Dirección de Correo Electrónico Institucional: Sistema de comunicación a través de redes informáticas, dentro del dominio definido y proporcionado por los órganos gubernamentales a los servidores públicos.
+I. Agente Certificador: El servidor público por conducto del cual actuará la UNCOCEFI para tramitar la emisión, renovación y revocación de Certificados Digitales de la FIREL;
 
-VII. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman un juicio contencioso administrativo, independientemente de que sea texto, imagen, audio o video, identificado por un número específico.
+II. Áreas administrativas: Las unidades administrativas y los órganos auxiliares del Consejo de la Judicatura Federal;
 
-VIII. Firma Digital: Medio gráfico de identificación en el Sistema de Justicia en Línea, consistente en la digitalización de una firma autógrafa mediante un dispositivo electrónico, que es utilizada para reconocer a su autor y expresar su consentimiento.
+III. Certificado Digital de la FIREL: El Documento Electrónico emitido por la UNCOCEFI que asocia de manera segura y fiable la identidad del Firmante con una Llave Pública, permitiendo con ello identificar quién es el autor o emisor de un Documento Electrónico o Mensaje de Datos remitido mediante el uso de la FIREL;
 
-IX. Firma Electrónica Avanzada: Conjunto de datos consignados en un mensaje electrónico adjuntados o lógicamente asociados al mismo que permita identificar a su autor mediante el Sistema de Justicia en Línea, y que produce los mismos efectos jurídicos que la firma autógrafa dentro del Procedimiento. La firma electrónica permite actuar en el Juicio en Línea.
+IV. Certificado Intermedio del Consejo: El certificado digital emitido al Consejo por la Autoridad Certificadora Raíz del PJF, a partir del cual la UNCOCEFI generará los certificados digitales de la FIREL para los Usuarios Finales;
 
-X. Juicio en la vía tradicional: El Procedimiento que se sustancia recibiendo las promociones y demás documentales en manuscrito o impresos en papel y formando un expediente también en papel, donde se agregan las actuaciones procesales.
+V. Certificado OCSP: El certificado digital emitido por el Consejo para el uso del protocolo de la verificación en línea del estado de los certificados digitales de la FIREL emitidos por el propio Consejo;
 
-XI. Juicio en Línea: Forma opcional de substanciación y resolución del Procedimiento en todas sus etapas, a través del Sistema de Justicia en Línea.
+VI. Certificado Raíz del PJF: El certificado digital único emitido por la Unidad del Poder Judicial de la Federación para el Control de Certificación de Firmas, que sirve de base a la infraestructura de firma electrónica de los órganos del Poder Judicial de la Federación y da origen a los certificados intermedios, los que a su vez servirán para generar los certificados digitales de la FIREL que emitan las Unidades de Certificación correspondientes;
 
-XII. Procedimiento: Procedimiento Contencioso Administrativo.
+VII. Certificado TSA: El certificado digital emitido por el Consejo para el uso de los sellos de tiempo;
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+VIII. Clave de Acceso a la Llave Privada del Certificado Digital de la FIREL: La cadena de caracteres alfanuméricos del conocimiento exclusivo del titular de un Certificado Digital de la FIREL, que le permite utilizar la Llave Privada para firmar un documento electrónico o, en su caso, para acceder a diversos sistemas que establezca el Consejo;
 
-XIII. Sistema de Justicia en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el Procedimiento que se sustancie ante el Tribunal, con la finalidad de resolver controversias que se susciten.
+IX. Clave de revocación: La cadena de caracteres alfanuméricos que introduce de manera secreta el Firmante durante la solicitud de un Certificado Digital de la FIREL, y que deberá capturarse al momento de requerir su revocación en línea;
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+X. Comisión: La Comisión de Administración del Consejo de la Judicatura Federal;
 
-XIV. Tribunal: Tribunal de Justicia Administrativa del Estado de Aguascalientes.
+XI. Consejo: El Consejo de la Judicatura Federal;
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+XII. CURP: La Clave Única de Registro de Población;
 
-XV. Sala: A cada una de las Salas Unipersonales que integran el Tribunal de Justicia Administrativa del Estado de Aguascalientes.
+XIII. DGTI: La Dirección General de Tecnologías de la Información del Consejo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+XIV. Documento Electrónico: El generado, consultado, modificado o procesado por Medios Electrónicos;
 
-###### ARTICULO 2º.
+XV. FIREL: La Firma Electrónica Certificada del Poder Judicial de la Federación;
 
-El Tribunal conocerá de los siguientes asuntos:
+XVI. Firma electrónica: Es el conjunto de datos y caracteres que permiten la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente a él y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVII. Firmante: La persona física que utiliza su Certificado Digital de la FIREL para suscribir documentos electrónicos y, en su caso, mensajes de datos;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2009)</small>
+XVIII. Justiciable: La persona física que solicite la expedición de un Certificado Digital de la FIREL, distinta a los servidores públicos del Consejo o de los órganos jurisdiccionales;
 
-I.- De los juicios en contra de las resoluciones definitivas emanadas de las autoridades dependientes del Poder Ejecutivo Estatal, de los Municipios, de los Organismos Descentralizados y otras personas, cuando éstos actúen como autoridades, que causen agravio a los particulares;
+XIX. Llave Privada: Los datos que el Firmante genera de manera secreta y bajo su estricto control al solicitar el Certificado Digital de la FIREL, vinculados de manera única y complementaria con su Llave Pública;
 
-II.- De los juicios en contra de las resoluciones definitivas dictadas por cualquiera de las autoridades fiscales del Estado o Municipales, y de sus organismos fiscales autónomos, en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación; nieguen la devolución de un ingreso indebidamente percibido, o cualquiera otra que cause agravio en materia fiscal;
+XX. Llave Pública: Los datos contenidos en un Certificado Digital de la FIREL que permiten la verificación de la autenticidad de la FIREL del Firmante;
 
-III- De los juicios en contra de las resoluciones favorables a un particular, cuando las autoridades estatales y municipales promuevan el juicio para que sean anuladas;
+XXI. Medios de comunicación electrónica: La infraestructura tecnológica que permite efectuar la transmisión y recepción de mensajes de datos y de documentos electrónicos;
 
-IV.- De los juicios promovidos en contra del procedimiento administrativo de ejecución cuando el afectado afirme:
+XXII. Medios Electrónicos: La herramienta tecnológica relacionada con el procesamiento, impresión, despliegue, traslado, conservación y, en su caso, modificación de información;
 
-a).- Que el crédito que se le exige se ha extinguido legalmente;
+XXIII. Mensaje de Datos: La información generada, enviada, recibida, archivada o comunicada a través de medios de comunicación electrónica, que puede contener documentos electrónicos;
 
-b).- Que el monto del crédito es inferior al exigible;
+XXIV. Órganos auxiliares: El Instituto de la Judicatura, la Visitaduría Judicial, la Contraloría del Poder Judicial de la Federación, el Instituto Federal de Defensoría Pública y el Instituto Federal de Especialistas de Concursos Mercantiles;
 
-(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009) (F. DE E., P.O. 21 DE SEPTIEMBRE DE 2009)
+XXV. Órganos jurisdiccionales: Los tribunales de Circuito y juzgados de Distrito;
 
-c).- Que es poseedor, a título de propietario de los bienes embargados o acreedor preferente al fisco; y
+XXVI. PJF: Poder Judicial de la Federación;
 
-d).- Que el procedimiento coactivo no se ajustó a la ley. En este último caso, la oposición no podrá hacerse valer, sino contra la resolución que se apruebe el remate; salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación;
+XXVII. Pleno: Pleno del Consejo;
 
-V.- De los juicios en los que se impugne la negativa de una autoridad para ordenar la devolución de cantidades pagadas indebidamente;
+XXVIII. Sellos de tiempo: Cadena de caracteres emitidos que indican la hora y fecha de cuándo se firmó, envió, recibió o consultó un Mensaje de Datos;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+XXIX. SEPJF: El Sistema Electrónico del PJF;
 
-VI.- De los juicios en contra de las resoluciones definitivas por responsabilidades de los servidores públicos del Estado, de los Ayuntamientos y sus Organismos Descentralizados;
+XXX. UNCOCEFI: La Unidad para el Control de Certificación de Firmas del Consejo;
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+XXXI. Unidad: La Unidad del Poder Judicial de la Federación para el Control de Certificación de Firmas;
 
-VII.- De los juicios en contra de las resoluciones dictadas conforme a una ley especial, que le otorgue competencia al Tribunal;
+XXXII. Unidades administrativas: Las previstas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXXIII. Usuarios Finales: Los servidores públicos del Consejo y de los órganos jurisdiccionales, así como los justiciables que soliciten o hagan uso de un Certificado Digital de la FIREL.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2010)</small>
+###### Artículo 3.
 
-VIII.- De las controversias suscitadas entre la Administración Pública y los Agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y sus Municipios;
+Estarán sujetos a las disposiciones del presente Acuerdo aquellas personas que requieran tramitar y obtener la FIREL emitida por el Consejo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 4.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2010)</small>
+El Certificado Intermedio del Consejo deberá ser emitido por la Autoridad Certificadora Raíz del PJF y quedará resguardado en un módulo criptográfico (HSM) con nivel de seguridad FIPS140-2, nivel 3.
 
-IX.- De los recursos que concedan las leyes en contra de los acuerdos que se dicten en la tramitación de los juicios; y
+Con base en el Certificado Intermedio del Consejo se emitirán los certificados digitales de la FIREL a los Usuarios Finales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 5.
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2010)</small>
+La vigencia del Certificado Digital de la FIREL a los Usuarios Finales que emita el Consejo será de tres años, la cual iniciará a partir del momento de su emisión.
 
-X.- De los procedimientos de responsabilidad patrimonial del Estado en términos de la ley respectiva.
+###### Artículo 6.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+La FIREL emitida por el Consejo podrá ser utilizada en Documentos Electrónicos y, en su caso, en Mensajes de Datos que determinen el Pleno o la Comisión.
 
-Para los efectos de las dos primeras Fracciones de este Artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando, previéndolo, el afectado opte por no agotarlo y acuda directamente al Tribunal.
+Los documentos electrónicos y mensajes de datos que cuenten con una firma electrónica producirán los mismos efectos que los presentados con firma autógrafa, teniendo el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+###### Artículo 7.
 
-El Procedimiento Contencioso Administrativo, no procederá en el caso de controversias que se susciten en materia electoral y laboral, así como las derivadas de universidades o instituciones educativas constituidas como organismos descentralizados, que gocen de personalidad jurídica y patrimonio propios y que no hubieren actuado como autoridades.
+Además de lo previsto en la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, el Pleno determinará en qué procedimientos y trámites jurisdiccionales o administrativos se utilizará la FIREL a que se refiere el presente Acuerdo.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+Los requisitos para el acceso y privilegios en los sistemas electrónicos del Consejo que requieran del uso de la FIREL se establecerán en la normativa que los rija, y se difundirán y describirán en el correspondiente manual de usuario.
 
-En materia expropiatoria el Tribunal, solo podrá conocer del procedimiento establecido en la Ley de Expropiación para el Estado de Aguascalientes.
+###### Artículo 8.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+Los sistemas informáticos del Consejo deberán verificar en línea el estado de los certificados digitales de la FIREL, así como utilizar sellos de tiempo en el momento en que éstos sean utilizados.
 
-###### ARTICULO 3°.
+###### Artículo 9.
 
-Para todo lo no previsto en esta Ley, se aplicará de manera supletoria el Código de Procedimientos Civiles del Estado, siempre que sus disposiciones no contravengan al procedimiento contencioso aquí regulado, ni sean contrarias a la naturaleza propia del derecho administrativo y fiscal.
+La FIREL deberá garantizar los siguientes principios:
 
-###### ARTICULO 4º.
+I. Autenticidad: Dar certeza de que un Documento Electrónico o un Mensaje de Datos ha sido emitido por el firmante, por lo que su contenido y consecuencias jurídicas le son atribuibles a éste;
 
-Son partes en el juicio Contencioso Administrativo:
+II. Confidencialidad: En un Documento Electrónico o en un mensaje de datos, garantiza que éste sólo puede ser cifrado por el firmante y el receptor;
 
-I.- El actor.- Tendrá ese carácter el particular o la autoridad que reclame la resolución o ejecución que emane de un procedimiento administrativo o fiscal;
+III. Equivalencia funcional: Consiste en que en un Documento Electrónico o en un Mensaje de Datos, satisface el requisito de firma del mismo modo que la firma autógrafa en los documentos impresos;
 
-II.- El demandado.- Tendrá ese carácter:
+IV. Integridad: En un Documento Electrónico o en un Mensaje de Datos dará certeza de que éste ha permanecido completo e inalterado desde su firma;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. Neutralidad tecnológica: Consistente en que la tecnología utilizada para la emisión de certificados digitales y para la prestación de los servicios relacionados con la FIREL será aplicada de modo tal que no excluya, restrinja o favorezca alguna tecnología en particular; y
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+VI. No repudio: En un Documento Electrónico o en un Mensaje de Datos garantiza la autoría del firmante.
 
-a).- La autoridad estatal, municipal, organismo descentralizado u otra persona, cuando actúe como autoridad, que dicte, ordene, ejecute o trate de ejecutar la resolución administrativa o fiscal, o tramite el procedimiento impugnado o aquélla que de manera legal la sustituya;
+###### Artículo 10.
 
-b).- El particular a quien favorezca la resolución cuya nulidad pide la autoridad administrativa; y
+Para utilizar la FIREL emitida por el Consejo se deberá contar con:
 
-III.- El tercero quien, dentro del procedimiento administrativo, aparezca como titular de un derecho incompatible con la pretensión del actor;
+I. Un certificado digital vigente emitido en términos de este Acuerdo; y
 
-###### ARTICULO 5º.
+II. Una Llave Privada.
 
-Sólo podrán intervenir en el juicio, las personas que tengan un interés directo y legítimo que funde su pretensión.
+## TÍTULO SEGUNDO. DEL CERTIFICADO DIGITAL DE LA FIREL
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+### CAPÍTULO I. DE LA ESTRUCTURA DEL CERTIFICADO DIGITAL DE LA FIREL
 
-###### ARTICULO 6º.
+###### Artículo 11.
 
-Toda promoción deberá contener firma autógrafa o firma electrónica avanzada de quien la formule y sin este requisito se tendrá por no presentada. Si el promotor en un Juicio en la vía tradicional no sabe o no puede firmar, imprimirá sus huellas digitales y firmará otra persona a su ruego ante dos testigos o ante el Secretario General de Acuerdos de la Sala.
+El certificado digital de la FIREL expedido por el Consejo deberá contener los siguientes datos:
 
-###### ARTICULO 7º.
+I. Número de serie;
 
-La gestión de negocios no procederá en el Procedimiento de lo Contencioso Administrativo.
+II. Autoridad certificadora que lo emitió;
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+III. Algoritmo de firma;
 
-La representación legal de los particulares se otorgará en escritura pública o carta poder, firmada ante dos testigos y ratificada la firma del otorgante ante notario público, o ante el Secretario General de Acuerdos de la Sala.
+IV. Vigencia;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2025)</small>
+V. Nombre del titular del Certificado Digital de la FIREL;
 
-###### ARTICULO 8°.
+VI. Dirección de correo electrónico del titular del Certificado Digital de la FIREL;
 
-Los particulares o sus representantes, podrán autorizar por escrito a un licenciado en Derecho para que a su nombre reciba notificaciones, siempre que anexe copia certificada de su cedula profesional o que la misma esté registrada ante el Tribunal de Justicia Administrativa del Estado.
+VII. La CURP del titular del Certificado Digital de la FIREL;
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2025)</small>
+VIII. Llave pública; y
 
-La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, alegar en las audiencias e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines. Con independencia de lo anterior, las partes podrán autorizar a cualquier persona con capacidad legal para oír notificaciones e imponerse de los autos, quien no gozará de las demás facultades a que se refiere este párrafo.
+IX. Versión de tipos de certificados digitales de la FIREL.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+### CAPÍTULO II. DE LA SOLICITUD DEL CERTIFICADO DIGITAL DE LA FIREL
 
-###### ARTICULO 9º.
+###### Artículo 12.
 
-Para las diligencias que deben practicarse fuera del local de la Sala, podrá comisionarse a los Secretarios o Actuarios de la Sala.
+El Certificado Digital de la FIREL únicamente podrá ser solicitado y emitido a personas físicas con independencia de que éstas sean representantes de personas morales públicas o privadas, cuya solicitud se realizará exclusivamente por el interesado, sin que dicho trámite pueda efectuarse mediante apoderado o representante legal.
 
-Las que deben desahogarse fuera de la residencia de la Sala, deberán encomendarse, mediante la requisitoria respectiva, a la autoridad judicial correspondiente.
+###### Artículo 13.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+Para obtener un Certificado Digital de la FIREL emitido por el Consejo, el interesado ingresará a la dirección http://www.pjf.gob.mx/firel/, disponible en el sitio web del Consejo y de la Dirección General de Estadística Judicial; accederá al vínculo denominado FIREL y completará el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica, aprobadas por la Unidad.
 
-###### ARTICULO 10.
+### CAPÍTULO III. DE LA RENOVACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
 
-Cuando las leyes o reglamentos de las distintas dependencias administrativas estatales, municipales, de sus órganos descentralizados o de otras personas, establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo, o bien, intentar desde luego el juicio ante la Sala.
+###### Artículo 14.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+La renovación deberá efectuarse dentro de los treinta días anteriores a la conclusión de su vigencia. Si en ese lapso no se renueva el Certificado Digital de la FIREL correspondiente, éste caducará y el interesado deberá formular una nueva solicitud.
 
-Cuando la resolución recaída a un recurso administrativo, no satisfaga el interés jurídico del recurrente, y éste la controvierta en el juicio contencioso administrativo, se entenderá que simultáneamente impugna la resolución recurrida en la parte que continúa afectándolo, pudiendo hacer valer conceptos de nulidad no planteados en el recurso.
+###### Artículo 15.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+Para llevar a cabo la renovación del Certificado Digital de la FIREL, el interesado ingresará a la dirección http://www.pjf.gob.mx/firel/ y completará el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica.
 
-Asimismo, cuando la resolución a un recurso administrativo declare por no interpuesto o lo deseche por improcedente, siempre que el Tribunal competente determine la procedencia del mismo, el juicio contencioso administrativo procederá en contra de la resolución objeto del recurso, pudiendo en todo caso hacer valer conceptos de nulidad no planteados en el recurso.
+### CAPÍTULO IV. DE LA REVOCACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+###### Artículo 16.
 
-### CAPITULO II. De las Notificaciones y de los Términos
+La solicitud de revocación sólo podrá ser realizada por el usuario final, durante el periodo de vigencia del Certificado Digital de la FIREL, para lo cual deberá ingresar a la dirección http://www.pjf.gob.mx/firel/ y completar el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+###### Artículo 17.
 
-###### ARTICULO 11.
+Además del supuesto previsto en el artículo anterior, sólo podrá revocarse un certificado por causa de muerte de su titular o por diversa que encuentre sustento en una disposición general y cuando la UNCOCEFI cuente con la documentación que acredite fehacientemente la existencia de dicha causa.
 
-El Tribunal para hacer cumplir sus determinaciones, con independencia de las previstas para el cumplimiento de las sentencias y de la suspensión del acto impugnado, podrá hacer uso de los siguientes medios de apremio y medidas disciplinarias:
+El SEPJF revocará un Certificado Digital cuando con motivo de la solicitud de uno diverso se actualice duplicidad entre la Llave Pública de aquél y la del certificado digital materia de dicha solicitud, lo que se notificará al usuario final de aquél al correo electrónico que hubiere registrado en el formulario correspondiente.
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+###### Artículo 18.
 
-I. Amonestación;
+Una vez revocado un certificado no podrá ser utilizado, por lo que si el interesado requiere de otro Certificado Digital de la FIREL tendrá que solicitarlo de nueva cuenta conforme al procedimiento establecido en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+## TÍTULO TERCERO. DE LOS DERECHOS, OBLIGACIONES Y SANCIONES DE LOS TITULARES DE LOS CERTIFICADOS DIGITALES DE LA FIREL
 
-II. Multa que podrá ser de una hasta treinta veces el valor diario de la unidad de medida y actualización;
+### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+###### Artículo 19.
 
-III. Arresto hasta por treinta y seis horas; o
+Los titulares de certificados digitales de la FIREL expedidos por el Consejo tendrán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+I. A la protección de sus datos personales, de conformidad con las disposiciones aplicables;
 
-IV. El auxilio de la fuerza pública.
+II. Solicitar a la UNCOCEFI constancia de la existencia y vigencia de su Certificado Digital de la FIREL, cuando a sus intereses convenga; y
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+III. Recibir información sobre los procedimientos de solicitud, emisión, renovación y revocación de los certificados digitales de la FIREL, así como de las instrucciones para su uso.
 
-Para la imposición de los medios de apremio y medidas disciplinarias anteriores no será necesario sujetarse al orden antes establecido.
+###### Artículo 20.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+Los titulares de certificados digitales de la FIREL expedidos por el Consejo tendrán las siguientes obligaciones:
 
-### CAPITULO III. De los Impedimentos, Excusas y Recusaciones
+I. Proporcionar datos y documentos verdaderos, completos y exactos al momento de tramitar la solicitud de su certificado digital;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+II. Resguardar la confidencialidad de su Llave Privada y de la clave de acceso a dicha llave, así como la de revocación del Certificado Digital de la FIREL;
 
-###### ARTICULO 12.
+III. Mantener un control físico, personal y exclusivo de su certificado digital, Llave Privada y archivo con extensión .pfx;
 
-En los juicios que se tramiten ante el Tribunal, no habrá lugar a condenación en costas, cada parte será responsable de sus propios gastos y de los que originen las diligencias que promueva.
+IV. Hacer uso debido de su Certificado Digital de la FIREL; y
 
-###### ARTICULO 13.
+V. Revocar de inmediato su Certificado Digital de la FIREL cuando se ponga en riesgo la confidencialidad de la Llave Privada o de las claves referidas en la fracción II de este artículo.
 
-Toda resolución durante el procedimiento debe notificarse, a más tardar, al día siguiente a aquél en que el expediente se haya turnado al Actuario para ese efecto. A continuación de la resolución, se asentará la razón respectiva.
+### CAPÍTULO II. DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
+###### Artículo 21.
 
-Al Actuario que sin causa justificada incumpla con esta obligación o practique notificaciones en forma contraria a las formalidades conducentes, se le impondrá una multa qué no excederá del treinta por ciento de su salario mensual; en caso de reincidencia, se dará vista al Tribunal de Justicia Administrativa del Estado de Aguascalientes, a través del Pleno o del órgano competente previsto en su Ley Orgánica, el cual, previa audiencia del Actuario, podrá imponerle una sanción hasta por treinta días de suspensión. De persistir en la omisión, el Tribunal determinará la destitución del Actuario, sin responsabilidad para el Estado, lo anterior conforme a lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+Las conductas de los servidores públicos que impliquen el incumplimiento a los preceptos establecidos en el presente Acuerdo, dará lugar al procedimiento y a las sanciones que correspondan en términos de lo previsto en la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+###### Artículo 22.
 
-### CAPITULO IV. De la Improcedencia y de Sobreseimiento
+Los servidores públicos de la Dirección General de Estadística Judicial, incluyendo los de la UNCOCEFI, deberán hacer del conocimiento de las autoridades competentes las conductas que pudieran constituir delitos o responsabilidad administrativa, de las que tengan conocimiento en ejercicio de sus funciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+## TÍTULO CUARTO. DE LA UNCOCEFI
 
-###### ARTICULO 14.
+### CAPÍTULO ÚNICO
 
-Las notificaciones se practicarán siguiendo las reglas del Código de Procedimientos Civiles del Estado, excepto en el caso de las autoridades, las cuales se harán por oficio.
+###### Artículo 23.
 
-###### ARTICULO 15.
+La UNCOCEFI será la responsable de llevar a cabo los procedimientos para la emisión, renovación, revocación y consulta de los certificados digitales de la FIREL, por sí o, en los términos de la normativa aplicable, por conducto de los agentes certificadores que la auxilien.
 
-(DEROGADO, P.O. 10 DE ABRIL DE 2006)
+###### Artículo 24.
 
-### CAPITULO V. De la Demanda
+La UNCOCEFI dependerá de la Dirección General de Estadística Judicial y tendrá la estructura orgánica que establezca el Pleno o la Comisión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### Artículo 25.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+Los certificados digitales emitidos por la UNCOCEFI deberán cumplir con las especificaciones referidas en el estándar X.509 definido por la Unión Internacional de Telecomunicaciones de la Organización de Naciones Unidas.
 
-###### ARTICULO 16.
+###### Artículo 26.
 
-Los particulares deberán señalar domicilio en la ciudad de Aguascalientes, en el primer escrito que presenten, y notificar el cambio del mismo, para que en él se hagan las notificaciones personales indicadas en esta ley. En caso de no cumplir con esta obligación, las notificaciones que deban ser personales se harán por lista.
+Corresponde a la UNCOCEFI:
 
-###### ARTICULO 17.
+I. Administrar el sistema informático para la emisión de los certificados digitales de la FIREL;
 
-Las notificaciones surtirán sus efectos:
+II. Emitir certificados digitales cuando así proceda;
 
-I.- Desde el mismo día en que se hayan practicado, tratándose de las que deben hacerse personalmente; y
+III. Certificar la documentación que acompañe el solicitante de un certificado digital;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+IV. Implementar programas de atención a solicitudes de certificados digitales de la FIREL;
 
-II.- Las demás, desde el día siguiente al de la fijación de la lista en la Sala.
+V. Rechazar las solicitudes de certificados que no cumplan con las políticas para la obtención de los certificados digitales de la FIREL;
 
-###### ARTICULO 18.
+VI. Atender las solicitudes de revocación de certificados cuando el interesado se encuentre imposibilitado para realizar el proceso de revocación en línea;
 
-La manifestación que haga el interesado o su representante legal, de conocer una resolución, surtirá efectos de notificación en forma, desde la fecha en que se manifieste sabedor, si ésta es anterior a aquella en que debiera surtir efectos conforme al Artículo precedente.
+VII. Expedir los manuales generales de funcionamiento de los certificados digitales;
 
-### CAPITULO VI. De la Contestación
+VIII. Elaborar el reporte del número de certificados digitales que se han emitido o revocado;
 
-###### ARTICULO 35.
+IX. Formular el reporte del número de solicitudes que han sido rechazadas;
 
-Admitida la demanda, se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro de los quince días siguientes a aquel en que se le hubiese notificado el emplazamiento. El plazo para contestar la ampliación de la demanda también será de quince días, siguientes a aquel en que surta efectos la notificación del acuerdo que la admita. Si no se produce la contestación en tiempo, o ésta no se refiere a todos los hechos se tendrán como ciertos los que el actor impute de manera precisa al demandado, salvo que, por las pruebas rendidas, o por hechos notorios, resulten desvirtuados.
+X. Coordinar los programas de asistencia a los Usuarios Finales de los certificados digitales de la FIREL emitidos por el Consejo;
 
-Cuando alguna autoridad que deba ser parte en el juicio no fuera señalada por el actor como demandada, de oficio, se le correrá traslado de la demanda, para que la conteste en el plazo a que se refiere el párrafo anterior.
+XI. Plantear la implementación de mejores prácticas para el uso de la FIREL;
 
-Si los demandados fueren varios, el término para contestarles correrá de manera individual.
+XII. Apoyar a las diversas áreas administrativas del Consejo para implementar en sus procedimientos administrativos el uso de la FIREL;
 
-###### ARTICULO 36.
+XIII. Proponer al Consejo o a la Unidad, según corresponda, la celebración de convenios con otros órganos del Estado que cuenten con firma electrónica;
 
-El demandado, en su contestación, expresará:
+XIV. Solicitar a la DGTI las modificaciones que se requieran en diversas aplicaciones para la implementación de la FIREL; y
 
-I.- Los incidentes de previa (sic) y especial pronunciamiento a que haya lugar;
+XV. Las demás que establezcan el Pleno o las Comisiones.
 
-II.- Se referirá concretamente a cada uno de los hechos que el actor le impute de manera expresa, afirmándolos, negándolos, expresando los que ignore, por no ser propios, o exponiendo cómo ocurrieron, según sea el caso;
+###### Artículo 27.
 
-III.- Los argumentos por medio de los cuales se demuestre la ineficacia de los conceptos de anulación;
+La UNCOCEFI publicará en los medios de comunicación electrónica del Consejo las políticas para la obtención y uso de los certificados digitales de la FIREL emitidos por el Consejo, así como los manuales de usuario necesarios.
 
-IV.- Las pruebas que ofrezca, las que deberá relacionar con los hechos de su contestación; y
+###### Artículo 28.
 
-V.- El nombre y domicilio del tercero interesado, cundo lo haya.
+La UNCOCEFI deberá hacer pública la vigencia de los certificados digitales de la FIREL de los Usuarios Finales a los que el Consejo les emitió un Certificado Digital de la FIREL, la de los certificados de OCSP y de TSA, así como la información sobre los servicios relacionados con el uso de los certificados digitales.
 
-###### ARTICULO 37.
+## TÍTULO QUINTO. DEL RECONOCIMIENTO DE CERTIFICADOS DIGITALES Y DE LA CELEBRACIÓN DE CONVENIOS DE COORDINACIÓN
 
-En la contestación de la demanda, no podrá cambiarse ni la motivación ni los fundamentos de derecho de la resolución impugnada.
+### CAPÍTULO ÚNICO
 
-En la contestación de la demanda o hasta antes de los alegatos la autoridad demandada podrá allanarse a las pretensiones del demandante o revocar la resolución impugnada.
+###### Artículo 29.
 
-En el caso de resolución negativa ficta, la autoridad expresará los hechos y el derecho en que se apoye la misma.
+Los sistemas informáticos del Consejo reconocerán plenamente los certificados digitales emitidos por la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación.
 
-###### ARTICULO 38.
+###### Artículo 30.
 
-El demandado deberá adjuntar a su contestación:
+Con independencia de los convenios a que se refiere el segundo párrafo, del artículo 5 del Acuerdo General Conjunto número 1/2013 de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico, el Consejo podrá celebrar convenios de coordinación con los Poderes Ejecutivo y Legislativo federales; los organismos constitucionales autónomos; los gobiernos de las entidades federativas, los municipios y los órganos político-administrativos del Distrito Federal; y los Poderes Judicial y Legislativo de los estados y los órganos respectivos del Distrito Federal, a fin de que éstos en sus trámites internos utilicen los certificados digitales de la FIREL emitidos por el Consejo.
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+Los convenios que en materia del presente Acuerdo celebre el Consejo, deberán ser publicados en su página de Internet y, en su caso, en el Diario Oficial de la Federación.
 
-I.- Copias de la misma y de los documentos que acompañe, para cada una de las partes cuando éstos no excedan de 25 hojas. Su omisión dará lugar a que el Tribunal lo requiera para que los exhiba, dentro de un término de cinco días, apercibiéndolo de que se tendrá por no contestada la demanda, en caso de incumplimiento;
+###### Artículo 31.
 
-II.- El documento en que acredite su personalidad, cuando el demandado sea un particular y no gestione en nombre propio;
+Cualquier situación no prevista en este Acuerdo será resuelta por el Pleno o la Comisión, en el ámbito de su competencia.
 
-III.- El cuestionario que deba desahogar el perito, si se ofrece prueba pericial; así como la ampliación del cuestionario para el desahogo de dicha prueba, en el caso de que ésta se haya propuesto por el demandante;
+## TRANSITORIOS
 
-IV.- Cuando ofrezca prueba testimonial, los interrogatorios para los testigos, así como los correspondientes interrogatorios de repreguntas, en el caso que el demandante hubiese ofrecido prueba testimonial; y
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 
-V.- Las pruebas documentales que aporte.
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-###### ARTICULO 39.
+TERCERO. Se abrogan el Acuerdo General 21/2007, del Pleno del Consejo de la Judicatura Federal, que establece la Firma Electrónica para el Seguimiento de Expedientes (FESE), así como el Acuerdo de la Comisión de Administración del Consejo, que establece el procedimiento de asignación, certificación y uso de la Firma Electrónica para el Seguimiento de Expedientes (FESE), aprobado el catorce de junio de dos mil siete. Y se derogan todas las disposiciones que se opongan al presente Acuerdo General.
 
-Dentro del término de tres días, se acordará sobre la contestación de la demandada; se tendrán por admitidas o desechadas las pruebas ofrecidas y, en su caso se dictarán las providencias necesarias para su desahogo y se fijará la fecha de la audiencia en un plazo que no excederá de 15 días a partir de dicho acuerdo.
+CUARTO. Los procedimientos relacionados con los certificados digitales de la FIREL emitidos por el Consejo y regulados en el presente Acuerdo, estarán disponibles en los términos en que se emita la declaratoria referida en el artículo Sexto transitorio del Acuerdo General Conjunto número 1/2013 de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico.
 
-###### ARTICULO 19.
+QUINTO. Una vez que los servidores públicos adscritos a los tribunales de Circuito y a los juzgados de Distritos, así como al Instituto Federal de Defensoría Pública y áreas administrativas del Consejo, obtengan su certificado digital de firma electrónica (FIREL) a que se refiere el presente Acuerdo, se deberán revocar los certificados digitales emitidos conforme a las disposiciones anteriores a la entrada en vigor del presente Acuerdo.
 
-El cómputo de los plazos se sujetará a las reglas siguientes:
+SEXTO. La DGTI deberá realizar los ajustes necesarios a los sistemas informáticos del Consejo para implementar el uso de la FIREL a que se refiere el presente Acuerdo.
 
-I.- Comenzarán a correr, a partir del día siguiente a aquél en que surta efectos la notificación;
+En tanto la DGTI realiza las adecuaciones necesarias a los sistemas informáticos del Consejo, los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones y las autoridades usuarias de la Ventana Electrónica de Trámite, seguirán utilizando los certificados digitales de firma electrónica expedidos con anterioridad a la entrada en vigor de este Acuerdo; incluso, el procedimiento para su solicitud, emisión y entrega será de la forma con la que se venía realizando.
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+De manera oportuna, la Dirección General de Estadística Judicial, a través de la UNCOCEFI, hará del conocimiento a los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones y a las autoridades usuarias de la Ventana Electrónica de Trámite, la fecha en que comenzarán a utilizar los certificados digitales de la FIREL a que se refiere el presente Acuerdo.
 
-II.- Si están fijados en días, se computarán sólo los hábiles, entendiéndose por estos aquellos en que se encuentren abiertas al público las oficinas de de (sic) la Sala;
+EL MAGISTRADO LUIS FERNANDO ANGULO JACOBO, SECRETARIO EJECUTIVO DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 34/2014, del Pleno del Consejo de la Judicatura Federal, que regula la firma electrónica certificada del Poder Judicial de la Federación (FIREL) emitida por el propio Consejo, fue aprobado por el Pleno del Consejo, en sesión ordinaria de diecisiete de septiembre de dos mil catorce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Felipe Borrego Estrada, César Esquinca Muñoa, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a tres de octubre de dos mil catorce.- Conste.- Rúbrica.
 
-III.- Si están señalados en período, o tienen una fecha determinada para su extinción, se comprenderán los días inhábiles; no obstante, si el último día de plazo o la fecha determinada fuere inhábil, el término se prorrogará hasta el día siguiente hábil; y
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
-IV.- Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, contadas de las cero a las veinticuatro horas.
+D.O.F. 2 DE ENERO DE 2015.
 
-###### ARTICULO 20.
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-(DEROGADO, P.O. 10 DE ABRIL DE 2006)
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-### CAPITULO VII. De las Pruebas
+TERCERO. Se abrogan los siguientes acuerdos generales:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+I. Acuerdo General número 20/1999 del Pleno del Consejo de la Judicatura Federal, relativo al cambio de logotipo del propio Consejo;
 
-###### ARTICULO 40.
+II. Acuerdo General 73/2000 del Pleno del Consejo de la Judicatura Federal, por el que se establece el premio Silvestre Moreno Cora, en reconocimiento a los servidores públicos del Poder Judicial de la Federación, que se hayan distinguido en el desempeño de sus responsabilidades, durante cincuenta años de servicios prestados;
 
-En los juicios que se tramiten ante la Sala, serán admisibles toda clase de pruebas, excepto la confesional mediante absolución de posiciones y la petición de informes, salvo que los informes se limiten a hechos que consten en documentos que obren en poder de las autoridades, así como las que no tengan relación inmediata con los hechos controvertidos y las contrarias a la moral y al derecho.
+III. Acuerdo General 87/2000 del Pleno del Consejo de la Judicatura Federal, que abroga el diverso 9/1999 relativo al rol de diarios nacionales a los que se encomienda la publicación de avisos, convocatorias y esquelas del propio Consejo;
 
-Las pruebas supervenientes podrán presentarse, siempre que no se haya dictado sentencia.
+IV. Acuerdo General 7/2003 del Pleno del Consejo de la Judicatura Federal, relativo a la instrumentación del Sistema de Administración Financiera del Poder Judicial de la Federación;
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+V. Acuerdo General 24/2004 del Pleno del Consejo de la Judicatura Federal, que fija las bases para la desincorporación de toda clase de bienes muebles en el Consejo de la Judicatura Federal;
 
-En este caso, se ordenará dar vista a la contraparte, para que, en el plazo de tres días, exprese lo que a su derecho convenga, reservándose su admisión y valoración hasta la sentencia definitiva.
+VI. Acuerdo General 74/2004, del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento especial para la separación de los funcionarios por incapacidad física o mental para el ejercicio de sus cargos;
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+VII. Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que regula el plan de pensiones complementarias de magistrados de Circuito y jueces de Distrito;
 
-###### ARTICULO 41.
+VIII. Acuerdo General 30/2005, del Pleno del Consejo de la Judicatura Federal, relativo a las relaciones burocrático-laborales en el Poder Judicial de la Federación;
 
-Podrá ordenarse de oficio, la práctica de cualquier diligencia que tenga relación con los puntos controvertidos o para acordar la exhibición de cualquier documento, notificando oportunamente a las partes, a fin de que puedan intervenir, si así conviene a sus intereses.
+IX. Acuerdo General 32/2006, del Pleno del Consejo de la Judicatura Federal, por el que se constituye el Comité de Políticas de Tecnologías de la Información del Consejo de la Judicatura Federal y se establecen las bases para su operación y funcionamiento;
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+X. Acuerdo General 53/2006, del Pleno del Consejo de la Judicatura Federal, que establece los lineamientos para el arrendamiento y adquisición de inmuebles en el Consejo de la Judicatura Federal;
 
-###### ARTICULO 42.
+XI. Acuerdo General 66/2006, del Pleno de (sic) Consejo de la Judicatura Federal, que reglamenta el proceso presupuestario en el Consejo de la Judicatura Federal;
 
-Podrá convocarse a los peritos, para que comparezcan y respondan a las preguntas que el Tribunal y las partes les formulen, siempre que tengan relación directa con los puntos sobre los que verse el dictamen.
+XII. Acuerdo General 76/2006, del Pleno del Consejo de la Judicatura Federal, que determina el criterio para nombrar y prorrogar los nombramientos de los servidores públicos de confianza, adscritos a los órganos auxiliares y unidades administrativas del propio Consejo;
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+XIII. Acuerdo General 3/2007, del Pleno del Consejo de la Judicatura Federal, que regula la integración y funcionamiento del Comité de Inversión de recursos financieros del Consejo de la Judicatura Federal;
 
-###### ARTICULO 43.
+XIV. Acuerdo General 17/2007 del Pleno del Consejo de la Judicatura Federal, por el que se regula la organización y funcionamiento del Fondo de Apoyo a la Administración de Justicia;
 
-Cuando los peritos de las partes no coincidan en los resultados y conclusiones en sus dictámenes, el Tribunal designará perito tercero, de entre los que estén registrados en la Secretaría General de Acuerdos.
+XV. Acuerdo General 25/2007 del Pleno del Consejo de la Judicatura Federal, por el que se delegan atribuciones a las administraciones de los edificios propiedad o en uso del Consejo de la Judicatura Federal, ubicados en el Distrito Federal y área metropolitana, y se regula su funcionamiento;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+XVI. Acuerdo General 27/2007, del Pleno del Consejo de la Judicatura Federal, que regula la administración y destino de bienes asegurados no reclamados y decomisados a disposición del propio Consejo;
 
-###### ARTICULO 44.
+XVII. Acuerdo General 46/2007, del Pleno del Consejo de la Judicatura Federal, por el que se regula el funcionamiento de los Centros de Desarrollo Infantil del Consejo de la Judicatura Federal;
 
-El perito tercero en discordia designado por el Tribunal no será recusable, pero deberá excusarse, cuando se encuentre en alguno de los casos siguientes:
+XVIII. Acuerdo General 6/2008, del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento para la revisión, dictaminación, suscripción, registro y resguardo de instrumentos jurídicos en el Consejo de la Judicatura Federal;
 
-I.- Consanguinidad, dentro del cuarto grado, con alguna de las partes o parentesco por afinidad;
+XIX. Acuerdo General 6/2009, del Pleno del Consejo de la Judicatura Federal, que establece las bases para que las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con la misma, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
 
-II.- Interés directo o indirecto en el litigio; y
+XX. Acuerdo General 45/2011, del Pleno del Consejo de la Judicatura Federal, por el que se regula la licencia de paternidad, la licencia por adopción de una hija o un hijo, así como criterios adicionales para conceder licencias por concepto de cuidados maternos y paternos, en favor de las servidoras y los servidores públicos adscritos a los tribunales de circuito, juzgados de distrito y áreas administrativas del Consejo de la Judicatura Federal;
 
-III.- Ser acreedor, deudor, inquilino, arrendador, tener amistad estrecha o enemistad manifiesta con las partes, o tener dependencia económica con cualquiera de ellas.
+XXI. Acuerdo General 48/2011 del Pleno del Consejo de la Judicatura Federal, que establece la jornada y el horario de trabajo de los servidores públicos adscritos a las áreas administrativas del propio Consejo;
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+XXII. Acuerdo General 23/2012, del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de seguridad en las instalaciones del Poder judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral;
 
-###### ARTICULO 45.
+XXIII. Acuerdo General 28/2012, de Pleno del Consejo de la Judicatura Federal, que prohíbe las actividades de compraventa de productos y servicios en los inmuebles administrados por el propio Consejo;
 
-Los testigos serán citados a declarar sólo cuando la parte que ofrezca su testimonio manifieste, desde el momento de ofrecer la prueba, no poder por sí misma hacer que se presenten.
+XXIV. Acuerdo General 38/2012, del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de protección civil que deberán observarse en el Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral;
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+XXV. Acuerdo General 34/2013 del Pleno del Consejo de la Judicatura Federal, que establece los lineamientos del registro automatizado de entrada y salida de servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas;
 
-En la audiencia en la que se habrá de desahogar la prueba testimonial, se levantará acta pormenorizada de las declaraciones de los testigos, sin que se pueda formular por las partes ninguna otra pregunta que no obre en los interrogatorios exhibidos. El Tribunal podrá formular preguntas a dichos testigos, no obstante que no se encuentren incluidas en los expresados interrogatorios.
+XXVI. Acuerdo General 16/2014 del Pleno del Consejo de la Judicatura Federal, que instrumenta la aplicación de la Ley Federal Anticorrupción en Contrataciones Públicas;
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+XXVII. Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se otorga y regula la prestación del Fondo de Reserva Individualizado bajo el esquema de Fondo de Ahorro para el personal de nivel operativo de los órganos jurisdiccionales federales y del Consejo de la Judicatura Federal;
 
-A la persona titular del Poder Ejecutivo, Diputados, Magistrados, Jueces, Generales en servicio activo y Presidentes Municipales, se les pedirá su declaración por oficio y en esa forma la rendirán. En casos urgentes podrán declarar personalmente, para lo cual el personal de la Sala se trasladará al lugar en que se encuentren.
+XXVIII. Acuerdo General 34/2014 del Pleno del Consejo de la Judicatura Federal, que regula la firma electrónica certificada del Poder Judicial de la Federación (FIREL) emitida por el propio Consejo; y
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+XXIX. Acuerdo General 44/2014, del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones relativas a los expedientes personales de los servidores públicos a cargo del Consejo de la Judicatura Federal.
 
-###### ARTICULO 46.
+CUARTO. Los asuntos en trámite deberán concluirse conforme a las disposiciones con las que fueron iniciados.
 
-A fin de que las partes puedan rendir sus pruebas, las autoridades tienen la obligación de expedir, con toda la oportunidad, las copias de los documentos que les soliciten; si dichas autoridades no cumplieran con esta obligación, la parte interesada solicitará al Tribunal que requiera a las mismas. Se aplazará la audiencia, por un término que exceda de diez días, pero si no obstante dicho requerimiento no se expidiere, se hará uso de los medios de apremio que establece esta ley. Si aun así no se cumpliere se pondrá en conocimiento del Ministerio Público.
-
-En los casos en que la autoridad requerida no sea parte, el Tribunal procederá en los mismos términos del párrafo anterior.
-
-Al interesado que de manera maliciosa, o con el solo propósito de obtener la prórroga de la audiencia, ocurra quejándose de la falta de expedición de las copias de los documentos solicitados a que se refiere el primer párrafo de este artículo, o informe al Tribunal que se le ha negado la expedición, se le impondrá multa de hasta el equivalente a treinta veces el valor diario de la unidad de medida y actualización.
-
-###### ARTICULO 47.
-
-La valoración de las pruebas se hará de acuerdo con las disposiciones relativas del Código de Procedimientos Civiles del Estado.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-Cuando por el enlace de las pruebas rendidas y de las presunciones resultantes, el Tribunal adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en el párrafo anterior, debiendo fundar razonadamente esta parte de su sentencia.
-
-###### ARTICULO 21.
-
-Los Magistrados estarán impedidos para conocer en los siguientes casos:
-
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
-
-I.- Si tienen parentesco por consanguinidad, afinidad o civil con alguna de las partes, en línea recta, sin limitación de grado; dentro del cuarto grado en la colateral, por consanguinidad, o del segundo en la colateral por afinidad; o de sus patronos o representantes;
-
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
-
-II.- Si tienen interés personal en el asunto que haya motivado el juicio;
-
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
-
-III.- Si han sido abogados o apoderados de alguna de las partes, en el mismo asunto;
-
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
-
-IV.- Si tienen amistad estrecha o enemistad manifiesta con alguna de las partes, sus abogados o representantes;
-
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
-
-V.- Si han emitido el acto impugnado o han intervenido, con cualquier carácter, en la fase oficiosa del procedimiento o en la ejecución; y
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
-
-VI.- Si son parte en un juicio similar, pendiente de resolución por la Sala.
-
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
-
-###### ARTICULO 22.
-
-Los Magistrados tienen el deber de excusarse del conocimiento de los juicios en el que se presente alguno de los impedimentos señalados en el artículo anterior, y expresar de manera concreta en qué consiste el impedimento.
-
-Cuando un Magistrado se excuse de algún asunto sin causa legítima, cualquiera de las partes podrá interponer el recurso de reclamación.
-
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
-
-### CAPITULO VIII. De los Incidentes
-
-###### ARTICULO 48.
-
-En el Procedimiento Contencioso Administrativo, sólo se tramitarán como de previo y especial pronunciamiento, los siguientes incidentes:
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
-
-I.- El de acumulación de autos;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
-
-II.- El de nulidad de notificaciones; y
-
-> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
-
-III.- El de falta de personalidad.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
-
-Mientras estén pendientes de resolución los incidentes mencionados, el juicio continuará hasta antes de la de la (sic) celebración de la audiencia, si el incidente hecho valer es notoriamente frívolo e improcedente, se desechará de plano y se impondrá, a quien lo promueva, una multa hasta por el equivalente a treinta veces el valor diario de la unidad de medida y actualización.
-
-###### ARTICULO 49.
-
-Procede la acumulación de dos o más juicios pendientes de resolución, en los casos en que:
-
-I.- Siendo diferentes las partes e invocándose distintos conceptos de violación, el acto impugnado sea uno mismo o se impugnen varias partes del mismo acto; y
-
-II.- Independientemente de que las partes y los agravios sean o no diversos, se impugnen actos que sean unos antecedentes o consecuencia de los otros, o idénticos.
-
-###### ARTICULO 50.
-
-Las partes podrán hacer valer el incidente a que se refiere el Artículo anterior, hasta antes de la celebración de la audiencia.
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
-
-La acumulación se tramitará de oficio o a petición de parte y se sustanciará citando a las partes a una audiencia que se celebrará dentro de un plazo de cinco días, en la que se hará la relación de los autos, se presentarán alegatos y se emitirá la resolución que proceda.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-Para el caso en que proceda la acumulación y los juicios respectivos se estén sustanciando por la vía tradicional y por Juicio en Línea, el Tribunal requerirá a las partes del Juicio en la vía tradicional para que en el plazo de tres días manifiesten si optan por sustanciar el juicio en línea, y en caso de que no lo acepten expresamente, los procedimientos acumulados se tramitarán en la vía tradicional.
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 51.
-
-Una vez decretada la acumulación, el juicio más reciente se acumulará al más antiguo.
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 52.
-
-Las notificaciones que no fueren hechas conforme a lo dispuesto en esta Ley o, en su caso, de acuerdo con las disposiciones supletorias, serán nulas. El perjudicado podrá pedir que se declare la nulidad, dentro de los tres días siguientes a aquel en que conoció el hecho, ofreciendo las pruebas pertinentes, en el mismo escrito en el que se promueva la nulidad.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-Si se admite el incidente, se dará vista a las demás partes, por el término de tres días, para que expongan lo que a su derecho convenga y ofrezcan pruebas; transcurrido dicho plazo, el Tribunal dictará la interlocutoria respectiva.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-Si se declara la nulidad, el Tribunal ordenará reponer el procedimiento, desde la fecha de la notificación anulada.
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 53.
-
-Cuando alguna de las pares sostenga la falsedad de un documento, incluidas las promociones y actuaciones en Juicio, promoverá incidente que se hará valer entes del cierre de la instrucción. Se correrá traslado de la promoción a las partes por el término de tres días. Con el escrito por el que se promueva el incidente o se desahogue el traslado del mismo, se ofrecerán las pruebas pertinentes y se presentarán los documentos, los cuestionarios e interrogatorios de testigos y peritos, siendo aplicables para las pruebas pericial y testimonial, las reglas relativas del principal.
-
-Las pruebas se desahogarán en la misma audiencia del principal.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-El Tribunal resolverá sobre la autenticidad del documento en la sentencia definitiva, exclusivamente para efectos del juicio de que se trate.
-
-###### ARTICULO 23.
-
-Las partes podrán recusar a los Magistrados o a los Secretarios cuando estén en alguno de los casos de impedimento y podrán hacerlo hasta el momento de empezar la audiencia final.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-El Tribunal resolverá de plano la admisión de la recusación; en contra de esta resolución no procede recurso alguno.
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 24.
-
-En caso de que la excusa o la recusación del Magistrado sea procedente, el asunto será enviado al Pleno del H. Supremo Tribunal de Justicia del Estado para la continuación y resolución del mismo.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
-
-###### ARTICULO 25.
-
-Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta por el equivalente a veinte veces el valor diario de la unidad de medida y actualización.
-
-###### ARTICULO 26.
-
-Es improcedente el juicio ante el Tribunal, contra los actos:
-
-I.- Que no afecten los intereses legítimos del demandante;
-
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-II.- Cuya impugnación no corresponda conocer a dicho Tribunal;
-
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-III.- Que hayan sido materia de sentencia de fondo emitida por el Tribunal siempre que hubiera identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas;
-
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-IV.- Respecto de los cuales hubiera consentimiento expreso o tácito, entendiéndose que hay consentimiento tácito, cuando no se promovió algún medio de defensa en los términos de las leyes respectivas, o juicio ante el Tribunal, en los plazos que señala esta ley;
-
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-V.- Que sean materia de un recurso o juicio que se encuentre pendiente de resolución, ante autoridad administrativa estatal, municipal, sus organismos descentralizados, o ante el propio Tribunal.
-
-VI.- De cuyas constancias de autos apareciera, de manera clara, que no existe la resolución o el acto impugnado;
-
-VII.- Respecto de los cuales hayan cesado los efectos del acto impugnado o éste no pueda surtir efecto legal o material alguno, por haber dejado de existir el objeto o materia del mismo; y
-
-VIII.- Que hayan sido materia de resolución en un procedimiento judicial.
-
-###### ARTICULO 27.
-
-Procede el sobreseimiento del juicio.
-
-l.- Cuando el actor desista del mismo o deje de actuar ciento ochenta días, caso en el que se le tendrá por desistido conforme a la ley;
-
-II.- Cuando durante el juicio aparezca o sobrevenga alguno (sic) de las causas de improcedencia a que se refiere el Artículo anterior;
-
-III.- En el caso que el actor muera durante el juicio, si su pretensión es intransmisible o si su muerte deja sin materia dicho juicio, y
-
-IV.- En los demás casos en que por disposición legal, exista impedimento para emitir resolución en cuanto al fondo del asunto.
-
-El sobreseimiento se podrá decretar en cualquiera de los casos antes señalados de oficio o a petición de parte.
-
-###### ARTICULO 28.
-
-La demanda se podrá presentar:
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
-
-I. Directamente ante la Sala, caso en que se sustanciará Juicio en la vía tradicional;
-
-II. Por correo certificado, si el actor tiene su domicilio legal fuera de la ciudad de Aguascalientes, en cuyo caso se tendrá como fecha de recepción del escrito respectivo, la de su depósito en la oficina postal y se sustanciará Juicio en la vía tradicional; o
-
-III. A través del Sistema de Justicia en Línea, en cuyo caso el actor deberá manifestar si elige la sustanciación de Juicio en Línea o de Juicio en vía tradicional, lo cual no podrá variarla salvo las excepciones contenidas en esta Ley. Si omite tal manifestación se entenderá que eligió el Juicio vía tradicional. Siempre que el actor del Procedimiento sea la autoridad, deberá presentar la demanda a través del Sistema de Justicia en Línea.
-
-La presentación deberá hacerse dentro de los quince días siguientes a aquél en que haya surtido efectos la notificación del acto o resolución impugnado.
-
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
-
-En los casos de negativa ficta, el interesado no está obligado a interponer el juicio dentro del término previsto en el párrafo precedente, pudiendo presentar la demanda en cualquier tiempo, mientras no se dicte la resolución expresa, y siempre que haya transcurrido el plazo para que opere dicha resolución ficta.
-
-Cuando se pida la nulidad de un acto favorable a un particular, las autoridades podrán presentar la demanda dentro de los cinco años siguientes a la fecha en que sea emitida la resolución, salvo que haya producido efecto de trato (sic) sucesivo. En este caso se podrá demandar la nulidad en cualquier época, sin exceder de los cinco años del último efecto. Los alcances de la sentencia, en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán a los cinco años anteriores a la presentación de la demanda.
-
-Cuando el interesado fallezca durante el plazo para iniciar el juicio, éste se suspenderá hasta un año si antes no se ha apersonado el albacea o el interventor autorizado de la sucesión.
-
-### CAPITULO IX. De la Suspensión
-
-###### ARTICULO 54.
-
-El actor podrá solicitar la suspensión de la resolución o del acto administrativo, que tendrá por efecto mantener las cosas en el estado en que se encuentren, en tanto se pronuncia sentencia. La podrá solicitar el actor en su demanda o en cualquier momento del juicio antes de la sentencia.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-Cuando la suspensión se pida en la demanda, si procede, deberá concederse por el Tribunal en el mismo auto en que la admita, haciéndolo saber de inmediato a la autoridad demandada para su cumplimiento sin demora, quien deberá informar dentro del término de 24 horas el cumplimiento dado a la suspensión.
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
-
-No se otorgará la suspensión, si de concederse se sigue perjuicio a un evidente interés social o se contravienen disposiciones de orden público.
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
-
-La suspensión podrá ser revocada en cualquier etapa del juicio, si varían las condiciones por las cuales se otorgó.
-
-###### ARTICULO 55.
-
-Tratándose de créditos fiscales, se suspenderá su ejecución, si quien lo solicita garantiza su importe en la forma prevista por el Artículo 63 del Código Fiscal del Estado.
-
-En los casos en que proceda la suspensión, pero que pueda ocasionar daños y perjuicios a terceros, se concederá, si el actor otorga garantía bastante para reparar el daño e indemnizar los perjuicios que con ella se causaren, si no obtiene sentencia favorable en el juicio.
-
-Si la suspensión fue concedida, dejará de surtir efectos si la garantía no se otorga dentro de los cinco días siguientes a la que quede notificado el auto que la hubiere concedido.
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
-
-Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los treinta días siguientes a la notificación de la sentencia; con la petición se dará vista a las partes por un término de cinco días, para ofrecimiento de pruebas y alegatos, transcurrido el cual, se dictará la sentencia interlocutoria que corresponda.
-
-###### ARTICULO 56.
-
-La suspensión otorgada conforme al Artículo anterior, quedará sin efecto si el tercero da, a su vez, caución bastante para restituir las cosas al estado que guardaban antes de la presentación de la demanda, y se obliga a pagar los daños y perjuicios que sobrevengan al actor, en el caso de que éste obtenga sentencia favorable.
-
-No procederá lo señalado en esta disposición, si en virtud de la naturaleza del acto impugnado, el actor pudiera sufrir perjuicios irreparables al no suspender su ejecución y si las cosas no fueran posibles de restituirse a su estado inicial.
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 57.
-
-Cuando los actos que se impugnan hubieran sido ejecutados y afecten a los actores, impidiéndoles el ejercicio de su única actividad de subsistencia o el acceso a su domicilio particular, podrán dictarse las medidas cautelares que se estimen pertinentes para preservar dicho medio de subsistencia.
-
-### CAPITULO X. De la Audiencia
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 58.
-
-La audiencia se celebrara concurran o no las partes, y su orden será el siguiente:
-
-I.- Se dará cuenta con las reclamaciones de las partes, y con cualquier cuestión incidental suscitada durante la tramitación del juicio; al efecto, se recibirán las pruebas y los alegatos de las partes, sobre el particular. Acto continuo, se pronunciará la resolución que proceda, ordenando, en su caso, que se practiquen las diligencias omitidas;
-
-II.- Si la resolución de las reclamaciones o de los incidentes no trae como consecuencia el que deba suspenderse la audiencia, se leerán la demanda, su contestación y las demás constancias de autos;
-
-III.- Se estudiarán, aún de oficio, los sobreseimientos que procedan, respecto de las cuestiones que impidan que se emita una decisión en cuanto al fondo, y se dictará la resolución que corresponda;
-
-IV.- En su caso, se desahogarán las pruebas que hayan sido ofrecidas, con relación a la validez o nulidad de la resolución o acto impugnado.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-El Tribunal en la audiencia podrá formular a las partes, a sus representantes, a los testigos y peritos, toda clase de preguntas respecto a las cuestiones debatidas;
-
-V.- Se oirán los alegatos del actor, de la parte demandada, del tercero interesado y del coadyuvante, los que se pronunciarán en ese orden.
-
-Las partes podrán presentar sus alegatos por escrito o verbalmente. En este último caso, no podrán exceder de diez minutos por cada parte.
-
-Las promociones que las partes formulen en la audiencia, así como sus oposiciones contra los acuerdos que en ella se dicten, se resolverán de plano; y
-
-VI.- Se dará por concluida la audiencia y se citará a las partes para oír sentencia.
-
-### CAPITULO XI. De la Sentencia
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 59.
-
-La sentencia deberá ser dictada dentro de los 10 días siguientes a aquel en que se celebró la audiencia.
-
-Para dictar resolución en los casos de sobreseimiento previstos en el Artículo 26 de esta Ley, no será necesario que se celebre la audiencia en el juicio.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-###### ARTICULO 60.
-
-Las sentencias que dicte el Tribunal no necesitarán formulismo alguno, pero deberán contener:
-
-I.- La fijación clara y precisa de los puntos controvertidos, así como el examen y valoración de las pruebas que se hayan rendido;
-
-II.- Los fundamentos legales en que se apoyen para producir la resolución y la exposición razonada de los motivos y circunstancias consideradas; y
-
-III.- Los puntos resolutivos en que se expresen, con claridad, las resoluciones o actos administrativos cuya nulidad o validez se declare.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, el Tribunal se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
-
-###### ARTICULO 61.
-
-Serán causas de anulación de una resolución o de un procedimiento administrativo:
-
-I.- La incompetencia de la autoridad que haya dictado la resolución o el acto impugnado;
-
-II.- La omisión o incumplimiento de las formalidades que legalmente debe revestir la resolución o el acto;
-
-III.- La violación de la disposición aplicada, o no haberse aplicado la disposición debida, y
-
-IV.- El desvío de poder, tratándose de sanciones o de actos discrecionales.
-
-###### ARTICULO 62.
-
-La sentencia definitiva podrá:
-
-I.- Reconocer la validez de la resolución o del acto impugnado;
-
-II.- Declarar la nulidad de la resolución o acto combatido; y
-
-III.- Decretar la nulidad de la resolución o acto, para determinarlo efecto, debiendo precisar, con claridad, la forma y términos en que la autoridad deba cumplir.
-
-###### ARTICULO 63.
-
-En el caso de ser fundada la demanda y que la sentencia declare la nulidad de la resolución o acto, las autoridades demandadas quedarán obligadas a otorgar o restituir al actor en el goce de los derechos que le hubieran sido desconocidos o afectados de manera indebida.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-El Tribunal no podrá variar ni modificar su sentencia después de notificada, sin perjuicio del recurso de aclaración de sentencia.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-Las sentencias del Tribunal, no recurridas en tiempo y forma, tendrán fuerza de cosa juzgada.
-
-### CAPITULO XII. Del Cumplimiento de las Sentencias
-
-###### ARTICULO 64.
-
-La cosa juzgada es la verdad legal y contra ella no es admisible recurso, ni prueba alguna, salvo los casos expresamente determinados por la ley. Hay cosa juzgada cuando la sentencia ha causado ejecutoria.
-
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
-
-###### ARTICULO 65.
-
-Las sentencias causan ejecutoria y las resoluciones que pongan fin al juicio sin que resuelvan el fondo causaran estado, en los siguientes casos:
-
-I. Cuando transcurrido el plazo para interponer juicio de amparo, no se interponga el mismo.
-
-II. Cuando se deseche, sobresea o niegue el amparo que hubiere sido interpuesto.
-
-III. Cuando hayan sido consentidas expresamente por las partes que hubieren actuado en el juicio con la calidad de particulares, sus representantes legítimos o sus mandatarios con poder bastante.
-
-La declaración de que una sentencia ha causado ejecutoria se hará de oficio y no admite recurso alguno.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-###### ARTICULO 66.
-
-Cuando haya causado ejecutoria una sentencia favorable al actor, el Tribunal la notificará a las autoridades y organismos demandados para su cumplimiento. En el mismo oficio en que se haga la notificación, se les prevendrá para que informen sobre el cumplimiento que se dé a la sentencia correspondiente, en el término de diez días prorrogables por una vez.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-###### ARTICULO 67.
-
-El Tribunal se cerciorará si las autoridades u organismos correspondientes han cumplido con los términos de la sentencia y en el plazo señalado para ello, y de no ser así, de oficio o a petición de parte, los requerirá para que la cumplan, previniéndolas de que, en caso de desacato, se les impondrá una multa de hasta por el equivalente a doscientas veces el valor diario de la unidad de medida y actualización.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-###### ARTICULO 68.
-
-Cuando la autoridad demandada persista en su actitud, el Tribunal deberá solicitar del titular de la dependencia estatal, municipal u organismo a quien se encuentre subordinada, que conmine al servidor público responsable para que dé cumplimiento a la resolución del Tribunal, sin perjuicio de que se apliquen los medios de apremio por una vez más a la autoridad demandada y en su caso, al superior de ésta conforme a lo previsto en el numeral anterior.
-
-Si no se da cumplimiento a la resolución, no obstante los requerimientos anteriores, el Tribunal podrá decretar la destitución del servidor público responsable, excepto que goce de fuero constitucional.
-
-Cuando la autoridad demandada goce de fuero constitucional, el Tribunal formulará la excitativa de declaración de procedencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, ante la Legislatura Local.
-
-Si la ejecución consiste en la realización de un acto material, el Tribunal podrá realizarlo, en rebeldía de la demandada.
-
-###### ARTICULO 69.
-
-Las sanciones mencionadas en este capítulo, también serán procedentes cuando no se cumplimente en sus términos la suspensión que se hubiere decretado respecto del acto impugnado.
-
-### CAPITULO XIII. De los Recursos
-
-#### SECCION PRIMERA. De la Aclaración de Sentencia
-
-###### ARTICULO 70.
-
-El recurso de aclaración de sentencia tendrá por objeto esclarecer algún concepto o suplir cualquier omisión que contenga la sentencia sobre puntos discutidos en el litigio.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-Estas aclaraciones podrán hacerse de oficio, dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte, que deberá solicitarse al día siguiente al de la notificación. En este último caso, el Tribunal resolverá lo que estime procedente dentro de los cinco días siguientes al de la presentación del escrito en el que se solicite la aclaración.
-
-#### SECCION SEGUNDA. De la Reclamación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
-
-###### ARTICULO 71.
-
-El recurso de reclamación procederá, en contra de las siguientes resoluciones dictadas por la Sala:
-
-I.- Las que admitan o desechen la demanda, la contestación o las pruebas;
-
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
-
-II.- Las que decreten o nieguen el sobreseimiento del juicio, antes de la audiencia a que se refiere el Artículo 58 de esta Ley;
-
-III.- Las que admitan o rechacen la intervención del coadyuvante o del tercero;
-
-IV.- Las que concedan o nieguen la suspensión solicitada;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
-
-V.- La excusa de un Magistrado para conocer de algún asunto, si se considera que no existe causa legal para ello; y
-
-VI.- Los acuerdos de mero trámite.
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 72.
-
-La reclamación se interpondrá dentro de los tres días siguientes a aquel en que surta efectos la notificación de la resolución recurrida y se resolverá de plano.
-
-###### ARTICULO 73.
-
-(DEROGADO, P.O. 10 DE ABRIL DE 2006)
-
-#### SECCION TERCERA. De la Excitativa de Justicia
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2025)</small>
-
-###### ARTICULO 74.
-
-Las partes podrán formular excitativa de justicia ante la Presidencia del Tribunal, cuando la Sala responsable no emita la resolución definitiva dentro del plazo señalado en esta Ley.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2025)</small>
-
-###### ARTICULO 75.
-
-Recibida la excitativa de justicia, la persona titular de la Presidencia del Tribunal solicitará un informe al Titular de la Sala responsable que deberá rendirse en el plazo de 24 horas.
-
-La Presidencia dará cuenta al Pleno y si éste encuentra fundada la excitativa, se otorgará un plazo de cinco días para que la Sala responsable emita la resolución de que se trate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-### CAPITULO XIV. Del Juicio en Línea
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-###### ARTICULO 76.
-
-El Procedimiento se promoverá, sustanciará y resolverá en línea a través del Sistema de Justicia en Línea que deberá establecer y desarrollar el Tribunal en términos de lo dispuesto por el presente Capítulo y las demás disposiciones específicas que resulten aplicables de esta Ley.
-
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
-
-###### ARTICULO 77.
-
-Cuando el actor ejerza su derecho a presentar demanda a través del Sistema de Justicia en Línea, las autoridades demandadas deberán comparecer y tramitar el juicio en la misma vía a través de la dirección de correo que para tal fin se encuentre registrada en la Sala.
-
-Si el actor no señala expresamente su Dirección de Correo Electrónico, se tramitará el Juicio en la vía tradicional y el acuerdo correspondiente se notificará por Boletín Procesal de la Sala.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-###### ARTICULO 78.
-
-Cuando el actor sea una autoridad, la demanda se presentará en todos los casos a través del Sistema de Justicia en Línea lo cual se informará al demandado al momento del emplazamiento.
-
-A fin de emplazar al particular demandado, el Secretario de Acuerdos que corresponda, imprimirá y certificará la demanda y sus anexos para que se entreguen en la diligencia al demandado a quien además deberá informarse por escrito los pasos del Juicio en línea así como la posibilidad sustanciarse en la vía tradicional.
-
-Si el particular rechaza tramitar el Juicio en línea éste se sujetará a la vía tradicional.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-###### ARTICULO 79.
-
-En el Sistema de Justicia en Línea, se integrará el Expediente Electrónico, mismo que incluirá todas las promociones, pruebas, oficios, acuerdos, resoluciones interlocutorias o definitivas, así como otros anexos y demás actuaciones que deriven de la sustanciación del juicio en línea, garantizando su seguridad, inalterabilidad, autenticidad, y durabilidad, conforme a los lineamientos que expida el Tribunal.
-
-En los Juicios en Línea, las pruebas que por su naturaleza sea necesario que el Tribunal reciba declaración directa de personas, se dejará constancia en cualquier clase de Archivo Electrónico para que se integre en el Expediente Electrónico. A elección del Tribunal, las declaraciones se desahogarán por videoconferencia o bajo las reglas aplicables a un Juicio en vía tradicional.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-###### ARTICULO 80.
-
-La Firma Electrónica Avanzada, Clave de Acceso y Contraseña se proporcionarán, a través del Sistema de Justicia en Línea, previa obtención del registro y autorización correspondientes a través de correo electrónico.
-
-El registro de la Firma Electrónica Avanzada, Clave de Acceso y Contraseña, implica el consentimiento expreso de que dicho Sistema registrará la fecha y hora en la que se abran los Archivos Electrónicos que contengan las constancias que integran el Expediente Electrónico, para los efectos legales establecidos en este ordenamiento.
-
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
-
-Para hacer uso del Sistema de Justicia en Línea deberán observarse los lineamientos que para tal efecto expida la Sala.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-###### ARTICULO 81.
-
-La Firma Electrónica Avanzada producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio dentro de la sustanciación de este procedimiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-###### ARTICULO 82.
-
-Solamente las partes, las personas autorizadas y delegados tendrán acceso al Expediente Electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-###### ARTICULO 83.
-
-Los titulares de una Firma Electrónica Avanzada, Clave de Acceso y Contraseña serán responsables de su uso por lo que el acceso o recepción de las notificaciones, la consulta al Expediente Electrónico y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo que se demuestren fallas del Sistema de Justicia en Línea.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-###### ARTICULO 84.
-
-Una vez recibida por vía electrónica cualquier promoción de las partes, el Sistema de Justicia en Línea emitirá el Acuse de Recibo Electrónico correspondiente en el que se señalará fecha y hora en que se recibió.
-
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
-
-###### ARTICULO 85.
-
-Cualquier actuación en el Juicio en Línea se efectuará a través del Sistema de Justicia en Línea en términos del presente Capítulo. Dichas actuaciones serán validadas con la Firma Electrónica Avanzada o Firma Digital de los Magistrados y Secretarios de Acuerdos que den fe según corresponda.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-###### ARTICULO 86.
-
-Los documentos que las partes ofrezcan como prueba, deberán exhibirlos de forma legible a través del Sistema de Justicia en Línea en Archivo Electrónico especificando si fue tomado de copia simple, certificada o del documento original, en este último caso, indicar si tiene o no firma autógrafa. Los particulares deberán hacer esta manifestación bajo protesta de decir verdad, de lo contrario se presumirá, en perjuicio del promotor, que el Archivo Electrónico corresponde a una copia simple.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones de la presente Ley y de los acuerdos normativos que emita el Tribunal para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-###### ARTICULO 87.
-
-Para el caso de pruebas diversas a las documentales, los instrumentos en los que se hagan constar se integrarán al Expediente Electrónico. Para tal efecto, el Secretario de Acuerdos a cuya mesa corresponda el asunto, deberá digitalizar la imagen de los originales físicos, procediendo a su cotejo y certificación, luego de lo cual podrá autorizarse su devolución, pero mientras esto no ocurra permanecerán bajo resguardo del Tribunal. Los originales físicos deberán entregarse al Tribunal la misma fecha en que se registre en el Sistema de Justicia en Línea la promoción por la que se ofrece la prueba registrándose su recepción en el Expediente Electrónico.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-###### ARTICULO 88.
-
-En los Juicios en Línea sólo será necesario exhibir copias de traslado para terceros interesados las cuales deberán entregarse al Tribunal en la misma fecha en que se registre en el Sistema de Justicia en Línea la promoción correspondiente.
-
-Al correr traslado al tercero interesado se le informará que puede manifestar su oposición a los mecanismos del Juicio en Línea.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-El Tribunal dispondrá lo conducente para que se digitalicen los documentos que los terceros interesados presenten a fin de que se agreguen al Expediente Electrónico.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-En el escrito a través del cual el tercero interesado se apersone tendrá que indicar si acepta los mecanismos del Juicio en Línea, en cuyo caso deberá señalar su Dirección de Correo Electrónico. Si manifiesta su oposición, se imprimirá y certificará el Expediente Electrónico para que lo pueda consultar en el local del Tribunal, debiéndosele recibir las promociones que presente como si se tratara de un juicio en vía tradicional, mismas que deberán digitalizarse para agregarse al Expediente Electrónico.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-###### ARTICULO 89.
-
-Las notificaciones que se practiquen dentro del Juicio en Línea, se efectuarán conforme a lo siguiente:
-
-I. Todas las actuaciones y resoluciones que conforme a las disposiciones de esta Ley deban notificarse en forma personal, mediante correo certificado con acuse de recibo, o por oficio, se deberán realizar a través del Sistema de Justicia en Línea.
-
-II. El actuario deberá elaborar la minuta electrónica en la que precise la actuación o resolución a notificar, así como los documentos que se adjunten a la misma. Dicha minuta, que contendrá la Firma Electrónica Avanzada del actuario, será ingresada al Sistema de Justicia en Línea junto con la actuación o resolución respectiva y los documentos adjuntos.
-
-III. El actuario enviará a la Dirección de Correo Electrónico de la o las partes a notificar, un aviso informándole que se ha dictado una actuación o resolución en el Expediente Electrónico, la cual está disponible en el Sistema de Justicia en Línea.
-
-IV. El Sistema de Justicia en Línea registrará la fecha y hora en que se efectúe el envío señalado en la Fracción anterior.
-
-V. Se tendrá como legalmente practicada la notificación, conforme a lo señalado en las Fracciones anteriores cuando el Sistema de Justicia en Línea genere el Acuse de Recibo Electrónico donde conste la fecha y hora en que la o las partes notificadas ingresaron al Expediente Electrónico, lo que deberá suceder dentro del plazo de tres días hábiles siguientes a la fecha de envío del aviso a la Dirección de Correo Electrónico de la o las partes a notificar.
-
-VI. En caso de que en el plazo señalado en la Fracción anterior, el Sistema de Justicia en Línea no genere el acuse de recibo donde conste que la notificación fue realizada, la misma se efectuará mediante Boletín Procesal al tercer día hábil contado a partir de la fecha de envío del Correo Electrónico, fecha en que se tendrá por legalmente notificado.
-
-VII. A los terceros interesados que se hayan opuesto a los mecanismos del Juicio en Línea en términos del Artículo anterior, se les deberá notificar como si se tratara de un Juicio en la vía tradicional.
-
-En todo caso deberá asentarse razón en el Expediente Electrónico la realización de una notificación o del aviso dado en la Dirección de Correo Electrónico señalada por alguna de las partes.
-
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
-
-###### ARTICULO 90.
-
-Para los efectos del Juicio en Línea son hábiles las 24 horas de los días en que se encuentren abiertas al público las oficinas de la Sala. Las promociones se considerarán, salvo prueba en contrario, presentadas el día y hora que conste en el Acuse de Recibo Electrónico que emita el Sistema de Justicia en Línea, en el lugar en donde el promotor tenga su domicilio. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-###### ARTICULO 91.
-
-Las autoridades cuyos actos sean susceptibles de impugnarse en términos de esta Ley, deberán registrar su Dirección de Correo Electrónico Institucional ante el Tribunal así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contencioso administrativos, para el efecto de emplazarlas electrónicamente en los juicios en los que tengan el carácter de autoridad demandada.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-Mientras que las autoridades no verifiquen el registro referido en párrafo anterior, se les emplazará como si se tratara de un Juicio en la vía tradicional.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-###### ARTICULO 92.
-
-Para la presentación y curso que se dé a demandas de amparo contra las actuaciones y resoluciones derivadas del Juicio en Línea, no será aplicable lo dispuesto en el presente Capítulo.
-
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
-
-El Secretario de Acuerdos de la Sala, deberá imprimir el archivo del Expediente Electrónico y certificar las constancias del juicio que deban ser remitidos a los Tribunales Federales.
-
-Sin perjuicio de lo anterior, en aquellos casos en que así lo soliciten los Tribunales Federales se podrá remitir la información a través de medios electrónicos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-###### ARTICULO 93.
-
-En caso que el Tribunal advierta que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en el Sistema de Justicia en Línea, se tomarán las medidas de protección necesarias, para evitar dicha conducta hasta que concluya el juicio, el cual se continuará tramitando a través del Juicio en la vía tradicional. Si el responsable es usuario del Sistema, se cancelará su Firma Electrónica Avanzada, Clave y Contraseña para ingresar al Sistema de Justicia en Línea y no tendrá posibilidad de volver a promover Juicios en Línea.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
-
-Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces el valor diario de la unidad de medida y actualización.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-###### ARTICULO 94.
-
-Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema de Justicia en Línea, haciendo imposible el cumplimiento de los plazos establecidos en la ley, las partes deberán dar aviso al Tribunal en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán únicamente el tiempo que dure la interrupción del Sistema. Para tal efecto, el Tribunal hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizará el cómputo correspondiente para determinar si hubo o no incumplimiento de los plazos legales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-No obstante lo anterior, las partes podrán presentar sus promociones como si se tratara de un Juicio en vía tradicional, mismas que se deberán digitalizar y agregarse al Expediente Electrónico.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-###### ARTICULO 95.
-
-En las notificaciones, el actuario deberá asentar razón del envío por correo o entrega de los oficios de notificación y de los avisos en la Dirección de Correo Electrónico, así como de las notificaciones personales y por lista. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancia a dichas actuaciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-### CAPITULO XV. Del Boletín Procesal
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-###### ARTICULO 96.
-
-El Boletín Procesal o lista, es el medio de comunicación oficial, a través del cual el Tribunal da a conocer las actuaciones o resoluciones en los juicios contenciosos administrativos que se tramitan ante el mismo.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-Es obligación del Tribunal, llevar actualizado el Boletín Procesal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-El mismo se difundirá por medio de dos formas:
-
-I. Impreso que estará accesible para consulta; o
-
-II. Electrónico que estará al alcance en la página de Internet de Poder Judicial del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-El Boletín Procesal se sujetará a lo dispuesto por el Código de Procedimientos Civiles en relación a la publicación de listas de acuerdos.
-
-TRANSITORIOS:
-
-###### ARTICULO PRIMERO.
-
-Esta Ley entrará en vigor a los cinco días del mes de enero del año 2000.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan las disposiciones que se opongan a la presente Ley.
-
-###### ARTICULO TERCERO.
-
-Los juicios de oposición ante el Supremo Tribunal de Justicia del Estado, que al entrar en vigor la presente Ley estén pendientes de resolución, serán concluidos por dicha autoridad y conforme al anterior procedimiento.
-
-###### ARTICULO CUARTO.
-
-Contra las resoluciones que se dicten con motivo de la interposición de recursos de carácter estatal o municipal, cuyo trámite se inició con anterioridad a la vigencia de esta Ley, podrán intentar las partes el juicio de nulidad previsto en esta legislación.
-
-Al Ejecutivo para su sanción.
-
-Dado en el salón de sesiones del H. Congreso del Estado, a los diecisiete días del mes de junio de mil novecientos noventa y nueve.- D.P., Arturo González Estrada.- D.S., Ignacio Campos Jiménez.- D.S., Luis Macías Romo.- Rúbricas".
-
-Y tenemos el honor de comunicarlo a usted para su conocimiento y efectos legales consiguientes, reiterándole las seguridades de nuestra consideración distinguida.
-
-SUFRAGIO EFECTIVO. NO REELECCION.
-
-DIPUTADO PRESIDENTE,
-
-Arturo González Estrada.
-
-DIPUTADO SECRETARIO,
-
-Ignacio Campos Jiménez.
-
-DIPUTADO SECRETARIO,
-
-Luis Macías Romo.
-
-Por tanto, mando se imprima, publique, circule y se le dé debido cumplimiento.
-
-Aguascalientes, Ags. 13 de septiembre de 1999.
-
-Felipe González González
-
-EL SECRETARIO GENERAL DE GOBIERNO,
-
-Lic. Abelardo Reyes Sahagún.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 10 DE ABRIL DE 2006.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Los procedimientos que actualmente se encuentren en trámite, se sujetarán para su continuación, en lo conducente, a las disposiciones de este Decreto.
-
-P.O. 6 DE ABRIL DE 2009.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigencia a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
-
-P.O. 7 DE SEPTIEMBRE DE 2009.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 10 DE MAYO DE 2010.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigencia el día 1º de enero del año 2011.
-
-###### ARTÍCULO SEGUNDO.
-
-Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
-
-###### ARTÍCULO TERCERO.
-
-El Estado incluirá el monto de las partidas que, en términos de la Ley de Presupuesto, Contabilidad y Gasto Público Estatal, deberá destinarse para cubrir las responsabilidades patrimoniales del Estado dentro del Presupuesto de Egresos para el año 2011.
-
-Los Ayuntamientos establecerán en sus respectivos presupuestos la partida que deberá destinarse para cubrir las responsabilidades patrimoniales que pudieran desprenderse de este ordenamiento.
-
-###### ARTÍCULO CUARTO.
-
-Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
-
-P.O. 15 DE NOVIEMBRE DE 2010.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigencia a partir del día 1º de enero del año 2011.
-
-###### ARTÍCULO SEGUNDO.
-
-El Poder Judicial del Estado a la entrada en vigencia del presente Decreto, iniciará el desarrollo e instrumentación del Sistema de Justicia en Línea.
-
-###### ARTÍCULO TERCERO.
-
-El Poder Judicial del Estado deberá realizar las acciones necesarias para que el Juicio en Línea inicie su operación a los 18 meses contados a partir de la entrada en vigencia del presente Decreto.
-
-###### ARTÍCULO CUARTO.
-
-El Poder Judicial, una vez publicado el presente Decreto, realizará una campaña de difusión del Juicio en Línea.
-
-###### ARTÍCULO QUINTO.
-
-A partir de los seis meses de la entrada en vigencia del presente Decreto, hasta antes de que se cumpla el plazo de 18 meses a que se refiere Artículo Transitorio Tercero, las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal de lo Contencioso Administrativo, deberán tramitar su Firma Electrónica Avanzada, registrar su Dirección de Correo Electrónico Institucional y el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contenciosos administrativos, ante el Poder Judicial del Estado para el efecto de emplazarlas electrónicamente a juicio en aquellos casos en los que tengan el carácter de autoridades demandadas.
-
-###### ARTÍCULO SEXTO.
-
-En el mismo plazo señalado en el Artículo anterior, las unidades administrativas a las que corresponda la representación de las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal de lo Contencioso Administrativo, deberán instrumentar y mantener permanentemente actualizados los mecanismos tecnológicos, materiales y humanos necesarios para acceder al Juicio en Línea a través del Sistema de Justicia en Línea.
-
-###### ARTÍCULO SÉPTIMO.
-
-En caso de que el Tribunal de lo Contencioso Administrativo reciba una demanda por medio del Sistema de Justicia en Línea y constate que la autoridad demandada, incumplió con lo señalado en el Artículo Transitorio Quinto, se le prevendrá por el propio Tribunal para que en el plazo de 10 días hábiles contados a partir de que se le notifique dicha prevención, proceda a cumplir con dicha disposición o en su caso acredite que ya cumplió. En caso de no cumplir, el Tribunal de lo Contencioso Administrativo le impondrá una multa de 100 a 200 veces el salario mínimo general vigente en el Estado y se requerirá a su superior jerárquico para que en el plazo de 3 días hábiles la obligue a cumplir. En caso de continuar la negativa de la autoridad, se dará vista al Órgano Interno de Control que corresponda.
-
-###### ARTÍCULO OCTAVO.
-
-Los juicios que se encuentren en trámite ante el Tribunal de lo Contencioso Administrativo a la fecha en que inicie la operación del Juicio en Línea, continuarán substanciándose y se resolverán conforme a las disposiciones vigentes a la fecha de presentación de la demanda.
-
-###### ARTÍCULO NOVENO.
-
-El Poder Judicial llevará a cabo las acciones necesarias a efecto de integrar los sistemas informáticos internos en una sola plataforma tecnológica, a través del Sistema de Justicia en Línea.
-
-###### ARTÍCULO DÉCIMO.
-
-Para la promoción, sustanciación y resolución del juicio contencioso administrativo a través del Sistema de Justicia en Línea, prevalecerán las disposiciones contenidas en el Capítulo relativo al Juicio en Línea sobre otras de la propia Ley del Procedimiento Contencioso Administrativo que se contrapongan a lo establecido en dicho Capítulo.
-
-###### ARTÍCULO DÉCIMO PRIMERO.
-
-En el Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal del año 2011 deberá preverse una partida financiera para el Poder Judicial que permita la implementación del Juicio en Línea. Adicionalmente El Poder Judicial del Estado deberá gestionar, ante las instancias correspondientes, financiamiento que contribuya a concretar el presente Decreto.
-
-P.O. 17 DE OCTUBRE DE 2011.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan las disposiciones legales que se opongan a la presente reforma.
-
-P.O. 27 DE AGOSTO DE 2012.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Administrativa y Electoral deberá expedir el Reglamento que rija su actuación; debiendo quedar abrogado el Reglamento del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes y el Reglamento Interior del Tribunal Local Electoral.
-
-###### ARTÍCULO TERCERO.
-
-El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
-
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
-
-###### ARTÍCULO CUARTO.
-
-Los Magistrados integrantes del Supremo Tribunal de Justicia del Estado, cuyo nombramiento haya sido expedido con anterioridad a la entrada en vigencia del Decreto Número 243, no quedarán sujetos al proceso de reelección previsto por el Artículo 10 A, último párrafo, en relación al Artículo 10 de la Ley Orgánica del Poder Judicial, por lo que al concluir el período para el que fueron nombrados, podrán ser reelectos a través de la evaluación que de su desempeño realice el Consejo de la Judicatura Estatal y someta a la consideración del Congreso del Estado.
-
-P.O. 11 DE FEBRERO DE 2013.
-
-###### ARTICULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 3 DE JULIO DE 2017.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 17 DE OCTUBRE DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 199.- SE REFORMAN LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES; LA LEY DE EXPROPIACIÓN PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES; EL CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE HACIENDA DEL MUNICIPIO DE ASIENTOS, AGUASCALIENTES; Y, LA LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor a los seis meses posteriores de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
-
-P.O. 23 DE ENERO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 2 DE DICIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 31.- SE REFORMA LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 5 DE MAYO DE 2025.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 157.- SE REFORMA LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 10 DE NOVIEMBRE DE 2025.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 278.- SE ADICIONA LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 20 DE ABRIL DE 2026.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 446.- SE REFORMA LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES".]
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 23 DE JUNIO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 522.- SE REFORMA LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-###### ARTÍCULO TERCERO.
-
-El Tribunal de Justicia Administrativa del Estado de Aguascalientes, en un plazo no mayor a 60 días naturales contados a partir de la entrada en vigor del presente Decreto, realizará las adecuaciones reglamentarias y administrativas necesarias para su cumplimiento.
-
-###### ARTICULO 29.
-
-La demanda deberá contener:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-I.- El nombre del actor y domicilio para recibir notificaciones, así como su Dirección de Correo Electrónico, cuando opte por la sustanciación de Juicio en Línea;
-
-II.- La resolución o acto administrativo que se impugna;
-
-III.- La autoridad o autoridades demandadas o el nombre y domicilio del particular demandado, cuando el juicio sea promovido por la autoridad administrativa;
-
-IV.- Los hechos que dieron origen al acto que se impugna;
-
-V.- La fecha en la que se tuvo conocimiento de la resolución o acto impugnado;
-
-VI.- La expresión de los conceptos de nulidad que se hagan valer en contra del acto o resolución impugnado;
-
-VII.- El nombre y domicilio del tercero interesado cuando lo haya;
-
-VIII.- La enumeración de las pruebas que ofrezca, las que deberán relacionarse con cada uno de los conceptos de nulidad; y
-
-IX.- Manifestar en su caso si se solicita la suspensión del acto impugnado y hacer el ofrecimiento de la garantía cuando corresponda.
-
-###### ARTICULO 30.
-
-El actor deberá adjuntar a su demanda:
-
-I.- Una copia de la misma y de los documentos anexos, para cada una de las partes, cuando éstos no excedan de veinticinco hojas;
-
-II.- El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, cuando no gestione en nombre propio;
-
-III.- El documento en que conste el acto impugnado o, en su caso, copia del documento de la pretensión del actor no resuelta por la autoridad;
-
-IV.- El cuestionario para los peritos y el interrogatorio para los testigos, en el caso de que éstas pruebas se ofrezcan;
-
-V.- Las pruebas documentales que ofrezca; y
-
-VI.- Constancia de la notificación del acto impugnado, excepto cuando el demandante declare, bajo protesta de decir verdad, que no recibió constancia o cuando hubiere sido por correo.
-
-Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y el nombre del órgano en que ésta se hizo.
-
-Cuando las pruebas documentales no obren en poder del actor o cuando no hubiera podido obtenerlas, a pesar de tratarse de documentos que de manera legal se encuentren a su disposición, éste deberá señalar el archivo o ligar en que se hallen para que, a su costa, se mande expedir copia de ellos o se requiera su remisión, cuando ésta sea legalmente posible. Para este efecto, deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que se acompañe copia de la solicitud debidamente presentada. Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
-
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
-
-Si al examinarse la demanda o su ampliación en casos de negativa ficta, se advierte que ésta es oscura, irregular o incompleta, con excepción de la omisión a expresar conceptos de nulidad o que no se adjuntaron los documentos señalados en el presente Artículo, se requerirá mediante notificación personal al actor para que la aclare, corrija, complete o exhiba los documentos aludidos, en un plazo de tres días, apercibiéndolo que de no hacerlo, se desechará de plano la demanda o se tendrán por no ofrecidas las pruebas.
-
-###### ARTICULO 31.
-
-Cuando se impugne una negativa ficta, el actor tendrá derecho de ampliar la demanda, dentro de los quince días siguientes a la fecha en que surta efectos la notificación del acuerdo recaído a la contestación de la misma.
-
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
-
-También podrá ampliar la demanda, cuando en la contestación se sostenga que el juicio es improcedente, por consentimiento tácito, si el actor considera que la notificación del acto impugnado se practicó de manera ilegal y cuando con motivo de la contestación, se introduzcan cuestiones que, sin violar el primer párrafo del Artículo 37, no sean conocidas por el actor al presentar la demanda.
-
-Cuando se alegue que el acto administrativo no fue notificado o que lo fue de manera ilegal se estará a lo siguiente:
-
-I.- Si el actor afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer en la demanda, en la que manifestará la fecha en que la conoció. En caso de que también impugne el acto administrativo, los conceptos de nulidad se expresarán en la demanda, de manera conjunta con los que se formulen contra la notificación;
-
-II.- Si el actor manifiesta que no conoce el acto administrativo, así lo expresará en la demanda, señalando la autoridad a quien atribuye el acto, la notificación de éste o su ejecución. En este caso al contestar la demanda la autoridad acompañará constancia del acto administrativo y de su notificación, mismos que el actor podrá combatir en ampliación de demanda dentro de los quince días siguientes a aquél en que los conozca; y
-
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-III.- El Tribunal estudiará los conceptos de nulidad expresados contra la notificación, previamente al examen de la impugnación del acto administrativo.
-
-###### ARTICULO 32.
-
-La demanda se admitirá, dentro de los tres días siguientes al de su presentación. En el mismo auto que se dé entrada a ésta, se admitirán o desecharán las pruebas ofrecidas y, en su caso, se dictarán las providencias necesarias para su desahogo; se aceptará o rechazará la intervención del coadyuvante o del tercero.
-
-###### ARTICULO 33.
-
-El tercero o el coadyuvante, dentro de los quince días siguientes a aquel en el que se le corra traslado de la demanda, podrá apersonarse al juicio mediante escrito que contendrá los requisitos de la contestación o de la demanda, según sea el caso, así como la justificación de su derecho para intervenir en el asunto.
-
-###### ARTICULO 34.
-
-Se desechará la demanda en los siguientes casos:
-
-I.- Si se encontrara motivo manifiesto e indudable de improcedencia; y
-
-II.- Cuando prevenido el actor para subsanar los defectos de la misma, no lo hiciere.
+QUINTO. Se derogan todas las disposiciones que (sic) opongan al presente Acuerdo General.
