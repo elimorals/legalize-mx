@@ -1,0 +1,10264 @@
+---
+title: "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO]"
+identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
+country: "mx"
+rank: "acuerdo"
+publication_date: "2015-01-02"
+last_updated: "2015-01-02"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "103987"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "ACUERDO (S)"
+original_gazette_section: "2 PRIMERA SECCION"
+reform_count: "88"
+scjn_last_update: "2024-12-06"
+issue_date: "2014-12-12"
+---
+# ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO]
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
+
+TEXTO ORIGINAL.
+
+Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO.
+
+CONSIDERANDO
+
+PRIMERO.- La administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del mismo, corresponde al Consejo de la Judicatura Federal, con fundamento en los artículos 94, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos y 68 de la Ley Orgánica del Poder Judicial de la Federación;
+
+SEGUNDO.- De conformidad con el artículo 100, primer párrafo constitucional, el Consejo de la Judicatura Federal es un órgano del Poder Judicial de la Federación con independencia técnica, de gestión y para emitir sus resoluciones;
+
+TERCERO.- Es facultad del Consejo de la Judicatura Federal emitir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo previsto en los artículos 100 de la Constitución Política de los Estados Unidos Mexicanos y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación;
+
+CUARTO.- Como parte del proceso de modernización institucional y mejora administrativa; el Consejo de la Judicatura Federal ha puesto en marcha un proceso de simplificación y actualización normativa;
+
+QUINTO.- El proceso de compilación atiende a las ventajas de contar con un menor número de acuerdos generales que regulen la actividad institucional, en específico:
+
+1. La concentración de las normas jurídicas facilita la observancia de las mismas, así como su aplicación e interpretación, en beneficio de la eficiencia del servicio público;
+
+2. El fortalecimiento de la salvaguarda de los principios de seguridad jurídica y legalidad, al contar con reglas más claras que rijan la organización institucional, y que brinden mayor certeza a los destinatarios de la norma;
+
+3. El incremento de carácter sistemático de los instrumentos jurídicos, en concordancia con la aspiración de contar con ordenamientos jurídicos con plenitud hermenéutica; y
+
+4. La reducción del umbral de posibles anacronismos y contradicciones; y
+
+SEXTO.- El presente instrumento normativo constituye una compilación de acuerdos generales del Consejo en materia de actividad administrativa para el propio Consejo.
+
+Por lo anterior, se expide el siguiente
+
+ACUERDO
+
+# LIBRO PRIMERO. DISPOSICIONES PRELIMINARES
+
+## TÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+### CAPÍTULO PRIMERO. OBJETO
+
+###### Artículo 1.
+
+El objeto del presente Acuerdo es:
+
+I. Establecer las disposiciones en materia de recursos humanos, en específico:
+
+a) Los criterios para la determinación de la temporalidad de los nombramientos del personal de confianza y la prórroga de los mismos;
+
+b) La integración, custodia, conservación, depuración y préstamo de los expedientes del personal del Consejo de la Judicatura Federal;
+
+c) Las relativas a la separación de servidores públicos por incapacidad física o mental para el ejercicio de sus cargos;
+
+d) Lo referente a las relaciones burocrático laborales en el Poder Judicial de la Federación;
+
+e) La jornada y el horario de trabajo de los servidores públicos adscritos a las áreas administrativas;
+
+f) Los lineamientos generales para la operación del registro automatizado de entrada y salida de servidores públicos adscritos a los órganos jurisdiccionales y áreas administrativas;
+
+g) La regulación de premios que se otorgan a los servidores públicos del Poder Judicial de la Federación;
+
+h) Las bases de funcionamiento del Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación, considerado como parte de las condiciones generales de trabajo establecidas a favor de dichos servidores públicos y en pro de la independencia de la judicatura;
+
+i) Las bases del funcionamiento de la prestación denominada Fondo de Reserva Individualizado para los servidores públicos de nivel operativo del Poder Judicial de la Federación, que se incorporen a dicho programa; así como regular en el ámbito administrativo la forma, condiciones y especificaciones para su instrumentación;
+
+j) La regulación de la prestación de los servicios de custodia, alimentación, medicina preventiva y educación que proporciona el Consejo a los hijos de servidores públicos que laboran en el Poder Judicial de la Federación; y
+
+k) Aspectos relativos a licencias;
+
+II. Establecer las disposiciones relacionadas con recursos materiales y servicios generales, en específico:
+
+a) Las bases y procedimientos a los que deberá sujetarse el Consejo en las contrataciones que celebre en materia de adquisiciones, arrendamiento de bienes muebles, prestación de servicios de cualquier naturaleza, obra pública y servicios relacionados con la misma, en ejercicio del Presupuesto de Egresos del Poder Judicial de la Federación, a fin de que se ajusten a los criterios contemplados en el artículo 134 de la Constitución;
+
+b) La regulación de los procedimientos y demás acciones relacionadas con:
+
+1. La adquisición, aprovechamiento, conservación, mantenimiento, inventario, enajenación y desincorporación de los inmuebles federales al servicio del Poder Judicial de la Federación;
+
+2. El arrendamiento de los bienes inmuebles que requiera para el funcionamiento de sus órganos jurisdiccionales y áreas administrativas;
+
+3. La administración de aquéllos inmuebles que tenga concedidos en comodato; y
+
+4. Las instancias responsables de cumplir y hacer cumplir las disposiciones conducentes en la materia;
+
+c) Las relativas a la atribución de la Dirección General de Asuntos Jurídicos de emitir opinión o dictamen de procedencia respecto de los proyectos de contratos, convenios, órdenes de servicio, pedidos, bases de coordinación o cualquier otro instrumento que genere derechos u obligaciones de cualquier tipo al Consejo, que elaboren en el ámbito de su competencia las áreas administrativas;
+
+d) Las reglas de carácter general que deben observarse para la desincorporación de los bienes muebles al servicio del Poder Judicial de la Federación;
+
+e) La regulación de la administración y destino final de los bienes asegurados no reclamados y decomisados en los procedimientos penales federales, que hubieran sido puestos a disposición del Consejo antes del catorce de agosto de mil novecientos noventa y nueve, respecto de los cuales los órganos jurisdiccionales hayan emitido el certificado de disponibilidad respectivo;
+
+f) Lo relativo al Comité de Informática; y
+
+g) Determinar las atribuciones que se delegan a las unidades operativas encargadas de la administración de los edificios en propiedad o en uso del Poder Judicial de la Federación, ubicados en el Distrito Federal y la zona conurbada, en materia de recursos materiales, servicios generales y servicios de mantenimiento y conservación, así como establecer su organización y funcionamiento;
+
+III. Establecer las disposiciones relacionadas con recursos financieros, en específico:
+
+a) Reglamentar, en el Consejo, lo previsto en los artículos 100, 126, 127 y 134 de la Constitución; los artículos 68 y 81, fracciones II, XIII, XVII, XVIII, XXX y XXXIV de la Ley Orgánica; las disposiciones aplicables de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; y demás emitidas por el Pleno, en materia de programación, presupuestación, ejercicio, control y evaluación de los ingresos y egresos del Poder Judicial de Federación;
+
+b) La regulación de la toma de decisiones en materia de inversión de los recursos financieros, presupuestales y no presupuestales, del Consejo; y
+
+c) Las relativas a la organización y funcionamiento del Fondo de Apoyo a la Administración de Justicia, de conformidad con lo previsto en el Título Décimo Segundo de la Ley Orgánica del Poder Judicial de la Federación;
+
+IV. Las disposiciones en materia de comunicación social;
+
+V. Las condiciones de Seguridad Institucional, en las instalaciones del Poder Judicial de la Federación, mediante la prevención de riesgos en la seguridad de los servidores públicos, el buen funcionamiento del servicio al público y los espacios donde se presta el mismo, para lo cual se establecen las disposiciones que regulan la organización, participación, programas, recursos humanos y materiales, que en pleno respeto a los Derechos Humanos cumplan con dicho fin;
+
+VI. Las disposiciones en materia de protección civil que deberán observarse en el Poder Judicial de la Federación; y
+
+VII. Regular la Compilación Normativa.
+
+### CAPÍTULO SEGUNDO. GLOSARIOS
+
+###### Artículo 2.
+
+Para efectos de este Acuerdo se entenderá:
+
+I. Acuerdo: Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa del propio Consejo;
+
+II. Áreas administrativas: unidades administrativas y órganos auxiliares del Consejo de la Judicatura Federal;
+
+III. CENDI: Centro de Desarrollo Infantil del Poder Judicial de la Federación;
+
+IV. Comisiones: Aquellas que señale el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
+
+V. Consejeros: Consejeros de la Judicatura Federal;
+
+VI. Consejo: Consejo de la Judicatura Federal;
+
+VII. Constitución: Constitución Política de los Estados Unidos Mexicanos;
+
+VIII. Contraloría: Contraloría del Poder Judicial de la Federación;
+
+IX. Fondo de Apoyo: Fondo de Apoyo a la Administración de Justicia;
+
+X. ISSSTE: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+XI. Ley Anticorrupción: Ley Federal Anticorrupción en Contrataciones Públicas;
+
+XII. Ley del ISSSTE: Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+XIII. Ley Federal de los Trabajadores al Servicio del Estado: Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B del artículo 123 de la Constitución;
+
+XIV. Ley Orgánica: Ley Orgánica del Poder Judicial de la Federación;
+
+XV. Lista de Valores: Lista de valores mínimos para desechos de bienes muebles que generen las dependencias y entidades de la Administración Pública Federal;
+
+XVI. Órganos jurisdiccionales: Tribunales de Circuito y Juzgados de Distrito;
+
+XVII. Pleno: Pleno del Consejo;
+
+XVIII. Poder Judicial de la Federación: Los órganos señalados en el artículo 94 de la Constitución, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación;
+
+XIX. Presidente: Consejero Presidente del Consejo;
+
+XX. SAE: El organismo descentralizado de la Administración Pública Federal denominado: Servicio de Administración y Enajenación de Bienes, previsto en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público; y
+
+XXI. Unidades administrativas: Aquellas que determine el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+###### Artículo 3.
+
+Para efectos del Capítulo Octavo, del Título Primero del Libro Segundo de este Acuerdo, se entenderá por:
+
+I. Auxiliar de Asistencia y Puntualidad: Coordinador Técnico Administrativo de los órganos jurisdiccionales o el servidor público designado por el titular del área administrativa que corresponda, así como el servidor público que lo supla en caso de ausencia por determinación del titular respectivo;
+
+II. Registro: Registro automatizado de entrada y salida de servidores públicos; y
+
+III. Unidad de Registro y Control de Asistencia: Encargada de la implementación, operación y funcionamiento del Registro, dependiente de la Dirección General de Recursos Humanos.
+
+###### Artículo 4.
+
+Para efectos del Capítulo Segundo, del Título Segundo del Libro Segundo de este Acuerdo, se entenderá por:
+
+I. Comité Técnico del Fideicomiso: Órgano creado por el Consejo como fideicomitente en el contrato de fideicomiso de inversión constituido para tal efecto;
+
+II. Fondo: La cantidad de dinero del que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto y de existir, la partida presupuestal correspondiente;
+
+III. Jubilación: Retiro del servicio activo otorgado a los servidores públicos del Poder Judicial de la Federación por haber cumplido la edad y los años de servicio determinados en este acuerdo, para tener derecho a gozar de la pensión complementaria en él regulada. La jubilación puede ser de dos tipos, a saber:
+
+a) Jubilación forzosa: se presenta cuando el magistrado de Circuito o juez de Distrito cumple la edad límite de 75 años y necesariamente debe retirarse de su cargo; y
+
+b) Jubilación anticipada: es la posibilidad que tienen los magistrados de Circuito o jueces de Distrito para solicitar su retiro voluntario cuando hayan cumplido 65 años de edad y, por lo menos, 25 años de servicio.
+
+Se considera que para efectos del cálculo de la antigüedad de los magistrados de Circuito y jueces de Distrito, se debe atender a lo dispuesto en el artículo 94 de la Constitución que dispone que el ejercicio del Poder Judicial de la Federación se deposita en una Suprema Corte de Justicia, en un Tribunal Electoral, en Tribunales Colegiados y Unitarios de Circuito y Juzgados de Distrito;
+
+IV. Pensión Complementaria: Retribución mensual vitalicia que otorga el Consejo a aquellos que cumplan con los requisitos que para tal efecto se prevén en este Acuerdo;
+
+V. Pensión del ISSSTE: Es la retribución mensual que otorga el ISSSTE a los trabajadores que se jubilen, de conformidad con lo previsto en la Ley del ISSSTE.
+
+Para efectos del Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación, se considera como pensión del ISSSTE, el monto señalado como concepto “01 Pensión” del recibo de pago expedido por el propio Instituto;
+
+VI. Pensión total por jubilación: Retribución mensual que se integra con la pensión del ISSSTE más la pensión complementaria;
+
+VII. Plan: Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación;
+
+VIII. Salario Neto: Retribución que se paga al trabajador por el ejercicio de su empleo, cargo o comisión, en cantidad líquida, por nómina, una vez descontadas todas las deducciones legales; y
+
+IX. Sueldo Pensionable: Salario mensual neto vigente, percibido por el servidor público respectivo, a la fecha de su baja en el cargo correspondiente.
+
+###### Artículo 5.
+
+Para efectos del Capítulo Tercero del Título Segundo del Libro Segundo de este Acuerdo se entenderá por:
+
+I. Aportación Ordinaria: Son las aportaciones que realiza el servidor público al Fondo, por un porcentaje del 2%, 5% o el 10% del monto de su sueldo básico y que se deduce a través del sistema de nómina. Así como, la cantidad de dinero que cubra el Consejo por cuenta y en nombre del servidor público por un monto igual al 2%, 5% o el 10% por el que haya optado el servidor público de su sueldo básico;
+
+II. Baja: Separación definitiva del Poder Judicial de la Federación, independientemente de la causa que lo origine;
+
+III. Comité de Inversión: Comité de Inversión de Recursos Financieros del Consejo de la Judicatura Federal;
+
+IV. Fondo: Es la prestación o beneficio establecido a favor de los servidores públicos de nivel operativo, que consiste en un Fondo de Ahorro o de reserva individualizado que otorga el Consejo a quienes manifiesten voluntariamente su decisión de incorporarse a dicho beneficio, teniendo como finalidad fomentar el ahorro;
+
+V. Institución: Persona moral de carácter financiero que determine el Pleno, misma que será la responsable de operar y administrar el patrimonio del Fondo;
+
+VI. Patrimonio del Fondo: Es la suma de dinero que se constituye por las aportaciones ordinarias y los rendimientos devengados por éstas y por los préstamos;
+
+VII. Servidores públicos: Personal operativo adscrito a los órganos jurisdiccionales o las áreas administrativas;
+
+VIII. Sociedades de Inversión: Son instituciones financieras especializadas, que tienen por objeto la adquisición de valores y documentos seleccionados de acuerdo a un criterio de diversificación de riesgos establecidos previamente, el cual será constituido exclusivamente por valores gubernamentales que ofrezcan las mejores condiciones de mercado; y
+
+IX. Sueldo Básico: Es el sueldo base más la compensación de apoyo que refleja el tabulador de sueldos del Consejo vigente.
+
+###### Artículo 6.
+
+Para efectos del Capítulo Cuarto del Título Segundo del Libro Segundo de este Acuerdo se entenderá por:
+
+I. Director del CENDI: Servidor público encargado del CENDI respectivo;
+
+II. Filtro de salud: La revisión que diariamente se debe practicar a los infantes por personal del CENDI, previo a su ingreso;
+
+III. Infantes: Los menores que asisten a los CENDI, hijos o pupilos de los servidores públicos que laboran en el Poder Judicial de la Federación;
+
+IV. Personal: Los servidores públicos que laboran en los CENDI;
+
+V. Prestación de servicios: Los servicios de custodia, alimentación, medicina preventiva y educación, que se brinda a los menores inscritos en los CENDI;
+
+VI. SEP: Secretaría de Educación Pública;
+
+VII. Supervisor: Titular de la Dirección de los CENDI y de las Estancias Infantiles; y
+
+VIII. Trabajador: Los servidores públicos que laboren en el Poder Judicial de la Federación, y cuyos menores disfruten de los servicios que brinda el CENDI.
+
+###### Artículo 7.
+
+Para efectos del Capítulo Primero, del Título Primero del Libro Tercero de este Acuerdo se entenderá por:
+
+I. Área administradora del contrato: El área de adquisiciones o de obra según corresponda;
+
+II. Áreas asesoras: Las direcciones generales de Recursos Materiales; de Servicios Generales; de Inmuebles y Mantenimiento; y de Tecnologías de la Información, en el ámbito de su competencia;
+
+III. Área de Adquisiciones: Las direcciones generales de Recursos Materiales; de Servicios Generales; Administradores de Edificios, y la Coordinación de Administración Regional, incluso a través de sus Administraciones Regionales y Delegaciones Administrativas, según corresponda de acuerdo a su competencia;
+
+IV. Área de Obras: La Dirección General de Inmuebles y Mantenimiento y, en su caso, los Administradores de Edificios, y la Coordinación de Administración Regional, incluso a través de sus Administraciones Regionales y Delegaciones Administrativas;
+
+V. Áreas Operativas: Las Direcciones Generales de Inmuebles y Mantenimiento; de Recursos Materiales; y de Servicios Generales, la Coordinación de Administración Regional; las Administraciones Regionales y las Administraciones de Edificios en el Distrito Federal y zona conurbada;
+
+VI. Área requirente: La que solicita o requiere formal u orgánicamente la adquisición o arrendamiento de bienes o la prestación de servicios; así como la obra pública o servicios relacionados con la misma;
+
+VII. Área técnica: El órgano administrativo que cuenta con competencia para resolver sobre especificaciones, características y demás aspectos técnicos de los bienes, servicios, obra pública y servicios relacionados con la misma que solicite el área requirente;
+
+VIII. Comité: El Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios;
+
+IX. CompraNet: La plataforma informática del sistema electrónico de información pública gubernamental, a que hacen alusión los artículos 2, fracciones II, de las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público; y de Obras Públicas y Servicios Relacionados con las Mismas;
+
+X. Contratista: La persona física o moral con la que se celebren contratos de obra pública, de servicios relacionados con la misma o de cualquier naturaleza, según corresponda;
+
+XI. Días Hábiles: Los días que se labore en el Consejo, comprendiéndose todos los del año, excluyéndose los sábados, domingos y los que establece como inhábiles el artículo 163 de la Ley Orgánica, así como los que determine el Pleno.
+
+En los periodos de receso o de vacaciones del Consejo, con motivo de los trabajos que se pacten a desarrollar por los proveedores, contratistas o prestadores de servicios en días inhábiles, las Áreas de Adquisiciones y de Obras mantendrán el personal suficiente para el debido cumplimiento de los actos materia del Capítulo Primero, del Título Primero del Libro Tercero de este Acuerdo;
+
+XII. Investigación de mercado: En materia de Adquisiciones, Arrendamientos y Servicios se deberá entender como: la verificación sistemática de la existencia de bienes, arrendamiento, servicios, de proveedores o prestadores de servicios a nivel nacional o internacional y del precio estimado basado en la información que se obtenga en el Consejo de organismos públicos o privados, de fabricantes de bienes, o prestadores del servicio, o cualquier otra fuente de información o una combinación de las mismas.
+
+En materia de obra pública se deberá entender como: La verificación de la existencia y costo de materiales, mano de obra, maquinaria y equipo, así como de contratistas, a nivel nacional o internacional, y del precio total estimado de los trabajos, basado en la información que se obtenga en términos del Capítulo Primero, del Título Primero del Libro Tercero de este Acuerdo;
+
+XIII. Prestador de servicios: La persona física o moral que otorgue servicios de cualquier naturaleza, salvo los relacionados con obra pública;
+
+XIV. Proveedor: La persona física o moral que suministre, arriende bienes muebles o preste servicios; y
+
+XV. Testigo Social: Es quien actúa en representación honorífica de la sociedad y con su presencia da testimonio de que un hecho determinado es verdad.
+
+###### Artículo 8.
+
+Para los efectos del Capítulo Primero, del Título Segundo del Libro Tercero de este Acuerdo se entenderá por:
+
+I. Áreas Operativas: La Dirección General de Recursos Materiales, la Dirección General de Inmuebles y Mantenimiento, la Dirección General de Tecnologías de la Información, las Administraciones Regionales y Delegaciones Administrativas;
+
+II. Asesores: Persona o personas que prestarán asesoría al Comité;
+
+III. Avalúo: El resultado del proceso de estimar en dinero el valor de los bienes por parte de los valuadores facultados para desarrollar dicha actividad;
+
+IV. Bienes: Los bienes muebles, instrumentales y de consumo, que figuren en los inventarios del Consejo.
+
+Se ubican también dentro de esta definición los bienes muebles que por su naturaleza, en los términos del artículo 751 del Código Civil Federal, se hayan considerado como inmuebles y que hubieren recobrado su calidad de muebles por las razones que en el mismo precepto se establecen;
+
+V. Bienes de consumo: Los que por su utilización en el desarrollo de las actividades que realizan los órganos jurisdiccionales y áreas administrativas, tienen un desgaste parcial o total y son controlados a través de un registro global en sus inventarios, dada su naturaleza y finalidad en el servicio;
+
+VI. Bienes instrumentales: Los considerados como implementos o medios para el desarrollo de las actividades que realizan los órganos jurisdiccionales, y áreas administrativas, siendo susceptibles de la asignación de un número de inventario dada su naturaleza y finalidad en el servicio;
+
+VII. Bienes no útiles: Los que por su estado físico o cualidades técnicas no resulten funcionales, no se requieran para el servicio al cual se destinaron o sea inconveniente seguirlos utilizando;
+
+VIII. Comité: El Comité de Desincorporación de Bienes Muebles;
+
+IX. Contratista: La persona física o moral con la que se celebren contratos;
+
+X. Desechos: Los bienes muebles que por sus condiciones físicas se consideran desperdicios;
+
+XI. Destino final: La determinación de enajenar, donar, permutar, transferir, destruir u otorgar en dación en pago los bienes no útiles;
+
+XII. Día Hábil: Los días de labores del Consejo, comprendiéndose, los que se encuentran dentro de los periodos de sesiones conforme al artículo 70 de la Ley Orgánica, excluyéndose los sábados y domingos, los que la propia Ley Orgánica establece como inhábiles en el artículo 163, así como los que determine el Pleno;
+
+XIII. Mantenimiento: Acción tendiente a proveer a un bien de lo necesario para lograr su conservación y alargar su vida útil;
+
+XIV. Rehabilitación costeable y conveniente: Aquélla reparación del bien que no exceda el 50% de su valor comercial;
+
+XV. Salario Mínimo: El salario mínimo general diario vigente para el Distrito Federal; y
+
+XVI. Vida útil: Tiempo de uso según norma del fabricante, régimen fiscal, tecnología, etcétera.
+
+###### Artículo 9.
+
+Para los efectos del Capítulo Segundo, del Título Segundo del Libro Tercero de este Acuerdo se entenderá por:
+
+I. Administración Regional: Coordinación de Administración Regional, y administradores regionales y delegados administrativos, cuando cuenten con la autorización de la propia Coordinación;
+
+II. Bienes asegurados no reclamados: Los bienes muebles, inmuebles o derechos reales relacionados con procesos penales federales de los cuales se haya ordenado su devolución y que no hayan sido recogidos por quien tenga derecho a ello, en los plazos previstos por el Código Penal Federal, y se hayan puesto a disposición del Consejo para determinar su destino final;
+
+III. Bienes decomisados: Los bienes muebles, inmuebles o derechos reales que por resolución firme hayan adquirido ese carácter, en términos del artículo 40 del Código Penal Federal, puestos a disposición del Consejo;
+
+IV. Bienes incosteables: Aquellos distintos a numerario, cuyo valor comercial sea inferior a sus costos de administración; a los gastos inherentes a obtener su disponibilidad, o bien que tengan un valor menor al equivalente a seis meses de salario mínimo general vigente para el Distrito Federal;
+
+V. Costos de administración: La suma de todos los gastos, tanto directos como indirectos, que se requieran para la conservación, mantenimiento, supervisión, custodia, destrucción o enajenación de un bien, tales como los pagos que se generen por concepto de honorarios, pagos a terceros especializados, servicios de vigilancia, transporte, embalaje, almacenamiento, avalúos, contribuciones, seguros y energía eléctrica, entre otros, que se vinculen estrictamente con el bien de que se trate;
+
+VI. Registro: Registro de bienes asegurados no reclamados y decomisados puestos a disposición del Consejo, de los cuales se haya expedido el certificado de disponibilidad; y
+
+VII. Salario Mínimo: El salario mínimo general diario vigente para el Distrito Federal.
+
+###### Artículo 10.
+
+Para los efectos del Capítulo Segundo del Título Tercero del Libro Tercero de este Acuerdo:
+
+I. Administraciones de edificios: Las unidades operativas encargadas de la administración de los edificios en propiedad o en uso del Consejo de la Judicatura Federal, ubicados en el Distrito Federal y en la zona conurbada;
+
+II. Órganos jurisdiccionales: Los órganos jurisdiccionales ubicados en el Distrito Federal y en la zona conurbada;
+
+III. Órganos administrativos: Las áreas administrativas ubicadas en el Distrito Federal y en la zona conurbada;
+
+IV. Inmuebles del Poder Judicial de la Federación: Los edificios en propiedad o en uso del Consejo, ubicados en el Distrito Federal y en la zona conurbada;
+
+V. Recursos materiales: Los medios materiales y técnicos que hacen factible la operación de los edificios en propiedad o en uso del Poder Judicial de la Federación, ubicados en el Distrito Federal y en la zona conurbada;
+
+VI. Servicios generales: Son las actividades complementarias relacionadas con la función de apoyo material y logístico, para asegurar de manera permanente, general, regular y continua, que los usuarios de cada edificio puedan desarrollar sus actividades sin ningún obstáculo; y
+
+VII. Mantenimiento y conservación: Son las actividades relacionadas con la instalación, reparación, mantenimiento y conservación de los edificios en propiedad o en uso del Poder Judicial de la Federación, ubicados en el Distrito Federal y en la zona conurbada.
+
+###### Artículo 11.
+
+Para los efectos del Título Primero del Libro Cuarto de este Acuerdo se entenderá por:
+
+I. Adecuaciones presupuestarias: Modificaciones que se realizan durante el ejercicio, al presupuesto autorizado o los ajustes a los calendarios financieros, con el fin de permitir un mejor cumplimiento de los objetivos y programas autorizados. Las adecuaciones comprenden traspasos compensados, ampliaciones y reducciones líquidas de recursos;
+
+II. Ahorro presupuestario: Remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;
+
+III. Apoyos: Erogaciones, sujetas a comprobación, de conformidad con los lineamientos, montos y periodicidad aprobados por los órganos de gobierno, que podrán realizarse para que los servidores públicos estén en aptitud de desempeñar las funciones inherentes a su cargo;
+
+IV. Auditoría: Auditoría Superior de la Federación;
+
+V. Certificación de Disponibilidad Presupuestal: Validación de la existencia de recursos presupuestales para un destino de gasto específico, con objeto de respaldar la solicitud de autorización para la adquisición o contratación de un bien o servicio ante la instancia competente, incluyendo los correspondientes a servicios personales;
+
+VI. Clasificador por Objeto del Gasto: Instrumento que define y permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizados en capítulos, conceptos y partidas con base en la clasificación económica del gasto;
+
+VII. Cuenta Pública: Cuenta de la Hacienda Pública Federal;
+
+VIII. Documento de Afectación Presupuestal: Documento que se elabora para efectos de registrar el compromiso de recursos presupuestales autorizados, a través de la presentación de los contratos, convenios, pedidos, órdenes de trabajo y de servicio, así como cualquier otro documento que represente una obligación de pago a cargo del Consejo;
+
+IX. Economías: Remanentes de recursos no devengados del presupuesto modificado;
+
+X. Eficacia en la aplicación del gasto público: Lograr en el ejercicio fiscal los objetivos y las metas programadas en los términos del citado Capítulo y demás disposiciones aplicables;
+
+XI. Eficiencia en el ejercicio del gasto público: Ejercicio del Presupuesto de Egresos del Poder Judicial de la Federación en tiempo y forma, en los términos del citado Capítulo y demás disposiciones aplicables;
+
+XII. Estructura Programática: Conjunto de categorías y elementos programáticos ordenados en forma coherente, el cual define las acciones que efectúan los ejecutores de gasto para alcanzar sus objetivos y metas de acuerdo con las políticas definidas por el Pleno y en los programas y presupuestos; asimismo, ordena y clasifica las acciones de los ejecutores de gasto para delimitar la aplicación del gasto y permite conocer el rendimiento esperado de la utilización de los recursos públicos;
+
+XIII. Gasto programable: Erogaciones que el Consejo realiza en cumplimiento de sus atribuciones de carácter administrativo, en términos de los artículos 100 de la Constitución y 68 de la Ley Orgánica;
+
+XIV. Informes trimestrales: Informes sobre la situación financiera que el Consejo presenta a las autoridades correspondientes en términos de la legislación aplicable;
+
+XV. Ingresos excedentes: Recursos que durante el ejercicio fiscal se obtienen en exceso a los aprobados al Consejo en el Presupuesto de Egresos de la Federación;
+
+XVI. Ley de Ingresos: la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente;
+
+XVII. Ley de Presupuesto: Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+
+XVIII. Lineamientos específicos: Disposiciones a las cuales se sujetan determinados programas y conceptos de gasto con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos;
+
+XIX. Percepciones extraordinarias: Estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos a cargo del Consejo, así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones emitidas por el Pleno, la legislación laboral y demás ordenamientos aplicables;
+
+XX. Percepciones ordinarias: Pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado por el Pleno;
+
+XXI. Presupuesto de Egresos: Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente, los anexos y tomos que lo integran;
+
+XXII. Presupuesto de Egresos del Poder Judicial de la Federación: Presupuesto de Egresos autorizado por el Pleno, que comprende el presupuesto autorizado por la Cámara de Diputados dentro del Presupuesto de Egresos de la Federación, así como las ampliaciones líquidas por ingresos excedentes que se obtengan durante el ejercicio;
+
+XXIII. Presupuesto devengado: Reconocimiento de las obligaciones de pago por parte de las unidades ejecutoras de gasto a favor de terceros, por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, así como de las obligaciones de pago que se derivan por mandato de leyes o decretos, resoluciones y sentencias definitivas;
+
+XXIV. Presupuesto regularizable de servicios personales: Erogaciones que con cargo al Presupuesto de Egresos del Poder Judicial de la Federación implican un gasto permanente en subsecuentes ejercicios fiscales en materia de servicios personales, por concepto de percepciones ordinarias;
+
+XXV. Programas de inversión: Acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura, como a la adquisición y modificación de inmuebles; adquisiciones de bienes muebles asociadas a estos programas, y rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, y mantenimiento;
+
+XXVI. Provisión financiera: Fuente de recursos monetarios para atender las necesidades programadas y no programadas que representen una obligación o posibilidad de una erogación, a fin de dar cumplimiento a los objetivos y metas del Consejo;
+
+XXVII. Remuneraciones: Retribución económica que constitucionalmente corresponda a los servidores públicos por concepto de percepciones ordinarias y, en su caso, percepciones extraordinarias;
+
+XXVIII. Responsabilidad Presupuestaria: La observancia de los principios y las disposiciones aplicables que procuren el equilibrio presupuestario, la disciplina en el gasto y el cumplimiento de las metas aprobadas por el Pleno;
+
+XXIX. Secretaría de Hacienda: Secretaría de Hacienda y Crédito Público;
+
+XXX. Sistema Institucional de Evaluación: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
+
+XXXI. Subejercicio de gasto: Disponibilidades presupuestarias que resultan, con base en el calendario de presupuesto, sin cumplir las metas contenidas en los programas o sin contar con el compromiso formal de su ejecución;
+
+XXXII. Transferencias: Movimientos de recursos financieros, materiales y plazas de personal entre los órganos del Poder Judicial de la Federación, con el fin de fortalecer la función jurisdiccional, de conformidad con las disposiciones normativas correspondientes;
+
+XXXIII. Unidades ejecutoras de gasto: áreas administrativas y unidades globalizadoras;
+
+XXXIV. Unidades globalizadoras: Unidades del Consejo responsables de administrar y ejercer el presupuesto de las partidas de gasto de manera consolidada conforme a sus atribuciones; y
+
+XXXV. Volante de Autorización Presupuestal: Documento por el cual se autoriza el ejercicio del Presupuesto para cubrir el pago de servicios personales, adquisición de bienes, prestación de servicios, y obra pública, a través de la presentación de facturas, recibos, resumen general de nóminas, o cualquier otro documento que pueda comprobar el pago.
+
+###### Artículo 12.
+
+Para los efectos del Capítulo Segundo, del Título Segundo del Libro Cuarto de este Acuerdo se entenderá por:
+
+I. Comité: El Comité Técnico del Fondo de Apoyo, integrado por el Presidente y los otros seis Consejeros;
+
+II. Comité de Inversión: El Comité de Inversión de Recursos Financieros del Consejo;
+
+III. Reglas de Operación del Comité: El instrumento así denominado y aprobado por el Comité;
+
+IV. Secretaría Técnica del Fondo: La Secretaría Técnica del Fondo de Apoyo;
+
+V. Secretario Técnico: El titular de la Secretaría Técnica del Fondo de Apoyo; y
+
+VI. SISE: El Sistema Integral de Seguimiento de Expedientes de la Dirección General de Estadística Judicial.
+
+###### Artículo 13.
+
+Para los efectos del Capítulo Primero, del Título Segundo del Libro Quinto de este Acuerdo se entenderá por:
+
+I. Administración de Inmuebles: La Dirección General de Servicios Generales, a través de los administradores de los Inmuebles ubicados en el Distrito Federal y en la zona conurbada, y la Coordinación de Administración Regional, por medio de las Administraciones Regionales o Delegaciones Administrativas, tratándose de los inmuebles ubicados en el interior de la República;
+
+II. Coordinación de Seguridad: La Coordinación de Seguridad del Poder Judicial de la Federación;
+
+III. Instalaciones: Los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral;
+
+IV. Operación y supervisión de los sistemas de seguridad: El desarrollo y coordinación de los planes, programas, procedimientos y sistemas, tendentes a preservar la seguridad de los servidores públicos, instalaciones, equipos y demás bienes del Poder Judicial de la Federación, que la Coordinación de Seguridad propondrá al Secretario General;
+
+V. Personal de Seguridad: Los Servidores Públicos adscritos a la Coordinación de Seguridad, que tienen como actividad preponderante la operación, supervisión y coordinación de los sistemas de seguridad implementados en las instalaciones;
+
+VI. Personal de Vigilancia: Las personas o corporaciones policiacas contratadas por el Consejo para prestar los servicios de seguridad y vigilancia en las instalaciones;
+
+VII. Seguridad Institucional: Función a cargo del Consejo, que es realizada por medio de la Coordinación de Seguridad, y que tiene como fines preservar la seguridad de los servidores públicos, visitantes, instalaciones, equipos y demás bienes del Poder Judicial de la Federación, y comprende el establecimiento de responsabilidades y actividades que contribuyen en la preservación de la autonomía, independencia e imparcialidad de dicho Poder, en términos de lo establecido en la Constitución;
+
+VIII. Servidores Públicos: Los adscritos a los órganos jurisdiccionales y a las áreas administrativas;
+
+IX. Sistemas de Seguridad: Conjunto de equipos, accesorios, programas, información, normas, procedimientos, entre otros medios, que interrelacionados e integrados, tienen como objetivo establecer los controles y la generación de información que permita mantener condiciones de Seguridad Institucional; y
+
+X. Visitantes: Las personas físicas distintas de los Servidores Públicos que ingresen a las instalaciones.
+
+###### Artículo 14.
+
+Para los efectos del Título Tercero del Libro Quinto de este Acuerdo se entenderá:
+
+I. Administraciones Centrales: Las administraciones de los inmuebles ubicados en el Distrito Federal y zona conurbada;
+
+II. Administración Regional: Las Administraciones Regionales del Consejo;
+
+III. Agente Regulador: El encargado de instrumentar y operar las acciones, instrumentos, normas, obras y en general todo aquello destinado a proteger a las personas, bienes, infraestructura estratégica, planta productiva y el medio ambiente, a reducir los riesgos y a controlar y prevenir los efectos adversos de un agente perturbador;
+
+IV. Auxilio: respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre, por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil, así como las acciones para salvaguardar los demás agentes afectables;
+
+V. Brigada: Grupo de personas que se organizan dentro de un inmueble, capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como: primeros auxilios, combate a conatos de incendio, evacuación, búsqueda y rescate; designados en la Unidad Interna de Protección Civil como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación estipuladas en el Programa Interno de Protección Civil del inmueble;
+
+VI. Continuidad de Operaciones: Al proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas del Poder Judicial de la Federación, afectadas por un agente perturbador, puedan recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar contenida en un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración, todas ellas avaladas por sesiones de capacitación continua y realización de simulacros;
+
+VII. Delegación Administrativa: Las Delegaciones Administrativas;
+
+VIII. Desastre: Al resultado de la ocurrencia de uno o más agentes perturbadores severos o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada, causan daños y que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
+
+IX. Emergencia: Situación anormal que puede causar un daño a los servidores públicos del Poder Judicial de la Federación y propiciar un riesgo excesivo para su seguridad e integridad, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
+
+X. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de los servidores públicos. Involucra las etapas de: identificación de los riesgos y su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
+
+XI. Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
+
+XII. Inmuebles: Los inmuebles, en propiedad o posesión, del Poder Judicial de la Federación;
+
+XIII. Mitigación: Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
+
+XIV. Peligro: Probabilidad de ocurrencia de un agente perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
+
+XV. Plan de Contingencia: Plan preventivo con una estructura estratégica y operativa que ayudará a controlar una situación de emergencia y a minimizar sus consecuencias negativas;
+
+XVI. Preparación: Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
+
+XVII. Prevención: Conjunto de acciones y mecanismos implementados con antelación a la ocurrencia de los agentes perturbadores, con la finalidad de conocer los peligros o los riesgos, identificarlos, eliminarlos o reducirlos; evitar o mitigar su impacto destructivo sobre las personas, bienes, infraestructura, así como anticiparse a los procesos sociales de construcción de los mismos;
+
+XVIII. Previsión: Tomar conciencia de los riesgos que pueden causarse y las necesidades para enfrentarlos a través de las etapas de identificación de riesgos, prevención, mitigación, preparación, atención de emergencias, recuperación y reconstrucción;
+
+XIX. Programa Anual de Protección Civil: Programa rector que contiene las Directrices Generales en Materia de Protección Civil a implementarse en el Poder Judicial de la Federación;
+
+XX. Programa Interno de Protección Civil: Instrumento de planeación y operación que se compone por el Plan Operativo para la Unidad Interna de Protección Civil, el Plan para la Continuidad de Operaciones y el Plan de Contingencias y tiene como propósito mitigar los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de atender la eventualidad de una emergencia en los inmuebles del Poder Judicial de la Federación;
+
+XXI. Protección Civil: Es la acción solidaria y participativa, que en consideración tanto de los riesgos de origen natural o antrópico como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del Sistema Nacional, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva y el medio ambiente;
+
+XXII. Reconstrucción: La acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un agente perturbador en un determinado espacio o jurisdicción. Este proceso debe buscar en la medida de lo posible la reducción de los riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ello las condiciones preexistentes;
+
+XXIII. Recuperación: Proceso que inicia durante la emergencia, consistente en acciones encaminadas al retorno a la normalidad de la comunidad afectada;
+
+XXIV. Reducción de Riesgos: Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de la protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos, y el desarrollo de sistemas de alertamiento;
+
+XXV. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos;
+
+XXVI. Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
+
+XXVII. Riesgo Inminente: Aquel riesgo que según la opinión de una instancia técnica especializada, debe considerar la realización de acciones inmediatas en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
+
+XXVIII. Simulacro: Representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
+
+XXIX. Siniestro: Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes;
+
+XXX. SISAC: Sistema de Seguimiento de Acuerdos de Comisiones;
+
+XXXI. Unidad Interna de Protección Civil: Órgano operativo cuyo ámbito de acción se circunscribe a las instalaciones o Inmuebles del Poder Judicial de la Federación ubicados en el Distrito Federal, zona conurbada e interior de la República Mexicana, responsable de implementar, desarrollar, evaluar y mejorar continuamente las etapas de la Gestión Integral de Riesgos, así como elaborar, implementar y coordinar el Programa Interno de Protección Civil correspondiente. La responsabilidad de la coordinación, operación y funcionamiento de la Unidad Interna de Protección Civil recae en los Administradores de los edificios ubicados en el Distrito Federal, zona conurbada, así como los de los Administradores Regionales; y
+
+XXXII. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales.
+
+###### Artículo 15.
+
+Para los efectos del Título Cuarto del Libro Quinto de este Acuerdo se entenderá:
+
+I. Agente Certificador: El servidor público por conducto del cual actuará la UNCOCEFI para tramitar la emisión, renovación y revocación de Certificados Digitales de la FIREL;
+
+II. Certificado Digital de la FIREL: El Documento Electrónico emitido por la UNCOCEFI que asocia de manera segura y fiable la identidad del Firmante con una Llave Pública, permitiendo con ello identificar quién es el autor o emisor de un Documento Electrónico o Mensaje de Datos remitido mediante el uso de la FIREL;
+
+III. Certificado Intermedio del Consejo: El certificado digital emitido al Consejo por la Autoridad Certificadora Raíz del PJF, a partir del cual la UNCOCEFI generará los certificados digitales de la FIREL para los Usuarios Finales;
+
+IV. Certificado OCSP: El certificado digital emitido por el Consejo para el uso del protocolo de la verificación en línea del estado de los certificados digitales de la FIREL emitidos por el propio Consejo;
+
+V. Certificado Raíz del PJF: El certificado digital único emitido por la Unidad del Poder Judicial de la Federación para el Control de Certificación de Firmas, que sirve de base a la infraestructura de firma electrónica de los órganos del Poder Judicial de la Federación y da origen a los certificados intermedios, los que a su vez servirán para generar los certificados digitales de la FIREL que emitan las Unidades de Certificación correspondientes;
+
+VI. Certificado TSA: El certificado digital emitido por el Consejo para el uso de los sellos de tiempo;
+
+VII. Clave de Acceso a la Llave Privada del Certificado Digital de la FIREL: La cadena de caracteres alfanuméricos del conocimiento exclusivo del titular de un Certificado Digital de la FIREL, que le permite utilizar la Llave Privada para firmar un documento electrónico o, en su caso, para acceder a diversos sistemas que establezca el Consejo;
+
+VIII. Clave de revocación: La cadena de caracteres alfanuméricos que introduce de manera secreta el Firmante durante la solicitud de un Certificado Digital de la FIREL, y que deberá capturarse al momento de requerir su revocación en línea;
+
+IX. CURP: La Clave Única de Registro de Población;
+
+X. Documento Electrónico: El generado, consultado, modificado o procesado por Medios Electrónicos;
+
+XI. FIREL: La Firma Electrónica Certificada del Poder Judicial de la Federación;
+
+XII. Firma electrónica: Es el conjunto de datos y caracteres que permiten la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente a él y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa;
+
+XIII. Firmante: La persona física que utiliza su Certificado Digital de la FIREL para suscribir documentos electrónicos y, en su caso, mensajes de datos;
+
+XIV. Justiciable: La persona física que solicite la expedición de un Certificado Digital de la FIREL, distinta a los servidores públicos del Consejo o de los órganos jurisdiccionales;
+
+XV. Llave Privada: Los datos que el Firmante genera de manera secreta y bajo su estricto control al solicitar el Certificado Digital de la FIREL, vinculados de manera única y complementaria con su Llave Pública;
+
+XVI. Llave Pública: Los datos contenidos en un Certificado Digital de la FIREL que permiten la verificación de la autenticidad de la FIREL del Firmante;
+
+XVII. Medios de comunicación electrónica: La infraestructura tecnológica que permite efectuar la transmisión y recepción de mensajes de datos y de documentos electrónicos;
+
+XVIII. Medios Electrónicos: La herramienta tecnológica relacionada con el procesamiento, impresión, despliegue, traslado, conservación y, en su caso, modificación de información;
+
+XIX. Mensaje de Datos: La información generada, enviada, recibida, archivada o comunicada a través de medios de comunicación electrónica, que puede contener documentos electrónicos;
+
+XX. Órganos auxiliares: El Instituto de la Judicatura, la Visitaduría Judicial, la Contraloría del Poder Judicial de la Federación, el Instituto Federal de Defensoría Pública y el Instituto Federal de Especialistas de Concursos Mercantiles;
+
+XXI. Sellos de tiempo: Cadena de caracteres emitidos que indican la hora y fecha de cuándo se firmó, envió, recibió o consultó un Mensaje de Datos;
+
+XXII. SEPJF: El Sistema Electrónico del PJF;
+
+XXIII. UNCOCEFI: La Unidad para el Control de Certificación de Firmas del Consejo;
+
+XXIV. Unidad: La Unidad del Poder Judicial de la Federación para el Control de Certificación de Firmas; y
+
+XXV. Usuarios Finales: Los servidores públicos del Consejo y de los órganos jurisdiccionales, así como los justiciables que soliciten o hagan uso de un Certificado Digital de la FIREL.
+
+# LIBRO SEGUNDO. RECURSOS HUMANOS
+
+## TÍTULO PRIMERO. DEL PERSONAL
+
+### CAPÍTULO PRIMERO. NOMBRAMIENTOS Y PRÓRROGAS DEL PERSONAL DE CONFIANZA
+
+###### Artículo 16.
+
+Las disposiciones de este Capítulo son de observancia general en el Consejo, correspondiendo a su Presidente, Consejeros, Oficial Mayor, Secretario Ejecutivo del Pleno y de la Presidencia, Coordinadores, secretarios ejecutivos, titulares de los órganos auxiliares y directores generales velar por su debido cumplimiento.
+
+###### Artículo 17.
+
+El nombramiento del personal de mandos superiores de las áreas administrativas que sean designados por el Pleno, será indefinido desde el inicio de su cargo o por el periodo que éste determine, con excepción de los supuestos establecidos en las disposiciones aplicables.
+
+El nombramiento inicial del personal de confianza de las áreas administrativas, no podrá exceder del término de seis meses ni ser menor de tres meses, con excepción de los casos señalados en el párrafo anterior y en el artículo 19, último párrafo, de este Acuerdo, y de aquel que se expida en favor del servidor público que cubra algún tipo de licencia, ocupe una plaza temporal, o que la propuesta de nombramiento contenga características especiales, las cuales deberán ser informadas por escrito a la Dirección General de Recursos Humanos, estando debidamente fundadas y motivadas.
+
+###### Artículo 18.
+
+Corresponde a la instancia que propone el nombramiento inicial determinar la temporalidad de éste, dentro del rango señalado en el artículo anterior, a efecto de evaluar el desempeño laboral del servidor público.
+
+###### Artículo 19.
+
+La Dirección General de Recursos Humanos pondrá a consideración de la Comisión de Administración, la prórroga de nombramiento por tiempo indefinido cuando:
+
+I. El titular del área administrativa correspondiente, previo al término del nombramiento inicial, así lo solicite, o
+
+II. Transcurran seis meses continuos de nombramiento en el mismo puesto y el titular respectivo solicite su renovación, aun cuando dicha petición sea por tiempo determinado.
+
+Si el servidor público con una antigüedad en el puesto de seis meses, causa baja por renuncia o por fin de nombramiento, y el titular del área administrativa le extiende nuevo nombramiento en el mismo puesto, se elaborará de forma indefinida, siempre y cuando no exista interrupción entre ambos nombramientos.
+
+###### Artículo 20.
+
+Los nombramientos y prórrogas del personal adscrito a las Secretarías Técnicas de las Comisiones Permanentes, no se someterán a consideración de la Comisión de Administración, siempre y cuando tengan el visto bueno del Consejero presidente de la Comisión correspondiente.
+
+###### Artículo 21.
+
+La Comisión de Administración resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación de este Capítulo.
+
+### CAPÍTULO SEGUNDO. PERSONAL DE BASE
+
+###### Artículo 22.
+
+Los titulares de los órganos jurisdiccionales y de las áreas administrativas otorgarán la base al servidor público que reúna los siguientes requisitos:
+
+I. Haya sido nombrado en una o más plazas correspondientes a un puesto cuyas labores sean de base;
+
+II. Haya laborado en la o las plazas respectivas de base, ininterrumpidamente, durante más de seis meses;
+
+III. Durante los primeros seis meses de las labores desarrolladas en la o las plazas de base, no exista nota desfavorable en su contra; y
+
+IV. Al cumplirse más de seis meses en el desarrollo de labores en una o más plazas de base, se encuentre alguna de ellas vacante en definitiva, es decir, sin titular a quien se haya otorgado nombramiento definitivo.
+
+### CAPÍTULO TERCERO. PERSONAL DE NUEVO INGRESO EN LOS ÓRGANOS JURISDICCIONALES
+
+### CAPÍTULO CUARTO. EXPEDIENTES PERSONALES
+
+###### Artículo 23.
+
+Los titulares de los órganos jurisdiccionales, con antelación a la contratación de personal de nuevo ingreso, verificarán su historial laboral mediante la información que le soliciten a la Dirección General de Recursos Humanos.
+
+Si el candidato propuesto laboró en el Poder Judicial de la Federación, en el Poder Judicial de alguna entidad federativa o en diversa institución pública, analizarán el desempeño obtenido durante el cargo, las causas que dieron lugar a la separación, la existencia de notas desfavorables y, en su caso, la instauración de procedimientos de responsabilidad administrativa, con la finalidad de preservar los principios constitucionales de excelencia y profesionalismo que rigen, entre otros, la carrera judicial.
+
+### CAPÍTULO QUINTO. SEPARACIÓN DE LOS SERVIDORES PÚBLICOS POR INCAPACIDAD FÍSICA O MENTAL PARA EL EJERCICIO DE SUS CARGOS
+
+###### Artículo 24.
+
+Los expedientes del personal a cargo del Consejo, en resguardo de la Dirección General de Recursos Humanos, deberán contener los documentos relativos a su situación personal, institucional y disciplinaria, siguientes:
+
+I. Documentación personal:
+
+a) Copia certificada del acta de nacimiento, inscripción, adopción o reconocimiento, expedida por la oficina del Registro Civil correspondiente. Para los extranjeros, el documento original o copia certificada por la oficina respectiva del país de origen, apostillada o legalizada, en su caso, con la traducción al español por un perito autorizado. Tratándose de mexicanos naturalizados, copia certificada de la carta de naturalización expedida por la Secretaría de Relaciones Exteriores.
+
+Para el caso de mexicanos que presenten constancia de la Clave Única de Registro de Población bastará con copia simple del documento respectivo a que se refiere el párrafo anterior;
+
+b) Copia certificada del documento que acredite los estudios académicos necesarios para cumplir con el perfil del puesto respectivo y, en su caso, copia simple del título de licenciatura, maestría y doctorado, así como de la cédula respectiva, salvo lo dispuesto en el párrafo siguiente. De esta última deberá adjuntarse el reporte de la consulta realizada en la página electrónica del Registro Nacional de Profesionistas a cargo de la Dirección General de Profesiones de la Secretaría de Educación Pública; lo anterior, a fin de cumplir con la verificación de antecedentes profesionales.
+
+Para los estudios realizados en el extranjero, copia certificada de los documentos a se refiere el párrafo anterior, los cuales deben contar con la apostilla o legalización correspondiente y, en su caso, debe estar acompañada por la traducción efectuada por un perito autorizado, por embajadas, consulados o alguna institución educativa que forme parte del sistema educativo nacional. Para los estudios de media superior y, en su caso, superior, deberá acompañar, la revalidación de estudios otorgada por la Secretaría de Educación Pública;
+
+c) Copia certificada o simple del comprobante de domicilio, con una antigüedad no mayor a tres meses respecto a la fecha de expedición, el cual deberá actualizarse en caso de que éste cambie;
+
+d) Currículum vitae del servidor público que incluya todos los puestos desempeñados y estudios realizados;
+
+e) Constancia de la Clave Única de Registro de Población. De no haberse tramitado ni obtenido ésta, la Dirección General de Recursos Humanos podrá realizar el trámite correspondiente, siempre y cuando se presente copia certificada del acta de nacimiento expedida por la oficina del Registro Civil, o documento probatorio de identidad;
+
+f) Escrito original en el que, bajo protesta de decir verdad, el servidor público manifieste encontrarse en pleno ejercicio de sus derechos y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, así como no haber sido sancionado por falta administrativa grave de conformidad con las disposiciones aplicables;
+
+g) Escrito original en el que, bajo protesta de decir verdad, el servidor público manifieste que no se encuentra desempeñando otro empleo, cargo o comisión con cargo a la Federación;
+
+h) Copia certificada de identificación oficial con fotografía;
+
+i) Copia certificada del documento migratorio que acredite su condición de estancia que permita realizar actividades remuneradas, tratándose de extranjeros;
+
+j) Original o copia certificada del documento expedido por el sector salud que acredite dicha condición, tratándose de personas con discapacidad;
+
+k) Copia certificada de la cartilla liberada del Servicio Militar Nacional, en su caso;
+
+l) Formato original de la Hoja de Registro de Datos del Servidor Público de Nuevo Ingreso, debidamente llenada y firmada por el interesado; y
+
+m) Constancia emitida por la Secretaría de la Función Pública, de no encontrarse inhabilitado para desempeñar cargo público, con una antigüedad no mayor a treinta días naturales contados a partir de su fecha de expedición.
+
+II. Documentación institucional:
+
+a) Original de la solicitud y del acuse de recibo de las credenciales de identificación expedidas por el Consejo; en caso de robo, copia certificada de la denuncia penal o querella interpuesta ante la autoridad competente y; en caso de extravío, original del escrito en el que bajo protesta de decir verdad, el servidor público manifieste las causas y circunstancias en que se dio dicho extravío;
+
+b) Formato original de compatibilidad de empleo, en su caso;
+
+c) Original con firma autógrafa o electrónica, o bien, copia autógrafa al carbón o certificada de las hojas únicas de servicios expedidas por el Consejo u otras instituciones públicas federales y, en su caso, del Distrito Federal, para efectos de acumulación de antigüedad;
+
+d) Propuesta de nombramiento expedida por los titulares de las áreas administrativas;
+
+e) Autorizaciones de las instancias competentes para desempeñar el cargo de actuario judicial, de secretario de juzgado o de tribunal; y para fungir como secretario en funciones de juez de Distrito o de magistrado de Circuito y toma de nota de encargado del despacho;
+
+f) Original o copia con firma autógrafa o electrónica de los movimientos de personal;
+
+g) Originales de incapacidades médicas expedidas por el ISSSTE;
+
+h) Certificaciones por cambio de clave o puesto;
+
+i) Copia certificada del dictamen de ratificación de juez de Distrito o de magistrado de Circuito;
+
+j) Copia de los dictámenes de adscripción y readscripción de juez de Distrito o de magistrado de Circuito;
+
+k) Original o copia de los escritos de renuncias que se hayan formulado en órganos jurisdiccionales y áreas administrativas;
+
+l) Autorización de licencia prejubilatoria;
+
+m) Dictámenes expedidos por el ISSSTE;
+
+n) Copia certificada por la oficina del Registro Civil correspondiente del acta de defunción del servidor público o el documento homólogo en caso de fallecimiento en el extranjero;
+
+o) Formato original de solicitud de inscripción individual al Fondo de Ahorro Capitalizable de los Trabajadores al Servicio del Estado, en su caso; y
+
+p) Acuse del oficio para solicitar el pago por concepto de ayuda de gastos funerarios, pago de defunción, ayuda por invalidez y estímulo por jubilación.
+
+III. Documentación disciplinaria:
+
+a) Copias certificadas del acuerdo de inicio del procedimiento administrativo y de la resolución, tratándose de quejas o denuncias administrativas;
+
+b) Documentos remitidos por la Comisión Substanciadora Única del Poder Judicial de la Federación;
+
+c) Original o copia de los comunicados, acuerdos y sentencias dictadas en contra de los servidores públicos por los titulares de los órganos jurisdiccionales, federales y locales;
+
+d) Copias certificadas de las actas administrativas y de hechos levantadas en contra del servidor público; y
+
+e) La documentación en la que conste la imposición de una medida disciplinaria al servidor público.
+
+Las actas de visita y los informes circunstanciados no se integrarán a expedientes personales, salvo que así lo determine el órgano dictaminador, caso en el cual la Secretaría Ejecutiva de Disciplina proveerá lo conducente al envío de copia certificada de tales instrumentos a la Dirección General de Recursos Humanos.
+
+###### Artículo 25.
+
+La Dirección General de Recursos Humanos es la única instancia facultada para resguardar el expediente personal de los servidores públicos, y tiene a su cargo la integración, custodia, conservación, depuración, uso y desglose de documentos que obran agregados en dichos expedientes, así como la obligación de garantizar la seguridad, integridad y confidencialidad de los mismos.
+
+Asimismo, dicha Dirección General, será la facultada para autorizar el préstamo de los expedientes personales originales, a las áreas administrativas que en ejercicio de sus atribuciones los requieran, en cuyo caso deberán realizar la solicitud correspondiente, teniendo la obligación de conservarlos en las mismas condiciones en que los recibieron, sin poder alterar su contenido, ni provocar su deterioro. En todo caso, deberán reintegrarlos inmediatamente después de que realicen las diligencias o actuaciones para lo cual los requirieron.
+
+Todos aquellos documentos relacionados con trámites del personal que no se mencionen en el artículo 24 de este Acuerdo, deberán ser resguardados por los órganos jurisdiccionales y áreas administrativas, a quienes les corresponda la atención de los asuntos de su competencia.
+
+###### Artículo 26.
+
+Los servidores públicos de nuevo ingreso, tienen la obligación de proporcionar a los titulares de los órganos jurisdiccionales o áreas administrativas la documentación personal señalada en la fracción I, del artículo 24 de este Acuerdo, para efecto de trámite del nombramiento. La cual deberá ser remitida de manera inmediata a la Dirección General de Recursos Humanos.
+
+En todos los casos de movimientos de personal los titulares de órganos jurisdiccionales y áreas administrativas, deberán verificar que los candidatos propuestos a ocupar una plaza vacante, cumplan con los requisitos previstos en el perfil del puesto que establece el Manual General de Puestos del Consejo de la Judicatura Federal.
+
+###### Artículo 27.
+
+Los titulares de los órganos jurisdiccionales y de las áreas administrativas o el servidor público que designen están facultados para certificar administrativamente la documentación personal señalada en los incisos a), b), c), h), i), j) y k) de la fracción I, del artículo 24 de este Acuerdo, para tales efectos se autoriza la siguiente leyenda:
+
+En la ciudad de ____________, a los ______ días del mes de ________, de dos mil ______, en términos de lo dispuesto en el artículo 27 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa del propio Consejo, el (nombre, cargo y adscripción), certifica que el presente documento es copia fiel y exacta del original que se tuvo a la vista. CONSTE. ----------------------------------------------
+
+(Sello de la adscripción) (nombre y firma del servidor público que certifica)
+
+###### Artículo 28.
+
+Para efectos de la actualización de los expedientes personales es obligación de los servidores públicos proporcionar a los titulares de los órganos jurisdiccionales y áreas administrativas la documentación señalada en el artículo 24, fracción I, de este Acuerdo, la cual deberá ser remitida a la Dirección General de Recursos Humanos, en un plazo no mayor a sesenta días naturales a partir de la fecha de su recepción.
+
+Los titulares de las Administraciones Regionales y Delegaciones Administrativas tienen la obligación de recabar, revisar, cotejar y validar que la documentación que se les presenta cumple con lo señalado en el artículo 24 de este Acuerdo, para remitirla inmediatamente a la Dirección General de Recursos Humanos a efecto de que sea integrada al expediente personal correspondiente. Asimismo, deberán devolver al interesado o área remitente la documentación que no cumpla con lo previsto en este Capítulo.
+
+La Dirección General de Recursos Humanos es la única facultada para llevar a cabo la depuración de los expedientes personales a su cargo, con la finalidad de evitar la duplicidad de documentos y la inclusión de los no contemplados en este Capítulo. La documentación que se desglose de los expedientes personales con motivo de los procesos de depuración será destruida, sin dictamen de valoración documental, a menos que se trate de documentos originales de los servidores públicos a cargo el Consejo, en cuyo caso, se les devolverá a los interesados.
+
+Concluida la depuración del expediente personal a cargo de la Dirección General de Recursos Humanos, se procederá a foliar nuevamente los documentos que obren en el mismo, a fin de que coincida con el número de fojas que lo integran.
+
+En todo caso se dejará constancia del proceso de depuración.
+
+###### Artículo 29.
+
+La Secretaría Ejecutiva de Administración a través de la Dirección General de Recursos Humanos, deberá sistematizar y digitalizar la documentación contenida en los expedientes personales bajo resguardo de la citada Dirección General, mediante la utilización de medios tecnológicos que proporcionará la Dirección General de Tecnologías de la Información, a efecto de contar con un mecanismo que facilite su control archivístico y su consulta de forma electrónica, evitando su deterioro y el préstamo físico del expediente personal.
+
+Asimismo, deberá privilegiarse la utilización de la firma electrónica o sello digital, para la certificación de los documentos que obren en los expedientes personales.
+
+La Dirección General de Recursos Humanos podrá atender los requerimientos de copias, mediante la utilización del expediente digitalizado, certificándolas con firma electrónica, sello digital, u otra herramienta tecnológica, las cuales podrán ser enviadas a través de los medios electrónicos disponibles.
+
+Las copias certificadas expedidas mediante los medios señalados, tendrán validez plena para todas las actuaciones y trámites que se realicen tanto al interior del Consejo, como ante otras autoridades, salvo disposición en contrario.
+
+###### Artículo 30.
+
+La Dirección General de Recursos Humanos pondrá los expedientes digitalizados a disposición de las áreas administrativas competentes que requieran consultar o contar con copias certificadas de los documentos que obran en ellos, los cuales podrán examinarlos y, en su caso, imprimirlos, mismos que serán certificados mediante firma electrónica, sello digital, u otra herramienta tecnológica que genere el propio sistema, y tendrán plena validez para la realización de los trámites y diligencias que corresponda, salvo disposición en contrario.
+
+En este sentido, en los casos en que las áreas administrativas soliciten a la Dirección General de Recursos Humanos, copia certificada de los expedientes personales o de documentos que obren en los mismos, para la atención de asuntos de su competencia, deberán de conservar o destruir dichas copias certificadas sin dictamen de valoración documental, evitando su devolución a dicha Dirección General.
+
+### CAPÍTULO SEXTO. DEL CESE
+
+###### Artículo 31.
+
+Cuando, por cualquier medio, la Comisión de Disciplina, tenga conocimiento de actos constitutivos de responsabilidad administrativa imputables a un juez de Distrito o magistrado de Circuito, por manifiesto descuido en el ejercicio de sus funciones, y a la vez, existan elementos que hagan presumir que tales actos se realizaron como consecuencia de alguna enfermedad física o mental, que por su naturaleza pudiera impedir el adecuado ejercicio de la función jurisdiccional encomendada a los juzgadores, deberá decretar la suspensión del servidor público.
+
+En el acuerdo de suspensión, deberán precisarse los elementos que se tomaron en cuenta para la adopción de dicha medida. La Comisión de Disciplina deberá ordenar a la Secretaría Ejecutiva de Disciplina la sustanciación del procedimiento especial que se regula en este Capítulo.
+
+La determinación de la Comisión de Disciplina, para surtir efectos, deberá ser homologada por el Pleno.
+
+###### Artículo 32.
+
+La suspensión decretada conforme al artículo anterior, no impedirá al servidor público el disfrute, durante el tiempo de la misma, de todas las prestaciones a las que tenga derecho como juez de Distrito o magistrado de Circuito.
+
+###### Artículo 33.
+
+La suspensión iniciará a partir del momento en que el servidor público sea notificado del acuerdo de inicio del procedimiento especial y concluirá en el momento en que se le notifique la resolución definitiva dictada en el procedimiento.
+
+###### Artículo 34.
+
+Si así conviniere a sus intereses, el servidor público, durante la sustanciación del procedimiento especial, podrá designar persona que lo represente.
+
+###### Artículo 35.
+
+Los acuerdos de trámite dentro del procedimiento especial, serán emitidos por el Presidente y no serán recurribles.
+
+###### Artículo 36.
+
+En el acuerdo de inicio del procedimiento especial, se transcribirá el acuerdo del Pleno en el que se haya decretado la suspensión del servidor público y en el mismo, se solicitará a la Dirección General de Servicios Médicos y Desarrollo Infantil, la designación de un perito médico, de preferencia especialista en la probable enfermedad del servidor público.
+
+Asimismo, se requerirá a éste para que, si conviene a sus intereses, designe a su perito médico. La designación de los referidos peritos deberá ser hecha por la Dirección General de Servicios Médicos y Desarrollo Infantil y por el servidor público, respectivamente, en un término de cinco días naturales contados a partir del día siguiente al de la notificación del acuerdo. Esta notificación se hará en forma personal al servidor público y por oficio a la citada unidad administrativa.
+
+Si el servidor público no designa perito dentro del referido término, se entenderá que consiente el dictamen que rinda el perito designado por la Dirección General de Servicios Médicos y Desarrollo Infantil, salvo lo dispuesto en el artículo 48 de este Acuerdo.
+
+###### Artículo 37.
+
+Hecha la designación de los peritos, se requerirá a éstos, por conducto de la Dirección General de Servicios Médicos y Desarrollo Infantil y del servidor público, para que rindan sus correspondientes dictámenes, dentro del término de quince días a partir del día siguiente de la notificación respectiva. Este término podrá prorrogarse discrecionalmente por el Presidente o, por una sola vez y por igual lapso.
+
+###### Artículo 38.
+
+El servidor público deberá proporcionar a los peritos, toda la información médica que éstos le requieran. Asimismo, deberá someterse a los exámenes y estudios clínicos que los mismos le soliciten, los que serán a costa del Consejo, exclusivamente cuando hayan sido solicitados por el perito nombrado por la Dirección General de Servicios Médicos y Desarrollo Infantil, o por el perito tercero, designado en los términos del artículo 42 de este Acuerdo.
+
+###### Artículo 39.
+
+El servidor público podrá ser citado a las oficinas de la Dirección General de Servicios Médicos y Desarrollo Infantil, o al lugar que el titular de ésta indique, para que se someta a la revisión médica del perito designado por esa unidad administrativa.
+
+Si dicho servidor público, por su estado de salud, no está en condiciones de viajar, deberá, bajo protesta de decir verdad, manifestarlo dentro del término de cinco días a que se refiere el párrafo primero del artículo 36 de este Acuerdo. En tal caso, el perito médico designado por la Dirección General de Servicios Médicos y Desarrollo Infantil, deberá trasladarse al lugar en el que resida el servidor público.
+
+###### Artículo 40.
+
+Los dictámenes periciales deberán informar si el servidor público se encuentra o no impedido para el ejercicio de su cargo y, en su caso, si su incapacidad es de carácter temporal o permanente.
+
+###### Artículo 41.
+
+Si el servidor público se niega a someterse a la revisión médica o a los estudios clínicos solicitados por el perito designado por la Dirección General de Servicios Médicos y Desarrollo Infantil, se sobreseerá el procedimiento especial, con la consecuencia prevista en el artículo 47 de este Acuerdo.
+
+###### Artículo 42.
+
+Si los dictámenes emitidos por los peritos designados por la Dirección General de Servicios Médicos y Desarrollo Infantil y por el servidor público, respectivamente, fueran contradictorios, el Presidente solicitará al ISSSTE o a la Procuraduría General de la República, en su caso, la designación de un perito tercero en discordia. En caso de que el ISSSTE y la Procuraduría General de la República no estén en posibilidad de proporcionar el perito correspondiente, podrá solicitarlo a otros organismos públicos.
+
+###### Artículo 43.
+
+Una vez rendidos los respectivos peritajes, se turnará el expediente al Consejero que, por turno corresponda, a fin de que presente a la consideración del Pleno, un proyecto de resolución, ajustándose a lo previsto en los artículos 44, 45 y 46 de este Acuerdo.
+
+###### Artículo 44.
+
+Si los peritajes rendidos, permiten concluir que el servidor público se encuentra física o mentalmente incapacitado en forma permanente para el ejercicio de sus funciones, se le separará definitivamente de su cargo.
+
+En el supuesto de que de los peritajes rendidos se desprenda que el servidor público no se encuentra incapacitado para el ejercicio de sus funciones, podrá ordenarse la apertura del correspondiente procedimiento de responsabilidad.
+
+###### Artículo 45.
+
+En el supuesto de que se haya considerado que la incapacidad del servidor público es de carácter permanente, éste, en ningún caso, podrá reasumir sus funciones. En este supuesto, el servidor público tendrá el derecho a las prestaciones que la normatividad interna del Consejo otorga a los servidores públicos que se retiren voluntariamente, así como a las demás prestaciones a que, en tal supuesto, tuviere derecho conforme a la ley.
+
+###### Artículo 46.
+
+En los casos en que, conforme a los peritajes rendidos, se considere que la incapacidad del servidor público es de carácter temporal, se le fijará un término para que se reincorpore a sus funciones. Este término será prorrogable, pero en ningún caso, la separación temporal del servidor público, podrá exceder de un año.
+
+Durante el lapso de separación temporal, el Pleno, discrecionalmente, podrá otorgar al servidor público licencia, en los términos de los artículos 165 a 168 de la Ley Orgánica.
+
+Para efectos laborales, la separación temporal del servidor público se equipara a la de los servidores públicos que disfrutan de licencia otorgada por el órgano competente del Consejo.
+
+###### Artículo 47.
+
+Una vez transcurrido el término de suspensión temporal y sus prórrogas, si las hubo, el servidor público deberá someterse a un examen médico, practicado por el perito médico que designe la Dirección General de Servicios Médicos y Desarrollo Infantil, así como a los estudios clínicos que el mismo señale. Dicho perito emitirá un dictamen en el que se determine si cesaron o no las causas que determinaron la incapacidad de aquél.
+
+Si el referido dictamen es desfavorable al servidor público, o si éste no se sometiera al examen y estudios clínicos mencionados en el párrafo anterior, el Pleno, decretará su separación definitiva, teniendo aplicación, en tal supuesto, lo previsto en el artículo 45 de este Acuerdo.
+
+###### Artículo 48.
+
+El servidor público afectado, podrá negarse a la sustanciación del procedimiento especial regulado en este Capítulo. En tal caso, se sobreseerá aquél y, en su caso, se abrirá el correspondiente procedimiento de investigación o responsabilidad administrativa, en los términos de la Ley Orgánica.
+
+La negativa a que se refiere el párrafo anterior, sólo surtirá efectos, si se realiza dentro del término de cinco días, contados a partir de la notificación personal del acuerdo de inicio del procedimiento especial.
+
+###### Artículo 49.
+
+En cualquier fase del procedimiento especial, el servidor público podrá manifestar por escrito su voluntad de separarse voluntaria y definitivamente de su cargo, supuesto en el cual, se decretará el sobreseimiento en el procedimiento especial y se dejarán expeditos los derechos de aquél, para acogerse a las prestaciones por retiro voluntario, a que tuviere derecho conforme a las disposiciones aplicables.
+
+###### Artículo 50.
+
+Las notificaciones de las resoluciones, que se dicten dentro del procedimiento especial a que se refiere este Capítulo, se efectuarán en términos de lo dispuesto por el Código Federal de Procedimientos Civiles.
+
+### CAPÍTULO SÉPTIMO. DE LA JORNADA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS
+
+###### Artículo 51.
+
+En caso de que un trabajador de base incurra en una causal de cese, los titulares de los órganos jurisdiccionales y de las áreas administrativas deberán ceñirse a las reglas que establece la Ley Federal de los Trabajadores al Servicio del Estado, y a los criterios correspondientes, aprobados por el Pleno.
+
+###### Artículo 52.
+
+Los procedimientos administrativos de imposición de sanciones como la destitución, se regulan por la Ley Orgánica y la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+### CAPÍTULO OCTAVO. REGISTRO AUTOMATIZADO DE ENTRADA Y SALIDA
+
+#### SECCIÓN PRIMERA. BENEFICIARIOS DE LA PENSIÓN COMPLEMENTARIA
+
+#### SECCIÓN SEGUNDA. CUANTÍA DE LA PENSIÓN POR JUBILACIÓN
+
+#### SECCIÓN TERCERA. PROCEDENCIA DE LA PENSIÓN COMPLEMENTARIA
+
+#### SECCIÓN CUARTA. MONTO DE LA PENSIÓN POR JUBILACIÓN O RETIRO ANTICIPADO
+
+#### SECCIÓN QUINTA. PROCEDIMIENTO DE SOLICITUD DE LA PENSIÓN COMPLEMENTARIA
+
+### CAPÍTULO PRIMERO. PREMIO SILVESTRE MORENO CORA
+
+###### Artículo 53.
+
+La jornada de trabajo en las áreas administrativas del Consejo será de un máximo de ocho horas efectivas diarias, que comprenderá de las 9:00 a las 15:00 horas y de las 16:00 a las 18:00 horas, de lunes a viernes, con excepción de la Oficialía de Partes y Certificación del Edificio Sede del Consejo, así como de las Administraciones de los Centros de Justicia Penal.
+
+La jornada podrá extenderse de manera excepcional, en caso de que la carga de trabajo amerite justificadamente que el personal permanezca más tiempo, sin que ello implique exceder un horario prudente y, en ningún caso, deberá generar una práctica reiterada, a efecto de no trastocar de forma drástica los equilibrios entre la vida laboral y personal de los servidores públicos.
+
+###### Artículo 54.
+
+El titular de cada área administrativa podrá modificar el tiempo de ingesta de alimentos hasta por dos horas, respecto de servidores públicos que así lo soliciten, con la finalidad de facilitar el traslado a lugar diverso del centro de trabajo, con el correspondiente ajuste al horario de trabajo.
+
+Asimismo, podrá reducir el horario de trabajo, en lo que respecta al turno de la tarde, o prescindir de éste, atendiendo a las necesidades del servicio y las medidas de organización interna que instrumente, a efecto de mejorar el trámite y resolución de los asuntos, sin que ello afecte la debida prestación del servicio.
+
+###### Artículo 55.
+
+Los servidores públicos adscritos a áreas administrativas que ocupen puestos de los niveles salariales del 11 al 33, deberán registrar su entrada y salida, salvo los supuestos siguientes:
+
+I. Quienes ocupen los puestos que se indican a continuación y sean excepcionados por el titular del área administrativa de su adscripción:
+
+a) Supervisor;
+
+b) Secretario Particular SPS;
+
+c) Coordinador Técnico de SPS;
+
+d) Auditor;
+
+e) Coordinador de Ayuda y Seguridad;
+
+f) Chofer de Funcionario; y
+
+g) Auxiliar de Actuario, siempre y cuando realice sus funciones fuera de su centro de trabajo.
+
+II. Quienes no estando previstos en la fracción anterior, sean excepcionados por necesidades del servicio por el titular del área administrativa de su adscripción.
+
+El titular comunicará mediante oficio a la Dirección General de Recursos Humanos las excepciones a que se refiere esta fracción, señalando los motivos de las mismas y su temporalidad, la cual no podrá exceder del ejercicio fiscal correspondiente, sin perjuicio de que pueda ser renovada a su vencimiento o modificada durante su vigencia.
+
+Para la operación y funcionamiento del registro automatizado de entrada y salida, los servidores públicos adscritos a las áreas administrativas deberán proporcionar los datos que sean necesarios.
+
+En la implementación, operación y funcionamiento del registro automatizado deberán observarse los lineamientos previstos en este Acuerdo, los ordenamientos respectivos en materia de transparencia, acceso a la información, resguardo de la misma y protección de datos personales, y demás disposiciones aplicables.
+
+### CAPÍTULO SEGUNDO. PENSIONES COMPLEMENTARIAS
+
+### CAPÍTULO TERCERO. FONDO DE RESERVA INDIVIDUALIZADO
+
+###### Artículo 56.
+
+Los servidores públicos obligados, en términos del Capítulo anterior y del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, a efectuar su registro de entrada y salida deberán realizarlo en los equipos biométricos de geometría de mano.
+
+El registro de salida y entrada del lapso de ingesta de alimentos podrá ser utilizado como medida de control interno, sin que las omisiones de registro conlleven descuento alguno. En todo caso, los titulares de los órganos jurisdiccionales y áreas administrativas podrán prescindir de dicho registro.
+
+###### Artículo 57.
+
+Los servidores públicos obligados al registro deberán ser enrolados en el equipo biométrico de mano de su centro de trabajo por el Auxiliar de Asistencia y Puntualidad de su adscripción. Si por necesidades del servicio se encuentran comisionados a uno distinto, también deberán ser enrolados en el equipo de dicho centro, por el Auxiliar de Asistencia y Puntualidad respectivo.
+
+###### Artículo 58.
+
+Los servidores públicos adscritos a la plantilla de plazas a disposición del Consejo, deberán realizar el registro de asistencia en los órganos jurisdiccionales y áreas administrativas, a los cuales se encuentren comisionados y durante el tiempo que dure ésta.
+
+###### Artículo 59.
+
+Los servidores públicos que incurran en omisiones de registro de entrada o salida, retardo o falta injustificada, se harán acreedores a los descuentos señalados en las Condiciones Generales de Trabajo de los Servidores Públicos a cargo del Consejo, los cuales se aplicarán de forma automática y continua a través del sistema que corresponda en la segunda quincena del mes calendario siguiente al en que se genere la incidencia, esto de conformidad con el calendario de cierre de nómina. Cuando esto último no sea posible el descuento respectivo se aplicará al cierre de la nómina subsecuente.
+
+###### Artículo 60.
+
+El Auxiliar de Asistencia y Puntualidad será el responsable de auxiliar al titular del órgano jurisdiccional o del área administrativa respectiva, en el seguimiento y control de asistencia de los servidores públicos adscritos.
+
+###### Artículo 61.
+
+El Auxiliar de Asistencia y Puntualidad será el responsable de verificar previamente la identidad del personal que enrole en el lector biométrico, mediante una identificación oficial con fotografía y, en su caso, el recibo de pago correspondiente, a fin de validarlo con el número de expediente asignado por la Dirección General de Recursos Humanos. Lo mismo se observará en el supuesto de modificaciones que se realicen respecto a la geometría de mano.
+
+De lo anterior, el Auxiliar de Asistencia y Puntualidad deberá generar acta administrativa, en la que conste el alta o modificación del Registro y la verificación de identidad del servidor público de que se trate, la cual deberá ser firmada por ambos y remitida a la Unidad de Registro y Control de Asistencia.
+
+###### Artículo 62.
+
+Previo al cierre de nómina, el Auxiliar de Asistencia y Puntualidad deberá asentar en el Registro, las justificaciones que previamente haya autorizado el titular del órgano jurisdiccional, de cada ponencia en el caso de los tribunales colegiados o área administrativa correspondiente, además de remitirle el reporte de incidencias respectivo para su conocimiento.
+
+Asimismo, dicho Auxiliar deberá resguardar la justificación autorizada y, en su caso, la documentación idónea que la acredite y depositarla en el medio electrónico que determine la Dirección General de Recursos Humanos, misma que estará sujeta a los sistemas de supervisión, control y verificación que establezca el Consejo.
+
+###### Artículo 63.
+
+En caso de ausencia temporal o permanente del Auxiliar de Asistencia y Puntualidad, la Dirección General de Tecnologías de la Información deberá realizar el alta en el lector biométrico del servidor público que lo supla o sustituya, e informarlo a la Unidad de Registro y Control de Asistencia mediante correo electrónico.
+
+###### Artículo 64.
+
+Los titulares de los órganos jurisdiccionales, de cada ponencia en el caso de los tribunales colegiados y de las áreas administrativas, serán los únicos que podrán justificar omisiones de entrada, salida, retardos y faltas de los servidores públicos a su cargo, de conformidad con este Acuerdo y lo dispuesto en el artículo 52 de las Condiciones Generales de Trabajo de los servidores públicos a cargo del Consejo.
+
+###### Artículo 65.
+
+Para efectos del Registro, son casusas de justificación por omisión de registro de entrada, salida, retardos y faltas las siguientes:
+
+I. Por caso fortuito o fuerza mayor: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa, por alguna de esas circunstancias;
+
+II. Por formación, capacitación y actualización: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa, cuando el servidor público realice estudios para la obtención de grado académico con reconocimiento y validez oficial en instituciones de educación superior que estén debidamente acreditadas, se encuentre inscrito en curso impartido por el Instituto de la Judicatura Federal o auspiciados por el Consejo. En estos supuestos sólo se podrá justificar el retardo en la entrada o la salida anticipada;
+
+III. Por servicio público: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa para el cumplimiento de las funciones a cargo del servidor público;
+
+IV. Por licencia o días económicos en términos de las disposiciones normativas establecidas;
+
+V. Por suspensión oficial de labores;
+
+VI. Por vacaciones; y
+
+VII. Por determinación del Pleno o Comisiones.
+
+###### Artículo 66.
+
+La Unidad de Registro y Control de Asistencia, en su caso, con el apoyo de la Coordinación de Administración Regional y del Auxiliar de Asistencia y Puntualidad, realizará cotejos de identidad y revisiones periódicas de los registros de la geometría de mano de los servidores públicos.
+
+###### Artículo 67.
+
+La interpretación de este Capítulo corresponde a la Comisión de Administración.
+
+###### Artículo 68.
+
+La Comisión de Administración podrá emitir disposiciones administrativas para la operación del Registro.
+
+## TÍTULO SEGUNDO. DE LOS PREMIOS, PENSIONES, PRESTACIONES Y LICENCIAS
+
+### CAPÍTULO CUARTO. CENTROS DE DESARROLLO INFANTIL
+
+###### Artículo 69.
+
+Se entregará anualmente el premio "SILVESTRE MORENO CORA", a los servidores públicos del Poder Judicial de la Federación, en reconocimiento a los años de servicios prestados en dicho Poder, incluyendo la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del mismo.
+
+###### Artículo 70.
+
+El premio consistirá en el otorgamiento de un estímulo en numerario, que el Pleno determinará de acuerdo con su presupuesto.
+
+###### Artículo 71.
+
+El premio se otorgará al servidor público que reúna los siguientes requisitos:
+
+I. Contar a la fecha de entrega del premio, con cincuenta años de servicios efectivos en el Poder Judicial de la Federación;
+
+II. No presentar nota desfavorable en su expediente; y
+
+III. Haberse distinguido por su honestidad, respeto, dedicación y responsabilidad en el servicio.
+
+###### Artículo 72.
+
+La Comisión de Administración realizará el análisis de los candidatos que reúnan los requisitos precisados y someterá a la consideración del Pleno la lista correspondiente para que, en su caso, y de estimarlo procedente, designe al servidor público que sea acreedor al premio.
+
+###### Artículo 73.
+
+El premio se entregará en ceremonia especial, con motivo del Día del Servidor Público del Poder Judicial de la Federación.
+
+### CAPÍTULO QUINTO. LICENCIAS
+
+#### SECCIÓN SEXTA. RECURSO DE RECONSIDERACIÓN
+
+###### Artículo 74.
+
+Los beneficiarios de la pensión complementaria son:
+
+I. El servidor público que se retire del cargo de magistrado de Circuito o juez de Distrito, siempre que reúna los requisitos previstos en los artículos 80 y 81 de este Acuerdo;
+
+II. El cónyuge o concubinario supérstite del servidor público mencionado en la fracción anterior, siempre y cuando no contraiga nuevo matrimonio, entre en concubinato o dependa económicamente de otra persona; circunstancias que podrán ser verificadas en cualquier momento por la Dirección General de Servicios al Personal; y
+
+III. Los hijos menores de edad o incapaces de los servidores públicos mencionados en la fracción I de este artículo, hasta cumplir la mayoría de edad, excepto los incapaces.
+
+La cantidad total a que tengan derecho los beneficiarios señalados en las fracciones II y III de este artículo, se dividirá en partes iguales entre ellos. Cuando fuesen varios los beneficiarios de una pensión y alguno de ellos perdiese el derecho a percibirla, la parte que le corresponda será repartida proporcionalmente entre los restantes.
+
+El Pleno podrá autorizar el otorgamiento de una pensión complementaria a los beneficiarios a que se refiere este artículo, aun cuando no satisfagan los requisitos que para tal efecto se prevén en este Capítulo, cuando por causas debidamente justificadas, y previo estudio socioeconómico, se advierta que carecen de ingresos suficientes que les permitan vivir con decoro.
+
+El monto de la pensión complementaria se deberá calcular conforme a las reglas previstas en la normativa vigente al momento en que cause baja el magistrado de Circuito o juez de Distrito respecto del cual se tramite la solicitud de pensión complementaria respectiva.
+
+El régimen de pensiones complementarias a que se refiere este Acuerdo se financiará con los fondos del fideicomiso de inversión que para tal efecto se haya constituido y, previa autorización del Pleno, con recursos presupuestales a través de la partida presupuestal correspondiente al Presupuesto de Egresos del Poder Judicial de la Federación.
+
+#### SECCIÓN SÉPTIMA. PAGO DE LA PENSIÓN COMPLEMENTARIA
+
+###### Artículo 75.
+
+La pensión total por jubilación que reciban los beneficiarios a que se refiere la fracción I del artículo anterior, ya sea por retiro forzoso o anticipado, podrá alcanzar hasta un 80% del sueldo pensionable, sin que en ningún caso la pensión complementaria sea menor al 25% del salario neto que perciban los magistrados de Circuito y jueces de Distrito en activo, y se integrará de la siguiente manera:
+
+I. Tratándose de los servidores públicos que se hubieran jubilado conforme al régimen previsto en la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de veintisiete de diciembre de mil novecientos ochenta y tres, o que hayan optado por el sistema previsto en el artículo décimo transitorio de la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de treinta y uno de marzo de dos mil siete, la pensión total por jubilación estará integrada por la que otorgue el ISSSTE conforme a la normatividad aplicable y la asignada por el Consejo como pensión complementaria.
+
+Las pensiones complementarias calculadas conforme a esta fracción deberán ser ajustadas anualmente por la Dirección General de Servicios al Personal, conforme al incremento de la pensión del ISSSTE, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual neto que perciban magistrados de Circuito o jueces de Distrito en activo; y
+
+II. Tratándose de los servidores públicos que se jubilen conforme al régimen previsto en la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de treinta y uno de marzo de dos mil siete, la pensión total por jubilación estará integrada por una aportación base de diez veces el salario mínimo general mensual vigente para el Distrito Federal el día de su retiro y la asignada como pensión complementaria.
+
+Las pensiones complementarias calculadas conforme a esta fracción deberán ser ajustadas en el momento en que se conozca el monto máximo alcanzado por concepto de bono de pensión que haya correspondido al servidor público a través del PENSIONISSSTE o de la institución que maneje su cuenta individual y se le pagarán o retendrán, por la Dirección General de Servicios al Personal, las diferencias que resulten según sea el caso, entre la cantidad total asignada conforme a este sistema y el sueldo pensionable, que podrá ser de hasta el 80% sin que en ningún caso la pensión complementaria sea menor al 25% del salario neto que perciban los magistrados de Circuito o jueces de Distrito en activo, según las reglas de este Capítulo.
+
+Estas pensiones deberán asimismo ajustarse anualmente por la Dirección General de Servicios al Personal, conforme a las actualizaciones fijadas por la Comisión Nacional de Salarios Mínimos mediante publicación en el Diario Oficial de la Federación, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual neto que perciban magistrados de Circuito o jueces de Distrito.
+
+Sobre el importe de la pensión complementaria que otorgue el Consejo, en términos de la fracción I o de la fracción II de este artículo, según proceda, se aplicará la retención del impuesto sobre la renta, observando lo previsto en la Ley del Impuesto Sobre la Renta, sin que para el cálculo de la aludida retención se considere el importe de la pensión otorgada por el ISSSTE, ya que dicho Instituto respecto de la pensión que otorgue, de proceder conforme a la mencionada ley, hará lo propio.
+
+###### Artículo 76.
+
+Los montos de las pensiones complementarias serán determinados conforme a las reglas de este Capítulo.
+
+###### Artículo 77.
+
+La Comisión de Administración deberá ordenar, por lo menos una vez cada año, la práctica de estudios actuariales profesionales con el fin de disponer de elementos suficientes para la toma de decisiones que aseguren la suficiencia del Fondo y la supervivencia indefinida del Plan, teniendo siempre como objetivo, observar lo establecido en los artículos 75 y 76 de este Acuerdo.
+
+Se podrán recibir de cualquier persona donativos que permitan financiar el Plan.
+
+###### Artículo 78.
+
+Para calcular cada pensión en particular, el Director General de Servicios al Personal deberá considerar el sueldo pensionable de cada servidor público y la pensión que debiera recibir del ISSSTE, conforme a la Ley del ISSSTE.
+
+###### Artículo 79.
+
+Podrá negarse el otorgamiento de las pensiones complementarias a que se refiere este Capítulo, o, en cualquier momento, dejarse de otorgar o modificarse en cantidad o en el lapso durante el cual se otorgaron, por decisión del Pleno, aun cuando se cumplan todas las condiciones previstas en dicho Capítulo, atendiendo a las circunstancias especiales de cada caso en particular o a las generales que obliguen a ello.
+
+En el supuesto de que los servidores públicos que con antelación a su jubilación, o durante, o con posterioridad a dicho evento, sean sujetos de algún procedimiento de responsabilidad de conformidad con las disposiciones aplicables, mientras dure la sustanciación del mismo, el Pleno determinará si el magistrado de Circuito o juez de Distrito podrá recibir o continuar percibiendo la pensión complementaria a que tiene o pudiese tener derecho en los términos del artículo siguiente; en caso de ser sancionados o condenados por una conducta calificada como grave, se suspenderá en definitiva la pensión complementaria.
+
+#### SECCIÓN OCTAVA. SUSPENSIÓN Y CANCELACIÓN DE LA PENSIÓN COMPLEMENTARIA
+
+###### Artículo 80.
+
+El pago de las pensiones complementarias, tomando en consideración que su naturaleza constituye una condición general de trabajo, deberá condicionarse al cumplimiento de los siguientes requisitos de edad y antigüedad en el servicio:
+
+I. Para tener derecho al total de la pensión complementaria por jubilación forzosa, los magistrados de Circuito y jueces de Distrito deberán haber cumplido 75 años de edad; y
+
+II. Para tener derecho a solicitar la pensión complementaria por jubilación anticipada, los magistrados de Circuito y jueces de Distrito deberán haber cumplido, cuando menos, 65 años de edad y 25 años de servicio en el Poder Judicial de la Federación; en cuyo caso, la pensión complementaria sufrirá un descuento proporcional por cada año que falte para que se cumplan los 75 años de edad, en los términos de la fracción II del artículo 84 de este Acuerdo.
+
+###### Artículo 81.
+
+Los magistrados de Circuito y jueces de Distrito a los que el ISSSTE, diagnostique una incapacidad física o mental permanente, de conformidad con la Ley del ISSSTE, tendrán derecho a una pensión total del 80% del sueldo pensionable, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual neto que perciban magistrados de Circuito o jueces de Distrito en activo.
+
+Los beneficiarios de los servidores públicos que reciban esta pensión se regirán por lo previsto en los artículos 74 y 85 de este Acuerdo.
+
+###### Artículo 82.
+
+En caso de que un magistrado de Circuito o juez de Distrito fallezca durante el ejercicio de su cargo, se equiparará al caso de jubilación forzosa a que se refiere la fracción I del artículo 80 de este Acuerdo, por lo que sus beneficiarios tendrán derecho a recibir la pensión complementaria prevista en el artículo 84 del mismo.
+
+###### Artículo 83.
+
+No procederá el otorgamiento de la pensión complementaria cuando no se reúnan los requisitos previstos en el artículo 80 de este Acuerdo y demás aplicables de este Capítulo.
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+###### Artículo 84.
+
+Los montos de las pensiones complementarias a que se refiere este Acuerdo se sujetarán a lo siguiente:
+
+I. La pensión complementaria por jubilación forzosa deberá ser tal que, sumada a la pensión del ISSSTE, dé por resultado una cantidad equivalente al 80% del ingreso mensual neto que corresponda al último cargo desempeñado por el trabajador en el Poder Judicial de la Federación y por el que disfrute de la pensión del ISSSTE. En ningún caso, el monto de la pensión total por jubilación podrá exceder de tal porcentaje, ni la pensión complementaria podrá ser menor al 25% del salario neto que perciban magistrados de Circuito o jueces de Distrito en activo; y
+
+II. La pensión complementaria por jubilación anticipada se determina mediante una proporción ascendente que de manera equitativa considera los años de servicio y la edad en una línea oblicua. Así, la pensión total por jubilación anticipada, deberá ser tal que, integrada por la que otorgue el ISSSTE y la asignada como pensión complementaria, dé por resultado el porcentaje que se establece a continuación sin que éste en ningún caso llegue a exceder los porcentajes a que se refiere la fracción anterior:
+
+a) A los 65 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable;
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable;
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
+
+9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
+
+10. 34 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
+
+11. 35 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
+
+b) A los 66 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable;
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable;
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
+
+9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
+
+10. 34 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
+
+c) A los 67 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable;
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable;
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
+
+9. 33 años de servicios efectivos en el Poder Judicial o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
+
+d) A los 68 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable;
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
+
+e) A los 69 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
+
+f) A los 70 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
+
+g) A los 71 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
+
+h) A los 72 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
+
+i) A los 73 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable.
+
+j) A los 74 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable.
+
+La información anterior se representa gráficamente en la siguiente tabla:
+
+Edad Antigüedad
+
+% 25 26 27 28 29 30 31 32 33 34 35
+
+65 45 47.5 50 52.5 55 57.5 69 73 76 78 80
+
+66 47.5 50 52.5 55 57.5 69 73 76 78 80 80
+
+67 50 52.5 55 57.5 69 73 76 78 80 80 80
+
+68 52.5 55 57.5 69 73 76 78 80 80 80 80
+
+69 55 57.5 69 73 76 78 80 80 80 80 80
+
+70 57.5 69 73 76 78 80 80 80 80 80 80
+
+71 69 73 76 78 80 80 80 80 80 80 80
+
+72 73 76 78 80 80 80 80 80 80 80 80
+
+73 76 78 80 80 80 80 80 80 80 80 80
+
+74 78 80 80 80 80 80 80 80 80 80 80
+
+75 80 80 80 80 80 80 80 80 80 80 80
+
+###### Artículo 85.
+
+La pensión total por jubilación para los beneficiarios a que se refiere el artículo 74, fracciones II y III de este Acuerdo, deberá representar el 50% de la que correspondiera a los servidores públicos jubilados beneficiados por el Plan y, en ningún caso, la pensión complementaria podrá ser menor al 25% del salario mensual neto que perciban magistrados de Circuito o Jueces de Distrito en activo.
+
+###### Artículo 86.
+
+No obstante lo previsto en los artículos 75 y 76 de este Acuerdo, el Pleno podrá incrementar las pensiones complementarias otorgadas, siempre y cuando los recursos del Plan lo permitan y tal incremento no ponga en riesgo la solidez financiera del mismo, previo estudio actuarial y señalando los criterios que se hayan tomado en cuenta para determinar el incremento.
+
+En ejercicio de dichas atribuciones, el Pleno podrá revisar el monto de las pensiones por jubilación, a fin de que la pensión total se mantenga dentro del 80% del sueldo pensionable, y que la pensión complementaria no resulte menor al 25% del sueldo mensual neto que perciban magistrados de Circuito o jueces de Distrito en activo.
+
+#### SECCIÓN SEGUNDA. DEL FONDO
+
+###### Artículo 87.
+
+Para recibir la pensión complementaria a que se refiere este Acuerdo, será necesario que el beneficiario interesado lo solicite mediante escrito dirigido a la Comisión de Administración, el que deberá ser presentado en la Oficialía de Partes y Certificación del Edificio Sede del Consejo, directamente o por correo certificado.
+
+El plazo para solicitar las pensiones complementarias generadas y no reclamadas prescribirá en un año, contado a partir de la fecha en que se genere el derecho a recibir la pensión complementaria.
+
+###### Artículo 88.
+
+Una vez presentada la solicitud de pensión complementaria, la Dirección General de Servicios al Personal deberá recabar la información necesaria para integrar el expediente respectivo y, con base en éste, elaborar un proyecto de resolución en el que proponga a la Comisión de Administración el sentido de la resolución que determine sobre la procedencia o no de la pensión solicitada, en un plazo que no deberá exceder de treinta días siguientes a la integración del citado expediente.
+
+La Comisión de Administración deberá rendir un informe mensual al Pleno de las resoluciones que emita, mediante una relación de asuntos autorizados, en la que se señale el nombre del solicitante, el sentido de la resolución y, en su caso, el monto otorgado. A dicho informe se anexará el documento que acredite la situación financiera del Fondo.
+
+###### Artículo 89.
+
+Las resoluciones serán firmadas por el presidente de la Comisión de Administración, por el titular de la Dirección General de Servicios al Personal y por el secretario técnico de la citada Comisión, quien autorizará y dará fe de éstas.
+
+Las resoluciones que determinen sobre la procedencia de la pensión complementaria deberán notificarse al peticionario correspondiente, a más tardar dentro de los quince días hábiles siguientes a su emisión, mediante el servidor público que al efecto se habilite, entregándole copia certificada de la resolución. Asimismo, se deberá remitir una copia certificada de dicha resolución a la Dirección General de Recursos Humanos para que sea agregada al expediente personal respectivo.
+
+###### Artículo 90.
+
+El titular de la Dirección General de Servicios al Personal deberá instrumentar los mecanismos para la implementación de un programa de revisión de supervivencia, que se llevará a cabo dos veces al año.
+
+De los resultados que se obtengan se elaborará un informe, el cual deberá ser presentado a la Comisión de Administración.
+
+###### Artículo 91.
+
+La Contraloría, en el ámbito de su competencia, vigilará el cumplimiento de las disposiciones aplicables al Plan.
+
+#### SECCIÓN TERCERA. DE LA INCORPORACIÓN, RETIRO Y PRÉSTAMO DEL FONDO
+
+###### Artículo 92.
+
+Las resoluciones por las que la Comisión de Administración determine negar la pensión complementaria solicitada, así como los términos en que se hubiere otorgado, podrán ser impugnadas por el interesado ante el Pleno mediante recurso de reconsideración.
+
+###### Artículo 93.
+
+El plazo para interponer el recurso de reconsideración será de treinta días hábiles siguientes al en que surta efectos la notificación de la resolución respectiva.
+
+###### Artículo 94.
+
+El recurso de reconsideración deberá interponerse por el interesado, mediante escrito dirigido al Pleno, el que deberá ser presentado en la Oficialía de Partes y Certificación del Edificio Sede del Consejo, directamente o por correo certificado.
+
+###### Artículo 95.
+
+El recurso de reconsideración se substanciará de plano por el Pleno, quien deberá emitir la resolución que corresponda dentro de los treinta días hábiles siguientes al de su recepción.
+
+###### Artículo 96.
+
+En contra de la resolución que decida sobre el recurso de reconsideración no procederá medio de impugnación alguno.
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+###### Artículo 97.
+
+El derecho a recibir la pensión complementaria, para los beneficiarios a que se refiere el artículo 74, fracción I, de este Acuerdo, se origina a partir del día siguiente a la fecha de baja en el cargo del que se retire el servidor público de que se trate, siempre y cuando la solicitud de pensión complementaria sea procedente.
+
+El pago de las pensiones complementarias que sean procedentes, en su caso, se realizará dentro de los últimos tres días del mes vencido; tratándose del primer pago, éste se hará retroactivo a partir del día siguiente de la baja del servidor público, salvo lo dispuesto en el segundo párrafo del artículo 87 de este Acuerdo, en cuyo caso el pago se hará a partir de la fecha de presentación de la solicitud.
+
+###### Artículo 98.
+
+En caso de que cualquiera de los beneficiarios de la pensión complementaria, a que se refiere el artículo 74 de este Acuerdo, no cuente oportunamente con el documento que determine el monto de la pensión del ISSSTE, la Comisión de Administración podrá autorizar, previa solicitud por escrito, el pago anticipado de una cantidad equivalente al 50% de la pensión complementaria que aproximadamente se calcule le habrá de corresponder.
+
+El pago de este anticipo se realizará, según corresponda, conforme a lo previsto en este Capítulo.
+
+Cuando el ISSSTE cuantifique la pensión a su cargo, la Dirección General de Servicios al Personal realizará los ajustes pertinentes al monto definitivo de la pensión complementaria y pagará, en su caso, los remanentes en favor del beneficiario, lo cual deberá informarse a la Comisión de Administración.
+
+###### Artículo 99.
+
+Tratándose de los beneficiarios a que se refieren las fracciones II y III del artículo 74 de este Acuerdo, el derecho a recibir la pensión complementaria se origina a partir del día siguiente a la fecha de fallecimiento del servidor público beneficiado por el Plan, salvo lo dispuesto en el segundo párrafo del artículo 87 de este Acuerdo, en cuyo caso el pago se hará a partir de la fecha de presentación de la solicitud.
+
+En los casos en que el fallecimiento del titular de la pensión complementaria ocurra antes de que transcurra el periodo por el cual ya se hubiese realizado el pago, el excedente será compensado del monto de la pensión que corresponda al beneficiario.
+
+El pago de las pensiones complementarias que sean procedentes, en su caso, se realizará de conformidad con lo previsto en el párrafo segundo del artículo 97 de este Acuerdo.
+
+###### Artículo 100.
+
+En caso de fallecimiento de un beneficiario de la pensión complementaria la devolución del excedente que, en su caso, se hubiera pagado, será resuelta por la Comisión de Administración, previo informe que al respecto rinda el titular de la Dirección General de Servicios al Personal.
+
+###### Artículo 101.
+
+Una vez otorgada la pensión complementaria por la Comisión de Administración o el Pleno, en su caso, se girarán instrucciones conducentes al Comité Técnico del Fideicomiso para la autorización del pago correspondiente.
+
+###### Artículo 102.
+
+El titular de la Dirección General de Servicios al Personal informará mensualmente a la Comisión de Administración, de lo que se hubiera realizado de conformidad con lo dispuesto en este Capítulo.
+
+#### SECCIÓN SEGUNDA. PRESTACIÓN DE SERVICIOS
+
+###### Artículo 103.
+
+Se suspenderá el pago de la pensión complementaria cuando el magistrado de Circuito o juez de Distrito jubilado que la estuviere recibiendo, por cualquier causa, regresare al servicio activo en cualquier cargo dentro del Poder Judicial de la Federación.
+
+La suspensión surtirá efectos a partir de la fecha de reinicio de actividades; sin embargo, la pensión podrá ser reiniciada a partir de la fecha en que el beneficiario señalado en el párrafo anterior se retire del servicio activo del Poder Judicial de la Federación, siempre y cuando no reciba alguna otra pensión en el Poder Judicial de la Federación.
+
+###### Artículo 104.
+
+Se cancelará la pensión complementaria a que se refiere este Capítulo cuando, para obtenerla, cualquiera de los beneficiarios hubiese proporcionado datos falsos que induzcan al error o se aprovechen de aquél en que la Dirección General de Servicios al Personal hubiese incurrido.
+
+También procede la cancelación de la pensión cuando, por resolución firme, se determine que el beneficiario que la esté disfrutando ha sido sancionado con inhabilitación en el servicio público; o cuando incumpla la prohibición contenida en el párrafo segundo del artículo 101 de la Constitución.
+
+La resolución que determine la cancelación de la pensión complementaria será emitida por el Pleno, previo dictamen de la Comisión de Administración.
+
+Tratándose del supuesto previsto en la fracción III del artículo 74 de este Acuerdo, la cancelación de la pensión procederá de pleno derecho, sin substanciación de procedimiento alguno, cuando los beneficiarios cumplan la mayoría de edad, excepto los incapaces.
+
+###### Artículo 105.
+
+Para efectos de lo dispuesto en el artículo 12 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se publicará trimestralmente la información del fideicomiso constituido por el Consejo para financiar el Plan, y se remitirá a las autoridades que conforme a la ley corresponda.
+
+###### Artículo 106.
+
+La Comisión de Administración es el órgano encargado de interpretar las disposiciones de este Capítulo, así como de resolver las situaciones no previstas en el mismo para lo cual, en su caso, podrá solicitar la opinión de las áreas administrativas correspondientes.
+
+### CAPÍTULO PRIMERO. ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACIÓN DE SERVICIOS, OBRA PÚBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA
+
+#### SECCIÓN TERCERA. ORGANIZACIÓN DE LOS CENDI
+
+###### Artículo 107.
+
+El Fondo operará conforme a los principios siguientes:
+
+I. Participación voluntaria;
+
+II. Igualdad de derechos y obligaciones de los participantes; y
+
+III. Cooperación, solidaridad y equidad.
+
+###### Artículo 108.
+
+El Fondo tiene como objetivo general fomentar el ahorro de los servidores públicos, en previsión de una baja.
+
+Con el propósito de ampliar los beneficios a los servidores públicos que se incorporen al Fondo, podrán acceder a préstamos del patrimonio del Fondo conforme a lo dispuesto en el artículo 126 de este Acuerdo.
+
+###### Artículo 109.
+
+El patrimonio del Fondo se constituye por la suma de:
+
+I. Las aportaciones ordinarias de los servidores públicos;
+
+II. Las aportaciones ordinarias del Consejo;
+
+III. Los rendimientos devengados por las aportaciones ordinarias y adicionales; y
+
+IV. Los intereses que generen los préstamos.
+
+Salen del patrimonio del Fondo, las cantidades de dinero que se entreguen a los servidores públicos en los términos y condiciones previstos en el presente Acuerdo.
+
+###### Artículo 110.
+
+Serán beneficiarios del Fondo los servidores públicos incorporados a él, así como las personas designadas por éstos ante el Consejo, o quien legalmente acredite tener dicho derecho.
+
+###### Artículo 111.
+
+Los servidores públicos, en forma voluntaria, elegirán el porcentaje de las aportaciones ordinarias que desean realizar por un equivalente del 2, 5 y o 10% de su sueldo básico. La deducción se aplicará en forma quincenal, a través del sistema de nómina.
+
+El Consejo queda obligado a aportar un porcentaje igual al seleccionado por el servidor público, tomando como base el sueldo básico de éste.
+
+###### Artículo 112.
+
+Las aportaciones ordinarias que efectúe el Consejo al Fondo, se realizarán con cargo a la partida presupuestal que al efecto se determine, conforme al Clasificador por Objeto del Gasto.
+
+###### Artículo 113.
+
+El Fondo es de carácter indefinido e intransferible con excepción de lo previsto en el presente Acuerdo o por determinación del Pleno.
+
+El Pleno se reserva el derecho de modificar total o parcialmente los términos y condiciones que rijan este esquema de administración.
+
+#### SECCIÓN CUARTA. NUTRICIÓN DE LOS INFANTES
+
+###### Artículo 114.
+
+El patrimonio del Fondo será invertido a través de sociedades de inversión de Deuda Gubernamental, que cumplan con los requisitos del artículo 32 de la Ley de Sociedades de Inversión y las que en su momento autorice la Comisión Nacional Bancaria y de Valores, mediante disposiciones de carácter general, con calificación Triple "A", operadas por la institución financiera, misma que será seleccionada en los términos y condiciones que autorice el Pleno.
+
+El Comité de Inversión será el responsable de realizar las gestiones conducentes para llevar a cabo el procedimiento de selección de la Institución Financiera con la cual se formalizará la administración del Fondo de Reserva Individualizado a través del esquema de un Fondo de Ahorro, debiendo someter a la consideración del Pleno la aprobación de la contratación del servicio correspondiente y la institución que considere la mejor opción para esos efectos, para lo cual podrá solicitar el apoyo que requiera de las demás áreas administrativas del Consejo.
+
+###### Artículo 115.
+
+La Institución llevará una cuenta individual por cada servidor público inscrito al Fondo, en la que se refleje de manera separada las aportaciones ordinarias realizadas por el servidor público y las del Consejo, además de los rendimientos obtenidos tanto por las aportaciones ordinarias, como por los préstamos otorgados con cargo al patrimonio del Fondo.
+
+La individualización de las cuentas se llevará a cabo desde la primera aportación de los inscritos.
+
+###### Artículo 116.
+
+La Institución hará llegar al Consejo los estados de cuenta de la inversión correspondiente al Patrimonio del Fondo, con la periodicidad y términos que determine este último, en los que se dé a conocer por lo menos:
+
+I. La posición de las acciones de las cuales sea titular, valuada al último día del corte del período que corresponda y la del corte del período anterior;
+
+II. Los movimientos del período que corresponda y sus rendimientos en forma mensual, anual y acumulado;
+
+III. En su caso, los avisos sobre las modificaciones a sus prospectos de información al público inversionista, señalando el lugar o medio a través del cual los accionistas podrán acceder a su consulta;
+
+IV. El plazo para el desahogo de las observaciones presentadas por los servidores públicos, sobre la información en la que éstos hayan manifestado su inconformidad;
+
+V. El monto total por separado de las aportaciones ordinarias, así como de los préstamos; y
+
+VI. Cualquier otra información que el Consejo determine de conformidad con lo dispuesto en el artículo 10 de la Ley de Sociedades de Inversión.
+
+###### Artículo 117.
+
+La Institución deberá dar acceso a los servidores públicos del servicio de Internet para consulta de reportes de saldos y movimientos de su cuenta individual.
+
+En el supuesto de que el servidor público, solicite que se le remitan los reportes de saldos y movimientos en forma impresa, podrá presentar dicha petición ante la Dirección General de Servicios al Personal, o en su caso, ante la Coordinación de Administración Regional, a través de sus Administraciones Regionales o Delegaciones Administrativas.
+
+###### Artículo 118.
+
+El Consejo enterará a la Institución las aportaciones ordinarias que correspondan al patrimonio del Fondo, a más tardar el día hábil siguiente de realizadas las aportaciones.
+
+###### Artículo 119.
+
+La sociedad de inversión deberá proporcionar la información respecto al monto de los rendimientos a partir del día hábil siguiente a aquél en que hayan ingresado las aportaciones ordinarias, lo cual deberá acreditar conforme a los mecanismos de inversión de los recursos.
+
+La sociedad de inversión está obligada a generar rendimientos a partir del día de ingreso de los recursos.
+
+###### Artículo 120.
+
+La Institución dará cabal cumplimiento a la protección de datos personales de los servidores públicos, que en su oportunidad sea proporcionada por el Consejo, para lo cual, únicamente proporcionará los datos a la autoridad que cuente con las facultades para requerirla y en las condiciones de ley, protegiendo en todo momento los derechos de los servidores públicos.
+
+###### Artículo 121.
+
+La sociedad de inversión sólo podrá llevar a cabo las actividades necesarias para la realización de su objeto, el de verificación o confirmación de identidad o datos generales, así como las demás actividades análogas y conexas que autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
+
+#### SECCIÓN QUINTA. SERVICIO MÉDICO
+
+###### Artículo 122.
+
+Los servidores públicos se incorporarán al Fondo en forma voluntaria mediante la presentación del formato autorizado por el Consejo, de conformidad con los lineamientos que para tal efecto apruebe la Comisión de Administración.
+
+###### Artículo 123.
+
+Los servidores públicos inscritos en el Fondo podrán realizar el retiro total de sus aportaciones, cuando causen baja.
+
+En caso de fallecimiento del servidor público los recursos se entregarán a sus beneficiarios designados, a falta de éstos, a quien acredite legalmente tener derecho a ellos.
+
+En ambos casos, las solicitudes de pago se tramitarán ante la Dirección General de Servicios al Personal, quien las canalizará a la Institución para el pago correspondiente, quien deberá pagar dentro del plazo que se convenga con la Institución.
+
+En ningún otro caso procederá el retiro, con excepción a lo dispuesto en el artículo 125 de este Acuerdo.
+
+###### Artículo 124.
+
+El servidor público podrá cancelar, disminuir o incrementar sus aportaciones al Fondo por así convenir a sus intereses, previo aviso que realice a la Dirección General de Servicios al Personal dentro o, en su caso, ante la Coordinación de Administración Regional, a través de sus Administraciones Regionales o Delegaciones Administrativas, dentro del periodo que señale el Consejo.
+
+La Institución, efectuará la retención de impuestos correspondientes cuando así lo prevea la legislación y normatividad vigente en la materia, debiendo informar lo anterior al Consejo.
+
+El monto de las aportaciones ordinarias cubiertas por el servidor público mediante descuento vía nómina y el de las aportadas por el Consejo, así como sus rendimientos, seguirán reinvirtiéndose por la sociedad de inversión, hasta en tanto el servidor público cause baja del Poder Judicial de la Federación.
+
+###### Artículo 125.
+
+Cuando un servidor público cause baja del Fondo a consecuencia de un cambio de nivel de puesto que implique dejar de pertenecer al nivel operativo, y continúa prestando sus servicios en el Poder Judicial de la Federación, podrá solicitar el pago de su fondo acumulado a que tenga derecho, con apego a las disposiciones del artículo 123 de este Acuerdo, debiendo acompañar a la solicitud de pago, constancia o nombramiento del nuevo nivel de puesto y aviso de baja por renuncia o fin de nombramiento de la plaza de nivel operativo que venía ocupando.
+
+###### Artículo 126.
+
+Los servidores públicos inscritos en el Fondo, podrán solicitar préstamos con cargo al patrimonio del fondo de ahorro, previa solicitud a la Dirección General de Servicios al Personal, conforme a lo siguiente:
+
+I. Una vez cada tres años;
+
+II. El monto del préstamo se calculará tomando como base hasta el 50 % de las aportaciones ordinarias; y
+
+III. La tasa de interés y demás condiciones del préstamo se sujetarán a lo dispuesto en los lineamientos correspondientes.
+
+El pago del préstamo se realizará a través de descuento vía nómina.
+
+Cuando el servidor público cause baja y cuente con un préstamo vigente, de así ser solicitado por el servidor público, se podrá hacer entrega del remanente que corresponda, de no ser así tendrá la obligación de cubrir de manera inmediata su adeudo, aunque no retire sus recursos del Fondo.
+
+### CAPÍTULO SEGUNDO. ARRENDAMIENTO Y ADQUISICIÓN DE INMUEBLES
+
+#### SECCIÓN SEXTA. ACTIVIDADES DOCENTES
+
+###### Artículo 127.
+
+El Pleno, a propuesta de la Secretaría Ejecutiva de Administración, y previo visto bueno de la Comisión de Administración, podrá autorizar la creación de un CENDI, siempre que la disponibilidad presupuestal lo permita.
+
+###### Artículo 128.
+
+Los casos no previstos en este Capítulo serán resueltos por el Pleno, la Comisión de Administración y la Secretaría Ejecutiva de Administración, en su ámbito de competencia.
+
+#### SECCIÓN SÉPTIMA. INSCRIPCIÓN Y REINSCRIPCIÓN AL CENDI
+
+###### Artículo 129.
+
+Tienen derecho a la prestación de servicios del CENDI:
+
+I. Los hijos de las madres trabajadoras;
+
+II. Los hijos de los padres trabajadores viudos;
+
+III. Los hijos de los padres trabajadores divorciados que tengan la custodia exclusiva por resolución judicial; y
+
+IV. Los menores que estén bajo la custodia de mujer trabajadora casada o soltera, o bien, hombre trabajador soltero, que por resolución judicial ejerza la tutoría.
+
+###### Artículo 130.
+
+Los infantes a que se refiere el artículo anterior podrán ingresar y permanecer en el CENDI desde los 45 días de nacidos, como edad mínima, hasta los 5 años 11 meses, cumplidos al inicio del ciclo escolar, de acuerdo con el calendario de la SEP.
+
+###### Artículo 131.
+
+Para la prestación de servicios del CENDI, los servidores públicos deberán tener una antigüedad mínima de seis meses en el Poder Judicial de la Federación y haber incrementado la suma asegurada en su Seguro de Gastos Médicos Mayores, en un monto mayor al que paga el Consejo como prestación de conformidad con el nivel de puesto que les corresponda, así como haber designado al infante como asegurado en la póliza respectiva.
+
+Este servicio no podrá ser proporcionado a las personas contratadas bajo el régimen de honorarios.
+
+###### Artículo 132.
+
+Los servidores públicos que se encuentren en los supuestos de las fracciones III y IV del artículo 129 de este Acuerdo, deberán acreditar su situación legal con la exhibición de copia certificada y simple de la resolución judicial respectiva.
+
+La prestación del servicio se suspenderá cuando por resolución judicial los servidores públicos a que se refiere el párrafo anterior pierdan la custodia o la tutoría.
+
+El padre trabajador viudo, a que se refiere la fracción II del artículo 129 de este Acuerdo, acreditará su situación con la exhibición de copia certificada del acta de defunción del cónyuge, expedida por el Registro Civil.
+
+###### Artículo 133.
+
+Los servidores públicos podrán solicitar el ingreso de sus hijos en el CENDI que se encuentre en su centro de trabajo. En caso de no haber disponibilidad de espacio, o bien, cuando no haya un CENDI en el lugar de trabajo o en sus proximidades, los servidores públicos podrán optar por los servicios de guardería que proporciona el ISSSTE o solicitar por escrito el apoyo económico para la contratación de guarderías particulares. En este último caso, el trámite correspondiente se llevará a cabo ante la Dirección General de Servicios Médicos y Desarrollo Infantil, y estará sujeto a disponibilidad presupuestal.
+
+###### Artículo 134.
+
+Los servidores públicos podrán gozar de la prestación del servicio de CENDI hasta en dos ocasiones, salvo en los casos de parto múltiple, en cuyo caso serán considerados como una sola inscripción, sin que ello limite el ingreso de otro hermano.
+
+###### Artículo 135.
+
+El Director del CENDI será responsable de la vigilancia en el cumplimiento de las normas que rijan la prestación de los servicios brindados por los CENDI, quien deberá reportar a las instancias del Consejo competentes aquellas anomalías que por su naturaleza e importancia deban hacerse de su conocimiento.
+
+###### Artículo 136.
+
+Los servidores públicos que soliciten el ingreso de sus hijos a un CENDI deberán cumplir con las indicaciones y requisitos que aseguren que los infantes gocen de un estado de salud satisfactorio, que les permita integrarse a las actividades en él desarrolladas.
+
+###### Artículo 137.
+
+Los servidores públicos que soliciten el ingreso de un infante con capacidades diferentes deberán presentar un dictamen emitido por médico especialista en el que se especifique el grado de discapacidad y los recursos mínimos indispensables para su atención. El Director del CENDI valorará la información proporcionada para determinar si se cuenta con los medios adecuados para la atención e integración del infante al CENDI, y la resolución que se adopte será informada por escrito al servidor público solicitante.
+
+###### Artículo 138.
+
+Cuando el servidor público deje de laborar en el Poder Judicial de la Federación, el infante podrá gozar de la prestación de servicios por los siguientes períodos, contados a partir de la terminación de la relación laboral:
+
+I. Lactantes, maternales, primero y segundo grados de preescolar hasta por un mes; y
+
+II. Tercer grado de preescolar hasta que concluya el ciclo escolar correspondiente.
+
+###### Artículo 139.
+
+La prestación de servicios se brindará en las instalaciones de cada CENDI, excepto en los casos en que se programen actividades fuera de éste.
+
+###### Artículo 140.
+
+La prestación de servicios se realizará con el personal previsto en la plantilla básica para cada uno de los CENDI.
+
+###### Artículo 141.
+
+El horario de servicio será de las 8:30 a las 16.00 horas, de lunes a viernes, extendiéndose hasta las 17:00 horas en el área de preescolar cuando el horario laboral del servidor público lo justifique.
+
+El horario de entrada de los menores al CENDI será de las 8:30 a las 9:30 horas, debiéndose presentar los infantes ya desayunados.
+
+El horario de salida para los menores lactantes y maternales será a las 16:00 horas y para los infantes que cursen primero, segundo y tercer grado de preescolar será a las 17:00 horas.
+
+###### Artículo 142.
+
+Se considera retardo el ingreso de los infantes a partir de las 9:35 horas, y el retiro de los infantes a partir de las 16:10, en las áreas de lactantes y maternales, y 17:10 para los preescolares.
+
+###### Artículo 143.
+
+Cuando por necesidades del servicio o por determinación expresa del Pleno sea necesario modificar el horario de prestación de servicios, tal circunstancia deberá hacerse de conocimiento del servidor público por lo menos con un día de anticipación.
+
+###### Artículo 144.
+
+La prestación de servicios se brindará en los días hábiles del Poder Judicial de la Federación, con excepción de la segunda quincena del mes de julio y segunda quincena del mes de diciembre de cada año.
+
+No habrá prestación de servicios en los días de descanso señalados en el artículo 104 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales; así como los previstos en el artículo 6 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+###### Artículo 145.
+
+En el caso de que al servidor público se le haya otorgado una licencia por enfermedad o maternidad, podrá gozar del servicio del CENDI, siempre y cuando cumpla con lo siguiente:
+
+I. Presentar copia de la licencia respectiva; y
+
+II. En caso de que la incapacidad del trabajador sea por enfermedad infecto contagiosa, el infante será revisado y diagnosticado por el médico del CENDI para poder ingresar a las instalaciones del mismo.
+
+###### Artículo 146.
+
+Los infantes se distribuirán conforme a la normativa de la SEP en las secciones siguientes:
+
+I. Lactantes: de 45 días a 1 año 6 meses;
+
+II. Maternales: de 1 año 7 meses a 2 años 11 meses; y
+
+III. Preescolares: de 3 años a 5 años 11 meses.
+
+###### Artículo 147.
+
+El Consejo podrá ordenar la suspensión de la prestación del servicio en uno o varios CENDI, cuando:
+
+I. Se determine la posibilidad o existencia de un brote epidémico que requiera la adopción de medidas sanitarias por el tiempo que determine el servicio médico correspondiente;
+
+II. Se efectúen obras, reparaciones o remodelaciones que impidan la adecuada prestación del servicio;
+
+III. En caso de emergencia, el Director General de Servicios Médicos y Desarrollo Infantil podrá ordenar la suspensión de la prestación del servicio en uno o varios CENDI, debiendo informar inmediatamente al Consejo sobre las causas que la motivaron. El Consejo determinará si se mantiene o levanta la suspensión, conforme a las circunstancias previstas en este artículo; y
+
+IV. Por cualquier otra circunstancia que impida el desarrollo de las actividades del CENDI en condiciones de seguridad e higiene.
+
+#### SECCIÓN OCTAVA. RECEPCIÓN Y ENTREGA DE LOS INFANTES
+
+###### Artículo 148.
+
+Los CENDI contarán con el personal y los medios materiales necesarios para cumplir sus funciones eficientemente, de conformidad con lo que disponga la Comisión de Administración, tomando en consideración las cargas de trabajo y las posibilidades presupuestales.
+
+###### Artículo 149.
+
+Los CENDI operarán con un Director y con el personal que sea necesario, quienes tendrán la categoría y percepciones que se fijen en el presupuesto para esos cargos y que determine la Comisión de Administración.
+
+###### Artículo 150.
+
+Todo CENDI estará integrado por las siguientes áreas:
+
+I. Director del CENDI;
+
+II. Área médico preventiva;
+
+III. Área pedagógica;
+
+IV. Área de psicología preventiva; y
+
+V. Área de nutrición.
+
+###### Artículo 151.
+
+El Director General de Servicios Médicos y Desarrollo Infantil establecerá los canales de coordinación con las instancias públicas correspondientes, para la atención de cuestiones vinculadas con la salud y educación de los infantes.
+
+###### Artículo 152.
+
+El supervisor será el responsable de planear, organizar, dirigir y evaluar la prestación del servicio, de conformidad con este Capítulo y demás disposiciones aplicables.
+
+###### Artículo 153.
+
+El Director del CENDI será el responsable de programar, organizar y coordinar las actividades y la administración de los recursos del CENDI a su cargo, conforme a lo dispuesto en este Capítulo y demás disposiciones aplicables.
+
+###### Artículo 154.
+
+El Director del CENDI motivará la participación de los servidores públicos con el fin de apoyar el proceso educativo y su continuidad en el medio familiar.
+
+###### Artículo 155.
+
+Es responsabilidad del área médico preventiva promover, mejorar y mantener el estado óptimo de salud de los infantes, mediante la aplicación de programas de medicina preventiva, la ejecución de acciones médicas de carácter urgente, el control y seguimiento del tratamiento médico complementario o de reforzamiento a que estén sometidos los infantes que así lo requieran y la vigilancia en su crecimiento y desarrollo normal.
+
+###### Artículo 156.
+
+Corresponde al área pedagógica del CENDI la aplicación de programas educativos que conlleven a un adecuado desarrollo de sus aptitudes físicas e intelectuales de acuerdo con la edad de los infantes, aunado al conocimiento de sí mismos y de su entorno social.
+
+###### Artículo 157.
+
+Es función del área de psicología preventiva promover la salud mental y el óptimo desarrollo emocional de los infantes, mediante la aplicación de programas que les permitan adquirir confianza y seguridad en sí mismos y propiciar su óptima incorporación social.
+
+###### Artículo 158.
+
+Es competencia del área de nutrición proporcionar a los infantes los alimentos y nutrientes que contribuyan a su sano desarrollo físico y mental, de conformidad con el cuadro básico que para cada edad esté autorizado por la Secretaría de Salud o la SEP.
+
+###### Artículo 159.
+
+Antes del inicio del ciclo escolar el Director del CENDI y los responsables de cada área, formularán los programas que deberán ser aplicados en el período correspondiente.
+
+El contenido de los programas que para el desarrollo integral de los infantes formule el CENDI deberán realizarse de conformidad con las disposiciones aplicables emitidas por la SEP, y su contenido deberá ser aprobado cada ciclo escolar por el Director General de Servicios Médicos y Desarrollo Infantil.
+
+Su seguimiento y evaluación estará a cargo del Supervisor.
+
+###### Artículo 160.
+
+El personal y los trabajadores se abstendrán de realizar cualquier tipo de acción de proselitismo político o de gestoría sindical en las instalaciones del CENDI.
+
+#### SECCIÓN NOVENA. ASOCIACIÓN DE PADRES DE FAMILIA
+
+###### Artículo 161.
+
+La alimentación que se proporciona en el horario de prestación de servicios consistirá en colación matutina, comida y colación vespertina. Dicha alimentación será programada por el responsable del área de nutrición, supervisada por el médico pediatra del CENDI y autorizada por el Director del mismo.
+
+###### Artículo 162.
+
+Si por motivos de salud algún infante requiere un horario de alimentación o dieta especial, el servidor público responsable podrá solicitar por escrito al Director del CENDI su autorización para proveer los alimentos que requiera el menor y que éstos sean proporcionados en el horario que se requiera, quien de estimarlo procedente y previo visto bueno del médico pediatra, permitirá el ingreso de los alimentos al CENDI y su suministro de manera extraordinaria. El servidor público deberá adjuntar a su solicitud la receta del médico tratante conforme a lo previsto en la parte final del artículo 171 de este Acuerdo.
+
+###### Artículo 163.
+
+El servidor público no podrá ingresar al CENDI ninguna clase de alimentos, golosinas o bebidas para que los infantes las consuman durante su estancia en el citado centro, salvo lo previsto en el artículo anterior.
+
+Durante el filtro de salud, el personal deberá solicitar el retiro de los alimentos, golosinas o bebidas antes referidas.
+
+#### SECCIÓN DÉCIMA. OBLIGACIONES DE LOS SERVIDORES PÚBLICOS
+
+###### Artículo 164.
+
+El servicio médico pediátrico tiene carácter preventivo, orientado a la detección oportuna de las enfermedades y de atención curativa para la urgencia ocurrida durante la permanencia del infante en el CENDI.
+
+###### Artículo 165.
+
+El médico pediatra y el psicólogo, cuando identifiquen algún caso que requiera una atención especializada, informarán al Director del CENDI y al servidor público para la atención del infante en el servicio especializado que requiera. El servidor público deberá informar de la atención que se preste a su infante para un adecuado seguimiento por parte del personal autorizado del CENDI.
+
+###### Artículo 166.
+
+El médico pediatra llevará a cabo diariamente el filtro de salud para autorizar el ingreso de los infantes.
+
+###### Artículo 167.
+
+Cuando el infante presente algún padecimiento o síntoma de enfermedad durante la jornada escolar será atendido por el médico pediatra del CENDI, circunstancia que deberá ser informada al servidor público responsable del infante. En caso de que el Director del CENDI y el médico pediatra lo estimen conveniente se podrá solicitar el retiro del menor del citado Centro.
+
+###### Artículo 168.
+
+En caso de que un infante, durante su estancia en el CENDI, presente síntomas de una enfermedad transmisible, se procederá a aislarlo.
+
+El CENDI dará aviso al servidor público o a la persona autorizada para recibir al infante para que proceda a su retiro.
+
+El médico pediatra dará por escrito las indicaciones médicas necesarias. Si el infante enfermo tuviera un hermano inscrito en el CENDI, y ante la posibilidad de que sea portador de la misma enfermedad, también deberá ser retirado del mismo y suspendido durante el tiempo que estime conveniente el médico pediatra.
+
+###### Artículo 169.
+
+El médico pediatra y la enfermera, por indicaciones de aquél, serán los únicos autorizados para administrar medicamentos o practicar curaciones menores en caso necesario.
+
+###### Artículo 170.
+
+El médico pediatra atenderá los casos de urgencia y será quién determine las acciones que se deban adoptar. En ausencia de éste, la decisión corresponderá al Director del CENDI.
+
+Cuando el menor durante su estancia en el CENDI requiera de atención médica de urgencia que no pueda ser proporcionada en el citado Centro, será trasladado a la unidad médica correspondiente. En este caso se informará de dicha situación al servidor público o personas autorizadas, quienes deberán presentarse en la unidad médica para hacerse cargo del menor. El personal del CENDI que acompañe al infante a la unidad médica deberá permanecer hasta en tanto llegue el servidor público o personas autorizadas, las cuales deberán identificarse plenamente.
+
+###### Artículo 171.
+
+En caso de que sea necesario administrar algún medicamento al infante durante su estancia en el CENDI, el servidor público deberá entregar al área médica el original de la receta, la que deberá contener el nombre, clave o número de cédula profesional y firma del médico tratante, así como los medicamentos etiquetados conforme a lo previsto en el artículo siguiente.
+
+###### Artículo 172.
+
+El área médica conservará los medicamentos etiquetados en un lugar visible. En la etiqueta se deberá registrar el nombre del infante, el grupo al que corresponde, dosis y horario de administración.
+
+###### Artículo 173.
+
+No se recibirán medicamentos que deban administrarse en períodos cortos o que no requieran de un horario preestablecido tales como: homeopáticos, gotas ópticas u oftálmicas, vitaminas, suplementos nutricionales, entre otros.
+
+###### Artículo 174.
+
+Cuando un infante haya sido suspendido por motivos de salud, para reincorporarse al CENDI deberá ser sometido a un examen médico y el servidor público presentará al médico pediatra la constancia del tratamiento recibido o, en su defecto, las recetas de los medicamentos que le hubieren prescrito para certificar que se encuentra sano y apto para reintegrarse al CENDI.
+
+###### Artículo 175.
+
+El personal o el trabajador que tengan conocimiento de maltrato o abuso físico o psicológico de un infante, tienen la obligación de informar de inmediato al Director del CENDI.
+
+###### Artículo 176.
+
+Cuando un infante presente evidencia de maltrato o abuso físico o psicológico, el Director del CENDI solicitará al médico pediatra o psicólogo que requieran al trabajador responsable del infante, así como al personal que se estime conducente, para que declaren sobre las lesiones o conductas observadas en el menor, para la elaboración de un reporte al respecto.
+
+El Director del CENDI revisará el reporte, y de desprenderse una posible responsabilidad lo deberá hacer del conocimiento del Supervisor, quien a su vez informará a la Dirección General de Servicios Médicos y Desarrollo Infantil, para que se determinen las acciones a seguir.
+
+###### Artículo 177.
+
+Las quejas o denuncias de maltrato y abuso físico o psicológico a los infantes serán atendidas y documentadas por el Director del CENDI que corresponda, quien elaborará un reporte y procederá conforme a lo previsto en el artículo anterior. En cualquier momento podrá solicitar el auxilio de la Dirección General de Asuntos Jurídicos.
+
+###### Artículo 178.
+
+Para la elaboración del reporte se procurará proteger la integridad física y psicológica de los infantes.
+
+Tratándose de quejas o denuncias en las que se encuentre involucrado personal, el infante deberá estar acompañado, en todo momento, por el servidor público responsable del mismo.
+
+Los declarantes deberán firmar al pie de sus manifestaciones y al margen de las hojas en que se contengan, después de habérseles leído o de que las lean por sí mismos y las ratifiquen.
+
+#### SECCIÓN DÉCIMA PRIMERA. SANCIONES
+
+###### Artículo 179.
+
+El CENDI aplicará los planes y programas aprobados por la SEP para la educación inicial y preescolar.
+
+El CENDI otorgará las constancias que correspondan, a los hijos de los servidores públicos, conforme a la normativa y lineamientos educativos de la SEP.
+
+###### Artículo 180.
+
+El personal responsable del área educativa seleccionará el material de trabajo para la realización de las actividades, considerando la edad y características de desarrollo de los infantes, evitando poner en riesgo su integridad física.
+
+###### Artículo 181.
+
+En la planeación de las actividades docentes se tomarán en consideración las necesidades de los infantes con discapacidad que se encuentren inscritos.
+
+###### Artículo 182.
+
+La clase de educación física se efectuará en los horarios establecidos y en las instalaciones asignadas para tal efecto en el CENDI. El titular del grupo deberá estar presente durante el desarrollo de dicha actividad.
+
+###### Artículo 183.
+
+Para el desarrollo de actividades que se programen fuera de las instalaciones del CENDI, se requerirá autorización por escrito del servidor público responsable para la participación de los menores a su cargo.
+
+Los infantes que asistan a las actividades referidas en el párrafo anterior deberán portar gafete con sus datos y uniforme.
+
+###### Artículo 184.
+
+En las conmemoraciones cívicas marcadas en el calendario escolar se realizarán ceremonias sencillas y breves, considerando la edad de los infantes. Por ningún motivo los infantes se ocuparán de labores distintas a las propias de la formación académica.
+
+###### Artículo 185.
+
+Las actividades que el CENDI organice con motivo de la clausura de cursos, conmemoraciones cívicas y otras propias de la formación de los infantes, se realizarán en las instalaciones del CENDI y serán actos cívico-culturales que no afecten la economía familiar.
+
+###### Artículo 186.
+
+El personal asignado a las labores docentes tiene prohibido impartir clases remuneradas a los infantes.
+
+###### Artículo 187.
+
+En el caso de que el infante cumpla seis años durante el ciclo escolar, continuará inscrito hasta la conclusión del mismo.
+
+#### SECCIÓN DÉCIMA SEGUNDA. SOLICITUD DE RECONSIDERACIÓN
+
+###### Artículo 188.
+
+El servidor público acudirá al CENDI correspondiente a su centro de trabajo para informarse de la disponibilidad de vacantes, y en caso de no haber lugar disponible registrará su solicitud de inscripción en la lista de espera correspondiente.
+
+###### Artículo 189.
+
+La solicitud de inscripción deberá formularse por escrito, detallando los datos generales del infante y del servidor público, la que se acompañará de:
+
+I. Acta de nacimiento del infante;
+
+II. Cartilla Nacional de Vacunación actualizada del infante;
+
+III. Póliza del Seguro de Gastos Médicos Mayores del servidor público, con la que se acredite que la suma asegurada está incrementada en un monto mayor al que paga el Consejo como prestación, de conformidad con el nivel de puesto que le corresponde y que el infante está designado en la relación de asegurados;
+
+IV. Último nombramiento de trabajo;
+
+V. Último talón de pago del servidor público;
+
+VI. Constancia de antigüedad del servidor público, expedida por la Dirección General de Recursos Humanos;
+
+VII. Constancia de servicio activo del servidor público, firmada por el jefe inmediato en papel membretado, en el que se imprima el sello oficial, indicando horario de entrada y de salida; y
+
+VIII. Una identificación oficial vigente con fotografía del servidor público.
+
+Todos los documentos deberán ser presentados en original o copia certificada, según sea el caso, y en copia simple; los primeros serán devueltos de inmediato al servidor público, una vez cotejados con su copia simple, las que deberán ser anexadas a la solicitud de inscripción.
+
+###### Artículo 190.
+
+El ingreso de los infantes será autorizado por el Director del CENDI, conforme al orden de presentación de la solicitud y estará condicionado a la capacidad de atención del CENDI, así como al cumplimiento de los requisitos que establece este Capítulo.
+
+###### Artículo 191.
+
+Una vez completo el cupo del CENDI, las solicitudes pendientes se tramitarán en estricto orden cronológico de presentación, conforme a la existencia de vacantes en cada una de las secciones.
+
+###### Artículo 192.
+
+El Director del CENDI dará respuesta, por escrito, a la solicitud de inscripción. En caso de que el infante haya sido aceptado en el CENDI el servidor público, en un plazo que no exceda de veinte días hábiles, deberá cumplir con los siguientes requisitos:
+
+I. En su caso, actualizar los documentos señalados en las fracciones II, IV, V y VII del artículo 189 de este Acuerdo que entregó al llenar su solicitud;
+
+II. Entregar dos fotografías tamaño infantil recientes del infante y del servidor público;
+
+III. Designar por escrito a dos personas mayores de edad a quienes se autorice para entregar y recoger al infante en sustitución del servidor público. En dicho escrito se deberá señalar el domicilio y número telefónico de las personas designadas y se acompañarán dos fotografías recientes de cada persona autorizada, para la elaboración de las credenciales correspondientes;
+
+IV. El resultado de los siguientes exámenes de laboratorio practicados al infante:
+
+a) Exudado faríngeo;
+
+b) Examen general de orina;
+
+c) Estudio coproparasitoscópico en serie de tres; y
+
+d) Aquellos estudios adicionales que se indiquen.
+
+V. Escrito firmado por el servidor público, en el cual se autorice a que se practiquen curaciones de urgencia al infante y su traslado a una unidad médica, en caso de ser necesario;
+
+VI. Escrito deslindando de responsabilidades al CENDI, si el infante se encuentra bajo control médico en virtud de algún padecimiento sujeto a tratamiento, sobre el cual no haya proporcionado información al servicio médico del CENDI; y
+
+VII. Entregar los artículos de uso personal del infante y materiales didácticos solicitados, de conformidad con la sección o grupo en que haya sido inscrito, en la fecha programada para ello.
+
+###### Artículo 193.
+
+Los resultados de los análisis se entregarán, en original, al médico del CENDI, en las fechas previstas para tal efecto, dicha documentación deberá contar con razón social, resultados desglosados, firma del responsable del laboratorio y sello oficial.
+
+###### Artículo 194.
+
+Cuando los resultados de los análisis no sean clínicamente normales y determinen una enfermedad en evolución, el infante sólo podrá ser admitido hasta que un nuevo examen demuestre que la enfermedad en cuestión ha desaparecido, a criterio y decisión del médico pediatra del CENDI.
+
+###### Artículo 195.
+
+El servidor público deberá presentar al infante en el servicio médico del CENDI en la fecha y hora indicada para la elaboración de la historia clínica y realización del examen médico correspondiente.
+
+###### Artículo 196.
+
+La valoración médica y psicológica efectuada por el médico pediatra y el psicólogo, deberán determinar si el infante se encuentra apto para ingresar al CENDI.
+
+###### Artículo 197.
+
+El servidor público es responsable de la veracidad de la información proporcionada al CENDI.
+
+###### Artículo 198.
+
+Concluidos los trámites de inscripción, el Director del CENDI solicitará al servidor público firmar escrito en el que manifieste su compromiso a cumplir con la normativa sobre las condiciones para la prestación del servicio, en los términos de este Capítulo y en los instructivos aplicables, aceptando su cumplimiento.
+
+###### Artículo 199.
+
+El Director del CENDI verificará que se integre y se resguarde la documentación de los expedientes que contienen las solicitudes de inscripción, tanto de las peticiones atendidas como de aquellas que fueron denegadas.
+
+###### Artículo 200.
+
+El servidor público que no cumpla con los requisitos previstos en los artículos 192, 193 y 194 de este Acuerdo no podrá solicitar la reinscripción.
+
+Tampoco será factible autorizar la reinscripción en el caso de que el servidor público se encuentre sancionado con una suspensión definitiva del servicio público o cuando se diagnostique que el infante requiere de atención educativa, psicológica o médica especializada y el CENDI no cuente con los recursos para su adecuada atención.
+
+#### SECCIÓN DÉCIMA TERCERA. OBLIGACIONES DEL PERSONAL
+
+###### Artículo 201.
+
+Los infantes se recibirán diariamente en el mostrador de acceso de las 8:30 a las 9:30 horas, para que el médico del CENDI efectúe el filtro de salud. Para los infantes inscritos en los grupos de lactantes y maternales “A”, la revisión incluirá el área de genitales. El médico autorizará el ingreso si se reúnen las condiciones de salud e higiene requeridas.
+
+###### Artículo 202.
+
+Se extenderá constancia de suspensión temporal por los días que el médico juzgue conveniente a los infantes que no sean admitidos por presentar síntomas de enfermedad que ponga en riesgo su salud o la del resto de la población infantil del CENDI.
+
+###### Artículo 203.
+
+El servidor público informará al médico, en el momento del filtro de salud, de las condiciones de salud del infante durante las doce horas anteriores a su ingreso.
+
+###### Artículo 204.
+
+El servidor público presentará al infante correctamente aseado, es decir, con cabello limpio y peinado, uñas recortadas y limpias, cara, manos, ropa y calzado limpios.
+
+###### Artículo 205.
+
+Durante la inscripción y al inicio de cada ciclo escolar se entregarán al servidor público las indicaciones y especificaciones del vestuario y uniformes a utilizarse, correspondientes a cada sección.
+
+No está autorizado que los infantes lleven huaraches o sandalias, ni seguros o alfileres para sujetar la ropa. Únicamente podrán usar cinturón los infantes inscritos en preescolar “C”.
+
+Todos los accesorios y ropa del infante deberán estar marcados con el nombre completo del infante, utilizando etiquetas bordadas y cosidas en lugar visible. El CENDI no será responsable del extravío de prendas o bienes valiosos cuyo uso no esté autorizado en el interior del CENDI, así como de aquellos bienes sin marcar o marcados erróneamente.
+
+###### Artículo 206.
+
+El infante no podrá ingresar portando alimentos, bebidas, golosinas, juguetes o artículos no solicitados, ni accesorios de valor, tales como esclavas, medallas y anillos, entre otros, con el fin de evitar accidentes o extravíos.
+
+###### Artículo 207.
+
+Al finalizar la jornada escolar el Director del CENDI o el personal informarán al servidor público o persona autorizada para recibir al infante, los aspectos importantes ocurridos durante ésta.
+
+###### Artículo 208.
+
+Para retirar al infante del CENDI, el servidor público o persona autorizada deberá presentar la credencial que para ese fin se les haya proporcionado.
+
+No se entregará el infante a persona alguna que no presente su credencial o cuando aun presentándola, se encuentre en estado de ebriedad o bajo el influjo de alguna droga, enervante o tóxico. En este caso, se dará aviso al Supervisor y a la Dirección General de Asuntos Jurídicos para los efectos que resulten procedentes.
+
+Cuando el infante no sea recogido dentro de los diez minutos posteriores al horario establecido en el CENDI, se agotarán las instancias de localización del servidor público o personas autorizadas y, en su caso, se procederá conforme a la última parte del párrafo anterior.
+
+###### Artículo 209.
+
+El servidor público sólo podrá pasar al interior del CENDI previa autorización de Director del CENDI. Las madres de los infantes, menores de seis meses de edad, tendrán acceso a la sección de lactantes para amamantar a sus hijos, atendiendo las medidas de seguridad e higiene correspondientes.
+
+###### Artículo 210.
+
+Cuando ocurra alguna situación de contingencia; como un sismo, incendio, u otro; o bien, durante acciones de simulacro, todo trabajador que se encuentre dentro de las instalaciones del CENDI deberá seguir las indicaciones del personal autorizado por el Director del CENDI respectivo.
+
+#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
+
+SUBSECCIÓN PRIMERA
+
+DISPOSICIONES GENERALES
+
+###### Artículo 211.
+
+Los servidores públicos podrán constituir una asociación de padres de familia con el fin de contribuir a fortalecer las actividades educativas y de desarrollo integral que se realizan en el CENDI. La conformación y funcionamiento de la asociación se sujetará a lo establecido en las disposiciones aplicables.
+
+###### Artículo 212.
+
+El Director del CENDI convocará a la asamblea de constitución de la primera mesa directiva de la asociación de padres de familia. Cada ciclo escolar se renovará la mesa directiva, la cual tendrá la obligación de convocar a los padres o tutores para la renovación de sus integrantes.
+
+El Director del CENDI asistirá a las juntas y asambleas en calidad de asesor.
+
+###### Artículo 213.
+
+Las cuotas que establezca la asociación de padres de familia son voluntarias y su falta de pago no condiciona la prestación del servicio.
+
+La asociación tiene la obligación de presentar, al término de su gestión, un informe por escrito de actividades, así como un registro contable a los miembros de la asociación y al Director del CENDI.
+
+#### SECCIÓN SEGUNDA. PROCEDIMIENTOS DE CONTRATACIÓN
+
+SUBSECCIÓN PRIMERA
+
+DISPOSICIONES GENERALES
+
+###### Artículo 214.
+
+El servidor público tendrá las siguientes obligaciones:
+
+I. Entregar, al inicio de cada ciclo escolar, los artículos y materiales didácticos solicitados por el CENDI para el desarrollo de los programas educativos;
+
+II. Entregar los útiles y enseres diarios necesarios que le sean requeridos previamente para la atención del infante;
+
+III. Actualizar sus datos personales, laborales y la vigencia de sus credenciales de autorización al inicio de cada ciclo escolar o cuando le sean requeridos;
+
+IV. Abstenerse de llevar al infante al CENDI cuando presente síntomas de padecimiento transmisible o incapacitante;
+
+V. Presentar al servicio médico, cada seis meses, el resultado de los exámenes de laboratorio que se solicite practicar a los infantes;
+
+VI. Reportar la inasistencia del infante al Director del CENDI, para que éste, en caso de enfermedad, lo comunique al servicio médico para su seguimiento;
+
+VII. Recoger al infante dentro de los horarios establecidos en el CENDI o cuando sean llamados en caso de enfermedad o por cualquier otro imprevisto;
+
+VIII. Informar por escrito al Director del CENDI cuando se retire la autorización a la persona o personas facultadas para recoger al infante, así como en los casos de pérdida o extravío de las credenciales respectivas;
+
+IX. Asistir a las citas, juntas, pláticas de orientación, conferencias, entre otras, que convoque el Director del CENDI o el personal;
+
+X. Informar al Director del CENDI, por escrito, cualquier cambio de adscripción, horario, domicilio, teléfono particular, de oficina y celular, así como de su cónyuge o de las personas autorizadas para recoger a los infantes, con el fin de mantener actualizada la información en su expediente administrativo;
+
+XI. Tratar con cortesía y respeto al personal;
+
+XII. Abstenerse de dar gratificaciones al personal;
+
+XIII. Abstenerse de dar indicaciones al personal sobre cuidados especiales que desee que se proporcionen a sus infantes; así como intervenir en las actividades educativas, de alimentación y de salud, mientras los menores se encuentran en el CENDI;
+
+XIV. Informar al Director del CENDI de cualquier anomalía, queja o comentario sobre el funcionamiento del centro respectivo y formular las sugerencias que considere pertinentes;
+
+XV. Seguir las indicaciones del médico pediatra y psicólogo del CENDI, así como efectuar las pruebas clínicas y de laboratorio que éstos indiquen, en beneficio de la salud del infante;
+
+XVI. Abstenerse de presentarse a recoger al infante al CENDI bajo el influjo de bebidas embriagantes, drogas, enervantes o cualquier otra sustancia tóxica que altere su estado de conciencia, en caso contrario, la Dirección del CENDI podrá retener al menor hasta antes de la hora de cierre, lapso durante el cual el Director del CENDI agotará las instancias para localizar a otra persona autorizada para recoger al menor y, llegado el caso, procederá de conformidad con lo previsto en el artículo 208 de este Acuerdo. Independientemente de lo anterior, se aplicarán, en su caso, las sanciones previstas en el artículo 222, fracción VIII de este Acuerdo;
+
+XVII. Atender los requerimientos y acatar las medidas disciplinarias y recomendaciones que el Director del CENDI y el personal le señalen en relación al vestuario, limpieza, conducta, puntualidad, entrega de materiales y todo aquello que redunde en el bienestar del infante; y
+
+XVIII. Las demás que se señalan en este Capítulo.
+
+#### SECCIÓN TERCERA. CONTRATOS
+
+SUBSECCIÓN PRIMERA
+
+ADJUDICACIÓN DE CONTRATOS
+
+###### Artículo 215.
+
+El incumplimiento de las disposiciones previstas en este Capítulo dará lugar a la aplicación al servidor público de las medidas siguientes:
+
+I. Amonestación verbal, cuando la falta se cometa por primera ocasión;
+
+II. Amonestación por escrito, en la falta subsecuente por la misma causa;
+
+III. Suspensión temporal de la prestación de servicios; y
+
+IV. Suspensión definitiva de la prestación de servicios.
+
+###### Artículo 216.
+
+La medida consistente en suspensión temporal se deberá aplicar en los siguientes casos:
+
+I. Cuando el servidor público acumule dos amonestaciones por escrito, conforme a lo siguiente:
+
+a) En la primera ocasión, suspensión por un día hábil;
+
+b) En la segunda ocasión, suspensión por tres días hábiles;
+
+c) En la tercera ocasión, suspensión por cinco días hábiles; y
+
+d) En la cuarta y ulteriores ocasiones, suspensión por diez días hábiles.
+
+II. Cuando se actualicen los supuestos previstos en el artículo 221, fracciones I, II, IV y VI, de este Acuerdo, conforme a lo indicado en el reporte elaborado por el médico pediatra o el psicólogo del CENDI; y
+
+III. Cuando se actualicen los supuestos previstos en el artículo 221, fracciones VII y VIII, de este Acuerdo, la suspensión será de cinco días hábiles. En el caso de reincidir en el incumplimiento se impondrá una suspensión de diez días hábiles más. Si al término de la segunda sanción impuesta, el servidor público no cumple con lo solicitado, se estará a lo dispuesto en el artículo 222, fracción III, de este Acuerdo.
+
+###### Artículo 217.
+
+Las amonestaciones por escrito y los avisos de suspensión deberán especificar los motivos que los originan.
+
+El aviso de suspensión precisará la fecha en que inicia y concluye la suspensión de la prestación del servicio, medida que deberá ser notificada cuando menos un día hábil previo de la fecha del inicio de ésta, salvo el caso previsto en el artículo 168 de este Acuerdo.
+
+###### Artículo 218.
+
+La amonestación escrita y el aviso de suspensión de la prestación del servicio deberán ser firmados de recibido por el servidor público, en caso de no hacerlo, se asentará en la copia dicha circunstancia, en presencia de dos testigos, que deberán firmar dicha acta.
+
+###### Artículo 219.
+
+El Director del CENDI formulará las amonestaciones verbales y escritas, y determinará las suspensiones temporales de hasta 5 días. El Supervisor acordará las suspensiones temporales que excedan este término y el Director General de Servicios Médicos y Desarrollo Infantil las suspensiones definitivas.
+
+###### Artículo 220.
+
+Será motivo de suspensión por causas administrativas:
+
+I. Cuando el servidor público o la persona autorizada por éste, entregue o recoja al infante fuera del horario establecido en el CENDI;
+
+II. Cuando el servidor público o las personas autorizadas para recoger al infante no presenten la credencial de identificación o ésta no este actualizada;
+
+III. Cuando el servidor público presente al infante sin los artículos de uso personal solicitados;
+
+IV. Cuando el servidor público no presente los materiales y artículos para el desempeño de las actividades educativas del infante;
+
+V. Cuando el servidor público presente al infante con alimentos no autorizados, juguetes u objetos de valor;
+
+VI. Cuando el servidor público solicite al personal cuidados especiales para el infante;
+
+VII. Cuando el servidor público no atienda los requerimientos y acate las medidas disciplinarias y recomendaciones que le formulen el Director del CENDI y su personal;
+
+VIII. Cuando el servidor público no asista en más de tres ocasiones a las citas, juntas, pláticas de orientación, conferencias, entre otras, que convoque el Director o el personal del CENDI;
+
+IX. Cuando el servidor público o las personas autorizadas por éste traten con descortesía o falten al respeto al personal, a otros trabajadores o a los infantes que asisten al CENDI;
+
+X. Cuando el servidor público no informe de cambios ocurridos en su situación laboral;
+
+XI. Cuando el servidor público no informe de los cambios de domicilio y teléfono de las personas autorizadas para entregar y recoger al infante; y
+
+XII. Cuando el servidor público no cumpla con lo dispuesto en el artículo 145 de este Acuerdo.
+
+###### Artículo 221.
+
+Serán motivo de suspensión por causas de salud:
+
+I. Cuando el infante presente alguna enfermedad transmisible o crónica, o algún padecimiento físico o mental que requiera de atención especializada de acuerdo con el reporte que efectúe el médico o el psicólogo del CENDI;
+
+II. Cuando el infante tenga un hermano en el CENDI que sea suspendido conforme a las fracciones I y IV de este artículo;
+
+III. Cuando el servidor público muestre una actitud negligente y poco cooperadora durante la aplicación de un programa o tratamiento que haya sido indicado por el médico o psicólogo del CENDI para resolver algún problema que presente el infante;
+
+IV. Cuando el infante padezca alguna enfermedad de tipo parasitario;
+
+V. Cuando el infante sea presentado desaseado conforme al reporte que presente el personal encargado del filtro de salud;
+
+VI. Cuando el infante padezca dermatitis perianal, es decir, rozaduras, conforme al reporte que presente el personal encargado del filtro de salud;
+
+VII. Cuando no se haya cumplido el programa de vacunación obligatorio conforme a lo dispuesto por la Secretaría de Salud; y
+
+VIII. Cuando el servidor público no presente, oportuna y satisfactoriamente, los resultados de estudios de laboratorio, análisis clínicos e informes que le sean solicitados.
+
+###### Artículo 222.
+
+La suspensión definitiva procederá cuando:
+
+I. El servidor público deje de prestar sus servicios para el Consejo, conforme a lo establecido en el artículo 138 de este Acuerdo;
+
+II. La ausencia del infante por más de seis días consecutivos, en un período de veinte días hábiles, sin aviso o justificación alguna;
+
+III. No se atiendan cualquiera de las causas de suspensión temporal y no se controle o solucione el problema;
+
+IV. Se apliquen al servidor público, en un mismo ciclo escolar, cinco sanciones que impliquen suspensión temporal;
+
+V. Se compruebe que la documentación proporcionada por el servidor público al CENDI, para la autorización del otorgamiento de la prestación del servicio, sea falsa o haya sido alterada;
+
+VI. El servidor público altere u omita información requerida por el CENDI para la prestación del servicio;
+
+VII. El servidor público divorciado, viudo o tutor pierda la custodia o tutoría del infante;
+
+VIII. El servidor público o las personas autorizadas para recoger al infante se presenten en estado de ebriedad o bajo los efectos de algún enervante o tóxico;
+
+IX. El servidor público o las personas autorizadas para recoger al infante agredan físicamente al personal, a otros servidores públicos o a los infantes;
+
+X. Se compruebe que el servidor público otorga gratificaciones al personal;
+
+XI. Cuando progrese la discapacidad de un infante y, previa valoración del médico pediatra o el psicólogo del CENDI, se advierta la imposibilidad del menor para integrarse adecuadamente a las actividades del grupo en el que se encuentre inscrito, por requerir atención especializada;
+
+XII. Exista un trastorno emocional o de conducta que impida la integración del infante a las actividades del CENDI, y a pesar de seguir el tratamiento indicado por el médico especialista al cual haya sido canalizado, no manifieste mejora en su comportamiento, y tal circunstancia afecte el desarrollo del trabajo educativo del grupo; y
+
+XIII. Por cualquier otro motivo grave a juicio del Director del CENDI, previo acuerdo con el Supervisor y autorización del Director General de Servicios Médicos y Desarrollo Infantil.
+
+#### SECCIÓN CUARTA. ANTICIPOS
+
+###### Artículo 223.
+
+El servidor público podrá presentar solicitud de reconsideración en contra de la amonestación escrita, la suspensión temporal o definitiva y la negativa de inscripción al CENDI, mediante escrito dirigido a la Dirección General de Servicios Médicos y Desarrollo Infantil, en el que expresará sus motivos de inconformidad.
+
+El plazo para formular la solicitud de reconsideración será de cinco días hábiles siguientes a la fecha en que se tenga por recibida la amonestación escrita, la suspensión o la notificación que niegue la inscripción.
+
+###### Artículo 224.
+
+La Secretaría Ejecutiva de Administración será competente para resolver las solicitudes de reconsideración en las que se reclame una suspensión definitiva; en los demás casos será la Dirección General de Servicios Médicos y Desarrollo Infantil, la unidad administrativa competente para emitir la resolución que corresponda.
+
+La solicitud de reconsideración se substanciará de plano por la Dirección General de Servicios Médicos y Desarrollo Infantil, quien deberá emitir la resolución que corresponda dentro de los treinta días hábiles siguientes al de su recepción o, en su caso, proponer el proyecto de resolución a la Secretaría Ejecutiva de Administración.
+
+###### Artículo 225.
+
+La resolución que recaiga sobre la solicitud de reconsideración deberá ser notificada por escrito al servidor público, dentro de los tres días hábiles siguientes a su emisión.
+
+#### SECCIÓN QUINTA. AJUSTE DE PRECIOS Y COSTOS
+
+###### Artículo 226.
+
+El personal dará cumplimiento a lo siguiente:
+
+I. Desempeñar sus labores conforme a las funciones que tiene asignadas y las que el Director del CENDI determine;
+
+II. Participar, de acuerdo con sus funciones, en las actividades cívicas, culturales y recreativas que propicien un ambiente adecuado para los infantes;
+
+III. Proporcionar, sin distinción alguna, la debida atención y cuidados a todos los infantes inscritos en el CENDI;
+
+IV. Apoyar y orientar a los infantes en la realización de todas las actividades encaminadas a lograr su sano y completo desarrollo físico y mental;
+
+V. Informar a los servidores públicos sobre el comportamiento, desarrollo académico y estado de salud de los menores durante su estancia en el CENDI;
+
+VI. Informar de inmediato al servidor público cuando su hijo sufra de algún accidente o requiera asistencia médica;
+
+VII. Llevar a cabo todas las actividades que tengan como finalidad la prevención de siniestros y accidentes, para salvaguardar el bienestar de los infantes;
+
+VIII. Auxiliar, en caso de emergencia, a los infantes que se encuentren en el CENDI;
+
+IX. Mantener una estricta vigilancia en el cumplimiento de las normas de seguridad e higiene, tanto de las instalaciones del CENDI, como del personal, a fin de garantizar la seguridad de los infantes; y
+
+X. Las que señale este Capítulo y las demás disposiciones aplicables.
+
+###### Artículo 227.
+
+Corresponderá al personal de cada una de las áreas del CENDI lo siguiente:
+
+I. En el área pedagógica:
+
+a) Se dará seguimiento al comportamiento del menor durante su estancia en el CENDI, determinándose en su caso las alteraciones en su conducta, lo cual se hará del conocimiento del servidor público, para que éste lo canalice a las instituciones especializadas en la materia;
+
+b) Se seleccionarán los libros de texto que utilicen los menores en el CENDI, de acuerdo con su desarrollo y características propias de su edad; y
+
+c) Se determinará el tipo de prenda de acuerdo a la sala o sección en donde se ubique el menor, lo cual se hará del conocimiento del servidor público para su cumplimiento, lo anterior con la finalidad de facilitar las actividades asistenciales y pedagógicas.
+
+II. En el área médico preventiva:
+
+a) Promover la salud e higiene física de la población infantil;
+
+b) Vigilar el adecuado cumplimiento de las condiciones de aseo, higiene y seguridad dentro del CENDI;
+
+c) Orientar a los servidores públicos sobre el aspecto de higiene y salud física que coadyuven el mejor desarrollo de los menores;
+
+d) Identificar en el CENDI los factores de riesgo que afecten a la población infantil y al personal;
+
+e) Analizar, determinar e informar a las autoridades sanitarias y epidemiológicas cuando se confirme la presencia de un brote de enfermedad transmisible en el CENDI, ante la sospecha de uno o más casos;
+
+f) Efectuar análisis de la situación epidemiológica en el CENDI e indicar por escrito al personal, las acciones a realizar dentro y fuera del mismo; y
+
+g) Requerir la presencia del servidor público por enfermedad del menor, quien deberá presentarse en un lapso no mayor de media hora o, en su caso, deberá enviar a una de las personas autorizadas para su atención.
+
+III. En el área de nutrición:
+
+a) Se proporcionará una dieta balanceada de acuerdo con los requerimientos de su edad;
+
+b) Se proporcionarán buenos hábitos dietéticos y de urbanidad entre la población infantil;
+
+c) Se vigilará la curva de crecimiento de los menores; y
+
+d) Se orientará en materia de nutrición a los servidores públicos.
+
+IV. En materia asistencial, la dirección del CENDI debe:
+
+a) Atender a los servidores públicos que soliciten informes del servicio que presta el CENDI;
+
+b) Llevar a cabo la inscripción de los menores, verificando que esté completo el material que se solicite a los servidores públicos;
+
+c) Supervisar el bienestar social del menor durante su permanencia en el CENDI; y
+
+d) Propiciar el diálogo entre los servidores públicos y personal del CENDI.
+
+### CAPÍTULO TERCERO. INSTRUMENTOS JURÍDICOS
+
+### CAPÍTULO CUARTO. ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS
+
+###### Artículo 228.
+
+Son sujetos de este Capítulo los servidores públicos adscritos a los órganos jurisdiccionales y áreas administrativas.
+
+###### Artículo 229.
+
+Los servidores públicos tendrán derecho a que se les otorgue una licencia de paternidad con goce de sueldo, por el período de cinco días hábiles, contados a partir del día de nacimiento del infante.
+
+###### Artículo 230.
+
+Para efectos del artículo anterior, el servidor público adscrito a cualquier órgano jurisdiccional deberá presentar por escrito ante el titular de su adscripción, la petición respectiva, a la que tendrá que adjuntar el certificado médico de nacimiento del infante, expedido por un centro de salud público o privado que acredite su paternidad, a fin de que el titular expida el aviso de licencia respectivo. Además, en un plazo que no exceda de treinta días naturales, deberá presentar al área de su adscripción, el acta de nacimiento correspondiente; los documentos mencionados quedarán bajo el resguardo del órgano jurisdiccional respectivo.
+
+###### Artículo 231.
+
+Los servidores públicos adscritos a las áreas administrativas, deberán presentar la documentación señalada en el artículo anterior, a la Dirección General de Recursos Humanos o a las Administraciones Regionales y Delegaciones Administrativas, en el ámbito de su competencia, a fin de que estas verifiquen los requisitos de procedencia de la licencia de paternidad y resguarden los documentos en el expediente que en ellas obra, según sea el caso.
+
+###### Artículo 232.
+
+Los servidores públicos podrán solicitar ampliación de la licencia de paternidad a que se refiere el artículo 229 de este Acuerdo, en las siguientes circunstancias y períodos:
+
+I. En caso de enfermedad grave del infante recién nacido, así como de complicaciones graves de salud que pongan en riesgo la vida de la madre, la licencia de paternidad podrá extenderse por un período igual de cinco días hábiles continuos;
+
+II. En caso de parto múltiple, la licencia de paternidad podrá extenderse por cinco días hábiles continuos; y
+
+III. En caso de que durante los primeros quince días posteriores al parto, la madre fallezca, el servidor público podrá solicitar una licencia con goce de sueldo, por diez días hábiles adicionales al período correspondiente a su licencia de paternidad, dicha solicitud deberá realizarse por escrito ante el titular de su adscripción, a la cual adjuntará el acta de defunción correspondiente.
+
+###### Artículo 233.
+
+El servidor público, mujer u hombre, a quien se le conceda la adopción de un infante disfrutará de una licencia con goce de sueldo, en los siguientes términos:
+
+I. En caso de que el infante adoptado tenga entre dos y seis meses de edad, la licencia que se otorgue a la madre será de cuarenta días naturales;
+
+II. Cuando el infante adoptado tenga entre seis y doce meses de edad, se otorgará a la madre una licencia de veinte días naturales;
+
+III. En caso de que el infante tenga más de doce meses de edad, se extenderá una licencia de diez días hábiles a la madre;
+
+IV. En todos los casos de adopción, se extenderá una licencia de cinco días hábiles al padre; y
+
+V. Si el infante adoptado es recién nacido y su vida está en peligro, se extenderá la licencia tanto para la madre como para el padre, de conformidad con las hipótesis establecidas en el artículo anterior.
+
+###### Artículo 234.
+
+Al finalizar el período de licencia de maternidad y cuidados, otorgada en los términos de la Ley Federal de los Trabajadores al Servicio del Estado, podrá solicitarse una licencia con goce de sueldo, por concepto de cuidados maternos, cuando medien las siguientes circunstancias:
+
+I. Cuando se trate de un parto prematuro, podrá otorgarse una licencia por un período de cinco días naturales, por cada semana completa faltante para el término de la gestación;
+
+II. En caso de que al nacer, el infante presente problemas de salud que pongan en riesgo su vida y ameriten intervención quirúrgica o cuidados intensivos, la licencia se otorgará por quince días naturales adicionales; y
+
+III. Cuando se trate de parto múltiple, la licencia se otorgará por diez días naturales más.
+
+###### Artículo 235.
+
+Una vez que la madre haya tramitado su licencia de maternidad ante el ISSSTE, deberá informar este hecho por escrito al área de su adscripción, a la Dirección General de Recursos Humanos o a las Administraciones Regionales y Delegaciones Administrativas, según corresponda, con el fin de que queden registradas las fechas de dicha licencia.
+
+###### Artículo 236.
+
+Todas las madres, biológicas y adoptivas, tendrán derecho al período de lactancia, hasta que el recién nacido cumpla los seis meses de edad, en los términos de lo señalado por la Ley Federal de los Trabajadores al Servicio del Estado; es decir, dos períodos durante el día, de media hora cada uno. Las madres podrán decidir cómo aplicar su derecho de una hora de lactancia diaria, pudiendo optar por entrar una hora más tarde, salir una hora más temprano o ampliar su horario de comida. Esta decisión deberá ser informada por escrito, tanto a su superior jerárquico como al área administrativa que corresponda.
+
+###### Artículo 237.
+
+Las hipótesis de ampliación de las licencias y permisos regulados por este Capítulo, no serán acumulables en ningún caso, debiendo hacer valer solamente una de ellas en cada solicitud.
+
+###### Artículo 238.
+
+Los servidores públicos podrán solicitar licencia de paternidad solamente una vez por año.
+
+###### Artículo 239.
+
+Podrá concederse licencia con goce de sueldo en términos de este Capítulo, sin importar que implique la extensión previa o posterior del período vacacional. Sin embargo, cuando la licencia por paternidad considere días dentro del período vacacional previamente autorizado por el titular, no podrá ampliarse este último.
+
+###### Artículo 240.
+
+Las licencias que se autoricen por paternidad no serán consideradas para el cómputo a que se refiere el artículo 166 de la Ley Orgánica, y demás correlativos de otras disposiciones aplicables, para el otorgamiento de nuevas licencias.
+
+###### Artículo 241.
+
+Para acreditar los derechos previstos en este Capítulo, quien los ejerza deberá presentar las solicitudes correspondientes, así como los documentos que sustenten la petición, a las áreas administrativas competentes.
+
+Los casos no previstos en este Capítulo, serán resueltos por la Comisión de Administración, con base en la Ley del ISSSTE; el Reglamento respectivo; y demás disposiciones aplicables.
+
+# LIBRO TERCERO. RECURSOS MATERIALES
+
+## TÍTULO PRIMERO. CONTRATACIONES
+
+### CAPÍTULO PRIMERO. DESINCORPORACIÓN DE BIENES MUEBLES
+
+#### SECCIÓN SEXTA. DIVERSAS DISPOSICIONES EN MATERIA DE OBRA PÚBLICA
+
+SUBSECCIÓN PRIMERA
+
+EJECUCIÓN DE LOS TRABAJOS DE OBRA PÚBLICA
+
+###### Artículo 242.
+
+El área administradora del contrato deberá llevar a cabo la administración, control y seguimiento de los contratos.
+
+El área técnica elaborará las especificaciones técnicas que se deberán incluir en el procedimiento de contratación, evaluará la propuesta técnica de las proposiciones y deberá responder en la junta de aclaraciones, las preguntas que sobre estos aspectos realicen los licitantes.
+
+Cada una de esas áreas podrá tener distinto carácter en un mismo procedimiento de contratación; dicho carácter o caracteres serán especificados en las bases y en el contrato.
+
+Según lo haya solicitado para satisfacer las necesidades del Consejo, el área requirente será responsable, en el ámbito de su competencia, de verificar y validar que los bienes, servicios, obra pública y servicios relacionados con la misma, se entreguen, presten o realicen en la forma y plazo en que fueron contratados.
+
+Las áreas asesoras deberán asesorar a los administradores de edificios y regionales, así como a los delegados administrativos en los procedimientos de contratación que lleven a cabo y, en su caso, a los órganos administrativos.
+
+###### Artículo 243.
+
+Los contratos que celebre el Consejo en el marco de este Capítulo son de carácter administrativo, destinados a satisfacer las necesidades del Poder Judicial de la Federación, para el debido cumplimiento de las atribuciones encomendadas a dicho órgano colegiado por la Constitución y por la Ley Orgánica, y por tanto, su naturaleza se considera de interés público.
+
+Podrán celebrarse convenios de adjudicación o contratos con los entes públicos siguientes:
+
+I. Dependencias o entidades de la Administración Pública Federal, de las entidades federativas o municipales;
+
+II. Instituciones o corporaciones públicas; y
+
+III. Órganos u organismos y cualquier otro ente del Estado, nacional, federal, estatal, municipal y del Distrito Federal.
+
+La celebración será en forma directa siempre que de la investigación de mercado se desprenda que dicha adjudicación resulta ser la más conveniente para el Consejo al cumplir con los criterios y principios previstos en el artículo 134 de la Constitución; y lo autorice el Comité, quien lo informará a la Comisión.
+
+Cuando por disposiciones normativas los entes públicos a que se refiere este artículo no estén obligados a otorgar garantías, pactar penas convencionales, o cubrir otras de la misma naturaleza, se hará constar dicha circunstancia en el instrumento jurídico correspondiente, sin perjuicio de salvaguardar los intereses del Consejo.
+
+###### Artículo 244.
+
+Los procedimientos de contratación del Consejo, que se sigan a través de CompraNet, se sujetarán exclusivamente a las disposiciones de este Capítulo, sin perjuicio de observar las especificaciones técnicas para la implementación del sistema que al efecto se pacten con la Secretaría de la Función Pública.
+
+El Consejo deberá difundir en CompraNet, además de la información a que se refiere este Capítulo, los datos de los contratos y los convenios modificatorios; las adjudicaciones directas; y las resoluciones de las inconformidades que hayan causado estado.
+
+###### Artículo 245.
+
+Las adquisiciones comprenderán los actos en virtud de los cuales, por una parte el proveedor se obliga a suministrar determinado bien mueble y, por la otra, el Consejo a pagar por ello un precio determinado en dinero, mediante la formalización del contrato o pedido respectivo.
+
+En los contratos o pedidos de adquisiciones podrá incluirse la instalación de los bienes muebles por parte del proveedor en inmuebles del Consejo, siempre y cuando éstos no formen parte integral de las obras.
+
+Para la adquisición de bienes muebles remanufacturados o reconstruidos, se requerirá de la aprobación del Comité, previa justificación correspondiente, para lo cual se deberá realizar un estudio del costo beneficio considerando, en su caso, el avalúo emitido por institución de crédito o por otros terceros capacitados para ello, expedido dentro de los seis meses previos y vigente al momento de la adjudicación del contrato, para que se demuestre la conveniencia de la adquisición comparativamente con bienes nuevos. Los citados estudios y avalúos deberán integrarse al expediente de la contratación respectiva.
+
+###### Artículo 246.
+
+Los arrendamientos comprenderán los actos en virtud de los cuales, por una parte el arrendador se obliga a conceder el uso o goce temporal de un bien mueble y, por la otra, el Consejo a pagar un precio determinado en dinero.
+
+El área de adquisiciones que corresponda presentará los estudios de factibilidad al Comité, a efecto de que se puedan celebrar contratos de arrendamiento o arrendamiento financiero de bienes muebles.
+
+En el contrato podrá estipularse la opción de compra de dichos bienes.
+
+La Comisión de Administración, previo visto bueno del Comité, podrá autorizar el arrendamiento financiero cuando éste represente un ahorro en comparación con los recursos que se emplearían para pagar, en su caso, un arrendamiento simple, incluyendo los gastos y costos asociados, de conformidad con los lineamientos que al efecto se emitan.
+
+###### Artículo 247.
+
+Los servicios comprenderán los actos en virtud de los cuales el prestador de servicios se obliga a desempeñar los trabajos requeridos, previo suministro de lo necesario para su prestación y, por su parte, el Consejo se obliga a pagar un precio determinado en dinero.
+
+Dentro de los servicios materia de este Capítulo, se encuentra la prestación de servicios profesionales, así como la contratación de consultorías, asesorías, estudios e investigaciones, excepto la contratación de servicios personales bajo el régimen de honorarios.
+
+Asimismo, se comprenden los servicios de cualquier naturaleza, cuya prestación genere una obligación de pago para el Consejo, salvo los relacionados con la obra pública y aquéllos cuyo procedimiento de contratación se rija por alguna ley específica.
+
+Tratándose de servicios que incluyan el suministro de bienes, cuando el valor estimado de éstos últimos sea superior al 50% del valor total de la contratación, la operación se considerará como adquisición de bienes muebles.
+
+###### Artículo 248.
+
+La obra pública es el conjunto de actividades que se desarrollan con recursos públicos para realizar:
+
+I. La construcción, adaptación, conservación, mantenimiento, reparación, demolición, remodelación, rehabilitación, instalación, ampliación, adecuación, restauración y modificación de bienes inmuebles;
+
+II. Los servicios relacionados con la misma, tales como:
+
+a) La instalación de bienes muebles cuando estos formen parte integral de la obra;
+
+b) Los trabajos que tengan por objeto concebir, diseñar y calcular los elementos que integran un proyecto de obra pública; las investigaciones, estudios, asesorías y consultorías que se vinculen con la misma;
+
+c) La planeación y el diseño, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de ingeniería básica, estructural, de instalaciones, de infraestructura, industrial, electromecánica y de cualquier otra especialidad de la ingeniería que se requiera para integrar un proyecto ejecutivo de obra pública;
+
+d) Los estudios técnicos de mecánica de suelos, sismología, topografía, geología, aerofotogrametría, ambientales, ecológicos y de ingeniería de tránsito;
+
+e) Los estudios económicos y de planeación de preinversión, factibilidad técnico económica, ecológica o social, de evaluación, adaptación, tenencia de la tierra, financieros, de desarrollo o restitución de la eficiencia de las instalaciones;
+
+f) Los trabajos de coordinación, supervisión y control de obra; de laboratorio de análisis y control de calidad; de resistencia de materiales; de preparación de especificaciones de construcción, presupuestación o la elaboración de cualquier otro documento o trabajo para la adjudicación del contrato de obra correspondiente; y
+
+g) Todos aquellos análogos a los antes enunciados.
+
+III. Los proyectos integrales o llave en mano, que son aquellas contrataciones en las cuales el contratista se obliga desde la realización del proyecto ejecutivo de la obra, hasta su terminación total, incluyéndose, cuando se requiera, la transferencia de tecnología.
+
+###### Artículo 249.
+
+La Secretaría Ejecutiva de Administración por conducto del área correspondiente, deberá contratar los seguros necesarios para la protección de los bienes, salvo que por su naturaleza o por el tipo de riesgos a los que estén expuestos, el costo de aseguramiento represente una erogación que no guarde relación directa con el beneficio que pudiera obtenerse, en cuyo caso se requerirá la autorización del Comité.
+
+En materia de obra pública, el área de obras deberá mantener adecuada y satisfactoriamente aseguradas las obras desde su inicio, para lo cual se podrá solicitar a los contratistas la adquisición de los seguros necesarios durante el desarrollo de los trabajos o contratarlos en forma directa.
+
+Asimismo, se deberá prever en las contrataciones que realicen las áreas operativas, cuando así lo consideren conveniente, que se establezca la obligación de los proveedores o contratistas de adquirir una póliza de seguro de responsabilidad civil.
+
+###### Artículo 250.
+
+El Consejo no financiará a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios.
+
+No se considerará como operación de financiamiento el otorgamiento de anticipos, de conformidad con lo dispuesto en este Capítulo.
+
+El Comité podrá autorizar el pago por adelantado de suscripciones, seguros o de otros servicios, en los que no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice.
+
+El Consejo podrá establecer en las bases y en los contratos que al efecto celebre, el pago a través de medios electrónicos.
+
+###### Artículo 251.
+
+Los actos que celebre el Consejo en materia de contrataciones, se regirán por el artículo 134 de la Constitución, la Ley Orgánica y este Capítulo.
+
+En lo no previsto por este Capítulo y demás disposiciones que de él se deriven, serán aplicables supletoriamente el Código Civil Federal, el Código Federal de Procedimientos Civiles, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y la Ley Federal del Procedimiento Administrativo en lo conducente.
+
+Los actos, contratos y convenios que se celebren en contravención a lo dispuesto por este Capítulo y demás disposiciones aplicables, serán nulos y generarán las responsabilidades administrativas a que haya lugar.
+
+###### Artículo 252.
+
+Los servidores públicos del Consejo deberán cumplir las disposiciones establecidas por la Ley Orgánica y este Capítulo, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+La responsabilidad administrativa derivada de los actos que se realicen en contravención a lo anterior, será determinada conforme lo dispuesto en el Título Octavo de la Ley Orgánica y en las demás disposiciones aplicables, sin perjuicio de la responsabilidad civil o penal que pudiera resultar de dichos actos.
+
+###### Artículo 253.
+
+Los actos relativos a los procedimientos de adjudicación a los que se refiere este Capítulo son públicos, por lo que podrán asistir los terceros que lo consideren conveniente y los licitantes cuyas propuestas hayan sido desechadas durante el procedimiento de contratación. Lo anterior, siempre y cuando se registren previamente al acto que corresponda, se ajusten a los horarios establecidos, se identifiquen, acrediten su personería para el caso de que asistan a nombre de alguna persona moral y se abstengan de intervenir en cualquier forma en los mismos. En su caso, la Comisión de Administración o el Comité podrán girar las invitaciones que consideren convenientes a testigos sociales.
+
+###### Artículo 254.
+
+Previa opinión del Comité, la Comisión de Administración determinará los procedimientos de adjudicación en los que por su relevancia o impacto puedan participar testigos sociales, una vez que hayan sido aprobados o modificados los programas anuales de ejecución previstos en este Capítulo, de conformidad con lo siguiente:
+
+I. La Contraloría tendrá a su cargo el padrón público de testigos sociales que podrán participar en los procedimientos de adjudicación;
+
+II. Los testigos sociales participarán con voz y en su caso, podrán hacer recomendaciones, las cuales no tendrán carácter vinculante, ya que su participación es como observador;
+
+III. El testimonio deberá entregarse a la Contraloría y ser publicado en el portal del Consejo dentro de los diez días naturales siguientes a la conclusión del procedimiento correspondiente, debiéndose integrar en el expediente respectivo; y
+
+IV. Los testigos sociales serán seleccionados mediante convocatoria pública emitida por la Contraloría.
+
+###### Artículo 255.
+
+Los testigos sociales participarán de la siguiente manera:
+
+I. Participarán en los procedimientos de adjudicación;
+
+II. De ser el caso, proponer al Consejo mejoras para fortalecer la transparencia e imparcialidad en los procedimientos de adjudicación;
+
+III. Abstenerse de hacer uso de cualquier tipo de información, para efectos diversos a los previstos en este Capítulo;
+
+IV. Emitir el testimonio previsto en el artículo anterior; y
+
+V. Informar de manera inmediata a la Contraloría en el caso de detectar alguna inconsistencia dentro de un procedimiento de contratación, para que aquella determine lo que conforme a derecho corresponda.
+
+Se exceptuará la participación de los testigos sociales en los procedimientos de adjudicación que contengan información clasificada como reservada o cuando se ponga en riesgo la seguridad del Consejo.
+
+###### Artículo 256.
+
+La Contraloría acreditará como testigo social a la persona que cumpla con los siguientes requisitos:
+
+I. Ser ciudadano mexicano en ejercicio de sus derechos o extranjero cuya condición migratoria lo permita;
+
+II. Cuando se trate de una organización no gubernamental, que acredite que se encuentra constituida conforme a las disposiciones legales aplicables y que no persigue fines de lucro;
+
+III. No contar con sentencia ejecutoriada por delito doloso, con pena privativa de libertad;
+
+IV. No ser servidor público en activo en los Estados Unidos Mexicanos o en el extranjero. Asimismo, no haber sido servidor público de la Federación, del Distrito Federal, Estado o Municipio durante al menos un año previo a la fecha en que se presente su solicitud para ser acreditado;
+
+V. No haber sido sancionado como servidor público por autoridad competente;
+
+VI. Presentar currículum en el que se acrediten grados académicos y especialidad; experiencia laboral y docente; y
+
+VII. Presentar manifestación escrita bajo protesta de decir verdad, que se abstendrá de participar en procedimientos de contratación en los que puedan existir conflictos de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en los mismos tengan vinculación familiar, de negocios o académica con éste; o bien porque pudieran obtener un beneficio directo o indirecto derivado de dicho procedimiento.
+
+El padrón de testigos sociales debe difundirse en la página de Internet del Consejo y en CompraNet.
+
+###### Artículo 257.
+
+La Contraloría, para integrar el padrón de testigos sociales, emitirá convocatoria a través del portal del Consejo, con la finalidad de que los interesados acrediten los requisitos previstos en el artículo anterior, para lo cual deberán presentar la documentación siguiente:
+
+I. Solicitud por escrito, debidamente signada por el representante legal en caso de las personas morales o directamente por el interesado, en donde manifieste su interés de ser inscrito en el padrón de testigos sociales y bajo protesta de decir verdad, que cumplirá con las disposiciones de este Capítulo y demás aplicables;
+
+II. Copia certificada del acta de nacimiento o carta de naturalización y, en el caso de extranjeros, el documento migratorio emitido conforme a las disposiciones aplicables;
+
+III. Copia certificada de las escrituras públicas en las que conste el acta constitutiva de la persona moral de que se trate y, en su caso, de sus modificaciones;
+
+IV. Escrito en el que manifieste, bajo protesta de decir verdad, no ser servidor público en activo en el país o en el extranjero, y no haberlo sido durante al menos un año previo a la fecha en que se presente la solicitud;
+
+V. Constancias originales de no existencia de sanción, emitidas por el Consejo y la Secretaría de la Función Pública, en las que se señale no haber sido sancionado administrativamente como servidor público, así como escrito en el que manifieste, bajo protesta de decir verdad, que no ha sido sancionado como servidor público en otros Poderes o entes públicos de carácter federal o local, o en el extranjero;
+
+VI. Constancias que acrediten el contenido del currículum;
+
+VII. Constancias de participación en cursos de capacitación en materia de contrataciones públicas; y
+
+VIII. Escrito en el que manifieste, bajo protesta de decir verdad, que no participará en contrataciones en las que exista conflicto de intereses.
+
+Las personas físicas o morales extranjeras, deberán presentar la documentación generada en el extranjero debidamente legalizada o apostillada, por parte de la autoridad competente en el país de que se trate, misma que tendrá que presentarse redactada en español, o acompañada de la traducción correspondiente.
+
+Las personas morales presentarán, respecto de las personas físicas que en su nombre participen como testigo social, los requisitos establecidos en este artículo para personas físicas.
+
+La Contraloría evaluará el cumplimiento de los requisitos para la integración del padrón, en forma permanente.
+
+La determinación sobre el registro en el padrón de testigos sociales; así como la cancelación del mismo, deberá hacerse del conocimiento del interesado por escrito, o por medios remotos de comunicación electrónica cuando proporcione una dirección de correo electrónico, en un lapso no mayor de diez días hábiles contados a partir de la fecha de la resolución correspondiente.
+
+###### Artículo 258.
+
+En los procedimientos de adjudicación en los que se determine la intervención de testigos sociales, la Contraloría en un plazo no mayor de diez días hábiles previo al inicio del procedimiento, los invitará mediante convocatoria por escrito, para que en el término de cinco días hábiles manifiesten su interés en participar.
+
+La Contraloría someterá a la aprobación de la Comisión de Administración, previo visto bueno del Comité, a los candidatos a participar en cada procedimiento de adjudicación, a fin de que se designe al testigo social.
+
+Una vez designado el testigo social, éste será contratado por el Consejo conforme a lo dispuesto en este Capítulo y la convocatoria correspondiente.
+
+###### Artículo 259.
+
+El contrato con el testigo social será abierto y deberá contener:
+
+I. La identificación del procedimiento de contratación en el que intervendrá;
+
+II. La cantidad mínima y máxima de las horas de servicios a contratar, la cual no podrá rebasar de ciento veinte horas, salvo autorización expresa de la Comisión de Administración, previo visto bueno del Comité;
+
+III. El precio unitario por hora de servicio y el monto mínimo y máximo a cubrir por parte del Consejo;
+
+IV. Los controles de evaluación y seguimiento que llevará a cabo la Contraloría en su participación;
+
+V. Los mecanismos de participación en el procedimiento;
+
+VI. La obligación de conducirse de manera objetiva, independiente, imparcial, honesta y ética y, en su caso, guardar la debida reserva y confidencialidad;
+
+VII. La obligación de asesorar en la verificación y seguimiento de los procedimientos de adjudicación;
+
+VIII. La metodología aplicable y la obligación de emitir las observaciones procedentes, así como el testimonio final a que se refiere este Capítulo; y
+
+IX. Las demás condiciones que determine el Consejo.
+
+Cuando un procedimiento de adjudicación se declare desierto, el testigo social designado deberá participar en el procedimiento alterno que determine el Consejo, bajo las mismas condiciones de contratación o, en su caso, con las modificaciones que determine la Comisión de Administración.
+
+El área que tenga a su cargo el procedimiento de adjudicación, proporcionará las facilidades para permitir el acceso a la documentación que soliciten los testigos sociales.
+
+###### Artículo 260.
+
+La Contraloría tendrá a su cargo las atribuciones de control, inspección y verificación del cumplimiento de las disposiciones contenidas en este Capítulo, en el marco de las atribuciones que establece la Ley Orgánica y demás disposiciones aplicables.
+
+Si con motivo del ejercicio de sus atribuciones de verificación advierte irregularidades en un procedimiento de contratación pública, deberá dictar las medidas que estime pertinentes para preservar los principios del artículo 134 de la Constitución, incluyendo la solicitud de suspensión del procedimiento al Comité, quien resolverá lo conducente.
+
+SUBSECCIÓN SEGUNDA
+
+ÓRGANOS COMPETENTES
+
+###### Artículo 261.
+
+La Comisión de Administración es competente para la interpretación y aplicación de este Capítulo.
+
+No obstante lo anterior, la citada Comisión de Administración podrá remitir el asunto al conocimiento del Pleno cuando considere que, por su trascendencia, deba ser resuelto por este órgano, o bien, cuando no se haya llegado a un consenso.
+
+###### Artículo 262.
+
+Las controversias que se susciten con motivo de la interpretación y resolución de los conflictos que se deriven de los contratos celebrados con base en este Capítulo, así como del cumplimiento de las obligaciones contraídas por particulares en virtud de los mismos, serán resueltas por el Pleno de la Suprema Corte de Justicia de la Nación, conforme a lo previsto en el artículo 11, fracción XX, de la Ley Orgánica.
+
+###### Artículo 263.
+
+La Secretaría Ejecutiva de Administración, a través de las unidades administrativas correspondientes, serán los órganos competentes para autorizar la adjudicación de las contrataciones objeto de este Capítulo y para determinar lo conducente respecto de los actos relacionados con ellas, de conformidad con lo establecido en esta Subsección.
+
+La adjudicación de los contratos se sujetará a lo siguiente:
+
+I. La Comisión de Administración o el Comité autorizarán la adjudicación de los contratos, cuando por su trascendencia e impacto deba ser resuelto por esos órganos; la determinación de dicha adjudicación se sustentará en la documentación que le proporcionen las áreas competentes o por así ser solicitado por dichos órganos colegiados;
+
+II. El Secretario Ejecutivo de Administración y los titulares de las áreas administrativas, según corresponda en forma mancomunada, autorizarán la adjudicación de los contratos en los casos que a continuación se señalan:
+
+a) En los casos de excepción a la licitación pública a los que se refiere el artículo 296 de este Acuerdo;
+
+b) Cuando se lleve a cabo subasta a la inversa, ya sea como modalidad o procedimiento alterno, presencial o electrónica y concurso público sumario, en montos de contratación equivalentes a los de una licitación pública; y
+
+c) En los procedimientos de licitación pública.
+
+III. Las adjudicaciones de los contratos, cuando por el monto de la operación deba seguirse el procedimiento de adjudicación por invitación a cuando menos tres proveedores o contratistas, competerá a los directores generales de adquisiciones o de obras;
+
+IV. Los titulares de las áreas de adquisiciones, de obras o de las Administraciones Regionales, según corresponda, podrán autorizar la adjudicación en los procedimientos del concurso público sumario por monto, previa aprobación de la Secretaría Ejecutiva de Administración y de la Coordinación de Administración Regional; y
+
+V. En las adjudicaciones de los contratos, cuando por el monto de la operación deba seguirse el procedimiento de adjudicación directa, competerá a los siguientes servidores públicos:
+
+a) Los titulares de las Administraciones Regionales, en el ámbito de su competencia, tratándose de contrataciones que deban efectuarse fuera del Distrito Federal y zona conurbada;
+
+b) Los titulares de las Administraciones de Edificios, en el ámbito de su competencia, tratándose de contrataciones que deban efectuarse en el Distrito Federal y zona conurbada; y
+
+c) El director de área que corresponda, ya sea del área de adquisiciones o de obras, en el ámbito de su competencia.
+
+En los supuestos de esta fracción, deberán comunicar los titulares de las Administraciones Regionales, de las Administraciones de Edificios y los directores de área a los titulares de su área de adscripción, en el término de cinco días hábiles posteriores a la autorización de adjudicación, con un informe detallado del fallo, para los efectos procedentes.
+
+###### Artículo 264.
+
+La competencia de los servidores públicos para suscribir los contratos objeto de este Capítulo a nombre del Consejo, se determinará conforme a lo siguiente:
+
+I. En caso que el contrato se haya adjudicado mediante el procedimiento de licitación pública, concurso público sumario, invitación a cuando menos tres proveedores o contratistas, o bien, adjudicación directa pero el monto de la contratación se ubique en los parámetros que correspondan para licitación pública o invitación, aquél será signado por el Secretario Ejecutivo de Administración y por el titular del área de adquisiciones o de obras según corresponda; y
+
+II. En caso de que el contrato se haya asignado mediante el procedimiento de adjudicación directa y el monto de la operación se encuentre dentro del parámetro fijado por el Consejo para adjudicación directa, será firmado únicamente por el titular del área operativa que corresponda.
+
+Los Administradores Regionales, los Delegados Administrativos y los Administradores de Edificios podrán suscribir los contratos que correspondan conforme a los parámetros y montos autorizados por el Consejo. Dichos contratos incluyen pedidos y órdenes de trabajo o de servicio.
+
+SUBSECCIÓN TERCERA
+
+COMITÉ DE ADQUISICIONES, ARRENDAMIENTOS, OBRA PÚBLICA Y SERVICIOS
+
+###### Artículo 265.
+
+El Comité es un cuerpo multidisciplinario con carácter permanente, que tiene por objeto dictaminar, discutir, proponer y, en su caso, autorizar la adquisición de bienes y servicios, arrendamientos y obra pública que requiera el Consejo.
+
+###### Artículo 266.
+
+El Comité estará integrado en los siguientes términos:
+
+I. Presidente: El titular de la Oficialía Mayor; y
+
+II. Vocales: Los titulares de la Secretaría Ejecutiva de Administración y de la Coordinación de Administración Regional.
+
+Los citados integrantes tendrán derecho a voz y voto durante las sesiones, y no podrán ser representados en éstas.
+
+Existirá quórum para celebrar válidamente una sesión cuando se cuente con la asistencia de dos de sus integrantes y en caso de ausencia del presidente del Comité, asumirá las funciones correspondientes el titular de la Secretaría Ejecutiva de Administración.
+
+La responsabilidad de cada integrante del Comité quedará limitada al voto o comentario que emita u omita, en lo particular, respecto al asunto sometido a su consideración, con base en la documentación que le sea presentada. En este sentido, las determinaciones y opiniones de los miembros del Comité, no comprenden las acciones u omisiones que posteriormente se generen durante el desarrollo de los procedimientos de contratación o en el cumplimiento de los contratos.
+
+###### Artículo 267.
+
+Sin perjuicio de que la Comisión de Administración las ejerza de manera directa en cualquier momento, el Comité tendrá las siguientes funciones:
+
+I. Conocer, analizar y, en su caso, emitir observaciones y recomendaciones a los programas anuales de ejecución de Adquisiciones, Arrendamientos, Prestación de Servicios; y de Obra Pública, y en su oportunidad someterlos a la autorización del Pleno, previo visto bueno de la Comisión;
+
+II. Dar seguimiento a los programas anuales de ejecución de Adquisiciones, Arrendamientos, Prestación de Servicios; y de Obra Pública, y verificar que cuenten con los recursos financieros suficientes y, en su caso, emitir las recomendaciones necesarias para su cumplimiento;
+
+III. Conocer el Plan Estratégico de Tecnologías de la Información y Comunicaciones;
+
+IV. Aprobar la procedencia de no celebrar licitaciones públicas por actualizarse alguno de los supuestos de excepción previstos en el artículo 296 de este Acuerdo, lo que no implica por sí misma la aceptación de la adjudicación a persona moral o física determinada;
+
+V. Autorizar la adjudicación de contratos en casos urgentes;
+
+VI. Atender y resolver las diferentes peticiones de los órganos administrativos en materia de adquisiciones, arrendamientos, servicios y obra pública, y servicios relacionados con la misma;
+
+VII. Autorizar la modificación de los pedidos y contratos, cuando se rebasen los montos y plazos conforme a lo dispuesto en el artículo 368 de este Acuerdo, informando de inmediato a la Comisión de Administración;
+
+VIII. Declarar la nulidad de pleno derecho de los actos, procedimientos de adjudicación, convenios y contratos que se celebren en contravención a las disposiciones de este Capítulo, e informar de inmediato a la Comisión de Administración;
+
+IX. Aprobar los modelos de convocatoria, bases, contratos, pedidos, órdenes de trabajo y demás documentos relacionados, así como las modificaciones que procedan para mantenerlos debidamente actualizados;
+
+X. Informar sobre el ejercicio de sus funciones a la Comisión de Administración;
+
+XI. Proponer a la aprobación de la Comisión de Administración los manuales que contengan los criterios para asegurar que el Consejo obtenga las mejores condiciones de precio, calidad, financiamiento y oportunidad en las adquisiciones y contrataciones, además de promover los elementos para acreditar la economía, eficiencia, eficacia, imparcialidad y honradez en los procedimientos, instrumentando las medidas que permitan comparar los precios ofrecidos por los proveedores frente a los de mercado, a fin de lograr descuentos o beneficios adicionales para el Consejo;
+
+XII. Proponer a la Comisión de Administración, para su aprobación, los criterios para la evaluación de las propuestas para la adjudicación de los contratos, señalando los mecanismos de tasación que se puedan utilizar, así como las condiciones, criterios, parámetros de calificación y su correspondiente valoración en puntaje;
+
+XIII. Dictaminar respecto de la procedencia de celebración de contratos multianuales y someterlos a la autorización del Pleno, por conducto de la Comisión de Administración;
+
+XIV. Propiciar y fortalecer la comunicación entre las áreas administrativas que intervengan para la realización de las obras o la prestación de los servicios de mantenimiento e intendencia;
+
+XV. Dictaminar, dentro de los diez días hábiles siguientes a su presentación, sobre los programas y presupuestos anuales para la contratación de adquisiciones, arrendamientos, obras y servicios, con sus respectivas calendarizaciones, que para tal efecto presenten las áreas operativas; y en su caso, formular las observaciones que considere convenientes. El documento que contenga el programa será de carácter informativo y no implicará compromiso alguno de contratación; asimismo, podrá ser adicionado, modificado, suspendido o cancelado, en todo o en parte, por la Comisión de Administración, previo dictamen que al respecto emita el Comité;
+
+XVI. Realizar un informe trimestral de actividades y resultados y, en su caso, proponer las medidas que considere necesarias. El informe se dirigirá a la Comisión de Administración; y
+
+XVII. Las demás que estén previstas en este Capítulo y las que sean conferidas por el Pleno o la Comisión de Administración.
+
+###### Artículo 268.
+
+El presidente del Comité tendrá las siguientes funciones:
+
+I. Presidir las sesiones, así como emitir voto de calidad respecto de los asuntos puestos a consideración del Comité;
+
+II. Requerir a las diversas áreas administrativas, la asesoría y estudio pormenorizado de cuestiones de carácter técnico especializado, respecto de asuntos que sean competencia del Comité, y citar a sus titulares para que concurran a las sesiones con el carácter de asesores temporales o invitados;
+
+III. Representar al Comité en los asuntos de su competencia;
+
+IV. Autorizar el orden del día de las sesiones a celebrar y firmar las convocatorias;
+
+V. Vigilar el correcto funcionamiento del Comité; y
+
+VI. Las demás que le correspondan conforme a la normatividad aplicable.
+
+###### Artículo 269.
+
+Los vocales tendrán las siguientes funciones:
+
+I. Asistir a las sesiones que convoque el Comité;
+
+II. Analizar el orden del día y los documentos de los asuntos a tratar;
+
+III. Dar su opinión y emitir su voto respecto de los asuntos puestos a consideración del Comité en la sesión correspondiente;
+
+IV. Remitir al secretario técnico del Comité, antes de la sesión, los documentos de los asuntos que deseen someter a la consideración del Comité;
+
+V. Verificar que el desarrollo de las sesiones del Comité se realicen de conformidad con los lineamientos de integración y funcionamiento del Comité; y
+
+VI. Las demás que le correspondan conforme a la normatividad aplicable.
+
+###### Artículo 270.
+
+El Comité se auxiliará en lo administrativo con un secretario técnico designado por el titular de la Secretaría Ejecutiva de Administración, quien se encargará de lo siguiente:
+
+I. Remitir las convocatorias de las sesiones del Comité;
+
+II. Someter a la aprobación del presidente del Comité el proyecto del orden del día, y una vez aprobado, remitirlo a los integrantes, observadores e invitados al Comité;
+
+III. Incluir en el orden del día los asuntos para acuerdo, informativos y generales, y el seguimiento de los acuerdos de las sesiones precedentes;
+
+IV. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse;
+
+V. Suscribir los oficios en los que se den a conocer los acuerdos adoptados por el Comité;
+
+VI. Elaborar las versiones estenográficas de las actas correspondientes a las sesiones, para la aprobación del Comité e integrarlas en el expediente correspondiente;
+
+VII. Certificar las copias de las actas que se generen con motivo de las sesiones, así como los demás documentos que obren en los archivos del Comité, cuando proceda su expedición;
+
+VIII. Registrar los acuerdos del Comité y dar seguimiento para informar del estado que guardan;
+
+IX. Integrar de manera completa los documentos que analizará el Comité y mantener actualizado el archivo de los asuntos tratados por el Comité;
+
+X. Grabar el desarrollo de la sesión y enviarla a los integrantes del Comité, observadores e invitados; así como a la Contraloría para su conocimiento y resguardo;
+
+XI. Recabar la firma de las actas y asuntos aprobados por el Comité; y
+
+XII. Las demás que le encomiende el presidente del Comité o sus integrantes.
+
+###### Artículo 271.
+
+Las sesiones del Comité tendrán lugar siempre que sea necesario y se celebrarán de la siguiente manera:
+
+I. Serán ordinarias y extraordinarias, y se podrán llevar a cabo en forma presencial o virtual; es decir, las sesiones se podrán realizar mediante la comunicación de sus integrantes a través de medios electrónicos;
+
+II. El orden del día, junto con la documentación soporte, se entregará a los integrantes del Comité, a los observadores e invitados, por conducto del al secretario técnico del Comité, con dos días hábiles de anticipación para la celebración de la sesión, cuando así sea posible;
+
+III. La convocatoria, el orden del día y la documentación soporte se entregará a los integrantes del Comité, a los observadores e invitados, por conducto del secretario técnico, con tres días hábiles de anticipación a la celebración de la sesión respectiva; salvo en caso de asuntos urgentes autorizados por el presidente del Comité, que de ser posible se podrán enviar con 24 horas de anticipación;
+
+IV. Se levantará acta estenográfica, la cual será firmada por los integrantes asistentes, previa aprobación de la misma; y
+
+V. Proponer a la Comisión de Administración para su visto bueno a más tardar en la segunda sesión ordinaria del año, la propuesta de parámetros de adjudicación que regirán en los distintos procedimientos de adjudicación, los cuales se someterán a la aprobación del Pleno.
+
+###### Artículo 272.
+
+Los titulares de la Dirección General de Asuntos Jurídicos y de la Dirección General de Auditoría serán observadores permanentes del Comité y tendrán las siguientes funciones:
+
+I. Asistir a las reuniones del Comité con derecho a voz pero sin voto;
+
+II. Analizar los documentos que les sean turnados por el Comité;
+
+III. Emitir opinión respecto de los asuntos que les sean requeridos en los ámbitos de su competencia; y
+
+IV. Proponer alternativas de solución cuando les sean solicitadas.
+
+Por lo que se refiere a la Dirección General de Auditoría, esta actividad la realizará sin que su pronunciamiento limite el ejercicio de sus atribuciones normativas en materia de fiscalización.
+
+###### Artículo 273.
+
+Podrán ser invitados los servidores públicos que por razón de su competencia o por la profesión u oficio que desempeñen, puedan aportar sus conocimientos, experiencias y consejos para la resolución de los asuntos de la responsabilidad del Comité, teniendo derecho a voz pero sin voto; firmarán las actas que se levanten de las sesiones en las que intervengan, pero no así los dictámenes del Comité ni los informes dirigidos al presidente del mismo.
+
+###### Artículo 274.
+
+El contenido de la información y documentación de los asuntos sometidos a la consideración del Comité por las áreas administrativas que los presenten, será bajo la total y absoluta responsabilidad de éstas.
+
+###### Artículo 275.
+
+El Comité, a través del servidor público que designe, auxiliará en los grupos de trabajo que se formen para concretar y fortalecer la desconcentración de funciones hacia las Administraciones Regionales y Administraciones de Edificios del Consejo en materia de adquisiciones, arrendamientos, obras y servicios, coadyuvando en la creación, en su caso, de subcomités que realicen tareas semejantes, con los que establecerá la coordinación correspondiente.
+
+SUBSECCIÓN CUARTA
+
+COMITÉ INTERINSTITUCIONAL
+
+###### Artículo 276.
+
+El Consejo conformará de modo permanente el Comité Interinstitucional de Coordinación con la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, en los términos y conforme a la normativa que las tres instancias determinen.
+
+###### Artículo 277.
+
+Las compras consolidadas se refieren a las adquisiciones, arrendamientos, prestación de servicios y obra pública para cubrir, de manera conjunta, las necesidades del Consejo, la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, mediante un procedimiento de contratación tramitado por cualquiera de éstos.
+
+El Consejo podrá realizar compras consolidadas mediante un procedimiento de contratación tramitado por la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, previa autorización del Oficial Mayor, para incorporarse a dicho procedimiento y exceptuar la aplicación del artículo 288, último párrafo, de este Acuerdo.
+
+SUBSECCIÓN QUINTA
+
+PROGRAMAS ANUALES DE EJECUCIÓN
+
+###### Artículo 278.
+
+El Programa Anual de Ejecución comprende la proyección sistematizada y calendarizada de los medios indispensables o actividades complementarias, para posibilitar la ejecución eficiente de los programas institucionales contemplados en el Presupuesto de Egresos del Poder Judicial de la Federación.
+
+El Consejo anualmente autorizará en el primer mes del ejercicio fiscal correspondiente el Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, así como el Programa Anual de Ejecución de Obra Pública, con base en los recursos asignados en el Presupuesto de Egresos aprobado para el Consejo y los lineamientos establecidos en esta Subsección.
+
+El Consejo tomará las medidas necesarias para que en el mediano y largo plazo los Programas de Ejecución se conviertan en un instrumento de planeación estratégica de suministro.
+
+El Consejo pondrá a disposición del público en general, a través de CompraNet y de su página de Internet, a más tardar el 31 de enero de cada año, los Programas a que se refiere este artículo, correspondientes al ejercicio fiscal de que se trate, con excepción de aquella información que de conformidad con las disposiciones aplicables, sea de naturaleza reservada o confidencial.
+
+En caso de que el Consejo haga modificaciones a los programas, deberá actualizar la información mensualmente en CompraNet y en su página de Internet.
+
+###### Artículo 279.
+
+El Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios deberá contemplar, entre otros, los siguientes aspectos:
+
+I. Los objetivos y metas;
+
+II. Los recursos asignados en el Presupuesto de Egresos del Poder Judicial de la Federación a las contrataciones, así como su calendarización;
+
+III. Las acciones conducentes para la realización de las contrataciones;
+
+IV. Los programas sustantivos contenidos en el Presupuesto de Egresos del Poder Judicial de la Federación;
+
+V. Las asignaciones que se hayan contemplado en el Presupuesto de Egresos del Poder Judicial de la Federación, con base en el Plan Estratégico de Tecnologías de la Información y Comunicaciones para el caso de bienes y servicios informáticos;
+
+VI. Las áreas operativas responsables de la ejecución;
+
+VII. Las investigaciones, asesorías, consultorías y estudios que, en su caso, se requieran;
+
+VIII. Los requerimientos programados de conservación, mantenimiento preventivo y correctivo de los bienes muebles;
+
+IX. La existencia de bienes que figuren en los inventarios del Consejo, conforme a la información del Sistema Integral de Adquisiciones y Almacenes y los avances tecnológicos incorporados, así como la estimación del tiempo de consumo para que los requerimientos se hagan en cantidad suficiente que garantice el abasto oportuno a las áreas u órganos solicitantes; y
+
+X. Las demás para lograr un efectivo abastecimiento de bienes y servicios, que permitan la eficaz realización de las atribuciones que le corresponde ejercer al Consejo.
+
+###### Artículo 280.
+
+El Programa Anual de Ejecución de Obra Pública deberá contemplar los siguientes aspectos:
+
+I. Los estudios de preinversión programados que, en su caso, se requieran para sustentar la factibilidad técnica, económica y ecológica de los trabajos;
+
+II. Los objetivos y metas;
+
+III. Las acciones previas, durante y posteriores a la ejecución de las obras públicas, incluyendo, cuando corresponda, las obras principales, las de infraestructura, las complementarias y accesorias, así como las acciones para poner aquéllas en servicio;
+
+IV. Las necesidades programadas para la conclusión de la obra pública en proceso;
+
+V. Las características ambientales, climáticas y geográficas de la región donde deba realizarse la obra pública;
+
+VI. Los resultados previsibles;
+
+VII. La calendarización física y financiera de los recursos necesarios para la realización de estudios y proyectos, así como de la ejecución de los trabajos;
+
+VIII. Las áreas operativas responsables de su ejecución, así como las fechas previstas de iniciación y terminación de los trabajos;
+
+IX. Las investigaciones, asesorías, supervisión, consultorías y estudios que se requieran, incluyendo los proyectos arquitectónicos y de ingeniería necesarios;
+
+X. La adquisición del predio urbano que, en su caso, se haya previsto para realizar la obra requerida;
+
+XI. La regularización del régimen de propiedad o uso de los predios;
+
+XII. La ejecución, que deberá incluir el costo estimado de las obras públicas y servicios relacionados con las mismas;
+
+XIII. Los trabajos de conservación, mantenimiento preventivo y correctivo, de los bienes inmuebles a cargo del Consejo;
+
+XIV. Los permisos, autorizaciones y licencias que se requieran;
+
+XV. Toda instalación pública deberá asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas, para todas las personas; y cumplir con las normas de diseño y de señalización que se emitan, en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogas para las personas con discapacidad;
+
+XVI. Los análisis que deban realizarse previamente, en los casos de adaptación, remodelación, instalación, ampliación, adecuación, restauración, conservación, mantenimiento y modificación de inmuebles que no sean propiedad del Consejo; y
+
+XVII. Las demás previsiones que deban tomarse en cuenta, según la naturaleza, características y complejidad de la obra.
+
+###### Artículo 281.
+
+El Consejo sólo podrá convocar, adjudicar o contratar obras públicas y servicios relacionados con ellas, previa certificación de disponibilidad presupuestal o suficiencia presupuestal correspondiente; una vez adjudicado el contrato, previo a la firma del mismo, tramitará el documento de afectación presupuestal correspondiente, donde se señalará la cantidad específica motivo de la contratación.
+
+Para la realización de obras públicas se requerirá contar con los estudios y proyectos, especificaciones de construcción y el programa anual de ejecución totalmente terminados.
+
+En el caso de obras públicas que por sus características permitan proyectos integrales o llave en mano, deberán contar con un avance en su desarrollo que permita a los licitantes preparar una propuesta solvente y ejecutar los trabajos hasta su conclusión en forma ininterrumpida, en concordancia con el programa anual de ejecución convenido.
+
+Lo dispuesto en los párrafos anteriores será responsabilidad de los servidores públicos que autoricen el proyecto ejecutivo.
+
+###### Artículo 282.
+
+En las contrataciones materia de este Capítulo, cuya ejecución rebase el ejercicio presupuestal en el que se autoricen, deberán contar previamente con la autorización del Pleno y de conformidad con las disposiciones que regulan el proceso presupuestario.
+
+También se podrán convocar, adjudicar y formalizar contratos cuyo plazo de ejecución inicie en el ejercicio fiscal siguiente. Los pagos respectivos estarán sujetos a la disponibilidad presupuestaria del año en el que se prevé el inicio de la vigencia del contrato, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la falta de éstos origine responsabilidad alguna para el Consejo. No se dará trámite a este tipo de contrataciones si el área que requiere el bien, servicio u obra no acredita haber solicitado los recursos respectivos en el Proyecto de Presupuesto del año siguiente.
+
+###### Artículo 283.
+
+La Secretaría Ejecutiva de Administración coordinará a las áreas operativas para la elaboración de los programas anuales de ejecución, los cuales serán sometidos anualmente a la consideración de la Comisión de Administración para su aprobación.
+
+Una vez autorizados los programas anuales o sus modificaciones por la Comisión de Administración, el cumplimiento de éstos será responsabilidad de las áreas que de origen hayan planteado los programas o sus modificaciones, así como de las competentes para su ejecución, en el ámbito de sus atribuciones.
+
+Las áreas operativas deberán rendir cuentas del cumplimiento, avance de los programas anuales y sus modificaciones, así como de los procedimientos de adjudicación que se lleven a cabo o hayan concluido; todo lo anterior, mediante informes trimestrales que deberán rendir a la Comisión de Administración por conducto del Comité.
+
+###### Artículo 284.
+
+Podrán realizarse contrataciones no programadas, como excepción a los programas anuales aprobados del Consejo.
+
+Para ello, se requerirá solicitud por escrito a la que se deberán anexar las especificaciones detalladas de los bienes, servicios u obra pública requerida, así como la justificación que expresará los motivos que la sustenten.
+
+La solicitud deberá presentarse en las siguientes instancias:
+
+I. Tratándose de áreas administrativas y órganos jurisdiccionales del Distrito Federal y zona conurbada, en la Administración del Edificio que les corresponda; y
+
+II. Tratándose de áreas administrativas y órganos jurisdiccionales del interior de la República, en la Administración Regional o Delegación Administrativa que les corresponda.
+
+Para atender el requerimiento solicitado, las áreas operativas someterán la petición a la Secretaría Ejecutiva de Administración y exhibirán la documentación soporte para que, de considerarlo procedente, y de no encontrarse dentro de su ámbito de competencia, lo someta al Pleno para su aprobación, previa certificación de la Dirección General de Programación y Presupuesto de la disponibilidad presupuestal, conforme a lo dispuesto por las políticas y lineamientos para el ejercicio del Presupuesto de Egresos del Poder Judicial de la Federación.
+
+###### Artículo 285.
+
+Cuando se realicen obras públicas y servicios relacionados, el Consejo y los contratistas, observarán las disposiciones que en materia de desarrollo urbano, ecología, patrimonio cultural e histórico y de construcción rijan en el ámbito federal y local.
+
+El titular del área de obras, cuando sea el caso, previamente a la realización de los trabajos, deberá tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, así como la propiedad o los derechos de propiedad, incluyendo derechos de vía, sobre los cuales se ejecutarán las obras públicas. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista.
+
+###### Artículo 286.
+
+Para la formulación de los Programas de Ejecución a que se refiere este Capítulo, se deberán tomar en cuenta prioritariamente, los requerimientos necesarios para la creación de nuevos órganos jurisdiccionales, en coordinación con las áreas administrativas competentes, tomando como base la información que proporcione la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos y la Dirección General de Estadística Judicial.
+
+###### Artículo 287.
+
+El Consejo estará obligado a considerar los efectos que sobre el medio ambiente pueda causar la ejecución de las obras públicas, con sustento en la evaluación de impacto ambiental y urbano, previstos en las disposiciones aplicables.
+
+#### SECCIÓN SÉPTIMA. GARANTÍAS Y PENAS CONVENCIONALES
+
+SUBSECCIÓN PRIMERA
+
+LAS GARANTÍAS
+
+###### Artículo 288.
+
+Las adquisiciones, arrendamientos, prestación de servicios y obra pública se adjudicarán mediante licitación pública a fin de garantizar las mejores condiciones en precio, calidad, financiamiento, oportunidad y demás características pertinentes para el Consejo.
+
+Cuando no resulte idóneo celebrar licitación pública para asegurar las condiciones referidas, atendiendo a lo dispuesto en esta Subsección, se adjudicarán mediante el procedimiento de invitación a cuando menos tres proveedores o contratistas, concurso público sumario o en forma directa o, mediante subasta a la inversa.
+
+El Comité determinará la conveniencia de utilizar la modalidad de subasta a la inversa, ya sea en forma presencial o electrónica, en los demás procedimientos de adjudicación previstos en este Capítulo.
+
+En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, forma y tiempo de pago, penas convencionales, anticipos y garantías, debiendo proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos.
+
+Corresponderá al Consejo llevar a cabo los procedimientos para contratar las adquisiciones, arrendamientos, obras públicas y servicios que requiera para el cumplimiento de sus atribuciones, por lo que en ningún caso, se podrán contratar terceros para que por su cuenta y orden se realicen tales contrataciones. Así, se evitará crear fideicomisos u otorgar mandatos que puedan evadir lo previsto en este Capítulo.
+
+###### Artículo 289.
+
+Para estar en condiciones de determinar el presupuesto base y el procedimiento de adjudicación, con la previsión necesaria para no afectar los calendarios del programa de ejecución respectivos, las áreas operativas deberán llevar a cabo la investigación de mercado; por lo que durante su desarrollo se deberá:
+
+I. Verificar la existencia de oferta de bienes, arrendamiento y servicios, en la cantidad, calidad y oportunidad requeridas;
+
+II. Verificar la existencia de proveedores a nivel nacional o internacional, con posibilidad de cumplir con sus necesidades de contratación; y
+
+III. Conocer el precio prevaleciente de los bienes, arrendamientos o servicios requeridos, al momento de llevar a cabo la investigación.
+
+###### Artículo 290.
+
+La investigación de mercado a la que se refiere el artículo anterior, es la base para determinar el precio estimado de bienes y servicios, así como el procedimiento de contratación y, de acuerdo a la naturaleza de los bienes, arrendamientos y servicios permite, en su caso, lo siguiente:
+
+I. Argumentar la procedencia de agrupar varios bienes o servicios en una sola partida;
+
+II. Acreditar la aceptabilidad del precio conforme al cual se realizará la contratación de que se trate;
+
+III. Fijar en las bases de contratación los rangos de referencia de bienes o servicios;
+
+IV. Justificar la existencia de bienes alternativos o sustitutos técnicamente razonables;
+
+V. Justificar la existencia de bienes usados y reconstruidos en condiciones apropiadas de operación y mantenimiento, para lo cual se deberá acreditar que estos gastos resulten más convenientes para el Consejo que la adquisición de bienes nuevos; y
+
+VI. Justificar la conveniencia de efectuar un procedimiento de contratación internacional abierto, cuando se acredite fehacientemente que en el territorio nacional no existe proveedor o prestador de servicios que esté en aptitud de atender el requerimiento del Consejo, en lo que respecta a cantidad, calidad y oportunidad, o que el precio no es aceptable.
+
+###### Artículo 291.
+
+La investigación de mercado se efectuará considerando las condiciones en cuanto a los plazos y lugar de entrega de los bienes y prestación de servicios; la moneda a cotizar, forma y términos de pago; características técnicas de los bienes o servicios; y las demás circunstancias que resulten aplicables y que permitan la comparación objetiva entre los mismos en iguales condiciones o de la misma naturaleza y se realizará empleando, por lo menos, dos de los medios siguientes:
+
+I. Información disponible en CompraNet;
+
+II. Respuesta a la solicitud escrita o electrónica dirigida a los proveedores y prestadores de servicios;
+
+III. Información obtenida de organismos especializados de carácter público, social o privado; agrupaciones, asociaciones, cámaras, colegios, o sociedades, industriales, comerciales, de servicios, profesionales, científicas y académicas; y fabricantes, proveedores de bienes o prestadores de servicios;
+
+IV. Información disponible en internet; y
+
+V. Histórico de procedimientos de adjudicación realizados con anterioridad, considerando como máximo los dos ejercicios anteriores, con la correspondiente actualización al Índice Nacional de Precios al Consumidor.
+
+En todos los supuestos se deberá dejar constancia en el expediente de las solicitudes y respuestas, así como de la información utilizada, que deberá precisar su fuente con exactitud.
+
+###### Artículo 292.
+
+La investigación de mercado no podrá tener una antigüedad mayor a un año contado a partir del momento de su formulación y hasta el acto de recepción y apertura de las ofertas del procedimiento de adjudicación. Para la realización de dicho acto y con base en esa vigencia, el área operativa deberá tomar en cuenta la naturaleza de los bienes, arrendamientos y servicios a adjudicar. La investigación de mercado que se utiliza como base para la convocatoria de éstos, deberá tomar en consideración la correspondiente actualización al Índice Nacional de Precios al Consumidor.
+
+La elaboración de la investigación de mercado es responsabilidad del área requirente y del área contratante, la investigación y su resultado deberán documentarse e integrarse al expediente de contratación correspondiente.
+
+El área requirente deberá proporcionar al área contratante, toda la documentación relativa a las investigaciones que haya realizado, atendiendo a los criterios de transparencia, coordinación y simplificación administrativa.
+
+###### Artículo 293.
+
+Previo al procedimiento de adjudicación y conforme a los criterios que tenga autorizados, el área de obras determinará el tipo de contrato de entre los señalados en el artículo 363 de este Acuerdo, de modo que resulte aplicable el más adecuado para la ejecución de los trabajos de la obra pública. Asimismo, dicha área realizará la investigación de mercado necesaria para determinar el presupuesto base a que se refiere el artículo 310 de este mismo instrumento.
+
+La verificación de la existencia y costo de materiales, mano de obra, maquinaria y equipo, así como de contratistas, a nivel nacional o internacional, y del precio total estimado de los trabajos, se hará tomando en consideración la obra pública que se pretende llevar a cabo. Para tal efecto, la investigación de mercado deberá basarse en la información que se obtenga de cuando menos dos de las fuentes siguientes:
+
+I. En CompraNet;
+
+II. De agrupaciones, asociaciones, cámaras, colegios, entidades, instituciones y organismos especializados en el ramo de la construcción y de servicios relacionados con la misma, de carácter público, social, industrial, comercial, científico y académico;
+
+III. De internet;
+
+IV. La generada por cualquier medio especializado en el ramo de la construcción y servicios relacionados con la misma; y
+
+V. Histórico de procedimientos de adjudicación realizados con anterioridad considerando como máximo los dos ejercicios anteriores, con la correspondiente actualización al Índice Nacional de Precios al Consumidor.
+
+En todos los supuestos se deberá dejar constancia en el expediente de la información utilizada, la que deberá precisar su fuente con exactitud, a fin de que pueda ser verificada.
+
+La investigación de mercado en materia de obra pública no podrá tener una antigüedad mayor a un año contado a partir del momento de su formulación y hasta el inicio del procedimiento de adjudicación. Para la realización de dicho acto y con base en esa vigencia, el área de obras deberá tomar en cuenta la naturaleza de la obra pública a realizar. La investigación de mercado que se utiliza como base para la convocatoria de ésta, deberá tomar en consideración la correspondiente actualización al Índice Nacional de Precios al Consumidor.
+
+###### Artículo 294.
+
+Para la determinación del procedimiento de adjudicación a que se refiere el artículo anterior, se atenderá al monto de la operación, sin incluir el impuesto al valor agregado, conforme a los parámetros que emita el Pleno, los que serán determinados anualmente a propuesta del Comité en el primer mes del ejercicio de que se trate, de acuerdo con el volumen de presupuesto que se haya destinado para las contrataciones materia de este Capítulo en el Presupuesto de Egresos del Poder Judicial de la Federación, o bien, conforme al procedimiento que para tal efecto determine el propio Comité.
+
+Las operaciones que se realicen de conformidad con este artículo, no deberán fraccionarse con el objeto de quedar comprendidas en un procedimiento diverso de contratación.
+
+Para efectos de este artículo, se considerará que existe fraccionamiento de las operaciones, cuando las contrataciones involucradas se realicen en un mismo ejercicio fiscal y presenten algunas de las siguientes circunstancias:
+
+I. Adquirir un bien, obra o servicio determinado en distintos momentos y que la suma de sus importes supere el monto máximo indicado para cada procedimiento;
+
+II. Los trabajos objeto de las contrataciones se refieran a la misma obra o proyecto. Lo anterior, no resultará aplicable en los casos en que el área responsable de la contratación, haya acreditado la necesidad de contratar por especialidad ante la instancia competente;
+
+III. El área responsable de la contratación o el área requirente pudieron prever las contrataciones con el mismo objeto, de bienes, servicios, obras públicas y servicios relacionados con las mismas, en un solo procedimiento, sin que se haya realizado de esta forma; y
+
+IV. Las solicitudes de contratación señaladas se hayan hecho por la misma área requirente y el área responsable de la contratación sea la misma, o bien, el área requirente sea la misma y el área responsable de la contratación sea diferente.
+
+###### Artículo 295.
+
+En la tramitación de los procedimientos de contratación serán competentes las siguientes instancias:
+
+I. El área de adquisiciones, tratándose de contrataciones de adquisiciones, arrendamientos y servicios;
+
+II. El área de obras, tratándose de contrataciones de obra pública y servicios relacionados con la misma; y
+
+III. Las Administraciones Regionales y las Administraciones de Edificios, tratándose de procedimientos que les corresponda adjudicar.
+
+Tanto en materia de adquisiciones, arrendamientos y servicios, como en materia de obra pública y los servicios relacionados con la misma, las Administraciones Regionales y Administraciones de Edificios podrán coordinarse con el área de adquisiciones y el área de obras, a fin de que se les otorguen en sus respectivas competencias, el apoyo normativo y técnico necesario.
+
+###### Artículo 296.
+
+Las contrataciones materia de este Capítulo, que por su monto deban sujetarse a una licitación pública, podrán instaurarse por un procedimiento distinto a éste, de conformidad con lo dispuesto en el artículo 134 de la Constitución, en los siguientes supuestos:
+
+I. Adquisición de mobiliario y equipo de oficina que se obtiene con proveedores idóneos, para lograr la homogeneidad, dichos proveedores se calificarán por el Comité en la forma y plazo que éste determine, a partir de una revisión comparativa de precios, calidad, oportunidad y relación comercial;
+
+II. Adquisición de bienes de marca determinada, que por sus características técnicas o grado de especialización, resulte conveniente adquirir directamente con el fabricante o distribuidor autorizado, para lo cual deberá obtenerse un dictamen del área correspondiente;
+
+III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes debidamente justificados;
+
+IV. Adquisición de equipos de cómputo y de telecomunicaciones, que por razones de conectividad, compatibilidad, idoneidad de tecnología u otras, se requiera de marca determinada, previa solicitud y justificación de la Dirección General de Tecnologías de la Información;
+
+V. Tratándose de bienes, servicios o trabajos que por sus características especiales solamente puedan adjudicarse a determinada persona, como es el caso de las obras artísticas, titularidad de patentes, derechos de autor u otros derechos exclusivos;
+
+VI. Servicios de pensión o estacionamiento de automóviles, ya que en la contratación de éstos, los aspectos fundamentales a considerar son las condiciones del lugar y su proximidad a los inmuebles donde se encuentren instalaciones del Consejo que no cuenten con la suficiente capacidad para esos fines;
+
+VII. Servicios que por razones de seguridad o confidencialidad para el Consejo, se requiera contratar con alguna persona, intitución (sic) pública o empresa privada;
+
+VIII. Asuntos urgentes derivados de caso fortuito o fuerza mayor, siempre que no sea posible llevar a cabo los procedimientos de licitación pública o los que correspondan, de conformidad con el monto de la operación, en el tiempo requerido para atender la eventualidad independientemente del costo estimado. Dicha contratación será aprobada en sesión extraordinaria y deberá limitarse a lo estrictamente necesario para afrontar la eventualidad.
+
+De manera excepcional y cuando por las condiciones se tuviese que atender una contingencia, el Oficial Mayor podrá autorizar la contratación y presentará el informe al Comité con la justificación correspondiente;
+
+IX. Servicios profesionales prestados por una persona física, siempre que sean realizados por ella misma sin requerir de la utilización de más de un especialista o técnico;
+
+X. Adquisición de bienes y servicios, así como contratación de obra pública y servicios relacionados con la misma, por circunstancias específicas que hayan generado un rezago considerable en la instalación o reubicación de áreas administrativas u órganos jurisdiccionales debidamente autorizados, o bien, se presenten situaciones extraordinarias que impliquen su instalación o reubicación inmediata;
+
+XI. Contratación de proyectos relacionados con obra pública que se requieran para la readaptación o remodelación de algún inmueble del Consejo, cuando resulte conveniente contratar con el profesionista que haya realizado el proyecto de construcción original;
+
+XII. Trabajos extraordinarios no considerados en los alcances de los contratos de obra pública a precio alzado;
+
+XIII. Servicios de hospedaje y transportación nacional e internacional que se requieran para el desempeño de comisiones o eventos oficiales, conforme a la normativa aplicable;
+
+XIV. Material bibliohemerográfico;
+
+XV. Contrataciones de prestadores de servicios para la impartición de cursos y talleres socioculturales, de servicios de alimentos, de alquiler de recintos para la realización de eventos culturales, de servicios integrales de turismo, de visitas guiadas a centros culturales y de servicios de transporte requeridos, cuando las áreas que hayan solicitado su programación justifiquen plenamente la necesidad de no realizar el procedimiento que correspondería de conformidad con el monto de la contratación;
+
+XVI. Insumos para alimentos de comedores;
+
+XVII. Se trate de servicios de consultorías, asesorías, estudios o investigaciones, debiéndose aplicar el procedimiento de invitación a cuando menos tres personas, entre las que se incluirán instituciones públicas y privadas de educación superior y centros públicos de investigación.
+
+Sólo podrá autorizarse la contratación directa de los servicios a los que se refiere esta fracción, cuando la información que se tenga que proporcionar a los licitantes para la elaboración de su proposición, se encuentre reservada en los términos de la normatividad aplicable; y
+
+XVIII. Servicios específicos de información, bases de datos, ponencias, asesoría, investigación, estudios, dictámenes y otros que sean necesarios para las funciones inherentes de la presidencia del Consejo.
+
+Las contrataciones a que se refiere este artículo, preferentemente se realizarán mediante el procedimiento de invitación a cuando menos tres proveedores o contratistas, salvo que ello no fuere posible o no resultare conveniente.
+
+Cuando de la investigación de mercado se determine la conveniencia de continuar con los prestadores de servicios y siempre que se mantengan los mismos precios o que el incremento pretendido guarde relación con el Índice Nacional de Precios al Consumidor, se les podrá recontratar hasta por dos ocasiones consecutivas sin procedimiento de adjudicación.
+
+Para los efectos de este artículo, deberá obtenerse previamente la autorización del Comité, para lo cual el área que corresponda deberá justificar la necesidad de celebrar la contratación mediante el procedimiento alterno de que se trate.
+
+###### Artículo 297.
+
+Previo al inicio de los procedimientos de adjudicación se deberá contar con saldo disponible en la partida presupuestal correspondiente, el que emitirá la Dirección General de Programación y Presupuesto, para ello adoptará los mecanismos necesarios a fin de que las áreas operativas cuenten con la información respectiva de manera ágil y expedita. El ejercicio del gasto deberá ser justificado conforme a las disposiciones aplicables en la materia.
+
+###### Artículo 298.
+
+Tratándose de los supuestos previstos en el artículo 296, fracción XVIII de este Acuerdo, las áreas operativas deberán verificar de modo previo si en sus archivos existen estudios o proyectos semejantes realizados con anterioridad sobre la materia de que se trate, los cuales deberán ser tomados en cuenta en lo aplicable, en cuyo caso sólo se podrá autorizar la contratación de los trabajos necesarios para su adecuación, actualización o complemento, debiendo acompañar el dictamen de que no se cuenta con personal capacitado disponible para su realización.
+
+En todo caso deberá justificarse la necesidad de la contratación.
+
+###### Artículo 299.
+
+El Consejo se abstendrá de solicitar, invitar, inscribir y recibir propuestas o celebrar contratos en la materia, con las personas que se encuentren en alguno de los siguientes supuestos:
+
+I. Las que se encuentren inhabilitadas por cualquiera de las autoridades competentes de la Administración Pública Federal, atendiendo al plazo que se hubiere determinado en la resolución respectiva;
+
+II. Aquéllas con las que los servidores públicos que intervengan en cualquier forma en la adjudicación del contrato tengan interés personal, familiar o de negocios, incluyendo los que puedan obtener algún beneficio para ellos, sus cónyuges, parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, para socios o sociedades, incluyendo sus representantes legales, respecto de los cuales el servidor público o las personas antes referidas formen o hayan formado parte o las hayan representado durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate;
+
+III. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del Pleno; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+
+IV. Respecto de aquellas sobre las cuales la Comisión de Administración haya formulado declaración de impedimento para contratar, por actualizarse alguno de los siguientes supuestos:
+
+a) Cuando a juicio del Comité se advierta que para efectos de presentar la propuesta acordaron con otro u otros fijar los precios de los bienes o servicios, y tratándose de la obra pública o servicios relacionados con ésta, acordaron con otro u otros fijar el precio alzado o unitario, el costo de los materiales, salarios o demás conceptos objeto de la licitación;
+
+b) Si proporcionaron información falsa para participar en un concurso;
+
+c) Los licitantes que injustificadamente y por causas imputables a ellos no formalicen el contrato adjudicado;
+
+d) Los proveedores o contratistas que no cumplan con sus obligaciones contractuales por causas imputables a ellos y que, como consecuencia, causen daños o perjuicios al Consejo;
+
+e) Los proveedores o contratistas que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una inconformidad;
+
+f) Los proveedores o contratistas que contraten servicios de asesoría, consultoría y apoyo de cualquier tipo de personas en materia de contrataciones gubernamentales, si se comprueba que todo o parte de las contraprestaciones pagadas al prestador del servicio, a su vez, son recibidas por servidores públicos por sí o por interpósita persona, con independencia de que quienes las reciban tengan o no relación con la contratación;
+
+g) Los proveedores o contratistas que se encuentren en situación de retraso en las entregas de los bienes, en la prestación de los servicios o en el avance de obra, por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con el Consejo, siempre y cuando éstos últimos, por tal motivo, hayan resultado gravemente perjudicados, lo que calificará la instancia competente;
+
+h) Las que hayan utilizado información privilegiada proporcionada indebidamente por servidores públicos o sus familiares por parentesco consanguíneo y por afinidad hasta el cuarto grado;
+
+i) Las que hayan celebrado contratos en contravención con lo dispuesto en este Capítulo y demás disposiciones aplicables; y
+
+j) Se haya rescindido contrato celebrado con la Suprema Corte de Justicia de la Nación, el Tribunal Electoral del Poder Judicial de la Federación o el propio Consejo, por causa imputable al proveedor o contratista y dicha rescisión esté firme con independencia de que se hayan causado o no daños y perjuicios.
+
+El plazo de impedimento para contratar, no será menor de tres meses ni mayor de cinco años, y comenzará a contarse a partir del día siguiente a la fecha en que el Consejo la haga pública en el Diario Oficial de la Federación y en CompraNet;
+
+V. Las que pretendan participar en un procedimiento adjudicatorio y previamente hayan realizado o se encuentren realizando, por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, trabajos de dirección, coordinación, supervisión o control, laboratorio de análisis y control de calidad, laboratorio de mecánica de suelos y resistencia de materiales y radiografías industriales, preparación de especificaciones de construcción, presupuesto o elaboración de cualquier otro documento, así como asesorías, para la licitación de la adjudicación del contrato de la misma adquisición, arrendamiento, servicio u obra pública;
+
+VI. Aquéllas a las que se les declare en concurso mercantil conforme a la ley de la materia o, en su caso, sujetas a concurso de acreedores o alguna figura análoga;
+
+VII. Aquellas que presenten propuestas en una misma partida de un bien o servicio, un procedimiento de contratación que se encuentren vinculadas entre sí por algún representante, socio o asociado común;
+
+VIII. Las que por sí o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y el Consejo; y
+
+IX. Las demás que por cualquier causa se encuentren impedidas para ello de conformidad con las disposiciones aplicables.
+
+###### Artículo 300.
+
+Las declaratorias de impedimento que emita la Comisión de Administración en los supuestos a los que se refiere la fracción IV del artículo anterior, se sujetarán a lo siguiente:
+
+I. Las áreas operativas o la Contraloría, tan pronto conozcan que algún proveedor haya incurrido o tengan elementos suficientes para presumir que puedan incurrir en alguno de los supuestos previstos en la fracción IV del artículo anterior, deberán dar aviso por escrito a la Dirección General de Asuntos Jurídicos de tal situación, dentro de los tres días siguientes a que tengan conocimiento remitiéndole al efecto un informe pormenorizado sobre los hechos que constituyan la causal de impedimento, acompañado de la documentación y los elementos que así lo ameriten;
+
+II. Una vez recibida la información y las pruebas pertinentes, Dirección General de Asuntos Jurídicos iniciará la integración y análisis de los elementos remitidos para determinar si se acredita la causal de impedimento imputada, haciendo del conocimiento del contratista o proveedor el inicio del procedimiento, los términos de éste, las causas que lo motivan y sus consecuencias, concediéndose un plazo de cinco días hábiles para que manifieste, bajo protesta de decir verdad, por sí o por medio de su representante legal lo que a su derecho convenga, respecto de los actos que se le imputan y ofrezca las pruebas que considere procedentes;
+
+III. Una vez transcurrido el término a que se refiere la fracción anterior, con o sin la manifestación del contratista o proveedor imputado, la Dirección General de Asuntos Jurídicos procederá a elaborar una opinión, debidamente fundada y motivada, dentro de los cinco días hábiles siguientes, sobre los hechos contenidos en el informe respectivo y, en su caso, los argumentos y pruebas del proveedor y la hará del conocimiento de la Comisión de Administración para que ésta resuelva lo conducente;
+
+IV. Para graduar la declaratoria correspondiente se considerarán: los daños o perjuicios que se hubieren producido al Consejo, el carácter intencional o no de la acción u omisión en que incurrió el licitante, contratista o proveedor; la gravedad de la causa; y las condiciones de éstos;
+
+V. Las declaraciones de impedimento se notificarán por conducto de la Dirección General de Asuntos Jurídicos al proveedor o contratista, así como a los titulares de la Contraloría y de las áreas operativas, para su conocimiento; y
+
+VI. Las áreas operativas deberán inscribir la declaratoria respectiva en el expediente del contratista o proveedor, según corresponda, así como difundirla por los medios que estimen idóneos a las áreas administrativas vinculadas a los procesos adjudicatorios del Poder Judicial de la Federación, a fin de que se abstengan de solicitar y recibir propuestas o celebrar contratos con éstos durante el plazo que se determine.
+
+Para tal efecto el Consejo llevará, en forma coordinada con la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, un padrón de dicho Poder de proveedores y contratistas que hayan incurrido en alguna causa de impedimento, donde se señale el nombre de la persona física o moral, los periodos y la causa, así como los datos que se consideren relevantes, el que se mantendrá actualizado por los medios de comunicación o de difusión electrónica que se consideren necesarios.
+
+###### Artículo 301.
+
+Las áreas administrativas y los órganos jurisdiccionales requerirán a las áreas operativas la contratación de las adquisiciones, arrendamientos, prestación de servicios y de obra pública según sus necesidades, mediante los mecanismos que para ello establezca la Secretaría Ejecutiva de Administración en los manuales respectivos.
+
+###### Artículo 302.
+
+La Dirección General de Asuntos Jurídicos elaborará dictamen legal para lo cual el licitante deberá proporcionar lo siguiente:
+
+I. Nombre de la persona física o razón o denominación social de la persona moral, así como el de su apoderado o representante legal;
+
+II. Cédula de identificación fiscal o constancia de registro fiscal y domicilio fiscal;
+
+III. Objeto social, escritura constitutiva y datos de inscripción de la persona moral, así como sus modificaciones; y nombre, razón o denominación social de socios y accionistas;
+
+IV. Identificación oficial vigente de la persona física licitante y, en su caso, de su apoderado o representante legal; y
+
+V. Instrumento en el que constan las facultades del apoderado o representante, así como su identificación oficial vigente.
+
+Una vez notificado del fallo, el o los adjudicados deberán presentar al área operativa los documentos a que se refiere este artículo en original y copia para su cotejo.
+
+Los documentos debidamente cotejados serán remitidos a la Dirección General de Asuntos Jurídicos para la elaboración del dictamen correspondiente, dentro de los tres días posteriores a la recepción de la totalidad de los mismos.
+
+Tratándose de licitantes extranjeros, dichos documentos deberán estar debidamente legalizados o apostillados, y tendrán que presentarse redactados en español, o acompañados de la traducción correspondiente.
+
+En caso de que el dictamen legal no sea favorable, previo a la firma del contrato, el Consejo iniciará en contra del adjudicado el procedimiento de impedimento al que se refiere el artículo 300 de este Acuerdo, independientemente de proceder a adjudicar conforme a lo establecido en el artículo 329 del mismo.
+
+###### Artículo 303.
+
+La Dirección General de Programación y Presupuesto realizará el dictamen financiero con base en este Capítulo y los criterios que determine el Comité, los cuales deberán precisar, entre otros aspectos, los documentos específicos que se deben solicitar y los plazos a observar para la emisión del dictamen.
+
+La documentación financiera deberá presentarse por los participantes en el procedimiento de adjudicación de que se trate, en el mismo acto de apertura de las propuestas; la que estará sujeta a un análisis de sus estados de liquidez, solvencia y capital contable, a fin de acreditar, a satisfacción del Consejo, su capacidad financiera.
+
+###### Artículo 304.
+
+En el dictamen resolutivo técnico realizado por las áreas operativas se determinará el cumplimiento por parte de cada una de las propuestas presentadas de las condiciones y requerimientos técnicos señalados en las bases o en las convocatorias respectivas, conforme a las disposiciones generales aprobadas para tal efecto por el Consejo, para lo cual realizarán el estudio y análisis pormenorizado de las propuestas técnicas y, en su caso, de las pruebas de rendimiento de las muestras presentadas por los proveedores, prestadores de servicios o contratistas y verificarán que cumplan con las normas oficiales mexicanas y con las normas internacionales de calidad, previamente indicadas en las referidas bases o convocatorias.
+
+Para el caso de la obra pública, la opinión será, además, sobre la experiencia y capacidad de las empresas y sobre las características de los materiales requeridos por las normas de calidad y especificaciones generales y particulares de construcción, conforme a lo establecido en las bases o convocatorias respectivas.
+
+La evaluación que se realice podrá contener los aspectos siguientes:
+
+I. El material, modelo y diseño del producto que los licitantes están ofertando deberá ser real y no similar;
+
+II. El Consejo conforme a lo señalado en las bases podrá realizar cualquier tipo de prueba destructiva para verificar la veracidad y calidad de los materiales asentados en las bases de la licitación, así como pruebas de laboratorio, si así se considera y evalúa necesario;
+
+III. Las muestras físicas se someterán a las pruebas que considere necesario el área operativa o el usuario final, conforme a las siguientes especificaciones:
+
+a) Confortabilidad. Tienen el objetivo de identificar la ergonomía y acojinamiento de las muestras;
+
+b) Calibres. Todos los calibres establecidos en las bases de licitación serán verificados en las muestras presentas por los licitantes mediante un calibrador;
+
+c) Calidad visual de los materiales. Tienen el objetivo de identificar la calidad del material;
+
+d) Eficiencia en mecanismo de operación. Se analizará que los mecanismos con los que opera, sean de la calidad y simplicidad adecuada; y
+
+e) Dimensionamiento. Se verificarán todas las medidas que hayan sido establecidas en las bases de la licitación, con el objetivo de verificar si las muestras cumplen con este rubro debiendo evaluar, en su caso, las variaciones dentro de un parámetro razonable.
+
+IV. Que las empresas participantes cuenten con la maquinaria y equipo de construcción necesario, adecuado y suficiente, sea o no propio, para desarrollar los trabajos respectivos;
+
+V. Que la planeación integral propuesta por la empresa a evaluar, sea congruente con las características, complejidad y magnitud de los trabajos a desarrollar;
+
+VI. Tratándose de contratos sobre la base de precios unitarios o por tiempo determinado, en la propuesta técnica, además se deberá evaluar:
+
+a) Que el programa de ejecución corresponda al plazo de ejecución establecido por el Consejo;
+
+b) Que los programas específicos de suministros y utilización, calendarizados y cuantificados, sean congruentes con el programa de ejecución general de los trabajos;
+
+c) Que los programas de suministro y utilización de materiales, de mano de obra y maquinaria y equipo de construcción, sean congruentes con los consumos y rendimientos en el procedimiento constructivo a ejecutar;
+
+d) Que los insumos propuestos correspondan a los programas presentados;
+
+e) Que en el consumo del material por unidad de medida para el concepto de trabajo, se consideren los desperdicios, mermas y, en su caso, los usos de acuerdo con la vida útil del material de que se trate;
+
+f) Que las características, especificaciones y calidad de los materiales y equipos de instalación permanente, logren los requerimientos establecidos por el Consejo en las normas de calidad y especificaciones generales y particulares de construcción;
+
+g) Que el personal administrativo, técnico y de obra sea el adecuado y suficiente para ejecutar los trabajos; y
+
+h) Que los rendimientos en la mano de obra, se encuentren dentro de los márgenes razonables y aceptables de conformidad con el procedimiento constructivo, considerando rendimientos observados de experiencias anteriores.
+
+VII. Tratándose de propuestas técnicas a precio alzado, además se deberá verificar:
+
+a) Que los suministros y utilización de los insumos sean acordes con el proceso constructivo, para su correcto aprovechamiento y uso; y
+
+b) Que las características, especificaciones y calidad de los materiales y equipos de instalación permanente, cumplan con los requerimientos de las bases para realizar los trabajos correspondientes.
+
+En todo caso, en las bases se deberán especificar los aspectos que se tomarán en consideración en la evaluación técnica, pudiendo reducirse o ser distintos a los previstos en este artículo, con el fin de atender las particularidades específicas de la contratación.
+
+###### Artículo 305.
+
+En el dictamen resolutivo económico realizado por el área operativa, con base en el estudio pormenorizado de las propuestas económicas presentadas, deberán contenerse los siguientes aspectos:
+
+I. Cuadro comparativo de precios ofertados;
+
+II. Pronunciamiento sobre si los proveedores cumplen los requisitos solicitados para la contratación relativos a plazo de entrega, forma de pago y descripción de garantías de los bienes o servicios;
+
+III. Análisis comparativo de precios ofertado contra el presupuesto base;
+
+IV. En el caso de obra pública sobre la base de precios unitarios y tiempo determinado, lo mínimo que se deberá evaluar será:
+
+a) Que en todos los conceptos que integran la propuesta, se establezca el precio unitario, revisando que las operaciones aritméticas se hayan ejecutado correctamente; en el supuesto de que una o más contengan errores se efectuarán las correcciones correspondientes por el interesado, siendo así, que el monto correcto será el que se considere para el análisis comparativo de las proposiciones;
+
+b) Que el análisis, cálculo e integración de los precios unitarios, estén estructurados con costo directo, indirecto, financiamiento y utilidad;
+
+c) Que los costos directos se integren con los correspondientes a materiales, equipos de instalación permanente, mano de obra, maquinaria y equipo de construcción;
+
+d) Que los precios básicos de adquisición de los materiales, se encuentren dentro de los parámetros de precios vigentes de mercado;
+
+e) Que los costos básicos de mano de obra, se encuentren dentro de los parámetros de precios vigentes de mercado;
+
+f) Que los costos horarios por la utilización de maquinaria y equipo de construcción, se determinen por hora efectiva de trabajo;
+
+g) Que los análisis de costos directos, indirectos, financiamiento y utilidad se hayan estructurado conforme se señaló en las bases correspondientes;
+
+h) Que el importe total de la propuesta sea congruente con todos los documentos que la integran; e
+
+i) Que el programa de erogaciones de los trabajos sea congruente con el programa de ejecución.
+
+V. Tratándose de obra pública a precio alzado, además se deberá verificar:
+
+a) Que en todas y cada una de las actividades, se establezca su importe; y
+
+b) Que el importe total de la propuesta sea congruente con todos los documentos que la integran.
+
+###### Artículo 306.
+
+No serán objeto de evaluación las condiciones que tengan como propósito facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación; así como cualquier otro requisito cuyo incumplimiento, por sí mismo, no afecte la solvencia de las propuestas.
+
+La inobservancia por parte de los concursantes respecto de dichas condiciones o requisitos no será motivo para desechar sus propuestas.
+
+Quedan comprendidos entre los requisitos cuyo incumplimiento, por sí mismos, no afecten la solvencia de la propuesta, el proponer un plazo de entrega menor al solicitado, tratándose de adquisiciones y prestación de servicios, en cuyo caso, prevalecerá el estipulado en las bases; el omitir aspectos que puedan ser cubiertos con información contenida en la propia propuesta técnica o económica; el no observar los formatos establecidos, si se proporciona de manera clara la información requerida; y el dejar de observar requisitos que carezcan de fundamento legal o cualquier otro que no tenga por objeto determinar objetivamente la solvencia de la propuesta presentada. En ningún caso podrán suplirse las deficiencias sustanciales de las propuestas presentadas.
+
+###### Artículo 307.
+
+El análisis contenido en los dictámenes resolutivos será responsabilidad del área operativa encargada de su emisión, en la inteligencia de que el responsable de autorizar la contratación deberá verificar que aquéllos se hayan emitido conforme a las disposiciones que rigen su elaboración.
+
+A efecto de realizar la calificación a que se refieren los artículos 303, 304 y 305 de este Acuerdo, el Comité determinará los mecanismos de evaluación que garanticen al Consejo las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, conforme al artículo 134 de la Constitución, de lo cual informará a la Comisión de Administración. Dichos mecanismos deberán ser observados por las áreas competentes al momento de determinar la adjudicación.
+
+SUBSECCIÓN SEGUNDA
+
+LICITACIÓN PÚBLICA
+
+###### Artículo 308.
+
+La licitación pública es el procedimiento a través del cual el Consejo elige a la persona física o moral que le ofrece las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes para celebrar un contrato objeto de este Capítulo, y para ello hace un llamado a las personas interesadas, mediante convocatoria pública, para que formulen sus propuestas a fin de llevar a cabo la contratación.
+
+La licitación pública inicia con la publicación de la convocatoria y concluye con la emisión del fallo o, en su caso, con la cancelación del procedimiento.
+
+La licitación pública nacional es aquella en la que sólo pueden participar personas de nacionalidad mexicana.
+
+En el caso de que los bienes seleccionados para adjudicación estén constituidos por más de un 80% de materiales no nacionales, deberá establecerse en las bases y en el dictamen correspondiente, que el proveedor se compromete a garantizar la suficiencia de refacciones, accesorios y servicios para que esos bienes se mantengan en utilidad y funcionamiento por, al menos, cinco años.
+
+Tratándose de obra pública únicamente podrán participar contratistas de nacionalidad mexicana.
+
+En la licitación pública internacional podrán participar proveedores, contratistas y prestadores de servicios de cualquier nacionalidad, otorgándoseles el mismo trato que a los nacionales.
+
+En todo caso se convocará preferentemente a licitación nacional y solamente cuando se presente alguno de los supuestos que a continuación se indican, se convocará a licitación internacional:
+
+I. Cuando previa investigación de mercado, se desprenda que no existe oferta idónea en cantidad o calidad de proveedores o prestadores de servicio nacionales;
+
+II. Cuando de la investigación de mercado resulte conveniente para el Consejo;
+
+III. Cuando habiéndose realizado una licitación de carácter nacional, no se presenten proposiciones; y
+
+IV. En los demás casos en que así lo determine el Comité.
+
+###### Artículo 309.
+
+La licitación pública conforme a los medios que se utilicen, podrá ser:
+
+I. Presencial: en la cual los licitantes exclusivamente podrán presentar sus propuestas en forma documental y por escrito, en sobre cerrado, durante el acto de presentación y apertura de proposiciones, o bien, si así se prevé en la convocatoria a la licitación, mediante el uso del servicio postal o de mensajería.
+
+La o las juntas de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo, se realizarán de manera presencial, a los cuales podrán asistir los licitantes, sin perjuicio de que el fallo pueda notificarse por escrito, sin perjuicio de lo dispuesto en el artículo 327 de este Acuerdo;
+
+II. Electrónica: en la cual exclusivamente se permitirá la participación de los licitantes a través de CompraNet, se utilizarán medios de identificación electrónica, las comunicaciones producirán los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
+
+La o las juntas de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo, sólo se realizarán a través de CompraNet y sin la presencia de los licitantes en dichos actos, y
+
+III. Mixta: en la cual los licitantes, a su elección, podrán participar en forma presencial o electrónica en la o las juntas de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo.
+
+###### Artículo 310.
+
+Para la adjudicación de los contratos, además de los aspectos señalados en cuanto a la evaluación de las propuestas, se considerará para evaluar la solvencia económica de la misma, el presupuesto base que sirve como marco de referencia para el cálculo del valor de los bienes, servicios, arrendamientos y obra pública a contratar.
+
+###### Artículo 311.
+
+Previo a la licitación, el Consejo deberá considerar los casos en los que resulte conveniente aplicar el criterio de adjudicación denominado como costo beneficio, en cuyo caso, en las bases de licitación o invitaciones a cuando menos tres personas, se establecerá lo siguiente:
+
+I. La información que para la aplicación de este criterio deberán presentar los licitantes como parte de su propuesta;
+
+II. El método de evaluación que se utilizará, el cual deberá ser medible y comprobable, considerando los conceptos que serán objeto de evaluación, tales como mantenimiento, operación, consumibles, rendimiento u otros elementos, vinculados con el factor de temporalidad o volumen de consumo, así como las instrucciones que deberá tomar en cuenta el licitante para elaborar su propuesta; y
+
+III. El método de actualización de los precios de los conceptos considerados en el método de evaluación, de ser necesario.
+
+Tratándose de servicios, también se podrá utilizar el criterio de adjudicación de costo beneficio, aplicando en lo procedente lo dispuesto en este artículo.
+
+En los casos a que se refiere este artículo, la adjudicación se hará a la propuesta que presente el mayor beneficio neto, mismo que corresponderá al resultado que se obtenga de considerar el precio del bien o del servicio, más el de los conceptos que se hayan previsto en el método de evaluación.
+
+Para la adquisición de equipos, en los que éstos sólo operen con insumos específicos de la marca del mismo equipo, salvo dictamen y justificación del área operativa, deberá aplicarse el criterio de adjudicación a que se refiere este artículo, debiendo considerar para ello el importe de los consumibles requeridos como mínimo para un año, tomando como referencia los precios de lista del fabricante.
+
+###### Artículo 312.
+
+Las bases son las condiciones, cláusulas o estipulaciones específicas necesarias, de tipo jurídico, técnico y económico, que se establecen para regular tanto el procedimiento de licitación, como el contrato que se derive y su ejecución.
+
+El área de adquisiciones o de obras, según corresponda, elaborará las bases de la licitación, ajustándose a los formatos de bases tipo aprobados por el Comité, mismo que podrá autorizar las modificaciones que se requieran cuando se necesite incluir condiciones distintas por las particularidades de la contratación.
+
+En dichas bases se deberá hacer del conocimiento de proveedores, contratistas y prestadores de servicios los criterios que se tomarán en cuenta para la evaluación de las propuestas.
+
+En las bases de la licitación deberá indicarse que los concursantes que se encuentren en posibilidad de ofertar insumos por debajo de los precios de mercado, deberán incluir en su propuesta económica la documentación soporte respectiva.
+
+En las bases de licitación no se podrán establecer requisitos que limiten la libre participación de los interesados.
+
+###### Artículo 313.
+
+La convocatoria de la licitación pública será elaborada y firmada por el Secretario Ejecutivo de Administración, la que deberá prever como mínimo los siguientes aspectos:
+
+I. Estar redactada en idioma español;
+
+II. Contener la indicación de quien convoca, y el tipo de licitación conforme a los medios que se utilicen;
+
+III. La descripción general, normas de calidad, cantidad y unidad de medida de los bienes o servicios cuya adquisición o prestación se requiere. En el caso de arrendamiento, la indicación de si es con opción a compra. Adicionalmente, en el caso de obra pública, la descripción general de la obra o del servicio relacionado con ella y el lugar donde se llevará a cabo, así como los costos de los bienes, servicios y obra pública a contratar; y
+
+IV. La indicación de la fecha, hora y lugar del acto de apertura de propuestas y, en su caso, del acto de aclaraciones y de la visita al lugar en que se prestarán los servicios o se realizará la obra.
+
+La publicación de la convocatoria a la licitación pública se realizará a través de CompraNet y su obtención será gratuita. Además, simultáneamente se enviará para su publicación en el Diario Oficial de la Federación, un resumen de la convocatoria a la licitación que deberá contener, entre otros elementos, el objeto de la licitación, el volumen de obra o a adquirir, el número de licitación, las fechas previstas para llevar a cabo el procedimiento de contratación y cuando se publicó en CompraNet y, asimismo, el Consejo pondrá a disposición de los licitantes copia del texto de la convocatoria, en su página de Internet.
+
+###### Artículo 314.
+
+El Consejo, siempre que ello no tenga por objeto limitar el número de licitantes, podrá modificar aspectos establecidos en la convocatoria, a más tardar el séptimo día natural previo al acto de presentación y apertura de propuestas, debiendo difundir dichas modificaciones en CompraNet, a más tardar el día hábil siguiente a aquél en que se efectúen.
+
+Las modificaciones en ningún caso podrán consistir en la sustitución o variación sustancial de los trabajos convocados originalmente, o bien, en la adición de otros distintos, ni en la sustitución de los bienes o servicios convocados originalmente, adición de otros de distintos rubros o en variación significativa de sus características.
+
+En todo caso se deberá realizar al menos una junta de aclaraciones a la convocatoria de la licitación, siendo optativa para los licitantes la asistencia a la misma.
+
+Cualquier modificación a la convocatoria o a las bases de la licitación, incluyendo las que resulten de la o las juntas de aclaraciones, formará parte de la convocatoria y deberá ser considerada por los licitantes en la elaboración de su propuesta.
+
+###### Artículo 315.
+
+Las bases que se emitan para las licitaciones públicas en materia de obras públicas y servicios relacionados con las mismas, deberán contener, cuando menos, la siguiente información:
+
+I. La indicación de que es el Consejo quien convoca a la licitación pública, y el tipo de licitación conforme a los medios que se utilicen;
+
+II. La descripción general de la obra o del servicio y el lugar en donde se llevarán a cabo los trabajos;
+
+III. La forma en que los licitantes deberán acreditar su existencia legal, la personería de su representante, la experiencia y capacidad técnica y financiera que se requiera para participar en la licitación, de conformidad con las características, complejidad y magnitud de los trabajos. Asimismo, la indicación de que el licitante podrá proporcionar una dirección de correo electrónico;
+
+IV. Atendiendo al tipo de contrato, la información necesaria para que los licitantes integren sus propuestas técnica y económica. En caso de que exista información que no pueda ser proporcionada a través de CompraNet, la indicación de que la misma estará a disposición de los interesados en el domicilio que señale el Consejo;
+
+V. Fecha, hora y lugar de la junta de aclaraciones de las bases de la licitación, siendo optativa la asistencia a las reuniones que, en su caso, se realicen; fecha, hora y lugar de celebración del acto de la presentación y apertura de proposiciones; comunicación del fallo y firma del contrato;
+
+VI. La indicación de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación, así como la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
+
+VII. La indicación de que las propuestas deberán presentarse en idioma español;
+
+VIII. Moneda en que se cotizará y efectuará el pago respectivo. En su caso, las propuestas y el pago de bienes o servicios se realizarán en moneda nacional al tipo de cambio publicado por el Banco de México, a la fecha de realización del mismo;
+
+IX. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes podrán ser negociadas;
+
+X. Indicación clara y detallada de los mecanismos de evaluación de las propuestas y la adjudicación de los contratos, conforme a los criterios de evaluación previamente establecidos para tal efecto;
+
+XI. Proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones generales y particulares de construcción aplicables; en el caso de las especificaciones particulares, deberán ser firmadas por el responsable del proyecto;
+
+XII. Tratándose de servicios relacionados con las obras públicas, los términos de referencia que deberán precisar el objeto y alcances del servicio; las especificaciones generales y particulares; el producto esperado, y la forma de presentación, así como los tabuladores de las cámaras industriales y colegios de profesionales que deberán servir de referencia para determinar los sueldos y honorarios profesionales del personal técnico;
+
+XIII. La forma en que los participantes acreditarán su experiencia, capacidad técnica y financiera necesaria, de conformidad con las características, complejidad y magnitud de los trabajos;
+
+XIV. Datos sobre las garantías, porcentajes, forma y términos de los anticipos que se concedan;
+
+XV. Cuando proceda, lugar, fecha y hora para la visita al sitio de realización de los trabajos, conforme a los plazos que establece el artículo 333, fracción V, de este Acuerdo;
+
+XVI. Información específica sobre las partes de los trabajos que podrán subcontratarse;
+
+XVII. Plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha de conclusión, así como el día estimado de inicio de éstos;
+
+XVIII. Los supuestos en que podrán autorizarse modificaciones a los plazos para el cumplimiento de obligaciones contractuales, así como los requisitos que deban observarse;
+
+XIX. Modelo de contrato al que se sujetarán las partes, diferenciando los de obras y los de servicios;
+
+XX. Las condiciones de pago;
+
+XXI. Tratándose de contratos a precios unitarios o mixtos en su parte correspondiente, el procedimiento de ajuste de costos que deberá aplicarse, así como el catálogo de conceptos, cantidades y unidades de medición, el que deberá ser firmado por el responsable del proyecto; y la relación de conceptos de trabajo más significativos, de los cuales deberán presentar análisis y relación de los costos básicos de materiales, mano de obra, maquinaria y equipo de construcción que intervienen en dichos análisis.
+
+En todos los casos se deberá prever que cada concepto de trabajo esté debidamente integrado y soportado, perfectamente, en las especificaciones de construcción y normas de calidad solicitadas, procurando que estos conceptos sean congruentes con las cantidades de trabajo requeridos por el proyecto;
+
+XXII. En caso de considerarse necesario por el Consejo, la relación de materiales y equipo de instalación permanente que, en su caso, proporcione el mismo, debiendo acompañar los programas de suministro correspondientes;
+
+XXIII. La indicación de que el licitante ganador que, dentro del plazo previsto en el párrafo primero del artículo 367 de este Acuerdo, no firme el contrato por causas imputables a él, será imposibilitado temporalmente para participar en procedimientos de contratación o celebrar contratos, en los términos de la fracción IV del artículo 299 de este Acuerdo;
+
+XXIV. En su caso, los términos y las condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas a través del servicio postal, de mensajería o por medios remotos de comunicación electrónica. El que los licitantes opten por utilizar alguno de estos medios para enviar sus proposiciones no limita, en ningún caso, que asistan a los diferentes actos derivados de una licitación;
+
+XXV. La indicación de que no podrán participar las personas físicas o morales inhabilitadas o impedidas conforme a cualquiera de las normas que rigen en la materia a los poderes Ejecutivo, Legislativo y Judicial. Asimismo, la indicación de que los participantes deberán presentar manifestación bajo protesta de decir verdad de que, por su conducto, no participan en los procedimientos de contratación establecidos en este Capítulo, personas físicas o morales que se encuentren inhabilitadas en los términos de lo anterior, con el propósito de evadir los efectos de la inhabilitación, tomando en consideración, entre otros, los supuestos siguientes:
+
+a) Personas morales en cuyo capital social participen personas físicas o morales que se encuentren inhabilitadas en términos del primer párrafo de esta fracción; y
+
+b) Personas físicas que participen en el capital social de personas morales que se encuentren inhabilitadas. La participación social deberá tomarse en cuenta al momento de la infracción que hubiere motivado la inhabilitación. La falsedad en la manifestación a que se refiere esta fracción, será sancionada en los términos de este Capítulo. En caso de omisión en la entrega del escrito a que se refiere esta fracción, o si de la información y documentación con que cuente el Consejo se desprende que personas físicas o morales pretenden evadir los efectos de la inhabilitación, el área operativa se abstendrá de firmar los contratos correspondientes.
+
+XXVI. La indicación de que cualquier persona podrá asistir a los diferentes actos de la licitación en calidad de observador, sin necesidad de adquirir las bases, registrando previamente su participación. El Consejo podrá girar las invitaciones que estime conveniente a testigos sociales;
+
+XXVII. Las causas por las que podrá ser declarada desierta o cancelada la licitación; y
+
+XXVIII. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación.
+
+Para la participación, adjudicación o contratación de obras públicas o servicios relacionados con las mismas no podrán exigirse requisitos que tengan por objeto limitar la libre participación. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir.
+
+Las bases que se emitan para las licitaciones públicas en materia de servicios relacionados con la obra pública, para la contratación de los directores responsables de obra y sus corresponsables especialistas en obra o sus equivalentes, se exceptúan de contener los requisitos mínimos a que se refiere este artículo y deberán ser simplificadas atendiendo a la naturaleza de la contratación. Para tal efecto, el Comité deberá aprobar los modelos de bases y demás documentos relacionados para este tipo de contrataciones.
+
+###### Artículo 316.
+
+Las bases que se emitan para las licitaciones públicas en materia de adquisiciones, arrendamientos y servicios deberán contener, cuando menos, la siguiente información:
+
+I. La indicación de que es el Consejo quien convoca a la licitación pública, y el tipo de licitación conforme a los medios que se utilicen;
+
+II. La forma en que los licitantes deberán acreditar su personalidad, para lo cual podrán exhibir los documentos mencionados en el artículo 302 de este Acuerdo. Asimismo deberán acreditar su capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
+
+III. Fecha, hora y lugar de la junta de aclaraciones de las bases de la licitación, siendo optativa la asistencia a las reuniones que se realicen; fecha, hora y lugar de celebración del acto de presentación y apertura de proposiciones; comunicación del fallo y firma del contrato;
+
+IV. Atendiendo al tipo de contrato, la información necesaria para que los licitantes integren sus propuestas técnica y económica. En caso de que exista información que no pueda ser proporcionada a través de CompraNet, la indicación de que la misma estará a disposición de los interesados en el domicilio que señale el Consejo;
+
+V. La indicación de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación que afecte la solvencia de la propuesta, así como la comprobación de que algún licitante ha acordado con otro u otros elevar los precios de los bienes o servicios, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
+
+VI. La indicación de que las propuestas y todo lo relacionado con las mismas deberán presentarse en idioma español. Los anexos técnicos y folletos podrán presentarse en el idioma del país de origen de los bienes o servicios, acompañados de una traducción simple al español;
+
+VII. Moneda en que se cotizará y efectuará el pago respectivo. En su caso, las propuestas y el pago de bienes o servicios se realizarán en moneda nacional al tipo de cambio publicado por el Banco de México, en la fecha de la realización del mismo;
+
+VIII. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes podrán ser negociadas;
+
+IX. La indicación clara y detallada de los mecanismos de evaluación de las propuestas y la adjudicación de los contratos, conforme a los criterios de evaluación previamente establecidos para tal efecto;
+
+X. Descripción completa de los bienes o servicios, o indicación de los sistemas empleados para identificación de los mismos; información específica que requieran respecto a mantenimiento, asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; copia de los documentos mediante los cuales el licitante acreditará el cumplimiento de las normas o sistemas solicitados, conforme a lo establecido en la Ley Federal sobre Metrología y Normalización; dibujos; cantidades; muestras, y pruebas que se realizarán, así como método para ejecutarlas;
+
+XI. Verificar el cumplimiento de las normas oficiales mexicanas y de las normas mexicanas, según proceda conforme a los bienes o servicios a adquirir, y a falta de éstas, de las normas internacionales, de conformidad con lo dispuesto por los artículos 53 y 55 de la Ley Federal sobre Metrología y Normalización;
+
+XII. Plazo y condiciones de entrega; así como la indicación del lugar, dentro del territorio nacional, donde deberán efectuarse las entregas. Cuando se trate de diferentes lugares de entrega, podrá establecerse que se propongan precios para cada uno de éstos o uno solo para todos ellos;
+
+XIII. Requisitos que deberán cumplir quienes deseen participar, precisando cómo serán utilizados en la evaluación, de conformidad con los criterios para la evaluación de las propuestas y la adjudicación de los contratos previamente establecidos para tal efecto;
+
+XIV. Condiciones de pago, señalando el momento en que se haga exigible;
+
+XV. Datos sobre las garantías; así como la indicación de si se va a otorgar anticipo, en cuyo caso deberá señalarse el porcentaje respectivo y el momento en que se entregará;
+
+XVI. La indicación de si la totalidad de los bienes o servicios objeto de la licitación, o bien, de cada partida o concepto de los mismos, serán adjudicados a un solo proveedor;
+
+XVII. En el caso de contratos abiertos, la información a que se refiere el artículo 362 de este Acuerdo;
+
+XVIII. Las penas convencionales que serán aplicables por atraso en la entrega de los bienes o en la prestación de los servicios, en los términos señalados en el artículo 410 de este Acuerdo;
+
+XIX. La indicación de que el licitante ganador que no firme el contrato por causas imputables al mismo, será imposibilitado temporalmente para participar en procedimientos de contratación o celebrar contratos, en los términos de la fracción IV del artículo 299 de este Acuerdo; la convocante, sin necesidad de un nuevo procedimiento, adjudicará el instrumento jurídico al licitante que haya obtenido el segundo lugar, conforme a lo señalado en el artículo 329 de este Acuerdo;
+
+XX. En su caso, términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas a través del servicio postal, de mensajería o por medios remotos de comunicación electrónica. El que los licitantes opten por utilizar alguno de estos medios para enviar sus proposiciones no limita, en ningún caso, que asistan a los diferentes actos derivados de una licitación;
+
+XXI. Las condiciones de precio, en las que se precisará si se trata de precios fijos o variables hasta la total extinción de las obligaciones;
+
+XXII. Los supuestos en que podrán autorizarse modificaciones a los plazos para el cumplimiento de las obligaciones contractuales, así como los requisitos que deban observarse;
+
+XXIII. Las causales para la rescisión de los contratos, en los términos previstos en el artículo 420 de este Acuerdo;
+
+XXIV. Las previsiones relativas a los términos y condiciones a las que se sujetará la devolución y reposición de bienes por motivos de fallas de calidad o cumplimiento de especificaciones originalmente convenidas, sin que las sustituciones impliquen su modificación;
+
+XXV. El señalamiento de las licencias, autorizaciones y permisos que conforme a otras disposiciones sea necesario contar para la adquisición o arrendamiento de bienes y prestación de los servicios correspondientes;
+
+XXVI. La indicación de que en caso de violaciones en materia de derechos inherentes a la propiedad intelectual, la responsabilidad estará a cargo del licitante o proveedor según sea el caso. Salvo que exista impedimento, la indicación de que los mencionados derechos, para el caso de la contratación de servicios de consultoría, asesorías, estudios e investigaciones, se estipularán a favor del Consejo, en los términos de las disposiciones aplicables;
+
+XXVII. La indicación de que no podrán participar las personas físicas o morales inhabilitadas o impedidas conforme a cualquiera de las normas que rigen en la materia a los poderes Ejecutivo, Legislativo y Judicial. Asimismo, la indicación de que los participantes deberán presentar manifestación, bajo protesta de decir, verdad de que por su conducto no participan en los procedimientos de contratación establecidos en este Capítulo, personas físicas o morales que se encuentren inhabilitadas en los términos de lo anterior, con el propósito de evadir los efectos de la inhabilitación, tomando en consideración, entre otros, los supuestos siguientes:
+
+a) Personas morales en cuyo capital social participen personas físicas o morales que se encuentren inhabilitadas en términos de lo dispuesto en la fracción anterior; y
+
+b) Personas físicas que participen en el capital social de personas morales que se encuentren inhabilitadas. La participación social deberá tomarse en cuenta al momento de la infracción que hubiere motivado la inhabilitación.
+
+La falsedad en la manifestación a que se refiere esta fracción, será sancionada en los términos de este Capítulo. En caso de omisión en la entrega del escrito a que se refiere esta fracción, o si de la información y documentación con que cuente el Consejo se desprende que personas físicas o morales pretenden evadir los efectos de la inhabilitación, el área operativa se abstendrá de firmar los contratos correspondientes;
+
+XXVIII. La indicación de que cualquier persona podrá asistir a los diferentes actos de la licitación en calidad de observador, sin necesidad de adquirir las bases, registrando previamente su participación. El Consejo podrá girar las invitaciones que estime conveniente a testigos sociales;
+
+XXIX. Las causas por las que podrá ser declarada desierta o cancelada la licitación; y
+
+XXX. El tipo y modelo de contrato.
+
+###### Artículo 317.
+
+Las bases se pondrán a disposición, de forma gratuita, de cualquier interesado en CompraNet y en la página de Internet del Consejo, para su consulta y revisión, proporcionándose igual información a todos los participantes.
+
+###### Artículo 318.
+
+En caso de resultar necesario, previo al acto de apertura de propuestas, se celebrará una junta de aclaración de las bases, en la cual se dará respuesta a las dudas que llegaren a tener los concursantes respecto del procedimiento licitatorio en general. De la junta de aclaraciones se levantará un acta circunstanciada en la que se harán constar todos los aspectos que se trataron en ella y se entregará copia a los concursantes que participen en la licitación. Las aclaraciones que se formulen en dicho acto, formarán parte de las bases y por tanto su observancia será obligatoria.
+
+También podrán enviarse solicitudes de aclaración, a través de CompraNet dependiendo del tipo de licitación de que se trate, a más tardar veinticuatro horas antes de la fecha y hora en que se vaya a realizar la junta de aclaraciones.
+
+La asistencia a la junta de aclaraciones no será requisito indispensable para presentar propuestas; por tanto, no será motivo para desecharlas, la inasistencia de algún proveedor, así como el hecho de que los participantes no presenten copia de los documentos que el Consejo emita con motivo de cualquier aclaración de las bases o del procedimiento de adjudicación.
+
+Sólo se realizarán aclaraciones fuera de la indicada junta, en caso de que, a juicio del área de adquisiciones o de obras, según corresponda, sea en beneficio del procedimiento licitatorio y se haga del conocimiento por escrito de todos los participantes.
+
+###### Artículo 319.
+
+Sólo con el conocimiento de todos los participantes y por causa fundada podrán modificarse las condiciones y plazos establecidos en las bases, debiendo haber por lo menos cinco días hábiles entre la notificación y la fecha señalada para la entrega de las propuestas. Si las modificaciones derivan de la junta de aclaraciones, a más tardar en el plazo señalado en este artículo, se entregará copia del acta respectiva a cada uno de los participantes que hayan adquirido las bases de la correspondiente licitación.
+
+###### Artículo 320.
+
+La adquisición de las bases no tendrá ningún costo.
+
+En el supuesto de las licitaciones presenciales y, en su caso, mixtas para tener derecho a presentar propuestas, los interesados en participar deberán inscribirse en el procedimiento de contratación que corresponda en la oficina del área operativa que lo lleve a cabo. En el caso de encontrarse previsto en las bases, los interesados podrán utilizar los medios electrónicos autorizados por el Consejo. Tratándose de las electrónicas deberán manifestar su interés en participar a través de CompraNet, así como en aquellos casos en que los licitantes decidan participar por este medio.
+
+En caso de que la licitación pública se realice en alguna de las entidades federativas, en las bases se indicará el lugar en que deberán inscribirse los interesados.
+
+Cuando se considere conveniente, de manera previa a la fecha de presentación y apertura de propuestas, se realizará una revisión preliminar de la documentación solicitada, excepto de la relativa a las propuestas técnica y económica, a fin de verificar que los interesados cumplan con los requisitos de la convocatoria o bases y que, por tanto, se encuentren en aptitud de adquirir dichas bases o presentar sus propuestas.
+
+Lo anterior será optativo para los licitantes y no será impedimento para los que decidan presentar su documentación y proposiciones en el propio acto.
+
+###### Artículo 321.
+
+En caso de prestación de servicios y de obra pública podrá realizarse una visita al lugar en que se prestarán los servicios o se ejecutarán los trabajos de la obra, y tendrá como objeto que los licitantes conozcan las condiciones del entorno ambiental y urbano, así como las características referentes al grado de dificultad de los trabajos a desarrollar y sus implicaciones de carácter técnico.
+
+Por lo anterior, el área de adquisiciones, de obras o la Coordinación de Administración Regional, según corresponda, expedirá a los participantes una constancia de asistencia a la visita, la cual podrá ser requisito para tener derecho a presentar propuestas.
+
+###### Artículo 322.
+
+La entrega de las propuestas se efectuará en el acto de apertura y se presentarán en sobre cerrado. En el caso de las presentadas a través de CompraNet, serán generadas mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sean inviolables, conforme a las especificaciones técnicas que al efecto se determinen. La documentación distinta a la propuesta técnica y económica podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
+
+Las propuestas deberán presentarse mediante escrito original, en papelería membretada del licitante y debidamente firmadas y rubricadas en todas y cada una de sus hojas.
+
+El licitante a quien se le haya adjudicado el contrato, previo a su formalización, deberá firmar la totalidad de la documentación que integre su propuesta.
+
+Los documentos de la propuesta deberán estar foliados y no contener tachaduras o enmendaduras.
+
+Salvo la firma del representante legal o persona legalmente autorizada, en los términos indicados, la omisión de los otros requisitos de forma no será motivo de descalificación, pero toda circunstancia deberá asentarse en el acta correspondiente.
+
+De detectarse deficiencias en el foliado de las propuestas técnica y económica, el servidor público que presida el acto procederá a subsanarlas en presencia de los participantes en el procedimiento, lo cual asentará en el acta.
+
+En caso de que el licitante entregue información de naturaleza confidencial, deberá señalarlo expresamente por escrito, para los efectos de la normatividad aplicable en materia de transparencia, acceso a la información pública gubernamental y protección de datos personales.
+
+No será motivo de desechamiento la falta de identificación o acreditación de la persona que únicamente entregue la proposición, pero ésta sólo podrá participar durante el desarrollo del acto con el carácter de observador.
+
+En el mismo acto de presentación y con el objeto de acreditar su personalidad, los licitantes o sus representantes presentarán, dentro o fuera del sobre o a través del uso de las tecnologías a que se refiere el primer párrafo de este artículo, un escrito en el que su firmante manifieste, bajo protesta de decir verdad, que cuenta con facultades suficientes para comprometerse por sí o por su representada, mismo que contendrá los datos a que se refiere el artículo 302 de este Acuerdo. En el caso de licitaciones públicas internacionales, el escrito deberá contener dichos datos o los equivalentes, considerando las disposiciones aplicables en el país de que se trate. En el supuesto de duda sobre los documentos que deberán requerirse a los licitantes extranjeros para acreditar su personalidad, la convocante solicitará un escrito en el que el licitante manifieste, bajo protesta de decir verdad, que los documentos entregados cumplen con los requisitos necesarios para acreditar la existencia de la persona moral y del tipo o alcances jurídicos de las facultades otorgadas a sus representantes legales.
+
+###### Artículo 323.
+
+Dos o más personas podrán presentar conjuntamente proposiciones sin necesidad de constituir una sociedad, o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión, y a satisfacción del Consejo, las partes de los trabajos o servicios que cada persona se obligará a ejecutar, así como la manera en que se exigirá el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas.
+
+###### Artículo 324.
+
+Tratándose de obra pública y servicios relacionados con la misma, en las bases de la licitación el Secretario Ejecutivo de Administración solicitará a los participantes la documentación necesaria, para que acrediten su capacidad financiera.
+
+Para tal efecto se les solicitará copia simple de su declaración anual del Impuesto Sobre la Renta del último ejercicio fiscal, así como estados financieros auditados en su caso, de conformidad con el Código Fiscal de la Federación, con los que se acredite:
+
+I. El capital contable requerido;
+
+II. La liquidez;
+
+III. El capital de trabajo;
+
+IV. Que tenga solvencia; y
+
+V. Que no se encuentre en el supuesto de liquidación.
+
+Las cifras de los estados financieros se aceptarán con una antigüedad no mayor a tres meses.
+
+Los estados financieros deberán estar debidamente firmados por el representante legal de la persona moral y el contador que los haya elaborado.
+
+Dicha documentación no se solicitará en los procedimientos de adjudicación directa, salvo que deriven de una invitación a cuando menos tres proveedores o contratistas declarada desierta o por razón de las características de los trabajos, a juicio del área operativa.
+
+Asimismo, deberán acreditar que sus trabajadores se encuentran inscritos ante el Instituto Mexicano del Seguro Social y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, así como que no tienen adeudos por concepto de cuotas obrero patronales que deban ser cubiertas a dichos institutos.
+
+###### Artículo 325.
+
+El acto de presentación y apertura de propuestas se realizará en sesión pública que presidirá el servidor público autorizado por el titular de la Dirección de las áreas de adquisiciones o de obras, según corresponda, debiendo contar con la intervención de la Contraloría, los que actuarán en el ámbito de su respectiva competencia.
+
+Las proposiciones que se reciban en el acto de presentación y apertura de las mismas serán revisadas para el sólo efecto de hacer constar la documentación presentada por los licitantes, sin entrar a su análisis técnico, legal o administrativo.
+
+Los licitantes son los únicos responsables de que sus propuestas sean entregadas en tiempo y forma en el acto de presentación y apertura de proposiciones.
+
+El servidor público que preside el acto estará facultado para tomar decisiones durante la realización del acto, en los términos de este Capítulo.
+
+El acto de apertura de propuestas se realizará conforme a lo siguiente:
+
+I. Se podrá celebrar en un solo evento cuando la naturaleza, complejidad y magnitud de los trabajos a realizar así lo permitan. En caso de que la apertura de las propuestas no se realice en la misma fecha, los sobres cerrados que las contengan serán firmados por los licitantes y los servidores públicos presentes y quedarán en custodia del área de adquisiciones o de obras, según corresponda, la que informará en dicho acto la fecha, lugar y hora en que se llevará a cabo;
+
+II. Una vez recibidas las proposiciones en sobre cerrado, se procederá a su apertura y se dejará constancia del cumplimiento de los requisitos solicitados a los participantes de conformidad con los incisos que las establezcan en las bases de la licitación y de aquellos que en su caso hubiesen dejado de cumplir, con base en la relación que para tal efecto se levante y se adjunte al acta del acto;
+
+III. El servidor público que presida el acto deberá recibir las proposiciones para su posterior evaluación, por lo que no podrá desechar ninguna de ellas durante dicho acto.
+
+En el fallo es donde se deberá señalar si la proposición fue desechada o descalificada, por incumplir con alguno de los requisitos de las bases de la licitación o ubicarse en alguna de las causas de impedimento señaladas en el artículo 299 de este Acuerdo;
+
+IV. Una vez recibidas todas las proposiciones, el servidor público que presida el acto dará lectura al importe total de cada proposición; el análisis detallado de las proposiciones se efectuará posteriormente al realizar la evaluación de las mismas;
+
+V. Cuando existan denuncias o presunción de falsedad en relación con la información presentada por el licitante, su propuesta no deberá desecharse. El servidor público que presida el acto, lo comunicará a la Contraloría y a la Dirección General de Asuntos Jurídicos, para que se determine lo correspondiente;
+
+VI. Por lo menos un licitante, si asistiere alguno, y el servidor público facultado para presidir el acto, rubricarán las partes de las propuestas que previamente haya determinado el Consejo en las bases de licitación, las que para estos efectos constarán documentalmente; y
+
+VII. Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, donde se harán constar las propuestas recibidas para su posterior evaluación y el importe de cada una de ellas; el acta será firmada por los asistentes y se pondrá a su disposición o se les entregará copia de la misma; la falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de su notificación.
+
+Cuando los licitantes omitan presentar en el acto de presentación y apertura de propuestas documentos que no afecten su solvencia técnica o económica, o bien, documentos requeridos por el Consejo distintos a los escritos o manifestaciones bajo protesta de decir verdad, que se soliciten al estar previstos en este Capítulo o el algún otro ordenamiento, cuya omisión debe ser motivo del desechamiento de la propuesta, éste solicitará a los licitantes que proporcionen la documentación en el plazo de tres días hábiles.
+
+Las propuestas serán devueltas transcurridos diez días hábiles contados a partir de la fecha en que se dé a conocer el fallo de la licitación.
+
+###### Artículo 326.
+
+El área de adquisiciones o de obras según corresponda, para realizar el dictamen de adjudicación analizará lo siguiente:
+
+I. Los dictámenes financiero, técnico y económico deberán estar debidamente fundados y motivados;
+
+II. El desarrollo del procedimiento de licitación, considerando las incidencias que se hayan presentado; y
+
+III. La propuesta de adjudicación que ofrezca las mejores condiciones para el Consejo.
+
+El dictamen deberá someterse a la consideración del titular de las áreas de adquisiciones o de obras, según corresponda, a fin de que realice su valoración formal y, con base en ello, emita el fallo respectivo.
+
+###### Artículo 327.
+
+Una vez autorizada la adjudicación se comunicará el fallo a los participantes en sesión pública. El fallo, para efectos de su notificación, se dará a conocer a través de CompraNet el mismo día en que se celebre la referida sesión, tratándose de licitaciones electrónicas y, en su caso, mixtas. A los licitantes se les enviará por correo electrónico un aviso informándoles que el acta del fallo se encuentra a su disposición en CompraNet.
+
+Tratándose de licitaciones presenciales o mixtas, se dará a conocer el fallo de la misma en la sesión pública a la que libremente podrán asistir los licitantes que hubieran presentado propuesta, entregándoseles copia del mismo y levantándose el acta respectiva. Asimismo, el contenido del fallo se difundirá a través de CompraNet el mismo día en que se emita. A los licitantes que no hayan asistido a la sesión, se les enviará por correo electrónico un aviso informándoles que el acta del fallo se encuentra a su disposición en CompraNet.
+
+El fallo deberá contemplar, como mínimo, lo siguiente:
+
+I. Nombre de los licitantes cuyas propuestas económicas fueron desechadas como resultado de su análisis detallado y las razones que se tuvieron para ello;
+
+II. Nombre de los licitantes cuyas propuestas económicas fueron determinadas como solventes;
+
+III. Nombre del licitante a quien se adjudique el contrato y, en su caso, identificación de cada una de las partidas o conceptos y montos asignados; y
+
+IV. Información para firma del contrato, presentación de garantías y, en su caso, entrega de anticipos, conforme a las bases de licitación o de invitación.
+
+###### Artículo 328.
+
+Las actas de las juntas de aclaraciones, del acto de presentación y apertura de propuestas, y de la sesión pública en la que se dé a conocer el fallo serán firmadas por los licitantes que hubieran asistido, sin que la falta de firma de alguno de ellos reste validez o efectos a las mismas, de las cuales se podrá entregar una copia a dichos asistentes, y al finalizar cada acto se fijará un ejemplar del acta correspondiente en un lugar visible, al que tenga acceso el público, en el domicilio del área responsable del procedimiento de contratación, por un término no menor de cinco días hábiles. El titular de la citada área dejará constancia en el expediente de la licitación, de la fecha, hora y lugar en que se hayan fijado las actas o el aviso de referencia.
+
+Asimismo, se difundirá un ejemplar de dichas actas en CompraNet para efectos de su notificación a los licitantes que no hayan asistido al acto. Dicho procedimiento sustituirá a la notificación personal.
+
+###### Artículo 329.
+
+Cuando notificada la adjudicación del total de partidas o de alguna partida, alguno de los licitantes ganadores no sostuviera su oferta o por cualquier causa se le rescindiera el contrato, el titular del área de adquisiciones o de obras, según corresponda, autorizará la adjudicación al licitante que hubiese ofertado la segunda mejor oferta, siempre que la diferencia en el precio con respecto a la propuesta que inicialmente hubiera resultado ganadora no sea superior al 10%, escuchando previamente al área operativa que corresponda.
+
+En caso de que se autorice la adjudicación a la segunda propuesta, la notificación se hará por escrito al licitante que la ofertó.
+
+###### Artículo 330.
+
+El incumplimiento de las condiciones establecidas en las bases de la licitación y la contravención a lo dispuesto en este Capítulo, será motivo de descalificación, lo que se hará del conocimiento del participante al emitirse el fallo, el que deberá fundar y motivar la causa.
+
+La descalificación de los participantes será determinada por el titular del área de adquisiciones o de obras, según corresponda.
+
+###### Artículo 331.
+
+El área de adquisiciones o de obras, según corresponda, declarará desierta la licitación pública en los siguientes supuestos:
+
+I. Cuando no se registren concursantes a la licitación;
+
+II. Cuando ninguna de las propuestas presentadas reúna los requisitos establecidos en las bases de la licitación; y
+
+III. Cuando los precios propuestos no fueren aceptables, de conformidad con la información con que se cuente.
+
+En caso de ser declarada desierta la licitación, el Secretario Ejecutivo de Administración, previo acuerdo con el Oficial Mayor, autorizará iniciar un procedimiento de invitación a cuando menos tres o, en su caso, el procedimiento de adjudicación directa, para lo cual deberá justificar su determinación.
+
+Tratándose de licitaciones en las que una o varias partidas se declaren desiertas en virtud de los supuestos antes enunciados, se procederá a su contratación mediante adjudicación directa, cuando así lo justifique su monto.
+
+Lo previsto en este artículo será aplicable al concurso público sumario y a la invitación a cuando menos tres proveedores o contratistas.
+
+###### Artículo 332.
+
+El titular del área de adquisiciones o de obras, según corresponda, podrá cancelar una licitación, partidas o conceptos incluidos en ésta:
+
+I. Por caso fortuito o fuerza mayor;
+
+II. Cuando existan circunstancias debidamente justificadas que modifiquen o extingan la necesidad para adquirir o arrendar los bienes, servicios de que se trate, o la contratación de obra pública, y que de continuarse con el procedimiento pudiera ocasionar un daño o perjuicio al Consejo; o
+
+III. Por causas de interés general.
+
+Dicha determinación se hará del conocimiento de los licitantes.
+
+En caso fortuito o fuerza mayor, el Consejo no realizará pago alguno de gastos no recuperables.
+
+Lo dispuesto en este artículo se aplicará para la cancelación de la invitación a cuando menos tres, concurso público sumario o subasta a la inversa; así como por partidas o conceptos incluidos en éstos.
+
+###### Artículo 333.
+
+Las licitaciones públicas se realizarán en los plazos siguientes:
+
+I. La consulta de las bases y la inscripción se realizará durante un plazo de tres a siete días hábiles, contados a partir de la fecha de publicación de la convocatoria;
+
+II. Entre el último día del plazo anterior y el acto de apertura de propuestas, deberá mediar un plazo mínimo de cinco a diez días hábiles¸ con excepción de las licitaciones internacionales que no será inferior a veintitrés días naturales, contados a partir de la fecha de publicación de la convocatoria en CompraNet. En caso de que las bases sean modificadas se podrá prorrogar por cinco días hábiles más la entrega de propuestas;
+
+III. Para la emisión del dictamen de adjudicación deberá mediar un plazo de cinco a diez días hábiles, contados a partir de la fecha en que tenga verificativo el acto de apertura de propuestas;
+
+IV. Entre la presentación del dictamen de adjudicación y la emisión del fallo mediará un plazo máximo de tres días hábiles; y
+
+V. En caso de que se requiera la visita al lugar donde se prestarán los servicios o se ejecutarán los trabajos de obra, será celebrada, a partir del tercer día hábil dentro del período de consulta de bases y hasta cinco días hábiles anteriores del acto de apertura de propuestas.
+
+En casos excepcionales y por la complejidad de la licitación, el Secretario Ejecutivo de Administración podrá solicitar al Comité la ampliación de los plazos previstos en este Capítulo, justificando tal circunstancia.
+
+SUBSECCIÓN TERCERA
+
+INVITACIÓN A CUANDO MENOS TRES PROVEEDORES O CONTRATISTAS
+
+###### Artículo 334.
+
+La invitación a cuando menos tres proveedores o contratistas es el procedimiento de excepción a la licitación pública cuando el importe de cada contrato se encuentre dentro de los parámetros que al efecto emita el Pleno, o bien, se trate de alguno de los supuestos a que se refiere el artículo 296 de este Acuerdo, sujetándose a las formalidades establecidas en esta Subsección.
+
+###### Artículo 335.
+
+El procedimiento de invitación a cuando menos tres proveedores o contratistas iniciará con la invitación que realice el área de adquisiciones o de obras, según corresponda, y concluirá con la firma del contrato.
+
+Se difundirá la invitación en CompraNet y en la página de Internet del Consejo.
+
+De estimarlo conveniente, la Contraloría y la Dirección General de Asuntos Jurídicos podrán intervenir en los actos de apertura de estos procedimientos, los que actuarán en el ámbito de sus respectivas competencias.
+
+###### Artículo 336.
+
+La invitación se acompañará de la información que resulte pertinente en cuanto a la descripción de los bienes, servicios u obra requeridos, a fin de que los proveedores o contratistas se encuentren en posibilidad de presentar sus propuestas.
+
+En caso de que dicha invitación se efectúe por haberse declarado desierta una licitación pública, la información que se acompañe a ésta, podrá ser simplificada por el área de adquisiciones o de obras, según corresponda, de conformidad con las características, complejidad y magnitud de los trabajos, bienes o servicios.
+
+###### Artículo 337.
+
+El procedimiento de recepción y apertura de propuestas podrá realizarse en sesión pública, de conformidad con las formalidades previstas para la licitación pública.
+
+En caso de que a juicio del área de adquisiciones o de obras, según corresponda, no resulte necesario realizar sesión pública, se procederá conforme a lo siguiente:
+
+I. En la invitación se señalará el lugar, horario y plazo en que deberán ser presentadas las propuestas;
+
+II. Las propuestas serán recibidas en sobre cerrado por el área que determine el área de adquisiciones o de obras, según corresponda; y
+
+III. Para la apertura de las propuestas podrá asistir la Contraloría y, de considerarse necesario, la Dirección General de Asuntos Jurídicos, siendo aplicable, en su caso, lo previsto en el artículo 325 de este Acuerdo.
+
+Los plazos de presentación de las propuestas se fijarán en cada operación atendiendo a las características, complejidad y magnitud de la contratación.
+
+###### Artículo 338.
+
+El área de adquisiciones o de obras, según corresponda, para realizar el dictamen de adjudicación analizará lo siguiente:
+
+I. Los dictámenes financiero, técnico y económico deberán estar debidamente fundados y motivados;
+
+II. El desarrollo del procedimiento de invitación considerando las incidencias que se hayan presentado; y
+
+III. La propuesta de adjudicación que ofrezca las mejores condiciones para el Consejo.
+
+El dictamen deberá someterse a la consideración del Secretario Ejecutivo de Administración, a fin de que realice la valoración formal y, con base en ello, emita el fallo respectivo.
+
+###### Artículo 339.
+
+Autorizada la adjudicación por el titular del área de adquisiciones o de obras, según corresponda, se procederá a notificar por escrito el fallo a los participantes.
+
+###### Artículo 340.
+
+El área de adquisiciones o de obras, según corresponda, declarará desierta la invitación a cuando menos tres proveedores o contratistas en los siguientes supuestos:
+
+I. Que no presenten propuestas susceptibles de valoración cuando menos tres proveedores o contratistas invitados;
+
+II. Que ninguna de las propuestas presentadas reúna los requisitos establecidos en las bases o en la invitación; y
+
+III. Que los precios propuestos no fueren aceptables, de conformidad con el rango de más menos 10%.
+
+Declarada desierta la invitación a cuando menos tres proveedores o contratistas, por primera ocasión, el área de adquisiciones o de obras, según corresponda, podrá realizar una nueva invitación a cuando menos tres proveedores o contratistas, salvo que existan razones justificadas para proponer la adjudicación directa. En caso de que por segunda ocasión sea declarada desierta la invitación a cuando menos tres proveedores o contratistas, el contrato podrá adjudicarse directamente.
+
+SUBSECCIÓN CUARTA
+
+ADJUDICACIÓN DIRECTA
+
+###### Artículo 341.
+
+La adjudicación directa es el procedimiento a través del cual se adjudica de manera expedita un contrato a un proveedor o contratista idóneo, previamente seleccionado, a juicio del área operativa que corresponda de conformidad con el artículo 263, fracción V, del de este Acuerdo, en virtud de materializarse alguno de los siguientes supuestos:
+
+I. Que el monto de la operación no rebase el parámetro establecido para tal efecto por el Pleno;
+
+II. Que resulte conveniente para los intereses del Consejo, tratándose de alguno de los casos de excepción a los que se refiere el artículo 296 de este Acuerdo; y
+
+III. Que la contratación sea urgente por caso fortuito o fuerza mayor.
+
+###### Artículo 342.
+
+La adjudicación directa que se realice en virtud del monto de la operación, conforme a lo previsto en este Capítulo, se llevará a cabo por el área operativa que corresponda, seleccionando a la persona que resulte idónea para garantizar las mejores condiciones para el Consejo. Esto tendrá como sustento la investigación de mercado.
+
+En los procedimientos que realicen las diversas áreas centrales o desconcentradas del Consejo, evitarán establecer mayores requisitos que los señalados en este artículo. Las áreas operativas deberán considerar para la adjudicación a las personas físicas o morales, que cuenten con los recursos técnicos, financieros y demás que sean necesarios, de conformidad con las características, complejidad y magnitud de los trabajos a ejecutar.
+
+###### Artículo 343.
+
+Para la adjudicación directa que se realice tratándose de alguno de los casos de excepción a los que se refiere el artículo 296 de este Acuerdo, se deberá realizar el procedimiento siguiente:
+
+I. El área de adquisiciones o de obras, según corresponda, con base en la evaluación de las áreas técnicas presentará al Comité la propuesta para iniciar el procedimiento de adjudicación, debidamente fundada y motivada, en la que indique las razones por las que resulta conveniente realizar la contratación mediante el procedimiento de adjudicación directa, señalando su monto y plazo;
+
+II. El Comité, con los elementos presentados, resolverá lo procedente; y
+
+III. En caso de que sea autorizado el procedimiento, como caso de excepción, el titular del área de adquisición o de obras procederá a realizar el procedimiento de adjudicación y, en su oportunidad, formalizar el contrato respectivo.
+
+SUBSECCIÓN QUINTA
+
+SUBASTA A LA INVERSA
+
+###### Artículo 344.
+
+La subasta a la inversa consistirá en que los proveedores o contratistas podrán ofertar diferentes precios y condiciones de pago, entrega de bienes, obra pública o prestación de servicios a partir de una postura base o derivados de las ofertas económicas cuando provengan de un procedimiento de licitación pública, en un tiempo específico y mediante pujas y repujas.
+
+Para realizar adjudicaciones hasta por parámetros iguales a la licitación pública o invitación a cuando menos tres proveedores o contratistas, la subasta a la inversa podrá llevarse a cabo en forma presencial o electrónica.
+
+De igual forma, podrá utilizarse en los procedimientos de licitación pública o invitación a cuando menos tres proveedores o contratistas, para lo cual se hará la referencia que éstos se llevarán a cabo con la modalidad de subasta a la inversa.
+
+La subasta a la inversa podrá ser utilizada para la adquisición de bienes muebles, arrendamientos, obra pública y servicios, siempre que las características técnicas de los bienes, servicios o trabajos hayan quedado objetivamente definidas, bajo las condiciones que establezca el Consejo como aceptables.
+
+La adjudicación se realizará a la oferta que ofrezca mejor precio y condiciones de pago, entrega de bienes, obra pública, prestación de servicios u otros elementos de valoración objetiva.
+
+###### Artículo 345.
+
+El Secretario Ejecutivo de Administración, previo acuerdo con el Oficial Mayor, autorizará el procedimiento de subasta a la inversa presencial o electrónica, cuando el parámetro de adjudicación corresponda al de licitación pública. En parámetros menores, lo podrá autorizar el titular del área de adquisiciones o de obras, según corresponda.
+
+Cuando se incluya la subasta a la inversa como modalidad en el procedimiento de licitación pública o de invitación a cuando menos tres proveedores o contratistas, la autorización recaerá en el Secretario Ejecutivo de Administración, previo acuerdo con el Oficial Mayor.
+
+Todo proveedor o contratista interesado en participar, deberá cumplir con los términos señalados en las bases del procedimiento.
+
+###### Artículo 346.
+
+La Secretaría Ejecutiva de Administración con apoyo de la Dirección General de Tecnologías de la Información implementará y administrará un sistema electrónico en el portal de Internet del Consejo, que permitirá realizar las subastas a la inversa en forma electrónica.
+
+Las comunicaciones, intercambio y almacenamiento de información en el portal, se realizarán de modo que se garantice la protección e integridad de los datos ahí contenidos.
+
+Para la subasta a la inversa en forma electrónica, la Secretaría Ejecutiva de Administración otorgará cuenta y contraseña de acceso autorizado. Los proveedores, contratistas y prestadores de servicios autorizados serán responsables del uso y confidencialidad que se dé a esa cuenta y contraseña de acceso, así como de los demás elementos electrónicos que se les proporcionen. También deberán responder de los daños y perjuicios por su mal uso.
+
+Al proveedor, contratista o prestador de servicios, que se inscriba para participar en subasta a la inversa en forma electrónica, se le asignará por sistema un número de registro para su uso en todo el procedimiento de adjudicación. Los datos de identificación del participante serán de uso confidencial para el área responsable del procedimiento y para la Contraloría.
+
+###### Artículo 347.
+
+La convocatoria pública se realizará por el titular del área que corresponda y deberá como mínimo:
+
+I. Estar redactada en idioma español;
+
+II. Indicar el área convocante;
+
+III. Señalar que se trata de subasta a la inversa presencial o de subasta a la inversa electrónica;
+
+IV. Describir los bienes o servicios a contratar, normas de calidad, cantidad y unidad de medida de los mismos. En el caso de arrendamiento, indicar si habrá opción a compra. Adicionalmente, en obra pública, la descripción general de la obra o del servicio relacionado con la misma y el lugar donde se llevará a cabo; y
+
+V. Establecer la fecha, hora y lugar del acto de apertura de propuestas y, en su caso, del acto de aclaraciones y de la visita al lugar en que se prestarán los servicios o se realizará la obra.
+
+Las convocatorias de las subastas a la inversa en forma electrónica o presencial, se publicarán en el portal de Internet del Consejo y tratándose de adjudicaciones por montos aplicables a la licitación pública, también en el Diario Oficial de la Federación.
+
+###### Artículo 348.
+
+Las bases públicas deberán contener como mínimo:
+
+I. El nombre de la autoridad convocante;
+
+II. La mención de tratarse de una subasta a la inversa presencial o de subasta a la inversa electrónica;
+
+III. La fecha y hora de la apertura y del cierre de la subasta;
+
+IV. Las diferencias mínimas en que los participantes podrán hacer sus propuestas de precios a la baja, expresadas en moneda nacional o extranjera y de mejores condiciones;
+
+V. La identificación de los bienes y servicios, así como la cantidad y unidad de medida en que se requieren y en el caso de resultar necesarias las muestras técnicas. En el caso de obra pública la descripción general de la misma o del servicio relacionado y el lugar donde se llevará a cabo;
+
+VI. El precio o importe de referencia de los bienes, obra pública o servicios en valores unitarios, totales, a precio alzado o de otra forma;
+
+VII. Los lugares, fechas, plazos o modo para la entrega de los bienes, obra pública o la realización de los servicios;
+
+VIII. Los términos y condiciones de pago, incluyendo los porcentajes de los anticipos que en su caso se otorgarán;
+
+IX. Las penas por incumplimiento a lo establecido en los contratos correspondientes; y
+
+X. La mención de que las condiciones fijadas en las bases no serán objeto de negociación.
+
+###### Artículo 349.
+
+La subasta a la inversa en forma electrónica se realizará dentro de los cinco días hábiles contados a partir de la fecha de publicación de la convocatoria en el Diario Oficial de la Federación y en el portal de Internet del Consejo, cuando se trate de aquellas que se realizan con base en el parámetro de licitación.
+
+La duración continuada de las subastas electrónicas será aquella que determine el Consejo sin que pueda ser inferior a cinco horas, contadas a partir de la hora de apertura, conforme lo señale la convocatoria o las bases.
+
+Hasta dos días hábiles antes de la apertura de la subasta, cualquier proveedor, contratista o prestador de servicios podrá realizar preguntas aclaratorias por medios electrónicos. El Consejo responderá a través del portal de Internet del mismo, dentro de las veinticuatro horas siguientes a su formulación.
+
+Las preguntas y respuestas se mantendrán publicadas hasta el día hábil siguiente al de conclusión de la subasta correspondiente.
+
+Los plazos para la subasta podrán modificarse, cuando se requiera dictamen técnico o por otra causa a consideración del Consejo. En este caso se deberá notificar a los participantes a través del portal de Internet del Consejo.
+
+###### Artículo 350.
+
+Las bases podrán modificarse con motivo de las aclaraciones realizadas durante el proceso, lo que se comunicará con toda claridad en el portal de Internet del Consejo. En este caso se deberá señalar nuevo día y hora para realizar la subasta a la inversa, lo que se hará constar a través del propio medio electrónico.
+
+###### Artículo 351.
+
+La apertura de la subasta se hará en la fecha y hora señaladas en la convocatoria y bases, ante la presencia de integrantes de la Contraloría y de la Dirección General de Asuntos Jurídicos, quienes participarán en el levantamiento del acta correspondiente.
+
+Iniciada la subasta, los proveedores, contratistas o prestadores de servicios autorizados, inscritos podrán enviar sus propuestas de precios a la baja por el portal de Internet del Consejo conforme a las diferencias mínimas fijadas en la convocatoria.
+
+En las propuestas del mismo valor, prevalecerá la que primeramente se haya registrado en la subasta.
+
+El cierre de la sesión de presentación de propuestas de precios a la baja será automático, emitiéndose por el mismo medio el fallo correspondiente.
+
+La adjudicación de la subasta electrónica inversa se efectuará a quien haya ofrecido el precio más bajo o la oferta más ventajosa para los intereses del Consejo.
+
+La resolución de adjudicación se emitirá por el responsable del procedimiento mediante el sistema electrónico.
+
+El procedimiento será público, por lo que cualquier interesado podrá observar la sesión de la subasta, con excepción de los datos de identificación personal de los proveedores participantes.
+
+En caso de que el postor que presentó la mejor oferta no celebre el contrato será sancionado con impedimento para participar en procedimientos de adjudicación, de conformidad con lo establecido en este Capítulo.
+
+###### Artículo 352.
+
+El acta a que se refiere el artículo anterior, deberá contener los siguientes requisitos mínimos:
+
+I. Lugar, fecha y hora de la subasta;
+
+II. Participantes identificados por número de registro;
+
+III. Detalle de las ofertas económicas presentadas;
+
+IV. Mejor oferta económica y motivo de la adjudicación; y
+
+V. Cualquier circunstancia que deba ser objeto de mención.
+
+Esta acta se levantará ante la presencia de un representante de la Contraloría y de la Dirección General de Asuntos Jurídicos.
+
+###### Artículo 353.
+
+La apertura de la subasta se hará en la fecha y hora señaladas en la convocatoria y bases, ante la presencia de integrantes de la Contraloría y de la Dirección General de Asuntos Jurídicos, quienes participarán en el levantamiento del acta correspondiente.
+
+En el acto de inicio de la subasta, los proveedores, contratistas o prestadores de servicios autorizados e inscritos manifiestan sus propuestas de precios a la baja conforme a las diferencias mínimas fijadas en la convocatoria; dándose a conocer verbalmente o por los medios idóneos las propuestas presentadas y las más baja o más conveniente al momento para el Consejo, para que todos los presentes tengan conocimiento de la misma.
+
+En las propuestas del mismo valor, prevalecerá la que primeramente se haya registrado en la subasta.
+
+El cierre de la sesión de presentación de propuestas de precios a la baja será a la hora señalada en las bases respectivas, emitiéndose el fallo correspondiente.
+
+La adjudicación se efectuará a quien haya ofrecido el precio más bajo o la oferta más ventajosa para los intereses del Consejo.
+
+El procedimiento será público, por lo que cualquier interesado podrá observar la sesión de la subasta.
+
+En caso de que el postor que presentó la mejor oferta no celebre el contrato será sancionado con impedimento para participar en procedimientos de adjudicación, de conformidad con lo establecido en este Capítulo.
+
+###### Artículo 354.
+
+La investigación de mercado prevista en este Capítulo, determinará los bienes, obra pública y servicios que podrán ser susceptibles de adquisición por subasta a la inversa.
+
+Para tal efecto y sólo para consulta, se integrará en forma anual un catálogo de bienes, obra pública y servicios susceptibles de adquirirse mediante subasta a la inversa.
+
+Dicho Catálogo se presentará por la Secretaría Ejecutiva de Administración, para aprobación del Comité, antes del treinta y uno de enero del ejercicio fiscal de que se trate. La inclusión de otros bienes, obra pública y servicios se aprobará por el Comité, previa investigación de mercado.
+
+###### Artículo 355.
+
+Al utilizarse en los procedimientos de licitación pública o invitación a cuando menos tres proveedores o contratistas, al final del acto de apertura de las propuestas se hará del conocimiento de los participantes el monto total de las propuestas económicas, y de conformidad a las bases de la licitación se realizará la subasta a la inversa en el mismo acto, o bien, el día y hora que se señale antes del fallo ya sea en forma presencial o electrónica.
+
+Los participantes podrán ofertar diferentes precios a partir de la oferta económica más baja en el procedimiento de adjudicación, en un tiempo específico y mediante pujas y repujas.
+
+SUBSECCIÓN SEXTA
+
+CONCURSO PÚBLICO SUMARIO
+
+###### Artículo 356.
+
+Aquellas contrataciones cuyo presupuesto base se ubiquen dentro de los parámetros que, en su caso, determine el Consejo, podrán ser adjudicadas conforme a lo dispuesto en el artículo 263 de este Acuerdo, mediante el procedimiento denominado concurso público sumario, teniendo las siguientes particularidades:
+
+I. Para la investigación de mercado se solicitará cotización mediante escrito dirigido a cuando menos tres proveedores o contratistas, que puedan suministrar los bienes, prestar los servicios o ejecutar la obra pública.
+
+A la solicitud de cotización se agregarán las bases del procedimiento, las cuales contendrán información que otorgue a los participantes igualdad de condiciones y acceso a la información;
+
+II. En la misma fecha en que se envíen las solicitudes de cotización a que se refiere la fracción anterior, se publicará en el portal de Internet del Consejo la convocatoria y bases del procedimiento, para lo cual el área operativa deberá realizar las acciones necesarias para llevar a cabo la publicación de las mismas;
+
+III. A las bases deberá acompañarse el proyecto de contrato, pedido u orden de servicio que se vaya a firmar;
+
+IV. Los participantes en el procedimiento contarán con un plazo máximo de cinco días hábiles para presentar sus propuestas, contados a partir del día en que se les solicite la cotización y publique la convocatoria y bases en la página de Internet del Consejo.
+
+En el caso de que se requiera realizar visita al sitio o junta de aclaraciones, el plazo antes referido se contará a partir del día siguiente al en que se realice dicho evento.
+
+Los participantes podrán presentar sus propuestas directamente en el área de adquisiciones o de obras, según corresponda, ya sea en original, servicio postal o por medios electrónicos, en la fecha y horario señalados en la convocatoria y las bases;
+
+V. La autorización de adjudicación del procedimiento la otorgará el servidor público que corresponda conforme al artículo 263, fracción IV, de este Acuerdo, mediante la firma de un punto de acuerdo, el cual deberá estar debidamente fundado y motivado respecto del proveedor o contratista a adjudicar, exponiendo las razones por las que su propuesta reúne las mejores condiciones, así como que existe la presunción de certeza que el proveedor o contratista cumplirá dentro del plazo establecido las obligaciones que asumirá con la firma del instrumento jurídico correspondiente, con base en el historial que tenga, por ser recurrente o por la información que, en su caso, sea recabada por los áreas administrativas competentes del Consejo;
+
+VI. Tomando en cuenta lo previsto en el la fracción anterior, bastará con la opinión del área especializada, siempre y cuando el pago de dichas contrataciones se pacte a ser realizado con posterioridad a la recepción de los bienes, prestación de servicios o ejecución de la obra pública, a entera satisfacción del Consejo;
+
+VII. La garantía de cumplimiento y, en su caso, la de vicios ocultos serán exigibles sólo para las contrataciones superiores al monto determinado por el Consejo.
+
+De no requerirse la garantía de cumplimiento, por la razón antes indicada, en el instrumento contractual que corresponda, en lo aplicable, será necesario exigir al adjudicado, la entrega de la garantía que cubra los requisitos a que se refiere el Capítulo IX de la Ley Federal de Protección al Consumidor; y
+
+VIII. En caso de que el proveedor, prestador de servicios o contratista a adjudicar, requiera de anticipo para la entrega de los bienes, la prestación de los servicios o ejecución de la obra pública a contratar, también será exigible la garantía de anticipo a que alude el artículo 406 de este Acuerdo.
+
+###### Artículo 357.
+
+Los concursantes podrán ser descalificados conforme a los siguientes supuestos:
+
+I. Cuando la propuesta no sea entregada dentro del plazo señalado;
+
+II. Cuando algún participante acuerde con otro u otros, fijar los precios objeto del procedimiento;
+
+III. Cuando el participante se encuentre en alguno de los supuestos de impedimento previstos en este Capítulo;
+
+IV. Cuando algún participante, durante el desarrollo del procedimiento y antes de la emisión del fallo, sea objeto de embargo, huelga estallada, concurso mercantil o liquidación;
+
+V. Cuando el participante no entregue la documentación que se señale en la convocatoria o en las bases; y
+
+VI. Cuando las propuestas presentadas no reúnan los requisitos señalados en la convocatoria y en bases.
+
+#### SECCIÓN OCTAVA. TERMINACIÓN Y SUSPENSIÓN DE LOS CONTRATOS
+
+###### Artículo 358.
+
+Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará de entre los participantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación o invitación correspondiente, las condiciones técnicas y económicas requeridas por el Consejo, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+
+Los contratos que se celebren a través de adjudicación directa serán asignados a la persona que ofrezca al Consejo las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás características pertinentes, previo estudio de mercado que se realice, en el que deberá incluirse el costo por los servicios adicionales que requiere el Consejo, como son, entre otros, garantías, fletes, instalación y, en algunos casos, capacitación.
+
+###### Artículo 359.
+
+Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por el Consejo, el contrato se adjudicará de la siguiente manera:
+
+I. En materia de obras públicas y servicios relacionados con ellas, a quien presente la propuesta que resulte económicamente más conveniente para el Consejo; y
+
+II. En materia de adquisiciones, arrendamientos y servicios, el contrato se adjudicará a quien presente la propuesta solvente cuyo precio sea el más bajo.
+
+Si derivado de la evaluación de las proposiciones se obtuviera un empate en el precio de dos o más proposiciones, la adjudicación se efectuará a favor del licitante que resulte ganador del sorteo manual por insaculación que celebre el Consejo en el propio acto del fallo, el cual consistirá en la participación de un boleto por cada propuesta que resulte empatada y depositados en una urna, de la que se extraerá en primer lugar el boleto del licitante ganador y, posteriormente, los demás boletos empatados, con lo que se determinarán los subsecuentes lugares que ocuparán tales proposiciones. Este procedimiento deberá preverse en las bases de licitación.
+
+###### Artículo 360.
+
+La propuesta solvente económicamente más conveniente para el Consejo será aquella que otorgue mayor certeza en la ejecución y conclusión de los trabajos que pretendan contratarse, por asegurar las mejores condiciones de contratación en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes; y aquella que, además reúna los criterios de evaluación previamente establecidos por el Consejo, siempre y cuando su precio o monto no exceda del 10% respecto del precio o monto de la determinada como solvente más baja, como resultado de la evaluación respectiva.
+
+SUBSECCIÓN SEGUNDA
+
+FORMALIZACIÓN Y TIPOS DE CONTRATOS
+
+###### Artículo 361.
+
+Para los efectos de este Capítulo, se denominan contratos a los convenios por los cuales se crean o transfieren obligaciones y derechos.
+
+El contrato se formalizará a través del documento en el que se hará constar el acuerdo de voluntades entre el Consejo y el proveedor o contratista, derivado del procedimiento de adjudicación.
+
+Corresponderá a la Dirección General de Asuntos Jurídicos la elaboración y actualización de los modelos de contrato que deban celebrarse en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública, para ser sometidos a la aprobación del Comité, en los términos del artículo 267, fracción IX, de este Acuerdo.
+
+###### Artículo 362.
+
+El Consejo podrá celebrar contratos abiertos para adquirir bienes, arrendamientos o servicios en que no sea posible precisar con exactitud los conceptos y cantidades materia de la contratación, conforme a lo siguiente:
+
+I. Se establecerá la cantidad mínima y máxima de los bienes, arrendamientos o servicios a contratar; o bien, el presupuesto mínimo y máximo que podrá ejercerse. La cantidad o presupuesto mínimo no podrá ser inferior al 40% de la cantidad o presupuesto máximo.
+
+En casos de bienes que se fabriquen en forma exclusiva para el Consejo, la cantidad o presupuesto mínimo que se requiera no podrá ser inferior al 80% de la cantidad o presupuesto máximo que se establezca.
+
+Se entenderá por bienes de fabricación exclusiva, los que requieren un proceso de fabricación especial determinado por el área especializada del Consejo.
+
+No se podrán establecer plazos de entrega en los cuales no sea factible producir los bienes; y
+
+II. Se hará una descripción completa de los bienes, arrendamientos o servicios con sus correspondientes precios unitarios.
+
+El Consejo, con la aceptación del proveedor, podrá realizar modificaciones a los contratos o pedidos hasta en un 20% de la cantidad o presupuesto máximo de alguna partida originalmente pactada, utilizando para su pago el presupuesto de otra u otras partidas previstas en el propio contrato, siempre que no resulte un incremento en el monto máximo total del contrato.
+
+###### Artículo 363.
+
+Para los efectos de este Capítulo los contratos de obras públicas y de servicios relacionados con las mismas podrán ser de tres tipos:
+
+I. Sobre la base de precios unitarios y tiempo determinado, en cuyo caso el importe de la remuneración o pago total que deba cubrirse al contratista se hará por unidad de concepto de trabajo terminado;
+
+II. A precio alzado y tiempo determinado, en cuyo caso el importe de la remuneración o pago total fijo deberá estar desglosado por actividades principales o por la obra totalmente terminada, ejecutada en el plazo establecido, conforme al proyecto, especificaciones y normas de calidad requeridas.
+
+El desglose de actividades deberá ser de tal forma que se puedan evaluar objetivamente los avances físicos y financieros de los trabajos, conforme a los programas de ejecución, utilización y suministros. Esto con el fin de detectar desviaciones y analizar posibles alternativas de solución.
+
+Cuando las características, magnitud y complejidad de los trabajos que se vayan a realizar lo requieran, el Consejo en los contratos a precio alzado, para efecto de medición y de pago, podrá dividir los trabajos en actividades principales de obra, en cuyo caso la responsabilidad del contratista subsistirá hasta la total terminación de los trabajos.
+
+Cuando se cuente con proyectos integrales o llave en mano, los contratos se celebrarán a precio alzado.
+
+Los contratos de este tipo no podrán ser modificados en cuanto a monto, ni estarán sujetos a ajustes de costos.
+
+Excepcionalmente el Comité, tomando en consideración las causas y razonamientos que le presente el titular del área de obras, podrá autorizar la modificación del plazo por causas no imputables al contratista que sean supervinientes a la suscripción del contrato; en ese supuesto las garantías deberán mantenerse vigentes; y
+
+III. Mixtos, cuando contengan una parte de los trabajos sobre la base de precios unitarios y otra a precio alzado.
+
+El Consejo podrá incorporar en las bases de licitación las modalidades de contratación que tiendan a garantizar las mejores condiciones en la ejecución de los trabajos, siempre que con ello no desvirtúe el tipo de contrato que se haya licitado.
+
+Los trabajos cuya ejecución comprenda más de un ejercicio fiscal deberán formularse en un solo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos, sujetos a la autorización presupuestaria, en términos de las disposiciones que regulen el proceso presupuestario.
+
+###### Artículo 364.
+
+Los contratos de obras públicas y servicios relacionados con las mismas contendrán, como mínimo, lo siguiente:
+
+I. La manifestación de que se cuenta con presupuesto para cubrir el compromiso derivado del contrato y sus anexos o, en su caso, la autorización correspondiente;
+
+II. La indicación del procedimiento conforme al cual se llevó a cabo la adjudicación del contrato;
+
+III. El precio a pagar por los trabajos objeto del contrato. En el caso de contratos mixtos, la parte y su monto que será sobre la base de precios unitarios y la que corresponda a precio alzado;
+
+IV. El plazo de ejecución de los trabajos determinado en días naturales, así como los plazos para verificar la terminación de los trabajos y la elaboración del finiquito respectivo, que se establecerán en las bases de licitación y en el contrato respectivo, de acuerdo con las características, complejidad y magnitud de los trabajos;
+
+V. Porcentaje y amortización de los anticipos que se otorguen;
+
+VI. Forma o términos y porcentajes de garantizar la correcta inversión de los anticipos, el cumplimiento del contrato, así como de los vicios ocultos a la entrega de los trabajos;
+
+VII. Plazos, forma y lugar de pago de las estimaciones de trabajos ejecutados y, cuando corresponda, de los ajustes de costos;
+
+VIII. Pena convencional por atraso en la ejecución de los trabajos por causas imputables a los contratistas, determinada únicamente en función de los trabajos no ejecutados conforme al programa convenido. El área de obras deberá fijar en el contrato, los términos, condiciones y el procedimiento, para aplicar las penas convencionales, debiendo exponer en el finiquito correspondiente las razones de su aplicación;
+
+IX. Términos en que el contratista, en su caso, reintegrará las cantidades que, en cualquier forma, hubiere recibido en exceso por la contratación o durante la ejecución de los trabajos, para lo cual se utilizará el procedimiento establecido en el artículo 376 de este Acuerdo;
+
+X. Procedimiento de ajuste de costos que deberá ser el determinado desde las bases de la licitación por el Consejo, el cual deberá regir durante la vigencia del contrato;
+
+XI. Causales y procedimiento mediante los cuales el Consejo podrá dar por rescindido el contrato en los términos del artículo 420 de este Acuerdo;
+
+XII. La descripción pormenorizada de los trabajos que se deban ejecutar, debiendo acompañar como parte integrante del contrato, en el caso de las obras, los proyectos, planos, especificaciones, normas de calidad, programas y presupuestos; tratándose de servicios, los términos de referencia; y
+
+XIII. Los procedimientos mediante las cuales las partes, entre sí, resolverán las discrepancias futuras y previsibles, exclusivamente sobre problemas específicos de carácter técnico y administrativo.
+
+###### Artículo 365.
+
+El Consejo podrá reconocer la contratación y pago de trabajos no considerados en los alcances de los contratos de obra celebrados a precio alzado, cuando se trate de trabajos extraordinarios requeridos por una necesidad de incrementar a los originalmente contratados, que se consideren necesarios para su seguimiento y conclusión, siempre y cuando se presenten los siguientes supuestos:
+
+I. Se trate de trabajos que sean provocados por factores ajenos al Consejo o al contratista; por cambios motivados por avances tecnológicos que incidan sustancialmente en la operación de las obras e instalaciones o por incrementar la eficacia o seguridad de éstas;
+
+II. Se trate de trabajos que no estén incluidos en los alcances del contrato a precio alzado, ni tengan por objeto modificar o subsanar omisiones o errores del contratista en el proyecto ejecutivo contratado o incumplimientos de éste; y
+
+III. Se trate de trabajos en los que sea posible determinar los volúmenes, cantidades, costos y alcances de éstos.
+
+###### Artículo 366.
+
+Para que sea factible el reconocimiento de los trabajos extraordinarios no considerados en los alcances de los contratos a precio alzado a que se refiere el artículo anterior, su contratación por el Consejo, operará siempre y cuando:
+
+I. Se emita un dictamen por el responsable de la ejecución de los trabajos, por el cual se fundamente y motive técnicamente la necesidad de su realización;
+
+II. Que dichos trabajos se incluyan en un contrato de obra a base de precios unitarios y tiempo determinado; y
+
+III. Que la formalización del contrato se realice por adjudicación directa al mismo contratista, sujeto a las formalidades previstas para este tipo de procedimientos de excepción.
+
+El pago de los trabajos relativos quedará sujeto a la disponibilidad presupuestaria del ejercicio fiscal de que se trate.
+
+###### Artículo 367.
+
+Los contratos deberán formalizarse dentro del plazo de quince días hábiles contados a partir de que se notifique la adjudicación.
+
+Si el interesado no firmare el contrato por causas imputables a él, en la fecha o plazo establecido en el párrafo anterior, el Comité podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato de la siguiente manera:
+
+I. En materia de adquisiciones, arrendamientos y servicios, al participante que haya presentado la siguiente proposición solvente más baja. Para el caso de obra pública y servicios relacionados con la misma, al participante que haya presentado la siguiente proposición solvente que resulte económicamente más conveniente para el Consejo;
+
+II. El orden de adjudicación no podrá ser superior al 10% de la propuesta que haya resultado ganadora;
+
+III. El interesado a quien se haya adjudicado el contrato no estará obligado a suministrar los bienes, prestar el servicio correspondiente o iniciar los trabajos, si el Consejo, por causas imputables a él, no firma el contrato.
+
+En este supuesto, el Consejo, a solicitud escrita del interesado, le cubrirá los gastos no recuperables que haya realizado para preparar y elaborar su propuesta, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el proceso de adjudicación de que se trate;
+
+IV. El atraso del Consejo en la formalización de los contratos respectivos o en la entrega de los anticipos, prorrogará en igual plazo la fecha de cumplimiento de las obligaciones asumidas por ambas partes;
+
+V. Los derechos y obligaciones que deriven de los contratos no podrán cederse en forma parcial o total a favor de otra persona, con excepción de los derechos de cobro, para lo cual se deberá contar con el consentimiento del Comité y, en su caso, con la autorización de la Contraloría; y
+
+VI. En aquellas adjudicaciones en las que a juicio del área operativa que corresponda, resulte necesario elaborar un contrato por la complejidad técnica y monto de la operación, dicho instrumento se elaborará conforme a los modelos tipo aprobados por el Comité. En caso contrario, podrá optarse por formalizar la adjudicación mediante un pedido o una orden de trabajo.
+
+Para los efectos indicados en la última parte de la fracción anterior, la Dirección General de Asuntos Jurídicos elaborará y mantendrá actualizados los modelos de pedidos y órdenes de trabajo, que contengan las disposiciones necesarias que garanticen el cumplimiento de las obligaciones a cargo de los proveedores o contratistas, los cuales previamente a su aplicación deberán ser aprobados por el Comité, de conformidad con lo dispuesto por el artículo 267, fracción IX, de este Acuerdo.
+
+###### Artículo 368.
+
+El servidor público facultado para suscribir el contrato en términos del artículo 264 de este Acuerdo podrá, dentro del presupuesto aprobado y disponible, durante la vigencia del contrato, bajo su responsabilidad y por razones fundadas y explícitas, acordar el incremento del monto del contrato; de cantidad de bienes, obra pública, arrendamientos o servicios solicitados; así como los plazos de cumplimiento, mediante modificaciones a sus contratos vigentes, siempre que no rebasen, en conjunto, el 20% del monto o cantidad de los conceptos o volúmenes establecidos originalmente en los mismos, o bien de los plazos estipulados; y el precio de los bienes, arrendamientos o servicios sea igual al pactado originalmente.
+
+En caso de que se requiera por razones extraordinarias de una modificación mayor, ésta será sometida a la autorización del Comité y por ningún motivo podrá ser superior al 30% del total del monto, cantidad o plazos contratado.
+
+Cuando la modificación incida únicamente en los plazos en materia de obra o servicios relacionados con la misma, y dicha modificación sea superior a ese porcentaje del 30%, el Comité podrá autorizarla informando de ello a la Comisión de Administración.
+
+Tratándose de contratos en los que se incluyan dos o más partidas, el porcentaje al que hace referencia el párrafo anterior, se aplicará para cada una de ellas.
+
+Cuando los proveedores, contratistas y prestadores de servicios demuestren la existencia de causas justificadas que les impidan cumplir con la entrega total de los bienes, conforme a las cantidades pactadas en los contratos, las áreas operativas podrán modificarlos mediante la cancelación de partidas o parte de las cantidades originalmente estipuladas, siempre y cuando no rebase el 20% del importe total del contrato respectivo.
+
+Cualquier modificación a los contratos deberá formalizarse por escrito por parte de las áreas operativas responsables, los instrumentos legales respectivos serán suscritos por el servidor público que haya firmado el contrato o quien lo sustituya o esté facultado para ello.
+
+El servidor público facultado para suscribir el contrato se abstendrá de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones –salvo el supuesto del párrafo siguiente- y, en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor o contratista, comparadas con las establecidas originalmente y a modificar un contrato cuya vigencia haya expirado.
+
+La modificación de especificaciones técnicas de bienes o condiciones en la prestación de servicios sólo será procedente en los casos en que resulte beneficiado el Consejo, con aprobación del Comité previo dictamen favorable del área requirente y, en su caso, de la Dirección General de Tecnologías de la Información; esto, siempre que se respeten las condiciones de precio, calidad y demás que se hayan pactado originalmente y no se altere el objeto del contrato.
+
+#### SECCIÓN NOVENA. INCONFORMIDAD
+
+SUBSECCIÓN PRIMERA
+
+PROCEDENCIA
+
+###### Artículo 369.
+
+En las contrataciones en materia de adquisiciones de bienes y servicios podrá otorgarse a los proveedores hasta el 50% de anticipo del monto total del contrato, siempre y cuando resulte conveniente para el Consejo en términos de oportunidad, calidad y precio, y sea autorizado por el Comité.
+
+Tratándose de contrataciones de adquisiciones, los anticipos se otorgarán únicamente cuando se trate de adquisición de bienes de fabricación especial o sobre diseño, y en aquéllas en que por las condiciones del mercado, y a solicitud de los proveedores, resulte necesario y no cause perjuicio al Consejo.
+
+Una vez que se determine otorgar anticipo, deberá establecerse en las bases de la licitación o en la invitación a participar, a fin de que los interesados tomen en cuenta dicha circunstancia para la elaboración de la propuesta.
+
+Los anticipos de más del 35% hasta el 50%, requerirán la autorización del Comité.
+
+###### Artículo 370.
+
+El otorgamiento del anticipo en materia de obra pública se deberá pactar en los contratos y se sujetará a lo siguiente:
+
+I. Se podrá otorgar hasta un 50% de anticipo de la asignación presupuestaria aprobada al contrato, autorizado por el Comité, para que el contratista realice en el sitio de los trabajos la construcción de sus oficinas, almacenes, bodegas e instalaciones y, en su caso, para los gastos de traslado de la maquinaria y equipo de construcción e inicio de los trabajos; así como para la compra y producción de materiales de construcción, la adquisición de equipos que se instalen permanentemente y demás insumos que deberán otorgar.
+
+Tratándose de servicios relacionados con las obras públicas, el otorgamiento del anticipo será determinado por la convocante atendiendo a las características, complejidad y magnitud del servicio.
+
+Los anticipos de más del 35% hasta el 50%, requerirán la autorización del Comité;
+
+II. El importe del anticipo concedido será puesto a disposición del contratista en un plazo no mayor a treinta días hábiles posteriores a la firma del contrato, siempre y cuando haya entregado la fianza de anticipo correspondiente;
+
+III. El importe del anticipo deberá ser considerado obligatoriamente por los licitantes para la determinación del costo financiero de su propuesta;
+
+IV. En materia de obra pública podrá otorgarse, con autorización del Comité, previo informe a la Comisión de Administración, un anticipo adicional para la adquisición de equipos y materiales de importación que se requieran para la realización de la obra, a fin de asegurar el costo de los mismos; y
+
+V. El Consejo podrá otorgar anticipos para los convenios que se celebren para contratos sobre la base de precios unitarios y mixtos en la parte correspondiente, sin que pueda exceder el porcentaje originalmente autorizado en el contrato respectivo. No se otorgarán anticipos para cubrir ajustes de costos.
+
+###### Artículo 371.
+
+El anticipo será amortizado de la siguiente manera:
+
+I. Tratándose de adquisiciones, arrendamientos y prestación de servicios, con cada pago que se realice al proveedor o contratista por entrega de los bienes o uso y disfrute del bien arrendado, descontándose el porcentaje que se haya otorgado por dicho concepto; y
+
+II. Para el caso de obra pública, la amortización deberá efectuarse proporcionalmente con cargo a cada una de las estimaciones por trabajos ejecutados que se formulen, acompañadas de la documentación que acredite su procedencia, debiéndose liquidar el saldo por amortizar en la estimación de finiquito.
+
+El anticipo adicional que se otorgue en la obra pública para la adquisición de equipos y materiales de importación será amortizado por el contratista presentando al área operativa que corresponda, una estimación y la factura correspondiente que comprenda el pago que haya realizado al proveedor de dichos equipos y materiales, acompañando copia de la factura que le haya expedido.
+
+#### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
+
+###### Artículo 372.
+
+Una vez que se haya adjudicado el contrato en materia de adquisiciones, arrendamientos y prestación de servicios, únicamente procederá el ajuste de precios en caso de que hayan ocurrido circunstancias excepcionales, no previstas, que obliguen al proveedor a modificar sus precios fundadamente.
+
+Cuando ocurran circunstancias no previstas en el contrato que originen un aumento o reducción del precio pactado o de los costos de los trabajos, el área correspondiente elaborará un informe detallado que contenga el ajuste de precios o costos, emitiendo su opinión respecto de la procedencia y se presentará al Comité, a fin de que lo autorice, de considerarlo conveniente.
+
+###### Artículo 373.
+
+Cuando a partir de la presentación de propuestas ocurran circunstancias de orden económico no previstas en el contrato que determinen un aumento o reducción de los costos de los trabajos aún no ejecutados conforme al programa pactado, dichos costos, cuando procedan, deberán ser ajustados atendiendo al procedimiento de ajuste de costos acordado por las partes en el contrato, de conformidad con lo establecido por el artículo siguiente. El aumento o reducción correspondiente deberá constar por escrito, mediante convenio.
+
+No darán lugar a ajuste de costos, las cuotas compensatorias a que, conforme a la ley de la materia, pudiera estar sujeta la importación de bienes contemplados en la realización de los trabajos.
+
+###### Artículo 374.
+
+El ajuste de costos podrá llevarse a cabo mediante cualquiera de los siguientes procedimientos:
+
+I. La revisión de cada uno de los precios del contrato para obtener el ajuste;
+
+II. La revisión por grupo de precios, que multiplicados por sus correspondientes cantidades de trabajo por ejecutar, representen cuando menos el 80% del importe total faltante del contrato; y
+
+III. En el caso de trabajos en los que se tenga establecida la proporción en que intervienen los insumos en el total del costo directo de dichos trabajos, el ajuste respectivo podrá determinarse mediante la actualización de los costos de los insumos que intervienen en dichas proporciones. En este caso, cuando los contratistas no estén de acuerdo con la proporción de intervención de los insumos ni su forma de medición durante el proceso de construcción, podrán solicitar su revisión a efecto de que sean corregidos; en el supuesto de no llegar a un acuerdo, se deberá aplicar el procedimiento señalado en la fracción I de este artículo.
+
+###### Artículo 375.
+
+La aplicación de los procedimientos de ajuste de costos a que se refiere el artículo anterior se sujetará a lo siguiente:
+
+I. Los ajustes se calcularán a partir de la fecha en que se haya producido el incremento o decremento en el costo de los insumos respecto de los trabajos pendientes de ejecutar, conforme al programa de ejecución pactado en el contrato o, en caso de existir atraso no imputable al contratista, conforme al programa que se hubiere convenido.
+
+Cuando el atraso sea por causa imputable al contratista, procederá el ajuste de costos exclusivamente para los trabajos pendientes de ejecutar conforme al programa que se hubiere convenido.
+
+Para efectos de la revisión y ajuste de los costos, la fecha de origen de los precios será la del acto de presentación y apertura de proposiciones;
+
+II. Los incrementos o decrementos de los costos de los insumos serán calculados con base en los índices nacionales de precios que determine el Banco de México; y
+
+III. Los precios originales del contrato permanecerán fijos hasta la terminación de los trabajos contratados. El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos, financiamiento y utilidad originales durante la vigencia del contrato.
+
+###### Artículo 376.
+
+Tratándose de pagos en exceso que haya recibido el proveedor o contratista, éste deberá reintegrar las cantidades pagadas en exceso más los intereses, que se calcularán conforme a una tasa que será igual a la establecida por el Código Fiscal de la Federación como si se tratara del supuesto de prórroga para el pago de créditos fiscales. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales, desde la fecha del pago hasta que se pongan efectivamente las cantidades a disposición del Consejo.
+
+No se considerará pago en exceso cuando las diferencias que resulten a cargo del contratista o del prestador de servicios sean compensadas en la estimación, factura siguiente o en el finiquito, si dicho pago no se hubiera identificado con anterioridad.
+
+En caso de rescisión o terminación anticipada del contrato, el proveedor deberá reintegrar el anticipo y, en su caso, los pagos que haya recibido de más y los intereses correspondientes calculados conforme a lo indicado con anterioridad. Los intereses se calcularán sobre el monto del anticipo no amortizado y pagos efectuados y se computarán por días naturales desde la fecha de su entrega hasta la fecha en que se pongan efectivamente las cantidades a disposición del Consejo.
+
+###### Artículo 377.
+
+Cuando ocurran circunstancias no previstas en el contrato que originen un aumento o reducción del precio pactado o de los costos de los trabajos, el área operativa que corresponda, elaborará un informe detallado que contenga el ajuste de precios o costos, emitiendo su opinión respecto de la procedencia y lo presentará al Comité, a fin de que lo autorice, de considerarlo conveniente.
+
+#### SECCIÓN SEGUNDA. COMITÉ DE ADMINISTRACIÓN INMOBILIARIA
+
+###### Artículo 378.
+
+La ejecución de los trabajos deberá iniciarse con la orden de inicio en la fecha señalada en la misma, la cual deberá ser coincidente con el contrato respectivo y, en su caso, el Consejo oportunamente pondrá al contratista en posesión, total o parcial, del inmueble en que deban llevarse a cabo los trabajos. El incumplimiento del Consejo prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos.
+
+La entrega de la posesión se hará mediante acta de entrega recepción en la que se harán constar las circunstancias de modo, tiempo y lugar.
+
+El administrador del inmueble deberá entregarlo al área de obras previo a la vigencia del contrato para que ésta haga lo propio con la contratista.
+
+Por orden de inicio se entenderá el documento emitido por el Consejo que contiene los datos generales de los trabajos a ejecutar y la fecha de inicio de los mismos.
+
+###### Artículo 379.
+
+El Consejo establecerá, según sea el caso, a los responsables de la ejecución de los trabajos en materia de obra pública y servicios relacionados con la misma, que serán la supervisión interna de obra, la supervisión técnica externa y el superintendente de construcción.
+
+###### Artículo 380.
+
+La supervisión interna deberá recaer en un servidor público designado por el área de obras, quien fungirá como su representante y será el responsable directo de la supervisión, vigilancia, control y revisión de los trabajos, incluyendo la aprobación de las estimaciones presentadas por los contratistas.
+
+Las funciones del supervisor interno serán las siguientes:
+
+I. Supervisar, vigilar, controlar y revisar los trabajos;
+
+II. Tomar las decisiones técnicas correspondientes y necesarias para la correcta ejecución de los trabajos, debiendo resolver oportunamente las consultas, aclaraciones, dudas o autorizaciones que presente el supervisor técnico externo o el contratista, con relación al cumplimiento de los derechos y obligaciones derivadas del contrato;
+
+III. Dar apertura a la bitácora, la cual quedará bajo su resguardo y, por medio, de ella dar las instrucciones pertinentes, así como recibir las solicitudes que le formule el contratista;
+
+IV. Vigilar y controlar el desarrollo de los trabajos en sus aspectos de calidad, costo, tiempo y apego a los programas de ejecución de los trabajos de conformidad con los avances, recursos asignados y rendimientos pactados en el contrato. Cuando el proyecto requiera de cambios estructurales, arquitectónicos, funcionales, de proceso, entre otros, deberá recabar por escrito las instrucciones o autorizaciones del Comité;
+
+V. Vigilar que, previamente al inicio de la obra, se cuente con los proyectos arquitectónicos y de ingeniería, especificaciones de calidad de los materiales y especificaciones generales y particulares de construcción, catálogo de conceptos con sus análisis de precios unitarios o alcance de las actividades de obra, programas de ejecución y suministros o utilización, términos de referencia y alcance de los servicios;
+
+VI. Revisar, controlar y comprobar que los materiales, la mano de obra, la maquinaria y equipos sean de la calidad y características pactadas en el contrato;
+
+VII. Autorizar las estimaciones, verificando que cuenten con los números generadores que las respalden;
+
+VIII. Coordinar con los servidores públicos e instancias responsables del Consejo, las terminaciones anticipadas o rescisiones de contratos y, cuando se justifique, las suspensiones de los trabajos, para su formalización;
+
+IX. Solicitar y, en su caso, tramitar los convenios modificatorios necesarios;
+
+X. Rendir informes periódicos, así como un informe final sobre el cumplimiento del contratista en los aspectos legales, técnicos, económicos, financieros y administrativos;
+
+XI. Preparar para su autorización y firma el finiquito del contrato;
+
+XII. Verificar la correcta conclusión de los trabajos, debiendo vigilar que la unidad que deba operar la obra, reciba oportunamente el inmueble en condiciones de operación, los planos correspondientes a la construcción final, así como los manuales e instructivos de operación y mantenimiento y los certificados de garantía de calidad y funcionamiento de los bienes instalados;
+
+XIII. Cuando exista la necesidad de realizar cambios al proyecto, a sus especificaciones o al contrato, el supervisor interno informará al Secretario Ejecutivo de Administración y, en su caso, al Comité, las circunstancias del caso a efecto de analizar las alternativas de solución y determinar la factibilidad, costo, tiempo de ejecución y necesidad de prorrogar o modificar el contrato; y
+
+XIV. Las demás funciones que le señale el titular del área de obras o el Comité.
+
+###### Artículo 381.
+
+La supervisión técnica externa es la que se realiza por contrato, cuando por las características, complejidad y magnitud de los trabajos así se requiera, quien entre otras funciones, tendrá que presentar al supervisor interno de obra la aprobación de las estimaciones para efectos de pago. Los contratos de supervisión con terceros deberán ajustarse a los lineamientos que para tal efecto determine el Consejo.
+
+Atendiendo a las características, complejidad y magnitud de la obra a realizar, el Consejo podrá auxiliarse de una supervisión externa, la cual será responsable de la supervisión, vigilancia, control y revisión de los trabajos y de verificar la procedencia de las estimaciones presentadas por los contratistas.
+
+Las funciones de la supervisión externa iniciarán simultáneamente con la ejecución de la obra, y deberán ser establecidas en los contratos que se suscriban, de conformidad con los términos de referencia de cada procedimiento de adjudicación, que en todos los casos formarán parte de aquéllos.
+
+###### Artículo 382.
+
+El superintendente de construcción, en caso de que así se requiera por la complejidad, magnitud y características de la obra, es la persona que al efecto designe el contratista, quien deberá quedar previsto en el contrato de obra pública que al efecto se suscriba. Asimismo, deberá estar facultado por el contratista para oír y recibir toda clase de notificaciones relacionadas con los trabajos, así como contar con facultades suficientes para la toma de decisiones en todo lo relativo al cumplimiento del contrato.
+
+El Consejo podrá reservarse el derecho de solicitar en cualquier momento, por causas justificadas, la sustitución del superintendente de construcción designado, teniendo la obligación el contratista de nombrar otro que reúna los requisitos exigidos.
+
+###### Artículo 383.
+
+Para la obra pública y los servicios relacionados con la misma será obligatorio el uso de la bitácora, en la cual se consignará el orden y equilibrio entre las partes que firmen el contrato, debiéndose registrar los asuntos relevantes que se presenten, los acontecimientos que resulten diferentes a los establecidos en el contrato y sus anexos, así como aquéllos que den fe del cumplimiento de eventos significativos en tiempo y situaciones ajenas a la responsabilidad de las partes, teniendo dicho documento el carácter de registro oficial y legal de la obra o los servicios. La bitácora será el medio de comunicación convencional entre las partes y estará vigente durante el desarrollo de los trabajos.
+
+La bitácora estará bajo la responsabilidad y custodia de la supervisión interna de la obra y quedará integrada en el archivo de los proyectos.
+
+La elaboración, control y seguimiento de la bitácora podrá llevarse por medios de comunicación convencional o por medios remotos de comunicación electrónica.
+
+La bitácora se ajustará atendiendo al medio de comunicación a través del cual se opere y deberá considerar, en lo aplicable, como mínimo, lo siguiente:
+
+I. Que las fojas originales y sus copias deben estar siempre foliadas y estar referidas al contrato de que se trate;
+
+II. Se debe contar al menos con un original para el Consejo y dos copias, una para el contratista y otra para la supervisión;
+
+III. Las copias deberán ser desprendibles no así las originales; y
+
+IV. El contenido de cada nota deberá precisar, según las circunstancias de cada caso: número, clasificación, fecha, descripción del asunto y, en forma adicional: ubicación, causa, solución, prevención, consecuencia económica, responsabilidad si la hubiere, y fecha de atención, así como la referencia, en su caso, a la nota que se contesta.
+
+###### Artículo 384.
+
+Para el uso de la bitácora las partes en el contrato, atendiendo al medio de comunicación a través del cual se opere, deberán observar las siguientes reglas generales:
+
+I. Se deberá iniciar con una nota especial relacionando como mínimo la fecha de apertura, datos generales de las partes involucradas, nombre y firma del personal autorizado, domicilios y teléfonos, datos del contrato y alcances descriptivos de los trabajos y de las características del sitio donde se desarrollarán; la inscripción de los documentos que identifiquen oficialmente al supervisor interno y, en su caso, al supervisor externo, así como al superintendente, quienes serán los responsables para realizar registros en la bitácora, indicando, en su caso, a quién o a quiénes se autoriza para llevar a cabo dichos registros;
+
+II. Todas las notas deberán numerarse en forma seriada y fecharse consecutivamente respetando, sin excepción, el orden establecido;
+
+III. Las notas o asientos deberán efectuarse claramente, con tinta indeleble y letra legible;
+
+IV. Cuando se cometa algún error de escritura o de redacción, la nota deberá anularse por quien la emita, abriendo de inmediato otra nota con el número consecutivo que le corresponda y con la descripción correcta;
+
+V. La nota cuyo original y copias aparezcan con tachaduras y enmendaduras será nula;
+
+VI. No se deberá sobreponer ni añadir texto alguno a las notas de bitácora ni entre renglones, márgenes o cualquier otro sitio, de requerirse se deberá abrir otra nota haciendo referencia a la de origen;
+
+VII. Se deberán cancelar los espacios sobrantes de una foja al completarse el llenado de las mismas;
+
+VIII. Una vez firmadas las notas de la bitácora los interesados podrán retirar sus respectivas copias;
+
+IX. Todas las notas deberán quedar cerradas y resueltas, o especificarse que su solución será posterior, debiendo en este último caso, relacionar la nota de resolución con la que le dé origen; y
+
+X. El cierre de la bitácora se consignará en una nota que dé por terminados los trabajos.
+
+###### Artículo 385.
+
+Para cada una de las bitácoras se deberá especificar su uso, precisando como mínimo los siguientes aspectos, los cuales deberán asentarse inmediatamente después de la nota de apertura:
+
+I. Horario en el que se podrá consultar y asentar notas, el que deberá coincidir con las jornadas de trabajo de campo;
+
+II. Prohibir la modificación de las notas ya firmadas, así sea por el responsable de la anotación original;
+
+III. Establecer la obligación de asentar en la bitácora los aspectos relativos a la revisión y autorización de estimaciones, números generadores, cantidades adicionales o conceptos no previstos en el contrato, así como lo relacionado con las normas de seguridad, higiene y protección al ambiente que deban implementarse; y
+
+IV. En los casos en que la elaboración, control y seguimiento de la bitácora se realice por medios de comunicación convencionales, ésta deberá permanecer en la obra, a fin de que las consultas requeridas se efectúen en el sitio, sin que la bitácora pueda ser sustraída del lugar de los trabajos.
+
+###### Artículo 386.
+
+Por lo que se refiere a contratos de servicios, la bitácora deberá contener como mínimo las modificaciones autorizadas a los alcances del contrato, las ampliaciones o reducciones de los mismos y los resultados de las revisiones que efectúe el Consejo, así como las solicitudes de información que tenga que hacer el contratista, para efectuar las labores encomendadas.
+
+###### Artículo 387.
+
+La elaboración, control y seguimiento de la bitácora por medios remotos de comunicación electrónica requerirá:
+
+I. La existencia del programa informático relativo para el uso de la bitácora, el cual será autorizado por la Contraloría y deberá garantizar la inalterabilidad de la información que se registre;
+
+II. El medio de identificación electrónica; y
+
+III. La certificación del medio de identificación electrónica.
+
+###### Artículo 388.
+
+El contratista será el único responsable de la ejecución de los trabajos y deberá sujetarse a todos los ordenamientos jurídicos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, protección ecológica y de medio ambiente que rijan en el ámbito federal o local, así como a las instrucciones que al efecto le señale el Consejo.
+
+Las responsabilidades y los daños y perjuicios que resultaren por su inobservancia serán a cargo del contratista.
+
+###### Artículo 389.
+
+Las estimaciones de los trabajos ejecutados se deberán formular con una periodicidad no mayor de un mes. El contratista deberá presentarlas a la supervisión en los términos establecidos en el contrato, considerando las características, magnitud y complejidad de los trabajos a ejecutar, debiendo acompañar la documentación que acredite la procedencia de su pago. En el supuesto de que surjan diferencias técnicas o numéricas que no puedan ser autorizadas, éstas se resolverán e incorporarán en la siguiente estimación.
+
+Las estimaciones por trabajos ejecutados deberán pagarse por parte del Consejo, cuando éstas hayan sido autorizadas por la supervisión.
+
+El Consejo podrá establecer en las bases y en el contrato que al efecto se celebre, el pago a contratistas a través de medios electrónicos.
+
+###### Artículo 390.
+
+Para la medición y pago de los trabajos, se deberá utilizar la red de actividades con ruta crítica, cédulas de avances y de pagos programados y el programa de ejecución de los trabajos, los que deben ser congruentes y complementarios entre sí.
+
+###### Artículo 391.
+
+La red de actividades es la representación gráfica del proceso constructivo que seguirá el contratista para realizar los trabajos, en la que se deberán contemplar las actividades a realizar, indicando su duración y secuencia de ejecución, así como las relaciones existentes con las actividades que las anteceden y las que le proceden, a efecto de calcular las fechas de inicio y de terminación y las holguras de cada una de ellas.
+
+###### Artículo 392.
+
+La cédula de avances y de pagos programados es una tabla o matriz en la que el contratista muestra todas las actividades que le representan un costo.
+
+En la cédula el contratista deberá definir las cantidades y el importe de trabajos a ejecutar mensualmente, a efecto de reflejar el avance físico y financiero que tendrán los mismos.
+
+###### Artículo 393.
+
+En el programa de ejecución de los trabajos el contratista deberá desglosar las actividades principales de la obra a realizar y representar en forma gráfica, mediante diagrama de barras, la fecha de inicio y terminación, así como la duración de cada actividad en los que se realizará la obra o servicio de que se trate.
+
+Para efecto de seguimiento y control de los trabajos, las actividades principales de obra podrán desglosarse en subactividades, las que no deberán afectar la estructura de la red de actividades ni las cantidades y costos indicados en las cédulas de avances y de pagos programados que sirvieron de base para adjudicar el contrato respectivo.
+
+###### Artículo 394.
+
+El desglose de actividades deberá ser de tal forma que se puedan evaluar objetivamente los avances físicos y financieros de los trabajos, conforme a los programas de ejecución, utilización y suministros; esto con el fin de detectar desviaciones y analizar posibles alternativas de solución.
+
+Cuando durante la ejecución de los trabajos se detecten desviaciones que no afecten el costo o el plazo de los trabajos pactados en el contrato, se podrá realizar una revisión a la red de actividades para estructurar las medidas correctivas que permitan el cumplimiento del contrato.
+
+###### Artículo 395.
+
+Para efectos de medición y pago de los trabajos contratados a precio alzado, el Consejo reprogramará las actividades principales de obras, a efecto de compensar las actividades no realizadas pero contempladas en el programa original del proyecto, por las no incluidas en dicho programa pero sí ejecutadas, sin que esto implique la modificación al monto o plazo originalmente pactados.
+
+Cuando los trabajos ejecutados no correspondan a los alcances, la cantidad o los volúmenes requeridos en las bases de licitación, en las especificaciones del contrato o en la propuesta del contratista adjudicado, el Consejo realizará descuentos o deductivas al monto inicialmente convenido en el contrato original a precio alzado o en la parte del mixto de la misma naturaleza.
+
+SUBSECCIÓN SEGUNDA
+
+RECEPCIÓN DE LOS BIENES Y DE LOS TRABAJOS
+
+###### Artículo 396.
+
+El área operativa responsable de la recepción de los bienes y de los servicios prestados, verificará que se cumplan las especificaciones establecidas en el contrato respectivo.
+
+El área operativa que corresponda, bajo su responsabilidad, estará obligada a mantener adecuada y satisfactoriamente los bienes muebles a su cargo, a partir de que éstos sean recibidos de conformidad por el Consejo.
+
+###### Artículo 397.
+
+El contratista comunicará al Consejo la conclusión de los trabajos que le fueron encomendados para que éste, dentro del plazo pactado, verifique la debida terminación de los mismos conforme a las condiciones establecidas en el contrato. Al finalizar la verificación de los trabajos, el Consejo contará con un plazo de cinco días naturales para proceder a su recepción física, mediante el levantamiento del acta correspondiente, quedando los trabajos bajo su responsabilidad.
+
+Se deberá invitar a la Contraloría al evento de entrega-recepción de los trabajos, para que participe en el ámbito de sus atribuciones. La Secretaría Ejecutiva de Administración informará al Comité de la formalización del acta de entrega- recepción respectiva.
+
+Recibidos físicamente los trabajos, las partes deberán elaborar dentro del término estipulado en el contrato, el finiquito de los trabajos, en el que se harán constar los créditos a favor o en contra que resulten para cada uno de ellos, describiendo el concepto general que les dio origen y el saldo resultante.
+
+De existir desacuerdo entre las partes respecto al finiquito, o bien, el contratista y, en su caso, el director responsable de obra y el supervisor externo, no acudan al Consejo para su elaboración dentro del plazo señalado en el contrato, éste procederá a elaborarlo, debiendo comunicar su resultado al contratista, director responsable de obra y supervisor externo, dentro de un plazo de diez días naturales, contados a partir de su emisión.
+
+Determinado el saldo total, el Consejo pondrá a disposición del contratista el pago correspondiente, mediante su ofrecimiento o la consignación respectiva, o bien, solicitará el reintegro de los importes resultantes; debiendo, en forma simultánea, levantar el acta administrativa que dé por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
+
+###### Artículo 398.
+
+Tratándose de contrataciones realizadas por las Administraciones Regionales y Administraciones de Edificios, ellas serán las responsables de la recepción de los bienes, los servicios prestados y de los trabajos de obra pública correspondientes, debiendo proceder conforme lo señalado en el artículos 396 y 397, e informar sobre la recepción a la Coordinación de Administración Regional o al área de adquisiciones o de obras, según corresponda.
+
+###### Artículo 399.
+
+Una vez concluida la obra o parte utilizable de la misma, cuando así se haya previsto en el contrato, el Consejo vigilará que la unidad que debe operarla reciba oportunamente el inmueble en condiciones de operación, los planos correspondientes a la construcción final, las normas y especificaciones que fueron aplicadas durante su ejecución, así como los manuales e instructivos de operación y mantenimiento correspondientes y los certificados de garantía de calidad y funcionamiento de los bienes instalados.
+
+SUBSECCIÓN TERCERA
+
+FINIQUITO Y CONCLUSIÓN DE LOS CONTRATOS
+
+###### Artículo 400.
+
+El área operativa que corresponda, para dar por concluidos, parcial o totalmente, los derechos y obligaciones asumidos por las partes en los contratos, deberá elaborar el finiquito en el caso de los contratos de adjudicación directa por monto, según corresponda, anexando el acta recepción física de los trabajos, bienes o servicios. El finiquito será definitivo y sin posibilidad a ulterior reclamación.
+
+De conformidad con sus atribuciones, la Contraloría podrá dictaminar finiquitos presentados por las áreas operativas dentro del término de quince días hábiles, cuando deriven de contratos adjudicados a través del procedimiento de licitación pública, concurso público sumario, de invitación a cuando menos tres proveedores o contratistas y adjudicación directa.
+
+El finiquito de los contratos que la Contraloría determine no dictaminar, serán finiquitados sin más trámite, bajo la más estricta responsabilidad del área operativa, debiendo informar a la Contraloría de su resultado y sin perjuicio de que ésta los revise cuando lo considere conveniente.
+
+###### Artículo 401.
+
+El área operativa competente deberá notificar al contratista o proveedor y, en su caso, al Director Responsable de Obra y al Supervisor Externo, tratándose de supervisión externa, la fecha, lugar y hora en que se llevará a cabo el finiquito, el que deberá realizarse dentro de un plazo máximo de sesenta días naturales contados a partir de la fecha en que se realice la recepción física de los trabajos, bienes o servicios, el cual incluye el término con el cual cuenta la Contraloría para emitir dictamen, en su caso. Los contratistas o proveedores, Director Responsable de Obra y Supervisor Externo, en su caso, tendrán la obligación de acudir al llamado que se les haga por escrito; de no hacerlo, se les comunicará el resultado conforme lo establece el tercer párrafo del artículo 397 de este Acuerdo.
+
+###### Artículo 402.
+
+El documento donde conste el finiquito de los trabajos en materia de obra pública, formará parte del contrato y deberá contener como mínimo lo siguiente:
+
+I. Lugar, fecha y hora en que se realice;
+
+II. Nombre y firma del residente de obra, del supervisor interno y, en su caso, del director responsable de obra y del supervisor externo, así como del superintendente de construcción de la contratista;
+
+III. Descripción de los trabajos y de los datos que se consideren relevantes del contrato correspondiente;
+
+IV. Importe contractual y real del contrato, el cual deberá incluir los volúmenes reales ejecutados de conformidad con el contrato y con los convenios celebrados;
+
+V. Periodo de ejecución de los trabajos, precisando la fecha de inicio y terminación contractual y el plazo en que realmente se ejecutaron, incluyendo los convenios;
+
+VI. Relación de las estimaciones, indicando los gastos aprobados, así como los créditos a favor y en contra de cada una de las partes, señalando los conceptos generales que le dieron origen y su saldo resultante, así como la fecha, lugar y hora en que fueron o serán liquidadas;
+
+VII. Las razones que justifiquen la aplicación de penas convencionales o de sobrecostos;
+
+VIII. Datos de la estimación final;
+
+IX. Constancia de entrega de garantía por defectos y vicios ocultos de los trabajos y cualquier otra responsabilidad en que hubieren incurrido; y
+
+X. La declaración, en su caso, de que el contratista extiende el más amplio finiquito que en derecho proceda, renunciando a cualquier acción legal que tenga por objeto reclamar cualquier pago relacionado con el contrato.
+
+Cuando la liquidación de los saldos se realice dentro de los quince días naturales siguientes a la firma del finiquito, el documento donde conste el finiquito podrá utilizarse como el acta administrativa que da por extinguidos los derechos y obligaciones de las partes en el contrato, debiendo agregar únicamente una manifestación de las partes de que no existen otros adeudos y, por lo tanto, se darán por extinguidos los derechos y obligaciones que genera el contrato respectivo, sin derecho a ulterior reclamación; en caso contrario, se procederá a elaborar el acta administrativa prevista en el último párrafo del artículo 397 de este Acuerdo.
+
+###### Artículo 403.
+
+Si del finiquito resulta que existen saldos a favor del proveedor o contratista, el Consejo deberá liquidarlos como lo señala el segundo párrafo del artículo 389 de este Acuerdo.
+
+Si del finiquito resulta que existen saldos a favor del Consejo, su importe se deducirá de las cantidades pendientes por cubrir por concepto de trabajos ejecutados o entregados y si no fueran suficientes éstos, deberá exigirse su reintegro. En caso de no obtenerse reintegro, el Consejo podrá hacer efectivas las garantías que se encuentren vigentes. El finiquito se considera como un documento base de la acción para exigir el pago de las cantidades pendientes por cubrir a favor del Consejo.
+
+#### SECCIÓN TERCERA. RESPONSABLE INMOBILIARIO
+
+###### Artículo 404.
+
+En las contrataciones que realice el Consejo en las materias objeto de este Capítulo, los proveedores y contratistas deberán otorgar a favor del propio Consejo las garantías previstas en esta Subsección.
+
+Dichas garantías podrán constituirse mediante fianza otorgada por institución debidamente autorizada, depósito en efectivo en la cuenta que se señale por el Consejo, cheque certificado o por cualquier otro medio que autorice el Comité.
+
+###### Artículo 405.
+
+Para el cumplimiento de las obligaciones a cargo de los proveedores o contratistas, derivadas de los contratos que se celebren en la materia y que excedan la cantidad equivalente a diez veces el salario mínimo general mensual vigente en el Distrito Federal, fijado por la Comisión Nacional de Salarios Mínimos, elevado a un año en el momento de la contratación, la garantía que deberá presentarse será por un monto equivalente al 10% del total del contrato respectivo, sin contar el impuesto al valor agregado.
+
+La garantía de cumplimiento deberá presentarse, como máximo, dentro de los cinco días hábiles siguientes a la fecha de firma del contrato. En caso contrario, el Consejo podrá rescindir el contrato y lo asignará conforme a lo dispuesto por los artículos 329 y 367 de este Acuerdo.
+
+La garantía deberá permanecer vigente hasta el cumplimiento total del objeto del contrato, incluyendo, en su caso, la modificación del plazo que se autorice. En su oportunidad, el área operativa que corresponda, deberá expresar por escrito la procedencia de la devolución y cancelación de la misma.
+
+Podrá exceptuarse a los contratistas de presentar la garantía del cumplimiento en los siguientes casos:
+
+I. Se trate de contrataciones urgentes;
+
+II. Se trate de servicios relacionados con las obras públicas prestados por una persona física, siempre que éstos sean realizados por ella misma, sin requerir de la utilización de más de un especialista o técnico; y
+
+III. A juicio del Comité así resulte conveniente a los intereses del Consejo o por las circunstancias de mercado o por su costo no resulte conveniente pactar esta garantía.
+
+###### Artículo 406.
+
+En caso de que se haya autorizado otorgar anticipos, previamente a su recepción, los proveedores o contratistas, deberán constituir garantía equivalente al 100% del anticipo, para garantizar su debida aplicación o, en su caso, la devolución del importe recibido. Dicha garantía deberá presentarse, como máximo, dentro de los diez días hábiles siguientes a la fecha de firma del contrato.
+
+La garantía deberá constituirse en la misma moneda en la que se otorgue el anticipo de acuerdo con las disposiciones legales aplicables, permanecerá vigente hasta la amortización total del mismo y deberá contener la indicación expresa de que el otorgante acepta continuar garantizando el monto cubierto para el caso de que se autoricen modificaciones de los plazos de cumplimiento, al proveedor.
+
+Para liberar la garantía relativa a la debida inversión del anticipo, el área operativa que corresponda deberá manifestar su conformidad por escrito, en virtud de haber sido totalmente amortizado el anticipo otorgado.
+
+De no haber surgido responsabilidad a cargo del proveedor al término de la vigencia de la garantía, el área operativa que corresponda emitirá por escrito su conformidad para su cancelación.
+
+En materia de obra pública, en caso de que otorgue anticipo adicional para la adquisición de equipo y materiales de importación, se presentará adicionalmente, una garantía equivalente al 100% del anticipo, a fin de garantizar su debida inversión, en los términos señalados.
+
+###### Artículo 407.
+
+Concluidos los trabajos en materia de obra pública y entregados los bienes y servicios, que así lo ameriten, el contratista o proveedor quedará obligado a responder de los defectos que resultaren en los mismos, de los vicios ocultos y de cualquier otra responsabilidad en que hubiere incurrido, en los términos señalados en el contrato respectivo, en este Capítulo y en las disposiciones aplicables.
+
+Los trabajos de obra pública, en su caso, los bienes y servicios se garantizarán durante un plazo de doce meses por el cumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que previamente a la recepción de los trabajos, los contratistas, a su elección, deberán constituir fianza por el equivalente al 10% del monto total contratado; presentar una carta de crédito irrevocable, o bien, aportar recursos líquidos equivalentes por el monto que determine el Consejo, en cuentas que éste contrate en alguna institución bancaria para tal efecto, en todos los casos se incluirá el impuesto al valor agregado y los convenios que se hayan celebrado en su caso.
+
+Los contratistas, en su caso, deberán solicitar el retiro de sus aportaciones en recursos líquidos y los respectivos rendimientos, transcurridos doce meses a partir de la fecha de recepción de los trabajos. En igual plazo quedará automáticamente cancelada la fianza o carta de crédito irrevocable, según sea el caso.
+
+En caso de presentarse vicios ocultos o responsabilidades a cargo del proveedor o contratista, el área operativa que corresponda se lo comunicará por escrito, y si no lo corrige dentro del plazo que se le otorgue para tal efecto, se hará efectiva la garantía, sin perjuicio de las acciones legales que pudiera emprender el Consejo.
+
+Quedarán a salvo los derechos del Consejo para exigir el pago de las cantidades no cubiertas de la indemnización que a su juicio corresponda, una vez que se hagan efectivas las garantías constituidas conforme a este artículo.
+
+Esta garantía deberá ser entregada dentro del plazo de cinco días hábiles contados a partir de la fecha de recepción de los bienes o servicios, o bien, de los trabajos de obra pública o servicios relacionados.
+
+###### Artículo 408.
+
+Las garantías a que se refiere esta Subsección deberán contar invariablemente con la aprobación de la Dirección General de Asuntos Jurídicos, en el sentido de que cumplen con los requisitos legales correspondientes.
+
+SUBSECCIÓN SEGUNDA
+
+PENAS CONVENCIONALES
+
+###### Artículo 409.
+
+El incumplimiento de cualquiera de las obligaciones adquiridas por parte del proveedor o contratista en los contratos o pedidos, dará lugar a la imposición de una pena convencional.
+
+En caso de incumplimiento parcial, la pena se ajustará proporcionalmente al porcentaje incumplido.
+
+###### Artículo 410.
+
+En el caso de que no se otorgue prórroga al proveedor o contratista respecto al cumplimiento de los plazos establecidos en el contrato por causas imputables a él, se aplicará una pena convencional por atraso en la entrega de los bienes, prestación de los servicios o trabajos, equivalente al monto que resulte de aplicar el diez al millar diario a la cantidad que importen los bienes pendientes de entrega, los servicios no prestados o trabajos.
+
+En determinados servicios o trabajos en que su prestación se requiera bajo condiciones especiales para el Consejo, el Comité podrá autorizar que en las bases y en los pedidos o contratos, se establezca una pena convencional bajo criterios diferentes a los señalados en el párrafo anterior, que invariablemente deberá ser proporcional al incumplimiento o retraso en la ejecución de tales servicios.
+
+El importe que resulte de la pena por atraso se descontará del pago que se le deba al proveedor o contratista.
+
+En materia de obra pública las penas serán determinadas en función del importe de los trabajos que no se hayan ejecutado o prestado oportunamente, conforme al programa de ejecución general, aun en el caso de los contratos a precio alzado, y se aplicarán en los de precios unitarios o en su parte del mixto considerando los ajustes de costos, sin aplicar el impuesto al valor agregado.
+
+Las penas convencionales en ningún caso podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento.
+
+En caso de rescisión del contrato por causas imputables al contratista, una vez emitida la determinación respectiva, el Consejo desde el inicio de la misma, se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito en el plazo que conforme al contrato proceda. En el finiquito deberá preverse el sobrecosto de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, hayan sido entregados.
+
+El Secretario Ejecutivo de Administración podrá optar entre aplicar las penas convencionales o el sobrecosto que resulte de la rescisión, debiendo motivar las causas de la aplicación de uno o de otro.
+
+###### Artículo 411.
+
+El Consejo podrá gestionar que se haga efectiva la garantía presentada por el proveedor o contratista para garantizar el cumplimiento de las obligaciones derivadas del contrato, en caso de cualquier incumplimiento a él imputable, sin perjuicio de las demás acciones legales que determine el Consejo.
+
+###### Artículo 412.
+
+En caso de que se haya otorgado anticipo al proveedor o contratista y que no sea debidamente invertido, amortizado o reintegrado al Consejo, podrá hacerse efectiva la garantía respectiva.
+
+Para tal efecto, el área operativa que corresponda deberá elaborar un informe respecto del anticipo no amortizado el cual deberá contener la opinión de la Dirección General de Asuntos Jurídicos, a fin de presentarse al Comité para los efectos conducentes.
+
+###### Artículo 413.
+
+En materia de obra pública el Consejo, tratándose de contratos a precios unitarios, durante la obra o el servicio relacionado con la misma, tendrá la facultad de verificar si los trabajos objeto del contrato se están ejecutando de conformidad con el programa de ejecución aprobado o vigente, para lo cual comparará mensualmente el avance del proyecto integral.
+
+Si como consecuencia de la comparación a que se refiere el párrafo anterior, el avance de los trabajos ejecutados es menor al que debió realizar con base en el programa vigente, el Consejo podrá retener el 0.5% de la diferencia de dichos importes, el cual será multiplicado por el número de días transcurridos desde la fecha programada para la iniciación de los trabajos que presenten atraso hasta la revisión; por lo tanto, mensualmente se hará la retención o devolución que corresponda, a fin de que la retención total sea liquidada.
+
+Si conforme a lo estipulado anteriormente, al efectuarse la comparación correspondiente al último mes del programa, procede hacer alguna retención, su importe se aplicará en beneficio del Consejo a título de pena convencional, por el simple retraso en el cumplimiento de las obligaciones a cargo de la contratista.
+
+###### Artículo 414.
+
+Cuando la contratista, por causas imputables a ella misma, exceda el plazo estipulado en el contrato de obra pública deberá cubrir el importe diario de la plantilla de personal de la supervisión externa que haya contratado el Consejo, de conformidad con los precios autorizados y respetando la forma de pago pactada para dicha plantilla, durante la ejecución de los trabajos o en el periodo de finiquito, independientemente de las penas convencionales a que se haga acreedora.
+
+###### Artículo 415.
+
+En caso de detectarse que no se han ejecutado determinados trabajos en los contratos celebrados que ya fueron pagados, el Consejo procederá a realizar el cálculo del importe de los mismos, a fin de aplicar la deductiva correspondiente.
+
+Igualmente, podrán revisar la calidad de los trabajos ejecutados verificando que cumplan con las especificaciones solicitadas para éstos, por lo que en el supuesto de encontrarse deficiencias en la calidad de los trabajos, procederán a practicar una evaluación para determinar la corrección o reposición de los mal ejecutados, o bien, la aplicación de la deductiva que corresponda.
+
+En ambos casos, la deductiva se hará efectiva en el siguiente pago, estimación o la de finiquito.
+
+Lo anterior, sin perjuicio de aplicar las penas convencionales que procedan y, en su caso, hacer efectiva la garantía correspondiente.
+
+#### SECCIÓN CUARTA. ACCIONES PREVIAS AL ARRENDAMIENTO
+
+###### Artículo 416.
+
+Los contratos celebrados en la materia objeto de este Capítulo podrán darse por terminados, sin responsabilidad para el Consejo, en los siguientes supuestos:
+
+l. Por cumplimiento de su objeto;
+
+ll. Por nulidad;
+
+lll. Por rescisión;
+
+lV. Por sobrevenir caso fortuito o fuerza mayor;
+
+V. Por razones de orden público o de interés general; y
+
+VI. Por mutuo consentimiento.
+
+Las causas de rescisión serán las previstas en los instrumentos contractuales respectivos.
+
+###### Artículo 417.
+
+Se tendrán por terminados los contratos por cumplimiento de su objeto cuando se hayan satisfecho totalmente las obligaciones derivadas de ellos o, en su caso, al tratarse de contratos en los que se presten servicios por un periodo determinado, haya transcurrido el plazo de su vigencia.
+
+###### Artículo 418.
+
+La ilegalidad de los contratos sobrevendrá en virtud de haberse celebrado en contravención de las disposiciones de este Capítulo y demás que resulten aplicables, en cuyo caso, el Comité declarará su nulidad, resolviendo respecto de las acciones que procedan.
+
+Cuando se determine la nulidad total de un contrato por causas únicamente imputables al Consejo, a solicitud del proveedor o contratista se cubrirán los gastos no recuperables, los cuales se ajustarán a los conceptos enunciados en este Capítulo.
+
+###### Artículo 419.
+
+En caso de incumplimiento en las obligaciones a cargo de los proveedores y contratistas, el área operativa que corresponda deberá presentar al Comité un informe en el que proponga las acciones a tomar, a fin de que se instruya el procedimiento correspondiente.
+
+El informe a que se refiere el párrafo anterior deberá especificar las circunstancias de tiempo, modo y ocasión del incumplimiento.
+
+###### Artículo 420.
+
+En caso de incumplimiento de las obligaciones a cargo del proveedor o contratista por causas imputables a él, el Comité podrá determinar de manera unilateral la rescisión administrativa de las relaciones contractuales celebradas conforme a este Capítulo, sin necesidad de declaración judicial.
+
+No obstante lo previsto en el párrafo anterior, a solicitud debidamente justificada por escrito que formule el proveedor o contratista, el Comité podrá autorizar que se modifiquen las obligaciones contraídas originalmente, así como los plazos respectivos, a fin de que cumpla con las mismas. Lo anterior, sin perjuicio de que dicho órgano se pronuncie sobre la aplicación de las penas que, en su caso, procedan. En todo caso se deberá observar lo dispuesto en el artículo 368 de este Acuerdo y demás disposiciones aplicables.
+
+En caso de ser autorizada la modificación al proveedor o contratista, se elaborará un convenio modificatorio con la participación de la Dirección General de Asuntos Jurídicos, debiéndose verificar que la garantía presentada respecto del cumplimiento de las obligaciones continúe vigente o se otorgue una nueva para garantizar los términos de dicho convenio.
+
+Si no se autoriza la modificación o si autorizada persiste incumplimiento, en todo caso deberá iniciarse procedimiento de rescisión y la aplicación de las penas establecidas en los contratos.
+
+El procedimiento de rescisión se llevará a cabo conforme a lo siguiente:
+
+I. Se iniciará a partir de que el área operativa que corresponda comunique por escrito al proveedor o contratista el incumplimiento en que haya incurrido, para que en un término de tres días hábiles exponga lo que a su derecho convenga, y presente, en su caso, las pruebas idóneas que estime pertinentes.
+
+Tratándose de prueba pericial deberá presentarse, dentro de dicho término, con el dictamen correspondiente;
+
+II. Transcurrido el término a que se refiere la fracción anterior, el área operativa que corresponda propondrá al Comité para su consideración y, en su caso, aprobación, la resolución de rescisión administrativa acompañando los elementos, documentación y pruebas que en su caso se hubieren hecho valer; y
+
+III. La determinación de dar o no por rescindido el contrato deberá ser debidamente fundada, motivada y comunicada al proveedor o contratista.
+
+###### Artículo 421.
+
+Los contratos podrán darse por terminados en cualquier momento de su vigencia, sin responsabilidad para las partes, por caso fortuito o fuerza mayor.
+
+Si por caso fortuito o fuerza mayor los proveedores o contratistas optan por la terminación anticipada del contrato, con la documentación comprobatoria solicitarán por escrito al Consejo su aprobación, el cual deberá dar respuesta dentro de un plazo de quince días hábiles; en el supuesto de que el Consejo no conteste en dicho plazo, se tendrá por aceptada la petición del proveedor o contratista. El área operativa que corresponda efectuará el análisis correspondiente y emitirá un informe que deberá contener la opinión de la Dirección General de Asuntos Jurídicos, la cual presentará al Comité para su aprobación.
+
+En caso de negativa, será necesario que los proveedores o contratistas obtengan de la autoridad judicial la declaratoria correspondiente.
+
+Cuando la terminación del contrato sea con motivo de caso fortuito o fuerza mayor, el Consejo no deberá realizar pago alguno por concepto de gastos no recuperables.
+
+###### Artículo 422.
+
+La Comisión de Administración podrá dar por terminados los contratos anticipadamente por razones justificadas, de orden público o de interés general, bastando para ello una comunicación que dirija por escrito en este sentido, y sin más responsabilidad que la de cubrir el importe de los trabajos que efectivamente se hayan ejecutado hasta entonces y los gastos no recuperables, siempre y cuando se relacionen directamente con los trabajos objeto del contrato.
+
+En materia de obra pública, los gastos no recuperables serán los siguientes:
+
+I. Los gastos no amortizados por concepto de:
+
+a) La construcción de oficinas, almacenes, bodegas, campamentos e instalaciones en el sitio de los trabajos. Al ser liquidados estos gastos, las construcciones serán del Consejo;
+
+b) Oficinas, almacenes, bodegas, campamentos e instalaciones rentados por el contratista, con el objeto de atender directamente las necesidades de la obra;
+
+c) La instalación y montaje de plantas de construcción, talleres y su retiro; y
+
+d) La parte proporcional del costo de transporte de ida y vuelta de la maquinaria o equipo de construcción y de plantas y elementos para instalaciones de conformidad con los programas de utilización correspondientes, y la expedición de la garantía de cumplimiento del contrato.
+
+II. El importe de los materiales y equipos de instalación permanente adquiridos por el contratista y que se encuentren en el sitio de los trabajos, camino a éste, terminados o habilitados en los talleres o fábricas correspondientes, siempre que cumplan con las especificaciones de calidad y que la cuantía sea acorde con las cantidades de obra pendientes de ejecutar según los programas convenidos; y
+
+III. Liquidación del personal obrero y administrativo directamente adscrito a la obra, siempre y cuando no sean empleados permanentes del contratista.
+
+###### Artículo 423.
+
+Los contratos podrán darse por terminados por mutuo consentimiento, cuando así convenga a los intereses de ambas partes. El motivo por el cual resulte conveniente dar por terminado el contrato deberá estar debidamente justificado.
+
+Para tal efecto, el área operativa elaborará un informe que contenga la fundamentación y motivación correspondientes, así como la existencia o no de perjuicios que se causen al Consejo y someterá dicho informe a la consideración del Comité para su aprobación.
+
+Únicamente podrá darse por terminado el contrato en los términos de este artículo en caso de que el proveedor o contratista no haya incurrido en alguna causal de incumplimiento.
+
+###### Artículo 424.
+
+Por acuerdo del Comité, la Secretaría Ejecutiva de Administración podrá suspender temporalmente, en todo o en parte, el suministro de bienes, arrendamientos o la prestación de los servicios contratados por causa plenamente justificada y acreditada. El área operativa que corresponda determinará la temporalidad de ésta.
+
+###### Artículo 425.
+
+El Consejo, a través del área operativa que corresponda, podrá suspender en todo o en parte, los trabajos contratados por cualquier causa justificada o por razones de interés general, sin que implique su terminación definitiva. Asimismo, podrá ordenar la suspensión y determinar la temporalidad de ésta, sin que pueda ser indefinida; debiendo rendir el informe correspondiente al Comité de dicha suspensión y sus razones. En los casos que así lo determine el Comité podrá ordenar dicha suspensión.
+
+En caso de que la reanudación de los trabajos esté ligada a un hecho de realización cierta, pero de fecha indeterminada, el periodo de la suspensión estará sujeto a la actualización de ese evento, sin perjuicio de que se pueda optar por la terminación anticipada.
+
+El área operativa que corresponda deberá comunicar por escrito a los contratistas, por lo menos con tres días hábiles de anticipación, la fecha en que operará la suspensión, procediendo en los mismos términos cuando desaparezcan las causas o razones que la originaron, modificando también en su caso, o actualizando por razón del tiempo que dure la suspensión las garantías otorgadas a las nuevas condiciones. En dicha notificación se señalará el plazo máximo de la suspensión, cuyo término podrá ser diferido por el Comité en una sola ocasión.
+
+Cuando se determine la suspensión de los trabajos, el Consejo pagará los trabajos ejecutados, así como los gastos no recuperables, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato de que se trate.
+
+Dichos gastos no recuperables se limitarán a:
+
+I. Las rentas de equipo o, si resulta más barato, los fletes del retiro y regreso del mismo a la obra;
+
+II. Hasta un 2% de los costos directos para los conceptos de trabajo programados y que no fueron ejecutados durante el periodo de la suspensión. En ningún caso, el monto aplicado podrá ser mayor al determinado por el contratista para los indirectos de las oficinas centrales en su proposición;
+
+III. La plantilla de veladores y personal de conservación y vigilancia de las instalaciones y obras, asignados durante la suspensión;
+
+IV. Costos de administración de obra en cuanto a honorarios, sueldos y prestaciones del personal técnico y administrativo estrictamente necesarios y que tengan una función específica durante la suspensión;
+
+V. La mano de obra que sea estrictamente necesaria y que tenga una función específica durante la suspensión y que no haya sido trasladada a otro frente de trabajo;
+
+VI. Costo del mantenimiento y renta, si es el caso, de oficinas y demás instalaciones de campo; y
+
+VII. En su caso, el costo que represente la extensión de las garantías.
+
+Para la determinación de estos gastos se deberán considerar como base para su cálculo, los programas y costos originalmente propuestos por el contratista, debiéndose ajustar, en su caso, con el último porcentaje de ajuste autorizado antes de la suspensión.
+
+Cuando se trate de una suspensión parcial, el Consejo cubrirá los trabajos que se hayan realizado hasta el momento de la notificación de la suspensión y ajustará y determinará un programa de trabajo adecuado a las necesidades actualizadas, haciéndose los pagos a partir de entonces, conforme a la nueva programación.
+
+###### Artículo 426.
+
+En el caso de que la causa de la suspensión sea por caso fortuito o fuerza mayor no existirá ninguna responsabilidad para el Consejo, por lo que solo será procedente el pago de los gastos no recuperables señalados en las fracciones III, IV y V del artículo anterior.
+
+En caso de que la suspensión sea por caso fortuito o fuerza mayor las partes deberán suscribir un convenio donde reconozcan el plazo de la suspensión y las fechas de reinicio y terminación de los trabajos, sin modificar el plazo de ejecución establecido en el contrato. De no ser posible, el Comité determinará las fechas del plazo de la suspensión.
+
+Sin embargo, cuando los trabajos resulten dañados o destruidos y éstos requieran ser rehabilitados o repuestos, deberán reconocerse y pagarse mediante la celebración de un convenio que autorice el Comité. Las partes por ningún motivo estipularán correcciones de deficiencias o incumplimientos imputables a los contratistas o proveedores.
+
+###### Artículo 427.
+
+En todos los casos de suspensión, el área operativa que corresponda con la intervención de la Contraloría, en el ámbito de sus atribuciones, deberá levantar un acta circunstanciada en la que hará constar el lugar, fecha y hora del acta; nombre y firma de los representantes de las partes en el contrato; los motivos de las suspensión y quién la acordó o notificó; datos de identificación de los trabajos que se suspenderán; si ésta es parcial, sólo se identificará la parte correspondiente y las medidas que se tomarán para su reanudación, así como una relación pormenorizada de la situación legal, administrativa, técnica y económica en la que se encuentren los trabajos o la parte que se vaya a suspender.
+
+Se deberá hacer constar el personal y equipo que se retira y del que se autoriza su permanencia, conforme con el programa de ejecución convenido; el tiempo de duración de la suspensión o el evento que dará motivo a la reanudación de los trabajos; las acciones que se seguirán para asegurar los bienes y el estado de los trabajos, así como procurar la conclusión de los mismos; la determinación del programa de ejecución que se aplicará, el que deberá considerar los diferimientos que la suspensión origina, ajustando sin modificar los periodos y procesos de construcción indicados en el programa de ejecución convenido en el contrato, y en su caso, las medidas de protección que resulten necesarias para salvaguardar los trabajos realizados, el lugar de trabajo, sus instalaciones y equipos.
+
+Si durante la vigencia del contrato existen suspensiones de los trabajos cuyos periodos sean reducidos y difíciles de cuantificar, las partes podrán acordar que los periodos sean agrupados y formalizados mediante la suscripción de una sola acta circunstanciada.
+
+###### Artículo 428.
+
+Los proveedores o contratistas podrán solicitar al Consejo la terminación anticipada de los contratos por causa justificada, acompañando a su solicitud la documentación comprobatoria que estimen pertinente.
+
+Al respecto, el área operativa efectuará el análisis correspondiente y emitirá un informe que deberá contener la opinión de la Dirección General de Asuntos Jurídicos, el cual presentará al Comité para su aprobación.
+
+###### Artículo 429.
+
+En los casos de rescisión o terminación anticipada de contratos en que se hayan otorgado anticipos, el saldo pendiente de amortizar se reintegrará al Consejo en un plazo no mayor de quince días hábiles, contados a partir de la fecha en que le sea comunicada la rescisión o terminación al proveedor; en caso contrario, se hará efectiva la garantía presentada para la debida inversión del anticipo, haciéndose del conocimiento del Comité, quien oportunamente lo informará a la Comisión de Administración.
+
+#### SECCIÓN QUINTA. ARRENDAMIENTOS
+
+###### Artículo 430.
+
+La inconformidad se presentará en el procedimiento de contratación pública en los términos de esta Sección. Procede contra los actos de la contratación pública siguientes:
+
+I. Licitación pública: convocatoria, bases y su modificación, junta de aclaraciones, apertura de propuestas, fallo, formalización del contrato y cancelación;
+
+II. Invitación a cuando menos tres proveedores o contratistas: invitación, convocatoria, bases y su modificación, apertura de propuestas, fallo, formalización del contrato y cancelación; y
+
+III. Concurso público sumario: solicitud de cotización, convocatoria, bases y su modificación, fallo, formalización del contrato y cancelación.
+
+###### Artículo 431.
+
+La inconformidad es improcedente:
+
+I. Contra acto que no se ubique en los supuestos previstos en el artículo anterior;
+
+II. Contra acto que no afecte el interés jurídico del inconforme;
+
+III. Contra acto consentido expresa o tácitamente; y
+
+IV. Contra acto consumado de modo irreparable o no pueda surtir efecto jurídico o material.
+
+SUBSECCIÓN SEGUNDA
+
+SUBSTANCIACIÓN
+
+###### Artículo 432.
+
+Para su presentación la inconformidad deberá contener:
+
+I. Nombre del inconforme o de quien promueva en su nombre;
+
+II. Domicilio para recibir notificaciones en el Distrito Federal;
+
+III. Acto motivo de la inconformidad y fecha de notificación, en su caso;
+
+IV. Motivos de inconformidad; y
+
+V. En su caso, ofrecimiento de pruebas relacionadas directamente con el acto motivo de la inconformidad.
+
+Al escrito de inconformidad se deberán acompañar el instrumento público que acredite la representación jurídica y las pruebas que ofrezca.
+
+Cuando la inconformidad se haga valer por licitantes que hayan formulado propuesta conjunta, aquélla deberá presentarse por el representante común designado durante el procedimiento de contratación o quien acredite contar con las facultades para tal efecto.
+
+En los supuestos de las fracciones II y III del artículo 430 de este Acuerdo sólo podrá ofrecerse y acompañarse prueba documental.
+
+###### Artículo 433.
+
+La inconformidad la podrá presentar, por sí o por representante jurídico, el interesado, representante común, participante y licitante que acredite interés jurídico en el acto del procedimiento de contratación pública objeto de inconformidad.
+
+###### Artículo 434.
+
+La inconformidad deberá presentarse por escrito ante la Dirección General de Responsabilidades.
+
+Cuando la inconformidad se presente ante área distinta dentro del Consejo, ésta la remitirá a la Dirección General de Responsabilidades en el término de veinticuatro horas siguientes a su recepción. En ese supuesto se tendrá como fecha de presentación la del acuse de recibo ante el área incompetente.
+
+###### Artículo 435.
+
+La inconformidad se presentará en los siguientes plazos:
+
+I. Dentro de los cinco días hábiles siguientes a la publicación, celebración o notificación de los actos contenidos en la fracción I del artículo 430 de este Acuerdo; y
+
+II. Dentro de los tres días hábiles siguientes a la publicación, celebración o notificación de los actos contenidos en las fracciones II y III del artículo 430 de este Acuerdo.
+
+La inconformidad que se presente fuera de los plazos citados se desechará de plano.
+
+###### Artículo 436.
+
+La Dirección General de Responsabilidades prevendrá al inconforme cuando hubiere omitido algún requisito del artículo 432 de este Acuerdo, a fin de que subsane la omisión, apercibiéndolo que en caso de no hacerlo en el plazo de tres días hábiles, se tendrá por no presentada la inconformidad. Lo anterior, salvo las pruebas, las cuales se tendrán por no ofrecidas, y el señalamiento del domicilio para recibir notificaciones, supuesto en el cual se notificará por lista.
+
+La Contraloría emitirá la resolución que deseche o tenga por no presentada la inconformidad.
+
+###### Artículo 437.
+
+La Dirección General de Responsabilidades podrá acumular la inconformidad antes de que fenezca el término para elaborar el proyecto de resolución, cuando tenga relación con otra u otras inconformidades por tratarse del mismo acto motivo de la inconformidad o por haber sido interpuesta contra actos que deriven de la misma contratación pública. La inconformidad más reciente se acumulará a la más antigua.
+
+###### Artículo 438.
+
+Dentro de los tres días hábiles siguientes a la presentación de la inconformidad o a que se haya cumplido la prevención, la Dirección General de Responsabilidades, en su caso, la admitirá y proveerá lo relativo a las pruebas.
+
+Únicamente se admitirán las pruebas que puedan ser conducentes y no sean contrarias a derecho.
+
+En el mismo proveído de admisión, la Dirección General de Responsabilidades solicitará informe al área correspondiente sobre el acto motivo de la inconformidad.
+
+Al rendirse el informe se expondrán las razones y fundamentos para sostener la improcedencia de la inconformidad, así como la validez o legalidad del acto que la motivó.
+
+El informe deberá rendirse dentro de los tres días hábiles siguientes a su solicitud, al que deberá acompañarse copia certificada de la documentación que forme parte del procedimiento de contratación de que se trate.
+
+###### Artículo 439.
+
+Tiene el carácter de tercero interesado el licitante a quien favoreció el fallo motivo de la inconformidad. A éste se le correrá traslado con copia del escrito inicial de inconformidad y sus anexos, para que manifieste lo que a su interés convenga dentro de los tres días hábiles siguientes a la notificación, resultándole aplicable en lo conducente lo dispuesto por el artículo 432 de este Acuerdo.
+
+###### Artículo 440.
+
+El desahogo de las pruebas admitidas se realizará en un plazo no menor a cinco ni mayor a diez días hábiles, contados a partir de su admisión.
+
+Si se ofrecen pruebas que ameriten ulterior desahogo, se concederá al oferente un plazo adicional no menor a tres ni mayor a seis días hábiles para tal efecto. Este plazo extraordinario no será aplicable para los supuestos de las fracciones II y III del artículo 430 de este Acuerdo.
+
+La falta de desahogo de las pruebas en los plazos autorizados será en perjuicio de los oferentes.
+
+La prueba superveniente podrá admitirse siempre que no se haya emitido resolución definitiva.
+
+###### Artículo 441.
+
+La Comisión de Administración y la Contraloría podrán allegarse, para mejor proveer, los elementos de convicción que juzguen necesarios para el esclarecimiento de los hechos materia de la inconformidad.
+
+###### Artículo 442.
+
+Cerrada la instrucción la Dirección General de Responsabilidades, elaborará y someterá, a la Comisión de Administración, en un término de cinco días hábiles, el proyecto de resolución de la inconformidad, previo visto bueno de la Contraloría.
+
+El término referido podrá prorrogarse por otro igual a juicio de la Contraloría.
+
+###### Artículo 443.
+
+El proyecto de resolución contendrá:
+
+I. Los preceptos que funden la competencia para resolver la inconformidad;
+
+II. La fijación clara y precisa del acto motivo de la inconformidad;
+
+III. El análisis de los motivos de inconformidad, para lo cual podrá corregir errores o subsanar omisiones del inconforme en la cita de los preceptos normativos que estime violados;
+
+IV. El examen del informe o informes rendidos y, en su caso, de los razonamientos expresados por el tercero interesado;
+
+V. La valoración de las pruebas desahogadas, así como de los elementos que, en su caso, se hayan recabado para mejor proveer;
+
+VI. Los motivos y fundamentos normativos en que se apoye; y
+
+VII. Los puntos resolutivos que expresen claramente sus alcances y efectos, fijando cuando proceda las medidas para la regularización o reposición del acto declarado nulo.
+
+Además, el proyecto de resolución podrá analizar las irregularidades que se adviertan en el procedimiento de contratación, siempre que ello implique violación manifiesta a la normatividad aplicable y afecte la libre participación o impida al Consejo ajustarse a los criterios contemplados en el artículo 134 de la Constitución.
+
+###### Artículo 444.
+
+La inconformidad se sobreseerá cuando:
+
+I. Desista expresamente el inconforme;
+
+II. Fallezca el inconforme y el acto sólo afecte a su persona;
+
+III. Se disuelva y liquide la persona moral inconforme;
+
+IV. Se advierta o sobrevenga causa de improcedencia;
+
+V. Cesen los efectos del acto motivo de la inconformidad;
+
+VI. El acto carezca de objeto;
+
+VII. No se pruebe la existencia del acto motivo de la inconformidad; y
+
+VIII. Se suscriba el contrato y el motivo de la inconformidad consista en su falta de formalización.
+
+Para efectos de la fracción I de este artículo, se citará al inconforme para que dentro del plazo de tres días hábiles comparezca a ratificar el escrito de desistimiento, apercibido que en caso de no hacerlo se tendrá por no presentado.
+
+Para efectos de la fracción III de este artículo, el liquidador tendrá la obligación de presentar ante la Dirección General de Responsabilidades la constancia del Registro Público de la Propiedad y de Comercio relativa a la cancelación de la inscripción del contrato social de la persona moral de que se trate.
+
+###### Artículo 445.
+
+La resolución de la inconformidad podrá:
+
+I. Sobreseer en la instancia;
+
+II. Declarar la validez del acto o procedimiento motivo de la inconformidad;
+
+III. Declarar la nulidad total o parcial del acto o procedimiento motivo de la inconformidad; y
+
+IV. Ordenar la firma del contrato.
+
+###### Artículo 446.
+
+La resolución de la inconformidad será definitiva e inatacable.
+
+###### Artículo 447.
+
+El área responsable acatará la resolución que ponga fin a la inconformidad en un término no mayor a seis días hábiles, siempre que la naturaleza del acto motivo de la inconformidad lo permita.
+
+El área responsable informará a la Contraloría en un término no mayor a tres días hábiles el cumplimiento dado a la resolución o, en su caso, el término en el que se dará cumplimiento a la misma y las razones que lo justifiquen.
+
+El inconforme y el tercero interesado, dentro de los tres días hábiles siguientes a que tengan conocimiento de la ejecución de la resolución o vencido el término para ello sin que se hubiere ejecutado, podrán hacer del conocimiento de la Contraloría, en vía incidental a través de la Dirección General de Responsabilidades, su incumplimiento total o parcial, o exceso en su ejecución.
+
+Con el escrito incidental se requerirá al área responsable para que rinda un informe en el término de tres días hábiles; recibido o transcurrido el término sin rendirlo, la Contraloría resolverá dentro de los tres días hábiles siguientes.
+
+Acreditado el incumplimiento o el exceso en la ejecución de la resolución, la Contraloría requerirá al superior jerárquico para que ordene al área responsable el acatamiento inmediato.
+
+De todo lo anterior, la Contraloría informará a la Comisión de Administración.
+
+SUBSECCIÓN TERCERA
+
+SUSPENSIÓN
+
+###### Artículo 448.
+
+Al conocer de la inconformidad, la Contraloría podrá suspender el proceso de adjudicación en caso de que existan o pudieran existir actos contrarios a este Capítulo y demás disposiciones aplicables, o bien, si de continuarse el procedimiento de contratación pudieran producirse daños o perjuicios al Consejo.
+
+El inconforme podrá solicitar la suspensión del acto motivo de la inconformidad, cuando no se cause perjuicio al interés general, ni se contravengan disposiciones de orden público.
+
+En cualquiera de los casos comprendidos en este artículo, se informará oportunamente a la Comisión de Administración, al Comité y a las áreas correspondientes para los efectos conducentes.
+
+###### Artículo 449.
+
+Cuando proceda la suspensión, se requerirá informe previo al área correspondiente, el que deberá rendir en el término de veinticuatro horas.
+
+Dentro de los tres días hábiles siguientes a que se haya recibido el informe previo, la Contraloría concederá o negará la suspensión de manera fundada y motivada.
+
+La suspensión deberá precisar la situación en que habrán de quedar las cosas y establecer las medidas pertinentes para conservar la materia del asunto hasta el dictado de la resolución que ponga fin a la inconformidad.
+
+###### Artículo 450.
+
+La suspensión que solicite el inconforme quedará sujeta a que éste, dentro de los cinco días hábiles siguientes a la notificación del acuerdo relativo, garantice los daños y perjuicios que pudiera ocasionar la medida.
+
+La garantía no deberá ser menor al 10% ni mayor al 30% del presupuesto base de la contratación pública de que se trate. De no exhibirse la garantía requerida no se otorgará la medida cautelar. La suspensión quedará sin efectos si el tercero interesado, dentro del plazo de cinco días hábiles, otorga una garantía equivalente a la exhibida por el inconforme.
+
+###### Artículo 451.
+
+El incidente de ejecución de garantía podrá iniciarse dentro de un término de treinta días hábiles siguientes a la resolución de la inconformidad; mismo que se tramitará por escrito y expresará el daño o perjuicio que produjo la suspensión, además de ofrecer y acompañar pruebas pertinentes.
+
+Con el escrito incidental se dará vista al interesado que hubiere otorgado la garantía, para efecto de que, dentro del plazo de diez días hábiles, manifieste lo que a su derecho convenga.
+
+Desahogadas las pruebas, en un término no mayor de diez días hábiles, la Contraloría resolverá el incidente.
+
+De no tramitarse el incidente de ejecución de garantía, el interesado podrá solicitar la cancelación y devolución correspondientes.
+
+SUBSECCIÓN CUARTA
+
+DISPOSICIONES GENERALES
+
+###### Artículo 452.
+
+Las notificaciones se harán:
+
+I. En forma personal al inconforme y tercero interesado:
+
+a) La primera notificación y las prevenciones;
+
+b) Los acuerdos y resoluciones relativas a la suspensión del acto motivo de la inconformidad;
+
+c) La resolución definitiva; y
+
+d) Los acuerdos o resoluciones que lo ameriten a juicio de la Dirección General de Responsabilidades y la Comisión de Administración.
+
+II. Por lista en los casos no previstos en la fracción anterior, o bien, cuando no se haya señalado domicilio en el Distrito Federal.
+
+###### Artículo 453.
+
+La Contraloría de oficio o a solicitud de la Comisión de Administración podrá imponer multa al inconforme o tercero interesado cuando:
+
+I. La inconformidad sea notoriamente improcedente o se haya presentado con el propósito de retrasar o entorpecer la contratación pública; o
+
+II. Durante el procedimiento o ejecución de la misma, se afirmen hechos falsos u omitan los que consten, o se presenten pruebas o documentos alterados o apócrifos.
+
+La multa será de diez a ciento veinte días de salario mínimo vigente en el Distrito Federal al momento de la presentación de la inconformidad.
+
+###### Artículo 454.
+
+En lo no previsto en esta Sección aplicará de manera supletoria la Ley Federal de Procedimiento Administrativo.
+
+### CAPÍTULO SEGUNDO. BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS A DISPOSICIÓN DEL PROPIO CONSEJO
+
+#### SECCIÓN SEXTA. DE LOS BIENES INMUEBLES DEL PODER JUDICIAL DE LA FEDERACIÓN
+
+###### Artículo 455.
+
+Las instancias responsables de autorizar y realizar las acciones previstas en este Capítulo, conforme a las atribuciones que el mismo les confiere, son:
+
+I. El Pleno;
+
+II. La Comisión de Administración;
+
+III. El Comité de Administración Inmobiliaria;
+
+IV. La Secretaría Ejecutiva de Administración;
+
+V. La Coordinación de Administración Regional;
+
+VI. La Dirección General de Asuntos Jurídicos;
+
+VII. La Dirección General de Recursos Materiales;
+
+VIII. La Dirección General de Servicios Generales;
+
+IX. La Dirección General de Inmuebles y Mantenimiento; y
+
+X. Las Administraciones Regionales y Delegaciones Administrativas.
+
+#### SECCIÓN SÉPTIMA. ADQUISICIÓN DE INMUEBLES
+
+###### Artículo 456.
+
+El Comité de Administración Inmobiliaria, es de carácter permanente, y tendrá a su cargo el ejercicio de las atribuciones señaladas en el artículo 458 de este Acuerdo, sin perjuicio del ejercicio directo de las mismas por parte de la Comisión de Administración.
+
+###### Artículo 457.
+
+El Comité de Administración Inmobiliaria estará integrado en los siguientes términos:
+
+I. Presidente: Oficial Mayor; y
+
+II. Vocales: Secretario Ejecutivo de Administración y Coordinador de Administración Regional.
+
+###### Artículo 458.
+
+El Comité de Administración Inmobiliaria tendrá las siguientes atribuciones:
+
+I. Analizar, opinar y proponer a la autorización del Pleno, previa validación de la Comisión de Administración, los programas anuales y requerimientos para la adquisición y arrendamiento de inmuebles que atiendan a las necesidades del Poder Judicial de la Federación, así como darles seguimiento;
+
+II. Valorar la información contenida en los puntos para acuerdo relativos al arrendamiento de inmuebles y, en su caso, previo informe que se rinda a la Comisión de Administración, autorizar la negociación de los contratos correspondientes;
+
+III. Proponer a la Comisión de Administración la autorización de los contratos de arrendamiento cuyo importe rebase el monto establecido en el avalúo respectivo, cuando así se proponga y justifique por el área, así como solicitar a la misma, la autorización, por excepción, para elaborar avalúos distintos a los señalados en el artículo 475 de este Acuerdo;
+
+IV. Autorizar la celebración de contratos de arrendamiento cuyo monto mensual de la renta sea de 2641 a 13200 veces el salario mínimo general vigente en el Distrito Federal, sin considerar el impuesto al valor agregado. Los contratos que excedan estos montos serán sometidos a la autorización de la Comisión de Administración;
+
+V. Proponer a la Comisión de Administración la autorización de los incrementos en el monto de las rentas cuando, de mediar circunstancias justificadas, no sea posible sujetarlas a los parámetros a que se refiere el artículo 482 de este Acuerdo;
+
+VI. Autorizar, previo informe que se rinda a la Comisión de Administración, los casos de excepción para realizar mejoras, adaptaciones e instalación de equipos especiales, antes de la firma del contrato respectivo; un plazo mayor a tres meses para la ejecución de mejoras a los inmuebles arrendados, cuando se acredite la justificación para ello y, en su caso, las estipulaciones distintas a las contenidas en los modelos de contrato elaborados por la Dirección General de Asuntos Jurídicos propuestas por los arrendadores;
+
+VII. Requerir a las áreas competentes del Consejo, señaladas en las fracciones V, VII y X del artículo 455 de este Acuerdo, de manera semestral, la información sobre los contratos de arrendamiento y sus renovaciones que hayan celebrado;
+
+VIII. Solicitar a la Comisión de Administración la autorización para la aceptación o devolución de bienes inmuebles que sean concedidos en comodato al Consejo, conforme a los dictámenes técnicos, funcionales y presupuestales que le sean presentados por las áreas requirentes;
+
+IX. Opinar sobre las solicitudes de adquisición, enajenación y desincorporación de bienes inmuebles federales al servicio del Poder Judicial de la Federación, que sean sometidas a su consideración, para la aprobación del Pleno, previo acuerdo de la Comisión de Administración;
+
+X. Solicitar al Pleno, previa opinión de la Comisión de Administración, la celebración de licitaciones públicas para la enajenación de los bienes inmuebles federales a cargo del Consejo, a que se refiere la fracción II del artículo 23 de la Ley General de Bienes Nacionales, previa su desincorporación del dominio público de la Federación, en su caso, así como proponer, cuando así se justifiquen, las excepciones a dicho procedimiento;
+
+XI. Determinar, previa opinión de la Comisión de Administración, la adjudicación que corresponda, mediante el fallo respectivo en los procedimientos de licitación pública para la enajenación onerosa de bienes inmuebles a cargo del Consejo;
+
+XII. Valorar y proponer al Pleno, previa opinión de la Comisión de Administración, la devolución de bienes inmuebles federales al Instituto de Administración y Avalúos de Bienes Nacionales, que no sean susceptibles de aprovechamiento por parte del Consejo;
+
+XIII. Proponer a la Comisión de Administración, para su aprobación, los procedimientos de actualización y control del patrimonio inmobiliario del Poder Judicial de la Federación;
+
+XIV. Emitir lineamientos para la adquisición de inmuebles;
+
+XV. Disponer que se tramiten por conducto de la Dirección General de Asuntos Jurídicos, las inscripciones en el Registro Público de la Propiedad Federal, de los títulos a que se refiere el artículo 42 de la Ley General de Bienes Nacionales;
+
+XVI. Proporcionar el apoyo e información, dentro del marco de sus atribuciones, al Comité Técnico del Fondo de Apoyo; y
+
+XVII. Informar a la Comisión de Administración y, en su caso, al Pleno, según se determine, sobre el ejercicio de las atribuciones contenidas en este artículo, siendo las áreas administrativas correspondientes, las responsables por la información, evaluación y propuestas que presenten.
+
+###### Artículo 459.
+
+El presidente del Comité de Administración Inmobiliaria tendrá las siguientes funciones:
+
+I. Dirigir y moderar los debates durante las sesiones y emitir su voto sobre los asuntos puestos a consideración del Comité;
+
+II. Requerir a las diversas áreas administrativas del Consejo la asesoría y estudio pormenorizado de cuestiones de carácter técnico especializado respecto de asuntos competencia del Comité; y citar a sus titulares para que con el carácter de asesores temporales o invitados concurran a las sesiones correspondientes;
+
+III. Verificar que el desarrollo de las sesiones del Comité se realice de conformidad con los lineamientos de integración y funcionamiento del mismo;
+
+IV. Representar al Comité para el desahogo de los asuntos de su competencia;
+
+V. Autorizar el orden del día de las reuniones a celebrar;
+
+VI. Vigilar el correcto funcionamiento del Comité; y
+
+VII. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás ordenamientos aplicables en la materia, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+###### Artículo 460.
+
+Los vocales del Comité de Administración Inmobiliaria tendrán las siguientes funciones:
+
+I. Asistir a las sesiones que convoque el Comité;
+
+II. Analizar el orden del día y los documentos sobre los asuntos a tratar;
+
+III. Dar su opinión y votar sobre la aprobación de los asuntos a tratar en la sesión correspondiente;
+
+IV. Remitir al secretario técnico del Comité, antes de la reunión, los documentos de los asuntos que deseen someter a la consideración del Comité;
+
+V. Verificar que el desarrollo de las sesiones del Comité se realice de conformidad con sus lineamientos de integración y funcionamiento;
+
+VI. Cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás ordenamientos aplicables, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; y
+
+VII. Las demás funciones que les sean encomendadas por el Pleno o la Comisión de Administración.
+
+###### Artículo 461.
+
+El Comité de Administración Inmobiliaria se auxiliará en lo administrativo del Secretario Técnico de Comités de la Secretaría Ejecutiva de Administración, quien se encargará de lo siguiente:
+
+I. Convocar a las reuniones del Comité;
+
+II. Preparar y presentar el orden del día de la sesión, junto con los listados de los asuntos que se tratarán, incluyendo los documentos necesarios y los apoyos que requieran, de lo cual remitirá copia a cada integrante del Comité;
+
+III. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse;
+
+IV. Participar con voz pero sin voto en las sesiones del Comité;
+
+V. Suscribir los oficios cuya expedición haya acordado el Comité;
+
+VI. Elaborar las actas de las sesiones para la aprobación del Comité e integración en el expediente respectivo;
+
+VII. Cuidar que se registren los acuerdos del Comité y vigilar que se cumplan;
+
+VIII. Vigilar que el archivo de los documentos analizados por el Comité, esté completo y se mantenga actualizado, cuidando su conservación por el tiempo mínimo que establezcan las disposiciones aplicables;
+
+IX. Vigilar que cada asunto aprobado por el Comité esté respaldado con la firma de los integrantes asistentes a la sesión celebrada;
+
+X. Cumplir las disposiciones establecidas en la Ley Orgánica, en este Capítulo y demás ordenamientos aplicables, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; y
+
+XI. Las demás que le encomiende el Pleno, la Comisión de Administración o el presidente del Comité.
+
+###### Artículo 462.
+
+El Director General de Asuntos Jurídicos será asesor permanente del Comité, y tendrá las siguientes funciones:
+
+I. Asistir a las reuniones del Comité con derecho a voz, pero sin voto;
+
+II. Analizar los documentos relacionados con la competencia del Comité;
+
+III. Opinar y proporcionar la asesoría que estime pertinente en los asuntos de su especialización; y
+
+IV. Proponer alternativas de solución, cuando le sean solicitadas.
+
+El Comité podrá invitar a las personas físicas, servidores públicos o particulares, que en razón de su competencia, profesión u oficio que desempeñen, puedan aportar sus conocimientos, experiencias y consejo para la resolución de los asuntos de la responsabilidad del Comité, teniendo derecho a voz, pero no a voto.
+
+Las personas antes referidas deberán guardar absoluta confidencialidad de la información a la que tengan acceso.
+
+El secretario técnico de la Comisión de Administración tendrá el carácter de invitado permanente a las sesiones del Comité.
+
+###### Artículo 463.
+
+Las sesiones del Comité se celebrarán de la siguiente forma:
+
+I. Tendrán lugar siempre que sea necesario y las decisiones se tomarán por mayoría de votos. En caso de empate el Presidente tendrá voto de calidad;
+
+II. Para la validez de las sesiones será necesaria la presencia del presidente y un vocal. En casos estrictamente necesarios, en ausencia del presidente, las sesiones serán presididas por el Secretario Ejecutivo de Administración, con la asistencia del otro vocal;
+
+III. La convocatoria se notificará a los miembros del Comité con un día hábil de anticipación; sin embargo, en sesiones extraordinarias dicho término podrá reducirse;
+
+IV. El orden del día y la documentación correspondiente, se entregarán a los integrantes del Comité con la oportunidad antes señalada a la celebración de la sesión;
+
+V. De cada reunión se levantará un acta con los acuerdos tomados, la cual será suscrita por los integrantes asistentes;
+
+VI. Los asuntos que se sometan a la consideración del Comité, se presentarán en listados que contengan la información resumida de los casos que se dictaminen en cada sesión;
+
+VII. El Comité presentará los informes requeridos sobre los asuntos tratados y de los que tenga conocimiento con motivo de su ámbito de competencia a la Comisión de Administración o al Pleno, con la periodicidad que éstos determinen; y
+
+VIII. Invariablemente deberá incluirse en el orden del día un apartado correspondiente al seguimiento de acuerdos emitidos en las sesiones anteriores. En el rubro correspondiente a asuntos generales, podrán incluirse los de carácter informativo.
+
+#### SECCIÓN OCTAVA. DE LA ENAJENACIÓN Y DESINCORPORACIÓN DE INMUEBLES
+
+###### Artículo 464.
+
+En cumplimiento a lo dispuesto por la fracción IV del artículo 23 de la Ley General de Bienes Nacionales, el Secretario Ejecutivo Administración será el Responsable Inmobiliario del Consejo y tendrá a su cargo la coordinación, supervisión y evaluación de las acciones que en materia inmobiliaria realicen, en el ámbito de su competencia la Coordinación de Administración Regional, y las Direcciones Generales de Recursos Materiales; de Servicios Generales; y de Inmuebles y Mantenimiento, así como las Administraciones Regionales y Delegaciones Administrativas. De igual manera, podrá auxiliarse de la Dirección General de Asuntos Jurídicos.
+
+###### Artículo 465.
+
+Corresponde al Responsable Inmobiliario lo siguiente:
+
+I. Coordinar el acopio y actualización de la información y documentación relativa a los inmuebles al servicio del Poder Judicial de la Federación;
+
+II. Instruir a las áreas competentes para la conformación del inventario, catastro y sistema de administración de inmuebles respecto de los bienes inmuebles a que se refiere la fracción anterior;
+
+III. Proporcionar a la Secretaría de la Función Pública, en los términos establecidos por el artículo 24 de la Ley General de Bienes Nacionales, la información que generen las áreas competentes relativa a los inmuebles a cargo del Consejo, a efecto de que sea incorporada al Sistema de Información Inmobiliaria Federal y Paraestatal;
+
+IV. Supervisar las acciones que realicen las áreas señaladas en el artículo anterior; la situación física, jurídica y administrativa de los inmuebles al servicio del Consejo, así como ordenar los levantamientos topográficos y elaboración de planos, para efectos de la conformación y actualización del inventario, catastro y registro de dichos inmuebles;
+
+V. Coordinar a las áreas competentes a fin de que se tomen las medidas necesarias para compilar, organizar, vincular, y operar los acervos documentales e informativos de los inmuebles al servicio del Consejo;
+
+VI. Programar, supervisar y evaluar la realización de acciones a cargo de las áreas competentes tendentes a la regularización jurídica y administrativa de los inmuebles al servicio del Consejo, a fin de lograr la recuperación de aquéllos ocupados ilegalmente y optimizar su aprovechamiento, coordinándose para ello con la Dirección General de Asuntos Jurídicos;
+
+VII. Supervisar la adopción de medidas conducentes a la adecuada conservación, mantenimiento, vigilancia y aseguramiento contra daños de los inmuebles al servicio del Consejo;
+
+VIII. Coordinarse con la Dirección General de Asuntos Jurídicos, para que por conducto de ésta, se realice la inscripción en el Registro Público de la Propiedad Federal de los títulos por los cuales adquiera, transmita, modifique o extinga el dominio, posesión, y demás derechos reales pertenecientes al Poder Judicial de la Federación;
+
+IX. Dar la intervención a las autoridades competentes que conforme a la legislación aplicable corresponda, respecto de cualquier acto u omisión que se realice en contravención de los inmuebles al servicio del Consejo, así como respecto de los inmuebles considerados como monumentos históricos o artísticos;
+
+X. Informar del ejercicio de sus funciones, con la periodicidad que se determine, al Pleno, a la Comisión de Administración y al Comité; y
+
+XI. Las demás que determine el Pleno y la Comisión de Administración.
+
+#### SECCIÓN NOVENA. DE LAS LICITACIONES PÚBLICAS
+
+###### Artículo 466.
+
+La Dirección General de Recursos Materiales tendrá a su cargo la localización y arrendamiento de inmuebles para el Poder Judicial de la Federación, que se requieran en el Distrito Federal y su zona conurbada; mientras que en el resto de la República Mexicana, dicha responsabilidad la tendrán las Administraciones Regionales, bajo la supervisión de la citada Dirección General, excepto que la Comisión de Administración determine que otras instancias pueden realizar esa función.
+
+###### Artículo 467.
+
+El inicio de la localización de inmuebles para arrendamiento se realizará de conformidad a lo siguiente:
+
+I. Conforme a las necesidades de espacio que se tengan para los órganos jurisdiccionales o áreas administrativas;
+
+II. En el momento en que el Pleno, las Comisiones de Creación de Nuevos Órganos o de Administración autoricen, en el ámbito de su competencia, la creación o reubicación de órganos jurisdiccionales o áreas administrativas; y
+
+III. En casos urgentes.
+
+La Dirección General de Inmuebles y Mantenimiento determinará las características del inmueble a localizar y las especificaciones necesarias, que entregará a las instancias que se encargarán de la búsqueda.
+
+En todos los casos, la Coordinación de Administración Regional y la Dirección General de Recursos Materiales, según corresponda, comunicarán, de manera permanente, a la Secretaría Ejecutiva de Administración, las acciones llevadas a cabo en la búsqueda de inmuebles, para su control y seguimiento.
+
+###### Artículo 468.
+
+Previo al arrendamiento de bienes inmuebles para la instalación o reubicación de órganos jurisdiccionales, podrá solicitarse opinión a los magistrados de Circuito o jueces de Distrito, por conducto de su Coordinador, en la localidad de que se trate, respecto de las opciones de inmuebles localizados, a fin de contar con mayores elementos de juicio antes de cualquier formalización.
+
+###### Artículo 469.
+
+Para el arrendamiento de inmuebles se deberá atender a lo siguiente:
+
+I. El dictamen técnico que formule la Dirección General de Inmuebles y Mantenimiento, tratándose de inmuebles para órganos jurisdiccionales, y el de las Administraciones Regionales para el uso de áreas administrativas, bodegas y almacenes, siempre que las condiciones para dictaminar estos últimos, se ajusten a lo establecido en el artículo 474 de este Acuerdo;
+
+II. La ubicación y servicios públicos necesarios para el funcionamiento de los órganos jurisdiccionales o áreas administrativas en el inmueble de que se trate;
+
+III. La distribución del personal en los inmuebles;
+
+IV. La integración física de los órganos jurisdiccionales y áreas administrativas en el inmueble de que se trate;
+
+V. La disponibilidad inmobiliaria de la localidad de que se trate;
+
+VI. Las necesidades de espacio, seguridad, higiene y funcionalidad para el público y el personal;
+
+VII. La imagen institucional del Poder Judicial de la Federación;
+
+VIII. La idoneidad de las dimensiones, distribución e instalaciones de los inmuebles para las actividades que se pretenden realizar;
+
+IX. El monto estimado de las erogaciones y el tiempo necesario para remodelar y adaptar el inmueble, así como para instalar los equipos especiales que, en su caso, se requieran;
+
+X. El cumplimiento de la normatividad aplicable en materia de uso del suelo, construcción, estacionamientos, seguridad estructural y protección civil, entre otros;
+
+XI. Las normas y políticas que expida el Consejo para el aprovechamiento y racionalidad en el uso de los inmuebles arrendados; y
+
+XII. Los documentos del arrendador que lo acrediten como propietario del inmueble, o que cuenta con la personalidad jurídica suficiente para ofrecerlo en arrendamiento y negociar los términos del mismo, así como los permisos y documentos que demuestren que el inmueble cuenta con el uso de suelo correspondiente.
+
+###### Artículo 470.
+
+En todos los casos se deberá prever que el inmueble propuesto tenga espacio suficiente para estacionamiento, tomando en consideración los requerimientos que en esta materia se prevén en las reglamentaciones locales. De resultar insuficiente para los requerimientos previstos, se contratará el servicio de estacionamiento o, en su caso, rentará un bien inmueble cercano que sirva para ese propósito.
+
+###### Artículo 471.
+
+Para la recepción de inmuebles se levantará acta circunstanciada por la Coordinación de Administración Regional o la Dirección General de Recursos Materiales, según corresponda, en la que se hará constar:
+
+I. El inventario y las condiciones de las instalaciones y equipos propios del inmueble; y
+
+II. La entrega por parte del arrendador de la documentación relativa a la seguridad estructural; el certificado de libertad de gravámenes con una antigüedad no mayor a seis meses; los usos permitidos para el inmueble y, en general, todas las especificaciones derivadas de las características de la edificación.
+
+El acta de entrega-recepción deberá suscribirse por un representante del Consejo, facultado para tales efectos, preferentemente por alguno de los titulares de las áreas señaladas en el artículo 466 de este Acuerdo y por el propietario del inmueble o por la persona que legalmente autorice para ello.
+
+No podrá hacerse modificación, adaptación o mejora al inmueble si no existe el acta de entrega-recepción, salvo en casos urgentes, previa autorización de la instancia competente.
+
+###### Artículo 472.
+
+Antes de formalizar el arrendamiento, la Dirección General de Inmuebles y Mantenimiento, o en su caso, las Administraciones Regionales, tratándose de inmuebles para uso administrativo en su localidad y espacios con las características señaladas en el artículo 474 de este Acuerdo, determinarán si el inmueble a arrendar, requiere contar con los dictámenes técnicos estructurales de uso, que garanticen la seguridad y reflejen su estado de conservación.
+
+#### SECCIÓN DÉCIMA. APROVECHAMIENTO, CONSERVACIÓN Y MANTENIMIENTO DE INMUEBLES
+
+###### Artículo 473.
+
+Los titulares de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos; de la Coordinación de Administración Regional y de la Dirección General de Recursos Materiales presentarán al Comité de Administración Inmobiliaria, las necesidades de espacio para la instalación o reubicación de órganos jurisdiccionales, auxiliares o áreas administrativas.
+
+###### Artículo 474.
+
+El procedimiento para arrendar inmuebles será el siguiente:
+
+I. Las instancias competentes, de conformidad con lo establecido por el artículo 466 de este Acuerdo, localizarán los inmuebles idóneos que cumplan las especificaciones que sean convenientes para el Consejo;
+
+II. Las instancias encargadas de la búsqueda podrán auxiliarse de empresas dedicadas a bienes raíces para la localización de inmuebles;
+
+III. Se solicitará al arrendador que exhiba los documentos que lo acrediten como propietario del inmueble, o que cuenta con la personalidad jurídica suficiente para ofrecerlo en arrendamiento y negociar los términos del mismo, así como los permisos y documentos que demuestren que el inmueble cuenta con el uso de suelo correspondiente; y
+
+IV. La Dirección General de Inmuebles y Mantenimiento, tratándose de inmuebles para albergar órganos jurisdiccionales, o las Administraciones, en el caso de las áreas administrativas, dictaminarán si el inmueble es viable y realizarán una estimación aproximada del monto de la inversión y tiempo de ejecución de las obras para que el inmueble esté en condiciones de ser ocupado, lo que se comunicará a la Dirección General de Recursos Materiales, cuando se trate de inmuebles ubicados en el Distrito Federal y zona conurbada.
+
+Cuando se trate de espacios ubicados en el resto de la República Mexicana, en los que se pretenda albergar áreas administrativas, el dictamen lo deberá elaborar la Coordinación de Administración Regional de que se trate, cumpliendo con los requisitos establecidos por la Dirección General de Inmuebles y Mantenimiento, y solo en los casos en que el inmueble presente afectaciones estructurales de importancia a consideración del área técnica de la Coordinación de Administración Regional, o los costos de adaptaciones no se ajusten a lo establecido en el artículo 477 de este Acuerdo, así como cuando por circunstancias particulares se considere necesaria la intervención de la Dirección General de Inmuebles y Mantenimiento, el dictamen técnico será elaborado por ésta última.
+
+###### Artículo 475.
+
+Una vez definido el inmueble idóneo para el arrendamiento, la Dirección General de Recursos Materiales o las Administraciones Regionales, según corresponda, deberán negociar el contrato, tomando en cuenta lo siguiente:
+
+I. Que el precio sea acorde a las condiciones del mercado inmobiliario de la localidad, lo cual se verificará mediante avalúo de justipreciación de rentas, el cual podrá ser elaborado por las instituciones de crédito o sociedades nacionales de crédito o por la Sociedad de Ingenieros Civiles Valuadores, afiliada al Colegio de Ingenieros de México, por peritos especializados afiliados a las Sociedades Civiles o Colegios de Ingenieros de las localidades o aquellos registrados ante las autoridades correspondientes de los Estados, según se considere más conveniente; sólo por excepción podrá solicitarse avalúo distinto a los antes indicados y, en casos urgentes, prescindirse del mismo; y
+
+II. El monto de la renta podrá variar del establecido en el avalúo, pero se deberá solicitar la autorización de la Comisión de Administración, a la que se aportarán los elementos de juicio que demuestren la idoneidad del inmueble, sus ventajas en comparación con otras ofertas y la información de mercado de que se disponga.
+
+###### Artículo 476.
+
+La Dirección General de Asuntos Jurídicos deberá proporcionar a las instancias encargadas de la negociación, los modelos de contratos de arrendamiento autorizados, así como una relación de los documentos necesarios para su tramitación; y si el arrendador acepta el modelo de contrato y exhibe los documentos de referencia, se llevará a cabo su formalización.
+
+Si hubiere discrepancia con alguna de sus cláusulas, o el arrendador propone otro modelo de contrato, dicha situación se hará del conocimiento de la Dirección General de Asuntos Jurídicos para su análisis y, en su caso, aprobación. Si el dictamen es el de respetar el modelo de contrato aprobado por el Consejo y el arrendador no lo acepta, el asunto se someterá a la consideración del Comité de Administración Inmobiliaria, por conducto de la Coordinación de Administración Regional o de la Dirección General de Recursos Materiales, según corresponda, para que decida en definitiva.
+
+###### Artículo 477.
+
+El monto de las erogaciones en mejoras y adaptaciones, con excepción de equipos de recuperación, no deberá exceder el equivalente a treinta y seis meses de la renta pactada y el tiempo requerido para la ejecución de las mejoras no deberá rebasar tres meses, contados a partir del inicio de la obra, salvo disposición en contrario del Comité de Administración Inmobiliaria.
+
+###### Artículo 478.
+
+Corresponde a la Dirección General de Asuntos Jurídicos elaborar y mantener actualizados los modelos de contrato que se utilizarán en el Consejo, los cuales serán sometidos previamente a la aprobación de la Comisión de Administración.
+
+###### Artículo 479.
+
+La vigencia de los contratos de arrendamiento que celebre el Consejo, podrá iniciar en cualquier fecha del año y tener una duración que exceda el ejercicio presupuestal en que inicie su vigencia. Los compromisos que abarquen más de dos ejercicios deberán autorizarse por la Dirección General de Programación y Presupuesto y atender lo estipulado para dichos casos en este Capítulo.
+
+En caso de contratos de arrendamiento cuya vigencia abarque más de un ejercicio fiscal, la Dirección General de Recursos Materiales, así como las Administraciones Regionales deberán prever el gasto que generará el contrato, su vencimiento y el margen de incremento de la renovación, al realizar el anteproyecto anual de presupuesto.
+
+###### Artículo 480.
+
+La Coordinación de Administración Regional y la Dirección General de Recursos Materiales, según corresponda, deberán prever y gestionar ante la Dirección General de Programación y Presupuesto, las disponibilidades presupuestales que garanticen el pago oportuno de las rentas y de los servicios necesarios para la operación eficiente de los inmuebles que se arrienden y que permitan efectuar con oportunidad las erogaciones indispensables para su conservación, mantenimiento, mejora, adaptación y equipamiento, lo cual deberá ser acorde con la programación anual prevista por el área solicitante.
+
+###### Artículo 481.
+
+Los plazos de los contratos deberán pactarse con una vigencia suficiente que permita al Consejo, amortizar, en su caso, la inversión que se haya utilizado en su adaptación, para lo cual deberá observarse lo establecido en el artículo 474, fracción IV de este Acuerdo.
+
+###### Artículo 482.
+
+Los incrementos anuales por concepto de renta podrán negociarse conforme a lo dispuesto en el Índice Nacional de Precios al Consumidor, emitido por el Banco de México, correspondiente a la región en que se ubique el inmueble. Si el aumento pretendido por el arrendador rebasa el parámetro señalado, la Coordinación de Administración Regional o la Dirección General de Recursos Materiales podrá negociar dicho monto hasta un tope igual al factor que fije el Índice General de Precios al Consumidor, y si la pretensión del arrendador rebasa ambos parámetros, el asunto deberá someterse a la consideración del Comité de Administración Inmobiliaria, por conducto de la Coordinación de Administración Regional o de la Dirección General de Recursos Materiales, según corresponda para que, en su caso, previo acuerdo de la Comisión de Administración, se autorice la negociación.
+
+La renovación de los contratos de arrendamiento celebrados por el Consejo, se realizará por la Dirección General de Recursos Materiales o por las Administraciones Regionales, según corresponda, con base en las normas establecidas en este Capítulo y los procedimientos que para tal efecto indique la primera.
+
+Cuando el arrendador proponga cláusulas distintas a la normatividad vigente en la renovación del contrato, se procederá conforme a lo establecido en el artículo 476 de este Acuerdo.
+
+La renovación de los contratos que deban ser firmados por las áreas centrales del Consejo, en términos del artículo 483 de este Acuerdo, será negociada por los Administradores Regionales, quienes se encargarán de remitir los contratos a las áreas referidas para su formalización.
+
+La Dirección General de Recursos Materiales o las Administraciones Regionales como instancias responsables de la renovación de los contratos, deberán iniciar la negociación de los que deban renovarse, con tres meses de anticipación a la conclusión de la vigencia de los contratos de arrendamiento.
+
+El incremento de los importes de la renta, en ningún caso podrá llevarse a cabo dentro de un término inferior a un año.
+
+###### Artículo 483.
+
+El instrumento contractual se formalizará de la siguiente manera:
+
+I. Si el monto mensual de la renta es hasta 1320 veces el salario mínimo general vigente en el Distrito Federal, más el impuesto al valor agregado, la firma del contrato quedará a cargo del Director General de Recursos Materiales, cuando se trate de inmuebles ubicados en el Distrito Federal y zona conurbada, y por el Coordinador de Administración Regional o Administradores Regionales, cuando se trate de inmuebles en el resto de la República Mexicana;
+
+II. Si el monto mensual de renta es de 1321 a 2640 veces el salario mínimo general vigente en el Distrito Federal, más el impuesto al valor agregado, el contrato de arrendamiento deberá suscribirse por los titulares de la Dirección General de Asuntos Jurídicos y por el Coordinador de Administración Regional o el Director General de Recursos Materiales, según corresponda;
+
+III. Si el monto mensual de la renta es de 2641 a 13200 veces el salario mínimo general vigente en el Distrito Federal, más el impuesto al valor agregado, el contrato deberá suscribirse, previa autorización del Comité de Administración Inmobiliaria, por los Directores Generales de Asuntos Jurídicos y por el Coordinador de Administración Regional o el Director General de Recursos Materiales, según corresponda y por el Secretario Ejecutivo de Administración; y
+
+IV. Si el monto mensual de la renta es superior a 13200 veces el salario mínimo general vigente en el Distrito Federal, más el impuesto al valor agregado, el contrato deberá ser firmado por los titulares a que se refiere la fracción anterior, previa autorización de la Comisión de Administración.
+
+En todos los casos, las acciones tendentes a la formalización de los contratos quedarán a cargo de las instancias competentes en los términos del artículo 466 de este Acuerdo y deberán acatar las modalidades indicadas.
+
+Las instancias responsables de la formalización de los contratos de arrendamiento, recabarán las copias necesarias con firma autógrafa de quienes en ella intervinieron, a fin de remitirlas a la Coordinación de Administración Regional y a las Direcciones Generales de Recursos Materiales; y de Asuntos Jurídicos, para que en cada una de estas áreas se lleve a cabo el resguardo y control correspondiente.
+
+Una vez formalizado el contrato de arrendamiento se dará aviso a la Dirección General de Asuntos Jurídicos para que proceda a solicitar, de conformidad con las disposiciones aplicables, la exención del pago de derechos por concepto de agua potable correspondiente.
+
+Sólo podrán realizarse mejoras, adaptaciones e instalaciones de equipos especiales, una vez que se haya firmado el contrato de arrendamiento por parte del arrendador, salvo que en casos excepcionales el Comité de Administración Inmobiliaria determine lo contrario.
+
+###### Artículo 484.
+
+Una vez firmado el contrato de arrendamiento será liberado el pago correspondiente. Las áreas administrativas que efectúen pagos de renta sin contar con el contrato de arrendamiento debidamente firmado, incurrirán en responsabilidad, independientemente de que con posterioridad se cubra este requisito.
+
+La periodicidad en el pago de las rentas no podrá ser inferior a un mes, debiéndose convenir y efectuar por períodos vencidos. Para estos efectos, se establecerán los procedimientos adecuados, con el objeto de que el pago se realice en un plazo máximo de quince días, contados a partir de la fecha del vencimiento de cada período.
+
+###### Artículo 485.
+
+El Consejo en ningún caso deberá otorgar fianzas, ni realizar depósitos como garantía del cumplimiento de los contratos de arrendamiento.
+
+###### Artículo 486.
+
+La Coordinación de Administración Regional y la Dirección General de Recursos Materiales, deberán informar semestralmente a la Secretaría Ejecutiva de Administración y al Comité de Administración Inmobiliaria, los arrendamientos suscritos y las renovaciones que hayan realizado.
+
+#### SECCIÓN DÉCIMA PRIMERA. DEL CATASTRO Y CONTROL DEL PATRIMONIO INMOBILIARIO
+
+###### Artículo 487.
+
+Todos los bienes inmuebles al servicio del Poder Judicial de la Federación, estarán sujetos a la jurisdicción federal y cualquier controversia que surja sobre ellos será resuelta por el Pleno de la Suprema Corte de Justicia de la Nación, en términos del artículo 11, fracción XX, de la Ley Orgánica.
+
+###### Artículo 488.
+
+Para efectos de este Capítulo, los bienes inmuebles al servicio del Poder Judicial de la Federación, con excepción de los arrendados o en comodato, de conformidad con la ley de la materia, son bienes nacionales sujetos al régimen de dominio público de la Federación y por tanto son inalienables, imprescriptibles e inembargables y no estarán sujetos a acción reivindicatoria o de posesión, definitiva o provisional, o alguna otra por parte de terceros.
+
+###### Artículo 489.
+
+Los particulares y las instituciones públicas definidas en el artículo 2, fracción V, de la Ley General de Bienes Nacionales podrán, en los términos previstos en este Capítulo, y siempre y cuando se justifique plenamente ante el Consejo, usar y aprovechar parcialmente los inmuebles al servicio del Poder Judicial de la Federación, con excepción de los inmuebles arrendados o en comodato, bajo la figura de la asignación temporal, gratuita u onerosa, sin que ello les confiera derecho real alguno, otorgándoles únicamente el uso o aprovechamiento precisado en la autorización correspondiente, quienes deberán cumplir en todo momento las disposiciones normativas y procedimentales que para cada caso apliquen.
+
+###### Artículo 490.
+
+Los bienes inmuebles a que se refiere el artículo 488 de este Acuerdo podrán ser asignados a alguna institución pública o a particulares, previa solicitud por escrito, cuando se satisfagan alguna de las siguientes condiciones:
+
+I. Que tratándose de instituciones públicas se acredite el cumplimiento de sus fines y éstos sean acordes a los servicios que el Poder Judicial de la Federación presta en dichos inmuebles;
+
+II. Que las superficies solicitadas no sean aprovechadas por el Poder Judicial de la Federación, o éste requiera la prestación de algún servicio a favor de sus servidores públicos o para el público usuario de la administración de justicia;
+
+III. Que el solicitante se comprometa a cubrir los costos inherentes al uso y conservación del inmueble, así como el pago de la contraprestación, cuando la asignación sea a título oneroso, otorgando las garantías que se determinen;
+
+IV. Que se obligue a la devolución cuando sea requerido para ello, o cuando deje de aprovecharlo para el propósito para el que le fue autorizado; y
+
+V. Que en ningún caso, se trate de servidores públicos del Poder Judicial de la Federación.
+
+###### Artículo 491.
+
+Corresponderá al Secretario Ejecutivo de Administración, otorgar la autorización para la asignación temporal de espacios, que someta a su consideración los Directores Generales de Recursos Materiales; de Servicios Generales; y de Inmuebles y Mantenimiento, tratándose de inmuebles ubicados en el Distrito Federal y zona conurbada, así como del Coordinador de Administración Regional para los inmuebles ubicados en el resto de la República; quienes, previamente a la propuesta que formulen, deberán verificar que, con su otorgamiento, no se afecte el interés público, ni del Poder Judicial de la Federación.
+
+En los lineamientos para la asignación temporal de espacios que apruebe la Comisión de Administración, se establecerá la obligación del Secretario Ejecutivo de Administración, de presentarle informes periódicos sobre las autorizaciones otorgadas.
+
+###### Artículo 492.
+
+Las asignaciones se extinguirán o caducarán:
+
+I. Por vencimiento del plazo por el que se otorgó;
+
+II. Por renuncia del asignatario debidamente ratificada;
+
+III. Por desaparición del objeto o justificación por el que se concedió;
+
+IV. Por nulidad, revocación o caducidad; y
+
+V. Por cualquier otra contenida en la autorización respectiva.
+
+Será causa de caducidad no iniciar el uso o aprovechamiento del inmueble asignado, dentro del plazo señalado en la autorización.
+
+La Comisión de Administración será la instancia competente para determinar respecto de la extinción o caducidad, previa propuesta que formule la Dirección General de Recursos Materiales, con el visto bueno de la de Dirección General de Asuntos Jurídicos.
+
+###### Artículo 493.
+
+Las asignaciones serán revocadas por cualquiera de las siguientes causas:
+
+I. Por dejar de cumplir con el fin para el que fue otorgada; dar al inmueble un uso distinto al autorizado o no usarlo de conformidad con lo establecido en este Capítulo o en la autorización respectiva;
+
+II. Realizar obras y adaptaciones sin contar con la previa autorización por escrito;
+
+III. Causar daños al inmueble, a sus instalaciones o equipamiento, debido a falta de mantenimiento, mal uso, negligencia y, en general, cualesquiera otro que le sea imputable al asignatario o a su personal;
+
+IV. Por causa de interés público;
+
+V. Por dejar de cubrir oportunamente la contraprestación establecida en la autorización respectiva; y
+
+VI. Por ceder los derechos u obligaciones derivados de la autorización, o por dar en arrendamiento o comodato, fracciones de la superficie asignada, sin contar previamente con el permiso correspondiente.
+
+La Comisión de Administración será la instancia competente para determinar respecto de la revocación de las asignaciones, previa propuesta que formule la Dirección General de Recursos Materiales, con el visto bueno de la Dirección General de Asuntos Jurídicos.
+
+#### SECCIÓN PRIMERA. INVESTIGACIÓN
+
+###### Artículo 494.
+
+La adquisición de bienes inmuebles para el servicio del Poder Judicial de la Federación, deberá orientarse invariablemente a la satisfacción de sus necesidades de espacio, conforme a lo siguiente:
+
+I. Las propuestas de adquisición de inmuebles, deberán ajustarse a los programas anuales y requerimientos para la adquisición y arrendamiento de inmuebles para atender las necesidades del Poder Judicial de la Federación;
+
+II. Acreditada la justificación para la adquisición de un inmueble en localidad determinada, deberá revisarse previamente el Sistema de Información Inmobiliaria Federal y Paraestatal, con el objeto de verificar la existencia de inmuebles federales disponibles, parcial o totalmente, adecuados o convenientes a las necesidades planteadas;
+
+III. Independientemente de la gestión a que se refiere la fracción anterior, la Dirección General de Servicios Generales y la Coordinación de Administración Regional, por conducto de sus Administraciones Regionales y Delegaciones Administrativas, según corresponda, en los casos en que se estime conveniente, gestionarán ante las autoridades de las entidades federativas o municipales de la localidad donde se requiera el inmueble, la donación, permuta o, en su caso, comodato cuyas características, ubicación y dimensiones puedan ser aprovechados para la instalación, funcionamiento o reubicación de órganos jurisdiccionales o áreas administrativas. Tratándose de donación de terrenos, previamente a su aceptación, deberá verificarse que el término sujeto a condición para iniciar la construcción por parte del Consejo, no sea menor a dos años;
+
+IV. La Dirección General de Inmuebles y Mantenimiento deberá dictaminar si el inmueble que se pretende adquirir es viable para albergar a los órganos jurisdiccionales o áreas administrativas de que se trate y realizará la estimación aproximada del monto de la inversión y tiempo de ejecución de las obras para que el inmueble esté en condiciones de ser ocupado;
+
+V. La Dirección General de Servicios Generales deberá recabar el dictamen favorable a que se refiere la fracción anterior, así como las opiniones de la Coordinación de Seguridad del Poder Judicial de la Federación y de la Dirección General de Protección Civil y Salud en el Trabajo;
+
+VI. A fin de garantizar los intereses del Consejo, la Dirección General de Servicios Generales recabará avalúo en el momento que lo estime oportuno;
+
+VII. La Dirección General de Servicios Generales designará cuando lo estime oportuno, al Notario del Patrimonio Inmobiliario Federal.
+
+La designación del Notario se hará de entre aquellos que conforman la lista que elabora la Secretaría de la Función Pública; y deberá recaer preferentemente en aquél que se ubique en la entidad federativa en que se localice el inmueble.
+
+El Notario designado, al aceptar realizar la prestación de sus servicios profesionales para estos efectos, deberá hacerlo de conformidad con lo dispuesto en este Acuerdo y demás disposiciones aplicables;
+
+VIII. La Dirección General de Servicios Generales deberá obtener:
+
+a) Planos del inmueble;
+
+b) Dictamen de seguridad estructural;
+
+c) Constancia de uso de suelo;
+
+d) Escritura de propiedad del inmueble;
+
+e) En su caso, instrumento donde consten las facultades para actos de dominio del apoderado o representante legal;
+
+f) Identificación oficial del propietario, apoderado o representante legal;
+
+g) Certificado de existencia o inexistencia de gravámenes; y
+
+h) Los documentos que se requieran conforme a las disposiciones aplicables.
+
+Para la obtención de los documentos a que se refiere el párrafo anterior, la Dirección General de Servicios Generales podrá auxiliarse del Notario del Patrimonio Inmobiliario Federal designado, y de la Coordinación de Administración Regional a través de sus Administraciones Regionales y Delegaciones Administrativas.
+
+El Notario del Patrimonio Inmobiliario Federal deberá verificar que el uso de suelo sea compatible con la finalidad para la cual se pretende adquirir el inmueble; y el cumplimiento de los requisitos legales de los documentos a que se refieren los incisos c) y h) de ésta fracción;
+
+IX. Los documentos a que se refieren los incisos a) y b) de la fracción anterior, deberán contar con dictamen favorable de la Dirección General de Inmuebles y Mantenimiento;
+
+X. El Notario del Patrimonio Inmobiliario Federal deberá revisar la documentación necesaria para la adquisición del inmueble y elaborará el proyecto de instrumento jurídico que proceda para ese fin, para lo cual podrá solicitar a la Dirección General de Servicios Generales la información y documentación que estime necesaria.
+
+El proyecto que elabore el Notario del Patrimonio Inmobiliario Federal será remitido a la Dirección General de Asuntos Jurídicos para su dictamen. Si ésta considera que dicho proyecto cumple con los requisitos necesarios para su suscripción, lo remitirá al titular de la Dirección General de Servicios Generales. En el supuesto contrario, formulará los comentarios y las observaciones que estime procedentes y, en su caso, las remitirá al Notario del Patrimonio Inmobiliario Federal. El dictamen de la Dirección General de Asuntos Jurídicos debe precisar si los documentos a que se refiere la fracción VIII, incisos d) a g) de este artículo cumplen favorablemente con los requisitos legales.
+
+Cuando el Notario del Patrimonio Inmobiliario Federal considere que resulta jurídicamente improcedente realizar la adquisición o que falten requisitos para ello, elaborará un documento en el que especifique las razones de esa circunstancia y lo remitirá a la Dirección General de Asuntos Jurídicos, quien previa revisión y opinión del mismo lo remitirá a la Dirección General de Servicios Generales;
+
+XI. El expediente de viabilidad para la adquisición del inmueble deberá contener la información relativa a su justificación; destino y ubicación; superficie; características técnicas y funcionales; idoneidad de instalaciones; preservación de imagen institucional, así como las constancias a que se refieren las fracciones II y, en su caso, III de este artículo;
+
+XII. Antes de que ese expediente se someta a consideración del Comité de Administración Inmobiliaria, deberán preverse y gestionarse la disponibilidad presupuestal que permita la operación, así como las autorizaciones para las inversiones que, en su caso, se requieran para su adaptación, remodelación o construcción, y los demás que resulten o se consideren necesarias para su fin;
+
+XIII. La Dirección General de Servicios Generales deberá someter el expediente a consideración del Comité de Administración Inmobiliaria, para lo cual deberá acompañar los soportes documentales requeridos, salvo aquellos casos en que se estime conveniente presentarlo sin contar con la totalidad de éstos; y
+
+XIV. El Comité de Administración Inmobiliaria deberá analizar el expediente y en caso de cumplir con los requisitos, emitir un dictamen de la adquisición, en el cual se precise que los documentos presentados cumplen con los fines que se pretenden con la adquisición.
+
+###### Artículo 495.
+
+La Dirección General de Inmuebles y Mantenimiento elaborará las normas con los datos técnicos de necesidades, requisitos y condiciones que deban tener los inmuebles susceptibles de adquisición por parte del Consejo.
+
+###### Artículo 496.
+
+Para la adquisición de cualquier inmueble para uso del Poder Judicial de la Federación, se tomará en cuenta que el precio sea acorde a las condiciones del mercado inmobiliario de la localidad, lo cual se verificará mediante avalúo que será elaborado, a elección del Secretario Ejecutivo de Administración, por el Instituto de Administración y Avalúos de Bienes Nacionales; por instituciones de crédito; sociedades nacionales de crédito; o por la Sociedad de Ingenieros Civiles Valuadores (SICIV), afiliada al Colegio de Ingenieros de México. Excepcionalmente podrá solicitarse más de un avalúo o bien uno distinto a los antes indicados.
+
+El perito valuador designado deberá cumplir con la normatividad aplicable para la validez del avalúo.
+
+El precio de la adquisición no podrá exceder al determinado por el avalúo a que se refiere el párrafo precedente. En caso de negativa del vendedor a aceptar dicho precio, y por razones debidamente justificadas, el Pleno podrá realizar los ajustes que considere convenientes.
+
+###### Artículo 497.
+
+El titular de la Secretaría Ejecutiva de Administración, previo dictamen del Comité de Administración Inmobiliaria, someterá a la consideración de la Comisión de Administración la solicitud de autorización de la adquisición con el expediente debidamente integrado, el cual deberá contener la documentación a que alude el artículo 494 de este Acuerdo. Esto con el fin de que ese órgano colegiado proponga al Pleno, en su caso, la aprobación de la adquisición. De ser aprobada por el Pleno, éste designará al servidor público que deba suscribir por parte del Consejo el instrumento jurídico respectivo.
+
+Cuando se considere aplicable la excepción a que se refiere el artículo 494, fracción XIII, de este Acuerdo, el expediente podrá presentarse sin que esté debidamente integrado en los términos que prevé el párrafo anterior. En este supuesto, el Pleno podrá autorizar la adquisición del inmueble condicionada al cumplimiento de los requisitos que exija la normatividad aplicable. En todo caso, el Comité de Administración Inmobiliaria será responsable de verificar dicho cumplimiento.
+
+En la recepción de los inmuebles, invariablemente se levantará acta circunstanciada en la que se haga constar el inventario, las condiciones de las instalaciones y equipos propios del inmueble, aplicándose en lo conducente, las prevenciones consignadas en el artículo 471 de este Acuerdo.
+
+###### Artículo 498.
+
+Aprobada por el Pleno la adquisición, el asunto se turnará a la Dirección General de Asuntos Jurídicos para que por su conducto se comunique al Notario del Patrimonio Inmobiliario Federal antes designado, que lleve a cabo las gestiones necesarias para formalizarla.
+
+Esta Dirección General verificará que una vez firmado el instrumento jurídico respectivo, se inscriba en los Registros Público correspondientes a la ubicación del inmueble, dando aviso de ello al Secretario Ejecutivo de Administración.
+
+###### Artículo 499.
+
+En las operaciones contractuales en que participe el Poder Judicial de la Federación, por conducto del Consejo, y en términos de lo dispuesto por el artículo 98 de la Ley General de Bienes Nacionales, los honorarios que correspondan conforme al arancel que establezca los honorarios de los notarios, se reducirán en un 50%.
+
+Los honorarios comprenderán las gestiones y trámites que, en su caso, lleve a cabo el Notario del Patrimonio Inmobiliario Federal para la obtención de los documentos a que se refiere el artículo 494, fracción VIII, de este Acuerdo, con independencia de que se formalice la adquisición.
+
+#### SECCIÓN SEGUNDA. PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR
+
+###### Artículo 500.
+
+Los bienes inmuebles al servicio del Poder Judicial de la Federación que le hayan sido destinados para la prestación de un servicio público mediante decreto presidencial o acuerdo administrativo y se encuentren incorporados al régimen de dominio público de la Federación, que no le sean útiles, ni sean susceptibles de asignarse o reasignarse entre sus órganos jurisdiccionales o áreas administrativas, serán puestos a disposición de la Secretaría de la Función Pública por el Responsable Inmobiliario, previo acuerdo favorable del Pleno.
+
+###### Artículo 501.
+
+Para los efectos precisados en el párrafo anterior, el Comité de Administración Inmobiliaria, deberá documentar y acreditar la inutilidad del inmueble y presentar al Pleno, con la opinión de la Comisión de Administración, el dictamen que sirva de base para resolver lo conducente.
+
+Para los efectos de este Capítulo, se consideran inmuebles sin utilidad institucional, aquéllos que por sus características o condiciones físicas, funcionalidad, imagen institucional, ubicación, seguridad estructural, restricciones de uso, mantenimiento o conservación, no son susceptibles de ser aprovechados de manera razonable y suficiente para satisfacer las necesidades de los órganos jurisdiccionales o áreas administrativas, conforme al dictamen que emita la Dirección General de Inmuebles y Mantenimiento.
+
+La devolución de los inmuebles se formalizará mediante la elaboración de las actas de entrega recepción correspondientes, siguiendo en lo aplicable el procedimiento señalado en el artículo 68 de la Ley General de Bienes Nacionales, quedando relevado el Poder Judicial de la Federación, a partir de ese momento, de cualquier responsabilidad o gasto derivado de su conservación, mantenimiento o vigilancia sobre el mismo.
+
+###### Artículo 502.
+
+Los inmuebles que por cualquier título haya adquirido el Poder Judicial de la Federación, que dejen de ser útiles para los fines para los cuales hayan sido destinados, podrán ser objeto de los siguientes actos de disposición:
+
+I. Enajenación a título oneroso;
+
+II. Permuta con entidades de la administración pública paraestatal; los gobiernos de los estados, del Distrito Federal y de los municipios, cuando por su ubicación, características y aptitudes satisfagan las necesidades de las partes;
+
+III. Afectación a fondos de fideicomisos públicos en los que el Poder Judicial de la Federación sea fideicomitente o fideicomisario; y
+
+IV. Donación a favor de los gobiernos de los estados, del Distrito Federal y de los municipios, para que se utilicen los inmuebles en servicios de administración de justicia locales, fines de asistencia social, o para promover acciones de interés general o de beneficio colectivo.
+
+Los ingresos provenientes por la enajenación de inmuebles a título oneroso, en los términos de la fracción II del artículo 243 de la Ley Orgánica, pasarán a integrar el patrimonio del Fondo de Apoyo a la Administración de Justicia.
+
+###### Artículo 503.
+
+Previamente a la realización de alguno de los actos de disposición a que se refiere el artículo anterior, tratándose de bienes inmuebles sujetos al régimen de dominio público de la Federación, el Pleno emitirá el acuerdo de desincorporación correspondiente, el cual deberá ser publicado en el Diario Oficial de la Federación e inscrito en el Registro Público de la Propiedad Federal.
+
+Los inmuebles considerados como monumentos históricos o artísticos conforme a la ley de la materia, o la declaratoria correspondiente, no podrán ser objeto de desincorporación del régimen de dominio público.
+
+###### Artículo 504.
+
+Para disponer de los inmuebles que no resulten útiles para los fines del Poder Judicial de la Federación y proceder a su enajenación, bajo cualquiera de los títulos a que se refiere el artículo 502 de este Acuerdo, el Comité de Administración Inmobiliaria propondrá a la Comisión de Administración el punto para acuerdo respectivo, en el cual justificará las razones para la enajenación, así como la recomendación de la forma en que ésta deberá llevarse a cabo, de tal manera que los intereses del Poder Judicial de la Federación queden debidamente preservados.
+
+Una vez que la Comisión de Administración analice la propuesta referida, de estimarla procedente, la someterá a la aprobación del Pleno, para que resuelva en definitiva y confirme el tipo de enajenación que deberá llevarse a cabo, así como las condiciones particulares de la operación, el precio de venta, en su caso, y el servidor público facultado para suscribir el contrato respectivo.
+
+###### Artículo 505.
+
+Tratándose de terrenos donados condicionalmente al Poder Judicial de la Federación, por conducto del Consejo, por parte de gobiernos estatales, del Distrito Federal o municipales y estén sujetos a un plazo determinado para la construcción o instalación de órganos jurisdiccionales o áreas administrativas, al término de éste, sin que se hubiere iniciado la construcción pactada, podrá optarse por solicitar y negociar una prórroga al plazo convenido, o bien, en el supuesto de que no se tengan previsiones presupuestales para ello, deberá ser devuelto a la autoridad donante.
+
+###### Artículo 506.
+
+Los bienes inmuebles que se ofrezcan en permuta al Poder Judicial de la Federación, por conducto del Consejo, deberán satisfacer los requerimientos de ubicación, funcionalidad, seguridad e imagen institucional que autorice el Pleno, así como acreditar un mejor aprovechamiento comparativamente con el bien que se desea permutar, a juicio de las áreas normativas u operativas involucradas.
+
+###### Artículo 507.
+
+El Responsable Inmobiliario del Consejo, de conformidad a lo dispuesto por la Ley General de Bienes Nacionales, informará a la Secretaría de la Función Pública de los actos jurídicos relativos a la adquisición, desincorporación y enajenación de bienes inmuebles al servicio del Poder Judicial de la Federación.
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+###### Artículo 508.
+
+La enajenación a título oneroso de los inmuebles del Poder Judicial de la Federación, a que se refiere la fracción I del artículo 502 de este Acuerdo, se llevará a cabo mediante licitación pública, salvo aquéllos que sean enajenados a instituciones o entidades públicas, a propietarios de predios colindantes, a organizaciones sindicales reconocidas por la legislación laboral vinculadas al Poder Judicial de la Federación, o a aquéllas personas físicas o morales que realicen actividades de asistencia social, acciones de interés general y de beneficio colectivo, a juicio del Pleno, en los cuales la venta se efectuará a través de adjudicación directa, previa la acreditación de los supuestos respectivos.
+
+###### Artículo 509.
+
+En las enajenaciones a título oneroso a que se refiere el artículo anterior, deberá solicitarse y obtenerse un avalúo en los términos precisados en el artículo 496 de este Acuerdo, para determinar su valor base.
+
+###### Artículo 510.
+
+La licitación pública es el procedimiento a través del cual el Consejo, mediante una convocatoria pública, elige a la persona física o moral que le ofrezca el mejor precio por la adquisición de un inmueble.
+
+###### Artículo 511.
+
+Las convocatorias públicas para la enajenación por licitación de bienes inmuebles deberán publicarse en el Diario Oficial de la Federación.
+
+Las convocatorias deberán contener los siguientes datos:
+
+I. Estar redactada en español;
+
+II. Contener la indicación de que es el Consejo quien convoca;
+
+III. Descripción, ubicación y precio de avalúo del bien inmueble;
+
+IV. Lugar, fecha y horario en que los interesados podrán obtener las bases y, en su caso, el costo y forma de pago de las mismas;
+
+V. Lugar, fecha y hora de celebración del acto de apertura de las ofertas económicas y, en su caso, del fallo;
+
+VI. Forma y porcentaje de la garantía de seriedad de las ofertas; y
+
+VII. Documentación que deberán presentar los interesados.
+
+###### Artículo 512.
+
+La Dirección General de Recursos Materiales realizará las licitaciones públicas en los plazos siguientes:
+
+I. La consulta y, en su caso, venta de bases se realizará durante un plazo mínimo de diez días hábiles, contados a partir de la fecha de publicación de la convocatoria;
+
+II. Entre el último día de venta de bases y el acto de apertura de propuestas deberá mediar un plazo mínimo de diez días hábiles;
+
+III. Las visitas al inmueble serán llevadas a cabo durante los cinco días hábiles siguientes al último día de venta de bases, mediando un plazo mínimo de cinco días hábiles entre su celebración y el acto de apertura de propuestas;
+
+IV. Para la emisión del informe ejecutivo deberá mediar un plazo máximo de veinte días hábiles contados a partir de la fecha en que tenga verificativo el acto de apertura de propuestas; y
+
+V. Entre la presentación del informe ejecutivo al Comité de Administración Inmobiliaria y la emisión del fallo, mediará un plazo máximo de diez días hábiles.
+
+###### Artículo 513.
+
+Las bases que emita el Consejo para las licitaciones públicas, se pondrán a disposición de los interesados, en el domicilio señalado para tal efecto, a partir del día de publicación de la convocatoria. Las bases deberán contener como mínimo lo siguiente:
+
+I. Que las emite el Consejo;
+
+II. Descripción completa, ubicación y precio de avalúo del inmueble;
+
+III. Lugar, fecha y hora de celebración del acto de apertura de ofertas económicas y, en su caso, del fallo;
+
+IV. Requisitos que deberán cumplir quienes deseen participar, entre otros, la identificación del participante, la obligación de garantizar la seriedad de su oferta, de firmar las bases, así como de presentar la oferta en sobre cerrado y, en su caso, el comprobante de pago de las bases;
+
+V. Instrucciones para la presentación de las ofertas;
+
+VI. Fecha límite de pago del bien inmueble, en caso de ser adjudicado;
+
+VII. Criterios de adjudicación;
+
+VIII. Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases, así como el que las ofertas presentadas no cubran el precio de avalúo fijado para el inmueble;
+
+IX. Causas por las cuales la licitación podrá declararse desierta;
+
+X. Indicación de que la garantía de seriedad de las ofertas se hará efectiva en caso de que el adjudicado incumpla con el pago del bien inmueble; y
+
+XI. Incluir un señalamiento relativo a una declaración de integridad, de tal manera que los licitantes al presentar las bases firmadas acepten, bajo protesta de decir verdad, de que se abstendrán de adoptar conductas, por sí mismos o a través de interpósita persona para que los servidores públicos del Consejo, induzcan o alteren la evaluación de las ofertas, el resultado del procedimiento u otros aspectos que les otorguen condiciones más ventajosas con relación a los demás participantes.
+
+###### Artículo 514.
+
+En los procedimientos de enajenación por licitación pública, el Consejo exigirá de los interesados en adquirir bienes, que garanticen la seriedad de sus ofertas mediante cheque certificado o de caja a favor del Consejo.
+
+El monto de la garantía será por el equivalente al 10% del precio de avalúo, la que será devuelta a los interesados al término del acto de fallo, salvo aquélla que corresponda al licitante ganador, la cual se retendrá a título de garantía del cumplimiento del pago de los bienes adjudicados y su importe se podrá aplicar a la cantidad que se hubiere obligado a cubrir.
+
+Corresponderá a la Dirección General de Recursos Materiales calificar, aceptar, registrar, conservar en guarda y custodia y devolver las garantías que los licitantes presenten en la enajenación de bienes.
+
+###### Artículo 515.
+
+Toda persona interesada que satisfaga los requisitos de las bases tendrá derecho a presentar ofertas.
+
+En la fecha y hora previamente establecidas, la Dirección General de Recursos Materiales deberá proceder a iniciar el acto de apertura de ofertas económicas, en el cual se dará lectura en voz alta de las propuestas presentadas por cada uno de los licitantes, informándose de aquellas que, en su caso, se desechen debido a que el participante no cumpla con alguno de los requisitos establecidos y las causas que motiven tal determinación.
+
+Además, con la participación de la Contraloría y de la Dirección General de Asuntos Jurídicos, levantará el acta respectiva a fin de dejar constancia de los actos de apertura de ofertas económicas y de fallo, la cual será firmada por los asistentes. La omisión de firma por parte de los licitantes no invalidará su contenido y efectos.
+
+###### Artículo 516.
+
+Para la adjudicación del bien inmueble, la Dirección General de Recursos Materiales elaborará un informe ejecutivo que deberá contener el cuadro comparativo de las propuestas económicas presentadas, indicando aquellas que cumplan con los requisitos establecidos en las bases, así como la propuesta de adjudicación.
+
+###### Artículo 517.
+
+Una vez autorizada la adjudicación por el Comité de Administración Inmobiliaria, previo acuerdo de la Comisión de Administración, la Dirección General de Recursos Materiales notificará por escrito el resultado del fallo a los participantes, informándole al ganador que deberá comparecer en la fecha que se señale para la firma de las escrituras públicas ante el Notario Público que haya designado el Consejo y en ese acto cubra la totalidad del precio de la compraventa del inmueble.
+
+###### Artículo 518.
+
+En caso de que el licitante ganador incumpla con el pago del bien inmueble adjudicado, el Consejo hará efectiva la garantía correspondiente y podrá adjudicar dicho bien sin necesidad de un nuevo procedimiento al participante que haya presentado la siguiente mejor oferta, siempre y cuando ésta no sea inferior al precio base determinado por el avalúo.
+
+###### Artículo 519.
+
+La Dirección General de Recursos Materiales declarará desierta la licitación pública en los siguientes supuestos:
+
+I. Que no se registren concursantes a la licitación;
+
+II. Que ninguna de las propuestas presentadas reúna los requisitos establecidos en las bases de la licitación;
+
+III. Que las ofertas presentadas estén por debajo del precio base determinado por el avalúo; y
+
+IV. Por razones de interés general.
+
+El Consejo podrá cancelar una licitación por caso fortuito o fuerza mayor, o cuando existan circunstancias debidamente justificadas que extingan la necesidad para enajenar bienes, y que de continuarse con el procedimiento pudiera ocasionar un daño o perjuicio al Consejo. En tal caso, se efectuará a los licitantes el reembolso de gastos debidamente justificados y comprobables.
+
+###### Artículo 520.
+
+Si realizada una licitación pública, el inmueble de que se trate no se vende, el Consejo podrá optar, para asegurar las mejores condiciones en cuanto a precio, oportunidad y demás circunstancias pertinentes, por alguna de las siguientes alternativas de venta:
+
+I. Celebrar una segunda licitación, señalando como postura legal el 80% del valor base determinado por el avalúo. De no venderse el inmueble, podrá proceder a celebrar una tercera licitación, estableciéndose como postura legal el 60% del valor base;
+
+II. Adjudicar directamente el inmueble a la persona que cubra el valor base determinado por el avalúo; o
+
+III. Adjudicar el inmueble en caso de haberse efectuado una segunda o tercera licitación pública, sin venderse el bien y no existir propuesta para cubrir el precio base, a quien cubra la postura legal de la última licitación que se hubiere realizado.
+
+#### SECCIÓN SEGUNDA. COMITÉ DE DESINCORPORACIÓN DE BIENES
+
+###### Artículo 521.
+
+Es facultad del Consejo proveer los espacios físicos, suficientes y adecuados, para la operación y funcionamiento de los órganos jurisdiccionales y áreas administrativas.
+
+###### Artículo 522.
+
+Las Direcciones Generales de Inmuebles y Mantenimiento; de Recursos Materiales; de Servicios Generales, y la Coordinación de Administración Regional, de acuerdo con sus atribuciones, serán responsables de proponer al Comité de Administración Inmobiliaria, para la autorización del Pleno, previa opinión de la Comisión de Administración, las políticas, criterios y normas de diseño para la asignación, utilización y aprovechamiento de los espacios físicos en los inmuebles administrados por el Consejo, que servirán de base para la ejecución de las obras y proyectos arquitectónicos acordes a las necesidades y requerimientos, observando los principios de homogeneidad, austeridad, racionalidad y funcionalidad. Además, los proyectos y las obras respectivas deberán reflejar la imagen institucional del Poder Judicial de la Federación.
+
+Los criterios y políticas deberán comprender la estandarización de espacios, mobiliario, equipo de administración, informático y de comunicación requerido, así como regular su aplicación dentro de los procesos de diseño que se efectúen dentro y fuera del Consejo, tanto en obra nueva, como en remodelaciones y adaptaciones, en inmuebles propios, destinados, arrendados o en comodato.
+
+El Responsable Inmobiliario coordinará y supervisará la realización de los trabajos a que se refiere este artículo.
+
+###### Artículo 523.
+
+Con la finalidad de que sea sometida a la aprobación de la Comisión de Administración, el Responsable Inmobiliario del Consejo coordinará los trabajos necesarios para que las áreas competentes formulen una propuesta de criterios generales relativos al diseño arquitectónico, de materiales, equipos y mobiliario con características específicas y un análisis de áreas en cuanto a metros cuadrados de superficie requeridos por órganos jurisdiccionales o áreas administrativas.
+
+Asimismo, deberán considerarse en la propuesta los parámetros de superficie asignada por tipo de usuario, tomando en cuenta las características máximas a cumplir y los estándares de acabados, servicios y equipos, asignados por actividad de los servidores públicos del Consejo.
+
+###### Artículo 524.
+
+Corresponde a las Administraciones Regionales y Delegaciones Administrativas, atender las necesidades de conservación y mantenimiento de los inmuebles ubicados en el interior de la República, aplicando las políticas, métodos y procedimientos autorizados. Para los inmuebles localizados en el Distrito Federal y zona conurbada, tales responsabilidades recaen en la Dirección General de Recursos Materiales, por conducto de los Administradores de los inmuebles. La Dirección General de Inmuebles y Mantenimiento deberá proporcionar el apoyo que se requiera, cuando las actividades de conservación y mantenimiento, por su naturaleza o magnitud, rebasen los montos de los parámetros que se tengan establecidos.
+
+###### Artículo 525.
+
+La Coordinación de Seguridad del Poder Judicial de la Federación tiene a su cargo la operación de los sistemas de seguridad y vigilancia de los inmuebles; la realización de los estudios para la instalación de los equipos de seguridad y emergencia con que se deban contar en los centros de trabajo.
+
+La Dirección General de Protección Civil y Salud en el Trabajo y la Coordinación de Administración Regional, a través de las Administraciones Regionales y Delegaciones Administrativas, en sus respectivos ámbitos de competencia y responsabilidad, tienen a su cargo la realización de los estudios para la prevención de siniestros; y la instalación de los equipos de emergencia con que se deban contar en los centros de trabajo.
+
+Las tres unidades administrativas, deberán gestionar y dar seguimiento, ante las áreas administrativas competentes, las necesidades de mantenimiento preventivo y correctivo que puedan afectar la seguridad de las personas y de los bienes inmuebles.
+
+#### SECCIÓN TERCERA. PROCEDIMIENTO DE DESINCORPORACIÓN
+
+###### Artículo 526.
+
+El inventario de inmuebles del Poder Judicial de la Federación comprende el acervo de todos los bienes inmuebles administrados por el Consejo.
+
+###### Artículo 527.
+
+El Responsable Inmobiliario, a través del Coordinador de Administración Regional, y de los Directores Generales de Recursos Materiales; y de Servicios Generales, en su ámbito de competencia, deberán establecer y mantener actualizado, con carácter permanente, un sistema de administración de inmuebles, que contendrá la información del inventario de los bienes inmuebles a que se refiere el artículo anterior.
+
+La Coordinación de Administración Regional, a través de sus Administraciones Regionales y Delegaciones Administrativas, deberá proporcionar la información requerida por la Dirección General de Recursos Materiales, cuando se trate de inmuebles adquiridos, en destino y comodato que se encuentren a disposición del Consejo, en el interior de la República.
+
+Cualquier modificación que se realice respecto al inventario, régimen jurídico, obra pública y, en general, aquella que afecte su situación física, jurídica o administrativa, deberá informarse de inmediato a la Dirección General de Recursos Materiales, para la actualización del catastro general.
+
+###### Artículo 528.
+
+El Catastro de Inmuebles del Consejo es el registro sistematizado de documentos que contiene el control de la situación física y jurídica, así como administrativa de los inmuebles adquiridos o destinados al Poder Judicial de la Federación.
+
+###### Artículo 529.
+
+El Catastro de Inmuebles del Consejo tiene como propósito constituir un instrumento de apoyo y consulta para alcanzar sus fines en las labores sustantivas de las áreas administrativas, mediante su plena identificación física.
+
+###### Artículo 530.
+
+Corresponde a la Dirección General de Recursos Materiales, la compilación, organización, guarda, actualización y control de la información y documentación relativa al catastro de los inmuebles administrados por el Poder Judicial de la Federación.
+
+La Coordinación de Administración Regional, y las Direcciones Generales de Asuntos Jurídicos; y de Inmuebles y Mantenimiento, en su ámbito de competencia, proporcionarán oportunamente a la Dirección General de Recursos Materiales la información y documentación a que se refiere el párrafo anterior.
+
+###### Artículo 531.
+
+El Catastro de Inmuebles del Consejo contendrá, cuando menos, la siguiente información y documentación:
+
+I. Clave del inmueble;
+
+II. Dictamen técnico de las características del inmueble, elaborado por la Dirección General de Inmuebles y Mantenimiento;
+
+III. Situación jurídica, en específico si se trata de adquisición, destino o comodato;
+
+IV. En su caso, valor de adquisición del inmueble;
+
+V. Original de la escritura pública del contrato o instrumento donde conste la adquisición o legal posesión del inmueble o, en su caso, el acuerdo de destino;
+
+VI. Datos de inscripción en los registros públicos de la propiedad federal y de la entidad federativa donde se ubique físicamente el inmueble;
+
+VII. Acta de entrega-recepción en que se haga constar el inventario, condiciones de instalación y equipos propios del inmueble, o a falta de ésta, constancia suscrita por el responsable del inmueble que así lo señale; y
+
+VIII. En su caso, órganos jurisdiccionales o áreas administrativas alojados en el inmueble.
+
+###### Artículo 532.
+
+La Coordinación de Administración Regional y la Dirección General de Recursos Materiales, y las Administraciones Regionales, informarán al Responsable Inmobiliario todo cambio de situación respecto de los inmuebles administrados en cada entidad federativa, considerando la obligación del Consejo de salvaguardarlos, llevando a cabo las acciones pertinentes a fin de evitar que los mismos sean objeto de invasiones por terceros, vandalismo o de tiradero de desechos.
+
+En toda adquisición de inmuebles, la Dirección General de Servicios Generales deberá tramitar, tan pronto como sea posible, que los servicios de agua potable y energía eléctrica se presten a nombre del Consejo.
+
+Para el caso de las contribuciones vinculadas a los inmuebles al servicio del Poder Judicial de la Federación, se deberá dar aviso a la Dirección General de Asuntos Jurídicos, para que gestione las exenciones de pago que procedan, salvo lo previsto en el artículo 176, fracción XII, del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo.
+
+Asimismo, se establecerán las medidas de seguridad, vigilancia y protección civil, para preservar la seguridad e integridad física de los servidores públicos, público usuario y, en general, de los bienes que conforman su patrimonio, las cuales deberán ser compatibles con las expedidas por las autoridades federales y locales.
+
+### CAPÍTULO PRIMERO. COMITÉ DE INFORMATICA}
+
+###### Artículo 533.
+
+Los titulares de las áreas administrativas, los Administradores Regionales, los Delegados Administrativos y los Administradores de Edificios en el Distrito Federal y zona conurbada, deberán remitir a la Dirección General de Asuntos Jurídicos, previamente a su suscripción, los proyectos de contratos, convenios, órdenes de servicio, pedidos, bases de coordinación o cualesquiera otro instrumento que generen derechos u obligaciones de cualquier tipo al Consejo, que elaboren en el ámbito de su competencia, a efecto de que dicha área emita la opinión o dictamen de procedencia que corresponda.
+
+###### Artículo 534.
+
+La remisión de los documentos a que se refiere el artículo anterior, debidamente acompañada de la documentación soporte, salvo casos excepcionales, deberá realizarse con, por lo menos, cinco días hábiles de anticipación a la fecha programada para su suscripción, inserta en el propio instrumento o, en su caso, la que fije el inicio de su vigencia y efectos.
+
+La Dirección General de Asuntos Jurídicos por su parte, emitirá la opinión o el dictamen de procedencia o, en su caso, las observaciones conducentes, en un plazo no mayor a tres días hábiles, contados a partir de la recepción del proyecto, siempre y cuando éste sea acompañado de los soportes documentales indispensables para ello. De resultar incompleta la información documental, dentro de las cuarenta y ocho horas siguientes a su recepción, deberá requerirse la faltante, con la finalidad de que la misma sea remitida a la brevedad posible.
+
+###### Artículo 535.
+
+Los contratos, convenios, pedidos u órdenes de servicio que se celebren; bajo la más estricta responsabilidad de los titulares de las áreas administrativas; conforme a las disposiciones contenidas en el Título Primero del Libro Tercero, de este Acuerdo; y ajustándose a los formatos elaborados por la Dirección General de Asuntos Jurídicos y aprobados por los órganos colegiados respectivos, quedan exceptuados de la obligación de obtener opinión o dictamen de procedencia por parte de la citada unidad administrativa.
+
+En estos casos, dichos instrumentos, una vez suscritos, deberán ser remitidos para su registro y custodia a la Dirección General de Asuntos Jurídicos en los términos previstos en este Capítulo.
+
+La excepción antes señalada, no será aplicable cuando se trate de contrataciones que deriven de licitación pública, adjudicaciones directas que se realicen con fundamento en el artículo 341, fracción II, de este Acuerdo o se trate de obra pública y servicios relacionados con la misma que efectúe este Consejo.
+
+###### Artículo 536.
+
+Todos los contratos, convenios y demás instrumentos jurídicos que sean opinados favorables o dictaminados procedentes, deberán ser firmados o rubricados por el Director General de Asuntos Jurídicos o por el servidor público autorizado para ello, o en su caso, marcados, sellados o perforados, según se determine por la Comisión de Administración, para acreditar la revisión jurídica de los mismos.
+
+###### Artículo 537.
+
+La Dirección General de Asuntos Jurídicos tendrá a su cargo el registro y resguardo de todos los instrumentos jurídicos a que se refiere el Título Primero del Libro Tercero, de este Acuerdo, en original o copia debidamente certificada, sin perjuicio de que los titulares de las áreas administrativas tengan sus propios archivos documentales; para lo anterior, los titulares de las áreas antes señaladas deberán remitirlos dentro de los treinta días naturales siguientes a su formalización.
+
+###### Artículo 538.
+
+Para la inscripción en el Registro de Instrumentos Jurídicos, la Dirección General de Asuntos Jurídicos establecerá, organizará y mantendrá actualizado, de manera permanente, un registro electrónico que contendrá, de manera consecutiva, los datos de todos los instrumentos jurídicos que hayan sido suscritos.
+
+###### Artículo 539.
+
+Los datos a que se refiere el artículo anterior contendrán, cuando menos, la siguiente información:
+
+I. Número consecutivo de registro;
+
+II. Tipo de instrumento jurídico;
+
+III. Partes que intervienen en su suscripción;
+
+IV. Breve descripción de su objeto; y
+
+V. Vigencia.
+
+###### Artículo 540.
+
+La custodia y resguardo de los instrumentos jurídicos se ajustará a las disposiciones contenidas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Archivos.
+
+### CAPÍTULO SEGUNDO. ADMINISTRACIONES DE LOS EDIFICIOS
+
+###### Artículo 541.
+
+El Consejo es autoridad competente para aplicar la Ley Anticorrupción y, por ende, para dictar las disposiciones administrativas necesarias para su adecuado cumplimiento en las contrataciones públicas a su cargo.
+
+###### Artículo 542.
+
+En el ámbito de su competencia y únicamente para efectos administrativos, la Comisión de Administración interpretará la Ley Anticorrupción y este Capítulo. La Comisión de Administración podrá someter el asunto al Pleno cuando estime que éste, debe fijar la interpretación.
+
+###### Artículo 543.
+
+A propuesta de la Comisión de Administración, el Pleno podrá autorizar la celebración de los convenios en el ámbito de la Ley Anticorrupción. En el acuerdo de autorización se determinará el servidor público que deba suscribir el convenio en representación del Consejo.
+
+#### SECCIÓN CUARTA. DESTINO FINAL DE LOS BIENES
+
+###### Artículo 544.
+
+La Contraloría conocerá, por conducto de la Dirección General de Responsabilidades, de las presuntas infracciones objeto de la Ley Anticorrupción e iniciará las investigaciones reguladas en su Capítulo Tercero y demás disposiciones aplicables por:
+
+I. Denuncia, impresa o electrónica; y
+
+II. De oficio.
+
+El Pleno y la Comisión de Administración podrán instruir de oficio el inicio de las investigaciones.
+
+###### Artículo 545.
+
+Las denuncias se presentarán ante la Contraloría a través de la Dirección General de Responsabilidades. Ésta podrá prevenir al denunciante para que, en un término no mayor a cinco días hábiles, aclare, precise o amplíe los hechos motivo de la denuncia o aporte mayores elementos probatorios que acrediten las presuntas infracciones.
+
+En caso que la denuncia se presente ante área administrativa distinta de la Dirección General de Responsabilidades, el servidor público que la reciba deberá remitírsela sin dilación.
+
+###### Artículo 546.
+
+En términos de la Ley Anticorrupción, los servidores públicos tendrán la obligación de denunciar por escrito y de manera inmediata las posibles infracciones que sean de su conocimiento. El incumplimiento de esta obligación será motivo de responsabilidad.
+
+###### Artículo 547.
+
+Advertida la posible existencia de infracción, la Contraloría iniciará la etapa de investigación y abrirá el expediente respectivo, determinación de la cual dará aviso a la Comisión de Administración.
+
+###### Artículo 548.
+
+Si derivado de las investigaciones se advierte la participación de servidor público en presuntas irregularidades en materia de contrataciones públicas, la Contraloría deberá proceder conforme a la normatividad aplicable.
+
+###### Artículo 549.
+
+La Contraloría formulará las solicitudes de información establecidas en el artículo 14 de la Ley Anticorrupción.
+
+###### Artículo 550.
+
+La Contraloría podrá solicitar a Estado extranjero información que requiera para la investigación en términos del artículo 5, párrafo tercero, de la Ley Anticorrupción, además de promover las acciones establecidas en su artículo 15, segundo párrafo.
+
+###### Artículo 551.
+
+La investigación deberá realizarse en un plazo no mayor a seis meses, el cual podrá prorrogarse por causa justificada, considerando el término de la prescripción.
+
+#### SECCIÓN QUINTA. LICITACIÓN PÚBLICA
+
+###### Artículo 552.
+
+Concluida la investigación la Contraloría, en el plazo de diez días hábiles, emitirá acuerdo de inicio del procedimiento administrativo sancionador; de no encontrar elementos suficientes para demostrar la existencia de la infracción y la probable responsabilidad del infractor, el acuerdo será de conclusión y archivo del expediente. Esto último, sin perjuicio de lo establecido por el artículo 17, párrafo segundo, de la Ley Anticorrupción.
+
+La determinación de la Contraloría deberá hacerse del conocimiento de la Comisión de Administración.
+
+###### Artículo 553.
+
+Iniciado el procedimiento administrativo sancionador la Contraloría, por conducto de la Dirección General de Responsabilidades, lo tramitará y resolverá de conformidad con la Ley Anticorrupción y este Capítulo.
+
+###### Artículo 554.
+
+Para la determinación de las infracciones establecidas en el Capítulo Segundo de la Ley Anticorrupción, se observará lo dispuesto en la normatividad aplicable al Consejo en materia de contrataciones públicas.
+
+###### Artículo 555.
+
+El recurso de revisión contra la resolución del procedimiento administrativo sancionador, que establece el artículo 24 de la Ley Anticorrupción, deberá presentarse a la Contraloría quien, en su caso, lo admitirá y remitirá a la Comisión de Administración para su resolución.
+
+###### Artículo 556.
+
+Las sanciones impuestas de manera definitiva se publicarán por la Contraloría conforme a la Ley Anticorrupción. En términos de ésta, la Contraloría deberá notificar a la Tesorería de la Federación las multas que se impongan, para los efectos a que haya lugar.
+
+Durante el plazo en que las personas se encuentren inhabilitadas, el Consejo no podrá otorgarles subsidios, donativos y otros beneficios previstos en la normatividad aplicable.
+
+###### Artículo 557.
+
+La Contraloría registrará las resoluciones definitivas del procedimiento administrativo sancionador que establezcan sanción.
+
+## TÍTULO SEGUNDO. BIENES
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+#### SECCIÓN SEXTA. INVITACIÓN RESTRINGIDA
+
+###### Artículo 558.
+
+Procederá la desincorporación de los bienes muebles que formen parte del patrimonio del Consejo, en los siguientes casos:
+
+I. Cuando los bienes muebles por sus cualidades técnicas ya no resulten útiles, funcionales o no se requieran para el servicio al cual se les destinó o sea inconveniente seguirlos utilizando;
+
+II. Cuando los bienes muebles por su estado físico, derivado de accidentes, deterioro acelerado o terminación de su vida útil, no resulten útiles, funcionales o no se requieran para el servicio al cual se les destinó o sea inconveniente seguirlos utilizando;
+
+III. Cuando los bienes muebles hayan sido robados, extraviados o dañados por siniestros, accidentes o deterioro acelerado; y
+
+IV. Tratándose de vehículos de apoyo y equipos de cómputo portátiles y de escritorio asignados a los Consejeros, al término de su encargo.
+
+###### Artículo 559.
+
+La reasignación, rehabilitación o reaprovechamiento de los bienes, en el Distrito Federal y zona conurbada corresponderán a las Direcciones Generales de Inmuebles y Mantenimiento; Tecnologías de la Información; y Recursos Materiales en el ámbito de sus atribuciones; en el resto de la República corresponderá a la Coordinación de Administración Regional, por conducto de los Administradores Regionales y Delegados Administrativos, según se trate.
+
+Los equipos de cómputo portátiles y de escritorio asignados a los Consejeros, que al término de su encargo continúen como servidores públicos del Poder Judicial de la Federación, podrán ser reasignados directamente a éstos.
+
+Las Direcciones Generales de Recursos Materiales, Inmuebles y Mantenimiento; y de Tecnologías de la Información, auxiliaran a las demás áreas administrativas en la emisión de los dictámenes técnicos que les soliciten y, en su caso, realizando las altas y bajas que éstas les indiquen en los inventarios que tengan a su cargo.
+
+Cuando el bien no resulte funcional para el servicio al cual se le destinó, o se determine su nulo movimiento, pero por su estado de conservación se encuentre en condiciones de uso o consumo, se comunicará a la Dirección General de Recursos Materiales o a la Dirección General de Tecnologías de la Información, tratándose de bienes informáticos, para que verifiquen los requerimientos de otras áreas usuarias para su posible aprovechamiento.
+
+Asimismo, cuando el bien no resulte útil por encontrarse deteriorado o por ser obsoleto, deberá considerarse la posibilidad de su rehabilitación, de ser ésta costeable y conveniente. Las Direcciones Generales de Recursos Materiales; y de Tecnologías de la Información, según corresponda, emitirán las circulares donde señalen los criterios para que las áreas operativas puedan determinar si es costeable su rehabilitación, modernización o reaprovechamiento, las que en caso de cualquier duda podrán acudir por escrito a las primeras para que determinen su viabilidad.
+
+Antes de iniciar las áreas operativas algún procedimiento para la desincorporación de bienes muebles, deberán verificar que dichos bienes no sean susceptibles de reasignarse, rehabilitarse o reaprovecharse.
+
+#### SECCIÓN SÉPTIMA. ADJUDICACIÓN DIRECTA
+
+###### Artículo 560.
+
+El Comité es un cuerpo multidisciplinario, con carácter permanente dedicado específicamente a la enajenación de bienes que requiera realizar el Consejo, el cual cuenta con las atribuciones conferidas este Capítulo, sin perjuicio de que el Pleno o la Comisión de Administración las ejerzan de manera directa en cualquier momento.
+
+###### Artículo 561.
+
+El Comité estará integrado en los siguientes términos:
+
+I. Presidente: El Secretario Ejecutivo de Administración; y
+
+II. Vocales: El Director General de Programación y Presupuesto y el Titular de la unidad administrativa que designe el Oficial Mayor.
+
+Los citados integrantes, que siempre serán tres, salvo la ausencia de alguno de ellos, tendrán derecho a voz y voto durante las sesiones.
+
+###### Artículo 562.
+
+El Comité tendrá las siguientes atribuciones:
+
+I. Autorizar en su caso las solicitudes de desincorporación de bienes que le sean enviados por las áreas operativas en los procedimientos que por su monto le correspondan;
+
+II. Aprobar los modelos de convocatorias, bases, contratos, dictámenes y demás documentos relacionados, así como mantenerlos debidamente actualizados;
+
+III. Determinar la persona física o moral a quien se le adjudicarán los bienes muebles desincorporados, en los procedimientos que por su monto le correspondan, una vez efectuado el análisis del informe ejecutivo presentado por las áreas operativas;
+
+IV. Establecer criterios para que el Consejo obtenga las mejores condiciones en los procedimientos de desincorporación que lleve a cabo;
+
+V. Dictaminar la improcedencia de celebrar licitaciones públicas o invitaciones a cuando menos tres concursantes, en casos de excepción, urgentes o derivados de caso fortuito o fuerza mayor, determinando las medidas para su solución; y
+
+VI. Informar semestralmente sobre el ejercicio de sus funciones a la Comisión de Administración.
+
+###### Artículo 563.
+
+El presidente del Comité de Desincorporación de Bienes tendrá las siguientes funciones:
+
+I. Dirigir y moderar los debates durante las sesiones, así como emitir su voto respecto de los asuntos sometidos a consideración del Comité;
+
+II. Designar al responsable de presidir los actos durante el desarrollo de licitaciones públicas o de invitaciones restringidas;
+
+III. Requerir a las diversas áreas administrativas del Consejo la asesoría y estudio pormenorizado de carácter técnico-especializado respecto de asuntos que sean competencia del Comité y citar a sus titulares para que concurran a las sesiones correspondientes con el carácter de asesores temporales o invitados;
+
+IV. Representar al Comité en el desahogo de los asuntos de su competencia;
+
+V. Autorizar el orden del día de las reuniones a celebrar;
+
+VI. Vigilar el correcto funcionamiento del Comité;
+
+VII. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás disposiciones aplicables en la materia, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; y
+
+VIII. Las demás funciones que le sean encomendadas por el Pleno o la Comisión de Administración.
+
+###### Artículo 564.
+
+Los vocales tendrán las siguientes funciones:
+
+I. Asistir a las reuniones que convoque el Comité;
+
+II. Analizar el orden del día y los documentos de los asuntos a tratar;
+
+III. Dar su opinión y emitir su voto respecto de los asuntos puestos a consideración del Comité en la sesión;
+
+IV. Remitir al secretario, antes de la reunión, los documentos de los asuntos que deseen someter a la consideración del Comité;
+
+V. Verificar que el desarrollo de las sesiones del Comité se realicen de conformidad con los lineamientos de integración y funcionamiento del Comité;
+
+VI. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás disposiciones aplicables de la materia, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; y
+
+VII. Las demás funciones que les sean encomendadas por el Pleno, la Comisión de Administración o el Comité.
+
+###### Artículo 565.
+
+El Comité se auxiliará en lo administrativo con un secretario técnico adscrito a la Secretaría Ejecutiva de Administración, quien se encarga de lo siguiente:
+
+I. Convocar a las sesiones del Comité;
+
+II. Preparar y presentar el orden del día de la sesión, junto con los listados de los asuntos que se tratarán, incluyendo los documentos necesarios y los apoyos que se requieran, de lo cual remitirá copia a cada integrante del Comité;
+
+III. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse;
+
+IV. Suscribir los oficios cuya expedición haya acordado el Comité;
+
+V. Elaborar las actas de las sesiones para aprobación del Comité e integrarlas en el expediente respectivo;
+
+VI. Certificar las copias de las actas que se generen con motivo de las sesiones, así como los demás documentos que obren en los archivos del Comité, cuando proceda su expedición;
+
+VII. Cuidar que se registren los acuerdos del Comité, vigilar que se cumplan y dar seguimiento al proceso de desahogo y cumplimiento de los acuerdos adoptados por el Comité;
+
+VIII. Vigilar que el archivo de los documentos analizados por el Comité esté completo y se mantenga actualizado, cuidando su conservación por el tiempo mínimo que marca la Ley Orgánica;
+
+IX. Vigilar que cada asunto aprobado por el Comité esté respaldado con la firma de los integrantes asistentes a la sesión celebrada;
+
+X. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás disposiciones aplicables de la materia, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+
+XI. Recabar la firma de los asistentes a cada sesión; así como conservar las mismas debidamente formuladas; y
+
+XII. Las demás que le encomiende el Pleno, la Comisión de Administración o el presidente del Comité y las derivadas de los acuerdos que expida este último.
+
+###### Artículo 566.
+
+El Contralor y el Director General de Asuntos Jurídicos serán asesores permanentes del Comité, y tendrán las siguientes funciones:
+
+I. Asistir a las reuniones del Comité con derecho a voz, pero sin voto;
+
+II. Analizar los documentos relacionados con la competencia del Comité;
+
+III. Opinar y proporcionar la asesoría que estimen pertinente en los asuntos de su especialización; y
+
+IV. Proponer alternativas de solución, cuando les sean solicitadas.
+
+El Comité podrá invitar a las personas físicas, servidores públicos o particulares que, en razón de su competencia, profesión u oficio que desempeñen, puedan aportar sus conocimientos, experiencias y consejo para la resolución de los asuntos de la responsabilidad del Comité, teniendo derecho a voz, pero no a voto.
+
+Las personas antes referidas deberán guardar absoluta confidencialidad de la información a la que tengan acceso.
+
+El secretario técnico de la Comisión de Administración tendrá el carácter de invitado permanente a las sesiones del Comité.
+
+###### Artículo 567.
+
+Las sesiones del Comité se celebrarán de la siguiente manera:
+
+I. Tendrán lugar siempre que sea necesario y las decisiones se tomarán por mayoría de votos; el presidente del Comité tendrá voto de calidad;
+
+II. Para que se realicen las sesiones, será necesaria la asistencia de su presidente y un vocal. En ausencia del titular de la Secretaría Ejecutiva de Administración, las sesiones podrán llevarse a cabo, en casos estrictamente necesarios, presidiéndolas el titular de la Dirección General de Programación y Presupuesto, con la asistencia del otro vocal;
+
+III. El orden del día, junto con la documentación soporte, se entregará a los integrantes del Comité y asesores, con veinticuatro horas de anticipación para la sesión, cuando así sea posible;
+
+IV. La convocatoria a la sesión se notificará a sus miembros con tres días hábiles de anticipación a la celebración de la misma; cuando así sea aplicable;
+
+V. De cada sesión se levantará un acta con los acuerdos tomados, la cual será suscrita por los integrantes asistentes;
+
+VI. Los asuntos que se sometan a la consideración del Comité, se presentarán en listados que contengan la información resumida de los casos que se dictaminen en cada sesión;
+
+VII. El Comité periódicamente presentará los informes requeridos de los asuntos tratados y de los que tenga conocimiento con motivo de su ámbito de competencia a la Comisión de Administración o al Pleno, con la periodicidad que éstos determinen; y
+
+VIII. Invariablemente deberá incluirse en el orden del día un apartado correspondiente al seguimiento de acuerdos emitidos en las sesiones anteriores. En el punto correspondiente a asuntos generales, podrán incluirse asuntos de carácter informativo.
+
+#### SECCIÓN OCTAVA. VENTA A EMPLEADOS
+
+###### Artículo 568.
+
+Conforme al valor del lote de bienes, la desincorporación se hará conforme a lo siguiente:
+
+Clasificación Valor total de los bienes Autorización
+
+Desincorporación Mayor Excede del equivalente a quinientos días de Salario Mínimo Comité
+
+Desincorporación Menor Equivalente o menor a quinientos días de Salario Mínimo En el ámbito de su competencia, los Directores Generales de Recursos Materiales; de Inmuebles y Mantenimiento; y de Tecnologías de la Información; así como Administradores Regionales o Delegados Administrativos, según se trate.
+
+###### Artículo 569.
+
+El procedimiento de desincorporación se substanciará por las áreas operativas en su ámbito de competencia:
+
+I. El órgano jurisdiccional o el área administrativa que tenga asignado un bien, lo pone a disposición de las áreas operativas;
+
+II. Las áreas operativas determinan la procedencia de la rehabilitación y, en su caso, reasignarán o desincorporarán los bienes objeto de este Capítulo, mediante el formato de dictamen técnico que se autorice por el Comité;
+
+III. Abrirán un expediente y recabará la documentación correspondiente;
+
+IV. Recabarán el valor del bien o lote de bienes, conforme a los criterios señalados en el artículo siguiente;
+
+V. Someterán a la autorización del Comité los procedimientos que por su monto le corresponda analizar;
+
+VI. Con base al destino final señalado en la autorización y una vez efectuado el procedimiento de enajenación, realizará los trámites conducentes para solicitar la baja administrativa del bien o bienes de los inventarios a la Dirección General de Recursos Materiales, así como a la Dirección General de Tecnologías de la Información, según sea el caso, y éstas a la Dirección General de Programación y Presupuesto; y
+
+VII. Llevarán a cabo los trámites señalados en este Capítulo para el destino final del bien o bienes.
+
+###### Artículo 570.
+
+Para los efectos administrativos y contables correspondientes, así como para determinar el servidor público u órgano competente facultado para autorizar la desincorporación de los bienes, será necesario conocer el valor de los mismos, por lo que las áreas operativas obtendrán dicho valor de la forma siguiente:
+
+I. A través de un avalúo que gestionarán las áreas operativas en forma directa;
+
+II. Tratándose de vehículos que se encuentren en funcionamiento; conforme al precio promedio señalado en la Guía EBC o libro azul. Cuando los vehículos se encuentren descompuestos o deteriorados de manera que se impida su funcionamiento, se atenderá a lo señalado en la fracción anterior;
+
+III. Tratándose de bienes que por sus condiciones se hubiese determinado que son considerados desperdicios, se atenderá al precio mínimo de venta vigente a la fecha en que se ponga a disposición, conforme a la Lista de Valores;
+
+IV. En caso de bienes siniestrados, la valuación efectuada por la compañía aseguradora; y
+
+V. Para vehículos por pérdida total, la cantidad cobrada en razón de la póliza de seguro.
+
+#### SECCIÓN NOVENA. INCONFORMIDADES
+
+###### Artículo 571.
+
+El Comité o las áreas operativas, de conformidad con el artículo 568 de este Acuerdo, determinarán el destino final de los bienes desincorporados, el cual podrá ser conforme a lo siguiente:
+
+I. Enajenación;
+
+II. Donación;
+
+III. Enajenación como desechos; y
+
+IV. Cualquier otro que determine el Comité.
+
+El destino final de los bienes tratándose de los señalados en las fracciones I, II y III se hará constar en un acta de entrega-recepción que elaborarán las áreas operativas, además del instrumento jurídico que resulte aplicable, el cual deberá atender al formato correspondiente autorizado por la Dirección General de
+
+Asuntos Jurídicos.
+
+En los casos previstos en las fracciones anteriores, las áreas operativas que realicen la desincorporación deberán dar aviso a la Dirección General de Recursos Materiales, así como a la Dirección General de Tecnologías de la Información, según sea el caso, respecto de los bienes desincorporados con la finalidad que tenga lugar la baja de sus registros y para los efectos a que haya lugar.
+
+###### Artículo 572.
+
+El Consejo podrá enajenar bienes mediante los procedimientos de:
+
+I. Licitación pública;
+
+II. Invitación a cuando menos tres personas;
+
+III. Adjudicación directa; y
+
+IV. Venta a empleados.
+
+La adjudicación directa y la venta a empleados se realizarán por las áreas operativas conforme a los procedimientos autorizados.
+
+###### Artículo 573.
+
+Con base en el monto que resulte del avalúo, el Consejo a través del Comité o de las áreas operativas, podrá enajenar bienes conforme a los siguientes parámetros:
+
+I. Licitación Pública: Excede del equivalente a seis mil días de salario mínimo;
+
+II. Invitación a cuando menos tres personas: Superior al equivalente a quinientos días de salario mínimo y menor al equivalente a seis mil días de salario mínimo; y
+
+III. Adjudicación Directa: Hasta el equivalente a quinientos días de salario mínimo.
+
+El Consejo podrá enajenar bienes sin sujetarse al procedimiento de licitación pública o invitación a cuando menos tres personas, cuando ocurran condiciones o circunstancias extraordinarias, imprevisibles, o situaciones de emergencia, a través del procedimiento de adjudicación directa.
+
+#### SECCIÓN PRIMERA. CERTIFICADO DE DISPONIBILIDAD
+
+###### Artículo 574.
+
+Las convocatorias públicas para la enajenación por licitación de los bienes deberán difundirse en el Diario Oficial de la Federación.
+
+Las convocatorias previa autorización del Comité, podrán referirse a una o más licitaciones, debiendo contener los siguientes datos:
+
+I. Estar redactadas en español;
+
+II. Contener la indicación de que el Consejo es quien convoca;
+
+III. Descripción general, cantidad y unidad de medida de los bienes objeto de la licitación, así como el precio mínimo o de avalúo;
+
+IV. Lugar, fecha y horario en que los interesados podrán obtener las bases y, en su caso, el costo y forma de pago de las mismas, así como el acceso al sitio en que se encuentren los bienes. El Consejo libremente podrá determinar si las bases se entregarán en forma gratuita o tendrán un costo, en cuyo supuesto, las mismas podrán ser revisadas por los interesados previamente a su pago, el cual será requisito para participar en la licitación;
+
+V. Lugar y plazo máximo en que deberán ser retirados los bienes;
+
+VI. Lugar, fecha y hora de celebración de los actos de apertura de ofertas y, en su caso, de fallo;
+
+VII. Forma y porcentaje de la garantía de seriedad de las ofertas;
+
+VIII. Señalar la documentación legal y contable que deberán presentar los interesados; y
+
+IX. Indicación de la fecha, hora y lugar del acto de apertura de propuestas y, en su caso, de aclaraciones y de la visita al lugar en que se encuentran los bienes.
+
+###### Artículo 575.
+
+Las áreas operativas, realizarán las licitaciones públicas en los plazos siguientes:
+
+I. La consulta y, en su caso, venta de bases se realizará durante un plazo mínimo de cinco días hábiles, contados a partir de la fecha de publicación de la convocatoria;
+
+II. Entre el último día de venta de bases y el acto de apertura de propuestas deberá mediar un plazo mínimo de cinco días hábiles;
+
+III. En caso de que se requiera la visita al lugar donde se encuentran los bienes, será celebrada dentro de los cinco días hábiles siguientes al último día de venta de bases, mediando un plazo mínimo de cinco días hábiles entre su celebración y el acto de apertura de propuestas;
+
+IV. Para la emisión del informe ejecutivo deberá mediar un plazo máximo de veinte días hábiles contados a partir de la fecha en que tenga verificativo el acto de apertura de propuestas económicas. En casos excepcionales y por la complejidad de la licitación, a juicio del Comité, el plazo podrá prorrogarse hasta por veinte días hábiles adicionales; y
+
+V. Entre la presentación del informe ejecutivo al Comité y la emisión del fallo, mediará un plazo máximo de diez días hábiles.
+
+###### Artículo 576.
+
+Las bases que emita el Consejo para las licitaciones públicas, se pondrán a disposición de los interesados, en el domicilio señalado para tal efecto, a partir del día de inicio de la difusión o publicación de la convocatoria. Las bases deberán contener como mínimo lo siguiente:
+
+I. Que las emite el Consejo;
+
+II. Descripción completa y precio mínimo o de avalúo de los bienes;
+
+III. Lugar, fecha y hora de celebración de los actos de apertura de ofertas y, en su caso, de fallo;
+
+IV. Requisitos que deberán cumplir quienes deseen participar, entre otros, la identificación del participante, la obligación de garantizar la seriedad de su oferta, de firmar las bases, así como de presentar la oferta en sobre cerrado y, en su caso, el comprobante de pago de las bases;
+
+V. Instrucciones para la presentación de las ofertas;
+
+VI. Fecha límite de pago de los bienes adjudicados;
+
+VII. Lugar, plazo y condiciones para el retiro de los bienes;
+
+VIII. Criterios de adjudicación;
+
+IX. Plazo para modificar las bases de la licitación. Solamente podrán efectuarse modificaciones hasta inclusive el tercer día hábil anterior al del acto de apertura de ofertas. Dichas modificaciones se harán del conocimiento de los interesados por los mismos medios de difusión;
+
+X. Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases, así como el que las ofertas presentadas no cubran el precio mínimo o de avalúo fijado para los bienes;
+
+XI. Causas por las cuales la licitación podrá declararse desierta;
+
+XII. Indicación de que la garantía de seriedad de las ofertas se hará efectiva en caso de que el adjudicado incumpla en el pago de los bienes;
+
+XIII. Incluir un señalamiento relativo a una declaración de integridad, de tal manera que los licitantes al presentar las bases firmadas acepten, bajo protesta de decir verdad, de que se abstendrán de adoptar conductas, por sí mismos o a través de interpósita persona para que los servidores públicos del Consejo, induzcan o alteren la evaluación de las ofertas, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas en relación con los demás participantes; y
+
+XIV. La indicación de que no podrán participar las personas que se encuentren en alguno de los supuestos del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+###### Artículo 577.
+
+En caso de que el licitante ganador incumpla con el pago de los bienes, el Consejo hará efectiva la garantía correspondiente y podrá adjudicar dichos bienes sin necesidad de un nuevo procedimiento al participante que haya presentado la siguiente mejor oferta, y así sucesivamente, hasta la tercer mejor oferta siempre que esta última no esté por debajo de los precios mínimos señalados en las bases del concurso.
+
+###### Artículo 578.
+
+En los procedimientos de enajenación por licitación pública, el Consejo exigirá de los interesados en adquirir bienes, que garanticen la seriedad de sus ofertas mediante cheque certificado o de caja a favor del Consejo.
+
+El monto de la garantía será por el 10% del precio mínimo o de avalúo, la que será devuelta a los interesados al término del acto de fallo, salvo aquella que corresponda al licitante ganador, la cual se retendrá a título de garantía del cumplimiento del pago de los bienes adjudicados y su importe se podrá aplicar a la cantidad que se hubiere obligado a cubrir.
+
+Corresponderá a las áreas operativas calificar, aceptar, registrar, conservar en guarda y custodia y devolver las garantías que los licitantes presenten en la enajenación de bienes.
+
+###### Artículo 579.
+
+Toda persona interesada que satisfaga los requisitos de las bases tendrá derecho a presentar ofertas.
+
+En la fecha y hora previamente establecidas, las áreas operativas deberán proceder a iniciar el acto de apertura de ofertas, en el cual se dará lectura en voz alta de las propuestas presentadas por cada uno de los licitantes, informándose de aquellas que, en su caso, se desechen debido a que el participante no cumpla con alguno de los requisitos establecidos y las causas que motiven tal determinación.
+
+Las áreas operativas emitirán un dictamen que servirá como sustento para el fallo, mediante el cual se adjudicarán los bienes.
+
+Las áreas operativas con la participación de la Contraloría y de la Dirección General de Asuntos Jurídicos, levantarán acta a fin de dejar constancia de los actos de apertura de ofertas y de fallo, las cuales serán firmadas por los asistentes. La omisión de firma por parte de los licitantes no invalidará su contenido y efectos.
+
+###### Artículo 580.
+
+Las áreas operativas, declararán desierta la licitación pública en los siguientes supuestos:
+
+I. Que no se registren concursantes a la licitación;
+
+II. Que ninguna de las propuestas presentadas reúna los requisitos establecidos en las bases de la licitación;
+
+III. Que las ofertas presentadas estén por debajo de los precios mínimos señalados en las bases del concurso; y
+
+IV. Por razones de interés general.
+
+Una vez declarada desierta la licitación se efectuará la enajenación mediante el procedimiento de invitación restringida, y en la hipótesis de que éste también sea declarado desierto, se llevará a cabo el procedimiento de adjudicación directa.
+
+En ambos casos, previo a la realización del procedimiento, se solicitará autorización al Comité mediante el informe ejecutivo antes referido.
+
+Tratándose de licitaciones en las que una o varias partidas se declaren desiertas, en virtud de los supuestos antes señalados, se procederá a su enajenación mediante adjudicación directa, o bien, invitación restringida, según proceda en razón del monto.
+
+El Comité podrá cancelar una licitación por caso fortuito o fuerza mayor, o cuando existan circunstancias debidamente justificadas que extingan la necesidad para enajenar bienes, y que de continuarse con el procedimiento pudiera ocasionar un daño o perjuicio al Consejo. En tal caso, se efectuará a los licitantes el reembolso de los gastos debidamente justificados y comprobables.
+
+#### SECCIÓN SEGUNDA. REGISTRO DE BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS
+
+###### Artículo 581.
+
+El procedimiento de invitación restringida se iniciará con la invitación que realicen las áreas operativas, según corresponda, a cuando menos tres personas que resulten idóneos, a juicio de dichas áreas, debiendo contarse con la participación de la Contraloría en el ámbito de su competencia.
+
+De no ser posible la participación de la Contraloría, dicha área propondrá al servidor público correspondiente, quien deberá rendirle a la brevedad, un informe respecto a su intervención en el evento.
+
+###### Artículo 582.
+
+La invitación se acompañará de la información que resulte pertinente en cuanto a la descripción de los bienes a enajenar, monto del precio mínimo o de avalúo, garantía, plazo y lugar para el retiro de los bienes y condiciones de pago.
+
+###### Artículo 583.
+
+El procedimiento de recepción y apertura de propuestas podrá realizarse en sesión pública, conforme las formalidades previstas para la licitación pública.
+
+En caso de que a juicio de las áreas, según corresponda, no resulte necesario realizar sesión pública, se procederá conforme a lo siguiente:
+
+I. En la invitación se señalará el lugar, horario y plazo en que deberán ser presentadas las propuestas;
+
+II. Las propuestas serán recibidas en sobres cerrados por el área que determinen las áreas operativas, según corresponda; y
+
+III. Para la apertura de las propuestas, invariablemente asistirá un representante de la Contraloría y, de considerarse necesario, uno de la Dirección General de Asuntos Jurídicos.
+
+Los plazos para la presentación de las propuestas se fijarán en cada operación atendiendo a la complejidad para elaborar las ofertas.
+
+###### Artículo 584.
+
+Para la adjudicación, las áreas operativas, según corresponda, elaborarán un informe ejecutivo que contendrá lo siguiente:
+
+I. La evaluación de las propuestas presentadas, indicando aquellas que cumplan con los requisitos establecidos en las bases o invitación respectiva;
+
+II. El cuadro comparativo de las propuestas económicas de los concursantes que calificaron;
+
+III. La propuesta de adjudicación; y
+
+IV. El procedimiento mediante el cual se propone adjudicar en caso de resultar desierta la invitación restringida.
+
+Las áreas operativas, someterán el informe ejecutivo a consideración del Comité, con el objeto de que decida respecto de la adjudicación del contrato.
+
+###### Artículo 585.
+
+Una vez autorizada la adjudicación por el Comité, las áreas operativas, según corresponda, notificarán por escrito el fallo a los participantes.
+
+###### Artículo 586.
+
+Las áreas operativas, según corresponda, declararán desierta la invitación restringida en los siguientes supuestos:
+
+I. Que no presenten propuesta cuando menos dos concursantes;
+
+II. Que ninguna de las propuestas presentadas reúna los requisitos establecidos en las bases o en la invitación;
+
+III. Que las ofertas presentadas estén por debajo del precio mínimo señalado en las bases del concurso; y
+
+IV. Por razones de interés general.
+
+Una vez declarada desierta la invitación restringida, las áreas operativas, según corresponda, indicarán en el informe ejecutivo el procedimiento mediante el cual se propone adjudicar a efecto de que el Comité lo autorice.
+
+#### SECCIÓN TERCERA. ADMINISTRACIÓN DE BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS
+
+###### Artículo 587.
+
+La adjudicación directa es el procedimiento a través del cual el Consejo adjudica de manera expedita a un comprador, en virtud de materializarse alguno de los siguientes supuestos:
+
+I. Que el monto de la operación no rebase el parámetro establecido en el artículo 573, fracción III de este Acuerdo;
+
+II. Que resulte conveniente para los intereses del Consejo, dada la naturaleza de la operación; y
+
+III. Que la contratación sea urgente por caso fortuito o fuerza mayor, independientemente el monto.
+
+#### SECCIÓN CUARTA. INCORPORACIÓN DE BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS
+
+###### Artículo 588.
+
+Las áreas operativas antes de realizar cualquiera de los procedimientos de enajenación a que se refiere el artículo 572; fracciones I, II y III de este Acuerdo, tratándose de bienes de informática, respecto de los cuales se hubiese dictaminado su obsolescencia, o contablemente su depreciación, invariablemente la venta se hará directamente a los servidores públicos del Poder Judicial de la Federación; aquéllos que no logren enajenarse a éstos, se donarán en los términos previstos en el artículo 591 de este Acuerdo, de no lograr transferir dichos bienes, se procederá a su desecho.
+
+Respecto de los demás bienes, deberán, de conformidad a las características de los mismos, promover su enajenación en favor de los servidores públicos del Poder Judicial de la Federación, mediante invitación o subasta, cumpliendo las condiciones siguientes:
+
+I. Invitaciones:
+
+a) Los bienes muebles que no puedan ser reasignados o rehabilitados, se ofrecerán en venta al personal del Poder Judicial de la Federación, con la restricción de que sólo podrán adquirir hasta un máximo de cuatro bienes y no más de dos similares por comprador y deberán encontrarse adscritos a la ciudad donde se efectúe la venta; en caso de que puedan distinguirse los bienes, únicamente participarán aquellos servidores públicos que pertenezcan al órgano jurisdiccional o área administrativa a la cual estaba asignado.
+
+Los vehículos de apoyo podrán ser enajenados directamente a los servidores públicos que los hayan tenido asignados, después de por lo menos cuatro años de uso, o bien, tratándose de aquéllos asignados a los Consejeros, al término de su encargo, por cualquier causa, siempre que el vehículo haya sido adquirido al menos un año antes de la fecha de separación. Para tal efecto, se concede un plazo máximo de cinco días hábiles, a partir del ofrecimiento formal al asignatario, para que manifieste si se encuentra interesado en su adquisición, de conformidad a la fórmula de valuación a que se refiere el artículo 589, fracción I, de este Acuerdo.
+
+Los equipos de cómputo, portátiles y de escritorio, asignados a los Consejeros podrán ser enajenados directamente a éstos al término de su encargo, por cualquier causa. Para tal efecto, se concede un plazo máximo de cinco días hábiles, a partir del ofrecimiento formal al asignatario, para que manifieste si se encuentra interesado en su adquisición;
+
+b) En caso de que existan varios interesados en el mismo bien, se dará preferencia al primero que haya presentado su solicitud de compra;
+
+c) Los bienes tendrán que ser identificados previamente por un avalúo; y
+
+d) La convocatoria, las bases y la relación de los bienes objeto de la invitación, podrán difundirse, en su caso, a través del portal de Internet del Consejo, pero siempre deberán fijarse en un lugar visible en los centros de trabajo del Poder Judicial de la Federación donde se efectúe la venta.
+
+II. Subasta
+
+a) En la subasta interna podrán participar todos los servidores públicos del Poder Judicial de la Federación con excepción de aquellos que intervengan en la elaboración y realización de los distintos actos de la subasta;
+
+b) En el caso de que dos o más ofertas económicas coincidan, el Consejo adjudicará los bienes al participante de mayor antigüedad en la institución; y
+
+c) La convocatoria, las bases y la relación de los bienes objeto de la subasta podrá difundirse en su caso a través del portal de Intranet del Consejo y deberá fijarse en un lugar visible de todas las áreas y centros de trabajo del Poder Judicial de la Federación ubicados en la ciudad donde se efectúe la venta.
+
+Si quedasen vehículos sin haberse enajenado una vez realizados los procedimientos correspondientes o a la conclusión de alguno de éstos, la Comisión de Administración podrá autorizar la realización de un nuevo procedimiento en el cual se contemple la disminución al precio de venta de hasta un tercio sobre el valor promedio que resulte entre el precio más bajo de la Guía EBC y el arrojado por el avalúo, previo análisis y opinión favorable del Comité.
+
+Agotado este último procedimiento, la Comisión de Administración adoptará las medidas que estime pertinentes respecto a la enajenación de los vehículos que no hayan sido adjudicados.
+
+###### Artículo 589.
+
+Para el caso de vehículos, la determinación del precio mínimo correspondiente, considerará lo siguiente:
+
+I. Salvo lo dispuesto en la fracción siguiente, el valor se determinará tomando en cuenta el avalúo que se obtenga, el cual será promediado con el valor mínimo del libro EBC o libro azul. Solamente en los casos en que la venta se realice a favor de los servidores públicos que los hayan tenido asignados, se aplicará un 25% de descuento al precio así determinado, como prestación laboral, sujeta a las obligaciones fiscales correspondientes; y
+
+II. Solamente cuando los vehículos no se encuentren en condiciones de operación o de funcionamiento y por su estado físico se consideren desecho ferroso vehicular, la determinación de su precio mínimo deberá obtenerse con base en la Lista de Valores.
+
+###### Artículo 590.
+
+Cuando se trate de la venta de vehículos, además se entregará la factura original endosada por el Secretario Ejecutivo de Administración o por el Director General de Recursos Materiales, a favor del participante ganador o del servidor público adjudicado, además de los comprobantes originales de pago de tenencias, la tarjeta de circulación y el comprobante de la última verificación de contaminantes. Los gastos por concepto del traslado, retiro y cambio de propietario del vehículo adjudicado serán por cuenta del participante ganador.
+
+###### Artículo 591.
+
+La donación de bienes susceptibles de desincorporar a favor de asociaciones o instituciones de asistencia, de beneficencia, educativas y culturales, o de quienes atiendan la prestación de cualquier servicio de carácter social; o bien, a beneficiarias de algún servicio público asistencial, legalmente constituidas, procederá previa autorización de la Comisión de Administración.
+
+Para designar al donatario en el Distrito Federal y zona conurbada, se determinará previa opinión del Secretario Ejecutivo de Administración; en las demás entidades federativas, se considerará la opinión del Administrador Regional o del Delegado Administrativo que corresponda.
+
+###### Artículo 592.
+
+En caso de que existan desechos que no se puedan vender o donar, las áreas operativas se encargarán de determinar su retiro del almacén general o de las instalaciones en las que se encuentren.
+
+Las áreas operativas verificarán que los desechos sean retirados de ser posible a través del servicio público de limpia y de no ser posible contratará personal especializado para su retiro.
+
+El material de desperdicio producto de demoliciones, desmontes o retiro de instalaciones de las obras, será donado a instituciones de beneficencia, con la intervención de la Contraloría.
+
+###### Artículo 593.
+
+Tratándose de desechos generados periódicamente, el Consejo a través de las áreas operativas deberá enajenarlos de acuerdo a lo establecido en el artículo 573 de este Acuerdo y la adjudicación correspondiente podrá formalizarla a través de contratos con vigencia hasta de un ejercicio presupuestal.
+
+En estos casos debe pactarse la obligación de ajustar los precios en forma proporcional a las variaciones que se presenten, considerando la disminución o aumento que contemple la Lista de Valores o, en su caso, del avalúo vigente que corresponda. La falta de cumplimiento de las condiciones pactadas en el contrato será motivo de la rescisión del mismo y la aplicación de las penas convencionales correspondientes, señaladas en el propio contrato.
+
+#### SECCIÓN QUINTA. PROCEDIMIENTO PARA DETERMINAR EL DESTINO DE BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS
+
+SUBSECCIÓN PRIMERA
+
+DISPOSICIONES GENERALES
+
+###### Artículo 594.
+
+Las personas que acrediten interés jurídico podrán inconformarse por escrito ante la Contraloría, en contra de los actos del procedimiento que consideren realizados en contravención a las disposiciones de este Capítulo, siempre que lo hagan dentro de los cinco días hábiles siguientes al en que éstos se realicen; al escrito de referencia deberá acompañarse copia para la Secretaría Ejecutiva de Administración.
+
+Transcurrido el plazo indicado, precluye para los interesados el derecho de inconformarse, sin perjuicio de que la Contraloría pueda actuar en cualquier tiempo en términos de ley.
+
+Los fallos del Comité que se emitan en los procedimientos materia de esta Sección, serán definitivos e inatacables.
+
+###### Artículo 595.
+
+En el escrito de inconformidad, el promovente deberá cumplir con lo siguiente:
+
+I. Acreditar, en su caso, la personalidad jurídica que ostente;
+
+II. Manifestar, bajo protesta de decir verdad, los hechos relativos al acto o actos impugnados que le consten; y
+
+III. Acompañar, en su caso, las pruebas que considere pertinentes, debidamente integradas para su valoración.
+
+La falta de acreditamiento de la personalidad y de protesta serán causas de desechamiento de la inconformidad.
+
+La manifestación de hechos falsos dará origen al ejercicio de las acciones legales conducentes.
+
+###### Artículo 596.
+
+En atención a la inconformidad presentada en los términos de los dos artículos anteriores, la Contraloría solicitará un informe al Area Operativa que corresponda respecto de los hechos a que se refiere la inconformidad y la documentación soporte, el cual le deberá ser remitido dentro de los dos días hábiles siguientes a la recepción de la solicitud correspondiente, con copia a la Dirección General de Asuntos Jurídicos.
+
+La Contraloría emitirá, dentro de un plazo que no excederá de los cinco días hábiles contados a partir de la fecha en que se rinda el informe por el Area Operativa, un dictamen que contenga su opinión respecto de los hechos a que se refiere el escrito de inconformidad, en el que deberá incluirse el análisis jurídico que realizará la Dirección General de Asuntos Jurídicos dentro de los dos días hábiles siguientes después de haber recibido la copia del informe del Area Operativa. Dicho dictamen se presentará a la Comisión de Administración a fin de que resuelva lo procedente.
+
+###### Artículo 597.
+
+La Contraloría podrá suspender los procedimientos a los que se refiere esta Sección en caso de que existan o pudieren existir actos contrarios a las disposiciones del mismo y demás aplicables, o bien, si de continuarse el procedimiento pudieran producirse daños o perjuicios al Poder Judicial de la Federación o al promovente de una inconformidad, siempre y cuando con la suspensión no se cause perjuicio al interés público ni se contravengan disposiciones de ese orden, informando de ello oportunamente a la Comisión de Administración y al Comité.
+
+Cuando el inconforme sea quien solicite la suspensión, deberá garantizar mediante fianza por el monto que fije la Contraloría, los daños y perjuicios que pudiera causar al Consejo o al tercero perjudicado, quien a su vez podrá otorgar contrafianza por el mismo monto de la fianza, en cuyo caso quedará sin efectos la suspensión.
+
+###### Artículo 598.
+
+La resolución que emita la Comisión de Administración respecto de la inconformidad presentada, tendrá por objeto declarar la procedencia o improcedencia de la inconformidad y, en su caso, determinar las medidas conducentes para la regularización o reposición del procedimiento, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido.
+
+### CAPÍTULO SEGUNDO. PRESUPUESTO DE EGRESOS DEL PODER JUDICIAL DE LA FEDERACIÓN
+
+#### SECCIÓN SEXTA. PROCEDIMIENTOS DE ENAJENACIÓN
+
+SUBSECCIÓN PRIMERA
+
+DISPOSICIONES GENERALES
+
+###### Artículo 599.
+
+El certificado de disponibilidad es el documento que acredita la disponibilidad del Consejo sobre los bienes asegurados no reclamados y decomisados, para la determinación de su destino final.
+
+###### Artículo 600.
+
+El certificado de disponibilidad deberá expedirse sólo sobre bienes asegurados no reclamados y decomisados de los que se tenga certeza de su existencia.
+
+###### Artículo 601.
+
+El certificado de disponibilidad deberá ser emitido por cada una de las causas penales y suscrito por los jueces de Distrito y secretarios correspondientes.
+
+Cuando en una causa penal estén relacionados diversos bienes asegurados no reclamados y decomisados, en el mismo certificado de disponibilidad deberá hacerse la precisión y distinción correspondiente.
+
+###### Artículo 602.
+
+Cada órgano jurisdiccional está obligado a llevar un libro de control, en el que deberá registrar la emisión de cada certificado de disponibilidad que gire.
+
+###### Artículo 603.
+
+El certificado de disponibilidad contendrá la información siguiente:
+
+I. Tratándose de bienes decomisados:
+
+a) El número consecutivo que le corresponda;
+
+b) El número de causa penal;
+
+c) La descripción de los bienes;
+
+d) Fecha y sentido de la sentencia de primera instancia, señalando la razón del decomiso; esto es como objeto, instrumento o producto del delito;
+
+e) Fecha y sentido de la resolución de segunda instancia, en su caso;
+
+f) Fecha en que causó ejecutoria la sentencia;
+
+g) Fecha y sentido de la resolución recaída a otros medios de impugnación que se hayan promovido, incluyendo la del juicio de amparo, en su caso;
+
+h) Fecha y número del oficio por el cual se haya hecho del conocimiento del Consejo el acuerdo por el que el bien se puso a su disposición;
+
+i) La manifestación de que no existe ningún juicio o recurso pendiente de resolver que pueda modificar el estado jurídico de los bienes, y dada la fecha en que se expedirá el certificado, éste ya no podría interponerlo, esta última manifestación considerando que no hay plazo para la interposición del juicio de amparo directo en tanto existan actos de privación de la libertad;
+
+j) La ratificación de que el Consejo puede disponer de los mismos; y
+
+k) Ubicación y exacta identificación, así como la autoridad o persona física responsable de su custodia.
+
+II. Tratándose de bienes asegurados no reclamados, además de la información anterior, contendrá lo siguiente:
+
+a) Fecha del acuerdo que ordenó la devolución del bien o de la en que se puso a disposición del interesado;
+
+b) Forma en que se realizó la notificación y fecha en que surtió efectos; y
+
+c) Fecha de la certificación en la que conste que transcurrió el término otorgado para ser recogido el bien de que se trate, por quien pudiera tener derecho a reclamarlo.
+
+###### Artículo 604.
+
+La Secretaría Ejecutiva de Administración será la encargada de verificar que el certificado de disponibilidad contenga toda la información que se requiere, para lo cual podrá auxiliarse de la Dirección General de Asuntos Jurídicos. En el caso de que se advierta que no contiene los elementos señalados en el artículo anterior, dicha Secretaría podrá solicitar a los jueces de Distrito la aclaración correspondiente.
+
+#### SECCIÓN SÉPTIMA. IMPEDIMENTOS PARA PARTICIPAR
+
+###### Artículo 605.
+
+En el Registro de Bienes Asegurados No Reclamados y Decomisados, puestos a disposición del Consejo, respecto de los cuales los órganos jurisdiccionales hayan emitido el certificado de disponibilidad respectivo, a cargo de la Secretaría Ejecutiva de Administración, por conducto de la Dirección General Recursos Materiales; y Administración Regional; se inscribirán:
+
+I. Los datos y características de los bienes;
+
+II. La causa penal y juzgado correspondiente;
+
+III. La ubicación de los bienes;
+
+IV. El nombre del depositario, si lo hubiera;
+
+V. El número del certificado de disponibilidad respectivo;
+
+VI. El destino final que se determine;
+
+VII. En su caso, la cantidad que se deposite al Fondo de Apoyo; y
+
+VIII. Cualquier otro dato que permita llevar un adecuado control de ellos.
+
+#### SECCIÓN OCTAVA. DE LA FORMALIZACIÓN DE LAS DONACIONES Y VENTAS
+
+###### Artículo 606.
+
+La Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Recursos Materiales, cuando se trate de bienes ubicados en el Distrito Federal o zona conurbada; y la Coordinación de Administración Regional, a través de las Administraciones Regionales y Delegaciones Administrativas, cuando dichos bienes se ubiquen en el resto de la República, administrará los bienes asegurados no reclamados y decomisados que hubieran sido puestos a disposición del Consejo, respecto de los cuales los órganos jurisdiccionales hayan emitido el certificado de disponibilidad respectivo.
+
+Dicha administración se realizará de conformidad con las disposiciones de este Capítulo, en tanto no exista resolución definitiva que determine el destino de tales bienes.
+
+###### Artículo 607.
+
+Todos los bienes asegurados no reclamados y decomisados, incluyendo numerario de curso legal, divisas y metales preciosos, los bienes numismáticos o filatélicos y los bienes con valor artístico o histórico, serán administrados por la Secretaría Ejecutiva de Administración, en términos del artículo anterior.
+
+###### Artículo 608.
+
+La administración de los bienes asegurados no reclamados y decomisados comprende su recepción, registro, custodia, conservación y supervisión. Dichos bienes podrán ser utilizados, destruidos o enajenados en los casos y cumpliendo los requisitos establecidos en este Capítulo, para lo cual se podrán llevar a cabo los actos conducentes para su regularización, de conformidad con las disposiciones aplicables para tal efecto.
+
+###### Artículo 609.
+
+A los frutos o rendimientos de los bienes asegurados no reclamados y decomisados durante el tiempo que dure la administración, se les dará el mismo tratamiento que a los bienes que los generen. En todo caso, los recursos que se obtengan de la administración de los bienes asegurados no reclamados y decomisados se depositarán en el Fondo de Apoyo.
+
+#### SECCIÓN NOVENA. GASTOS Y RECURSOS OBTENIDOS POR LAS VENTAS
+
+###### Artículo 610.
+
+Procederá la incorporación a los activos del Consejo de todos aquellos bienes asegurados no reclamados y decomisados cuando sean susceptibles de ser utilizados por el Poder Judicial de la Federación, y en los demás casos en que la Comisión de Administración lo considere conveniente, en cuyo caso se deberán registrar en los inventarios correspondientes.
+
+###### Artículo 611.
+
+Los bienes asegurados no reclamados y decomisados que hubieran sido puestos a disposición del Consejo, respecto de los cuales los órganos jurisdiccionales hayan emitido el certificado de disponibilidad respectivo, podrán ser donados, enajenados o destruidos sin necesidad de incorporarlos al patrimonio del Consejo.
+
+#### SECCIÓN DÉCIMA. DEL APROVECHAMIENTO DE LOS BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS
+
+###### Artículo 612.
+
+Los bienes asegurados no reclamados y decomisados, distintos del numerario, que de acuerdo a su utilidad sean susceptibles de aprovecharse por el Poder Judicial de la Federación, se destinarán a las funciones de los órganos jurisdiccionales o de las áreas administrativas.
+
+###### Artículo 613.
+
+Los bienes asegurados no reclamados y decomisados consistentes en numerario en moneda nacional o extranjera, en billetes de depósito, o que no tenga poder liberatorio en términos de la legislación aplicable, previo cambio a moneda de curso legal, se aplicarán al Fondo de Apoyo.
+
+Para tal efecto, se deberá realizar el proyecto de resolución, de conformidad con el artículo 616 de este Acuerdo, en el que se proponga como destino final del numerario su aplicación al Fondo de Apoyo.
+
+###### Artículo 614.
+
+Tratándose de bienes asegurados no reclamados y decomisados que se encuentren en depósitos, almacenes, o en lugar análogo, y que con motivo de su estancia o encierro hubieren generado pasivos, se podrán entregar en pago para la liberación de los adeudos correspondientes, o bien proceder conforme a los Lineamientos del Servicio de Administración y Enajenación de Bienes para la transferencia y enajenación de los vehículos que se indican.
+
+SUBSECCIÓN SEGUNDA
+
+ÓRGANOS COMPETENTES
+
+###### Artículo 615.
+
+El proyecto de resolución en la que se determine el destino final de los bienes asegurados no reclamados y decomisados en los procedimientos penales federales, puestos a disposición del Consejo, respecto de los cuales los órganos jurisdiccionales hayan emitido el certificado de disponibilidad respectivo, será sometido a consideración de la Comisión de Administración.
+
+###### Artículo 616.
+
+El titular de la Dirección General de Recursos Materiales, cuando se trate de bienes ubicados en el Distrito Federal o zona conurbada, y de la Coordinación de Administración Regional, a través de las Administraciones Regionales y Delegaciones Administrativas, cuando dichos bienes se ubiquen en el resto de la República, emitirán un proyecto de resolución, con la aprobación del titular de la Secretaría Ejecutiva de Administración, en el que se proponga el sentido del fallo que determine el destino final del bien asegurado no reclamado o decomisado de que se trate, dentro de los cuarenta y cinco días hábiles siguientes al en que se reciba el certificado de disponibilidad respectivo, con excepción de aquellos casos en que por causa justificada se requiera mayor tiempo para emitirlo.
+
+La veracidad de la información de los proyectos de resolución sometidos a consideración de la Comisión de Administración por las áreas que los presenten, será responsabilidad de éstas.
+
+###### Artículo 617.
+
+Cuando la determinación de destino final de los bienes asegurados no reclamados y decomisados sea la destrucción o enajenación, la Comisión de Administración podrá optar porque dichos procedimientos se realicen conforme a lo dispuesto en esta Sección, o bien, encomendarlos al SAE, en los términos que se acuerden con éste, o a terceros especializados.
+
+###### Artículo 618.
+
+Las determinaciones del destino de los bienes asegurados no reclamados y decomisados que haya tomado la Comisión de Administración, se harán del conocimiento de la Secretaría Ejecutiva de Administración, a efecto de que realice los trámites tendentes a cumplimentarlas, por conducto de la Dirección General de Recursos Materiales, cuando se trate de bienes ubicados en el Distrito Federal o zona conurbada, y de la Coordinación de Administración Regional, a través de las Administraciones Regionales y Delegaciones Administrativas, cuando dichos bienes se ubiquen en el resto de la República.
+
+SUBSECCIÓN TERCERA
+
+BIENES DISTINTOS A NUMERARIO
+
+###### Artículo 619.
+
+La Secretaría Ejecutiva de Administración clasificará la información correspondiente de los bienes asegurados no reclamados y decomisados, en función de la ubicación contenida en los certificados de disponibilidad respectivos para el efecto de remitirla a la Dirección General Recursos Materiales, cuando se trate de bienes que se ubiquen en el Distrito Federal o zona conurbada, y a la Administración Regional tratándose de bienes que se encuentren en el resto de la República.
+
+Respecto de los bienes inmuebles asegurados no reclamados o decomisados, se deberá informar a la Dirección General Asuntos Jurídicos para los efectos previstos en el artículo 621 de este Acuerdo.
+
+###### Artículo 620.
+
+La Dirección General de Recursos Materiales y Administración Regional, según corresponda, procederán a identificar los bienes asegurados no reclamados y decomisados de que se trate, con el fin de que propongan a la Secretaría Ejecutiva de Administración, la conveniencia de aprovecharlos, enajenarlos, destruirlos o donarlos.
+
+###### Artículo 621.
+
+La Dirección General de Recursos Materiales o la Administración Regional deberán integrar un expediente que contenga, cuando menos, exposiciones fotográficas, valor estimado de los bienes asegurados no reclamados y decomisados, o dictamen sobre el valor de los mismos, en su caso; y la propuesta de destino.
+
+Tratándose de bienes inmuebles, el expediente deberá contener, además de los previsto en el párrafo anterior, la información y documentación respecto de adeudos generados por concepto de servicios públicos, predial y cualquier otro gravamen, así como los que se obtengan del registro público de la propiedad. Dicha información y documentación deberá ser proporcionada por la Dirección General de Asuntos Jurídicos.
+
+Las unidades administrativas a que se refiere el párrafo primero de este artículo, determinarán el valor de los bienes asegurados no reclamados y decomisados, a través de sondeos de mercado o procedimiento análogo, sin necesidad de obtener dictamen sobre su valor comercial por peritos oficiales o particulares, para lo cual deberán obtenerse tres cotizaciones o referencias, como mínimo, salvo que por la naturaleza o tipo del bien sea necesario la obtención de dicho dictamen.
+
+Dichos sondeos deberán obtenerse por escrito y contendrán los datos del bien; su precio en el mercado, en el entendido que de no existir el mismo se cotizará el de uno de características similares; los datos de la empresa correspondiente, y el nombre y firma del servidor público que llevó a cabo la investigación de mercado.
+
+Si del sondeo de mercado se advierte que el valor de los bienes en comento es igual o mayor al equivalente a seis meses de salario mínimo, se requerirá del dictamen de avalúo correspondiente, para lo cual la Dirección General de Recursos Materiales o la Administración Regional solicitarán la colaboración de instituciones públicas que cuenten con peritos en la especialidad. En caso de que no se les brinde el apoyo o que no cuenten con la especialidad, podrá obtenerse a través de instituciones bancarias, o bien, atender a las disposiciones del Acuerdo General 16/2011 del Pleno del Consejo de la Judicatura Federal, que regula la integración de la lista de personas que pueden fungir como peritos ante los órganos jurisdiccionales del Poder Judicial de la Federación, lo que resulte más económico para el Consejo.
+
+###### Artículo 622.
+
+Respecto de los bienes en poder del Consejo que no sea posible su localización o identificación, ya sea que hayan sido objeto de delito, o afectados por fenómenos naturales, la Dirección General de Recursos Materiales o la Administración Regional deberán comunicar tal circunstancia al juez de Distrito correspondiente para su conocimiento y a la Secretaría Ejecutiva de Administración para efectos de su registro.
+
+Cuando se trate de bienes decomisados que hayan sido objeto de ilícitos, la Dirección General de Recursos Materiales o la Administración Regional procederán a recabar los datos de la indagatoria correspondiente y los enviarán a la Dirección General de Asuntos Jurídicos para efectos de su seguimiento. En caso de que no se haya iniciado averiguación previa, esta última hará del conocimiento los hechos al Ministerio Público de la Federación para los efectos legales correspondientes.
+
+Tratándose de bienes asegurados no reclamados y decomisados afectados por fenómenos naturales, la Dirección General de Recursos Materiales y la Administración Regional procederán a levantar acta circunstanciada y la remitirán a la Secretaría Ejecutiva de Administración para su registro.
+
+###### Artículo 623.
+
+En el caso de donaciones, la Dirección General de Recursos Materiales o la Administración Regional, propondrán al beneficiario o beneficiarios que cumplan con las características a que se refiere el artículo 636 de este Acuerdo y deberán integrar al expediente, carta firmada por el representante legal de las personas de que se trate, en la que expresen el interés de recibir la donación.
+
+###### Artículo 624.
+
+Respecto de los bienes asegurados no reclamados y decomisados que se encuentren en depósitos, encierros o lugares análogos, cuyos adeudos por su resguardo sean iguales o superiores al valor del sondeo de mercado obtenido o al dictamen de avalúo emitido por perito oficial o particular, la Dirección General de Recursos Materiales o la Administración Regional propondrán al representante legal del establecimiento, el dar en pago los mismos.
+
+En caso de ser aceptada, integrarán al expediente carta firmada por el representante legal donde manifieste la intención de recibir en pago el bien y de liberar de cualquier adeudo al Poder Judicial de la Federación.
+
+De tratarse de depósitos federales concesionados, se observará el procedimiento autorizado por el Pleno para formular solicitud de transferencia al SAE, de los vehículos puestos a disposición del Consejo, en términos de los Lineamientos del Servicio de Administración y Enajenación de Bienes para la transferencia y enajenación de los vehículos que se indican.
+
+###### Artículo 625.
+
+Integrado el expediente a que se refieren los artículos anteriores, deberá remitirse a la Secretaría Ejecutiva de Administración a fin de que ésta lo acompañe al certificado de disponibilidad respectivo, para someter a la consideración de la Comisión de Administración el destino de los bienes asegurados no reclamados y decomisados, en función de las propuestas de la Dirección General de Recursos Materiales y la Administración Regional.
+
+#### SECCIÓN DÉCIMA PRIMERA. DESTRUCCIÓN DE BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS
+
+###### Artículo 626.
+
+Los procedimientos de enajenación previstos en esta Sección tienen por objeto enajenar de forma económica, eficaz, imparcial y transparente los bienes asegurados no reclamados y decomisados que están a disposición del Consejo, así como garantizar las mejores condiciones de venta, obtener el mayor valor de recuperación posible y las mejores oportunidades.
+
+###### Artículo 627.
+
+Los procedimientos de enajenación serán los siguientes:
+
+I. Venta; y
+
+II. Donación a instituciones y dependencias públicas o asociaciones civiles sin fines de lucro.
+
+SUBSECCIÓN SEGUNDA
+
+AUTORIDADES INSTRUCTORAS
+
+###### Artículo 628.
+
+La instrumentación de los procedimientos de enajenación se realizará en forma colegiada y en ellas participará invariablemente un representante de las siguientes unidades administrativas, en el ámbito de su competencia:
+
+I. La Dirección General de Recursos Materiales o la Administración Regional, según corresponda;
+
+II. La Dirección General de Asuntos Jurídicos; y
+
+III. La Dirección General de Auditoría.
+
+Para el caso de invitaciones restringidas o adjudicaciones directas, las mismas serán instrumentadas por la Administración Regional o por la Dirección General de Recursos Materiales, según la ubicación de los bienes.
+
+###### Artículo 629.
+
+Será responsabilidad de los servidores públicos que participen en la instrumentación de los procedimientos de enajenación, la emisión del dictamen que servirá como sustento para el fallo mediante el cual se adjudicarán los bienes asegurados no reclamados y decomisados.
+
+De los eventos en que participen levantarán acta, a fin de dejar constancia de los actos de apertura de ofertas y de fallo, las cuales serán firmadas por los asistentes, la omisión de firma por parte de los licitantes no invalidará su contenido y efectos, debiendo asentarse tal circunstancia.
+
+###### Artículo 630.
+
+La adjudicación de los bienes asegurados no reclamados y decomisados, enajenados conforme a las disposiciones de esta Sección, se sujetarán a lo siguiente:
+
+I. El Secretario Ejecutivo de Administración autorizará la adjudicación de bienes asegurados no reclamados y decomisados en los casos que a continuación se señalan:
+
+a) Cuando por el monto de la operación deba seguirse el procedimiento de licitación pública, subasta o remate; y
+
+b) Cuando la adjudicación se realice a través de un procedimiento de enajenación diverso al que por monto hubiera correspondido, conforme al artículo 637 de este Acuerdo, en virtud de haberse declarado desierto, por tratarse de un caso de excepción.
+
+II. El titular de la Dirección General de Recursos Materiales, cuando se trate de bienes ubicados en el Distrito Federal o zona conurbada, y la Coordinación de Administración Regional, a través de las Administraciones Regionales y Delegaciones Administrativas, cuando dichos bienes se ubiquen en el resto de la República, autorizarán la adjudicación de los bienes asegurados no reclamados y decomisados en caso de que por el monto de la operación deba seguirse el procedimiento de invitación restringida, o bien, cuando se haga por adjudicación directa.
+
+###### Artículo 631.
+
+Los servidores públicos que participen en la instrumentación de los procedimientos de enajenación podrán declararlos desiertos en los siguientes supuestos:
+
+I. Que no se registren participantes o que no se reciban propuestas de por lo menos dos interesados;
+
+II. Que ninguna de las propuestas presentadas reúna los requisitos establecidos en las bases de la licitación o en la invitación restringida;
+
+III. Que las ofertas presentadas estén por debajo de los precios mínimos de avalúo de los bienes asegurados no reclamados y decomisados de que se trate; y
+
+IV. Por razones de interés general.
+
+En caso de declararse desierto el procedimiento de licitación pública se deberá realizar una segunda convocatoria de licitación, a no ser que se justifique la urgencia de la venta, en cuyo caso se estará a lo dispuesto en el párrafo siguiente.
+
+En caso de declararse desierto el segundo procedimiento de licitación pública, de la subasta o del remate, la enajenación se efectuará mediante invitación restringida. En la hipótesis de que éste también sea declarado desierto, se llevará a cabo el procedimiento de adjudicación directa, y en caso de que éste se declare desierto, se procederá a la destrucción de los bienes o a su donación a las instituciones y dependencias a que se refiere el artículo 636 de este Acuerdo.
+
+###### Artículo 632.
+
+Las licitaciones públicas se podrán cancelar por caso fortuito o fuerza mayor, o cuando existan circunstancias debidamente justificadas que extingan la necesidad para enajenar los bienes asegurados no reclamados y decomisados de que se trate, o bien, que de continuarse con el procedimiento se pudiera ocasionar un daño o perjuicio al Consejo. En tal caso, se reembolsarán a los participantes los gastos debidamente justificados y comprobables.
+
+###### Artículo 633.
+
+Para la adjudicación de los bienes asegurados no reclamados y decomisados, la Dirección General de Recursos Materiales o la Administración Regional, según corresponda, elaborarán un informe ejecutivo que se hará del conocimiento de la Secretaría de Ejecutiva de Administración, que contendrá:
+
+I. El cuadro comparativo de las propuestas económicas de los concursantes que participaron; y
+
+II. La forma en que se adjudicaron dichos bienes.
+
+La Secretaría Ejecutiva de Administración hará del conocimiento de la Comisión de Administración tal circunstancia, para el efecto de informarle que se ha cumplido con su instrucción.
+
+Una vez emitido el fallo, en el procedimiento de enajenación respectivo, se deberá notificar por escrito a los participantes el resultado del concurso, citando, en su caso, a los concursantes ganadores; en todo caso, previamente a que se notifique la adjudicación, se deberá informar del fallo a la Comisión de Administración para que determine lo conducente.
+
+###### Artículo 634.
+
+Los servidores públicos que participen en la realización de los procedimientos de enajenación previstos en esta Sección, serán responsables por la inobservancia de las disposiciones establecidas en el mismo, en la Ley Orgánica, y en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, sin perjuicio de la responsabilidad penal que corresponda conforme a otras disposiciones aplicables.
+
+###### Artículo 635.
+
+La Contraloría tendrá a su cargo las atribuciones de control e inspección del cumplimiento de las disposiciones contenidas en este Capítulo, en el marco de las atribuciones que establece la Ley Orgánica y demás disposiciones aplicables.
+
+SUBSECCIÓN TERCERA
+
+DONACIÓN
+
+###### Artículo 636.
+
+La donación de los bienes asegurados no reclamados y decomisados en los procedimientos penales federales, puestos a disposición del Consejo, respecto de los cuales los órganos jurisdiccionales hayan emitido el certificado de disponibilidad respectivo, se podrá realizar a instituciones y dependencias públicas o asociaciones civiles sin fines de lucro.
+
+Previo a someter a consideración de la Comisión de Administración el proyecto de resolución en la que se proponga la donación, se deberá obtener el consentimiento, por escrito, por parte del donatario, de que acepta la transmisión gratuita de los bienes de que se trate, así como de que absorberá los gastos que genere el retiro de dichos bienes.
+
+SUBSECCIÓN CUARTA
+
+VENTA
+
+###### Artículo 637.
+
+La venta de los bienes asegurados no reclamados y decomisados que autorice la Comisión de Administración se realizará a través de los siguientes procedimientos y en los supuestos que se señalan:
+
+Procedimiento Supuesto
+
+Licitación pública. Cuando el valor de los bienes exceda el importe de tres mil veces el salario mínimo.
+
+Subasta o Remate, atendiendo a la naturaleza de los bienes, y que garanticen las mejores condiciones de precio y oportunidad, conforme lo dispuesto en el artículo 134 de la Constitución. Cuando el valor de los bienes sea superior al importe de dos mil veces el salario mínimo y menor al importe de tres mil veces el salario mínimo.
+
+Invitación restringida. Cuando el valor de los bienes sea superior al importe de mil veces el salario mínimo y menor al importe de dos mil veces el salario mínimo.
+
+Adjudicación directa. Cuando el valor de los bienes sea de hasta mil veces el salario mínimo.
+
+###### Artículo 638.
+
+El Secretario Ejecutivo de Administración emitirá al comprador una constancia de adjudicación de los bienes de que se trate, sin perjuicio de que pueda delegar dicha función a los titulares de la Coordinación de Administración Regional y de la Dirección General de Recursos Materiales, cuando así lo estime conveniente.
+
+###### Artículo 639.
+
+Cuando el titular de la Secretaría Ejecutiva de Administración considere oportuno optar por un procedimiento distinto al que corresponda conforme al artículo 637 de este Acuerdo, deberá exponer a la Comisión de Administración la conveniencia de llevar a cabo el procedimiento elegido a fin de obtener su aprobación.
+
+###### Artículo 640.
+
+Tratándose de bienes asegurados no reclamados y decomisados, respecto de los cuales el dictamen técnico determine que constituyen desechos, su valor se determinará tomando en cuenta la Lista de Valores, o bien, se hará constar la no inclusión de tal lista a fin de que sea fijado por el área que emita el dictamen.
+
+###### Artículo 641.
+
+Para la enajenación de los bienes asegurados no reclamados y decomisados, a través del procedimiento de licitación pública, se realizarán convocatorias que deberán difundirse en el Diario Oficial de la Federación.
+
+Las convocatorias deberán contener los siguientes datos:
+
+I. Estar redactada en español;
+
+II. Contener la indicación de que el Consejo es quien convoca;
+
+III. Descripción general, cantidad y unidad de medida de los bienes objeto de la licitación, así como el precio mínimo de venta o de avalúo;
+
+IV. Condición jurídica de los bienes;
+
+V. El destino de los bienes;
+
+VI. Lugar, fecha y horario en que los interesados podrán obtener las bases y, en su caso, el costo y forma de pago de las mismas, así como el acceso al sitio en que se encuentren los bienes. El Consejo libremente podrá determinar si las bases se entregarán en forma gratuita o tendrán un costo, en cuyo supuesto, las mismas podrán ser revisadas por los interesados previamente a su pago, el cual será requisito para participar en la licitación;
+
+VII. Lugar y plazo máximo en que deberán ser retirados los bienes;
+
+VIII. Lugar, fecha y hora de celebración de los actos de apertura de ofertas y, en su caso, del fallo;
+
+IX. Forma y porcentaje de la garantía de seriedad de las ofertas;
+
+X. Señalar la documentación legal y contable que deberán presentar los interesados;
+
+XI. Indicación de la fecha, hora y lugar del acto de apertura de propuestas y, en su caso, de aclaraciones y de la visita al lugar en que se encuentran los bienes; y
+
+XII. Que el documento que se entregará al interesado ganador, será una constancia de adjudicación, suscrita por el servidor público facultado para ello.
+
+###### Artículo 642.
+
+Los plazos para la realización de las licitaciones públicas serán los siguientes:
+
+I. La consulta y, en su caso, venta de bases, se realizará durante un plazo mínimo de cinco días hábiles, contados a partir de la fecha de publicación de la convocatoria;
+
+II. Entre el último día de venta de bases y el acto de apertura de propuestas deberá mediar un plazo mínimo de cinco días hábiles;
+
+III. En caso de que se requiera la visita al lugar donde se encuentran los bienes, será celebrada dentro de los cinco días hábiles siguientes al último día de venta de bases, mediando un plazo mínimo de cinco días hábiles entre su celebración y el acto de apertura de propuestas; y
+
+IV. Entre el acto de apertura de propuestas y la emisión del fallo, mediará un plazo máximo de diez días hábiles.
+
+###### Artículo 643.
+
+Las bases que se emitan para las licitaciones públicas, se pondrán a disposición de los interesados en el domicilio que se señale para tal efecto, a partir del día de inicio de la difusión o publicación de la convocatoria. Las bases deberán contener como mínimo lo siguiente:
+
+I. Que las emite el Consejo;
+
+II. Descripción completa y precio mínimo de venta o de avalúo de los bienes;
+
+III. Condición jurídica de los bienes;
+
+IV. Destino de los bienes;
+
+V. Lugar, fecha y hora de celebración de los actos de apertura de ofertas y, en su caso, del fallo;
+
+VI. Requisitos que deberán cumplir quienes deseen participar, entre otros, la identificación del participante, la obligación de garantizar la seriedad de su oferta, de firmar las bases, así como de presentar la oferta en sobre cerrado y, en su caso, el comprobante de pago de las bases;
+
+VII. Instrucciones para la presentación de las ofertas;
+
+VIII. Fecha límite de pago de los bienes adjudicados;
+
+IX. Lugar, plazo y condiciones para el retiro de los bienes;
+
+X. Criterios de adjudicación;
+
+XI. Plazo para modificar las bases de la licitación. Solamente podrán efectuarse modificaciones hasta el tercer día hábil anterior al del acto de apertura de ofertas. Dichas modificaciones se harán del conocimiento de los interesados por los mismos medios de difusión;
+
+XII. Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases, así como el que las ofertas presentadas no cubran el precio mínimo o de avalúo fijado para los bienes;
+
+XIII. Causas por las cuales la licitación podrá declararse desierta;
+
+XIV. Indicación de que la garantía de seriedad de las ofertas se hará efectiva en caso de que el adjudicado incumpla en el pago de los bienes;
+
+XV. Incluir un señalamiento relativo a una declaración de integridad, de tal manera que los participantes al presentar las bases firmadas acepten, bajo protesta de decir verdad, de que se abstendrán de adoptar conductas, por sí mismos o a través de interpósita persona para que los servidores públicos del Consejo, induzcan o alteren la evaluación de las ofertas, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes;
+
+XVI. La indicación de que no podrán participar las personas que se encuentren en alguno de los supuestos del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; y
+
+XVII. Que el documento que se entregará al interesado ganador, será una constancia de adjudicación, suscrita por el servidor público facultado para ello.
+
+###### Artículo 644.
+
+En caso de que el ganador incumpla con el pago de los bienes, el Consejo hará efectiva la garantía correspondiente y podrá adjudicar dichos bienes sin necesidad de un nuevo procedimiento al participante que haya presentado la siguiente mejor oferta, y así sucesivamente, hasta la tercer mejor oferta siempre que la diferencia de esta última no exceda al 10% de la oferta inicialmente ganadora.
+
+###### Artículo 645.
+
+En los procedimientos de enajenación por licitación pública, el Consejo exigirá de los interesados en adquirir bienes asegurados no reclamados y decomisados, que garanticen la seriedad de sus ofertas mediante billete de depósito, o cheque certificado o de caja a favor del Consejo.
+
+El monto de la garantía será por el 10% del precio mínimo de venta o de avalúo, la que será devuelta a los interesados al término del acto de fallo, salvo aquélla que corresponda al ganador, la cual se retendrá a título de garantía del cumplimiento del pago de los bienes adjudicados y su importe se podrá aplicar a la cantidad que se hubiere obligado a cubrir.
+
+Corresponderá a la Dirección General de Recursos Materiales o a la Administración Regional calificar, aceptar, registrar, conservar en guarda y custodia y devolver las garantías que los participantes presenten en la enajenación de bienes asegurados no reclamados y decomisados.
+
+###### Artículo 646.
+
+Toda persona interesada que satisfaga los requisitos de las bases tendrá derecho a presentar ofertas.
+
+En la fecha y hora previamente establecidas, la Dirección General de Recursos Materiales o la Administración Regional procederán a iniciar el acto de apertura de ofertas, en el cual se dará lectura en voz alta de las propuestas presentadas por cada uno de los participantes, informándose de aquéllas que, en su caso, se desechen debido a que el participante no cumpla con alguno de los requisitos establecidos y las causas que motiven tal determinación.
+
+###### Artículo 647.
+
+El procedimiento de subasta pública deberá efectuarse dentro de los diez días hábiles siguientes a la publicación en el Diario Oficial de la Federación, en algún diario de circulación nacional o a través de medios electrónicos, ópticos o de cualquier otra tecnología, de la convocatoria respectiva.
+
+###### Artículo 648.
+
+La junta de postores en la que se adjudicarán los bienes asegurados no reclamados y decomisados subastados a los mejores oferentes, se desarrollará en los siguientes términos:
+
+I. La Dirección General de Recursos Materiales o la Administración Regional, según corresponda, mostrará físicamente el bien objeto de subasta siempre que la naturaleza del mismo lo permita;
+
+II. Los interesados podrán mejorar sus ofertas durante la celebración de la subasta, para lo cual deberán manifestarlo en forma escrita, a través de los formatos que para tal efecto proporcione en el acto de subasta Recursos Materiales o la Administración Regional, según corresponda, en presencia del resto de los participantes y del encargado de la subasta, quien tendrá la obligación de asentar tales situaciones al igual que todo lo que ocurra en la subasta, en el acta que al efecto lleve a cabo;
+
+III. Los oferentes contarán con intervalos de tiempo que se darán a conocer en forma previa al inicio del acto, los que servirán para ir mejorando la última postura manifestada; y
+
+IV. El bien se adjudicará a la oferta que ofrezca las mejores condiciones de precio y oportunidad.
+
+En las bases de la subasta se establecerán las instrucciones para presentar ofertas de compra.
+
+###### Artículo 649.
+
+Sin perjuicio de la aplicación de las disposiciones previstas en esta Subsección para la subasta pública, serán aplicables a la subasta las disposiciones que correspondan a la licitación pública, previstas en la misma, en lo que no contravengan a su regulación específica.
+
+###### Artículo 650.
+
+El procedimiento de remate será público y deberá efectuarse dentro de los diez días hábiles siguientes a su convocatoria.
+
+###### Artículo 651.
+
+Para la realización del remate de los bienes asegurados no reclamados y decomisados se anunciará su venta por dos veces, con tres días hábiles de diferencia. Los avisos se publicarán en el Diario Oficial de la Federación, en algún diario de circulación nacional o a través de medios electrónicos, ópticos o de cualquier otra tecnología.
+
+###### Artículo 652.
+
+Postura legal es la que cubre, al menos, las dos terceras partes del precio base de venta del bien.
+
+###### Artículo 653.
+
+Las posturas se formularán por escrito o por cualquier otro medio electrónico, óptico o de cualquier otra tecnología que permita la expresión de la oferta, manifestando, el mismo postor o su representante con facultades suficientes:
+
+I. El nombre, capacidad legal y domicilio del postor; y
+
+II. La cantidad que se ofrezca por los bienes.
+
+Cada oferente, al formular su postura, deberá entregar a la Dirección General de Recursos Materiales o a la Administración Regional, según corresponda, en el acto del remate, el 10% de aquélla, en billete de depósito, cheque certificado o efectivo; cantidad que será retenida hasta que se declare fincado el remate y posteriormente devuelta a los oferentes que no hayan resultado ganadores. El 10% de la postura ganadora se aplicará al pago del bien adjudicado.
+
+###### Artículo 654.
+
+Si en la primera almoneda no hubiere postura legal, se citará a otra, para lo cual dentro de los cinco días hábiles siguientes, se publicarán los avisos correspondientes, por una sola vez, de manera que entre la publicación del aviso y la fecha del remate, medie un término que no sea mayor de tres días hábiles. En la almoneda se tendrá como precio inicial el precio base de venta del bien, con deducción de un 5%.
+
+###### Artículo 655.
+
+Si en la segunda almoneda no hubiere postura legal, se citará a la tercera en la forma que dispone el artículo anterior, y de igual manera se procederá para las ulteriores, cuando obrare la misma causa, hasta efectuar legalmente el remate. En cada una de las almonedas se deducirá un 5% del precio que, en la anterior, haya servido de base.
+
+###### Artículo 656.
+
+Si el postor no cumpliere sus obligaciones, la Dirección General de Recursos Materiales o la Administración Regional declarará sin efecto el remate para citar, nuevamente, dentro de los cinco días hábiles siguientes a partir de declarado desierto el remate, a la misma almoneda, y el postor perderá el 10% exhibido, el que se aplicará, como pena, a favor del Consejo.
+
+###### Artículo 657.
+
+El postor no puede rematar para un tercero, sino con poder bastante, quedando prohibido hacer postura sin declarar el nombre de la persona para quien se hace.
+
+###### Artículo 658.
+
+Los postores tendrán la mayor libertad para hacer sus propuestas.
+
+###### Artículo 659.
+
+La Dirección General de Recursos Materiales o la Administración Regional decidirá de plano, conforme a las disposiciones aplicables, bajo su responsabilidad, cualquier asunto que se suscite relativo al remate.
+
+###### Artículo 660.
+
+El día del remate, a la hora señalada, se pasará lista a los postores iniciándose el mismo.
+
+###### Artículo 661.
+
+A partir de ese momento, no se admitirán nuevos postores. Acto seguido, se revisarán las propuestas, desechando las que no contengan postura legal y las que no estuvieren debidamente garantizadas.
+
+###### Artículo 662.
+
+Calificadas de legales las posturas, se dará lectura de ellas, por la Dirección General de Recursos Materiales o por la Administración Regional, según corresponda, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, se declarará preferente la que importe mayor cantidad y si varias se encontraren exactamente en las mismas condiciones, la preferencia se establecerá por sorteo, que se realizará en presencia de los postores asistentes al remate.
+
+###### Artículo 663.
+
+Declarada preferente una postura, la Dirección General de Recursos Materiales o la Administración Regional, según corresponda, preguntará si alguno de los postores la mejora.
+
+En caso de que alguno la mejore antes de transcurrir cinco minutos de hecha la pregunta, interrogará si algún postor puja la mejora, y así sucesivamente, se procederá con respecto a las pujas que se hagan. En cualquier momento en que, pasados cinco minutos de hecha cualquiera de las mencionadas preguntas, no se mejorare la última postura o puja, se declarará fincado el remate en favor del postor que hubiere hecho aquélla.
+
+No procederá recurso ni medio de impugnación alguno contra la resolución que finque el remate.
+
+###### Artículo 664.
+
+El procedimiento de invitación restringida se iniciará con la invitación que realice la Dirección General de Recursos Materiales o la Administración Regional, según corresponda, a cuando menos tres participantes que resulten idóneos, a juicio de dichas áreas.
+
+###### Artículo 665.
+
+La invitación restringida se acompañará de la información que resulte pertinente en cuanto a la descripción de los bienes asegurados no reclamados y decomisados a enajenar, monto del precio mínimo de venta o de avalúo, garantía, plazo y lugar para el retiro de los bienes, condiciones de pago, así como la condición jurídica de los bienes y el documento que se entregará al adjudicatario de los mismos.
+
+###### Artículo 666.
+
+El procedimiento de recepción y apertura de propuestas podrá realizarse en sesión pública, de conformidad con las formalidades previstas para la licitación pública.
+
+En caso de que a juicio de las áreas, según corresponda, no resulte necesario realizar sesión pública, se procederá conforme a lo siguiente:
+
+I. En la invitación restringida se señalará el lugar, horario y plazo en que deberán ser presentadas las propuestas; y
+
+II. Las propuestas serán recibidas en sobres cerrados por el área que determinen la Dirección General de Recursos Materiales y la Administración Regional, según corresponda.
+
+Los plazos para la presentación de las propuestas se fijarán en cada operación atendiendo a la complejidad para elaborar las ofertas.
+
+###### Artículo 667.
+
+La adjudicación directa es el procedimiento a través del cual el Consejo adjudica de manera expedita a un comprador, por actualizarse alguno de los siguientes supuestos:
+
+I. Que el monto de la operación no rebase el parámetro establecido en el artículo 637 de este Acuerdo;
+
+II. Que proceda en los términos de este Capítulo;
+
+III. Que resulte conveniente para los intereses del Consejo, dada la naturaleza de la operación; y
+
+IV. Que la enajenación sea urgente por caso fortuito o fuerza mayor, independientemente del monto.
+
+###### Artículo 668.
+
+Cualquier venta o acto que se realice en contra de lo dispuesto en este Capítulo, será nulo de pleno derecho.
+
+#### SECCIÓN DÉCIMA SEGUNDA. DISPOSICIONES FINALES
+
+###### Artículo 669.
+
+Estarán impedidas para participar en los procedimientos de enajenación regulados por este Capítulo, las personas que se encuentren en los supuestos siguientes:
+
+I. Las que no hubieren cumplido con cualquiera de las obligaciones derivadas de los procedimientos previstos en este Capítulo, por causas imputables a ellas;
+
+II. Aquéllas que hubieren proporcionado información que resulte falsa o que hayan actuado con dolo o mala fe, en algún procedimiento realizado por el Consejo para la adjudicación de un bien;
+
+III. Aquéllas a las que se les declare en concurso civil o mercantil;
+
+IV. Los servidores públicos del Poder Judicial de la Federación; y
+
+V. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley Orgánica.
+
+Para los efectos de las fracciones II y III, la Administración Regional y la Dirección General de Recursos Materiales, llevarán un registro de las personas que se ubiquen en los supuestos previstos por las mismas, debiendo intercambiar su información.
+
+#### SECCIÓN PRIMERA. REGLAS GENERALES Y EJECUTORES DE GASTO
+
+###### Artículo 670.
+
+Las donaciones y las enajenaciones que liberen al Poder Judicial de la Federación de cualquier obligación de pago que autorice la Comisión de Administración, deberán formalizarse a través del instrumento que determine la Dirección General de Asuntos Jurídicos y firmarse, en representación del Consejo, por el titular de la Dirección General de Recursos Materiales, cuando los bienes se encuentren en el Distrito Federal o zona conurbada, o bien, por el Coordinador de Administración Regional directamente o por conducto de las Administraciones Regionales o Delegaciones Administrativas cuando se ubiquen en el resto de la República.
+
+#### SECCIÓN SEGUNDA. EQUILIBRIO Y PRINCIPIOS DE RESPONSABILIDAD PRESUPUESTARIA
+
+###### Artículo 671.
+
+Los gastos que se generen con motivo de la instrumentación de los procedimientos de enajenación, así como los costos de administración, a que se refiere este Capítulo, se atenderán con recursos presupuestales.
+
+###### Artículo 672.
+
+Los recursos obtenidos por los procedimientos de enajenación de los bienes asegurados no reclamados y decomisados se destinarán al Fondo de Apoyo.
+
+La secretaria técnica del Fondo de Apoyo, llevará un registro detallado de los recursos que se integren al mismo.
+
+#### SECCIÓN TERCERA. DE LOS MECANISMOS DE COMUNICACIÓN Y COORDINACIÓN ENTRE LOS ÓRGANOS DEL PODER JUDICIAL Y LOS OTROS PODERES DE LA FEDERACIÓN Y DE LAS ENTIDADES FEDERATIVAS
+
+###### Artículo 673.
+
+Cuando la Comisión de Administración determine el aprovechamiento de los bienes asegurados no reclamados y decomisados, la Secretaría Ejecutiva de Administración y la Dirección General de Programación y Presupuesto procederán de conformidad con lo dispuesto en los siguientes artículos.
+
+###### Artículo 674.
+
+Tratándose de bienes inmuebles se procederá a su inscripción en el Catálogo de Inmuebles del Consejo y en los registros respectivos, debiendo realizarse los trámites ante las autoridades administrativas que correspondan, con apoyo de la Dirección General de Asuntos Jurídicos, de conformidad con lo que dispongan las leyes de la materia.
+
+###### Artículo 675.
+
+Cuando el aprovechamiento se refiera a bienes muebles, los mismos deberán inventariarse y reportarse en los registros que correspondan.
+
+#### SECCIÓN PRIMERA. PRESUPUESTO DE EGRESOS
+
+###### Artículo 676.
+
+La destrucción de los bienes asegurados no reclamados y decomisados procederá cuando así lo determine la Comisión de Administración o en los términos de este Capítulo.
+
+###### Artículo 677.
+
+En toda destrucción se deberán observar las disposiciones de seguridad, salud, protección al medio ambiente y demás que resulten aplicables.
+
+Asimismo, se seleccionará el método o la forma de destrucción menos contaminante, a fin de minimizar los riesgos que pudieren ocasionar emisiones dañinas para el ser humano, así como para su entorno.
+
+El método de destrucción que se seleccione no deberá oponerse a las normas oficiales expedidas por los gobiernos, federal y locales.
+
+###### Artículo 678.
+
+Sin perjuicio de lo dispuesto en el artículo 676 de este Acuerdo, se consideran bienes asegurados no reclamados y decomisados respecto de los cuales podrá procederse a su destrucción, los siguientes:
+
+I. Bienes que por su estado de conservación no se les pueda dar otro destino;
+
+II. Objetos, productos o sustancias que se encuentren en evidente estado de descomposición, adulteración o contaminación que no los hagan aptos para ser consumidos o que puedan resultar nocivos para la salud de las personas. En estos casos, deberá darse intervención inmediata a las autoridades sanitarias para que, dentro del ámbito de sus atribuciones, autoricen la destrucción de este tipo de bienes;
+
+III. Productos o subproductos de flora y fauna silvestre o productos forestales, plagados o que tengan alguna enfermedad que impida su aprovechamiento, así como bienes o residuos peligrosos, cuando exista riesgo inminente de desequilibrio ecológico o casos de contaminación con repercusiones peligrosas para los ecosistemas o la salud pública. En estos casos, deberá solicitarse la intervención de la autoridad competente; y
+
+IV. Todos aquellos bienes que por su obsolescencia, deterioro, condiciones particulares, y demás circunstancias análogas lo determinen la Comisión de Administración o los titulares de los órganos jurisdiccionales.
+
+###### Artículo 679.
+
+La Dirección General de Recursos Materiales o la Administración Regional, según corresponda, deberán integrar un expediente para proceder a la destrucción de los bienes asegurados no reclamados y decomisados, el cual deberá contener la siguiente documentación:
+
+I. Oficio de la dependencia o entidad facultada para autorizar la destrucción de los bienes, en los casos en que sea necesario obtenerla;
+
+II. Según sea el caso, autorización de la Comisión de Administración o acta en la que se haya determinado lo conducente de conformidad con lo estipulado en este Capítulo; y
+
+III. Acta de la destrucción del bien, que deberán suscribir el titular de la Dirección General de Recursos Materiales o de la Coordinación de Administración Regional, así como las autoridades que deban participar y un representante de la Contraloría, quien en ejercicio de sus atribuciones verificará que se observen estrictamente las disposiciones aplicables al caso.
+
+###### Artículo 680.
+
+La Dirección General de Recursos Materiales o la Administración Regional comunicarán a la Secretaría Ejecutiva de Administración, sobre las destrucciones que se hayan realizado a efecto de que ésta lleve el registro y control de ello, debiendo informar a la Comisión de Administración sobre cualquier operación de destrucción de bienes asegurados no reclamados y decomisados que se haya llevado a cabo en los términos de este Capítulo.
+
+#### SECCIÓN SEGUNDA. PROGRAMACIÓN Y PRESUPUESTACIÓN
+
+###### Artículo 681.
+
+En caso de duda o conflicto en la operación, aplicación o interpretación de este Capítulo, los representantes de las unidades administrativas instructoras propondrán de manera colegiada alternativas de solución, que se someterán a la consideración de la Comisión de Administración a fin de que resuelva lo conducente.
+
+## TÍTULO TERCERO. DEL COMITÉ DE INFORMATICA Y DE LAS ADMINISTRACIONES DE EDIFICIONES
+
+### CAPÍTULO TERCERO. EJERCICIO DEL GASTO PÚBLICO EN EL CONSEJO
+
+###### Artículo 682.
+
+El Comité de Informática es un cuerpo multidisciplinario dedicado específicamente a coadyuvar en la formulación e integración de lineamientos, políticas y criterios que incidan en la planeación, organización, evaluación y ajuste integral de las actividades en materias de informática y de telecomunicaciones, y la definición de las necesidades institucionales, el establecimiento de prioridades de atención y la integración armónica de nuevas necesidades en pro del cumplimiento de los objetivos programados, contribuyendo a la modernización administrativa del Consejo y de los órganos jurisdiccionales a través del aprovechamiento ordenado y progresivo de los sistemas y tecnologías correspondientes.
+
+###### Artículo 683.
+
+El Comité de Informática estará integrado en los siguientes términos:
+
+I. Presidente: El titular de la Secretaría Ejecutiva de Administración; y
+
+II. Vocales: Los titulares de la Dirección General de Programación y Presupuesto y el Titular del área administrativa que designe el Oficial Mayor.
+
+Los integrantes tendrán derecho a voz y voto durante las sesiones.
+
+###### Artículo 684.
+
+El Comité de Informática tendrá las siguientes funciones:
+
+I. Definir y proponer a la consideración de la Comisión de Administración y del Pleno los criterios, procedimientos y acciones relativas a la detección y atención de necesidades, a fin de coadyuvar en la debida integración y elaboración del Plan Estratégico de Tecnologías de la Información y Comunicaciones;
+
+II. Someter a la consideración de la Comisión de Administración y del Pleno los lineamientos generales para el diseño e instrumentación, a corto, mediano y largo plazo de los proyectos informáticos y de telecomunicaciones, contemplando su impacto en los servicios que se ofrecen al Consejo, órganos jurisdiccionales, y ciudadanía en general, así como la adopción progresiva de las tecnologías más adecuadas para los fines institucionales;
+
+III. Conocer y opinar, previamente a su presentación ante la Comisión de Administración, el Plan Estratégico de Tecnologías de la Información y Comunicaciones y sus actualizaciones anuales, tomando en consideración las necesidades institucionales, las prioridades de atención y la disponibilidad de recursos presupuestarios;
+
+IV. Dictaminar los anteproyectos de presupuesto de egresos y los programas anuales de trabajo y de adquisiciones elaborados por la Dirección General de Tecnologías de la Información, a fin de coadyuvar en un desarrollo informático institucional acorde con los objetivos y metas de los programas a corto, mediano y largo plazo;
+
+V. Aprobar, con base en los lineamientos autorizados, los sistemas, proyectos o infraestructura informática que a través de la Dirección General de Tecnologías de la Información, soliciten las áreas administrativas y los órganos jurisdiccionales;
+
+VI. Definir las acciones para la correcta aplicación de los lineamientos a los cuales deberán apegarse las áreas administrativas y los órganos jurisdiccionales para mejorar el uso y aprovechamiento de los bienes y servicios de tecnología de la información y de comunicaciones por medios electrónicos, coadyuvando en la agilización de los procesos judiciales y administrativos;
+
+VII. Apoyar y, en su caso, participar en los programas de modernización administrativa autorizados por el Pleno o la Comisión de Administración;
+
+VIII. Determinar acciones de seguimiento y evaluación de los resultados de los programas a corto, mediano y largo plazo y señalar, en su caso, las medidas correctivas;
+
+IX. Determinar la integración de grupos de trabajo, de carácter temporal o permanente, que actúen como instancias auxiliares del mismo Comité, convocando a las áreas que considere conveniente;
+
+X. Conocer y emitir opinión respecto del programa anual en materia de capacitación informática;
+
+XI. Conocer y emitir opinión respecto de los asuntos relevantes que en su ámbito de competencia le presente la Dirección General de Tecnologías de la Información;
+
+XII. Elaborar y actualizar sus políticas de operación;
+
+XIII. Informar sobre el ejercicio de sus funciones al Pleno y a la Comisión de Administración, según se determine; y
+
+XIV. Las demás que le sean conferidas por el Pleno o la Comisión de Administración.
+
+###### Artículo 685.
+
+El presidente del Comité de Informática tendrá las siguientes funciones:
+
+I. Dirigir y moderar los debates durante las sesiones, así como emitir su voto respecto de los asuntos puestos a consideración del Comité;
+
+II. Autorizar el orden del día de las sesiones a celebrar;
+
+III. Representar al Comité, para el desahogo de los asuntos de su competencia;
+
+IV. Requerir a las diversas áreas administrativas, la asesoría y estudio pormenorizado de cuestiones de carácter técnico especializado, respecto de asuntos competencia del Comité; y citar a sus titulares para que con el carácter de asesores temporales o invitados, internos o externos, concurran a las sesiones correspondientes;
+
+V. Vigilar el correcto funcionamiento del Comité;
+
+VI. Presentar a la consideración de la Comisión de Administración y del Pleno, los asuntos que determine el Comité; y
+
+VII. Las demás que le otorguen el Pleno o la Comisión de Administración.
+
+###### Artículo 686.
+
+Los vocales tendrán las siguientes funciones:
+
+I. Asistir a las reuniones que convoque el Comité;
+
+II. Analizar el orden del día y los documentos de los asuntos a tratar;
+
+III. Dar su opinión y emitir su voto respecto de los asuntos puestos a consideración del Comité en la sesión correspondiente;
+
+IV. Remitir al secretario técnico del Comité, antes de la reunión, los documentos de los asuntos que deseen someter a la consideración del Comité; y
+
+V. Las demás funciones que les sean encomendadas por el Pleno o la Comisión de Administración.
+
+###### Artículo 687.
+
+El Director General de Tecnologías de la Información será ponente del Comité de Informática, de conformidad con lo dispuesto en este Capítulo, teniendo derecho a voz pero no a voto, durante las sesiones y se encargará de lo siguiente:
+
+I. Asistir a las reuniones que convoque el Comité;
+
+II. Someter a la consideración del presidente del Comité, los asuntos a incluir en el orden del día;
+
+III. Dar su opinión respecto de los asuntos puestos a consideración del Comité en la sesión correspondiente;
+
+IV. Remitir al secretario técnico del Comité, antes de la reunión, los documentos de los asuntos que deberán someterse a la consideración del Comité; y
+
+V. Ejecutar en el ámbito de sus atribuciones los acuerdos emitidos por el Pleno, la Comisión de Administración o el Comité.
+
+El contenido de la información y documentación técnica de los asuntos sometidos a consideración del Comité por el ponente, será bajo la absoluta y total responsabilidad de éste.
+
+###### Artículo 688.
+
+El Comité de Informática tendrá un secretario técnico con preparación especializada en aspectos de tecnologías de la información y administración de proyectos, propuesto por el Secretario Ejecutivo de Administración, quien tendrá las funciones siguientes:
+
+I. Convocar a las reuniones del Comité;
+
+II. Preparar y presentar el orden del día de la sesión, junto con los listados de los asuntos que se tratarán, incluyendo los documentos necesarios y los apoyos que se requieran, de lo cual remitirá copia a cada integrante del Comité;
+
+III. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse;
+
+IV. Suscribir los oficios cuya expedición haya acordado el Comité;
+
+V. Elaborar las actas de las sesiones para la aprobación del Comité e integrarlas en el expediente respectivo;
+
+VI. Certificar las copias de las actas que se generen con motivo de las sesiones, así como los demás documentos que obren en los archivos del propio Comité, cuando proceda su expedición;
+
+VII. Cuidar que se registren los acuerdos del Comité y vigilar que se cumplan;
+
+VIII. Vigilar que el archivo de los documentos analizados por el Comité esté completo y se mantenga actualizado, cuidando su conservación por el tiempo mínimo que establezcan las disposiciones aplicables;
+
+IX. Vigilar que cada asunto aprobado por el Comité esté respaldado con la firma de los integrantes, ponente, asesores e invitados asistentes a la sesión celebrada;
+
+X. Apoyar, en el ámbito de sus atribuciones, en el debido cumplimiento de los objetivos y acuerdos del Comité; y
+
+XI. Las demás que le encomiende el Pleno, la Comisión de Administración o el presidente del Comité.
+
+###### Artículo 689.
+
+El titular de la Dirección General de Estadística Judicial será asesor permanente del Comité de Informática y tendrá las siguientes funciones:
+
+I. Asistir a las reuniones del Comité con derecho a voz, pero sin voto;
+
+II. Analizar los documentos relacionados con la competencia del Comité;
+
+III. Opinar y proporcionar la asesoría que estime pertinente en los asuntos de su especialización; y
+
+IV. Proponer alternativas de solución, cuando le sean solicitadas.
+
+El secretario técnico de la Comisión de Administración tendrá el carácter de invitado permanente a las sesiones del Comité, quien tendrá derecho a voz, pero sin voto.
+
+El Comité podrá invitar a las personas físicas y morales y a los servidores públicos, que en razón de su competencia, profesión u oficio que desempeñen, puedan aportar sus conocimientos, experiencias y consejo para la resolución de los asuntos de la responsabilidad del Comité, teniendo derecho a voz, pero no a voto.
+
+Los servidores públicos y demás personas a las que se refiere este artículo deberán guardar absoluta confidencialidad de la información a la que tengan acceso.
+
+Los servidores públicos que participen en las sesiones del Comité de Informática, en el ámbito de su competencia, deberán cumplir y hacer cumplir, las disposiciones establecidas en este Capítulo y demás ordenamientos aplicables, así como lo dispuesto por el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+###### Artículo 690.
+
+Las sesiones del Comité se celebrarán de la siguiente manera:
+
+I. En forma ordinaria una vez por mes y de manera extraordinaria cuando así lo convoque su presidente. Invariablemente, sesionará en las fechas previas a los calendarios establecidos para la presentación de los programas estratégicos en materias de informática y de telecomunicaciones;
+
+II. Deberán concurrir todos los integrantes del Comité; sin embargo, podrán llevarse a cabo con la presencia del presidente y, cuando menos, un vocal. En ausencia del presidente y con la presencia de los dos vocales, aquel podrá ser suplido, en los casos debidamente justificados por el Director General de Programación y Presupuesto;
+
+III. La convocatoria, el orden del día, junto con la documentación soporte, se entregarán a los integrantes del Comité, ponentes, asesores y, en su caso, invitados al menos con tres días hábiles de anticipación, a la celebración de sesiones ordinarias y un día hábil de anticipación tratándose de extraordinarias;
+
+IV. Las decisiones se tomarán por mayoría de votos de sus miembros presentes, en caso de empate el presidente tendrá voto de calidad;
+
+V. De cada sesión se levantará un acta con los acuerdos tomados, la cual será suscrita por los integrantes, ponentes, asesores e invitados asistentes;
+
+VI. El Comité informará a la Comisión de Administración y, en su caso, al Pleno, los acuerdos adoptados en cada una de las sesiones que celebre. Los informes que se rindan deberán presentarse en un plazo no mayor a diez días hábiles; y
+
+VII. Deberá incluirse en el orden del día un apartado correspondiente al seguimiento de acuerdos emitidos en las sesiones anteriores. En el punto correspondiente a asuntos generales, podrán incluirse asuntos de carácter informativo.
+
+### CAPÍTULO CUARTO. FIDEICOMISOS PÚBLICOS
+
+### CAPÍTULO QUINTO. REGISTRO DEL GASTO PÚBLICO EN EL CONSEJO
+
+###### Artículo 691.
+
+Las administraciones de edificios son las unidades operativas encargadas de atender de forma permanente, general, regular y continua la satisfacción de las necesidades que tengan los inmuebles del Poder Judicial de la Federación y sus usuarios, en materia de recursos materiales, servicios generales y de conservación y mantenimiento.
+
+Las administraciones de edificios operarán con un titular de la administración del edificio respectivo y con tantos subordinados como sean necesarios, quienes tendrán la categoría y percepciones que se fijen en el presupuesto para esos cargos y que determine la Comisión de Administración.
+
+Las administraciones de edificios contarán con el personal y los medios materiales necesarios para cumplir sus funciones eficientemente, de acuerdo a lo que disponga la Comisión de Administración, tomando en consideración las cargas de trabajo y las posibilidades presupuestales.
+
+Corresponde a la Comisión de Administración el nombramiento de los titulares de las administraciones de edificios, así como la determinación de su remoción y decidir sobre la prórroga de los nombramientos respectivos. El titular de la Secretaría Ejecutiva de Administración o de la Dirección General de Servicios Generales, indistintamente, podrán solicitar la remoción mediante escrito en el que de manera fundada y motivada, acompañando las pruebas conducentes, señalen las razones particulares del caso.
+
+El titular de la Secretaría Ejecutiva de Administración deberá proponer a los candidatos mediante la elaboración de una terna.
+
+El titular de la Dirección General de Servicios Generales será responsable de que el personal de las administraciones de edificios cumpla con los perfiles que para cada puesto se requieren.
+
+###### Artículo 692.
+
+El titular de la Secretaría Ejecutiva de Administración se encargará de supervisar las acciones emprendidas por la Dirección General de Servicios Generales, para la adecuada administración de los inmuebles del Poder Judicial de la Federación. Para tal efecto, el citado Secretario Ejecutivo tendrá las siguientes atribuciones:
+
+I. Aprobar los criterios y procedimientos para la operación de las administraciones de edificios;
+
+II. Nombrar al personal adscrito a cada administración de edificio, salvo lo dispuesto en el artículo 691, cuarto párrafo, de este Acuerdo; así como determinar la remoción del personal adscrito a dichas unidades operativas, y decidir sobre la prórroga de los nombramientos respectivos. El Director General de Servicios Generales o el titular de la administración de edificio que corresponda, indistintamente, podrán solicitarle la remoción de alguno de los servidores públicos mediante escrito en el que de manera fundada y motivada, acompañando las pruebas conducentes, señalen las razones particulares del caso; y
+
+III. Verificar que se cumpla con los perfiles de puestos.
+
+###### Artículo 693.
+
+Las administraciones de edificios estarán adscritas a la Dirección General de Servicios Generales. Para tal efecto, el titular de la misma tendrá las siguientes atribuciones:
+
+I. Ejercer la administración de los bienes inmuebles del Consejo, a través de las administraciones de edificios, en el ámbito de las atribuciones que para estas unidades operativas prevé el presente Capítulo;
+
+II. Proponer a la Secretaría Ejecutiva de Administración, los criterios y procedimientos para la operación de las administraciones de edificios;
+
+III. Dirigir, supervisar y evaluar la operación de las diversas administraciones de edificios;
+
+IV. Aplicar las políticas, métodos y procedimientos para la operación interna de las administraciones de edificios, así como coordinar su difusión y vigilar su observancia;
+
+V. Reclutar, seleccionar y someter a la consideración del titular de la Secretaría Ejecutiva de Administración la designación, cambio de adscripción y renuncia de los servidores públicos de las administraciones de edificios, atendiendo a lo previsto en el artículo 691, último párrafo, de este Acuerdo; así como llevar a cabo la inducción en los puestos y la evaluación de su desempeño;
+
+VI. Difundir la normativa y los programas de operación aplicables a las administraciones de edificios;
+
+VII. Vigilar que los servicios en materia de recursos materiales, servicios generales, conservación y mantenimiento se proporcionen con estricto apego a las disposiciones aplicables;
+
+VIII. Implementar las estrategias de modernización o mejora continua de los procesos administrativos realizados en las administraciones de edificios;
+
+IX. Vigilar que el desarrollo de los procesos en materia de recursos materiales, servicios generales, conservación y mantenimiento, por parte de las administraciones de edificios, se apegue a las disposiciones aplicables;
+
+X. Coordinarse con la Dirección General de Inmuebles y Mantenimiento, para la atención de todos los asuntos concernientes con la obra pública;
+
+XI. Recabar el original de la documentación comprobatoria y justificatoria de las operaciones financieras realizadas por las administraciones de edificios, y darle el trámite que corresponda;
+
+XII. Vigilar que las administraciones de edificios lleven un control adecuado respecto de los documentos, cuentas bancarias, efectivo y valores del Consejo que tengan en su poder, y que realicen las conciliaciones mensuales correspondientes;
+
+XIII. Realizar y difundir los manuales de organización y procedimientos específicos que regulan la operación de las administraciones de edificios, así como verificar su permanente actualización; y
+
+XIV. Verificar que se proporcione el seguimiento y atención oportuna a las solicitudes administrativas efectuadas por los órganos jurisdiccionales y administrativos, en las materias competencia de cada administración de edificio.
+
+###### Artículo 694.
+
+Las administraciones de edificios tendrán las siguientes atribuciones:
+
+I. Atender las solicitudes administrativas efectuadas por los órganos jurisdiccionales y administrativos que les correspondan, así como informarles sobre la evolución de sus gestiones y demás reportes que les soliciten;
+
+II. Proponer a la Dirección General de Servicios Generales las modificaciones y mejoras a los planes, programas, procedimientos y presupuesto, que consideren necesarios para brindar un mejor servicio en las administraciones de edificios;
+
+III. Elaborar los informes de avance de su programa anual de trabajo con la periodicidad que se establezca en los lineamientos respectivos;
+
+IV. Aplicar el programa de ejecución de adquisiciones, obra, mantenimiento, arrendamiento y prestación de servicios, así como los criterios técnicos para la administración de los recursos materiales y la prestación de servicios generales, conservación y mantenimiento;
+
+V. Administrar, registrar, controlar, resguardar, mantener y conservar los bienes muebles de los órganos jurisdiccionales y administrativos que les correspondan;
+
+VI. Aplicar los programas, sistemas y procedimientos para la adquisición y suministro de los recursos materiales, así como para la contratación y prestación de los servicios generales y de conservación y mantenimiento;
+
+VII. Aplicar las políticas, criterios, normas y lineamientos para la utilización, conservación, mantenimiento preventivo y correctivo, rehabilitación, remodelación, adaptación y aprovechamiento de los bienes inmuebles del Consejo;
+
+VIII. Apoyar, en el ámbito de sus responsabilidades, la realización de eventos especiales en que participe el Consejo o sean organizados por éste;
+
+IX. Participar en los programas de protección civil respectivos, en coordinación con las áreas competentes del Consejo;
+
+X. Aplicar el programa de austeridad y disciplina presupuestal del Consejo;
+
+XI. Proponer a la Dirección General de Servicios Generales la construcción y remodelación de inmuebles;
+
+XII. Supervisar el avance físico y financiero de los proyectos contratados;
+
+XIII. Elaborar el programa anual de requerimiento de bienes y servicios para los órganos jurisdiccionales y administrativos que les correspondan;
+
+XIV. Operar el sistema de control de inventarios de bienes de consumo y de inversión relativos a los órganos jurisdiccionales y administrativos que les correspondan;
+
+XV. Suministrar los recursos materiales a los órganos jurisdiccionales y administrativos que les correspondan, según los requerimientos y necesidades específicas;
+
+XVI. Formular el programa anual de mantenimiento y conservación de los inmuebles del Poder Judicial de la Federación que les corresponda;
+
+XVII. Colaborar en los trámites de los contratos de obra pública en los inmuebles del Consejo que les corresponda;
+
+XVIII. Preparar y proporcionar la información para el aseguramiento de los bienes muebles e inmuebles del Consejo que les corresponda;
+
+XIX. Colaborar en la elaboración e integración del proyecto de inversiones en bienes inmuebles, con base en las necesidades de los órganos jurisdiccionales y administrativos;
+
+XX. Apoyar a la Dirección General de Inmuebles y Mantenimiento con la información necesaria para la ejecución de obras, conservación y mantenimiento de los inmuebles del Consejo que les corresponda; así como integrarla en el anteproyecto de presupuesto, de conformidad con los lineamientos respectivos;
+
+XXI. Colaborar en la realización de los trámites para la contratación y, en su caso, suscripción de los siguientes servicios, de conformidad con los lineamientos que para tal efecto determine el Pleno:
+
+a) Mantenimiento preventivo y correctivo a conmutadores;
+
+b) Mantenimiento y recarga de extintores;
+
+c) Mantenimiento de instalaciones eléctricas;
+
+d) Mantenimiento de instalaciones hidrosanitarias;
+
+e) Mantenimiento de equipo electromecánico;
+
+f) Mantenimiento de equipos de aire acondicionado;
+
+g) Mantenimiento preventivo y correctivo de elevadores;
+
+h) Mantenimiento y conservación de inmuebles;
+
+i) Limpieza de áreas comunes;
+
+j) Limpieza de cristales y herrajes;
+
+k) Limpieza de pisos y lavado de alfombras;
+
+l) Fumigación y control de fauna nociva;
+
+m) Jardinería;
+
+n) Recolección y transportación de residuos domésticos y similares;
+
+o) Servicio de energía eléctrica;
+
+p) Líneas telefónicas y adquisición de aparatos conforme a la plantilla autorizada; y
+
+q) En las demás cuestiones que determinen el Pleno, la Comisión de Administración, la Secretaría Ejecutiva de Administración y la Dirección General de Servicios Generales.
+
+XXII. Realizar las adquisiciones procurando las mejores condiciones económicas, de calidad y tiempo de entrega de las mercancías, conforme a las disposiciones aplicables;
+
+XXIII. Efectuar el pago y, en su caso, supervisar el proceso de pago a los proveedores con motivo de las adquisiciones autorizadas;
+
+XXIV. Autorizar y supervisar las compras de bienes de consumo mediante el fondo fijo;
+
+XXV. Recibir los bienes de consumo, mobiliario y equipo de administración destinados a la administración del edificio que corresponda, para su registro, guarda, y distribución, conforme a las políticas de procedimientos establecidos para tal efecto;
+
+XXVI. Suministrar los bienes de consumo, mobiliario y equipo de administración solicitados por órganos jurisdiccionales y administrativos que les correspondan, en las cantidades requeridas y en tiempo oportuno;
+
+XXVII. Realizar y controlar el levantamiento y actualización de los inventarios y resguardo de los bienes muebles y de consumo, otorgados en uso y resguardo a los órganos jurisdiccionales y administrativos que les correspondan;
+
+XXVIII. Observar los procedimientos y parámetros autorizados para la adjudicación de contratos de adquisiciones, arrendamientos, prestación de servicios y mantenimiento de inmuebles, aplicables al Consejo; y
+
+XXIX. Las demás que determine el Pleno, la Comisión de Administración, la Secretaría Ejecutiva de Administración y la Dirección General de Servicios Generales.
+
+###### Artículo 695.
+
+Las administraciones de edificios deberán atender los siguientes lineamientos:
+
+I. Ejercer los recursos financieros en los rubros de su competencia, descritos en las políticas y lineamientos para el ejercicio del Presupuesto de Egresos del Poder Judicial de la Federación y el Clasificador por Objeto del Gasto, del ejercicio fiscal que corresponda, conforme a los techos presupuestarios y el calendario de pagos que establezcan la Comisión de Administración y el Pleno;
+
+II. Remitir a la Dirección General de Servicios Generales el original de la documentación comprobatoria y justificatoria de las operaciones financieras y resguardar copia de la misma;
+
+III. En caso de que los órganos jurisdiccionales y administrativos realicen erogaciones directamente, el administrador del edificio que corresponda deberá recibir, verificar y autorizar la documentación comprobatoria y justificatoria respectiva, así como revisar que se cumpla con los requisitos administrativos y fiscales, y liberar los pagos correspondientes;
+
+IV. Informar mensualmente a la Dirección General de Servicios Generales del ejercicio del gasto, con base en los lineamientos establecidos para tal efecto;
+
+V. Realizar el registro de todas las operaciones financieras que realicen, de conformidad con los lineamientos que para el efecto establezca la Dirección General de Servicios Generales;
+
+VI. Proporcionar a los auditores internos la información que les requieran en sus revisiones, así como a los auditores externos, previa autorización de la Comisión de Administración o el Pleno, y dar cumplimiento a las observaciones y recomendaciones que al respecto formulen;
+
+VII. Llevar un control sobre el manejo de documentos, cuentas bancarias, efectivo y valores del Consejo que tenga en su poder, así como efectuar las conciliaciones mensuales, y rendir un informe al respecto a la Dirección General de Servicios Generales;
+
+VIII. Expedir los contra-recibos a los proveedores, contratistas y prestadores de servicios, conforme al calendario de pagos establecido;
+
+IX. Librar los cheques para el pago a proveedores, acreedores, contratistas y prestadores de servicios;
+
+X. Proporcionar a la Dirección General de Servicios Generales la información necesaria para la elaboración del anteproyecto de presupuesto de los órganos jurisdiccionales y administrativos que les correspondan;
+
+XI. Operar y controlar el fondo fijo asignado; y
+
+XII. Las demás que determine el Pleno, la Comisión de Administración, la Secretaría Ejecutiva de Administración y la Dirección General de Servicios Generales.
+
+Las administraciones de edificios deberán ejercer sus atribuciones de conformidad con las disposiciones aplicables; y deberán atender, en todo caso, al monto de la operación, sin incluir el impuesto al valor agregado, conforme a los parámetros que anualmente emita el Pleno para la adjudicación de contratos de adquisiciones, arrendamientos y prestación de servicios y mantenimiento de inmuebles.
+
+Los servidores públicos de las administraciones de edificios deberán cumplir las disposiciones establecidas en este Capítulo, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+La responsabilidad administrativa derivada de los actos que se realicen en contravención a lo anterior, se determinará conforme a lo dispuesto en la Ley Orgánica y en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, sin perjuicio de la responsabilidad civil o penal que pudiera resultar de dichos actos.
+
+###### Artículo 696.
+
+Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión de Administración, la que de estimarlo conveniente podrá someterlas a consideración del Pleno.
+
+# LIBRO CUARTO. RECURSOS FINANCIEROS
+
+## TÍTULO PRIMERO. PROCESO PRESUPUESTARIO
+
+### CAPÍTULO SEXTO. CONTROL Y VIGILANCIA DEL GASTO PÚBLICO EN EL CONSEJO
+
+#### SECCIÓN PRIMERA. EJERCICIO DEL GASTO PÚBLICO
+
+###### Artículo 697.
+
+Los sujetos obligados a cumplir las disposiciones de este Título deberán observar que la administración de los recursos se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
+
+Lo no previsto y la interpretación de este Título, será resuelto por el Pleno y la Comisión de Administración en el ámbito de sus respectivas competencias.
+
+###### Artículo 698.
+
+El gasto público en el Consejo comprende las erogaciones por concepto de gasto corriente y de inversión que realizan las unidades ejecutoras de gasto.
+
+###### Artículo 699.
+
+El Consejo goza de la autonomía presupuestaria que le es reconocida por la Constitución, la Ley Orgánica y la Ley de Presupuesto, expresándose en las siguientes atribuciones:
+
+I. Aprobar su proyecto de presupuesto y enviarlo al titular del Poder Ejecutivo por conducto de la Suprema Corte de Justicia de la Nación;
+
+II. Ejercer su presupuesto observando lo dispuesto en la Ley, así como en este Título. Dicho ejercicio deberá realizarse con base en los principios de eficiencia, eficacia, transparencia y rendición de cuentas, estando sujeto a la normatividad, la evaluación y el control de las instancias correspondientes;
+
+III. Autorizar las adecuaciones a su presupuesto, observando las disposiciones de este Título y de la Ley de Presupuesto;
+
+IV. Realizar sus pagos a través de la Dirección General de Tesorería;
+
+V. Determinar los ajustes que correspondan en su presupuesto en caso de disminución de ingresos; y
+
+VI. Llevar la contabilidad y elaborar sus informes conforme a lo previsto en este Título y en la Ley General de Contabilidad Gubernamental, así como enviarlos a la Secretaría de Hacienda para su integración a los informes trimestrales y a la Cuenta Pública.
+
+#### SECCIÓN SEGUNDA. SERVICIOS PERSONALES
+
+###### Artículo 700.
+
+Los objetivos, estrategias y metas del Consejo, estarán encaminados al cumplimiento de lo establecido en los artículos 94 y 100 de la Constitución, así como el 68 de la Ley Orgánica.
+
+El Presupuesto de Egresos del Poder Judicial de la Federación se elaborará con base en los objetivos, estrategias y metas anuales establecidas por el Pleno, para lo cual se tomarán en consideración, en lo procedente, los criterios generales de política económica.
+
+En toda propuesta derivada de una necesidad que implique aumento en el gasto o inversión, no contemplada inicialmente en el presupuesto autorizado, se deberá contar con la autorización del Pleno.
+
+La Dirección General de Programación y Presupuesto realizará una evaluación del impacto presupuestario de las propuestas de adición o modificación del gasto autorizado que presenten las unidades ejecutoras de gasto, la cual se hará del conocimiento del Pleno.
+
+El Pleno podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos del Poder Judicial de la Federación, con cargo a los excedentes que en su caso, resulten de las provisiones financieras originales. En el caso de los ingresos que tengan un destino específico por disposición expresa de leyes de carácter fiscal, éstos deberán reconocerse como ampliación al presupuesto autorizado del área ejecutora del gasto que los generó.
+
+###### Artículo 701.
+
+Los ingresos excedentes que obtenga el Consejo, deberán:
+
+I. Contar con la aprobación de la Comisión de Administración, para su incorporación al Presupuesto como adecuaciones presupuestales en ampliación líquida.
+
+II. Registrarse ante la Secretaría de Hacienda conforme lo establece la Ley de Presupuesto; y
+
+III. Informar a la Secretaría de Hacienda sobre la obtención y la aplicación de dichos ingresos, para efectos de la integración de los informes trimestrales y la Cuenta Pública.
+
+Para efectos de la aprobación a que se refiere la fracción I de este artículo, la Dirección General de Programación y Presupuesto deberá someter a consideración de la Comisión de Administración los montos, origen y conceptos de ampliación, y además deberá elaborar un informe mensual al Pleno en el que se reúnan los ingresos registrados en un mes de calendario, el que deberá contener, al menos, la descripción de los conceptos de ingreso; el monto de cada uno y la suma total; así como la partida o partidas presupuestales a las que se aplicará la ampliación líquida.
+
+El informe relativo corresponderá a los ingresos registrados en el Sistema Integral Financiero en el mes anterior de calendario y deberá someterse, previamente, a consideración de la Comisión de Administración en la primera sesión de ésta del mes siguiente.
+
+No obstante lo dispuesto en el párrafo anterior, los ingresos registrados al 15 de noviembre podrán ser incorporados al presupuesto como ampliación líquida, durante el periodo de receso, con la sola autorización de la Comisión de Receso; de lo cual, la Dirección General de Programación y Presupuesto informará al Pleno en la primera sesión ordinaria del año siguiente.
+
+Las adecuaciones presupuestales como ampliaciones líquidas provenientes de recursos presupuestales de la Suprema Corte de Justicia de la Nación o del Tribunal Electoral del Poder Judicial de la Federación, deberán ser autorizadas por el Pleno.
+
+###### Artículo 702.
+
+En caso de que durante el ejercicio fiscal disminuyan las ministraciones por recorte al Presupuesto de Egresos del Poder Judicial de la Federación, el Pleno, por conducto de la Dirección General de Programación y Presupuesto, podrá aplicar las siguientes medidas de disciplina presupuestaria:
+
+I. Ajustes compensados con ingresos excedentes y transferencias financieras provenientes de la Suprema Corte de Justicia de la Nación o del Tribunal Electoral del Poder Judicial de la Federación; y
+
+II. En el caso de que los ajustes compensados a que se refiere la fracción anterior no sean suficientes, se procederá a la reducción del gasto conforme a las prioridades que determine el Pleno, procurando en todo caso, no afectar los programas sustantivos.
+
+###### Artículo 703.
+
+En el ejercicio de sus presupuestos, las unidades ejecutoras de gasto se sujetarán a los calendarios de presupuesto autorizados por el Pleno, atendiendo los requerimientos de las mismas.
+
+Las unidades ejecutoras de gasto remitirán a la Dirección General de Programación y Presupuesto sus proyectos de calendarios en los términos y plazos autorizados por el Pleno. Dicha Dirección General integrará los calendarios tomando en consideración las necesidades institucionales y la oportunidad en la ejecución de los recursos para el mejor cumplimiento de los objetivos propuestos.
+
+La Dirección General de Programación y Presupuesto es competente para elaborar los calendarios de presupuesto de las unidades ejecutoras de gasto, cuando no le sean presentados en los términos que establezca el Pleno.
+
+Los calendarios a que se refiere este artículo deberán ser en términos mensuales.
+
+###### Artículo 704.
+
+La Dirección General de Programación y Presupuesto reportará mensualmente a la Comisión de Administración, el estado de avance del ejercicio del presupuesto de las unidades ejecutoras de gasto, con el fin de informar sobre la acumulación de saldos y adoptar las medidas conducentes.
+
+En su caso, la acumulación de saldos de los presupuestos de las unidades ejecutoras de gasto que resulten, deberán subsanarse en un plazo máximo de 90 días naturales, excepto en el último trimestre del año. En caso contrario dichos recursos podrán ser reasignados a los programas y conceptos de gasto que determine la Comisión de Administración, con base en las expectativas de gasto que formulen las propias unidades ejecutoras de gasto.
+
+Las disposiciones de los párrafos precedentes están orientadas a evitar el subejercicio de los recursos presupuestales al concluir el ciclo fiscal y a optimizar la aplicación del gasto en la consecución de los objetivos y metas institucionales.
+
+#### SECCIÓN TERCERA. ADECUACIONES PRESUPUESTARIAS
+
+#### SECCIÓN CUARTA. DESCONCENTRACIÓN DEL EJERCICIO DEL GASTO
+
+###### Artículo 705.
+
+El Consejo, en apego a las disposiciones normativas correspondientes, establecerá los vínculos de coordinación y apoyo con la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, tendentes a aprovechar al máximo los recursos financieros, materiales y humanos con que cuentan, para el cumplimiento de sus fines.
+
+El Pleno podrá autorizar la recepción o transferencia de recursos financieros, materiales y plazas de personal con la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, en los términos de este Título y demás disposiciones normativas aplicables.
+
+En el marco de la autonomía e independencia que la Constitución otorga al Poder Judicial de la Federación, y bajo el principio de respeto institucional entre Poderes, el Consejo podrá establecer canales de comunicación y colaboración institucional con las Cámaras de Senadores y de Diputados del Congreso de la Unión, con los Congresos Locales y con las dependencias de la Administración Pública Federal y de las Entidades Federativas, que coadyuven al cumplimiento de sus funciones.
+
+Sin detrimento de que cada instancia del Poder Judicial de la Federación pueda hacerlo individualmente y de lo establecido en la Constitución y en la Ley Orgánica, el Consejo, a través del Oficial Mayor, podrá establecer de manera directa los vínculos institucionales con los órganos competentes de los Poderes Ejecutivo y Legislativo de la Federación, para la atención de las funciones financieras y administrativas relacionadas con la gestión de los recursos presupuestales autorizados.
+
+#### SECCIÓN PRIMERA. SISTEMA DE CONTABILIDAD
+
+### CAPÍTULO SÉPTIMO. EVALUACIÓN, INFORMACIÓN Y TRANSPARENCIA
+
+#### SECCIÓN SEGUNDA. CATALOGO DE CUENTAS Y REGISTRO CONTABLE DE LAS OPERACIONES
+
+###### Artículo 706.
+
+El Presupuesto de Egresos del Poder Judicial de la Federación se apoyará en un sistema integral, caracterizado por un conjunto de procesos ligados entre sí que comprenden la programación, presupuestación, ejercicio, control, registro y evaluación del gasto.
+
+###### Artículo 707.
+
+Las unidades ejecutoras de gasto, en términos del artículo 45 de la Ley de Presupuesto, serán responsables de la administración por resultados del Consejo, para lo cual deberán establecer lo necesario para cumplir oportunamente con eficiencia y eficacia las metas y objetivos previstos en los programas respectivos, conforme a lo dispuesto en la Ley de Presupuesto, en este Título y demás disposiciones aplicables.
+
+###### Artículo 708.
+
+El Presupuesto de Egresos del Poder Judicial de la Federación se administrará por resultados, para lo cual, las unidades ejecutoras de gasto deberán establecer y registrar ante la Dirección General de Programación y Presupuesto, los compromisos de resultados que permitan alcanzar un ejercicio eficiente y eficaz del gasto en el Consejo, así como una efectiva rendición de cuentas. En consecuencia, las unidades ejecutoras de gasto se sujetarán a los controles presupuestarios correspondientes, conforme a sus presupuestos autorizados y a las disposiciones generales aplicables.
+
+###### Artículo 709.
+
+La Comisión de Administración, a través de la Oficialía Mayor, administrará los recursos del Consejo, con apego al Presupuesto de Egresos del Poder Judicial de la Federación, a los acuerdos determinados por el Pleno y conforme a los principios de honestidad, economía, eficiencia y eficacia.
+
+La Oficialía Mayor apoyará a la citada Comisión en la administración de los recursos financieros del Consejo, a través de las áreas administrativas, atendiendo al calendario del ejercicio presupuestal autorizado y de conformidad con este Título, a la Ley de Presupuesto, al Presupuesto de Egresos y a los lineamientos que al respecto emita el Pleno; asimismo presentará a los órganos facultados y al Pleno los informes relativos al ejercicio presupuestal conforme a los plazos legales y términos establecidos, proponiendo en el área de su competencia, sistemas de control y de evaluaciones internas del ejercicio presupuestal.
+
+###### Artículo 710.
+
+La Oficialía Mayor establecerá la coordinación y comunicación adecuada para que exista un flujo de información ágil y oportuna.
+
+###### Artículo 711.
+
+La Dirección General de Programación y Presupuesto estará a cargo de la programación, presupuestación y registro del gasto en el Consejo. El control y la evaluación de dicho gasto corresponderán a dicha Dirección General y a la Contraloría, en el ámbito de sus respectivas atribuciones. Asimismo, la Contraloría inspeccionará y vigilará el cumplimiento de las disposiciones de este Título y de la Ley de Presupuesto, así como de las que ellas emanen, respecto de dicho gasto.
+
+###### Artículo 712.
+
+El ejercicio del gasto será responsabilidad de las unidades ejecutoras del mismo, apegándose a las disposiciones de este Título y de las Políticas y Lineamientos autorizados por el Pleno.
+
+###### Artículo 713.
+
+El Consejo establecerá los sistemas informáticos que sean adecuados para las distintas fases de su proceso presupuestario. Asimismo, podrá celebrar convenios con la Secretaría de Hacienda para mantener la compatibilidad con sus correspondientes sistemas informáticos, exclusivamente para efectos de registro e información de sus operaciones financieras.
+
+#### SECCIÓN TERCERA. FORMULACIÓN DE LOS ESTADOS FINANCIEROS
+
+###### Artículo 714.
+
+El Consejo, por conducto de la Dirección General de Programación y Presupuesto, deberá coordinarse con la Secretaría de Hacienda para efectos de la programación y presupuestación en los términos previstos en este Título y en la Ley de Presupuesto.
+
+###### Artículo 715.
+
+La programación y presupuestación del gasto del Consejo comprende:
+
+I. Las actividades que deberán realizar las unidades ejecutoras de gasto para dar cumplimiento a los objetivos, políticas, estrategias, prioridades y metas con base en indicadores, contenidos en las directrices que el Pleno autorice;
+
+II. La definición de las provisiones financieras para sufragar las necesidades de gasto; y
+
+III. Las previsiones de gasto para atender las necesidades de los recursos humanos, materiales, financieros y de otra índole, necesarios para el desarrollo de las actividades señaladas en la fracción I de este artículo.
+
+###### Artículo 716.
+
+La programación y presupuestación anual del gasto en el Consejo, se realizará con base en los anteproyectos que elaboren cada una de las unidades ejecutoras de gasto para cada ejercicio fiscal, considerando:
+
+I. Las políticas y estrategias que determine el Pleno;
+
+II. Los criterios generales de política económica, que en su caso considere el Pleno;
+
+III. La evaluación de los avances logrados en el cumplimiento de las metas, así como los avances físicos y financieros del ejercicio fiscal anterior y los pretendidos para el ejercicio siguiente; y
+
+IV. La interrelación que en su caso exista con los otros Poderes de la Unión, los sectores privado y social, y con los poderes de las entidades federativas.
+
+El anteproyecto se elaborará por unidad ejecutora del gasto, estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como con los indicadores necesarios para medir su cumplimiento.
+
+###### Artículo 717.
+
+Los anteproyectos deberán sujetarse a la estructura programática aprobada por el Pleno, la cual contendrá como mínimo:
+
+I. Las categorías, que comprenderán el programa, el subprograma y el proyecto;
+
+II. Los elementos, que comprenderán la misión, la visión, los objetivos y las metas con base en indicadores, y la unidad ejecutora del gasto, en congruencia con las políticas y estrategias que determine el Pleno; y
+
+III. Los indicadores referidos en la fracción anterior corresponderán a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año, expresado en términos de cobertura, eficiencia, impacto económico y social, calidad, equidad o cualquier otro que se considere significativo y relevante de la función sustantiva del Consejo. Estos indicadores serán la base para el funcionamiento del Sistema de Evaluación del Consejo.
+
+La estructura programática deberá ser sencilla y facilitar el examen del Presupuesto y sólo sufrirá modificaciones cuando éstas tengan el objetivo de fortalecer dichos principios, en los términos de las disposiciones aplicables.
+
+###### Artículo 718.
+
+El anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación se presentará y aprobará, conforme a las siguientes clasificaciones:
+
+I. La administrativa, la cual agrupa a las previsiones de gasto conforme a las unidades ejecutoras de gasto;
+
+II. La funcional y programática, la cual agrupa a las previsiones de gasto con base en las actividades que orgánicamente le corresponden a las unidades ejecutoras de gasto y de acuerdo con los resultados que se proponen alcanzar, en términos de funciones, programas, proyectos, actividades, objetivos y metas, permitiendo a través de indicadores, conocer y evaluar la productividad y los resultados del gasto en cada una de las etapas del proceso presupuestario; y
+
+III. La económica, la cual agrupa las previsiones de gasto en función de su naturaleza económica y objeto, en erogaciones corrientes, inversión física, transferencias y, en su caso, subsidios.
+
+###### Artículo 719.
+
+El anteproyecto de Presupuesto de Egresos del Consejo, se formulará conforme a los criterios y lineamientos que autorice el Pleno. Dichos criterios y lineamientos serán presentados a la consideración del Pleno por el Oficial Mayor, previa aprobación de la Comisión de Administración.
+
+La elaboración del proyecto de los criterios y lineamientos será elaborado por la Dirección General de Programación y Presupuesto.
+
+La Dirección General de Programación y Presupuesto es competente para formular el anteproyecto de presupuesto de las unidades ejecutoras de gasto, cuando las mismas no lo presenten en los plazos establecidos.
+
+###### Artículo 720.
+
+El anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación, deberá ser aprobado por el Pleno. Una vez aprobado deberá ser enviado a la Suprema Corte de Justicia de la Nación, para que por su conducto se remita al titular del Poder Ejecutivo para su incorporación al Proyecto de Presupuesto de Egresos de la Federación, conforme lo establecido por la Constitución, la Ley Orgánica y la Ley de Presupuesto.
+
+###### Artículo 721.
+
+En el anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación se deberán prever, en un capítulo específico, los compromisos plurianuales de gasto que se autoricen en los términos del artículo 730 de este Acuerdo, los cuales se deriven de contratos de obra pública, adquisiciones, arrendamientos y servicios. En estos casos, los compromisos excedentes no cubiertos tendrán preferencia respecto de otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual.
+
+###### Artículo 722.
+
+En el anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación se deberán presentar en una sección específica, las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
+
+I. Las remuneraciones de los servidores públicos y las erogaciones a cargo del Consejo por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones; y
+
+II. Las previsiones económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral.
+
+###### Artículo 723.
+
+Para la programación de los recursos destinados a programas y proyectos de inversión, las unidades globalizadoras deberán observar el siguiente procedimiento:
+
+I. Elaborar anualmente el documento de planeación que identifique los programas y proyectos de inversión que se encuentren en proceso de realización, así como aquéllos que se consideren susceptibles de realizarse en años futuros;
+
+II. Presentar a la Dirección General de Programación y Presupuesto la evaluación, costo y beneficio de los programas y proyectos de inversión que tengan a su cargo; y
+
+III. Registrar cada programa y proyecto de inversión en la cartera que integra la Dirección General de Programación y Presupuesto, para lo cual se deberá presentar la evaluación costo y beneficio correspondiente. Las unidades globalizadoras deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos de inversión registrados en la cartera se podrán incluir en el anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación. La Dirección General de Programación y Presupuesto podrá negar o cancelar el registro si un programa o proyecto de inversión no cumple con las disposiciones aplicables.
+
+### CAPÍTULO PRIMERO. COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS
+
+#### SECCIÓN CUARTA. INTEGRACIÓN DE LA CUENTA PÚBLICA
+
+###### Artículo 724.
+
+El ejercicio del gasto público en el Consejo se efectuará con base en el calendario del ejercicio presupuestal autorizado por el Pleno. Dicho ejercicio comprenderá el manejo y aplicación que de los recursos realice el Consejo, por medio de las unidades ejecutoras de gasto, para dar cumplimiento a los objetivos y metas de los programas contenidos en el Presupuesto de Egresos del Poder Judicial de la Federación aprobado anualmente.
+
+###### Artículo 725.
+
+Las políticas, lineamientos, directrices y criterios para el ejercicio del gasto público en el Consejo, serán definidos anualmente por la Comisión de Administración a propuesta de la Dirección General de Programación y Presupuesto por conducto de la Oficialía Mayor, para autorización del Pleno y dándose a conocer a las unidades ejecutoras de gasto para su estricta observancia, las cuales tendrán vigencia hasta que sean emitidas las que las sustituyan.
+
+###### Artículo 726.
+
+Las unidades ejecutoras de gasto, para la elaboración de los calendarios del ejercicio presupuestal a que se refiere el artículo 724 de este Acuerdo, deberán observar además de lo dispuesto en las disposiciones legales aplicables, lo siguiente:
+
+I. Los calendarios serán anuales con base mensual y deberán compatibilizar las estimaciones de avance de metas con los requerimientos periódicos de recursos financieros necesarios para alcanzarlas;
+
+II. Los calendarios contemplarán las necesidades de pago, en función de los compromisos contraídos y por contraer; y
+
+III. Los lineamientos que al efecto emita la Comisión de Administración o el Pleno.
+
+###### Artículo 727.
+
+El ejercicio del gasto público en el Consejo se desarrollará de conformidad con las siguientes acciones:
+
+I. Ministración de fondos;
+
+II. Celebración de compromisos que signifiquen obligaciones con cargo al Presupuesto aprobado; y
+
+III. Pago de las obligaciones derivadas de los compromisos contraídos.
+
+###### Artículo 728.
+
+El Consejo, al contraer compromisos deberá observar, además de las disposiciones legales aplicables, lo siguiente:
+
+I. Que se realicen de acuerdo con el calendario del ejercicio presupuestal autorizado;
+
+II. Que no impliquen obligaciones anteriores a la fecha en que se suscriban; y
+
+III. Cuando impliquen obligaciones con cargo a presupuestos de ejercicios posteriores, se cumpla con lo dispuesto en el artículo 730 de este Acuerdo.
+
+###### Artículo 729.
+
+Las unidades globalizadoras, de conformidad con sus atribuciones, deberán realizar todos los trámites necesarios para llevar a cabo las contrataciones por adquisiciones, arrendamientos, servicios y obra pública, en apego y cumplimiento al Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, así como al Programa de Ejecución de Obra Pública autorizados por el Pleno, con el objeto de que los recursos se ejerzan oportunamente a partir del inicio del ejercicio fiscal correspondiente.
+
+Las unidades globalizadoras, de acuerdo a sus atribuciones, deberán, en su caso, solicitar al Pleno, autorización especial para convocar, adjudicar y, en los casos procedentes, formalizar los contratos cuya vigencia inicie en el ejercicio fiscal siguiente de aquél en el que se solicite, con base en los anteproyectos de presupuesto.
+
+Los contratos estarán sujetos a la disponibilidad presupuestaria del año en el que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes.
+
+Para todo gasto no contemplado en los programas de ejecución, deberá obtenerse autorización previa del Pleno.
+
+###### Artículo 730.
+
+El Consejo podrá celebrar contratos plurianuales de obras públicas, adquisiciones, arrendamientos y servicios, siempre y cuando las unidades ejecutoras de gasto cumplan con lo siguiente:
+
+I. Justifiquen que su celebración representa ventajas económicas o que sus términos o condiciones son más favorables;
+
+II. Justifiquen el plazo de la contratación;
+
+III. Identifiquen el gasto corriente o de inversión correspondiente;
+
+IV. Desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente, como para los subsecuentes y en el caso de obra pública, los avances físicos esperados;
+
+V. Soliciten la autorización del Pleno; y
+
+VI. Las normas generales que para tal efecto emita el Pleno.
+
+Cuando se requiera actualizar los montos plurianuales autorizados que sirvieron de base para celebrar originalmente los contratos derivados de la variación de costos o montos, se deberá presentar al Pleno la justificación correspondiente, así como el avance financiero y en el caso de obra pública, además el avance físico.
+
+La autorización de contratos plurianuales se sujetará a las siguientes reglas:
+
+I. El monto total de los contratos plurianuales no deberá implicar riesgos de incumplimiento de las obligaciones a cargo del Consejo ni restricciones a la flexibilidad requerida para el adecuado ejercicio del gasto;
+
+II. El monto máximo para la contratación plurianual, de cada ejercicio, deberá fijarse hasta por el monto que, como porcentaje del Presupuesto de Egresos en que se ejerza, autorice el Pleno a propuesta de la Dirección General de Programación y Presupuesto, lo que podrá ser reducido o ampliado conforme a las economías obtenidas en los capítulos de gasto corriente;
+
+III. En todo caso se tomarán en consideración las erogaciones plurianuales aprobadas en ejercicios anteriores;
+
+IV. Los compromisos plurianuales excedentes no cubiertos tendrán preferencia respecto de otras previsiones de gasto de infraestructura, quedando la ejecución de éstos sujeta a la disponibilidad presupuestaria anual;
+
+V. Tratándose de contratos plurianuales de obra pública, deberá preferirse la contratación mediante el esquema conocido como precio alzado, a no ser que el Comité correspondiente justifique motivadamente al Pleno, la conveniencia de otro esquema de contratación; y
+
+VI. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en el Presupuesto de Egresos.
+
+Las unidades globalizadoras deberán informar al Pleno sobre cualquier variación significativa en los términos y estimaciones presentadas para obtener las autorizaciones correspondientes, así como cualquier asunto superveniente que afecte sustancialmente el desarrollo de la prestación de servicios de que se trate, en los términos de las disposiciones aplicables.
+
+El Consejo deberá incluir en los informes trimestrales, un reporte sobre el monto total erogado durante el periodo correspondiente a los contratos a que se refiere este artículo. Asimismo, deberá incluir las previsiones correspondientes en sus anteproyectos de presupuesto para el siguiente ejercicio fiscal, en los términos de este Título y de la Ley de Presupuesto.
+
+###### Artículo 731.
+
+El Consejo recibirá y operará sus recursos financieros a través de la Dirección General de Tesorería. Por lo que se refiere a los pagos, éstos serán realizados directamente por dicha Tesorería o por las Administraciones Regionales, Delegaciones Administrativas y Administraciones de Edificios del Distrito Federal y zona conurbada, conforme a este Título y demás disposiciones aplicables.
+
+###### Artículo 732.
+
+Los pagos que realice el Consejo, se podrán efectuar a través de diversos instrumentos y mecanismos, tales como: cheques, órdenes de pago, transferencias electrónicas de fondos, sistema de pago electrónico interbancario, depósitos en cuenta o cualquier otro mecanismo que opere el sistema bancario, derivado de la modernización tecnológica.
+
+###### Artículo 733.
+
+El Consejo, por conducto de las áreas competentes, deberá cuidar que los pagos que se efectúen con cargo a los presupuestos aprobados se realicen con sujeción a los siguientes requisitos:
+
+I. Que correspondan a compromisos efectivamente devengados, con excepción de los anticipos previstos en los ordenamientos legales aplicables y los señalados por el Pleno;
+
+II. Que se efectúen dentro de los límites de los calendarios autorizados;
+
+III. Que se encuentren debidamente justificados y comprobados con los documentos originales respectivos, entendiéndose por justificantes, las disposiciones y documentos legales que determinen la obligación de hacer un pago y, por comprobantes, los documentos que demuestren la entrega de la suma de dinero correspondiente; y
+
+IV. Los demás que establezca el Pleno.
+
+###### Artículo 734.
+
+Los documentos comprobatorios deberán reunir los requisitos fiscales establecidos en los ordenamientos legales aplicables, así como los requisitos administrativos señalados en la normativa interna del Consejo.
+
+###### Artículo 735.
+
+El presupuesto tiene como límite para su ejercicio el treinta y uno de diciembre de cada año, por lo que para cubrir los compromisos devengados y no pagados a la fecha mencionada, se deberá cumplir con los siguientes requisitos:
+
+I. Que se encuentren debidamente contabilizados al treinta y uno de diciembre del ejercicio correspondiente;
+
+II. Que exista disponibilidad para esos compromisos en el año en que se devengaron; y
+
+III. Los demás que establezcan las disposiciones legales aplicables y los acuerdos generales emitidos por el Pleno.
+
+De no cumplir los requisitos antes señalados, dichos compromisos se cubrirán con cargo a los recursos del año siguiente, debiéndose informar al Pleno.
+
+Cuando por cualquier motivo al treinta y uno de diciembre, el Consejo conserve recursos del Presupuesto de Egresos del Poder Judicial de la Federación, incluyendo los rendimientos obtenidos, deberá reintegrar el importe disponible a la Tesorería de la Federación, dentro de los quince días naturales siguientes al cierre del ejercicio.
+
+###### Artículo 736.
+
+Los pagos que afecten el Presupuesto de Egresos del Poder Judicial de la Federación sólo podrán hacerse efectivos en tanto no prescriba la acción para exigir su pago, conforme a las disposiciones legales aplicables.
+
+###### Artículo 737.
+
+La prescripción a que se refiere el artículo anterior se interrumpirá por:
+
+I. Gestiones escritas hechas ante autoridad competente por parte de quien tenga derecho a exigir el pago; y
+
+II. Por el ejercicio de acciones correspondientes ante los tribunales competentes.
+
+###### Artículo 738.
+
+Las certificaciones, los compromisos, las ministraciones de fondos, los pagos, las operaciones que signifiquen cargos y abonos a los presupuestos sin que exista erogación material de fondos, así como las adecuaciones presupuestarias, implicarán afectaciones a los presupuestos aprobados.
+
+###### Artículo 739.
+
+Las afectaciones al Presupuesto de Egresos el Poder Judicial de la Federación, se realizarán por medio de los siguientes documentos presupuestarios:
+
+I. Adecuaciones Presupuestarias;
+
+II. Certificación de Disponibilidad Presupuestal;
+
+III. Documento de Afectación Presupuestal; y
+
+IV. Volante de Autorización Presupuestal.
+
+###### Artículo 740.
+
+El Consejo, a través de las áreas competentes, deberá llevar los registros de las afectaciones a su presupuesto aprobado, observando para ello que se realicen:
+
+I. Con cargo a los programas y, en su caso, los subprogramas, proyectos y unidades ejecutoras de gasto señalados en sus presupuestos; y
+
+II. Con sujeción al Clasificador por Objeto del Gasto del propio Consejo.
+
+###### Artículo 741.
+
+Cuando los capítulos, partidas o conceptos del Clasificador por Objeto del gasto, no satisfagan los requerimientos de registro presupuestario del Consejo, la Oficialía Mayor a través de la Dirección General de Programación y Presupuesto podrá, conforme a sus funciones y requerimientos específicos, identificar sus erogaciones con una apertura y desagregación mayor a la prevista en dicho clasificador.
+
+Las partidas del Clasificador por Objeto del Gasto podrán desagregarse en subpartidas, que correspondan con la estructura y contenido genérico de los capítulos y conceptos de gasto del mismo, previa autorización de la Comisión de Administración.
+
+###### Artículo 742.
+
+El Consejo con cargo al Presupuesto de Egresos del Poder Judicial de la Federación y de conformidad con las disposiciones aplicables, como sujeto pasivo, deberá cubrir las contribuciones federales y locales correspondientes; así como las obligaciones de cualquier índole que se deriven de resoluciones definitivas emitidas por autoridad competente.
+
+En caso de ser necesario, el Consejo propondrá, ante dichas instancias, el cumplimiento de obligaciones, observando lo dispuesto por la Ley de Presupuesto.
+
+###### Artículo 743.
+
+El ejercicio del gasto por medio de fondos fijos, servirá para cubrir requerimientos menores o urgentes de las unidades ejecutoras de gasto del Consejo, quienes se sujetarán a los lineamientos específicos para el manejo de estos fondos emitidos por el Pleno.
+
+###### Artículo 744.
+
+Para el ejercicio del gasto por concepto de viáticos y pasajes, las unidades ejecutoras de gasto deberán sujetarse a lo siguiente:
+
+I. Para la asignación de viáticos en el desempeño de comisiones tanto en territorio nacional como en el extranjero, observar las disposiciones aplicables y los acuerdos que al efecto emita el Pleno. Las comisiones en el extranjero deberán contar con el visto bueno de la Comisión a la cual pertenece o reporte el servidor público comisionado, y con la autorización del Pleno;
+
+II. La autorización para el desempeño de las comisiones, se efectuará para contribuir al logro de los objetivos y metas de los programas aprobados;
+
+III. Será improcedente la autorización de comisiones cuando el personal desempeñe dos o más empleos compatibles, a menos que se obtenga licencia en el empleo o empleos distintos del que origine la comisión;
+
+IV. Será improcedente la autorización de comisiones cuando el servidor público se encuentre disfrutando de un período vacacional o de cualquier tipo de licencia en el cargo motivo de la comisión; y
+
+V. Lo demás que establezcan las disposiciones legales aplicables y los acuerdos que para la materia emita el Pleno.
+
+###### Artículo 745.
+
+Para el ejercicio del gasto por concepto de adquisiciones, arrendamientos, prestación de servicios de cualquier naturaleza y obras públicas, el Consejo, por conducto de las áreas competentes, deberá ajustarse a lo establecido en las disposiciones legales aplicables y en los acuerdos que al efecto emita el Pleno.
+
+Para tal efecto, se formalizarán en lo conducente, los compromisos correspondientes mediante la adjudicación, expedición y autorización de contratos de obra pública, arrendamientos o de servicios, así como los pedidos para la adquisición de bienes, órdenes de trabajo o de servicios.
+
+En materia de adquisiciones, servicios y obra pública, las áreas competentes deberán contar con los programas de ejecución respectivos, de conformidad con las disposiciones aplicables.
+
+Asimismo, el Consejo se asegurará que las garantías que se otorguen a favor del Poder Judicial de la Federación, por los actos y contratos que se celebren con motivo de las adquisiciones, prestación de servicios y obras públicas, satisfagan los requisitos legales establecidos, según el objeto y concepto que les dé origen y que su importe cubra suficientemente el acto u obligación que deba garantizarse, de conformidad con las disposiciones legales aplicables y en los acuerdos que al efecto emita el Pleno.
+
+El Consejo no otorgará garantías, depósitos, ni aceptará la estipulación de penas convencionales, ni de intereses moratorios, para el cumplimiento de sus obligaciones de pago con cargo al Presupuesto de Egresos del Poder Judicial de la Federación.
+
+Tratándose de cargas fiscales, sólo procederán aquellas de las que por disposición legal sea causante el Consejo o se acepte su traslado.
+
+###### Artículo 746.
+
+El ejercicio del gasto en materias de arrendamiento y adquisición de inmuebles en el Consejo, se ejecutará conforme a las disposiciones que para tal efecto emita el Pleno.
+
+###### Artículo 747.
+
+La prestación de servicios de asesoría, consultoría, estudios e investigaciones, podrá contratarse siempre y cuando no se cuente con personal capacitado en la especialidad que se requiera, bajo las siguientes consideraciones:
+
+I. Se cuente con recursos para dichos fines en el Presupuesto de Egresos del Poder Judicial de la Federación;
+
+II. Las personas físicas y morales que presten los servicios no desempeñen funciones iguales o equivalentes a las del personal de plaza presupuestaria;
+
+III. Las contrataciones de servicios profesionales sean indispensables para el cumplimiento de los programas autorizados;
+
+IV. Se especifique en el contrato respectivo la necesidad y el alcance de los servicios profesionales a contratar; y
+
+V. Se apeguen a las demás disposiciones generales aplicables.
+
+###### Artículo 748.
+
+Las erogaciones que se realicen por concepto de gastos de orden social, congresos, convenciones, exposiciones, seminarios, espectáculos culturales o cualquier otro tipo de foro o evento análogo, se sujetarán a los lineamientos específicos autorizados por el Pleno.
+
+Las erogaciones que se realicen por concepto de gastos de orden social, seminarios, asesorías, estudios e investigaciones, así como las de carácter imprevisto que efectúe el Consejo a través de las áreas competentes, para la atención de necesidades urgentes, de ejecución inmediata y de montos relativamente menores, serán autorizadas por la Dirección General de Programación y Presupuesto. De los gastos realizados dicha Dirección General deberá presentar mensualmente un informe a la Comisión de Administración.
+
+#### SECCIÓN QUINTA. ARCHIVO CONTABLE
+
+###### Artículo 749.
+
+El Presupuesto de Egresos del Poder Judicial de la Federación por concepto de servicios personales, comprende la totalidad de recursos para cubrir los siguientes rubros:
+
+I. Las remuneraciones que constitucional y legalmente correspondan a los servidores públicos a cargo del Consejo por concepto de percepciones ordinarias y extraordinarias. No se consideran remuneraciones los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
+
+II. Las aportaciones de seguridad social;
+
+III. Las primas de los seguros que se contratan en favor de los servidores públicos;
+
+IV. Las obligaciones fiscales que generen los pagos a que se refieren las fracciones anteriores, conforme a las disposiciones generales aplicables;
+
+V. Los incrementos salariales;
+
+VI. Creación de nuevas plazas; y
+
+VII. Otras medidas económicas de índole laboral, establecidas en las disposiciones legales aplicables y los acuerdos emitidos por el Pleno.
+
+Una vez aprobada la asignación global de servicios personales en el Presupuesto de Egresos del Poder Judicial de la Federación, ésta no podrá incrementarse.
+
+###### Artículo 750.
+
+La creación de nuevas plazas definitivas deberá contar, previamente, con el dictamen de suficiencia presupuestal correspondiente.
+
+Asimismo, se evitará la realización de traspasos de recursos de otros capítulos presupuestales al capítulo de servicios personales, salvo que se cuente con previa y expresa autorización del Pleno.
+
+###### Artículo 751.
+
+El ejercicio del gasto público del Consejo por concepto de servicios personales comprenderá:
+
+I. El establecimiento de compromisos a través de la expedición y autorización de Constancias de Nombramiento y Asignación de Remuneraciones, Nóminas, Contratos de Honorarios y los documentos que tengan ese carácter;
+
+II. Los pagos de remuneraciones ordinarias, extraordinarias y de seguridad social;
+
+III. Las primas de los seguros que se contratan en favor de los servidores públicos;
+
+IV. Las obligaciones fiscales que generen los pagos a que se refieren las fracciones anteriores, conforme a las disposiciones generales aplicables; y
+
+V. Las demás asignaciones autorizadas por el Pleno.
+
+###### Artículo 752.
+
+Para que el Consejo, por conducto de la Dirección General de Recursos Humanos, lleve a cabo la contratación o nombramiento de personal a que se refiere el artículo anterior, deberá cumplir con los siguientes requisitos:
+
+I. Ajustarse al número de plazas autorizadas por el Pleno, en el presupuesto aprobado;
+
+II. Apegarse a las necesidades de personal que requiera el desarrollo de los programas;
+
+III. Tratándose de personal que desempeñe otro o más empleos o comisiones con cargo a la Federación, verificar que éstos sean compatibles;
+
+IV. Que la correspondiente asignación de remuneraciones se sujete, en su caso, a los catálogos y tabuladores que al efecto expida el Pleno; y
+
+V. Las demás disposiciones que establezca el Pleno.
+
+###### Artículo 753.
+
+Para efectuar el pago de las remuneraciones al personal, el Consejo a través de las áreas administrativas competentes, deberá observar lo siguiente:
+
+I. Sujetarse al Presupuesto de Egresos del Poder Judicial de la Federación, conforme a lo previsto en el artículo 749 de este Acuerdo;
+
+II. Sujetarse a los tabuladores generales de sueldos y prestaciones autorizados por el Pleno;
+
+III. Elaborar para cada período de pago, las nóminas que consignen a todos los empleados y los pagos que se realizarán con cargo al Presupuesto de Egresos del Poder Judicial de la Federación, así como las retenciones respectivas;
+
+IV. Los pagos correspondientes al personal se realizarán bajo la responsabilidad de las áreas encargadas del control y generación de nóminas, de conformidad con las disposiciones generales aplicables. Dichos pagos deberán hacerse por las cantidades líquidas que le correspondan a cada empleado;
+
+V. Calcular y cubrir, con base en las nóminas, los pagos que correspondan a los beneficiarios de las retenciones efectuadas y las que por ley se deban aportar por concepto de seguridad social;
+
+VI. Para efectos de la comprobación de las erogaciones de los conceptos que se paguen a través de nóminas, se acompañarán, en su caso, los recibos, pólizas y demás documentos que demuestren la entrega de las percepciones, las retenciones a favor de terceros y demás pagos que sean procedentes;
+
+VII. En materia de percepciones extraordinarias, sujetarse a las disposiciones que emita el Pleno, no constituyendo las mismas un ingreso fijo, regular y permanente. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
+
+VIII. Abstenerse de contratar trabajadores eventuales, salvo que tales contrataciones se encuentren previstas en el respectivo presupuesto destinado a servicios personales;
+
+IX. Las unidades ejecutoras de gasto deberán sujetarse a la estructura ocupacional o a la plantilla de personal autorizada por la Comisión de Administración o el Pleno, en el ámbito de sus respectivas competencias; y
+
+X. Cumplir con las demás disposiciones aplicables y con los acuerdos que al efecto emita el Pleno.
+
+###### Artículo 754.
+
+Las unidades ejecutoras de gasto deberán establecer los mecanismos necesarios para garantizar la recuperación de los pagos en exceso, ocasionados por cambios o bajas del personal, errores u omisiones.
+
+Independientemente de la forma de pago, el Consejo, a través de las Direcciones Generales de Recursos Humanos, Tesorería y de las Administraciones Regionales, según corresponda, deberá asegurarse de entregar a cada servidor público, directamente o por medios electrónicos, el comprobante de pago donde se especifiquen los conceptos y cantidades que correspondan a sus percepciones y descuentos. Asimismo, deberá conservar los documentos que emitan las instituciones bancarias de los abonos efectuados a las cuentas de los servidores públicos, lo que comprobará que efectivamente se efectuó el pago.
+
+###### Artículo 755.
+
+La Dirección General de Programación y Presupuesto propondrá para autorización del Pleno, el Manual de Remuneraciones para los servidores públicos a cargo del Consejo, incluyendo las reglas para su aplicación.
+
+El Manual a que se refiere este artículo deberá publicarse en el Diario Oficial de la Federación conforme a los plazos establecidos en las disposiciones aplicables.
+
+###### Artículo 756.
+
+Los movimientos que realice la Dirección General de Programación y Presupuesto, con base en la autorización de la Comisión de Administración o el Pleno, a las estructuras orgánicas y ocupacionales, deberán realizarse mediante adecuaciones presupuestarias compensadas, las que en ningún caso incrementarán el presupuesto regularizable para servicios personales del ejercicio fiscal inmediato siguiente, salvo en el caso de la creación de plazas, conforme a los recursos previstos específicamente para tal fin en el Presupuesto de Egresos del Poder Judicial de la Federación, por concepto de Servicios Personales, en los términos del artículo 749 de este Acuerdo.
+
+###### Artículo 757.
+
+El Pleno, con base en sus atribuciones, autorizará percepciones extraordinarias a favor de los servidores públicos a cargo del Consejo, por concepto de estímulos al desempeño destacado, antigüedad o cualquier otro análogo, bajo las siguientes condiciones:
+
+I. Los estímulos podrán otorgarse en los términos y montos que autorice el Pleno;
+
+II. Los recursos para cubrir los estímulos deberán estar previstos en el Presupuesto de Egresos del Poder Judicial de la Federación; y
+
+III. Los estímulos sólo podrán ser cubiertos a los servidores públicos que cuenten con nombramiento y ocupen una plaza presupuestaria.
+
+###### Artículo 758.
+
+Se podrán celebrar contratos de prestación de servicios profesionales por honorarios, previa autorización del Pleno, con cargo al presupuesto de servicios personales, únicamente cuando se reúnan los siguientes requisitos:
+
+I. Los recursos destinados a celebrar tales contratos deberán estar expresamente previstos para tal efecto en el Presupuesto de Egresos del Poder Judicial de la Federación, para Servicios Personales;
+
+II. Los contratos no podrán exceder la vigencia anual de cada Presupuesto de Egresos;
+
+III. La persona que se contrate no deberá realizar actividades o funciones equivalentes a las que desempeñe el personal que ocupa una plaza presupuestaria; y
+
+IV. El monto mensual bruto que se pacte por concepto de honorarios no podrá rebasar los límites autorizados conforme al tabulador autorizado por el Pleno, equivalente a la plaza presupuestaria análoga a las funciones que desempeña.
+
+La Dirección General de Asuntos Jurídicos dictaminará los contratos conforme a los modelos aprobados y de acuerdo a la normatividad aplicable para las contrataciones por servicios profesionales.
+
+La Dirección General de Programación y Presupuesto, deberá reportar en los informes trimestrales y en la Cuenta Pública, las contrataciones por honorarios que el Consejo realice durante el ejercicio fiscal.
+
+###### Artículo 759.
+
+La Secretaría Ejecutiva de Administración, a través de la Dirección General de Recursos Humanos, será la responsable de establecer y operar un sistema que permita la concentración y consolidación de las nóminas, mismas que estarán integradas por el total de los servidores públicos a cargo del Consejo.
+
+###### Artículo 760.
+
+El personal que ingrese a prestar sus servicios en el Consejo deberá declarar, bajo protesta de decir verdad, si se encuentra o no desempeñando otro empleo o comisión con cargo a la Federación y, en caso afirmativo, la Dirección General de Recursos Humanos deberá abstenerse de contratarlo, hasta en tanto se determine la compatibilidad correspondiente, en la inteligencia que, de no acatarse esta disposición, se constituirá la responsabilidad que proceda.
+
+###### Artículo 761.
+
+Para determinar la compatibilidad a que se refiere el artículo anterior la Secretaría Ejecutiva de Administración, a través de la Dirección General de Recursos Humanos, expedirá la autorización correspondiente, debiendo considerar las circunstancias en que se realice dicho empleo o comisión, a efecto de que se cumpla con los horarios establecidos y el ejercicio adecuado de las funciones respectivas.
+
+###### Artículo 762.
+
+El Consejo, a través de la Contraloría y demás áreas administrativas competentes, podrá verificar en todo tiempo que su personal esté cumpliendo con las tareas encomendadas, los horarios y jornadas establecidos y, en su caso, promover la cancelación de alguna autorización de compatibilidad emitida en términos de lo establecido en el artículo anterior.
+
+###### Artículo 763.
+
+La acción para exigir el pago de las remuneraciones prescribirá en un año contado a partir de la fecha en que sean devengadas o se tenga derecho a percibirlas.
+
+La prescripción sólo se interrumpe por gestión de cobro hecha por escrito al Consejo.
+
+###### Artículo 764.
+
+Los pagos por concepto de defunción que se otorguen a los beneficiarios con motivo del fallecimiento del personal con cargo al Erario Federal, deberán sujetarse a lo establecido en los acuerdos generales emitidos por el Pleno, y demás disposiciones aplicables.
+
+###### Artículo 765.
+
+Para que se tenga derecho a las pagas y apoyo por concepto de defunción, es indispensable que la persona fallecida no se hubiese encontrado disfrutando de licencia sin goce de sueldo, excepto cuando se trate de licencia por enfermedad.
+
+#### SECCIÓN PRIMERA. CONTROL Y VIGILANCIA
+
+###### Artículo 766.
+
+Las adecuaciones presupuestarias comprenderán:
+
+I. Las adecuaciones a la estructura programática y financiera de los presupuestos aprobados;
+
+II. Las adecuaciones a los calendarios financieros; y
+
+III. Ampliaciones y reducciones líquidas al Presupuesto de Egresos.
+
+###### Artículo 767.
+
+Las adecuaciones presupuestarias se realizarán siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo del Consejo, y se fundamentarán en:
+
+I. El análisis y evaluación que de las operaciones financieras y de la realización de metas lleve a cabo el Consejo, por conducto de las áreas administrativas competentes. Dicho análisis se sustentará en las normas y lineamientos autorizados, en términos de lo establecido en las disposiciones legales aplicables y en los acuerdos del Pleno, para el seguimiento y control del Gasto Público Federal; y
+
+II. Las situaciones coyunturales, contingentes y extraordinarias que incidan en el desarrollo de los programas.
+
+###### Artículo 768.
+
+La Dirección General de Programación y Presupuesto realizará las adecuaciones presupuestarias entre partidas, capítulos de gasto y programas en los siguientes casos:
+
+I. Cuando previo análisis del comportamiento del gasto, se estimen pertinentes para un óptimo ejercicio de los recursos presupuestales;
+
+II. Cuando se requiera dotar de suficiencia presupuestal a partidas por gastos extraordinarios o contingentes autorizados por el Pleno; y
+
+III. A solicitud de las unidades ejecutoras de gasto, después de satisfacer el análisis y la evaluación correspondiente.
+
+En todos los casos, las adecuaciones presupuestarias que realice la Dirección General de Programación y Presupuesto, deberán apegarse a las disposiciones legales y normativas aplicables.
+
+A nivel de gasto desconcentrado, la Coordinación de Administración Regional y las Direcciones Generales de Recursos Materiales; y de Servicios Generales, así como las Administraciones Regionales y las Administraciones de Edificios del Distrito Federal y zona conurbada, realizarán las adecuaciones que sean necesarias, conforme a la normatividad vigente.
+
+De los movimientos realizados la Dirección General de Programación y Presupuesto deberá informar periódicamente a la Comisión de Administración y al Pleno.
+
+###### Artículo 769.
+
+La Dirección General de Programación y Presupuesto deberá recabar el dictamen previo favorable de la Contraloría cuando las adecuaciones presupuestarias impliquen los siguientes movimientos:
+
+I. Se realicen ampliaciones líquidas por ingresos generados por cualquier concepto;
+
+II. Se realicen reducciones líquidas por cualquier concepto;
+
+III. Se realicen reducciones a partidas de inversión para incrementar las de gasto corriente; y
+
+IV. Cuando lo solicite de manera expresa la Comisión de Administración.
+
+#### SECCIÓN PRIMERA. CONTROL Y VIGILANCIA
+
+###### Artículo 770.
+
+Con el fin de procurar el ejercicio eficiente y eficaz del gasto, la Dirección General de Programación y Presupuesto podrá desconcentrar en las Administraciones Regionales, Delegaciones Administrativas y las Administraciones de Edificios del Distrito Federal y zona conurbada, la realización de funciones presupuestales y operaciones financieras, en los términos de este Título y demás disposiciones aplicables.
+
+Corresponde a la Dirección General de Programación y Presupuesto supervisar el adecuado desarrollo de la desconcentración de las funciones y operaciones señaladas en el párrafo anterior, con la finalidad de mantener el control del gasto, y la integridad y consistencia de la información financiera.
+
+### CAPÍTULO SEGUNDO. FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
+
+###### Artículo 771.
+
+Son considerados como fideicomisos públicos en los términos de lo dispuesto por el artículo 9 de la Ley de Presupuesto, los que se encuentren constituidos o se constituyan en el Consejo a los cuales se les destinen recursos financieros autorizados en el Presupuesto de Egresos o se les transfieran recursos financieros que provengan de la Suprema Corte de Justicia de la Nación o del Tribunal Electoral del Poder Judicial de la Federación.
+
+La autorización de la creación o aportación a los fideicomisos será atribución indelegable del Pleno. Estos estarán sujetos a las obligaciones que establece este Título.
+
+###### Artículo 772.
+
+El Consejo deberá publicar en el Diario Oficial de la Federación, dentro de los quince días siguientes al término del trimestre, los ingresos del periodo, incluyendo los rendimientos financieros; egresos; destino y saldo de los fideicomisos en los que participe, en los términos de las disposiciones aplicables.
+
+La información a que se refiere el párrafo anterior deberá remitirse a la Secretaría de Hacienda para efectos de la integración de los informes trimestrales, a más tardar diez días hábiles antes de la fecha de entrega del informe trimestral correspondiente. Asimismo, deberán reportar a la Auditoría el ejercicio de los recursos públicos aportados a dichos fideicomisos para efectos de la Cuenta Pública.
+
+Al extinguirse los fideicomisos, los recursos públicos remanentes deberán destinarse conforme lo establezca la Ley de Presupuesto, previa autorización del Pleno.
+
+### CAPÍTULO PRIMERO. LOGOTIPO DEL CONSEJO
+
+#### SECCIÓN SEGUNDA. AUDITORÍAS
+
+###### Artículo 773.
+
+El sistema de contabilidad del Consejo será definido, desarrollado, operado y supervisado de tal forma que facilite el registro de las operaciones financieras y presupuestales, así como la fiscalización de los activos, pasivos, ingresos, erogaciones y gastos atendiendo al conjunto de principios, normas y procedimientos técnicos que permitan registrar, procesar e informar sobre las operaciones y la situación financiera del Consejo, que coadyuve a la toma de decisiones, la transparencia y la rendición de cuentas.
+
+###### Artículo 774.
+
+La Dirección General de Programación y Presupuesto, implementará, modificará y actualizará el sistema de contabilidad conforme a lo establecido en el artículo anterior y contará para ello con las herramientas informáticas necesarias.
+
+###### Artículo 775.
+
+El registro de las operaciones y la preparación de informes financieros del Consejo se efectuarán tomando en consideración los principios de contabilidad gubernamental, generales y específicos y de manera supletoria las normas de información financiera y de contabilidad del sector público.
+
+#### SECCIÓN TERCERA. RESPONSABILIDADES
+
+###### Artículo 776.
+
+La contabilidad deberá llevarse con base acumulativa a través del registro de las operaciones devengadas, por lo que la contabilización de las transacciones se efectuará conforme a la fecha de su realización, independientemente de la de su pago.
+
+###### Artículo 777.
+
+Es responsabilidad de la Dirección General de Programación y Presupuesto, la confiabilidad de las cifras consignadas en su contabilidad, así como la representatividad de los saldos de las cuentas de balance en función de los activos, pasivos, patrimonio y cuentas presupuestales, adoptando para ello las medidas de control y depuración correspondientes.
+
+###### Artículo 778.
+
+La contabilidad del Consejo deberá contar con auxiliares contables y presupuestales que muestren los avances presupuestarios y financieros, con objeto de facilitar la evaluación en el ejercicio de gasto público, así como permitir el control y conocimiento individual de la integración de los saldos de cada cuenta de balance y de resultados.
+
+###### Artículo 779.
+
+El Catálogo de Cuentas al que deberá ajustarse el Consejo para el registro de sus operaciones financieras, estará integrado por los siguientes grupos de cuentas:
+
+I. Activo;
+
+II. Pasivo;
+
+III. Patrimonio;
+
+IV. Resultados;
+
+V. Orden; y
+
+VI. Presupuesto.
+
+###### Artículo 780.
+
+Para modificar el Catálogo de Cuentas a que se refiere el artículo anterior se deberá observar lo establecido en las disposiciones legales aplicables. Dicha modificación se podrá llevar a cabo en los siguientes casos:
+
+I. Creación de un nuevo sistema;
+
+II. Requerimientos específicos del Consejo;
+
+III. Adecuaciones por reformas técnico-administrativas; y
+
+IV. Actualización de la técnica contable.
+
+###### Artículo 781.
+
+La Dirección General de Programación y Presupuesto llevará a cabo la desagregación de las cuentas contables en subcuentas y subsubcuentas que permitan el suministro de información interna para la toma de decisiones administrativas y para el control en la ejecución de las acciones, de acuerdo con las necesidades del Consejo.
+
+###### Artículo 782.
+
+La Dirección General de Programación y Presupuesto registrará anualmente como asiento de apertura en la contabilidad, los saldos finales de las cuentas de balance del ejercicio inmediato anterior.
+
+###### Artículo 783.
+
+El registro contable de los ingresos, según sea el caso, deberá estar respaldado por:
+
+I. Cuentas por liquidar certificadas;
+
+II. Depósitos bancarios;
+
+III. Transferencias electrónicas; y
+
+IV. Cualquier otro documento que por su naturaleza sea considerado ingreso.
+
+En los casos excepcionales en que no se cuente con alguno de los documentos antes citados, y se desconozca el origen del ingreso, la Dirección General de Programación y Presupuesto registrará con base en los estados de cuenta bancarios en los cuales se identifique el ingreso a la cuenta correspondiente.
+
+###### Artículo 784.
+
+Las recuperaciones de recursos presupuestales de ejercicios anteriores que se registren contablemente en el ejercicio fiscal en curso, por hasta tres millones de pesos 00/100 moneda nacional en un sólo mes, deberán ser reintegradas a la Tesorería de la Federación por conducto de la Oficialía Mayor, a través de la Dirección General de Programación y Presupuesto, de conformidad con las disposiciones legales aplicables. Los reintegros mayores a tres millones de pesos 00/100 moneda nacional, deberán contar con la autorización previa de la Comisión de Administración. Los reintegros por montos iguales o menores se efectuarán directamente por la Dirección General de Programación y Presupuesto, previa opinión favorable de la Contraloría.
+
+###### Artículo 785.
+
+Tratándose de sueldos y prestaciones devengados no cobrados que hayan prescrito conforme a la Ley de Presupuesto, y una vez realizadas las gestiones correspondientes, se efectuarán las ampliaciones líquidas al presupuesto.
+
+###### Artículo 786.
+
+Para el registro de las operaciones financieras, entre otras, se deberá observar lo siguiente:
+
+I. En el caso de obras públicas, el presupuesto se considera devengado y ejercido al momento de aprobarse el anticipo o la estimación de avance físico de las mismas por las áreas autorizadas para tal efecto. Para su contabilización, las áreas competentes deberán tramitar ante la Dirección General de Programación y Presupuesto, la estimación correspondiente;
+
+II. Cuando se trate de gastos que se devenguen en forma continua, como son, entre otros: carga social, arrendamiento, servicio telefónico y energía, se podrán registrar como presupuesto ejercido, si no se tuvieren los comprobantes de su importe, mediante una estimación de éste, tomando como base el importe del mes inmediato anterior, tomando en consideración la solicitud expresa de las unidades ejecutoras de gasto; y
+
+III. La contabilización de los pagos correspondientes al pasivo por operaciones de ejercicios anteriores se ajustará a lo dispuesto en las disposiciones legales aplicables.
+
+###### Artículo 787.
+
+Para la contabilización de las operaciones, en casos excepcionales cuando se carezca de los documentos justificativos o comprobatorios, la Dirección General de Programación y Presupuesto, deberá consignar mediante acta circunstanciada o documento público, entre otros datos, la causa del faltante y su justificación, los importes y fechas de las operaciones, solicitando la autorización correspondiente a la Comisión de Administración a fin de proceder al registro contable.
+
+###### Artículo 788.
+
+La Dirección General de Programación y Presupuesto contabilizará los movimientos y existencias de sus almacenes mediante la valuación de los inventarios, con base en el método de costos promedio autorizado para tal efecto.
+
+###### Artículo 789.
+
+Las bajas del activo fijo, es decir de bienes muebles, por concepto de enajenación, donación, transferencias, pérdidas por siniestros o determinación de desechos, y cualquier otro que determine el órgano facultado del Consejo, serán registradas con la documentación e información que las áreas competentes deberán remitir a la Dirección General de Programación y Presupuesto, las cuales como mínimo, según sea el caso, deberán contener:
+
+I. Aviso de baja de almacén;
+
+II. Número de inventario;
+
+III. Descripción del artículo;
+
+IV. Proveedor;
+
+V. Número de factura;
+
+VI. Fecha de adquisición;
+
+VII. Costo de adquisición; y
+
+VIII. Precio de Venta.
+
+###### Artículo 790.
+
+La Dirección General de Recursos Materiales deberá contar con un sistema de inventarios de activo fijo que permita un control administrativo, registro contable y el manejo adecuado de los inventarios, el cual debe de contener como mínimo lo siguiente:
+
+I. Aviso de alta de almacén;
+
+II. Número de inventario;
+
+III. Descripción del artículo;
+
+IV. Proveedor;
+
+V. Número de factura;
+
+VI. Fecha de adquisición; y
+
+VII. Costo de adquisición.
+
+Asimismo, deberá enviar a la Dirección General de Programación y Presupuesto, un reporte mensual de movimientos de altas y bajas y, dentro de los quince días posteriores al cierre del ejercicio fiscal, el inventario del activo fijo a nivel nacional. En caso de que se detecten diferencias entre éste y el registro contable, se procederá a realizar la revisión con el área administrativa correspondiente y, en su caso, se efectuarán los ajustes necesarios previa autorización de la Comisión de Administración.
+
+###### Artículo 791.
+
+Las unidades ejecutoras de gasto serán las responsables de remitir a la Dirección General de Programación y Presupuesto las solicitudes de pagos a terceros, así como las aportaciones por concepto de carga social que realiza el Consejo, con la documentación comprobatoria debidamente requisitada que ampare y justifique el pago, para su solicitud a la Dirección General de Tesorería y su posterior registro contable.
+
+###### Artículo 792.
+
+La contabilidad de las operaciones deberá estar respaldada con los documentos comprobatorios y justificativos originales o, en su caso, con los documentos autorizados por la Comisión de Administración para los casos excepcionales para efectos contables, que permitan verificar las operaciones de ingreso, gasto público y otros que afecten el patrimonio de la Hacienda Pública Federal, tomando en cuenta las recomendaciones que para efectos de fiscalización y auditoría, emita la Contraloría.
+
+###### Artículo 793.
+
+La Dirección General de Programación y Presupuesto recabará trimestralmente de las áreas administrativas competentes, la información necesaria relativa a los juicios o procedimientos de cualquier tipo que afecten recursos presupuestales del Consejo, con la finalidad de realizar los ajustes que correspondan a los saldos de las cuentas contables, previa autorización de la Comisión de Administración.
+
+###### Artículo 794.
+
+La Dirección General de Programación y Presupuesto realizará la depuración contable de las cuentas de balance, efectuando los registros de ajustes y reclasificaciones contables, anexando la documentación soporte que refleje el trabajo realizado de depuración en los términos establecidos en las disposiciones normativas aplicables.
+
+###### Artículo 795.
+
+En los casos que no se cuente con los elementos suficientes para la depuración o cancelación de saldos contables, la Dirección General de Programación y Presupuesto, de conformidad con los lineamientos autorizados por la Comisión de Administración, elaborará una acta narrativa de hechos en la que se describan las acciones que llevaron al resultado obtenido, a la cual deberá anexarse la documentación soporte que garantice que se han agotado los mecanismos de investigación, por cada uno de los saldos a depurar, y la presentará a la Comisión, para su autorización y cancelación de movimientos y saldos contables correspondientes.
+
+#### SECCIÓN PRIMERA. EVALUACIÓN
+
+###### Artículo 796.
+
+Para efectos de la formulación de estados financieros, la Dirección General de Programación y Presupuesto deberá elaborar el balance general o estado de situación financiera; estado de resultados; estado de origen y aplicación de recursos; estado de modificación al patrimonio; y demás información financiera y presupuestal que emane de la contabilidad y forme parte integrante de la misma.
+
+###### Artículo 797.
+
+La Dirección General de Programación y Presupuesto deberá elaborar, autorizar y enviar a la Oficialía Mayor y a la Contraloría, los estados financieros de manera mensual y en los términos establecidos en las disposiciones legales y normativas aplicables.
+
+###### Artículo 798.
+
+Para dar cumplimiento a la integración y presentación de la Cuenta Pública, al informe de avance de gestión financiera y a los informes trimestrales, la Dirección General de Programación y Presupuesto deberá consolidar la información financiera, presupuestal, programática y económica del Consejo, de conformidad con este Título, la Ley de Presupuesto y demás disposiciones aplicables.
+
+###### Artículo 799.
+
+El Consejo, por conducto de las áreas administrativas responsables, verificará que la elaboración de la Cuenta Pública cumpla con la normatividad respectiva y se apegue a los principios de contabilidad generales y específicos, aplicables al sector público, considerando al menos lo siguiente:
+
+I. Hoja de trabajo;
+
+II. Estado del ejercicio del presupuesto;
+
+III. Estado analítico de ingresos; y
+
+IV. Principales variaciones a las cuentas de balance y resultados.
+
+Asimismo, aplicará las normas de auditoría para verificar que los sistemas, procedimientos, métodos de contabilidad, registro contable y documentos comprobatorios del ingreso y Gasto Público Federal de la Cuenta Pública, comprueben que el ejercicio del gasto público sea congruente con el Presupuesto de Egresos del Poder Judicial de la Federación.
+
+###### Artículo 800.
+
+Como resultado de la elaboración y consolidación de la Cuenta Pública, cuando se requiera, se efectuarán los ajustes correspondientes en la contabilidad del Consejo, de conformidad con lo establecido en las disposiciones legales aplicables.
+
+###### Artículo 801.
+
+La Oficialía Mayor presentará a consideración de la Comisión de Administración la Cuenta Pública del Consejo, para que con su visto bueno, sea remitida al Pleno para su aprobación, y envío a la Secretaría de Hacienda para su incorporación a la Cuenta Anual de la Hacienda Pública Federal, en los términos de la Ley.
+
+#### SECCIÓN SEGUNDA. INFORMACIÓN Y TRANSPARENCIA
+
+###### Artículo 802.
+
+La Dirección General de Programación y Presupuesto y las Administraciones Regionales estarán obligadas a conservar en su poder y a disposición del Pleno y de las demás autoridades competentes, por los plazos que al respecto se establezcan en los ordenamientos legales aplicables y en los acuerdos del Consejo, los registros contables e información correspondiente, así como los documentos justificativos y comprobatorios de las operaciones financieras del Consejo.
+
+###### Artículo 803.
+
+En el caso de que se carezca de documentos justificativos y comprobatorios, por pérdida o daño, la Dirección General de Programación y Presupuesto y las Administraciones Regionales, según corresponda, deberán consignar mediante acta o documento público en presencia de la Contraloría, la existencia previa así como la causa del faltante o justificación en la cual se consignen los importes y las fechas de las operaciones.
+
+###### Artículo 804.
+
+Cuando se cumplan los plazos de conservación de documentación justificativa y comprobatoria, la Dirección General de Programación y Presupuesto, previo dictamen de la Contraloría, someterá a consideración de la Comisión de Administración, la solicitud de autorización para efectuar la baja y destrucción del archivo contable.
+
+Las Administraciones Regionales someterán previamente a visto bueno de la Dirección General de Programación y Presupuesto, la lista de documentos justificatorios y comprobatorios del gasto para su destrucción, revisado lo anterior, se someterá a dictamen de la Contraloría y posterior consideración de la Comisión de Administración.
+
+###### Artículo 805.
+
+La documentación contable que le sea requerida a la Dirección General de Programación y Presupuesto y a las Administraciones Regionales, deberá ser consultada en las instalaciones del Consejo, en consecuencia no se permitirá su salida.
+
+###### Artículo 806.
+
+Para dar cumplimiento a la normatividad establecida, la Dirección General Programación y Presupuesto deberá contar con los espacios suficientes para la conservación, control y resguardo de la documentación comprobatoria y justificativa de las operaciones financieras del Consejo.
+
+###### Artículo 807.
+
+Con la finalidad de optimizar el gasto y los espacios para el archivo contable, la Dirección General de Programación y Presupuesto evitará la recepción de documentación que no sea de carácter contable.
+
+###### Artículo 808.
+
+En el resguardo y conservación de la documentación comprobatoria de los pagos de nóminas del Consejo, la Dirección General de Recursos Humanos conservará para su guarda, manejo y custodia los recibos originales de pago de nómina y las nóminas por adscripción, de conformidad con lo establecido en las disposiciones aplicables, remitiendo a la Dirección General de Programación y Presupuesto únicamente para su registro contable y resguardo el resumen general de nómina. Asimismo, establecerá lo conducente para que la guarda, manejo y custodia de los documentos antes señalados se digitalicen, o bien, que la emisión se realice a través de medios electrónicos.
+
+###### Artículo 809.
+
+La Dirección General de Programación y Presupuesto iniciará el programa de digitalización de la documentación contable justificativa y comprobatoria, con la finalidad de evitar el deterioro y el riesgo de pérdida de los documentos originales, agilizando de esta manera la consulta en forma electrónica de la información.
+
+### CAPÍTULO SEGUNDO. ROL DE DIARIOS NACIONALES
+
+#### SECCIÓN PRIMERA. PATRIMONIO DEL FONDO DE APOYO
+
+SUBSECCIÓN PRIMERA
+
+DISPOSICIONES GENERALES
+
+###### Artículo 810.
+
+El control y vigilancia del gasto público en el Consejo comprenderá:
+
+I. La fiscalización permanente de los activos, pasivos, ingresos y gastos;
+
+II. El seguimiento de las operaciones financieras durante el desarrollo de la ejecución de los programas aprobados; y
+
+III. Lo demás que establezcan las disposiciones legales aplicables y los acuerdos que emita el Pleno.
+
+###### Artículo 811.
+
+La Contraloría vigilará que el ejercicio presupuestal se apegue a las disposiciones aplicables.
+
+###### Artículo 812.
+
+El control y vigilancia del gasto público en el Consejo, se basará en la información derivada de:
+
+I. La contabilidad que, conforme a las disposiciones legales aplicables y a los acuerdos del Pleno, lleve el propio Consejo, a través de la Dirección General de Programación y Presupuesto;
+
+II. La observación de los hechos, las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas por los órganos competentes del Consejo; y
+
+III. Las demás fuentes y medios que se establezcan en las disposiciones legales aplicables y en los acuerdos que al efecto emita el Pleno.
+
+###### Artículo 813.
+
+La fiscalización y el seguimiento a que se refiere el artículo 810 de este Acuerdo se realizarán en la forma siguiente:
+
+I. Mediante visitas y auditorías que se efectúen en los términos de la Sección Segunda del Capítulo Sexto de este Título;
+
+II. Por medio de las acciones de seguimiento a los resultados de las visitas y auditorías practicadas por la Contraloría;
+
+III. Revisiones específicas instruidas por la Comisión o el Pleno; y
+
+IV. En reuniones entre las áreas competentes del Consejo en materia de control y vigilancia del gasto.
+
+###### Artículo 814.
+
+Con base en las conclusiones, informes y dictámenes que se deriven de las acciones comprendidas en el artículo anterior, el Consejo, por conducto de las unidades ejecutoras de gasto de conformidad con las disposiciones legales aplicables y con los acuerdos emitidos por el Pleno, efectuará, según el caso, las siguientes actividades:
+
+I. Aplicación de las medidas preventivas y correctivas que permitan la observancia de las normas, lineamientos, sistemas y demás instrumentos utilizados en el manejo del gasto público en el Consejo;
+
+II. Fincamiento de las responsabilidades, en términos de las disposiciones legales y normativas aplicables; y
+
+III. Adopción de medidas tendentes a mejorar la gestión y el control interno.
+
+#### SECCIÓN SEGUNDA. CONTROL Y LA VIGILANCIA
+
+###### Artículo 815.
+
+Con el objeto de inspeccionar y vigilar el adecuado cumplimiento de las disposiciones que emanen de la Ley de Presupuesto, de este Título y demás disposiciones aplicables, la Contraloría podrá realizar auditorías y visitas a las unidades ejecutoras de gasto.
+
+###### Artículo 816.
+
+Las auditorías tendrán por objeto examinar las operaciones, cualquiera que sea su naturaleza, con el propósito de verificar si los estados financieros presentan razonablemente la situación financiera; si la utilización de los recursos se ha realizado en forma eficiente; si los objetivos y metas se lograron de manera eficaz y congruente, y si en el desarrollo de las actividades se han cumplido las disposiciones aplicables.
+
+###### Artículo 817.
+
+Las auditorías podrán ser de cualquier tipo, entre otras, financieras, operacionales y administrativas, las cuales serán efectuadas por los auditores que designe la Contraloría.
+
+Estas auditorías se realizarán de conformidad con lo dispuesto por la Contraloría, a lo establecido en las normas aplicables en la materia, en las disposiciones legales aplicables y en los acuerdos que para tal efecto emita el Pleno.
+
+###### Artículo 818.
+
+Las áreas auditadas deberán proporcionar a la Contraloría en los plazos en que les sean solicitados, los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar.
+
+###### Artículo 819.
+
+Para la realización de las auditorías y visitas se deberán observar las siguientes reglas:
+
+I. Se practicarán mediante oficio de inicio de auditoría, el cual contendrá:
+
+a) El nombre del área o áreas administrativas a las que se le practicará la auditoría o visita;
+
+b) El nombre de los servidores públicos comisionados para la realización de la auditoría o visita; y
+
+c) Especificación de los aspectos que deberá cubrir la auditoría o visita, tales como el objeto y el periodo que se revisará.
+
+II. Se formulará un dictamen o informe de resultados en el que se harán constar los hechos, omisiones y observaciones que resulten con motivo de la auditoría o visita para que, en su caso, se acuerde la adopción de medidas tendentes a mejorar la gestión y el control interno del auditado, así como a corregir las desviaciones y deficiencias que se hubieren encontrado.
+
+###### Artículo 820.
+
+La Contraloría elaborará su Programa Anual de Control y Auditoría que presentará a la Comisión de Administración, para que ésta, en su caso, lo someta a la consideración del Pleno, el cual contendrá como mínimo:
+
+I. Los tipos de auditoría a practicar;
+
+II. Las áreas administrativas, programas y actividades a examinar; y
+
+III. Los periodos estimados de realización.
+
+###### Artículo 821.
+
+Para el caso de auditorías externas, los órganos facultados someterán a consideración de la Comisión de Administración o del Pleno la necesidad de llevarlas a cabo, así como la designación de los auditores que, en su caso, realicen las referidas auditorías.
+
+###### Artículo 822.
+
+La Contraloría llevará el control de las observaciones y recomendaciones generadas en las auditorías, para efectuar el seguimiento sobre el cumplimiento de las medidas preventivas o correctivas que se hayan derivado.
+
+###### Artículo 823.
+
+Si como resultado de las auditorías se detectan irregularidades que ameriten fincar algún tipo de responsabilidad, se procederá en los términos de la Sección Tercera del Capítulo Sexto de este Título y de las disposiciones aplicables.
+
+###### Artículo 824.
+
+La revisión y vigilancia que efectúe la Contraloría y en general las actividades propias de la auditoría, no deberán formar parte de las labores operativas y trámites administrativos que en forma directa realicen las unidades ejecutoras, por lo que los mecanismos de verificación y control interno que formen parte de los sistemas y procedimientos propios de la competencia, funciones y programas de las unidades ejecutoras, no podrán ser desarrollados por el personal de la Contraloría.
+
+#### SECCIÓN TERCERA. ADMINISTRACIÓN Y OPERACIÓN
+
+###### Artículo 825.
+
+El procedimiento para fincar las responsabilidades en relación con la materia de este Título, es el previsto en el Título Octavo de la Ley Orgánica y en los acuerdos generales que emita el Pleno.
+
+###### Artículo 826.
+
+Los órganos competentes del Consejo fincarán las responsabilidades que procedan con base en las disposiciones aplicables, cuando se conozcan irregularidades a través de:
+
+I. Las visitas, auditorías o investigaciones realizadas;
+
+II. Las actas administrativas que levante el Consejo, a través de las áreas administrativas competentes, con motivo de la glosa que de su propia contabilidad lleve a cabo;
+
+III. Las observaciones emitidas por los órganos competentes en los términos de ley; y
+
+IV. Las quejas o denuncias presentadas por terceros.
+
+###### Artículo 827.
+
+Los servidores públicos del Consejo serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la Hacienda Pública Federal, por actos u omisiones que les sean imputables, o bien por incumplimiento o inobservancia de las obligaciones derivadas de la Ley de Presupuesto, disposiciones legales aplicables y de los acuerdos generales emitidos por el Pleno, inherentes a su cargo o relacionadas con su función o actuación.
+
+Las responsabilidades se fincarán en primer término a las personas que directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los servidores públicos que, por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia de su parte.
+
+Serán responsables solidarios con los servidores públicos del Consejo, los particulares en los casos en que hayan participado y originen una responsabilidad.
+
+###### Artículo 828.
+
+Las responsabilidades que procedan en los términos de esta Sección, tienen como objeto el determinar en cantidad líquida el monto o perjuicio causado al erario público y su resarcimiento, dicha cantidad tendrá el carácter de crédito fiscal y será ejecutada conforme a las disposiciones legales aplicables, sin perjuicio de las sanciones que procedan conforme a lo establecido en el artículo 135 de la Ley Orgánica y en los acuerdos que al efecto emita el Pleno.
+
+###### Artículo 829.
+
+Las responsabilidades a que se refiere este Título, se constituirán y exigirán administrativamente, con independencia de las sanciones de otra naturaleza que, en su caso, lleguen a determinarse por la autoridad competente.
+
+### CAPÍTULO PRIMERO. SEGURIDAD EN LAS INSTALACIONES DEL PODER JUDICIAL DE LA FEDERACIÓN
+
+#### SECCIÓN CUARTA. INSTITUCIÓN DEPOSITARIA
+
+###### Artículo 830.
+
+El Consejo implementará el Sistema Institucional de Evaluación a que se refiere el artículo 111 de la Ley de Presupuesto, de conformidad con los mecanismos que establezca la Secretaría de Hacienda y Crédito Público.
+
+La Dirección General de Programación y Presupuesto realizará la evaluación del ejercicio del presupuesto en función de los calendarios autorizados a las unidades ejecutoras de gasto. El cumplimiento de los objetivos y metas de los programas aprobados serán analizados y evaluados por ésta y la Contraloría en el ámbito de sus atribuciones.
+
+###### Artículo 831.
+
+La Dirección General de Programación y Presupuesto, en el ámbito de su competencia, verificará periódicamente, los resultados de ejecución de los programas y presupuestos de las unidades ejecutoras de gasto, con base en el Sistema Institucional de Evaluación, entre otros, para identificar la eficiencia, economía, eficacia y la calidad en el Consejo y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Dicho sistema incorporará indicadores para evaluar los resultados presentados en los informes, desglosados por mes.
+
+Los resultados a los que se refiere este artículo deberán ser considerados para efectos de la programación, presupuestación y ejercicio de los recursos.
+
+Asimismo, la Contraloría llevará a cabo las revisiones procedentes de conformidad a sus programas de auditoría autorizados.
+
+###### Artículo 832.
+
+El Consejo contará con un Sistema Institucional de Evaluación, que será autorizado por el Pleno, a propuesta de la Dirección General de Programación y Presupuesto.
+
+###### Artículo 833.
+
+Las unidades ejecutoras de gasto serán responsables de la rendición de cuentas sobre los recursos humanos, materiales y financieros que administra el Consejo para el cumplimiento de sus programas institucionales.
+
+#### SECCIÓN QUINTA. DESTINO
+
+###### Artículo 834.
+
+El manejo de los recursos públicos en el Consejo estará sujeto a los principios de transparencia, acceso a la información y rendición de cuentas.
+
+###### Artículo 835.
+
+Para efectos del artículo anterior, las unidades ejecutoras de gasto observarán, en lo conducente, lo dispuesto en este Título, la Ley de Presupuesto, la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, el Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de transparencia, acceso a la información pública, protección de datos personales y archivos y demás disposiciones aplicables.
+
+## TÍTULO SEGUNDO. DEL COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS Y DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
+
+### CAPÍTULO SEGUNDO. ACTIVIDADES COMERCIALES
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO SEGUNDO. DIRECCIÓN GENERAL DE PROTECCIÓN CIVIL Y SALUD EN EL TRABAJO
+
+### CAPÍTULO TERCERO. PROGRAMA ANUAL DE PROTECCIÓN CIVIL Y SU EJECUCIÓN
+
+### CAPÍTULO CUARTO. UNIDADES INTERNAS DE PROTECCIÓN CIVIL DEL CONSEJO
+
+### CAPÍTULO QUINTO. BRIGADAS INSTITUCIONALES
+
+### CAPÍTULO SEXTO. CAPACITACIÓN DE PROTECCIÓN CIVIL
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO SEGUNDO. ESTRUCTURA DEL CERTIFICADO DIGITAL DE LA FIREL
+
+## TÍTULO PRIMERO. COMUNICACIÓN SOCIAL
+
+### CAPÍTULO TERCERO. SOLICITUD DEL CERTIFICADO DIGITAL DE LA FIREL
+
+###### Artículo 836.
+
+El Comité de Inversión de Recursos Financieros, es de carácter permanente, y tiene por objeto ejecutar todas las acciones que en materia de inversión de sus recursos financieros sea necesario implementar, para obtener un óptimo aprovechamiento de éstos, a través del análisis y selección de las diversas opciones de inversión que ofrezcan las instituciones financieras y de banca legalmente autorizadas.
+
+Por lo que hace a los recursos patrimonio del Fondo de Apoyo, previstos en el Título Décimo Segundo de la Ley Orgánica, corresponde al Comité proporcionar asesoría en la materia de su especialización, a solicitud de la secretaría técnica del Fondo, de conformidad con las disposiciones aplicables.
+
+###### Artículo 837.
+
+Los recursos financieros del Consejo son los siguientes:
+
+I. Recursos presupuestales, son los autorizados anualmente al Poder Judicial de la Federación en el Presupuesto de Egresos de la Federación; y
+
+II. Recursos no presupuestales, constituidos por capital que por cualquier título le corresponda administrar al Consejo.
+
+###### Artículo 838.
+
+El Comité de Inversión de Recursos Financieros estará integrado de la siguiente forma:
+
+I. Presidente: El Titular del área administrativa que sea designado por el Oficial Mayor; y
+
+II. Vocales: El Secretario Ejecutivo de Administración y el Director General de Tesorería.
+
+Los integrantes del Comité tendrán derecho a voz y voto, y no podrán ser representados en las sesiones.
+
+###### Artículo 839.
+
+El Comité de Inversión de Recursos Financieros tendrá las siguientes funciones:
+
+I. Decidir la estrategia de inversión de los recursos del Consejo, en la que se deberán especificar los montos, instituciones, plazos y tasas. No obstante lo anterior, el Comité podrá enviar el asunto a conocimiento de la Comisión de Administración cuando considere que, por su trascendencia, deba ser resuelto por ésta, la que a su vez, de considerarlo pertinente, podrá someterlo a la consideración del Pleno;
+
+II. Autorizar las políticas y procedimientos que permitan el mejor aprovechamiento de los recursos financieros, las que deberán hacerse del conocimiento de la Comisión de Administración en la siguiente sesión ordinaria;
+
+III. Determinar los niveles aceptables de rentabilidad en las inversiones para su contratación;
+
+IV. Definir y autorizar las estrategias aplicables a las operaciones de inversión de los recursos financieros, dentro de los niveles de rentabilidad aceptados, determinando posturas de compra o venta, así como los montos y plazos de inversión;
+
+V. Autorizar la celebración de los contratos y demás instrumentos jurídicos que se requieran para la inversión de los recursos del Consejo con las instituciones seleccionadas cada vez que lo considere necesario, justificando sus propuestas. De todo contrato que se celebre el Comité deberá informar a la Comisión de Administración;
+
+VI. Autorizar los procedimientos mediante los cuales se lleven a cabo las operaciones con las instituciones financieras, lo que deberá ser informado a la Comisión de Administración;
+
+VII. Autorizar la cancelación o la nueva contratación de inversiones con las diversas instituciones autorizadas, lo que deberá ser informado a la Comisión de Administración;
+
+VIII. Analizar los resultados de las estrategias aplicadas en las operaciones de inversión y sus rendimientos;
+
+IX. Rendir un informe a la Comisión de Administración sobre el comportamiento de las inversiones de los recursos financieros del Consejo, dentro de los primeros siete días de cada mes;
+
+X. Proporcionar a la Comisión de Administración y al Pleno los informes que requieran respecto a los rendimientos que se tengan de cada una de las inversiones;
+
+XI. Proporcionar la asesoría que solicite la secretaría técnica del Fondo de Apoyo, así como las demás que disponga el Capítulo siguiente de este Acuerdo; la Sección Única del Capítulo Quinto del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo; y las que el Pleno o la Comisión de Administración le asignen, en relación con los recursos propios o administrados por el Consejo; y
+
+XII. Las demás (sic) determine el Pleno o la Comisión de Admnistración (sic).
+
+###### Artículo 840.
+
+El Comité de Inversión de Recursos Financieros deberá cumplir con las políticas generales, lineamientos y directrices que, en su caso, dicte la Comisión de Administración o el Pleno, observando en todo momento las disposiciones aplicables, y adoptando los criterios que permitan el mayor rendimiento, transparencia y seguridad de las operaciones financieras.
+
+###### Artículo 841.
+
+Corresponde al presidente del Comité:
+
+I. Representar al Comité en el desahogo de los asuntos de su competencia;
+
+II. Autorizar el orden del día de las sesiones a celebrar;
+
+III. Solicitar a las diversas áreas administrativas, la asesoría y estudio de cuestiones de carácter técnico especializado en los asuntos que sean competencia del Comité, y solicitar la comparecencia de sus titulares para que asistan a las sesiones con el carácter de asesores temporales o invitados;
+
+IV. Dirigir los debates durante las sesiones, así como emitir su voto en los asuntos puestos a consideración del Comité;
+
+V. Vigilar el correcto funcionamiento del Comité;
+
+VI. En el ámbito de su competencia, cumplir y hacer cumplir las disposiciones establecidas en este Capítulo y demás aplicables, así como lo dispuesto en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+
+VII. Presentar a la Comisión de Administración un informe semestral de la gestión del Comité;
+
+VIII. Proponer a la unidad administrativa encargada de elaborar y someter a la consideración del Comité las políticas y procedimientos que permitan el mejor aprovechamiento de los recursos financieros; y
+
+IX. Las demás que le otorgue la Comisión de Administración o el Comité.
+
+###### Artículo 842.
+
+Corresponde a los vocales del Comité:
+
+I. Remitir al secretario técnico del Comité, antes de cada reunión, los asuntos que estimen pertinente someter a la consideración del Comité;
+
+II. Analizar el orden del día y los documentos de los asuntos a tratar;
+
+III. Asistir a las sesiones que convoque el secretario técnico del Comité;
+
+IV. Emitir su opinión y su voto respecto de los asuntos puestos a consideración del Comité en la sesión correspondiente;
+
+V. Verificar que las sesiones del Comité se lleven a cabo de conformidad con los lineamientos de operación que lo regulan; y
+
+VI. Las demás facultades que les sean encomendadas por la Comisión de Administración o por el Comité.
+
+###### Artículo 843.
+
+El secretario técnico del Fondo de Apoyo fungirá también como secretario técnico del Comité y será designado por el Comité Técnico del propio Fondo. Deberá contar con preparación especializada en aspectos financieros y tendrá las funciones siguientes:
+
+I. Preparar y presentar el orden del día de la sesión a los integrantes del Comité con los antecedentes de los asuntos a tratar;
+
+II. Convocar a las reuniones del Comité;
+
+III. Pasar lista de asistencia para determinar la existencia de quórum;
+
+IV. Suscribir los oficios cuya expedición haya acordado el Comité;
+
+V. Elaborar las actas de las sesiones, someterlas a la aprobación del Comité e integrarlas a los expedientes respectivos;
+
+VI. Certificar las copias de las actas que se generen con motivo de las sesiones, así como los demás documentos que obren en los archivos del Comité, cuando proceda su expedición;
+
+VII. Cuidar que se registren los acuerdos del Comité y vigilar que se cumplan;
+
+VIII. Vigilar que el archivo de los documentos analizados por el Comité esté completo y se mantenga actualizado, cuidando su conservación;
+
+IX. Formular el calendario anual de sesiones ordinarias a más tardar en los primeros quince días de cada año calendario;
+
+X. Intervenir con voz, pero sin voto, en las sesiones del Comité;
+
+XI. Negociar y cerrar las inversiones con las instituciones financieras autorizadas, en estricto apego a la estrategia y acuerdos que dicte el Comité, mediante el uso de herramientas informáticas que aseguren una adecuada transparencia para la selección de la mejor opción de inversión;
+
+XII. Comunicar al Director General de Tesorería para que, en los términos acordados, realice la transferencia de recursos; y
+
+XIII. Las demás que le encomiende la Comisión de Administración, el Comité o el presidente del Comité.
+
+###### Artículo 844.
+
+Las funciones del secretario técnico del Fondo de Apoyo son independientes de las que se le confieren como secretario técnico del Comité, aun cuando recaigan en la misma persona. Por lo tanto, su actuación sólo producirá efectos respecto del Comité en el que se encuentre en función.
+
+###### Artículo 845.
+
+La operación de las estrategias de inversión adoptadas por el Comité comprende las siguientes acciones:
+
+I. La negociación y cierre de las mesas de dinero, cuyo desarrollo corresponderá al secretario técnico del Comité; y
+
+II. La transferencia de los recursos a la o las instituciones financieras previamente determinadas, cuya realización corresponderá al Director General de Tesorería.
+
+###### Artículo 846.
+
+El Director General de Tesorería deberá ejecutar la instrucción que, a efecto de finiquitar la operación de las estrategias de inversión, le comunique el secretario técnico del Comité.
+
+###### Artículo 847.
+
+Las sesiones del Comité se celebrarán de conformidad con lo siguiente:
+
+I. El Comité sesionará de manera ordinaria por lo menos una vez al mes y de forma extraordinaria cuando así lo convoque su presidente;
+
+II. Las decisiones se tomarán por mayoría de votos de sus miembros presentes y, en caso de empate, el presidente del Comité tendrá voto de calidad;
+
+III. Deberán concurrir todos los integrantes del Comité; sin embargo, podrá llevarse a cabo la sesión con la presencia del presidente y cuando menos un vocal. En ausencia del presidente, éste podrá ser sustituido, en los casos debidamente justificados y previo aviso a la Comisión de Administración o al presidente de dicha Comisión, por el Secretario Ejecutivo de Administración, quien una vez designado ejercerá las atribuciones propias del cargo;
+
+IV. La convocatoria y el orden del día, junto con la documentación soporte, se entregará a los miembros del Comité, secretario y asesores, con tres días hábiles de anticipación a la celebración de la sesión; sin embargo, podrá reducirse el tiempo señalado, cuando exista causa que lo amerite;
+
+V. De cada sesión se levantará un acta con los acuerdos tomados, la que será suscrita por los integrantes del Comité que estén presentes y por el secretario técnico del Comité, en la que se deberá asentar el sentido de la votación de cada uno de los miembros del Comité;
+
+VI. Los asuntos que se sometan a la consideración del Comité, se presentarán en listados que contengan la información resumida de los casos que se dictaminen en cada sesión;
+
+VII. En cada sesión ordinaria el Director General de Tesorería deberá presentar a la consideración del Comité, el informe de la situación actual de los mercados financieros y la propuesta de inversión por el período correspondiente para su aprobación, en su caso, así como el informe de posición de caja y de flujo de efectivo, en el que se deberá contemplar la información de las disponibilidades financieras, tales como el saldo inicial, los ingresos, los egresos, el saldo final y el comparativo entre los recursos que se vayan obteniendo;
+
+VIII. El orden del día deberá contener un rubro de seguimiento de los acuerdos adoptados por el Comité; y
+
+IX. El Comité deberá presentar un informe mensual a la Comisión de Administración en el que se indique el estado que guarden las inversiones realizadas y de los rendimientos generados por éstas.
+
+###### Artículo 848.
+
+El titular de la Dirección General de Asuntos Jurídicos será asesor permanente del Comité, con las siguientes atribuciones:
+
+I. Asistir a las sesiones del Comité con derecho a voz, pero sin voto;
+
+II. Analizar los documentos relacionados con la competencia del Comité;
+
+III. Opinar y proporcionar la asesoría que le sea requerida en los asuntos de su especialización; y
+
+IV. Proponer alternativas de solución cuando le sean solicitadas.
+
+###### Artículo 849.
+
+El Contralor tendrá el carácter de supervisor permanente en las sesiones del Comité de Inversión de Recursos Financieros, con las siguientes atribuciones:
+
+I. Asistir obligatoriamente a las sesiones del Comité;
+
+II. Vigilar que el desarrollo de las sesiones del Comité se lleve a cabo en estricto apego a las normas aplicables; y
+
+III. Informar a la Comisión de Administración, con la periodicidad que ésta indique, sobre el funcionamiento del Comité.
+
+###### Artículo 850.
+
+El secretario técnico de la Comisión de Administración tendrá el carácter de invitado permanente a las sesiones del Comité, con derecho a voz, pero sin voto.
+
+###### Artículo 851.
+
+El Comité podrá invitar a las sesiones a los representantes de los grupos financieros que requiera, entendidos éstos como las instituciones bancarias y financieras debidamente autorizadas, con quienes se tengan celebrados contratos o cualquier otro instrumento jurídico.
+
+La participación de los representantes de los grupos financieros se sujetará a lo siguiente:
+
+I. Los representantes acreditados de los grupos financieros podrán participar en las sesiones del Comité, única y exclusivamente, cuando sean convocados como invitados;
+
+II. Los representantes de los grupos financieros, cuando sean requeridos para ello, podrán exponer ante los integrantes del Comité sus propuestas de inversión y los rendimientos que ofrecen; y
+
+III. En ningún momento los grupos financieros podrán tener conocimiento de las estrategias de inversión ni de la información financiera del Consejo, ni de cualquier otro acervo que pudiera estar contemplado como información reservada, de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones aplicables.
+
+###### Artículo 852.
+
+Los contratos y demás instrumentos jurídicos que se requieran para la inversión de recursos que el Consejo autorice celebrar, tomarán en cuenta los rendimientos que la institución financiera otorgue en cada período de inversión, y será potestad del Comité de Inversión de Recursos Financieros incrementar o disminuir el monto de dicha inversión de conformidad con los resultados que se observen.
+
+###### Artículo 853.
+
+La Comisión de Administración, por sí o a través del Comité, podrá contratar una asesoría financiera externa para la instrumentación de políticas que faciliten y permitan el aprovechamiento de diferentes oportunidades de los mercados financieros, buscando la mejor rentabilidad y la optimización de dichos recursos.
+
+La contratación a que hace referencia este artículo deberá sujetarse a las reglas de este Acuerdo en materia de procedimientos para las contrataciones requeridas por el Consejo.
+
+### CAPÍTULO CUARTO. RENOVACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
+
+#### SECCIÓN SEXTA. TRANSPARENCIA Y RENDICIÓN DE CUENTAS
+
+###### Artículo 854.
+
+El Fondo de Apoyo será manejado y operado por el Consejo a través del Comité Técnico, con el auxilio de un secretario técnico.
+
+###### Artículo 855.
+
+El patrimonio del Fondo de Apoyo se integrará con los recursos a los que se refiere el artículo 243 de la Ley Orgánica, y la administración se realizará a través de la inversión en valores de renta fija del más alto rendimiento, siempre que se permita la disponibilidad inmediata y suficiente de las sumas que resulte necesario reintegrar a los depositantes o entregar a los particulares que tengan derecho a ellas.
+
+###### Artículo 856.
+
+El aprovechamiento de los recursos del Fondo de Apoyo se hará de conformidad con lo previsto en el artículo 250 de la Ley Orgánica.
+
+###### Artículo 857.
+
+Para la recepción de ingresos al Fondo de Apoyo provenientes de donaciones o aportaciones hechas a su favor, se requerirá la aprobación del Comité, previo dictamen que emita la secretaría técnica del mismo, en la forma y términos previstos en el artículo 863 de este Acuerdo.
+
+###### Artículo 858.
+
+Los ingresos que se generen por la enajenación de inmuebles propiedad del Poder Judicial de la Federación y bienes decomisados en procesos penales federales, una vez recibida por el Consejo la parte proporcional que le corresponda, de conformidad con lo dispuesto en el artículo 182-R del Código Federal de Procedimientos Penales, deberán ser depositados al Fondo de Apoyo en la forma y términos que señalen las disposiciones aplicables.
+
+###### Artículo 859.
+
+Los depósitos en dinero o en valores que se efectúen ante los órganos jurisdiccionales son recursos ajenos al Poder Judicial de la Federación, respecto de los cuales el Comité decide la administración hasta en tanto se determine su destino o aplicación que legalmente proceda, y sólo se aplicarán al Fondo de Apoyo los intereses que produzcan, respecto de los cuales el Comité decide su inversión.
+
+###### Artículo 860.
+
+Los ingresos que se produzcan por la administración de valores y los intereses que se generen por los depósitos en dinero, diversos a los depósitos judiciales deberán ser aplicados al Fondo de Apoyo, de conformidad con lo dispuesto en la fracción IV del artículo 243 de la Ley Orgánica.
+
+SUBSECCIÓN SEGUNDA
+
+DONACIONES
+
+###### Artículo 861.
+
+Las personas físicas o morales, de carácter público o privado, nacionales o extranjeras sin fines de lucro ni político, podrán donar o aportar dinero y bienes en especie a favor del Fondo de Apoyo, siempre que:
+
+I. Ellas, sus familiares en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo grado, sus representantes legales, socios, asociados o los miembros de su consejo de administración no sean partes en un proceso judicial que se ventile ante los órganos jurisdiccionales al momento de hacer la donación o aportación; y
+
+II. Las donaciones no sean onerosas o remunerativas.
+
+###### Artículo 862.
+
+Las personas físicas o morales, sus representantes legales, socios, asociados o los miembros de su consejo de administración que hayan sido partes en un proceso judicial ventilado ante los órganos jurisdiccionales, podrán hacer donaciones o aportaciones en dinero o en especie al Fondo de Apoyo, siempre que hayan transcurrido cuando menos tres años de que la sentencia correspondiente haya causado estado.
+
+###### Artículo 863.
+
+El secretario técnico deberá recabar previamente la opinión de la Contraloría y de la Dirección General de Asuntos Jurídicos sobre si la donación o aportación de que se trate satisface lo dispuesto en las leyes aplicables, este Capítulo y las Reglas de Operación del Comité para la recepción de ingresos al Fondo de Apoyo provenientes por tal concepto, lo que hará del conocimiento del Comité para que resuelva sobre la aceptación de la donación o aportación y, en su caso, su incorporación al patrimonio del Fondo de Apoyo.
+
+###### Artículo 864.
+
+Las donaciones en dinero se podrán realizar en moneda nacional o extranjera, en efectivo, mediante transferencia electrónica, cheque certificado o de caja a favor del Fondo de Apoyo, en la cuenta que para tal efecto se instrumente.
+
+###### Artículo 865.
+
+Las personas que realicen alguna donación o aportación a favor del Fondo de Apoyo tendrán derecho a que se les entregue la constancia respectiva.
+
+La secretaría técnica del Fondo de Apoyo entregará la constancia de la donación o aportación, la cual no tendrá valor para efectos fiscales.
+
+###### Artículo 866.
+
+El secretario técnico, por instrucciones del Comité, informará a las instancias competentes de las donaciones y aportaciones recibidas.
+
+SUBSECCIÓN TERCERA
+
+ENAJENACIÓN DE INMUEBLES Y BIENES DECOMISADOS
+
+###### Artículo 867.
+
+El producto obtenido por la enajenación de inmuebles propiedad del Poder Judicial de la Federación, en términos de lo dispuesto en la fracción II del artículo 243 de la Ley Orgánica y el artículo 23, fracción II, de la Ley General de Bienes Nacionales, forman parte del patrimonio del Fondo de Apoyo y se depositará en la cuenta patrimonial que para tal efecto se instrumente.
+
+La secretaría técnica se coordinará con las instancias competentes del Consejo y con la Contraloría, en el marco de sus atribuciones, con el fin de recibir los ingresos a que se refiere el párrafo anterior, en términos de las disposiciones aplicables.
+
+###### Artículo 868.
+
+El producto obtenido por la enajenación de bienes decomisados, una vez recibida por la secretaría técnica la parte proporcional que corresponda, de conformidad con lo dispuesto en el artículo 182-R del Código Federal de Procedimientos Penales, forma parte del patrimonio del Fondo de Apoyo y se depositará en la cuenta patrimonial que para tal efecto se instrumente.
+
+###### Artículo 869.
+
+Los órganos jurisdiccionales deberán colaborar con la Secretaría Técnica y demás instancias competentes, mediante la elaboración de un informe sobre los bienes y valores decomisados en los procesos judiciales de su conocimiento, tan luego como cause estado o quede firme la resolución que decrete el decomiso, que deberán enviar a la secretaría técnica, acompañando los documentos que lo justifiquen.
+
+###### Artículo 870.
+
+La secretaría técnica podrá solicitar en todo momento al SAE la información relativa a la entrega de la parte proporcional de los ingresos que le corresponden al Fondo de Apoyo, conforme a lo dispuesto en los artículos 243, fracción II, de la Ley Orgánica y 182-R del Código Federal de Procedimientos Penales.
+
+###### Artículo 871.
+
+El secretario técnico recibirá los ingresos por la enajenación de bienes a que se refiere el artículo 867 de este Acuerdo y los depositará en la cuenta patrimonial correspondiente del Fondo de Apoyo.
+
+###### Artículo 872.
+
+La secretaría técnica canjeará los valores, documentos y dinero en moneda nacional o extranjera decomisados que la autoridad competente ponga a disposición del Fondo de Apoyo cuando proceda y los depositará en la cuenta patrimonial del mismo.
+
+###### Artículo 873.
+
+El secretario técnico del Fondo de Apoyo puede solicitar a las áreas administrativas competentes la información y los documentos necesarios para obtener un registro actualizado de los bienes, valores, documentos y dinero a que se refieren los artículos de esta Subsección.
+
+SUBSECCIÓN CUARTA
+
+DEPÓSITOS ANTE LOS ÓRGANOS JURISDICCIONALES
+
+###### Artículo 874.
+
+La disponibilidad de los ingresos que se obtengan por las inversiones que se hagan de los depósitos en dinero o en valores que se efectúen ante los órganos jurisdiccionales, se hará conforme a lo dispuesto en el artículo 250 de la Ley Orgánica.
+
+###### Artículo 875.
+
+Los titulares de los órganos jurisdiccionales, los secretarios en función de titulares o quien se encuentre legalmente encargado del despacho, transferirán a la institución depositaria las garantías en dinero o valores que reciban por cualquier título legal.
+
+###### Artículo 876.
+
+Los depósitos se administrarán de modo que se distingan de los demás recursos patrimoniales del Fondo de Apoyo, se garantizará la transparencia en su administración y la disponibilidad inmediata y suficiente de las sumas que resulte necesario reintegrar a los depositantes o entregar a los particulares que tengan derecho a ellas.
+
+###### Artículo 877.
+
+Las garantías ante los órganos jurisdiccionales podrán realizarse en cualquiera de las formas establecidas en ley; pero tratándose de las que se realicen mediante depósito en dinero o en valores ante los órganos jurisdiccionales, se recibirán mediante billete, certificado, u otro instrumento análogo.
+
+###### Artículo 878.
+
+El formato de los depósitos que se realicen ante los órganos jurisdiccionales, ya sea a través de billetes, certificados o cualquier otro instrumento de depósito análogo, deberá ser aprobado por el Comité y emitido por la institución depositaria.
+
+En todo caso, las garantías se podrán constituir ante los órganos jurisdiccionales en cualquiera de las formas autorizadas por las disposiciones aplicables.
+
+###### Artículo 879.
+
+La institución depositaria deberá emitir documento en el que conste, cuando menos, el monto de la cantidad depositada, que el referido depósito no genera interés, rendimiento o contraprestación alguna a favor del depositante y cualquier otro dato que se convenga con la institución depositaria.
+
+###### Artículo 880.
+
+La conciliación de los depósitos efectuados en la institución crediticia se llevará a cabo a través de los registros que obren en el SISE, sin perjuicio de que la secretaría técnica solicite los informes que estime necesarios para ello.
+
+###### Artículo 881.
+
+La secretaría técnica deberá realizar las gestiones necesarias para que los intereses generados por los depósitos efectuados en el banco o institución depositaria sean transferidos a la cuenta patrimonial del Fondo de Apoyo, según lo que se establezca en el convenio con la institución depositaria.
+
+###### Artículo 882.
+
+Los depósitos en dinero o en valores constituidos ante los órganos jurisdiccionales que prescriban a favor del Fisco Federal y que no se refieran a los supuestos previstos en los artículos 40 y 41 del Código Penal Federal o a cualquier otro que por disposición legal determine su aplicación a favor del Fondo de Apoyo, se remitirán a la Tesorería de la Federación conforme a lo dispuesto en el artículo 38 de la Ley del Servicio de Tesorería de la Federación.
+
+Los titulares de los órganos jurisdiccionales comunicarán dicha determinación y remitirán los billetes de depósito debidamente endosados al Fisco Federal o pondrán a disposición del mismo los valores a que se refiere este artículo.
+
+Los datos relativos a dichos movimientos se registrarán en el SISE, y no se informará ni dará aviso escrito alguno a la Dirección General de Tesorería o a la secretaría técnica del Fondo de Apoyo.
+
+###### Artículo 883.
+
+Las personas que constituyan los depósitos ante los órganos jurisdiccionales, en el mismo instrumento de depósito otorgarán autorización expresa al secretario técnico del Fondo de Apoyo para que solicite y reciba de la institución crediticia depositaria la información que le permita el control de dichos depósitos.
+
+En el certificado de depósito se deberá incluir una leyenda que comprenda la autorización a que se refiere el párrafo anterior.
+
+###### Artículo 884.
+
+Los billetes, certificados o instrumentos de depósito se podrán hacer efectivos en cualquier sucursal del país de la institución depositaria, previa orden de pago de la autoridad judicial competente.
+
+###### Artículo 885.
+
+La secretaría técnica, y las demás áreas competentes del Consejo podrán solicitar a la Dirección General de Estadística Judicial que realice las adecuaciones necesarias al SISE con el objetivo de facilitar la emisión y conciliación de los certificados de depósito y órdenes de pago en forma electrónica.
+
+SUBSECCIÓN QUINTA
+
+DEPÓSITOS DIVERSOS
+
+###### Artículo 886.
+
+Los depósitos en dinero diversos a los depósitos judiciales corresponden, entre otros, a los depósitos en efectivo o billetes de depósito dados en garantía por terceros en la adjudicación de contratos por obra, contratos de mantenimiento y contratos de servicio en general, los cuales, hasta en tanto deban ser reintegrados a sus depositantes, deberán ser invertidos para que los intereses que generen esos depósitos puedan ser integrados al Fondo de Apoyo.
+
+###### Artículo 887.
+
+La Dirección General de Programación y Presupuesto solicitará a la Dirección General de Tesorería que transfiera, en un plazo no mayor a diez días naturales, los ingresos a que se refiere el artículo anterior y tenga en su posesión, a la cuenta patrimonial del Fondo de Apoyo e informará de ello a la Secretaría Técnica y al Comité.
+
+#### SECCIÓN SÉPTIMA. SANCIONES
+
+###### Artículo 888.
+
+La Contraloría, la Visitaduría Judicial y la Dirección General de Estadística Judicial, en el ámbito de sus respectivas competencias, tendrán a su cargo las funciones de control e inspección del cumplimiento de las normas relativas al Fondo de Apoyo.
+
+###### Artículo 889.
+
+El control y vigilancia del Fondo de Apoyo tendrá por objeto verificar:
+
+I. El cumplimiento de la normatividad aplicable;
+
+II. La fiscalización permanente de los ingresos, egresos y rendimientos que se generen por la administración de los recursos ajenos;
+
+III. El seguimiento de las operaciones financieras y contables del patrimonio del Fondo de Apoyo;
+
+IV. La aplicación de los recursos disponibles; y
+
+V. Las demás que correspondan conforme a las disposiciones aplicables.
+
+###### Artículo 890.
+
+El control e inspección del funcionamiento del Fondo de Apoyo se basará en la información derivada de:
+
+I. El sistema de contabilidad que, conforme a las disposiciones legales aplicables y a los acuerdos del Comité, lleve la secretaría técnica del Fondo de Apoyo;
+
+II. Las visitas practicadas por las instancias competentes;
+
+III. El sistema de registro y control de los recursos ajenos; y
+
+IV. Las demás que se establezcan en las disposiciones legales aplicables y en los acuerdos que emitan el Consejo y el Comité.
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+###### Artículo 891.
+
+El Fondo de Apoyo será administrado en forma autónoma e independiente al Presupuesto de Egresos del Poder Judicial de la Federación y su operación queda sujeta a lo previsto por la Ley Orgánica, el Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo, este Capítulo y las Reglas de Operación del Comité.
+
+###### Artículo 892.
+
+La operación, administración y control del Fondo de Apoyo corresponde a su Comité.
+
+La operatividad del Fondo de Apoyo estará a cargo de la secretaría técnica del mismo.
+
+###### Artículo 893.
+
+La secretaría técnica del Fondo de Apoyo implementará los sistemas contables y automatizados necesarios para el tratamiento de los datos relativos a la administración, control, registro y operación del Fondo de Apoyo. Para este efecto, la secretaría técnica del Fondo de Apoyo contará con la colaboración necesaria de las áreas competentes del Consejo.
+
+El secretario técnico, previo acuerdo del Comité, podrá solicitar a la Dirección General de Estadística Judicial el acceso y la modificación del SISE con el objeto de contar oportunamente con los datos íntegros, actualizados, veraces y necesarios para controlar, administrar y conciliar la información correspondiente a los recursos del Fondo de Apoyo.
+
+Para el efecto anterior, los analistas jurídicos de los órganos jurisdiccionales responsables del procesamiento de la información del SISE, deberán capturar los datos relativos a la constitución, exhibición y orden de pago de los billetes de depósito o instrumentos análogos el mismo día en que se generen.
+
+###### Artículo 894.
+
+Los depósitos a que se refieren las fracciones III y IV del artículo 243 de la Ley Orgánica serán objeto de contabilidad, y se llevará un registro automatizado de los datos relativos a los ingresos, egresos e intereses.
+
+###### Artículo 895.
+
+La documentación soporte para el control, conciliación y validación de los depósitos judiciales será la que se emita a través del SISE, los estados de cuenta bancarios y demás reportes que se convengan con la institución depositaria.
+
+###### Artículo 896.
+
+Son objeto de registro contable:
+
+I. Los recursos que integran el patrimonio del Fondo de Apoyo;
+
+II. Los recursos disponibles del Fondo de Apoyo; y
+
+III. Las erogaciones que se autoricen con cargo a los recursos disponibles.
+
+###### Artículo 897.
+
+A fin de cumplir con el objeto del Fondo de Apoyo, el Comité podrá convenir con la institución o instituciones de crédito, que le ofrezcan las mejores condiciones para su inversión y operación, los mecanismos necesarios para la recepción de los recursos que administre, así como para el pago de los intereses que generen, los cuales deberán integrarse al Fondo de Apoyo.
+
+Para tales efectos, los recursos serán concentrados en el número de cuentas que se estimen pertinentes, mismas que estarán a nombre del Consejo.
+
+###### Artículo 898.
+
+Los convenios y contratos que tengan por objeto la inversión de la totalidad de recursos que constituyan el patrimonio del Fondo de Apoyo, serán suscritos de forma mancomunada por el secretario técnico y, por lo menos, alguno de los siguientes servidores públicos: el Director General de Programación y Presupuesto; el Director General de Tesorería; el Director de Administración Financiera; o el Director de Normatividad y Enlace Institucional del Fondo de Apoyo, por instrucción del Comité.
+
+La inversión de los recursos del Fondo de Apoyo se hará, preferentemente, en instrumentos financieros de renta fija, gubernamentales y paraestatales que garanticen su seguridad, disponibilidad inmediata y el mayor rendimiento posible.
+
+###### Artículo 899.
+
+Los titulares de los órganos jurisdiccionales, que por cualquier motivo reciban una garantía en efectivo o en valores, además de lo que se establezca en las disposiciones respectivas y en las Reglas de Operación del Comité, observarán lo siguiente:
+
+I. Que los depósitos se constituyan ante la o las instituciones bancarias autorizadas por el Comité;
+
+II. Cuando las garantías se constituyan en certificados de depósito, éstas se emitan por separado, es decir, una por cada uno de los conceptos y montos que fijen;
+
+III. Que las garantías en dinero o en valores que reciban y que no hayan sido puestas a disposición de un órgano jurisdiccional les sean transferidas para estar en posibilidad de incorporarlas al Fondo de Apoyo;
+
+IV. Coordinarse con la secretaría técnica del Fondo, para que, con apoyo de la Dirección General de Estadística Judicial, y con independencia de otros controles, se lleve a cabo el registro y supervisión de la documentación que ampare los depósitos realizados; y
+
+V. Dejar constancia en los expedientes judiciales, de los documentos a través de los cuales se hayan efectuado, hecho efectivos o cancelado depósitos.
+
+###### Artículo 900.
+
+La devolución de cantidades o valores que deban ser reintegrados al depositante se realizará mediante determinación del órgano jurisdiccional competente, de conformidad con las disposiciones legales aplicables.
+
+Se procurará que los billetes, certificados o instrumentos de depósito se puedan hacer efectivos en cualquier sucursal del país de la institución depositaria, previa orden de pago de la autoridad judicial competente.
+
+#### SECCIÓN SEGUNDA. PROGRAMAS DE SEGURIDAD INSTITUCIONAL
+
+###### Artículo 901.
+
+De conformidad con lo dispuesto en el artículo 248 de la Ley Orgánica y los artículos 855 y 891 de este Acuerdo, el Comité determinará a la o las instituciones de crédito, casas de bolsa u operadoras de sociedades de inversión en las que se administrarán los recursos del Fondo de Apoyo y podrá solicitar la opinión del Comité de Inversión al respecto.
+
+Los depósitos en dinero o en valores que se efectúen ante los órganos jurisdiccionales del Poder Judicial de la Federación, a que se refiere la fracción III del artículo 243 de la Ley Orgánica, serán operados por el Comité a través de una sola institución de crédito.
+
+###### Artículo 902.
+
+Los datos relativos a la administración y operación del Fondo de Apoyo, así como a la recepción y devolución de los depósitos a que se refiere el artículo 243, fracción III, de la Ley Orgánica, se procesarán de forma automatizada.
+
+###### Artículo 903.
+
+Los billetes, certificados o instrumentos de depósito constituyen instrumentos financieros avalados por la institución crediticia depositaria, para constituir garantías a disposición de los órganos jurisdiccionales.
+
+###### Artículo 904.
+
+La institución depositaria de los recursos del Fondo de Apoyo asumirá las obligaciones que figuren en los contratos de apertura de cuenta con independencia de las demás que le correspondan conforme a las leyes, y atenderá a las instrucciones que le indique el Comité a través del secretario técnico.
+
+###### Artículo 905.
+
+La institución depositaria debe informar a la secretaría técnica del Fondo, por escrito y en formato electrónico, de la manera más detallada posible, sobre los movimientos de las cuentas de operación, así como de la inversión de los recursos del Fondo de Apoyo, en los términos de los contratos correspondientes.
+
+###### Artículo 906.
+
+Los informes de la institución depositaria deberán rendirse de forma que permitan la conciliación oportuna, completa y precisa de los ingresos, egresos y rendimientos. En caso de inconsistencias en los estados de cuenta, la secretaría técnica del Fondo de Apoyo deberá promover las aclaraciones correspondientes en un término no mayor de treinta días posteriores a que tenga conocimiento de ellas.
+
+#### SECCIÓN TERCERA. MEDIDAS DE CONTROL PARA EL ACCESO DE SERVIDORES PÚBLICOS Y VISITANTES
+
+###### Artículo 907.
+
+El ejercicio de los recursos disponibles que integren el Fondo de Apoyo, se regirá por los principios de eficiencia, eficacia y honradez que establece el artículo 134 de la Constitución, a fin de satisfacer los objetivos a los que están destinados, de conformidad con lo dispuesto por la Ley Orgánica.
+
+###### Artículo 908.
+
+El Comité autorizará la aplicación de los recursos conforme a lo dispuesto en el artículo 249 de la Ley Orgánica.
+
+###### Artículo 909.
+
+En todo caso, se debe considerar que los recursos disponibles del Fondo de Apoyo son auxiliares para la realización única y exclusiva de los objetivos previstos en el artículo 249 de la Ley Orgánica.
+
+###### Artículo 910.
+
+Las percepciones del secretario técnico y las del personal que se designe para auxiliar en las actividades del Fondo de Apoyo, se cubrirán directamente de los recursos disponibles del Fondo de Apoyo, en los términos previstos en el artículo 249, fracción I, de la Ley Orgánica.
+
+#### SECCIÓN CUARTA. INSTALACIONES
+
+###### Artículo 911.
+
+El Comité enviará en forma trimestral a la entidad de fiscalización superior de la Federación, el informe correspondiente al ejercicio de los recursos que integran el patrimonio del Fondo de Apoyo. Al mismo tiempo, se publicarán en el Diario Oficial de la Federación, previa aprobación del Comité, los ingresos del periodo, incluyendo los rendimientos financieros, egresos, destino y saldo patrimonial del Fondo y se difundirá a través de la página de Internet del Fondo de Apoyo.
+
+###### Artículo 912.
+
+La información que se genere con motivo de la administración y operación del Fondo de Apoyo, se regirá por lo dispuesto en las normas que en materia de transparencia tiene establecidas el Consejo.
+
+#### SECCIÓN QUINTA. SERVICIO DE SEGURIDAD Y VIGILANCIA
+
+###### Artículo 913.
+
+El incumplimiento a lo dispuesto en este Capítulo se sujetará a lo previsto en la Ley Orgánica, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas.
+
+###### Artículo 914.
+
+En las dudas o controversias que se generen con motivo de la interpretación administrativa y aplicación de este Capítulo y, en su caso, de las Reglas de Operación del Comité, se estará a lo que resuelva el Comité.
+
+# LIBRO QUINTO. DISPOSICIONES EN MATERIA DE COMUNICACIÓN SOCIAL, PROTECCIÓN CIVIL, SEGURIDAD Y COMPILACIÓN NORMATIVA
+
+## TÍTULO SEGUNDO. SEGURIDAD
+
+### CAPÍTULO QUINTO. REVOCACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
+
+###### Artículo 915.
+
+El logotipo del Consejo estará conformado por las palabras “PODER JUDICIAL DE LA FEDERACION”, debajo de ellas las palabras “CONSEJO DE LA JUDICATURA FEDERAL” e inmediatamente después el Escudo Nacional conforme al modelo a que se refiere el artículo 2° de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, además tendrá colocado en un semicírculo superior las palabras “ESTADOS UNIDOS MEXICANOS”, en los términos establecidos en los artículos 5° y 6° de la ley citada.
+
+### CAPÍTULO SEXTO. DERECHOS Y OBLIGACIONES DE LOS TITULARES DE LOS CERTIFICADOS DIGITALES DE LA FIREL
+
+###### Artículo 916.
+
+Corresponde a la Dirección General de Programación y Presupuesto, con apoyo en lo que para tal efecto disponga la Comisión de Administración, establecer los lineamientos que deben regir para la publicación de convocatorias, acuerdos generales, avisos, esquelas y demás comunicaciones que determinen las autoridades competentes del Consejo, sus montos máximos y las autorizaciones que correspondan.
+
+###### Artículo 917.
+
+La Dirección General de Comunicación Social deberá presentar al Pleno y a la Comisión de Administración, los informes que se requieran respecto del ejercicio del presupuesto destinado a las publicaciones, así como del turno de los diarios en que se lleven a cabo.
+
+## TÍTULO TERCERO. PROTECCIÓN CIVIL
+
+### CAPÍTULO SÉPTIMO. SANCIONES
+
+#### SECCIÓN SEXTA. BIENES
+
+###### Artículo 918.
+
+Las disposiciones de este Capítulo son de observancia obligatoria para todos los servidores públicos y visitantes que pretendan ingresar o se encuentren dentro de las instalaciones.
+
+###### Artículo 919.
+
+La Coordinación de Seguridad es la responsable de la seguridad institucional, conforme a lo dispuesto por los artículos 92 y 93 del Acuerdo General del Pleno, que reglamenta la organización y funcionamiento del propio Consejo y lo establecido en este Acuerdo.
+
+La Coordinación de Seguridad, con el visto bueno del titular de la Secretaría Ejecutiva del Pleno y de la Presidencia, deberá instrumentar el Plan Estratégico de Seguridad Institucional, tomando como ejes rectores, entre otros, las bases normativas y orgánicas y los programas en la materia.
+
+###### Artículo 920.
+
+Los planes, programas, procedimientos, protocolos, lineamientos, manuales, así como las acciones específicas y demás instrumentos normativos en materia de seguridad institucional, deberán ser difundidos mediante los procedimientos internos que determine el Consejo para su conocimiento y observancia, y tendrán como objetivos específicos:
+
+I. Salvaguardar la integridad de las áreas administrativas y los órganos jurisdiccionales, así como de los servidores públicos y visitantes;
+
+II. Preservar la autonomía, independencia e imparcialidad del Poder Judicial de la Federación; y
+
+III. Coordinar acciones con las autoridades de los tres órdenes de gobierno para garantizar la seguridad en el Poder Judicial de la Federación, así como con las organizaciones de la sociedad civil e instituciones públicas y privadas, de carácter nacional e internacional, en materia de seguridad.
+
+###### Artículo 921.
+
+Todas las instalaciones deberán contar con un análisis de riesgo.
+
+En las instalaciones, la Administración de Inmuebles deberá colocar en lugar visible, las medidas de acceso, estancia y salida de las mismas, con el propósito de orientar a servidores públicos y visitantes, así como transparentar las mismas.
+
+###### Artículo 922.
+
+La Coordinación de Seguridad con el visto bueno del Secretario Ejecutivo del Pleno y de la Presidencia presentará para su consideración y, en su caso, aprobación del Pleno, el Plan Estratégico de Seguridad Institucional, el cual se mantendrá actualizado en todo momento.
+
+###### Artículo 923.
+
+La Coordinación de Seguridad, elaborará las propuestas y desarrollos de los planes, programas, procedimientos y sistemas, tendentes a preservar la seguridad de los servidores públicos, instalaciones y demás bienes del Poder Judicial de la Federación, los cuales deberán contar con el visto bueno del Secretario Ejecutivo del Pleno y de la Presidencia y, en su caso, se someterán a la aprobación de la Comisión correspondiente.
+
+###### Artículo 924.
+
+La Coordinación de Seguridad, con la participación de la Dirección General de Recursos Humanos, reclutará y seleccionará al personal de seguridad que comisione en las instalaciones, para lo cual tomará en cuenta, entre otras características, las siguientes:
+
+I. Perfil, competencias, certificaciones, edad, escolaridad, cargos y funciones operativas, desempeño y evaluaciones;
+
+II. Experiencia en la atención o prestación de servicios de seguridad; y
+
+III. Dominio de protocolos en materia de acceso a instalaciones; atención ante situaciones de riesgo; despliegue de fuerzas de reacción, amenaza por artefactos explosivos, registro de incidentes, entre otros.
+
+###### Artículo 925.
+
+La Administración de Inmuebles, en el ámbito de su competencia, tendrá las siguientes atribuciones:
+
+I. Aplicar los planes, programas, procedimientos, protocolos, lineamientos, manuales, así como las acciones específicas dictadas por la Coordinación de Seguridad, tendentes a preservar la seguridad de los servidores públicos, visitantes, instalaciones, equipos y demás bienes del Poder Judicial de la Federación; y
+
+II. Gestionar y proveer los servicios de mantenimiento para la correcta operación y administración de los sistemas de seguridad en las instalaciones.
+
+###### Artículo 926.
+
+La Coordinación de Seguridad atenderá los requerimientos que en materia de seguridad le soliciten las áreas administrativas, órganos jurisdiccionales y servidores públicos y, en su caso, atenderá en forma oportuna a las llamadas urgentes que se reciban en esta materia.
+
+###### Artículo 927.
+
+Los servidores públicos y visitantes que deseen ingresar a las instalaciones, deberán sujetarse a los controles de revisión, registro y demás medidas en materia de seguridad institucional, previstas en este Capítulo y demás disposiciones aplicables.
+
+###### Artículo 928.
+
+El acceso de visitantes a los inmuebles sólo podrá ser autorizado por la Administración de éstos o por los Administradores de los Centros de Justicia Penal, sin perjuicio de que deberán observarse los protocolos, manuales, normas, lineamientos y políticas aplicables.
+
+###### Artículo 929.
+
+Queda prohibido ingresar cualquier tipo de armas, sustancias o material peligroso a las instalaciones, con excepción de aquellas personas que con motivo de sus funciones deban ingresarlas, caso en el cual la Coordinación de Seguridad deberá llevar un registro específico de dichas personas.
+
+###### Artículo 930.
+
+Los servidores públicos y visitantes deberán portar en forma visible al ingresar a las instalaciones y durante el tiempo que permanezcan en ellas, las credenciales o gafetes que los acrediten como tales.
+
+###### Artículo 931.
+
+Para el acceso del personal de las compañías contratistas, prestadores de servicios y proveedores, el administrador del contrato estará obligado a informar a la administración de inmuebles y al personal de seguridad, los nombres, tipo de credencial que portarán, uniformes y demás datos que los identifiquen, debiendo observarse las medidas que para el efecto se establezcan en el protocolo correspondiente.
+
+Queda bajo la estricta responsabilidad de los administradores del contrato y de la Administración de Inmuebles, supervisar el cumplimiento de las medidas de seguridad institucional.
+
+###### Artículo 932.
+
+Queda restringido el acceso a menores de edad a las instalaciones, salvo los casos autorizados por los titulares de las áreas administrativas, órganos jurisdiccionales, o a quienes estos autoricen para tal efecto.
+
+###### Artículo 933.
+
+El ingreso y estancia de periodistas y medios de comunicación en las instalaciones, requerirá la previa autorización de la Dirección General de Comunicación Social o del Administrador del Centro de Justicia Penal quienes, en todo caso, deberán dar aviso a la Coordinación de Seguridad a efecto de que se apliquen los protocolos o manuales correspondientes.
+
+###### Artículo 934.
+
+Las instalaciones deberán contar con medidas de control de ingreso y salida, centros de control y monitoreo y otros instrumentos tecnológicos de seguridad que sean necesarios para preservar la seguridad de los servidores públicos, visitantes, instalaciones, equipos y demás bienes del Poder Judicial de la Federación.
+
+###### Artículo 935.
+
+Para el ingreso y salida de los servidores públicos y visitantes de las instalaciones se elaborará el protocolo correspondiente, en el cual se determinarán los sistemas de control y los elementos físicos y tecnológicos necesarios para ello.
+
+###### Artículo 936.
+
+La Coordinación de Seguridad tendrá bajo su mando y supervisión los centros de control y monitoreo, así como al personal que los opere.
+
+La Coordinación de Seguridad determinará, conforme al protocolo o manual correspondiente y previo análisis técnico de seguridad, las características del equipo, la logística de ubicación y las reglas para el manejo y control operativo de los centros de control y monitoreo. La administración de inmuebles dará todas las facilidades a la Coordinación de Seguridad para que se instalen dichos sistemas.
+
+###### Artículo 937.
+
+La información que se genere por el uso de los equipos mencionados en el artículo anterior, en casos relevantes de riesgo o hechos probablemente ilícitos, se hará del conocimiento del Presidente, Consejeros, Secretario Ejecutivo del Pleno y de la Presidencia y, en caso necesario, de las autoridades competentes, ya sea por requerimiento en los términos de las leyes respectivas o cuando el Consejo deba comunicarlas de manera directa.
+
+El manejo, resguardo y entrega de la información generada por dichos sistemas, se regulará por los manuales, procedimientos y sistemas establecidos por la Coordinación de Seguridad, en ellos se privilegiará en todo momento la protección de los datos personales, con las excepciones que las leyes determinen. El mal uso de dicha información quedará bajo la responsabilidad de quien la controle y divulgue.
+
+###### Artículo 938.
+
+El procedimiento de contratación del personal de vigilancia será responsabilidad de las áreas administrativas competentes en términos de los acuerdos generales que dicte el Consejo. La Coordinación de Seguridad determinará los requerimientos técnicos y será la encargada de determinar el número y distribución de las personas contratadas para el servicio de vigilancia, con base en el análisis de riesgos de cada una de las instalaciones.
+
+Asimismo, y a través del personal de seguridad, evaluará la prestación de los servicios de seguridad y vigilancia en coordinación con la Administración de Inmuebles y, en su caso, reportará los incumplimientos para que el área competente determine las penalizaciones o demás medidas que en términos contractuales correspondan.
+
+La administración de Inmuebles deberá reportar al área de contratación de que se trate, cualquier situación que contravenga las obligaciones contractuales.
+
+###### Artículo 939.
+
+Para el ingreso y salida de los bienes propiedad del Consejo, se deberán observar los protocolos que para tal efecto establezca la Coordinación de Seguridad.
+
+###### Artículo 940.
+
+El ingreso y salida de cualquier bien propiedad de los servidores públicos, se sujetará a los protocolos que para tal efecto establezca la Coordinación de Seguridad.
+
+###### Artículo 941.
+
+Los servidores públicos deberán reportar al personal de seguridad, la presencia de cualquier objeto peligroso o presuntamente abandonado.
+
+### CAPÍTULO OCTAVO. UNIDAD PARA EL CONTROL DE CERTIFICACIÓN DE FIRMAS DEL CONSEJO
+
+###### Artículo 942.
+
+Queda prohibida la práctica de compraventa de cualquier tipo de producto o servicio, dentro de las instalaciones y edificios administrados por el Consejo.
+
+###### Artículo 943.
+
+Se prohíbe la entrada a vendedores de productos o servicios a las instalaciones y edificios de la institución, así como la venta y prestación de servicios por parte de los servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas.
+
+###### Artículo 944.
+
+Se exceptúa de lo dispuesto en los artículos anteriores a los proveedores autorizados por el Consejo para fines institucionales, y a las personas autorizadas por los administradores de los inmuebles, bajo su más estricta responsabilidad y sin ninguna otra intervención, en los casos siguientes:
+
+I. Tratándose de alimentos para los servidores públicos adscritos a los órganos jurisdiccionales y áreas administrativas, en los que no existan servicios de comedor o cafetería, se autorizará su venta a personas ajenas a la institución sólo en los horarios que para la ingesta de alimentos indiquen los titulares de los mismos; y
+
+II. En el caso de vendedores de material jurídico y lustradores de calzado, se permitirá el acceso a los edificios administrados por el Consejo en el horario vespertino.
+
+En estos casos de excepción, los administradores de los inmuebles deberán abrir un expediente a cada persona autorizada, en el que se agregue copia de los siguientes documentos: acta de nacimiento, credencial de elector con fotografía, Clave Única de Registro de Población, constancia de estudios y certificado de no antecedentes penales.
+
+De esos expedientes remitirán copia a la Secretaría Ejecutiva de Administración, para efectos de control, expidiendo a los autorizados la tarjeta de identificación correspondiente.
+
+###### Artículo 945.
+
+Los administradores de los inmuebles y las personas encargadas de seguridad, serán responsables del cumplimiento de las disposiciones de este Capítulo, por lo que con el apoyo de la Coordinación de Seguridad deberán instrumentar las estrategias necesarias a fin de evitar la entrada de vendedores y prestadores de servicio a dichas instalaciones, incluyendo la revisión de todos los vehículos del personal, con excepción de magistrados de Circuito, jueces de Distrito y titulares de áreas administrativas, para impedir que introduzcan cualquier tipo de mercancía.
+
+###### Artículo 946.
+
+Corresponde a los titulares de órganos jurisdiccionales y áreas administrativas adoptar las medidas que estimen pertinentes para el cabal cumplimiento de este Capítulo dentro de los órganos de su adscripción.
+
+###### Artículo 947.
+
+La Contraloría pondrá en práctica mecanismos de control internos a fin de identificar, prevenir y, en su caso, sancionar la celebración de operaciones de compraventa de cualquier producto o servicio en los lugares señalados.
+
+###### Artículo 948.
+
+La Visitaduría Judicial verificará en las visitas ordinarias y extraordinarias si en los órganos visitados se observa lo dispuesto en este Capítulo, y de no ser así, lo informará a la Secretaría Ejecutiva de Disciplina.
+
+###### Artículo 949.
+
+En caso de inobservancia a las disposiciones de este Capítulo por parte del personal de los órganos jurisdiccionales o de las áreas administrativas, serán acreedores a la instauración del procedimiento de responsabilidad que corresponda.
+
+Respecto de las personas que sin autorización lo contravengan y no se trate de servidores públicos del Poder Judicial de la Federación, se aplicarán las siguientes medidas:
+
+I. En la primera ocasión, serán compelidos a que se retiren de las instalaciones en que sean sorprendidos y se les apercibirá que de reiterar su comportamiento se les prohibirá la entrada, salvo causa justificada; y
+
+II. En la segunda o ulteriores ocasiones, se les obligará a retirarse de las instalaciones, aun con apoyo de la fuerza pública, y se les informará que su entrada estará prohibida, salvo causa justificada.
+
+## TÍTULO CUARTO. FIRMA ELECTRÓNICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACIÓN
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 950.
+
+El Agente Regulador se encargará de establecer las bases para la planeación, coordinación, operación y funcionamiento de las Unidades Internas de Protección Civil. Asimismo, para organizar, proponer y supervisar las acciones contenidas en la Gestión Integral de Riesgos, misma que involucra las siguientes etapas:
+
+I. Identificación de los riesgos y su proceso de formación;
+
+II. Previsión;
+
+III. Prevención;
+
+IV. Mitigación;
+
+V. Preparación;
+
+VI. Auxilio;
+
+VII. Recuperación; y
+
+VIII. Reconstrucción.
+
+Asimismo, se encargará de la supervisión y asesoría, para el diseño e implementación de los Programas Internos de Protección Civil, integrando el Plan Operativo, el Plan para la Continuidad de Operaciones y el Plan de Contingencias que en cada caso aplicarán las Unidades Internas de Protección Civil en los inmuebles que administra el Poder Judicial de la Federación.
+
+###### Artículo 951.
+
+La Dirección General de Protección Civil y Salud en el Trabajo, en su carácter de Agente Regulador, someterá al Pleno, a través de la Comisión de Administración, las consultas respecto a la aplicación de este Título.
+
+###### Artículo 952.
+
+Corresponde a la Dirección General de Protección Civil y Salud en el Trabajo, dar cumplimiento al Programa Anual de Protección Civil del Consejo, rendir un reporte de su cumplimiento, avance y modificaciones, mediante informes semestrales a la Comisión de Administración.
+
+###### Artículo 953.
+
+La Dirección General de Protección Civil y Salud en el Trabajo es el área administrativa encargada de promover las medidas necesarias para la implementación de las etapas de la Gestión Integral de Riesgos ante la eventualidad de un desastre. Asimismo, para realizar estrategias que permitan la participación de los servidores públicos y que tengan como finalidad promover una cultura de responsabilidad, con énfasis en la prevención y autoprotección respecto de los riesgos y peligros que presentan los agentes perturbadores y su vulnerabilidad.
+
+###### Artículo 954.
+
+Corresponde a la Dirección General de Protección Civil y Salud en el Trabajo:
+
+I. Implementar estrategias tendentes a preservar la integridad de los servidores públicos del Poder Judicial de la Federación;
+
+II. Incorporar la Gestión Integral del Riesgo, como aspecto fundamental en la planeación y programación de las actividades del Poder Judicial de la Federación;
+
+III. Establecer y desarrollar acciones con la finalidad de implementar la cultura de protección civil con énfasis en la prevención, dirigida a los servidores públicos, a efecto de que éstos identifiquen los peligros, vulnerabilidades y riesgos;
+
+IV. Elaborar, supervisar, dar seguimiento y evaluar el cumplimiento del Programa Anual de Protección Civil, aprobado por la Comisión de Administración;
+
+V. Proponer al interior del Consejo, políticas y estrategias en materia de protección civil;
+
+VI. Promover, en el caso de aquellos servidores públicos que desempeñen una responsabilidad en las Unidades Internas de Protección Civil, la obtención de la certificación de competencia expedida por la Escuela Nacional de Protección Civil;
+
+VII. Implementar, difundir y vigilar el cumplimiento de la normativa y disposiciones en la materia;
+
+VIII. Vigilar el cumplimiento de las disposiciones normativas que en materia de Protección Civil se establezcan, así como en su caso, atender los criterios de orden general regulados por el Sistema Nacional de Protección Civil, a través de disposiciones, medidas y acciones contenidas en la Gestión Integral de Riesgos ante la eventualidad de un desastre y en su caso, someter a consideración de la Comisión de Administración, las acciones que deban aplicarse en los inmuebles que administra el Poder Judicial de la Federación;
+
+IX. Promover la realización de eventos de capacitación a Brigadistas y otros servidores públicos, para la formación de competencias que permitan aplicar los conocimientos, habilidades y destrezas ante la eventualidad de algún riesgo, emergencia o desastre de origen natural o humano;
+
+X. Dar seguimiento a las evaluaciones que en materia de Protección Civil realicen las Unidades Internas de Protección Civil en cada uno de los inmuebles, así como de la participación de los Brigadistas en el desarrollo de las mismas;
+
+XI. Promover la ejecución de simulacros en los inmuebles;
+
+XII. Supervisar y coordinar la constitución de las Unidades Internas de Protección Civil y evaluar su funcionamiento;
+
+XIII. Supervisar y verificar la aplicación del Programa Interno de Protección Civil de cada inmueble, considerando el Plan Operativo, el Plan para la Continuidad de Operaciones y el Plan de Contingencias elaborado por las Unidades Internas de Protección Civil;
+
+XIV. Rendir los informes que le sean requeridos por la Comisión de Administración, sobre las actividades desarrolladas en materia de Protección Civil;
+
+XV. Proponer el Programa Anual de Protección Civil y someterlo a la autorización de las instancias competentes;
+
+XVI. Someter a consideración de la Comisión, las normas, lineamientos, programas, procedimientos y proyectos de Protección Civil que sean elaboradas por la misma Dirección General para instrumentarse en el Poder Judicial de la Federación;
+
+XVII. Suscribir convenios de colaboración con los sectores público, privado y académico en acciones de prevención y mitigación del riesgo, así como de capacitación teórica práctica en materia de protección civil;
+
+XVIII. Difundir la normatividad en materia de protección civil aplicable a los Programas Internos de Protección Civil; así como, supervisar su aplicación y cumplimiento;
+
+XIX. Asesorar y supervisar a las Unidades Internas de Protección Civil en cuanto a su funcionamiento, con el objeto de lograr el puntual cumplimiento de sus Programas de Protección Civil; así como la debida aplicación de sus planes: Plan Operativo, Plan para la Continuidad de Operaciones y Plan de Contingencias;
+
+XX. Realizar las supervisiones que se efectúen en los Inmuebles;
+
+XXI. Elaborar los programas de recorridos de verificación en los inmuebles, a efecto de revisar el cumplimiento de los Programas Internos de Protección Civil de éstos y emitir las recomendaciones correspondientes a los Presidentes de las Unidades Internas de Protección Civil;
+
+XXII. Dar seguimiento a las recomendaciones emitidas a los presidentes de las Unidades Internas de Protección Civil;
+
+XXIII. Proponer la suscripción de convenios de colaboración con los sectores público, privado y académico en acciones de prevención y mitigación del riesgo, así como de capacitación teórica práctica en materia de protección civil;
+
+XXIV. Promover y evaluar los análisis de riesgos, desarrollo de estudios y modelaciones de posibles efectos de agentes perturbadores sobre los inmuebles del Poder Judicial de la Federación;
+
+XXV. Promover, evaluar y generar acciones técnicas de prevención y mitigación de riesgos en la infraestructura física de los inmuebles del Poder Judicial de la Federación, así como el seguimiento a las recomendaciones que se emitan;
+
+XXVI. Desarrollar y proponer las medidas de alertamiento ante situación anormal que pudiera causar un daño y propiciar un riesgo excesivo para la seguridad de los servidores públicos del Poder Judicial de la Federación, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
+
+XXVII. Asesorar, coordinar y dar seguimiento en la realización de simulacros que se lleven a cabo en los inmuebles del Poder Judicial de la Federación;
+
+XXVIII. Proponer al área administrativa que corresponda, la adquisición de sistemas de detección de incendios, alarma y comunicación; sistemas de hidrantes, equipos de protección personal para los brigadistas; así como equipo complementario para la atención de emergencias o desastres que requiera el Consejo, en términos de las disposiciones aplicables;
+
+XXIX. Evaluar los dictámenes técnicos correspondientes, relativos a la adquisición de sistemas contra incendios y equipos complementarios en materia de Protección Civil;
+
+XXX. Elaborar los planes de operación e implementar los dispositivos en los eventos que coordine el Poder Judicial de la Federación;
+
+XXXI. Desarrollar y coordinar los planes y programas de capacitación especializados en materia de protección civil para el personal del Poder Judicial de la Federación;
+
+XXXII. Dictaminar en caso de requerirse la validación de los Programas Internos de Protección Civil, propuestas por las Unidades Internas de Protección Civil de los inmuebles; y
+
+XXXIII. Las demás que le determine el Pleno o la Comisión de Administración.
+
+###### Artículo 955.
+
+El Programa Anual de Protección Civil, deberá contener los proyectos a desarrollar durante la anualidad y las Directrices de Acción en Materia de Protección Civil, es decir los lineamientos para la ejecución y desarrollo de las acciones establecidas en el Programa citado.
+
+###### Artículo 956.
+
+El Programa Anual de Protección Civil es de observancia general para todos los servidores públicos del Poder Judicial de la Federación.
+
+###### Artículo 957.
+
+El titular de la Dirección General de Protección Civil y Salud en el Trabajo, será responsable de integrar, operar y actualizar el Programa Anual de Protección Civil en el Poder Judicial de la Federación, y someterlo a las autoridades competentes para su aprobación.
+
+###### Artículo 958.
+
+El titular de la Dirección General de Protección Civil y Salud en el Trabajo, será responsable de supervisar y evaluar la implementación y ejecución de las acciones preventivas, de reacción y de recuperación ante emergencias, incluidas en los programas internos de protección civil autorizados.
+
+###### Artículo 959.
+
+La Dirección General de Protección Civil y Salud en el Trabajo deberá informar a la Comisión de Administración, respecto del cumplimiento del Programa Anual de Protección Civil.
+
+###### Artículo 960.
+
+Las Unidades Internas de Protección Civil serán los órganos encargados, a nivel Central y Regional, de elaborar, operar, actualizar, y vigilar el Programa Interno de Protección Civil de cada inmueble del Poder Judicial de la Federación, considerando el Plan Operativo, el Plan para la Continuidad de Operaciones y el Plan de Contingencias.
+
+###### Artículo 961.
+
+Las Unidades internas de Protección Civil estarán integradas por el Administrador del Inmueble Central, Administrador Regional o Delegado Administrativo, según corresponda, quien fungirá como Presidente de la Unidad Interna de Protección Civil, así como por dos servidores públicos a su cargo que éste designe, un Jefe de Piso, que representará a cada área o piso por órgano jurisdiccional, auxiliar o unidad administrativa y representantes Brigadistas por cada órgano jurisdiccional o áreas administrativas, quienes lo auxiliarán en el desempeño de su función.
+
+En los inmuebles en los que se ubiquen en un CENDI, su Director formará parte de la Unidad Interna de Protección Civil y auxiliará al Presidente de la Unidad del mismo en el desempeño de su función.
+
+###### Artículo 962.
+
+El Administrador del Inmueble Central, Administrador Regional o Delegado Administrativo, según corresponda, en su función como Presidente de la Unidad Interna de Protección Civil, será el responsable de dar cumplimiento a los lineamientos, protocolos, y demás disposiciones y normativas emitidas por la Dirección General de Protección Civil y Salud en el Trabajo.
+
+###### Artículo 963.
+
+Corresponde a las Unidades Internas de Protección Civil:
+
+I. Elaborar, operar, actualizar, y vigilar el Programa Interno de Protección Civil, del o los inmuebles a su cargo;
+
+II. Sesionar dos veces al año de manera ordinaria, y en forma extraordinaria, cuando así lo considere su Presidente o a petición de la mayoría de sus miembros;
+
+III. Formalizar las sesiones de la Unidad Interna de Protección Civil, a través de un acta de hechos, la cual se elaborará en los siguientes términos:
+
+De todas las sesiones se levantará acta, a la cual se le asignará un número progresivo y en ella se consignará al menos, lo siguiente:
+
+a) El carácter de la sesión;
+
+b) Fecha de celebración y hora de inicio y conclusión;
+
+c) Lista de asistencia;
+
+d) Relación sucinta del desahogo del orden del día; y
+
+e) Los acuerdos que se tomen, mismos que deberán ser identificados con número progresivo.
+
+El acta se acompañará de los anexos relacionados con las cuestiones relativas a los casos que se presenten en las sesiones, y formarán parte de la misma.
+
+Toda acta se elaborará en original, la cual deberá ser firmada por todos los integrantes presentes en la sesión y por el Secretario Técnico, conformando con el original el registro autorizado, mismo que deberá remitirse a la Dirección General de Protección Civil y Salud en el Trabajo;
+
+IV. Instrumentar los programas, proyectos y acuerdos en materia de Protección Civil, de conformidad con las disposiciones aplicables y las acciones que señale la Dirección General de Protección Civil y Salud en el Trabajo;
+
+V. Fomentar la cultura de responsabilidad social con énfasis en la prevención y en la autoprotección de los servidores públicos, difundiendo permanentemente información en materia de Protección Civil y promoviendo su participación en las actividades que en la materia se realicen;
+
+VI. Atender y cumplir las disposiciones que se señalen de conformidad con las disposiciones locales en materia de Protección Civil;
+
+VII. Presentar a la Dirección General de Protección Civil y Salud en el Trabajo las propuestas de su validación, mediante campañas de información y divulgación en materia de Protección Civil;
+
+VIII. Mantener actualizado el Padrón de Brigadistas de los inmuebles a su cargo, e informar, a la brevedad, a la Dirección General de Protección Civil y Salud en el Trabajo de los cambios que ocurran;
+
+IX. Detectar las necesidades de capacitación específica para los Brigadistas en los inmuebles a su cargo, solicitar los cursos necesarios, supervisar se lleven a cabo y cumplan con el objetivo previamente establecido;
+
+X. Dotar a las brigadas constituidas, del material y equipo necesario para su correcto funcionamiento;
+
+XI. Atender y apoyar en las visitas de supervisión que efectúe la dependencia encargada de coordinar el Sistema Nacional de Protección Civil; y
+
+XII. Realizar las demás actividades que determine la Dirección General de Protección Civil y Salud en el Trabajo.
+
+###### Artículo 964.
+
+Corresponde al Presidente de cada Unidad Interna de Protección Civil:
+
+I. Presidir las sesiones de la Unidad;
+
+II. Representar a la Unidad a su cargo ante la Dirección General de Protección Civil y Salud
+
+en el Trabajo;
+
+III. Presentar a la Dirección General de Protección Civil y Salud en el Trabajo, durante el mes de febrero de cada año, el Programa Interno de Protección Civil y Planes de Emergencia Específicos del o los inmuebles a su cargo, para su aprobación, previo visto bueno de la Unidad Interna, asimismo, en los inmuebles en los que se ubiquen Centros de Desarrollo Infantil, el Presidente de la Unidad Interna deberá integrar el Programa Interno de dicho Centro al Programa Interno de Protección Civil del inmueble a su cargo, mismos que se presentarán a la Dirección General de Protección Civil y Salud en el Trabajo para su aprobación y en su caso, la asesoría técnica especializada correspondiente;
+
+IV. Convocar a sesiones ordinarias y extraordinarias de la Unidad interna a su cargo;
+
+V. Autorizar con su firma las actas de las sesiones y demás documentos relacionados con el ejercicio de su cargo;
+
+VI. Elaborar y presentar ante la Dirección General de Protección Civil y Salud en el Trabajo, los lineamientos, normas, programas, procedimientos y proyectos de Protección Civil que sean del conocimiento de la Unidad a su cargo;
+
+VII. Atender las recomendaciones que se efectúen en los inmuebles a su cargo;
+
+VIII. Elaborar y presentar ante la Dirección General de Protección Civil y Salud en el Trabajo las propuestas de campañas de información y de divulgación a los servidores públicos afectados por los distintos riesgos, que sean del conocimiento de la Unidad a su cargo;
+
+IX. Presupuestar y adquirir los señalamientos y dispositivos que requieran los inmuebles a su cargo e instalarlos con base a los Lineamientos de señalización y avisos de Protección Civil en los inmuebles administrados por el Consejo;
+
+X. Elaborar y mantener actualizado el Directorio de Apoyos Externos para Emergencias e Inventario de Recursos Humanos y Materiales del o los inmuebles a su cargo;
+
+XI. Planificar, coordinar y evaluar en los inmuebles a su cargo, la ejecución de las tareas que se requieran, para evacuar a los servidores públicos, que con motivo del simulacro correspondiente o desastre natural o humano, se tenga que realizar;
+
+XII. Supervisar el cumplimiento del Programa Interno de Protección Civil de los inmuebles a su cargo;
+
+XIII. Vigilar que las instalaciones eléctricas, hidrosanitarias y de comunicación del o los inmuebles a su cargo, se encuentren en condiciones óptimas de funcionamiento;
+
+XIV. Supervisar periódicamente el buen funcionamiento de los equipos de alertamiento y respuesta en general, con que cuenten el o los inmuebles a su cargo;
+
+XV. Presupuestar y adquirir el equipo de protección civil que sea necesario instalar en los inmuebles a su cargo, así como en el caso de extintores, verificar su nivel de carga, a fin de recargar o sustituir a la brevedad, aquéllos que se hayan utilizado o se encuentren despresurizados;
+
+XVI. Supervisar y evaluar las pruebas que por lo menos cada treinta días se realicen a las mangueras, chifones, válvulas, conexiones y demás dispositivos de los hidrantes con que cuenten los inmuebles a su cargo, y llevar a cabo las acciones de mantenimiento que éstos requieran;
+
+XVII. Verificar que las áreas donde se manejen productos u objetos inflamables cuenten con extintores en óptimas condiciones, cantidad suficiente y que éstos se ubiquen estratégicamente;
+
+XVIII. Supervisar que las vías de acceso y rutas de evacuación, pasillos, escaleras, elevadores y rampas de los inmuebles a su cargo se encuentren libres de todo objeto que entorpezca el paso;
+
+XIX. Presentar a la Dirección General de Protección Civil y Salud en el Trabajo el informe relativo al cumplimiento de las recomendaciones emitidas, de acuerdo a las visitas de verificación realizadas por dicha área;
+
+XX. Coordinar en caso de contingencia a jefes de piso, jefes de brigada, brigadistas y cuerpos de apoyo externo, dando la primera atención;
+
+XXI. Ejecutar todas aquellas acciones y rutinas de revisión y análisis de las condiciones físicas internas y externas del inmueble, a efecto de garantizar que se cuente con las mejores y más seguras condiciones posibles, antes y después de una contingencia;
+
+XXII. Ejecutar, aplicar e informar mediante reporte escrito la atención de los protocolos, normativas, procedimientos y demás disposiciones previamente emitidas por la Dirección General de Protección Civil y Salud en el Trabajo; y
+
+XXIII. Las demás que le determinen la Dirección General de Protección Civil y Salud en el Trabajo y otras disposiciones normativas aplicables en la materia.
+
+###### Artículo 965.
+
+Los Presidentes de las Unidades Internas, deberán crear un acervo documental en materia de Protección Civil que recoja aspectos de la organización y funcionamiento de las mismas y los brigadistas, así como de los principales riesgos en que pueda verse involucrada la localidad en la que resida el o los inmuebles.
+
+###### Artículo 966.
+
+El presidente de cada Unidad deberá remitir el acta que actualice la integración de la Unidad, antes de que finalice el primer bimestre de cada año.
+
+La integración de cada Unidad Interna se deberá actualizar, sólo cuando se presenten cambios de los servidores públicos que la conforman.
+
+###### Artículo 967.
+
+Los inmuebles deberán contar con brigadas, mismas que estarán autorizadas y supervisadas por la Unidad Interna de Protección Civil, siendo por lo menos las siguientes:
+
+I. Primeros Auxilios;
+
+II. Combate a conatos de incendio;
+
+III. Evacuación; y
+
+IV. Búsqueda y rescate.
+
+###### Artículo 968.
+
+Los CENDI, de acuerdo a sus condiciones, deberán contar con las brigadas establecidas en el artículo anterior, mismas que tendrán que hacer del conocimiento de la Unidad Interna del inmueble al que pertenecen y ser autorizadas y supervisadas por la Dirección General de Protección Civil y Salud en el Trabajo.
+
+###### Artículo 969.
+
+En la conformación y administración de las brigadas, las Unidades Internas de Protección Civil observarán lo siguiente:
+
+I. Asegurar que por lo menos el 10% de la totalidad de los servidores públicos de un inmueble sean brigadistas;
+
+II. Dar a conocer a los servidores públicos, quiénes son los brigadistas del inmueble en que laboran;
+
+III. Realizar reuniones de retroalimentación con los brigadistas; y
+
+IV. Al realizar simulacros, establecer el puesto de mando e informar los resultados a la Dirección General de Protección Civil y Salud en el Trabajo.
+
+###### Artículo 970.
+
+Corresponde a la Dirección General de Protección Civil y Salud en el Trabajo elaborar, implementar y difundir en coordinación con la Dirección General de Servicios al Personal, el Programa de Capacitación de Protección Civil, para el personal del Poder Judicial de la Federación, con base en la detección de necesidades que las Unidades Internas de Protección Civil envíen; así como mantener actualizado el padrón nacional de brigadistas.
+
+###### Artículo 971.
+
+Los Brigadistas son los servidores públicos que de forma voluntaria conformarán una estructura operativa capacitada y adiestrada en funciones básicas de respuesta a emergencias de primeros auxilios, combate de conato de incendio, evacuación, búsqueda, rescate y recuperación, ante situaciones de riesgo, emergencias o desastres, colaborando en la protección de la integridad física de los servidores públicos, visitantes, así como de los bienes del Poder Judicial de la Federación.
+
+Serán organizados por las Unidades Internas de Protección Civil, encargadas de detectar sus necesidades de capacitación, mismas que serán coordinadas por la Dirección General de Protección Civil y Salud en el Trabajo.
+
+###### Artículo 972.
+
+Los Titulares de los órganos jurisdiccionales y áreas administrativas deberán brindar todas las facilidades necesarias para que los Brigadistas adscritos a sus respectivas áreas asistan y participen en todo evento de capacitación que les corresponda. Asimismo, para que participen en la realización de simulacros y ejercicios en materia de protección civil.
+
+De igual modo, deberán autorizar a los servidores públicos que tengan interés para que formen parte de cualquiera de las brigadas que se tengan constituidas en cada inmueble y participen activamente.
+
+###### Artículo 973.
+
+Para ser brigadista se deben reunir los requisitos siguientes:
+
+I. Ser empleado activo del Poder Judicial de la Federación;
+
+II. Gozar de buena salud física y mental; y
+
+III. Laborar dentro del inmueble donde se pretende ser brigadista, realizando actividades que preferentemente no impliquen salidas continuas y prolongadas, así como contar con el mismo horario laboral de los servidores públicos en general.
+
+###### Artículo 974.
+
+El área encargada de Servicios Médicos en cada uno de los inmuebles, trabajará de manera coordinada con la Brigada de Primeros Auxilios, lo anterior con el objeto de coadyuvar a los brigadistas en el cumplimiento de sus funciones.
+
+Asimismo, proporcionarán información a los brigadistas de los pasos necesarios a realizar ante diferentes emergencias médicas.
+
+###### Artículo 975.
+
+La capacitación en materia de Protección Civil será coordinada por la Dirección General de Protección Civil y Salud en el Trabajo; la cual, se orientará a fortalecer y ampliar los conocimientos en dicha materia para los brigadistas servidores públicos del Poder Judicial de la Federación.
+
+## TÍTULO QUINTO. COMPILACIÓN NORMATIVA
+
+###### Artículo 976.
+
+El presente Título tiene por objeto regular los aspectos técnicos del establecimiento de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) emitida por el Consejo.
+
+###### Artículo 977.
+
+Estarán sujetos a las disposiciones de este Título aquellas personas que requieran tramitar y obtener la FIREL emitida por el Consejo.
+
+###### Artículo 978.
+
+El certificado intermedio del Consejo deberá ser emitido por la autoridad certificadora raíz del Poder Judicial de la Federación y quedará resguardado en un módulo criptográfico (HSM) con nivel de seguridad FIPS140-2, nivel 3.
+
+Con base en el certificado intermedio del Consejo se emitirán los certificados digitales de la FIREL a los usuarios finales.
+
+###### Artículo 979.
+
+La vigencia del certificado digital de la FIREL a los usuarios finales que emita el Consejo será de tres años, la cual iniciará a partir del momento de su emisión.
+
+###### Artículo 980.
+
+La FIREL emitida por el Consejo podrá ser utilizada en documentos electrónicos y, en su caso, en mensajes de datos que determinen el Pleno o la Comisión de Administración.
+
+Los documentos electrónicos y mensajes de datos que cuenten con una firma electrónica producirán los mismos efectos que los presentados con firma autógrafa, teniendo el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos.
+
+###### Artículo 981.
+
+Además de lo previsto en la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, el Pleno determinará en qué procedimientos y trámites jurisdiccionales o administrativos se utilizará la FIREL a que se refiere este Título.
+
+Los requisitos para el acceso y privilegios en los sistemas electrónicos del Consejo que requieran del uso de la FIREL se establecerán en la normativa que los rija, y se difundirán y describirán en el correspondiente manual de usuario.
+
+###### Artículo 982.
+
+Los sistemas informáticos del Consejo deberán verificar en línea el estado de los certificados digitales de la FIREL, así como utilizar sellos de tiempo en el momento en que éstos sean utilizados.
+
+###### Artículo 983.
+
+La FIREL deberá garantizar los siguientes principios:
+
+I. Autenticidad: Dar certeza de que un documento electrónico o un mensaje de datos ha sido emitido por el firmante, por lo que su contenido y consecuencias jurídicas le son atribuibles a éste;
+
+II. Confidencialidad: En un documento electrónico o en un mensaje de datos, garantiza que éste sólo puede ser cifrado por el firmante y el receptor;
+
+III. Equivalencia funcional: Consiste en que en un documento electrónico o en un mensaje de datos, se satisface el requisito de firma del mismo modo que la firma autógrafa en los documentos impresos;
+
+IV. Integridad: En un documento electrónico o en un mensaje de datos dará certeza de que éste ha permanecido completo e inalterado desde su firma;
+
+V. Neutralidad tecnológica: Consistente en que la tecnología utilizada para la emisión de certificados digitales y para la prestación de los servicios relacionados con la FIREL será aplicada de modo tal que no excluya, restrinja o favorezca alguna tecnología en particular; y
+
+VI. No repudio: En un documento electrónico o en un mensaje de datos garantiza la autoría del firmante.
+
+###### Artículo 984.
+
+Para utilizar la FIREL emitida por el Consejo se deberá contar con:
+
+I. Un certificado digital vigente emitido en términos de este Título; y
+
+II. Una llave privada.
+
+###### Artículo 985.
+
+El certificado digital de la FIREL expedido por el Consejo deberá contener los siguientes datos:
+
+I. Número de serie;
+
+II. Autoridad certificadora que lo emitió;
+
+III. Algoritmo de firma;
+
+IV. Vigencia;
+
+V. Nombre del titular del certificado digital de la FIREL;
+
+VI. Dirección de correo electrónico del titular del certificado digital de la FIREL;
+
+VII. La CURP del titular del certificado digital de la FIREL;
+
+VIII. Llave pública; y
+
+IX. Versión de tipos de certificados digitales de la FIREL.
+
+###### Artículo 986.
+
+El certificado digital de la FIREL únicamente podrá ser solicitado y emitido a personas físicas con independencia de que éstas sean representantes de personas morales públicas o privadas, cuya solicitud se realizará exclusivamente por el interesado, sin que dicho trámite pueda efectuarse mediante apoderado o representante legal.
+
+###### Artículo 987.
+
+Para obtener un certificado digital de la FIREL emitido por el Consejo, el interesado ingresará a la dirección http://www.pjf.gob.mx/firel/, disponible en el portal de Internet del Consejo y de la Dirección General de Estadística Judicial; accederá al vínculo denominado FIREL y completará el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica, aprobadas por la Unidad.
+
+###### Artículo 988.
+
+La renovación deberá efectuarse dentro de los treinta días anteriores a la conclusión de su vigencia. Si en ese lapso no se renueva el certificado digital de la FIREL correspondiente, éste caducará y el interesado deberá formular una nueva solicitud.
+
+###### Artículo 989.
+
+Para llevar a cabo la renovación del certificado digital de la FIREL, el interesado ingresará a la dirección http://www.pjf.gob.mx/firel/ y completará el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica.
+
+###### Artículo 990.
+
+La solicitud de revocación sólo podrá ser realizada por el usuario final, durante el periodo de vigencia del certificado digital de la FIREL, para lo cual deberá ingresar a la dirección http://www.pjf.gob.mx/firel/ y completar el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica.
+
+###### Artículo 991.
+
+Además del supuesto previsto en el artículo anterior, sólo podrá revocarse un certificado por causa de muerte de su titular o por diversa que encuentre sustento en una disposición general y cuando la UNCOCEFI cuente con la documentación que acredite fehacientemente la existencia de dicha causa.
+
+El SEPJF revocará un certificado digital cuando con motivo de la solicitud de uno diverso se actualice duplicidad entre la llave pública de aquél y la del certificado digital materia de dicha solicitud, lo que se notificará al usuario final de aquél al correo electrónico que hubiere registrado en el formulario correspondiente.
+
+###### Artículo 992.
+
+Una vez revocado un certificado no podrá ser utilizado, por lo que si el interesado requiere de otro certificado digital de la FIREL tendrá que solicitarlo de nueva cuenta conforme al procedimiento establecido en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica.
+
+###### Artículo 993.
+
+Los titulares de certificados digitales de la FIREL expedidos por el Consejo tendrán los siguientes derechos:
+
+I. A la protección de sus datos personales, de conformidad con las disposiciones aplicables;
+
+II. Solicitar a la UNCOCEFI constancia de la existencia y vigencia de su certificado digital de la FIREL, cuando a sus intereses convenga; y
+
+III. Recibir información sobre los procedimientos de solicitud, emisión, renovación y revocación de los certificados digitales de la FIREL, así como de las instrucciones para su uso.
+
+###### Artículo 994.
+
+Los titulares de certificados digitales de la FIREL expedidos por el Consejo tendrán las siguientes obligaciones:
+
+I. Proporcionar datos y documentos verdaderos, completos y exactos al momento de tramitar la solicitud de su certificado digital;
+
+II. Resguardar la confidencialidad de su llave privada y de la clave de acceso a dicha llave, así como la de revocación del certificado digital de la FIREL;
+
+III. Mantener un control físico, personal y exclusivo de su certificado digital, llave privada y archivo con extensión .pfx;
+
+IV. Hacer uso debido de su certificado digital de la FIREL; y
+
+V. Revocar de inmediato su certificado digital de la FIREL cuando se ponga en riesgo la confidencialidad de la llave privada o de las claves referidas en la fracción II de este artículo.
+
+###### Artículo 995.
+
+Las conductas de los servidores públicos que impliquen el incumplimiento a los preceptos establecidos en este Título, dará lugar al procedimiento y a las sanciones que correspondan en términos de lo previsto en la Ley Orgánica, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y demás disposiciones aplicables.
+
+###### Artículo 996.
+
+Los servidores públicos de la Dirección General de Estadística Judicial, incluyendo los de la UNCOCEFI, deberán hacer del conocimiento de las autoridades competentes las conductas que pudieran constituir delitos o responsabilidad administrativa, de las que tengan conocimiento en ejercicio de sus funciones.
+
+###### Artículo 997.
+
+La Unidad para el Control de Certificación de Firmas del Consejo (UNCOCEFI) será la responsable de llevar a cabo los procedimientos para la emisión, renovación, revocación y consulta de los certificados digitales de la FIREL, por sí o, en los términos de la normativa aplicable, por conducto de los agentes certificadores que la auxilien.
+
+###### Artículo 998.
+
+La UNCOCEFI dependerá de la Dirección General de Estadística Judicial y tendrá la estructura orgánica que establezca el Pleno o la Comisión de Administración.
+
+###### Artículo 999.
+
+Los certificados digitales emitidos por la UNCOCEFI deberán cumplir con las especificaciones referidas en el estándar X.509 definido por la Unión Internacional de Telecomunicaciones de la Organización de Naciones Unidas.
+
+###### Artículo 1000.
+
+Corresponde a la UNCOCEFI:
+
+I. Administrar el sistema informático para la emisión de los certificados digitales de la FIREL;
+
+II. Emitir certificados digitales cuando así proceda;
+
+III. Certificar la documentación que acompañe el solicitante de un certificado digital;
+
+IV. Implementar programas de atención a solicitudes de certificados digitales de la FIREL;
+
+V. Rechazar las solicitudes de certificados que no cumplan con las políticas para la obtención de los certificados digitales de la FIREL;
+
+VI. Atender las solicitudes de revocación de certificados cuando el interesado se encuentre imposibilitado para realizar el proceso de revocación en línea;
+
+VII. Expedir los manuales generales de funcionamiento de los certificados digitales;
+
+VIII. Elaborar el reporte del número de certificados digitales que se han emitido o revocado;
+
+IX. Formular el reporte del número de solicitudes que han sido rechazadas;
+
+X. Coordinar los programas de asistencia a los usuarios finales de los certificados digitales de la FIREL emitidos por el Consejo;
+
+XI. Plantear la implementación de mejores prácticas para el uso de la FIREL;
+
+XII. Apoyar a las diversas áreas administrativas del Consejo para implementar en sus procedimientos administrativos el uso de la FIREL;
+
+XIII. Proponer al Consejo o a la Unidad, según corresponda, la celebración de convenios con otros órganos del Estado que cuenten con firma electrónica;
+
+XIV. Solicitar a la Dirección General de Tecnologías de la Información las modificaciones que se requieran en diversas aplicaciones para la implementación de la FIREL; y
+
+XV. Las demás que establezcan el Pleno o las Comisiones.
+
+###### Artículo 1001.
+
+La UNCOCEFI publicará en los medios de comunicación electrónica del Consejo, las políticas para la obtención y uso de los certificados digitales de la FIREL emitidos por el Consejo, así como los manuales de usuario necesarios.
+
+###### Artículo 1002.
+
+La UNCOCEFI deberá hacer pública la vigencia de los certificados digitales de la FIREL de los usuarios finales a los que el Consejo les emitió un certificado digital de la FIREL, la de los certificados de OCSP y de TSA, así como la información sobre los servicios relacionados con el uso de los certificados digitales.
+
+###### Artículo 1003.
+
+La Compilación Normativa es el compendio de los acuerdos generales, en las siguientes materias:
+
+I. Organización y funcionamiento institucional;
+
+II. Transparencia, protección de datos personales y archivos;
+
+III. Control y rendición de cuentas;
+
+IV. Actividad administrativa de los órganos jurisdiccionales;
+
+V. Actividad administrativa del Consejo; y
+
+VI. Los demás que determine el Pleno.
+
+Los acuerdos generales de la compilación normativa sólo se identifican por su denominación y no se numeran.
+
+El texto contenido en los acuerdos generales del Pleno, tanto de la Compilación Normativa como de otros diversos, por los que se reformen, adicionen o deroguen instrumentos normativos similares, se entenderá incorporado al instrumento original.
+
+###### Artículo 1004.
+
+Corresponde a la Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales:
+
+I. Clasificar y preparar la versión respectiva de cada uno de los acuerdos generales para su difusión en el portal de Internet del Consejo; y
+
+II. Incorporar las modificaciones que se realicen a los acuerdos generales del Pleno, al texto del instrumento que se modifica, a efecto de que se sustituyan, adicionen o supriman en el articulado.
+
+Lo previsto en este artículo se observará tanto en los acuerdos generales de la Compilación Normativa, como en otros diversos.
+
+###### Artículo 1005.
+
+El espacio del portal de Internet del Consejo en el que se publiquen los acuerdos generales deberá identificarse con la denominación de Sistema de Consulta de la Compilación Normativa, y en él se deben contener las versiones originales de los acuerdos generales, y de sus reformas, independientemente de la versión a la que alude el artículo anterior.
+
+###### Artículo 1006.
+
+Para efectos jurídicos los textos validos de los acuerdos generales y sus reformas serán aquellos que se publiquen en el Diario Oficial de la Federación, por lo que el único efecto del Sistema de Consulta de la Compilación Normativa, es la difusión de los instrumentos normativos que la componen, así como de otros acuerdos y disposiciones publicadas en el Diario Oficial de la Federación.
+
+###### Artículo 1007.
+
+Los proyectos de acuerdos generales relacionados con las materias a que se refiere el artículo 1003 de este Acuerdo, que presenten las áreas administrativas a la consideración de las Comisiones y del Pleno, deberán de tener por objeto reformar, adicionar o derogar preceptos de dichos acuerdos generales.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abrogan los siguientes acuerdos generales:
+
+I. Acuerdo General número 20/1999 del Pleno del Consejo de la Judicatura Federal, relativo al cambio de logotipo del propio Consejo;
+
+II. Acuerdo General 73/2000 del Pleno del Consejo de la Judicatura Federal, por el que se establece el premio Silvestre Moreno Cora, en reconocimiento a los servidores públicos del Poder Judicial de la Federación, que se hayan distinguido en el desempeño de sus responsabilidades, durante cincuenta años de servicios prestados;
+
+III. Acuerdo General 87/2000 del Pleno del Consejo de la Judicatura Federal, que abroga el diverso 9/1999 relativo al rol de diarios nacionales a los que se encomienda la publicación de avisos, convocatorias y esquelas del propio Consejo;
+
+IV. Acuerdo General 7/2003 del Pleno del Consejo de la Judicatura Federal, relativo a la instrumentación del Sistema de Administración Financiera del Poder Judicial de la Federación;
+
+V. Acuerdo General 24/2004 del Pleno del Consejo de la Judicatura Federal, que fija las bases para la desincorporación de toda clase de bienes muebles en el Consejo de la Judicatura Federal;
+
+VI. Acuerdo General 74/2004, del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento especial para la separación de los funcionarios por incapacidad física o mental para el ejercicio de sus cargos;
+
+VII. Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que regula el plan de pensiones complementarias de magistrados de Circuito y jueces de Distrito;
+
+VIII. Acuerdo General 30/2005, del Pleno del Consejo de la Judicatura Federal, relativo a las relaciones burocrático-laborales en el Poder Judicial de la Federación;
+
+IX. Acuerdo General 32/2006, del Pleno del Consejo de la Judicatura Federal, por el que se constituye el Comité de Políticas de Tecnologías de la Información del Consejo de la Judicatura Federal y se establecen las bases para su operación y funcionamiento;
+
+X. Acuerdo General 53/2006, del Pleno del Consejo de la Judicatura Federal, que establece los lineamientos para el arrendamiento y adquisición de inmuebles en el Consejo de la Judicatura Federal;
+
+XI. Acuerdo General 66/2006, del Pleno de Consejo de la Judicatura Federal, que reglamenta el proceso presupuestario en el Consejo de la Judicatura Federal;
+
+XII. Acuerdo General 76/2006, del Pleno del Consejo de la Judicatura Federal, que determina el criterio para nombrar y prorrogar los nombramientos de los servidores públicos de confianza, adscritos a los órganos auxiliares y unidades administrativas del propio Consejo;
+
+XIII. Acuerdo General 3/2007, del Pleno del Consejo de la Judicatura Federal, que regula la integración y funcionamiento del Comité de Inversión de recursos financieros del Consejo de la Judicatura Federal;
+
+XIV. Acuerdo General 17/2007 del Pleno del Consejo de la Judicatura Federal, por el que se regula la organización y funcionamiento del Fondo de Apoyo a la Administración de Justicia;
+
+XV. Acuerdo General 25/2007 del Pleno del Consejo de la Judicatura Federal, por el que se delegan atribuciones a las administraciones de los edificios propiedad o en uso del Consejo de la Judicatura Federal, ubicados en el Distrito Federal y área metropolitana, y se regula su funcionamiento;
+
+XVI. Acuerdo General 27/2007, del Pleno del Consejo de la Judicatura Federal, que regula la administración y destino de bienes asegurados no reclamados y decomisados a disposición del propio Consejo;
+
+XVII. Acuerdo General 46/2007, del Pleno del Consejo de la Judicatura Federal, por el que se regula el funcionamiento de los Centros de Desarrollo Infantil del Consejo de la Judicatura Federal;
+
+XVIII. Acuerdo General 6/2008, del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento para la revisión, dictaminación, suscripción, registro y resguardo de instrumentos jurídicos en el Consejo de la Judicatura Federal;
+
+XIX. Acuerdo General 6/2009, del Pleno del Consejo de la Judicatura Federal, que establece las bases para que las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con la misma, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
+
+XX. Acuerdo General 45/2011, del Pleno del Consejo de la Judicatura Federal, por el que se regula la licencia de paternidad, la licencia por adopción de una hija o un hijo, así como criterios adicionales para conceder licencias por concepto de cuidados maternos y paternos, en favor de las servidoras y los servidores públicos adscritos a los tribunales de circuito, juzgados de distrito y áreas administrativas del Consejo de la Judicatura Federal;
+
+XXI. Acuerdo General 48/2011 del Pleno del Consejo de la Judicatura Federal, que establece la jornada y el horario de trabajo de los servidores públicos adscritos a las áreas administrativas del propio Consejo;
+
+XXII. Acuerdo General 23/2012, del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de seguridad en las instalaciones del Poder judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral;
+
+XXIII. Acuerdo General 28/2012, de Pleno del Consejo de la Judicatura Federal, que prohíbe las actividades de compraventa de productos y servicios en los inmuebles administrados por el propio Consejo;
+
+XXIV. Acuerdo General 38/2012, del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de protección civil que deberán observarse en el Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral;
+
+XXV. Acuerdo General 34/2013 del Pleno del Consejo de la Judicatura Federal, que establece los lineamientos del registro automatizado de entrada y salida de servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas;
+
+XXVI. Acuerdo General 16/2014 del Pleno del Consejo de la Judicatura Federal, que instrumenta la aplicación de la Ley Federal Anticorrupción en Contrataciones Públicas;
+
+XXVII. Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se otorga y regula la prestación del Fondo de Reserva Individualizado bajo el esquema de Fondo de Ahorro para el personal de nivel operativo de los órganos jurisdiccionales federales y del Consejo de la Judicatura Federal;
+
+XXVIII. Acuerdo General 34/2014 del Pleno del Consejo de la Judicatura Federal, que regula la firma electrónica certificada del Poder Judicial de la Federación (FIREL) emitida por el propio
+
+Consejo; y
+
+XXIX. Acuerdo General 44/2014, del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones relativas a los expedientes personales de los servidores públicos a cargo del Consejo de la Judicatura Federal.
+
+CUARTO. Los asuntos en trámite deberán concluirse conforme a las disposiciones con las que fueron iniciados.
+
+QUINTO. Se derogan todas las disposiciones que opongan al presente Acuerdo General.
+
+EL MAGISTRADO LUIS FERNANDO ANGULO JACOBO, SECRETARIO EJECUTIVO DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, fue aprobado por el Pleno del Consejo, en sesión ordinaria de diecinueve de noviembre de dos mil catorce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Felipe Borrego Estrada, César Esquinca Muñoa, Martha María del Carmen Hernández Alvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a doce de diciembre de dos mil catorce.- Conste.- Rúbrica.
