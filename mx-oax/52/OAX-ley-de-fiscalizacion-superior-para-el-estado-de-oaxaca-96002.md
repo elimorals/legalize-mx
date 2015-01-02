@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-para-el-estado-de-oaxaca-96002"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-30"
-last_updated: "2014-03-24"
+last_updated: "2015-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE OAXACA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA LEY, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2015 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2015.
 
 Ley publicada en el número Extra del Periódico Oficial del Estado de Oaxaca, el viernes 30 de agosto del año 2013.
 
@@ -311,7 +313,7 @@ La Auditoría y los demás órganos internos de control respecto al ejercicio y 
 
 ###### Artículo 20.
 
-Las entidades fiscalizables, presentarán a la Auditoría, en forma consolidada dentro de los treinta días naturales siguientes a la conclusión del período, el informe de avance, sobre los resultados físicos y financieros de los programas a su cargo, a fin de que la Auditoría, fiscalice en forma simultánea, pero posterior a la conclusión de los procesos correspondientes, de forma preventiva y complementaria, los ingresos y egresos, la administración, custodia, manejo y la aplicación de sus fondos y recursos, así como el grado de cumplimiento de los objetivos contenidos en dichos programas; (sic)
+Las entidades fiscalizables, presentarán a la Auditoría, en forma consolidada dentro de los treinta días naturales siguientes a la conclusión del período, el informe de avance, sobre los resultados físicos y financieros de los programas a su cargo, a fin de que la Auditoría, fiscalice en forma simultánea, pero posterior a la conclusión de los procesos correspondientes, de forma preventiva y complementaria, los ingresos y egresos, la administración, custodia, manejo y la aplicación de sus fondos y recursos, así como el grado de cumplimiento de los objetivos contenidos en dichos programas;
 
 ###### Artículo 21.
 
@@ -422,6 +424,12 @@ V. Así como todas aquellas acciones que deriven de las facultades y atribucione
 ###### Artículo 27.
 
 Para los efectos de la revisión y fiscalización de la gestión financiera y de las Cuentas Públicas de los Municipios, el Ayuntamiento remitirá a la Auditoría, dentro de los treinta días naturales al inicio del ejercicio presupuestal, los presupuestos de egresos basados en resultados, debidamente aprobados, e informará a la misma, dentro de los treinta días naturales siguientes, de las modificaciones que en su caso se aprueben.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### Artículo 27 Bis.
+
+Cuando por motivo del cambio de administración las autoridades municipales entrante y saliente no cumplan con lo dispuesto por los artículos 182 y 183 de la Ley Orgánica Municipal del Estado de Oaxaca, la Auditoría tomará en cuenta estas circunstancias, y de manera preferente dará inicio a la revisión y fiscalización de la Cuenta Pública de ese Municipio y/o de la gestión financiera; sin perjuicio de los procedimientos de responsabilidades que con motivo de esta omisión haya lugar.
 
 ###### Artículo 28.
 
@@ -539,7 +547,11 @@ XLVII. Establecer, verificar y evaluar las normas, procedimientos, métodos y si
 
 XLVIII. Expedir los Manuales Internos para la tramitación de los expedientes y documentos de cada una de las áreas administrativas que conforman a la Auditoría; y,
 
-XLIX. Las demás que le sean conferidas en la presente Ley, el Código y demás disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2015)</small>
+
+XLIX. Recibir del Presidente Municipal saliente, dentro de los 15 días hábiles siguientes a la fecha en que debe realizarse la toma de posesión, los documentos contables y administrativos que refiere el artículo 183 de la Ley Orgánica Municipal del Estado de Oaxaca, para su entrega posterior al Ayuntamiento de que se trate, dentro de los 30 días hábiles siguientes al de su recepción; y
+
+L. Las demás que le sean conferidas en la presente Ley, el Código y demás disposiciones legales aplicables.
 
 ### CAPÍTULO III
 
@@ -719,7 +731,7 @@ V. Coadyuvar con el Ministerio Público en la investigación de responsabilidad 
 
 ###### Artículo 50.
 
-Para efectos de ésta Ley, incurren en responsabilidad administrativa resarcitoria, los servidores públicos y los particulares, personas físicas o morales, por actos u omisiones que causen daño, perjuicio o ambos, estimables en dinero, a las haciendas públicas estatal (sic) o municipales o al patrimonio de las entidades fiscalizables.
+Para efectos de ésta Ley, incurren en responsabilidad administrativa resarcitoria, los servidores públicos y los particulares, personas físicas o morales, por actos u omisiones que causen daño, perjuicio o ambos, estimables en dinero, a las haciendas públicas estatal o municipales o al patrimonio de las entidades fiscalizables.
 
 ###### Artículo 51.
 
@@ -891,7 +903,7 @@ I. Organizar y practicar, la revisión de la información económica, financiera
 
 II. Elaborar y poner a la consideración del Auditor Superior el Programa Anual de Actividades de la Auditoría, así como el Programa Anual de Auditorías, Visitas e Inspecciones, considerado en todo momento las propuestas que realice el Subauditor a cargo de la Fiscalización.
 
-III. Resguardar los dictámenes y las copias de los expedientes derivados de las actas de entrega-recepción que con motivo del cambio de administración municipal deban elaborarse;
+III. (DEROGADA, P.O. 2 DE ENERO DE 2015)
 
 IV. Elaborar y ejecutar el Programa de Capacitación tanto a las entidades fiscalizables, como del personal de la Auditoría;
 
@@ -1213,7 +1225,7 @@ Los medios de apremio establecidos en el artículo anterior son procedentes en l
 
 I. No den cumplimiento, a los requerimientos formulados por la Auditoría;
 
-II. Obstaculicen o impidan de forma intencional, bien sea por acción u omisión, el ejercicio de las atribuciones de la Auditoría, durante los procedimientos de revisión y fiscalización de las Cuentas Públicas o de los Informes de Avance; (sic)
+II. Obstaculicen o impidan de forma intencional, bien sea por acción u omisión, el ejercicio de las atribuciones de la Auditoría, durante los procedimientos de revisión y fiscalización de las Cuentas Públicas o de los Informes de Avance;
 
 ###### Artículo 95.
 
@@ -1225,9 +1237,17 @@ II. Presentar los Informes de Avance en los plazos establecidos en la presente L
 
 III. Presentar la Cuenta Pública en los plazos establecidos en la presente Ley;
 
-IV. Presentar el dictamen y copia del expediente derivado de la entrega recepción de la administración Municipal;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
 
-V. Presentar el inventario de los bienes que integran el patrimonio de la administración pública Municipal y sus modificaciones.
+IV. Presentar el expediente derivado de la Entrega-Recepción de la administración municipal; y copia certificada del acta circunstanciada levantada con motivo del acto de Entrega-Recepción, por parte del Presidente Municipal entrante, en los términos señalados por la Ley aplicable.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2015)</small>
+
+V. Entregar sin causa justificada la administración junto con los bienes y documentación a que se refieren los Capítulos III y IV del Título Octavo de la Ley Orgánica Municipal del Estado de Oaxaca, por parte del Presidente Municipal saliente, sin perjuicio de los plazos extraordinarios que procedan en términos de lo dispuesto por el artículo 182 de dicha Ley; y
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+
+VI. Presentar el inventario de los bienes que integran el patrimonio de la Administración Pública Municipal y sus modificaciones.
 
 ###### Artículo 96.
 
@@ -1311,7 +1331,7 @@ DIP. PAVEL RENATO LÓPEZ GÓMEZ.
 
 SECRETARIO.
 
-Por tanto, mando que se imprima, publique, circule y se Ie dé eI debido cumplimiento.
+Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Palacio de Gobierno, Centro, Oax., a 13 de agosto de 2013.
 
@@ -1342,3 +1362,11 @@ P.O. 24 DE MARZO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan a las presentes reformas y adiciones contenidas en la Ley de Fiscalización Superior para el Estado de Oaxaca.
+
+P.O. 2 DE ENERO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Para efectos del Artículo 27 Bis de la Ley de Fiscalización Superior para el Estado de Oaxaca, la Auditoría Superior del Estado, en su caso, deberá observar lo dispuesto en el mismo a partir de la revisión y fiscalización a los Municipios correspondiente al Ejercicio Fiscal 2014.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones contenidas en la Ley Orgánica Municipal del Estado de Oaxaca y de la Ley de Fiscalización Superior para el Estado de Oaxaca.
