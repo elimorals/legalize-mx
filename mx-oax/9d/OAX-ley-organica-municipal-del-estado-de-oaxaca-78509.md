@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2014-09-06"
+last_updated: "2015-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -363,11 +365,13 @@ Para el acto a que se refiere el párrafo anterior, el Ayuntamiento en funciones
 
 Una vez terminada la sesión solemne de protesta, el Presidente Municipal saliente hará entrega formal de la administración al Presidente electo, ante los concejales que concluyan e inicien su ejercicio.
 
-La entrega se hará en instrumento que contenga los siguientes documentos contables y administrativos: informes trimestrales de avance de gestión financiera; estado que guarda la cuenta pública municipal; situación de la deuda publica municipal y su registro; estado de la obra pública ejecutada y en proceso; situación que guardan las aportaciones estatales y federales, con sus respectivos comprobantes; inventario y registro del patrimonio municipal; la demás información que se estime relevante para el ejercicio administrativo. Se acompañarán también los libros de actas del Cabildo saliente, así mismo (sic), hará entrega del archivo municipal.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+La Entrega-Recepción se sujetará a lo establecido en el Título Octavo de esta Ley.
 
 ###### ARTÍCULO 38.
 
-Del acto de entrega-recepción referido se levantará un acta circunstanciada que firmarán todos los que intervinieron, proporcionándoles copia debidamente certificada. En un término de treinta días naturales se emitirá por el Ayuntamiento entrante un dictamen sobre el acta de entrega-recepción, remitiéndose dentro de los quince días hábiles siguientes a la Auditoría Superior del Estado, copia del expediente de entrega-recepción y el correspondiente dictamen, para el efecto de revisión de las cuentas públicas municipales.
+(DEROGADO, P.O. 2 DE ENERO DE 2015)
 
 ###### ARTÍCULO 39.
 
@@ -453,7 +457,9 @@ XX.- Resolver en los términos convenientes para la comunidad, los casos de conc
 
 XXI.- Elaborar y presentar ante el Congreso del Estado a más tardar el último día del mes de noviembre de cada año la iniciativa de Ley de Ingresos Municipales que deberá regir durante el año fiscal siguiente.
 
-XXII.- Remitir al Congreso del Estado a más tardar el quince del mes de junio la cuenta pública municipal de año anterior para su revisión y fiscalización;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+
+XXII.- Remitir al Congreso del Estado a más tardar el último día hábil del mes de febrero, la Cuenta Pública Municipal del año anterior para su revisión y fiscalización;
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
@@ -1599,7 +1605,7 @@ Las Leyes de Ingresos Municipales una vez aprobadas por el Congreso del Estado t
 
 ###### ARTÍCULO 123.
 
-La iniciativa de la Ley de Ingresos municipales y el Presupuesto de Egresos, se deberán elaborar por el Ayuntamiento con estricto apego a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a las disposiciones contenidas en las leyes y decretos fiscales federales, estatales y municipales que resulten aplicables y con base en los convenios respectivos. La iniciativa de Ley de Ingresos municipales deberá aprobarse por la mayoría calificada del cabildo para su presentación como iniciativa de Ley ante el Congreso del Estado a más tardar el último día del mes de noviembre de cada año.
+La iniciativa de laLey de Ingresos municipales y el Presupuesto de Egresos, se deberán elaborar por el Ayuntamiento con estricto apego a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a las disposiciones contenidas en las leyes y decretos fiscales federales, estatales y municipales que resulten aplicables y con base en los convenios respectivos. La iniciativa de Ley de Ingresos municipales deberá aprobarse por la mayoría calificada del cabildo para su presentación como iniciativa de Ley ante el Congreso del Estado a más tardar el último día del mes de noviembre de cada año.
 
 En caso de que la iniciativa de Ley de Ingresos municipales no se apruebe por la Legislatura a mas tardar el 31 de diciembre del año inmediato anterior al en que deba entrar en vigor, se prorrogará por treinta días naturales la última ley de ingresos publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, previniendo al Ayuntamiento para que subsane su omisión.
 
@@ -1971,9 +1977,17 @@ Son deberes del Cronista o del Consejo de Cronistas: llevar un registro de hecho
 
 Son atribuciones y derechos del Cronista o del Consejo e (sic) Cronistas: usar como emblema el escudo del Municipio en su papelería oficial, proponer al Ayuntamiento el otorgamiento de testimonios y reconocimientos a ciudadanos distinguidos y obtener del Ayuntamiento la ayuda necesaria para el desempeño de su labor.
 
+### CAPÍTULO I. DEL COMITÉ INTERNO
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO 165.
 
 Los Ayuntamientos están obligados a observar y dar cumplimiento a las disposiciones contenidas en las Leyes de Transparencia y Acceso a la Información Pública; de Protección de Datos Personales; y de Archivos.
+
+### CAPÍTULO II. DE LA COMISIÓN MUNICIPAL DE ENTREGA-RECEPCIÓN
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTÍCULO 166.
 
@@ -1986,6 +2000,360 @@ Las infracciones administrativas cometidas a esta Ley, Bandos de Policía y Gobi
 ###### ARTÍCULO 168.
 
 Los servidores públicos municipales deberán presentar su declaración patrimonial en los términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
+
+## TÍTULO OCTAVO. DE LA ENTREGA-RECEPCIÓN MUNICIPAL
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE ENERO DE 2015)</small>
+
+### CAPÍTULO III. DEL ACTA DE ENTREGA-RECEPCIÓN
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 169.
+
+La administración saliente constituirá en sesión de cabildo dentro de los quince días hábiles siguientes a la expedición de las constancias de mayoría y validez al Ayuntamiento electo, un Comité Interno de Entrega, formado por un integrante de cada área que constituya el Municipio, con la finalidad de realizar las acciones previas tendientes a facilitar la Entrega-Recepción.
+
+Dicho Comité tendrá además las siguientes obligaciones:
+
+I. Elaborar y aprobar el calendario de actividades, tendientes a preparar la información y documentación relacionada con la entrega;
+
+II. Coordinar las acciones encaminadas a la integración de la documentación e información que servirá de base a la Comisión Municipal de Entrega-Recepción, para cumplir con el proceso de Entrega-Recepción;
+
+III. Dar seguimiento al calendario de actividades para evaluar su cumplimiento, conocer de los problemas que se presenten y tomar las medidas preventivas y correctivas; y
+
+IV. Elaborar un informe de los trabajos realizados de acuerdo al calendario de actividades, con corte a los quince días hábiles siguientes a la constitución de dicho Comité, del año en que concluya la gestión.
+
+El Comité Interno concluirá sus funciones una vez conformada la Comisión Municipal de Entrega-Recepción, debiendo proporcionar a ésta, la información y documentación hasta esa fecha integrada.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
+
+### CAPÍTULO IV. DE LOS BIENES Y DOCUMENTACIÓN SUJETOS A ENTREGA
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 170.
+
+A más tardar el último día hábil del mes anterior al en que concluya su gestión el Presidente Municipal en funciones, se constituirá en sesión de cabildo para establecer coordinadamente con el Presidente Municipal electo, una Comisión Municipal de Entrega-Recepción.
+
+Dicha comisión deberá estar integrada para el caso de la administración en funciones por lo estipulado en el artículo 169 de este ordenamiento; y por parte de la administración entrante, por todos los integrantes del Cabildo.
+
+Al efecto, el Presidente Municipal entrante, enviará escrito al Presidente Municipal en funciones, solicitando se fije fecha, hora y lugar, para iniciar los trabajos correspondientes.
+
+Una vez establecida la comunicación entre ambas administraciones, celebrarán una primera reunión, donde formalmente serán designadas las personas que integrarán la Comisión Municipal; de esta reunión, elaborarán acta con la firma de quienes en ella intervengan.
+
+En el caso de las hipótesis señaladas en el artículo 40 y Capítulo Quinto de este ordenamiento, la integración de la Comisión que se menciona en este artículo, se hará por el Presidente del Concejo o Encargado de la Administración Municipal designado según sea el caso.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 171.
+
+La Comisión, dentro de los cinco días hábiles siguientes a su integración, deberá elaborar y autorizar el programa de trabajo de las actividades que realizarán las áreas administrativas para la Entrega-Recepción de los bienes y la documentación que fue preparada por el Comité Interno de Entrega; además, establecerá los mecanismos para evaluar y dar seguimiento a los avances de dicho programa.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 172.
+
+La Comisión tendrá las siguientes atribuciones:
+
+I. Celebrar reuniones para conocer el grado de avance en la actualización e integración de la información y documentación de las áreas administrativas, para evaluar el cumplimiento del programa previamente establecido;
+
+II. Conocer de los problemas que se presenten en las actividades programadas y tomar las medidas correctivas para su solución;
+
+III. Coordinar los trabajos previos a la Entrega-Recepción, vigilando la actualización de los expedientes, así como la demás información y documentación; y
+
+IV. Las funciones y responsabilidades que esta Ley establece a la Comisión Municipal, concluirán una vez que se efectué la renovación de la administración municipal.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 173.
+
+Las actividades que desarrollen los integrantes de la Comisión Municipal del Ayuntamiento entrante, serán únicamente con el objeto de conocer de manera general los bienes y documentación, así como las responsabilidades que habrán de recibir, por lo que no podrán interferir en el desarrollo normal de las funciones oficiales, sustraer información o tomar posesión de bienes antes de la Entrega-Recepción.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
+
+### CAPÍTULO V. DE LAS ACLARACIONES
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 174.
+
+En la fecha a que se refiere el primer párrafo del artículo 37 de esta Ley, los sujetos obligados, deberán llevar a cabo un acto formal en el que se hará entrega de la Administración Municipal al Presidente electo mediante acta circunstanciada, misma que deberá sujetarse a lo dispuesto en los artículos 175, 176 y 177 del presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 175.
+
+El Acta de Entrega-Recepción, deberá contener como mínimo los siguientes requisitos:
+
+I. La fundamentación y motivación legal;
+
+II. Lugar, hora y fecha en que da inicio el acto;
+
+III. El nombre y cargo de las personas que intervienen en el acto que en el caso de la Administración saliente será el Presidente y Síndico Municipal; y por la entrante, el Presidente y Síndico, quienes se identificarán plenamente;
+
+IV. Relacionar el conjunto de hechos que la Entrega-Recepción comprende, así como las incidencias que pudieran acontecer en el desarrollo de la misma, las que deberán manifestarse bajo protesta de decir verdad;
+
+V. Realizarse con la presencia de dos personas que fungirán como testigos de asistencia;
+
+VI. Indicar el número, tipo y contenido de los documentos que se anexan y que complementan el acta;
+
+VII. Señalar lugar, hora y fecha en que concluye el acto;
+
+VIII. Relacionar los formatos y anexos que forman parte del acta, los que además deberán contener la firma de los titulares de las áreas administrativas y de los entes públicos de la administración saliente y entrante;
+
+IX. Formularse en tres tantos;
+
+X. No debe de contener tachaduras, enmendaduras o borraduras; los errores deben corregirse mediante guiones, antes del cierre del acta;
+
+XI. Contener firmas al margen y al calce en todas las hojas del acta por quienes intervienen; en caso de negativa de algunos de ellos, se hará constar en la misma;
+
+XII. Las cantidades deben de ser asentadas en número y letra; y
+
+XIII. Las hojas que conforman el acta, así como los formatos y anexos que integrarán el expediente del acta de Entrega-Recepción, deberán foliarse en forma consecutiva y elaborarse en papel membretado.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 176.
+
+El acta de Entrega-Recepción deberá firmarse al momento de su conclusión y cierre por todos los miembros que en ella intervinieron; debiendo certificarse tres juegos por el Secretario Municipal saliente cuya distribución se hará de la siguiente manera:
+
+I. El primer ejemplar quedará en poder del Presidente Municipal entrante;
+
+II. El segundo ejemplar quedará en poder del Presidente Municipal saliente; y
+
+III. El tercer ejemplar deberá remitirse conjuntamente con el expediente de Entrega-Recepción a la Auditoría Superior del Estado, por el Presidente Municipal entrante, dentro de los quince días hábiles siguientes a la firma del acta de Entrega-Recepción.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
+
+### CAPÍTULO VI. DE LA VIGILANCIA
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 177.
+
+Los bienes y documentación que la administración saliente deberá entregar a la entrante de manera enunciativa y no limitativa son las (sic) siguientes:
+
+I. Recursos Humanos.
+
+a) Estructura Organizacional;
+
+b) Plantilla actualizada del personal con nombre, puesto, adscripción y detalle de sus percepciones mensuales, así como la indicación de que si se encuentra sujeto a contrato por tiempo determinado, indeterminado o por obra determinada;
+
+c) Relación de personal con licencias y permisos;
+
+d) Relación de percepciones pendientes de cubrir a los trabajadores explicando las causas que las motivaron; y
+
+e) Relación de juicios laborales en trámite y laudos pendientes de cumplir.
+
+II. Recursos Materiales.
+
+a) Relación del mobiliario y equipo de oficina, así como de los artículos de decoración, libros y demás similares;
+
+b) Relación de equipos de transporte;
+
+c) Relación de vehículos siniestrados, adjuntando la documentación relativa al siniestro y la recuperación respectiva;
+
+d) Relación de existencias en los almacenes, debidamente consignados en actas de levantamiento de inventario físico;
+
+e) Relación de archivos;
+
+f) Relación de adquisiciones de bienes y servicios autorizados que se encuentran en trámite;
+
+g) Relación de maquinaria, equipo y herramienta propiedad del Ayuntamiento y en comodato, incluyendo los que fueron dados de baja; y
+
+h) Relación de bienes inmuebles y la documentación que acredite la propiedad de los mismos.
+
+III. Recursos Financieros.
+
+a) Presupuesto de Egresos vigente;
+
+b) Ley de Ingresos vigente y el Proyecto del siguiente ejercicio;
+
+c) Ley de Hacienda Municipal del Estado de Oaxaca;
+
+d) Relación de cuentas bancarias que en su caso se manejen, acompañando su último estado de cuenta expedido por la institución bancaria correspondiente;
+
+e) Relación de inversiones, depósitos, títulos o cualquier otro contrato con instituciones de crédito, casas de bolsa u otra institución similar a éstas;
+
+f) Relación de documentos y cuentas por cobrar;
+
+g) Programas de inversión en infraestructura, avance de los mismos e informe técnico justificativo;
+
+h) Relación de pasivos y compromisos de corto plazo;
+
+i) Estado de la Deuda Pública debidamente autorizada por el Congreso del Estado;
+
+j) Estados financieros y presupuestales de la Hacienda Pública Municipal; y
+
+k) Documentación comprobatoria y justificativa del ingreso y del gasto.
+
+IV. Convenios, contratos, acuerdos de coordinación y de cualquier otra índole.
+
+a) Relación de acuerdos de coordinación, especificando alcance e importe de recursos económicos comprometidos;
+
+b) Relación de contratos de consultorías, arrendamientos, compra-venta, poderes otorgados, servicios, asesorías o de cualquier otra índole, debiéndose anexar los contratos relativos;
+
+c) Relación de otros convenios, actos o hechos no señalados en los párrafos que anteceden de los cuales deriven o puedan derivar derechos u obligaciones;
+
+d) Relación de reglamentos municipales vigentes; y
+
+e) Relación de libros de actas de sesiones de cabildo y el contenido de los mismos.
+
+V. Asuntos en Trámite.
+
+a) Relación de asuntos de trámite pendientes de resolver ante autoridades judiciales o administrativas, con la descripción clara de su situación procedimental, así como la especificación detallada de sus posibles consecuencias;
+
+b) Todos los asuntos administrativos que se les deba dar trámite dentro de los 60 días contados a partir del día de inicio de gestión de la nueva administración municipal; y
+
+c) Todos aquellos asuntos que de alguna forma comprometan el patrimonio municipal.
+
+VI. Expedientes Fiscales.
+
+a) Padrón de contribuyentes;
+
+b) Inventario de formas valoradas;
+
+c) Inventario de recibos de ingresos;
+
+d) Relación de rezagos; y
+
+e) Legislación fiscal.
+
+VII. Expedientes que contengan observaciones, recomendaciones, requerimientos o apercibimientos emitidos por la Auditoria Superior del Estado y por el Congreso a través de la Comisión correspondiente.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 178.
+
+Corresponde a las Autoridades Municipales entrantes, al recibir la Administración Municipal, dar seguimiento a los asuntos en trámite en el ámbito de su competencia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
+
+### CAPÍTULO VII. DE LAS RESPONSABILIDADES
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 179.
+
+Los integrantes del Cabildo que manejen recursos humanos, materiales y/o financieros, deberán verificar el estado que guardan los mismos, así como la información y documentación recibida que señala el artículo 177, de este ordenamiento en un término no mayor a 30 días hábiles, contando a partir de la fecha en que inicien sus funciones, plazo durante el cual podrán requerir a los sujetos obligados de la administración saliente, realicen por escrito las aclaraciones o justificaciones y en su caso, proporcionen la información adicional que se les requiera.
+
+Si los servidores públicos mencionados con anterioridad, no procedieran de conformidad con el párrafo anterior, se entenderá que están conformes con la Entrega-Recepción.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 180.
+
+Los servidores públicos de la administración saliente tienen la obligación de atender los requerimientos de aclaraciones o justificaciones que se les hagan, dentro del plazo que se menciona en el artículo anterior, de no hacerlo incurrirán en responsabilidad, en términos de lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 181.
+
+La Entrega-Recepción no exime a los servidores públicos de la administración saliente, de las responsabilidades en que hubieren incurrido en su gestión municipal, por lo tanto, éstas podrán ser denunciadas o promovidas con posterioridad a dicho proceso, en tanto no prescriban conforme a la legislación aplicable.
+
+El Ayuntamiento entrante recibirá los bienes y recursos municipales tal y como los encuentre física o documentalmente, pues la recepción no implica que se deslinde responsabilidad alguna o que se avale la información contenida en el expediente de Entrega-Recepción.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 182.
+
+En caso de que la administración saliente no entregue los bienes y documentación a su cargo en los términos de esta Ley, el Ayuntamiento entrante formulará acta circunstanciada, con asistencia de dos testigos, para dejar constancia del estado en que se encuentren los asuntos, remitiendo a la Auditoría Superior del Estado, copia certificada de dichas actuaciones.
+
+La Auditoría Superior del Estado, requerirá por una sola ocasión a los servidores públicos salientes que hayan sido omisos, para que dentro de un plazo no mayor a 15 días hábiles siguientes a la notificación cumplan con esta obligación. De persistir el incumplimiento, la Auditoría Superior del Estado procederá a promover las responsabilidades que correspondan.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 183.
+
+Cuando por causas de fuerza mayor, caso fortuito, o ante la negativa de la administración entrante de recibir la administración y documentación en términos de esta Ley, no sea posible llevar a cabo el acto de Entrega-Recepción; el Presidente Municipal saliente, formulará acta circunstanciada, con asistencia de dos testigos, para dejar constancia de estos hechos, misma que entregará a la Auditoría Superior del Estado, dentro de los 15 días hábiles siguientes a la fecha en que debe realizarse al toma de posesión. La Auditoría Superior del Estado recibirá en calidad de depositaria únicamente los documentos que a continuación se mencionan y que forman parte del acta circunstanciada levantada:
+
+a) Informes trimestrales de avance de gestión financiera;
+
+b) Estado que guarda la Cuenta Pública Municipal;
+
+c) Situación de la Deuda Pública Municipal y su registro;
+
+d) Estado de la obra pública ejecutada y en proceso; y
+
+e) Situación que guardan las aportaciones estatales y federales, con sus respectivos comprobantes.
+
+Una vez recibida esta documentación, la Auditoría Superior del Estado deberá realizar la devolución de la misma a la Autoridad Municipal entrante en un plazo de 30 días hábiles.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 184.
+
+Corresponde a la Auditoría Superior del Estado, vigilar dentro del ámbito de competencia que le confiere el presente Título de esta Ley, que la Entrega-Recepción se haya llevado a cabo conforme a lo establecido, para ello tendrá además las facultades siguientes:
+
+I. Requerir a los sujetos obligados, la información y documentación necesaria para conocer el cumplimiento de las disposiciones de esta Ley; y
+
+II. Promover los procedimientos de responsabilidades que deriven del incumplimiento de las obligaciones establecidas en esta Ley, o de las disposiciones que al efecto emita, de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 185.
+
+Para efectos del presente Título, son facultades del Síndico Municipal las siguientes:
+
+I. Vigilar que los titulares de las áreas administrativas provean la información y documentos relativos a la Entrega-Recepción;
+
+II. Supervisar que los sujetos obligados cumplan en tiempo y forma las disposiciones establecidas en esta Ley y las que emita la Auditoría Superior del Estado; y
+
+III. Informar al Ayuntamiento de los avances en el cumplimiento del proceso de Entrega-Recepción.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 186.
+
+El incumplimiento a las disposiciones de la presente Ley, será sancionado en los términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Oaxaca y demás que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 187.
+
+De las autoridades competentes para conocer de las irregularidades que se deriven del proceso de Entrega-Recepción, serán, según corresponda:
+
+I. El Congreso del Estado, cunado las irregularidades las cometan los integrantes de los Ayuntamientos entrante o saliente; y
+
+II. El Ayuntamiento, cuando los actos u omisiones sean cometidos por servidores públicos o ex servidores de la administración municipal que no sean de elección popular.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 188.
+
+Para efectos de esta Ley existe responsabilidad relacionada con el proceso de Entrega-Recepción, cuando se cometan las siguientes conductas:
+
+a) No establecer el Comité Interno de Entrega;
+
+b) No establecer de forma coordinada la Comisión Municipal de Entrega-Recepción;
+
+c) No proporcionar el apoyo relacionado con la información y documentación que requiera la Comisión Municipal de Entrega-Recepción;
+
+d) No elaborar los calendarios de actividades y los programas de trabajo que refiere esta Ley;
+
+e) No actualizar los registros, controles e inventarios necesarios para llevar a cabo el proceso de Entrega-Recepción;
+
+f) No realizar las aclaraciones o justificaciones requeridas o hacerlas de forma incompleta o inexacta;
+
+g) No realizar el proceso de Entrega-Recepción en las fechas y términos que dispone esta Ley;
+
+h) Omitir y ocultar información y documentación que resulte relevante para el adecuado funcionamiento de la administración entrante; y
+
+i) Los demás actos u omisiones que obstaculicen o impidan de cualquier forma que el proceso de Entrega-Recepción se realice conforme a lo establecido en esta Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 189.
+
+El Congreso del Estado podrá sancionar en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, a los miembros del Ayuntamiento entrante o saliente que incurran en responsabilidad relacionada con el proceso de Entrega-Recepción y promover las responsabilidades que procedan ante las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+###### ARTÍCULO 190.
+
+Los Ayuntamientos sancionarán a los servidores o ex servidores públicos municipales que no sean de elección popular, cuando incurran en responsabilidad relacionada con el proceso de Entrega-Recepción en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, y promover las responsabilidades que procedan ante las autoridades competentes.
 
 T R A N S I T O R I O S :
 
@@ -2132,3 +2500,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se adiciona una fracción al artículo 43 de la Ley Orgánica Municipal del Estado de Oaxaca; recorriéndose la fracción LXVI a la fracción LXVII.
 
 TERCERO. Se adiciona una fracción al artículo 68 de la Ley Orgánica Municipal del Estado de Oaxaca; recorriéndose la fracción XXIX a la fracción XXX.
+
+P.O. 2 DE ENERO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO:- Para efectos del Artículo 27 Bis de la Ley de Fiscalización Superior para el Estado de Oaxaca, la Auditoría Superior del Estado, en su caso, deberá observar lo dispuesto en el mismo a partir de la revisión y fiscalización a los Municipios correspondiente al Ejercicio Fiscal 2014.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones contenidas en la Ley Orgánica Municipal del Estado de Oaxaca y de la Ley de Fiscalización Superior para el Estado de Oaxaca.
