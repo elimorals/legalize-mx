@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-administrativa-para-el-estado-de-oaxaca-47648"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2012-07-18"
+last_updated: "2015-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE JULIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2015.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 2005.
 
@@ -53,7 +51,7 @@ LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
 La presente Ley es de orden público y de interés social, se aplicará en todo el Estado de Oaxaca en los actos administrativos y los procedimientos que desarrollen las Dependencias del Poder Ejecutivo del Gobierno del Estado, Entidades Paraestatales y Órganos Desconcentrados de la Administración Pública Estatal; cuando estas emitan una resolución administrativa de cualquier naturaleza; por los Ayuntamientos de los Municipios del Estado de Oaxaca, por las Dependencias de estos y por sus Entidades Paramunicipales, en los términos establecidos por el artículo 111 segundo párrafo e inciso C de la Constitución Política del Estado. De igual forma regulará la organización y funcionamiento del Tribunal de lo Contencioso Administrativo del Estado de Oaxaca y la impartición de la Justicia Administrativa en el Estado de Oaxaca.
 
-La presente Ley no será aplicable a las materias de carácter electoral, de justicia agraria y laboral, resoluciones administrativas que tengan relación con la defensa de los derechos humanos, con las actividades desarrolladas por la Universidad Autónoma “Benito Juárez” de Oaxaca; ni por las dictadas por el Ministerio Público en ejercicio de sus funciones constitucionales de investigación de los delitos o de la representación social. NI (SIC) con los conflictos suscitados entre los integrantes de los Ayuntamientos ni por la elección de las autoridades auxiliares de carácter municipal.
+La presente Ley no será aplicable a las materias de carácter electoral, de justicia agraria y laboral, resoluciones administrativas que tengan relación con la defensa de los derechos humanos, con las actividades desarrolladas por la Universidad Autónoma “Benito Juárez” de Oaxaca; ni por las dictadas por el Ministerio Público en ejercicio de sus funciones constitucionales de investigación de los delitos o de la representación social. NI con los conflictos suscitados entre los integrantes de los Ayuntamientos ni por la elección de las autoridades auxiliares de carácter municipal.
 
 ###### ARTICULO 2.
 
@@ -179,13 +177,13 @@ III. Por revocación, cuando así lo exija el interés público, de acuerdo con 
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(F. DE E. , P.O. 3 DE JUNIO DE 2006)</small>
+> <small>(F. DE E., P.O. 3 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 10.
 
 El Procedimiento Administrativo General en el Estado de Oaxaca es común a todas las autoridades de naturaleza administrativa a las que se refiere el artículo 1 de la presente Ley, y tiene como objetivo ampliar las posibilidades de legalidad y certeza jurídica tanto para la Autoridad como para el administrado, es supletorio a la Ley o Reglamento con la que actúa la autoridad y tiende a otorgar garantías procesales al particular, bajo los principios del procedimiento administrativo general, el que se desarrollará con arreglo a los principios de economía, celeridad, eficacia, legalidad, publicidad y buena fe, pudiendo tener inicio de oficio o a petición de parte interesada, sin que la autoridad pueda exigir más formalidades que las expresamente previstas en la presente Ley.
 
-> <small>(F. DE E. , P.O. 3 DE JUNIO DE 2006)</small>
+> <small>(F. DE E., P.O. 3 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 11.
 
@@ -825,7 +823,7 @@ V. Entre particulares y otros organismos públicos, cuando las leyes de la mater
 
 El Tribunal se integrará por:
 
-I.- Órganos:
+I. Órganos:
 
 a) El Pleno;
 
@@ -843,7 +841,7 @@ b) Secretario General de Acuerdos;
 
 c) Jueces de primera instancia de lo Contencioso Administrativo;
 
-c (sic) ) Secretarios de Estudio y Cuenta;
+c) (sic) Secretarios de Estudio y Cuenta;
 
 d) Secretarios Judiciales;
 
@@ -1123,7 +1121,7 @@ Las licencias de los Magistrados, serán concedidas en los términos que estable
 
 ###### ARTICULO 103.
 
-Durante el ejercicio de su cargo, los Magistrados y los demás servidores púbicos del Tribunal están impedidos para litigar y asesorar empresas o particulares, salvo en causa propia. Queda exceptuada de esta prohibición la actividad docente de manera honorífica.
+Durante el ejercicio de su cargo, los Magistrados y los demás servidores públicos del Tribunal están impedidos para litigar y asesorar empresas o particulares, salvo en causa propia. Queda exceptuada de esta prohibición la actividad docente de manera honorífica.
 
 ARTICULO 103 BIS A- (DEROGADO, P.O. 4 DE JULIO DE 2012)
 
@@ -1171,7 +1169,9 @@ XI. Conservar en su poder el sello del Tribunal y utilizarlo en cumplimiento de 
 
 XII. Recibir las demandas, formar el expediente respectivo y realizar el registro correspondiente;
 
-XIII. Dar cuenta diariamente al Presidente del Tribunal bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a su recepción, de todas las demandas, promociones, y escritos que se reciban y turnarlos para su trámite a la Sala que corresponda por turno;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+
+XIII. Dar cuenta diariamente al Presidente del Tribunal bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a su recepción, de todas las demandas, promociones, y escritos que se reciban y turnarlos para su trámite a la Sala o Juzgado que corresponda por turno;
 
 XIV. (DEROGADA, P.O. 4 DE JULIO DE 2012)
 
@@ -1193,7 +1193,7 @@ IV. Despachar su correspondencia;
 
 V. Rendir al Presidente del Tribunal informe mensual de sus labores, así como de las principales resoluciones emitidas y los criterios sustentados;
 
-VI. En el ámbito jurisdiccional imponer las correcciones disciplinarias a si como (sic) hacer uso de los medios de apremio que procedan.
+VI. En el ámbito jurisdiccional imponer las correcciones disciplinarias a si (sic) como hacer uso de los medios de apremio que procedan.
 
 VII. Suplir a los magistrados en sus faltas temporales, con excepción de las sesiones del pleno, en términos de la fracción XXXIV del Articulo 52 de la Ley Orgánica del Poder Judicial del Estado; y
 
@@ -1347,17 +1347,19 @@ Los periodos vacacionales serán fijados por el Consejo de la Judicatura. Se sus
 
 El juicio ante el Tribunal de lo Contencioso Administrativo del Estado de Oaxaca, se regirá por las disposiciones contenidas en el presente Libro.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 115.
 
-El Tribunal de lo Contencioso Administrativo tendrá jurisdicción en todo el territorio Estatal, con la competencia y organización que establece esta Ley y otros ordenamientos aplicables. El Tribunal residirá en la Ciudad de Oaxaca Juárez o en la zona conurbada, y podrá contar con Salas de Primera Instancia ubicadas en las diversas regiones del Estado, las que deberán ser autorizadas por el Pleno, quien delimitará su ámbito de competencia territorial.
+El Tribunal de lo Contencioso Administrativo tendrá jurisdicción en todo el territorio Estatal, con la competencia y organización que establece esta Ley y otros ordenamientos aplicables. El Tribunal residirá en la Ciudad de Oaxaca Juárez (sic) o en la zona conurbada, y podrá contar con juzgados de Primera Instancia ubicados en las diversas regiones del Estado y Salas, las que deberán ser autorizadas por el Consejo de la Judicatura, quien delimitará su ámbito de competencia.
 
 ###### ARTICULO 116.
 
 Los juicios que se promuevan ante el Tribunal, se substanciarán y resolverán con arreglo a las disposiciones de esta Ley. A falta de disposición expresa, se aplicarán supletoriamente el Código de Procedimientos Civiles para el Estado de Oaxaca así como el Código Fiscal del Estado o Municipal, en lo que no sean contrarios y resulten aplicables.
 
-En los casos en que se alegue que el acto impugnado afecta los intereses legítimos de dos o más personas, y éstas promuevan juicio, en el escrito de demanda deberán designar un representante común que elegirán de entre ellos mismos, y si no lo hicieren, el Magistrado de la Sala designará con tal carácter a cualquiera de los interesados al admitir la demanda.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+En los casos en que se alegue que el acto impugnado afecta los intereses legítimos de dos o más personas, y éstas promuevan juicio, en el escrito de demanda deberán designar un representante común que elegirán de entre ellos mismos, y si no lo hicieren, el Juez designará con tal carácter a cualquiera de los interesados al admitir la demanda.
 
 ###### ARTICULO 117.
 
@@ -1379,25 +1381,31 @@ Los particulares, las autoridades o los representantes de ambos, podrán designa
 
 El juicio ante el Tribunal será de estricto derecho; pero se deberá suplir la deficiencia de la queja siempre y cuando se trate del administrado.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 119.
 
-La personalidad o legitimación de las partes, deberá ser analizada de oficio por las Salas.
+La personalidad o legitimación de las partes, deberá ser analizada de oficio por los juzgados de primera instancia.
 
 ###### ARTICULO 120.
 
 Para tener por acreditada en el procedimiento la personalidad de la autoridad demandada, deberá ésta exhibir copia debidamente certificada del documento relativo al nombramiento que le fue conferido, y del documento en el que conste que rindió la protesta de ley.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 121.
 
-En los juicios que se tramiten ante las Salas del Tribunal, no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y de los que originen las diligencias que promuevan.
+En los juicios que se tramiten ante los juzgados de primera instancia del Tribunal, no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y de los que originen las diligencias que promuevan.
 
 ###### ARTICULO 122.
 
 Cuando las leyes y reglamentos que rijan el acto impugnado establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo o promover el juicio ante el Tribunal; ejercitada la acción ante éste último, precluye el derecho para ocurrir a otro medio ordinario de defensa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 123.
 
-El titular de cada Sala y el Pleno del Tribunal, a efecto de mantener el buen orden y hacer que se guarde el respeto y consideraciones debidas al Tribunal o a cualquiera de sus miembros, en el desempeño de sus funciones oficiales o como consecuencia de su ejercicio, podrán imponer de acuerdo a la gravedad de la falta, indistintamente cualquiera de las siguientes correcciones disciplinarias:
+El titular de cada juzgado y de la Sala Superior del Tribunal, a efecto de mantener el buen orden y hacer que se guarde el respeto y consideraciones debidas al Tribunal o a cualquiera de sus miembros, en el desempeño de sus funciones oficiales o como consecuencia de su ejercicio, podrán imponer de acuerdo a la gravedad de la falta, indistintamente cualquiera de las siguientes correcciones disciplinarias.
 
 I. Amonestación;
 
@@ -1437,9 +1445,9 @@ Las actuaciones se escribirán con letra, las fechas con número y letra, las ca
 
 Los Secretarios de Acuerdos autorizarán las actuaciones jurisdiccionales. También cuidarán que los expedientes sean foliados al agregarse cada una de las hojas, las rubricarán y pondrán el sello oficial en el fondo del expediente, de manera que queden selladas las dos fojas.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
-El Secretario General de Acuerdos, los Jueces Instructores, los Secretarios de Acuerdos de Sala, así como los Actuarios tienen fe pública en todo lo relativo al ejercicio de sus funciones, debiendo conducirse siempre con estricto apego a la verdad.
+El Secretario General de Acuerdos, los Jueces, los Secretarios judiciales así como los Actuarios tienen fe pública en todo lo relativo al ejercicio de sus funciones, debiendo conducirse siempre con estricto apego a la verdad.
 
 ###### ARTICULO 127.
 
@@ -1449,7 +1457,7 @@ El Tribunal esta facultado para desechar de plano las promociones notoriamente i
 
 ###### ARTICULO 128.
 
-Los Magistrados están impedidos para conocer de los juicios que se tramiten ante el Tribunal de lo Contencioso Administrativo, en los siguientes casos:
+Los Magistrados y los Jueces están impedidos para conocer de los juicios que se tramiten ante el Tribunal de lo Contencioso Administrativo, en los siguientes casos:
 
 I. Cuando tengan algún interés personal en el asunto;
 
@@ -1467,17 +1475,21 @@ VII. Cuando exista entre el funcionario y alguna de las partes, sus abogados o r
 
 En el juicio contencioso administrativo no procede la recusación.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 129.
 
-La excusa se presentará ante la Presidencia de la Sala Superior y de ser procedente, se remitirá el asunto al Magistrado que por tumo corresponda.
+La excusa se presentará ante la Presidencia de la Sala Superior y de ser procedente se remitirá el asunto al Juez que por turno corresponda.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 130.
 
-El Magistrado que, teniendo impedimento para conocer de determinado asunto no se excuse, o no teniéndolo, se excuse para que se le aparte de su conocimiento, incurrirá en responsabilidad, la que dará lugar al procedimiento administrativo disciplinario en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+El Magistrado o Juez que, teniendo impedimento para conocer de determinado asunto no se excuse, o no teniéndolo, se excuse para que se le aparte de su conocimiento, incurrirá en responsabilidad, la que dará lugar, en su caso, al procedimiento administrativo disciplinario en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
 
 ### CAPITULO SEGUNDO. DE LOS IMPEDIMENTOS Y EXCUSAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 131.
 
@@ -1517,7 +1529,7 @@ III.- Por muerte del actor durante el juicio, si su pretensión es intransmisibl
 
 IV.- Cuando la autoridad demandada deje sin efectos el acto impugnado o haya satisfecho la pretensión del actor;
 
-V.- Cuando de las constancias de autos apareciere claramente que no existe el acto o resolución impugnada, y (sic)
+V.- Cuando de las constancias de autos apareciere claramente que no existe el acto o resolución impugnada, y
 
 VI.- En los demás casos en los que por disposición legal exista impedimento para emitir resoluciones en cuanto al fondo;
 
@@ -1581,9 +1593,11 @@ Cuando el particular radique en el extranjero y no tenga representante en la Rep
 
 Cuando el particular falleciere dentro de los plazos a que se refiere este artículo, se suspenderá el término, hasta que haya sido designado albacea o representante de la sucesión.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 137.
 
-La presentación de demandas o promociones de término podrá hacerse el día en que éste concluya, aun fuera del horario, ante el Secretario de la Sala en turno, en su domicilio particular.
+La presentación de demandas o promociones de término podrá hacerse el día en que éste concluya, aun fuera del horario, ante el personal de guardia en turno,
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -1621,7 +1635,9 @@ En la primera promoción, las partes deberán señalar su domicilio para recibir
 
 Si no proporciona el domicilio del tercero afectado, será desechada su petición.
 
-Los particulares deberán señalar domicilio para oír y recibir notificaciones en el lugar de residencia de la Sala que ejerza jurisdicción.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+Los particulares deberán señalar domicilio para oír y recibir notificaciones en el lugar de residencia del Juzgado que ejerza jurisdicción.
 
 En caso de que variare el domicilio para recibir notificaciones, deberán comunicar el cambio, para que en él se hagan las notificaciones que correspondan.
 
@@ -1633,9 +1649,13 @@ Las notificaciones se efectuarán:
 
 I. Personalmente a los particulares y por oficio a las autoridades, cuando se trate de emplazamientos, citaciones, requerimientos, reposiciones de autos, la que señale día y hora para el desahogo de la audiencia y regularización del procedimiento y demás acuerdos o resoluciones que puedan ser recurribles y aquellas que el Magistrado estime necesario;
 
-II. Por lista de acuerdos, ubicadas en las Oficinas de las Salas del Tribunal, cuando así lo señale la parte interesada o se trate de actos distintos a la fracción anterior;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
 
-III. En las Oficinas de las Salas del Tribunal si se presentan los interesados, incluyendo las que deban practicarse personalmente o por oficio;
+II. Por lista de acuerdos, ubicadas en las Oficinas de los Juzgados de primera instancia o de las salas del Tribunal, cuando así lo señale la parte interesada o se trate de actos distintos a la fracción anterior.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+
+III. En las oficinas de los juzgados o salas del Tribunal si se presentan los interesados, incluyendo las que deban practicarse personalmente o por oficio;
 
 IV. Por telegrama o fax, en forma adicional, cuando se trate de resoluciones que exijan cumplimiento inmediato a la parte que deba cumplirlo;
 
@@ -1649,17 +1669,25 @@ VI. Por instructivo cuando el domicilio se encuentre cerrado o cuando exista neg
 
 Las notificaciones se sujetarán a las siguientes formalidades:
 
-I. Las notificaciones personales se harán directamente a quien deba ser notificada, a su representante legal o al autorizado en los términos de este ordenamiento, en el domicilio señalado para tal efecto. Si no se encontrare ninguno de ellos, cerciorado el Actuario que es el domicilio correcto, bajo su responsabilidad dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente, si se negare a recibirlo se fijará en la puerta o lugar visible del domicilio. El citatorio deberá contener: nombre y domicilio del citado, el de la Sala del Tribunal que manda practicar la diligencia, número de expediente, fecha y hora a la que se cita, fecha del citatorio, nombre y firma del Actuario, de todo lo anterior se levantará acta circunstanciada.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
 
-El Instructivo deberá contener: La expresión de la Sala o el Pleno del Tribunal que mande practicar la diligencia, número de expediente, nombre de las partes, fecha y hora de entrega, nombre y firma de la persona que recibe, así como nombre y firma del Actuario. Al Instructivo deberá adjuntarse copia del acuerdo o resolución de que se trate y cuando proceda, copias de traslado debidamente selladas y cotejadas por el Secretario.
+I. Las notificaciones personales se harán directamente a quien deba ser notificada, a su representante legal o al autorizado en los términos de este ordenamiento, en el domicilio señalado para tal efecto. Si no se encontrare ninguno de ellos, cerciorado el Actuario que es el domicilio correcto, bajo su responsabilidad dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente, si se negara a recibirlo se fijará en la puerta o lugar visible del domicilio. El citatorio deberá contener nombre y domicilio del citado, el del Juzgado o Sala del Tribunal que manda practicar la diligencia, número de expediente, fecha y hora a la que se cita, fecha del citatorio, nombre y firma del Actuario, de todo lo anterior se levantará acta circunstanciada.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+El instructivo deberá contener: La expresión del Juzgado o Sala del Tribunal que mande practicar la diligencia, número de expediente, nombre de las partes, fecha y hora de entrega, nombre y firma de la persona que recibe, así como nombre y firma del Actuario. Al instructivo deberá adjuntarse copia del acuerdo o resolución de que se trate y cuando proceda, copias de traslado debidamente selladas y cotejadas por el Secretario
 
 Cuando el domicilio se encontrare cerrado la citación o notificación se entenderá con el vecino más cercano, a quien se entregará copia simple del acuerdo o resolución que se notifica, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio haciéndose constar lo anterior en acta circunstanciada, la que obrará en autos.
 
 II. El oficio de notificaciones a las autoridades, deberá contener: nombre del actor, número de expediente, fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate, fecha y número de oficio, nombre de la autoridad que se notifica, fecha de la notificación, firma del Actuario, sello oficial de la autoridad que se notifica y firma de quien recibe la notificación. Al oficio de notificación, se adjuntará copia del acuerdo o resolución de que se trate y copias de traslado, cuando proceda. El Actuario dejará constancia de lo anterior en el expediente respectivo.
 
-Cuando las autoridades se encuentren fuera del lugar de residencia de la Sala, el oficio de notificación se enviará por correo registrado con acuse de recibo, del Servicio Postal Mexicano, requisitado en la forma que prevé el párrafo que antecede.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
-III. La lista de acuerdos deberá contener el nombre de la persona a quien se notifica, número de expediente, la fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate. El Actuario autorizará con su firma la lista de estrados, ubicándola en lugar abierto de la oficina de la Sala o del Tribunal y asentando en autos la constancia correspondiente, misma que se fijará al día siguiente al que le sea turnado el expediente en que conste el acuerdo que se notifica.
+Cuando las autoridades se encuentren fuera del lugar de residencia del Juzgado o Tribunal, el oficio de notificación se enviará por correo certificado con acuse de recibo, del Servicio Postal Mexicano, requisitado en la forma que prevé el párrafo que antecede.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
+
+III. La lista de acuerdos deberá contener el nombre de la persona a quien se notifica, número de expediente, la fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate. El Actuario autorizará con su firma la lista de estrados, ubicándola en lugar abierto de la oficina del Juzgado o del Tribunal y asentando en autos la constancia correspondiente, misma que se fijará al día siguiente al que le sea turnado el expediente en que conste el acuerdo que se notifica.
 
 Cuando los terceros o el demandado en el juicio de lesividad, después de emplazados no se apersonaren a juicio a deducir sus derechos, las subsecuentes notificaciones, aún las personales, se realizarán por lista de acuerdos, entendiéndose que se les dio oportunidad de señalar domicilio sin que lo hubieren hecho.
 
@@ -1681,7 +1709,7 @@ Toda notificación irregular u omitida se entenderá legalmente hecha a partir d
 
 ###### ARTICULO 146.
 
-La demanda deberá formularse por escrito y presentarse ante el Tribunal o la Sala que autorizada por el pleno tenga jurisdicción territorial en el lugar de residencia del actor, dentro del término a que se refiere el artículo 136 de la presente Ley. Los particulares que residan fuera del lugar de residencia del Tribunal podrán también presentar su demanda por correo certificado con acuse de recibo.
+La demanda deberá formularse por escrito y presentarse ante el Tribunal o el Juzgado que tenga jurisdicción territorial en el lugar de residencia del actor, dentro del término a que se refiere el artículo 136 de la presente Ley. Los particulares que residan fuera del lugar de residencia del Juzgado o Tribunal podrán también presentar su demanda por correo certificado con acuse de recibo.
 
 ###### ARTICULO 147.
 
@@ -1721,9 +1749,11 @@ IV. El interrogatorio o cuestionario respectivo firmados por el oferente, en cas
 
 V. Las demás pruebas documentales que se ofrezcan.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 149.
 
-Cuando no se satisfaga alguno de los requisitos de la demanda, cuando fuere obscura o imprecisa, o cuando no se anexen los documentos a que se refieren los artículos anteriores la Sala debe requerir al actor para que en el plazo de tres días hábiles subsane las omisiones y formule las aclaraciones correspondientes; apercibiéndole que de no hacerlo se desechará la demanda.
+Cuando no se satisfaga alguno de los requisitos de la demanda, cuando fuere obscura o imprecisa, o cuando no se anexen los documentos a que se refieren los artículos anteriores el Juzgado debe requerir al actor para que en el plazo de tres días hábiles subsane las omisiones y formule las aclaraciones correspondientes; apercibiéndole que de no hacerlo se desechará la demanda.
 
 ###### ARTICULO 150.
 
@@ -1744,6 +1774,8 @@ II. Si requerido el actor para que subsane las omisiones o imprecisiones de la d
 Contra el auto que deseche una demanda, procederá el recurso de revisión en los términos que establezca esta Ley.
 
 ### CAPITULO SEPTIMO. DE LA DEMANDA
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 153.
 
@@ -1777,15 +1809,19 @@ VI. Las pruebas que ofrezca.
 
 La parte demandada deberá adjuntar a su contestación copias de la misma y de los documentos que acompañe, para cada una de las demás partes.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 156.
 
-En la contestación de la demanda no podrá variarse la fundamentación y motivación del acto impugnado. Tratándose de una negativa ficta, la autoridad únicamente expresará los hechos o el derecho en que se apoya la misma; y en caso de no hacerlo, la Sala tendrá por confesados los hechos que la actora le impute de manera precisa a la demandada, salvo prueba en contrario.
+En la contestación de la demanda no podrá variarse la fundamentación y motivación del acto impugnado. Tratándose de una negativa ficta, la autoridad únicamente expresará los hechos o el derecho en que se apoya la misma; y en caso de no hacerlo, el Juzgado tendrá por confesados los hechos que la actora le impute de manera precisa a la demandada, salvo prueba en contrario.
 
-En la contestación de la demanda o antes de que se dicte sentencia, la autoridad demandada podrá allanarse a las pretensiones del actor o revocar el acto impugnado, debiendo acreditarlo ante la Sala.
+En la contestación de la demanda o antes de que se dicte sentencia, la autoridad demandada podrá allanarse a las pretensiones del actor o revocar el acto impugnado, debiendo acreditarlo ante el juzgado.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 157.
 
-Vencido el plazo para contestación y ampliación de la demanda, en su caso, se hayan o no producido éstas, el Magistrado Instructor dictará al siguiente día hábil, un auto en el que se fijen el día y hora en que tendrá lugar la audiencia de ley, la cual deberá celebrarse dentro de los diez días hábiles siguientes a la fecha del auto.
+Vencido el plazo para contestación y ampliación de la demanda, en su caso, se hayan o no producido éstas, el Juez dictará al siguiente día hábil, un auto en el que se fijen el día y hora en que tendrá lugar la audiencia de ley, la cual deberá celebrarse dentro de los diez días hábiles siguientes a la fecha del auto.
 
 ### CAPITULO OCTAVO. DE LA CONTESTACION
 
@@ -1799,21 +1835,29 @@ Al proveerse sobre la admisión de la demanda o la contestación, se resolverá 
 
 Las partes deberán ofrecer las pruebas en los escritos de demanda, ampliación o contestación de ambas, debiendo ser desahogadas en la audiencia las que lo permitan. Las que ameritan posterior desahogo, se harán en un término de diez días. Las supervenientes podrán ofrecerse en cualquier momento, hasta tres días antes del señalado para la celebración de la audiencia, en este caso, se dará vista a la contraparte para que durante la misma audiencia exprese lo que a su derecho convenga, hecho lo cual, el Tribunal resolverá sobre su admisión, reservándose su valoración hasta la sentencia.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 160.
 
-La Sala podrá ordenar, de oficio, el desahogo de las pruebas que estimen pertinentes, o la exhibición de cualquier documento para la mejor resolución del asunto, notificando oportunamente a las partes, a fin de que puedan exponer lo que a sus intereses convenga o intervenir en el desahogo de aquéllas que así lo ameriten. Asimismo podrá decretar en todo tiempo hasta antes de citación para sentencia, el desahogo, repetición o ampliación de cualquier actuación probatoria que se considere necesaria. Los hechos notorios y la ley no necesitan ser probados.
+El Juez podrá ordenar, de oficio, el desahogo de las pruebas que estimen pertinentes, o la exhibición de cualquier documento para la mejor resolución del asunto, notificando oportunamente a las partes, a fin de que puedan exponer lo que a sus intereses convenga o intervenir en el desahogo de aquéllas que así lo ameriten. Asimismo podrá decretar en todo tiempo hasta antes de citación para sentencia, el desahogo, repetición o ampliación de cualquier actuación probatoria que se considere necesaria. Los hechos notorios y la ley no necesitan ser probados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 161.
 
-Los Servidores Públicos o autoridades tienen la obligación de expedir, a costa del solicitante, las copias de los documentos que les pidan las partes, a fin de que éstas puedan rendir sus pruebas; si no lo hicieran, la Sala, a solicitud de la parte interesada y previa justificación de que se hizo la solicitud correspondiente antes de la presentación de la demanda, los requerirá para que las expidan, salvo que se trate de pruebas supervenientes.
+Los Servidores Públicos o autoridades tienen la obligación de expedir, a costa del solicitante, las copias de los documentos que les pidan las partes, a fin de que éstas puedan rendir sus pruebas; si no lo hicieran, el Juez, a solicitud de la parte interesada y previa justificación de que se hizo la solicitud correspondiente antes de la presentación de la demanda, los requerirá para que las expidan, salvo que se trate de pruebas supervenientes.
 
-En caso de que a pesar de haberse requerido, el funcionario o la autoridad, no se expidan las copias solicitadas, la Sala podrá hacer uso de los medios de apremio que establece la ley.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+En caso de que a pesar de haberse requerido, el funcionario o la autoridad, no se expidan las copias solicitadas, el Juez podrá hacer uso de los medios de apremio que establece la ley.
 
 Cuando sin causa justificada, la autoridad demandada no expida las copias de los documentos ofrecidos por el actor o por el tercero afectado para probar los actos imputados a aquélla, y los documentos solicitados hubieren sido identificados con toda precisión en sus características y contenido, se presumirán ciertos los actos que se pretendan probar con esos documentos.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 162.
 
-Cuando los documentos obren en poder de los terceros o de ajenos al juicio, la parte interesada podrá solicitar a la Sala que los requiera para la exhibición de copia certificada de los mismos, a costa del solicitante, siempre que tal solicitud no viole los derechos de los requeridos.
+Cuando los documentos obren en poder de los terceros o de ajenos al juicio, la parte interesada podrá solicitar al Juzgado que los requiera para la exhibición de copia certificada de los mismos, a costa del solicitante, siempre que tal solicitud no viole los derechos de los requeridos
 
 ###### ARTICULO 163.
 
@@ -1831,13 +1875,17 @@ La prueba pericial procede, cuando sean necesarios conocimientos especiales en a
 
 Cuando la parte actora ofrezca como prueba la pericial, la demandada y el tercero, si lo hubiere, en su escrito de contestación deberán nombrar perito de su parte. Si el ofrecimiento proviene de la demandada, los terceros o es ordenada por el Tribunal, se concederá el término de tres días a las contrapartes para los mismos efectos; a no ser que se pusieran de acuerdo en el nombramiento de uno sólo. Las partes deben presentar a sus peritos dentro de los tres días siguientes al en que surta efectos la notificación del acuerdo en que se le tuvo como tal, para que manifieste la aceptación y protesta del cargo, apercibido que si alguna de las partes omite el nombramiento correspondiente o no presenta a su perito, se entenderá que se sujeta al o los que se hayan tenido por designados.
 
-Los peritos nombrados deberán tener título en la especialidad a la que pertenezca la cuestión en análisis y si esto no fuera posible, podrán ser nombradas personas con conocimiento de la materia, a juicio del Magistrado. Asimismo deberán estar inscritos en el Registro de Peritos que lleve el Tribunal.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+Los peritos nombrados deberán tener título en la especialidad a la que pertenezca la cuestión en análisis y si esto no fuera posible, podrán ser nombradas personas con conocimiento de la materia, a juicio del Juez. Asimismo, deberán estar inscritos en el Registro de Peritos que lleve el Tribunal.
 
 Los peritos deberán rendir por escrito sus dictámenes el día de la audiencia de pruebas y alegatos.
 
 En caso de diferencia en los dictámenes rendidos, el Tribunal nombrará un tercero en discordia. Para lo cual se suspenderá la audiencia y se señalará fecha para su continuación con la finalidad de dar el tiempo necesario al perito tercero en discordia para que formule su dictamen.
 
-El Magistrado designará al perito tercero en discordia preferentemente de los que conforman el Registro de peritos, que al electo se lleve en el Tribunal.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+El Juez designará al perito tercero en discordia preferentemente de los que conforman el Registro de Peritos, que al efecto se lleve en el Tribunal.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -1851,39 +1899,47 @@ II. Tener interés directo o indirecto en el litigio;
 
 III. Tener amistad estrecha, enemistad manifiesta, o relaciones de índole económico con cualquiera de las partes.
 
-Las excusas que presenten los peritos sean oficiales o no serán, calificadas por el Magistrado de la Sala en la que se tramite el Juicio Contencioso, dentro del plazo de tres días siguientes a la presentación de la excusa, nombrando de inmediato otro perito.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+Las excusas que presenten los peritos sean oficiales o no, serán calificadas por el Juez del Juzgado en donde se tramite el Juicio Contencioso, dentro del plazo de tres días siguientes a la presentación de la excusa, nombrando de inmediato otro perito.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-ARTICULO. 167.- Los honorarios de cada perito serán pagados por la parte que lo nombró y los del tercero por ambas partes, cuando no sea oficial.
-
 ###### ARTICULO 167.
 
-Los honorarios de cada perito serán pagados por la parte que lo nombró y los del tercero por ambas partes, cuando aquel no sea oficial.
+Los honorarios de cada perito serán pagados por la parte que lo nombró y los del tercero por ambas partes, cuando no sea oficial.
 
 ###### ARTICULO 168.
 
 A fin de que los peritos estén en aptitud de rendir sus dictámenes, las partes y los terceros ajenos estarán obligados a proporcionar los elementos necesarios para ello.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 169.
 
-Los testigos, que no podrán exceder de dos por cada hecho, deberán ser presentados por el oferente. Cuando estuviere imposibilitado para presentarlos, lo manifestará así bajo protesta de decir verdad y pedirá que se le cite, proporcionando el domicilio del testigo. El Magistrado Instructor ordenará la citación con apercibimiento de apremio si faltare sin causa justa, o se negara a declarar. La prueba testimonial se declarara desierta si los testigos no comparecieren a la audiencia.
+Los testigos, que no podrán exceder de dos por cada hecho, deberán ser presentados por el oferente. Cuando estuviere imposibilitado para presentarlos, lo manifestará así bajo protesta de decir verdad y pedirá que se le cite, proporcionando el domicilio del testigo. El Juez ordenará la citación con apercibimiento de apremio si faltare sin causa justa, o se negara a declarar. La prueba testimonial se declarara desierta si los testigos no comparecieren a la audiencia.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 170.
 
-El oferente de la prueba deberá exhibir el interrogatorio correspondiente, debidamente firmado, y copia del mismo para cada una de las demás partes, a fin de que estén en aptitud de formular repreguntas, las cuales, en su caso deberán hacerse en el momento que se desahogue la prueba, sin que puedan exceder de dos por cada pregunta directa. El Magistrado instructor calificará de legales las preguntas y repreguntas.
+El oferente de la prueba deberá exhibir el interrogatorio correspondiente, debidamente firmado, y copia del mismo para cada una de las demás partes, a fin de que estén en aptitud de formular repreguntas, las cuales, en su caso deberán hacerse en el momento que se desahogue la prueba, sin que puedan exceder de dos por cada pregunta directa. El Juez calificará de legales las preguntas y repreguntas.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 171.
 
-Todos los declarantes, producirán su testimonio bajo protesta de decir verdad, apercibiéndolos de la responsabilidad en que incurren quienes presten declaraciones falsas, firmarán al margen y al calce de la última hoja las actuaciones que se levanten, en el entendido de que una vez suscritas no podrán variarse ni en la sustancia ni redacción. En dichas actas, siempre se harán constar las (sic) generales de los comparecientes, previa identificación de los mismos. Cuando sean varios los testigos que deban sujetarse a la misma probanza, se tomarán las medidas necesarias para separarlos convenientemente evitando que unos puedan presenciar la declaración de otros.
+Todos los declarantes, producirán su testimonio bajo protesta de decir verdad, apercibiéndolos de la responsabilidad en que incurren quienes presten declaraciones falsas, firmarán al margen y al calce de la última hoja las actuaciones que se levanten, en el entendido de que una vez suscritas no podrán variarse ni en la sustancia ni redacción. En dichas actas, siempre se harán constar las generales de los comparecientes, previa identificación de los mismos. Cuando sean varios los testigos que deban sujetarse a la misma probanza, se tomarán las medidas necesarias para separarlos convenientemente evitando que unos puedan presenciar la declaración de otros.
 
 Los testigos expondrán verbalmente su declaración, sujetándose a los interrogatorios que por escrito formule el oferente. Las partes podrán repreguntar a los testigos en relación al contenido de sus declaraciones.
 
-Las preguntas y repreguntas deben relacionarse directamente con los puntos cuestionados, concebirse en términos claros, no ser contrarias al derecho o a la moral y comprender en ellas un sólo hecho. Las partes no podrán formular más preguntas de las contenidas en el interrogatorio respectivo; el Magistrado instructor podrá en cualquier momento requerir a los testigos para la ampliación de su contestación y al término de los interrogatorios formular de manera directa las preguntas que estime convenientes en relación con los hechos de la demanda o de la contestación.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
-Los testigos están obligados a expresar la razón de su dicho y el Magistrado a exigirla.
+Las preguntas y repreguntas deben relacionarse directamente con los puntos cuestionados, concebirse en términos claros, no ser contrarias al derecho o a la moral y comprender en ellas un solo hecho. Las partes no podrán formular más preguntas de las contenidas en el interrogatorio respectivo; el Juez podrá en cualquier momento requerir a los testigos para la ampliación de su contestación y al término de los interrogatorios formular de manera directa las preguntas que estime convenientes en relación con los hechos de la demanda o de la contestación.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+Los testigos están obligados a expresar la razón de su dicho y el Juez a exigirla.
 
 ###### ARTICULO 172.
 
@@ -1895,29 +1951,47 @@ La valoración de las pruebas se hará de acuerdo con las siguientes reglas:
 
 I. Harán prueba plena la confesión expresa de las partes y los actos contenidos en documentos públicos, si en éstos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, y
 
-II. El valor de la pericial y testimonial, así como el de las demás pruebas, quedará a la prudente y razonada apreciación de la Sala.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+
+II. El valor de la pericial y testimonial, así como el de las demás pruebas, quedará a la prudente y razonada apreciación del Juzgador.
 
 ### CAPITULO NOVENO. DE LAS PRUEBAS Y SU VALORACION
 
 ###### ARTICULO 174.
 
-La audiencia deberá celebrarse el día y hora señalada para tal efecto, será pública, salvo en los casos, que a juicio de los Magistrados sea necesario que sea reservada.
+La audiencia deberá celebrarse el día y hora señalada para tal efecto, será pública, salvo en los casos que, a juicio del Juez, sea necesario que sea reservada.
 
-Las Salas recibirán en la audiencia todas las pruebas, salvo aquellas que por su naturaleza, deban desahogarse previamente, fuera del local o residencia del Tribunal ya sea por personal comisionado o vía exhorto, en cuyo caso en la audiencia se agregarán las constancias donde conste que aquellas ya fueron desahogadas.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
-El hecho de que alguna de las pruebas ofrecidas por las partes no haya sido debidamente preparada el día que tenga verificativo la audiencia, no será causa suficiente para suspenderla. Se desahogarán las pruebas que estén en condiciones, prorrogando la continuación de la audiencia y ordenando la preparación de las pendientes, desahogándose en la fecha que el Magistrado señale para la continuación y culminación de la misma.
+Los Juzgados recibirán en la audiencia todas las pruebas, salvo aquéllas que por su naturaleza, deban desahogarse previamente, fuera del local o residencia del Tribunal ya sea por personal comisionado o vía exhorto, en cuyo caso en la audiencia se agregarán las constancias donde conste que aquellas ya fueron desahogadas.
 
-En toda diligencia que se levante fuera del local de las Salas del Tribunal, el personal comisionado deberá ceñirse estrictamente a lo ordenado, pudiendo concurrir en su compañía las partes, debiéndose levantar acta circunstanciada del desarrollo de la misma, la cual firmarán los que en ella intervengan y quisieran hacerlo. En caso necesario, se tomarán fotografías del lugar u objeto inspeccionado.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+El hecho de que alguna de las pruebas ofrecidas por las partes no haya sido debidamente preparada el día que tenga verificativo la audiencia, no será causa suficiente para suspenderla. Se desahogarán las pruebas que estén en condiciones, prorrogando la continuación de la audiencia y ordenando la preparación de las pendientes, desahogándose en la fecha que el Juez señale para la continuación y culminación de la misma.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+En toda diligencia que se levante fuera del local de los Juzgados del Tribunal, el personal comisionado deberá ceñirse estrictamente a lo ordenado, pudiendo concurrir en su compañía las partes, debiéndose levantar acta circunstanciada del desarrollo de la misma, la cual firmarán los que en ella intervengan y quisieran hacerlo. En caso necesario, se tomarán fotografías del lugar u objeto inspeccionado.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 La documental en vía de informe se rendirá por escrito y contendrá la declaración bajo protesta de decir verdad de la cuestión planteada acompañando, en su caso, los documentos que se requieran.
 
-Los Magistrados podrán formular toda clase de preguntas a las partes, sus representantes, peritos y testigos, respecto de las cuestiones debatidas.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+Los Jueces podrán formular toda clase de preguntas a las partes, sus representantes, peritos y testigos, respecto de las cuestiones debatidas.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 Concluida la recepción de pruebas, se agregarán los alegatos del actor, de la parte demandada y del tercero interesado, los que deberán presentarse por escrito.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 La audiencia se celebrará aún sin asistencia de las partes, las peticiones y oposiciones que realicen las partes que asistan a la audiencia, se resolverán de plano en el transcurso de ésta.
 
-La audiencia podrá suspenderse, o prorrogarse de oficio o a solicitud de alguna de las partes, cuando exista motivo fundado, a juicio del Magistrado de la Sala que conoce del asunto.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+La audiencia podrá suspenderse, o prorrogarse de oficio o a solicitud de alguna de las partes, cuando exista motivo fundado a juicio del Juez que conoce del asunto.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -1927,11 +2001,11 @@ Formulados los alegatos, se citará para oír sentencia, misma que deberá pronu
 
 ### CAPITULO DECIMO. DE LA AUDIENCIA FINAL
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 176.
 
-La Sala de primera instancia, al pronunciar sentencia suplirá las deficiencias de la queja planteada por el administrado en su demanda, siempre y cuando de los hechos narrados se deduzca el agravio, pero en todos los casos se contraerá a los puntos de la litis.
+Los Juzgado de primera instancia, al pronunciar sentencia suplirán las deficiencias de la queja planteada por el administrado en su demanda, siempre y cuando de los hechos narrados se deduzca el agravio, pero en todos los casos se contraerá a los puntos de la litis.
 
 ###### ARTICULO 177.
 
@@ -1969,19 +2043,19 @@ Las sentencias definitivas deberán reconocer total o parcialmente la legalidad 
 
 ### CAPITULO DECIMO PRIMERO. DE LA SENTENCIA
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 180.
 
 Las partes podrán, si a sus intereses conviene, promover aclaración de sentencia, la cual se promoverá por una sola vez ante quien hubiese dictado la resolución, dentro de los cinco días siguientes al en que surta efectos la notificación de la resolución, señalando con toda precisión la contradicción, ambigüedad u oscuridad cuya aclaración se solicite.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 181.
 
-La Sala del Tribunal que emitió la sentencia, resolverá dentro de los tres días siguientes lo que estime procedente, sin que pueda variar la sustancia de la resolución; la aclaración será parte integrante de la sentencia y no admitirá recurso alguno.
+La Sala o el Juzgado del Tribunal que emitió la sentencia, resolverá dentro de los tres días siguientes lo que estime procedente, sin que pueda variar la sustancia de la resolución; la aclaración será parte integrante de la sentencia y no admitirá recurso alguno.
 
-La interposición de la aclaración, interrumpe el plazo para interponer la revisión.
+La interposición de la aclaración, interrumpe el plazo para interponer la revisión en primera instancia.
 
 ### CAPITULO DECIMO SEGUNDO. DE LA ACLARACION DE LA SENTENCIA
 
@@ -1991,9 +2065,11 @@ Las sentencias respecto de las cuales, no se pida aclaración o solicitada esta 
 
 Cuando haya causado ejecutoria una sentencia favorable al actor se comunicará por medio de oficio y sin demora alguna a las autoridades u organismos demandados para su cumplimiento, y se les prevendrá para que informe sobre el mismo, dentro de los tres días siguientes al en que se reciba el oficio de notificación.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 183.
 
-Si dentro del plazo señalado en el artículo anterior, las autoridades no cumpliesen con la sentencia, la Sala correspondiente, de oficio, la requerirá para que dentro del término de veinticuatro horas contadas a partir de la hora en que queden legalmente notificados cumplimenten el fallo e informen sobre ello.
+Si dentro del plazo señalado en el artículo anterior, las autoridades no cumpliesen con la sentencia, el Juzgado correspondiente, de oficio, la requerirá para que dentro del término de veinticuatro horas contadas a partir de la hora en que queden legamente notificados cumplimenten el fallo e informen sobre ello.
 
 ###### ARTICULO 184.
 
@@ -2001,11 +2077,15 @@ Si a pesar del requerimiento, la autoridad o la entidad demandada, se niega a cu
 
 I. Si la ejecución consiste en un acto material que solo puede ejecutar la demandada, y esta tuviese superior jerárquico, se requerirá a este para que ordene el cumplimiento de la resolución;
 
-II. Si la demandada insiste en no cumplir, la Sala que corresponda lo hará del conocimiento del Ejecutivo del Estado o del Ayuntamiento, según el caso para que obliguen a la demandada al cumplimiento de la sentencia, y si la ejecución consiste en un acto material, que no tenga necesariamente que ser ejecutado por la autoridad demandada, la propia Sala podrá realizarlo en rebeldía de aquella, y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
 
-III. La Sala podrá imponer multa de cincuenta y un a ciento cincuenta días de Salario Mínimo General, vigente en el Estado, a los servidores públicos que incumplan una sentencia sin perjuicio de que se reitere cuantas veces sea necesario la multa impuesta y esta se duplique. Independientemente de que se proceda tanto administrativa como penalmente en contra del que desobedezca el mandato legítimo de la Sala, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, así como de la Legislación Penal del Estado de Oaxaca.
+II. Si la demandada insiste en no cumplir, al Juzgado que le corresponda lo hará del conocimiento del Ejecutivo del Estado o del Ayuntamiento, según el caso para que obliguen a la demandada al cumplimiento de la sentencia, y si la ejecución consiste en una acto material, que no tengan necesariamente que ser ejecutado por la autoridad demandada, el propio Juzgado podrá realizarlo en rebeldía de aquella, y
 
-La Sala requerirá continuamente al Órgano de Control Interno que corresponda, para que inicie y concluya el procedimiento administrativo disciplinario al que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, hasta obtener la sanción del rebelde, imponiendo iguales multas al órgano de Control Interno que corresponda, para el caso de desacato.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+
+III. El Juzgado podrá imponer multa de cincuenta y un a ciento cincuenta días de Salario Mínimo General, vigente en el Estado, a los servidores públicos que incumplan una sentencia sin perjuicio de que se reitere cuantas veces sea necesario la multa impuesta y esta se duplique. Independientemente de que se proceda tanto administrativa como penalmente en contra del que desobedezca el mandato legítimo del Juzgado, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, así como de la Legislación Penal del Estado de Oaxaca.
+
+El Juzgado requerirá continuamente al Órgano de Control Interno que corresponda, para que inicie y concluya el procedimiento administrativo disciplinario al que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, hasta obtener la sanción del rebelde, imponiendo iguales multas al órgano de Control Interno que corresponda, para el caso de desacato.
 
 ### CAPITULO DECIMO TERCERO. DE LA EJECUCION DE LAS SENTENCIAS
 
@@ -2027,9 +2107,11 @@ III. Sean de difícil reparación los daños o perjuicios que se causen al solic
 
 El Tribunal podrá modificar o revocar en cualquier momento el acuerdo en que haya concedido la suspensión si varían las circunstancias bajo las cuales se otorgó.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 187.
 
-Si los actos impugnados se hubiesen ejecutado y afectan a particulares de escasos recursos económicos, impidiéndoles el ejercicio de su única actividad personal de subsistencia entre tanto se pronuncie la resolución que corresponda, el Magistrado Instructor podrá dictar discrecionalmente las medidas cautelares que estime pertinentes para preservar el medio de subsistencia del actor, siempre y cuando no se lesionen derechos de terceros.
+Si los actos impugnados se hubiesen ejecutado y afectan a particulares de escasos recursos económicos, impidiéndoles el ejercicio de su única actividad personal de subsistencia entre tanto se pronuncie la resolución que corresponda, el Juez podrá dictar discrecionalmente las medidas cautelares que estime pertinentes para preservar el medio de subsistencia del actor, siempre y cuando no se lesionen derechos de terceros.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
@@ -2049,29 +2131,47 @@ II. En los casos en que la suspensión pudiera causar daños o perjuicios a terc
 
 En caso de afectaciones no estimables en dinero, de proceder la suspensión, se fijará discrecionalmente el importe de la garantía.
 
-La suspensión a la que se refiere este inciso quedará sin efecto, si previa resolución del Magistrado Instructor, el tercero otorga a su vez contragarantía para restituir las cosas al estado que guardaban antes de la notificación del acto impugnado al solicitante y a pagar los daños y perjuicios que se le hayan ocasionados, si finalmente la sentencia definitiva que se dicte fuere favorable a sus pretensiones, así como el costo de la garantía que este último hubiere otorgado. No procede admitir la contragarantía si, de ejecutarse el acto, quedare sin materia el juicio.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+La suspensión a la que se refiere este inciso quedará sin efecto, si previa resolución del Juez, el tercero otorga a su vez contragarantía para restituir las cosas al estado que guardaban antes de la notificación del acto impugnado al solicitante y a pagar los daños y perjuicios que se le hayan ocasionado, si finalmente la sentencia definitiva que se dicte fuere favorable a sus pretensiones, así como el costo de la garantía que este último hubiere otorgado. No procede admitir la contragarantía si, de ejecutarse el acto, quedare sin materia el juicio.
 
 III. En los demás casos, se concederá determinando la situación en que habrán de quedar las cosas, así como las medidas pertinentes para preservar la materia del juicio principal, hasta que se pronuncie sentencia firme.
 
-El monto de la garantía y contragarantía será fijado por el Magistrado Instructor o quien lo supla.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+El monto de la garantía y contragarantía será fijado por el Juez o quien lo supla.
 
 IV. El procedimiento será:
 
-a) La solicitud podrá ser formulada en la demanda o en escrito diverso presentado ante la Sala en que se encuentre radicado el juicio, en cualquier tiempo mientras no se dicte sentencia firme;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
-b) Se tramitará por cuente por cuerda separada, bajo la responsabilidad del Magistrado Instructor;
+a). La solicitud podrá ser formulada en la demanda o en escrito diverso presentado ante el Juzgado en que se encuentre radicado el juicio, en cualquier tiempo mientras no se dicte sentencia firme;
 
-c) El Magistrado Instructor deberá conceder o negar la suspensión provisional de la ejecución, a más tardar dentro del día hábil siguiente a la presentación de la solicitud;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
-d) El Magistrado Instructor requerirá a la autoridad demandada un informe relativo a la suspensión definitiva, el que se deberá rendir en el término de tres días. Vencido el término, con el informe o sin él, el Magistrado resolverá lo que corresponda, dentro de los tres días siguientes.
+b). Se tramitará por cuerda separada, bajo la responsabilidad del Juez;
 
-V. Mientras no se dicte sentencia firme en el juicio, el Magistrado Instructor podrá modificar o revocar la resolución que haya concedido o negado la suspensión definitiva, cuando ocurra un hecho superveniente que lo justifique; y
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
-VI. Cuando el solicitante de la suspensión obtenga sentencia favorable firme, el Magistrado Instructor ordenará la cancelación o liberación de la garantía otorgada. En caso de que la sentencia firme le sea desfavorable, a petición de la contraparte o en su caso, del tercero, y previo acreditamiento de que se causaron perjuicios o se sufrieron daños, la sala ordenará hacer efectiva la garantía otorgada ante la autoridad.
+c). El Juez deberá conceder o negar la suspensión provisional de la ejecución, a más tardar dentro del día hábil siguiente a la presentación de la solicitud;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+d). El Juez requerirá a la autoridad demandada un informe relativo a la suspensión definitiva, el que se deberá rendir en el término de tres días. Vencido el término, con el informe o sin él, el Juez resolverá lo que corresponda, dentro de los tres días siguientes.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+
+V. Mientras no se dicte sentencia firme en el juicio, el Juez podrá modificar o revocar la resolución que haya concedido o negado la suspensión definitiva, cuando ocurra un hecho superveniente que lo justifique; y
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+
+VI. Cuando el solicitante de la suspensión obtenga sentencia favorable firme, el Juez ordenará la cancelación o liberación de la garantía otorgada. En caso de que la sentencia firme le sea desfavorable, a petición de la contraparte o en su caso, del tercero, y previo acreditamiento de que se causaron perjuicios o se sufrieron daños, el Juzgado ordenará hacer efectiva la garantía otorgada ante la autoridad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 189.
 
-La suspensión podrá concederse con efectos restitutorios, únicamente cuando se trate de actos privativos de la libertad decretados al particular por la autoridad administrativa; o bien, cuando a juicio del Magistrado Instructor sea necesario otorgarle estos efectos, con el objeto de conservar la materia del litigio o impedir perjuicios irreparables al particular.
+La suspensión podrá concederse con efectos restitutorios, únicamente cuando se trate de actos privativos de la libertad decretados al particular por la autoridad administrativa; o bien, cuando a juicio del Juez sea necesario otorgarle estos efectos, con el objeto de conservar la materia del litigio o impedir perjuicios irreparables al particular.
 
 La suspensión a que se refiere este artículo procede también de oficio si tiene interés la sociedad y se decretara de plano en el mismo auto en que se admita la demanda, comunicándose sin demora a la autoridad responsable para su inmediato cumplimiento.
 
@@ -2079,7 +2179,9 @@ La suspensión a que se refiere este artículo procede también de oficio si tie
 
 En los casos que proceda la suspensión pero pueda ocasionar daños y perjuicios a terceros se concederá la misma, si el actor otorga garantía bastante para reparar el daño e indemnizar los perjuicios que con ella se causaren, sino obtiene sentencia favorable en el juicio.
 
-En la hipótesis prevista en este artículo, para que surta efectos la suspensión, el actor deberá otorgar previamente la garantía ante el Magistrado Instructor, en cualquiera de las formas previstas por esta Ley.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+En la hipótesis prevista en este artículo, para que surta efectos la suspensión, el actor deberá otorgar previamente la garantía ante el Juez, en cualquiera de las formas previstas por esta Ley.
 
 ###### ARTICULO 191.
 
@@ -2091,9 +2193,11 @@ Para que surta el efecto la caución que ofrezca el tercero, conforme al párraf
 
 Todas las autoridades que intervengan en el acto con cualquier carácter, aún cuando no tengan calidad de demandadas estarán obligadas al cumplimiento de la suspensión, el Tribunal podrá hacer uso de los medios de apremio establecidos por esta Ley, siendo aplicable además en lo conducente, lo dispuesto para el cumplimiento y ejecución de las sentencias.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 193.
 
-Cuando se trate de hacer efectiva la responsabilidad proveniente de las garantías y contra garantías que se otorguen con motivo de la suspensión, el interesado deberá tramitar ante la Sala que corresponda, un incidente que deberá promoverse dentro de los sesenta días naturales siguientes al en que surta efectos la notificación de la sentencia definitiva; pero si no se presentase dentro de ese término se procederá a la devolución o cancelación en su caso, de la garantía o contra garantía, sin perjuicio de que pueda exigirse tal responsabilidad ante las autoridades del orden común.
+Cuando se trate de hacer efectiva la responsabilidad proveniente de las garantías y contra-garantías que se otorguen con motivo de la suspensión, el interesado deberá tramitar ante el Juzgado que corresponda, un incidente que deberá promoverse dentro de los sesenta días naturales siguientes al en que surta efectos la notificación de la sentencia definitiva; pero si no se presentase dentro de ese término se procederá a la devolución o cancelación en su caso, de la garantía o contra garantía, sin perjuicio de que pueda exigirse tal responsabilidad ante las autoridades del orden común.
 
 ### CAPITULO DECIMO CUARTO. DE LA SUSPENSION
 
@@ -2121,37 +2225,51 @@ III Sean las partes y los agravios diversos o no, se impugnen actos que sean uno
 
 IV. Se trate de juicios promovidos por el mismo actor, respecto del mismo acto que se reclama, aunque los agravios sean distintos.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 196.
 
-El incidente a que se refiere el artículo anterior deberá hacerse valer hasta antes de la celebración de la audiencia final y se tramitará ante la Sala que conozca del juicio, en la cual la demanda se presentó primero y esta dictará resolución en un plazo que no exceda de diez días. La acumulación podrá tramitarse de oficio.
+El incidente a que se refiere el artículo anterior deberá hacerse valer hasta antes de la celebración de la audiencia final y se tramitará ante el Juzgado que conozca del juicio, en la cual la demanda se presentó primero y esta dictará resolución en un plazo que no exceda de diez días. La acumulación podrá tramitarse de oficio.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 197.
 
-Una vez decretada la acumulación el Magistrado Instructor ordenará que el juicio más reciente se acumule al primer juicio, en un plazo que no exceda de tres días.
+Una vez decretada la acumulación el Juez ordenará que el juicio más reciente se acumule al primer juicio, en un plazo que no exceda de tres días.
 
 ###### ARTICULO 198.
 
 El perjudicado por una notificación que no fuere hecha conforme lo dispone esta Ley, podrá pedir que se declare la nulidad de la misma en los términos previstos en esta Ley, ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva la nulidad.
 
-Admitida la promoción, sé dará vista a las partes por tres días para que exponga lo que a su derecho convengan y ofrezcan las pruebas de su interés; transcurrido dicho plazo el Magistrado Instructor dictará acuerdo ordenando el desahogo de las pruebas admitidas que así lo ameriten, lo cual deberá efectuarse en un término que no exceda de cinco días hábiles. Transcurrido este, la Sala pronunciara la resolución correspondiente.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
-Si se declara la nulidad, la Sala ordenará reponer el procedimiento desde la notificación anulada y se sancionará al actuario en los términos que señale el reglamento interior.
+Admitida la promoción, se dará vista a las partes por tres días para que exponga lo que a su derecho convengan y ofrezcan las pruebas de su interés; transcurrido dicho plazo el Juez dictará acuerdo ordenando el desahogo de las pruebas admitidas que así lo ameriten, lo cual deberá efectuarse en un término que no exceda de cinco días hábiles. Transcurrido este, el Juez pronunciará la resolución correspondiente.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+Si se declara la nulidad, el Juez ordenará reponer el procedimiento desde la notificación anulada y se sancionará al actuario en los términos que señale el reglamento interior.
 
 ### CAPITULO DECIMO QUINTO. DE LOS INCIDENTES
 
 ###### ARTICULO 199.
 
-La interrupción del procedimiento por causa de muerte, incapacidad, declaración de ausencia, quiebra, disolución de la persona moral o desaparición del órgano de la administración pública se tramitará ante la Sala y procederá cuando antes de la celebración de la audiencia final se de cualquiera de dichos supuestos.
+La interrupción del procedimiento por causa de muerte, incapacidad, declaración de ausencia, quiebra, disolución de la persona moral o desaparición del órgano de la administración pública se tramitará ante el Juzgado y procederá cuando antes de la celebración de la audiencia final se de cualquiera de dichos supuestos.
 
 ###### ARTICULO 200.
 
 La interrupción durará hasta un año para que se apersone en el juicio el representante legal de la parte que hubiese fallecido o se provea a la substitución del correspondiente representante procesal y se sujetará a lo siguiente:
 
-I. Se decretará por la Sala a partir de la fecha en que esta tenga conocimiento de la existencia de alguno de los supuestos a los que se refiere este artículo, y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
 
-II. Si transcurrido el plazo máximo e interrupción no comparece el albacea, el representante legal, o tutor, el Magistrado Instructor acordará la reanudación del juicio, ordenando que todas las notificaciones se efectúen por lista al representante de la sucesión, de la liquidación o de la autoridad demandada según sea el caso.
+I. Se decretará por el Juzgado a partir de la fecha en que este tenga conocimiento de la existencia de alguno de los supuestos a los que se refiere este artículo, y
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+
+II. Si transcurrido el plazo máximo e interrupción no comparece el albacea, el representante legal, o tutor, el Juez acordará la reanudación del juicio, ordenando que todas las notificaciones se efectúen por lista al representante de la sucesión, de la liquidación o de la autoridad demandada según sea el caso.
 
 ### CAPITULO DECIMO SEXTO. DE LA INTERRUPCION DEL PROCEDIMIENTO
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 201.
 
@@ -2163,33 +2281,43 @@ El recurso de queja es procedente:
 
 I. Contra los actos de las autoridades demandadas por exceso o defecto en la ejecución del auto en que se haya concedido a la parte actora la suspensión del acto reclamado, y
 
-II. Contra los actos de las mismas autoridades, por repetición del acto o resolución anulada o por exceso o defecto en la ejecución de la sentencia dictada por las Salas.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
 
-En el escrito se expresarán las razones por las que se consideren que existe repetición del acto o resolución anulada, o que existe exceso o defecto en la ejecución de la sentencia dictada por la Sala.
+II. Contra los actos de las mismas autoridades, por repetición del acto o resolución anulada o por exceso o defecto en la ejecución de la sentencia dictada por los Juzgados de primera instancia.
+
+En el escrito se expresarán las razones por las que se consideren que existe repetición del acto o resolución anulada, o que existe exceso o defecto en la ejecución de la sentencia dictada por el juzgado.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 203.
 
-El recurso de queja se interpondrá por una sola vez ante la Sala correspondiente, dentro del término de cinco días hábiles, contados a partir del día siguiente a aquel en que surta efectos la notificación al interesado, o este se hubiese manifestado sabedor del acto o resolución correspondientes.
+El recurso de queja se interpondrá por una sola vez ante el Juzgado correspondiente, dentro del término de cinco días hábiles, contados a partir del día siguiente a aquel en que surta efectos la notificación al interesado, o este se hubiese manifestado sabedor del acto o resolución correspondientes.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 204.
 
-Una vez admitida la queja, la Sala requerirá a la autoridad, su informe, el que deberá rendir dentro del término de veinticuatro horas contadas a partir del momento en que le sea notificado el auto admisorio del recurso. Vencido dicho término con o sin informe y con base en lo que exponga el quejoso, la Sala dictará la resolución que proceda en un término no mayor de cinco días.
+Una vez admitida la queja, el Juez requerirá a la autoridad, su informe, el que deberá rendir dentro del término de veinticuatro horas contadas a partir del momento en que le sea notificado el auto admisorio del recurso. Vencido dicho término con o sin informe y con base en lo que exponga el quejoso, el Juez dictará la resolución que proceda en un término no mayor de cinco días.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 205.
 
 En caso de declararse procedente la queja, la resolución fijará los lineamientos a que deba someterse a la autoridad para dar debido cumplimiento a la misma.
 
-En caso que haya repetición del acto o resolución anulados, la Sala hará la declaratoria correspondiente, dejando sin efecto dicho acto y la notificará a la autoridad responsable, ordenándole que se abstenga de incurrir en nuevas repeticiones.
+En caso que haya repetición del acto o resolución anulados, el Juez hará la declaratoria correspondiente, dejando sin efecto dicho acto y la notificará a la autoridad responsable, ordenándole que se abstenga de incurrir en nuevas repeticiones.
 
-La resolución a que se refiere el párrafo que antecede, se notificará también al superior del servidor público responsable, para que proceda jerárquicamente y la Sala impondrá a este último una multa de hasta cien veces el Salario Mínimo vigente en el Estado.
+La resolución a que se refiere el párrafo que antecede, se notificará también al superior del servidor público responsable, para que proceda jerárquicamente y el Juez impondrá a este último una multa de hasta cien veces el Salario Mínimo vigente en el Estado.
 
-Si la Sala resuelve que hubo exceso o defecto en el cumplimiento de la sentencia o en la suspensión del acto reclamado, dejará sin efectos el acto o resolución que provoco la queja y se concederá a la autoridad responsable, veinticuatro horas para que dé cumplimiento debido al fallo, señalando la forma y términos precisados en la suspensión o sentencia, conforme a los cuales se debe cumplir.
+Si el Juez resuelve que hubo exceso o defecto en el cumplimiento de la sentencia o en la suspensión del acto reclamado, dejará sin efectos el acto o resolución que provocó la queja y se concederá a la autoridad responsable, veinticuatro horas para que dé cumplimiento debido al fallo, señalando la forma y términos precisados en la suspensión o sentencia, conforme a los cuales se debe cumplir.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 206.
 
-Contra los acuerdos y resoluciones dictados por los Magistrados de las Salas de Primera Instancia, procede el recurso de revisión, cuyo conocimiento y resolución corresponde a la Sala Superior.
+Contra los acuerdos y resoluciones dictados por los Jueces de primera instancia, procede el recurso de revisión, cuyo conocimiento y resolución corresponde a la Sala Superior.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 Podrán ser impugnadas por las partes, mediante recurso de revisión:
 
@@ -2209,27 +2337,45 @@ VII. Las sentencias que decidan la cuestión planteada. Por violaciones cometida
 
 VIII. Las resoluciones que pongan fin al procedimiento de ejecución de la sentencia.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 207.
 
-El recurso de revisión se presentará por escrito con expresión de agravios ante la Sala que dictó el acuerdo o resolución que se impugna, dentro de los cinco días siguientes a la notificación de la resolución recurrida.
+El recurso de revisión se presentará por escrito con expresión de agravios ante el Juzgado que dictó el acuerdo o resolución que se impugna, dentro de los cinco días siguientes a la notificación de la resolución recurrida.
 
-Recibido el recurso, la Sala formará cuaderno por separado, en el cual certificará la fecha en que se notificó el acuerdo o resolución impugnada y la fecha en que se presentó el recurso.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
-Acto seguido acordará en el cuaderno mencionado la recepción del mismo y ordenará se corra traslado a las demás partes, para que dentro del plazo de cinco días hábiles contados a partir de que surta efectos la notificación contesten ante la misma Sala lo que a sus derechos convenga.
+Recibido el recurso, el Juzgado formará cuaderno por separado, en el cual certificará la fecha en que se notificó el acuerdo o resolución impugnada y la fecha en que se presentó el recurso.
 
-Una vez que se reciban los escritos de las demás partes, o bien, transcurrido el plazo sin que hubieren presentado escrito alguno, la Sala, previa certificación del transcurso y conclusión del plazo, acordará la remisión a la Sala Superior del cuaderno a que se refiere el artículo anterior, mismo que deberá contener:
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+Acto seguido, acordará en el cuaderno mencionado la recepción del mismo y ordenará se corra traslado a las demás partes, para que dentro del plazo de cinco días hábiles contados a partir de que surta efectos la notificación contesten ante el mismo Juzgado lo que a sus derechos convenga.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
+
+Una vez que se reciban los escritos de las demás partes, o bien, transcurrido el plazo sin que hubieren presentado escrito alguno; el Juzgado, previa certificación del transcurso y conclusión del plazo, acordará la remisión a la Sala Superior del cuaderno a que se refiere el artículo anterior, mismo que deberá contener:
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 a) El escrito por el que se interpone el recurso de revisión;
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 b) La certificación que contengan la fecha de notificación del acuerdo impugnado y la fecha de presentación del recurso;
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 c) La diligencia de notificación a las demás partes;
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 d) La certificación de la fecha de notificación y la fecha en que se presentaron los escritos de las partes, o en su caso la certificación de que transcurrido el plazo de cinco días concedidos, no se presentaron escritos de las partes; y
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 e) Los escritos de la partes.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 Asimismo enviará copia certificada de las actuaciones del expediente si lo que se recurre es un acuerdo o resolución interlocutoria, o bien el expediente original si se impugna la sentencia que puso fin a la Primera Instancia, así como la determinación que igualmente ponga fin al proceso de la primera instancia.
 
@@ -2241,7 +2387,9 @@ El Magistrado Presidente de la Sala Superior recibido el recurso, dictará el ac
 
 El proyecto será sometido para su aprobación a los integrantes de la Sala Superior, en la sesión que corresponda.
 
-Resuelto el recurso, se notificará a las partes y a la Sala unitaria correspondiente, remitiendo copia certificada de la resolución del recurso de revisión, en su caso, se devolverá el expediente original de Primera Instancia, si este se hubiere remitido.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+Resuelto el recurso, se notificará a las partes y al Juzgado correspondiente, remitiendo copia certificada de la resolución del recurso de revisión, en su caso, se devolverá el expediente original de Primera Instancia, si este se hubiere remitido.
 
 El Reglamento interno de este Órgano Jurisdiccional, dispondrá la organización, forma de sesiones de la Sala Superior y de sus votaciones.
 
@@ -2251,13 +2399,13 @@ El Reglamento interno de este Órgano Jurisdiccional, dispondrá la organizació
 
 Las partes podrán formular exitativa (sic) de justicia ante la Sala Superior, si la de Primera Instancia no pronuncia la resolución que corresponda dentro del plazo que al efecto señala esta Ley.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 210.
 
-Recibida la exitativa (sic) de justicia la presidencia de la Sala Superior, solicitará informe al titular de la Sala de Primera Instancia, quien deberá rendirlo en el plazo de cinco días.
+Recibida la excitativa de justicia la presidencia de la Sala Superior, solicitará informe al titular del Juzgado de primera instancia, quien deberá rendirlo en el plazo de cinco días.
 
-La presidencia dará cuenta a los integrantes de la Sala Superior, que si encuentran fundada la exitativa (sic), resolverán otorgar un plazo que no excederá de cinco días para que el titular de la Sala pronuncie la resolución respectiva, si no se cumpliere con dicha obligación el responsable será sustituido por el Magistrado o Juez que corresponda.
+La Presidencia dará cuenta a los integrantes de la Sala Superior, que si encuentran fundada la excitativa, resolverán otorgar un plazo que no excederá de cinco días para que el titular del Juzgado pronuncie la resolución respectiva, si no se cumpliere con dicha obligación el responsable será sustituido por el Juez que corresponda.
 
 ### CAPITULO DECIMO OCTAVO. DE LAS EXCITATIVAS DE JUSTICIA
 
@@ -2273,9 +2421,9 @@ Las dependencias de los poderes Ejecutivo, Legislativo y Judicial, así como los
 
 Los criterios establecidos en las sentencias que dicte la Sala Superior serán obligatorios para el Tribunal, siempre que lo resuelto se sustente en cinco ejecutorias no interrumpidas por otra en contrario.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
-La Sala Superior también definirá el criterio obligatorio, cuando exista contradicción entre los que sostengan las Salas de Primera Instancia, mediante denuncia que haga el Magistrado que haya sustentado la contradictoria, o a petición de parte interesada.
+La Sala Superior también definirá el criterio obligatorio, cuando exista contradicción entre los que sostengan los Juzgados de primera, mediante denuncia que haga el Magistrado que haya sustentado la contradictoria, o a petición de parte interesada.
 
 El Secretario General de Acuerdos compilará, glosará, estructurará y llevará sistemáticamente el compendio de criterios sustentados y validados.
 
@@ -2287,7 +2435,9 @@ Los criterios que establezca el Tribunal, así como aquellos que constituyan pre
 
 Para la modificación de los criterios a que se refiere el artículo anterior, se observarán las mismas reglas establecidas para su formación.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ENERO DE 2015)</small>
+
+El pleno podrá definir los criterios cuando exista contradicción entre las dictadas por los Juzgados, mediante denuncia que le haga el Juez que haya sustentado la contradictoria o a petición de parte interesada.
 
 ### CAPITULO VIGESIMO PRIMERO. DE LA REGLAMENTACION INTERNA
 
@@ -2406,3 +2556,7 @@ PRIMERO.- La presente Ley entrará en vigor el día de su publicación.
 SEGUNDO.- Para los efectos del segundo párrafo del artículo 81, el Consejo de la Judicatura emitirá los lineamientos respectivos dentro de los ciento ochenta días siguientes, a la entrada en vigencia del presente Decreto.
 
 TERCERO.- El Consejo de la Judicatura determinará sobre el procedimiento que sigan los juicios iniciados hasta antes de la entrada en vigor del presente decreto, determinando la competencia respectiva a los juzgados de primera instancia existentes y los de nueva creación que serán hasta dos.
+
+P.O. 2 DE ENERO DE 2015.
+
+UNICO.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
