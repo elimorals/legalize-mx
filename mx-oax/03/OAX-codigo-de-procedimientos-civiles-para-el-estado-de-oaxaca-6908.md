@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2013-05-18"
+last_updated: "2015-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2015.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -93,7 +93,7 @@ Procederá la acción negatoria para obtener la declaración de libertad o la de
 
 ###### Artículo 11.
 
-Compete la acción confesoria al titular del derecho real inmueble (sic) y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraría el gravamen, para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños y perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del reo que afiance el respeto del derecho.
+Compete la acción confesoria al titular del derecho real (sic) inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraría el gravamen, para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños y perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del reo que afiance el respeto del derecho.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -399,9 +399,17 @@ Las copias simples de los documentos que se presenten, confrontadas y autorizada
 
 Sólo el Secretario del Juzgado o de la Sala correspondiente podrá certificar copias y testimonios de constancias judiciales.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
 ###### Artículo 62.
 
-Las audiencias en los negocios serán públicas, exceptuándose las que se refieran a divorcio, nulidad de matrimonio y las demás que, a juicio del tribunal convenga que sean secretas. El acuerdo será reservado.
+Las audiencias del procedimiento serán públicas, exceptuándose las que se refieran a violencia contra la mujer, niñas, niños y adolescentes, y las demás que a juicio del tribunal convenga que sean privadas. El acuerdo será reservado.
+
+Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes.
+
+Las audiencias se llevarán a cabo con o sin la asistencia de las partes.
+
+Las resoluciones judiciales pronunciadas en las audiencias del procedimiento se tendrán por notificadas en ese mismo acto, sin necesidad de formalidad alguna a quienes estén presentes o debieron haber estado.
 
 ###### Artículo 63.
 
@@ -703,27 +711,35 @@ Pueden los tribunales acordar que los exhortos y despachos que manden expedir se
 
 Las notificaciones, citaciones y emplazamientos se efectuarán a más tardar al día siguiente al en que se dicten las resoluciones que las prevengan, cuando el Juez o la Ley no dispusieran otra cosa. Se impondrá de plano a los infractores de este artículo una multa que no exceda del importe de diez salarios mínimos.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### Artículo 107.
 
-Las notificaciones se harán personalmente, por cédula, por edictos, por correo o telégrafo de acuerdo con lo que se dispone en los artículos siguientes.
+Las notificaciones se harán personalmente, por correo electrónico, por cédula, por edictos, por correo, telégrafo, por lista en la página electrónica oficial del Poder Judicial o por lista en el tablero de avisos del tribunal, de acuerdo con lo que se dispone en los artículos siguientes.
 
-(REFORMADO, P.O. 20 DE ABRIL DE 2001) (F. DE E., P.O. 24 DE NOVIEMBRE DE 2001)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### Artículo 108.
 
-Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deben designar casa ubicada en el lugar de residencia del Juzgado para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias. En caso de autorizar a persona para recibir notificaciones, quedará facultada a promover en el juicio con las limitaciones a que se refiere el artículo 2467 del Código Civil, siempre que acredite tener el título de Licenciado en Derecho. El autorizado podrá renunciar a dicha facultad mediante escrito que presente al Juez o Tribunal que conozca del juicio. Los profesionistas serán responsables de los daños y perjuicios que ocasionen a la parte que los hubiere autorizado, de acuerdo con las disposiciones relativas al mandato. De no acreditarse que se está legalmente autorizado para ejercer la profesión de Abogado, sólo podrán recibir notificaciones e imponerse de los autos.
+Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deben designar casa ubicada precisamente en el lugar en que tenga su sede el tribunal para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias, y en su caso, correo electrónico cuando soliciten se les realicen por esta vía las notificaciones personales con el dispositivo de seguridad autorizado por el Poder Judicial. En caso de autorizar a persona para recibir notificaciones, quedará facultada a promover en el juicio con las limitaciones a que se refiere el artículo 2467 del Código Civil, siempre que acredite tener cédula profesional de Licenciado en Derecho. El autorizado podrá renunciar a dicha facultad mediante escrito que presente al Juez o Tribunal que conozca del juicio. Los profesionistas serán responsables de los daños y perjuicios que ocasionen a la parte que los hubiere autorizado, de acuerdo con las disposiciones relativas al mandato. De no acreditarse que se está legalmente autorizado para ejercer la profesión, sólo podrán recibir notificaciones e imponerse de los autos.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
 También deben designar la casa en la que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan.
 
-> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
-Cuando un litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aún las que conforme a las reglas generales deban hacerse personalmente, se le harán por cédula fijada en el tablero de avisos del Juzgado; si faltare a la segunda parte, no se hará notificación alguna a la persona contra quien promueva hasta que se subsane la omisión.
+Cuando un litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aun las que, conforme a las reglas generales, deban hacerse personalmente, se le harán por lista que se publicará en la página electrónica oficial del Poder Judicial, o en la lista que se publique en los estrados de los juzgados que no tengan internet; si faltare a la segunda parte, no se hará notificación alguna a la persona contra quien promueva, hasta que se subsane la omisión.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### Artículo 109.
 
-Entretanto que un litigante no hiciere nueva designación de casa en donde se practiquen las diligencias y se hagan las notificaciones, seguirán haciéndose éstas en la que para ello hubiere designado, aun cuando se informe al notificador que no habita en ella el interesado, ni persona que lo represente o con quien por aquél se entiendan las notificaciones. En este caso las diligencias en que debiere tener intervención se practicarán en los estrados del tribunal.
+Entretanto que un litigante no hiciere nueva designación de casa en donde se practiquen las diligencias y se hagan las notificaciones, seguirán haciéndose éstas en la que para ello hubiere designado, aun cuando se informe al notificador que no habita en ella el interesado, ni persona que lo represente o con quien por aquél se entiendan las notificaciones.
+
+En los casos señalados en el párrafo anterior las diligencias en que debiere tener intervención el litigante se practicarán por lista que se publicará en la página electrónica oficial del Poder Judicial o en la lista que se publique en los estrados de los juzgados que no tengan internet.
+
+Cuando la notificación personal se debiera realizar a una dirección de correo electrónico y no existe constancia de que el destinatario haya conocido o abierto la notificación con el dispositivo de seguridad en un término de veinticuatro horas contadas a partir de que se ingrese la notificación al sistema, se hará una única notificación en el domicilio que aparezca en autos. En caso de que al realizar la única notificación se actualice el supuesto previsto en el primer párrafo de este artículo, se procederá en términos del párrafo que antecede.
 
 ###### Artículo 110.
 
@@ -863,21 +879,27 @@ III. En todos los demás casos previstos por la ley.
 
 En los casos de las fracciones I y II, los edictos se publicarán por tres veces, con intervalos no menores de siete días en el Periódico Oficial y en uno de los diarios de mayor circulación en el Estado, haciéndose saber al citado que deberá presentarse dentro de un plazo que no será menor de quince ni excederá de treinta días.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### Artículo 116.
 
-En los juzgados que funcionan en la Ciudad de Oaxaca de Juárez, la segunda (sic) ulteriores notificaciones se harán por medio de lista, que se fijará en lugar visible y de fácil acceso. La lista se fijará a primera hora de despacho del día siguiente al de la fecha de la resolución. Si alguna de las partes no se presentara a oír notificaciones hasta las catorce treinta horas del mismo día, se tendrá por hecha, poniendo en la notificación la razón correspondiente.
+La segunda y ulteriores notificaciones se harán por medio de lista, que se publicará diariamente en la página electrónica oficial del Poder Judicial; la lista se publicará a más tardar a las doce horas del día siguiente al de la fecha de la resolución. En los juzgados que no cuenten con internet la publicación se hará en lista fijada en los estrados. Si alguna de las partes no se presentara a oír notificaciones hasta las doce horas del día siguiente de su publicación, se tendrá por hecha, poniendo en la notificación la razón correspondiente.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 1986)</small>
 
 En la lista a que se refiere el párrafo anterior, se expresarán el número del juicio de que se trata, el nombre del actor y del demandado y síntesis de la resolución que se notifique.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
-Las resoluciones que se dicten fuera del plazo que señala el artículo 82 de éste Código, se harán personalmente por el Secretario o el Notificador a los interesados o sus procuradores si ocurren a horas de audiencia al Juzgado o Tribunal respectivo en el mismo día en que se dicten. Si no la verifican y tuvieren casa señalada, la notificación se hará al día siguiente en dicha casa o por medio de instructivo que se les dejará, entregándose éste a cualquiera de las personas designadas en el artículo 112 de este Código.
+Las notificaciones de las resoluciones judiciales se podrán hacer personalmente por el Secretario a los interesados o sus procuradores si ocurren a horas de audiencia al Juzgado o Tribunal respectivo en el mismo día en que se dicten.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 Si no tuvieren casa señalada, la notificación se hará por lista en los términos de este artículo.
 
-En los juzgados foráneos, la segunda y ulteriores notificaciones se harán en todo caso en el domicilio señalado para oírlas y con las formalidades señaladas anteriormente.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+En los juzgados que no cuenten con servicio de internet, la segunda y ulteriores notificaciones se harán por medio de lista que se fije en el tablero de avisos con que cuente el juzgado, con las formalidades señaladas en el párrafo segundo.
 
 ###### Artículo 117.
 
@@ -891,11 +913,13 @@ Si la citación o notificación hubiere de hacerse en país extranjero, el exhor
 
 ### CAPITULO VII. De los plazos judiciales
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### Artículo 119.
 
-Los plazos judiciales empezarán a correr desde el día siguiente a aquél en que se hubiere hecho el emplazamiento o notificación.
+Todos los plazos judiciales empezarán a correr desde el día siguiente a aquel en que hayan surtido efectos el emplazamiento o notificaciones y se contará en ellos el día de vencimiento.
+
+Las notificaciones personales surten efectos al día siguiente del que se hayan practicado, y las demás surten efectos al día siguiente, de aquel en que se hubieren enviado por correo electrónico, publicado por boletín judicial, en la página electrónica oficial del Poder Judicial o fijado en los estrados de los tribunales que no cuenten con internet, al igual que las que se practiquen por correo o telégrafo, cuando exista la constancia de haberse entregado al interesado, y la de edictos al día siguiente de haberse hecho la última publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -4551,7 +4575,7 @@ Si los cónyuges no ratifican la solicitud o no se presentaren en la segunda opo
 
 ###### Artículo 660.
 
-Los cónyuges no pueden hacerse representar por apoderado o procurador en las juntas a que se refieren los artículos 657, (sic), debiendo comparecer personalmente y, en su caso, acompañados de su representante o tutor especial, y además identificarse con documento indubitable, cuya copia se agregará en autos.
+Los cónyuges no pueden hacerse representar por apoderado o procurador en las juntas a que se refieren los artículos 657, (sic) debiendo comparecer personalmente y, en su caso, acompañados de su representante o tutor especial, y además identificarse con documento indubitable, cuya copia se agregará en autos.
 
 Si los Cónyuges no presentan documento indubitable, se suspenderá la celebración de la junta de avenencia.
 
@@ -4617,6 +4641,10 @@ Las partes tendrán en todo tiempo, el derecho de desistirse de los recursos que
 
 El recurso de apelación tiene por objeto que el superior confirme, revoque o modifique la resolución del inferior.
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+El superior debe revocar la resolución y ordenar la reposición del procedimiento a partir de la violación procesal que haya dejado sin defensa a las partes y trascienda al resultado del fallo.
+
 ###### Artículo 671.
 
 Pueden apelar: el litigante, si creyere haber recibido algún agravio; los terceros que hayan salido al juicio; y los extraños a éste a quienes perjudique la resolución judicial, siempre que al interponer el recurso justifiquen tener interés legítimo.
@@ -4629,11 +4657,15 @@ No puede apelar el que obtuvo todo lo que pidió; pero el vencedor que no obtuvo
 
 La parte que venció puede adherirse a la apelación dentro del plazo de tres días siguientes a la notificación de su admisión, debiendo expresar los argumentos que deban ser materia de consideración por la Sala. En este caso, la adhesión sigue la suerte de la apelación principal.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### Artículo 673.
 
-La apelación debe interponerse por escrito en el que se expresarán agravios. El recurso se hará valer ante el Juez que pronunció la resolución impugnada, acompañando las copias necesarias para el traslado. El plazo para apelar será de cinco días tratándose de actos y de diez días en caso de sentencia. En el escrito de expresión de agravios el apelante deberá señalar casa para oír notificaciones en el lugar de residencia de la Sala o Tribunal de apelación; cuando un litigante no cumpla con este requisito, se le mandará requerir para que dentro del plazo de tres días siguientes a la notificación del auto de requerimiento lo subsane, apercibiéndolo que de no hacerlo se le harán por medio de cédula. Los autos serán apelables cuando tengan fuerza de definitivos y cuando la Ley lo disponga, si además lo fuere la sentencia definitiva del juicio en que se dicte. Tienen fuerza de definitivos los autos que causen gravamen no reparable en la sentencia.
+La apelación debe interponerse por escrito en el que se expresarán agravios. El recurso se hará valer ante el Juez que pronunció la resolución impugnada, acompañando las copias necesarias para el traslado.
+
+En el escrito de expresión de agravios el apelante deberá señalar casa para oír notificaciones precisamente en el lugar en que tenga su sede el Tribunal de apelación, y correo electrónico cuando solicite se le realicen por esta vía las notificaciones personales con el dispositivo de seguridad autorizado por el Poder Judicial; cuando un litigante no cumpla con este requisito, se le mandará requerir para que dentro del plazo de tres días siguientes a la notificación del auto de requerimiento lo subsane, apercibiéndolo que de no hacerlo se le harán por medio de cédula. Los autos serán apelables cuando tengan fuerza de definitivos y cuando la Ley lo disponga, si además lo fuere la sentencia definitiva del juicio que se dicte.
+
+El plazo para apelar será de cinco días tratándose de autos y de diez días en caso de sentencia.
 
 ###### Artículo 674.
 
@@ -4647,7 +4679,9 @@ Interpuesta una apelación, el Juez la admitirá sin substanciación alguna, si 
 
 En su caso, prevendrá al apelante para que exhiba las copias necesarias del escrito de expresión de agravios.
 
-En el mismo auto, el Juez mandará requerir a la parte apelada para que dentro del plazo de tres días señale casa para recibir notificaciones en la segunda instancia, en los términos y con el apercibimiento previsto en el artículo 673 de este Código.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+
+En el mismo auto, el Juez mandará requerir a la parte apelada para que dentro del plazo de tres días señale casa para recibir notificaciones en la segunda instancia, y correo electrónico cuando solicite se les realicen por esta vía las notificaciones personales con el dispositivo de seguridad autorizado por el Poder Judicial, en los términos y con el apercibimiento previsto en el artículo 673 de este Código.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -4810,6 +4844,10 @@ La revisión de las sentencias recaídas en los juicios sobre investigación de 
 La Sala respectiva deberá suplir la deficiencia de los agravios en todas las controversias del orden civil y familiar donde puedan afectarse derechos de menores o incapaces o tratándose de violaciones de la Ley que hayan dejado sin defensa a cualquiera de las partes.
 
 La Sala reservará la resolución de la apelación de la sentencia hasta que no hayan quedado concluidas todas las cuestiones intermedias.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+Tratándose de violaciones procesales que trasciendan al resultado del fallo, de oficio o a petición de parte, la Sala debe revocar la resolución y ordenar la reposición del procedimiento a partir de dichas violaciones.
 
 ### CAPITULO III. De la responsabilidad judicial
 
@@ -6880,3 +6918,11 @@ SEGUNDO.- Se abroga la actual Ley de Condominio del Estado de Oaxaca, publicada 
 TERCERO.- Si no se violan derechos adquiridos, las disposiciones de esta Ley regirán los efectos jurídicos de los actos realizados con anterioridad a la vigencia de ésta, en caso contrario se regirán por la Legislación Civil bajo cuyas disposiciones nacieron dichos actos.
 
 CUARTO.- El Ejecutivo del Estado procederá a expedir dentro del plazo de 60 días después de la publicación de la presente Ley, el Reglamento correspondiente.
+
+P.O. 2 DE ENERO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Tribunal Superior de Justicia y el Consejo de la Judicatura en la esfera de sus atribuciones, expedirán la normatividad necesaria para el cumplimiento de esta reforma, dentro de un plazo de seis meses siguientes a la publicación del presente Decreto.
