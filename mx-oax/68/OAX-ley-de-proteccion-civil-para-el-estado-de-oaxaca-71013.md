@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-para-el-estado-de-oaxaca-71013"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-14"
-last_updated: "2009-09-14"
+last_updated: "2015-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE OAXACA
 
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE OAXACA
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 2 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2015 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 14 de septiembre de 2009.
 
@@ -181,7 +183,7 @@ LVI. Subprograma de Prevención.- Subprograma sustantivo de protección civil qu
 
 LVII. Subprograma de Recuperación o Restablecimiento.- Proceso orientado a la reconstrucción y mejoramiento del sistema afectado, población y entorno, así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros;
 
-LVIII. Términos de Referencia.- Conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por el Instituto, en las que se establecen las especificaciones, parámetros y límites permisibles que en las actividades o bienes a que se refiere esta Ley y su Reglamento, que (sic) deberán observar las personas obligadas en materia de protección civil, según el ámbito de aplicación correspondiente;
+LVIII. Términos de Referencia.- Conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por el Instituto, en las que se establecen las especificaciones, parámetros y límites permisibles que en las actividades o bienes a que se refiere esta Ley y su Reglamento, que deberán observar las personas obligadas en materia de protección civil, según el ámbito de aplicación correspondiente;
 
 LIX. Unidad Interna de Protección Civil.- Órgano responsable de implementar y operar el Programa Interno de Protección Civil en los inmuebles e instalaciones de una dependencia, empresa, institución o entidad perteneciente a los sectores público, privado y social;
 
@@ -1179,7 +1181,7 @@ Los programas específicos se establecerán para atender de manera particular un
 
 ###### ARTÍCULO 92.
 
-De manera previa a la autorización de licencia para eventos o espectáculos públicos, funciones y diversiones de tipo cultural, artístico, deportivo, recreativo y otros, donde se lleve a cabo la afluencia o concentración masiva de personas diferente (sic) a su uso habitual, los organizadores, encargados, interesados, o quien haga las veces de éstos, deberán contar con un Programa Específico que se presentará para su aprobación ante el Instituto o la Unidad Municipal correspondiente, en términos de la presente Ley y su Reglamento.
+De manera previa a la autorización de licencia para eventos o espectáculos públicos, funciones y diversiones de tipo cultural, artístico, deportivo, recreativo y otros, donde se lleve a cabo la afluencia o concentración masiva de personas diferente a su uso habitual, los organizadores, encargados, interesados, o quien haga las veces de éstos, deberán contar con un Programa Específico que se presentará para su aprobación ante el Instituto o la Unidad Municipal correspondiente, en términos de la presente Ley y su Reglamento.
 
 ###### ARTÍCULO 93.
 
@@ -1464,3 +1466,23 @@ Tlalixtac de Cabrera, Centro, Oax., a 21 de agosto del 2009.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 ING. JORGE TOLEDO LUIS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE ENERO DE 2015.
+
+PRIMERO. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se otorga a la Coordinación Estatal un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor de la presente Ley, para la elaboración del Reglamento de la misma.
+
+TERCERO. Queda abrogada la Ley de Protección Civil para el Estado de Oaxaca, publicada mediante Decreto número 1360, en el Periódico Oficial el 14 de septiembre de 2009; así mismo, se deja sin efectos cualquier ordenamiento jurídico o administrativo emitido con anterioridad que contravenga lo dispuesto por esta Ley.
+
+CUARTO. El personal que preste sus servicios al Instituto Estatal de Protección Civil quedará adscrito a la Coordinación Estatal de Protección Civil.
+
+QUINTO. La Secretaría de Finanzas tomará las medidas conducentes para transferir a la Coordinación Estatal de Protección Civil, el presupuesto asignado del Instituto Estatal de Protección Civil.
+
+SEXTO. Los bienes muebles e inmuebles que tiene asignados el Instituto Estatal de Protección Civil, pasarán a formar parte del patrimonio de la Coordinación Estatal de Protección Civil.
+
+SÉPTIMO. Son válidos los convenios, contratos y demás actos jurídicos celebrados por el Director General del Instituto Estatal de Protección Civil y se entenderán subrogados al Coordinador Estatal de Protección Civil, siempre y cuando no contravengan a la presente ley.
+
+OCTAVO. El Congreso del Estado en uso de facultades y atribuciones deberá adecuar las leyes, decretos y demás ordenamientos que se relacionen con la aplicación de esta Ley.
