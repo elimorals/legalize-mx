@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2014-12-31"
+last_updated: "2015-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE DICIEMBRE DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 881 PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -451,9 +449,7 @@ XXXII. Coordinar, organizar y supervisar el ejercicio y funcionamiento del regis
 
 XXXIII. Desarrollar acciones de fortalecimiento municipal a través de la vinculación y concertación;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXXIV. Organizar y coordinar el Órgano Desconcentrado denominado Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, y
+XXXIV. (DEROGADA, P.O. 2 DE ENERO DE 2015)
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -2278,3 +2274,7 @@ SEXTO. En tanto la Secretaría del Medio Ambiente y Recursos Naturales del Estad
 P.O. 27 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el uno de enero del dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 2 DE ENERO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
