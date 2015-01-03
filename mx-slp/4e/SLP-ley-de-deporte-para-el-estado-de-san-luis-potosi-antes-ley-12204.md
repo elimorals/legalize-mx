@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deporte-para-el-estado-de-san-luis-potosi-antes-ley-1220
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2014-10-28"
+last_updated: "2015-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEPORTE PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 26 de agosto de 1996.
 
@@ -377,6 +377,10 @@ Para obtener los estímulos, apoyos, gestiones o prerrogativas actuales o futura
 
 Se considera de interés para la sociedad la construcción, conservación, mantenimiento, diversificación, transformación y operación de las instalaciones deportivas, que permitan atender adecuadamente las demandas que requiera el desarrollo del deporte, promoviendo para este fin, la participación de los sectores social y privado.
 
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2015)</small>
+
+El Ejecutivo del Estado, en la medida de las posibilidades presupuestales, destinará del presupuesto anual total asignado al deporte, al menos, el veinte por ciento, para inversión o rehabilitación en infraestructura del deporte.
+
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 38.
@@ -704,6 +708,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 28 DE OCTUBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE ENERO DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
