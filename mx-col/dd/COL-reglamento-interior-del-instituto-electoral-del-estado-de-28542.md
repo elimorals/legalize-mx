@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-del-instituto-electoral-del-estado-de-28542
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-11"
-last_updated: "2003-01-11"
+last_updated: "2015-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28542&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE COLIMA
 
-REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE COLIMA
+REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -634,9 +634,11 @@ A toda sesión precederá una convocatoria por escrito a cada uno de los Conseje
 
 La convocatoria deberá contener: Lugar y fecha de expedición, tipo de sesión; lugar, fecha y hora de celebración; el proyecto del orden del día y deberá ser firmada por el Presidente, conforme a lo previsto por el artículo 164 fracción I del CODIGO.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO 40.
 
-Cuando los miembros del CONSEJO sean convocados a las sesiones, se les deberá proporcionar en copia fotostática anexa la correspondencia respectiva, no así los proyectos de resolución, los cuales no serán distribuidos sino hasta el momento de su desahogo, durante el desarrollo de la sesión de que se trate.
+Cuando los miembros del CONSEJO sean convocados a las sesiones, se les podrá proporcionar en copia fotostática simple y/o en formato digital, la correspondencia respectiva, así como los proyectos de acuerdo, dictámenes, informes de Presidencia, Secretaría Ejecutiva, Coordinaciones o Comisiones del Instituto Electoral del Estado, que vayan a ser desahogados en el orden del día de la sesión a la que se convoca.
 
 ###### ARTÍCULO 41.
 
@@ -672,7 +674,17 @@ XI. Asuntos Generales, y
 
 XII. Clausura de la Sesión respectiva.
 
-Con el objeto de que la convocatoria y el orden del día puedan ser difundidos a los integrantes del CONSEJO, con todos y cada uno de los documentos y anexos a analizar resultantes de los asuntos encomendados a las Comisiones que se integren, la comisión respectiva, así como las diversas áreas y órganos del INSTITUTO involucrados deberán remitirlos al Secretario Ejecutivo del CONSEJO por lo menos con 72 horas de anticipación a la celebración de la sesión que corresponda, salvo el caso de los asuntos a tratar en las sesiones extraordinarias.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2015)</small>
+
+Con el objeto de que la convocatoria y el orden del día puedan ser difundidos a los integrantes del CONSEJO, con todos y cada uno de los documentos y anexos a analizar, las diversas áreas y/o órganos del Instituto Electoral, a través del Consejero y/o funcionario responsable del asunto concreto a someterse a consideración en sesión de Consejo General, deberán remitirlos a la Secretaría Ejecutiva por lo menos con 72 horas de anticipación a la celebración de la sesión que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE ENERO DE 2015)</small>
+
+Para efectos de los asuntos a tratar en las sesiones extraordinarias, los documentos en mención se deberán remitir con 24 horas de antelación al inicio de la sesión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE ENERO DE 2015)</small>
+
+En el supuesto que no pueda cumplirse con los plazos señalados con anterioridad, no se circularán los documentos referidos para los efectos de la dispensa de su lectura.
 
 ###### ARTÍCULO 43.
 
@@ -712,23 +724,25 @@ En caso de ausencia del Secretario Ejecutivo a la sesión sus funciones en ésta
 
 Los debates, se iniciarán con el planteamiento del asunto o dictamen expuesto por alguno de los integrantes del CONSEJO, de lo cual deberá tomar nota el Secretario Ejecutivo.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO 48.
 
 El Presidente elaborará el registro de oradores que intervendrán en las discusiones, cuando se presente a discusión los dictámenes, acuerdos o resoluciones de los órganos del INSTITUTO o de las comisiones.
 
 El orden se conformará de la manera siguiente:
 
-I.- Intervención de un integrante de la Comisión dictaminadora, dando lectura al dictamen;
+I.- Intervención de un integrante de la Comisión dictaminadora, dando lectura al dictamen, cuando éste no haya sido circulado previo a la sesión, o por así haber sido votado por el CONSEJO;
 
 II.- Discusión en lo general, en la que se concederá el uso de la palabra de manera alternada a los oradores.
 
 III.- Discusión en lo particular, de los asuntos, artículos o puntos resolutivos que al inicio del debate se hayan reservado.
 
-Esta discusión en particular, se ordenará de manera análoga a lo establecido en lo general.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2015)</small>
 
 ###### ARTÍCULO 49.
 
-Las intervenciones en los debates y discusiones se pronunciarán personalmente y de viva voz, en un término máximo de cinco minutos. Se exceptúan del término anterior la presentación de iniciativas, lectura de dictámenes y aquellos casos que expresamente se acuerden.
+Las intervenciones en los debates y discusiones se pronunciarán personalmente y de viva voz, en un término máximo de cinco minutos. Se exceptúan del término anterior la presentación de iniciativas, lectura de dictámenes cuando así proceda y aquellos casos que expresamente se acuerden.
 
 ###### ARTÍCULO 50.
 
@@ -758,7 +772,9 @@ Todo proyecto de dictamen realizado por alguna comisión, se discutirá ante el 
 
 I.- Se presentará previamente por escrito al Secretario Ejecutivo del CONSEJO, debidamente suscrito por su o sus autores.
 
-II.- Su autor o alguno de ellos le dará lectura, y expondrá los fundamentos o razones en que se sustente.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2015)</small>
+
+II.- Su autor o alguno de ellos le dará lectura si el documento no se circuló previo a la sesión o se tomó la determinación de la lectura en la propia sesión, y expondrá los fundamentos o razones en que se sustente.
 
 III.- Podrán hacer uso de la palabra de manera alternada hasta dos integrantes del Consejo en contra de dos a favor, procediendo en primer término uno de los que lo hagan en contra, después uno que esté a favor, teniendo preferencia quien haya participado en la elaboración del dictamen de que se trate.
 
@@ -848,7 +864,7 @@ Los Consejos Municipales Electorales tienen las siguientes funciones, aún duran
 
 I.- Promover la cultura electoral en Instituciones Educativas de todos los niveles escolares en su demarcación territorial, impartiendo conferencias o charlas sobre la democracia, la participación ciudadana, el voto, la casilla electoral, los partidos políticos, y demás temas que tengan relación con el quehacer electoral.
 
-III.- Realizar investigaciones de campo en la medida de las posibilidades técnicas existentes, para efecto de mantener información actualizada sobre la potencialidad de ciudadanos que puedan ser integrados como miembros de mesa directiva de casilla, cuando las elecciones locales no coincidan con las elecciones federales.
+III (SIC).- Realizar investigaciones de campo en la medida de las posibilidades técnicas existentes, para efecto de mantener información actualizada sobre la potencialidad de ciudadanos que puedan ser integrados como miembros de mesa directiva de casilla, cuando las elecciones locales no coincidan con las elecciones federales.
 
 IV.- Ser orientadores de los ciudadanos en sus derechos y obligaciones contenidos en el Código Electoral del Estado, cuando los tengan que hacer valer ante partidos políticos o ante instancias electorales.
 
@@ -934,7 +950,9 @@ Corresponde al Secretario Ejecutivo del Consejo Municipal Electoral, lo siguient
 
 I.- Auxiliar al CONSEJO MUNICIPAL ELECTORAL y a su Presidente en el ejercicio de sus atribuciones y conforme a las disposiciones del CODIGO y del presente reglamento.
 
-II.- Dar lectura en la sesión correspondiente y para su aprobación, de los proyectos de dictamen de las comisiones especiales.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2015)</small>
+
+II.- Dar lectura en la sesión correspondiente y para su aprobación, de los proyectos de dictamen de las comisiones especiales, salvo en los casos en que los mismos hayan sido circulados previo a la sesión
 
 III.- Recibir e informar al Presidente del CONSEJO y dar curso a los recursos de revisión que se interpongan contra actos del propio CONSEJO, remitiéndolos con su trámite de ley al CONSEJO GENERAL del INSTITUTO.
 
@@ -999,3 +1017,17 @@ CONSEJERO ELECTORAL
 LIC. JAVIER FIGUEROA BALDOVINES.-Rúbrica.
 
 CONSEJERO ELECTORAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE ENERO DE 2015.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO.- Este Consejo General en atención a los considerandos vertidos, determina la reforma de los artículos 40, 42, 48, 49, 54 y 79 del Reglamento Interior del Instituto Electoral del Estado, para quedar conforme la propuesta señalada en el considerando 8º del presente documento.
+
+SEGUNDO.- El presente acuerdo entrará en vigor el día de su aprobación por el Consejo General del Instituto Electoral del Estado.
+
+TERCERO.- Se instruye al Secretario Ejecutivo del Instituto Electoral del Estado, para que notifique el contenido del presente acuerdo a los Consejos Municipales y partidos políticos acreditados.
+
+CUARTO.- Con fundamento en el artículo 113 del Código de la materia, publíquese el presente acuerdo en el Periódico Oficial "El Estado de Colima" y en la página de internet del Instituto Electoral del Estado.
