@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-707
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-23"
-last_updated: "2013-12-25"
+last_updated: "2015-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2015.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 23 de septiembre de 2009.
 
@@ -651,69 +651,135 @@ XI. Ejecutar los lineamientos conforme a las políticas institucionales para pro
 
 XII. Las demás que le confieran otras disposiciones o el Procurador.
 
-#### Sección Séptima. De la Fiscalía Especializada Jurídica Normativa
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE ENERO DE 2015)</small>
+
+#### Sección Séptima. De la Fiscalía Especializada Jurídica, Consultiva y de Legislación
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 42.
 
-La Fiscalía Especializada Jurídica Normativa, es el órgano sustantivo de la Procuraduría, encargado de representar en todos los procesos jurisdiccionales en que sea parte la Procuraduría y el Procurador; asimismo, tiene como finalidad promover la innovación o actualización de políticas y normas jurídicas penales.
+La Fiscalía Especializada Jurídica, Consultiva y de Legislación, es un órgano sustantivo encargado de representar a la Procuraduría y al Procurador, en todos los procesos jurisdiccionales en que sea parte; asimismo, funge como órgano de consulta del Procurador y de los demás órganos de la Institución, en el estudio, análisis y reflexión en temas relacionados con la procuración de justicia, así como en la realización de proyectos de reformas e iniciativas de leyes, acuerdos, circulares y demás documentos jurídicos relacionados con el funcionamiento de la Procuraduría.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 43.
 
-La Fiscalía Especializada Jurídica Normativa, será competente para:
+La Fiscalía Especializada Jurídica, Consultiva y de Legislación, será competente para:
 
-I. Representar a la Procuraduría, y al Procurador, en todos los procesos jurisdiccionales en que sea parte y tenga interés jurídico.
+A) En materia Jurídica.
 
-II. Proponer al Procurador las bases, convenios y otros instrumentos de colaboración con instituciones públicas y privadas, nacionales o extranjeras en materia de procuración de justicia.
+I. Representar a la Procuraduría y al Procurador, en todos los procesos jurisdiccionales en que sea parte y tenga interés jurídico.
+
+II. Conocer de la substanciación del Recurso de Reconsideración que prevé la Ley, respecto del no ejercicio de la acción penal.
+
+III. Analizar y proponer las adecuaciones correspondientes a los convenios y contratos que afecten el presupuesto o que celebre la Procuraduría con organismos públicos o privados, en coordinación con las áreas que los propongan.
+
+IV. Supervisar que se formulen las quejas respectivas ante el Consejo de la Judicatura Federal o del Estado, por las faltas que a su juicio hubieren cometido los servidores públicos del Poder Judicial, sin perjuicio de la intervención que legalmente le corresponda al Ministerio Público, cuando los hechos sean constitutivos de delito.
+
+V. Formular y rendir los informes previos y justificados, en los juicios de amparo promovidos contra actos del Procurador, así como en la presentación de las promociones y los recursos que deban interponerse.
+
+VI. Sustituir al Procurador para presentar y contestar demandas o su desistimiento, rendir informes, ofrecer pruebas, formular alegatos y presentar recursos en los juicios de amparo, administrativos, laborales y demás medios de control constitucional federales y locales, en los que éste o la Procuraduría sean señalados como autoridad responsable, tercero perjudicado o tenga algún interés jurídico.
+
+VII. Las demás que le confieran otras disposiciones o el Procurador.
+
+B) En materia Consultiva y de Legislación.
+
+I. Fungir como órgano de consulta del Procurador, así como de los distintos órganos que integran la Procuraduría.
+
+II. Proporcionar asesoría a los órganos que integran la Procuraduría, para el análisis y estudio de propuestas de reformas en materia de procuración de justicia.
 
 III. Formular al Procurador para su autorización, las políticas y normas jurídicas para homogenizar y actualizar la legislación del Estado de Chiapas, especialmente la normatividad técnico penal aplicable al ámbito de competencia de la Procuraduría.
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+IV. Colaborar con los demás órganos de la Procuraduría, para establecer manuales, protocolos o lineamientos legales que permitan la expedita procuración de justicia.
 
-IV. Conocer de la substanciación del Recurso de Reconsideración que prevé la Ley, respecto del no ejercicio de la acción penal en la averiguación previa.
+V. Establecer los mecanismos de coordinación con los demás órganos de la Procuraduría en las propuestas de actualización y reformas de la Ley y el presente Reglamento, y demás normatividad interna; e integrar la información en el proyecto que se presente al Procurador.
 
-V. Supervisar que se formulen las quejas respectivas ante el Consejo de la Judicatura del Estado, por las faltas que a su juicio hubieren cometido los servidores públicos del Poder Judicial del Estado, sin perjuicio de la intervención que legalmente le corresponda a las Fiscalías de Distrito, cuando los hechos sean constitutivos de delito.
+VI. Auxiliar y colaborar con el Instituto de Investigación y Profesionalización, en la elaboración de políticas y lineamientos que normen el Servicio Profesional de Carrera.
 
-VI. Formular y rendir los informes previos y justificados, en los juicios de amparo promovidos contra actos del Procurador, así como en la presentación de las promociones y los recursos que deban interponerse.
+VII. Emitir opinión jurídica sobre proyectos de leyes y reformas, que el Titular del Poder Ejecutivo envíe al Procurador, para su consideración correspondiente.
 
-VII. Sustituir al Procurador para presentar y contestar demandas o su desistimiento, rendir informes, ofrecer pruebas, formular alegatos y presentar recursos en los juicios de amparo, administrativos, laborales y demás medios de control constitucional federales y locales, en los que éste o la Procuraduría sean señalados como autoridad responsable, tercero perjudicado o tenga algún interés jurídico.
+VIII. Disponer que se realicen las acciones de seguimiento, ante las instancias competentes, del trámite legislativo de aprobación de leyes y reformas.
 
-VIII. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
+IX. Instrumentar anteproyectos de leyes y reformas, así como de disposiciones normativas que competan a la Procuraduría.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+X. Realizar estudios de tipo jurídico y estudios de derecho comparado en las materias de competencia de la Procuraduría.
+
+XI. Participar en los procesos de investigación, modernización y adecuación del orden normativo que rige el funcionamiento de la Procuraduría.
+
+XII. Auxiliar en el análisis metodológico y revisión de proyectos y programas de la Procuraduría.
+
+XIII. Mantener un acervo actualizado de la doctrina, legislación y publicaciones relacionadas con temas de procuración de justicia y demás que se relacionen con la competencia de la Institución, en la medida en que los diversos órganos de la misma puedan acceder a ella.
+
+XIV. Resguardar y llevar una base de datos de todos aquellos acuerdos, circulares y demás documentos suscritos por el Procurador.
+
+XV. Las demás que le confieran otras disposiciones o el Procurador.
+
+C) En materia de Transparencia y Acceso a la Información
+
+I. Garantizar plenamente la transparencia y el derecho fundamental de toda persona al acceso a la información pública y a la protección de sus datos personales.
+
+II. Administrar la información reservada o confidencial determinada por el Comité de Acceso a la Información Pública de la Institución, debiendo adoptar las medidas necesarias para asegurar su protección, custodia, resguardo y conservación.
+
+III. En su carácter de sujeto obligado, recibir y dar trámite a todas las solicitudes de acceso a la información pública que se presenten.
+
+IV. Implementar, coordinar y supervisar los módulos de acceso a la información y unidades de enlace de la Procuraduría.
+
+V. Llevar un registro de las solicitudes de acceso a la información.
+
+VI. Poner a disposición del público, en forma permanente y de acuerdo a sus facultades, a través del Portal o los medios electrónicos disponibles, la información obligatoria que establece la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas.
+
+VII. Adoptar los mecanismos necesarios para la protección de datos personales.
+
+VIII. Presentar ante el Instituto de Acceso a la Información Pública del Estado, los informes relacionados con las solicitudes de acceso a la información.
+
+IX. Dar seguimiento a los recursos interpuestos por los solicitantes, derivados de las solicitudes de acceso a la información presentadas a la Procuraduría.
+
+X. Las demás atribuciones que le confieran otras disposiciones o el Procurador.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 44.
 
-Son atribuciones del Fiscal Especializado Jurídico Normativo, además de las consignadas en el artículo 32, de la Ley, las siguientes:
+Son atribuciones del Fiscal Especializado Jurídico, Consultivo y de Legislación, además de las consignadas en el artículo 32, de la Ley, las siguientes:
 
-I. Representar jurídicamente al Procurador, ante autoridades administrativas, judiciales y laborales, así como representar a la Procuraduría en todos los procesos que sea parte y tenga interés jurídico.
+I. Representar jurídicamente al Procurador, ante autoridades administrativas, judiciales y laborales, así como representar a la Procuraduría en todos los procesos en que sea parte o tenga interés jurídico.
 
 II. Dirigir las acciones procesales en los Juicios de Amparo, en el que se designe a la Procuraduría o al Procurador como autoridad responsable.
 
-III. Resolver en el ámbito de su competencia, el Recurso de Reconsideración respecto del no ejercicio de la acción penal.
+III. Conocer de aquellos asuntos en los que el Procurador le haya delegado facultades para sustanciar.
 
-IV. Evaluar y emitir dictamen jurídico, en coordinación con las áreas que los propongan, sobre bases de coordinación, convenios de colaboración, y contratos que afecten el presupuesto y que celebre la Procuraduría con organismos públicos y privados.
+IV. Resolver en el ámbito de su competencia, el Recurso de Reconsideración respecto del no ejercicio de la acción penal.
 
-V. Proporcionar y supervisar la asesoría técnico-jurídico y legal a los diversos órganos y áreas de la Procuraduría.
+V. Evaluar y emitir dictamen jurídico, en coordinación con las áreas que los propongan, sobre convenios de colaboración y contratos que afecten el presupuesto o que celebre la Procuraduría con organismos públicos y privados.
 
-VI. Proponer al Procurador, dentro del ámbito de su competencia, instrumentos jurídicos que apoyen la operación y funcionamiento de la Procuraduría.
+VI. Proporcionar asesoría técnico-jurídica y legal a los diversos órganos y áreas de la Procuraduría.
 
-VII. Conducir los trabajos de análisis, elaboración y procesos de aprobación de acuerdos, circulares, instructivos, manuales, y aquellas normas jurídicas y administrativas aplicables en la procuración de justicia.
+VII. Proponer al Procurador, dentro del ámbito de su competencia, instrumentos jurídicos que apoyen la operación y funcionamiento de la Procuraduría.
 
-VIII. Gestionar el trámite de publicación en el Periódico Oficial del Estado, de las disposiciones jurídico administrativas de la Procuraduría.
+VIII. Conducir los trabajos de análisis, elaboración y procesos de aprobación de acuerdos, circulares, instructivos, manuales, y aquellas normas jurídicas y administrativas aplicables en la procuración de justicia.
 
-IX. Asistir en representación de la dependencia a las audiencias de ley ante el órgano de control interno de la Contraloría, el Tribunal del Trabajo Burocrático, y el Tribunal de Justicia Electoral y Administrativa del Poder Judicial, todos del Estado de Chiapas, para la debida substanciación de los expedientes.
+IX. Presentar al Procurador, propuestas de actualización y reformas a la normatividad interna, así como de aquella legislación que se relacione con las actividades que desempeña la Institución.
 
-X. Supervisar que los dictámenes de las actas administrativas que sean turnadas en contra de los servidores públicos de la Procuraduría, se realicen conforme a las normas aplicables.
+X. Dar seguimiento al trámite legislativo de los proyectos de leyes o reformas que se realicen en materia de procuración de justicia, para que una vez publicadas, las hagan llegar al Procurador y a los diversos órganos de la Institución.
 
-XI. Supervisar la elaboración de los proyectos de recursos de reconsideración, juicios de nulidad y revocación, así como amparos derivados de los procesos administrativos.
+XI. Emitir opiniones técnico-jurídicas o dictámenes, en atención a las solicitudes que los diversos órganos de la Procuraduría realicen.
 
-XII. Promover previo acuerdo del Procurador, el desarrollo y operación de concertación entre la Procuraduría y dependencias homólogas a nivel Nacional e instancias de Seguridad Pública que establece la Coordinación del Sistema Nacional de Seguridad Pública.
+XII. Gestionar el trámite de publicación en el Periódico Oficial, de las disposiciones jurídico administrativas de la Procuraduría.
 
-XIII. Emitir opinión técnico-jurídica o dictámenes según corresponda de consultas de su competencia.
+XIII. Asistir en representación de la dependencia a las audiencias de ley ante el órgano de control interno de la Institución, el Tribunal del Trabajo Burocrático, el Tribunal Electoral y demás órganos jurisdiccionales del poder judicial del Estado de Chiapas, en los que sea parte la Procuraduría, para la debida substanciación de los expedientes.
 
-XIV. Certificar documentos y expedir constancias de los expedientes relativos a los asuntos de su competencia.
+XIV. Supervisar que las actas administrativas y circunstanciadas de hechos, levantadas en contra de los servidores públicos de la Procuraduría, se realicen conforme a las normas legales aplicables, así como remitirlas a las autoridades correspondientes para su sustanciación.
 
-XV. Las demás que le confieran otras disposiciones o el Procurador.
+XV. Supervisar la elaboración de los proyectos de recursos de reconsideración y revisión, contestación de demandas, amparos y demás que en razón de sus atribuciones o competencia puedan realizar.
+
+XVI. Certificar documentos y expedir constancias de los expedientes relativos a los asuntos de su competencia.
+
+XVII. Vigilar que se cumpla con el derecho al acceso a la información y la protección de datos personales de los ciudadanos, en términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Ley que Garantiza la Transparencia y el Acceso a la Información para el Estado de Chiapas.
+
+XVIII. Supervisar las acciones que realice la Unidad de Acceso a la Información Pública de la Procuraduría.
+
+XIX. Las demás que le confieran otras disposiciones o el Procurador.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MARZO DE 2011)</small>
 
@@ -1033,27 +1099,37 @@ III. Coordinarse con las autoridades o los demás órganos de la Procuraduría q
 
 IV. Las demás que le confieran otras disposiciones o el Procurador.
 
-#### Sección Décima Tercera. De la Fiscalía Especializada para la Atención de los Delitos Relacionados con Servidores Públicos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE ENERO DE 2015)</small>
+
+#### Sección Décima Tercera. De la Fiscalía Especializada en Combate a la Corrupción
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 62.
 
-La Fiscalía Especializada para la Atención de los Delitos Relacionados con Servidores Públicos, es la encargada de Recepcionar denuncias y perseguir delitos relacionados con servidores públicos a fin de abatir mediante la aplicación de la Ley la corrupción en los niveles de Gobierno Estatal y Municipal.
+La Fiscalía Especializada en Combate a la Corrupción, es la encargada de recepcionar denuncias y perseguir delitos relacionados con hechos de corrupción, así como cualquier otro delito cometido por un servidor público en el desempeño de su empleo, cargo o comisión, en los niveles de Gobierno Estatal y Municipal.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 63.
 
-La Fiscalía Especializada para la Atención de los Delitos Relacionados con Servidores Públicos, tendrá la competencia especial mas no exclusiva, para conocer de los delitos que en el ejercicio de sus funciones o con motivo de ellas cometan ó hayan cometido en su carácter de servidores públicos de los Ayuntamientos, de los Poderes que integran el Estado y Órganos Autónomos del mismo y los que se hallen comprendidos en las disposiciones de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Chiapas.
+La Fiscalía Especializada en Combate a la Corrupción, tendrá la competencia especial mas no exclusiva, para conocer de los delitos que en el ejercicio de sus funciones o con motivo de ellas cometan o hayan cometido en su carácter de servidores públicos de los Ayuntamientos, de los Poderes que integran el Estado y Órganos Autónomos del mismo y los que se hallen comprendidos en las disposiciones de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 64.
 
-La Fiscalía Especializada para la Atención de los Delitos Relacionados con Servidores Públicos, tendrá las facultades en la investigación de todas las personas aún cuando no tengan el carácter de servidor público, que puedan haber participado en los hechos denunciados, para determinar su probable responsabilidad.
+La Fiscalía Especializada en Combate a la Corrupción, tendrá las facultades en la investigación de todas las personas aun cuando no tengan el carácter de servidor público, que puedan haber participado en los hechos denunciados, para determinar su probable responsabilidad.
 
 ###### Artículo 65.
 
 En las averiguaciones previas que se inicien en contra de servidores públicos, en las cuales se vean involucrados particulares, como son los que celebren contratos, presten servicios y/o sean proveedores, entre otros, y tengan cualquier tipo de relación con los hechos que se investiguen, el funcionario de la Fiscalía Especializada que inicie la averiguación previa correspondiente, deberá de atraerlos para su atención y seguimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ENERO DE 2015)</small>
+
 ###### Artículo 66.
 
-La Fiscalía Especializada para la Atención de los Delitos Relacionados con Servidores Públicos será competente para:
+La Fiscalía Especializada en Combate a la Corrupción será competente para:
 
 > <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
 
@@ -1073,9 +1149,11 @@ VII. Participar en coordinación con la Policía adscrita a través de los Fisca
 
 VIII. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ENERO DE 2015)</small>
+
 ###### Artículo 67.
 
-Son atribuciones del Fiscal Especializado para la Atención de los Delitos Relacionados con Servidores Públicos, además de las consignadas en el artículo 32, de la Ley, las siguientes:
+Son atribuciones del Fiscal Especializado en Combate a la Corrupción, además de las consignadas en el artículo 32 de la Ley, las siguientes:
 
 I. Supervisar, controlar y dar seguimiento a los mandamientos judiciales emitidos por la autoridad jurisdiccional, así como su cumplimiento en los asuntos de su competencia.
 
@@ -1389,23 +1467,135 @@ VIII. Supervisar la actualización veraz y oportuna en la información estadíst
 
 IX. Las demás que le confieran otras disposiciones o el Procurador.
 
-> <small>(DEROGADA SU DENOMINACIÓN Y ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 7 DE ENERO DE 2015)</small>
 
-#### Sección Vigésima
+#### Sección Vigésima. De la Fiscalía Especializada en la Implementación y Evaluación del Sistema Penal Acusatorio
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 86.
 
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 2013)
+La Fiscalía Especializada en la Implementación y Evaluación del Sistema Penal Acusatorio, tiene la finalidad de planear, coordinar y dar seguimiento a la implementación y evaluar la operación del Sistema Penal Acusatorio Adversarial dentro de la Procuraduría; así como también, ser el enlace con la Coordinación Interinstitucional en relación a los temas que le competen.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 87.
 
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 2013)
+La Fiscalía Especializada en la Implementación y Evaluación del Sistema Penal Acusatorio, será competente para:
+
+A) En materia de Implementación
+
+I. Implementar acciones que faciliten la correcta y eficiente aplicación del Sistema Penal Acusatorio dentro de la Procuraduría.
+
+II. Realizar la planeación necesaria para determinar los requerimientos humanos y materiales de las Unidades Integrales de Investigación y de Justicia Restaurativa que han de ubicarse en el Estado, de acuerdo a la implementación gradual prevista en el Código de Procedimientos Penales de corte acusatorio y oral, o en su caso, conforme a la Declaratoria de inicio de operaciones del Código Nacional de Procedimientos Penales.
+
+III. Recabar información a fin de realizar estudios comparativos sobre los requerimientos necesarios para la implementación del Sistema Penal Acusatorio, de acuerdo a la estadística y cargas de trabajo.
+
+IV. Generar las necesidades que demanda la Procuraduría en relación a la implementación del Sistema Penal Acusatorio, con el objeto de que la Dirección General de Planeación lo considere dentro del presupuesto de la Procuraduría.
+
+V. Coordinarse con los diversos órganos de la Procuraduría, para el establecimiento de las Unidades Integrales de Investigación y Justicia Restaurativa en el Estado; así como promover la coordinación entre los mismos.
+
+VI. Determinar con los órganos de la Procuraduría, las necesidades para la implementación del Sistema Penal Acusatorio, con el objeto de que la Dirección General de Planeación gestione los recursos que proporciona la Federación para dicha implementación.
+
+VII. Realizar planes de restructuración organizacional capaces de reorientar los recursos de la Procuraduría, a fin de enfocarlos a la implementación del Sistema Penal Acusatorio.
+
+VIII. Realizar conjuntamente con los órganos correspondientes, las propuestas relativas a los cambios organizacionales, directrices de capacitación, proyectos de infraestructura, equipamiento y tecnología, para la adecuada implementación del Sistema Penal Acusatorio.
+
+IX. Proporcionar información y asesorías a los diversos órganos de la Procuraduría, asimismo, otorgar información a las instituciones estatales y federales correspondientes, en temas relacionados con la implementación del Sistema Penal Acusatorio en esta Institución.
+
+X. Recibir y atender las solicitudes que formulen los operadores del Sistema Penal Acusatorio, así como de instancias o sectores relacionados o interesados con el mismo.
+
+XI. Presentar al Procurador, todos aquellos proyectos relacionados a la implementación del Sistema Penal Acusatorio.
+
+XII. Las demás que le confieren otras disposiciones o el Procurador.
+
+B) En materia de Evaluación y Seguimiento
+
+I. Diseñar propuestas para mejorar los procedimientos y métodos de trabajo de las Unidades Integrales de Investigación y Justicia Restaurativa, mediante la evaluación de metas y objetivos.
+
+II. Implementar acciones de seguimiento y evaluación del modelo de gestión de las Unidades Integrales de Investigación y Justicia Restaurativa.
+
+III. Realizar estudios enfocados a promover el uso de mecanismos alternativos de solución de controversias; así como, realizar estudios específicos, análisis comparativos, estudios de evolución y prospectiva y casos prácticos en las distintas etapas del proceso penal acusatorio.
+
+IV. Someter a consideración del Procurador, estrategias, planes, programas o proyectos de innovación diseñados para mejorar la operación del Sistema Penal Acusatorio.
+
+V. Proponer estrategias y acciones de mejoras de la gestión administrativa y tecnológica en la operación del Sistema Penal Acusatorio.
+
+VI. Proponer a los órganos correspondientes protocolos y manuales que sean necesarios para mejorar el funcionamiento de aquellos encargados de la operación del Sistema Penal Acusatorio.
+
+VII. Recopilar y analizar la información relacionada a la operatividad del modelo de gestión del Sistema Penal Acusatorio.
+
+VIII. Analizar las recomendaciones y propuestas de iniciativas del personal que se encuentre operando el Sistema Penal Acusatorio, que sean útiles para hacer eficiente su operación.
+
+IX. Emitir opiniones técnico jurídicas o dictámenes de solicitudes que los diversos órganos de la Procuraduría realicen en relación a la implementación del nuevo sistema de justicia penal.
+
+X. Las demás que le confieren otras disposiciones o el Procurador.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 88.
 
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 2013)
+Son atribuciones del Fiscal Especializado en la Implementación y Evaluación del Sistema Penal Acusatorio, además de las consignadas en el artículo 32 de la Ley, las siguientes:
 
-#### Sección Única. De la Integración y Atribuciones de las Fiscalías del Ministerio Público
+I. Coordinar y diseñar junto con los órganos de la Procuraduría, de acuerdo a la competencia de cada uno de ellos, los programas de trabajo necesarios para la reorganización institucional; el desarrollo y adecuación de infraestructura apropiada; la reingeniería en materia de tecnologías de la información y comunicaciones; la capacitación tanto técnica como sustantiva y; la difusión y transición al Sistema Penal Acusatorio dentro de la Procuraduría. Para lo anterior, podrán crearse grupos de trabajo, en los que sus integrantes, estarán obligados a participar.
+
+II. Someter a consideración del Procurador, y en su caso ejecutar, los proyectos en que se especifiquen las necesidades para la implementación y operación del Sistema Penal Acusatorio en los diferentes Distritos Judiciales del Estado.
+
+III. Llevar a cabo acciones de evaluación y seguimiento de las estrategias, planes y programas para la implementación y operación del Sistema Penal Acusatorio.
+
+IV. Informar al Procurador, respecto de los avances alcanzados para instrumentar y operar el Sistema Penal Acusatorio.
+
+V. Representar al Procurador ante la Comisión Interinstitucional para la Implementación de la Reforma Constitucional en Materia de Seguridad y Justicia Penal en el Estado de Chiapas y demás dependencias de los diferentes niveles de Gobierno y la sociedad civil, en los temas relacionados con el Sistema Penal Acusatorio.
+
+VI. Llevar a cabo reuniones de trabajo multidisciplinarias, en las que intervengan los diversos órganos de la Procuraduría cuyas atribuciones se relacionen con el Sistema Penal Acusatorio, con el propósito de generar estrategias que impulsen el trabajo en equipo y faciliten la transición de la Institución hacia el Nuevo Sistema de Justicia. Los acuerdos o los temas relevantes de dichas reuniones, serán informados al Procurador.
+
+VII. Proponer al Procurador la celebración de convenios u otros instrumentos de colaboración con instituciones públicas y privadas, nacionales o extranjeras relacionados con el Sistema Penal Acusatorio.
+
+VIII. Las demás que le confieran otras disposiciones o el Procurador.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE ENERO DE 2015)</small>
+
+#### Sección Vigésima Primera. De la Fiscalía Especializada para la atención del Delito de Abigeato
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2015)</small>
+
+###### Artículo 88 Bis.
+
+La Fiscalía Especializada para la atención del Delito de Abigeato, estará a cargo de integrar de manera pronta y expedita, y con estricto apego a derecho, las investigaciones que se realicen con motivo de la posible comisión del delito de Abigeato, por lo que tendrá competencia en todo el territorio del Estado, tanto para iniciar, integrar y determinar las investigaciones ministeriales como para conocer de los procesos.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2015)</small>
+
+###### Artículo 88 Ter.
+
+La Fiscalía Especializada para la atención del Delito de Abigeato será competente para:
+
+I. Ejercer las atribuciones que corresponden al Ministerio Público en materia de investigación y persecución del delito de abigeato, y en los demás asuntos que le sean turnados por acuerdo del Procurador.
+
+II. Implementar un sistema de información estadística e información, respecto de las investigaciones que le competen.
+
+III. Proporcionar asesoría jurídica a las víctimas, cuando lo soliciten, así como ser informados sobre el desarrollo de las investigaciones, y en su caso, del proceso correspondiente.
+
+IV. Continuar con la integración y determinación de las investigaciones que se inicien con motivo de la comisión del delito de abigeato.
+
+V. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2015)</small>
+
+###### Artículo 88 Quáter.
+
+Son atribuciones del Fiscal Especializado para la atención del Delito de Abigeato, además de las consignadas en el artículo 32 de la Ley, las siguientes:
+
+I. Coordinar a los Fiscales del Ministerio Público, y demás personal a su cargo.
+
+II. Supervisar que el personal a su cargo cumpla debidamente con las actividades que les sean asignadas en los términos de las disposiciones aplicables.
+
+III. Coordinar en la esfera de su competencia, la fase de integración de las averiguaciones previas.
+
+IV. Proporcionar asesoría jurídica, cuando así lo soliciten a las víctimas y ofendidos de los delitos en el ámbito de su respectiva competencia, e informarles del desarrollo de las averiguaciones previas, y en su caso, del proceso correspondiente.
+
+V. Coordinar a través de los Fiscales del Ministerio Público que le estén adscritos, la información periódica del estado que guardan las averiguaciones previas integradas por ellos.
+
+VI. Las demás que le confieran otras disposiciones o el Procurador.
 
 ### Capítulo V. De la Fiscalía Electoral
 
@@ -1466,6 +1656,8 @@ X. Supervisar el cumplimiento de las recomendaciones derivadas de las visitas pr
 XI. Las demás que le confieran otras disposiciones o el Procurador.
 
 ### Capítulo VI. De las Fiscalías del Ministerio Público
+
+#### Sección Única. De la Integración y Atribuciones de las Fiscalías del Ministerio Público
 
 ###### Artículo 93.
 
@@ -1827,43 +2019,13 @@ XV. Ser el órgano de enlace de la Procuraduría, con las dependencias de la adm
 
 XVI. Las demás que le confieran otras disposiciones o el Procurador.
 
-### Capítulo IV. De la Coordinación de Proyectos Estratégicos, Consultivos y Enlace Interinstitucional
+> <small>(DEROGADA SU DENOMINACIÓN Y ARTÍCULO QUE LO INTEGRA, P.O. 7 DE ENERO DE 2015)</small>
+
+### Capítulo IV
 
 ###### Artículo 113.
 
-El Titular de la Coordinación de Proyectos Estratégicos, Consultivos y Enlace Interinstitucional, tendrá las atribuciones siguientes:
-
-I. Fungir como órgano de consulta del Procurador, así como de los distintos órganos que integran la Procuraduría.
-
-II. Proporcionar asesoría a los órganos que integran la Procuraduría, para el estudio, análisis y propuestas de reformas en la procuración de justicia.
-
-III. Participar como enlace, entre la Procuraduría y las Instancias Estatales y Federales que participen en el desarrollo y seguimiento de programas y proyectos en procuración de justicia.
-
-IV. Colaborar con los demás órganos de la Procuraduría, para establecer lineamientos legales que permitan la expedita procuración de justicia.
-
-V. Establecer los mecanismos de coordinación con los demás órganos de la Procuraduría en las propuestas de actualización y reformas de la Ley y el presente Reglamento, y demás normatividad interna; e integrar la información en el proyecto que se presente al Procurador.
-
-VI. Auxiliar y colaborar con el Instituto, en la elaboración de políticas y lineamientos que normen el Servicio de Carrera Ministerial, Policial y Pericial.
-
-VII. Emitir opinión jurídica sobre proyectos de leyes y reformas, que el Titular del Poder Ejecutivo envíe al Procurador, para su consideración correspondiente.
-
-VIII. Disponer que se realicen las acciones de seguimiento, ante las instancias competentes, del trámite legislativo de aprobación de leyes y reformas en materia penal.
-
-IX. Proponer al Procurador anteproyectos de leyes y reformas, así como de disposiciones normativas que competan a la Procuraduría.
-
-X. Realizar estudios de tipo jurídico y estudios de derecho comparado en las materias de competencia de la Procuraduría.
-
-XI. Participar en los procesos de investigación, modernización y adecuación del orden normativo que rige el funcionamiento de la Procuraduría.
-
-XII. Auxiliar en el análisis metodológico y revisión de proyectos y programas de la Procuraduría.
-
-XIII. Establecer políticas en materia de procuración de justicia, dar seguimiento a la aplicación y evaluación de los acuerdos que en la materia se determine y promover la coordinación con las diversas dependencias y entidades de la administración pública en sus diferentes niveles de gobierno, así como con los Poderes Legislativo y Judicial del Estado.
-
-XIV. Coordinar en la esfera de competencia de la Procuraduría, en estricto cumplimento de la Ley de Transparencia y Acceso a la Información Pública del Estado y su Reglamento, lo relativo a la administración de documentos de trámite, que se generen en los órganos que integran la Procuraduría o en la prestación del servicio.
-
-XV. Atender y canalizar a los órganos respectivos las solicitudes de información que planteen los ciudadanos, así como implementar, coordinar y supervisar los módulos de acceso a la información y unidades de enlace de la Procuraduría.
-
-XVI. Las demás que le confieran otras disposiciones o el Procurador.
+(DEROGADO, P.O. 7 DE ENERO DE 2015)
 
 ### Capítulo V. De la Coordinación de Prevención e Innovación Institucional
 
@@ -2854,3 +3016,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
 
 Artículo Tercero.- En cumplimiento al artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 7 DE ENERO DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
+
+Artículo Tercero.- En cumplimiento al artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
