@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-del-consejo-general-y-comisiones-del-808
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2014-11-04"
+last_updated: "2015-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80856&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-03-28"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE ENERO DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -178,6 +178,8 @@ Así lo aprobaron por unanimidad de votos las Consejeras y los Consejeros Electo
 
 …
 
+> <small>N. DE E. EL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, EXPEDIDO POR EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL MEDIANTE ACUERDO NÚMERO ACU-232-14, PUBLICADO EN LA G.O. DE 7 DE ENERO DE 2015, MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
+
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
 ÍNDICE
@@ -236,13 +238,21 @@ REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL 
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ### CAPÍTULO ÚNICO. GENERALIDADES
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de observancia obligatoria y tiene por objeto regular la celebración, conducción y desarrollo de las sesiones del Consejo General, y Comisiones del Instituto Electoral, así como la actuación de sus integrantes durante las mismas.
+El presente Reglamento es de observancia obligatoria y tiene por objeto regular la celebración, conducción y desarrollo de las sesiones del Consejo General, y comisiones del Instituto Electoral, así como la actuación de sus integrantes durante las mismas.
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 2.
 
@@ -252,15 +262,9 @@ A) En cuanto a los ordenamientos legales:
 
 I. Código: Código de Instituciones y Procedimientos Electorales del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 II. Reglamento: Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral del Distrito Federal, y
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 III. Reglamento Interior: Reglamento Interior del Instituto Electoral del Distrito Federal.
-
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
 
 B) En cuanto a las autoridades y órganos:
 
@@ -294,27 +298,33 @@ XIV. Secretario Técnico: Secretaria Técnica o Secretario Técnico de las Comis
 
 XV. Comité: Comités del Instituto Electoral.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 3.
 
 La interpretación y aplicación de las disposiciones de este Reglamento se hará conforme a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, transparencia y objetividad.
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
 ###### Artículo 4.
 
-Las sesiones del Consejo General y Comisiones se llevarán a cabo en el domicilio oficial del Instituto Electoral. Sólo por causas de fuerza mayor o caso fortuito que, a juicio de quien las presida, no garanticen el buen desarrollo y la libre participación de sus integrantes, podrá sesionarse en cualquier otro lugar dentro del Distrito Federal.
+Las sesiones del Consejo General y Comisiones se llevarán a cabo en el domicilio oficial del Instituto Electoral. Sólo por causas de fuerza mayor o caso fortuito que a juicio de quien las presida, no garanticen el buen desarrollo y la libre participación de sus integrantes, podrá sesionarse en cualquier otro lugar dentro del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 5.
 
-Los participantes del Consejo General y las invitadas e invitados que asistan a las sesiones del Consejo General y a Comisiones y Comités, deberán conducirse en todo momento con respeto durante el desarrollo de las mismas y propiciar su correcta celebración.
+Los participantes del Consejo General y las invitadas e invitados que asistan a las sesiones del Consejo General ya Comisiones y Comités, deberán conducirse en todo momento con respeto durante el desarrollo de las mismas y propiciar su correcta celebración.
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ## TÍTULO SEGUNDO. DE LAS SESIONES DEL CONSEJO GENERAL
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
-### CAPITULO I. DE LAS ATRIBUCIONES DE LAS Y LOS ASISTENTES A LAS SESIONES DEL CONSEJO GENERAL
+### CAPÍTULO I. DE LAS ATRIBUCIONES DE LAS Y LOS ASISTENTES A LAS SESIONES DEL CONSEJO GENERAL
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 6.
 
@@ -326,25 +336,21 @@ II. Declarar el inicio y conclusión de la sesión;
 
 III. Declarar los recesos que considere necesarios durante el desarrollo de una sesión;
 
-IV. Tomar las decisiones y medidas que estime necesarias para el adecuado desarrollo de las sesiones;
+IV. Tomar las decisiones y medidas que estime necesarias para el adecuado desarrollo de las sesiones:
 
 V. Participar en la discusión de los asuntos, contenidos en el orden del día de la sesión de que se trate;
 
 VI. Manifestarse libremente sobre los temas que se traten en las sesiones;
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 VII. Conceder el uso de la palabra a los participantes del Consejo General conforme al procedimiento establecido en el Reglamento;
-
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
 
 VIII. Consultar, en su caso, a los participantes del Consejo General, si el asunto del orden del día que se está analizando, ha sido suficientemente discutido;
 
 IX. Proponer acuerdos o modificaciones a los documentos que se analicen en la sesión;
 
-X. Solicitar al Secretario del Consejo someter a votación los proyectos de acuerdo y resolución;
+X. Solicitar al Secretario del Consejo someter a votación los proyectos de acuerdo y resolución:
 
-XI. Vigilar la aplicación del Reglamento y que se conserve el orden durante las sesiones, dictando las medidas necesarias para ello;
+XI. Vigilar la aplicación del reglamento y que se conserve el orden durante las sesiones, dictando las medidas necesarias para ello;
 
 XII. Declarar al Consejo General en sesión permanente, cuando así lo acuerde la mayoría de sus integrantes con derecho a voto;
 
@@ -353,6 +359,8 @@ XIII. Declarar, por causa de fuerza mayor o caso fortuito, la suspensión tempor
 XIV. Excusarse de conocer de algún asunto en que tengan interés personal, por relaciones de parentesco o negocios, amistad estrecha o enemistad que pueda afectar la imparcialidad en su desempeño, y
 
 XV. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 7.
 
@@ -376,25 +384,21 @@ VIII. Excusarse de conocer de algún asunto en que tengan interés personal, por
 
 IX. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
 ###### Artículo 8.
 
 Corresponde al Secretario del Consejo:
 
 I. Asistir a las sesiones del Consejo General y participar en ellas con derecho a voz;
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 II. Preparar los proyectos de orden del día, convocatorias e invitaciones a las sesiones del Consejo General;
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
-III. Enviar a los integrantes del Consejo General y, en su caso, a los representantes de candidato(a), la convocatoria a las sesiones junto con los documentos y anexos de los asuntos incluidos en el orden del día, así como enviar a las invitadas e invitados permanentes la invitación respectiva. Asimismo, ordenar la publicación en la página de Internet institucional tanto el orden del día como los documentos y anexos correspondientes conforme lo dispuesto en el artículo 12 de este Reglamento.
-
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+III. Enviar a los integrantes del Consejo General y, en su caso, a los representantes de candidato(a), la convocatoria a las sesiones junto con los documentos y anexos de los asuntos incluidos en el orden del día, así como enviar a las invitadas e invitados permanentes la invitación respectiva. Asimismo, ordenar la publicación en la página de Internet institucional tanto el orden del día como los documentos y anexos correspondientes conforme a lo dispuesto en el artículo 12 de este Reglamento;
 
 IV. Pasar lista de asistencia a los integrantes del Consejo General y llevar el registro de ella, en su caso, dar cuenta de la asistencia de las invitadas e invitados permanentes, así como de representantes de candidato(a);
 
-V. Solicitar la dispensa de la lectura de los documentos previamente distribuidos y que forman parte del orden del día;
+V. Solicitar la dispensa de la lectura de los documentos previamente distribuidos que forman parte del orden del día;
 
 VI. Participar en el desahogo de los asuntos de la sesión;
 
@@ -402,35 +406,27 @@ VII. Contribuir al correcto desarrollo de las sesiones;
 
 VIII. Proponer acuerdos o modificaciones a los documentos que se analicen en la sesión;
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 IX. Elaborar el proyecto de acta de la sesión, someterla a la aprobación del Consejo General y, en su caso, incorporar las observaciones realizadas a la misma por los participantes del propio Consejo;
 
 X. Dar cuenta de los escritos que se presenten al Consejo General;
-
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
 
 XI. Ser enlace directo entre el Consejo General y los diversos órganos del Instituto Electoral;
 
 XII. Llevar el cómputo del tiempo de las intervenciones para los efectos previstos en el Reglamento;
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
-XIII. Informar sobre el cumplimento de los acuerdos y resoluciones del Consejo General cuando lo solicite alguno de los integrantes del mismo;
+XIII. Informar sobre el cumplimiento de los acuerdos y resoluciones del Consejo General cuando lo solicite alguno de los integrantes del mismo;
 
 XIV. Firmar con el Consejero Presidente las actas de las sesiones, las resoluciones y los acuerdos aprobados;
-
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
 
 XV. Elaborar las versiones estenográficas de las sesiones del Consejo General y llevar su registro, así como de las actas, acuerdos y resoluciones aprobados por el Consejo General y el archivo de dichos documentos, y
 
 XVI. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 9.
 
-Corresponde a los representantes de partido:
+Corresponde a los Representantes de partido:
 
 I. Asistir a las sesiones del Consejo General y participar en ellas con derecho a voz;
 
@@ -448,17 +444,13 @@ VII. Contribuir al correcto desarrollo de las sesiones;
 
 VIII. Solicitar por mayoría al Consejero Presidente, convoque a sesión extraordinaria;
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
-IX. Alternarse durante el desarrollo de las sesiones, entre propietaria(o) y suplente, si lo consideran necesario, y
+IX. Alternarse durante el desarrollo de las sesiones, entre propietaria( o) y suplente, si lo consideran necesario, y
 
 X. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
-###### Artículo 9 Bis.
-
-Corresponde a las invitadas e invitados permanentes:
+Artículo 9 BIS. Corresponde a las invitadas e invitados permanentes:
 
 I. Recibir oportunamente la invitación a las sesiones del Consejo General, junto con el proyecto de orden del día;
 
@@ -472,11 +464,9 @@ V. Contribuir al correcto desarrollo de las sesiones, y
 
 VI. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
-###### Artículo 9 Ter.
-
-Corresponde a los representantes de candidato(a):
+Artículo 9 TER. Corresponde a los representantes de candidato(a):
 
 I. Ser convocados oportunamente a las sesiones ordinarias y extraordinarias del Consejo General cuando se trate algún asunto relacionado con la elección de Jefe(a) de Gobierno, así como recibir la documentación correspondiente;
 
@@ -500,15 +490,15 @@ El Consejero Presidente podrá interrumpir o llamar la atención a cualquier rep
 
 Los representantes de candidato(a) podrán permanecer en la mesa del Consejo General durante toda la sesión si así lo desean, guardando la compostura debida, o retirarse al concluir el tratamiento de los asuntos que involucran a su representado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
-Artículo 9 Cuater. Las invitadas e invitados a la sesión podrán hacer uso de la palabra durante la misma, para rendir los informes o aclarar el asunto que se discuta, con la autorización previa del Consejo General o del Presidente de la Comisión o Comité de que se trate.
+Artículo 9 CUATER. Las invitadas e invitados a la sesión podrán hacer uso de la palabra durante la misma, para rendir los informes o aclarar el asunto que se discuta, con la autorización previa del Consejo General o del Presidente de la Comisión o Comité de que se trate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 10.
 
-El Consejero Presidente, los Consejeros Electorales están impedidos para intervenir, en cualquier forma, en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para su persona, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las demás personas antes referidas formen o hayan formado parte.
+El Consejero Presidente y los Consejeros Electorales están impedidos para intervenir, en cualquier forma, en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para su persona, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las demás personas antes referidas formen o hayan formado parte.
 
 Cuando el Consejero Presidente o cualquiera de los Consejeros Electorales se encuentren en alguno de los supuestos enunciados en el párrafo anterior deberán excusarse.
 
@@ -518,15 +508,19 @@ I. Presentar al Secretario del Consejo, previamente al inicio de la discusión d
 
 II. El Consejo General deberá resolver de inmediato respecto de la procedencia de la excusa que se haga valer.
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
 ### CAPÍTULO II. DEL TIPO DE SESIONES, SU DURACIÓN Y CONVOCATORIA
+
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2015)</small>
 
 #### SECCIÓN PRIMERA. DEL TIPO DE SESIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 11.
 
-Las sesiones del Consejo General podrán ser ordinarias, extraordinarias y solemne (sic).
+Las sesiones del Consejo General podrán ser ordinarias, extraordinarias y solemnes.
 
 A) Las sesiones ordinarias se sujetarán a lo siguiente:
 
@@ -536,31 +530,27 @@ II. Tendrán por objeto tratar los asuntos que se señalen en el orden del día,
 
 B) Las sesiones extraordinarias se sujetarán a lo siguiente:
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 I. Serán convocadas por el Consejero Presidente o a petición que le formule la mayoría de los representantes de partido, de manera conjunta o de forma separada;
 
 II. Tendrán por objeto tratar asuntos que por su importancia y urgencia para los fines del Instituto Electoral, no pueden esperar a ser desahogados en la siguiente sesión ordinaria, y
 
 III. Solamente podrán tratarse aquellos asuntos para las que fueron convocadas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 C) La sesión solemne se sujetará a lo siguiente:
 
 I. Será convocada por el Consejero Presidente;
 
-II. Tendrá por objeto conocer del informe anual de actividades a que hace referencia el artículo 58, fracción XIII del Código, en el que se dé cuenta del estado general que guarda el Instituto Electoral; y
+II. Tendrá por objeto conocer del informe anual de actividades a que hace referencia el artículo 58, fracción XIII del Código, en el que se dé cuenta del estado general que guarda el Instituto Electoral, y
 
 III. Solamente podrá tratarse el asunto para el que se convocó.
 
 A la convocatoria a la sesión pública solemne deberá adjuntarse el orden del día y el informe anual en medio electrónico, así como los anexos necesarios para el desahogo del punto.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2015)</small>
 
 #### SECCIÓN SEGUNDA. DE LA CONVOCATORIA E INVITACIÓN A LAS SESIONES
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 12.
 
@@ -570,31 +560,37 @@ La invitación que se emita a las invitadas e invitados permanentes para asistir
 
 Los proyectos de acuerdo del Consejo General se publicarán en la página de Internet institucional, a partir de que sea notificada la convocatoria a la sesión correspondiente, excepto tratándose de resoluciones en materia de procedimientos sancionadores o de fiscalización.
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
 ###### Artículo 13.
 
 Para la celebración de sesiones, el Consejero Presidente deberá convocar por escrito en los plazos siguientes:
 
-I. Sesión ordinaria, por lo menos con setenta y dos horas de anticipación a la hora fijada para la sesión, y
+I. Sesión ordinaria, por lo menos con setenta y dos horas de anticipación a la hora fijada para la sesión;
 
-II. Sesión extraordinaria, por lo menos con veinticuatro horas de anticipación a la hora en que se fije la sesión, excepto cuando se trate de asuntos de extrema urgencia o cuya naturaleza requiera una atención inmediata, en donde se podrá convocar en un plazo menor.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+II. Sesión extraordinaria, por lo menos con veinticuatro horas de anticipación a la hora en que se fije la sesión, excepto cuando se trate de asuntos de extrema urgencia o cuya naturaleza requiera una atención inmediata, en donde se podrá convocar en un plazo menor, y
 
 III. Sesión solemne, por lo menos con setenta y dos horas de anticipación a la hora fijada para la sesión, la cual se efectuará dentro del primer trimestre de cada año.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 14.
 
-Los Consejeros Electorales, representantes de partido y representantes de candidato(a) podrán solicitar al Consejero Presidente incluir algún tema en el orden del día de las sesiones ordinarias, debiendo acompañar, en su caso, los documentos y anexos necesarios, mismos que serán distribuidos a los demás integrantes del Consejo General, por lo menos con veinticuatro horas de anticipación a la celebración de dicha sesión.
+Los Consejeros Electorales, representantes de partido y representantes de candidato(a) podrán solicitar al Consejero Presidente incluir algún (sic) terna en el orden del día de las sesiones ordinarias, debiendo acompañar, en su caso, los documentos y anexos necesarios, mismos que serán distribuidos a los demás integrantes del Consejo General, por lo menos con veinticuatro horas de anticipación a la celebración de dicha sesión.
 
 Cuando resulte procedente, el Consejero Presidente incluirá el asunto solicitado en el orden del día que corresponda.
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 15.
 
 En aquellos casos en los que, debido a los grandes volúmenes de documentación, no sea posible acompañar los anexos necesarios para la discusión de los asuntos incluidos en el orden del día, éstos se pondrán a disposición de los integrantes del Consejo General, a través de la Secretaría del mismo, para que a partir de la fecha de emisión de la convocatoria puedan ser consultados.
 
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2015)</small>
+
 #### SECCIÓN TERCERA. DE LA DURACIÓN DE LAS SESIONES
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 16.
 
@@ -602,21 +598,29 @@ El tiempo límite para la duración de las sesiones será de ocho horas. Agotado
 
 Después de cada tres horas de prolongada la sesión, el Consejo General podrá decidir su continuación o no, siguiendo el procedimiento establecido en el párrafo anterior.
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
 ###### Artículo 17.
 
 El Consejo General podrá declararse en sesión permanente cuando lo estime necesario para el tratamiento de un asunto determinado, sin perjuicio de que puedan desahogarse, en su caso, los subsecuentes puntos del orden del día. En tal supuesto no operará el límite de tiempo establecido en el artículo anterior.
 
 Dicha sesión concluirá una vez que se hayan agotado o resuelto los asuntos que la motivaron.
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
 ### CAPÍTULO III. DEL INICIO Y DESARROLLO DE LAS SESIONES
 
-#### SECCIÓN PRIMERA. DE LAS REGLAS PARA EL INICIO DE LA SESIÓN
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
+#### SECCIÓN SEGUNDA (SIC). DEL CARÁCTER PÚBLICO Y ORDEN EN LAS SESIONES
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 18.
 
 En el día y hora fijado para la sesión se reunirán los integrantes del Consejo General, el Consejero Presidente declarará iniciada la sesión, previa verificación de asistencia y certificación del quórum por parte del Secretario del Consejo.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 19.
 
@@ -630,17 +634,23 @@ Si llegada la hora prevista para la sesión no se reúne el quórum se dará un 
 
 Dicha sesión se celebrará dentro de las doce horas siguientes durante los procesos electorales y de participación ciudadana o dentro de las veinticuatro horas siguientes fuera de ellos, con los Consejeros Electorales, representantes de partido, invitadas e invitados permanentes, y de ser el caso, los representantes de candidato(a) del Consejo General que concurran a ella.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 20.
 
 Si en el transcurso de la sesión se ausentaran parte de sus integrantes y con ello se interrumpe el quórum, el Consejero Presidente declarará un receso o, en su caso, suspenderá la sesión del Consejo General y citará para su continuación dentro de los plazos señalados en el último párrafo del artículo anterior.
 
-#### SECCIÓN SEGUNDA. DEL CARÁCTER PÚBLICO Y ORDEN EN LAS SESIONES
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2015)</small>
+
+#### SECCIÓN TERCERA. DE LA DISCUSIÓN DE LOS ASUNTOS
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 21.
 
 Las sesiones del Consejo General serán públicas. El público asistente deberá guardar el debido orden en el recinto donde se celebren, permanecer en silencio y abstenerse de cualquier manifestación.
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 22.
 
@@ -652,7 +662,11 @@ II. Invitar a abandonar la sala a aquellos que estén alterando el orden, y
 
 III. Solicitar el auxilio de la fuerza pública, para desalojar a quienes hayan alterado el orden.
 
-#### SECCIÓN TERCERA. DE LA DISCUSIÓN DE LOS ASUNTOS
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2015)</small>
+
+#### SECCIÓN CUARTA. DE LAS VOTACIONES
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 23.
 
@@ -660,53 +674,55 @@ Iniciada la sesión, se pondrá a consideración del Consejo General el contenid
 
 El Consejo General, mediante votación y a solicitud de alguno de sus integrantes, podrá modificar el orden del día, así como de los asuntos contenidos en éste.
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
 ###### Artículo 24.
 
-Al aprobarse el orden del día, se consultará en votación económica si se dispensa la lectura de los documentos previamente circulados. A petición de algún integrante del Consejo General, el Secretario del Consejo dará lectura a los documentos que se le soliciten para ilustrar la discusión.
+Al aprobarse el orden del día, se consultará en votación económica si se dispensa la lectura de los documentos previamente circulados. A petición de algún integrante del Consejo General, el Secretario del Consejo dará lectura a los documentos que se le soliciten para ilustrar la discusión, en esos casos se detendrá el cronómetro de participación del orador y dicha lectura no podrá exceder de cinco minutos.
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 25.
 
 En el caso de que un punto del orden del día aprobado este integrado con varios apartados, cuando se aborde el mismo, cualquiera de los integrantes del Consejo General podrá solicitar se separe para su discusión en lo particular uno o más apartados, observándose en cada caso lo establecido en el artículo 29 del presente Reglamento.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 26.
 
 Los participantes del Consejo General, que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los proyectos de acuerdo o resolución del propio órgano superior de dirección, podrán presentarlas por escrito al Secretario del Consejo, de manera previa, sin perjuicio de que durante la discusión del punto correspondiente puedan presentarse nuevas observaciones, de manera verbal.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 27.
 
 Los participantes del Consejo General sólo podrán hacer uso de la palabra con la autorización previa del Consejero Presidente.
 
-Los participantes del Consejo General no podrán ser interrumpidos(as) cuando se encuentren en uso de la palabra, salvo por el Consejero Presidente para señalarle que su tiempo, en los términos establecidos en este ordenamiento, ha concluido, o para exhortarlo(a) a que se conduzca dentro de los supuestos previstos por el Reglamento. Si él o la oradora se aparta del asunto en debate o hace referencias o alusiones que ofendan a cualquiera de los participantes del Consejo General, el Consejero Presidente lo hará notar.
+Los participantes del Consejo General no podrán ser interrumpidos(as) cuando se encuentre en uso de la palabra, salvo por el Consejero Presidente para señalarle que su tiempo, en los términos establecidos en este ordenamiento, ha concluido, o para exhortarlo(a) a que se conduzca dentro de los supuestos previstos por el Reglamento. Si él o la oradora se aparta del asunto en debate o hace referencias o alusiones que ofendan a cualquiera de los participantes del Consejo General, el Consejero Presidente lo hará notar.
 
 En el curso de las deliberaciones, los participantes del Consejo General se abstendrán de entablar polémicas o debates en forma de diálogo con otro(a) participante del Consejo General.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 7 DE ENERO DE 2015)</small>
+
 ###### Artículo 28.
 
-(DEROGADO, G.O. 11 DE SEPTIEMBRE DE 2014)
+Cualquier miembro del Consejo General podrá realizar mociones al orador que esté haciendo uso de la palabra, con el objeto de hacerle una pregunta o solicitarle una aclaración sobre algún punto de su intervención.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+Las mociones al orador deberán dirigirse al Consejero Presidente y contar con la anuencia de aquél a quien se hace. Cada uno de los integrantes podrá formular hasta dos mociones por cada uno de los puntos del orden del día.
+
+En caso de ser aceptada, la intervención del solicitante de la moción no podrá durar más de un minuto y para dar respuesta a la moción formulada, el orador contará con un minuto.
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 29.
 
 Para la discusión de los asuntos comprendidos en el orden del día de la sesión de que se trate, el Consejero Presidente elaborará una lista de oradores(as) conforme al orden en que se lo soliciten, de acuerdo a lo siguiente:
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 I. En cada sesión del Consejo General habrá hasta tres rondas de participación, en donde sus participantes podrán intervenir una sola vez en cada una de ellas. Las rondas de opinión tendrán una duración máxima de hasta diez, cinco y tres minutos, respectivamente;
-
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
 
 II. Concluida la primera o segunda ronda y después de que hayan intervenido todos los oradores(as) que así desearan hacerlo, el Consejero Presidente preguntará si el punto está suficientemente discutido y en caso de no ser así, se abrirá la siguiente ronda, según corresponda. Bastará que sólo un participante del Consejo General pida la palabra, para que la segunda o tercera ronda se lleve a efecto;
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
-III. En caso de que en alguna de las rondas no se registre para intervenir, alguno de los participantes del Consejo General, se procederá a la votación del asunto o se dará por enterado el Consejo General, según corresponda;
+III. En caso de que en alguna de las rondas no se registre para intervenir, alguno de los participantes del Consejo General, se procederá a la votación del asunto, o se dará por enterado el Consejo General, según corresponda;
 
 IV. Adicionalmente, los Consejeros Electorales y el Secretario del Consejo podrán intervenir en cada una de las rondas para responder preguntas, aclarar dudas o hacer precisiones sobre el asunto que se esté tratando;
 
@@ -716,7 +732,7 @@ VI. Para los efectos del Reglamento, se entenderá por voto razonado, el conjunt
 
 VII. Tratándose de asuntos generales, las intervenciones se llevarán a cabo en dos rondas de participación, en los términos establecidos en la fracción I de este artículo, las cuales no podrán exceder de cinco minutos la primera y de tres minutos la segunda, por orador.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 30.
 
@@ -724,15 +740,19 @@ Los participantes del Consejo General podrán solicitar el uso de la palabra al 
 
 Para el caso anterior, el Consejero Presidente otorgará el uso de la palabra, al finalizar la intervención del orador en turno.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 Para efectos de este Reglamento, se entenderá por alusión personal, cualquier referencia nominal a un participante del Consejo General, respecto de sus opiniones expresadas durante el desarrollo de la discusión.
 
-#### SECCIÓN CUARTA. DE LAS VOTACIONES
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2015)</small>
+
+#### SECCIÓN QUINTA. DE LAS AUSENCIAS E INASISTENCIAS
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 31.
 
 Los acuerdos y resoluciones del Consejo General se tomarán por mayoría de votos de sus integrantes presentes con derecho a ello, salvo en los casos que la ley exija mayoría calificada.
+
+Una vez iniciado el proceso de votación, el Consejero Presidente no podrá conceder el uso de la palabra para continuar con la discusión del asunto, salvo que se solicite alguna moción exclusivamente para aclaración del procedimiento.
 
 Los Consejeros Electorales votarán levantando la mano para expresar el sentido de su decisión.
 
@@ -740,13 +760,13 @@ La votación se tomará en el siguiente orden: contando el número de votos a fa
 
 En caso de empate, el Consejero Presidente tendrá voto de calidad.
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 32.
 
 Los asuntos contenidos en el orden del día serán discutidos y, en su caso, votados, salvo cuando el propio Consejo General acuerde, mediante votación, posponer la discusión o votación de algún asunto en particular, así como su devolución para su adecuación y posterior presentación al Consejo General.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 33.
 
@@ -754,35 +774,39 @@ A solicitud de algún(a) integrante del Consejo General se podrá dividir la vot
 
 Posteriormente, se tomará la votación en lo particular sobre los puntos restantes. En caso de que existiera más de un proyecto de acuerdo o resolución, el Secretario del Consejo tomará la votación para cada uno de ellos en el orden en que hayan sido presentados.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
-###### Artículo 33 Bis.
-
-Los Consejeros Electorales podrán formular voto particular, voto concurrente y voto razonado de acuerdo a los supuestos siguientes:
+Artículo 33 BIS. Los Consejeros Electorales podrán formular voto particular, voto concurrente y voto razonado de acuerdo a los supuestos siguientes:
 
 a) En caso de existir disenso por parte de algún Consejero Electoral respecto de la decisión tomada por la mayoría relativo al sentido del acuerdo o resolución que se esté discutiendo, podrá formular voto particular a fin de dejar constancia del mismo;
 
 b) En el caso que la discrepancia del Consejero Electoral se centre exclusivamente en la parte argumentativa pero exista coincidencia en el sentido de la decisión final, podrá formular un voto concurrente respecto de la parte del acuerdo o resolución que fue motivo de su disenso; y
 
-c) De existir coincidencia con los argumentos expresados y con el sentido del acuerdo o resolución, pero que considere necesario agregar diversos razonamientos que fortalezcan la argumentación jurídica, el Consejero Electoral podrá formular un voto razonado.
+c) De existir coincidencia con los argumentos expresados y con el sentido de] acuerdo o resolución, pero que considere necesario agregar diversos razonamientos que fortalezcan la argumentación jurídica, el Consejero Electoral podrá formular un voto razonado.
 
 El voto particular, el voto concurrente y el voto razonado que en su caso formulen los Consejeros Electorales, deberá constar por escrito y ser remitido a la Secretaría Ejecutiva dentro de los dos días siguientes a la aprobación del Acuerdo o Resolución de que se trate, a efecto de que se inserte al final del acuerdo.
 
-#### SECCIÓN QUINTA. DE LAS AUSENCIAS E INASISTENCIAS
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+#### SECCIÓN SEXTA. DE LA SUSPENSIÓN DE LAS SESIONES
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 34.
 
 En el caso de ausencias del Consejero Presidente y del Secretario del Consejo se estará a lo dispuesto por el Código.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 35.
 
 En el supuesto de que algún Consejeros Electorales (sic) se encuentre imposibilitado para asistir a la sesión, deberá notificar tal circunstancia al Consejero Presidente antes de iniciar la sesión respectiva.
 
-#### SECCIÓN SEXTA. DE LA SUSPENSIÓN DE LAS SESIONES
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2015)</small>
+
+#### SECCIÓN SÉPTIMA. DE LAS ACTAS DE SESIONES
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 36.
 
@@ -794,15 +818,17 @@ II. Cuando dejen de prevalecer las condiciones que garanticen el buen desarrollo
 
 III. Las demás que expresamente se establecen en el Reglamento.
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 37.
 
 En caso de suspenderse la sesión, el Consejero Presidente citará para su continuación dentro de los mismos plazos a que se refiere el último párrafo del artículo 19 del Reglamento, o bien, cuando se haya superado la causa que motivó la suspensión.
 
-#### SECCIÓN SÉPTIMA. DE LAS ACTAS DE SESIONES
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+#### SECCIÓN OCTAVA. DE LA PUBLICACIÓN DE LOS ACUERDOS Y RESOLUCIONES
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 38.
 
@@ -814,9 +840,9 @@ El acta aprobada deberá incluir, en su caso, las modificaciones que el Consejo 
 
 Se elaborará una versión estenográfica que contendrá íntegramente lo tratado en la sesión, la cual servirá de base para la formulación del proyecto de acta a que alude este artículo, cuya elaboración será responsabilidad del Secretario del Consejo.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 Las versiones estenográficas no podrán ser modificadas. Los participantes del Consejo General podrán solicitar al Secretario del Consejo un ejemplar de la versión estenográfica.
+
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2015)</small>
 
 #### SECCIÓN OCTAVA. DE LA PUBLICACIÓN DE LOS ACUERDOS Y RESOLUCIONES
 
@@ -824,19 +850,19 @@ Las versiones estenográficas no podrán ser modificadas. Los participantes del 
 
 ###### Artículo 39.
 
-Dentro de los plazos establecidos en el Código, el Secretario del Consejo deberá remitir en medio electrónico u óptico, los acuerdos y resoluciones aprobados a los participantes del Consejo General, órganos ejecutivos, técnicos y desconcentrados del Instituto Electoral, pasa (sic) su debido cumplimiento en el ámbito de sus atribuciones.
+Dentro de los plazos establecidos en el Código, el Secretario del Consejo deberá remitir en medio electrónico u óptico, los acuerdos y resoluciones aprobados a los participantes del Consejo General, órganos ejecutivos, técnicos y desconcentrados del Instituto Electoral, pasa su debido cumplimiento en el ámbito de sus atribuciones:
 
 El Consejo General ordenará la publicación en la Gaceta Oficial del Distrito Federal de los acuerdos y resoluciones que determine.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 Todos los acuerdos se publicarán en el sitio de Internet del Instituto Electoral, precisándose la fecha de su entrada en vigor.
-
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
 
 Salvo que el Código o el Consejo General establezcan un plazo especial, todos los acuerdos entrarán en vigor al día siguiente de su publicación en los estrados de las oficinas centrales del Instituto Electoral, excepto tratándose de resoluciones que por procedimiento deban ser notificadas personalmente, en cuyo caso la notificación se hará dentro de los siete días siguientes.
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
 ## TÍTULO TERCERO. LAS COMISIONES DEL CONSEJO GENERAL
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 40.
 
@@ -844,25 +870,23 @@ Las Comisiones son instancias colegiadas con facultades de deliberación, opini�
 
 I. Tres Consejeros Electorales, uno de los cuales fungirá como Presidente, todos ellos con derecho a voz y voto;
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 II. Los representantes de partido serán integrantes con derecho a voz, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización y no conformarán quórum;
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
-III. Los representantes de candidatos(as) que sean acreditados a partir de su registro y exclusivamente durante el proceso electoral, con derecho a voz, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización y (sic) no conformarán quórum, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+III. Los representantes de candidatos(as) que sean acreditados a partir de su registro y exclusivamente durante el proceso electoral, con derecho a voz, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización y no conformarán quórum, y
 
 IV. Las invitadas e invitados permanentes, durante los procesos electorales, se integrarán a los trabajos de las Comisiones de Organización y Geoestadística Electoral y de Educación Cívica y Capacitación, así como a los trabajos de las Comisiones Provisionales previstas en el artículo 52 del Código, sólo con derecho a voz, su intervención únicamente estará vinculada al proceso electoral y no contarán para efectos del quórum.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 41.
 
 Las Comisiones contarán con un Secretario Técnico sólo con derecho a voz.
 
-### CAPÍTULO I. DE LA INTEGRACIÓN DE LAS COMISIONES DEL CONSEJO GENERAL
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
+### CAPÍTULO II (SIC). DE LAS ATRIBUCIONES DE SUS INTEGRANTES
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 42.
 
@@ -870,13 +894,9 @@ Corresponde a los Presidentes de las Comisiones:
 
 I. Asistir a las sesiones de su Comisión;
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 II. Convocar a los integrantes de la Comisión y presidir las sesiones;
 
 III. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate;
-
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
 
 IV. Proponer al Secretario Técnico, conforme a lo establecido en este Reglamento;
 
@@ -906,15 +926,17 @@ XVI. Declarar, por causas de fuerza mayor o caso fortuito, la suspensión tempor
 
 XVII. Firmar las minutas de las sesiones a las que haya asistido;
 
-XVIII. Solicitar y recibir, por conducto del Secretario Ejecutivo del Instituto Electoral, la colaboración, informes y documentos necesarios para el cumplimiento de los asuntos de su competencia. En caso de que para el desarrollo de una sesión, la Comisión requiriera de un documento urgente, el Presidente de la misma podrá solicitarlo directamente al titular del área que corresponda, y
+XVIII. Solicitar y recibir, por conducto del Secretario Ejecutivo del Instituto Electoral la colaboración, informes y documentos necesarios para el cumplimiento de los asuntos de su competencia. En caso de que para el desarrollo de una sesión, la Comisión requiriera de un documento urgente, el Presidente de la misma podrá solicitarlo directamente al titular del área que corresponda, y
 
 XIX. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 43.
 
 Corresponde a los Consejeros Electorales:
 
-I. Asistir a las sesiones de las Comisiones;
+I. Asistir a las sesiones de las Comisiones:
 
 II. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate;
 
@@ -922,19 +944,21 @@ III. Ser convocados oportunamente y recibir la documentación respectiva;
 
 IV. Proponer acuerdos o modificaciones a los documentos que se analicen en la sesión;
 
-V. Manifestarse libremente sobre los temas que se traten en las sesiones;
+V. Manifestarse libremente sobre los temas que se traten en las sesiones:
 
-VI. Contribuir al correcto desarrollo de las sesiones;
+VI. Contribuir al correcto desarrollo de las sesiones:
 
 VII. Firmar las minutas de las sesiones a las que haya asistido, y
 
 VIII. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 44.
 
 Los Presidentes de las Comisiones tienen la facultad de proponer como Secretario Técnico de su Comisión a un servidor público adscrito a su oficina que tenga un perfil profesional acorde con los trabajos de la Comisión en la que se desempeñará o al Director Ejecutivo o Titular de la Unidad de la materia más afín, con excepción de lo dispuesto en el artículo 90 del Código.
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 45.
 
@@ -944,7 +968,7 @@ I. Asistir a las sesiones de las Comisiones;
 
 II. Preparar la documentación para la realización de las sesiones de las comisiones;
 
-III. Enviar, por instrucción del Presidente: documentos, invitaciones a reuniones de trabajo, convocatorias a las sesiones de la Comisión y demás documentos que sean necesarios para el desarrollo de los trabajos de la Comisión;
+III. Enviar, por instrucción del Presidente: documentos, invitaciones a reuniones de trabajo, convocatorias a las sesiones de la Comisión y demás documentos sean necesarios para el desarrollo de los trabajos de la Comisión;
 
 IV. Pasar lista de asistencia al inicio de cada sesión;
 
@@ -966,13 +990,15 @@ XII. Elaborar la minuta de cada sesión;
 
 XIII. Dar cuenta de los escritos que se presenten a la Comisión;
 
-XIV. Verificar el cumplimiento de los acuerdos adoptados por la Comisión;
+XIV. Verificar el cumplimiento de los acuerdos adoptados por la Comisión:
 
 XV. Informar sobre el cumplimiento de los acuerdos y resoluciones de la Comisión cuando lo solicite alguno de sus integrantes;
 
 XVI. Llevar el archivo de la Comisión, y
 
 XVII. Las demás que les confiera el Código, el Reglamento Interior, el Presidente de su Comisión y la normativa que rige al Instituto Electoral.
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 46.
 
@@ -982,7 +1008,7 @@ I. Asistir a las sesiones de las Comisiones;
 
 II. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate;
 
-III. Ser convocados oportunamente y recibir la documentación respectiva;
+III. Ser convocados oportunamente y recibir la documentación respectiva:
 
 IV. Proponer acuerdos o modificaciones a los documentos que se analicen en la sesión;
 
@@ -990,17 +1016,13 @@ V. Manifestarse libremente sobre los temas que se traten en las sesiones;
 
 VI. Contribuir al correcto desarrollo de las sesiones;
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 VII. Alternarse durante el desarrollo de las sesiones, entre propietario o propietaria y suplente, si lo consideran necesario, y
 
 VIII. Las demás que les confiera el Código, el Reglamento y demás normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
-###### Artículo 46 Bis.
-
-Corresponde a las y los representantes de candidato(a):
+Artículo 46 BIS. Corresponde a las y los representantes de candidato(a):
 
 I. Asistir a las sesiones de las Comisiones donde se traten asuntos relacionados con la elección de Jefe(a) de Gobierno;
 
@@ -1018,13 +1040,11 @@ VII. Alternarse durante el desarrollo de las sesiones, entre propietario o propi
 
 VIII. Las demás que les confiera el Código, el Reglamento y demás normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 47.
 
-Los Consejeros Electorales están impedidos para intervenir, en cualquier forma, en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios(as) o sociedades de las que, la persona servidora pública o las demás personas antes referidas, formen o hayan formado parte.
-
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+Los Consejeros Electorales están impedidos para intervenir, en cualquier forma, en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios(as) o sociedades de las que, la persona servidora pública o las demás personas antes referidas formen o hayan formado parte.
 
 Cuando las y los Consejeros Electorales se encuentren en alguno de los supuestos enunciados en el párrafo anterior deberán excusarse.
 
@@ -1034,7 +1054,11 @@ I. Deberá presentar al Secretario Técnico, previamente al inicio de la discusi
 
 II. La Comisión deberá resolver de inmediato respecto de la procedencia de la excusa que se haga valer.
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DE SUS INTEGRANTES
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
+### CAPÍTULO III. DEL TIPO DE SESIONES Y DE LA CONVOCATORIA
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 48.
 
@@ -1050,89 +1074,87 @@ III. En este punto, todos los integrantes de la Comisión podrán plantear y exp
 
 B) Las sesiones extraordinarias se sujetarán a lo siguiente:
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 I. Serán convocados por el Presidente cuando lo estime necesario o a petición que le formule la mayoría de los Consejeros Electorales que la integren;
 
 II. Tendrán por objeto tratar asuntos que por su importancia o por su carácter urgente para los fines del Instituto Electoral, no puedan esperar a ser desahogados en la siguiente sesión ordinaria, y
 
 III. Solamente podrán tratarse aquellos asuntos para las que fueron convocadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 49.
 
 Para la discusión de los asuntos comprendidos en el orden del día de la sesión de que se trate, el Presidente elaborará una lista de oradores(as) conforme al orden en que se lo soliciten, de acuerdo a lo siguiente:
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+I. En cada sesión, habrá hasta tres rondas de participación, en donde sus asistentes podrán intervenir una sola vez en cada una de ellas. Las rondas de opinión tendrán una duración máxima de hasta ocho, cuatro y dos minutos, respectivamente;
 
-I. En cada sesión, habrá hasta tres rondas de participación, en donde sus asistentes podrán intervenir una sola vez en cada una de ellas. Las rondas de opinión tendrán una duración máxima de hasta ocho, cuatro y dos minutos, respectivamente.
-
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
-II. En cada una de las rondas y después de que hayan intervenido todos los oradores(as) que así desearan hacerlo, el Presidente preguntará si el punto está suficientemente discutido y en caso de no ser así, se realizará una segunda o tercera ronda, según corresponda. Bastará que un solo asistente de la Comisión pida la palabra, para que la segunda o tercera ronda se lleve a efecto;
-
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+II. En cada una de las rondas y después de que hayan intervenido todos los oradores (as) que así desearan hacerlo, el Presidente preguntará si el punto está suficientemente discutido y en caso de no ser así, se realizará una segunda o tercera ronda, según corresponda. Bastará que un solo asistente de la Comisión pida la palabra, para que la segunda o tercera ronda se lleve a efecto;
 
 III. En caso de que en alguna de las rondas no se registren para intervenir ninguno de los asistentes de la Comisión, se procederá a la votación del asunto, o se dará por enterada la Comisión, según corresponda;
 
 IV. Adicionalmente, los Consejeros Electorales y el Secretario Técnico podrán intervenir en cada una de las rondas para responder preguntas, aclarar dudas o hacer precisiones sobre el asunto que se esté tratando;
 
-V. El Presidente y los Consejeros Electorales podrán intervenir para razonar el sentido de su voto, sin exceder de tres minutos;
+V. El Presidente y los Consejeros Electorales podrán intervenir para razonar sentido de su voto, sin exceder de tres minutos;
 
 VI. Para los efectos del Reglamento, se entenderá por voto razonado, el conjunto de argumentos personales expresados de manera verbal por el Presidente o por los Consejeros Electorales, mediante los cuales den a conocer los motivos y razones del sentido de su decisión, respecto de un punto del orden del día, y
 
 VII. Tratándose de asuntos generales, las intervenciones se llevarán a cabo en dos rondas de participación, en los términos establecidos en el primer párrafo de este artículo, las cuales no podrán exceder por orador, de cinco y tres minutos, respectivamente.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 50.
 
 La convocatoria a sesión deberá contener el día y la hora en que la misma se deba celebrar, la mención de su carácter de ordinaria o extraordinaria, un proyecto de orden de día para ser desahogado. A dicha convocatoria se acompañaran, por escrito, medio magnético o correo electrónico, todos y cada uno de los documentos y anexos necesarios para la discusión de los asuntos incluidos en el orden del día, sin que los mismos puedan ser sujetos a modificación salvo previa discusión y aprobación por parte de los Consejeros Electorales integrantes de la Comisión de que se trate.
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
 ###### Artículo 51.
 
 Las convocatorias a las sesiones ordinarias serán emitidas por lo menos con setenta y dos horas de anticipación, y las extraordinarias serán emitidas con por lo menos veinticuatro horas de anticipación, salvo que se trate de asuntos de extrema urgencia o cuya naturaleza requiera una atención inmediata, casos en los que se podrá convocar en un plazo menor.
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 52.
 
 Las Comisiones podrán declararse en sesión permanente por mayoría de votos de los Consejeros Electorales que las integren, para tratar los asuntos que así lo requieran. La sesión concluirá una vez que se hayan desahogado los asuntos que motivaron la declaración.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 El Presidente de la Comisión deberá remitir a la Presidencia y a la Secretaría Ejecutiva del Instituto Electoral, copia de la convocatoria y de los documentos que se anexen.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 53.
 
 En el supuesto de que el Presidente no asista a la sesión a la que haya convocado, o se ausente definitivamente de la sesión, ésta será presidida por el Consejero Electoral que siga en la prelación establecida en el acuerdo de integración de la Comisión de que se trate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 54.
 
-Los integrantes de las Comisiones podrán proponer la inclusión de asuntos en el orden del día de una sesión, dentro de las doce horas siguientes a la fecha en que se reciba la convocatoria para la misma. Por lo que hace a los representantes de candidatos(as), sólo podrán proponer temas relacionados con la elección de Jefe(a) de Gobierno.
+Los integrantes de las Comisiones podrán proponer la inclusión de asuntos en el orden del día de una sesión, dentro de las doce horas siguientes a la fecha en que reciba la convocatoria para la misma. Por lo que hace a los representantes de candidatos(as), sólo podrán proponer temas relacionados con la elección de Jefe(a) de Gobierno.
 
 El Presidente, cuando resulte procedente, incluirá el asunto solicitado en el orden del día correspondiente.
 
-### CAPÍTULO III. DEL TIPO DE SESIONES Y DE LA CONVOCATORIA
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
+### CAPÍTULO IV. DEL INICIO Y DESARROLLO DE LAS SESIONES
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 55.
 
-En el día y hora fijado para la sesión se reunirán los integrantes de la Comisión, el Presidente declarará el inicio de la sesión, previa verificación de asistencia y certificación del quórum por parte del Secretario Técnico.
+En el día y hora fijado para la sesión se reunirán los integrantes de la Comisión, el Presidente declarará el inicio de la sesión, previa versificación de asistencia certificación del quórum por parte del Secretario Técnico.
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 56.
 
 Las Comisiones sesionarán válidamente con la mayoría simple de sus integrantes.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
-
 Si llegada la hora prevista para la sesión no se reúne el quórum, se dará un término de espera máximo de veinte minutos. Si transcurrido dicho tiempo aún no se logra la integración del quórum, se hará constar tal situación en un acta circunstanciada y se citará a nueva sesión a los Consejeros Electorales y, en su caso, representantes de partido, invitadas e invitados permanentes o representante de candidato(a), quedando notificados(das) quienes estuvieran presentes.
 
 Dicha sesión se celebrará dentro de las doce horas siguientes durante los procesos electorales y procedimientos de participación ciudadana o dentro de las veinticuatro horas siguientes fuera de ellos, con los Consejeros Electorales que concurran a ella.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 57.
 
@@ -1142,77 +1164,81 @@ I. No existan las condiciones que garanticen el buen desarrollo de la sesión;
 
 II. Exista alteración del orden, y
 
-> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+III. Cuando lo solicite algún integrante de la Comisión, y lo apruebe la mayoría de sus miembros presentes con derecho a voto.
 
-III. Cuando lo solicite algún integrante de la Comisión, y lo apruebe la mayoría de sus miembros presente con derecho a voto.
+En caso de suspensión de la sesión, se asentará en la minuta respectiva las causas que dieron origen a la misma; los asuntos ya discutidos y, en su caso, votados; así como los puntos del orden del día que quedaron pendientes, los cuales serán tratados en la reanudación de la sesión. Ésta se reanudará cuando se hayan superado las causas que motivaron la suspensión.
 
-En caso de suspensión de la sesión, se asentará en la minuta respectiva las causas que dieron origen de la misma, los asuntos ya discutidos y, en su caso, votados; así como los puntos del orden del día que quedaron pendientes, los cuales serán tratados en la reanudación de la sesión. Ésta se reanudará cuando se hayan superado las causas que motivaron la suspensión.
-
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 58.
 
 Cuando el tratamiento de los asuntos de las Comisiones así lo requiera, podrá solicitarse la intervención de invitadas e invitados con derecho a voz, previo acuerdo de la Comisión respectiva.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 59.
 
 Durante la sesión, los asuntos serán discutidos y, en su caso, votados conforme al orden del día. La Comisión podrá posponer la discusión o votación de algún asunto en particular si así lo acuerdan la mayoría de sus integrantes. A solicitud de algún o alguna integrante de la Comisión, la votación de un asunto se podrá dividir en lo general y en lo particular.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 60.
 
-Para hacer uso de la palabra, los integrantes de la Comisión deberán solicitarlo al Presidente. Una vez iniciada su intervención, no serán interrumpidos(as) excepto por el Presidente, para exhortarlos(as) a que se conduzcan dentro de los supuestos previstos por el Reglamento.
+Para hacer uso de la palabra, los integrantes de la Comisión deberán solicitarlo al Presidente. Una vez iniciada su intervención, no serán interrumpidos(as) excepto por el Presidente, para exhortarlos(as) a que se conduzca dentro de los supuestos previstos por el Reglamento.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 61.
 
 Los informes, dictámenes, acuerdos o proyectos de resolución de la Comisión, se asumirán por mayoría de votos de los Consejeros Electorales presentes que integran dicha Comisión. En caso de empate, el Presidente tendrá voto de calidad.
 
-### CAPÍTULO IV. DEL INICIO Y DESARROLLO DE LAS SESIONES
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
+### CAPÍTULO V. DE LAS MINUTAS DE LAS SESIONES
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 62.
 
 De cada sesión de las Comisiones se elaborará una minuta que contendrá la fecha de la sesión, hora de inicio y conclusión, la lista de asistencia, los puntos del orden del día, una síntesis de las intervenciones, la denominación e identificación de las determinaciones adoptadas y el sentido del voto de los integrantes de la Comisión.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 63.
 
-La Presidencia de la Comisión deberán (sic) incluir en el orden del día de la siguiente sesión ordinaria, un punto relativo a la aprobación de la minuta de la sesión anterior.
+La Presidencia de la Comisión deberán (sic) incluir en el orden del día de la siguiente Sesión Ordinaria, un punto relativo a la aprobación de la minuta de la sesión anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 64.
 
-Dentro de las cuarenta y ocho horas siguientes a la conclusión de cada sesión, los Presidentes deberán enviar a la Presidencia y a la Secretaría Ejecutiva del Instituto Electoral, la minuta aprobada por las y los integrantes de la Comisión.
+Dentro de las cuarenta y ocho horas siguientes a la conclusión de cada sesión, los Presidentes deberán enviar a la Presidencia y a la Secretaría Ejecutiva del Instituto Electoral, la minuta aprobada por las y los integrantes de la Comisión. Asimismo, dichas minutas deberán difundirse en términos de la normativa en materia de Transparencia y Acceso a la Información Pública.
 
-Asimismo, dichas minutas deberán difundirse en términos de la normativa en materia de Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ### CAPÍTULO VI. DE LAS COMISIONES UNIDAS
 
-### CAPÍTULO V. DE LAS MINUTAS DE LAS SESIONES
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 65.
 
-Dos o más Comisiones podrán sesionar en forma conjunta como Comisiones Unidas para analizar asuntos de sus respectivas competencias cuyo desahogo se encuentre vinculado, con objeto de fortalecer la articulación y agilidad de los trabajos del Instituto Electoral
-
-> <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+Dos o más Comisiones podrán sesionar en forma conjunta como Comisiones Unidas para analizar asuntos de sus respectivas competencias cuyo desahogo se encuentre vinculado, con objeto de fortalecer la articulación y agilidad de los trabajos del Instituto Electoral.
 
 Una vez que las Comisiones Unidas concluyan los trabajos para los cuales fueron integradas, deberán elaborar y aprobar un acta de cierre de los trabajos, que contenga un resumen ejecutivo de los acuerdos adoptados.
+
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 66.
 
 La Presidencia de dichas Comisiones Unidas recaerá en el Presidente que las mismas Comisiones designen, quien a su vez designará al Secretario Técnico de la misma, a efecto de que elabore la convocatoria correspondiente y desempeñe las demás labores inherentes al cargo que le fue conferido.
 
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
+
 ###### Artículo 67.
 
 Para el funcionamiento de las sesiones de las Comisiones Unidas se aplicarán las reglas de las Comisiones.
 
-### CAPÍTULO VII. DE LOS COMITÉS
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2015)</small>
 
 ###### Artículo 68.
 
@@ -1249,3 +1275,15 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Reglamento.
 TERCERO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
 
 CUARTO. Remítase para su publicación a la Gaceta Oficial del Distrito Federal, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+
+G.O. 7 DE ENERO DE 2015.
+
+(Reforma del 19 de diciembre de 2014, aprobada por el Consejo General del Instituto Electoral mediante Acuerdo número ACU-232-14)
+
+PRIMERO. La reforma al Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral del Distrito Federal entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en el sitio de Internet www.iedf.org.mx
+
+CUARTO. Remítase para su publicación a la Gaceta Oficial del Distrito Federal, dentro del plazo de los 10 días hábiles contados a partir de su aprobación.
