@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interno-de-la-comision-estatal-de-derechos-71202"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-05"
-last_updated: "2010-08-01"
+last_updated: "2015-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "DUR"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE DURANGO
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO, PUBLICADO EN EL P.O. DE 8 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 5 de noviembre de 2009.
 
@@ -410,7 +412,7 @@ I.- Acudir periódicamente a las Visitadurías Numerarias;
 
 II.- Ser enlace con las autoridades estatales y municipales, para los efectos de lograr una conciliación.
 
-III.- Llevar acabo (sic) los programas del área de Visitaduría en coordinación con las Vistadurías (sic) Numerarias, así como su seguimiento.
+III.- Llevar acabo los programas del área de Visitaduría en coordinación con las Vistadurías (sic) Numerarias, así como su seguimiento.
 
 IV.- Conocer de los casos que por su gravedad y a criterio de la Presidencia, sean de la competencia de la Comisión, así como su investigación y resolución, y
 
@@ -1002,7 +1004,7 @@ IV.- Incumplida.
 
 Expedida la recomendación, la Comisión podrá dar seguimiento únicamente a las actuaciones y diligencies que se practiquen en la integración de las averiguaciones previas, que se deriven de sus propias recomendaciones, a través de sus visitadores generales, numerarios y adjuntos. Esta facultad se limitara a la observación atenta del curso del asunto de que se trate sin que se entienda la posibilidad de intervenir como parte de aquellos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 120.
 
@@ -1178,8 +1180,18 @@ LIC. ROBERTO AGUILAR DURÁN
 
 SECRETARIO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE AGOSTO DE 2010.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 8 DE ENERO DE 2015.
+
+Artículo Primero.- Se abroga el Reglamento Interno de la Comisión Estatal de Derechos Humanos publicado en el Periódico Oficial del Gobierno del Estado de Durango número 37 de fecha 05 de noviembre de 2009, así como sus subsecuentes modificaciones.
+
+Artículo Segundo.- Los expedientes que se encuentren en trámite a la entrada en vigor del presente Reglamento, se sustanciaran bajo las disposiciones del Reglamento vigente al momento de la presentación de la queja.
+
+Artículo Tercero.- El presente Reglamento Interior de la Comisión Estatal de Derechos Humanos entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Cuarto.- El actual Presidente y Consejeros de la Comisión Estatal prevalecerán en sus cargos hasta la terminación del periodo para el cual fueron designados.
