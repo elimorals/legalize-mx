@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-trabajo-prevision-78037
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-29"
-last_updated: "2010-11-29"
+last_updated: "2015-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TRABAJO, PREVISION SOCIAL Y PRODUCTIVIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TRABAJO, PREVISION SOCIAL Y PRODUCTIVIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TRABAJO, PREVISIÓN SOCIAL Y PRODUCTIVIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE ENERO DE 2015.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 29 de noviembre de 2010.
 
@@ -169,11 +169,13 @@ XXVI. Implementar políticas y programas generales relativos al fomento de la cu
 
 XXVII. Promover el estudio, edición y distribución de obras literarias, históricas y de política comparada, en materia laboral;
 
-XVIII. Presidir la Junta Local de Conciliación y Arbitraje y la Junta Especial, cuando se trate de conflictos colectivos;
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXX], G.O. 8 DE ENERO DE 2015)
 
-XXIX. Presidir el Pleno de la Junta Local de Conciliación y Arbitraje, y
+XXVIII. Las demás que le atribuyan las leyes del Estado, este reglamento y demás disposiciones aplicables, así como las que expresamente le confiera el Gobernador del Estado.
 
-XXX. Las demás que le atribuyan las leyes del Estado, este reglamento y demás disposiciones aplicables, así como las que expresamente le confiera el Gobernador del Estado.
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2015)</small>
+
+Artículo 5 bis. Las atribuciones del Secretario previstas en las fracciones VII y VIII del artículo 22 Ter de la Ley Orgánica del Poder Ejecutivo, podrá desempeñarlas personalmente o a través del funcionario que en los términos de los artículos 612 y 623 de la Ley Federal del Trabajo designe el Gobernador del Estado.
 
 ### CAPÍTULO III. DE LAS ÁREAS DE APOYO DEL SECRETARIO
 
@@ -532,3 +534,11 @@ FIDEL HERRERA BELTRÁN
 GOBERNADOR DEL ESTADO
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 8 DE ENERO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su firma.
+
+SEGUNDO. Publíquese en la Gaceta Oficial. Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
