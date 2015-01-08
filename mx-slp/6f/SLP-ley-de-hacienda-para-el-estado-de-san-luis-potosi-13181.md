@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2014-12-31"
+last_updated: "2015-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -741,13 +741,13 @@ Por la legalización de actos de cualquier índole, se causarán los siguientes 
 
 I. Por las que realice el Ejecutivo del Estado, en materia educativa, 0.5;
 
-II. Por los servicios de búsqueda de actas en los libros que se encuentran concentrados en la Dirección del Registro Civil, cuando no se señale fecha o lugar de nacimiento, por cada año o fracción que ampare la búsqueda, se cobrarán 0.5;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. Por la constancia expedida a consecuencia de los servicios de búsqueda de actas en los libros que se encuentran concentrados en la Dirección del Registro Civil, se cobrarán 0.5;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2015)</small>
 
-III. Por anotaciones marginales en actas del Registro Civil de juicios por sentencias, adopciones, divorcios, rectificaciones de actas, legitimaciones, matrimonios, defunciones, reconocimientos y enmiendas administrativas se cobrarán 2.0;
+III. Por anotaciones marginales en actas del Registro Civil de juicios por sentencias, adopciones, divorcios, rectificaciones de actas, legitimaciones, matrimonios, defunciones, reconocimientos y las enmiendas administrativas, de conformidad a lo establecido en el artículo 136 de la Ley del Registro Civil, se cobrarán 2.0;
 
 IV. Por la expedición de copias de actas certificadas del estado civil se pagarán derechos en salarios mínimos, como sigue:
 
@@ -779,11 +779,9 @@ e) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 V. Por la certificación de sello, firma y contenido de copias expedidas por las diferentes Oficialías del Registro Civil del Estado se pagarán 2;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-VI. Por resolución de enmienda administrativa en actas del Registro Civil se pagarán 4.0; por las tramitadas por la Dirección vía correo certificado se pagarán 8.0;
+VI. Por resolución de enmienda administrativa en actas del Registro Civil, de conformidad a lo establecido en el artículo 136 de la Ley del Registro Civil, se pagarán 4.0; por las tramitadas por la Dirección, vía correo certificado, se pagarán 8.0;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2189,9 +2187,9 @@ I. Certificado de no adeudo, 2.0;
 
 II. Carta de no antecedentes penales; 1.0;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2015)</small>
 
-III. Certificaciones de copias fotostáticas de documentos que obren en los archivos de las diferentes secretarías de Estado, 1.0 por foja, y
+III. Certificaciones de copias fotostáticas de documentos que obren en los archivos de los poderes del Estado, 1.0 por foja, y
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2008)</small>
 
@@ -2793,6 +2791,12 @@ PRIMERO. Este Decreto entrará en vigor a partir del 1 de enero de 2004.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
+P.O. 19 DE JUNIO DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
 P.O. 2 DE SEPTIEMBRE DE 2004.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -2800,12 +2804,6 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Las validaciones de cesiones de derechos a que se refiere el quinto transitorio de las modificaciones aprobadas el 11 de agosto de 2004 por el Congreso del Estado, a la Ley de Transporte Público del Estado de San Luis Potosí, además de los derechos a que se refiere el artículo 70 del presente ordenamiento legal, pagarán el equivalente a diez salarios mínimos vigentes en el Estado, por cada año contado entre la fecha del contrato de cesión de derechos materia de validación, y la fecha de su solicitud ante la Secretaría de Comunicaciones y Transportes.
-
-P.O. 19 DE JUNIO DE 2004.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
 
 P.O. 18 DE DICIEMBRE DE 2004.
 
@@ -2912,3 +2910,9 @@ P.O. 31 DE DICIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor el uno de enero de 2015.
 
 SEGUNDO. Se derogan todas las disposiciones que sean contrarias a lo dispuesto por el presente Decreto.
+
+P.O. 8 DE ENERO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
