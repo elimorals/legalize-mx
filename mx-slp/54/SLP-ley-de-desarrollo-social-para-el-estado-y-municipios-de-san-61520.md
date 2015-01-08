@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2014-12-27"
+last_updated: "2015-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -221,7 +221,9 @@ i) Sistema para el Desarrollo Integral de la Familia del Estado.
 
 j) La Comisión Estatal del Agua.
 
-k) La Coordinación Estatal para el Desarrollo de los Pueblos Indígenas.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2015)</small>
+
+k) El Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades indígenas en el Estado de San Luis Potosí.
 
 I) El Instituto de la Vivienda del Estado.
 
@@ -830,3 +832,9 @@ P.O. 27 DE DICIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición contraria a éste, o en otros ordenamientos estatales o municipales de la Entidad.
+
+P.O. 8 DE ENERO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
