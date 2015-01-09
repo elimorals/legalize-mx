@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2014-02-28"
+last_updated: "2015-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2015.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -553,7 +553,7 @@ III. Secretaría de Desarrollo Sustentable del Municipio de Querétaro;
 
 IV. Secretaría de Desarrollo Social;
 
-V. Secretaría de Administración; y (sic)
+V. Secretaría de Administración; y
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
@@ -1963,7 +1963,7 @@ I. Centro Histórico.- Queda limitado por el Boulevard Bernardo Quintana, la Ave
 
 II. Villa Cayetano Rubio.- Encuentra sus límites en el Boulevard Bernardo Quintana, siguiendo el camino al Aeropuerto y el límite del Ejido La Purísima hasta los límites municipales y al sur por la Cuenca de la Cuesta China;
 
-III. Josefa Vergara y Hernández.- El límite sur del Municipio colindando con Huimilpan y Corregidora, desde la Carretera Federal 45 de cuota a Celaya, hasta el entronque con la Carretera Federal 57, continuando con esta (sic) rumbo a México por la Cuenca de la Cuesta China;
+III. Josefa Vergara y Hernández.- El límite sur del Municipio colindando con Huimilpan y Corregidora, desde la Carretera Federal 45 de cuota a Celaya, hasta el entronque con la Carretera Federal 57, continuando con esta rumbo a México por la Cuenca de la Cuesta China;
 
 IV. Felipe Carrillo Puerto.- Colinda con el Municipio de Corregidora, siguiendo el límite poniente con el Estado de Guanajuato y continuando los límites ejidales desde la altura de la Puerta de Santiaguillo hasta la Acequia Blanca, bordeando Juriquilla e incluyendo el pueblo de El Nabo, al oriente con parte del camino al tiradero municipal y San Pedro Mártir, el acceso I a la Zona Industrial Benito Juárez, Avenida 5 de Febrero y la Carretera Federal 45 de Cuota a Celaya;
 
@@ -2685,9 +2685,15 @@ XIII. Cumplir además con las normas establecidas en este reglamento, demás dis
 
 La venta de boletos para la asistencia a espectáculos públicos, podrá efectuarse por anticipado previa autorización de la autoridad municipal.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 272.
 
-El Ayuntamiento hará responsables a las empresas o particulares por la no presentación del espectáculo o por cualquier incumplimiento a las condiciones de las autoridades correspondientes.
+Las empresas promotoras y particulares serán responsables del cumplimiento de las condiciones establecidas por las autoridades correspondientes y por la no presentación del espectáculo, caso en el cual deberán devolver el monto total del boleto pagado por el espectador, debiendo poner el importe que corresponda a disposición de los espectadores en las taquillas autorizadas en un plazo máximo de 48 horas a partir del anuncio de la cancelación o cambio de fecha del espectáculo.
+
+Los cargos adicionales cobrados por las empresas comercializadoras de boletos por la expedición de los boletos del evento, serán devueltos por éstas en términos del párrafo anterior.
+
+No se otorgará a las empresas y particulares nueva autorización hasta en tanto acrediten haber cumplido la obligación impuesta en el párrafo anterior.
 
 ###### ARTICULO 273.
 
@@ -2841,9 +2847,13 @@ A fin de que se pueda exigir su exacto cumplimiento, las promesas que empresario
 
 El anuncio de las obras que constituyen el espectáculo deberá hacerse precisamente en español con sus verdaderos títulos, sin adiciones ni supresiones y con los seudónimos de sus autores, traductores o adaptadores.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 290.
 
-Los boletos de toda clase de espectáculos serán vendidos exclusivamente en las taquillas autorizadas, previo sellado por la autoridad municipal.
+Los boletos de toda clase de espectáculos serán vendidos exclusivamente en las taquillas autorizadas, previo sellado por la autoridad municipal competente; salvo en el caso en que la venta sea a través de empresa comercializadora de boletos electrónicos de acceso a eventos, lo cual deberá de estar previamente aprobado por la autoridad municipal.
+
+Las empresas comercializadoras de boletos deberán dar aviso a la Secretaría de Gobierno Municipal de la venta de los boletos de cualquier espectáculo a realizar.
 
 ###### ARTICULO 291.
 
@@ -2895,7 +2905,9 @@ II. Deberá entregar la lista de precios que el empresario pretenda cobrar a los
 
 III. El empresario deberá exhibir a la autoridad el aforo del cupo de los estadios, plazas de toros, salas o cualquier otro lugar donde se presenten espectáculos públicos, para que la propia presidencia en vista del dictamen que emita la propia autoridad o el inspector investigador, determine lo conducente;
 
-IV. Los empresarios deberán poner directamente a la venta del público los boletos sin intermediarios;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2015)</small>
+
+IV. Los empresarios deberán poner a la venta los boletos ya sea por sí o a través de empresas debidamente autorizadas, dedicadas a la comercialización de boletos electrónicos de acceso a eventos.
 
 V. Los empresarios cumplirán debidamente con el espectáculo que indiquen en su programa, de conformidad con el propuesto en su solicitud, debidamente aprobado por la presidencia municipal;
 
@@ -3005,6 +3017,8 @@ En caso de oposición violenta por parte de los empresarios, de sus empleados, o
 
 ### CAPITULO VI. De los Espectadores
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 315.
 
 Para los efectos de este apartado, se entiende por actor o artista, aquel que figure individual o en grupo en los programas, o tomen parte en un espectáculo público.
@@ -3051,7 +3065,7 @@ La agresión de cualquier espectador a los deportistas, actores, artistas, canta
 
 ###### ARTICULO 325.
 
-Los asistentes a cualquier espectáculo público tiene (sic) el derecho de exigir en cualquier tiempo, la devolución de la cantidad que hayan entregado por sus respectivos pagos, en caso de que las empresas faltaren a sus compromisos; si la falta de cumplimiento fuere parcial, el caso será resuelvo (sic) por la Presidencia Municipal.
+Los asistentes a cualquier espectáculo público tienen el derecho de exigir en cualquier tiempo, la devolución de la cantidad que hayan entregado por sus respectivos pagos, incluyendo cargos adicionales por servicios si los hubiere, en caso de que las empresas faltaren a sus compromisos. Si la falta de cumplimiento fuere parcial, el caso será resuelto por la Secretaría General de Gobierno.
 
 ###### ARTICULO 326.
 
@@ -7910,3 +7924,11 @@ PRIMERO. Publíquese el presente Acuerdo en la Gaceta Oficial del Ayuntamiento d
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de la última publicación de ambos medios de difusión mencionados.
 
 TERCERO. Se instruye a la Secretaría del Ayuntamiento notifique la presente al Secretario Particular del Presidente Municipal, al Secretario General de Gobierno Municipal y a la Coordinación de Delegados Municipales.
+
+P.O. 9 DE ENERO DE 2015.
+
+PRIMERO. Publíquese el presente Acuerdo en la Gaceta Oficial del Ayuntamiento del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. El presente Acuerdo entrará en vigencia el día siguiente al de la última fecha de las dos publicaciones mencionadas.
+
+TERCERO.- Se instituye a la Secretaría del Ayuntamiento para que notifique el presente acuerdo a la Secretaría General de Gobierno Municipal y a la Secretaría de Finanzas".
