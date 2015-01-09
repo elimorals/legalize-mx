@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2014-03-19"
+last_updated: "2015-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ENERO DE 2015.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -1068,7 +1068,17 @@ La Secretaría dará prioridad a la reproducción de vida silvestre fuera de su 
 
 Las colecciones científicas y museográficas, públicas o privadas, de especímenes de especies silvestres, deberán registrarse y actualizar sus datos anualmente ante la autoridad correspondiente en el padrón que para tal efecto se lleve, de conformidad con lo establecido en el reglamento, y para el caso de ejemplares vivos, contar con un plan de manejo autorizado por la Secretaría.
 
-Los predios e instalaciones que manejen vida silvestre en forma confinada, como zoológicos, espectáculos públicos fijos o itinerantes, circos y colecciones privadas, sólo podrán operar si cuentan con planes de manejo autorizados por la Secretaría, y además deberán registrarse y actualizar sus datos anualmente ante la autoridad correspondiente, en el padrón que para tal efecto se lleve, de conformidad con lo establecido en el reglamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 2015)</small>
+
+Los predios e instalaciones que manejen vida silvestre en forma confinada, como zoológicos, espectáculos públicos y colecciones privadas, sólo podrán operar si cuentan con planes de manejo autorizados por la Secretaría, y además deberán registrarse y actualizar sus datos anualmente ante la autoridad correspondiente, en el padrón que para tal efecto se lleve, de conformidad con lo establecido en el reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 2015)</small>
+
+Queda prohibido el uso de ejemplares de vida silvestre en circos.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1182,7 +1192,7 @@ Para el aprovechamiento de ejemplares de especies silvestres en riesgo se deber�
 
 a) Criterios, medidas y acciones para la reproducción controlada y el desarrollo de dicha población en su hábitat natural incluidos en el plan de manejo, adicionalmente a lo dispuesto en el artículo 40 de la presente Ley.
 
-b) Medidas y acciones específicas para contrarrestar los factores que han llevado ha disminuir sus poblaciones o deteriorar sus hábitats.
+b) Medidas y acciones específicas para contrarrestar los factores que han llevado ha (sic) disminuir sus poblaciones o deteriorar sus hábitats.
 
 c) Un estudio de la población que contenga estimaciones rigurosas de las tasas de natalidad y mortalidad y un muestreo.
 
@@ -1528,6 +1538,12 @@ XXII. Exportar o importar ejemplares, partes o derivados de la vida silvestre, o
 
 XXIII. Realizar actos que contravengan las disposiciones de trato digno y respetuoso a la fauna silvestre, establecidas en la presente Ley y en las disposiciones que de ella se deriven.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE ENERO DE 2015)</small>
+
+XXIV. Realizar actos que contravengan las disposiciones de conservación de vida silvestre fuera de su hábitat natural, establecidas en la presente Ley y en las disposiciones que de ella se deriven.
+
 Se considerarán infractores no sólo las personas que hayan participando (sic) en su comisión, sino también quienes hayan participado en su preparación o en su encubrimiento.
 
 ###### Artículo 123.
@@ -1578,9 +1594,11 @@ La imposición de las multas a que se refiere el artículo 123 de la presente Le
 
 I. Con el equivalente de 20 a 5000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones XII, XVII, XXI y XXIII del artículo 122 de la presente Ley, y
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Con el equivalente de 50 a 50000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX y XXII del artículo 122 de la presente Ley.
+> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 2015)</small>
+
+II. Con el equivalente de 50 a 50000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX, XXII y XXIV del artículo 122 de la presente Ley.
 
 La imposición de las multas se realizará con base en el salario mínimo general diario vigente para el Distrito Federal al momento de cometerse la infracción.
 
@@ -1821,3 +1839,15 @@ Tercero. La Secretaría emitirá guías técnicas que establezcan los requerimie
 D.O.F. 19 DE MARZO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ENERO DE 2015.
+
+Primero. El presente Decreto entrará en vigor a los ciento ochenta días naturales posteriores a su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los circos presentarán a la Secretaría de Medio Ambiente y Recursos Naturales de forma inmediata una base de datos que incluya el número y características de los ejemplares de vida silvestre que posean. Estas bases de datos se pondrán a disposición de los zoológicos del país para que éstos estén en posibilidades de seleccionar a los ejemplares que sean susceptibles de ser integrados a sus colecciones.
+
+Los ejemplares de vida silvestre incluidos en las bases de datos a que hace referencia el párrafo anterior que no sean seleccionados por los zoológicos, podrán ser entregados por sus poseedores a los Centros para la Conservación e Investigación de la Vida Silvestre pertenecientes a la Secretaría de Medio Ambiente y Recursos Naturales con el objeto de que no impliquen gasto por concepto de manutención de animales que ya no podrán ser utilizados en sus centros de trabajo.
+
+Tercero. Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas competencias, deberán adecuar sus legislaciones para dar cumplimiento al presente Decreto en un plazo que no exceda de ciento ochenta días naturales posteriores a la publicación del mismo en el Diario Oficial de la Federación.
+
+Cuarto. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
