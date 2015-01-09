@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2014-05-30"
+last_updated: "2015-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO NUMERO 138 PUBLICADO EN EL P.O. DE 9 DE ENERO DE 2015, LA PRESENTE REFORMA ENTRA EN VIGOR QUINCE DÍAS DESPUÉS DE SU APROBACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2015.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -895,9 +897,7 @@ Las Comisiones de dictamen legislativo son:
 
 11. Reforma del Estado;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE NOVIEMBRE DE 2013)</small>
-
-12. Reforma del Estado Primera;
+12. (DEROGADO, P.O. 9 DE ENERO DE 2015)
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2013)</small>
 
@@ -1109,11 +1109,11 @@ XVIII.- Los demás que le confiera la Constitución Local, esta Ley, sus Reglame
 
 Para el cumplimiento de las atribuciones señaladas en el artículo que antecede la Comisión de Gobernación, Legislación y Puntos Constitucionales solicitará a la Dirección General de Consultoría Legislativa y a la Dirección General de Asuntos Jurídicos el estudio y análisis respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 64.
 
-Corresponde a las Comisiones de Reforma del Estado y de Reforma del Estado Primera, el conocimiento, estudio y dictamen de los siguientes asuntos:
+Corresponde a la Comisión de Reforma del Estado, el conocimiento, estudio y dictamen de los siguientes asuntos:
 
 > <small>(ADICIONADA P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -1903,6 +1903,14 @@ III.- Votación.
 
 Toda Iniciativa deberá presentarse al Presidente del Congreso por escrito y firmada, con su exposición de motivos en la cual exponga su autor o autores las consideraciones jurídicas, políticas, sociales o económicas que justifican, explican, motivan y dan procedencia a la proposición de creación, reforma, derogación o abrogación de una Ley, artículo de la misma o decreto.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2015)</small>
+
+En cuanto a las iniciativas señaladas en el artículo 110 de esta Ley que sean presentadas ante el Pleno, y una vez agotada su lectura, los diputados podrán adherirse o sumarse a las mismas.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2015)</small>
+
+Para efectos del párrafo anterior, el adherirse o sumarse a las iniciativas, sólo tendrá el efecto de coincidir con la pretensión del autor o autores de la iniciativa, la cual quedará transcrita en el Diario de los Debates.
+
 En el caso de las iniciativas ciudadanas que no reúnan los requisitos relativos a la motivación de la iniciativa, la Comisión de Dictamen Legislativo que corresponda subsanará dicho requisito.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
@@ -2005,7 +2013,7 @@ VI.- Las mociones suspensivas; y,
 
 VII.- Las mociones de orden.
 
-> <small>(REFORMADO [N.DE E. ADICIONADO], P.O. 30 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2014)</small>
 
 Las discusiones sobre modificaciones y/o adiciones a los asuntos antes mencionados, se regirán por las reglas previstas en este capítulo.
 
@@ -2720,3 +2728,19 @@ SEGUNDO.- Remítase al Poder Ejecutivo para su publicación en el Periódico Ofi
 P.O. 30 DE MAYO DE 2014.
 
 ÚNICO: Las presentes reformas se publicarán en la Gaceta Parlamentaria del Poder Legislativo del Estado y entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE ENERO DE 2015.
+
+DECRETO No. 138, POR EL QUE SE REFORMAN LOS ARTÍCULOS 56 Y 64 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- La presente reforma entrará en vigor quince días después de su aprobación por el Pleno del Congreso del Estado y consecuentemente publíquese en la Gaceta Parlamentaria del Poder Legislativo del Estado de Baja California.
+
+SEGUNDO.- Una vez aprobada la presente reforma por el Congreso del Estado, remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE ENERO DE 2015.
+
+DECRETO No. 154, POR EL QUE SE APRUEBA LA REFORMA Y ADICIÓN AL ARTÍCULO 117 EN UN SEGUNDO Y TERCER PÁRRAFO, PASANDO LOS ACTUALES SEGUNDO Y TERCER PÁRRAFO A SER CUARTO Y QUINTO.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso del Estado y consecuentemente publíquese en la Gaceta Parlamentaria del Poder Legislativo del Estado de Baja California.
+
+SEGUNDO.- Una vez aprobada la presente reforma por el Congreso del Estado, remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
