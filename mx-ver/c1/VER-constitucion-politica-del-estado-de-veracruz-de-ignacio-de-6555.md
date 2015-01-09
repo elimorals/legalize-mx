@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2014-07-25"
+last_updated: "2015-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE- ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE-
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MAYO DE 2015 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2015.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -32,6 +34,8 @@ MAURO LOYO,
 Gobernador Provisional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed: que la H. Legislatura me ha dirigido, para su promulgación, la Constitución Política que sigue:
 
 La XXVI Legislatura del Estado Libre y Soberano de Veracruz-Llave, en funciones de Constituyente, a que fué convocada por decreto de 7 de abril del corriente año, reforma la Constitución Política de 29 de septiembre de 1902, en los términos siguientes:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO OCTAVO DEL DECRETO NÚMERO 536, PUBLICADO EN LA G.O. DE 9 DE ENERO DE 2015, TODA ALUSIÓN HECHA EN CUALQUIER INSTRUMENTO NORMATIVO AL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO O A LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO, SE ENTENDERÁ HECHA AL FISCAL GENERAL DEL ESTADO Y A LA FISCALÍA GENERAL DEL ESTADO, RESPECTIVAMENTE.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -331,49 +335,35 @@ Los diputados y los ediles serán elegidos por sufragio universal, libre, secret
 
 El Gobernador del Estado será elegido por el principio de mayoría relativa, mediante sufragio universal, libre, secreto y directo.
 
-> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
-En los casos a que se refieren los párrafos anteriores, la jornada electoral tendrá lugar el primer domingo de julio del año que corresponda.
+En los casos a que se refieren los párrafos anteriores, la jornada electoral deberá coincidir con la que tenga por objeto elegir a los poderes federales y tendrá lugar el primer domingo de junio del año que corresponda.
 
-> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
 ###### Artículo 19.
 
-Los partidos políticos son entidades de interés público que tienen como finalidad promover la participación de los ciudadanos en la vida democrática y contribuir a la integración de la representación estatal y municipal, con el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular. La ley reconocerá y regulará otras formas de organización política.
+Los partidos políticos son entidades de interés público que tienen como finalidad promover la participación del pueblo en la vida democrática y contribuir a la integración de la representación estatal y municipal, en los términos de lo dispuesto por la Constitución General de la República y la Ley General que regula a los partidos políticos nacionales y locales. La ley electoral local reconocerá las disposiciones que rigen en todo el país para los partidos, normará los aspectos que sean de competencia local y regulará otras formas de organización política.
 
 Los partidos políticos sólo podrán constituirse por ciudadanos, sin intervención de organizaciones gremiales o con objeto social diferente y sin que haya afiliación corporativa.
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos en los términos que expresamente señale la ley.
 
-Los partidos políticos recibirán, en forma equitativa, financiamiento público ordinario, extraordinario o, en su caso, especial, en los términos que señale la ley, para su sostenimiento y el desarrollo de las actividades tendientes a la obtención del sufragio. También tendrán derecho de acceder a los tiempos en radio y televisión, conforme a lo previsto en el artículo 41, Base III, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos.
+Los partidos políticos contarán, de manera equitativa, con elementos para llevar a cabo sus actividades en la forma y términos que se señalen en la Constitución federal y en la Ley General que los regula. También tendrán derecho de acceder a los tiempos en radio y televisión, conforme a lo previsto en las normas antes señaladas. Los candidatos independientes registrados conforme a la ley tendrán derecho a prerrogativas para las campañas electorales, de acuerdo a las previsiones constitucionales y legales aplicables.
 
 Durante el tiempo que comprendan las campañas electorales y hasta el día de la jornada electoral, las autoridades estatales y municipales cesarán toda campaña publicitaria relativa a obras y programas públicos. A las autoridades electorales corresponderá la vigilancia de lo dispuesto en este párrafo.
 
 Se exceptúan de lo anterior las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud y las necesarias para la protección civil en casos de emergencia.
 
-El financiamiento a los partidos políticos se sujetará a las siguientes bases:
+Al partido político local que no obtenga al menos el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales, le será cancelado el registro.
 
-l. El financiamiento público ordinario para el sostenimiento de sus actividades permanentes se fijará cada año por el Instituto Electoral Veracruzano al elaborar su presupuesto. El monto total se determinará multiplicando una quinta parte del salario mínimo vigente en la capital del Estado por el número de ciudadanos inscritos en el padrón electoral de la Entidad;
-
-II. El financiamiento público extraordinario para las actividades de los partidos tendientes a la obtención del voto se otorgará durante el año en que se celebren elecciones locales y consistirá en una cantidad igual a la que corresponda por concepto de financiamiento ordinario;
-
-III. El financiamiento público, ordinario y extraordinario, se distribuirá entre los partidos políticos que hubieren obtenido al menos el dos por ciento de la votación total emitida en la elección anterior de diputados, de acuerdo con las siguientes bases:
-
-a) Un treinta por ciento del monto total del financiamiento público estatal se distribuirá en partes iguales, y
-
-b) Un setenta por ciento se distribuirá según el porcentaje de la votación estatal que hubiese obtenido cada uno de los partidos en la elección mencionada;
-
-IV. Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección, o los que no hubieren alcanzado el dos por ciento de la votación total emitida en el Estado en la elección anterior de diputados, recibirán financiamiento público de carácter especial, otorgándose a cada uno de ellos, para el sostenimiento de sus actividades ordinarias, el dos por ciento del monto total que en forma igualitaria corresponda distribuir al conjunto de los partidos políticos, y una cantidad igual adicional para gastos de campaña en año de elecciones; y
-
-V. El financiamiento público prevalecerá sobre el privado; por tanto, las aportaciones que los partidos políticos reciban de sus militantes y simpatizantes no podrán exceder del equivalente al diez por ciento del monto total del tope de gastos de campaña previsto para la última elección de Gobernador.
-
-La ley establecerá los criterios para fijar límites a los gastos de precampaña y campaña y precisará los mecanismos y procedimientos para el control y vigilancia del origen y uso de los recursos con que cuenten los partidos y demás organizaciones políticas, las sanciones por el incumplimiento de las disposiciones que se expidan en la materia, así como el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
+Los partidos políticos tienen el derecho de registrar candidatos a cargos de elección popular, sin perjuicio del derecho de los ciudadanos a registrar candidaturas independientes. La ley fijará las condiciones y requisitos para registrar una candidatura independiente.
 
 Las reglas para las precampañas y las campañas electorales se señalarán en la ley.
 
-La duración máxima de las campañas será: para gobernador, de noventa días, para diputados y ediles, de sesenta días; la ley establecerá con precisión la duración de las mismas. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales.
+La duración de las campañas y precampañas se regulará en la ley de la materia, en el marco de lo establecido en el artículo 116 de la Constitución federal.
 
-La violación a estas disposiciones será sancionada conforme a la Ley.
+La violación a estas disposiciones será sancionada conforme a la ley.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -393,23 +383,31 @@ El Congreso del Estado se compondrá por cincuenta diputados, de los cuales trei
 
 El Congreso se renovará en su totalidad cada tres años y se instalará el día cinco de noviembre inmediato posterior a las elecciones.
 
-La ley desarrollará la fórmula de asignación de diputados electos por el principio de representación proporcional con base en lo previsto en este artículo. Para la modificación de la demarcación de los distritos electorales uninominales se atenderá lo establecido por esta Constitución y la ley.
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
+
+La ley desarrollará la fórmula de asignación de diputados electos por el principio de representación proporcional, con base en lo previsto en este artículo. La demarcación de los distritos electorales uninominales estará a cargo del Instituto Nacional Electoral, como lo dispone el artículo 41, apartado B, de la Constitución federal.
 
 La elección de diputados según el principio de representación proporcional y el sistema de asignación se sujetarán a las siguientes bases y a lo que disponga la ley:
 
 I. Un partido político, para obtener el registro de sus listas, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos veinte de los distritos uninominales;
 
-ll. Todo partido político que alcance por lo menos el dos por ciento del total de la votación estatal emitida para las listas tendrá derecho a que le sean asignados diputados según el principio de representación proporcional;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2015)</small>
+
+II. Sólo los partidos políticos que alcancen por lo menos el tres por ciento del total de la votación válida emitida para las listas tendrán derecho a participar en la asignación de diputados según el principio de representación proporcional;
 
 III. Al partido político que cumpla con las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubieren obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su porcentaje de la votación estatal emitida, el número de diputados de su lista que le correspondan;
 
 IV. Ningún partido político podrá contar con más de treinta diputados por ambos principios;
 
-V. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que represente un porcentaje del total del Congreso que exceda en dieciséis puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso superior a la suma del porcentaje de su votación estatal emitida más el dieciséis por ciento; y,
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2015)</small>
+
+V. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que represente un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento. El porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales, y
 
 VI. En los términos de lo establecido en las bases contenidas en las fracciones III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos con derecho a ello, en proporción directa con las respectivas votaciones estatales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 
-Los diputados, cuando tengan el carácter de propietarios, no podrán ser elegidos para el periodo inmediato siguiente, ni aun con el carácter de suplentes; pero los que tengan el carácter de suplentes si podrán ser elegidos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio.
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
+
+Los diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación para la reelección sólo podrá ser realizada por el mismo partido que hizo la postulación previa o por alguno de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -659,15 +657,17 @@ h) La creación de entidades paramunicipales.
 
 XVII. Llevar el registro de la situación patrimonial de los servidores públicos estatales y municipales, los cuales se harán públicos en los términos establecidos por la ley;
 
-> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2015)</small>
 
-XVIII. Con la aprobación de las dos terceras partes de sus miembros presentes, designar a los Consejeros Electorales del Consejo General y al titular de la Contraloría General del Instituto Electoral Veracruzano, en los términos que señalen esta Constitución y la ley;
+XVIII. Con la aprobación de las dos terceras partes de sus miembros presentes, designar al titular de la Contraloría General del organismo público que ejerza la autoridad electoral administrativa, en los términos que señalen esta Constitución y la ley;
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2007)</small>
 
 XIX. Nombrar, con la aprobación de las dos terceras partes de sus integrantes, a los magistrados del Poder Judicial, al Presidente de la Comisión Estatal de Derechos Humanos y a los consejeros del Instituto Veracruzano de Acceso a la Información;
 
-XX. Ratificar, con la aprobación de las dos terceras partes de sus integrantes, el nombramiento de un miembro del Consejo de la Judicatura y del Procurador General de Justicia;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2015)</small>
+
+XX. Ratificar, con la aprobación de las dos terceras partes de sus integrantes, el nombramiento de un miembro del Consejo de la Judicatura;
 
 XXI. Conceder al Gobernador, a los diputados, a los magistrados y a los consejeros de la Judicatura que hubiere designado, licencia temporal para separarse de su cargo. No se podrán conceder licencias por tiempo indefinido.
 
@@ -721,7 +721,7 @@ XXXVII. Recibir del Gobernador, de los diputados, de los magistrados, de los int
 
 XXXVIII. Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna ley constituya un ataque a la soberanía o autonomía del Estado, o de la Constitución Federal;
 
-XXXIX. Aprobar, con el voto de las dos terceras partes de sus integrantes, la división del Estado en distritos electorales, de acuerdo con el último censo general de población, y fijar la circunscripción y cabecera de ellos, tomando en consideración los estudios realizados por el Instituto Electoral Veracruzano; y
+XXXIX. (DEROGADA, G.O. 9 DE ENERO DE 2015)
 
 XL. Las demás que le confieren la Constitución Federal, esta Constitución y las que sean necesarias para hacer efectivas sus atribuciones.
 
@@ -1043,53 +1043,35 @@ Los titulares de las dependencias y entidades de la administración pública, co
 
 #### SECCIÓN SEGUNDA. DEL MINISTERIO PÚBLICO
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
 ###### Artículo 52.
 
-El ministerio público en el Estado es el órgano dependiente del Poder Ejecutivo, responsable de procurar y vigilar el cumplimiento de las leyes, de acuerdo con las disposiciones de la Constitución Federal que rigen su actuación, y ejercer las acciones correspondientes en contra de los infractores de la ley, así como las que tengan por objeto la efectiva reparación del daño causado y la protección de los derechos de la víctima del acto ilícito.
+El Ministerio Público en el Estado está a cargo de un órgano constitucional autónomo en los términos del artículo 67 fracción I de esta Constitución.
 
-Esta Constitución y la ley establecerán el procedimiento mediante el cual se puedan impugnar, por la vía jurisdiccional, las resoluciones del ministerio público sobre la reserva de la averiguación previa, el no ejercicio de la acción penal y su desistimiento.
-
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 53.
 
-El ministerio público del Estado estará a cargo de un Procurador General de Justicia quien, para el ejercicio de sus funciones, contará con los subprocuradores, agentes, policía ministerial y demás personal, que estarán bajo su autoridad y mando directo, en los términos que establezca la ley, la cual señalará los requisitos y, en su caso, el procedimiento para los nombramientos, sustituciones y remociones.
+(DEROGADO, G.O. 9 DE ENERO DE 2015)
 
-> <small>(REFORMADO, G.O. 18 DE MAYO DE 2011)</small>
-
-Para ser Procurador General de Justicia se requiere:
-
-I. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos y no tener ni haber tenido otra nacionalidad;
-
-ll. Tener, cuando menos, treinta años cumplidos al día de su ratificación por el Congreso;
-
-III. Poseer, al día de su nombramiento, título de Licenciado en Derecho, con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente constituida;
-
-IV. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación o abuso de confianza lo inhabilitará para el cargo, cualquiera que haya sido la pena; y
-
-V. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución federal y la ley de la materia.
-
-El Procurador será nombrado por el Gobernador y ratificado por el Congreso del Estado; en sus recesos, la Diputación Permanente hará la ratificación con carácter provisional, mientras se reúne el Congreso y da la aprobación definitiva.
-
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 54.
 
-El ministerio público intervendrá en los juicios que afecten a quienes las leyes otorguen especial protección; y, si el Gobernador lo dispone, en los asuntos jurídicos en los que, conforme a la ley, el Estado sea parte o se requiera hacer efectivos los derechos a su favor.
-
-El ministerio público hará efectivas las órdenes de aprehensión y de presentación de personas involucradas en procesos penales, que dicten los tribunales del Estado.
+(DEROGADO, G.O. 9 DE ENERO DE 2015)
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 ### CAPÍTULO IV. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
 ###### Artículo 55.
 
-El Poder Judicial se deposita en un Tribunal Superior de Justicia, en un Tribunal Electoral, en un Tribunal de lo Contencioso Administrativo, en un Tribunal de Conciliación y Arbitraje y en los juzgados que señale la Ley Orgánica de la materia.
+El Poder Judicial se deposita en un Tribunal Superior de Justicia, en un Tribunal de lo Contencioso Administrativo, en un Tribunal de Conciliación y Arbitraje y en los juzgados que señale la Ley Orgánica de la materia.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1103,11 +1085,13 @@ II. Proteger y salvaguardar los derechos humanos que el pueblo de Veracruz se re
 
 III. Interpretar y aplicar las leyes del fuero común y las federales en jurisdicción concurrente;
 
-IV. Resolver las impugnaciones que se presenten en las elecciones de Gobernador, de diputados al Congreso del Estado y de los Ayuntamientos; así como los demás recursos que señale la ley de la materia, teniendo sus resoluciones el carácter de definitivas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
+IV. (DEROGADA, G.O. 9 DE ENERO DE 2015)
 
-V. Confirmar, revocar o modificar el cómputo estatal de la elección de Gobernador, la declaración de validez de la elección de Gobernador y la de Gobernador Electo emitidos por el Instituto Electoral Veracruzano, cuando éstos hubieren sido impugnados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+V. (DEROGADA, G.O. 9 DE ENERO DE 2015)
 
 VI. Dirimir las controversias que se susciten entre la administración pública estatal o municipal, y los particulares;
 
@@ -1119,9 +1103,11 @@ IX. Dictar las medidas procedentes para que la administración de justicia sea p
 
 X. Conocer del juicio político como órgano de sentencia, cuando los servidores públicos incurran en actos u omisiones que constituyan perjuicio a los intereses públicos fundamentales y a su correcto despacho;
 
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI. Conocer, en los términos que fije la ley respectiva, de los juicios de responsabilidad civil derivada del ejercicio del cargo, que se instauren a instancia de parte agraviada o de sus causahabientes, en contra de Magistrados, Consejeros, Procurador General de Justicia, Secretarios de Despacho, y demás servidores públicos de los Poderes Ejecutivo y Judicial;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2015)</small>
+
+XI. Conocer, en los términos que fije la ley respectiva, de los juicios de responsabilidad civil derivada del ejercicio del cargo, que se instauren a instancia de parte agraviada o de sus causahabientes, en contra de Magistrados, Consejeros de la Judicatura, Fiscal General del Estado, Secretarios de Despacho, y demás servidores públicos de los Poderes Ejecutivo y Judicial.
 
 XII. Determinar y publicar los precedentes obligatorios, sustentados en cinco resoluciones consecutivas en el mismo sentido en la materia, que vinculen a todas las autoridades del Estado, en los términos que señale la ley;
 
@@ -1161,17 +1147,17 @@ V. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religi
 
 VI. Los demás requisitos que señale la ley.
 
-No podrán ser magistrados las personas que hayan ocupado el cargo de Secretario del Despacho o su equivalente, Procurador General de Justicia, Senador, Diputado Local o Federal ni Presidente Municipal, durante el año previo al día de su nombramiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
+
+No podrán ser magistrados las personas que hayan ocupado el cargo del Secretario del Despacho o su equivalente, Fiscal General del Estado, Senador, Diputado Local o Federal ni Presidente Municipal, durante el año previo al día de su nombramiento.
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
 ###### Artículo 59.
 
-Los Magistrados serán nombrados por el Congreso, a propuesta del Gobernador del Estado, con excepción de los que integren el Tribunal Electoral. En los recesos del Congreso, la Diputación Permanente hará el nombramiento, con carácter provisional, en tanto aquél se reúne y da la aprobación definitiva.
-
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
-
-Los magistrados durarán en su cargo diez años improrrogables, y sólo serán removidos de conformidad con lo dispuesto por esta Constitución.
+Los magistrados serán nombrados por el Congreso, a propuesta del Gobernador del Estado. En los recesos del Congreso la Diputación Permanente hará el nombramiento, con carácter provisional, en tanto aquél se reúne y da la aprobación definitiva.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1221,7 +1207,7 @@ El Consejo de la Judicatura nombrará y removerá, con excepción de los magistr
 
 Toda persona en el Estado tiene derecho, en la forma y términos establecidos por la ley, a resolver sus diferencias mediante la intervención de árbitros o mediadores, la que podrá tener lugar antes de iniciarse un juicio o durante su tramitación.
 
-> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(DEROGADA, G.O. 9 DE ENERO DE 2015)</small>
 
 #### SECCIÓN PRIMERA. DEL CONTROL CONSTITUCIONAL
 
@@ -1281,41 +1267,69 @@ b) Cuando menos la tercera parte de los ayuntamientos.
 
 La omisión legislativa surtirá sus efectos a partir de su publicación en la Gaceta Oficial del Estado. En dicha resolución se determinará un plazo que comprenda dos períodos de sesiones ordinarias del Congreso del Estado, para que éste expida la ley o decreto de que se trate la omisión. Si transcurrido este plazo no se atendiere la resolución, el Tribunal Superior de Justicia dictará las bases a que deban sujetarse las autoridades, en tanto se expide dicha ley o decreto.
 
-> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(DEROGADA, G.O. 9 DE ENERO DE 2015)</small>
 
 #### SECCIÓN SEGUNDA. DEL CONTROL DE LA LEGALIDAD EN MATERIA ELECTORAL
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 9 DE ENERO DE 2015)</small>
 
-### CAPÍTULO V. DE LOS ORGANISMOS AUTÓNOMOS DEL ESTADO
+### CAPÍTULO V. DE LAS FUNCIONES EN MATERIA ELECTORAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
 ###### Artículo 66.
 
-Para garantizar que los actos y resoluciones en materia electoral se sujeten invariablemente al principio de legalidad, se establecerá un sistema de medios de impugnación de los cuales conocerán, en los términos que señala la ley, el Instituto Electoral Veracruzano y el Tribunal Electoral del Poder Judicial del Estado.
+La función electoral en el Estado se regirá por las disposiciones siguientes:
 
-El Tribunal Electoral, será la máxima autoridad jurisdiccional en la materia y el órgano especializado del Poder Judicial del Estado, y contará con las atribuciones que le señale la ley.
+APARTADO A. La organización, desarrollo y vigilancia de las elecciones, plebiscitos y referendos la realizará un organismo público cuya denominación establecerá la ley y que ejercerá la autoridad electoral en el Estado conforme a las siguientes bases:
 
-Para el ejercicio de sus atribuciones, el Tribunal funcionará de manera permanente; se integrará con tres Magistrados que serán nombrados por las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta del Tribunal Superior de Justicia del Estado; y para su designación deberán cubrir los requisitos previstos en esta Constitución y la Ley; contará con el personal jurídico y administrativo necesario para su funcionamiento.
+a) Funcionará de manera autónoma y se regirá por los principios de legalidad, imparcialidad, objetividad, certeza, independencia, profesionalismo, máxima publicidad, equidad y definitividad.
 
-El sistema de medios de impugnación dará definitividad a las distintas etapas en los procesos electorales, de plebiscito o referendo, de agentes y subagentes municipales; y garantizará los derechos políticos de los ciudadanos de votar, ser votado y de libre asociación.
+b) Tendrá las atribuciones que para los organismos públicos locales en materia electoral dispone el Apartado C del artículo 41 de la Constitución federal con las características y salvedades que en dicho apartado se indican. Asimismo ejercerá las funciones señaladas en la Ley General de Instituciones y Procedimientos Electorales y las previstas en las leyes estatales aplicables.
 
-La ley fijará las causales de nulidad de las elecciones de gobernador, diputados y ediles, así como los plazos para el desahogo de todas las instancias impugnativas.
+c) Su órgano superior de dirección será el Consejo General, el cualse (sic) integrará por un Presidente Consejero y seis Consejeros Electorales, con derecho a voz y voto en las sesiones del Consejo General, y representantes por cada uno de los partidos políticos con registro nacional o estatal, con derecho a voz pero sin voto en las sesiones. El Secretario Ejecutivo concurrirá a las sesiones sólo con derecho a voz.
 
-Asimismo, los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación y, en su caso, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ediles, así como el cómputo de la elección de gobernador en cada uno de los distritos electorales uninominales.
+Los Consejeros Electorales estatales serán designados por el Consejo General del Instituto Nacional Electoral en los términos previstos en la Constitución federal y en la Ley General de Instituciones y Procedimientos Electorales; durarán en su cargo siete años y no podrán ser reelectos.
 
-El Tribunal Electoral sólo podrá declarar la nulidad de una elección por las causales que expresamente se establezcan en la Ley. La interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+d) Contará con una Contraloría General, que tendrá a su cargo con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del Instituto.
 
-Las autoridades estatales y municipales están obligadas a coadyuvar en todo aquello que les sea requerido por el Instituto o el Tribunal Electoral. Los servicios notariales que cualquiera de estos organismos soliciten con motivo de los procesos electorales, plebiscitarios o de referendo y elección de agentes y subagentes municipales, serán gratuitos.
+El titular de la Contraloría General del Instituto durará seis años en el cargo; podrá ser reelecto por una sola vez y sólo podrá ser removido por el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes.
 
-Las leyes establecerán los delitos, procedimientos y sanciones en materia electoral.
+Estará adscrito administrativamente a la presidencia del Consejo General y mantendrá la coordinación técnica necesaria con el Órgano de Fiscalización Superior de la entidad.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+e) Contará con el personal ejecutivo y técnico necesario para el cumplimiento de sus funciones.
 
-### CAPÍTULO I. DEL MUNICIPIO
+f) Efectuará la fiscalización de las finanzas de las organizaciones políticas en los términos que en su caso le delegue el Instituto Nacional Electoral y los que, en el marco de su competencia, le señale la ley.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+APARTADO B. Para garantizar que los actos y resoluciones en materia electoral se sujeten invariablemente al principio de legalidad, se establecerá un sistema de medios de impugnación de los cuales conocerán, en los términos que señale la ley, el organismo a que alude el apartado inmediato anterior y el Tribunal Electoral del Estado.
+
+El Tribunal Electoral del Estado es el órgano jurisdiccional especializado en materia electoral que, aplicando la legislación estatal, tendrá a su cargo la resolución de las controversias que se susciten con motivo de los procesos electorales locales, así como las derivadas de los actos y resoluciones que emitan las autoridades electorales locales.
+
+El Tribunal deberá cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad. Gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones en los términos y condiciones que establezca la ley. Se integrará con tres Magistrados que durarán en su cargo siete años y serán nombrados por el Senado de la República de acuerdo a lo previsto en la Constitución federal y en la Ley General de Instituciones y Procedimientos Electorales.
+
+El magistrado presidente será designado por votación mayoritaria de los magistrados del Tribunal. La ley dispondrá lo necesario para garantizar que la presidencia sea rotatoria.
+
+En caso de presentarse alguna vacante temporal de hasta tres meses, de alguno de los magistrados que componen el Tribunal Electoral del Estado, ésta se cubrirá de conformidad con el procedimiento que dispongan las leyes electorales locales.
+
+El Tribunal contará con el personal jurídico y administrativo necesario para su funcionamiento.
+
+El sistema de medios de impugnación dará certeza y definitividad a las distintas etapas de los procesos electorales estatales y municipales incluida la elección de agentes y subagentes municipales, así como de los procesos de plebiscito o referendo.
+
+La ley fijará las causas de nulidad de las elecciones de gobernador, diputados y ediles, así como los plazos para el desahogo de todas las instancias impugnativas.
+
+Asimismo, los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación y, en su caso, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ediles, así como el cómputo de la elección de gobernador.
+
+El Tribunal Electoral sólo podrá declarar la nulidad de un proceso electoral, referendario o plebiscitario por las causales que expresamente se establezcan en la Ley. La interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+
+Las autoridades estatales y municipales están obligadas a coadyuvar en todo aquello que les sea requerido por el organismo público al que alude este artículo o el Tribunal Electoral. Los servicios notariales que cualquiera de estos organismos soliciten con motivo de los procesos electorales, plebiscitarios o de referendo y elección de agentes y subagentes municipales, serán gratuitos, sin perjuicio de que los organismos electorales cuenten con un área de fedatarios públicos en los términos que fije la ley.
+
+Las leyes establecerán los procedimientos y sanciones en materia electoral que corresponda aplicar a los organismos electorales locales.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO V], G.O. 9 DE ENERO DE 2015)
+
+### CAPÍTULO VI. DE LOS ORGANISMOS AUTÓNOMOS DEL ESTADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JUNIO DE 2009)</small>
 
 ###### Artículo 67.
 
@@ -1325,37 +1339,55 @@ Conforme a esta Constitución y la ley, los Organismos Autónomos del Estado con
 
 Estos organismos desarrollarán las actividades Estatales siguientes:
 
-I. La organización, desarrollo y vigilancia de las elecciones, plebiscitos y referendos la realizará el Instituto Electoral Veracruzano, conforme a las siguientes bases:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a) El Instituto se regirá por los principios de legalidad, imparcialidad, objetividad, certeza, independencia, profesionalismo, equidad y definitividad, y tendrá la integración y funcionamiento que señale la ley;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
+I. La procuración de justicia y la vigilancia del cumplimiento de las leyes, de acuerdo con las disposiciones de la Constitución federal que rigen la actuación del ministerio público, para ejercer las acciones correspondientes en contra de los infractores de la ley, así como las que tengan por objeto la efectiva reparación del daño causado y la protección de los derechos de la víctima del acto ilícito.
 
-b) El Instituto tendrá las siguientes atribuciones: las actividades relativas a la capacitación y educación cívica, la geografía electoral, los derechos y prerrogativas de los partidos y demás organizaciones políticas, vigilancia de los procesos internos y precampañas de los partidos políticos, las campañas electorales, partidos y organizaciones políticas, el padrón y la lista de electores, la impresión de materiales electorales, la preparación de la jornada electoral, los cómputos en los términos que señale la ley, la declaración de validez y el otorgamiento de constancias en las elecciones de Gobernador, diputados y ayuntamientos, además de la declaratoria de Gobernador Electo; así como la regulación de la observación electoral y de las encuestas y sondeos de opinión con fines electorales, y las demás que señale la ley. El Instituto podrá convenir con el Instituto Federal Electoral la organización del proceso electoral en los términos que establezca la ley;
+Esta actividad estará a cargo del organismo autónomo del Estado denominado Fiscalía General.
 
-> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+La función de procurar justicia encomendada a la Fiscalía General, se regirá por los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos, de acuerdo con las siguientes bases:
 
-c) El órgano superior de dirección del Instituto será el Consejo General, que funcionará de manera permanente.
+a) El titular de la función del Ministerio Público ejercida por este órgano autónomo será el Fiscal General del Estado quien, para el ejercicio de sus funciones, contará con los fiscales auxiliares, agentes, policía ministerial y demás personal, que estará bajo su autoridad y mando directo, en los términos que establezca la ley, la cual señalará los requisitos y, en su caso, el procedimiento para los nombramientos, sustituciones y remociones.
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
+b) Para ser Fiscal General del Estado se requiere:
 
-El Consejo General se integrará por un Presidente Consejero y cuatro Consejeros Electorales, con derecho a voz y voto en las sesiones del Consejo General, y los representantes por cada uno de los partidos políticos con registro nacional o estatal, con derecho a voz pero sin voto en las sesiones.
+1. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos y no tener otra nacionalidad;
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
+2. Tener, cuando menos, treinta años cumplidos al día de su designación;
 
-El Consejero Presidente durará en su cargo seis años y no podrá ser reelecto, salvo cuando se le designe para concluir un período por menos de tres años. Los Consejeros Electorales durarán en su cargo cuatro años con posibilidad de una reelección. El Consejero Presidente y los Consejeros Electorales serán elegidos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, a propuesta de los partidos políticos representados en el mismo, y se les renovará en forma escalonada. En caso de falta absoluta del Consejero Presidente o de cualquiera de los Consejeros Electorales, el sustituto será elegido para concluir el periodo de la vacante. La ley establecerá las reglas y el procedimiento correspondiente dentro de los cuales deberá preverse un método de voto alternativo o preferencial para alcanzar las dos terceras partes requeridas cuando dicha mayoría no se consiga en dos vueltas sucesivas de elección.
+3. Poseer, al día de su designación, el título de Licenciado en Derecho, con antigüedad mínima de cinco años, expedido por autoridad o institución mexicana legalmente facultada para ello;
 
-> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+4. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación o abuso de confianza, lo inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-d) El Instituto Electoral contará con una Contraloría General que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del Instituto.
+5. No pertenecer al estado eclesiástico, no ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución federal y la ley de la materia.
 
-El titular de la Contraloría General del Instituto será designado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes a propuesta de instituciones públicas de educación superior del Estado, en la forma y términos que determine la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la presidencia del Consejo General y mantendrá la coordinación técnica necesaria con la entidad de fiscalización superior de la entidad;
+c) El Fiscal General durará en su encargo nueve años.
 
-> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+d) El Fiscal General será designado por el Congreso del Estado mediante el siguiente procedimiento:
 
-e) El Instituto contará con el personal ejecutivo y técnico necesario para el cumplimiento de sus funciones. La fiscalización de las finanzas de los partidos políticos estatales y en lo que corresponda los nacionales, estará a cargo de un órgano técnico del Consejo General del Instituto Electoral, dotado de autonomía de gestión, cuyo titular será designado por el voto de la mayoría del propio Consejo a propuesta del Consejero Presidente y deberá coordinarse con el órgano de fiscalización del Instituto Federal Electoral en los términos que regule la ley.
+1. A partir de que el cargo quede vacante, el Congreso contará con veinte días naturales para integrar una lista de diez candidatos aprobada por las dos terceras partes de sus miembros presentes. La integración en esta lista no genera ningún derecho a favor de las personas que la formen que pueda ser reclamado ante los tribunales, ni el procedimiento de designación puede considerarse como de carácter electoral. Esta lista será remitida al Gobernador del Estado.
 
-El Consejo General, para hacer cumplir sus determinaciones, designará un Secretario Ejecutivo, en los términos que señale la ley.
+2. Si el Gobernador no recibe esta lista dentro del plazo señalado, enviará libremente al Congreso una terna y designará provisionalmente al Fiscal General hasta en tanto el Congreso haga la designación definitiva. El Fiscal así designado podrá formar parte de la terna.
+
+3. Recibida la lista a que se refiere el punto uno de este inciso, el Gobernador formará de entre sus miembros, una terna que pondrá a consideración del Congreso dentro de los diez días hábiles siguientes a dicha recepción. La terna no podrá ser rechazada ni devuelta al Gobernador.
+
+4. El Congreso, previa comparecencia de las personas propuestas, designará al Fiscal General por el voto de las dos terceras partes de sus miembros presentes, dentro del improrrogable plazo de diez días hábiles contados a partir de la recepción de la terna.
+
+5. En caso de que el Gobernador no envíe la terna dentro del plazo previsto en el punto tres de este inciso, el Congreso dispondrá de diez días hábiles para designar al Fiscal General de entre los miembros de la lista mencionada en el punto uno de este inciso. La designación deberá ser aprobada por las dos terceras partes de los diputados presentes.
+
+6. Si el Congreso no hace la designación dentro de los plazos establecidos en las disposiciones anteriores, el Gobernador designará al Fiscal de entre los candidatos que integren la lista enviada por el Congreso o, en su caso, la terna respectiva. Si por cualquier causa, no se configuran ni la lista, ni la terna, el Gobernador podrá designar libremente al Fiscal General.
+
+Las ausencias del Fiscal General serán suplidas en los términos que señale la ley.
+
+e) El Fiscal General presentará anualmente un informe de actividades ante los poderes Legislativo y Ejecutivo del Estado y deberá comparecer ante el Congreso cuando éste así lo requiera, para informar sobre un asunto de su competencia. En este caso, la comparecencia se efectuará ante una Comisión del Congreso y la sesión no será pública, debiendo los asistentes guardar reserva sobre cualquier asunto abordado en relación con una investigación o proceso.
+
+f) El Ministerio Público intervendrá en los juicios que afecten a quienes las leyes otorguen especial protección.
+
+g) El Ministerio Público hará efectivas las órdenes de aprehensión y de presentación de personas involucradas en procesos penales, que dicten los tribunales del Estado.
+
+h) La ley establecerá el procedimiento mediante el cual se puedan impugnar, por la vía jurisdiccional, las resoluciones del Ministerio Público sobre la reserva de la carpeta de investigación, el no ejercicio de la acción penal y su desistimiento.
 
 II. El conocimiento y sustanciación de las quejas en contra de los actos u omisiones de naturaleza administrativa que violen derechos humanos, provenientes de cualquier autoridad o servidor público, la realizará la Comisión Estatal de Derechos Humanos, conforme a las siguientes bases:
 
@@ -1431,7 +1463,7 @@ c) Los comisionados y el secretario ejecutivo serán nombrados por el Congreso d
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
-### CAPÍTULO I. DE LA HACIENDA Y CREDITO DEL ESTADO
+### CAPÍTULO I. DEL MUNICIPIO
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1439,7 +1471,7 @@ c) Los comisionados y el secretario ejecutivo serán nombrados por el Congreso d
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
-### CAPÍTULO II. DEL DESARROLLO ECONÓMICO, DEL FOMENTO AL TRABAJO Y DE LA SEGURIDAD SOCIAL EN EL ESTADO
+### CAPÍTULO I. DE LA HACIENDA Y CREDITO DEL ESTADO
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1549,7 +1581,7 @@ XVI. Convocar, en los términos que establezcan esta Constitución y la ley, a r
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
-### CAPÍTULO I. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO II. DEL DESARROLLO ECONÓMICO, DEL FOMENTO AL TRABAJO Y DE LA SEGURIDAD SOCIAL EN EL ESTADO
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1577,7 +1609,7 @@ Los bienes del dominio público de la Federación, del Estado o los Municipios, 
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
-### CAPÍTULO I. DE LA SUPREMACÍA DE LA CONSTITUCIÓN
+### CAPÍTULO I. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1605,7 +1637,7 @@ Las autoridades participarán en la regulación, definición y determinación de
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
-### CAPÍTULO II. DISPOSICIONES GENERALES
+### CAPÍTULO I. DE LA SUPREMACÍA DE LA CONSTITUCIÓN
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1615,11 +1647,13 @@ Los servidores públicos serán responsables por las faltas o delitos en que inc
 
 El Gobernador, durante el ejercicio de su cargo, sólo podrá ser acusado ante el Congreso por la comisión de delitos graves del orden común. Por los demás delitos y faltas podrá ser acusado, conforme a las leyes respectivas, al concluir su mandato.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2015)</small>
 
 ###### Artículo 77.
 
-Podrán ser sujetos de juicio político, por los actos u omisiones que conforme a la ley afecten a los intereses públicos fundamentales y a su correcto despacho, los Diputados, el Gobernador, los Secretarios de Despacho, el Procurador General de Justicia, el Contralor General, los Magistrados, los Presidentes Municipales o de Concejos Municipales y los Síndicos; el Consejero Presidente, los Consejeros Electorales, el Contralor General y el Secretario Ejecutivo del Instituto Electoral Veracruzano; los Consejeros del Instituto Veracruzano de Acceso a la Información; los titulares o sus equivalentes de las entidades de la administración pública estatal y municipal.
+Podrán ser sujetos de juicio político, por los actos u omisiones que conforme a la ley afecten a los intereses públicos fundamentales y a su correcto despacho: los Diputados; el Gobernador, los Secretarios de Despacho, el Contralor General; el Fiscal General del Estado; los Magistrados, los Presidentes Municipales o de Concejos Municipales y los Síndicos; el Contralor General del organismo público que ejerza la autoridad electoral administrativa; los Consejeros del Instituto Veracruzano de Acceso a la Información, y los titulares o sus equivalentes de las entidades de la administración pública estatal y municipal.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1641,11 +1675,13 @@ La responsabilidad política se exigirá durante el período en el cual el servi
 
 Las declaraciones y resoluciones del Congreso y del Tribunal Superior de Justicia no admitirán recurso alguno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2015)</small>
 
 ###### Artículo 78.
 
-El Congreso del Estado, por las dos terceras partes de los votos de sus integrantes, declarará si ha lugar a proceder por la comisión de delitos durante el tiempo de su cargo, en contra de: los Diputados; el Gobernador, los Secretarios de Despacho, el Procurador General de Justicia, el Contralor General; los Magistrados; los Presidentes Municipales o de Concejos Municipales y los Síndicos; el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral Veracruzano; el Presidente de la Comisión Estatal de los Derechos Humanos; y los Consejeros del Instituto Veracruzano de Acceso a la Información. En el procedimiento que se siga, se respetarán las garantías de audiencia y legalidad.
+El Congreso del Estado, por las dos terceras partes de los votos de la totalidad de sus integrantes, declarará si ha lugar a proceder por la comisión de delitos durante el tiempo de su cargo, en contra de los Diputados, el Gobernador, los Secretarios de Despacho, el Contralor General, el Fiscal General del Estado, los Magistrados, los Presidentes Municipales o de Concejos Municipales y los Síndicos, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del organismo público que ejerza la autoridad electoral administrativa; el Presidente de la Comisión Estatal de los Derechos Humanos, y los Consejeros del Instituto Veracruzano de Acceso a la Información. En el procedimiento que se siga, se respetarán las garantías de audiencia y legalidad.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1699,9 +1735,9 @@ La legislación determinará las obligaciones de los servidores públicos, los p
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
-### CAPÍTULO III. DE LAS REFORMAS A LA CONSTITUCIÓN
+### CAPÍTULO II. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 ###### Artículo 80.
 
@@ -1709,9 +1745,9 @@ En el Estado de Veracruz, la Constitución y leyes federales, los tratados inter
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
-### CAPITULO I.
+### CAPÍTULO III. DE LAS REFORMAS A LA CONSTITUCIÓN
 
-DE LA HACIENDA Y CRÉDITO DEL ESTADO.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 81.
 
@@ -2726,3 +2762,29 @@ PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publi
 SEGUNDO. El Congreso del Estado, en un plazo de sesenta días a partir del inicio de la vigencia del presente Decreto, realizará las reformas correspondientes a la Ley Orgánica del Municipio Libre y al Código Electoral para el Estado.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 9 DE ENERO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado sin perjuicio de lo dispuesto en los siguientes artículos.
+
+SEGUNDO. Los diputados al Congreso del Estado que se elijan el primer domingo de junio de 2016 durarán en su encargo dos años. Los diputados a la LXV Legislatura serán electos excepcionalmente el primer domingo de julio de 2018 y tomarán posesión el 5 de noviembre del mismo año. Asimismo, el primer domingo de julio de 2018 se elegirá al Gobernador del Estado, para cubrir el período del 1 de diciembre de 2018 al 30 de noviembre de 2024.
+
+TERCERO. La reforma al artículo 21, relativa a la elección consecutiva de diputados, será aplicable a los diputados que sean electos a partir del proceso electoral de 2016.
+
+CUARTO. El Gobernador electo el primer domingo de junio de 2016 entrará a ejercer su encargo el primero de diciembre de 2016 y concluirá el treinta de noviembre de 2018.
+
+QUINTO. El Procurador General de Justicia del Estado que se encuentre en funciones al entrar en vigor la autonomía constitucional de la Fiscalía General, quedará designado a partir de ese momento, Fiscal General del Estado por el tiempo previsto en el artículo 67, fracción I, inciso c) de esta Constitución.
+
+SEXTO. Las medidas y resoluciones tomadas por las autoridades electorales del Estado con base en las disposiciones contenidas en los párrafos séptimo y octavo del artículo 19 en materia de financiamiento y recursos de los partidos políticos, que se derogan en este decreto, se continuarán aplicando durante el año 2014.
+
+SÉPTIMO. En tanto no se realicen los nuevos nombramientos por el Consejo General del Instituto Nacional Electoral, los consejeros que actualmente integran el Instituto Electoral Veracruzano, continuarán en su encargo. Asimismo, los magistrados del Tribunal Electoral del Estado continuarán en sus funciones hasta en tanto el Senado de la República no realice los nuevos nombramientos.
+
+OCTAVO. En caso de que la legislación ordinaria modifique la denominación del actual Instituto Electoral Veracruzano, ello no implicará la discontinuidad de su personalidad jurídica ni afectará lo (sic) derechos laborales del personal que en él labora. Tampoco tendrá ningún efecto sobre los procedimientos y trámites que ante dicho instituto se estén realizando. Todas las referencias que en disposiciones legales o administrativas se hagan al Instituto Electoral Veracruzano, se entenderán hechas al organismo que ejerza la autoridad electoral administrativa en el estado cualquiera que sea la denominación que la ley le otorgue.
+
+Toda alusión hecha en cualquier instrumento normativo al Procurador General de Justicia del Estado o a la Procuraduría General de Justicia del Estado, se entenderá hecha al Fiscal General del Estado y a la Fiscalía General del Estado, respectivamente.
+
+NOVENO. Las reformas y derogaciones previstas para los artículos 52, 53, 54, 56, 58, 67, fracción I; 77 y 78, entrarán en vigor en la misma fecha en que lo hagan las leyes secundarias que expida el Congreso del Estado, necesarias para el funcionamiento de la Fiscalía General. El Congreso del Estado emitirá una declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General.
+
+Los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de Justicia del Estado pasarán a la Fiscalía General a partir de la declaratoria prevista en el párrafo anterior.
+
+DÉCIMO. Se deroga cualquier disposición que contravenga el presente Decreto.
