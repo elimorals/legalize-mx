@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2014-11-28"
+last_updated: "2015-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2015.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2691,7 +2691,9 @@ V.- Que el consentimiento de las personas que ejercen la patria potestad, se ha 
 
 En ese sentido cuando se lleve a cabo el nacimiento de un menor en cualquier hospital o institución de carácter público o privado, las personas que ejerzan la patria potestad si así lo deciden, podrán entregar al menor a la Procuraduría para la Defensa del Menor y la Familia, dependiente del Sistema Estatal para el Desarrollo Integral de la Familia, otorgando su consentimiento para su adopción.
 
-Únicamente para tal efecto, el titular de la Procuraduría para la Defensa de los Menores y la Familia estará investido de fe pública, y deberá levantar acta circunstanciada ante la presencia de dos testigos, haciendo alusión a la entrega y el propósito con el que se efectúo, así como la manifestación expresa de la situación familiar y los motivos que originan tal entrega, debiendo anexar por lo menos el certificado de nacimiento del menor e identificación oficial de quien se ostenta como madre o padre, así come informando su domicilio actual.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2015)</small>
+
+Únicamente para tal efecto, el titular de la Procuraduría para la Defensa de los Menores y la Familia o el subprocurador en quien este delegue por escrito para su representación en cada caso específico estará investido de fe pública, y deberá levantar acta circunstanciada ante la presencia de dos testigos, haciendo alusión a la entrega y el propósito con el que se efectúo, así como la manifestación expresa de la situación familiar y los motivos que originan tal entrega, debiendo anexar por lo menos el certificado de nacimiento del menor e identificación oficial de quien se ostenta como madre o padre, así como informando su domicilio actual.
 
 El mismo consentimiento puede ser otorgado en las propias instalaciones de la Procuraduría para la Defensa de los Menores y la Familia, bajo los términos y condiciones señalados en el párrafo anterior. En ambos supuestos, no procederá la asignación del menor a la familia adoptiva hasta transcurrido el término de tres meses, en el cual los padres biológicos podrán solicitar la revocación de la entrega voluntaria; levantando al efecto, acta circunstanciada asentando los motivos de la reintegración al seno familiar.
 
@@ -6767,7 +6769,7 @@ Cuando la posesión se adquiere por medio de violencia, aunque ésta cese y la p
 
 ###### ARTICULO 1142.
 
-La posesión adquirida por medio de un delito, se tendrá en cuenta para la prescripción a partir de la fecha en que haya quedando extinguida la pena o prescrita la acción penal, considerándose la posesión como de mala fe.
+La posesión adquirida por medio de un delito, se tendrá en cuenta para la prescripción a partir de la fecha en que haya quedado extinguida la pena o prescrita la acción penal, considerándose la posesión como de mala fe.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -16274,3 +16276,7 @@ P.O. 19 DE SEPTIEMBRE DE 2014.
 P.O. 28 DE NOVIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ENERO DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
