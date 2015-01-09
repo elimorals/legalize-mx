@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2014-01-16"
+last_updated: "2015-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ENERO DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -188,7 +188,7 @@ XXXVI. Servicios ambientales: los beneficios tangibles e intangibles, generados 
 
 > <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2000)</small>
 
-XXXVII. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y (sic)
+XXXVII. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y
 
 > <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 2000)</small>
 
@@ -766,7 +766,7 @@ III. El ahorro y aprovechamiento sustentable y la prevención de la contaminaci�
 
 IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas;
 
-V. El establecimiento, manejo y vigilancia de áreas naturales protegidas, y (sic)
+V. El establecimiento, manejo y vigilancia de áreas naturales protegidas, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE JULIO DE 2007)</small>
 
@@ -1932,9 +1932,11 @@ ARTICULO 87 BIS 1.- Los ingresos que la Federación perciba por concepto del oto
 
 ARTICULO 87 BIS 2.- El Gobierno Federal, los gobiernos de los Estados, del Distrito Federal y de los Municipios, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
 
-> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Corresponde al Gobierno Federal expedir las normas oficiales mexicanas que determinen los principios básicos de trato digno y respetuoso previsto por esta Ley, que incluyan condiciones de cautiverio, exhibición, transporte, alimentación, explotación, manutención y sacrificio de los animales, así como vigilar su cumplimiento.
+> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 2015)</small>
+
+Corresponde al Gobierno Federal expedir las normas oficiales mexicanas que determinen los principios básicos de trato digno y respetuoso previsto por esta Ley, que incluyen condiciones de cautiverio, exhibición, transporte, alimentación, explotación, entrenamiento, manutención y sacrificio de los animales, así como vigilar su cumplimiento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1998,7 +2000,7 @@ VIII. Las políticas y programas para la protección de especies acuáticas end�
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-IX. Las concesiones para la realización de actividades de acuacultura, en términos de lo previsto en la Ley de Pesca, y (sic)
+IX. Las concesiones para la realización de actividades de acuacultura, en términos de lo previsto en la Ley de Pesca, y
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2406,7 +2408,7 @@ III. Los convenios que celebre el Ejecutivo Federal para entrega de agua en bloq
 
 IV. El establecimiento de zonas reglamentadas, de veda o de reserva en términos de la Ley de Aguas Nacionales;
 
-V. Las concesiones, asignaciones, permisos y en general autorizaciones que deban obtener los concesionarios, asignatarios o permisionarios, y en general los usuarios de las aguas propiedad de la nación, para infiltrar aguas residuales en los terrenos, o para descargarlas en otros cuerpos receptores distintos de los alcantarillados de las poblaciones; y (sic)
+V. Las concesiones, asignaciones, permisos y en general autorizaciones que deban obtener los concesionarios, asignatarios o permisionarios, y en general los usuarios de las aguas propiedad de la nación, para infiltrar aguas residuales en los terrenos, o para descargarlas en otros cuerpos receptores distintos de los alcantarillados de las poblaciones; y
 
 VI. La organización, dirección y reglamentación de los trabajos de hidrología en cuencas, cauces y álveos de aguas nacionales, superficiales y subterráneos;
 
@@ -2912,7 +2914,7 @@ II. Celebrará convenios de concertación con organizaciones obreras y grupos so
 
 III. Celebrará convenios con los medios de comunicación masiva para la difusión, información y promoción de acciones de preservación del equilibrio ecológico y la protección al ambiente;
 
-IV. Promoverá el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad para preservar y restaurar el equilibrio ecológico y proteger el ambiente; y (sic)
+IV. Promoverá el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad para preservar y restaurar el equilibrio ecológico y proteger el ambiente; y
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3192,7 +3194,7 @@ Para la imposición de las sanciones por infracciones a esta Ley, se tomará en 
 
 I. La gravedad de la infracción, considerando principalmente los siguientes criterios: los daños que se hubieran producido o puedan producirse en la salud pública; la generación de desequilibrios ecológicos; la afectación de recursos naturales o de la biodiversidad y, en su caso, los niveles en que se hubieran rebasado los límites establecidos en la norma oficial mexicana aplicable;
 
-II. Las condiciones económicas del infractor; y (sic)
+II. Las condiciones económicas del infractor; y
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3831,3 +3833,15 @@ Segundo. La Secretaría deberá expedir las normas oficiales mexicanas correspon
 D.O.F. 16 DE ENERO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ENERO DE 2015.
+
+Primero. El presente Decreto entrará en vigor a los ciento ochenta días naturales posteriores a su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los circos presentarán a la Secretaría de Medio Ambiente y Recursos Naturales de forma inmediata una base de datos que incluya el número y características de los ejemplares de vida silvestre que posean. Estas bases de datos se pondrán a disposición de los zoológicos del país para que éstos estén en posibilidades de seleccionar a los ejemplares que sean susceptibles de ser integrados a sus colecciones.
+
+Los ejemplares de vida silvestre incluidos en las bases de datos a que hace referencia el párrafo anterior que no sean seleccionados por los zoológicos, podrán ser entregados por sus poseedores a los Centros para la Conservación e Investigación de la Vida Silvestre pertenecientes a la Secretaría de Medio Ambiente y Recursos Naturales con el objeto de que no impliquen gasto por concepto de manutención de animales que ya no podrán ser utilizados en sus centros de trabajo.
+
+Tercero. Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas competencias, deberán adecuar sus legislaciones para dar cumplimiento al presente Decreto en un plazo que no exceda de ciento ochenta días naturales posteriores a la publicación del mismo en el Diario Oficial de la Federación.
+
+Cuarto. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
