@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2014-12-08"
+last_updated: "2015-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 951 , PUBLICADO EN EL P.O. 28 DE MARZO DE 2012, TODA MENCIÓN CONTENIDA EN LEYES , REGLAMENTOS Y, EN GENERAL, CUALQUIER DISPOSICIÓN RESPECTO DE LAS FUNCIONES DESEMPEÑADAS POR LA SECRETARÍA GENERAL DE GOBIERNO, EN MATERIA DE PREVENCIÓN Y REINSERCIÓN SOCIAL, ASÍ COMO DEL SISTEMA DE MENORES INFRACTORES, SE ENTENDERÁN AHORA REFERIDAS A LA SECRETARÍA DE SEGURIDAD PÚBLICA A LA CUAL SE HAN TRANSFERIDO, HASTA EN TANTO SE LLEVEN A CABO LAS ADECUACIONES CORRESPONDIENTES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -267,7 +267,9 @@ IV. Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposic
 
 V. Ser el conducto para presentar ante el Congreso del Estado las iniciativas de ley o decreto del Ejecutivo, así como publicar las leyes, reglamentos y demás disposiciones jurídicas que deban regir en el Estado;
 
-VI. Tramitar ante el Congreso del Estado lo relacionado con los nombramientos, de los magistrados del Supremo Tribunal de Justicia, del Tribunal de lo Contencioso Administrativo y del Tribunal Electoral;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2015)</small>
+
+VI. Tramitar, ante el Congreso del Estado, lo relacionado con el nombramiento de, los magistrados del Supremo Tribunal de Justicia; y del Tribunal de lo Contencioso Administrativo;
 
 VII. Tramitar lo relacionado con los nombramientos, remociones, renuncias y licencias de los titulares de las dependencias del Poder Ejecutivo;
 
@@ -1766,3 +1768,9 @@ SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE DICIEMBRE DE 2014.
 
 ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
