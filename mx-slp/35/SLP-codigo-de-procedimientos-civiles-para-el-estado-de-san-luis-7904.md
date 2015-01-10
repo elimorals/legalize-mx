@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2014-07-05"
+last_updated: "2015-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -257,7 +257,9 @@ ART. 61.- Dentro de los tres días de haberse hecho saber una corrección discip
 
 ART. 62.- Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año menos sábados y domingos y aquellos que las leyes declaren festivos.
 
-Se entienden horas hábiles las que median desde las ocho a las dieciocho horas. En los juicios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos, sucesorios, diferencias domésticas y las demás que determinen las leyes no hay días ni horas inhábiles. En los demás casos, el Juez puede habilitar los días y horas inhábiles para actuar o que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+Se entienden horas hábiles las que median desde las ocho a las dieciocho horas. En los juicios sobre: alimentos; impedimentos de matrimonio; servidumbres legales; interdictos posesorios; diferencias domésticas; y las demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el Juez puede habilitar los días y horas inhábiles para actuar o que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
 
 ART. 63.- Las copias simples de los documentos que se presenten, confrontadas y autorizadas por el secretario, correrán en los autos, quedando los originales en el tribunal, donde podrá verlos la parte contraria, si lo pidiere.
 
@@ -819,7 +821,9 @@ Si se declara ilegal la causa de la recusación o la sentencia que se pronuncie 
 
 En los casos a que se refiere este artículo, se remitirá testimonio de la resolución al juez recusado y al que deba seguir conociendo de los autos.
 
-En el Tribunal, queda el Ministro recusado separado del conocimiento del negocio, durante la tramitación señalada en este artículo, debiendo abstenerse de concurrir a la audiencia y a las deliberaciones que se ofrezcan. Para completar la Sala, se llamará al Ministro que corresponda conforme a la Ley; pero si se declara improcedente la recusación volverá aquél al conocimiento del negocio.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+En el Tribunal, queda el Magistrado recusado separado del conocimiento del negocio, durante la tramitación señalada en este artículo, debiendo abstenerse de concurrir a la audiencia y a las deliberaciones que se ofrezcan. Para completar la Sala, se llamará al Magistrado que corresponda conforme a la ley; pero si se declara improcedente la recusación volverá aquél al conocimiento del negocio.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
 
@@ -919,9 +923,9 @@ ART. 209.- En la misma resolución ordenará la notificación al otro cónyuge, 
 
 ART. 210.- La autoridad judicial determinará la situación de las hijas o hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el artículo 31 del Código Familiar para el Estado; las propuestas de los cónyuges, si las hubiera; y lo dispuesto por el artículo 555 de este Código.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
 
-ART. 211.- Los derechos contemplados en el presente Capítulo, también podrán ejercerlos la concubina y el concubinario, cuando tengan un domicilio común con las características del domicilio conyugal a que se refiere el Código Civil.
+ART. 211.- Los derechos contemplados en el presente Capítulo también podrán ejercerlos la concubina y el concubinario, cuando tengan un domicilio común con las características del domicilio conyugal a que se refiere el artículo 29 del Código Familiar para el Estado.
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
 
@@ -2601,7 +2605,7 @@ ART. 585.- El producto de los bienes se distribuirá proporcionalmente entre los
 
 Si al efectuarse la distribución hubiere algún crédito pendiente de verificarse, su dividendo se depositará en el establecimiento designado al efecto por la Ley, hasta la resolución definitiva del juicio.
 
-ART. 586.- El acreedor hipotecario, el prendario y el que tenga privilegio especial respecto del que no haya habido oposición, así como el que hubiere obtenido sentencia firme, no estará obligado a esperar el resultado final del concurso general y será pagado con el producto de los bienes afectados a la hipoteca o privilegio, sin perjuicio de obligarlo a dar caución de acreedor de mejor derecho.
+ART. 586.- El acreedor hipotecario, el prendario y el que tenga privilegio especial respecto del que no haya habido oposición, así como el hubiere obtenido sentencia firme, no estará obligado a esperar el resultado final del concurso general y será pagado con el producto de los bienes afectados a la hipoteca o privilegio, sin perjuicio de obligarlo a dar caución de acreedor de mejor derecho.
 
 Si antes de establecido el derecho de preferencia de algún acreedor, se distribuyere un dividendo, se considerará como acreedor común reservándose el precio del bien afectado hasta la concurrencia del importe de su crédito, por si esa preferencia quedase reconocida.
 
@@ -2695,23 +2699,27 @@ ART. 606.- De las cantidades recogidas se dispondrá por el juzgado, de oficio, 
 
 ART. 607.- Las medidas de que tratan los artículos 603 a 605 se ordenarán por cualquier juez, aun cuando no sea competente para conocer de la sucesión, y aun tratándose de jueces menores, respecto de los bienes existentes dentro de su territorio jurisdiccional, comunicando, inmediatamente, al juez que sea competente, las medidas tomadas, enviándole copia íntegra del expediente relativo.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
 
-ART. 607 BIS.- El juez competente, o el notario público que inicie un procedimiento sucesorio, deberá recabar el informe de la existencia o inexistencia de alguna disposición testamentaria, mediante la solicitud de búsqueda ante el Registro Público de la Propiedad, y la Dirección del Notariado.
+ART. 607 BIS.- El juez competente, o el notario público que inicie un procedimiento sucesorio, deberá recabar el informe de la existencia o inexistencia de alguna disposición testamentaria, mediante la solicitud de búsqueda en el Registro Público de la Propiedad; y en la Dirección del Notariado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2015)</small>
 
-ART. 608.- Si en la búsqueda en el Registro Nacional de Avisos de Testamento no se encontrara disposición testamentaria alguna, y si pasados quince días de la muerte del autor de la sucesión no se presenta el testamento; o si de presentarse, en éste no está nombrado el albacea, o si no se denuncia el interesado (sic), el juez nombrará un interventor que reúna los siguientes requisitos:
+ART. 608.- Si en la búsqueda en el Registro Público de la Propiedad; y en la Dirección del Notariado, no se encontrara disposición testamentaria alguna, y si pasados quince días de la muerte del autor de la sucesión no se presenta el testamento; o si de presentarse, en éste no está nombrado el albacea, o si no se denuncia el interesado, el juez nombrará un interventor que reúna los siguientes requisitos:
 
 I.- Ser mayor de edad;
 
 II.- De notoria buena conducta;
 
-III.- Estar domiciliado en el lugar del juicio;
+> <small>(REFORMADA P.O. 10 DE ENERO DE 2015)</small>
+
+III.- Estar domiciliado en el lugar del juicio, y
 
 IV.- Otorgar fianza judicial para responder de su manejo.
 
-La fianza deberá otorgarse en un plazo de diez días contados desde la aceptación del cargo, bajo pena de remoción.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+La fianza se deberá otorgar en un plazo de diez días contados desde la aceptación del cargo, bajo pena de remoción.
 
 ART. 609.- Una vez otorgada la fianza, el interventor recibirá los bienes por inventario y tendrá el carácter de simple depositario, sin poder desempeñar otras funciones administrativas que las de mera conservación y las que se refieran al pago de las deudas mortuorias, con autorización judicial.
 
@@ -3211,7 +3219,9 @@ ART. 740.- Cuando todos los herederos fueren mayores de edad y hayan sido instit
 
 ART. 741.- El procedimiento se iniciará con la comparecencia del albacea y todos los herederos ante notario, exhibiendo la partida de defunción del autor de la herencia y el testimonio del testamento o de su protocolización, declarando su conformidad con la disposición testamentaria, que aceptan la herencia o el legado en su caso, y que se reconocen recíprocamente sus derechos hereditarios; el albacea manifestará que va a proceder a formar el inventario y avalúo de los bienes de la herencia.
 
-El notario dará a conocer estas declaraciones por medio de dos publicaciones, que se harán de diez en diez días en el Periódico Oficial del Estado y en un diario de los de mayor circulación en el Estado, a su juicio; y procederá a recabar informe del Registro Estatal de Testamentos y de los demás archivos y oficinas similares del distrito judicial.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+El notario dará a conocer estas declaraciones por medio de dos publicaciones, que se harán de diez en diez días en el Periódico Oficial del Estado y en un diario de los de mayor circulación en el Estado, a su juicio; y procederá a recabar informe del Registro Público de la Propiedad; y de la Dirección del Notariado.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
 
@@ -3237,7 +3247,9 @@ I.- Los legatarios o sus representantes, exhibirán al notario la copia certific
 
 II.- El notario dará a conocer por medio de una publicación en el Periódico Oficial del Estado y en un periódico de los de mayor circulación en la Entidad, que ante él se está tramitando la titulación notarial de la adquisición derivada del testamento público simplificado, los nombres del testador y de los legatarios y, en su caso, su parentesco;
 
-III.- El notario recabará del Registro Estatal de Testamentos y de los correspondientes archivos u oficinas similares del último domicilio del autor de la sucesión, las constancias relativas a la existencia o inexistencia de testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el notario podrá continuar con los trámites relativos, siempre que no existiere oposición;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2015)</small>
+
+III.- El notario recabará del Registro Público de la Propiedad; de la Dirección del Notariado; y de los correspondientes archivos u oficinas similares del último domicilio del autor de la sucesión, las constancias relativas a la existencia o inexistencia de testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el notario podrá continuar con los trámites relativos, siempre que no existiere oposición;
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2012)</small>
 
@@ -3427,7 +3439,9 @@ ART. 823.- Siempre que el tutor nombrado no reúna los requisitos que la Ley exi
 
 ART. 824.- Si sobre el nombramiento de un tutor se empeñare cuestión, se sustanciará ésta en juicio extraordinario y en el pleito que se siga representará al menor un tutor interino, que el juez nombrará para este sólo efecto.
 
-ART. 825.- Todo tutor, cualquiera que sea su clase, debe aceptar previamente y prestar las garantías exigidas por el Código Civil para que se le discierna el cargo, a no ser que la Ley lo exceptuare expresamente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 825.- Todo tutor, cualquiera que sea su clase, debe aceptar previamente y prestar las garantías exigidas por el artículo 404 del Código Familiar para el Estado, para que se le discierna el cargo, a no ser que la ley lo exceptuare expresamente.
 
 El tutor debe manifestar si acepta o no el cargo dentro de los cinco días que sigan a la notificación de su nombramiento. En igual término debe proponer sus impedimentos o excusas, disfrutando un día más por cada cuarenta kilómetros que medien entre su domicilio y el lugar de la residencia del juez competente.
 
@@ -3439,7 +3453,9 @@ ART. 826.- El importe de la garantía se determinará con audiencia del Minister
 
 ART. 827.- También se dará audiencia al Ministerio Público para la apreciación y aprobación de la garantía que se otorgue.
 
-ART. 828.- Para facilitar y asegurar el otorgamiento de la garantía, los jueces nombrarán desde luego curador en los casos en que conforme al Código Civil les corresponda hacer el nombramiento, o confirmarán el que haya hecho el autor de la herencia, o el menor en su caso.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 828.- Para facilitar y asegurar el otorgamiento de la garantía, los jueces nombrarán desde luego curador en los casos en que conforme al artículo 446 del Código Familiar para el Estado les corresponda hacer el nombramiento, o confirmarán el que haya hecho el autor de la herencia, o el menor, en su caso.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -3463,7 +3479,9 @@ ART. 835.- En todo auto de discernimiento del cargo de la o el tutor, deberá la
 
 ART. 836.- Los autos de nombramiento de tutor definitivo, y de discernimiento de cargo, se publicarán por tres veces cada tres días, en el Periódico Oficial y en otro de los de mayor circulación a juicio del juez.
 
-ART. 837.- Si al diferirse la tutela se encuentra el incapaz fuera de su domicilio, el juez de primera instancia, y en su defecto el juez menor o alcalde constitucional de la población en que se hallare, hará inventariar y depositar los bienes muebles que el incapacitado tenga en su poder, y lo avisará inmediatamente al juez del domicilio, remitiéndole un testimonio de estas diligencias. Esta misma obligación tiene en el caso de quedar vacante la tutela por cualquiera otra causa.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 837.- Si al diferirse la tutela se encuentra el incapaz fuera de su domicilio, el juez de primera instancia y, en su defecto, el juez menor o el presidente municipal constitucional de la población en que se hallare, hará inventariar y depositar los bienes muebles que el incapacitado tenga en su poder, y lo avisará inmediatamente al juez del domicilio, remitiéndole un testimonio de estas diligencias. Esta misma obligación tiene en el caso de quedar vacante la tutela por cualquiera otra causa.
 
 ART. 838.- De las resoluciones que se dictaren conforme al artículo anterior, sólo se admitirá la apelación en el efecto devolutivo.
 
@@ -3619,9 +3637,11 @@ Si en la primera almoneda no hubiere postor, el juez convocará, a solicitud del
 
 ART. 861.- Para la venta de acciones y títulos de renta se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducto de corredor titulado, y si no lo hay, de comerciante establecido y acreditado.
 
-ART. 862.- El precio de la venta se entregará al tutor si las fianzas o garantías que tuviere prestadas son suficientes para responder de él, o si estuviere relevado de prestarlas conforme a las fracciones I y III del artículo 473, del Código Civil.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
 
-El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación, pero si pasan tres meses se procederá como previene el artículo 507 del Código Civil.
+ART. 862.- El precio de la venta se entregará al tutor si las fianzas o garantías que tuviere prestadas son suficientes para responder de él, o si estuviere relevado de prestarlas conforme a las fracciones I y III del artículo 405 del Código Familiar para el Estado.
+
+El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación, pero si pasan tres meses se procederá como previene el artículo 334 del Código Familiar para el Estado.
 
 ART. 863.- El juez cuidará, bajo su responsabilidad, de que se dé al precio que se haya obtenido, la aplicación indicada al solicitar la autorización.
 
@@ -3633,13 +3653,17 @@ También requerirán los padres la autorización judicial para gravar los bienes
 
 ART. 866.- Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor la autorización judicial, que sólo podrá concederse con audiencia del curador.
 
-ART. 867.- Para transigir sobre derechos de menores o incapacitados, deberán observarse en lo relativo las disposiciones de los artículos anteriores, teniendo presente que la autorización deberá recaer sobre las bases de la transacción propuesta, observándose en su caso lo que se dispone en los artículos 514 y 518 del Código Civil.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 867.- Para transigir sobre derechos de menores o incapacitados, deberán observarse en lo relativo las disposiciones de los artículos anteriores, teniendo presente que la autorización deberá recaer sobre las bases de la transacción propuesta, observándose en su caso lo que se dispone en los artículos 341 y 345 del Código Familiar para el Estado.
 
 ART. 868.- Cuando en virtud de la transacción reciba el menor alguna cantidad, se observará lo dispuesto en este Capítulo.
 
 ART. 869.- Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de los ausentes, así como el arrendamiento por más de cinco años de bienes de los ausentes, menores o incapacitados.
 
-ART. 870.- La venta de los bienes indivisos pertenecientes a mayores y menores de edad, se hará con sujeción a este Capítulo, teniendo en cuenta lo que se dispone en el artículo 514 del Código Civil.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 870.- La venta de los bienes indivisos pertenecientes a mayores y menores de edad, se hará con sujeción a este Capítulo, teniendo en cuenta lo que se dispone en el artículo 341 del Código Familiar para el Estado.
 
 #### Sección III. Del Nombramiento de Curador y Discernimiento del Cargo
 
@@ -3655,7 +3679,9 @@ ART. 842.- Dentro de los ocho primeros días de cada año, la autoridad judicial
 
 I.- Si resultare haber fallecido algún tutor, harán que sea reemplazado con arreglo a la Ley;
 
-II.- Si hubiere alguna cantidad de dinero depositada para darle destino determinado, harán que desde luego tengan cumplido efecto las prescripciones del Código Civil;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2015)</small>
+
+II.- Si hubiere alguna cantidad de dinero depositada para darle destino determinado, harán que desde luego tengan cumplido efecto las prescripciones de los artículos, 436 y 437 del Código Familiar para el Estado;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -3681,7 +3707,9 @@ II.- El documento que pruebe que realmente se hizo el gasto.
 
 ART. 844.- Cuando fueren muchos los libros y documentos que deban cotejarse, bastará que se presente la cuenta en extracto si estuvieren conformes el curador y el Ministerio Público, quienes tendrán derecho de examinar por sí mismos los libros originales; el juez podrá, cuando alguno de ellos lo pida, nombrar un perito que glose la cuenta.
 
-ART. 845.- El tutor cuyo cargo ha concluído puede, al hacer la entrega que previenen los artículos 557 y 558 del Código Civil, retener los documentos para formar su cuenta previo consentimiento del curador o del pupilo, si salió ya éste de la menor edad y autorización judicial, a fin de presentarlos con ella.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 845.- El tutor cuyo cargo ha concluido puede, al hacer la entrega que previenen los artículos, 436 y 437 del Código Familiar para el Estado, retener los documentos para formar su cuenta, previo consentimiento del curador o del pupilo, si salió ya éste de la menor edad y autorización judicial, a fin de presentarlos con ella.
 
 ART. 846.- Presentada la cuenta en los términos que quedan establecidos, mandará el juez correr traslado de ella al curador y al Ministerio Público, por un término que no podrá exceder en ningún caso, de diez días para cada uno de ellos.
 
@@ -3959,7 +3987,9 @@ El Ministerio Público y las personas con cuya citación se reciba la informaci�
 
 ART. 926.- Cuando se pretenda acreditar el hecho a que se refiere el artículo 2853 del Código Civil, la información se rendirá en los mismos términos que señalan los artículos anteriores.
 
-ART. 927.- Recibida la información, el juez declarará si se han acreditado o no los hechos que la motivaron. Si los declara acreditados: en el caso del artículo 921 de este Código, declarará, además, que el poseedor se ha convertido en propietario en virtud de la prescripción y mandará protocolizar las diligencias en la notaría que designe el promovente; en el caso del artículo 2853 del Código Civil, que se inscriba la resolución para los efectos del Capítulo IV, Título II, Tercera Parte del Libro Cuarto del Código Civil, y, en los demás casos, que se expida copia certificada de las actuaciones al promovente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 927.- Recibida la información, el juez declarará si se han acreditado o no los hechos que la motivaron. Si los declara acreditados: en el caso del artículo 921 de este Código, declarará, además, que el poseedor se ha convertido en propietario en virtud de la prescripción, y mandará protocolizar las diligencias en la notaría que designe el promovente; en el caso del artículo 53 de la Ley del Registro Público de la Propiedad y del Catastro del Estado y Municipios de San Luis Potosí, que se inscriba la resolución para los efectos del Capítulo IV, Título Segundo, Tercera Parte del Libro Cuarto del Código Civil, y, en los demás casos, que se expida copia certificada de las actuaciones al promovente.
 
 La resolución que declare o no acreditados los hechos será apelable en ambos efectos.
 
@@ -4235,7 +4265,9 @@ III.- Si el hecho consiste en el otorgamiento de algún instrumento o la celebra
 
 ART. 994.- En el caso de la fracción II del artículo anterior, la persona nombrada por el tribunal tiene derecho de pedir, en los mismos autos de la ejecución, antes de hacer su trabajo, que el obligado le asegure su importe, fijado por acuerdo entre ellos, o, a falta de éste, por medio de peritos; y, si el obligado se resistiere a hacer el pago, podrá aquélla pedir que se despache ejecución en su contra, por la cantidad convenida, o, en su defecto, por la que determine el tribunal, con vista de los dictámenes periciales.
 
-ART. 995.- Si el ejecutante optare, en cualquiera de los casos enumerados en el artículo anterior, por el resarcimiento de daños y perjuicios, se procederá a embargar bienes del deudor por la cantidad que aquél señalare y que el juez moderará prudentemente, sin perjuicio de que el deudor reclame sobre el monto. Esta reclamación se sustanciará como incidente de liquidación de sentencia.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 995.- Si el ejecutante optare, en cualquiera de los casos enumerados en el artículo 993 de este Código, por el resarcimiento de daños y perjuicios, se procederá a embargar bienes del deudor por la cantidad que aquél señalare y que el juez moderará prudentemente, sin perjuicio de que el deudor reclame sobre el monto. Esta reclamación se sustanciará como incidente de liquidación de sentencia.
 
 ART. 996.- Cuando la sentencia condene a rendir cuentas, el juez señalará un término prudente al obligado para que las rinda y le indicará a quién debe rendirlas.
 
@@ -4737,7 +4769,9 @@ El período de lanzamiento será el que señala el artículo 450.
 
 ART. 1122.- Los términos establecidos por disposiciones que, aun cuando no comprendidas en este Capítulo, deban observarse, se computarán en la forma prevenida en el artículo anterior.
 
-ART. 1123.- Las cuestiones incidentales que se susciten en estos juicios, se resolverán juntamente con lo principal, a menos que por su naturaleza sea forzoso decidirlas antes, o que se promuevan después de la sentencia; pero en ningún caso se formará artículo, sino que se resolverán de plano.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 1123.- Las cuestiones incidentales que se susciten en estos juicios se resolverán juntamente con lo principal, a menos que por su naturaleza sea forzoso decidirlas antes, o que se promuevan después de la sentencia; pero, en ningún caso, se formará artículo de previo y especial pronunciamiento, sino que se resolverán de plano.
 
 La conexidad sólo procede cuando se trata de juicios que se sigan ante el mismo juzgado y se resolverá luego que se promueva, sin necesidad de audiencia especial u otra actuación. Queda abolida la práctica de promover acumulaciones de autos llevados ante juzgados diferentes.
 
@@ -4949,9 +4983,9 @@ ART. 1164.- Los testigos indicados en el auto de admisión de pruebas serán exa
 
 Los textos de las preguntas deberán implicarse en el texto de las contestaciones que se asienten en el acta de las diligencias y sólo en casos excepcionales, se podrán asentar separamente (sic), de manera literal, las preguntas de las respuestas.
 
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
 
-ART. 1165.- Concluída la recepción de las pruebas, el Tribunal dispondrá que las partes aleguen por sí o por sus abogados o apoderados, primero el actor y luego el demandante. El Ministerio Público alegará también en los casos en que intervenga procurando la mayor brevedad y concisión. No se podrá hacer uso de la palabra por más de un cuarto de hora en primera instancia y de media hora en segunda.
+ART. 1165.- Concluida la recepción de las pruebas, el Tribunal dispondrá que las partes aleguen por sí o por sus abogados o apoderados, primero el actor y luego el demandado. El Ministerio Público alegará también en los casos en que intervenga procurando la mayor brevedad y concisión. No se podrá hacer uso de la palabra por más de un cuarto de hora en primera instancia, y de media hora en segunda.
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
 
@@ -5009,11 +5043,13 @@ ART. 1173.- El emplazamiento se hará a todos los interesados cuyo domicilio fue
 
 ART. 1174.- La sentencia ejecutoria hará plena fe contra todos aunque no haya litigado; pero si alguno probare que estuvo absolutamente impedido para salir al juicio, se le admitirá a probar contra ella; más se tendrá como buena la sentencia anterior y surtirá sus efectos, hasta que recaiga otra que la contradiga y cause ejecutoria.
 
-Se excluyen de la revisión de oficio a que se refiere el artículo 964 de este Código, únicamente las sentencias que hayan resuelto cuestiones relacionadas con vicios o defectos de carácter genérico, consistentes en la ilegibilidad de los datos en alguno de los libros correspondientes, y sobre la existencia de abreviaturas a que se refiere el artículo 126 fracción II, incisos c) y d), primera parte, del Código Civil para el Estado de San Luis Potosí.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+Se excluyen de la revisión de oficio a que se refiere el artículo 964 de este Código, únicamente las sentencias que hayan resuelto cuestiones relacionadas con vicios o defectos de carácter genérico, consistentes en la ilegibilidad de los datos en alguno de los libros correspondientes, y sobre la existencia de abreviaturas a que se refieren los artículos, 136 y 137 de la Ley del Registro Civil del Estado.
 
-ART. 1175.- Tan luego como cause ejecutoria la sentencia dictada en estos juicios, el juez cumplirá lo dispuesto en el artículo 129 del Código Civil para el Estado de San Luis Potosí.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 1175.- Tan luego como cause ejecutoria la sentencia dictada en estos juicios, el juez cumplirá lo dispuesto en el artículo 554 del Código Familiar para el Estado.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -5326,3 +5362,9 @@ P.O. 5 DE JULIO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE ENERO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
