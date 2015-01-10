@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2013-12-14"
+last_updated: "2015-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE ENERO DE 2015 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -1335,6 +1337,10 @@ VIII. Tomar conocimiento de las infracciones que cometan los conductores de los 
 
 Las infracciones en materia de tránsito podrán ser conocidas por los elementos de tránsito municipal a través de equipos o sistemas tecnológicos y gestionarse con el uso de medios electrónicos, los cuales deberán funcionar bajo los principios de neutralidad tecnológica, equivalencia funcional, autenticidad, conservación, confidencialidad e integridad; y
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2015)</small>
+
+En ningún caso los elementos de tránsito deberán llevar a cabo la retención de licencias o permisos para conducir, placas y tarjetas de circulación, placas y tarjetas de circulación provisionales o cualquier documento de identificación vehicular que prevé la Ley del Transporte y de la Seguridad Vial.
+
 IX. Las demás que les sean señaladas por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, por esta Ley y los reglamentos en materia de tránsito y seguridad vial.
 
 La actuación de los elementos de tránsito, se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
@@ -1964,3 +1970,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Municipio que decida adoptar los sistemas tecnológicos que se refieren en el presente Decreto para la aplicación de sanciones por la infracción a las normas viales establecidas en los reglamentos municipales de la materia, deberán implementar una campaña de información y concientización de por lo menos tres meses y en el transcurso de dicha campaña las infracciones que se apliquen serán simbólicas sin el cobro del aprovechamiento correspondiente.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE ENERO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Los Diez Ayuntamientos integrantes del Estado contarán con un plazo de 60 días para adecuar su reglamentación respectiva a lo establecido por el presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se contrapongan al contenido del presente decreto.
