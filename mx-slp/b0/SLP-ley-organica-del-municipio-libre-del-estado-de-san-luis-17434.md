@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2014-07-02"
+last_updated: "2015-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1013,9 +1013,9 @@ XXXVII. En materia de seguridad pública ejercer las facultades que le confieren
 
 XXXVIII. Substanciar los procedimientos administrativos disciplinarios y resarcitorios, determinando o no la existencia de responsabilidades administrativas, por incumplimiento de las obligaciones de los servidores públicos municipales no sujetos a responsabilidad por parte del Congreso del Estado, sólo en los casos en los que no se encuentre en funciones el contralor interno, cuando por cualquiera de las razones establecidas en el artículo 56 fracción XIII de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, el contralor interno se encuentra impedido para conocer o, cuando sea el propio contralor interno el presunto responsable al que se someterá a procedimiento administrativo sancionatorio, pudiendo aplicar las sanciones disciplinarias correspondientes, por acuerdo de Cabildo;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2015)</small>
 
-XXXIX. Asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo;
+XXXIX. Asistir y acreditar los cursos de inducción, talleres de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del Ramo correspondiente, o por universidades públicas o privadas, una vez que cuenten con la constancia de la autoridad electoral que los acredite como tales y antes de tomar posesión de su cargo; así como asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo, y
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
@@ -1099,9 +1099,9 @@ VII. Solicitar se convoque a sesiones ordinarias y extraordinarias al Cabildo. C
 
 VIII. Suplir las faltas temporales de los síndicos suplentes en funciones, cuando para ello fueren designados por el Cabildo;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2015)</small>
 
-IX. Asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo, y
+IX. Asistir y acreditar los cursos de inducción, talleres de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del Ramo correspondiente, o por universidades públicas o privadas, una vez que cuenten con la constancia de la autoridad electoral que los acredite como tales y antes de tomar posesión de su cargo; así como asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo, y
 
 > <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -1143,9 +1143,9 @@ X. Intervenir como asesor en las demás comisiones cuando se trate de dictámene
 
 XI. Fungir como Agente del Ministerio Público en los casos que determinen las leyes de la materia;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2015)</small>
 
-XII. Asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo, y
+XII. Asistir y acreditar los cursos de inducción, talleres de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del Ramo correspondiente, o por universidades públicas o privadas, una vez que cuenten con la constancia de la autoridad electoral que los acredite como tales y antes de tomar posesión de su cargo; así como asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo, y
 
 > <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -1723,9 +1723,17 @@ Recibida la propuesta metodológica, el Consejo la analizará y emitirá su opin
 
 Cuando alguno de los representantes de los organismos referidos no cumpla con sus obligaciones, el cabildo deberá sustituirlo llamando al suplente respectivo o, en su defecto, al que resulte electo mediante un nuevo proceso de elección.
 
-### CAPITULO I. Del Patrimonio Municipal
+### CAPITULO XIV. De la Capacitación y Profesionalización del Cabildo, y Servidores Públicos Municipales de Confianza
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ARTICULO 107 BIS. Los integrantes del Cabildo, así como los servidores públicos municipales que desempeñen cargos de confianza en el ayuntamiento, están obligados a asistir y acreditar los cursos de inducción, talleres de capacitación y profesionalización que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia o entidad competente, tendentes a la certificación en el ramo o función a desempeñar, a fin de que cuenten con los conocimientos y habilidades necesarias para cumplir con las funciones que desempeñan, bajo los criterios de eficacia, eficiencia, legalidad, imparcialidad, y honradez. El Ejecutivo Estatal determinará en el Reglamento correspondiente, el índice de materias básicas a certificar.
+
+El incumplimiento de la obligación señalada en el párrafo que antecede, será objeto de las sanciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, siempre y cuando no la realice durante el primer año del ejercicio de sus funciones.
+
+La institución o instituciones certificadoras serán designadas mediante los procedimientos que establezcan las leyes de la materia.
+
+El Ejecutivo del Estado, por conducto de la entidad competente, llevará un Registro de Servidores Públicos Certificados, que deberá publicarse en el Periódico Oficial del Estado, actualizándolo cada ciclo lectivo de certificación.
 
 ###### ARTICULO 104.
 
@@ -1763,13 +1771,15 @@ Los ayuntamientos podrán constituir para un objeto específico de interés púb
 
 De igual forma, podrán crearse patronatos que tengan fines específicos, que estarán integrados con una participación mayoritaria de la sociedad civil, teniendo por objeto el bienestar social a través de la promoción del desarrollo municipal.
 
-### CAPITULO II. De la Hacienda Municipal
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE ENERO DE 2015)</small>
+
+### CAPITULO I. Del Patrimonio Municipal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2007)</small>
 
 ## TITULO SEXTO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA MUNICIPAL
 
-### CAPITULO I. De la Planeación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2013)</small>
+### CAPITULO II. De la Hacienda Municipal
 
 ###### ARTICULO 108.
 
@@ -1853,7 +1863,9 @@ La venta de los bienes inmuebles deberá efectuarse en subasta pública conforme
 
 La Oficialía Mayor o la Secretaría Municipal, establecerán reglas y procedimientos para dar de alta los bienes muebles propiedad de los municipios; así como los requisitos para los resguardos que los servidores públicos deban otorgar, cuando se les confíen bienes municipales para la prestación de servicios públicos en el desempeño de sus labores.
 
-### CAPITULO II. Del Presupuesto
+### CAPITULO I. De la Planeación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 115.
 
@@ -1919,7 +1931,7 @@ Las omisiones o excesos de las autoridades municipales en el manejo de la Hacien
 
 ## TITULO SEPTIMO. DE LA PLANEACION
 
-### CAPITULO III. Del Ejercicio del Gasto Público
+### CAPITULO II. Del Presupuesto
 
 ###### ARTICULO 121.
 
@@ -1935,7 +1947,7 @@ Dentro de los dos meses siguientes a su toma de posesión, los ayuntamientos con
 
 > <small>(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO IV. De la Contabilidad Municipal
+### CAPITULO III. Del Ejercicio del Gasto Público
 
 ###### ARTICULO 122.
 
@@ -1971,7 +1983,7 @@ La aplicación de recursos federales o estatales transferidos al Ayuntamiento se
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO I. De las Modalidades en su Prestación
+### CAPITULO IV. De la Contabilidad Municipal
 
 ###### ARTICULO 130.
 
@@ -2011,7 +2023,7 @@ La aplicación de recursos federales o estatales transferidos al Ayuntamiento se
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO II. De la Seguridad Pública y Tránsito
+### CAPITULO I. De las Modalidades en su Prestación
 
 ###### ARTICULO 139.
 
@@ -2023,7 +2035,7 @@ La aplicación de recursos federales o estatales transferidos al Ayuntamiento se
 
 ## TITULO OCTAVO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
-### CAPITULO III. De la Concesión de Bienes y Servicios Públicos Municipales
+### CAPITULO II. De la Seguridad Pública y Tránsito
 
 ###### ARTICULO 141.
 
@@ -2133,11 +2145,7 @@ VI. El dictamen que expidan las Comisiones, en caso de considerar que el Ayuntam
 
 VII. El Congreso del Estado deberá resolver la solicitud planteada en un término no mayor a quince días naturales contados a partir del desahogo de la última prueba. En caso de que el Congreso se encontrare en receso, se convocará a período extraordinario para el desahogo del caso concreto.
 
-### CAPITULO I. De los Bandos y Reglamentos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2011)</small>
+### CAPITULO III. De la Concesión de Bienes y Servicios Públicos Municipales
 
 ###### ARTICULO 149.
 
@@ -2151,7 +2159,11 @@ La policía preventiva municipal estará al mando del Presidente Municipal en lo
 
 La policía preventiva municipal deberá acatar las órdenes que el Gobernador del Estado les transmita, en los casos en que él mismo juzgue como de fuerza mayor o alteración grave del orden público.
 
-### CAPITULO II. De las Sanciones
+### CAPITULO I. De los Bandos y Reglamentos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 151.
 
@@ -2261,13 +2273,13 @@ Si para el primero de enero de cada año no se ha hecho la publicación de preci
 
 ## TITULO NOVENO. DE LA REGLAMENTACION DE LOS AYUNTAMIENTOS
 
-### CAPITULO I. Generalidades
+### CAPITULO II. De las Sanciones
 
 ###### ARTICULO 159.
 
 Los ayuntamientos expedirán en forma obligatoria, de acuerdo con las bases previstas en esta Ley y en las leyes que en materia municipal expida el Congreso del Estado, los bandos de policía y gobierno, reglamentos, circulares y demás disposiciones administrativas que sean de observancia general en sus respectivas municipalidades, las que en todo tiempo podrán ser modificadas con autorización del Ayuntamiento. Tales documentos para su validez deberá certificarlos el Secretario del Ayuntamiento y promulgarlos el presidente municipal, enviándolos para su publicación en el Periódico Oficial del Estado.
 
-### CAPITULO II. De la Declaración de la Situación Patrimonial
+### CAPITULO I. Generalidades
 
 ###### ARTICULO 160.
 
@@ -2301,7 +2313,7 @@ VIII. Reparación o resarcimiento del daño.
 
 ## TITULO DECIMO. DE LOS SERVIDORES PUBLICOS MUNICIPALES
 
-### CAPITULO III. De las Sanciones y de los Recursos
+### CAPITULO II. De la Declaración de la Situación Patrimonial
 
 ###### ARTICULO 161.
 
@@ -2311,7 +2323,7 @@ Las relaciones laborales de las administraciones municipales y sus trabajadores,
 
 Los servidores públicos administrativos serán suplidos en la forma que prevenga el Reglamento Interior del Ayuntamiento.
 
-### CAPITULO UNICO
+### CAPITULO III. De las Sanciones y de los Recursos
 
 ###### ARTICULO 163.
 
@@ -2344,6 +2356,8 @@ En caso de incumplimiento de las obligaciones consignadas en los artículos de e
 ###### ARTICULO 166.
 
 Para efectos de registro y control, el Cabildo remitirá a la Auditoría Superior del Estado, un tanto de las declaraciones de situación patrimonial que le sean presentadas.
+
+### CAPITULO UNICO
 
 ###### ARTICULO 167.
 
@@ -2658,3 +2672,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Los poderes, Ejecutivo; Legislativo; y Judicial; los ayuntamientos; los organismos descentralizados; los organismos constitucionales autónomos, y los fideicomisos públicos, a través del órgano de control interno que les corresponda, deberán remitir a la Auditoría Superior del Estado, la información que obre en sus registros y archivos, de un periodo que deberá comprender de diez años anteriores a la fecha de publicación de este Decreto, relativa a las sanciones e inhabilitaciones dictadas en contra de todos y cada uno de los servidores públicos sujetos de responsabilidad, por los actos u omisiones que hayan realizado derivados de sus funciones, dentro del servicio público estatal y municipal; que deberán entregar sin exceder el plazo de ciento veinte días, contados a partir de la vigencia de este Decreto.
 
 CUARTO. La Auditoría Superior del Estado deberá recabar toda la información para la correcta integración del Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, para lo cual, además de la recepción de toda la documentación a que refiere el transitorio tercero de este Decreto, deberá agregar todas las sanciones e inhabilitaciones que consten en los archivos de la propia Auditoría, así como revisar todas las actas de cabildo que se encuentren a su disposición de los 58 ayuntamientos de la Entidad, donde consten sanciones a servidores públicos, incluyendo las inhabilitaciones de diez años anteriores a la fecha de vigencia de este Decreto, a fin de que sean incorporadas al Registro Estatal de Servidores Públicos sancionados e Inhabilitados, para lo cual dispondrá de un termino de ciento cincuenta días contados a partir de la vigencia del presente Decreto, a efecto de poner en operación el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados.
+
+P.O. 10 DE ENERO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Ejecutivo del Estado contará con un término de noventa días contados a partir de la publicación del presente Decreto, para expedir el Reglamento a que se refiere el artículo 107 Bis que se adiciona por medio del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
