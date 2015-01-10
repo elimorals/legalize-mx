@@ -4,7 +4,7 @@ identifier: "COL-ley-del-transporte-y-de-la-seguridad-vial-para-el-estado-de-519
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2014-10-04"
+last_updated: "2015-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE ENERO DE 2015 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -305,9 +307,9 @@ XIV. Operar el Registro;
 
 XV. Expedir autorizaciones para el funcionamiento de estacionamientos, encierros, corralones y confinamientos públicos, así como proponer sus tarifas correspondientes;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2015)</small>
 
-XVI. Expedir, revalidar, reponer o cancelar las licencias, permisos, placas o autorizaciones para la conducción, circulación y uso de vehículos en todo espacio de dominio público y uso común, que por disposiciones de esta Ley o por razones de servicio, esté destinado al tránsito y al servicio de transporte, en las vías públicas estatales y municipales y, de conformidad a los acuerdos y convenios, en las de jurisdicción federal;
+XVI. Expedir, revalidar, reponer, suspender o cancelar las licencias, permisos, placas o autorizaciones para la conducción, circulación y uso de vehículos en todo espacio de dominio público y uso común, que por disposiciones de esta Ley o por razones de servicio, esté destinado al tránsito y al servicio de transporte, en las vías públicas estatales y municipales y, de conformidad a los acuerdos y convenios, en las de jurisdicción federal;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -381,17 +383,23 @@ XXXVII. Las demás que señale esta ley, su Reglamento y demás disposiciones ap
 
 La Dirección General aplicará las tecnologías de la información para el cumplimiento de las atribuciones que señala el presente artículo, así como contar con una base de datos de identidad, para implementar los programas que le permitan prestar sus servicios con eficacia y eficiencia.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2015)</small>
 
-ARTÍCULO 10 BIS.- Son atribuciones de los Municipios del Estado:
+ARTÍCULO 10 BIS.- Son atribuciones y obligaciones de los Municipios del Estado:
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2009)</small>
 
 I.- Del Cabildo Municipal:
 
 a).- Mantener a su cargo el servicio público de tránsito, en los términos que marca el artículo 115 de la Constitución General de la República, así como el artículo 87 fracciones III y IX de la Constitución Política del Estado de Colima;
 
-b).- Expedir los Reglamentos que estimen pertinentes para una mejor prestación del Servicio de Tránsito, ajustándose en todo momento a lo dispuesto en sus propios ordenamientos y procurando que cada uno de ellos se ajusten a las características de tránsito y vialidad, propias de su Municipio; respetando en todo momento, los principios, reglas y las señales de tránsito aceptados en el país e internacionalmente; y
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+b).- Expedir los Reglamentos que estimen pertinentespara (sic) una mejor prestación del Servicio de Tránsito, ajustándose en todo momento a lo dispuesto en sus propios ordenamientos y procurando que cada uno de ellos se ajusten a las características de tránsito y vialidad, propias de su Municipio; respetando en todo momento, los principios, reglas y las señales de tránsito aceptados en el país e internacionalmente; absteniéndose de facultar la retención de licencias o permisos para conducir, placas y tarjetas de circulación, placas y tarjetas de circulación provisionales o cualquier documento de identificación vehicular que sirva para acreditar la existencia del Registro Público Vehicular del Estado de Colima en términos de lo establecido en esta Ley, y
 
 c).- Celebrar los Convenios que estimen pertinentes, por conducto de los Presidentes Municipales, para una mejor prestación del servicio de Tránsito, ajustándose en todo momento a lo dispuesto en sus Reglamentos y en las demás disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2009)</small>
 
 II.- Del Presidente por si o a través del Director de Tránsito:
 
@@ -1635,9 +1643,13 @@ La falta de presentación de la solicitud de prórroga en el término señalado,
 
 El servicio de transporte privado consiste en el traslado de visitantes y de sus pertenecias (sic), de un establecimiento de hospedaje a lugares de interés de la Entidad, en el cual el conductor proporcionará adicionalmente al transporte, información general del lugar visitado. Este servicio será autorizado por el Ejecutivo del Estado, a través de la Dirección General, y con vigencia no mayor de un año, pudiendo renovarse por períodos similares, mediante el pago de derechos correspondientes.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO 119.
 
-El registro e inscripción de los vehículos de transporte privado, se comprobará mediante las placas de matrícula, la calcomanía vigente de pago de derechos vehiculares, la tarjeta de circulación y en su caso, el permiso que se requiera. Los comprobantes de registro deberán portarse en el vehículo.
+El registró e inscripción de los vehículos de transporte privado, se comprobará mediante las placas de matrícula, la calcomanía vigente de pago de derechos vehiculares, la tarjeta de circulación y en su caso, las placas y tarjetas de circulación provisionales. Los comprobantes de registro deberán portarse en el vehículo.
+
+Los comprobantes de registro, así como las placas y tarjetas de circulación provisionales, y las licencias o permisos para conducir, no podrán ser retenidos por violación a la presente Ley o a los reglamentos municipales de Tránsito y Vialidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -2652,3 +2664,11 @@ P.O. 4 DE OCTUBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los automóviles que cuenten con permisos provisionales, cuya vigencia concluya en el mes de septiembre de 2014, la misma se entenderá prorrogada por 15 días naturales adicionales para efectos de regularizar la situación vehicular.
+
+P.O. 10 DE ENERO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los Diez Ayuntamientos integrantes del Estado contarán con un plazo de 60 días para adecuar su reglamentación respectiva a lo establecido por el presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se contrapongan al contenido del presente decreto.
