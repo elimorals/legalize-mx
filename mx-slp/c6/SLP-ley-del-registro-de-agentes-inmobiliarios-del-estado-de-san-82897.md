@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-de-agentes-inmobiliarios-del-estado-de-san-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-06"
-last_updated: "2014-09-27"
+last_updated: "2015-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de agosto de 2011.
 
@@ -125,7 +125,13 @@ b) Presentar constancia de registro ante la Procuraduría Federal del Consumidor
 
 c) Aceptar, expresamente, cumplir con los programas de capacitación y actualización en materia de operaciones inmobiliarias que se pongan en operación por la Secretaría y, en su caso, acreditar el cumplimiento de aquéllos que se establezcan con carácter obligatorio para los efectos de la revalidación de la inscripción.
 
-d) Copia de la cédula de inscripción en el Registro Federal de Contribuyentes, y
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+d) Copia de la cédula de inscripción en el Registro Federal de Contribuyentes.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2015)</small>
+
+e) Copia del comprobante de pago de los derechos correspondientes, y
 
 II. Tratándose de personas físicas:
 
@@ -137,13 +143,21 @@ c) Precisar y acreditar la ubicación de su domicilio fiscal.
 
 d) Copia de la cédula de inscripción en el Registro Federal de Contribuyentes.
 
-e) Presentar los documentos e información previstos en los incisos b) y c) de la fracción anterior, y
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+e) Presentar los documentos e información previstos en los incisos b) y c) de la fracción anterior.
 
 f) Acreditar no contar con antecedes (sic) penales con motivo de la comisión de delito alguno de carácter patrimonial, u otros de naturaleza grave.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2015)</small>
+
+g) Copia del comprobante de pago de los derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 7°.
 
-La inscripción en el Registro, y la licencia, tendrán una vigencia de tres años, contados a partir de la fecha en que se otorguen. En el caso de las personas físicas, una vez inscritas en el Registro, la Secretaría expedirá en forma simultánea la licencia respectiva. Sólo las personas físicas con la licencia emitida por la Secretaría para realizar operaciones inmobiliarias podrán ostentarse y anunciarse como “Agentes Inmobiliarios con Licencia Estatal”; en el caso de las personas morales se les denomina “Agentes Inmobiliarios con Registro”.
+La inscripción en el Registro, y la licencia, tendrán una vigencia de un año, contado a partir de la fecha en que se otorguen. En el caso de las personas físicas, una vez inscritas en el Registro, la Secretaría expedirá en forma simultánea la licencia respectiva. Sólo las personas físicas con la licencia emitida por la Secretaría para realizar operaciones inmobiliarias podrán ostentarse y anunciarse como "Agentes Inmobiliarios con Licencia Estatal"; en el caso de las personas morales se les denomina "Agentes Inmobiliarios con Registro".
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -322,3 +336,9 @@ SEGUNDO. Los agentes inmobiliarios que a la entrada en vigor del presente Decret
 A partir del vencimiento del plazo señalado en el párrafo anterior, la Secretaría podrá llevar a cabo las sanciones conforme a lo dispuesto por la ley.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE ENERO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga todo lo que se oponga al presente Decreto.
