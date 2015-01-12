@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-superior-de-ciencias-de-75602
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-18"
-last_updated: "1999-06-18"
+last_updated: "2015-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO SUPERIOR DE CIENCIAS DE LA EDUCACION DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL INSTITUTO SUPERIOR DE CIENCIAS DE LA EDUCACION DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL INSTITUTO SUPERIOR DE CIENCIAS DE LA EDUCACIÓN DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO SUPERIOR DE CIENCIAS DE LA EDUCACIÓN DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 12 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE ENERO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 18 de junio de 1999.
 
@@ -330,3 +332,17 @@ PROFR. ALVARO LOPEZ ESPINOSA
 DIRECTOR GENERAL DE EDUCACION
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 12 DE ENERO DE 2015.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Manual de Organización del Instituto Superior de Ciencias de la Educación del Estado de México se expedirá en un plazo de 180 días hábiles contados a partir de la vigencia de este Reglamento.
+
+CUARTO. El Reglamento Interior del Consejo Académico del Instituto se expedirá en un plazo de 90 días hábiles contados a partir de la vigencia de este Reglamento.
+
+QUINTO. Se abroga el Reglamento Interior del Instituto Superior de Ciencias de la Educación del Estado de México publicado en el periódico oficial "Gaceta del Gobierno" el 18 de junio de 1999.
