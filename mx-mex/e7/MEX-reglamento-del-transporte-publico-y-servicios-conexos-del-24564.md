@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-transporte-publico-y-servicios-conexos-del-24564
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-25"
-last_updated: "2007-07-17"
+last_updated: "2015-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DEL TRANSPORTE PUBLICO Y SERVICIOS CONEXOS DEL ESTADO DE MEXICO
 
-REGLAMENTO DEL TRANSPORTE PUBLICO Y SERVICIOS CONEXOS DEL ESTADO DE MEXICO
+REGLAMENTO DEL TRANSPORTE PUBLICO Y SERVICIOS CONEXOS DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE ENERO DE 2015.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 25 de marzo de 2002.
 
@@ -357,23 +357,17 @@ II. Cambio de la temporalidad de vigencia.
 
 III. Sustitución del vehículo o equipo afecto a la concesión.
 
-Queda prohibido todo cambio de clasificación, modalidad o tipo de servicio a que se refiera la concesión, así como el cambio de área geográfica para la que fue otorgada.
+> <small>(REFORMADO, G.G. 12 DE ENERO DE 2015)</small>
 
-###### ARTICULO 26.
+Está prohibida la transmisión, venta, arrendamiento, usufructo, comodato y cualquier clase de acto jurídico que tenga por objeto el cambio del titular de la concesión respecto a las personas jurídica (sic) colectivas, únicamente se podrá realizar el cambio de titular cuando este sea persona física y solo en favor de parientes consanguíneos o por afinidad en primer grado. En caso de defunción del titular, el procedimiento a seguir será el previsto dentro del Código Administrativo del Estado de México.
 
-El cambio de titular de la concesión, se efectuará mediante la cesión de los derechos y obligaciones derivados de la concesión, la cual se realizará en los términos siguientes:
+> <small>(REFORMADO, G.G. 12 DE ENERO DE 2015)</small>
 
-I. Las concesiones sólo podrán ser cedidas cuando hubiera transcurrido más de un año desde el inicio de su vigencia o última prórroga, para todas las clases y modalidades de transporte, excepto el masivo, respecto del cual la cesión sólo se aprobará cuando se salvaguarden las condiciones que motivaron su otorgamiento, y a juicio del Secretario, la cesión no represente un perjuicio o riesgo para el servicio.
+###### Artículo 26.
 
-II. La concesión no podrá ser objeto de cesión cuando:
+El cambio de titular de la concesión, se efectuará mediante la cesión de los derechos y obligaciones derivados de la concesión solo cuando el titular sea persona física y cuando hubiera transcurrido más de un año desde el inicio de su vigencia o última prórroga, para todas las clases y modalidades de transporte. Asimismo las concesiones se podrán transferir, única y exclusivamente a parientes consanguíneos y por afinidad en primer grado.
 
-a) Haya concluido el plazo de su vigencia.
-
-b) Haya desaparecido la necesidad pública que motivó su otorgamiento.
-
-c) No se hubiere designado sucesor en los términos del presente Reglamento o la cesión no fuera válida.
-
-d) Se pretenda efectuar entre concesionarios de áreas geográficas diferentes o siendo concesionarios de la misma área geográfica, la cesión pueda producir acaparamiento de concesiones por el que pretenda ser cesionario. Para efectos de esta disposición, se considera acaparamiento, toda concentración de concesiones bajo la titularidad de un solo concesionario, cuando ello represente que el mismo tendrá el 20% del total de las concesiones otorgadas para el servicio en la misma modalidad y tipo en el área geográfica de que se trate.
+Excepto las concesiones y derroteros de transporte colectivo, respecto de las cuales está prohibida cualquier tipo de transmisión, ni aún bajo el argumento de fusión o escisión de empresas. El Secretario podrá tomar medidas para salvaguardar las condiciones que motivaron el otorgamiento de las mismas, evitar se cause un perjuicio o riesgo para el servicio o el usuario, e incluso para preservar la movilidad del lugar en que se presta el mismo, incluyendo la cancelación u otorgamiento, en términos de ley.
 
 ###### ARTICULO 27.
 
@@ -407,9 +401,11 @@ Las cesiones aprobadas por la autoridad de transporte, producirán el efecto de 
 
 En ningún caso al aprobarse una cesión de concesión, podrá modificarse el término de su vigencia.
 
-###### ARTICULO 29.
+> <small>(REFORMADO, G.G. 12 DE ENERO DE 2015)</small>
 
-Todos los actos relativos a la cesión de concesiones, se anotarán o inscribirán según corresponda, en el Registro.
+###### Artículo 29.
+
+Todos los actos relativos a la cesión y transmisión de concesiones se anotarán o inscribirán según corresponda en el Registro.
 
 ###### ARTICULO 30.
 
@@ -721,23 +717,19 @@ Para efectos de este Reglamento se entiende por siniestro, todo evento derivado 
 
 Los concesionarios y permisionarios del servicio público de transporte, de arrastre, salvamento y depósito de vehículos, deberán mantener un seguro a favor de los usuarios de los servicios, con sujeción a lo siguiente:
 
-I. El seguro podrá contratarse con aseguradora legalmente autorizada o podrá constituirse seguro interno por cada empresa u organización de concesionarios, de conformidad con las disposiciones de este Reglamento.
+> <small>(REFORMADA, G.G. 12 DE ENERO DE 2015)</small>
 
-II. En los casos en que el seguro se contrate con compañía aseguradora, se hará constar en la póliza correspondiente, la expresa voluntad de la aseguradora, de someterse al procedimiento señalado en este capítulo, para la reparación del daño a usuarios de los servicios a que se refiera el contrato de seguro. Los concesionarios o permisionarios que contraten el seguro con compañía aseguradora, deberán acreditar ante la autoridad de transporte, la existencia de la póliza y que el pago realizado cubre el plazo de vigencia de la póliza, al término del mismo, deberán acreditar haber renovado dicha póliza y su pago.
+I. El seguro deberá contratarse con aseguradora legalmente autorizada de conformidad con las disposiciones de este Reglamento y por las autoridades financieras hacendarias correspondientes.
+
+> <small>(REFORMADA, G.G. 12 DE ENERO DE 2015)</small>
+
+II. Se hará constar en la póliza correspondiente, la expresa voluntad de la aseguradora de someterse al procedimiento señalado en este Capítulo, para la reparación del daño a usuarios de los servicios a que se refiera el contrato de seguro. Los concesionarios o permisionarios deberán acreditar ante la autoridad de transporte, la existencia de la póliza y que el pago realizado que cubre el plazo de vigencia de la póliza, al término del mismo, deberán acreditar haber renovado dicha póliza y su pago.
 
 La autoridad de transporte podrá verificar con la aseguradora correspondiente la existencia y vigencia del seguro.
 
-III. El seguro interno, se constituirá con cantidad de dinero suficiente para satisfacer las obligaciones que en términos de este Reglamento deriven de los siniestros, quienes lo constituyan tienen la obligación de acreditar ante la autoridad de transporte su integración y de informar mensualmente en los formatos autorizados a tal efecto, el monto del mismo y los movimientos efectuados en el período acreditándolo documentalmente.
+III. (DEROGADA, G.G. 12 DE ENERO DE 2015)
 
-El Secretario determinará mediante norma técnica la cuantía del seguro, atendiendo al tipo de servicio y sus particularidades, así como al grado de riesgo y señalará qué proporción del total puede constituirse mediante bienes inmuebles propiedad del concesionario que se afecten en garantía, en los términos que se prevengan en la norma.
-
-IV. El dinero para constituir el seguro interno deberá depositarse en la cuantía que se determine, a elección del concesionario o permisionario en:
-
-a) Cuenta bancaria de la titularidad del concesionario o permisionario que específicamente se tenga para tal efecto.
-
-b) Fideicomiso con fondo de inversión constituido por el concesionario o permisionario en institución fiduciaria.
-
-El concesionario o permisionario, podrá autorizar a la institución bancaria o fiduciaria, según el caso, a suministrar a la autoridad de transporte, toda la información que respecto de tales instrumentos financieros la misma solicite, en tal caso, quienes opten por este medio de verificación del cumplimiento de sus obligaciones quedarán relevados de suministrar los informes mensuales que se refieren en la fracción que antecede.
+IV. (DEROGADA, G.G. 12 DE ENERO DE 2015)
 
 V. En el transporte público de pasaje y en el mixto por cuanto hace al pasaje, los concesionarios o permisionarios están obligados al pago inmediato de la reparación del daño a los usuarios que hubieren sufrido el siniestro, pago que se efectuará de conformidad con la tabla de indemnizaciones que se previene en la Ley Federal del Trabajo.
 
@@ -749,9 +741,11 @@ VIII. En los casos de salvamento de personas, el permisionario estará obligado 
 
 IX. Los concesionarios y permisionarios estarán obligados a reparar el daño que sufran terceros no usuarios en sus personas o bienes, con motivo de la operación de los servicios concesionados o permisionados, conforme a los términos de la sentencia judicial ejecutoriada correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 56.
 
-Los concesionarios y permisionarios, están obligados a dar aviso a la autoridad de transporte, respecto de los siniestros que registren durante cada año natural. Este aviso se hará en los formatos autorizados por la autoridad de transporte y se presentará el mes de enero de cada año. En dicho aviso se hará mención a los números de averiguación previa si las hubiere, refiriendo los que se hubieran convenido de manera privada, haciendo mención de la cantidad que importe el total de pagos realizados, y de la cantidad que hubieren depositado en el fondo bancario correspondiente en los casos de seguro interno; en los casos de aseguradora, harán mención de los números de registro de cada siniestro ante la aseguradora y relacionarán con los mismos las indemnizaciones, satisfechas por la aseguradora.
+Los concesionarios y permisionarios están obligados a dar aviso a la autoridad de transporte, respecto de los siniestros que registren durante cada año natural. Este aviso se hará en los formatos autorizados por la autoridad de transporte y se presentará el mes de enero de cada año. En dicho aviso se hará mención a los números de averiguación previa si las hubiere, refiriendo los que se hubieran convenido de manera privada, haciendo mención de la cantidad que importe el total de pagos realizados, en los casos de aseguradora se hará mención de los números de registro de cada siniestro ante la aseguradora y relacionarán con los mismos las indemnizaciones, satisfechas por la aseguradora.
 
 La autoridad de transporte podrá ordenar en cualquier tiempo, la verificación de los datos, antes referidos.
 
@@ -1190,6 +1184,22 @@ V. Capacitarse conforme a los cursos y periodicidad que determine la norma técn
 VI. Brindar al usuario trato cortés y comedido.
 
 VII. Conducir los vehículos dentro de los límites permitidos de velocidad por las disposiciones de tránsito, estando obligados a moderar la marcha o detenerla, cuando las circunstancias del tráfico, del camino, de la visibilidad o de los propios vehículos, lo impongan conforme a la prudencia para evitar accidentes o perjuicio o molestia a los usuarios.
+
+> <small>(ADICIONADO, G.G. 12 DE ENERO DE 2015)</small>
+
+ARTICULO 94 BIS.- Se prohíbe a los propietarios, poseedores, operadores o conductores de vehículos y equipos afectos al servicio público de transporte:
+
+I. Utilizar los denominados cacharpos, gritones, checadores, tarjeteros, acomodadores o cualquier tipo de auxiliar de los operadores o prestadores del servicio.
+
+II. Permitir el abordaje en las unidades de servicio público de pasajeros a vendedores, acompañantes del operador en zonas destinadas a la maniobra de la unidad, artistas, cantantes, magos, mendicantes y en general, cualquier persona que busque obtener alguna retribución o beneficio, diverso al transporte, previo pago de la tarifa.
+
+III. Permitir o instalar en los vehículos y equipos afectos al servicio público de transporte cualquier artefacto diverso al equipamiento original de fábrica, como son vidrios polarizados, obscurecidos, entintados, cortinas, faros deslumbrantes, luces de neón, incandescentes, de colores, o cualquiera otra que altere o modifique la visibilidad clara de la unidad o su interior.
+
+IV. Instalar aditamentos de música estruendosa distintos a los provenientes de la ensambladora, cornetas, trompetas, alerones, propaganda religiosa, económica o deportiva que no sea previamente autorizada por la Secretaría, telas, adornos, birlos o tornillos de los rines en forma de punta o cualquier forma que sea un riesgo para terceros, figuras humanas o de animales, letreros, calcomanías, recados o cualquier tipo de leyendas ofensivas o discriminatorias, que ataquen algún grupo vulnerable, o atenten contra alguna clase social, sexo, preferencias sexuales, raza, religión.
+
+V. Fumar o hacer uso de teléfonos o aparatos móviles mientras conducen.
+
+La violación a lo previsto con anterioridad se sancionará en términos del Código Administrativo del Estado de México.
 
 ###### ARTICULO 95.
 
@@ -1853,7 +1863,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 17 DE JULIO DE 2007.
 
@@ -1862,3 +1872,23 @@ PRIMERO.- Publíquense las presentes reformas y adiciones al Reglamento del Tran
 SEGUNDO.- La reformas y adiciones entraran en vigor el día siguiente al de su publicación en el periódico oficia! "Gaceta del Gobierno".
 
 TERCERO.- Se abrogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente.
+
+G.G. 12 DE ENERO DE 2015.
+
+ACUERDO POR EL QUE SE REFORMA LOS ARTÍCULOS 55 Y 56 Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 94 DEL REGLAMENTO DE TRANSPORTE PÚBLICO Y SERVICIOS CONEXOS DEL ESTADO DE MÉXICO
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 12 DE ENERO DE 2015.
+
+ACUERDO POR EL QUE SE REFORMAN LOS ARTÍCULOS 25, 26 Y 29 DEL REGLAMENTO DEL TRANSPORTE PÚBLICO Y SERVICIOS CONEXOS DEL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
