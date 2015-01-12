@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transito-del-estado-de-mexico-15550"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-21"
-last_updated: "2013-04-29"
+last_updated: "2015-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE ENERO DE 2015.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 21 de septiembre de 1992.
 
@@ -541,13 +541,17 @@ C) Chofer para servicio público y la tarjeta de identificación personal para o
 
 I.- Pagar los derechos respectivos,
 
-II.- Acta de nacimiento y demostrar ser mayor de 18 años de edad,
+> <small>(REFORMADA, G.G. 12 DE ENERO DE 2015)</small>
+
+II.- Acta de nacimiento y demostrar ser mayor de 25 años de edad.
 
 III.- Identificación oficial vigente,
 
 IV.- Comprobante de domicilio vigente,
 
-V.- (DEROGADA, G.G. 10 DE OCTUBRE DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 12 DE ENERO DE 2015)</small>
+
+V.- Contar con certificado de antecedentes no penales.
 
 VI.- Aprobar el examen Médico,
 
@@ -1788,3 +1792,11 @@ Cuando se haga referencia a los agentes de tránsito se entenderá a las mujeres
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a este Acuerdo.
+
+G.G. 12 DE ENERO DE 2015.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
