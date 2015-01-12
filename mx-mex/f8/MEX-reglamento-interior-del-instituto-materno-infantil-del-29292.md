@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-materno-infantil-del-29292"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-25"
-last_updated: "2008-11-28"
+last_updated: "2015-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOB IERNO: 28 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE ENERO DE 2015.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 25 de febrero de 2003.
 
@@ -53,13 +53,15 @@ II. Instituto u Organismo, al Instituto Materno Infantil del Estado de México.
 
 III. Consejo, al Consejo Interno del Instituto Materno Infantil del Estado de México.
 
-IV. Director General, al Director General del Instituto Materno Infantil del Estado de México.
+IV. Director General, al Director General de l Instituto Materno Infantil del Estado de México.
 
 V. Unidades Médico-Administrativas, a las Unidades de Apoyo, Direcciones, Subdirecciones y Jefaturas de Departamento que integran la estructura organizacional del Instituto Materno Infantil del Estado de México.
 
+> <small>(REFORMADO, G.G. 12 DE ENERO DE 2015)</small>
+
 ###### Artículo 3.
 
-El Instituto es un organismo público descentralizado con personalidad jurídica y patrimonio propios, que tiene por objeto la investigación, enseñanza y prestación de servicios de alta especialidad en el rubro materno infantil.
+El Instituto es un organismo público descentralizado con personalidad jurídica y patrimonio propios, que tiene por objeto la investigación, enseñanza y prestación de servicios de alta especialidad en materia de Ginecología, Obstetricia, Pediatría y Estomatología.
 
 > <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2008)</small>
 
@@ -129,9 +131,11 @@ Para ser Director General se requiere:
 
 I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos.
 
-II. Ser mayor de 35 años.
+II. (DEROGADA, G.G. 12 DE ENERO DE 2015)
 
-III. Ser médico cirujano titulado.
+> <small>(REFORMADA, G.G. 12 DE ENERO DE 2015)</small>
+
+III. Ser médico cirujano titulado, preferentemente con estudios de especialidad, maestría o doctorado en Administración, Gestión de hospitales o en Salud pública.
 
 IV. Contar con amplia experiencia profesional en las áreas de enseñanza, investigación y atención médica.
 
@@ -213,9 +217,25 @@ XVI. Participar, en el ámbito de su competencia, en la elaboración, actualizac
 
 XVII. Emitir constancias y expedir copias certificadas de los documentos existentes en sus archivos, cuando se refieran a asuntos de su competencia.
 
-> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, G.G. 12 DE ENERO DE 2015)</small>
 
-XVIII. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Director General.
+XVIII. Cumplir en el ámbito de su competencia, las disposiciones en materia de transparencia y acceso a la información pública y protección de datos personales.
+
+> <small>(ADICIONADA, G.G. 12 DE ENERO DE 2015)</small>
+
+XIX. Representar a su superior jerárquico y desempeñar las comisiones que éste les encomiende, informándole respecto de su desarrollo y cumplimiento.
+
+> <small>(ADICIONADA, G.G. 12 DE ENERO DE 2015)</small>
+
+XX. Coordinar sus actividades con las demás unidades administrativas del Instituto para la ejecución de los programas, proyectos y acciones a su cargo.
+
+> <small>(ADICIONADA, G.G. 12 DE ENERO DE 2015)</small>
+
+XXI. Disponer en el ámbito de su competencia, las acciones necesarias para el cumplimiento de las observaciones señaladas por los órganos de control interno y de fiscalización, así como de las recomendaciones que emitan las Comisiones de Derechos Humanos.
+
+> <small>(REFORMADA, G.G. 12 DE ENERO DE 2015)</small>
+
+XXII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
 
 Quedan excluidos de esta disposición los Directores de Hospitales y del Centro de Especialidades.
 
@@ -249,9 +269,13 @@ X. Apoyar y supervisar el desempeño de los comités técnico, médicos y hospit
 
 XI. Aplicar los recursos conferidos a la investigación y enseñanza médica.
 
-> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, G.G. 12 DE ENERO DE 2015)</small>
 
-XII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
+XII. Participar en los comités u órganos colegiados que se requiera para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADA, G.G. 12 DE ENERO DE 2015)</small>
+
+XIII. Las demás que le señalen otros ordenamientos legales y aquellas que le encomiende el Director General.
 
 ###### Artículo 16.
 
@@ -353,7 +377,7 @@ II. Otorgar asistencia jurídica a las unidades administrativas del Instituto cu
 
 > <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
 
-III. Coordinar y participar en la elaboración de proyectos de reglamentos, acuerdos, convenios, contratos y demás disposiciones jurídicas que se requieran para e! (sic) funcionamiento del Instituto.
+III. Coordinar y participar en la elaboración de proyectos de reglamentos, acuerdos, convenios, contratos y demás disposiciones jurídicas que se requieran para e! funcionamiento del Instituto.
 
 IV. Compilar las leyes, reglamentos, decretos, acuerdos, convenios y demás disposiciones legales de carácter federal y estatal aplicables al Instituto.
 
@@ -361,7 +385,11 @@ V. Participar en el Comité de Adquisiciones del Instituto, con las facultades q
 
 VI. Asesorar jurídicamente al personal del Instituto cuando por motivo del desempeño de sus funciones tengan que comparecer ante cualquier autoridad, siempre y cuando el Organismo no sea parte.
 
-VII. Las demás que le confieran otros ordenamientos legales y aquellas que le encomiende el Director General.
+> <small>(ADICIONADA, G.G. 12 DE ENERO DE 2015)</small>
+
+VII. Elaborar, revisar y resguardar los convenios o contratos que pretenda celebrar el Instituto.
+
+VIII. Las demás que le confieran otros ordenamientos legales y aquellas que le encomiende el Director General.
 
 ###### Artículo 19.
 
@@ -383,6 +411,10 @@ VII. Proponer al Director General innovaciones en materia administrativa que per
 
 VIII. Coordinar la elaboración, difusión, aplicación y actualización de los manuales administrativos del Instituto y demás documentos de desarrollo organizacional.
 
+> <small>(ADICIONADA, G.G. 12 DE ENERO DE 2015)</small>
+
+IX. Coordinar y participar en la actualización de las estadísticas en materia materno infantil.
+
 X. Las demás que le confieran otros ordenamientos legales y aquellas que le encomiende el Director General.
 
 ###### Artículo 20.
@@ -397,13 +429,17 @@ III. Dirección del Centro de Especialidades Odontológicas.
 
 ### CAPITULO VI. DE LAS ATRIBUCIONES DE LAS DIRECCIONES DE LOS HOSPITALES Y DEL CENTRO DE ESPECIALIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE ENERO DE 2015)</small>
+
 ###### Artículo 21.
 
-Corresponde a las Direcciones de los Hospitales y del Centro de Especialidades:
+Corresponde a las Direcciones de los Hospitales y del Centro de Especialidades Odontológicas:
 
 I. Proponer e instrumentar planes, programas y proyectos que coadyuven a elevar la calidad de la atención médica, hospitalaria y odontológica a su cargo.
 
-II. Supervisar y promover que los servicios médicos, hospitalarios, odontológicos y de apoyo administrativo a su cargo, se otorguen con calidad.
+> <small>(REFORMADA, G.G. 12 DE ENERO DE 2015)</small>
+
+II. Implementar, supervisar y promover que los servicios médicos, hospitalarios, odontológicos y de apoyo administrativo a su cargo, se otorguen con calidad.
 
 III. Determinar los requerimientos anuales y el suministro de medicamentos a la unidad médica a su cargo, con base en el presupuesto de egresos y en el catálogo respectivo.
 
@@ -415,11 +451,9 @@ VI. Participar en la operación del sistema integral de enseñanza, capacitació
 
 VII. Coadyuvar en la integración del catálogo de insumos de medicamentos necesarios para atender las demandas presentadas ante la unidad médica a su cargo.
 
-> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 12 DE ENERO DE 2015)</small>
 
-VIII. Reducir el monto de la cuota de recuperación tomando como base el estudio socioeconómico practicado al
-
-paciente.
+VIII. Reducir o exentar (total o parcial) el monto de la cuota de recuperación tomando como base el estudio socioeconómico practicado al paciente.
 
 > <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
 
@@ -495,7 +529,7 @@ SECRETARIO DEL CONSEJO INTERNO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
 G.G. 28 DE NOVIEMBRE DE 2008.
 
@@ -504,3 +538,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 12 DE ENERO DE 2015.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
