@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2014-12-31"
+last_updated: "2015-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -603,7 +603,7 @@ El miembro del H. Ayuntamiento que no hubiere sido citado a una Sesión de Cabil
 
 ###### ARTÍCULO 31.
 
-El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en Sesión Solemne de Cabildo a celebrarse a más tardar en el mes de diciembre de cada año. El formato así como el orden del día de este tipo de sesiones serán acordadas (sic) por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del Ayuntamiento, uno de extracción partidista del Primer Edil y otro más de entre los miembros de la oposición. En todas (sic) los casos, los integrantes del Ayuntamiento que participen en el Informe deberán ser de sexo distinto. Dicho informe deberá señalar todas las acciones realizadas por la Presidencia encaminadas a la protección de la equidad de género.
+El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en Sesión Solemne de Cabildo a celebrarse a más tardar en el mes de diciembre de cada año. El formato así como el orden del día de este tipo de sesiones serán acordadas por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del Ayuntamiento, uno de extracción partidista del Primer Edil y otro más de entre los miembros de la oposición. En todas (sic) los casos, los integrantes del Ayuntamiento que participen en el Informe deberán ser de sexo distinto. Dicho informe deberá señalar todas las acciones realizadas por la Presidencia encaminadas a la protección de la equidad de género.
 
 ###### ARTÍCULO 32.
 
@@ -2883,25 +2883,27 @@ APARTADO CUARTO
 
 Medidas Disciplinarias
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO 136.
 
-Para la imposición de medidas disciplinarias, el H. Ayuntamiento por conducto de la Dirección de Recursos Humanos de la Secretaría de Administración, será la unidad administrativa que conocerá y determinará los alcances de la sanción, no sin antes escuchar en defensa al trabajador.
+Para la imposición de medidas disciplinarias, el H. Ayuntamiento por conducto de la Dirección de Recursos Humanos de la Secretaría de Administración, será la unidad administrativa que conocerá y determinará los alcances de la sanción, no sin antes escuchar en defensa a la trabajadora o trabajador, con excepción de los casos de discriminación, violencia laboral, hostigamiento y acoso sexual, pues en tales casos será la Comisión para la Erradicación de la Violencia Laboral, la facultada para conocer y determinar los alcances de la sanción, de igual manera no sin antes escuchar en defensa a la trabajadora o trabajador.
 
 ###### ARTÍCULO 137.
 
 Las infracciones a los deberes y obligaciones que impone el presente Código a los funcionarios municipales, se castigarán de acuerdo a los antecedentes del trabajador, a su jerarquía y a la magnitud de la falta, sin perjuicio de cualquier responsabilidad penal o civil que pudiera resultar.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO 138.
 
-Cuando algún trabajador viole alguna de las disposiciones contenidas en éste o en los demás reglamentos o leyes de aplicación municipal, su superior levantará acta administrativa, pudiendo registrar escritorios, archiveros, maletines, y equipos de su trabajo ante dos testigos en la cual se harán constar los hechos en forma concreta asentando la infracción o causas que la motivaron, firmándola el trabajador, o en su caso, se le notificará al trabajador en el domicilio que tenga registrado, remitiendo dicha acta a la Dirección de Recursos Humanos de la Secretaría de Administración, quien podrá imponer fundadamente las siguientes medidas disciplinarias:
+Cuando alguna trabajadora o trabajador viole alguna de las disposiciones señaladas en el artículo anterior, su superior levantará acta administrativa, pudiendo registrar escritorios, archiveros, y equipos de su trabajo ante dos testigos en la cual se harán constar los hechos en forma concreta asentando la infracción o causas que la motivaron, firmándola la trabajadora o trabajador, o en su caso, se le notificará en el domicilio que tenga registrado, remitiendo dicha acta a la Dirección de Recursos Humanos de la Secretaría de Administración o a la Comisión para la Erradicación de la Violencia Laboral, según corresponda, quienes podrá (sic) imponer fundadamente las siguientes medidas disciplinarias:
 
 I. Amonestación verbal o por escrito.
 
 II. Suspensión del trabajo de uno a quince días, sin goce de sueldo.
 
 III. Rescisión de la relación de trabajo.
-
-IV. Denunciar los hechos ante las autoridades competentes, en caso de que su conducta entrañe la comisión de algún ilícito.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -3037,39 +3039,11 @@ También serán integrantes eventuales de la Comisión los Jefes Inmediatos de l
 
 Los integrantes de la Comisión tendrán una representación exclusivamente honorífica y no podrán recibir compensación alguna por este motivo.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2015)</small>
 
 ARTÍCULO 138 SEPTIS.- La Comisión tendrá las siguientes funciones:
 
-I. Resolver las denuncias que se planteen ante ella por desacato al presente Código, Código de Ética para la Administración Pública del Municipio de Aguascalientes, y el Reglamento Interior de Trabajo del Municipio de Aguascalientes;
-
-II. Emitir los criterios y lineamientos para la imposición de las medidas disciplinarias correspondientes;
-
-III. Dar respuesta a las consultas que les formulen las servidoras y servidores públicos del H. Ayuntamiento del Municipio de Aguascalientes;
-
-IV. Dar a conocer a las servidoras y servidores públicos del H. Ayuntamiento del Municipio de Aguascalientes, los valores, principios y virtudes contenidas en el presente Código, Código de Ética para la Administración Pública del Municipio de Aguascalientes y el Reglamento Interior de Trabajo del Municipio de Aguascalientes;
-
-V. Promover en las servidoras y servidores públicos la identificación con los valores, principios y virtudes, así como la conciencia colectiva y la reflexión personal sobre la importancia de aplicar la ética en el desempeño cotidiano de las labores sobre los diversos aspectos de la función que desempeñan;
-
-VI. Establecer un proceso para la prevención, atención y sanción de casos de discriminación, violencia laboral, así como de hostigamiento y acoso sexual, que incluya tiempos de respuesta a quejas y denuncias;
-
-VII. Establecer mecanismos que favorezcan la erradicación de la discriminación, la violencia laboral, el acoso y hostigamiento sexual en centros laborales del Municipio, mediante acuerdos y convenios con instituciones, organizaciones civiles y sindicatos;
-
-VIII. Crear procedimientos administrativos claros y precisos en los centros laborales, para sancionar estos ilícitos e inhibir su comisión;
-
-IX. En ningún caso se hará público el nombre de la víctima para evitar algún tipo de sobrevictimización o que sea boletinada o presionada para abandonar el trabajo;
-
-X. Para los efectos de la fracción anterior, deberán sumarse las quejas anteriores que sean sobre la misma persona que hostiga o acosa, guardando públicamente el anonimato de la o las personas quejosas;
-
-XI. Proporcionar atención psicológica y legal especializada y gratuita a quien sea víctima de hostigamiento o acoso sexual;
-
-XII. Sancionar administrativamente a los superiores jerárquicos cuando tengan conocimiento de la existencia de algún hostigamiento o acoso sexual y sean omisos en recibir y/o dar curso a una queja;
-
-XIII. A la servidora o servidor público que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, se le impondrá las sanciones que establezcan los ordenamientos legales aplicables;
-
-XIV. Generar un programa de quejas que garantice la confidencialidad de los casos; y
-
-XV. Cualquier otra que determine el H. Ayuntamiento del Municipio de Aguascalientes.
+I. Resolver las denuncias que se planteen ante ella por conducto de laCoordinación (sic) de Prevención y Atención Integral de la Violencia de Género del Instituto Municipal de la Mujer de Aguascalientes, por desacato al presente Código, Código de Ética para la Administración Pública del Municipio de Aguascalientes, y el Reglamento Interior de Trabajo del Municipio de Aguascalientes, única y exclusivamente en los casos de discriminación, violencia laboral, hostigamiento y acoso sexual.
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -3079,13 +3053,13 @@ a) Hostigamiento sexual: El ejercicio del poder en una relación de subordinaci�
 
 b) Acoso Sexual: La forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2015)</small>
 
-ARTÍCULO 138 NOVIES.- Las conductas de las servidoras y servidores públicos del H. Ayuntamiento del Municipio de Aguascalientes contrarias al presente Código, el Código de Ética y al Reglamento Interior de Trabajo del Municipio de Aguascalientes, deberán ser denunciadas a la Comisión para la Erradicación de la Violencia Laboral.
+ARTÍCULO 138 NOVIES.- Las conductas de las servidoras y servidores públicos del H. Ayuntamiento del Municipio de Aguascalientes contrarias al presente Código, el Código de Ética y al Reglamento Interior de Trabajo del Municipio de Aguascalientes, deberán ser denunciadas a la Comisión para la Erradicación de la Violencia Laboral por conducto de laCoordinación (sic) de Prevención y Atención Integral de la Violencia de Género del Instituto Municipal de la Mujer de Aguascalientes.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2015)</small>
 
-ARTÍCULO 138 DECIES.- Conocida la denuncia o la vista de acta administrativa, la Comisión dará derecho de audiencia al o los probables infractores, y procederá a determinar si existió o no la falta, en su caso, dictando las medidas disciplinarias establecidas en el artículo 138 del presente Código, resolución que remitirá a la Dirección de Recursos Humanos de la Secretaría de Administración para su ejecución.
+ARTÍCULO 138 DECIES.- Conocida la denuncia o la vista de acta administrativa, la Comisión dará derecho de audiencia a las o a los probables infractores, y procederá a determinar si existió o no la falta, en su caso, dictando las medidas disciplinarias establecidas en el artículo 138 del presente Código, conforme al reglamento interior de la misma Comisión para la Erradicación de la Violencia Laboral, resolución que remitirá a la Dirección de Recursos Humanos de la Secretaría de Administración para su ejecución.
 
 APARTADO QUINTO
 
@@ -22566,3 +22540,7 @@ P.O. 31 DE DICIEMBRE DE 2014.
 PRIMERO.- Se otorga un término perentorio de noventa días hábiles para que se lleven a cabo las reformas necesarias a las disposiciones reglamentarias que así lo requieran, en concordancia con el presente dictamen.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor el día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE ENERO DE 2015.
+
+ÚNICO.- La presente adición y reformas al Código Municipal de Aguascalientes y reformas al Reglamento Interior de Trabajo del Municipio de Aguascalientes, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y solo por lo que ve al Reglamento Interior de Trabajo del Municipio de Aguascalientes su respectivo depósito ante el H. Tribunal de Arbitraje del Estado de Aguascalientes, el cual también deberá de ser dado a conocer por cada una de las áreas administrativas a las y los servidores públicos del Municipio de Aguascalientes.
