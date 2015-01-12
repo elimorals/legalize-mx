@@ -4,7 +4,7 @@ identifier: "HID-ley-de-justicia-para-adolescentes-del-estado-de-hidalgo-103531"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2014-11-10"
+last_updated: "2015-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "HID"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS CIENTO OCHENTA DÍAS NATURALES POSTERIORES A SU PUBLICACIÓN.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS CIENTO NOVENTA DÍAS NATURALES POSTERIORES A SU PUBLICACIÓN.</small>
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2015.</small>
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -2513,7 +2513,9 @@ El rechazo de la solicitud de revisión no impedirá la interposición de un nue
 
 T R A N S I T O R I O S
 
-PRIMERO. La presente Ley entrará en vigor a los 180 días naturales contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2015)</small>
+
+PRIMERO. La presente Ley entrará en vigor a los 190 días naturales contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Una vez que entre en vigor la presente Ley, quedará abrogada la Ley de Justicia para Adolescentes del Estado de Hidalgo, publicada en el Periódico Oficial del Estado, el lunes 25 de septiembre de 2006.
 
