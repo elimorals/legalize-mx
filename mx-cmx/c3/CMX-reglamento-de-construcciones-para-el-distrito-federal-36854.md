@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-36854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2004-01-29"
+last_updated: "2015-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-27"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE ENERO DE 2015.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -2084,7 +2084,41 @@ III. Represente peligro grave o inminente, con independencia de aplicar en su ca
 
 Cuando la autoridad imponga alguna medida de seguridad debe señalar el plazo que concede al visitado para efectuar las correcciones y trabajos necesarios, procediendo el levantamiento de sellos de suspensión, previa solicitud del interesado, para el solo efecto de que se realicen los trabajos y acciones que corrijan las causas que motivaron la imposición de la medida de seguridad.
 
-La corrección de las causas que motivan la imposición de medidas de seguridad no eximen al interesado de las sanciones aplicables.
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2015)</small>
+
+La corrección de las causas que motiven la imposición de medidas de seguridad no exime al interesado de las sanciones económicas aplicables.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2015)</small>
+
+En ningún caso podrá implementarse la suspensión de la obra cuando la irregularidad detectada pueda solventarse al momento mismo de la realización de la visita de verificación o sea subsanable dando un plazo perentorio no mayor a tres días, como puede ser en los siguientes supuestos:
+
+a) Que los trabajadores realicen actividad sin contar con alguno de los siguientes aditamentos de seguridad: guantes, botas, arnés de seguridad, líneas de vida, chaleco, cascos y en general por cualquier situación que afecte de manera directa la seguridad de un trabajador. Caso en el cual bastará que el Director Responsable de Obra, Propietario y/o responsable de obra solicite o bien que el trabajador subsane la falta del aditamento de seguridad o bien que se de el retiro inmediato de los trabajadores que se encuentren en dicha hipótesis, de lo que el personal Especializado en Funciones de Verificación deberá tomar nota en el desahogo de la visita de verificación, de tal forma que se garantice que ninguno de tales trabajadores se encuentre en una situación de riesgo durante el desarrollo de la actividad;
+
+b) Que la obra no cuente con la totalidad de extintores en adecuadas condiciones de uso. En este caso se dará un plazo de tres días al verificado para que subsane la irregularidad, en caso de no hacerlo se procederá a la suspensión inmediata de la obra.
+
+c) Por ausencia de protección a vacíos y/o a predios colindantes. En este caso se dará un plazo de tres días al verificado para que subsane la irregularidad, en caso de no hacerlo se procederá a la suspensión inmediata de la obra;
+
+d) Por ausencia de botiquín. De no solventarse al momento de la visita se dará un plazo de tres días al verificado para que subsane la irregularidad, en caso de no hacerlo se procederá a la suspensión inmediata de la obra;
+
+e) Ausencia de señalizaciones para ruta de evacuación, salida de emergencia, extintores, ¿Qué hacer en caso de incendio o sismo?. En este caso se dará un plazo de tres días al verificado para que subsane la irregularidad, en caso de no hacerlo se procederá a la suspensión inmediata de la obra.
+
+f) Obstrucción de la banqueta o vía pública. En este caso se dará un plazo de tres días al verificado para que subsane la irregularidad, en caso de no hacerlo se procederá a la suspensión inmediata de la obra.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2015)</small>
+
+Los plazos señalados en los incisos anteriores, se computarán a partir del día siguiente en que se circunstancie el acta de verificación y/o inspección que determine tales hechos y una vez cumplido el mismo se emitirá orden a efecto de que el Personal Especializado en Funciones de Verificación constate la solventación de tales irregularidades y en caso contrario procederá a la suspensión de la obra.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2015)</small>
+
+El hecho de que se subsane la causa de riesgo sólo evitará la ejecución de una suspensión, pero ello no implica que el verificado quede exento de la aplicación de las multas señaladas en el presente reglamento al momento de emitir la resolución de la visita de verificación. De igual forma, no se concederá plazo alguno para subsanar alguna causa de riesgo en casos de reincidencia.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2015)</small>
+
+En caso que dentro del plazo de los tres días que se haya otorgado para subsanar el supuesto detectado, ocurriera un accidente derivado de no solventar dicho supuesto, el Director Responsable de Obra y/o Corresponsables de la obra y/o Constructor y/o Propietario de predio u obra, serán responsables de tal circunstancia, y les será aplicable la sanción prevista en el artículo 42, fracción III, inciso a) del presente reglamento.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2015)</small>
+
+Las hipótesis planteadas en los incisos a) al f), no restringen las atribuciones de la Secretaria de Protección Civil respecto de una posible determinación de riesgo inminente en términos de la Ley del Sistema de Protección Civil del Distrito Federal.
 
 ## TÍTULO OCTAVO. DEL USO, OPERACIÓN Y MANTENIMIENTO
 
@@ -2226,7 +2260,9 @@ Las sanciones por infracciones a este Reglamento son las siguientes:
 
 I. Amonestación por escrito;
 
-II. Multa que podrá ser de 50 a 800 días de salario mínimo general vigente en el Distrito Federal;
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2015)</small>
+
+II. Multa que podrá ser de $3,300.00 a $53,800.00 pesos mexicanos, la que podrá incrementarse al doble en los casos de reincidencia;
 
 III. Suspensión temporal del registro de Director Responsable de Obra y/o Corresponsable;
 
@@ -2240,6 +2276,10 @@ VII. Nulidad, y
 
 VIII. Demolición, parcial o total.
 
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2015)</small>
+
+Todos los montos determinados en multas en el presente reglamento, se actualizarán año con año de acuerdo al índice de inflación que dé a conocer oficialmente el Banco de México adicionando dos puntos a dicho índice de inflación.
+
 ###### ARTÍCULO 249.
 
 Independientemente de la aplicación de las sanciones pecuniarias a que se refiere el presente Capítulo, la autoridad competente procederá a clausurar las obras o instalaciones en ejecución, cuando:
@@ -2248,19 +2288,31 @@ I. Previo dictamen técnico emitido u ordenado por la Administración, se declar
 
 II. La ejecución de una obra o de una demolición, se realice sin las debidas precauciones y ponga en peligro la vida o la integridad física de las personas, o pueda causar daños a bienes públicos o a terceros;
 
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2015)</small>
+
+En cualquiera de estas hipótesis, previo a imponer los sellos de clausura, se notificará al propietario y/o encargado de la obra que cuenta con tres días naturales a partir del día siguiente en que sea notificada de la resolución que determine dicha clausura, para subsanar la irregularidad detectada, apercibiéndola que en caso de no hacerlo se procederá a la imposición de los sellos respectivos.
+
 III. No se dé cumplimiento a una orden de las previstas por el artículo 222 de este Reglamento, dentro del plazo que se haya fijado para tal efecto;
 
 IV. La construcción no se ajuste a las restricciones impuestas en el resultado del Sistema de Información Geográfica, en el certificado de zonificación para usos de suelo específico, o el certificado único de zonificación de uso de suelo específico y factibilidades y en la constancia de alineamiento y número oficial;
 
-V. Se obstaculice o se impida en alguna forma el cumplimiento de las funciones de verificación reglamentaria del personal autorizado por la Administración;
+V. (DEROGADA, G.O. 12 DE ENERO DE 2015)
 
 VI. La obra se ejecute sin registro de manifestación de construcción, en su caso;
 
 VII. La obra se ejecute sin licencia de construcción especial, en su caso;
 
-VIII. El registro de manifestación de construcción sea declarado nulo o haya terminado su vigencia;
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2015)</small>
 
-IX. La licencia de construcción especial sea revocada o haya terminado su vigencia;
+VIII. El registro de manifestación de construcción sea declarado nulo;
+
+En el caso de que haya expirado la vigencia de la manifestación de construcción, sólo ameritará el pago de una multa que irá del 1% y hasta el 10% del valor total de la construcción de acuerdo al avalúo correspondiente que emita un valuador registrado ante la Secretaría de Finanzas;
+
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2015)</small>
+
+IX. La licencia de construcción especial sea revocada;
+
+En el caso de que haya expirado la vigencia de la manifestación de construcción, sólo ameritará el pago de una multa que irá del 1% y hasta el 10% del valor total de la construcción de acuerdo al avalúo correspondiente que emita un valuador registrado ante la Secretaría de Finanzas;
 
 X. La obra se ejecute sin la intervención y vigilancia, en su caso del Director Responsable de Obra y de los Corresponsables, en los términos de este Reglamento, y
 
@@ -2280,11 +2332,11 @@ II. La obra se haya ejecutado sin licencia de construcción especial, en su caso
 
 III. La obra se haya ejecutado sin observar el proyecto aprobado fuera de los límites de tolerancia y sin sujetarse a lo previsto por los Títulos Cuarto, Quinto, Sexto y Séptimo de este Reglamento y las Normas;
 
-IV. Se use una construcción o parte de ella para un uso diferente del autorizado;
+IV. (DEROGADA, G.O. 12 DE ENERO DE 2015)
 
 V. No se haya registrado ante la Delegación correspondiente el Visto Bueno de Seguridad y Operación a que se refiere el artículo 68 de este Reglamento, y
 
-VI. Las condiciones originales en las que se otorgó el Visto Bueno de Seguridad y Operación hubieren variado y no se presente su renovación conforme al artículo 68.
+VI. (DEROGADA, G.O. 12 DE ENERO DE 2015)
 
 El estado de clausura podrá ser total o parcial y no será levantado hasta en tanto no se hayan regularizado las obras o ejecutado los trabajos ordenados, en los términos del artículo 66 de este Reglamento.
 
@@ -2292,7 +2344,9 @@ El estado de clausura podrá ser total o parcial y no será levantado hasta en t
 
 Se sancionará al Director Responsable de Obra o al propietario o poseedor, con independencia de la reparación de los daños ocasionados a las personas o a los bienes, en los siguientes casos:
 
-I. Con multa equivalente de 50 a 100 días de salario mínimo general vigente en el Distrito Federal, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2015)</small>
+
+I. Con multa equivalente de $3,300.00 a $6,700.00 pesos mexicanos, cuando:
 
 a) En la obra o instalación no muestre indistintamente, a solicitud del Verificador, copia del registro de manifestación de construcción o de la licencia de construcción especial, los planos sellados y la bitácora de obra, en su caso;
 
@@ -2300,13 +2354,17 @@ b) Se ocupe temporalmente con materiales de cualquier naturaleza la vía públic
 
 c) Se obstaculice o se impida en cualquier forma las funciones de los verificadores señaladas en el Capítulo anterior y en las disposiciones relativas del Reglamento de Verificación Administrativa para el Distrito Federal.
 
-II. Con multa equivalente de 100 a 250 días de salario mínimo general vigente en el Distrito Federal, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2015)</small>
+
+II. Con multa equivalente de $6,700.00 a $16,800.00 pesos mexicanos, cuando:
 
 a) Se violen las disposiciones relativas a la conservación de edificaciones y predios previstas en este Reglamento, y
 
 b) El propietario o poseedor no realice el trámite de Aviso de Terminación de Obra, según lo previsto en este Reglamento.
 
-III. Con multa equivalente de 200 a 500 días de salario mínimo general vigente en el Distrito Federal, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2015)</small>
+
+III. Con multa equivalente de $15,000.00 a $100,000.00 pesos mexicanos, cuando:
 
 a) Se hagan cortes en banquetas, arroyos, guarniciones y/o pavimentos, sin contar con el permiso o autorización correspondiente;
 
@@ -2320,13 +2378,19 @@ e) Con motivo de la ejecución de la obra, instalación, demolición o excavaci�
 
 f) En la ejecución de la obra o instalación y sin previa autorización de la autoridad competente se dañe, mutile o demuela algún elemento de edificaciones consideradas patrimonio artístico, histórico o cultural, además de la reposición del daño de las piezas mutiladas o demolidas, con las características de dimensiones, materiales y acabados de las piezas originales o los que en su caso indiquen las autoridades federales o locales, en el ámbito de sus atribuciones.
 
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2015)</small>
+
+g) Se obstaculice o se impida en alguna forma el cumplimiento de las funciones de verificación reglamentaria del personal autorizado por la Administración. En caso de reincidencia, procederá la clausura de la construcción hasta en tanto se permita hacer la acción de verificación obstaculizada.
+
 IV. Con multa equivalente del uno al cinco por ciento del valor de las construcciones o instalaciones, de acuerdo al avalúo correspondiente que emita un valuador registrado ante la Secretaría de Finanzas, en el caso de que en la obra o instalación se excedan las tolerancias permitidas en el artículo 70 de este Reglamento.
 
 ###### ARTÍCULO 252.
 
 Se sancionará al Director Responsable de Obra y al Corresponsable que incurra en las siguientes infracciones:
 
-I. Con multa equivalente de 150 a 300 días de salario mínimo general vigente en el Distrito Federal, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2015)</small>
+
+I. Con multa equivalente de $10,000.00 a $20,000.00 pesos mexicanos, cuando:
 
 a) No se observen las disposiciones de este Reglamento durante la ejecución de la obra, en lo que se refiere a los dispositivos de elevación de materiales o de personas, así como en el uso de transportadores electromecánicos en la edificación;
 
@@ -2336,7 +2400,9 @@ c) No se acaten las disposiciones relativas contenidas en el Título Quinto de e
 
 d) En la elaboración del Visto Bueno de Seguridad y Operación, no se hayan observado las normas de seguridad, estabilidad, prevención de emergencias, higiene y operación contenidas en el presente Reglamento.
 
-II. Con multa equivalente de 200 a 500 días de salario mínimo general vigente en el Distrito Federal, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2015)</small>
+
+II. Con multa equivalente de $13,400.00 a $33,600.00 pesos mexicanos, cuando:
 
 a) No se cumpla con lo previsto por los artículos 35 y 39 de este Reglamento, con excepción de la fracción VIII del artículo 35 y fracción IV del artículo 39;
 
@@ -2344,7 +2410,9 @@ b) En la construcción, demolición de obras o para llevar a cabo excavaciones, 
 
 c) No se vigile que se cumplan las resoluciones dictadas por la Administración y/o no se denuncie ante la misma, la negativa del propietario o poseedor de acatar dichas resoluciones.
 
-III. Con multa equivalente de 300 a 800 días de salario mínimo general vigente en el Distrito Federal, cuando en una obra no se tomen las medidas necesarias para proteger la vida y salud de los trabajadores y de cualquier otra persona a la que pueda causarse daño.
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2015)</small>
+
+III. Con multa equivalente de $20,000.00 a $53,800.00 pesos mexicanos, cuando, cuando (sic) en una obra no se tomen las medidas necesarias para proteger la vida y salud de los trabajadores y de cualquier otra persona a la que pueda causarse daño.
 
 ###### ARTÍCULO 253.
 
@@ -2417,3 +2485,19 @@ Las solicitudes que se encuentren en trámite se resolverán de conformidad con 
 En los casos en que la Ley hace referencia a la licencia de construcción se entenderá la señalada en el Reglamento de Construcciones para el Distrito Federal publicado en la Gaceta Oficial del Departamento del Distrito Federal el 2 de agosto de 1993.
 
 Dado en la Residencia oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintisiete días del mes de enero del año dos mil cuatro.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CESAR BUENROSTRO HERNÁNDEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 12 DE ENERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones reglamentarias que se opongan a la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite al momento de la presente reforma continuarán su trámite conforme a la norma que aplicaba al inicio del mismo.
