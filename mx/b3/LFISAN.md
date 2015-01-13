@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2014-01-09"
+last_updated: "2015-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LFISAN"
 
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ENERO DE 2014.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 9 DE ENERO DE 2014.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 13 DE ENERO DE 2015.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 1996.
 
@@ -176,17 +176,17 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 9 DE ENERO DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 13 DE ENERO DE 2015.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $208,555.47. En el precio mencionado no se considerará el impuesto al valor agregado.
+II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $217,231.38. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 9 DE ENERO DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 13 DE ENERO DE 2015.</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $208,555.48 y hasta $264,170.27, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
+Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $217,231.39 y hasta $275,159.75, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
 
 El precio a que se refiere el párrafo anterior, se actualizará en el mes de enero de cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
 
@@ -2723,3 +2723,45 @@ fracción II segundo párrafo: $208,555.48 y hasta $264,170.27
 C. Código de claves vehiculares
 
 > <small>N. DE E. VÉASE TARIFA EN LA SEGUNDA Y TERCERA SECCIÓN DEL D.O.F. DE 9 DE ENERO DE 2014, PÁGINAS DE LA 1 A LA 128 Y DE LA 1 A 128 RESPECTIVAMENTE.</small>
+
+D.O.F. 13 DE ENERO DE 2015.
+
+LA RESOLUCIÓN DE MODIFICACIONES A LA MISCELÁNEA FISCAL PARA 2015 CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+Anexo 15 de la Resolución Miscelánea Fiscal para 2015
+
+Contenido
+
+Impuesto sobre Automóviles Nuevos
+
+A. Tarifa para determinar el Impuesto sobre Automóviles Nuevos para el año 2015.
+
+B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2015.
+
+C. Código de Claves Vehiculares:
+
+1. Registradas.
+
+2. Canceladas
+
+A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2015.
+
+TARIFA
+
+> <small>N. DE E. VÉASE TARIFA EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 13 DE ENERO DE 2015, PÁGINA 1.</small>
+
+Si el precio del automóvil es superior a $644,340.50 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $644,340.50
+
+B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2015.
+
+###### Artículo 8o.
+
+fracción II primer párrafo: $217,231.38
+
+###### Artículo 8o.
+
+fracción II segundo párrafo: $217,231.39 y hasta $275,159.75
+
+C. Código de claves vehiculares
+
+> <small>N. DE E. VÉASE TARIFA EN LA SEGUNDA A LA CUARTA SECCIÓN DEL D.O.F. DE 13 DE ENERO DE 2015, PÁGINAS DE LA 1 A LA 128; DE LA 1 A LA 128 Y DE LA 1 A LA 49 RESPECTIVAMENTE.</small>
