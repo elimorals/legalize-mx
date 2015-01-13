@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-12-18"
+last_updated: "2015-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MEX"
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 13 DE ENERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2479,13 +2481,13 @@ VI. Reincidencia por tercera ocasión.
 
 VII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. ANTES Y REFORMADO ARTÍCULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
 76.- Se sancionará con arresto hasta por treinta y seis horas:
 
-I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria;
+I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y
 
 II. A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
 
@@ -10633,7 +10635,7 @@ IX. Aprobar la tarifa de los servicios y productos que genere el IGECEM y su pub
 
 X. Aprobar la instalación de delegaciones regionales y la circunscripción territorial que a cada una corresponda;
 
-XI. La (sic) demás necesidades para el ejercicio de las facultades anteriores, en términos de los ordenamientos jurídicos aplicables.
+XI. La (sic) demás necesarias para el ejercicio de las facultades anteriores, en términos de los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -10641,7 +10643,7 @@ XI. La (sic) demás necesidades para el ejercicio de las facultades anteriores, 
 
 8.- El Director General del IGECEM, además de las atribuciones que este Libro y otros ordenamientos le confieran en materia de información e investigación geográfica, estadística y catastral, tendrá las facultades y obligaciones siguientes:
 
-I. Representar al IGECEM ante las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, personas e instituciones de derecho público o privado, con todas las facultades que correspondan a los apoderados generales de manera enunciativa y no limitativa, para pleitos y cobranzas; actos de administración, actos de dominio, incluso los que requieran cláusula especial, en los términos que marca el Código Civil del Estado; interponer querellas y denuncias, otorgar perdón; promover o desistirse del juicio de amparo; absolver posiciones; comprometer en árbitros; otorgar, sustituir o revocar poderes generales o especiales; suscribir y endosar títulos de crédito; y celebrar operaciones mercantiles.
+I. Representar al IGECEM ante las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, personas e instituciones de derecho público o privado, con todas las facultades que correspondan a los apoderados generales de manera enunciativa y no limitativa, para pleitos y cobranzas; actos de administración; actos de dominio, incluso los que requieran cláusula especial, en los términos que marca el Código Civil del Estado; interponer querellas y denuncias; otorgar perdón; promover o desistirse del juicio de amparo; absolver posiciones; comprometer en árbitros; otorgar, sustituir o revocar poderes generales o especiales; suscribir y endosar títulos de crédito; y celebrar operaciones mercantiles.
 
 En el caso en que realice actos de transmisión o enajenación de dominio de bienes inmuebles deberá contar con la autorización previa del Consejo Directivo;
 
@@ -11039,7 +11041,7 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 
 44.- El IGECEM, tiene por objeto:
 
-I. Planear, crear, desarrollar, establecer, operar, resguardar, conservar y actualizar el Sistema Estatal, para apoyar al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
+I. Planear, crear, desarrollar, establecer, operar, resguardar, conservar y actualizar al Sistema Estatal, para apoyar el Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
 
 II. Prestar el Servicio Estatal para satisfacer los requerimientos de información geográfica, estadística y catastral de las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, de los ayuntamientos y del público en general;
 
@@ -11760,6 +11762,8 @@ Durante la vigencia de un Proyecto, en la formulación de cada uno de sus presup
 ###### Artículo 16.
 
 14.- La Secretaría emitirá lineamientos que contengan los criterios y políticas prudenciales de finanzas públicas y de gasto que deberán observar las Entidades Contratantes. La Secretaría, con base en la metodología que al respecto incluya en dichos lineamientos, evaluará el impacto del Proyecto en el gasto específico de la dependencia correspondiente; y el impacto del Proyecto en el gasto público y en el presupuesto del Estado.
+
+Los ayuntamientos promoverán la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos; debiendo difundirlos cuando menos tres veces al año; dichos instrumentos deberán ser tomados por las autoridades competentes como base en la definición de los usos de suelo que produzcan un impacto regional, así como para la autorización y construcción de obras de infraestructura o asentamientos humanos.
 
 Si conforme al análisis señalado en el párrafo anterior resultare que algún Proyecto compromete la salud financiera de la Unidad Contratante o la sustentabilidad del gasto público en general, la Secretaría rechazará el desarrollo del proyecto en cuestión como un Proyecto en términos de lo previsto en este Capítulo.
 
