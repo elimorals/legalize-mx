@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-propiedad-en-condominio-de-inmuebles-para-el-78798"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-27"
-last_updated: "2014-11-28"
+last_updated: "2015-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78798&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-20"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de enero de 2011.
 
@@ -80,7 +80,9 @@ CONDÓMINO: Persona física o moral, propietaria de una o más unidades de propi
 
 COMITÉ DE VIGILANCIA: Órgano de control integrado por condóminos electos en la Asamblea General, cuyo cometido entre otros, es vigilar, evaluar y dictaminar el puntual desempeño de las tareas del administrador, así como la ejecución de los acuerdos y decisiones tomados por la Asamblea General en torno a todos los asuntos comunes del condómino.
 
-COMITÉS: Están formados por condóminos o poseedores de unidades de propiedad privativa que se organiza para realizar actividades que atienden algunos servicios complementarios ambientales, preventivos contra siniestros y promueven la cultura condominal en beneficio de la comunidad. Son instancias de autogestión, atemporales y no obligatorias, su número integrante varía, y se conforman entorno a objetivos concretos.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
+
+COMITÉS: Están formados por condóminos o poseedores de unidades de propiedad privativa que se organizan para realizar actividades que atienden algunos servicios complementarios ambientales, preventivos contra siniestros y promueven la cultura condominal en beneficio de la comunidad. Son instancias de autogestión, mediación, atemporales y no obligatorias, su número integrante varía, y se conforman en torno a objetivos concretos.
 
 CONSEJO DE ADMINISTRADORES: Órgano coordinador del condominio subdividido y/o conjunto condominal, integrado por los administradores, en el que se discuten y resuelven los asuntos de interés común.
 
@@ -124,9 +126,13 @@ UNIDAD DE PROPIEDAD PRIVATIVA: Es el departamento, vivienda, local, áreas, nave
 
 ### CAPÍTULO II. DE LA CONSTITUCIÓN, MODALIDADES Y EXTINCIÓN DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO
 
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
+
 ###### Artículo 3.
 
-La constitución del Régimen de Propiedad en Condominio es el acto jurídico formal que el propietario o propietarios de un inmueble, instrumentarán ante Notario Público declarando su voluntad de establecer esa modalidad de propiedad para su mejor aprovechamiento, y en el que, dos o más personas teniendo un derecho privado, utilizan y comparten áreas o espacios de uso y propiedad común, asumiendo condiciones que les permiten satisfacer sus necesidades de acuerdo al uso del inmueble, en forma conveniente y adecuada para todos y cada uno, sin demérito de su unidad de propiedad privativa. Asimismo, una vez constituido el Régimen de Propiedad en Condominio, éste deberá de registrarse ante la Procuraduría.
+La constitución del Régimen de Propiedad en Condominio es el acto jurídico formal que el propietario o propietarios de un inmueble, instrumentarán ante Notario Público declarando su voluntad de establecer esa modalidad de propiedad para su mejor aprovechamiento, entendida ésta como aquella en la que coexiste un derecho de propiedad absoluto y exclusivo, respecto de unidades de propiedad privativa y un derecho de copropiedad en términos de lo dispuesto por los artículos 943 y 944 del Código Civil, respecto de las áreas y bienes de uso común necesarios para el adecuado uso o disfrute del inmueble.
+
+Asimismo, una vez constituido el Régimen de Propiedad en Condominio, éste deberá de registrarse ante la Procuraduría.
 
 ###### Artículo 4.
 
@@ -244,6 +250,8 @@ El derecho de copropiedad de cada condómino sobre las áreas y bienes de uso co
 
 Cada condómino, poseedor y en general los ocupantes del condominio tiene el derecho del uso de todos los bienes comunes incluidas las áreas verdes y gozar de los servicios e instalaciones generales, conforme a su naturaleza y destino, sin restringir o hacer más gravoso el derecho de los demás, pues en caso contrario se le aplicarán las sanciones previstas en esta Ley, sin perjuicio de las responsabilidades del orden civil o penal en que pueda incurrir.
 
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
+
 Si existiera una afectación a las áreas verdes, el administrador, condóminos o poseedores, deberán dar aviso a la Procuraduría Ambiental
 
 Son derechos de los condóminos y poseedores:
@@ -267,6 +275,10 @@ VII. Denunciar ante las autoridades competentes, hechos posiblemente constitutiv
 > <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
 
 VIII. Cada propietario podrá realizar las obras y reparaciones necesarias al interior de su unidad de propiedad privativa, quedando prohibida toda modificación o innovación que afecte la estructura, muros de carga u otros elementos esenciales del edificio o que puedan poner en peligro la estabilidad, seguridad, salubridad o comodidad del mismo; de conformidad con las leyes y reglamentos correspondientes.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2015)</small>
+
+IX. Formar parte de los comités de medio ambiente; educación y cultura; seguridad y protección civil; activación física y deporte; y de mediación.
 
 ###### Artículo 17.
 
@@ -418,7 +430,9 @@ El Órgano Máximo del condominio es la Asamblea General.
 
 Las asambleas generales por su tipo podrán ser ordinarias y extraordinarias:
 
-I.- Las Asambleas Generales Ordinarias: Se celebrarán cuando menos cada seis meses teniendo como finalidad informar el estado que guarda la administración del condominio, así como tratar los asuntos concernientes al mismo;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2015)</small>
+
+I.- Las Asambleas Generales Ordinarias: Se celebrarán trimestralmente teniendo como finalidad informar el estado que guarda la administración del condominio, así como tratar los asuntos concernientes al mismo;
 
 II.- Las Asambleas Generales Extraordinarias: Se celebrarán cuando haya asuntos de carácter urgente que atender y cuando se trate de los siguientes asuntos:
 
@@ -441,6 +455,10 @@ II.- Las de sección o grupo, que se celebrarán cuando el condominio se compone
 III.- Las Asambleas Generales de Condóminos del conjunto condominal, las cuales serán opcionales a las asambleas de administradores. En las sesiones de administradores se deberá elegir el Comité de Administración y el Comité de Vigilancia del conjunto condominal. De igual modo, se podrá tratar cualquier asunto relacionado con las áreas comunes del conjunto condominal y serán convocadas en los términos del Artículo 32 de esta Ley;
 
 IV.- En los condominios de uso comercial, de servicios, industrial o mixto; la Asamblea General y/o Comité de Vigilancia acordará el lugar y hora que más convenga a los condóminos para la realización de sus asambleas.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2015)</small>
+
+V.- Las Asambleas Generales para la Instalación de los comités de medio ambiente; educación y cultura; seguridad y protección civil; activación física y deporte; y de mediación de conformidad a lo dispuesto en el artículo 82 de este ordenamiento.
 
 Sin perjuicio de las disposiciones aplicables a las asambleas de condóminos, éstos podrán acordar otros mecanismos y formas para tomar decisiones y acuerdos para la mejor administración de los condominios.
 
@@ -494,9 +512,19 @@ b) El Comité de Vigilancia,
 
 c) Cuando menos el 20% del total de los condóminos acreditando la convocatoria ante la Procuraduría, si el condominio o conjunto condominal está integrado de 2 a 120 unidades de propiedad privativa; convoca el 15% cuando se integre de 121 a 500 unidades de propiedad privativa; y convoca el 10% cuando el condominio o conjunto condominal sea mayor a las 501 unidades de propiedad privativa; y
 
-d) La Procuraduría, sólo en los casos donde no exista algún tipo de administración; y únicamente con el objeto de difundir y fomentar la Cultura Condominal.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
 
-Los condóminos morosos e incumplidos según informe de la administración no tendrán derecho de convocar;
+d) La Procuraduría, en los siguientes casos:
+
+1. En los casos donde no exista alguna administración;
+
+2. Por resolución judicial;
+
+3. Por solicitud de al menos el diez por ciento de los condóminos, cuando exista negativa del administrador o del comité de vigilancia para convocar.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
+
+Los condóminos morosos e incumplidos según informe de la administración no tendrán derecho de convocar.
 
 IV.- Cuando la Asamblea General se celebre en virtud de la primera convocatoria, se requerirá de una asistencia del 75% de los condóminos, cuando se realice en segunda convocatoria el quórum se integrará con la mayoría simple del total de condóminos. En caso de tercera convocatoria la Asamblea General se declarará legalmente instalada con los condóminos que asistan y las resoluciones se tomarán por la mayoría de los presentes;
 
@@ -528,13 +556,17 @@ IV. Precisar las obligaciones y facultades a cargo del Administrador y del Comit
 
 V. Establecer las cuotas a cargo de los condóminos o poseedores, determinando para ello el sistema o esquema de cobro que considere más adecuado y eficiente de acuerdo a las características del condominio;
 
-> <small>(ADICIONADO, G.O. 3 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
 
-Sobre dichas cuotas se aplicará por concepto de morosidad, tratando por separado cada una de las cuotas que se tenga por deuda, el interés legal que es el nueve por ciento anual, de conformidad con el Código Civil para el Distrito Federal;
+Sobre dichas cuotas se aplicará por concepto de morosidad, tratando por separado cada una de las cuotas que se tenga por deuda, el interés legal que no podrá exceder del nueve por ciento anual, de conformidad con el Código Civil para el Distrito Federal;
 
-VI. Nombrar y remover al Comité de Vigilancia y a los comités de Ecología o Medio Ambiente, Socio-Cultura, Seguridad y Protección Civil y del Deporte;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2015)</small>
 
-VII. Resolver sobre la clase y monto de la garantía que deba otorgar el Administrador Profesional respecto al fiel desempeño de su función, y al manejo de los fondos a su cuidado;
+VI. Nombrar y remover al Comité de Vigilancia y a los comités de Medio Ambiente, Educación y Cultura; Seguridad y Protección Civil; de Activación Física y Deporte; y de Mediación;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2015)</small>
+
+VII. Resolver sobre la clase y monto de la garantía o fianza que deba otorgar el Administrador Profesional respecto al fiel desempeño de su función, y al manejo de los fondos a su cuidado.
 
 > <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
 
@@ -558,7 +590,25 @@ XV. Discutir la inversión de fondos establecidos en el artículo 55 de la prese
 
 XVI. Revisar y en su caso aprobar el estado de cuenta que se ejerza en torno a los proyectos específicos que se desarrollan en el condominio con recursos internos o externos y sean presentados por los comités de Ecología o Medio Ambiente, Socio-Cultural, Seguridad y Protección Civil y del Deporte;
 
-XVII. Las demás que le confieren la Escritura Constitutiva, el Reglamento Interno y demás disposiciones aplicables.
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2015)</small>
+
+XVII. Elegir y/o reelegir libremente al Administrador Condómino o Administrador Profesional según sea el caso, en los términos de la presente Ley, su Reglamento, de la Escritura Constitutiva y del Reglamento Interno. Asimismo podrá revocar la designación del Administrador en el caso de incumplimiento a lo establecido en el artículo 43 de la presente Ley, y lo hará del conocimiento de la Procuraduría Social quien procederá a la cancelación del registro correspondiente.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2015)</small>
+
+XVIII. Determinar días y horas para la celebración de asambleas generales.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2015)</small>
+
+XIX. Mandatar la realización de auditorías ante personal profesional autorizado, cuando se considere que existen inconsistencias o contradicciones en los estados financieros presentados por el Administrador;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2015)</small>
+
+XX. Promover la capacitación de los integrantes de los Comités de vigilancia y de Medio Ambiente; Educación y Cultura; Seguridad y Protección Civil; de Activación Física y Deporte; Mediación, así como el seguimiento de los casos en conflicto para su resolución pacífica.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2015)</small>
+
+XXI. Las demás que le confieren la Escritura Constitutiva, el Reglamento Interno y demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
 
@@ -622,15 +672,27 @@ Para desempeñar el cargo de Administrador:
 
 I.- En el caso del Administrador condómino, deberá acreditar a la Asamblea General, el cumplimiento de sus obligaciones de condómino desde el inicio y durante la totalidad de su gestión;
 
-II.- En el caso de contratar una administración profesional, ya sea persona física o moral deberá presentar para su registro contrato celebrado con el Comité de Vigilancia conforme a la Ley aplicable, la fianza correspondiente, así como la certificación expedida por la Procuraduría.
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2015)</small>
+
+II.- En el caso de contratar una administración profesional, ya sea persona física o moral deberá presentar para su registro contrato celebrado con el Comité de Vigilancia conforme a la Ley aplicable, la garantía o fianza correspondiente, así como la certificación expedida por la Procuraduría y haber acreditado el curso para administradores que imparte la Procuraduría en esta materia.
 
 En ambos casos, tendrán un plazo máximo de treinta días naturales posteriores a su nombramiento para asistir a la capacitación o actualización que imparte la Procuraduría en esta materia.
 
-El nombramiento del Administrador condómino o Administrador profesional quedará asentado en el libro de actas de asamblea, o la protocolización del mismo deberá ser presentado para su registro en la Procuraduría, dentro de los quince días hábiles siguientes a su designación.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
 
-La Procuraduría emitirá dicho registro y constancia de capacitación y/o actualización en un término de quince días hábiles.
+El nombramiento del Administrador condómino o Administrador profesional quedará asentado en el libro de actas de asamblea, o la protocolización del mismo deberá ser presentada para su registro en la Procuraduría, dentro de los quince días hábiles siguientes a su designación. Precluido dicho plazo, se aplicará una multa equivalente a cien días de salario mínimo vigente en el Distrito Federal.
 
-El mandato como administrador lo otorga la asamblea general de condóminos y tendrá plena validez frente a terceros y todo tipo de autoridades. El libro de actas donde se plasme el nombramiento del administrador o la protocolización del mismo, deberá ser presentado para su registro en la Procuraduría, dentro de los quince días hábiles siguientes a su designación. La Procuraduría emitirá dicho registro en un termino de quince días hábiles.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
+
+La Procuraduría emitirá dicho registro y constancia de capacitación y/o actualización dentro de los quince días hábiles una vez cumplido con los requisitos establecidos en ésta Ley y su Reglamento.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
+
+El nombramiento como administrador lo otorga la asamblea general de condóminos y tendrá plena validez frente a terceros y todo tipo de autoridades, siempre y cuando acredite su personalidad con el registro de administrador vigente emitido por la Procuraduría.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2015)</small>
+
+El libro de actas donde se plasme el nombramiento del administrador o la protocolización del mismo, deberá ser presentado para su registro en la Procuraduría, dentro de los quince días hábiles siguientes a su designación. La Procuraduría emitirá dicho registro en un término de quince días hábiles.
 
 ###### Artículo 39.
 
@@ -642,9 +704,15 @@ En el caso de construcción nueva en Régimen de Propiedad en Condominio, el pri
 
 Lo anterior sin perjuicio del derecho a los condóminos a convocar a Asamblea General para destituir y designar otro Administrador en términos de la presente Ley y su Reglamento.
 
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2015)</small>
+
+El administrador designado tendrá la obligación de convocar a Asamblea General de Condóminos, para elegir nuevo administrador y nombrar a los integrantes de los comités señalados en la fracción IX del artículo 16 de esta ley, en un plazo no mayor de 30 días naturales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2015)</small>
+
 ###### Artículo 41.
 
-Cuando la Asamblea General decida contratar servicios profesionales para su Administración, determinará las bases para garantizar el buen desempeño del cargo, nombrando al Comité de Vigilancia para celebrar el contrato correspondiente, conforme a la legislación aplicable.
+Cuando la Asamblea General elija y decida contratar servicios profesionales para su Administración, determinará las bases para garantizar el buen desempeño del cargo, nombrando al Comité de Vigilancia para celebrar el contrato correspondiente, conforme a la legislación aplicable.
 
 El Administrador profesional, tendrá un plazo no mayor a quince días naturales, a partir de la celebración de la Asamblea General para entregar al Comité de Vigilancia la fianza correspondiente.
 
@@ -652,9 +720,13 @@ El Administrador profesional, tendrá un plazo no mayor a quince días naturales
 
 El Administrador durará en su cargo un año, siempre que a consideración del Comité de Vigilancia se haya cumplido en sus términos el contrato y en caso de que la Asamblea General determine su reelección se atenderá a lo siguiente:
 
-I.- El Administrador condómino podrá ser reelecto en dos periodos consecutivos más y posteriormente en otros periodos no consecutivos.
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2015)</small>
 
-II.- El Administrador profesional podrá ser ratificado siempre y cuando renueve el contrato y la fianza correspondiente.
+I. El Administrador condómino o profesional podrá ser reelecto en dos periodos consecutivos más y posteriormente en otros periodos no consecutivos.
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2015)</small>
+
+II. El Administrador profesional reelecto, deberá renovar el contrato y la fianza correspondiente.
 
 ###### Artículo 43.
 
@@ -716,7 +788,9 @@ XVI.- Cumplir, cuidar y exigir, con la representación de los condóminos o pose
 
 XVII.- En relación con los bienes comunes del condominio, el Administrador tendrá facultades generales para pleitos, cobranzas y actos de administración de bienes, incluyendo a aquellas que requieran cláusula especial conforme a la Ley correspondiente;
 
-En caso de fallecimiento del Administrador o por su ausencia por más de un mes sin previo aviso, el Comité de Vigilancia deberá de convocar a una Asamblea Extraordinaria de acuerdo a lo establecido en el artículo 32 de esta Ley para nombrar a un nuevo Administrador. Asimismo, el Comité de Vigilancia podrá asumir estas facultades; hasta en tanto se designe el nuevo Administrador;
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
+
+En caso de fallecimiento del Administrador o por su ausencia por más de un mes sin previo aviso, el Comité de Vigilancia deberá de convocar a una Asamblea Extraordinaria de acuerdo a lo establecido en el artículo 32 de esta Ley para nombrar a un nuevo Administrador. Asimismo, el Comité de Vigilancia podrá asumir estas facultades; hasta en tanto se designe el nuevo Administrador; asimismo cuando la personalidad del Administrador sea materia de controversia judicial o administrativa, el Comité de Vigilancia asumirá las funciones del Administrador.
 
 XVIII.- Cumplir con las disposiciones dictadas por la Ley de Protección Civil y su Reglamento;
 
@@ -738,13 +812,27 @@ Dicha constancia será emitida por el Administrador en un término que no exceda
 
 XXVI.- Dirimir controversias derivadas de actos de molestia entre los condóminos poseedores o habitantes en general para mantener la paz y tranquilidad entre los mismos;
 
-XXVII.- Tener la documentación necesaria en cualquier momento, para que, en caso de que la Asamblea General y/o el Comité de Vigilancia o cualquier condómino o cualquier autoridad que la solicite;
+XXVII. Tener la documentación necesaria en cualquier momento, para que, en caso de que la Asamblea General y/o el Comité de Vigilancia o cualquier condómino o cualquier autoridad que la solicite;
 
-XXVIII.- Registrarse ante la Procuraduría como Administrador.
+XXVIII. Registrarse ante la Procuraduría como Administrador.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2015)</small>
+
+XXIX. Crear, impulsar y promover la instalación y funcionamiento de los comités señalados en la fracción IX del artículo 16 de esta ley; en un plazo no mayor a treinta días hábiles contados a partir de que se asiente su nombramiento en el libro de actas de asamblea.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2015)</small>
+
+XXX. Ser corresponsable en los servicios contratados por éste, en términos de lo dispuesto en el Código Civil aplicable a la materia.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2015)</small>
+
+Por incumplimiento del contenido de alguna de las fracciones establecidas en éste artículo, podrá proceder la revocación del mandato del Administrador condómino o profesional, a petición de al menos el veinte por ciento de los condóminos, lo cual deberá ser ratificado por la asamblea.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2015)</small>
 
 ###### Artículo 44.
 
-Cuando la Asamblea General designe una nueva administración, la saliente deberá entregar a la administración entrante, en un término que no exceda de siete días naturales a partir del día siguiente de la nueva designación, todos los documentos incluyendo los estados de cuenta, libro de actas, valores, muebles, inmuebles y demás bienes que tuviera bajo su resguardo y responsabilidad, la cual sólo podrá posponerse por resolución judicial.
+Cuando la Asamblea General designe una nueva administración, la saliente deberá entregar a la administración entrante, en un término que no exceda de siete días naturales a partir del día siguiente de la nueva designación, todos los documentos incluyendo los estados de cuenta, libro de actas, valores, muebles, inmuebles y demás bienes que tuviera bajo su resguardo y responsabilidad, así como todo lo relacionado con procedimientos administrativos y judiciales, lo cual sólo podrá posponerse por resolución judicial.
 
 > <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
 
@@ -775,6 +863,10 @@ Los condominios deberán contar con un Comité de Vigilancia integrado por dos o
 ###### Artículo 48.
 
 El nombramiento de los miembros del Comité de Vigilancia será por un año, o hasta en tanto no se remueva de su cargo por la Asamblea General, desempeñándose en forma honorífica. Podrán reelegirse sólo dos de sus miembros por un período consecutivo.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2015)</small>
+
+Está disposición será aplicable a todos los Comités al interior del condominio.
 
 ###### Artículo 49.
 
@@ -840,7 +932,9 @@ III.- El monto y la periodicidad del cobro de las cuotas de los fondos de admini
 
 IV.- Las medidas convenientes para la mejor administración, mantenimiento y operación del condominio;
 
-V.- Las disposiciones necesarias que propicien la integración, organización y desarrollo de la comunidad promoviendo y apoyando al Comité de Ecología ó Medio Ambiente, al Comité Socio-Cultural, al Comité de Seguridad y Protección Civil, al de Deporte y otros que se consideren necesarios;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2015)</small>
+
+V.- Las disposiciones necesarias que propicien la integración, organización y desarrollo de la comunidad promoviendo y apoyando a los comités referidos en la fracción IX del artículo 16 de ésta Ley y otros que se consideren necesarios;
 
 VI.- Los criterios generales a los que se sujetará el administrador para la contratación a terceros de locales, espacios o instalaciones de propiedad común que sean objeto de arrendamiento o comodato; previo acuerdo de la Asamblea General;
 
@@ -864,7 +958,9 @@ XV.- Las aportaciones para la constitución de los fondos de mantenimiento, admi
 
 XVI.- La determinación de criterios para asuntos que requieran una mayoría especial en caso de votación y no previstos en esta Ley y su Reglamento;
 
-XVII.- Las bases para la integración del Programa Interno de Protección Civil. Así como, en su caso, la conformación de Comités de Protección Civil y de Seguridad Pública que por ley debido a su magnitud requieren algunos condominios;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2015)</small>
+
+XVII. Las bases para la integración del Programa Interno de Protección Civil. Así como, en su caso, la conformación del Comité de Seguridad y Protección Civil y que por ley debido a su magnitud requieren algunos condominios;
 
 XVIII.- La tabla de valores e indivisos del condominio; cuando dichos valores o indivisos se modifiquen por reformas a la Escritura Constitutiva, la mencionada tabla deberá actualizarse; y
 
@@ -892,11 +988,11 @@ a) El fondo de administración y mantenimiento no sea suficiente para cubrir un 
 
 b) El fondo de reserva no sea suficiente para cubrir la compra de alguna herramienta, material, implemento, maquinaria, pintura, impermeabilizaciones, cambio de bombas, lavado de cisternas, cambio de redes de infraestructura, mano de obra para la oportuna y adecuada realización de obras, mantenimiento, reparaciones mayores entre otros. El importe de la cuota se distribuirá conforme a lo establecido para el fondo de reserva.
 
-> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
 
 ###### Artículo 56.
 
-Las cuotas ordinarias y extraordinarias de administración y mantenimiento no estarán sujetas a compensación, excepciones personales ni ningún otro supuesto que pueda excusar su pago. Los recursos financieros, en efectivo, en cuentas bancarias o cualquier otro tipo de bienes, así como los activos y pasivos producto de las cuotas u otros ingresos del condominio, se integrarán a los fondos.
+Las cuotas ordinarias y extraordinarias de administración y mantenimiento no estarán sujetas a compensación, excepciones personales ni ningún otro supuesto que pueda excusar su pago, salvo que dicho condómino acredite no contar con recursos o bien se encuentre en estado de insolvencia declarada, en ese caso la Asamblea podrá acordar que dichas cuotas puedan ser cubiertas con trabajo a favor del condominio. Los recursos financieros, en efectivo, en cuentas bancarias o cualquier otro tipo de bienes, así como los activos y pasivos producto de las cuotas u otros ingresos del condominio, se integrarán a los fondos.
 
 ###### Artículo 57.
 
@@ -906,13 +1002,19 @@ Por acuerdo de Asamblea General los fondos, en tanto no se utilicen, podrán inv
 
 La Asamblea General determinará anualmente el porcentaje de los frutos o utilidades obtenidas por el arrendamiento de los bienes de uso común que deberán aplicarse a cada uno de los fondos del condominio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2015)</small>
+
 ###### Artículo 59.
 
-Las cuotas para gastos comunes que se generen a cargo de cada unidad de propiedad privativa y que los condóminos y poseedores no cubran oportunamente en las fechas y bajo las formalidades establecidas en Asamblea General o en el Reglamento Interno del condominio que se trate, causarán intereses moratorios al tipo que se hayan fijado en la Asamblea General o en el Reglamento Interno.
+Las cuotas para gastos comunes que se generen a cargo de cada unidad de propiedad privativa y que los condóminos y poseedores no cubran oportunamente en las fechas y bajo las formalidades establecidas en Asamblea General o en el Reglamento Interno del condominio que se trate, causarán intereses moratorios al tipo legal previstos en la fracción V del artículo 33 de esta ley, que se hayan fijado en la Asamblea General o en el Reglamento Interno.
 
 Lo anterior, independientemente de las sanciones a que se hagan acreedores los condóminos o poseedores por motivo de su incumplimiento en el pago.
 
 Trae aparejada ejecución en la vía ejecutiva civil, el estado de liquidación de adeudos, intereses moratorios y/o pena convencional que se haya estipulado en Asamblea General o en el Reglamento Interno, si va suscrita por el Administrador y el presidente del Comité de Vigilancia, acompañada de los correspondientes recibos de pago, así como de copia certificada por Notario Público o por la Procuraduría, del acta de Asamblea General relativa y/o del Reglamento Interno en su caso en que se hayan determinado las cuotas a cargo de los condóminos para los fondos de mantenimiento y administración y de reserva, intereses y demás obligaciones de los condóminos o poseedores, constituye el título que lleva aparejada ejecución en términos de lo dispuesto por el artículo 443 fracción IX del Código de Procedimientos Civiles para el Distrito Federal. Está acción podrá ejercerse cuando existan dos cuotas ordinarias o una extraordinaria pendiente de pago, con excepción de los condóminos o poseedores que hayan consignado la totalidad de sus adeudos y quedado al corriente de los mismos ante la Dirección General de Consignaciones del Tribunal Superior de Justicia del Distrito Federal, y se haya notificado por escrito al Administrador.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2015)</small>
+
+El Administrador, en todos los casos, antes de iniciar un procedimiento ante la Procuraduría Social, deberá acreditar ante ésta haber concluido un procedimiento interno previo de mediación conciliación, en el cual demuestre haber realizado requerimientos, pláticas, notificaciones, exhortos, invitaciones y/o propuestas de convenio.
 
 ###### Artículo 60.
 
@@ -944,9 +1046,19 @@ II.- Por la vía del arbitraje;
 
 III.- Por la vía del Procedimiento Administrativo de Aplicación de sanciones.
 
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2015)</small>
+
+En las vías previstas en este artículo, la Procuraduría, aplicará el principio de la suplencia de la queja deficiente, a favor del condómino.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2015)</small>
+
 ###### Artículo 64.
 
-Para iniciar el procedimiento conciliatorio se requerirá acreditar el interés jurídico, que la reclamación precise los actos que se impugnan y las razones que se tienen para hacerlo, así como los generales de la parte reclamante y de la requerida.
+Previo al inicio del procedimiento conciliatorio se requerirá acreditar haber agotado un procedimiento de mediación ante el Administrador comité correspondiente, así como acreditar el interés jurídico, y que la reclamación precise los actos que se impugnan y las razones que se tienen para hacerlo, así como los generales de la parte reclamante y de la requerida
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2015)</small>
+
+Así mismo para el caso de los Administradores, deberán presentar también documento idóneo donde se acredite haber tratado previamente de dirimir la controversia motivo de la queja.
 
 La Procuraduría notificará a la parte requerida, con copia del escrito de reclamación aportando las pruebas que a su interés convenga.
 
@@ -1088,17 +1200,41 @@ De la misma manera informará la aplicación de recursos en las áreas y bienes 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
+
 ###### Artículo 79.
 
-Se entiende por cultura condominal todo aquello que contribuya a generar las acciones y actitudes que permitan, en sana convivencia, el cumplimiento del objetivo del régimen de propiedad en condominio. Entendiéndose como elementos necesarios: respeto y la tolerancia; la responsabilidad y cumplimiento; la corresponsabilidad y participación; la solidaridad y la aceptación mutua.
+La Procuraduría promoverá el fomento, desarrollo y aplicación de una cultura condominal en los condominios y conjuntos condominales en el Distrito Federal, siempre sujeto a lo que establece esta Ley, su Reglamento, entendiendo por cultura condominal todo aquello que contribuya a generar las acciones y actitudes que permitan, en sana convivencia, el cumplimiento del objetivo del régimen de propiedad en condominio. Entendiéndose como elementos necesarios: respeto y la tolerancia; la responsabilidad y cumplimiento; la corresponsabilidad y participación; la solidaridad y la aceptación mutua.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
 
 ###### Artículo 80.
 
-La Procuraduría proporcionará a los condóminos, poseedores y administradores de inmuebles bajo el régimen de propiedad en condominio, orientación y capacitación a través de diversos cursos y talleres en materia condominal una vez por año; en coordinación con los organismos de vivienda y de otras dependencias e instituciones públicas y privadas.
+La Procuraduría proporcionará a los condóminos, poseedores y administradores y comités de inmuebles bajo el régimen de propiedad en condominio, orientación y capacitación a través de diversos cursos, charlas y talleres en materia condominal, habitabilidad, adaptabilidad, sustentabilidad y exigibilidad de derechos; en los cuales se difundirá por cualquier medio la cultura condominal de manera permanente; la cual sentará las bases, condiciones y principios que permitan convivir de manera armónica, conformando una cultura de la paz, en coordinación con los organismos de vivienda y de otras dependencias e instituciones públicas y privadas.
+
+Suscribiendo convenios de colaboración que permitan la aplicación de programas, proyectos, presupuesto en favor de estos inmuebles, teniendo como objetivo:
+
+a) Fomentar la participación activa de los condóminos, poseedores y habitantes de los inmuebles bajo el régimen de propiedad en condominio; en hacer valer los derechos y cumpliendo las obligaciones que estipula ésta Ley, su Reglamento, la escritura constitutiva, el Reglamento Interno y demás disposiciones aplicables;
+
+b) Promover la regularización de los inmuebles y unidades privativas, para garantizar certeza jurídica a los habitantes;
+
+c) Generar una sana convivencia, tolerancia, respeto entre los condóminos, poseedores y habitantes.
+
+d) Concientizar respecto del uso y disfrute de áreas verdes y comunes del condominio.
+
+e) Promover la preservación de la integridad física y psicológica de los habitantes del condominio.
+
+f) Fomentar la equidad de género, la no discriminación por origen étnico o nacional, edad, discapacidades, condición social, condiciones de salud, la religión, las opiniones, las preferencias sexuales y el estado civil para garantizar el respeto entre condóminos, poseedores y habitantes.
+
+Con la finalidad de hacer incluyente la participación de las dependencias para garantizar la convivencia condominal y las (sic) armonía entre sus habitantes.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
 
 ###### Artículo 81.
 
-Toda persona que sea Administrador, miembro del Comité de Administración o el Comité de Vigilancia de un condominio, deberá acreditar su asistencia a los cursos de capacitación y actualización impartidos por la Procuraduría, por lo menos, una vez al año.
+Toda persona que sea Administrador, o integrante de cualquiera de los comités al interior del condominio, tendrá la obligación de asistir a los cursos de capacitación y actualización impartidos por la Procuraduría, en un término de 30 días naturales después de su designación.
+
+En el caso de administrador profesional, deberá acreditar la evaluación para la certificación.
 
 ###### Artículo 82.
 
@@ -1106,19 +1242,37 @@ La Administración Pública del Distrito Federal promoverá una cultura condomin
 
 La Procuraduría coadyuvará y asesorará en la creación y funcionamiento de asociaciones civiles orientados a la difusión y desarrollo de la cultura condominal, así como a iniciativas ciudadanas relacionadas con ésta.
 
-La Procuraduría deberá promover la creación de cuatro comités básicos, formadas y coordinadas por condóminos y/o poseedores voluntarios, comprometidos con los proyectos específicos a desarrollar en el condominio, con el objeto de complementar las actividades de la administración en los espacios comunes, para preservar el ambiente físico induciendo a la sustentabilidad del hábitat y promover las relaciones armónicas entre condóminos y poseedores, tales como:
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
 
-a) Comité de Ecología o Medio Ambiente.- Su actividad es atender a las áreas verdes, en azoteas promover la agricultura urbana, captar el agua pluvial, reciclar el agua gris, promover el ahorro de agua con dispositivos domésticos, reciclar la basura de sólidos, promover el uso de energía solar en áreas comunes y capacitar a la población para el manejo de sus mascotas;
+La Procuraduría coadyuvará con el administrador designado para la creación de los comités básicos, formados y coordinados por condóminos y/o poseedores voluntarios, comprometidos con los proyectos específicos a desarrollar en el condominio, con el objeto de complementar las actividades de la administración en los espacios comunes, para preservar el ambiente físico induciendo a la sustentabilidad del hábitat y promover las relaciones armónicas entre condóminos y poseedores, tales como:
 
-b) Comité Socio-Cultural.- Difundir información genérica que adopte la gente en torno a la alimentación, nutrición y salud; atención especial a niños y a las personas de la tercera edad, personas con discapacidad, apoyo a madres solteras, atender a las fiestas tradicionales y eventos culturales que coadyuven a formar identidad condominal;
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
 
-c) Comité de de (sic) Seguridad y Protección Civil.- Está supeditado al Programa de Protección Civil, que según la magnitud del condominio deberá de presentar a la autoridad de la Administración Pública; donde se observa la capacitación de un grupo voluntario que sepa organizar a los condominios y tomar medidas contra siniestros tales como: incendios, inundaciones, sismos, hundimientos, plagas, derrumbes, etc; y
+a) Comité de Medio Ambiente.- su actividad es atender a las áreas verdes, en azoteas promover la agricultura urbana, captar el agua pluvial, reciclar el agua gris, promover el ahorro de agua con dispositivos domésticos, reciclar los residuos sólidos, promover el uso de energía solar en áreas comunes y capacitar a la población para el manejo de sus mascotas.
 
-d) Comité del Deporte.- Promoverá las actividades físicas y deportivas de todas las edades, incorporando hábitos saludables desde la niñez hasta adultos mayores y personas con discapacidad.
-
-El comité de ecología y medio ambiente en coordinación con la Procuraduría Ambiental, deberá elaborar un manual que contenga las medidas que en materia de: residuos sólidos, energía, agua, áreas verdes y animales, se puedan llevar a cabo en el condominio para contribuir con el cuidado del medio ambiente.
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2015)</small>
 
 En el tema de residuos sólidos, la Asamblea fomentara que exista el número suficiente de contenedores al interior del Condominio, procurando en la medida de lo posible la separación en rubros adicionales a orgánicos e inorgánicos.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
+
+b) Comité de Educación y Cultura.- Difundir información genérica que adopte la gente en torno a la alimentación, nutrición y salud; atención especial a niños y a las personas de la tercera edad, personas con discapacidad, apoyo a madres solteras, atender a las fiestas tradicionales y eventos culturales que coadyuven a formar identidad condominal;
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
+
+c) Comité de Seguridad y Protección Civil.- Está supeditado a los Programas Internos Protección Civil, que según la magnitud del condominio deberá de presentar a la autoridad de la Administración Pública; donde se observa la capacitación de un grupo voluntario que coadyuve en la seguridad condominal y a la organización de los condóminos ante siniestros tales como: incendios, inundaciones, sismos, hundimientos, plagas, derrumbes, etcétera; y los Planes de la Secretaría de Seguridad Pública para la prevención del delito.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
+
+d) Comité del Deporte.- Promoverá las actividades de activación física, recreativas y deportivas de todas las edades, incorporando hábitos saludables desde la niñez hasta adultos mayores y personas con discapacidad.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2015)</small>
+
+e) Comité de Mediación.- Será el encargado de promover la resolución de conflictos Condominales a través de soluciones pacíficas fungiendo como mediador, creando junto con las partes en conflicto, opciones de solución antes de interponer una queja condominal o llegar a la conciliación o a los procedimientos arbitrales y de aplicación de sanciones.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
+
+Dichos comités se conformarán aun no existiendo administrador registrado, en términos del artículo 32 de la Ley.
 
 ## TITULO SÉPTIMO. DE LA DESTRUCCIÓN, RUINA Y RECONSTRUCCIÓN DEL CONDOMINIO
 
@@ -1137,6 +1291,10 @@ c) La demolición y venta de los materiales;
 ###### Artículo 84.
 
 En el caso de que la decisión sea por la reconstrucción del inmueble, cada condómino estará obligado a costear la reparación de su unidad de propiedad privativa y todos ellos se obligarán a pagar la reparación de las partes comunes, en la proporción que les corresponda de acuerdo al valor establecido en la escritura constitutiva.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2015)</small>
+
+Los condóminos, podrán solicitar por sí o a través de la Procuraduría, la intervención de otra autoridad a efecto de obtener dictamen de resistencia estructural, protección civil o de otra naturaleza que se estime necesario.
 
 Los condóminos minoritarios que decidan no llevar a cabo la reconstrucción deberán enajenar sus derechos de propiedad en un plazo de noventa días naturales, al valor del avalúo practicado por las autoridades competentes o una Institución bancaria autorizada.
 
@@ -1185,6 +1343,10 @@ III.- Por aquellas faltas que provoquen un daño patrimonial, o pongan en riesgo
 IV.- Por incumplimiento en el pago oportuno de las cuotas ordinarias, extraordinarias de administración, de mantenimiento y las correspondientes al fondo de reserva, se aplicará multa de 10 a 100 veces la Unidad de Cuenta de la Ciudad de México vigente;
 
 V.- Los Administradores o Comités de Vigilancia que a juicio de la Asamblea General, Consejo, o de la Procuraduría no hagan un buen manejo o vigilancia de las cuotas de servicios, mantenimiento y administración, de reserva o extraordinarias, por el abuso de su cargo o incumplimiento de sus funciones, o se ostenten como tal sin cumplir lo que esta Ley y su reglamento establecen para su designación, estarán sujetos a las sanciones establecidas en las fracciones I, II, III y IV de este artículo, aumentando un 50% la sanción que le corresponda, independientemente de las responsabilidades o sanciones a que haya lugar, contempladas en otras Leyes;
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2015)</small>
+
+La Procuraduría, de acreditarse los supuestos establecidos en el párrafo anterior y una vez emitida la resolución administrativa que cause estado, a petición de parte, podrá revocar el registro emitido.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1261,3 +1423,9 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 13 DE ENERO DE 2015.
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
