@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2014-12-18"
+last_updated: "2015-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 13 DE ENERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -1505,7 +1505,7 @@ En los parques estatales sólo podrá permitirse la realización de actividades 
 
 100. Las zonas de restauración ecológica se constituirán en lugares donde se presenten procesos acelerados de deterioro del suelo que impliquen la pérdida de elementos y recursos naturales de difícil regeneración, recuperación o afectaciones irreversibles a los ecosistemas o a sus elementos.
 
-#### SECCION TERCERA. DE LAS DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACION y VIGILANCIA DE AREAS NATURALES PROTEGIDAS
+#### SECCION TERCERA. DE LAS DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACION Y VIGILANCIA DE AREAS NATURALES PROTEGIDAS
 
 ###### Artículo 2.
 
@@ -2429,7 +2429,7 @@ La Secretaría gestionará ante las autoridades fiscales correspondientes, la p�
 
 ###### Artículo 2.
 
-213. No podrá prestar servicios ambientales directamente o a través de terceros, el servidor público que intervenga en cualquier forma en la aplicación del presente Libro, ni las personas con las que tenga interés personal, familiar o de negocios incluyendo aquellas de las que pueda generar un beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado por afinidad o civiles, terceros con los que tenga relaciones profesionales, laborales o de negocios, socios o personas jurídicas colectivas de las que el servidor público o las personas antes referidas formen parte. La infracción a esta disposición será sancionada en los términos de las disposiciones jurídicas de responsabilidades de los servidores públicos correspondiente.
+213. No podrá prestar servicios ambientales directamente o a través de terceros, el servidor público que intervenga en cualquier forma en la aplicación del presente Libro, ni las personas con las que tenga interés personal, familiar o de negocios incluyendo aquéllas de las que pueda generar un beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado por afinidad o civiles, terceros con los que tenga relaciones profesionales, laborales o de negocios, socios o personas jurídicas colectivas de las que el servidor público o las personas antes referidas formen parte. La infracción a esta disposición será sancionada en los términos de las disposiciones jurídicas de responsabilidades de los servidores públicos correspondiente.
 
 ### CAPITULO IV. DE LOS PROVEEDORES DE EQUIPOS Y SERVICIOS DE VERIFICACION
 
@@ -2565,7 +2565,7 @@ DE LA AUTORREGULACION, AUDITORIAS AMBIENTALES, INSPECCION Y VIGILANCIA, MEDIDAS 
 
 ###### Artículo 2.
 
-233. En toda visita de inspección, se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, así como lo previsto en el artículo 128 del Código de Procedimientos Administrativos del Estado de México. Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule observaciones en relación con los hechos u omisiones asentados en el acta respectiva, y para que ofrezca las pruebas que considere convenientes o haga uso de ese derecho en el término de cinco días siguientes a la fecha en que la diligencia se hubiere practicado, a continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado quien entregará copia del acta al interesado. Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentaran en ella sin que esto afecte su validez y valor probatorio.
+233. En toda visita de inspección, se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, así como lo previsto en el artículo 128 del Código de Procedimientos Administrativos del Estado de México. Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule observaciones en relación con los hechos u omisiones asentados en el acta respectiva, y para que ofrezca las pruebas que considere convenientes o haga uso de ese derecho en el término de cinco días siguientes a la fecha en que la diligencia se hubiere practicado, a continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado quien entregará copia del acta al interesado. Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán en ella sin que esto afecte su validez y valor probatorio.
 
 ###### Artículo 2.
 
@@ -5673,7 +5673,7 @@ XIX. Ejemplares o poblaciones que se tornen perjudiciales: Las pertenecientes a 
 
 XX. Especies y poblaciones prioritarias para la conservación: Aquellas determinadas por la Secretaría de acuerdo con los criterios establecidos en el presente Libro para canalizar y optimizar esfuerzos de conservación y recuperación. Las especies endémicas se consideran dentro de esta categoría que son las que habitan exclusivamente en una determinada área geográfica;
 
-XXI. Especies y poblaciones en riesgo: Las identificadas por la Secretaria de Medio Ambiente y Recursos Naturales, por la Secretaría del Medio Ambiente del Estado o por la Comisión Estatal de Parques Naturales y de la Fauna como probablemente extintas en el medio silvestre, en peligro de extinción, amenazadas o sujetas a protección especial materia del presente Libro;
+XXI. Especies y poblaciones en riesgo: Las identificadas por la SecretarIa de Medio Ambiente y Recursos Naturales, por la Secretaría del Medio Ambiente del Estado o por la Comisión Estatal de Parques Naturales y de la Fauna como probablemente extintas en el medio silvestre, en peligro de extinción, amenazadas o sujetas a protección especial materia del presente Libro;
 
 XXII. Especies y poblaciones migratorias: Aquellas que se desplazan latitudinal, longitudinal o altitudinalmente de manera periódica como parte de su ciclo biológico;
 
@@ -7337,7 +7337,7 @@ II. Los resultados experimentales deseados no puedan obtenerse por otros procedi
 
 III. Los experimentos (sic) sean necesarios para el control, seguridad, prevención, diagnóstico o tratamiento de enfermedades que afecten al ser humano o al animal;
 
-IV. Los experimentos no puedan ser sustituidos por esquemas, dibujos, películas, fotografías, videocintas, discos de video compactos, materiales biológicos o cualquier otro procedimiento análogo; y
+IV. Los experimentos no puedan ser sustituidos por esquemas, dibujos, películas, fotografías, videocintas, discos de vídeo compactos, materiales biológicos o cualquier otro procedimiento análogo; y
 
 V. Se realicen en animales criados preferentemente para tal fin.
 
@@ -7385,7 +7385,7 @@ Queda estrictamente prohibido arrojar a los puercos al agua hirviendo sino hasta
 
 ###### Artículo 6.
 
-77. En ningún caso las reses y otros de semejante naturaleza presenciarán el sacrificio de sus congéneres. Queda prohibido estrictamente el sacrificio de hembras en el período de tiempo próximo al parto.
+77. En ningún caso las reses y otros de semejante naturaleza presenciarán el sacrificio de sus congéneres. Queda prohibido estrictamente el sacrificio de hembras en el periodo de tiempo próximo al parto.
 
 ###### Artículo 6.
 
@@ -7533,7 +7533,7 @@ V. El carácter intencional, imprudencial o accidental del hecho, acto u omisió
 
 ###### Artículo 6.
 
-97. En el caso de haber reincidencia en la violación a las disposiciones del presente libro la sanción se duplicará y podrá imponerse arresto del responsable legal o administrativo hasta por treinta y seis horas inconmutables.
+97. En el caso de haber reincidencia en la violación a las disposiciones del presente Libro la sanción se duplicará y podrá imponerse arresto del responsable legal o administrativo hasta por treinta y seis horas inconmutables.
 
 Para efectos del presente Libro se reincide, cuando habiendo quedado firme una resolución que imponga una sanción se cometa una nueva falta dentro de los doce meses contados a partir de aquélla.
 
