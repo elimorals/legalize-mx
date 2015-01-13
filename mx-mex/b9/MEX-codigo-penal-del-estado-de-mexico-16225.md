@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2014-12-19"
+last_updated: "2015-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "MEX"
 ---
 # CODIGO PENAL DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DE 19 DE DICIEMBRE DE 2014.
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 13 DE ENERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
