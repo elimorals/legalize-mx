@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-otorgamiento-del-estimulo-al-desempeno-67888
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-27"
-last_updated: "2013-07-30"
+last_updated: "2015-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MEX"
 REGLAMENTO PARA EL OTORGAMIENTO DEL ESTIMULO AL DESEMPEÑO DOCENTE PARA EL PERSONAL ACADÉMICO DE LA ESCUELA NORMAL RURAL "LÁZARO CÁRDENAS DEL RIO" DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE JULIO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 13 DE ENERO DE 2015.</small>
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 27 de marzo de 2009.
 
@@ -93,7 +95,7 @@ IX. SEIEM, Servicios Educativos Integrados al Estado de México;
 
 X. Sistema de Evaluación, el Sistema de Evaluación para el otorgamiento del "Estímulo al Desempeño Docente";
 
-XI. Consejo Directivo, al Consejo Directivo de Servicios Educativos Integrados al Estado de México (sic)
+XI. Consejo Directivo, al Consejo Directivo de Servicios Educativos Integrados al Estado de México
 
 ### CAPÍTULO SEGUNDO. DE LOS BENEFICIOS DEL PROGRAMA
 
@@ -331,11 +333,17 @@ Calidad
 
 481-510 801-850 VI 7
 
-511-540 851·900 VII 9
+> <small>(F. DE E., G.G. 13 DE ENERO DE 2015)</small>
 
-541-570 901-950 VIII 11
+511-570 851-900 VII 9
 
-571·600 951·1000 IX 14
+> <small>(F. DE E., G.G. 13 DE ENERO DE 2015)</small>
+
+571-630 901-950 VIII 11
+
+> <small>(F. DE E., G.G. 13 DE ENERO DE 2015)</small>
+
+631-640 951-1000 IX 14
 
 ### CAPÍTULO SÉPTIMO. FORMA DE PAGO Y PERIODICIDAD
 
@@ -451,7 +459,7 @@ I. Cubra alguna comisión sindical u oficial;
 
 II. Obtenga licencia temporal, sin goce de sueldo; y
 
-III. Ocupe puestos directivos o de confianza dentro de SEIEM, durante el período que se evalúa; (sic)
+III. Ocupe puestos directivos o de confianza dentro de SEIEM, durante el período que se evalúa;
 
 ###### Artículo 42.
 
@@ -603,7 +611,7 @@ V. Presentar los informes que le sean solicitados por las autoridades correspond
 
 VI. Informar el resultado que hayan obtenido de su evaluación los docentes participantes; y
 
-VII. Recibir y resolver las inconformidades que presenten los participantes; (sic)
+VII. Recibir y resolver las inconformidades que presenten los participantes;
 
 ###### Artículo 54.
 
