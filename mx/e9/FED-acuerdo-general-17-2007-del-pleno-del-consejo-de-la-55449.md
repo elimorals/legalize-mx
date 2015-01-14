@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2007-del-pleno-del-consejo-de-la-55449"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-05-14"
-last_updated: "2015-01-02"
+last_updated: "2015-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55449&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ ACUERDO GENERAL 17/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL 
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 2 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2015 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2015 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2007.
 
@@ -75,7 +75,7 @@ IV. Consejo: El Consejo de la Judicatura Federal;
 
 V. Contralor: El Contralor del Poder Judicial de la Federación;
 
-VI. Dirección General de Estadística: La Dirección General de Estadística y Planeación Judicial;
+VI. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 50/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 17/2007, POR EL QUE SE REGULA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA, D.O.F. 14 DE ENERO DE 2015)
 
 VII. Fondo: El Fondo de Apoyo a la Administración de Justicia;
 
@@ -93,7 +93,9 @@ XIII. Secretaría Técnica: La Secretaría Técnica del Fondo de Apoyo a la Admi
 
 XIV. Secretario Técnico: A la persona titular de la Secretaría Técnica del Fondo; y
 
-XV. SISE: El Sistema Integral de Seguimiento de Expedientes de la Dirección General de Estadística y Planeación Judicial del Consejo de la Judicatura Federal.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 50/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 17/2007, POR EL QUE SE REGULA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA, D.O.F. 14 DE ENERO DE 2015)</small>
+
+XV. SISE: El Sistema Integral de Seguimiento de Expedientes de la Dirección General de Estadística Judicial.
 
 ### Capítulo II. De la Constitución y Patrimonio del Fondo
 
@@ -249,9 +251,11 @@ En el certificado de depósito se deberá incluir una leyenda que comprenda la a
 
 COBRO DE LOS CERTIFICADOS DE DEPOSITO. Los billetes, certificados o instrumentos de depósito se podrán hacer efectivos en cualquier sucursal del país de la institución depositaria, previa orden de pago de la autoridad judicial competente.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 50/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 17/2007, POR EL QUE SE REGULA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA, D.O.F. 14 DE ENERO DE 2015)</small>
+
 ###### Artículo 34.
 
-ADECUACIONES AL SISE. La Secretaría Técnica, y las demás áreas competentes del Consejo podrán solicitar a la Dirección General de Estadística y Planeación Judicial que realice las adecuaciones necesarias al SISE con el objetivo de facilitar la emisión y conciliación de los certificados de depósito y órdenes de pago en forma electrónica.
+ADECUACIONES AL SISE. La Secretaría Técnica, y las demás áreas competentes del Consejo podrán solicitar a la Dirección General de Estadística Judicial que realice las adecuaciones necesarias al SISE con el objetivo de facilitar la emisión y conciliación de los certificados de depósito y órdenes de pago en forma electrónica.
 
 #### Sección Cuarta. De los Depósitos Diversos
 
@@ -259,9 +263,11 @@ ADECUACIONES AL SISE. La Secretaría Técnica, y las demás áreas competentes d
 
 TIPOS DE DEPOSITOS DIVERSOS. Los depósitos en dinero diversos a los depósitos judiciales corresponden, entre otros, a los depósitos en efectivo o billetes de depósito dados en garantía por terceros en la adjudicación de contratos por obra, contratos de mantenimiento y contratos de servicio en general, los cuales, hasta en tanto deban ser reintegrados a sus depositantes, deberán ser invertidos para que los intereses que generen esos depósitos puedan ser integrados al Fondo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 50/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 17/2007, POR EL QUE SE REGULA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA, D.O.F. 14 DE ENERO DE 2015)</small>
+
 ###### Artículo 36.
 
-TRANSFERENCIA DE RECURSOS A LA CUENTA PATRIMONIAL DEL FONDO. La Secretaría Ejecutiva de Finanzas solicitará a la Dirección General de Tesorería que transfiera, en un plazo no mayor a 10 días naturales, los ingresos a que se refiere el artículo anterior y tenga en su posesión, a la cuenta patrimonial del Fondo e informará de ello a la Secretaría Técnica y al Comité.
+TRANSFERENCIA DE RECURSOS A LA CUENTA PATRIMONIAL DEL FONDO. La Dirección General de Programación y Presupuesto solicitará a la Dirección General de Tesorería que transfiera, en un plazo no mayor a 10 días naturales, los ingresos a que se refiere el artículo anterior y tenga en su posesión, a la cuenta patrimonial del Fondo e informará de ello a la Secretaría Técnica y al Comité.
 
 ### Capítulo III. De la Organización
 
@@ -283,9 +289,11 @@ TRANSFERENCIA DE RECURSOS A LA CUENTA PATRIMONIAL DEL FONDO. La Secretaría Ejec
 
 ### Capítulo IV. Del Control y la Vigilancia
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 50/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 17/2007, POR EL QUE SE REGULA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA, D.O.F. 14 DE ENERO DE 2015)</small>
+
 ###### Artículo 41.
 
-CUMPLIMIENTO DE LAS NORMAS RELATIVAS AL FONDO. El Contralor del Poder Judicial de la Federación, la Visitaduría Judicial y la Dirección General de Estadística y Planeación Judicial, en el ámbito de sus respectivas competencias, tendrán a su cargo las funciones de control e inspección del cumplimiento de las normas relativas al Fondo.
+CUMPLIMIENTO DE LAS NORMAS RELATIVAS AL FONDO. El Contralor del Poder Judicial de la Federación, la Visitaduría Judicial y la Dirección General de Estadística Judicial, en el ámbito de sus respectivas competencias, tendrán a su cargo las funciones de control e inspección del cumplimiento de las normas relativas al Fondo.
 
 ###### Artículo 42.
 
@@ -329,7 +337,9 @@ La operatividad del Fondo estará a cargo de la Secretaría Técnica.
 
 SISTEMAS CONTABLES. La Secretaría Técnica implementará los sistemas contables y automatizados necesarios para el tratamiento de los datos relativos a la administración, control, registro y operación del Fondo. Para este efecto, la Secretaría Técnica contará con la colaboración necesaria de las áreas competentes del Consejo.
 
-El Secretario Técnico, previo acuerdo del Comité, podrá solicitar a la Dirección General de Estadística y Planeación Judicial el acceso y la modificación del SISE con el objeto de contar oportunamente con los datos íntegros, actualizados, veraces y necesarios para controlar, administrar y conciliar la información correspondiente a los recursos del Fondo.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 50/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 17/2007, POR EL QUE SE REGULA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA, D.O.F. 14 DE ENERO DE 2015)</small>
+
+El Secretario Técnico, previo acuerdo del Comité, podrá solicitar a la Dirección General de Estadística Judicial el acceso y la modificación del SISE con el objeto de contar oportunamente con los datos íntegros, actualizados, veraces y necesarios para controlar, administrar y conciliar la información correspondiente a los recursos del Fondo.
 
 Para el efecto anterior, los analistas jurídicos de los Organos Jurisdiccionales responsables del procesamiento de la información del SISE, deberán capturar los datos relativos a la constitución, exhibición y orden de pago de los billetes de depósito o instrumentos análogos el mismo día en que se generen.
 
@@ -357,9 +367,11 @@ MECANISMOS DE OPERACION. A fin de cumplir con el objeto del Fondo, el Comité po
 
 Para tales efectos, los recursos serán concentrados en el número de cuentas que se estimen pertinentes, mismas que estarán a nombre del Consejo.
 
+REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 50/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 17/2007, POR EL QUE SE REGULA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA, D.O.F. 14 DE ENERO DE 2015)
+
 ###### Artículo 51.
 
-SUSCRIPCION DE CONVENIOS Y CONTRATOS DE INVERSION. Los convenios y contratos que tengan por objeto la inversión de la totalidad de recursos que constituyan el patrimonio del Fondo, serán suscritos de forma mancomunada por el Secretario Técnico y por lo menos alguno de los siguientes servidores públicos: El Secretario Ejecutivo de Finanzas, el Director de Administración Financiera y/o el Director de Normatividad y Enlace Institucional del Fondo, por instrucción del Comité.
+SUSCRIPCION DE CONVENIOS Y CONTRATOS DE INVERSION. Los convenios y contratos que tengan por objeto la inversión de la totalidad de recursos que constituyan el patrimonio del Fondo, serán suscritos de forma mancomunada por el Secretario Técnico y por lo menos alguno de los siguientes servidores públicos: el Director General de Programación y Presupuesto, el Director General de Tesorería, el Director de Administración Financiera y el Director de Normatividad y Enlace Institucional del Fondo, por instrucción del Comité.
 
 La inversión de los recursos del Fondo se hará, preferentemente, en instrumentos financieros de renta fija, gubernamentales y paraestatales que garanticen su seguridad, disponibilidad inmediata y el mayor rendimiento posible.
 
@@ -624,3 +636,11 @@ XXIX. Acuerdo General 44/2014, del Pleno del Consejo de la Judicatura Federal, q
 CUARTO. Los asuntos en trámite deberán concluirse conforme a las disposiciones con las que fueron iniciados.
 
 QUINTO. Se derogan todas las disposiciones que (sic) opongan al presente Acuerdo General.
+
+D.O.F. 14 DE ENERO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
