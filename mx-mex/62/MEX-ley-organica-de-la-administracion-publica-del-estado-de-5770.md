@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2015-01-13"
+last_updated: "2015-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 13 DE ENERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 14 DE ENERO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -983,59 +983,57 @@ XVIII.- Participar en las comisiones de carácter regional y metropolitano en la
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
 XIX.- Determinar el uso de suelo para las zonas especiales donde se establecerán los conjuntos urbanos de unidades económicas que su actividad principal sea la venta de vehículos usados en tianguis de autos y de aprovechamiento de autopartes de vehículos usados que han concluido su vida útil o siniestrados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
-(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014) N. DE E. VÉASE LITERALIDAD DEL DECRETO, PÁGINA 57.
+XX.- Ampliar y fortalecer los mecanismos de coordinación con los gobiernos Federal, del Distrito Federal, de las entidades federativas vecinas y de los municipios conurbados, para atender de manera integral los asuntos de carácter metropolitano;
 
-XX (SIC).- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXI.- Promover, coordinar y evaluar con las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, las acciones, programas orientados al desarrollo de las zonas metropolitanas o de conurbación en la entidad;
 
-XX.- Promover, coordinar y evaluar con las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, las acciones, programas orientados al desarrollo de las zonas metropolitanas o de conurbación en la entidad;
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXII.- Convocar a las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, a participar directamente en alguna comisión metropolitana cuando así resulte necesario;
 
-XXI.- Convocar a las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, a participar directamente en alguna comisión metropolitana cuando así resulte necesario;
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXIII.- Coordinar y promover con los representantes de la entidad en las comisiones metropolitanas, que los programas y acciones de éstas se vinculen con los objetivos y estrategias del Plan de Desarrollo del Estado de México, a través de un enfoque metropolitano;
 
-XXII.- Coordinar y promover con los representantes de la entidad en las comisiones metropolitanas, que los programas y acciones de éstas se vinculen con los objetivos y estrategias del Plan de Desarrollo del Estado de México, a través de un enfoque metropolitano;
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXIV.- Fortalecer, promover y evaluar los mecanismos de coordinación para planear los trabajos de las comisiones metropolitanas;
 
-XXIII.- Fortalecer, promover y evaluar los mecanismos de coordinación para planear los trabajos de las comisiones metropolitanas;
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXV.- Integrar y coordinar los trabajos de las comisiones metropolitanas que correspondan a las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal;
 
-XXIV.- Integrar y coordinar los trabajos de las comisiones metropolitanas que correspondan a las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal;
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXVI.- Coordinar y dirigir los trabajos de las dependencias estatales en las comisiones metropolitanas, vigilando el cumplimiento de los acuerdos en el ámbito de su competencia;
 
-XXV.- Coordinar y dirigir los trabajos de las dependencias estatales en las comisiones metropolitanas, vigilando el cumplimiento de los acuerdos en el ámbito de su competencia;
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXVII.- Promover, coordinar, vigilar y evaluar los proyectos de inversión metropolitanos, estratégicos de obras y acciones estatales y en materia intermunicipal, cuando así se convenga con los municipios involucrados;
 
-XXVI.- Promover, coordinar, vigilar y evaluar los proyectos de inversión metropolitanos, estratégicos de obras y acciones estatales y en materia intermunicipal, cuando así se convenga con los municipios involucrados;
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXVIII.- Realizar investigaciones y estudios para apoyar las actividades que realiza la Administración Pública Estatal en las zonas metropolitanas de la entidad, así como de aquéllas que se deriven de los programas de las comisiones metropolitanas;
 
-XXVII.- Realizar investigaciones y estudios para apoyar las actividades que realiza la Administración Pública Estatal en las zonas metropolitanas de la entidad, así como de aquéllas que se deriven de los programas de las comisiones metropolitanas;
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXIX.- Asesorar cuando así lo soliciten, a los municipios conurbados en asuntos de carácter metropolitano y de coordinación regional e intermunicipal, para que fortalezcan sus programas de infraestructura y equipamiento urbano;
 
-XXVIII.- Asesorar cuando así lo soliciten, a los municipios conurbados en asuntos de carácter metropolitano y de coordinación regional e intermunicipal, para que fortalezcan sus programas de infraestructura y equipamiento urbano;
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+XXX.- Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter metropolitanos, procurando la promoción de la identidad mexiquense;
 
-XXIX.- Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter metropolitanos, procurando la promoción de la identidad mexiquense;
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
-
-XXX.- Las demás que le señalen otras disposiciones legales.
+XXXI.- Las demás que le señalen otras disposiciones legales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
