@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2014-06-28"
+last_updated: "2015-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2015.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -3775,7 +3775,7 @@ Cuando esta Guardia se cubra con fuerzas del Estado, el Comandante quedará de u
 
 ### CAPITULO VIII. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORCENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -9465,11 +9465,17 @@ En el supuesto del párrafo anterior, la Legislatura sólo autorizará la desinc
 
 I. Acreditar la propiedad del inmueble que se pretende enajenar;
 
-II. Presentar la descripción y ubicación exacta del inmueble, con el plano catastral correspondiente;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2015)</small>
 
-III. Presentar avalúos vigentes del predio que se pretenda enajenar, y
+II. Presentar la descripción y ubicación exacta del inmueble, con el plano catastral correspondiente y fotografías recientes.
 
-IV. Justificar, en su caso, el destino que se le va a dar al inmueble y especificar a favor de quién se va a enajenar.
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2015)</small>
+
+III. Presentar el valor catastral del inmueble, así como su avalúo comercial, este último elaborado por institución financiera legalmente reconocida y con una antigüedad no mayor a un año, a efecto de fundamentar y motivar su precio, con base a los principios de transparencia, oportunidad, eficiencia, eficacia e inmediatez gubernamental, y
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2015)</small>
+
+IV. Justificar el destino que se le va a dar al inmueble y especificar a favor de quién se va a enajenar.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -10691,7 +10697,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Los expedientes que estén en trámite hasta antes de la entrada en vigor de estas disposiciones, se resolverán conforme a las mismas hasta su conclusión.
 
-P.O.19 DE ENERO DE 2005.
+P.O. 19 DE ENERO DE 2005.
 
 DECRETO NO 121/051 P.E. QUE REFORMA ARTS. 688, 699, 703, 706, 708, 709, 715, 722, 724 Y 733 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO
 
@@ -11094,6 +11100,12 @@ Las tarifas a las que se hacen referencia en el presente Decreto, entrarán en v
 Se derogan las demás disposiciones en lo que se opongan al presente Decreto.
 
 P.O. 28 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ENERO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
