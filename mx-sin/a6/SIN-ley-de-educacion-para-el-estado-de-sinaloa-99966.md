@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-99966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2014-05-12"
+last_updated: "2015-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 26 de marzo de 2014.
 
@@ -341,9 +341,17 @@ XIV. Vigilar y prohibir que los planteles públicos del Sistema Educativo Estata
 
 XV. Diseñar programas de beneficio social para abatir la deserción, la reprobación y el rezago educativo, entre otros, mediante el otorgamiento de uniformes y paquetes de útiles escolares cuya utilización en las escuelas públicas, será obligatoria;
 
-XVI. Asignar superficies de terreno idóneas en extensión y calidad para la construcción de planteles escolares en todos los tipos y niveles educativos; y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2015)</small>
 
-XVII. Las demás que sean necesarias para mejorar el servicio educativo y lograr la calidad de la educación.
+XVI. Asignar superficies de terreno idóneas en extensión y calidad para la construcción de planteles escolares en todos los tipos y niveles educativos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE ENERO DE 2015)</small>
+
+XVII. Establecer programas preventivos de Talleres para Padres de Familia, para el fortalecimiento de los valores, cultura cívica y de la legalidad que se traduzcan en familias sólidas, unidas y fuertes que trasciendan con su ejemplo del ámbito familiar al contexto educativo y social; y
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2015)</small>
+
+XVIII. Las demás que sean necesarias para mejorar el servicio educativo y lograr la calidad de la educación.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS AYUNTAMIENTOS
 
@@ -1381,9 +1389,17 @@ III. Colaborar con las instituciones educativas en las que estén inscritos sus 
 
 IV. Participar, de acuerdo con los educadores, en el tratamiento de los problemas de conducta o aprendizaje que confronten sus hijos o pupilos;
 
-V. Verificar que los planteles escolares, en todos sus anexos y demás servicios, sean usados para los fines específicos a que están destinados; y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2015)</small>
 
-VI. Fomentar, en lo concerniente y en conjunto con las autoridades educativas, lo dispuesto en el artículo 15, fracción XXIII, del presente ordenamiento legal.
+V. Verificar que los planteles escolares, en todos sus anexos y demás servicios, sean usados para los fines específicos a que están destinados;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2015)</small>
+
+VI. Fomentar, en lo concerniente y en conjunto con las autoridades educativas, lo dispuesto en el artículo 15, fracción XXIII, del presente ordenamiento legal; y
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2015)</small>
+
+VII. Participar en los Talleres para Padres de Familia.
 
 ###### Artículo 159.
 
@@ -1814,3 +1830,9 @@ P.O. 12 DE MAYO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan al presente Decreto.
+
+P.O. 14 DE ENERO DE 2015.
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El Ejecutivo del Estado, a través de la Secretaría de Educación Pública y Cultura, para dar cumplimiento al presente Decreto deberá realizar las modificaciones necesarias a su normatividad interna dentro de un plazo de 120 días siguientes al inicio de su vigencia.
