@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2014-12-18"
+last_updated: "2015-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ENERO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -266,6 +266,28 @@ VII. No haber sido condenado por delito que amerite pena corporal de más de un 
 
 VIII. Participar y obtener resultado favorable en el concurso de oposición y en los demás exámenes que establece ésta Ley, en los mismos términos de lo que ésta dispone.
 
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 17 Bis.
+
+Para ser Juez de Justicia para Adolescentes en delitos no graves, Penal de delitos no graves, de Ejecución de Sanciones y Civil de cuantía menor, se requiere:
+
+I. Ser mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Tener cuando menos veintiocho años de edad cumplidos al día de la designación;
+
+III. Tener título de Licenciado en Derecho y Cédula Profesional expedida por la autoridad o institución legalmente facultada para ello;
+
+IV. Tener práctica profesional mínima de cuatro años, contados a partir de la obtención del título profesional en el campo jurídico, relacionada con el cargo para el que se concursa;
+
+V. Haber residido en el Distrito Federal o en su área Metropolitana durante los dos años anteriores al día de la designación;
+
+VI. Gozar de buena reputación;
+
+VII. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena, y
+
+VIII. Participar y obtener resultado favorable en el concurso de oposición y en los demás exámenes que establece ésta Ley, en los mismos términos de lo que ésta dispone.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 18.
@@ -352,11 +374,11 @@ Los nombramientos tanto de magistrados como de jueces se realizarán sin perjuic
 
 Los servidores públicos de la administración de justicia, no podrán ser corredores, comisionistas, apoderados judiciales, tutores, curadores, albaceas, depositarios, síndicos, administradores, interventores, árbitros, peritos, asesores jurídicos ni ejercer la abogacía, salvo en asuntos de carácter personal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2015)</small>
 
 ###### Artículo 26.
 
-El retiro de los Jueces y Magistrados se producirá, por sobrevenir incapacidad física o mental que imposibilite el adecuado desempeño del cargo, y voluntariamente a los sesenta y cinco años o a más tardar al cumplir setenta años de edad.
+El retiro de los Jueces y Magistrados se producirá, por sobrevenir incapacidad física o mental que imposibilite el adecuado desempeño del cargo, o al cumplir setenta y cinco años de edad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2014)</small>
 
@@ -812,7 +834,9 @@ Para el desempeño de los asuntos encomendados, cada Sala tendrá cuando menos u
 
 Los Secretarios de Acuerdos y Secretarios Auxiliares de Salas, tendrán en lo conducente, las mismas atribuciones que los Secretarios de Acuerdos de los Juzgados de Primera Instancia.
 
-## TITULO CUARTO. De la Organización de los Juzgados del Tribunal Superior de Justicia
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE ENERO DE 2015)</small>
+
+## TITULO CUARTO. De la Organización de los Órganos Jurisdiccionales del Tribunal Superior de Justicia
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -820,11 +844,9 @@ Los Secretarios de Acuerdos y Secretarios Auxiliares de Salas, tendrán en lo co
 
 (DEROGADO, G.O. 8 DE SEPTIEMBRE DE 2004)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-### CAPITULO II. De los Juzgados del Distrito Federal
+### CAPITULO II. De los Órganos Jurisdiccionales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -932,6 +954,36 @@ Los Juzgados Penales y de justicia para adolescentes conocerán de los delitos e
 
 Los Jueces penales deberán ordenar de manera inmediata la práctica de la notificación a los Agentes del Ministerio Público adscrito, al momento en que se dicten y previo a su ejecución, de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias.
 
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 51 Bis.
+
+Los órganos jurisdiccionales del Sistema Penal Acusatorio que actúen de manera unitaria o colegiada, ejercerán las competencias y atribuciones que les confieran las leyes, a partir de la recepción del turno de trámite que se establecerá por orden numérico en los términos del control que lleve a cabo la Unidad de Gestión Judicial y de conformidad con las reglas que para el efecto expida el Consejo de la Judicatura del Distrito Federal.
+
+Estas reglas deberán garantizar objetividad e imparcialidad en los turnos así como equilibrio en las cargas de trabajo entre los distintos Jueces.
+
+Los servidores públicos del Tribunal y del Consejo de la Judicatura que con motivo de sus funciones posean información sobre el turno y las reglas deberán dar trato estrictamente confidencial a dicha información, haciéndose acreedores, en caso de incumplimiento, a la respectiva sanción penal o administrativa, de acuerdo con el carácter de la infracción.
+
+Los Jueces del Sistema Penal Acusatorio que actúen de manera unitaria o colegiada, conocerán de los delitos en materia de narcomenudeo previstos en el Título Décimo Octavo Capítulo VII de la Ley General de Salud. En los procedimientos penales que se substancien con motivo de los mismos, se observarán las disposiciones previstas en el Artículo 480 de dicho ordenamiento.
+
+De igual manera, y tomando en consideración las características del hecho investigado, por razones de seguridad en las prisiones o por otras que impidan garantizar el desarrollo adecuado del proceso, serán competentes los jueces del sistema penal acusatorio del Distrito Federal, en asuntos donde la comisión del delito es distinta al de su jurisdicción.
+
+Los Jueces de Control, conocerá (sic) desde el inicio de la etapa de investigación hasta el dictado del auto de apertura de juicio; así como resolverán de manera unitaria.
+
+Los Tribunales de Enjuiciamiento que actúen de manera unitaria o colegiada, conocerán desde que se recibe el auto de apertura a juicio oral, hasta la explicación y el dictado de la sentencia; así como resolverán de manera colegiada, cuando se trate de delitos que ameriten prisión preventiva oficiosa o por el volumen de pruebas, víctimas o acusados involucrados en el proceso a consideración del Juez Coordinador. El Tribunal de Enjuiciamiento actuará de manera colegiada cuando esté integrado por tres jueces. En todos los demás casos, será de manera unitaria conforme al turno correspondiente.
+
+En el proceso penal adversarial oral, los jueces y magistrados actuarán sin necesidad de secretarios o testigos de asistencia, y en este caso, tendrán fe pública para certificar los actos que realice (sic) y de las resoluciones que dicten, incluso cuando tales actos consten en registros electrónicos, de audio, video, o se transcriben por escrito.
+
+En materia penal tendrán la validez y eficacia de un documento físico original de registro, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
+
+Las alteraciones que afecten la autenticidad o integridad de dichos soportes los harán perder el valor jurídico que se les otorga en el párrafo anterior.
+
+Cuando un juez de la materia penal utilice los medios indicados en el párrafo anterior de este Artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultan suficientes para acreditar la autenticidad, aunque no se impriman en papel ni sean firmados.
+
+Las autoridades judiciales de la materia penal podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación.
+
+El Pleno del Consejo de la Judicatura dictará los reglamentos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios; para garantizar su seguridad y conservación; así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la ley.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
@@ -1034,7 +1086,9 @@ IV. De las demás diligencias, acuerdos y actividades que les encomiende la Ley 
 
 (DEROGADO, G.O. 10 DE SEPTIEMBRE DE 2009)
 
-### CAPITULO III. De la Organización Interna de los Juzgados
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2015)</small>
+
+### CAPITULO IV (SIC). De La Organización Interna de los Juzgados y Órganos Jurisdiccionales Orales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1057,6 +1111,18 @@ I. Un Juez, que atenderá proporcional y equitativamente las cargas de trabajo c
 II. Los Secretarios de Acuerdos, Conciliadores, Proyectistas y Actuarios que requiera el servicio, y tratándose de Juzgados de Proceso Oral en materia Familiar, los Secretarios Judiciales y Secretarios Auxiliares que requiera el servicio; y
 
 III. Los servidores públicos de la administración de justicia que autorice el presupuesto.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 56 Bis.
+
+El sistema penal acusatorio, a que se refiere este capítulo, tendrá:
+
+I.- Un Juez coordinador, que será elegido por los jueces que integren el sistema cada seis meses; que atenderán proporcional y equitativamente las cargas de trabajo con el objeto de lograr que se cumplan con los principios de publicidad, contradicción, concentración, continuidad e inmediación y aquellos previstos en la Constitución de los Estados Unidos Mexicanos, Tratados Internacionales y demás leyes, que son rectores del procedimiento penal acusatorio, que son necesarios para el conocimiento de los asuntos a su cargo;
+
+II.- Los Auxiliares Judiciales; que autorice el presupuesto y le proporcione la Unidad de Gestión Judicial; previa autorización del Consejo de la Judicatura del Distrito Federal.
+
+III.- Los servidores públicos de la administración de justicia que autorice el presupuesto y le proporcione la Unidad de Gestión Judicial; previa autorización del Consejo de la Judicatura del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1235,6 +1301,20 @@ II. Guardar el debido secreto respecto de los asuntos que le son turnados para l
 III. En la elaboración de proyectos de sentencias o resoluciones, considerar las leyes y disposiciones vigentes aplicables según lo requiera el caso en estudio, atendiendo a las constancias de autos, y
 
 IV. Las demás que deriven de la ley.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 62 Ter.
+
+Son obligaciones de los Auxiliares Judiciales de los Jueces del Sistema Penal Acusatorio:
+
+I. Allegar de los instrumentos de conocimiento jurídico que sean necesarios para el razonamiento jurídico que deba realizar el juez al momento de deliberar previo y dentro de la audiencia.
+
+II. Realizar la transcripción de las audiencias que se celebren y de las que hace mención el Código Nacional de Procedimientos Penales, asentando su participación mediante firma en cada foja. Además de integrar las leyes y disposiciones vigentes aplicables según lo requiera el caso en estudio, atendiendo los términos señalados por su titular, y
+
+III. Guardar el debido secreto en su colaboración en los escritos que se hacen mención en la fracción anterior y,
+
+IV. Las demás que deriven de la ley y los acuerdos (sic) para el efecto emita el Consejo de la Judicatura del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2682,6 +2762,132 @@ Asimismo, y en apoyo de la función jurisdiccional, la Oficialía Mayor tendrá 
 
 La Oficialía Mayor estará a cargo de un servidor público que se denominará Oficial Mayor. Para desempeñar dicho cargo, se deben cumplir los requisitos establecidos por las fracciones I, II, IV, y V del artículo 16 de esta Ley. Además contar con título profesional a nivel de licenciatura y acreditar una experiencia mínima de diez años en áreas o actividades afines al desempeño del cargo.
 
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+El Director General de Gestión Judicial dependerá de la Oficialía Mayor, la que será responsable de organizar, dirigir y controlar la gestión administrativa, favoreciendo de manera eficiente y eficaz los recursos y procesos, proporcionando un soporte técnico a los jueces.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 182. Bis.
+
+Para ser Director General de Gestión se requiere:
+
+I. Ser mayor de veintiocho años;
+
+II. Ser licenciado en derecho con conocimientos en administración o licenciado en administración; y
+
+III. No haber sido condenado por delito doloso.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+Artículo. 182 Ter. El Director General de Gestión, tendrá las siguientes obligaciones y facultades:
+
+I. Proporcionar soporte logístico-administrativo a los Jueces para la adecuada celebración de las audiencias;
+
+II. Proveer, en la esfera administrativa, la programación de las diligencias a desarrollarse en las salas de audiencia a su cargo y, en general, todas las medidas necesarias para la buena marcha del Tribunal.
+
+III. Administrar en forma equitativa las agendas de los jueces con base en el control de cargas de trabajo e informar a los Jueces el detalle de la ejecución de las audiencias;
+
+IV. Coordinar el archivo de las Carpetas Judiciales;
+
+V. Gestionar los medios y los recursos para la entrega de las notificaciones;
+
+VI. Establecer los estándares de servicio de las áreas de atención ciudadana;
+
+VII. Elaborar y publicar la agenda del Tribunal;
+
+VIII. Solicitar el traslado del imputado a la Policía Procesal y pedir apoyo de seguridad durante la audiencia;
+
+IX. Coordinar la grabación sistemática de todas las audiencias y administrar el archivo de las mismas;
+
+X. Difundir los lineamientos y normatividad en los Tribunales.
+
+XI. Acordar con el Juez coordinador la resolución de los asuntos cuya tramitación se encuentre dentro de su área de su competencia;
+
+XII. Someter a la aprobación del Oficial Mayor los estudios y proyectos que se elaboren en las unidades administrativas a su cargo;
+
+XIII. Establecer las normas, políticas y procedimientos para la adecuada operación de todas las unidades administrativas bajo su responsabilidad;
+
+XIV. Establecer los objetivos, metas y programas de trabajo de las áreas bajo su cargo;
+
+XV. Coordinarse con los titulares de otras unidades administrativas cuando el caso lo requiera para el buen funcionamiento del área;
+
+XVI. Formular el Programa Operativo Anual correspondiente para su instancia;
+
+XVII. Promover la capacitación y adiestramiento, así (sic) con el desarrollo de su personal, en coordinación con el área responsable de ello;
+
+XVIII. Revisar los reportes de las áreas de Control de Gestión que pertenecen a sus unidades y actuar en consecuencia;
+
+XIX. Concentrar la información y elaborar el proyecto de informe anual de su área para someterlo a su superior inmediato.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 182 Ter 1.
+
+La Unidad de Gestión Judicial, por el número que se necesiten dependerá del Director General de Gestión.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 182 Ter 2.
+
+La Unidad de Gestión Judicial, es un órgano de control y gestión judicial encargada de planificar, organizar, implementar, controlar y dirigir un equipo multidisciplinario de gestión tendiente a desarrollas (sic) con efectividad en todo al sistema penal acusatorio.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 182 Ter 3.
+
+La Unidad de Gestión Judicial, estará integrada por:
+
+I. Administrador;
+
+II. Jefe de Unidad de Causas y ejecuciones;
+
+III. Jefe de Unidad de Servicios Generales y Recursos Materiales;
+
+IV. Jefe de Unidad de Sala;
+
+V. Jefe de la Unidad de Notificación;
+
+VI. Unidad de Mantenimiento
+
+VII. Unidad de Informática y
+
+VIII. El personal auxiliar que determine el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 182 Ter 4.
+
+El Administrador de las Unidades de Gestión será responsable de:
+
+I.- Tendrá el resguardo de las salas de audiencias donde se despachen los Jueces de Control y el Tribunal de Enjuiciamiento;
+
+II.- Proponer el nombramiento al Pleno del Consejo de la Judicatura del Distrito Federal de la lista de aspirantes aprobados del jefe de Unidad de causa, tocas, notificaciones y citaciones;
+
+III.- Nombrar y designar de la lista de aspirantes aprobados al encargo de las unidades de Causas y Atención al Público; Servicios Generales y Recursos Materiales y Sala; para las unidades de mediación, informática y el personal de mantenimiento serán responsables de nombrar las áreas competentes del Tribunal encargadas de la materia.
+
+IV.- Ejecutar las acciones necesarias para el desarrollo del sistema de gestión en apoyo al servicio de los jueces, bajo los lineamientos autorizados por el Consejo de la Judicatura;
+
+V.- Dirigir los trabajos y supervisar el desempeñó del personal a su cargo;
+
+VI.- Vigilar la correcta y eficiente aplicación de los recursos asignados a su unidad;
+
+VII.- Vigilar el rol de turnos de los Jueces y demás personal del Tribunal Superior de Justicia del Distrito Federal, se realice en tiempo y forma;
+
+VIII.- Guardar el debido secreto respecto de los asuntos que por su oficio o puesto tenga conocimientos (sic);
+
+IX.- Vigilar que el personal a su cargo guarde el debido secreto respecto de los asuntos que por su oficio o puesto tengan conocimiento;
+
+X.- Determinar las medidas disciplinarias a su personal;
+
+XI.- Mantener en continua capacitación al personal bajo su dirección;
+
+XII.- Coordinar y controlar la ubicación y distribución adecuación (sic) del personal, acorde con sus perfiles, competencias y naturaleza profesional;
+
+XIII.- Determinar qué Juez conocerá en caso de excusas, impedimentos o recusas;
+
+XIV.- Las demás que le confieran las leyes, reglamentos y acuerdos que emita el Consejo de la Judicatura del Distrito Federal.
+
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ### CAPITULO XI. De la Dirección de Orientación Ciudadana y Derechos Humanos
@@ -2866,7 +3072,7 @@ El Director General, los Directores y Subdirectores de Mediación del Centro de 
 
 ## TITULO NOVENO. De la Carrera Judicial
 
-### CAPITULO II. Facultades y Obligaciones del Consejo de la Judicatura del Distrito Federal
+### CAPITULO II. Facultades y obligaciones de (sic) Consejo de la Judicatura del Distrito Federal
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -3090,6 +3296,10 @@ VI. Las resoluciones del Pleno, y en su caso de las Comisiones del Consejo de la
 
 VII. El consejero que disintiera de la mayoría deberá formular por escrito voto particular, el cual se engrosará en el acta respectiva y será presentado dentro de los tres días hábiles siguientes a la fecha del acuerdo y versará sobre los puntos de disidencia que hayan sido discutidos en la sesión correspondiente.
 
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2015)</small>
+
+VIII. Para conocer y resolver, única y exclusivamente de los procedimiento (sic) de queja a que se refiere el Artículo 135 del Código Nacional de Procedimientos Penales, previsto en los Artículo (sic) 251 Bis a 215 Bis 5 de esta Ley; la Comisión de Disciplina del Consejo de la Judicatura del Distrito Federal, actuará de manera unitaria, a través del consejero semanero en turno, facultando incluso para la imposición de sanciones correspondiente a que se haga acreedor el servidor público por omitir el cumplimiento de la resolución de queja a que se refiere el Código Nacional (sic) Procedimientos Penales, de la que fue previamente apercibido.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 200.
@@ -3114,7 +3324,7 @@ Siempre que el Consejo de la Judicatura del Distrito Federal considere que los a
 
 La ejecución de las resoluciones deberá realizarse por conducto de los órganos del propio Consejo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE ENERO DE 2015)</small>
 
 ### CAPITULO UNICO
 
@@ -3146,9 +3356,15 @@ IV. Resolver, por causa justificada, sobre la remoción de Jueces y Magistrados,
 
 V. Vigilar que se cumplan las disposiciones que sobre la carrera judicial señale esta Ley, y aprobar los planes y programas del Instituto de Estudios Judiciales;
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2015)</small>
 
-VI. Conocer y resolver las quejas que no sean de carácter jurisdiccional, así como los procedimientos oficiosos contra actos u omisiones de los miembros del Consejo de la Judicatura del Distrito Federal, Magistrados, Jueces y demás servidores de la administración de Justicia, haciendo la sustanciación correspondiente y, en su caso, imponer la medida disciplinaria procedente.
+VI. Conocer y resolver las quejas que no sean de carácter jurisdiccional, así como los procedimientos oficiosos contra actos u omisiones de los miembros del Consejo de la Judicatura del Distrito Federal, Magistrados, Jueces y demás servidores de la administración de Justicia, haciendo la sustanciación correspondiente y, en su caso, imponer la medida disciplinaria procedente; así como conocer y resolver las quejas a que hace referencia el Artículo 135 del Código Nacional de Procedimientos Penales;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE ENERO DE 2015)</small>
+
+Precisando que en tratándose del procedimiento de queja al que hace referencia el Artículo 135 (sic) Código Nacional de Procedimientos Penales; conocerá la Comisión de Disciplina del Consejo de la Judicatura, a través del Consejero Semanero quien tramitará y resolverá de manera unitaria.
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 Estas facultades se ejercerán, por conducto de la Comisión de Disciplina Judicial, la que resolverá en primera instancia. El Pleno del Consejo de la Judicatura del Distrito Federal resolverá en segunda instancia y de forma definitiva e inatacable de conformidad con esta ley y los acuerdos expedidos para el efecto;
 
@@ -3182,9 +3398,9 @@ XII. Designar a un Secretario General del Consejo, el cual asistirá a las sesio
 
 XIII. Designar al Jurado que con la cooperación de instituciones públicas o privadas se integrará para el examen que presentarán las personas que deban ejercer los cargos de peritos, en los asuntos que se tramiten ante el Tribunal y dentro de los requisitos que esta Ley señale;
 
-> <small>(REFORMADA, G.O. 8 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2015)</small>
 
-XIV. Nombrar al Oficial Mayor; al Contralor General; al Director del Archivo Judicial del Distrito Federal; al Director General de los Anales de Jurisprudencia y Boletín Judicial; al Director General del Instituto de Estudios Judiciales; al Visitador General; a los Visitadores Judiciales; al Director Jurídico; al Coordinador de Relaciones Institucionales; al Jefe de la Unidad de Trabajo Social; al Director del Servicio de Informática; al Encargado del Servicio de Biblioteca; al Director General de Procedimientos Judiciales, a los Directores de esta Unidad; al Director de Orientación Ciudadana y Derechos Humanos; al Coordinador de Comunicación Social, al Director del Centro de Convivencia Familiar Supervisada; y al Director General del Centro de Justicia Alternativa;
+XIV. Nombrar al Oficial Mayor; al Contralor General; al Director del Archivo Judicial del Distrito Federal; al Director General de los Anales de Jurisprudencia y Boletín Judicial; al Director General del Instituto de Estudios Judiciales; al Visitador General; a los Visitadores Judiciales; al Director Jurídico; al Coordinador de Relaciones Institucionales; al Jefe de la Unidad de Trabajo Social; al Director del Servicio de Informática; al Encargado del Servicio de Biblioteca; al Director General de Procedimientos Judiciales, a los Directores de esta Unidad; al Director de Orientación Ciudadana y Derechos Humanos; al Coordinador de Comunicación Social, al Director del Centro de Convivencia Familiar Supervisada; al Director General del Centro de Justicia Alternativa; al Director General de Gestión, al Administrador de la Unidad de Gestión Judicial Penal y al Director de la Unidad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso ambos del Sistema Penal Acusatorio.
 
 XV. Nombrar a los servidores públicos judiciales de base y de confianza, cuya designación no esté reservada a otra autoridad judicial, en los términos de esta Ley;
 
@@ -3362,6 +3578,88 @@ El acta levantada por el Visitador será entregada al titular del órgano visita
 
 El Consejo de la Judicatura del Distrito Federal, podrá ordenar la realización de visitas extraordinarias de inspección o acordar la integración de Comisiones Especiales de Investigación, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por un Juez, o por un Magistrado. En dichas Comisiones intervendrá además el Visitador General.
 
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 207 Bis.
+
+La Unidad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso tiene como objeto dotar al juez de los elementos suficientes para emitir una medida cautelar y su seguimiento.
+
+La Unidad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso estará integrada por:
+
+Un Director designado por el Pleno del Consejo de la Judicatura.
+
+La jefatura de departamento de evaluación del nivel de riesgo del imputado y, en consecuencia, la medida cautelar más apropiada para su caso.
+
+Evaluadores de riesgo, que se encuentren ubicados en las unidades de control de detención ya que constituyen un lugar en donde serán trasladados los detenidos, se considera para facilitar las entrevistas a los detenidos y que sean suficientes como el Consejo de la Judicatura determine.
+
+Áreas de supervisión de medidas cautelares, encargados de verificar su cumplimiento adecuado a través de las redes institucionales que para tal efecto se hayan articulado y mediante la verificación presencial por parte de los responsables de ésta área.
+
+Oficina de control de gestión, área responsable de concentrar las relacionadas con el control de reportes e indicadores.
+
+Oficina de relaciones interinstitucionales, a esta área le corresponde mantener las buenas relaciones interinstitucionales.
+
+Para ser Director de la Unidad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso se requiere:
+
+I.- Tener cuando menos veinticinco años cumplidos;
+
+II.- Contar con título universitario afín a las tareas de su encomienda;
+
+III.- No haber sido condenado en sentencia ejecutoriada por delito doloso, y
+
+IV.- Acreditar el proceso de selección que elabore el Consejo de la Judicatura.
+
+Para ser jefe de departamento, entrevistador o supervisor de la Autoridad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso se deberá:
+
+I.- Tener cuando menos veinticinco años cumplidos;
+
+II.- Contar con título universitario afín a las tareas de su encomienda;
+
+III.- No haber sido condenado en sentencia ejecutoriada por delito doloso, y
+
+IV.- Acreditar el examen de aptitud que elabore el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 207 Ter.
+
+La Unidad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso, ejercerá las obligaciones que confiere el Código Nacional de Procedimientos Penales a la Autoridad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso; y tendrá, además, las facultades de:
+
+I.- Entrevistar al imputado previamente a la realización de cualquier audiencia sobre medidas cautelares, para obtener información relevante para decidir sobre las medidas cautelares. Antes de empezar la entrevista, el funcionario encargado debe hacerle saber el objetivo de la entrevista, que tiene derecho a que su defensor esté presente durante la misma, que puede abstenerse de suministrar información y que aquélla que proporcione no podrá ser usada para demostrar su culpabilidad. La entrevista se llevará a cabo con la presencia del defensor, en caso de que no esté presente su defensor, se llevará a cabo con un defensor de oficio;
+
+II.- Verificar la información proporcionada por el imputado y recolectar aquella otra que sea relevante para decidir o modificar las medidas, de modo tal que éstas resulten adecuadas para que el imputado cumpla con sus obligaciones procesales. La información deberá incluir datos sobre la historia personal del imputado, sus lazos con la comunidad, relaciones familiares, amistades, empleos, lugares de residencia, estudios, antecedentes penales, y cualquier otra información pertinente;
+
+III.- Elaborar reportes para el Juez que contengan la información recabada en sus indagaciones, así como sus observaciones y recomendaciones sobre la necesidad y el tipo de medidas cautelares que sería necesario imponer al imputado para asegurar la protección e integridad de la víctima, de los testigos o de terceros; el desarrollo de la investigación o la comparecencia del imputado al proceso. En caso de urgencia el reporte podrá hacerse de manera verbal en una audiencia ante el Juez con la presencia de las partes. Cuando la publicidad afecte innecesariamente los derechos del imputado, a solicitud de éste, la audiencia podrá celebrarse en privado, siempre que sea grabada y preservada en el registro, bajo reserva, hasta que no exista justificación para levantarla;
+
+IV.- Entregar a las partes, al inicio de la audiencia en la que se discutan medidas cautelares, copias de los reportes relacionados con las mismas y recogerlos al término de la audiencia;
+
+V.- Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a la prisión preventiva, vigilar el estricto cumplimiento por parte del imputado de las obligaciones impuestas, y hacer recomendaciones sobre cualquier cambio que amerite alguna modificación de las medidas; y
+
+VI. Las demás que determine la Ley o demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 207 Quater.
+
+Para cumplir con sus facultades de supervisión y vigilancia de la Unidad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso podrán:
+
+I.- Establecer las condiciones y la periodicidad en que los imputados deben reportarse, canalizar a los imputados a servicios sociales de asistencia, públicos o privados, en materia de salud, empleo, educación, vivienda y apoyo jurídico;
+
+II.- Realizar visitas no anunciadas en los domicilios o lugares de trabajo de los imputados;
+
+III.- Requerir que los imputados proporcionen muestras para detectar el posible uso de alcohol, en su caso, o de drogas prohibidas;
+
+IV.- Supervisar que las personas e instituciones a las que el Juez encargue el cuidado del imputado, cumplan las obligaciones contraídas; y solicitar a los imputados informes y reportes que sean necesarios para verificar el cumplimiento de las condiciones impuestas;
+
+V.- Revisar y recomendar el cambio de las condiciones de las medidas impuestas al imputado, de oficio o a solicitud de parte, cuando cambien las circunstancias originales que sirvieron de base para imponer la medida;
+
+VI.- Informar al Juez de cualquier violación a las medidas y condiciones impuestas y recomendar las modificaciones que estime pertinentes;
+
+VII. Realizar estudios estadísticos sobre el nivel del cumplimiento y efectividad de las medidas cautelares impuestas por los jueces;
+
+VIII.- Solicitar y proporcionar información a las oficinas con funciones similares de la Federación o de los Estados, y
+
+IX.- Las demás que determine la Ley o demás disposiciones aplicables.
+
 > <small>(REFORMADO [N. DE E. REUBICADO, ANTES TÍTULO DÉCIMO PRIMERO], G.O. 24 DE ABRIL DE 2003)</small>
 
 ## TITULO DUODÉCIMO. De la Sustitución en Caso de Impedimentos, Recusaciones y Excusas
@@ -3375,6 +3673,12 @@ El Consejo de la Judicatura del Distrito Federal, podrá ordenar la realización
 ###### Artículo 208.
 
 Si un Juez deja de conocer un caso por impedimento, recusación o excusa, remitirá el expediente a la Dirección General de Procedimientos Judiciales, para que lo envíe al Juzgado que corresponda, de acuerdo con el turno respectivo.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 208 Bis.
+
+Si el Juez deja de conocer un caso por impedimento, recusación o excusa, remitirá el expediente a la Unidad de Gestión Judicial, para que ésta lo envíe al Tribunal de Alzada que corresponda conocer y resolver de las excusas y recusaciones de los Jueces de Control, Tribunal de Enjuiciamiento y Jueces de Ejecución del Distrito Federal, de acuerdo con el turno respectivo.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTICULO 205], G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -3396,11 +3700,9 @@ Si todas las Salas o Magistrados del ramo estuvieren impedidos de conocer, pasar
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO III. De los Órganos y Sistemas para la Imposición de las Sanciones Administrativas
+### CAPITULO II BIS. De las Sanciones
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2015)</small>
 
 ###### Artículo 210.
 
@@ -3456,7 +3758,9 @@ La interposición de dicho recurso tendrá como efecto el que quede en suspenso 
 
 Siempre que se presente una denuncia o queja en contra de algún servidor público de la administración de justicia, la Comisión de Disciplina Judicial del Consejo de la Judicatura del Distrito Federal, formará inmediatamente el expediente respectivo con expresión del día y hora en que se reciba la queja, a efecto de que concluya inexcusablemente por resolución dentro de un término no mayor de veintidós días hábiles, para la primera instancia, y de treinta días hábiles para la segunda y definitiva, en su caso.
 
-El término de veintidós días hábiles que refiere este artículo, comenzará a correr, a partir del día siguiente en que hubiera surtido sus efectos el emplazamiento o notificación del acuerdo en el que se hace del conocimiento del quejoso y servidores públicos involucrados, la apertura o inicio del procedimiento y el término para que dichos servidores públicos rindan informe con justificación.
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2015)</small>
+
+El término de veintidós días hábiles que refiere este Artículo, comenzará a correr una vez que se cierre la etapa de instrucción y sea entregado físicamente el expediente al consejero ponente para su análisis y resolución correspondiente.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -3475,6 +3779,18 @@ Las quejas que se formulen deberán estar apoyadas en pruebas documentales o ele
 ###### Artículo 213.
 
 El Consejo de la Judicatura del Distrito Federal, por medio de la Comisión de Disciplina Judicial, deberá substanciar el expediente relativo, solicitando un informe al servidor público denunciado, quien deberá rendirlo por escrito en un plazo no mayor de tres días hábiles, contados a partir de la notificación, en el que podrá ofrecer las pruebas que estime necesarias.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+En cualquier etapa del proceso disciplinario, se podrá acordar la suspensión temporal del servidor público involucrado en su cargo, empleo o comisión, si a juicio del Pleno del Consejo de la Judicatura del Distrito Federal, conviniere para el desarrollo de la investigación, pudiendo determinar mediante criterio razonado, el porcentaje de salario que le deba corresponder durante dicha suspensión. La suspensión temporal no prejuzga sobre la determinación final que se tome. Si el servidor público temporalmente suspendido, no resultare responsable de la falta que se le haya imputado, será restituido en el goce de sus derechos, y se le cubrirá (sic) las percepciones que debió recibir durante la suspensión.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+La suspensión temporal cesará cuando así lo determine el Pleno del Consejo de la Judicatura o hasta que se emita en el mismo procedimiento, la resolución de primera instancia..
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+Entre tanto, se substancia el procedimiento disciplinario y una vez suspendido temporalmente al presunto infractor, el Pleno del Consejo deberá proveer respecto del servidor público que en forma interina deberá suplirlo.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -3507,6 +3823,52 @@ El Presidente o cualesquier miembro del Consejo de la Judicatura del Distrito Fe
 La Comisión de Disciplina Judicial deberá informar al Pleno del Consejo la resolución correspondiente.
 
 El Pleno del Tribunal Superior de Justicia del Distrito Federal está facultado para supervisar en todo tiempo la secuela procesal.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 215 Bis.
+
+Procederá la queja a que se refiere el Artículo 135 del Código Nacional de Procedimientos Penales, en contra del Juzgador de primera instancia del Distrito Federal por omitir un acto procesal dentro de los plazos señalados en el Código Nacional de Procedimientos Penales.
+
+La queja se substanciará sin perjuicio de otras posibles consecuencias legales que conlleve la omisión del juzgador.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 215 Bis 1.
+
+La queja a que se refiere el Artículo anterior, se interpondrá por escrito o por cualquier medio electrónico que sea autorizado por el Consejo de la Judicatura del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 215 Bis 2.
+
+Una vez recibida la queja ante el Consejo de la Judicatura del Distrito Federal, por medio de la Comisión de Disciplina Judicial, ésta se radicará sin dilación alguna, turnándose al Consejero semanero, quien en un plazo no mayor a tres días de haberla recibido resolverá lo conducente.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 215 Bis 3.
+
+El Consejero semanero al que se le haya turnado la queja, requerirá al Juez para que en un término de 24 horas:
+
+a) Subsane la posible omisión motivo de la queja; o bien,
+
+b) Realice un informe breve y conciso sobre las razones por las que no se ha verificado el acto procesal o la formalidad exigidas en la norma omitida.
+
+Debiendo remitir el Órgano Jurisdiccional al Consejo de la Judicatura las probanzas que considere necesarias para acreditar que ha subsanado la omisión, o, en su caso el informe junto con las pruebas que estime indispensables para corroborar el mismo.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 215 Bis 4.
+
+Transcurrido el plazo señalado en el numeral anterior, con noticia o no de que el Órgano Jurisdiccional ha subsanado la omisión, o, que haya rendido o no el informe, se dictará la resolución que proceda, sin que este pueda exceder del plazo a que se refiere el Artículo 215 Bis 2.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 215 Bis 5.
+
+Si se estima fundada la queja, el Consejero Semanero ordenará al Juez la realización del acto omitido, apercibiéndolo de las imposiciones de las sanciones previstas por esta Ley Orgánica en caso de incumplimiento; sin que en ningún caso el Consejo pueda ordenar los términos y condiciones en que deberá subsanar la omisión, limitando su resolución a que realice el acto omitido.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -3558,9 +3920,9 @@ La declaración de responsabilidad por faltas producirá el efecto de impedir al
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO IV. Del Recurso de Revisión Administrativa
+### CAPITULO III. De los Órganos y Sistemas para la Imposición de las Sanciones Administrativas
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2015)</small>
 
 ###### Artículo 220.
 
@@ -3598,9 +3960,9 @@ XV. Alterar el orden de las listas al hacer el nombramiento de auxiliares de la 
 
 XVI. Dedicar a los servidores públicos de la administración de justicia de su dependencia, al desempeño de labores extrañas o ajenas a las funciones oficiales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE ENERO DE 2015)</small>
 
-XVII. (DEROGADA, G.O. 10 DE SEPTIEMBRE DE 2009)
+XVII. Desobedecer injustificadamente las circulares, acuerdos y órdenes expedidas por el Tribunal Superior de Justicia y el Consejo de la Judicatura del Distrito Federal;
 
 XVIII. Dejar de aplicar una ley, desacatando una disposición que establece expresamente su aplicación;
 
@@ -3619,6 +3981,42 @@ XXI. No ordenar la práctica de la notificación de manera inmediata a los Agent
 XXII. No iniciar y dar el trámite correspondiente a los procedimientos administrativos a aquel servidor público que esté a su cargo y que incurra en alguna de las faltas previstas por esta ley, así como no remitir la correspondiente acta al Consejo de la Judicatura del Distrito Federal o a la autoridad competente.
 
 En el caso de las fracciones IV, V, VI, VIII, IX y XIII será requisito de procedibilidad que la resolución de que se trate haya sido revocada.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 220 Bis.
+
+Son faltas de los Jueces del Sistema Oral:
+
+I.- No presidir la audiencia en el horario establecido;
+
+II.- No excusarse del asunto inmediatamente tenga conocimiento de la actualización de una de las hipótesis del Artículo 37 del Código Nacional de Procedimientos Penales;
+
+III.- Permitir se violen los principios rectores del sistema penal acusatorio;
+
+IV.- Declararse incompetente por declinatoria o inhibitoria en razón de seguridad;
+
+V.- Dictar resolución o sentencias por escrito contrarias o en exceso de lo que emitió en sala de audiencias;
+
+VI.- Dictar resolución o sentencias por escrito fuera de los términos establecidos por la ley de la materia;
+
+VII.- No llevar un orden en las audiencias que presida;
+
+VIII.- No realizar de manera justificada las diligencias urgentes antes de que se dicte auto de apertura a juicio oral;
+
+IX.- No emitir su voto particular por escrito dentro de los 3 días a que se refiere el Artículo 67 último párrafo del Código Nacional de Procedimientos Penales;
+
+X.- No firmar las resoluciones en las que participó a pesar de que sea suplida dicha falta con posterioridad;
+
+XI.- No resolver de inmediato el sobreseimiento cuando proceda;
+
+XII.- No recibir la garantía en efectivo cuando por razones de la hora o por tratarse de día inhábil no pueda constituirse el depósito o no realice el registro correspondiente;
+
+XIII.- Celebrar audiencia sin estar presentes todas las partes que en ella debe intervenir;
+
+XIV.- No realizar previo apercibimiento, el cumplimiento de la resolución proveniente del procedimiento de queja a que se refiere los Artículos 215 Bis a 215 Bis 5 de esta Ley Orgánica;
+
+XV.-Las demás que le confiera (sic) las leyes, reglamentos y acuerdos del Consejo de la Judicatura del Distrito Federal.
 
 (ADICIONADO, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 1 DE JULIO DE 2003)
 
@@ -3776,17 +4174,21 @@ I. Dejar de cumplir con las obligaciones inherentes a su cargo, reguladas por el
 
 II. Las demás que deriven de la ley.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2015)</small>
 
 ###### Artículo 226.
 
-Son faltas de los servidores públicos de los Juzgados, Salas, Direcciones, Presidencia y demás dependencias del Tribunal Superior de Justicia del Distrito Federal:
+Son faltas de los servidores públicos de los juzgados, salas, direcciones, unidad de gestión judicial, presidencia y demás dependencias del Tribunal Superior de Justicia del Distrito Federal:
 
 > <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
 I. Solicitar a cualquiera de las partes, retribuciones económicas o materiales por sí o por interpósita persona, como condición para el desempeño de sus obligaciones o rehusarse a recibir los escritos y promociones de cualquiera de las partes, así como aceptar o recibir dádivas o retribuciones de cualquier índole por el desempeño de sus funciones.
 
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+
 II. No concurrir a las horas reglamentarias al desempeño de sus labores;
+
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
 III. No atender oportunamente y de forma correcta a los litigantes y público en general;
 
@@ -3818,19 +4220,19 @@ Por su parte, las faltas de los Oficiales Notificadores se sujetarán a lo dispu
 
 Los servidores públicos adscritos a la Unidad de Gestión Administrativa, a la Unidad de Apoyo Tecnológico y a la Central de Comunicaciones Procesales, cometerán falta si incurren en alguno de los supuestos previstos en las fracciones I, VI, VII y VIII del artículo 224; de la fracción III del artículo 224 bis; de las fracciones II y III del artículo 225; así como los supuestos establecidos en el artículo 226 de la presente Ley.
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
 
-### CAPITULO UNICO
+### CAPITULO IV. Del Recurso de Revisión Administrativa
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 227.
 
-Las faltas en que incurran los servidores públicos, previstas en los artículos 220 fracciones I a IV, XII, XIV y XVI a XXI; 221, incisos a) y b); 223, con excepción de la fracción III; 224, salvo la fracción IX; 225 fracciones II a V y 226 fracciones II a VII, serán sancionadas, la primera vez con amonestación por escrito, y la segunda, con multa en los términos de la fracción II del artículo 216, debiéndose tomar nota en el expediente de dicho servidor público. Si la falta es de las que se refieren en la fracción IX del artículo 224, 224 bis, 225 bis, la fracción I del artículo 225 o en la fracción I del artículo 226, se le sancionará con multa si es la primera vez que se comete, y la segunda vez se le sancionará con suspensión temporal.
+Las faltas en que incurran los servidores públicos, previstas en los Artículos 220 fracciones I a IV, XII, XIV y XVI a XXI; 220 Bis fracciones I a XIV y XVI; 221, incisos a) y b); 223, con excepción de la fracción III; 224, salvo la fracción IX; 225 fracciones II a V y 226 fracciones II a VII, serán sancionadas, la primera vez con amonestación por escrito, y la segunda, con multa en los términos de la fracción II del Artículo 216, debiéndose tomar nota en el expediente de dicho servidor público. Si la falta es de las que se refieren en la fracción IX del Artículo 224, 224 Bis, 225 Bis, la fracción I del Artículo 225 o en la fracción I del Artículo 226, se le sancionará con multa si es la primera vez que se comete, y la segunda vez se le sancionará con suspensión temporal.
 
-En el caso de reincidencia en una tercera ocasión tratándose del artículo 224 bis, el proyectista será separado del cargo.
+En el caso de reincidencia en una tercera ocasión tratándose del Artículo 224 Bis, el proyectista será separado del cargo.
 
-Todo lo anterior, sin perjuicio de la facultad del Consejo de la Judicatura del Distrito Federal, a que se refiere el artículo 228 Bis de esta ley.
+Todo lo anterior, sin perjuicio de la facultad del Consejo de la Judicatura del Distrito Federal, a que se refiere el Artículo 228 Bis de esta ley.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -3852,17 +4254,89 @@ II.- Los antecedentes del infractor;
 
 III.- La reincidencia en la comisión de faltas; y
 
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 228 Bis 1.
+
+Cuando un Juez del sistema penal acusatorio, haya incurrido, en la falta a que se refiere el numeral 220 Bis fracción XV de esta Ley Orgánica, se le impondrá como sanción:
+
+Cuando se trate de la primera vez, multa a que se refiere la fracción II del Artículo 216 de esta Ley Orgánica, debiéndose tomar nota en el expediente de dicho servidor público;
+
+Cuando se trate de segunda ocasión en dicha hipótesis, suspensión temporal de cinco días a cinco meses, sin goce de sueldo;
+
+Cuando se trate de la tercera ocasión en dicha hipótesis, será separado de su cargo, conforme a la fracción IV del Artículo 216.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 228 Bis 2.
+
+Cuando un Juez del sistema oral, haya incurrido, en alguna de las omisiones a que se refiere el numeral 215 Bis de esta Ley Orgánica, y ésta haya sido subsanada dentro del término de veinticuatro horas que menciona el diverso 215 Bis 3, se le impondrá como sanción:
+
+I.- Cuando se trate de la primera vez una amonestación;
+
+II.- Cuando se cometa por segunda ocasión esta hipótesis, se le impondrá la multa a que se refiere la fracción II del Artículo 216 de esta Ley Orgánica, debiéndose tomar nota en el expediente de dicho servidor público;
+
+III.- Cuando se trate de tres ocasiones en dicha hipótesis, suspensión temporal de cinco días a cinco meses, sin goce de sueldo.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 228 Ter.
+
+Para la imposición de las sanciones con motivo de las faltas señaladas en la presente ley, la Comisión de Disciplina Judicial deberá tomar en cuenta los siguientes elementos:
+
+I.- La gravedad de la responsabilidad en que se incurra;
+
+II.- Los antecedentes del infractor:
+
+III.- La reincidencia en la comisión de cualquiera de las faltas previstas; de conformidad con lo dispuesto en los Artículos 227 y 228 de esta ley, dentro de los seis años anteriores..
+
+Para los efectos de la fracción I, se considerarán como faltas graves el incumplimiento de las obligaciones previstas en:
+
+a).- El Artículo 58, fracciones I a VIII y XII a XVI de esta ley;
+
+b).- El Artículo 59 fracción I del presente ordenamiento;
+
+c).- El Artículo 60 fracciones I a III, VI y VII de esta ley;
+
+d).- El Artículo 61 fracciones III y IV;
+
+e).- El Artículo 62 Bis de la presente ley, con excepción de la fracción IV.
+
+Igualmente serán consideradas como faltas graves:
+
+f) Las que se refieren las fracciones I a XIII y XVI a XX del Artículo 220 de esta ley;
+
+g) El Artículo 221 del presente ordenamiento;
+
+h) El Artículo 223, fracciones I a V de la presente ley;
+
+i) El Artículo 224, fracciones I, III, IV y VII a IX de esta ley;
+
+j) El Artículo 224 Bis, con excepción de la fracción VI de este ordenamiento;
+
+k) El Artículo 225 y 225 Bis de la presente ley;
+
+l) El Artículo 226, con excepción de la fracción VII, de este ordenamiento legal.
+
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 229.
 
 Todas las disposiciones contenidas en este Capítulo serán aplicables, sin perjuicio de lo que previenen las demás disposiciones legales aplicables a los Servidores del Tribunal Superior de Justicia del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2015)</small>
 
-###### Articulo 230.
+###### Artículo 230.
 
-Cuando un servidor público de la administración de justicia sea sancionado por cometer tres faltas en el desempeño de un mismo cargo, dentro de un período de hasta tres años, será separado del cargo conforme a la fracción IV del artículo 216.
+La separación del cargo a que hace referencia la fracción IV del Artículo 216 de esta Ley, se impondrá al resolver el procedimiento oficioso o de queja instaurado en contra del servidor público que se encuentre en alguno de los siguientes supuestos:
+
+I.- Al que sea declarado responsable por la comisión de cuatro faltas administrativas, de las previstas en el Artículo 227 de esta Ley, en uno o varios procedimientos;
+
+II.- Al que sea declarado responsable por la comisión de tres faltas administrativas de las previstas en el Artículo 228 de esta Ley, en uno o varios procedimientos;
+
+III.- Al que haya sido declarado administrativamente responsable por la comisión de cuatro faltas, de las previstas por los Artículos 227 y 228 de la presente Ley, en forma indistinta, en uno o varios procedimientos.
+
+Lo anterior, sin perjuicio de la facultad de la Comisión de Disciplina Judicial para imponer la separación del cargo, al sancionar al servidor público que cometa falta de tal magnitud grave que pudiera ser constitutiva de delito, incluso si se tratara de la primera vez que incurre en falta.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -3870,19 +4344,51 @@ Cuando un servidor público de la administración de justicia sea sancionado por
 
 También se sancionará como falta, según el caso, a juicio de la Comisión de Disciplina Judicial, y en los términos que prescriben, los artículos 227 y 228 de esta ley, las infracciones y omisiones en que incurran los servidores públicos de la administración de justicia del Distrito Federal, con relación a los deberes que les imponen las disposiciones de esta ley y las demás sustantivas y adjetivas del Distrito Federal y los reglamentos respectivos.
 
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 231 Bis.
+
+Cuando se actualicen las hipótesis a que se refieren el Artículo 228 Bis fracción III o 230 de esta Ley Orgánica, según se trate, se ordenará que se instrumente procedimiento en los siguientes términos:
+
+a) Una vez que cause ejecutoria la última resolución sancionatoria, la Secretaría Técnica de la Comisión de Disciplina Judicial de manera oficiosa, ordenará al archivo la remisión de los expedientes relativos a los procedimientos en que se haya declarado previamente la responsabilidad del servidor público implicado y requerirá su expediente personal; hecho lo cual, elaborará una certificación en la que asiente las fechas en que se declararon firmes dichas resoluciones y dará cuenta al consejero semanero sobre el estatus del asunto.
+
+b) Con los elementos anteriores, el consejero semanero pronunciará el acuerdo correspondiente, con el que se dará cuenta al Pleno del Consejo.
+
+c) De estimar procedente el inicio del procedimiento relativo a la separación del cargo, el Pleno del Consejo remitirá el expediente a la Comisión de Disciplina Judicial para su sustanciación, quien por conducto del consejero semanero ordenará la notificación al servidor público de que se trate, para que en un plazo que no exceda de tres días hábiles contados a partir de la notificación, manifieste lo que a su derecho corresponda y ofrezca las pruebas que estime necesarias.
+
+d) Con la certificación y expedientes recabados por la Secretaría Técnica de la Comisión de Disciplina Judicial, más los elementos que, en su caso, proponga el servidor público y que deberán tener relación únicamente con la materia del procedimiento de separación del cargo, se celebrará la audiencia. Encontrándose el expediente en estado de resolución se turnará al Consejero ponente para la elaboración del proyecto de resolución en un plazo que no exceda de diez días hábiles, contados a partir de que se turne el expediente para dicho fin.
+
+e) Dicha resolución deberá versar exclusivamente sobre la comprobación de los extremos a que se refiere el Artículo 228 Bis fracción III o 230 de esta Ley Orgánica según se trate.
+
+f) Una vez hecho lo anterior, se presentará el proyecto a la aprobación del Pleno del Consejo de la Judicatura del Distrito, el que resolverá en definitiva.
+
+g) Una vez dictada la resolución de separación del cargo, se turnará a la Secretaría Técnica de la Comisión de Disciplina Judicial para su ejecución inmediata.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 232.
 
-Las sanciones previstas en esta ley serán impuestas por la Comisión de Disciplina Judicial, en primera instancia, ante la presencia del Secretario de la Comisión que dará fe tanto de las sanciones como de las actuaciones de la comisión.
+Las sanciones previstas en esta ley serán impuestas por la Comisión de Disciplina Judicial, en primera instancia, ante la presencia del Secretario de la Comisión que dará fe tanto de las sanciones como de las actuaciones de la Comisión.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+La Comisión actuará de manera unitaria, a través del consejero semanero en turno, para imponer las sanciones previstas en esta ley, en los casos de la queja derivada del Artículo 135 del Código Nacional de Procedimientos Penales, previstos en los Artículos 251 Bis a 215 Bis 5 de esta Ley; resoluciones que son resueltas de manera definitiva e inatacable.
 
 El Pleno del Consejo de la Judicatura del Distrito Federal conocerá de la imposición de sanciones en segunda instancia, pudiendo, en su caso, revisar, revocar o modificar la resolución dictada por la Comisión de Disciplina.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
-
 En todo caso el Pleno del Consejo resolverá de forma definitiva e inatacable.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 232 Bis.
+
+Causarán ejecutoria:
+
+I.- Las resoluciones o sentencias pronunciadas por la Comisión de Disciplina Judicial, en primera instancia, cuando se hayan consentido expresamente o cuando no se haga valer recurso alguno dentro del término de ley; y
+
+II.- Las resoluciones o sentencias dictadas por el Pleno del Consejo de la Judicatura del Distrito Federal, en segunda instancia con motivo del recurso (sic) inconformidad, mismas que serán irrevocables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3903,6 +4409,10 @@ El asunto se discutirá y votará en una sola sesión del órgano que correspond
 Siendo facultad del órgano que corresponda imponer las sanciones administrativas el resolver y calificar de plano, las excusas o impedimentos de sus miembros; si una u otra se presentare para el caso de la primera instancia por más de un integrante de la Comisión de Disciplina Judicial, ésta será calificada por el Pleno del Consejo de la Judicatura del Distrito Federal, y de resultar fundada, el o los Consejeros en que proceda, serán sustituidos en cuanto a la integración de dicho órgano y exclusivamente para los efectos del asunto en particular, por el o los Consejeros que se designen mediante el turno que para tal efecto lleve la Presidencia del Consejo de la Judicatura del Distrito Federal.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+
+### CAPITULO I
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
 
 ###### Artículo 235.
 
@@ -3993,6 +4503,72 @@ IV. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativ
 V. Establecer las sanciones correspondientes y dar cuenta al Pleno del Consejo de la Judicatura del Distrito Federal para su correspondiente aplicación; y
 
 VI. Las demás que determinen las leyes, los reglamentos y acuerdos generales correspondientes.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE ENERO DE 2015)</small>
+
+## TÍTULO DECIMO QUINTO. Del Sistema Penal Acusatorio Oral
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 245.
+
+La función jurisdiccional en materia penal, estará a cargo de:
+
+I. Jueces de Control;
+
+II. Tribunal de Enjuiciamiento;
+
+III. Jueces de Ejecución; y
+
+IV. Tribunal de Alzada.
+
+Los jueces del Sistema Penal Acusatorio elegirán de entre ellos, un Juez coordinador, quien durará seis meses en su encargo.
+
+El ejercicio de la función administrativa estará a cargo del Órgano de Gestión Judicial a través de sus Unidades.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 246.
+
+El Órgano de Gestión Judicial, contará por lo menos con el siguiente personal.
+
+I. Administrador;
+
+II. Jefe de Unidad de Causas y Ejecuciones;
+
+III. Jefe de Unidad de Servicios Generales y Recursos Materiales;
+
+IV. Jefe de Unidad de Causa y Sala;
+
+V. Jefe de la Unidad de Notificación; y
+
+VI. El personal auxiliar que determine el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 247.
+
+Los Juzgados de Control, Tribunal de Enjuiciamiento, Jueces de Ejecución y Tribunal de Alzada, conocerán de los asuntos respecto de los cuales el Código Nacional de Procedimientos Penales, esta Ley Orgánica y demás aplicables, les confieran competencias y atribuciones.
+
+Los asuntos les serán asignados en riguroso turno por parte del Órgano De Gestión Judicial y conforme a las reglas que al efecto emita el Consejo de la Judicatura del Distrito Federal, mismas que deberán garantizar objetividad, imparcialidad y equidad en los turnos, así como equilibrio en las cargas de trabajo entre los distintos juzgados.
+
+El Tribunal de Enjuiciamiento se integrará y conocerá del juicio oral, de manera unitaria o colegiada. En este último supuesto será en los asuntos relativos a delitos que tengan señalada prisión preventiva oficiosa, en términos de lo que al efecto dispone el Código Nacional de Procedimientos Penales; así como en aquellos que determine el Juez Coordinador.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+
+###### Artículo 248.
+
+El Tribunal de Alzada en el Sistema Procesal Acusatorio Oral conocerá:
+
+I. De los recursos de apelación que les correspondan y que se interpongan en contra de las resoluciones dictadas por los Jueces de Control, Tribunal de Enjuiciamiento y Jueces de Ejecución del Distrito Federal;
+
+II. De las excusas y recusaciones de los Jueces de Control, Tribunal de Enjuiciamiento y Jueces de Ejecución del Distrito Federal;
+
+III. Del conflicto competencial que eleven los Jueces de Control, Tribunal de Enjuiciamiento y Jueces de Ejecución del Distrito Federal; y
+
+IV. De los demás asuntos que determinen las leyes.
+
+El Tribunal de Alzada resolverá de manera colegiada, respecto a las sentencias dictadas por el Tribunal de Enjuiciamiento en delitos de prisión preventiva oficiosa y en las que se haya impuesto pena de prisión mayor de cinco años o cuando alguno de los Magistrados lo determine en razón del precedente u otra circunstancia. En todos los demás casos, las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -4315,3 +4891,11 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 15 DE ENERO DE 2015.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- La interposición de la queja por medio electrónico a que se refiere el Artículo 215 Bis 1, entrará en vigor hasta en tanto el Consejo de la Judicatura autorice los mecanismos para su implementación.
