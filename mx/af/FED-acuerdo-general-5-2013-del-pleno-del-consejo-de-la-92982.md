@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2013-del-pleno-del-consejo-de-la-92982"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-03-12"
-last_updated: "2014-11-19"
+last_updated: "2015-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92982&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-03-04"
 
 ACUERDO GENERAL 5/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS LINEAMIENTOS PARA LA ATENCIÓN DE SOLICITUDES DE PUBLICACIONES QUE HACEN LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, PUBLICADO EN EL D.O.F. DE 15 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2015 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 12 de marzo de 2013.
 
@@ -204,3 +206,55 @@ DÉCIMO. Las áreas administrativas del Consejo de la Judicatura Federal, en el 
 DÉCIMO PRIMERO. La creación de los jueces de Ejecución de los Centros de Justicia Penal quedará diferida hasta en tanto se expida la legislación en la materia.
 
 DÉCIMO SEGUNDO. Para efectos del artículo 110 de la Ley Orgánica del Poder Judicial de la Federación los Asistentes de Constancias y Registro de Tribunal de Alzada, Juzgado de Control, y Tribunal de Enjuiciamiento, constituyen una especialización de las categorías de secretarios de tribunal de Circuito y de juzgado de Distrito.
+
+D.O.F. 15 DE ENERO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo.
+
+TERCERO. Se abrogan los siguientes acuerdos generales:
+
+I. Acuerdo General 34/2000 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación de los Libros de Control que obligatoriamente deberán llevar los órganos jurisdiccionales del Poder Judicial de la Federación, así como su descripción e instructivos correspondientes;
+
+II. Acuerdo General 28/2001 del Pleno del Consejo de la Judicatura Federal, que establece la obligatoriedad del uso del Sistema Integral de Seguimiento de Expedientes;
+
+III. Acuerdo General 91/2001 del Pleno del Consejo de la Judicatura Federal, que determina la publicación por Internet de las listas de acuerdos de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación;
+
+IV. Acuerdo General 88/2003 del Pleno del Consejo de la Judicatura Federal, que establece el uso obligatorio del módulo de reportes estadísticos del Sistema Integral de Seguimiento de Expedientes;
+
+V. Acuerdo General 31/2005 del Pleno del Consejo de la Judicatura Federal, que establece el módulo de consulta de expedientes por Internet, respecto de los asuntos del conocimiento de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación;
+
+VI. Acuerdo General 10/2006 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación de los días inhábiles y los de descanso;
+
+VII. Acuerdo General 13/2006 del Pleno del Consejo de la Judicatura Federal, que determina la función, designación, supervisión y remoción del analista jurídico encargado de la captura y actualización de datos en el Sistema Integral de Seguimiento de Expedientes de los asuntos del conocimiento de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación;
+
+VIII. Acuerdo General 29/2006 del Pleno del Consejo de la Judicatura Federal, que establece y regula el proceso de generación y divulgación de la información estadística judicial y georeferenciada que se produzca en el Consejo de la Judicatura Federal;
+
+IX. Acuerdo General 77/2006 del Pleno del Consejo de la Judicatura Federal, que establece el sistema de registro y control de guardias de los Tribunales de Circuito y Juzgados de Distrito;
+
+X. Acuerdo General 7/2007 del Pleno del Consejo de la Judicatura Federal, que regula el establecimiento de unidades de notificadores comunes a diversos órganos jurisdiccionales del Poder Judicial de la Federación;
+
+XI. Acuerdo General 19/2007 del Pleno del Consejo de la Judicatura Federal, que establece condiciones para la actividad jurisdiccional continua en los Tribunales Colegiados de Circuito;
+
+XII. Acuerdo General 29/2007 del Pleno del Consejo de la Judicatura Federal, que determina el uso obligatorio del módulo de captura del Sistema Integral de Seguimiento de Expedientes, relativo a las sentencias dictadas en los Tribunales de Circuito y Juzgados de Distrito;
+
+XIII. Acuerdo General 58/2008 del Pleno del Consejo de la Judicatura Federal, que establece el uso obligatorio del módulo denominado Sistema Biométrico de Registro de Asistencia de Procesados en Libertad Provisional (SIBAP), contenido en el Sistema Integral de Seguimiento de Expedientes;
+
+XIV. Acuerdo General 59/2008 del Pleno del Consejo de la Judicatura Federal, que establece la presentación y divulgación de la información estadística judicial que se produzca en el Consejo de la Judicatura Federal;
+
+XV. Acuerdo General 77/2008 del Pleno del Consejo de la Judicatura Federal, que establece la implementación de libros electrónicos de registro;
+
+XVI. Acuerdo General 49/2011 del Pleno del Consejo de la Judicatura Federal, que establece la jornada y horario de trabajo de los servidores públicos adscritos a los Juzgados de Distrito y Tribunales de Circuito, así como el horario de atención al público en los órganos jurisdiccionales del Poder Judicial de la Federación;
+
+XVII. Acuerdo General 5/2013, del Pleno del Consejo de la Judicatura Federal, que establece los lineamientos para la atención de solicitudes de publicaciones que hacen los órganos jurisdiccionales;
+
+XVIII. Acuerdo General 23/2013 del Pleno del Consejo de la Judicatura Federal, que regula al Coordinador Técnico Administrativo en Órganos Jurisdiccionales; y
+
+XIX. Acuerdo General 14/2014 del Pleno del Consejo de la Judicatura Federal, que regula el funcionamiento de las oficinas de correspondencia común de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación, así como la designación, supervisión y responsabilidades de los servidores públicos que las integran.
+
+CUARTO. Los asuntos en trámite deberán concluirse conforme a las disposiciones con las que fueron iniciados.
+
+QUINTO. Las oficinas de correspondencia común de los Centros Auxiliares Regionales del Poder Judicial de la Federación continuarán funcionando de conformidad con lo dispuesto por los acuerdos generales que les dieron origen, así como por las reglas autorizadas por la Comisión de Creación de Nuevos Órganos y, en lo que resulte aplicable, el Capítulo Quinto del Título Segundo de este Acuerdo.
+
+SEXTO. Se derogan todas las disposiciones que (sic) opongan al presente Acuerdo.
