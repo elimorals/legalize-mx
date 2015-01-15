@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-publica-63641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2011-10-14"
+last_updated: "2015-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63641&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2008-10-10"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ENERO DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de octubre de 2008.
 
@@ -210,9 +210,9 @@ II. Unidad Administrativa Policial:
 
 a) Dirección General de Investigación Policial Preventiva, Planes y Organización Táctica.
 
-> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2015)</small>
 
-b) Dirección Ejecutiva de Helicópteros.
+b) Dirección General de Servicios Aéreos.
 
 ###### Artículo 4.
 
@@ -258,7 +258,7 @@ V. Suscribir las autorizaciones para la participación de servidores públicos d
 
 VI. Otorgar, con sujeción a las disposiciones aplicables, la representación de esta dependencia ante autoridades jurisdiccionales o administrativas, locales o federales, en procedimientos en que la misma sea parte;
 
-VII. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento y emitir las instrucciones para dirimir los conflictos de competencia que se presenten entre las unidades de la Secretaría; y (sic)
+VII. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento y emitir las instrucciones para dirimir los conflictos de competencia que se presenten entre las unidades de la Secretaría; y
 
 > <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
 
@@ -314,7 +314,7 @@ XVI. Presidir y formar parte de los comités o subcomités que se integran para 
 
 XVII. Dirigir la elaboración de planes, programas y proyectos en materia de su competencia de acuerdo con la normatividad vigente;
 
-XVIII. Diseñar mecanismos de evaluación de los programas a su cargo; y (sic)
+XVIII. Diseñar mecanismos de evaluación de los programas a su cargo; y
 
 > <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
 
@@ -348,7 +348,7 @@ VIII. Ordenar que los elementos policiales bajo su mando, cumplan con los progra
 
 IX. Crear, aplicar y evaluar planes operativos y programas encaminados al rescate del Centro Histórico de la Ciudad de México, promoviendo la seguridad y el orden público;
 
-X. Vigilar la aplicación de la normatividad y procedimientos policiales en el ámbito de su competencia; y (sic)
+X. Vigilar la aplicación de la normatividad y procedimientos policiales en el ámbito de su competencia; y
 
 > <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -578,7 +578,7 @@ VIII. Coordinar y supervisar el apoyo durante la ejecución de las diligencias j
 
 IX. Planear y coordinar los dispositivos aéreos en apoyo a las acciones de seguridad y vialidad, así como los servicios de ambulancia aérea para el traslado de personas lesionadas;
 
-X. Evaluar las estrategias de las operaciones de vigilancia y seguridad aérea, estableciendo las directrices correspondientes para su aplicación; y (sic)
+X. Evaluar las estrategias de las operaciones de vigilancia y seguridad aérea, estableciendo las directrices correspondientes para su aplicación; y
 
 > <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -626,7 +626,7 @@ X. Proponer a su superior jerárquico la celebración de instrumentos jurídicos
 
 XI. Formular los planes, programas y proyectos en materia de su competencia de acuerdo con la normatividad vigente;
 
-XII. Implementar mecanismos de evaluación de los programas a su cargo; y (sic)
+XII. Implementar mecanismos de evaluación de los programas a su cargo; y
 
 > <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
 
@@ -696,7 +696,7 @@ XIII. Ejecutar y llevar un registro de las órdenes de arresto dictadas por las 
 
 XIV. Representar a la Secretaría, al Secretario, Subsecretarios, Oficial Mayor, miembros del Consejo de Honor y Justicia, Dirección General del Consejo de Honor y Justicia, y Jefe del Estado Mayor Policial, brindando la asistencia técnica en los juicios o procedimientos en los que intervengan con motivo de sus atribuciones y facultades;
 
-XV. Suplir al Secretario y suscribir en ausencia del mismo, los documentos necesarios, en los casos a que se refieren las fracciones VII y XIV de este artículo, así como en los asuntos que sean de su competencia; y (sic)
+XV. Suplir al Secretario y suscribir en ausencia del mismo, los documentos necesarios, en los casos a que se refieren las fracciones VII y XIV de este artículo, así como en los asuntos que sean de su competencia; y
 
 > <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
 
@@ -868,7 +868,7 @@ III. Dirigir las acciones para la atención de requerimientos de autoridades jud
 
 IV. Atender las demandas ciudadanas captadas por la Cámara de Diputados, estableciendo el procedimiento sistemático con las áreas operativas para su pronta respuesta;
 
-V. Asegurar la administración y control de las boletas de remisión al Juez Cívico para su ministración a las Unidades Operativas Policiales; y (sic)
+V. Asegurar la administración y control de las boletas de remisión al Juez Cívico para su ministración a las Unidades Operativas Policiales; y
 
 > <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -906,7 +906,7 @@ V. Implementar las acciones de coordinación y comunicación con los Gobiernos F
 
 VI. Dirigir la implementación de los operativos de vialidad orientados a la prevención de accidentes;
 
-VII. Asegurar el suministro del equipamiento necesario para garantizar que los operativos de control de tránsito se realicen en óptimas condiciones; y (sic)
+VII. Asegurar el suministro del equipamiento necesario para garantizar que los operativos de control de tránsito se realicen en óptimas condiciones; y
 
 > <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -940,7 +940,7 @@ VII. Instrumentar las acciones necesarias en materia de movilidad, seguridad via
 
 VIII. Instrumentar un sistema de registro y análisis estadístico de incidentes que afecten la operación de la red vial;
 
-IX. Proponer la incorporación de innovaciones tecnológicas, dispositivos y sistemas que faciliten los procesos de control de tránsito; y (sic)
+IX. Proponer la incorporación de innovaciones tecnológicas, dispositivos y sistemas que faciliten los procesos de control de tránsito; y
 
 > <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
 
@@ -972,7 +972,7 @@ VII. Establecer y supervisar la operación de los módulos de atención a infrac
 
 VIII. Vigilar que se respeten los límites de velocidad establecidos en las vialidades;
 
-IX. Formular y aplicar las normas y sistemas con que deberá operar el estacionamiento vehicular en la vía pública; y (sic)
+IX. Formular y aplicar las normas y sistemas con que deberá operar el estacionamiento vehicular en la vía pública; y
 
 > <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -1254,7 +1254,7 @@ VIII. Asegurar que la información contenida en las bases de datos institucional
 
 IX. Establecer modelos probabilísticos, deductivos e inductivos para realizar proyecciones relevantes sobre los resultados de la Secretaría;
 
-X. Establecer estrategias de coordinación y cooperación institucionales en materia de tecnologías de información y comunicaciones con otros organismos y dependencias de seguridad pública en el ámbito local, nacional e internacional; y (sic)
+X. Establecer estrategias de coordinación y cooperación institucionales en materia de tecnologías de información y comunicaciones con otros organismos y dependencias de seguridad pública en el ámbito local, nacional e internacional; y
 
 > <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1380,7 +1380,7 @@ XIV. Dirigir y operar el sistema de control y seguimiento diario de la operació
 
 XV. Dar seguimiento a los operativos policiales ordenados por la superioridad;
 
-XVI. Proporcionar la información estadística y de georeferencia a todas las unidades de operación policial en coordinación con la Dirección General de Tecnología de Información y Comunicaciones; y (sic)
+XVI. Proporcionar la información estadística y de georeferencia a todas las unidades de operación policial en coordinación con la Dirección General de Tecnología de Información y Comunicaciones; y
 
 > <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -1392,7 +1392,7 @@ XVIII. Supervisar el desarrollo de los mecanismos de coordinación y enlace perm
 
 > <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-XIX. Determinar los criterios para la elaboración de los programas de capacitación y especialización del personal administrativo y operativo, y (sic)
+XIX. Determinar los criterios para la elaboración de los programas de capacitación y especialización del personal administrativo y operativo, y
 
 > <small>(REFORMADA, G.O. 8 DE ABRIL DE 2011)</small>
 
@@ -1426,7 +1426,7 @@ VI. Dirigir la integración del anteproyecto de presupuesto anual de servicios p
 
 VII. Establecer los mecanismos para la ceremonia de entrega de estímulos y recompensas previstos por la ley de la materia y las Condiciones Generales de Trabajo del personal de la Secretaría;
 
-VIII. Definir los mecanismos para operar los servicios de los Centros de Desarrollo Infantil adscritos a la Secretaría; y (sic)
+VIII. Definir los mecanismos para operar los servicios de los Centros de Desarrollo Infantil adscritos a la Secretaría; y
 
 > <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1508,7 +1508,7 @@ VII. Integrar los informes del Avance Físico Financiero de la Secretaría y ela
 
 VIII. Determinar los procedimientos para el registro y seguimiento de los reportes de ingresos y egresos derivados de la captación de los ingresos de aplicación automática, en apego a las reglas generales que emita para su manejo la Secretaría de Finanzas del Gobierno del Distrito Federal;
 
-IX. Resguardar los documentos financieros comprobatorios generados en la operación de la Dirección General; y (sic)
+IX. Resguardar los documentos financieros comprobatorios generados en la operación de la Dirección General; y
 
 > <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -1598,7 +1598,7 @@ VI. Inducir y conducir un proceso de cambio ordenado de la organización, enfoca
 
 VII. Proponer y desarrollar herramientas administrativas innovadoras que coadyuven a la efectividad de los procesos sustantivos de las Unidades Administrativas y Unidades Administrativas Policiales;
 
-VIII. Diseñar e implementar sistemas administrativos orientados a mejorar y facilitar la operación de los procesos y actividades que desarrollan las Unidades Administrativas adscritas a la Oficialía Mayor; y (sic)
+VIII. Diseñar e implementar sistemas administrativos orientados a mejorar y facilitar la operación de los procesos y actividades que desarrollan las Unidades Administrativas adscritas a la Oficialía Mayor; y
 
 > <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -1668,23 +1668,29 @@ XIII. Verificar que los planes y estrategias de los operativos a realizar estén
 
 XIV. Las demás que le atribuya la normatividad vigente.
 
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2015)</small>
+
 ###### Artículo 50.
 
-Son atribuciones de la Dirección Ejecutiva de Helicópteros:
+Son atribuciones de la Dirección General de Servicios Aéreos:
 
-I. Establecer los criterios, políticas y lineamientos de operación y mantenimiento para el óptimo funcionamiento de los helicópteros de la Secretaría;
+I.- Coordinar las operaciones aéreas policiales en aspectos de seguridad, vialidad, emergencias, contingencias y ambulancia aérea;
 
-II. Emitir y supervisar la aplicación de las políticas y procedimientos para la administración y prestación de servicios de mantenimiento, suministro de combustible y reparaciones de los helicópteros de la Secretaría;
+II.- Determinar criterios, políticas y lineamientos de operación, mantenimiento, capacitación y administración de las operaciones aéreas policiales;
 
-III. Coordinar, evaluar y dirigir el desarrollo de planes, programas y operativos de patrullaje aéreo de seguridad, vialidad, emergencias y de ambulancia aérea;
+III.- Diseñar planes y programas de las operaciones aéreas policiales, en aspectos de seguridad, vialidad, contingencias y de ambulancia aérea, de conformidad con las disposiciones de Seguridad Pública;
 
-IV. Vigilar y asegurar la formación, adiestramiento y capacitación del personal especializado, en apego a las leyes y reglamentos establecidos en la materia;
+IV.- Coordinar la supervisión del taller de mantenimiento aeronáutico con la finalidad de cumplir con las disposiciones y requerimientos establecidos por las leyes, reglamentos y normas oficiales en materia de aeronáutica civil;
 
-V. Vigilar el cumplimiento de las leyes y reglamentos en materia de aeronáutica, para garantizar la seguridad de las operaciones aéreas, informando a las instancias superiores;
+V.- Diseñar e instrumentar criterios y políticas de operación para el funcionamiento del centro de capacitación y adiestramiento aeronáutico;
 
-VI. Atender y vigilar que los servicios de ambulancia aérea se realicen en apego a los ordenamientos jurídicos vigentes aplicables en la materia; y,
+VI.- Dar seguimiento a los procedimientos establecidos en el manejo de los recursos para el funcionamiento de los helicópteros de la Secretaría;
 
-VII. Establecer los mecanismos de coordinación y comunicación en materia de seguridad, vialidad y ambulancia aérea, con otras instancias competentes en la materia.
+VII.- Coordinar los servicios de ambulancia aérea, en apego a las disposiciones y protocolos vigentes aplicables en la materia;
+
+VIII.- Establecer mecanismos de coordinación y comunicación en materia de seguridad, vialidad y ambulancia aérea, con otras instituciones competentes en la materia; y
+
+IX.- Las demás que le atribuya la normativa vigente.
 
 ### CAPÍTULO VII. DE LA POLICÍA COMPLEMENTARIA
 
@@ -1752,7 +1758,7 @@ XIII. Otorgar, conferir y revocar los poderes generales o especiales que sean ne
 
 XIV. Acordar con las Unidades Administrativas de Apoyo Técnico Operativo y las Unidades Administrativas de Apoyo Técnico Operativo Policial de la Corporación a su cargo, los asuntos inherentes al buen desempeño de las mismas;
 
-XV. Someter a consideración del Secretario las medidas orientadas al mejor funcionamiento y organización de la Corporación a su cargo; y (sic)
+XV. Someter a consideración del Secretario las medidas orientadas al mejor funcionamiento y organización de la Corporación a su cargo; y
 
 > <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1826,7 +1832,7 @@ QUINTO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Públic
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diez días del mes de octubre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 28 DE NOVIEMBRE DE 2008.
 
@@ -1881,3 +1887,17 @@ G.O. 14 DE OCTUBRE DE 2011.
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 15 DE ENERO DE 2015.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- A la Unidad Administrativa de nueva creación, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Oficialía Mayor del Distrito Federal, y la Secretaría de Finanzas del Distrito Federal.
+
+CUARTO.- La Secretaría de Seguridad Pública deberá adecuar su estructura orgánica y su manual administrativo, en los plazos y condiciones que establezca la Oficialía Mayor del Distrito Federal.
+
+QUINTO.- Los asuntos que a la entrada en vigor del presente decreto se encuentren en trámite y deban ser atendidos por la Dirección Ejecutiva de Helicópteros serán resueltos por la Dirección General de Servicios Aéreos, dentro de los plazos que al efecto se establezcan.
+
+SEXTO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente decreto.
