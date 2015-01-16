@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-desarrollo-urbano-del-estado-de-guerrero-numero-211-2027
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-13"
-last_updated: "2005-10-14"
+last_updated: "2015-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE DESARROLLO URBANO DEL ESTADO DE GUERRERO NUMERO 211
 
-LEY DE DESARROLLO URBANO DEL ESTADO DE GUERRERO NUMERO 211
+LEY DE DESARROLLO URBANO DEL ESTADO DE GUERRERO NÚMERO 211
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de marzo de 2001.
 
@@ -132,6 +132,10 @@ Asentamiento Humano: El establecimiento de un conglomerado demográfico, con el 
 Asentamientos Humanos Irregulares: Los núcleos de población ubicados en áreas o predios fraccionados o subdivididos sin la autorización correspondiente, cualquiera que sea su régimen de tenencia de la tierra y su grado de consolidación y urbanización.
 
 Areas de Preservación: Las extensiones naturales que no presentan alteraciones graves y que requieren medidas para el control del uso del suelo y para desarrollar en ellas actividades que sean compatibles con la función de preservación. No podrán realizarse en ellas obras de urbanización. La legislación ambiental aplicable regula adicionalmente estas áreas.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2015)</small>
+
+CENTRO HISTÓRICO. El núcleo urbano original y específico de asentamientos vivos fuertemente condicionados por una estructura física proveniente del pasado, reconocibles por construcciones en áreas urbanas, que se caracterizan por contener bienes vinculados con la historia de las ciudades del Estado de Guerrero, a partir de la cultura que le dio origen con particularidades propias, con valor económico, social, cultural e histórico y sustentabilidad ambiental e imagen urbana peculiar.
 
 Centros de Población: Las áreas constituidas por las zonas urbanizadas, las que se reserven para su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas, dentro de los límites de dichos centros, así como las que por resolución de la autoridad competente se provean para la fundación de los mismos.
 
@@ -463,7 +467,7 @@ X.- Expedir los Reglamentos y las disposiciones administrativas necesarias tendi
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2005)</small>
 
-XI.- Otorgar o negar las autorizaciones, licencias y permisos de usos de suelo, construcción, fraccionamientos, subdivisiones, fusiones, relotificaciones y condominios, de conformidad con esta Ley, con los planes y programas de Desarrollo Urbano y otras disposiciones jurídicas aplicables, así como en lo establecido en las Leyes y Reglamentos Federales, Estatales y Municipales en materia ambiental, por cuanto a la obligatoriedad de la presentación previa de los estudios, evaluaciones, autorizaciones y resolutivos en materia de impacto ambienta, así como de las autorizaciones para la explotación y aprovechamiento de los recursos naturales, expedidas por las autoridades correspondientes;
+XI.- Otorgar o negar las autorizaciones, licencias y permisos de usos de suelo, construcción, fraccionamientos, subdivisiones, fusiones, relotificaciones y condominios, de conformidad con esta Ley, con los planes y programas de Desarrollo Urbano y otras disposiciones jurídicas aplicables, así como en lo establecido en las Leyes y Reglamentos Federales, Estatales y Municipales en materia ambiental, por cuanto a la obligatoriedad de la presentación previa de los estudios, evaluaciones, autorizaciones y resolutivos en materia de impacto ambiental, así como de las autorizaciones para la explotación y aprovechamiento de los recursos naturales, expedidas por las autoridades correspondientes;
 
 XII.- Participar en la creación y administración de reservas territoriales para el desarrollo urbano, la vivienda y la preservación ecológica de los centros de población, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -491,7 +495,15 @@ XXIII.- Establecer, en coordinación con el Estado, los mecanismos que permitan 
 
 XXIV.- Evitar el establecimiento de asentamientos humanos en zonas de alto riesgo, en derechos de vía y en zonas de salvaguarda y de desarrollo controlado contiguas a industrias que realicen actividades altamente riesgosas, y
 
-XXV.- Las demás que le otorgue la presente Ley y las disposiciones legales relativas.
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2015)</small>
+
+XXV.- Coadyuvar con el Gobierno del Estado a través de las Secretarías encargadas del Desarrollo Urbano, Obras Publicas, Cultura, Turismo, y en su caso con las competentes de la Administración Pública Federal, u organismos civiles sin fines de lucro o Junta de Conservación, para la protección, cuidado, mantenimiento, remozamiento, mejoramiento, rehabilitación, recuperación imagen urbana, conservación de la fisonomía y patrimonio arquitectónico e histórico ,el desarrollo armónico e integral y otras acciones que tiendan a mantener a los Centros Históricos.
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2015)</small>
+
+XXVI.- Elaborar el Plan Parcial de Desarrollo Urbano de los Centros Históricos de los municipios y ciudades señalados en el artículo 40 Bis, conforme a lo dispuesto en los artículos 57, 58, 91 y 96 de éste ordenamiento.
+
+XXVII.- Las demás que le otorgue la presente Ley y las disposiciones legales relativas.
 
 ###### ARTICULO 10.
 
@@ -679,6 +691,10 @@ XX.- Proponer al municipio, los apoyos presupuestales que requiera para sufragar
 
 XXI.- Promover y apoyar campañas para evitar la ocupación de zonas de salvaguarda, de alto riesgo urbano y de derechos de vía, así como, la reubicación de la población asentada en las mismas;
 
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2015)</small>
+
+XXI Bis.- Vigilar, opinar y proteger en su caso el Desarrollo armónico e integral de los Centros Históricos de los municipios, elaborando los documentos técnicos respectivos estableciendo en ellos, metas y objetivos en coadyuvancia con el Municipio, o el Gobierno del Estado en su caso.
+
 XXII.- Elaborar y aprobar su Reglamento Interno, y
 
 XXIII.- Las demás que le determine esta Ley y otros ordenamientos jurídicos.
@@ -785,21 +801,49 @@ IX.- Los Esquemas de Desarrollo Urbano.
 
 La formulación, modificación, evaluación y vigilancia de los Planes de Desarrollo Urbano se llevará a cabo con la participación de los sectores social y privado. La aprobación y modificación de dichos Planes se sujetará a lo establecido en la Ley General de Asentamientos Humanos.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 27.
 
-Los Planes de Desarrollo Urbano deberán ser inscritos en el Registro Público de la Propiedad, del Comercio y Crédito Agrícola del Estado, en un plazo establecido en la Ley General de Asentamientos Humanos.
+Dentro de los treinta días naturales siguientes al de su aprobación, los planes o programas de desarrollo urbano deberán inscribirse en el Registro Público de la Propiedad del Comercio y Crédito Agrícola del Estado, y publicarse en el Periódico Oficial del Gobierno del Estado. Éstos, surtirán sus efectos el día hábil siguiente de su publicación.
+
+Las autoridades a quienes corresponda la expedición de los planes o programas de desarrollo urbano, que no gestionen su inscripción en el plazo a que se refiere este artículo, serán sancionadas conforme a las disposiciones establecidas en la Ley Número 674 de Responsabilidades de los Servidores Públicos del Estado de Guerrero.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 28.
 
-Los Planes de Desarrollo Urbano a que se refiere esta Ley, serán sometidos a un proceso constante de revisión. Su modificación o cancelación se sujetará al mismo procedimiento que para su aprobación.
+La revisión total o parcial de los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial, o de los programas sectoriales se hará con el mismo procedimiento que para su aprobación, publicación y registro se llevó a cabo.
+
+En caso de existir modificaciones a los planes o programas, estas deberán ser acordadas por la misma autoridad que los aprobó, mediante acuerdo que cumpla con el procedimiento y formalidades exigidas para su aprobación. Este acuerdo será la base para la autorización o cancelación de su inscripción en el Registro Público de la Propiedad y del Comercio y Crédito Agrícola del Estado.
+
+Los planes o programas de desarrollo urbano y lo que deriven de éstos, podrán ser revisados, modificados y ajustados, una vez vencido el periodo constitucional anterior, tal como lo establece el artículo 29 de esta ley.
+
+Por razones de excepcional interés público, fuerza mayor o caso fortuito, en cualquier momento el Estado y los Municipios podrán iniciar el proceso de revisión a los planes o programas de desarrollo urbanos y los que deriven de éstos. Estas circunstancias son:
+
+I. Declaratoria de desastre,
+
+II. La ejecución de obra de infraestructura, equipamiento y servicios urbanos;
+
+III. La protección del patrimonio cultural de los centros de población, y
+
+IV. La preservación del equilibrio ecológico y la protección al ambiente de los centros de población.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 29.
 
-Los Planes de Desarrollo Urbano podrán ser modificados o cancelados de acuerdo a la Ley; los estatales y regionales cada seis años y los municipales cada tres años.
+Los planes o programas de desarrollo urbano estatal o municipal, deberán revisarse en el primer año de ejercicio constitucional, para actualizarlos, modificarlos, confirmarlos o revocarlos.
+
+Para la elaboración, actualización, revisión, modificación y aprobación de los planes o programas de desarrollo urbano, deberán tomar como base lo establecido por los programas de ordenamientos ecológicos y los atlas de riesgos municipales, a fin de lograr un desarrollo regional y urbano sustentable.
 
 ###### ARTICULO 30.
 
 Los Planes y Programas de Desarrollo Urbano deberán considerar los criterios generales del Plan Nacional de Desarrollo Urbano, la regulación ecológica de los asentamientos humanos establecidos en la Ley General de Equilibrio Ecológico y Protección al Ambiente, en la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero y en las Normas Oficiales Mexicanas en materia ecológica.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2015)</small>
+
+Para otorgar o negar las solicitudes de autorización de permisos o licencias de uso de suelo, construcción, fraccionamientos, subdivisiones, fusiones, relotificaciones, condominios, y en general cualquier tipo de obra de infraestructura o asentamientos humanos, las autoridades competentes deberán considerar los Atlas de Riesgo del Estado y de los Municipios.
 
 #### SECCION PRIMERA. DEL PLAN ESTATAL DE DESARROLLO URBANO
 
@@ -1035,9 +1079,15 @@ Será necesaria la existencia del Plan Municipal de Desarrollo Urbano para la ap
 
 #### SECCION SEPTIMA. DE LOS PLANES PARCIALES DE DESARROLLO URBANO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 40.
 
-Los Planes Parciales de Desarrollo Urbano, serán aplicables en un área o zona determinada de un centro de población y regularán las acciones para su conservación, mejoramiento y crecimiento. Dichos Planes serán congruentes con los Planes de Desarrollo Urbano del Centro de Población del que deriven y contendrán, por lo menos, lo siguiente:
+Los planes parciales de desarrollo urbano, serán aplicables en un área o zona determinada de un centro de población y tendrán por objeto precisar, complementar, adecuar, ordenar y regular su desarrollo urbano, analizar y determinar las relaciones entre los componentes de la estructura urbana; detallar la estrategia general para la aplicación de las políticas de ordenamiento, conservación, mejoramiento y crecimiento; determinar la zonificación y el diseño urbano del área o elemento seleccionado; regular los usos y destinos del suelo urbano y establecer programas y acciones de ejecución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 16 DE ENERO DE 2015)</small>
+
+Los programas parciales de desarrollo urbano podrán precisar, complementar y aplicar a mayor detalle los programas municipales o de centros de población, abarcando un área determinada, o elemento del mismo. Siguiendo el mismo proceso de revisión, modificación y ajuste establecido en el artículo 29, de esta Ley. Los programas parciales no podrán modificar las políticas y estrategias establecidas en los planes de los cuales derivan y contendrán, por los menos lo siguiente:
 
 I.- La referencia del Plan del cual derivan, indicando en su caso el aprovechamiento del suelo previsto en el mismo;
 
@@ -1060,6 +1110,30 @@ IX.- Los mecanismos para la adquisición o asignación de inmuebles, así como l
 X.- Las obligaciones y responsabilidades de las autoridades y de los usuarios, y
 
 XI.- En general, las medidas e instrumentos para la ejecución del Plan.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2015)</small>
+
+###### ARTICULO 40 Bis.
+
+Los municipios y ciudades de Acapulco de Juárez, Ixtapa-Zihuatanejo, Taxco de Alarcón, Iguala de la Independencia, Chilpancingo de los Bravo, Tixtla de Guerrero, Olinalá e Ixcateopan de Cuauhtémoc, contaran con planes parciales de Desarrollo Urbano para sus centros históricos y áreas colindantes.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2015)</small>
+
+###### ARTICULO 40 Bis 1.
+
+Por sus características especiales la ciudad de Taxco de Alarcón, Guerrero, contará con un plan parcial de desarrollo urbano que sea acorde con las disposiciones de la Ley número 174 de Conservación y Vigilancia de la ciudad de Taxco de Alarcón.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2015)</small>
+
+###### ARTICULO 40 Bis 2.
+
+Se destinara anualmente en el Presupuesto de Egresos del Estado, recursos fiscales para el Plan Parcial de Desarrollo Urbano de los municipios que cuenten con Centros Históricos, para su mejoramiento, remozamiento, conservación, desarrollo integral y controlado, equipamiento urbano, imagen urbana de fachadas, imagen urbana tradicional , impacto urbano, usos de suelo, zonificación, restauración, infraestructura, servicios urbanos accesibles , patrimonio artístico, histórico y cultural, protección del patrimonio histórico, riesgos de urbanización, regeneración urbana, sistemas de iluminación particular y condiciones para su habitabilidad.
+
+Dichos recursos no podrán ser transferidos hacia otras áreas de Gobierno y Administración Estatal o Municipal. De ocurrir transferencias de gasto destinadas para el Plan Parcial del Centro Histórico a otro destino en el municipio, previas Auditorías, este perderá la ministración en el próximo ejercicio fiscal, sin menoscabo en lo dispuesto en las disposiciones legales aplicables.
+
+El Consejo de Urbanismo Municipal y / o el Consejo Ciudadano Municipal o figura análoga respectiva en colaboración con la Comisión Consultiva de Desarrollo Urbano del Estado de Guerrero en su caso, tomará las previsiones necesarias para el cumplimiento de lo dispuesto en éste artículo, así como lo establecido en el Plan Estatal de Desarrollo Urbano.
+
+La Comisión de Desarrollo Urbano y Obras Publicas del Congreso del Estado de Guerrero, coadyuvará en la vigilancia y seguimiento de ejecución de los planes parciales y sectoriales de los Centros Históricos del Estado y de los Municipios.
 
 #### SECCION OCTAVA. DE LOS PLANES SECTORIALES DE DESARROLLO URBANO
 
@@ -2000,3 +2074,9 @@ P.O. 14 DE OCTUBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Comuníquese el presente Decreto al Titular del Ejecutivo del Estado para sus efectos constitucionales procedentes.
+
+P.O. 16 DE ENERO DE 2015.
+
+PRIMERO. El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página Web del Congreso del Estado.
