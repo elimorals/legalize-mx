@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2014-12-29"
+last_updated: "2015-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2015.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -163,7 +163,11 @@ XXXI. Coordenadas UTM: Los valores X, Y que indican latitud y longitud en metros
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
 
-XXXI - A. Corresponsable: Es la persona física profesionista con los conocimientos técnicos adecuados para responder en forma solidaria con el Director Responsable de Obra, o en forma autónoma en su área de competencia, en todos los aspectos de las obras en las que otorgue su responsiva, de conformidad con el presente Código.
+XXXI-A. Corresponsable: Es la persona física profesionista con los conocimientos técnicos adecuados para responder en forma solidaria con el Director Responsable de Obra, o en forma autónoma en su área de competencia, en todos los aspectos de las obras en las que otorgue su responsiva, de conformidad con el presente Código.
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2015)</small>
+
+XXXI-B. Corredor Turístico: El corredor comercial, turístico y cultural que contempla las calles: Calzada de los Héroes, en el tramo de la intersección de Vasco de Quiroga con Adolfo López Mateos a Progreso; Madero, en el tramo de Progreso a 5 de Mayo; Pedro Moreno-Álvaro Obregón, en el tramo de la Paz a 20 de Enero; Belisario Domínguez - 5 de Febrero en el tramo de Justo Sierra a Motolinía; 20 de Enero - Justo Sierra, en el tramo de Álvaro Obregón a Belisario Domínguez; Hermanos Aldama en el tramo de Pedro Moreno a 5 de Febrero; y La Paz en el tramo de Pedro Moreno a 5 de Febrero;
 
 XXXII. Demolición: Hacer caer al suelo un edificio o una construcción o parte de ésta, con los medios adecuados;
 
@@ -275,9 +279,9 @@ LXXVI. MIV: Manifestación de impacto vial, es el documento mediante el cual el 
 
 LXXVII. Manual Técnico de las Construcciones: Anexo complementario que prevé las características y especificaciones técnicas que deberá reunir toda construcción regulada por el presente Código;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2015)</small>
 
-LXXVII - A. Manual Técnico de los Anuncios, Terrazas Móviles y Fachadas: Manual Técnico de los Anuncios, Terrazas Móviles y Fachadas en la Zona del Patrimonio Histórico, como el documento donde se establecen los criterios y especificaciones técnicas que habrán de observarse en zonas patrimoniales, zonas de monumentos y en los inmuebles con valor arqueológico, artístico e histórico.
+LXXVII-A. Manual técnico de anuncios, terrazas, fachadas y usos de suelo en Zona de Patrimonio Histórico y Corredor Turístico:Manual técnico de anuncios, terrazas, fachadas y usos de suelo en las (sic) Zona de Patrimonio Histórico y Corredor Turístico, como el documento donde se establecen los criterios y especificaciones técnicas que habrán de observarse en zonas patrimoniales, zonas de monumentos y en los inmuebles con valor arqueológico, arquitectónico; artístico, histórico y corredor turístico.
 
 LXXVIII. Manual Técnico de Usos del Suelo: Documento que complementa la normativa para la clasificación de las actividades y sus normas de intensidad a fin de facilitar la aplicación del presente Código;
 
@@ -643,9 +647,9 @@ XXI. Someter a la consideración del H. Ayuntamiento, las actividades y giros qu
 
 XXI - A. Someter a la consideración de la Comisión de Desarrollo Urbano la opinión que deba rendirse para la instalación de los espacios para apuestas en el Municipio, en los términos de la normativa aplicable;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2015)</small>
 
-XXI - B. Autorizar la instalación de terrazas móviles, en zona de patrimonio histórico de conformidad con los lineamientos que establece el Anexo 7 del presente código denominado Manual Técnico de los Anuncios, Terrazas Móviles y Fachadas;
+XXI - B. Autorizar la instalación de terrazas móviles e inmuebles con terraza, en zona de patrimonio histórico de conformidad con los lineamientos que establece el Anexo 7 del presente código;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2145,6 +2149,10 @@ El permiso de uso de suelo que ampara la actividad o giro a realizar dentro de u
 
 En las zonas (sic) preservación, sólo se autorizarán los usos del suelo de acuerdo a lo previsto en este Código, el POTE y demás disposiciones legales federales, estatales y municipales en la materia.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2015)</small>
+
+Así mismo los usos de suelo en los inmuebles ubicados dentro de la zona de patrimonio histórico y corredor turístico, además de lo establecido en el presente ordenamiento deberán apegarse a lo previsto en el Reglamento de la Imagen Urbana, así como al anexo 7 de este Código.
+
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 128-B.
@@ -2464,6 +2472,14 @@ IV. ANEXO 4: Tabla de Requerimiento de Estacionamientos; y,
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 V. ANEXO 5: Tabla de Normas para las zonas y tabla de normas para Usos sujetos a la clasificación de la vialidad.
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2015)</small>
+
+VI. ANEXO 6: Manual de Construcciones; y,
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2015)</small>
+
+VII. ANEXO 7: Manual técnico de anuncios, terrazas, fachadas y usos de suelo en zona de patrimonio histórico y corredor turístico.
 
 ## TÍTULO TERCERO. DE LOS FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
@@ -6157,15 +6173,17 @@ No se otorgarán nuevos permisos respecto de anuncios que no estén en perfecto 
 
 ### CAPÍTULO VI. DE LOS ANUNCIOS EN ZONAS PATRIMONIALES, ZONAS DE MONUMENTOS Y EN LOS INMUEBLES CON VALOR ARQUEOLÓGICO, ARTÍSTICO E HISTÓRICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2015)</small>
 
 ###### Artículo 412.
 
-Los anuncios instalados en inmuebles considerados monumentos, con valor arqueológico, artístico e histórico además de lo establecido en el presente ordenamiento, deberán apegarse a lo previsto en el Reglamento de la Imagen Urbana, así como el anexo 7 de este Código.
+Los anuncios instalados en inmuebles considerados monumentos, con valor arqueológico, artístico e histórico y los ubicados en el corredor turístico además de lo establecido en el presente ordenamiento, deberán apegarse a lo previsto en el Reglamento de la Imagen Urbana, así como el anexo 7 de este Código.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2015)</small>
 
 ###### Artículo 413.
 
-En los inmuebles ubicados dentro de las zonas patrimoniales, y en zonas de monumentos arqueológicos, artísticos e históricos, sólo se permitirán anuncios adosados o pintados. Los interesados deberán estarse a lo dispuesto en el presente Título, en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos y su Reglamento, y demás disposiciones legales aplicables.
+En los inmuebles ubicados dentro de las zonas patrimoniales, y en zonas de monumentos arqueológicos, artísticos e históricos y corredor turístico, sólo se permitirán anuncios adosados o pintados. Los interesados deberán estarse a lo dispuesto en el presente Título, en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos y su Reglamento y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -7929,19 +7947,19 @@ En contra de los actos y resoluciones de las autoridades competentes en la aplic
 
 ANEXOS
 
-> <small>N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69; P.O. 13 DE JULIO DE 2012, PÁGINAS 52 A LA 54; P.O. 23 DE OCTUBRE DE 2012, PÁGINA 62; P.O. 25 DE ENERO DE 2013, PÁGINAS 71 A LA 73; P.O. 6 DE MAYO DE 2014, PÁGINAS 130 A LA 146.</small>
+> <small>N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69; P.O. 13 DE JULIO DE 2012, PÁGINAS 52 A LA 54; P.O. 23 DE OCTUBRE DE 2012, PÁGINA 62; P.O. 25 DE ENERO DE 2013, PÁGINAS 71 A LA 73; P.O. 6 DE MAYO DE 2014, PÁGINAS 130 A LA 146; P.O. 16 DE ENERO DE 2015, PÁGINA 94.</small>
 
 > <small>N. DE E. VÉASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MÍNIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 194 A LA 201; P.O. 6 DE MAYO DE 2014, PÁGINAS 146 A LA 147.</small>
 
 > <small>N. DE E. VÉASE ANEXO 3: TABLA DE COMPATIBILIDADES, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 202. REFORMAS EN EL P.O. 14 DE ENERO DE 2011, PÁGINAS 52 A LA 53; P.O. 25 DE ENERO DE 2013, PÁGINA 74; P.O. 6 DE MAYO DE 2014, PÁGINAS 147 A LA 148.</small>
 
-> <small>N. DE E. VÉASE ANEXO 4: TABLA DE REQUERIMIENTO DE ESTACIONAMIENTOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 203 A LA 208; P.O. 31 DE ENERO DE 2012, PÁGINA 70; P.O. 6 DE MAYO DE 2014, PÁGINA 149.</small>
+> <small>N. DE E. VÉASE ANEXO 4: TABLA DE REQUERIMIENTO DE ESTACIONAMIENTOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 203 A LA 208; P.O. 31 DE ENERO DE 2012, PÁGINA 70; P.O. 6 DE MAYO DE 2014, PÁGINA 149; P.O. 16 DE ENERO DE 2015, PÁGINAS 94 A LA 95.</small>
 
 > <small>N. DE E. VÉASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE 2011, PÁGINAS 54 A LA 55; P.O. 25 DE ENERO DE 2013, PÁGINA 75; P.O. 6 DE MAYO DE 2014, PÁGINAS 149 A LA 150.</small>
 
 > <small>N. DE E. VÉASE ANEXO 6: MANUAL TÉCNICO DE LAS CONSTRUCCIONES, CON ANEXOS I Y II EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 209 A LA 228; P.O. 12 DE ABRIL DE 2011, PÁGINAS 34 A LA 35; P.O. 31 DE ENERO DE 2012, PÁGINAS 70 A LA 75; P.O. 6 DE MAYO DE 2014, PÁGINAS 151 A LA 155.</small>
 
-> <small>N. DE E. VÉASE ANEXO 7: MANUAL TÉCNICO DE ANUNCIOS, TERRAZAS MÓVILES Y FACHADAS EN LA ZONA DE PATRIMONIO HISTÓRICO EN EL P.O. 31 DE ENERO DE 2012, PÁGINAS 75 A LA 87; P.O. 6 DE MAYO DE 2014, PÁGINAS 155 A LA 156.</small>
+> <small>N. DE E. VÉASE ANEXO 7: MANUAL TÉCNICO DE ANUNCIOS, TERRAZAS MÓVILES Y FACHADAS EN LA ZONA DE PATRIMONIO HISTÓRICO EN EL P.O. 31 DE ENERO DE 2012, PÁGINAS 75 A LA 87; P.O. 6 DE MAYO DE 2014, PÁGINAS 155 A LA 156; P.O. 16 DE ENERO DE 2015, PÁGINA 95.</small>
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -8170,3 +8188,11 @@ En tanto se integra el padrón municipal de peritos ambientales, las funciones p
 P.O. 29 DE DICIEMBRE DE 2014.
 
 Único. Las presentes reformas y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 16 DE ENERO DE 2015.
+
+Primero. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Segundo. Todos aquellos comercios que se encuentren instalados en el corredor turístico previo a la entrada en vigor de las presentes modificaciones y cuyo uso de suelo se encuentre dentro de los usos prohibidos establecidos en el artículo 22 del Anexo 7 del Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato "Manual Técnico de Anuncios, Terrazas, Fachadas y Usos de Suelo en Zona de Patrimonio Histórico y Corredor Turístico quedan exceptuados de dicha restricción siempre que puedan comprobar dicha situación con Constancia de registro e inscripción ante la Secretaría de Hacienda y Crédito Público.
+
+Tercero. Se deroga el acuerdo del H. Ayuntamiento de fecha 10 de junio de 2014 mediante el cual se aprueba la restricción de usos de suelo en la zona centro de este Municipio.
