@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2013-08-27"
+last_updated: "2015-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -1671,6 +1671,10 @@ El nacimiento será declarado por el padre o la madre, en defecto de éstos, por
 
 El acta de nacimiento contendrá el año, mes, día, hora y lugar de nacimiento, el sexo, la impresión digital del presentado, el nombre y apellidos que le pongan sin que por motivo alguno puedan omitirse: la expresión de si es presentado vivo o muerto, el nombre, edad, domicilio y nacionalidad de los abuelos paternos, maternos y de los testigos. Si la presentación la realiza una persona distinta de los padres, se anotarán los datos anteriores y su relación de parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2015)</small>
+
+El oficial del registro civil orientará a quien comparezca a registrar a una persona, a que el registrado no posea más de dos nombres propios, dicho nombre no sea discriminatorio, denigrante, constituya símbolos, siglas, abreviaturas o que exhiba al registrado a ser objeto de burla. Sino que el nombre sea claro y entendible. El oficial del registro civil expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
 ###### Artículo 324.
 
 Cuando se declare que el padre y la madre están casados, se asentarán los nombres y dirección del padre y de la madre, los de los abuelos paternos y maternos y las generales de la persona que haya hecho la presentación.
@@ -1819,7 +1823,7 @@ Para los indigentes tienen obligación de expedir gratuitamente este certificado
 
 V. El convenio que los pretendientes deberán celebrar si contrajeran matrimonio bajo el régimen de sociedad conyugal con relación a sus bienes presentes y a los que adquieran durante el matrimonio. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio;
 
-VI. Copia del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente; y (sic)
+VI. Copia del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente; y
 
 VII. Copia de la dispensa de impedimentos, si los hubo.
 
@@ -15684,3 +15688,21 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Gu
 ###### ARTÍCULO CUARTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
+
+P.O. 16 DE ENERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Licenciado Salvador Rogelio Ortega Martínez, Titular del Poder Ejecutivo del Estado, para su conocimiento y para los efectos legales conducentes. Remítase el presente Decreto a la Coordinación Técnica del Sistema Estatal del Registro Civil del Estado, para su conocimiento.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los sesenta días naturales a la entrada en vigor del presente Decreto la Coordinación Técnica del Sistema Estatal del Registro Civil del Estado de Guerrero, tendrá el deber de elaborar un catálogo con los nombres que sean objeto de burla, la cual dará a conocer públicamente dichos nombres, para exhortar a quienes vayan a registrar a la persona a no ponerle esos nombres al registrado. Dichos nombres serán publicados en todas las oficiales del registro civil en la entidad, para su publicidad y dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, en la página web de internet del Honorable Congreso del Estado y en dos diarios de mayor circulación en la entidad para su divulgación.
