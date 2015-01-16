@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-805
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-04"
-last_updated: "2012-02-20"
+last_updated: "2015-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE FEBRERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2015.
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2011.
 
@@ -51,9 +49,17 @@ I.- Subsecretaría de Ingresos;
 
 A) Dirección General de Auditoria Fiscal;
 
-1.- Dirección de Área de Planeación de Auditoría
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2015)</small>
 
-2.- Dirección de Área de Auditoría Fiscal
+1.- Dirección de Auditoría Fiscal I
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2015)</small>
+
+2.- Dirección de Auditoría Fiscal II
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2015)</small>
+
+3.- Dirección de Análisis e Investigación
 
 B) Dirección General de Recaudación;
 
@@ -61,7 +67,9 @@ B) Dirección General de Recaudación;
 
 2.- Dirección de Área de Recaudación, Control de Ingresos y Registro de Vehículos
 
-C).- Dirección de Área de Asistencia al Contribuyente;
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2015)</small>
+
+C).- Dirección General de Asistencia al Contribuyente;
 
 II.- Subsecretaría de Egresos;
 
@@ -79,7 +87,7 @@ B) Dirección General de Programación, Presupuesto y Cuenta Pública;
 
 3.- Dirección de Área de Análisis y Evaluación Económica y del Gasto Público
 
-C) Dirección de Área de Coordinación de Programas Federales;
+C) (DEROGADO, P.O. 16 DE ENERO DE 2015)
 
 D) Dirección de Área de Coordinación Operativa;
 
@@ -101,6 +109,10 @@ A) Dirección General de Política Fiscal y Hacendaria.
 
 2.- Dirección de Área de Vinculación Hacendaria
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2015)</small>
+
+3. Dirección de Convenios Federales;
+
 B) Dirección General de Evaluación y Seguimiento.
 
 C) Dirección General Administrativa.
@@ -113,7 +125,7 @@ Asimismo la Secretaría contará con el órgano desconcentrado denominado Instit
 
 ###### Artículo 4°.
 
-Los Subsecretarios de Ingresos y Egresos; así como los Directores Generales, tienen las facultades que respectivamente les atribuye este Reglamento, y otros ordenamientos jurídicos, (sic)
+Los Subsecretarios de Ingresos y Egresos; así como los Directores Generales, tienen las facultades que respectivamente les atribuye este Reglamento, y otros ordenamientos jurídicos,
 
 ### CAPITULO SEGUNDO. De las Atribuciones del Secretario de Finanzas
 
@@ -171,7 +183,7 @@ XXII.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisi
 
 XXIII.- Celebrar convenios con las personas de derecho público o privado sobre cualquier materia de su competencia;
 
-XXIV.- Las demás que le confiera la Constitución Política del Estado y demás ordenamientos; (sic)
+XXIV.- Las demás que le confiera la Constitución Política del Estado y demás ordenamientos;
 
 ###### Artículo 7°.
 
@@ -213,9 +225,13 @@ XIII.- Supervisar la aplicación de las disposiciones fiscales, normativas, de s
 
 XIV.- Aprobar las formas oficiales de declaraciones, avisos, manifestaciones y demás documentos requeridos por las disposiciones fiscales estatales;
 
-XV.- Ejecutar por conducto de la Dirección de Asistencia al Contribuyente en la resolución de las solicitudes de aclaración que presenten los contribuyentes, sobre problemas relacionados con la presentación de declaraciones, la imposición de multas, requerimientos, solicitudes y avisos al Registro Federal de Contribuyentes;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2015)</small>
 
-XVI.- Instruir a la Dirección de Asistencia al Contribuyente, de los avisos, requerimientos, notificaciones, entre otros, que en las materias de su competencia formule de manera masiva a los contribuyentes, y que repercutan en las políticas de atención y servicios establecidos por dicha unidad administrativa;
+XV.- Ejecutar por conducto de la Dirección General de Asistencia al Contribuyente en la resolución de las solicitudes de aclaración que presenten los contribuyentes, sobre problemas relacionados con la presentación de declaraciones, la imposición de multas, requerimientos, solicitudes y avisos al Registro Federal de Contribuyentes;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2015)</small>
+
+XVI.- Instruir a la Dirección General de Asistencia al Contribuyente, de los avisos. requerimientos, notificaciones, entre otros, que en las materias de su competencia formule de manera masiva a los contribuyentes, y que repercutan en las políticas de atención y servicios establecidos por dicha unidad administrativa;
 
 XVII.- Proponer a la superioridad el nombramiento o remoción de los servidores públicos de las unidades administrativas a su cargo, cuando no se determine otra forma por la Constitución o leyes del Estado;
 
@@ -251,9 +267,11 @@ El Subsecretario de Ingresos además de las facultades anteriores, podrá ejerce
 
 ### CAPITULO SEGUNDO. De la Dirección General de Auditoría Fiscal
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2015)</small>
+
 ###### Artículo 9°.
 
-La Dirección General de Auditoria Fiscal estará a cargo de un Director General, quien será auxiliado en el ejercicio de sus funciones por la Dirección de Planeación de Auditoria, Dirección de Auditoria Fiscal, Subdirecciones, Jefaturas de Departamento, Auditores y demás personal que requiera la Dirección General.
+La Dirección General de Auditoria Fiscal estará a cargo de un Director General, quien será auxiliado en el ejercicio de sus funciones por la Dirección de Auditoría Fiscal I, Dirección de Auditoría Fiscal II, Dirección de Análisis e Investigación, Subdirecciones Jefaturas de Departamento, Supervisores, Auditores y demás personal que requiera la Dirección General.
 
 ###### Artículo 10.
 
@@ -353,7 +371,9 @@ VI.- Proporcionar, por acuerdo de la superioridad, la información, los datos o 
 
 VII.- Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
-VIII.- Informar a la Dirección de Asistencia al Contribuyente, de los avisos, requerimientos, notificaciones entre otros, que en las materias de su competencia formule de manera masiva a los contribuyentes, y que repercutan en las políticas de atención y servicios establecidos por dicha unidad administrativa;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2015)</small>
+
+VIII.- Informar a la Dirección General de Asistencia al Contribuyente, de los avisos, requerimientos, notificaciones entre otros, que en las materias de su competencia formule de manera masiva a los contribuyentes, y que repercutan en las políticas de atención y servicios establecidos por dicha unidad administrativa;
 
 IX.- Declarar el abandono de los bienes y de las cantidades a favor del fisco del Estado, conforme proceda en los términos de la legislación Estatal y Federal;
 
@@ -471,7 +491,9 @@ c) Hacer efectiva al contribuyente, sujeto pasivo, particulares, o responsable s
 
 19.- Informar a la Dirección General Jurídica los hechos de que tenga conocimiento con motivo de sus actuaciones que puedan constituir delitos fiscales.
 
-20.- Realizar de manera coordinada con la Dirección de Asistencia al Contribuyente, las labores de difusión y orientación de trámites fiscales que deban realizar los contribuyentes y fomentar el cumplimiento voluntario de sus obligaciones fiscales.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2015)</small>
+
+20.- Realizar de manera coordinada con la Dirección General de Asistencia al Contribuyente, las labores de difusión y orientación de trámites fiscales que deban realizar los contribuyentes y fomentar el cumplimiento voluntario de sus obligaciones fiscales.
 
 21.- Habilitar días y horas inhábiles para la práctica del procedimiento administrativo de ejecución, notificaciones, embargo precautorio y demás actuaciones y diligencias administrativas, en términos de las disposiciones fiscales estatales y federales aplicables.
 
@@ -481,7 +503,7 @@ c) Hacer efectiva al contribuyente, sujeto pasivo, particulares, o responsable s
 
 24.- Registrar la condonación de multas o recargos autorizados por autoridad competente.
 
-25.- Ordenar y practicar avalúos en los términos de la legislación fiscal Federal y Estatal aplicable; y (sic)
+25.- Ordenar y practicar avalúos en los términos de la legislación fiscal Federal y Estatal aplicable; y
 
 26.- Recabar los conceptos del Fondo que establece la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes; y
 
@@ -503,13 +525,19 @@ XXIX.- Rendir a su superior, por escrito los informes mensual y anual de las act
 
 XXX.- Las demás que le asigne el Subsecretario de Ingresos o las que le confieran las leyes, códigos, ordenamientos de carácter general, convenios, contratos, acuerdos, decretos y reglamentos vigentes.
 
-### CAPITULO CUARTO. De la Dirección de Asistencia al Contribuyente
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2015)</small>
+
+### CAPITULO CUARTO. De la Dirección General de Asistencia al Contribuyente
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2015)</small>
 
 ###### Artículo 13.
 
-La Dirección de Asistencia al Contribuyente estará a cargo de un Director de Área, quien será auxiliado en el ejercicio de sus funciones por Subdirectores, Jefaturas de Departamento, Capacitadores, Asesores Fiscales, y demás personal que se requiera.
+La Dirección General de Asistencia al Contribuyente estará a cargo de un Director General, quien será auxiliado en el ejercicio de sus funciones por Directores de Área, Jefaturas de Departamento, Capacitadores, Asesores Fiscales, y demás personal que se requiera.
 
-Al Director de Asistencia al Contribuyente le corresponde el ejercicio de las siguientes atribuciones y facultades:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2015)</small>
+
+Al Director General de Asistencia al Contribuyente le corresponde el ejercicio de las siguientes atribuciones y facultades:
 
 I.- Formular los programas de actividades, así como organizar, dirigir, supervisar y evaluar dichas actividades;
 
@@ -525,11 +553,15 @@ VI.- Supervisar y evaluar el cumplimiento integral de los programas operativos d
 
 VII.- Instrumentar la política de integridad, responsabilidad, ética y conducta de su personal;
 
-VIII.- Aplicar la política, los programas, sistemas, procedimientos y métodos de trabajo que se establezcan, aplicar en las materias de su competencia, las reglas generales y los criterios establecidos por la Subsecretaría de Ingresos, así como coordinarse en las materias de su competencia, con las autoridades fiscales de otras entidades federativas, para el mejor ejercicio de sus facultades;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2015)</small>
+
+VIII.- Establecer y aplicar la política, los programas, sistemas, procedimientos y métodos de trabajo que se establezcan en las materias de su competencia, así como aplicar las reglas generales y los criterios establecidos por la Subsecretaría de Ingresos;
 
 IX.- Establecer la Política y los Programas destinados a fomentar la cultura tributaria, mediante la orientación y atención de tramites en materia de impuestos, derechos, contribuciones de mejora, aprovechamientos y sus accesorios de carácter estatal, federal en materia aduanera así como coadyuvar en la elaboración de la normatividad que le competa;
 
-X.- Establecer los sistemas, métodos y procedimientos en las materias de su competencia;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2015)</small>
+
+X.- Coordinarse en las materias de su competencia, con las autoridades federales, estatales, municipales y de otras Entidades Federativas, para el mejor ejercicio de sus facultades;
 
 XI.- Determinar y elaborar el contenido de los programas electrónicos en las materias de su competencia;
 
@@ -559,7 +591,7 @@ XXIII.- Requerir a los contribuyentes, sujetos pasivos, particulares, responsabl
 
 XXIV.- Integrar, controlar, vigilar y mantener actualizado el Padrón de Contribuyentes;
 
-XXV.- Aplicar la política, los programas, sistemas, procedimientos y métodos de trabajo que se establezcan en las materias de su competencia, con las autoridades estatales;
+XXV.- (DEROGADA, P.O. 16 DE ENERO DE 2015)
 
 XXVI.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisionar, reasignar o trasladar y demás acciones previstas en los ordenamientos aplicables, previo acuerdo con la superioridad, a los servidores públicos, verificadores, notificadores y ejecutores, que conforman las unidades administrativas a su cargo;
 
@@ -777,7 +809,7 @@ XV.- Ser órgano de consulta en la materia fiscal y administrativa que competa a
 
 XVI.- Planear y ejecutar los programas de desarrollo y capacitación técnico-jurídica de "La Secretaría" en materia hacendaria y administrativa;
 
-XVII.- Asistir, auxiliar, asesorar y orientar al contribuyente en el cumplimiento correcto y oportuno de sus obligaciones fiscales, informándole del contenido de las disposiciones normativas aplicables a cada caso en particular;
+XVII.- (DEROGADA, P.O. 16 DE ENERO DE 2015)
 
 XVIII.- Vigilar permanentemente que los actos o resoluciones de las unidades administrativas de "La Secretaría", se realicen estrictamente apegados a derecho;
 
@@ -833,9 +865,11 @@ El objeto del Instituto es crear y administrar el sistema de información territ
 
 ### CAPITULO UNICO. De la Dirección General de Política Fiscal y Hacendaria
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2015)</small>
+
 ###### Artículo 19.
 
-La Dirección General de Política Fiscal y Hacendaria estará a cargo de un Director General, quien será auxiliado en el ejercicio de sus funciones por la Dirección de Vinculación con Municipios y Organismos, Dirección de Política Fiscal, Subdirecciones, Jefaturas de Departamento, y demás personal que se requiriera.
+La Dirección General de Política Fiscal y Hacendaria estará a cargo de un Director General, quien será auxiliado en el ejercicio de sus funciones por la Dirección de Vinculación con Municipios y Organismos, Dirección de Política Fiscal, Dirección de Convenios Federales, Subdirecciones, Jefaturas de Departamento, y demás personal que se requiriera.
 
 Corresponde a la Dirección General de Política Fiscal y Hacendaria, a través de su titular, el despacho y atención de las siguientes facultades delegadas:
 
@@ -863,7 +897,9 @@ XI.- Representar a la Secretaría en los grupos de trabajo, comités o subcomit�
 
 XII.- Participar en la elaboración de los documentos que contengan la información para el anexo estadístico del informe de gobierno anual presentado por el Titular del Ejecutivo;
 
-XIII.- (DEROGADA, P.O. 4 DE ABRIL DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ENERO DE 2015)</small>
+
+XIII.- Mantener la coordinación con los Poderes del Estado, Municipios y Federación para el aprovechamiento de recursos federales de los distintos ramos del Presupuesto de Egresos de la Federación.
 
 XIV.- Participar, en su caso, en la discusión para la formulación de anteproyectos de leyes, reglamentos y demás disposiciones de carácter general que se requieran para la planeación, programación, presupuestación y evaluación del gasto público, así como de la actividad económica, financiera, administrativa, fiscal y de deuda pública del Estado;
 
@@ -1118,3 +1154,11 @@ EL SUBSECRETARIO DE EGRESOS,
 Lic. José Alejandro Díaz Lozano.
 
 En Suplencia por Ausencia del Secretario de Finanzas con fundamento en el artículo 22 de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes y 24 del Reglamento Interior de la Secretaría de Finanzas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE ENERO DE 2015.
+
+PRIMERO.- Publíquese las presentes Reformas en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación.
