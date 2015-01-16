@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-servicio-de-proteccion-federal-83257"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-18"
-last_updated: "2011-10-18"
+last_updated: "2015-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83257&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-10-12"
 ---
 # REGLAMENTO DEL SERVICIO DE PROTECCION FEDERAL
 
-REGLAMENTO DEL SERVICIO DE PROTECCION FEDERAL
+REGLAMENTO DEL SERVICIO DE PROTECCIÓN FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO DE PROTECCIÓN FEDERAL, PUBLICADO EN EL D.O.F. DE 16 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 18 de octubre de 2011.
 
@@ -1306,3 +1308,29 @@ En el caso de las referencias que se hagan en otras disposiciones jurídicas a l
 NOVENO.- Las erogaciones que deriven de la aplicación del Reglamento se realizarán mediante movimientos compensados en el presupuesto de la Secretaría de Seguridad Pública. En tal virtud, no se requerirán recursos adicionales para tales efectos en el presente ejercicio, ni se incrementará su presupuesto regularizable.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de octubre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Seguridad Pública, Genaro García Luna.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 16 DE ENERO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Servicio de Protección Federal publicado en el Diario Oficial de la Federación el 18 de octubre de 2011.
+
+TERCERO.- Se derogan las demás disposiciones que se opongan al presente Reglamento.
+
+CUARTO.- El Manual del Consejo se expedirá en un plazo de seis meses posteriores a la entrada en vigor de este Reglamento.
+
+QUINTO.- Los recursos humanos, materiales y financieros asignados a la Dirección General de Administración y Desarrollo relacionados con el desarrollo policial se transferirán a la Dirección General de Profesionalización, mientras que los relacionados con la administración a la Dirección General de Administración.
+
+Asimismo, los de la Dirección General de Operaciones se transferirán a la Dirección General de Servicios de Seguridad, y los de la Dirección General de Supervisión y Control se transferirán a la Inspección Interna, respetando los derechos de los integrantes del Servicio de Protección Federal conforme a la Ley.
+
+SEXTO.- Las referencias que en otros reglamentos, decretos, acuerdos, manuales y demás disposiciones administrativas se hagan a la Dirección General de Supervisión y Control se entenderán efectuadas a la Inspección Interna; las que se hagan respecto de la Dirección General de Operaciones, se entenderán efectuadas a la Dirección General de Servicios de Seguridad, mientras que las realizadas a la Comisión Disciplinaria y de Carrera corresponderán al Consejo de Honor y Justicia.
+
+SÉPTIMO.- Los asuntos en trámite ante las unidades administrativas que se extinguen o modifican su denominación en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas a las que se les otorgan la competencia correspondiente en este Reglamento.
+
+OCTAVO.- Los asuntos en trámite previo a la fecha de entrada en vigor del presente Reglamento, se resolverán de conformidad con las disposiciones vigentes al momento de iniciar éstos y sólo les serán aplicables los plazos previstos para la caducidad y prescripción establecidos en los artículos 74, 88 y 89 de este Reglamento.
+
+NOVENO.- Los procedimientos relativos al incumplimiento de los requisitos de permanencia e infracciones al régimen disciplinario de los integrantes del Servicio de Protección Federal que a la fecha de la entrada en vigor del presente Reglamento se estén substanciando, deberán continuar su trámite ante el Consejo de Honor y Justicia del Servicio de Protección Federal.
+
+DÉCIMO.- La Secretaría de Gobernación realizará las acciones necesarias para que la implementación de este Reglamento, se realice con los recursos aprobados a dicha dependencia, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementará su presupuesto regularizable.
