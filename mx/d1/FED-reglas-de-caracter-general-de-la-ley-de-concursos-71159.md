@@ -4,7 +4,7 @@ identifier: "FED-reglas-de-caracter-general-de-la-ley-de-concursos-71159"
 country: "mx"
 rank: "reglas"
 publication_date: "2009-12-18"
-last_updated: "2009-12-18"
+last_updated: "2015-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71159&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-11-26"
 ---
 # REGLAS DE CARACTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES
 
-REGLAS DE CARACTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES
+REGLAS DE CARÁCTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2015.
 
 Reglas publicadas en la Primera Sección del Diario Oficial de la Federación, el viernes 18 de diciembre de 2009.
 
@@ -567,6 +567,20 @@ Regla 59.- Estas Reglas podrán ser revisadas y modificadas por la Junta Directi
 
 Regla 60.- Cualquier circunstancia que se presente en los distintos temas a los que se refieren las presentes Reglas y que no tenga un tratamiento específico en las mismas, será resuelto por la Junta Directiva del Instituto cuidando dejar asentadas las razones que le lleven a tomar tal decisión, de manera que establezcan un criterio que pueda ser aplicado en casos similares.
 
+> <small>(ADICIONADO CON LAS REGLAS QUE LO INTEGRAN, D.O.F. 16 DE ENERO DE 2015)</small>
+
+## TITULO XIII - VALOR DE ENAJENACION DE BIENES DE LA MASA, HASTA POR EL CUAL LOS MISMOS PUEDEN ENAJENARSE BAJO RESPONSABILIDAD DEL SINDICO, SIN ATENDER A LO DISPUESTO EN EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY.
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2015)</small>
+
+Regla 61.- Para efectos del artículo 208 de la ley, bajo su responsabilidad, el síndico podrá enajenar bienes de la Masa sin atender a lo dispuesto por el Capítulo I del Título Séptimo de la misma, cuando su valor unitario no exceda del equivalente a 100,000.00 unidades de inversión, sin incluir el Impuesto al Valor Agregado. Cuando existan varios bienes de la Masa cuyo valor unitario no exceda del monto previsto en el párrafo que antecede, podrán ser enajenados en un solo acto o en ventas sucesivas, sin restricción de acumulación de monto.
+
+Con la finalidad de maximizar el producto de la enajenación de la Masa, el síndico deberá ponderar si los bienes susceptibles de venta a través de la presente Regla, deben ser enajenados mediante alguno de los demás procedimientos previstos en la ley.
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2015)</small>
+
+Regla 62.- El valor de los bienes que se pretenda enajenar con base en la Regla 61, a criterio del síndico debe definirse vía referencias de valor, o comparables de mercado u otros métodos que él defina. Al informar de la enajenación como lo ordena el artículo 208 de la ley, el síndico adjuntará los elementos que hubieren sustentado la determinación del valor, los cuales deberán tener una vigencia máxima de seis meses anteriores a la venta.
+
 DISPOSICIONES TRANSITORIAS
 
 Primera.- Estas Reglas entrarán en vigor el día 1o. de febrero de 2010. Se derogan todas las Reglas emitidas por este Instituto en fechas anteriores.
@@ -578,3 +592,11 @@ Tercera.- Los honorarios de los Especialistas que se encuentren en funciones al 
 Cuarta.- El Registro de Especialistas sufrirá los cambios que se deriven de la aplicación de las presentes Reglas.
 
 México, D.F., a 26 de noviembre de 2009.- El Director General del Instituto Federal de Especialistas de Concursos Mercantiles, Luis Manuel C. Méjan Carrer.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 16 DE ENERO DE 2015.
+
+PRIMERA. Con fundamento en la Regla 2 de Carácter General de la Ley de Concursos Mercantiles, se ordena difundir este Acuerdo a través del Domicilio en Internet del Instituto y publicarlo en el Diario Oficial de la Federación.
+
+SEGUNDA. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
