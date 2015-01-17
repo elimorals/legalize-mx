@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-infraestructura-fisica-64486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-05"
-last_updated: "2008-11-05"
+last_updated: "2015-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FISICA EDUCATIVA
 
-LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FISICA EDUCATIVA
+LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 5 de noviembre de 2008.
 
@@ -85,9 +85,11 @@ Por infraestructura física educativa se entiende los muebles e inmuebles destin
 
 ### CAPÍTULO TERCERO. DE LA CALIDAD DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO 5°.
 
-La infraestructura física educativa del Estado deberá cumplir requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad y pertinencia, de acuerdo con la política educativa determinada por el mismo, por la Federación y los municipios, con base en lo establecido en el Artículo 3o. Constitucional; la Ley General de Educación; la Ley Estatal de Educación, los Planes Nacional y Estatal de Desarrollo; los Programas Sectoriales respectivos; los programas educativos aplicables, así como los programas de desarrollo regional.
+La infraestructura física educativa del Estado deberá cumplir requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, pertinencia y oferta suficiente de agua potable para consumo humano, de acuerdo con la política educativa determinada por el mismo, por la Federación y los municipios, con base en lo establecido en el Artículo 3o. Constitucional; la Ley General de Educación; la Ley Estatal de Educación, los Planes Nacional y Estatal de Desarrollo; los Programas Sectoriales respectivos; los programas educativos aplicables, así como los programas de desarrollo regional.
 
 Las autoridades educativas promoverán la participación de sectores sociales para optimizar y elevar la calidad de la INFE, en los términos que señalan esta Ley y las disposiciones que de la misma se deriven.
 
@@ -107,9 +109,11 @@ Los usuarios de los servicios educativos podrán solicitar los documentos que ac
 
 Las autoridades en la materia establecerán acciones para atender a los grupos y regiones con mayor rezago educativo, según parámetros estatales y municipales, mediante la creación de programas compensatorios tendientes a ampliar la cobertura y calidad de la infraestructura física educativa.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO 9°.
 
-En la planeación de los programas y proyectos para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la INFE, deberán cumplirse las disposiciones relativas a la Atención de las Personas con Discapacidad; atenderá las necesidades de las comunidades indígenas y las comunidades con escasa población o dispersa, y tomará en cuenta las condiciones climáticas y la probabilidad de contingencias ocasionadas por desastres naturales, tecnológicos o humanos, procurando la satisfacción de las necesidades individuales y sociales de la población.
+En la planeación de los programas y proyectos para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la INFE, deberán cumplirse las disposiciones relativas a la Atención de las Personas con Discapacidad. Asimismo, se garantizará la existencia de bebederos suficientes y con suministro continuo de agua potable en cada inmueble de uso escolar, conforme a los lineamientos que emita la Secretaría de Salud, en coordinación con la Secretaría de Educación, Cultura y Deporte; atenderá las necesidades de las comunidades indígenas y las comunidades con escasa población o dispersa, y tomará en cuenta las condiciones climáticas y la probabilidad de contingencias ocasionadas por desastres naturales, tecnológicos o humanos, procurando la satisfacción de las necesidades individuales y sociales de la población.
 
 ###### ARTÍCULO 10.
 
@@ -482,3 +486,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los quince días del mes de octubre del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P. O. 17 DE ENERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
