@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2014-11-03"
+last_updated: "2015-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2015.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -1533,7 +1533,7 @@ IV.- Estrechar la vinculación con las diversas dependencias de la Administraci�
 
 V.- Mantener la presencia y la comunicación de la Comisión de Igualdad y Género en los foros municipales en materia de género; y
 
-VI.- Promover la expedición de las normas legales en materia de Igualdad y Género; (sic)
+VI.- Promover la expedición de las normas legales en materia de Igualdad y Género;
 
 ###### Artículo 130.
 
@@ -2481,7 +2481,7 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Pre
 
 I.- Secretaría de Gobernación y del H. Ayuntamiento;
 
-II.- Secretaría del Finanzas y Administración;
+II.- Secretaría del (sic) Finanzas y Administración;
 
 III.- Secretaría de Contraloría Interna;
 
@@ -2497,13 +2497,11 @@ VII.- Secretaría de Servicios Públicos;
 
 VIII.- Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
 
-IX.- Secretaría de Desarrollo Económico y Turismo,
+IX. Secretaría de Desarrollo Económico, Turismo y Rural,
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
-
-X.- Secretaría de Desarrollo Rural,
+X. (DEROGADA, P.O. 19 DE ENERO DE 2015)
 
 XI.- Secretaría de Desarrollo Integral de la Familia; y
 
@@ -2541,23 +2539,37 @@ Los Manuales de Organización y Procedimientos serán elaborados por cada depend
 
 Las dependencias de la Administración Pública Municipal contarán con las siguientes Unidades Administrativas:
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2015)</small>
 
-I. Secretaría de Gobernación y del H. Ayuntamiento:
+I. Secretaría de Gobernación y del Ayuntamiento:
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 a). Coordinación Municipal de Protección Civil, Bomberos y Atención Pre hospitalaria,
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+
 b). Departamento Jurídico,
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 c). Departamento de Reglamentos y Control Sanitario,
 
-d). Departamento de Coordinación Educativa,
+d). (DEROGADO, P.O. 19 DE ENERO DE 2015)
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 e). Departamento de Atención al Migrante,
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+
 f). Departamento de Enlace con Relaciones Exteriores,
 
-g). Departamento de Archivo General de Gobierno, y
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2015)</small>
+
+g). Departamento de Archivo General de Gobierno; y
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 h). Departamento de Jueces Calificadores.
 
@@ -2647,21 +2659,27 @@ a). Departamento de Desarrollo Social,
 
 b). Departamento de Participación Ciudadana,
 
-c). Departamento de Desarrollo Humano, y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+
+c). Departamento de Desarrollo Humano; y
 
 d). Departamento de Coordinación de la Juventud de Calvillo (COJUCA).
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2015)</small>
 
-VIII. Secretaría de Desarrollo Económico y Turismo:
+e). Departamento de Coordinación Educativa.
 
-a). Departamento de la Industria y el Comercio,
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
 
-b). Departamento de Desarrollo y Fomento Económico,
+VIII. Secretaría de Desarrollo Económico, Turismo y Rural:
 
-c). Departamento de Turismo y Promoción Municipal, y
+a). Unidad Regional Calvillo del Servicio Nacional de Empleo,
 
-d). Departamento de Pueblo Mágico y Artesanos.
+b). Departamento de Desarrollo Económico,
+
+c). Departamento de Turismo; y
+
+d). Departamento de Desarrollo Rural.
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -3493,85 +3511,53 @@ XII.- Promover y difundir las actividades artesanales, maquilas de mano de obra,
 
 XIII.- Lo demás que señalen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-#### SECCIÓN NOVENA. De la Secretaría de Desarrollo Económico
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ENERO DE 2015)</small>
+
+#### SECCIÓN NOVENA
+
+De la Secretaría (sic) Desarrollo Económico, Turismo y Rural.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2015)</small>
 
 ###### Artículo 335.
 
-Corresponde a la Secretaría de Desarrollo Económico:
+Corresponde a la Secretaría de Desarrollo Económico, Turismo y Rural:
 
-I.- Impulsar y fortalecer el desarrollo económico en el Municipio, involucrando a todos los sectores sociales, a través del liderazgo gubernamental, sumando las fortalezas de los habitantes y recursos municipales, dentro de un contexto local y regional;
+I. Procurar el mejoramiento de las condiciones de vida de la población del municipio, a través del impulso al desarrollo económico, promoviendo la inversión pública y privada en los sectores económicos, primarios, de transformación y servicios,
 
-II.- Detectar oportunidades dentro del Municipio y generar proyectos de inversión y de desarrollo económico, para atraer inversionistas;
+II. Coordinar la operación de la Unidad Regional del Servicio Nacional del Empleo y coadyuvar al cumplimiento de sus programas y metas:
 
-III.- Diseñar esquemas modernos donde involucrando a todos los actores económicos del Municipio se fortalezcan la industria, el comercio y los servicios;
+III. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos al fomento e impulso de las actividades económicas como la industria, el comercio, los servicios, el turismo y las actividades agropecuarias;
 
-IV.- Diseñar esquemas de apoyo a la pequeña y mediana empresa;
+IV. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos a la conservación de los recursos naturales y las áreas naturales protegidas, así como todos los que apliquen a estas zonas y mejoren las condiciones de vida de su población;
 
-V.- Diseñar esquemas que favorezcan a los emprendedores a crear sus propias empresas;
+V. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos al desarrollo de capacidades en la población en general así como para el desarrollo de los distintos sectores productivos del municipio;
 
-VI.- Promover la inversión privada en el Municipio y proponer al Presidente Municipal las medidas para impulsar la mejora regulatoria y la simplificación de trámites municipales;
+VI. Desarrollar y coordinar acciones para la promoción de Calvillo como atractivo turístico, mantener y mejorar la afluencia de visitantes a través de la búsqueda de alianzas con operadores turísticos;
 
-VII.- Controlar la instalación y operación de giros comerciales, industriales y de prestación de servicios en el Municipio y expedir las licencias y permisos correspondientes, con excepción de los que deben estar amparados por licencias especiales;
+VII. Coadyuvar con las actividades del Comité Calvillo Pueblo Mágico para dar cumplimiento a los lineamientos del Programa Pueblos Mágicos.
 
-VIII.- Promover el turismo hacia el Municipio y el fortalecimiento de la infraestructura dedicada a la atención de los visitantes, aplicando los recursos que determine el Presupuesto;
+VIII. Fomentar la conservación y el desarrollo de las actividades artesanales del municipio reconociendo este conocimiento como un patrimonio de todos los Calvillenses;
 
-IX.- Promover y fomentar el desarrollo empresarial;
+IX. Programar y organizar las sesiones del Consejo Municipal para el Desarrollo Rural Sustentable, así como dar seguimiento a los acuerdos;
 
-X.- Coordinar, promover y controlar la ejecución de políticas y programas del Municipio de Calvillo, en lo referente a las actividades comerciales, industriales, de minería, de abasto, de turismo y de exportación;
+X. Establecer vínculos de cooperación con las dependencias afines a la Secretaría en el ámbito federal y estatal a fin de establecer mecanismos de cooperación y estrategias para cumplir con los objetivos establecidos en (sic) Plan Municipal de Desarrollo;
 
-XI.- Establecer un sistema de consulta pública con información municipal, para efectos de desarrollo económico;
+XI. Establecer vínculos de cooperación con las organizaciones y asociaciones de productores de cada uno de los sectores a los que atiende la Secretaría, a fin de coadyuvar al cumplimiento de sus metas y objetivos;
 
-XII.- Promover y difundir las actividades artesanales, maquilas de mano de obra, así como la comercialización de productos propios del Municipio;
+XII. Ejecutar esquemas de apoyo para las micro, pequeñas y medianas empresas derivadas de las políticas públicas establecidas en los Planes Estatal y Nacional de Desarrollo;
 
-XIII.- Organizar, participar y patrocinar exposiciones, eventos, y ferias, que coadyuven al desarrollo empresarial, comercial y al fomento del empleo;
+XIII. Facilitar la apertura de nuevas empresas a través de la implementación de la Ventanilla Única de Atención Empresarial; y
 
-XIV.- Fomentar la capacitación y asistencia técnica integral en forma permanente en las micro y pequeñas empresas para su desarrollo y proyección en el mercado;
+XIV. Las demás que este Reglamento y otras disposiciones legales determinen.
 
-XV.- Apoyar a las empresas en las gestiones para la obtención de servicios, insumos, financiamientos y demás elementos necesarios para el desarrollo de sus actividades; y
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE ENERO DE 2015)</small>
 
-XVI.- Las demás que legalmente le correspondan.
-
-#### SECCIÓN DÉCIMA. Secretaría de Desarrollo Rural Sustentable
+#### SECCIÓN DÉCIMA
 
 ###### Artículo 336.
 
-Compete a la Secretaría de Desarrollo Rural Sustentable:
-
-I.- Promover el mejoramiento de las condiciones de vida de la población rural y de los productores, mediante la inversión, la diversificación y tecnificación del campo;
-
-II.- Ejecutar y evaluar las políticas y programas relativos al fomento de la actividad agropecuaria, de conformidad con los planes nacional, estatal y municipal de desarrollo;
-
-III.- Promover la suscripción de convenios de coordinación que tengan por objeto la participación del Municipio en la ejecución de acciones y programas en materia de agricultura, ganadería, agua de uso agrícola, acuacultura, forestal y todas las actividades relacionadas con el sector rural; así como ejercer las atribuciones que se deriven de los mismos;
-
-IV.- Promover el empleo en el medio rural, así como establecer programas y acciones que tiendan a fomentar la productividad y rentabilidad de las actividades económicas rurales;
-
-V- Fomentar las actividades agrícolas, ganaderas, frutícolas, acuícolas, agroindustriales, forestales, turismo rural y aquellas que incidan en el desarrollo económico de los productores, promoviendo el crédito, la organización, los seguros, la transferencia de tecnología y la tecnificación en coordinación con las dependencias federales, estatales, municipales y los sectores social y privado;
-
-VI.- Elaborar y establecer acciones y programas en beneficio de los productores;
-
-VII.- Coordinar con el Estado, la Federación y las Organizaciones de Productores, la realización de programas y acciones que coadyuven la comercialización de los productos del sector primario que se propongan;
-
-VIII.- Promover el desarrollo de la infraestructura industrial y comercial relacionada con la producción ganadera, agrícola, forestal y acuícola;
-
-IX.- Formular, dirigir y supervisar los programas y actividades relacionados con la asistencia técnica y la capacitación a los productores rurales;
-
-X.- Coadyuvar con los programas oficiales relacionados con la Sanidad Animal y Vegetal, así como con la inocuidad de los productos agropecuarios;
-
-XI.- Elaborar, actualizar y gestionar un banco de proyectos y oportunidades de inversión en el sector rural en atención a los objetivos del Plan de Desarrollo Municipal;
-
-XII.- Organizar y fomentar congresos, ferias, exposiciones, concursos agrícolas, pecuarios, forestales y acuícolas, así como otras actividades que se desarrollen en el medio rural;
-
-XIII.- Coordinar con los organismos competentes la elaboración de estudios relacionados con el sector rural que fomenten la competitividad del mismo;
-
-XIV.- Llevar el control estadístico de las actividades agrícolas, ganaderas, forestales, acuícolas y de todas aquellas relacionadas con el sector rural en el Municipio, en coordinación con las autoridades competentes;
-
-XV.- Coadyuvar en las actividades del Consejo Municipal de Desarrollo Rural Sustentable de Calvillo que se le indiquen;
-
-XVI.- Vigilar, en el ámbito de su competencia, la aplicación de las leyes, reglamentos y demás disposiciones relacionadas con la materia;
-
-XVII.- Procurar el desarrollo de la producción agrícola y pecuaria, así como la industrialización y comercialización de los productos del campo; y
-
-XVIII.- Las demás que le atribuyan las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Presidente Municipal.
+(DEROGADO, P.O. 19 DE ENERO DE 2015)
 
 #### SECCIÓN DÉCIMA PRIMERA. De la Secretaría de Desarrollo Integral de la Familia
 
@@ -3965,7 +3951,7 @@ XII. Formular programas para promover la cultura física y deporte entre las per
 
 XIII. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado; y
 
-XIV Las demás que Ley (sic) u otras disposiciones legales determinen.
+XIV Las demás que (sic) Ley u otras disposiciones legales determinen.
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -4089,7 +4075,7 @@ VIII. Acordar, con sujeción a las disposiciones legales relativas, los donativo
 
 IX. Realizar los actos que sean necesarios para el cumplimiento de los objetivos del Instituto del Deporte de Calvillo;
 
-X. Las demás que le confieran las disposiciones legales aplicables en la materia; (sic)
+X. Las demás que le confieran las disposiciones legales aplicables en la materia;
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -5565,7 +5551,7 @@ a).- En uno de ellos se encuentra únicamente información de la Secretaría de 
 
 b).- El otro, custodia en sus instalaciones documentos del resto de las Secretarías y Departamentos Municipales.
 
-III.- Archivo Histórico.- Unidad responsable de organizar, conservar, administrar, describir y dar a conocer al público la documentación de carácter histórico. Se encuentra dentro de las antiguas instalaciones del "Centro Cívico Social Calvillo". La información de los documentos ocupa aquí un valor secundario (es evidencia, testimonio e informa); (sic)
+III.- Archivo Histórico.- Unidad responsable de organizar, conservar, administrar, describir y dar a conocer al público la documentación de carácter histórico. Se encuentra dentro de las antiguas instalaciones del "Centro Cívico Social Calvillo". La información de los documentos ocupa aquí un valor secundario (es evidencia, testimonio e informa);
 
 ###### Artículo 555.
 
@@ -16775,7 +16761,7 @@ restantes.
 
 Morteros Tipo I (exclusivamente) cemento-arena
 
-en razón de de 1 a 3.
+en razón de 1 a 3.
 
 ###### Artículo 1574.
 
@@ -18139,9 +18125,11 @@ Para la renovación de cualquier licencia se requiere mantener los requisitos ne
 
 Toda licencia es por naturaleza intransmisible, pero podrá solicitarse cambio de titular de licencia en el caso de sucesión hereditaria o intestada, así como en caso de que el titular lo solicite a favor de su cónyuge o descendientes en línea recta.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2015)</small>
+
 ###### Artículo 1777.
 
-Para la realización de cualquier cambio de domicilio de establecimiento comercial, industrial o de servicios, el interesado debe cumplir con todos y cada uno de los requisitos necesarios como si se tratara de una solicitud de licencia nueva y realizar el pago correspondiente de derechos que la Ley vigente establezca para una licencia nueva, tratándose de giros reglamentados.
+Para la realización de cualquier cambio de domicilio de establecimiento comercial, industrial o de servicios, el interesado debe cumplir con todos y cada uno de los requisitos necesarios como si se tratara de una solicitud de licencia nueva y realizar el pago correspondiente de derechos que la ley de Ingresos vigente establezca para una renovación anual, tratándose de giros reglamentados.
 
 ###### Artículo 1778.
 
@@ -20897,7 +20885,7 @@ IV.- Tres Vocales, nombrados por la asamblea comunitaria y la Presidencia Munici
 
 V.- Un representante del Patronato; y
 
-VI.- Los Coordinadores que fueran necesarios para la realización de los diferentes actos, mismos que serán nombrados por acuerdo del Presidente, el Secretario, el Tesorero, los Vocales y el representante del Patronato; (sic)
+VI.- Los Coordinadores que fueran necesarios para la realización de los diferentes actos, mismos que serán nombrados por acuerdo del Presidente, el Secretario, el Tesorero, los Vocales y el representante del Patronato;
 
 ###### Artículo 2142.
 
@@ -24052,5 +24040,35 @@ P.O. 3 DE NOVIEMBRE DE 2014.
 Artículo Segundo.- Las presentes reformas y adiciones al Código Municipal de Calvillo, Aguascalientes, deberán publicarse en el Periódico Oficial del Estado de Aguascalientes y en los Estrados de esta Presidencia Municipal.
 
 Artículo Tercero.- Las presentes reformas y adiciones al Código Municipal de Calvillo, Aguascalientes, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Artículo Cuarto.- Cúmplase.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE LOS PUNTOS DEL ACUERDO POR EL QUE SE MODIFICA EL ARTÍCULO 1777 DEL CÓDIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES.</small>
+
+P.O. 19 DE ENERO DE 2015.
+
+ACUERDO POR EL QUE SE MODIFICA EL ARTÍCULO 1777 DEL CÓDIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Aguascalientes, para que surta los efectos a que haya lugar.
+
+###### ARTÍCULO TERCERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Cúmplase.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE ENERO DE 2015.
+
+ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN LOS ARTÍCULOS 304, 311, 335 Y 336 Y LA SECCIÓN DÉCIMA DEL CÓDIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES.
+
+Artículo Segundo.- Publíquese el presente Decreto Municipal en el Periódico Oficial del Estado de Aguascalientes, para los efectos legales conducentes.
+
+Artículo Tercero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 Artículo Cuarto.- Cúmplase.
