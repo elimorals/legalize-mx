@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2014-11-27"
+last_updated: "2015-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE ENERO DE 2015.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -172,6 +172,10 @@ En el Estado de México se fomentará a sus habitantes el cuidado de su salud, p
 > <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
 En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
+
+> <small>(ADICIONADO, G.G. 19 DE ENERO DE 2015)</small>
+
+Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de este derecho. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -3894,3 +3898,9 @@ PRIMERO.- El presente Decreto se publicará en el Periódico Oficial “Gaceta d
 SEGUNDO.- El presente Decreto entrará en vigor hasta que tenga vigencia el Código Nacional de Procedimientos Penales.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 19 DE ENERO DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
