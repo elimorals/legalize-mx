@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-instituto-de-pensiones-del-estado-73338
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-25"
-last_updated: "2010-01-25"
+last_updated: "2015-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73338&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE PENSIONES DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE PENSIONES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 20 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE ENERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 25 de enero de 2010.
 
@@ -163,7 +165,7 @@ I. Cumplir y hacer cumplir la Ley y sus disposiciones reglamentarias.
 
 II. Proponer al Gobernador del Estado, los anteproyectos de reformas y adiciones a la Ley.
 
-Ill. Aprobar los reglamentos que se deriven de la Ley y dictar los acuerdos que resulten necesarios para el cumplimiento de los fines del Instituto.
+III. Aprobar los reglamentos que se deriven de la Ley y dictar los acuerdos que resulten necesarios para el cumplimiento de los fines del Instituto.
 
 IV. Planear las operaciones y servicios del Instituto.
 
@@ -708,3 +710,19 @@ Director General
 Mtro. Abel Cuéllar Morales
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 20 DE ENERO DE 2015.
+
+###### ARTICULO PRIMERO.
+
+Este reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+###### ARTICULO SEGUNDO.
+
+Queda abrogado el Reglamento Interior aprobado mediante Acuerdo No. 66,687-A de 25 de noviembre del 2009, así como sus reformas y adiciones.
+
+###### ARTICULO TERCERO.
+
+Los trámites iniciados bajo la vigencia del anterior Reglamento seguirán su trámite normal hasta su conclusión en los mismos términos y procedimientos previstos en dicho ordenamiento.
