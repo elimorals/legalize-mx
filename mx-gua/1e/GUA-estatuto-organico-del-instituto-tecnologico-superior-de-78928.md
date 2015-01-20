@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-del-instituto-tecnologico-superior-de-78928"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-12-17"
-last_updated: "2010-12-17"
+last_updated: "2015-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO TECNOLOGICO SUPERIOR DE GUANAJUATO
 
-ESTATUTO ORGANICO DEL INSTITUTO TECNOLOGICO SUPERIOR DE GUANAJUATO
+ESTATUTO ORGÁNICO DEL INSTITUTO TECNOLÓGICO SUPERIOR DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2015.
 
 Estatuto publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de diciembre de 2010.
 
@@ -69,7 +69,9 @@ El modelo académico del Instituto estará orientado a:
 
 I. Impartir educación superior de calidad para la formación en los niveles de técnico superior universitario, licenciatura, maestría y doctorado, así como cursos de actualización, especialización y superación académica, en su modalidad escolar y extraescolar, de acuerdo con los planes y programas de estudio aprobados, que le permita al alumnado desempeñarse profesionalmente en actividades productivas;
 
-II. Determinar, planear y desarrollar programas de innovación científica y tecnológica; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+
+II. Determinar, planear y desarrollar programas de investigación, innovación y desarrollo científico y tecnológico; y
 
 III. Capacitar y evaluar competencias.
 
@@ -115,15 +117,29 @@ V. Aprobar la asignación de recursos humanos, económicos y materiales que apoy
 
 VI. Aprobar las cuotas o pagos realizados con motivo de la prestación de servicios educativos, tecnológicos, educación continua y demás establecidos en la normatividad aplicable;
 
-VII. Aprobar el calendario escolar a propuesta del Director General; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
 
-VIII. Conocer y resolver los casos que no sean de la competencia de ningún otro órgano del Instituto.
+VII. Aprobar el calendario escolar a propuesta del Director General;
 
-Convocatoria de las Sesiones
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+
+VIII. Conocer y resolver los casos que no sean de la competencia de ningún otro órgano del Instituto;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2015)</small>
+
+IX. Aprobar la integración de los órganos colegiados; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2015)</small>
+
+X. Establecer las normas y lineamientos para el desarrollo de las actividades del Instituto.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2015)</small>
+
+Convocatoria de las sesiones
 
 ###### Artículo 7.
 
-Las sesiones de la Junta Directiva serán convocadas por el Presidente así como por el Secretario Técnico con la anuencia del primero.
+Las sesiones de la Junta Directiva serán convocadas por el Presidente o por el Director General del Instituto, a través del Secretario Técnico, con la anuencia del Presidente.
 
 Celebración de las sesiones
 
@@ -287,7 +303,7 @@ X. Generar, en coordinación con la Subdirección de Planeación y Vinculación,
 
 XI. Elaborar, diseñar y mejorar, en coordinación con la Subdirección de Planeación y Vinculación, el programa de emprendedores y de incubación de empresas y la integración de un programa permanente de visitas, estadías y prácticas profesionales; y
 
-XlI. Todas aquellas inherentes al desempeño del puesto.
+XII. Todas aquellas inherentes al desempeño del puesto.
 
 #### Sección Cuarta. Coordinadores de Carrera
 
@@ -395,29 +411,43 @@ IV. Coordinar la formulación de los anteproyectos de presupuesto de ingresos y 
 
 V. Coordinar la elaboración y actualización de los manuales administrativos, así como verificar su cumplimiento y difusión;
 
-VI. Certificar los documentos administrativos que se expidan o que obren en archivos del Instituto y que no correspondan a otros órganos o instancias;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+
+VI. Certificar los documentos administrativos que se expidan o que obren en los archivos del Instituto;
 
 VII. Realizar las gestiones relativas a la adquisición, baja y destino final de bienes y servicios;
 
-VIII. Elaborar el programa anual de mantenimiento preventivo y correctivo de bienes;
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2015)</small>
 
-IX. Analizar las propuestas y planes de inversión del equipo requerido por el Instituto;
+VIII. Realizar las gestiones necesarias para la contratación de servicios;
 
-X. Emitir opinión desde el punto de vista financiero sobre cualquier solicitud que formule la Junta Directiva o el Director General;
+IX. Elaborar el programa anual de mantenimiento preventivo y correctivo de bienes;
 
-XI. Llevar a cabo los procesos de contratación del personal académico y administrativo según las disposiciones normativas que para tal efecto se expidan;
+X. Analizar las propuestas y planes de inversión del equipo requerido por el Instituto;
 
-XII. Evaluar el desempeño del personal administrativo y docente del Instituto y
+XI. Emitir opinión desde el punto de vista financiero sobre cualquier solicitud que formule la Junta Directiva o el Director General;
 
-XIII. Todas aquellas inherentes al desempeño del puesto.
+XII. Llevar a cabo los procesos de contratación del personal académico y administrativo según las disposiciones normativas que para tal efecto se expidan;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+
+XIII. Evaluar el desempeño del personal administrativo del Instituto; y
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+
+XIV. Todas aquellas inherentes al desempeño del puesto.
 
 #### Sección Séptima. Abogado General
 
-Representación legal del Instituto
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2015)</small>
+
+Representante legal para pleitos y cobranzas
 
 ###### Artículo 26.
 
-El Abogado General, de conformidad con lo señalado en el artículo 17 de su Decreto de creación, apoyará al Director General en la representación legal del instituto, con facultades de apoderado general para pleitos y cobranzas con todas las facultades generales y las que requieran mandato o cláusula especial conforme a la ley.
+El Abogado General contará con la representación general para pleitos y cobranzas del Instituto, con todas las facultades generales y las que requieran mandato o cláusula especial conforme a la ley y en los términos del artículo siguiente.
+
+El Abogado General podrá ser el representante legal del Instituto en asuntos diversos a los previstos en el párrafo anterior, para los que el Director General le delegue esta facultad mediante oficio.
 
 Facultades del Abogado General
 
@@ -425,19 +455,41 @@ Facultades del Abogado General
 
 El Abogado General tiene las facultades siguientes:
 
-l. Representar al Instituto en los asuntos judiciales, laborales y administrativos que le asigne el Director General, con facultades de apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y las que requieran mandato o cláusula especial conforme a la ley, incluso presentar y contestar demandas, denuncias o querellas, quejas, ejercitar acciones, defensas, oponiendo excepciones y reconviniendo, ofrecer y desahogar cualquier tipo de pruebas, así como interponer todo tipo de juicios o recursos;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
 
-II. Acudir ante las autoridades laborales y representar legalmente al Instituto en cualquier etapa del procedimiento laboral, así como celebrar todo tipo de contratos, convenios y finiquitos;
+I. Representar al Instituto en los asuntos judiciales, laborales y administrativos con facultades de apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y las que requieran mandato o cláusula especial conforme a la ley, incluso presentar y contestar demandas, denuncias o querellas, quejas, ejercitar acciones, defensas, oponiendo excepciones y reconviniendo, ofrecer y desahogar cualquier tipo de pruebas, así como interponer todo tipo de juicios o recursos; así como celebrar todo tipo de contratos, convenios y finiquitos;
 
-III. Otorgar el perdón o desistirse en los asuntos que así lo permita la Ley, previa autorización del Director General;
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2015)</small>
 
-IV. Proponer a la Junta Directiva y funcionarios del Instituto las medidas legales sobre administración y operatividad que considere apropiadas para el cumplimiento de sus funciones;
+II. Fungir como representante legal del Instituto cuando el Director General le delegue esta facultad;
 
-V. Asesorar en el trámite del registro de patentes, marcas y derechos de autor que requiera el Instituto;
+III. Acudir ante las autoridades laborales y representar legalmente al Instituto en cualquier etapa del procedimiento laboral, así como celebrar todo tipo de contratos, convenios y finiquitos;
 
-VI. Presentar los informes que sean requeridos por el Director General; y
+IV. Otorgar el perdón o desistirse en los asuntos que así lo permita la Ley, previa autorización del Director General;
 
-VII. Todas aquellas inherentes al desempeño del puesto.
+V. Proponer a la Junta Directiva y funcionarios del Instituto las medidas legales sobre administración y operatividad que considere apropiadas para el cumplimiento de sus funciones;
+
+VI. Asesorar en el trámite del registro de patentes, marcas y derechos de autor que requiera el Instituto;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+
+VI (SIC). Presentar los informes que sean requeridos por el Director General o por la Junta Directiva;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2015)</small>
+
+VII. Formular los proyectos normativos relacionados con la organización y funcionamiento del Instituto y someterlos a la consideración del Director General;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2015)</small>
+
+VIII. Compilar las disposiciones jurídicas que norman el funcionamiento del Instituto, difundirlas y proponer a la Dirección General su actualización, edición o supresión;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2015)</small>
+
+IX. Asesorar al Director General en la celebración de convenios, contratos o cualquier acto legal que deba suscribir en representación del Instituto; y
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+
+X. Todas aquellas inherentes al desempeño del puesto, así como las que le confiera el Director General.
 
 ### Capítulo IV. Contraloría Interna
 
@@ -447,7 +499,9 @@ Facultades de la Contraloría Interna
 
 La Contraloría Interna, además de las facultades conferidas en el artículo 24 del Decreto de creación, tendrá las siguientes:
 
-I. Elaborar el programa anual de auditoría y remitirlo al Titular de la Secretaría de la Gestión Pública para su aprobación, así como coordinar la ejecución de sus operaciones con las unidades que de acuerdo a su competencia, le señale ésta;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+
+I. Elaborar el programa anual de auditoría y remitirlo al titular de la Secretaría de la Transparencia y Rendición de Cuentas para su aprobación, así como coordinar la ejecución de sus operaciones con las unidades que de acuerdo a su competencia, le señala ésta;
 
 II. Vigilar que las unidades administrativas del Instituto se apeguen a las disposiciones legales aplicables en el desarrollo de sus funciones;
 
@@ -459,15 +513,21 @@ V. Efectuar el análisis e interpretación de los estados financieros del Instit
 
 VI. Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece el Instituto;
 
-VII. Atender y tramitar las quejas y denuncias que se interpongan en contra de los servidores públicos del Instituto, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, así como someter a consideración del Titular de la Secretaría de la Gestión Pública el proyecto de resolución de las mismas;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+
+VII. Recibir las quejas y denuncias que se interpongan ante ella en contra de los servidores públicos del Instituto, conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y, en su caso, canalizarlas a la Secretaría de la Transparencia y Rendición de Cuentas;
 
 VIII. Brindar asesoría en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado;
 
 IX. Fiscalizar, en su caso, los recursos federales ejercidos por el Instituto, derivados de los acuerdos o convenios respectivos;
 
-X. Informar periódicamente al Consejo Directivo y a la Secretaría de la Gestión Pública del desarrollo de sus funciones; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
 
-XI. Las demás que las disposiciones legales y reglamentarias le atribuyan así como aquellas que le confiera el Titular de la Secretaría de la Gestión Pública.
+X. Informar periódicamente a la Junta Directiva y a la Secretaría de la Transparencia y Rendición de Cuentas o a la que realice funciones de contraloría y supervisión a los organismos o entes públicos, del desarrollo de sus funciones; y
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+
+XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el titular de la Secretaría de la Transparencia y Rendición de Cuentas o la que realice funciones de contraloría y supervisión a los organismos o entes públicos.
 
 ### Capítulo V. Órganos Colegiados
 
@@ -655,25 +715,33 @@ Competencia del Consejo de Vinculación
 
 El Consejo de Vinculación es el órgano responsable de formular y dirigir acciones que permitan al Instituto robustecer el vínculo y participación con el sector académico nacional e internacional, el sector empresarial, así como con el sector social.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2015)</small>
+
 Integración del Consejo de Vinculación
 
 ###### Artículo 46.
 
 El Consejo de Vinculación se integrará por:
 
-I. El Director General, quien fungirán (sic) como Presidente;
+I. Un representante del sector empresarial alineado al perfil de egreso de la carrera de ingeniería en sistemas;
 
-II. El Subdirector de Planeación y Vinculación del Instituto, quien fungirá como Secretario;
+II. Un representante del sector empresarial alineado al perfil de egreso de la carrera de ingeniería industrial;
 
-III. Un representante del sector académico;
+III. Un representante del sector empresarial alineado al perfil de egreso de la carrera de ingeniería en mecatrónica;
 
-IV. Un representante del sector empresarial;
+IV. Un representante del sector empresarial alineado al perfil de egreso de la carrera de ingeniería de industrias alimentarias;
 
-V. Un representante del sector social;
+V. El Director General del Instituto;
 
-VI. Un comisario, que será un representante del sector social, quien tendrá derecho a voz pero no a voto; y
+VI. El Subdirector de Planeación y Vinculación, quien fungirá como secretario técnico;
 
-VII. Un representante de la Secretaría de Educación.
+VII. Un representante de la Secretaría de Desarrollo Económico Sustentable;
+
+VIII. Un representante del municipio de Guanajuato; y
+
+IX. Un representante de la Secretaría de Educación.
+
+La Presidencia del Consejo de Vinculación se elegirá de entre los representantes señalados en las fracciones I a IV y durará en su encargo dos años, pudiendo reelegirse hasta por un segundo periodo.
 
 Facultades del Consejo de Vinculación
 
@@ -788,3 +856,15 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 EL SECRETARIO DE EDUCACIÓN
 
 ALBERTO DE L.S. DIOSDADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE ENERO DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Conformación del Consejo de Vinculación
+
+Artículo Segundo. La Junta Directiva contará con un plazo de 60 días hábiles, contados a partir de que entre en vigencia el presente Decreto Gubernativo, para aprobar la conformación del Consejo de Vinculación.
