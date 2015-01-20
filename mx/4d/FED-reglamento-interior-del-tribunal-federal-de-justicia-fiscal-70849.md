@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2014-07-03"
+last_updated: "2015-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -101,7 +101,7 @@ XVII. Sala Superior: El órgano integrado por los 13 Magistrados que ejerce las 
 
 XVIII. Secciones: Las Secciones de la Sala Superior;
 
-XIX. Sistema de Justicia en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal; y (sic)
+XIX. Sistema de Justicia en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal; y
 
 > <small>(ADICIONADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
@@ -323,7 +323,7 @@ III. Dirigir la política de comunicación social y de relaciones públicas del 
 
 IV. Formular promociones, concurrir a las audiencias, rendir pruebas, formular alegatos, promover cualquier clase de incidentes y recursos, rendir los informes previos y justificados cuando los actos reclamados en los juicios de amparo sean imputados al Tribunal, a la Sala Superior, al Pleno Jurisdiccional de la Sala Superior o a la Junta;
 
-V. Designar a servidores públicos del Tribunal para que lo representen en eventos académicos o de cualquier otra naturaleza, vinculados con el conocimiento y divulgación de materias relacionadas con su competencia, en el entendido de que el cumplimiento de esta encomienda por parte de los servidores públicos designados, se entenderá como parte de las labores a su cargo en la residencia del órgano del Tribunal a que esté adscrito, en cuyo caso no requerirá licencia, y (sic)
+V. Designar a servidores públicos del Tribunal para que lo representen en eventos académicos o de cualquier otra naturaleza, vinculados con el conocimiento y divulgación de materias relacionadas con su competencia, en el entendido de que el cumplimiento de esta encomienda por parte de los servidores públicos designados, se entenderá como parte de las labores a su cargo en la residencia del órgano del Tribunal a que esté adscrito, en cuyo caso no requerirá licencia, y
 
 VI. Autorizar, junto con el Secretario Auxiliar de la Junta, las actas en que se hagan constar las deliberaciones y acuerdos de dicho órgano y firmar el engrose de las resoluciones que emita.
 
@@ -571,7 +571,7 @@ XVIII. Golfo-Norte, que comprende el Estado de Tamaulipas, con excepción de los
 
 XIX. Chiapas-Tabasco, que comprende los Estados de Chiapas y Tabasco;
 
-XX. Caribe, que comprende el Estado de Quintana Roo, y (sic)
+XX. Caribe, que comprende el Estado de Quintana Roo, y
 
 XXI. Pacífico-Centro, que comprende el Estado de Michoacán.
 
@@ -641,7 +641,7 @@ XVIII. Región del Golfo-Norte: Una Sala que se denominará “Sala Regional del
 
 XIX. Región Chiapas-Tabasco: Una Sala que se denominará “Sala Regional Chiapas-Tabasco”, con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas;
 
-XX. Región del Caribe: Una Sala que se denominará “Sala Regional del Caribe”, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, y (sic)
+XX. Región del Caribe: Una Sala que se denominará “Sala Regional del Caribe”, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, y
 
 XXI. Región del Pacífico-Centro: Una Sala que se denominará “Sala Regional del Pacífico-Centro”, con sede en la ciudad de Morelia, Estado de Michoacán.
 
@@ -701,9 +701,7 @@ n) Comisión Reguladora de Energía (CRE)
 
 2) Tramitar y resolver los juicios que se promuevan contra resoluciones definitivas, actos administrativos y procedimientos, que encuadren en los supuestos previstos por las fracciones III, XI, XII y XIV, penúltimo y último párrafo, del artículo 14 de la Ley, dictadas con fundamento en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en la Ley General de Desarrollo Forestal Sustentable, Ley General de Vida Silvestre, Ley General para la Prevención y Gestión Integral de Residuos, Ley de Bioseguridad de Organismos Genéticamente Modificados, Ley General de Cambio Climático, así como en los demás ordenamientos que regulan la materia de Protección al Medio Ambiente, o que tengan alguna injerencia en la citada materia, que no sea del conocimiento de la Sala Especializada en Propiedad Intelectual.
 
-> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2014)</small>
-
-3) Tramitar y resolver los juicios que se promuevan contra normas oficiales mexicanas publicadas en el Diario Oficial de la Federación, cuando sean autoaplicativas o cuando se controviertan en unión o con motivo del primer acto de aplicación, de conformidad con lo previsto por el artículo 2o. de la Ley, siempre que se controvierta la legalidad de tales normas oficiales mexicanas, por vicios propios.
+3) (DEROGADO, D.O.F. 20 DE ENERO DE 2015)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ENERO DE 2013)</small>
 
@@ -1749,7 +1747,7 @@ XVI. Coordinar y vigilar las actividades de los Delegados Administrativos;
 
 XVII. Dirigir los Programas de Protección Civil y de Seguridad e Higiene, así como verificar la buena marcha del servicio médico dentro del Tribunal;
 
-XVIII. Requerir a las unidades administrativas del Tribunal la información y documentación necesarias para la elaboración de informes o reportes internos y externos, y (sic)
+XVIII. Requerir a las unidades administrativas del Tribunal la información y documentación necesarias para la elaboración de informes o reportes internos y externos, y
 
 > <small>(ADICIONADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
@@ -2471,7 +2469,7 @@ III. Apoyar y verificar el cumplimiento de las acciones de mejora derivadas de l
 
 IV. Revisar el cumplimiento de los programas establecidos por las áreas administrativas;
 
-V. Levantar y formalizar actas o minutas para establecer los compromisos de atención a las observaciones derivadas de la evaluación de programas y cumplimiento de disposiciones normativas, para corregir deficiencias y evitar su recurrencia, y (sic)
+V. Levantar y formalizar actas o minutas para establecer los compromisos de atención a las observaciones derivadas de la evaluación de programas y cumplimiento de disposiciones normativas, para corregir deficiencias y evitar su recurrencia, y
 
 > <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2014)</small>
 
@@ -2839,7 +2837,7 @@ TERCERO.- La Sala Regional del Norte-Centro IV que se crea iniciará sus operaci
 
 CUARTO.- En términos de lo señalado en el artículo 41 fracciones I y IV, de la Ley Orgánica del Tribunal, la Junta de Gobierno y Administración deberá dictar los demás acuerdos que sean necesarios para la operación de la Sala Regional del Norte-Centro IV, para establecer las reglas de atención de los juicios y redistribuir los expedientes que se encuentren radicados en la Sala Regional del Centro I, y que conforme al artículo 34 de la misma Ley Orgánica, sean competencia de la Sala Regional recién creada.
 
-QUINTO.- La Junta Gobierno (sic) y Administración llevará a cabo los estudios necesarios para proponer al Pleno Jurisdiccional, las Salas que deban ser auxiliadas por la Séptima Sala Auxiliar.
+QUINTO.- La Junta (sic) Gobierno y Administración llevará a cabo los estudios necesarios para proponer al Pleno Jurisdiccional, las Salas que deban ser auxiliadas por la Séptima Sala Auxiliar.
 
 El Pleno de la Sala Superior, en su integración formal de once Magistrados, determinará las Salas Regionales que serán apoyadas por la Sala Regional del Norte-Centro IV, en su calidad de Sala Auxiliar, con sede en la Ciudad de Zacatecas, Estado de Zacatecas.
 
@@ -2894,3 +2892,25 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación.
 
 TERCERO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en este ordenamiento.
+
+D.O.F. 20 DE ENERO DE 2015.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las Salas Regionales del Tribunal conocerán de los juicios promovidos contra las Normas Oficiales Mexicanas, cuando sean autoaplicativas o cuando se controviertan en unión o con motivo del primer acto de aplicación, así como los presentados contra resoluciones que se funden en dichas Normas, a partir de la entrada en vigor del presente Acuerdo.
+
+TERCERO.- Los juicios en que se controvirtió alguna o algunas Normas Oficiales Mexicanas por ser autoaplicativas o en unión o con motivo del primer acto de aplicación, así como los presentados contra resoluciones que se funden en dichas Normas, y que a la fecha de entrada en vigor del presente Acuerdo se encuentren en trámite, estarán sujetos a lo siguiente:
+
+I. La Sala Especializada en Materia Ambiental y de Regulación emitirá la sentencia que corresponda en aquellos juicios que tenga radicados a la fecha de entrada en vigor del presente Acuerdo, haya o no concluido la sustanciación del procedimiento, de acuerdo con lo previsto en el artículo 47 de la Ley Federal de Procedimiento Contencioso Administrativo.
+
+II. A partir de la entrada en vigor del presente Acuerdo, la Sala Especializada en Materia Ambiental y de Regulación devolverá a la Sala Regional que resulte competente, las demandas nuevas promovidas contra las Normas Oficiales Mexicanas, cuando sean autoaplicativas o cuando se controviertan en unión o con motivo del primer acto de aplicación, así como las presentadas contra resoluciones que se funden en dichas Normas, que en su caso se interpongan ante dicha Sala Especializada, lo que se realizará a través de la Oficialía de Partes correspondiente.
+
+III. No serán remitidos a las Salas Regionales aquellos juicios que ya hubiesen sido resueltos por la Sala Especializada, ya sea que la sentencia respectiva hubiere quedado firme, o bien, exista medio de defensa en contra de la sentencia dictada en juicio, que se encuentre pendiente de resolución. Dichos expedientes permanecerán en la Sala Especializada hasta su total conclusión.
+
+CUARTO.- Los incidentes de incompetencia por razón de materia que a la fecha de publicación del presente Acuerdo, se encuentren radicados o en trámite ante las Secciones de la Sala Superior, que se hayan interpuesto por los terceros o los demandados en los juicios, o bien, por las Salas de este Tribunal, se devolverán a las Salas ante las que se presentó la demanda para los efectos legales conducentes, por Acuerdo que emitan las Secciones de la Sala Superior.
+
+QUINTO.- Quedan sin efecto las disposiciones emitidas por la Junta de Gobierno y Administración, por el Pleno Jurisdiccional o por la propia Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa, que se opongan al presente Acuerdo.
+
+SEXTO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+SÉPTIMO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la página de internet del Tribunal Federal de Justicia Fiscal y Administrativa.
