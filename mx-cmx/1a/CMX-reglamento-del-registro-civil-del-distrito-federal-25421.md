@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-registro-civil-del-distrito-federal-25421"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2012-01-19"
+last_updated: "2015-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25421&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-28"
 
 REGLAMENTO DEL REGISTRO CIVIL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE ENERO DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 30 de julio de 2002.
 
@@ -50,53 +50,167 @@ I. Acta: Forma debidamente autorizada por el Juez y firmada por quienes en ella 
 
 II. Archivo Judicial: al Archivo Judicial del Tribunal Superior de Justicia del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Certificado de Nacimiento: el documento suscrito por médico autorizado para el ejercicio de su profesión o persona legalmente autorizada que haya asistido el parto, en el formato expedido por la Secretaría de Salud del Distrito Federal, en el que se hacen constar las circunstancias del nacimiento;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
 
-IV. Código Civil: al Código Civil para el Distrito Federal;
+III. Capitulaciones matrimoniales: El pacto económico que los otorgantes celebran para constituir el régimen patrimonial de su matrimonio y reglamentar la administración de los bienes. Pudiendo establecerse bajo un régimen absoluto de sociedad conyugal o de separación de bienes, o un régimen parcial mixto;
 
-V. Consejo: al Consejo del Registro Civil del Distrito Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Delegación: a los Órganos Político-Administrativos de cada demarcación territorial en el Distrito Federal;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
 
-VII. Dirección: a la Dirección General del Registro Civil del Distrito Federal;
+IV. Certificado de nacimiento: El documento suscrito por médico autorizado para el ejercicio de su profesión o persona legalmente autorizada que haya asistido el parto, en el formato expedido por la Secretaría de Salud del Distrito Federal, en el que se hacen constar las circunstancias del nacimiento;
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Formas: a las Formas del Registro Civil, impresas en papel seguridad, en las que se asientan los hechos y actos del estado civil y aquellas en las que se expiden las certificaciones de éstos;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
 
-IX. Juez: al Juez del Registro Civil;
+V. Certificado de REDAM: Documento expedido por el Registro Civil, con el fin de informar si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos;
 
-X. Juzgado: a los Juzgados del Registro Civil del Distrito Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
 
-XI. Módulo Registral: oficina dependiente de un Juzgado del Registro Civil, en la que se realizan registros de nacimiento y defunción;
+VI. Código Civil: Al Código Civil para el Distrito Federal;
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII. Oficina Central: a la sede de la Dirección General del Registro Civil del Distrito Federal;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
 
-XIII. Registro Civil: al Registro Civil del Distrito Federal;
+VII. Consejería Jurídica: A la Consejería Jurídica y de Servicios Legales del Distrito Federal;
 
-XIV. Reglamento: al presente Reglamento del Registro Civil del Distrito Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XV. Secretario: al Secretario de Juzgado del Registro Civil; y
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
 
-XVI. Titular: al Director General del Registro Civil del Distrito Federal;
+VIII. Consejo: Al Consejo del Registro Civil del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVII. Copia Certificada de reciente expedición: A la certificación expedida, con antigüedad no mayor de un año a la fecha de su presentación, para realizar el trámite de que se trate;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2004)</small>
+IX. Constancia de declaración de cesación de concubinato: El documento que expedirá el Juez del Registro Civil, en virtud de la declaración de los comparecientes con relación a la cesación, de concubinato, cohabitación y otros hechos relativos a relaciones de pareja, que no constituyen modificaciones al estado civil;
 
-XVIII. Extractos: constancias parciales de las actas registrales, con plena validez jurídica respecto de la información que contengan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
 
-XIX. Certificado de Registro de deudores alimentarios morosos: Constancia de adeudo de pensión alimenticia ordenada por el órgano jurisdiccional.
+X. Constancia de declaración de existencia de concubinato: El documento que expedirá el Juez del Registro Civil, en virtud de la declaración de los comparecientes con relación a la existencia, de concubinato, cohabitación y otros hechos relativos a relaciones de pareja, que no constituyen modificaciones al estado civil;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XI. Constancia de curso prenupcial: El documento que expedirá el Juez del Registro Civil que haya impartido el curso prenupcial, el cual hace constar que los contrayentes dieron ya cabal cumplimiento a dicho requisito, previo a la celebración de la ceremonia del matrimonio;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XII. Copia Certificada de reciente expedición: A la certificación expedida, con antigüedad no mayor de un año a la fecha de su presentación, para realizar el trámite de que se trate;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XIII. Cursos prenupciales: Los que obligatoriamente deberán tomar los contrayentes antes de la celebración de la ceremonia del matrimonio, sobre temas como la prevención de la violencia familiar, salud sexual y reproductiva, planificación familiar, el respeto a la equidad de género, relaciones de pareja, fines del matrimonio, derechos y obligaciones de los cónyuges, el régimen patrimonial en las capitulaciones matrimoniales, entre otros aspectos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XIV. Delegación: A los Órganos Político-Administrativos de cada demarcación territorial en el Distrito Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XV. Dirección: A la Dirección General del Registro Civil del Distrito Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XVI. Extractos: Constancias parciales de las actas registrales, con plena validez jurídica respecto de la información que contengan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XVII. Formas: A las Formas del Registro Civil, impresas en papel seguridad, en las que se asientan los hechos y actos del estado civil y aquellas en las que se expiden las certificaciones de éstos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XVIII. Juez: Al juez del Registro Civil;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XIX. Juzgado: A los juzgados del Registro Civil del Distrito Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XX. Módulo Registral: Oficina dependiente de un Juzgado del Registro Civil, en la que se realizan registros de nacimiento y defunción;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XXI. Oficina Central: A la sede de la Dirección General del Registro Civil del Distrito Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XXII. REDAM: El Registro de Deudores Alimentarios Morosos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XXIII. Registro Civil: Al Registro Civil del Distrito Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XXIV. Registro Público: Al Registro Público de la Propiedad y de Comercio del Distrito Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XXV. Reglamento: Al presente Reglamento del Registro Civil del Distrito Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XXVI. Secretario: Al Secretario de Juzgado del Registro Civil;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XXVII. Sociedades de Información Crediticia: A las instituciones financieras, autorizadas por la Secretaría de Hacienda y Crédito Público, previa opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores, que realizan los servicios consistentes en la recopilación, manejo y entrega o envío de información relativa al historial crediticio de personas físicas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XXVIII. Titular: Al Director General del Registro Civil del Distrito Federal; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XXIX. Votos matrimoniales: Compromisos recíprocos de carácter moral que los cónyuges hacen entre ellos, si así lo desean, y que serán elaborados con la asesoría del personal del Registro Civil para su lectura por los contrayentes durante la ceremonia del matrimonio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
@@ -183,6 +297,12 @@ III. Gestionar ante las Delegaciones los recursos humanos y materiales necesario
 IV. Coordinar y supervisar, por conducto de la Dirección, el funcionamiento de los Juzgados y Módulos Registrales;
 
 V. Celebrar convenios con las Instituciones públicas del Sector Salud, para la apertura de Módulos Registrales en las instalaciones de éstas, así como el cierre temporal o definitivo de los mismos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 21 DE ENERO DE 2015)</small>
+
+V bis. Celebrar convenios con las sociedades de Información Crediticia, a fin de proporcionar la información del Registro de Deudores Alimentarios Morosos.
 
 VI. Proponer al Jefe de Gobierno la adscripción territorial de los Juzgados a las Delegaciones; y
 
@@ -300,19 +420,61 @@ XI. Responder las peticiones que se le formulen, inherentes a sus funciones y at
 
 XII. Expedir copias certificadas de las constancias que obren en los expedientes del archivo del Registro Civil, excepto de los documentos de carácter jurisdiccional, de los cuales únicamente podrá expedirse copia certificada por mandamiento de juez competente;
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII. Expedir las constancias de inexistencia de registros de nacimiento, matrimonio o defunción; así como el Certificado del Registro de deudores alimentarios morosos, a que se refiere el artículo 35 del Código Civil.
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
 
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2012)</small>
+XIII. Expedir las constancias de:
 
-XIII Bis- Solicitar al Registro Público de la Propiedad se realice la anotación del Certificado de Deudores Alimentarios Morosos que corresponda, así como la cancelación del mismo.
+a) Inexistencia de registros de nacimiento, matrimonio o defunción;
+
+b) Declaración de cesación de concubinato;
+
+c) Constancia de declaración de existencia de concubinato;
+
+d) Constancia de curso prenupcial;
+
+e) Certificado de REDAM.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XIII Bis. Formular solicitud al Registro Público a efecto de que se anote el Certificado de REDAM en los folios reales de que sea propietario el Deudor Alimentario Moroso, así como, en su caso, su cancelación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XIII Ter. Publicar la base de datos de los deudores alimentarios morosos y en el sitio de internet del Registro Civil y actualizarla mensualmente; conforme a los datos que reciba de los Juzgados de lo Familiar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XIII Quater. Ordenar, a petición del juez de lo familiar, la cancelación de la inscripción en el Registro de Deudores Alimentarios Morosos en los supuestos que establece el Código Civil.
 
 XIV. Autorizar con firma autógrafa el cierre de los libros que se hayan integrado en el año inmediato anterior, relativos a los actos del estado civil pasados ante él;
 
 XV. Resolver administrativamente las aclaraciones de actas del estado civil de las personas que le sean solicitadas, de conformidad a lo establecido en el Código Civil, así como por lo dispuesto en el presente Reglamento; y
 
-XVI. Las demás que le confieran las Leyes que correspondan, así como el presente ordenamiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 21 DE ENERO DE 2015)</small>
+
+XVI. Organizar la celebración de los cursos prenupciales, así como establecer sus contenidos, en acuerdo con el titular de la Consejería.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XVII. Establecer el programa de capacitación del personal del Registro que tenga a su cargo los cursos prenupciales y la asesoría en la formulación de los votos matrimoniales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XVIII. Las demás que le confieran las leyes que correspondan, así como el presente ordenamiento.
 
 ###### Artículo 14.
 
@@ -344,7 +506,7 @@ La autorización para actuar fuera de competencia territorial se entenderá por 
 
 Para la autorización de registro de nacimiento a domicilio, cuando se imposibilite la presentación de la persona a registrar en algún Juzgado por causa debidamente justificada, se eximirá la presentación de la solicitud y aprobación de la prórroga de competencia territorial, debiendo en todo caso rendir informe por escrito al Titular.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 16.
 
@@ -418,7 +580,29 @@ XXV. Comunicar a la Secretaría de Gobernación los cambios que modifiquen el es
 
 XXVI. Desempeñar sus funciones dentro del perímetro territorial de la Delegación en la cual se encuentre adscrito el Juzgado a su cargo, siempre y cuando se encuentren debidamente acreditados los pagos de derechos correspondientes, cuando el hecho o acto sea a domicilio. En tal caso serán hábiles todos los días y horas; y
 
-XXVII. Las demás que les confiere el Reglamento y otras disposiciones jurídicas aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 21 DE ENERO DE 2015)</small>
+
+XXVII. Tener a su cargo la celebración de los cursos prenupciales a los solicitantes de matrimonio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XXVIII. Brindar asesoría para la formulación de los votos matrimoniales que los contrayentes leerán en la ceremonia del matrimonio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XXIX. Recibir declaraciones con relación a existencia o cesación de concubinato, existencia o cesación de cohabitación y otros hechos relativos a relaciones de pareja que no constituyan modificaciones al estado civil, y que las personas deseen hacer constar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 21 DE ENERO DE 2015)</small>
+
+XXX. Las demás que les confiere el Reglamento y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 17.
 
@@ -698,7 +882,23 @@ II. Se incorporarán al acta circunstanciada, además, las quejas o denuncias pr
 
 III. Las actas circunstanciadas serán remitidas por los supervisores al Jefe de la Unidad de Supervisión a Juzgados;
 
-IV. De existir presuntas irregularidades en contravención con las Leyes aplicables de la materia, el Jefe de Supervisión a Juzgados turnará el acta circunstanciada al responsable del Área Jurídica del Registro Civil, quien abrirá expediente, asignándole número consecutivo y radicándolo mediante un acuerdo fundado y motivado; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE ENERO DE 2015)</small>
+
+IV. De existir presuntas irregularidades en contravención con las leyes aplicables de la materia, el Jefe de la Unidad Departamental de Supervisión a Juzgados turnará el acta circunstanciada al responsable del área jurídica del Registro Civil, quien abrirá expediente, asignándole número consecutivo y radicándolo mediante un acuerdo fundado y motivado, en donde se determine la procedencia o improcedencia de las mismas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE ENERO DE 2015)</small>
+
+Una vez que el responsable del área Jurídica determinó la procedencia de las irregularidades asentadas en las actas circunstanciadas, dictará el auto que inicie el procedimiento, debiendo citar por escrito al personal relacionado con los hechos que originaron la instrumentación de las actas circunstanciadas, para que las mismas ofrezcan por escrito los documentos o probanzas que a su derecho convengan, a fin de desvirtuar las irregularidades que se les imputan, debiéndose dictar la resolución que en derecho corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE ENERO DE 2015)</small>
+
+Cuando el responsable del área jurídica determine que el personal relacionado con la instrumentación de las actas circunstanciadas son presuntamente responsables de incurrir en responsabilidad administrativa, deberá asentarlo en la resolución respectiva de forma fundada y motivada, debiendo turnar el expediente al C. Director General del Registro Civil del Distrito Federal, quien determinará si el expediente está debidamente integrado y su remisión a la Contraloría Interna de la Consejería Jurídica y de Servicios Legales o a la autoridad que en derecho corresponda.
 
 V. El Titular citará por escrito en la Dirección, al personal relacionado con los hechos que originaron la instrumentación del acta circunstanciada que contenga presuntas irregularidades, a efecto de levantar el acta administrativa correspondiente. Lo anterior sin perjuicio de las responsabilidades que conforme a la Ley resulten aplicables.
 
@@ -709,6 +909,36 @@ V. El Titular citará por escrito en la Dirección, al personal relacionado con 
 ###### Artículo 40.
 
 Estará a cargo de los jueces, la autorización de las actas del estado civil de las personas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo y defunción de mexicanos y extranjeros en el Distrito Federal; la inscripción de las ejecutorias que declaren la ausencia, presunción de muerte, el divorcio judicial, la tutela o que se ha perdido la capacidad legal para administrar bienes; así como autorizar la inscripción de anotaciones derivadas de instrumentos notariales o cualquier otra resolución que anule, revoque o modifique actos del estado civil, siempre y cuando se cumplan las formalidades exigidas por el Código Civil y por los ordenamientos jurídicos aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 21 DE ENERO DE 2015)</small>
+
+Artículo 40 bis.- El Juez hará constar por escrito las declaraciones de las y los concubinos, en términos de lo establecido en el artículo 291 bis del Código Civil del Distrito Federal, emitidas por las personas que acudan a formular las mismas; pudiendo expedirse constancias de dichas declaraciones, las cuales sólo acreditan el hecho de la comparecencia y de haber emitido las declaraciones en ella contenidas. Las constancias emitidas no constituyen modificación del estado civil de las personas.
+
+Para la Constancia de declaración de existencia de concubinato, los solicitantes deberán añadir a su solicitud:
+
+l. Original y copia de identificación oficial de ambos;
+
+2. Copia certificada, de reciente expedición, y copia simple de acta de nacimiento de los concubinos;
+
+3. Copia certificada, de reciente expedición, y copia simple de acta de nacimiento de los hijos, en caso de haberlos;
+
+4. Original y copia de comprobante del domicilio en el que habitan, y
+
+5. Original y copia de constancia de inexistencia (sic) matrimonio de ambos, no mayor a tres meses.
+
+Para la Constancia de declaración de cesación de concubinato, los solicitantes deberán añadir a su solicitud:
+
+l. Original y copia de identificación oficial de ambos;
+
+2. Copia certificada, de reciente expedición y copia simple de acta de nacimiento de los concubinos;
+
+3. Copia certificada, de reciente expedición, y copia simple de acta de nacimiento de los hijos, en caso de haberlos, y
+
+4. Original y copia de comprobante del domicilio en el que habitan.
+
+En caso de que, mediante las declaraciones se pretenda hacer constar actos que pudieran constituir un ilícito o una modificación al estado civil de las personas, el Juez del Registro Civil podrá negar el servicio, fundando y motivando su negativa.
 
 ###### Artículo 41.
 
@@ -724,7 +954,7 @@ Para la autorización de las actas del estado civil de las personas, se deberán
 
 En la autorización de las actas del estado civil de las personas y antes de que sea firmada por los que en ella intervengan, el Juez o quien éste habilite deberá dar lectura en voz alta a dicha acta y pondrá a la vista del o los interesados la misma para su revisión; en caso de detectarse error ortográfico, gramatical o de omisión, se procederá a efectuar la corrección correspondiente. Quien o quienes hayan proporcionado los datos para el levantamiento del acta asentarán su firma o huella digital en un recibo de conformidad, respecto de los datos contenidos en el acta.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 44.
 
@@ -740,7 +970,7 @@ En cualquier acto del estado civil que intervenga algún extranjero será necesa
 
 DE LAS ACTAS DE NACIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 46.
 
@@ -856,7 +1086,7 @@ Cuando no exista el certificado de nacimiento o la constancia de parto antes se�
 
 Las Constancias de Inexistencia de Registro tendrán vigencia de 3 meses contados a partir de la fecha de su expedición.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 53.
 
@@ -908,7 +1138,7 @@ VI. Comprobante del domicilio declarado.
 
 VII. (DEROGADA, G.O. 11 DE MARZO DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 55.
 
@@ -1138,7 +1368,11 @@ V. Comprobante del domicilio que declaren los contrayentes;
 
 VI. Cuando alguno o ambos contrayentes no puedan concurrir personalmente a la celebración del acto, se deberá exhibir documento público o privado, mediante el cual se acredite la representación del o los mandatarios; dicho documento deberá estar firmado por el otorgante, aceptante y dos testigos, ratificadas las firmas ante Notario Público, Embajador, Cónsul o autoridad judicial;
 
-VII. (DEROGADA, G.O. 11 DE MARZO DE 2004)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 21 DE ENERO DE 2015)</small>
+
+VII. Certificado de REDAM y constancia de curso prematrimonial.
 
 > <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
@@ -1162,13 +1396,13 @@ Todos los comparecientes deberán presentar identificación oficial.
 
 X.- El Certificado a que se refiere el artículo 35 octavus del Código Civil, por cada contrayente.
 
-> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 70 bis. Los contrayentes que así lo deseen podrán anexar voluntariamente a la solicitud de matrimonio, certificado médico en el que conste su estado de salud, el cual se agregará al apéndice que se integre con motivo de dicho matrimonio. La presentación de dicho certificado no es requisito para contraer matrimonio, por lo que queda prohibido al Juez exigir la presentación de certificado alguno, si los contrayentes no lo anexan voluntariamente.
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 2015)</small>
 
-Se prohíbe absolutamente al Juez, al Secretario o a los comparecientes al acto, hacer inquisición sobre los resultados del certificado médico en caso de ser anexado.
+Artículo 70 bis.- Los contrayentes que así lo deseen, podrán proponer voluntariamente la presencia de testigos de honor en la celebración del matrimonio; en tal caso éstos podrán asentar su nombre y firma en la hoja previa que se entregará en el momento de la celebración del acto, pero no aparecerán en el acta de matrimonio respectiva. El Juez no podrá exigir la presencia de testigos ni su falta afectará la validez del acto.
 
-Los contrayentes que así lo deseen, podrán proponer voluntariamente la presencia de testigos de honor en la celebración del matrimonio; en tal caso éstos podrán asentar su nombre y firma en la hoja previa que se entregará en el momento de la celebración del acto, pero no aparecerán en el acta de matrimonio respectiva. El Juez no podrá exigir la presencia de testigos ni su falta afectará la validez del acto.
+De igual forma, los contrayentes que así lo deseen podrán realizar la lectura de votos matrimoniales a la ceremonia del matrimonio.
 
 ###### Artículo 71.
 
@@ -1410,11 +1644,13 @@ Lo anterior, siempre y cuando la muerte no sea violenta o (sic) ocurrida en la v
 
 ### CAPÍTULO VII. DE LA ACLARACIÓN DE LAS ACTAS DEL ESTADO CIVIL
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 2015)</small>
 
 ###### Artículo 96.
 
-La aclaración de las actas del estado civil de las personas, procede cuando en el levantamiento del acta correspondiente, existan errores mecanográficos, ortográficos, o de otra índole, que no afecten los datos esenciales de aquéllas. Debe tramitarse únicamente ante la Dirección, de conformidad con lo previsto por el artículo 138 Bis del Código Civil.
+La aclaración de las actas del estado civil de las personas, procederá cuando se acredite que en el levantamiento del acta correspondiente, existieron errores mecanográficos, ortográficos, omisiones, imprecisiones, datos inverosímiles, usos y costumbres de época, así como errores de otra índole, que no afecten datos esenciales y no varíen el contexto del acta; éstas aclaraciones deberán tramitarse únicamente ante la Dirección General del Registro Civil, de conformidad con lo previsto por el artículo 138 bis del Código Civil.
 
 ###### Artículo 97.
 
@@ -1554,13 +1790,13 @@ Artículo 104 bis.- Se inscribirán ante la Dirección, el Registro de Deudores 
 
 El Registro Civil, al realizar la inscripción al Registro de Deudores Alimentarios Morosos, formulará solicitud al Registro Público de la Propiedad a efecto de que se anote el Certificado respectivo en los folios correspondientes.
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE ENERO DE 2015)</small>
 
 ###### Artículo 105.
 
-Las inscripciones de hechos o actos del estado civil de los habitantes del Distrito Federal, ocurridos en el extranjero, se inscribirán ante el Juez Central, mismas que deberán contener la trascripción íntegra del documento presentado, el cual deberá presentarse debidamente apostillada o legalizada, en caso de estar redactado éste en idioma distinto al castellano, se requerirá traducción realizada por perito autorizado por el Tribunal Superior de Justicia del Distrito Federal.
-
-Tratándose de divorcios ocurridos en el extranjero, además de los requisitos antes señalados, la resolución que ordene el divorcio deberá presentarse debidamente homologada por el Tribunal Superior de Justicia del Distrito Federal.
+Las inscripciones de hechos o actos del estado civil de los habitantes del Distrito Federal, ocurridos en el extranjero, se inscribirán ante el Juez Central, mismas que deberán contener la trascripción íntegra del documento presentado debidamente certificado por la autoridad emitente en el país de origen, mismo que deberá presentarse debidamente apostillado o legalizado por el Servicio Exterior Mexicano, en caso de estar redactado éste en idioma distinto al castellano, se requerirá traducción realizada por perito autorizado por el Tribunal Superior de Justicia del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
@@ -1676,7 +1912,7 @@ NOVENO.- Publíquese el presente Reglamento en la Gaceta Oficial del Distrito Fe
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los veintiocho días del mes de julio del año dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTÍZ PINCHETTI.- FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHRISTINA LAURELL.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 11 DE MARZO DE 2004.
 
@@ -1701,3 +1937,9 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE ENERO DE 2015.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor a los 60 días hábiles siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
