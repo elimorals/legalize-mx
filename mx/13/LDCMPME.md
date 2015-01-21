@@ -4,7 +4,7 @@ identifier: "LDCMPME"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2012-01-18"
+last_updated: "2015-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26811&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDCMPME"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ENERO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 2002.
 
@@ -154,9 +154,11 @@ La Secretaría elaborará los programas sectoriales correspondientes en el marco
 
 La Secretaría en el ámbito de su competencia, promoverá la participación de los Sectores para facilitar a las MIPYMES el acceso a Programas previstos en la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2015)</small>
+
 ###### Artículo 7.
 
-La Secretaría diseñará, fomentará y promoverá la creación de instrumentos y mecanismos de garantía, así como de otros esquemas que faciliten el acceso al financiamiento a las MIPYMES.
+La Secretaría diseñará, fomentará y promoverá la creación de instrumentos y mecanismos de garantía, así como de otros esquemas que faciliten el acceso al financiamiento a las MIPYMES, en igualdad de oportunidades para mujeres y hombres.
 
 ###### Artículo 8.
 
@@ -170,9 +172,17 @@ I. La definición de los sectores prioritarios para el desarrollo económico;
 
 II. Las líneas estratégicas para el desarrollo empresarial;
 
-III. Los mecanismos y esquemas mediante los cuales se ejecutarán las líneas estratégicas, y
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2015)</small>
 
-IV. Los criterios, mecanismos y procedimientos para dar seguimiento, a la evolución y desempeño de los beneficios previstos en esta Ley.
+III. Los mecanismos y esquemas mediante los cuales se ejecutarán las líneas estratégicas;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2015)</small>
+
+IV. Los criterios, mecanismos y procedimientos para dar seguimiento, a la evolución y desempeño de los beneficios previstos en esta Ley, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2015)</small>
+
+V. Perspectiva de género.
 
 ###### Artículo 10.
 
@@ -182,7 +192,9 @@ I. Propiciar la participación y toma de decisiones de las Entidades Federativas
 
 II. Procurar esquemas de apoyo a las MIPYMES a través de la concurrencia de recursos de la Federación, de las Entidades Federativas, del Distrito Federal y de los Municipios, así como de los Sectores;
 
-III. Enfocar los esfuerzos de acuerdo con las necesidades, el potencial y las vocaciones regionales, estatales y municipales;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2015)</small>
+
+III. Enfocar los esfuerzos de acuerdo con las necesidades, el potencial y las vocaciones regionales, estatales y municipales, atendiendo la perspectiva de género e impulsando en todo momento la igualdad entre mujeres y hombres;
 
 IV. Contener objetivos a corto, mediano y largo plazo;
 
@@ -218,7 +230,9 @@ VII. Información general en materia económica acordes a las necesidades de las
 
 VIII. Fomento para el desarrollo sustentable en el marco de la normativa ecológica aplicable.
 
-Adicionalmente, la Secretaría promoverá esquemas para facilitar el acceso al financiamiento público y privado a las MIPYMES.
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2015)</small>
+
+Adicionalmente, la Secretaría promoverá esquemas para facilitar el acceso al financiamiento público y privado a las MIPYMES, en igualdad de oportunidades para las mujeres y los hombres. Poniendo especial énfasis en garantizar el acceso a dicho financiamiento para la mujeres.
 
 ###### Artículo 12.
 
@@ -272,7 +286,9 @@ VI. Impulsar la creación, desarrollo y crecimiento de MIPYMES localizadas en re
 
 La Secretaría promoverá la participación del Sector Público y de los Sectores para la consecución de los objetivos de esta Ley, a través de los convenios que celebre, de acuerdo a lo siguiente:
 
-I. La formación de una cultura empresarial enfocada al desarrollo de la competitividad en las MIPYMES a través de la detección de necesidades en Capacitación, Asesoría y Consultoría;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2015)</small>
+
+I. La formación de una cultura empresarial con perspectiva de género enfocada al desarrollo de la competitividad en las MIPYMES a través de la detección de necesidades en Capacitación, Asesoría y Consultoría;
 
 II. El fomento a la constitución de incubadoras de empresas, y a la iniciativa y creatividad de los emprendedores;
 
@@ -468,7 +484,7 @@ México, D.F., a 13 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Pr
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 6 DE JUNIO DE 2006.
 
@@ -481,3 +497,7 @@ D.O.F. 5 DE AGOSTO DE 2011.
 D.O.F. 18 DE ENERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE ENERO DE 2015.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
