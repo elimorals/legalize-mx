@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2015-01-13"
+last_updated: "2015-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
+NOTA 1.- DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
+NOTA 2.- DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DE LA DECLARATORIA Y SEGUNDO TRANSITORIO DEL DECRETO No. 392, DE LA G.G. DE 21 DE ENERO DE 2015, POR EL QUE SE APRUEBA LA INCORPORACIÓN A SU RÉGIMEN JURÍDICO EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, COMO SEÑALA QUE DICHA DECLARATORIA SURTIRÁ SUS EFECTOS 18 DE JUNIO DE 2016, EN EL ESTADO DE MÉXICO, SIN EMBARGO, RESPECTO DE LOS PROCEDIMIENTOS PENALES INICIADOS CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO, SE REGIRÁN POR LAS DISPOSICIONES VIGENTES AL MOMENTO DE SU INICIO, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ INICIADA LA VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 13 DE ENERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ENERO DE 2015 (ABROGADO).
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -5770,3 +5770,35 @@ OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México
 NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
 
 DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 21 DE ENERO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 392 QUE DECLARA LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO.</small>
+
+###### ARTÍCULO PRIMERO.
+
+Para los efectos señalados en el artículo segundo transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el día 05 de marzo de 2014 se declara que en el Estado de México se incorpora a su régimen jurídico el Código Nacional de Procedimientos Penales, que entrará en vigor el dieciocho de junio del año dos mil dieciséis.
+
+En consecuencia, comenzará a regular la forma y términos en que se substanciarán los procedimientos penales en la Entidad Federativa.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con antelación a la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado de México, se regirán por las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Código de Procedimientos Penales para el Estado de México, a partir de la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado de México.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor el dieciocho de junio de dos mil dieciséis.
+
+###### ARTÍCULO TERCERO.
+
+Remítase copia del presente Decreto a los poderes públicos de la Federación, de las Entidades Federativas y del Distrito Federal, así como a los demás poderes del Estado, para su conocimiento y efectos a que haya lugar.
