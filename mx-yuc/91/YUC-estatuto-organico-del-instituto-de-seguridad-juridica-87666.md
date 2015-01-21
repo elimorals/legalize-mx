@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-seguridad-juridica-87666"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-05-02"
-last_updated: "2014-02-04"
+last_updated: "2015-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ENERO DE 2015.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el miércoles 2 de mayo de 2012.
 
@@ -67,7 +67,7 @@ VIII. Manual de Organización: el Manual de Organización del Instituto de Segur
 
 IX. Ley: la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
-X. Reglamento: el Reglamento de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán, y (sic)
+X. Reglamento: el Reglamento de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán, y
 
 ###### Artículo 4.
 
@@ -141,9 +141,17 @@ b) Ocho Departamentos de Asuntos Inmobiliarios;
 
 IV. Dirección de Catastro:
 
-a) Departamento Técnico Catastral, y
+> <small>(REFORMADO, D.O. 21 DE ENERO DE 2015)</small>
 
-b) Departamento de Procesos Catastrales;
+a) Departamento Técnico Catastral;
+
+> <small>(REFORMADO, D.O. 21 DE ENERO DE 2015)</small>
+
+b) Departamento de Procesos Catastrales, y
+
+> <small>(ADICIONADO, D.O. 21 DE ENERO DE 2015)</small>
+
+c) Departamento de Validación Catastral, Acervo y Enlace Municipal;
 
 V. Dirección de Archivo Notarial:
 
@@ -165,9 +173,17 @@ VIII. Dirección de Administración y Finanzas:
 
 a) Departamento de Recursos Financieros;
 
-b) Departamento de Recursos Materiales, y
+> <small>(REFORMADO, D.O. 21 DE ENERO DE 2015)</small>
 
-c) Departamento de Recursos Humanos.
+b) Departamento de Recursos Materiales;
+
+> <small>(REFORMADO, D.O. 21 DE ENERO DE 2015)</small>
+
+c) Departamento de Recursos Humanos, y
+
+> <small>(ADICIONADO, D.O. 21 DE ENERO DE 2015)</small>
+
+d) Departamento de Operaciones.
 
 ### CAPÍTULO V. De la Dirección General
 
@@ -415,9 +431,17 @@ XVI. Las demás que le confieran la Ley, el Reglamento, este Estatuto y otras di
 
 La Dirección del Catastro contará con los departamentos siguientes:
 
-I. Técnico Catastral, y
+> <small>(REFORMADA, D.O. 21 DE ENERO DE 2015)</small>
 
-II. Procesos Catastrales.
+I. Técnico Catastral;
+
+> <small>(REFORMADA, D.O. 21 DE ENERO DE 2015)</small>
+
+II. Procesos Catastrales, y
+
+> <small>(ADICIONADA, D.O. 21 DE ENERO DE 2015)</small>
+
+III. Validación Catastral, Acervo y Enlace Municipal.
 
 Los mencionados Departamentos tienen las atribuciones y funciones que les señalan la Ley, el Reglamento, este Estatuto, el Manual de Organización y demás disposiciones legales y administrativas aplicables.
 
@@ -591,7 +615,7 @@ XXXVII. Integrar y actualizar, con la participación de las unidades administrat
 
 XXXVIII. Coadyuvar en la integración del anteproyecto de presupuesto anual de ingresos y de egresos del Instituto, así como en la realización de la calendarización de los recursos del presupuesto autorizado;
 
-XXXIX. Colaborar en la ejecución de los procedimientos sobre el ejercicio y control del presupuesto de gasto corriente y de inversión del Instituto, (sic)
+XXXIX. Colaborar en la ejecución de los procedimientos sobre el ejercicio y control del presupuesto de gasto corriente y de inversión del Instituto,
 
 XL. Las demás que le confieran la Ley, el Reglamento, este Estatuto y otras disposiciones legales y administrativas aplicables.
 
@@ -633,7 +657,7 @@ X. Contribuir con la Dirección de Planeación y Modernización en la elaboraci�
 
 XI. Proponer al Director General, la emisión o suscripción de toda clase de valores o títulos de crédito para el cumplimiento de los objetivos del Instituto;
 
-XII. Suscribir los títulos de crédito (cheques), así como realizar las transferencias electrónicas, que sean necesarias para cubrir los gastos del funcionamiento ordinario del Instituto." (sic)
+XII. Suscribir los títulos de crédito (cheques), así como realizar las transferencias electrónicas, que sean necesarias para cubrir los gastos del funcionamiento ordinario del Instituto."
 
 XIII. Establecer, controlar, supervisar y administrar los mecanismos para la implementación del cobro de los derechos que causen los trámites y servicios que otorga el Instituto;
 
@@ -689,9 +713,17 @@ La Dirección de Administración y Finanzas contará con los Departamentos sigui
 
 I. Recursos Financieros;
 
-II. Recursos Materiales, y
+> <small>(REFORMADA, D.O. 21 DE ENERO DE 2015)</small>
 
-III. Recursos Humanos.
+II. Recursos Materiales;
+
+> <small>(REFORMADA, D.O. 21 DE ENERO DE 2015)</small>
+
+III. Recursos Humanos, y
+
+> <small>(ADICIONADA, D.O. 21 DE ENERO DE 2015)</small>
+
+IV. Operaciones.
 
 Estos Departamentos tendrán las atribuciones y funciones que le señale la Ley, el Reglamento, éste Estatuto, el Manual de Organización y demás disposiciones legales, reglamentarias y administrativas aplicables.
 
@@ -762,3 +794,17 @@ De conformidad con los artículos 124 y 125, fracción I, del Código de la Admi
 Tercero. Derogación
 
 Se derogan todas las disposiciones normativas emitidas por la Junta de Gobierno del Instituto de Seguridad Jurídica Patrimonial de Yucatán, en lo que se opongan al contenido de este acuerdo.
+
+D.O. 21 DE ENERO DE 2015.
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, previa aprobación de la Junta de Gobierno del Instituto de Seguridad Jurídica Patrimonial de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El Director General del Instituto de Seguridad Jurídica Patrimonial de Yucatán deberá tramitar la inscripción de las reformas efectuadas al estatuto orgánico mediante este acuerdo, en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de los treinta días naturales siguientes a su entrada en vigor.
+
+Tercero. Derogación tácita
+
+Se derogan las disposiciones normativas emitidas por la Junta de Gobierno del Instituto de Seguridad Jurídica Patrimonial de Yucatán, de igual o menor jerarquía que se opongan al contenido de este acuerdo.
