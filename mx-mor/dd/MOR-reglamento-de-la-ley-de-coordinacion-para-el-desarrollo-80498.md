@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-coordinacion-para-el-desarrollo-80498"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-18"
-last_updated: "2011-03-18"
+last_updated: "2015-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY DE COORDINACION PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE MORELOS
 
-REGLAMENTO DE LA LEY DE COORDINACION PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE MORELOS
+REGLAMENTO DE LA LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 18 de marzo de 2011.
 
@@ -127,11 +127,15 @@ VI. Revisar que los planes, estudios, evaluaciones, programas, proyectos, accion
 
 VII. Establecer criterios para determinar el impacto metropolitano que deberán acreditar los planes, estudios, evaluaciones, programas, proyectos, acciones y obras de infraestructura y su equipamiento que se postulen al Fondo Metropolitano;
 
-VIII. Proponer mecanismos de evaluación externa de los planes, estudios, programas, proyectos, acciones y obras de infraestructura y su equipamiento;
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2015)</small>
 
-IX. Postular los planes, estudios, evaluaciones, programas, proyectos, acciones y obras de infraestructura y su equipamiento, siempre y cuando se cumpla con las Reglas de Operación aplicables, y
+VIII. Determinar los mecanismos que permitan la coordinación de acciones entre los sectores público, social y privado, para el desarrollo integral de las zonas conurbadas y metropolitanas;
 
-X. Remitir los informes respectivos a las autoridades federales competentes, en relación con los acuerdos del Consejo referentes a los recursos federales.
+IX. Proponer mecanismos de evaluación externa de los planes, estudios, programas, proyectos, acciones y obras de infraestructura y su equipamiento;
+
+X. Postular los planes, estudios, evaluaciones, programas, proyectos, acciones y obras de infraestructura y su equipamiento, siempre y cuando se cumpla con las Reglas de Operación aplicables, y
+
+XI. Remitir los Informes respectivos a las autoridades federales competentes, en relación con los acuerdos del Consejo referentes a los recursos federales.
 
 ###### Artículo 11.
 
@@ -332,3 +336,11 @@ EL SECRETARIO DE DESARROLLO URBANO Y OBRAS PÚBLICAS
 ARQ. DEMETRIO ROMÁN ISIDORO.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ENERO DE 2015.
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que contravengan al presente Decreto.
