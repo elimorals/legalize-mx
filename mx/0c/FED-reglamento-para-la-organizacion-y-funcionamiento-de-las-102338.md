@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-organizacion-y-funcionamiento-de-las-102338"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-09-10"
-last_updated: "2014-09-10"
+last_updated: "2015-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102338&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-08-20"
 ---
 # REGLAMENTO PARA LA ORGANIZACION Y FUNCIONAMIENTO DE LAS COMISIONES DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION Y PROTECCION DE DATOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, PUBLICADO EN EL D.O.F. DE 11 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2015.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 10 de septiembre de 2014.
 
@@ -155,7 +157,9 @@ Las comisiones serán, por su duración, de dos tipos: permanentes y temporales.
 
 Las comisiones permanentes, son aquellas que por la continuidad de sus funciones determine el Pleno y, atenderán los asuntos propios de su denominación o naturaleza, así como aquellos que determine el Pleno.
 
-Las comisiones permanentes del Instituto, son:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2015)</small>
+
+Las comisiones permanentes del Instituto son:
 
 1. Políticas de Acceso a la Información.
 
@@ -183,6 +187,14 @@ Las comisiones permanentes del Instituto, son:
 
 13. Vinculación y Promoción del Derecho.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE ENERO DE 2015)</small>
+
+14. Comunicación Social y Difusión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE ENERO DE 2015)</small>
+
+15. Presupuesto.
+
 Las comisiones temporales, serán aquellas creadas por acuerdo del Pleno para la atención de un asunto determinado, un período, u objeto específico, por lo cual, una vez concluida la tarea institucional, rendirán un informe al Pleno del Instituto y se procederá a su extinción.
 
 El acuerdo de creación de las comisiones temporales establecerá, el nombre de los comisionados integrantes, el asunto o tema determinado que le asigne el Pleno, así como la temporalidad para el desempeño de sus funciones y plazo para rendir el informe de sus actividades.
@@ -195,7 +207,9 @@ Cuando la naturaleza de los asuntos a tratar lo amerite, podrán trabajar en com
 
 Las comisiones permanentes tendrán, las atribuciones genéricas siguientes:
 
-I. Aprobar y someter a la consideración del Pleno, durante el mes de enero de cada año, su Programa Anual de Trabajo, así como el Informe Anual de las actividades desarrolladas por la Comisión durante el año inmediato anterior;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2015)</small>
+
+I. Aprobar y someter a consideración del Pleno, durante el primer trimestre de cada año, su Programa Anual de Trabajo, así como el Informe Anual de actividades desarrolladas por la Comisión durante el año inmediato anterior;
 
 II. Aprobar el calendario anual de sesiones ordinarias;
 
@@ -434,3 +448,13 @@ El proyecto de Acta se someterá a consideración de los integrantes en la sigui
 TRANSITORIOS (SIC)
 
 UNICO.- Para efectos de difusión publíquese el presente Reglamento en el Diario Oficial de la Federación, en el sitio de internet www.ifai.org.mx y en los estrados del Instituto.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE ENERO DE 2015.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación y en el sitio de Internet del Instituto.
+
+TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
