@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ingresos-para-el-estado-de-guanajuato-para-el-104639"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-12-26"
-last_updated: "2014-12-26"
+last_updated: "2015-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE INGRESOS PARA EL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2015
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2015 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS PARA EL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2015
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ENERO DE 2015.</small>
 
 Ley publicada en la Decima Sexta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 26 de diciembre de 2014.
 
@@ -430,6 +430,8 @@ Los derechos por servicios en materia de educación, que brinde la Secretaría d
 TARIFA
 
 > <small>N. DE E. VÉASE TABLA EN LA DECIMO SEXTA PARTE DEL P.O. 26 DE DICIEMBRE DE 2014, PÁGINA 56 A LA PÁGINA 66.</small>
+
+> <small>N. DE E. VÉASE F. DE E. A LA TABLA EN EL P.O. DE 23 DE ENERO DE 2015, PÁGINA 31.</small>
 
 Las Escuelas Normales Oficiales, Unidades de la Universidad Pedagógica Nacional y Centros de Actualización del Magisterio podrán autorizar y establecer descuentos generales a efecto de incentivar el pago anticipado, o en su caso favorecer con cuotas disminuidas a quienes por su condición social y académica requieran del apoyo mediante la figura de becas, de conformidad con la normatividad que rige a los mismos.
 
