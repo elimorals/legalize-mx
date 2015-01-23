@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-10425
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-12-29"
-last_updated: "2014-12-29"
+last_updated: "2015-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2015
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2015 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2015
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 23 DE ENERO DE 2015.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el lunes 29 de diciembre de 2014.
 
@@ -55,6 +55,8 @@ En el Ejercicio Fiscal del Año 2015, el Gobierno del Estado de Michoacán de Oc
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 29 DE DICIEMBRE DE 2014, PÁGINAS DE LA 1 A LA 5.</small>
 
+> <small>N. DE E. VÉASE F. DE E. A LA TABLA EN EL P.O. DE 23 DE ENERO DE 2015, PÁGINA 2.</small>
+
 El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración informará trimestralmente al Congreso del Estado, dentro de los cuarenta y cinco días naturales siguientes al trimestre de que se trate, sobre los ingresos percibidos por el Gobierno del Estado, en relación a los montos estimados que se señalan en el artículo 1° de esta Ley, excepto los correspondientes al último trimestre, cuya información quedará comprendida en la Cuenta Pública de la Hacienda Estatal del ejercicio fiscal correspondiente.
 
 ###### ARTÍCULO 2°.
@@ -75,9 +77,11 @@ Asimismo, para las liquidaciones antes señaladas cuyo cobro regula esta Ley, me
 
 Para los efectos de lo dispuesto en esta Ley, los derechos cuyas cuotas estén expresadas en días de salario mínimo, o cuando se haga referencia a éste, el salario será el que esté vigente en el Estado de Michoacán, a la fecha en que se preste el servicio.
 
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO 6°.
 
-El ingreso por Financiamiento de un monto de $1,532'921,795.00 (Un mil, quinientos treinta y dos millones, novecientos veintiún mil, setecientos noventa y cinco pesos 00/100 M.N.), establecido en el Clasificador por Rubro de Ingresos del artículo 1° de esta Ley, es parte del crédito por refinanciamiento autorizado mediante el Decreto Legislativo N° 22 publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 26 de octubre del año 2012, y sus diversas reformas según Decretos Legislativos 103 y 128 del 28 de diciembre del 2012 y 25 de marzo del 2013, respectivamente, así como el Decreto Legislativo No 351.
+El ingreso por Financiamiento de un monto de $1,532'921,795.00 (Un mil, quinientos treinta y dos millones, novecientos veintiún mil, setecientos noventa y cinco pesos 00/100 M.N.), establecido en el Clasificador por Rubro de Ingresos del artículo 1° de esta Ley, es parte del crédito por refinanciamiento autorizado mediante el Decreto Legislativo N° 22 publicado en el (sic) diversas reformas según Decretos Legislativos 103 y 128 del 28 de diciembre del 2012 y 25 de marzo del 2013, respectivamente, así como el Decreto Legislativo No 351.
 
 El monto del financiamiento ya señalado corresponde al crédito del 28 de junio de 2013, celebrado con el Banco Nacional de Obras y Servicios Públicos, S.N.C., Institución de Banca de Desarrollo.
 
@@ -257,9 +261,13 @@ En caso de que las obras o actividades referidas en los incisos A) y B) de esta 
 
 IV. Por el registro de generador de residuos de manejo especial, persona física o moral. $ 2,489.00
 
-V. Por el Por el (sic) Registro como gestor de residuos de manejo especial. $ 4,976.00
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2015)</small>
 
-VI. Por la Por la (sic) autorización de planes de manejo para residuos de manejo especial. $ 2,489.00
+V. Por el Registro como gestor de residuos de manejo especial. $ 4,976.00
+
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2015)</small>
+
+VI. Por la autorización de planes de manejo para residuos de manejo especial. $ 2,489.00
 
 VII. Por el dictamen de expedientes para la expedición de Licencias Ambientales Únicas para fuentes fijas de jurisdicción estatal. $ 5,511.00
 
@@ -1147,7 +1155,9 @@ B) De historia catastral, se cobrará el equivalente a un día de salario mínim
 
 4. Si la historia reporta más de 15 movimientos de registro catastral. $ 313.00
 
-Si los certificados o certificaciones a que se refiere esta fracción se expiden con carácter urgente, se cobrará el doble de las cuotas señaladas y con carácter extraurgente será el triple de las mismas. Los servicios ordinarios se entregarán a los cuatro días hábiles, los urgentes al día siguiente y los extraurgentes al mismo día de su pago.
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2015)</small>
+
+Si los certificados o certificaciones a que se refiere esta fracción se expiden con carácter urgente, se cobrará el doble de las cuotas señaladas y con carácter extraurgente será el triple de las mismas, excepto en el caso a que se refiere el inciso B) anterior, cuyo servicio se entregará a los 10 días después de solicitado. Los servicios ordinarios se entregarán a los cuatro días, los urgentes al día siguiente y los extraurgentes al mismo día de su pago.
 
 XI. Por información respecto de los nombres de colindantes, a propietarios o poseedores de predios registrados. $ 263.00
 
