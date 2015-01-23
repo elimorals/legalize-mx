@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-de-ocampo-105160"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2014-12-30"
+last_updated: "2015-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE CATASTRO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE CATASTRO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 TEXTO ORIGINAL.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 23 DE ENERO DE 2015.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el martes 30 de diciembre de 2014.
 
@@ -365,7 +365,9 @@ V. Los propietarios de fraccionamientos o condominios que celebren contratos de 
 
 VI. Los Fedatarios Públicos que autoricen escrituras, en contravención a lo que ordena la presente Ley; y,
 
-VII. Tengan el carácter de fedatarios, funcionarios y empleados de oficinas públicas o privadas a quienes esta Ley impone la obligación de auxiliar a las Autoridades Catastrales en el desempeño de sus labores.
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2015)</small>
+
+VII. Quienes teniendo el carácter de fedatarios, funcionarios y empleados de oficinas públicas o privadas a quienes esta Ley impone la obligación de auxiliar a las Autoridades Catastrales en el desempeño de sus labores, se rehúsen a proporcionar el auxilio que se les requiera, sin causa justificada.
 
 La facultad de las Autoridades Catastrales para imponer sanciones administrativas prescribe en cinco años, mismos que comenzarán a correr desde el día siguiente en que se cometió la infracción.
 
