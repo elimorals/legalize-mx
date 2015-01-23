@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2005-03-22"
+last_updated: "2015-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -1687,7 +1687,9 @@ La Secretaría de Salud del Estado será la responsable de la ejecución del pro
 
 I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo;
 
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2015)</small>
+
+II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niñas, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que conozca los efectos del humo de tabaco en la salud y se abstenga de fumar en los espacios cien por ciento libres de humo de tabaco.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3568,3 +3570,21 @@ EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORI
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.-EI presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE ENERO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM 657.- MEDIANTE EL CUAL SE CREA LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los 90 días naturales siguientes de su publicación en el Periódico Oficial del Estado de Oaxaca, con objeto de que las autoridades estatales y municipales cuenten con un tiempo razonable para sensibilizar a la población e informar sobre las nuevas disposiciones que se establecen.
+
+SEGUNDO.- Se establece el plazo de un año, a partir de la publicación de la presente Ley para la operación de la línea telefónica a que se refiere el artículo 51 de esta Ley.
+
+TERCERO.- Se deberá emitir el Reglamento de la Ley de Protección contra la Exposición Frente al Humo de Tabaco del Estado de Oaxaca, a más tardar 90 días naturales después de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+CUARTO.- El Titular del Ejecutivo del Estado deberá modificar, a más tardar a los 90 días naturales posteriores a la publicación de la presente Ley, los ordenamientos administrativos y reglamentarios a que haya a lugar.
+
+QUINTO.- Las Autoridades Municipales deberán instrumentar en un plazo no mayor de 90 días naturales, a partir de la publicación de la presente Ley, los mecanismos de capacitación a su personal de Seguridad Pública y Jueces Calificadores para la correcta aplicación de sus atribuciones y la modificación correspondiente a sus bandos de policía y buen gobierno; así como de coadyuvancia a la autoridad estatal para el ejercicio de sus funciones de vigilancia sanitaria cuando se les requiera.
+
+SEXTO.- Se abroga el Decreto Número 485 de la Quincuagésima Octava Legislatura del Estado Libre y Soberano de Oaxaca, por el que se expide la Ley para la Protección de los No fumadores en el Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, el sábado veintiuno de agosto de dos mil cuatro.
+
+SÉPTIMO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
