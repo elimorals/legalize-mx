@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "2011-01-07"
+last_updated: "2015-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -163,7 +163,7 @@ Contra las resoluciones a que se refiere el Artículo 10 de esta Ley, podrá int
 
 Las concesiones sobre bienes de dominio público no crean derechos reales; otorgan simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamiento o explotaciones, de acuerdo con las reglas y condiciones que establezcan las Leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 14.
 
@@ -249,7 +249,7 @@ Habiéndose agotado el plazo a que se refiere el párrafo anterior, se proceder�
 
 También corresponderá el derecho del tanto al último propietario de un bien adquirido por procedimientos de derecho público, que vaya a ser vendido, excepto cuando se esté en los casos previstos por los Artículos 9o. segundo párrafo y 23 de esta Ley. Este aviso se dará mediante una sola publicación en el Periódico Oficial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 21.
 
@@ -351,7 +351,7 @@ Los inmuebles de dominio privado se destinarán preferentemente, al servicio de 
 
 La posesión, conservación y administración de los bienes del Estado, corresponden por regla general, y a falta de prevención en contrario, a la Oficialía Mayor de Gobierno, lo mismo que el conocimiento y la resolución de todos los asuntos referentes a contratos y ocupaciones de que sean objeto dichos inmuebles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 33.
 
@@ -439,9 +439,11 @@ La infracción de alguno o algunos de los preceptos anteriores, producirá la nu
 
 Los bienes de dominio privado del Estado pueden ser objeto de todos los contratos que regula el derecho común; con excepción de los contratos de comodato que se celebren para fines particulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 43.
 
-A los bienes inmuebles que de acuerdo con el Reglamento de Fraccionamientos deban ser utilizados para parques, jardines y escuelas no podrá dárseles un destino distinto aún cuando pasen a los Municipios y cualquier acto que se celebre en contravención será nulo de pleno derecho.
+A los bienes inmuebles que de acuerdo con el Reglamento de Fraccionamientos deban ser utilizados para escuelas, solo podrá dárseles un destino distinto cuando por sus características físicas no resulten aptos para dicho fin, o bien, por razones de interés público sean necesarios para un fin diverso; para lo cual deberá emitirse dictamen técnico de las autoridades estatales en materia urbana y educativa. Cualquier acto que se celebre en contravención será nulo de pleno derecho.
 
 Los Notarios Públicos incurrirán en responsabilidad si autorizan escrituras que en alguna forma violen esta disposición.
 
@@ -847,7 +849,7 @@ Francisco Santana Peralta
 
 (Firmado)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE SEPTIEMBRE DE 1979.
 
@@ -908,3 +910,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente decreto de reforma.
 
 TERCERO.- En tanto se expide el Reglamento y demás disposiciones derivadas de la presente Ley, se continuarán aplicando las disposiciones reglamentarias y administrativas vigentes en lo que no se opongan a este ordenamiento.
+
+P.O. 23 DE ENERO DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
