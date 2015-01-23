@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-ejecutiva-de-atencion-a-101591
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-27"
-last_updated: "2014-06-27"
+last_updated: "2015-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101591&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-05-27"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2015.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de junio de 2014.
 
@@ -345,7 +345,13 @@ XVI. Coordinar el Orden del Día y la agenda de trabajo del Pleno a través de l
 
 XVII. Expedir copias certificadas en los términos de la ley, de los documentos que obran en los archivos de la Comisión Ejecutiva, y
 
-XVIII. Las demás que les confieren las disposiciones legales y administrativas aplicables, así como las que le encomiende el Pleno.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 23 DE ENERO DE 2015)</small>
+
+XVIII. Administrar y coordinar las delegaciones de la Comisión Ejecutiva de Atención a Víctimas, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2015)</small>
+
+XIX. Las demás que les confieren las disposiciones legales y administrativas aplicables, así como las que le encomiende el Pleno.
 
 ### Capítulo Sexto. De los Comisionados
 
@@ -451,7 +457,9 @@ XII. Presentar el informe anual de labores en la sesión ordinaria de la Junta D
 
 XIII. Ordenar la práctica de visitas de supervisión directa extraordinaria cuando existan circunstancias que lo ameriten;
 
-XIV. Proponer al Pleno de la Comisión Ejecutiva la creación de delegaciones regionales de la Comisión Ejecutiva y coordinar su funcionamiento;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2015)</small>
+
+XIV. Proponer al Pleno de la Comisión Ejecutiva la creación de delegaciones de la Comisión Ejecutiva y dirigir al personal de la Asesoría Jurídica Federal adscrito a las mismas;
 
 XV. Elaborar un informe anual de labores sobre las actividades integrales desarrolladas por todos y cada uno de los asesores jurídicos que pertenezcan a la Asesoría Jurídica Federal;
 
@@ -711,9 +719,11 @@ La Dirección General de Administración y Finanzas administrará los recursos d
 
 ### Capítulo Octavo. De la Unidad de Atención Inmediata y Primer Contacto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2015)</small>
+
 ###### Artículo 35.
 
-Son atribuciones de la Unidad de Atención Inmediata:
+Son atribuciones de la Unidad de Atención Inmediata y Primer Contacto
 
 I. Realizar la primera entrevista a la víctima cuando acuda directamente a las instalaciones de la Comisión Ejecutiva;
 
@@ -725,19 +735,41 @@ IV. Asesorar a las personas sobre el llenado del formato único de declaración 
 
 V. Identificar las condiciones específicas de la víctima tomando en cuenta el principio de enfoque diferencial y tomar acciones inmediatas y expeditas para garantizar las medidas de asistencia, protección y atención;
 
-VI. Hacer una evaluación interdisciplinaria de las medidas de emergencia que la víctima pudiera requerir con el objeto de hacer las canalizaciones respectivas a las instituciones del Sistema que resulten competentes;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2015)</small>
 
-VII. Establecer enlace directo con las dependencias e instituciones federales, centros de atención a víctimas estatales, centros de atención a víctimas de los delitos, organismos públicos de protección de derechos humanos, encargados de atención de víctimas, a fin de asegurar una atención integral a las víctimas del delito y de violaciones a sus derechos humanos;
+VI. Hacer una evaluación interdisciplinaria de las medidas de emergencia que la víctima pudiera requerir con el objeto de brindar la atención correspondiente, o de hacer las canalizaciones respectivas a las instituciones del Sistema que resulten competentes;
 
-VIII. Solicitar las medidas cautelares y de protección ante las autoridades competentes en los casos en que la vida, libertad, integridad física o psicológica de la víctima se encuentren en riesgo inminente;
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2015)</small>
 
-IX. Recabar toda la información pertinente para documentar el hecho victimizante con el objeto de evitar la pérdida de medios de prueba;
+VII. Considerar los resultados de la supervisión y evaluación que le reporten las unidades correspondientes y, con base en éstos, adoptar las decisiones conducentes para mejorar los servicios prestados;
 
-X. Informar a la Asesoría Jurídica Federal sobre la necesidad de designar un asesor jurídico para que realice las medidas necesarias en el cumplimiento de sus funciones;
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2015)</small>
 
-XI. Remitir, en su caso, los asuntos que reciba al Comité Interdisciplinario Evaluador para el seguimiento y el curso del procedimiento legal aplicable, y
+VIII. Determinar la adscripción de los servidores públicos de la Unidad de Atención Inmediata y Primer Contacto, así como la asignación de los asuntos que estime procedentes a petición de parte interesada o por necesidades del servicio;
 
-XII. Las demás que establezcan otras disposiciones legales.
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2015)</small>
+
+IX. Concentrar la información mensual y anual de los asuntos en que intervenga el personal de la Unidad de Atención Inmediata y Primer Contacto, con el objeto de informar de ello al Pleno, así como para elaborar el informe anual de labores de la Unidad;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2015)</small>
+
+X. Ordenar la práctica de visitas de supervisión directa extraordinaria cuando existan circunstancias que lo ameriten;
+
+XI. Establecer enlace directo con las dependencias e instituciones federales, centros de atención a víctimas estatales, centros de atención a víctimas de los delitos, organismos públicos de protección de derechos humanos, encargados de atención de víctimas, a fin de asegurar una atención integral a las víctimas del delito y de violaciones a sus derechos humanos;
+
+XII. Solicitar las medidas cautelares y de protección ante las autoridades competentes en los casos en que la vida, libertad, integridad física o psicológica de la víctima se encuentren en riesgo inminente;
+
+XIII. Recabar toda la información pertinente para documentar el hecho victimizante con el objeto de evitar la pérdida de medios de prueba;
+
+XIV. Informar a la Asesoría Jurídica Federal sobre la necesidad de designar un asesor jurídico para que realice las medidas necesarias en el cumplimiento de sus funciones;
+
+XV. Remitir, en su caso, los asuntos que reciba al Comité Interdisciplinario Evaluador para el seguimiento y el curso del procedimiento legal aplicable, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2015)</small>
+
+XVI. Proponer al Pleno de la Comisión Ejecutiva la creación de delegaciones de la Comisión Ejecutiva y dirigir al personal de la Unidad de Atención Inmediata y Primer Contacto adscrito a ellas, y
+
+XVII. Las demás que establezcan otras disposiciones legales.
 
 ### Capítulo Noveno. De los Comités
 
@@ -850,3 +882,9 @@ Quinto. El personal de la Subprocuraduría Jurídica y de Asuntos Procesales que
 Sexto. Los Centros de Atención a Víctimas y Ofendidos (CAVs) ubicados en distintas entidades federativas, se transformarán en Delegaciones Regionales de la Comisión Ejecutiva de Atención a Víctimas.
 
 Así lo aprobó el Pleno de la Comisión Ejecutiva de Atención a Víctimas, en la Trigésima Cuarta Sesión Ordinaria celebrada el día 27 de mayo de 2014.- El Comisionado Presidente, Sergio Jaime Rochín del Rincón.- Rúbrica.- Los Comisionados: Adrián Franco Zevada, Susana Thalía Pedroza de la Llave, Julio Antonio Hernández Barros, Carlos Ríos Espinosa, María del Rosario Torres Mata.- Rúbricas.- La Secretaria Técnica, quien da fe, Alejandra Soto Alfonso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE ENERO DE 2015.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
