@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2014-11-25"
+last_updated: "2015-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "GUA"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2015 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO, EL PRESENTE DECRETO ENTRA EN VIGOR EL DÍA 01 DE ENERO DEL AÑO 2015, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO.</small>
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 23 DE ENERO DE 2015.</small>
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -2687,11 +2687,15 @@ Los ayuntamientos deberán expedir o adecuar los reglamentos que deriven de esta
 
 Remisiones al Instituto Estatal de Ciencias Penales
 
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO QUINTO.
 
-El Instituto Estatal de Formación en Seguridad Pública sustituye en todos los derechos, obligaciones y compromisos adquiridos por el Instituto Estatal de Ciencias Penales.
+El Instituto de Formación en Seguridad Pública del Estado sustituye en todos los derechos, obligaciones y compromisos adquiridos por el Instituto Estatal de Ciencias Penales.
 
-Para todos los efectos legales correspondientes, el Instituto Estatal de Formación en Seguridad Pública a que alude el presente Decreto, se entenderá referida al Instituto Estatal de Ciencias Penales, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2015)</small>
+
+Para todos los efectos legales correspondientes, el Instituto de Formación en Seguridad Pública del Estado a que alude el presente Decreto, se entenderá referida al Instituto Estatal de Ciencias Penales, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
 
 Remisiones a la Dirección General de Tránsito
 
