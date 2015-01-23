@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-zonificacion-y-usos-de-suelo-para-la-58833"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-04"
-last_updated: "2008-01-04"
+last_updated: "2015-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE ZONIFICACION Y USOS DE SUELO PARA LA INSTALACION, CONSTRUCCION Y OPERACION DE ESTACIONES DE CARBURACION Y DE SERVICIO DE PRODUCTOS DERIVADOS DEL PETROLEO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO DE ZONIFICACION Y USOS DE SUELO PARA LA INSTALACION, CONSTRUCCION Y OPERACION DE ESTACIONES DE CARBURACION Y DE SERVICIO DE PRODUCTOS DERIVADOS DEL PETROLEO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO PARA LA INSTALACIÓN, CONSTRUCCIÓN Y OPERACIÓN DE ESTACIONES DE CARBURACIÓN Y DE SERVICIO DE PRODUCTOS DERIVADOS DEL PETRÓLEO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2015.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 4 de enero de 2008.
 
@@ -61,17 +61,23 @@ REGLAMENTO DE ZONIFICACION Y USOS DE SUELO PARA LA INSTALACION, CONSTRUCCIÓN Y 
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones de este Reglamento son de orden público e interés social para su aplicación en el Municipio de Ensenada; Baja California, y tiene por objeto, establecer las condiciones sobre las cuales se ha de precisar, determinar y regular el trámite para la autorización de la construcción o remodelación y funcionamiento, así como lo relativo a la seguridad, inspección y vigilancia de las estaciones de servicio en gasolineras y carburación de gas, estaciones de auto abasto y servicios adicionales.
+Las disposiciones de este Reglamento son de orden público e interés social para su aplicación en el Municipio de Ensenada; Baja California, y tiene por objeto, establecer las condiciones sobre las cuales se ha de precisar, determinar y regular el trámite para la autorización de la construcción o remodelación y funcionamiento, así como lo relativo a la seguridad, inspección y vigilancia de las estaciones de servicio en gasolineras y carburación de gas, estaciones de auto abasto y servicios adicionales, con las cuales se salvaguarde la protección y cuidado de la población del Municipio de Ensenada.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 2.
 
-El Ayuntamiento de Ensenada de conformidad con sus atribuciones, será el responsable de la aplicación de las disposiciones estipuladas en el presente Reglamento, por conducto de la Secretaría de Administración Urbana; así como la Dirección de Ecología Municipal y la participación de las demás Dependencias del Ayuntamiento mismas que coadyuvarán, en los ámbitos de sus competencias, al cumplimiento de las disposiciones del presente Reglamento.
+El Ayuntamiento de Ensenada de conformidad con sus atribuciones, será el responsable de la aplicación de las disposiciones estipuladas en el presente Reglamento, por conducto de la Dirección de Catastro y Control Urbano; así como la Dirección de Ecología Municipal y la participación de las demás Dependencias del Ayuntamiento mismas que coadyuvarán, en los ámbitos de sus competencias, al cumplimiento de las disposiciones del presente Reglamento.
 
 ###### ARTICULO 3.
 
 La construcción, edificación, instalación, conservación y operación de estaciones solo podrá autorizarse en los términos del presente Reglamento, normas oficiales mexicanas y demás leyes y reglamentos vigentes aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 4.
 
@@ -81,61 +87,21 @@ CESPE.- Comisión Estatal de Servicios Públicos de Ensenada.
 
 CFE.- Comisión Federal de Electricidad.
 
+DCyCU.- Dirección de Catastro y Control Urbano.
+
 DIRECCIÓN.- Dirección de Ecología Municipal.
 
 D.S.M.V.R.- Días de Salario Mínimo Vigente en la Región.
-
-DISPENSARIO O DESPACHADOR.- Equipo electro-mecánico con el cual se abastece de combustible al vehículo automotor, en el que se muestra el precio unitario, la cantidad entregada y el importe total a pagar.
-
-DUS.- Dictamen de Uso de Suelo.
-
-DICTAMEN DE USO DE SUELO.- Es el acto administrativo que emite la Autoridad Municipal competente respecto del análisis documental y verificación de campo, debidamente fundado y motivado que se hace del cumplimiento de las Leyes, Reglamentos, Planes y Programas, Federales, Estatales y Municipales para el efecto de determinar si una acción de urbanización, edificación, instalación u operación de algún giro o actividad, responde a las disposiciones normativas.
-
-EMPLEADO RECEPTOR.- La persona de la Estación, responsable directo de la recepción del combustible.
-
-ESTACION (ES).- se refiere tanto a la Estación de Servicio de Gasolinera como a la Estación de Servicio de Carburación y a la Estación de Auto abasto o Especial.
-
-ESTACIÓN DE AUTO ABASTO O ESPECIALES.- Aquellas destinadas a surtir únicamente a vehículos automotores, propiedad de empresas particulares e instituciones gubernamentales debidamente acreditadas, que podrá ser Estación de Servicio de Gasolinera o Estación de Servicio de Carburación, en cuanto al combustible.
-
-ESTACIÓN DE SERVICIO.- Es un establecimiento destinado para la venta al menudeo de gasolina y diesel al público en general, suministrándolos directamente de depósitos pertenecientes a la propia Estación, a los tanques confinados a los vehículos automotores, así como de aceites, grasas y lubricantes.
-
-ESTACIÓN DE SERVICIO EN CARBURACIÓN.- Es un establecimiento destinado para la venta al menudeo de gas, suministrándolo directamente de depósitos confinados en la Estación a los tanques confinados a los vehículos automotores y cilindros particulares.
-
-FACTIBILIDAD DE USO DEL SUELO.- Es el acto administrativo para conocer la probabilidad de autorización del Uso de Suelo para ejecutar una acción de urbanización de acuerdo a la zona geográfica donde se ubica el predio.
-
-GAS.- Todo fluido aeriforme a la presión y temperatura ordinarias. Sus partículas son pequeñas y tienen gran movilidad, por lo que pueden desplazarse con libertad, ocupando totalmente el interior del recinto que las contiene.
-
-GAS LICUADO DE PETRÓLEO (GAS L. P.).- Es el combustible que se almacena, transporta y suministra a presión, en el estado líquido, en cuya composición química predominan los hidrocarburos butano y propano por sus mezclas.
-
-GIRO.- Toda actividad concreta, ya sea comercial, industrial o de prestación de servicios, según la clasificación de los padrones de la Reglamentación de la materia.
-
-INFLAMABLE.- Que se enciende con Facilidad y arde desprendiendo inmediatamente llamas.
-
-LEGISLACIÓN URBANA.- Normas debidamente sancionadas tales como leyes, reglamentos y decretos, cuyo objetivo es la regulación de las relaciones entre particulares y entre estos y el Estado, de todas las actividades relacionadas con el uso y aprovechamiento social de suelo urbano.
-
-MURETE.- Muro pequeño, pared muy baja de altura.
-
-OPINIÓN TÉCNICA.- Es el documento que expide la Autoridad Municipal respecto de la verificación que hace del cumplimiento de las Leyes, Reglamentos, Planes y Programas tanto Federales, Estatales y Municipales para efecto de determinar si una acción de urbanización, edificación, instalación u operación de algún giro o actividad, responde a las disposiciones normativas para tales efectos.
-
-PEMEX.- Petróleos Mexicanos.
-
-PROGRAMA DE DESARROLLO URBANO DEL CENTRO DE POBLACIÓN.- Es el conjunto de políticas, lineamientos, estrategias, reglas técnicas y disposiciones establecidas en el Plan Municipal de Desarrollo, referidas al centro de población, tendientes a promover el desarrollo armónico del territorio del Municipio de Ensenada, Baja California.
 
 PDUCPEBC.- Programa de Desarrollo Urbano del Centro de Población de Ensenada, Baja California.
 
 REINCIDENCIA.- Se considera cuando se comete la misma infracción 3 o más veces en un periodo de 180 días o incurra en 4 o más en un periodo de un año.
 
-REGLAMENTO.- Reglamento de Usos de Suelo para las Acciones de Construcción, Edificación, Instalación, Conservación y Operación de Carburación y de Servicio de Productos derivados del Petróleo para el Municipio de Ensenada, Baja California.
+REGLAMENTO.- Reglamento de Zonificación y Usos de Suelo para la Instalación, Construcción y Operación de Estaciones de Carburación y de Servicio de Productos derivados del Petróleo para el Municipio de Ensenada, Baja California.
 
 SE.- Secretaría de Energía.
 
-SAU.- Secretaría de Administración Urbana.
-
-SEÑALES INFORMATIVAS.- Son placas fijadas en postes o estructuras fijas o portátiles, o adosadas a muros, con leyendas o símbolos, que tienen por objeto guiar al usuario a lo largo de un recorrido por un área o zona, e informarle sobre nombres, distancias, velocidades, direcciones, sitios, así como para identificar espacios, servicios o actividades; suministrando información útil de una forma sencilla y directa, como ejemplo: Posiciones de carga; Flechas en piso indicando los sentidos; Zonas peatonales; Indicadores de obstáculos; Cajones de estacionamientos; “estacionarse”; “acceso”; “salida (sic); “Área de carga y descarga de combustible”; “Letrero de velocidad máxima 10 km/h”; Letreros indicadores de la ubicación de sanitarios; letreros en extintores, etc.
-
-SEÑALES PREVENTIVAS.- Son tableros fijados en postes o portátiles y/o adosados a muros, con símbolos que tienen por objeto prevenir a los conductores y/o peatones sobre la existencia de algún peligro potencial en el área, como: “Apague su motor antes de iniciar la carga”; en letreros portátiles indicar, “Precaución área fuera de servicio”; “Peligro descargando combustible” gas L.P. o gas natural inflamable” (sic), etc.
-
-SEÑALES RESTRICTIVAS.- Son tableros fijados en postes o portátiles y/o adosados a muros, con símbolos o leyendas que tienen por objeto indicar al usuario, en un área o zona, la existencia de limitaciones físicas o prohibiciones reglamentarias que regulen su estancia o actividades, como ejemplo: “Peligro no fumar”; “No usar teléfono celular”; “No venta de combustible en recipientes inadecuados”; “Prohibido el acceso a personal no autorizado”, “Área restringida”, “Prohibido cargar gas si hay personas a bordo del vehículo”, “Prohibido cargar combustible a vehículos de transporte con pasaje a bordo”, “Se prohíbe encender cualquier tipo de fuego”, etc.
+SEÑALES INFORMATIVAS.- Son placas fijadas en postes o estructuras fijas o portátiles, o adosadas a muros.
 
 ###### ARTICULO 5.
 
@@ -203,13 +169,17 @@ Podrán disponerse en la Estación las áreas de oficinas, baños, bodega, cuart
 
 Cuando exista el autoservicio de combustibles se podrá instalar una caseta de control de tal manera que tenga la mayor visibilidad posible a las demás áreas de servicio de la Estación, pudiendo contar con unidad sanitaria para que (sic) los empleados que la operan, apegándose a las disposiciones generales expedidas por PEMEX o la Secretaría de Energía según corresponda, siempre y cuando no se contravenga la legislación local.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 21.
 
-No se autorizará ninguna ampliación en las áreas de construcción, ya sean estas de oficinas, comercio, o cualquier otra, sin antes haber obtenido la autorización de la Secretaría de Administración Urbana, previa verificación con la reglamentación en materia de cajones de estacionamiento.
+No se autorizará ninguna ampliación en las áreas de construcción, ya sean estas de oficinas, comercio, o cualquier otra, sin antes haber obtenido la autorización de la Dirección de Catastro y Control Urbano, previa verificación con la reglamentación en materia de cajones de estacionamiento.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 22.
 
-Los tanques de almacenamiento de combustible se ubicarán de acuerdo a lo establecido en las disposiciones generales de la materia expedidas por PEMEX refinación, siempre y cuando no se contravenga a la legislación local. Para cualquier modificación del proyecto de construcción aprobado se requiere autorización previa de la Secretaría de Administración Urbana.
+Los tanques de almacenamiento de combustible se ubicarán de acuerdo a lo establecido en las disposiciones generales de la materia expedidas por PEMEX refinación, siempre y cuando no se contravenga a la legislación local. Para cualquier modificación del proyecto de construcción aprobado se requiere autorización previa de la Dirección de Catastro y Control Urbano.
 
 ###### ARTICULO 23.
 
@@ -227,9 +197,11 @@ Las estaciones de auto abasto en fábricas, estaciones de autobuses urbanos o fo
 
 Las Estaciones que se ubiquen en los márgenes de carreteras deberán contar con carriles de aceleración y desaceleración.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 27.
 
-Las estaciones de auto abasto o especiales, deberán contar con la autorización de la Secretaría de Administración Urbana y se deberá apegar a las disposiciones generales de la materia expedidas por PEMEX Refinación, al presente Reglamento y demás leyes, reglamentación y Normas Oficiales Mexicanas aplicables.
+Las estaciones de auto abasto o especiales, deberán contar con la autorización de la Dirección de Catastro y Control Urbano y se deberá apegar a las disposiciones generales de la materia expedidas por PEMEX Refinación, al presente Reglamento y demás leyes, reglamentación y Normas Oficiales Mexicanas aplicables.
 
 ###### ARTICULO 28.
 
@@ -289,13 +261,15 @@ La operación de las Estaciones deberá realizarse con la autorización de la un
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES Y SUS FACULTADES
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 42.
 
 Las atribuciones y facultades para la aplicación y vigilancia del presente Reglamento se ejercerán por conducto de:
 
 I.- El Presidente Municipal;
 
-II.- La Secretaría de Administración Urbana;
+II.- La Dirección de Catastro y Control Urbano;
 
 III.- La Dirección de Ecología Municipal;
 
@@ -303,9 +277,11 @@ III.- La Dirección de Ecología Municipal;
 
 Son facultades del presidente municipal todas aquellas que se establecen en el Reglamento de la Administración Pública del Ayuntamiento de Ensenada, Baja California.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 44.
 
-Son facultades de la Secretaría de Administración Urbana:
+Son facultades de la Dirección de Catastro y Control Urbano:
 
 I.- Recibir las solicitudes para la edificación, instalación y operación de Estaciones;
 
@@ -806,3 +782,9 @@ PRESIDENTE MUNICIPAL DEL XVIII AYUNTAMIENTO DE ENSENADA, B. C.
 C. LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO DEL XVIII AYUNTAMIENTO DE ENSENADA, B. C.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE ENERO DE 2015.
+
+ÚNICO.- Una vez siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
