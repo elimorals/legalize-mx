@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-no-fumadores-del-estado-de-40470"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-21"
-last_updated: "2004-08-21"
+last_updated: "2015-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY PARA LA PROTECCION DE LOS NO FUMADORES DEL ESTADO DE OAXACA
 
-LEY PARA LA PROTECCION DE LOS NO FUMADORES
+LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEXTO TRANSITORIOS DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 23 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 90 DÍAS NATURALES SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE OAXACA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 21 de agosto de 2004.
 
@@ -308,3 +310,21 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. CELESTINO MANUEL ALONSO ALVAREZ.
 
 Al C.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE ENERO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor a los 90 días naturales siguientes de su publicación en el Periódico Oficial del Estado de Oaxaca, con objeto de que las autoridades estatales y municipales cuenten con un tiempo razonable para sensibilizar a la población e informar sobre las nuevas disposiciones que se establecen.
+
+SEGUNDO.- Se establece el plazo de un año, a partir de la publicación de la presente Ley para la operación de la línea telefónica a que se refiere el artículo 51 de esta Ley.
+
+TERCERO.- Se deberá emitir el Reglamento de la Ley de Protección contra la Exposición Frente al Humo de Tabaco del Estado de Oaxaca, a más tardar 90 días naturales después de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+CUARTO.- El Titular del Ejecutivo del Estado deberá modificar, a más tardar a los 90 días naturales posteriores a la publicación de la presente Ley, los ordenamientos administrativos y reglamentarios a que haya a lugar.
+
+QUINTO.- Las Autoridades Municipales deberán instrumentar en un plazo no mayor de 90 días naturales, a partir de la publicación de la presente Ley, los mecanismos de capacitación a su personal de Seguridad Pública y Jueces Calificadores para la correcta aplicación de sus atribuciones y la modificación correspondiente a sus bandos de policía y buen gobierno; así como de coadyuvancia a la autoridad estatal para el ejercicio de sus funciones de vigilancia sanitaria cuando se les requiera.
+
+SEXTO.- Se abroga el Decreto Número 485 de la Quincuagésima Octava Legislatura del Estado Libre y Soberano de Oaxaca, por el que se expide la Ley para la Protección de los No fumadores en el Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, el sábado veintiuno de agosto de dos mil cuatro.
+
+SÉPTIMO.-. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
