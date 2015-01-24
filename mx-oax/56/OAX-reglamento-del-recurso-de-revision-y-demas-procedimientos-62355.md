@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-del-recurso-de-revision-y-demas-procedimientos-62355
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-19"
-last_updated: "2012-02-18"
+last_updated: "2015-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO DEL RECURSO DE REVISIÓN Y DEMÁS PROCEDIMIENTOS DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL RECURSO DE REVISIÓN DE LA COMISIÓN DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 24 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 19 de julio de 2008.
 
@@ -674,3 +676,15 @@ PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su public
 SEGUNDO. Se deroga el Libro Primero del Reglamento Interior del Recurso de Revisión y demás Procedimientos del Instituto Estatal de Acceso a la Información Pública del Estado de Oaxaca, publicado en el Periódico Oficial del Estado el día 19 de julio del 2008.
 
 TERCERO. El presente reglamento estará en vigor hasta en tanto no se expida la Ley reglamentaria del artículo 3° y 114-C de la Constitución Política del Estado de Oaxaca.
+
+P.O. DE 24 DE ENERO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento del Recurso de Revisión y demás Procedimientos del Instituto Estatal de Acceso a la Información Pública del Estado de Oaxaca, publicado en el periódico Oficial del Gobierno del Estado el dieciocho de febrero del año 2012.
+
+TERCERO.- La Comisión contará con un periodo de treinta días a partir de la entrada en vigor del presente Reglamento, para realizar las adecuaciones administrativas, electrónicas y de organización que permitan su mejor aplicación.
+
+CUARTO.- Dentro de los diez días hábiles siguientes a la entrada en vigor del presente Reglamento, el Consejo General deberá aprobar la cuenta de correo electrónico para la recepción de Recursos de Revisión.
+
+QUINTO.- Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Reglamento, seguirán su trámite conforme a las disposiciones vigentes al momento en el que se iniciaron.
