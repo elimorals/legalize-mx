@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-de-desarrollo-economico-70
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-05"
-last_updated: "2009-09-05"
+last_updated: "2015-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2015.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 5 de septiembre de 2009.
 
@@ -461,9 +461,15 @@ XV. Opinar respecto de los trámites y servicios que hayan registrado en el port
 
 XVI. Proporcionar la guía para la elaboración de la manifestación de impacto regulatorio, de acuerdo a lo establecido en el Reglamento de esta Ley;
 
-XVII. Proponer y promover las medidas para la mejora continua del proceso de mejora regulatoria en el Estado, así como las que se requieran para el cumplimiento de lo dispuesto en esta Ley, su Reglamento y otras disposiciones legales, y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2015)</small>
 
-XVIII. Las demás que le señalen las leyes, reglamentos, decretos, acuerdos o manuales aplicables a la Secretaría, así como aquéllas que le confiera su Titular y que sean necesarias para el cumplimiento de sus funciones.
+XVII. Proponer y promover las medidas para la mejora continua del proceso de mejora regulatoria en el Estado, así como las que se requieran para el cumplimiento de lo dispuesto en la Ley de Mejora Regulatoria para el Estado y Municipios de San Luis Potosí, su Reglamento y otras disposiciones legales;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2015)</small>
+
+XVIII. Administrar y operar el Centro Integral de Negocios del Estado de San Luis Potosí, como un mecanismo estratégico, con la finalidad de prestar un servicio de gestión gubernamental tanto local como remota, a través de las herramientas tecnológicas desarrolladas para tal fin, de manera que se facilite y garantice la realización de los trámites correspondientes a la instalación, creación, regularización, inicio de operaciones, consolidación, viabilidad, productividad y competitividad de las micro, pequeñas y medianas empresas (MIPYMES) y emprendedores, siendo los beneficiarios todas aquellas personas físicas o morales que promuevan la inversión productiva en el Estado, y
+
+XIX. Las demás que le señalen las leyes, reglamentos, decretos, acuerdos o manuales aplicables a la Secretaría, así como aquéllas que le confiera su Titular y que sean necesarias para el cumplimiento de sus funciones.
 
 ###### ARTÍCULO 18.
 
@@ -546,3 +552,11 @@ EL SECRETARIO DE DESARROLLO ECONÓMICO
 ING. CARLOS FERNANDO BÁRCENA POUS
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE ENERO DE 2015.
+
+PRIMERO.- La presente REFORMA y ADICIÓN al Reglamento Interno de la Secretaría de Desarrollo Económico entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Reglamento.
