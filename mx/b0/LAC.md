@@ -4,7 +4,7 @@ identifier: "LAC"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "2013-05-21"
+last_updated: "2015-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2551&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAC"
 
 LEY DE AVIACIÓN CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -58,23 +58,45 @@ III. Aeropuerto: aeródromo civil de servicio público, que cuenta con las insta
 
 IV. Aerovía: ruta aérea dotada de radioayudas a la navegación;
 
-V. Certificado de aeronavegabilidad: documento oficial que acredita que la aeronave está en condiciones técnicas satisfactorias para realizar operaciones de vuelo;
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-VI. Certificado de matrícula: documento que identifica y determina la nacionalidad de la aeronave;
+V. Cabotaje: el transporte aéreo mediante remuneración o cualquier otro tipo de contraprestación onerosa, de pasajeros, carga, correo o una combinación de éstos, entre dos o más puntos en territorio nacional;
 
-VII. Helipuerto: aeródromo civil para el uso exclusivo de helicópteros;
+VI. Certificado de aeronavegabilidad: documento oficial que acredita que la aeronave está en condiciones técnicas satisfactorias para realizar operaciones de vuelo;
 
-VIII. Ruta: espacio aéreo establecido por la Secretaría para canalizar el tráfico aéreo;
+VII. Certificado de matrícula: documento que identifica y determina la nacionalidad de la aeronave;
 
-IX. Secretaría: la Secretaría de Comunicaciones y Transportes;
+VIII. Helipuerto: aeródromo civil para el uso exclusivo de helicópteros;
 
-X. Servicio al público de transporte aéreo: el que se ofrece de manera general y que, en términos de la presente Ley, incluye el servicio público sujeto a concesión, así como otros servicios sujetos a permiso;
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-XI. Servicio de transporte aéreo regular: el que está sujeto a itinerarios, frecuencias de vuelos y horarios;
+IX. Programa estatal de seguridad operacional: el programa establecido por la Secretaría mediante un Sistema de gestión de seguridad operacional, a fin de alcanzar un nivel óptimo de Seguridad operacional en la aviación civil;
 
-XII. Servicio de transporte aéreo nacional: el que se presta entre dos o más puntos dentro del territorio nacional, y
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-XIII. Tratados: los definidos como tales en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados.
+X. Proveedores de servicio: entre otros, los concesionarios y permisionarios del transporte aéreo de servicio al público y los concesionarios y permisionarios aeroportuarios, el organismo descentralizado Aeropuertos y Servicios Auxiliares, el órgano administrativo desconcentrado Servicios a la Navegación en el Espacio Aéreo Mexicano, los permisionarios de talleres aeronáuticos, las organizaciones responsables del diseño de tipo y las responsables de la fabricación de aeronaves, los prestadores de servicios de tránsito aéreo, los centros de formación, capacitación y adiestramiento y los operadores aéreos de aeronaves de Estado distintas de las militares;
+
+XI. Ruta: espacio aéreo establecido por la Secretaría para canalizar el tráfico aéreo;
+
+XII. Secretaría: la Secretaría de Comunicaciones y Transportes;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+XIII. Seguridad operacional: es el estado en que el riesgo en la prestación del servicio de transporte aéreo, de lesiones a las personas o daños a los bienes, se reduce y se mantiene en un nivel óptimo, o por debajo del mismo, por medio de un proceso continuo de identificación de peligros y gestión de riesgos;
+
+XIV. Servicio al público de transporte aéreo: el que se ofrece de manera general y que, en términos de la presente Ley, incluye el servicio público sujeto a concesión, así como otros servicios sujetos a permiso;
+
+XV. Servicio de transporte aéreo regular: el que está sujeto a itinerarios, frecuencias de vuelos y horarios;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+XVI. Servicio de transporte aéreo nacional: el que se presta entre dos o más puntos dentro del territorio nacional;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+XVII. Sistema de gestión de la seguridad operacional: es un enfoque sistemático para la gestión de la Seguridad operacional que se establece como un proceso documentado de manejo del riesgo que es parte de un sistema de recopilación y procesamiento de datos sobre Seguridad operacional, con el fin de minimizar los riesgos y realizar mejoras continuas de la Seguridad operacional de la aviación para proteger el interés público, el cual integra operaciones y sistemas técnicos relacionados con la administración de los recursos humanos y financieros, inclusive las estructuras orgánicas, la obligación de rendición de cuentas, las políticas y los procedimientos necesarios para la obtención de ese fin, y
+
+XVIII. Tratados: los definidos como tales en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados.
 
 ###### Artículo 3.
 
@@ -148,7 +170,7 @@ IX. Promover la formación, capacitación y adiestramiento del personal técnico
 
 X. Expedir y, en su caso, revalidar o cancelar las licencias del personal técnico aeronáutico;
 
-XI. Interpretar la presente Ley y sus reglamentos para efectos administrativos, y (sic)
+XI. Interpretar la presente Ley y sus reglamentos para efectos administrativos, y
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -160,7 +182,7 @@ XIII. Autorizar la práctica de visitas de verificación;
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
-XIV. Designar o, en su caso, remover a los comandantes regionales, comandantes de aeropuertos, helipuertos y aeródromos civiles en general, así como al personal técnico especializado que preste sus servicios en los mismos; y (sic)
+XIV. Designar o, en su caso, remover a los comandantes regionales, comandantes de aeropuertos, helipuertos y aeródromos civiles en general, así como al personal técnico especializado que preste sus servicios en los mismos; y
 
 > <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2006)</small>
 
@@ -282,6 +304,10 @@ Para la prestación del servicio de transporte aéreo internacional regular por 
 
 Asimismo, requerirá de permiso el establecimiento de talleres aeronáuticos y centros de capacitación y adiestramiento, que podrá otorgarse a personas físicas o morales mexicanas o extranjeras.
 
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+Los certificados, o documentación equivalente, expedidos por centros de capacitación y talleres aeronáuticos extranjeros, serán convalidados por la Secretaría, siempre y cuando esos talleres y centros estén acreditados por la autoridad aeronáutica de su país, y ese país cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional y/o Administración Federal de Aviación.
+
 Los permisos se otorgarán por plazo indefinido.
 
 En el reglamento correspondiente se precisarán los requisitos para la obtención de los permisos a que se refiere este artículo.
@@ -358,19 +384,23 @@ XI. Incumplir con las obligaciones de pago de las indemnizaciones por daños que
 
 XII. Ejecutar u omitir actos que impidan la prestación de los servicios concesionados o permisionados entre quienes tengan derecho a ello;
 
-> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-XIII. Infringir las medidas y normas de higiene y de protección al ambiente, y
+XIII. Infringir las medidas y normas de higiene y de protección al ambiente;
 
-XIV. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos y en el título de concesión o permiso respectivos, siempre que por el incumplimiento se haya impuesto una sanción y ésta haya quedado firme en términos de ley.
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2006)</small>
+XIV. Realizar cabotaje en territorio nacional, utilizando aeronaves extranjeras no autorizadas para tal fin, y
 
-La Secretaría revocará las concesiones o permisos de manera inmediata únicamente en los supuestos de las fracciones I a V y VII anteriores. De igual forma procederá en el caso de la fracción X cuando a su juicio sea grave la infracción para la seguridad de la operación.
+XV. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos y en el título de concesión o permiso respectivos, siempre que por el incumplimiento se haya impuesto una sanción y ésta haya quedado firme en términos de ley.
 
-> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
-En los casos de las fracciones VIII, IX y XI, la Secretaría sólo revocará la concesión o permiso cuando previamente hubiese sancionado al respectivo concesionario o permisionario, por lo menos en tres ocasiones por las causas previstas en la misma fracción. Para los supuestos de las fracciones VI, XII y XIII, se requerirá que la sanción se haya impuesto por lo menos en cinco ocasiones por las causas previstas en la misma fracción.
+La Secretaría revocará las concesiones o permisos de manera inmediata únicamente en los supuestos de las fracciones I a V, VII y XIV anteriores. De igual forma procederá en el caso de la fracción X, cuando a su juicio sea grave la infracción para la seguridad de la operación.
+
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+En los casos de las fracciones VI, VIII, IX, XI, XII y XIII la Secretaría sólo revocará la concesión o permiso cuando previamente hubiese sancionado al respectivo concesionario o permisionario, por lo menos en tres ocasiones por las causas previstas en la misma fracción.
 
 El titular de una concesión o permiso que hubiere sido revocado no podrá obtener, directa o indirectamente, otra concesión o permiso de los contemplados en la presente Ley dentro de un plazo de cinco años, contado a partir de la fecha en que hubiere quedado firme la resolución respectiva.
 
@@ -478,6 +508,10 @@ Dentro del transporte aéreo privado comercial se encuentran los servicios aére
 
 En el caso de aeronaves extranjeras que presten servicios de transporte aéreo privado comercial, se estará a lo dispuesto en los tratados y en las leyes aplicables.
 
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+Los permisionarios extranjeros que presten el servicio de transporte aéreo privado comercial no podrán realizar prácticas de cabotaje en territorio nacional. Esta disposición no aplicará para personas que operen aeronaves de transporte aéreo privado no comercial.
+
 #### Sección Quinta. De las aeronaves de Estado
 
 ###### Artículo 28.
@@ -548,6 +582,18 @@ La obtención del certificado de aeronavegabilidad se sujetará a las pruebas, a
 
 En todos los casos, las aeronaves tendrán que llevar a bordo los documentos y equipo que señalen los tratados, esta Ley y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+La vigencia del certificado de aeronavegabilidad será de dos años, para lo cual la aeronave deberá cumplir plenamente los requerimientos y especificaciones establecidas en el reglamento de esta Ley y demás disposiciones administrativas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+La Secretaría podrá suspender o cancelar el certificado, ante el incumplimiento de los requerimientos y especificaciones mencionados en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+Se otorgará el permiso de licencia de estación de la aeronave, que tendrá una vigencia indefinida, excepto cuando hayan cambiado las características del equipo o la matrícula de la aeronave.
+
 ###### Artículo 33.
 
 En las aeronaves civiles no podrán abordar personas armadas, en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o enervantes; y sólo con las autorizaciones correspondientes podrán transportarse cadáveres o personas que, por la naturaleza de su enfermedad, presenten riesgo para los demás pasajeros.
@@ -600,11 +646,29 @@ El personal técnico aeronáutico está constituido por el personal de vuelo que
 
 Para el caso de la aviación privada no comercial, los pilotos extranjeros y nacionales podrán convalidar u obtener la licencia de piloto privado, previo el cumplimiento de las disposiciones expresas en el reglamento correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+La vigencia de las licencias del personal técnico aeronáutico será de tres años, salvo que:
+
+I. Se solicite la obtención de una licencia cuando previamente haya sido suspendida o cancelada una anterior, caso en el que su vigencia será de un año, transcurrido el cual, de mediar una nueva solicitud, la Secretaría determinará, si conforme al cumplimiento del interesado en el uso de la licencia, se le otorga por dos años o nuevamente por un año, o
+
+II. Se trate de la convalidación de licencia, cuya vigencia no podrá exceder de aquella otorgada por la autoridad de aviación civil del país de que se trate haya otorgado a la misma.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+Para que el personal técnico aeronáutico pueda dedicarse al ejercicio de su actividad deberá acreditar ante la autoridad aeronáutica ser titular de una licencia vigente expedida por la autoridad, contar con la constancia de aptitud psicofísica vigente correspondiente a su actividad.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+Terminada la vigencia de la constancia de aptitud psicofísica, el interesado tendrá hasta 30 días naturales posteriores para su renovación, sin que esto implique el vencimiento de la respectiva licencia, periodo en el cual no podrá ejercer su actividad como personal técnico aeronáutico.
+
 ###### Artículo 39.
 
 Los concesionarios o permisionarios tendrán la obligación, de conformidad con la ley de la materia, de proporcionar al personal a que se refiere el artículo anterior, la capacitación y el adiestramiento que se requiera para que la prestación de los servicios sea eficiente y segura.
 
-Los instructores que impartan la capacitación y el adiestramiento deberán contar con registro ante la Secretaría.
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+Los instructores que impartan la capacitación y el adiestramiento deberán contar con registro ante la Secretaría o ante el centro de capacitación extranjero para el cual presten sus servicios.
 
 La Secretaría, sin perjuicio de las atribuciones que correspondan a la Secretaría del Trabajo y Previsión Social, en coordinación con otras autoridades federales competentes, determinará los lineamientos generales aplicables para la definición de aquellos conocimientos, habilidades y destrezas que requieran de certificación, según sea necesario para garantizar la seguridad en la prestación de los servicios. Dicha certificación se sujetará al régimen que las autoridades señaladas establezcan. En la determinación de los lineamientos generales antes citados, las autoridades competentes establecerán procedimientos que permitan considerar las propuestas y operaciones de los concesionarios y permisionarios.
 
@@ -625,6 +689,10 @@ El comandante registrará en el libro de bitácora los hechos que puedan tener c
 ###### Artículo 41.
 
 La responsabilidad del comandante comprende desde el momento en que se hace cargo de la aeronave para iniciar el vuelo hasta su entrega a la autoridad competente o al representante del concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, al propietario o poseedor de la aeronave, quienes serán solidariamente responsables con el comandante o piloto, por cualquier orden dictada en contravención a lo dispuesto por esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+El aterrizaje de la aeronave en la estación se considerará como cierre de plan de vuelo.
 
 ### Capítulo VIII. De las tarifas
 
@@ -742,7 +810,7 @@ Cuando se hayan expedido boletos en exceso a la capacidad disponible de la aeron
 
 I. Reintegrarle el precio del boleto o billete de pasaje o la proporción que corresponda a la parte no realizada del viaje;
 
-II. Ofrecerle, con todos los medios a su alcance, transporte sustituto en el primer vuelo disponible y proporcionarle, como mínimo y sin cargo, los servicios de comunicación telefónica o cablegráfica al punto de destino; alimentos de conformidad con el tiempo de espera que medie hasta el embarque en otro vuelo; alojamiento en hotel del aeropuerto o de la ciudad cuando se requiera pernocta (sic) y, en este último caso, transporte terrestre desde y hacia el aeropuerto, o
+II. Ofrecerle, con todos los medios a su alcance, transporte sustituto en el primer vuelo disponible y proporcionarle, como mínimo y sin cargo, los servicios de comunicación telefónica o cablegráfica al punto de destino; alimentos de conformidad con el tiempo de espera que medie hasta el embarque en otro vuelo; alojamiento en hotel del aeropuerto o de la ciudad cuando se requiera pernocta y, en este último caso, transporte terrestre desde y hacia el aeropuerto, o
 
 III. Transportarle en la fecha posterior que convenga al mismo pasajero hacia el destino respecto del cual se denegó el embarque.
 
@@ -926,7 +994,9 @@ La Secretaría fijará los plazos para que se realicen adecuaciones en las aeron
 
 La Secretaría establecerá convenios o acuerdos de coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, para promover la eficiencia en las operaciones e infraestructura aeroportuaria, con el fin de reducir el ruido y las emisiones contaminantes en los servicios de transporte aéreo.
 
-### Capítulo XVI. De los accidentes y de la búsqueda y salvamento
+### Capítulo XV Bis. Seguridad operacional
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
 ###### Artículo 77.
 
@@ -943,6 +1013,150 @@ En los casos de las fracciones II y III, previamente a la declaratoria de abando
 ###### Artículo 78.
 
 En el caso de aeronaves abandonadas en aeródromos o helipuertos en los que no haya control de tráfico, o sitios no habilitados para operaciones aéreas, la autoridad aeronáutica dará parte de inmediato a las autoridades competentes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 26 DE ENERO DE 2015)</small>
+
+### Capítulo XVI. De los accidentes y de la búsqueda y salvamento
+
+###### Artículo 78 Bis.
+
+La Secretaría establecerá un Programa estatal de seguridad operacional destinado a la gestión de la Seguridad operacional por los Estados Unidos Mexicanos, a fin de alcanzar un nivel óptimo de rendimiento en materia de Seguridad operacional en la aviación civil, el cual incluirá como mínimo los siguientes componentes:
+
+I. Política y objetivos estatales de Seguridad operacional;
+
+II. Gestión estatal de los riesgos de Seguridad operacional;
+
+III. Aseguramiento estatal de la Seguridad operacional;
+
+IV. Promoción estatal de la Seguridad operacional, y
+
+V. Un sistema de supervisión de la Seguridad operacional.
+
+La Secretaría determinará el nivel óptimo de rendimiento en materia de Seguridad operacional, de conformidad con los Tratados, lineamientos internacionales y las disposiciones administrativas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 78 Bis 1.
+
+En materia de Seguridad operacional, la Secretaría tendrá las siguientes atribuciones:
+
+I. Manejar y mantener un sistema eficaz de supervisión de la Seguridad operacional;
+
+II. Implantar, administrar y mantener el Programa estatal de seguridad operacional eficaz para garantizar los niveles óptimos de Seguridad operacional;
+
+III. Requerir a los proveedores de servicio que implementen y mantengan un Sistema de gestión de la seguridad operacional eficaz, certificado de conformidad con las disposiciones de reglamentos y normas oficiales mexicanas aplicables;
+
+IV. Coordinar las actividades de las diversas organizaciones que participen en el Programa estatal de seguridad operacional;
+
+V. Establecer un sistema de notificación de incidentes obligatoria y otro de notificación voluntaria, para facilitar la recopilación de información sobre las deficiencias de Seguridad operacional reales o posibles, así como para promover las instalaciones y los servicios para recopilar, publicar y difundir la información de Seguridad operacional y alcanzar acuerdos con individuos o entidades gubernamentales para el ejercicio de esos servicios, con la finalidad de que exista un flujo continuo e intercambio de datos sobre Seguridad operacional entre la Secretaría y los proveedores de servicio;
+
+VI. Conducir inspecciones, verificaciones y evaluaciones de las actividades aeronáuticas de los proveedores de servicio;
+
+VII. Requerir que los proveedores de servicio mejoren, enmienden o tomen acciones en su Sistema de gestión de la seguridad operacional, cuando se identifiquen deficiencias o carencias que representan un riesgo que podría comprometer la Seguridad operacional de sus actividades;
+
+VIII. Hacer uso de un procedimiento documentado para adoptar las medidas correctivas apropiadas las cuales eliminen las causas que generaron los hallazgos de Seguridad operacional, incluyendo medidas para el cumplimiento, que permitan resolver los problemas de Seguridad operacional detectados;
+
+IX. Asegurarse de que los hallazgos de Seguridad operacional detectados se resuelvan de manera oportuna por medio de un sistema que permita observar y registrar el progreso, así como las medidas adoptadas por los proveedores de servicios, para solucionar los mismos;
+
+X. Incluir los recursos financieros necesarios para la implementación del Programa estatal de seguridad operacional en su presupuesto.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 78 Bis 2.
+
+Los proveedores de servicio que a continuación se señalan deberán implementar y mantener un Sistema de gestión de la seguridad operacional, como parte del Programa estatal de seguridad operacional que establezca la Secretaría:
+
+I. Concesionarios y permisionarios de transporte aéreo de servicio al público;
+
+II. Los concesionarios y permisionarios aeroportuarios;
+
+III. El organismo descentralizado Aeropuertos y Servicios Auxiliares;
+
+IV. El órgano administrativo desconcentrado Servicios a la Navegación en el Espacio Aéreo Mexicano;
+
+V. Los permisionarios de talleres aeronáuticos;
+
+VI. Las organizaciones responsables de diseño de tipo y las organizaciones responsables de la fabricación de aeronaves;
+
+VII. Los prestadores de servicio de tránsito aéreo;
+
+VIII. Los centros de formación o de capacitación y adiestramiento con aeronaves, y
+
+IX. Los operadores aéreos de aeronaves de estado distintas de las militares.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 78 Bis 3.
+
+El Sistema de gestión de la seguridad operacional deberá incluir, por lo menos:
+
+I. Un proceso para identificar los peligros reales o potenciales para la Seguridad operacional y evaluar los riesgos conexos;
+
+II. Un proceso para definir y aplicar las acciones necesarias para mantener un nivel óptimo de Seguridad operacional;
+
+III. Disposiciones para observar continuamente y evaluar en forma regular la idoneidad y eficacia de las actividades de gestión de la Seguridad operacional;
+
+IV. Prever la supervisión continua y evaluación periódica del nivel de Seguridad operacional logrado, y
+
+V. Mantener la mejora continua del nivel global de Seguridad operacional de la organización.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 78 Bis 4.
+
+La Secretaría expedirá, a petición de los proveedores de servicios, el certificado del Sistema de gestión de la seguridad operacional, el cual está sujeto a ser evaluado respecto de su conformidad con la norma oficial mexicana o disposición administrativa correspondiente, mediante la verificación de su funcionamiento, la cual tendrá como objetivo la revisión del manual y de su plan de implementación, políticas y objetivos de Seguridad operacional.
+
+Una vez que la Secretaría haya verificado la implementación del total de las fases del plan de implementación referido en el párrafo anterior, emitirá su aprobación, cuya vigencia estará sujeta a la conservación de las condiciones que la motivaron, asegurándose de su cumplimiento por medio de visitas de vigilancia estando, entonces, en posibilidad de expedir el certificado respectivo.
+
+Los certificados, o documentación equivalente al establecido en este artículo, expedidos por instituciones de gobierno o particulares extranjeras, serán convalidados por la Secretaría, siempre y cuando ese país cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional y/o Administración Federal de Aviación.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 78 Bis 5.
+
+La información sobre Seguridad operacional contenida en el Sistema de gestión de la seguridad operacional y demás sistemas de procesamiento y notificación, bases de datos, esquemas para intercambio de información e información registrada, comprende:
+
+I. Registros pertenecientes a las investigaciones de accidentes e incidentes de aviación;
+
+II. Sistemas de notificación obligatoria de incidentes;
+
+III. Sistemas de notificación voluntaria de incidentes, y
+
+IV. Sistemas de autonotificación, incluidos los sistemas automáticos o manuales de captura de datos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 78 Bis 6.
+
+La información sobre Seguridad operacional precisada en el artículo anterior tiene carácter de reservada.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 78 Bis 7.
+
+La información sobre Seguridad operacional que provenga de las fuentes señaladas en el artículo 78 Bis 4, así como los datos de las personas involucradas en los eventos relacionados con esa información, no se proporcionará para fines diferentes para los que fue recopilada, por lo que nadie puede ser requerido, en conexión con un proceso judicial, administrativo o disciplinario, a aportar evidencias concernientes a información de Seguridad operacional proporcionada de manera voluntaria a la Secretaría, excepto en las siguientes circunstancias:
+
+I. Por requerimiento expreso de una autoridad judicial o administrativa competente, que haya determinado que la autoridad aeronáutica tiene información que podría ser necesaria para la administración de justicia, para lo cual la autoridad requirente deberá proteger la información como reservada dentro del proceso correspondiente, y
+
+II. Que una autoridad competente considere que, de acuerdo con las evidencias suficientes y las circunstancias que indiquen de manera razonable que un evento determinado pudo haber sido causado por una conducta dolosa o gravemente negligente.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 78 Bis 8.
+
+Los sujetos obligados a implementar y mantener un Sistema de gestión de la seguridad operacional no pueden utilizar la información contenida en el mismo para efectos distintos a procurar la Seguridad operacional, ni en particular como base para tomar medidas que pudieran afectar las condiciones de trabajo de sus empleados o utilizarlas con carácter disciplinario en su contra, o como represalia por revelar información sobre posibles acciones u omisiones que cometa el empleador u otra persona.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 78 Bis 9.
+
+Con el fin de promover la Seguridad operacional, la Secretaría tiene la facultad de concertar acuerdos con el explotador aéreo, el proveedor de servicios aeronáuticos, o el fabricante de equipo aeronáutico, respecto de los sistemas que se implementarán para llevar a cabo la recopilación, análisis, uso y difusión de información de seguridad operacional.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 78 Bis 10.
+
+Con el fin de promover la Seguridad operacional, la Secretaría tiene la facultad de concertar acuerdos con los proveedores de servicio respecto a la recopilación, análisis, uso y difusión de información de Seguridad operacional.
 
 ### Capítulo XVII. De la requisa
 
@@ -1058,9 +1272,23 @@ IV. Obtener la matrícula de la aeronave en el registro de otro Estado, sin habe
 
 V. Cuando de manera negligente no se haga del conocimiento de la Secretaría los incidentes o accidentes ocurridos a sus aeronaves, salvo causa de fuerza mayor, con multa de un mil a ocho mil salarios mínimos;
 
-VI. Impedir el tránsito o la circulación en los aeródromos, aeropuertos y helipuertos por causas imputables a él, con multa de un mil a cinco mil salarios mínimos, y
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-VII. Negarse a participar en las operaciones de búsqueda y salvamento, salvo causa de fuerza mayor, con multa de un mil a cinco mil salarios mínimos.
+VI. Impedir el tránsito o la circulación en los aeródromos, aeropuertos y helipuertos por causas imputables a él, con multa de un mil a cinco mil salarios mínimos;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+VII. Negarse a participar en las operaciones de búsqueda y salvamento, salvo causa de fuerza mayor, con multa de un mil a cinco mil salarios mínimos, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+VIII. Practicar el cabotaje en territorio nacional, siendo permisionario extranjero de servicios de transporte aéreo, con una multa de diez mil a veinticinco mil salarios mínimos.
+
+Cuando el cabotaje sea detectado por la autoridad aeronáutica en el momento en que se esté cometiendo o dentro de las siguientes veinticuatro horas de haberse cometido, la mencionada autoridad podrá decretar el aseguramiento de la aeronave, ante el riesgo inminente de que el permisionario extranjero realice cualquier maniobra tendente a evadir la imposición de la sanción, para lo cual, el comandante del aeropuerto, deberá levantar acta circunstanciada en la que precise las razones para efectuarlo.
+
+Dicho aseguramiento quedará sin efectos si la autoridad aeronáutica no emite la resolución correspondiente dentro de los 60 días hábiles siguientes a la fecha en que se levante el acta a que se refiere el párrafo anterior, o si el infractor garantiza por cualquier forma establecida en la legislación aplicable, su sujeción al procedimiento que se instaure en su contra.
+
+Los gastos que genere el aseguramiento de la aeronave correrán a cargo del permisionario extranjero infractor, salvo que la autoridad resuelva que no cometió el cabotaje.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -1137,6 +1365,12 @@ XV. Arrojar o tolerar que innecesariamente se arrojen desde la aeronave en vuelo
 XVI. Negarse a participar en las operaciones de búsqueda o salvamento, salvo causa de fuerza mayor, multa de doscientos a dos mil salarios mínimos, y
 
 XVII. Realizar o permitir que se realicen abordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas sin el permiso correspondiente, en el caso de tripular una aeronave civil extranjera, multa de doscientos a dos mil salarios mínimos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 88 Bis.
+
+Por el incumplimiento con lo establecido en esta Ley, su reglamento y demás disposiciones aplicables en relación con la implementación del Sistema de gestión de la seguridad operacional por parte de los proveedores de servicios, les será suspendido o revocado el certificado correspondiente, atendiendo a la gravedad de la infracción.
 
 ###### Artículo 89.
 
@@ -1235,3 +1469,11 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en el ámbito de sus respectivas competencias, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten la materialización del mismo.
 
 Tercero.- La Secretaría de Comunicaciones y Transportes, en coordinación con las secretarías de estado y demás instituciones facultadas para tal efecto, deberán formular las Normas Oficiales Mexicanas relativas al contenido del presente Decreto.
+
+D.O.F. 26 DE ENERO DE 2015.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en el ámbito de su competencia, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten el cumplimiento del mismo.
+
+Tercero. La vigencia de las licencias del personal técnico aeronáutico será de dos años y la Secretaría podrá ampliar la vigencia de las mismas, una vez que realice las adecuaciones y modificaciones necesarias que posibiliten su cumplimiento.
