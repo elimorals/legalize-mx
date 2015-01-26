@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2015-01-13"
+last_updated: "2015-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 13 DE ENERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2015.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -2429,7 +2427,7 @@ La Secretaría gestionará ante las autoridades fiscales correspondientes, la p�
 
 ###### Artículo 2.
 
-213. No podrá prestar servicios ambientales directamente o a través de terceros, el servidor público que intervenga en cualquier forma en la aplicación del presente Libro, ni las personas con las que tenga interés personal, familiar o de negocios incluyendo aquéllas de las que pueda generar un beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado por afinidad o civiles, terceros con los que tenga relaciones profesionales, laborales o de negocios, socios o personas jurídicas colectivas de las que el servidor público o las personas antes referidas formen parte. La infracción a esta disposición será sancionada en los términos de las disposiciones jurídicas de responsabilidades de los servidores públicos correspondiente.
+213. No podrá prestar servicios ambientales directamente o a través de terceros, el servidor público que intervenga en cualquier forma en la aplicación del presente Libro, ni las personas con las que tenga interés personal, familiar o de negocios incluyendo aquellas de las que pueda generar un beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado por afinidad o civiles, terceros con los que tenga relaciones profesionales, laborales o de negocios, socios o personas jurídicas colectivas de las que el servidor público o las personas antes referidas formen parte. La infracción a esta disposición será sancionada en los términos de las disposiciones jurídicas de responsabilidades de los servidores públicos correspondiente.
 
 ### CAPITULO IV. DE LOS PROVEEDORES DE EQUIPOS Y SERVICIOS DE VERIFICACION
 
@@ -2457,7 +2455,15 @@ VI. Mantener en vigor la fianza para garantizar el cumplimiento de las obligacio
 
 216. La Secretaría, atendiendo las necesidades de los servicios de verificación de fuentes móviles de su competencia, expedirá autorizaciones a los interesados que cumplan los requisitos correspondientes, para tal efecto emitirá previamente convocatoria pública en la Gaceta del Gobierno en la cual se determinará la capacidad técnica y financiera y demás condiciones que se deberán reunir para obtener la autorización, las normas y procedimientos de verificación que se deberán observar, así como el número y ubicación de las instalaciones de los verificadores ambientales que serán autorizados.
 
+> <small>(ADICIONADO, G.G. 26 DE ENERO DE 2015)</small>
+
 ### CAPITULO V. DE LOS VERIFICADORES Y LABORATORIOS AMBIENTALES
+
+###### Artículo 2.
+
+216 bis. Las agencias automotrices establecidas dentro del territorio del Estado de México, previa solicitud a la Secretaría podrán instalar una línea de verificación para vehículos particulares de propulsión a gasolina, estando sujetos a cumplir los requisitos que establece este código, con excepción de la fracción IV del artículo 2.221.
+
+La verificación a que se refiere el párrafo anterior será únicamente a los vehículos particulares que comercializan las agencias automotrices correspondientes.
 
 ###### Artículo 2.
 
@@ -2467,11 +2473,11 @@ I. De fuentes fijas; y
 
 II. De fuentes móviles.
 
+### CAPITULO VI. DE LOS PRESTADORES DE SERVICIOS EN MATERIA DE IMPACTO AMBIENTAL
+
 ###### Artículo 2.
 
 218. Quienes realicen verificaciones y entreguen los documentos que acrediten su aprobación sin contar con la autorización correspondiente serán sancionados en los términos del presente Libro y las demás disposiciones jurídicas aplicables.
-
-### CAPITULO VI. DE LOS PRESTADORES DE SERVICIOS EN MATERIA DE IMPACTO AMBIENTAL
 
 ###### Artículo 2.
 
@@ -2529,11 +2535,11 @@ XII. Mantener en vigor, la fianza correspondiente durante la vigencia de la auto
 
 226. La Secretaría elaborará una lista de empresas o particulares de servicios profesionales en materia de impacto y riesgo ambiental, que hayan acreditado su capacidad técnica.
 
+### CAPITULO VII. DEL FONDO PARA PROYECTOS AMBIENTALES
+
 ###### Artículo 2.
 
 227. Las empresas o particulares que presten sus servicios en materia de impacto y riesgo ambiental, cuyos informes, manifestaciones o estudios contengan información falsa o incorrecta u omitan la identificación de impactos negativos por negligencia, mala fe, dolo serán sancionados en los términos del presente Libro y los demás ordenamientos jurídicos aplicables.
-
-### CAPITULO VII. DEL FONDO PARA PROYECTOS AMBIENTALES
 
 ###### Artículo 2.
 
@@ -2547,15 +2553,11 @@ XII. Mantener en vigor, la fianza correspondiente durante la vigencia de la auto
 
 230. La Secretaría y los Ayuntamientos en el ámbito de sus respectivas competencias, realizarán los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente Ordenamiento, así como de las que del mismo se deriven.
 
-###### Artículo 2.
-
-231. Las autoridades competentes, podrán realizar visitas de inspección por conducto del personal debidamente autorizado, sin perjuicio de otras medidas previstas en los otros Libros para verificar el cumplimiento de este Código. Dicho personal al realizar las visitas de inspección, deberá contar con el documento oficial que los acredite y autorice para practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada expedida por autoridad competente en la que se precisará el lugar o zona que habrá de inspeccionarse y el objeto de la diligencia.
-
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 2.
 
-232. El personal autorizado al iniciar la inspección, se identificará debidamente con la persona con quien se entienda la diligencia, exhibiéndole para tal efecto credencial vigente con fotografía, expedida por autoridad competente que lo acredite para realizar visitas de inspección en la materia y le mostrará la orden respectiva, entregándole copia de la misma con firma autógrafa requiriéndola para que en el acto designe dos testigos. En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante sin que esta circunstancia invalide los efectos de la inspección. En los casos en que no fuera posible encontrar en el lugar de la visita a la persona que pudiera ser designada como testigo, el personal actuante deberá asentar esta circunstancia en el acta administrativa que al efecto se levante sin que ello afecte la validez de la misma.
+231. Las autoridades competentes, podrán realizar visitas de inspección por conducto del personal debidamente autorizado, sin perjuicio de otras medidas previstas en los otros Libros para verificar el cumplimiento de este Código. Dicho personal al realizar las visitas de inspección, deberá contar con el documento oficial que los acredite y autorice para practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada expedida por autoridad competente en la que se precisará el lugar o zona que habrá de inspeccionarse y el objeto de la diligencia.
 
 ## TITULO SEPTIMO
 
@@ -2565,7 +2567,11 @@ DE LA AUTORREGULACION, AUDITORIAS AMBIENTALES, INSPECCION Y VIGILANCIA, MEDIDAS 
 
 ###### Artículo 2.
 
-233. En toda visita de inspección, se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, así como lo previsto en el artículo 128 del Código de Procedimientos Administrativos del Estado de México. Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule observaciones en relación con los hechos u omisiones asentados en el acta respectiva, y para que ofrezca las pruebas que considere convenientes o haga uso de ese derecho en el término de cinco días siguientes a la fecha en que la diligencia se hubiere practicado, a continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado quien entregará copia del acta al interesado. Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán en ella sin que esto afecte su validez y valor probatorio.
+232. El personal autorizado al iniciar la inspección, se identificará debidamente con la persona con quien se entienda la diligencia, exhibiéndole para tal efecto credencial vigente con fotografía, expedida por autoridad competente que lo acredite para realizar visitas de inspección en la materia y le mostrará la orden respectiva, entregándole copia de la misma con firma autógrafa requiriéndola para que en el acto designe dos testigos. En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante sin que esta circunstancia invalide los efectos de la inspección. En los casos en que no fuera posible encontrar en el lugar de la visita a la persona que pudiera ser designada como testigo, el personal actuante deberá asentar esta circunstancia en el acta administrativa que al efecto se levante sin que ello afecte la validez de la misma.
+
+###### Artículo 2.
+
+233. En toda visita de inspección, se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, así como lo previsto en el artículo 128 del Código de Procedimientos Administrativos del Estado de México. Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule observaciones en relación con los hechos u omisiones asentados en el acta respectiva, y para que ofrezca las pruebas que considere convenientes o haga uso de ese derecho en el término de cinco días siguientes a la fecha en que la diligencia se hubiere practicado, a continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado quien entregará copia del acta al interesado. Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentaran en ella sin que esto afecte su validez y valor probatorio.
 
 ###### Artículo 2.
 
@@ -2589,11 +2595,11 @@ Admitidas y desahogadas las pruebas ofrecidas por el interesado o habiendo trans
 
 238. En la resolución administrativa correspondiente, se señalarán o se adicionarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables. Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo. Cuando se trate de segunda o posterior inspección para verificar el cumplimiento del requerimiento o requerimientos anteriores y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer además de la sanción o sanciones que procedan conforme al presente Código, una sanción adicional que no exceda de los límites máximos señalados en el precepto aplicable. En los casos en que el infractor realice las medidas correctivas, de urgente aplicación, subsane las irregularidades detectadas en los plazos ordenados por la Secretaría o por el Municipio siempre y cuando el infractor no sea reincidente y no se trate de alguno de los supuestos previstos para imponer medidas de seguridad, éstas podrán revocar o modificar la sanción o sanciones impuestas. En los casos en que proceda la autoridad hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
 
+### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
+
 ###### Artículo 2.
 
 239. Las disposiciones de este Código se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, determinación de infracciones, sanciones, procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal regulados por el presente Ordenamiento. Cuando sean asuntos de competencia municipal, los Ayuntamientos aplicarán lo dispuesto en este Código de conformidad con sus disposiciones municipales aplicables.
-
-### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 2.
 
@@ -2647,13 +2653,13 @@ La información deberá mantenerse por la autoridad en absoluta reserva, si así
 
 247. La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar las visitas de inspección o para la ejecución de las disposiciones que contempla este Código, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de las diligencias correspondientes, independientemente de la aplicación de las sanciones a que haya lugar.
 
+### CAPITULO IV. DE LAS INFRACCIONES Y SANCIONES
+
 ###### Artículo 2.
 
 248. Con apego al acta de inspección, la autoridad ordenadora requerirá al interesado mediante notificación personal o por correo certificado con acuse de recibo para que adopte de inmediato las medidas correctivas de urgente aplicación, fundando y motivando el requerimiento para que dentro del término de diez días hábiles a partir de que surta efectos dicha notificación, manifieste por escrito lo que a su derecho convenga en relación con el acta de inspección y ofrezca las pruebas en relación con los hechos u omisiones que en la misma se asienten.
 
 El presunto infractor o su representante, deberá acreditar al momento de comparecer ante la autoridad correspondiente su personalidad jurídica.
-
-### CAPITULO IV. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 2.
 
@@ -2803,6 +2809,10 @@ En ningún caso los responsables de la infracción que hubiera dado lugar a la i
 
 260. La Secretaría competente o los Ayuntamientos intervendrán ante quien suministre servicios públicos, tales como energía eléctrica, agua u otros que requieran para su funcionamiento los establecimientos que no satisfagan las disposiciones que les impone este Código y sus Reglamentos, previamente o durante su funcionamiento cuando se detecte alguna irregularidad o incumplimiento, sin menoscabo de la imposición de las sanciones a que haya lugar, y solicitarán la clausura definitiva o temporal según sea la gravedad de las infracciones en que incurran.
 
+### CAPITULO V. DE LA DENUNCIA CIUDADANA
+
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
 ###### Artículo 2.
 
 261. Para la imposición de las sanciones a que se refiere la Sección anterior se observarán las reglas siguientes:
@@ -2818,10 +2828,6 @@ III. Las multas serán aplicadas por la Secretaría competente o la autoridad mu
 IV. La suspensión, clausura de actividades, obras, la suspensión o revocación de concesiones, permisos o autorizaciones serán aplicadas por la Secretaría competente o la autoridad municipal en su ámbito de competencia; y
 
 V. La reparación del daño y deterioro a la biodiversidad será impuesta por autoridad competente previo dictamen técnico.
-
-### CAPITULO V. DE LA DENUNCIA CIUDADANA
-
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 2.
 
@@ -3011,11 +3017,11 @@ I. Realice actividades riesgosas contraviniendo las medidas preventivas, de cont
 
 II. Trafique en los asuntos no reservados a la Federación con una o más especies o subespecies silvestres de flora o fauna terrestres, acuáticas, en peligro de extinción, amenazadas, raras o sujetas a protección especial, de conformidad con las normas ambientales aplicables sin perjuicio de la denuncia ante el Ministerio Público.
 
+#### SECCION SEGUNDA. DE LAS REGLAS PARA LA IMPOSICION DE SANCIONES
+
 ###### Artículo 2.
 
 270. Se hará acreedor a una sanción por el equivalente de mil doscientos cincuenta a cincuenta y cinco mil días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción, a quien realice obras, actividades o aprovechamientos de elementos y recursos naturales o bienes ambientales, sin contar con la previa autorización de la manifestación de impacto ambiental en los casos en que ésta sea exigible. En caso de que ya se hubiere iniciado el procedimiento de evaluación de impacto ambiental la Secretaría además de imponer la sanción correspondiente, podrá negar la autorización respectiva.
-
-#### SECCION SEGUNDA. DE LAS REGLAS PARA LA IMPOSICION DE SANCIONES
 
 ###### Artículo 2.
 
@@ -3243,11 +3249,11 @@ La autoridad deberá en todo caso, cuando la denuncia no sea de su competencia p
 
 298. Una vez concluidas las diligencias y rendidas las pruebas y alegatos respectivos la Secretaría o la autoridad competente dictará la resolución que conforme a derecho proceda en un término que no podrá exceder de treinta días hábiles y la notificará a todos los interesados que se hayan apersonado en el procedimiento dentro de los cinco días hábiles siguientes a su fecha de suscripción.
 
+### CAPITULO VI. DEL RECURSO DE INCONFORMIDAD
+
 ###### Articulo 2.
 
 299. Sin perjuicio de las sanciones penales o administrativas que resulten procedentes toda persona física o jurídica colectiva que contamine, dañe al ambiente o afecte los elementos y recursos naturales, los bienes ambientales o a la biodiversidad será responsable y estará obligada a reparar los daños causados de conformidad con la legislación aplicable.
-
-### CAPITULO VI. DEL RECURSO DE INCONFORMIDAD
 
 ###### Articulo 2.
 
@@ -3309,11 +3315,11 @@ La resolución de la Secretaría sólo se referirá a los aspecto (sic) ambienta
 
 309. El otorgamiento de la garantía financiera estará sujeto a lo previsto en las disposiciones jurídicas aplicables.
 
+### CAPITULO I. DISPOSICIONES GENERALES
+
 ###### Artículo 2.
 
 310. La garantía financiera podrá ser sustituida con la presentación de una póliza de seguro de responsabilidad objetiva por daño y deterioro ambiental, estos documentos darán cobertura suficiente para reparar el posible deterioro y daño que pudiesen ocasionar las actividades sujetas a impacto ambiental.
-
-### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 2.
 
@@ -5673,7 +5679,7 @@ XIX. Ejemplares o poblaciones que se tornen perjudiciales: Las pertenecientes a 
 
 XX. Especies y poblaciones prioritarias para la conservación: Aquellas determinadas por la Secretaría de acuerdo con los criterios establecidos en el presente Libro para canalizar y optimizar esfuerzos de conservación y recuperación. Las especies endémicas se consideran dentro de esta categoría que son las que habitan exclusivamente en una determinada área geográfica;
 
-XXI. Especies y poblaciones en riesgo: Las identificadas por la SecretarIa de Medio Ambiente y Recursos Naturales, por la Secretaría del Medio Ambiente del Estado o por la Comisión Estatal de Parques Naturales y de la Fauna como probablemente extintas en el medio silvestre, en peligro de extinción, amenazadas o sujetas a protección especial materia del presente Libro;
+XXI. Especies y poblaciones en riesgo: Las identificadas por la Secretaria de Medio Ambiente y Recursos Naturales, por la Secretaría del Medio Ambiente del Estado o por la Comisión Estatal de Parques Naturales y de la Fauna como probablemente extintas en el medio silvestre, en peligro de extinción, amenazadas o sujetas a protección especial materia del presente Libro;
 
 XXII. Especies y poblaciones migratorias: Aquellas que se desplazan latitudinal, longitudinal o altitudinalmente de manera periódica como parte de su ciclo biológico;
 
@@ -7385,7 +7391,7 @@ Queda estrictamente prohibido arrojar a los puercos al agua hirviendo sino hasta
 
 ###### Artículo 6.
 
-77. En ningún caso las reses y otros de semejante naturaleza presenciarán el sacrificio de sus congéneres. Queda prohibido estrictamente el sacrificio de hembras en el periodo de tiempo próximo al parto.
+77. En ningún caso las reses y, otros de semejante naturaleza presenciarán el sacrificio de sus congéneres. Queda prohibido estrictamente el sacrificio de hembras en el período de tiempo próximo al parto.
 
 ###### Artículo 6.
 
@@ -7786,3 +7792,15 @@ OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México
 NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
 
 DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 26 DE ENERO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo, expedirá las reformas a las disposiciones del Reglamento del Libro Segundo del Código para la Biodiversidad, dentro del plazo de sesenta días naturales contados a partir de su entrada en vigor.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se oponga al presente Decreto.
+
+QUINTO. El Ejecutivo Estatal, en el ámbito de su competencia, proveerá lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
