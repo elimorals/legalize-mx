@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2015-01-13"
+last_updated: "2015-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 13 DE ENERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1671,7 +1669,9 @@ Al que cometa este delito, se le impondrán las sanciones siguientes:
 
 I. De uno a cinco años de prisión y de treinta a quinientos días multa, destitución, e inhabilitación de dos a siete años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido no exceda del equivalente de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito, o no sea cuantificable;
 
-II. De cinco a once años de prisión y de quinientos a un mil cien días multa, destitución, e inhabilitación de siete a diecisiete años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido exceda de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito.
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
+
+ll. De ocho a doce años de prisión y de mil a mil quinientos días multa, destitución, e inhabilitación de siete a diecisiete años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido exceda de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito.
 
 ### CAPITULO XIII. PECULADO
 
@@ -2487,13 +2487,21 @@ Incurre en este delito quien por cualquier medio altere, destruya, construya o i
 
 Si el medio de transporte a que se refiere el párrafo anterior estuviere ocupado por dos o más personas, las sanciones se aumentarán en una tercera parte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
+
 ###### Artículo 193.
 
-Al que en la comisión de un delito, maneje o utilice un vehículo de motor sin las placas visibles o la tarjeta que autorice su debida circulación, o con documentación que no corresponda a la autorizada oficialmente para circular, se le impondrán de seis meses a dos años de prisión de cien días multa, si el delito que se comete es grave, se duplicará la pena.
+Al que en la comisión de un delito, conduzca o utilice un vehículo de motor sin las placas de circulación, se encuentren ocultas o no sean visibles o la tarjeta que autorice su debida circulación, o con documentación que no corresponda a la autorizada oficialmente para circular, se le impondrán de dos a cuatro años de prisión y de cien a trescientos días multa. Si el delito que se comete es grave, se duplicará la pena. Esta agravante no se aplicará a los delitos culposos.
 
 Al que maneje o utilice un vehículo de motor con placas o tarjeta o documentación que no correspondan al vehículo o a la autorizada oficialmente para circular, se le impondrá de uno a tres años de prisión y de cincuenta a doscientos días multa.
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
+
+Al que maneje o utilice un vehículo de motor sin ambas placas de circulación o la autorización para circular, se le impondrán de tres meses a un año de prisión y de cincuenta a cien días multa.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 26 DE ENERO DE 2015)</small>
 
 Si se trata de un elemento de cualquier corporación policíaca se le impondrán de cuatro a doce años de prisión, destitución e inhabilitación de ocho a veinte años para desempeñar empleo, cargo o comisión públicos.
 
@@ -3033,13 +3041,17 @@ A los responsables de este delito se les impondrá prisión de dos a ocho años 
 
 Al que sin autorización legal realice, auxilie, coopere, consienta o participe en la transportación, almacenamiento, distribución, procesamiento, comercialización o destrucción de productos de los montes o bosques, cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra, se le aplicarán de cinco a quince años de prisión y de quinientos a mil días multa.
 
-> <small>(ADICIONADO, G.G. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
 
-Cuando la destrucción de los productos de los montes o bosques sea a consecuencia de la tala de árboles, sin autorización de la autoridad correspondiente, se impondrá una pena de seis a quince años de prisión y de mil a mil quinientos días multa.
+Cuando la destrucción de los productos de los montes o bosques sea a consecuencia de la tala de árboles, sin autorización de la autoridad correspondiente, se impondrá una pena de ocho a quince años de prisión y de mil a dos mil días multa.
 
-A los autores intelectuales, instigadores, a quiénes obtengan un lucro indebido o a quienes controlen o inciten a menores de edad para cometer este delito, se les impondrá una pena de siete a quince años de prisión y de setecientos a mil días multa.
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
 
-Se impondrán de diez a veinte años de prisión y de mil a mil quinientos días multa:
+A los autores intelectuales, instigadores, a quienes obtengan un lucro indebido o a quienes controlen o inciten a menores de edad para cometer este delito, se les impondrá una pena de ocho a quince años de prisión y de mil a dos mil días multa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
+
+Se impondrán de doce a veinte años de prisión y de mil quinientos a tres mil días multa:
 
 I. Cuando en la comisión de este delito se empleen instrumentos como motosierras, sierras manuales o sus análogas y demás objetos utilizados para el daño y destrucción de los montes o bosques;
 
@@ -3067,7 +3079,9 @@ Comete también el delito a que se refiere el artículo anterior, el que incurra
 
 I. Altere en cualquier forma, sustituya, destruya, trafique o haga uso indebido de documentos oficiales relativos al programa de verificación de vehículos automotores;
 
-II. Destine sus establecimientos a actividades diferentes a la verificación de emisiones contaminantes, realice en éstos reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad comercial o de servicio distinta a la verificación;
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
+
+II. Destine sus establecimientos a actividades diferentes a la verificación de emisiones contaminantes, realice en éstos reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad comercial o de servicio distinta a la verificación, sin contar con la autorización emitida por la autoridad competente;
 
 III. Siendo propietario, responsable o técnico de los verificentros, condicione la aprobación de la verificación vehicular, a la entrega de dádivas en efectivo o en especie, o por cualquier motivo cobre por la verificación una cantidad superior a la autorizada oficialmente;
 
@@ -3403,7 +3417,7 @@ IV. Cuando a juicio de dos médicos exista prueba suficiente para diagnosticar q
 
 ### CAPITULO VI. EXTORSION
 
-> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
 
 ###### Artículo 252.
 
@@ -3669,9 +3683,13 @@ Las penas señaladas en el artículo anterior se incrementarán hasta en una mit
 
 ###### Artículo 266.
 
-Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, con la finalidad de obtener un lucro o beneficio para sí o para otro o causar un daño, se le impondrán de tres a nueve años de prisión y de cien a quinientos días multa.
+Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, con la finalidad de obtener un lucro o beneficio para sí o para otro o causar un daño, se le impondrán de ocho a doce años de prisión y de mil a mil quinientos días multa.
 
-Cuando este delito se cometa utilizando cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe a través de hilos, medios de transmisión inalámbrica de ondas o señales electromagnéticas, medios ópticos, o cualquier medio físico, se le impondrán de cinco a diez años de prisión y de cien a quinientos días multa.
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
+
+Cuando este delito se cometa utilizando cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe a través de hilos, medios de transmisión inalámbrica de ondas o señales electromagnéticas, medios ópticos, o cualquier medio físico, se le impondrán de doce a quince años de prisión y de mil quinientos a dos mil días multa.
+
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
 
 Se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa, cuando concurra cualquiera de las siguientes circunstancias:
 
@@ -3977,9 +3995,9 @@ VI. Si por alguna circunstancia la cuantía del robo no fuere estimable en diner
 
 Son circunstancias que agravan la penalidad en el delito de robo y se sancionarán además de las penas señaladas en el artículo anterior con las siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
 
-I. Cuando se cometa con violencia, se impondrán de tres a diez años de prisión y de uno a tres veces el valor de lo robado sin que exceda de mil días multa.
+l. Cuando se cometa con violencia, se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de lo robado sin que exceda de mil quinientos días multa.
 
 > <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2012)</small>
 
@@ -3989,23 +4007,23 @@ La violencia física consiste en la utilización de la fuerza material por el su
 
 Esta conducta se considerará como delito grave, cuando el monto de lo robado exceda de ciento cincuenta veces el salario mínimo o que se causen lesiones de las previstas en los artículos 237 fracciones II y III, y 238 fracciones III, IV y V de este Código;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
 
-II. Cuando se cometa en el interior de casa habitación, se impondrán de tres a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
+ll. Cuando se cometa en el interior de casa habitación, se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de Io robado, sin que exceda de mil quinientos días multa.
 
 Se comprende dentro de la denominación de casa habitación, el aposento, cualquier dependencia de ella y las movibles cualquiera que sea el material con el que estén construidas;
 
-> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-III. Cuando se cometa en el interior de casa habitación y se utilice en su ejecución la violencia, se impondrán de diez a quince años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa;
+III. Cuando se cometa en el interior de casa habitación y se utilice en su ejecución la violencia, se impondrán de doce a quince años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de dos mil días multa;
 
 > <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
 
 IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-V. Cuando se cometa el robo de un vehículo automotor o de la mercancía transportada a bordo de aquel, se impondrán de tres a diez años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo;
+V. Cuando se cometa el robo de un vehículo automotor o de la mercancía transportada a bordo de aquel, se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de miI quinientos días multa, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo;
 
 VI. Cuando se cometa aprovechando la falta de vigilancia o la confusión ocasionado por un siniestro o un desorden de cualquier tipo, se impondrán de dos a siete años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
@@ -4049,9 +4067,9 @@ XVI. Si en los actos mencionados en las fracciones anteriores, participa, en eje
 
 XVII. Cuando se cometa a escuelas e inmuebles destinados a actividades educativas, se impondrán de tres a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
-> <small>(ADICIONADA, G.G. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-XVIII. Cuando se cometa en medios de transporte público de pasajeros y se utilice en su ejecución violencia, se impondrán de siete a diez años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de mil días.
+XVIII. Cuando se cometa en medios de transporte público de pasajeros y se utilice en su ejecución violencia, se impondrán de ocho a once años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de mil días.
 
 ###### Artículo 291.
 
@@ -4075,7 +4093,9 @@ V. Utilice el o los vehículos robados en la comisión de otro u otros delitos; 
 
 VI. Utilice el o los vehículos robados en la prestación de un servicio público o actividad oficial.
 
-En estos casos, se impondrán de cinco a veinte años de prisión y de uno a tres veces el valor del vehículo robado.
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
+
+En estos casos, se impondrán de ocho a veinte años de prisión y de uno a tres veces el valor del vehículo robado.
 
 > <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4084,8 +4104,6 @@ Si en los actos mencionados participa algún servidor público que tenga a su ca
 > <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
 
 Quienes compren o vendan un vehículo automotor, deberán obtener la constancia o certificación electrónica de que el vehículo no aparece en la base de datos de autos robados del Registro Público Vehicular al momento de la compra-venta.
-
-> <small>(DEROGADO QUINTO PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 293.
 
@@ -5442,3 +5460,27 @@ DECRETO NÚMERO 368, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONA PÁ
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE ENERO DE 2015.
+
+DECRETO NÚMERO 393, POR EL QUE SE REFORMA EL ARTÍCULO 232 EN SU FRACCIÓN II DEL CÓDIGO PENAL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo, expedirá las reformas a las disposiciones del Reglamento del Libro Segundo del Código para la Biodiversidad, dentro del plazo de sesenta días naturales contados a partir de su entrada en vigor.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se oponga (sic) al presente Decreto.
+
+QUINTO. El Ejecutivo Estatal, en el ámbito de su competencia, proveerá lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+G.G. 26 DE ENERO DE 2015.
+
+DECRETO NÚMERO 394, POR EL QUE SE REFORMAN LOS ARTÍCULOS 137 BIS EN SU FRACCIÓN II DEL SEGUNDO PÁRRAFO, 193 EN SUS PÁRRAFOS PRIMERO Y TERCERO, 229 EN SUS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO, 266 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, 290 EN SUS FRACCIONES I EN SU PRIMER PÁRRAFO, II EN SU PRIMER PÁRRAFO, III, V, XVIII Y EL 292 EN SU SEGUNDO PÁRRAFO Y SE ADICIONA AL 193 UN CUARTO PÁRRAFO DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno", con excepción de la reforma al párrafo tercero del artículo 193 del Código Penal del Estado de México, por el que se impone de tres meses a un año de prisión al que maneje o utilice un vehículo de motor sin ambas placas de circulación o la autorización para circular, la cual, entrará en vigor a los seis meses posteriores a la publicación del presente Decreto.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
