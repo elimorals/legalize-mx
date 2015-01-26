@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2015-01-21"
+last_updated: "2015-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 1.- DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTI
 
 NOTA 2.- DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DE LA DECLARATORIA Y SEGUNDO TRANSITORIO DEL DECRETO No. 392, DE LA G.G. DE 21 DE ENERO DE 2015, POR EL QUE SE APRUEBA LA INCORPORACIÓN A SU RÉGIMEN JURÍDICO EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, COMO SEÑALA QUE DICHA DECLARATORIA SURTIRÁ SUS EFECTOS 18 DE JUNIO DE 2016, EN EL ESTADO DE MÉXICO, SIN EMBARGO, RESPECTO DE LOS PROCEDIMIENTOS PENALES INICIADOS CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO, SE REGIRÁN POR LAS DISPOSICIONES VIGENTES AL MOMENTO DE SU INICIO, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ INICIADA LA VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ENERO DE 2015 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2015.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -5089,9 +5089,9 @@ III. Manifestado datos de efectiva reinserción del sentenciado a la sociedad. E
 
 A los internos que por falta de ocupación laboral asistan regularmente a la escuela le serán tomadas en cuenta dichas actividades para el efecto de la remisión parcial de la pena y cualquier otra medida tendente a su reinserción social.
 
-> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
 
-La remisión parcial de la pena no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar o robo que ocasione la muerte.
+La remisión parcial de la pena no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, robo que ocasione la muerte, robo de vehículo automotor o robo a casa habitación.
 
 Programación de casos
 
@@ -5133,9 +5133,9 @@ IV. Traslado a institución abierta; y
 
 V. El régimen de prelibertad.
 
-> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
 
-El régimen de prelibertad no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar o robo que ocasione la muerte.
+El régimen de prelibertad no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, robo que ocasione la muerte, robo de vehículo automotor o robo a casa habitación.
 
 Momento para el otorgamiento
 
@@ -5187,9 +5187,9 @@ Beneficio de libertad condicionada
 
 El beneficio de libertad condicionada al sistema de localización y rastreo es un medio de ejecutar la sanción penal hasta en tanto se alcance la prelibertad, o libertad condicional.
 
-> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
 
-Este beneficio no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar o robo que cause la muerte.
+Este beneficio no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, robo que ocasione la muerte, robo de vehículo automotor o robo a casa habitación.
 
 > <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -5279,11 +5279,11 @@ La designación se hará conciliando las circunstancias de que al interno no pue
 
 Improcedencia de la libertad condicional
 
-> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
 
 ###### Artículo 469.
 
-La libertad condicional no se concederá en los delitos de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar o robo que ocasione la muerte.
+La libertad condicional no se concederá en los delitos de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, robo que ocasione la muerte, robo de vehículo automotor o robo a casa habitación.
 
 Pérdida del derecho a la libertad condicional
 
@@ -5802,3 +5802,11 @@ Este Decreto entrará en vigor el dieciocho de junio de dos mil dieciséis.
 ###### ARTÍCULO TERCERO.
 
 Remítase copia del presente Decreto a los poderes públicos de la Federación, de las Entidades Federativas y del Distrito Federal, así como a los demás poderes del Estado, para su conocimiento y efectos a que haya lugar.
+
+G.G. 26 DE ENERO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”, con excepción de la reforma al párrafo tercero del artículo 193 del Código Penal del Estado de México, por el que se impone de tres meses a un año de prisión al que maneje o utilice un vehículo de motor sin ambas placas de circulación o la autorización para circular, la cual, entrará en vigor a los seis meses posteriores a la publicación del presente Decreto.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
