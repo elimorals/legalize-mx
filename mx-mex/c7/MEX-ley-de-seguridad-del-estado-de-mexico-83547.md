@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2014-12-19"
+last_updated: "2015-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -1571,9 +1569,13 @@ v) Recibir denuncias anónimas e inmediatamente hacerlo del conocimiento del Min
 
 w) Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación, bajo la conducción y mando del Ministerio Público;
 
-> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-x) Las demás que establezca esta Ley y otras disposiciones aplicables.
+x) En operativos, portar o utilizar únicamente los equipos de radiofrecuencia, de telefonía o cualquier otro dispositivo de comunicación que les hayan sido proporcionados por la Institución a la que pertenecen;
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2015)</small>
+
+y) Las demás que establezca (sic) esta Ley y otras disposiciones aplicables.
 
 II. Aplicables sólo a los agentes del ministerio público:
 
@@ -2920,3 +2922,11 @@ G.G. 16 DE DICIEMBRE DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor a los cinco días siguientes de su publicación en el periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE ENERO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. EI presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno", con excepción de la reforma al párrafo tercero del artículo 193 del Código Penal del Estado de México, por el que se impone de tres meses a un año de prisión al que maneje o utilice un vehículo de motor sin ambas placas de circulación o la autorización para circular, la cual, entrará en vigor a los seis meses posteriores a la publicación del presente Decreto.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
