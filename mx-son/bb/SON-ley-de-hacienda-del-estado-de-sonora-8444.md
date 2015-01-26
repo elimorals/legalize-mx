@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2014-12-22"
+last_updated: "2015-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ LEY DE HACIENDA DEL ESTADO DE SONORA
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DE 26 DE ENERO DE 2015.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -6933,7 +6935,7 @@ I.- Los contribuyentes que realicen actividades empresariales y generen en forma
 
 Para efectos de la disposición anterior, se considerarán nuevos empleos, todos aquellos que se contraten en forma adicional a la plantilla de personal que tengan las empresas al 15 de diciembre de 1995.
 
-II.- Los contribuyentes que inicien actividades empresariales en el Estado gozarán de una reducción del 100% en el pago del Impuesto Sobre Remuneraciones al Trabajo Personal durante dicho período.
+II.- Los contribuyentes que inciden actividades empresariales en el Estado gozarán de una reducción del 100% en el pago del Impuesto Sobre Remuneraciones al Trabajo Personal durante dicho período.
 
 Para los efectos del párrafo anterior, se entiende como fecha de iniciación de operaciones aquella en que tenga lugar la apertura del establecimiento.
 
@@ -6943,7 +6945,7 @@ III.- Tratándose de la inscripción de escrituras constitutivas de sociedades m
 
 ###### ARTICULO TERCERO.
 
-Se autoriza una reducción del 50% en el Impuesto Sobre Traslación de Dominio de Bienes Muebles a que se refiere el Artículo 183 de la Ley de Hacienda del Estado, respecto de operaciones de vehículos usados modelos 1995 y anteriores, que se pague durante los meses de enero a abril de 1996.
+Se autoriza una reducción del 50% en el Impuesto Sobre Traslación de Dominio de Bienes Muebles a que se refiere el Artículo 183 de la Ley de Hacienda del Estado, respecto de operaciones de vehículos usados modelo 1995 y anteriores, que se pague durante los meses de enero a abril de 1996.
 
 ###### ARTICULO CUARTO.
 
@@ -7171,13 +7173,13 @@ El Registro Estatal Vehicular a que se refiere el primer párrafo de este artíc
 
 Artículo Cuarto.- Para los efectos de las modificaciones a la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, previstas en el artículo anterior se estará a lo siguiente:
 
-I.- Los permisionarios que se ubiquen dentro del supuesto a que se refiere el artículo 10 Fracción XV de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, deberán presentar la licencia con la cual se encuentren operando a fin de que les sea canjeada bajo el giro de establecimiento que preste servicios de sorteos y juegos con apuestas, debiendo pagar los derechos correspondientes bajo la denominación del nuevo giro.
+I.- Los permisionarios que se ubiquen dentro del supuesto a qué se refiere el artículo 10 Fracción XV de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, deberán presentar la licencia con la cual se encuentren operando a fin de que les sea canjeada bajo el giro de establecimiento que preste servicios de sorteos y juegos con apuestas, debiendo pagar los derechos correspondientes bajo la denominación del nuevo giro.
 
 Transcurrido el plazo a que se refiere la fracción II de este artículo, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
-II.- Para los efectos de lo dispuesto en los artículos 45 Bis y 50 Bis de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, el canje de las licencias se efectuará en el transcurso de los meses de enero a mayo del año de calendario que corresponda y tendrá una vigencia de tres años, contados a partir del canje del presente ejercicio de 2014, debiendo presentarse para tales efectos, los requisitos correspondientes.
+II.- Para los efectos de lo dispuesto en los artículos 45 Bis y 50 Bis de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, el canje de las licencias se efectuará en el transcurso de los meses de enero a mayo del año de calendario que corresponda y tendrá una vigencia de tres años, contados a partir del canje del ejercicio de 2014, debiendo presentarse para tales efectos, los requisitos correspondientes.
 
 Transcurrido el plazo a que se refiere el párrafo anterior, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
 
@@ -7233,7 +7235,7 @@ Para efectos del artículo 312, numeral 1, inciso b de la Ley de Hacienda del Es
 
 ###### ARTÍCULO CUARTO.
 
-Para efectos de la reforma al artículo 42 de la Ley de Tránsito para el Estado de Sonora, los propietarios de los vehículos deberán reponer las placas de circulación en el año 2014 sin costo.
+Para efectos de la reforma al artículo 42 de la Ley de Tránsito para el Estado de Sonora los propietarios de los vehículos deberán reponer las placas de circulación en el año 2014 sin costo.
 
 B.O. 9 DE ENERO DE 2014.
 
@@ -7280,6 +7282,10 @@ B.O. 15 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2015, previa su publicación en el Boletín Oficial del Gobierno del Estado, con excepción de las disposiciones contenidas en los artículos tercero, cuarto y quinto del presente ordenamiento, las cuales entrarán en vigor a partir de la publicación de este Decreto en el citado Boletín Oficial del Gobierno del Estado.
+
+> <small>(F. DE E., B.O. 26 DE ENERO DE 2015)</small>
+
+Asimismo, por lo que toca a las disposiciones contenidas en el artículo sexto del presente Decreto, entrarán en vigor nueve meses después de la publicación de este ordenamiento en el Boletín Oficial del Gobierno del Estado, plazo en el cual los ayuntamientos del Estado deberán presentar ante el Congreso del Estado, las adecuaciones correspondientes a sus leyes de ingresos y presupuestos de ingresos.
 
 ###### ARTÍCULO SEGUNDO.
 
