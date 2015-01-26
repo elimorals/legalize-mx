@@ -4,7 +4,7 @@ identifier: "LRSF"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "1995-05-12"
+last_updated: "2015-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRSF"
 
 LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -40,31 +40,55 @@ LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de observancia en todo el territorio nacional, y tiene por objeto regular la construcción, operación, explotación, conservación y mantenimiento de las vías férreas cuando sean vías generales de comunicación, así como el servicio público de transporte ferroviario que en ellas opera y los servicios auxiliares.
+La presente Ley es de orden público y de observancia en todo el territorio nacional, y tiene por objeto regular la construcción, operación, explotación, conservación, mantenimiento y garantía de interconexión en las vías férreas cuando sean vías generales de comunicación, así como procurar las condiciones de competencia en el servicio público de transporte ferroviario que en ellas opera y los servicios auxiliares.
 
-El servicio ferroviaro (sic) es una actividad económica prioritaria y corresponde al Estado ser rector de su desarrollo. Al ejercer sus funciones de rectoría, el Estado protegerá en todo momento la seguridad y la soberanía de la Nación y promoverá el desarrollo del servicio ferroviario en condiciones que garanticen la libre competencia entre los diferentes modos de transporte.
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+El servicio ferroviario es una actividad económica prioritaria y corresponde al Estado ser rector de su desarrollo. Al ejercer sus funciones de rectoría, el Estado protegerá en todo momento la seguridad y la soberanía de la Nación y promoverá el desarrollo del servicio ferroviario en condiciones que garanticen la libre competencia entre los diferentes modos de transporte y la eficiencia operativa en la prestación del servicio público de transporte ferroviario.
 
 ###### Artículo 2.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Derecho de vía: la franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía general de comunicación ferroviaria, cuyas dimensiones y características fije la Secretaría de Comunicaciones y Transportes;
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-II. Equipo ferroviario: los vehículos tractivos, de arrastre o de trabajo que circulan en las vías férreas;
+I. Agencia: la Agencia Reguladora del Transporte Ferroviario, órgano desconcentrado de la Secretaría;
 
-III. Secretaría: la Secretaría de Comunicaciones y Transportes;
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-IV. Sistema ferroviario: las vías generales de comunicación ferroviaria, el servicio público de transporte ferroviario y los servicios auxiliares;
+II. Derecho de arrastre: es el que se concede a un concesionario para que su equipo de arrastre sea manejado con el equipo tractivo, la tripulación y en la vía férrea de otro concesionario mediante el cobro de una contraprestación al concesionario solicitante;
 
-V. Servicio público de transporte ferroviario de carga: el que se presta en vías férreas destinado al porte de bienes, incluyendo el servicio de arrastre de vehículos de terceros;
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-VI. Servicio público de transporte ferroviario de pasajeros: el que se presta en vías férreas destinado al traslado de personas;
+III. Derecho de paso: es el que se concede a un concesionario para que sus trenes con su tripulación, transiten en las vías férreas de otro concesionario mediante el cobro de una contraprestación al concesionario solicitante;
 
-VII. Terminal: tratándose del servicio público de transporte ferroviario de pasajeros, las instalaciones en donde se efectúa la salida y llegada de trenes para el ascenso y descenso de pasajeros y, tratándose del servicio público de transporte ferroviario de carga, en las que se realiza la recepción, almacenamiento, clasificación, consolidación y despacho de bienes, y
+IV. Derecho de vía: la franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía general de comunicación ferroviaria, cuyas dimensiones y características fije la Secretaría de Comunicaciones y Transportes;
 
-VIII. Vías férreas: los caminos con guías sobre los cuales transitan trenes, inclusive los que se encuentren en los patios que, a su vez, sean indispensables para la operación.
+V. Equipo ferroviario: los vehículos tractivos, de arrastre o de trabajo que circulan en las vías férreas;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+VI. Fondo: el Fondo Nacional de Seguridad para Cruces Viales Ferroviarios;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+VII. Interconexión: es el servicio que comprende el intercambio de equipo ferroviario, el tráfico interlineal entre concesionarios, los movimientos, traslados y demás acciones necesarias que deban realizarse para la continuidad del tráfico ferroviario y la entrega o devolución de equipo ferroviario respectivo a su destino u origen, incluyendo los servicios de terminal;
+
+VIII. Secretaría: la Secretaría de Comunicaciones y Transportes;
+
+IX. Sistema ferroviario: las vías generales de comunicación ferroviaria, el servicio público de transporte ferroviario y los servicios auxiliares;
+
+X. Servicio público de transporte ferroviario de carga: el que se presta en vías férreas destinado al porte de bienes, incluyendo el servicio de arrastre de vehículos de terceros;
+
+XI. Servicio público de transporte ferroviario de pasajeros: el que se presta en vías férreas destinado al traslado de personas;
+
+XII. Terminal: tratándose del servicio público de transporte ferroviario de pasajeros, las instalaciones en donde se efectúa la salida y llegada de trenes para el ascenso y descenso de pasajeros y, tratándose del servicio público de transporte ferroviario de carga, en las que se realiza la recepción, almacenamiento, clasificación, consolidación y despacho de bienes, y
+
+XIII. Vías férreas: los caminos con guías sobre los cuales transitan trenes, inclusive los que se encuentren en los patios que, a su vez, sean indispensables para la operación.
 
 ###### Artículo 3.
 
@@ -78,9 +102,11 @@ III. Entronquen o conecten con alguna otra vía férrea de las enumeradas en est
 
 Son parte integrante de la vía general de comunicación ferroviaria el derecho de vía, los centros de control de tráfico y las señales para la operación ferroviaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2015)</small>
+
 ###### Artículo 4.
 
-Son de jurisdicción federal las vías generales de comunicación ferroviaria, el servicio público de transporte ferroviario que en ellas opera y sus servicios auxiliares.
+Son de jurisdicción federal las vías generales de comunicación ferroviaria, el servicio público de transporte ferroviario que en ellas opera y sus servicios auxiliares, las denuncias o querellas formuladas por cualquier persona en relación con el servicio público de transporte ferroviario incluyendo sin limitar, el robo de las mercancías transportadas, la infraestructura férrea y sus componentes, así como del combustible de las locomotoras.
 
 Corresponderá a los tribunales federales conocer de las controversias que se susciten con motivo de la aplicación de esta Ley.
 
@@ -98,27 +124,61 @@ III. La Ley Federal de Procedimiento Administrativo, y
 
 IV. Los códigos de Comercio; Civil para el Distrito Federal en materia común, y para toda la República en materia federal; y Federal de Procedimientos Civiles.
 
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
 ###### Artículo 6.
 
 Corresponde a la Secretaría, en materia de servicio ferroviario, el ejercicio de las atribuciones siguientes:
 
-I. Planear, formular y conducir las políticas y programas, así como regular el desarrollo del sistema ferroviario, con base al Plan Nacional de Desarrollo, y a los planes sectoriales respectivos;
+I. Planear, formular y conducir las políticas y programas, así como regular el desarrollo del sistema ferroviario, con base al Plan Nacional de Desarrollo, y a los planes sectoriales respectivos, y
 
-II. Otorgar las concesiones y permisos a que se refiere esta Ley, verificar su cumplimiento y resolver sobre su modificación o terminación;
+II. Otorgar las concesiones y permisos a que se refiere esta Ley, verificar su cumplimiento y resolver sobre su modificación o terminación.
 
-III. Determinar las características y especificaciones técnicas de las vías férreas, del servicio público de transporte ferroviario y de sus servicios auxiliares, mediante la expedición de normas oficiales mexicanas;
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
-IV. Verificar que las vías férreas, los servicios públicos de transporte ferroviario y sus servicios auxiliares cumplan con las disposiciones aplicables;
+###### Artículo 6 Bis.
 
-V. Establecer, en su caso, bases de regulación tarifaría;
+Corresponde a la Agencia el ejercicio de las atribuciones siguientes:
 
-VI. Aplicar las sanciones establecidas en esta Ley;
+I. Determinar las características y especificaciones técnicas de las vías férreas, del servicio público de transporte ferroviario y de sus servicios auxiliares, de la infraestructura física de interconexión, la expedición y aplicación de las normas oficiales mexicanas aplicables;
 
-VII. Integrar el registro de las concesiones y permisos que se otorguen conforme a lo dispuesto en la presente Ley;
+II. Verificar que las vías férreas, los servicios públicos de transporte ferroviario y sus servicios auxiliares cumplan con las disposiciones aplicables;
 
-VIII. Interpretar esta Ley para efectos administrativos, y
+III. Garantizar la interconexión en las vías férreas cuando sean vías generales de comunicación; establecer las condiciones y contraprestaciones cuando los concesionarios no lleguen a un acuerdo en los casos de derechos de arrastre y de paso;
 
-IX. Las demás que señalen ésta y otras disposiciones legales aplicables.
+IV. Establecer bases de regulación tarifaria cuando no existan condiciones de competencia efectiva;
+
+V. Integrar el registro de las concesiones y permisos que se otorguen conforme a lo dispuesto en la presente Ley;
+
+VI. Interpretar esta Ley para efectos administrativos;
+
+VII. Emitir recomendaciones a las dependencias y entidades de la administración pública federal, estatal, municipal y del Distrito Federal competentes y a los concesionarios para que en el ámbito de sus facultades promuevan medidas de Seguridad Pública para la adecuada operación del servicio público ferroviario;
+
+VIII. Promover la expansión y el uso de la red ferroviaria;
+
+IX. Cooperar con las autoridades migratorias, de Seguridad Pública y con los concesionarios, para llevar a cabo las acciones necesarias para resolver cuestiones de migración e inseguridad que afecten el servicio público de transporte ferroviario, garantizando que en todo momento se respeten los derechos humanos;
+
+X. Registrar las tarifas máximas de flete, para los efectos previstos en el artículo 46;
+
+XI. Registrar los servicios diversos, sus reglas de aplicación y sus tarifas, cualquier otro cargo, así como emitir recomendaciones en los términos del artículo 46 de esta Ley;
+
+XII. Elaborar, registrar y publicar la estadística de los indicadores de los servicios ferroviarios;
+
+XIII. Valorar el uso de vías cortas o ramales que no sean explotadas o se encuentren en desuso por los concesionarios y en su caso, determinar su retorno al Estado para ser concesionadas en términos a lo establecido por esta Ley;
+
+XIV. Imponer sanciones por infracciones a las disposiciones legales, reglamentarias y administrativas, o por incumplimiento a lo dispuesto en los títulos de concesión o las resoluciones, medidas, lineamientos o disposiciones emitidas por la propia Agencia, así como dictar medidas precautorias o declarar, en su caso, la pérdida de bienes en beneficio de la Nación;
+
+XV. Participar y organizar foros y paneles internacionales en materia del servicio ferroviario;
+
+XVI. Realizar estudios e investigaciones en materia ferroviaria, y emitir resoluciones, lineamientos y disposiciones de observancia obligatoria para los concesionarios, permisionarios y usuarios de los servicios ferroviarios;
+
+XVII. Dirimir cualquier controversia entre los usuarios y concesionarios como prestadores del servicio ferroviario;
+
+XVIII. Solicitar a los concesionarios todo tipo de información que permita el ejercicio de sus atribuciones. La información que se solicite podrá incluir, entre otras, la relativa a los criterios que los concesionarios utilicen para la determinación de las tarifas y para la aplicación de descuentos; información respecto de las vías operadas por cada concesionario; características y condiciones de convenios celebrados entre concesionarios o entre éstos y los usuarios, y
+
+XIX. Las demás que señalen ésta y otras disposiciones legales aplicables.
+
+Al ejercer sus facultades, la Agencia garantizará en todo momento el desarrollo eficiente y en un entorno de competencia de la industria ferroviaria.
 
 ### Capítulo II. De las concesiones y permisos
 
@@ -144,9 +204,15 @@ Las vías generales de comunicación ferroviaria se mantendrán en todo momento 
 
 Las concesiones a que se refiere este capítulo se otorgarán mediante licitación pública, conforme a lo siguiente:
 
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
 I. La Secretaría, por sí o a petición del interesado, expedirá convocatoria pública para que se presenten proposiciones en presencia de los participantes.
 
-Cuando exista petición del interesado, la Secretaría, en un plazo de 180 días naturales, expedirá la convocatoria; o señalará al propio interesado las razones de la improcedencia de su petición, en un plazo no mayor de 60 días naturales;
+Cuando exista petición del interesado, la Secretaría, en un plazo de 180 días naturales, expedirá la convocatoria; o señalará al propio interesado las razones de la improcedencia de su petición, en un plazo no mayor de 90 días naturales.
+
+En caso de no emitir una convocatoria pública para las nuevas concesiones, conforme al plazo establecido en el párrafo anterior, el interesado podrá interponer su inconformidad ante el superior jerárquico, mismo que en un plazo no mayor a 15 días naturales resolverá lo conducente.
+
+La Secretaría deberá garantizar, en las bases de licitación y en los títulos de concesión respectivos, que en todos los tramos técnicamente posibles de contacto entre las vías férreas, los concesionarios se otorguen mutuamente los servicios de interconexión y de terminal, incluyendo los derechos de paso obligatorios estipulados en los títulos de concesión y los derechos de arrastre, en términos del artículo 35 de esta Ley.
 
 II. La convocatoria se publicará en el Diario Oficial de la Federación y en un periódico de la entidad o entidades federativas en donde se encuentren o se hayan de construir las vías férreas;
 
@@ -236,13 +302,23 @@ Se requiere permiso para:
 
 I. Prestar los servicios auxiliares a que se refiere el artículo 44 de esta Ley;
 
-II. Construir accesos, cruzamientos e instalaciones marginales, en el derecho de vía de las vías férreas; excluyendo la construcción e instalación de espuelas, mismas que se podrán construir sin necesidad de concesión o permiso;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-III. Instalar anuncios y señales publicitarias en el derecho de vía, y
+II. Construir accesos, cruzamientos e instalaciones marginales, en el derecho de vía de las vías férreas; excluyendo la construcción e instalación de espuelas, así como de líneas que tengan como objeto únicamente el transporte de carga propia o de pasajeros entre dos puntos dentro de la misma propiedad y que no se conecten a una vía general de trasporte (sic) público ferroviario mismas que se podrán construir sin necesidad de concesión o permiso.
 
-IV. Construir y operar puentes sobre vías férreas.
+Para efectos del párrafo anterior se entiende por carga propia aquella destinada por el propietario o propietarios de la línea al autoabastecimiento; a su integración en los procesos de producción interna, o a su transporte hacia un punto terminal con las redes del servicio público de transporte ferroviario, siempre y cuando dicho traslado de carga o pasajeros no implique comercialización a terceros.
 
-En caso de que haya dos o más interesados en construir y operar una terminal, la Secretaría otorgará el permiso respectivo conforme al procedimiento a que se refiere el artículo 9 de esta Ley.
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+III. Instalar anuncios y señales publicitarias en el derecho de vía;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+IV. Construir y operar puentes sobre vías férreas, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+V. La construcción, conservación y mantenimiento de vías férreas por parte de las empresas cuando éstas se ofrezcan para su explotación y operación a terceros que tengan concesión para el servicio público de transporte ferroviario, sujeto al pago de una contraprestación.
 
 ###### Artículo 16.
 
@@ -296,29 +372,55 @@ La terminación de la concesión o el permiso no extingue las obligaciones contr
 
 Las concesiones y permisos se podrán revocar por cualquiera de las causas siguientes:
 
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
 I. No ejercer los derechos conferidos en las concesiones o los permisos durante un periodo mayor de 180 días naturales, contado a partir de la fecha de su otorgamiento;
 
-II. Interrumpir el concesionario la operación de la vía férrea o la prestación del servicio público de transporte ferroviario, total o parcialmente, sin causa justificada ante la Secretaría;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-III. Ejecutar u omitir actos que impidan o tiendan a impedir la actuación de otros concesionarios o permisionarios que tengan derecho a ello;
+II. Ceder, gravar o transferir las concesiones o permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, en contravención a lo dispuesto en esta Ley;
 
-IV. Incumplir con el pago de las indemnizaciones por daños que se originen en la prestación de los servicios;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-V. Aplicar tarifas superiores a las registradas o, en su caso, a las autorizadas;
+III. Si el concesionario o permisionario cambian de nacionalidad;
 
-VI. Si el concesionario o permisionario cambian de nacionalidad;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-VII. Ceder, gravar o transferir las concesiones o permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, en contravención a lo dispuesto en esta Ley;
+IV. Interrumpir el concesionario la operación de la vía férrea o la prestación del servicio público de transporte ferroviario, total o parcialmente, salvo en los casos expresamente permitidos por esta Ley, sus reglamentos y las normas oficiales mexicanas;
 
-VIII. En su caso, no otorgar o no mantener en vigor la garantía de cumplimiento de las concesiones o permisos, o las pólizas de seguro sobre daños a los pasajeros y a terceros en sus personas o bienes, a la carga y los que pudieran sufrir las construcciones, instalaciones, así como el equipo tractivo y de arrastre, y
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-IX. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, sus reglamentos y en el título de concesión o permisos respectivos.
+V. Ejecutar u omitir acciones que tengan como resultado impedir o limitar de forma injustificada el uso de los servicios de interconexión o de terminal, los derechos de paso o los derechos de arrastre obligatorios y los establecidos en términos de la presente Ley; así como obstaculizar o negar la conexión de espuelas o realizar cualquier otra acción u omisión que tenga como efecto impedir o limitar que el sistema ferroviario funcione como una ruta continua de comunicación de acuerdo con lo previsto en esta Ley;
 
-La Secretaría procederá de inmediato a la revocación de las concesiones y permisos en los supuestos de las fracciones I, VI y VII anteriores.
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-En los casos de las fracciones II y V, la Secretaría sólo podrá revocar la concesión o el permiso cuando previamente hubiese sancionado al respectivo concesionario o permisionario, por lo menos en tres ocasiones por las causas previstas en la misma fracción.
+VI. Ejecutar u omitir actos que impidan o tiendan a impedir la actuación de otros concesionarios o permisionarios que tengan derecho a ello;
 
-Para los supuestos de las fracciones III, IV, VIII y IX, se requerirá que la sanción se haya impuesto por lo menos en cinco ocasiones por las causas previstas en la misma fracción.
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+VII. Incumplir con el pago de las indemnizaciones por daños que se originen en la prestación de los servicios;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+VIII. Aplicar tarifas de flete o de servicios diversos superiores a las registradas ante la Agencia;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+IX. En su caso, no otorgar o no mantener en vigor la garantía de cumplimiento de las concesiones o permisos, o las pólizas de seguro sobre daños a los pasajeros y a terceros en sus personas o bienes, a la carga y los que pudieran sufrir las construcciones, instalaciones, así como el equipo tractivo y de arrastre;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+X. No mantener las vías férreas concesionadas de acuerdo con los estándares establecidos en los reglamentos o normas oficiales mexicanas, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+XI. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, sus reglamentos y en el título de concesión o permisos respectivos.
+
+> <small>N. DE E. EN CUANTO A LA CANTIDAD DE PÁRRAFOS SE RESPETÓ LA LITERALIDAD DE LA PUBLICACIÓN OFICIAL, VÉASE D.O.F. 26 DE ENERO DE 2015.</small>
+
+Por solicitud de la Agencia, la Secretaría procederá de inmediato a la revocación de las concesiones y permisos en los supuestos de las fracciones I a III.
+
+En los casos de las fracciones IV a XI, la Secretaría, previa opinión de la Agencia, podrá revocar la concesión o el permiso cuando previamente hubiese sancionado al respectivo concesionario o permisionario, en tres ocasiones en un periodo de 5 años por la causa prevista en la misma fracción.
 
 ###### Artículo 22.
 
@@ -328,9 +430,25 @@ El titular de una concesión o permiso que hubiere sido revocado, estará imposi
 
 Para atender necesidades derivadas de caso fortuito o de fuerza mayor, la Secretaría estará facultada para imponer modalidades en la operación y explotación de las vías férreas y en la prestación del servicio público de transporte ferroviario, sólo por el tiempo y proporción que resulte estrictamente necesario. En su caso, el afectado percibirá la indemnización que corresponda por la afectación habida en virtud de la modalidad impuesta.
 
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
 ###### Artículo 24.
 
 Los servicios ferroviarios se prestarán a todos los usuarios solicitantes de manera permanente, uniforme y en condiciones equitativas en cuanto a oportunidad, calidad y precio.
+
+La Agencia, previa consulta a los concesionarios, permisionarios y usuarios, deberá determinar y publicar, para efectos estadísticos, los indicadores referentes a los servicios, eficiencia operativa, administrativa y de atención que deberán prestar a los usuarios, considerando los criterios o principios que sean reconocidos internacionalmente para tal efecto.
+
+La Agencia tendrá la facultad de monitorear y evaluar los indicadores establecidos en el párrafo anterior y, en su caso, emitirá recomendaciones particulares para la implementación de acciones a efecto de mantener los estándares del servicio ferroviario.
+
+Los servicios ferroviarios podrán interrumpirse total o parcialmente, previa autorización por parte de la Secretaría, por:
+
+I. La ausencia de condiciones de Seguridad Pública que impidan o no permitan llevar a cabo la prestación del servicio público;
+
+II. Casos fortuitos o de fuerza mayor;
+
+III. Falta de pago de las tarifas pactadas con el usuario de que se trate, o
+
+IV. Las demás causas que se establezcan en la presente Ley.
 
 ### Capítulo III. De la construcción, conservación, mantenimiento y operación de las vías férreas
 
@@ -368,9 +486,47 @@ Toda obra que se requiera para la prestación del servicio ferroviario dentro de
 
 La Secretaría, tomando en cuenta las circunstancias de cada caso, promoverá con los estados, municipios, concesionarios o particulares la conservación, reconstrucción y ampliación de tramos federales, y la construcción de libramientos que eviten el paso por las poblaciones.
 
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
 ###### Artículo 31.
 
-Las obras de construcción de los cruzamientos de vías férreas se harán por cuenta del operador de la vía u obra que cruce a la ya establecida, previo cumplimiento de los requisitos aplicables.
+Las obras de construcción y mantenimiento de los cruzamientos de vías férreas se harán por cuenta del operador de la vía u obra que cruce a la ya establecida, previo cumplimiento de los requisitos aplicables.
+
+Los cruzamientos de las vías férreas por otras vías o por otras obras podrán llevarse a cabo por medio de pasos elevados, pasos a desnivel, o a nivel, previa autorización por parte de la Secretaría, en el entendido que, los cruzamientos a nivel en zonas urbanas solamente serán autorizados cuando las condiciones de seguridad, económicas y sociales así lo permitan.
+
+En todos los casos, los cruzamientos de las vías férreas que se autoricen conforme a este artículo, deberán tener las señalizaciones necesarias con el objeto de minimizar los riesgos y la ocurrencia de accidentes. Las señalizaciones serán construidas, mantenidas y operadas por el operador de la vía u obra que cruce a la establecida con anterioridad.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 31 Bis.
+
+El Gobierno Federal constituirá el Fondo, que tendrá como objetivo, apoyar el financiamiento de la construcción, mantenimiento y operación de la señalización, los sistemas de alerta y de obstrucción de tráfico automotor y peatonal, cuando el tránsito se realice al interior de zonas urbanas o centros de población, de tal manera que se garantice la seguridad conforme a la normatividad aplicable.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 31 Ter.
+
+Los recursos del Fondo serán administrados y ejercidos, a través de un fideicomiso público sin estructura orgánica, que no será considerado entidad paraestatal, cuya denominación será Fondo Nacional de Seguridad para Cruces Viales Ferroviarios, el cual será coordinado por la Agencia.
+
+El patrimonio del Fondo se integrará con aportaciones de la federación, de las entidades federativas y sus municipios, los concesionarios ferroviarios y en su caso, de otras entidades públicas o privadas, en forma proporcional y conforme a los términos y condiciones que establezcan las reglas de operación del Fondo, con el objeto de que se otorguen los apoyos correspondientes a que se refiere el artículo 31 Bis de esta Ley, en el entendido que las partes aportarán anualmente hasta la cuarta parte del total de aportaciones que en el mismo periodo se realicen al patrimonio del Fondo.
+
+El Fondo tendrá, entre otros, los siguientes fines:
+
+I. Elaborar estudios y proyectos que permitan identificar los cruzamientos susceptibles para mejorar la eficiencia y seguridad en la operación del servicio público de transporte ferroviario;
+
+II. Evaluar las condiciones correspondientes a la señalización y operación en los cruzamientos de las vías férreas;
+
+III. Contratar, con cargo a los recursos del Fondo y conforme a las disposiciones federales aplicables, las obras y servicios necesarios para la instalación, mejora, mantenimiento, operación y/o sustitución de infraestructura de señalización en los cruzamientos, y
+
+IV. Proponer a la Secretaría la adopción de normativa y estándares de señalización y seguridad en la operación de los cruzamientos ferroviarios, tomando en cuenta los estándares utilizados a nivel internacional.
+
+El Fondo se sujetará a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 31 Quáter.
+
+Una vez identificados los cruzamientos donde se aplicarán los recursos del Fondo, se conformará en cada entidad federativa un Comité de Seguridad en Cruces Viales Ferroviarios, a fin de dar seguimiento a la operación de dichos cruzamientos. Dicho Comité estará integrado por un representante de la Agencia, quien lo presidirá; un representante de la entidad federativa correspondiente; un representante del o de los municipios o demarcaciones en donde se localicen los cruzamientos; en los casos en donde éstas se realicen en comunidades indígenas o agrarias, un representante de dichas comunidades, así como un representante de la empresa concesionaria de la vía férrea susceptible a aplicar los recursos.
 
 ###### Artículo 32.
 
@@ -390,19 +546,39 @@ Las dependencias del Gobierno Federal, en coordinación con la Secretaría, podr
 
 Las obras o instalaciones a que se refiere este artículo no deberán perjudicar la prestación del servicio público de transporte ferroviario o las instalaciones de las vías férreas.
 
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
 ###### Artículo 35.
 
-Los concesionarios, a cambio de una contraprestación previamente convenida, deberán prestar a otros concesionarios, los servicios de interconexión y de terminal requeridos para la prestación del servicio público de transporte ferroviario.
+Los concesionarios, a cambio de una contraprestación previamente convenida, deberán prestar a otros concesionarios los servicios de interconexión, derecho de arrastre y de terminal requeridos para la prestación del servicio público de transporte ferroviario.
 
-En caso de que los concesionarios no llegaren a un acuerdo dentro de los 90 días naturales siguientes a la fecha en que hubieren iniciado las negociaciones, la Secretaría, previa audiencia de las partes, establecerá las condiciones y contraprestaciones conforme a las cuales deberán prestarse dichos servicios.
+En caso de que los concesionarios no llegaren a un acuerdo dentro de los 60 días naturales siguientes a la fecha en que hubieren iniciado las negociaciones, la Agencia escuchará a las partes, considerando los criterios o principios que sean reconocidos internacionalmente para tal efecto, a fin de establecer las condiciones y contraprestaciones en un plazo máximo de 30 días naturales, conforme a las cuales deberán prestarse dichos servicios, dentro de un procedimiento que incluya a los concesionarios involucrados.
+
+Para determinar los criterios o principios para fijar las condiciones y contraprestaciones a que se refiere el párrafo anterior, la Agencia podrá solicitar la opinión de la Comisión Federal de Competencia Económica. Los concesionarios deberán remitir a la Secretaría copia de los convenios que celebren en términos del presente artículo.
+
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
 ###### Artículo 36.
 
-Los concesionarios podrán acordar entre ellos derechos de arrastre y derechos de paso, por virtud de los cuales puedan compartir una vía férrea determinada. El concesionario de la vía férrea será el responsable del despacho de los equipos ferroviarios y de la conservación y mantenimiento de la vía.
+Los concesionarios deberán permitir la interconexión en su modalidad de derechos de paso obligatorios: (i) estipulados en los títulos de concesión; (ii) cuando sean pactados de mutuo acuerdo; o (iii) cuando sean establecidos por la Agencia previa determinación de ausencia de condiciones de competencia efectiva en un trayecto o ruta determinado, por parte de la Comisión Federal de Competencia Económica.
 
-La Secretaría podrá establecer, en las bases de licitación y en los títulos de concesión respectivos, que para tramos determinados se otorguen derechos de arrastre y derechos de paso. Cuando los concesionarios no lleguen a un acuerdo dentro de los 90 días naturales siguientes a la fecha en que hubieren iniciado las negociaciones, la Secretaría, previa audiencia de las partes, fijará las condiciones y contraprestaciones conforme a las cuales se otorgarán dichos derechos.
+Cualquier derecho de paso otorgado en términos de este artículo deberá de contemplar la vía, los productos, la longitud y los puntos de origen y destino de los derechos de paso.
 
-Los concesionarios deberán remitir a la Secretaría copia de los convenios que celebren en términos del presente artículo.
+La longitud total de los derechos de paso que se otorguen en términos de este artículo a un concesionario, no excederán la longitud de las vías otorgadas en concesión, incluyendo en dicha longitud los kilómetros de los derechos de paso establecidos en la concesión inicial otorgada por el Gobierno Federal a través de la Secretaría de Comunicaciones y Transportes a dicho concesionario.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 36 Bis.
+
+A partir de la resolución de ausencia de competencia efectiva por parte de la Comisión Federal de Competencia Económica, la Agencia escuchará a las partes, con el objeto de fijar las condiciones y contraprestaciones de los derechos de paso, en un plazo máximo de 30 días naturales.
+
+Para determinar los criterios o principios para fijar las condiciones y contraprestaciones a que se refiere el párrafo anterior, la Agencia considerará los criterios o principios que sean reconocidos internacionalmente para derechos de paso y podrá solicitar la opinión de la Comisión Federal de Competencia Económica.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 36 Ter.
+
+Cuando el servicio público de transporte de carga o pasajeros que solicite el usuario se refiera a rutas que involucren la participación de más de un concesionario, el usuario tendrá el derecho de elegir entre acordar una tarifa de forma independiente con cada concesionario sobre la porción de la ruta que le corresponde o de forma integral sobre el total de la ruta con el concesionario de origen o el concesionario de destino.
 
 ### Capítulo IV
 
@@ -476,19 +652,27 @@ En el caso de las terminales de carga y de los servicios de transbordo y transva
 
 ### Capítulo VI. De las tarifas
 
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
 ###### Artículo 46.
 
-Los concesionarios y permisionarios fijarán libremente las tarifas, en términos que permitan la prestación de los servicios en condiciones satisfactorias de calidad, competitividad, seguridad y permanencia.
+Los concesionarios y permisionarios fijarán libremente las tarifas, en términos que permitan la prestación de los servicios en condiciones satisfactorias de calidad, eficiencia, competitividad, seguridad y permanencia.
 
-Las tarifas deberán registrarse ante la Secretaría para su puesta en vigor y colocarse en lugar visible en las terminales en que presten servicios los concesionarios y permisionarios.
+Los concesionarios registrarán previamente ante la Agencia, para su puesta en vigor, las tarifas máximas aplicables a la prestación del servicio público de transporte ferroviario y a la prestación de los servicios diversos, atendiendo a las características específicas de cada servicio, debiendo publicarlas en medios electrónicos. Se exceptúan de lo anterior, aquellas tarifas que sean pactadas mutuamente entre concesionarios y usuarios, las cuales deberán estar disponibles en todo momento a petición de la Agencia.
+
+Para el caso de los servicios diversos, además de las tarifas aplicables a los mismos y cualquier otro cargo, los concesionarios deberán registrar ante la Agencia el catálogo de dichos servicios y cargos, y sus reglas de aplicación, pudiendo la Agencia, en cualquier momento, solicitar información adicional respecto de la determinación de dichas tarifas.
+
+Cualquier modificación a las tarifas máximas de servicios diversos y cargos deberá ser registrada ante la Agencia antes de su aplicación, debiendo el concesionario acompañar la justificación correspondiente. La Agencia podrá emitir recomendaciones respecto de los incrementos propuestos. Asimismo, la Agencia podrá, en cualquier momento, en caso de estimarlo conveniente, solicitar la opinión de la Comisión Federal de Competencia Económica para que proceda en términos de sus facultades.
+
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
 ###### Artículo 47.
 
-Cuando la Secretaría, por sí o a petición de parte afectada, considere que no existe competencia efectiva, solicitará la opinión de la Comisión Federal de Competencia para que, en su caso, la Secretaría establezca bases tarifarías. Dicha regulación se mantendrá sólo mientras subsistan las condiciones que la motivaron.
+La Agencia deberá establecer bases de regulación tarifaria, por sí o a petición de parte afectada, previa resolución de la Comisión Federal de Competencia Económica que determine que no existen condiciones de competencia efectiva.
 
-Los concesionarios sujetos a tal regulación podrán solicitar a la Comisión Federal de Competencia que emita opinión sobre la subsistencia de tales condiciones.
+Para los efectos del párrafo anterior la Agencia, dentro de los 30 días naturales siguientes a la resolución por parte de la Comisión Federal de Competencia Económica, previa audiencia de las partes, establecerá la tarifa conforme a la cual deberá prestarse el servicio público para el usuario solicitante, garantizando en todo momento la eficiencia del servicio.
 
-Se considera que existe competencia efectiva cuando haya por lo menos dos prestadores de servicio ferroviario o dos modos de transporte en la misma ruta o por rutas alternativas, siempre y cuando puedan ser considerados como alternativa viable.
+Las bases tarifarias que se establezcan conforme al párrafo anterior se mantendrán mientras subsistan las condiciones que la (sic) motivaron.
 
 ### Capítulo VII. Del transporte ferroviario internacional
 
@@ -528,9 +712,15 @@ En los casos en que el usuario del servicio pretenda que el concesionario respon
 
 Cuando el usuario del servicio no declare el valor de la mercancía, la responsabilidad quedará limitada a la cantidad equivalente a 15 días de salario mínimo general vigente en el Distrito Federal por tonelada, o la parte proporcional que corresponda tratándose de embarque de menor peso.
 
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
 ###### Artículo 53.
 
-Es obligación de los concesionarios del servicio público de transporte ferroviario de pasajeros o de carga garantizar, en los términos que autorice la Secretaría, los daños que puedan ocasionarse a terceros en su persona y sus bienes, vías generales de comunicación y cualquier otro daño que pudiera generarse por el equipo o por la carga.
+Es obligación de los concesionarios del servicio público de transporte ferroviario de pasajeros o de carga, en los términos que determine la Secretaría, conforme al Reglamento de esta Ley:
+
+I. Realizar las aportaciones al Fondo previsto en el artículo 31 Bis de esta Ley;
+
+II. Garantizar el pago de los daños que puedan ocasionarse a terceros en su persona y sus bienes, vías generales de comunicación y cualquier otro daño que pudiera generarse por el equipo o por la carga.
 
 Tratándose de materiales, sustancias, residuos, remanentes y desechos tóxicos o peligrosos, deberá contratarse un seguro en los términos que establezca el reglamento respectivo, el que será por cuenta del usuario, salvo pacto en contrario.
 
@@ -566,9 +756,11 @@ La Secretaría podrá autorizar directamente a las empresas concesionarias o per
 
 ### Capítulo XI. De las sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2015)</small>
+
 ###### Artículo 59.
 
-Las infracciones a lo dispuesto en la presente Ley, serán sancionadas por la Secretaría de acuerdo con lo siguiente:
+Las infracciones a lo dispuesto en la presente ley, serán sancionadas por la Agencia de acuerdo con lo siguiente:
 
 I. Prestar servicio público de transporte ferroviario sin la concesión respectiva, con multa de diez mil a veinticinco mil salarios mínimos;
 
@@ -576,7 +768,9 @@ II. Prestar servicio público de transporte ferroviario con equipo cuyas condici
 
 III. No mantener las vías férreas en buen estado operativo, con multa de mil a veinte mil salarios mínimos;
 
-IV. Aplicar tarifas superiores a las que, en su caso, se autoricen, con multa de mil a cinco mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+IV. Aplicar tarifas de flete y de servicios diversos superiores a los registrados ante la Agencia o si éstas no se aplican en igualdad de condiciones a los usuarios para servicios comparables, con multa de mil a veinte mil salarios mínimos;
 
 V. Tripular en estado de ebriedad o bajo los efectos de enervantes, con multa de doscientos a mil salarios mínimos y suspensión de la licencia por un año; por la segunda infracción, cancelación de la licencia.
 
@@ -592,9 +786,15 @@ En el supuesto anterior, al concesionario del servicio de transporte se le impon
 
 VIII. Destruir, inutilizar, desactivar, remover o cambiar una señal establecida para la seguridad de las vías férreas o del equipo ferroviario, con multa de cien a tres mil salarios mínimos;
 
-IX. Ejecutar obras que invadan o perjudiquen una vía general de comunicación ferroviara, (sic) con multa de cien a tres mil salarios mínimos, además de que será aplicable lo señalado en el artículo siguiente, y
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-X. Cualquier otra infracción a lo previsto en esta Ley, con multa de cien a cinco mil salarios mínimos.
+IX. Ejecutar obras que invadan o perjudiquen una vía general de comunicación ferroviaria, con multa de cien a tres mil salarios mínimos, además de que será aplicable lo señalado en el artículo siguiente;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+X. Incumplir con los lineamientos en materia de emisiones de ruido y otros contaminantes atribuibles al tránsito ferroviario que se realice al interior de zonas urbanas o centros de población, con multa de mil quinientos a dos mil salarios mínimos, y
+
+XI. Cualquier otra infracción a lo previsto en esta Ley, con multa de cien a cinco mil salarios mínimos.
 
 En caso de reincidencia, la Secretaría podrá imponer una multa equivalente hasta el doble de las cuantías señaladas.
 
@@ -643,3 +843,35 @@ Séptimo. En tanto se expiden las disposiciones reglamentarias y administrativas
 México, D.F., a 28 de abril de 1995.- Sen. Martha Lara Alatorre, Presidenta.- Dip. Alejandro González Alcocer, Presidente.- Sen. Juan Fernando Palomino Topete, Secretario.- Dip. José Antonio Hernández Fraguas, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de mayo de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 26 DE ENERO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Agencia deberá ser creada por el Ejecutivo Federal en un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto. La Secretaría a través de la Dirección General de Transporte Ferroviario y Multimodal mantendrá a su cargo las facultades que esta Ley le otorga a la Agencia hasta en tanto ésta sea creada.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Comunicaciones y Transportes, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
+
+Los recursos humanos, financieros y materiales con los que actualmente cuente la Dirección General de Transporte Ferroviario y Multimodal pasarán a formar (sic) de la Agencia Reguladora del Transporte Ferroviario creada en los términos del presente Decreto.
+
+Cuarto. El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
+
+Quinto. La Agencia deberá emitir las reglas de operación del Fondo Nacional de Seguridad para Cruces Viales Ferroviarios, con la previa opinión de la Secretaría de Hacienda y Crédito Público, dentro de los 180 días naturales siguientes a la fecha de su constitución.
+
+Sexto. Los compromisos contenidos en los títulos de concesión que no hayan sido cumplidos por los actuales concesionarios a juicio de la autoridad competente, tendrán un año para ser solventados. En caso contrario se actualizará la causal de revocación a que se refiere el artículo 21 de esta Ley.
+
+Séptimo. Una vez que la Agencia se encuentre en funciones, los concesionarios deberán: (i) registrar sus tarifas máximas de flete; y, (ii) proponer para su registro el catálogo de servicios diversos que podrán ofrecer a sus usuarios, las reglas de aplicación correspondientes a esos servicios diversos y sus tarifas máximas para efectos de lo establecido por el artículo 46 de la presente Ley.
+
+La solicitud de registro a que se refiere este artículo deberá hacerse dentro de los 15 días naturales siguientes a la publicación del Decreto correspondiente en el Diario Oficial de la Federación.
+
+En tanto la Agencia registre las tarifas máximas de flete así como los catálogos de servicios diversos, junto con sus reglas de aplicación y tarifas, continuarán vigentes las tarifas máximas de flete y los servicios diversos y tarifas registrados ante la Secretaría.
+
+Octavo. La Agencia, dentro de los 60 días naturales siguientes a la fecha de su creación, emitirá los lineamientos en materia de emisiones de ruido y otros contaminantes atribuibles al tránsito ferroviario al interior de zonas urbanas o centros de población.
+
+Noveno. Una vez que la Agencia se encuentre en funciones, requerirá a los concesionarios para que, en un plazo no mayor a 180 días naturales, entreguen un inventario de las vías cortas o ramales que no sean explotadas o se encuentren en desuso. La Agencia verificará el inventario y procederá a establecer y ejecutar el mecanismo para, en su caso, reintegrarlas a la Nación.
+
+Los concesionarios procederán a reintegrar las vías cortas o ramales sin demora y en el estado físico en que se encuentren, para lo cual se celebrará el acta de entrega-recepción respectiva. En ningún caso, la reintegración a la Nación de ramales o vías cortas no explotadas o en desuso será objeto de cualquier tipo de pago o contraprestación por ninguna de las partes.
+
+A partir de la reintegración de los ramales o vías para ser concesionadas cada una por separado, la Secretaría contará con un plazo de 180 días naturales para concesionarlas mediante licitación pública conforme a lo establecido por el artículo 9 de la presente Ley.
