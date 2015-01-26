@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-desarrollo-social-89121
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-08"
-last_updated: "2012-08-08"
+last_updated: "2015-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL, PUBLICADO EN LA G.G. DE 26 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 8 de agosto de 2012.
 
@@ -592,3 +594,15 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ÁLVAREZ
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 26 DE ENERO DE 2015.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Con la publicación del presente Reglamento queda abrogado el Reglamento Interior de la Secretaría de Desarrollo Social, publicado en el Periódico Oficial "Gaceta del Gobierno" el 8 de agosto de 2012.
+
+CUARTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a las establecidas en el presente Reglamento.
