@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-del-94057
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-02"
-last_updated: "2013-05-02"
+last_updated: "2015-01-26"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL BANCO DE TEJIDOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE) DEL BANCO DE TEJIDOS DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 26 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2015 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 2 de mayo de 2013.
 
@@ -293,7 +295,7 @@ I. Las sesiones ordinarias se realizarán previa convocatoria escrita del Secret
 
 II. Las sesiones extraordinarias se realizarán previa convocatoria escrita del Secretario Técnico, quien la remitirá a los integrantes por lo menos con tres días hábiles de anticipación, dándoles a conocer el orden del día, acompañado con la documentación complementaria de los puntos a tratar.
 
-Artículo 25 (SIC).- Para que las sesiones ordinarias y extraordinarias sean válidas se deberá contar con la asistencia del Presidente, el Secretario Técnico y de la mitad más uno de los vocales.
+Artículo 25 (sic).- Para que las sesiones ordinarias y extraordinarias sean válidas se deberá contar con la asistencia del Presidente, el Secretario Técnico y de la mitad más uno de los vocales.
 
 ###### Artículo 26.
 
@@ -356,3 +358,15 @@ L.I. Sandra Jeaneth Joya de la Cruz,
 Responsable de la Unidad de Información y Vocal del Comité
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 26 DE ENERO DE 2015.
+
+PRIMERO. Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se deja sin efectos el Reglamento Interior del Comité de Control y Evaluación del Banco de Tejidos del Estado de México, publicado en la Gaceta del Gobierno en fecha 02 del mes de mayo de dos mil trece.
+
+CUARTO. Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
