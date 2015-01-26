@@ -4,7 +4,7 @@ identifier: "SON-ley-de-alianzas-publico-privadas-de-servicios-del-estado-de-621
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-14"
-last_updated: "2014-12-15"
+last_updated: "2015-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY DE ALIANZAS PUBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 26 DE ENERO Y 2 DE MARZO DEL 2015 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE ALIANZAS PUBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 26 DE ENERO DE 2015.</small>
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 14 de julio de 2008.
 
@@ -1066,6 +1066,10 @@ B.O. 15 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2015, previa su publicación en el Boletín Oficial del Gobierno del Estado, con excepción de las disposiciones contenidas en los artículos tercero, cuarto y quinto del presente ordenamiento, las cuales entrarán en vigor a partir de la publicación de este Decreto en el citado Boletín Oficial del Gobierno del Estado.
+
+> <small>(F. DE E., B.O. 26 DE ENERO DE 2015)</small>
+
+Asimismo, por lo que toca a las disposiciones contenidas en el artículo sexto del presente Decreto, entrarán en vigor nueve meses después de la publicación de este ordenamiento en el Boletín Oficial del Gobierno del Estado, plazo en el cual los ayuntamientos del Estado deberán presentar ante el Congreso del Estado, las adecuaciones correspondientes a sus leyes de ingresos y presupuestos de ingresos.
 
 ###### ARTÍCULO SEGUNDO.
 
