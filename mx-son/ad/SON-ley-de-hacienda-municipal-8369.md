@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "2014-12-15"
+last_updated: "2015-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY DE HACIENDA MUNICIPAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EN LOS B.O. DEL 2 DE MARZO DE 2015 Y 26 DE ENERO DE 2015 DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 26 DE ENERO DE 2015.</small>
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -2923,9 +2923,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 15 DE DICIEMBRE DE 2014.
 
+> <small>(F. DE E., P.O. 26 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2015, previa su publicación en el Boletín Oficial del Gobierno del Estado, con excepción de las disposiciones contenidas en los artículos tercero, cuarto y quinto del presente ordenamiento, las cuales entrarán en vigor a partir de la publicación de este Decreto en el citado Boletín Oficial del Gobierno del Estado.
+
+Asimismo, por lo que toca a las disposiciones contenidas en el artículo sexto del presente Decreto, entrarán en vigor nueve meses después de la publicación de este ordenamiento en el Boletín Oficial del Gobierno del Estado, plazo en el cual los ayuntamientos del Estado deberán presentar ante el Congreso del Estado, las adecuaciones correspondientes a sus leyes de ingresos y presupuestos de ingresos.
 
 ###### ARTÍCULO SEGUNDO.
 
