@@ -4,7 +4,7 @@ identifier: "LAERO"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2009-01-21"
+last_updated: "2015-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=808&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAERO"
 
 LEY DE AEROPUERTOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de diciembre de 1995.
 
@@ -70,9 +70,15 @@ VII. Administrador aeroportuario: persona física designada por el concesionario
 
 VIII. Secretaría: la Secretaría de Comunicaciones y Transportes;
 
-IX. Servicios: comprenden los aeroportuarios, complementarios y comerciales, y
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-X. Zona de protección: espacio aéreo de dimensiones definidas, destinado a proteger los procedimientos de aproximación y salida de las aeronaves en los aeródromos civiles.
+IX. Servicios: comprenden los aeroportuarios, complementarios y comerciales;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+X. Base fija de operaciones: es la instalación a través de la cual un tercero brinda y proporciona dentro de la misma, la prestación de determinados servicios aeroportuarios, complementarios y comerciales a favor de transportistas y operadores aéreos, nacionales o extranjeros a que se refieren los artículos 27 y 28 de la Ley de Aviación Civil relativos a la aviación privada no comercial y privada comercial, incluyendo al taxi aéreo que reúna los requisitos y condiciones establecidas en el artículo 23 de la Ley de Aviación Civil. Lo anterior, de conformidad con las reglas y lineamientos que en su caso expida la Secretaría, y
+
+XI. Zona de protección: espacio aéreo de dimensiones definidas, destinado a proteger los procedimientos de aproximación y salida de las aeronaves en los aeródromos civiles.
 
 ###### ARTICULO 3.
 
@@ -260,6 +266,10 @@ La resolución de la Secretaría sobre el otorgamiento de permisos, deberá emit
 
 Cuando la Secretaría resuelva negativamente sobre el otorgamiento de un permiso, ésta contará con 30 días naturales posteriores a la fecha de la resolución, para remitir al promovente un documento explicativo sobre los motivos para la negación del permiso.
 
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+Los interesados en obtener un permiso, no requerirán estudio operacional de trayectorias, ni estudio de espacio aéreo, cuando se trate de aeródromos o helipuertos, ambos no controlados y de operación bajo reglas visuales de vuelo, siempre y cuando su punto de referencia de aeródromo o helipuerto esté alejado al menos a una distancia de 10 millas náuticas del punto de referencia del aeropuerto más cercano.
+
 #### Sección tercera. Disposiciones comunes
 
 ###### ARTICULO 19.
@@ -380,13 +390,21 @@ XII. No cubrir las indemnizaciones por daños que se originen con motivo de la p
 
 XIII. Aplicar tarifas y precios que excedan a los registrados o, en su caso, sujetos a regulación;
 
-XIV. Ejecutar u omitir actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios que tengan derecho a ello, así como la de autoridades que ejerzan atribuciones dentro del aeródromo civil, y
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
-XV. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, sus reglamentos y en el título de concesión o permiso respectivos, siempre que por el incumplimiento se haya impuesto una sanción y ésta haya quedado firme en términos de ley.
+XIV. Ejecutar u omitir actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios que tengan derecho a ello, así como la de autoridades que ejerzan atribuciones dentro del aeródromo civil;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+
+XV. Limitar el número de prestadores de servicios complementarios o negar su operación mediante actos de simulación, por razones distintas a las contempladas por el artículo 57 de esta Ley, y
+
+XVI. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, sus reglamentos y en el título de concesión o permiso respectivos, siempre que por el incumplimiento se haya impuesto una sanción y ésta haya quedado firme en términos de ley.
 
 La Secretaría podrá revocar las concesiones o permisos de manera inmediata únicamente en los supuestos de las fracciones I a VI anteriores.
 
-En los casos de las fracciones VII a XV, la Secretaría sólo podrá revocar la concesión o permiso cuando previamente hubiese sancionado al respectivo concesionario o permisionario, por lo menos en tres ocasiones por las causas previstas en la misma fracción.
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+En los casos de las fracciones VII a XVI, la Secretaría sólo podrá revocar la concesión o permiso cuando previamente hubiese sancionado al respectivo concesionario o permisionario, por lo menos en tres ocasiones por las causas previstas en la misma fracción dentro de un periodo de cinco años.
 
 ###### ARTICULO 28.
 
@@ -520,6 +538,18 @@ Para la prestación de estos servicios deberá suscribirse contrato con el conce
 
 III. Servicios comerciales: los que se refieren a la venta de diversos productos y servicios a los usuarios del aeródromo civil y que no son esenciales para la operación del mismo, ni de las aeronaves. Estos servicios pueden ser prestados directamente por el concesionario o permisionario, o por terceros que con él contraten el arrendamiento de áreas para comercios, restaurantes, arrendamiento de vehículos, publicidad, telégrafos, correo, casas de cambio, bancos y hoteles, entre otros.
 
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+Los Servicios a que se refieren las fracciones anteriores podrán ser proporcionados de manera conjunta por un tercero, exclusivamente cuando se trate de una instalación denominada Base Fija de Operaciones y a favor de prestadores de servicios de transporte aéreo no regular y no comercial, bajo condiciones equitativas y no discriminatoria y sujetándose a las disposiciones relativas contenidas en la presente Ley y su Reglamento, para lo cual deberá de celebrar los contratos respectivos con el concesionario o permisionario aeroportuario en los espacios destinados para tal fin en el programa maestro de desarrollo.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+Para efectos de lo dispuesto en el párrafo anterior, una Base Fija de Operaciones se define como una instalación a través de la cual un tercero brinda y proporciona dentro de la misma, la prestación de determinados servicios aeroportuarios, complementarios y comerciales a favor de transportistas y operadores aéreos, nacionales o extranjeros a que se refieren los artículos 27 y 28 de la Ley de Aviación Civil relativos a la aviación privada no comercial y privada comercial, incluyendo al taxi aéreo que reúna los requisitos y condiciones establecidas en el artículo 23 de la Ley de Aviación Civil.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+Lo anterior, de conformidad con las reglas y lineamientos que en su caso expida la Secretaría.
+
 ###### ARTICULO 49.
 
 Todos los concesionarios y permisionarios de aeródromos civiles están obligados a permitir su uso y prestar los servicios aeroportuarios y complementarios con que cuenten, en forma prioritaria, a las aeronaves militares; a aquéllas que apoyen en casos de desastre; y a las que se encuentren en condiciones de emergencia.
@@ -562,11 +592,15 @@ Los contratos que celebren los concesionarios o permisionarios con los prestador
 
 Cuando el incumplimiento de los contratos a que se refiere el párrafo anterior, afecte la adecuada operación del aeródromo civil y constituya una causa de revocación de las previstas en el artículo 27 de esta Ley, la Secretaría, oyendo previamente al afectado, podrá revocar la autorización de dichos contratos. El concesionario o permisionario, en estos casos, deberá asegurar que no se interrumpan los servicios del aeródromo civil.
 
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 57.
 
-El concesionario proveerá lo necesario para que el aeropuerto cuente con opciones competitivas de servicios complementarios que permitan a los usuarios seleccionar al prestador de servicios que convenga a sus intereses.
+El concesionario proveerá lo necesario para que el aeropuerto cuente con opciones competitivas de servicios complementarios y base fija de operaciones, el número de estos no podrá ser limitado, salvo por razones de disponibilidad de espacio, eficiencia operativa y seguridad.
 
-Por razones de disponibilidad de espacio, eficiencia operativa y seguridad, el concesionario podrá limitar el número de los prestadores de servicios complementarios, después de escuchar la opinión del comité de operación y horarios del aeropuerto a que se refiere el artículo 61 de esta Ley. En este caso, el concesionario, con participación de los concesionarios y permisionarios del servicio de transporte aéreo, adjudicará los contratos correspondientes a los prestadores que ofrezcan las mejores condiciones para una operación eficiente y segura del aeropuerto, así como de calidad y precios para los usuarios.
+En caso de que se niegue la entrada a una empresa que provee servicios complementarios por parte de un concesionario, ésta puede inconformarse ante la Secretaría.
+
+La autoridad determinará en un plazo de 60 días si se autoriza la entrada de la empresa proveedora de servicios complementarios y base fija de operaciones.
 
 ###### ARTICULO 58.
 
@@ -839,3 +873,11 @@ D.O.F. 16 DE ENERO DE 2009.
 D.O.F. 21 DE ENERO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE ENERO DE 2015.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en el ámbito de su competencia, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten el cumplimiento del mismo.
+
+Tercero. La vigencia de las licencias del personal técnico aeronáutico será de dos años y la Secretaría podrá ampliar la vigencia de las mismas, una vez que realice las adecuaciones y modificaciones necesarias que posibiliten su cumplimiento.
