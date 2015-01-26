@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2015-01-09"
+last_updated: "2015-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2015.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -879,6 +879,10 @@ El promovente de una autorización para la captura de mamíferos marinos a los q
 > <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
 Para el caso de varamientos de mamíferos marinos se procederá siempre a lo determinado en el “Protocolo de atención para varamiento de mamíferos marinos”.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+
+Queda prohibida la utilización de ejemplares de mamíferos marinos en espectáculos itinerantes.
 
 > <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2006)</small>
 
@@ -1851,3 +1855,7 @@ Los ejemplares de vida silvestre incluidos en las bases de datos a que hace refe
 Tercero. Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas competencias, deberán adecuar sus legislaciones para dar cumplimiento al presente Decreto en un plazo que no exceda de ciento ochenta días naturales posteriores a la publicación del mismo en el Diario Oficial de la Federación.
 
 Cuarto. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+D.O.F. 26 DE ENERO DE 2015.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
