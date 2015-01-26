@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2014-12-04"
+last_updated: "2015-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY QUE REGULA LA OPERACION Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACION, ENVASAMIENTO, DISTRIBUCION, ALMACENAMIENTO, TRANSPORTACION, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHOLICO EN EL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ENERO DE 2015 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 26 DE ENERO DE 2015.</small>
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -133,9 +133,15 @@ Para los efectos de esta Ley, la operación y funcionamiento de los establecimie
 
 I.- Fábrica.- Lugar de elaboración y envasamiento de bebidas con contenido alcohólico cuyo conjunto de operaciones, son objeto de aprobación, vigilancia y control sanitario en los términos de la Ley de Salud Federal y Estatal. Su infraestructura e instalaciones especiales coinciden en su totalidad con los fines específicos de elaboración. Por su tamaño estas empresas podrán ser grandes, medianas, pequeñas o las denominadas micro y su localización podrá estar en las inmediaciones o lugares permitidos por las leyes aplicables.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-I Bis.- Fábrica de Cerveza Artesanal.- Lugar de elaboración y envasado de cerveza con contenido alcohólico menor a los 14o GL, cuya fabricación y conjunto de operaciones son objeto de aprobación, vigilancia y control sanitario en los términos de la Ley de Salud Estatal.
+I Bis.- Fábrica de Producto Regional Típico.- Lugar autorizado para la elaboración, envasamiento, distribución y venta de bebidas con contenido alcohólico elaboradas a base de ingredientes representativos de alguna región determinada dentro del territorio sonorense.
+
+Estos establecimientos podrán distribuir y comercializar su producto en forma personal o a establecimientos que cuenten con licencia para alguna de las actividades de distribución y comercialización de productos con contenido alcohólico debidamente autorizado por la Secretaría, ello de acuerdo a lo señalado en el artículo 11 de esta ley.
+
+(ADICIONADA, B.O. 13 DE NOVIEMBRE DE 2014) (F. DE E., B.O. 26 DE ENERO DE 2015)
+
+I Bis 1.- Fábrica de Cerveza Artesanal.- Lugar de elaboración y envasado de cerveza con contenido alcohólico menor a los 14o GL, cuya fabricación y conjunto de operaciones son objeto de aprobación, vigilancia y control sanitario en los términos de la Ley de Salud Estatal.
 
 Los titulares de las licencias o sus representantes, no podrán estar asociados de ninguna manera con algún otro productor de bebidas con contenido alcohólico que no tenga licencia para Fábrica de Cerveza Artesanal.
 
@@ -163,7 +169,7 @@ Los establecimientos a que se refiere esta fracción, no podrán contar con pist
 
 > <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-IV BIS.- Billar o Boliche.- Establecimientos destinados a operar instalaciones para practicar juegos de boliche y billar, de manera conjunta o separada, como actividades principales, donde además podrán expenderse bebidas con contenido alcohólico en envase abierto y para el consumo inmediato en el interior del mismo.
+IV Bis.- Billar o Boliche.- Establecimientos destinados a operar instalaciones para practicar juegos de boliche y billar, de manera conjunta o separada, como actividades principales, donde además podrán expenderse bebidas con contenido alcohólico en envase abierto y para el consumo inmediato en el interior del mismo.
 
 Podrá contar con mesas y sillas, juegos de mesa y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental, así como con aparatos reproductores de música y video, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables.
 
@@ -179,9 +185,13 @@ V.- Restaurante.- Establecimiento donde se expenden alimentos preparados para su
 
 Los restaurantes deberán contar con suficientes mesas y sillas para los comensales, además de cocina industrial independiente para preparar alimentos, deberá tener el mobiliario, equipo y menú adecuados para que el importe de sus ventas de alimentos, sea por lo menos un 60% del importe de sus ventas totales anuales, reuniendo las condiciones higiénicas previstas en las Leyes General y Estatal de Salud. Podrán contar con barra y taburete, música ambiental y con grupos cantantes y/o musicales y con presentaciones artísticas y culturales para el sano esparcimiento de los clientes.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-V Bis.- Restaurante Rural.- Establecimiento situado en asentamiento humano que no rebase los 10,000 habitantes en su población, donde se expenden alimentos preparados para su consumo inmediato. La licencia que se autorice para la venta de bebidas con contenido alcohólico deberá ser para consumirse exclusivamente acompañadas con los alimentos y podrán servirse a manera de aperitivo antes de los alimentos en forma moderada y sólo en el caso de que el cliente vaya a consumir estos últimos. También las bebidas con contenido alcohólico podrán servirse con los alimentos y en forma más moderada después de ellos. En ningún caso, ni en ningún tiempo podrán servirse bebidas con contenido alcohólico a personas que muestren evidentes signos de ebriedad.
+V Bis.- Restaurante Bar.- Establecimiento donde se expenden alimentos preparados para su consumo inmediato, mismo que reúne y cumple con los elementos y requisitos de la fracción V de este artículo, pero que además podrá contar con bar anexo comunicado, el cual deberá estar claramente delimitado y separado del área de restaurante, ello no obstante su comunicación, donde podrán consumirse bebidas alcohólicas sin alimentos.
+
+(ADICIONADA, B.O. 4 DE DICIEMBRE DE 2014) (F. DE E., B.O. 26 DE ENERO DE 2015)
+
+V Bis 1.- Restaurante Rural.- Establecimiento situado en asentamiento humano que no rebase los 10,000 habitantes en su población, donde se expenden alimentos preparados para su consumo inmediato. La licencia que se autorice para la venta de bebidas con contenido alcohólico deberá ser para consumirse exclusivamente acompañadas con los alimentos y podrán servirse a manera de aperitivo antes de los alimentos en forma moderada y sólo en el caso de que el cliente vaya a consumir estos últimos. También las bebidas con contenido alcohólico podrán servirse con los alimentos y en forma más moderada después de ellos. En ningún caso, ni en ningún tiempo podrán servirse bebidas con contenido alcohólico a personas que muestren evidentes signos de ebriedad.
 
 Los restaurantes deberán contar con suficientes mesas y sillas para los comensales, además de cocina para preparar alimentos, deberá tener el mobiliario, equipo y menú adecuados para que el importe de sus ventas de alimentos, sea por lo menos un 60% del importe de sus ventas totales anuales, reuniendo las condiciones higiénicas previstas en las Leyes General y Estatal de Salud. Podrán contar con barra y taburete, música ambiental y con grupos cantantes y/o musicales y con presentaciones artísticas y culturales para el sano esparcimiento de los clientes.
 
@@ -223,7 +233,7 @@ Podrá contar con bambalinas, foro de espectáculos y de orquestas, camerinos ex
 
 > <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
-IX BIS.- Centro nocturno con espectáculos de baile semidesnudos de hombres y/o mujeres mayores de edad.- Establecimiento donde se expenden bebidas con contenido alcohólico en envase abierto y al copeo para consumo inmediato en el interior del mismo, el cual reúne y cumple con los elementos y requisitos de la fracción IX de este artículo.
+IX Bis.- Centro nocturno con espectáculos de baile semidesnudos de hombres y/o mujeres mayores de edad.- Establecimiento donde se expenden bebidas con contenido alcohólico en envase abierto y al copeo para consumo inmediato en el interior del mismo, el cual reúne y cumple con los elementos y requisitos de la fracción IX de este artículo.
 
 En estos establecimientos se podrán presentar espectáculos de baile semidesnudos de hombres y/o mujeres mayores de edad, para lo cual se deberá cumplir con los requisitos que para tal efecto establezca el reglamento de la presente Ley y contar con licencia específica expedida por la Secretaría.
 
@@ -237,7 +247,7 @@ XI.- Centro Deportivo o Recreativo.- Lugar en donde se ofrecen al público espec
 
 XII.- Hotel o Motel.- Establecimiento público donde se proporciona hospedaje, además de diversos servicios integrados para la comodidad de los huéspedes, que podrán contar con venta de bebidas con contenido alcohólico, en los espacios físicos del mismo que tenga destinados a la alimentación, diversión, esparcimiento y entretenimiento de sus clientes o huéspedes o para la celebración de eventos especiales y sociales, posibilitándolo para simultáneamente presentar en éstos música ambiental viva o programada para bailar, siempre y cuando tengan dentro de su infraestructura general de operación, por lo menos establecimiento de restaurante y/o cantina y cuenten con licencia autorizada específica, pudiendo ofrecer el servicio de bar en las habitaciones de acuerdo a su calidad turística que en todo caso dictamine la autoridad estatal en materia de turismo;
 
-> <small>(ADICIONADA, B.O. 4 DE DICIEMBRE DE 2014)</small>
+(ADICIONADA, B.O. 4 DE DICIEMBRE DE 2014) (REPUBLICADA., B.O. 26 DE ENERO DE 2015)
 
 XII Bis.- Hotel Rural o Motel Rural.- Establecimiento público, situado en asentamiento humano que no rebase los 10,000 habitantes en su población, donde se proporciona hospedaje, además de diversos servicios integrados para la comodidad de los huéspedes, que podrán contar con venta de bebidas con contenido alcohólico, en los espacios físicos del mismo que tenga destinados a la alimentación, diversión, esparcimiento y entretenimiento de sus clientes o huéspedes o para la celebración de eventos especiales y sociales, posibilitándolo para simultáneamente presentar en éstos música ambiental viva o programada para bailar, pudiendo ofrecer el servicio de bar en las habitaciones.
 
