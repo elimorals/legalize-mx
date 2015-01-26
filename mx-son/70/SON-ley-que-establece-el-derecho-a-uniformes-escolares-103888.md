@@ -4,7 +4,7 @@ identifier: "SON-ley-que-establece-el-derecho-a-uniformes-escolares-103888"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-04"
-last_updated: "2014-12-04"
+last_updated: "2015-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY QUE ESTABLECE EL DERECHO A UNIFORMES ESCOLARES GRATUITOS A ALUMNAS Y ALUMNOS INSCRITOS EN ESCUELAS PUBLICAS DE NIVEL BASICO EN EL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ENERO DE 2015 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY QUE ESTABLECE EL DERECHO A UNIFORMES ESCOLARES GRATUITOS A ALUMNAS Y ALUMNOS INSCRITOS EN ESCUELAS PÚBLICAS DE NIVEL BÁSICO EN EL ESTADO DE SONORA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DE 26 DE ENERO DE 2015.</small>
 
 Ley publicada en el Número 45 Secc. II del Boletín Oficial del Estado de Sonora, el jueves 4 de diciembre de 2014.
 
@@ -97,9 +97,11 @@ Durante el ciclo escolar 2014-2015 autorizado por la Secretaría de Educación y
 
 El ejercicio de los recursos asignados motivos de la presente Ley, se deberá de ajustar a lo dispuesto en (sic) Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Presupuestal Estatal, en virtud de que la presente Ley es materia estrictamente de materia presupuestal.
 
+> <small>(F. DE E., B.O. 26 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO CUARTO.
 
-Se otorga un plazo de 90 días naturales a partir de la publicación de la presente ley para que el Poder Ejecutivo emita el reglamento correspondiente a que alude el artículo 6 de esta Ley.
+Se otorga un plazo de 90 días naturales a partir de la publicación de la presente ley para que el Poder Ejecutivo emita el reglamento correspondiente a que alude el artículo 7° de esta Ley.
 
 Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en el Boletín Oficial del Gobierno del Estado.- SUFRAGIO EFECTIVO, NO REELECCIÓN. Hermosillo, Sonora, 06 de noviembre de 2014.- C. LUIS ALEJANDRO GARCÍA ROSAS, DIPUTADO PRESIDENTE.- C. CARLOS E. NAVARRO LÓPEZ, DIPUTADO SECRETARIO.- C. JOSÉ L. VILLEGAS VÁSQUEZ, DIPUTADO SECRETARIO.- RÚBRICAS.
 
