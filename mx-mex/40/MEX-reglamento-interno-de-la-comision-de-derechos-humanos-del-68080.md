@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-68080
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-14"
-last_updated: "2014-10-24"
+last_updated: "2015-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2015.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 14 de abril de 2009.
 
@@ -153,43 +153,33 @@ Artículo. 8.- Para la atención de quejas y el despacho de los asuntos que dire
 
 Las Visitadurías Generales se organizarán de conformidad con la denominación y distribución territorial siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+I. La Visitaduría General sede Toluca, atenderá preferentemente a la población de los municipios de: Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Atizapán; Amanalco; Amatepec; Calimaya; Capulhuac; Chapultepec; Coatepec Harinas; Donato Guerra; Ixtapan de la Sal; Ixtapan del Oro; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec, y Zumpahuacán;
 
-I. La Visitaduría General sede Toluca, tendrá competencia en el territorio que comprenden los municipios de: Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Atizapán; Amanalco; Amatepec; Calimaya; Capulhuac; Chapultepec; Coatepec Harinas; Donato Guerra; Ixtapan de la Sal; Ixtapan del Oro; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec y Zumpahuacán;
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. La Visitaduría General sede Tlalnepantla, atenderá preferentemente a la población de los municipios de: Apaxco; Atizapán de Zaragoza; Coyotepec; Cuautitlán; Huehuetoca; Hueypoxtla; Tepotzotlán; Tequixquiac; Tlalnepantla de Baz y Tultitlán;
 
-> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-II. La Visitaduría General sede Tlalnepantla, tendrá competencia en el territorio que comprenden los municipios de: Apaxco; Atizapán de Zaragoza; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Huehuetoca; Hueypoxtla; Tepotzotlán; Tequixquiac; Tlalnepantla de Baz y Zumpango;
+III. La Visitaduría General sede Chalco, atenderá preferentemente a la población de los municipios de: Amecameca; Atlautla; Ayapango; Cocotitlán; Chalco; Ecatzingo; Ixtapaluca; Juchitepec; Ozumba; Temamatla; Tenango del Aire; Tepetlixpa; Tlalmanalco; Texcoco, y Valle de Chalco Solidaridad;
 
-III. La Visitaduría General sede Chalco, tendrá competencia en el territorio que comprenden los municipios de: Amecameca; Atlautla; Ayapango; Cocotitlán; Chalco; Ecatzingo; Ixtapaluca; Juchitepec; Ozumba; Temamatla; Tenango del Aire; Tepetlixpa; Tlalmanalco y Valle de Chalco Solidaridad;
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. La Visitaduría General sede Nezahualcóyotl, atenderá preferentemente a la población de los municipios de: Atenco; Chicoloapan; Chiconcuac; Chimalhuacán; La Paz, y Nezahualcóyotl;
 
-> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-IV. La Visitaduría General sede Nezahualcóyotl, tendrá competencia en el territorio que comprenden los municipios de: Atenco; Chicoloapan; Chiconcuac; Chimalhuacán; La Paz; Nezahualcóyotl y Texcoco;
+V. La Visitaduría General sede Ecatepec, atenderá preferentemente a la población de los municipios de: Acolman; Axapusco; Coacalco de Berriozabal; Chiautla; Ecatepec de Morelos; Jaltenco; Nextlalpan; Nopaltepec; Otumba; Papalotla; San Martín de las Pirámides; Tecámac; Temascalapa; Teotihuacan; Tepetlaoxtoc; Tezoyuca; Tonanitla; Tultepec y Zumpango;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+VI. La Visitaduría General sede Atlacomulco, atenderá preferentemente a la población de los municipios de: Acambay; Aculco; Atlacomulco; Chapa de Mota; El Oro; Ixtlahuaca; Jilotepec; Jiquipilco; Jocotitlán; Morelos; Polotitlán; San Felipe del Progreso; San José del Rincón; Soyaniquilpan de Juárez; Temascalcingo, y Timilpan;
 
-V. La Visitaduría General sede Ecatepec, tendrá competencia en el territorio que comprenden los municipios de: Acolman; Axapusco; Coacalco de Berriozabal; Chiautla; Ecatepec de Morelos; Jaltenco; Nextlalpan; Nopaltepec; Otumba; Papalotla; San Martín de las Pirámides; Tecámac; Temascalapa; Teotihuacan; Tepetlaoxtoc; Tezoyuca; Tonanitla; Tultepec y Tultitlán;
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
-
-VI. La Visitaduría General sede Atlacomulco, tendrá competencia en el territorio que comprenden los municipios de: Acambay; Aculco; Atlacomulco; Chapa de Mota; El Oro; Ixtlahuaca; Jilotepec; Jiquipilco; Jocotitlán; Morelos; Polotitlán; San Felipe del Progreso; San José del Rincón; Soyaniquilpan de Juárez; Temascalcingo y Timilpan; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
-
-VII. La Visitaduría General sede Naucalpan, tendrá competencia en el territorio que comprenden los municipios de: Huixquilucan; Isidro Fabela; Jilotzingo; Melchor Ocampo; Naucalpan de Juárez; Nicolás Romero; Teoloyucan y Villa del Carbón.
+VII. La Visitaduría General sede Naucalpan, atenderá preferentemente a la población de los municipios de: Huixquilucan; Cuautitlán Izcalli; Isidro Fabela; Jilotzingo; Melchor Ocampo; Naucalpan de Juárez; Nicolás Romero; Teoloyucan, y Villa del Carbón; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE OCTUBRE DE 2014)</small>
 
@@ -1160,3 +1150,13 @@ SEGUNDO. Estas modificaciones entrarán en vigor el día hábil siguiente a su p
 TERCERO. Derivado del punto que antecede, se instruye a la Dirección General de Administración y Finanzas para que realice las modificaciones conducentes al Organigrama, así como al Manual General de Organización de la Comisión de Derechos Humanos del Estado de México, y efectúe las acciones administrativas que se deriven de las reformas de mérito.
 
 CUARTO. Los procedimientos de queja que involucren violaciones a derechos humanos de personas privadas de libertad, previo a la entrada en vigor de estas modificaciones se sustanciarán y resolverán de acuerdo a lo previsto (sic) en la normatividad vigente; en beneficio de los interesados, serán aplicables los preceptos contenidos en este acuerdo.
+
+G.G. 26 DE ENERO DE 2015.
+
+PRIMERO. Publíquense las presentes modificaciones en el Periódico Oficial "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+SEGUNDO. Estas modificaciones entrarán en vigor el día hábil siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Derivado del punto que antecede, se instruye a la Dirección General de Administración y Finanzas para que efectúe las acciones administrativas que se deriven de las reformas de mérito.
+
+CUARTO. Los procedimientos de queja que involucren presuntas violaciones a derechos humanos en los municipios de Tultitlán, Texcoco, Zumpango y Cuautitlán Izcalli, previo a la entrada en vigor de estas modificaciones se sustanciarán y resolverán de acuerdo a lo previsto en la normatividad vigente; en beneficio de los interesados, serán aplicables los preceptos contenidos en este acuerdo.
