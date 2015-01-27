@@ -4,7 +4,7 @@ identifier: "LISSFAM"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-09"
-last_updated: "2013-01-14"
+last_updated: "2015-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 9 de julio de 2003.
 
@@ -438,9 +438,9 @@ II. Quedar incapacitado en acción de armas o como consecuencia de las lesiones 
 
 III. Quedar incapacitado en otros actos del servicio o como consecuencia de ellos; incluyendo la incapacidad que se produzca al trasladarse el militar directamente de su domicilio al lugar donde preste sus servicios, así como el retorno directo de éste a su domicilio particular;
 
-> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2015)</small>
 
-IV. Quedar incapacitado en actos fuera del servicio;
+IV. Quedar incapacitado en actos fuera del servicio, conforme a lo establecido en los artículos 174 y 183 de esta Ley.
 
 V. Estar imposibilitados para el desempeño de las obligaciones militares, por enfermedad que dure más de seis meses, pudiendo el Secretario de la Defensa Nacional o, en su caso, el de Marina prorrogar este lapso hasta por tres meses más con base en el dictamen expedido por dos médicos militares o navales en activo, en el que se establezca la posibilidad de recuperación en ese tiempo, y
 
@@ -2508,11 +2508,11 @@ Primera Categoría
 
 81. Los padecimientos de origen inmunológico rebeldes al tratamiento y de difícil control.
 
-82. Los estados de inmunodeficiencia de cualquier etiología, con susceptibilidad a infecciones recurrentes.
+82. (DEROGADO, D.O.F. 27 DE ENERO DE 2015)
 
-> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
-83. La seropositividad a los anticuerpos contra los virus de la inmunodeficiencia humana, confirmada con pruebas suplementarias más infecciones por gérmenes oportunistas y/o neoplasias malignas, en etapa terminal por más de seis meses.
+83. El Síndrome de Inmunodeficiencia Adquirida, manifestado por la seropositividad a los anticuerpos contra el virus de la inmunodeficiencia humana, confirmada con pruebas suplementarias más infecciones por gérmenes oportunistas y/o neoplasias malignas, que impliquen la pérdida de la funcionalidad para el desempeño de los actos del servicio.
 
 84. Las secuelas no tratables de la enfermedad injerto contra huésped.
 
@@ -2599,8 +2599,6 @@ d. De tres dedos de la mano dominante que no incluyan el pulgar.
 121. Las hernias o eventraciones que no respondan al tratamiento quirúrgico.
 
 122. Otras alteraciones o estados que se constituyen con la suma de diversas categorías o trastornos funcionales, y que a criterio médico ocasionen incapacidades mayores al 60% de función en relación a la actividad del sujeto.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 Segunda Categoría
 
@@ -2701,8 +2699,6 @@ d) De todos los dedos de un pie.
 44. Las alteraciones permanentes, orgánicas o funcionales, de los diversos aparatos y sistemas que disminuyen la capacidad del individuo entre el 40 y 50% y que no han quedado comprendidas en esta categoría.
 
 45. (DEROGADO, D.O.F. 20 DE NOVIEMBRE DE 2008)
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 Tercera Categoría
 
@@ -2816,13 +2812,15 @@ b) Del cuarto y quinto dedos de la mano dominante.
 
 53. Las alteraciones permanentes anatómicas o funcionales de los diversos aparatos o sistemas, que disminuyan la capacidad funcional del individuo entre el 20% y el 40% y que no han quedado comprendidas en esta categoría, o que se constituyan con los diversos grados de ella.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADA LA LISTA, D.O.F. 27 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+
+###### Artículo 226 Bis.
 
 Lista de padecimientos que por producir trastornos funcionales de menos del 20% ameritan cambio de Arma o Servicio a petición de un Consejo Médico.
 
-1. Las alteraciones orgánicas o funcionales irreparables que provoquen que la visión central en cada ojo, aun después de corregir los vicios de refracción, alcance a lo sumo 20/40.
+1. Las alteraciones orgánicas o funcionales irreparables que provoquen que la visión central en cada ojo, aún después de corregir los vicios de refracción, alcance a lo sumo 20/40.
 
 2. El desprendimiento de la retina tratado, cuando a juicio del médico limite la actividad física.
 
@@ -2834,7 +2832,7 @@ Lista de padecimientos que por producir trastornos funcionales de menos del 20% 
 
 6. Las alteraciones alérgicas o vasomotoras de vías respiratorias que requieren que el individuo cambie de medio ambiente.
 
-7. Las insuficiencias respiratorias menores del 20%, valoradas por espirometría consecutivas a padecimientos pulmonares, pleurales, mediastinales, diafragmáticos o de pared torácica, aun cuando estos padecimientos hayan sido tratados hasta su curación.
+7. Las insuficiencias respiratorias menores del 20%, valoradas por espirometría consecutivas a padecimientos pulmonares, pleurales, mediastinales, diafragmáticos o de pared torácica, aún cuando estos padecimientos hayan sido tratados hasta su curación.
 
 8. La insuficiencia coronaria crónica o aguda, incluyendo al infarto del miocardio, no complicado y sin isquemia residual.
 
@@ -2847,8 +2845,6 @@ Lista de padecimientos que por producir trastornos funcionales de menos del 20% 
 12. La gastrectomía subtotal.
 
 13. La obesidad con un índice de masa corporal entre 28 a 29.9.
-
-> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 14. La diabetes mellitus tipo 2 sin complicación crónica.
 
@@ -2864,13 +2860,11 @@ a) Pérdida parcial o incompleta de 2 o más dedos de una mano.
 
 b) De falange distal de uno o de ambos pulgares.
 
-> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
-
-19. La seropositividad a los anticuerpos contra los virus de la inmunodeficiencia humana confirmada con pruebas suplementarias, que limite la actividad funcional militar por requerir de control y tratamiento médico.
+19. La infección por el virus de la inmunodeficiencia humana confirmada con pruebas suplementarias, cuyo control y tratamiento médico limite el desempeño de los actos del servicio.
 
 20. Las alteraciones permanentes, anatómicas o funcionales, de los diversos aparatos y sistemas, que disminuyen la capacidad funcional del individuo entre el 10% y el 20% y que no han quedado comprendidas en esta categoría.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+En todos los casos en que sea médicamente posible, se deberá ajustar el control y tratamiento médico a las actividades específicas del militar, sin afectar al servicio y sin ningún tipo de discriminación.
 
 ###### Artículo 227.
 
@@ -3019,3 +3013,7 @@ D.O.F. 5 DE JUNIO DE 2012.
 D.O.F. 14 DE ENERO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2015.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
