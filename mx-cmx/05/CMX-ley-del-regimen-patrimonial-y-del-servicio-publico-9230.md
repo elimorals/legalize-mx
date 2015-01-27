@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-regimen-patrimonial-y-del-servicio-publico-9230"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-20"
-last_updated: "2014-11-28"
+last_updated: "2015-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9230&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-10"
 
 LEY DEL RÉGIMEN PATRIMONIAL Y DEL SERVICIO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de diciembre de 1996.
 
@@ -590,7 +590,7 @@ Los honorarios del Notario Público, así como los gastos que se generen con mot
 
 ###### Artículo 53.
 
-Los actos jurídicos sobre bienes inmuebles en los que sea parte el Distrito Federal, con excepción hecha de lo previsto en el artículo 48 de esta Ley, y que en términos de la misma requieran intervención de notario, se celebrarán ante los notarios públicos del Distrito Federal que designará la Consejería Jurídica Y (sic) de Servicios Legales.
+Los actos jurídicos sobre bienes inmuebles en los que sea parte el Distrito Federal, con excepción hecha de lo previsto en el artículo 48 de esta Ley, y que en términos de la misma requieran intervención de notario, se celebrarán ante los notarios públicos del Distrito Federal que designará la Consejería Jurídica Y de Servicios Legales.
 
 Ningún notario del Distrito Federal podrá autorizar definitivamente una escritura de adquisición o enajenación de bienes inmuebles en que sea parte el Distrito Federal, sin la aprobación previa de la Oficialía y Desarrollo Urbano, de conformidad con sus competencias.
 
@@ -678,9 +678,11 @@ III. Asignar los inmuebles disponibles, y
 
 IV. Adquirir, en su caso, los inmuebles con cargo a la partida presupuestal autorizada a la Dependencia interesada y realizar las gestiones necesarias para la formalización de la operación.
 
+> <small>(REFORMADO, G.O. 27 DE ENERO DE 2015)</small>
+
 ###### Artículo 62.
 
-Las Dependencias y Entidades podrán arrendar bienes inmuebles para su servicio cuando no sea posible o conveniente su adquisición, en cuyo caso están obligadas a acreditar tales supuestos ante la Oficialía. Tanto en la adquisición como en el arrendamiento de inmuebles para oficinas públicas se requerirá el dictamen estructural emitido por Obras, independientemente de la competencia o intervención que les corresponda a otras Dependencias.
+Las Dependencias, delegaciones, órganos desconcentrados y Entidades podrán arrendar bienes inmuebles para su servicio cuando no sea posible o conveniente su adquisición, siempre que no exista disponibilidad de inmuebles propiedad del Distrito Federal, acorde a las necesidades del servicio; para ello, deberán obtener la autorización de arrendamiento, ante la Oficialía Mayor por conducto de la Dirección General de Patrimonio Inmobiliario, previa tramitación y obtención del dictamen estructural, emitido por el Instituto de Seguridad para las Construcciones del Distrito Federal, independientemente de la competencia o intervención que les corresponda a otras Dependencias.
 
 ### CAPÍTULO II. DE LA COMPRAVENTA
 
@@ -1521,3 +1523,9 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 27 DE ENERO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Remítase el (sic) Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
