@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2013-12-26"
+last_updated: "2015-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -127,6 +127,10 @@ XVI.- De Seguridad Pública;
 > <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2006)</small>
 
 XVII.- Premio Nacional de la Cerámica.
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2015)</small>
+
+XVIII.- De Cultura Contributiva.
 
 > <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
@@ -1146,9 +1150,9 @@ Para la entrega del Premio Nacional de Seguridad Pública, su Consejo de Premiac
 
 > <small>(REFORMADA SU DENOMINACIÓN (N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], D.O.F. 30 DE JUNIO DE 2006)</small>
 
-### CAPITULO XXIII. Disposiciones Generales
+### CAPITULO XXIII. Premio Nacional de Cultura Contributiva
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTICULO 120], D.O.F. 30 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 120.
 
@@ -1186,27 +1190,61 @@ VII.- Figura en arcilla.
 
 Para la entrega del Premio Nacional de la Cerámica, el Consejo de Premiación se integrará por el Presidente de la República, el titular del Consejo Nacional para la Cultura y las Artes, el titular del Fondo Nacional para el Fomento de las Artesanías, el Gobernador del Estado de Jalisco y el Presidente municipal de Tlaquepaque, localidad que será sede oficial del concurso.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO ANTES CAPITULO XXII], D.O.F. 30 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE ENERO DE 2015)</small>
+
+### CAPÍTULO XXIV. Disposiciones Generales
+
+(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTICULO 120], D.O.F. 30 DE JUNIO DE 2006) (REUBICADO ANTES ARTÍCULO 124, D.O.F. 27 DE ENERO DE 2015)
 
 ###### ARTICULO 124.
 
-Las erogaciones que deban hacerse con motivo de esta Ley, serán con cargo a la partida correspondiente de la Secretaría donde se tramite cada premio, y en caso de falta o insuficiencia de partida, con cargo al presupuesto del ramo de la Presidencia. Las recompensas de que trata el Capítulo XVI únicamente podrán recaer sobre el presupuesto de la dependencia u organismo al que pertenezca el beneficiario.
+El Premio Nacional de Cultura Contributiva se entregará a las personas físicas o morales que realicen actividades sobresalientes que propicien en la ciudadanía la divulgación, el fomento y desarrollo de la Cultura Contributiva como la vía para incentivar el cumplimiento voluntario del pago de contribuciones y mejorar el desarrollo social de la Nación, así como a aquellos ciudadanos que realicen investigaciones o estudios en materia jurídica y/o tecnologías de la información de aplicación práctica para fortalecer el Sistema de Administración Tributaria o en materia de Cultura Contributiva.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 121], D.O.F. 30 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 125.
 
-Los premios y las entregas adicionales en numerario o en especie, así como las recompensas, estarán exentos de cualquier impuesto o deducción.
+El Premio Nacional de Cultura Contributiva se entregará en las siguientes categorías:
 
-> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 122], D.O.F. 30 DE JUNIO DE 2006)</small>
+I.- Promoción, divulgación y defensa de los derechos humanos de los contribuyentes en el marco de la Cultura Contributiva.
+
+II.- Generación de mecanismos para el fortalecimiento del sistema tributario justo, equitativo y solidario en el régimen democrático.
+
+III.- Investigaciones y estudios académicos, jurídicos o tecnológicos sobre fortalecimiento del Sistema de Administración Tributaria o de la Cultura Contributiva.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 126.
 
-Salvo que esta Ley contenga disposición expresa al respecto, los jurados están facultados para proponer que dos o más personas con iguales merecimientos participen entre sí el mismo premio, o que éste se otorgue a cada una de ellas.
+El Premio Nacional de Cultura Contributiva consistirá en medalla, diploma y podrá adicionarse con una entrega en numerario o especie cuyo monto determinará el Consejo de Premiación. Será entregado anualmente por el Presidente de la República y el Titular de la Procuraduría de la Defensa del Contribuyente.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 123], D.O.F. 30 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 127.
+
+El Premio se tramitará ante el organismo federal Procuraduría de la Defensa del Contribuyente, en ejercicio de su autonomía, y a través de sus instancias competentes emitirá las reglas para la integración del Consejo de Premiación que se constituirá por personas de reconocida calidad moral, académica o intelectual y representantes de los sectores público y privado, así como un representante de cada una de las Cámaras del Congreso de la Unión.
+
+(ADICIONADO [N. DE E. REUBICADO ANTES CAPÍTULO XXII], D.O.F. 30 DE JUNIO DE 2006) (REUBICADO ANTES CAPÍTULO XXIII, D.O.F. 27 DE ENERO DE 2015)
+
+###### ARTICULO 128.
+
+Las erogaciones que deban hacerse con motivo de esta Ley, serán con cargo a la partida correspondiente de la Secretaría donde se tramite cada premio, y en caso de falta o insuficiencia de partida, con cargo al presupuesto del ramo de la Presidencia. Las recompensas de que trata el capítulo XVI únicamente podrán recaer sobre el presupuesto de la dependencia u organismo al que pertenezca el beneficiario.
+
+> <small>(REFORMADO Y REUBICADO ANTES ARTÍCULO 125, D.O.F. 27 DE ENERO DE 2015)</small>
+
+###### ARTICULO 129.
+
+Los premios y las entregas adicionales en numerario o en especie, así como las recompensas, estarán exentos de cualquier impuesto o deducción, en los términos de las leyes fiscales aplicables.
+
+(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 122], D.O.F. 30 DE JUNIO DE 2006) (REUBICADO ANTES ARTÍCULO 126, D.O.F. 27 DE ENERO DE 2015)
+
+###### ARTICULO 130.
+
+Salvo que esta Ley contenga disposición expresa al respecto, los jurados están facultados para proponer que dos o más personas con iguales merecimientos participen entre sí el mismo premio, o que éste se otorgue a cada una de ellas.
+
+(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 123], D.O.F. 30 DE JUNIO DE 2006) (REUBICADO ANTES ARTÍCULO 127, D.O.F. 27 DE ENERO DE 2015)
+
+###### ARTICULO 131.
 
 Las recompensas señaladas en efectivo por la presente Ley, se ajustarán en la proporción en que se modifique el salario mínimo general en el Distrito Federal.
 
@@ -1315,3 +1353,7 @@ D.O.F. 26 DE DICIEMBRE DE 2013.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Los Premios Nacionales de Deportes y de Mérito Deportivo correspondientes al año 2013, se entregarán el día del mes de diciembre que determine el Ejecutivo Federal.
+
+D.O.F. 27 DE ENERO DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
