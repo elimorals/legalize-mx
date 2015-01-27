@@ -4,7 +4,7 @@ identifier: "LRFIYII_ART105"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-11"
-last_updated: "2013-04-02"
+last_updated: "2015-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8654&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRFIYII_ART105"
 
 LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de mayo de 1995.
 
@@ -496,7 +496,9 @@ II. Los órganos legislativos y ejecutivo que hubieran emitido y promulgado las 
 
 III. La norma general cuya invalidez se reclame y el medio oficial en que se hubiere publicado;
 
-IV. Los preceptos constitucionales que se estimen violados; y
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2015)</small>
+
+IV. Los preceptos constitucionales que se estimen violados y, en su caso, los derechos humanos consagrados en los tratados internacionales de los que México sea parte que se estimen vulnerados; y
 
 V. Los conceptos de invalidez.
 
@@ -576,9 +578,11 @@ En materia electoral el plazo para interponer el recurso de reclamación a que s
 
 ### Capítulo III. De las sentencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 71.
 
-Al dictar sentencia, la Suprema Corte de Justicia de la Nación deberá corregir los errores que advierta en la cita de los preceptos invocados y suplirá los conceptos de invalidez planteados en la demanda. La Suprema Corte de Justicia de la Nación podrá fundar su declaratoria de inconstitucionalidad en la violación de cualquier precepto constitucional, haya o no sido invocado en el escrito inicial.
+Al dictar sentencia, la Suprema Corte de Justicia de la Nación deberá corregir los errores que advierta en la cita de los preceptos invocados y suplirá los conceptos de invalidez planteados en la demanda. La Suprema Corte de Justicia de la Nación podrá fundar su declaratoria de inconstitucionalidad en la violación de cualquier precepto constitucional, haya o no sido invocado en el escrito inicial. Igualmente, la Suprema Corte de Justicia de la Nación podrá fundar su declaración de invalidez en la violación de los derechos humanos consagrados en cualquier tratado internacional del que México sea parte, haya o no sido invocado en el escrito inicial.
 
 > <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -621,3 +625,7 @@ Segundo.- En cumplimiento del segundo párrafo del artículo SEGUNDO transitorio
 D.O.F. 2 DE ABRIL DE 2013.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2015.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
