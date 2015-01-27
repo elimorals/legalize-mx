@@ -4,7 +4,7 @@ identifier: "VER-ley-de-responsabilidad-juvenil-para-el-estado-de-veracruz-51773
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-11"
-last_updated: "2013-08-26"
+last_updated: "2015-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY DE RESPONSABILIDAD JUVENIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE -LEY NUMERO 587-
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
+
 LEY DE RESPONSABILIDAD JUVENIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ENERO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 11 de septiembre de 2006.
 
@@ -37,7 +39,7 @@ LEY DE RESPONSABILIDAD JUVENIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ###### Artículo 1.
 
-l. Esta Ley se aplica a todo adolescente a quien se le atribuya la realización de una conducta tipificada en las leyes penales del Estado de Veracruz (sic) como delito.
+l. Esta Ley se aplica a todo adolescente a quien se le atribuya la realización de una conducta tipificada en las leyes penales del Estado de Veracruz como delito.
 
 2. Se entiende por adolescente a toda persona mayor de doce y menor de dieciocho años de edad.
 
@@ -71,7 +73,7 @@ La interpretación y aplicación de las disposiciones contenidas en esta Ley deb
 
 ###### Artículo 6.
 
-Será de aplicación supletoria el Código de Procedimientos Penales para el Estado de Veracruz (sic) en todo cuanto no se oponga a esta Ley y a las normas mencionadas en el artículo anterior.
+Será de aplicación supletoria el Código de Procedimientos Penales para el Estado de Veracruz en todo cuanto no se oponga a esta Ley y a las normas mencionadas en el artículo anterior.
 
 ### CAPÍTULO II. Principios, derechos y garantías
 
@@ -235,13 +237,17 @@ Todo adolescente tendrá derecho a impugnar ante un Tribunal distinto del que em
 
 #### SECCIÓN IV. Garantías relativas a la organización judicial
 
+> <small>(REFORMADO, G.O. 27 DE ENERO DE 2015)</small>
+
 ###### Artículo 32.
 
-Ningún adolescente podrá ser juzgado o sancionado sino por los juzgados previamente establecidos con anterioridad al hecho.
+Ningún adolescente podrá ser juzgado o sancionado sino por los juzgados especializados previamente establecidos con anterioridad al hecho.
 
 ###### Artículo 33.
 
-1. El juzgamiento y la decisión respecto a los delitos cometidos por los adolescentes se llevarán a cabo por jueces pertenecientes al Poder Judicial del Estado y sólo sometidos a la Ley.
+> <small>(REFORMADO, G.O. 27 DE ENERO DE 2015)</small>
+
+1. El juzgamiento y la decisión respecto a los delitos cometidos por los adolescentes se llevarán a cabo por jueces especializados pertenecientes al Poder Judicial del Estado y sólo sometidos a la Ley.
 
 2. Se asegurará un sistema de enjuiciamiento acusatorio, oral, continuo, contradictorio, concentrado y expedito.
 
@@ -993,7 +999,7 @@ III. En cada resolución el Juez podrá imponer amonestación y hasta un máximo
 
 ###### Artículo 121.
 
-1. La resolución se pronunciará en nombre del Estado de Veracruz (sic); deberá estar debidamente fundada y motivada, escrita en un lenguaje claro y accesible para el adolescente y contener los siguientes elementos:
+1. La resolución se pronunciará en nombre del Estado de Veracruz; deberá estar debidamente fundada y motivada, escrita en un lenguaje claro y accesible para el adolescente y contener los siguientes elementos:
 
 I. Lugar, fecha y hora en que es emitida;
 
@@ -1805,7 +1811,7 @@ La revisión se solicitará por escrito ante la Sala del Tribunal Superior de Ju
 
 Primero. Esta Ley entrará en vigor el 11 de julio de dos mil siete.
 
-Segundo. Queda derogada la Ley de Adaptación Social y de los Consejos Tutelares para Menores Infractores del Estado de Veracruz (sic) de 19 de septiembre de 1980 y todas las normas que se opongan al presente decreto.
+Segundo. Queda derogada la Ley de Adaptación Social y de los Consejos Tutelares para Menores Infractores del Estado de Veracruz de 19 de septiembre de 1980 y todas las normas que se opongan al presente decreto.
 
 Tercero. Dentro del plazo de entrada en vigor de la presente Ley, el ejecutivo creara la Dirección general de medidas sancionadoras como organismo público desconcentrado de la Secretaria de Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
@@ -1890,3 +1896,9 @@ Artículo Sexto. En todos los ordenamientos y disposiciones en que se haga menci
 Artículo Séptimo. La Secretaría de Finanzas y Planeación y la Contraloría General, conformarán un Grupo de Trabajo, a fin de determinar la estructura orgánica mínima indispensable que integrará las Secretarías, cuyas funciones se reforman, adicionan o derogan en este instrumento. Las denominaciones de los órganos y áreas administrativas se ajustarán a lo dispuesto en los Lineamientos por los que se establecen los criterios técnico-administrativos para la modificación, elaboración y autorización de las estructuras orgánicas y plantillas de personal de las Dependencias y Entidades de la Administración Pública.
 
 Artículo Octavo. En tanto se expidan las nuevas normas reglamentarias correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
+
+G.O. 27 DE ENERO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
