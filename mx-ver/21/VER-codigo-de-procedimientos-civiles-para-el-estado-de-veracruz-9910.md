@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2013-08-14"
+last_updated: "2015-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ENERO DE 2015.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -103,9 +103,9 @@ Admitida la demanda y contestada la misma, no podrán modificarse ni alterarse, 
 
 El desistimiento de la acción, la extingue; el de la demanda, posterior al emplazamiento, requerirá del consentimiento expreso del demandado y produce el efecto de volver las cosas al estado anterior a la misma. El desistimiento de la instancia, posterior al emplazamiento o el de la acción, obligan al pago de gastos y costas y de los daños y perjuicios causados, salvo convenio en contrario.
 
-> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 27 DE ENERO DE 2015)</small>
 
-Se tendrá por abandonado el juicio o procedimiento y por perdido el derecho de las partes o interesados en jurisdicción voluntaria, si éstos no promueven durante ciento ochenta días en la primera instancia o noventa días en la segunda, salvo en los casos de fuerza mayor. El abandono en la segunda instancia sólo da lugar a la pérdida del recurso y a la devolución de los autos.
+Se tendrá por abandonado el juicio o procedimiento y por perdido el derecho de las partes o interesados en jurisdicción voluntaria, si éstos no promueven durante ciento ochenta días en la primera instancia o noventa días en la segunda, salvo en los casos de fuerza mayor. El abandono en la segunda instancia sólo da lugar a la pérdida del recurso y a la devolución de los autos. La caducidad de la instancia no operará en los juicios del orden familiar o en los que se diriman derechos de menores de edad o incapaces.
 
 > <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2013)</small>
 
@@ -747,11 +747,11 @@ ARTICULO 103
 
 Los honorarios de los depositarios, peritos y demás personas que intervengan en el juicio, serán regulados conforme a arancel.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE ENERO DE 2015)</small>
 
 ARTICULO 104
 
-Siempre será condenado al pago de gastos y costas que incluirán los honorarios del abogado patrono de la contraparte, el litigante que no obtuviere resolución favorable, ya en lo principal, ya en los incidentes que surgieren.
+Siempre será condenado al pago de gastos y costas que incluirán los honorarios del abogado patrono de la contraparte, el litigante que no obtuviere resolución favorable, ya en lo principal, ya en los incidentes que surgieren, salvo en los juicios o procedimientos relacionados con el derecho familiar de menores de edad o incapaces, en cuyos casos no operará.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -6073,7 +6073,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 G.O. 19 DE OCTUBRE DE 2000.
 
-Artículo Primero. La presente ley entrará en vigor al día siguiente de su publicación en al Gaceta Oficial, órgano de gobierno del estado.
+Artículo Primero. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de gobierno del estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan a la presente ley.
 
@@ -6196,3 +6196,9 @@ G.O. 14 DE AGOSTO DE 2013.
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Tratándose de los procedimientos de jurisdicción voluntaria actualmente en trámite, el término para la caducidad comenzará a correr a partir del inicio de la vigencia del presente Decreto.
+
+G.O. 27 DE ENERO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
