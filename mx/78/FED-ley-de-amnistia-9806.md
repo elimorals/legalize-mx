@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amnistia-9806"
 country: "mx"
 rank: "ley"
 publication_date: "1978-09-28"
-last_updated: "1978-09-28"
+last_updated: "2015-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9806&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LAMNI"
 ---
 # LEY DE AMNISTIA
 
-LEY DE AMNISTIA
+LEY DE AMNISTÍA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO PUBLICADO EN EL D.O.F. DE 27 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2015 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de septiembre de 1978.
 
@@ -77,3 +79,9 @@ PRIMERO.- Esta ley surtirá sus efectos el día de su publicación en el "Diario
 México, D. F., 27 de septiembre de 1978.- Rodolfo González Guevara, D. P.- Joaquín Gamboa Pascoe, S.P.- Héctor González Lárraga, D. P. S.- Adrián Yañez Martínez, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintisiete días del mes de septiembre de mil novecientos setenta y ocho.- José López Portillo.- Rúbrica.- El Secretario de Gobernación, Jesús Reyes Heroles.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 27 DE ENERO DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
