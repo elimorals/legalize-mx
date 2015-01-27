@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2014-12-24"
+last_updated: "2015-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -1614,7 +1614,9 @@ XXV.- Formular normas y programas, y ejecutar acciones para promover la educaci�
 
 XXVI.- (DEROGADA, D.O.F. 25 DE MAYO DE 1992)
 
-XXVII.- Organizar, promover y supervisar programas de capacitación y adiestramiento en coordinación con las dependencias del Gobierno Federal, los Gobiernos de los Estados y de los Municipios, las entidades públicas y privadas así como los fideicomisos creados con tal propósito. A este fin organizará, igualmente, sistemas de orientación vocacional de enseñanza abierta y de acreditación de estudios;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2015)</small>
+
+XXVII.- Organizar, promover y supervisar programas de capacitación y adiestramiento en coordinación con las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y de los Municipios, las entidades públicas y privadas, así como los fideicomisos creados con tal propósito. A este fin organizará, igualmente, servicios de educación básica para adultos y sistemas de orientación vocacional de enseñanza abierta y de acreditación de estudios;
 
 XXVIII.- Orientar las actividades artísticas, culturales, recreativas y deportivas que realice el sector público federal;
 
@@ -2749,6 +2751,16 @@ SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales neces
 D.O.F. 24 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2015.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría de Educación Pública, así como las demás autoridades con quienes se coordinarán para llevar a cabo los servicios de educación básica para adultos en los términos del presente Decreto, deberán llevar a cabo un diagnóstico inicial para la identificación de la población objetivo de estos servicios, en un plazo de ciento ochenta días contados a partir de la publicación del presente Decreto, mismo que deberá actualizarse cada año.
+
+Tercero.- Para los programas de educación básica para adultos, en los términos del presente Decreto, la Secretaría de Educación Pública conjuntamente con las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y los Municipios, así como las entidades públicas o privadas deberán establecer los plazos y las metas para lograr los objetivos que se fijen, de acuerdo a los diagnósticos señalados en el artículo transitorio anterior, tomando en consideración las asignaciones presupuestales previstas para ello.
+
+Cuarto.- La Secretaría de Educación Pública, las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y los Municipios, así como las entidades públicas o privadas deberán definir los esquemas de incentivos y otorgar las facilidades necesarias para que los servidores públicos que se encuentran en rezago educativo puedan concluir su educación básica.
 
 D.O.F. 18 DE DICIEMBRE DE 2015.
 
