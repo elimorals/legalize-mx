@@ -4,7 +4,7 @@ identifier: "LINS"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2012-05-30"
+last_updated: "2015-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINS"
 
 LEY DE LOS INSTITUTOS NACIONALES DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de mayo de 2000.
 
@@ -116,9 +116,9 @@ VII. Instituto Nacional de Perinatología Isidro Espinosa de los Reyes, para la 
 
 VIII. Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz, para la psiquiatría y la salud mental;
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2015)</small>
 
-VIII Bis. Instituto Nacional de Rehabilitación;
+VIII Bis. Instituto Nacional de Rehabilitación Luis Guillermo Ibarra Ibarra;
 
 IX. Instituto Nacional de Salud Pública, para la investigación y enseñanza en salud pública;
 
@@ -707,3 +707,7 @@ Quinto. En tanto se haga la designación del Director General, la representació
 Sexto. Por única vez, dos de los cuatro vocales de la Honorable Junta de Gobierno del Instituto durarán en su encargo 2 años.
 
 Séptimo. Se abroga el Decreto por el que se crea el Instituto de Geriatría, publicado en el Diario Oficial de la Federación del 29 de julio de 2008.
+
+D.O.F. 27 DE ENERO DE 2015.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
