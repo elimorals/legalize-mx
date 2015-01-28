@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-tribunal-del-trabajo-burocratico-102533
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-08-27"
-last_updated: "2014-08-27"
+last_updated: "2015-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DEL TRABAJO BUROCRATICO DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL DEL TRABAJO BUROCRÁTICO DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE ENERO DE 2015.]</small>
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 27 de agosto de 2014.
 
@@ -371,7 +371,9 @@ IV. Coordinar todo lo relativo a la atención, distribución y seguimiento de lo
 
 V. Acopio de información institucional para proporcionar al Presidente, todo lo necesario para el desahogo de las audiencias
 
-VI. Dar seguimiento a los acuerdos que se tomen en las reuniones de trabajo interinstucionales (sic);
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2015)</small>
+
+VI. Dar seguimiento a los acuerdos que se tomen en las reuniones de trabajo interinstitucionales;
 
 VII. Recibir, tramitar y despachar la correspondencia oficial del Presidente;
 
@@ -521,7 +523,9 @@ XV. Foliar, sellar, rubricar y asentar los cómputos en los expedientes su cargo
 
 XVI. Proporcionar apoyo jurídico al personal para la realización de sus funciones;
 
-XVII. Asentar en los autos, los acuerdos que se dicten y vigilara que reciban el debido cumplimiento y se despachen los asuntos dentro de los términos de ley, asentando su constancia respectiva en autos;
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2015)</small>
+
+XVII. Asentar en los autos los acuerdos que se dicten, vigilando que reciban el debido cumplimiento y se despachen los asuntos dentro de los términos de ley, asentando su constancia respectiva en autos;
 
 XVIII. Vigilar la conducta de los servidores públicos subalternos, dando cuenta inmediata al Presidente de Sala, respecto de las faltas que observe;
 
@@ -1073,7 +1077,9 @@ IV. Elaborar y revisar el proyecto de Reglamento Interior, así como efectuar la
 
 V. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas, procedimientos administrativos internos y servicios al público;
 
-VI. Nombrar y aprobar, a propuesta que formule el Presidente, a los titulares y servidores públicos de los órganos auxiliares, acordando lo relativo a sus ascensos, licencias, remociones y renuncias, conforme a lo establecido en la fracción VII del artículo 247 del Código de Organización;
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2015)</small>
+
+VI. Nombrar y aprobar, a propuesta que formule el Presidente, a los titulares y servidores públicos de los órganos auxiliares de la Comisión, acordando lo relativo a sus ascensos, licencias, remociones y renuncias; conforme a lo establecido en la fracción V del artículo 267 del Código de Organización;
 
 VII. Dictar las bases generales de organización, funcionamiento, coordinación y supervisión de los Órganos Auxiliares de la propia Comisión;
 
@@ -1097,9 +1103,11 @@ XVI. Las demás que le confieran las disposiciones legales aplicables y el prese
 
 ### Capítulo IV. De su Presidente
 
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2015)</small>
+
 ###### Artículo 72.
 
-Además de las atribuciones que le confiere el artículo 248 del Código de Organización, el Presidente de la Comisión tendrá las facultades y obligaciones siguientes:
+Además de las atribuciones que le confiere el artículo 268 del Código de Organización, el Presidente de la Comisión tendrá las facultades y obligaciones siguientes:
 
 I. Presidir la Comisión, dirigir los debates y preservar el orden y el respeto durante las sesiones;
 
@@ -1311,7 +1319,9 @@ V. Tres faltas injustificadas en forma consecutiva o seis en un lapso de 30 día
 
 Los servidores públicos del Tribunal tendrán derecho cada año a 6 días de permiso de manera escalonada, y 3 días de permiso consecutivos. Los permisos no serán acumulables y tampoco se podrán fusionar con las licencias previstas en el artículo siguiente.
 
-Los Magistrados podrán conceder licencia al personal jurídico, técnico y de confianza adscrito a su ponencia hasta por cinco días con goce de sueldo, debiendo comunicar a la Comisión para los efectos conducentes, en términos de lo dispuesto por el artículo 241 del Código de Organización.
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2015)</small>
+
+Los Magistrados podrán conceder licencia al personal jurídico, técnico y de confianza adscrito a su ponencia hasta por cinco días con goce de sueldo, debiendo comunicar a la Comisión para los efectos conducentes.
 
 Todo servidor público que falte temporalmente al ejercicio de sus funciones deberá contar con el permiso, licencia o incapacidad correspondiente, según el caso.
 
