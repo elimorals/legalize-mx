@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2013-12-20"
+last_updated: "2015-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -779,13 +779,13 @@ El Oficial del Registro Civil a quien se presente una solicitud de matrimonio qu
 
 El matrimonio se celebrará en público, dentro de los ocho días siguientes a la fecha de la solicitud que resulte procedente, en el lugar, día y hora que señale el Oficial del Registro Civil.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2015)</small>
 
 ###### Artículo 104.
 
 En el lugar, día y hora designados para la celebración del matrimonio, deberán estar presentes ante el Oficial del Registro Civil, los pretendientes o su apoderado especial constituido en escritura pública y los testigos que acrediten su identidad.
 
-Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas e interrogarán a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y si están conformes los declarará unidos en nombre de la Ley y de la Sociedad, haciéndoles exhortación sobre la naturaleza y efectos del matrimonio.
+Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas e interrogarán a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, podrá hacérsele saber sobre la igualdad de género, que los efectos del matrimonio recaen de manera igualitaria en ambos cónyuges tanto en el hogar como en la educación de sus descendientes, así mismo les informará sobre la naturaleza del matrimonio. En seguida preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y si están conformes, los declarará unidos en nombre de la Ley y de la Sociedad.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -6881,7 +6881,7 @@ II. Los que permanente o accidentalmente no disfruten de su cabal juicio.
 
 ###### Artículo 1211.
 
-Es válido el testamento hecho por un demente, en un intervalo de lucidez, con tal de que al efecto se observen las prescripciones siguientes: (sic)
+Es válido el testamento hecho por un demente, en un intervalo de lucidez, con tal de que al efecto se observen las prescripciones siguientes:
 
 ###### Artículo 1212.
 
@@ -11309,7 +11309,7 @@ La promesa de contratar, o sea el contrato preliminar de otro, puede ser unilate
 
 ###### Artículo 2121.
 
-La promesa de contrato sólo da (sic) origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido.
+La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido.
 
 ###### Artículo 2122.
 
@@ -15832,3 +15832,9 @@ CUARTO.- El Ejecutivo del Estado procederá a expedir dentro del plazo de 60 dí
 P.O. 20 DE DICIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE ENERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
