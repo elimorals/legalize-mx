@@ -4,7 +4,7 @@ identifier: "LFMZAAH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-05-06"
-last_updated: "2014-06-13"
+last_updated: "2015-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFMZAAH"
 
 LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ENERO DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 6 de mayo de 1972.
 
@@ -142,17 +142,21 @@ Los propietarios de bienes inmuebles declarados monumentos históricos o artíst
 
 Los propietarios de bienes inmuebles colindantes a un monumento, que pretendan realizar obras de excavación, cimentación, demolición o construcción, que puedan afectar las características de los monumentos históricos o artísticos, deberán obtener el permiso del Instituto correspondiente, que se expedirá una vez satisfechos los requisitos que se exijan en el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 7o.
 
-Las autoridades de los Estados, Territorios y Municipios cuando decidan restaurar y conservar los monumentos arqueológicos e históricos lo harán siempre, previo permiso y bajo la dirección del Instituto Nacional de Antropología e Historia.
+Las autoridades de los Estados, Distrito Federal y Municipios cuando decidan restaurar y conservar los monumentos arqueológicos e históricos lo harán siempre, previo permiso y bajo la dirección del Instituto Nacional de Antropología e Historia.
 
 Asimismo dichas autoridades cuando resuelvan construir o acondicionar edificios para que el Instituto Nacional de Antropología e Historia exhiba los monumentos arqueológicos e históricos de esa región, podrán solicitarle el permiso correspondiente, siendo requisito el que estas construcciones tengan las seguridades y los dispositivos de control que fija el Reglamento.
 
 El Instituto Nacional de Antropología e Historia podrá recibir aportaciones de las autoridades mencionadas, así como de particulares para los fines que señala este artículo.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 8o.
 
-Las autoridades de los Estados, Territorios y Municipios podrán colaborar con el Instituto Nacional de Bellas Artes y Literatura para la conservación y exhibición de los monumentos artísticos en los términos que fije dicho Instituto.
+Las autoridades de los Estados, Distrito Federal y Municipios podrán colaborar con el Instituto Nacional de Bellas Artes y Literatura para la conservación y exhibición de los monumentos artísticos en los términos que fije dicho instituto.
 
 ###### ARTICULO 9o.
 
@@ -162,7 +166,7 @@ El Instituto competente proporcionará asesoría profesional en la conservación
 
 El Instituto competente procederá a efectuar las obras de conservación y restauración de un bien inmueble declarado monumento histórico o artístico, cuando el propietario, habiendo sido requerido para ello, no la realice. La Tesorería de la Federación hará efectivo el importe de las obras.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 11.
 
@@ -526,7 +530,7 @@ México, D. F., a 28 de abril de 1972.- Renato Vega Alvarado, D. P.- Vicente Fue
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiocho días del mes de abril de mil novecientos setenta y dos.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahúja.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Hugo B. Margáin.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 23 DE DICIEMBRE DE 1974.
 
@@ -569,5 +573,9 @@ Segundo. Dentro de los noventa días hábiles siguientes a la entrada en vigor d
 D.O.F. 13 DE JUNIO DE 2014.
 
 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 47, 48, 49, 50, 51, 52, 53, 54, SEGUNDO PÁRRAFO Y 55, SE ADICIONA EL ARTÍCULO 53 BIS DE LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ENERO DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
