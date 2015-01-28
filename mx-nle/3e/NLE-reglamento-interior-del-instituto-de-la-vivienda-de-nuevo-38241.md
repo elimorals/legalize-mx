@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-instituto-de-la-vivienda-de-nuevo-38241
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-12"
-last_updated: "2005-05-06"
+last_updated: "2015-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE LA VIVIENDA DE NUEVO LEON
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE NUEVO LEON
+REGLAMENTO INTERIOR DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE LA VIVIENDA DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 28 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 12 de marzo de 2004.
 
@@ -377,7 +379,7 @@ XII. (DEROGADA, P.O. 6 DE MAYO DE 2005)
 
 XIII. (DEROGADA, P.O. 6 DE MAYO DE 2005)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2005)</small>
 
 ###### Artículo 25.
 
@@ -495,8 +497,22 @@ LIC. JUAN MANUEL FERNÁNDEZ GARCÍA
 
 DIRECTOR GENERAL
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 6 DE MAYO DE 2005.
 
 Artículo Único: Las presentes modificaciones al Reglamento Interior del Instituto de la Vivienda de Nuevo León entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ENERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior se expide de conformidad con la aprobación efectuada en la Novena Sesión Extraordinaria de fecha 20 de noviembre de 2014, por parte de la Junta de Gobierno del Instituto de la Vivienda de Nuevo León, y entrará en vigor el día 01 de diciembre de 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el anterior Reglamento Interior del Instituto de la Vivienda de Nuevo León, Publicada en el Periódico Oficial del Estado No. 37, de fecha 12 de Marzo de 2004.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones administrativas determinadas conforme al Reglamento Interno que se abroga, se seguirán aplicando en todo lo que no se oponga al presente Reglamento, asimismo, los procedimientos en trámite, y los demás asuntos que se encuentren en curso o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
