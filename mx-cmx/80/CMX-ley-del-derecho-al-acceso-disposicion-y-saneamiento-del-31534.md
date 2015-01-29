@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2014-11-28"
+last_updated: "2015-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DE AGUAS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -266,7 +266,7 @@ El ejercicio de las facultades que esta Ley confiere al Sistema de Aguas de la C
 
 El Sistema de Aguas contará con un Consejo Directivo, así como con la estructura administrativa que requiera la atención adecuada de sus funciones y que le sea autorizada en los términos del Reglamento Interior de la Administración Pública de Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### Artículo 9º.
 
@@ -290,7 +290,7 @@ El Consejo Directivo celebrará sesiones ordinarias cada tres meses y las extrao
 
 Habrá quórum cuando concurran más de la mitad de las y los integrantes del Consejo Directivo siempre que esté presente su Presidente o suplente y que la mayoría de los asistentes sean representantes de la Administración Pública del Distrito Federal. Las decisiones se tomarán por mayoría de votos de los miembros y en el caso de empate, su Presidente tendrá voto de calidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MAYO 2005)</small>
 
 ###### Artículo 11.
 
@@ -568,7 +568,7 @@ V. La programación y evaluación anual del cumplimiento de metas y del impacto 
 
 VI. La adecuación necesaria de las acciones, proyectos, políticas y subprogramas considerados en los programas a que esta Ley hace referencia, con base en la evaluación permanente y sistemática.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MAYO 2005)</small>
 
 ###### Artículo 23.
 
@@ -616,7 +616,7 @@ XX. Establecer mecanismos necesarios para el tratamiento de aguas residuales, su
 
 XXI. Los demás que establezca el Reglamento y otros ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MAYO 2005)</small>
 
 ###### Artículo 24.
 
@@ -676,7 +676,7 @@ La Secretaría solicitará periódicamente a la autoridad federal toda la inform
 
 En materia de conservación, aprovechamiento sustentable y prevención y control de la contaminación del agua se aplicarán las disposiciones contenidas en el presente Capítulo, sin perjuicio de aquellas establecidas en la Ley Ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MAYO 2005)</small>
 
 ###### Artículo 34.
 
@@ -690,7 +690,7 @@ III. Los residuos sólidos o líquidos producto de procesos industriales u otros
 
 IV. En las barrancas y cauces naturales de aguas pluviales o de manantial cercanos a zonas habitacionales, el Sistema de Aguas deberá construir a ambos lados del cauce, un sistema de drenaje para evitar que se contaminen con aguas residuales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MAYO DE 2006)</small>
 
 ###### Artículo 35.
 
@@ -700,7 +700,7 @@ I. Mantener en buen estado sus instalaciones hidráulicas interiores a fin de ev
 
 II. Los muebles de baño, regaderas, llaves, tuberías y accesorios sanitarios que se distribuyan o comercialicen en el Distrito Federal, deberán reunir los requisitos técnicos especificados por las normas oficiales mexicanas correspondientes;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 III. Con el objeto de hacer más racional el consumo de agua en el Distrito Federal, deberán sustituir accesorios sanitarios ahorradores de agua potable, siempre que reúnan las características siguientes:
 
@@ -730,7 +730,7 @@ IX. En las tuberías de las instalaciones hidráulicas interiores de los predios
 
 X. En ningún caso se podrán instalar bombas que succionen agua en forma directa de la red de distribución;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 XI. Se deberá utilizar agua residual tratada producida en las plantas de tratamiento, libre de compuestos tóxicos y orgánicos patógenos que pongan en peligro la salud, en:
 
@@ -874,7 +874,7 @@ IV. El responsable de la descarga utilice el proceso de dilución de las aguas r
 
 La suspensión será sin perjuicio de la responsabilidad civil, penal o administrativa que resulte, prevista en otros ordenamientos legales.
 
-Cuando exista riesgo de daño o peligro para la población o los ecosistemas, el Sistema de Aguas aplicará las medidas de seguridad que establece ésta Ley, y demás disposiciones legales aplicables; y llevará acabo las acciones y obras necesarias, con cargo a los usuarios o responsables.
+Cuando exista riesgo de daño o peligro para la población o los ecosistemas, el Sistema de Aguas aplicará las medidas de seguridad que establece ésta Ley, y demás disposiciones legales aplicables; y llevará acabo (sic) las acciones y obras necesarias, con cargo a los usuarios o responsables.
 
 ###### Artículo 49.
 
@@ -990,9 +990,13 @@ III. En los demás casos no contemplados, mediante el estudio detallado de la si
 
 En los casos de derivación, deberá contarse previamente con la autorización del propietario del predio, giro o establecimiento derivante, quien estará obligado solidariamente a pagar las cuotas, tarifas y los gastos de instalación que correspondan.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2015)</small>
+
 ###### Artículo 60.
 
 Los propietarios de los predios, giros o establecimientos tendrán la obligación de informar al Sistema de Aguas, el cambio de propietario del predio, giro o establecimiento, o de la baja de estos últimos, dentro de los treinta días siguientes a la fecha en que suceda.
+
+El Sistema de Aguas actualizará el nombre, giro o establecimiento registrado en su sistema derivado de las declaraciones presentadas por los notarios públicos relacionados con las operaciones traslativas de dominio que se hagan constar en escritura pública o protocolización de un acto jurídico en el que conste el cambio de nombre o denominación. Lo anterior sin necesidad de la presentación de anexo alguno o trámite por parte del contribuyente.
 
 ###### Artículo 61.
 
@@ -1260,7 +1264,7 @@ XV. En los demás casos previstos en este y en otros ordenamientos.
 
 ### CAPÍTULO II. EL PAGO DE LOS DERECHOS HIDRÁULICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MAYO 2005)</small>
 
 ###### Artículo 87.
 
@@ -1326,7 +1330,7 @@ Son aguas de jurisdicción del Distrito Federal, aquellas que se localicen en do
 
 La jurisdicción del Distrito Federal de las aguas a que se refiere el párrafo anterior, subsistirá aún cuando las aguas no cuenten con la declaratoria respectiva emitida por el Jefe del Gobierno del Distrito Federal, asimismo subsistirá la propiedad de esas aguas, cuando mediante la construcción de obras, sean desviadas del cauce o vasos originales, o se impida su afluencia a ellos. Las aguas residuales provenientes del uso de las aguas de jurisdicción estatal que converjan al territorio del Distrito Federal tendrán el mismo carácter, siempre y cuando hayan sido asignadas por la federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MAYO 2005)</small>
 
 ###### Artículo 94.
 
@@ -1384,7 +1388,7 @@ VI. Las obras de infraestructura hidráulica financiadas por el Gobierno Federal
 
 Cuando por causas naturales ocurra un cambio definitivo en el cauce de una corriente asignada o en la jurisdicción del Distrito Federal, éste tiene y adquirirá, por ese sólo hecho, la administración del nuevo cauce y de su zona de protección.
 
-Cuando por causas naturales ocurra un cambio definitivo en el nivel de un lago, laguna, presa o corriente asignada o de jurisdicción del Distrito Federal y el agua invada tierras, éstas y la zona de protección correspondiente, seguirán siendo del dominio público de la Nación. Si con el cambio definitivo de dicho nivel se descubren tierras, estas pasarán, previo decreto de desincorporación del domino público al privado del Gobierno del Distrito Federal.
+Cuando por causas naturales ocurra un cambio definitivo en el nivel de un lago, laguna, presa o corriente asignada o de jurisdicción del Distrito Federal y el agua invada tierras, éstas y la zona de protección correspondiente, seguirán siendo del dominio público de la Nación. Si con el cambio definitivo de dicho nivel se descubren tierras, estas pasarán, previo decreto de desincorporación del domino (sic) público al privado del Gobierno del Distrito Federal.
 
 En el caso de que las aguas superficiales tiendan a cambiar de vaso o cauce, los propietarios de los terrenos aledaños tendrán previo aviso al Sistema de Aguas, el derecho de construir las obras de protección necesarias. En caso de cambio consumado tendrán el derecho de construir obras de rectificación, ambas dentro del plazo de un año contando a partir de la fecha del cambio; para proceder a la construcción de defensas o de rectificación bastará que se dé aviso por escrito al Sistema de Aguas, el cual podrá suspender u ordenar la corrección de dichas obras, en el caso de que se causen daños a terceros.
 
@@ -1398,7 +1402,7 @@ Por causas de interés público el Jefe de Gobierno del Distrito Federal, a trav
 
 Previamente se deberán realizar las obras de control y las que sean necesarias para reducir o suprimir la zona de protección o restauración.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MAYO 2005)</small>
 
 ###### Artículo 103.
 
@@ -1406,7 +1410,7 @@ El Jefe de Gobierno del Distrito Federal a través de la Secretaría, podrá sol
 
 Asimismo, podrá solicitar la desincorporación de las zonas federales de los vasos, cauces y depósitos de propiedad de la Nación, que se encuentren urbanizados dentro de la mancha urbana de las poblaciones, pueblos, colonias y barrios del Distrito Federal, para la regularización de la tenencia de la tierra.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MAYO 2005)</small>
 
 ###### Artículo 104.
 
@@ -1474,7 +1478,7 @@ El usuario en los plazos para alegar lo que a su derecho convenga, podrá ofrece
 
 ### CAPÍTULO II. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MAYO 2005)</small>
 
 ###### Artículo 110.
 
@@ -1638,11 +1642,11 @@ La autoridad que conozca del recurso, deberá dictar la resolución que proceda 
 
 Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico, en los términos establecidos en la Ley Orgánica de la Procuraduría.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 ## TITULO NOVENO. DE LA COSECHA DE AGUA DE LLUVIA DEL DISTRITO FEDERAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -1734,7 +1738,7 @@ d) Subprograma de Adquisiciones de Tecnología, Materiales de Construcción, Inf
 
 V. Introducir en todos las políticas, estrategias, programas, presupuestos y acciones del Gobierno del Distrito Federal como eje transversal la cultura del uso racional, ahorro y reuso de agua potable y de construcción en todos sus edificios, oficinas, instalaciones y propiedades, la construcción de obras, infraestructura equipos e instrumentos para la cosecha de agua de lluvia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO II. DE LAS AUTORIDADES Y SU COMPETENCIA
 
@@ -1814,7 +1818,7 @@ I. Contribuir al cumplimiento de las políticas, estrategias, objetivos, instrum
 
 II. Opinar sobre las modificaciones y cancelaciones necesarias del Programa General y sus Subprogramas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO III
 
@@ -1838,7 +1842,7 @@ Las autoridades en materia de cosecha de agua de lluvia deberán garantizar la c
 
 El Programa General y sus Subprogramas aprobados por la Asamblea, mantendrán, asimismo, concordancia con las leyes, planes y programas federales y locales; establecerán las acciones concurrentes; formarán parte del Sistema Nacional de Planeación Democrática; y se deberán inscribir en el Registro de los Planes y Programas, así como en el Registro Público de la Propiedad y del Comercio.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO IV. DEL PROGRAMAS (SIC) GENERAL DE COSECHA DE AGUA DE LLUVIA DEL DISTRITO FEDERAL Y SUS SUBPROGRAMAS
 
@@ -1990,7 +1994,7 @@ VII. Políticas, Estrategias, Líneas Programáticas Principales y Secundarias, 
 
 VIII. Formas y Mecanismos de Coordinación Intra e Interinstitucional en la Administración Pública del Distrito Federal para Garantizar su Cumplimiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO V. DE LA CONSTITUCIÓN, INTEGRACIÓN Y ADMINISTRACIÓN DEL FONDO GENERAL DE APOYO A LA COSECHA DE AGUA DE LLUVIA DEL DISTRITO FEDERAL
 
@@ -2030,7 +2034,7 @@ VIII. Sufragar gastos que sean necesarios, autorizados por el Sistema de Aguas y
 
 IX. Cubrir honorarios fiduciarios y demás gastos que origine la administración y operación del fondo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO VI. DE LOS INSTRUMENTOS Y LA DIFUSIÓN DE LA LEY Y DEL PROGRAMA GENERAL Y SUS SUBPROGRAMAS
 
@@ -2082,7 +2086,7 @@ PRESIDENTE, DIP. TOMÁS LÓPEZ GARCÍA.- SECRETARIO, DIP. CARLOS ORTIZ CHÁVEZ.-
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los nueve días del mes de mayo del dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE SALUD, ASSA EBA CHRISTINA LAURELL.- FIRMA.- EL SECRETARIO DE FINAZAS (SIC), CARLOS MANUEL URZÚA MACÍAS.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS EL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 29 DE ENERO DE 2004.
 
@@ -2181,3 +2185,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 29 DE ENERO DE 2015.
+
+PRIMERO.- Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal y para mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- Dentro de los treinta días hábiles a la promulgación del presente Decreto, la Secretaría de Finanzas y el Sistema de Aguas de la Ciudad de México publicarán en la Gaceta Oficial del Distrito Federal el formato a que hace referencia el presente Decreto.
+
+TERCERO.- Hasta en tanto no se realice el ajuste correspondiente al Arancel de Notarios del Distrito Federal, se estará a lo dispuesto en la fracción V del Artículo 35 de dicho Arancel.
+
+CUARTO.- Las disposiciones contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
