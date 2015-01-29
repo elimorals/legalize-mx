@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2014-12-22"
+last_updated: "2015-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DEL DISTRITO FEDERAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 22 DE DICIEMBRE DE 2014, VÉASE TRANSITORIO ARTÍCULO PRIMERO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2015.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -2615,6 +2613,10 @@ Los contribuyentes deberán solicitar a la autoridad fiscal la declaratoria de e
 En ningún caso la declaratoria de exención que emita la autoridad fiscal podrá hacerse extensiva para el pago de los derechos por los servicios de suministro de agua o cualquier otro servicio previsto en este Código.
 
 La autoridad podrá en todo momento ejercer las facultades de inspección, fiscalización y verificación, para confirmar que la situación jurídica del inmueble por la que se otorgó la exención no ha variado, así como que cumple con los requisitos establecidos en los citados lineamientos, en caso contrario, quedará sin efectos la declaratoria de exención respectiva.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2015)</small>
+
+ARTICULO 133 BIS.- La autoridad fiscal podrá actualizar el nombre del propietario del inmueble registrado en el sistema del impuesto predial, derivado de las declaraciones presentadas por los notarios públicos relacionados con las adquisiciones que se hagan constar en escritura pública o protocolización de un acto jurídico en el que conste el cambio de nombre o denominación, pasados ante la fe de los referidos fedatarios públicos. Lo anterior sin necesidad de la presentación de anexo alguno o trámite por parte del contribuyente.
 
 ### CAPITULO IV. Del Impuesto sobre Loterías, Rifas, Sorteos y Concursos
 
@@ -16189,3 +16191,13 @@ En caso de tener adeudos por este concepto, éstos le serán reducidos en un 100
 A más tardar el treinta de enero de dos mil quince, el Jefe de Gobierno emitirá un programa de Condonación del Impuesto Predial a los propietarios o poseedores de inmuebles ubicados en las colonias: La Era, Fraccionamiento Colonial Iztapalapa, Unidad Habitacional Santa Cruz Meyehualco, Unidad Ermita – Zaragoza, Unidad Habitacional Solidaridad – El Salado, Unidad Fuentes de Zaragoza, Colonia La Joya. Colonia la Joyita, Santa Martha Acatitla, Pueblo de Santa Martha Acatitla, Pueblo de San Sebastián Tecoloxtitlán, Ampliación Santa Martha Acatitla Sur, Ampliación Santa Martha Acatitla Norte, Zona Urbana Ejidal Santa María Aztahuacán, Unidad Habitacional Fuerte de Loreto, Unidad Habitacional Ejército de Oriente I y II, Unidad Habitacional Ejército Constitucionalista Súper Manzanas I, II y III, Unidad Habitacional Cabeza de Juárez, Colonia Desarrollo Urbano Quetzalcóatl, Insurgentes, Lomas de San Lorenzo y Pueblo de Santa Cruz Meyehualco, de la delegación Iztapalapa que presenten daños estructurales ocasionados por grietas y/o hundimientos diferenciados, y cuenten con opinión técnica emitida por la Secretaría de Protección Civil respecto al inmueble al que se le aplicará la condonación.
 
 Los porcentajes de condonación deberán aplicarse en base en la afectación del referido inmueble, determinada por la Secretaría de Protección Civil del Distrito Federal, a través de una opinión técnica que deberá señalar si es un inmueble de bajo, mediano o alto riesgo, y en consideración a ello, se otorgará, el 50%, 75% o 100% de la condonación respectivamente.
+
+G.O. 29 DE ENERO DE 2015.
+
+PRIMERO.- Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal y para mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- Dentro de los treinta días hábiles a la promulgación del presente Decreto, la Secretaría de Finanzas y el Sistema de Aguas de la Ciudad de México publicarán en la Gaceta Oficial del Distrito Federal el formato a que hace referencia el presente Decreto.
+
+TERCERO.- Hasta en tanto no se realice el ajuste correspondiente al Arancel de Notarios del Distrito Federal, se estará a lo dispuesto en la fracción V del Artículo 35 de dicho Arancel.
+
+CUARTO.- Las disposiciones contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
