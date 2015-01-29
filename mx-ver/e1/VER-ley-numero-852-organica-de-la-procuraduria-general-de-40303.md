@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-852-organica-de-la-procuraduria-general-de-40303"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-12"
-last_updated: "2014-10-07"
+last_updated: "2015-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NÚMERO 852 ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 546 ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 29 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2015 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 12 de julio de 2004.
 
@@ -886,3 +888,21 @@ G.O. 7 DE OCTUBRE DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE ENERO DE 2015.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se abroga la Ley número 852 Orgánica de la Procuraduría General de Justicia del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado número 138, en fecha 12 de julio de 2004.
+
+TERCERO. Los recursos financieros, materiales y humanos de la Procuraduría General de Justicia del Estado pasarán a la Fiscalía General. Entretanto se adquieren los recursos materiales necesarios, se seguirá usando la papelería, sellos y demás materiales de trabajo que tengan el nombre y escudos de la Procuraduría General de Justicia del Estado.
+
+CUARTO. Los servidores públicos de la Procuraduría General de Justicia del Estado pasarán a ocupar los cargos equivalentes de la Fiscalía General señalados en la presente Ley, a partir de la entrada en vigor de ésta, con todas sus atribuciones.
+
+QUINTO. Mientras se expide el Reglamento de esta Ley, el Fiscal General especificará, por medio de Acuerdos Generales, las equivalencias que deban existir entre los nombramientos de funcionarios basados en la Ley que se abroga y los derivados de la aplicación de la presente. Los servidores públicos de la Procuraduría General seguirán prestando sus servicios a la Fiscalía General, en las mismas condiciones en que venían haciéndolo, con independencia de la denominación que corresponda a sus actividades.
+
+SEXTO. Dentro del término de noventa días siguientes al inicio de la vigencia de la presente Ley, deberán expedirse los reglamentos que se requieran para su pleno cumplimiento.
+
+SÉPTIMO. En tanto resulte aplicable el Código Nacional de Procedimientos Penales en todos los distritos judiciales de la Entidad, los Fiscales se sujetarán a las disposiciones del Código de Procedimientos Penales que sea aplicable a cada caso.
+
+OCTAVO. En las cabeceras municipales en donde no haya Fiscales, se estará a lo dispuesto en el artículo 50 de esta Ley, hasta en tanto la Fiscalía General cuente con el personal suficiente y presupuesto, para brindar y garantizar el acceso a la justicia en los municipios en donde no se cuente con fiscales, en plazo que no excederá de junio del año 2017.
