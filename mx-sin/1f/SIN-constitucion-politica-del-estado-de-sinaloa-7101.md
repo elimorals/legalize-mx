@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2014-11-28"
+last_updated: "2015-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2015.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -363,9 +363,11 @@ La ley en materia electoral deberá modificarse, promulgarse y publicarse por lo
 
 ## TITULO III. DE LA FORMA DE GOBIERNO Y DIVISION TERRITORIAL
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
+
 ###### Art. 17.
 
-El Estado de Sinaloa adopta para su régimen interior, la forma de gobierno republicano, representativo y popular, teniendo como base de su división territorial, y de su organización política y administrativa, el Municipio libre.
+El Estado de Sinaloa adopta para su régimen interior, la forma de gobierno republicano, representativo, laico y popular, teniendo como base de su división territorial, y de su organización política y administrativa, el Municipio libre.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1983)</small>
 
@@ -3620,3 +3622,9 @@ SEXTO. En tanto el Congreso del Estado expida las reformas a que se refiere el t
 SÉPTIMO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor del presente Decreto, y que deriven de la aplicación de la Ley de Acceso a la Información Pública del Estado de Sinaloa, se sustanciarán ante el nuevo organismo autónomo a que se refiere el artículo 109 Bis B de esta Constitución.
 
 OCTAVO. Los recursos financieros y materiales, así como los trabajadores que actualmente forman parte de la Comisión Estatal para el Acceso a la Información Pública de Sinaloa, serán transferidos al nuevo organismo autónomo que se crea mediante el presente Decreto. Los trabajadores que pasen a formar parte del nuevo organismo autónomo, no serán afectados en sus derechos laborales y de seguridad social.
+
+P.O. 30 DE ENERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
