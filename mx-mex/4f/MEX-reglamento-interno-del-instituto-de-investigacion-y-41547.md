@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-de-investigacion-y-41547"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-27"
-last_updated: "2004-10-27"
+last_updated: "2015-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE INVESTIGACION Y CAPACITACION AGROPECUARIA, ACUICOLA Y FORESTAL DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERNO DEL INSTITUTO DE INVESTIGACION Y CAPACITACION AGROPECUARIA, ACUICOLA Y FORESTAL DEL ESTADO DE MEXICO
+REGLAMENTO INTERNO DEL INSTITUTO DE INVESTIGACIÓN Y CAPACITACIÓN AGROPECUARIA, ACUÍCOLA Y FORESTAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ENERO DE 2015.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 27 de octubre de 2004.
 
@@ -105,7 +105,9 @@ VIII. Autorizar la concertación de los empréstitos que requiera el Instituto.
 
 IX. Aprobar la cuenta anual de ingresos y egresos del Instituto.
 
-X. Acordar los nombramientos y remociones del personal de confianza del Instituto, a propuesta del Director General.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
+
+X. Acordar los nombramientos a propuesta del Director General y conocer las renuncias del personal de confianza de nivel directivo del Instituto.
 
 XI. Aprobar el sistema de control y evaluación del Instituto.
 
@@ -157,7 +159,17 @@ XVII. Diseñar y someter a la autorización del Consejo Directivo el sistema de 
 
 XVIII. Resolver las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento.
 
-XIX. Las demás que le señalen otras disposiciones legales y el Consejo Directivo.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
+
+XIX. Promover acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta el Organismo, así como su ejecución y cumplimiento.
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2015)</small>
+
+XX. Cumplir con las disposiciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en términos de la normatividad aplicable.
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2015)</small>
+
+XXI. Las demás que le señalen otras disposiciones legales y las que le encomiende el Consejo Directivo.
 
 ###### Artículo 11.
 
@@ -205,7 +217,17 @@ X. Someter a la consideración del Director General el ingreso, licencia, promoc
 
 XI. Proporcionar, en el ámbito de su competencia, información, datos o el apoyo técnico que les sea requerido.
 
-XII. Las demás que les señalen otras disposiciones legales y aquellas que les encomiende el Director General.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
+
+XII. Someter a la consideración de su superior inmediato, acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta la unidad administrativa a su cargo, y llevar a cabo su ejecución y cumplimiento.
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2015)</small>
+
+XIII. Cumplir en el ámbito de su competencia, con las disposiciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en términos de la normatividad aplicable.
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2015)</small>
+
+XIV. Las demás que le señalen otras disposiciones legales y las que le encomiende el Director General.
 
 ### CAPITULO V. DE LAS DIRECCIONES Y DE LA CONTRALORIA INTERNA
 
@@ -213,13 +235,17 @@ XII. Las demás que les señalen otras disposiciones legales y aquellas que les 
 
 Corresponde a la Dirección de Apoyo Técnico y Divulgación:
 
-I. Proponer normas y lineamientos para la investigación y transferencia de tecnología agropecuaria y hortoflorícola.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
+
+I. Proponer normas y lineamientos para la capacitación y transferencia de tecnología agropecuaria y hortoflorícola.
 
 II. Coordinar y supervisar las acciones de capacitación y divulgación del Instituto, así como los servicios de laboratorio.
 
 III. Impulsar la integración de comuneros, ejidatarios y pequeños propietarios en los programas de investigación y capacitación que promueva el Instituto.
 
-IV. Otorgar apoyo en materia de análisis, diagnóstico, muestreo y asesoría que soliciten instituciones públicas y privadas, así como técnicos y productores.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
+
+IV. Supervisar la prestación de los servicios de análisis, diagnóstico, muestreo y asesoría que soliciten instituciones públicas y privadas, así como técnicos y productores.
 
 V. Promover y difundir los servicios que presta el Instituto entre productores agropecuarios, acuícolas y forestales; así como con instituciones públicas, privadas y académicas.
 
@@ -251,7 +277,13 @@ VII. Contribuir a la autosuficiencia en la producción de semillas certificadas 
 
 VIII. Coordinar estudios de determinación de necesidades tecnológicas de las especies florícolas y hortícolas requeridas por los productores de la entidad.
 
-IX. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Director General.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
+
+IX. Coordinar y supervisar las acciones de investigación de los servidores públicos adscritos a la unidad administrativa a su cargo.
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2015)</small>
+
+X. Las demás que le señalen otras disposiciones legales y las que le encomiende el Director General.
 
 ###### Artículo 16.
 
@@ -269,17 +301,33 @@ V. Coordinar, consolidar y controlar, en coordinación con las áreas administra
 
 VI. Tramitar los movimientos de altas, bajas, cambios, permisos y licencias del personal del Instituto.
 
-VII. Presidir el Comité de Adquisiciones y Servicios del Instituto, de acuerdo con la normatividad aplicable.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
 
-VIII. Coordinar y, en su caso, ejecutar los procedimientos de adquisición y arrendamiento de bienes, contratación de servicios, obra pública y servicios relacionados con la misma que requiera del Instituto, de acuerdo con la normatividad aplicable.
+VII. Presidir los Comités de Adquisiciones y Servicios, así como el de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones del Instituto, de acuerdo con la normatividad aplicable.
 
-IX. Suscribir los contratos y convenios derivados de los procesos adquisitivos de bienes, servicios, obra pública y servicios relacionados con la misma, con base en la normatividad aplicable, previo acuerdo con el Director General.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
 
-X. Supervisar el registro, mantenimiento y conservación de los bienes muebles e inmuebles asignados a las unidades administrativas del Instituto.
+VIII. Coordinar y en su caso, ejecutar los procedimientos de adquisiciones, enajenaciones y arrendamientos de bienes, contratación de servicios, obra pública y servicios relacionados con la misma que requiera el Instituto, de acuerdo con la normatividad aplicable.
 
-XI. Integrar y mantener actualizados los manuales administrativos del Instituto, en coordinación con la Secretaría de Finanzas, Planeación y Administración.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
 
-XII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Director General.
+IX. Suscribir los contratos y convenios derivados de los procedimientos adquisitivos de bienes, servicios, obra pública y servicios relacionados con la misma, con base en la normatividad aplicable.
+
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
+
+X. Supervisar el registro, mantenimiento y conservación de los bienes muebles e inmuebles asignados a las unidades administrativas del Instituto, así como el control de bienes de consumo, productos y subproductos resultantes de la investigación.
+
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
+
+XI. Integrar y mantener actualizados los manuales administrativos del Instituto, en coordinación con la Secretaría de Finanzas y el Comité de Mejora Regulatoria.
+
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
+
+XII. Coordinar y supervisar las funciones del personal adscrito a la unidad administrativa a su cargo.
+
+> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2015)</small>
+
+XIII. Las demás que le señalen otras disposiciones legales y las que le encomiende el Director General.
 
 ### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -295,7 +343,9 @@ III. Realizar las acciones de control y evaluación a las unidades administrativ
 
 IV. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este Organismo de Control Interno y remitirlos a la Dirección General de Responsabilidades y Situación Patrimonial, para su instrucción y resolución.
 
-V. Ordenar que se presenten las denuncias correspondientes y/o dar vista al ministerio publico cuando el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa, o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos del Organismo.
+> <small>(REFORMADA, G.G. 30 DE ENERO DE 2015)</small>
+
+V. Realizar las denuncias correspondientes y/o dar vista al ministerio público cuando el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa, o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos del Organismo.
 
 VI. Verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos del Organismo, sujetos a esta obligación.
 
@@ -338,3 +388,13 @@ ING. AGR. JAIME SEGURA LAZCANO
 DIRECTOR GENERAL DE ICAMEX Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 30 DE ENERO DE 2015.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.-Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a las establecidas en el presente Acuerdo.
