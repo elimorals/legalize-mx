@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-para-el-desarrollo-integral-56787
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-09-24"
-last_updated: "2009-08-06"
+last_updated: "2015-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56787&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2007-07-06"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MEXICO -- ANTES ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL --
 
-ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL
+ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ENERO DE 2015.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 24 de septiembre de 2007.
 
@@ -60,21 +60,31 @@ I. Promover y prestar servicios de asistencia social;
 
 II. Apoyar el desarrollo de la familia y de la comunidad;
 
-III. Realizar y promover acciones de apoyo educativo y acceso a la cultura para la integración social y de capacitación para el trabajo a los sujetos de la asistencia social;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-IV. Promover e impulsar el sano crecimiento físico, mental, social y cultural de los menores sujetos de la asistencia social;
+III. Realizar y promover acciones de apoyo educativo y acceso a la cultura para la integración social y de capacitación para el trabajo a los sujetos en situación de vulnerabilidad y de la asistencia social;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+IV. Promover e impulsar el sano crecimiento físico, mental, social y cultural de las niñas y niños en situación de vulnerabilidad sujetos de la asistencia social;
 
 V. Fomentar y apoyar a las asociaciones y sociedades civiles y demás entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-VI. Operar establecimientos de asistencia social en beneficio de niñas, niños, adultos mayores y personas con discapacidad en estado de abandono;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-VII. Llevar a cabo acciones en materia de rehabilitación de personas con discapacidad, en centros no hospitalarios;
+VI. Operar establecimientos de asistencia social y desarrollo comunitario en beneficio de niñas, niños, personas con discapacidad en estado de abandono;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+VII. Llevar a cabo acciones de prevención de la discapacidad y de rehabilitación para personas con discapacidad en centros no hospitalarios;
 
 VIII. Realizar estudios e investigaciones sobre asistencia social y discapacidad;
 
-IX. Establecer y operar la Procuraduría de la Defensa de la Niñez y las Familias, como un órgano de defensa y representación de niñas, niños, adultos mayores y personas con discapacidad;
+IX. (DEROGADA, G.O. 30 DE ENERO DE 2015)
 
-X. Prestar asistencia jurídica y de orientación social a niñas, niños, adultos mayores, personas con discapacidad y en general, a toda persona en estado de vulnerabilidad conforme a las Políticas y Lineamientos internos;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+X. Prestar asistencia jurídica y de orientación social a niñas, niños, personas con discapacidad y en general, a toda persona en estado de vulnerabilidad conforme a las Políticas y Lineamientos internos;
 
 XI. Vigilar y controlar a los Consejos Locales de Tutela;
 
@@ -102,11 +112,19 @@ III. Dirección General
 
 IV. Dirección Ejecutiva de Asuntos Jurídicos
 
+> <small>(ADICIONADA, G.O. 30 DE ENERO DE 2015)</small>
+
+IV Bis. Dirección Ejecutiva de la Defensoría de los Derechos de la Infancia;
+
 V. Dirección Ejecutiva de Asistencia Alimentaria
 
-VI. Dirección Ejecutiva de Apoyo a la Niñez
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-VII. Dirección Ejecutiva de Apoyo a Personas con Discapacidad
+VI. Dirección Ejecutiva de Apoyo a la Niñez y Desarrollo Comunitario;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+VII. Dirección Ejecutiva de los Derechos de las Personas con Discapacidad;
 
 > <small>(ADICIONADA, G.O. 6 DE AGOSTO DE 2009)</small>
 
@@ -140,9 +158,11 @@ VI. Las cuotas de recuperación y otros ingresos que reciba por los servicios qu
 
 VII. Los demás bienes, derechos y recursos que por cualquier título legal adquiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO 6.
 
-Las áreas del Organismo conducirán sus actividades en forma programada y de conformidad con las prioridades, políticas y estrategias del Plan Nacional de Desarrollo, del Programa para el Desarrollo del Distrito Federal y los programas sectoriales e institucionales.
+Las áreas del Organismo conducirán sus actividades en forma programada y de conformidad con las prioridades, políticas y estrategias del Plan Nacional de Desarrollo, del Programa General de Desarrollo del Distrito Federal y los programas sectoriales e institucionales.
 
 En la prestación de servicios y en la realización de acciones, el Organismo actuará en coordinación con las dependencias y entidades federales o locales, según la competencia que a éstas otorguen las leyes.
 
@@ -162,7 +182,9 @@ I. Emitir opinión, realizar evaluaciones de desempeño y generar las recomendac
 
 II. Apoyar las actividades del Sistema y formular sugerencias tendientes a su mejor desempeño;
 
-III. Contribuir a la obtención de recursos que permitan el incrementar (sic) del patrimonio del Sistema y el cumplimiento cabal de sus objetivos;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+III. Contribuir a la obtención de recursos que permitan incrementar el patrimonio del Sistema y el cumplimiento cabal de sus objetivos;
 
 IV. Decidir sobre las solicitudes de donación realizadas por personas físicas o morales, que tengan por objeto la asistencia social, y
 
@@ -196,7 +218,9 @@ VIII. La Junta de Asistencia Privada del Distrito Federal; y
 
 IX. Dos Contraloras Ciudadanas o Contralores Ciudadanos.
 
-La Junta de Gobierno podrá invitar a las sesiones a un representante del Sistema Nacional para el Desarrollo Integral de la Familia; a otras dependencias o entidades de la Administración Pública del Distrito federal (sic), así como a particulares cuando se traten asuntos que así lo requieran.
+> <small>(REFORMADO, G.O. 30 DE ENERO DE 2015)</small>
+
+La Junta de Gobierno podrá invitar a las sesiones a un representante del Sistema Nacional para el Desarrollo Integral de la Familia; a otras dependencias o entidades de la Administración Pública del Distrito Federal así como a particulares cuando se traten asuntos que así lo requieran.
 
 El cargo de miembro de la Junta de Gobierno será personal y no podrá desempeñarse por medio del representante. No obstante, cada titular podrá nombrar a su suplente.
 
@@ -242,7 +266,9 @@ La Directora o Director General será designada o designado por el o la titular 
 
 Para ser nombrada o nombrado Directora o Director General se requiere:
 
-I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles; y (sic)
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Haberse distinguido por su probidad, competencia y antecedentes profesionales en el ejercicio de actividades que se vinculen con las atribuciones del Organismo;
 
@@ -290,75 +316,115 @@ XVIII. Las demás que sean necesarias para el ejercicio de las atribuciones ante
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE ASUNTOS JURÍDICOS
 
+> <small>(REFORMADO, G.O. 30 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO 16.
 
-Es competencia de la Dirección Ejecutiva de Asuntos Jurídicos:
+La Dirección Ejecutiva de Asuntos Jurídicos tendrá a su cargo las siguientes atribuciones:
 
-I. Planear, organizar, integrar, dirigir, controlar y ejercer la titularidad de la Procuraduría de la Defensa de la Niñez y las Familias de acuerdo con las disposiciones legales y con las Políticas y Lineamientos Internos;
+I. Asesorar jurídicamente a la Dirección General y a los titulares de las diversas áreas que integran al Organismo, y establecer, definir y difundir los criterios de interpretación y aplicación de las disposiciones legales que atañen al DIF-DF;
 
-II. Vigilar la observancia de las garantías constitucionales que salvaguardan los derechos de las niñas y los niños, las disposiciones contenidas en los tratados internacionales suscritos por nuestro país en los términos del artículo 133 Constitucional y las previstas en la legislación aplicable;
+II. Revisar los convenios y contratos a celebrar por el Organismo, de acuerdo con los requerimientos de las áreas respectivas, así como de los instrumentos jurídicos relativos al propio Organismo;
 
-III. Representar legalmente los intereses de las niñas y los niños, los adultos mayores y las personas con discapacidad ante las autoridades judiciales o administrativas, en todos los trámites y procedimientos relacionados con ellos, de conformidad con las disposiciones legales aplicables en la materia;
+III. Compilar y difundir las normas jurídicas relacionadas con las atribuciones del Organismo y las que norman la asistencia social;
 
-IV. Coordinar los programas de asistencia y patrocinio jurídico, así como de orientación social y psicológica a niñas, niños, adultos mayores y personas con discapacidad, y en general, a toda persona en estado de vulnerabilidad conforme a las Políticas y Lineamientos internos;
+IV. Planear la atención de los juicios y recursos, en los cuales sea parte el Organismo, así como los que se interpongan contra las resoluciones que dicte el mismo;
 
-V. Coordinar programas de prevención, atención y protección a niñas y niños víctimas de violencia familiar, encaminados a detener el contexto de violencia en el que se desarrollan, medir el nivel de riesgo en que se encuentran las niñas y los niños procediendo, según sea el caso, en coadyuvancia con otras instituciones públicas y privadas a salvaguardar la integridad física y mental y el respeto de los derechos de las niñas y los niños, promoviendo relaciones familiares no violentas;
+V. Atender y dar seguimiento a los juicios laborales interpuestos en contra del Organismo;
 
-VI. Controlar, dirigir y coordinar a los Consejos Locales de Tutela;
+VI. Intervenir y representar ante toda clase de autoridades judiciales o administrativas, del fuero común o federal, coordinando las acciones y siguiendo los procesos y procedimientos que competan al Organismo para el cumplimiento de sus objetivos, protección de su patrimonio o en cualquier otro asunto en que tenga interés jurídico; así como interponer las denuncias y querellas ante las Procuradurías General de la República y General de Justicia del Distrito Federal y de Entidades Federativas en su caso, sobre hechos que pudieran ser constitutivos de delito y que afecten al Organismo;
 
-VII. Vigilar el ejercicio de la tutela de las niñas, niños y personas con discapacidad;
+VII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes previos y justificados en materia de amparo en los que sea parte el Sistema;
 
-VIII. Coordinar la atención de los reportes de maltrato, abandono, descuido o negligencia, explotación sexual comercial que sean objeto las niñas, los niños, los adultos mayores y las personas con discapacidad por parte de sus padres, tutores, de quien los tenga bajo su cuidado y atención y de cualquier persona, para su investigación y tratamiento social, y de ser procedente interponer las denuncias correspondientes;
+VIII. Coadyuvar con la Dirección Ejecutiva de Administración en los actos que requieran la regularización, adquisición y enajenación de bienes inmuebles del Organismo, de acuerdo con los requerimientos que se realicen para tal efecto;
 
-IX. Ordenar la realización de visitas domiciliarias y el envío de citatorios para investigar la veracidad de los reportes de maltrato o violación de los derechos de las niñas, los niños, los adultos mayores y personas con discapacidad y requerir la presencia de éstos, así como de sus familiares, tutores y quien los tenga a su cargo, para fines de investigación y tratamiento social;
+IX. Expedir copias certificadas de los documentos existentes en sus archivos, únicamente previo cotejo con los originales, así como a los que tenga acceso con motivo del desarrollo de sus funciones;
 
-X. Determinar la custodia provisional de niñas y niños que se encuentren en estado de abandono y desamparo, iniciando los procedimientos legales correspondientes ante las autoridades competentes, dejando a salvo los derechos de las partes;
+X. Promover la participación del personal del área en los programas de capacitación y adiestramiento diseñados para atender las necesidades de formación que se detecten;
 
-XI. Comparecer ante el Juez de lo Familiar cuando sea necesaria su intervención para rescatar a niñas, niños, adultos mayores y personas con discapacidad que se encuentren en riesgo grave inminente, expresándole los motivos y fundamentos correspondientes, solicitando en su caso la protección de la fuerza pública;
+XI. Coordinar y definir el apoyo jurídico necesario para el cumplimiento de los programas que se realizan en el Organismo;
 
-XII. Comparecer ante el órgano jurisdiccional, en los casos en que corresponda o se le designe para ejercer la tutela, guarda y custodia, pérdida de patria potestad y adopción de niñas y niños, sin contravenir las disposiciones legales aplicables en la materia;
+XII. Proporcionar los reportes e informes del avance y resultados de las áreas a su cargo, así como la información, dictámenes técnicos y cooperación que le sean requeridos, tanto por las áreas del Organismo, como por otras dependencias y entidades de la Administración Pública del Distrito Federal siempre y cuando sean del ámbito de su competencia y se cumplan las políticas que al respecto se establezcan;
 
-XIII. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones en favor de la atención, defensa y protección de los derechos de niñas y niños;
+XIII. Expedir constancias a las Asociaciones, Sociedades Civiles e Instituciones de Asistencia Privada sin fines de lucro, que corroboren la actividad de asistencia social que tengan su domicilio fiscal en el Distrito Federal;
 
-XIV. Asistir legalmente a las niñas y los niños ante la autoridad judicial para hacer valer su derecho de audiencia;
+XIV. Coordinar el desarrollo de las investigaciones jurídico documentales que permitan proveer las herramientas legales necesarias para el ejercicio de las facultades de la Dirección General;
 
-XV. Establecer, de acuerdo con los lineamientos y directrices emitidas por la Dirección General del Organismo y con apego a la legislación aplicable, las Políticas y Lineamientos de asistencia social a su cargo;
+XV. Emitir opinión respecto de los proyectos de iniciativas de Ley o de modificación a las ya establecidas presentadas a la Asamblea Legislativa que tengan relación con las atribuciones a cargo del Sistema;
 
-XVI. Asesorar jurídicamente a la Dirección General y a las y los titulares de las diversas áreas que integran al Organismo, y establecer, definir y difundir los criterios de interpretación y aplicación de las disposiciones legales que atañen al DIF-DF;
+XVI. Emitir opinión respecto de los reglamentos, decretos, acuerdos, programas, circulares y demás disposiciones jurídicas relacionadas con las atribuciones del Sistema;
 
-XVII. Formular y revisar los convenios y contratos a celebrar por el Organismo, de acuerdo con los requerimientos de las áreas respectivas y llevar el registro de los mismos, así como de los instrumentos jurídicos relativos al propio Organismo;
+XVII. Coadyuvar a solicitud de las áreas que integran el organismo, en la elaboración de acuerdos, circulares, lineamientos, protocolos, directrices, decretos, programas y demás instrumentos normativos necesarios para la operación del Sistema;
 
-XVIII. Compilar y difundir las normas jurídicas relacionadas con las atribuciones del Organismo y las que norman la asistencia social;
+XVIII. Fungir como enlace con los organismos públicos de Derechos Humanos, para la atención de las quejas y recomendaciones que emitan al Sistema;
 
-XIX. Planear la atención de los juicios y recursos, en los cuales sea parte el Organismo, así como los que se interpongan contra las resoluciones que dicte el mismo;
+XIX. Coadyuvar con las áreas que integran el Sistema, en la atención de las quejas y recomendaciones emitidas por los Organismos Públicos de Derechos Humanos. Así como, en la atención de las disposiciones en materia de derechos humanos;
 
-XX. Intervenir ante toda clase de autoridades judiciales o administrativas, del fuero común o federal, coordinando las acciones y siguiendo los procesos y procedimientos que competan al Organismo para el cumplimiento de sus objetivos, protección de su patrimonio o en cualquier otro asunto en que tenga interés jurídico; así como las denuncias y querellas ante las Procuradurías General de la República y General de Justicia del Distrito Federal y de Entidades Federativas en su caso, sobre hechos que pudieran ser constitutivos de delito y que afecten al Organismo;
+XX. Consolidar con las organizaciones sociales, civiles y académicas, una relación de corresponsabilidad entre gobierno y sociedad, a fin de garantizar la implementación de acciones para la ejecución de programas sociales; y,
 
-XXI. Llevar a cabo los actos que requieran la regularización, adquisición y enajenación de bienes inmuebles del Organismo;
+XXI. Las demás que le confiera la Dirección General y las disposiciones aplicables.
 
-XXII. Expedir copias certificadas de los documentos existentes en los archivos del Organismo, únicamente previo cotejo con los originales;
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 30 DE ENERO DE 2015)</small>
 
-XXIII. Promover la participación del personal del área en los programas de capacitación y adiestramiento diseñados para atender las necesidades de formación que se detecten;
+### CAPITULO V BIS. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE LA DEFENSORÍA DE LOS DERECHOS DE LA INFANCIA
 
-XXIV. Coordinar y definir el apoyo jurídico necesario para el cumplimiento de los programas que se realizan en el Organismo;
+> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2015)</small>
 
-XXV. Emitir opinión legal sobre los donativos que el Organismo otorgue o reciba, con el propósito de llevar su control y lograr un aprovechamiento racional de los mismos;
+ARTÍCULO 16 BIS. La Dirección Ejecutiva de la Defensoría de los Derechos de la Infancia tendrá a su cargo las siguientes atribuciones:
 
-XXVI. Difundir las políticas y lineamientos de asistencia social a las unidades operativas y administrativas bajo su responsabilidad;
+I. Representar legalmente los intereses de las niñas y los niños, ante las autoridades judiciales o administrativas, en todos los trámites y procedimientos relacionados con ellos, de conformidad con las disposiciones legales aplicables en la materia;
 
-XXVII. Proporcionar los reportes e informes del avance y resultados de las áreas a su cargo, así como la información, cooperación y dictámenes técnicos que le sean requeridos, tanto por las áreas del Organismo, como por otras dependencias y entidades de la Administración Pública, siempre y cuando sean del ámbito de su competencia y se cumplan las políticas que al respecto se establezcan; y (sic)
+II. Implementar un sistema de planeación, seguimiento, monitoreo y evaluación de las políticas públicas y de los programas destinados a la niñez, así como de la aplicación de las leyes en la materia;
 
-> <small>(REFORMADA, G.O. 17 DE JULIO DE 2008)</small>
+III. Impulsar programas para la promoción, defensa y restitución de los derechos de las niñas y los niños, conforme a los principios de supervivencia y desarrollo, no discriminación, interés superior y protección integral. Así como promover programas específicos, para atender los casos de niñas y niños privados de cuidado parental o que se encuentren en una situación en que sus derechos humanos hayan sido o puedan ser vulnerados;
 
-XXVIII. Coordinar, asesorar y dar seguimiento al programa de creación de sociedades cooperativas;
+IV. Coordinar los programas de orientación, asistencia y patrocinio jurídico, así como de orientación social y psicológica a niñas y niños, a sus progenitores, familiares, tutores o quienes los tengan bajo su cuidado, conforme a la Ley, las políticas y lineamientos internos y demás disposiciones aplicables;
 
-> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2008)</small>
+V. Vigilar la observancia de las disposiciones constitucionales que salvaguardan los derechos de las niñas y los niños, así como las contenidas en los tratados internacionales suscritos por nuestro país en los términos del artículo 133 Constitucional y las previstas en la legislación aplicable;
 
-XXIX. Las demás que le confiera la Dirección General y las disposiciones aplicables.
+VI. Coordinar programas de equidad de género, prevención, atención y protección a niñas y niños víctimas de violencia familiar, encaminados a detener el contexto de violencia en el que se desarrollan, medir el nivel de riesgo en que se encuentran y según sea el caso, coadyuvar con otras instituciones públicas y privadas a salvaguardar la integridad física, mental y el respeto de sus derechos;
+
+VII. Controlar, dirigir y coordinar a los Consejos Locales de Tutelas; así como promover las acciones legales necesarias para salvaguardar la integridad de la población en estado de vulnerabilidad que así lo requiera;
+
+VIII. Realizar las acciones correspondientes para crear y mantener un sistema de información sobre la niñez, que incluya la situación de las niñas y los niños en instituciones públicas o privadas y en centros donde trabajen, vivan o concurran, brindar el acompañamiento de los organismos dedicados a la infancia;
+
+IX. Emitir recomendaciones y lineamientos para armonizar las acciones y programas de las diferentes dependencias que atiendan a la infancia; en términos de la Ley de los Derechos de las Niñas y Niños en el Distrito Federal;
+
+X. Integrar la lista de personas con aptitud legal y moral para desempeñar la tutela en términos de la Ley y de las demás disposiciones aplicables;
+
+XI. Vigilar el ejercicio de la tutela de las niñas y niños;
+
+XII. Coordinar la atención de los reportes de maltrato, abandono, descuido o negligencia, que sean objeto las niñas, los niños, por parte de sus padres, tutores, de quien los tenga bajo su cuidado y atención y de cualquier persona, para su investigación y tratamiento social, y de ser procedente interponer las denuncias correspondientes;
+
+XIII. Ordenar la realización de visitas domiciliarias y el envío de citatorios para investigar la veracidad de los reportes de maltrato o violación de los derechos de las niñas y los niños y requerir la presencia de éstos, así como de sus familiares, tutores y quien los tenga a su cargo, para fines de investigación y tratamiento social;
+
+XIV. Ejercer la custodia provisional de niñas y niños que se encuentren en estado de abandono y desamparo, iniciando los procedimientos legales correspondientes ante las autoridades competentes;
+
+XV. Promover ante el Ministerio Público y Juez de lo Familiar según corresponda su intervención para rescatar a niñas y niños que se encuentren en riesgo, expresándole los motivos y fundamentos correspondientes;
+
+XVI. Asistir a las niñas o niños y comparecer ante el órgano jurisdiccional en los casos en que por ley corresponda o se le designe para ejercer la tutela, guarda y custodia, pérdida de patria potestad y adopción de niñas y niños, sin contravenir las disposiciones legales aplicables en la materia;
+
+XVII. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones en favor de la atención, defensa y protección de los derechos de niñas y niños;
+
+XVIII. Establecer de acuerdo con los lineamientos y directrices emitidas por la Dirección General del Organismo y con apego a la legislación aplicable, las Políticas y Lineamientos de la Defensoría;
+
+XIX. Planear, organizar, integrar, dirigir, supervisar, evaluar y dar seguimiento de acuerdo a las normas y los lineamientos establecidos, a la atención a niñas y niños en riesgo y/o situación de abandono y/o de calle;
+
+XX. Elaborar programas específicos de detección, prevención y atención de las diversas problemáticas que enfrenta la niñez en riesgo y situación de calle del Distrito Federal a nivel social, familiar, escolar, jurídico y recreativo;
+
+XXI. Promover relaciones institucionales e interinstitucionales, estudios y análisis para fortalecer las acciones de los programas de la niñez en riesgo y en situación de calle;
+
+XXII. Difundir y promover una cultura de respeto a los derechos de la niñez en lo general y en particular, aquellos que se encuentren en riesgo y situación de calle;
+
+XXIII. Coordinar el desarrollo del Comité de Adopciones así como la supervisión y vigilancia de los cuidados alternativos de las niñas y niños incorporados a un hogar provisional o sustituto, en términos de la Ley y demás disposiciones aplicables;
+
+XXIV. Coordinar la realización de estudios de trabajo social y psicológicos a petición de la autoridad competente y en términos de la Ley y demás disposiciones aplicables en la materia;
+
+XXV. Expedir copias certificadas de los documentos existentes en sus archivos, únicamente previo cotejo con los originales; y,
+
+XXVI. Las demás que le confiera la Dirección General y las disposiciones aplicables.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE ASISTENCIA ALIMENTARIA
-
-### CAPÍTULO VII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE APOYO A LA NIÑEZ
 
 ###### ARTÍCULO 17.
 
@@ -384,57 +450,41 @@ VIII. Proponer a la Dirección General la celebración de convenios o acuerdos i
 
 IX. Someter a consideración de la Dirección General criterios de aplicación general en materia alimentaria en el campo de acción del Organismo;
 
-> <small>(REFORMADA, G.O. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-X. Turnar a las entidades participantes y a la Dirección Ejecutiva de Administración la información proporcionada por las vocalías de desayunos escolares y comités de los Espacios de Alimentación, Encuentro y Desarrollo (EAED) sobre las cuotas de recuperación; y
+X. Turnar a las entidades participantes y a la Dirección Ejecutiva de Administración la información proporcionada por las vocalías de desayunos escolares sobre las cuotas de recuperación;
+
+> <small>(ADICIONADA, G.O. 30 DE ENERO DE 2015)</small>
+
+X Bis. Expedir copias certificadas de los documentos existentes que obran en sus archivos, únicamente previo cotejo con los originales; y,
 
 XI. Las demás que le confiera la Dirección General y las disposiciones aplicables.
 
-### CAPÍTULO VII BIS. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE NIÑOS TALENTO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE ENERO DE 2015)</small>
 
-> <small>(ADICIONADO, G.O. 6 DE AGOSTO DE 2009)</small>
+### CAPÍTULO VII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE APOYO A LA NIÑEZ Y DESARROLLO COMUNITARIO
 
-###### ARTÍCULO 18 Bis.
-
-A la Dirección Ejecutiva de Niños Talento, le corresponden las siguientes funciones:
-
-I.- Planear, organizar, integrar, dirigir, supervisar, evaluar y dar seguimiento de acuerdo a las normas y los lineamientos establecidos, en el Programa de Niñ@s Talento.
-
-II.- Establecer, de acuerdo a los lineamientos y directrices fijados por la Dirección General, las políticas orientadas a promover, fomentar y operar un sistema de estímulos que permitan el desarrollo de los talentos de las niñ@s de 6 a 13 años de edad, con un promedio de 9.0 de calificación en adelante que vivan en el Distrito Federal y que estudien en escuelas públicas en el Distrito Federal, mediante la impartición de actividades y clases extraescolares.
-
-III.- Promover y fomentar en los beneficiarios de los programas de l@s niñ@s Talento, una cultura de innovación, orientada a la mejora en la convivencia y de las condiciones de vida de los habitantes de la ciudad de México.
-
-IV.- Propiciar la formación de l@s niñ@s Talento con los valores de la equidad de género, la vida en libertad, la identidad de nuestra cultura, y la conciencia ecológica.
-
-V.- Establecer estrategias que permitan apoyar y acompañar el desarrollo de l@s niñ@s a lo largo de toda su formación académica en los niveles de educación primaria y secundaria.
-
-VI.- Elaborar e implementar programas y mecanismos para reconocer la dedicación y esfuerzo de los niños y niñas con mejores calificaciones.
-
-VII.- Fomentar la integración familiar, la motivación permanente, el gusto por las artes, la cultura y los deportes, así como la sana y productiva convivencia en las familias de l@s niñ@s Talento beneficiados, a través de organización de eventos de toda índole, que contribuyan al logro de los objetivos de sus programas.
-
-VIII.- Proponer a la Dirección General las medidas de modernización y simplificación, para mejorar la Eficiencia en la administración de los recursos y la eficacia en el cumplimiento de sus objetivos.
-
-IX.- Proporcionar dentro del ámbito de su competencia la información, cooperación y dictámenes técnicos que le sean requeridos, tanto por las áreas del Organismo, como por las dependencias y entidades de la administración pública federal y local de acuerdo a las políticas que al efecto se establezcan.
-
-X.- Promover relaciones institucionales e interinstitucionales para fortalecer las acciones de los programas de Niñ@s Talento.
-
-XI.- Difundir y promover en las familias de los niños de la ciudad de México una cultura de Excelencia Académica, competitividad y compromiso social.
-
-XII.- Definir los perfiles requeridos del personal adecuado para la operación de los programas; y definir los criterios de selección de tutores para la impartición de las disciplinas.
-
-XIII.- Fungir como enlace en las resoluciones o acuerdos del consejo del Programa de Niñ@s Talento.
-
-XIIV.- Las demás que le confiera la Dirección General y las disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ENERO DE 2015)</small>
 
 ###### ARTÍCULO 18.
 
-A la Dirección Ejecutiva de Apoyo a la Niñez, le corresponden las siguientes funciones:
+La Dirección Ejecutiva de Apoyo a la Niñez y Desarrollo Comunitario tendrá a su cargo las siguientes atribuciones:
 
 I. Establecer, de acuerdo a los lineamientos y directrices fijados por la Dirección General, las políticas orientadas a promover y fomentar el mejoramiento de las condiciones sociales del individuo, la familia y la comunidad, primordialmente en zonas de vulnerabilidad y/o marginación social en el Distrito Federal;
 
-II. Planear, organizar, integrar, dirigir, supervisar, evaluar y dar seguimiento de acuerdo a las normas y los lineamientos establecidos, a la promoción del bienestar y la participación comunitaria y familiar; atención a niñas, niños y adultos en riesgo y/o situación de abandono y/o de calle; promoción del desarrollo integral de la niñez; y becas escolares para niñas y niños que se encuentran en condiciones de pobreza y vulnerabilidad social, además de (sic)
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-III. los (sic) que establezcan para dar cumplimiento a la atención de sujetos de asistencia social (sic);
+II. Planear, organizar, integrar, dirigir, supervisar, evaluar y dar seguimiento, de acuerdo a las normas y los lineamientos establecidos a la promoción del bienestar, la participación comunitaria y familiar; además de los que se establezcan para dar cumplimiento a la atención de sujetos de asistencia social;
+
+> <small>(ADICIONADA, G.O. 30 DE ENERO DE 2015)</small>
+
+II Bis. Planear, dirigir, supervisar y dar seguimiento, de conformidad con las normas y los lineamientos establecidos, a los programas de becas y apoyos económicos para la atención, promoción y desarrollo integral para niñas, niños que se encuentran en condiciones de pobreza y vulnerabilidad social;
+
+> <small>(ADICIONADA, G.O. 30 DE ENERO DE 2015)</small>
+
+II Ter. Planear, coordinar, integrar, supervisar, evaluar y dar seguimiento al programa interinstitucional primera infancia de 0 a 6;
+
+III. (DEROGADA, G.O. 30 DE ENERO DE 2015)
 
 IV. Coordinar con otras direcciones de la institución, los apoyos técnicos requeridos para el cumplimiento de los programas institucionales de su competencia;
 
@@ -448,93 +498,203 @@ VIII. Fomentar la integración y organización de grupos de participación ciuda
 
 IX. Establecer coordinación con las instituciones locales en el ámbito de salud, para promover acciones de promoción, prevención, educación y atención. Asimismo, cumplir con las normas y programas que conjuntamente se emiten con los grupos interinstitucionales de salud;
 
-X. Promover, coordinar, supervisar y evaluar los programas de Promoción de la Salud en las unidades de servicios de esta Dirección, con el fin de atender a las familias a través de acciones de promoción y atención de la salud integral, de salud para la mujer y la familia, de salud sexual y reproductiva, vacunación universal, control de enfermedades de las vías respiratorias, gastrointestinales, crónico degenerativas y odontología preventiva;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+X. Promover, coordinar, supervisar y evaluar los programas de Promoción de la Salud en las unidades de servicios de esta Dirección, con el fin de atender a las familias a través de acciones de fomento y atención de la salud integral, de salud para la mujer y la familia, de salud sexual y reproductiva, vacunación universal, control de enfermedades de las vías respiratorias, gastrointestinales, crónico degenerativas y odontología;
 
 XI. Coordinar y supervisar la participación del Organismo en los programas emergentes en caso de desastre con el propósito de proporcionar asistencia a damnificados y a personas de escasos recursos, sumando esfuerzos con los sectores oficiales que intervengan;
 
 XII. Promover y fomentar la preservación de las tradiciones populares, mediante programas y actividades cívicoculturales en las áreas y unidades operativas bajo su responsabilidad;
 
-XIII. Establecer y coordinar acciones que contribuyan a fomentar y fortalecer la cultura, el deporte y la recreación en los niños, las niñas y los jóvenes primordialmente;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-XIV. Vigilar el apego de las áreas y unidades operativas de medicina preventiva a las normas que en el ámbito de salud se emitan;
+XIII. Establecer y coordinar acciones que contribuyan a fomentar y fortalecer la cultura, el deporte y la recreación en el individuo, la familia y la comunidad, primordialmente en zonas de vulnerabilidad y/o marginación social en el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+XIV. Vigilar el apego de las áreas y unidades operativas de medicina de primer nivel a las normas que en el ámbito de salud se emitan;
 
 XV. Proponer a la Dirección General las medidas de modernización y simplificación administrativa, para mejorar la eficiencia en la administración de los recursos y la eficacia en el cumplimiento de sus objetivos;
 
 XVI. Proporcionar dentro del ámbito de su competencia la información, cooperación y dictámenes técnicos que le sean requeridos, tanto por las áreas del Organismo, como por las dependencias y entidades de la administración pública federal y local de acuerdo a las políticas que al efecto se establezcan;
 
-XVII. Elaborar programas específicos de detección, prevención y atención de las diversas problemáticas que enfrenta la niñez en riesgo y situación de calle del Distrito Federal a nivel social, familiar, escolar, jurídico y recreativo;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-XVIII. Promover relaciones institucionales e interinstitucionales para fortalecer las acciones de los programas de la niñez en riesgo y en situación de calle;
+XVII. Dirigir, coordinar, controlar, asesorar y dar seguimiento al programa de creación de sociedades cooperativas;
 
-XIX. Difundir y promover una cultura de respeto a los derechos de la niñez en general y en particular de la niñez en riesgo y situación de calle;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-XX. Definir los perfiles requeridos del personal adecuado para la operación de los programas; y (sic)
+XVIII. Expedir copias certificadas de los documentos existentes en sus archivos, únicamente previo cotejo con los originales;
+
+XIX. (DEROGADA, G.O. 30 DE ENERO DE 2015)
+
+XX. Definir los perfiles requeridos del personal adecuado para la operación de los programas; y
 
 > <small>(REFORMADA, G.O. 17 DE JULIO DE 2008)</small>
 
-XXI. Promover y fomentar Programas emergentes que permitan abastecer de agua potable para beneficiar a familias de escasos recursos que radican en zonas marginadas, carezcan de este servicio público en forma permanente o lo reciban en forma intermitente, en coordinación con el Sistema de Aguas del Distrito Federal; y (sic)
+XXI. Promover y fomentar Programas emergentes que permitan abastecer de agua potable para beneficiar a familias de escasos recursos que radican en zonas marginadas, carezcan de este servicio público en forma permanente o lo reciban en forma intermitente, en coordinación con el Sistema de Aguas del Distrito Federal; y
 
-> <small>(REFORMADA, G.O. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-XXII. Las demás que le confiera la Dirección General y las disposiciones aplicables;
+XXII. Brindar las facilidades y apoyo necesario para que la Dirección Ejecutiva de Niñas y Niños Talento lleve a cabo las actividades extraescolares y eventos correspondientes al Programa de Niñas y Niños Talento; y,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADA, G.O. 30 DE ENERO DE 2015)</small>
 
-XXIII. Brindar las facilidades y apoyo necesario para que la Dirección Ejecutiva de Niños Talento lleve a cabo las actividades extraescolares y eventos correspondientes al Programa Niños Talento.
+XXIII. Las demás que le confiera la Dirección General y las disposiciones aplicables.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE ENERO DE 2015)</small>
 
-### CAPÍTULO VIII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE APOYO A LAS PERSONAS CON DISCAPACIDAD
+### CAPÍTULO VII BIS. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE NIÑAS Y NIÑOS TALENTO
 
-### CAPÍTULO IX. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE AGOSTO DE 2009)</small>
+ARTÍCULO 18 BIS. A la Dirección Ejecutiva de Niñas y Niños Talento, le corresponden las siguientes funciones:
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+I.- Planear, organizar, integrar, dirigir, supervisar, evaluar y dar seguimiento de acuerdo a las normas y los lineamientos establecidos para el fortalecimiento del Programa de Niñas y Niños Talento;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+II.- Establecer de acuerdo a los lineamientos y directrices fijados por la Dirección General, las políticas orientadas a promover, fomentar y operar un sistema de estímulos que permitan el desarrollo de los Talentos de las y los niños de 6 a 15 años de edad, con un promedio de 9.0 de calificación en adelante, que vivan en el Distrito Federal y que estudien en escuelas públicas en el Distrito Federal, mediante la impartición de actividades y clases extraescolares;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+III.- Promover y fomentar en los beneficiarios de los programas de las Niñas y Niños Talento, una cultura de innovación, orientada a la mejora en la convivencia y de las condiciones de vida de los habitantes de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+IV.- Establecer estrategias que permitan apoyar y acompañar el desarrollo de las niñas y los niños a lo largo de su formación académica en los niveles de educación primaria y secundaria;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+V.- Propiciar la formación de las Niñas y Niños Talento con los valores de la equidad de género, la vida en libertad, la identidad de nuestra cultura y la conciencia ecológica;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+VI.- Elaborar e implementar programas y mecanismos para reconocer la dedicación y esfuerzo de las niñas y niños con mejores calificaciones;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+VII.- Fomentar la integración familiar, la motivación permanente, el gusto por las artes, la cultura y los deportes, así como la sana y productiva convivencia en las familias de las niñas y niños, beneficiados por los programas del Sistema, a través de organización de eventos de toda índole, que contribuyan al logro de los objetivos de sus programas;
+
+> <small>(ADICIONADA, G.O. 6 DE AGOSTO DE 2009)</small>
+
+VIII.- Proponer a la Dirección General las medidas de modernización y simplificación, para mejorar la Eficiencia en la administración de los recursos y la eficacia en el cumplimiento de sus objetivos.
+
+> <small>(ADICIONADA, G.O. 6 DE AGOSTO DE 2009)</small>
+
+IX.- Proporcionar dentro del ámbito de su competencia la información, cooperación y dictámenes técnicos que le sean requeridos, tanto por las áreas del Organismo, como por las dependencias y entidades de la administración pública federal y local de acuerdo a las políticas que al efecto se establezcan.
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+X.- Promover relaciones institucionales e interinstitucionales para fortalecer las acciones de los programas de Niñas y Niños Talento;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+XI.- Difundir y promover en las familias de las niñas y niños de la Ciudad de México una cultura de excelencia académica, competitividad y compromiso social;
+
+> <small>(ADICIONADA, G.O. 6 DE AGOSTO DE 2009)</small>
+
+XII.- Definir los perfiles requeridos del personal adecuado para la operación de los programas; y definir los criterios de selección de tutores para la impartición de las disciplinas.
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+XIII.- Fungir como enlace en las resoluciones o acuerdos del Consejo del Programa de Niñas y Niños Talento;
+
+> <small>(ADICIONADA, G.O. 30 DE ENERO DE 2015)</small>
+
+XIII Bis.- Expedir copias certificadas de los documentos existentes en sus archivos, únicamente previo cotejo con los originales; y,
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+XIV.- Las demás que le confiera la Dirección General y las disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE ENERO DE 2015)</small>
+
+### CAPÍTULO VIII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ENERO DE 2015)</small>
 
 ###### ARTÍCULO 19.
 
-A la Dirección Ejecutiva de Apoyo a Personas con Discapacidad, le corresponde la atención de los siguientes asuntos:
+A la Dirección Ejecutiva de los Derechos de las Personas con Discapacidad, le corresponde las siguientes atribuciones:
 
-I. Planear, organizar, integrar, dirigir y controlar de acuerdo a las normas y lineamientos establecidos, los programas de desarrollo e inclusión de las Personas con Discapacidad, y los que se establezcan para dar cumplimiento a la atención de sujetos de asistencia social;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-II. Establecer de acuerdo a los lineamientos y directrices emitidas por la Dirección General y, en apego a la normatividad aplicable, las políticas del Organismo en materia de atención a población con discapacidad;
+I. Planear, organizar, integrar, dirigir y controlar de acuerdo a las normas y lineamientos establecidos, los programas para la garantía de los Derechos Humanos de las Personas con Discapacidad, y los que se establezcan para dar cumplimiento a las obligaciones que competan en la materia con base en la perspectiva de género;
 
-III. Promover mecanismos de concertación y de coordinación en materia de asistencia social que permitan vincular esfuerzos, evitar duplicidades y canalizar adecuada e integralmente los apoyos a la población con discapacidad;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-IV. Promover, instrumentar y ejecutar mecanismos para fortalecer la oferta de servicios, así como el establecimiento y desarrollo de programas interinstitucionales integrales, de asistencia social en beneficio de las personas con discapacidad de escasos recursos;
+II. Establecer de acuerdo a los lineamientos y directrices emitidas por la Dirección General y, en apego a la normatividad aplicable, las políticas del Organismo en materia de atención para la garantía de los derechos de las personas con discapacidad;
 
-V. Impulsar y fomentar el desarrollo de las capacidades de las personas con discapacidad, de sus familias y de la comunidad para que contribuyan a hacer frente por sí mismos a sus condiciones de adversidad;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-VI. Establecer el servicio de información sobre la Asistencia Social de personas con discapacidad en el Distrito Federal que incorpore datos relevantes sobre las instituciones públicas y privadas dedicadas a la Asistencia de este sector de la población;
+III. Promover, instrumentar y ejecutar mecanismos para mejorar la oferta de servicios, así como el establecimiento y desarrollo de programas interinstitucionales integrales, de políticas y programas sociales, así como vincular esfuerzos, evitar duplicidades y promover adecuada e integralmente los apoyos y servicios dirigidos a las personas con discapacidad, para fortalecer y garantizar sus derechos;
 
-VII. Impulsar políticas de cooperación con organizaciones sociales, apoyar y fomentar las acciones de las instituciones de asistencia privada y promover el establecimiento de instrumentos que permitan apoyar, coordinar y estimular la participación de los particulares en beneficio de las personas con discapacidad de escasos recursos;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-VIII. Impulsar y promover el reconocimiento, ejercicio y defensa de los derechos de las personas con discapacidad, y establecer centros de información y denuncias de abuso y violación a tales derechos;
+IV. Coordinar la atención de los reportes de maltrato, abandono, descuido o negligencia, de que sean objeto las personas con discapacidad por parte de sus padres, tutores, o de quien los tenga bajo su cuidado y atención, para su investigación y tratamiento social, y de ser procedente interponer las denuncias correspondientes;
 
-IX. Impulsar la creación de fondos mixtos, programas de trabajos comunitarios, campañas de concienciación ciudadana, la adecuación de la infraestructura y de los servicios, entre otras acciones que den mayor eficiencia y fomentan (sic) la generación de mayores recursos en apoyo de la población con discapacidad y sus familias;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+V. Impulsar y fomentar la autonomía de las personas con discapacidad, promoviendo actividades que permitan el desarrollo de sus capacidades;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+VI. Establecer el sistema de información sobre los derechos de las personas con discapacidad en el Distrito Federal con base en indicadores sustentados en datos confiables;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+VII. Impulsar políticas de cooperación con organizaciones sociales, apoyar y fomentar las acciones de las instituciones de asistencia privada y promover el establecimiento de instrumentos que permitan apoyar, coordinar y estimular la participación ciudadana en la defensa y promoción de los derechos de las personas con discapacidad en particular las de escasos recursos;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+VIII. Impulsar y promover el reconocimiento, ejercicio y defensa de los derechos de las personas con discapacidad, y establecer centros de información y denuncias de abuso y violación a sus derechos;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+IX. Impulsar la creación de fondos mixtos, programas de trabajos comunitarios, campañas de sensibilización, la adecuación de la infraestructura y de los servicios y acciones eficientes que fomenten la generación de mayores recursos en apoyo al ejercicio de los derechos de la población con discapacidad y de sus familias;
 
 X. Proponer y promover modificaciones a leyes, reglamentos y procedimientos, y emitir recomendaciones de interés general para mejorar la organización y prestación de los servicios asistenciales, así como para garantizar los derechos y consideración social de las personas con discapacidad;
 
 XI. Participar en la coordinación de acciones que realicen los diferentes sectores en beneficio de la población afectada por casos de desastre;
 
-XII. Elaborar e impulsar políticas, programas y acciones específicos para la ampliación de cobertura de servicios y la atención e integración social y familiar de la población con discapacidad de escasos recursos, que oriente la canalización de los recursos y esfuerzos en materia de asistencia social;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-XIII. Realizar y apoyar estudios e investigaciones y promover el intercambio de experiencias en materia de asistencia social para personas con discapacidad que permitan la determinación de sujetos, grupos, áreas geográficas y servicios de carácter prioritario;
+XII. Elaborar e impulsar políticas, programas y acciones específicos que amplíen y mejoren la cobertura de servicios, la accesibilidad, la movilidad y la vida independiente de las personas con discapacidad principalmente las de escasos recursos;
 
-XIV. Realizar y promover acciones de apoyo educativo y acceso a la cultura para la integración social y capacitación para el trabajo de las personas con discapacidad;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
 
-XV. Promover e impulsar el sano crecimiento físico, mental, social y cultural de los menores con discapacidad;
+XIII. Realizar y apoyar estudios e investigaciones y promover el intercambio de experiencias en materia de derechos de personas con discapacidad que permitan hacer más eficientes las acciones dirigidas a las diferentes problemáticas que enfrenta esta población;
 
-XVI. Operar establecimientos de asistencia social en beneficio de personas con discapacidad, en estado de abandono o en riesgo de situación de calle;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+XIV. Realizar y promover acciones para la inclusión educativa, cultural y laboral de las personas con discapacidad;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+XV. Promover e impulsar el ejercicio de los derechos de niñas y niños con discapacidad en forma integral;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2015)</small>
+
+XVI. Administrar unidades operativas de atención a personas con discapacidad desamparadas de cuidados familiares;
 
 XVII. Llevar a cabo acciones en materia de rehabilitación de personas con discapacidad, en centros no hospitalarios;
 
 XVIII. Asistir legalmente a las personas con discapacidad ante la autoridad judicial para hacer valer sus derechos; y
 
+> <small>(ADICIONADA, G.O. 30 DE ENERO DE 2015)</small>
+
+XVIII Bis. Expedir copias certificadas de los documentos existentes en sus archivos, únicamente previo cotejo con los originales; y,
+
 XIX. Las demás que le confieran la Dirección General y las disposiciones legales vigentes.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE AGOSTO DE 2009)</small>
 
-### CAPÍTULO X. DE LAS ATRIBUCIONES DE LA CONTRALORÍA INTERNA
+### CAPÍTULO IX. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 20.
 
@@ -646,7 +806,7 @@ XLVIII. Expedir previo cotejo, copias certificadas de los documentos que obren e
 
 XLIX. Las demás que le confiera la Dirección General y las disposiciones legales vigentes.
 
-### CAPÍTULO XI. DE LAS ATRIBUCIONES COMUNES DE LAS O LOS DIRECTORES
+### CAPÍTULO X. DE LAS ATRIBUCIONES DE LA CONTRALORÍA INTERNA
 
 ###### ARTÍCULO 21.
 
@@ -714,7 +874,7 @@ XVII. Formular propuestas de mejoras regulatorias y administrativas tendientes a
 
 XVIII. Dar contestación a las opiniones y propuestas de las Contraloras o Contralores Ciudadanos que sean remitidos por la Dirección Ejecutiva de Contraloría Ciudadana;
 
-XIX. Vigilar que la entidad cumpla con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y su Reglamento; y (sic)
+XIX. Vigilar que la entidad cumpla con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y su Reglamento; y
 
 > <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
 
@@ -728,15 +888,15 @@ XXI. Ordenar y realizar visitas e inspecciones a las instalaciones de los provee
 
 XXII. Las demás atribuciones que se deriven de este Estatuto, así como las que le instruya el titular de la Contraloría General, el titular de la Dirección General de Contralorías Internas en Entidades; y las que le otorguen otros ordenamientos jurídicos ó administrativos.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE AGOSTO DE 2009)</small>
 
-### CAPÍTULO XII. DE LAS ATRIBUCIONES DE LA COMISARIA O COMISARIO
+### CAPÍTULO XI. DE LAS ATRIBUCIONES COMUNES DE LAS O LOS DIRECTORES
 
 ###### ARTÍCULO 22.
 
 Las Directoras o Directores Ejecutivos y Coordinadoras o Coordinadores serán auxiliados en el desempeño de sus funciones por las o los Directores, Subdirectoras o Subdirectores, Jefas o Jefes de Departamento, Líderes Coordinadores de Proyectos " A " y "C", y en general, por el personal que ellos requieran.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 23.
 
@@ -762,7 +922,7 @@ VIII. Mantener permanentemente informado a la Directora o Director General de la
 
 IX. Las demás que les confieran, respectivamente, la Dirección General y las disposiciones legales aplicables.
 
-### CAPÍTULO XIII. DE LA SUPLENCIA DE LAS Y LOS SERVIDORES PÚBLICOS
+### CAPÍTULO XII. DE LAS ATRIBUCIONES DE LA COMISARIA O COMISARIO
 
 ###### ARTÍCULO 24.
 
@@ -802,7 +962,7 @@ XII. Rendir anualmente un informe sobre los estados financieros, con base en el 
 
 XIII. Las demás inherentes a su función, así como las que expresamente le señale la Contraloría General del Distrito Federal.
 
-### CAPÍTULO XIV. DE LAS MODIFICACIONES AL ESTATUTO
+### CAPÍTULO XIII. DE LA SUPLENCIA DE LAS Y LOS SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 27.
 
@@ -813,6 +973,8 @@ La Directora o Director General podrá nombrar una encargada o encargado de desp
 ###### ARTÍCULO 28.
 
 La ausencia de las o los Directores Ejecutivos serán suplidas por las y los servidores públicos de la jerarquía inmediata inferior, dentro del área de cada responsabilidad.
+
+### CAPÍTULO XIV. DE LAS MODIFICACIONES AL ESTATUTO
 
 ###### ARTÍCULO 29.
 
@@ -834,7 +996,7 @@ Ciudad de México a seis de julio de 2007.
 
 C. JESÚS SALVADOR VALENCIA GUZMAN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 G.O. 17 DE JULIO DE 2008.
 
@@ -847,3 +1009,19 @@ PRIMERO. Las reformas del presente Estatuto entrará (sic) en vigor al día sigu
 G.O. 6 DE AGOSTO DE 2009.
 
 PRIMERO. El presente aviso entrará en vigor al día siguiente de su firma.
+
+G.O. 30 DE ENERO DE 2015.
+
+PRIMERO.- El presente aviso y sus reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se deroga cualquier disposición que se oponga al contenido de las presentes reformas.
+
+TERCERO.- Las unidades administrativas del Sistema realizarán las adecuaciones y gestiones ante las instancias correspondientes, para la modificación del Manual Administrativo del Organismo y demás instrumentos que sean necesarios para el adecuado desarrollo de sus atribuciones.
+
+CUARTO.- En tanto se expiden los manuales a que hace mención este Estatuto, se aplicarán los actuales en lo que no se opongan al mismo, los titulares de las Direcciones Ejecutivas quedarán facultados para resolver los asuntos en el ámbito de su competencia.
+
+QUINTO.- Las unidades administrativas del Organismo que se transferirán a la Dirección Ejecutiva de la Defensoría de los Derechos de la Infancia y la de Apoyo a la Niñez y Desarrollo Comunitario, iniciarán su operación con el Área competente a partir de la entrada en vigor del presente aviso.
+
+SEXTO.- Las unidades administrativas cuyas funciones se transfieren en virtud de las presentes modificaciones, deberán formalizar cualquier tipo de acto incluyendo actas de entrega-recepción, que sean necesarios para los traspasos, transferencias, sustituciones y demás acciones que correspondan, de acuerdo con las nuevas funciones y estructura aprobada en un plazo no mayor de 15 días a partir de la entrada en vigor del presente aviso.
+
+SÉPTIMO.- Las referencias que se hagan a las unidades administrativas que cambian de denominación y/o adscripción por virtud de las presentes modificaciones, así como las atribuciones que se les otorgan en otros instrumentos, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a las presentes modificaciones.
