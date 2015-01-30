@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-presupuesto-de-egresos-del-estado-de-san-luis-105417"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2014-12-20"
+last_updated: "2015-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSÍ, PARA EL EJERCICIO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL UNO DE ENERO DE 2015.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de diciembre de 2014.
 
@@ -201,9 +201,11 @@ Los recursos asignados a capítulos de inversión no son objeto de reducción pa
 
 En lo referente a la aprobación de recursos para la realización de obra pública en la que, según la normatividad aplicable, sea procedente la aplicación de gastos indirectos, éstos sólo podrán ser ejercidos cuando el ejecutor presente el desglose pormenorizado a nivel naturaleza de gasto, y su liberación procederá con la proporcionalidad que guarde su respectivo avance físico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2015)</small>
+
 ###### ARTÍCULO 20.
 
-Con el objeto (sic) fortalecer el desarrollo económico del Estado y en apego al Plan Estatal de Desarrollo 2009-2015, las economías y recursos extraordinarios del presente ejercicio serán destinados en la promoción de la inversión local, nacional y extranjera que fomente la apertura de empresas, a fin de incrementar la creación de fuentes de empleo, impulsando el establecimiento de la micro, pequeña, mediana y gran industria, destinando dichos recursos a apoyos financieros, incentivos y/o estímulos, apegados a los respectivos lineamientos y reglas de operación que regulen dichos recursos, y preferentemente al impulso del Fideicomiso Público de Inversión y Administración para el Desarrollo Económico del Estado de San Luis Potosí.
+Con el objeto de fortalecer el desarrollo económico del Estado y en apego al Plan Estatal de Desarrollo 2009-2015, las economías y recursos extraordinarios del presente ejercicio podrán ser destinados a la promoción de la inversión local, nacional y extranjera que fomente la apertura de empresas, a fin de incrementar la creación de fuentes de empleo, impulsando el establecimiento de la micro, pequeña, mediana y gran industria, destinando dichos recursos a apoyos financieros, incentivos y/o estímulos, apegados a los respectivos lineamientos y reglas de operación que regulen dichos recursos y, preferentemente, al impulso del Fideicomiso Público de Inversión y Administración para el Desarrollo Económico del Estado de San Luis Potosí.
 
 Si durante el transcurso del ejercicio existiera una reorientación en las prioridades estatales, o una disminución de recursos, la Secretaría, en coordinación con la entidad o dependencia ejecutora, podrá cancelar o modificar algunas de las obras, servicios o acciones del programa respectivo, siempre y cuando no presenten obligaciones contractuales con terceros o personas beneficiadas, y no se pongan en riesgo de incumplimiento las metas establecidas en el PED o en el programa sectorial que corresponda.
 
@@ -380,3 +382,11 @@ Lic. Cándido Ochoa Rojas
 (Rúbrica)
 
 > <small>N. DE E. VÉASE ANEXOS EN EL P.O. DE 20 DE DICIEMBRE DE 2014, PÁGINAS DE LA 35 A LA 149.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE ENERO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
