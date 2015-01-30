@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-seguridad-social-del-57812
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-27"
-last_updated: "2009-12-11"
+last_updated: "2015-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 30 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de noviembre de 2007.
 
@@ -1413,8 +1415,28 @@ EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN Y FINANZAS
 
 GUSTAVO ADOLFO GONZÁLEZ ESTRADA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 11 DE DICIEMBRE DE 2009.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE ENERO DE 2015.
+
+Inicio de vigencia
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto de Seguridad Social del Estado de Guanajuato, contenido en el Decreto Gubernativo número 61, publicado en el Periódico Oficial del Gobierno del Estado, número 190, Segunda Parte, de fecha 27 de noviembre del 2007.
+
+Referencia a la Ley de Contrataciones Públicas
+
+###### ARTÍCULO TERCERO.
+
+En tanto cobra vigencia la Ley de Contrataciones Públicas para el Estado de Guanajuato, las remisiones que en la vigente Ley se efectúan a esta, se entenderán hechas a la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato.
