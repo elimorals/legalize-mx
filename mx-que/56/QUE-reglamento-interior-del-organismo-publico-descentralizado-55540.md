@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-del-organismo-publico-descentralizado-55540
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-11"
-last_updated: "2011-12-30"
+last_updated: "2015-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "SERVICIOS DE SALUD DEL ESTADO DE QUERÉTARO" (SESEQ)
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO "SERVICIOS DE SALUD DEL ESTADO DE QUERÉTARO" (SESEQ), PUBLICADO EN EL P.O. DE 30 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 11 de mayo de 2007.
 
@@ -574,3 +576,13 @@ P.O. 30 DE DICIEMBRE DE 2011.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 30 DE ENERO DE 2015.
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga el Reglamento Interior del Organismo Público Descentralizado denominado "Servicios de Salud del Estado de Querétaro" (SESEQ) publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" de fecha 11 de mayo del 2007, así como el Decreto por el cual se reforman y adicionan diversas disposiciones del Reglamento Interior del Organismo Público Descentralizado denominado "Servicios de Salud del Estado de Querétaro" (SESEQ) publicado el 30 de diciembre de 2011 en el órgano de difusión oficial precitado.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+Artículo Cuarto. Para todos los efectos administrativos, presupuestares y legales a que haya lugar, la Dirección de Protección contra Riesgos Sanitarios de SESEQ, sustituirá a la Dirección de Fomento y Regulación Sanitaria en el cumplimiento de las obligaciones y el ejercicio de los derechos derivados y de los que se deriven en forma posterior a la entrada en vigor del presente Reglamento, incluyendo la tramitación y resolución de los procedimientos iniciados antes de la entrada en vigor del presente ordenamiento.
