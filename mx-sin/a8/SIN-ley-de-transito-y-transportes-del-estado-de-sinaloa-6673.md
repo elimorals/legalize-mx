@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "2012-02-06"
+last_updated: "2015-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -1453,13 +1453,13 @@ Al resolver la autoridad los supuestos anteriores, valorará la calidad, eficaci
 
 No habiendo transporte específico de turismo, los concesionarios o permisionarios podrán convencionalmente establecer tarifas cuando se trate de viajes de recreo.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 245.
 
-Los estudiantes de escuelas públicas de los niveles medio superior, superior y equivalentes, recibirán en el transporte urbano, suburbano y foráneo, descuentos del cincuenta por ciento de la tarifa autorizada, los días hábiles de lunes a viernes, durante el ciclo escolar; este descuento se aplicará también los días sábados en que los estudiantes deban asistir a los planteles educativos.
+Los estudiantes de escuelas públicas de los tipos básico, medio superior y superior, recibirán en el transporte urbano, suburbano y foráneo, descuentos del cincuenta por ciento de descuento de la tarifa autorizada los días hábiles de lunes a viernes, durante el ciclo escolar. Este descuento se aplicará también los días sábados en que los estudiantes deban asistir a los planteles educativos.
 
-La aplicación de los descuentos se hará previa identificación con credencial vigente expedida por la institución educativa pública correspondiente.
+La aplicación de los descuentos se hará previa identificación, mediante Tarjeta Inteligente de Identidad Estudiantil, que será expedida en los Centros de Credencialización autorizados mediante Decreto emitido por el Titular del Poder Ejecutivo del Estado.
 
 ###### ARTICULO 246.
 
@@ -1767,7 +1767,7 @@ EL DIRECTOR GENERAL DE TRÁNSITO Y TRANSPORTES
 
 Lic. Fernando Díaz de la Vega
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 13 DE AGOSTO DE 1997.
 
@@ -1840,3 +1840,9 @@ El Ejecutivo del Estado contará con un plazo de 180 días para realizar las mod
 ###### ARTÍCULO TERCERO.
 
 En tanto no transcurra el plazo establecido en el artículo anterior las autoridades competentes no podrán infraccionar a las personas que no cumplan con lo establecido en el presente decreto.
+
+P.O. 30 DE ENERO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
