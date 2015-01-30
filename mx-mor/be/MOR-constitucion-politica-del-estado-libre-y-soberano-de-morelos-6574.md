@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2014-12-24"
+last_updated: "2015-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2015.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -127,6 +127,10 @@ VI. La conciencia de su identidad étnica y su derecho al desarrollo deberá ser
 VII. En los términos que establece la Constitución Federal y demás leyes de la materia, dentro de los ámbitos de competencia del Estado y los Municipios, los pueblos y comunidades indígenas tendrán derecho y obligación de salvaguardar la ecología y el medio ambiente, así como preservar los recursos naturales que se encuentren ubicados en sus territorios, en la totalidad del hábitat que ocupan o disfrutan, además tendrán preferencia en el uso y disfrute de los mismos;
 
 VIII. Se garantizará a los indígenas el efectivo acceso a la justicia, tanto municipal como estatal. Para garantizar este derecho en la fase preventiva o ejecutiva en los juicios y procedimientos en que sean parte, individual o colectivamente, se proveerá lo necesario en materia de prevención, procuración, administración de justicia y ejecución de sanciones y medidas de seguridad, tomando en consideración sus usos, costumbres y especificidades culturales;
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2015)</small>
+
+En el caso de los miembros de pueblos o comunidades indígenas, se les nombrará intérprete que tenga conocimiento de su lengua y cultura, aun cuando hablen el español.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -320,9 +324,9 @@ Los derechos y prerrogativas del ciudadano se suspenden:
 
 I.- Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones que esta Constitución impone al Ciudadano morelense. Esta suspensión durará un año sin perjuicio de las otras penas que por el mismo hecho u omisión le señale la Ley.
 
-II.- Por estar sujeto a proceso un funcionario público, por delito común u oficial, desde que se le declare culpable o con lugar a formación de causa, hasta que fuere absuelto o extinga la pena.
+II.- (DEROGADA, P.O. 30 DE ENERO DE 2015)
 
-III.- Por encontrarse procesado criminalmente por delito que merezca pena corporal, desde la fecha del auto de formal prisión, o el que lo declare sujeto a proceso, hasta que conforme a la Ley se le libre de pena.
+III.- (DEROGADA, P.O. 30 DE ENERO DE 2015)
 
 IV.- Por estar prófugo de la justicia, desde que se dicte orden de aprehensión hasta que prescriba la acción penal.
 
@@ -676,7 +680,7 @@ b) El tiempo en medios de comunicación establecido como derecho de los Partidos
 
 c) Los recursos públicos prevalecerán sobre los de origen privado, los cuales se fijarán conforme a la normatividad en la materia.
 
-V. La organización de las elecciones, es una función estatal que se realiza a través Organismo (sic) Público Electoral de Morelos, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos.
+V. La organización de las elecciones, es una función estatal que se realiza a través (sic) Organismo Público Electoral de Morelos, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos.
 
 Las elecciones locales estarán a cargo del Organismo Público Electoral de Morelos y podrá delegarla al Instituto Nacional de Elecciones en los términos de esta Constitución y la Ley en la materia.
 
@@ -920,15 +924,17 @@ Para el caso de que el Congreso dejare de aprobar, en los términos de esta Cons
 
 En los casos en que, de acuerdo a lo previsto en este Artículo, el Presupuesto de Egresos del Estado deba continuar vigente no obstante haber sido aprobado para el ejercicio fiscal anterior, las partidas correspondientes al pago de obligaciones derivadas de empréstitos y de contratos de colaboración público privada que hubiesen sido autorizadas en el Presupuesto anterior se ajustarán en su monto, de manera automática, en función de las obligaciones contraídas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
 
-La falta de presentación oportuna, en los plazos que señala esta Constitución de las cuentas públicas del Estado y de los Municipios, así como de la Ley de Ingresos y el Presupuesto de Egresos del Estado y de las Leyes de Ingresos de los Municipios, dará lugar a la aplicación de las sanciones previstas en la leyes respectivas, independientemente de las revisiones e inspecciones que realice la Auditoría Superior de Fiscalización del Congreso del Estado y de las responsabilidades que se deriven o puedan derivarse por el ejercicio de los recursos públicos.
+La falta de presentación oportuna, en los plazos que señala esta Constitución de las cuentas públicas del Estado y de los Municipios, así como de la Ley de Ingresos y el Presupuesto de Egresos del Estado y de las Leyes de Ingresos de los Municipios, dará lugar a la aplicación de las sanciones previstas en la (sic) leyes respectivas, independientemente de las revisiones e inspecciones que realice la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado y de las responsabilidades que se deriven o puedan derivarse por el ejercicio de los recursos públicos.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para la revisión de la cuenta pública, el Congreso del Estado se apoyará en la Auditoría Superior de Fiscalización, en todo caso, cualquier entidad privada que ejerza recursos públicos será sujeta de fiscalización en los términos de esta Constitución y la Ley.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
+
+Para la revisión de la cuenta pública, el Congreso del Estado se apoyará en la Entidad Superior de Auditoría y Fiscalización, en todo caso, cualquier entidad privada que ejerza recursos públicos será sujeta de fiscalización en los términos de esta Constitución y la Ley.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -1176,17 +1182,19 @@ XXV.- Excitar a los Poderes de la Federación para que presten protección al Es
 
 XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXVII.- Recibir de los Diputados, Gobernador, Fiscal General del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo, Magistrado del Tribunal Unitario de Justicia para Adolescentes, Consejeros del Instituto Morelense de Información Pública y Estadística y Auditor Superior de Fiscalización, la protesta a que se refiere el artículo 133 de esta Constitución;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+XXVII.- Recibir de los Diputados, Gobernador, Fiscal General del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo, Magistrado del Tribunal Unitario de Justicia para Adolescentes, Consejeros del Instituto Morelense de Información Pública y Estadística y Auditor General de la Entidad Superior de Auditoría y Fiscalización, la protesta a que se refiere el artículo 133 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXVIII.- Examinar la cuenta pública que trimestralmente deberán presentar los Poderes del Estado, misma que turnará a la Auditoría Superior de Fiscalización, en la que se revisará el ingreso y la aplicación de los recursos, se verificará su congruencia con el Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar, en su caso, con el programa financiero y los informes de gobierno.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
 
-Así mismo, examinar la cuenta pública que deberán presentar los Ayuntamientos en el plazo fijado por el artículo 32 de esta Constitución, en la que se revisará la aplicación de los recursos, se verificará su congruencia con el Plan Municipal de Desarrollo, en su caso con el programa financiero y los informes de gobierno; estas últimas acciones por conducto de la Auditoría Superior de Fiscalización.
+XXVIII.- Examinar la cuenta pública que trimestralmente deberán presentar los Poderes del Estado, misma que turnará a la Entidad Superior de Auditoría y Fiscalización, en la que se revisará el ingreso y la aplicación de los recursos, se verificará su congruencia con el Plan Estatal de Desarrollo, los Programas Operativos Anuales sectorizados y por Dependencia u Organismo Auxiliar, en su caso, con el programa financiero y los informes de gobierno.
+
+Así mismo, examinar la cuenta pública que deberán presentar los Ayuntamientos en el plazo fijado por el artículo 32 de esta Constitución, en la que se revisará la aplicación de los recursos, se verificará su congruencia con el Plan Municipal de Desarrollo, en su caso con el programa financiero y los informes de gobierno; estas últimas acciones por conducto de la Entidad Superior de Auditoría y Fiscalización;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1200,13 +1208,17 @@ XXX.- Conceder licencias para separarse de sus respectivos cargos a los diputado
 
 XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, del Magistrado del Tribunal Unitario de Justicia para Adolescentes, del Fiscal General del Estado, de los Consejeros del Instituto Morelense de Información Pública y Estadística, del Auditor Superior de Fiscalización; del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los Órganos Superiores de los Organismos Constitucionales Autónomos;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, del Magistrado del Tribunal Unitario de Justicia para Adolescentes, del Fiscal General del Estado, de los Consejeros del Instituto Morelense de Información Pública y Estadística, del Auditor General de la Entidad Superior de Auditoría y Fiscalización; del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los Órganos Superiores de los Organismos Constitucionales Autónomos;
 
-XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, del Tribunal Unitario de Justicia para Adolescentes, al Fiscal General del Estado y al Auditor Superior de Fiscalización, siempre que su ausencia exceda de treinta días;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
+
+XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, del Tribunal Unitario de Justicia para Adolescentes, al Fiscal General del Estado y al Auditor General de la Entidad Superior de Auditoría y Fiscalización, siempre que su ausencia exceda de treinta días;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1252,27 +1264,27 @@ XLII.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delito
 
 XLIII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia del Estado y las que se susciten entre el Tribunal Superior de Justicia y el Instituto Morelense de Información Pública y Estadística, siempre que no tengan el carácter de controversias que deba conocer la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
 
-XLIV.- Designar, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, al Auditor Superior de Fiscalización del Congreso del Estado.
+XLIV.- Designar, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, al Auditor General de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 XLV.- Dictar las resoluciones o acuerdos económicos que estime pertinentes, relativos a su régimen interior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
 
-XLVI.- Expedir leyes o decretos a fin de crear organismos descentralizados, empresas de participación o fideicomisos públicos, sean estatales o municipales y sus modificaciones. Así mismo, para integrar con el voto de la tercera parte de los Diputados, las comisiones que procedan para la investigación del funcionamiento de los citados organismos auxiliares estatales o municipales o de cualquier dependencia de la administración central de ambos órdenes de gobierno dando a conocer los resultados al Ejecutivo o al Ayuntamiento, sin demérito de la intervención que corresponda en su caso a la Auditoría Superior de Fiscalización.
+XLVI.- Expedir leyes o decretos a fin de crear Organismos Descentralizados, empresas de participación o fideicomisos públicos, sean estatales o municipales y sus modificaciones. Así mismo, para integrar, con el voto de la tercera parte de los Diputados, las comisiones que procedan para la investigación del funcionamiento de los citados organismos auxiliares estatales o municipales o de cualquier dependencia de la administración central de ambos órdenes de gobierno, dando a conocer los resultados al Ejecutivo o al Ayuntamiento, sin demérito de la intervención que corresponda en su caso a la Entidad Superior de Auditoría y Fiscalización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
 
-XLVII.- Por conducto de la Auditoría Superior de Fiscalización, practicar toda clase de visitas, inspecciones, revisiones y auditorías de seguimiento, operación, cumplimiento, financieras y de evaluación, a las cuentas públicas del Gobierno del Estado y de los Municipios, verificando su congruencia con el Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo, en su caso con los programas financieros o de deuda pública, determinando las responsabilidades que en su caso procedan.
+XLVII.- Por conducto de la Entidad Superior de Auditoría y Fiscalización, practicar toda clase de visitas, inspecciones, revisiones y auditorías de seguimiento, operación, cumplimiento, financieras y de evaluación, a las cuentas públicas del Gobierno del Estado y de los Municipios, verificando su congruencia con el Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo, los Programas Operativos Anuales sectorizados y por Dependencia u Organismo, en su caso con los Programas Financieros o de deuda pública, determinando las responsabilidades que en su caso procedan;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1378,7 +1390,9 @@ d).- Cuando reiteradamente abuse de su Autoridad en perjuicio de la Comunidad y 
 
 e).- Por omisión reiterada en el cumplimiento de sus funciones;
 
-f).- Cuando se le dicte auto de formal prisión por delito doloso, y,
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
+
+f).- Cuando se le dicte auto de formal prisión o vinculación a proceso por delito doloso, sancionado con pena privativa de libertad, y
 
 g).- En los casos de incapacidad física o legal permanente.
 
@@ -1758,9 +1772,9 @@ XIV.- Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos
 
 XV.- En el ámbito de su competencia, expedir y certificar títulos profesionales de acuerdo con los requisitos que establezcan las leyes respectivas.
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
 
-XVI.- Publicar y hacer publicar las leyes federales.
+XVI.- Publicar y hacer cumplir las Leyes y demás disposiciones federales a que este obligado;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2050,9 +2064,9 @@ V.- Atender, en sus términos, la legislación relativa a la atención de vícti
 
 VI.- Intervenir en los procedimientos judiciales en que tenga competencia, atendiendo las reglas del debido proceso y, en su caso, en los asuntos judiciales que interesen a la sociedad y a las personas a quienes la ley conceda especial protección, en la forma y términos que la misma determine;
 
-> <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
 
-VII.- Bajo pena de responsabilidad, remitir al Juez competente, dentro de los plazos que señale la Ley, a quienes tengan entre doce años cumplidos y menos de dieciocho años de edad y se les atribuya la realización de una conducta tipificada como delito por las leyes penales, garantizando los derechos fundamentales que reconocen la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por nuestro país para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. El Ministerio Público especializado en ningún caso podrá detener ni sujetar a investigación a las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, y
+VII.- Bajo pena de responsabilidad, remitir al Juez competente, dentro de los plazos que señale la Ley, a quienes tengan entre doce años cumplidos y menos de dieciocho años de edad y se les atribuya la realización de una conducta tipificada como delito por las leyes penales, garantizando los derechos fundamentales que reconocen la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por nuestro país para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos; al efecto de que sean sometidos al procedimiento previsto en la normativa aplicable en materia de justicia para adolescentes. El Ministerio Público especializado en ningún caso podrá detener ni sujetar a investigación a las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, estas solo serán sujetas a rehabilitación y asistencia social.
 
 > <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
 
@@ -2152,19 +2166,41 @@ Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos con auto
 
 No se hará ningún gasto que no esté comprendido en el Presupuesto o autorizado por el Congreso. La infracción de esté artículo constituye en responsable a la Autoridad que ordene el gasto y al empleado que lo ejecute.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES PRIMER Y SEGUNDO PÁRRAFOS], P.O. 30 DE ENERO DE 2015)</small>
 
 ###### Artículo 84.
 
-La Auditoria Superior de Fiscalización del Congreso del Estado es el órgano técnico de fiscalización, control y evaluación del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones y de decisión sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley, y estará a cargo del Auditor Superior de Fiscalización.
+La revisión y fiscalización de las Cuentas Públicas de la Administración Pública Centralizada y Descentralizada de los Poderes y los Municipios, los Organismos Autónomos Constitucionales y, en general, todo Organismo Público, persona física o moral del sector social o privado que por cualquier motivo reciba o haya recibido, administrado, ejerza o disfrute de recursos públicos bajo cualquier concepto, la realizará la Entidad Superior de Auditoría y Fiscalización, que es el órgano técnico de fiscalización, auditoría, control y evaluación del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones y de decisión sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley, y estará a cargo de un Auditor General de Fiscalización.
 
-La revisión y fiscalización de las cuentas públicas de la administración pública centralizada, descentralizada y desconcentrada de los Poderes y los Municipios, los organismos autónomos constitucionales y en general, todo organismo público, persona física o moral del sector social o privado que por cualquier motivo reciba o haya recibido, administrado, ejerza o disfrute de recursos públicos bajo cualquier concepto, la realizará el Congreso a través del órgano que se crea denominado Auditoría Superior de Fiscalización del Congreso del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2015)</small>
+
+Para la consecución de sus objetivos, la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, contará con un Servicio Profesional de Auditoría, el que, mediante concursos de oposición interno y externo, será el mecanismo para el ingreso, permanencia y promoción de su personal. En las etapas de reclutamiento regirán los principios de legalidad, eficiencia, objetividad, calidad, imparcialidad, equidad, competencia por mérito y equidad de género.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2015)</small>
+
+El Consejo de Dirección de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, es el órgano de consulta de las políticas y estrategias institucionales de la misma. Se integra por el Auditor General, cuatro Auditores Especiales y los Directores Generales, Jurídico, de Administración y de Capacitación. Los Auditores Especiales y los Directores Generales durarán en su cargo cuatro años, pudiendo ser nombrados por un periodo más, previa evaluación que haga el órgano político del Congreso del Estado, serán nombrados y removidos por la Junta Política y de Gobierno del Congreso del Estado, a propuesta de la Comisión de Hacienda, Presupuesto y Cuenta Pública del mismo Congreso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
 
-A.- La auditoría Superior de Fiscalización del Congreso del Estado tendrá las siguientes facultades:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2015)</small>
+
+A.- La Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos tendrá las siguientes facultades:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 I.- Fiscalizar los ingresos y egresos, el manejo, la custodia y la aplicación de los recursos de los poderes del estado, todos los organismos y entidades públicas y de cualquier entidad, persona física o moral, pública o privada y los transferidos a fideicomisos, mandatos, fondos o cualquier otro acto jurídico, así como la evaluación sobre el cumplimiento de sus objetivos y metas establecidos en sus programas.
 
@@ -2174,29 +2210,81 @@ Si del estudio que se realice aparecieran discrepancias entre las cantidades cor
 
 Las entidades fiscalizadas deberán llevar el control y registro contable, patrimonial y presupuestal de los recursos del estado y de los municipios que les sean transferidos y asignados de acuerdo con los criterios que establezca la constitución y la ley, garantizando que los recursos económicos de que dispongan se administren con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
-Sin perjuicio del principio de anualidad, la Auditoria Superior de Fiscalización podrá solicitar y revisar, por periodos semestrales la información correspondiente al ejercicio de la Cuenta Pública. Las observaciones y recomendaciones que, respectivamente se tengan que emitir deberán observar en todo momento el apego a la normatividad aplicable.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Podrá revisar el desempeño en el cumplimiento de los objetivos contenidos en los programas de gobierno del estado y de los municipios. En el caso de que existan recomendaciones al desempeño las entidades fiscalizadas, estas deberán precisar ante la Auditoria Superior de Fiscalización las mejoras realizadas o, en su caso, justificar su improcedencia.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+Sin perjuicio del principio de anualidad, la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos podrá solicitar y revisar, por periodos semestrales la información correspondiente al ejercicio de la Cuenta Pública. Las observaciones y recomendaciones que respectivamente se tengan que emitir, deberán observar en todo momento el apego a la normatividad aplicable.
 
-III.- Realizar visitas, inspecciones, revisiones, auditorías operativas, financieras, de cumplimiento, de evaluación de la gestión social a las Dependencias o Entidades del sector Paraestatal, del Poder Ejecutivo, del Poder Judicial en cualesquiera de los Tribunales Estatales, del propio Poder Legislativo, del Organismo Público Electoral de Morelos, del Tribunal Electoral del Estado de Morelos y los Ayuntamientos del Estado, Organismos Constitucionales Autónomos, en cualquier Entidad, persona física o moral, pública o privada, en los términos de la legislación en la materia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2015)</small>
+
+Las entidades fiscalizadas, previa convocatoria, participaran en los Comités de Solventación que señala la ley, a fin de exponer lo que a su derecho convenga. Las determinaciones del Comité de Solventación podrán ser revisadas mediante el recurso de reconsideración que conocerá el Auditor Especial responsable de la Cuenta Pública a revisión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
+
+II.- Podrá revisar el desempeño en el cumplimiento de los objetivos contenidos en los Programas de Gobierno del Estado y de los Municipios. En el caso de que existan recomendaciones al desempeño las entidades fiscalizadas, estas deberán precisar ante la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos las mejoras realizadas o, en su caso, justificar su improcedencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
+
+III.- Realizar visitas, inspecciones, revisiones, auditorías operativas, financieras, de cumplimiento, de evaluación de la gestión social a las entidades sujetas a fiscalización y de cualquier persona física o moral, pública o privada, en los términos de la legislación en la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 IV.- En su caso, determinar las responsabilidades administrativas en que incurran los servidores públicos del Estado, y municipios, promover juicios civiles y presentar denuncias o querellas y actuar como coadyuvante del ministerio público;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
 V.- Remitir al Congreso del Estado, los informes de resultados de la revisión de la cuenta pública del año anterior. El organismo de fiscalización deberá guardar reserva de sus actuaciones y observaciones, la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 VI.- Informar al Congreso y en su caso, dar parte a la autoridad que corresponda, si del informe de resultados se desprenden actos u omisiones que impliquen alguna irregularidad o conducta ilícita relacionada con el ingreso, egreso, manejo, custodia y aplicación de los fondos y recursos públicos;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
 VII.- Determinar los daños y perjuicios que afecten a la hacienda pública o al patrimonio de las entidades públicas y fincar a los responsables las sanciones correspondientes, así como promover en su caso, ante las autoridades competentes el fincamiento de otras responsabilidades;
 
-VIII.- Expedir las normas de auditoría que regularán el ejercicio de la Auditoria Superior de Fiscalización del Congreso del Estado, las relativas al control interno; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
+
+VIII.- Expedir las normas de auditoría que regularán el ejercicio de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, las relativas al control interno; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 IX.- Las demás que establezca esta Constitución y las leyes aplicables.
 
-Los poderes del estado y las entidades fiscalizadas, facilitarán los auxilios que requiera la Auditoria Superior de Fiscalización del Congreso del Estado para el ejercicio de sus funciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-B.- El Auditor Superior de Fiscalización del Congreso del Estado, será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura, durará en el cargo siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades, además de los requisitos establecidos en las fracciones I, II, IV y VI del artículo 90 de esta Constitución. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
+
+Los poderes del estado y las entidades fiscalizadas, facilitarán los auxilios que requiera la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos para el ejercicio de sus funciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2015)</small>
+
+B.- El Auditor General de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura, durará en el cargo ocho años y podrá ser nombrado nuevamente por una sola vez, previa evaluación realizada por el órgano de gobierno del Congreso, deberá contar con cinco años de experiencia en materia de control, auditoría financiera y de responsabilidades, además de los requisitos establecidos en las fracciones I, II, IV y VI del artículo 90 de esta Constitución. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 Para su designación se conformará una comisión calificadora integrada por los coordinadores de los grupos parlamentarios, la cual presentará al Pleno del Congreso la propuesta correspondiente. La Ley establecerá los requisitos y el procedimiento para su designación. Podrá ser removido exclusivamente por las cusas (sic) graves que la ley señale con la misma votación requerida para su nombramiento o por las causas conforme los procedimientos establecidos en el titulo séptimo de esta constitución.
 
@@ -3266,9 +3354,11 @@ La Comisión correspondiente del Congreso del Estado, instruirá el expediente s
 
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá de declaración de procedencia.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor Superior de Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Electoral del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, así como el Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
+
+Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor General de la Entidad Superior de Auditoría y Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Electoral del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, así como el Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -4754,7 +4844,7 @@ DÉCIMA. Se derogan todas las disposiciones normativas de igual o menor rango je
 
 P.O. 9 DE JULIO DE 2014.
 
-PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, lo anterior, con fundamento en el artículo 145, del Reglamento para el Congreso del Estado de Morelos.. (sic)
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, lo anterior, con fundamento en el artículo 145, del Reglamento para el Congreso del Estado de Morelos.. (sic)
 
 SEGUNDO. Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, la adición se tiene como parte de esta Constitución.
 
@@ -4765,3 +4855,45 @@ P.O. 24 DE DICIEMBRE DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, lo anterior con fundamento en lo dispuesto por el artículo 70, fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
 
 SEGUNDO.- Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado; en consecuencia, la reforma y adición se tienen como parte de esta Constitución.
+
+P.O. 30 DE ENERO DE 2015.
+
+DECRETO NO. 2062 POR EL QUE SE REFORMAN LOS PÁRRAFO NOVENO Y DÉCIMO DEL ARTÍCULO 32; LAS FRACCIONES XXVII, XXVIII, XXXII, XXXIII, XLIV, XLVI, XLVII DEL ARTÍCULO 40; EL PRIMER Y SEGUNDO PÁRRAFO PARA SER UNO SOLO, LAS FRACCIONES I QUINTO PÁRRAFO, II, III, VIII Y SEGUNDO PÁRRAFO, DEL IX, DEL APARTADO "A"; EL PRIMER PÁRRAFO, DEL APARTADO "B", DEL ARTÍCULO 84 Y EL QUINTO PÁRRAFO, DEL ARTÍCULO 136; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO QUEDANDO EN ESE MISMO ORDEN, EL ACTUAL TERCER PÁRRAFO, SE RECORRE EN SU ORDEN PARA SER CUARTO, UN SEXTO PÁRRAFO A LA FRACCIÓN I, DEL APARTADO "A", TODOS ELLOS DEL ARTÍCULO 84, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, lo anterior con fundamento en lo dispuesto por el artículo 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDO.- Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, a través de la Diputación Permanente; en consecuencia, las reformas y adiciones se tienen como parte de esta Constitución.
+
+TERCERO.- El Auditor General, los Auditores Especiales y los Directores Generales, deberán quedar nombrados a más tardar un mes después de la entrada en vigor del presente Decreto.
+
+CUARTO.- Los recursos materiales y financieros, así como el acervo documental con que actualmente cuenta la Auditoría Superior de Fiscalización, pasarán a formar parte de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos.
+
+QUINTO.- Los trabajadores que desempeñan funciones distintas a la realización de auditorías y que actualmente laboran en la Auditoría Superior de Fiscalización, tendrán derecho a la indemnización en términos de ley, en caso de que no sean requeridos sus servicios en el nuevo Órgano de Fiscalización. Los trabajadores que desempeñen labores de auditoría estarán sujetos a los criterios de permanencia y promoción que en su momento determine la Entidad Superior de Auditoría y Fiscalización.
+
+SEXTO.- En un término máximo de sesenta días hábiles, a partir de la Declaratoria correspondiente, el Congreso del Estado, deberá expedir la Ley de Auditoría y Fiscalización del Estado de Morelos.
+
+SÉPTIMO.- La Auditoría Superior de Fiscalización, queda formalmente extinguida, por la entrada en vigor de las reformas del presente Decreto. Los asuntos que se encuentren en trámite o en proceso, incluyendo las revisiones a las cuentas públicas, al entrar en vigor el presente Decreto, continuarán tramitándose en los términos de la Ley de Fiscalización Superior del Estado de Morelos, hasta su conclusión en lo que no contravengan con este Decreto y la Ley que para tal efecto expida el Congreso.
+
+OCTAVO.- Se abroga el Decreto número mil ochocientos ochenta y uno, publicado en el Periódico Oficial "Tierra y Libertad" número 4995, de fecha cuatro de julio del año dos mil doce, así como todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+NOVENO.- El actual Auditor Superior de Fiscalización y los Directores Generales, procederán a realizar la entrega recepción a partir del siguiente día que sean designados los nuevos titulares de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, auxiliados por los órganos administrativos que correspondan del Congreso del Estado de Morelos.
+
+DÉCIMO.- Las menciones que en otros ordenamientos se hagan de la Auditoría Superior de Fiscalización y del Auditor Superior de Fiscalización, se entenderán referidas a la Entidad Superior de Auditoría y Fiscalización y al Auditor General, respectivamente.
+
+DÉCIMO PRIMERO.- Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Auditoría Superior de Fiscalización, de su titular en cualquier ordenamiento legal, así como en Contratos, Convenios o Acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Entidad Superior de Auditoría y Fiscalización o el Auditor General, de acuerdo con las atribuciones que mediante la presente reforma se le otorga.
+
+P.O. 30 DE ENERO DE 2015.
+
+DECRETO NO. 2063 POR EL QUE SE REFORMAN EL INCISO F) DE LA FRACCIÓN III DEL ARTÍCULO 41; ASÍ COMO LA FRACCIÓN VII DEL ARTÍCULO 79-A; SE ADICIONA UN ÚLTIMO PÁRRAFO A LA FRACCIÓN VIII DEL ARTÍCULO 2 BIS; Y SE DEROGAN LAS FRACCIONES II Y III, DEL ARTÍCULO 17, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad', Órgano de difusión del Gobierno del Estado de Morelos, lo anterior con fundamento en lo dispuesto por el artículo 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDO.- Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura, a través de la Diputación Permanente del Congreso del Estado; en consecuencia, las reformas, adición y derogación se tienen como parte de esta Constitución.
+
+P.O. 30 DE ENERO DE 2015.
+
+DECRETO NO 2064 POR EL QUE SE REFORMA LA FRACCIÓN XVI, DEL ARTÍCULO 70, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, lo anterior con fundamento en lo dispuesto por el artículo 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDO.- Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, a través de la Diputación Permanente; en consecuencia, la reforma se tiene como parte de esta Constitución.
