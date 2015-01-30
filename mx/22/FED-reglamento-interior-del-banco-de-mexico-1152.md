@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2014-12-22"
+last_updated: "2015-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -271,9 +271,9 @@ Sin perjuicio de lo dispuesto en el segundo párrafo del presente artículo, las
 
 Las disposiciones, autorizaciones, opiniones, consultas, observaciones y veto a comisiones, así como los requerimientos de información respecto de probables infracciones a las disposiciones, que conforme a las leyes correspondan al Banco, por su propio derecho o como fiduciario, deberán ser firmadas por un funcionario de la Dirección de Disposiciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento, sea competente para atender y resolver el asunto de que se trate.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
-Las disposiciones, opiniones, consultas y requerimientos de información en materia de almacenamiento, distribución, canje, entrega, retiro, reproducción, medidas de seguridad y destrucción de billetes, monedas y medallas, así como los relativos a corresponsalía de caja, deberán estar suscritos conjuntamente por un funcionario de la Dirección General de Emisión y uno de la Dirección Jurídica.
+Las disposiciones, opiniones, autorizaciones, consultas y requerimientos de información en materia de almacenamiento, distribución, canje, entrega, retiro, reproducción, medidas de seguridad y destrucción de billetes, monedas y medallas, así como los relativos a corresponsalía de caja, deberán estar suscritos conjuntamente por un funcionario de la Dirección General de Emisión y uno de la Dirección Jurídica.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -291,9 +291,9 @@ La facultad para absolver posiciones a que se refieren los artículos 6o. y 28, 
 
 El Acuerdo de Adscripción de las Unidades Administrativas deberá ser suscrito por el Gobernador o, en sus ausencias, por el Director General de Sistemas de Pagos y Servicios Corporativos.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
-Para los efectos del presente Reglamento, se entenderá por entidad financiera o intermediario financiero: a las instituciones de crédito, instituciones de seguros, instituciones de fianzas, casas de bolsa, sociedades de inversión, sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión, administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro, arrendadoras financieras, empresas de factoraje financiero, casas de cambio, entidades de ahorro y crédito popular, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple reguladas, entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o financiamiento al público, fideicomisos de fomento económico, entidades financieras de desarrollo, así como otras personas y fideicomisos que realicen actividades financieras y respecto de las cuales el Banco ejerza facultades de regulación, de requerimientos de información o de sanción en términos de las leyes respectivas.
+Para los efectos del presente Reglamento, se entenderá por entidad financiera o intermediario financiero: a las instituciones de crédito, instituciones de seguros, instituciones de fianzas, casas de bolsa, fondos de inversión, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro, casas de cambio, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares, sociedades financieras comunitarias, sociedades financieras de objeto múltiple, almacenes generales de depósito, uniones de crédito, entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o financiamiento al público, fideicomisos de fomento económico, entidades financieras de desarrollo, así como otras personas y fideicomisos respecto de los cuales el Banco ejerza facultades de regulación, de requerimientos de información, de supervisión o de sanción, incluidas las sociedades de información crediticia, las cámaras de compensación y los administradores de sistemas de pagos, en términos de las leyes respectivas.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -303,9 +303,23 @@ Para los efectos del párrafo anterior, se entenderá por fideicomisos de foment
 
 Para los mismos efectos de los párrafos anteriores, se entenderá por entidades financieras de desarrollo a Nacional Financiera, S.N.C.; Banco Nacional de Comercio Exterior, S.N.C.; Banco Nacional de Obras y Servicios, S.N.C.; Sociedad Hipotecaria Federal, S.N.C.; Banco del Ahorro Nacional y Servicios Financieros, S.N.C.; Banco Nacional del Ejército, Fuerza Aérea y Armada, S.N.C.; la Financiera Rural; Agroasemex, S.A. de C.V., y Seguros de Crédito a la Vivienda SHF, S.A. de C.V.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(DEROGADO DECIMOTERCER PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
 
-Corresponderá a los superiores jerárquicos de los servidores públicos que hayan emitido la multa respectiva, resolver el recurso de revisión a que se refiere la Ley para Regular las Sociedades de Información Crediticia y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+###### ARTICULO 8o.
+
+BIS.- Corresponderá a los titulares de la Dirección General de Asuntos del Sistema Financiero o de la Dirección de Regulación y Supervisión designar y remover a los inspectores del Banco. Tratándose de personal adscrito a otras Direcciones Generales o Direcciones que cuenten con facultades de supervisión en términos de este Reglamento, la designación o remoción respectiva la harán a solicitud del titular de la Dirección General o Dirección de que se trate.
+
+Los inspectores designados en términos del párrafo anterior tendrán facultades para realizar cualquiera de los actos de inspección que conforme a la Ley, el presente Reglamento y las Reglas respectivas correspondan al Banco, sin perjuicio de las atribuciones de las unidades administrativas a las que se encuentren adscritos. Asimismo, podrán practicar todos los actos que se encuentren relacionados con el ejercicio de dicha facultad, incluyendo las notificaciones respectivas.
+
+Los inspectores se identificarán presentando conjuntamente copia del acuse de la orden de visita de inspección en la que conste su designación y la credencial que para tal efecto expida en su favor el Banco de México.
+
+Las órdenes de visita de inspección deberán ser suscritas por funcionarios de la Dirección de Regulación y Supervisión conjuntamente con funcionarios de la Dirección Jurídica o Dirección de Disposiciones de Banca Central, según corresponda en términos de lo dispuesto por el artículo 8o., cuarto y quinto párrafos.
+
+Tratándose de la inspección de administradores de Sistemas de Pagos, las órdenes de visita de inspección deberán ser suscritas por funcionarios de la Dirección de Sistemas de Pagos conjuntamente con funcionarios de la Dirección de Disposiciones de Banca Central.
+
+La supervisión de entidades e intermediarios financieros, así como todos los actos relacionados con la autorización y supervisión de los programas de autocorrección, se ajustarán a las reglas que se emitan para tal efecto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -355,9 +369,7 @@ A esta Dirección General estarán adscritas las Direcciones de Operaciones Inte
 
 ARTICULO 12 BIS.- (DEROGADO, D.O.F. 31 DE OCTUBRE DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO CONFORME AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 13.
 
@@ -367,11 +379,25 @@ La Dirección General de Investigación Económica tendrá las atribuciones señ
 
 A esta Dirección General estarán adscritas las Direcciones de Estudios Económicos, de Medición Económica, de Análisis Macroeconómico, de Asuntos Internacionales, y de Análisis sobre Precios, Economía Regional e Información.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+
+###### ARTICULO 14.
+
+La Dirección General de Estabilidad Financiera tendrá las atribuciones que se señalan en los artículos 25, 25 Bis, 25 Bis 4 y 25 Bis 5 de este Reglamento.
+
+A esta Dirección General estarán adscritas las Direcciones de Estabilidad Financiera, de Información del Sistema Financiero, de Análisis de Riesgos del Sistema Financiero y de Análisis de Riesgos Macrofinancieros.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+ARTICULO 14 BIS.- La Dirección General Jurídica, además de las atribuciones que se establecen en este y otros preceptos del presente Reglamento, tendrá las que se señalan en los artículos 17 y 28.
+
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2011)</small>
 
-ARTICULO 14 BIS.- La Dirección General Jurídica además de las atribuciones que se establecen en este precepto, tendrá las que se señalan en los artículos 17 y 28 de este Reglamento.
-
 A esta Dirección General estarán adscritas las Direcciones de Disposiciones de Banca Central y Jurídica, así como la Gerencia Jurídica Fiduciaria.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2011)</small>
 
 Corresponderá a la Gerencia Jurídica Fiduciaria el desempeño de las funciones encomendadas al Banco en los fideicomisos a que se refiere el tercer párrafo del artículo Décimo Transitorio de la Ley, con excepción del Fideicomiso para el Desarrollo de Recursos Humanos.
 
@@ -382,14 +408,6 @@ ARTICULO 14 BIS 1.- La Dirección General de Asuntos del Sistema Financiero tend
 A esta Dirección General estarán adscritas la Dirección de Regulación y Supervisión, la Dirección de Intermediarios Financieros de Fomento y la Dirección de Evaluación de Servicios Financieros.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
-
-###### ARTICULO 14.
-
-La Dirección General de Estabilidad Financiera tendrá las atribuciones que se señalan en los artículos 25, 25 Bis, 25 Bis 4 y 25 Bis 5 de este Reglamento.
-
-A esta Dirección General estarán adscritas las Direcciones de Estabilidad Financiera, de Información del Sistema Financiero, de Análisis de Riesgos del Sistema Financiero y de Análisis de Riesgos Macrofinancieros.
-
-> <small>(REFORMADO CONFORME AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 14 Bis 1.
 
@@ -427,11 +445,13 @@ La Dirección General de Relaciones Institucionales tendrá las atribuciones que
 
 A esta Dirección General estarán adscritas las Direcciones de Comunicación y de Vinculación Institucional.
 
-> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 16.
 
-La Dirección General de Emisión tendrá las atribuciones que se señalan en los artículos 16 Bis, 16 Bis 1, 16 Bis 2 y 28 Bis de este Reglamento, así como la de atender y resolver los requerimientos que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas.
+La Dirección General de Emisión tendrá las atribuciones que se señalan en los artículos 16 Bis, 16 Bis 1, 16 Bis 2 y 28 Bis de este Reglamento, así como la de atender y resolver los requerimientos que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para su manejo y determinar si las mismas son falsas o hubieren sido alteradas.
+
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2014)</small>
 
 A esta Dirección General estarán adscritas las Direcciones de Programación y Distribución de Efectivos, de Fábrica de Billetes, de Administración de Emisión y de Seguridad.
 
@@ -441,11 +461,9 @@ ARTICULO 16 BIS.- La Dirección de Programación y Distribución de Efectivos, t
 
 I. Convenir los actos correspondientes al traslado y custodia de efectivo, valores y metales preciosos, incluyendo los concernientes a la operación y mantenimiento del equipo que el Banco utilice para tal efecto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
-
-II. Formalizar los actos vinculados al adecuado almacenamiento, abastecimiento, canje, retiro, reproducción, destrucción y entrega de signos monetarios, así como los relativos a corresponsalía de caja, estando además facultada para expedir disposiciones relacionadas con las actividades mencionadas en esta fracción y verificar su cumplimiento;
+II. Formalizar los actos vinculados al adecuado almacenamiento, abastecimiento, canje, retiro, reproducción, destrucción y entrega de signos monetarios, así como los relativos a corresponsalía de caja, estando además facultada para expedir disposiciones relacionadas con las actividades mencionadas en esta fracción y supervisar su cumplimiento. La facultad de supervisión comprenderá las de vigilancia e inspección y esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
 
 III. Recabar información de los integrantes del sistema bancario, respecto a los montos y características de sus existencias de billete y moneda metálica y la relacionada con las entregas y retiro de efectivo realizadas con el Banco, así como la información correspondiente al empleo de efectivo en sus operaciones;
 
@@ -535,9 +553,9 @@ VI. Concertar y formalizar todos los actos jurídicos relativos a las funciones 
 
 VII. Emitir las reglas de operación de los fideicomisos de fomento económico, así como formalizar los instrumentos en que se contengan las operaciones de los referidos fideicomisos a que se refiere esta fracción;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-VIII. Imponer a los intermediarios financieros, los administradores de los sistemas de pagos, las cámaras de compensación y las sociedades de información crediticia, las sanciones procedentes, con excepción de los asuntos sobre fabricación, almacenamiento, distribución, canje, entrega, retiro, reproducción y destrucción de billetes y monedas metálicas, así como los relativos a corresponsalía de caja;
+VIII. Imponer a las entidades e intermediarios financieros las sanciones procedentes, con excepción de los asuntos sobre fabricación, almacenamiento, distribución, canje, entrega, retiro, reproducción y destrucción de billetes y monedas metálicas, así como los relativos a corresponsalía de caja;
 
 IX. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
 
@@ -551,17 +569,23 @@ XII. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
 
 XIII. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+XIV. Conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión a que se refieren la Ley para Regular las Sociedades de Información Crediticia y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
 
-XIV. Conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión a que se refieren la Ley para Regular las Sociedades de Información Crediticia y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
 
-Tal recurso deberá presentarse ante la Gerencia de Autorizaciones, Consultas y Control de Legalidad, en días hábiles bancarios dentro del horario comprendido entre las diez y las dieciocho horas. El titular de la citada Gerencia tramitará tal medio de defensa, aplicando en lo conducente el Capítulo IV de este Reglamento. En sus ausencias lo hará el Subgerente de Control de Legalidad, y
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+XV. Notificar a las entidades o intermediarios financieros los acuerdos, proveídos y demás resoluciones relativas a los recursos de revisión a que se refiere la fracción anterior, en términos del Capítulo V de este Reglamento;
 
-XV. Participar en los procedimientos de formulación de observaciones y veto a comisiones, en los términos previstos en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+XVI. Participar en los procedimientos de formulación de observaciones y veto a comisiones, en los términos previstos en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+XVII. Recibir los programas de autocorrección que presenten las entidades o intermediarios financieros en las materias distintas a aquellas previstas en el párrafo quinto del artículo 8o. del presente Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -663,9 +687,17 @@ V. Operar los fideicomisos, mandatos o comisiones que se encomienden al Banco, r
 
 VI. Participar en la expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones relacionadas con sus atribuciones;
 
-VII. Participar en la supervisión del cumplimiento de las disposiciones referidas en la fracción inmediata anterior, y
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-VIII. Participar con la Dirección de Administración de Riesgos en el diseño de los criterios para medir y controlar los riesgos en que incurre el Banco en las operaciones que se realicen en los mercados internacionales relacionadas con la administración de los activos internacionales y, en general, de todas las operaciones de mercado que realice la institución referidas a monedas extranjeras y negociadas en mercados internacionales.
+VII. Supervisar el cumplimiento de las disposiciones referidas en la fracción inmediata anterior. La facultad de supervisión comprenderá las de vigilancia e inspección y esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión;
+
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+VIII. Participar con la Dirección de Administración de Riesgos en el diseño de los criterios para medir y controlar los riesgos en que incurre el Banco en las operaciones que se realicen en los mercados internacionales relacionadas con la administración de los activos internacionales y, en general, de todas las operaciones de mercado que realice la institución referidas a monedas extranjeras y negociadas en mercados internacionales, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+IX. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección competente en términos del artículo 8o., las sanciones que correspondan.
 
 Los trabajadores del Banco adscritos a la Dirección de Operaciones Internacionales, que cuenten con instrucciones escritas del titular de la Dirección citada, en ejercicio de las funciones que correspondan a la Unidad Administrativa de que dependan, podrán celebrar, en forma individual o mancomunada, las operaciones previstas en la fracción I del presente artículo, realizándolas por escrito, vía telefónica, por medios electrónicos, ópticos o por cualquier otra tecnología, o por signos inequívocos.
 
@@ -683,11 +715,21 @@ IV. Operar los fideicomisos, mandatos o comisiones que se encomienden al Banco, 
 
 V. Participar en la expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones relacionadas con sus atribuciones;
 
-VI. Participar en la supervisión del cumplimiento de las disposiciones referidas en la fracción inmediata anterior;
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-VII. Participar con la Dirección de Administración de Riesgos en el diseño de los criterios para medir y controlar los riesgos en que incurre el Banco en las operaciones de mercado que realice la institución referidas a la moneda nacional y en divisas frente a esta, y
+VI. Supervisar el cumplimiento de las disposiciones referidas en la fracción inmediata anterior. La facultad de supervisión comprenderá las de vigilancia e inspección y esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión;
 
-VIII. Participar en el desarrollo y determinación de los términos y condiciones en los que el Banco pueda otorgar financiamientos relacionados con sus funciones de banca central y en el mercado de dinero.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+VII. Participar con la Dirección de Administración de Riesgos en el diseño de los criterios para medir y controlar los riesgos en que incurre el Banco en las operaciones de mercado que realice la institución referidas a la moneda nacional y en divisas frente a esta;
+
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+VIII. Participar en el desarrollo y determinación de los términos y condiciones en los que el Banco pueda otorgar financiamientos relacionados con sus funciones de banca central y en el mercado de dinero, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+IX. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección competente en términos del artículo 8o., las sanciones que correspondan.
 
 Los trabajadores del Banco adscritos a la Dirección de Operaciones Nacionales, que cuenten con instrucciones escritas del titular de la Dirección citada, en ejercicio de las funciones que correspondan a la Unidad Administrativa de que dependan, podrán celebrar, en forma individual o mancomunada, las operaciones previstas en la fracción I del presente artículo, realizándolas por escrito, vía telefónica, por medios electrónicos, ópticos o por cualquier otra tecnología, o por signos inequívocos.
 
@@ -717,7 +759,9 @@ X. Proporcionar servicios de asesoría y soporte a los usuarios de los sistemas 
 
 XI. Participar en la expedición de disposiciones relacionadas con las atribuciones mencionadas en este artículo, así como en la atención de autorizaciones, consultas y opiniones sobre las mismas;
 
-XII. Participar en la supervisión del cumplimiento de las disposiciones referidas en la fracción inmediata anterior;
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+XII. Supervisar el cumplimiento de las disposiciones referidas en la fracción inmediata anterior. La facultad de supervisión comprenderá las de vigilancia e inspección y esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión;
 
 XIII. Dar seguimiento y evaluar el efecto que tienen en los mercados financieros, las acciones que tome el Banco para instrumentar la política monetaria, la cambiaria y las disposiciones que emite para regular el sistema financiero;
 
@@ -725,9 +769,17 @@ XIV. Vigilar la actividad en los mercados financieros nacionales, para identific
 
 XV. Dar seguimiento al cumplimiento de las disposiciones que emita el Banco conforme al artículo 34 de su Ley;
 
-XVI. Participar con las Direcciones de Operaciones Internacionales y de Operaciones Nacionales en el desarrollo y determinación de los términos y condiciones en los que el Banco pueda otorgar financiamientos relacionados con sus funciones de banca central y en el mercado de dinero, y
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-XVII. Diseñar, elaborar e implantar los sistemas y proporcionar los servicios de cómputo, requeridos por las Direcciones adscritas a la Dirección General de Operaciones de Banca Central.
+XVI. Participar con las Direcciones de Operaciones Internacionales y de Operaciones Nacionales en el desarrollo y determinación de los términos y condiciones en los que el Banco pueda otorgar financiamientos relacionados con sus funciones de banca central y en el mercado de dinero;
+
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+XVII. Diseñar, elaborar e implantar los sistemas y proporcionar los servicios de cómputo, requeridos por las Direcciones adscritas a la Dirección General de Operaciones de Banca Central, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+XVIII. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección competente en términos del artículo 8o., las sanciones que correspondan.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -757,7 +809,9 @@ X. Llevar a cabo los actos de expedición, registro, control y demás relativos 
 
 XI. Participar en la emisión de disposiciones, autorizaciones, opiniones, observaciones y vetos en materia de firma electrónica, Sistemas de Pagos, cuotas de intercambio y comisiones por el uso de medios de disposición y, en general, respecto de aquellas materias que conforme a este artículo sean de su competencia;
 
-XII. Dar seguimiento al cumplimiento de las disposiciones, autorizaciones, observaciones y vetos que se emitan conforme a la fracción anterior;
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+XII. Supervisar el cumplimiento de las disposiciones, autorizaciones, observaciones y vetos señaladas en la fracción anterior, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades y los intermediarios financieros en las materias de su competencia. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión, excepto por la que se realice a los administradores de los Sistemas de Pagos;
 
 XIII. Diseñar e implementar los programas de ajuste de cumplimiento forzoso tendientes a eliminar irregularidades en los Sistemas de Pagos, en términos de la Ley de Sistemas de Pagos;
 
@@ -765,13 +819,17 @@ XIII. Diseñar e implementar los programas de ajuste de cumplimiento forzoso ten
 
 XIV. Proporcionar, en el ámbito de su competencia, a la Dirección General de Asuntos del Sistema Financiero la información y documentación necesaria para que ésta imponga, junto con la Dirección de Disposiciones de Banca Central, las sanciones o medidas correctivas en términos de Ley;
 
-> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-XV. Elaborar estudios que contribuyan al conocimiento y entendimiento del funcionamiento de los sistemas de pagos, y
+XV. Elaborar estudios que contribuyan al conocimiento y entendimiento del funcionamiento de los sistemas de pagos;
 
-> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-XVI. Ejercer las demás facultades que las leyes otorgan al Banco en materia de Sistemas de Pagos.
+XVI. Ejercer las demás facultades que las leyes otorgan al Banco en materia de Sistemas de Pagos;
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+XVII. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección competente en términos del artículo 8o., las sanciones que correspondan.
 
 Para efectos de este artículo se entenderá por Sistemas de Pagos: i) a los sistemas administrados por las instituciones para el depósito de valores, por las contrapartes centrales y por los repositorios centrales de información sobre productos financieros; ii) a los sistemas de pagos administrados por el Banco, las cámaras de compensación o por alguna otra institución, y iii) a los medios de disposición emitidos por los intermediarios financieros.
 
@@ -883,17 +941,21 @@ IV. Poner a disposición de otras autoridades financieras la información recaba
 
 V. Administrar el registro de comisiones a que se refiere el artículo 6o. de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+REFORMADA, D.O.F. 30 DE ENERO DE 2015)
 
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+VI. Administrar el proceso de publicación de información de carácter financiero en coordinación con otras Unidades Administrativas del Banco que, de conformidad con el presente Reglamento, puedan recabar y/o publicar información de ese carácter;
 
-VI. Administrar el proceso de publicación de información de carácter financiero en coordinación con otras Unidades Administrativas del Banco que, de conformidad con el presente Reglamento, puedan recabar y publicar información de ese carácter, y
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VII. Participar en la elaboración y, en su caso, expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones relacionadas con sus atribuciones respecto de aquellas materias que conforme a este artículo sean de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-VII. Participar en la elaboración y, en su caso, expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones relacionadas con sus atribuciones respecto de aquellas materias que conforme a este artículo sean de su competencia.
+VIII. Vigilar el cumplimiento de la entrega y la veracidad de la información a que se refiere la fracción I del presente artículo, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+IX. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección competente en términos del artículo 8o., las sanciones que correspondan.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -911,7 +973,9 @@ IV. Participar en el diseño y elaboración de las disposiciones para el sistema
 
 V. Participar en la atención de solicitudes de autorizaciones, consultas y opiniones que requieran los intermediarios y otras autoridades financieras;
 
-VI. Dar seguimiento al cumplimiento de las disposiciones expedidas por el Banco aplicable a los intermediarios financieros;
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+VI. Supervisar el cumplimiento de las disposiciones expedidas por el Banco aplicables a las entidades o intermediarios financieros, así como la veracidad de la información de carácter financiero que dichas entidades e intermediarios remitan de forma sistemática al Banco, con excepción de los administradores de los Sistemas de Pagos. La atribución de supervisión comprenderá las de inspección y vigilancia;
 
 VII. Dar seguimiento a las operaciones que hayan realizado los intermediarios financieros, en las que existan elementos para suponer que no cumplen con las disposiciones expedidas por el Banco;
 
@@ -925,19 +989,27 @@ IX. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
 X. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-> <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+XI. Coordinar con las Unidades Administrativas responsables de las operaciones, el diseño y funcionamiento de aquellos controles aplicables a las operaciones del propio Banco, así como al manejo de los sistemas de pagos, en que se involucren recursos de origen indeterminado;
 
-XI. Coordinar con las Unidades Administrativas responsables de las operaciones, el diseño y funcionamiento de aquellos controles aplicables a las operaciones del propio Banco, así como al manejo de los sistemas de pagos, en que se involucren recursos de origen indeterminado, y
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+XII. Coordinar con las respectivas Unidades Administrativas competentes la participación del Banco, bajo los términos y para los propósitos señalados en su propia Ley, en los asuntos de prevención de operaciones susceptibles de impactar el sano desarrollo del sistema financiero o el buen funcionamiento de los sistemas de pagos y, para esos efectos, podrá recabar y revisar de dichas Unidades la información con que cuenten o puedan obtener en esta materia;
 
-> <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-XII. Coordinar con las respectivas Unidades Administrativas competentes la participación del Banco, bajo los términos y para los propósitos señalados en su propia Ley, en los asuntos de prevención de operaciones susceptibles de impactar el sano desarrollo del sistema financiero o el buen funcionamiento de los sistemas de pagos y, para esos efectos, podrá recabar y revisar de dichas Unidades la información con que cuenten o puedan obtener en esta materia.
+XIII. Coordinar la inspección que, en el ámbito de sus competencias, realicen las demás Unidades Administrativas, con excepción de aquella realizada a los administradores de los Sistemas de Pagos. La atribución de coordinación comprenderá, de manera enunciativa más no limitativa, la planeación de las visitas y de su ejecución ya sea que se realicen por el Banco solamente o con otras autoridades, la determinación del programa de visitas considerando los objetivos y finalidades del Banco, así como la integración y entrega de los resultados de la inspección a las entidades o intermediarios financieros y a otras autoridades;
 
-Lo previsto en las fracciones V a VIII, de este artículo será también aplicable a las sociedades de información crediticia.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+XIV. Notificar las sanciones y demás actos en cuya emisión participe, sin perjuicio de lo previsto en el artículo 28, fracción I, de este Reglamento, y
+
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+XV. Publicar las sanciones que el Banco imponga a las entidades o intermediarios financieros.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
 
 > <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -1029,15 +1101,17 @@ IX. (DEROGADA, D.O.F. 10 DE JUNIO DE 2009)
 
 X. Desempeñar y promover las actividades socioculturales y deportivas del Banco;
 
-(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
 XI. Desempeñar las funciones encomendadas al Banco en el Fideicomiso para el Desarrollo de Recursos Humanos. Asimismo, realizar las actividades que correspondan al propio Banco como fiduciario en los fideicomisos que éste constituya para cumplir obligaciones laborales a su cargo, con fundamento en lo previsto en la fracción XI del artículo 7o. de su Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
+XII. Llevar el registro de la organización del Banco, aprobar sus adecuaciones, así como emitir opiniones y/o recomendaciones respecto a la estructura organizacional y sobre las propuestas que presenten las unidades administrativas que requieran aprobación del Gobernador o de la Junta de Gobierno, de conformidad con los términos y plazos que al efecto se acuerde con las citadas unidades administrativas, y
 
-XII. Llevar el registro de la organización del Banco, aprobar sus adecuaciones, así como emitir opiniones y/o recomendaciones respecto a la estructura organizacional y sobre las propuestas que presenten las unidades administrativas que requieran aprobación del Gobernador o de la Junta de Gobierno, de conformidad con los términos y plazos que al efecto se acuerde con las citadas unidades administrativas.
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+XIII. Expedir las credenciales de identificación de los notificadores, inspectores y cualquier otra que se requiera para la correcta operación del Banco.
 
 > <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2014)</small>
 
@@ -1107,27 +1181,29 @@ XII. Administrar los servicios de correspondencia, comedores, impresión y auto 
 
 XIII. Las demás previstas en otros ordenamientos aplicables a las operaciones materia de su competencia.
 
-Cuando otras disposiciones aplicables faculten a los analistas adscritos a la Dirección de Recursos Materiales para ejercer las atribuciones anteriores, deberán suscribir los documentos correspondientes en forma mancomunada con uno o más funcionarios adscritos a la propia Dirección, en los términos que al efecto se señale en dichas disposiciones, debiendo observar, en lo conducente, lo previsto en el artículo 10 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+Cuando otras disposiciones aplicables faculten a los jefes o analistas adscritos a la Dirección de Recursos Materiales para ejercer las atribuciones anteriores, deberán suscribir los documentos correspondientes en forma mancomunada con uno o más funcionarios adscritos a la propia Dirección, en los términos que al efecto se señale en dichas disposiciones, debiendo observar, en lo conducente, lo previsto en el artículo 10 de este Reglamento.
 
 ###### ARTICULO 28.
 
 La Dirección Jurídica tendrá las atribuciones siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+I. Notificar los acuerdos, proveídos y demás resoluciones relativas a los recursos de reconsideración referidos en la fracción II de este artículo, así como las sanciones que el Banco imponga en ejercicio de sus facultades, sin perjuicio de las atribuciones conferidas a otras Unidades Administrativas para efectuar notificaciones;
 
-I. Notificar a los intermediarios financieros o a las sociedades controladoras de éstos, a los administradores y participantes de los sistemas de pagos, a las cámaras de compensación y a las sociedades de información crediticia, las sanciones que el Banco imponga en el ejercicio de las facultades que las disposiciones legales le otorguen, así como las resoluciones relativas a los recursos de reconsideración referidos en la fracción II de este artículo y las resoluciones correspondientes al recurso de revisión a que se refiere la fracción XIV del artículo 17;
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+II. Conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de reconsideración previsto en la Ley del Banco de México, la Ley de Sistemas de Pagos y la Ley de Instituciones de Crédito, así como solicitar ante la autoridad competente el inicio del procedimiento administrativo de ejecución para el cobro de las multas que no hubieren sido cubiertas oportunamente al Banco de México o, en su caso, efectuar dicho procedimiento en términos de lo previsto en el artículo 67 de la Ley del Banco de México;
 
-> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-II. Conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de reconsideración previstos en la Ley del Banco de México, la Ley de Sistemas de Pagos y la Ley de Instituciones de Crédito. De igual forma, conocerá del procedimiento administrativo de ejecución previsto en tales ordenamientos, así como el establecido en la Ley para Regular las Sociedades de Información Crediticia y en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
+III. Hacerse cargo de la defensa jurídica del Banco en procesos y procedimientos ante autoridades judiciales, administrativas y del trabajo;
 
-III. Notificar y, en su caso ejecutar, los acuerdos, proveídos y demás resoluciones dictadas en y con motivo de los procedimientos mencionados en la fracción anterior;
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-IV. Atender y dar seguimiento a los juicios de amparo en los que intervengan el Banco, la Junta, sus miembros, los funcionarios o empleados del propio Banco, como autoridades responsables con motivo del ejercicio de su empleo, cargo o comisión;
+IV. Atender y dar seguimiento a los juicios de amparo, controversias constitucionales o cualquier otro proceso de carácter constitucional en los que intervengan el Banco, la Junta, sus miembros o los funcionarios o empleados del propio Banco, con motivo del ejercicio de su empleo, cargo o comisión;
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
@@ -1157,11 +1233,13 @@ XII. Expedir, junto con la Dirección General de Emisión, las disposiciones a q
 
 XIII. Imponer, junto con la Dirección General de Asuntos del Sistema Financiero, las sanciones a que se refiere el artículo 48 Bis 1 de la Ley de Instituciones de Crédito, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+XIV. Asesorar en la elaboración de los proyectos de resolución de los recursos de revisión a que se refiere la fracción XIV del artículo 17, y
 
-XIV. Asesorar en la elaboración de los proyectos de resolución de los recursos de revisión a que se refiere la fracción XIV del artículo 17, de conformidad con lo previsto en la Ley Federal de Procedimiento Administrativo.
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+XV. Recibir los programas de autocorrección que presenten las entidades o intermediarios financieros en las materias previstas en el párrafo quinto del artículo 8o. del presente Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 1997)</small>
 
@@ -1283,7 +1361,9 @@ ARTICULO 30 BIS.- La Dirección de Control Interno tendrá, además de las atrib
 
 I. Llevar el registro de firmas autógrafas de los funcionarios y empleados del Banco, facultados para ejercer las atribuciones encomendadas a las Direcciones Generales, Secretaría de la Junta y Direcciones, para los efectos de los artículos 8o., 10, y 27 Bis de este Reglamento, así como de los empleados facultados de acuerdo a las resoluciones emitidas en los términos del artículo 11 de este ordenamiento;
 
-II. Expedir en favor de los funcionarios y empleados a que se refiere la fracción anterior, para los efectos de los artículos 8o. y 10 de este Reglamento y en el ejercicio de sus funciones, certificados relacionados con la firma electrónica, así como llevar el registro de los mismos y de cualquier otro certificado relacionado con firma electrónica reconocido en alguna disposición legal y que sea administrado con la Infraestructura Extendida de Seguridad desarrollada por el Banco;
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+II. Expedir en favor de los funcionarios y empleados a que se refiere la fracción anterior, para los efectos de los artículos 8o. y 10 de este Reglamento y en el ejercicio de sus funciones, certificados relacionados con la firma electrónica, así como llevar el registro de los mismos y de cualquier otro certificado relacionado con firma electrónica reconocido en alguna disposición legal y que sea administrado con la Infraestructura Extendida de Seguridad desarrollada por el Banco. Asimismo, expedir a los licitantes y oferentes extranjeros, para efectos de los procedimientos previstos en las normas a que se refiere el artículo 46, fracción XII, de la Ley del Banco de México, certificados digitales relacionados con la firma electrónica y llevar su registro, conforme a los lineamientos que emita conjuntamente con la Dirección de Recursos Materiales;
 
 III. Proponer a la Junta las normas a que se refiere el artículo 46, fracción XII, de la Ley, y aquéllas que resulten aplicables al Banco, sin perjuicio de las que a otras Unidades Administrativas corresponda proponer a dicha Junta;
 
@@ -1323,7 +1403,9 @@ Sin perjuicio de lo establecido en el artículo 30, párrafo primero, de este Re
 
 ARTICULO 30 BIS 1.- La Gerencia de Control Normativo, contará con las atribuciones siguientes:
 
-I. Recibir y desahogar las quejas materia del procedimiento de conciliación que le presenten los proveedores y contratistas con motivo de contratos que tengan celebrados con el Banco;
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+I. Recibir y desahogar las solicitudes de conciliación que le presenten los proveedores, contratistas y adquirentes, con motivo de contratos que tengan celebrados con el Banco;
 
 II. (DEROGADA, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
@@ -1569,45 +1651,49 @@ Dado a conocer el balance general, el Banco publicará, dentro de los quince dí
 
 El Banco publicará semanalmente, con cifras preliminares al cierre del último día hábil de cada semana y dentro de los tres días hábiles siguientes, información resumida sobre sus activos, así como sobre sus pasivos y capital contable, tomando como base los rubros a que se refiere el artículo 38 anterior. Dicha información deberá ser suscrita por el Director de Contabilidad, Planeación y Presupuesto y, en las ausencias de este, por el Gerente de Contabilidad e Información Financiera.
 
-### CAPITULO V. DISPOSICIONES GENERALES
+### CAPÍTULO V. DEL RECURSO DE REVISIÓN
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 42.
 
 El plazo de interposición del recurso de reconsideración a que se refiere el artículo 64 de la Ley se contará a partir del día siguiente a aquél en que surta efectos la notificación del acto que se reclame.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 43.
 
-Corresponderá a la Gerencia Jurídica de lo Contencioso del Banco recibir el recurso de reconsideración, siendo competente su titular para resolverlo, y en sus ausencias el Subgerente Jurídico de lo Contencioso. En ausencia de ambos, resolverá el Jefe de la Oficina de lo Contencioso del propio Banco.
+Corresponderá a la Gerencia Jurídica de lo Contencioso del Banco recibir el recurso de reconsideración, siendo competente su titular para resolverlo, y en sus ausencias el Subgerente Jurídico de lo Contencioso. En ausencia de ambos, le corresponderá resolver al Jefe de la Oficina de Procesos Constitucionales y Especiales del Banco.
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
 
-Cuando el titular de la Subgerencia Jurídica de lo Contencioso deba resolver el recurso en los términos previstos en el párrafo anterior, corresponderá al Jefe de la Oficina de Consultas Judiciales e Instrumentación Hipotecaria del Banco autorizar los acuerdos de trámite correspondientes hasta poner el expediente en estado de resolución.
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
-> <small>(ADICIONADO, D.O.F. 2 DE OCTUBRE DE 1995)</small>
+Dicho recurso y las promociones relativas a la tramitación del procedimiento deberán presentarse en días hábiles bancarios, dentro de un horario comprendido entre las nueve y las diecinueve horas.
 
-Dicho recurso deberá presentarse dentro de un horario comprendido entre las nueve y las diecinueve horas.
-
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 44.
 
-El trámite del recurso estará a cargo de la Subgerencia Jurídica de lo Contencioso. El titular de ésta, y en sus ausencias el Jefe de la Oficina de Consultas Judiciales e Instrumentación Hipotecaria del propio Banco, autorizarán los acuerdos correspondientes hasta poner el expediente en estado de resolución.
+El trámite del recurso estará a cargo de la Subgerencia Jurídica de lo Contencioso. El titular de ésta, y en sus ausencias el Jefe de la Oficina de lo Contencioso del propio Banco, autorizará los acuerdos correspondientes.
 
-Los acuerdos de desechamiento o de no interposición del recurso deberán ir firmados por el Gerente Jurídico de lo Contencioso y, en su ausencia, por el Subgerente mencionado en el párrafo anterior. En ausencia de ambos, dichos acuerdos deberán ir firmados por el Jefe de la Oficina de lo Contencioso del Banco.
+Los acuerdos de desechamiento o de no interposición del recurso deberán ir firmados por el Gerente Jurídico de lo Contencioso y, en su ausencia, por el Subgerente mencionado en el párrafo anterior. En ausencia de ambos, dichos acuerdos deberán ir firmados por el Jefe de la Oficina de Procesos Constitucionales y Especiales del Banco.
 
 ###### ARTICULO 45.
 
 El recurso de reconsideración será desechado cuando no se presente en tiempo, sin perjuicio de lo establecido en el segundo párrafo del artículo 65 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 46.
 
-Se tendrá por no interpuesto el recurso cuando carezca de firma del promovente o cuando éste no acredite su personalidad.
+Cuando el recurso carezca de firma del promovente se tendrá por no interpuesto. Si este no acredita su personalidad, se le prevendrá para que subsane dicha omisión dentro del plazo de tres días. En caso de que se abstenga de hacerlo, se tendrá por no interpuesto el recurso.
+
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 47.
 
-Si el recurrente no señala domicilio en el escrito inicial, se le prevendrá por lista para que en el plazo de tres días lo señale, apercibiéndolo de que, de no hacerlo, todas las notificaciones, aun las de carácter personal, se efectuarán por estrados.
+Si el recurrente no señala en el escrito inicial domicilio en el Distrito Federal, se le prevendrá por estrados para que, en el plazo de tres días, lo señale y se le apercibirá que, de no hacerlo, todas las notificaciones, aun las de carácter personal, se efectuarán por estrados.
 
 ###### ARTICULO 48.
 
@@ -1615,55 +1701,171 @@ Sin perjuicio de lo dispuesto en el artículo 134 del Código Fiscal de la Feder
 
 I. La resolución que resuelva el fondo del recurso;
 
-II. El acuerdo de desechamiento del recurso, y
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
-III. El acuerdo de no interposición del recurso.
+II. El acuerdo de desechamiento del recurso;
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+III. El acuerdo de no interposición del recurso, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
+
+IV. La prevención a que se refiere el artículo 46 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 49.
 
-Los acuerdos que deban notificarse por estrados, se comunicarán mediante lista que se fijará en la Subgerencia Jurídica de lo Contencioso del Banco.
+Los acuerdos que deban notificarse por estrados se comunicarán mediante lista que se fijará durante quince días en un lugar abierto al público en el domicilio a que se refiere el artículo 1o. de este Reglamento. Además, se publicarán, durante el mismo plazo, en la página electrónica de internet del Banco de México y se dejará constancia de ello en el expediente respectivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 50.
 
-Corresponderá al personal de la Oficina de lo Contencioso del Banco practicar las notificaciones y efectuar el procedimiento administrativo de ejecución a que aluden las fracciones I y II del artículo 28 de este Reglamento. Sin perjuicio de lo anterior, el Director Jurídico podrá habilitar a personas distintas de las que integran dicha Oficina, para que realicen las notificaciones o ejecuciones mencionadas.
+Corresponderá al personal de la Oficina de lo Contencioso del Banco practicar las notificaciones a que alude la fracción I del artículo 28 de este Reglamento, así como solicitar el inicio del procedimiento administrativo de ejecución ante la autoridad competente o, en su caso, efectuar dicho procedimiento. Sin perjuicio de lo anterior, el Director Jurídico podrá habilitar a personas distintas de las que integran dicha Oficina, para que realicen las notificaciones o ejecuciones mencionadas. Las notificaciones previstas en este párrafo podrán realizarse a través de medios electrónicos.
 
-Será medio de identificación de los notificadores y ejecutores citados, la credencial, que para tales efectos, expida en su favor el Banco de México, junto con el oficio firmado por el Director Jurídico que los faculte para realizar tales funciones.
-
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
+Será medio de identificación de los notificadores y ejecutores citados, la credencial, que para tales efectos, expida en su favor el Banco de México o, en su caso, el oficio firmado por el Director Jurídico que los faculte para realizar tales funciones.
 
 ###### ARTICULO 51.
 
-Del trámite y resolución de los recursos previstos en el artículo 67 de la Ley conocerán la Gerencia y la Subgerencia mencionadas en los artículos 43 y 44 de este Reglamento. En ausencia de sus titulares, será competente para conocer del trámite de los recursos el Jefe de la Oficina de Consultas Judiciales e Instrumentación Hipotecaria y para la resolución será competente el Jefe de la Oficina de lo Contencioso del Banco.
+(DEROGADO, D.O.F. 30 DE ENERO DE 2015)
 
 ###### ARTICULO 52.
 
 En la sustanciación y resolución del recurso de reconsideración se aplicarán supletoriamente las disposiciones del Código Federal de Procedimientos Civiles, a falta de disposición expresa en la Ley y en este Reglamento. No se aplicarán al efecto las disposiciones que se opongan a los citados Ley y Reglamento, o bien, aquellas normas que no sean acordes con la naturaleza del recurso previsto en este capítulo.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE ENERO DE 2015)</small>
+
+### CAPÍTULO VI. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 53.
 
-Cuando en el presente Reglamento se usen los términos Ley, Banco, Junta y Gobernador deberán entenderse referidos a la Ley del Banco de México, al Banco de México, a su Junta de Gobierno y Gobernador, respectivamente.
+En contra de las sanciones que el Banco imponga de conformidad con la Ley para Regular las Sociedades de Información Crediticia y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, procederá el recurso de revisión en los términos del Título Sexto de la Ley Federal de Procedimiento Administrativo, así como lo dispuesto en este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 54.
 
-Sin perjuicio de lo señalado en el artículo 45 de la Ley del Banco de México, durante las ausencias de los Directores Generales, Directores, Gerentes y Cajeros Regionales, éstos podrán ser substituidos por el funcionario de la jerarquía inmediata inferior a la del ausente, que desempeñe funciones relacionadas con el asunto de que se trate. El funcionario que ejercite la facultad aquí señalada deberá indicar que actúa en los términos de este artículo. Esta disposición no es aplicable al artículo 4o. Bis de este Reglamento.
+El escrito de interposición del recurso y las promociones relativas a la tramitación del procedimiento deberán dirigirse la Gerencia de Autorizaciones, Consultas y Control de Legalidad y presentarse en días hábiles bancarios, dentro del horario comprendido entre las nueve y las diecinueve horas. Dicho recurso será resuelto por los superiores jerárquicos de los funcionarios que hayan suscrito el acto impugnado.
 
-Tratándose de las adjudicaciones de contratos que, de acuerdo con las disposiciones aplicables, deban ser suscritas por el titular de la Dirección de Recursos Materiales, en su ausencia aquéllas serán firmadas por el Director General de Sistemas de Pagos y Servicios Corporativos. En ausencia de ambos, las adjudicaciones señaladas deberán ser firmadas por dos funcionarios que actúen en forma mancomunada y que ocupen puestos de Gerente, adscritos a la propia Dirección de Recursos Materiales.
-
-En el caso de procesos de carácter judicial, administrativo o del trabajo, en los que deban intervenir el Gobernador, la Junta de Gobierno, alguno de sus miembros o los Directores Generales, las promociones correspondientes podrán ser firmadas, en su ausencia, por el Director General Jurídico o el Director Jurídico.
-
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 55.
 
-El Banco de México, su Gobernador, la Junta de Gobierno, sus miembros, los Directores Generales y el Secretario de la Junta, podrán ser representados en el juicio de amparo por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, dicha representación recaerá en el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
+Cuando en el escrito de interposición del recurso de revisión o con posterioridad, el promovente manifieste expresamente su voluntad para que las comunicaciones que se generen durante el trámite del recurso, distintas a las previstas en el artículo 60 de este Reglamento, se notifiquen a través de correo electrónico, deberá señalar que:
+
+I. Acepta que todos los acuerdos e información que reciba de Banco de México con motivo de dicho recurso, en las direcciones electrónicas que al efecto indique, tendrán plena validez jurídica y surtirán todos los efectos legales a que haya lugar;
+
+II. Dará aviso a Banco de México de la recepción de los mismos, y
+
+III. Queda bajo su responsabilidad informar por escrito cualquier cambio en las direcciones electrónicas que hubiere indicado.
+
+Las notificaciones que Banco de México realice a través de correo electrónico conforme a este artículo, surtirán efectos, no obstante que el promovente no dé cumplimiento a lo previsto en las fracciones II y III del presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+###### ARTICULO 56.
+
+La interposición del recurso suspenderá la ejecución del acto impugnado, siempre que lo solicite expresamente el recurrente, el recurso resulte procedente, y no se siga perjuicio al interés social ni se contravengan disposiciones de orden público, o se ocasionen daños o perjuicios a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable.
+
+Tratándose de multas, el recurrente deberá garantizar previamente, en favor del Banco de México, en cualquiera de las formas previstas en el Código Fiscal de la Federación y su Reglamento, salvo que el Banco llevare cuenta al infractor.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+###### ARTICULO 57.
+
+El trámite del recurso estará a cargo del titular de la Gerencia de Autorizaciones, Consultas y Control de Legalidad, a quien también corresponderá proveer lo relativo a la suspensión de la ejecución del acto impugnado. En sus ausencias, el Subgerente de Control de Legalidad dictará los proveídos correspondientes.
+
+Los acuerdos de desechamiento, de sobreseimiento o de no interposición del recurso deberán ser firmados por los superiores jerárquicos de los funcionarios que hayan suscrito el acto impugnado.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+###### ARTICULO 58.
+
+Cuando el recurso carezca de firma del promovente se tendrá por no interpuesto. Si este no acredita su personalidad, se le prevendrá para que subsane dicha omisión dentro del plazo de tres días. En caso de que se abstenga de hacerlo, se tendrá por no interpuesto el recurso.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+###### ARTICULO 59.
+
+Si el recurrente no señala en el escrito inicial domicilio en el Distrito Federal, se le prevendrá por estrados para que en el plazo de tres días lo señale y se le apercibirá que, de no hacerlo, todas las notificaciones, aun las de carácter personal, se efectuarán por estrados.
+
+Lo anterior resultará procedente, sin perjuicio de lo previsto en el artículo 55 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+###### ARTICULO 60.
+
+Se notificarán personalmente y, en su caso, por instructivo:
+
+I. La resolución que resuelva el fondo del recurso, o bien, lo sobresea;
+
+II. El acuerdo de desechamiento del recurso;
+
+III. El acuerdo de no interposición del recurso, y
+
+IV. La prevención que se realice de conformidad con el artículo 58 de este Reglamento.
+
+En todo caso, la notificación de la prevención a que se refiere la fracción IV anterior también podrá hacerse a través de medios electrónicos, de conformidad con el artículo 55 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+###### ARTICULO 61.
+
+Los acuerdos que deban notificarse por estrados se comunicarán mediante lista que se fijará durante quince días en un lugar abierto al público en el domicilio a que se refiere el artículo 1o. de este Reglamento. Además, se publicarán durante el mismo plazo en la página electrónica de internet del Banco de México y se dejará constancia de ello en el expediente respectivo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+###### ARTICULO 62.
+
+Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que hayan sido hechas. Tratándose de notificaciones personales, deberá proporcionarse al interesado copia del acto que se notifique. Asimismo, en el acta correspondiente deberá señalarse la fecha en que se efectúe la notificación y se deberá recabar el nombre y firma de la persona con quien se entienda la diligencia. Si esta se niega a firmar o a proporcionar su nombre, se hará constar ese hecho en el acta de notificación.
+
+La manifestación que haga el interesado o su representante de conocer el acto administrativo surtirá efectos de notificación en forma desde la fecha en que manifieste haber tenido tal conocimiento, si esta es anterior al día en que surta efectos la notificación de acuerdo con lo señalado en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+###### ARTICULO 63.
+
+Corresponderá al personal de la Gerencia de Autorizaciones, Consultas y Control de Legalidad practicar las notificaciones de trámite y resolución del citado recurso de revisión.
+
+Sin perjuicio de lo anterior, el Director de Disposiciones de Banca Central podrá habilitar a personas distintas de las que integran dicha Gerencia, para que realicen las referidas notificaciones, siempre que formen parte de esa Dirección.
+
+De igual forma, el Director General Jurídico podrá habilitar personal de cualquiera de las Direcciones a que se refieren los artículos 17 y 28 de este Reglamento para realizar las mencionadas notificaciones.
+
+Será medio de identificación de los notificadores citados, la credencial que expida en su favor el Banco de México, junto con el oficio firmado por el Director General Jurídico o el Director de Disposiciones de Banca Central, según sea el caso, que los faculte para realizar tales funciones.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+###### ARTICULO 64.
+
+En la sustanciación y resolución del recurso de revisión se aplicará supletoriamente el Código Federal de Procedimientos Civiles.
+
+En contra de la resolución del recurso de revisión procederá el juicio de amparo, en términos del artículo 107, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos y la ley reglamentaria respectiva.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTRGRAN, D.O.F. 30 DE ENERO DE 2015)</small>
+
+###### ARTICULO 65.
+
+Cuando en el presente Reglamento se usen los términos Ley, Banco, Junta y Gobernador deberán entenderse referidos a la Ley del Banco de México, al Banco de México, a su Junta de Gobierno y Gobernador, respectivamente.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+###### ARTICULO 66.
+
+Sin perjuicio de lo señalado en el artículo 45 de la Ley del Banco de México, durante las ausencias de los Directores Generales, Directores, Gerentes y Cajeros Regionales, estos podrán ser substituidos por el funcionario de la jerarquía inmediata inferior a la del ausente, que desempeñe funciones relacionadas con el asunto de que se trate. El funcionario que ejercite la facultad aquí señalada deberá indicar que actúa en los términos de este artículo. Esta disposición no es aplicable al artículo 4o. Bis de este Reglamento.
+
+Tratándose de las adjudicaciones de contratos que, de acuerdo con las disposiciones aplicables, deban ser suscritas por el titular de la Dirección de Recursos Materiales, en su ausencia aquéllas serán firmadas por el Director General de Sistemas de Pagos y Servicios Corporativos. En ausencia de ambos, las adjudicaciones señaladas deberán ser firmadas por dos funcionarios que actúen en forma mancomunada y que ocupen puestos de Gerente, adscritos a la propia Dirección de Recursos Materiales.
+
+En el caso de procesos de carácter judicial, administrativo o del trabajo, en los que deban intervenir el Gobernador, la Junta de Gobierno, alguno de sus miembros, los Directores Generales o Directores, las promociones correspondientes podrán ser firmadas, en su ausencia, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, podrán firmar el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+
+###### ARTICULO 67.
+
+El Banco de México, su Gobernador, la Junta de Gobierno, sus miembros, los Directores Generales, el Secretario de la Junta y los Directores, podrán ser representados en el juicio de amparo, en las controversias constitucionales o en cualquier otro proceso de carácter constitucional, según corresponda, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, dicha representación recaerá en el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
 
 ## TRANSITORIOS
 
@@ -2020,3 +2222,15 @@ PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de Méxic
 SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
 
 Las presentes modificaciones al Reglamento Interior del Banco de México fueron aprobadas por su Junta de Gobierno, con fundamento en lo dispuesto por el artículo 46, fracción XVI, de la Ley del Banco de México, en sesión del 25 de noviembre de 2014.
+
+D.O.F. 30 DE ENERO DE 2015.
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor el primero de febrero de dos mil quince.
+
+SEGUNDO. Los actos emitidos y notificados por Banco de México con anterioridad a la entrada en vigor de este ordenamiento no le serán exigibles los requisitos contenidos en las presentes modificaciones y conservarán todo su valor y fuerza legales.
+
+Los actos de verificación del cumplimiento de las disposiciones de la Ley del Banco de México y demás normativa que este haya emitido, así como sus consecuencias jurídicas, que hubieren sido iniciados con anterioridad a la fecha señalada en el Artículo Primero Transitorio, continuarán rigiéndose por lo previsto en las disposiciones vigentes con anterioridad a esa fecha.
+
+TERCERO. Los recursos de reconsideración y revisión que se encuentren pendientes de resolución se tramitaran en los aspectos procesales conforme a las reglas contenidas en las presentes modificaciones y adiciones, una vez que hayan entrado en vigor.
+
+Las presentes modificaciones al Reglamento Interior del Banco de México, fueron aprobadas por su Junta de Gobierno, con fundamento en lo dispuesto por el artículo 46, fracción XVI, de la Ley del Banco de México, en sesión del dieciocho de diciembre de dos mil catorce.
