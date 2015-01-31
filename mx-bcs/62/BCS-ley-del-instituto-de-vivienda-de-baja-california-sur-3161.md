@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-de-vivienda-de-baja-california-sur-3161"
 country: "mx"
 rank: "ley"
 publication_date: "1982-07-10"
-last_updated: "2005-12-20"
+last_updated: "2015-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL INSTITUTO DE VIVIENDA DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 10 de julio de 1982.
 
@@ -45,9 +45,11 @@ LEY DEL INSTITUTO DE VIVIENDA DE BAJA CALIFORNIA SUR
 
 Se crea el Organismo Público Descentralizado, de carácter técnico y promocional, denominado Instituto de Vivienda, con personalidad jurídica y patrimonio propio, que tendrá por objeto: promover y ejecutar en el Estado conforme a esta Ley, programas de vivienda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE ENERO DE 2015)</small>
+
 ###### ARTICULO 2o.
 
-Para cumplir con su objetivo, el Instituto tendrá las atribuciones siguientes:
+Para cumplir con su objeto, el Instituto tendrá las atribuciones siguientes:
 
 I.- Promover y ejecutar directamente o a través de terceros Programas de Vivienda Popular, fundamentalmente para aquellas personas no afiliadas a un régimen de vivienda social.
 
@@ -79,6 +81,10 @@ XIV.- Capacitar personal especializado en la promoción y ejecución de los trab
 
 XV.- En general, celebrar todos los contratos o convenios y ejecutar todos los actos necesarios para la realización de su objeto.
 
+> <small>(ADICIONADA, B.O. 31 DE ENERO DE 2015)</small>
+
+XVI.- Promover la creación de planes y programas de vivienda que garanticen el acceso a personas con discapacidad, siempre que estas cumplan con los requisitos establecidos en esta ley, debiendo realizar las adecuaciones arquitectónicas en las viviendas para garantizar el pleno desarrollo de dichas personas.
+
 ### CAPITULO II. PATRIMONIO Y ORGANIZACION
 
 ###### ARTICULO 3o.
@@ -109,7 +115,9 @@ II. El Director; y
 
 III. El Comisario.
 
-El Consejo estará integrado por el Gobernador del Estado quien lo presidirá; por un Secretario Técnico que será el Director del Instituto; por un Comisario; por el Secretario de Planeación Urbana, Infraestructura y Ecología como Coordinador del Sector; por el Secretario de Finanzas; así como un representante de un Colegio de Profesionales de la Entidad relacionados con la materia y otro más de una de las Organizaciones Sociales. Los tres primeros, determinarán el Colegio de Profesionales y la Organización Social que deban estar representadas en el consejo.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2015)</small>
+
+El Consejo estará integrado por el Gobernador del Estado quien lo presidirá; por un Secretario técnico que será el Director del Instituto; por un Comisario; por el Secretario de Planeación Urbana, Infraestructura y Ecología como Coordinador del Sector; por el Secretario de Finanzas; por el Director del Instituto Sudcaliforniano Para la Inclusión de las Personas con Discapacidad, así como un representante de un Colegio de Profesionales de la Entidad relacionados con la materia y otro más de una de las Organizaciones Sociales. Los tres primeros, determinarán el Colegio de Profesionales y la Organización social que deban estar representados en el consejo.
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
 
@@ -325,6 +333,28 @@ Se exenta al Instituto del pago de impuestos prediales, mientras los inmuebles s
 
 Por los contratos y operaciones de inmuebles que celebre el Instituto, no se causarán los impuestos correspondientes ni el pago de permisos, derechos y licencias en el desarrollo de los programas que tiene señalados.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE ENERO DE 2015)</small>
+
+### CAPITULO VI. DEL ACCESO A LA VIVIENDA DE LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2015)</small>
+
+ARTICULO 26 (SIC).- En términos de lo establecido en el artículo 7 de la presente ley, será obligación del Consejo al momento de aprobar el plan de labores y financiamientos del siguiente ejercicio, considerar la construcción de vivienda con las adecuaciones arquitectónicas necesarias para el pleno desarrollo de las personas con discapacidad.
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2015)</small>
+
+###### ARTICULO 27.
+
+El Consejo del Instituto de Vivienda deberá de garantizar cuando menos el diez por ciento del total de viviendas programadas para el ejercicio subsecuente se destinen exclusivamente a personas con discapacidad o a personas que cuenten con dependientes en esta condición.
+
+En caso de que el ejercicio respectivo, el número de solicitudes de vivienda por parte de personas con discapacidad o tutores sea menor del diez por ciento establecido en el párrafo anterior se aprobaran la totalidad de las solicitudes siempre que se cumplan con los requisitos que marca la presente ley y los reglamentos correspondientes.
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2015)</small>
+
+###### ARTICULO 28.
+
+Corresponderá al Instituto Sudcaliforniano para la Inclusión de Personas con Discapacidad expedir la constancia que certifique la discapacidad con que cuenten los posibles beneficiarios de vivienda, previo estudio de constancias médicas.
+
 ## TRANSITORIO
 
 ###### ARTICULO 1o.
@@ -380,3 +410,7 @@ El Consejo deberá expedir el Reglamento Interior del Instituto, en un plazo que
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE ENERO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
