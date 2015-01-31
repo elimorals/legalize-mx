@@ -4,7 +4,7 @@ identifier: "FED-ley-del-sistema-de-horario-en-los-estados-unidos-mexicanos-2268
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-29"
-last_updated: "2010-01-06"
+last_updated: "2015-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22685&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-12-28"
 
 LEY DEL SISTEMA DE HORARIO EN LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el sábado 29 de diciembre de 2001.
 
@@ -41,15 +41,19 @@ LEY DEL SISTEMA DE HORARIO EN LOS ESTADOS UNIDOS MEXICANOS
 
 La presente Ley es de aplicación general y regirá en todo el territorio de los Estados Unidos Mexicanos, sus disposiciones son de orden público e interés general, su aplicación y vigilancia estará a cargo del Ejecutivo Federal por conducto de las dependencias que conforme a la Ley Orgánica de la Administración Pública Federal tengan asignada competencia sobre la materia que regula el presente ordenamiento.
 
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2015)</small>
+
 ###### Artículo 2.
 
-Se reconoce para los Estados Unidos Mexicanos la aplicación y vigencia de los husos horarios 90 grados, 105 grados y 120 grados ente del meridiano de Greenwich y los horarios que les corresponden conforme a su ubicación, aceptando los acuerdos tomados en la Conferencia Internacional de Meridianos de 1884, que establece al meridiano cero.
+Se reconoce para los Estados Unidos Mexicanos la aplicación y vigencia de los husos horarios 75 grados, 90 grados, 105 grados y 120 grados oeste del meridiano de Greenwich y los horarios que les corresponden conforme a su ubicación, aceptando los acuerdos tomados en la Conferencia Internacional de Meridianos de 1884, que establece el meridiano cero.
 
 ###### Artículo 3.
 
 Para el efecto de la aplicación de esta Ley, se establecen dentro del territorio nacional las siguientes zonas y se reconocen los meridianos que les correspondan:
 
-I. Zona Centro: Referida al meridiano 90 grados al oeste de Greenwich y que comprende la mayor parte del territorio nacional, con la salvedad de lo establecido en los numerales II, III y IV de este mismo artículo.
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2015)</small>
+
+I. Zona Centro: Referida al meridiano 90 grados al oeste de Greenwich y que comprende la mayor parte del territorio nacional, con la salvedad de lo establecido en los numerales II, III, IV y V de este mismo artículo.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -57,9 +61,15 @@ I. Zona Centro: Referida al meridiano 90 grados al oeste de Greenwich y que comp
 
 II. Zona Pacífico: Referida al meridiano 105 oeste y que comprende los territorios de los estados de Baja California Sur; Chihuahua; Nayarit, con excepción del municipio de Bahía de Banderas, el cual se regirá conforme a la fracción anterior en lo relativo a la Zona Centro; Sinaloa y Sonora;
 
-III. Zona Noroeste: Referida al Meridiano 120 oeste y que comprende el territorio del Estado de Baja California, y
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2015)</small>
 
-IV. Las islas, arrecifes y cayos quedarán comprendidos dentro del meridiano al cual corresponda su situación geográfica y de acuerdo a los instrumentos de derecho internacional aceptados.
+III. Zona Noroeste: Referida al Meridiano 120 oeste y que comprende el territorio del Estado de Baja California;
+
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2015)</small>
+
+IV. Zona Sureste: Referida al meridiano 75 oeste y que comprende el territorio del Estado de Quintana Roo, y
+
+V. Las islas, arrecifes y cayos quedarán comprendidos dentro del meridiano al cual corresponda su situación geográfica y de acuerdo a los instrumentos de derecho internacional aceptados.
 
 ###### Artículo 4.
 
@@ -94,3 +104,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 6 DE ENERO DE 2010.
 
 Único. El presente Decreto entrará en vigor el día en que inicie el horario estacional inmediato posterior a la publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE ENERO DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
