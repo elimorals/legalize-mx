@@ -4,7 +4,7 @@ identifier: "COL-ley-del-transporte-y-de-la-seguridad-vial-para-el-estado-de-519
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2015-01-10"
+last_updated: "2015-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE ENERO DE 2015 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 31 DE ENERO DE 2015.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -307,7 +307,7 @@ XIV. Operar el Registro;
 
 XV. Expedir autorizaciones para el funcionamiento de estacionamientos, encierros, corralones y confinamientos públicos, así como proponer sus tarifas correspondientes;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2015)</small>
+(REFORMADA, P.O. 10 DE ENERO DE 2015) (F. DE E., P.O. 31 DE ENERO DE 2015)
 
 XVI. Expedir, revalidar, reponer, suspender o cancelar las licencias, permisos, placas o autorizaciones para la conducción, circulación y uso de vehículos en todo espacio de dominio público y uso común, que por disposiciones de esta Ley o por razones de servicio, esté destinado al tránsito y al servicio de transporte, en las vías públicas estatales y municipales y, de conformidad a los acuerdos y convenios, en las de jurisdicción federal;
 
@@ -393,9 +393,9 @@ I.- Del Cabildo Municipal:
 
 a).- Mantener a su cargo el servicio público de tránsito, en los términos que marca el artículo 115 de la Constitución General de la República, así como el artículo 87 fracciones III y IX de la Constitución Política del Estado de Colima;
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+(REFORMADO, P.O. 10 DE ENERO DE 2015) (F. DE E., P.O. 31 DE ENERO DE 2015)
 
-b).- Expedir los Reglamentos que estimen pertinentespara (sic) una mejor prestación del Servicio de Tránsito, ajustándose en todo momento a lo dispuesto en sus propios ordenamientos y procurando que cada uno de ellos se ajusten a las características de tránsito y vialidad, propias de su Municipio; respetando en todo momento, los principios, reglas y las señales de tránsito aceptados en el país e internacionalmente; absteniéndose de facultar la retención de licencias o permisos para conducir, placas y tarjetas de circulación, placas y tarjetas de circulación provisionales o cualquier documento de identificación vehicular que sirva para acreditar la existencia del Registro Público Vehicular del Estado de Colima en términos de lo establecido en esta Ley, y
+b).- Expedir los Reglamentos que estimen pertinentes para una mejor prestación del Servicio de Tránsito, ajustándose en todo momento a lo dispuesto en sus propios ordenamientos y procurando que cada uno de ellos se ajusten a las características de tránsito y vialidad, propias de su Municipio; respetando en todo momento, los principios, reglas y las señales de tránsito aceptados en el país e internacionalmente; absteniéndose de facultar la retención de licencias o permisos para conducir, placas y tarjetas de circulación, placas y tarjetas de circulación provisionales o cualquier documento de identificación vehicular que sirva para acreditar la existencia del Registro Público Vehicular del Estado de Colima en términos de lo establecido en esta Ley, y
 
 c).- Celebrar los Convenios que estimen pertinentes, por conducto de los Presidentes Municipales, para una mejor prestación del servicio de Tránsito, ajustándose en todo momento a lo dispuesto en sus Reglamentos y en las demás disposiciones aplicables.
 
