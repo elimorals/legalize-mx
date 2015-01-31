@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interno-del-tribunal-estatal-electoral-de-baja-51991
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-30"
-last_updated: "2006-09-30"
+last_updated: "2015-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ESTATAL ELECTORAL DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL TRIBUNAL ESTATAL ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 31 DE ENERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California, el sábado 30 de septiembre de 2006.
 
@@ -580,3 +582,11 @@ MAGISTRADO NUMERARIA
 LIC. RAMON RUIZ LUCERO.
 
 SECRETARIO GENERAL DE ACUERDOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 31 DE ENERO DE 2015.
+
+Primero.- El presente Reglamento entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se abroga el "Reglamento Interno del Tribunal Estatal Electoral de Baja California Sur", aprobado por el Pleno el día dieciocho de septiembre de dos mil seis y publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 42, de fecha 30 de septiembre de dos mil seis.
