@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2014-10-18"
+last_updated: "2015-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2015.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -38,6 +38,12 @@ DEL ESTADO Y SU TERRITORIO.
 ###### Art. 1o.
 
 El Estado de Chihuahua es parte integrante de los Estados Unidos Mexicanos y posee una composición pluricultural, pluriétnica y multilingüística.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+
+La identidad plural de la sociedad chihuahuense será reflejada en una imagen institucional única para los poderes públicos del Estado y de los municipios, sin perjuicio de las identidades regionales de los gobiernos municipales. La ley regulará las características de los símbolos del Estado y definirá las reglas de las imágenes institucionales de los ayuntamientos, en todo caso, el escudo y lema del Estado estarán integrados a las imágenes de los municipios.
 
 ###### Art. 2o.
 
@@ -1569,11 +1575,11 @@ VI.- Para poder ser nombrado Gobernador Interino, cuando no lo sea por ministeri
 
 Nunca podrá ser electo para el período inmediato el ciudadano que haya desempeñado el cargo de Gobernador Provisional, el de Gobernador Substituto o el que haya sido designado para concluir el período en caso de falta absoluta del Gobernador Constitucional cualquiera que sea el nombre con que se le designe. Tampoco podrá ser electo para el período inmediato, el ciudadano que haya desempeñado el cargo de Gobernador con el carácter de Interino, o el que lo haya asumido por Ministerio de Ley, o con cualquiera otra denominación, durante los dos últimos años del período que precede al nuevo período constitucional.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2015)</small>
 
 ###### Art. 91.
 
-El Gobernador no puede separarse por tiempo alguno del ejercicio de sus funciones ni salir del territorio del Estado por más de veintiún días sin licencia del Congreso o, en su receso, de la Diputación Permanente; cuando deba salir por un término de veintiún días o menos deberá simplemente dar aviso de su salida al Congreso y al Supremo Tribunal de Justicia; tratándose de giras de trabajo que se realicen fuera del país, deberá informar al Congreso del Estado dentro de los siguientes quince días hábiles, los resultados obtenidos de las mismas; cuando salga de la Capital pero no fuera del territorio del Estado, el Gobernador no necesitará pedir licencia ni dar aviso a los otros Poderes.
+El Gobernador no puede separarse por tiempo alguno del ejercicio de sus funciones ni salir del territorio del Estado por más de veintiún días sin licencia del Congreso o, en su receso, de la Diputación Permanente; cuando deba salir por un término de veintiún días o menos deberá simplemente dar aviso de su salida al Congreso y al Supremo Tribunal de Justicia; tratándose de giras de trabajo que se realicen fuera del país, deberá informar al Congreso del Estado dentro de los siguientes quince días hábiles, los resultados obtenidos de las mismas; cuando salga del territorio del Estado pero no del territorio nacional, por un tiempo no mayor a los cinco días hábiles, el Gobernador no necesitará pedir licencia ni dar aviso a los otros Poderes.
 
 ###### Art. 92.
 
@@ -4094,3 +4100,23 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 La reforma constitucional contenida en el presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE ENERO DE 2015.
+
+DECRETO NÚMERO 562/2014 V P.E. QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el Artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase el cómputo de los votos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez emitida la declaratoria de aprobada la reforma y publicada en el Periódico Oficial del Estado, el presente Decreto entrará en vigor el día 1 de octubre del año 2016.
+
+P.O. 31 DE ENERO DE 2015.
+
+DECRETO NÚMERO 573/2014 I, POR EL QUE SE REFORMA EL ARTÍCULO 91 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.
+
+PRIMERO.- Conforme a lo dispuesto por el Artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
