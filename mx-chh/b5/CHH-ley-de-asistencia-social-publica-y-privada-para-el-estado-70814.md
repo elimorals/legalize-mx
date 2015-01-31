@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asistencia-social-publica-y-privada-para-el-estado-70814
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-28"
-last_updated: "2014-06-14"
+last_updated: "2015-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de octubre de 2009.
 
@@ -85,6 +85,10 @@ IV. Comités de Contraloría Social: El mecanismo de que disponen las personas s
 
 V. Personas en Situación de Vulnerabilidad: Aquellas que por diversas circunstancias se encuentran imposibilitadas para superar los efectos adversos causados por factores biopsicológicos o eventos naturales, económicos, culturales o sociales.
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2015)</small>
+
+VI. Madres Jefas de Familia en situación de vulnerabilidad: son aquellas mujeres solteras que asuman en su totalidad el sustento económico de uno o más de sus descendientes en línea recta y que se encuentren en condición de desventaja socioeconómica.
+
 ### CAPÍTULO II. DE LAS PERSONAS SUJETAS DE ASISTENCIA SOCIAL
 
 ###### Artículo 4.
@@ -109,9 +113,15 @@ VIII. Las que se encuentren privadas de su libertad por la comisión de algún d
 
 IX. Migrantes;
 
-X. Las carentes de capacidad para satisfacer sus requerimientos básicos de subsistencia, y
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
+
+X. Las carentes de capacidad para satisfacer sus requerimientos básicos de subsistencia.
 
 XI. Las afectadas por desastres de origen natural o antropogénico.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2015)</small>
+
+XII. Las Madres Jefas de Familia.
 
 ###### Artículo 5.
 
@@ -222,6 +232,62 @@ Las acciones que impliquen la prestación de servicios de asistencia social que 
 ###### Artículo 14.
 
 En casos de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de análoga naturaleza por los que se causen daños a la población, el organismo para la asistencia social pública actuará en coordinación con las autoridades estatales y municipales encargadas de la protección civil.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 2015)</small>
+
+#### SECCIÓN PRIMERA. DEL APOYO A LAS MADRES JEFAS DE FAMILIA
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+
+###### Artículo 14-A.
+
+El Gobierno del Estado, a través de sus dependencias y entidades, implementará y promoverá las políticas públicas y programas de apoyo preferenciales y permanentes, en materia de formación educativa, capacitación de artes u oficios que puedan desarrollar las madres jefas de familia a bajo costo; de asesoría técnica y jurídica, de apoyo y financiamiento de proyectos productivos y de autoempleo, de servicios de salud, de guardería y asistencia social y demás acciones en beneficio de las madres jefas de familia y sus hijos menores de edad.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+
+###### Artículo 14-B.
+
+Las dependencias y entidades podrán celebrar convenios de concertación con el sector privado y ayuntamientos, con el propósito de implementar acciones de apoyo a madres jefas de familia, que propicien el mejoramiento de su calidad de vida.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+
+###### Artículo 14-C.
+
+Para acceder a los beneficios mencionados en el presente Capítulo, las madres jefas de familia deberán cumplir con los siguientes requisitos:
+
+I. Sean mujeres, que asuman el rol de jefas de familia y se encarguen en forma única y total del sustento económico de sus descendientes en línea recta;
+
+II. Acrediten ser madres solteras mediante un certificado de inexistencia de matrimonio y las actas de nacimiento del hijo o hijos, en su caso;
+
+III. Acrediten estar en situación de desventaja, mediante un estudio socioeconómico que llevará a cabo el DIF Estatal;
+
+IV. Que sus descendientes en línea recta no tengan más de 16 años de edad;
+
+V. Que sus descendientes mayores de 5 años de edad y menores de 16 años se encuentren inscritos en los planteles del Sistema Educativo Estatal o Nacional;
+
+VI. Que sus descendientes en línea recta mayores de 5 años y menores de 16 años de edad sean alumnos regulares de acuerdo con los planes y programas de estudio;
+
+VII. Las mujeres que sean beneficiarias del apoyo económico a que se hace referencia en esta Ley, deberán participar en la capacitación técnica y/o en el desarrollo de un proyecto productivo que les permita obtener su propio ingreso;
+
+VIII. Acreditar la residencia en el Estado de Chihuahua, y
+
+IX. No contar con apoyo económico de otras instituciones públicas, excepto las becas dirigidas al desarrollo educativo de las madres o de sus descendientes en línea recta.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+
+###### Artículo 14-D.
+
+Serán motivo de cancelación de los beneficios que se otorguen a las madres jefas de familia, los siguientes supuestos:
+
+I. Cuando los hijos de la madre beneficiada cumplan los 16 años de edad o dejen de estudiar;
+
+II. Cuando existan datos fehacientes que acrediten el cambio de situación, mediante estudio socioeconómico que llevará a cabo el DIF Estatal;
+
+III. Cuando proporcionen información falsa;
+
+IV. Cuando se compruebe mediante verificación domiciliaria que tiene pareja y vive en el mismo domicilio, y
+
+V. El maltrato, la violencia física o psicológica, o la explotación económica o social que de sus descendientes en línea recta haga la madre beneficiaria de los apoyos otorgados.
 
 ### CAPÍTULO IV. DE LA POLÍTICA ESTATAL DE DESARROLLO SOCIAL Y HUMANO EN MATERIA DE ASISTENCIA SOCIAL
 
@@ -1368,3 +1434,9 @@ P.O. 14 DE JUNIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE ENERO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento con el presente Decreto, se sujetarán a los recursos aprobados para tal efecto por el H. Congreso del Estado.
