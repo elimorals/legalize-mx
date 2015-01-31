@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2015-01-10"
+last_updated: "2015-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE ENERO DE 2015 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 31 DE ENERO DE 2015.</small>
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -339,7 +339,7 @@ Los cargos de elección popular municipal son irrenunciables salvo que existan c
 
 ###### ARTICULO 27.
 
-Para ser integrante de un ayuntamiento se requiere cumplir con los requisitos establecidos por el artículo 90 de la Constitución. Las categorías de los servidores públicos a que se refiere el último párrafo del citado artículo, son los (sic) siguientes:
+Para ser integrante de un ayuntamiento se requiere cumplir con los requisitos establecidos por el artículo 90 de la Constitución. Las categorías de los servidores públicos a que se refiere el último párrafo del citado artículo, son los siguientes:
 
 a) De la federación: delegado o su equivalente de las secretarías de Estado, Procuraduría General de la República, organismos descentralizados, empresas de participación estatal y fideicomisos;
 
@@ -1335,11 +1335,13 @@ VII. Cuidar que se cumplan y apliquen las disposiciones de la Ley y sus reglamen
 
 VIII. Tomar conocimiento de las infracciones que cometan los conductores de los vehículos y prestadores del servicio público y, en su caso, levantar o hacer constar dichas infracciones, para los efectos de determinar y aplicar la sanción correspondiente, atendiendo las circunstancias de tiempo, modo y lugar.
 
-Las infracciones en materia de tránsito podrán ser conocidas por los elementos de tránsito municipal a través de equipos o sistemas tecnológicos y gestionarse con el uso de medios electrónicos, los cuales deberán funcionar bajo los principios de neutralidad tecnológica, equivalencia funcional, autenticidad, conservación, confidencialidad e integridad; y
+(REFORMADO, P.O. 10 DE ENERO DE 2015) (F. DE E., P.O. 31 DE ENERO DE 2015)
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2015)</small>
+Las infracciones en materia de tránsito podrán ser conocidas por los elementos de tránsito municipal a través de equipos o sistemas tecnológicos y gestionarse con el uso de medios electrónicos, los cuales deberán funcionar bajo los principios de neutralidad tecnológica, equivalencia funcional, autenticidad, conservación, confidencialidad e integridad.
 
-En ningún caso los elementos de tránsito deberán llevar a cabo la retención de licencias o permisos para conducir, placas y tarjetas de circulación, placas y tarjetas de circulación provisionales o cualquier documento de identificación vehicular que prevé la Ley del Transporte y de la Seguridad Vial.
+(ADICIONADO, P.O. 10 DE ENERO DE 2015) (F. DE E., P.O. 31 DE ENERO DE 2015)
+
+En ningún caso los elementos de tránsito deberán llevar a cabo la retención de licencias o permisos para conducir, placas y tarjetas de circulación, placas y tarjetas de circulación provisionales o cualquier documento de identificación vehicular que prevé la Ley del Transporte y de la Seguridad Vial; y
 
 IX. Las demás que les sean señaladas por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, por esta Ley y los reglamentos en materia de tránsito y seguridad vial.
 
