@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-de-la-fiscalia-general-del-94749"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-18"
-last_updated: "2013-06-18"
+last_updated: "2015-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 5 Y 19 DE FEBRERO DE 2015 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2015.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 18 de junio de 2013.
 
@@ -35,7 +37,7 @@ GUADALAJARA, JALISCO A 10 DE JUNIO DEL AÑO 2013
 
 Jorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado de Jalisco, con fundamento en lo dispuesto en los artículos 36, 46 y 50 fracción VIII de la Constitución Política; así como 1°, 3°, 4°, 6° fracción II y 27 de la Ley Orgánica del Poder Ejecutivo, ambos ordenamientos del Estado de Jalisco, y
 
-CONSIDERANDO:.
+CONSIDERANDO:...
 
 Con base en lo expuesto y fundado, tengo a bien expedir el siguiente
 
@@ -63,13 +65,25 @@ III. Ley Orgánica: La Ley Orgánica de la Fiscalía General del Estado de Jalis
 
 IV. Reglamento: El presente Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Jalisco;
 
-V. Fiscalía Central: La Fiscalía Central de la Fiscalía General;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
 
-VI. Fiscal General: El Fiscal General del Estado;
+V. Fiscal General: El Fiscal General del Estado;
 
-VII. Fiscalía General: La Fiscalía General del Estado; y
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
 
-VIII. Fiscalías Regionales: Las Fiscalías Regionales de la Fiscalía Regional.
+VI. Fiscalía Central: La Fiscalía Central de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
+
+VII. Fiscalía Electoral: La Fiscalía Especial en materia de Delitos Electorales;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
+
+VIII. Fiscalía General: La Fiscalía General del Estado; y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2015)</small>
+
+IX. Fiscalías Regionales: Las Fiscalías Regionales de la Fiscalía Regional.
 
 ###### Artículo 3°.
 
@@ -131,19 +145,35 @@ I. La Fiscalía General;
 
 II. La Fiscalía Central;
 
-III. El Comisionado de Seguridad Pública;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
 
-IV. La Fiscalía Regional;
+III. La Fiscalía Especial en materia de Delitos Electorales;
 
-V. La Fiscalía de Derechos Humanos;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
 
-VI. La Fiscalía de Reinserción Social; y
+IV. El Comisionado de Seguridad Pública;
 
-VII. los Agentes del Ministerio Público.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
+
+V. La Fiscalía Regional;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
+
+VI. La Fiscalía de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
+
+VII. La Fiscalía de Reinserción Social; y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2015)</small>
+
+VIII. Los Agentes del Ministerio Público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2015)</small>
 
 ###### Artículo 14.
 
-los órganos previstos en las fracciones II, III, IV, V y VI del artículo anterior, podrán contar con enlaces de la Unidad de Administración y Profesionalización, quienes estarán bajo las instrucciones de ésta, pero se encontrarán en la respectiva unidad o área para el cumplimiento de sus funciones.
+Los órganos previstos en las fracciones II, III, IV, V, VI y VII del artículo anterior, podrán contar con enlaces de la Unidad de Administración y Profesionalización, quienes estarán bajo las instrucciones de ésta, pero se encontrarán en la respectiva unidad o área para el cumplimiento de sus funciones.
 
 Para el mismo efecto, también podrán contar con enlaces respecto de la Dirección General Jurídica y de Control Interno.
 
@@ -245,7 +275,9 @@ XXXVII. Emitir los lineamientos y criterios para la distribución de los asuntos
 
 XXXVIII. Establecer los procesos y mecanismos para turnar a las autoridades competentes los asuntos y las denuncias de los ciudadanos que, siendo presentadas ante la Fiscalía General, no sean de su competencia;
 
-XXXIX. Facultar al Fiscal Central y al Fiscal Regional para desistirse de la acción penal, así como de los recursos en los procesos penales en que intervenga; y
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
+
+XXXIX. Facultar al Fiscal Central, al Fiscal Electoral y al Fiscal Regional para desistirse de la acción penal, así como de los recursos en los procesos penales en que intervenga; y
 
 XL. Ejercer las facultades que se desprendan de otros ordenamientos legales, así como las que las atribuciones y asuntos que el Gobernador del Estado de Jalisco delegue en los términos de la normatividad aplicable.
 
@@ -471,19 +503,101 @@ Para el cumplimiento de sus funciones, la Fiscalía Central en coordinación con
 
 La Fiscalía Central planeará, concluirá y desarrollará sus actividades en forma programada y de conformidad con las políticas, estratégicas, prioridades y restricciones que para el logro de objetivos y metas determine el Fiscal General, conforme a la Ley Orgánica, la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema de Seguridad Pública para el Estado de Jalisco, este Reglamento y las demás disposiciones jurídicas que fueren aplicadas.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2015)</small>
+
 ###### Artículo 30.
 
-Los agentes del Ministerio Público podrán proponer al Fiscal General, según el desarrollo de las investigaciones, continuar o no con la persecución del delito, el archivo temporal o definitivo de la investigación, el no ejercicio de la acción penal, el sobreseimiento de la causa, la suspensión del procedimiento a prueba, la utilización del procedimiento abreviado o cualquier otra vía alterna, la cual deberá ser aprobada en definitiva por el Fiscal General, de conformidad con el Código de Procedimientos Penales para el Estado Libre y Soberano de Jalisco.
+Los agentes del Ministerio Público podrán proponer al Fiscal General, según el desarrollo de las investigaciones, continuar o no con la persecución del delito, el archivo temporal o definitivo de la investigación, el no ejercicio de la acción penal, el sobreseimiento de la causa, la suspensión del procedimiento a prueba, la utilización del procedimiento abreviado o cualquier otra vía alterna, la cual deberá ser aprobada en definitiva por el Fiscal General, de conformidad con el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 31.
 
 Para la atención de los delitos cuya investigación y persecución requiera de mayores exigencias técnicas, el Fiscal General acordará la creación de unidades especializadas, las cuales se organizarán y ejercerán las funciones que se fijen en el acuerdo de creación respectivo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2015)</small>
+
+### CAPÍTULO IV BIS. DE LA FISCALÍA ELECTORAL
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+
+###### Artículo 31-A.
+
+La Fiscalía Especial en materia de Delitos Electorales es la encargada de la investigación y persecución de delitos en materia electoral cometidos en el Estado y que no sean competencia de la Federación conforme a la Ley General en Materia de Delitos Electorales.
+
+Al frente de la Fiscalía Electoral habrá un titular denominado Fiscal Electoral, a quien originariamente le corresponde la representación, trámite y resolución de los asuntos encomendados a aquélla, y quien podrá, para la mejor distribución y desarrollo del trabajo, conferir sus facultades a servidores públicos subalternos sin perjuicio de su ejercicio directo.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+
+###### Artículo 31-B.
+
+Para ejercitar las atribuciones que la Ley Orgánica le confiere a la Fiscalía Electoral, el Fiscal Electoral contará con las siguientes facultades y obligaciones:
+
+I. Coordinar la planeación, seguimiento y evaluación de la operación de las dependencias bajo su responsabilidad, así como del desempeño del personal adscrito a la Fiscalía Electoral, según su función y responsabilidad;
+
+II. Proponer al Fiscal General para su autorización los manuales de organización de procesos y de trámites y servicios;
+
+III. Proponer al Fiscal General el número de agentes del Ministerio Público necesarios para atender las denuncias y los asuntos que son de su encomienda, así como su adscripción administrativa y distribución territorial;
+
+IV. Proponer al Fiscal General los lineamientos y criterios para normar y evaluar el desempeño de los agentes del Ministerio Público, las policías y demás personal administrativo y operativo de la Fiscalía Electoral;
+
+V. Vigilar la adecuada integración de las investigaciones y el cumplimiento del debido proceso, en los asuntos bajo su responsabilidad;
+
+VI. Supervisar las investigaciones de los agentes del Ministerio Público adscritos a la Fiscalía Electoral, con el fin de asegurar que éstas agotan sus etapas en tiempo y forma y reúnen las pruebas necesarias para sustentar sus conclusiones;
+
+VII. Someter al acuerdo del Fiscal General los asuntos encomendados a la Fiscalía Electoral e informarle sobre el estado de los mismos;
+
+VIII. Desempeñar las comisiones y funciones específicas que el Fiscal General le confiera e informarle sobre el desarrollo de las mismas;
+
+IX. Proponer al Fiscal General los proyectos de leyes, reglamentos y decretos relacionados con el ámbito de competencia de la Fiscalía Electoral;
+
+X. Determinar la delegación y desconcentración de facultades en los servidores públicos de la Fiscalía Electoral;
+
+XI. Resolver las dudas que se presenten entre las unidades administrativas de la Fiscalía Electoral respecto de la atribución para el conocimiento de los asuntos;
+
+XII. Encomendar a los agentes del Ministerio Público, independientemente de sus funciones, el estudio de los asuntos que estime pertinentes;
+
+XIII. Requerir información, documentos o certificados relativos al sistema electoral, bancario, financiero o fiscal, por medio de oficio dirigido a las autoridades federales competentes, previa autorización del Fiscal General;
+
+XIV. En el ámbito de su competencia, fortalecer e implementar mecanismos de cooperación y colaboración con autoridades federales, estatales y municipales, atendiendo a las políticas (sic) instituciones, conforme a los lineamientos que emita el Fiscal General;
+
+XV. Diseñar e implementar cursos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia electoral;
+
+XVI. Proponer, en coordinación con los Órganos y las instancias administrativas de la Fiscalía General, políticas, estrategias y líneas de acción para combatir los delitos materia de su competencia, así como participar, en coordinación con las instancias competentes, en la elaboración y ejecución de los programas de prevención social;
+
+XVII. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para el apoyo a la procuraduría de justicia; y
+
+XVIII. Las demás que le confiera el Fiscal General y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+
+###### Artículo 31-C.
+
+La Fiscalía Electoral contará con las direcciones, jefaturas, coordinaciones, unidades y agencias especializadas necesarias y que permita (sic) la suficiencia presupuestal; su estructura orgánico-administrativa, así como las atribuciones específicas de las áreas que la integrarán, se señalarán en su Reglamento Interno.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+
+###### Artículo 31-D.
+
+Las Direcciones o Unidades de Investigaciones de la Fiscalía Electoral, cuando proceda, deberán auxiliarse del Instituto Jalisciense de Ciencias Forenses, para la adecuada investigación y persecución de los delitos.
+
+Para la correcta integración de las investigaciones, el titular del área que corresponda podrá solicitar directamente la colaboración de otras dependencias o entidades del Poder Ejecutivo del Estado o de los Municipios.
+
+En caso necesario, el Ministerio Público encargado de las investigaciones podrá solicitar al Fiscal Electoral requerir información, documentos o certificados relativos al sistema bancario, financiero o fiscal, por medio de oficio dirigido a las autoridades federales competentes, previa autorización del Fiscal General.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+
+###### Artículo 31-E.
+
+Para el cumplimiento de sus funciones, la Fiscalía Electoral coadyuvará para establecer un sistema integral de investigación destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para apoyo a la procuración de justicia.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+
+###### Artículo 31-F.
+
+El Fiscal Electoral y los agentes del Ministerio Público adscritos podrán proponer al Fiscal General, según el desarrollo de las investigaciones, continuar o no con la persecución del delito, el archivo temporal o definitivo de la investigación, el no ejercicio de la acción penal, el sobreseimiento de la causa, la suspensión del procedimiento a prueba, la utilización del procedimiento abreviado o cualquier otra vía alterna, la cual deberá ser aprobada en definitiva por el Fiscal General, de conformidad con el Código Nacional de Procedimientos Penales.
+
 ### CAPÍTULO V. DEL COMISIONADO DE SEGURIDAD PÚBLICA
 
 ### CAPÍTULO VI. DE LA FISCALÍA REGIONAL
-
-### CAPÍTULO VII. DE LA FISCALÍA DE DERECHOS HUMANOS
 
 ###### Artículo 32.
 
@@ -571,7 +685,7 @@ El Comisionado de Seguridad Pública se regirá bajo su propio reglamento intern
 
 En la reglamentación interna se establecerán las Comisiones de Honor y Justicia al seno de las respectivas fuerzas policiales en las que, además de los titulares, deberán contemplarse representantes de los propios elementos operativos que la integran.
 
-### CAPÍTULO VIII. DE LA FISCALÍA DE REINSERCIÓN SOCIAL
+### CAPÍTULO VII. DE LA FISCALÍA DE DERECHOS HUMANOS
 
 ###### Artículo 36.
 
@@ -675,7 +789,7 @@ e) Dirección Regional Sureste con sede en Tamazula de Gordiano; y
 
 f) Delegación Regional Sierra de Amula con sede en El Grullo.
 
-### CAPÍTULO IX. DE LOS AGENTES DEL MINISTERIO PÚBLICO
+### CAPÍTULO VIII. DE LA FISCALÍA DE REINSERCIÓN SOCIAL
 
 ###### Artículo 40.
 
@@ -779,7 +893,7 @@ III. Dirección General del Centro de Atención y Protección a Ofendidos, Víct
 
 IV. Dirección General del Centro de Vinculación y Seguimiento a la Defensa de los Derechos Humanos.
 
-### CAPÍTULO X. DE LA PARTICIPACIÓN CIUDADANA
+### CAPÍTULO IX. DE LOS AGENTES DEL MINISTERIO PÚBLICO
 
 ###### Artículo 43.
 
@@ -851,7 +965,7 @@ VIII. Comisaría del Reclusorio Metropolitano; y
 
 IX. Los demás que resulten necesarios de conformidad con la legislación aplicable.
 
-### CAPÍTULO XI. DE LAS SUPLENCIAS
+### CAPÍTULO X. DE LA PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 46.
 
@@ -975,6 +1089,8 @@ III. Promover acciones que mejoren la atención a la comunidad por parte de los 
 
 IV. Brindar información general sobre sus atribuciones y servicios, así como realizar foros públicos para optimizar los resultados de sus funciones y servicios en torno a la procuración de justicia.
 
+### CAPÍTULO XI. DE LAS SUPLENCIAS
+
 ###### Artículo 57.
 
 La Fiscalía General tendrá adscritos administrativamente al Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social, así como al Consejo Consultivo de Procuración de Justicia, como instancias que gozan de autonomía técnica y de gestión.
@@ -1080,3 +1196,25 @@ LUIS CARLOS NÁJERA GUTIÉRREZ DE VE LASCO
 Fiscal General
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE ENERO DE 2015.
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+Segundo. Los asuntos que se hayan encontrado en trámite hasta antes de la entrada en vigor del Decreto 24906/LX/14 del Congreso del Estado, publicado el 8 de julio de 2014 en el Periódico Oficial “El Estado de Jalisco”, seguirán en conocimiento de la unidad administrativa que se haya abocado a su conocimiento, hasta su conclusión o determinación legal.
+
+Tercero. Los asuntos iniciados una vez en vigor el Decreto 24906/LX/14 del Congreso del Estado, publicado el 8 de julio de 2014 en el Periódico Oficial “El Estado de Jalisco”, deberán turnarse a la Fiscalía Especial en materia de Delitos Electorales.
+
+Cuarto. El Fiscal Electoral deberá presentar al Fiscal General los proyectos de reglamentos en el ámbito de sus atribuciones.
+
+Quinto. Se autoriza al Titular de la Fiscalía General, para que en el ámbito de las atribuciones de la Fiscalía Especial en materia de Delitos Electorales, emita los manuales administrativos y demás lineamientos necesarios para su funcionamiento.
+
+Sexto. Se autoriza a la Secretaría de Planeación, Administración y Finanzas, para que con la intervención que corresponda a la Fiscalía General del Estado, lleve a cabo los actos administrativos y presupuestales necesarios para el cumplimiento del presente Acuerdo.
+
+Séptimo. Se concede al Fiscal Electoral un plazo de noventa días para que, por conducto del Fiscal General, se proponga al Titular del Poder Ejecutivo del Estado, el Reglamento Interno de la Fiscalia Especial en materia de Delitos Electorales.
+
+Octavo. La Fiscalía General deberá aplicar el presupuesto autorizado y disponible a la ejecución de las funciones sustantivas y a la consecuente operación de la Fiscalía Especial en materia de Delitos Electorales.
+
+Noveno. Las referencias hechas al Código Nacional de Procedimientos Penales en los artículos que se reforman a través de este Acuerdo, se entenderán al Código de Procedimientos Penales para el Estado Libre y Soberano de Jalisco, en tanto entre en vigor dicho Código Nacional de Procedimientos Penales en términos de las disposiciones legales aplicables.
