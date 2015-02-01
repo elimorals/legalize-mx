@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2014-11-16"
+last_updated: "2015-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
 Con fecha 29 de junio del presente año, el C. Lic. J. Apolonio Betancourt Ruíz, Magistrado Presidente del Tribunal Superior de Justicia del Estado de Durango, envió a esta H. LXIV Legislatura del Estado, Iniciativa de Decreto. Que contiene nueva LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Justicia integrada por los CC. Diputados: José Luis López Ibáñez, Rosauro Meza Sifuentes, Servando Marrufo Fernández, Alma Marina Vitela Rodríguez y J. Salvador Vázquez Hinojosa; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S.
+C O N S I D E R A N D O S...
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -1771,7 +1771,7 @@ IV. Computarizar las acciones del Poder Judicial en áreas de personal, contabil
 
 V. Llevar el registro computarizado de todas aquellas actividades de apoyo al servicio de la administración de justicia, que se determine por el Consejo de la Judicatura;
 
-VI. Capturar y sistematizar la legislación estatal y la jurisprudencia que emita el Tribunal Superior de Justicia, así como asesorar para el acceso a la jurisprudencia; las legislaciones estatal y federal;
+VI. Capturar y sistematizar la legislación estatal y la jurisprudencia que emita el Tribunal Superior de Justicia, así como asesorar para el acceso a la jurisprudencia, las legislaciones estatal y federal;
 
 VII. Proporcionar mantenimiento permanente preventivo y correctivo a los recursos informáticos;
 
@@ -3031,23 +3031,27 @@ ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 259.
 
-De conformidad con el artículo 114 de la Constitución Política del Estado Libre y Soberano de Durango, el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, es la autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado, es competente para dirimir las controversias de carácter administrativo y fiscal que se susciten entre los particulares y la Administración Pública Estatal, las administraciones municipales y los organismos constitucionales autónomos de acuerdo a las leyes de la materia y conocerá además de las impugnaciones que se promuevan en contra de las resoluciones definitivas que dicten las autoridades mencionadas, en aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, sus sesiones serán públicas, con excepción de los casos en que la moral, el interés público o esta ley determine que sean privadas. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
+El Tribunal de Justicia Fiscal y Administrativa es la autoridad jurisdiccional dotada de autonomía en sus resoluciones, conocerá de las controversias que se susciten en relación a la legalidad, interpretación, cumplimiento, procedimiento y resoluciones de naturaleza administrativa y fiscal, que emiten, ejecuten o traten de ejecutar las autoridades de la administración pública del Estado, de los municipios y de los órganos constitucionales autónomos, cuya actuación afecte a los particulares, así como los que surjan entre dos o más entidades públicas, en los términos que determine la ley.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 260.
 
-El Titular del Poder Ejecutivo del Estado propondrá a los Magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, para su aprobación por el Congreso del Estado, en términos del artículo 108 de la Constitución Política del Estado Libre y Soberano de Durango, ante quien rendirán la protesta de Ley.
+El Titular del Poder Ejecutivo del Estado propondrá a los Magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, para su aprobación por el Congreso del Estado, en términos del artículo 98, fracción VI, de la Constitución Política del Estado Libre y Soberano de Durango, ante quien rendirán la protesta de Ley.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+Para ser Magistrado de éste Tribunal, además de los requisitos establecidos en la Constitución Política Local, tener experiencia en las materias fiscal o administrativa cuando menos de cinco años previos a la designación.
+
+Los Magistrados serán nombrados por un período de seis años, pudiendo ser ratificados por un período igual, en términos del artículo 115 de la Constitución Política del Estado Libre y Soberano de Durango.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 261.
 
-Durante los primeros quince días del mes de enero del año que corresponda, los Magistrados elegirán de entre ellos a su Presidente, que será el Magistrado de la Sala Superior, el cual durará en su cargo dos años y podrá ser reelecto por una sola vez.
+Durante los primeros quince días del mes de enero del año que corresponda, los Magistrados elegirán de entre ellos a su Presidente, que será el Magistrado de la Sala Superior, el cual durará en su cargo dos años y podrá ser reelecto.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -3055,23 +3059,31 @@ Durante los primeros quince días del mes de enero del año que corresponda, los
 
 Son atribuciones del Magistrado Presidente, las siguientes:
 
-I.- Representar al Tribunal ante toda clase de autoridades;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2015)</small>
+
+I.- Representar al Tribunal ante toda clase de autoridades y vigilar el estricto cumplimiento de las resoluciones del Pleno;
 
 II.- Despachar la correspondencia del Tribunal y del Pleno;
 
 III.- Presidir las comisiones que designe el Pleno;
 
-IV.- Dirigir los debates y conservar el orden de las sesiones del Pleno;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2015)</small>
+
+IV.- Citar a las sesiones ordinarias y extraordinarias del Pleno y de Comisión de Administración previa integración del orden del día, dirigir los debates y conservar el orden en las propias sesiones;
 
 V.- Denunciar al Pleno las contradicciones de que tenga conocimiento entre sentencias dictadas por las Salas;
 
-VI.- Resolver en definitiva los recursos de revisión, que se interpongan contra las resoluciones de los Magistrados de las Salas Ordinarias de acuerdo con el procedimiento señalado en esta Ley;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2015)</small>
+
+VI.- Resolver en definitiva los recursos de revisión, que se interpongan contra las resoluciones de los Magistrados de las Salas Ordinarias, de acuerdo con el procedimiento señalado en la Ley de Justicia Fiscal y Administrativa y en ésta Ley;
 
 VII.- Dictar las órdenes relacionadas con el ejercicio del presupuesto del Tribunal;
 
 VIII.- Someter a la consideración de la Comisión de Administración, el anteproyecto de presupuesto del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial y proponerlo, una vez aprobado, al Presidente del Tribunal Superior de Justicia, para su inclusión en el correspondiente del Poder Judicial del Estado;
 
-X.- Autorizar, en unión del Secretario General de Acuerdos, las actas en que se hagan constar deliberaciones y acuerdos del Pleno;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2015)</small>
+
+IX.- Autorizar, en unión del Secretario General de Acuerdos, las actas en que se hagan constar deliberaciones y acuerdos del Pleno;
 
 X.- Firmar los engroses de resoluciones del Pleno;
 
@@ -3089,7 +3101,9 @@ XVI.- Establecer las reglas para la distribución de los asuntos entre los Magis
 
 XVII.- Aplicar los medios de apremio para hacer cumplir las resoluciones del Tribunal en términos de la Ley de Justicia Fiscal y Administrativa;
 
-XVIII.- Conocer del cumplimiento de las sentencias que dicte, y en su caso, ejecutarlas;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2015)</small>
+
+XVIII.- Comunicar al Consejo de la Judicatura sobre las inasistencias de los Consejeros integrantes de la Comisión de Administración a las sesiones de dicho órgano administrativo;
 
 XIX.- Vigilar el cumplimiento de la Ley de Justicia Fiscal y Administrativa;
 
@@ -3097,131 +3111,569 @@ XX.- Recibir y turnar a la Comisión de Administración, las quejas sobre las ir
 
 XXI.- Proponer a la Comisión de Administración al Secretario General de Acuerdos del Tribunal, a los secretarios, a los actuarios, oficiales de partes, así como al personal administrativo y técnico que se requiera para el buen funcionamiento del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial; y
 
-XXII.- Las demás que le confiera esta Ley, la Ley de Justicia Fiscal y Administrativa del Estado de Durango y el Reglamento Interior del Tribunal.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+XXII.- Dictar las medidas necesarias para el buen servicio y disciplina en las oficinas de su área;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2015)</small>
+
+XXIII.- Turnar los exhortos, despachos y requisitorias a la sala que corresponda para su trámite legal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2015)</small>
+
+XXIV.- Comisionar a cualquier servidor público del Tribunal, para la atención de asuntos determinados; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2015)</small>
+
+XXII (SIC).- Las demás que le confiera esta Ley, la Ley de Justicia Fiscal y Administrativa del Estado de Durango y el Reglamento Interior del Tribunal.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 263.
 
-La administración, vigilancia y disciplina del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado estarán a cargo de la Comisión de Administración, que se integrará por el Presidente de dicho Tribunal, quien la presidirá, por un Magistrado de dicho tribunal designado por insaculación y por dos miembros del Consejo de la Judicatura designados por el Tribunal Superior de Justicia, a excepción de su Presidente. La Comisión sesionará en las oficinas que al efecto se destinen en la sede del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado.
+El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado funcionará en Pleno o en Salas.
 
-Las sesiones serán ordinarias o extraordinarias. Las ordinarias se verificarán una vez por mes, el día que se fije por acuerdo de la propia Comisión; y las extraordinarias, cuando sea necesario, a convocatoria del Presidente o a solicitud expresa por escrito de dos de los comisionados.
-
-El Secretario General de Acuerdos del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial, fungirá como Secretario de la Comisión concurrirá a las sesiones con voz, pero sin voto, y será el ejecutor de los acuerdos y resoluciones que se emitan.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 264.
 
-La Comisión de Administración, a convocatoria de su Presidente, sesionará válidamente con la asistencia de por lo menos tres de sus integrantes, debiendo estar presente el Presidente, el cual tendrá voto de calidad. La Comisión adoptará resoluciones por unanimidad o mayoría de votos de los presentes.
+El Tribunal de Justicia Fiscal y Administrativa estará integrado cuando menos por tres Salas de las cuales una será la Sala Superior, a cargo del Presidente del Tribunal y las demás serán Salas Ordinarias, a cargo de cada uno de los Magistrados numerarios restantes, las cuales serán enumeradas por el Pleno, según corresponda; y además, contará con los Magistrados supernumerarios designados en igual número que los numerarios, quienes suplirán en sus ausencias a los propietarios en el orden en que fueron designados; así como el demás personal jurisdiccional y administrativo necesario para el cumplimiento de su función.
 
-Los comisionados no podrán abstenerse de votar, salvo que tengan excusa o impedimento legal calificado oportunamente por los otros miembros de la Comisión; cuando no hayan Estado presentes en la discusión del asunto o no se les hubieran turnado con oportunidad los antecedentes del caso respectivo.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2015)</small>
 
-En caso de excusa del Presidente, la Comisión será presidida por el otro Magistrado comisionado y éste a su vez será sustituido por el otro Magistrado del propio Tribunal; tratándose de los representantes del Consejero (sic) de la Judicatura, el Pleno del Tribunal Superior designará al sustituto.
+### CAPÍTULO II. DEL PLENO
 
-Cuando una sesión de la Comisión no se pueda celebrar por falta de quórum, se convocará nuevamente por el Presidente, para que tenga verificativo dentro de las cuarenta y ocho horas siguientes.
-
-El comisionado que disintiere de la mayoría, podrá formular por escrito voto particular dentro del término de tres días siguientes a la resolución, el cual se insertará en el acta respectiva.
-
-Las sesiones ordinarias o extraordinarias de la Comisión serán privadas.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
-
-### CAPÍTULO II. DE LA COMISIÓN DE ADMINISTRACIÓN
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 265.
 
-Cuando la Comisión de Administración estime que sus reglamentos, acuerdos o resoluciones, pudieren resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+El Pleno en la máxima autoridad del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado; se integrará por el Magistrado de la Sala Superior y por los Magistrados de la Salas Ordinarias.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+El Secretario General de Acuerdos del Tribunal, fungirá la vez como Secretario del Pleno quien asistirá con voz pero sin voto, y tendrá a su cargo la elaboración de las actas correspondientes y, la ejecución de los acuerdos y resoluciones que se tomen por el máximo órgano colegiado de decisión.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 266.
 
-La Comisión de Administración tendrá las facultades y obligaciones siguientes:
+Las sesiones del Pleno se llevarán a cabo cuando menos cada treinta días en forma ordinaria; y, en forma extraordinaria, cuando el Presidente lo considere necesario o, lo solicite la mayoría de los Magistrados.
 
-I. Elaborar y aprobar el Reglamento Interno del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado;
+Para que se consideren válidas las sesiones del Pleno, seré (sic) indispensable la presencia de todos los Magistrados que lo integran.
 
-II. Expedir las normas interiores en materia administrativa, de ingreso, de escalafón y de régimen disciplinario del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, tomando en cuenta las disposiciones de esta Ley y las de la Ley de Justicia Fiscal y Administrativa para el Estado de Durango;
-
-III. Remitir de inmediato a la instancia competente, las renuncias de los Magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado y acordar sobre las que presenten los secretarios y demás personal jurídico y administrativo del mismo;
-
-IV. Decretar, cuando proceda, la suspensión, remoción o cese del Secretario General, así como del resto del personal jurídico y administrativo del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado;
-
-V. Aprobar el anteproyecto de presupuesto de egresos del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado para proponerlo al Presidente del Tribunal Superior de Justicia, para su inclusión en el del Poder Judicial del Estado;
-
-VI. Resolver sobre las renuncias y licencias del personal jurídico y administrativo de los diversos órganos del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado del Estado (sic) así como de los titulares de los Órganos Auxiliares de la Comisión; a estos últimos removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes, y formular denuncia o querella en los casos en que legalmente proceda;
-
-VII. Establecer las disposiciones generales para la promoción de los servidores públicos con funciones no jurisdiccionales, así como el ingreso, estímulos, capacitación, ascenso y promociones por escalafón y remoción del personal administrativo del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, tomando en cuenta, en lo conducente, las disposiciones contenidas en el Título Quinto de esta ley y los acuerdos y resoluciones del Consejo de la Judicatura;
-
-VIII. Conocer de las irregularidades o faltas en que incurran en el desempeño de sus funciones los servidores del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, y en su caso, imponer las sanciones aplicando en lo conducente la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Durango;
-
-IX. Ejercer las partidas del presupuesto de egresos del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado;
-
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2013)</small>
-
-X. Proponer ante la Universidad Judicial, los programas relativos a la formación, capacitación, especialización y posgrado de los servidores públicos del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado;
-
-XI. Vigilar que los servidores del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado cumplan en tiempo y forma con la presentación de las declaraciones de situación patrimonial;
-
-XII. Nombrar a los secretarios, a los actuarios, oficiales de partes, así como al personal administrativo y técnico que se requiera para el buen funcionamiento del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado; y
-
-XIII. Desempeñar cualquier otra función que la ley o el Reglamento Interno del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado le encomienden y las que sean necesarias para el ejercicio de sus atribuciones.
-
-En caso de incumplimiento de las determinaciones que expida la Comisión, cualquier integrante podrá hacer del conocimiento del Pleno del Tribunal Superior de Justicia, para que resuelva lo conducente.
-
-En caso de dudas respecto de las determinaciones que expida la Comisión, el Presidente solicitará su aclaración a la propia Comisión, de no solventarse ésta el Pleno del Tribunal Superior de Justicia, resolverá unistancialmente lo que proceda.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 267.
+
+Las resoluciones del Pleno se tomarán por unanimidad o mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar a menos que exista algún impedimento legal, calificado por los restantes; el Presidente tendrá voto de calidad, en los casos de empate.
+
+El Magistrado que disienta del criterio de la mayoría, podrá formular voto particular por escrito, dentro del plazo de tres días hábiles, posteriores a la celebración de la sesión, el cual se insertará en el acta respectiva.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 268.
+
+Son atribuciones del tribunal en pleno:
+
+I. Llevar a cabo la elección de la Presidencia del Tribunal;
+
+II. Calificar las excusas, recusaciones e impedimentos de los Magistrados Propietarios;
+
+III. Dictar las medidas necesarias del despacho pronto y expedito de los asuntos del Tribunal;
+
+IV. Resolver las contradicciones que se susciten entre la (sic) sentencias de los Magistrados, a petición de parte, o a instancia de Sala Superior, fijando el criterio a observar en lo sucesivo;
+
+V. Establecer los criterios de jurisprudencia en términos de esta Ley;
+
+VI. Recibir la protesta legal de los Servidores Públicos del Tribunal;
+
+VII. Resolver los conflictos de competencia que se susciten entre las Salas ordinarias del Tribunal;
+
+VIII. Designar al Magistrado que integrará en unión del Presidente, la Comisión de Administración;
+
+IX. Excitar a la Sala de Control Constitucional del Tribunal Superior de Justicia, en su función consultiva, cuando sea necesario; y,
+
+X. Las demás que determinen las Leyes de la materia, esta Ley y su Reglamento Interior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO III. DE LA SALAS DEL TRIBUNAL
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 269.
+
+El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado funcionará por medio de Salas ordinarias y una Sala Superior, que tendrán la residencia y jurisdicción que le señale esta Ley o, el Pleno.
+
+La Sala Superior y cuando menos una Sala ordinaria, tendrán su residencia (sic) la ciudad de Durango; las demás, residirán y tendrán la jurisdicción que les asigne el Pleno.
+
+Sala Superior y cuando menos una Sala ordinaria tendrán jurisdicción en todo el territorio estatal, pudiendo las demás tener la misma jurisdicción, hasta en tanto el Pleno determine si le asigna una diferente.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 270.
+
+La (sic) Salas del Tribunal conocerán de los asuntos que le serán turnados de conformidad al orden de presentación de las demandas en la oficialía de partes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 271.
+
+Los Magistrados de la (sic) Salas tendrán las atribuciones siguientes:
+
+I. Substanciar el procedimiento;
+
+II. Dictar las sentencias de los asuntos que conozca;
+
+III. Proceder a la ejecución de la sentencia;
+
+IV. Cursar la correspondencia de la sala, autorizándola con su firma;
+
+V. Rendir los informes previos o justificados en los juicios de amparo que se promuevan en contra de actos de la sala;
+
+VI. Dictar las medidas que exige el orden, el buen servicio y la disciplina de la sala y exigir se guarde el respeto y consideración debidos;
+
+VII. Decretar los medios de apremio para hacer cumplir las determinaciones de la Sala;
+
+VIII. Solicita al Gobernador del Estado, Presidentes Municipales y demás autoridades el apoyo necesario para hacer cumplir sus determinaciones;
+
+IX. Informar puntualmente al Pleno del Tribunal de las labores de la Sala; y,
+
+X. Las demás que les otorgue esta ley y, las leyes de la materia.
+
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE INTEGRAN [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO IV. DE LA COMISIÓN DE ADMINISTRACIÓN
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 272.
+
+La administración, vigilancia y disciplina del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, estarán a cargo de la Comisión de Administración, que se integrará por el Presidente de dicho Tribunal, quien la presidirá, por un Magistrado designado por insaculación y, por dos miembros del Consejo de la Judicatura designados por el Tribunal Superior de Justicia. La Comisión sesionará en las oficinas que al efecto se destinen en la sede del Tribunal; y, en casos especiales, en el lugar que se determine por acuerdo de la propia Comisión.
+
+Las sesiones serán ordinarias o extraordinarias. Las ordinarias se verificarán una vez por mes y las extraordinarias, cuando sea necesario; ambas, a convocatoria del Presidente.
+
+El Secretario General de Acuerdos del Tribunal, fungirá como Secretario de la Comisión y, concurrirá a las sesiones con voz, pero sin voto, y será el ejecutor de los acuerdos y resoluciones que se emitan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 273.
+
+La Comisión de Administración sesionará válidamente con la asistencia de por lo menos tres de sus integrantes, debiendo estar presente el Presidente, el cual tendrá voto de calidad. La Comisión adoptará resoluciones por unanimidad o mayoría de votos de los presentes.
+
+Los comisionados no podrán abstenerse de votar, salvo que tengan excusa o impedimento legal calificado por los otros miembros de la Comisión; cuando no hayan estado presentes en la discusión del asunto o no se les hubieran turnado con anticipación de veinticuatro (sic), los antecedentes del caso respectivo.
+
+En caso de excusa del Presidente para algún o algunos puntos del orden del día, la Comisión será presidida en ésos supuestos, por el otro Magistrado comisionado; y éste a su vez, será sustituido por diverso Magistrado del propio Tribunal, quien será llamado para el efecto; y tratándose de los representantes del Consejero de la Judicatura, el Pleno del Tribunal Superior designará al sustituto, quien será llamado para tal fin.
+
+Cuando una sesión de la Comisión no se pueda celebrar por falta de quórum, se convocará nuevamente por el Presidente, para que tenga verificativo dentro de las cuarenta y ocho horas siguientes.
+
+El comisionado que disintiere de la mayoría, podrá formular por escrito voto particular dentro del plazo de tres días hábiles posteriores a la resolución, el cual se insertará en el acta respectiva.
+
+Las sesiones ordinarias o extraordinarias de la Comisión serán privadas, y excepcionalmente públicas, previo acuerdo de la propia Comisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 274.
+
+Cuando la Comisión de Administración estime que sus reglamentos, acuerdos o resoluciones, pudieren resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 275.
+
+La Comisión de Administración tendrá las facultades y obligaciones siguientes:
+
+I. Nombrar a los secretarios, a los actuarios, oficiales de partes, así como el personal administrativo y técnico que se requiera (sic) el buen funcionamiento del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado;
+
+II. Elaborar y aprobar el Reglamento Interno del Tribunal;
+
+III. Expedir las normas interiores en materia administrativa, de ingreso, de escalafón y de régimen disciplinario del Tribunal, tomando en cuenta las disposiciones de esta Ley y las de la Ley de Justicia Fiscal y Administrativa del Estado de Durango;
+
+IV. Remitir de inmediato a la instancia competente, las renuncias de los Magistrados y acordar sobre las que presenten los secretarios y demás personal jurisdiccional y administrativo del mismo;
+
+V. Decretar, cuando proceda, la suspensión, remoción o cese del personal jurisdiccional y administrativo del Tribunal de Justicia Fiscal y Administrativa;
+
+VI. Aprobar el anteproyecto de presupuesto de egresos del Tribunal para proponerlo al Presidente del Tribunal Superior de Justicia, para su inclusión en el del Poder Judicial del Estado;
+
+VII. Resolver sobre las renuncias y licencias del personal jurisdiccional y administrativo de los diversos órganos del Tribunal así como de los titulares de los Órganos Auxiliares de la Comisión; removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes, y formular denuncia o querella en los casos en que legalmente proceda;
+
+VIII. Establecer las disposiciones generales para la promoción de los servidores públicos con funciones no jurisdiccionales, así como el ingreso, estímulos, capacitación, ascenso y promociones por escalafón y remoción del personal administrativo del Tribunal; tomando en cuenta, en lo conducente, las disposiciones contenidas en el Título Quinto de esta ley y los acuerdos y resoluciones del Consejo de la Judicatura;
+
+IX. Conocer de las irregularidades o faltas en que incurran en el desempeño de sus funciones los servidores del Tribunal, y en su caso, imponer las sanciones aplicando en lo conducente la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Durango;
+
+X. Ejercer las partidas del presupuesto de egresos del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado;
+
+XI. Proponer ante la Universidad Judicial, los programas relativos a la formación, capacitación, especialización y posgrado de los servidores públicos del Tribunal;
+
+XII. Vigilar que los servidores públicos del Tribunal de Justicia Fiscal y Administrativa cumplan en tiempo y forma con la presentación de las declaraciones de situación patrimonial;
+
+XIII. Establecer el mecanismo para efectuar, cuando menos una vez al año, las visitas de inspección a las salas, para evaluar su desempeño jurisdiccional y administrativo;
+
+XIV. Excitar a la Sala de Control Constitucional del Tribunal Superior de Justicia, en su función consultiva, cuando sea necesario; y,
+
+XV. Desempeñar cualquier otra función que ésta Ley o el Reglamento Interno del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado le encomienden y, las que sean necesarias para el ejercicio de sus atribuciones.
+
+En caso de incumplimiento de las determinaciones que expida la Comisión, cualquier integrante podrá hacerlo del conocimiento de ésta, para que se resuelva y ejecute lo conducente, en un plazo no mayor a quince (sic). De persistir el incumplimiento, se podrá ser (sic) del conocimiento del Pleno del Tribunal Superior de Justicia, para que resuelva como corresponda.
+
+En caso de dudas respecto de las determinaciones que expida la Comisión, el Presidente solicitará su aclaración a la propia Comisión, quién procederá en consecuencia, en un plazo no mayor a cinco días hábiles; de no solventarse ésta y a petición del Presidente de la Comisión, el Pleno del Tribunal Superior de Justicia, resolverá uninstancialmente lo que proceda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 276.
 
 El Presidente de la Comisión de Administración, tendrá las facultades y obligaciones siguientes:
 
 I. Representar a la Comisión;
 
-II. Presidir, dirigir los debates y conservar el orden durante sus sesiones;
+II. Presidir, convocar, dirigir los debates y conservar el orden durante sus sesiones;
 
 III. Tramitar o turnar, cuando corresponda, los asuntos entre los integrantes de la Comisión para que se formulen los proyectos de resolución;
 
-IV. Despachar la correspondencia de la Comisión y firmar las resoluciones o acuerdos, así como legalizar por sí o por conducto del Secretario de la Comisión, la firma de cualquier servidor del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, en los casos en que la ley lo exija;
+IV. Despachar la correspondencia de la Comisión y firmar las resoluciones o acuerdos, así como legalizar en unión del Secretario de la Comisión, la firma de cualquier servidor del Tribunal, en los casos en que la ley lo exija;
 
 V. Vigilar el correcto funcionamiento de los órganos auxiliares de la Comisión de Administración;
 
 VI. Informar al Consejo de la Judicatura de las faltas de sus representantes ante la Comisión de Administración, para los efectos legales y administrativos a que haya lugar;
 
-VII. Proponer para su nombramiento a la Comisión de Administración, a los titulares de sus órganos auxiliares; y
+VII. Proponer para su nombramiento a la Comisión de Administración, a los titulares de sus órganos auxiliares así como al demás personal jurisdiccional y administrativo del Tribunal; y,
 
-VIII. Las demás que les señalen la Ley, el Reglamento Interno y los acuerdos generales.
+VIII. Las demás que les señalen ésta Ley, el Reglamento Interno y los acuerdos generales.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
 
-###### ARTÍCULO 268.
+###### ARTÍCULO 277.
 
-Para el adecuado ejercicio de las funciones que tiene encomendadas, la Comisión de Administración contará con los órganos auxiliares siguientes: la Secretaría Administrativa y el Centro de Documentación y Estadística Jurisdiccional.
+Para el adecuado ejercicio de las funciones que tiene encomendadas, la Comisión de Administración podrá contar con los órganos auxiliares siguientes: la Secretaría Administrativa, la Defensoría Pública Gratuita y de Mediación; los (sic) Oficialía de Partes y, el Centro de Documentación y Estadística Jurisdiccional.
 
-Para efectos de revisión, supervisión e inspección de las conductas del personal de las Salas, y demás órganos del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado se auxiliará de la Visitaduría Judicial, Órgano Auxiliar del Consejo de la Judicatura del Poder Judicial.
+Para efectos de revisión, supervisión e inspección de la impartición y administración de justicia, así como de las conductas del personal de las Salas, y demás órganos del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, se podrá auxiliar de la Visitaduría Judicial, Órgano Auxiliar del Consejo de la Judicatura del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2013)</small>
+Igualmente se auxiliará de la Universidad Judicial, para efectos de la formación, capacitación y especialización de los servidores del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado.
 
-Igualmente se auxiliará de la Universidad Judicial del propio consejo de la Judicatura para efectos de la formación, capacitación y especialización de los servidores del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado.
+En ambos supuestos se aplicarán las disposiciones de esta ley, relativas a estos órganos, en lo conducente.
 
-En ambos supuestos se aplicarán las disposiciones de esta ley relativas a estos órganos, en lo conducente.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+###### ARTÍCULO 278.
 
-###### ARTÍCULO 269.
-
-La Secretaría Administrativa tendrá a su cargo la atención, ejecución y cumplimiento de las resoluciones y acuerdos de la Comisión de Administración relativos a los recursos humanos, financieros y materiales del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, de acuerdo con las partidas autorizadas en el presupuesto.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
-
-###### ARTÍCULO 270.
-
-El Centro de Documentación y Estadística Jurisdiccional se sujetará a las reglas de organización y funcionamiento que determine la Comisión de Administración y tendrá a su cargo la actualización, incremento y vigilancia del acervo documental y lo relacionado con los servicios de consulta, difusión e intercambio bibliotecario que al efecto precise el Reglamento Interno del propio Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, así como registrar, clasificar y compilar los criterios relevantes sustentados por el propio, sistematizando los datos cuantitativos de la actividad jurisdiccional de éste.
+La Secretaría Administrativa del Tribunal tendrá a su cargo la atención, ejecución y cumplimiento de las resoluciones y acuerdos de la Comisión de Administración relativos a los recursos humanos, financieros y materiales del propio Tribunal, de acuerdo con las partidas autorizadas en el presupuesto correspondiente.
 
 También tendrá a su cargo las funciones inherentes a la materia de transparencia y acceso a la información pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 279.
+
+El Centro de Documentación y Estadística Jurisdiccional se sujetará a las reglas de organización y funcionamiento que determine la Comisión de Administración y tendrá a su cargo la actualización, incremento y vigilancia del acervo documental y lo relacionado con los servicios de consulta, difusión e intercambio bibliotecario que al efecto precise el Reglamento Interno del propio Tribunal, así como registrar, clasificar y compilar los criterios relevantes sustentados por el Pleno, sistematizando los datos cuantitativos de la actividad jurisdiccional de éste Tribunal.
+
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO V. DE LA ESTRUCTURA DEL TRIBUNAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 280.
+
+El Tribunal contará para el despacho de sus asuntos, además de los magistrados numerarios de Salas, con el siguiente personal:
+
+I. Un Secretario General de Acuerdos;
+
+II. Una Secretaria Administrativa;
+
+III. Secretarios de Acuerdos de Sala;
+
+IV. Secretarios de Estudio y Cuenta de Sala;
+
+V. Auxiliares de estudio y cuenta;
+
+VI. Actuarios;
+
+VII. Oficiales de Partes;
+
+VIII. Defensores Públicos y Mediadores; y,
+
+IX. El demás personal técnico y administrativo necesario que se encuentre previsto en el presupuesto de egresos del Tribunal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 281.
+
+El Presidente del Tribunal de Justicia Fiscal y Administrativa rendirá por escrito, ante el Pleno del Tribunal Superior de Justicia, durante la primera quincena del mes de enero de cada año, un informe en el que hará del conocimiento las actividades realizadas por el mismo durante el año anterior.
+
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO VI. DE LOS MAGISTRADOS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 282.
+
+Los Magistrados al vencimiento de su nombramiento tendrán derecho a un haber por retiro, en la forma y términos establecidos para los Magistrados del Tribunal Superior de Justicia, y no podrán actuar como patronos, abogados o representantes ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, dentro del año siguiente a la fecha de vencimiento de su nombramiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 283.
+
+Los Magistrados que hayan concluido su período, permanecerán en el cargo hasta en tanto tomen posesión los designados para substituirlos y a fin de que éstos puedan recibir oficial y materialmente sus oficinas y asuntos en trámite.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 284.
+
+Los magistrados propietarios, secretarios, auxiliares, defensores públicos y actuarios del Tribunal, estarán impedidos para el ejercicio de la abogacía y otros empleos, en términos y con las salvedades de lo dispuesto por la Constitución Política del Estado y la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 285.
+
+Los Magistrados del Tribunal serán inamovibles durante el periodo de su encargo y solo podrán ser privados del mismo en los términos y en los casos legalmente aplicables, conforme a los procedimientos que establezcan la Constitución Política del Estado Libre y Soberano de Durango y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 286.
+
+Las Licencias de los Magistrados del Tribunal, cuando no excedan de seis meses, serán concedidas por el Pleno del Tribunal de Justicia Fiscal y Administrativa en términos de la presente Ley; las que excedan de este tiempo, las autorizara el Congreso del Estado.
+
+Los permisos y licencias de (sic) resto del personal del Tribunal, se tramitaran y resolverán por la Comisión de Administración, de conformidad con lo establecido en el Capítulo V, del Título Séptimo, de la presente Ley.
+
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO VII. DE LOS SECRETARIOS, AUXILIARES, ACTUARIOS, OFICIALES DE PARTES, SECRETARIO ADMINISTRATIVO Y DEFENSORES PÚBLICOS Y MEDIADORES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 287.
+
+Para ser secretario del Tribunal, se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II. Poseer título profesional de Licenciado en Derecho o su equivalente debidamente registrado ante el Tribunal Superior de Justicia, con antigüedad mínima en la titulación de tres años;
+
+III. Poseer la Cedula Profesional respectiva;
+
+IV. Gozar de buena reputación y no haber sido condenado par (sic) la comisión de un delito intencional que hubiere merecido pena corporal; y,
+
+V. Experiencia mínima de dos años en materia administrativa o fiscal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 288.
+
+Para ser Auxiliar de Secretario de Estudio y Cuenta y Actuario, se requiere:
+
+I. Ser ciudadano mexicano en el pleno ejercicio de sus derechos;
+
+II. Poseer título profesional del (sic) Licenciado en Derecho o su equivalente debidamente registrado ante el Titular Superior de Justicia; y,
+
+III. Gozar de buena reputación y no haber sido condenado por la comisión de un delito intencional que hubiere merecido pena corporal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 289.
+
+Para ser Defensor Público y Mediador, se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de su (sic) derechos;
+
+II. Poseer título profesional de Licenciado en Derecho o su equivalente debidamente registrado ante el Tribunal Superior de Justicia, con antigüedad mínima en la titulación de cinco años;
+
+III. Poseer la Cédula Profesional respectiva;
+
+IV. Gozar de buena reputación y no haber sido condenado por la comisión de un delito intencional que hubiere merecido pena corporal; y,
+
+V. Experiencia mínima de tres años en materia administrativa o fiscal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 290.
+
+Para ser Oficial de Partes, se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II. Poseer título profesional de Licenciado en Derecho o su equivalente debidamente registrado ante el Tribunal Superior de Justicia; y,
+
+III. Gozar de buena reputación y no haber sido condenado por la comisión de un delito intencional que hubiere merecido pena corporal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 291.
+
+Son atribuciones del Secretario General de Acuerdos:
+
+I. Fungir como Secretario de Acuerdos del Pleno, de la Comisión de Administración y de Sala Superior, dando fe pública en los asuntos de su competencia;
+
+II. Acordar con el Presidente lo relativo a las sesiones del Pleno y de la Comisión de Administración, dando cuenta con los asuntos a tratar en las mismas; tomar la votación de los Magistrados y consejeros de la Comisión, formulando las actas respectivas y ejecutando los acuerdos;
+
+III. Levantar las actas correspondientes recabando las firmas de los participantes y autorizarlas con su firma;
+
+IV. Expedir las certificaciones de las constancias que obren en los expedientes de Presidencia y de Sala Superior;
+
+V. Engrosar los fallos de su competencia;
+
+VI. Autorizar los Libros de Gobierno y de registro de documentos de las salas de (sic) Tribunal; y, llevar los Libros de Gobierno de la Presidencia y de la Sala Superior; y,
+
+VII. Las demás que le encomienden la presente Ley, el Pleno, la Comisión de Administración, el Presidente y otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 292.
+
+Son atribuciones de los Secretarios de Acuerdos de Sala:
+
+I. Dar fe pública en los asuntos de su competencia;
+
+II. Dar cuenta al Magistrado de la Sala de su adscripción con las promociones presentadas por las partes, dentro de las veinticuatro horas siguientes:
+
+III. Redactar y autorizar los autos y resoluciones que recaigan en relación a las promociones presentadas en los expedientes cuyo trámite se les encomiende;
+
+IV. Cuidar que los expedientes sean exactamente foliados al agregarse cada una de las fojas, rubricar todas éstas y poner el sello del Tribunal en el fondo del expediente, de manera que queden selladas las dos caras;
+
+V. Proyectar las resoluciones de los asuntos que le asigne el Magistrado;
+
+VI. Efectuar las diligencias que les encomiende el Magistrado de la Sala, cuando éstas deban practicarse fuera del Local del Tribunal;
+
+VII. Rendir un informe mensual de las actividades efectuadas al Magistrado de su adscripción;
+
+VIII. Acordar con el Magistrado de la Sala de su adscripción, lo relativo a las audiencias;
+
+IX. Engrosar los fallos de la Sala a la que estén adscritos, autorizándolos con su firma en unión del Magistrado;
+
+X. Expedir las certificaciones de las constancia (sic) que obren en los expedientes de la Sala a la que estén adscritos;
+
+XI. Llevar los Libros de Gobierno y de registro de documentos de la Sala de su adscripción; y,
+
+XII. Las demás que le encomiende ésta Ley, el Pleno, el Magistrado Presidente, el Magistrado de la Sala de su adscripción y otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 293.
+
+Son atribuciones de los Secretarios de Estudio y Cuenta de Sala:
+
+I. Elaborar los proyectos de resolución;
+
+II. Rendir un informe mensual de las actividades realizadas al magistrado con el que esté adscrito; y,
+
+III. Las demás que le encomiende ésta Ley, el Pleno, el Presidente del Tribunal, el Magistrado de su adscripción, y otros ordenamientos legales aplicables.
+
+Los auxiliares de estudio y cuenta realizarán las funciones de apoyo necesarias para el eficaz cumplimiento de las atribuciones de los Secretarios de Estudio y Cuenta de las Salas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 294.
+
+Son atribuciones de los Actuarios:
+
+I. Dar fe pública en los asuntos de su competencia;
+
+II. Notificar en tiempo y forma los autos, acuerdos y las resoluciones recaídas en los expedientes que les sean turnados para tal efecto, formulando los oficios de notificaciones enviándolos a su destino, asentado en el expediente la razón de haber hecho la notificación y de haber entregado los oficios respectivos;
+
+III. Practicar las diligencias que les encomiende el Magistrado de su adscripción;
+
+IV. Engrosar los expedientes con las copias selladas y autorizadas de los oficios derivados de las notificaciones;
+
+V. Informar mensualmente al Magistrado de su adscripción respecto de las actividades realizadas; y,
+
+VI. Las demás que le señalen ésta Ley, el Presidente, el Magistrado de la Sala de su adscripción, así como los Secretarios de la misma, y otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 295.
+
+Son atribuciones del Oficial de Partes:
+
+I. Recibir las demandas, la correspondencia común y documentos dirigidos al Tribunal y a las Salas; numerando las piezas, fechándolas con un sello que deberá indicar la hora de su recepción y los anexos que se acompañen a las promociones, estampando su firma para constancia;
+
+II. Asignar de manera progresiva el número de control a las demandas interpuestas y señalan (sic) el año correspondiente, debiendo turnarlas el día de su recepción, a la Secretaría de Acuerdos de la Sala que corresponda;
+
+III. Llevar los libros de: Oficialía de Partes y Recepción de documentación diversa;
+
+IV. Informar a los Magistrados de Sala, las actividades desarrolladas semanalmente;
+
+V. Turnar de inmediato al área respectiva la correspondencia que se reciba;
+
+VI. Ejecutar los procedimientos informáticos que sean implementados para el eficaz funcionamiento de la Oficialía;
+
+VII. Recibir las solicitudes de acceso a la información pública y turnarlas a la Secretaría Administrativa del Tribunal;
+
+VIII. Dar fe pública sobre los asuntos de su competencia; y,
+
+IX. Las demás que le encomiende esta Ley, el Pleno, el Presidente del Tribunal y demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 296.
+
+Para ser Secretario Administrativo del Tribunal se requiere:
+
+I. Ser mexicano, en ejercicio de sus derechos;
+
+II. Poseer título profesional en alguna de las áreas económicas o administrativas afines a las funciones propias del cargo con antigüedad mínima en la titulación de cinco años;
+
+III. Tener la Cédula profesional respectiva;
+
+IV. Gozar de buena reputación y no haber sido condenado por la comisión de un delito intencional que hubiere merecido pena corporal; y,
+
+V. Experiencia de tres años en materia contable y financiera.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 297.
+
+Corresponde al Secretario Administrativo:
+
+I. Formular el anteproyecto del presupuesto del Tribunal y presentarlo al Presidente para el trámite respectivo ante la Comisión de Administración y ante el Presidente del Tribunal Superior de Justicia;
+
+II. Llevar un control sobre el ejercicio del presupuesto y ejecutar las órdenes relacionadas con dicho ejercicio, por parte de la Comisión de Administración y del Presidente;
+
+III. Integrar y resguardar los expedientes del personal jurisdiccional y administrativo del Tribunal;
+
+IV. Supervisar el funcionamiento del archivo del Tribunal;
+
+V. Tramitar los movimientos de personal y vigilar el cumplimiento de las obligaciones laborales de los empleados jurisdiccionales y administrativos;
+
+VI. Controlar los bienes del Tribunal, mantener actualizado su inventario y vigilar su conservación;
+
+VII. Coordinar la prestación de los demás servicios administrativos necesarios para el buen funcionamiento del Tribunal.
+
+VIII. Recabar, actualizar y difundir la información de oficio que le señala la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango;
+
+IX. Proporcionar la información que el particular requiera, excepto de aquélla que contenga datos personales y sensibles; y,
+
+X. Las demás que le señalen la presente Ley, La Comisión de Administración, la Presidencia y demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 298.
+
+Corresponde a los Defensores Públicos y Medidores (sic), las siguientes facultades y obligaciones:
+
+I. Asesorar de manera gratuita, permanente, imparcial y objetiva en los asuntos de carácter administrativo o fiscal, a la (sic) personas físicas que así lo requieran;
+
+II. Formular los escritos de demanda y promociones de trámite que los particulares deben presentar ante el Tribunal, así como oír y recibir notificaciones, ofrecer o rendir pruebas, tramitar incidentes, presentar alegatos o interponer el recurso de revisión, dándoles seguimiento hasta su total culminación;
+
+III. Atender la (sic) consultas jurídicas relacionadas con la competencia del Tribunal, que le san formuladas por los particulares;
+
+IV. Llevar un libro de control que contenga los datos de los juicios y recursos que promuevan;
+
+V. Realizar acciones de difusión respecto de sus atribuciones, de acuerdo a un programa previamente aprobado por el Pleno;
+
+VI. Proponer la mediación extrajudicial entre las partes, buscando la conciliación de intereses ante las autoridades o funcionarios señalados como responsables, en los asuntos que se presenten, previo a la promoción del juicio contencioso administrativo;
+
+VII. Presentar mensualmente al Pleno un informe con los datos estadísticos sobre las personas y los asuntos atendidos; y,
+
+VIII. Las demás que le encomiende ésta Ley, el Pleno, el Presidente del Tribunal y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 299.
+
+El desempeño de las atribuciones a que se refiere el artículo anterior, no generara en ningún caso el derecho de percibir emolumentos, honorarios o ingresos diversos a los estrictamente previstos en el Presupuesto de Egresos del Tribunal; quedando absolutamente prohibido a los Defensores Públicos cobrar o recibir de los particulares pago alguno de dinero en especie por la asesoría brindada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2015)</small>
+
+###### ARTÍCULO 300.
+
+Las faltas temporales del Secretario General de Acuerdos serán suplidas por el servidor público del Tribunal que designe la Comisión de Administración; las de los Secretarios de Acuerdos de Sala ordinaria, por uno de los Secretarios de Estudio y Cuenta de la misma; las de éstos, por el auxiliar de estudio y cuenta; y, la de los actuarios, por la persona adscrita que designe el Magistrado respectivo
 
 T R A N S I T O R I O S
 
@@ -3492,3 +3944,9 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE FEBRERO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
