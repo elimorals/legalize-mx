@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-justicia-fiscal-y-administrativa-del-estado-de-78586"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-23"
-last_updated: "2010-12-23"
+last_updated: "2015-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78586&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE JUSTICIA FISCAL Y ADMINISTRATIVA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 2010.
 
@@ -31,7 +31,7 @@ EL CIUDADANO CONTADOR PÚBLICO JORGE HERRERA CALDERA, GOBERNADOR CONSTITUCIONAL 
 
 QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-Con fechas 13 de Mayo del año 2008 y 27 de Octubre del año 2010, presentó el C. Diputado Servando Marrufo Fernández, integrante de la Fracción Parlamentaria del Partido Duranguense de la LXIV Legislatura, Iniciativa con proyecto de Decreto que contiene reformas al Código de Justicia Administrativa para el Estado de Durango; así mismo (sic) presentaron la segunda, los CC. Diputados Adrian Valles Martínez, Rodolfo Benito Guerrero García, Miguel Ángel Olvera Escalera, Luis Enrique Benítez Ojeda, Otniel García Navarro, Jaime Rivas Loaiza, Carlos Aguilera Andrade, Alfredo Héctor Ordaz Hernández, Sergio Uribe Rodríguez, Juana Leticia Herrera Ale, Francisco Ibarra Jáquez, Pedro Silerio García, Marcial Saúl García Abraham, Lourdes Eulalia Quiñones Canales, Emiliano Hernández Camargo, Felipe de Jesús Garza González, Elia María Morelos Favela, Dagoberto Limones López, Gilberto Candelario Zaldivar Hernández, José Nieves García Caro, Karla Alejandra Zamora García y Francisco Acosta Llanes, integrantes de esta LXV Legislatura, que contiene propuesta para derogar el Código de Justicia Administrativa para el Estado de Durango y la creación de la Ley de Justicia Fiscal y Administrativa del Estado de Durango; la cual fue turnada a la Comisión de Justicia, integrada por los CC. Diputados: José Antonio Ochoa Rodríguez, Otniel García Navarro, Gilberto Candelario Zaldivar Hernández, Pedro Silerio García y Miguel Ángel Olvera Escalera, Presidente, Secretario y Vocales, respectivamente, mismos que emitieron su dictamen favorable en base a los siguientes:
+Con fechas 13 de Mayo del año 2008 y 27 de Octubre del año 2010, presentó el C. Diputado Servando Marrufo Fernández, integrante de la Fracción Parlamentaria del Partido Duranguense de la LXIV Legislatura, Iniciativa con proyecto de Decreto que contiene reformas al Código de Justicia Administrativa para el Estado de Durango; así mismo presentaron la segunda, los CC. Diputados Adrian Valles Martínez, Rodolfo Benito Guerrero García, Miguel Ángel Olvera Escalera, Luis Enrique Benítez Ojeda, Otniel García Navarro, Jaime Rivas Loaiza, Carlos Aguilera Andrade, Alfredo Héctor Ordaz Hernández, Sergio Uribe Rodríguez, Juana Leticia Herrera Ale, Francisco Ibarra Jáquez, Pedro Silerio García, Marcial Saúl García Abraham, Lourdes Eulalia Quiñones Canales, Emiliano Hernández Camargo, Felipe de Jesús Garza González, Elia María Morelos Favela, Dagoberto Limones López, Gilberto Candelario Zaldivar Hernández, José Nieves García Caro, Karla Alejandra Zamora García y Francisco Acosta Llanes, integrantes de esta LXV Legislatura, que contiene propuesta para derogar el Código de Justicia Administrativa para el Estado de Durango y la creación de la Ley de Justicia Fiscal y Administrativa del Estado de Durango; la cual fue turnada a la Comisión de Justicia, integrada por los CC. Diputados: José Antonio Ochoa Rodríguez, Otniel García Navarro, Gilberto Candelario Zaldivar Hernández, Pedro Silerio García y Miguel Ángel Olvera Escalera, Presidente, Secretario y Vocales, respectivamente, mismos que emitieron su dictamen favorable en base a los siguientes:
 
 C O N S I D E R A N D O S.
 
@@ -251,7 +251,7 @@ En los procedimientos administrativos no procederá la gestión de negocios.
 
 La representación de las personas morales ante las autoridades administrativas para formular solicitudes, participar en el procedimiento administrativo, interponer recursos, desistirse y renunciar a derechos, deberá acreditarse mediante instrumento público. En el caso de personas físicas, también podrán hacerlo mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las propias autoridades o fedatario público.
 
-Así mismo (sic), el interesado o su apoderado legal, en escrito firmado podrá autorizar a la persona o personas que estime conveniente para oír o recibir notificaciones; quienes quedarán facultadas siempre y cuando se trate de persona legalmente autorizada para ejercer la profesión de licenciado en derecho o su equivalente, para realizar trámites, gestiones y comparecencias que fueren necesarios para la tramitación del procedimiento.
+Así mismo, el interesado o su apoderado legal, en escrito firmado podrá autorizar a la persona o personas que estime conveniente para oír o recibir notificaciones; quienes quedarán facultadas siempre y cuando se trate de persona legalmente autorizada para ejercer la profesión de licenciado en derecho o su equivalente, para realizar trámites, gestiones y comparecencias que fueren necesarios para la tramitación del procedimiento.
 
 ###### ARTÍCULO 21.
 
@@ -457,7 +457,7 @@ La autoridad administrativa ante quien se tramite un procedimiento administrativ
 
 ###### ARTÍCULO 51.
 
-El desahogo de las pruebas ofrecidas y admitidas se realizarán (sic) dentro de un plazo no menor de tres ni mayor de diez días contados a partir de su admisión. Las pruebas supervenientes podrán presentarse siempre que no se haya emitido la resolución definitiva.
+El desahogo de las pruebas ofrecidas y admitidas se realizarán dentro de un plazo no menor de tres ni mayor de diez días contados a partir de su admisión. Las pruebas supervenientes podrán presentarse siempre que no se haya emitido la resolución definitiva.
 
 ###### ARTÍCULO 52.
 
@@ -549,7 +549,7 @@ I.- Nombre, denominación o razón social del visitado;
 
 II.- Hora, día, mes y año en que se inicie y concluya la diligencia;
 
-III.- Calle, número, población o colonia, teléfono u otra forma de comunicación disponibles (sic) en que se encuentre ubicado el lugar en que se practique la visita;
+III.- Calle, número, población o colonia, teléfono u otra forma de comunicación disponibles en que se encuentre ubicado el lugar en que se practique la visita;
 
 IV.- Datos relativos a la orden que la originó, así como los datos relativos a dicha actuación;
 
@@ -1167,7 +1167,7 @@ I.- Cuando se demande una Negativa Ficta o la declarativa de configuración de l
 
 Il.- Cuando los fundamentos y motivos del acto impugnado sean conocidos por el actor hasta que se conteste la demanda;
 
-III.- Cuando con motivo de la contestación, se introduzcan cuestiones que sin violar el primer párrafo del artículo 152 de esta Ley, no sean conocidas por el actor al presentar la demanda; y (sic)
+III.- Cuando con motivo de la contestación, se introduzcan cuestiones que sin violar el primer párrafo del artículo 152 de esta Ley, no sean conocidas por el actor al presentar la demanda; y
 
 IV.- Cuando el acto principal del que derive el impugnado en la demanda o su notificación, se den a conocer en la contestación;
 
@@ -1559,7 +1559,7 @@ Contra las resoluciones pronunciadas en materia de impedimentos, excusas y recus
 
 ###### ARTÍCULO 190.
 
-Cuando alguna de las partes sostenga la falsedad de un documento, incluyendo las promociones y actuaciones en juicio, el incidente se podrá hacer valer ante el Magistrado hasta antes de que se cierre la instrucción en el juicio. El incidente se substanciará conforme a lo dispuesto en el quinto párrafo éste (sic) artículo.
+Cuando alguna de las partes sostenga la falsedad de un documento, incluyendo las promociones y actuaciones en juicio, el incidente se podrá hacer valer ante el Magistrado hasta antes de que se cierre la instrucción en el juicio. El incidente se substanciará conforme a lo dispuesto en el quinto párrafo (sic) éste artículo.
 
 Si alguna de las partes sostiene la falsedad de un documento firmado por otra, el Magistrado podrá citar a la parte respectiva para que estampe su firma en presencia del secretario misma que se tendrá como indubitable para el cotejo.
 
@@ -1625,7 +1625,7 @@ III. En los acuerdos por los que se discierna del cargo a cada perito, el Magist
 
 IV. Por una sola vez y por causa que lo justifique, comunicada al Magistrado antes de vencer los plazos mencionados en este artículo, las partes podrán solicitar la ampliación del plazo para rendir el dictamen o la sustitución de su perito, señalando en este caso, el nombre y domicilio de la nueva persona propuesta. La parte que haya sustituido a su perito conforme a la fracción I, ya no podrá hacerlo en el caso previsto en la fracción III de este precepto.
 
-V. El perito tercero será designado por la Sala ordinaria de entre los estén (sic) autorizados por el Tribunal Superior de Justicia. En el caso de que no hubiere perito autorizado en la ciencia o arte sobre el cual verse el peritaje, la Sala designará bajo su responsabilidad a la persona que deba rendir dicho dictamen debiendo cubrirse sus honorarios por las partes. En el auto en que se designe perito tercero, se le concederá un plazo mínimo de diez días para que rinda su dictamen.
+V. El perito tercero será designado por la Sala ordinaria de entre los (sic) estén autorizados por el Tribunal Superior de Justicia. En el caso de que no hubiere perito autorizado en la ciencia o arte sobre el cual verse el peritaje, la Sala designará bajo su responsabilidad a la persona que deba rendir dicho dictamen debiendo cubrirse sus honorarios por las partes. En el auto en que se designe perito tercero, se le concederá un plazo mínimo de diez días para que rinda su dictamen.
 
 ###### ARTÍCULO 196.
 
@@ -1987,301 +1987,161 @@ XI. Las que se promuevan en contra de las resoluciones fiscales en los ámbitos 
 
 XII. Que le señalen otras leyes y reglamentos.
 
-### CAPÍTULO III. DE LA INTEGRACIÓN DEL TRIBUNAL DE JUSTICIA FISCAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO III
 
 ###### ARTÍCULO 238.
 
-El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado funcionará en Pleno o en Salas.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 239.
 
-El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado estará integrado por tres Salas ordinarias de las cuales una será la Sala Superior, a cargo del Presidente del Tribunal y dos Salas Ordinarias, Primera y Segunda a cargo de cada uno de los Magistrados restantes y además contará con tres Magistrados supernumerarios, éstos últimos suplirán a los propietarios en el orden en que fueron designados.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 240.
 
-Los Magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado serán nombrados por un período de seis años pudiendo ser ratificados por un período más.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 241.
 
-El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado contará para el despacho de sus asuntos con el siguiente personal:
-
-I. Un Secretario General de Acuerdos;
-
-II. Un Director Administrativo;
-
-III. Secretarios de Acuerdos de Sala;
-
-IV. Secretarios de Estudio y Cuenta en el número que requiera cada Magistrado para la resolución pronta y expedita de los juicios;
-
-V. Actuarios;
-
-VI. Oficiales de Partes; y
-
-VII El demás personal técnico y administrativo necesario que se encuentre previsto en el presupuesto de egresos del Tribunal.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 242.
 
-Los Magistrados, funcionarios y personal del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, percibirán iguales emolumentos y prestaciones que los del Tribunal Superior de Justicia del Estado.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 243.
 
-El Presidente deberá rendir ante el Pleno del Tribunal Superior de Justicia, durante la primera quincena del mes de enero de cada año, un informe en el que hará del conocimiento público las actividades realizadas por el mismo durante el año anterior.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 244.
 
-Todas las sesiones del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado serán públicas, con excepción de los casos en que la moral, el interés público o la Ley exijan que sean privadas
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
-### CAPÍTULO IV. DEL PLENO
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO IV
 
 ###### ARTÍCULO 245.
 
-El Pleno es la máxima autoridad del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, se integrará por los Magistrados de la Sala Superior, y por los Magistrados de las Salas Ordinarias, Primera Segunda, con residencia en la Ciudad de Durango, de entre sus integrantes, en la primera sesión del año que corresponda se elegirá a su Presidente que será el Magistrado de la Sala Superior, el cual durará en su cargo dos años y no podrá ser reelecto para el periodo inmediato.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 246.
 
-Las sesiones del Pleno se llevarán a cabo cada quince días en forma ordinaria el día y hora que establezca el Reglamento Interior del Tribunal y en forma extraordinaria cuando el Presidente lo considere necesario o lo solicite la mayoría de los Magistrados.
-
-Para que se consideren válidas las sesiones del Pleno, será indispensable la presencia de todos los Magistrados que la integran. En las faltas temporales de los Magistrados se citará al Magistrado Supernumerario que deba sustituirlo en los términos del (sic) este ordenamiento y el Reglamento Interior del Tribunal.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 247.
 
-Las resoluciones del Pleno se tomarán por unanimidad o mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar a menos que exista algún impedimento legal, el Presidente gozará voto de calidad en los casos de empate.
-
-El Magistrado que difiera la opinión de la mayoría formulará voto particular.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 248.
 
-Son atribuciones del Tribunal en Pleno:
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
-I. Llevar a cabo la rotación de la Presidencia del Tribunal;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2015)</small>
 
-II. Calificar las excusas, recusaciones e impedimentos de los Magistrados Propietarios;
-
-III. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos del Tribunal;
-
-IV. Resolver las contradicciones que se susciten entre las sentencias de los Magistrados;
-
-V. Establecer los criterios de jurisprudencia en términos de esta Ley;
-
-VI. Recibir la protesta legal de los Servidores Públicos del Tribunal;
-
-VII. Resolver los conflictos de competencia que se susciten entre las Salas ordinarias del Tribunal; y
-
-VIII. Las demás que determinen las Leyes de la materia, esta Ley y su Reglamento Interior.
-
-### CAPÍTULO V. DEL PRESIDENTE
+### CAPÍTULO V
 
 ###### ARTÍCULO 249.
 
-El Presidente del Tribunal será suplido, en sus faltas temporales que no exceda de dos meses, por el Magistrado que presida la Sala que le siga en número, en forma rotativa. Cuando la falta exceda de dicho término, se nombrará nuevo Presidente para concluir el período.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 250.
 
-Las atribuciones del Presidente son aquellas establecidas en la Ley Orgánica del Poder Judicial del Estado de Durango.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
-### CAPÍTULO VI. DE LAS SALAS
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO VI
 
 ###### ARTÍCULO 251.
 
-El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado funcionará por medio de Salas ordinarias, las que tendrán la residencia y jurisdicción que les señala esta Ley.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 252.
 
-El Tribunal estará integrado cuando menos por tres salas con residencia en la ciudad de Durango, las cuales ejercerán su jurisdicción y competencia territorial que les determine el Pleno; y una de ellas funcionará como Sala Superior conociendo de los recursos de revisión que se interpongan contra las resoluciones de las otras dos.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 253.
 
-Las Salas del Tribunal conocerán de los asuntos que les sean turnados por el Secretario General de Acuerdos, de conformidad al orden de presentación de las demandas, substanciando el procedimiento de acuerdo con esta Ley.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 254.
 
-Los Magistrados de las Salas tendrán las atribuciones siguientes:
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
-I. Substanciar el procedimiento;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2015)</small>
 
-II. Dictar la resolución del procedimiento contencioso administrativo;
-
-III. Proceder a la ejecución de la sentencia;
-
-IV. Cursar la correspondencia de la sala, autorizándola con su firma;
-
-V. Rendir los informes previos justificados en los juicios de amparo que se promuevan en contra de actos de la sala;
-
-VI. Dictar las medidas que exija el orden el buen servicio y la disciplina de la sala y exigir se guarde el respeto y consideración debidos;
-
-VII. Decretar los medios de apremio para hacer cumplir las determinaciones de la Sala;
-
-VIII. Solicitar al Gobernador del Estado, Presidentes Municipales y demás autoridades el apoyo necesario para hacer cumplir sus determinaciones;
-
-IX. Informar mensualmente al Pleno del Tribunal de las labores de la Sala; y
-
-X. Las demás que les otorgue el Reglamento Interior.
-
-### CAPÍTULO VII. DE LOS MAGISTRADOS
+### CAPÍTULO VII
 
 ###### ARTÍCULO 255.
 
-Para ser Magistrado del Tribunal Justicia (sic) Fiscal y Administrativa del Poder Judicial del Estado se deben cumplir los requisitos que establece la Constitución Política del Estado Libre y Soberano de Durango, en su artículo 93.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 256.
 
-Los Magistrados al vencimiento de su nombramiento tendrán derecho a un haber por retiro, no podrán actuar como patronos, abogados o representantes ante el Tribunal Justicia (sic) Fiscal y Administrativa del Poder Judicial del Estado dentro del año siguiente a la fecha de su vencimiento.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 257.
 
-Los Magistrados que hayan concluido su período, permanecerán en el cargo hasta en tanto tomen posesión los designados para substituirlos y a fin de que éstos puedan recibir oficial y materialmente sus oficinas
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 258.
 
-Los Magistrados Propietarios, Secretarios y Actuarios del Tribunal estarán impedidos para desempeñar cualquier otro cargo o actividad profesional, excepto en instituciones docentes, literarias, de beneficencia o cuando actúen en defensa legal de causa propia. El incumplimiento de este precepto se sancionará con la destitución.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 259.
 
-Los Magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado serán inamovibles durante el período de su encargo y sólo podrán ser privados del mismo en los términos y en los casos legalmente aplicables, conforme a los procedimientos que establezcan la Constitución Política del Estado Libre y Soberano de Durango y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 260.
 
-Ninguna licencia podrá concederse por más de seis meses. Las de los Magistrados de las Salas ordinarias, cuando no excedan de un mes sin goce de sueldo, serán concedidas por la Comisión de Administración; las que excedan de ese tiempo, así como las del Presidente del Tribunal, las autorizará el Congreso del Estado.
-
-No se autorizarán licencias que tengan como propósito ocupar o desempeñar algún otro cargo ya sea a nivel Federal, Estatal o Municipal, sea o no de elección popular.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 261.
 
-Se considera que la falta de un Magistrado es definitiva, cuando se prolonga por más de seis meses.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
-### CAPÍTULO VIII. DE LOS SECRETARIOS, ACTUARIOS Y DEL DIRECTOR ADMINISTRATIVO
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO VIII
 
 ###### ARTÍCULO 262.
 
-Para ser Secretario, o Actuario del Tribunal, se requiere:
-
-l. Ser ciudadano mexicano por nacimiento y Duranguense en pleno ejercicio de sus derechos;
-
-II. Poseer título profesional y cedula profesional de Licenciado en Derecho o su equivalente, expedido por institución legalmente facultada para ello, con antigüedad mínima en la titulación de tres años para ser secretario; salvo los actuarios que deberán ser titulados;
-
-III. Gozar de buena reputación y no haber sido condenado por la comisión de un delito intencional que hubiere merecido pena corporal; y
-
-IV. Experiencia de dos años en materia administrativa y fiscal para el caso de los Secretarios.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 263.
 
-Son atribuciones del Secretario General de Acuerdos:
-
-I. Fungir como Secretario de Acuerdos del Pleno y dar fe pública en los asuntos de su competencia, firmando en unión del Presidente, las actas y despachos del Tribunal y del Pleno;
-
-II. Acordar con el Presidente lo relativo a las sesiones del Pleno, dando cuenta con los asuntos a tratar en las mismas; tomar la votación de los Magistrados y formular el acta respectiva;
-
-III. Levantar las actas correspondientes recabando las firmas de los participantes y autorizarlas con su rúbrica;
-
-IV. Expedir las certificaciones de las constancias que obren en los expedientes del Tribunal;
-
-V. Engrosar las fallos del Tribunal, autorizándolos con su firma, conjuntamente con el Presidente;
-
-VI. Llevar los Libros de Gobierno y de registro de documentos del Tribunal;
-
-VII. Proyectar los autos y resoluciones que le indique el Presidente del Tribunal; y
-
-VIII. Las demás que le encomienden el Pleno y el Presidente, las que le señale esta Ley y otros ordenamientos legales aplicables.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 264.
 
-Son atribuciones de los Secretarios de Acuerdo de las Salas ordinarias:
-
-I. Dar fe pública en los asuntos de su competencia;
-
-II. Dar cuenta al Magistrado de la Sala de su adscripción con las promociones presentadas por las partes, dentro de las veinticuatro horas siguientes;
-
-IIl. Redactar y autorizar las actas y resoluciones que recaigan en relación a las promociones presentadas en los expedientes cuyo trámite se les encomiende;
-
-IV. Cuidar que los expedientes sean exactamente foliados al agregarse cada una de las fojas, rubricar todas éstas y poner el sello del Tribunal en el fondo del expediente, de manera que queden selladas las dos caras;
-
-V. Proyectar las resoluciones de los asuntos que le asigne el Magistrado;
-
-VI. Efectuar las diligencias que les encomiende el Magistrado de la Sala, cuando éstas deban practicarse fuera del Local del Tribunal;
-
-VII. Rendir un informe mensual de las actividades efectuadas, al Magistrado de su adscripción;
-
-VIII. Acordar con el Magistrado de la Sala de su adscripción, lo relativo a las audiencias;
-
-IX. Engrosar los fallos de la Sala a la que estén adscritos, autorizándolos con su firma en unión del Magistrado;
-
-X. Expedir las certificaciones de las constancias que obren en los expedientes de la Sala a la que estén adscritos;
-
-XI. Llevar los Libros de Gobierno y de registro de documentos de la Sala de su adscripción; y
-
-XII. Las demás que le encomiende el Pleno, el Magistrado Presidente, el Magistrado de la Sala de su adscripción, las que le señale esta Ley y otros ordenamientos legales aplicables.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 265.
 
-Son atribuciones de los Secretarios de Estudio y Cuenta de las Salas ordinarias:
-
-I. Acordar con el Magistrado al que esté adscrito, los asuntos que le sean encomendados;
-
-II. Elaborar los proyectos de resolución de los asuntos que se le encomienden;
-
-III. Rendir un informe mensual de las actividades realizadas al magistrado al que este asignado; y
-
-IV. Las demás que le encomiende la Sala Superior, el Presidente del Tribunal, los Magistrados de su adscripción, el Secretario General de Acuerdos del Tribunal y las demás que establezca esta Ley y el Reglamento Interior del Tribunal.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 266.
 
-Son atribuciones de los Actuarios:
-
-I. Dar fe pública en los asuntos de su competencia;
-
-II. Notificar, en tiempo y forma prescritos por esta Ley, las resoluciones recaídas en los expedientes que les sean turnados para tal efecto, formulando los oficios de notificación de los acuerdos que se dicten enviándolos a su destino, asentando en el expediente la razón de haber hecho la notificación y de haber entregado los oficios respectivos;
-
-III. Practicar las diligencias que les encomiende el Magistrado de su adscripción;
-
-IV. Formular los oficios de notificación de los acuerdos que se dicten enviándolos a su destino;
-
-V. Informar mensualmente al Magistrado de su adscripción respecto de las actividades realizadas; y
-
-VI. Las demás que le señalen el Magistrado de la Sala de su adscripción, así, como los Secretarios de la misma, esta Ley y otros ordenamientos legales aplicables.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 267.
 
-Las faltas temporales del Secretario General de Acuerdos serán suplidas por el servidor público del Tribunal que designe el Pleno; las de los Secretarios de Acuerdos de Sala ordinaria, por el Secretario de Estudio y Cuenta de la misma; y las de éstos, por el Actuario; y la de éste, por la persona adscrita que designe el Magistrado respectivo.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 268.
 
-El Director Administrativo será nombrado por la Comisión de Administración del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial, a propuesta de su Presidente.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 269.
 
-Para ser Director Administrativo del Tribunal se requiere:
-
-l. Ser mexicano, en ejercicio de sus derechos;
-
-II. Tener título y cédula profesional en alguna de las áreas económicas o administrativas afín (sic) a las funciones propias del cargo;
-
-III. Gozar de buena reputación y no haber sido condenado por la comisión de un delito intencional que hubiere merecido pena corporal; y
-
-IV. Experiencia de dos años en materia contable y financiera.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 270.
 
-Corresponde al Director Administrativo:
-
-l. Formular el anteproyecto del presupuesto del Tribunal;
-
-II. Llevar un control sobre el ejercicio del presupuesto y ejecutar las órdenes relacionadas con dicho ejercicio;
-
-III. Integrar los expedientes del personal jurídico y administrativo del Tribunal;
-
-IV. Supervisar el funcionamiento del archivo del Tribunal;
-
-V. Tramitar los movimientos de personal y vigilar el cumplimiento de las obligaciones laborales de los empleados administrativos;
-
-VI. Controlar los bienes del Tribunal, mantener actualizado su inventario y vigilar su conservación;
-
-VII. Coordinar la prestación de los demás servicios administrativos necesarios para el buen funcionamiento del Tribunal;
-
-VIII. Recabar, actualizar y difundir la información de oficio que le señala el artículo 13 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango;
-
-IX. Proporcionar la información que el particular requiera, excepto de aquélla que contenga datos personales y sensibles; y
-
-X. Las demás que le señalen la Presidencia y el Reglamento Interior del Tribunal.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -2320,3 +2180,11 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HUGO GERARDO ROSALES BADILLO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE FEBRERO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
