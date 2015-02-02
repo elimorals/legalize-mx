@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-para-el-estado-de-hidalgo-83957"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-11-21"
-last_updated: "2014-12-22"
+last_updated: "2015-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # CODIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 2 DE FEBRERO DE 2015 Y 6 DE ABRIL DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 2 DE FEBRERO DE 2015.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -435,7 +435,7 @@ El monto de las contribuciones y aprovechamientos a favor del fisco Municipal, s
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Dicho factor, se obtendrá del resultado de la división entre el Índice Nacional de Precios al Consumidor calculado por el Instituto Nacional de Geografía y Estadística (lNEGI) y publicado en el Diario Oficial de la Federación del mes anterior al más reciente del período, entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones no se actualizarán por fracciones de mes.
+Dicho factor, se obtendrá del resultado de la división entre el Índice Nacional de Precios al Consumidor calculado por el Instituto Nacional de Geografía y Estadística (INEGI) y publicado en el Diario Oficial de la Federación del mes anterior al más reciente del período, entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones no se actualizarán por fracciones de mes.
 
 (REFORMADO, P.O. 31 DE DICIEMBRE DE 2012) (F. DE E., P.O. 28 DE ENERO DE 2013)
 
@@ -1229,7 +1229,7 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 114.
 
@@ -1237,33 +1237,19 @@ Los funcionarios y servidores públicos que intervengan en los diversos trámite
 
 En materia fiscal municipal, la reserva a que se refiere el párrafo anterior no comprenderá:
 
-I.-...
+I. La información que deba proporcionarse a los funcionarios encargados de la administración y defensa de los intereses fiscales federales, estatales y municipales;
 
-La información que deba proporcionarse a los funcionarios encargados de la administración y defensa de los intereses fiscales federales, estatales y municipales;
+II. La información relativa a los adeudos y créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia;
 
-II.-...
+III. La información solicitada por mandato judicial del orden penal, civil, mercantil, administrativo y de tribunales competentes en materia de pensiones alimenticias;
 
-La información relativa a los adeudos y créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia;
+IV. La información solicitada por los Agentes del Ministerio Público del Fuero Federal y Estatal;
 
-III.-...
+V. La información solicitada por las autoridades competentes del Instituto Nacional Electoral tratándose de la integración de expedientes relacionados con la comisión de delitos electorales
 
-La información solicitada por mandato judicial del orden penal, civil, mercantil, administrativo y de tribunales competentes en materia de pensiones alimenticias;
+VI. La información que el propio contribuyente autorice a hacer pública; y
 
-IV.-...
-
-La información solicitada por los Agentes del Ministerio Público del Fuero Federal y Estatal;
-
-V.-...
-
-La información solicitad (sic) por las autoridades competentes del Instituto Nacional Electoral tratándose de la integración de expedientes relacionados con la comisión de delitos electorales
-
-VI.-...
-
-La información que el propio contribuyente autorice a hacer pública; y
-
-VII.-...
-
-Los demás casos específicos que establezcan las leyes fiscales.
+VII. Los demás casos específicos que establezcan las leyes fiscales.
 
 En materia fiscal estatal y federal, se estará a lo dispuesto por las leyes y normas que expidan dichos órdenes de gobierno.
 
