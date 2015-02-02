@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ejecucion-de-sanciones-penales-del-estado-de-81752"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-17"
-last_updated: "2013-11-11"
+last_updated: "2015-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2015.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 17 de junio de 2011.
 
@@ -38,6 +38,8 @@ Decreto Número 87
 ###### ARTÍCULO PRIMERO.
 
 Se expide la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes, para quedar en los siguientes términos:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 140, PUBLICADO EN EL P.O. 2 DE FEBRERO DE 2015, TODA REFERENCIA AL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES QUE SE REALICE EN OTRAS LEYES, SE ENTENDERÁ HECHA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; ASIMISMO, CONFORME AL ARTÍCULO QUINTO TRANSITORIO DEL MISMO DECRETO, LAS REFERENCIAS TANTO A LA FISCALÍA GENERAL DEL ESTADO COMO AL FISCAL GENERAL DEL ESTADO DEL PRESENTE DECRETO, SE ENTENDERÁN HECHAS A LA PROCURADURÍA GENERAL DE JUSTICIA Y AL PROCURADOR GENERAL DE JUSTICIA RESPECTIVAMENTE.</small>
 
 LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE AGUASCALIENTES
 
@@ -71,7 +73,9 @@ III. Centro: A los Centros de Reinserción Social del Estado de Aguascalientes;
 
 IV. Código Penal: Al Código Penal para el Estado de Aguascalientes;
 
-V. Código Procesal: Al Código de Procedimientos Penales para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+V. Código Procesal: Al Código Nacional de Procedimientos Penales;
 
 VI. Consejo Técnico: El Consejo Técnico Interdisciplinario de los Centros de Reinserción Social del Estado;
 
@@ -89,7 +93,9 @@ XII. Imputado o procesado: Todo acusado en un procedimiento penal;
 
 XIII. Interno: A toda persona privada de su libertad, ya sea en forma preventiva o definitiva, por virtud de un procedimiento penal;
 
-XlV. Ministerio Público: El Agente del Ministerio Público de la Procuraduría General de Justicia del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+XIV. Ministerio Público: El Agente del Ministerio Público de la Fiscalía General del Estado de Aguascalientes;
 
 XV. Prisión preventiva: Es la medida cautelar restrictiva de la libertad, dictada por un juez a partir del auto de plazo constitucional;
 
@@ -449,13 +455,11 @@ Cuando se tenga por cumplida alguna de las sanciones penales, el Juez de Ejecuci
 
 Compete al Juez de la causa resolver sobre los sustitutivos y la suspensión condicional de las penas privativas de libertad impuestas en la misma sentencia dictada. En el caso de que dicho Juez no se pronuncie sobre tales beneficios, el Juez de Ejecución será competente para otorgarlos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 35.
 
-Por cada sentencia ejecutoria, el Juez de Ejecución abrirá un registro en el que llevará noticia de los acuerdos y del cumplimiento exacto de las penas y medidas de seguridad que se hayan ordenado y ejecutado. Las constancias del registro de ejecución se ajustarán a las formalidades exigidas para las actuaciones en las primeras fases del procedimiento penal señaladas en el Código Procesal y las establecidas en esta Ley.
+Por cada sentencia ejecutoria, el Juez de Ejecución abrirá un registro en el que llevará noticia de los acuerdos y del cumplimiento exacto de las penas y medidas de seguridad que se hayan ordenado y ejecutado. Las constancias del registro de ejecución se ajustarán a las formalidades exigidas para las actuaciones en las fases del procedimiento penal señaladas en el Código Procesal y las establecidas en esta Ley.
 
 ###### ARTÍCULO 36.
 
@@ -483,11 +487,9 @@ II. Si se requiere producción de prueba con el fin de sustentar la revisión, s
 
 Para que pueda ser admitido un medio de prueba deberá ser pertinente y útil para resolver sobre la procedencia o falta de procedencia de la petición. Son inadmisibles los medios de prueba ilícitos por haber sido obtenidos, incorporados y producidos con violación a la ley o a los derechos humanos y fundamentales de las personas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
-
-III. El Juez de Ejecución dirigirá el debate, ordenará y autorizará las lecturas pertinentes, hará las advertencias que correspondan, tomará las protestas legales y moderará la discusión. Asimismo, tendrá poder de disciplina en la audiencia y cuidará que se mantenga el buen orden para lo cual podrá aplicar las correcciones disciplinarias previstas en el Código de Procesal (sic). El Juez de Ejecución desahogará la audiencia de la siguiente manera:
+III. El Juez de Ejecución dirigirá el debate, ordenará y autorizará las lecturas pertinentes, hará las advertencias que correspondan, tomará las protestas legales y moderará la discusión. Asimismo, tendrá poder de disciplina en la audiencia y cuidará que se mantenga el buen orden para lo cual podrá aplicar las correcciones referidas en el Código Procesal. El Juez de Ejecución desahogará la audiencia de la siguiente manera:
 
 a) Verificará las condiciones para que se lleve a cabo la audiencia y se rindan, en su caso, los medios de prueba ofrecidos;
 
@@ -499,13 +501,17 @@ d) Procederá a dar el uso de la palabra al que haya formulado la petición y lu
 
 e) Dirigirá la producción de la prueba, en primer término la de la parte que haya formulado la petición, y a continuación la de su contraria, permitiendo el interrogatorio directo e indirecto que corresponda, la réplica y contrarréplica que requiera el debate y resolverá las objeciones que formulen las partes; y
 
-f) Declarará cerrado el debate.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+f) Dará el uso de la palabra, para formulación de alegatos de cierre, y posteriormente declarará cerrado el debate.
 
 IV. La resoluciones se sustentarán en la prueba producida en la audiencia y deberán emitirse inmediatamente después de concluido el debate. Excepcionalmente, en casos de extrema complejidad o por alguna causa de fuerza mayor, siempre y cuando no se trate de casos urgentes, el Juez podrá suspender la audiencia hasta por tres días naturales, reanudando los trabajos con la presencia de las partes a fin de pronunciar la resolución;
 
 V. El Juez de Ejecución valorará la prueba producida en la audiencia conforme a la sana crítica, observando las reglas de la lógica, los conocimientos científicos y las máximas de la experiencia; y
 
-VI. De la resolución pronunciada en la audiencia a que se refieren los incisos anteriores, deberá entregarse copia certificada a la autoridad penitenciaria que corresponda y a la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+VI. De la resolución pronunciada en la audiencia a que se refieren los incisos anteriores, deberá entregarse copia certificada a la autoridad penitenciaria que corresponda y a la Fiscalía General del Estado.
 
 ###### ARTÍCULO 38.
 
@@ -881,7 +887,9 @@ III. Un representante de la Universidad Autónoma de Aguascalientes;
 
 IV. Un representante de la sociedad civil, que será designado discrecionalmente por el Consejo de la Judicatura, de manera semestral entre los organismos no gubernamentales de la Entidad;
 
-V. Un representante de la Procuraduría General de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+V.- Un representante de la Fiscalía General del Estado; y
 
 VI. Un representante de la Comisión Estatal de Derechos Humanos.
 
@@ -1533,7 +1541,9 @@ El indulto procede en los casos siguientes:
 
 I. Cuando el sentenciado haya prestado importantes servicios a la Nación o al Estado;
 
-II. Cuando el sentenciado pueda ser reinsertado a la sociedad según el dictamen del área técnica, cumpla con su trabajo, haya observado buena conducta, participado en las actividades educativas que se organicen, que se destaque en alguna actividad a favor de diversa persona o en beneficio del centro correspondiente y que exista la opinión de la Procuraduría General de Justicia en el Estado, en la vista previa dentro del registro de ejecución;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+II. Cuando el sentenciado pueda ser reinsertado a la sociedad según el dictamen del área técnica, cumpla con su trabajo, haya observado buena conducta, participado en las actividades educativas que se organicen, que se destaque en alguna actividad a favor de diversa persona o en beneficio del centro correspondiente y que exista la opinión de la Fiscalía General del Estado, en la vista previa dentro del registro de ejecución;
 
 III. Cuando el sentenciado haya contraído una enfermedad infecciosa y mortal que ya no pueda ser controlada médicamente o se encuentre en estado avanzado de senectud, siempre y cuando esta circunstancia convierta la pena de prisión en una sanción de imposible ejecución por las condiciones de deterioro que presente el sentenciado;
 
@@ -1733,11 +1743,9 @@ Una vez recibida copia de la sentencia ejecutoria en la que se establezca que el
 
 Durante la ejecución de la medida, la institución responsable informará periódicamente al Juez de Ejecución en los términos que este determine.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
-
-El sentenciado que se considere afectado por la naturaleza y duración del tratamiento o por no haberse observado lo establecido en el Código Procesal en esta materia, podrá solicitar la reconsideración de la medida ante el Juez Ejecución.
+El sentenciado que se considere afectado por la naturaleza y duración del tratamiento o por no haberse observado lo establecido en las normas aplicables de la materia, podrá solicitar la reconsideración de la medida ante el Juez de Ejecución.
 
 ### CAPÍTULO IV. Sujeción a Vigilancia de la Autoridad
 
@@ -1763,7 +1771,9 @@ En caso de incumplimiento, se le informará al Juez de Ejecución para los efect
 
 Una vez recibida copia de la sentencia ejecutoria, el Juez de Ejecución verificará si se ordenó el otorgamiento de caución sobre posesión de las cosas y/o para no ofender, la cual será presentada a dicho Juez en cualquiera de las formas aceptadas por la ley.
 
-Una vez otorgada, el Juez de Ejecución establecerá vigilancia sobre el sentenciado para que no altere dolosamente las cosas de las que tenga posesión o no moleste a las personas que se le ordenó no hacerlo, y en caso de que ello ocurra, se procederá a hacer efectiva la garantía en favor de los beneficiarios, en los términos previstos en esta Ley, dependiendo de la clase de garantía aceptada y se comunicará de lo anterior a la Procuraduría General de Justicia para los efectos legales correspondientes.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+Una vez otorgada, el Juez de Ejecución establecerá vigilancia sobre el sentenciado para que no altere dolosamente las cosas de las que tenga posesión o no moleste a las personas que se le ordenó no hacerlo, y en caso de que ello ocurra, se procederá a hacer efectiva la garantía en favor de los beneficiarios, en los términos previstos en esta Ley, dependiendo de la clase de garantía aceptada y se comunicará de lo anterior a la Fiscalía General del Estado para los efectos legales correspondientes.
 
 ###### ARTÍCULO 193.
 
@@ -1944,3 +1954,29 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con antelación a la entrada en vigor de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+A partir del inicio de la vigencia del presente Decreto, toda referencia al Código de Procedimientos Penales para el Estado de Aguascalientes que se realice en otras leyes, se entenderá hecha al Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos penales iniciados por las conductas descritas en los tipos penales contemplados en los Artículos 122 y 123 del Código Penal para el Estado de Aguascalientes, que se derogan en el presente Decreto, se seguirán en los mismos términos, sin que a ello importe que haya traslación de tipo y sean ahora contemplados con sus mismos elementos típicos y sus mismas sanciones en las modalidades de la violación equiparada del Artículo 120 del mismo ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, las referencias tanto a la Fiscalía General del Estado como al Fiscal General del Estado del presente Decreto, se entenderán hechas a la Procuraduría General de Justicia y al Procurador General de Justicia respectivamente.
+
+###### ARTÍCULO SEXTO.
+
+En tanto no inicie su vigencia el Sistema Penal Acusatorio las referencias hechas en el presente Decreto a delitos de prisión preventiva oficiosa se entenderán realizada a delitos graves, según sea el caso.
