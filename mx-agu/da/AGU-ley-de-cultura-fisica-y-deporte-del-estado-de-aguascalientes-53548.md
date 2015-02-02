@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2014-06-30"
+last_updated: "2015-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -43,35 +43,43 @@ LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
-###### Artículo 1°.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
-La presente Ley es de orden e interés público y observancia general en el Estado de Aguascalientes, corresponde su aplicación e interpretación en el ámbito administrativo, al Ejecutivo del Estado, por conducto del Instituto del Deporte del Estado de Aguascalientes.
+###### Artículo 1º.
 
-###### Artículo 2°.
+La presente Ley es de orden e interés público y observancia general en el Estado de Aguascalientes, reglamenta el derecho a la cultura física y el deporte, consagrado en el artículo 4° de la Constitución Política del Estado de Aguascalientes, corresponde su aplicación e interpretación en el ámbito administrativo, al Ejecutivo del Estado, por conducto del IDEA, en los términos en que se prevén.
 
-Esta Ley tiene por objeto establecer las bases generales de coordinación y colaboración entre la Federación, el Estado y los Municipios, así como de la concertación para la participación de los sectores social y privado en materia de cultura física y deporte, teniendo las siguientes finalidades generales:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2º.
+
+Esta Ley tiene por objeto establecer las bases generales para la distribución de competencias, la coordinación y colaboración entre la Federación, el Estado y los Municipios, en materia de cultura física y deporte, bajo el principio de concurrencia, así como de la concertación para la participación de los sectores social y privado, teniendo las siguientes finalidades generales:
 
 I. Fomentar el óptimo y ordenado desarrollo de la cultura física y deporte en todas sus manifestaciones y expresiones;
 
 II. Elevar, por medio de la cultura física y deporte, el nivel de vida social y cultural de los habitantes en el Estado;
 
-III. Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la cultura física y deporte;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
+III. Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la activación física, cultura física y deporte;
 
-IV. Fomentar el desarrollo de la cultura física y deporte, como medio importante en la prevención del delito y como medida de desarrollo integral de las personas;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+IV. Fomentar el desarrollo de la cultura física y deporte, como medio importante en la preservación de la salud, prevención de enfermedades, de la violencia y del delito, así como medida de desarrollo integral de las personas;
 
 V. Incentivar la inversión social y privada para el desarrollo de la cultura física y deporte, como complemento de la actuación pública;
 
 VI. Promover las medidas necesarias para erradicar la violencia y reducir los riesgos en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
 
-VII. Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas, Deportivo-Recreativas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+VII. Incentivar el desarrollo de la actividad deportiva de forma organizada, donde se fomente, ordene y regule a las Asociaciones y Sociedades Deportivas, Deportivo-Recreativas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva;
 
 VIII. Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-IX. Garantizar a todas las personas, sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen;
+IX. Garantizar a todas las personas, sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas y apoyos de desarrollo que en materia de cultura física y deporte se implementen;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
 
@@ -80,6 +88,34 @@ X. Garantizar que los deportistas con algún tipo de discapacidad no sean objeto
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2010)</small>
 
 XI. Promover el desarrollo del deporte adaptado y los apoyos para el fomento de la cultura física y el deporte para personas con discapacidad, a través de su integración, la equidad y la no discriminación.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+Artículo 2º bis.- El ejercicio y desarrollo del derecho a la cultura física y el deporte tienen como base los siguientes principios:
+
+I. La cultura física y la práctica del deporte son un derecho fundamental para todos;
+
+II. La cultura física y la práctica del deporte constituyen un elemento esencial de la educación;
+
+III. El derecho a la cultura física y al deporte constituye (sic) un estímulo para el desarrollo afectivo, físico, intelectual y social de todos, además de ser un factor de equilibrio y autorrealización;
+
+IV. Los programas en materia de cultura física y deporte deben responder a las necesidades individuales y sociales, existiendo una responsabilidad pública en el fomento cualitativo y cuantitativo de la cultura física y el deporte;
+
+V. La enseñanza, capacitación, gestión, administración y desarrollo de la cultura física y el deporte deben confiarse a un personal calificado;
+
+VI. Para el desarrollo de la cultura física y la práctica del deporte es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permitan desarrollar políticas y programas que contribuyan al objetivo común de hacer de la cultura física y el deporte un derecho de todos;
+
+VII. La investigación, información y documentación son elementos indispensables para el desarrollo de la cultura física y el deporte;
+
+VIII. Las instituciones deportivas públicas y privadas del Estado deben colaborar y cooperar en forma estrecha y responsable en la promoción, fomento y estímulo del derecho a la cultura física y a la práctica del deporte;
+
+IX. La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos del Estado;
+
+X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
+
+XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte, y;
+
+XII. La existencia de una adecuada cooperación a nivel nacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte.
 
 ###### Artículo 3°.
 
@@ -93,7 +129,7 @@ III. Programa: El Programa Estatal de Cultura Física y Deporte;
 
 IV. CONADE: La Comisión Nacional de Cultura Física y Deporte;
 
-V. CODEME: La Confederación Deportiva Mexicana, A.C.;
+V. (DEROGADA, P.O. 2 DE FEBRERO DE 2015)
 
 VI. SINADE: El Sistema Nacional de Cultura Física y Deporte;
 
@@ -117,19 +153,29 @@ XIV. CEAAD: La Comisión Estatal de Apelación y Arbitraje del Deporte;
 
 XV. SIEDE: Sistema Estatal de Cultura Física y Deporte;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-XVI. RESIEDE: Registro del Sistema Estatal de Cultura Física y Deporte; y
+XVI. RESIEDE: Registro del Sistema Estatal de Cultura Física y Deporte;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-XVII. COMISIÓN: La Comisión de Control de Violencia en la Celebración de Espectáculos Deportivos.
+XVII. COMISIÓN: La Comisión de Control de Violencia en la Celebración de Espectáculos Deportivos;
 
-###### Artículo 4°.
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+XVIII. COPAME: El Comité Paralímpico Mexicano; y
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+XIX. COEVED: Consejo Estatal de Vigilancia Electoral Deportiva.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+###### Artículo 4º.
 
 Para efecto de la aplicación de la presente Ley, se considerarán como definiciones básicas las siguientes:
 
-I. Educación Física: Proceso por medio del cual se adquiere, transmite y acrecienta la cultura física;
+I. Educación Física: Proceso fundamental para adquirir, transmitir y acrecentar la cultura física;
 
 II. Cultura Física: Conjunto de bienes (conocimientos, ideas, valores y elementos materiales) que el hombre ha producido con relación al movimiento y uso de su cuerpo;
 
@@ -137,13 +183,25 @@ III. Actividad Física: Actos motores propios del ser humano, realizados como pa
 
 IV. Recreación Física: Actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
 
-V. Deporte: Actividad institucionalizada y reglamentada, desarrollada en competiciones que tiene por objeto lograr el máximo rendimiento; y
+V. Deporte: Actividad física, organizada y reglamentada, que tiene por finalidad preservar y mejorar la salud física y mental, el desarrollo social, ético e intelectual, con el logro de resultados en competiciones;
 
-VI. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo.
+VI. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
 
-###### Artículo 5°.
+VII. Deporte Social o Masivo: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
 
-El Gobierno del Estado en sus respectivas jurisdicciones promoverá las acciones necesarias para fomentar la cultura física y deporte, de conformidad con las bases de coordinación previstas en esta Ley, su Reglamento y demás ordenamientos legales aplicables.
+VIII. Deporte Adaptado: actividad físico deportiva que es susceptible de aceptar modificaciones para garantizar la participación de las personas con discapacidades físicas, psíquicas o sensoriales;
+
+IX. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
+
+X. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en representaciones y selecciones estatales en competiciones y pruebas oficiales de carácter nacional; y
+
+XI. Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física de las personas.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+###### Artículo 5º.
+
+El Gobierno del Estado y los Municipios en el ámbito de sus respectivas competencias promoverán el adecuado ejercicio del derecho de todos los aguascalentenses a la cultura física y la práctica del deporte.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
@@ -151,15 +209,35 @@ El Gobierno del Estado en sus respectivas jurisdicciones promoverá las acciones
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Gobierno del Estado y los Ayuntamientos en el ámbito de sus respectivas competencias su promoción, fomento y estímulo conforme a las leyes en la materia.
 
-###### Artículo 7°.
-
-El Instituto del Deporte del Estado de Aguascalientes, integrará el Programa Estatal de Cultura Física y Deporte, que se sujetará a lo previsto en el Plan Estatal de Desarrollo y el Reglamento de la presente Ley, la Ley de Planeación del Estado, y especificará los objetivos, prioridades y políticas que normarán al sector.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ### CAPITULO SEGUNDO. Del Sistema Estatal de Cultura Física y Deporte
 
 #### SECCION PRIMERA. Del Instituto
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 #### SECCION SEGUNDA. De la Junta Directiva
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+###### Artículo 7º.
+
+En el Plan Sexenal de Gobierno del Estado, se deberá incorporar el desarrollo de la cultura física y el deporte, considerando las disposiciones previstas en la presente Ley y su Reglamento.
+
+El Ejecutivo Estatal a través del IDEA establecerá en el Plan Sexenal a su cargo, los objetivos, alcances y límites del desarrollo del sector; así como, el deber de las Dependencias y Entidades de la Administración Pública Estatal en relación con la cultura física y el deporte.
+
+El SIEDE integrará el Programa con base en un diagnóstico estatal y municipal, debiendo contener al menos:
+
+I. Una clara definición de objetivos y metas;
+
+II. La formulación de estrategias, tomando en cuenta criterios de coordinación institucional para el aprovechamiento de los recursos públicos y privados;
+
+III. El diseño de políticas que aseguren la efectiva participación del sector privado en la actividad deportiva Estatal, y
+
+IV. El plan de inversiones con los presupuestos de los principales programas y proyectos de inversión pública de los distintos entes deportivos y la especificación de los recursos financieros requeridos para su ejecución; así como, su rendición de cuentas.
+
+Para el cumplimiento de lo dispuesto en este artículo se adoptarán las acciones y estrategias pertinentes, se dictarán los instrumentos normativos a que haya lugar y se formularán los planes operativos anuales que garanticen su ejecución.
 
 ### CAPITULO TERCERO. Del Instituto del Deporte del Estado de Aguascalientes
 
@@ -171,7 +249,9 @@ El Sistema Estatal de Cultura Física y Deporte del Estado de Aguascalientes, ti
 
 Se consideran integrantes del SIEDE los organismos e instituciones públicas y privadas siguientes:
 
-I. El Instituto del Deporte del Estado de Aguascalientes (IDEA);
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+I. El IDEA;
 
 II. Los Órganos Estatales, y Municipales de Cultura Física y Deporte;
 
@@ -205,9 +285,9 @@ III. Proponer planes y programas que contribuyan a fomentar, promover y estimula
 
 IV. Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la cultura física y deporte;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-V. Formular en coordinación con el IEA, el Programa y llevar a efecto las acciones que del mismo se deriven; y
+V. Formular el Programa y llevar a efecto las acciones que del mismo se deriven; y
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
 
@@ -219,17 +299,25 @@ El funcionamiento y requisitos de integración del SIEDE estarán regulados en t
 
 ### CAPITULO CUARTO. De los Órganos Municipales de Cultura Física y Deporte
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 #### SECCION TERCERA. Del Director General
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 13.
 
-El Instituto del Deporte del Estado de Aguascalientes es un organismo público descentralizado con personalidad jurídica y patrimonio propios.
+El IDEA es un organismo público descentralizado con personalidad jurídica y patrimonio propios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 14.
 
-El Instituto del Deporte de Aguascalientes, tiene las siguientes atribuciones:
+El IDEA, tiene las siguientes atribuciones:
 
-I. Las que conforme a la Ley, le correspondan, en materia de cultura física y deporte, excepto aquellas que las disposiciones legales o reglamentarias le atribuyan expresamente al Instituto de Educación de Aguascalientes;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+I. Las que conforme a la Ley, le correspondan, en materia de cultura física y deporte, excepto aquellas que las disposiciones legales o reglamentarias le atribuyan expresamente a cualquier otra dependencia o entidad;
 
 II. Convocar al SIEDE, con la participación que corresponda a las dependencias y entidades del sector público y a las instituciones de los sectores social y privado;
 
@@ -241,7 +329,9 @@ V. Integrar el Programa Estatal de Cultura Física y Deporte;
 
 VI. Establecer los lineamientos para la participación de los deportistas en cualquier clase de competiciones municipales, estatales, nacionales e internacionales, sin contravenir lo dispuesto por las reglas internacionales;
 
-VII. Celebrar, con la participación que le corresponda al Instituto de Educación de Aguascalientes y a la Delegación de la Secretaría de Relaciones Exteriores, acuerdos de cooperación en materia de cultura física y deporte, con órganos gubernamentales y organizaciones internacionales como mecanismo eficaz para fortalecer las acciones que en materia de cultura física y deporte se concierten;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+VII. Celebrar, con la participación que le corresponda al IDEA y a la Delegación de la Secretaría de Relaciones Exteriores, acuerdos de cooperación en materia de cultura física y deporte, con órganos gubernamentales y organizaciones internacionales como mecanismo eficaz para fortalecer las acciones que en materia de cultura física y deporte se concierten;
 
 VIII. Coordinar acciones con las Dependencias y Entidades de la Administración Pública Estatal, los Municipios y el sector social y privado en lo relativo a investigación en ciencias y técnicas en materia de cultura física y deporte;
 
@@ -261,7 +351,9 @@ XIV. Fijar criterios para que dentro de los programas en los que se establezca l
 
 XV. Otorgar el registro correspondiente a las asociaciones y sociedades que en el ámbito estatal tengan como objeto fomentar, desarrollar, promover, investigar, difundir e impulsar actividades de cultura física y deporte, así como sancionar sus estatutos;
 
-XVI. Otorgar recursos económicos a las asociaciones y sociedades deportivas registradas, de acuerdo con la disponibilidad financiera con que cuente el Instituto del Deporte de Aguascalientes;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+XVI. Otorgar recursos económicos a las asociaciones y sociedades deportivas registradas, de acuerdo con la disponibilidad financiera con que cuente el IDEA;
 
 XVII. Auditar a las asociaciones y sociedades deportivas que reciban recursos públicos para el desarrollo de sus actividades;
 
@@ -281,9 +373,11 @@ XXIV. Celebrar todos aquellos contratos y convenios que le permitan cumplir con 
 
 XXV. Las demás que esta Ley u otras disposiciones legales determinen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 15.
 
-El patrimonio del Instituto del Deporte de Aguascalientes se integrará con:
+El patrimonio del IDEA se integrará con:
 
 I. Las aportaciones que realice el Gobierno del Estado, a través de los recursos que se le asignen en el Presupuesto de Egresos del Estado, así como los subsidios y demás recursos que reciba;
 
@@ -293,15 +387,19 @@ III. Las aportaciones que le realicen las personas físicas y morales, estatales
 
 IV. Los bienes muebles e inmuebles que adquiera o se le destinen para su servicio;
 
-V. Los recursos que el propio Instituto del Deporte de Aguascalientes genere; y
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+V. Los recursos que el propio IDEA genere; y
 
 VI. Los demás recursos, bienes y derechos que se adquieran o reciban por cualquier otro título legal.
 
 #### SECCION CUARTA. Del Órgano de Vigilancia
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 16.
 
-La administración del Instituto del Deporte de Aguascalientes, y de las estructuras administrativas que se establezcan en el estatuto orgánico correspondiente estará a cargo de un órgano de gobierno denominado Junta Directiva. Tendrá un Director General designado por el titular del Poder Ejecutivo del Estado.
+La administración del IDEA, y de las estructuras administrativas que se establezcan en el estatuto orgánico correspondiente estará a cargo de un órgano de gobierno denominado Junta Directiva. Tendrá un Director General designado por el titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 17.
 
@@ -317,11 +415,17 @@ b) Secretaría de Finanzas del Estado;
 
 c) Secretaría General de Gobierno del Estado;
 
-d) Secretaría de Gestión e Innovación;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
-e) Instituto de Salud de Aguascalientes;
+d) Oficialía Mayor
 
-f) Secretaría de Desarrollo Social;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+e) Secretaría de Salud
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+f) Secretaría de Bienestar y Desarrollo Social
 
 g) Secretaría de Seguridad Pública;
 
@@ -349,53 +453,55 @@ Podrán ser invitados a participar con voz pero sin voto, personalidades disting
 
 La determinación de quienes deben de participar en los casos señalados en el párrafo anterior serán acordados previamente por el Presidente de la Junta Directiva, a propuesta de los integrantes de la misma.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 19.
 
 La Junta Directiva tendrá las siguientes facultades:
 
-I. Establecer en congruencia con el programa sectorial, las políticas estatales y definir las prioridades a las que deberá sujetarse el Instituto del Deporte de Aguascalientes relativas a la dirección, desarrollo, promoción, fomento, difusión e investigación de la cultura física y deporte;
+I. Establecer en congruencia con el programa sectorial, las políticas estatales y definir las prioridades a las que deberá sujetarse el IDEA relativas a la dirección, desarrollo, promoción, fomento, difusión e investigación de la cultura física y deporte;
 
-II. Aprobar los programas y presupuesto del Instituto del Deporte de Aguascalientes, así como sus modificaciones, en los términos de la legislación aplicable. En lo relativo al presupuesto y a los programas financieros, con excepción de aquellos incluidos en el Presupuesto de Egresos del Estado, bastará con la aprobación de la Junta Directiva;
+II. Aprobar los programas y presupuesto del IDEA, así como sus modificaciones, en los términos de la legislación aplicable. En lo relativo al presupuesto y a los programas financieros, con excepción de aquellos incluidos en el Presupuesto de Egresos del Estado, bastará con la aprobación de la Junta Directiva;
 
-III. Aprobar de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar el Instituto del Deporte de Aguascalientes con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles;
+III. Aprobar de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar el IDEA con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles;
 
 El Director General y en su caso los servidores públicos que deban intervenir, de conformidad con el Estatuto, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por la Junta Directiva.
 
-IV. Aprobar la estructura básica de la organización del Instituto del Deporte de Aguascalientes, y las modificaciones que procedan a la misma;
+IV. Aprobar la estructura básica de la organización del IDEA, y las modificaciones que procedan a la misma;
 
 V. Autorizar la creación de comités de apoyo;
 
-VI. Establecer, con sujeción a las disposiciones legales relativas, con la intervención que corresponda a las dependencias estatales, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el Instituto del Deporte de Aguascalientes requiera para la prestación de sus servicios y de acuerdo a los procedimientos establecidos en el Reglamento de esta Ley;
+VI. Establecer, con sujeción a las disposiciones legales relativas, con la intervención que corresponda a las dependencias estatales, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el IDEA requiera para la prestación de sus servicios y de acuerdo a los procedimientos establecidos en el Reglamento de esta Ley;
 
 VII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda al Comisario;
 
 VIII. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, conforme a las instrucciones de la Coordinadora del Sector correspondiente;
 
-IX. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del Instituto del Deporte de Aguascalientes, cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Finanzas del Estado, por conducto de la Coordinadora de Sector;
+IX. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del IDEA, cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Finanzas del Estado, por conducto de la Coordinadora de Sector;
 
 X. Conocer oportunamente el cumplimiento de los planes, programas, presupuestos, reglamentos, manuales, sistemas y políticas, a efecto de ponderar las causas que determinen variaciones con respecto a lo autorizado y, en su caso, dictar las medidas correctivas que procedan en materia de planeación, organización o dirección;
 
-XI. Designar comisionados especiales en los cuales el Instituto del Deporte de Aguascalientes delegue algunas de sus facultades;
+XI. Designar comisionados especiales en los cuales el IDEA delegue algunas de sus facultades;
 
-XII. Realizar los actos que sean necesarios para el cumplimiento de los objetivos del Instituto del Deporte de Aguascalientes y para los que la Junta Directiva tenga facultades en términos de la Ley o del Estatuto;
+XII. Realizar los actos que sean necesarios para el cumplimiento de los objetivos del IDEA y para los que la Junta Directiva tenga facultades en términos de la Ley o del Estatuto;
 
 XIII. Formular los lineamientos que se estimen necesarios para racionalizar las estructuras de organización y el uso de los recursos disponibles, así como delinear las políticas específicas de apoyo a prioridades del sector deportivo o bien, respecto de los asuntos que se consideren relevantes;
 
 XIV. Aprobar y evaluar el programa anual de trabajo y los programas institucionales de corto, mediano y largo plazos que sean elaborados por el Director General;
 
-XV. Evaluar los presupuestos del Instituto del Deporte de Aguascalientes, en concordancia con el Plan Estatal de Desarrollo, el Programa Sectorial y demás disposiciones relativas;
+XV. Evaluar los presupuestos del IDEA, en concordancia con el Plan Estatal de Desarrollo, el Programa Sectorial y demás disposiciones relativas;
 
-XVI. Aprobar los anteproyectos y proyecto de presupuesto del Instituto del Deporte de Aguas-calientes (sic);
+XVI. Aprobar los anteproyectos y proyecto de presupuesto del IDEA;
 
-XVII. Establecer las directrices y políticas para que la ejecución de los programas y presupuestos se apeguen a la asignación presupuestal autorizada, lo que permitirá el logro oportuno de los objetivos y metas programadas del Instituto del Deporte de Aguascalientes;
+XVII. Establecer las directrices y políticas para que la ejecución de los programas y presupuestos se apeguen a la asignación presupuestal autorizada, lo que permitirá el logro oportuno de los objetivos y metas programadas del IDEA;
 
-XVIII. Vigilar que el Instituto del Deporte de Aguascalientes conduzca sus actividades en forma programada y con base en las políticas sectoriales, prioridades y restricciones que se deriven del Plan Estatal de Desarrollo;
+XVIII. Vigilar que el IDEA conduzca sus actividades en forma programada y con base en las políticas sectoriales, prioridades y restricciones que se deriven del Plan Estatal de Desarrollo;
 
 XIX. Autorizar la creación de grupos de trabajo que coadyuven en la formulación y evaluación de programas institucionales;
 
-XX. Autorizar la creación de Comités Técnicos Especializados de apoyo que el Presidente o una tercera parte de los miembros de la propia Junta Directiva propongan para el cumplimiento de los objetivos y para el desarrollo oportuno y eficaz de las actividades que realice el Instituto del Deporte de Aguascalientes;
+XX. Autorizar la creación de Comités Técnicos Especializados de apoyo que el Presidente o una tercera parte de los miembros de la propia Junta Directiva propongan para el cumplimiento de los objetivos y para el desarrollo oportuno y eficaz de las actividades que realice el IDEA;
 
-XXI. Aprobar los manuales de organización, de procedimientos y de servicios al público y demás instrumentos normativos trascendentes que regulen el funcionamiento del Instituto del Deporte de Aguascalientes, así como las reformas o adiciones a dichos ordenamientos;
+XXI. Aprobar los manuales de organización, de procedimientos y de servicios al público y demás instrumentos normativos trascendentes que regulen el funcionamiento del IDEA, así como las reformas o adiciones a dichos ordenamientos;
 
 XXII. Aprobar el contenido de las actas que se levanten de las sesiones que se celebren, ya sean ordinarias o extraordinarias;
 
@@ -403,37 +509,45 @@ XXIII. Aprobar el calendario anual de sesiones;
 
 XXIV. Proporcionar al Comisario la información que solicite para el desarrollo de sus funciones;
 
-XXV. Analizar y considerar el informe que rinda el Comisario para la programación de actividades del Instituto del Deporte de Aguascalientes, en sus aspectos preventivos y correctivos;
+XXV. Analizar y considerar el informe que rinda el Comisario para la programación de actividades del IDEA, en sus aspectos preventivos y correctivos;
 
 XXVI. Aprobar las medidas que proponga el Director General para atender los informes que presente el Contralor Interno, resultantes de las auditorias, exámenes y evaluaciones que haya realizado;
 
 XXVII. Delegar facultades a favor del Director General o a favor de Delegados Especiales;
 
-XXVIII. Autorizar al Director General para que ejerza facultades de dominio, administración, pleitos y cobranzas en nombre del Instituto del Deporte de Aguascalientes, de conformidad con las disposiciones legales o reglamentarias aplicables;
+XXVIII. Autorizar al Director General para que ejerza facultades de dominio, administración, pleitos y cobranzas en nombre del IDEA, de conformidad con las disposiciones legales o reglamentarias aplicables;
 
-XXIX. Autorizar al Director General, con las limitaciones que al efecto se precisen, para que éste pueda emitir, avalar y negociar títulos de crédito a nombre del Instituto del Deporte de Aguascalientes;
+XXIX. Autorizar al Director General, con las limitaciones que al efecto se precisen, para que éste pueda emitir, avalar y negociar títulos de crédito a nombre del IDEA;
 
-XXX. Autorizar al Director General, con las limitaciones que al efecto se determinen, para que éste pueda comprometer asuntos en arbitrajes y celebrar transacciones en nombre del Instituto del Deporte de Aguascalientes y bajo su responsabilidad;
+XXX. Autorizar al Director General, con las limitaciones que al efecto se determinen, para que éste pueda comprometer asuntos en arbitrajes y celebrar transacciones en nombre del IDEA y bajo su responsabilidad;
 
-XXXI. Autorizar al Director General para ejercitar y desistirse de acciones judiciales, inclusive del juicio de amparo a nombre del Instituto del Deporte de Aguascalientes;
+XXXI. Autorizar al Director General para ejercitar y desistirse de acciones judiciales, inclusive del juicio de amparo a nombre del IDEA;
 
-XXXII. Ratificar los nombramientos de apoderados que recaigan en personas ajenas al Instituto del Deporte de Aguascalientes; y
+XXXII. Ratificar los nombramientos de apoderados que recaigan en personas ajenas al IDEA;
 
-XXXIII. Ejercer las facultades que la Ley Orgánica de la Administración Pública Estatal y demás disposiciones asigne a los Órganos de Gobierno de las Entidades.
+XXXIII. Aprobar el Estatuto Orgánico del IDEA; y
+
+XXXIV. Ejercer las facultades que la Ley Orgánica de la Administración Pública Estatal y demás disposiciones asigne a los Órganos de Gobierno de las Entidades.
 
 #### SECCION QUINTA. Del Órgano de Control Interno
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 20.
 
-El Director General del Instituto del Deporte de Aguascalientes será nombrado y removido por el Gobernador del Estado, debiendo recaer tal nombramiento en persona que reúna los requisitos que a continuación se señalan:
+El Director General del IDEA será nombrado y removido por el Gobernador del Estado, debiendo recaer tal nombramiento en persona que reúna los requisitos que a continuación se señalan:
 
 I. Ser mexicano por nacimiento o por naturalización;
 
 II. Ser mayor de 25 años el día de su nombramiento;
 
-III. Tener conocimientos en materia de deporte; y
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-IV. Ser de probada honorabilidad.
+III. Tener conocimientos y experiencia en materia de cultura física y deporte, los cuales deberá acreditar.
+
+IV. (DEROGADA, P.O. 2 DE FEBRERO DE 2015)
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 21.
 
@@ -441,77 +555,77 @@ El Director General tendrá las siguientes atribuciones y obligaciones:
 
 I. Presidir el Consejo Directivo del Deporte;
 
-II. Administrar y representar legalmente al Instituto del Deporte de Aguascalientes;
+II. Administrar y representar legalmente al IDEA;
 
-III. Formular los programas institucionales de corto, mediano y largo plazos, así como el presupuesto del Instituto del Deporte de Aguascalientes y presentarlos para su aprobación a la Junta Directiva;
+III. Formular los programas institucionales de corto, mediano y largo plazos, así como el presupuesto del IDEA y presentarlos para su aprobación a la Junta Directiva;
 
 IV. Formular programas de organización;
 
-V. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Instituto del Deporte de Aguascalientes;
+V. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del IDEA;
 
-VI. Tomar las medidas pertinentes a fin de que las funciones del Instituto del Deporte de Aguascalientes se realicen de manera articulada, congruente y eficaz;
+VI. Tomar las medidas pertinentes a fin de que las funciones del IDEA se realicen de manera articulada, congruente y eficaz;
 
 VII. Establecer los procedimientos para controlar la calidad de los suministros y programas de recepción que aseguren la continuidad en las políticas aprobadas por la Junta Directiva;
 
-VIII. Recabar información y elementos estadísticos que reflejen el estado de las funciones del Instituto del Deporte de Aguascalientes para así poder mejorar la gestión del mismo;
+VIII. Recabar información y elementos estadísticos que reflejen el estado de las funciones del IDEA para así poder mejorar la gestión del mismo;
 
 IX. Establecer sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
 
-X. Presentar periódicamente a la Junta Directiva el informe del desempeño de las actividades del Instituto del Deporte de Aguascalientes, incluido el ejercicio del presupuesto de ingresos, egresos y los estados financieros correspondientes. En el informe y los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la dirección general con las realizaciones alcanzadas;
+X. Presentar periódicamente a la Junta Directiva el informe del desempeño de las actividades del IDEA, incluido el ejercicio del presupuesto de ingresos, egresos y los estados financieros correspondientes. En el informe y los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la dirección general con las realizaciones alcanzadas;
 
-XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y eficacia con que se desempeñe el Instituto del Deporte de Aguascalientes y presentarlos a la Junta Directiva por lo menos dos veces al año;
+XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y eficacia con que se desempeñe el IDEA y presentarlos a la Junta Directiva por lo menos dos veces al año;
 
 XII. Ejecutar los acuerdos que dicte la Junta Directiva;
 
-XIII. Suscribir, en su caso, los contratos que regulen las relaciones laborales del Instituto del Deporte de Aguascalientes con sus trabajadores;
+XIII. Suscribir, en su caso, los contratos que regulen las relaciones laborales del IDEA con sus trabajadores;
 
-XIV. Coordinar todas las acciones administrativas y operativas del Instituto del Deporte de Aguascalientes, para el eficaz cumplimiento de los acuerdos y disposiciones de la Junta Directiva, de los programas concretos y de las Leyes vigentes aplicables;
+XIV. Coordinar todas las acciones administrativas y operativas del IDEA, para el eficaz cumplimiento de los acuerdos y disposiciones de la Junta Directiva, de los programas concretos y de las Leyes vigentes aplicables;
 
-XV. Ejercer las facultades específicas que le confiera el Estatuto o las que le otorguen al ser designado, así como las que determine la Junta Directiva para administrar y representar legalmente al Instituto del Deporte de Aguascalientes como mandatario de la misma;
+XV. Ejercer las facultades específicas que le confiera el Estatuto o las que le otorguen al ser designado, así como las que determine la Junta Directiva para administrar y representar legalmente al IDEA como mandatario de la misma;
 
-XVI. Ejercer facultades de dominio, administración, pleitos y cobranzas a nombre del Instituto del Deporte de Aguascalientes, previa autorización que para su ejercicio le haya conferido la Junta Directiva;
+XVI. Ejercer facultades de dominio, administración, pleitos y cobranzas a nombre del IDEA, previa autorización que para su ejercicio le haya conferido la Junta Directiva;
 
 XVII. Aprobar estrategias, metodologías, programas de investigación, contenidos, materiales, programas y planes institucionales;
 
-XVIII. Formular y someter a la autorización de la Junta Directiva, el Programa Presupuestal y Financiero Anual del Instituto del Deporte de Aguascalientes, con excepción de aquél que deberá presentarse a la Secretaría de Finanzas del Estado para integrar el Presupuesto de Egresos del Estado;
+XVIII. Formular y someter a la autorización de la Junta Directiva, el Programa Presupuestal y Financiero Anual del IDEA, con excepción de aquél que deberá presentarse a la Secretaría de Finanzas del Estado para integrar el Presupuesto de Egresos del Estado;
 
-XIX. Una vez aprobado el programa presupuestal y financiero anual del Instituto del Deporte de Aguascalientes, remitir a la Secretaría de Finanzas del Estado la parte correspondiente a la suscripción de créditos externos para su autorización en términos de la Ley correspondiente;
+XIX. Una vez aprobado el programa presupuestal y financiero anual del IDEA, remitir a la Secretaría de Finanzas del Estado la parte correspondiente a la suscripción de créditos externos para su autorización en términos de la Ley correspondiente;
 
-XX. Validar los manuales de organización, de procedimientos y de servicios al público y demás instrumentos normativos trascendentes que regulen el funcionamiento del Instituto del Deporte de Aguascalientes, así como las reformas y adiciones a dichos ordenamientos legales y someterlos a la aprobación de la Junta Directiva;
+XX. Validar los manuales de organización, de procedimientos y de servicios al público y demás instrumentos normativos trascendentes que regulen el funcionamiento del IDEA, así como las reformas y adiciones a dichos ordenamientos legales y someterlos a la aprobación de la Junta Directiva;
 
-XXI. Emitir, avalar y negociar títulos de crédito a nombre del Instituto del Deporte de Aguascalientes, de acuerdo a la autorización que para tal fin le haya otorgado la Junta Directiva;
+XXI. Emitir, avalar y negociar títulos de crédito a nombre del IDEA, de acuerdo a la autorización que para tal fin le haya otorgado la Junta Directiva;
 
-XXII. Informar, siempre que sea requerido para ello por el Congreso Estatal, cuando se discuta un proyecto de Ley o se estudie un asunto del ámbito de competencia del Instituto del Deporte de Aguascalientes;
+XXII. Informar, siempre que sea requerido para ello por el Congreso Estatal, cuando se discuta un proyecto de Ley o se estudie un asunto del ámbito de competencia del IDEA;
 
-XXIII. Aprobar la contratación del personal del Instituto del Deporte de Aguascalientes;
+XXIII. Aprobar la contratación del personal del IDEA;
 
-XXIV. Formular las normas y bases para cancelar adeudos a cargo de terceros y a favor del Instituto del Deporte de Aguascalientes, cuando fuere notoria la imposibilidad práctica de su cobro y someterlas a la aprobación de la Junta Directiva;
+XXIV. Formular las normas y bases para cancelar adeudos a cargo de terceros y a favor del IDEA, cuando fuere notoria la imposibilidad práctica de su cobro y someterlas a la aprobación de la Junta Directiva;
 
-XXV. Proponer a la Junta Directiva el establecimiento de las unidades técnicas y administrativas del Instituto del Deporte de Aguascalientes conforme al Estatuto;
+XXV. Proponer a la Junta Directiva el establecimiento de las unidades técnicas y administrativas del IDEA conforme al Estatuto;
 
-XXVI. Someter a la aprobación de la Junta Directiva las bases y programas generales que regulen los contratos, convenios o acuerdos que deba celebrar el Instituto del Deporte de Aguascalientes en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles, de conformidad con lo dispuesto en la Ley de Presupuesto, Contabilidad y Gasto Público;
+XXVI. Someter a la aprobación de la Junta Directiva las bases y programas generales que regulen los contratos, convenios o acuerdos que deba celebrar el IDEA en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles, de conformidad con lo dispuesto en la Ley de Presupuesto, Contabilidad y Gasto Público;
 
-XXVII. Someter a la aprobación de la Junta Directiva las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el Instituto del Deporte de Aguascalientes requiera para la prestación de sus servicios, con sujeción a las disposiciones legales relativas, con la intervención que corresponda a las dependencias federales y de acuerdo a los ordenamientos legales aplicables;
+XXVII. Someter a la aprobación de la Junta Directiva las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el IDEA requiera para la prestación de sus servicios, con sujeción a las disposiciones legales relativas, con la intervención que corresponda a las dependencias federales y de acuerdo a los ordenamientos legales aplicables;
 
 XXVIII. Celebrar contratos, convenios o acuerdos con terceros, tratándose de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles, bajo su responsabilidad y con sujeción a lo dispuesto por las directrices que hayan sido fijadas por la Junta Directiva;
 
-XXIX. Proponer a la Junta Directiva las modificaciones que procedan a la estructura básica de la organización del Instituto del Deporte de Aguascalientes;
+XXIX. Proponer a la Junta Directiva las modificaciones que procedan a la estructura básica de la organización del IDEA;
 
-XXX. Proponer a la Junta Directiva la designación o remoción del prosecretario de la misma, quien podrá ser o no miembro del Instituto del Deporte de Aguascalientes;
+XXX. Proponer a la Junta Directiva la designación o remoción del prosecretario de la misma, quien podrá ser o no miembro del IDEA;
 
 XXXI. Proporcionar al Comisario la información que solicite para el desarrollo de sus funciones;
 
 XXXII. Proponer a la Junta Directiva las medidas conducentes para atender los informes que presente el Contralor Interno, resultantes de las auditorías, exámenes y evaluaciones que hayan realizado;
 
-XXXIII. Establecer las instancias de asesoría, de coordinación y de consulta que estimen necesarias para el adecuado funcionamiento del Instituto del Deporte de Aguascalientes;
+XXXIII. Establecer las instancias de asesoría, de coordinación y de consulta que estimen necesarias para el adecuado funcionamiento del IDEA;
 
-XXXIV. Celebrar y suscribir convenios de coordinación, colaboración y concertación inherentes a los objetivos del Instituto del Deporte de Aguascalientes;
+XXXIV. Celebrar y suscribir convenios de coordinación, colaboración y concertación inherentes a los objetivos del IDEA;
 
-XXXV. Recibir en acuerdo a los titulares de las unidades administrativas del Instituto del Deporte de Aguascalientes y resolver los asuntos de su competencia;
+XXXV. Recibir en acuerdo a los titulares de las unidades administrativas del IDEA y resolver los asuntos de su competencia;
 
-XXXVI. Formular querellas y otorgar perdón a nombre del Instituto del Deporte de Aguascalientes;
+XXXVI. Formular querellas y otorgar perdón a nombre del IDEA;
 
-XXXVII. Ejercitar y desistirse de acciones judiciales inclusive del juicio de amparo a nombre del Instituto del Deporte de Aguascalientes, previa autorización que para su ejercicio le haya conferido la Junta Directiva;
+XXXVII. Ejercitar y desistirse de acciones judiciales inclusive del juicio de amparo a nombre del IDEA, previa autorización que para su ejercicio le haya conferido la Junta Directiva;
 
 XXXVIII. Comprometer asuntos en arbitrajes y celebrar transacciones bajo su responsabilidad y de acuerdo con la autorización que para tal efecto le haya otorgado la Junta Directiva;
 
@@ -521,15 +635,19 @@ XL. Sustituir y revocar poderes generales o especiales, en los términos aprobad
 
 XLI. Las demás que le señale ésta y otras Leyes, Reglamentos, Decretos, Acuerdos y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 22.
 
-El Director General tendrá además, las facultades que le delegue y confiera la Junta Directiva para administrar y representar legalmente al Instituto del Deporte de Aguascalientes como mandatario del mismo.
+El Director General tendrá además, las facultades que le delegue y confiera la Junta Directiva para administrar y representar legalmente al IDEA como mandatario del mismo.
 
 #### SECCION SEXTA. Del Consejo Técnico
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 23.
 
-El órgano de vigilancia del Instituto del Deporte de Aguascalientes estará integrado por un Comisario Público Propietario y un Suplente, designados por la Contraloría del Estado.
+El órgano de vigilancia del IDEA estará integrado por un Comisario Público Propietario y un Suplente, designados por la Contraloría del Estado.
 
 ###### Artículo 24.
 
@@ -539,23 +657,33 @@ I. Vigilar el cumplimiento de las disposiciones legales, así como de las reglam
 
 II. Vigilar el cumplimiento de las disposiciones y lineamientos relativos al sistema de control y evaluación gubernamental;
 
-III. Vigilar la instrumentación y funcionamiento de los sistemas de programación y presupuesto del Instituto del Deporte de Aguascalientes;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-IV. Vigilar que el Instituto del Deporte de Aguascalientes conduzca sus actividades conforme al programa sectorial correspondiente, así como que cumpla con lo previsto en el programa Institucional;
+III. Vigilar la instrumentación y funcionamiento de los sistemas de programación y presupuesto del IDEA;
 
-V. Promover y vigilar que el Instituto del Deporte de Aguascalientes establezca indicadores básicos de gestión en materia de operación, productividad, financieros y de impacto social, que permitan medir y evaluar su desempeño;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-VI. Con base en las auto-evaluaciones del Instituto del Deporte de Aguascalientes, opinar sobre su desempeño general;
+IV. Vigilar que el IDEA conduzca sus actividades conforme al programa sectorial correspondiente, así como que cumpla con lo previsto en el programa Institucional;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+V. Promover y vigilar que el IDEA establezca indicadores básicos de gestión en materia de operación, productividad, financieros y de impacto social, que permitan medir y evaluar su desempeño;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+VI. Con base en las auto-evaluaciones del IDEA, opinar sobre su desempeño general;
 
 VII. La opinión a que se refiere el párrafo anterior deberá abarcar los aspectos que establece la Ley Orgánica de la Administración Pública del Estado de Aguascalientes;
 
-VIII. Evaluar aspectos específicos del Instituto del Deporte de Aguascalientes y hacer las recomendaciones procedentes;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+VIII. Evaluar aspectos específicos del IDEA y hacer las recomendaciones procedentes;
 
 IX. Verificar la debida integración y funcionamiento de la Junta Directiva;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-X. Vigilar que el Instituto del Deporte de Aguascalientes, con la oportunidad y periodicidad que señale, proporcione la información que requiera el Órgano Superior de Fiscalización del H. Congreso del Estado, y la que le indiquen aquellas dependencias que deban por mandato de Ley conocer dicha información;
+X. Vigilar que el IDEA, con la oportunidad y periodicidad que señale, proporcione la información que requiera el Órgano Superior de Fiscalización del H. Congreso del Estado, y la que le indiquen aquellas dependencias que deban por mandato de Ley conocer dicha información;
 
 XI. Solicitar y verificar que se incluyan en el orden del día de las sesiones de la Junta Directiva, los asuntos que consideren necesarios;
 
@@ -565,9 +693,13 @@ XIII. Proporcionar al Director General la información que le solicite;
 
 XIV. Opinar sobre los informes de evaluación de la gestión que por lo menos dos veces al año rinda el Director General a la Junta Directiva;
 
-XV. Rendir informes a la Junta Directiva sobre las actividades del Instituto del Deporte de Aguascalientes, precisando los aspectos preventivos y correctivos;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-XVI. Evaluar el desempeño general y por funciones del Instituto del Deporte de Aguascalientes;
+XV. Rendir informes a la Junta Directiva sobre las actividades del IDEA, precisando los aspectos preventivos y correctivos;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+XVI. Evaluar el desempeño general y por funciones del IDEA;
 
 XVII. Realizar estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos;
 
@@ -575,7 +707,9 @@ XVIII. Solicitar a la Junta Directiva o al Director General la información que 
 
 XIX. Rendir anualmente a la Junta Directiva un informe sobre los estados financieros, con base en el dictamen de los auditores externos; y
 
-XX. Las demás inherentes a su función y las que le señale expresamente la Contraloría General del Estado y Secretaría de Gestión e Innovación, en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+XX. Las demás inherentes a su función y las que le señale expresamente Secretaría de Fiscalización y Rendición de Cuentas y Oficialía Mayor, en el ámbito de su competencia.
 
 ###### Artículo 25.
 
@@ -583,9 +717,11 @@ La actuación del Comisario Público se ajustará en todo caso a lo dispuesto po
 
 #### SECCION PRIMERA. Del Registro de las Asociaciones y Sociedades Deportivas Estatales
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 26.
 
-El órgano de control interno del Instituto del Deporte de Aguascalientes está a cargo de un Contralor Interno, designado por el Director General.
+El órgano de control interno del IDEA está a cargo de un Contralor Interno, designado por el Director General.
 
 ###### Artículo 27.
 
@@ -595,31 +731,33 @@ El Contralor Interno, podrá asistir a las sesiones ordinarias y extraordinarias
 
 Para la atención de los asuntos y la substanciación de los procedimientos a su cargo, el Contralor Interno, se auxiliará del personal adscrito al propio órgano de control interno.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 29.
 
-El Contralor Interno del Instituto del Deporte de Aguascalientes, tendrá las siguientes atribuciones:
+El Contralor Interno del IDEA, tendrá las siguientes atribuciones:
 
-I. Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos adscritos al Instituto del Deporte de Aguascalientes y darles seguimiento; investigar y fincar las responsabilidades a que hubiere lugar e imponer las sanciones aplicables en los términos de Ley, con excepción de las que deba conocer la Contraloría General del Estado;
+I. Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos adscritos al IDEA y darles seguimiento; investigar y fincar las responsabilidades a que hubiere lugar e imponer las sanciones aplicables en los términos de Ley, con excepción de las que deba conocer la Secretaría de Fiscalización y Rendición de Cuentas;
 
-II. Realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando al titular de la Contraloría General del Estado, así como expedir las certificaciones de los documentos que obran en los archivos del órgano de control interno del Instituto del Deporte de Aguascalientes;
+II. Realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando al titular de la Secretaría de Fiscalización y Rendición de Cuentas, así como expedir las certificaciones de los documentos que obran en los archivos del órgano de control interno del IDEA;
 
-III. Implementar el sistema integral de control gubernamental y coadyuvar a su debido funcionamiento, proponer las normas y lineamientos que al efecto se requieran y vigilar el cumplimiento de las normas de control que expida la Contraloría General del Estado, así como aquellas que regulan el funcionamiento del Instituto del Deporte de Aguascalientes;
+III. Implementar el sistema integral de control gubernamental y coadyuvar a su debido funcionamiento, proponer las normas y lineamientos que al efecto se requieran y vigilar el cumplimiento de las normas de control que expida la Secretaría de Fiscalización y Rendición de Cuentas, así como aquellas que regulan el funcionamiento del IDEA;
 
-IV. Programar y realizar auditorías, inspecciones o visitas de cualquier tipo dentro del Instituto del Deporte de Aguascalientes y a las Asociaciones Deportivas que reciban recursos públicos para financiar sus actividades;
+IV. Programar y realizar auditorías, inspecciones o visitas de cualquier tipo dentro del IDEA y a las Asociaciones Deportivas que reciban recursos públicos para financiar sus actividades;
 
-V. Informar periódicamente a la Contraloría General del Estado, sobre el resultado de las acciones de control que hayan realizado y proporcionar a ésta la ayuda necesaria para el adecuado ejercicio de sus atribuciones;
+V. Informar periódicamente a la Secretaría de Fiscalización y Rendición de Cuentas, sobre el resultado de las acciones de control que hayan realizado y proporcionar a ésta la ayuda necesaria para el adecuado ejercicio de sus atribuciones;
 
-VI. Coordinar la formulación de los anteproyectos de programas y presupuesto del órgano de control interno del Instituto del Deporte de Aguascalientes y proponer las adecuaciones que requiera el correcto ejercicio del presupuesto;
+VI. Coordinar la formulación de los anteproyectos de programas y presupuesto del órgano de control interno del IDEA y proponer las adecuaciones que requiera el correcto ejercicio del presupuesto;
 
-VII. Denunciar ante las autoridades competentes los hechos de que tenga conocimiento y puedan ser constitutivos de delitos e instar al área jurídica del Instituto del Deporte de Aguascalientes a formular cuando así se requiera, las querellas a que hubiere lugar;
+VII. Denunciar ante las autoridades competentes los hechos de que tenga conocimiento y puedan ser constitutivos de delitos e instar al área jurídica del IDEA a formular cuando así se requiera, las querellas a que hubiere lugar;
 
-VIII. Requerir a las unidades administrativas del Instituto del Deporte de Aguascalientes, y a quienes reciban recursos del Instituto del Deporte de Aguascalientes, la información necesaria para cumplir con sus atribuciones, y brindar la asesoría que les requieran en el ámbito de sus competencias;
+VIII. Requerir a las unidades administrativas del IDEA, y a quienes reciban recursos del IDEA, la información necesaria para cumplir con sus atribuciones, y brindar la asesoría que les requieran en el ámbito de sus competencias;
 
-IX. Instrumentar los sistemas de control establecidos por la Dirección General del Instituto del Deporte de Aguascalientes para alcanzar las metas u objetivos propuestos;
+IX. Instrumentar los sistemas de control establecidos por la Dirección General del IDEA para alcanzar las metas u objetivos propuestos;
 
-X. Apoyar la función directiva y promover el mejoramiento de gestión del Instituto del Deporte de Aguascalientes;
+X. Apoyar la función directiva y promover el mejoramiento de gestión del IDEA;
 
-XI. Desarrollar sus funciones conforme a los lineamientos que emita la Contraloría General del Estado;
+XI. Desarrollar sus funciones conforme a los lineamientos que emita la Secretaría de Fiscalización y Rendición de Cuentas;
 
 XII. Realizar sus actividades de acuerdo a las reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía;
 
@@ -629,19 +767,21 @@ XIV. Realizar la defensa jurídica de los actos y resoluciones que emita el prop
 
 XV. Examinar y evaluar los sistemas, mecanismos y procedimientos de control; efectuar revisiones y auditorías, vigilando que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; y
 
-XVI. Las demás que les atribuya expresamente el titular de la Contraloría General del Estado y aquellas que les confieran otros ordenamientos aplicables.
+XVI. Las demás que les atribuya expresamente el titular de la Secretaría de Fiscalización y Rendición de Cuentas y aquellas que les confieran otros ordenamientos aplicables.
 
 #### SECCION SEGUNDA. De las Asociaciones Deportivas Estatales
 
 ###### Artículo 30.
 
-El Instituto del Deporte del Estado de Aguascalientes, se auxiliará de un Consejo Técnico del Deporte, encargado de resolver sobre las solicitudes de apoyos y estímulos extraordinarios que no se encuentren contemplados en esta Ley, y que realicen personas físicas o morales, asociaciones y sociedades deportivas.
+El IDEA, se auxiliará de un Consejo Técnico del Deporte, encargado de resolver sobre las solicitudes de apoyos y estímulos extraordinarios que no se encuentren contemplados en esta Ley, y que realicen personas físicas o morales, asociaciones y sociedades deportivas.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 31.
 
 El Consejo Técnico del Deporte se integrará de la siguiente manera:
 
-I. El Director del Instituto del Deporte de Aguascalientes;
+I. El Director del IDEA;
 
 II. El Director de Deporte del IDEA;
 
@@ -657,21 +797,37 @@ I. Resolver sobre las solicitudes que realicen personas físicas y morales, en m
 
 II. Determinar los casos que deba conocer el área encargada del arbitraje en materia deportiva; y
 
-III. Las demás que le señale la Junta Directiva y el Instituto del Deporte del Estado de Aguascalientes por conducto de su Director General.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-### CAPITULO QUINTO. De las Bases de Coordinación, Colaboración y Concertación
+III. Las demás que le señale la Junta Directiva y el IDEA por conducto de su Director General.
 
-###### Artículo 37.
-
-La Administración Pública Estatal, a través del Instituto del Deporte del Estado de Aguascalientes, ejercerá las competencias que le son atribuidas por esta Ley, para ello, se coordinará con los municipios y, en su caso, concertará acciones con el sector social y privado que puedan afectar directa y manifiestamente los intereses generales de la cultura física y deporte en el ámbito estatal.
+### CAPÍTULO QUINTO. De la Concurrencia, Coordinación, Colaboración y Concertación
 
 ###### Artículo 33.
 
-Cada Municipio podrá contar, de conformidad con sus ordenamientos, con un órgano que en coordinación y colaboración con el Instituto del Deporte del Estado de Aguascalientes promueva, estimule y fomente el desarrollo de la cultura física y deporte, estableciendo para ello, sistemas de cultura física y deporte en sus respectivos ámbitos de competencia.
+Cada Municipio podrá contar, de conformidad con sus ordenamientos, con un órgano que en coordinación y colaboración con el IDEA promueva, estimule y fomente el derecho a la práctica de la cultura física y deporte, estableciendo para ello, sistemas de cultura física y deporte en sus respectivos ámbitos de competencia.
 
 Los Sistemas Municipales de Cultura Física y Deporte serán los encargados de promover, estimular y fomentar el desarrollo de la cultura física y deporte en los municipios, haciéndose los ajustes necesarios en la legislación municipal para su operación.
 
 Los Sistemas Municipales de Cultura Física y Deporte, se integrarán por las autoridades municipales, organismos e instituciones públicas y privadas, sociedades y asociaciones que en el ámbito de su competencia tengan como objeto, generar las acciones, financiamientos y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la cultura física y deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+Artículo 33 bis.- Los Municipios, en el ámbito de sus respectivas competencias y de conformidad con lo dispuesto en esta Ley y su Reglamento en la materia, tendrán las siguientes atribuciones:
+
+I. Proponer, coordinar y evaluar la política de cultura física y deporte municipal;
+
+II. Diseñar y aplicar los instrumentos y programas Municipales en cultura física y deporte, acorde con los programas nacionales y estatales;
+
+III. Diseñar, aplicar y evaluar el programa municipal de cultura física y deporte;
+
+IV. Coordinarse con el IDEA y con otros Municipios para la promoción, fomento y desarrollo de la cultura física y deporte;
+
+V. Integrar el Sistema Municipal de Cultura Física y Deporte para promover y fomentar el desarrollo de la activación física, la cultura física y el deporte;
+
+VI. Promover la participación de los sectores social y privado para el desarrollo de la activación física, la cultura física y el deporte; y
+
+VII. Las demás que señale esta Ley, su Reglamento y ordenamientos aplicables.
 
 ###### Artículo 34.
 
@@ -689,19 +845,39 @@ Los órganos responsables en los municipios de la cultura física y deporte, se 
 
 Los Sistemas Municipales coordinarán sus actividades para aplicar las políticas, planes y programas que en materia de cultura física y deporte se adopten por el SIEDE, cumpliendo con los siguientes objetivos:
 
-I. Identificar las necesidades públicas municipales en materia de deporte y recreación y crear los medios para satisfacerlas;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+I. Identificar las necesidades públicas municipales en materia (sic) activación física, recreación, cultura física y deporte, desarrollando los medios para satisfacerlas;
 
 II. Otorgar estimulas fiscales para el desarrollo y fomento del deporte;
 
 III. Promover la creación y apoyar a los organismos locales que desarrollen actividades deportivas en coordinación con el IDEA;
 
-IV. Organizar y coordinar las actividades deportivas en los fraccionamientos, colonias, barrios, zonas y centros de población a través de las asociaciones y juntas de vecinos, con el fin de fomentar y desarrollar el deporte;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+IV. Organizar y coordinar las actividades deportivas en los fraccionamientos, colonias, barrios, zonas y centros de población a través de las Asociaciones y juntas de vecinos, con el fin de fomentar y desarrollar la activación física, la cultura física y el deporte;
 
 V. Asignar los recursos necesarios para el logro de los fines anteriormente señalados;
 
 VI. Vigilar el cumplimiento de las normas de seguridad aplicables para las personas que presten servicio de guía e instrucción en deportes extremos o de aventura; y
 
-VII. Las demás que le otorgue esta Ley u otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+VII. Promover las medidas necesarias para erradicar la violencia y reducir los riesgos en la práctica de actividades físicas, recreativas o deportivas; y
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+VIII. Las demás que le otorgue esta Ley u otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+El IDEA y los Órganos Municipales de Cultura Física y Deporte publicarán su presupuesto, programas determinados y sistemas de evaluación, en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+Artículo 37 La Administración Pública Estatal, a través del IDEA, ejercerá las competencias que le son atribuidas por esta Ley, para ello, se coordinará con los municipios y, en su caso, concertará acciones con el sector social y privado que puedan afectar directa y manifiestamente los intereses generales de la cultura física y deporte en el ámbito estatal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ### CAPITULO SEXTO. De la Comisión Estatal de Apelación y Arbitraje del Deporte
 
@@ -717,13 +893,23 @@ III. Ejecutar y dar seguimiento al Programa Estatal de Cultura Física y Deporte
 
 IV. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para la cultura física y deporte, en coordinación con las respectivas asociaciones deportivas estatales y de acuerdo a las Normas Oficiales que para tal efecto expida la dependencia correspondiente;
 
-V. Dar seguimiento y ejecutar las políticas y planes aprobados por el SIEDE; y
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-VI. Establecer procedimientos de promoción en materia de cultura física y deporte.
+V. Dar seguimiento y ejecutar las políticas y planes aprobados por el SIEDE;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+VI. Establecer procedimientos de promoción en materia de cultura física y deporte; y
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+VII. Formular y ejecutar políticas públicas, que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 39.
 
-La coordinación a que se refiere el artículo anterior, se realizará a través de convenios de coordinación, colaboración y concertación que celebren el Instituto del Deporte del Estado de Aguascalientes y autoridades competentes de los municipios entre sí, o con instituciones del sector social y privado, de conformidad con los procedimientos y requisitos que estén determinados en el reglamento de la presente Ley.
+La coordinación a que se refiere el artículo anterior, se realizará conforme a las facultades concurrentes en los tres ámbitos de gobierno, a través de convenios de coordinación, colaboración y concertación que celebren las autoridades competentes del Estado con la Federación y los Municipios entre sí o con instituciones del sector social y privado, de conformidad con los procedimientos y requisitos que estén determinados en el Reglamento de la presente Ley.
 
 ### CAPITULO SEPTIMO. De los Sectores Social y Privado
 
@@ -735,7 +921,9 @@ La CEAAD es un órgano cuyo objeto es mediar o fungir como árbitros en las cont
 
 La CEAAD, tendrá las siguientes atribuciones:
 
-I. Conocer y resolver mediante el recurso de apelación, sobre las impugnaciones planteadas por cualesquiera de los miembros del SIEDE, en contra de actos, omisiones, decisiones, acuerdos o resoluciones emitidos por las autoridades, y organismos deportivos, que afecten los derechos, prerrogativas o estímulos establecidos a favor del recurrente en la presente Ley o en los reglamentos que de ella emanen;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+I. Conocer y resolver mediante el recurso de apelación, sobre las impugnaciones planteadas por cualesquiera de los miembros del SIEDE, en contra de actos, omisiones, decisiones, acuerdos o resoluciones emitidos por las autoridades, y organismos deportivos, que afecten los derechos, prerrogativas o estímulos establecidos a favor del recurrente en la presente Ley o en los reglamentos que de ella emanen; este medio de impugnación será optativo a elección del recurrente.
 
 II. El impugnante podrá optar en agotar el medio de defensa que corresponda o interponer directamente el recurso de apelación;
 
@@ -779,23 +967,31 @@ El titular del Poder Ejecutivo del Estado expedirá las normas reglamentarias ne
 
 #### SECCION TERCERA. De Otras Asociaciones y Sociedades
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 46.
 
-El Instituto del Deporte del Estado de Aguascalientes, contará con un registro público de asociaciones y sociedades deportivas, en el que se consignará, el nombre o razón social de la asociación o sociedad de que se trate, disciplina deportiva que promueve, nombre de quienes la integran, así como toda la información que establezca la normatividad que sobre el registro establezca el IDEA.
+El IDEA, contará con un registro público de asociaciones y sociedades deportivas, que en coordinación a los lineamientos establecidos por el RENADE, en el que se consignará, el nombre o razón social de la asociación o sociedad de que se trate, disciplina deportiva que promueve, nombre de quienes la integran, así como toda la información que establezca la normatividad que sobre el registro establezca el IDEA.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 47.
 
-Serán registradas por el Instituto del Deporte del Estado de Aguascalientes como asociaciones deportivas, las personas morales, cualquiera que sea su estructura, denominación y naturaleza jurídica, que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo del deporte sin fines preponderantemente económicos.
+Serán registradas por el IDEA como asociaciones deportivas, las personas morales, cualquiera que sea su estructura, denominación y naturaleza jurídica, que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo del deporte sin fines preponderantemente económicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 48.
 
-El Instituto del Deporte del Estado de Aguascalientes, reconocerá y estimulará las acciones de organización y promoción desarrolladas por las asociaciones y sociedades deportivas, a fin de asegurar el acceso de la población a la práctica de la cultura física y deporte.
+El IDEA, reconocerá y estimulará las acciones de organización y promoción desarrolladas por las asociaciones y sociedades deportivas, a fin de asegurar el acceso de la población a la práctica de la cultura física y deporte.
 
 En el ejercicio de sus respectivas funciones en materia de cultura física y deporte, el sector público, social y privado se sujetará en todo momento en los principios de colaboración responsable entre todos los interesados.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 49.
 
-Serán registradas por el Instituto del Deporte del Estado de Aguascalientes como sociedades deportivas las personas morales, cualquiera que sea su naturaleza jurídica, estructura o denominación, que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo del deporte con fines preponderantemente económicos.
+Serán registradas por el IDEA como sociedades deportivas las personas morales, cualquiera que sea su naturaleza jurídica, estructura o denominación, que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo del deporte con fines preponderantemente económicos.
 
 ###### Artículo 50.
 
@@ -809,13 +1005,19 @@ III. Asociaciones Estatales.
 
 Para los fines y propósitos de la presente Ley, se reconoce la participación de los CONDE dentro de la fracción III del presente artículo, para incrementar la práctica deportiva de los estudiantes y elevar su nivel de rendimiento físico.
 
-Los CONDE son Asociaciones Civiles, constituidas por Universidades Públicas o Privadas, Tecnológicos y Normales del país, y cualquier institución educativa pública o privada de educación básica, media o superior que tienen por objeto coordinar, de acuerdo con las autoridades educativas competentes los programas emanados del Instituto del Deporte del Estado de Aguascalientes, entre la comunidad estudiantil de sus respectivos niveles, a las cuales se les reconoce el carácter de asociaciones deportivas.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
-La presente Ley y para los efectos de este artículo, se (sic) reconoce al deporte en todas sus modalidades y categorías, incluyendo al desarrollado por el sector estudiantil, al deporte para personas con capacidades diferentes y al deporte para personas adultas mayores en plenitud.
+Los CONDE son Asociaciones Civiles, constituidas por Universidades Públicas o Privadas, Tecnológicos y Normales del país, y cualquier institución educativa pública o privada de educación básica, media o superior que tienen por objeto coordinar, de acuerdo con las autoridades educativas competentes los programas emanados del IDEA, entre la comunidad estudiantil de sus respectivos niveles, a las cuales se les reconoce el carácter de asociaciones deportivas.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+La presente Ley y para los efectos de este artículo, se reconoce al deporte en todas sus modalidades y categorías, incluyendo al desarrollado por el sector estudiantil, al deporte para personas con capacidades diferentes y al deporte para personas adultas mayores en plenitud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 51.
 
-Para efecto de que el Instituto del Deporte del Estado de Aguascalientes otorgue el registro correspondiente como asociaciones o sociedades deportivas, éstas deberán cumplir además de los requisitos establecidos en otros apartados de la presente Ley, los siguientes:
+Para efecto de que el IDEA otorgue el registro correspondiente como asociaciones o sociedades deportivas, éstas deberán cumplir además de los requisitos establecidos en otros apartados de la presente Ley, los siguientes:
 
 I. Solicitud por escrito, bajo protesta de decir verdad, manifestando su intención de ser registrados como asociación o sociedad deportiva, debidamente firmada por el representante legal, señalando además nombre o razón social, disciplina deportiva que practica y fecha de inicio de actividades;
 
@@ -841,7 +1043,9 @@ Las asociaciones y sociedades deportivas deberán observar y respetar los lineam
 
 La presente Ley reconoce a las asociaciones deportivas estatales, por lo que, todo lo previsto en esta Ley para las asociaciones deportivas, les será aplicable.
 
-Las Asociaciones Deportivas Estatales, regularán su estructura interna y funcionamiento a través de sus estatutos sociales, de acuerdo con los principios de democracia y representatividad.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+Las Asociaciones Deportivas Estatales, regularán su estructura interna y funcionamiento a través de sus estatutos sociales, de acuerdo a la presente Ley y su Reglamento, a los principios de democracia y representatividad, equidad, legalidad. Transparencia y rendición de cuentas.
 
 ###### Artículo 55.
 
@@ -854,6 +1058,22 @@ I. Calificar y organizar en su caso, las actividades y competiciones deportivas 
 II. Actuar en coordinación con sus asociados en la promoción general de su disciplina deportiva en todo el territorio estatal; y
 
 III. Colaborar con la administración estatal y de los municipios en la formación de técnicos, entrenadores e instructores deportivos, así como en la prevención, control y sanción del uso de sustancias y grupos farmacológicos prohibidos y métodos no reglamentarios en el deporte.
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+IV. Colaborar con la Administración Pública Estatal y de los Municipios, en el control, disminución y prevención de la delincuencia y de las enfermedades que provoca la obesidad;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+V. Colaborar con la Administración Pública Estatal y de los Municipios, en la prevención de la violencia en el deporte y eventos o espectáculos públicos o privados en materia de activación física, cultura física y deporte;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+VI. Actuar como el organismo rector de su disciplina deportiva, en todas sus categorías especialidades y modalidades; y
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+VII. Representar oficialmente al Estado ante sus respectivas federaciones, y ejercer la potestad disciplinaria, en los términos establecidos en la presente Ley, su Reglamento y demás ordenamientos aplicables.
 
 ###### Artículo 56.
 
@@ -881,55 +1101,115 @@ VI. Contar con la afiliación a una asociación deportiva nacional reconocida po
 
 VII. Estar reconocida conforme a la presente Ley; y
 
-VIII. Constancia de afiliación o asociación al Instituto del Deporte del Estado de Aguascalientes y a la CODEME.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-Quedarán exentos del cumplimiento de lo dispuesto por la fracción V de este artículo, las Asociaciones Estatales de Charrería y Juegos y Deportes Autóctonos.
+VIII.- Contemplar en sus estatutos, además de lo señalado en el Código Civil vigente en el Estado de Aguascalientes, lo siguiente:
+
+a) Órganos de dirección, de administración, de auditoria, de evaluación de resultados y de justicia deportiva, así como sus respectivas atribuciones, sin perjuicio de las demás que se establezcan en la presente Ley y su Reglamento;
+
+b) Tipo y número de asambleas que se realizarán durante el año, indicando las materias que en ellas podrán tratarse, y el quórum para sesionar;
+
+c) Procedimiento y quórum para reforma de estatutos y adopción de acuerdos;
+
+d) El reconocimiento de las facultades del IDEA por conducto de la COEVED, establecidas en la presente Ley y su Reglamento en materia de vigilancia de los procesos electorales de los órganos de gobierno y representación de las Asociaciones Deportivas Estatales, en atención a sus funciones que como agentes colaboradores del Gobierno del Estado le son delegadas;
+
+e) Normas sobre administración patrimonial y forma de fijar cuotas de los asociados;
+
+f) Mecanismos de apoyo para sus deportistas afiliados, dirigidos a todos aquellos trámites que se requieran para su participación en competiciones estatales y nacionales; y
+
+g) El reconocimiento de la facultad del IDEA de fiscalizar la correcta aplicación y ejercicio de los recursos públicos, así como evaluar los resultados de los programas operados con los mencionados recursos.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+Quedarán exentos del cumplimiento de lo dispuesto por la fracción VI de este Artículo, las Asociaciones Estatales de Charrería y Juegos y Deportes Autóctonos.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 59.
 
-Las Asociaciones Deportivas Estatales, para ser sujetos de los apoyos y estímulos que en su caso acuerde el Ejecutivo Estatal, deberán estar registradas como tales por el Instituto del Deporte del Estado de Aguascalientes, cumplir con lo previsto en la presente Ley, el Programa Estatal de Cultura Física y Deporte, con las obligaciones que se les imponga como integrantes del SIEDE, las derivadas del Estatuto de la CODEME y demás disposiciones aplicables en materia presupuestaria, incluyendo el de Presupuesto de Egresos del Estado.
+Las Asociaciones Deportivas Estatales, para ser sujetos de los apoyos y estímulos que en su caso acuerde el Ejecutivo Estatal, deberán estar registradas como tales por el IDEA, cumplir con lo previsto en la presente Ley, el Programa Estatal de Cultura Física y Deporte, con las obligaciones que se les imponga como integrantes del SIEDE y demás disposiciones aplicables en materia presupuestaria, incluyendo el de Presupuesto de Egresos del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 60.
 
-Las Asociaciones Deportivas Estatales serán las únicas facultadas para convocar a competiciones realizadas bajo la denominación de "Campeonato Estatal" con estricto apego a los estatutos y reglamentos aplicables, y de acuerdo a los criterios que fije el Instituto del Deporte del Estado de Aguascalientes.
+Las Asociaciones Deportivas Estatales serán las únicas facultadas para convocar a competiciones realizadas bajo la denominación de "Campeonato Estatal" con estricto apego a los estatutos y reglamentos aplicables, y de acuerdo a los criterios que fije el IDEA.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 61.
 
-Para la realización de competiciones deportivas oficiales nacionales dentro del territorio estatal, las asociaciones deportivas estatales, tienen la obligación de registrarlas ante el Instituto del Deporte del Estado de Aguascalientes, respetando en todo momento el procedimiento y requisitos que para tal efecto prevea el reglamento de la presente Ley, asimismo, deberá cumplir y apegarse a lo dispuesto por los lineamientos expedidos en la presente Ley.
+Para la realización de competiciones deportivas oficiales nacionales dentro del territorio estatal, las asociaciones deportivas estatales, tienen la obligación de registrarlas ante el IDEA, respetando en todo momento el procedimiento y requisitos que para tal efecto prevea el reglamento de la presente Ley, asimismo, deberá cumplir y apegarse a lo dispuesto por los lineamientos expedidos en la presente Ley.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 62.
 
-Con el fin de garantizar el cumplimiento efectivo de las funciones que como colaboradoras de la administración pública estatal les son delegadas a las asociaciones deportivas estatales en términos de la presente Ley, el Instituto del Deporte del Estado de Aguascalientes, con absoluto y estricto respeto a los principios de auto organización que resultan compatibles con la vigilancia y protección de los intereses públicos, podrá llevar a cabo acciones de supervisión, evaluación y vigilancia de los recursos públicos.
+Con el fin de garantizar el cumplimiento efectivo de las funciones que como colaboradoras de la administración pública estatal les son delegadas a las asociaciones deportivas estatales en términos de la presente Ley, el IDEA, con absoluto y estricto respeto a los principios de auto organización que resultan compatibles con la vigilancia y protección de los intereses públicos, podrá llevar a cabo acciones de fiscalización, supervisión, evaluación y vigilancia de los recursos públicos.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+Artículo 62 bis.- Los procesos electorales de los órganos de gobierno y representación de las Asociaciones Deportivas Estatales serán vigilados por el IDEA a través del COEVED.
+
+El COEVED estará adscrito orgánicamente al IDEA y velará de forma inmediata por el ajuste a Derecho de los procesos electorales en los órganos de gobierno y representación de las Asociaciones Deportivas Estatales, vigilando que se cumplan con los principios de legalidad, transparencia, equidad e igualdad de oportunidades dentro del marco de los principios democráticos y representativos y con estricto apego de las disposiciones estatutarias y legales aplicables.
+
+En caso de que exista alguna controversia en cualquiera de las fases de los procesos de elección de los órganos de gobierno y representación de las Asociaciones Deportivas Estatales, el COEVED deberá resolver sobre el particular, de acuerdo con el procedimiento establecido en el Reglamento de esta Ley y los demás ordenamientos aplicables, garantizando el derecho de audiencia de los interesados.
+
+Las resoluciones definitivas dictadas por el COEVED en relación con la solución de las controversias a que se refiere el párrafo anterior podrán ser impugnadas mediante el recurso de apelación ante la CAAD.
+
+El COEVED, terminado el proceso electoral respectivo, expedirá la constancia que corresponda.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+Artículo 62 ter.- El COEVED se integrará por un Consejero Presidente y dos Consejeros Titulares con sus respectivos suplentes designados por la Junta Directiva del IDEA.
+
+La designación deberá recaer en personas con profesión de Licenciado en Derecho, conocimiento en el ámbito deportivo, así como reconocido prestigio y calidad moral.
+
+El Consejero Presidente y los Consejeros Titulares durarán cuatro años en su encargo pudiendo ser ratificados por un periodo más.
+
+El funcionamiento, integración y operación del COEVED estarán regulados en términos de lo dispuesto en la presente Ley, su Reglamento y demás ordenamientos aplicables.
 
 ###### Artículo 63.
 
-Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo de la activación física y la recreación deportiva, serán registradas por el Instituto del Deporte del Estado de Aguascalientes como Asociaciones Recreativo-Deportivas, cuando no persigan fines preponderantemente económicos o como sociedades recreativo-deportivas cuando su actividad se realice con fines de lucro.
+Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo de la activación física y la recreación deportiva, serán registradas por el IDEA como Asociaciones Recreativo-Deportivas, cuando no persigan fines preponderantemente económicos o como sociedades recreativo-deportivas cuando su actividad se realice con fines de lucro.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 64.
 
-Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objeto social desarrollen, promuevan o contribuyan a la rehabilitación en el campo de la cultura física-deportiva y deporte, serán registradas por el Instituto del Deporte del Estado de Aguascalientes como asociaciones de deporte en la rehabilitación, cuando no persigan fines preponderantemente económicos o como sociedades de deporte en la rehabilitación cuando su actividad se realice con fines de lucro.
+Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objeto social desarrollen, promuevan o contribuyan a la rehabilitación en el campo de la cultura física-deportiva y deporte, serán registradas por el IDEA como asociaciones de deporte en la rehabilitación, cuando no persigan fines preponderantemente económicos o como sociedades de deporte en la rehabilitación cuando su actividad se realice con fines de lucro.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 65.
 
-Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objeto social promuevan o contribuyan a la investigación, estudio, análisis, enseñanza, difusión y fomento de la cultura física y deporte en el Estado, serán registradas por el Instituto del Deporte del Estado de Aguascalientes como asociaciones de cultura física-deportiva, cuando no persigan fines preponderantemente económicos o como sociedades de cultura física-deportiva, cuando su actividad se realice con fines de lucro.
+Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objeto social promuevan o contribuyan a la investigación, estudio, análisis, enseñanza, difusión y fomento de la cultura física y deporte en el Estado, serán registradas por el IDEA como asociaciones de cultura física-deportiva, cuando no persigan fines preponderantemente económicos o como sociedades de cultura física-deportiva, cuando su actividad se realice con fines de lucro.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 66.
 
-Para efecto de que el Instituto del Deporte del Estado de Aguascalientes otorgue el registro correspondiente como asociaciones o sociedades éstas deberán cumplir con el trámite previsto por el reglamento de esta Ley.
+Para efecto de que el IDEA otorgue el registro correspondiente como asociaciones o sociedades éstas deberán cumplir con el trámite previsto por el reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 67.
 
-En el caso de que desaparecieran las condiciones o motivaciones que dieron lugar al registro de una asociación o sociedad de las reconocidas por esta Ley, o que el Instituto del Deporte del Estado de Aguascalientes estime que existe incumplimiento de los objetivos para los cuales fue creada, se seguirá el trámite que prevé el reglamento de la presente Ley, para la revocación del registro inicial.
+En el caso de que desaparecieran las condiciones o motivaciones que dieron lugar al registro de una asociación o sociedad de las reconocidas por esta Ley, o que el IDEA estime que existe incumplimiento de los objetivos para los cuales fue creada, se seguirá el trámite que prevé el reglamento de la presente Ley, para la revocación del registro inicial.
 
 ###### Artículo 68.
 
 Cualquier órgano ya sea público o privado que reciba recursos del erario público, deberá de presentar al SIEDE, a más tardar en el mes de julio de cada año fiscal correspondiente, un programa de actividades a desarrollar de enero a diciembre, del siguiente año fiscal, conteniendo el presupuesto correspondiente e indicando los recursos propios y los del Estado que se aplicarán.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 69.
 
-Cualquier órgano ya sea público o privado de los reconocidos en este título que reciba recursos del erario público, deberá presentar un informe semestral sobre la aplicación de los mismos y estarán sujetos a las auditorías financieras y evaluaciones que determine el Instituto del Deporte del Estado de Aguascalientes.
+Cualquier órgano ya sea público o privado de los reconocidos en este título que reciba recursos del erario público, deberá presentar un informe semestral sobre la aplicación de los mismos y estarán sujetos a las auditorías financieras y evaluaciones que determine el IDEA.
 
 ### CAPITULO NOVENO. Del Deporte Social o Masivo
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 70.
 
@@ -943,9 +1223,11 @@ Los deportistas que participen dentro del deporte profesional, se regirán por l
 
 Los deportistas profesionales mexicanos que integren preselecciones y selecciones nacionales, que involucren oficialmente la representación del Estado en competiciones nacionales, gozarán de los mismos derechos e incentivos establecidos dentro de esta Ley, para los deportistas de alto rendimiento.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 73.
 
-El Instituto del Deporte del Estado de Aguascalientes coordinará y promoverá la constitución de Comisiones Estatales de Deporte Profesional por rama deportiva, quienes se integrarán al SIEDE de acuerdo a lo establecido en el reglamento de esta Ley.
+El IDEA coordinará y promoverá la constitución de Comisiones Estatales de Deporte Profesional por rama deportiva, quienes se integrarán al SIEDE de acuerdo a lo establecido en el reglamento de esta Ley.
 
 ###### Artículo 74.
 
@@ -957,11 +1239,13 @@ Para efectos de poder acceder a lo señalado en el párrafo anterior, el SIEDE d
 
 ### CAPITULO DECIMO. Del Deporte Adaptado
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 75.
 
-El Instituto del Deporte del Estado de Aguascalientes, en coordinación con los organismos municipales correspondientes, promoverá programas de activación física y deportiva organizadas, dirigidas a la población abierta, aprovechando de la infraestructura deportiva con que cuenta el Estado.
+El IDEA, en coordinación con los organismos municipales correspondientes, promoverá programas de activación física y deportiva organizadas, dirigidas a la población abierta, aprovechando de la infraestructura deportiva con que cuenta el Estado.
 
-El Instituto del Deporte del Estado de Aguascalientes, en coordinación con el Instituto de Salud de Aguascalientes, procurará contar con servicios médicos multidisciplinarios, calificados para asesorar y atender a la población en materia deportiva.
+El IDEA, en coordinación con la Secretaría de Salud, procurará contar con servicios médicos multidisciplinarios, calificados para asesorar y atender a la población en materia deportiva.
 
 ###### Artículo 76.
 
@@ -977,23 +1261,31 @@ IV. Costo aproximado de su realización.
 
 Una vez recibida la solicitud, el órgano estatal o municipal lo turnará al Consejo Técnico del Deporte, con objeto de ser evaluada su pertinencia y en un plazo no mayor de 15 días resolverá fundando y motivando debidamente, la aceptación o negativa de los apoyos para dicha actividad.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 77.
 
-El Instituto del Deporte del Estado de Aguascalientes destinará como mínimo el 25% de su presupuesto para la realización de actividades sociales masivas.
+El IDEA destinará como mínimo el 25% de su presupuesto para la realización de actividades sociales masivas.
 
 ### CAPITULO DECIMO PRIMERO. De la Activación Física y el Deporte de los Adultos Mayores
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 78.
 
-El Instituto del Deporte del Estado de Aguascalientes, apoyará, promoverá y facilitará la participación de discapacitados en las distintas disciplinas deportivas y procurará contar con personal calificado para brindar la atención que requiere este sector de la población.
+El IDEA, apoyará, promoverá y facilitará la participación de discapacitados en las distintas disciplinas deportivas y procurará contar con personal calificado para brindar la atención que requiere este sector de la población.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 79.
 
-Los clubes, asociaciones o deportistas que practiquen deporte adaptado deberán de registrar sus organizaciones ante el Instituto del Deporte del Estado de Aguascalientes, presentando su programación de actividades anuales del siguiente año, a más tardar en el mes de julio, a fin de ser considerados dentro del programa anual del deporte, así como en el presupuesto de egresos del Instituto correspondiente al año fiscal próximo siguiente.
+Los clubes, asociaciones o deportistas que practiquen deporte adaptado deberán de registrar sus organizaciones ante el IDEA, presentando su programación de actividades anuales del siguiente año, a más tardar en el mes de julio, a fin de ser considerados dentro del programa anual del deporte, así como en el presupuesto de egresos del IDEA correspondiente al año fiscal próximo siguiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 80.
 
-El Instituto del Deporte del Estado de Aguascalientes, contará dentro de sus instalaciones deportivas con las facilidades de acceso, desplazamiento y orientación para discapacitados, asimismo, procurará contar dentro de sus servicios médicos, con personal calificado para la atención de personas con discapacidad.
+El IDEA, contará dentro de sus instalaciones deportivas con las facilidades de acceso, desplazamiento y orientación para discapacitados, asimismo, procurará contar dentro de sus servicios médicos, con personal calificado para la atención de personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
 
@@ -1001,43 +1293,59 @@ Los deportistas discapacitados de alto rendimiento gozarán de los mismos derech
 
 ### CAPITULO DECIMO SEGUNDO. Del Deporte Estudiantil
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 81.
 
-El Instituto del Deporte del Estado de Aguascalientes, apoyará, promoverá y facilitará la participación de los adultos mayores en las distintas disciplinas deportivas.
+El IDEA, apoyará, promoverá y facilitará la participación de los adultos mayores en las distintas disciplinas deportivas.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 82.
 
-Los clubes, asociaciones o deportistas que sean adultos mayores deberán de registrar sus organizaciones ante el Instituto del Deporte del Estado de Aguascalientes, presentando su programación de actividades anuales del siguiente año, a más tardar en el mes de julio, a fin de ser considerados dentro del programa anual del deporte, así como en el presupuesto de egresos del Instituto, correspondiente al año fiscal próximo siguiente.
+Los clubes, asociaciones o deportistas que sean adultos mayores deberán de registrar sus organizaciones ante el IDEA, presentando su programación de actividades anuales del siguiente año, a más tardar en el mes de julio, a fin de ser considerados dentro del programa anual del deporte, así como en el presupuesto de egresos del IDEA, correspondiente al año fiscal próximo siguiente.
 
 ### CAPITULO DECIMO TERCERO. De la Charrería
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 83.
 
-El Instituto del Deporte del Estado de Aguascalientes, coordinadamente con el Instituto de Educación de Aguascalientes, elaborará el programa anual de actividades deportivas escolares.
+El IDEA, coordinadamente con el IEA, elaborará el programa anual de actividades deportivas escolares.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 84.
 
-El Instituto de Educación de Aguascalientes proporcionará al Instituto del Deporte del Estado de Aguascalientes, la información para crear y actualizar el registro de deportistas estudiantiles, con objeto de dar seguimiento a los niños y jóvenes con potencial deportivo.
+El IEA proporcionará al IDEA, la información para crear y actualizar el registro de deportistas estudiantiles, con objeto de dar seguimiento a los niños y jóvenes con potencial deportivo.
 
 ### CAPITULO DECIMO CUARTO. De la Activación Física y el Deporte en las Empresas
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 85.
 
-Se considera a la Charrería como el deporte nacional por excelencia y por ello, el Instituto del Deporte del Estado de Aguascalientes, coadyuvará para su promoción, difusión y práctica.
+Se considera a la Charrería como el deporte nacional por excelencia y por ello, el IDEA, coadyuvará para su promoción, difusión y práctica.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 86.
 
-Los practicantes de la Charrería del Estado adoptarán las formas de organización que a ellos convenga, y deberán de registrar las mismas ante el Instituto del Deporte del Estado de Aguascalientes.
+Los practicantes de la Charrería del Estado adoptarán las formas de organización que a ellos convenga, y deberán de registrar las mismas ante el IDEA.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 87.
 
-Las Asociaciones de Charros debidamente registradas ante el Instituto del Deporte del Estado de Aguascalientes deberán de presentar su programa anual de trabajo del año próximo siguiente, a más tardar en el mes de julio a efectos de ser considerados en el programa anual de actividades deportivas del Estado, así como dentro del presupuesto de egresos del Instituto.
+Las Asociaciones de Charros debidamente registradas ante el IDEA deberán de presentar su programa anual de trabajo del año próximo siguiente, a más tardar en el mes de julio a efectos de ser considerados en el programa anual de actividades deportivas del Estado, así como dentro del presupuesto de egresos del IDEA.
 
 ### CAPITULO DECIMO QUINTO. Deporte Penitencia río
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 88.
 
-El Instituto del Deporte del Estado de Aguascalientes, en coordinación con la Secretaría de Desarrollo Económico y el Instituto de Salud de Aguascalientes promoverán programas de activación física en las empresas establecidas en el Estado de Aguascalientes, procurando que éstas, dediquen por lo menos 20 minutos de la jornada laboral a estas actividades.
+El IDEA, en coordinación con la Secretaría de Desarrollo Económico y el (sic) Secretaría de Salud promoverán programas de activación física en las empresas establecidas en el Estado de Aguascalientes, procurando que éstas, dediquen por lo menos 20 minutos de la jornada laboral a estas actividades.
 
 ### CAPITULO DECIMO SEXTO. De la Certificación y Supervisión de Clínicas y Gimnasios Deportivos
 
@@ -1045,17 +1353,21 @@ El Instituto del Deporte del Estado de Aguascalientes, en coordinación con la S
 
 ###### Artículo 89.
 
-Como parte de la rehabilitación de los internos de los centros penitenciarios del Estado, el Instituto del Deporte del Estado de Aguascalientes, propondrá los programas a desarrollar y facilitará la asesoría en materia de capacitación a instructores deportivos.
+Como parte de la rehabilitación de los internos de los centros penitenciarios del Estado, el IDEA, propondrá los programas a desarrollar y facilitará la asesoría en materia de capacitación a instructores deportivos.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 90.
 
-El Instituto del Deporte del Estado de Aguascalientes en coordinación con la Secretaría de Seguridad Pública del Estado, realizarán actividades tendientes a procurar la activación física y el deporte dentro de las instalaciones de los centros penitenciarios.
+El IDEA en coordinación con la Secretaría de Seguridad Pública del Estado, realizarán actividades tendientes a procurar la activación física y el deporte dentro de las instalaciones de los centros penitenciarios.
 
 ### CAPITULO DECIMO SEPTIMO. De la Cultura Taurina
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 91.
 
-lndependientemente de los requisitos que establezcan los Municipios, el Estado y otras dependencias correspondientes a la apertura de clínicas y gimnasios deportivos, el IDEA, supervisará que los entrenadores deportivos que fomentan el desarrollo de la cultura física y el deporte en todas sus manifestaciones, cuenten con los conocimientos necesarios y estén debidamente certificados.
+Independientemente de los requisitos que establezcan los Municipios, el Estado y otras dependencias correspondientes a la apertura de clínicas y gimnasios deportivos, el IDEA, supervisará que los entrenadores deportivos que fomentan el desarrollo de la cultura física y el deporte en todas sus manifestaciones, cuenten con los conocimientos necesarios y estén debidamente certificados.
 
 El IDEA tendrá a su cargo la operación y administración del Programa de Formación y Capacitación para el Desarrollo del Deporte, cuyo objeto será coadyuvar en la formación, capacitación, actualización y certificación de entrenadores deportivos para la enseñanza y práctica del deporte en términos de los lineamientos que para el efecto emita la CONADE. Asimismo, el IDEA deberá evaluar, por lo menos una vez al año, a los entrenadores deportivos.
 
@@ -1065,7 +1377,7 @@ Para tal efecto, el IDEA impartirá y validará cursos, talleres, diplomados, co
 
 ###### Artículo 92.
 
-El Instituto del Deporte del Estado de Aguascalientes, apoyará las actividades en materia de cultura taurina, disponiendo los recursos que su presupuesto prevea, para la preservación de escuelas que la promuevan.
+El IDEA, apoyará las actividades en materia de cultura taurina, disponiendo los recursos que su presupuesto prevea, para la preservación de escuelas que la promuevan.
 
 ### CAPITULO DECIMO OCTAVO BIS. De los Deportes Extremos o de Aventura
 
@@ -1073,11 +1385,15 @@ El Instituto del Deporte del Estado de Aguascalientes, apoyará las actividades 
 
 Artículo 93 bis.- Se entiende por deportes extremos o de aventura aquellos donde existe una real o aparente peligrosidad por las condiciones, difíciles en las que se practican.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+Artículo 93 ter.- El IDEA deberá contar con un registro de todas las empresas e instructores que ofrezcan el servicio de deportes extremos o de aventura que se presten en el Estado a fin de vigilar su desarrollo e involucramiento con la sociedad y el turismo.
+
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
 
-Artículo 93 ter.- El Instituto del Deporte del Estado de Aguascalientes deberá contar con un registro de todas las empresas e instructores que ofrezcan el servicio de deportes extremos o de aventura que se presten en el Estado a fin de vigilar su desarrollo e involucramiento con la sociedad y el turismo.
-
 Es obligación de quienes presten el servicio de instrucción o guía de deportes extremos o de aventura, reunir los requisitos y condiciones que garanticen su práctica en las circunstancias lo más seguras posible.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
 
 El reglamento de esta ley, establecerá las normas de seguridad con las que deberán contar quienes se dediquen a la explotación comercial o práctica de los deportes de extremos o de aventura, así como los requisitos que deberán cumplir para prestar el servicio de instrucción o guía.
 
@@ -1119,6 +1435,8 @@ Igualmente, impulsarán la adopción de disposiciones y acuerdos tendientes a fa
 
 ### CAPITULO VIGESIMO. De la Enseñanza, Investigación y Difusión
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 94.
 
 Es de interés público la construcción, remodelación, ampliación, adecuación, mantenimiento y conservación de las instalaciones que permitan atender adecuadamente las demandas que requiera el desarrollo de la cultura física y deporte, promoviendo para este fin, la participación de los sectores social y privado en el territorio estatal.
@@ -1131,21 +1449,27 @@ La planificación y construcción de instalaciones de cultura física y deporte 
 
 Los integrantes del SIEDE promoverán acciones para el uso óptimo de las instalaciones públicas.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 97.
 
-El Instituto del Deporte del Estado de Aguascalientes coordinará con los Municipios y los Sectores Social y Privado el adecuado mantenimiento, conservación y uso óptimo de las instalaciones de cultura física y deporte y emitirá para ello los lineamientos correspondientes.
+El IDEA coordinará con los Municipios y los Sectores Social y Privado el adecuado mantenimiento, conservación y uso óptimo de las instalaciones de cultura física y deporte y emitirá para ello los lineamientos correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 98.
 
-El Instituto del Deporte del Estado de Aguascalientes formulará las normas y criterios requeridos en materia de instalaciones deportivo-recreativas, deportivas, del deporte en la rehabilitación y activación física deportiva.
+El IDEA formulará las normas y criterios requeridos en materia de instalaciones deportivo-recreativas, deportivas, del deporte en la rehabilitación y activación física deportiva.
 
 Para tal efecto, constituirá los fondos, fideicomisos o cualquier otro instrumento financiero que permita el transparente manejo de los recursos estatales que para este objeto se destinen y que del uso de las instalaciones se obtengan.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 99.
 
-En los términos de los convenios de coordinación y colaboración respectivos, los Municipios inscribirán sus instalaciones destinadas a la cultura física y deporte al REDE, previa solicitud de los responsables o administradores de cualquier instalación de cultura física y deporte, con la finalidad de contar con la información actualizada que permita la planeación estatal.
+En los términos de los convenios de coordinación y colaboración respectivos, los Municipios inscribirán sus instalaciones destinadas a la cultura física y deporte al RESIEDE, previa solicitud de los responsables o administradores de cualquier instalación de cultura física y deporte, con la finalidad de contar con la información actualizada que permita la planeación estatal.
 
-El Instituto del Deporte del Estado de Aguascalientes podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las Normas Oficiales Mexicanas, cumpliendo el procedimiento que para ese propósito prevea el reglamento de esta Ley.
+El IDEA podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las Normas Oficiales Mexicanas, cumpliendo el procedimiento que para ese propósito prevea el reglamento de esta Ley.
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
 
@@ -1153,9 +1477,11 @@ El Instituto del Deporte del Estado de Aguascalientes podrá solicitar a las aut
 
 Las instalaciones destinadas a la cultura física y al deporte y aquellas en las que se celebren espectáculos deportivos deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable a fin de procurar la integridad y seguridad de los asistentes y participantes, privilegiando la sana y pacífica convivencia de manera que impidan o limiten al máximo las posibles manifestaciones de violencia, xenofobia, racismo, intolerancia y cualquier otra conducta antisocial.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 101.
 
-El Instituto del Deporte del Estado de Aguascalientes moverá ante las diversas instancias de gobierno, la utilización concertada de laboratorios, centros de salud, parques, plazas y demás espacios o instalaciones públicas en apoyo a la cultura física y deporte.
+El IDEA moverá ante las diversas instancias de gobierno, la utilización concertada de laboratorios, centros de salud, parques, plazas y demás espacios o instalaciones públicas en apoyo a la cultura física y deporte.
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
 
@@ -1165,37 +1491,49 @@ En el uso de las instalaciones a que se refiere este Capítulo, con fines de esp
 
 ### CAPITULO VIGESIMO PRIMERO. De las Ciencias Aplicadas
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 103.
 
-El Instituto del Deporte del Estado de Aguascalientes promoverá, coordinará e impulsará en coordinación con el Instituto de Educación de Aguascalientes la enseñanza, investigación, difusión del desarrollo tecnológico, la aplicación de los conocimientos científicos en materia de cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
+El IDEA promoverá, coordinará e impulsará en coordinación con el IEA la enseñanza, investigación, difusión del desarrollo tecnológico, la aplicación de los conocimientos científicos en materia de cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
 
 ###### Artículo 104.
 
 En el desarrollo de la investigación y conocimientos científicos, deberán participar los integrantes del SIEDE, quienes podrán asesorarse de universidades públicas o privadas e instituciones de educación superior del Estado de acuerdo a los lineamientos que para este fin se establezcan en el reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 105.
 
-El Instituto del Deporte del Estado de Aguascalientes participará en la elaboración de programas de capacitación en actividades de cultura física y deporte con las dependencias y entidades de la administración pública estatal y municipal, organismos públicos, sociales y privados, estatales y nacionales para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y deporte. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
+El IDEA participará en la elaboración de programas de capacitación en actividades de cultura física y deporte con las dependencias y entidades de la administración pública estatal y municipal, organismos públicos, sociales y privados, estatales y nacionales para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y deporte. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 106.
 
-El Instituto del Deporte del Estado de Aguascalientes promoverá y gestionará conjuntamente con las asociaciones deportivas estatales, la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física y deporte. Para tal efecto, emitirá los lineamientos necesarios en los que se determine el procedimiento de acreditación considerando lo dispuesto por la Ley de Educación del Estado de Aguascalientes.
+El IDEA promoverá y gestionará conjuntamente con las asociaciones deportivas estatales, la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física y deporte. Para tal efecto, emitirá los lineamientos necesarios en los que se determine el procedimiento de acreditación considerando lo dispuesto por la Ley de Educación del Estado de Aguascalientes.
 
 ### CAPITULO VIGESIMO SEGUNDO. Del Estímulo a la Cultura Física y al Deporte
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 107.
 
-El Instituto del Deporte del Estado de Aguascalientes, promoverá en coordinación con el Instituto de Educación de Aguascalientes, el desarrollo e investigación en las áreas de medicina deportiva, biomecánica, control del dopaje, psicología del deporte, nutrición y demás ciencias aplicadas al deporte y las que se requieran para la práctica óptima de la cultura física y deporte.
+El IDEA, promoverá en coordinación con el IEA, el desarrollo e investigación en las áreas de medicina deportiva, biomecánica, control del dopaje, psicología del deporte, nutrición y demás ciencias aplicadas al deporte y las que se requieran para la práctica óptima de la cultura física y deporte.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 108.
 
-El Instituto del Deporte del Estado de Aguascalientes, coordinará las acciones necesarias a fin de que los integrantes del SIEDE obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
+El IDEA, coordinará las acciones necesarias a fin de que los integrantes del SIEDE obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
 
 ###### Artículo 109.
 
 Los deportistas integrantes del SIEDE tendrán derecho a recibir atención médica. Para tal efecto, las autoridades estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
 
-En el caso, los deportistas, los entrenadores e instructores que integren el padrón de deportistas de alto rendimiento dentro del REEDE, así como aquellos considerados como talentos deportivos que integren preselecciones y selecciones estatales, deberán contar con un seguro de vida y gastos médicos que proporcionará el Instituto del Deporte del Estado de Aguascalientes, así como incentivos económicos con base a los resultados obtenidos. El procedimiento correspondiente quedará establecido en el reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+En el caso, los deportistas, los entrenadores e instructores que integren el padrón de deportistas de alto rendimiento dentro del RESIEDE, así como aquellos considerados como talentos deportivos que integren preselecciones y selecciones estatales, deberán contar con un seguro de vida y gastos médicos que proporcionará el IDEA, así como incentivos económicos con base a los resultados obtenidos. El procedimiento correspondiente quedará establecido en el reglamento de la presente Ley.
 
 ###### Artículo 110.
 
@@ -1205,9 +1543,11 @@ Las instituciones y organizaciones de los sectores social y privado están oblig
 
 Las instituciones del sector salud y educativo promoverán en su respectivo ámbito de competencia, programas de atención médica para deportistas, formación y actualización de especialistas en medicina del deporte y ciencias aplicadas, así como para la investigación científica.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 112.
 
-El Instituto de Salud de Aguas calientes y el Instituto del Deporte del Estado de Aguascalientes procurarán la existencia y aplicación de programas preventivos relacionados con enfermedades y lesiones derivadas de la práctica deportiva, así como proporcionar servicios especializados y de alta calidad en medicina y demás ciencias aplicadas al deporte.
+La Secretaría de Salud y el IDEA procurarán la existencia y aplicación de programas preventivos relacionados con enfermedades y lesiones derivadas de la práctica deportiva, así como proporcionar servicios especializados y de alta calidad en medicina y demás ciencias aplicadas al deporte.
 
 ###### Artículo 113.
 
@@ -1217,11 +1557,43 @@ Las instancias correspondientes, verificarán y certificarán que los laboratori
 
 ###### Artículo 114.
 
-Corresponde al Instituto del Deporte del Estado de Aguascalientes y a los organismos de los sectores públicos otorgar y promover en el ámbito de sus respectivas competencias, ayudas, subvenciones y reconocimientos a los deportistas, técnicos y organismos de cultura física y deporte ajustándose a lo dispuesto en la presente Ley, su reglamento y en su caso, en la convocatoria correspondiente.
+Corresponde al IDEA y a los organismos de los sectores públicos otorgar y promover en el ámbito de sus respectivas competencias, ayudas, subvenciones y reconocimientos a los deportistas, técnicos y organismos de cultura física y deporte ajustándose a lo dispuesto en la presente Ley, su reglamento y en su caso, en la convocatoria correspondiente.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+Artículo 114 bis.- La cultura física deberá ser promovida, fomentada y estimulada en todos los niveles y grados de educación y enseñanza del estado como factor fundamental del desarrollo armónico e integral del ser humano.
+
+El Estado y los Municipios, se coordinarán, en el ámbito de sus respectivas competencias, involucrando la participación de los sectores social y privado, para realizar las acciones generales siguientes:
+
+I. Difundir programas y actividades que den a conocer los contenidos y valores de la cultura física y deportiva;
+
+II. Promover, fomentar y estimular las actividades de cultura física con motivo de la celebración de competiciones o eventos deportivos;
+
+III. Promover, fomentar y estimular las investigaciones sobre la cultura física y los resultados correspondientes;
+
+IV. Promover, fomentar y estimular el desarrollo de una cultura deportiva que haga del deporte un bien social y un hábito de vida;
+
+V. Difundir el patrimonio cultural deportivo;
+
+VI. Promover certámenes, concursos o competiciones de naturaleza cultural deportiva; y
+
+VII. Las demás que dispongan otras leyes u ordenamientos aplicables.
+
+La Charrería y Los Juegos Tradicionales y Autóctonos serán considerados como parte del patrimonio cultural deportivo del país y el Estados (sic) y los Municipios en el ámbito de sus respectivas competencias deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre ellos y con las Asociaciones Deportivas Nacionales y Asociaciones Deportivas Estatales respectivas.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+Artículo 114 ter.- En coordinación con el IEA y los Municipios, el IDEA planificará y promocionará el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas.
+
+Los titulares de las dependencias de la Administración Pública Estatal, tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre sus trabajadores, con objeto de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental, y facilitar su plena integración en el desarrollo social y cultural. Para cumplir con esta responsabilidad podrán celebrar acuerdos de colaboración con el IDEA.
+
+Asimismo, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con la activación física su entrenamiento y participación en competiciones oficiales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 115.
 
-Los estímulos a que se refiere el presente Capítulo, que se otorguen con cargo al presupuesto del Instituto del Deporte del Estado de Aguascalientes, tendrán por finalidad el cumplimiento de alguno de los siguientes objetivos:
+Los estímulos a que se refiere el presente Capítulo, que se otorguen con cargo al presupuesto del IDEA, tendrán por finalidad el cumplimiento de alguno de los siguientes objetivos:
 
 I. Desarrollar los programas deportivos de las asociaciones deportivas estatales;
 
@@ -1237,7 +1609,9 @@ VI. Promover con las universidades la participación en los programas deportivos
 
 VII. Contribuir a elevar el desarrollo deportivo de los países de nuestro entorno histórico y cultural en respuesta a tratados o convenios de cooperación internacional; y
 
-VIII. Realizar cualquier actividad que contribuya al desarrollo de las competiciones que de acuerdo con la legislación vigente corresponda al Instituto del Deporte del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+VIII. Realizar cualquier actividad que contribuya al desarrollo de las competiciones que de acuerdo con la legislación vigente corresponda al IDEA.
 
 ###### Artículo 116.
 
@@ -1275,13 +1649,13 @@ III. El sometimiento a las actuaciones de comprobación y a las de control finan
 
 IV. Facilitar cuanta información le sea requerida por las autoridades de la administración pública estatal.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 119.
 
-Las personas físicas y morales, así como las agrupaciones que hubieren contribuido al desarrollo de la cultura física y deporte estatal o nacional, podrán obtener reconocimiento por parte del Instituto del Deporte del Estado de Aguascalientes, así como en su caso, estímulos en dinero o especie con previo cumplimiento de los requisitos que para tal efecto se establezcan.
+Las personas físicas y morales, así como las agrupaciones que hubieren contribuido al desarrollo de la cultura física y deporte estatal o nacional, podrán obtener reconocimiento por parte del IDEA, así como en su caso, estímulos en dinero o especie con previo cumplimiento de los requisitos que para tal efecto se establezcan.
 
-> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
-
-Para el cumplimiento del párrafo anterior, el Instituto del Deporte del Estado de Aguascalientes además podrá promocionar los logros de los deportistas mediante campañas .publicitarias en los diferentes medios de comunicación en todo el Estado y solicitar el apoyo de deportistas profesionales para ser promotores del deporte en todos los niveles educativos en el Estado.
+Para el cumplimiento del párrafo anterior, el IDEA además podrá promocionar los logros de los deportistas mediante campañas publicitarias en los diferentes medios de comunicación en todo el Estado y solicitar el apoyo de deportistas profesionales para ser promotores del deporte en todos los niveles educativos en el Estado.
 
 ### CAPITULO VIGESIMO CUARTO. De la Prevención de la Violencia en la Celebración de Espectáculos Deportivos
 
@@ -1291,39 +1665,53 @@ Para el cumplimiento del párrafo anterior, el Instituto del Deporte del Estado 
 
 Se declara de interés público, la prohibición del consumo, uso y distribución de sustancias farmacológicas potencialmente peligrosas para la salud y métodos no reglamentarios destinados a aumentar artificialmente las capacidades físicas de los deportistas o modificar el resultado de las competiciones.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 121.
 
-Se entenderá por dopaje en el deporte, la administración a los deportistas o la utilización por éstos, de las clases o grupos farmacológicos de agentes prohibidos o métodos no reglamentarios.
+Se entenderá por dopaje en el deporte la administración a los deportistas o a los animales que estos utilicen en su disciplina, así como su uso deliberado o inadvertido de una sustancia prohibida o de un método no reglamentario; enunciado en la lista vigente de la Agencia Mundial Antidopaje, misma que será publicada por la CONADE anualmente para efectos del conocimiento público.
 
-Se entenderá por clases y grupos farmacológicos de agentes o métodos de dopaje, las prohibidas por las organizaciones deportivas internacionales y que figuren en las listas que para el efecto publique la CONADE, de conformidad con lo dispuesto por la Comisión Médica del Comité Olímpico Internacional y la Agencia Mundial Antidopaje.
+Se sancionará como infracción, por dopaje, lo establecido en el artículo 145 de la presente Ley.
+
+El Estado y los Municipios, en el ámbito de sus respectivas competencias, con la participación de los sectores social y privado velarán por la aplicación de la Convención Internacional contra el Dopaje en el Deporte y los demás ordenamientos que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 122.
 
-El Instituto del Deporte del Estado de Aguascalientes promoverá la creación de un Comité Estatal Antidopaje, involucrando para el efecto, a todas aquellas instancias públicas o privadas que a través de sus respectivas competencias puedan formar parte de dicho comité.
+El IDEA promoverá la creación de un Comité Estatal Antidopaje, involucrando para el efecto, a todas aquellas instancias públicas o privadas que a través de sus respectivas competencias puedan formar parte de dicho comité.
 
 ###### Artículo 123.
 
 El Comité Estatal Antidopaje será junto con las asociaciones deportivas estatales, la instancia responsable de conocer de los resultados, controversias e irregularidades en las normas y procedimientos que surjan de los controles dentro y fuera de competición a que sean sometidos los deportistas en el territorio estatal.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 124.
 
-Cuando se determinen casos de dopaje dentro o fuera de la competición, las asociaciones deportivas estatales cuyos atletas hayan resultado positivos, tendrán la obligación de hacer del conocimiento del Instituto del Deporte del Estado de Aguascalientes dicha situación.
+Cuando se determinen casos de dopaje dentro o fuera de la competición, las asociaciones deportivas estatales cuyos atletas hayan resultado positivos, tendrán la obligación de hacer del conocimiento del IDEA dicha situación.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 125.
 
-El Instituto del Deporte del Estado de Aguascalientes, conjuntamente con las Autoridades Estatales y Municipales, del Sector Salud y los integrantes del SIEDE, promoverá e impulsará las medidas de prevención y control del uso de sustancias y de la práctica de los métodos no reglamentarios.
+El IDEA, conjuntamente con las Autoridades Estatales y Municipales, del Sector Salud y los integrantes del SIEDE, promoverá e impulsará las medidas de prevención y control del uso de sustancias y de la práctica de los métodos no reglamentarios.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 126.
 
-Se establece la obligación de contar con la cartilla oficial de control de sustancias prohibidas y métodos no reglamentarios que expedirá el Instituto del Deporte del Estado de Aguascalientes, a los deportistas que integren el padrón de alto rendimiento y talentos deportivos dentro del REEDE. Los requisitos para el otorgamiento de la cartilla mencionada en el presente artículo, se establecerán en el reglamento de la presente Ley.
+Se establece la obligación de contar con la cartilla oficial de control de sustancias prohibidas y métodos no reglamentarios que expedirá el IDEA, a los deportistas que integren el padrón de alto rendimiento y talentos deportivos dentro del REEDE. Los requisitos para el otorgamiento de la cartilla mencionada en el presente artículo, se establecerán en el reglamento de la presente Ley.
 
 ###### Artículo 127.
 
 Todos los deportistas que integren las preselecciones y selecciones estatales, deberán someterse a los controles para la detección del uso de sustancias prohibidas y métodos no reglamentarios para participar en competiciones nacionales e internacionales o por lo menos en tres ocasiones al año, pudiendo ser éstas dentro o fuera de competición y de acuerdo a lo que se establezca en el reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 128.
 
-Para los efectos de la presente Ley y su reglamento, se considera infracción administrativa el resultado positivo del análisis antidopaje practicado al deportista. Lo anterior sin menoscabo de las sanciones que procedan en el ámbito deportivo y que al efecto se establezcan en el reglamento de la presente Ley.
+Para los efectos de la presente Ley y su reglamento, se considera infracción administrativa el resultado positivo del análisis antidopaje practicado al deportista y/o animales destinados a la práctica deportiva. Lo anterior sin menoscabo de las sanciones que procedan en el ámbito deportivo y que al efecto se establezcan en el reglamento de la presente Ley.
 
 ###### Artículo 129.
 
@@ -1344,6 +1732,8 @@ Los Poderes Públicos en el ámbito de sus respectivas competencias, adoptarán 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ENERO DE 2010)</small>
 
 ### CAPITULO VIGESIMO QUINTO. De las Infracciones y Sanciones
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 133.
 
@@ -1421,7 +1811,7 @@ a) Un representante del SIEDE;
 
 b) Un representante de la CONADE;
 
-c) Un representante de la CODEME;
+c) (DEROGADO, P.O. 2 DE FEBRERO DE 2015)
 
 d) Un representante de la COM;
 
@@ -1453,7 +1843,7 @@ V. Emitir lineamientos que determinen medidas mínimas de seguridad y proceso de
 
 ###### Artículo 139.
 
-La aplicación de sanciones administrativas por infracciones a esta Ley, su Reglamento y demás disposiciones que de ella emanen, corresponde al Instituto del Deporte del Estado de Aguascalientes.
+La aplicación de sanciones administrativas por infracciones a esta Ley, su Reglamento y demás disposiciones que de ella emanen, corresponde al IDEA.
 
 ###### Artículo 140.
 
@@ -1469,7 +1859,9 @@ En el ámbito de la justicia deportiva, la aplicación de sanciones por infracci
 
 I. A las Asociaciones Deportivas Estatales, las Asociaciones y Sociedades Deportivas Estatales, Recreativo-Deportivas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva;
 
-II. El Instituto del Deporte del Estado de Aguascalientes y a los Sistemas Municipales de Cultura Física y Deporte; y
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+II. El IDEA y a los Sistemas Municipales de Cultura Física y Deporte; y
 
 III. A los directivos, jueces, árbitros y organizadores de competiciones deportivas.
 
@@ -1495,7 +1887,9 @@ III. Los procedimientos para interponer los Reglamento cursos establecidos en el
 
 Se considerarán como infracciones muy graves a la presente Ley, las siguientes:
 
-I. La utilización de las sustancias y grupos farmacológicos prohibidos, así como de métodos no reglamentarios, destinados a aumentar artificialmente las capacidades físicas de los deportistas o modificar los resultados de las competiciones;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+I. La utilización o tentativa de las sustancias y grupos farmacológicos prohibidos, así como de métodos no reglamentarios, destinados a aumentar artificialmente las capacidades físicas de los deportistas o modificar los resultados de las competiciones;
 
 II. La promoción o incitación a la utilización de tales sustancias o métodos;
 
@@ -1652,3 +2046,17 @@ El IDEA creará un padrón de las clínicas y gimnasios deportivos en el Estado,
 ###### ARTÍCULO TERCERO.
 
 Se deberán realizar las modificaciones reglamentarias pertinentes de conformidad con el presente Decreto.
+
+P.O. 2 DE FEBRERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado deberá expedir el reglamento correspondiente y demás disposiciones reglamentarias a que se refiere esta Ley en un plazo que no exceda de 180 días naturales contados a partir del inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las adecuaciones necesarias al Estatuto Orgánico del Instituto del Deporte del Estado de Aguascalientes, se harán dentro de los 180 días naturales contados a partir del inicio de vigencia del presente Decreto.
