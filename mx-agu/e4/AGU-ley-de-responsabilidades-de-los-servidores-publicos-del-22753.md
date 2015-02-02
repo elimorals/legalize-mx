@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2013-11-11"
+last_updated: "2015-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -121,17 +121,17 @@ III.- De Responsabilidad Administrativa Disciplinaria; y
 
 IV.- De Responsabilidad Administrativa Resarcitoria.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### ARTICULO 8o.
 
-El Titular del Poder Ejecutivo del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por violaciones a la Constitución Política del Estado, y delitos graves del orden común, además será responsable en los términos del artículo 110, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos; conforme al procedimiento establecido en el mismo.
+El Titular del Poder Ejecutivo del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por violaciones a la Constitución Política del Estado, y delitos de prisión preventiva oficiosa del orden común, además será responsable en los términos del Artículo 110, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos; conforme al procedimiento establecido en el mismo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 9o.
 
-Son delitos graves del orden común los así considerados por el Código de Procedimientos Penales para el Estado de Aguascalientes.
+Son delitos de prisión preventiva oficiosa del orden común, los así considerados por el Código Nacional de Procedimientos Penales.
 
 ###### ARTICULO 10.
 
@@ -141,11 +141,11 @@ Los procedimientos para la aplicación de las sanciones a que se refiere esta Le
 
 ### CAPITULO I. Sujetos, Causas y Sanciones del Juicio Político
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 11.
 
-Podrán ser sujetos de Juicio Político: el Gobernador, los Diputados a la Legislatura local, los Magistrados del Poder Judicial, los miembros del Consejo de la Judicatura del Poder Judicial, los Titulares de las Dependencias del Poder Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes, los titulares de los organismos públicos descentralizados, los titulares de los organismos autónomos y los directores generales de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
+Podrán ser sujetos de Juicio Político: el Gobernador, los Diputados a la Legislatura local, los Magistrados del Poder Judicial, los miembros del Consejo de la Judicatura del Poder Judicial, los Titulares de las Dependencias del Poder Ejecutivo, el Fiscal General del Estado, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes, los titulares de los organismos públicos descentralizados, los titulares de los organismos autónomos y los directores generales de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
 
 ###### ARTICULO 12.
 
@@ -329,13 +329,11 @@ Si durante la tramitación de alguno de los procedimientos en que interviene el 
 
 ### CAPITULO III. Procedimiento Para la Declaratoria de Procedencia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 37.
 
-La comisión de delitos, por parte de cualquier servidor público de los mencionados en el Artículo 74 de la Constitución Política del Estado, será perseguida y sancionada en los términos de lo establecido por el Código Penal para el Estado de Aguascalientes y el Código de Procedimientos Penales para el Estado de Aguascalientes, previa declaratoria de procedencia de conformidad con lo que establece la presente Ley y el referido Código adjetivo.
+La comisión de delitos, por parte de cualquier servidor público de los mencionados en el Artículo 75 de la Constitución Política del Estado, será perseguida y sancionada en los términos de lo establecido por el Código Penal para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales, previa declaratoria de procedencia de conformidad con lo que establece la presente Ley.
 
 Si se contraviene lo anterior, el Presidente de Congreso librará oficio al Tribunal que conozca de la causa, a fin de que suspenda su tramitación en tanto se resuelve si ha lugar a proceder, ordenando la inmediata libertad del servidor público si éste se encontrare detenido.
 
@@ -345,37 +343,37 @@ Si se contraviene lo anterior, el Presidente de Congreso librará oficio al Trib
 
 La inmunidad de que están investidos los servidores públicos conocida como fuero constitucional, es la prerrogativa indispensable para la existencia y funcionamiento de las instituciones, protegiendo su independencia y autonomía al otorgarles la facultad de no comparecer ante la autoridad jurisdiccional, quien tiene la obligación de respetarla con relación directa al ejercicio de la acción penal, no a la facultad-deber que tiene la institución del Ministerio Público para investigar los hechos punibles que puedan ser probablemente constitutivos de delito, hasta en tanto el Congreso del Estado declare que ha lugar a proceder en su contra, satisfaciéndose de este modo, la condición previa de procedibilidad, que no constituye una excluyente de responsabilidad, sino un impedimento legal para que aquellos que gocen de esa prerrogativa, no queden sometidos a la potestad judicial.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 39.
 
-La denuncia que se formule en contra de alguno de los servidores públicos que gocen de fuero, se presentará ante el Procurador General de Justicia del Estado, quien mandará practicar las diligencias necesarias para la integración de la averiguación previa correspondiente.
+La denuncia que se formule en contra de alguno de los servidores públicos que gocen de fuero, se presentará ante el Fiscal General del Estado, quien mandará practicar las diligencias necesarias para realización de la investigación correspondiente.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 40.
 
-En el supuesto de que la denuncia sea en contra del Procurador General de Justicia, aquella se presentará ante el titular del Poder Ejecutivo del Estado, quien designará a un Agente del Ministerio Público Especial para el solo efecto de que integre la averiguación previa respectiva.
+En el supuesto de que la denuncia sea en contra del Fiscal General del Estado, aquella se presentará ante el titular del Poder Ejecutivo del Estado, quien designará a un Agente del Ministerio Público Especial para el solo efecto de que realice la investigación respectiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 41.
 
-En los casos mencionados en los dos Artículos anteriores, la averiguación previa se substanciará conforme a lo establecido en el Código de Procedimientos Penales para el Estado de Aguascalientes.
+En los casos mencionados en los dos Artículos anteriores, la investigación se substanciará conforme a lo establecido en el Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 42.
 
-Concluida la averiguación previa y satisfechos los requisitos para el ejercicio de la acción penal, la remitirá al Congreso del Estado, el que la turnará a su Comisión de Justicia.
+Concluida la investigación y satisfechos los requisitos para el ejercicio de la acción penal, la remitirá al Congreso del Estado, el que la turnará a su Comisión de Justicia.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 43.
 
-Recibida la averiguación previa, la Comisión de Justicia, dentro de los tres días hábiles siguientes, citará al Procurador General de Justicia o al Agente del Ministerio Público Especial, según corresponda, así como al servidor público denunciado, para que declaren lo que a sus intereses convenga.
+Recibidos los antecedentes de investigación, la Comisión de Justicia, dentro de los tres días hábiles siguientes, citará al Fiscal General del Estado o al Agente del Ministerio Público Especial, según corresponda, así como al servidor público denunciado, para que declaren lo que a sus intereses convenga.
 
-La Comisión de Justicia, al momento de citar al servidor público involucrado, le dará a conocer el contenido de la averiguación previa y le informará que tendrá derecho a designar Defensor, para que lo asista en la audiencia correspondiente.
+La Comisión de Justicia, al momento de citar al servidor público involucrado, le dará a conocer el contenido de la investigación y le informará que tendrá derecho a designar Defensor, para que lo asista en la audiencia correspondiente.
 
 ###### ARTICULO 44.
 
@@ -385,39 +383,39 @@ Si a juicio de la Comisión de Justicia la imputación fuese notoriamente improc
 
 La Comisión de Justicia deberá rendir su dictamen en un plazo no mayor de treinta días naturales y lo turnará al Secretario de la Mesa Directiva en funciones, para que éste dé cuenta al Presidente.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### ARTICULO 46.
 
-Recibido el dictamen, el Presidente de la Mesa Directiva en funciones del Congreso convocará a sesión dentro de los siguientes cinco días hábiles, citando a la misma al Procurador General de Justicia o al Agente del Ministerio Público Especial según corresponda, así como al denunciado y a su defensor, el día y hora que para tal efecto se señale, a fin de que si así lo desean, comparezcan a esa sesión.
+Recibido el dictamen, el Presidente de la Mesa Directiva en funciones del Congreso convocará a sesión dentro de los siguientes cinco días hábiles, citando a la misma al Fiscal General del Estado o al Agente del Ministerio Público Especial según corresponda, así como al denunciado y a su defensor, el día y hora que para tal efecto se señale, a fin de que si así lo desean, comparezcan a esa sesión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 47.
 
-En la sesión a que se refiere el artículo anterior, el Presidente de la Mesa Directiva en funciones del Congreso, hará la declaratoria de que éste se erige en Gran Jurado; acto seguido la Secretaría dará lectura al dictamen de la Comisión de Justicia y se concederá la palabra al Procurador General de Justicia o al Agente del Ministerio Público Especial, según corresponda, y al denunciado o a su defensor, o a ambos si así lo solicitan para que aleguen lo que a su derecho convengan. Las partes podrán replicar y contrarreplicar por una sola vez y hecho lo anterior, se retirarán del recinto.
+En la sesión a que se refiere el Artículo anterior, el Presidente de la Mesa Directiva en funciones del Congreso, hará la declaratoria de que éste se erige en Gran Jurado; acto seguido la Secretaría dará lectura al dictamen de la Comisión de Justicia y se concederá la palabra al Fiscal General del Estado o al Agente del Ministerio Público Especial, según corresponda, y al denunciado o a su defensor, o a ambos si así lo solicitan para que aleguen lo que a su derecho convengan. Las partes podrán replicar y contrarreplicar por una sola vez y hecho lo anterior, se retirarán del recinto.
 
 Retiradas las partes, el Gran Jurado declarará por consenso de las dos terceras partes del total de los Diputados si ha lugar a proceder en contra del denunciado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 48.
 
-Si el Congreso del Estado declara que ha lugar a proceder contra el servidor público denunciado, éste quedará inmediatamente separado de su cargo, devolviendo la averiguación previa junto con la declaratoria de procedencia relativa a la Procuraduría General de Justicia o al Agente del Ministerio Público Especial para que ejercite la acción penal correspondiente, sobre la que resolverá la autoridad jurisdiccional en términos de ley.
+Si el Congreso del Estado declara que ha lugar a proceder contra el servidor público denunciado, éste quedará inmediatamente separado de su cargo, devolviendo los antecedentes de investigación, junto con la declaratoria de procedencia relativa, a la Fiscalía General del Estado o al Agente del Ministerio Público Especial para que ejercite la acción penal correspondiente, sobre la que resolverá la autoridad jurisdiccional en términos de ley.
 
 Si se emite declaratoria de improcedencia, el servidor público continuará en el desempeño de su cargo y no habrá lugar a procedimiento ulterior por los mismos hechos, en tanto no concluyan sus funciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 49.
 
-El Titular del Poder Ejecutivo del Estado sólo será sujeto al procedimiento de declaratoria de procedencia, tratándose de delitos graves del orden común así considerados por el Código de Procedimientos Penales para el Estado de Aguascalientes.
+El Titular del Poder Ejecutivo del Estado sólo será sujeto al procedimiento de declaratoria de procedencia, tratándose de delitos de prisión preventiva oficiosa del orden común así considerados por el Código Nacional de Procedimientos Penales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 50.
 
-Para proceder contra los jueces por la comisión de hechos punibles que puedan ser tipificados en términos de las figuras establecidas en el Código Penal para el Estado de Aguascalientes, el Supremo Tribunal de Justicia emitirá declaración en el sentido de que ha lugar a formación de causa. Por virtud de esta declaración, aquellos quedarán suspendidos de sus cargos y sometidos al procedimiento penal correspondiente, conforme a las reglas establecidas en el Código de Procedimientos Penales para el Estado de Aguascalientes.
+Para proceder contra los jueces por la comisión de hechos punibles que puedan ser tipificados en términos de las figuras establecidas en el Código Penal para el Estado de Aguascalientes, el Supremo Tribunal de Justicia emitirá declaración en el sentido de que ha lugar a formación de causa, en los términos establecidos en la Ley Orgánica del Poder Judicial para el Estado de Aguascalientes. Por virtud de esta declaración, aquellos quedarán suspendidos de sus cargos y sometidos al procedimiento penal correspondiente, conforme a las reglas establecidas en el Código Nacional de Procedimientos Penales.
 
 ###### ARTICULO 51.
 
@@ -501,13 +499,11 @@ Las declaraciones o resoluciones aprobadas por el Congreso del Estado con arregl
 
 Recibida por el Congreso del Estado la notificación de la declaratoria de la Cámara de Diputados del Congreso de la Unión relativa al titular del Poder Ejecutivo del Estado, Diputados Locales, Magistrados adscritos al Poder Judicial del Estado y miembros del Consejo de la Judicatura Local a que se refiere el Artículo 111 de la Constitución General de la República, se procederá como lo dispone la presente Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 68.
 
-En todo lo no previsto en los procedimientos que se contemplan en los Títulos Segundo y Cuarto de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán, en lo conducente, las disposiciones contenidas en el Código de Procedimientos Penales para el Estado de Aguascalientes.
+En todo lo no previsto en los procedimientos que se contemplan en los Títulos Segundo y Cuarto de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán, en lo conducente, las disposiciones contenidas en el Código Nacional de Procedimientos Penales.
 
 ## TITULO TERCERO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
@@ -841,11 +837,9 @@ I.- Sanción económica de hasta veinte veces el salario mínimo diario general 
 
 II.- Auxilio de la fuerza pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
-
-Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga el Código Penal para el Estado de Aguascalientes y el Código de Procedimientos Penales para el Estado de Aguascalientes.
+Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga el Código Penal para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales.
 
 ### CAPITULO III. De las Responsabilidades Administrativas Resarcitorias
 
@@ -1300,3 +1294,29 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con antelación a la entrada en vigor de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+A partir del inicio de la vigencia del presente Decreto, toda referencia al Código de Procedimientos Penales para el Estado de Aguascalientes que se realice en otras leyes, se entenderá hecha al Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos penales iniciados por las conductas descritas en los tipos penales contemplados en los Artículos 122 y 123 del Código Penal para el Estado de Aguascalientes, que se derogan en el presente Decreto, se seguirán en los mismos términos, sin que a ello importe que haya traslación de tipo y sean ahora contemplados con sus mismos elementos típicos y sus mismas sanciones en las modalidades de la violación equiparada del Artículo 120 del mismo ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, las referencias tanto a la Fiscalía General del Estado como al Fiscal General del Estado del presente Decreto, se entenderán hechas a la Procuraduría General de Justicia y al Procurador General de Justicia respectivamente.
+
+###### ARTÍCULO SEXTO.
+
+En tanto no inicie su vigencia el Sistema Penal Acusatorio las referencias hechas en el presente Decreto a delitos de prisión preventiva oficiosa se entenderán realizada (sic) a delitos graves, según sea el caso.
