@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2014-09-29"
+last_updated: "2015-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -391,15 +391,19 @@ Tan pronto como un sentenciado a pena de prisión ingrese a un establecimiento, 
 
 Para efecto de este Código, la reinserción social se entenderá como un conjunto de condiciones y bases del respeto a los derechos humanos, del trabajo, capacitación para el mismo, educación, salud y deporte como medios para garantizar el desarrollo social del sentenciado, procurando que no vuelva a delinquir y lleve una vida de respeto a la norma, en términos del Artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y el derecho internacional en materia de derechos humanos del que el Estado Mexicano sea parte.
 
-En toda pena de prisión, se computará el tiempo de la prisión preventiva y del arraigo a favor del sentenciado.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+En toda pena de prisión, se computará el tiempo de la prisión preventiva a favor del sentenciado.
 
 ###### ARTÍCULO 42.
 
 Efectos de la prisión. La Pena de Prisión produce la Suspensión de los derechos políticos, así como los de tutela, curatela, apoderado, defensor, albacea, perito, depositario, interventor, síndico o representante de ausentes, y dejará de surtir sus efectos al momento en que la autoridad ejecutora dé por cumplida la referida pena de prisión, sea por compurgación total o por obtención de beneficios, y se informará de ello, mediante oficio, a las autoridades que hayan tenido conocimiento de tal situación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 43.
 
-Sustitutivos de prisión. La pena de prisión puede ser sustituida por el juez, en procesos seguidos por hechos punibles no considerados como figuras típicas graves por el Código de Procedimientos Penales para el Estado de Aguascalientes, atendiendo a las condiciones personales del sentenciado, por:
+Sustitutivos de prisión. La pena de prisión puede ser sustituida por el juez, en procesos seguidos por hechos punibles no considerados de prisión preventiva oficiosa por el Código Nacional de Procedimientos Penales, atendiendo a las condiciones personales del sentenciado, por:
 
 I. Multa o trabajo en favor de la comunidad, cuando no exceda de dos años;
 
@@ -647,7 +651,9 @@ Respecto de los objetos o valores que se encuentren a disposición de las autori
 
 I. Si los objetos o valores referidos no se pueden conservar o sean de costoso mantenimiento, se procederá a su venta inmediata, aplicándose a lo conducente las reglas que se establecen en la Fracción III;
 
-II. Cuando su naturaleza lo permita serán aprovechados en beneficio de la procuración o impartición de justicia y podrán ser entregados en depósito a los servidores públicos, mediante resolución fundada y motivada dictada por el Procurador General de Justicia o el tribunal competente según sea el caso. Dicho aprovechamiento no causará al Estado costo alguno; y
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+II. Cuando su naturaleza lo permita serán aprovechados en beneficio de la procuración o impartición de justicia y podrán ser entregados en depósito a los servidores públicos, mediante resolución fundada y motivada dictada por el Fiscal General del Estado o el tribunal competente según sea el caso. Dicho aprovechamiento no causará al Estado costo alguno; y
 
 III. Si los objetos no reúnen las características descritas en la fracción anterior, se enajenarán en subasta pública, conforme al procedimiento establecido para remates en el Código Fiscal del Estado, y el producto de la venta se aplicará a quien tenga derecho a recibirlo. Si notificado no se presenta dentro de los ciento veinte días siguientes a la fecha de la notificación, el producto de la venta se destinará al mejoramiento de la procuración o administración de justicia según sea el caso, previas las deducciones de los gastos ocasionados al respecto.
 
@@ -715,7 +721,9 @@ II. Muerte del sentenciado;
 
 III. Amnistía;
 
-IV. Perdón de la víctima u ofendido, o de la persona legitimada para realizarlo, en los casos autorizados por el Código de Procedimientos Penales para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+IV. Perdón de la víctima u ofendido, o de la persona legitimada para realizarlo, en los casos autorizados por este Código;
 
 V. Reconocimiento de inocencia; y
 
@@ -1127,15 +1135,27 @@ Si entre el activo y pasivo de la Violación, existiera un vínculo matrimonial 
 
 Para los efectos de este Código, se entiende por cópula la introducción del pene en el cuerpo humano, por vía vaginal, anal u oral.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### ARTÍCULO 120.
 
 Violación equiparada. También se equiparan a la Violación, los hechos punibles siguientes:
 
-I. Realizar cópula con persona menor de doce años de edad sin hacer uso de la fuerza física o moral; o
+I.- Realizar cópula con persona menor de doce años de edad sin hacer uso de la fuerza física o moral;
 
-II. Realizar cópula con persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirla, sin uso de la fuerza física o moral de parte del inculpado.
+II.- Realizar cópula con persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirla, sin uso de la fuerza física o moral de parte del inculpado;
 
-Al responsable de Violación Equiparada se le aplicarán de 12 a 18 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable hace uso de la fuerza física, moral o psicológica sobre la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 15 a 25 años de prisión y de 250 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+III.- Introducir por vía vaginal o anal cualquier elemento o instrumento distinto del pene, mediante el uso de la fuerza física, moral o psicológica para el sometimiento de la víctima, sea cual fuere el sexo de ésta;
+
+IV.- El llevar a cabo la introducción descrita en la Fracción III en persona menor de doce años de edad sin hacer uso de la fuerza física o moral; o
+
+V.- El llevar a cabo la introducción descrita en la Fracción III en persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirla, sin uso de la fuerza física o moral de parte del inculpado.
+
+Al responsable de Violación Equiparada descrita en las Fracciones I y II se le aplicarán de 12 a 18 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable hace uso de la fuerza física, moral o psicológica sobre la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 15 a 25 años de prisión y de 250 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+Al responsable de Violación Equiparada descrita en la Fracción III se le aplicarán de 5 a 10 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+Al responsable de Violación Equiparada descrita en las Fracciones IV y V se le aplicarán de 6 a 12 años de prisión y de 120 a 240 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable utiliza la fuerza física o moral respecto de la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 7 a 14 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### ARTÍCULO 121.
 
@@ -1145,27 +1165,17 @@ El pago de los alimentos se hará en la forma y términos que la ley civil fije 
 
 ###### ARTÍCULO 122.
 
-Abuso sexual. El Abuso Sexual consiste en la introducción por vía vaginal o anal de cualquier elemento o instrumento distinto del pene, mediante el uso de la fuerza física, moral o psicológica para el sometimiento de la víctima, sea cual fuere el sexo de ésta.
-
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2014)</small>
-
-Al responsable de Abuso Sexual se le aplicarán de 5 a 10 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+(DEROGADO, P.O. 2 DE FEBRERO DE 2015)
 
 ###### ARTÍCULO 123.
 
-Abuso sexual equiparado. También se equiparan al Abuso Sexual los hechos punibles siguientes:
+(DEROGADO, P.O. 2 DE FEBRERO DE 2015)
 
-I. El llevar a cabo la introducción descrita en el Artículo 122 en persona menor de doce años de edad sin hacer uso de la fuerza física o moral; y
-
-II. El llevar a cabo la introducción descrita en el Artículo 122 en persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirla, sin uso de la fuerza física o moral de parte del inculpado.
-
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2014)</small>
-
-Al responsable de Abuso Sexual Equiparado se le aplicarán de 6 a 12 años de prisión y de 120 a 240 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable utiliza la fuerza física o moral respecto de la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 7 a 14 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 124.
 
-Aumento de sanción. La punibilidad prevista para los Tipos Penales de violación, abuso sexual, violación equiparada, abuso sexual equiparado y atentados al pudor, se aumentará hasta en una mitad en sus mínimos y sus máximos, cuando:
+Aumento de sanción. La punibilidad prevista para los Tipos Penales de violación, violación equiparada y atentados al pudor, se aumentará hasta en una mitad en sus mínimos y sus máximos, cuando:
 
 I. Los hechos descritos sean cometidos a nivel de coautoría;
 
@@ -1619,7 +1629,9 @@ Al responsable de la comisión de la presente figura típica se le aplicarán de
 
 Responsabilidad profesional médica. La Responsabilidad Profesional Médica consiste en:
 
-I. Otorgar responsiva para hacerse cargo de la atención de algún lesionado o persona afectada de su salud, y abandonarlo en su tratamiento sin causa justificada, o no cumplir con las obligaciones que al respecto se establecen en el Código de Procedimientos Penales para el Estado de Aguascalientes, respecto de las víctimas de hechos punibles;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+I. Otorgar responsiva para hacerse cargo de la atención de algún lesionado o persona afectada de su salud, y abandonarlo en su tratamiento sin causa justificada, o no cumplir con las obligaciones que al respecto se establecen en la normatividad aplicable, respecto de las víctimas de hechos punibles;
 
 II. No recabar la autorización del paciente o de la persona que deba otorgarla, salvo en los casos de urgencia debidamente comprobada, cuando se trate de practicar alguna operación quirúrgica que por su naturaleza ponga en peligro la vida del enfermo, cause pérdida de un miembro o ataque la integridad de una función vital;
 
@@ -2041,7 +2053,9 @@ I. Abolir o reformar la Constitución Política de éste, o las instituciones qu
 
 II. Impedir la integración de éstas o su libre ejercicio y funcionamiento; o
 
-III. Separar de sus cargos al Gobernador, diputados al Congreso Estatal, Magistrados del Supremo Tribunal de Justicia, Secretario General de Gobierno, Procurador General de Justicia, Presidentes Municipales, regidores y síndicos de los Ayuntamientos.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+III. Separar de sus cargos al Gobernador, diputados al Congreso Estatal, Magistrados del Supremo Tribunal de Justicia, Secretario General de Gobierno, Fiscal General del Estado, Presidentes Municipales, regidores y síndicos de los Ayuntamientos.
 
 A los responsables de Rebelión se les aplicarán de 1 a 8 años de prisión, de 30 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y privación de derechos políticos hasta por 5 años.
 
@@ -2484,3 +2498,29 @@ P.O. 29 DE SEPTIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con antelación a la entrada en vigor de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+A partir del inicio de la vigencia del presente Decreto, toda referencia al Código de Procedimientos Penales para el Estado de Aguascalientes que se realice en otras leyes, se entenderá hecha al Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos penales iniciados por las conductas descritas en los tipos penales contemplados en los Artículos 122 y 123 del Código Penal para el Estado de Aguascalientes, que se derogan en el presente Decreto, se seguirán en los mismos términos, sin que a ello importe que haya traslación de tipo y sean ahora contemplados con sus mismos elementos típicos y sus mismas sanciones en las modalidades de la violación equiparada del Artículo 120 del mismo ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, las referencias tanto a la Fiscalía General del Estado como al Fiscal General del Estado del presente Decreto, se entenderán hechas a la Procuraduría General de Justicia y al Procurador General de Justicia respectivamente.
+
+###### ARTÍCULO SEXTO.
+
+En tanto no inicie su vigencia el Sistema Penal Acusatorio las referencias hechas en el presente Decreto a delitos de prisión preventiva oficiosa se entenderán realizada (sic) a delitos graves, según sea el caso.
