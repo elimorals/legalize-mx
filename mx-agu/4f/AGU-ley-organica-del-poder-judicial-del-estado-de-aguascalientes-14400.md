@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2014-06-11"
+last_updated: "2015-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS QUINTO DE LA DECLARATORIA Y PRIMERO TRANSITORIO DEL DECRETO No. 63 DEL P.O. 11 DE JUNIO DE 2014, POR EL QUE SE APRUEBA LA INCORPORACIÓN DEL SISTEMA PENAL ACUSATORIO EN EL RÉGIMEN JURÍDICO LOCAL Y DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE AGUASCALIENTES, ASÍ COMO SEÑALA QUE DICHA DECLARATORIA SURTIRÁ SUS EFECTOS EL SIETE DE SEPTIEMBRE DE DOS MIL CATORCE PARA EL INICIO DE VIGENCIA DEL REFERIDO CÓDIGO, POR LO QUE QUEDARÁN DEROGADOS, DE MANERA PROGRESIVA Y GRADUAL, LOS PRECEPTOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES, CON LA SALVEDAD DE LOS PROCEDIMIENTOS QUE SE ESTÉN TRAMITANDO CON BASE EN SUS DISPOSICIONES, EN CUYO CASO SE SEGUIRÁN APLICANDO HASTA SU RESOLUCIÓN.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2015.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -103,7 +103,9 @@ IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
 V.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-VI.- No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Procurador General de Justicia, Diputado Federal o Local o dirigente de un partido político durante el año previo al día de su designación.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+VI.- No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Diputado Federal o Local o dirigente de un partido político durante el año previo al día de su designación.
 
 ### CAPITULO III. Del Pleno del Tribunal
 
@@ -139,7 +141,9 @@ II.- Expedir su Reglamento Interior, así como los acuerdos, lineamientos y regl
 
 III.- Conocer de las competencias que se susciten en materia civil, mercantil, familiar o penal entre los Jueces del Estado y entre éstos y las autoridades administrativas del Estado;
 
-IV.- Conocer en los términos de la Constitución Local, de los procesos que por delitos oficiales se sigan en contra del Gobernador, de los Diputados, del Secretario General de Gobierno, del Procurador General de Justicia y de los Regidores y Síndicos de los Ayuntamientos;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+IV.- Conocer en los términos de la Constitución Local, de los procesos que por delitos oficiales se sigan en contra del Gobernador, de los Diputados, del Secretario General de Gobierno, del Fiscal General del Estado y de los Regidores y Síndicos de los Ayuntamientos;
 
 V.- Declarar si ha lugar a formación de causa en contra de los Jueces, por delitos oficiales o de orden común;
 
@@ -213,6 +217,36 @@ Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Adminis
 
 Todo Magistrado que pretenda reelegirse, será sometido al procedimiento establecido en el artículo 10 de esta Ley, el cual iniciará, por lo menos, noventa días antes de que concluya su encargo.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+ARTICULO 10 B.- Luego de que por denuncia o querella se tenga conocimiento de la posible comisión de un delito del fuero común por parte de un juez, la Fiscalía General del Estado, procederá de inmediato a la investigación de los hechos, de conformidad con el Código de Procedimientos Penales aplicable al caso.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+ARTICULO 10 C.- Si de la investigación realizada por el Ministerio Público, resultara procedente el ejercicio de la acción penal, el Fiscal General del Estado, se dirigirá por escrito al Supremo Tribunal de Justicia, acompañando los indicios que tuviere, solicitando a éste, la declaración de que ha lugar a formación de causa.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+ARTICULO 10 D.- Recibida la solicitud del Fiscal General del Estado, el Presidente del Supremo Tribunal de Justicia citará al Juzgador a una audiencia, que se celebrará dentro de las 48 horas siguientes a la recepción de la solicitud, en la que, éste último podrá ofrecer pruebas y formular alegatos; una vez oído, el Supremo Tribunal de Justicia declarará si ha lugar o no a formación de causa en contra del Juez.
+
+La falta de asistencia del Juez a su audiencia, no impedirá la celebración de ésta.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+ARTICULO 10 E.- Si la resolución se pronuncia en el sentido de no haber lugar a formación de causa, se devolverá todo lo allegado al Supremo Tribunal de Justicia a la Fiscalía General del Estado, para que cuando el Juez deje de desempeñar su cargo, se proceda conforme a derecho.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+ARTICULO 10 F.- Si se declarare que ha lugar a formación de causa, se suspenderá en sus funciones al juez y con testimonio de dicha resolución, se devolverá todo lo allegado al Supremo Tribunal de Justicia a la Fiscalía General del Estado, para que consigne la averiguación previa o en su caso formule imputación ante el Juez legalmente competente, atendiendo a las reglas que al efecto establezca el Código de Procedimientos Penales aplicable.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+ARTICULO 10 G.- Los Magistrados del Supremo Tribunal de Justicia no serán recusables cuando se trate de resolver sobre si ha o no lugar a formación de causa.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
+ARTICULO 10 H.- No será motivo de recusación o excusa para los Magistrados del Supremo Tribunal de Justicia que conozcan en segunda instancia de algún caso en contra de los jueces, el hecho de haber resuelto sobre la formación de causa.
+
 ### CAPITULO IV. De la Presidencia del Supremo Tribunal de Justicia
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 1995)</small>
@@ -233,9 +267,9 @@ III.- Llevar la correspondencia oficial del Tribunal;
 
 IV.- Visitar por sí o mandar visitar de acuerdo con las leyes relativas, los Juzgados y Centros de Readaptación Social del Estado, facultad que se podrá delegar en Magistrados Visitadores que él designará;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-V.- Presentar anualmente y por escrito, ante el Pleno del Congreso del Estado a más tardar el 15 de enero, informe correspondiente al año inmediato anterior, sobre la actividad jurisdiccional de los tribunales respecto a sus resoluciones, sentencias y la ejecución de las mismas, así como de la Administración de los recursos financieros del Poder Judicial;
+V.- Presentar anualmente a más tardar el último día del mes de febrero, ante el Pleno del Congreso del Estado un informe por escrito correspondiente al año inmediato anterior, sobre el estado que guarda la administración de justicia, en cuanto a la actividad jurisdiccional de los tribunales respecto a sus resoluciones, sentencias y la ejecución de las mismas, así como la actividad administrativa, precisando lo relativo al ejercicio de los recursos financieros del Poder Judicial;
 
 VI.- Convocar, presidir y dirigir los debates y conservar el orden de las sesiones del Pleno;
 
@@ -318,6 +352,10 @@ I.- La Sala Civil de la Segunda Instancia en materia civil, mercantil y familiar
 II.- La Sala Penal de la Segunda Instancia en materia de su competencia y de los demás asuntos y diligencias que les encomienden las leyes, teniendo facultades para aplicar las correcciones disciplinarias a que se hagan acreedores los litigantes en los asuntos de su competencia.
 
 III.- El Magistrado de la Sala Penal que para el efecto designe la propia Sala, conocerá y asumirá en carácter de Magistrado Especializado en Ejecución de. Penas y Medidas de Seguridad, a fin de resolver el recurso de apelación previsto en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes en contra de las resoluciones del Juez de Ejecución.
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2015)</small>
+
+IV.- El Magistrado de la Sala Penal que para el efecto designe la propia Sala, conocerá y asumirá el carácter de Magistrado Especializado en el Sistema Penal Acusatorio, a fin de resolver el recurso de apelación que se interponga en contra de las resoluciones dictadas por los Jueces de Control; la Sala Penal tendrá competencia para conocer de las resoluciones que sean dictadas por los Jueces o Tribunales de Juicio Oral.
 
 ###### ARTICULO 18.
 
@@ -1409,7 +1447,7 @@ El que retenga en su poder indebidamente documentos que conforme a la ley perten
 
 ###### ARTICULO 77.
 
-Toda autoridad que solicite la entrega de documentos pertenecientes al archivo judicial, los pedirá por oficio en que se inserte el acuerdo o resolución que motive la petición y el oficial archivista no los entregará si no (sic) previo recibo que otorgue el interesado y que se agregará al legajo de donde se tomen, cuando el Juez a quien se pidiere un documento creyere infundada la solicitud lo manifestará así a la autoridad requirente y en caso de que ésta insistiere en tal solicitud ocurrirán ambos ante el Supremo Tribunal para que éste resuelva lo que estime pertinente.
+Toda autoridad que solicite la entrega de documentos pertenecientes al archivo judicial, los pedirá por oficio en que se inserte el acuerdo o resolución que motive la petición y el oficial archivista no los entregará si no previo recibo que otorgue el interesado y que se agregará al legajo de donde se tomen, cuando el Juez a quien se pidiere un documento creyere infundada la solicitud lo manifestará así a la autoridad requirente y en caso de que ésta insistiere en tal solicitud ocurrirán ambos ante el Supremo Tribunal para que éste resuelva lo que estime pertinente.
 
 ###### ARTICULO 78.
 
@@ -1439,11 +1477,9 @@ El fondo para la administración de justicia, se integra con:
 
 a).- Los intereses que generen las inversiones que se hagan por los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del fuero común;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
-
-b).- Los objetos o instrumentos materia del delito que sean de uso lícito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas del Código Penal para el Estado de Aguascalientes y el Código de Procedimientos Penales para el Estado de Aguascalientes. La declaración de que tales cantidades pasan a formar parte del Fondo se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con el Código de Procedimientos Penales para el Estado de Aguascalientes;
+b).- Los objetos o instrumentos materia del delito que sean de uso lícito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas del Código Penal para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales. La declaración de que tales cantidades pasan a formar parte del Fondo se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con el Código Nacional de Procedimientos Penales;
 
 c).- Los muebles y valores depositados por cualquier motivo ante los tribunales de justicia del fuero común, que no fueren retirados por el depositario o por quien tenga derecho a ello, dentro del plazo de noventa días previo requerimiento;
 
@@ -1451,11 +1487,9 @@ d).- Donaciones, herencias y legados;
 
 e).- Las multas y sustituciones de pena impuesta por los órganos jurisdiccionales estatales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
-
-f).- El monto de la reparación del daño cuando la parte ofendida renuncie a él o no reclame dentro del plazo de seis meses, a partir de la notificación de que queda a su disposición. La declaración de que tales cantidades pasan a formar parte del fondo, se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con el Código de Procedimientos Penales para el Estado de Aguascalientes.
+f).- El monto de la reparación del daño cuando la víctima u ofendido renuncie a él o no reclame dentro del plazo de seis meses, a partir de la notificación de que queda a su disposición. La declaración de que tales cantidades pasan a formar parte del fondo, se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con el Código Nacional de Procedimientos Penales.
 
 ###### ARTICULO 83.
 
@@ -2095,7 +2129,7 @@ Respecto a la aplicación de sanciones en materia de justicia para adolescentes,
 
 ###### ARTÍCULO SÉPTIMO.
 
-Mientras no exista la infraestructura necesaria, las áreas a la que se refiere el Artículo 65 de la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes, podrán funcionar en un mismo conjunto arquitectónico, siempre que éstos se instalen con la debida separación.
+Mientras no exista la infraestructura necesaria, las áreas a la (sic) que se refiere el Artículo 65 de la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes, podrán funcionar en un mismo conjunto arquitectónico, siempre que éstos se instalen con la debida separación.
 
 En tanto no se cuente con los centros especiales precisados en el Artículo 75 de la Ley de Ejecución de Sanciones Penales, en los centros existentes se establecerán secciones especiales y, en su defecto, el Ejecutivo del Estado, a través de la Dirección General de Reinserción Social, podrá solicitar la colaboración de las instituciones de salud pública y asistencia social que existan en el Estado, formalizando con ellos los convenios de colaboración procedentes.
 
@@ -2290,3 +2324,39 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase copia del presente Decreto a los Poderes Ejecutivo y Judicial del Estado, para su conocimiento y efectos a que haya lugar.
+
+P.O. 2 DE FEBRERO DE 2015.
+
+DECRETO NÚMERO 140, POR EL QUE SE REFORMAN LOS ARTÍCULOS 5°, FRACCIÓN VI; 9º, FRACCIÓN IV; Y 82, INCISOS B) Y F); ASÍ MISMO SE ADICIONAN LOS ARTÍCULOS 10 B; 10 C; 10 D; 10 E; 10 F; 10 G; Y 10 H; Y LA FRACCIÓN IV, AL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con antelación a la entrada en vigor de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+A partir del inicio de la vigencia del presente Decreto, toda referencia al Código de Procedimientos Penales para el Estado de Aguascalientes que se realice en otras leyes, se entenderá hecha al Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos penales iniciados por las conductas descritas en los tipos penales contemplados en los Artículos 122 y 123 del Código Penal para el Estado de Aguascalientes, que se derogan en el presente Decreto, se seguirán en los mismos términos, sin que a ello importe que haya traslación de tipo y sean ahora contemplados con sus mismos elementos típicos y sus mismas sanciones en las modalidades de la violación equiparada del Artículo 120 del mismo ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, las referencias tanto a la Fiscalía General del Estado como al Fiscal General del Estado del presente Decreto, se entenderán hechas a la Procuraduría General de Justicia y al Procurador General de Justicia respectivamente.
+
+###### ARTÍCULO SEXTO.
+
+En tanto no inicie su vigencia el Sistema Penal Acusatorio las referencias hechas en el presente Decreto a delitos de prisión preventiva oficiosa se entenderán realizada (sic) a delitos graves, según sea el caso.
+
+P.O. 2 DE FEBRERO DE 2015.
+
+DECRETO NO. 141 POR EL QUE SE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 11, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
