@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2014-12-22"
+last_updated: "2015-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "HID"
 ---
 # LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 2 DE FEBRERO DE 2015 Y 6 DE ABRIL DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
-
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE FEBRERO DE 2015</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -1271,9 +1269,7 @@ de las autoridades Estatales, Municipales y
 
 Educativas en documentos originales o copias
 
-certificadas;
-
-1.5 salarios mínimos.
+certificadas; 1.5 salarios mínimos.
 
 II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
@@ -1281,7 +1277,9 @@ III.- Por emisión de opinión favorable del Ejecutivo del Estado, para uso, con
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-a.- Opinión para Paraestatales, Proveedores y macroindustrias 13 salarios mínimos;
+a.- Opinión para Paraestatales, Proveedores 13 salarios mínimos;
+
+y macroindustrias
 
 b.- Opinión para mediana industria; 8 salarios mínimos.
 
@@ -1325,11 +1323,23 @@ equipos y maquinaria especiales; 50 a 300 salarios mínimos.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-III.- Por la supervisión y emisión de opiniones técnicas de factibilidad de usos de suelo de impacto significativo 50 a 500 salarios mínimos;
+III.- Por la supervisión y emisión de
+
+opiniones técnicas de factibilidad de
+
+usos de suelo de impacto significativo 50 a 500 salarios mínimos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-IV.- Por la supervisión y emisión de opiniones técnicas de instalaciones diversas relacionadas con Gas L.P., estaciones de carburación, bodega y derivados del Petróleo 275 salarios mínimos;
+IV.- Por la supervisión y emisión de
+
+opiniones técnicas de instalaciones
+
+diversas relacionadas con Gas L.P.,
+
+estaciones de carburación, bodega
+
+y derivados del Petróleo 275 salarios mínimos;
 
 V.- Por el Registro Estatal de Consultores
 
@@ -1379,7 +1389,9 @@ de apeo y deslinde 3 salarios mínimos.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-III.- Por la inscripción de aportaciones de bienes inmuebles 75 salarios mínimos;
+III.- Por la inscripción de aportaciones de
+
+bienes inmuebles 75 salarios mínimos;
 
 IV.- Por la inscripción de propiedad en
 
@@ -1397,23 +1409,37 @@ bienes inmuebles 2 salarios mínimos.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VI.- Por la inscripción de contratos de compra-venta,
+VI.- Por la inscripción de contratos de
 
-donación, cesión de derechos, transmisión de dominio en ejecución de fideicomiso, permuta, o usucapión, adjudicaciones judiciales y por herencia, así como por cualquier operación que implique transmisión de propiedad, por cada predio 75 salarios mínimos;
+compra-venta, donación, cesión de derechos,
+
+transmisión de dominio en ejecución de
+
+fideicomiso, permuta, o usucapión, adjudicaciones
+
+judiciales y por herencia, así como por
+
+cualquier operación que implique transmisión de
+
+propiedad, por cada predio 75 salarios mínimos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 VII.- Por la inscripción de resoluciones de información
 
-Ad'perpetuam, se pagará por cada predio
-
-75 salarios mínimos;
+Ad'perpetuam, se pagará por cada predio 75 salarios mínimos;
 
 VIII.- Por la inscripción de inmatriculación
 
 se pagará por predio 5 salarios mínimos
 
-IX.- Por inscripción de actos, contratos o convenios por los que se divida, subdivida, lotifique, relotifique o fraccione un predio, se pagará de la manera siguiente:
+IX.- Por inscripción de actos, contratos o
+
+convenios por los que se divida, subdivida,
+
+lotifique, relotifique o fraccione un predio,
+
+se pagará de la manera siguiente:
 
 a).- Cuando se trate de predios ubicados en zonas
 
@@ -1433,7 +1459,9 @@ plazos con reserva de dominio 75 salarios mínimos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-XI.- Por la inscripción de fusión de predios, se pagará, por cada uno 2 salarios mínimos;
+XI.- Por la inscripción de fusión de predios,
+
+se pagará, por cada uno 2 salarios mínimos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -1579,7 +1607,9 @@ III.- Por inscripción de operaciones que los limiten o
 
 graven, como son: alquiler, cesión de crédito y
 
-obligaciones, embargos, prenda, resoluciones o convenios judiciales y usufructo 15 salarios mínimos;
+obligaciones, embargos, prenda, resoluciones o
+
+convenios judiciales y usufructo 15 salarios mínimos;
 
 IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
@@ -1595,7 +1625,9 @@ previstos; 2 salarios mínimos; y
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VII.- Por cancelación de cualquiera de los actos contenidos en este artículo, se pagará 1 salario mínimo.
+VII.- Por cancelación de cualquiera de los actos
+
+contenidos en este artículo, se pagará 1 salario mínimo.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -1607,13 +1639,19 @@ Los derechos generados por la inscripción de actos contenidos en documentos rel
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-I.- Por la inscripción de escrituras constitutivas o aumento de capital en las sociedades de capital variable 30 salarios mínimos;
+I.- Por la inscripción de escrituras constitutivas
+
+o aumento de capital en las sociedades de capital
+
+variable 30 salarios mínimos;
 
 II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-III.- Por la inscripción de actas y estatutos de sociedades cooperativas 5 salarios mínimos;
+III.- Por la inscripción de actas y estatutos
+
+de sociedades cooperativas 5 salarios mínimos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -1623,15 +1661,23 @@ personas morales. 5 salarios mínimos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-V.- Por la inscripción de disolución y liquidación cuando conste en un sólo documento 5 salarios mínimos;
+V.- Por la inscripción de disolución y liquidación
+
+cuando conste en un sólo documento 5 salarios mínimos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VI.- Por la inscripción de actas de asamblea de socios o de junta de administradores 5 salarios mínimos;
+VI.- Por la inscripción de actas de asamblea
+
+de socios o de junta de administradores 5 salarios mínimos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VII.- Por la inscripción de cualquier modificación al acta constitutiva, siempre que no se refiera a un aumento de capital social. 5 salarios mínimos;
+VII.- Por la inscripción de cualquier modificación
+
+al acta constitutiva, siempre que no se refiera
+
+a un aumento de capital social. 5 salarios mínimos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -1651,11 +1697,17 @@ de poderes. 2 salarios mínimos.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-XI.- Por la inscripción de venta, cesión o cualquier acto que signifique transmisión de acciones se pagará 15 salarios mínimos; y
+XI.- Por la inscripción de venta, cesión o
+
+cualquier acto que signifique transmisión de
+
+acciones se pagará 15 salarios mínimos; y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-XII.- Por la inscripción de cualquier otro título registrable conforme a la Ley. 2 salarios mínimos.
+XII.- Por la inscripción de cualquier otro
+
+título registrable conforme a la Ley. 2 salarios mínimos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1965,7 +2017,7 @@ I. Por derecho a examen para obtener la
 
 Constancia de aspirante a FIAT de Notario; 45 salarios mínimos
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 II.- Por solicitud de examen de oposición o
 
@@ -2067,7 +2119,7 @@ b) Urgentes 8 salarios mínimos
 
 XIII. Por deposito de testamento ológrafo 7 salarios mínimos
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 XIII BIS. Por informe de testamento simplificado 2.5 salarios mínimos
 
@@ -2371,7 +2423,7 @@ administrativo de los prestadores de servicios
 
 de seguridad privada con autorización estatal; y 0.5 salarios mínimos
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 X.- Por la expedición de la cédula de registro del
 
@@ -2379,57 +2431,77 @@ personal operativo y administrativo de los
 
 prestadores de servicios de seguridad privada 2 salarios mínimos
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 ARTICULO 97 BIS.- Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Seguridad Pública por conducto del Instituto de Formación Profesional, causarán y pagarán de la siguiente forma:
 
-I.- Por la capacitación básica Individual de
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+I. Por la capacitación básica Individual de
 
 personal de la policía estatal acreditable 86.24 salarios mínimos;
 
-II.- Por la capacitación especializada individual
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+II. Por la capacitación especializada individual
 
 de personal de la policía estatal acreditable 102 salarios mínimos;
 
-III.- Por la capacitación básica individual de
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+III. Por la capacitación básica individual de
 
 custodio penitenciario 102 salarios mínimos;
 
-IV.- Por la capacitación especializada individual
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+IV. Por la capacitación especializada individual
 
 de custodio penitenciario 102 salarios mínimos;
 
-V (SIC).-
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-VI.- Por la expedición de constancia de estudio 1.5 salarios mínimos;
+V. Por la expedición de constancia de estudio 1.5 salarios mínimos;
 
-VII.- Por la expedición de historial académico
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+VI. Por la expedición de historial académico
 
 individual 3 salarios mínimos;
 
-VIII.- Por la expedición de credencial como alumno
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+VII. Por la expedición de credencial como alumno
 
 del Instituto de Formación Profesional 1 salario mínimo;
 
-IX.- Por la capacitación Inicial Individual para
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+VIII. Por la capacitación Inicial Individual para
 
 personal operativo de los prestadores de servicio
 
 de seguridad privada 20 salarios mínimos;
 
-X.- Por la constancia de autorización a terceros
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+IX. Por la constancia de autorización a terceros
 
 para impartir capacitación inicial o actualización
 
 en el área de desarrollo humano 60 salarios mínimos;
 
-XI.- Por la Constancia de autorización a terceros
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+X. Por la Constancia de autorización a terceros
 
 para impartir capacitación inicial o actualización
 
 en el área jurídica 60 salarios mínimos; y
 
-XII.- Por la constancia de autorización a terceros
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+XI. Por la constancia de autorización a terceros
 
 para impartir capacitación inicial o actualización
 
@@ -2467,17 +2539,25 @@ b).- Los propietarios o poseedores de aeronaves que realicen servicios de auxili
 
 c).- Aeronaves que transporten a Gobernadores y Secretarios de Estado.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 ARTICULO 98 BIS.- Los Derechos por la prestación de los servicios del Estado, a través del Centro Estatal de Evaluación y Control de Confianza, se causarán y pagarán de la siguiente forma:
 
-I.- Evaluación Psicológica 10 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-II.- Evaluación Poligráfica 10 salarios mínimos;
+I. Evaluación Psicológica 10 salarios mínimos;
 
-III.- Evaluación Médico-Toxicológica 26 salarios mínimos; y
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-IV.- Evaluación de Entorno Socioeconómico 20 salarios mínimos.
+II. Evaluación Poligráfica 10 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+III. Evaluación Médico-Toxicológica 26 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+IV. Evaluación de Entorno Socioeconómico 20 salarios mínimos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2511,7 +2591,7 @@ c) (sic) Por la primera hoja 1 salario mínimo
 
 d) Por cada hoja excedente $5.00
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 Las dependencias que expidan copias certificadas y no cuenten con montos establecidos para estos efectos, deberán cobrar conforme a las fracciones I y II de este artículo.
 
@@ -2895,7 +2975,7 @@ d).- Gran Industria 300 salarios mínimos
 
 5.- Licencia de usos del suelo segregados: 140 salarios mínimos.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 6.- Expedición de constancia de viabilidad 17 salarios mínimos.
 
@@ -2953,27 +3033,37 @@ e).- Por autorización y certificación de libros de
 
 actas de régimen de propiedad en condominio. 10 salarios mínimos
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 f).- Expedición de licencias de división familiar 10 salarios mínimos
 
 2.- Para la autorización de fraccionamiento o subdivisiones de tipo residencial, campestre Industrial y comercial se cobrarán derechos a razón de 8% del valor catastral de la superficie del terreno, más el 7.5% del valor de las obras de urbanización.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 3.- Autorización de Fusión de Predios:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) De hasta 5,000 m2 20 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) De 5,001 m2 y hasta 9,999 m2 30 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 c) De 10,000 m2 y hasta 20,000 m2 40 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 d) En predios con extensión superior a los
 
 20,000 m2, se pagará, por cada 10,000 m2
 
 adicionales 1 salario mínimos (sic).
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 Para los efectos del presente numeral, se tomará en cuenta la superficie resultante de la fusión.
 
@@ -3107,7 +3197,7 @@ b).- Por supervisión y asesoría en la elaboración 10 salarios mínimos;
 
 32.- Por concepto de autorización de venta de lotes 10 salarios mínimos;
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 33.- Expedición de derecho de preferencia 3 salarios mínimos.
 
@@ -3291,41 +3381,61 @@ b).- Ponente local. 30 salarios mínimos
 
 ### CAPÍTULO SÉPTIMO BIS. SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 ARTICULO 108 A.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, a través de la Dirección General de Protección y Control de la Contaminación, se causaran y pagaran de la siguiente forma:
 
-I.- Los Centros de Verificación Vehicular, cubrirán los
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+I. Los Centros de Verificación Vehicular, cubrirán los
 
 siguientes derechos tratándose de los siguientes
 
 trámites:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) autorización para operar 155.38 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 b) renovación de la autorización 77.69 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 c) autorización de ampliación del servicio a través
 
 de nuevas líneas 155.38 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 d) autorización de ampliación del servicio en las
 
 líneas a otro tipo de combustible 30.77 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 e) autorización de cambio de domicilio 77.69 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 f) autorización de cambio de titular 77.69 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 g) emisión de gafete de acreditación para el
 
 personal. 0.77 salarios mínimos; y
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 h) autorización de bitácora de operación y
 
 mantenimiento 0.77 salarios mínimos;
 
-II.- Tratándose de talleres de diagnóstico para
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+II. Tratándose de talleres de diagnóstico para
 
 determinar la eficiencia del convertidor catalítico,
 
@@ -3333,19 +3443,27 @@ cubrirán los derechos tratándose de los siguientes
 
 trámites:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) evaluación de gabinete-campo para la apertura
 
 de línea 7.69 salarios mínimos; y
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 b) autorización de apertura 38.46 salarios mínimos;
 
-III.- Por la reposición de certificados de verificación
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+III. Por la reposición de certificados de verificación
 
 vehicular del semestre inmediato anterior o en
 
 curso que soliciten los usuarios automovilistas 0.46 salarios mínimos;
 
-IV.- Los Centros de Verificación Vehicular o las
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+IV. Los Centros de Verificación Vehicular o las
 
 unidades autorizadas para tal efecto deberán
 
@@ -3353,29 +3471,47 @@ ingresar, por cada certificado y holograma de
 
 aprobación:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) "2" (dos) 0.92 salarios mínimos;
 
-b) "O" (cero) 1.57 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+b) "0" (cero) 1.57 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 c) "00" (doble cero) 3.54 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 d) "1" (uno) 0.92 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 e) General 0.92 salarios mínimos;
 
-V.- Por cada holograma tipo EXENTO, expedido
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-exclusivamente por la Secretaría Medio Ambiente
+V. Por cada holograma tipo EXENTO, expedido
 
-y Recursos Naturales 1.21 salarios mínimos;
+exclusivamente por la Secretaría (sic) Medio
 
-VI.- Por la evaluación y dictaminación de estudios de
+Ambiente y Recursos Naturales 1.21 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+VI. Por la evaluación y dictaminación de estudios de
 
 impacto ambiental a empresas industriales y de
 
 servicios. cuando se trate de actividades de:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) bajo impacto:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1. en una superficie menor a una hectárea o
 
@@ -3383,27 +3519,45 @@ para obras que se constituyan de forma lineal
 
 de una longitud menor a cinco kilómetros 19.23 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2. en superficies de una a cinco hectáreas 42.31 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 3. en superficies de cinco a diez hectáreas 84.62 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 4. en superficies de diez a veinte hectáreas 169.23 salarios mínimos;
 
-5. (SIC)
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-6. en superficies de veinte a cuarenta hectáreas 211.54 salarios mínimos;
+5. en superficies de veinte a cuarenta hectáreas 211.54 salarios mínimos;
 
-7. en superficies de cuarenta a sesenta
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+6. en superficies de cuarenta a sesenta
 
 hectáreas 253.85 salarios mínimos;
 
-8. en superficies de sesenta a ochenta hectáreas 296.15 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-9. en superficies de ochenta a cien hectáreas 338.46 salarios mínimos; y
+7. en superficies de sesenta a ochenta hectáreas 296.15 salarios mínimos;
 
-10. en superficies de más de cien hectáreas 461.54 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+8. en superficies de ochenta a cien hectáreas 338.46 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+9. en superficies de más de cien hectáreas 461.54 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) mediano impacto:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1. en una superficie menor a una hectárea o
 
@@ -3411,25 +3565,45 @@ para obras que se constituyan de forma lineal
 
 de una longitud menor a cinco kilómetros 38.46 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2. en superficies de una a cinco hectáreas 84.62 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 3. en superficies de cinco a diez hectáreas 169.23 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 4. en superficies de diez a veinte hectáreas 338.46 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 5. en superficies de veinte a cuarenta hectáreas 423.08 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 6. en superficies de cuarenta a sesenta
 
 Hectáreas 507.69 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 7. en superficies de sesenta a ochenta hectáreas 592.31 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 8. en superficies de ochenta a cien hectáreas 676.92 salarios mínimos; y
 
-en superficies de más de cien hectáreas 769.23 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+9. en superficies de más de cien hectáreas 769.23 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 c) alto impacto:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1. en una superficie menor a una hectárea o
 
@@ -3437,71 +3611,121 @@ para obras que se constituyan de forma lineal
 
 de una longitud menor a cinco kilómetros 57.69 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2. en superficies de una a cinco hectáreas 126.92 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 3. en superficies de cinco a diez hectáreas 253.85 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 4. en superficies de diez a veinte hectáreas 507.69 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 5. en superficies de veinte a cuarenta hectáreas 634.62 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 6. en superficies de cuarenta a sesenta
 
 hectáreas 761.54 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 7. en superficies de sesenta a ochenta hectáreas 888.46 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 8. en superficies de ochenta a cien hectáreas 1,015.38 salarios mínimos; y
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 9. en superficies de más de cien hectáreas 1,153.85 salarios mínimos;
 
-VII.- Por la evaluación y dictaminación del informe
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+VII. Por la evaluación y dictaminación del informe
 
 preventivo:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) en una superficie menor a una hectárea 38.46 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) en superficies de una a cinco hectáreas 115.38 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 c) en superficies de cinco a diez hectáreas 230.77 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 d) en superficies de diez a veinte hectáreas 346.15 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 e) en superficies de veinte a cuarenta hectáreas 461.54 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 f) en superficies de cuarenta a sesenta hectáreas 576.92 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 g) en superficies de sesenta a ochenta hectáreas 692.31 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 h) en superficies de ochenta a cien hectáreas 807.69 salarios mínimos; y
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 i) en superficies de más de cien hectáreas 923.08 salarios mínimos;
 
-VIII.- Por la evaluación y dictaminación de estudios de
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+VIII. Por la evaluación y dictaminación de estudios de
 
 riesgo ambiental de las actividades consideradas
 
 como riesgosas. por capacidad de almacenamiento:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) hasta 100,000 litros 93.85 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) mayor de 100,000 litros 120.77 salarios mínimos;
 
-IX.- Por la ampliación de plazos y términos de
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+IX. Por la ampliación de plazos y términos de
 
 proyectos evaluados en materia de impacto
 
 ambiental: 33.85 salarios mínimos;
 
-X.- Por el cambio de titularidad del proyecto: 13.85 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-XI.- Por la autorización de modificaciones a proyectos
+X. Por el cambio de titularidad del proyecto: 13.85 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+XI. Por la autorización de modificaciones a proyectos
 
 evaluados en materia de impacto y riesgo
 
 ambiental: 26.15 salarios mínimos;
 
-XII.- Por emitir opinión técnica para verificar la
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+XII. Por emitir opinión técnica para verificar la
 
 factibilidad, la congruencia con el ordenamiento
 
@@ -3511,33 +3735,45 @@ a que debe sujetarse un proyecto, en materia de
 
 impacto ambiental:
 
-a) (sic)
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-b) con una superficie que sea menor a una
+a) con una superficie que sea menor a una
 
 hectárea 23.08 salarios mínimos;
 
-c) con una superficie de una hectárea y menor a
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+b) con una superficie de una hectárea y menor a
 
 cinco hectáreas 30.77 salarios mínimos;
 
-d) con una superficie de cinco hectáreas y menor a
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+c) con una superficie de cinco hectáreas y menor a
 
 diez hectáreas 38.46 salarios mínimos;
 
-e) con una superficie de diez hectáreas y menor a
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+d) con una superficie de diez hectáreas y menor a
 
 veinte hectáreas 46.15 salarios mínimos;
 
-f) con una superficie de veinte hectáreas y menor a
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+e) con una superficie de veinte hectáreas y menor a
 
 cuarenta hectáreas 53.85 salarios mínimos; y
 
-g) con una superficie de cuarenta hectáreas en
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+f) con una superficie de cuarenta hectáreas en
 
 adelante 61.54 salarios mínimos; y
 
-h) En caso de que por las condiciones del proyecto,
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+g) En caso de que por las condiciones del proyecto,
 
 la Secretaría determine que se requiere visita
 
@@ -3545,13 +3781,15 @@ técnica en campo para la dictaminación, además
 
 del pago de derechos que corresponda conforme
 
-a las fracciones a) a g) anteriores, el promovente
+a las fracciones a) a g) (sic) anteriores, el promovente
 
 deberá cubrir el importe correspondiente a la
 
 visita técnica, mismo que asciende a 30 salarios mínimos;
 
-XIII.- Por concepto de entrevista, análisis, validación y la
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+XIII. Por concepto de entrevista, análisis, validación y la
 
 inscripción al padrón de prestadores de servicios
 
@@ -3559,43 +3797,69 @@ técnicos ambientales, deberán cubrirse por área de
 
 interés; tratándose de:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) persona moral 138.46 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) persona física 76.92 salarios mínimos;
 
-XIV.- Por el refrendo y actualización anual al padrón de
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+XIV. Por el refrendo y actualización anual al padrón de
 
 prestadores de servicios técnicos ambientales:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) persona moral 69.23 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) persona física 38.46 salarios mínimos;
 
-XV.- Por el análisis y autorización de proyectos para el
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+XV. Por el análisis y autorización de proyectos para el
 
 transporte de residuos de manejo especial:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) de uno a dos vehículos 26.92 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) de tres a cinco vehículos 38.46 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 c) de seis a diez vehículos 65.38 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 d) de once a quince vehículos 88.46 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 e) de dieciséis a veinte vehículos 115.38 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 f) de veinte vehículos en adelante 153.85 salarios mínimos;
 
-XVI.- Por el refrendo y actualización anual de la
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+XVI. Por el refrendo y actualización anual de la
 
 autorización de proyectos para el transporte de
 
 residuos de manejo especial por cada vehículo: 7.69 salarios mínimos;
 
-XVII.- (SIC)
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-XVIII.- Evaluación de factibilidad de operación de
+XVII. Evaluación de factibilidad de operación de
 
 escombreras o sitios de disposición final de residuos
 
@@ -3603,7 +3867,9 @@ provenientes de la construcción, por hectárea o
 
 fracción: 76.92 salarios mínimos;
 
-XIX.- Por la revisión y autorización de bitácora de control
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+XVIII. Por la revisión y autorización de bitácora de control
 
 de bancos pétreos, bitácora de operación de
 
@@ -3611,305 +3877,531 @@ equipos de combustión y bitácora de generación de
 
 residuos de manejo especial:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) micro industria o servicio con 1 a 15
 
 trabajadores 3.85 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 b) pequeña industria o servicio con 16 a 50
 
 trabajadores 6.92 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 c) mediana industria o servicio con 51 a 250
 
 trabajadores 10.00 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 d) gran industria o servicio de 251 trabajadores en
 
 adelante 15.38 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 e) bancos pétreos 6.92 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 f) ladrilleras 0.77 salario mínimo;
 
-XX.- Por la autorización de la licencia ambiental estatal:
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+XIX. Por la autorización de la licencia ambiental estatal:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 a) micro industria o servicio con 1 a 15
 
 trabajadores 13.85 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) pequeña industria o servicio con 16 a 50
 
 trabajadores 22.31 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 c) mediana industria o servicio con 51 a 250
 
 trabajadores 30.77 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 d) gran industria o servicio de 251 trabajadores en
 
 adelante 43.08 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 e) bancos pétreos 8.46 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 f) ladrilleras 3.85 salarios mínimos;
 
-XXI.- Por la revisión y autorización de la cédula de
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+XX. Por la revisión y autorización de la cédula de
 
 operación anual de empresas y servicios en
 
 funcionamiento:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) micro industria o servicio con 1 a 15
 
 trabajadores 13.85 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) pequeña industria o servicio con 16 a 50
 
 trabajadores 20.77 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 c) mediana industria o servicio con 51 a 250
 
 trabajadores 29.23 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 d) gran industria o servicio de 251 trabajadores en
 
 adelante 43.85 salarios mínimos; y
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 e) ladrilleras 3.85 salarios mínimos;
 
-XXII.- Por la autorización, de cédula de operación anual de
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+XXI. Por la autorización, de cédula de operación anual de
 
 bancos pétreos en funcionamiento:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) superficie menor a una hectárea 23.08 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) superficie de una hectárea y hasta de menos de
 
 cinco hectáreas 30.77 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 c) superficie de cinco hectáreas y hasta de menos
 
 de diez hectáreas 38.46 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 d) superficie mayor de diez hectáreas y hasta de
 
 menos de veinte hectáreas 46.15 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 e) superficie mayor de veinte hectáreas y hasta de
 
 menos de cuarenta hectáreas 53.85 salarios mínimos; y
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 f) superficie mayor de cuarenta hectáreas 61.54 salarios mínimos;
 
-XXIII.- Por las evaluaciones y autorizaciones
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+XXII. Por las evaluaciones y autorizaciones
 
 relacionadas con residuos de manejo especial:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) Por la autorización del plan de manejo:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1. micro industria o servicio con 1 a 10
 
 Trabajadores 5.38 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2. pequeña industria o servicio con 11 a 50
 
 Trabajadores 6.92 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 3. mediana industria o servicio con 51 a 250
 
 trabajadores 8.46 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 4. gran industria o servicio de 251 trabajadores
 
 en adelante 10.00 salarios mínimos; y
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 5. bancos pétreos 10.77 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) por la evaluación de manifiestos y registro de
 
 empresas
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 1. micro industria o servicio con 1 a 10
 
 trabajadores 5.38 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 2. pequeña industria o servicio con 11 a 50
 
 trabajadores 6.92 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 3. mediana industria o servicio con 51 a 250
 
 trabajadores 8.46 salarios mínimos;
 
-4. (SIC)
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-5. gran industria o servicio de 251 trabajadores
+4. gran industria o servicio de 251 trabajadores
 
 en adelante 10.00 salarios mínimos;
 
-6. bancos pétreos 10.77 salarios mínimos; y
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-7. ladrilleras 3.85 salarios mínimos;
+5. bancos pétreos 10.77 salarios mínimos; y
 
-XXIV.- Por la expedición del certificado de análisis de
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+6. ladrilleras 3.85 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+XXIII. Por la expedición del certificado de análisis de
 
 contaminantes realizados por el laboratorio
 
 ambiental, cuando se trate de:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) agua:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1. residual:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 1.1 arsénico 2.05 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1.2 cadmio 2.05 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 1.3 cianuros 3.62 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1.4 cobre 1.81 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 1.5 cromo hexavalente 1.45 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1.6 demanda bioquímica de oxigeno 1.81 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 1.7 grasas y aceites 1.81 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1.8 materia flotante 0.60 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 1.9 mercurio 2.05 salarios mínimos;
 
-1.10 (SIC)
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-1.11 níquel 1.81 salarios mínimos;
+1.10 níquel 1.81 salarios mínimos;
 
-1.12 plomo 2.05 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-1.13 potencial hidrogeno 0.60 salarios mínimos;
+1.11 plomo 2.05 salarios mínimos;
 
-1.14 solidos suspendidos totales 1.32 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-1.15 solidos sedimentables 0.60 salarios mínimos;
+1.12 potencial hidrogeno 0.60 salarios mínimos;
 
-1.16 temperatura 0.60 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-1.17 zinc 1.81 salarios mínimos;
+1.13 solidos suspendidos totales 1.32 salarios mínimos;
 
-1.18 nitrógeno total 2.65 salarios mínimos; y
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-1.19 fosforo total 1.81 salarios mínimos;
+1.14 solidos sedimentables 0.60 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+1.15 temperatura 0.60 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+1.16 zinc 1.81 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+1.17 nitrógeno total 2.65 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+1.18 fosforo total 1.81 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 2. para consumo humano:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2.1 color 0. 72 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 2.2 olor y sabor 0. 72 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2.3 turbiedad 0.60 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 2.4 aluminio 2.05 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2.5 arsénico 2.05 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 2.6 bario 2.05 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2.7 cadmio 2.05 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 2.8 cianuro 3.62 salarios mínimos;
 
-2.9 (SIC)
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-2.10 cloro residual libre 0. 72 salarios mínimos;
+2.9 cloro residual libre 0. 72 salarios mínimos;
 
-2.11 cloruros totales 1.45 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-2.12 cobre 1.81 salarios mínimos;
+2.10 cloruros totales 1.45 salarios mínimos;
 
-2.13 cromo total 1.81 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-2.14 dureza total 1.45 salarios mínimos;
+2.11 cobre 1.81 salarios mínimos;
 
-2.15 fierro 1.81 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-2.16 fluoruros 2.05 salarios mínimos;
+2.12 cromo total 1.81 salarios mínimos;
 
-2.17 manganeso 1.81 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-2.18 mercurio 2.05 salarios mínimos;
+2.13 dureza total 1.45 salarios mínimos;
 
-2.19 nitratos 2.05 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-2.20 nitritos 2.05 salarios mínimos;
+2.14 fierro 1.81 salarios mínimos;
 
-2.21 nitrógeno amoniacal 2.05 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-2.22 potencial hidrogeno 0.60 salarios mínimos;
+2.15 fluoruros 2.05 salarios mínimos;
 
-2.23 plomo 2.05 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-2.24 sodio 1.81 salarios mínimos;
+2.16 manganeso 1.81 salarios mínimos;
 
-2.25 solidos disueltos totales 1.32 salarios mínimos;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-2.26 sulfatos 1.81 salarios mínimos;
+2.17 mercurio 2.05 salarios mínimos;
 
-2.27 sustancias activas al azul de metileno 2.17 salarios mínimos; y
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-2.28 zinc 1.81 salarios mínimos;
+2.18 nitratos 2.05 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+2.19 nitritos 2.05 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+2.20 nitrógeno amoniacal 2.05 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+2.21 potencial hidrogeno 0.60 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+2.22 plomo 2.05 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+2.23 sodio 1.81 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+2.24 solidos disueltos totales 1.32 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+2.25 sulfatos 1.81 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+2.26 sustancias activas al azul de metileno 2.17 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+2.27 zinc 1.81 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) suelos:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 1. lodos y biosolidos:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1.1 arsénico 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 1.2 cadmio 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1.3 cromo 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 1.4 cobre 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1.5 plomo 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 1.6 mercurio 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1.7 níquel 2.28 salarios mínimos; y
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 1.8 zinc 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 2. remediación de suelos:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2.1 arsénico 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 2.2 bario 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2.3 berilio 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 2.4 cadmio 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2.5 cromo hexavalente 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 2.6 mercurio 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2.7 níquel 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 2.8 plata 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2.9 plomo 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 2.10 selenio 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2.11 talio 2.28 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 2.12 vanadio 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 c) aire:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 1. monitoreo de contaminantes criterio (unidad
 
 móvil) 8000.00, monto por día 96.50 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 2. muestreo de partículas pst, pm10 y 2.5100.00 1.20 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 3. acondicionamiento de filtros y determinación
 
@@ -3917,79 +4409,133 @@ de la masa gravimétrica y concentración de
 
 partículas 1.20 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 4. determinación de metales pesados en filtros
 
 de cuarzo:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 4.1 plomo 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 4.2 manganeso 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 4.3 cromo 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 4.4 arsénico 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 4.5 berilio 2.28 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 4.6 cadmio 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 5. incineración de residuos:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 5.1 arsénico 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 5.2 selenio 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 5.3 cobalto 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 5.4 níquel 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 5.5 manganeso 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 5.6 estaño 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 5.7 cadmio 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 5.8 plomo 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 5.9 cromo total 2.28 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 5.10 cobre 2.28 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 5.11 zinc 2.28 salarios mínimos; y
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 5.12 mercurio 2.28 salarios mínimos;
 
-5.13 muestreo de aguas 15.68 salarios mínimos.
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+6. muestreo de aguas 15.68 salarios mínimos.
+
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 ARTICULO 108 B.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, a través de la Dirección General de Medio Ambiente, se causarán y pagarán de la siguiente forma:
 
-I.- (SIC)
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-II.- Compulsa de documentos, por cada 5 hojas o
+I. Compulsa de documentos, por cada 5 hojas o
 
 fracción 0.5 salarios mínimos;
 
-III.- Por cada 5 hojas o fracción, en la expedición de:
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+II. Por cada 5 hojas o fracción, en la expedición de:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 a) Copias simples 1 salario mínimo; y
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 b) Copias certificadas 2 salarios mínimos;
 
-IV.- Por la reposición de documentos, expedidos por
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+III. Por la reposición de documentos, expedidos por
 
 esta Autoridad y que obren en los archivos; por
 
 cada 5 hojas o fracción 2 salarios mínimos.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 ARTICULO 108 C.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, a través de la Dirección General de Recursos Naturales, se causarán y pagarán de la siguiente forma:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 I.- En el área natural protegida denominada Parque
 
 Nacional El Chico, se cobrará:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 a) Por el uso o aprovechamiento no extractivo de
 
@@ -4009,6 +4555,8 @@ roca, visitas guiadas y no guiadas, por persona,
 
 por día 0.32 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 b) Por el uso o aprovechamiento no extractivo de
 
 elementos naturales y escénicos que se realiza
@@ -4027,11 +4575,15 @@ roca, visitas guiadas y no guiadas, por persona,
 
 por año 3.32 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 c) Por el uso o aprovechamiento de los refugios
 
 destinado (sic) a prestar servicio de alojamiento del
 
 Parque Nacional El Chico, por refugio, por día 3.08 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 d) Por el uso o aprovechamiento de los espacios
 
@@ -4039,15 +4591,21 @@ destinados a acampar dentro del Parque
 
 Nacional El Chico, por plataforma, por día 0.77 salario mínimo;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 II.- En el área natural protegida denominada Parque
 
 Ecológico Cubitos, se cobrara:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 a) Por el acceso personal, con fines recreativos,
 
 académicos o de investigación, contemplando la
 
 visita guiada 0.12 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) Por el acceso personal, con fines recreativos,
 
@@ -4083,173 +4641,267 @@ no robado 3 salarios mínimos.
 
 ### CAPÍTULO SÉPTIMO TER. SECRETARÍA DE EDUCACIÓN PÚBLICA
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 ARTICULO 108 D.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Educación Pública, a través de la Dirección General de Profesiones, se causarán y pagarán de la siguiente forma:
 
-I.- Por la validación electrónica de título profesional
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+I. Por la validación electrónica de título profesional
 
 mediante medidas de seguridad 0.77 salario mínimo;
 
-II.- Por registrar un título a nivel federal 0. 77 salario mínimo;
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-III.- Por la expedición de registro estatal 3.08 salarios mínimos;
+II. Por registrar un título a nivel federal 0. 77 salario mínimo;
 
-IV.- (SIC)
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-V.- Por la expedición de registro provisional
+III. Por la expedición de registro estatal 3.08 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+IV. Por la expedición de registro provisional
 
 estatal para ejercer por título en trámite 3.08 salarios mínimos;
 
-VI.- Por la expedición de ampliación de registro
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-Provisional 3.08 salarios mínimos;
+V. Por la expedición de ampliación de registro
 
-VII.- Por la expedición de antecedentes profesionales
+provisional 3.08 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+VI. Por la expedición de antecedentes profesionales
 
 solicitados por particulares 0. 77 salario mínimo;
 
-VIII.- Por la expedición de acuerdo de registro de
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+VII. Por la expedición de acuerdo de registro de
 
 colegios de profesionistas 28.00 salarios mínimos;
 
-IX.- Por la expedición de acuerdo de registro a
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+VIII. Por la expedición de acuerdo de registro a
 
 instituciones de educación media superior y
 
 superior 28.00 salarios mínimos; y
 
-X.- Por la expedición de duplicado de registro
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+IX. Por la expedición de duplicado de registro
 
 estatal 2.31 salarios mínimos;
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 ARTICULO 108 E.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Educación Pública, a través de la Dirección General de Educación Superior, se causaran y pagarán de la siguiente forma:
 
-I.- En materia de Reconocimiento de Validez Oficial de
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+I. En materia de Reconocimiento de Validez Oficial de
 
 Estudios (RVOE):
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) por el acuerdo que regula el trámite 6.92 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) por la expedición del dictamen de planes y
 
 programas de estudio 153.85 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 c) por la inspección técnica para revisión de
 
 instalaciones 46.15 salarios mínimos;
 
-d) (sic)
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-e) por la obtención del acuerdo de Reconocimiento
+d) por la obtención del acuerdo de Reconocimiento
 
 de Validez Oficial de Estudios 61.54 salarios mínimos;
 
-f) por la expedición de la carta de no inconveniente
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+e) por la expedición de la carta de no inconveniente
 
 para incorporación a una institución educativa
 
 federal 15.38 salarios mínimos;
 
-g) por el acuerdo de actualización de programa
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+f) por el acuerdo de actualización de programa
 
 académico de nivel superior 85.38 salarios mínimos;
 
-h) por la expedición de la opinión de pertinencia de
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+g) por la expedición de la opinión de pertinencia de
 
 planes y programas de estudios 61.54 salarios mínimos;
 
-i) por la inspección ordinaria y emisión de dictamen
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+h) por la inspección ordinaria y emisión de dictamen
 
 para la continuidad de la vigencia 76.92 salarios mínimos;
 
-j) por trámite de inspección de cambio de domicilio
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+i) por trámite de inspección de cambio de domicilio
 
 y emisión de dictamen autorización de cambio de
 
 domicilio 69.23 salarios mínimos; y
 
-k) por registro de personal docente de instituciones
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+j) por registro de personal docente de instituciones
 
 particulares de educación superior 0. 77 salario mínimo;
 
-II.- En materia de autenticación y registro:
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+II. En materia de autenticación y registro:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 a) de duplicado de certificado de estudios 1.54 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 b) de certificado parcial de estudios 3.85 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 c) de certificado total de estudios 7.69 salarios mínimos; y
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 d) de título, diploma o grado académico 11.54 salarios mínimos;
 
-III.- Por la revisión de documentos para ingresar a
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+III. Por la revisión de documentos para ingresar a
 
 una institución particular 0. 77 salario mínimo;
 
-IV.- Por resoluciones en materia de:
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+IV. Por resoluciones en materia de:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 a) equivalencia de estudios superior 7.69 salarios mínimos; y
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 b) revalidación de estudios 11.54 salarios mínimos
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 ARTICULO 108 F.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Educación Pública, a través de la Dirección General de Vinculación y Fortalecimiento Institucional, se causarán y pagarán de la siguiente forma:
 
-I.- Por cursar cada materia 4.62 salarios mínimos; y
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
-II.- Por recursar materia no aprobada 25.18 salarios mínimos.
+I. Por cursar cada materia 4.62 salarios mínimos; y
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+II. Por recursar materia no aprobada 25.18 salarios mínimos.
+
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 2 DE FEBRERO DE 2015)
 
 ARTICULO 108 G.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Educación Pública, a través de la Dirección General de Educación Media Superior, se causaran y pagaran de la siguiente forma:
 
-I.- Por la revalidación y equivalencias de estudios:
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+I. Por la revalidación y equivalencias de estudios:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 a) Cuando se trate de revalidación de estudios en el
 
 extranjero 5.38 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 b) Cuándo se trate de equivalencia de estudios 5.38 salarios mínimos;
 
-II.- En materia de reconocimiento de validez oficial de
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+II. En materia de reconocimiento de validez oficial de
 
 estudios por la expedición de acuerdo de
 
 reconocimiento de validez oficial de estudios 461.54 salarios mínimos
 
-III.- En materia de control de las escuelas particulares
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+III. En materia de control de las escuelas particulares
 
 establecidas en el Estado:
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 a) Por la inscripción semestral 1.54 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 b) Por la reinscripción semestral 1.54 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 c) Por la inscripción cuatrimestral 1.54 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 d) Por la reinscripción cuatrimestral 1.54 salarios mínimos;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 e) Por el derecho a examen extraordinario 3.85 salarios mínimos; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 f) Por la expedición y validación del certificado 3.08 salarios mínimos
 
-IV.- En materia de Preparatoria Abierta:
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
+IV. En materia de Preparatoria Abierta:
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 a) Por preinscripción 0.77 salario mínimo; y
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 b) Por inscripción 3.08 salarios mínimos;
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 c) Por la emisión de constancia de estudios 0. 77 salario mínimo;
 
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
+
 d) Por la emisión del historial Académico 0.77 salario mínimo; y
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 e) Por la autorización de registro de centros de
 
 asesoría 155.38 salarios mínimos
+
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2015)</small>
 
 El importe de los derechos por examen, emisión de duplicado de credencial y certificado de estudios serán los contemplados en la Ley Federal de Derechos.
 
@@ -4433,7 +5085,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día 1° de enero de 2008, pr
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
-TERCERO.- Lo dispuesto por el Artículo 86BIS de la Ley de Hacienda del Estado, entrará en vigor hasta el 15 de junio del año 2008.
+TERCERO.- Lo dispuesto por el Artículo 86 BIS de la Ley de Hacienda del Estado, entrará en vigor hasta el 15 de junio del año 2008.
 
 P.O. 31 DE DICIEMBRE DE 2008.
 
