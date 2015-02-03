@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-politecnica-de-80579"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-01"
-last_updated: "2011-04-01"
+last_updated: "2015-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DE TECAMAC, ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DE TECAMAC DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DE TECÁMAC DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 1 de abril de 2011.
 
@@ -111,15 +111,25 @@ VII. Emitir constancias o expedir copias certificadas de documentos existentes e
 
 VIII. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo.
 
-IX. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende la Junta Directiva.
+> <small>(REFORMADA, G.G. 3 DE FEBRERO DE 2015)</small>
+
+IX. Cumplir con las disposiciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en términos de la normatividad aplicable.
+
+> <small>(ADICIONADA, G.G. 3 DE FEBRERO DE 2015)</small>
+
+X. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende la Junta Directiva.
 
 ###### Artículo 11.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, el Rector se auxiliará de las unidades administrativas básicas siguientes:
 
-I. Dirección de División de Ingeniería Mecánica e Ingeniería en Tecnologías de Manufactura.
+> <small>(REFORMADA, G.G. 3 DE FEBRERO DE 2015)</small>
 
-II. Dirección de División de Licenciatura en Negocios Internacionales.
+l. Dirección de División de Ingeniería Mecánica, Ingeniería en Tecnologías de Manufactura e Ingeniería en Software.
+
+> <small>(REFORMADA, G.G. 3 DE FEBRERO DE 2015)</small>
+
+II. Dirección de División de Licenciatura en Negocios Internacionales e Ingeniería Financiera.
 
 III. Dirección de Administración y Finanzas.
 
@@ -269,7 +279,9 @@ Corresponde al Departamento de Información, Planeación, Programación y Evalua
 
 I. Desarrollar, promover e implantar el sistema integral de información, que permita apoyar la gestión administrativa y académica de la Universidad.
 
-II. Mantener actualizado el inventario del patrimonio documental, así como realizar las acciones correspondientes para su resguardo y conservación.
+> <small>(REFORMADA, G.G. 3 DE FEBRERO DE 2015)</small>
+
+II. Cumplir en el ámbito de su competencia, con las disposiciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en términos de la normatividad aplicable.
 
 III. Promover el cumplimiento de las obligaciones de la Universidad, establecidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
@@ -314,3 +326,13 @@ MTRO. ALBERTO SÁNCHEZ FLORES
 RECTOR DE LA UNIVERSIDAD POLITÉCNICA DE TECÁMAC Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 3 DE FEBRERO DE 2015.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
