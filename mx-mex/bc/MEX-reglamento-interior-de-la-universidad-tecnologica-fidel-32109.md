@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-tecnologica-fidel-32109"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-17"
-last_updated: "2003-06-17"
+last_updated: "2015-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA "FIDEL VELAZQUEZ"
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA "FIDEL VELAZQUEZ"
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA "FIDEL VELÁZQUEZ"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA “FIDEL VELÁZQUEZ”, PUBLICADO EN LA G.G. DE 3 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 17 de junio de 2003.
 
@@ -217,11 +219,11 @@ XV. Proporcionar, previo acuerdo de su superior inmediato, la información, dato
 
 XVI. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende el Rector y el Consejo.
 
-### CAPITULO V. DE LAS ATRIBUCIONES DE LAS SECRETARIAS Y DE LAS ADSCRIPCION DE LAS DIRECCIONES
+### CAPITULO V. DE LAS ATRIBUCIONES DE LAS SECRETARIAS Y DE LA ADSCRIPCION DE LAS DIRECCIONES
 
 ###### Artículo 15.
 
-A la Secretaría Académica le corresponde planear, coordinar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las Direcciones de División, así como coordinar la prestación de los servidores (sic) bibliotecarios, estudiantiles y escolares de la Universidad.
+A la Secretaría Académica le corresponde planear, coordinar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las Direcciones de División, así como coordinar la prestación de los servicios bibliotecarios, estudiantiles y escolares de la Universidad.
 
 ###### Artículo 16.
 
@@ -385,7 +387,7 @@ VI. Supervisar, en el ámbito de su competencia, la aplicación de los lineamien
 
 VII. Impulsar la aplicación de métodos y tecnología novedosa en el proceso de enseñanza aprendizaje de la carrera a su cargo;
 
-VIII. Participar en el evaluación curricular de la carrera a su cargo;
+VIII. Participar en la evaluación curricular de la carrera a su cargo;
 
 IX. Opinar, en el ámbito de su competencia, sobre la revalidación y equivalencia de los estudios realizados en otras instituciones educativas;
 
@@ -496,3 +498,15 @@ LIC. RICARDO PUENTE AVILA
 RECTOR DE LA UNIVERSIDAD TECNOLOGICA "FIDEL VELAZQUEZ" Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE FEBRERO DE 2015.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento Interior de la Universidad Tecnológica "Fidel Velázquez", publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha 17 de junio de 2003.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
