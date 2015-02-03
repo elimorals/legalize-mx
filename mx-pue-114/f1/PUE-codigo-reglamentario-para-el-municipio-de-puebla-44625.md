@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2014-12-05"
+last_updated: "2015-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5875,7 +5875,7 @@ III. Colaborar con las autoridades del Estado y del Municipio para el debido cum
 
 ###### Artículo 382.
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; (sic) para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado (sic) para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -5993,7 +5993,7 @@ Los hospitales, sanatorios, clínicas, fabricas, industrias, comercios, oficinas
 
 ###### Artículo 392 Bis.
 
-El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social Y privado, para implementar acciones de protección civil en beneficio de la sociedad.
+El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social y privado, para implementar acciones de protección civil en beneficio de la sociedad.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -25957,7 +25957,7 @@ El servicio de estacionamiento en la vía pública podrá ser concesionado por e
 
 ###### Artículo 1682 Ter.
 
-Para el cobro del uso de estacionamiento en la vía pública el Ayuntamiento clasificará las zonas de estacionómetros de acuerdo a la demanda de espacios para estacionarse, así como los horarios de operación.
+Para el cobro del uso de estacionamiento en la vía pública, el Ayuntamiento clasificará las zonas de estacionómetros de acuerdo a la demanda de espacios para estacionarse, así como los horarios de operación.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -34649,7 +34649,9 @@ VI. Premio Municipal "Del Deporte";
 
 VII. Premio al "Mérito Docente";
 
-VIII. Premio al "Mérito Empresarial";
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
+
+VIII. Premio al "Mérito Empresarial" y "Mérito Emprendedor";
 
 IX. Premio al "Mérito Laboral";
 
@@ -34657,21 +34659,25 @@ IX. Premio al "Mérito Laboral";
 
 X. Premio al "Compromiso por la inclusión de las personas con discapacidad: María Eugenia Antúnez Farrugia";
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
 
-XI. Reconocimiento de "Visitante Distinguido";
+XI. Premio Municipal de Investigación Histórica;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
 
-XII. Reconocimiento de "Poblano Distinguido";
+XII. Reconocimiento de "Visitante Distinguido";
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
 
-XIII. Reconocimiento de "Copia de la declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Mundial"; y
+XIII. Reconocimiento de "Poblano Distinguido";
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
+
+XIV. Reconocimiento de "Copia de la declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Mundial"; y
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2014)</small>
 
-XIV. Reconocimiento "Juan de Palafox y Mendoza”.
+XV. Reconocimiento "Juan de Palafox y Mendoza”.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -35105,9 +35111,9 @@ II. El Secretario del Ayuntamiento, con voz y voto; y
 
 III. Los integrantes de la Comisión permanente del Ayuntamiento que atienda el tema de Educación, quienes fungirán como vocales, con voz y voto.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2015)</small>
 
-DEL PREMIO AL "MÉRITO EMPRESARIAL"
+DEL PREMIO AL "MÉRITO EMPRESARIAL" Y "MÉRITO EMPRENDEDOR"
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2014)</small>
 
@@ -35202,6 +35208,92 @@ l. Solo se podrán registrar las empresas que cumplan con los requisitos estable
 II. La inscripción será dentro de la fecha y bajo los términos que señale la convocatoria correspondiente;
 
 III. Toda propuesta debe expresar las actividades, trayectoria y logros de las empresas, además de acompañarse con los documentos probatorios que se estimen pertinentes, en su caso, se indicará la naturaleza de otras pruebas y los lugares donde pueden recabarse; y
+
+IV. Los demás requisitos que a juicio del Consejo de Premiación, estime convenientes.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2328 Bis.
+
+El Premio al Mérito Emprendedor se otorga a las personas físicas o morales, de nacionalidad mexicana, que son referentes nacionales por sus ideas y emprendimientos considerados valiosos, relevantes e innovadores; así como a las instituciones ejemplares en el impulso del ecosistema emprendedor, que respaldan la actividad emprendedora e innovadora, para la generación de empleo, el impulso de la productividad y en suma, la competitividad del país.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2328 Ter.
+
+El Premio al "Mérito Emprendedor", consistirá en un diploma por su actividad destacada en el ámbito emprendedor, el cual será entregado durante el mes de abril de cada año, en Acto Protocolario de Cabildo. La convocatoria será emitida durante el mes de marzo.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2328 Quater.
+
+Podrán participar las personas físicas o morales, que destaquen en alguno de los siguientes rubros:
+
+I. Ideas Innovadoras;
+
+II. Mujeres Emprendedoras;
+
+III. Emprendimiento de Sustentabilidad Ambiental;
+
+IV. Organismos Impulsores del Ecosistema Emprendedor;
+
+V. Instituciones Educativas que impulsen el espíritu Emprendedor;
+
+VI. Juventud Emprendedora;
+
+VII. Emprendedor Social, y
+
+VIII. Liderazgo Inspirador.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2328 Quinquies.
+
+Las propuestas a recibir dicho premio, deberán ser formuladas por cada uno de los organismos que representan a los sectores señalados en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2328 Sexies.
+
+El Consejo de Premiación del Reconocimiento al "Mérito Emprendedor", estará integrado por:
+
+I. Un Presidente, quien será el Presidente Municipal, con voz y voto; quien en caso de empate tendrá voto de calidad;
+
+II. El Secretario del Ayuntamiento, quien fungirá como Secretario Ejecutivo; con voz y voto;
+
+III. El Secretario de Desarrollo Económico y Turismo, quien fungirá como Secretario Técnico del Consejo, con voz y voto;
+
+IV. Los Regidores integrantes de la Comisión o Comisiones permanente correspondiente (sic) al tema de desarrollo económico o similar del Ayuntamiento, quienes tendrán voz y voto; y
+
+V. Tres integrantes de la iniciativa privada, quienes serán designados por el Presidente, con voz y voto.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2328 Septies.
+
+La persona física o moral que se haga merecedora a recibir el Premio al "Mérito Emprendedor", deberá cumplir como mínimo, los siguientes requisitos:
+
+I. Encontrarse dentro del Municipio de Puebla;
+
+II. Emprendedores, personas físicas o morales, con una idea innovadora o que se encuentran en proceso de creación y/o desarrollo de una empresa;
+
+III. Contar con un proceso de innovación (involucrando tecnología de punta en general); y
+
+IV. Demás características específicas que a juicio del Consejo de Premiación deban reunir.
+
+Dentro de los candidatos deberán escogerse dos ganadores, de los cuales uno deberá ser, preferentemente, mujer.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2328 Octies.
+
+Las propuestas de las personas físicas o morales a recibir el Premio al "Mérito Emprendedor", se efectuará bajo los siguientes términos:
+
+I. Solo se podrán registrar quienes cumplan con los requisitos establecidos en el presente Capítulo;
+
+II. La inscripción será dentro de la fecha y bajo los términos que señale la convocatoria correspondiente;
+
+III. Toda propuesta debe expresar las actividades, trayectoria y logros, además de acompañarse con los documentos probatorios que se estimen pertinentes; en su caso, se indicará la naturaleza de otras pruebas y los lugares donde pueden recabarse; y
 
 IV. Los demás requisitos que a juicio del Consejo de Premiación, estime convenientes.
 
@@ -35350,6 +35442,68 @@ III. El Presidente de la Comisión de Salud y Grupos en Situación de Vulnerabil
 IV. El Presidente del Consejo Ciudadano de Discapacidad, teniendo voz y voto; y
 
 V. Un representante del Sistema Municipal para el Desarrollo Integral de la Familia, teniendo voz y voto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE FEBRERO DE 2015)</small>
+
+DEL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2335 Sexies.
+
+El Premio Municipal de Investigación Histórica será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2335 Septies.
+
+El Premio Municipal de Investigación Histórica consistirá en un diploma, el cual será entregado durante el mes de abril de cada año, en Acto Protocolario de Cabildo. La convocatoria será emitida durante el mes de marzo.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2335 Octies.
+
+El Consejo de Premiación del "Premio Municipal de Investigación Histórica", estará integrado por:
+
+I. Un Presidente, quien será el Presidente Municipal, con voz y voto; quien en caso de empate tendrá voto de calidad;
+
+II. El Secretario del Ayuntamiento, quien fungirá como Secretario Ejecutivo, con voz y voto;
+
+III. El Director General del Instituto Municipal de Arte y Cultura de Puebla, quien fungirá como Secretario Técnico del Consejo, con voz y voto;
+
+IV. El Presidente de la Comisión del Turismo, Arte y Cultura del Ayuntamiento, quien tendrá voz y voto;
+
+V. El Presidente de la Comisión de Centro Histórico del Ayuntamiento, quien tendrá voz y voto;
+
+VI. Gerente del Centro Histórico, quien tendrá voz y voto, y
+
+VII. Tres miembros del Consejo de la Crónica de la Ciudad de Puebla, a invitación del Presidente, quienes tendrán voz y voto.
+
+El Presidente del Consejo de Premiación, del Premio Municipal de Investigación Histórica, podrá invitar a participar como integrante del mismo a un Representante de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura, quien tendrá voz y voto en las decisiones del mismo.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2335 Nonies.
+
+La persona que se haga merecedora a recibir el Premio Municipal de Investigación Histórica, deberá cumplir como mínimo, los siguientes requisitos:
+
+I. Personas físicas, mayores de 18 años, y
+
+II. Haber realizado alguna investigación histórica, que permita dar a conocer nuestro Municipio.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2335 Decies.
+
+Las propuestas de las personas a recibir el Premio Municipal de Investigación Histórica, se efectuará bajo los siguientes términos:
+
+I. Solo se podrán registrar quienes cumplan con los requisitos establecidos en el presente Capítulo;
+
+II. La inscripción será dentro de la fecha y bajo los términos que señale la convocatoria correspondiente;
+
+III. Toda propuesta debe expresar las actividades, trayectoria y logros, acompañado de la investigación histórica del Municipio y demás documentos probatorios que se estimen pertinentes, en su caso, se indicará la naturaleza de otras pruebas y los lugares donde pueden recabarse, y
+
+IV. Los demás requisitos que a juicio del Consejo de Premiación, estime convenientes.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -36232,3 +36386,17 @@ PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicac
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
 
 TERCERO. Se instruye a las Dependencias competentes a realizar las adecuaciones materiales y normativas necesarias para la aplicación de las disposiciones.
+
+P.O. 3 DE FEBRERO DE 2015.
+
+ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 2280, 2335 SEXIES, 2335 SEPTIES, 2335 OCTIES, 2335 NONIES Y 2335 DECIES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA.
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 3 DE FEBRERO DE 2015.
+
+ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 2280, 2328 BIS, 2328 TER, 2328 QUATER, 2328 QUINQUIES, 2328 SEXIES, 2328 SEPTIES Y 2328 OCTIES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA.
+
+ÚNICO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
