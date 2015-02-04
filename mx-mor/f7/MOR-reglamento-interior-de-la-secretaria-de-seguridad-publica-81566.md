@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-seguridad-publica-81566
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-01"
-last_updated: "2013-05-29"
+last_updated: "2015-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ESPECÍFICO DE FUNCIONES DE LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 4 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 1 de junio de 2011.
 
@@ -1358,3 +1360,17 @@ PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 SEGUNDA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 TERCERA. En un plazo que no exceda de sesenta días naturales del inicio de la vigencia del presente Decreto, las Secretarías de Gobierno y de Seguridad Pública deberán realizar las modificaciones necesarias a la normatividad administrativa interna que corresponda y expedir los correspondientes Manuales de Organización y Políticas y Procedimientos.
+
+P.O. 4 DE FEBRERO DE 2015.
+
+PRIMERA. El presente Reglamento entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Periódico Oficial “Tierra y Libertad", número 4893, el 01 de mayo de 2011, y se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango jerárquico que se opongan al presente Reglamento.
+
+TERCERA. Los Manuales de Organización, y de Políticas y Procedimientos de la Comisión Estatal de Seguridad Pública, que por razón del presente Reglamento se tengan que emitir, deberán expedirse en un plazo no mayor a ciento veinte días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente ordenamiento; y, en tanto se expidan dichos manuales, el Comisionado Estatal de Seguridad Pública resolverá las cuestiones de procedimiento y operación que se originen por la aplicación de éste ordenamiento.
+
+CUARTA. Las Unidades Administrativas de nueva creación tendrán un plazo máximo de sesenta días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Reglamento, para iniciar su funcionamiento, tiempo en que se deberán de realizar todas aquellas acciones de carácter administrativo necesarios para tal fin.
+
+QUINTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; el Comisionado Estatal de Seguridad Pública, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente instrumento, debe informar a la citada Secretaría de Gobierno, los cambios de denominación y supresión de las Unidades administrativas de aquella, sufridos en virtud de este instrumento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+SEXTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Comisión Estatal deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
