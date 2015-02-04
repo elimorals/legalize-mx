@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-desarrollo-urbano-69875"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2014-07-23"
+last_updated: "2015-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2009.
 
@@ -209,7 +209,7 @@ e) Instituto de Vivienda del Estado de Morelos;
 
 f) Comisión Estatal de Reservas Territoriales;
 
-g) Instituto del Registro Público de la Propiedad y del Comercio, y (sic)
+g) Instituto del Registro Público de la Propiedad y del Comercio, y
 
 h) Comisión Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos.
 
@@ -1793,11 +1793,33 @@ Un conjunto urbano podrá contener acciones de fusión, división, fraccionamien
 
 En los conjuntos urbanos en que se desarrollen proyectos de vivienda destinada a los sectores más desprotegidos de la población, las autoridades estatales y municipales otorgarán todas las facilidades para su tramitación, construcción y operación.
 
-### CAPÍTULO I. DENUNCIA CIUDADANA Y PROCEDIMIENTO DE CONCILIACIÓN
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE FEBRERO DE 2015)</small>
+
+### CAPÍTULO VII. DE LOS FRACCIONAMIENTOS COMERCIALES Y DE SERVICIOS
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2015)</small>
+
+###### Artículo 184 Bis.
+
+Los fraccionamientos y condominios comerciales y de servicios se sujetarán a las siguientes disposiciones:
+
+I.- Sólo podrán desarrollarse en las zonas consideradas aptas para tal fin en los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial, correspondientes;
+
+II.- Deberán sujetarse a las normas básicas que al respecto emita la Autoridad en cuanto a coeficiente de ocupación del suelo, coeficiente de uso de suelo, coeficiente de absorción;
+
+III.- Deberán cumplir los requerimientos de cajones de estacionamiento de acuerdo a los ordenamientos legales aplicables, mismos que deberán ser proporcionados de forma gratuita para los clientes o consumidores que así lo demuestren, sin fijar para ello cuotas mínimas o máximas de compra. El incumplimiento de esta disposición será considerado infracción administrativa sancionada por el Bando de Policía y Buen Gobierno, cuyo monto se fijara en las Leyes de Ingresos de los Municipios.
+
+Los propietarios o poseedores de los estacionamientos en plazas y centros comerciales, podrán cobrar una contraprestación económica a quienes estacionen sus vehículos en los espacios respectivos y no demuestren ser clientes o consumidores.
+
+IV.- Llevar a cabo soluciones de acceso viales y adecuaciones viales necesarias, resultado de un estudio de impacto vial realizado conforme lo dispuesto por esta Ley, que prevea la solución de la problemática actual y futura del funcionamiento vial en ese lugar;
+
+V.- Deberán realizar las obras y previsiones necesarias para facilitar el acceso, circulación, uso de espacios públicos e instalaciones para personas con discapacidad; y
+
+VI.- Las demás que señale la Ley.
 
 ## TÍTULO OCTAVO. DENUNCIA CIUDADANA, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
-### CAPÍTULO II. INSPECCIONES
+### CAPÍTULO I. DENUNCIA CIUDADANA Y PROCEDIMIENTO DE CONCILIACIÓN
 
 ###### Artículo 185.
 
@@ -1903,7 +1925,7 @@ VII. Por desistimiento del denunciante.
 
 Sin perjuicio de las sanciones administrativas o penales que procedan en el marco legal de competencia respectiva, toda persona que violente la presente Ley está obligado a reparar los daños causados, de conformidad con la legislación civil aplicable.
 
-### CAPÍTULO III. INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
+### CAPÍTULO II. INSPECCIONES
 
 ###### Artículo 202.
 
@@ -1913,7 +1935,7 @@ La autoridad estatal o municipal podrá realizar, por conducto del personal debi
 
 El procedimiento de las inspecciones se sujetará a lo dispuesto en el reglamento que corresponda.
 
-### CAPÍTULO IV. MEDIOS DE DEFENSA
+### CAPÍTULO III. INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
 
 ###### Artículo 204.
 
@@ -2005,6 +2027,8 @@ Tratándose de demolición total o parcial, suspensión o clausura temporal o de
 
 Para la imposición de las sanciones o medidas de seguridad a que se refiere este capítulo, será oído el infractor en procedimiento instaurado por la autoridad estatal o municipal competente, mismo que se iniciará citándolo para darle a conocer las infracciones en que haya incurrido, y concediéndole un término de quince días hábiles para que ofrezca por escrito las pruebas en su defensa. La resolución de la autoridad deberá estar fundada y motivada y deberá emitirse en un término de diez días hábiles, contados a partir de que quede debidamente integrado el expediente con las pruebas respectivas, declarándose el cierre de integración del mismo.
 
+### CAPÍTULO IV. MEDIOS DE DEFENSA
+
 ###### Artículo 216.
 
 Todo acto emitido por la autoridad estatal o municipal podrá, dentro de los quince días hábiles siguientes, contados a partir del día siguiente a la fecha de su notificación, ser recurrible mediante los medios de impugnación siguientes:
@@ -2094,3 +2118,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Titular del Poder Ejecutivo del Estado de Morelos contará con un plazo de 180 días posteriores a la entrada en vigor del presente Decreto, para que realice las adecuaciones al Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, en materia de ordenamiento territorial, así como a las demás disposiciones reglamentarias que sean necesarias, en los términos a que se refiere la presente resolución.
 
 TERCERO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 4 DE FEBRERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad" Órgano de Difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Los 33 Ayuntamientos del Estado de Morelos, dispondrán de un plazo de treinta días hábiles a partir de la publicación de este decreto, para reformar su Bando de Policía y Buen Gobierno en términos de lo dispuesto por este decreto.
+
+Una vez que se publiquen en el periódico oficial Tierra y Libertad las modificaciones a cada uno de los Bandos de Policía y Buen Gobierno de los Municipios, el Congreso procederá en un plazo de 30 días hábiles a modificar las Leyes de ingresos de los 33 Municipios del Estado.
