@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-41755"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-14"
-last_updated: "1998-12-14"
+last_updated: "2015-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE GENERAL ZUAZUA, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO PARA EL MUNICIPIO DE GENERAL ZUAZUA, NUEVO LEON
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO PARA EL MUNICIPIO DE GENERAL ZUAZUA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2015.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 14 de diciembre de 1998.
 
@@ -118,6 +118,10 @@ VIII. Efectuar bailes en salones, clubes y centros sociales; infringiendo el Reg
 IX. Permitir, tolerar o promover cualquier tipo de juego de azar en los cuales se crucen apuestas sin el permiso de la Autoridad correspondiente.
 
 X. Impedir, dificultar o entorpecer la correcta prestación de los servicios públicos municipales.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2015)</small>
+
+XI. Efectuar eventos sociales en la vía pública, salvo fiestas infantiles y reuniones religiosas, con previa autorización del (sic) Administración Municipal.
 
 ###### Art. 12.
 
@@ -572,3 +576,9 @@ PRESIDENTE MUNICIPAL
 C. RICARDO GARZA GONZALEZ
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE FEBRERO DE 2015.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
