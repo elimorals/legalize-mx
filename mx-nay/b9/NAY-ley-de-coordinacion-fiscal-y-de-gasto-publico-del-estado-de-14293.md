@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-coordinacion-fiscal-y-de-gasto-publico-del-estado-de-142
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-16"
-last_updated: "2009-12-19"
+last_updated: "2015-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE COORDINACION FISCAL Y DE GASTO PUBLICO DEL ESTADO DE NAYARIT
 
-LEY DE COORDINACION FISCAL Y DE GASTO PUBLICO DEL ESTADO DE NAYARIT
+LEY DE COORDINACIÓN FISCAL Y DE GASTO PÚBLICO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2015.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 16 de diciembre de 1998.
 
@@ -165,6 +165,10 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, pondrá a d
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y los Municipios de la Entidad, podrán celebrar convenios de colaboración administrativa respecto de gravámenes estatales y municipales; así como en materia de ingresos federales coordinados, previa autorización de la Secretaría de Hacienda y Crédito Público.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2015)</small>
+
+El fondo de Aportaciones para el Fortalecimiento de los Municipios, se destinará exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras, al pago de derechos y aprovechamientos por concepto de agua, descargas de aguas residuales, modernización de los sistemas de recaudación, mantenimiento de infraestructura y a la atención de las necesidades vinculadas con la seguridad pública de sus habitantes, para lo cual, el Estado, por conducto de la Secretaría de Administración y Finanzas, podrá afectar como garantía los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios, con retención de dichos recursos a cargo del municipio que corresponda en los términos y condiciones a los que se refiere el artículo 51 de la Ley de Coordinación Fiscal del ámbito federal.
+
 ###### ARTICULO 15.
 
 En los convenios a que se refiere el artículo anterior, se especificarán las funciones de que se trate, las facultades que se ejercerán y sus limitaciones; así como las estipulaciones para su terminación y las sanciones por su incumplimiento. Se fijarán además las bases de pago de incentivos por concepto de desempeño de las funciones convenidas.
@@ -285,7 +289,7 @@ Los órganos del Instituto serán:
 
 I.- El Director General, quien tendrá la representación del mismo; y
 
-II.- La AsambIea General, que aprobará sus estatutos, reglamentos, programas y presupuestos.
+II.- La Asamblea General, que aprobará sus estatutos, reglamentos, programas y presupuestos.
 
 ###### ARTICULO 33.
 
@@ -350,3 +354,13 @@ P.O. 19 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 4 DE FEBRERO DE 2015.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Segundo.- Para el caso concreto del uso de los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios en el pago de derechos y aprovechamientos por concepto de agua y descargas residuales, el Estado aplicará las reglas de operación emitidas mediante el Acuerdo por el que se emiten las reglas para la aplicación del programa de regularización del pago de derechos y aprovechamientos de agua y derechos por descargas de aguas residuales para municipios y organismos operadores, publicado en el Diario Oficial de la Federación el 14 de agosto de 2014, o las que en su caso se encuentren vigentes.
+
+Tercero.- Los convenios celebrados por el Gobierno del Estado de Nayarit, con la Comisión Nacional del Agua, en materia de agua y derechos por descargas de aguas residuales antes de la entrada en vigor del presente decreto, tendrán validez para todos los efectos legales que correspondan.
+
+Cuarto.- Los municipios que decidan adherirse al programa de regularización del pago de derechos y aprovechamientos de agua y derechos por descargas de aguas residuales, deberán solicitar al Congreso del Estado la autorización correspondiente para afectar como garantía del cumplimiento de sus obligaciones de pago las aportaciones con cargo al FORTAMUNDF, en los términos y condiciones que establece la Ley de Deuda Pública del Estado de Nayarit.
