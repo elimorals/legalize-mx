@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-comision-estatal-del-agua-del-90666"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-12"
-last_updated: "2014-12-24"
+last_updated: "2015-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 4 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre del 2012.
 
@@ -1251,3 +1253,9 @@ P.O. 16 DE ABRIL DE 2014.
 P.O. 24 DE DICIEMBRE DE 2014.
 
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en (sic) Periódico Oficial "Tierra y Libertad".
+
+P.O. 4 DE FEBRERO DE 2015.
+
+PRIMERA. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano informativo de Gobierno del Estado.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Comisión estatal del Agua, publicado en el Periódico Oficial "Tierra y Libertad” número 5049, de fecha 12 de diciembre de 2012 y demás disposiciones reglamentarias que se opongan a lo dispuesto en el presente Reglamento.
