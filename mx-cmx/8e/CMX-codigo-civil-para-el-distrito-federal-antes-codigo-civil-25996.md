@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2014-12-18"
+last_updated: "2015-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE FEBRERO DE 2015.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -193,7 +193,9 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 ### CAPITULO II. De las actas de nacimiento
 
@@ -309,25 +311,31 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ###### ARTICULO 35.
 
-En el Distrito Federal estará a cargo de los Jueces del Registro Civil autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo, y defunción de los mexicanos y extranjeros en el Distrito Federal, al realizarse el hecho o acto de que se trate, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes y las sentencias que ordenen el levantamiento de una nueva acta por la reasignación para la concordancia sexo-genérica, previa la anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
+en el Distrito Federal estará a cargo de las y los Jueces del Registro Civil autorizar los actos del estado civil de las y los mexicanos y extranjeros en el Distrito Federal, al realizarse el hecho o el acto de que se trate, y extender las actas relativas a:
 
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2014)</small>
+I. Nacimiento;
 
-El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos del Distrito Federal, en el que se inscribirá preventiva y provisionalmente, los nombres y los datos de las personas que hayan dejado de cumplir por más de noventa días, sus obligaciones alimentarias, ordenadas por los jueces y tribunales o establecidas por convenio judicial. El registro expedirá un Certificado que informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
+II. Reconocimiento de hijos;
 
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2014)</small>
+III. Adopción;
 
-El Registro Civil, una vez hecha la inscripción preventiva y provisional a que se refiere el párrafo anterior, formulará solicitud al Registro Público de la Propiedad a efecto de que se anote el Certificado respectivo en los folios reales de que sea propietario el Deudor Alimentario Moroso. El Registro Público de la Propiedad informará al Registro Civil si fue procedente la anotación.
+IV. Matrimonio;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+V. Divorcio Administrativo;
 
-> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
+VI. Concubinato
+
+VII. Defunción;
+
+VIII. La rectificación de cualquiera de estos estados;
+
+IX. Levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa la anotación correspondiente al acta de nacimiento primigenia.
+
+El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos del Distrito Federal, en el que se inscribirá a las personas que hayan dejado de cumplir por más de noventa días, sus obligaciones alimentarias, ordenadas por los jueces y tribunales o establecidas por convenio judicial. El registro expedirá un Certificado que informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
+
+El Registro Civil, una vez hecha la inscripción a que se refiere el párrafo anterior, formulará solicitud al Registro Público de la Propiedad a efecto de que se anote el Certificado respectivo en los folios reales de que sea propietario el Deudor Alimentario Moroso. El Registro Público de la Propiedad informará al Registro Civil si fue procedente la anotación.
 
 El Registro Civil celebrará convenios con las sociedades de información crediticia a que se refiere la Ley de la materia, a fin de proporcionar la información del Registro de Deudores Alimentarios Morosos.
-
-> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2014)</small>
-
-El Registro Civil deberá actualizar mensualmente la base de datos de los deudores alimentarios morosos.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -989,7 +997,9 @@ Si el divorcio administrativo se hiciere en oficina distinta de aquella en que s
 
 ### CAPITULO XI. De la Rectificación, Modificación y Aclaración de las Actas del Registro Civil
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 117.
 
@@ -1107,7 +1117,11 @@ Cuando se recobre la capacidad legal para administrar, se presente la persona de
 
 ###### ARTICULO 134.
 
-La rectificación o modificación de un acta del estado civil no puede hacerse sino ante el Juez de lo Familiar y en virtud de sentencia de éste, salvo el reconocimiento de un hijo, el cual se sujetará a las prescripciones de este Código.
+La rectificación de un acta del estado civil no puede hacerse sino ante el Juez del Registro Civil y en el caso de anotación (sic) divorcio en el acta de matrimonio ante el Juez de lo Familiar, con excepción del administrativo, los cuales se sujetarán a las prescripciones de este Código y del Reglamento respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 135.
 
@@ -1115,25 +1129,69 @@ Ha lugar a pedir la rectificación:
 
 I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
-
 II. Por enmienda, cuando se solicite variar algún nombre u otro dato esencial que afecte el estado civil, la filiación, la nacionalidad, el sexo y la identidad de la persona.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
+III. Por existencia de errores mecanográficos y ortográficos.
 
-> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTICULO 135 Bis.
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
-Pueden pedir el levantamiento de una nueva acta de nacimiento por reasignación de concordancia sexo-genérica, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género.
+ARTICULO 135 BIS.- Pueden pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género.
 
-Se entenderá por identidad de género la convicción personal de pertenecer al género masculino o femenino, es inmodificable, involuntaria y puede ser distinta al sexo original.
+El reconocimiento respectivo se llevará a cabo ante las instancias y las autoridades correspondientes del Registro Civil del Distrito Federal cumpliendo todas las formalidades que exige el Reglamento del Registro Civil del Distrito Federal.
 
-La reasignación para la concordancia sexo-genérica es el proceso de intervención profesional mediante el cual la persona obtiene concordancia entre los aspectos corporales y su identidad de género, que puede incluir, parcial o totalmente: entrenamiento de expresión de rol de género, administración de hormonas, psicoterapia de apoyo o las intervenciones quirúrgicas que haya requerido en su proceso; y que tendrá como consecuencia, mediante resolución judicial, una identidad jurídica de hombre o mujer, según corresponda.
+Se entenderá por identidad de género la convicción personal e interna, tal como cada persona se percibe así misma, la cual puede corresponder o no, al sexo asignado en el acta primigenia. En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico y/o procedimiento para el reconocimiento de la identidad de género.
 
-Se entenderá por expresión de rol de género, el conjunto de manifestaciones relacionadas con la vestimenta, la expresión corporal o verbal y el comportamiento.
+Los efectos de la nueva acta de nacimiento para identidad de género realizados, serán oponibles a terceros desde de su levantamiento.
 
-Los derechos y obligaciones contraídas con anterioridad a la reasignación para la concordancia sexo-genérica no se modifican ni extinguen con la nueva identidad jurídica de la persona.
+Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 5 DE FEBRERO DE 2015)</small>
+
+ARTICULO 135 TER.- Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, las personas interesadas deberán presentar:
+
+I. Solicitud debidamente requisitada;
+
+II. Copia certificada del acta de nacimiento primigenia para efecto de que se haga la reserva correspondiente;
+
+III. Original y copia fotostática de su identificación oficial, y
+
+IV. Comprobante de domicilio.
+
+El levantamiento se realizará en el Juzgado Central, se procederá de inmediato a hacer la anotación y la reserva correspondiente; si se hiciere en un Juzgado distinto, se dará aviso mediante escrito al Juzgado en que se encuentre el acta de nacimiento primigenia para los mismos efectos anteriormente señalados.
+
+El acta de nacimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial o petición ministerial.
+
+Una vez cumpliendo (sic) el trámite se enviarán los oficios con la información, en calidad de reservada, a la Secretaría de Gobernación, Secretaría de Finanzas, Secretaría de Educación Pública, Secretaría de Salud, Secretaría de Relaciones Exteriores, Instituto Nacional Electoral, Tribunal Superior de Justicia del Distrito Federal, Procuraduría General de la República, Centro Nacional de Información del Sistema Nacional y al Consejo de la Judicatura Federal, para los efectos legales procedentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 5 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 135 QUATER.- Además de lo señalado en el artículo anterior, para el levantamiento del acta correspondiente, se deberá cumplir con los siguientes requisitos:
+
+I. Ser de nacionalidad mexicana;
+
+II. Tener al menos 18 años de edad cumplidos.
+
+III. Desahogar en el Juzgado Central del Registro Civil, la comparecencia que se detalla en el reglamento y manual de Procedimientos del Registro Civil.
+
+Así como manifestar lo siguiente:
+
+IV. El nombre completo y los datos registrales asentados en el acta primigenia;
+
+V. El nombre solicitado sin apellidos y, en su caso, el género solicitado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 5 DE FEBRERO DE 2015)</small>
+
+ARTÍCULO 135 QUITUS (SIC).- Existirá un consejo integrado por la Secretaría de Desarrollo Social, la Secretaría de Gobierno, la Consejería Jurídica y de Servicios Legales, todas del Distrito Federal. El Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México, y el Mecanismo de Seguimiento y Evaluación del Programa de los Derechos Humanos del Distrito Federal.
+
+El Consejo será el encargado de garantizar los derechos humanos en el desahogo del procedimiento administrativo de reconocimiento de identidad de género presidido por la Consejería Jurídica y de Servicios Legales del Distrito Federal y sesionará a convocatoria de esta misma.
 
 ###### ARTICULO 136.
 
@@ -1147,27 +1205,31 @@ III.- Los herederos de las personas comprendidas en las dos fracciones anteriore
 
 IV.- Los que según los artículos 348, 349 y 350, pueden continuar o intentar la acción de que en ellos se trata.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
+
 ###### ARTICULO 137.
 
-El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
+El trámite de rectificación de acta seguirá en la forma que establezca el Reglamento del Registro Civil del Distrito Federal.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 138.
 
-La sentencia que cause ejecutoria se comunicará al Juez del Registro Civil y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+La sentencia que cause ejecutoria por divorcio y adopción se comunicará al Juez del Registro Civil y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTICULO 138 Bis.
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
-La aclaración de las actas del estado civil, procede cuando en el levantamiento del acta correspondiente, existan errores mecanográficos, ortográficos, o de otra índole, que no afecten los datos esenciales de aquellas, y deberán tramitarse ante la Dirección General del Registro Civil.
+ARTICULO 138 BIS.- La rectificación de las actas del estado civil, procede cuando en el levantamiento del acta correspondiente, existen errores de cualquier índole, y deberán tramitarse ante la Dirección General del Registro Civil.
 
-El Reglamento del Registro Civil, establecerá los supuestos, requisitos y procedimientos para realizar la aclaración de las actas del Estado Civil.
+El Reglamento del Registro Civil establecerá los supuestos, requisitos y procedimientos para realizar la rectificación de las actas del Estado Civil.
 
-> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2012)</small>
-
-Las copias certificadas de constancias de los procedimientos de jurisdicción voluntaria, así como los testimonios de instrumentos notariales en los que se hagan constar declaraciones respecto del nombre o nombres propios, apellido o apellidos omitidos o adicionados o referencias al estado civil, únicamente acreditarán tal situación sin que implique rectificación o modificación ni aclaración del acta de nacimiento o de defunción correspondiente.
+Las copias certificadas de constancias de los procedimientos de jurisdicción voluntaria, así como los testimonios de instrumentos notariales en los que se hagan constar declaraciones respecto del nombre o nombres propios, apellido o apellidos omitidos o adicionados o referencias al estado civil, no impactarán (sic) rectificación del acta correspondiente.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -14648,3 +14710,7 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 5 DE FEBRERO DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor a los 30 días de su publicación en la Gaceta Oficial del Distrito Federal.
