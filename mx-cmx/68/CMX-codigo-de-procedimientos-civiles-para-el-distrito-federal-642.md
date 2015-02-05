@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2014-07-14"
+last_updated: "2015-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE FEBRERO DE 2015.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -180,11 +180,17 @@ ARTICULO 23
 
 El tercerista que intente excluir los derechos del actor y del demandado o los del primero solamente, tiene la facultad de concurrir al proceso o de iniciar uno nuevo, en el caso de que ya se haya dictado sentencia firme en aquél.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
+
 ARTICULO 24
 
-Las acciones del estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia; o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil, perjudican aun a los que no litigaron.
+Las acciones de estado civil tienen por objeto las cuestiones relativas, al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, tutela, adopción, concubinato, divorcio y ausencia, o atacar el contenido de las constancias del Registro Civil para que se anulen.
 
-Las acciones del estado civil fundadas en la posesión de estado, producirán al efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
+La rectificación o modificación de actas de estado civil de las personas se realizará ante el Juez del Registro Civil.
+
+Las decisiones judiciales recaídas en el ejercicio de acciones de estado civil perjudican aún a los que no litigaron.
 
 ARTICULO 25
 
@@ -1492,7 +1498,7 @@ Además de las pruebas que tuviere, el solicitante está en la obligación de pr
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1991)</small>
 
-En este juicio no se entregarán los autos originales para formular alegatos. La sentencia es apelable en ámbos efectos y el recurso se substanciará como en los juicios ordinarios.
+En este juicio no se entregarán los autos originales para formular alegatos. La sentencia es apelable en ámbos (sic) efectos y el recurso se substanciará como en los juicios ordinarios.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -5808,7 +5814,7 @@ Todo el que esté en el pleno ejercicio de sus derechos civiles puede compromete
 
 Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros, sino con aprobación judicial, salvo el caso en que dichos incapacitados fueren herederos de quien celebró el acuerdo de arbitraje. Sino hubiere designación de árbitros, salvo pacto en contrario de las partes, se hará con intervención judicial, como se previno en los medios preparatorios a juicio arbitral.
 
-> <small>N. DE E. EN RELACIOÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -7062,7 +7068,7 @@ La junta de rectificación y graduación será presidida por el juez, procedién
 
 En el informe deberá también clasificar los créditos de acuerdo con sus privilegios según el Código Civil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -11162,7 +11168,7 @@ CUARTO.- Se derogan todas aquéllas disposiciones que se opongan al presente Dec
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Quinto.- La reforma prevista a los artículos 37 fracción VIII, 50 fracciones II y III, 58 Bis, 62 Bis, 67, 68, 69, 70, 71, 71Bis, 72 Bis, 173, 196, 201 fracción XIX, 203, 207, 208, 209 y 224 Bis, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, y la reforma prevista en el presente Decreto respecto del Código de Procedimientos Civiles para el Distrito Federal, entrarán en vigor el 1 de enero de 2013; con excepción del artículo 72 de la Ley Orgánica del Tribunal superior de Justicia del Distrito Federal, que entrará en vigor el 27 de enero de 2012.
+Quinto.- La reforma prevista a los artículos 37 fracción VIII, 50 fracciones II y III, 58 Bis, 62 Bis, 67, 68, 69, 70, 71, 71 Bis, 72 Bis, 173, 196, 201 fracción XIX, 203, 207, 208, 209 y 224 Bis, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, y la reforma prevista en el presente Decreto respecto del Código de Procedimientos Civiles para el Distrito Federal, entrarán en vigor el 1 de enero de 2013; con excepción del artículo 72 de la Ley Orgánica del Tribunal superior de Justicia del Distrito Federal, que entrará en vigor el 27 de enero de 2012.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -11313,3 +11319,7 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 5 DE FEBRERO DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor a los 30 días de su publicación en la Gaceta Oficial del Distrito Federal.
