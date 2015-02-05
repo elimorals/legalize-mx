@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-01-02"
+last_updated: "2015-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE FEBRERO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -125,9 +125,17 @@ IV. Las disposiciones en materia de comunicación social;
 
 V. Las condiciones de Seguridad Institucional, en las instalaciones del Poder Judicial de la Federación, mediante la prevención de riesgos en la seguridad de los servidores públicos, el buen funcionamiento del servicio al público y los espacios donde se presta el mismo, para lo cual se establecen las disposiciones que regulan la organización, participación, programas, recursos humanos y materiales, que en pleno respeto a los Derechos Humanos cumplan con dicho fin;
 
-VI. Las disposiciones en materia de protección civil que deberán observarse en el Poder Judicial de la Federación; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
 
-VII. Regular la Compilación Normativa.
+VI. Establecer las disposiciones en materia de protección civil que deberán observarse en el Poder Judicial de la Federación;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+
+VII. Establecer las disposiciones relacionadas con la Firma Electrónica Certificada del Poder Judicial de la Federación emitida por el propio Consejo; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+
+VIII. Regular la Compilación Normativa.
 
 ### CAPÍTULO SEGUNDO. GLOSARIOS
 
@@ -4833,13 +4841,13 @@ Lo anterior, sin perjuicio de aplicar las penas convencionales que procedan y, e
 
 Los contratos celebrados en la materia objeto de este Capítulo podrán darse por terminados, sin responsabilidad para el Consejo, en los siguientes supuestos:
 
-l. Por cumplimiento de su objeto;
+I. Por cumplimiento de su objeto;
 
-ll. Por nulidad;
+lI. Por nulidad;
 
-lll. Por rescisión;
+III. Por rescisión;
 
-lV. Por sobrevenir caso fortuito o fuerza mayor;
+IV. Por sobrevenir caso fortuito o fuerza mayor;
 
 V. Por razones de orden público o de interés general; y
 
@@ -9639,7 +9647,9 @@ II. En la segunda o ulteriores ocasiones, se les obligará a retirarse de las in
 
 ## TÍTULO CUARTO. FIRMA ELECTRÓNICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO NOVENO. DEL RECONOCIMIENTO DE CERTIFICADOS DIGITALES Y DE LA CELEBRACIÓN DE CONVENIOS DE COORDINACIÓN
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 950.
 
@@ -9670,6 +9680,10 @@ La Dirección General de Protección Civil y Salud en el Trabajo, en su carácte
 ###### Artículo 952.
 
 Corresponde a la Dirección General de Protección Civil y Salud en el Trabajo, dar cumplimiento al Programa Anual de Protección Civil del Consejo, rendir un reporte de su cumplimiento, avance y modificaciones, mediante informes semestrales a la Comisión de Administración.
+
+### CAPÍTULO DÉCIMO. DISPOSICIONES FINALES
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 953.
 
@@ -9744,6 +9758,8 @@ XXXI. Desarrollar y coordinar los planes y programas de capacitación especializ
 XXXII. Dictaminar en caso de requerirse la validación de los Programas Internos de Protección Civil, propuestas por las Unidades Internas de Protección Civil de los inmuebles; y
 
 XXXIII. Las demás que le determine el Pleno o la Comisión de Administración.
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 955.
 
@@ -9979,6 +9995,12 @@ Los documentos electrónicos y mensajes de datos que cuenten con una firma elect
 
 Además de lo previsto en la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, el Pleno determinará en qué procedimientos y trámites jurisdiccionales o administrativos se utilizará la FIREL a que se refiere este Título.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+
+Los servidores públicos adscritos a los órganos jurisdiccionales así como a las áreas administrativas, sólo podrán utilizar la FIREL para firmar electrónicamente en los procedimientos y trámites señalados en el párrafo anterior.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+
 Los requisitos para el acceso y privilegios en los sistemas electrónicos del Consejo que requieran del uso de la FIREL se establecerán en la normativa que los rija, y se difundirán y describirán en el correspondiente manual de usuario.
 
 ###### Artículo 982.
@@ -10113,7 +10135,9 @@ I. Administrar el sistema informático para la emisión de los certificados digi
 
 II. Emitir certificados digitales cuando así proceda;
 
-III. Certificar la documentación que acompañe el solicitante de un certificado digital;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+
+III. Cotejar la documentación que acompañe el solicitante de un certificado digital;
 
 IV. Implementar programas de atención a solicitudes de certificados digitales de la FIREL;
 
@@ -10133,7 +10157,9 @@ XI. Plantear la implementación de mejores prácticas para el uso de la FIREL;
 
 XII. Apoyar a las diversas áreas administrativas del Consejo para implementar en sus procedimientos administrativos el uso de la FIREL;
 
-XIII. Proponer al Consejo o a la Unidad, según corresponda, la celebración de convenios con otros órganos del Estado que cuenten con firma electrónica;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+
+XIII. Proponer al Consejo o a la Unidad, según corresponda, la celebración de convenios con otros órganos del Estado que cuenten con firma electrónica, o, en su caso, que requieran utilizar la FIREL emitida por el Consejo.
 
 XIV. Solicitar a la Dirección General de Tecnologías de la Información las modificaciones que se requieran en diversas aplicaciones para la implementación de la FIREL; y
 
@@ -10146,6 +10172,26 @@ La UNCOCEFI publicará en los medios de comunicación electrónica del Consejo, 
 ###### Artículo 1002.
 
 La UNCOCEFI deberá hacer pública la vigencia de los certificados digitales de la FIREL de los usuarios finales a los que el Consejo les emitió un certificado digital de la FIREL, la de los certificados de OCSP y de TSA, así como la información sobre los servicios relacionados con el uso de los certificados digitales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+
+###### Artículo 1002 Bis.
+
+Los sistemas informáticos del Consejo reconocerán plenamente los certificados digitales emitidos por la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+
+###### Artículo 1002 Ter.
+
+Con independencia de los convenios a que se refiere el segundo párrafo, del artículo 5 del Acuerdo General Conjunto número 1/2013 de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico, el Consejo podrá celebrar convenios de coordinación con los Poderes Ejecutivo y Legislativo federales; los organismos constitucionales autónomos; los gobiernos de las entidades federativas, los municipios y los órganos político-administrativos del Distrito Federal; y los Poderes Judicial y Legislativo de los estados y los órganos respectivos del Distrito Federal, a fin de que éstos en sus trámites internos utilicen los certificados digitales de la FIREL emitidos por el Consejo.
+
+Los convenios que en materia del presente Título celebre el Consejo, deberán ser publicados en su portal de Internet y, en su caso, en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+
+###### Artículo 1002 Quáter.
+
+Cualquier situación no prevista en este Título será resuelta por el Pleno o la Comisión de Administración, en el ámbito de su competencia.
 
 ###### Artículo 1003.
 
@@ -10262,3 +10308,23 @@ CUARTO. Los asuntos en trámite deberán concluirse conforme a las disposiciones
 QUINTO. Se derogan todas las disposiciones que opongan al presente Acuerdo General.
 
 EL MAGISTRADO LUIS FERNANDO ANGULO JACOBO, SECRETARIO EJECUTIVO DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, fue aprobado por el Pleno del Consejo, en sesión ordinaria de diecinueve de noviembre de dos mil catorce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Felipe Borrego Estrada, César Esquinca Muñoa, Martha María del Carmen Hernández Alvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a doce de diciembre de dos mil catorce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 5 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los procedimientos relacionados con los certificados digitales de la FIREL emitidos por el Consejo y regulados en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo; en materia de la Ley de Amparo, estarán disponibles en los términos en que se emita la declaratoria referida en el artículo Sexto transitorio del Acuerdo General Conjunto número 1/2013 de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico.
+
+CUARTO. Una vez que los servidores públicos adscritos a los tribunales de Circuito y a los juzgados de Distrito, así como a la Visitaduría Judicial, al Instituto de la Judicatura Federal, al Instituto Federal de Defensoría Pública y áreas administrativas del Consejo de la Judicatura Federal, obtengan su certificado digital de firma electrónica (FIREL) a que se refiere el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, se deberán revocar los certificados digitales distintos a los de la FIREL emitidos conforme a las disposiciones anteriores a la entrada en vigor de dicho Acuerdo.
+
+Para tal efecto, la Unidad para el Control de Certificación de Firmas del Consejo implementará a la brevedad los mecanismos necesarios para tal fin.
+
+QUINTO. La Dirección General de Tecnologías de la Información deberá realizar los ajustes necesarios a los sistemas informáticos del Consejo de la Judicatura Federal para implementar el uso de la FIREL.
+
+En relación a las autoridades usuarias de la Ventana Electrónica de Trámite por la cual se realizan en línea las solicitudes de cateos, arraigos e intervención de comunicaciones, éstas podrán seguir utilizando la firma electrónica denominada FESE con la que actualmente cuentan; sin embargo, en el supuesto que, por cualquier motivo, requieran que se les emita una nueva, deberán tramitar la FIREL.
+
+En aquellos casos en que por razones técnicas no sea posible obtener la FIREL, se podrán expedir a dichas autoridades y a los servidores públicos de los tribunales de Circuito y juzgados de Distrito, así como del Consejo de la Judicatura Federal, provisionalmente, certificados digitales de firma electrónica, de acuerdo al procedimiento que establezca para tal efecto la Unidad para el Control de Certificación de Firmas y las especificaciones técnicas que ésta determine; sin perjuicio de que se tramite la FIREL en cuanto concluyan las causas que dieron origen a la expedición de dichos certificados.
