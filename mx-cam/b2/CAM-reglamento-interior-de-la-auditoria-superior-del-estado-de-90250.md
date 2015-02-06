@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-auditoria-superior-del-estado-de-9025
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-31"
-last_updated: "2012-10-31"
+last_updated: "2015-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90250&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 6 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el miércoles 31 de Octubre de 2012.
 
@@ -977,7 +979,7 @@ IX.- Formular los estudios, opiniones, dictámenes, informes y demás documentos
 
 X.- Ejecutar, supervisar y controlar los trabajos que le hayan sido asignados;
 
-XI.- Custodiar la documentación y.los expedientes de los asuntos que les hayan sido encomendados, cuidando que su almacenamiento se lleve cabo con orden;
+XI.- Custodiar la documentación y los expedientes de los asuntos que les hayan sido encomendados, cuidando que su almacenamiento se lleve cabo con orden;
 
 XII.- Auxiliar al Titular de la Dirección de Asuntos Jurídicos en la vigilancia del archivo de trámite, controlando el acceso a los expedientes que estén bajo su custodia;
 
@@ -1499,7 +1501,7 @@ VI.- Mantener actualizados y perfeccionar sus conocimientos, aptitudes y compete
 
 VII.- Cumplir su trabajo con el cuidado y la aptitud que se esperan de un profesional razonablemente prudente y competente.
 
-VIII.- Custodiar, resguardar, usar adecuadamente y gestionar el mantenimiento de los bienes y equipo propiedad de la Entidad de Fiscalización que le sean asignados para el cumplimiento de sus funciones; (sic)
+VIII.- Custodiar, resguardar, usar adecuadamente y gestionar el mantenimiento de los bienes y equipo propiedad de la Entidad de Fiscalización que le sean asignados para el cumplimiento de sus funciones;
 
 ###### Artículo 35.
 
@@ -1556,3 +1558,15 @@ CUARTO.- Las revisiones o auditorías y su seguimiento que, a la entrada en vigo
 QUINTO.- Los asuntos que a la entrada en vigor del presente Reglamento, se encuentren en trámite y haya iniciado el Área de Archivo, Informes y Control de Resultados, los continuará la Unidad de Archivo, Acceso a la Información y Seguimiento de Actividades de conformidad con las disposiciones que se abrogan.
 
 Dado en la Ciudad de San Francisco de Campeche, Estado de Campeche, Estados Unidos Mexicanos, a los veinticuatro días del mes de octubre del año dos mil doce.- C.P. JORGE MARTÍN PACHECO PÉREZ, Auditor Superior del Estado de Campeche.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE FEBRERO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Auditoría Superior del Estado de Campeche de fecha 24 de octubre de 2012, publicado en el Periódico Oficial del Estado de Campeche número 5111 de fecha 31 de octubre de 2012. Asimismo, se derogan las disposiciones que se opongan al reglamento que se emite.
+
+TERCERO.- Los procedimientos o asuntos iniciados con anterioridad a la entrada en vigor del presente Reglamento y que se encuentren en trámite o en proceso, continuarán siendo instruidos o atendidos de acuerdo con las disposiciones del reglamento que se abroga. Únicamente podrán aplicarse las disposiciones del presente reglamento en los casos donde la facultad o poder haya sido conservada en los términos contemplada (sic) por el reglamento que se abroga, sin perjuicio de su numeración.
+
+CUARTO.- Los asuntos que a la entrada en vigor del presente Reglamento, se encuentren en trámite y haya iniciado la Unidad de Archivo, Acceso a la Información y Seguimiento de Actividades, los continuará la Unidad de Archivo y Acceso a la Información de conformidad con las disposiciones que se abrogan
