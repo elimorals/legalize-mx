@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-a-la-salud-de-los-no-fumadores-para-el-71071"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-07"
-last_updated: "2012-12-15"
+last_updated: "2015-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 7 de noviembre de 2009.
 
@@ -395,9 +395,11 @@ XIII. En general, en todo lugar cerrado al que tenga acceso el público.
 
 ### Capítulo VII. De las Obligaciones
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 23.
 
-Los propietarios, encargados o responsables de los espacios 100% libres de humo del tabaco, deberán colocar dentro de los mismos, en lugares visibles, letreros o señalamientos que indiquen la prohibición de fumar.
+Los propietarios, encargados o responsables de los espacios 100% libres de humo del tabaco, deberán colocar dentro de los mismos, en lugares visibles, letreros o señalamientos que indiquen la prohibición de fumar, debiéndose incluir un número telefónico para facilitar la denuncia por incumplimiento a esta Ley.
 
 ###### Artículo 24.
 
@@ -578,6 +580,12 @@ El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbric
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE FEBRERO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
