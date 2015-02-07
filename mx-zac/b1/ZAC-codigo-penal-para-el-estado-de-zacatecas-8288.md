@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2014-12-31"
+last_updated: "2015-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1945,6 +1945,26 @@ No se admitirá que hubo anuencia, por lo cual el acto cometido tendrá el cará
 
 251.- Al que sin motivo justificado incumpla con la obligación alimentaria respecto de sus hijos, cónyuge, o de cualquier otro familiar, sin ministrarle los recursos para atender las necesidades señaladas en los artículos 265 y 266 del Código Familiar, se le aplicará prisión de uno a tres años y multa de cien a doscientas cuotas.
 
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+Se consideran como motivos injustificados para efectos del párrafo anterior, entre otros los siguientes:
+
+I. Que se coloque dolosamente en estado de insolvencia.
+
+II. La manifestación dolosa de percibir un salario menor.
+
+III. La pérdida voluntaria del empleo formal.
+
+IV. La negación o evasión de la responsabilidad, bajo el argumento de laborar de manera informal o eventual.
+
+V. El cambio de domicilio sin previo aviso, con la finalidad de evadir la responsabilidad.
+
+VI. El deseo expreso de no cumplir con la responsabilidad.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+251 Bis.- La obligación alimentaria respecto de sus hijos, cónyuge, o de cualquier otro familiar, sin ministrarle los recursos para atender las necesidades señaladas en los artículos 265 y 266 del Código Familiar, no queda exenta cuando la obligación no provenga de sentencia ejecutoria o provenga de un divorcio voluntario en los términos señalados en el Artículo 224 del Código Familiar.
+
 252.- El delito a que se refiere el artículo anterior, sólo se perseguirá a petición del ofendido o del legítimo representante de los menores; a falta de los representantes de éstos, la averiguación previa se iniciará de oficio por el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial para los efectos de este precepto.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
@@ -3840,3 +3860,7 @@ P.O. 31 DE DICIEMBRE DE 2014.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 7 DE FEBRERO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
