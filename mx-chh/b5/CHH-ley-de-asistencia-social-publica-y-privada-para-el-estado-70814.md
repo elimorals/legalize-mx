@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asistencia-social-publica-y-privada-para-el-estado-70814
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-28"
-last_updated: "2015-01-31"
+last_updated: "2015-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de octubre de 2009.
 
@@ -967,7 +967,9 @@ VIII. Vigilar que las actividades desarrolladas por las instituciones de asisten
 
 IX. Gestionar, en el ámbito nacional e internacional, recursos y apoyo técnico para las instituciones de asistencia social privada;
 
-X. Promover, ante las autoridades competentes, el otorgamiento de estímulos a las instituciones de asistencia social privada;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2015)</small>
+
+X. Promover, ante las autoridades competentes, el otorgamiento de estímulos o tarifas preferenciales a las instituciones de asistencia social privada; entre otros, para los servicios de agua potable, electricidad, teléfono, gas, exclusivamente para los inmuebles en donde se brinde el servicio asistencial;
 
 XI. Apoyar las acciones de las instituciones de asistencia social privada a través del otorgamiento de recursos monetarios, en especie o servicios;
 
@@ -1440,3 +1442,9 @@ P.O. 31 DE ENERO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento con el presente Decreto, se sujetarán a los recursos aprobados para tal efecto por el H. Congreso del Estado.
+
+P.O. 7 DE FEBRERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
