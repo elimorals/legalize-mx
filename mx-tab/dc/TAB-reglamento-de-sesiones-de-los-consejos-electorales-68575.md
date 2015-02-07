@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-sesiones-de-los-consejos-electorales-68575"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-09"
-last_updated: "2009-05-09"
+last_updated: "2015-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DISTRITALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DE TABASCO
 
-REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DISTRITALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DE TABASCO
+REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DISTRITALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DISTRITALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO, PUBLICADO EN EL P.O. DE 7 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 9 de mayo de 2009.
 
@@ -83,7 +85,7 @@ XIII. Sesión: La Reunión de carácter formal de los integrantes del Consejo Di
 
 XIV. Moción: La Propuesta formulada en el curso de una sesión por algunos de los integrantes del Consejo Distrital, solicitada al Presidente con el objeto de encausar el debate o el desarrollo normal de la sesión;
 
-XV. Cómputo Distrital: Es la suma que realiza el Consejo Electoral Distrital, de los resultados anotados en las actas de escrutinio y cómputo del total de las casillas instaladas de un distrito electoral; y (sic)
+XV. Cómputo Distrital: Es la suma que realiza el Consejo Electoral Distrital, de los resultados anotados en las actas de escrutinio y cómputo del total de las casillas instaladas de un distrito electoral; y
 
 ARTÍCULO 4
 
@@ -496,3 +498,17 @@ DOY FE
 MTRO. ARMANDO XAVIER MALDONADO ACOSTA
 
 SECRETARIO EJECUTIVO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE FEBRERO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBA EL REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DISTRITALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO”.]
+
+Primero.- Este Reglamento entrará en vigor al día siguiente de su aprobación.
+
+Segundo.- Se abroga el Reglamento aprobado mediante acuerdo número CE/2009/025 de fecha 7 de mayo del año de 2009.
+
+Tercero.- El Secretario dispondrá a la brevedad posible, la edición del número de ejemplares de este Reglamento que estime necesarios para su adecuada difusión.
+
+Cuarto.- Publíquese en el Periódico Oficial del Estado y en la página de internet del Instituto, de conformidad con lo dispuesto en el artículo 114 de la Ley Electoral y de Partidos Políticos del Estado de Tabasco.
