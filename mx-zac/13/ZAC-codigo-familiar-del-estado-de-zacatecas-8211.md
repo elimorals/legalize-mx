@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2014-12-13"
+last_updated: "2015-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -1775,6 +1775,18 @@ La obligación de dar alimentos es recíproca. El que los da tiene a su vez el d
 
 Es acreedor alimentista todo aquel que no puede bastarse a sí mismo, y es deudor alimentista el obligado a proporcionar alimentos, en los términos establecidos en este Capítulo.
 
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+Los menores, las personas con discapacidad, los sujetos en estado de interdicción y el cónyuge que se dedique al hogar, gozan de la presunción de necesitar alimentos.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+El que recibe los alimentos está obligado a administrarlos única y exclusivamente para el acreedor alimentista, y tiene la obligación de utilizar la pensión para las necesidades propias del acreedor, a rendir cuentas y a justificar los gastos cuando así se le requiera, sobre todo cuando el acreedor alimentista sea menor de edad, persona con discapacidad o adulto mayor.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+En el caso de que quien administra los alimentos, los haya utilizado para fines distintos y se compruebe ante la autoridad judicial, se le impondrá una multa de veinte hasta cincuenta cuotas de salario mínimo, mismos que serán en beneficio del acreedor alimentista.
+
 ###### ARTICULO 257.
 
 Los cónyuges deben darse alimentos en las circunstancias y condiciones señaladas en esta ley.
@@ -1809,9 +1821,23 @@ También deben dar alimentos a los parientes dentro del grado mencionado, que fu
 
 El adoptante y el adoptado tienen obligación de darse alimentos, en los casos que la tienen los padres y los hijos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2015)</small>
+
 ###### ARTICULO 265.
 
-Los alimentos comprenden: la comida, el vestido, la habitación y la asistencia en caso de enfermedad.
+Los alimentos comprenden:
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2015)</small>
+
+I. La comida, el vestido, la habitación, la atención médica, la hospitalaria y en su caso, los gastos de embarazo y parto;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2015)</small>
+
+II. Con relación a las personas con discapacidad o declarados en estado de interdicción, en especial los menores con discapacidad, lo necesario y suficiente para lograr, en la medida de lo posible, su habilitación o rehabilitación, su desarrollo e inclusión en la sociedad; y
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2015)</small>
+
+III. Con relación a los adultos mayores que sean incapaces de satisfacer sus necesidades elementales, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia.
 
 ###### ARTICULO 266.
 
@@ -4782,3 +4808,7 @@ DECRETO No. 218 POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 23 DEL C
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 7 DE FEBRERO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
