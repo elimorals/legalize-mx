@@ -4,7 +4,7 @@ identifier: "COL-ley-de-profesiones-del-estado-de-colima-52082"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-07"
-last_updated: "2014-06-21"
+last_updated: "2015-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LA LEY DE PROFESIONES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 7 de octubre de 2006.
 
@@ -930,6 +930,10 @@ Técnico Como Contador Privado; y
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2014)</small>
 
 Licenciatura en Nutrición.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE FEBRERO DE 2015)</small>
+
+Especialista en cirugía plástica, estética y reconstructiva.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -1860,5 +1864,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE JUNIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE FEBRERO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
