@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2014-10-18"
+last_updated: "2015-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -845,6 +845,10 @@ VI. Por permitir que otra persona utilice la licencia de conducir que le haya si
 
 VII. Por violar alguna restricción que haya sido impuesta en la licencia de conducir expedida.
 
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2015)</small>
+
+VIII. Cuando el chofer de servicio público, taxista o de pasajeros, que en ejercicio de sus funciones o con motivo de ellas, conduzca, maneje o maniobre vehículos en estado de intoxicación por cualquier cantidad de alcohol o bajo el influjo de drogas u otras sustancias igualmente tóxicas que produzcan efectos similares, sin que medie prescripción médica que certifique su capacidad.
+
 ###### Artículo 59.
 
 Son causas de cancelación de licencias de conducir:
@@ -869,11 +873,9 @@ IV. Que se compruebe que la información proporcionada o alguno de los documento
 
 V. Cuando se compruebe que tiene dos o más licencias de la misma categoría. En este caso, si se acreditare la obtención dolosa del solicitante, se cancelarán todas; de lo contrario, quedará vigente únicamente la última de ellas; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2008)</small>
-
-VI. En el caso de los menores de edad, si éstos conducen un vehículo diverso para el que están autorizados, o si no portan en el mismo el holograma de identificación previsto en esta Ley.
+VI. La reincidencia durante el término de tres años en cualquiera de las conductas establecidas en la fracción VIII del artículo 58.
 
 > <small>(REFORMADO, P.O. 12 DE ENERO DE 2013)</small>
 
@@ -1756,3 +1758,9 @@ Se derogan las demás disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Túrnese copia del presente Decreto, a la Secretaría de Servicios Parlamentarios y Vinculación Ciudadana del H. Congreso del Estado, a efecto de que lleve a cabo una campaña de socialización respecto del contenido y alcance del mismo.
+
+P.O. 7 DE FEBRERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
