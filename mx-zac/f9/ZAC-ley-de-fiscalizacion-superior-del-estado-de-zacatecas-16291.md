@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fiscalizacion-superior-del-estado-de-zacatecas-16291"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-30"
-last_updated: "2014-07-05"
+last_updated: "2015-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el jueves 30 de marzo de 2000.
 
@@ -735,13 +735,17 @@ La Auditoría Superior del Estado será responsable solidaria de los daños y pe
 
 ### CAPÍTULO III. DEL INFORME DEL RESULTADO DE LA REVISIÓN Y FISCALIZACIÓN SUPERIOR DE LAS CUENTAS PÚBLICAS
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 31.
 
-La Auditoría Superior del Estado, dentro de los cinco meses posteriores a la presentación de la Cuenta Pública, deberá realizar su examen y rendir a la Legislatura, por conducto de la Comisión, el Informe del Resultado de que se trate, mismo que tendrá carácter público hasta que sea leído como dictamen en el Pleno de la Legislatura; mientras ello no suceda, la Auditoria Superior del Estado deberá guardar estricta reserva de sus actuaciones e informaciones.
+La Auditoría Superior del Estado, dentro de los seis meses posteriores a la presentación de la Cuenta Pública, deberá realizar su examen y rendir a la Legislatura, por conducto de la Comisión, el Informe del Resultado de que se trate, mismo que tendrá carácter público hasta que sea leído como dictamen en el Pleno de la Legislatura; mientras ello no suceda, la Auditoría Superior del Estado deberá guardar estricta reserva de sus actuaciones e informaciones.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2012)</small>
 
 Sólo se podrá ampliar el plazo de presentación de Informes de Resultados, hasta por veinte días hábiles cuando medie solicitud de la Auditoría Superior del Estado, suficientemente justificada a juicio de la Legislatura por conducto de la Comisión. Tal solicitud deberá ser presentada por lo menos con quince días de anticipación a la conclusión del plazo, en ningún caso la prórroga excederá de un mes.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2012)</small>
 
 Para tal efecto, de manera previa a la presentación de Informes de Resultados, se dará a conocer a las Entidades Fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado para la elaboración del Informe de Resultados de la revisión de la Cuenta Pública, de conformidad con el artículo 18 de esta Ley.
 
@@ -783,7 +787,9 @@ En el supuesto de que conforme al apartado b) de este artículo, no se cumplan c
 
 Presentado el Informe de Resultados, la Auditoría Superior del Estado contará con un plazo de diez días hábiles, sin contar el día de la presentación, para notificar a las Entidades Fiscalizadas el Informe de Resultados y las acciones que de él se deriven, para que dentro del término improrrogable de veinte días hábiles contados a partir del día en que surta efectos la notificación respectiva, presenten la información y documentación que consideren pertinente para solventar las acciones promovidas.
 
-Concluido dicho término para la solventación, la Auditoría Superior del Estado contará con un plazo de ciento veinte días hábiles para pronunciarse sobre las respuestas emitidas por los entes fiscalizados, y presentar el Informe Complementario respectivo, en caso de no hacerlo, se tendrán por atendidas las observaciones y aclaraciones promovidas.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+Concluido dicho término para la solventación, la Auditoría Superior del Estado contará con un plazo de noventa días hábiles para pronunciarse sobre las respuestas emitidas por los entes fiscalizados, y presentar el Informe Complementario respectivo, en caso de no hacerlo, se tendrán por atendidas las observaciones y aclaraciones promovidas.
 
 Lo anterior no aplicará a las denuncias de hechos y a las promociones de responsabilidades administrativas, las cuales se sujetarán a los procedimientos y términos que establezca la ley.
 
@@ -1530,3 +1536,9 @@ P.O. 5 DE JULIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 7 DE FEBRERO DE 2015.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que se opongan a este Decreto.
