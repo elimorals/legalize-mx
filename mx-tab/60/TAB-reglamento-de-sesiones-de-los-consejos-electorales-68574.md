@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-sesiones-de-los-consejos-electorales-68574"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-09"
-last_updated: "2009-05-09"
+last_updated: "2015-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES MUNICIPALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DE TABASCO
 
-REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES MUNICIPALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DE TABASCO
+REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES MUNICIPALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES MUNICIPALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO, PUBLICADO EN EL P.O. DE 7 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 9 de mayo de 2009.
 
@@ -83,7 +85,7 @@ XIII. Sesión: La Reunión de carácter formal de los integrantes del Consejo El
 
 XIV. Moción: La Propuesta formulada en el curso de una sesión por algunos de los integrantes del Consejo Electoral Municipal, solicitada al Presidente con el objeto de encausar el debate o el desarrollo normal de la sesión;
 
-XV. Cómputo Municipal: Es la suma que realiza el Consejo Electoral Municipal, de los resultados anotados en las actas de escrutinio y cómputo del total de las casillas instaladas de un municipio; y (sic)
+XV. Cómputo Municipal: Es la suma que realiza el Consejo Electoral Municipal, de los resultados anotados en las actas de escrutinio y cómputo del total de las casillas instaladas de un municipio; y
 
 ARTÍCULO 4
 
@@ -482,3 +484,17 @@ CONSEJERO PRESIDENTE
 MTRO. ARMANDO XAVIER MALDONADO ACOSTA
 
 SECRETARIO EJECUTIVO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+7 DE FEBRERO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE EMITE EL CONSEJO ESTATAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES MUNICIPALES EN ATENCIÓN A LAS RECIENTES REFORMAS CONSTITUCIONALES Y LEGALES EN MATERIA ELECTORAL”.]
+
+Primero.- Este Reglamento entrará en vigor al día siguiente de su aprobación
+
+Segundo.- Se abroga el Reglamento aprobado mediante acuerdo número CE/2009/029 de fecha 7 de mayo del año de 2009.
+
+Tercero.- El Secretario dispondrá a la brevedad posible, la edición del número de ejemplares de este Reglamento que estime necesarios para su adecuada difusión.
+
+Cuarto.- Publíquese en el Periódico Oficial del Estado y en la página de Internet del Instituto, de conformidad con lo dispuesto en el artículo 114 de la Ley Electoral y de Partidos Políticos del Estado de Tabasco.
