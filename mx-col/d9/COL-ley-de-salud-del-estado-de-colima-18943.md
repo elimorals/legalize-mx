@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2014-12-13"
+last_updated: "2015-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -81,7 +81,7 @@ VI.- El conocimiento de los servicios de salud para su adecuado aprovechamiento 
 
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2006)</small>
 
-VI.- Garantizar el acceso a los servicios de salud a los menores de edad, las mujeres, las personas con discapacidad y los adultos mayores.
+VII.- Garantizar el acceso a los servicios de salud a los menores de edad, las mujeres, las personas con discapacidad y los adultos mayores.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
@@ -291,9 +291,15 @@ XVI.- Gasolineras y establecimientos similares;
 
 XVII.- Centros antirrábicos; y
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2015)</small>
 
-XVIII.- Las demás materias que determinen esta Ley y otras disposiciones aplicables.
+XVIII.- Establecimientos dedicados a la cirugía plástica, estética y reconstructiva;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2015)</small>
+
+XIX.- Instituciones destinadas a la educación especial y de rehabilitación para personas con discapacidad; y
+
+XX.- Las demás materias que determinen esta Ley y otras disposiciones aplicables.
 
 ###### ARTICULO 8º.
 
@@ -341,7 +347,7 @@ IV.- Determinar y ejercer en el ámbito de su competencia en coordinación con l
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
-ARTICULO 12 BIS.- Para los efectos de la fracción tercera del artículo anterior se considerarán a demás de los señalados en la ley General, en esta Ley, y en su caso, en el Reglamento Municipal respectivo como inhalantes con efectos psicotrópicos las siguientes sustancias:
+ARTICULO 12 BIS.- Para los efectos de la fracción tercera del artículo anterior se considerarán a demás (sic) de los señalados en la ley General, en esta Ley, y en su caso, en el Reglamento Municipal respectivo como inhalantes con efectos psicotrópicos las siguientes sustancias:
 
 a).- Materias primas que se utilizan en la industria aisladamente o en combinación:
 
@@ -1153,7 +1159,23 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local dicte la Secretaría.
 
-### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIII BIS. ESTABLECIMIENTOS DEDICADOS A LA CIRUGIA ESTETICA, PLASTICA Y RECONSTRUCTIVA
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+ARTICULO 80 BIS.- La cirugía plástica, estética y reconstructiva, relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, o con efectos antienvejecimiento, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por especialistas en cirugía plástica, estética y reconstructiva certificados de conformidad a la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+ARTICULO 80 BIS 1.- Las sociedades, asociaciones, colegios o federaciones de especialistas dedicados a la cirugía plástica, estética y reconstructiva, deberán poner a disposición de la Secretaría de Salud del Estado un listado que contenga los nombres, y datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos certificados referido en este capítulo, y será de conocimiento público sus certificados o títulos de especialización vigentes, así como el o los procedimientos médico-quirúrgicos que lleven a cabo.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+ARTICULO 80 BIS 2.- El funcionamiento de los establecimientos señalados en este capítulo deberá apegarse a lo establecido en la Ley General de Salud y su reglamento, las Normas Oficiales Mexicanas que se encuentren vigentes y sean aplicables relativas a las características mínimas de infraestructura y equipamiento de hospitales y consultorios de atención médica especializada, las normas técnicas correspondientes y lo que establezca esta ley. Corresponde a la autoridad sanitaria ejercer el control sanitario de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+ARTICULO 80 BIS 3.- La oferta de los servicios en propaganda o publicidad que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por especialistas que ofrezcan cirugía plástica, estética y reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad su nombre, título que ostenta y número de cédula del especialista, número de certificación otorgado por el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva y el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional, así como el nombre del establecimiento o unidad médica con licencia vigente.
 
 ###### ARTICULO 75.
 
@@ -1163,7 +1185,7 @@ Para los efectos de esta Ley, se entiende por centro de reunión y espectáculos
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local emita la Secretaría.
 
-### CAPITULO XV. TRANSPORTE PUBLICO
+### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 77.
 
@@ -1185,9 +1207,11 @@ Corresponde a la autoridad sanitaria ejercer el control sanitario de los estable
 
 El funcionamiento de los establecimientos señalados en este capítulo deberá apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XVI. GASOLINERIAS (SIC) Y ESTABLECIMIENTOS SIMILARES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 2015)</small>
 
-### CAPITULO XVII. CENTROS ANTIRRABICOS
+### CAPITULO XV. TRANSPORTE PUBLICO
+
+### CAPITULO XVI. GASOLINERIAS (SIC) Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 81.
 
@@ -1207,6 +1231,16 @@ En caso de que estos establecimientos cuenten con servicios complementarios como
 
 La autoridad sanitaria competente, de conformidad con esta Ley y otras disposiciones legales aplicables, realizará el control sanitario a dichos establecimientos.
 
+### CAPITULO XVII. CENTROS ANTIRRABICOS
+
+###### ARTICULO 85.
+
+Para los efectos de esta Ley, se entiende por medio de transporte todo aquel vehículo destinado al traslado de carga, de alimentos o de pasajeros, sea cual fuere su forma de desplazamiento.
+
+###### ARTICULO 86.
+
+Las unidades que circulen por uno o más municipios del Estado, deberán cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables.
+
 ### CAPITULO XVIII. CASAS, EDIFICIOS Y, EN GENERAL, CUALQUIER INMUEBLE DE DOMINIO PUBLICO O PRIVADO
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2007)</small>
@@ -1225,13 +1259,13 @@ En caso de incumplimiento por parte de los propietarios o poseedores de dichos e
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2008)</small>
 
-###### ARTICULO 85.
+###### ARTICULO 87.
 
-Para los efectos de esta Ley, se entiende por medio de transporte todo aquel vehículo destinado al traslado de carga, de alimentos o de pasajeros, sea cual fuere su forma de desplazamiento.
+Para los efectos de esta Ley, se entiende por gasolinería (sic) y estaciones de servicios similares: los establecimientos destinados al expendio o suministro de gasolinas, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores.
 
-###### ARTICULO 86.
+###### ARTICULO 88.
 
-Las unidades que circulen por uno o más municipios del Estado, deberán cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables.
+Los establecimientos a que se refiere este capítulo deberán contar con las instalaciones higienico-sanitarias que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
 
 ### CAPITULO XIX. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL CONSUMO DE TABACO
 
@@ -1268,16 +1302,6 @@ II. Los hábitos de consumo de alcohol y tabaco en los diferentes grupos de pobl
 III. Efectos del abuso de éstas sustancias en los ámbitos familiar, social, educativo, laboral, deportivo y de espectáculos; y
 
 IV. Los demás casos que ameriten su estudio y Análisis.
-
-###### ARTICULO 87.
-
-Para los efectos de esta Ley, se entiende por gasolinería (sic) y estaciones de servicios similares: los establecimientos destinados al expendio o suministro de gasolinas, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores.
-
-###### ARTICULO 88.
-
-Los establecimientos a que se refiere este capítulo deberán contar con las instalaciones higienico-sanitarias que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
-
-### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 89.
 
@@ -1323,13 +1347,13 @@ Las autoridades competentes mantendrán campañas permanentes de orientación a 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JULIO DE 2007)</small>
 
-### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
 
 ## TITULO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 93.
 
@@ -1361,7 +1385,7 @@ Requieren de autorización sanitaria bajo la modalidad de permiso, los proyectos
 
 Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autoridad sanitaria competente en los términos de las disposiciones generales aplicables; asimismo, se regirán por lo que determine la legislación y disposiciones correspondientes.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 100.
 
@@ -1407,7 +1431,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La revocación surtirá efectos de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 107.
 
@@ -1441,7 +1465,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 112.
 
@@ -1551,7 +1575,7 @@ En el caso de los productos muestreados en procedimientos de muestreo o verifica
 
 ## TITULO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 125.
 
@@ -1635,7 +1659,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud de las personas.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 133.
 
@@ -1681,7 +1705,7 @@ II.- De diez hasta cien unidades, en los casos del artículo 37, de esta Ley;
 
 III.- De cincuenta hasta quinientas unidades, en los casos de los artículos 62 y 118 de esta Ley; y
 
-VI.- Hasta de quinientas unidades, las no previstas en este capítulo.
+VI (SIC).- Hasta de quinientas unidades, las no previstas en este capítulo.
 
 La aplicación de las multas será sin perjuicio de que se dicten las medidas de seguridad sanitaria que procedan, hasta en tanto se subsanen las irregularidades.
 
@@ -1712,6 +1736,8 @@ I.- A la persona que interfiera o se oponga al ejercicio de las funciones de la 
 II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un riesgo a la salud de las personas. Sólo procederá esta sanción, si previamente se dictó cualquier otra de las sanciones a que se refiere este capítulo.
 
 Impuesto el arresto, se hará del conocimiento a la autoridad correspondiente a efecto de que proceda a su ejecución.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 141.
 
@@ -1980,3 +2006,7 @@ P.O. 16 DE AGOSTO DE 2014.
 P.O. 13 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE FEBRERO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
