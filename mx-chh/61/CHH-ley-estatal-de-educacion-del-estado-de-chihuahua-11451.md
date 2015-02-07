@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2014-12-20"
+last_updated: "2015-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -570,6 +570,10 @@ LI. Promover la transparencia en las Escuelas Públicas y Particulares en las qu
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
 
 LII. Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo.
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2015)</small>
+
+LIII. Vigilar que en las instituciones de educación básica y media superior, públicas y privadas, no se condicione el acceso o permanencia del alumnado a la adquisición de útiles escolares, uniformes y demás enseres u objetos vinculados al proceso de enseñanza aprendizaje, en establecimientos específicos, de cierta marca o determinada calidad.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1837,7 +1841,9 @@ XIII. Otorgar apoyos pedagógicos y sicológicos, desde educación preescolar ha
 
 XIV. Satisfacer las necesidades educativas de los pueblos indígenas y otras minorías étnicas;
 
-XV. Vigilar que no se condicione la inscripción, asistencia y entrega de documentos oficiales a las y los educandos, cuyos padres, madres o tutores no puedan cumplir con aportaciones de cualquier tipo, que acuerden las Asociaciones de Padres de Familia;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2015)</small>
+
+XV. Vigilar que no se condicione la inscripción, asistencia, aplicación de evaluaciones o exámenes y entrega de documentos oficiales a las y los educandos, cuyos padres, madres o tutores no puedan cumplir con las aportaciones de cualquier tipo, que acuerden las Asociaciones de Padres de Familia;
 
 XVI. Efectuar campañas educativas tendientes a elevar los niveles culturales, sociales y de bienestar de los chihuahuenses, comprendiendo programas de respeto al medio ambiente, erradicación de violencia intrafamiliar, prevención del delito y todo aquel que impulse la educación comunitaria;
 
@@ -3984,6 +3990,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con ciento cuarenta días hábiles para modificar y adecuar a las nuevas disposiciones, el reglamento correspondiente.
 
 P.O. 20 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE FEBRERO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
