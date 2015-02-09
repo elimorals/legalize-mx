@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-hacendario-del-estado-de-82480
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-09"
-last_updated: "2011-09-05"
+last_updated: "2015-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL INSTITUTO HACENDARIO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 5 DE SEPTIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 9 de agosto de 2011.
 
@@ -71,7 +69,19 @@ X. Municipios, a los municipios del Estado de México;
 
 XI. Tesoreros, a los Tesoreros Municipales del Estado de México;
 
-XII. Sesiones, a las reuniones ordinarias o extraordinarias de la Comisión Permanente; y
+> <small>(REFORMADA, G.G. 9 DE FEBRERO DE 2015)</small>
+
+XII. Reuniones Hacendarias;
+
+a. Reunión Estatal de Servidores Públicos Hacendarios;
+
+b. Asamblea anual del Consejo Directivo;
+
+c. Sesiones ordinarias o extraordinarias del Consejo Directivo en su modalidad de Comisión Permanente;
+
+d. Regionales de Tesoreros Municipales y;
+
+e. De Temas Específicos.
 
 XIII. Reuniones Regionales, a las Reuniones Regionales Hacendarias de Tesoreros municipales;
 
@@ -383,7 +393,11 @@ XXI. Expedir constancias o copias certificadas de los documentos que obren en lo
 
 XXII. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones en materia de transparencia y acceso a la información pública; y
 
-XXIII. Las demás que les señalen otras disposiciones legales y aquellas que les encomiende el Vocal Ejecutivo.
+> <small>(ADICIONADA, G.G. 9 DE FEBRERO DE 2015)</small>
+
+XXIII. Dar seguimiento al cumplimiento de los compromisos asumidos a través de los convenios en las materias que le correspondan; y
+
+XXIV. Las demás que les señalen otras disposiciones legales y aquellas que les encomiende el Vocal Ejecutivo.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DE LAS COORDINACIONES, UNIDAD Y CONTRALORÍA INTERNA
 
@@ -407,7 +421,7 @@ VII. Proponer al Vocal Ejecutivo las políticas y lineamientos técnicos y metod
 
 VIII. Operar el Servicio Hacendario Municipal, mediante la integración del registro de datos de la formación profesional de los servidores públicos hacendarios;
 
-IX. Fungir como Secretario Técnico de la Comisión Certificadora de Competencia Laboral de los Servidores Públicos del Estado de México y convocar a las sesiones de ésta;
+IX. (DEROGADA, G.G. 9 DE FEBRERO DE 2015)
 
 X. Participar como Secretario Técnico del Comité Técnico de Becas del Instituto y desempeñar los trámites administrativos que le sean requeridos;
 
@@ -415,9 +429,21 @@ XI. Proporcionar asistencia técnica para la formación profesional de los servi
 
 XII. Operar sistemas de evaluación y de desarrollo de competencias laborales de servidores públicos estatales y municipales, en el marco del Reglamento de la Comisión Certificadora de Competencia Laboral de los Servidores Públicos del Estado de México;
 
-XIII. Atender las atribuciones correspondientes a la coordinación de control escolar del Colegio de Estudios Hacendarios del Estado de México; y
+XIII. (DEROGADA, G.G. 9 DE FEBRERO DE 2015)
 
-XIV. Las demás que le sean señaladas por otras disposiciones legales y aquellas que le encomiende el Vocal Ejecutivo.
+> <small>(ADICIONADA, G.G. 9 DE FEBRERO DE 2015)</small>
+
+XIV. Atender las atribuciones establecidas en el Reglamento de la Comisión Certificadora de Competencias Laborales de los Servidores Público (sic) de Estado de México;
+
+> <small>(ADICIONADA, G.G. 9 DE FEBRERO DE 2015)</small>
+
+XV. Atender las atribuciones correspondientes a lo establecido en el Reglamento Interno del Colegio de Estudios Hacendarios del Estado de México;
+
+> <small>(ADICIONADA, G.G. 9 DE FEBRERO DE 2015)</small>
+
+XVI. Participar en congresos, seminarios o coloquios, en materia de su competencia, convocados por Instituciones u Organismos estatales, nacionales o internacionales; y
+
+XVII. Las demás que le sean señaladas por otras disposiciones legales y aquellas que le encomiende el Vocal Ejecutivo.
 
 ###### Artículo 27.
 
@@ -433,7 +459,7 @@ IV. Registrar los estudios y trabajos que realice en el Registro Estatal de Inve
 
 V. Operar y mantener actualizado el Registro Estatal de Investigaciones Hacendarias;
 
-VI. Atender las atribuciones correspondientes a la Coordinación Académica del Colegio de Estudios Hacendarios del Estado de México;
+VI. (DEROGADA, G.G. 9 DE FEBRERO DE 2015)
 
 VII. Proponer al Vocal Ejecutivo, en el ámbito de su competencia, los mecanismos necesarios para el intercambio de información cualitativa y cuantitativa sobre experiencias y prácticas hacendarias, tanto del orden estatal, nacional e internacional;
 
@@ -455,7 +481,19 @@ XV. Proponer los criterios y modelos necesarios para que los Ayuntamientos gener
 
 XVI. Coordinar la edición de los documentos que produce el Instituto, así como integrar y proponer el programa editorial anual, de acuerdo con la normatividad aplicable; y
 
-XVII. Las demás que le sean señaladas por otras disposiciones legales y aquellas que le encomiende el Vocal Ejecutivo.
+> <small>(ADICIONADA, G.G. 9 DE FEBRERO DE 2015)</small>
+
+XVII. Coadyuvar en la adecuada formulación de proyectos de inversión derivados de los programas estatales y federales;
+
+> <small>(ADICIONADA, G.G. 9 DE FEBRERO DE 2015)</small>
+
+XVIII. Operar el Servicio Hacendario Municipal, mediante la integración del registro de datos de la formación profesional de los servidores públicos hacendarios;
+
+> <small>(ADICIONADA, G.G. 9 DE FEBRERO DE 2015)</small>
+
+XIX. Participar en congresos, seminarios o coloquios, en materia de su competencia, convocados por Instituciones u Organismos estatales, nacionales o internacionales; y
+
+XX. Las demás que le sean señaladas por otras disposiciones legales y aquellas que le encomiende el Vocal Ejecutivo.
 
 ###### Artículo 28.
 
@@ -481,7 +519,11 @@ IX. Coordinar con los municipios la organización y desarrollo de las Reuniones 
 
 X. Difundir entre los municipios los productos y servicios que proporciona el Instituto; y
 
-XI. Las demás que le sean señaladas por otras disposiciones legales y aquellas que le encomiende el Vocal Ejecutivo.
+> <small>(ADICIONADA, G.G. 9 DE FEBRERO DE 2015)</small>
+
+XI. Participar en congresos, seminarios o coloquios, en materia de su competencia, convocados por Instituciones u Organismos estatales, nacionales o internacionales; y
+
+XII. Las demás que le sean señaladas por otras disposiciones legales y aquellas que le encomiende el Vocal Ejecutivo.
 
 ###### Artículo 29.
 
@@ -521,7 +563,19 @@ XV. Apoyar al Colegio de Estudios Hacendarios del Estado de México en asuntos d
 
 XVI. Validar los contratos y convenios que deba suscribir el Vocal Ejecutivo; y
 
-XVII. Las demás que le sean señaladas por otras disposiciones legales y aquellas que le encomiende el Vocal Ejecutivo.
+> <small>(ADICIONADA, G.G. 9 DE FEBRERO DE 2015)</small>
+
+XVII. Promover y otorgar asistencia técnica en la elaboración y actualización del Reglamento Interno y Manuales Administrativos del Instituto para su aprobación por parte del Consejo Directivo en su modalidad de Comisión Permanente;
+
+> <small>(ADICIONADA, G.G. 9 DE FEBRERO DE 2015)</small>
+
+XVIII. Fungir como área jurídica consultiva del Instituto;
+
+> <small>(ADICIONADA, G.G. 9 DE FEBRERO DE 2015)</small>
+
+XIX. Participar en congresos, seminarios o coloquios, en materia de su competencia, convocados por Instituciones u Organismos estatales, nacionales o internacionales; y
+
+XX. Las demás que le sean señaladas por otras disposiciones legales y aquellas que le encomiende el Vocal Ejecutivo.
 
 ###### Artículo 30.
 
@@ -721,9 +775,17 @@ Conforme a lo previsto por el artículo 254 Bis del Código, podrá invitarse a 
 
 Las Comisiones Temáticas podrán sesionar válidamente en primera convocatoria con la asistencia del Presidente, Secretario y, cuando menos, el cincuenta por ciento más uno de sus vocales y, en segunda convocatoria, después de transcurridos treinta minutos a la primera, por el Presidente, el Secretario y los vocales presentes.
 
+> <small>(REFORMADO, G.G. 9 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 39.
 
-Las sesiones de las Comisiones Temáticas se desarrollarán conforme a lo establecido en la mecánica de trabajo que apruebe la propia comisión.
+Las sesiones de las Comisiones Temáticas se desarrollaran conforme a lo establecido en la mecánica de trabajo y al orden del día que se aprueben en la propia Comisión.
+
+Todos los acuerdos de las Comisiones Temáticas serán tomados por mayoría de votos o unanimidad de sus integrantes presentes.
+
+De cada sesión se levantará un acta por parte del Secretario de la reunión, la cual incluirá los asuntos tratados y los acuerdos tomados, esta deberá de ser firmada por los asistentes a dicha sesión.
+
+La falta de firma del acta por alguno de los integrantes de las Comisiones Temáticas, no invalidará los acuerdos tomados.
 
 ###### Artículo 40.
 
@@ -826,3 +888,11 @@ MTRA. SORAYA PÉREZ MUNGUÍA
 VOCAL EJECUTIVO DEL INSTITUTO HACENDARIO DEL ESTADO DE MÉXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 9 DE FEBRERO DE 2015.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
