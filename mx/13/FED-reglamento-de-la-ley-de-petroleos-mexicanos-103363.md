@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-petroleos-mexicanos-103363"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-31"
-last_updated: "2014-10-31"
+last_updated: "2015-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103363&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-10-29"
 
 REGLAMENTO DE LA LEY DE PETRÓLEOS MEXICANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 31 de octubre de 2014.
 
@@ -113,17 +113,23 @@ VII. Realizar o desempeñar cualquier empleo, cargo, comisión, actividad o pres
 
 Para efectos de lo previsto en el párrafo tercero del artículo 16 de la Ley, el impedimento señalado deberá referirse a cualquier empleo, cargo o comisión, sin importar el poder o ente público de los niveles de gobierno mencionados, con excepción de los docentes o de investigación.
 
+> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 10.
 
-Los Consejeros del Gobierno Federal y los Consejeros Independientes presentarán al Ejecutivo Federal, por conducto de la Consejería Jurídica del Ejecutivo Federal, y al Consejo de Administración, durante el mes de enero de cada año, un escrito en el que manifiesten, bajo protesta de decir verdad, que no se ubican en alguno de los supuestos de impedimento o conflicto de interés a que se refieren la Ley y el presente Reglamento, así como señalar en dicho escrito las demás actividades profesionales, empleos, puestos, cargos o comisiones que hayan desempeñado en el año calendario inmediato anterior, así como todos aquellos contratos de asesoría o los que en ejercicio de sus actividades profesionales hayan celebrado de forma personal o en los que hubiesen participado, durante el mismo periodo.
+Los Consejeros del Gobierno Federal y los Consejeros Independientes presentarán a la Secretaría de la Función Pública, y al Consejo de Administración, durante el mes de enero de cada año, un escrito en el que manifiesten, bajo protesta de decir verdad, que no se ubican en alguno de los supuestos de impedimento o conflicto de interés a que se refieren la Ley y el presente Reglamento, así como señalar en dicho escrito las demás actividades profesionales, empleos, puestos, cargos o comisiones que hayan desempeñado en el año calendario inmediato anterior, así como todos aquellos contratos de asesoría o los que en ejercicio de sus actividades profesionales hayan celebrado de forma personal o en los que hubiesen participado, durante el mismo periodo.
+
+> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 11.
 
-A solicitud de la Consejería Jurídica del Ejecutivo Federal, Petróleos Mexicanos deberá entregar copia de cualquier reporte o informe que haya proporcionado a las autoridades competentes, nacionales o extranjeras, que contenga información relacionada con las actividades actuales y anteriores de los integrantes del Consejo de Administración.
+A solicitud de la Secretaría de la Función Pública, Petróleos Mexicanos deberá entregar copia de cualquier reporte o informe que haya proporcionado a las autoridades competentes, nacionales o extranjeras, que contenga información relacionada con las actividades actuales y anteriores de los integrantes del Consejo de Administración.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 12.
 
-En caso de que a juicio de al menos dos integrantes del Consejo de Administración, del Comisario, o del Consejero Jurídico del Ejecutivo Federal, exista duda fundada de que las actividades, empleos, puestos, cargos, comisiones o contratos señalados en el escrito a que se refiere el artículo 10 del presente Reglamento configuran un conflicto de interés, remitirán al Ejecutivo Federal el dictamen correspondiente, a efecto de que determine lo conducente.
+En caso de que a juicio de al menos dos integrantes del Consejo de Administración o del Comisario, exista duda fundada de que las actividades, empleos, puestos, cargos, comisiones o contratos señalados en el escrito a que se refiere el artículo 10 del presente Reglamento configuran un conflicto de interés, remitirán a la Secretaría de la Función Pública el dictamen correspondiente, a efecto de que determine lo conducente.
 
 La determinación que se adopte conforme al párrafo anterior será sin perjuicio de las responsabilidades y acciones legales que, en su caso, procedan.
 
@@ -141,9 +147,11 @@ III. Dicten conferencias a título personal o participen en otros foros; imparta
 
 En relación con lo señalado en el artículo 21, fracción VI de la Ley, no se tomará en cuenta la pertenencia a juntas directivas de personas morales cuyo objeto principal sea la realización de actividades culturales, altruistas o sin fines de lucro, siempre y cuando no impida el adecuado ejercicio de su función como Consejero Independiente.
 
+> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 15.
 
-Si como parte de la evaluación anual a que se refiere el artículo 117 de la Ley, el Comisario detecta un posible caso de conflicto de interés, remitirá inmediatamente a la Consejería Jurídica del Ejecutivo Federal el dictamen respectivo.
+Si como parte de la evaluación anual a que se refiere el artículo 117 de la Ley, el Comisario detecta un posible caso de conflicto de interés, remitirá inmediatamente a la Secretaría de la Función Pública el dictamen respectivo.
 
 #### Sección Tercera. Remuneración de los Integrantes del Consejo de Administración
 
@@ -508,3 +516,11 @@ Noveno. Las empresas productivas subsidiarias o empresas filiales considerarán 
 Décimo. En términos del Décimo Octavo Transitorio de la Ley de Petróleos Mexicanos, la actualización de los programas y proyectos de inversión a cargo de Petróleos Mexicanos o sus organismos subsidiarios que hayan sido registrados o que estuviesen en proceso de registro en la Cartera que integra y administra la Secretaría de Hacienda y Crédito Público, con anterioridad a la entrada en vigor del régimen especial previsto en la Ley de Petróleos Mexicanos, se realizará conforme a los lineamientos vigentes al momento de su registro o solicitud, así como a las modificaciones que, en su caso, se realicen a dichos lineamientos, mismos que establecerán los plazos aplicables.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintinueve de octubre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Luis Videgaray Caso.- Rúbrica.- El Secretario de Energía, Pedro Joaquín Coldwell.- Rúbrica.- En ausencia del Secretario de la Función Pública, en términos de lo dispuesto por los artículos 18 de la Ley Orgánica de la Administración Pública Federal; 7, fracción XII, y 86 del Reglamento Interior de la Secretaría de la Función Pública, el Subsecretario de Responsabilidades Administrativas y Contrataciones Públicas, Julián Alfonso Olivas Ugalde.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los trámites que por virtud del presente Decreto correspondan a la Secretaría de la Función Pública deberán ser remitidos a ésta por la Consejería Jurídica del Ejecutivo Federal dentro de los tres días siguientes a la entrada en vigor de este ordenamiento.
