@@ -4,7 +4,7 @@ identifier: "HID-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-3600
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2014-12-22"
+last_updated: "2015-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE FEBRERO DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE FEBRERO DE 2015.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2003.
 
@@ -71,15 +71,17 @@ III.- Los Ayuntamientos del Estado; y
 
 IV.- Las personas de Derecho Público de carácter estatal, con autonomía derivada de la Constitución Política del Estado de Hidalgo o de la ley que los crea.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 9 DE FEBRERO DE 2015)
 
 ###### ARTICULO 2.
 
-No están sujetos al ámbito de aplicación de esta Ley, los Actos, Convenios o Contratos que celebren indistintamente entre sí, el Estado, las Entidades y los Municipios; tampoco están sujetos los que suscriban el Estado con la Federación o alguna otra Entidad Federativa, incluyendo al Distrito Federal; no obstante, dichos actos quedarán sujetos a este ordenamiento, cuando la Dependencia o Entidad obligada a entregar el bien o prestar el servicio, no tenga capacidad para hacerlo por sí misma y contrate un tercero para su realización.
+No están sujetos al ámbito de aplicación de esta Ley, los Actos, Convenios o Contratos que celebren indistintamente entre sí, el Estado, las Dependencias, Entidades, los Ayuntamientos y Organismos Públicos Autónomos; tampoco están sujetos los que suscriban el Estado con la Federación o alguna otra Entidad Federativa, incluyendo al Distrito Federal; no obstante, dichos actos quedarán sujetos a este ordenamiento, cuando la Dependencia o Entidad obligada a entregar el bien o prestar el servicio, no tenga capacidad para hacerlo por sí misma y contrate un tercero para su realización.
 
 Asimismo, no están sujetos al ámbito de aplicación de esta Ley los actos regulados por la Ley de Asociaciones Público Privadas para el Estado de Hidalgo.
 
-El Estado, Entidades o Municipios, se abstendrán de otorgar mandatos o celebrar cualquier tipo de actos, cuya finalidad sea evadir el cumplimiento de ésta Ley o delegar las funciones señaladas que sean a su cargo.
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+El Estado, Dependencias, Entidades, Ayuntamientos y Organismos Públicos Autónomos, se abstendrán de otorgar mandatos o celebrar cualquier tipo de actos, cuya finalidad sea evadir el cumplimiento de ésta Ley o delegar las funciones señaladas que sean a su cargo.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -97,7 +99,9 @@ I.- AYUNTAMIENTOS: El Órgano de Gobierno Municipal;
 
 II.- COMITÉ: El Comité de Adquisiciones, Arrendamientos y Servicios del Sector Público, en cada uno de los Poderes del Estado, Entidades, Ayuntamientos y Organismos Públicos Autónomos;
 
-III.- COMPRAS CONSOLIDADAS: Agrupación de bienes o insumos de características similares requeridos por las Entidades, Dependencias, Ayuntamientos u Organismos Públicos Autónomos para un periodo determinado, que se adquiere a través de una sola negociación;
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+III.- COMPRAS CONSOLIDADAS: Agrupación de bienes o servicios de características similares requeridos por las Entidades, Dependencias, Ayuntamientos u Organismos Públicos Autónomos para un periodo determinado, que se adquiere a través de una sola negociación.
 
 IV.- CONTRATOS ABIERTOS: Contrato (sic) que se celebran cuando las Dependencias, Entidades, Ayuntamientos u Organismos Públicos Autónomos requieren de un mismo bien o servicio de manera reiterada, por lo cual en ellos se determinan una cantidad mínima y máxima de bienes por adquirir, o bien, el presupuesto mínimo y máximo que podrá ejercerse en la adquisición, el arrendamiento o la prestación del servicio;
 
@@ -111,13 +115,17 @@ VIII.- ENTIDADES: Los organismos públicos descentralizados, las Empresas de Par
 
 IX.- ESTADO: Los Poderes del Estado de Hidalgo;
 
-X.- INVESTIGACIÓN DE MERCADO: la verificación de la existencia de bienes, arrendamientos o servicios, de proveedores a nivel nacional o internacional y del precio estimado basado en la información que se obtenga en la propia Dependencia, Entidad, Ayuntamiento y Organismo Público Productivo, de organismos públicos o privados, de fabricantes de bienes o prestadores del servicio, o una combinación de dichas fuentes de información;
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+X.- INVESTIGACIÓN DE MERCADO: la verificación de la existencia de bienes, arrendamientos o servicios, de proveedores a nivel nacional o internacional y del precio estimado basado en la información que se obtenga en la propia Dependencia, Entidad, Ayuntamiento y Organismo Público Autónomo, de organismos públicos o privados, de fabricantes de bienes o prestadores del servicio, o una combinación de dichas fuentes de información.
 
 XI.- MUNICIPIOS: Los Municipios del Estado;
 
 XII.- LEY: La Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Hidalgo;
 
-XIII.- LICITANTE: La persona física o moral que participe con una propuesta cierta, en cualquier procedimiento de licitación pública, o bien, de invitación a cuando menos tres proveedores;
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+XIII.- LICITANTE: La persona física o moral que participe en cualquier procedimiento de licitación pública, o bien, de invitación a cuando menos tres personas;
 
 XIV.- OFERTAS SUBSECUENTES DE DESCUENTOS: modalidad utilizada en las licitaciones públicas, en la que los licitantes, de manera presencial o electrónica, al presentar sus proposiciones, tienen la posibilidad de que, con posterioridad a la presentación y apertura del sobre cerrado que contenga su propuesta económica, realicen una o más ofertas subsecuentes de descuentos que mejoren el precio ofertado en forma inicial, sin que ello signifique la posibilidad de variar las especificaciones o características originalmente contenidas en su propuesta técnica;
 
@@ -125,11 +133,17 @@ XV.- ORGANISMOS PÚBLICOS AUTÓNOMOS: las personas de Derecho Público de carác
 
 XVI.- PADRÓN DE PROVEEDORES: Documento público y gratuito en el que constan los datos generales y específicos que exige esta Ley para los proveedores;
 
-XVII.- PRECIO CONVENIENTE: es aquel que se determina a partir de obtener el promedio de los precios preponderantes que resulten de las proposiciones aceptadas técnicamente en la licitación, y a éste se le resta el porcentaje que determine la Dependencia, Entidad, Ayuntamiento u Organismo Público Productivo, conforme a lo establecido en el Reglamento de esta Ley;
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
 
-XVIII.- PRECIO NO ACEPTABLE: es aquél que derivado de la investigación de mercado realizada, resulte inferior en un cuarenta por ciento o superior en un diez por ciento al ofertado respecto del que se observa como mediana en dicha investigación o en su defecto, el promedio de las ofertas presentadas en la misma licitación;
+XVII.- PRECIO CONVENIENTE: Es aquél que se determina a partir de obtener el promedio de los precios preponderantes que resulten de las proposiciones aceptadas técnicamente en la licitación, y a éste se le resta el porcentaje que determine la Dependencia, Entidad, Ayuntamiento y Organismo Público Autónomo, conforme a lo establecido en el Reglamento de esta Ley;
 
-XIX.- PROVEEDOR: El que se encuentre Inscrito en el Padrón de proveedores que contempla esta Ley, o bien, la persona física o moral que celebre contratos en su carácter de vendedor, arrendador o prestador de servicios, con el Estado, Entidades o Municipios, en los términos que previene esta Ley; y
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+XVIII.- PRECIO NO ACEPTABLE: Es aquél que derivado de la investigación de mercado realizada, resulte superior en un diez por ciento al ofertado respecto del que se observa como mediana en dicha investigación o, en su defecto, el promedio de las ofertas presentadas en la misma licitación;
+
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+XIX.- PROVEEDOR: El que se encuentre Inscrito en el Padrón de proveedores que contempla esta Ley, o bien, la persona física o moral que celebre contratos en su carácter de vendedor, arrendador o prestador de servicios, con el Estado, Dependencias, Entidades, Ayuntamientos y Organismos Públicos Autónomos, en los términos que previene esta Ley;
 
 XX.- SECRETARÍA: La Secretaría de Finanzas y Administración del Poder Ejecutivo.
 
@@ -261,7 +275,9 @@ La Secretaría, oyendo la opinión de la Contraloría, en los términos del Regl
 
 Lo previsto en los párrafos anteriores, es sin perjuicio de que las Dependencias, Entidades Ayuntamientos y los Organismos Públicos Autónomos puedan agruparse para adquirir mediante Compra Consolidada sus bienes, arrendamientos o servicios.
 
-Sólo la Secretaría y los Ayuntamientos estarán facultados para suscribir los contratos específicos.
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+La Secretaría, los Ayuntamientos y los Organismos Públicos Autónomos estarán facultados para suscribir los contratos específicos.
 
 ## TITULO SEGUNDO. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION
 
@@ -337,11 +353,11 @@ Las Dependencias que en adición a su presupuesto reciban transferencias de recu
 
 Las Entidades, Ayuntamientos y Organismos Públicos Autónomos procederán en el mismo caso señalado en los párrafos anteriores.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 9 DE FEBRERO DE 2015)
 
 ###### ARTICULO 21.
 
-El Titular del Poder Ejecutivo Estatal, establecerá un Comité de Adquisiciones, Arrendamientos y Servicios del Sector Público del Poder Ejecutivo, integrado por los Titulares de las siguientes Dependencias: la Secretaría, la Secretaría de Planeación, Desarrollo Regional y Metropolitano, la Contraloría, la Secretaría de Gobierno y un representante del área solicitante, atendiendo específicamente a las facultades que la Ley Orgánica de la Administración Pública del Estado de Hidalgo les confiere, así como con un representante del área solicitante de los bienes, arrendamientos o servicios.
+El Titular del Poder Ejecutivo Estatal, establecerá un Comité de Adquisiciones, Arrendamientos y Servicios del Sector Público del Poder Ejecutivo, integrado por los Titulares de las siguientes Dependencias: la Secretaría, la Secretaría de Planeación, Desarrollo Regional y Metropolitano, la Contraloría, la Secretaría de Gobierno y un representante del área solicitante de los bienes, arrendamientos o servicios con conocimientos técnicos suficientes en el objeto de la contratación, atendiendo específicamente a las facultades que la Ley Orgánica de la Administración Pública del Estado de Hidalgo les confiere.
 
 ###### ARTICULO 22.
 
@@ -533,9 +549,13 @@ También se otorgarán puntos a las micros, pequeñas o medianas empresas estata
 
 Las adquisiciones, arrendamientos y servicios se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad.
 
-En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, debiendo la Dependencia, Entidad o Ayuntamiento, proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
 
-La Secretaría, los Ayuntamientos y los Organismos Públicos Autónomos deberán realizar una Investigación de Mercado de la cual se desprendan las condiciones que imperan en el mismo, respecto del bien, arrendamiento o servicio objeto de la contratación, a efecto de buscar las mejores condiciones para el Estado.
+En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, debiendo la Dependencia, Entidad, Ayuntamiento u Organismo Público Autónomo, proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
+
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+La Secretaría, Entidades, Ayuntamientos y Organismos Públicos Autónomos deberán realizar una Investigación de Mercado de la cual se desprendan las condiciones que imperan en el mismo, respecto del bien, arrendamiento o servicio objeto de la contratación, a efecto de buscar las mejores condiciones para el Estado.
 
 Las condiciones contenidas en la convocatoria a la licitación e invitación a cuando menos tres personas y en las proposiciones presentadas por los licitantes no podrán ser negociadas.
 
@@ -559,9 +579,9 @@ La o las juntas de aclaraciones, el acto de presentación y apertura de proposic
 
 III.- Mixta, en la cual los licitantes, a su elección, podrán participar en forma presencial o electrónica en la o las juntas de aclaraciones, el acto de presentación, apertura de proposiciones y el acto de fallo.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 9 DE FEBRERO DE 2015)
 
-ARTICULO 32 TER.- En las licitaciones públicas, cuyo monto rebase el equivalente a trescientos mil de (sic) días de salario mínimo general vigente en el Estado de Hidalgo y en aquellos casos que determine la Contraloría atendiendo al impacto que la contratación tenga en los programas sustantivos de la (sic) Dependencias, Entidades Ayuntamientos y Organismos Públicos Autónomos, participarán un máximo de tres testigos sociales.
+ARTICULO 32 TER.- En las licitaciones públicas, cuyo monto rebase el equivalente a trescientos mil días de salario mínimo general vigente en el Estado de Hidalgo y en aquellos casos que determine la Contraloría atendiendo al impacto que la contratación tenga en los programas sustantivos de las Dependencias, Entidades Ayuntamientos y Organismos Públicos Autónomos, participarán un máximo de tres testigos sociales.
 
 En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir su testimonio a la Contraloría o al área de quejas del órgano interno de control de la Entidad, Ayuntamiento u Organismo Público Autónomo convocante.
 
@@ -569,11 +589,11 @@ Se podrá exceptuar la participación de los testigos sociales en aquéllos caso
 
 En el Reglamento de esta Ley se establecerán los alcances de participación de los testigos sociales.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 9 DE FEBRERO DE 2015)
 
 ###### ARTICULO 33.
 
-Solamente se podrá convocar, adjudicar o realizar adquisiciones, arrendamientos y servicios, cuando se cuente con la autorización global o específica, por parte de la Secretaría o en el presupuesto de inversión y gasto corriente, conforme a los cuales deberán programarse los pagos respectivos. En el caso de los Ayuntamientos y Organismos Públicos Autónomos, solamente procederán en tal sentido, cuando así lo prevenga la Legislación aplicable.
+Solamente se podrá convocar, adjudicar o realizar adquisiciones, arrendamientos y servicios, cuando se cuente con la autorización global o específica, por parte de la Secretaría o en el presupuesto de inversión y gasto corriente, conforme a los cuales deberán programarse los pagos respectivos. En el caso de las Entidades, Ayuntamientos y Organismos Públicos Autónomos, solamente procederán en tal sentido, cuando así lo prevenga la Legislación aplicable.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -589,11 +609,11 @@ El sobre cerrado que contenga la proposición de los licitantes deberá entregar
 
 Las proposiciones presentadas deberán ser firmadas autógrafamente por los licitantes o sus apoderados; en el caso de que éstas sean enviadas a través de medios remotos de comunicación electrónica, se emplearán medios de identificación electrónica, los cuales producirán los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 9 DE FEBRERO DE 2015)
 
 ###### ARTICULO 35.
 
-El sobre cerrado al que se refiere el Artículo 34, podrá entregarse a elección del licitante, en el lugar de celebración del acto de presentación y apertura de proposiciones o bien, si así lo establece la convocante, enviarlo a través del servicio postal o de mensajería o por medios remotos de comunicación electrónica, conforme a las disposiciones administrativas que establezca la Contraloría.
+El sobre cerrado a que se refiere el Artículo 34,. deberá entregarse en el lugar de celebración del acto de presentación y apertura de proposiciones o bien, si así lo establece la convocante, enviarlo a través del servicio postal o de mensajería o por medios remotos de comunicación electrónica, conforme a las disposiciones administrativas que establezca la Contraloría.
 
 ### CAPITULO SEGUNDO. DE LA LICITACION PUBLICA
 
@@ -643,7 +663,9 @@ XII.- La indicación de si la totalidad de los bienes o servicios objeto de la l
 
 XIII.- Los criterios específicos que se utilizarán para la evaluación de las proposiciones y adjudicación de los contratos, debiéndose utilizar preferentemente los criterios de puntos y porcentajes, o el de costo beneficio;
 
-XIV.- El domicilio de las oficinas de la Contraloría, Dependencias, Ayuntamientos y Organismos Públicos Autónomos, o en su caso el medio electrónico en que podrán presentarse inconformidades, de acuerdo a lo dispuesto en el Artículo 82 de la presente Ley;
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+XIV.- El domicilio de las oficinas de la Contraloría, Dependencias, Entidades, Ayuntamientos y Organismos Públicos Autónomos, o en su caso el medio electrónico en que podrán presentarse inconformidades, de acuerdo a lo dispuesto en el Artículo 82 de la presente Ley;
 
 XV.- Señalamiento de las causas expresas de desechamiento; y
 
@@ -651,7 +673,9 @@ XVI.- Modelo de contrato al que para la licitación de que se trate se sujetará
 
 Para la participación, adjudicación o contratación de adquisiciones, arrendamientos o servicios no se podrán establecer requisitos que tengan por objeto o efecto limitar el proceso de competencia y libre concurrencia. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir. La Dependencia, Entidad, Ayuntamiento u Organismo Público Autónomo convocante tomará en cuenta las recomendaciones previas que, en su caso, emita la Comisión Federal de Competencia en términos de la Ley Federal de Competencia Económica.
 
-Previo a la publicación de la convocatoria a la licitación pública, la Contraloría, Dependencia, Ayuntamiento u Organismo Público Autónomo podrán difundir el proyecto de la misma a través de los medios electrónicos que mediante disposiciones de carácter administrativo establezca la Contraloría, al menos durante diez días hábiles, lapso durante el cual éstas recibirán los comentarios pertinentes en la dirección electrónica que para tal fin se señale.
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+Previo a la publicación de la convocatoria a la licitación pública, la Contraloría, Dependencia, Entidad, Ayuntamiento u Organismo Público Autónomo podrán difundir el proyecto de la misma a través de los medios electrónicos que mediante disposiciones de carácter administrativo establezca la Contraloría, al menos durante diez días hábiles, lapso durante el cual éstas recibirán los comentarios pertinentes en la dirección electrónica que para tal fin se señale.
 
 Los comentarios y opiniones que se reciban al proyecto de convocatoria, serán analizados por la convocante a efecto de, en su caso, considerarlas para enriquecer el proyecto.
 
@@ -661,11 +685,11 @@ Los comentarios y opiniones que se reciban al proyecto de convocatoria, serán a
 
 La publicación de la convocatoria a la licitación pública se realizará a través de los medios electrónicos que mediante disposiciones de carácter administrativo establezca la Contraloría y su obtención será gratuita. Además, simultáneamente se enviará para su publicación en el Periódico Oficial del Estado, un resumen de la convocatoria a la licitación que deberá contener, entre otros elementos, el objeto de la licitación, el volumen a adquirir, el número de licitación, las fechas previstas para llevar a cabo el procedimiento de contratación y cuando se publicó en los medios electrónicos que mediante disposiciones de carácter administrativo establezca la Contraloría; asimismo, la convocante pondrá a disposición de los licitantes copia del texto de la convocatoria.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 9 DE FEBRERO DE 2015)
 
 ###### ARTICULO 39.
 
-En licitaciones nacionales, el plazo para la presentación y apertura de proposiciones, será cuando menos, de siete días hábiles contados a partir de la fecha de publicación de la Convocatoria (sic) los medios electrónicos que mediante disposiciones de carácter administrativo establezca la Contraloría.
+En licitaciones nacionales, el plazo para la presentación y apertura de proposiciones, será cuando menos, de siete días hábiles contados a partir de la fecha de publicación de la Convocatoria en los medios electrónicos que mediante disposiciones de carácter administrativo establezca la Contraloría.
 
 El plazo para la presentación y apertura de las proposiciones de las Licitaciones Internacionales no podrá ser menor a quince días hábiles contados, a partir de la fecha de publicación de la Convocatoria.
 
@@ -693,7 +717,9 @@ El acto será presidido por el servidor público designado por la convocante, qu
 
 Las personas que pretendan solicitar aclaraciones a los aspectos contenidos en la convocatoria, deberán presentar un escrito, en el que expresen su interés en participar en la licitación, por si o en representación de un tercero, manifestando en todos los casos los datos generales del interesado y, en su caso, del representante.
 
-Las solicitudes de aclaración, podrán enviarse a través de a través de (sic) los medios electrónicos que mediante disposiciones de carácter administrativo establezca la Contraloría o entregarlas personalmente dependiendo del tipo de licitación de que se trate, a más tardar veinticuatro horas antes de la fecha y hora en que se vaya a realizar la junta de aclaraciones.
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+Las solicitudes de aclaración podrán enviarse a través de los medios electrónicos que mediante disposiciones de carácter administrativo establezca la Contraloría o entregarlas personalmente dependiendo del tipo de licitación de que se trate, antes de la fecha y hora en que se vaya a realizar la junta de aclaraciones o en el mismo acto.
 
 Al concluir cada junta de aclaraciones podrá señalarse la fecha y hora para la celebración de ulteriores juntas, considerando que entre la última de éstas y el acto de presentación y apertura de proposiciones deberá existir un plazo de al menos dos días hábiles. De resultar necesario, la fecha señalada en la convocatoria para realizar el acto de presentación y apertura de proposiciones podrá diferirse.
 
@@ -739,9 +765,13 @@ Tratándose de licitaciones en las que se utilice la modalidad de ofertas subsec
 
 Las Dependencias, Entidades, Ayuntamientos u Organismos Públicos Autónomos para la evaluación de las proposiciones deberán utilizar los criterios indicados en la convocatoria a la licitación.
 
-En todos los casos las convocantes deberán verificar que las proposiciones cumplan con los requisitos solicitados en la convocatoria a la licitación; la utilización del criterio de evaluación binario, mediante el cual sólo se adjudica a quien cumpla los requisitos establecidos por la convocante y oferte el precio más bajo, será aplicable cuando no sea posible utilizar los criterios de puntos y porcentajes o de costo beneficio. En este supuesto, la convocante evaluará al menos las dos proposiciones cuyo precio resulte ser más bajo: de no resultar éstas solventes, se evaluarán las que les sigan en precio.
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
 
-Cuando las Dependencias, Entidades, Ayuntamientos u Organismos Públicos Autónomos requieran obtener bienes, arrendamientos o servicios que conlleven el uso de características de alta especialidad técnica o de innovación tecnológica, no podrán utilizar el criterio de evaluación de puntos y porcentajes o de costo beneficio.
+En todos los casos las convocantes deberán verificar que las proposiciones cumplan con los requisitos solicitados en la convocatoria a la licitación; la utilización del criterio de evaluación binario, mediante el cual sólo se adjudica a quien cumpla los requisitos establecidos por la convocante y oferte el precio solvente más bajo, será aplicable cuando no sea posible utilizar los criterios de puntos y porcentajes o de costo beneficio. En este supuesto, la convocante evaluará al menos las dos proposiciones cuyo precio resulte ser más bajo; de no resultar éstas solventes, se evaluarán las que les sigan en precio. El método binario se definirá en el Reglamento de ésta Ley.
+
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+Cuando las Dependencias, Entidades, Ayuntamientos u Organismos Públicos Autónomos requieran obtener bienes, arrendamientos o servicios que conlleven el uso de características de alta especialidad técnica o de innovación tecnológica, podrán utilizar el criterio de evaluación de puntos y porcentajes o de costo beneficio.
 
 Las condiciones que tengan como propósito facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación, así como cualquier otro requisito cuyo incumplimiento, por sí mismo, o deficiencia en su contenido no afecte la solvencia de las proposiciones, no serán objeto de evaluación, y se tendrán por no establecidas. La inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar sus proposiciones.
 
@@ -1015,7 +1045,9 @@ El licitante a quien se hubiere adjudicado el contrato no estará obligado a sum
 
 En este supuesto, la Dependencia, Entidad, Ayuntamiento u Organismo Público Autónomo convocante, a solicitud escrita del licitante, cubrirá los gastos no recuperables en que se hubiere incurrido para preparar y elaborar su proposición, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
 
-El atraso del Estado, Entidad o Municipio, en la entrega de anticipos, prorrogará en igual plazo, la fecha de cumplimiento de las obligaciones a cargo del proveedor.
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+El atraso del Estado, Entidad, Ayuntamiento u Organismo Público Autónomo, en la entrega de anticipos, prorrogará en igual plazo, la fecha de cumplimiento de las obligaciones a cargo del proveedor.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1045,11 +1077,11 @@ Cuando con posterioridad a la adjudicación de un contrato se presenten circunst
 
 Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán los incrementos autorizados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 9 DE FEBRERO DE 2015)
 
 ###### ARTICULO 59.
 
-El Estado, Entidades Municipios u Organismos Públicos Autónomos podrán celebrar Contratos Abiertos para adquirir bienes, arrendamientos o servicios que requieran de manera reiterada conforme a lo siguiente:
+El Estado, Entidades, Ayuntamientos u Organismos Públicos Autónomos podrán celebrar Contratos Abiertos para adquirir bienes, arrendamientos o servicios que requieran de manera reiterada conforme a lo siguiente:
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1077,7 +1109,9 @@ Los proveedores que celebren los contratos a que se refiere esta Ley, deberán g
 
 I.- Los anticipos que, en su caso, reciban. Estas garantías deberán constituirse por la totalidad del monto de los anticipos; y
 
-II.- El cumplimiento de los contratos. El porcentaje de esta fianza será como mínimo del cinco por ciento del monto total del contrato, excepto cuando se trate de Contrato Marco.
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+II.- El cumplimiento de los contratos, así como la seriedad de su formalización. El porcentaje de sendas fianzas será como mínimo del cinco por ciento del monto total del contrato para cada una de ellas, excepto cuando se trate de Contrato Marco.
 
 Para los efectos de este Artículo, la Contraloría fijará las bases, forma y porcentajes a los que deberán sujetarse las garantías que deban constituirse, considerando los antecedentes de cumplimiento de los proveedores en los contratos celebrados con las Dependencias, Entidades, Ayuntamientos o los Organismos Públicos Autónomos, a efecto de determinar montos menores para éstos, de acuerdo a lo establecido por el Reglamento.
 
@@ -1103,11 +1137,11 @@ III.- Los Municipios a través de las Tesorerías de los Ayuntamientos, en los c
 
 IV.- Los Organismos Públicos Autónomos cuando los actos o contratos se celebren con ellas.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 9 DE FEBRERO DE 2015)
 
 ###### ARTICULO 62.
 
-El Estado, Entidades, Municipios o los Organismos Públicos Autónomos, deberán pagar al proveedor el precio convenido en las fechas pactadas, sujetándose a las condiciones estipuladas en el contrato previa entrega de los bienes o prestación de los servicios en los términos y con las especificaciones, características consignadas en el contrato y a su plena satisfacción.
+El Estado, Entidades, Ayuntamientos y los Organismos Públicos Autónomos, deberán pagar al proveedor el precio convenido en las fechas pactadas, sujetándose a las condiciones estipuladas en el contrato previa entrega de los bienes o prestación de los servicios en los términos y con las especificaciones, características consignadas en el contrato y a su plena satisfacción.
 
 En caso de incumplimiento en la entrega de los bienes o la prestación de los servicios, el proveedor deberá reintegrar los anticipos que haya recibido más los intereses correspondientes. Los cargos se calcularán sobre el monto del anticipo no amortizado y se computarán por días naturales desde la fecha de su entrega hasta la fecha en que se pongan efectivamente las cantidades a disposición de la Dependencia, Entidad, Ayuntamiento del Organismo Público Autónomo.
 
@@ -1181,19 +1215,23 @@ Las Dependencias, Entidades Ayuntamientos o los Organismos Públicos Autónomos 
 
 Al no dar por rescindido el contrato, las Dependencias, Entidades, Ayuntamientos o los Organismos Públicos Autónomos establecerán con el proveedor otro plazo que le permita subsanar el incumplimiento que hubiere motivado el inicio del procedimiento. El convenio modificatorio que al efecto se celebre deberá atender a las condiciones previstas en los Artículos 64 y 65 de esta Ley.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014) (F. DE E., P.O. 9 DE FEBRERO DE 2015)
 
 ###### ARTICULO 71.
 
-El Estado, Entidades o Municipios, se abstendrán de recibir proposiciones o adjudicar contrato alguno en las materias a que se refiere esta Ley, con las personas siguientes:
+El Estado, Entidades, Ayuntamientos y los Organismos Públicos Autónomos, se abstendrán de recibir proposiciones o adjudicar contrato alguno en las materias a que se refiere esta Ley, con las personas siguientes:
 
 I.- Aquéllas con quien el servidor público que intervenga en cualquier etapa del procedimiento de contratación, tenga interés personal, familiar o de negocios y de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles o para terceros con los que tenga relaciones profesionales, laborales o de negocios o para socios o sociedades de las que el servidor público o las personas antes referidas, formen o hayan formado parte durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate;
 
-II.- Aquellos proveedores que, por causas imputables a ellos mismos, el Estado, Entidades o Municipios, les hubiere rescindido administrativamente uno o más contratos dentro de un lapso de dos años calendario contados a partir de la notificación de la primera rescisión;
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+II.- Aquellos proveedores que, por causas imputables a ellos mismos, el Estado, Entidades, Ayuntamientos y los Organismos Públicos Autónomos, les hubiere rescindido administrativamente uno o más contratos dentro de un lapso de dos años calendario contados a partir de la notificación de la primera rescisión;
 
 III.- A las que les haya sido cancelado o negado su Registro en el Padrón de Proveedores o bien, se encuentre suspendido por la resolución de la Contraloría en los términos del Título Séptimo de este ordenamiento;
 
-IV.- Los proveedores que se encuentren en situación de atraso en la entrega de los bienes o en la prestación de los servicios por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con el Estado, Entidad o Municipio, siempre y cuando éstos hayan resultado perjudicados;
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+IV.- Los proveedores que se encuentren en situación de atraso en la entrega de los bienes o en la prestación de los servicios por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con el Estado, Entidad, Ayuntamientos y los Organismos Públicos Autónomos, siempre y cuando éstos hayan resultado perjudicados;
 
 V.- Aquéllas que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso mercantil, de acreedores o alguna figura análoga;
 
@@ -1327,7 +1365,9 @@ En este caso, la inconformidad sólo podrá presentarse por quien hubiere presen
 
 IV.- La cancelación de la licitación;
 
-En este supuesto, la inconformidad sólo podrá presentarse por el licitante que hubiere presentado proposición, dentro de los cinco días hábiles siguientes a su notificación; y
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+En este supuesto, la inconformidad podrá presentarse dentro de los cinco días hábiles siguientes a su notificación; y
 
 V.- Los actos y omisiones por parte de la convocante que impidan la formalización del contrato en los términos establecidos en la convocatoria a la licitación o en esta Ley.
 
