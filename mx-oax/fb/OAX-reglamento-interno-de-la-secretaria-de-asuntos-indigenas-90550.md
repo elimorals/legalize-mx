@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-secretaria-de-asuntos-indigenas-90550"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-06"
-last_updated: "2012-07-06"
+last_updated: "2015-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE ASUNTOS INDIGENAS
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE ASUNTOS INDÍGENAS DEL ESTADO DE OAXACA
+REGLAMENTO INTERNO DE LA SECRETARÍA DE ASUNTOS INDÍGENAS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE ASUNTOS INDÍGENAS, PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 6 de julio de 2012.
 
@@ -721,7 +723,7 @@ IV. Realizar actividades de investigación y sistematización en materia de valo
 
 V. Las demás que le sean conferidas por sus superiores jerárquicos, ordenamientos jurídicos aplicables o que le asigne directamente el Secretario
 
-### CAPÍTULO XVIII. DEL DEPARTAMENTO DE ATENCIÓN A LAS COMUNIDADES AFRODESCENDlENTES
+### CAPÍTULO XVIII. DEL DEPARTAMENTO DE ATENCIÓN A LAS COMUNIDADES AFRODESCENDIENTES
 
 ###### ARTÍCULO 28.
 
@@ -1160,3 +1162,13 @@ LIC. VÍCTOR HUGO ALEJO TORRES
 EL SECRETARIO DE ADMINISTRACIÓN
 
 LIC. ALBERTO VARGAS VARELA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interno de la Secretaría de Asuntos Indígenas, de fecha 6 de Julio de 2012, publicado en el Extra del Periódico Oficial del Gobierno del Estado, en la misma fecha.
+
+TERCERO. Las disposiciones del Presente Reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
