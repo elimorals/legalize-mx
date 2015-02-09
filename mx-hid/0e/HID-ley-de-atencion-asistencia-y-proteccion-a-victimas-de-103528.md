@@ -4,7 +4,7 @@ identifier: "HID-ley-de-atencion-asistencia-y-proteccion-a-victimas-de-103528"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2014-12-29"
+last_updated: "2015-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "HID"
 ---
 # LEY DE ATENCION, ASISTENCIA Y PROTECCION A VICTIMAS DE DELITOS Y VIOLACIONES A DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE FEBRERO DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE ATENCIÓN, ASISTENCIA Y PROTECCIÓN A VÍCTIMAS DE DELITOS Y VIOLACIONES A DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 29 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CONTIENE LAS ERRATAS PUBLICADAS EN EL PERIÓDICO OFICIAL DE 29 DE DICIEMBRE DE 2014 Y DE 9 DE FEBRERO DE 2015.</small>
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -1157,7 +1155,9 @@ SEGUNDO. Se abroga la Ley de Atención y Protección a Víctimas del Delito para
 
 TERCERO. El Reglamento de la presente Ley deberá expedirse dentro de los seis meses siguientes a la fecha en que la Ley entre en vigor.
 
-CUARTO. El Ejecutivo Estatal dentro de los setenta días naturales siguientes a la publicación de esta Ley, emitirá una convocatoria pública a la que podrán inscribirse las personas que consideren cumplen con las condiciones para ser comisionado establecidas en el artículo 18 de esta Ley. De entre dichas personas, el Ejecutivo Estatal elegirá una terna por cada uno de los tres comisionados a designar por el Congreso, en términos de lo dispuesto por el artículo 17 de la presente.
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2015)</small>
+
+CUARTO. El Ejecutivo Estatal dentro de los setenta días hábiles siguientes a la publicación de esta Ley, señalados por el Poder Legislativo, emitirá una convocatoria pública a la que podrán inscribirse las personas que consideren cumplen con las condiciones para ser comisionado establecidas en el artículo 18 de esta Ley. De entre dichas personas, el Ejecutivo Estatal elegirá una terna por cada uno de los tres comisionados a designar por el Congreso, en términos de lo dispuesto por el artículo 17 de la presente.
 
 QUINTO. El Sistema Estatal de Atención a Víctimas que se establece en la presente Ley, deberá constituirse dentro de los ciento ochenta días naturales siguientes a partir de la entrada en vigor de la misma.
 
