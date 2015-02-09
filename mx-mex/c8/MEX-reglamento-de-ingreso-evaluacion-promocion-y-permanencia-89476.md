@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-ingreso-evaluacion-promocion-y-permanencia-89476"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-20"
-last_updated: "2012-09-20"
+last_updated: "2015-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO DE INGRESO, EVALUACIÓN, PROMOCIÓN Y PERMANENCIA PARA EL PERSONAL ACADÉMICO DE LA UNIVERSIDAD ESTATAL DEL VALLE DE TOLUCA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO DE INGRESO, EVALUACIÓN, PROMOCIÓN Y PERMANENCIA PARA EL PERSONAL ACADÉMICO DE LA UNIVERSIDAD ESTATAL DEL VALLE DE TOLUCA, PUBLICADO EN LA G.G. DE 9 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE FEBRERO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda de la Gaceta de Gobierno del Estado de México, el jueves 20 de septiembre de 2012.
 
@@ -595,7 +597,7 @@ La resolución que recaiga a la revisión planteada será inapelable.
 
 PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
 
-SEGUNDO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" .(sic)
+SEGUNDO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- El servidor público docente que actualmente preste sus servicios a la Universidad y que no reúna los requisitos establecidos en el Capítulo Cuarto del presente Reglamento, deberá cumplir con éstos en un plazo improrrogable de seis meses, contados a partir de la aprobación del presente ordenamiento, de no ser así la institución se reserva el derecho de recontratar al servidor público docente omiso.
 
@@ -606,3 +608,13 @@ M. EN A. E. FRANCISCO LÓPEZ MILLÁN
 RECTOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE TOLUCA Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 9 DE FEBRERO DE 2015.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se abroga el Reglamento de Ingreso, Evaluación, Promoción y Permanencia para el Personal Académico de la Universidad Estatal del Valle de Toluca, publicado en el Periódico Oficial “Gaceta del Gobierno” el 20 de septiembre del 2012.
