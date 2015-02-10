@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-del-89383
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-04"
-last_updated: "2012-09-04"
+last_updated: "2015-02-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE ZUMPANGO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE), PUBLICADO EN LA G.G. DE 10 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE FEBRERO DE 2015 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 4 de septiembre de 2012.
 
@@ -370,3 +372,15 @@ M. en E. Claudia Jimena Vilchis Macedo
 Jefe de la Unidad de Enseñanza e Investigación del Hospital de Alta Especialidad de Zumpango
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 10 DE FEBRERO DE 2015.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+TERCERO.- Se deja sin efectos el Reglamento Interior del COCOE aprobado el 04 de septiembre de 2012.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
