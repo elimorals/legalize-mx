@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-auditoria-superior-del-estado-de-chihuahua-56922"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-12"
-last_updated: "2013-02-02"
+last_updated: "2015-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 12 de septiembre de 2007.
 
@@ -185,7 +185,23 @@ XX. Expedir los manuales para la práctica de la auditoría y las actividades de
 
 XXI. Elaborar su Reglamento; y
 
-XXII. Las demás que expresamente le señalen la Constitución Política del Estado, y las demás disposiciones legales y reglamentos vigentes en el Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2015)</small>
+
+XXII. Diseñar e implementar el sistema de entrega-recepción en los términos de la ley de la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
+
+XXIII. Intervenir en los supuestos y formas señalados en la Ley de Entrega-Recepción para el Estado de Chihuahua.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
+
+XXIV. Las demás que expresamente le señalen la Constitución Política del Estado, y las demás disposiciones legales y reglamentos vigentes en el Estado.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA
 
@@ -784,3 +800,9 @@ P.O. 2 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE FEBRERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor 60 días después de que lo haga la reforma constitucional contenida en el Decreto No. 1362/2013 XIII PE.
