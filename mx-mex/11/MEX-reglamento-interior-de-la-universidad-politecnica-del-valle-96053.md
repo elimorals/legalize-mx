@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-politecnica-del-valle-960
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-27"
-last_updated: "2013-09-27"
+last_updated: "2015-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DEL VALLE DE MÉXICO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 27 de septiembre de 2013.
 
@@ -141,9 +141,13 @@ VI. Dirección de División de Ingeniería en Informática.
 
 VII. Dirección de División de Licenciatura en Administración y Gestión de PYMES.
 
-VIII. Abogado General.
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
 
-IX. Contraloría Interna.
+VIII. Dirección de División de Ingeniería en Nanotecnología.
+
+IX. Abogado General.
+
+X. Contraloría Interna.
 
 La Universidad contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad, estructura orgánica y presupuesto autorizados.
 
@@ -205,11 +209,15 @@ III. Dirección de División de Ingeniería en Informática.
 
 IV. Dirección de División de Licenciatura en Administración y Gestión de PYMES.
 
-V. Subdirección de Servicios Educativos.
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
 
-VI. Centro de Innovación Tecnológica en Manufactura.
+V. Dirección de División de Ingeniería en Nanotecnología.
 
-VII. Centro de Innovación Tecnológica en Informática y Comunicaciones.
+VI. Subdirección de Servicios Educativos.
+
+VII. Centro de Innovación Tecnológica en Manufactura.
+
+VIII. Centro de Innovación Tecnológica en Informática y Comunicaciones.
 
 ###### Artículo 14.
 
@@ -297,7 +305,9 @@ XXIII. Participar en el desarrollo ordenado y sistematizado de la Universidad, m
 
 XXIV. Coordinar y supervisar la integración de la Planta arquitectónica del conjunto conforme al plan maestro de construcción, y a la demanda de los requerimientos académicos, de investigación, cultural y administrativa, manifestada por los espacios universitarios.
 
-XXV. Coordinar las acciones referentes al mantenimiento preventivo y/o correctivo de los edificios e instalaciones de los diferentes espacios universitarios.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2015)</small>
+
+XXV. Coordinar las acciones referentes al mantenimiento preventivo y/o correctivo de los edificios e instalaciones de los diferentes espacios universitarios, así como de la red telemática del Organismo.
 
 XXVI. Las demás que le confieran otros ordenamientos legales y aquellas que le encomiende el Rector.
 
@@ -478,3 +488,13 @@ M. EN F. ALBERTO SÁNCHEZ FLORES
 RECTOR DE LA UNIVERSIDAD POLITÉCNICA DEL VALLE DE MÉXICO Y SECRETARIO DE LA H. JUNTA DIRECTIVA
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE FEBRERO DE 2015.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
