@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2013-02-06"
+last_updated: "2015-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -4825,19 +4825,19 @@ De la Emancipación.
 
 ###### Artículo 721.
 
-E(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 722.
 
-E(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 723.
 
-E(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 > <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, P.O. 24 DE OCTUBRE DE 1975)</small>
 
@@ -6639,7 +6639,7 @@ El que tiene en su predio un canal para el curso de aguas que le pertenecen, pue
 
 ###### Artículo 1080.
 
-También se deberá conceder el paso de las aguas a través de lo canales y acueductos del modo más conveniente, con tal de que el curso de las aguas que se conducen por estos y su volumen, no sufra alteración, ni las de ambos acueductos se mezclen.
+También se deberá conceder el paso de las aguas a través de los canales y acueductos del modo más conveniente, con tal de que el curso de las aguas que se conducen por estos y su volumen, no sufra alteración, ni las de ambos acueductos se mezclen.
 
 ###### Artículo 1081.
 
@@ -6651,7 +6651,7 @@ La autoridad solo concederá el permiso con entera sujeción a los reglamentos r
 
 ###### Artículo 1083.
 
-El que sin dicho permiso previo, pasare el agua o la derramare sobre el camino, quedará obligado a reponer las cosa a su estado antiguo y a indemnizar el daño que a cualquiera se cauce, sin perjuicio de las penas impuestas por los reglamentos correspondientes.
+El que sin dicho permiso previo, pasare el agua o la derramare sobre el camino, quedará obligado a reponer las cosas a su estado antiguo y a indemnizar el daño que a cualquiera se cauce, sin perjuicio de las penas impuestas por los reglamentos correspondientes.
 
 ###### Artículo 1084.
 
@@ -7011,7 +7011,7 @@ La posesión adquirida por medio de un delito, se tendrá en cuenta para la pres
 
 ###### Artículo 1154.
 
-El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código par adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende, la propiedad.
+El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende, la propiedad.
 
 ###### Artículo 1155.
 
@@ -11187,7 +11187,7 @@ El acreedor puede, antes de que la condición se cumpla, ejercitar todos los act
 
 ###### Artículo 1825.
 
-Las condiciones imposibles de dar a(sic) hacer, las prohibidas por la ley o que sean contra las buenas costumbres, anulan la obligación que de ellas dependa.
+Las condiciones imposibles de dar a (sic) hacer, las prohibidas por la ley o que sean contra las buenas costumbres, anulan la obligación que de ellas dependa.
 
 La condición de no hacer una cosa imposible se tiene por no puesta.
 
@@ -11499,7 +11499,7 @@ Lo mismo tiene lugar respecto de los herederos de aquel que haya contraído una 
 
 ###### Artículo 1889.
 
-Cada uno de los herederos del acreedor puede exigir la completa ejecución individible(sic), obligándose a dar suficiente garantía para la indemnización de los demás coherederos; pero no puede por si sólo perdonar el débito total, ni recibir el valor en lugar de la cosa.
+Cada uno de los herederos del acreedor puede exigir la completa ejecución individible (sic), obligándose a dar suficiente garantía para la indemnización de los demás coherederos; pero no puede por si sólo perdonar el débito total, ni recibir el valor en lugar de la cosa.
 
 Si uno solo de los herederos ha perdonado la deuda o recibido el valor de la cosa, el coheredero no puede pedir la cosa indivisible sino devolviendo la porción del heredero que haya perdonado o que haya recibido el valor.
 
@@ -13699,11 +13699,11 @@ En los arrendamientos que han durado más de cinco años y cuando el arrendatari
 
 Del Arrendamiento de Fincas Urbanas.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1951)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 2330.
 
-El contrato de arrendamiento de fincas urbanas no se celebrará por tiempo indeterminado, debiendo celebrarse por tiempo expresamente determinado. El término de duración del contrato no podrá ser menor de tres años forzosos para el arrendador y discresionales (sic) para el arrendatario. Cuando no se señalare de manera expresa el término de duración, así como cuando se señalare un término inferior al obligatorio en perjuicio del inquilino, o bien cuando se haya pactado expresamente la duración indefinida, se considerará fijado el término de tres años, forzoso para el arrendador y discresional (sic) para el arrendatario.
+El contrato de arrendamiento de fincas urbanas no se celebrará por tiempo indeterminado, debiendo celebrarse por tiempo expresamente determinado. El término de duración del contrato no podrá ser menor de un año forzoso para el arrendador y discrecional para el arrendatario. Por tanto, el arrendatario podrá dar por concluido el contrato en cualquier tiempo, con la obligación de cubrir las rentas hasta la fecha en que desocupe totalmente el inmueble y lo ponga a disposición del arrendador. Cuando no se señalare de manera expresa el término de duración, así como cuando se señalare un término inferior al obligatorio en perjuicio del inquilino, o bien cuando se haya pactado expresamente la duración indefinida, se considerará fijado el término de un año, forzoso para el arrendador y discrecional para el arrendatario.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
 
@@ -13855,9 +13855,11 @@ Disposiciones Especiales respecto de los Arrendamientos por Tiempo Indeterminado
 
 Los arrendamientos de predios rústicos que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte, dado en forma indubitable ocn (sic) un año de anticipación, observándose lo dispuesto en los artículos 2338, 2339 y 2340.
 
-Los arrendamientos de fincas urbanas destinados a habitación que continuaren por tiempo indeterminado en virtud de haber vencido el plazo pactado o el legal y sus prórrogas, concluirán también a voluntad de cualquiera de las partes contratantes, previo aviso indubitable a la otra parte. Este aviso deberá ser dado con diez meses de anticipación por el arrendador y con quince días por el inquilino.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2015)</small>
 
-Tratándose del arrendamiento de fincas urbanas destinadas a otros fines distintos al de habitación, ambas partes estarán obligadas a darse el aviso anticipado con tres meses de anticipación.
+Los arrendamientos de fincas urbanas que continuaren por tiempo indeterminado en virtud de haber vencido el plazo pactado o el legal y sus prórrogas, concluirán también a voluntad de cualquiera de las partes contratantes, previo aviso indubitable a la otra parte. Este aviso deberá ser dado con sesenta días de anticipación.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 11 DE FEBRERO DE 2015)</small>
 
 ###### Articulo 2361.
 
@@ -13909,15 +13911,15 @@ VIII.- Por evicción de la cosa en arrendamiento.
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que dispone el artículo 2360.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1951)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 2367.
 
-Estando el inquilino de una finca urbana destinada a habitación al corriente en el pago de las rentas al vencimiento del contrato, se considerará éste prorrogado por dos años más, sin necesidad de que el propio inquilino manifieste su voluntad expresamente en este sentido. Dicha prórroga se entenderá también obligatoria para el arrendador y discresional (sic) para el arrendatario. En el mismo caso que los arrendatarios de fincas rústicas o de fincas urbanas no destinadas a habitación tendrán derecho a un año de prórroga.
+Estando el inquilino de una finca urbana al corriente en el pago de las rentas al vencimiento del contrato, se considerará éste prorrogado por un año más, sin necesidad de que el propio inquilino manifieste su voluntad expresamente en este sentido. Dicha prórroga se entenderá también obligatoria para el arrendador y discrecional para el arrendatario. En el mismo caso los arrendatarios de fincas rústicas tendrán derecho a un año de prórroga.
 
-Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido. Los propietarios que hayan obtenido la desocupación de la finca y posteriormente, dentro del término de tres meses, no la ocupen personalmente, estarán obligados a devolver la finca al inquilino desalojado, continuando el arrendamiento en las mismas condiciones en que fue celebrado, y en caso de que esto no sea posible o si el inquilino ya no quiere ocuparla, el propietario deberá cubrir a aquél los daños y perjuicios que le haya ocasionado.
+Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento los propietarios que quieran habitar la casa, cultivar la finca o explotar el inmueble comercial en provecho propio cuyo arrendamiento ha vencido. Los propietarios que hayan obtenido la desocupación de la finca y posteriormente, dentro del término de tres meses, no la ocupen personalmente, estarán obligados a devolver la finca al inquilino desalojado, continuando el arrendamiento en las mismas condiciones en que fue celebrado, y en caso de que esto no sea posible o si el inquilino ya no quiere ocuparla, el propietario deberá cubrir a aquél los daños y perjuicios que le haya ocasionado.
 
-Para los efectos de la prórroga, tratándose de fincas urbanas destinadas a habitación, se entiende que el inquilino está al corriente en el pago de sus rentas, aún cuando adeude dos meses.
+Para los efectos de la prórroga, tratándose de fincas urbanas destinadas a habitación, se entiende que el inquilino está al corriente en el pago de sus rentas, aun cuando adeude un mes.
 
 El arrendador debe hacer uso de su derecho a reclamar la finca en el caso previsto por este artículo, cuando menos un mes antes del vencimiento del contrato.
 
@@ -13945,7 +13947,23 @@ I.- Por falta de pago de la renta en los términos prevenidos en el artículo 23
 
 II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2307.
 
-III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2362.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2015)</small>
+
+III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2362;
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
+
+IV.- Por daños graves a la cosa arrendada imputables al arrendatario.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2015)</small>
+
+###### Artículo 2371 Bis.
+
+El arrendatario puede exigir la rescisión del contrato:
+
+I. Por incumplir el arrendador alguna de las obligaciones contenidas en el artículo 2294;
+
+II. Por la existencia de vicios ocultos de la cosa arrendada desconocidos para el arrendatario.
 
 ###### Artículo 2372.
 
@@ -14157,7 +14175,7 @@ El posadero no se exime de la responsabilidad que le imponen los dos artículos 
 
 ###### Artículo 2420.
 
-Las fondas, cafés, casas de baño y otros establecimientos semejantes no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bao el cuidado de los empleados del establecimiento.
+Las fondas, cafés, casas de baño y otros establecimientos semejantes no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
 ### CAPITULO II.
 
@@ -14797,7 +14815,7 @@ VIII.- El lugar y el plazo en que habrá de hacerse la entrega al consignatario;
 
 IX.- La indemnización que haya de abonar el porteador en caso de retardo, si sobre este punto mediare algún pacto.
 
-Artículo 2639 (sic) .- Las acciones que nacen del transporte, sean en pro o en contra de los porteadores, no duran más de seis meses, después de concluído el viaje.
+Artículo 2639 (sic).- Las acciones que nacen del transporte, sean en pro o en contra de los porteadores, no duran más de seis meses, después de concluído el viaje.
 
 ###### Artículo 2540.
 
@@ -15655,7 +15673,7 @@ El fiador que paga por el deudor, debe ser indemnizado por éste:
 
 I.- De la deuda principal;
 
-II.- De los intereses respectivos, desde que haya noticiado(sic) el pago al deudor, aún cuando éste no estuviere obligado por razón del contrato a pagarlos al acreedor;
+II.- De los intereses respectivos, desde que haya noticiado el pago al deudor, aún cuando éste no estuviere obligado por razón del contrato a pagarlos al acreedor;
 
 III.- De los gastos que haya hecho desde que dio noticia al deudor de haber sido requerido de pago;
 
@@ -17554,3 +17572,9 @@ CUARTO. Se derogan las disposiciones que se opongan al presente ordenamiento.
 QUINTO. A falta de disposición específica de este Código y en tanto se expida el Código de Procedimiento Familiares, se aplicarán las normas del Código Civil para el Estado de Sinaloa y del Código de Procedimientos Civiles para el Estado de Sinaloa
 
 SEXTO. Las controversias del orden familiar, que estén en trámite en el momento de la iniciación de la vigencia de este Código, se resolverán conforme a lo prescrito en los Códigos Civil y de Procedimientos Civiles para el Estado de Sinaloa, contenidos en el Decreto No. 814 de la XXXVI Legislatura del H. Congreso del Estado, de fecha dieciocho días del mes de junio de mil novecientos cuarenta y Decreto No. 872 de la XXXVI Legislatura del H. Congreso del Estado de fecha trece días del mes de septiembre de mil novecientos cuarenta, respectivamente.
+
+P.O. 11 DE FEBRERO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Las disposiciones contenidas en el presente Decreto no serán aplicables a los contratos de arrendamiento celebrados con anterioridad a la entrada en vigor del mismo.
