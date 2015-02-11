@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2015-01-31"
+last_updated: "2015-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -109,7 +109,7 @@ Los consejeros propietarios y suplentes durarán en su encargo siete años y no 
 
 El Consejo General designará, a propuesta del consejero presidente, a los funcionarios directivos del instituto.
 
-Los medios de comunicación, así como los periodistas, no podrán ser obligados por autoridad alguna, dentro o fuera de juicio, revelar (sic) sus fuentes de información, motivo de una publicación.
+Los medios de comunicación, así como los periodistas, no podrán ser obligados por autoridad alguna, dentro o fuera de juicio, (sic) revelar sus fuentes de información, motivo de una publicación.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2763,11 +2763,11 @@ El año fiscal para el Estado y los Municipios se contará del primero de enero 
 
 Si el Congreso dejare de aprobar, en los términos de esta Constitución, las leyes de ingresos del Estado o de los municipios, así como el presupuesto de egresos del Estado, continuarán rigiendo las leyes o el presupuesto que estuvieren vigentes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2015)</small>
 
 ###### Art. 165.
 
-Los Poderes Legislativo, incluida la Auditoría Superior del Estado, y Ejecutivo del Estado, este último, tanto en la administración pública centralizada como en la paraestatal; los organismos públicos autónomos y los ayuntamientos, incluyendo las dependencias de la administración pública municipal centralizada y paraestatal y la sindicatura, deberán entregar antes del término de su función, a las autoridades entrantes, la documentación e información necesaria que permita conocer el ejercicio y funcionamiento de dicho encargo. La legislación regulará el proceso de entrega-recepción de las diferentes dependencias.
+Los Poderes Legislativo, incluida la Auditoría Superior del Estado, Judicial y Ejecutivo del Estado, este último, tanto en la administración pública centralizada como en la paraestatal; los organismos públicos autónomos y los ayuntamientos, incluyendo las dependencias de la administración pública municipal centralizada y paraestatal y la sindicatura, deberán entregar antes del término de su función, a las autoridades entrantes, la documentación e información necesaria que permita conocer el ejercicio y funcionamiento de dicho encargo. La legislación regulará el proceso de entrega-recepción de las diferentes dependencias.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4120,3 +4120,13 @@ DECRETO NÚMERO 573/2014 I, POR EL QUE SE REFORMA EL ARTÍCULO 91 DE LA CONSTITU
 PRIMERO.- Conforme a lo dispuesto por el Artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE FEBRERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase copia de la Iniciativa, del Dictamen y de los Debates del Honorable Congreso del Estado, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política del Estado; lo anterior, en cumplimiento a lo establecido por el artículo 202 de la Constitución local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
