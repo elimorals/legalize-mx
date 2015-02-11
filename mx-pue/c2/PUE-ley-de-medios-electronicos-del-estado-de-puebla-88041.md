@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-medios-electronicos-del-estado-de-puebla-88041"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-09"
-last_updated: "2012-05-09"
+last_updated: "2015-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE MEDIOS ELECTRÓNICOS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE GOBIERNO DIGITAL PARA EL ESTADO DE PUEBLA Y SUS MUNICIPIOS, PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 11 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS SESENTA DÍAS HÁBILES POSTERIORES A LA FECHA DE PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015 (ABROGADA).
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 9 de mayo de 2012.
 
@@ -622,3 +624,59 @@ El Titular del Poder Ejecutivo, deberá expedir los Reglamentos que resulten nec
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los nueve días del mes de marzo de dos mil doce.- Diputado Presidente.- MARIO GERARDO RIESTRA PIÑA.- Rúbrica.- Diputado Vicepresidente.- HÉCTOR EDUARDO ALONSO GRANADOS.- Rúbrica.- Diputado Secretario.- JORGE LUIS CORICHE AVILÉS.- Rúbrica.- Diputado Secretario.- ERIC COTOÑETO CARMONA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de marzo de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE FEBRERO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los sesenta días hábiles posteriores a la fecha de su publicación en el Periódico Oficial del Estado de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Medios Electrónicos del Estado de Puebla, publicada en el Periódico Oficial del Estado el día 9 de mayo de 2012.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para efecto de los trámites y servicios, los órganos del Estado estarán obligados a colocar en los Portales Transaccionales, dichas gestiones en los sitios antes mencionados en un plazo no mayor a dos años a partir del día en que entre en vigor la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones legales y administrativas expedidas en la materia regulada por esta Ley, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan al presente decreto, hasta en tanto se expidan las que deban sustituirlas.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo Estatal deberá presentar a consideración de la Comisión para su aprobación y publicación el reglamento de esta Ley, dentro de los sesenta días hábiles siguientes a la entrada en vigor de la misma.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las facultades que de conformidad con la presente Ley deban ejercer los órganos del Estado, las llevarán a cabo a través de los órganos o instancias que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+###### ARTÍCULO OCTAVO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente ordenamiento, se deberá instalar la Comisión Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+###### ARTÍCULO NOVENO.
+
+Dentro de los dos años siguientes a la publicación del Reglamento de esta Ley, los órganos del Estado deberán transformar sus Portales Informativos actuales en Portales Transaccionales, así como disponer de una versión digital, en sus Portales Transaccionales, de sus trámites y servicios presenciales actuales, salvo aquellos que la Comisión determine.
+
+###### ARTÍCULO DÉCIMO.
+
+La Comisión deberá expedir, dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente decreto, las disposiciones que deberán observar los órganos del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen los ciudadanos al efectuar trámites y servicios digitales, mismas que deberán publicarse en el Periódico Oficial del Estado de Puebla.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Para que las dependencias establecidas en el artículo 33 de la presente Ley, sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+A partir del día siguiente de la publicación de la presente Ley, todos los trámites y servicios que prestan los órganos del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Las erogaciones que deriven de la aplicación de esta Ley, estarán sujetas a la suficiencia presupuestal que apruebe en el Honorable Congreso del Estado.
