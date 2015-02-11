@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-las-preceptorias-juveniles-regionales-de-95246"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-29"
-last_updated: "2013-07-29"
+last_updated: "2015-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LAS PRECEPTORÍAS JUVENILES REGIONALES DE REINTEGRACIÓN SOCIAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 29 de julio de 2013.
 
@@ -189,9 +189,11 @@ X. Las demás inherentes al área de su competencia.
 
 El funcionamiento de las Preceptorías Juveniles se basará en el respeto a los derechos humanos, la educación, la capacitación para el trabajo, la salud y el deporte, con el objeto de prevenir la manifestación de las conductas antisociales, así como propiciar la reinserción social de los adolescentes y/o adultos jóvenes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 14.
 
-Las Preceptorías Juveniles para su organización se dividirán en veinte regiones, las cuales tendrán las siguientes sedes y atenderán a los municipios señalados a continuación:
+Las Preceptorías Juveniles para su organización se dividirán en veinticuatro regiones, las cuales tendrán las siguientes sedes y atenderán a los municipios señalados a continuación:
 
 I. Almoloya de Juárez:
 
@@ -255,43 +257,37 @@ e) Tenango del Aire
 
 f) Valle de Chalco Solidaridad
 
-VI. Coyotepec:
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
 
-a) Teoloyucan
+VI. Chimalhuacán
 
-b) Tepoztlán
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
 
-c) Huehueteca
+VII. Coyotepec
 
-d) Zumpango
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
 
-VII. Cuautitlán Izcalli:
+VIII. Cuautitlán lzcalli:
 
-a) Coacalco de Berriozabal
+a) Huehuetoca
 
-b) Melchor Ocampo
+b) Tepotzotlán
 
-c) Tultepec
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
 
-d) Tultitlán
-
-VIII. Cuautitlán:
+IX. Cuautitlán:
 
 a) Apaxco
 
 b) Hueypoxtla
 
-c) Jaltenco
+c) Teoloyucan
 
-d) Nextlalpan
+d) Tequixquiac
 
-e) Tequixquiac
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
 
-f) Tonanitla
-
-IX. Ecatepec de Morelos
-
-X. Tecámac
+X. Ecatepec de Morelos
 
 XI. Huixquilucan
 
@@ -309,7 +305,21 @@ e) San José del Rincón
 
 f) Villa del Carbón
 
-XIII. Metepec:
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
+
+XIII. Melchor Ocampo:
+
+a) Jaltenco
+
+b) Nextlalpan
+
+c) Tonanitla
+
+d) Zumpango
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
+
+XIV. Metepec:
 
 a) Almoloya del Río
 
@@ -337,17 +347,25 @@ l) Tianguistenco
 
 m) Xalatlaco
 
-XIV. Naucalpan de Juárez
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
 
-XV. Nezahualcóyotl:
+XV. Naucalpan de Juárez
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
+
+XVI. Nezahualcóyotl:
 
 a) Chicoloapan
 
-b) Chimalhuacán
+b) La Paz
 
-c) La Paz
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
 
-XVI. Tejupilco:
+XVII. Tecámac
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
+
+XVIII. Tejupilco:
 
 a) Almoloya de Alquisiras
 
@@ -413,9 +431,73 @@ l) Tepetlaoxtoc
 
 m) Tezoyuca
 
-XIX. Tlalnepantla de Baz
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
 
-XX. Toluca:
+XIX. Tenancingo:
+
+a) Coatepec Harinas
+
+b) Ixtapan de La Sal
+
+c) Joquicingo
+
+d) Malinalco
+
+e) Ocuilan
+
+f) Tonatico
+
+g) Villa Guerrero
+
+h) Zacualpan
+
+i) Zumpahuacán
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
+
+XX. Texcoco:
+
+a) Acolman
+
+b) Atenco
+
+e) Axapusco
+
+d) Chiautla
+
+e) Chinconcuac
+
+f) Nopaltepec
+
+g) Otumba
+
+h) Papalotla
+
+i) Teotihuacán
+
+j) San Martín de las Pirámides
+
+k) Temascalapa
+
+l) Tepetlaoxtoc
+
+m) Tezoyuca
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2015)</small>
+
+XXI. Tultitlán:
+
+a) Coacalco de Berriozábal
+
+b) Tultepec
+
+> <small>(ADICIONADA, G.G. 11 DE FEBRERO DE 2015)</small>
+
+XXII. Tlalnepantla de Baz
+
+> <small>(ADICIONADA, G.G. 11 DE FEBRERO DE 2015)</small>
+
+XXIII. Toluca:
 
 a) Lerma
 
@@ -427,7 +509,9 @@ d) Temoaya
 
 e) Xonacatlán
 
-XXI. Valle de Bravo:
+> <small>(ADICIONADA, G.G. 11 DE FEBRERO DE 2015)</small>
+
+XXIV. Valle de Bravo:
 
 a) Amanalco
 
@@ -442,6 +526,14 @@ e) Santo Tomás
 f) Villa de Allende
 
 g) Zacazonapan
+
+> <small>(ADICIONADO, G.G. 11 DE FEBRERO DE 2015)</small>
+
+Para la instalación adicional de Preceptorías Juveniles Regionales de Reintegración Social, se celebrarán convenios de coordinación entre el Gobierno del Estado por conducto de la Comisión Estatal de Seguridad Ciudadana y el Municipio sede de la Preceptoría.
+
+> <small>(ADICIONADO, G.G. 11 DE FEBRERO DE 2015)</small>
+
+Los convenios de coordinación celebrados; deberán ser publicados en el periódico oficial "Gaceta del Gobierno", de conformidad con el artículo 78 del Reglamento de la Ley de Planeación del Estado de México y Municipios.
 
 ###### Artículo 15.
 
@@ -463,9 +555,11 @@ II. Secretario de Acuerdos.
 
 III. Áreas Técnicas.
 
+> <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 18.
 
-El Presidente y el Secretario de Acuerdos serán designados y removidos por el Director General, previo acuerdo con el Secretario de Seguridad Ciudadana.
+El Presidente y el Secretario de Acuerdos serán designados y removidos por el Director General, previo acuerdo con el Comisionado Estatal de Seguridad Ciudadana.
 
 ###### Artículo 19.
 
@@ -919,7 +1013,7 @@ La detección y atención de adolescentes en estado de riesgo para la comisión 
 
 ###### Artículo 58.
 
-Con la finalidad de coadyuvar en la aplicación del Programa de Prevención de la Antisocialidad, el Presidente de la Preceptoría Juvenil establecerá coordincrción con instituciones del sector público y privado del orden federal, estatal y municipal.
+Con la finalidad de coadyuvar en la aplicación del Programa de Prevención de la Antisocialidad, el Presidente de la Preceptoría Juvenil establecerá coordinación con instituciones del sector público y privado del orden federal, estatal y municipal.
 
 ###### Artículo 59.
 
@@ -950,3 +1044,13 @@ SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFRÉN ROJAS DÁVILA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 11 DE FEBRERO DE 2015.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Acuerdo.
