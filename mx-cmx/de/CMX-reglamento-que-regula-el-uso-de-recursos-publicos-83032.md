@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-que-regula-el-uso-de-recursos-publicos-83032"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-29"
-last_updated: "2014-10-17"
+last_updated: "2015-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-09-21"
 
 REGLAMENTO QUE REGULA EL USO DE RECURSOS PÚBLICOS, PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL, ASÍ COMO LOS ACTOS ANTICIPADOS DE PRECAMPAÑA Y DE CAMPAÑA, PARA LOS PROCESOS ELECTORALES ORDINARIOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE FEBRERO DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 29 de septiembre de 2011.
 
@@ -844,11 +844,11 @@ d) Oportunidad: Que la actuación sea inmediata al desarrollo de los hechos que 
 
 e) Razonabilidad: Que la acción implementada sea la que de manera ordinaria se podría exigir a los partidos políticos.
 
-> <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 11 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 28.
 
-Todo lo no previsto en el presente Reglamento, será resuelto por la Comisión, de conformidad con la normatividad electoral vigente y los reglamentos aplicables emitidos por el Instituto.
+Todo lo no previsto en el presente reglamento, será resuelto por la Comisión, de conformidad con la normatividad electoral vigente y los reglamentos aplicables emitidos por el Instituto, siempre y cuando no implique el ejercicio de la facultad reglamentaria, pues en este caso únicamente corresponde al Consejo General ejercerla.
 
 > <small>(ADICIONADO, G.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -893,3 +893,21 @@ SEGUNDO. Por única ocasión el Proceso Electoral Ordinario 2014-2015, dará ini
 TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
 
 CUARTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
+
+G.O. 11 DE FEBRERO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, POR EL QUE SE MODIFICA EL ARTÍCULO 28 DEL REGLAMENTO QUE REGULA EL USO DE RECURSOS PÚBLICOS, PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL, ASÍ COMO LOS ACTOS ANTICIPADOS DE PRECAMPAÑA Y DE CAMPAÑA, PARA LOS PROCESOS ELECTORALES ORDINARIOS DEL DISTRITO FEDERAL, EN CUMPLIMIENTO A LA SENTENCIA EMITIDA POR EL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL DENTRO DEL EXPEDIENTE TEDF-JEL-047/2014 Y ACUMULADOS.</small>
+
+PRIMERO. Se modifica el artículo 28 del Reglamento que regula el uso de recursos públicos, propaganda institucional y gubernamental, así como los actos anticipados de precampaña y de campaña, para los procesos electorales ordinarios del Distrito Federal, para quedar en términos de lo expuesto en el considerando 22.
+
+SEGUNDO. Este Acuerdo entrará en vigor al momento de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se instruye a la Secretaría Ejecutiva informe al Tribunal Electoral del Distrito Federal sobre el cumplimiento dado a la sentencia emitida el 15 de enero de 2015 en el juicio electoral TEDF-JEL-047/2014 y acumulados.
+
+CUARTO. Se instruye a la Secretaría Ejecutiva para que, mediante circular, haga del conocimiento el presente Acuerdo al personal del Instituto Electoral del Distrito Federal.
+
+QUINTO. Publíquese de inmediato este Acuerdo en los estrados del Instituto Electoral del Distrito Federal, tanto en oficinas centrales como en sus cuarenta Direcciones Distritales, y en el sitio de Internet www.iedf.org.mx.
+
+SEXTO. Se instruye a la Unidad Técnica de Asuntos Jurídicos para que, en coadyuvancia con la Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales, lleven a cabo las acciones conducentes con la finalidad de actualizar el Reglamento de Propaganda que se encuentra publicado en el apartado de Transparencia del sitio de Internet www.iedf.org.mx.
+
+SÉPTIMO. Remítase el presente Acuerdo a la Gaceta Oficial del Distrito Federal para su publicación, dentro del plazo de diez días hábiles contados a partir de su entrada en vigor.
