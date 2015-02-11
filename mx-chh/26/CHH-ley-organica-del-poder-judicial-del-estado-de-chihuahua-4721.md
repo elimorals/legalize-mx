@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2014-10-29"
+last_updated: "2015-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 29 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015 (ABROGADA).
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -571,7 +571,7 @@ I. Elegir, de entre sus integrantes, por mayoría calificada de las dos terceras
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
-II. Crear y suprimir las salas del Supremo Tribunal y establecer el ramo en que deban actuar. Si se trata de salas regionales señalará su territorio, jurisdicción y residencia. Así mismo, señalar cada año los (sic) jueces y magistrados que, en materia penal, deberán constituir los tribunales y las salas colegiadas, sin perjuicio de que por razones supervinientes pueda replantear su integración.
+II. Crear y suprimir las salas del Supremo Tribunal y establecer el ramo en que deban actuar. Si se trata de salas regionales señalará su territorio, jurisdicción y residencia. Así mismo, señalar cada año (sic) los jueces y magistrados que, en materia penal, deberán constituir los tribunales y las salas colegiadas, sin perjuicio de que por razones supervinientes pueda replantear su integración.
 
 III. Convocar a concurso de méritos, en los términos del artículo 103 de la Constitución Política del Estado, para la integración de la terna que se presentará al Congreso para la elección de magistrados y designar a los representantes del Poder Judicial que deberán formar parte del jurado.
 
@@ -1166,6 +1166,18 @@ III.- Intervenir en las juntas del Comité de Adquisiciones, Arrendamientos, Ser
 IV.- Preparar la cuenta general de ingresos y egresos, trimestral y anualmente a ser presentada al Pleno del Supremo para su aprobación y posterior remisión al Congreso del Estado; y
 
 V.- Atender los asuntos que directamente le encomiende el Pleno o el Presidente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
+
+VI.- Diseñar e implementar el sistema de entrega-recepción en los términos de la ley de la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
+
+VII.- Intervenir en los supuestos y formas señalados en la Ley de Entrega-Recepción para el Estado de Chihuahua.
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
@@ -3674,3 +3686,9 @@ Los derechos y obligaciones que se establecen en el presente Decreto para los fu
 ###### ARTÍCULO VIGÉSIMO TERCERO.
 
 Se derogan las disposiciones que se opongan a lo dispuesto por el Artículo Segundo del presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor 60 días después de que lo haga la reforma constitucional contenida en el Decreto No. 1362/2013 XIII P.E.
