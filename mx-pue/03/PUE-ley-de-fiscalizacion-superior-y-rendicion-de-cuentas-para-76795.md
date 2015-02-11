@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-76795
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-08"
-last_updated: "2013-11-11"
+last_updated: "2015-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015.
 
 Ley publicada en la Sección Quinta al Periódico Oficial del Estado de Puebla, el miércoles 8 de septiembre de 2010.
 
@@ -323,6 +323,10 @@ La Cuenta Pública del ejercicio correspondiente, deberá ser presentada ante el
 
 Los titulares o representantes legales de los Sujetos de Revisión Obligados, cuando por cualquier circunstancia fueren sustituidos, presentarán la Cuenta Pública del periodo respectivo dentro de los sesenta días siguientes a su sustitución.
 
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2015)</small>
+
+Si el titular o representante legal del Sujeto de Revisión Obligado, fallece antes de presentar la Cuenta Pública y demás Estados Financieros correspondientes al ejercicio o periodo de su gestión; la presentación correrá a cargo del funcionario que legalmente lo sustituya, quien además deberá atender todos los requerimientos, observaciones y Pliegos, que al respecto se formulen, contando para tales efectos, en los casos de que exista un órgano máximo de gobierno del Sujeto de Revisión Obligado, con el auxilio de todos los miembros de dicho órgano.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
@@ -330,6 +334,10 @@ Los titulares o representantes legales de los Sujetos de Revisión Obligados, cu
 ###### Artículo 21.
 
 En el supuesto caso de que la Cuenta Pública no sea presentada por los Sujetos de Revisión Obligados, dicha situación no será obstáculo para que la Auditoría Superior ejerza sus facultades de Fiscalización Superior.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2015)</small>
+
+Tampoco será obstáculo para el ejercicio de estas facultades, el fallecimiento del titular o representante del Sujeto de Revisión Obligado, en cualquier etapa del proceso de Fiscalización Superior, debiendo el funcionario que legalmente lo sustituya, cumplir en la parte que resulte procedente, lo que al efecto se establece en el artículo anterior.
 
 ###### Artículo 22.
 
@@ -593,7 +601,7 @@ Se tendrán por consentidos los hechos consignados en las Actas a que se refiere
 
 XIII.- La Auditoría Superior deberá concluir la visita domiciliaria, la auditoría o la inspección, en un plazo máximo de seis meses contados a partir de que se notifique su inicio a la persona, servidor público, titular o representante legal del Sujeto de Revisión.
 
-El plazo a que se refiere el párrafo anterior, podrá ampliarse hasta por un periodo igual por una sola ocasión, mediante escrito fundado y motivado que se notifique al Sujeto de Revisión; (sic)
+El plazo a que se refiere el párrafo anterior, podrá ampliarse hasta por un periodo igual por una sola ocasión, mediante escrito fundado y motivado que se notifique al Sujeto de Revisión;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1011,11 +1019,9 @@ II.- Promover las acciones de responsabilidad a que se refiere el Título Noveno
 
 III.- Iniciar y sustanciar, el procedimiento administrativo a que se refiere esta Ley, por las probables responsabilidades en que hubieren incurrido los auditores externos, e imponer en los casos que proceda, las sanciones que correspondan; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-IV.- Presentar las denuncias y querellas a que haya lugar, en cuyos procesos tendrá la intervención que corresponda, así como coadyuvar con las autoridades competentes en la integración de la Averiguación Previa y en el Proceso Judicial respectivo, en términos de la legislación aplicable.
+IV.- Presentar ante el Ministerio Público, las denuncias y querellas a que haya lugar, coadyuvando con las autoridades competentes, en términos de la legislación aplicable;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1026,6 +1032,18 @@ V.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2012)
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 Sin perjuicio de lo dispuesto en las fracciones que anteceden, la Auditoría Superior, podrá optar por iniciar, sustanciar y resolver, el procedimiento resarcitorio previsto en esta Ley, por actos u omisiones que probablemente produzcan Daños y Perjuicios a las haciendas públicas municipal, estatal y en su caso federal o al patrimonio de los Sujetos de Revisión; o Beneficios Económicos, si los hubiere y fuese posible determinarlos; en dicho procedimiento, fincará directamente las responsabilidades, e impondrá las sanciones que correspondan.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2015)</small>
+
+###### Artículo 45 Bis.
+
+En caso de que los actos u omisiones a que se refiere el artículo anterior, correspondan a un ejercicio o periodo de gestión de un Titular o Representante Legal de Sujeto de Revisión Obligado que hubiere fallecido, lo procedente será:
+
+I.- Presentar ante el Ministerio Público, las denuncias y querellas en contra de quienes pudieran resultar responsables, coadyuvando con las autoridades competentes, en términos de la legislación aplicable; y
+
+II.- Remitir las constancias correspondientes a los titulares de los órganos de control interno de los Sujetos de Revisión Obligados de que se trate, para que conforme a sus atribuciones, procedan a realizar las investigaciones respectivas a efecto de determinar si se configura alguna responsabilidad de servidores públicos de su competencia.
+
+Lo dispuesto en el presente artículo, también será aplicable en los casos en que el fallecimiento acontezca después de autorizado o iniciado algún Procedimiento de Responsabilidad en su contra, de los contemplados en la presente Ley.
 
 ###### Artículo 46.
 
@@ -1235,17 +1253,17 @@ V.- En la audiencia, el probable responsable, directamente o a través de su def
 
 El probable responsable por sí o a través de su defensor durante el procedimiento y hasta antes de que se encuentre el expediente en estado de resolución, podrá consultarlo y obtener a su costa copias certificadas de los documentos correspondientes que obren en el mismo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+VI.- Concluida la audiencia, la Auditoría Superior resolverá dentro de los ciento ochenta días hábiles siguientes, sobre la existencia o inexistencia de responsabilidades resarcitorias, y fincará las sanciones correspondientes al responsable, a quien le notificará personalmente la resolución; dicha resolución será notificada también a los Sujetos de Revisión involucrados, según corresponda. Cuando se trate de servidores públicos que gozan de fuero, se estará a lo dispuesto en la Constitución Política del Estado Libre y Soberano de Puebla y demás disposiciones aplicables;
 
-VI.- Concluida la audiencia, la Auditoría Superior resolverá dentro de los ciento ochenta días hábiles siguientes, sobre la existencia o inexistencia de responsabilidades resarcitorias, y fincará las sanciones correspondientes al responsable, a quien le notificará personalmente la resolución; dicha resolución será notificada también a los Sujetos de Revisión involucrados, según corresponda. Cuando se trate de servidores públicos que gozan de fuero, se estará a lo dispuesto en la Constitución Política del Estado Libre y Soberano de Puebla y demás disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VII.- Si durante el desahogo de la audiencia la Auditoría Superior considera que no cuenta con elementos suficientes para resolver o advierte la existencia de elementos que probablemente impliquen una nueva responsabilidad a cargo del probable responsable o de otras personas relacionadas, podrá suspender la audiencia y disponer la práctica de investigaciones y citar para otras audiencias, para que una vez desahogadas éstas, la Auditoría Superior se pronuncie respecto de la suspensión decretada, señalando día y hora para continuar con el desahogo de la audiencia principal, y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
 
-VII.- Si durante el desahogo de la audiencia la Auditoría Superior considera que no cuenta con elementos suficientes para resolver o advierte la existencia de elementos que probablemente impliquen una nueva responsabilidad a cargo del probable responsable o de otras personas relacionadas, podrá suspender la audiencia y disponer la práctica de investigaciones y citar para otras audiencias, para que una vez desahogadas éstas, la Auditoría Superior se pronuncie respecto de la suspensión decretada, señalando día y hora para continuar con el desahogo de la audiencia principal.
+VIII.- Si el probable responsable fallece en cualquier etapa del Procedimiento, procederá el sobreseimiento; sin perjuicio de lo dispuesto en el artículo 45 Bis de la presente Ley.
 
 ###### Artículo 62.
 
@@ -1341,13 +1359,17 @@ El involucrado por sí o a través de su defensor, durante el procedimiento y ha
 
 VI.- Concluida la audiencia, la Auditoría Superior emitirá la resolución correspondiente dentro de los cuarenta y cinco días hábiles siguientes, misma que se notificará al involucrado en términos de la presente Ley.
 
-De la resolución, se dará aviso por escrito al Colegio o Asociación Profesional, y en su caso, a la Federación de Colegios Profesionales al que pertenezca o haya pertenecido el involucrado en cuestión; y
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+De la resolución, se dará aviso por escrito al Colegio o Asociación Profesional, y en su caso, a la Federación de Colegios Profesionales al que pertenezca o haya pertenecido el involucrado en cuestión;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2015)</small>
 
-VII.- Si durante el desahogo de la audiencia la Auditoría Superior considera que no cuenta con elementos suficientes para resolver, o advierte la existencia de elementos que probablemente impliquen una nueva irregularidad a cargo del involucrado, podrá suspender la audiencia y disponer la práctica de investigaciones y citar para otras audiencias, para que una vez desahogadas éstas, la Auditoría Superior se pronuncie respecto de la suspensión decretada, señalando día y hora para continuar con el desahogo de la audiencia principal.
+VII.- Si durante el desahogo de la audiencia la Auditoría Superior considera que no cuenta con elementos suficientes para resolver, o advierte la existencia de elementos que probablemente impliquen una nueva irregularidad a cargo del involucrado, podrá suspender la audiencia y disponer la práctica de investigaciones y citar para otras audiencias, para que una vez desahogadas éstas, la Auditoría Superior se pronuncie respecto de la suspensión decretada, señalando día y hora para continuar con el desahogo de la audiencia principal, y
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
+
+VIII.- Si el involucrado fallece en cualquier etapa del Procedimiento, procederá el sobreseimiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1745,7 +1767,7 @@ II.- Que no ha lugar a iniciar o promover en contra del denunciado, algún proce
 
 ###### Artículo 96.
 
-El acuerdo a que se refiere el artículo 9I de esta Ley, así como la resolución de la queja o denuncia, se notificarán al promovente, conforme a la presente Ley.
+El acuerdo a que se refiere el artículo 91 de esta Ley, así como la resolución de la queja o denuncia, se notificarán al promovente, conforme a la presente Ley.
 
 ###### Artículo 97.
 
@@ -1863,7 +1885,9 @@ I.- En tres años si el Beneficio Económico obtenido o el Daño causado por el 
 
 II.- En cinco años en todos los demás casos.
 
-Artículo102.- El plazo de la prescripción se contará a partir del día siguiente a aquél en que se hubiere incurrido en la probable responsabilidad o a partir del momento en que hubiere cesado.
+###### Artículo 102.
+
+El plazo de la prescripción se contará a partir del día siguiente a aquél en que se hubiere incurrido en la probable responsabilidad o a partir del momento en que hubiere cesado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2463,7 +2487,7 @@ Segundo.- Se abroga la Ley del Órgano de Fiscalización Superior del Estado de 
 
 Tercero.- El Reglamento Interior del Órgano de Fiscalización Superior del Estado de Puebla, publicado en el Periódico Oficial del Estado de Puebla con fecha diecisiete de diciembre de dos mil uno, estará vigente en todo lo que no se oponga a la Ley materia del presente Decreto y hasta en tanto se emita el ordenamiento que lo sustituya.
 
-El Titular del Órgano Fiscalizador emitirá en el plazo de I80 días naturales siguientes a la entrada en vigor de la presente Ley, el Reglamento Interior del propio Órgano Fiscalizador.
+El Titular del Órgano Fiscalizador emitirá en el plazo de 180 días naturales siguientes a la entrada en vigor de la presente Ley, el Reglamento Interior del propio Órgano Fiscalizador.
 
 Sin perjuicio de lo anterior, los asuntos que se encuentren en trámite o en proceso en el Órgano Fiscalizador al entrar en vigor la Ley materia del presente Decreto, se seguirán tramitando hasta su conclusión en términos del citado Reglamento.
 
@@ -2479,7 +2503,7 @@ Octavo.- Los convenios y contratos que hubiere celebrado el Órgano Fiscalizador
 
 Noveno.- Todos los bienes muebles e inmuebles, archivos, expedientes, papeles de trabajo, documentos, recursos presupuestales y humanos con que cuente el Órgano Fiscalizador a la entrada en vigor del presente Decreto, continuarán formando parte de su estructura orgánica y patrimonio, en los términos que establezca esta Ley y el Reglamento Interior de dicho Órgano.
 
-EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintinueve días del mes de julio de dos mil diez.- Diputado Presidente.- JOEL JAIME HERNÁNDEZ RUIZ.- Rúbrica.- Diputado Vicepresidente.- MANUEL FERNÁNDEZ GARCÍA.- Rúbrica.- Diputada Secretaria.- MARÍA ANGÉLICA HERNÁNDEZ HERNÁNDEZ.- Rúbrica.- Diputado Secretario.-ANDRÉS RICARDO MAClP MONTERROSAS.- Rúbrica.
+EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintinueve días del mes de julio de dos mil diez.- Diputado Presidente.- JOEL JAIME HERNÁNDEZ RUIZ.- Rúbrica.- Diputado Vicepresidente.- MANUEL FERNÁNDEZ GARCÍA.- Rúbrica.- Diputada Secretaria.- MARÍA ANGÉLICA HERNÁNDEZ HERNÁNDEZ.- Rúbrica.- Diputado Secretario.-ANDRÉS RICARDO MACIP MONTERROSAS.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica (sic) Puebla de Zaragoza, a los dos días del mes de agosto de dos mil diez.- El Gobernador Constitucional del Estado.-LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
 
@@ -2516,3 +2540,9 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 PRIMERO.- El presente Decreto se deberá publicar en el Periódico Oficial del Estado, entrando en vigor al día hábil siguiente de su publicación.
 
 SEGUNDO.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
