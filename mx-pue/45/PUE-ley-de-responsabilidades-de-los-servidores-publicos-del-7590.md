@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7590"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-29"
-last_updated: "2012-01-02"
+last_updated: "2015-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de junio de 1984.
 
@@ -191,7 +191,7 @@ En el Congreso del Estado se constituirá una Comisión Instructora que se encar
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante el Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2005)</small>
 
 ###### Artículo 14.
 
@@ -421,6 +421,10 @@ IX BIS.- Atender las instrucciones, requerimientos y resoluciones que reciban de
 
 Para el caso de servidores públicos que hayan concluido su cargo, que por cualquier razón hubieren tenido bajo su responsabilidad la captación, recaudación, manejo, administración, control, resguardo, custodia, ejercicio, o aplicación de recursos, fondos, bienes o valores públicos municipales Estatales o Federales, deberán estar a lo dispuesto en esta fracción hasta que se hubiere aprobado la cuenta pública o se haya emitido resolución correspondiente.
 
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2015)</small>
+
+Lo dispuesto en el presente artículo, también será aplicable para el servidor público que sustituya a otro por motivo de fallecimiento, aún y cuando las instrucciones, requerimientos y resoluciones, correspondan al ejercicio o periodo de gestión de su antecesor.
+
 X.- Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores por más de tres días continuos o quince discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando no estén justificadas;
 
 XI.- Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley le prohiba;
@@ -581,7 +585,7 @@ En caso de imposición de sanciones económicas, por beneficios obtenidos, daño
 
 Se otorgará un plazo máximo de tres años, para que el servidor público pague la sanción económica que se le imponga; pero en ningún caso, los pagos que se convengan dejarán al servidor con una percepción inferior al salario mínimo vigente en la zona económica donde labore.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 62.
 
@@ -667,7 +671,9 @@ Entre la fecha de citación y la de audiencia deberá mediar un plazo no menor d
 
 II.- Desahogada la audiencia señalada en la Fracción anterior, la Autoridad resolverá dentro de los treinta días hábiles siguientes si existe o no responsabilidad, imponiendo, en su caso, al infractor, las sanciones administrativas correspondientes y notificará la resolución al servidor público y, en su caso, al Superior Jerárquico dentro de los treinta días hábiles siguientes;
 
-III.- Si en la audiencia, encontrare que no cuenta con elementos suficientes para resolver, o advierta elementos que impliquen nueva responsabilidad administrativa a cargo del encausado o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2015)</small>
+
+III.- Si en la audiencia, encontrare que no cuenta con elementos suficientes para resolver, o advierta elementos que impliquen nueva responsabilidad administrativa a cargo del encausado o de otras personas, podrá disponer la práctica de investigaciones y citar para otras audiencias;
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
@@ -677,9 +683,13 @@ IV.- En cualquier momento, previo o posteriormente al citatorio al que se refier
 
 La suspensión provisional a que se refiere el párrafo anterior suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio; ésta cesará cuando así lo resuelva la autoridad correspondiente, con independencia a la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo en relación con la probable responsabilidad de los servidores públicos.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2015)</small>
 
-Si el Servidor Público suspendido provisionalmente, no resultare responsable de la falta o faltas que se le imputen, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debió percibir durante el tiempo en que estuvo suspendido.
+Si el Servidor Público suspendido provisionalmente, no resultare responsable de la falta o faltas que se le imputen, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debió percibir durante el tiempo en que estuvo suspendido, y
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
+
+V.- Si el probable responsable fallece en cualquier etapa del Procedimiento, procederá el sobreseimiento; sin perjuicio de que las autoridades competentes, realicen las acciones a que haya lugar, conforme a las disposiciones legales aplicables.
 
 ###### Artículo 69.
 
@@ -789,7 +799,7 @@ El Congreso del Estado, el Tribunal Superior de Justicia, la Secretaría y los A
 
 En el caso de los Servidores Públicos Municipales de elección popular, será ante la Contaduría Mayor de Hacienda del Propio Congreso del Estado en donde éstos deberán presentar su Declaración de Situación Patrimonial, en los mismos términos que establece esta Ley para el Funcionario Público obligado a cumplir con su Declaración en dicho Poder.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 82.
 
@@ -933,7 +943,7 @@ El Gobernador hará publicar y cumplir la presente disposición.- Dado en el Pal
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los veintiocho días del mes de junio de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Melquiades Morales Flores.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE JULIO DE 1986.
 
@@ -988,3 +998,9 @@ P.O. 2 DE ENERO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
