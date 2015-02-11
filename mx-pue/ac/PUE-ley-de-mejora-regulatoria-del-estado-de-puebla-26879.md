@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-mejora-regulatoria-del-estado-de-puebla-26879"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-25"
-last_updated: "2002-11-25"
+last_updated: "2015-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE GOBERNANZA REGULATORIA PARA EL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 11 DE FEBRERO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial, el 25 de noviembre de 2002.
 
@@ -253,4 +255,26 @@ En un periodo no mayor a sesenta días hábiles, se creará el Organismo Públic
 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los catorce días del mes de noviembre de dos mil dos.- Diputado Presidente.- ADRIÁN VICTOR HUGO ISLAS HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- JUAN RAMÍREZ RAMÍREZ.- Rúbrica.- Diputado Secretario.- JOSÉ GERARDO HILARIO GARCILAZO MARTÍNEZ.- Rúbrica.- Diputada Secretaria.- MARÍA SARA CAMELIA CHILACA MARTÍNEZ.- Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los quince días del mes de noviembre del año dos mil dos.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbricca.
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los quince días del mes de noviembre del año dos mil dos.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE FEBRERO DE 2015.
+
+PRIMERO. La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se abroga la Ley de Mejora Regulatoria del Estado de Puebla, publicada en el Periódico Oficial del Estado, con fecha 25 de noviembre del 2002.
+
+TERCERO. El Reglamento de la presente Ley, deberá expedirse en un plazo máximo de ciento ochenta días hábiles, contados a partir de la fecha de publicación de esta Ley.
+
+CUARTO. El Plan Estatal de Mejora Regulatoria para la actual Administración Pública, deberá elaborarse en un plazo máximo de seis meses, contados a partir de la entrada en vigor de la presente Ley, para su publicación en el Periódico Oficial del Estado.
+
+QUINTO. El Tramitapue, y el RUPA, deberán estar operando en los términos prescritos por la presente Ley, en un plazo máximo de ciento ochenta días hábiles, contados a partir de la fecha de publicación de esta Ley en el Periódico Oficial del Estado.
+
+SEXTO. La Unidad de Mejora Regulatoria se integrará por los servidores públicos con los que actualmente cuenta la Dirección General de Desarrollo Administrativo y Mejora Regulatoria, de la Secretaría.
+
+SÉPTIMO. La Secretaría Ejecutiva se integrará por los servidores públicos con los que actualmente cuenta la Dirección de Eficiencia Gubernamental, de la Secretaría.
+
+OCTAVO. Las erogaciones que se deriven de la aplicación de esta Ley, estarán sujetas a la suficiencia presupuestal correspondiente.
+
+NOVENO. Se derogan todas las disposiciones que se opongan a la presente Ley.
