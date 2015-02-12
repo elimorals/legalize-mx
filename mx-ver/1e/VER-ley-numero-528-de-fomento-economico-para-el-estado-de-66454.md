@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-528-de-fomento-economico-para-el-estado-de-66454"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-30"
-last_updated: "2013-07-30"
+last_updated: "2015-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 528 DE FOMENTO ECONÓMICO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2015.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de enero de 2009.
 
@@ -56,6 +56,10 @@ El fomento al desarrollo económico se impulsa a través de políticas públicas
 ###### Artículo 3.
 
 La aplicación de esta Ley corresponde al Poder Ejecutivo, por conducto de la Secretaría de Desarrollo Económico y Portuario, sin perjuicio de lo que otras leyes prevengan, o de las atribuciones que en la materia otorguen este y otros ordenamientos a las dependencias y entidades del Poder Ejecutivo en el ámbito estatal y a los Ayuntamientos en el municipal.
+
+> <small>(ADICIONADO, G.O. 12 DE FEBRERO DE 2015)</small>
+
+Atendiendo a las disposiciones de esta Ley y a las demás que de ella emanen, la Secretaría de Desarrollo Económico dictará las disposiciones que deban observar las dependencias y entidades de la Administración Pública, que tengan por objeto promover e incentivar la participación de las empresas estatales, especialmente de las Micro, Pequeñas y Medianas, para su inclusión en los sectores industrial, comercial, gubernamental y de bienes y servicios.
 
 ###### Artículo 4.
 
@@ -201,7 +205,11 @@ XX. Establecer una Unidad de Acceso a la Información Pública y nombrar a los s
 
 XXI. Formular su Reglamento Interior; y
 
-XXII. Todas aquellas que se deriven del presente ordenamiento o de la legislación aplicable.
+> <small>(ADICIONADA, G.O. 12 DE FEBRERO DE 2015)</small>
+
+XXII. Proponer políticas de financiamiento, estímulos y fomento orientados al desarrollo de las Micro, Pequeñas y Medianas Empresas locales, para su inclusión en los sectores industrial, comercial, gubernamental y de bienes y servicios; y
+
+XXIII. Todas aquellas que se deriven del presente ordenamiento o de la legislación aplicable.
 
 ###### Artículo 9.
 
@@ -666,3 +674,9 @@ P.O. 11 DE MAYO DE 2011.
 G.O. 30 DE JULIO DE 2013.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 12 DE FEBRERO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
